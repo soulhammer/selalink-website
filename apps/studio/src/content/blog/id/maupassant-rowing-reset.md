@@ -5,7 +5,7 @@ pubDate: "2026-06-11"
 updatedDate: "2026-06-11"
 category: "BuildSelf"
 tags: ["Reset Otak","Routine"]
-heroImage: "/images/blog/maupassant_rowing_reset.webp"
+heroImage: "/images/blog/maupassant_rowing_reset.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi 'Guy de Maupassant: Étude Scientifique' & Jurnal Journal of Applied Physiology"

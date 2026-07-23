@@ -5,7 +5,7 @@ pubDate: "2026-01-24"
 updatedDate: "2026-01-24"
 category: "BuildSelf"
 tags: ["¿El noveli","Routine"]
-heroImage: "/images/blog/mann_strict_schedule.webp"
+heroImage: "/images/blog/mann_strict_schedule.png"
 app: "buildself"
 formatVersion: 4
 authority: "Thomas Mann: A Life de Donald Prater y Deep Work de Cal Newport"

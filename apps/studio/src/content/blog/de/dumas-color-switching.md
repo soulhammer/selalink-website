@@ -5,7 +5,7 @@ pubDate: "2026-06-07"
 updatedDate: "2026-06-07"
 category: "BuildSelf"
 tags: ["Das Genie,","Routine"]
-heroImage: "/images/blog/dumas_color_switching.webp"
+heroImage: "/images/blog/dumas_color_switching.png"
 app: "buildself"
 formatVersion: 4
 authority: "Alexandre Dumas' Memoiren 'Mes Mémoires' & Studien aus Color Research and Application"

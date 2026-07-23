@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Great Habits","keynes","Routine","Stamina"]
-heroImage: "/images/blog/keynes_morning_bed_work.webp"
+heroImage: "/images/blog/keynes_morning_bed_work.png"
 app: "buildself"
 formatVersion: 4
 authority: "Robert Skidelsky's 'John Maynard Keynes' and Neuroscientific Clinical Research on Cortisol Awakening Response (CAR) and Prefrontal Executive Functioning"

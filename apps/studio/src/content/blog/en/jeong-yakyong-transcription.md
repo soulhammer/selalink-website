@@ -5,7 +5,7 @@ pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
 tags: ["Great Habits","jeong","Routine","Stamina"]
-heroImage: "/images/blog/jeong_yakyong_transcription.webp"
+heroImage: "/images/blog/jeong_yakyong_transcription.png"
 app: "buildself"
 formatVersion: 4
 authority: "Korean Studies Institute 'Yeoyudang Jeonseo' Documents & Dasan Institute Academic Research"

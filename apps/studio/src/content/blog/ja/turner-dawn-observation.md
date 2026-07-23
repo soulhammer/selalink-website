@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["光を脳に刻む？ターナ","Routine"]
-heroImage: "/images/blog/turner_dawn_observation.webp"
+heroImage: "/images/blog/turner_dawn_observation.png"
 app: "buildself"
 formatVersion: 4
 authority: "ターナー伝記「J.M.W. Turner」および時空間作業記憶の学術研究"

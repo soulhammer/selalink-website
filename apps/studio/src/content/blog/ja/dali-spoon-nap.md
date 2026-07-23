@@ -5,7 +5,7 @@ pubDate: "2026-03-07"
 updatedDate: "2026-03-07"
 category: "BuildSelf"
 tags: ["スプーンを握って昼寝","Routine"]
-heroImage: "/images/blog/dali_spoon_nap.webp"
+heroImage: "/images/blog/dali_spoon_nap.png"
 app: "buildself"
 formatVersion: 4
 authority: "サルバドール・ダリ自伝『ダリの秘密の生涯』＆ Frontiers in Human Neuroscience 学術誌"

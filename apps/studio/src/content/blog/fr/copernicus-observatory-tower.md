@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Tour d'obs","Routine"]
-heroImage: "/images/blog/copernicus_observatory_tower.webp"
+heroImage: "/images/blog/copernicus_observatory_tower.png"
 app: "buildself"
 formatVersion: 4
 authority: "Préface historique de 'De revolutionibus' et recherche de l'Université de Yale sur la neurologie de la cognition spatiale (Spatial Cognition)"

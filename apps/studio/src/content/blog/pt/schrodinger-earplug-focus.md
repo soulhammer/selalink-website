@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Defina o v","Routine"]
-heroImage: "/images/blog/schrodinger_earplug_focus.webp"
+heroImage: "/images/blog/schrodinger_earplug_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia de Schrödinger 'Schrödinger: Life and Thought' & pesquisa sobre o Sistema Ativador Reticular (SAR)"

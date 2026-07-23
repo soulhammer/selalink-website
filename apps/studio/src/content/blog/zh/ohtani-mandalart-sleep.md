@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["目标可视化与深层休息","Routine"]
-heroImage: "/images/blog/ohtani_mandalart_sleep.webp"
+heroImage: "/images/blog/ohtani_mandalart_sleep.png"
 app: "buildself"
 formatVersion: 4
 authority: "大谷翔平实际高中曼达拉特计划表公开考证及《自然》(Nature)旗下刊物的脑部胶质淋巴系统恢复睡眠研究"

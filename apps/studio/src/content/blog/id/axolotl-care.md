@@ -4,7 +4,7 @@ title: "Bahasa Insang Axolotl dan Rutinitas 3 Langkah untuk Perawatan Air Dingin
 description: "Panduan lengkap merawat Axolotl (Salamander Meksiko). Pahami arti insang melengkung, jaga suhu dingin (16°C ~ 18°C), dan cegah tersedak kerikil sesuai standar Amphibian Ark."
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
-heroImage: "/images/blog/axolotl_care.webp"
+heroImage: "/images/blog/axolotl_care.png"
 authority: "Amphibian Ark Veterinary Care Protocol & Standar Pemeliharaan"
 app: "petself"
 formatVersion: 4

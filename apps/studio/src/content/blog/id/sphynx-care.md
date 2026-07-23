@@ -4,7 +4,7 @@ title: "Perawatan Minyak Kulit and Manajemen Suhu Kucing Sphynx yang Tidak Berbu
 description: "Cara membersihkan sebum minyak pada kulit Sphynx and menjaga kehangatan tubuh mereka."
 pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
-heroImage: "/images/blog/sphynx_care.webp"
+heroImage: "/images/blog/sphynx_care.png"
 authority: "Panduan Perawatan Kulit & Perilaku Kucing ISFM"
 app: "petself"
 formatVersion: 4

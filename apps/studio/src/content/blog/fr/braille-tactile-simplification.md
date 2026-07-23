@@ -5,7 +5,7 @@ pubDate: "2026-05-04"
 updatedDate: "2026-05-04"
 category: "BuildSelf"
 tags: ["L'intuitio","Routine"]
-heroImage: "/images/blog/braille_tactile_simplification.webp"
+heroImage: "/images/blog/braille_tactile_simplification.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie 'Louis Braille: A Touch of Genius' & archives de l'UNESCO"

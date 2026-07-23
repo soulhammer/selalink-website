@@ -5,7 +5,7 @@ pubDate: "2026-02-02"
 updatedDate: "2026-02-02"
 category: "BuildSelf"
 tags: ["天才の脳をリセットす","Routine"]
-heroImage: "/images/blog/turing_marathon_running.webp"
+heroImage: "/images/blog/turing_marathon_running.png"
 app: "buildself"
 formatVersion: 4
 authority: "アンドリュー・ホッジス伝記「Alan Turing: The Enigma」および英国陸上連盟アーカイブ"

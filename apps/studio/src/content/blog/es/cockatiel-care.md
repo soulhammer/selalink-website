@@ -4,7 +4,7 @@ title: "Comunicación de la Cresta de la Ninfa y Rutina de 3 Pasos para Prevenir
 description: "Guía completa de cuidado para la ninfa (Cockatiel). Descifra su lenguaje corporal, previene sustos nocturnos y aplica la rutina diaria avalada por la AAV."
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
-heroImage: "/images/blog/cockatiel_care.webp"
+heroImage: "/images/blog/cockatiel_care.png"
 authority: "Asociación de Veterinarios de Aves (AAV) & Normas de Comportamiento Aviar"
 app: "petself"
 formatVersion: 4

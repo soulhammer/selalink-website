@@ -4,7 +4,7 @@ title: "Cuidado Respiratorio y Térmico del Bulldog Francés: Rutina de 3 pasos 
 description: "Los Bulldogs Franceses son propensos al distrés respiratorio y al golpe de calor debido a su cara chata. Aprenda una rutina para cuidar sus arrugas, respiración y articulaciones."
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
-heroImage: "/images/blog/french_bulldog_care.webp"
+heroImage: "/images/blog/french_bulldog_care.png"
 authority: "Directrices oficiales de cuidado del Bulldog Francés de AKC"
 app: "petself"
 formatVersion: 4

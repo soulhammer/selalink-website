@@ -5,7 +5,7 @@ pubDate: "2026-03-20"
 updatedDate: "2026-03-20"
 category: "BuildSelf"
 tags: ["La routine","Routine"]
-heroImage: "/images/blog/nightingale.webp"
+heroImage: "/images/blog/nightingale.png"
 app: "buildself"
 formatVersion: 4
 authority: "Florence Nightingale, *Notes sur les soins infirmiers* (1859) et études neuroscientifiques cognitives"

@@ -5,7 +5,7 @@ pubDate: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "BuildSelf"
 tags: ["Ein Schauk","Routine"]
-heroImage: "/images/blog/kennedy_rocking_chair.webp"
+heroImage: "/images/blog/kennedy_rocking_chair.png"
 app: "buildself"
 formatVersion: 4
 authority: "Memoiren von Dr. Janet Travell (Orthopädin des Weißen Hauses) & Archiv der JFK Presidential Library"

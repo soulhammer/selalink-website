@@ -5,7 +5,7 @@ description: "公的安全基準に基づくブロッコリーの最適な保存
 pubDate: "2026-03-07"
 category: "FreshSnap"
 tags: ["ブロッコリー","科学的に検証された保存ガイド","vegetable"]
-heroImage: "/images/blog/broccoli_storage_hack.webp"
+heroImage: "/images/blog/broccoli_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & EFSA</strong>"

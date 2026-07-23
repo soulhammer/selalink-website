@@ -5,7 +5,7 @@ pubDate: "2026-05-03"
 updatedDate: "2026-05-03"
 category: "BuildSelf"
 tags: ["巴斯德的反馈回路实时","Routine"]
-heroImage: "/images/blog/pasteur.webp"
+heroImage: "/images/blog/pasteur.png"
 app: "buildself"
 formatVersion: 4
 authority: "Gerald L. Geison，*路易斯·巴斯德的私人科学* (1995) 和认知神经科学研究"

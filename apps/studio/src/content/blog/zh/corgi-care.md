@@ -4,7 +4,7 @@ title: "短腿柯基犬的秘诀：呵护关节与脊椎健康的日常3步护�
 description: "因可爱的背影和短腿而闻名的柯基犬。介绍一套预防因身长而易患的脊椎疾病和髌骨脱位的日常3步护理惯例。"
 pubDate: "2026-04-12"
 updatedDate: "2026-04-14"
-heroImage: "/images/blog/corgi_care.webp"
+heroImage: "/images/blog/corgi_care.png"
 authority: "美国彭布罗克威尔士柯基犬俱乐部官方指南与 AKC 健康指南"
 app: "petself"
 formatVersion: 4

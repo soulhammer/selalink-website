@@ -5,7 +5,7 @@ pubDate: "2026-07-02"
 updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["Great Habits","fdr","Routine","Stamina"]
-heroImage: "/images/blog/fdr_stamp_collecting.webp"
+heroImage: "/images/blog/fdr_stamp_collecting.png"
 app: "buildself"
 formatVersion: 4
 authority: "FDR Presidential Library and Museum Records"

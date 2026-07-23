@@ -5,7 +5,7 @@ pubDate: "2026-06-07"
 updatedDate: "2026-06-07"
 category: "BuildSelf"
 tags: ["ベッドの天井に映る自","Routine"]
-heroImage: "/images/blog/kahlo_mirror_painting.webp"
+heroImage: "/images/blog/kahlo_mirror_painting.png"
 app: "buildself"
 formatVersion: 4
 authority: "フリーダ・カーロ伝記「Frida: A Biography of Frida Kahlo」および学術誌「Psychotherapy」"

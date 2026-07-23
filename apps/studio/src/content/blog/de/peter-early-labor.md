@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Mit den Hä","Routine"]
-heroImage: "/images/blog/peter_early_labor.webp"
+heroImage: "/images/blog/peter_early_labor.png"
 app: "buildself"
 formatVersion: 4
 authority: "Peter des Großen Biografie 'Peter the Great: His Life and World' & kognitive prozedurale Gedächtnistheorie"

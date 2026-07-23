@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["开启黎明的向往：郑周","Routine"]
-heroImage: "/images/blog/chung_dawn_breakfast.webp"
+heroImage: "/images/blog/chung_dawn_breakfast.png"
 app: "buildself"
 formatVersion: 4
 authority: "郑周永会长自传《在此清晨亦向往》考证及哈佛医学院(Harvard Medical School)关于睡眠与昼夜节律的研究"

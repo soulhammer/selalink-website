@@ -5,7 +5,7 @@ pubDate: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "BuildSelf"
 tags: ["ホワイトハウスの執務","Routine"]
-heroImage: "/images/blog/kennedy_rocking_chair.webp"
+heroImage: "/images/blog/kennedy_rocking_chair.png"
 app: "buildself"
 formatVersion: 4
 authority: "ホワイトハウス整形外科主治医ジェネット・トラベル（Janet Travell）博士の回想録およびJFK大統領図書館アーカイブ"

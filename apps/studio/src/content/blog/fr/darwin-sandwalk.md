@@ -5,7 +5,7 @@ pubDate: "2026-06-14"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Compléter ","Routine"]
-heroImage: "/images/blog/darwin_sandwalk.webp"
+heroImage: "/images/blog/darwin_sandwalk.png"
 app: "buildself"
 formatVersion: 4
 authority: "L'autobiographie de Charles Darwin et l'étude de l'Université de Stanford sur la marche et la créativité"

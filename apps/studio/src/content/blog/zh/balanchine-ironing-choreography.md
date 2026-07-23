@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["无意识之舞：乔治·巴","Routine"]
-heroImage: "/images/blog/balanchine_ironing_choreography.webp"
+heroImage: "/images/blog/balanchine_ironing_choreography.png"
 app: "buildself"
 formatVersion: 4
 authority: "乔治·巴兰钦传记《巴兰钦》及关于单调运动任务与DMN激活促进创意孵化的神经科学研究"

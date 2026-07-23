@@ -5,7 +5,7 @@ pubDate: "2026-01-12"
 updatedDate: "2026-01-12"
 category: "BuildSelf"
 tags: ["通行人の首輪の綿毛や","Routine"]
-heroImage: "/images/blog/chekhov.webp"
+heroImage: "/images/blog/chekhov.png"
 app: "buildself"
 formatVersion: 4
 authority: "ドナルド・レイフィールド、*アントン・チェーホフ: 人生* (1997) & 認知神経科学研究"

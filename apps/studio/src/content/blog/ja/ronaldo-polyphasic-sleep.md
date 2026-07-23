@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["時代を超えた体力の秘","Routine"]
-heroImage: "/images/blog/ronaldo_polyphasic_sleep.webp"
+heroImage: "/images/blog/ronaldo_polyphasic_sleep.png"
 app: "buildself"
 formatVersion: 4
 authority: "睡眠コーチ、ニック・リトルヘイルズの著書「睡眠」と睡眠医学のレビュー"

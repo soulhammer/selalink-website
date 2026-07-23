@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración para conservar
 pubDate: "2026-05-24"
 category: "FreshSnap"
 tags: ["Aceite de cocina / Oliva","Guía de almacenamiento científicamente probada","condiment"]
-heroImage: "/images/blog/olive_oil_storage_hack.webp"
+heroImage: "/images/blog/olive_oil_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"

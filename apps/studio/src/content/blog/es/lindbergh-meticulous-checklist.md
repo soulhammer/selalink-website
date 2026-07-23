@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["¿Cómo redu","Routine"]
-heroImage: "/images/blog/lindbergh_meticulous_checklist.webp"
+heroImage: "/images/blog/lindbergh_meticulous_checklist.png"
 app: "buildself"
 formatVersion: 4
 authority: "Memorias de Lindbergh 'El espíritu de St. Louis' y Human Factors Journal"

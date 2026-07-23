@@ -4,7 +4,7 @@ title: "天才犬边境牧羊犬的智力游戏与关节保护3步骤常规"
 description: "学习边牧智力游戏与关节保护家庭常规。"
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
-heroImage: "/images/blog/border_collie_care.webp"
+heroImage: "/images/blog/border_collie_care.png"
 authority: "英国 Kennel Club (KC) 边境牧羊犬指南及认知研究"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit f�
 pubDate: "2026-05-12"
 category: "FreshSnap"
 tags: ["Käse","Wissenschaftlich geprüfter Lagerungsratgeber","dairy"]
-heroImage: "/images/blog/cheese_storage_hack.webp"
+heroImage: "/images/blog/cheese_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & FSA</strong>"

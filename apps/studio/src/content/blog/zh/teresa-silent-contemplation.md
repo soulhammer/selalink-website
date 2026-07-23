@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["在贫民窟的痛苦中坚守","Routine"]
-heroImage: "/images/blog/teresa_silent_contemplation.webp"
+heroImage: "/images/blog/teresa_silent_contemplation.png"
 app: "buildself"
 formatVersion: 4
 authority: "特蕾莎修女书信集《Come Be My Light》与学术期刊《JAMA Psychiatry》"

@@ -5,7 +5,7 @@ pubDate: "2026-04-27"
 updatedDate: "2026-04-27"
 category: "BuildSelf"
 tags: ["Great Habits","sejong","Routine","Stamina"]
-heroImage: "/images/blog/sejong_dawn_reading.webp"
+heroImage: "/images/blog/sejong_dawn_reading.png"
 app: "buildself"
 formatVersion: 4
 authority: "Annals of the Joseon Dynasty (Sejong) & Frontiers in Psychology"

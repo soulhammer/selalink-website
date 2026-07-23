@@ -5,7 +5,7 @@ pubDate: "2026-06-11"
 updatedDate: "2026-06-11"
 category: "BuildSelf"
 tags: ["Buku Catat","Routine"]
-heroImage: "/images/blog/erasmus_notebook_travel.webp"
+heroImage: "/images/blog/erasmus_notebook_travel.png"
 app: "buildself"
 formatVersion: 4
 authority: "Erasmus, Praise of Folly / Studi sains kognitif tentang hubungan gerakan fisik dengan terbentuknya gelombang alfa dan fleksibilitas kognitif"

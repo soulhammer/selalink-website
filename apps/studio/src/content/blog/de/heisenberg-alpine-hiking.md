@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Hinweis de","Routine"]
-heroImage: "/images/blog/heisenberg_alpine_hiking.webp"
+heroImage: "/images/blog/heisenberg_alpine_hiking.png"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Belege aus Werner Heisenbergs Autobiografie 'Der Teil und das Ganze' und Stephen Kaplans kognitive Forschung zur Aufmerksamkeit-Wiederherstellungs-Theorie"

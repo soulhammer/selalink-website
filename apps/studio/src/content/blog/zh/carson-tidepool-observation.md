@@ -5,7 +5,7 @@ pubDate: "2026-07-04"
 updatedDate: "2026-07-04"
 category: "BuildSelf"
 tags: ["孕育《寂静的春天》的","Routine"]
-heroImage: "/images/blog/carson_tidepool_observation.webp"
+heroImage: "/images/blog/carson_tidepool_observation.png"
 app: "buildself"
 formatVersion: 4
 authority: "蕾切尔·卡森传记《Rachel Carson: Witness for Nature》与学术期刊《Environmental Science & Technology》"

@@ -5,7 +5,7 @@ pubDate: "2026-05-20"
 updatedDate: "2026-05-20"
 category: "BuildSelf"
 tags: ["より少なく、しかしよ","Routine"]
-heroImage: "/images/blog/rams_morning_swim.webp"
+heroImage: "/images/blog/rams_morning_swim.png"
 app: "buildself"
 formatVersion: 4
 authority: "ディーター・ラムスのデザイン伝記「As Little Design as Possible」および注意力回復理論（ART）研究"

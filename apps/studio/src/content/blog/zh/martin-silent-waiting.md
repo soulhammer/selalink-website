@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["如白纸般的心灵：阿格","Routine"]
-heroImage: "/images/blog/martin_silent_waiting.webp"
+heroImage: "/images/blog/martin_silent_waiting.png"
 app: "buildself"
 formatVersion: 4
 authority: "阿格尼丝·马丁的著作与采访集《阿格尼丝·马丁文集》及关于冥想与脑电波同步对洞察性问题解决影响的研究"

@@ -4,7 +4,7 @@ title: "为胆小内向的俄罗斯蓝猫提供避风港：日常3步信任建�
 description: "俄罗斯蓝猫天生胆小，对噪音极度敏感。介绍如何为其打造无压力的安全区域，以及日常3步建立信任的触碰惯例。"
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
-heroImage: "/images/blog/russian_blue_care.webp"
+heroImage: "/images/blog/russian_blue_care.png"
 authority: "爱猫者协会 (CFA) 培育标准与康奈尔猫科健康中心"
 app: "petself"
 formatVersion: 4

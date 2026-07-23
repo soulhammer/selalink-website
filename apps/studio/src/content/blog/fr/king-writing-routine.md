@@ -5,7 +5,7 @@ pubDate: "2026-05-18"
 updatedDate: "2026-05-18"
 category: "BuildSelf"
 tags: ["Comment do","Routine"]
-heroImage: "/images/blog/king_writing_routine.webp"
+heroImage: "/images/blog/king_writing_routine.png"
 app: "buildself"
 formatVersion: 4
 authority: "Mémoires de Stephen King « Écriture : Mémoires d'un métier » & recherche en neurosciences sur l'apprentissage sensorimoteur"

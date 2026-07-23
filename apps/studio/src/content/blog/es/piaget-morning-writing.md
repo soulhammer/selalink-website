@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["¿Cómo estr","Routine"]
-heroImage: "/images/blog/piaget_morning_writing.webp"
+heroImage: "/images/blog/piaget_morning_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía de Jean Piaget 'Autobiografía' y Revista de neurociencia cognitiva"

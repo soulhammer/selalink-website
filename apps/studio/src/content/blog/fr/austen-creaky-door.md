@@ -5,7 +5,7 @@ pubDate: "2026-03-27"
 updatedDate: "2026-03-27"
 category: "BuildSelf"
 tags: ["Protéger l","Routine"]
-heroImage: "/images/blog/austen_creaky_door.webp"
+heroImage: "/images/blog/austen_creaky_door.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie de Jane Austen & recherche en psychologie cognitive sur le coût du changement de tâche"

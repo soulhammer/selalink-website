@@ -5,7 +5,7 @@ pubDate: "2026-01-25"
 updatedDate: "2026-01-25"
 category: "BuildSelf"
 tags: ["步行的的大脑创造天才","Routine"]
-heroImage: "/images/blog/mill_classical_walk.webp"
+heroImage: "/images/blog/mill_classical_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "约翰·斯图亚特·穆勒自传《Autobiography》与学术期刊《Nature Reviews Neuroscience》"

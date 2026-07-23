@@ -5,7 +5,7 @@ pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
 tags: ["一日12時間眠り数々","Routine"]
-heroImage: "/images/blog/federer_sleep_recovery.webp"
+heroImage: "/images/blog/federer_sleep_recovery.png"
 app: "buildself"
 formatVersion: 4
 authority: "クリストファー・クレアリー評伝「The Master」およびNature Neuroscience睡眠論文"

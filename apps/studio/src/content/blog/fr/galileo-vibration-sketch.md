@@ -5,7 +5,7 @@ pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
 tags: ["Les croqui","Routine"]
-heroImage: "/images/blog/galileo_vibration_sketch.webp"
+heroImage: "/images/blog/galileo_vibration_sketch.png"
 app: "buildself"
 formatVersion: 4
 authority: "Stillman Drake, Galilée au travail / Recherche en sciences cognitives sur le traitement visuospatial et le croquis"

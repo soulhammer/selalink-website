@@ -5,7 +5,7 @@ pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
 tags: ["Os esboços","Routine"]
-heroImage: "/images/blog/galileo_vibration_sketch.webp"
+heroImage: "/images/blog/galileo_vibration_sketch.png"
 app: "buildself"
 formatVersion: 4
 authority: "Stillman Drake, Galileu no Trabalho / Pesquisa em ciência cognitiva sobre processamento visuoespacial e esboços"

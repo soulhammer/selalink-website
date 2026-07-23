@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["O som das ","Routine"]
-heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
+heroImage: "/images/blog/flaubert_gueuloir_recitation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Correspondência de Flaubert e estudos psicolinguísticos sobre a Teoria da Dupla Codificação e deteção de erros por feedback auditivo"

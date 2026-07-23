@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Great Habits","soseki","Routine","Stamina"]
-heroImage: "/images/blog/soseki_forced_writing.webp"
+heroImage: "/images/blog/soseki_forced_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Historical letters of Natsume Soseki & Emil Kraepelin's Work Excitement Theory"

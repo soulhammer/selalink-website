@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Great Habits","luther","Routine","Stamina"]
-heroImage: "/images/blog/luther_lute_meditation.webp"
+heroImage: "/images/blog/luther_lute_meditation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Luther's Works, Vol. 49 (Letters) and Harvard Medical School Research on Music Therapy and Autonomic Nervous System Reactions"

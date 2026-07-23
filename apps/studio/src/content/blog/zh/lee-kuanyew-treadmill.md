@@ -5,7 +5,7 @@ pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
 tags: ["释放建国压力的汗水？","Routine"]
-heroImage: "/images/blog/lee_kuanyew_treadmill.webp"
+heroImage: "/images/blog/lee_kuanyew_treadmill.png"
 app: "buildself"
 formatVersion: 4
 authority: "李光耀回忆录《The Singapore Story》与新加坡国家档案馆历史文献"

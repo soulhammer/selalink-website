@@ -5,7 +5,7 @@ pubDate: "2026-03-06"
 updatedDate: "2026-03-06"
 category: "BuildSelf"
 tags: ["O filósofo","Routine"]
-heroImage: "/images/blog/socrates_walking_dialogue.webp"
+heroImage: "/images/blog/socrates_walking_dialogue.png"
 app: "buildself"
 formatVersion: 4
 authority: "Obra de Platão 'Diálogos' e estudo da Universidade de Stanford sobre o caminhar e o pensamento criativo (2014)"

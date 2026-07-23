@@ -5,7 +5,7 @@ pubDate: "2026-06-07"
 updatedDate: "2026-06-07"
 category: "BuildSelf"
 tags: ["按体裁更换稿纸颜色的","Routine"]
-heroImage: "/images/blog/dumas_color_switching.webp"
+heroImage: "/images/blog/dumas_color_switching.png"
 app: "buildself"
 formatVersion: 4
 authority: "大仲马回忆录《Mes Mémoires》与《Color Research and Application》学术研究资料"

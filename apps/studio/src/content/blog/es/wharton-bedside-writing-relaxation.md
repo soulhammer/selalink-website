@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Flujo crea","Routine"]
-heroImage: "/images/blog/wharton_bedside_writing_relaxation.webp"
+heroImage: "/images/blog/wharton_bedside_writing_relaxation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografía de Edith Wharton 'A Backward Glance' e investigación neurofisiológica sobre la activación parasimpática, las ondas cerebrales alfa y el rendimiento de la escritura creativa"

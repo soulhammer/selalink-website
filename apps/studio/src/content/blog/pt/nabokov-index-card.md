@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Modularida","Routine"]
-heroImage: "/images/blog/nabokov_index_card.webp"
+heroImage: "/images/blog/nabokov_index_card.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografia de Vladimir Nabokov 'Fala, Memória' e pesquisa da teoria da carga cognitiva sobre a otimização da memória de trabalho"

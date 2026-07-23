@@ -4,7 +4,7 @@ title: "Energi Membara Anjing Penarik Kereta: Perawatan 3 Langkah Bulu Ganda dan
 description: "Siberian Husky, anjing penarik kereta salju yang tangguh. Pelajari tips mengatasi stres panas dan rutinitas 3 langkah untuk memenuhi tingkat energi mereka yang besar."
 pubDate: "2026-03-29"
 updatedDate: "2026-03-30"
-heroImage: "/images/blog/husky_care.webp"
+heroImage: "/images/blog/husky_care.png"
 authority: "Panduan Ras Resmi Siberian Husky Club of America & Protokol Aktivitas Anjing Pekerja IAABC"
 app: "petself"
 formatVersion: 4

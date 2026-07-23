@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["迅速な認知力回復：ナ","Routine"]
-heroImage: "/images/blog/napoleon_micro_nap.webp"
+heroImage: "/images/blog/napoleon_micro_nap.png"
 app: "buildself"
 formatVersion: 4
 authority: "ナポレオンの回顧録 ＆ NREM睡眠と認知の目覚めに関する睡眠科学研究"

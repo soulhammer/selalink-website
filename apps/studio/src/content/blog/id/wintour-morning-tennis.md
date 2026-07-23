@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["Kekuatan I","Routine"]
-heroImage: "/images/blog/wintour_morning_tennis.webp"
+heroImage: "/images/blog/wintour_morning_tennis.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi 'Anna: Biografi' & Jurnal Neurologi Korteks Serebral"

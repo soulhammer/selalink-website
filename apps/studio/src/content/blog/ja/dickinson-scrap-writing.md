@@ -5,7 +5,7 @@ pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "BuildSelf"
 tags: ["封筒の裏の偉大なイン","Routine"]
-heroImage: "/images/blog/dickinson_scrap_writing.webp"
+heroImage: "/images/blog/dickinson_scrap_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "ハーバード大学図書館 エミリー・ディキンソン・コレクションおよび封筒詩原稿図録「The Gorgeous Nothings」"

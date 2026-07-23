@@ -5,7 +5,7 @@ pubDate: "2026-03-19"
 updatedDate: "2026-03-19"
 category: "BuildSelf"
 tags: ["在1分钟内检索出过往","Routine"]
-heroImage: "/images/blog/locke_commonplace_book.webp"
+heroImage: "/images/blog/locke_commonplace_book.png"
 app: "buildself"
 formatVersion: 4
 authority: "约翰·洛克论文《制作公共账簿的新方法》与认知行为研究"

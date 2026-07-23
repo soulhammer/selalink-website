@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["散步回来后戴着帽子站","Routine"]
-heroImage: "/images/blog/kierkegaard_standing_write.webp"
+heroImage: "/images/blog/kierkegaard_standing_write.png"
 app: "buildself"
 formatVersion: 4
 authority: "约阿基姆·加尔夫著《索伦·克尔凯郭尔传》及应用工效学期刊(Applied Ergonomics)"

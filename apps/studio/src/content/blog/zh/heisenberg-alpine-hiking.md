@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["大自然赋予的不确定性","Routine"]
-heroImage: "/images/blog/heisenberg_alpine_hiking.webp"
+heroImage: "/images/blog/heisenberg_alpine_hiking.png"
 app: "buildself"
 formatVersion: 4
 authority: "海森堡自传《部分与整体》(Physics and Beyond)历史考证及斯蒂芬·卡普兰注意力恢复理论(Attention Restoration Theory)认知科学研究"

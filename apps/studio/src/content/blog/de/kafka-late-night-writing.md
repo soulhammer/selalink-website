@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Meisterwer","Routine"]
-heroImage: "/images/blog/kafka_late_night_writing.webp"
+heroImage: "/images/blog/kafka_late_night_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Franz Kafkas Briefe 'Letters to Felice' & Fachzeitschrift Frontiers in Psychology"

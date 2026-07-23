@@ -4,7 +4,7 @@ title: "Señales de las Branquias del Ajolote y Rutina de 3 Pasos para Agua Frí
 description: "Guía completa de cuidado para el Ajolote (Axolotl). Interpreta la curvatura de las branquias, mantén agua fría (16°C ~ 18°C) y evita sustratos peligrosos según Amphibian Ark."
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
-heroImage: "/images/blog/axolotl_care.webp"
+heroImage: "/images/blog/axolotl_care.png"
 authority: "Protocolo Veterinario Internacional Amphibian Ark"
 app: "petself"
 formatVersion: 4

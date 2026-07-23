@@ -4,7 +4,7 @@ title: "Juegos de estimulación cerebral y cuidado de articulaciones para el Bor
 description: "Juegos cognitivos y cuidado de articulaciones para el activo Border Collie."
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
-heroImage: "/images/blog/border_collie_care.webp"
+heroImage: "/images/blog/border_collie_care.png"
 authority: "Guía de Border Collie del Kennel Club (KC) y estudios de cognición animal"
 app: "petself"
 formatVersion: 4

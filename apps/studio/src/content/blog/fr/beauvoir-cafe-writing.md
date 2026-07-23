@@ -5,7 +5,7 @@ pubDate: "2026-06-08"
 updatedDate: "2026-06-08"
 category: "BuildSelf"
 tags: ["La philoso","Routine"]
-heroImage: "/images/blog/beauvoir_cafe_writing.webp"
+heroImage: "/images/blog/beauvoir_cafe_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiographie 'La Force de l'âge' de Simone de Beauvoir & 'Journal of Consumer Research'"

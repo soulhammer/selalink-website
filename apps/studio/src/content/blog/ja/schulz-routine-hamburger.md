@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["意思決定疲労の解消：","Routine"]
-heroImage: "/images/blog/schulz_routine_hamburger.webp"
+heroImage: "/images/blog/schulz_routine_hamburger.png"
 app: "buildself"
 formatVersion: 4
 authority: "チャールズ・シュルツ公式伝記『シュルツとピーナッツ』および心理学の自我消耗理論に基づく意思決定疲労（Decision Fatigue）防止の研究"

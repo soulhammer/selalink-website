@@ -5,7 +5,7 @@ pubDate: "2026-01-09"
 updatedDate: "2026-01-09"
 category: "BuildSelf"
 tags: ["Great Habits","elizabeth","Routine","Stamina"]
-heroImage: "/images/blog/elizabeth_classical_translation.webp"
+heroImage: "/images/blog/elizabeth_classical_translation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Elizabeth I Archives and Roger Ascham's 'The Scholemaster'"

@@ -5,7 +5,7 @@ pubDate: "2026-05-22"
 updatedDate: "2026-05-22"
 category: "BuildSelf"
 tags: ["马可·奥勒留的清晨日","Routine"]
-heroImage: "/images/blog/marcus_aurelius_morning_journaling.webp"
+heroImage: "/images/blog/marcus_aurelius_morning_journaling.png"
 app: "buildself"
 formatVersion: 4
 authority: "马可·奥勒留《自省录》 / 关于日记记录对认知行为疗法（CBT）效果的脑认知研究"

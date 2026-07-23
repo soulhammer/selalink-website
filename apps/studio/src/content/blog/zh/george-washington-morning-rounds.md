@@ -5,7 +5,7 @@ pubDate: "2026-07-04"
 updatedDate: "2026-07-04"
 category: "BuildSelf"
 tags: ["乔治·华盛顿的“农耕","Routine"]
-heroImage: "/images/blog/george_washington_morning_rounds.webp"
+heroImage: "/images/blog/george_washington_morning_rounds.png"
 app: "buildself"
 formatVersion: 4
 authority: "乔治·华盛顿的亲笔日志《乔治·华盛顿日记》原本"

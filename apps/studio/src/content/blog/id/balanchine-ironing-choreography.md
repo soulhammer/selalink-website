@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Tarian Baw","Routine"]
-heroImage: "/images/blog/balanchine_ironing_choreography.webp"
+heroImage: "/images/blog/balanchine_ironing_choreography.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi George Balanchine 'Balanchine' dan penelitian neurosains tentang Tugas Motorik Monoton dan aktivasi DMN untuk inkubasi kreatif"

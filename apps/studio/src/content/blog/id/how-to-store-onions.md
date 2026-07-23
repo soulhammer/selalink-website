@@ -5,7 +5,7 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Bawang bombay 
 pubDate: "2026-01-16"
 category: "FreshSnap"
 tags: ["Bawang bombay","Panduan Penyimpanan yang Terbukti Secara Ilmiah","vegetable"]
-heroImage: "/images/blog/onion_storage_hack.webp"
+heroImage: "/images/blog/onion_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & FSA</strong>"

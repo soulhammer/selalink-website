@@ -5,7 +5,7 @@ pubDate: "2026-06-10"
 updatedDate: "2026-06-10"
 category: "BuildSelf"
 tags: ["富を築く知識の複利効","Routine"]
-heroImage: "/images/blog/buffett_reading_habit.webp"
+heroImage: "/images/blog/buffett_reading_habit.png"
 app: "buildself"
 formatVersion: 4
 authority: "エモリー大学読書神経学研究およびバークシャー・ハサウェイ株主書簡"

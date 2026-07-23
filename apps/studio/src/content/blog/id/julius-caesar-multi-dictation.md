@@ -5,7 +5,7 @@ pubDate: "2026-01-14"
 updatedDate: "2026-01-14"
 category: "BuildSelf"
 tags: ["Dikte Simu","Routine"]
-heroImage: "/images/blog/julius_caesar_multi_dictation.webp"
+heroImage: "/images/blog/julius_caesar_multi_dictation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Plutarch's Lives & Twelve Caesars karya Suetonius"

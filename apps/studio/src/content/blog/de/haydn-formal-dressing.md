@@ -5,7 +5,7 @@ pubDate: "2026-04-04"
 updatedDate: "2026-04-04"
 category: "BuildSelf"
 tags: ["Im Anzug z","Routine"]
-heroImage: "/images/blog/haydn_formal_dressing.webp"
+heroImage: "/images/blog/haydn_formal_dressing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Griesingers biografische Notizen & experimentelle Psychologie zur bekleideten Kognition"

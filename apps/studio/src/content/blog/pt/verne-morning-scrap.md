@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["O arquivo ","Routine"]
-heroImage: "/images/blog/verne_morning_scrap.webp"
+heroImage: "/images/blog/verne_morning_scrap.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia de Júlio Verne 'Jules Verne: Inventor of Science Fiction' & teoria de recuperação cognitiva"

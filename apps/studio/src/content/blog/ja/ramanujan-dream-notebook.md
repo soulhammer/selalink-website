@@ -5,7 +5,7 @@ pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "BuildSelf"
 tags: ["夢の中で数学の定理を","Routine"]
-heroImage: "/images/blog/ramanujan_dream_notebook.webp"
+heroImage: "/images/blog/ramanujan_dream_notebook.png"
 app: "buildself"
 formatVersion: 4
 authority: "ロバート・カニゲル評伝「The Man Who Knew Infinity」およびG. H. ハーディ回想録"

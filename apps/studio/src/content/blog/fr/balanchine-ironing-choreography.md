@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Danse du s","Routine"]
-heroImage: "/images/blog/balanchine_ironing_choreography.webp"
+heroImage: "/images/blog/balanchine_ironing_choreography.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie de George Balanchine 'Balanchine' et recherche neuroscientifique sur les tâches motrices monotones et l'activation du DMN pour l'incubation créative"

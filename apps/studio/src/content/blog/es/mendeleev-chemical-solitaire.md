@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["El juego d","Routine"]
-heroImage: "/images/blog/mendeleev_chemical_solitaire.webp"
+heroImage: "/images/blog/mendeleev_chemical_solitaire.png"
 app: "buildself"
 formatVersion: 4
 authority: "Archivos de la Sociedad Química Rusa de los cuadernos de Mendeléyev e investigaciones de Cognitive Research sobre manipulación espacial"

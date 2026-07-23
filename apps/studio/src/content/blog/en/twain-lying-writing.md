@@ -5,7 +5,7 @@ pubDate: "2026-05-20"
 updatedDate: "2026-05-20"
 category: "BuildSelf"
 tags: ["Great Habits","twain","Routine","Stamina"]
-heroImage: "/images/blog/twain_lying_writing.webp"
+heroImage: "/images/blog/twain_lying_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Mark Twain's Autobiography 'Autobiography of Mark Twain' & Journal of Neurophysiology"

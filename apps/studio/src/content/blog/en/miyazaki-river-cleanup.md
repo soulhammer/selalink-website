@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Great Habits","miyazaki","Routine","Stamina"]
-heroImage: "/images/blog/miyazaki_river_cleanup.webp"
+heroImage: "/images/blog/miyazaki_river_cleanup.png"
 app: "buildself"
 formatVersion: 4
 authority: "Ghibli Official Interviews and Brain Mapping Foundation Research on Relaxation Creativity"

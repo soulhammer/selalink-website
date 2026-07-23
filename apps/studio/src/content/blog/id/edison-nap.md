@@ -4,7 +4,7 @@ description: "Ritual tidur siang aneh yang dilakukan Edison setiap kali dia mene
 pubDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["Jenius yan","Routine"]
-heroImage: "/images/blog/edison_nap.webp"
+heroImage: "/images/blog/edison_nap.png"
 app: "buildself"
 formatVersion: 4
 authority: "Catatan Harian dan Pengamatan Edison (1948) & Penelitian Paris Brain Institute"

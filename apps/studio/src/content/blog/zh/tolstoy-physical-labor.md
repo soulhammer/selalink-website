@@ -5,7 +5,7 @@ pubDate: "2026-05-11"
 updatedDate: "2026-05-11"
 category: "BuildSelf"
 tags: ["虽是贵族却在写作前耕","Routine"]
-heroImage: "/images/blog/tolstoy_physical_labor.webp"
+heroImage: "/images/blog/tolstoy_physical_labor.png"
 app: "buildself"
 formatVersion: 4
 authority: "索菲亚·托尔斯泰著《索菲亚·托尔斯泰日记》及临床医学期刊(Journal of Clinical Medicine)"

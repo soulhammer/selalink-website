@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["世界のボリュームをゼ","Routine"]
-heroImage: "/images/blog/schrodinger_earplug_focus.webp"
+heroImage: "/images/blog/schrodinger_earplug_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "シュレーディンガー評伝「Schrödinger: Life and Thought」および前頭葉注意・網様体活性系（RAS）研究"

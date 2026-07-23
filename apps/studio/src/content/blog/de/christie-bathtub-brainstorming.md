@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Äpfel in d","Routine"]
-heroImage: "/images/blog/christie_bathtub_brainstorming.webp"
+heroImage: "/images/blog/christie_bathtub_brainstorming.png"
 app: "buildself"
 formatVersion: 4
 authority: "Agatha Christies Autobiografie „Agatha Christie: Meine gute alte Zeit“ & Journal of Thermal Biology"

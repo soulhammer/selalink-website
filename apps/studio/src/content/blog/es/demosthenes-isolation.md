@@ -4,7 +4,7 @@ description: "Demóstenes superó limitaciones físicas congénitas para convert
 pubDate: "2026-01-28"
 category: "BuildSelf"
 tags: ["¿El orador","Routine"]
-heroImage: "/images/blog/demosthenes_isolation.webp"
+heroImage: "/images/blog/demosthenes_isolation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Vidas paralelas 'Vida de Demóstenes' de Plutarco e investigación sobre control ambiental de la APA"

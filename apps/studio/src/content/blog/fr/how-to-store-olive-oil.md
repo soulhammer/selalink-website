@@ -5,7 +5,7 @@ description: "Découvrez la température, les méthodes et la durée optimales d
 pubDate: "2026-05-24"
 category: "FreshSnap"
 tags: ["Huile de cuisson / Olive","Guide de conservation scientifiquement prouvé","condiment"]
-heroImage: "/images/blog/olive_oil_storage_hack.webp"
+heroImage: "/images/blog/olive_oil_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"

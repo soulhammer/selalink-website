@@ -5,7 +5,7 @@ pubDate: "2026-03-09"
 updatedDate: "2026-03-09"
 category: "BuildSelf"
 tags: ["La dictaci","Routine"]
-heroImage: "/images/blog/aquinas_multi_dictation.webp"
+heroImage: "/images/blog/aquinas_multi_dictation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Bernard Gui, Vida de Santo Tomás de Aquino / Investigación en neurociencia cognitiva sobre la memoria de trabajo y el cambio de contexto"

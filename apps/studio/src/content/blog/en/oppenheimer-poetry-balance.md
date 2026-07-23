@@ -5,7 +5,7 @@ pubDate: "2026-03-08"
 updatedDate: "2026-03-08"
 category: "BuildSelf"
 tags: ["Great Habits","oppenheimer","Routine","Stamina"]
-heroImage: "/images/blog/oppenheimer_poetry_balance.webp"
+heroImage: "/images/blog/oppenheimer_poetry_balance.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biography 'American Prometheus' & Library of Congress Archives"

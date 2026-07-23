@@ -4,7 +4,7 @@ title: "Bahasa Ekor Leopard Gecko dan Rutinitas 3 Langkah untuk Ganti Kulit Aman
 description: "Panduan lengkap merawat Leopard Gecko. Pahami gerak ekor pertahanan, kelola tempat sembunyi lembap (Wet Cave), dan atur zona suhu terarium standar ARAV."
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
-heroImage: "/images/blog/leopard_gecko_care.webp"
+heroImage: "/images/blog/leopard_gecko_care.png"
 authority: "Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines"
 app: "petself"
 formatVersion: 4

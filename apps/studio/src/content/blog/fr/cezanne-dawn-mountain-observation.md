@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["Ressentir ","Routine"]
-heroImage: "/images/blog/cezanne_dawn_mountain_observation.webp"
+heroImage: "/images/blog/cezanne_dawn_mountain_observation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Cezanne : A Memoir de Joachim Gasquet et études de physiologie environnementale sur l'exposition à la lumière bleue matinale, l'activation du noyau suprachiasmatique et le réglage de l'attention visuelle"

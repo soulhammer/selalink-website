@@ -4,7 +4,7 @@ title: "Merawat Kecemasan dan Aktivitas Siamese: Rutinitas 3 Langkah"
 description: "Kucing Siamese sangat bergantung pada pemiliknya. Temukan tips ikatan emosional dan rutinitas bermain aktif 3 langkah untuk mengelola stres mereka."
 pubDate: "2026-02-19"
 updatedDate: "2026-02-19"
-heroImage: "/images/blog/siamese_care.webp"
+heroImage: "/images/blog/siamese_care.png"
 authority: "Panduan Resmi Cat Fanciers' Association (CFA) & Protokol Perilaku Kucing AAFP"
 app: "petself"
 formatVersion: 4

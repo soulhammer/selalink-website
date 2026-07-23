@@ -5,7 +5,7 @@ pubDate: "2026-04-11"
 updatedDate: "2026-04-11"
 category: "BuildSelf"
 tags: ["完全支配时间的方法？","Routine"]
-heroImage: "/images/blog/louis_time_blocking.webp"
+heroImage: "/images/blog/louis_time_blocking.png"
 app: "buildself"
 formatVersion: 4
 authority: "《路易十四回忆录》与学术期刊《Journal of Consumer Research》"

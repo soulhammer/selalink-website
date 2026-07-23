@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Feuille bl","Routine"]
-heroImage: "/images/blog/warhol_morning_dictation.webp"
+heroImage: "/images/blog/warhol_morning_dictation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Récit de l'ouvrage 'The Andy Warhol Diaries' et travaux de l'Université de l'Illinois sur la décharge cognitive"

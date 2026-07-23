@@ -5,7 +5,7 @@ pubDate: "2026-03-09"
 updatedDate: "2026-03-09"
 category: "BuildSelf"
 tags: ["托马斯·阿奎那的多重","Routine"]
-heroImage: "/images/blog/aquinas_multi_dictation.webp"
+heroImage: "/images/blog/aquinas_multi_dictation.png"
 app: "buildself"
 formatVersion: 4
 authority: "贝尔纳·吉《圣托马斯·阿奎那传》 / 关于工作记忆（Working Memory）容量扩张及高速任务切换的认知神经科学研究"

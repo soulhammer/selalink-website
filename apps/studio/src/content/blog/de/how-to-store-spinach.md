@@ -5,7 +5,7 @@ description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit f√
 pubDate: "2026-02-18"
 category: "FreshSnap"
 tags: ["Spinat","Wissenschaftlich gepr√ºfter Lagerungsratgeber","vegetable"]
-heroImage: "/images/blog/spinach_storage_hack.webp"
+heroImage: "/images/blog/spinach_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"

@@ -5,7 +5,7 @@ description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit f√
 pubDate: "2026-02-23"
 category: "FreshSnap"
 tags: ["Pilz","Wissenschaftlich gepr√ºfter Lagerungsratgeber","vegetable"]
-heroImage: "/images/blog/mushroom_storage_hack.webp"
+heroImage: "/images/blog/mushroom_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"

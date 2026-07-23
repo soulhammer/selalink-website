@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["倦怠和存在恐惧的原始","Routine"]
-heroImage: "/images/blog/camus_football_reset.webp"
+heroImage: "/images/blog/camus_football_reset.png"
 app: "buildself"
 formatVersion: 4
 authority: "传记“阿尔伯特·加缪：传记”与学习和记忆的神经生物学"

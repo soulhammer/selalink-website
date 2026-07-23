@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración para conservar
 pubDate: "2026-01-07"
 category: "FreshSnap"
 tags: ["Cebollín","Guía de almacenamiento científicamente probada","vegetable"]
-heroImage: "/images/blog/green_onion_storage_hack.webp"
+heroImage: "/images/blog/green_onion_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"

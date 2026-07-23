@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Great Habits","watson","Routine","Stamina"]
-heroImage: "/images/blog/watson_think_sign.webp"
+heroImage: "/images/blog/watson_think_sign.png"
 app: "buildself"
 formatVersion: 4
 authority: "IBM Corporate Museum Historical Documents and University College London (UCL) Neurological Research on Reflection Mechanisms"

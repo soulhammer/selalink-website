@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["創作の白紙化：アンデ","Routine"]
-heroImage: "/images/blog/warhol_morning_dictation.webp"
+heroImage: "/images/blog/warhol_morning_dictation.png"
 app: "buildself"
 formatVersion: 4
 authority: "アンディ・ウォーホル死後に出版された日記『The Andy Warhol Diaries』歴史的考証およびイリノイ大学の認知負荷外在化（Cognitive Offloading）心理学研究"

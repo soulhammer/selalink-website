@@ -5,7 +5,7 @@ description: "公的安全基準に基づくじゃがいもの最適な保存温
 pubDate: "2026-01-20"
 category: "FreshSnap"
 tags: ["じゃがいも","科学的に検証された保存ガイド","vegetable"]
-heroImage: "/images/blog/potato_storage_hack.webp"
+heroImage: "/images/blog/potato_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>食品医薬品安全処(MFDS) & 農村振興庁(RDA) & FSA</strong>"

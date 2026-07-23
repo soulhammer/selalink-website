@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Cendekiawa","Routine"]
-heroImage: "/images/blog/smith_contemplative_walking.webp"
+heroImage: "/images/blog/smith_contemplative_walking.png"
 app: "buildself"
 formatVersion: 4
 authority: "Karya John Rae 'The Life of Adam Smith' dan Riset Stanford University tentang Kognisi Kreatif dan Berjalan Kaki (Oppezzo & Schwartz, 2014)"

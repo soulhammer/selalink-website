@@ -5,7 +5,7 @@ pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
 tags: ["流配地での500冊執","Routine"]
-heroImage: "/images/blog/jeong_yakyong_transcription.webp"
+heroImage: "/images/blog/jeong_yakyong_transcription.png"
 app: "buildself"
 formatVersion: 4
 authority: "韓国国学振興院所蔵「與猶堂全書」史料および茶山研究所学術研究"

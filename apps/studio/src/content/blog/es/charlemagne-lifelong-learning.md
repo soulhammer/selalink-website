@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["La tableta","Routine"]
-heroImage: "/images/blog/charlemagne_lifelong_learning.webp"
+heroImage: "/images/blog/charlemagne_lifelong_learning.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía de Eginardo 'Life of Carlomagno' e investigación sobre la consolidación de la memoria del sueño en el hipocampo"

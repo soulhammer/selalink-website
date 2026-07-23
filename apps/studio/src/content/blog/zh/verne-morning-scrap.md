@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["凌晨5点的知识档案：","Routine"]
-heroImage: "/images/blog/verne_morning_scrap.webp"
+heroImage: "/images/blog/verne_morning_scrap.png"
 app: "buildself"
 formatVersion: 4
 authority: "凡尔纳传记《Jules Verne: Inventor of Science Fiction》与认知检索理论"

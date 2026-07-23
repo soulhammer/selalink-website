@@ -5,7 +5,7 @@ pubDate: "2026-01-10"
 updatedDate: "2026-01-10"
 category: "BuildSelf"
 tags: ["Great Habits","rodin","Routine","Stamina"]
-heroImage: "/images/blog/rodin_sculpting_walk.webp"
+heroImage: "/images/blog/rodin_sculpting_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biography 'Auguste Rodin: Art and Life' & Musée Rodin Archives"

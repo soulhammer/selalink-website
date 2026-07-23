@@ -4,7 +4,7 @@ title: "ぬいぐるみのように抱っこされる猫？ラグドールの安
 description: "抱き上げるとぬいぐるみのように力を抜く愛らしい巨大長毛種ラグドール。重い体格から生じやすい下半身の関節トラブル予防と、正しい抱っこの3段階ホームケアを紹介します。"
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
-heroImage: "/images/blog/ragdoll_care.webp"
+heroImage: "/images/blog/ragdoll_care.png"
 authority: "キャットファンシャーズアソシエーション(CFA)公式ラグドールガイド＆AAFP猫フレンドリーガイドライン"
 app: "petself"
 formatVersion: 4

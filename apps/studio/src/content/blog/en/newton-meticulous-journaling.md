@@ -5,7 +5,7 @@ pubDate: "2026-03-30"
 updatedDate: "2026-03-30"
 category: "BuildSelf"
 tags: ["Great Habits","newton","Routine","Stamina"]
-heroImage: "/images/blog/newton_meticulous_journaling.webp"
+heroImage: "/images/blog/newton_meticulous_journaling.png"
 app: "buildself"
 formatVersion: 4
 authority: "Isaac Newton's Manuscript 'The Waste Book' & Psychological Science Journal"

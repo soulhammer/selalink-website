@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["极度专注：阿基米德的","Routine"]
-heroImage: "/images/blog/archimedes_sand_geometry.webp"
+heroImage: "/images/blog/archimedes_sand_geometry.png"
 app: "buildself"
 formatVersion: 4
 authority: "普鲁塔克书信集《对比列传》历史考证及双重编码理论(Dual-Coding Theory)认知研究"

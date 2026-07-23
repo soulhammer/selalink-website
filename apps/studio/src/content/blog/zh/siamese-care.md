@@ -4,7 +4,7 @@ title: "呵护易感到孤独的暹罗猫：情绪稳定与日常3步游戏惯�
 description: "暹罗猫对家长的依赖度极高，易产生分离焦虑。介绍增进情感联结的技巧，以及消耗其充沛体能的日常3步游戏惯例。"
 pubDate: "2026-02-19"
 updatedDate: "2026-02-19"
-heroImage: "/images/blog/siamese_care.webp"
+heroImage: "/images/blog/siamese_care.png"
 authority: "爱猫者协会 (CFA) 官方指南与 AAFP 猫咪行为协议"
 app: "petself"
 formatVersion: 4

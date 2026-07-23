@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración de armazenamen
 pubDate: "2026-02-18"
 category: "FreshSnap"
 tags: ["Espinafre","Guia de armazenamento comprovado cientificamente","vegetable"]
-heroImage: "/images/blog/spinach_storage_hack.webp"
+heroImage: "/images/blog/spinach_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"

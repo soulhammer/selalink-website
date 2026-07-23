@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["La decisió","Routine"]
-heroImage: "/images/blog/augustus_decision_consultation.webp"
+heroImage: "/images/blog/augustus_decision_consultation.png"
 app: "buildself"
 formatVersion: 4
 authority: "La obra de Suetonio 'Las vidas de los doce césares' y la investigación de Daniel Kahneman sobre heurística, pensamiento de Sistema 2 y mitigación del sesgo de confirmación en la toma de decisiones"

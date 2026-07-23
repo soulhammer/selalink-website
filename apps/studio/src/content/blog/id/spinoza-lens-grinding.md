@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Metode Men","Routine"]
-heroImage: "/images/blog/spinoza_lens_grinding.webp"
+heroImage: "/images/blog/spinoza_lens_grinding.png"
 app: "buildself"
 formatVersion: 4
 authority: "Colerus, The Life of Spinoza / Penelitian sains kognitif tentang pengaruh koordinasi tangan-mata terhadap pengaturan Default Mode Network (DMN)"

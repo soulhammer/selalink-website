@@ -5,7 +5,7 @@ pubDate: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "BuildSelf"
 tags: ["Great Habits","kennedy","Routine","Stamina"]
-heroImage: "/images/blog/kennedy_rocking_chair.webp"
+heroImage: "/images/blog/kennedy_rocking_chair.png"
 app: "buildself"
 formatVersion: 4
 authority: "Memoirs of Dr. Janet Travell (White House Orthopedist) & JFK Presidential Library Archives"

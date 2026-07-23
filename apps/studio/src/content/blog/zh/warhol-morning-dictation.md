@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["创作的留白：安迪·沃","Routine"]
-heroImage: "/images/blog/warhol_morning_dictation.webp"
+heroImage: "/images/blog/warhol_morning_dictation.png"
 app: "buildself"
 formatVersion: 4
 authority: "安迪·沃霍尔死后出版的日记《The Andy Warhol Diaries》历史考证及伊利诺伊大学认知负荷外在化(Cognitive Offloading)心理学研究"

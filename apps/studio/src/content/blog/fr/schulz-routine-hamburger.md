@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Éliminer l","Routine"]
-heroImage: "/images/blog/schulz_routine_hamburger.webp"
+heroImage: "/images/blog/schulz_routine_hamburger.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie officielle 'Schulz and Peanuts' et recherche psychologique sur l'épuisement de l'ego prévenant la fatigue décisionnelle"

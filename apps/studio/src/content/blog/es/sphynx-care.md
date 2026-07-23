@@ -4,7 +4,7 @@ title: "Cuidado del sebo de la piel y control de temperatura en gatos Sphynx"
 description: "Limpia exceso de grasa en gatos Sphynx y protégelos del frío."
 pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
-heroImage: "/images/blog/sphynx_care.webp"
+heroImage: "/images/blog/sphynx_care.png"
 authority: "Pautas de la Sociedad Internacional de Medicina Felina (ISFM)"
 app: "petself"
 formatVersion: 4

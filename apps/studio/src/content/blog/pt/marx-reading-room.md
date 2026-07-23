@@ -5,7 +5,7 @@ pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "BuildSelf"
 tags: ["10 horas s","Routine"]
-heroImage: "/images/blog/marx_reading_room.webp"
+heroImage: "/images/blog/marx_reading_room.png"
 app: "buildself"
 formatVersion: 4
 authority: "Arquivos da British Library, Biografia 'Karl Marx: A Life' & revista Cognitive Psychology"

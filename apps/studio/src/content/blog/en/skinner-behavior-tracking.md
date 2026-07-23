@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["Great Habits","skinner","Routine","Stamina"]
-heroImage: "/images/blog/skinner_behavior_tracking.webp"
+heroImage: "/images/blog/skinner_behavior_tracking.png"
 app: "buildself"
 formatVersion: 4
 authority: "B. F. Skinner's autobiography 'Particulars of My Life' & Operant Conditioning Theory"

@@ -5,7 +5,7 @@ pubDate: "2026-07-09"
 updatedDate: "2026-07-09"
 category: "BuildSelf"
 tags: ["Ein 3-Meil","Routine"]
-heroImage: "/images/blog/freud_evening_walk.webp"
+heroImage: "/images/blog/freud_evening_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Sigmund Freuds Biografie 'The Life and Work of Sigmund Freud' & Fachzeitschrift Frontiers in Psychology"

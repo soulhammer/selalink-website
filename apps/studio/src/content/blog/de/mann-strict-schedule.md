@@ -5,7 +5,7 @@ pubDate: "2026-01-24"
 updatedDate: "2026-01-24"
 category: "BuildSelf"
 tags: ["Der Schrif","Routine"]
-heroImage: "/images/blog/mann_strict_schedule.webp"
+heroImage: "/images/blog/mann_strict_schedule.png"
 app: "buildself"
 formatVersion: 4
 authority: "Donald Praters 'Thomas Mann: A Life' & Cal Newports 'Deep Work'"

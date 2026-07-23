@@ -5,7 +5,7 @@ pubDate: "2026-07-02"
 updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["La 'collec","Routine"]
-heroImage: "/images/blog/fdr_stamp_collecting.webp"
+heroImage: "/images/blog/fdr_stamp_collecting.png"
 app: "buildself"
 formatVersion: 4
 authority: "Archives de la Bibliothèque présidentielle FDR"

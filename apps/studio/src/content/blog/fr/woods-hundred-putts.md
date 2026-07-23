@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Jusqu'à 10","Routine"]
-heroImage: "/images/blog/woods_hundred_putts.webp"
+heroImage: "/images/blog/woods_hundred_putts.png"
 app: "buildself"
 formatVersion: 4
 authority: "Manuel d'entraînement officiel de Tiger Woods et recherche sur la réussite des objectifs du Journal of Behavioral Decision Making (JDM)"

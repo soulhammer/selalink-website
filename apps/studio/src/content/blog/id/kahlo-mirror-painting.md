@@ -5,7 +5,7 @@ pubDate: "2026-06-07"
 updatedDate: "2026-06-07"
 category: "BuildSelf"
 tags: ["Melukis Di","Routine"]
-heroImage: "/images/blog/kahlo_mirror_painting.webp"
+heroImage: "/images/blog/kahlo_mirror_painting.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Frida Kahlo 'Frida: A Biography of Frida Kahlo' & Jurnal Psychotherapy"

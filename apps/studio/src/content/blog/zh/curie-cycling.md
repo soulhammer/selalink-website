@@ -4,7 +4,7 @@ description: "居里夫人是首位获得诺贝尔奖的女性，也是唯一一
 pubDate: "2026-02-28"
 category: "BuildSelf"
 tags: ["克服镭研究压力的秘诀","Routine"]
-heroImage: "/images/blog/curie_cycling.webp"
+heroImage: "/images/blog/curie_cycling.png"
 app: "buildself"
 formatVersion: 4
 authority: "艾芙·居里著《居里夫人传》及哈佛健康出版（Harvard Health）运动研究"

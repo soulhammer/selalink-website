@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["圧迫感を消す方法：マ","Routine"]
-heroImage: "/images/blog/phelps_pre_race_routine.webp"
+heroImage: "/images/blog/phelps_pre_race_routine.png"
 app: "buildself"
 formatVersion: 4
 authority: "フェルプス自伝および国際スポーツ心理学会誌（IJSP）のルーティン遂行研究"

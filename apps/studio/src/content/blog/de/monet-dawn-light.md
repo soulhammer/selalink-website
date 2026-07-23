@@ -5,7 +5,7 @@ pubDate: "2026-03-31"
 updatedDate: "2026-03-31"
 category: "BuildSelf"
 tags: ["Der Meiste","Routine"]
-heroImage: "/images/blog/monet_dawn_light.webp"
+heroImage: "/images/blog/monet_dawn_light.png"
 app: "buildself"
 formatVersion: 4
 authority: "Claude Monets Briefe 'Letters of Claude Monet' & Fachzeitschrift Science"

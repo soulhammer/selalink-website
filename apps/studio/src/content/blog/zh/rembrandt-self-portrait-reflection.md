@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["凝视镜中自我的瞬间：","Routine"]
-heroImage: "/images/blog/rembrandt_self_portrait_reflection.webp"
+heroImage: "/images/blog/rembrandt_self_portrait_reflection.png"
 app: "buildself"
 formatVersion: 4
 authority: "阿姆斯特丹伦勃朗故居博物馆收藏记录考证及镜子自我凝视对大脑内侧前额叶皮层（mPFC）影响的神经科学研究成果"

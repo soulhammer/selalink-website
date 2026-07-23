@@ -4,7 +4,7 @@ title: "Guía de socialización y rutina de 3 pasos para el pelaje doble del per
 description: "Aprende métodos de socialización para el perro Jindo y una rutina para su pelaje doble."
 pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
-heroImage: "/images/blog/jindo_care.webp"
+heroImage: "/images/blog/jindo_care.png"
 authority: "Pautas estándar de Jindo del Instituto Nacional de Ciencia Animal y KKC"
 app: "petself"
 formatVersion: 4

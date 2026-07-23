@@ -5,7 +5,7 @@ pubDate: "2026-05-23"
 updatedDate: "2026-05-23"
 category: "BuildSelf"
 tags: ["Le secret ","Routine"]
-heroImage: "/images/blog/rutherford_tea_debate.webp"
+heroImage: "/images/blog/rutherford_tea_debate.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie 'Rutherford: Life and Letters' & archives du Laboratoire Cavendish"

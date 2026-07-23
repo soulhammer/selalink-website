@@ -4,7 +4,7 @@ title: "Guía de protección de espalda del Teckel y rutina de 3 pasos para fort
 description: "Cuidado del perro de cuerpo largo y patas cortas, el Teckel (Dachshund). Aprenda a reconocer señales de dolor de espalda y proteja sus articulaciones."
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
-heroImage: "/images/blog/dachshund_care.webp"
+heroImage: "/images/blog/dachshund_care.png"
 authority: "Guía de salud del Dachshund del American Kennel Club y Estándares de la Asociación Veterinaria de la Columna"
 app: "petself"
 formatVersion: 4

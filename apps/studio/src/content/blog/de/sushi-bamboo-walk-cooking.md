@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["Das Exil m","Routine"]
-heroImage: "/images/blog/sushi_bamboo_walk_cooking.webp"
+heroImage: "/images/blog/sushi_bamboo_walk_cooking.png"
 app: "buildself"
 formatVersion: 4
 authority: "Su Shi Gesammelte Werke 'Dongpo Quanji' & Lin Yutang Biografie 'The Gay Genius'"

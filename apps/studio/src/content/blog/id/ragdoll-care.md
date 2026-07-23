@@ -4,7 +4,7 @@ title: "Kucing yang Memeluk seperti Boneka? Rutinitas 3 Langkah Gendong Aman dan
 description: "Ragdoll, kucing raksasa berbulu halus yang terkulai seperti boneka saat digendong. Pelajari tips melindungi sendi tubuh besar mereka dan rutinitas 3 langkah gendong aman."
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
-heroImage: "/images/blog/ragdoll_care.webp"
+heroImage: "/images/blog/ragdoll_care.png"
 authority: "Panduan Ras Resmi Cat Fanciers' Association (CFA) & Pedoman Praktik Ramah Kucing AAFP"
 app: "petself"
 formatVersion: 4

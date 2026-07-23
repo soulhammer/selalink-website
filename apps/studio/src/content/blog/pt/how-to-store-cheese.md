@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración de armazenamen
 pubDate: "2026-05-12"
 category: "FreshSnap"
 tags: ["Queijo","Guia de armazenamento comprovado cientificamente","dairy"]
-heroImage: "/images/blog/cheese_storage_hack.webp"
+heroImage: "/images/blog/cheese_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & FSA</strong>"

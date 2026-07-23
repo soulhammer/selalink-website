@@ -5,7 +5,7 @@ pubDate: "2026-06-04"
 updatedDate: "2026-06-04"
 category: "BuildSelf"
 tags: ["Der Erober","Routine"]
-heroImage: "/images/blog/ashoka_edict_inscribed_reflection.webp"
+heroImage: "/images/blog/ashoka_edict_inscribed_reflection.png"
 app: "buildself"
 formatVersion: 4
 authority: "Romila Thapars Historie 'Asoka and the Decline of the Mauryas' & Ashokas Felsenedikte"

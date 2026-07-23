@@ -4,7 +4,7 @@ title: "Pembroke Welsh Corgi Care: A 3-Step Routine for Spine and Joint Health"
 description: "Welsh Corgis are famous for their cute backsides and short legs. Discover a 3-step daily routine to prevent spinal issues and patellar luxation caused by their long backs."
 pubDate: "2026-04-12"
 updatedDate: "2026-04-14"
-heroImage: "/images/blog/corgi_care.webp"
+heroImage: "/images/blog/corgi_care.png"
 authority: "Official Guide of the Pembroke Welsh Corgi Club of America & AKC Health Guidelines"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["用豁达战胜贬谪逆境的","Routine"]
-heroImage: "/images/blog/sushi_bamboo_walk_cooking.webp"
+heroImage: "/images/blog/sushi_bamboo_walk_cooking.png"
 app: "buildself"
 formatVersion: 4
 authority: "苏东坡诗文集《东坡全集》与林语堂著《苏东坡传》史料"

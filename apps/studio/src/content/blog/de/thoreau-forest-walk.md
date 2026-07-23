@@ -5,7 +5,7 @@ pubDate: "2026-04-30"
 updatedDate: "2026-04-30"
 category: "BuildSelf"
 tags: ["Täglich 4 ","Routine"]
-heroImage: "/images/blog/thoreau_forest_walk.webp"
+heroImage: "/images/blog/thoreau_forest_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Thoreaus Walden & kognitive Studien zur Aufmerksamkeit-Wiederherstellungs-Theorie"

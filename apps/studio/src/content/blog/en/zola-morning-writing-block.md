@@ -5,7 +5,7 @@ pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
 tags: ["Great Habits","zola","Routine","Stamina"]
-heroImage: "/images/blog/zola_morning_writing_block.webp"
+heroImage: "/images/blog/zola_morning_writing_block.png"
 app: "buildself"
 formatVersion: 4
 authority: "Henri Mitterand Biography 'Émile Zola' & Émile Zola Correspondence"

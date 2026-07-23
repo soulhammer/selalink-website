@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["¿El secret","Routine"]
-heroImage: "/images/blog/ronaldo_polyphasic_sleep.webp"
+heroImage: "/images/blog/ronaldo_polyphasic_sleep.png"
 app: "buildself"
 formatVersion: 4
 authority: "Reseñas del libro 'Sleep' & Sleep Medicine del entrenador del sueño Nick Littlehales"

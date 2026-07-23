@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Precisión ","Routine"]
-heroImage: "/images/blog/kimgu_brush_meditation.webp"
+heroImage: "/images/blog/kimgu_brush_meditation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Memorias históricas de Kim Gu 'Baekbeomilji' e investigación sobre el control motor fino y la regulación de la ansiedad de la amígdala"

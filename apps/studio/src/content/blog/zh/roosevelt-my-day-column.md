@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["通过写作建立不可动摇","Routine"]
-heroImage: "/images/blog/roosevelt_my_day_column.webp"
+heroImage: "/images/blog/roosevelt_my_day_column.png"
 app: "buildself"
 formatVersion: 4
 authority: "埃莉诺·罗斯福的专栏“我的一天”和实验心理学杂志"

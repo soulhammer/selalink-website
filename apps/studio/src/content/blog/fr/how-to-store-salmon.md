@@ -5,7 +5,7 @@ description: "Découvrez la température, les méthodes et la durée optimales d
 pubDate: "2026-05-02"
 category: "FreshSnap"
 tags: ["Saumon","Guide de conservation scientifiquement prouvé","seafood"]
-heroImage: "/images/blog/salmon_storage_hack.webp"
+heroImage: "/images/blog/salmon_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>FDA & USDA</strong>"

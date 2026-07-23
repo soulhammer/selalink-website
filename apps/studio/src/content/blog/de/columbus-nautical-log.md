@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Der Kapitä","Routine"]
-heroImage: "/images/blog/columbus_nautical_log.webp"
+heroImage: "/images/blog/columbus_nautical_log.png"
 app: "buildself"
 formatVersion: 4
 authority: "Logbuch von 1492 'The Journal of Christopher Columbus' & Historische Biografien"

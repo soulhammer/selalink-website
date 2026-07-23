@@ -5,7 +5,7 @@ pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
 tags: ["A tomada d","Routine"]
-heroImage: "/images/blog/pliny_reading_excerpt.webp"
+heroImage: "/images/blog/pliny_reading_excerpt.png"
 app: "buildself"
 formatVersion: 4
 authority: "Plínio, o Jovem, Cartas (Epistulae III.5) / Pesquisa sobre o Sistema de Ativação Reticular (SAR) e a escrita manual"

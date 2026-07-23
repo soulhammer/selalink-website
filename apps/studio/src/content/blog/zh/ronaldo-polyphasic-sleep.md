@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["永恒体力的秘诀？ C","Routine"]
-heroImage: "/images/blog/ronaldo_polyphasic_sleep.webp"
+heroImage: "/images/blog/ronaldo_polyphasic_sleep.png"
 app: "buildself"
 formatVersion: 4
 authority: "睡眠教练尼克·利特尔黑尔斯 (Nick Littlehales) 的书《睡眠》和睡眠医学评论"

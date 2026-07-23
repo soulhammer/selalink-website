@@ -5,7 +5,7 @@ pubDate: "2026-07-03"
 updatedDate: "2026-07-03"
 category: "BuildSelf"
 tags: ["抄写整本词典？马尔科","Routine"]
-heroImage: "/images/blog/malcolm_dictionary_transcription.webp"
+heroImage: "/images/blog/malcolm_dictionary_transcription.png"
 app: "buildself"
 formatVersion: 4
 authority: "马尔科姆·X自传《The Autobiography of Malcolm X》与学术期刊《Frontiers in Psychology》"

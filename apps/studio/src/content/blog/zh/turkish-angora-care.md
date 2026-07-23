@@ -4,7 +4,7 @@ title: "土耳其安哥拉猫听力与心脏护理：白毛异瞳猫的听障关
 description: "拥有蓝眼或异瞳的土耳其安哥拉猫遗传性先天耳聋及HCM风险高。了解通过手势沟通与毛发梳理的日常3步护理惯例。"
 pubDate: "2026-04-07"
 updatedDate: "2026-04-07"
-heroImage: "/images/blog/turkish_angora_care.webp"
+heroImage: "/images/blog/turkish_angora_care.png"
 authority: "CFA 土耳其安哥拉猫委员会与猫科听力医学标准"
 app: "petself"
 formatVersion: 4

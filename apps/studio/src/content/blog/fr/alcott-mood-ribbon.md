@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Ne pas dér","Routine"]
-heroImage: "/images/blog/alcott_mood_ribbon.webp"
+heroImage: "/images/blog/alcott_mood_ribbon.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie d'Alcott 'Louisa May Alcott: Her Life, Letters, and Journals' & recherche en psychologie cognitive"

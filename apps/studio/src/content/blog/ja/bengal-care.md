@@ -4,7 +4,7 @@ title: "ベンガル猫のエネルギー発散ガイドと3ステップ刺激�
 description: "非常に活発で知的なベンガル猫のケア。彼らの活動的なボディランゲージを理解し、毎日の3ステップ遊びでストレスを解消させましょう。"
 pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
-heroImage: "/images/blog/bengal_care.webp"
+heroImage: "/images/blog/bengal_care.png"
 authority: "国際猫協会（TICA）ベンガル猫基準および猫の行動医学ガイドライン"
 app: "petself"
 formatVersion: 4

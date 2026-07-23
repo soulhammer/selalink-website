@@ -5,7 +5,7 @@ pubDate: "2026-04-30"
 updatedDate: "2026-04-30"
 category: "BuildSelf"
 tags: ["4 horas na","Routine"]
-heroImage: "/images/blog/thoreau_forest_walk.webp"
+heroImage: "/images/blog/thoreau_forest_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Walden de Thoreau & estudos sobre a teoria da restauração da atenção (ART)"

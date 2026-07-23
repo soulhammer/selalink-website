@@ -5,7 +5,7 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Minyak perila 
 pubDate: "2026-06-03"
 category: "FreshSnap"
 tags: ["Minyak perila","Panduan Penyimpanan yang Terbukti Secara Ilmiah","condiment"]
-heroImage: "/images/blog/perilla_oil_storage_hack.webp"
+heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"

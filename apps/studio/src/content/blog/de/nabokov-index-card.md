@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Modularitä","Routine"]
-heroImage: "/images/blog/nabokov_index_card.webp"
+heroImage: "/images/blog/nabokov_index_card.png"
 app: "buildself"
 formatVersion: 4
 authority: "Vladimir Nabokovs Autobiografie ‚Erinnerung, sprich‘ und Forschung zur kognitiven Belastungstheorie zur Optimierung des Arbeitsgedächtnisses"

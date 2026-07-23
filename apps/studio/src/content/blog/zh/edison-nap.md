@@ -4,7 +4,7 @@ description: "每当遇到瓶颈、缺乏创意灵感时，爱迪生就会进行
 pubDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["手握钢球午睡的天才？","Routine"]
-heroImage: "/images/blog/edison_nap.webp"
+heroImage: "/images/blog/edison_nap.png"
 app: "buildself"
 formatVersion: 4
 authority: "爱迪生日记与杂记（1948）及法国巴黎脑研究所（Paris Brain Institute）研究"

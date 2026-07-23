@@ -5,7 +5,7 @@ description: "Découvrez la température, les méthodes et la durée optimales d
 pubDate: "2026-01-20"
 category: "FreshSnap"
 tags: ["Pomme de terre","Guide de conservation scientifiquement prouvé","vegetable"]
-heroImage: "/images/blog/potato_storage_hack.webp"
+heroImage: "/images/blog/potato_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & RDA & FSA</strong>"

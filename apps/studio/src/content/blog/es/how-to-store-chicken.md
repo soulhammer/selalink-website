@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración para conservar
 pubDate: "2026-04-06"
 category: "FreshSnap"
 tags: ["Pollo","Guía de almacenamiento científicamente probada","meat"]
-heroImage: "/images/blog/chicken_storage_hack.webp"
+heroImage: "/images/blog/chicken_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS & CDC</strong>"

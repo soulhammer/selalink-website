@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["黎明前创造力的仪式？","Routine"]
-heroImage: "/images/blog/morrison_pre_dawn_coffee.webp"
+heroImage: "/images/blog/morrison_pre_dawn_coffee.png"
 app: "buildself"
 formatVersion: 4
 authority: "《巴黎评论》对托妮·莫里森和《昼夜节律杂志》的采访"

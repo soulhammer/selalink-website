@@ -5,7 +5,7 @@ pubDate: "2026-06-08"
 updatedDate: "2026-06-08"
 category: "BuildSelf"
 tags: ["Filsuf yan","Routine"]
-heroImage: "/images/blog/beauvoir_cafe_writing.webp"
+heroImage: "/images/blog/beauvoir_cafe_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografi Simone de Beauvoir 'The Prime of Life' & Jurnal 'Journal of Consumer Research'"

@@ -4,7 +4,7 @@ title: "Der engelhafte Golden Retriever? Eine 3-Schritte-Gesundheitsroutine für
 description: "Freundliche und intelligente Golden Retriever. Erfahren Sie Tipps zur Vorbeugung von Hüftdysplasie bei großen Hunden und eine tägliche 3-Schritte-Routine."
 pubDate: "2026-05-28"
 updatedDate: "2026-05-30"
-heroImage: "/images/blog/golden_retriever_care.webp"
+heroImage: "/images/blog/golden_retriever_care.png"
 authority: "Offizieller Rasseführer des American Kennel Clubs (AKC) und IAABC-Verhaltensprotokolle"
 app: "petself"
 formatVersion: 4

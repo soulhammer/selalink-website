@@ -4,7 +4,7 @@ title: "포메라니안의 슬개골 및 호흡기 안정을 위한 3단계 보�
 description: "소형견 포메라니안의 유전적 취약점인 슬개골 탈구 방지 팁과 기관지 협착증(거위소리) 완화를 위한 3단계 데일리 케어를 소개합니다."
 pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
-heroImage: "/images/blog/pomeranian_care.webp"
+heroImage: "/images/blog/pomeranian_care.png"
 authority: "American Pomeranian Club 공식 견종 가이드 및 AVMA 수의학 매뉴얼"
 app: "petself"
 formatVersion: 4

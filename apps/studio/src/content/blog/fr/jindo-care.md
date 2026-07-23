@@ -4,7 +4,7 @@ title: "Guide de socialisation et routine pour le double pelage du fidèle chien
 description: "Socialisation du Jindo et soins pour son double pelage."
 pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
-heroImage: "/images/blog/jindo_care.webp"
+heroImage: "/images/blog/jindo_care.png"
 authority: "Directives de l'Institut National des Sciences Animales de Corée et de la KKC"
 app: "petself"
 formatVersion: 4

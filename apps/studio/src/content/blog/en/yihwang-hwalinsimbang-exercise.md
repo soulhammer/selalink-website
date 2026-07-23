@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Great Habits","yihwang","Routine","Stamina"]
-heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.webp"
+heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.png"
 app: "buildself"
 formatVersion: 4
 authority: "Yi Hwang's 'Hwalinsimbang' and Journal of Clinical Medicine Research on Low-intensity Body Stimulation and Parasympathetic Activation"

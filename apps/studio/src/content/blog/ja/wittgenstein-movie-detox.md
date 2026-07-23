@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["脳の過熱を冷ます：ウ","Routine"]
-heroImage: "/images/blog/wittgenstein_movie_detox.webp"
+heroImage: "/images/blog/wittgenstein_movie_detox.png"
 app: "buildself"
 formatVersion: 4
 authority: "レイ・モンク著『ルートヴィヒ・ウィトゲンシュタイン：天才の義務』および認知心理学の注意分散と問題解決のインキュベーション効果の研究"

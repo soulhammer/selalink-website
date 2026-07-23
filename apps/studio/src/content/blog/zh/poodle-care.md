@@ -4,7 +4,7 @@ title: "聪明贵宾犬的智力游戏与耳部护理3步日常惯例"
 description: "了解如何通过智力游戏缓解高智商贵宾犬的无聊感，并使用3步日常护理惯例预防遗传性耳部感染。"
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
-heroImage: "/images/blog/poodle_care.webp"
+heroImage: "/images/blog/poodle_care.png"
 authority: "美国养犬俱乐部 (AKC) 官方犬种指南与 IAABC 行为学协议"
 app: "petself"
 formatVersion: 4

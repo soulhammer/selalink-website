@@ -4,7 +4,7 @@ title: "ホーランドロップの垂れ耳ケアとビンキーダンスを引
 description: "愛くるしい垂れ耳のホーランドロップ。外耳炎予防、最高潮の喜び表現「ビンキーダンス」、HRS基準に準拠したチモシー無制限給餌の3ステップケアを解説します。"
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
-heroImage: "/images/blog/holland_lop_care.webp"
+heroImage: "/images/blog/holland_lop_care.png"
 authority: "House Rabbit Society (HRS) & 特殊小動物獣医師会 (AEMV)"
 app: "petself"
 formatVersion: 4

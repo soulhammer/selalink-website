@@ -4,7 +4,7 @@ title: "ベタのフレアリングサインと美しいヒレを守る3ステ�
 description: "優雅なヒレを持つベタ（闘魚）。フレアリングのストレスサイン、ラビリンス器官に配慮した水流管理、WSAVA基準に準拠した3ステップケアを解説します。"
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
-heroImage: "/images/blog/betta_fish_care.webp"
+heroImage: "/images/blog/betta_fish_care.png"
 authority: "世界小動物獣医師会 (WSAVA) 水生動物福祉基準"
 app: "petself"
 formatVersion: 4

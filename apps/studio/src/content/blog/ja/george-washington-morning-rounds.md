@@ -5,7 +5,7 @@ pubDate: "2026-07-04"
 updatedDate: "2026-07-04"
 category: "BuildSelf"
 tags: ["ジョージ・ワシントン","Routine"]
-heroImage: "/images/blog/george_washington_morning_rounds.webp"
+heroImage: "/images/blog/george_washington_morning_rounds.png"
 app: "buildself"
 formatVersion: 4
 authority: "ジョージ・ワシントンの自筆営農日誌（Diaries of George Washington）原本"

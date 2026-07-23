@@ -5,7 +5,7 @@ pubDate: "2026-05-20"
 updatedDate: "2026-05-20"
 category: "BuildSelf"
 tags: ["¿Escribir ","Routine"]
-heroImage: "/images/blog/twain_lying_writing.webp"
+heroImage: "/images/blog/twain_lying_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografía de Mark Twain 'Autobiography of Mark Twain' y revista Journal of Neurophysiology"

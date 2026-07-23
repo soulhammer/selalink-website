@@ -5,7 +5,7 @@ pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
 tags: ["Great Habits","zaha","Routine","Stamina"]
-heroImage: "/images/blog/zaha_hadid_fluid_sketching.webp"
+heroImage: "/images/blog/zaha_hadid_fluid_sketching.png"
 app: "buildself"
 formatVersion: 4
 authority: "Philip Jodidio's 'Zaha Hadid: Complete Works' & Pritzker Prize Address"

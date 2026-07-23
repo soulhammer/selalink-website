@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Great Habits","faraday","Routine","Stamina"]
-heroImage: "/images/blog/faraday_numbered_notebook.webp"
+heroImage: "/images/blog/faraday_numbered_notebook.png"
 app: "buildself"
 formatVersion: 4
 authority: "Royal Institution Archives of 'Faraday's Diary' and Cognitive Science Journal Research on Knowledge Externalization and Cognitive Load"

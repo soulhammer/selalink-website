@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["L'excitati","Routine"]
-heroImage: "/images/blog/chung_dawn_breakfast.webp"
+heroImage: "/images/blog/chung_dawn_breakfast.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiographie du président Chung et recherche de la Harvard Medical School sur le sommeil et le rythme circadien"

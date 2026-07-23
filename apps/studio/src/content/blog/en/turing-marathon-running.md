@@ -5,7 +5,7 @@ pubDate: "2026-02-02"
 updatedDate: "2026-02-02"
 category: "BuildSelf"
 tags: ["Great Habits","turing","Routine","Stamina"]
-heroImage: "/images/blog/turing_marathon_running.webp"
+heroImage: "/images/blog/turing_marathon_running.png"
 app: "buildself"
 formatVersion: 4
 authority: "Andrew Hodges' Biography 'Alan Turing: The Enigma' & British Athletic Association Archive"

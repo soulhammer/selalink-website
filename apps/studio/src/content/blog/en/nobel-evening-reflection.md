@@ -5,7 +5,7 @@ pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "BuildSelf"
 tags: ["Great Habits","nobel","Routine","Stamina"]
-heroImage: "/images/blog/nobel_evening_reflection.webp"
+heroImage: "/images/blog/nobel_evening_reflection.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biography 'The Legacy of Alfred Nobel' & Nobel Foundation Archives"

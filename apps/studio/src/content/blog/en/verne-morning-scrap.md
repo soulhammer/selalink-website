@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Great Habits","verne","Routine","Stamina"]
-heroImage: "/images/blog/verne_morning_scrap.webp"
+heroImage: "/images/blog/verne_morning_scrap.png"
 app: "buildself"
 formatVersion: 4
 authority: "Jules Verne's Biography 'Jules Verne: Inventor of Science Fiction' & Cognitive Retrieval Theory"

@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Ritme Kesa","Routine"]
-heroImage: "/images/blog/ieyasu_herb_grinding.webp"
+heroImage: "/images/blog/ieyasu_herb_grinding.png"
 app: "buildself"
 formatVersion: 4
 authority: "Dokumen sejarah tentang koleksi herbal Tokugawa Ieyasu & Penelitian tentang Aktivitas Motorik Ritmis dan Neuromodulasi Serotonin"

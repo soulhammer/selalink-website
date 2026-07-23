@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["沉默之塔：诺贝尔奖得","Routine"]
-heroImage: "/images/blog/pavlov_stimulus_control.webp"
+heroImage: "/images/blog/pavlov_stimulus_control.png"
 app: "buildself"
 formatVersion: 4
 authority: "巴甫洛夫传记《Ivan Pavlov: A Russian Life in Science》与行为心理学刺激控制理论"

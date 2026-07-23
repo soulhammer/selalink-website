@@ -5,7 +5,7 @@ pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "BuildSelf"
 tags: ["¿Revolucio","Routine"]
-heroImage: "/images/blog/montessori_observation_log.webp"
+heroImage: "/images/blog/montessori_observation_log.png"
 app: "buildself"
 formatVersion: 4
 authority: "Libro de Maria Montessori 'The Discovery of the Child' y archivos históricos"

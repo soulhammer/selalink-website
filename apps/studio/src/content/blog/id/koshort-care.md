@@ -4,7 +4,7 @@ title: "Insting yang Liar? Rutinitas 3 Langkah untuk Teritori dan Hidrasi Korean
 description: "Korean Shorthair, dengan insting berburu yang kuat. Pelajari metode hidrasi yang tepat untuk mencegah sistitis pada kucing dan rutinitas harian 3 langkah untuk kenyamanan teritorial."
 pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
-heroImage: "/images/blog/koshort_care.webp"
+heroImage: "/images/blog/koshort_care.png"
 authority: "Panduan Perilaku Cornell Feline Health Center & Manual Perawatan Hewan Pendamping NIAS"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["哲学思维的保管库？黑","Routine"]
-heroImage: "/images/blog/hegel_card_index.webp"
+heroImage: "/images/blog/hegel_card_index.png"
 app: "buildself"
 formatVersion: 4
 authority: "黑格尔传记《Hegel: A Biography》与认知科学学术研究成果"

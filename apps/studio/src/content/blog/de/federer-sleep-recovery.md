@@ -5,7 +5,7 @@ pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
 tags: ["Der Kaiser","Routine"]
-heroImage: "/images/blog/federer_sleep_recovery.webp"
+heroImage: "/images/blog/federer_sleep_recovery.png"
 app: "buildself"
 formatVersion: 4
 authority: "Christopher Clareys Biografie 'The Master' & Nature Neuroscience Schlafstudie"

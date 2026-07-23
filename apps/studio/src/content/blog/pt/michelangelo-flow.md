@@ -5,7 +5,7 @@ pubDate: "2026-03-22"
 updatedDate: "2026-03-22"
 category: "BuildSelf"
 tags: ["Dormir com","Routine"]
-heroImage: "/images/blog/michelangelo_flow.webp"
+heroImage: "/images/blog/michelangelo_flow.png"
 app: "buildself"
 formatVersion: 4
 authority: "Obra de Giorgio Vasari 'Vidas dos Artistas' e teoria da psicologia cognitiva do esgotamento do ego"

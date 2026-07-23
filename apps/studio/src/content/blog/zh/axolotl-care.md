@@ -4,7 +4,7 @@ title: "美西螈（六角恐龙）鳃羽弯曲信号与冷水护理3步日常"
 description: "神秘两栖宠物美西螈（Axolotl）护理指南。解读羽状外鳃前卷压力信号、维持16°C ~ 18°C冷水环境与Amphibian Ark裸缸管理。"
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
-heroImage: "/images/blog/axolotl_care.webp"
+heroImage: "/images/blog/axolotl_care.png"
 authority: "国际两栖动物保育 (Amphibian Ark) 兽医护理协议"
 app: "petself"
 formatVersion: 4

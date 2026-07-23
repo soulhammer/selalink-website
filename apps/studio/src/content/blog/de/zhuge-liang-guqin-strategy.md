@@ -5,7 +5,7 @@ pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "BuildSelf"
 tags: ["Der größte","Routine"]
-heroImage: "/images/blog/zhuge_liang_guqin_strategy.webp"
+heroImage: "/images/blog/zhuge_liang_guqin_strategy.png"
 app: "buildself"
 formatVersion: 4
 authority: "Chroniken der Drei Reiche (Zhuge Liang Biografie) & Brief an meinen Sohn"

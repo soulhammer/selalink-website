@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["发现创造性视觉的奥秘","Routine"]
-heroImage: "/images/blog/saimdang_nature_observation.webp"
+heroImage: "/images/blog/saimdang_nature_observation.png"
 app: "buildself"
 formatVersion: 4
 authority: "申师任堂代表遗作《草虫图》美术史记载与关于注意力恢复理论（Attention Restoration Theory）的环境心理学研究"

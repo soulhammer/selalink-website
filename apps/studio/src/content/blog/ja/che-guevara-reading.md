@@ -5,7 +5,7 @@ pubDate: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "BuildSelf"
 tags: ["密林の塹壕でも本を手","Routine"]
-heroImage: "/images/blog/che_guevara_reading.webp"
+heroImage: "/images/blog/che_guevara_reading.png"
 app: "buildself"
 formatVersion: 4
 authority: "チェ・ゲバラ「ボリビア日記」および学術誌「Brain and Language」"

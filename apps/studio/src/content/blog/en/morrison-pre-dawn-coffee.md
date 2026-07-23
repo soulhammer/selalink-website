@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["Great Habits","morrison","Routine","Stamina"]
-heroImage: "/images/blog/morrison_pre_dawn_coffee.webp"
+heroImage: "/images/blog/morrison_pre_dawn_coffee.png"
 app: "buildself"
 formatVersion: 4
 authority: "The Paris Review Interview with Toni Morrison & Journal of Circadian Rhythms"

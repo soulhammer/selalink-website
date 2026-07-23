@@ -5,7 +5,7 @@ pubDate: "2026-07-06"
 updatedDate: "2026-07-06"
 category: "BuildSelf"
 tags: ["罗斯福早上的高强度体","Routine"]
-heroImage: "/images/blog/theodore_roosevelt.webp"
+heroImage: "/images/blog/theodore_roosevelt.png"
 app: "buildself"
 formatVersion: 4
 authority: "埃德蒙·莫里斯 (Edmund Morris)，*西奥多·罗斯福的崛起* (1979) 和认知神经科学研究"

@@ -4,7 +4,7 @@ title: "ヨークシャーテリアの被毛ケアと膝蓋骨脱臼予防の3�
 description: "シルクのような毛並みが美しいヨークシャーテリア。被毛ケアのコツと、小型犬に多い膝蓋骨脱臼を予防する筋肉トレーニングを解説します。"
 pubDate: "2026-01-02"
 updatedDate: "2026-01-02"
-heroImage: "/images/blog/yorkshire_care.webp"
+heroImage: "/images/blog/yorkshire_care.png"
 authority: "英国ヨークシャーテリアクラブ(YTC)被毛ケアおよび獣医整形外科学行動指針"
 app: "petself"
 formatVersion: 4

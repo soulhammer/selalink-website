@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["将世界音量调为零：诺","Routine"]
-heroImage: "/images/blog/schrodinger_earplug_focus.webp"
+heroImage: "/images/blog/schrodinger_earplug_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "薛定谔传记《Schrödinger: Life and Thought》与前额叶注意力网状激活系统（RAS）研究"

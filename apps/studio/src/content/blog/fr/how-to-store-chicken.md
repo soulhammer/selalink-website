@@ -5,7 +5,7 @@ description: "Découvrez la température, les méthodes et la durée optimales d
 pubDate: "2026-04-06"
 category: "FreshSnap"
 tags: ["Poulet","Guide de conservation scientifiquement prouvé","meat"]
-heroImage: "/images/blog/chicken_storage_hack.webp"
+heroImage: "/images/blog/chicken_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS & CDC</strong>"

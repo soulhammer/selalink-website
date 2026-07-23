@@ -5,7 +5,7 @@ pubDate: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "BuildSelf"
 tags: ["Warum selb","Routine"]
-heroImage: "/images/blog/che_guevara_reading.webp"
+heroImage: "/images/blog/che_guevara_reading.png"
 app: "buildself"
 formatVersion: 4
 authority: "Che Guevaras Bolivianisches Tagebuch & Fachzeitschrift Brain and Language"

@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["流刑地の絶望を乗り越","Routine"]
-heroImage: "/images/blog/sushi_bamboo_walk_cooking.webp"
+heroImage: "/images/blog/sushi_bamboo_walk_cooking.png"
 app: "buildself"
 formatVersion: 4
 authority: "蘇東坡詩文集「東坡全集」および林語堂著「蘇東坡伝」史料"

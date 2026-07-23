@@ -4,7 +4,7 @@ description: "Immanuel Kant, the giant of modern philosophy. Introduce the brain
 pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Great Habits","kant","Routine","Stamina"]
-heroImage: "/images/blog/kant_walk.webp"
+heroImage: "/images/blog/kant_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Manfred Kuehn's 'Kant: A Biography' & Journal of Neurobiology of Learning and Memory (JN)"

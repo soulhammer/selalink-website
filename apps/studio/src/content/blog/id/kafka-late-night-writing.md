@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Melahirkan","Routine"]
-heroImage: "/images/blog/kafka_late_night_writing.webp"
+heroImage: "/images/blog/kafka_late_night_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Surat-surat Franz Kafka 'Letters to Felice' & Jurnal Frontiers in Psychology"

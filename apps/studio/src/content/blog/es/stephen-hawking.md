@@ -5,7 +5,7 @@ pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
 tags: ["La pizarra","Routine"]
-heroImage: "/images/blog/stephen_hawking.webp"
+heroImage: "/images/blog/stephen_hawking.png"
 app: "buildself"
 formatVersion: 4
 authority: "Stephen Hawking, *Mi breve historia* (2013) y estudios neurocientíficos cognitivos"

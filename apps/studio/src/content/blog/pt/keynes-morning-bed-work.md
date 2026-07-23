@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Teoria ger","Routine"]
-heroImage: "/images/blog/keynes_morning_bed_work.webp"
+heroImage: "/images/blog/keynes_morning_bed_work.png"
 app: "buildself"
 formatVersion: 4
 authority: "A biografia de Robert Skidelsky 'John Maynard Keynes' e pesquisa neurocientífica sobre a resposta do cortisol ao acordar (CAR) e a função executiva pré-frontal"

@@ -5,7 +5,7 @@ pubDate: "2026-01-06"
 updatedDate: "2026-01-06"
 category: "BuildSelf"
 tags: ["成功する決断を生み出","Routine"]
-heroImage: "/images/blog/obama_decision_simplification.webp"
+heroImage: "/images/blog/obama_decision_simplification.png"
 app: "buildself"
 formatVersion: 4
 authority: "ロイ・バウマイスター教授の決断疲れ理論および米誌「Vanity Fair」オバマ大統領インタビュー"

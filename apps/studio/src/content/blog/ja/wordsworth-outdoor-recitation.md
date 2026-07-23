@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["山道を歩きながら大声","Routine"]
-heroImage: "/images/blog/wordsworth_outdoor_recitation.webp"
+heroImage: "/images/blog/wordsworth_outdoor_recitation.png"
 app: "buildself"
 formatVersion: 4
 authority: "ハンター・デイヴィス「ウィリアム・ワーズワース評伝」および学術誌「Cognitive Brain Research」"

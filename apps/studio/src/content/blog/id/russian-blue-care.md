@@ -4,7 +4,7 @@ title: "Tempat Sembunyi Aman dan Membangun Kepercayaan: Rutinitas 3 Langkah untu
 description: "Russian Blue secara alami pemalu dan sensitif terhadap kebisingan. Pelajari cara menciptakan zona aman bebas stres dan rutinitas 3 langkah untuk membangun kepercayaan."
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
-heroImage: "/images/blog/russian_blue_care.webp"
+heroImage: "/images/blog/russian_blue_care.png"
 authority: "Panduan Ras Cat Fanciers' Association (CFA) & Cornell Feline Health Center"
 app: "petself"
 formatVersion: 4

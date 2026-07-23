@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Der Geist ","Routine"]
-heroImage: "/images/blog/martin_silent_waiting.webp"
+heroImage: "/images/blog/martin_silent_waiting.png"
 app: "buildself"
 formatVersion: 4
 authority: "Agnes Martins Schriften und Interviews ‚Agnes Martin: Writings‘ und neurowissenschaftliche Forschung zu Meditation und neuronaler Oszillation mit Einfluss auf die Lösung von Einsichtsproblemen"

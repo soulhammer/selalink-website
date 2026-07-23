@@ -4,7 +4,7 @@ title: "Havre de paix et création de confiance : routine en 3 étapes pour le B
 description: "Le Bleu Russe est timide et sensible au bruit. Apprenez à lui créer un havre de paix sans stress et appliquez une routine en 3 étapes pour gagner sa confiance."
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
-heroImage: "/images/blog/russian_blue_care.webp"
+heroImage: "/images/blog/russian_blue_care.png"
 authority: "Guide de la Cat Fanciers' Association (CFA) et Cornell Feline Health Center"
 app: "petself"
 formatVersion: 4

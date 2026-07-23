@@ -4,7 +4,7 @@ title: "Signaux de tapement de pattes du lapin nain de couleur et routine de 3 �
 description: "Prendre soin de la plus petite race de lapin, le nain de couleur. Apprenez à répondre aux tapements de pattes d'avertissement et soutenez leur système digestif sensible avec une routine de 3 étapes de foin riche en fibres."
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
-heroImage: "/images/blog/dwarf_rabbit_care.webp"
+heroImage: "/images/blog/dwarf_rabbit_care.png"
 authority: "Directives Médicales de la House Rabbit Society et Normes Vétérinaires pour Petits Animaux"
 app: "petself"
 formatVersion: 4

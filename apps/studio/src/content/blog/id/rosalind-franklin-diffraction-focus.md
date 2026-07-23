@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Ilmuwan di","Routine"]
-heroImage: "/images/blog/rosalind_franklin_diffraction_focus.webp"
+heroImage: "/images/blog/rosalind_franklin_diffraction_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Brenda Maddox 'Rosalind Franklin' & Arsip King's College London"

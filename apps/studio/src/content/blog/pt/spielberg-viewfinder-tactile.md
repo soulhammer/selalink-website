@@ -5,7 +5,7 @@ pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "BuildSelf"
 tags: ["O mestre q","Routine"]
-heroImage: "/images/blog/spielberg_viewfinder_tactile.webp"
+heroImage: "/images/blog/spielberg_viewfinder_tactile.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia de Steven Spielberg & revista Nature Neuroscience"

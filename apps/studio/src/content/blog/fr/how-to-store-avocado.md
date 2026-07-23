@@ -5,7 +5,7 @@ description: "Découvrez la température, les méthodes et la durée optimales d
 pubDate: "2026-02-07"
 category: "FreshSnap"
 tags: ["Avocat","Guide de conservation scientifiquement prouvé","vegetable"]
-heroImage: "/images/blog/avocado_storage_hack.webp"
+heroImage: "/images/blog/avocado_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"

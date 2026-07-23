@@ -4,7 +4,7 @@ description: "Démosthène a surmonté des limites physiques congénitales pour 
 pubDate: "2026-01-28"
 category: "BuildSelf"
 tags: ["L'orateur ","Routine"]
-heroImage: "/images/blog/demosthenes_isolation.webp"
+heroImage: "/images/blog/demosthenes_isolation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Plutarque, 'Vies parallèles : Vie de Démosthène' & Recherches sur le contrôle des stimuli de l'APA"

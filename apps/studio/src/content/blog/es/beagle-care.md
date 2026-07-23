@@ -4,7 +4,7 @@ title: "Cuidado de la Energía y Ansiedad del Beagle: Rutina de 3 pasos para la 
 description: "Los Beagles son perros de caza muy curiosos con gran energía. Conozca una rutina de 3 pasos para saciar su olfato, reducir la ansiedad y prevenir infecciones de oído."
 pubDate: "2026-02-28"
 updatedDate: "2026-03-01"
-heroImage: "/images/blog/beagle_care.webp"
+heroImage: "/images/blog/beagle_care.png"
 authority: "Manual oficial de razas de AKC para Beagles y protocolos de olfato de IAABC"
 app: "petself"
 formatVersion: 4

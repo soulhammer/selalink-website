@@ -4,7 +4,7 @@ title: "Perawatan Jantung & Tunarungu Turkish Angora: Rutinitas 3 Langkah untuk 
 description: "Turkish Angora dengan mata biru atau odd eyes secara genetis rentan terhadap tunarungu bawaan dan HCM. Pelajari rutinitas komunikasi dan sisir bulu."
 pubDate: "2026-04-07"
 updatedDate: "2026-04-07"
-heroImage: "/images/blog/turkish_angora_care.webp"
+heroImage: "/images/blog/turkish_angora_care.png"
 authority: "Dewan Ras Turkish Angora CFA & Studi Ketulian Kucing"
 app: "petself"
 formatVersion: 4

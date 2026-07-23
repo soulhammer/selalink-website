@@ -5,7 +5,7 @@ pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "BuildSelf"
 tags: ["Le philoso","Routine"]
-heroImage: "/images/blog/plato_gymnastic_wrestling.webp"
+heroImage: "/images/blog/plato_gymnastic_wrestling.png"
 app: "buildself"
 formatVersion: 4
 authority: "Dialogue de Platon 'La République' & revue Journal of Applied Physiology"

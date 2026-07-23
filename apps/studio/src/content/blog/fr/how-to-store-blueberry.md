@@ -5,7 +5,7 @@ description: "Découvrez la température, les méthodes et la durée optimales d
 pubDate: "2026-03-29"
 category: "FreshSnap"
 tags: ["Myrtille","Guide de conservation scientifiquement prouvé","fruit"]
-heroImage: "/images/blog/blueberry_storage_hack.webp"
+heroImage: "/images/blog/blueberry_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & RDA</strong>"

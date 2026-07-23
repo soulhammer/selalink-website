@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Filosofia ","Routine"]
-heroImage: "/images/blog/sartre_cafe_writing.webp"
+heroImage: "/images/blog/sartre_cafe_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia de Sartre 'Sartre: A Life' & pesquisas em psicologia ambiental"

@@ -4,7 +4,7 @@ title: "Abyssinian Guinea Pig Vitamin C Guide and 3-Step Respiratory Health Dail
 description: "Caring for the rosette-coated Abyssinian guinea pig. Learn how to fulfill their crucial Vitamin C requirements and manage their cage for respiratory safety."
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
-heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
+heroImage: "/images/blog/abyssinian_guinea_pig_care.png"
 authority: "Royal Society for the Prevention of Cruelty to Animals (RSPCA) Rodent Care Guidelines and exotic vet standards"
 app: "petself"
 formatVersion: 4

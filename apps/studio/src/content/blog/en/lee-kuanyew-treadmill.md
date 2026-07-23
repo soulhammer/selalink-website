@@ -5,7 +5,7 @@ pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
 tags: ["Great Habits","lee","Routine","Stamina"]
-heroImage: "/images/blog/lee_kuanyew_treadmill.webp"
+heroImage: "/images/blog/lee_kuanyew_treadmill.png"
 app: "buildself"
 formatVersion: 4
 authority: "Lee Kuan Yew's Memoirs 'The Singapore Story' & National Archives of Singapore Archive Documents"

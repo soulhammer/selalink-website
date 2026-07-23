@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Jawaban Ma","Routine"]
-heroImage: "/images/blog/poincare_time_limitation.webp"
+heroImage: "/images/blog/poincare_time_limitation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Buku 'Science and Method' Henri Poincaré & Penelitian Mode Menyebar dalam Ilmu Belajar Kognitif"

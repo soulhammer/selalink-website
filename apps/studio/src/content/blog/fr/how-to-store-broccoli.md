@@ -5,7 +5,7 @@ description: "Découvrez la température, les méthodes et la durée optimales d
 pubDate: "2026-03-07"
 category: "FreshSnap"
 tags: ["Brocoli","Guide de conservation scientifiquement prouvé","vegetable"]
-heroImage: "/images/blog/broccoli_storage_hack.webp"
+heroImage: "/images/blog/broccoli_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & EFSA</strong>"

@@ -5,7 +5,7 @@ pubDate: "2026-03-13"
 updatedDate: "2026-03-13"
 category: "BuildSelf"
 tags: ["O romancis","Routine"]
-heroImage: "/images/blog/orwell_newspaper_clipping.webp"
+heroImage: "/images/blog/orwell_newspaper_clipping.png"
 app: "buildself"
 formatVersion: 4
 authority: "George Orwell: A Life de Bernard Crick & revista Journal of Cognitive Neuroscience"

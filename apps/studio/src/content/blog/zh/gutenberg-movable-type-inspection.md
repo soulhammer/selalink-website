@@ -5,7 +5,7 @@ pubDate: "2026-06-04"
 updatedDate: "2026-06-04"
 category: "BuildSelf"
 tags: ["印刷术革命的巨匠？古","Routine"]
-heroImage: "/images/blog/gutenberg_movable_type_inspection.webp"
+heroImage: "/images/blog/gutenberg_movable_type_inspection.png"
 app: "buildself"
 formatVersion: 4
 authority: "阿尔伯特·卡普尔传记《Johannes Gutenberg》与美因茨古腾堡博物馆史料"

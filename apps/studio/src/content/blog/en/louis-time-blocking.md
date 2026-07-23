@@ -5,7 +5,7 @@ pubDate: "2026-04-11"
 updatedDate: "2026-04-11"
 category: "BuildSelf"
 tags: ["Great Habits","louis","Routine","Stamina"]
-heroImage: "/images/blog/louis_time_blocking.webp"
+heroImage: "/images/blog/louis_time_blocking.png"
 app: "buildself"
 formatVersion: 4
 authority: "Louis XIV's Memoirs & Journal of Consumer Research"

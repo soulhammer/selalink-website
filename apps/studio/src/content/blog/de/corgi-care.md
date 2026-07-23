@@ -4,7 +4,7 @@ title: "Welsh Corgi Pflege: Eine 3-Schritte-Routine für Wirbelsäulen- und Gele
 description: "Der Welsh Corgi, bekannt für seine süße Rückseite und kurzen Beine. Entdecken Sie eine 3-Schritte-Routine zur Vorbeugung von Wirbelsäulenproblemen und Patellaluxation."
 pubDate: "2026-04-12"
 updatedDate: "2026-04-14"
-heroImage: "/images/blog/corgi_care.webp"
+heroImage: "/images/blog/corgi_care.png"
 authority: "Offizieller Leitfaden des Pembroke Welsh Corgi Club of America und AKC-Gesundheitsrichtlinien"
 app: "petself"
 formatVersion: 4

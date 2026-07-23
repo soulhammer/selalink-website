@@ -4,7 +4,7 @@ title: "マーシャルフェレットのクレイジーダンスと探索欲を
 description: "遊び好きで体が柔らかいマーシャルフェレット。興奮を表すウォーダンスの対処法と、特有の好奇心を満たし耳の衛生を保つための3ステップケアを解説します。"
 pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
-heroImage: "/images/blog/marshall_ferret_care.webp"
+heroImage: "/images/blog/marshall_ferret_care.png"
 authority: "American Ferret Association フェレット行動基準およびエキゾチック獣医ガイド"
 app: "petself"
 formatVersion: 4

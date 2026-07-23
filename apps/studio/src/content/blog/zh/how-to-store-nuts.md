@@ -5,7 +5,7 @@ description: "根据官方食品安全指南，了解坚果的最佳储存温度
 pubDate: "2026-06-18"
 category: "FreshSnap"
 tags: ["坚果","科学验证的储存指南","etc"]
-heroImage: "/images/blog/nuts_storage_hack.webp"
+heroImage: "/images/blog/nuts_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>"

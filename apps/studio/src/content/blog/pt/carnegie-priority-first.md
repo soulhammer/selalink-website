@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["O bilionár","Routine"]
-heroImage: "/images/blog/carnegie_priority_first.webp"
+heroImage: "/images/blog/carnegie_priority_first.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografia de Carnegie 'Autobiography of Andrew Carnegie' & estudos de psicologia sobre o desgaste do ego"

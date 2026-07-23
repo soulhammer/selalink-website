@@ -5,7 +5,7 @@ description: "Learn the best storage temperature, methods, and duration for Broc
 pubDate: "2026-03-07"
 category: "FreshSnap"
 tags: ["Broccoli","Scientifically Proven Storage Guide","vegetable"]
-heroImage: "/images/blog/broccoli_storage_hack.webp"
+heroImage: "/images/blog/broccoli_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & EFSA</strong>"

@@ -5,7 +5,7 @@ pubDate: "2026-03-03"
 updatedDate: "2026-03-03"
 category: "BuildSelf"
 tags: ["Kleopatra:","Routine"]
-heroImage: "/images/blog/cleopatra_multilingual_study.webp"
+heroImage: "/images/blog/cleopatra_multilingual_study.png"
 app: "buildself"
 formatVersion: 4
 authority: "Plutarchs Biografie von Antonius & Michael Grants Kleopatra-Forschung"

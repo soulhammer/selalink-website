@@ -5,7 +5,7 @@ pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
 tags: ["Great Habits","confucius","Routine","Stamina"]
-heroImage: "/images/blog/confucius_guqin_harmony.webp"
+heroImage: "/images/blog/confucius_guqin_harmony.png"
 app: "buildself"
 formatVersion: 4
 authority: "The Analects, Shiji (Records of the Grand Historian) & Journal of Music Therapy"

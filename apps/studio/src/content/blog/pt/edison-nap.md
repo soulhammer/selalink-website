@@ -4,7 +4,7 @@ description: "Um estranho ritual de soneca que Edison realizava sempre que encon
 pubDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["O gênio qu","Routine"]
-heroImage: "/images/blog/edison_nap.webp"
+heroImage: "/images/blog/edison_nap.png"
 app: "buildself"
 formatVersion: 4
 authority: "Diário e observações de Edison (1948) & pesquisa do Instituto do Cérebro de Paris"

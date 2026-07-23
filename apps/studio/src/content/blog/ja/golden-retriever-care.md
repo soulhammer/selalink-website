@@ -4,7 +4,7 @@ title: "天使の犬ゴールデンレトリバー？関節とレトリービン
 description: "フレンドリーで賢いゴールデンレトリバー。大体骨関節異形成の予防と、十分なエネルギー発散のための3段階デイリールーティンを紹介します。"
 pubDate: "2026-05-28"
 updatedDate: "2026-05-30"
-heroImage: "/images/blog/golden_retriever_care.webp"
+heroImage: "/images/blog/golden_retriever_care.png"
 authority: "アメリカンケネルクラブ(AKC)公式犬種ガイド＆IAABC行動学プロトコル"
 app: "petself"
 formatVersion: 4

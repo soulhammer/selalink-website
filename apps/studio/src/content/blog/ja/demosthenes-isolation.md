@@ -4,7 +4,7 @@ description: "先天的身体限界を克服し、古代ギリシャ最高の雄
 pubDate: "2026-01-28"
 category: "BuildSelf"
 tags: ["頭の半分を剃り落とし","Routine"]
-heroImage: "/images/blog/demosthenes_isolation.webp"
+heroImage: "/images/blog/demosthenes_isolation.png"
 app: "buildself"
 formatVersion: 4
 authority: "プルタルコス英雄伝『デモステネス伝』および米国心理学会（APA）の環境管理研究"

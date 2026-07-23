@@ -5,7 +5,7 @@ pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "BuildSelf"
 tags: ["砂漠の動物の死骸に虫","Routine"]
-heroImage: "/images/blog/georgia_okeeffe.webp"
+heroImage: "/images/blog/georgia_okeeffe.png"
 app: "buildself"
 formatVersion: 4
 authority: "ハンター・ドロホヨフスカ・フィリップ、*満開: ジョージア・オキーフの芸術と人生* (2004) & 認知神経科学研究"

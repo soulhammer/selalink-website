@@ -5,7 +5,7 @@ pubDate: "2026-05-22"
 updatedDate: "2026-05-22"
 category: "BuildSelf"
 tags: ["Le journal","Routine"]
-heroImage: "/images/blog/marcus_aurelius_morning_journaling.webp"
+heroImage: "/images/blog/marcus_aurelius_morning_journaling.png"
 app: "buildself"
 formatVersion: 4
 authority: "Marc Aurèle, Pensées pour moi-même / Effets de l'écriture sur la thérapie cognito-comportementale"

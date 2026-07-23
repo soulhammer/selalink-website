@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Enfriar el","Routine"]
-heroImage: "/images/blog/wittgenstein_movie_detox.webp"
+heroImage: "/images/blog/wittgenstein_movie_detox.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía de Ray Monk 'Ludwig Wittgenstein' e investigación de psicología cognitiva sobre la distracción atencional y el efecto de incubación"

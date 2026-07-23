@@ -5,7 +5,7 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Roti tawar ber
 pubDate: "2026-05-19"
 category: "FreshSnap"
 tags: ["Roti tawar","Panduan Penyimpanan yang Terbukti Secara Ilmiah","grain"]
-heroImage: "/images/blog/bread_storage_hack.webp"
+heroImage: "/images/blog/bread_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & FSA</strong>"

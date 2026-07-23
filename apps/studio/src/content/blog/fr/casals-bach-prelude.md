@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Accorder s","Routine"]
-heroImage: "/images/blog/casals_bach_prelude.webp"
+heroImage: "/images/blog/casals_bach_prelude.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiographie de Pablo Casals 'Joies et Souvenirs' (Joys and Sorrows) et recherche en neuroesthétique sur l'induction des ondes alfa préfrontales par la musique"

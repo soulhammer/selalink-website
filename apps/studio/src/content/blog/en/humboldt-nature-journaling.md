@@ -5,7 +5,7 @@ pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
 tags: ["Great Habits","humboldt","Routine","Stamina"]
-heroImage: "/images/blog/humboldt_nature_journaling.webp"
+heroImage: "/images/blog/humboldt_nature_journaling.png"
 app: "buildself"
 formatVersion: 4
 authority: "Andrea Wulf's Biography 'The Invention of Nature' & Humboldt's 'Cosmos'"

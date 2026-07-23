@@ -5,7 +5,7 @@ pubDate: "2026-06-26"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["L'écrivain","Routine"]
-heroImage: "/images/blog/murakami_running.webp"
+heroImage: "/images/blog/murakami_running.png"
 app: "buildself"
 formatVersion: 4
 authority: "L'ouvrage de Haruki Murakami 'Autoportrait de l'auteur en coureur de fond' et l'étude de Frontiers in Psychology"

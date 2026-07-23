@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Projetar a","Routine"]
-heroImage: "/images/blog/kubrick_index_box_archive.webp"
+heroImage: "/images/blog/kubrick_index_box_archive.png"
 app: "buildself"
 formatVersion: 4
 authority: "Arquivos de Stanley Kubrick da University of the Arts London (UAL) e investigação em neurociência cognitiva sobre a fragmentação da informação, tese da mente alargada e descarregamento cognitivo"

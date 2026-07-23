@@ -5,7 +5,7 @@ pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "BuildSelf"
 tags: ["歴史上最高の str","Routine"]
-heroImage: "/images/blog/zhuge_liang_guqin_strategy.webp"
+heroImage: "/images/blog/zhuge_liang_guqin_strategy.png"
 app: "buildself"
 formatVersion: 4
 authority: "史書「三国志 蜀書 諸葛亮伝」および「戒子書」"

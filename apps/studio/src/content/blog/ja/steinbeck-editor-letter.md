@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["開始の恐怖をなくす：","Routine"]
-heroImage: "/images/blog/steinbeck_editor_letter.webp"
+heroImage: "/images/blog/steinbeck_editor_letter.png"
 app: "buildself"
 formatVersion: 4
 authority: "ジョン・スタインベック書簡集『Journal of a Novel』歴史的考証および認知心理学（Cognitive Psychology）完璧主義と先延ばし（Procrastination）克服研究"

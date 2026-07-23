@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["Mengukir M","Routine"]
-heroImage: "/images/blog/kepler_geometric_modeling.webp"
+heroImage: "/images/blog/kepler_geometric_modeling.png"
 app: "buildself"
 formatVersion: 4
 authority: "Mysterium Cosmographicum oleh Kepler & Penelitian Kognitif tentang Manipulasi Spasial Haptik"

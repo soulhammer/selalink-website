@@ -5,7 +5,7 @@ pubDate: "2026-04-17"
 updatedDate: "2026-04-17"
 category: "BuildSelf"
 tags: ["Kognitive ","Routine"]
-heroImage: "/images/blog/jefferson_cold_foot_bath.webp"
+heroImage: "/images/blog/jefferson_cold_foot_bath.png"
 app: "buildself"
 formatVersion: 4
 authority: "Thomas Jeffersons persönliche Briefe & neurowissenschaftliche Studie über Kältereize und das vegetative Nervensystem"

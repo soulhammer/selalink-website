@@ -4,7 +4,7 @@ title: "Indépendance et double pelage du Shiba Inu : routine en 3 étapes"
 description: "Le Shiba Inu est très indépendant et sensible au toucher. Apprenez le brossage de son double pelage et une routine en 3 étapes pour un contact sans stress."
 pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
-heroImage: "/images/blog/shiba_care.webp"
+heroImage: "/images/blog/shiba_care.png"
 authority: "National Shiba Club of America et directives de modification du comportement de l'IAABC"
 app: "petself"
 formatVersion: 4

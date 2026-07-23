@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["整理灵魂秩序之夜：毕","Routine"]
-heroImage: "/images/blog/pythagoras_evening_examination.webp"
+heroImage: "/images/blog/pythagoras_evening_examination.png"
 app: "buildself"
 formatVersion: 4
 authority: "毕达哥拉斯学派的行为准则《黄金诗》历史记录及哈佛大学医学院睡眠医学科关于睡眠中记忆巩固的神经学研究成果"

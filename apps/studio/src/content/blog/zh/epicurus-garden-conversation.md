@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["简朴庭院中的智力团结","Routine"]
-heroImage: "/images/blog/epicurus_garden_conversation.webp"
+heroImage: "/images/blog/epicurus_garden_conversation.png"
 app: "buildself"
 formatVersion: 4
 authority: "第欧根尼·拉尔修著《哲人言行录》第10卷历史考证及关于心理安全感、少数面对面联结对副交感神经及缓解压力影响的神经精神医学研究成果"

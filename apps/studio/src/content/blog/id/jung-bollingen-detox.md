@@ -5,7 +5,7 @@ pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "BuildSelf"
 tags: ["Detoks Dig","Routine"]
-heroImage: "/images/blog/jung_bollingen_detox.webp"
+heroImage: "/images/blog/jung_bollingen_detox.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografi Carl Jung 'Memories, Dreams, Reflections' & Jurnal Journal of Behavioral Addictions"

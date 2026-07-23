@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Great Habits","kimgu","Routine","Stamina"]
-heroImage: "/images/blog/kimgu_brush_meditation.webp"
+heroImage: "/images/blog/kimgu_brush_meditation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Kim Gu's historical memoir 'Baekbeomilji' & Research on Fine Motor Control and Amygdala Anxiety Regulation"

@@ -4,7 +4,7 @@ description: "毎晩ベッドに横たわり、足の指をすぼめていた天
 pubDate: "2026-04-28"
 category: "BuildSelf"
 tags: ["足の指を100回すぼ","Routine"]
-heroImage: "/images/blog/tesla_toe_curling.webp"
+heroImage: "/images/blog/tesla_toe_curling.png"
 app: "buildself"
 formatVersion: 4
 authority: "ニコラ・テスラ自伝『My Inventions』および理学療法科学学会誌（JPTS）"

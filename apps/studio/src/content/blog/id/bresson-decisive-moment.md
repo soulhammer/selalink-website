@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Geometri F","Routine"]
-heroImage: "/images/blog/bresson_decisive_moment.webp"
+heroImage: "/images/blog/bresson_decisive_moment.png"
 app: "buildself"
 formatVersion: 4
 authority: "Esai Cartier-Bresson 'The Decisive Moment' & Frontiers dalam Penelitian Psikologi"

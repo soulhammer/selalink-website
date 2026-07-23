@@ -5,7 +5,7 @@ pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
 tags: ["Great Habits","schweitzer","Routine","Stamina"]
-heroImage: "/images/blog/schweitzer_night_organ.webp"
+heroImage: "/images/blog/schweitzer_night_organ.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiography 'Out of My Life and Thought' & Journal of Music Therapy"

@@ -4,7 +4,7 @@ title: "萨摩耶双层被毛与关节护理：轻松应对换毛期并预防髋
 description: "萨摩耶因其厚重的双层被毛易患皮肤病，同时面临大型犬常见的髋关节发育不良风险。掌握一套维护毛发与关节健康的日常3步护理惯例。"
 pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
-heroImage: "/images/blog/samoyed_care.webp"
+heroImage: "/images/blog/samoyed_care.png"
 authority: "AKC 萨摩耶官方指南与动物骨科基金会(OFA)标准"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-03-31"
 updatedDate: "2026-03-31"
 category: "BuildSelf"
 tags: ["夜明けの光から芸術を","Routine"]
-heroImage: "/images/blog/monet_dawn_light.webp"
+heroImage: "/images/blog/monet_dawn_light.png"
 app: "buildself"
 formatVersion: 4
 authority: "モネ書簡集「Letters of Claude Monet」および学術誌「Science」"

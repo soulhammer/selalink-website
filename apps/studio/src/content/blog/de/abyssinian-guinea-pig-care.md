@@ -4,7 +4,7 @@ title: "Abessinier-Meerschweinchen Vitamin-C-Leitfaden und 3-Schritt-Atemwegsges
 description: "Pflege für das Abessinier-Meerschweinchen mit Wirbeln. Erfahren Sie, wie Sie den lebenswichtigen Vitamin-C-Bedarf decken und Staub in der Haltung vermeiden."
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
-heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
+heroImage: "/images/blog/abyssinian_guinea_pig_care.png"
 authority: "Richtlinien zur Haltung von Nagetieren der RSPCA und tierärztliche Standards für exotische Kleintiere"
 app: "petself"
 formatVersion: 4

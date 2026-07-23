@@ -5,7 +5,7 @@ pubDate: "2026-03-19"
 updatedDate: "2026-03-19"
 category: "BuildSelf"
 tags: ["1分以内に過去の記録","Routine"]
-heroImage: "/images/blog/locke_commonplace_book.webp"
+heroImage: "/images/blog/locke_commonplace_book.png"
 app: "buildself"
 formatVersion: 4
 authority: "ジョン・ロックの論文「コモンプレイス・ブック製作の新しい方法」および認知行動研究"

@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["从梦境残像中打捞名曲","Routine"]
-heroImage: "/images/blog/mccartney_dream_melody_capture.webp"
+heroImage: "/images/blog/mccartney_dream_melody_capture.png"
 app: "buildself"
 formatVersion: 4
 authority: "保罗·麦卡特尼官方传记《Many Years From Now》考证及关于睡眠与觉醒过渡状态（Hypnagogia）下大脑的发散联想能力与短期记忆挥发的睡眠神经科学研究"

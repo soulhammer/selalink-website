@@ -5,7 +5,7 @@ pubDate: "2026-07-14"
 updatedDate: "2026-07-14"
 category: "BuildSelf"
 tags: ["天然痘を征服したワク","Routine"]
-heroImage: "/images/blog/jenner_observation_tracking_log.webp"
+heroImage: "/images/blog/jenner_observation_tracking_log.png"
 app: "buildself"
 formatVersion: 4
 authority: "リチャード・フィッシャー評伝「Edward Jenner」および王立協会史料"

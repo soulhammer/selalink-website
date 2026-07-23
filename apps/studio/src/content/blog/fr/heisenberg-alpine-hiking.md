@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["L'indice d","Routine"]
-heroImage: "/images/blog/heisenberg_alpine_hiking.webp"
+heroImage: "/images/blog/heisenberg_alpine_hiking.png"
 app: "buildself"
 formatVersion: 4
 authority: "Récit de l'autobiographie de Heisenberg 'Physique et au-delà' et travaux de Stephen Kaplan sur la théorie de la restauración de la atención"

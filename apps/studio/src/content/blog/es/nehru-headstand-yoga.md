@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["¿Hacer el ","Routine"]
-heroImage: "/images/blog/nehru_headstand_yoga.webp"
+heroImage: "/images/blog/nehru_headstand_yoga.png"
 app: "buildself"
 formatVersion: 4
 authority: "La autobiografía de Nehru y la revista Journal of Alternative and Complementary Medicine"

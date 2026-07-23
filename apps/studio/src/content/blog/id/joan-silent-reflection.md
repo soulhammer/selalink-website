@@ -5,7 +5,7 @@ pubDate: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["Pusat Keya","Routine"]
-heroImage: "/images/blog/joan_silent_reflection.webp"
+heroImage: "/images/blog/joan_silent_reflection.png"
 app: "buildself"
 formatVersion: 4
 authority: "Arsip Pengadilan Joan of Arc (1431) & Jurnal Journal of Research in Personality"

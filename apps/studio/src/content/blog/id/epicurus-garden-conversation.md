@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["Solidarita","Routine"]
-heroImage: "/images/blog/epicurus_garden_conversation.webp"
+heroImage: "/images/blog/epicurus_garden_conversation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Karya Diogenes Laërtius 'Lives and Opinions of Eminent Philosophers' dan Riset Neuropsikiatri tentang Keamanan Psikologis, Hubungan Sosial, dan Pengurangan Stres"

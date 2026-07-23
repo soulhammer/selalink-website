@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["床头的故事板：查理曼","Routine"]
-heroImage: "/images/blog/charlemagne_lifelong_learning.webp"
+heroImage: "/images/blog/charlemagne_lifelong_learning.png"
 app: "buildself"
 formatVersion: 4
 authority: "艾因哈德传记《Life of Charlemagne》与海马体睡眠记忆整合（Consolidation）研究"

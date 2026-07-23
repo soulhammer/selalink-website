@@ -4,7 +4,7 @@ title: "천재견 보더콜리를 위한 두뇌 자극 퍼즐 놀이와 관절 �
 description: "견종 지능 순위 1위 보더콜리. 넘치는 에너지를 충족시키는 인지 놀이법과 격렬한 활동으로 지치기 쉬운 관절을 보호하는 홈케어를 배웁니다."
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
-heroImage: "/images/blog/border_collie_care.webp"
+heroImage: "/images/blog/border_collie_care.png"
 authority: "영국 켄넬 클럽(KC) 보더콜리 가이드 및 동물 행동 인지 연구 자료"
 app: "petself"
 formatVersion: 4

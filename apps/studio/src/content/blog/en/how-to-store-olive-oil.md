@@ -5,7 +5,7 @@ description: "Learn the best storage temperature, methods, and duration for Cook
 pubDate: "2026-05-24"
 category: "FreshSnap"
 tags: ["Cooking Oil / Olive Oil","Scientifically Proven Storage Guide","condiment"]
-heroImage: "/images/blog/olive_oil_storage_hack.webp"
+heroImage: "/images/blog/olive_oil_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"

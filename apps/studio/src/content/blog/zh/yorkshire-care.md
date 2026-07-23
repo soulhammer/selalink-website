@@ -4,7 +4,7 @@ title: "约克夏梗犬的被毛护理与预防髌骨脱位3步骤家庭护理"
 description: "探讨约克夏梗犬被毛美容秘诀与髌骨关节常规。"
 pubDate: "2026-01-02"
 updatedDate: "2026-01-02"
-heroImage: "/images/blog/yorkshire_care.webp"
+heroImage: "/images/blog/yorkshire_care.png"
 authority: "英国约克夏梗犬俱乐部(YTC)美容指南及兽医整形外科指南"
 app: "petself"
 formatVersion: 4

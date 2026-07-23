@@ -4,7 +4,7 @@ title: "ターキッシュ・アンゴラの聴覚＆心臓ケア：オッドア
 description: "白い毛で青い目（またはオッドアイ）のターキッシュ・アンゴラは遺伝的に先天性難聴とHCMのリスクがあります。視覚信号の対話と毛並みケアの3段階を紹介します。"
 pubDate: "2026-04-07"
 updatedDate: "2026-04-07"
-heroImage: "/images/blog/turkish_angora_care.webp"
+heroImage: "/images/blog/turkish_angora_care.png"
 authority: "CFAターキッシュ・アンゴラ評議会＆猫の難聴研究基準"
 app: "petself"
 formatVersion: 4

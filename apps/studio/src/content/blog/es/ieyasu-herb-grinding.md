@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Ritmo de P","Routine"]
-heroImage: "/images/blog/ieyasu_herb_grinding.webp"
+heroImage: "/images/blog/ieyasu_herb_grinding.png"
 app: "buildself"
 formatVersion: 4
 authority: "Documentos históricos sobre la colección de hierbas de Tokugawa Ieyasu e investigación sobre la actividad motora rítmica y la neuromodulación de la serotonina"

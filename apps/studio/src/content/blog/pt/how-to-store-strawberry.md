@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración de armazenamen
 pubDate: "2026-06-25"
 category: "FreshSnap"
 tags: ["Morango","Guia de armazenamento comprovado cientificamente","fruit"]
-heroImage: "/images/blog/strawberry_storage_hack.webp"
+heroImage: "/images/blog/strawberry_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"

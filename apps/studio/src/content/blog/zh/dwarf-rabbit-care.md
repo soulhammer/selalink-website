@@ -4,7 +4,7 @@ title: "荷兰侏儒兔的跺脚警告与消化系统保护3阶段流程"
 description: "护理世界上最小的兔子品种——荷兰侏儒兔。了解如何应对表示焦虑的后脚跺脚行为，并通过3阶段高纤维牧草喂养呵护其敏感的消化系统。"
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
-heroImage: "/images/blog/dwarf_rabbit_care.webp"
+heroImage: "/images/blog/dwarf_rabbit_care.png"
 authority: "House Rabbit Society 兔子医疗指南及小动物兽医行为手册"
 app: "petself"
 formatVersion: 4

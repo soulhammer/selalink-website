@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Great Habits","mendeleev","Routine","Stamina"]
-heroImage: "/images/blog/mendeleev_chemical_solitaire.webp"
+heroImage: "/images/blog/mendeleev_chemical_solitaire.png"
 app: "buildself"
 formatVersion: 4
 authority: "Russian Chemical Society Archives of Mendeleev's Notebooks and Cognitive Research Journal Studies on Spatial Manipulation Memory Activation"

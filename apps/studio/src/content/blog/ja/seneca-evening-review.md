@@ -5,7 +5,7 @@ pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
 tags: ["セネカの夜の自己省察","Routine"]
-heroImage: "/images/blog/seneca_evening_review.webp"
+heroImage: "/images/blog/seneca_evening_review.png"
 app: "buildself"
 formatVersion: 4
 authority: "セネカ『怒りについて』(De Ira, III.36) / 睡眠前の認知整理が自律神経系および副交感神経に及ぼす生理学研究"

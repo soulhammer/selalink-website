@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración de armazenamen
 pubDate: "2026-04-15"
 category: "FreshSnap"
 tags: ["Ovo","Guia de armazenamento comprovado cientificamente","dairy"]
-heroImage: "/images/blog/egg_storage_hack.webp"
+heroImage: "/images/blog/egg_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"

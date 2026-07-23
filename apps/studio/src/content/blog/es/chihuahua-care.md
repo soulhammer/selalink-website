@@ -4,7 +4,7 @@ title: "El guerrero más pequeño del mundo: Protección de molera y cuidado de 
 description: "El Chihuahua, el guerrero más pequeño. Descubra cómo proteger su cabeza (molera abierta) y una rutina de 3 pasos para evitar la hipoglucemia y temblores."
 pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
-heroImage: "/images/blog/chihuahua_care.webp"
+heroImage: "/images/blog/chihuahua_care.png"
 authority: "Manual de raza de la Chihuahua Club of America y directrices de cuidado metabólico de razas miniatura de AVMA"
 app: "petself"
 formatVersion: 4

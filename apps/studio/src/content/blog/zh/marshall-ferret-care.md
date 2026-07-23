@@ -4,7 +4,7 @@ title: "马歇尔雪貂的战舞与最大化好奇心探索3阶段流程"
 description: "护理活泼且身体柔软的肉食雪貂——马歇尔雪貂。了解如何应对表示极度兴奋的战舞行为，并通过我们的3阶段护理满足其好奇心并保持耳道卫生。"
 pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
-heroImage: "/images/blog/marshall_ferret_care.webp"
+heroImage: "/images/blog/marshall_ferret_care.png"
 authority: "American Ferret Association 雪貂行为标准及异宠兽医行为指南"
 app: "petself"
 formatVersion: 4

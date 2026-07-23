@@ -5,7 +5,7 @@ pubDate: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "BuildSelf"
 tags: ["毎日真夜中に起きてコ","Routine"]
-heroImage: "/images/blog/balzac_extreme_focus.webp"
+heroImage: "/images/blog/balzac_extreme_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "シュテファン・ツヴァイク 著『バルザック』＆ 現代神経薬理学術誌(Neuropharmacology)"

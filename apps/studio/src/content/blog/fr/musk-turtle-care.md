@@ -4,7 +4,7 @@ title: "Étirement des pattes de la tortue musquée et routine de filtration de 
 description: "Soin de la tortue musquée commune. Découvrez la signification de l'étirement des pattes arrière pendant l'exposition au soleil et prévenez les maladies du caparaçon avec une routine de filtration en 3 étapes."
 pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
-heroImage: "/images/blog/musk_turtle_care.webp"
+heroImage: "/images/blog/musk_turtle_care.png"
 authority: "Directives d'Exposition au Soleil de la World Chelonian Association et Protocole pour Tortues Aquatiques"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "BuildSelf"
 tags: ["诺贝尔奖得主的超高速","Routine"]
-heroImage: "/images/blog/feynman_explanation_technique.webp"
+heroImage: "/images/blog/feynman_explanation_technique.png"
 app: "buildself"
 formatVersion: 4
 authority: "理查德·费曼著《别闹了，费曼先生！》及教育心理学评论期刊(Educational Psychology Review)"

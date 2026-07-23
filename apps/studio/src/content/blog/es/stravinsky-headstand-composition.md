@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Inspiració","Routine"]
-heroImage: "/images/blog/stravinsky_headstand_composition.webp"
+heroImage: "/images/blog/stravinsky_headstand_composition.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autenticación de 'An Autobiography' de Stravinsky e investigación de la Escuela de Medicina de Harvard sobre sensación vestibular y flujo sanguíneo cerebral"

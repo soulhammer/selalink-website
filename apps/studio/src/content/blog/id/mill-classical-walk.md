@@ -5,7 +5,7 @@ pubDate: "2026-01-25"
 updatedDate: "2026-01-25"
 category: "BuildSelf"
 tags: ["Otak yang ","Routine"]
-heroImage: "/images/blog/mill_classical_walk.webp"
+heroImage: "/images/blog/mill_classical_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografi John Stuart Mill & Jurnal Nature Reviews Neuroscience"

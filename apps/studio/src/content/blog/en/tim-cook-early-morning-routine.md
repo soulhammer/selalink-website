@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Great Habits","tim","Routine","Stamina"]
-heroImage: "/images/blog/tim_cook_early_morning_routine.webp"
+heroImage: "/images/blog/tim_cook_early_morning_routine.png"
 app: "buildself"
 formatVersion: 4
 authority: "Time Magazine Cover Story & Leander Kahney's Biography 'Tim Cook'"

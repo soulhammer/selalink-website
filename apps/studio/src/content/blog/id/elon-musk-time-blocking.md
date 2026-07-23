@@ -5,7 +5,7 @@ pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "BuildSelf"
 tags: ["Time Block","Routine"]
-heroImage: "/images/blog/elon_musk_time_blocking.webp"
+heroImage: "/images/blog/elon_musk_time_blocking.png"
 app: "buildself"
 formatVersion: 4
 authority: "Elon Musk karya Ashlee Vance & Biografi Elon Musk karya Walter Isaacson"

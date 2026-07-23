@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Otak Menga","Routine"]
-heroImage: "/images/blog/didion_manuscript_sleeping.webp"
+heroImage: "/images/blog/didion_manuscript_sleeping.png"
 app: "buildself"
 formatVersion: 4
 authority: "The Paris Review 'Wawancara Joan Didion' & Tren Ilmu Kognitif"

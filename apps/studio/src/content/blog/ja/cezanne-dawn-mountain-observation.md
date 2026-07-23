@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["光の幾何学を感知する","Routine"]
-heroImage: "/images/blog/cezanne_dawn_mountain_observation.webp"
+heroImage: "/images/blog/cezanne_dawn_mountain_observation.png"
 app: "buildself"
 formatVersion: 4
 authority: "ジョアシャン・ガスケの回顧録『セザンヌ評伝』の考証、および朝のブルーライト露出が大脳交差上核（SCN）の覚醒と認知活性に及ぼす影響に関する環境生理学の研究資料"

@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["天才数学者の答えは休","Routine"]
-heroImage: "/images/blog/poincare_time_limitation.webp"
+heroImage: "/images/blog/poincare_time_limitation.png"
 app: "buildself"
 formatVersion: 4
 authority: "アンリ・ポアンカレ著「科学と方法」および認知学習科学の分散モード研究"

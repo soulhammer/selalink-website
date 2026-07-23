@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["不容许浪费1美分的石","Routine"]
-heroImage: "/images/blog/rockefeller_red_notebook.webp"
+heroImage: "/images/blog/rockefeller_red_notebook.png"
 app: "buildself"
 formatVersion: 4
 authority: "洛克菲勒传记《Titan》与学术期刊《Behavioral and Brain Sciences》"

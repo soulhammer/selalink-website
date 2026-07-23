@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["Isolation ","Routine"]
-heroImage: "/images/blog/shaw_rotating_hut_focus.webp"
+heroImage: "/images/blog/shaw_rotating_hut_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "Erhaltungsaufzeichnungen der historischen Stätte Shaw's Corner und umweltpsychologische Forschung zu Tageslichtexposition, kognitiver Isolation und reduzierter Aufmerksamkeitsunterbrechung"

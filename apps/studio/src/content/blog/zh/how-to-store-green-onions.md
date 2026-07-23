@@ -5,7 +5,7 @@ description: "根据官方食品安全指南，了解大葱的最佳储存温度
 pubDate: "2026-01-07"
 category: "FreshSnap"
 tags: ["大葱","科学验证的储存指南","vegetable"]
-heroImage: "/images/blog/green_onion_storage_hack.webp"
+heroImage: "/images/blog/green_onion_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"

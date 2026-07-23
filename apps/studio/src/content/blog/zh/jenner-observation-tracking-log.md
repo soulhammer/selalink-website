@@ -5,7 +5,7 @@ pubDate: "2026-07-14"
 updatedDate: "2026-07-14"
 category: "BuildSelf"
 tags: ["消灭天花的“疫苗之父","Routine"]
-heroImage: "/images/blog/jenner_observation_tracking_log.webp"
+heroImage: "/images/blog/jenner_observation_tracking_log.png"
 app: "buildself"
 formatVersion: 4
 authority: "理查德·费舍尔传记《Edward Jenner》与英国皇家学会档案馆史料"

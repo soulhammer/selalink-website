@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["时尚铁王座背后的核心","Routine"]
-heroImage: "/images/blog/wintour_morning_tennis.webp"
+heroImage: "/images/blog/wintour_morning_tennis.png"
 app: "buildself"
 formatVersion: 4
 authority: "传记《安娜：传记》和大脑皮层神经病学杂志"

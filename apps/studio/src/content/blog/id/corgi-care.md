@@ -4,7 +4,7 @@ title: "Perawatan Welsh Corgi: Rutinitas 3 Langkah untuk Kesehatan Tulang Belaka
 description: "Welsh Corgi terkenal dengan bagian belakangnya yang lucu dan kakinya yang pendek. Temukan rutinitas harian 3 langkah untuk mencegah masalah tulang belakang dan luksasi patela."
 pubDate: "2026-04-12"
 updatedDate: "2026-04-14"
-heroImage: "/images/blog/corgi_care.webp"
+heroImage: "/images/blog/corgi_care.png"
 authority: "Panduan Resmi Pembroke Welsh Corgi Club of America & Pedoman Kesehatan AKC"
 app: "petself"
 formatVersion: 4

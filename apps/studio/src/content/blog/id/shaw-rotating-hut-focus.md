@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["Isolasi un","Routine"]
-heroImage: "/images/blog/shaw_rotating_hut_focus.webp"
+heroImage: "/images/blog/shaw_rotating_hut_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "Catatan Pelestarian Situs Bersejarah Shaw's Corner dan Riset Psikologi Lingkungan tentang Paparan Cahaya Matahari, Isolasi Kognitif, dan Pengurangan Gangguan Perhatian"

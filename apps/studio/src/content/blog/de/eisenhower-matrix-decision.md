@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Die Macht ","Routine"]
-heroImage: "/images/blog/eisenhower_matrix_decision.webp"
+heroImage: "/images/blog/eisenhower_matrix_decision.png"
 app: "buildself"
 formatVersion: 4
 authority: "Archiv der Dwight D. Eisenhower Library (Ansprache von 1954) und kognitionswissenschaftliche Studien zu Entscheidungsdepletion und präfrontaler Ressourcenallokation"

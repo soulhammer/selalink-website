@@ -5,7 +5,7 @@ description: "公的安全基準に基づく卵の最適な保存温度、保管
 pubDate: "2026-04-15"
 category: "FreshSnap"
 tags: ["卵","科学的に検証された保存ガイド","dairy"]
-heroImage: "/images/blog/egg_storage_hack.webp"
+heroImage: "/images/blog/egg_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>"

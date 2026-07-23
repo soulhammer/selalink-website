@@ -5,7 +5,7 @@ pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
 tags: ["在月光下抄写乐谱的大","Routine"]
-heroImage: "/images/blog/bach_pattern_transcription.webp"
+heroImage: "/images/blog/bach_pattern_transcription.png"
 app: "buildself"
 formatVersion: 4
 authority: "福克尔著《约翰·塞巴斯蒂安·巴赫的一生》及功能性大脑发育研究(James, 2012)"

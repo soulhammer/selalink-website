@@ -5,7 +5,7 @@ pubDate: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "BuildSelf"
 tags: ["¿Despertar","Routine"]
-heroImage: "/images/blog/balzac_extreme_focus.webp"
+heroImage: "/images/blog/balzac_extreme_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "Obra de Stefan Zweig 'Balzac' y estudio de Neuropharmacology"

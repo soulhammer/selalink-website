@@ -5,7 +5,7 @@ pubDate: "2026-03-13"
 updatedDate: "2026-03-13"
 category: "BuildSelf"
 tags: ["Great Habits","orwell","Routine","Stamina"]
-heroImage: "/images/blog/orwell_newspaper_clipping.webp"
+heroImage: "/images/blog/orwell_newspaper_clipping.png"
 app: "buildself"
 formatVersion: 4
 authority: "Bernard Crick's 'George Orwell: A Life' & 'Journal of Cognitive Neuroscience'"

@@ -4,7 +4,7 @@ title: "フレンチ・ブルドッグの呼吸器＆体温ケア：気道と関
 description: "フレンチ・ブルドッグは鼻が低いため呼吸困難や熱中症にかかりやすい犬種です。シワのケア、呼吸の観察、関節保護の3段階ケアを紹介します。"
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
-heroImage: "/images/blog/french_bulldog_care.webp"
+heroImage: "/images/blog/french_bulldog_care.png"
 authority: "AKCフレンチ・ブルドッグ飼育ガイドライン"
 app: "petself"
 formatVersion: 4

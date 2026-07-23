@@ -4,7 +4,7 @@ title: "ダックスフントの腰痛警告と体幹強化の3ステップル�
 description: "胴長短足のダックスフント。背骨への負担を示す警告サインと、関節やディスクを保護するための3ステップの日常ルーチンについて解説します。"
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
-heroImage: "/images/blog/dachshund_care.webp"
+heroImage: "/images/blog/dachshund_care.png"
 authority: "アメリカンケネルクラブ（AKC）ダックスフント健康ガイドおよび獣医脊椎協会ガイドライン"
 app: "petself"
 formatVersion: 4

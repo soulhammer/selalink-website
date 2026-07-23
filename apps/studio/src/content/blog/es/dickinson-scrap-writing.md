@@ -5,7 +5,7 @@ pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "BuildSelf"
 tags: ["¿Gran insp","Routine"]
-heroImage: "/images/blog/dickinson_scrap_writing.webp"
+heroImage: "/images/blog/dickinson_scrap_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Colección Emily Dickinson de la Biblioteca de la Universidad de Harvard y Catálogo de poemas en sobres 'The Gorgeous Nothings'"

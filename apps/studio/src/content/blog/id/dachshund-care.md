@@ -4,7 +4,7 @@ title: "Panduan Proteksi Punggung Dachshund dan Rutinitas 3 Langkah Penguatan Ot
 description: "Merawat Dachshund bertubuh panjang dan berkaki pendek. Pelajari cara mendeteksi tanda gangguan saraf punggung dan lindungi sendi mereka."
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
-heroImage: "/images/blog/dachshund_care.webp"
+heroImage: "/images/blog/dachshund_care.png"
 authority: "Panduan Kesehatan Dachshund American Kennel Club dan Pedoman Asosiasi Tulang Belakang Veteriner"
 app: "petself"
 formatVersion: 4

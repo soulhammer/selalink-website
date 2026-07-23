@@ -5,7 +5,7 @@ pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
 tags: ["Arsitek ya","Routine"]
-heroImage: "/images/blog/zaha_hadid_fluid_sketching.webp"
+heroImage: "/images/blog/zaha_hadid_fluid_sketching.png"
 app: "buildself"
 formatVersion: 4
 authority: "Karya Philip Jodidio 'Zaha Hadid: Complete Works' & Pidato Pritzker Prize"

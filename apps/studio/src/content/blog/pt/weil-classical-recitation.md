@@ -5,7 +5,7 @@ pubDate: "2026-07-11"
 updatedDate: "2026-07-11"
 category: "BuildSelf"
 tags: ["O segredo ","Routine"]
-heroImage: "/images/blog/weil_classical_recitation.webp"
+heroImage: "/images/blog/weil_classical_recitation.png"
 app: "buildself"
 formatVersion: 4
 authority: "À Espera de Deus por Simone Weil & pesquisas cognitivas sobre a recitação vocal"

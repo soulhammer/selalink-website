@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración para conservar
 pubDate: "2026-03-28"
 category: "FreshSnap"
 tags: ["Carne de res","Guía de almacenamiento científicamente probada","meat"]
-heroImage: "/images/blog/beef_storage_hack.webp"
+heroImage: "/images/blog/beef_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"

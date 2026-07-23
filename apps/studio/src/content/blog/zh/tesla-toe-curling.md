@@ -4,7 +4,7 @@ description: "每天晚上躺在床上蜷缩脚趾的天才发明家尼古拉·�
 pubDate: "2026-04-28"
 category: "BuildSelf"
 tags: ["把脚趾蜷缩100次的","Routine"]
-heroImage: "/images/blog/tesla_toe_curling.webp"
+heroImage: "/images/blog/tesla_toe_curling.png"
 app: "buildself"
 formatVersion: 4
 authority: "尼古拉·特斯拉自传《My Inventions》及《物理治疗科学杂志》（JPTS）"

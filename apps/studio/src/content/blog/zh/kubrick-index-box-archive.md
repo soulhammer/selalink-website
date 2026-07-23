@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["用外部大脑（Seco","Routine"]
-heroImage: "/images/blog/kubrick_index_box_archive.webp"
+heroImage: "/images/blog/kubrick_index_box_archive.png"
 app: "buildself"
 formatVersion: 4
 authority: "伦敦艺术大学（UAL）斯坦利·库布里克档案馆（Stanley Kubrick Archive）官方馆藏实物报告及关于信息块化（Chunking）与认知外显化（Cognitive Externalization）效应的认知神经科学研究"

@@ -5,7 +5,7 @@ description: "Découvrez la température, les méthodes et la durée optimales d
 pubDate: "2026-01-16"
 category: "FreshSnap"
 tags: ["Oignon","Guide de conservation scientifiquement prouvé","vegetable"]
-heroImage: "/images/blog/onion_storage_hack.webp"
+heroImage: "/images/blog/onion_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & FSA</strong>"

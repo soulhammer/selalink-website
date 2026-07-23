@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["16000个编号：迈","Routine"]
-heroImage: "/images/blog/faraday_numbered_notebook.webp"
+heroImage: "/images/blog/faraday_numbered_notebook.png"
 app: "buildself"
 formatVersion: 4
 authority: "英国皇家研究院保存的《Faraday's Diary》手稿考证及《认知科学》(Cognitive Science)关于知识外在化与认知负荷的研究"

@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Menemukan ","Routine"]
-heroImage: "/images/blog/saimdang_nature_observation.webp"
+heroImage: "/images/blog/saimdang_nature_observation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Lukisan 'Chochungdo' Saimdang & Penelitian tentang Teori Pemulihan Perhatian"

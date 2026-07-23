@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Préparatio","Routine"]
-heroImage: "/images/blog/stendhal_civil_code_reading.webp"
+heroImage: "/images/blog/stendhal_civil_code_reading.png"
 app: "buildself"
 formatVersion: 4
 authority: "Lettre de Stendhal à Balzac et recherches en psychologie cognitive sur les effets d'amorçage et la stimulation textuelle structurelle sur la rationalité objective"

@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["¿Las respu","Routine"]
-heroImage: "/images/blog/poincare_time_limitation.webp"
+heroImage: "/images/blog/poincare_time_limitation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Libro 'Ciencia y método' de Henri Poincaré e investigación sobre el modo difuso en ciencias cognitivas"

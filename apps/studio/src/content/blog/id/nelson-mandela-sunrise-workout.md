@@ -5,7 +5,7 @@ pubDate: "2026-01-13"
 updatedDate: "2026-01-13"
 category: "BuildSelf"
 tags: ["Olahraga M","Routine"]
-heroImage: "/images/blog/nelson_mandela_sunrise_workout.webp"
+heroImage: "/images/blog/nelson_mandela_sunrise_workout.png"
 app: "buildself"
 formatVersion: 4
 authority: "Otobiografi Nelson Mandela 'Long Walk to Freedom'"

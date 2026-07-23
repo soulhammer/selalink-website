@@ -4,7 +4,7 @@ title: "Cuidado del Peso del British Shorthair: Rutina de 3 pasos para la preven
 description: "Los British Shorthair son queridos por su complexión robusta. Descubra una rutina de 3 pasos de dieta y estilo de vida para prevenir la obesidad y la HCM genética."
 pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
-heroImage: "/images/blog/bshorthair_care.webp"
+heroImage: "/images/blog/bshorthair_care.png"
 authority: "Estándares de cría de GCCF para British Shorthairs y pautas de obesidad de AAFP"
 app: "petself"
 formatVersion: 4

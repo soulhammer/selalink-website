@@ -5,7 +5,7 @@ pubDate: "2026-06-14"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["通过散步完成了进化论","Routine"]
-heroImage: "/images/blog/darwin_sandwalk.webp"
+heroImage: "/images/blog/darwin_sandwalk.png"
 app: "buildself"
 formatVersion: 4
 authority: "查尔斯·达尔文自传及斯坦福大学步行与创造力相关性研究"

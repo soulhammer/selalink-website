@@ -5,7 +5,7 @@ pubDate: "2026-03-30"
 updatedDate: "2026-03-30"
 category: "BuildSelf"
 tags: ["混乱の中で秩序を記録","Routine"]
-heroImage: "/images/blog/newton_meticulous_journaling.webp"
+heroImage: "/images/blog/newton_meticulous_journaling.png"
 app: "buildself"
 formatVersion: 4
 authority: "アイザック・ニュートンの手稿「The Waste Book」および学術誌「Psychological Science」"

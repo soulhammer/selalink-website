@@ -5,7 +5,7 @@ pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "BuildSelf"
 tags: ["Great Habits","georgia","Routine","Stamina"]
-heroImage: "/images/blog/georgia_okeeffe.webp"
+heroImage: "/images/blog/georgia_okeeffe.png"
 app: "buildself"
 formatVersion: 4
 authority: "Hunter Drohojowska-Philp, *Full Bloom: The Art and Life of Georgia O'Keeffe* (2004) & Cognitive Neuroscientific Studies"

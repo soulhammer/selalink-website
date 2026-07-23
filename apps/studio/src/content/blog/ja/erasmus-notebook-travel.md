@@ -5,7 +5,7 @@ pubDate: "2026-06-11"
 updatedDate: "2026-06-11"
 category: "BuildSelf"
 tags: ["エラスムスの旅行用手","Routine"]
-heroImage: "/images/blog/erasmus_notebook_travel.webp"
+heroImage: "/images/blog/erasmus_notebook_travel.png"
 app: "buildself"
 formatVersion: 4
 authority: "エラスムス『愚神礼賛』序文および書簡集 / 身体移動および動的刺激が認知柔軟性とアルファ波（Alpha Wave）形成に及ぼす認知科学研究"

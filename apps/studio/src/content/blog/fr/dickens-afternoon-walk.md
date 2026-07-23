@@ -5,7 +5,7 @@ pubDate: "2026-05-23"
 updatedDate: "2026-05-23"
 category: "BuildSelf"
 tags: ["Le romanci","Routine"]
-heroImage: "/images/blog/dickens_afternoon_walk.webp"
+heroImage: "/images/blog/dickens_afternoon_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "L'ouvrage de John Forster 'La Vie de Charles Dickens' et Frontiers in Human Neuroscience"

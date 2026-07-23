@@ -5,7 +5,7 @@ pubDate: "2026-03-23"
 updatedDate: "2026-03-23"
 category: "BuildSelf"
 tags: ["清晨静静旋转的纺車？","Routine"]
-heroImage: "/images/blog/gandhi_morning_meditation.webp"
+heroImage: "/images/blog/gandhi_morning_meditation.png"
 app: "buildself"
 formatVersion: 4
 authority: "《甘地自传》与学术期刊《American Journal of Health Promotion》"

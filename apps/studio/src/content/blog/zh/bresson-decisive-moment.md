@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["观察焦点的几何形状？","Routine"]
-heroImage: "/images/blog/bresson_decisive_moment.webp"
+heroImage: "/images/blog/bresson_decisive_moment.png"
 app: "buildself"
 formatVersion: 4
 authority: "卡地亚-布列松的论文“决定性时刻”与心理学研究前沿"

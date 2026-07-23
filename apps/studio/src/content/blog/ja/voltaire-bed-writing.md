@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["ベッドから出ないでく","Routine"]
-heroImage: "/images/blog/voltaire_bed_writing.webp"
+heroImage: "/images/blog/voltaire_bed_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "ヴォルテールの秘書ヴァニエールの回想録および学術誌「Frontiers in Human Neuroscience」"

@@ -5,7 +5,7 @@ pubDate: "2026-07-04"
 updatedDate: "2026-07-04"
 category: "BuildSelf"
 tags: ["Great Habits","george","Routine","Stamina"]
-heroImage: "/images/blog/george_washington_morning_rounds.webp"
+heroImage: "/images/blog/george_washington_morning_rounds.png"
 app: "buildself"
 formatVersion: 4
 authority: "George Washington's Diaries (Diaries of George Washington) Original Sources"

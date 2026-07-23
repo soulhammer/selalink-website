@@ -5,7 +5,7 @@ description: "公的安全基準に基づくレモンの最適な保存温度、
 pubDate: "2026-02-13"
 category: "FreshSnap"
 tags: ["レモン","科学的に検証された保存ガイド","fruit"]
-heroImage: "/images/blog/lemon_storage_hack.webp"
+heroImage: "/images/blog/lemon_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>米国農務省(USDA) & FSA</strong>"

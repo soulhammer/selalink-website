@@ -4,7 +4,7 @@ description: "Composer Pyotr Tchaikovsky walked exactly two hours every day to s
 pubDate: "2026-06-01"
 category: "BuildSelf"
 tags: ["Great Habits","tchaikovsky","Routine","Stamina"]
-heroImage: "/images/blog/tchaikovsky_two_hour_walk.webp"
+heroImage: "/images/blog/tchaikovsky_two_hour_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Modest Tchaikovsky's 'The Life & Letters of Peter Ilich Tchaikovsky' & Frontiers in Neuroscience"

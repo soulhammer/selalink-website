@@ -5,7 +5,7 @@ description: "公的安全基準に基づくネギの最適な保存温度、保
 pubDate: "2026-01-07"
 category: "FreshSnap"
 tags: ["ネギ","科学的に検証された保存ガイド","vegetable"]
-heroImage: "/images/blog/green_onion_storage_hack.webp"
+heroImage: "/images/blog/green_onion_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"

@@ -5,7 +5,7 @@ pubDate: "2026-06-11"
 updatedDate: "2026-06-11"
 category: "BuildSelf"
 tags: ["Great Habits","maupassant","Routine","Stamina"]
-heroImage: "/images/blog/maupassant_rowing_reset.webp"
+heroImage: "/images/blog/maupassant_rowing_reset.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biography 'Guy de Maupassant: Étude Scientifique' & Journal of Applied Physiology"

@@ -5,7 +5,7 @@ pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
 tags: ["真夜中の完全な暗闇を","Routine"]
-heroImage: "/images/blog/bell_midnight_darkness.webp"
+heroImage: "/images/blog/bell_midnight_darkness.png"
 app: "buildself"
 formatVersion: 4
 authority: "ベル伝記「Reluctant Genius」および学術誌「Frontiers in Human Neuroscience」"

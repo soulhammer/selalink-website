@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Der Philos","Routine"]
-heroImage: "/images/blog/kierkegaard_standing_write.webp"
+heroImage: "/images/blog/kierkegaard_standing_write.png"
 app: "buildself"
 formatVersion: 4
 authority: "Joakim Garffs 'Søren Kierkegaard: A Biography' & Applied Ergonomics"

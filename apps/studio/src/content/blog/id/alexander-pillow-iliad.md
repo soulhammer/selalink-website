@@ -5,7 +5,7 @@ pubDate: "2026-01-23"
 updatedDate: "2026-01-23"
 category: "BuildSelf"
 tags: ["Iliad di B","Routine"]
-heroImage: "/images/blog/alexander_pillow_iliad.webp"
+heroImage: "/images/blog/alexander_pillow_iliad.png"
 app: "buildself"
 formatVersion: 4
 authority: "Life of Alexander karya Plutarch & Anabasis of Alexander karya Arrian"

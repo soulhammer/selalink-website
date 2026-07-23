@@ -5,7 +5,7 @@ pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
 tags: ["散髪による強制隔離環","Routine"]
-heroImage: "/images/blog/hugo_hair_shaving.webp"
+heroImage: "/images/blog/hugo_hair_shaving.png"
 app: "buildself"
 formatVersion: 4
 authority: "ヴィクトル・ユーゴーの伝記記録 ＆ 環境的制約と自己拘束デバイスに関する認知心理学研究"

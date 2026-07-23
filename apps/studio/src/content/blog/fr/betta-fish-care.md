@@ -4,7 +4,7 @@ title: "Signaux de Flaring du Poisson Betta et Routine en 3 Étapes pour de Bell
 description: "Guide complet pour le Poisson Betta (Combattant). Décodez le parai (flaring), l'organe labyrinthe et appliquez la routine WSAVA."
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
-heroImage: "/images/blog/betta_fish_care.webp"
+heroImage: "/images/blog/betta_fish_care.png"
 authority: "World Small Animal Veterinary Association (WSAVA)"
 app: "petself"
 formatVersion: 4

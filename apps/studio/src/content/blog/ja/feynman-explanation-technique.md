@@ -5,7 +5,7 @@ pubDate: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "BuildSelf"
 tags: ["ノーベル賞受賞者の超","Routine"]
-heroImage: "/images/blog/feynman_explanation_technique.webp"
+heroImage: "/images/blog/feynman_explanation_technique.png"
 app: "buildself"
 formatVersion: 4
 authority: "リチャード・ファインマン 著『ご冗談でしょう、ファインマンさん』＆ 教育心理学術誌(Educational Psychology Review)"

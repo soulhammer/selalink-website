@@ -4,7 +4,7 @@ title: "El problema genético detrás de la ternura: Cuidado de 3 pasos para las
 description: "Scottish Folds, famosos por sus orejas caídas. Son propensos a dolor articular genético e infecciones de oído. Descubra una rutina de 3 pasos para las articulaciones y oídos."
 pubDate: "2026-02-10"
 updatedDate: "2026-02-12"
-heroImage: "/images/blog/scottish_fold_care.webp"
+heroImage: "/images/blog/scottish_fold_care.png"
 authority: "Protocolo de cartílago hereditario de la ISFM (International Society of Feline Medicine) y directrices de GCCF"
 app: "petself"
 formatVersion: 4

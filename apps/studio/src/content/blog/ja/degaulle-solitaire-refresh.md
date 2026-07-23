@@ -5,7 +5,7 @@ pubDate: "2026-03-28"
 updatedDate: "2026-03-28"
 category: "BuildSelf"
 tags: ["大統領執務室での一人","Routine"]
-heroImage: "/images/blog/degaulle_solitaire_refresh.webp"
+heroImage: "/images/blog/degaulle_solitaire_refresh.png"
 app: "buildself"
 formatVersion: 4
 authority: "シャルル・ド・ゴールの戦争回想録「War Memoirs」および学術誌「Journal of Behavioral Medicine」"

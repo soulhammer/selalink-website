@@ -4,7 +4,7 @@ title: "世界で最も小さな戦士チワワ、泉門保護と低血糖予防
 description: "勇敢で小さいけれどデリケートなチワワ。頭蓋骨の泉門（モレラ）への衝撃防止と、低血糖によるショックを予防する3段階デイリールーティンを紹介します。"
 pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
-heroImage: "/images/blog/chihuahua_care.webp"
+heroImage: "/images/blog/chihuahua_care.png"
 authority: "チワワクラブオブアメリカ公式マニュアル＆AVMA超小型犬代謝・健康ケアガイドライン"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Le PDG qui","Routine"]
-heroImage: "/images/blog/tim_cook_early_morning_routine.webp"
+heroImage: "/images/blog/tim_cook_early_morning_routine.png"
 app: "buildself"
 formatVersion: 4
 authority: "Interview de couverture de Time Magazine & biographie de Leander Kahney 'Tim Cook'"

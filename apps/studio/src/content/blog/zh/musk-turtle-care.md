@@ -4,7 +4,7 @@ title: "密西西比泥龟的伸腿日光浴与水质过滤3阶段流程"
 description: "护理最常作为宠物饲养的半水生龟——密西西比泥龟（小香龟）。了解其日光浴期间伸展后腿的行为意义，并通过3阶段水质过滤指南防范甲壳疾病。"
 pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
-heroImage: "/images/blog/musk_turtle_care.webp"
+heroImage: "/images/blog/musk_turtle_care.png"
 authority: "World Chelonian Association 乌龟卫生指南及半水生龟饲养兽医指南"
 app: "petself"
 formatVersion: 4

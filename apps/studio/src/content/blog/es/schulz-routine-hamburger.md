@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Eliminar l","Routine"]
-heroImage: "/images/blog/schulz_routine_hamburger.webp"
+heroImage: "/images/blog/schulz_routine_hamburger.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía oficial 'Schulz y Peanuts' e investigación psicológica sobre el agotamiento del ego que previene la fatiga por tomar decisiones"

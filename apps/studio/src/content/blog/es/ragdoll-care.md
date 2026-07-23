@@ -4,7 +4,7 @@ title: "¿Un gato que se abraza como un muñeco? Rutina de 3 pasos de sujeción 
 description: "Ragdolls, los gatos gigantes que se relajan como muñecos al cargarlos. Aprenda consejos para proteger sus articulaciones y una rutina de 3 pasos de sujeción segura."
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
-heroImage: "/images/blog/ragdoll_care.webp"
+heroImage: "/images/blog/ragdoll_care.png"
 authority: "Guía de razas de la Cat Fanciers' Association (CFA) y directrices de práctica amigable con los gatos de AAFP"
 app: "petself"
 formatVersion: 4

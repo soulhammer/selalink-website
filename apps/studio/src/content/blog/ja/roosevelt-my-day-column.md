@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["書くことで揺るぎない","Routine"]
-heroImage: "/images/blog/roosevelt_my_day_column.webp"
+heroImage: "/images/blog/roosevelt_my_day_column.png"
 app: "buildself"
 formatVersion: 4
 authority: "エレノア・ルーズベルトのコラム「私の一日」と実験心理学ジャーナル"

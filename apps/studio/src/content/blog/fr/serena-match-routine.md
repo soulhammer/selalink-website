@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Le service","Routine"]
-heroImage: "/images/blog/serena_match_routine.webp"
+heroImage: "/images/blog/serena_match_routine.png"
 app: "buildself"
 formatVersion: 4
 authority: "Récit d'entretiens de Tennis Magazine et travaux du psychologue du sport Singer sur les routines de pré-performance"

@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["孤独な思考の解毒剤？","Routine"]
-heroImage: "/images/blog/hume_social_refresh.webp"
+heroImage: "/images/blog/hume_social_refresh.png"
 app: "buildself"
 formatVersion: 4
 authority: "ヒューム伝記「The Life of David Hume」および認知神経科学の学術研究"

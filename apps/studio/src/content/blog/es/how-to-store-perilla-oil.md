@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración para conservar
 pubDate: "2026-06-03"
 category: "FreshSnap"
 tags: ["Aceite de perilla","Guía de almacenamiento científicamente probada","condiment"]
-heroImage: "/images/blog/perilla_oil_storage_hack.webp"
+heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"

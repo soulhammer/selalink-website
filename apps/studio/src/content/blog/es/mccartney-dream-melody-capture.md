@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Melodías c","Routine"]
-heroImage: "/images/blog/mccartney_dream_melody_capture.webp"
+heroImage: "/images/blog/mccartney_dream_melody_capture.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía autorizada de Paul McCartney 'Many Years From Now' e investigación del sueño sobre los estados hipnagógicos, la creatividad en modo difuso y la rápida disminución de la memoria de trabajo"

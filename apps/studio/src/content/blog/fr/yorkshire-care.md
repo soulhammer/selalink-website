@@ -4,7 +4,7 @@ title: "Entretien du poil du Yorkshire Terrier et prévention de la luxation de 
 description: "Garde le poil du Yorkshire Terrier soyeux et renforce les genoux."
 pubDate: "2026-01-02"
 updatedDate: "2026-01-02"
-heroImage: "/images/blog/yorkshire_care.webp"
+heroImage: "/images/blog/yorkshire_care.png"
 authority: "Directives du Yorkshire Terrier Club (YTC) et de l'orthopédie vétérinaire"
 app: "petself"
 formatVersion: 4

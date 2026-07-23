@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Obat Menta","Routine"]
-heroImage: "/images/blog/camus_football_reset.webp"
+heroImage: "/images/blog/camus_football_reset.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi 'Albert Camus: Biografi' & Neurobiologi Pembelajaran dan Memori"

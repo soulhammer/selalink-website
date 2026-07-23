@@ -5,7 +5,7 @@ pubDate: "2026-05-17"
 updatedDate: "2026-05-17"
 category: "BuildSelf"
 tags: ["香奈儿必备的极简剪裁","Routine"]
-heroImage: "/images/blog/coco_chanel.webp"
+heroImage: "/images/blog/coco_chanel.png"
 app: "buildself"
 formatVersion: 4
 authority: "Edmonde Charles-Roux，*香奈儿和她的世界* (1975) 与认知神经科学研究"

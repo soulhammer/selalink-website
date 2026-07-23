@@ -5,7 +5,7 @@ pubDate: "2026-05-17"
 updatedDate: "2026-05-17"
 category: "BuildSelf"
 tags: ["煩わしいコルセットや","Routine"]
-heroImage: "/images/blog/coco_chanel.webp"
+heroImage: "/images/blog/coco_chanel.png"
 app: "buildself"
 formatVersion: 4
 authority: "エドモンド・シャルル・ルー、*シャネルと彼女の世界* (1975) & 認知神経科学研究"

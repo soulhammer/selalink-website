@@ -5,7 +5,7 @@ pubDate: "2026-03-12"
 updatedDate: "2026-03-12"
 category: "BuildSelf"
 tags: ["O treiname","Routine"]
-heroImage: "/images/blog/helen_keller.webp"
+heroImage: "/images/blog/helen_keller.png"
 app: "buildself"
 formatVersion: 4
 authority: "Helen Keller, *The Story of My Life* (1903) & Cognitive Neuroscientific Studies"

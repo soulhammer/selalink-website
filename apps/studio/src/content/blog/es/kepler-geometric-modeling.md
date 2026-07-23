@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["¿Esculpir ","Routine"]
-heroImage: "/images/blog/kepler_geometric_modeling.webp"
+heroImage: "/images/blog/kepler_geometric_modeling.png"
 app: "buildself"
 formatVersion: 4
 authority: "Mysterium Cosmographicum de Kepler y estudios sobre la manipulación espacial háptica"

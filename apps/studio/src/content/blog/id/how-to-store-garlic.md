@@ -5,7 +5,7 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Bawang putih b
 pubDate: "2026-02-02"
 category: "FreshSnap"
 tags: ["Bawang putih","Panduan Penyimpanan yang Terbukti Secara Ilmiah","vegetable"]
-heroImage: "/images/blog/garlic_storage_hack.webp"
+heroImage: "/images/blog/garlic_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"

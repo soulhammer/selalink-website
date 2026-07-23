@@ -4,7 +4,7 @@ title: "Raksasa yang Lembut Maine Coon: Perawatan 3 Langkah Kesehatan Jantung da
 description: "Raksasa yang lembut Maine Coon. Temukan langkah aman untuk mengelola tekanan sendi akibat berat tubuh besar dan rutinitas 3 langkah untuk kesehatan jantung dan bulu ganda."
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
-heroImage: "/images/blog/maine_coon_care.webp"
+heroImage: "/images/blog/maine_coon_care.png"
 authority: "Panduan Resmi Maine Coon Breeders & Fanciers Association (MCBFA) & Protokol Manajemen Kucing Besar AAFP"
 app: "petself"
 formatVersion: 4

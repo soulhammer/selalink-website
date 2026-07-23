@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["¿El genio ","Routine"]
-heroImage: "/images/blog/vivaldi_composition_walk.webp"
+heroImage: "/images/blog/vivaldi_composition_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Obra de H.C. Robbins Landon 'Vivaldi: Voice of the Baroque' y análisis de manuscritos"

@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Concentrac","Routine"]
-heroImage: "/images/blog/leejungseob_tin_foil_drawing.webp"
+heroImage: "/images/blog/leejungseob_tin_foil_drawing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Dibujos de papel de aluminio de Lee Jung-seob en MoMA e investigación sobre la relajación emocional a través de la estimulación asociativa táctil-visual"

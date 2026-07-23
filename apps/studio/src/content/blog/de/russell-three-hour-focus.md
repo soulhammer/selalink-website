@@ -5,7 +5,7 @@ pubDate: "2026-04-02"
 updatedDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["Das Genie,","Routine"]
-heroImage: "/images/blog/russell_three_hour_focus.webp"
+heroImage: "/images/blog/russell_three_hour_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "Russells Autobiografie 'The Autobiography of Bertrand Russell' & Studien zum Deep Work"

@@ -4,7 +4,7 @@ title: "La energía ardiente de los perros de trineo: Cuidado de 3 pasos de mant
 description: "Husky Siberiano, el perro de trineo. Aprenda a combatir el calor y a canalizar su gran energía para evitar ladridos, aullidos y destrozos con una rutina de 3 pasos."
 pubDate: "2026-03-29"
 updatedDate: "2026-03-30"
-heroImage: "/images/blog/husky_care.webp"
+heroImage: "/images/blog/husky_care.png"
 authority: "Guía de la Siberian Husky Club of America y protocolos de actividad para perros de trabajo de IAABC"
 app: "petself"
 formatVersion: 4

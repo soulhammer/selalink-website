@@ -5,7 +5,7 @@ pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "BuildSelf"
 tags: ["Great Habits","ramanujan","Routine","Stamina"]
-heroImage: "/images/blog/ramanujan_dream_notebook.webp"
+heroImage: "/images/blog/ramanujan_dream_notebook.png"
 app: "buildself"
 formatVersion: 4
 authority: "Robert Kanigel's Biography 'The Man Who Knew Infinity' & G. H. Hardy's Memoirs 'Ramanujan: Essays on His Life and Work'"

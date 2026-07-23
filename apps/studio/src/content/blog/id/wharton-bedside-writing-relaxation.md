@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Aliran Kre","Routine"]
-heroImage: "/images/blog/wharton_bedside_writing_relaxation.webp"
+heroImage: "/images/blog/wharton_bedside_writing_relaxation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografi Edith Wharton 'A Backward Glance' dan Riset Neurofisiologis tentang Aktivasi Parasimpatis, Gelombang Otak Alfa, dan Kinerja Menulis Kreatif"

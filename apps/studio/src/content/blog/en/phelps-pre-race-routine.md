@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Great Habits","phelps","Routine","Stamina"]
-heroImage: "/images/blog/phelps_pre_race_routine.webp"
+heroImage: "/images/blog/phelps_pre_race_routine.png"
 app: "buildself"
 formatVersion: 4
 authority: "Phelps's Autobiography and International Journal of Sport Psychology (IJSP) Research on Routines"

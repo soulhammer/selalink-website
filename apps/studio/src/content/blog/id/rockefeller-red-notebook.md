@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["Raja Minya","Routine"]
-heroImage: "/images/blog/rockefeller_red_notebook.webp"
+heroImage: "/images/blog/rockefeller_red_notebook.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi John D. Rockefeller 'Titan' & Jurnal Behavioral and Brain Sciences"

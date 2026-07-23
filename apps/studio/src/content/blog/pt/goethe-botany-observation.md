@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["O grande e","Routine"]
-heroImage: "/images/blog/goethe_botany_observation.webp"
+heroImage: "/images/blog/goethe_botany_observation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Obra de Goethe 'A metamorfose das plantas' e Teoria da restauração da atenção (Kaplan, 1995)"

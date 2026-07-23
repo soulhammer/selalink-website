@@ -4,7 +4,7 @@ title: "Chinchilla Malocclusion & Temperature Care: A 3-Step Daily Routine for D
 description: "Chinchillas have continuously growing teeth and are highly sensitive to heat and humidity. Learn a 3-step routine for hay feeding and dust baths."
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
-heroImage: "/images/blog/chinchilla_care.webp"
+heroImage: "/images/blog/chinchilla_care.png"
 authority: "Association of Exotic Mammal Veterinarians (AEMV) Chinchilla Guide"
 app: "petself"
 formatVersion: 4

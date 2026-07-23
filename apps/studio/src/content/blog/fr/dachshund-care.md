@@ -4,7 +4,7 @@ title: "Guide de protection du dos du Teckel et routine de 3 étapes pour renfor
 description: "Prendre soin du Teckel au corps long et pattes courtes. Apprenez à reconnaître les signes de douleur dorsale et protégez sa colonne vertébrale."
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
-heroImage: "/images/blog/dachshund_care.webp"
+heroImage: "/images/blog/dachshund_care.png"
 authority: "Guide de santé du Teckel de l'American Kennel Club et Directives de l'Association Vétérinaire de la Colonne"
 app: "petself"
 formatVersion: 4

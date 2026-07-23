@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["Great Habits","bohr","Routine","Stamina"]
-heroImage: "/images/blog/bohr_dialogue_dictation.webp"
+heroImage: "/images/blog/bohr_dialogue_dictation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Ruth Moore's 'Niels Bohr: The Man, His Science, and the World' and Lev Vygotsky's Research on External Speech and Cognitive Metacognition"

@@ -5,7 +5,7 @@ pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["在隔绝光线和噪音的洗","Routine"]
-heroImage: "/images/blog/torvalds_darkroom_focus.webp"
+heroImage: "/images/blog/torvalds_darkroom_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "林纳斯·托瓦兹自传《Just for Fun》与前额叶注意力持续相关认知科学研究"

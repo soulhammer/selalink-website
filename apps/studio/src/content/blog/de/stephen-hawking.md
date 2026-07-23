@@ -5,7 +5,7 @@ pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
 tags: ["Hawkings v","Routine"]
-heroImage: "/images/blog/stephen_hawking.webp"
+heroImage: "/images/blog/stephen_hawking.png"
 app: "buildself"
 formatVersion: 4
 authority: "Stephen Hawking, *My Brief History* (2013) & Cognitive Neuroscientific Studies"

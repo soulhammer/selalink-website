@@ -4,7 +4,7 @@ title: "Soins du Welsh Corgi : Une routine en 3 étapes pour la santé du dos et
 description: "Le Welsh Corgi, célèbre pour son derrière mignon et ses pattes courtes. Découvrez une routine en 3 étapes pour prévenir les problèmes de colonne et la luxation de la rotule."
 pubDate: "2026-04-12"
 updatedDate: "2026-04-14"
-heroImage: "/images/blog/corgi_care.webp"
+heroImage: "/images/blog/corgi_care.png"
 authority: "Guide officiel du Pembroke Welsh Corgi Club of America et directives de santé de l'AKC"
 app: "petself"
 formatVersion: 4

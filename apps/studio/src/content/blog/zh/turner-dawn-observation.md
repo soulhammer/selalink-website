@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["将光芒烙印在脑海？特","Routine"]
-heroImage: "/images/blog/turner_dawn_observation.webp"
+heroImage: "/images/blog/turner_dawn_observation.png"
 app: "buildself"
 formatVersion: 4
 authority: "特纳传记《J.M.W. Turner》与时空间工作记忆学术研究成果"

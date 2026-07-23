@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Präzision ","Routine"]
-heroImage: "/images/blog/kimgu_brush_meditation.webp"
+heroImage: "/images/blog/kimgu_brush_meditation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Kim Gus historische Memoiren „Baekbeomilji“ & Forschung zur Feinmotorik und Angstregulierung der Amygdala"

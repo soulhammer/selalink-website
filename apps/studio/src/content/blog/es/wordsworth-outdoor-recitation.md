@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["¿El poeta ","Routine"]
-heroImage: "/images/blog/wordsworth_outdoor_recitation.webp"
+heroImage: "/images/blog/wordsworth_outdoor_recitation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía de William Wordsworth de Hunter Davies y revista Cognitive Brain Research"

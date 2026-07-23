@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["Menaklukka","Routine"]
-heroImage: "/images/blog/sushi_bamboo_walk_cooking.webp"
+heroImage: "/images/blog/sushi_bamboo_walk_cooking.png"
 app: "buildself"
 formatVersion: 4
 authority: "Karya Terkumpul Su Shi 'Dongpo Quanji' & Biografi Lin Yutang 'The Gay Genius'"

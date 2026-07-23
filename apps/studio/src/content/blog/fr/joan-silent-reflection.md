@@ -5,7 +5,7 @@ pubDate: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["Le centre ","Routine"]
-heroImage: "/images/blog/joan_silent_reflection.webp"
+heroImage: "/images/blog/joan_silent_reflection.png"
 app: "buildself"
 formatVersion: 4
 authority: "Procès de condamnation de Jeanne d'Arc (1431) & revue Journal of Research in Personality"

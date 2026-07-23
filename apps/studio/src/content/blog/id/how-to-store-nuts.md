@@ -5,7 +5,7 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Kacang-kacanga
 pubDate: "2026-06-18"
 category: "FreshSnap"
 tags: ["Kacang-kacangan","Panduan Penyimpanan yang Terbukti Secara Ilmiah","etc"]
-heroImage: "/images/blog/nuts_storage_hack.webp"
+heroImage: "/images/blog/nuts_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"

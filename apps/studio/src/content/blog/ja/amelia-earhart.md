@@ -5,7 +5,7 @@ pubDate: "2026-01-31"
 updatedDate: "2026-01-31"
 category: "BuildSelf"
 tags: ["イアハートの認知制御","Routine"]
-heroImage: "/images/blog/amelia_earhart.webp"
+heroImage: "/images/blog/amelia_earhart.png"
 app: "buildself"
 formatVersion: 4
 authority: "アメリア・イアハート、*The Fun of It* (1932) & 認知神経科学研究"

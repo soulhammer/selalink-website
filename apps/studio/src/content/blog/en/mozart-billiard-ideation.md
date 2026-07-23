@@ -5,7 +5,7 @@ pubDate: "2026-05-01"
 updatedDate: "2026-05-01"
 category: "BuildSelf"
 tags: ["Great Habits","mozart","Routine","Stamina"]
-heroImage: "/images/blog/mozart_billiard_ideation.webp"
+heroImage: "/images/blog/mozart_billiard_ideation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Constanze Mozart's Letters and Memorials & UC Santa Barbara Study on Default Mode Network (2012)"

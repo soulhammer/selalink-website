@@ -4,7 +4,7 @@ title: "Maltese yang Pemberani? Rutinitas Perlindungan 3 Langkah untuk Kesehatan
 description: "Maltese, anjing yang paling dicintai. Temukan tips untuk mencegah luksasi patela secara genetik dan rutinitas harian 3 langkah untuk mengatasi noda air mata."
 pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
-heroImage: "/images/blog/maltese_care.webp"
+heroImage: "/images/blog/maltese_care.png"
 authority: "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC"
 app: "petself"
 formatVersion: 4

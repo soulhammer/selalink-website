@@ -5,7 +5,7 @@ pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
 tags: ["「真珠の耳飾りの少女","Routine"]
-heroImage: "/images/blog/vermeer_camera_obscura_light.webp"
+heroImage: "/images/blog/vermeer_camera_obscura_light.png"
 app: "buildself"
 formatVersion: 4
 authority: "メトロポリタン美術館「Vermeer and the Delft School」および研究書史料"

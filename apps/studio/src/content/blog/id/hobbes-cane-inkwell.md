@@ -5,7 +5,7 @@ pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
 tags: ["Filsuf yan","Routine"]
-heroImage: "/images/blog/hobbes_cane_inkwell.webp"
+heroImage: "/images/blog/hobbes_cane_inkwell.png"
 app: "buildself"
 formatVersion: 4
 authority: "Catatan Biografi 'Brief Lives' oleh John Aubrey & Teori Kognitif 'Supersizing the Mind'"

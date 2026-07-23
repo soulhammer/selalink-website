@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["为了完美沉浸的孤立：","Routine"]
-heroImage: "/images/blog/shaw_rotating_hut_focus.webp"
+heroImage: "/images/blog/shaw_rotating_hut_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "英国埃奥特圣劳伦斯萧伯纳故居（Shaw's Corner）博物馆木屋记录考证及环境心理学关于自然光专注与阻断效应对降低认知疲劳影响的研究"

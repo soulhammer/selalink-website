@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["设计你自己：行为主义","Routine"]
-heroImage: "/images/blog/skinner_behavior_tracking.webp"
+heroImage: "/images/blog/skinner_behavior_tracking.png"
 app: "buildself"
 formatVersion: 4
 authority: "B. F. 斯金纳自传《Particulars of My Life》与行为主义操作性条件反射理论"

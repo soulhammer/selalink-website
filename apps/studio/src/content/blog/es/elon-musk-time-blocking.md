@@ -5,7 +5,7 @@ pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "BuildSelf"
 tags: ["El 'bloque","Routine"]
-heroImage: "/images/blog/elon_musk_time_blocking.webp"
+heroImage: "/images/blog/elon_musk_time_blocking.png"
 app: "buildself"
 formatVersion: 4
 authority: "Elon Musk de Ashlee Vance y Biografía de Elon Musk de Walter Isaacson"

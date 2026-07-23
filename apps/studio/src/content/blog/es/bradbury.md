@@ -5,7 +5,7 @@ pubDate: "2026-06-16"
 updatedDate: "2026-06-16"
 category: "BuildSelf"
 tags: ["La rutina ","Routine"]
-heroImage: "/images/blog/bradbury.webp"
+heroImage: "/images/blog/bradbury.png"
 app: "buildself"
 formatVersion: 4
 authority: "Ray Bradbury, *Zen en el arte de escribir* (1990) y estudios neurocientíficos cognitivos"

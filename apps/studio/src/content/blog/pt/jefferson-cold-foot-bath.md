@@ -5,7 +5,7 @@ pubDate: "2026-04-17"
 updatedDate: "2026-04-17"
 category: "BuildSelf"
 tags: ["Despertar ","Routine"]
-heroImage: "/images/blog/jefferson_cold_foot_bath.webp"
+heroImage: "/images/blog/jefferson_cold_foot_bath.png"
 app: "buildself"
 formatVersion: 4
 authority: "Cartas pessoais de Thomas Jefferson e estudo de neurociência sobre a estimulação térmica fria e o sistema nervoso autónomo"

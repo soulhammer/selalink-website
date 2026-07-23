@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["午前4時の奇跡：コー","Routine"]
-heroImage: "/images/blog/bryant_four_am_workout.webp"
+heroImage: "/images/blog/bryant_four_am_workout.png"
 app: "buildself"
 formatVersion: 4
 authority: "コービー・ブライアント自叙伝『The Mamba Mentality』考証およびクロノバイオロジー（Chronobiology）日内身体代謝研究"

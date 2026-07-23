@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["清晨最先解决最难课题","Routine"]
-heroImage: "/images/blog/carnegie_priority_first.webp"
+heroImage: "/images/blog/carnegie_priority_first.png"
 app: "buildself"
 formatVersion: 4
 authority: "卡内基自传《Autobiography of Andrew Carnegie》与自我损耗 (Ego Depletion) 理论心理学研究"

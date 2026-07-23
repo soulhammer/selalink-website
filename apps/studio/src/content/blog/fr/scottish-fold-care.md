@@ -4,7 +4,7 @@ title: "Les problèmes génétiques derrière l'adoration : Routine en 3 étapes
 description: "Le Scottish Fold, célèbre pour ses oreilles pliées. Il est sujet à des douleurs articulaires génétiques et des otites. Découvrez une routine en 3 étapes pour ses articulations."
 pubDate: "2026-02-10"
 updatedDate: "2026-02-12"
-heroImage: "/images/blog/scottish_fold_care.webp"
+heroImage: "/images/blog/scottish_fold_care.png"
 authority: "Protocole sur le cartilage héréditaire de l'ISFM (International Society of Feline Medicine) et directives de la GCCF"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-03-27"
 updatedDate: "2026-03-27"
 category: "BuildSelf"
 tags: ["Le secret ","Routine"]
-heroImage: "/images/blog/debussy_nature_listening.webp"
+heroImage: "/images/blog/debussy_nature_listening.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie 'Debussy: His Life and Mind' & Nature Scientific Reports"

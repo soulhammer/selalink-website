@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["A noite qu","Routine"]
-heroImage: "/images/blog/pythagoras_evening_examination.webp"
+heroImage: "/images/blog/pythagoras_evening_examination.png"
 app: "buildself"
 formatVersion: 4
 authority: "O código pitagórico 'Versos de Ouro' e pesquisa da Escola de Medicina de Harvard sobre a consolidação da memória no estado de sono"

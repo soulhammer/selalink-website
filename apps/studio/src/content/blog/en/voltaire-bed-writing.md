@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Great Habits","voltaire","Routine","Stamina"]
-heroImage: "/images/blog/voltaire_bed_writing.webp"
+heroImage: "/images/blog/voltaire_bed_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Memoirs of Voltaire's secretary Wagnière & Frontiers in Human Neuroscience"

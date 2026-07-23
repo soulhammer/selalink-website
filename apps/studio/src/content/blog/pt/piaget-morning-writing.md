@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Como o cér","Routine"]
-heroImage: "/images/blog/piaget_morning_writing.webp"
+heroImage: "/images/blog/piaget_morning_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia de Jean Piaget, 'Autobiografia' e Journal of Cognitive Neuroscience"

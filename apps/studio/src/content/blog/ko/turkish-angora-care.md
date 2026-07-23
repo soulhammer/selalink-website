@@ -4,7 +4,7 @@ title: "터키시 앙고라 난청 및 심장 케어: 오드아이 난청 고양
 description: "파란 눈 또는 오드아이 터키시 앙고라는 유전적 난청(Deafness) 및 심장 비대증(HCM) 위험이 큽니다. 시각 신호 교감과 털 관리를 돕는 3단계 데일리 루틴을 알아봅니다."
 pubDate: "2026-04-07"
 updatedDate: "2026-04-07"
-heroImage: "/images/blog/turkish_angora_care.webp"
+heroImage: "/images/blog/turkish_angora_care.png"
 authority: "CFA 터키시 앙고라 분과위원회 및 고양이 선천 난청 연구 표준"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["El poder d","Routine"]
-heroImage: "/images/blog/eisenhower_matrix_decision.webp"
+heroImage: "/images/blog/eisenhower_matrix_decision.png"
 app: "buildself"
 formatVersion: 4
 authority: "Archivos de la Biblioteca Dwight D. Eisenhower (discurso de 1954) y estudios de ciencia cognitiva sobre la fatiga por tomar decisiones y la asignación de recursos prefrontales"

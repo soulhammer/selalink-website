@@ -5,7 +5,7 @@ description: "Learn the best storage temperature, methods, and duration for Blue
 pubDate: "2026-03-29"
 category: "FreshSnap"
 tags: ["Blueberry","Scientifically Proven Storage Guide","fruit"]
-heroImage: "/images/blog/blueberry_storage_hack.webp"
+heroImage: "/images/blog/blueberry_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & RDA</strong>"

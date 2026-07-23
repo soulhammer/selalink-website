@@ -5,7 +5,7 @@ pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "BuildSelf"
 tags: ["Great Habits","jung","Routine","Stamina"]
-heroImage: "/images/blog/jung_bollingen_detox.webp"
+heroImage: "/images/blog/jung_bollingen_detox.png"
 app: "buildself"
 formatVersion: 4
 authority: "Carl Jung's Autobiography 'Memories, Dreams, Reflections' & Journal of Behavioral Addictions"

@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["¿Cómo capt","Routine"]
-heroImage: "/images/blog/brucelee_pocket_notebook.webp"
+heroImage: "/images/blog/brucelee_pocket_notebook.png"
 app: "buildself"
 formatVersion: 4
 authority: "Bruce Lee Archives 'Artista de la vida' e investigación de tecnología cognitiva"

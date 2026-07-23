@@ -4,7 +4,7 @@ title: "Soin du Cœur et du Poids de l'American Shorthair : Routine en 3 étapes
 description: "L'American Shorthair est robuste mais sujet à l'obésité et à la cardiomyopathie hypertrophique (CMH). Apprenez une routine en 3 étapes pour son bien-être."
 pubDate: "2026-03-02"
 updatedDate: "2026-03-02"
-heroImage: "/images/blog/american_shorthair_care.webp"
+heroImage: "/images/blog/american_shorthair_care.png"
 authority: "Directives de la CFA et travaux du Cornell Feline Health Center"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["練習室の隅で他人の言","Routine"]
-heroImage: "/images/blog/shakespeare.webp"
+heroImage: "/images/blog/shakespeare.png"
 app: "buildself"
 formatVersion: 4
 authority: "ピーター・アクロイド、*シェイクスピア: 伝記* (2005) & 認知神経科学研究"

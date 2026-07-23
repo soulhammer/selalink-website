@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["帝国的重载与自我反思","Routine"]
-heroImage: "/images/blog/victoria_daily_journaling.webp"
+heroImage: "/images/blog/victoria_daily_journaling.png"
 app: "buildself"
 formatVersion: 4
 authority: "维多利亚女王亲笔日记手稿保存资料(Royal Archives)历史考证及德克萨斯大学詹姆斯·佩内贝克教授的表达性写作(Expressive Writing)认知科学研究"

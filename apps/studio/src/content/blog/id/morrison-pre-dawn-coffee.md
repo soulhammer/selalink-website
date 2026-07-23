@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["Ritual Kre","Routine"]
-heroImage: "/images/blog/morrison_pre_dawn_coffee.webp"
+heroImage: "/images/blog/morrison_pre_dawn_coffee.png"
 app: "buildself"
 formatVersion: 4
 authority: "Wawancara Tinjauan Paris dengan Toni Morrison & Jurnal Irama Sirkadian"

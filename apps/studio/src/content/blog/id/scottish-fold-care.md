@@ -4,7 +4,7 @@ title: "Masalah Genetik di Balik Kelucuan: Perawatan 3 Langkah Sendi dan Telinga
 description: "Scottish Fold, terkenal dengan telinga terlipat. Mereka rentan terhadap nyeri sendi genetik dan infeksi telinga. Temukan rutinitas 3 langkah untuk perawatan sendi dan telinga."
 pubDate: "2026-02-10"
 updatedDate: "2026-02-12"
-heroImage: "/images/blog/scottish_fold_care.webp"
+heroImage: "/images/blog/scottish_fold_care.png"
 authority: "Protokol Kartilago Herediter ISFM (International Society of Feline Medicine) & Pedoman Ras GCCF"
 app: "petself"
 formatVersion: 4

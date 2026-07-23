@@ -4,7 +4,7 @@ title: "Guia de vitamina C do porquinho-da-índia abissínio e rotina de 3 passo
 description: "Cuidado do porquinho-da-índia abissínio de pelo com rosetas. Saiba como suprir a vitamina C e gerir a gaiola para evitar poeiras nos pulmões."
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
-heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
+heroImage: "/images/blog/abyssinian_guinea_pig_care.png"
 authority: "Diretrizes de Cuidado de Roedores da RSPCA e Estágios de Veterinários de Animais Exóticos"
 app: "petself"
 formatVersion: 4

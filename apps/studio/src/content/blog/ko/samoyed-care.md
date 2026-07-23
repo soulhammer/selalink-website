@@ -4,7 +4,7 @@ title: "사모예드 이중모 및 고관절 건강 관리: 털 빠짐 케어와
 description: "사모예드는 빽빽한 이중모로 인한 피부 질환과 대형견 특유의 고관절 이형성증에 취약합니다. 털 관리와 관절 보호를 위한 3단계 데일리 루틴을 다룹니다."
 pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
-heroImage: "/images/blog/samoyed_care.webp"
+heroImage: "/images/blog/samoyed_care.png"
 authority: "AKC 사모예드 케어북 & 동물 정형외과 재단(OFA) 가이드"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["万能知识的单册化笔记","Routine"]
-heroImage: "/images/blog/leibniz_universal_notebook.webp"
+heroImage: "/images/blog/leibniz_universal_notebook.png"
 app: "buildself"
 formatVersion: 4
 authority: "玛丽亚·罗莎·安托尼亚扎著《莱布尼茨知识传记》记录考证及关于大脑信息科学中语义网络形成与突触长期增强的认知理论"

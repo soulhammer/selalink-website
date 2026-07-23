@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["Dialog yan","Routine"]
-heroImage: "/images/blog/bohr_dialogue_dictation.webp"
+heroImage: "/images/blog/bohr_dialogue_dictation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Buku biografi 'Niels Bohr' oleh Ruth Moore dan Penelitian Lev Vygotsky tentang Bicara Eksternal dan Metakognisi"

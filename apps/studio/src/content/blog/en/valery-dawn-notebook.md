@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Great Habits","valery","Routine","Stamina"]
-heroImage: "/images/blog/valery_dawn_notebook.webp"
+heroImage: "/images/blog/valery_dawn_notebook.png"
 app: "buildself"
 formatVersion: 4
 authority: "Paul Valery's Original Archive 'Cahiers' and Chronobiology Research on Dawn Cortisol & Prefrontal Activation"

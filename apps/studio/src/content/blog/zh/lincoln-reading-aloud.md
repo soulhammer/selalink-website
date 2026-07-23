@@ -5,7 +5,7 @@ pubDate: "2026-04-26"
 updatedDate: "2026-04-26"
 category: "BuildSelf"
 tags: ["大声朗读图书的总统？","Routine"]
-heroImage: "/images/blog/lincoln_reading_aloud.webp"
+heroImage: "/images/blog/lincoln_reading_aloud.png"
 app: "buildself"
 formatVersion: 4
 authority: "威廉·赫恩登著《林肯的一生》及认知心理学研究(MacLeod et al., 2010)"

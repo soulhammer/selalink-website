@@ -5,7 +5,7 @@ pubDate: "2026-07-11"
 updatedDate: "2026-07-11"
 category: "BuildSelf"
 tags: ["Great Habits","weil","Routine","Stamina"]
-heroImage: "/images/blog/weil_classical_recitation.webp"
+heroImage: "/images/blog/weil_classical_recitation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Simone Weil's Waiting for God & Neurocognitive Research on Vocal Recitation"

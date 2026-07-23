@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["巨匠の偉大な始まり：","Routine"]
-heroImage: "/images/blog/kurosawa_page_writing.webp"
+heroImage: "/images/blog/kurosawa_page_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "黒澤明の自伝『蝦蟇の油』の記録、およびミクロ目標設定と扁桃体脅威反応抑制に関する行動科学研究"

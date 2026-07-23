@@ -5,7 +5,7 @@ pubDate: "2026-04-27"
 updatedDate: "2026-04-27"
 category: "BuildSelf"
 tags: ["创意国政的秘诀？世宗","Routine"]
-heroImage: "/images/blog/sejong_dawn_reading.webp"
+heroImage: "/images/blog/sejong_dawn_reading.png"
 app: "buildself"
 formatVersion: 4
 authority: "《朝鲜王朝实录·世宗实录》与学术期刊《Frontiers in Psychology》"

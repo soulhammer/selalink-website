@@ -5,7 +5,7 @@ pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
 tags: ["撒切尔的信息净化习惯","Routine"]
-heroImage: "/images/blog/thatcher.webp"
+heroImage: "/images/blog/thatcher.png"
 app: "buildself"
 formatVersion: 4
 authority: "玛格丽特·撒切尔 (Margaret Thatcher)，*唐宁街岁月* (1993) 和认知神经科学研究"

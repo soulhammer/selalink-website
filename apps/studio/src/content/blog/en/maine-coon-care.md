@@ -4,7 +4,7 @@ title: "The Gentle Giant Maine Coon: Heart Health and Magnificent Double Coat 3-
 description: "Maine Coons, the gentle giant cats with lion-like looks. Discover safety measures to manage joint pressure and a 3-step routine for heart health and double coat care."
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
-heroImage: "/images/blog/maine_coon_care.webp"
+heroImage: "/images/blog/maine_coon_care.png"
 authority: "Official Maine Coon Breeders & Fanciers Association (MCBFA) Guide & AAFP Large Breed Management Protocols"
 app: "petself"
 formatVersion: 4

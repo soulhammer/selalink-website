@@ -5,7 +5,7 @@ pubDate: "2026-07-03"
 updatedDate: "2026-07-03"
 category: "BuildSelf"
 tags: ["辞書を丸ごと書き写す","Routine"]
-heroImage: "/images/blog/malcolm_dictionary_transcription.webp"
+heroImage: "/images/blog/malcolm_dictionary_transcription.png"
 app: "buildself"
 formatVersion: 4
 authority: "マルコムX自伝「The Autobiography of Malcolm X」および学術誌「Frontiers in Psychology」"

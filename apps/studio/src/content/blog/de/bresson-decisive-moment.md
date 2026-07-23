@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Die Geomet","Routine"]
-heroImage: "/images/blog/bresson_decisive_moment.webp"
+heroImage: "/images/blog/bresson_decisive_moment.png"
 app: "buildself"
 formatVersion: 4
 authority: "Cartier-Bressons Essay „Der entscheidende Moment“ und Grenzen der psychologischen Forschung"

@@ -5,7 +5,7 @@ pubDate: "2026-04-13"
 updatedDate: "2026-04-13"
 category: "BuildSelf"
 tags: ["Mencari Pa","Routine"]
-heroImage: "/images/blog/pavarotti_bent_nail.webp"
+heroImage: "/images/blog/pavarotti_bent_nail.png"
 app: "buildself"
 formatVersion: 4
 authority: "Otobiografi Pavarotti & Penelitian Psikologi Olahraga tentang Rutinitas Khusus"

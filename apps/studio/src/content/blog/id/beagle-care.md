@@ -4,7 +4,7 @@ title: "Perawatan Energi dan Kecemasan Beagle: Rutinitas 3 Langkah untuk Kecemas
 description: "Beagle adalah anjing pemburu yang sangat ingin tahu dengan energi besar. Pelajari rutinitas 3 langkah untuk memenuhi insting mengendus, meredakan kecemasan, dan merawat telinga."
 pubDate: "2026-02-28"
 updatedDate: "2026-03-01"
-heroImage: "/images/blog/beagle_care.webp"
+heroImage: "/images/blog/beagle_care.png"
 authority: "Manual Ras Resmi AKC untuk Beagle & Protokol Nosework IAABC"
 app: "petself"
 formatVersion: 4

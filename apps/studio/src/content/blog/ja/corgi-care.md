@@ -4,7 +4,7 @@ title: "短い脚のウェルシュ・コーギー：関節と脊椎を守る3�
 description: "愛らしいお尻と短い脚が魅力のウェルシュ・コーギー。長い背中と体重により発生しやすい脊椎疾患と膝蓋骨脱臼予防のための3段階ルーティンを紹介します。"
 pubDate: "2026-04-12"
 updatedDate: "2026-04-14"
-heroImage: "/images/blog/corgi_care.webp"
+heroImage: "/images/blog/corgi_care.png"
 authority: "Pembroke Welsh Corgi Club of America公式ガイド＆AKC健康指針"
 app: "petself"
 formatVersion: 4

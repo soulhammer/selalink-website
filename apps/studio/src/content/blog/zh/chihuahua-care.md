@@ -4,7 +4,7 @@ title: "世界上最小的勇士吉娃娃，囟门保护与预防低血糖3步�
 description: "勇敢娇小但也有脆弱一面的吉娃娃。介绍保护其颅骨顶部囟门（Molera）免受冲击的窍门，以及用于预防血糖急剧下降引发休克的3步日常护理惯例。"
 pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
-heroImage: "/images/blog/chihuahua_care.webp"
+heroImage: "/images/blog/chihuahua_care.png"
 authority: "美国吉娃娃俱乐部官方手册与 AVMA 超小型犬代谢与健康护理指南"
 app: "petself"
 formatVersion: 4

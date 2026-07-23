@@ -5,7 +5,7 @@ pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "BuildSelf"
 tags: ["La méthode","Routine"]
-heroImage: "/images/blog/nobel_evening_reflection.webp"
+heroImage: "/images/blog/nobel_evening_reflection.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie 'The Legacy of Alfred Nobel' & archives de la Fondation Nobel"

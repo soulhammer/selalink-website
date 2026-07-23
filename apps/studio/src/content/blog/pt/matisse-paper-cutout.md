@@ -5,7 +5,7 @@ pubDate: "2026-05-17"
 updatedDate: "2026-05-17"
 category: "BuildSelf"
 tags: ["O milagre ","Routine"]
-heroImage: "/images/blog/matisse_paper_cutout.webp"
+heroImage: "/images/blog/matisse_paper_cutout.png"
 app: "buildself"
 formatVersion: 4
 authority: "Arquivos do Tate Modern 'Henri Matisse: The Cut-Outs' & revista Creativity Research Journal"

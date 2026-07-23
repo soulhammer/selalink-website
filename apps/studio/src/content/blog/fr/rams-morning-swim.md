@@ -5,7 +5,7 @@ pubDate: "2026-05-20"
 updatedDate: "2026-05-20"
 category: "BuildSelf"
 tags: ["Moins, mai","Routine"]
-heroImage: "/images/blog/rams_morning_swim.webp"
+heroImage: "/images/blog/rams_morning_swim.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie de Dieter Rams 'As Little Design as Possible' & études de la théorie de la restauration de l'attention"

@@ -4,7 +4,7 @@ title: "Guia de proteção articular do Munchkin e rotina de 3 passos de baixa a
 description: "Cuidado do gato Munchkin de patas curtas. Aprenda a detetar os sinais de dor nas articulações e proteja a sua mobilidade diária."
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
-heroImage: "/images/blog/munchkin_care.webp"
+heroImage: "/images/blog/munchkin_care.png"
 authority: "Estabilidade da Raça Munchkin da Cat Fanciers' Association (CFA) e Diretrizes de Ortopedia Veterinária"
 app: "petself"
 formatVersion: 4

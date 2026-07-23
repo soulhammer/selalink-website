@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Great Habits","kurosawa","Routine","Stamina"]
-heroImage: "/images/blog/kurosawa_page_writing.webp"
+heroImage: "/images/blog/kurosawa_page_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Akira Kurosawa's autobiography and Research on Micro-Goal Setting and Amygdala Threat Inhibition"

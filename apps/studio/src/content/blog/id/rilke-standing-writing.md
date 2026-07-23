@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["Otak Bangu","Routine"]
-heroImage: "/images/blog/rilke_standing_writing.webp"
+heroImage: "/images/blog/rilke_standing_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Kumpulan Surat Rilke 'Letters to a Young Poet' & Penelitian Sains Kognitif Aliran Darah Prefrontal pada Posisi Berdiri"

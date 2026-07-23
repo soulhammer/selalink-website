@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Ein Kopfst","Routine"]
-heroImage: "/images/blog/nehru_headstand_yoga.webp"
+heroImage: "/images/blog/nehru_headstand_yoga.png"
 app: "buildself"
 formatVersion: 4
 authority: "Nehrus 'An Autobiography' & Fachzeitschrift Journal of Alternative and Complementary Medicine"

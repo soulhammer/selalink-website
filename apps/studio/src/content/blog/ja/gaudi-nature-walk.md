@@ -5,7 +5,7 @@ pubDate: "2026-04-13"
 updatedDate: "2026-04-13"
 category: "BuildSelf"
 tags: ["バルセロナを4km歩","Routine"]
-heroImage: "/images/blog/gaudi_nature_walk.webp"
+heroImage: "/images/blog/gaudi_nature_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "ガウディ伝記「Gaudí: A Biography」およびスタンフォード大学の認知科学散歩研究"

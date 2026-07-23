@@ -5,7 +5,7 @@ pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
 tags: ["Den Geist ","Routine"]
-heroImage: "/images/blog/confucius_guqin_harmony.webp"
+heroImage: "/images/blog/confucius_guqin_harmony.png"
 app: "buildself"
 formatVersion: 4
 authority: "Die Analekten, Shiji (Aufzeichnungen des Chronisten) & Fachzeitschrift Journal of Music Therapy"

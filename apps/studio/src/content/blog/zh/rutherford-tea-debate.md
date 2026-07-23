@@ -5,7 +5,7 @@ pubDate: "2026-05-23"
 updatedDate: "2026-05-23"
 category: "BuildSelf"
 tags: ["原子核发现者的创造力","Routine"]
-heroImage: "/images/blog/rutherford_tea_debate.webp"
+heroImage: "/images/blog/rutherford_tea_debate.png"
 app: "buildself"
 formatVersion: 4
 authority: "传记《Rutherford: Life and Letters》与卡文迪许实验室史料"

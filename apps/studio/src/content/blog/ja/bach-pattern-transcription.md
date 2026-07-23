@@ -5,7 +5,7 @@ pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
 tags: ["月明かりの下で楽譜を","Routine"]
-heroImage: "/images/blog/bach_pattern_transcription.webp"
+heroImage: "/images/blog/bach_pattern_transcription.png"
 app: "buildself"
 formatVersion: 4
 authority: "フォルケル 著『ヨハン・セバスティアン・バッハの生涯』＆ 機能的脳発達に関する研究(James, 2012)"

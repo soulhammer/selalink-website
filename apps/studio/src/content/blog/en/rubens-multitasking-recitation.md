@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Great Habits","rubens","Routine","Stamina"]
-heroImage: "/images/blog/rubens_multitasking_recitation.webp"
+heroImage: "/images/blog/rubens_multitasking_recitation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Rubens' Biography 'Master of Shadows' & Journal of Experimental Psychology Research"

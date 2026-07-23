@@ -5,7 +5,7 @@ pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "BuildSelf"
 tags: ["O método d","Routine"]
-heroImage: "/images/blog/nobel_evening_reflection.webp"
+heroImage: "/images/blog/nobel_evening_reflection.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia 'The Legacy of Alfred Nobel' e arquivos da Fundação Nobel"

@@ -5,7 +5,7 @@ pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "BuildSelf"
 tags: ["¿El genio ","Routine"]
-heroImage: "/images/blog/ramanujan_dream_notebook.webp"
+heroImage: "/images/blog/ramanujan_dream_notebook.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía de Robert Kanigel 'The Man Who Knew Infinity' y memorias de G. H. Hardy"

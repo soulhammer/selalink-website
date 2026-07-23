@@ -5,7 +5,7 @@ pubDate: "2026-03-03"
 updatedDate: "2026-03-03"
 category: "BuildSelf"
 tags: ["在咖啡馆噪音中创作魔","Routine"]
-heroImage: "/images/blog/rowling_cafe_focus.webp"
+heroImage: "/images/blog/rowling_cafe_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "J.K.罗琳传记《J.K. Rowling: A Biography》与《Journal of Consumer Research》白噪音研究"

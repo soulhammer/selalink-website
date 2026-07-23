@@ -5,7 +5,7 @@ pubDate: "2026-04-21"
 updatedDate: "2026-04-21"
 category: "BuildSelf"
 tags: ["Refleksi t","Routine"]
-heroImage: "/images/blog/van_gogh.webp"
+heroImage: "/images/blog/van_gogh.png"
 app: "buildself"
 formatVersion: 4
 authority: "Irving Stone, *Dear Theo: The Autobiography of Vincent van Gogh* (1937) & Studi Ilmu Saraf Kognitif"

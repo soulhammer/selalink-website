@@ -4,7 +4,7 @@ title: "Golden Hamster Tunneling Instinct and 3-Step Stress-Free Daily Routine"
 description: "Caring for the solitary and nocturnal Golden Hamster. Learn a 3-step routine covering silent daytime environments, cheek stuffing instincts, and wheel checkups to prevent high stress."
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
-heroImage: "/images/blog/golden_hamster_care.webp"
+heroImage: "/images/blog/golden_hamster_care.png"
 authority: "Humane Society Hamster Care Guide and Veterinary Behavior Standards"
 app: "petself"
 formatVersion: 4

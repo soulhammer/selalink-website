@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Comment ef","Routine"]
-heroImage: "/images/blog/phelps_pre_race_routine.webp"
+heroImage: "/images/blog/phelps_pre_race_routine.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiographie de Phelps et recherche sur les routines de l'International Journal of Sport Psychology (IJSP)"

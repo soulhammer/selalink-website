@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Great Habits","martin","Routine","Stamina"]
-heroImage: "/images/blog/martin_silent_waiting.webp"
+heroImage: "/images/blog/martin_silent_waiting.png"
 app: "buildself"
 formatVersion: 4
 authority: "Agnes Martin's writings and interviews and neuroscientific research on meditation and neural oscillation influencing insight problem solving"

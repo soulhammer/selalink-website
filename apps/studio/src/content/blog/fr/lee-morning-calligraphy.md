@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Philosophi","Routine"]
-heroImage: "/images/blog/lee_morning_calligraphy.webp"
+heroImage: "/images/blog/lee_morning_calligraphy.png"
 app: "buildself"
 formatVersion: 4
 authority: "Récit des œuvres calligraphiques du président Lee et recherche de Neuroscience Letters sur le contrôle moteur fin et la stabilité émotionnelle"

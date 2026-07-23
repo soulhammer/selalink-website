@@ -4,7 +4,7 @@ description: "ノーベル賞受賞者アーネスト・ヘミングウェイは
 pubDate: "2026-02-05"
 category: "BuildSelf"
 tags: ["毎日の執筆単語数を記","Routine"]
-heroImage: "/images/blog/hemingway_word_count.webp"
+heroImage: "/images/blog/hemingway_word_count.png"
 app: "buildself"
 formatVersion: 4
 authority: "アーネスト・ヘミングウェイ『パリ・レビュー』インタビュー(1958) ＆ 応用行動分析学ジャーナル(Journal of Applied Behavior Analysis)"

@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["¿El escudo","Routine"]
-heroImage: "/images/blog/teresa_silent_contemplation.webp"
+heroImage: "/images/blog/teresa_silent_contemplation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Cartas privadas de la Madre Teresa 'Come Be My Light' y revista JAMA Psychiatry"

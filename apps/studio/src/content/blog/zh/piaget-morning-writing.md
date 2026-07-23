@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["大脑如何构建思想？让","Routine"]
-heroImage: "/images/blog/piaget_morning_writing.webp"
+heroImage: "/images/blog/piaget_morning_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "让·皮亚杰的传记“自传”和认知神经科学杂志"

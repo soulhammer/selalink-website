@@ -4,7 +4,7 @@ title: "Sinyal Hentakan Kaki Kelinci Kerdil Netherland dan Rutin 3 Langkah Keseh
 description: "Merawat ras kelinci terkecil, Kerdil Netherland. Pelajari cara merespons hentakan kaki peringatan dan dukung sistem pencernaan mereka yang sensitif dengan 3 langkah rutin jerami tinggi serat."
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
-heroImage: "/images/blog/dwarf_rabbit_care.webp"
+heroImage: "/images/blog/dwarf_rabbit_care.png"
 authority: "Panduan Medis House Rabbit Society dan Standar Veteriner Hewan Kecil"
 app: "petself"
 formatVersion: 4

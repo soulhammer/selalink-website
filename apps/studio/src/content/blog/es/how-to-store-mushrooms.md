@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración para conservar
 pubDate: "2026-02-23"
 category: "FreshSnap"
 tags: ["Champiñón","Guía de almacenamiento científicamente probada","vegetable"]
-heroImage: "/images/blog/mushroom_storage_hack.webp"
+heroImage: "/images/blog/mushroom_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"

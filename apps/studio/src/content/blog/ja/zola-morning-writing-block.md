@@ -5,7 +5,7 @@ pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
 tags: ["30年間大作を書き続","Routine"]
-heroImage: "/images/blog/zola_morning_writing_block.webp"
+heroImage: "/images/blog/zola_morning_writing_block.png"
 app: "buildself"
 formatVersion: 4
 authority: "アンリ・ミトラン評伝「Émile Zola」および書簡集史料"

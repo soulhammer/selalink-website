@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["莎士比亚的听力例行公","Routine"]
-heroImage: "/images/blog/shakespeare.webp"
+heroImage: "/images/blog/shakespeare.png"
 app: "buildself"
 formatVersion: 4
 authority: "Peter Ackroyd，*莎士比亚传记* (2005) 和认知神经科学研究"

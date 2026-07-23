@@ -4,7 +4,7 @@ title: "Bengal-Katzen Energieabbau-Leitfaden und 3-Schritt-Auslastungsroutine"
 description: "Pflege für die aktive und intelligente Bengalkatze. Lernen Sie, die Körpersprache bei hohem Energielevel zu verstehen und Langeweile vorzubeugen."
 pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
-heroImage: "/images/blog/bengal_care.webp"
+heroImage: "/images/blog/bengal_care.png"
 authority: "Rassenleitfaden für Bengalkatzen von The International Cat Association (TICA) und Standards der Katzenverhaltensmedizin"
 app: "petself"
 formatVersion: 4

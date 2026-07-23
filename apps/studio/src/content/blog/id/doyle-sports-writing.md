@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Tinju Sebe","Routine"]
-heroImage: "/images/blog/doyle_sports_writing.webp"
+heroImage: "/images/blog/doyle_sports_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Memoar Conan Doyle & Penelitian Olahraga tentang BDNF dan Fungsi Eksekutif"

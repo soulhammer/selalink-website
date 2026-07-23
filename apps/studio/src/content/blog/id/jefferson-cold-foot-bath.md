@@ -5,7 +5,7 @@ pubDate: "2026-04-17"
 updatedDate: "2026-04-17"
 category: "BuildSelf"
 tags: ["Membangkit","Routine"]
-heroImage: "/images/blog/jefferson_cold_foot_bath.webp"
+heroImage: "/images/blog/jefferson_cold_foot_bath.png"
 app: "buildself"
 formatVersion: 4
 authority: "Surat-surat pribadi Thomas Jefferson & studi Neurosains tentang stimulasi termal dingin dan sistem saraf otonom"

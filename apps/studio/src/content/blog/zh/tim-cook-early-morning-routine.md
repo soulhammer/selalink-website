@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["凌晨3点45分起床阅","Routine"]
-heroImage: "/images/blog/tim_cook_early_morning_routine.webp"
+heroImage: "/images/blog/tim_cook_early_morning_routine.png"
 app: "buildself"
 formatVersion: 4
 authority: "《时代周刊》封面采访及利安德·卡尼传记《蒂姆·库克传》"

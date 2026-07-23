@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["Menara Keh","Routine"]
-heroImage: "/images/blog/pavlov_stimulus_control.webp"
+heroImage: "/images/blog/pavlov_stimulus_control.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Pavlov 'Ivan Pavlov: A Russian Life in Science' & Teori Kontrol Stimulus dalam Psikologi Perilaku"

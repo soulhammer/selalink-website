@@ -4,7 +4,7 @@ description: "Nikola Tesla, l'inventeur de génie qui pliait ses orteils chaque 
 pubDate: "2026-04-28"
 category: "BuildSelf"
 tags: ["Le génie q","Routine"]
-heroImage: "/images/blog/tesla_toe_curling.webp"
+heroImage: "/images/blog/tesla_toe_curling.png"
 app: "buildself"
 formatVersion: 4
 authority: "L'Autobiographie de Nikola Tesla 'My Inventions' & Journal of Physical Therapy Science (JPTS)"

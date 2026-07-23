@@ -4,7 +4,7 @@ description: "Demóstenes superou limitações físicas congênitas para se torn
 pubDate: "2026-01-28"
 category: "BuildSelf"
 tags: ["O orador q","Routine"]
-heroImage: "/images/blog/demosthenes_isolation.webp"
+heroImage: "/images/blog/demosthenes_isolation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Vidas Paralelas 'Vida de Demóstenes' de Plutarco e pesquisas sobre controle de estímulos da APA"

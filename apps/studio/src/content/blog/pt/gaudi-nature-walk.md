@@ -5,7 +5,7 @@ pubDate: "2026-04-13"
 updatedDate: "2026-04-13"
 category: "BuildSelf"
 tags: ["O mestre q","Routine"]
-heroImage: "/images/blog/gaudi_nature_walk.webp"
+heroImage: "/images/blog/gaudi_nature_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia de Gaudí 'Gaudí: A Biography' & estudos da Universidade de Stanford sobre caminhadas"

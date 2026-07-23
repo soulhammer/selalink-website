@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración para conservar
 pubDate: "2026-06-18"
 category: "FreshSnap"
 tags: ["Frutos secos","Guía de almacenamiento científicamente probada","etc"]
-heroImage: "/images/blog/nuts_storage_hack.webp"
+heroImage: "/images/blog/nuts_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"

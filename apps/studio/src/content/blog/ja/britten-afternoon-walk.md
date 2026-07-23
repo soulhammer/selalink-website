@@ -5,7 +5,7 @@ pubDate: "2026-04-22"
 updatedDate: "2026-04-22"
 category: "BuildSelf"
 tags: ["午後の海岸散歩で難題","Routine"]
-heroImage: "/images/blog/britten_afternoon_walk.webp"
+heroImage: "/images/blog/britten_afternoon_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "ハンフリー・カーペンター「ベンジャミン・ブリテン評伝」および学術誌「Frontiers in Human Neuroscience」"

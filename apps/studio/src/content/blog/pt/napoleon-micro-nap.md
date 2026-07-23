@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Restauraçã","Routine"]
-heroImage: "/images/blog/napoleon_micro_nap.webp"
+heroImage: "/images/blog/napoleon_micro_nap.png"
 app: "buildself"
 formatVersion: 4
 authority: "Memórias de Napoleão e estudo da ciência do sono sobre o sono NREM e a restauração do alerta cognitivo"

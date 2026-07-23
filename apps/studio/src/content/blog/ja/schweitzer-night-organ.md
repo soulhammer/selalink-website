@@ -5,7 +5,7 @@ pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
 tags: ["ノーベル平和賞受賞者","Routine"]
-heroImage: "/images/blog/schweitzer_night_organ.webp"
+heroImage: "/images/blog/schweitzer_night_organ.png"
 app: "buildself"
 formatVersion: 4
 authority: "自伝「Out of My Life and Thought」およびJournal of Music Therapy学術誌"

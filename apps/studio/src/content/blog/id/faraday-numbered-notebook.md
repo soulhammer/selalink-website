@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["16.000 Nom","Routine"]
-heroImage: "/images/blog/faraday_numbered_notebook.webp"
+heroImage: "/images/blog/faraday_numbered_notebook.png"
 app: "buildself"
 formatVersion: 4
 authority: "Arsip Royal Institution tentang 'Faraday's Diary' dan Penelitian Cognitive Science tentang Eksternalisasi Pengetahuan & Beban Kognitif"

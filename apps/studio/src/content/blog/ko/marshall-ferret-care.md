@@ -4,7 +4,7 @@ title: "마샬 페럿의 전쟁 댄스와 사냥 탐색 극대화 3단계 루틴
 description: "장난기 많고 유연한 육식 소동물 마샬 페럿. 기쁨을 표현하는 위즐 워 댄스 대처법과 특유의 호기심 충족 및 귀 위생을 돕는 3단계 케어 가이드를 확인해 보세요."
 pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
-heroImage: "/images/blog/marshall_ferret_care.webp"
+heroImage: "/images/blog/marshall_ferret_care.png"
 authority: "American Ferret Association 페럿 행동 표준 및 소동물 수의 행동의학 가이드"
 app: "petself"
 formatVersion: 4

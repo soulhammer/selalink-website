@@ -4,7 +4,7 @@ description: "Renowned author and activist Maya Angelou wrote only in empty hote
 pubDate: "2026-03-21"
 category: "BuildSelf"
 tags: ["Great Habits","angelou","Routine","Stamina"]
-heroImage: "/images/blog/angelou_hotel_isolation.webp"
+heroImage: "/images/blog/angelou_hotel_isolation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Maya Angelou's interview in The Paris Review (1990) & Cognitive Psychology Study on Distraction Control"

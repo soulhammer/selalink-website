@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["自分をデザインする：","Routine"]
-heroImage: "/images/blog/skinner_behavior_tracking.webp"
+heroImage: "/images/blog/skinner_behavior_tracking.png"
 app: "buildself"
 formatVersion: 4
 authority: "B・F・スキナー自伝「Particulars of My Life」および行動主義の操作的条件付け理論"

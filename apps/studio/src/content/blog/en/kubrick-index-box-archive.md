@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Great Habits","kubrick","Routine","Stamina"]
-heroImage: "/images/blog/kubrick_index_box_archive.webp"
+heroImage: "/images/blog/kubrick_index_box_archive.png"
 app: "buildself"
 formatVersion: 4
 authority: "University of the Arts London (UAL) Stanley Kubrick Archives and Cognitive Neuroscience Research on Information Chunking, Extended Mind Thesis, and Cognitive Offloading"

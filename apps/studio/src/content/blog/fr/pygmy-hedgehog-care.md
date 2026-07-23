@@ -4,7 +4,7 @@ title: "Autounguement de l'hérisson pygmée africain et routine de soin thermiq
 description: "Soin de l'hérisson pygmée africain. Comprenez ses comportements uniques d'autounguement avec de la salive mousseuse et maintenez une température optimale de 24-26 °C avec notre routine en 3 étapes pour l'hiver."
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
-heroImage: "/images/blog/pygmy_hedgehog_care.webp"
+heroImage: "/images/blog/pygmy_hedgehog_care.png"
 authority: "Directives de la Hedgehog Welfare Society et Protocoles Vétérinaires pour Animaux Exotiques"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ description: "公的安全基準に基づくブルーベリーの最適な保存
 pubDate: "2026-03-29"
 category: "FreshSnap"
 tags: ["ブルーベリー","科学的に検証された保存ガイド","fruit"]
-heroImage: "/images/blog/blueberry_storage_hack.webp"
+heroImage: "/images/blog/blueberry_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>米国農務省(USDA) & 農村振興庁(RDA)</strong>"

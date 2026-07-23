@@ -5,7 +5,7 @@ pubDate: "2026-06-04"
 updatedDate: "2026-06-04"
 category: "BuildSelf"
 tags: ["在岩石上刻下敕令以日","Routine"]
-heroImage: "/images/blog/ashoka_edict_inscribed_reflection.webp"
+heroImage: "/images/blog/ashoka_edict_inscribed_reflection.png"
 app: "buildself"
 formatVersion: 4
 authority: "罗米拉·塔帕尔历史著作《Asoka and the Decline of the Mauryas》与阿育王石刻敕令"

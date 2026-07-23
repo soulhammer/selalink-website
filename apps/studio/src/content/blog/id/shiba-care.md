@@ -4,7 +4,7 @@ title: "Kemandirian Shiba Inu dan Perawatan Bulu Ganda: Rutinitas 3 Langkah"
 description: "Shiba Inu sangat mandiri dan sensitif terhadap sentuhan. Pelajari teknik menyikat bulu ganda mereka dan rutinitas 3 langkah untuk sentuhan tanpa stres."
 pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
-heroImage: "/images/blog/shiba_care.webp"
+heroImage: "/images/blog/shiba_care.png"
 authority: "Klub Nasional Shiba Inu Amerika & Pedoman Modifikasi Perilaku IAABC"
 app: "petself"
 formatVersion: 4

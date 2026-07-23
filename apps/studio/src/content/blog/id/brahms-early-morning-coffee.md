@@ -5,7 +5,7 @@ pubDate: "2026-06-13"
 updatedDate: "2026-06-13"
 category: "BuildSelf"
 tags: ["Harmoni Ko","Routine"]
-heroImage: "/images/blog/brahms_early_morning_coffee.webp"
+heroImage: "/images/blog/brahms_early_morning_coffee.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Johannes Brahms oleh Jan Swafford & Jurnal Nature Neuroscience"

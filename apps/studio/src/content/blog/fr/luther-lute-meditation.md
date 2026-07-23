@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["La vibrati","Routine"]
-heroImage: "/images/blog/luther_lute_meditation.webp"
+heroImage: "/images/blog/luther_lute_meditation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Récit des écrits de Luther 'Luther's Works, Vol. 49' et travaux de la Harvard Medical School sur la musicothérapie et le système autonome"

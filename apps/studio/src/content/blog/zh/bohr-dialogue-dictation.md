@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["编织物理学的对话：尼","Routine"]
-heroImage: "/images/blog/bohr_dialogue_dictation.webp"
+heroImage: "/images/blog/bohr_dialogue_dictation.png"
 app: "buildself"
 formatVersion: 4
 authority: "露丝·摩尔著《尼尔斯·玻尔传》历史考证及列夫·维果茨基外部语言(External Speech)认知发展神经心理学研究"

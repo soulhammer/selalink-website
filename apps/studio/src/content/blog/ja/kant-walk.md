@@ -4,7 +4,7 @@ description: "近代哲学の巨匠イマヌエル・カント. 近所の人々�
 pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["ケーニヒスベルクの時","Routine"]
-heroImage: "/images/blog/kant_walk.webp"
+heroImage: "/images/blog/kant_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "マンフレート・クーン著『カント伝』および神経科学・学習記憶ジャーナル（JN）"

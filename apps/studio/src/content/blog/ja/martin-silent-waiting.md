@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["画用紙のような心：ア","Routine"]
-heroImage: "/images/blog/martin_silent_waiting.webp"
+heroImage: "/images/blog/martin_silent_waiting.png"
 app: "buildself"
 formatVersion: 4
 authority: "アグネス・マーティンの著書およびインタビュー集『アグネス・マーティン書簡集』考証および瞑想と脳波同調が洞察的問題解決に及ぼす効果の研究"

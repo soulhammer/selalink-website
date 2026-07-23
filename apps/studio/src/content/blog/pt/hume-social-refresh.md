@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Antídoto a","Routine"]
-heroImage: "/images/blog/hume_social_refresh.webp"
+heroImage: "/images/blog/hume_social_refresh.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia de Hume 'The Life of David Hume' & pesquisas em neurociência cognitiva"

@@ -4,7 +4,7 @@ title: "American Shorthair Heart & Weight Care: A 3-Step Daily Routine for HCM P
 description: "American Shorthairs are robust cats but prone to obesity and Hypertrophic Cardiomyopathy (HCM). Learn a 3-step routine to manage diet, play, and heart health."
 pubDate: "2026-03-02"
 updatedDate: "2026-03-02"
-heroImage: "/images/blog/american_shorthair_care.webp"
+heroImage: "/images/blog/american_shorthair_care.png"
 authority: "Cat Fanciers' Association (CFA) & Cornell Feline Health Center"
 app: "petself"
 formatVersion: 4

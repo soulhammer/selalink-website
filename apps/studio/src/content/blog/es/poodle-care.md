@@ -4,7 +4,7 @@ title: "Juegos mentales y cuidado de oídos: una rutina de 3 pasos para el intel
 description: "Descubra cómo aliviar el aburrimiento en caniches inteligentes con juegos mentales y prevenir infecciones de oído con una rutina de 3 pasos."
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
-heroImage: "/images/blog/poodle_care.webp"
+heroImage: "/images/blog/poodle_care.png"
 authority: "Guía oficial de razas del American Kennel Club (AKC) y protocolos de comportamiento de IAABC"
 app: "petself"
 formatVersion: 4

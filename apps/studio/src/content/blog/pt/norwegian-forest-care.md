@@ -4,7 +4,7 @@ title: "Atividades de escalada e cuidados com o pelo triplo do gato Bosque da No
 description: "Instinto de escalada do gato Bosque da Noruega e cuidados com pelo triplo."
 pubDate: "2026-04-08"
 updatedDate: "2026-04-08"
-heroImage: "/images/blog/norwegian_forest_care.webp"
+heroImage: "/images/blog/norwegian_forest_care.png"
 authority: "Diretrizes da Associação Internacional de Gatos (TICA) e comportamento felino"
 app: "petself"
 formatVersion: 4

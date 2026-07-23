@@ -5,7 +5,7 @@ pubDate: "2026-01-16"
 updatedDate: "2026-01-16"
 category: "BuildSelf"
 tags: ["Mental d'a","Routine"]
-heroImage: "/images/blog/jordan_breakfast_club.webp"
+heroImage: "/images/blog/jordan_breakfast_club.png"
 app: "buildself"
 formatVersion: 4
 authority: "Livre 'Relentless' de l'entraîneur physique Tim Grover et archives de la NBA"

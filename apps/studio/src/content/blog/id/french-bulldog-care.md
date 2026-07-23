@@ -4,7 +4,7 @@ title: "Perawatan Pernapasan & Panas French Bulldog: Rutinitas 3 Langkah untuk S
 description: "French Bulldog rentan terhadap gangguan pernapasan dan heatstroke karena wajahnya yang datar. Pelajari rutinitas untuk merawat kerutan, napas, dan sendi."
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
-heroImage: "/images/blog/french_bulldog_care.webp"
+heroImage: "/images/blog/french_bulldog_care.png"
 authority: "Panduan Resmi Perawatan French Bulldog AKC"
 app: "petself"
 formatVersion: 4

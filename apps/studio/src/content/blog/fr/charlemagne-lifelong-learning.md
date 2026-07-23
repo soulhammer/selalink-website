@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["La tablett","Routine"]
-heroImage: "/images/blog/charlemagne_lifelong_learning.webp"
+heroImage: "/images/blog/charlemagne_lifelong_learning.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie d'Éginhard 'Life of Charlemagne' & recherche sur la consolidation de la mémoire par l'hippocampe pendant le sommeil"

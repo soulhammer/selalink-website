@@ -4,7 +4,7 @@ title: "Perawatan Jantung & Berat Badan American Shorthair: Rutinitas 3 Langkah 
 description: "American Shorthair adalah kucing yang kuat namun rentan terhadap obesitas dan Kardiomiopati Hipertrofik (HCM). Pelajari rutinitas makan, bermain, dan jantung."
 pubDate: "2026-03-02"
 updatedDate: "2026-03-02"
-heroImage: "/images/blog/american_shorthair_care.webp"
+heroImage: "/images/blog/american_shorthair_care.png"
 authority: "Standar Ras American Shorthair CFA & Studi Cornell Feline Health Center"
 app: "petself"
 formatVersion: 4

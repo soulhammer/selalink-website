@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Great Habits","saimdang","Routine","Stamina"]
-heroImage: "/images/blog/saimdang_nature_observation.webp"
+heroImage: "/images/blog/saimdang_nature_observation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Saimdang's paintings 'Chochungdo' & Research on Attention Restoration Theory in Environmental Psychology"

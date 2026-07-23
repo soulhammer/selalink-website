@@ -4,7 +4,7 @@ title: "Soin du sébum de la peau et régulation de la température chez le Sphy
 description: "Nettoyez sébum du Sphynx et protégez-le du froid."
 pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
-heroImage: "/images/blog/sphynx_care.webp"
+heroImage: "/images/blog/sphynx_care.png"
 authority: "Directives de la Société Internationale de Médecine Féline (ISFM)"
 app: "petself"
 formatVersion: 4

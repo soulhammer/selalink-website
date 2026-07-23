@@ -4,7 +4,7 @@ title: "Señales de Flaring del Pez Betta y Rutina de 3 Pasos para Aletas Sanas"
 description: "Guía completa de cuidado para el Pez Betta. Entiende los despliegues de aletas (flaring), la respiración por laberinto y mantén la rutina WSAVA."
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
-heroImage: "/images/blog/betta_fish_care.webp"
+heroImage: "/images/blog/betta_fish_care.png"
 authority: "Asociación Mundial de Veterinarios de Pequeños Animales (WSAVA)"
 app: "petself"
 formatVersion: 4

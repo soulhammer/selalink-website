@@ -4,7 +4,7 @@ title: "斗鱼展鳍语言与保护华丽鳍条 responses 3步日常护理"
 description: "观赏鱼斗鱼（Betta Fish）护理指南。解读展鳍（Flaring）压力信号、迷鳃呼吸需求与维持优美游姿 responses WSAVA 3步日常流程。"
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
-heroImage: "/images/blog/betta_fish_care.webp"
+heroImage: "/images/blog/betta_fish_care.png"
 authority: "世界小动物兽医师协会 (WSAVA) 水生动物福利标准"
 app: "petself"
 formatVersion: 4

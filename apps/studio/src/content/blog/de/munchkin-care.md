@@ -4,7 +4,7 @@ title: "Munchkin-Katzen Gelenkschutz-Leitfaden und 3-Schritt-Niederflurroutine"
 description: "Pflege für die kurzbeinige Munchkin-Katze. Lernen Sie, Anzeichen von Gelenkbeschwerden zu erkennen und ihre Mobilität zu erhalten."
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
-heroImage: "/images/blog/munchkin_care.webp"
+heroImage: "/images/blog/munchkin_care.png"
 authority: "Munchkin-Rassenstandards der Cat Fanciers' Association (CFA) und Richtlinien der Tierärztlichen Orthopädie"
 app: "petself"
 formatVersion: 4

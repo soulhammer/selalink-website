@@ -4,7 +4,7 @@ title: "Perawatan Bulu Ganda & Sendi Samoyed: Rutinitas 3 Langkah untuk Bulu Ron
 description: "Samoyed rentan terhadap displasia pinggul dan infeksi kulit di balik bulu ganda yang tebal. Pelajari rutinitas untuk menjaga bulu dan sendi."
 pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
-heroImage: "/images/blog/samoyed_care.webp"
+heroImage: "/images/blog/samoyed_care.png"
 authority: "Panduan Ras Samoyed AKC & Pedoman OFA"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Penawar ba","Routine"]
-heroImage: "/images/blog/hume_social_refresh.webp"
+heroImage: "/images/blog/hume_social_refresh.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Hume 'The Life of David Hume' & Penelitian Neurosains Kognitif"

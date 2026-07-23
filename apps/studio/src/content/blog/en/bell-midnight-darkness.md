@@ -5,7 +5,7 @@ pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
 tags: ["Great Habits","bell","Routine","Stamina"]
-heroImage: "/images/blog/bell_midnight_darkness.webp"
+heroImage: "/images/blog/bell_midnight_darkness.png"
 app: "buildself"
 formatVersion: 4
 authority: "Alexander Graham Bell's Biography 'Reluctant Genius' & Frontiers in Human Neuroscience Journal"

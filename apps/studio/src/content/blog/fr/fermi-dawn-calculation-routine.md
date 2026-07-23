@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["Concentrat","Routine"]
-heroImage: "/images/blog/fermi_dawn_calculation_routine.webp"
+heroImage: "/images/blog/fermi_dawn_calculation_routine.png"
 app: "buildself"
 formatVersion: 4
 authority: "Enrico Fermi: Physicist d'Emilio Segrè et études en sciences cognitives sur la réponse d'éveil du cortisol (CAR) et l'endurance cognitive maximale du matin"

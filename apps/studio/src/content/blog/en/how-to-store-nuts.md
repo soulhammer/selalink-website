@@ -5,7 +5,7 @@ description: "Learn the best storage temperature, methods, and duration for Nuts
 pubDate: "2026-06-18"
 category: "FreshSnap"
 tags: ["Nuts","Scientifically Proven Storage Guide","etc"]
-heroImage: "/images/blog/nuts_storage_hack.webp"
+heroImage: "/images/blog/nuts_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"

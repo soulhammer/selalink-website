@@ -5,7 +5,7 @@ pubDate: "2026-03-20"
 updatedDate: "2026-03-20"
 category: "BuildSelf"
 tags: ["Rutinitas ","Routine"]
-heroImage: "/images/blog/nightingale.webp"
+heroImage: "/images/blog/nightingale.png"
 app: "buildself"
 formatVersion: 4
 authority: "Florence Nightingale, *Catatan tentang Keperawatan* (1859) & Studi Ilmu Saraf Kognitif"

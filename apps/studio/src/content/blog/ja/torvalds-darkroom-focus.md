@@ -5,7 +5,7 @@ pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["光と騒音を遮断した多","Routine"]
-heroImage: "/images/blog/torvalds_darkroom_focus.webp"
+heroImage: "/images/blog/torvalds_darkroom_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "リーナス・トーバルズ自伝「Just for Fun」および前頭葉の注意力持続に関する認知科学研究"

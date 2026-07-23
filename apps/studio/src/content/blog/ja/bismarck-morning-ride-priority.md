@@ -5,7 +5,7 @@ pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
 tags: ["欧州の版図を塗り替え","Routine"]
-heroImage: "/images/blog/bismarck_morning_ride_priority.webp"
+heroImage: "/images/blog/bismarck_morning_ride_priority.png"
 app: "buildself"
 formatVersion: 4
 authority: "ビスマルク回顧録「Gedanken und Erinnerungen」および史料"

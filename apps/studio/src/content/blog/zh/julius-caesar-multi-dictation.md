@@ -5,7 +5,7 @@ pubDate: "2026-01-14"
 updatedDate: "2026-01-14"
 category: "BuildSelf"
 tags: ["尤利乌斯·凯撒的“同","Routine"]
-heroImage: "/images/blog/julius_caesar_multi_dictation.webp"
+heroImage: "/images/blog/julius_caesar_multi_dictation.png"
 app: "buildself"
 formatVersion: 4
 authority: "普鲁塔克的《希腊罗马名人传》与苏维托尼乌斯的《罗马十二帝王传》"

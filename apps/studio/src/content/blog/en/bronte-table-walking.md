@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["Great Habits","bronte","Routine","Stamina"]
-heroImage: "/images/blog/bronte_table_walking.webp"
+heroImage: "/images/blog/bronte_table_walking.png"
 app: "buildself"
 formatVersion: 4
 authority: "Elizabeth Gaskell's 'The Life of Charlotte Brontë' & Brontë Parsonage Museum Documents"

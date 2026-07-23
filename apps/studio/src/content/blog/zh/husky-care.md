@@ -4,7 +4,7 @@ title: "雪橇犬的炽热能量？西伯利亚哈士奇双层毛与运动量平
 description: "适应西伯利亚严寒的雪橇犬西伯利亚哈士奇。介绍夏季暑热压力排解方法，以及满足其爆发性运动量、防止深夜嚎叫与撕家的3步日常护理惯例。"
 pubDate: "2026-03-29"
 updatedDate: "2026-03-30"
-heroImage: "/images/blog/husky_care.webp"
+heroImage: "/images/blog/husky_care.png"
 authority: "美国西伯利亚哈士奇俱乐部官方指南与 IAABC 工作犬活动协议"
 app: "petself"
 formatVersion: 4

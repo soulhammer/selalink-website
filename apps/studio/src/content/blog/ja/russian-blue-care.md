@@ -4,7 +4,7 @@ title: "警戒心が強く繊細なロシアンブルーのための隠れ家と
 description: "人見知りで大きな音に敏感なロシアンブルー。ストレスを和らげる快適な隠れ家の作り方と、距離感を尊重する3段階の信頼獲得ルーティンを紹介します。"
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
-heroImage: "/images/blog/russian_blue_care.webp"
+heroImage: "/images/blog/russian_blue_care.png"
 authority: "キャットファンシャーズアソシエーション(CFA)ガイド＆コーネル猫健康センター"
 app: "petself"
 formatVersion: 4

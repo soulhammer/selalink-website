@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración de armazenamen
 pubDate: "2026-01-20"
 category: "FreshSnap"
 tags: ["Batata","Guia de armazenamento comprovado cientificamente","vegetable"]
-heroImage: "/images/blog/potato_storage_hack.webp"
+heroImage: "/images/blog/potato_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & RDA & FSA</strong>"

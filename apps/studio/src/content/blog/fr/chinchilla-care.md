@@ -4,7 +4,7 @@ title: "Soin du Chinchilla (Malocclusion et Température) : Routine en 3 étapes
 description: "Le chinchilla possède des dents à croissance continue et redoute la chaleur. Apprenez une routine en 3 étapes pour le foin et les bains de sable."
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
-heroImage: "/images/blog/chinchilla_care.webp"
+heroImage: "/images/blog/chinchilla_care.png"
 authority: "Directives de l'AEMV pour le chinchilla et médecine dentaire des rongeurs"
 app: "petself"
 formatVersion: 4

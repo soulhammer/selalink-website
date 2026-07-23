@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["ゆっくり急いだ皇帝の","Routine"]
-heroImage: "/images/blog/augustus_decision_consultation.webp"
+heroImage: "/images/blog/augustus_decision_consultation.png"
 app: "buildself"
 formatVersion: 4
 authority: "スエトニウス著『皇帝伝（The Lives of the Twelve Caesars）』史料記録およびカーネマン＆トベルスキーによるヒューリスティクスと意思決定時の確証バイアス（Confirmation Bias）認知行動研究結果"

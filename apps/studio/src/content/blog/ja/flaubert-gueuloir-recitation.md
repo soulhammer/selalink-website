@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["完璧な文章を生む声：","Routine"]
-heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
+heroImage: "/images/blog/flaubert_gueuloir_recitation.png"
 app: "buildself"
 formatVersion: 4
 authority: "フローベール書簡集の考証、および言語心理学分野における二重符号化理論（Dual-Coding Theory）と聴覚フィードバックループの誤り修正メカニズム分析資料"

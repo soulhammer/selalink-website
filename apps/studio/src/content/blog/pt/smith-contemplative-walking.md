@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["O estudios","Routine"]
-heroImage: "/images/blog/smith_contemplative_walking.webp"
+heroImage: "/images/blog/smith_contemplative_walking.png"
 app: "buildself"
 formatVersion: 4
 authority: "A obra de John Rae 'A Vida de Adam Smith' e pesquisa da Universidade de Stanford sobre cognição criativa e caminhada (Oppezzo & Schwartz, 2014)"

@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["El cerebro","Routine"]
-heroImage: "/images/blog/rilke_standing_writing.webp"
+heroImage: "/images/blog/rilke_standing_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Epistolario de Rilke 'Cartas a un joven poeta' e investigación en ciencia cognitiva sobre el flujo sanguíneo prefrontal en posturas de pie"

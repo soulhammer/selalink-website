@@ -5,7 +5,7 @@ pubDate: "2026-01-09"
 updatedDate: "2026-01-09"
 category: "BuildSelf"
 tags: ["エリザベス1世の「古","Routine"]
-heroImage: "/images/blog/elizabeth_classical_translation.webp"
+heroImage: "/images/blog/elizabeth_classical_translation.png"
 app: "buildself"
 formatVersion: 4
 authority: "エリザベス1世アーカイブ資料およびロジャー・アスカムの家庭教師記録（The Scholemaster）"

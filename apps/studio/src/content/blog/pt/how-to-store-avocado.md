@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración de armazenamen
 pubDate: "2026-02-07"
 category: "FreshSnap"
 tags: ["Abacate","Guia de armazenamento comprovado cientificamente","vegetable"]
-heroImage: "/images/blog/avocado_storage_hack.webp"
+heroImage: "/images/blog/avocado_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"

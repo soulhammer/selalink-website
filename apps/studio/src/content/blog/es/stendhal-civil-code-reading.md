@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Calentamie","Routine"]
-heroImage: "/images/blog/stendhal_civil_code_reading.webp"
+heroImage: "/images/blog/stendhal_civil_code_reading.png"
 app: "buildself"
 formatVersion: 4
 authority: "Carta de Stendhal a Balzac e investigación de psicología cognitiva sobre los efectos de primado y la estimulación textual estructural en la racionalidad objetiva"

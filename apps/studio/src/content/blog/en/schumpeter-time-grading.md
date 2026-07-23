@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Great Habits","schumpeter","Routine","Stamina"]
-heroImage: "/images/blog/schumpeter_time_grading.webp"
+heroImage: "/images/blog/schumpeter_time_grading.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biography 'Opening Doors: The Life and Work of Joseph Schumpeter' and research on metacognition and self-regulation loops"

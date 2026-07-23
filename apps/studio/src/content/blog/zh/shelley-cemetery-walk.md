@@ -5,7 +5,7 @@ pubDate: "2026-07-07"
 updatedDate: "2026-07-07"
 category: "BuildSelf"
 tags: ["漫步公墓寻找灵感？玛","Routine"]
-heroImage: "/images/blog/shelley_cemetery_walk.webp"
+heroImage: "/images/blog/shelley_cemetery_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "《玛丽·雪莱日记》及关于严肃环境带来的敬畏与自我反思的环境心理学研究"

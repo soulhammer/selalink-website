@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["脳は思考をどのように","Routine"]
-heroImage: "/images/blog/piaget_morning_writing.webp"
+heroImage: "/images/blog/piaget_morning_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "ジャン・ピアジェの伝記「自伝」と認知神経科学ジャーナル"

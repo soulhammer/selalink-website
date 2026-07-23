@@ -5,7 +5,7 @@ pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "BuildSelf"
 tags: ["Rahasia Ce","Routine"]
-heroImage: "/images/blog/ali_positive_affirmation.webp"
+heroImage: "/images/blog/ali_positive_affirmation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografi Muhammad Ali 'The Soul of a Butterfly' & Jurnal Social Cognitive and Affective Neuroscience"

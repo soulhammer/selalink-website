@@ -5,7 +5,7 @@ pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
 tags: ["Los boceto","Routine"]
-heroImage: "/images/blog/galileo_vibration_sketch.webp"
+heroImage: "/images/blog/galileo_vibration_sketch.png"
 app: "buildself"
 formatVersion: 4
 authority: "Stillman Drake, Galileo en el trabajo / Investigación en ciencia cognitiva sobre el procesamiento visuoespacial y el boceto"

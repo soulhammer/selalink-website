@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["Great Habits","charlemagne","Routine","Stamina"]
-heroImage: "/images/blog/charlemagne_lifelong_learning.webp"
+heroImage: "/images/blog/charlemagne_lifelong_learning.png"
 app: "buildself"
 formatVersion: 4
 authority: "Einhard's biography 'Life of Charlemagne' & Hippocampal Sleep Memory Consolidation Research"

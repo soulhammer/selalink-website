@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Great Habits","dirac","Routine","Stamina"]
-heroImage: "/images/blog/dirac_silent_walking_contemplation.webp"
+heroImage: "/images/blog/dirac_silent_walking_contemplation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Graham Farmelo's Biography 'The Strangest Man' & Helge Kragh's 'Dirac'"

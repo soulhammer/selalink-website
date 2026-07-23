@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["完璧な孤立の力：グス","Routine"]
-heroImage: "/images/blog/mahler_composition_hut.webp"
+heroImage: "/images/blog/mahler_composition_hut.png"
 app: "buildself"
 formatVersion: 4
 authority: "アルマ・マーラー回想録『グスタフ・マーラー：記憶と手紙』考証および脳の認知統制のための騒音制御と環境的孤立の効果の研究"

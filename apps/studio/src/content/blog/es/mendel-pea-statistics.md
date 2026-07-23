@@ -5,7 +5,7 @@ pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["¿Estadísti","Routine"]
-heroImage: "/images/blog/mendel_pea_statistics.webp"
+heroImage: "/images/blog/mendel_pea_statistics.png"
 app: "buildself"
 formatVersion: 4
 authority: "Artículo de Mendel de 1865 'Experiments on Plant Hybridization' y la revista Journal of Educational Psychology"

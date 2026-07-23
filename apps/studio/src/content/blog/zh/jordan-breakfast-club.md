@@ -5,7 +5,7 @@ pubDate: "2026-01-16"
 updatedDate: "2026-01-16"
 category: "BuildSelf"
 tags: ["早晨6点无敌心态？迈","Routine"]
-heroImage: "/images/blog/jordan_breakfast_club.webp"
+heroImage: "/images/blog/jordan_breakfast_club.png"
 app: "buildself"
 formatVersion: 4
 authority: "体能教练蒂姆·格罗弗著作《Relentless》与NBA官方档案"

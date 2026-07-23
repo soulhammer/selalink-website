@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["L'apogée d","Routine"]
-heroImage: "/images/blog/archimedes_sand_geometry.webp"
+heroImage: "/images/blog/archimedes_sand_geometry.png"
 app: "buildself"
 formatVersion: 4
 authority: "Récit de la correspondance de Plutarque 'Vies parallèles' et recherches sur la théorie du double codage"

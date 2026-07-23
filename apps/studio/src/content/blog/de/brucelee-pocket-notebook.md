@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["Wie fängt ","Routine"]
-heroImage: "/images/blog/brucelee_pocket_notebook.webp"
+heroImage: "/images/blog/brucelee_pocket_notebook.png"
 app: "buildself"
 formatVersion: 4
 authority: "Bruce Lee Archives „Artist of Life“ und kognitive Technologieforschung"

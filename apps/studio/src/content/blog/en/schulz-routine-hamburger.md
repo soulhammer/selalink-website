@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Great Habits","schulz","Routine","Stamina"]
-heroImage: "/images/blog/schulz_routine_hamburger.webp"
+heroImage: "/images/blog/schulz_routine_hamburger.png"
 app: "buildself"
 formatVersion: 4
 authority: "Official biography 'Schulz and Peanuts' and psychological research on Ego Depletion preventing Decision Fatigue"

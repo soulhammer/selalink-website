@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["揺れる心を整える精密","Routine"]
-heroImage: "/images/blog/kimgu_brush_meditation.webp"
+heroImage: "/images/blog/kimgu_brush_meditation.png"
 app: "buildself"
 formatVersion: 4
 authority: "金九の著書『白凡逸志』の歴史的考証および微細運動制御（Fine Motor Control）と扁桃体の不安制御に関する研究"

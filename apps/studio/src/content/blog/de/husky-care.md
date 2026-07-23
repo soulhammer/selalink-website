@@ -4,7 +4,7 @@ title: "Die feurige Energie der Schlittenhunde: Sibirischer Husky Doppeltes Fell
 description: "Sibirischer Husky, der Schlittenhund für die Kälte. Erfahren Sie Tipps zur Hitzebewältigung und eine 3-Schritte-Routine zur Auslastung ihrer Energie, um Jaulen zu verhindern."
 pubDate: "2026-03-29"
 updatedDate: "2026-03-30"
-heroImage: "/images/blog/husky_care.webp"
+heroImage: "/images/blog/husky_care.png"
 authority: "Leitfaden des Siberian Husky Club of America und IAABC-Aktivitätsprotokolle für Arbeitshunde"
 app: "petself"
 formatVersion: 4

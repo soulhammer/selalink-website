@@ -5,7 +5,7 @@ pubDate: "2026-03-27"
 updatedDate: "2026-03-27"
 category: "BuildSelf"
 tags: ["用吱呀作响的的门守护","Routine"]
-heroImage: "/images/blog/austen_creaky_door.webp"
+heroImage: "/images/blog/austen_creaky_door.png"
 app: "buildself"
 formatVersion: 4
 authority: "简·奥斯汀传记及关于任务切换成本的认知心理学研究"

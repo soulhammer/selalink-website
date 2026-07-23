@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["钢琴诗人的极致完美主","Routine"]
-heroImage: "/images/blog/chopin_piano_refinement.webp"
+heroImage: "/images/blog/chopin_piano_refinement.png"
 app: "buildself"
 formatVersion: 4
 authority: "乔治·桑回忆录《马略卡岛的冬天》史料与波兰国立肖邦研究院手稿分析"

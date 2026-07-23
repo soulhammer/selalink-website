@@ -5,7 +5,7 @@ pubDate: "2026-01-08"
 updatedDate: "2026-01-08"
 category: "BuildSelf"
 tags: ["Bill Gates","Routine"]
-heroImage: "/images/blog/bill_gates_think_week.webp"
+heroImage: "/images/blog/bill_gates_think_week.png"
 app: "buildself"
 formatVersion: 4
 authority: "Microsoft-Archive & Cal Newports Deep Work"

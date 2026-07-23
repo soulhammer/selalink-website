@@ -4,7 +4,7 @@ title: "Guía de liberación de energía del gato Bengalí y rutina de 3 pasos p
 description: "Cuidado del gato Bengalí, activo e inteligente. Aprenda a entender su lenguaje corporal de alta energía y estimúlelo con una rutina de 3 pasos."
 pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
-heroImage: "/images/blog/bengal_care.webp"
+heroImage: "/images/blog/bengal_care.png"
 authority: "Guía de la raza Bengalí de The International Cat Association (TICA) y Estándares de Medicina del Comportamiento Felino"
 app: "petself"
 formatVersion: 4

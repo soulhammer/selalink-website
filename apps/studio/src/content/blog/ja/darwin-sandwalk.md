@@ -5,7 +5,7 @@ pubDate: "2026-06-14"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["砂利道を歩いて進化論","Routine"]
-heroImage: "/images/blog/darwin_sandwalk.webp"
+heroImage: "/images/blog/darwin_sandwalk.png"
 app: "buildself"
 formatVersion: 4
 authority: "チャールズ・ダーウィン 自叙伝 ＆ スタンフォード大学 徒歩と創造性の相関関係研究"

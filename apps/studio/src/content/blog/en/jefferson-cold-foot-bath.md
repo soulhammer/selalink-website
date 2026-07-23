@@ -5,7 +5,7 @@ pubDate: "2026-04-17"
 updatedDate: "2026-04-17"
 category: "BuildSelf"
 tags: ["Great Habits","jefferson","Routine","Stamina"]
-heroImage: "/images/blog/jefferson_cold_foot_bath.webp"
+heroImage: "/images/blog/jefferson_cold_foot_bath.png"
 app: "buildself"
 formatVersion: 4
 authority: "Thomas Jefferson's personal letters & Neuroscience study on cold thermal stimulation and autonomic nervous system"

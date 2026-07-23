@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["A cientist","Routine"]
-heroImage: "/images/blog/rosalind_franklin_diffraction_focus.webp"
+heroImage: "/images/blog/rosalind_franklin_diffraction_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia de Brenda Maddox 'Rosalind Franklin' e Arquivos do King's College London"

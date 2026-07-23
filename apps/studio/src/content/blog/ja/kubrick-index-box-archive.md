@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["外部脳（Second","Routine"]
-heroImage: "/images/blog/kubrick_index_box_archive.webp"
+heroImage: "/images/blog/kubrick_index_box_archive.png"
 app: "buildself"
 formatVersion: 4
 authority: "ロンドン芸術大学（UAL）スタンリー・キューブリック・アーカイブ（Stanley Kubrick Archive）公式所蔵品実態報告書、および認知神経科学における情報のチャンキング（Chunking）と認知的外在化（Cognitive Externalization）効果の研究"

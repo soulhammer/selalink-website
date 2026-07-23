@@ -5,7 +5,7 @@ pubDate: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "BuildSelf"
 tags: ["白宫椭圆形办公室里的","Routine"]
-heroImage: "/images/blog/kennedy_rocking_chair.webp"
+heroImage: "/images/blog/kennedy_rocking_chair.png"
 app: "buildself"
 formatVersion: 4
 authority: "白宫整形外科主治医生珍妮特·特拉维尔（Janet Travell）博士回忆录与肯尼迪总统图书馆档案馆"

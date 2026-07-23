@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["¿Tijeras q","Routine"]
-heroImage: "/images/blog/andersen_paper_cutting.webp"
+heroImage: "/images/blog/andersen_paper_cutting.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografía de Andersen y revista American Journal of Occupational Therapy"

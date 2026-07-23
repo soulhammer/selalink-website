@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["目標の視覚化と深い休","Routine"]
-heroImage: "/images/blog/ohtani_mandalart_sleep.webp"
+heroImage: "/images/blog/ohtani_mandalart_sleep.png"
 app: "buildself"
 formatVersion: 4
 authority: "大谷翔平の実際の高校時代マンダラート計画表公開考証およびネイチャー（Nature）系列アーカイブの脳のグリンパティックシステム回復睡眠研究"

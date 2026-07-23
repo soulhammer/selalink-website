@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Die Rettun","Routine"]
-heroImage: "/images/blog/fleming_petridish_observation.webp"
+heroImage: "/images/blog/fleming_petridish_observation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Flemings Nobelpreis-Vortrag von 1945 & Fachzeitschrift Frontiers in Psychology"

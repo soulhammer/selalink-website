@@ -4,7 +4,7 @@ title: "Der temperamentvolle Malteser? Eine 3-Schritte-Schutzroutine für Gelenk
 description: "Der beliebte Malteser. Entdecken Sie Tipps zur Vorbeugung von Patellaluxation und eine tägliche 3-Schritte-Routine zur Pflege von Tränenflecken."
 pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
-heroImage: "/images/blog/maltese_care.webp"
+heroImage: "/images/blog/maltese_care.png"
 authority: "Offizieller Rasseführer des American Kennel Clubs (AKC) und IAABC-Verhaltensprotokolle"
 app: "petself"
 formatVersion: 4

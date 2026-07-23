@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["時速300kmの瞑想","Routine"]
-heroImage: "/images/blog/senna_pre_race_visualization.webp"
+heroImage: "/images/blog/senna_pre_race_visualization.png"
 app: "buildself"
 formatVersion: 4
 authority: "アイルトン・セナ生前のメディアインタビューおよびF1ドライバーのメンタルリハーサル（Mental Rehearsal）習慣と運動前野（Supplementary Motor Area）の神経科学研究結果"

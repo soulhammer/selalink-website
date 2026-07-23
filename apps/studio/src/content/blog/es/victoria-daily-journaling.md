@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["El peso de","Routine"]
-heroImage: "/images/blog/victoria_daily_journaling.webp"
+heroImage: "/images/blog/victoria_daily_journaling.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autenticación de los diarios manuscritos de la reina Victoria en los Royal Archives e investigaciones de James Pennebaker sobre la escritura expresiva"

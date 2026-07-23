@@ -4,7 +4,7 @@ title: "페르시안 고양이 장모 케어: 모질과 눈물자국 관리를 �
 description: "우아한 털을 지닌 페르시안 고양이. 단두종 특유의 눈물로 인한 얼굴 피부염 예방과 풍성한 이중 장모의 엉킴 방지를 위한 3단계 데일리 교감 루틴을 다룹니다."
 pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
-heroImage: "/images/blog/persian_care.webp"
+heroImage: "/images/blog/persian_care.png"
 authority: "Cat Fanciers' Association (CFA) 페르시안 가이드 및 AAFP 수의학 지침"
 app: "petself"
 formatVersion: 4

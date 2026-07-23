@@ -4,7 +4,7 @@ title: "Die genetische Bürde hinter der Niedlichkeit: Scottish Fold Gelenk- und
 description: "Scottish Folds, bekannt für ihre Faltohren. Sie sind anfällig für genetisch bedingte Gelenkschmerzen und Ohrentzündungen. Erfahren Sie eine 3-Schritte-Routine zur Gelenkschutz- und Ohrenpflege."
 pubDate: "2026-02-10"
 updatedDate: "2026-02-12"
-heroImage: "/images/blog/scottish_fold_care.webp"
+heroImage: "/images/blog/scottish_fold_care.png"
 authority: "Hereditäres Knorpelprotokoll der ISFM (International Society of Feline Medicine) und GCCF-Richtlinien"
 app: "petself"
 formatVersion: 4

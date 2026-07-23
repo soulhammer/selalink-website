@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["早朝の運河を歩きオー","Routine"]
-heroImage: "/images/blog/vivaldi_composition_walk.webp"
+heroImage: "/images/blog/vivaldi_composition_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "H.C.ロビンズ・ランドン著「Vivaldi: Voice of the Baroque」および直筆楽譜解題"

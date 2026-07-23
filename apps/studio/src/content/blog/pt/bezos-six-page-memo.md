@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["30 minutos","Routine"]
-heroImage: "/images/blog/bezos_six_page_memo.webp"
+heroImage: "/images/blog/bezos_six_page_memo.png"
 app: "buildself"
 formatVersion: 4
 authority: "Cartas aos acionistas da Amazon e pesquisa sobre tomada de decisões da Harvard Business Review (HBR)"

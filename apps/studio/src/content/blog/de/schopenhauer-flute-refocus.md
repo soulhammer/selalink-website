@@ -5,7 +5,7 @@ pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "BuildSelf"
 tags: ["Warum der ","Routine"]
-heroImage: "/images/blog/schopenhauer_flute_refocus.webp"
+heroImage: "/images/blog/schopenhauer_flute_refocus.png"
 app: "buildself"
 formatVersion: 4
 authority: "Arthur Schopenhauers Biografie & Fachzeitschrift Psychophysiology"

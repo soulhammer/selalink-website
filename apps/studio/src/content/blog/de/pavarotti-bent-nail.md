@@ -5,7 +5,7 @@ pubDate: "2026-04-13"
 updatedDate: "2026-04-13"
 category: "BuildSelf"
 tags: ["Einen krum","Routine"]
-heroImage: "/images/blog/pavarotti_bent_nail.webp"
+heroImage: "/images/blog/pavarotti_bent_nail.png"
 app: "buildself"
 formatVersion: 4
 authority: "Pavarottis Autobiografie & Sportpsychologie zu Ritualen und Leistungsangst"

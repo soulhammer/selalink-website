@@ -4,7 +4,7 @@ title: "Turkish Angora Deafness & Heart Care: A 3-Step Daily Routine for Deaf Od
 description: "Turkish Angoras with blue eyes or odd eyes are genetically prone to congenital deafness and HCM. Learn a 3-step routine to communicate and groom."
 pubDate: "2026-04-07"
 updatedDate: "2026-04-07"
-heroImage: "/images/blog/turkish_angora_care.webp"
+heroImage: "/images/blog/turkish_angora_care.png"
 authority: "CFA Turkish Angora Breed Council & Veterinary Deafness Studies"
 app: "petself"
 formatVersion: 4

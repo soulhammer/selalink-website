@@ -4,7 +4,7 @@ description: "A renomada autora e ativista Maya Angelou escrevia apenas em quart
 pubDate: "2026-03-21"
 category: "BuildSelf"
 tags: ["Criar um e","Routine"]
-heroImage: "/images/blog/angelou_hotel_isolation.webp"
+heroImage: "/images/blog/angelou_hotel_isolation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Entrevista de Maya Angelou na The Paris Review (1990) e estudo de psicologia cognitiva sobre o controle de distrações"

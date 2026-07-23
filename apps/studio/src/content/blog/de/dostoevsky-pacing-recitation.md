@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Eine Stimm","Routine"]
-heroImage: "/images/blog/dostoevsky_pacing_recitation.webp"
+heroImage: "/images/blog/dostoevsky_pacing_recitation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Anna Dostojewskajas Memoiren und LMU-München-Forschung zur verkörperten Kognition (Embodied Cognition)"

@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["系上黑丝带时请勿打扰","Routine"]
-heroImage: "/images/blog/alcott_mood_ribbon.webp"
+heroImage: "/images/blog/alcott_mood_ribbon.png"
 app: "buildself"
 formatVersion: 4
 authority: "奥尔科特传记《Louisa May Alcott: Her Life, Letters, and Journals》与认知心理学研究"

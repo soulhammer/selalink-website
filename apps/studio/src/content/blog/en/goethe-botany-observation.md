@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Great Habits","goethe","Routine","Stamina"]
-heroImage: "/images/blog/goethe_botany_observation.webp"
+heroImage: "/images/blog/goethe_botany_observation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Goethe's 'Metamorphosis of Plants' & Environmental Psychology's Attention Restoration Theory (Kaplan, 1995)"

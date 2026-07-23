@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["時間のメタ認知：ヨー","Routine"]
-heroImage: "/images/blog/schumpeter_time_grading.webp"
+heroImage: "/images/blog/schumpeter_time_grading.png"
 app: "buildself"
 formatVersion: 4
 authority: "ヨーゼフ・シュンペーター評伝『シュンペーターの生涯と思想』考証およびメタ認知と自己調節ループが認知達成度に及ぼす効果の研究"

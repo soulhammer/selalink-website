@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Keputusan ","Routine"]
-heroImage: "/images/blog/augustus_decision_consultation.webp"
+heroImage: "/images/blog/augustus_decision_consultation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Karya Suetonius 'The Lives of the Twelve Caesars' dan Riset Daniel Kahneman tentang Heuristik, Berpikir Sistem 2, serta Pengurangan Bias Konfirmasi dalam Pengambilan Keputusan"

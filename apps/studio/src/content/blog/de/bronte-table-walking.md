@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["Drei Schwe","Routine"]
-heroImage: "/images/blog/bronte_table_walking.webp"
+heroImage: "/images/blog/bronte_table_walking.png"
 app: "buildself"
 formatVersion: 4
 authority: "Elizabeth Gaskells Biografie „The Life of Charlotte Brontë“ & Dokumente des Brontë Parsonage Museums"

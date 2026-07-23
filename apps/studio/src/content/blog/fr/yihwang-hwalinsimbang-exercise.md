@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Préservati","Routine"]
-heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.webp"
+heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.png"
 app: "buildself"
 formatVersion: 4
 authority: "Récit du traité de santé de Yi Hwang 'Hwalinsimbang' et recherche du Journal of Clinical Medicine sur la stimulation de faible intensité et l'activation parasympathique"

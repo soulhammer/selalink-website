@@ -5,7 +5,7 @@ pubDate: "2026-06-26"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["¿El escrit","Routine"]
-heroImage: "/images/blog/murakami_running.webp"
+heroImage: "/images/blog/murakami_running.png"
 app: "buildself"
 formatVersion: 4
 authority: "Obra de Haruki Murakami 'De qué hablo cuando hablo de correr' y estudio de Frontiers in Psychology"

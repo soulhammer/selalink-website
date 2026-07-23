@@ -5,7 +5,7 @@ pubDate: "2026-01-04"
 updatedDate: "2026-01-04"
 category: "BuildSelf"
 tags: ["フランシス・ベーコン","Routine"]
-heroImage: "/images/blog/bacon_nature_observation.webp"
+heroImage: "/images/blog/bacon_nature_observation.png"
 app: "buildself"
 formatVersion: 4
 authority: "ジョン・オーブリー『人名短編集』(Brief Lives) / 自然刺激が認知回復に及ぼす注意回復理論（Attention Restoration Theory）環境心理学研究"

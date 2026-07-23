@@ -5,7 +5,7 @@ pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
 tags: ["散歩の杖にインク瓶を","Routine"]
-heroImage: "/images/blog/hobbes_cane_inkwell.webp"
+heroImage: "/images/blog/hobbes_cane_inkwell.png"
 app: "buildself"
 formatVersion: 4
 authority: "ジョン・オーブリー伝記「小伝（Brief Lives）」および認知理論「Supersizing the Mind」"

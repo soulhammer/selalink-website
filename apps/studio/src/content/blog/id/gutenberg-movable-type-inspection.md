@@ -5,7 +5,7 @@ pubDate: "2026-06-04"
 updatedDate: "2026-06-04"
 category: "BuildSelf"
 tags: ["Master Rev","Routine"]
-heroImage: "/images/blog/gutenberg_movable_type_inspection.webp"
+heroImage: "/images/blog/gutenberg_movable_type_inspection.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Albert Kapr 'Johannes Gutenberg' & Arsip Museum Gutenberg Mainz"

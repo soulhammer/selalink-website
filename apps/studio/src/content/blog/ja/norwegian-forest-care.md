@@ -4,7 +4,7 @@ title: "ノルウェージャンフォレストキャットの上下運動と三
 description: "北欧生まれの大型猫、ノルウェージャンフォレストキャット。高所を好む彼らの欲求を満たす遊びと、美しい防寒三重毛をケアする3ステップを提案します。"
 pubDate: "2026-04-08"
 updatedDate: "2026-04-08"
-heroImage: "/images/blog/norwegian_forest_care.webp"
+heroImage: "/images/blog/norwegian_forest_care.png"
 authority: "国際猫協会(TICA)品種ガイドおよび猫行動学専門指針"
 app: "petself"
 formatVersion: 4

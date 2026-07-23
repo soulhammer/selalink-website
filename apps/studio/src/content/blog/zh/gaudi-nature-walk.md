@@ -5,7 +5,7 @@ pubDate: "2026-04-13"
 updatedDate: "2026-04-13"
 category: "BuildSelf"
 tags: ["在巴塞罗那步行4公里","Routine"]
-heroImage: "/images/blog/gaudi_nature_walk.webp"
+heroImage: "/images/blog/gaudi_nature_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "高迪传记《Gaudí: A Biography》与斯坦福大学认知科学步行研究"

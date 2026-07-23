@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["成就IBM的一个词：","Routine"]
-heroImage: "/images/blog/watson_think_sign.webp"
+heroImage: "/images/blog/watson_think_sign.png"
 app: "buildself"
 formatVersion: 4
 authority: "IBM企业博物馆历史考证文献及伦敦大学学院(UCL)关于思考机制的神经学研究"

@@ -4,7 +4,7 @@ title: "比熊犬卷毛护理：防止缠结与应对比熊时间（Bichon Blitz
 description: "以“头盔圆头”发型闻名、性格友善的比熊犬。介绍一套管理易缠结卷毛的窍门，以及安全应对突发性能量释放（比熊时间）的日常3步护理惯例。"
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
-heroImage: "/images/blog/bichon_care.webp"
+heroImage: "/images/blog/bichon_care.png"
 authority: "美国比熊犬俱乐部指南与 AVMA 兽医学指南"
 app: "petself"
 formatVersion: 4

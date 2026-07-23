@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["A tábua de","Routine"]
-heroImage: "/images/blog/charlemagne_lifelong_learning.webp"
+heroImage: "/images/blog/charlemagne_lifelong_learning.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia de Einhard 'Life of Charlemagne' & pesquisa sobre a Consolidação de Memória do Sono no Hipocampo"

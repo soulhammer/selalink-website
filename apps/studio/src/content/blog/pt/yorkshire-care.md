@@ -4,7 +4,7 @@ title: "Cuidados com o pelo do Yorkshire Terrier e prevenção de luxação pate
 description: "Mantenha o pelo do Yorkshire Terrier sedoso e previna a luxação de rótula."
 pubDate: "2026-01-02"
 updatedDate: "2026-01-02"
-heroImage: "/images/blog/yorkshire_care.webp"
+heroImage: "/images/blog/yorkshire_care.png"
 authority: "Diretrizes do Yorkshire Terrier Club (YTC) e ortopedia veterinária"
 app: "petself"
 formatVersion: 4

@@ -4,7 +4,7 @@ title: "Permainan Stimulasi Kognitif and Rutinitas Perawatan Sendi Border Collie
 description: "Latih otak Border Collie dengan permainan cerdas dan lindungi sendi mereka dari aktivitas berat."
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
-heroImage: "/images/blog/border_collie_care.webp"
+heroImage: "/images/blog/border_collie_care.png"
 authority: "Panduan Border Collie Kennel Club (KC) Inggris & Penelitian Kognisi Hewan"
 app: "petself"
 formatVersion: 4

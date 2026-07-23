@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Die Vorfre","Routine"]
-heroImage: "/images/blog/chung_dawn_breakfast.webp"
+heroImage: "/images/blog/chung_dawn_breakfast.png"
 app: "buildself"
 formatVersion: 4
 authority: "Präsident Chungs Autobiografie und Forschung der Harvard Medical School über Schlaf und zirkadianen Rhythmus"

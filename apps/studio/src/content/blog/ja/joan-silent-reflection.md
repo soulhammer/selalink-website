@@ -5,7 +5,7 @@ pubDate: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["揺るぎない信念の中心","Routine"]
-heroImage: "/images/blog/joan_silent_reflection.webp"
+heroImage: "/images/blog/joan_silent_reflection.png"
 app: "buildself"
 formatVersion: 4
 authority: "ジャンヌ・ダルク1431年裁判記録および学術誌「Journal of Research in Personality」"

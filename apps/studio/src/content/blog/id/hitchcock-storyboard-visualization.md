@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Selesaikan","Routine"]
-heroImage: "/images/blog/hitchcock_storyboard_visualization.webp"
+heroImage: "/images/blog/hitchcock_storyboard_visualization.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Alfred Hitchcock 'Alfred Hitchcock: A Life in Darkness and Light' & Penelitian Sains Kognitif Simulasi Mental"

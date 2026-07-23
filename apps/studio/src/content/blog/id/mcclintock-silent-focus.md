@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["Keheningan","Routine"]
-heroImage: "/images/blog/mcclintock_silent_focus.webp"
+heroImage: "/images/blog/mcclintock_silent_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi McClintock 'A Feeling for the Organism' & Penelitian Perhatian Kognitif"

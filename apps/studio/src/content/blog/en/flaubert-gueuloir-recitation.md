@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["Great Habits","flaubert","Routine","Stamina"]
-heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
+heroImage: "/images/blog/flaubert_gueuloir_recitation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Flaubert's Collected Correspondence and Psycholinguistic Studies on Dual-Coding Theory and Auditory Feedback Loop Error Detection"

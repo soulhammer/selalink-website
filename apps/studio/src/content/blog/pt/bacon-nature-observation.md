@@ -5,7 +5,7 @@ pubDate: "2026-01-04"
 updatedDate: "2026-01-04"
 category: "BuildSelf"
 tags: ["As caminha","Routine"]
-heroImage: "/images/blog/bacon_nature_observation.webp"
+heroImage: "/images/blog/bacon_nature_observation.png"
 app: "buildself"
 formatVersion: 4
 authority: "John Aubrey, Vidas Breves / Teoria da Restauração da Atenção (TRA) na psicologia ambiental"

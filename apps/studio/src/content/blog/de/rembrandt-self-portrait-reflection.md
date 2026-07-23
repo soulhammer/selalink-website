@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Sich selbs","Routine"]
-heroImage: "/images/blog/rembrandt_self_portrait_reflection.webp"
+heroImage: "/images/blog/rembrandt_self_portrait_reflection.png"
 app: "buildself"
 formatVersion: 4
 authority: "Die Archive des Rembrandt-House-Museums und neurokognitive Forschung zum Spiegelblick, dem medialen präfrontalen Kortex (mPFC) und der selbstbezogenen Verarbeitung"

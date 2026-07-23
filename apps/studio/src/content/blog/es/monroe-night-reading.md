@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["El alma tr","Routine"]
-heroImage: "/images/blog/monroe_night_reading.webp"
+heroImage: "/images/blog/monroe_night_reading.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autenticación de los poemas e íntimos de Marilyn Monroe 'Fragments' e investigaciones de la Universidad de Sussex sobre la biblioterapia"

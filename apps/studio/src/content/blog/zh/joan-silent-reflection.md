@@ -5,7 +5,7 @@ pubDate: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["动摇不了的信念核心？","Routine"]
-heroImage: "/images/blog/joan_silent_reflection.webp"
+heroImage: "/images/blog/joan_silent_reflection.png"
 app: "buildself"
 formatVersion: 4
 authority: "《圣女贞德1431年审判记录》与学术期刊《Journal of Research in Personality》"

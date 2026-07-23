@@ -5,7 +5,7 @@ description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit f√
 pubDate: "2026-06-03"
 category: "FreshSnap"
 tags: ["Butter","Wissenschaftlich gepr√ºfter Lagerungsratgeber","dairy"]
-heroImage: "/images/blog/butter_storage_hack.webp"
+heroImage: "/images/blog/butter_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"

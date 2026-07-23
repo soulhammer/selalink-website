@@ -4,7 +4,7 @@ title: "龙猫牙齿咬合不正与温度护理：促进磨牙及防止中暑的
 description: "龙猫具有终生生长的牙齿且对高温高湿极度敏感。通过日常3步护理惯例科学提供干草与火山灰沙浴。"
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
-heroImage: "/images/blog/chinchilla_care.webp"
+heroImage: "/images/blog/chinchilla_care.png"
 authority: "AEMV 龙猫饲养官方指南与啮齿类口腔医学规范"
 app: "petself"
 formatVersion: 4

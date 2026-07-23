@@ -5,7 +5,7 @@ pubDate: "2026-07-02"
 updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["フランクリン・D・ル","Routine"]
-heroImage: "/images/blog/fdr_stamp_collecting.webp"
+heroImage: "/images/blog/fdr_stamp_collecting.png"
 app: "buildself"
 formatVersion: 4
 authority: "ルーズベルト大統領図書館・博物館（FDR Presidential Library）の記録"

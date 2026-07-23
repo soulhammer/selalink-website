@@ -5,7 +5,7 @@ pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
 tags: ["打破直线框框的建筑巨","Routine"]
-heroImage: "/images/blog/zaha_hadid_fluid_sketching.webp"
+heroImage: "/images/blog/zaha_hadid_fluid_sketching.png"
 app: "buildself"
 formatVersion: 4
 authority: "菲利普·乔迪迪奥著作《Zaha Hadid: Complete Works》与普利兹克奖致辞"

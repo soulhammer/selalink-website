@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["¿La geomet","Routine"]
-heroImage: "/images/blog/bresson_decisive_moment.webp"
+heroImage: "/images/blog/bresson_decisive_moment.png"
 app: "buildself"
 formatVersion: 4
 authority: "El ensayo de Cartier-Bresson 'El momento decisivo' y las fronteras de la investigación en psicología"

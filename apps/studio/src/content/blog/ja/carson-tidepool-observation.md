@@ -5,7 +5,7 @@ pubDate: "2026-07-04"
 updatedDate: "2026-07-04"
 category: "BuildSelf"
 tags: ["沈黙の春を芽吹かせた","Routine"]
-heroImage: "/images/blog/carson_tidepool_observation.webp"
+heroImage: "/images/blog/carson_tidepool_observation.png"
 app: "buildself"
 formatVersion: 4
 authority: "レイチェル・カーソン伝記「Rachel Carson: Witness for Nature」および学術誌「Environmental Science & Technology」"

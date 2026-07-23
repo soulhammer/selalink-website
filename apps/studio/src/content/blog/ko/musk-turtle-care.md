@@ -4,7 +4,7 @@ title: "커먼 머스크 터틀의 다리 펴기 일광욕과 여과 위생 3단
 description: "가장 널리 키워지는 반수생 거북이 품종인 커먼 머스크 터틀. 일광욕 중 뒷다리를 쭉 펴는 행동의 의미와 등껍질 질환을 막는 3단계 수질 여과 필터링 가이드를 알아봅니다."
 pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
-heroImage: "/images/blog/musk_turtle_care.webp"
+heroImage: "/images/blog/musk_turtle_care.png"
 authority: "World Chelonian Association 거북이 위생 가이드 및 반수생 거북 사육 수의 지침"
 app: "petself"
 formatVersion: 4

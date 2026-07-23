@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Great Habits","borges","Routine","Stamina"]
-heroImage: "/images/blog/borges_mental_dictation.webp"
+heroImage: "/images/blog/borges_mental_dictation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Borges' Biography 'Borges: A Life' & Cross-modal Plasticity Neuro-medicine"

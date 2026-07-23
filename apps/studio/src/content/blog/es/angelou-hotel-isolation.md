@@ -4,7 +4,7 @@ description: "La reconocida escritora y activista Maya Angelou escribía solo en
 pubDate: "2026-03-21"
 category: "BuildSelf"
 tags: ["Crear un e","Routine"]
-heroImage: "/images/blog/angelou_hotel_isolation.webp"
+heroImage: "/images/blog/angelou_hotel_isolation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Entrevista de Maya Angelou en The Paris Review (1990) y estudio de psicología cognitiva sobre control de distracciones"

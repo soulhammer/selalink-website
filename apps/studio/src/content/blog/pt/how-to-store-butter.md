@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración de armazenamen
 pubDate: "2026-06-03"
 category: "FreshSnap"
 tags: ["Manteiga","Guia de armazenamento comprovado cientificamente","dairy"]
-heroImage: "/images/blog/butter_storage_hack.webp"
+heroImage: "/images/blog/butter_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"

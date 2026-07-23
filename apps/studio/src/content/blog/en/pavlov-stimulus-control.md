@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["Great Habits","pavlov","Routine","Stamina"]
-heroImage: "/images/blog/pavlov_stimulus_control.webp"
+heroImage: "/images/blog/pavlov_stimulus_control.png"
 app: "buildself"
 formatVersion: 4
 authority: "Pavlov's biography 'Ivan Pavlov: A Russian Life in Science' & Stimulus Control Theory in Behavioral Psychology"

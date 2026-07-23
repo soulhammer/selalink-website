@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Menghilang","Routine"]
-heroImage: "/images/blog/steinbeck_editor_letter.webp"
+heroImage: "/images/blog/steinbeck_editor_letter.png"
 app: "buildself"
 formatVersion: 4
 authority: "Kumpulan Surat John Steinbeck 'Journal of a Novel' dan Penelitian Psikologi Kognitif tentang Perfeksionisme & Prokrastinasi"

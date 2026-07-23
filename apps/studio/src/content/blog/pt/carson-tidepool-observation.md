@@ -5,7 +5,7 @@ pubDate: "2026-07-04"
 updatedDate: "2026-07-04"
 category: "BuildSelf"
 tags: ["O ecossist","Routine"]
-heroImage: "/images/blog/carson_tidepool_observation.webp"
+heroImage: "/images/blog/carson_tidepool_observation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia 'Rachel Carson: Witness for Nature' & revista Environmental Science & Technology"

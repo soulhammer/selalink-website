@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["直到连续成功100次","Routine"]
-heroImage: "/images/blog/woods_hundred_putts.webp"
+heroImage: "/images/blog/woods_hundred_putts.png"
 app: "buildself"
 formatVersion: 4
 authority: "老虎伍兹官方训练指南及《行为决策杂志》(JDM)关于极限目标达成的研究"

@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["精神の調律を整える波","Routine"]
-heroImage: "/images/blog/luther_lute_meditation.webp"
+heroImage: "/images/blog/luther_lute_meditation.png"
 app: "buildself"
 formatVersion: 4
 authority: "ルター全集『Luther's Works, Vol. 49』歴史的書簡の考証およびハーバード・メディカルスクールの音楽療法と自律神経系反応の科学研究"

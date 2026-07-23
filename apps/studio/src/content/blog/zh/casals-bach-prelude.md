@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["心灵的调谐：巴勃罗·","Routine"]
-heroImage: "/images/blog/casals_bach_prelude.webp"
+heroImage: "/images/blog/casals_bach_prelude.png"
 app: "buildself"
 formatVersion: 4
 authority: "巴勃罗·卡萨尔斯自传《喜悦与哀愁》及基于神经美学与音乐疗法的前额叶阿尔法波诱导研究"

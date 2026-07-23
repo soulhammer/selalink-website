@@ -5,7 +5,7 @@ pubDate: "2026-05-18"
 updatedDate: "2026-05-18"
 category: "BuildSelf"
 tags: ["Great Habits","king","Routine","Stamina"]
-heroImage: "/images/blog/king_writing_routine.webp"
+heroImage: "/images/blog/king_writing_routine.png"
 app: "buildself"
 formatVersion: 4
 authority: "Stephen King's Memoir 'On Writing' & Neuroscience Research on Sensorimotor Learning"

@@ -4,7 +4,7 @@ description: "Ein seltsames Nickerchen-Ritual, das Edison durchführte, wann imm
 pubDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["Das Genie,","Routine"]
-heroImage: "/images/blog/edison_nap.webp"
+heroImage: "/images/blog/edison_nap.png"
 app: "buildself"
 formatVersion: 4
 authority: "Edisons Tagebücher (1948) & Forschungen des Pariser Hirninstituts (Paris Brain Institute)"

@@ -5,7 +5,7 @@ pubDate: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "BuildSelf"
 tags: ["毕加索灵活的沉浸式方","Routine"]
-heroImage: "/images/blog/picasso.webp"
+heroImage: "/images/blog/picasso.png"
 app: "buildself"
 formatVersion: 4
 authority: "约翰·理查森，*毕加索的一生* (1991) & 认知神经科学研究"

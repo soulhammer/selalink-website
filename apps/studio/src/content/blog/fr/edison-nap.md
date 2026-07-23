@@ -4,7 +4,7 @@ description: "Un rituel de sieste insolite qu'Edison pratiquait chaque fois qu'i
 pubDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["Le génie q","Routine"]
-heroImage: "/images/blog/edison_nap.webp"
+heroImage: "/images/blog/edison_nap.png"
 app: "buildself"
 formatVersion: 4
 authority: "Journal intime et observations d'Edison (1948) & Recherches de l'Institut du Cerveau de Paris"

@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["L'érudit q","Routine"]
-heroImage: "/images/blog/smith_contemplative_walking.webp"
+heroImage: "/images/blog/smith_contemplative_walking.png"
 app: "buildself"
 formatVersion: 4
 authority: "L'ouvrage de John Rae 'La vie d'Adam Smith' et recherches de l'université de Stanford sur la cognition créative et la marche (Oppezzo & Schwartz, 2014)"

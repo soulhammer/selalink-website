@@ -4,7 +4,7 @@ title: "Soin Respiratoire et Thermique du Bouledogue Français : Routine en 3 é
 description: "Le Bouledogue Français est sujet aux difficultés respiratoires et aux coups de chaleur en raison de sa face plate. Découvrez comment soigner ses rides, son souffle et ses articulations."
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
-heroImage: "/images/blog/french_bulldog_care.webp"
+heroImage: "/images/blog/french_bulldog_care.png"
 authority: "Recommandations officielles de l'AKC pour le Bouledogue Français"
 app: "petself"
 formatVersion: 4

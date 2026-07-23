@@ -5,7 +5,7 @@ pubDate: "2026-06-25"
 updatedDate: "2026-06-25"
 category: "BuildSelf"
 tags: ["O gênio qu","Routine"]
-heroImage: "/images/blog/jobs_uniform_minimalism.webp"
+heroImage: "/images/blog/jobs_uniform_minimalism.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia de Steve Jobs por Walter Isaacson & revista JPSP"

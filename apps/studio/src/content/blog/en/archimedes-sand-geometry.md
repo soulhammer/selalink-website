@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Great Habits","archimedes","Routine","Stamina"]
-heroImage: "/images/blog/archimedes_sand_geometry.webp"
+heroImage: "/images/blog/archimedes_sand_geometry.png"
 app: "buildself"
 formatVersion: 4
 authority: "Plutarch's 'Parallel Lives' (Life of Marcellus) and Cognitive Research on Dual-Coding Theory"

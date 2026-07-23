@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Une voix a","Routine"]
-heroImage: "/images/blog/dostoevsky_pacing_recitation.webp"
+heroImage: "/images/blog/dostoevsky_pacing_recitation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Mémoires d'Anna Dostoïevskaïa et recherche sur la cognition incarnée (Embodied Cognition) de la LMU Munich"

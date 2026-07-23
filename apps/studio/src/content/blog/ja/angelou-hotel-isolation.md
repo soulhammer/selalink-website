@@ -4,7 +4,7 @@ description: "著名な作家であり活動家のマヤ・アンジェロウは
 pubDate: "2026-03-21"
 category: "BuildSelf"
 tags: ["深い没頭のための神聖","Routine"]
-heroImage: "/images/blog/angelou_hotel_isolation.webp"
+heroImage: "/images/blog/angelou_hotel_isolation.png"
 app: "buildself"
 formatVersion: 4
 authority: "マヤ・アンジェロウ『パリ・レビュー』インタビュー(1990) ＆ 注意散漫制御に関する認知心理学研究"

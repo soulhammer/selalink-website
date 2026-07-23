@@ -4,7 +4,7 @@ title: "Sozialisierungsleitfaden und 3-Schritte-Routine für das doppelte Fell d
 description: "Lernen Sie Sozialisierungsmethoden für den Jindo-Hund und die Pflege seines dichten Doppelmantels."
 pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
-heroImage: "/images/blog/jindo_care.webp"
+heroImage: "/images/blog/jindo_care.png"
 authority: "Richtlinien des Nationalen Instituts für Nutztierwissenschaften Koreas und der KKC"
 app: "petself"
 formatVersion: 4

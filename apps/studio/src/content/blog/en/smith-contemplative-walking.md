@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Great Habits","smith","Routine","Stamina"]
-heroImage: "/images/blog/smith_contemplative_walking.webp"
+heroImage: "/images/blog/smith_contemplative_walking.png"
 app: "buildself"
 formatVersion: 4
 authority: "John Rae's 'The Life of Adam Smith' and Stanford University's Research on Creative Cognition and Walking (Oppezzo & Schwartz, 2014)"

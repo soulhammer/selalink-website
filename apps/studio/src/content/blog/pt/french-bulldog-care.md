@@ -4,7 +4,7 @@ title: "Cuidado Respiratório e de Temperatura do Bulldog Francês: Rotina de 3 
 description: "Bulldogs Franceses são propensos a desconforto respiratório e choque térmico devido à face achatada. Aprenda a rotina para cuidar de suas rugas, respiração e articulações."
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
-heroImage: "/images/blog/french_bulldog_care.webp"
+heroImage: "/images/blog/french_bulldog_care.png"
 authority: "Manual oficial de cuidados com o Bulldog Francês do AKC"
 app: "petself"
 formatVersion: 4

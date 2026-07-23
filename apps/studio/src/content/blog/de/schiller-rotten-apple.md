@@ -5,7 +5,7 @@ pubDate: "2026-05-05"
 updatedDate: "2026-05-05"
 category: "BuildSelf"
 tags: ["Der Dramat","Routine"]
-heroImage: "/images/blog/schiller_rotten_apple.webp"
+heroImage: "/images/blog/schiller_rotten_apple.png"
 app: "buildself"
 formatVersion: 4
 authority: "Johann Peter Eckermanns 'Gespräche mit Goethe' & wissenschaftliche Studie in 'Chemical Senses'"

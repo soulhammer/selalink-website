@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Olhando pa","Routine"]
-heroImage: "/images/blog/rembrandt_self_portrait_reflection.webp"
+heroImage: "/images/blog/rembrandt_self_portrait_reflection.png"
 app: "buildself"
 formatVersion: 4
 authority: "Os arquivos do Museu da Casa de Rembrandt e pesquisa neurocognitiva sobre observação do espelho, córtex pré-frontal medial (mPFC) e processamento autorreferencial"

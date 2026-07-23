@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Great Habits","eisenhower","Routine","Stamina"]
-heroImage: "/images/blog/eisenhower_matrix_decision.webp"
+heroImage: "/images/blog/eisenhower_matrix_decision.png"
 app: "buildself"
 formatVersion: 4
 authority: "Dwight D. Eisenhower Library Archives (1954 Address) and Cognitive Science Studies on Decision Fatigue and Prefrontal Resource Allocation"

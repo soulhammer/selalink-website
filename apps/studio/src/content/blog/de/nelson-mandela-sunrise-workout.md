@@ -5,7 +5,7 @@ pubDate: "2026-01-13"
 updatedDate: "2026-01-13"
 category: "BuildSelf"
 tags: ["Nelson Man","Routine"]
-heroImage: "/images/blog/nelson_mandela_sunrise_workout.webp"
+heroImage: "/images/blog/nelson_mandela_sunrise_workout.png"
 app: "buildself"
 formatVersion: 4
 authority: "Nelson Mandelas Autobiografie 'Der lange Weg zur Freiheit'"

@@ -4,7 +4,7 @@ title: "골든 햄스터의 굴 파기 본능과 스트레스 없는 3단계 데
 description: "야행성이며 단독 생활을 하는 골든 햄스터. 낮 수면 시간의 정적 환경 조성과 볼주머니 수집 본능 충족, 쳇바퀴 정비를 통한 3단계 스트레스 예방 케어를 알아봅니다."
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
-heroImage: "/images/blog/golden_hamster_care.webp"
+heroImage: "/images/blog/golden_hamster_care.png"
 authority: "Humane Society 햄스터 케어 가이드 및 수의학 행동 지침"
 app: "petself"
 formatVersion: 4

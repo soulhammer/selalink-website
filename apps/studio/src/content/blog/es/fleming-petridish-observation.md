@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["¿La salvac","Routine"]
-heroImage: "/images/blog/fleming_petridish_observation.webp"
+heroImage: "/images/blog/fleming_petridish_observation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Conferencia Nobel de Fleming de 1945 y la revista Frontiers in Psychology"

@@ -5,7 +5,7 @@ pubDate: "2026-05-23"
 updatedDate: "2026-05-23"
 category: "BuildSelf"
 tags: ["毎日午後3時間早歩き","Routine"]
-heroImage: "/images/blog/dickens_afternoon_walk.webp"
+heroImage: "/images/blog/dickens_afternoon_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "ジョン・フォースター 著『チャールズ・ディケンズの生涯』＆ 人間脳科学術誌(Frontiers in Human Neuroscience)"

@@ -5,7 +5,7 @@ pubDate: "2026-05-22"
 updatedDate: "2026-05-22"
 category: "BuildSelf"
 tags: ["Marcus Aur","Routine"]
-heroImage: "/images/blog/marcus_aurelius_morning_journaling.webp"
+heroImage: "/images/blog/marcus_aurelius_morning_journaling.png"
 app: "buildself"
 formatVersion: 4
 authority: "Marcus Aurelius, Selbstbetrachtungen / Kognitive Verhaltenstherapie durch Journaling"

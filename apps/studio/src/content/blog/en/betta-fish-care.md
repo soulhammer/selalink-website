@@ -4,7 +4,7 @@ title: "Betta Fish Flaring Communication and 3-Step Routine for Fin Preservation
 description: "Comprehensive care guide for Betta Fish. Understand flaring stress signals, labyrinth organ breathing needs, low current setup, and fin preservation under WSAVA standards."
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
-heroImage: "/images/blog/betta_fish_care.webp"
+heroImage: "/images/blog/betta_fish_care.png"
 authority: "World Small Animal Veterinary Association (WSAVA) Aquatic Animal Health Standards"
 app: "petself"
 formatVersion: 4

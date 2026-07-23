@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["冰冷监狱地面上的的物","Routine"]
-heroImage: "/images/blog/nehru_headstand_yoga.webp"
+heroImage: "/images/blog/nehru_headstand_yoga.png"
 app: "buildself"
 formatVersion: 4
 authority: "尼赫鲁自传《An Autobiography》与学术期刊《Journal of Alternative and Complementary Medicine》"

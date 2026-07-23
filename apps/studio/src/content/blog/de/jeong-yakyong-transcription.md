@@ -5,7 +5,7 @@ pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
 tags: ["500 Bücher","Routine"]
-heroImage: "/images/blog/jeong_yakyong_transcription.webp"
+heroImage: "/images/blog/jeong_yakyong_transcription.png"
 app: "buildself"
 formatVersion: 4
 authority: "Korean Studies Institute „Yeoyudang Jeonseo“-Dokumente & Akademische Forschung des Dasan-Instituts"

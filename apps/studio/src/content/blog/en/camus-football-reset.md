@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Great Habits","camus","Routine","Stamina"]
-heroImage: "/images/blog/camus_football_reset.webp"
+heroImage: "/images/blog/camus_football_reset.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biography 'Albert Camus: A Biography' & Neurobiology of Learning and Memory"

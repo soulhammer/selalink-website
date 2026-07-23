@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración para conservar
 pubDate: "2026-05-02"
 category: "FreshSnap"
 tags: ["Salmón","Guía de almacenamiento científicamente probada","seafood"]
-heroImage: "/images/blog/salmon_storage_hack.webp"
+heroImage: "/images/blog/salmon_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>FDA & USDA</strong>"

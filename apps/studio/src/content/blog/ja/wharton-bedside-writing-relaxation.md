@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["弛緩が導く創造的フロ","Routine"]
-heroImage: "/images/blog/wharton_bedside_writing_relaxation.webp"
+heroImage: "/images/blog/wharton_bedside_writing_relaxation.png"
 app: "buildself"
 formatVersion: 4
 authority: "エディス・ウォートンの自叙伝『A Backward Glance』の考証、および副交感神経の活性化が大脳前頭葉の心理的安全性やアルファ波（Alpha waves）による創造的思考に及ぼす影響の研究"

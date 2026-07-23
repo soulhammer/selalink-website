@@ -4,7 +4,7 @@ title: "Yorkshire Terrier Coat Maintenance and Patella Subluxation 3-Step Homeca
 description: "Discover grooming secrets to keep your Yorkie silky and prevent patellar dislocation."
 pubDate: "2026-01-02"
 updatedDate: "2026-01-02"
-heroImage: "/images/blog/yorkshire_care.webp"
+heroImage: "/images/blog/yorkshire_care.png"
 authority: "Yorkshire Terrier Club (YTC) Grooming Guide & Veterinary Orthopedics Guidelines"
 app: "petself"
 formatVersion: 4

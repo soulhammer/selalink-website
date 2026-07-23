@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["Des pas po","Routine"]
-heroImage: "/images/blog/adams_morning_walk.webp"
+heroImage: "/images/blog/adams_morning_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie d'Adams 'John Adams' & recherches sur la neuroplasticité"

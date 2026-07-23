@@ -4,7 +4,7 @@ title: "Cockatiel Crest Communication and 3-Step Care Routine to Prevent Night F
 description: "Comprehensive care guide for the crested Cockatiel. Learn to decode crest body language, prevent nocturnal night frights, and master a 3-step daily routine recommended by AAV."
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
-heroImage: "/images/blog/cockatiel_care.webp"
+heroImage: "/images/blog/cockatiel_care.png"
 authority: "Association of Avian Veterinarians (AAV) & Avian Behavior Advisory Standards"
 app: "petself"
 formatVersion: 4

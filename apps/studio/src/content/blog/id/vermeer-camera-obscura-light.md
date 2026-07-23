@@ -5,7 +5,7 @@ pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
 tags: ["Master 'Gi","Routine"]
-heroImage: "/images/blog/vermeer_camera_obscura_light.webp"
+heroImage: "/images/blog/vermeer_camera_obscura_light.png"
 app: "buildself"
 formatVersion: 4
 authority: "Metropolitan Museum of Art 'Vermeer and the Delft School' & Riset Philip Steadman"

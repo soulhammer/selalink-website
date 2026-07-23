@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["化粧の裏の魂：マリリ","Routine"]
-heroImage: "/images/blog/monroe_night_reading.webp"
+heroImage: "/images/blog/monroe_night_reading.png"
 app: "buildself"
 formatVersion: 4
 authority: "マリリン・モンロー書簡・詩集『Fragments』歴史的考証およびサセックス大学の読書ストレス緩和認知治療研究"

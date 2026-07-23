@@ -5,7 +5,7 @@ pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
 tags: ["¿El maestr","Routine"]
-heroImage: "/images/blog/bach_pattern_transcription.webp"
+heroImage: "/images/blog/bach_pattern_transcription.png"
 app: "buildself"
 formatVersion: 4
 authority: "Obra de Forkel 'Life of Johann Sebastian Bach' y estudio del desarrollo funcional del cerebro (James, 2012)"

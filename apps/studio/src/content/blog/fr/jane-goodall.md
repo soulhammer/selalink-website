@@ -5,7 +5,7 @@ pubDate: "2026-05-09"
 updatedDate: "2026-05-09"
 category: "BuildSelf"
 tags: ["Les habitu","Routine"]
-heroImage: "/images/blog/jane_goodall.webp"
+heroImage: "/images/blog/jane_goodall.png"
 app: "buildself"
 formatVersion: 4
 authority: "Jane Goodall, *In the Shadow of Man* (1971) & Cognitive Neuroscientific Studies"

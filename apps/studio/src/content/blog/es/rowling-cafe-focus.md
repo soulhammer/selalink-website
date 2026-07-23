@@ -5,7 +5,7 @@ pubDate: "2026-03-03"
 updatedDate: "2026-03-03"
 category: "BuildSelf"
 tags: ["¿La escrit","Routine"]
-heroImage: "/images/blog/rowling_cafe_focus.webp"
+heroImage: "/images/blog/rowling_cafe_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía de J.K. Rowling 'J.K. Rowling: A Biography' y estudios de Journal of Consumer Research sobre ruido blanco"

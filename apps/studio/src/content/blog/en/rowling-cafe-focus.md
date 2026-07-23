@@ -5,7 +5,7 @@ pubDate: "2026-03-03"
 updatedDate: "2026-03-03"
 category: "BuildSelf"
 tags: ["Great Habits","rowling","Routine","Stamina"]
-heroImage: "/images/blog/rowling_cafe_focus.webp"
+heroImage: "/images/blog/rowling_cafe_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "J.K. Rowling's Biography 'J.K. Rowling: A Biography' & Journal of Consumer Research Ambient Noise Studies"

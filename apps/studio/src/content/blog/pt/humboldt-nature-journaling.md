@@ -5,7 +5,7 @@ pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
 tags: ["O explorad","Routine"]
-heroImage: "/images/blog/humboldt_nature_journaling.webp"
+heroImage: "/images/blog/humboldt_nature_journaling.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia de Andrea Wulf 'The Invention of Nature' & obra 'Cosmos' de Humboldt"

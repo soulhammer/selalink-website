@@ -4,7 +4,7 @@ title: "可爱背后隐藏的遗传病？苏格兰折耳猫关节与耳部卫生
 description: "折耳造型十分可爱的苏格兰折耳猫。但它们一生都易受遗传性软骨痛与耳部感染风险的困扰。介绍防滑保护垫的布置以及用于耳部通风的3步日常护理惯例。"
 pubDate: "2026-02-10"
 updatedDate: "2026-02-12"
-heroImage: "/images/blog/scottish_fold_care.webp"
+heroImage: "/images/blog/scottish_fold_care.png"
 authority: "ISFM（国际猫科医学会）遗传性软骨疾病管理指南与 GCCF 折耳猫指南"
 app: "petself"
 formatVersion: 4

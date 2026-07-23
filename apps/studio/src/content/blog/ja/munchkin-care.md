@@ -4,7 +4,7 @@ title: "マンチカン猫の関節保護ガイドと低位置3ステップ日�
 description: "短足のマンチカン猫のケア。関節の不調を示す警告サインを見極め、3ステップの日常ルーチンで健康的な動きを維持しましょう。"
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
-heroImage: "/images/blog/munchkin_care.webp"
+heroImage: "/images/blog/munchkin_care.png"
 authority: "キャットファンシアーズアソシエーション（CFA）マンチカン基準および獣医整形外科ガイドライン"
 app: "petself"
 formatVersion: 4

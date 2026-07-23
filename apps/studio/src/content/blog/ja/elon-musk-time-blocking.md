@@ -5,7 +5,7 @@ pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "BuildSelf"
 tags: ["イーロン・マスクの「","Routine"]
-heroImage: "/images/blog/elon_musk_time_blocking.webp"
+heroImage: "/images/blog/elon_musk_time_blocking.png"
 app: "buildself"
 formatVersion: 4
 authority: "アシュリー・バンス「イーロン・マスク」伝記およびウォルター・アイザックソン「イーロン・マスク」"

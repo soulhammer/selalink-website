@@ -5,7 +5,7 @@ pubDate: "2026-03-09"
 updatedDate: "2026-03-09"
 category: "BuildSelf"
 tags: ["トマス・アクィナスの","Routine"]
-heroImage: "/images/blog/aquinas_multi_dictation.webp"
+heroImage: "/images/blog/aquinas_multi_dictation.png"
 app: "buildself"
 formatVersion: 4
 authority: "ベルナール・ギ『聖トマス・アクィナスの生涯』 / ワーキングメモリ（Working Memory）容量拡張および高速コンテキスト切り替えに関する認知神経科学研究"

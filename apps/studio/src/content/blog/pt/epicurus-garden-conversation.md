@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["Solidaried","Routine"]
-heroImage: "/images/blog/epicurus_garden_conversation.webp"
+heroImage: "/images/blog/epicurus_garden_conversation.png"
 app: "buildself"
 formatVersion: 4
 authority: "A obra de Diógenes Laércio 'Vidas e Doutrinas dos Filósofos Ilustres' e pesquisa neuropsiquiátrica sobre segurança psicológica, conexão social e redução do estresse"

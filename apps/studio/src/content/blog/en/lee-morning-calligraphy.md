@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Great Habits","lee","Routine","Stamina"]
-heroImage: "/images/blog/lee_morning_calligraphy.webp"
+heroImage: "/images/blog/lee_morning_calligraphy.png"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Calligraphy Art of Chairman Lee and Neuroscience Letters Research on Fine Motor Control and Emotional Stability"

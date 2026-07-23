@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Psicologia","Routine"]
-heroImage: "/images/blog/magritte_suit_painting.webp"
+heroImage: "/images/blog/magritte_suit_painting.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia de René Magritte 'René Magritte: Torczyner' e pesquisa cognitiva sobre a cognição do vestuário (Enclothed Cognition) que influencia a capacidade de atenção"

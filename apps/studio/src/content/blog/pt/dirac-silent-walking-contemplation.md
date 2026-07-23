@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["O gênio qu","Routine"]
-heroImage: "/images/blog/dirac_silent_walking_contemplation.webp"
+heroImage: "/images/blog/dirac_silent_walking_contemplation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia de Graham Farmelo 'The Strangest Man' & obra 'Dirac' de Helge Kragh"

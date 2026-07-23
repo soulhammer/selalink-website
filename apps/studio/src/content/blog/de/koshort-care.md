@@ -4,7 +4,7 @@ title: "Ein wilder Instinkt? Eine 3-Schritte-Routine für Territorium und Flüss
 description: "Die Koreanisch Kurzhaar mit starkem Jagdinstinkt. Erfahren Sie mehr über die Flüssigkeitszufuhr zur Vorbeugung von Blasenentzündungen und eine tägliche 3-Schritte-Routine."
 pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
-heroImage: "/images/blog/koshort_care.webp"
+heroImage: "/images/blog/koshort_care.png"
 authority: "Körpersprache-Führer des Cornell Feline Health Centers und NIAS-Pflegehandbuch"
 app: "petself"
 formatVersion: 4

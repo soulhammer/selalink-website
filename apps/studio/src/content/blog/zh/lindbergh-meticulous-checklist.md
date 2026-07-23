@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["如何将认知错误减少到","Routine"]
-heroImage: "/images/blog/lindbergh_meticulous_checklist.webp"
+heroImage: "/images/blog/lindbergh_meticulous_checklist.png"
 app: "buildself"
 formatVersion: 4
 authority: "林德伯格的回忆录“圣路易斯精神”和人为因素杂志"

@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Great Habits","peter","Routine","Stamina"]
-heroImage: "/images/blog/peter_early_labor.webp"
+heroImage: "/images/blog/peter_early_labor.png"
 app: "buildself"
 formatVersion: 4
 authority: "Peter the Great's biography 'Peter the Great: His Life and World' & Cognitive Procedural Memory Theory"

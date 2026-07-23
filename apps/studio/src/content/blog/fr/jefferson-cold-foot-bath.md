@@ -5,7 +5,7 @@ pubDate: "2026-04-17"
 updatedDate: "2026-04-17"
 category: "BuildSelf"
 tags: ["Éveiller l","Routine"]
-heroImage: "/images/blog/jefferson_cold_foot_bath.webp"
+heroImage: "/images/blog/jefferson_cold_foot_bath.png"
 app: "buildself"
 formatVersion: 4
 authority: "Lettres personnelles de Thomas Jefferson & étude neuroscientifique sur la stimulation thermique par le froid et le système nerveux autonome"

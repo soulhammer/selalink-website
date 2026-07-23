@@ -4,7 +4,7 @@ title: "세상에서 가장 작은 용사 치와와, 천문 보호와 저혈당 
 description: "용감하고 작지만 약한 면을 가진 치와와. 두개골 상부 천문 부위의 충격 방지 팁과 혈당 급감에 따른 쇼크를 예방하기 위한 3단계 데일리 라이프 루틴을 설계합니다."
 pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
-heroImage: "/images/blog/chihuahua_care.webp"
+heroImage: "/images/blog/chihuahua_care.png"
 authority: "Chihuahua Club of America 및 AVMA 초소형견 대사/건강 케어 지침"
 app: "petself"
 formatVersion: 4

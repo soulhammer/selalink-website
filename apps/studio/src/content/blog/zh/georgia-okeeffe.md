@@ -5,7 +5,7 @@ pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "BuildSelf"
 tags: ["乔治亚·欧姬芙 (G","Routine"]
-heroImage: "/images/blog/georgia_okeeffe.webp"
+heroImage: "/images/blog/georgia_okeeffe.png"
 app: "buildself"
 formatVersion: 4
 authority: "Hunter Drohojowska-Philp，*盛开：乔治亚·欧姬芙的艺术与生活* (2004) & 认知神经科学研究"

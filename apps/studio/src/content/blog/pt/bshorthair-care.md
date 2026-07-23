@@ -4,7 +4,7 @@ title: "Cuidado do Peso do British Shorthair: Rotina de 3 passos para prevençã
 description: "Os British Shorthairs são amados por seu porte robusto. Descubra uma rotina de 3 passos de dieta e estilo de vida para evitar a obesidade e a HCM genética."
 pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
-heroImage: "/images/blog/bshorthair_care.webp"
+heroImage: "/images/blog/bshorthair_care.png"
 authority: "Padrões da GCCF para British Shorthairs e diretrizes de obesidade felina da AAFP"
 app: "petself"
 formatVersion: 4

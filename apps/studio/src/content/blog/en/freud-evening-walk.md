@@ -5,7 +5,7 @@ pubDate: "2026-07-09"
 updatedDate: "2026-07-09"
 category: "BuildSelf"
 tags: ["Great Habits","freud","Routine","Stamina"]
-heroImage: "/images/blog/freud_evening_walk.webp"
+heroImage: "/images/blog/freud_evening_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Sigmund Freud's Biography 'The Life and Work of Sigmund Freud' & Frontiers in Psychology Journal"

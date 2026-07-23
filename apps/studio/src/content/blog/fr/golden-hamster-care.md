@@ -4,7 +4,7 @@ title: "Instinct de creusement du hamster syrien et routine quotidienne en 3 ét
 description: "Prendre soin du hamster syrien (doré), solitaire et nocturne. Découvrez une routine en 3 étapes couvrant un environnement diurne silencieux, l'instinct d'accumulation dans les joues et le contrôle de la roue pour prévenir le stress."
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
-heroImage: "/images/blog/golden_hamster_care.webp"
+heroImage: "/images/blog/golden_hamster_care.png"
 authority: "Guide de Soins des Hamsters de la Humane Society et Protocoles Comportementaux Vétérinaires"
 app: "petself"
 formatVersion: 4

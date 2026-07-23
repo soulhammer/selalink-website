@@ -5,7 +5,7 @@ pubDate: "2026-06-04"
 updatedDate: "2026-06-04"
 category: "BuildSelf"
 tags: ["¿El maestr","Routine"]
-heroImage: "/images/blog/gutenberg_movable_type_inspection.webp"
+heroImage: "/images/blog/gutenberg_movable_type_inspection.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía 'Johannes Gutenberg' de Albert Kapr y Archivos del Museo Gutenberg de Maguncia"

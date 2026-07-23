@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Great Habits","leejungseob","Routine","Stamina"]
-heroImage: "/images/blog/leejungseob_tin_foil_drawing.webp"
+heroImage: "/images/blog/leejungseob_tin_foil_drawing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Lee Jung-seob's tin foil drawings at MoMA & Research on emotional relaxation through tactile-visual associative stimulation"

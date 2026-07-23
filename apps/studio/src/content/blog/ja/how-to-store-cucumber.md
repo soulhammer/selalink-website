@@ -5,7 +5,7 @@ description: "公的安全基準に基づくきゅうりの最適な保存温度
 pubDate: "2026-01-22"
 category: "FreshSnap"
 tags: ["きゅうり","科学的に検証された保存ガイド","vegetable"]
-heroImage: "/images/blog/cucumber_storage_hack.webp"
+heroImage: "/images/blog/cucumber_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS)</strong>"

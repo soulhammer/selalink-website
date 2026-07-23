@@ -4,7 +4,7 @@ title: "Nymphensittich-Haubensignale und 3-Schritte-Routine gegen nächtliche Pa
 description: "Pflegeanleitung für Nymphensittiche. Haubensprache verstehen, Night Frights vermeiden und eine 3-Schritte-Routine nach AAV-Standards etablieren."
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
-heroImage: "/images/blog/cockatiel_care.webp"
+heroImage: "/images/blog/cockatiel_care.png"
 authority: "Association of Avian Veterinarians (AAV) & Verhaltensempfehlungen"
 app: "petself"
 formatVersion: 4

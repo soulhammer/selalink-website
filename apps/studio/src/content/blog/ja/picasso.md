@@ -5,7 +5,7 @@ pubDate: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "BuildSelf"
 tags: ["アイデアが停滞したら","Routine"]
-heroImage: "/images/blog/picasso.webp"
+heroImage: "/images/blog/picasso.png"
 app: "buildself"
 formatVersion: 4
 authority: "ジョン・リチャードソン、*ピカソの生涯* (1991) & 認知神経科学研究"

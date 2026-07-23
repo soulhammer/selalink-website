@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Allgemeine","Routine"]
-heroImage: "/images/blog/keynes_morning_bed_work.webp"
+heroImage: "/images/blog/keynes_morning_bed_work.png"
 app: "buildself"
 formatVersion: 4
 authority: "Robert Skidelskys Biografie 'John Maynard Keynes' und neurowissenschaftliche Forschung zur Cortisol-Aufwachreaktion (CAR) und präfrontalen exekutiven Funktionen"

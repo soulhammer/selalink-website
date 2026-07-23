@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Cahiers um","Routine"]
-heroImage: "/images/blog/valery_dawn_notebook.webp"
+heroImage: "/images/blog/valery_dawn_notebook.png"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Belege aus Paul Valérys 'Cahiers' und zirkadianbiologische Forschung zur morgendlichen Cortisolausschüttung und Stirnhirnaktivität"

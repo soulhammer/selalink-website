@@ -5,7 +5,7 @@ pubDate: "2026-03-09"
 updatedDate: "2026-03-09"
 category: "BuildSelf"
 tags: ["La dictée ","Routine"]
-heroImage: "/images/blog/aquinas_multi_dictation.webp"
+heroImage: "/images/blog/aquinas_multi_dictation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Bernard Gui, Vie de Saint Thomas d'Aquin / Recherche en neurosciences cognitives sur la mémoire de travail et le changement de contexte"

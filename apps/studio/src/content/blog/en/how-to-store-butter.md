@@ -5,7 +5,7 @@ description: "Learn the best storage temperature, methods, and duration for Butt
 pubDate: "2026-06-03"
 category: "FreshSnap"
 tags: ["Butter","Scientifically Proven Storage Guide","dairy"]
-heroImage: "/images/blog/butter_storage_hack.webp"
+heroImage: "/images/blog/butter_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"

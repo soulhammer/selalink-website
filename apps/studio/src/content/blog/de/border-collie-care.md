@@ -4,7 +4,7 @@ title: "Kognitive Spiele und Gelenkpflege für den intelligenten Border Collie"
 description: "Spiele zur geistigen Auslastung des Border Collies und Tipps zum Gelenkschutz."
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
-heroImage: "/images/blog/border_collie_care.webp"
+heroImage: "/images/blog/border_collie_care.png"
 authority: "Border-Collie-Handbuch des Kennel Club (KC) und Kognitionsstudien"
 app: "petself"
 formatVersion: 4

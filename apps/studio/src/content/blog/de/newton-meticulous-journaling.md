@@ -5,7 +5,7 @@ pubDate: "2026-03-30"
 updatedDate: "2026-03-30"
 category: "BuildSelf"
 tags: ["Isaac Newt","Routine"]
-heroImage: "/images/blog/newton_meticulous_journaling.webp"
+heroImage: "/images/blog/newton_meticulous_journaling.png"
 app: "buildself"
 formatVersion: 4
 authority: "Isaac Newtons Manuskript 'The Waste Book' & Fachzeitschrift Psychological Science"

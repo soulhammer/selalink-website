@@ -5,7 +5,7 @@ pubDate: "2026-01-16"
 updatedDate: "2026-01-16"
 category: "BuildSelf"
 tags: ["Great Habits","jordan","Routine","Stamina"]
-heroImage: "/images/blog/jordan_breakfast_club.webp"
+heroImage: "/images/blog/jordan_breakfast_club.png"
 app: "buildself"
 formatVersion: 4
 authority: "Physical Trainer Tim Grover's Book 'Relentless' & NBA Archive"

@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["思考のモジュール化：","Routine"]
-heroImage: "/images/blog/nabokov_index_card.webp"
+heroImage: "/images/blog/nabokov_index_card.png"
 app: "buildself"
 formatVersion: 4
 authority: "ウラジーミル・ナボコフ自伝『話せ、記憶よ』および認知負荷理論に基づく作業記憶最適化の研究"

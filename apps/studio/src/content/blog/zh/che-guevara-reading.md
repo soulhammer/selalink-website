@@ -5,7 +5,7 @@ pubDate: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "BuildSelf"
 tags: ["在密林战壕里也看书的","Routine"]
-heroImage: "/images/blog/che_guevara_reading.webp"
+heroImage: "/images/blog/che_guevara_reading.png"
 app: "buildself"
 formatVersion: 4
 authority: "切·格瓦拉《玻利维亚日记》与学术期刊《Brain and Language》"

@@ -5,7 +5,7 @@ pubDate: "2026-04-30"
 updatedDate: "2026-04-30"
 category: "BuildSelf"
 tags: ["Great Habits","thoreau","Routine","Stamina"]
-heroImage: "/images/blog/thoreau_forest_walk.webp"
+heroImage: "/images/blog/thoreau_forest_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Thoreau's Walden & Cognitive Studies on Attention Restoration Theory (ART)"

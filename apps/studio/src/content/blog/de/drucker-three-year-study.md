@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Intellektu","Routine"]
-heroImage: "/images/blog/drucker_three_year_study.webp"
+heroImage: "/images/blog/drucker_three_year_study.png"
 app: "buildself"
 formatVersion: 4
 authority: "Peter Druckers Autobiografie und neurowissenschaftliche Forschung zur Gehirnplastizität"

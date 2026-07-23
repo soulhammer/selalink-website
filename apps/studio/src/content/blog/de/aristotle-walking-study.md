@@ -5,7 +5,7 @@ pubDate: "2026-03-25"
 updatedDate: "2026-03-25"
 category: "BuildSelf"
 tags: ["Aristotele","Routine"]
-heroImage: "/images/blog/aristotle_walking_study.webp"
+heroImage: "/images/blog/aristotle_walking_study.png"
 app: "buildself"
 formatVersion: 4
 authority: "Diogenes Laertios, Leben und Meinungen berühmter Philosophen / Neurowissenschaftliche Forschung zu Bewegung und Hippocampus"

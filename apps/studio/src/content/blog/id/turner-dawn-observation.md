@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["Mengukir C","Routine"]
-heroImage: "/images/blog/turner_dawn_observation.webp"
+heroImage: "/images/blog/turner_dawn_observation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Turner 'J.M.W. Turner' & Penelitian Memori Kerja Spasial"

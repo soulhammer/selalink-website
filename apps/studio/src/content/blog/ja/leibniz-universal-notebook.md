@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["万能知識の単巻化手帳","Routine"]
-heroImage: "/images/blog/leibniz_universal_notebook.webp"
+heroImage: "/images/blog/leibniz_universal_notebook.png"
 app: "buildself"
 formatVersion: 4
 authority: "マリア・ローサ・アントニャッツァ著『ライプニッツ評伝（Leibniz: An Intellectual Biography）』記録考証および情報脳科学における意味ネットワーク形成（Semantic Networking）とシナプス長期増強（LTP）認知理論"

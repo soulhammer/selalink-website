@@ -5,7 +5,7 @@ pubDate: "2026-07-09"
 updatedDate: "2026-07-09"
 category: "BuildSelf"
 tags: ["無意識を呼び覚ます3","Routine"]
-heroImage: "/images/blog/freud_evening_walk.webp"
+heroImage: "/images/blog/freud_evening_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "フロイト伝記「The Life and Work of Sigmund Freud」および学術誌「Frontiers in Psychology」"

@@ -5,7 +5,7 @@ pubDate: "2026-06-25"
 updatedDate: "2026-06-25"
 category: "BuildSelf"
 tags: ["Great Habits","jobs","Routine","Stamina"]
-heroImage: "/images/blog/jobs_uniform_minimalism.webp"
+heroImage: "/images/blog/jobs_uniform_minimalism.png"
 app: "buildself"
 formatVersion: 4
 authority: "Steve Jobs' Biography by Walter Isaacson & JPSP Decision Fatigue Research"

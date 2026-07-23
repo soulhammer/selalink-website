@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Kekuatan F","Routine"]
-heroImage: "/images/blog/eisenhower_matrix_decision.webp"
+heroImage: "/images/blog/eisenhower_matrix_decision.png"
 app: "buildself"
 formatVersion: 4
 authority: "Arsip Perpustakaan Dwight D. Eisenhower (Pidato 1954) dan Studi Sains Kognitif tentang Kelelahan Keputusan dan Alokasi Sumber Daya Prefrontal"

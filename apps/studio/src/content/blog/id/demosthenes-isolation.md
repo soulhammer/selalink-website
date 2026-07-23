@@ -4,7 +4,7 @@ description: "Demosthenes mengatasi keterbatasan fisik bawaan untuk menjadi orat
 pubDate: "2026-01-28"
 category: "BuildSelf"
 tags: ["Orator yan","Routine"]
-heroImage: "/images/blog/demosthenes_isolation.webp"
+heroImage: "/images/blog/demosthenes_isolation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Karya Sejarah Plutarch 'Lives: Life of Demosthenes' & Penelitian Kontrol Lingkungan APA"

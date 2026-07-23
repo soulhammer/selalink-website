@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["1セントの無駄も許さ","Routine"]
-heroImage: "/images/blog/rockefeller_red_notebook.webp"
+heroImage: "/images/blog/rockefeller_red_notebook.png"
 app: "buildself"
 formatVersion: 4
 authority: "ロックフェラー伝記「Titan」および学術誌「Behavioral and Brain Sciences」"

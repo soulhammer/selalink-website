@@ -5,7 +5,7 @@ pubDate: "2026-05-23"
 updatedDate: "2026-05-23"
 category: "BuildSelf"
 tags: ["Novelis ya","Routine"]
-heroImage: "/images/blog/dickens_afternoon_walk.webp"
+heroImage: "/images/blog/dickens_afternoon_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Buku John Forster 'The Life of Charles Dickens' & Frontiers in Human Neuroscience"

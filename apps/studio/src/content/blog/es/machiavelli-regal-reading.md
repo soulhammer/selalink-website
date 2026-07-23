@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Diálogo co","Routine"]
-heroImage: "/images/blog/machiavelli_regal_reading.webp"
+heroImage: "/images/blog/machiavelli_regal_reading.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autenticación de la carta de Maquiavelo de 1513 a Francesco Vettori e investigaciones de la Universidad Northwestern sobre la cognición investida (Enclothed Cognition)"

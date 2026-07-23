@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Great Habits","chopin","Routine","Stamina"]
-heroImage: "/images/blog/chopin_piano_refinement.webp"
+heroImage: "/images/blog/chopin_piano_refinement.png"
 app: "buildself"
 formatVersion: 4
 authority: "George Sand's Memoir 'A Winter in Majorca' & The Fryderyk Chopin Institute Manuscript Analysis"

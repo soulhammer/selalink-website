@@ -5,7 +5,7 @@ pubDate: "2026-05-03"
 updatedDate: "2026-05-03"
 category: "BuildSelf"
 tags: ["フラスコ培養における","Routine"]
-heroImage: "/images/blog/pasteur.webp"
+heroImage: "/images/blog/pasteur.png"
 app: "buildself"
 formatVersion: 4
 authority: "ジェラルド L. ゲイソン、*ルイ パスツールのプライベート サイエンス* (1995) および認知神経科学研究"

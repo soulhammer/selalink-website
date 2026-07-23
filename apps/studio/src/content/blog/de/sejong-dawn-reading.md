@@ -5,7 +5,7 @@ pubDate: "2026-04-27"
 updatedDate: "2026-04-27"
 category: "BuildSelf"
 tags: ["Das Geheim","Routine"]
-heroImage: "/images/blog/sejong_dawn_reading.webp"
+heroImage: "/images/blog/sejong_dawn_reading.png"
 app: "buildself"
 formatVersion: 4
 authority: "Annalen der Joseon-Dynastie (Sejong) & Fachzeitschrift Frontiers in Psychology"

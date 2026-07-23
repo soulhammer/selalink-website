@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["La précisi","Routine"]
-heroImage: "/images/blog/kimgu_brush_meditation.webp"
+heroImage: "/images/blog/kimgu_brush_meditation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Mémoires de Kim Gu « Baekbeomilji » & recherche sur le contrôle moteur fin et la régulation de l'anxiété de l'amygdale"

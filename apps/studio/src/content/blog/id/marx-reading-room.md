@@ -5,7 +5,7 @@ pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "BuildSelf"
 tags: ["10 Jam di ","Routine"]
-heroImage: "/images/blog/marx_reading_room.webp"
+heroImage: "/images/blog/marx_reading_room.png"
 app: "buildself"
 formatVersion: 4
 authority: "Arsip British Library, Biografi 'Karl Marx: A Life' & Jurnal Cognitive Psychology"

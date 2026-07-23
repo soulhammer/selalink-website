@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["La décisio","Routine"]
-heroImage: "/images/blog/augustus_decision_consultation.webp"
+heroImage: "/images/blog/augustus_decision_consultation.png"
 app: "buildself"
 formatVersion: 4
 authority: "L'ouvrage de Suétone 'La Vie des douze Césars' et les recherches de Daniel Kahneman sur l'heuristique, la pensée du Système 2 et l'atténuation du biais de confirmation dans la prise de décision"

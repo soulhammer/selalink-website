@@ -4,7 +4,7 @@ title: "Hauttalg-Pflege und Wärmemanagement bei der haarlosen Sphynx-Katze"
 description: "Reinigung des Hauttalgs bei Sphynx-Katzen und Routinen zum Kälteschutz."
 pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
-heroImage: "/images/blog/sphynx_care.webp"
+heroImage: "/images/blog/sphynx_care.png"
 authority: "Richtlinien der Internationalen Gesellschaft für Katzenmedizin (ISFM)"
 app: "petself"
 formatVersion: 4

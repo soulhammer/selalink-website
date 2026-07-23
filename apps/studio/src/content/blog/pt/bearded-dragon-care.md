@@ -4,7 +4,7 @@ title: "Guia de termorregulação do Dragão Barbudo e rotina de 3 passos de Cá
 description: "Cuidado do lagarto Dragão Barbudo. Saiba o significado do acenar de cabeça e previna a doença óssea metabólica (MBD) com iluminação e cálcio."
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
-heroImage: "/images/blog/bearded_dragon_care.webp"
+heroImage: "/images/blog/bearded_dragon_care.png"
 authority: "Diretrizes da Association of Reptilian and Amphibian Veterinarians (ARAV) e Padrões de Herpetologia"
 app: "petself"
 formatVersion: 4

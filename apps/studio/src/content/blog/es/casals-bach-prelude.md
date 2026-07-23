@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Afinar el ","Routine"]
-heroImage: "/images/blog/casals_bach_prelude.webp"
+heroImage: "/images/blog/casals_bach_prelude.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografía de Pablo Casals 'Alegrías y penas' e investigación de neuroestética sobre la inducción de ondas alfa prefrontales mediante la música"

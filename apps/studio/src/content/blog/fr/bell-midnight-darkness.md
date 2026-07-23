@@ -5,7 +5,7 @@ pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
 tags: ["Le génie q","Routine"]
-heroImage: "/images/blog/bell_midnight_darkness.webp"
+heroImage: "/images/blog/bell_midnight_darkness.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie d'Alexander Graham Bell 'Reluctant Genius' & revue Frontiers in Human Neuroscience"

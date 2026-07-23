@@ -5,7 +5,7 @@ description: "公的安全基準に基づくイカの最適な保存温度、保
 pubDate: "2026-05-08"
 category: "FreshSnap"
 tags: ["イカ","科学的に検証された保存ガイド","seafood"]
-heroImage: "/images/blog/squid_storage_hack.webp"
+heroImage: "/images/blog/squid_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>国立水産科学部(NIFS) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"

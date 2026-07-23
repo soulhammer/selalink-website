@@ -4,7 +4,7 @@ title: "Soins du Bichon Frisé à poil frisé : Routine en 3 étapes pour le dé
 description: "Célèbre pour son aspect de houppette, le Bichon Frisé est très amical. Découvrez une routine pour gérer son poil frisé et gérer en sécurité son quart d'heure de folie."
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
-heroImage: "/images/blog/bichon_care.webp"
+heroImage: "/images/blog/bichon_care.png"
 authority: "Normes du Bichon Frise Club of America et directives de santé de l'AVMA"
 app: "petself"
 formatVersion: 4

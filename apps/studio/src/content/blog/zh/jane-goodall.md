@@ -5,7 +5,7 @@ pubDate: "2026-05-09"
 updatedDate: "2026-05-09"
 category: "BuildSelf"
 tags: ["珍·古道尔坐在黑猩猩","Routine"]
-heroImage: "/images/blog/jane_goodall.webp"
+heroImage: "/images/blog/jane_goodall.png"
 app: "buildself"
 formatVersion: 4
 authority: "简·古道尔 (Jane Goodall)，《人类的阴影》 (1971) 和认知神经科学研究"

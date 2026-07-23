@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["鏡の中の自分を見つめ","Routine"]
-heroImage: "/images/blog/rembrandt_self_portrait_reflection.webp"
+heroImage: "/images/blog/rembrandt_self_portrait_reflection.png"
 app: "buildself"
 formatVersion: 4
 authority: "アムステルダム・レンブラント・ハウス博物館所蔵の自画像記録考証および鏡の自己凝視（Mirror Gazing）が大脳内側前頭前野（mPFC）に及ぼす神経科学研究結果"

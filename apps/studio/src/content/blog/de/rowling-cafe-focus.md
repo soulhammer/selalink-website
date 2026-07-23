@@ -5,7 +5,7 @@ pubDate: "2026-03-03"
 updatedDate: "2026-03-03"
 category: "BuildSelf"
 tags: ["Die Autori","Routine"]
-heroImage: "/images/blog/rowling_cafe_focus.webp"
+heroImage: "/images/blog/rowling_cafe_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "J.K. Rowlings Biografie 'J.K. Rowling: A Biography' & Studien aus Journal of Consumer Research zu weißem Rauschen"

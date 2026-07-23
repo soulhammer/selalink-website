@@ -5,7 +5,7 @@ pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "BuildSelf"
 tags: ["Escrever n","Routine"]
-heroImage: "/images/blog/joyce_bed_writing.webp"
+heroImage: "/images/blog/joyce_bed_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia de Richard Ellmann sobre James Joyce & medicina sobre a sensibilidade ao contraste"

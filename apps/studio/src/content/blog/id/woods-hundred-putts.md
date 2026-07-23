@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Hingga 100","Routine"]
-heroImage: "/images/blog/woods_hundred_putts.webp"
+heroImage: "/images/blog/woods_hundred_putts.png"
 app: "buildself"
 formatVersion: 4
 authority: "Panduan Latihan Resmi Tiger Woods dan Penelitian JDM tentang Pencapaian Target Batas"

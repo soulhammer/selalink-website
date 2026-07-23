@@ -5,7 +5,7 @@ pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
 tags: ["Great Habits","seneca","Routine","Stamina"]
-heroImage: "/images/blog/seneca_evening_review.webp"
+heroImage: "/images/blog/seneca_evening_review.png"
 app: "buildself"
 formatVersion: 4
 authority: "Seneca, De Ira (On Anger, III.36) / Autonomic nervous system and evening journaling research"

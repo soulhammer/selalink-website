@@ -4,7 +4,7 @@ title: "ゴールデンハムスターの穴掘り本能とストレスのない
 description: "夜行性で単独生活を好むゴールデンハムスター。日中の静かな睡眠環境づくり、頬袋に食べ物を集める本能の充足、回し車の整備による3ステップのストレス予防ケアを解説します。"
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
-heroImage: "/images/blog/golden_hamster_care.webp"
+heroImage: "/images/blog/golden_hamster_care.png"
 authority: "Humane Society ハムスターケアガイドおよび獣医行動学基準"
 app: "petself"
 formatVersion: 4

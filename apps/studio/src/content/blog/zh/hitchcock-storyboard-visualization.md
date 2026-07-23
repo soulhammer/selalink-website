@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["在脑海中完成百分之百","Routine"]
-heroImage: "/images/blog/hitchcock_storyboard_visualization.webp"
+heroImage: "/images/blog/hitchcock_storyboard_visualization.png"
 app: "buildself"
 formatVersion: 4
 authority: "阿尔弗雷德·希区柯克传记《Alfred Hitchcock: A Life in Darkness and Light》与精神模拟认知科学研究"

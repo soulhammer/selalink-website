@@ -5,7 +5,7 @@ pubDate: "2026-06-06"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["La romanci","Routine"]
-heroImage: "/images/blog/woolf_standing_desk.webp"
+heroImage: "/images/blog/woolf_standing_desk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Le Journal de Virginia Woolf et l'étude d'Applied Ergonomics sur les bureaux debout"

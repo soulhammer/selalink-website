@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["完璧な没頭のための孤","Routine"]
-heroImage: "/images/blog/shaw_rotating_hut_focus.webp"
+heroImage: "/images/blog/shaw_rotating_hut_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "英国エイオット・セント・ローレンスのショーの邸宅（Shaw's Corner）博物館の小屋記録の考証、および環境心理学における自然光集中と遮断効果に伴う認知疲労低下の研究"

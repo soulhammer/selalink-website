@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["カフェの騒音の中の哲","Routine"]
-heroImage: "/images/blog/sartre_cafe_writing.webp"
+heroImage: "/images/blog/sartre_cafe_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "サルトル伝記「Sartre: A Life」および作業環境心理学の学術研究"

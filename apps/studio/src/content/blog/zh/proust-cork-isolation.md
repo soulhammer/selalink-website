@@ -5,7 +5,7 @@ pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
 tags: ["唤醒记忆的寂静之室？","Routine"]
-heroImage: "/images/blog/proust_cork_isolation.webp"
+heroImage: "/images/blog/proust_cork_isolation.png"
 app: "buildself"
 formatVersion: 4
 authority: "卡尔纳瓦莱博物馆普鲁斯特卧室复原展览与学术期刊《Journal of Cognitive Neuroscience》"

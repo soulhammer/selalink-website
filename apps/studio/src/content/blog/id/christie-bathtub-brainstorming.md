@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Makan Apel","Routine"]
-heroImage: "/images/blog/christie_bathtub_brainstorming.webp"
+heroImage: "/images/blog/christie_bathtub_brainstorming.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografi Agatha Christie 'Agatha Christie: An Autobiography' & Jurnal Thermal Biology"

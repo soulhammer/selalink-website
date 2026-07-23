@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["Buku Catat","Routine"]
-heroImage: "/images/blog/leibniz_universal_notebook.webp"
+heroImage: "/images/blog/leibniz_universal_notebook.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Maria Rosa Antognazza 'Leibniz: An Intellectual Biography' dan Riset Kognitif tentang Jaringan Semantik serta Potensiasi Jangka Panjang (LTP)"

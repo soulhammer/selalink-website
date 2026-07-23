@@ -5,7 +5,7 @@ pubDate: "2026-03-25"
 updatedDate: "2026-03-25"
 category: "BuildSelf"
 tags: ["Caminhada ","Routine"]
-heroImage: "/images/blog/aristotle_walking_study.webp"
+heroImage: "/images/blog/aristotle_walking_study.png"
 app: "buildself"
 formatVersion: 4
 authority: "Diógenes Laércio, Vidas e Doutrinas dos Filósofos Ilustres / Estudo neurocientífico sobre exercício físico e hipocampo"

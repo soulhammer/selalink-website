@@ -4,7 +4,7 @@ title: "Der sanfte Riese Maine Coon: Hergesundheit und prachtvolles Doppelfell i
 description: "Der sanfte Riese Maine Coon. Entdecken Sie Schutzmaßnahmen für Gelenke aufgrund ihres Gewichts und eine 3-Schritte-Routine für Herzgesundheit und Fellpflege."
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
-heroImage: "/images/blog/maine_coon_care.webp"
+heroImage: "/images/blog/maine_coon_care.png"
 authority: "Leitfaden der Maine Coon Breeders & Fanciers Association (MCBFA) und AAFP-Protokolle für Großkatzen"
 app: "petself"
 formatVersion: 4

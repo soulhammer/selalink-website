@@ -5,7 +5,7 @@ pubDate: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "BuildSelf"
 tags: ["¿Por qué l","Routine"]
-heroImage: "/images/blog/che_guevara_reading.webp"
+heroImage: "/images/blog/che_guevara_reading.png"
 app: "buildself"
 formatVersion: 4
 authority: "Diario de Bolivia de Che Guevara y revista Brain and Language"

@@ -4,7 +4,7 @@ title: "Soins du British Shorthair (Poids) : Routine en 3 étapes pour la préve
 description: "Le British Shorthair est aimé pour sa carrure trapue. Découvrez une routine en 3 étapes de régime et mode de vie pour prévenir l'obésité et la CMH génétique."
 pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
-heroImage: "/images/blog/bshorthair_care.webp"
+heroImage: "/images/blog/bshorthair_care.png"
 authority: "Normes de la GCCF pour le British Shorthair et directives sur l'obésité de l'AAFP"
 app: "petself"
 formatVersion: 4

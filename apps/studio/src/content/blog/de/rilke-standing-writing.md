@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["Das Gehirn","Routine"]
-heroImage: "/images/blog/rilke_standing_writing.webp"
+heroImage: "/images/blog/rilke_standing_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Rilkes Briefsammlung 'Briefe an einen jungen Dichter' & kognitionswissenschaftliche Forschung zur präfrontalen Durchblutung im Stehen"

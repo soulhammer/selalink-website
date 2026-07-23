@@ -5,7 +5,7 @@ pubDate: "2026-01-25"
 updatedDate: "2026-01-25"
 category: "BuildSelf"
 tags: ["Le génie q","Routine"]
-heroImage: "/images/blog/descartes_lying_meditation.webp"
+heroImage: "/images/blog/descartes_lying_meditation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie de René Descartes 'La Vie de Monsieur Descartes' & revue Psychophysiology"

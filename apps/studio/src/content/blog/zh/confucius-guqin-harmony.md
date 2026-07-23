@@ -5,7 +5,7 @@ pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
 tags: ["调和心绪的旋律？孔子","Routine"]
-heroImage: "/images/blog/confucius_guqin_harmony.webp"
+heroImage: "/images/blog/confucius_guqin_harmony.png"
 app: "buildself"
 formatVersion: 4
 authority: "《论语》、《史记·孔子世家》与学术期刊《Journal of Music Therapy》"

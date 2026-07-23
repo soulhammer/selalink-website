@@ -4,7 +4,7 @@ title: "Cuidados de Orejas de Holland Lop y Rutina de 3 Pasos para el Baile 'Bin
 description: "Guía completa de cuidado para el conejo Holland Lop. Previene otitis, interpreta los saltos de felicidad 'Binky' y proporciona heno Timothy ilimitado 24/7."
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
-heroImage: "/images/blog/holland_lop_care.webp"
+heroImage: "/images/blog/holland_lop_care.png"
 authority: "House Rabbit Society (HRS) & AEMV Normas de Conejos"
 app: "petself"
 formatVersion: 4

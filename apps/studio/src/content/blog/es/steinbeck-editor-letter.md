@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Eliminar e","Routine"]
-heroImage: "/images/blog/steinbeck_editor_letter.webp"
+heroImage: "/images/blog/steinbeck_editor_letter.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autenticación del epistolario de John Steinbeck 'Journal of a Novel' e investigaciones de psicología cognitiva sobre el perfeccionismo y la procrastinación"

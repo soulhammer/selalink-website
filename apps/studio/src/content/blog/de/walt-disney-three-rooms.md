@@ -5,7 +5,7 @@ pubDate: "2026-04-16"
 updatedDate: "2026-04-16"
 category: "BuildSelf"
 tags: ["Walt Disne","Routine"]
-heroImage: "/images/blog/walt_disney_three_rooms.webp"
+heroImage: "/images/blog/walt_disney_three_rooms.png"
 app: "buildself"
 formatVersion: 4
 authority: "Robert Dilts' Strategies of Genius"

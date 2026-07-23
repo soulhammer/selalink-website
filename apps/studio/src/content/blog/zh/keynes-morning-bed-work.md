@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["被窝里写就的《一般理","Routine"]
-heroImage: "/images/blog/keynes_morning_bed_work.webp"
+heroImage: "/images/blog/keynes_morning_bed_work.png"
 app: "buildself"
 formatVersion: 4
 authority: "罗伯特·斯基德尔斯基著《约翰·梅纳德·凯恩斯传》事实考证及关于清晨觉醒荷尔蒙（CAR）与起初短期觉醒对大脑前额叶认知功能影响的临床脑神经科学研究"

@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["シャーロックを書く前","Routine"]
-heroImage: "/images/blog/doyle_sports_writing.webp"
+heroImage: "/images/blog/doyle_sports_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "コナン・ドイルの回顧録およびBDNFと実行機能に関するスポーツ科学研究"

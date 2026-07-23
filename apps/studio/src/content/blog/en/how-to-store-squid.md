@@ -5,7 +5,7 @@ description: "Learn the best storage temperature, methods, and duration for Squi
 pubDate: "2026-05-08"
 category: "FreshSnap"
 tags: ["Squid","Scientifically Proven Storage Guide","seafood"]
-heroImage: "/images/blog/squid_storage_hack.webp"
+heroImage: "/images/blog/squid_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>NIFS & MFDS & USDA</strong>"

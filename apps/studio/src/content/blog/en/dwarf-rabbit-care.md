@@ -4,7 +4,7 @@ title: "Netherland Dwarf Rabbit Thumping Signals and 3-Step Digestive Health Rou
 description: "Caring for the smallest rabbit breed, the Netherland Dwarf. Learn how to respond to warning thumps and support their sensitive digestive system with a 3-step high-fiber hay routine."
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
-heroImage: "/images/blog/dwarf_rabbit_care.webp"
+heroImage: "/images/blog/dwarf_rabbit_care.png"
 authority: "House Rabbit Society Medical Guidelines and Small Animal Veterinary Standards"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Diálogo co","Routine"]
-heroImage: "/images/blog/machiavelli_regal_reading.webp"
+heroImage: "/images/blog/machiavelli_regal_reading.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autenticação da carta de Maquiavel de 1513 a Francesco Vettori e pesquisas da Universidade Northwestern sobre a cognição vestida (Enclothed Cognition)"

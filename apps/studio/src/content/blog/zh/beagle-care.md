@@ -4,7 +4,7 @@ title: "比格犬的精力与焦虑护理：缓解分离焦虑与预防耳病的
 description: "拥有猎犬血统、充满好奇心和运动量的比格犬。介绍一套满足其嗅觉需求以缓解分离焦虑，并保持垂耳卫生的日常3步护理惯例。"
 pubDate: "2026-02-28"
 updatedDate: "2026-03-01"
-heroImage: "/images/blog/beagle_care.webp"
+heroImage: "/images/blog/beagle_care.png"
 authority: "AKC 比格犬官方指南与 IAABC 嗅闻行为协议"
 app: "petself"
 formatVersion: 4

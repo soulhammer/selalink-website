@@ -4,7 +4,7 @@ title: "Estiramiento de patas del galápago almizclado y rutina de filtración d
 description: "Cuidado del galápago almizclado común (tortuga almizclera). Conozca el significado del estiramiento de patas traseras durante el asoleamiento y prevenga enfermedades del caparazón con una rutina de filtración de 3 pasos."
 pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
-heroImage: "/images/blog/musk_turtle_care.webp"
+heroImage: "/images/blog/musk_turtle_care.png"
 authority: "Pautas de Asoleamiento de la World Chelonian Association y Protocolo de Tortugas Acuáticas"
 app: "petself"
 formatVersion: 4

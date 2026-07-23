@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Great Habits","wordsworth","Routine","Stamina"]
-heroImage: "/images/blog/wordsworth_outdoor_recitation.webp"
+heroImage: "/images/blog/wordsworth_outdoor_recitation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Hunter Davies's 'William Wordsworth: A Biography' & 'Cognitive Brain Research' Journal"

@@ -4,7 +4,7 @@ description: "Le prix Nobel Ernest Hemingway suivait son nombre de mots quotidie
 pubDate: "2026-02-05"
 category: "BuildSelf"
 tags: ["Écrire en ","Routine"]
-heroImage: "/images/blog/hemingway_word_count.webp"
+heroImage: "/images/blog/hemingway_word_count.png"
 app: "buildself"
 formatVersion: 4
 authority: "L'interview d'Ernest Hemingway dans The Paris Review (1958) & étude du Journal of Applied Behavior Analysis"

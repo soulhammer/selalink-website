@@ -5,7 +5,7 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Daun bawang be
 pubDate: "2026-01-07"
 category: "FreshSnap"
 tags: ["Daun bawang","Panduan Penyimpanan yang Terbukti Secara Ilmiah","vegetable"]
-heroImage: "/images/blog/green_onion_storage_hack.webp"
+heroImage: "/images/blog/green_onion_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"

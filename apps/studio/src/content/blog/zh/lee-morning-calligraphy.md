@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["笔尖上的管理哲学：李","Routine"]
-heroImage: "/images/blog/lee_morning_calligraphy.webp"
+heroImage: "/images/blog/lee_morning_calligraphy.png"
 app: "buildself"
 formatVersion: 4
 authority: "李秉喆会长亲笔书法作品考证及《神经学快报》(Neuroscience Letters)关于精细运动控制与情绪稳定性的研究"

@@ -5,7 +5,7 @@ pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
 tags: ["Kebiasaan ","Routine"]
-heroImage: "/images/blog/thatcher.webp"
+heroImage: "/images/blog/thatcher.png"
 app: "buildself"
 formatVersion: 4
 authority: "Margaret Thatcher, *The Downing Street Years* (1993) & Studi Ilmu Saraf Kognitif"

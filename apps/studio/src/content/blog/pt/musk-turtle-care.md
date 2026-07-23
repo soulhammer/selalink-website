@@ -4,7 +4,7 @@ title: "Alongamento de patas do tigre d'água comum e rotina de filtração de �
 description: "Cuidado do tigre d'água comum (tartaruga almíscar comum). Conheça o significado do alongamento de patas traseiras durante o banho de sol e previna doenças da carapaça com uma rotina de filtração de 3 passos."
 pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
-heroImage: "/images/blog/musk_turtle_care.webp"
+heroImage: "/images/blog/musk_turtle_care.png"
 authority: "Diretrizes de Banho de Sol da World Chelonian Association e Protocolo de Tartarugas Aquáticas"
 app: "petself"
 formatVersion: 4

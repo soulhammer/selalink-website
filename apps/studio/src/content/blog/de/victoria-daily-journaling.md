@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Das Gewich","Routine"]
-heroImage: "/images/blog/victoria_daily_journaling.webp"
+heroImage: "/images/blog/victoria_daily_journaling.png"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Belege aus Königin Victorias Originaltagebüchern in den Royal Archives und James Pennebakers Forschung zum heilsamen Schreiben"

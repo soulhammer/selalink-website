@@ -5,7 +5,7 @@ pubDate: "2026-06-16"
 updatedDate: "2026-06-16"
 category: "BuildSelf"
 tags: ["ブラッドベリの発散的","Routine"]
-heroImage: "/images/blog/bradbury.webp"
+heroImage: "/images/blog/bradbury.png"
 app: "buildself"
 formatVersion: 4
 authority: "レイ・ブラッドベリ、*Zen in the Art of Writing* (1990) & 認知神経科学研究"

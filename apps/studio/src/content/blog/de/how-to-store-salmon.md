@@ -5,7 +5,7 @@ description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit f√
 pubDate: "2026-05-02"
 category: "FreshSnap"
 tags: ["Lachs","Wissenschaftlich gepr√ºfter Lagerungsratgeber","seafood"]
-heroImage: "/images/blog/salmon_storage_hack.webp"
+heroImage: "/images/blog/salmon_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>FDA & USDA</strong>"

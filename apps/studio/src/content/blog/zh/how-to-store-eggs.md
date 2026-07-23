@@ -5,7 +5,7 @@ description: "根据官方食品安全指南，了解鸡蛋的最佳储存温度
 pubDate: "2026-04-15"
 category: "FreshSnap"
 tags: ["鸡蛋","科学验证的储存指南","dairy"]
-heroImage: "/images/blog/egg_storage_hack.webp"
+heroImage: "/images/blog/egg_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>"

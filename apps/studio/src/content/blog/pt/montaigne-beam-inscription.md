@@ -5,7 +5,7 @@ pubDate: "2026-03-10"
 updatedDate: "2026-03-10"
 category: "BuildSelf"
 tags: ["As vigas g","Routine"]
-heroImage: "/images/blog/montaigne_beam_inscription.webp"
+heroImage: "/images/blog/montaigne_beam_inscription.png"
 app: "buildself"
 formatVersion: 4
 authority: "Michel de Montaigne, Ensaios / Estudos sobre ativação visual e movimento ocular vertical na metacognição"

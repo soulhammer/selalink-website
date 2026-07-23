@@ -5,7 +5,7 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Cumi-cumi berd
 pubDate: "2026-05-08"
 category: "FreshSnap"
 tags: ["Cumi-cumi","Panduan Penyimpanan yang Terbukti Secara Ilmiah","seafood"]
-heroImage: "/images/blog/squid_storage_hack.webp"
+heroImage: "/images/blog/squid_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>NIFS & MFDS & USDA</strong>"

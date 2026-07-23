@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["午前4時のカイエ：ポ","Routine"]
-heroImage: "/images/blog/valery_dawn_notebook.webp"
+heroImage: "/images/blog/valery_dawn_notebook.png"
 app: "buildself"
 formatVersion: 4
 authority: "ポール・ヴァレリー原典アーカイブ『Cahiers』自筆ノート考証および時間生物学（Chronobiology）早朝時間帯のコルチゾールと前頭葉覚醒機能研究"

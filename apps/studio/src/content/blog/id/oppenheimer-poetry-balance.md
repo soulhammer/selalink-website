@@ -5,7 +5,7 @@ pubDate: "2026-03-08"
 updatedDate: "2026-03-08"
 category: "BuildSelf"
 tags: ["Cara Relak","Routine"]
-heroImage: "/images/blog/oppenheimer_poetry_balance.webp"
+heroImage: "/images/blog/oppenheimer_poetry_balance.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi 'American Prometheus' & Arsip Library of Congress"

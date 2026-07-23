@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["L'isolemen","Routine"]
-heroImage: "/images/blog/shaw_rotating_hut_focus.webp"
+heroImage: "/images/blog/shaw_rotating_hut_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "Dossiers de préservation du site historique de Shaw's Corner et recherche en psychologie environnementale sur l'exposition à la lumière du jour, l'isolement cognitif et la réduction des interruptions d'attention"

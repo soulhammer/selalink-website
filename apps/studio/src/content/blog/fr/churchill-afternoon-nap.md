@@ -5,7 +5,7 @@ pubDate: "2026-04-24"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Le Premier","Routine"]
-heroImage: "/images/blog/churchill_afternoon_nap.webp"
+heroImage: "/images/blog/churchill_afternoon_nap.png"
 app: "buildself"
 formatVersion: 4
 authority: "L'ouvrage de Winston Churchill 'La Deuxième Guerre mondiale' et l'étude de la NASA sur la sieste des astronautes"

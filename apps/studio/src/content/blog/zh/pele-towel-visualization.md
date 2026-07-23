@@ -5,7 +5,7 @@ pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
 category: "BuildSelf"
 tags: ["战胜更衣室噪音的15","Routine"]
-heroImage: "/images/blog/pele_towel_visualization.webp"
+heroImage: "/images/blog/pele_towel_visualization.png"
 app: "buildself"
 formatVersion: 4
 authority: "贝利自传《My Life and the Beautiful Game》与FIFA官方纪录片档案"

@@ -4,7 +4,7 @@ title: "Safe Haven and Trust Building: A 3-Step Routine for Russian Blue Cats"
 description: "Russian Blues are naturally shy and highly sensitive to noise. Learn how to create a stress-free safe zone and a 3-step routine for building trust with them."
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
-heroImage: "/images/blog/russian_blue_care.webp"
+heroImage: "/images/blog/russian_blue_care.png"
 authority: "Cat Fanciers' Association (CFA) Breed Guide & Cornell Feline Health Center"
 app: "petself"
 formatVersion: 4

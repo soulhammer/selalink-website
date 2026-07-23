@@ -4,7 +4,7 @@ title: "Der kleinste Krieger der Welt: Chihuahuas Molera-Schutz und 3-Schritte-U
 description: "Der Chihuahua, der kleinste Krieger. Erfahren Sie, wie Sie seinen Kopf (offene Molera) schützen, und eine 3-Schritte-Routine zur Vermeidung von Unterzuckerung."
 pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
-heroImage: "/images/blog/chihuahua_care.webp"
+heroImage: "/images/blog/chihuahua_care.png"
 authority: "Rassehandbuch des Chihuahua Club of America und AVMA-Richtlinien für den Stoffwechsel von Zwergrassen"
 app: "petself"
 formatVersion: 4

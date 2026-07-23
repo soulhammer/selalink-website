@@ -5,7 +5,7 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Tahu berdasark
 pubDate: "2026-04-20"
 category: "FreshSnap"
 tags: ["Tahu","Panduan Penyimpanan yang Terbukti Secara Ilmiah","dairy"]
-heroImage: "/images/blog/tofu_storage_hack.webp"
+heroImage: "/images/blog/tofu_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"

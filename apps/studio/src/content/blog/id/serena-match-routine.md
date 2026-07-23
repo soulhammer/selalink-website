@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Servis yan","Routine"]
-heroImage: "/images/blog/serena_match_routine.webp"
+heroImage: "/images/blog/serena_match_routine.png"
 app: "buildself"
 formatVersion: 4
 authority: "Wawancara Tennis Magazine dan Penelitian Psikolog Olahraga Singer tentang Rutinitas Pra-Tanding"

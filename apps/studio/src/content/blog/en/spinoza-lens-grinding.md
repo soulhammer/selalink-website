@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Great Habits","spinoza","Routine","Stamina"]
-heroImage: "/images/blog/spinoza_lens_grinding.webp"
+heroImage: "/images/blog/spinoza_lens_grinding.png"
 app: "buildself"
 formatVersion: 4
 authority: "Colerus, The Life of Spinoza / Hand-eye coordination and Default Mode Network (DMN) regulation"

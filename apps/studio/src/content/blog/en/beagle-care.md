@@ -4,7 +4,7 @@ title: "Beagle Energy and Anxiety Care: A 3-Step Routine for Separation Anxiety 
 description: "Beagles are highly curious hunting dogs with massive energy. Learn a 3-step routine to fulfill their sniff drive, reduce anxiety, and prevent ear infections."
 pubDate: "2026-02-28"
 updatedDate: "2026-03-01"
-heroImage: "/images/blog/beagle_care.webp"
+heroImage: "/images/blog/beagle_care.png"
 authority: "Official AKC Breed Manual for Beagles & IAABC Nosework Protocols"
 app: "petself"
 formatVersion: 4

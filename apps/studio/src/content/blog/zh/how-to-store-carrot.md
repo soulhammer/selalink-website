@@ -5,7 +5,7 @@ description: "根据官方食品安全指南，了解胡萝卜的最佳储存温
 pubDate: "2026-01-01"
 category: "FreshSnap"
 tags: ["胡萝卜","科学验证的储存指南","vegetable"]
-heroImage: "/images/blog/carrot_storage_hack.webp"
+heroImage: "/images/blog/carrot_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA)</strong>"

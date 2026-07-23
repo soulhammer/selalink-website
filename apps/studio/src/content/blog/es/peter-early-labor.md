@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["El conocim","Routine"]
-heroImage: "/images/blog/peter_early_labor.webp"
+heroImage: "/images/blog/peter_early_labor.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía de Pedro el Grande 'Peter the Great: His Life and World' y teoría de la memoria procedimental cognitiva"

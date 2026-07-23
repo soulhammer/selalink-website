@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración para conservar
 pubDate: "2026-03-24"
 category: "FreshSnap"
 tags: ["Tomate","Guía de almacenamiento científicamente probada","fruit"]
-heroImage: "/images/blog/tomato_storage_hack.webp"
+heroImage: "/images/blog/tomato_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & CDC</strong>"

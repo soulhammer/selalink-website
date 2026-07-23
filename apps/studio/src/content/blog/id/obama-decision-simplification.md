@@ -5,7 +5,7 @@ pubDate: "2026-01-06"
 updatedDate: "2026-01-06"
 category: "BuildSelf"
 tags: ["Rahasia Ke","Routine"]
-heroImage: "/images/blog/obama_decision_simplification.webp"
+heroImage: "/images/blog/obama_decision_simplification.png"
 app: "buildself"
 formatVersion: 4
 authority: "Teori Keletihan Keputusan Prof. Roy F. Baumeister & Wawancara Vanity Fair dengan Presiden Obama"

@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Great Habits","lindbergh","Routine","Stamina"]
-heroImage: "/images/blog/lindbergh_meticulous_checklist.webp"
+heroImage: "/images/blog/lindbergh_meticulous_checklist.png"
 app: "buildself"
 formatVersion: 4
 authority: "Lindbergh's Memoir 'The Spirit of St. Louis' & Human Factors Journal"

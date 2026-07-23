@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["发散与收敛的二重奏：","Routine"]
-heroImage: "/images/blog/emerson_walking_journal_integration.webp"
+heroImage: "/images/blog/emerson_walking_journal_integration.png"
 app: "buildself"
 formatVersion: 4
 authority: "哈佛大学出版社出版的《爱默生日志与备忘录》实物考证及关于认知心理学的发散模式（Divergent）与收敛模式（Convergent）交替运转促进创造性问题解决的研究"

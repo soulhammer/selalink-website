@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["士大夫の朝の養生：退","Routine"]
-heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.webp"
+heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.png"
 app: "buildself"
 formatVersion: 4
 authority: "李滉（イ・ファン）著『活人心方』医学養生書考証および臨床医学ジャーナル（Journal of Clinical Medicine）低強度身体刺激と副交感神経研究"

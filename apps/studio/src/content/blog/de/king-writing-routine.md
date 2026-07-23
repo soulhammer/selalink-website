@@ -5,7 +5,7 @@ pubDate: "2026-05-18"
 updatedDate: "2026-05-18"
 category: "BuildSelf"
 tags: ["Wie man di","Routine"]
-heroImage: "/images/blog/king_writing_routine.webp"
+heroImage: "/images/blog/king_writing_routine.png"
 app: "buildself"
 formatVersion: 4
 authority: "Stephen Kings Memoiren „Das Leben und das Schreiben“ & neurowissenschaftliche Forschung zu sensorischem Lernen"

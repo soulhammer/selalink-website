@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["最も困難な課題から朝","Routine"]
-heroImage: "/images/blog/carnegie_priority_first.webp"
+heroImage: "/images/blog/carnegie_priority_first.png"
 app: "buildself"
 formatVersion: 4
 authority: "カーネギー自伝「Autobiography of Andrew Carnegie」および自己消耗（Ego Depletion）理論心理学研究"

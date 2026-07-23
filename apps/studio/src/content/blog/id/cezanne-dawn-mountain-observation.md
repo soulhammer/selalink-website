@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["Merasakan ","Routine"]
-heroImage: "/images/blog/cezanne_dawn_mountain_observation.webp"
+heroImage: "/images/blog/cezanne_dawn_mountain_observation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Cezanne: A Memoir karya Joachim Gasquet dan Studi Fisiologi Lingkungan tentang Paparan Cahaya Biru Pagi, Aktivasi Nukleus Suprachiasmatic, dan Penyetelan Perhatian Visual"

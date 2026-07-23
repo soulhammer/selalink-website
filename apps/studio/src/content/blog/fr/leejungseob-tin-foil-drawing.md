@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Le flux cr","Routine"]
-heroImage: "/images/blog/leejungseob_tin_foil_drawing.webp"
+heroImage: "/images/blog/leejungseob_tin_foil_drawing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Dessins sur aluminium de Lee Jung-seob au MoMA & recherche sur la relaxation émotionnelle par la stimulation sensorielle"

@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["心灵之眼构筑的迷宫？","Routine"]
-heroImage: "/images/blog/borges_mental_dictation.webp"
+heroImage: "/images/blog/borges_mental_dictation.png"
 app: "buildself"
 formatVersion: 4
 authority: "博尔赫斯传记《Borges: A Life》与交叉可塑性脑医学研究成果"

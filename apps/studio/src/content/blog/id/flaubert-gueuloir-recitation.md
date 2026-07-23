@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["Suara Kali","Routine"]
-heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
+heroImage: "/images/blog/flaubert_gueuloir_recitation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Korespondensi Terkumpul Flaubert dan Studi Psikolinguistik tentang Teori Pengkodean Ganda dan Deteksi Kesalahan Loop Umpan Balik Pendengaran"

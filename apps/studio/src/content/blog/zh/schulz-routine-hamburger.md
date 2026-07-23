@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["消除决策疲劳：查尔斯","Routine"]
-heroImage: "/images/blog/schulz_routine_hamburger.webp"
+heroImage: "/images/blog/schulz_routine_hamburger.png"
 app: "buildself"
 formatVersion: 4
 authority: "查尔斯·舒尔茨官方传记《舒尔茨与花生》及基于自我损耗理论的决策疲劳预防研究"

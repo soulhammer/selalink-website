@@ -5,7 +5,7 @@ pubDate: "2026-01-03"
 updatedDate: "2026-01-03"
 category: "BuildSelf"
 tags: ["原稿を巻物のように繋","Routine"]
-heroImage: "/images/blog/poe_scroll_writing.webp"
+heroImage: "/images/blog/poe_scroll_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "ジェフリー・マイヤーズ「エドガー・アラン・ポー評伝」および学術研究「Applied Cognitive Psychology」"

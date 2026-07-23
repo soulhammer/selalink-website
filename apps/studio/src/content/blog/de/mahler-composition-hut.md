@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["Die Kraft ","Routine"]
-heroImage: "/images/blog/mahler_composition_hut.webp"
+heroImage: "/images/blog/mahler_composition_hut.png"
 app: "buildself"
 formatVersion: 4
 authority: "Alma Mahlers Memoiren ‚Gustav Mahler: Erinnerungen und Briefe‘ und Forschung zu Lärmkontrolle und Isolation zur kognitiven Kontrolle"

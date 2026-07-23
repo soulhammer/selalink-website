@@ -5,7 +5,7 @@ pubDate: "2026-04-23"
 updatedDate: "2026-04-23"
 category: "BuildSelf"
 tags: ["Herboriser","Routine"]
-heroImage: "/images/blog/rousseau_botany_walk.webp"
+heroImage: "/images/blog/rousseau_botany_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Les Rêveries du promeneur solitaire de Rousseau et recherches sur l'attention exploratrice"

@@ -4,7 +4,7 @@ title: "Cuidado do Pelo Encaracolado do Bichon Frisé: Rotina de 3 passos para d
 description: "Famoso por sua aparência de pompom de algodão, o Bichon Frisé é amigável. Descubra uma rotina para cuidar de sua pelagem encaracolada e lidar com o Bichon Blitz."
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
-heroImage: "/images/blog/bichon_care.webp"
+heroImage: "/images/blog/bichon_care.png"
 authority: "Padrões do Bichon Frise Club of America e diretrizes de saúde da AVMA"
 app: "petself"
 formatVersion: 4

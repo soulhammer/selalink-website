@@ -4,7 +4,7 @@ description: "Pemenang Nobel Ernest Hemingway melacak jumlah kata hariannya pada
 pubDate: "2026-02-05"
 category: "BuildSelf"
 tags: ["Menulis Se","Routine"]
-heroImage: "/images/blog/hemingway_word_count.webp"
+heroImage: "/images/blog/hemingway_word_count.png"
 app: "buildself"
 formatVersion: 4
 authority: "Wawancara Ernest Hemingway di The Paris Review (1958) & Jurnal Analisis Perilaku Terapan"

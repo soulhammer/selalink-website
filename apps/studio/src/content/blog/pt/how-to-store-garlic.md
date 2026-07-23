@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración de armazenamen
 pubDate: "2026-02-02"
 category: "FreshSnap"
 tags: ["Alho","Guia de armazenamento comprovado cientificamente","vegetable"]
-heroImage: "/images/blog/garlic_storage_hack.webp"
+heroImage: "/images/blog/garlic_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"

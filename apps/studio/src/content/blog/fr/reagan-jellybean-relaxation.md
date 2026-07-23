@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Le bonbon ","Routine"]
-heroImage: "/images/blog/reagan_jellybean_relaxation.webp"
+heroImage: "/images/blog/reagan_jellybean_relaxation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie de Reagan & recherches sur la mastication et le stress"

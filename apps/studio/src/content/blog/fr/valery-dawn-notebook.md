@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Cahiers à ","Routine"]
-heroImage: "/images/blog/valery_dawn_notebook.webp"
+heroImage: "/images/blog/valery_dawn_notebook.png"
 app: "buildself"
 formatVersion: 4
 authority: "Récit des carnets autographes 'Cahiers' de Paul Valéry et recherche sur le cortisol à l'aube et l'activation du cortex préfrontal"

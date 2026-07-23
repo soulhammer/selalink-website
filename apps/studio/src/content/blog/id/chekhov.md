@@ -5,7 +5,7 @@ pubDate: "2026-01-12"
 updatedDate: "2026-01-12"
 category: "BuildSelf"
 tags: ["Rutinitas ","Routine"]
-heroImage: "/images/blog/chekhov.webp"
+heroImage: "/images/blog/chekhov.png"
 app: "buildself"
 formatVersion: 4
 authority: "Donald Rayfield, *Anton Chekhov: A Life* (1997) & Studi Ilmu Saraf Kognitif"

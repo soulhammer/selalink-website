@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Preservaci","Routine"]
-heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.webp"
+heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autenticación del tratado de salud de Yi Hwang 'Hwalinsimbang' e investigación del Journal of Clinical Medicine sobre la estimulación de baja intensidad y la activación parasimpática"

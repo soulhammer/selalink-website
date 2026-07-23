@@ -5,7 +5,7 @@ pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "BuildSelf"
 tags: ["O segredo ","Routine"]
-heroImage: "/images/blog/winfrey_gratitude_journaling.webp"
+heroImage: "/images/blog/winfrey_gratitude_journaling.png"
 app: "buildself"
 formatVersion: 4
 authority: "Ensaios de Oprah Winfrey 'What I Know for Sure' & revista Journal of Personality and Social Psychology"

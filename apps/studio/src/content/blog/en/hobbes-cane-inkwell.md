@@ -5,7 +5,7 @@ pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
 tags: ["Great Habits","hobbes","Routine","Stamina"]
-heroImage: "/images/blog/hobbes_cane_inkwell.webp"
+heroImage: "/images/blog/hobbes_cane_inkwell.png"
 app: "buildself"
 formatVersion: 4
 authority: "John Aubrey's 'Brief Lives' Biographical Records & 'Supersizing the Mind' Cognitive Theory"

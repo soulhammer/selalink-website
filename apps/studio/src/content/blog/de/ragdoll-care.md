@@ -4,7 +4,7 @@ title: "Eine Katze, die sich wie eine Puppe umarmen lässt? Ragdolls sicheres Ha
 description: "Ragdolls, die riesigen Katzen, die sich beim Halten wie Puppen entspannen. Erfahren Sie Tipps zum Schutz ihrer Gelenke und eine 3-Schritte-Routine für sicheres Halten."
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
-heroImage: "/images/blog/ragdoll_care.webp"
+heroImage: "/images/blog/ragdoll_care.png"
 authority: "Rasseführer der Cat Fanciers' Association (CFA) und AAFP-Richtlinien für katzenfreundliche Praxen"
 app: "petself"
 formatVersion: 4

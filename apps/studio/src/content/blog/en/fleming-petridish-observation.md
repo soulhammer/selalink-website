@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Great Habits","fleming","Routine","Stamina"]
-heroImage: "/images/blog/fleming_petridish_observation.webp"
+heroImage: "/images/blog/fleming_petridish_observation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Fleming's 1945 Nobel Lecture & Frontiers in Psychology"

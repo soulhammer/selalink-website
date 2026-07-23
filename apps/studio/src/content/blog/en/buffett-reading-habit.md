@@ -5,7 +5,7 @@ pubDate: "2026-06-10"
 updatedDate: "2026-06-10"
 category: "BuildSelf"
 tags: ["Great Habits","buffett","Routine","Stamina"]
-heroImage: "/images/blog/buffett_reading_habit.webp"
+heroImage: "/images/blog/buffett_reading_habit.png"
 app: "buildself"
 formatVersion: 4
 authority: "Emory University Reading Neurology Study & Berkshire Hathaway Shareholder Letters"

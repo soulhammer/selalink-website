@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["L'âme derr","Routine"]
-heroImage: "/images/blog/monroe_night_reading.webp"
+heroImage: "/images/blog/monroe_night_reading.png"
 app: "buildself"
 formatVersion: 4
 authority: "Récit des poèmes et écrits intimes de Marilyn Monroe 'Fragments' et études de l'Université de Sussex sur la bibliothérapie"

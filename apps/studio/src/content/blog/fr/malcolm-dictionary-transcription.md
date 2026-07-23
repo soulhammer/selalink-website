@@ -5,7 +5,7 @@ pubDate: "2026-07-03"
 updatedDate: "2026-07-03"
 category: "BuildSelf"
 tags: ["Copier tou","Routine"]
-heroImage: "/images/blog/malcolm_dictionary_transcription.webp"
+heroImage: "/images/blog/malcolm_dictionary_transcription.png"
 app: "buildself"
 formatVersion: 4
 authority: "L'autobiographie de Malcolm X & revue Frontiers in Psychology"

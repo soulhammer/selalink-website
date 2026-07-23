@@ -5,7 +5,7 @@ pubDate: "2026-04-27"
 updatedDate: "2026-04-27"
 category: "BuildSelf"
 tags: ["用脚步丈量哲学：弗里","Routine"]
-heroImage: "/images/blog/nietzsche_walking_writing.webp"
+heroImage: "/images/blog/nietzsche_walking_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "弗里德里希·尼采书信集及关于步行如何促进创造性思维的认知心理学研究"

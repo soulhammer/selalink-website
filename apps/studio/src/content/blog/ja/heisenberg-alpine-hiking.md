@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["自然がくれた不確定性","Routine"]
-heroImage: "/images/blog/heisenberg_alpine_hiking.webp"
+heroImage: "/images/blog/heisenberg_alpine_hiking.png"
 app: "buildself"
 formatVersion: 4
 authority: "ハイゼンベルク自伝『部分と全体』歴史的書簡の考証およびスティーブン・カプランの注意回復理論（Attention Restoration Theory）認知科学研究"

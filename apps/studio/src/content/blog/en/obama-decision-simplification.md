@@ -5,7 +5,7 @@ pubDate: "2026-01-06"
 updatedDate: "2026-01-06"
 category: "BuildSelf"
 tags: ["Great Habits","obama","Routine","Stamina"]
-heroImage: "/images/blog/obama_decision_simplification.webp"
+heroImage: "/images/blog/obama_decision_simplification.png"
 app: "buildself"
 formatVersion: 4
 authority: "Professor Roy F. Baumeister's Decision Fatigue Theory & Vanity Fair Interview with President Obama"

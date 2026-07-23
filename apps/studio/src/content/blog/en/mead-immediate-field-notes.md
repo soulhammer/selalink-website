@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Great Habits","mead","Routine","Stamina"]
-heroImage: "/images/blog/mead_immediate_field_notes.webp"
+heroImage: "/images/blog/mead_immediate_field_notes.png"
 app: "buildself"
 formatVersion: 4
 authority: "Jane Howard's 'Margaret Mead: A Life' and Neurocognitive Research on Working Memory Limitations and Cognitive Offloading (Storm & Stone, 2015)"

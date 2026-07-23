@@ -5,7 +5,7 @@ pubDate: "2026-01-13"
 updatedDate: "2026-01-13"
 category: "BuildSelf"
 tags: ["ネルソン・マンデラの","Routine"]
-heroImage: "/images/blog/nelson_mandela_sunrise_workout.webp"
+heroImage: "/images/blog/nelson_mandela_sunrise_workout.png"
 app: "buildself"
 formatVersion: 4
 authority: "ネルソン・マンデラ自伝「自由への長い道（Long Walk to Freedom）」"

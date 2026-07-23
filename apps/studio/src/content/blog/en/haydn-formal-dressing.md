@@ -5,7 +5,7 @@ pubDate: "2026-04-04"
 updatedDate: "2026-04-04"
 category: "BuildSelf"
 tags: ["Great Habits","haydn","Routine","Stamina"]
-heroImage: "/images/blog/haydn_formal_dressing.webp"
+heroImage: "/images/blog/haydn_formal_dressing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Griesinger's Biographical Notes & Experimental Psychology on Enclothed Cognition"

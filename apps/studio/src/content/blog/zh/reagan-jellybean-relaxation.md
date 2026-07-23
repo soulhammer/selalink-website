@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["白宫的秘密糖果？罗纳","Routine"]
-heroImage: "/images/blog/reagan_jellybean_relaxation.webp"
+heroImage: "/images/blog/reagan_jellybean_relaxation.png"
 app: "buildself"
 formatVersion: 4
 authority: "里根传记《President Reagan: The Role of a Lifetime》与咀嚼运动压力研究成果"

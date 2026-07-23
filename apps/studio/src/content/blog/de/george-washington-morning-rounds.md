@@ -5,7 +5,7 @@ pubDate: "2026-07-04"
 updatedDate: "2026-07-04"
 category: "BuildSelf"
 tags: ["George Was","Routine"]
-heroImage: "/images/blog/george_washington_morning_rounds.webp"
+heroImage: "/images/blog/george_washington_morning_rounds.png"
 app: "buildself"
 formatVersion: 4
 authority: "Originalquellen aus George Washingtons Tagebüchern"

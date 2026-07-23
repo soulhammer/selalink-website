@@ -4,7 +4,7 @@ title: "Cuidados com o sebo da pele e controle de calor na gata Sphynx"
 description: "Limpe excesso de sebo nas gatas Sphynx e proteja-as do frio."
 pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
-heroImage: "/images/blog/sphynx_care.webp"
+heroImage: "/images/blog/sphynx_care.png"
 authority: "Diretrizes da Sociedade Internacional de Medicina Felina (ISFM)"
 app: "petself"
 formatVersion: 4

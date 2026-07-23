@@ -5,7 +5,7 @@ pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "BuildSelf"
 tags: ["Great Habits","dickinson","Routine","Stamina"]
-heroImage: "/images/blog/dickinson_scrap_writing.webp"
+heroImage: "/images/blog/dickinson_scrap_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Harvard University Library Emily Dickinson Collection & Envelope Poems Catalog 'The Gorgeous Nothings'"

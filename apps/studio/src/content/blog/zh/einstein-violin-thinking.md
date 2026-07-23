@@ -5,7 +5,7 @@ pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "BuildSelf"
 tags: ["在思考死胡同里拉小提","Routine"]
-heroImage: "/images/blog/einstein_violin_thinking.webp"
+heroImage: "/images/blog/einstein_violin_thinking.png"
 app: "buildself"
 formatVersion: 4
 authority: "传记《Einstein: A Life》与学术期刊《Frontiers in Psychology》"

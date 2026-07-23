@@ -5,7 +5,7 @@ description: "根据官方食品安全指南，了解柠檬的最佳储存温度
 pubDate: "2026-02-13"
 category: "FreshSnap"
 tags: ["柠檬","科学验证的储存指南","fruit"]
-heroImage: "/images/blog/lemon_storage_hack.webp"
+heroImage: "/images/blog/lemon_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>美国农务部(USDA) & FSA</strong>"

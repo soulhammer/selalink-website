@@ -5,7 +5,7 @@ pubDate: "2026-01-10"
 updatedDate: "2026-01-10"
 category: "BuildSelf"
 tags: ["「考える人」の巨匠？","Routine"]
-heroImage: "/images/blog/rodin_sculpting_walk.webp"
+heroImage: "/images/blog/rodin_sculpting_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "評伝「Auguste Rodin: Art and Life」およびロダン美術館（Musée Rodin）所蔵史料"

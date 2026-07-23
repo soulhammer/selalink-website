@@ -5,7 +5,7 @@ pubDate: "2026-07-07"
 updatedDate: "2026-07-07"
 category: "BuildSelf"
 tags: ["Marcher da","Routine"]
-heroImage: "/images/blog/shelley_cemetery_walk.webp"
+heroImage: "/images/blog/shelley_cemetery_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Journaux de Mary Shelley et psychologie environnementale sur l'émerveillement"

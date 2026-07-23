@@ -5,7 +5,7 @@ description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit f√
 pubDate: "2026-03-05"
 category: "FreshSnap"
 tags: ["Banane","Wissenschaftlich gepr√ºfter Lagerungsratgeber","fruit"]
-heroImage: "/images/blog/banana_storage_hack.webp"
+heroImage: "/images/blog/banana_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & WHO</strong>"

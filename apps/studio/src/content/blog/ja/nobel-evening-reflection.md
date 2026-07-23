@@ -5,7 +5,7 @@ pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "BuildSelf"
 tags: ["355の発明を生んだ","Routine"]
-heroImage: "/images/blog/nobel_evening_reflection.webp"
+heroImage: "/images/blog/nobel_evening_reflection.png"
 app: "buildself"
 formatVersion: 4
 authority: "評伝「The Legacy of Alfred Nobel」およびノーベル財団史料"

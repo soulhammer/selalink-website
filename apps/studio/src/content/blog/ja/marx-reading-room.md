@@ -5,7 +5,7 @@ pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "BuildSelf"
 tags: ["大英博物館のドームの","Routine"]
-heroImage: "/images/blog/marx_reading_room.webp"
+heroImage: "/images/blog/marx_reading_room.png"
 app: "buildself"
 formatVersion: 4
 authority: "大英図書館マルクス閲覧アーカイブ、フランシス・ウィーン著のマルクス評伝「Karl Marx: A Life」および学術誌「Cognitive Psychology」"

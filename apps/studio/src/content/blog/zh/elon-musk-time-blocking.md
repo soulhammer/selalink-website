@@ -5,7 +5,7 @@ pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "BuildSelf"
 tags: ["埃隆·马斯克的“五分","Routine"]
-heroImage: "/images/blog/elon_musk_time_blocking.webp"
+heroImage: "/images/blog/elon_musk_time_blocking.png"
 app: "buildself"
 formatVersion: 4
 authority: "阿什利·万斯的《埃隆·马斯克传》与沃尔特·艾萨克森的《埃隆·马斯克传》"

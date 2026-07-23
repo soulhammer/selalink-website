@@ -4,7 +4,7 @@ description: "L'écrivaine et activiste Maya Angelou n'écrivait que dans des ch
 pubDate: "2026-03-21"
 category: "BuildSelf"
 tags: ["Créer un e","Routine"]
-heroImage: "/images/blog/angelou_hotel_isolation.webp"
+heroImage: "/images/blog/angelou_hotel_isolation.png"
 app: "buildself"
 formatVersion: 4
 authority: "L'interview de Maya Angelou dans The Paris Review (1990) & étude de psychologie cognitive sur le contrôle des distractions"

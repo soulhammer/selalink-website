@@ -5,7 +5,7 @@ pubDate: "2026-07-09"
 updatedDate: "2026-07-09"
 category: "BuildSelf"
 tags: ["唤醒潜意识的3英里散","Routine"]
-heroImage: "/images/blog/freud_evening_walk.webp"
+heroImage: "/images/blog/freud_evening_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "弗洛伊德传记《The Life and Work of Sigmund Freud》与学术期刊《Frontiers in Psychology》"

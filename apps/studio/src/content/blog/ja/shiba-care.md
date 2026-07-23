@@ -4,7 +4,7 @@ title: "柴犬の独立性と二重毛ブラッシングのための3段階ス�
 description: "独立心が強くスキンシップに敏感な柴犬。二重毛の抜け毛を防ぐ正しいブラッシング方法と、嫌がらないスキンシップのための3段階ルーティンを紹介します。"
 pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
-heroImage: "/images/blog/shiba_care.webp"
+heroImage: "/images/blog/shiba_care.png"
 authority: "全米柴犬クラブ(NSCA)＆IAABC行動治療ガイドライン"
 app: "petself"
 formatVersion: 4

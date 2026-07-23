@@ -5,7 +5,7 @@ pubDate: "2026-01-09"
 updatedDate: "2026-01-09"
 category: "BuildSelf"
 tags: ["伊丽莎白一世的“古典","Routine"]
-heroImage: "/images/blog/elizabeth_classical_translation.webp"
+heroImage: "/images/blog/elizabeth_classical_translation.png"
 app: "buildself"
 formatVersion: 4
 authority: "伊丽莎白一世档案馆资料与罗杰·阿斯卡姆的家庭教师记录"

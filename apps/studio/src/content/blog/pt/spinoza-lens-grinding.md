@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["O poliment","Routine"]
-heroImage: "/images/blog/spinoza_lens_grinding.webp"
+heroImage: "/images/blog/spinoza_lens_grinding.png"
 app: "buildself"
 formatVersion: 4
 authority: "Colerus, A Vida de Espinoza / Coordenação olho-mão e pesquisa sobre regulação da Rede Neuronal por Defeito (RND)"

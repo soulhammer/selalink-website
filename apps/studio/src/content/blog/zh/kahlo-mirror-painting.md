@@ -5,7 +5,7 @@ pubDate: "2026-06-07"
 updatedDate: "2026-06-07"
 category: "BuildSelf"
 tags: ["将自己画在床顶的镜子","Routine"]
-heroImage: "/images/blog/kahlo_mirror_painting.webp"
+heroImage: "/images/blog/kahlo_mirror_painting.png"
 app: "buildself"
 formatVersion: 4
 authority: "《弗里达·卡罗传记》与学术期刊《Psychotherapy》"

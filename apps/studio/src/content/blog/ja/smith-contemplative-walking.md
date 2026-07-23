@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["パジャマ姿で15マイ","Routine"]
-heroImage: "/images/blog/smith_contemplative_walking.webp"
+heroImage: "/images/blog/smith_contemplative_walking.png"
 app: "buildself"
 formatVersion: 4
 authority: "ジョン・レイ著『アダム・スミスの生涯（The Life of Adam Smith）』歴史的考証およびスタンフォード大学のオッペッツォ＆シュワルツ（2014）による歩行と創造的認知機能の相関研究"

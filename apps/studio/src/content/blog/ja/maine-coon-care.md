@@ -4,7 +4,7 @@ title: "紳士的な巨大猫メインクーン、心臓の健康と豊かな二
 description: "ライオンのような外見を持つ紳士的な巨大猫メインクーン。体重過負荷による関節保護マットの設定と、遺伝性肥大性心筋症(HCM)を観察する3段階ルーティンを紹介します。"
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
-heroImage: "/images/blog/maine_coon_care.webp"
+heroImage: "/images/blog/maine_coon_care.png"
 authority: "メインクーンブリーダーズ＆ファンシャーズアソシエーション(MCBFA)＆AAFP大型猫管理プロトコル"
 app: "petself"
 formatVersion: 4

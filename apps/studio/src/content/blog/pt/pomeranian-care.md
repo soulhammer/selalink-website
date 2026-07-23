@@ -4,7 +4,7 @@ title: "Proteção de articulações e vias respiratórias do Spitz Alemão: rot
 description: "Os Spitz Alemães são propensos à luxação patelar e ao colapso traqueal. Descubra dicas para evitar lesões articulares e aliviar problemas respiratórios."
 pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
-heroImage: "/images/blog/pomeranian_care.webp"
+heroImage: "/images/blog/pomeranian_care.png"
 authority: "Guia oficial de raças do American Pomeranian Club e manual veterinário da AVMA"
 app: "petself"
 formatVersion: 4

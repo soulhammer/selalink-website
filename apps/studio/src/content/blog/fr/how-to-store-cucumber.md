@@ -5,7 +5,7 @@ description: "Découvrez la température, les méthodes et la durée optimales d
 pubDate: "2026-01-22"
 category: "FreshSnap"
 tags: ["Concombre","Guide de conservation scientifiquement prouvé","vegetable"]
-heroImage: "/images/blog/cucumber_storage_hack.webp"
+heroImage: "/images/blog/cucumber_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"

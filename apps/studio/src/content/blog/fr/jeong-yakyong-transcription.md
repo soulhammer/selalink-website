@@ -5,7 +5,7 @@ pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
 tags: ["L'élan cré","Routine"]
-heroImage: "/images/blog/jeong_yakyong_transcription.webp"
+heroImage: "/images/blog/jeong_yakyong_transcription.png"
 app: "buildself"
 formatVersion: 4
 authority: "Documents 'Yeoyudang Jeonseo' de l'Institut d'études coréennes & recherches académiques de l'Institut Dasan"

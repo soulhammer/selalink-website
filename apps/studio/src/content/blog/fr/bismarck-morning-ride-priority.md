@@ -5,7 +5,7 @@ pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
 tags: ["Le secret ","Routine"]
-heroImage: "/images/blog/bismarck_morning_ride_priority.webp"
+heroImage: "/images/blog/bismarck_morning_ride_priority.png"
 app: "buildself"
 formatVersion: 4
 authority: "Mémoires de Bismarck 'Gedanken und Erinnerungen' & Biographies Historiques"

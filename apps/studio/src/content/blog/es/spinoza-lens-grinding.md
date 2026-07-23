@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["El tallado","Routine"]
-heroImage: "/images/blog/spinoza_lens_grinding.webp"
+heroImage: "/images/blog/spinoza_lens_grinding.png"
 app: "buildself"
 formatVersion: 4
 authority: "Colerus, La vida de Spinoza / Coordinación mano-ojo e investigación sobre la regulación de la Red Neuronal por Defecto (RND)"

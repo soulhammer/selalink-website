@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["脳は寝ている間に問題","Routine"]
-heroImage: "/images/blog/didion_manuscript_sleeping.webp"
+heroImage: "/images/blog/didion_manuscript_sleeping.png"
 app: "buildself"
 formatVersion: 4
 authority: "パリ・レビュー「ジョーン・ディディオンインタビュー」と認知科学の動向"

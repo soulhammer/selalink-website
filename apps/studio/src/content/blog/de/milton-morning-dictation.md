@@ -5,7 +5,7 @@ pubDate: "2026-04-09"
 updatedDate: "2026-04-09"
 category: "BuildSelf"
 tags: ["Der blinde","Routine"]
-heroImage: "/images/blog/milton_morning_dictation.webp"
+heroImage: "/images/blog/milton_morning_dictation.png"
 app: "buildself"
 formatVersion: 4
 authority: "John Aubreys Biografie & kognitive Studien zur visuellen Deprivation"

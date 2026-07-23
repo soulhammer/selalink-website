@@ -5,7 +5,7 @@ pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
 tags: ["¿El genio ","Routine"]
-heroImage: "/images/blog/bell_midnight_darkness.webp"
+heroImage: "/images/blog/bell_midnight_darkness.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía de Alexander Graham Bell 'Reluctant Genius' y revista Frontiers in Human Neuroscience"

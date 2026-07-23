@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["La pista d","Routine"]
-heroImage: "/images/blog/heisenberg_alpine_hiking.webp"
+heroImage: "/images/blog/heisenberg_alpine_hiking.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autenticación de la autobiografía de Heisenberg 'Diálogos sobre la física atómica' e investigaciones de Stephen Kaplan sobre la teoría de la restauración de la atención"

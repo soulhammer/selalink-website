@@ -5,7 +5,7 @@ pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
 tags: ["ガリレオの揺らぎスケ","Routine"]
-heroImage: "/images/blog/galileo_vibration_sketch.webp"
+heroImage: "/images/blog/galileo_vibration_sketch.png"
 app: "buildself"
 formatVersion: 4
 authority: "スティルマン・ドレイク『ガリレオの作業』 / 時空間情報処理（Visuospatial Processing）とスケッチが物理的推論に及ぼす認知科学研究"

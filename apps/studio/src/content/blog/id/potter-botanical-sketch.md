@@ -5,7 +5,7 @@ pubDate: "2026-05-15"
 updatedDate: "2026-05-15"
 category: "BuildSelf"
 tags: ["Penulis 'P","Routine"]
-heroImage: "/images/blog/potter_botanical_sketch.webp"
+heroImage: "/images/blog/potter_botanical_sketch.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Linda Lear 'Beatrix Potter: A Life in Nature' & Arsip Museum V&A"

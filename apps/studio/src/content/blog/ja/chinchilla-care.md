@@ -4,7 +4,7 @@ title: "チンチラの不正咬合＆温度ケア：歯の摩耗と熱中症予
 description: "チンチラは一生伸び続ける歯による不正咬合のリスクが高く、高温多湿に極めて弱いです。イガリ用の牧草給与と砂浴びを含む3段階ケアを紹介します。"
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
-heroImage: "/images/blog/chinchilla_care.webp"
+heroImage: "/images/blog/chinchilla_care.png"
 authority: "AEMVチンチラ飼育ガイドライン＆小動物歯科臨床基準"
 app: "petself"
 formatVersion: 4

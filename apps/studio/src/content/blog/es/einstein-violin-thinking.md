@@ -5,7 +5,7 @@ pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "BuildSelf"
 tags: ["¿El genio ","Routine"]
-heroImage: "/images/blog/einstein_violin_thinking.webp"
+heroImage: "/images/blog/einstein_violin_thinking.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía de Albert Einstein 'Einstein: A Life' y revista Frontiers in Psychology"

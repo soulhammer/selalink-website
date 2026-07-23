@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["服装の心理学：ルネ・","Routine"]
-heroImage: "/images/blog/magritte_suit_painting.webp"
+heroImage: "/images/blog/magritte_suit_painting.png"
 app: "buildself"
 formatVersion: 4
 authority: "ルネ・マグリット伝記『ルネ・マグリット：目に見えないものの美学』および衣類が身体自覚と注意力遂行度に及ぼす影響である着衣認知（Enclothed Cognition）の研究"

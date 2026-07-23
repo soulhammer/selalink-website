@@ -4,7 +4,7 @@ title: "Panduan Sosialisasi dan Rutinitas Perawatan Bulu Ganda Anjing Jindo yang
 description: "Cara melatih sosialisasi Jindo yang waspada terhadap orang asing dan 3 rutinitas merawat bulu ganda."
 pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
-heroImage: "/images/blog/jindo_care.webp"
+heroImage: "/images/blog/jindo_care.png"
 authority: "Lembaga Ilmu Peternakan Nasional Korea & Protokol Pakar Perilaku KKC"
 app: "petself"
 formatVersion: 4

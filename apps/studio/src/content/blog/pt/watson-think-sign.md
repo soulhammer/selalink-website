@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Uma palavr","Routine"]
-heroImage: "/images/blog/watson_think_sign.webp"
+heroImage: "/images/blog/watson_think_sign.png"
 app: "buildself"
 formatVersion: 4
 authority: "Documentos históricos do Museu Corporativo da IBM e pesquisa neurológica da University College London (UCL) sobre os mecanismos de reflexão"

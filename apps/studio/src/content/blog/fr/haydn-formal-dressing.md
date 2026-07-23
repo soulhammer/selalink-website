@@ -5,7 +5,7 @@ pubDate: "2026-04-04"
 updatedDate: "2026-04-04"
 category: "BuildSelf"
 tags: ["S'habiller","Routine"]
-heroImage: "/images/blog/haydn_formal_dressing.webp"
+heroImage: "/images/blog/haydn_formal_dressing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Notes biographiques de Griesinger et psychologie expérimentale sur la cognition habillée"

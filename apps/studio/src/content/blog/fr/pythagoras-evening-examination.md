@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["La nuit qu","Routine"]
-heroImage: "/images/blog/pythagoras_evening_examination.webp"
+heroImage: "/images/blog/pythagoras_evening_examination.png"
 app: "buildself"
 formatVersion: 4
 authority: "Le code pythagoricien 'Vers dorés' et recherches de la Harvard Medical School sur la consolidation de la mémoire pendant le sommeil"

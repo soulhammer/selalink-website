@@ -5,7 +5,7 @@ pubDate: "2026-06-14"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Menyelesai","Routine"]
-heroImage: "/images/blog/darwin_sandwalk.webp"
+heroImage: "/images/blog/darwin_sandwalk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Otobiografi Charles Darwin & Penelitian Universitas Stanford tentang Berjalan dan Kreativitas"

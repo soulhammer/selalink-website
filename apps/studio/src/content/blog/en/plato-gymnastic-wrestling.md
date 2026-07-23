@@ -5,7 +5,7 @@ pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "BuildSelf"
 tags: ["Great Habits","plato","Routine","Stamina"]
-heroImage: "/images/blog/plato_gymnastic_wrestling.webp"
+heroImage: "/images/blog/plato_gymnastic_wrestling.png"
 app: "buildself"
 formatVersion: 4
 authority: "Plato's Dialogue 'Republic' & Journal of Applied Physiology"

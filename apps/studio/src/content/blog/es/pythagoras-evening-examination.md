@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["La noche q","Routine"]
-heroImage: "/images/blog/pythagoras_evening_examination.webp"
+heroImage: "/images/blog/pythagoras_evening_examination.png"
 app: "buildself"
 formatVersion: 4
 authority: "El código pitagórico 'Versos dorados' e investigación de la Facultad de Medicina de Harvard sobre la consolidación de la memoria en estado de sueño"

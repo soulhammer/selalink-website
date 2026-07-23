@@ -5,7 +5,7 @@ pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
 tags: ["Great Habits","proust","Routine","Stamina"]
-heroImage: "/images/blog/proust_cork_isolation.webp"
+heroImage: "/images/blog/proust_cork_isolation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Musée Carnavalet Proust Bedroom Restoration Exhibition & Journal of Cognitive Neuroscience"

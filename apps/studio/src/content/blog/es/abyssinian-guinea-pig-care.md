@@ -4,7 +4,7 @@ title: "Guía de vitamina C de la cobaya abisinia y rutina de 3 pasos para la sa
 description: "Cuidado de la cobaya abisinia de pelo con rosetas. Aprenda a cubrir sus necesidades de vitamina C y a mantener su jaula para proteger su respiración."
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
-heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
+heroImage: "/images/blog/abyssinian_guinea_pig_care.png"
 authority: "Directrices de Cuidado de Roedores de la RSPCA y Estándares de Veterinarios de Animales Exóticos"
 app: "petself"
 formatVersion: 4

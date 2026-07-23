@@ -5,7 +5,7 @@ pubDate: "2026-05-01"
 updatedDate: "2026-05-01"
 category: "BuildSelf"
 tags: ["Si Jenius ","Routine"]
-heroImage: "/images/blog/mozart_billiard_ideation.webp"
+heroImage: "/images/blog/mozart_billiard_ideation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Kumpulan Surat Constanze Mozart & Penelitian Universitas California, Santa Barbara (UCSB) tentang DMN (2012)"

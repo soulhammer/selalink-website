@@ -4,7 +4,7 @@ title: "스핑크스 피부 피지 케어 및 체온 보존"
 description: "털 없는 스핑크스 고양이를 위한 피부 유분 케어와 체온 조절 3단계 루틴"
 pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
-heroImage: "/images/blog/sphynx_care.webp"
+heroImage: "/images/blog/sphynx_care.png"
 authority: "고양이의학협회(ISFM) 스핑크스 가이드 및 피모 관리 수의 지침"
 app: "petself"
 formatVersion: 4

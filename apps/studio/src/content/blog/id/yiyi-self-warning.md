@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Membangun ","Routine"]
-heroImage: "/images/blog/yiyi_self_warning.webp"
+heroImage: "/images/blog/yiyi_self_warning.png"
 app: "buildself"
 formatVersion: 4
 authority: "Tulisan sejarah Yi I 'Jakyungmun' & Penelitian Sains Kognitif tentang Efek Referensi Diri"

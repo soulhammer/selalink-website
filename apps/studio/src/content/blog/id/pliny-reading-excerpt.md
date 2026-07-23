@@ -5,7 +5,7 @@ pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
 tags: ["Metode Cat","Routine"]
-heroImage: "/images/blog/pliny_reading_excerpt.webp"
+heroImage: "/images/blog/pliny_reading_excerpt.png"
 app: "buildself"
 formatVersion: 4
 authority: "Pliny the Younger, Letters (Epistulae III.5) / Penelitian psikologi kognitif tentang stimulasi Reticular Activating System (RAS) lewat menulis tangan"

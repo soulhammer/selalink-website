@@ -4,7 +4,7 @@ title: "Lenguaje de la Cola del Gecko Leopardo y Rutina de 3 Pasos para una Muda
 description: "Guía completa de cuidado para el Gecko Leopardo. Interpreta el movimiento defensivo de su cola, gestiona cuevas húmedas y ajusta las zonas térmicas ARAV."
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
-heroImage: "/images/blog/leopard_gecko_care.webp"
+heroImage: "/images/blog/leopard_gecko_care.png"
 authority: "Asociación de Veterinarios de Reptiles y Anfibios (ARAV) Guías de Cuidado"
 app: "petself"
 formatVersion: 4

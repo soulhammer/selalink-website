@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["逆立ちのインスピレー","Routine"]
-heroImage: "/images/blog/stravinsky_headstand_composition.webp"
+heroImage: "/images/blog/stravinsky_headstand_composition.png"
 app: "buildself"
 formatVersion: 4
 authority: "ストラヴィンスキー自叙伝『An Autobiography』考証およびハーバード・メディカル・スクールの前庭感覚と脳血流研究"

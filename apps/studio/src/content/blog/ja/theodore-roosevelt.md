@@ -5,7 +5,7 @@ pubDate: "2026-07-06"
 updatedDate: "2026-07-06"
 category: "BuildSelf"
 tags: ["鉄筋トレーニングによ","Routine"]
-heroImage: "/images/blog/theodore_roosevelt.webp"
+heroImage: "/images/blog/theodore_roosevelt.png"
 app: "buildself"
 formatVersion: 4
 authority: "エドモンド・モリス、*セオドア・ルーズベルトの台頭* (1979) & 認知神経科学研究"

@@ -4,7 +4,7 @@ title: "Jeux de stimulation mentale et soin des articulations du Border Collie"
 description: "Jeux cognitifs et soin des articulations pour le Border Collie."
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
-heroImage: "/images/blog/border_collie_care.webp"
+heroImage: "/images/blog/border_collie_care.png"
 authority: "Guide du Border Collie du Kennel Club (KC) et études cognitives"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Great Habits","stendhal","Routine","Stamina"]
-heroImage: "/images/blog/stendhal_civil_code_reading.webp"
+heroImage: "/images/blog/stendhal_civil_code_reading.png"
 app: "buildself"
 formatVersion: 4
 authority: "Stendhal's Letter to Balzac and Cognitive Psychology Research on Priming Effects and structural Textual Stimulation on Objective Rationality"

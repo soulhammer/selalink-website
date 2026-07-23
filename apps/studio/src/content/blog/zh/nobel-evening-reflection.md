@@ -5,7 +5,7 @@ pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "BuildSelf"
 tags: ["拥有355项专利的发","Routine"]
-heroImage: "/images/blog/nobel_evening_reflection.webp"
+heroImage: "/images/blog/nobel_evening_reflection.png"
 app: "buildself"
 formatVersion: 4
 authority: "传记《The Legacy of Alfred Nobel》与诺贝尔基金会史料"

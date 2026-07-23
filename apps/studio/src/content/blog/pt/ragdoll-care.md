@@ -4,7 +4,7 @@ title: "Um gato que se abraça como um boneco? Rotina de 3 passos de colo seguro
 description: "Ragdolls, os gatos gigantes que relaxam como bonecos ao colo. Descubra dicas para proteger suas articulações e uma rotina de 3 passos de colo seguro."
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
-heroImage: "/images/blog/ragdoll_care.webp"
+heroImage: "/images/blog/ragdoll_care.png"
 authority: "Guia de raças da Cat Fanciers' Association (CFA) e diretrizes de prática amigável com gatos da AAFP"
 app: "petself"
 formatVersion: 4

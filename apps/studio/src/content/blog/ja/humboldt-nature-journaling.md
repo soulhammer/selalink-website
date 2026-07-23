@@ -5,7 +5,7 @@ pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
 tags: ["地球全体を一つの有機","Routine"]
-heroImage: "/images/blog/humboldt_nature_journaling.webp"
+heroImage: "/images/blog/humboldt_nature_journaling.png"
 app: "buildself"
 formatVersion: 4
 authority: "アンドレア・ウルフ評伝「The Invention of Nature」およびフンボルト著「コスモス」"

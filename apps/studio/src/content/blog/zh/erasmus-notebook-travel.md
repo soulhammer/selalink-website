@@ -5,7 +5,7 @@ pubDate: "2026-06-11"
 updatedDate: "2026-06-11"
 category: "BuildSelf"
 tags: ["伊拉斯谟的旅行备忘录","Routine"]
-heroImage: "/images/blog/erasmus_notebook_travel.webp"
+heroImage: "/images/blog/erasmus_notebook_travel.png"
 app: "buildself"
 formatVersion: 4
 authority: "伊拉斯谟《愚人颂》序言与信件 / 关于身体位移和动态刺激对提升认知柔韧性与阿尔法脑电波（Alpha Wave）形成的认知科学研究"

@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Teori Umum","Routine"]
-heroImage: "/images/blog/keynes_morning_bed_work.webp"
+heroImage: "/images/blog/keynes_morning_bed_work.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Robert Skidelsky 'John Maynard Keynes' dan Riset Neurosains tentang Respons Kortisol Setelah Bangun Tidur (CAR) dan Fungsi Eksekutif Prefrontal"

@@ -5,7 +5,7 @@ pubDate: "2026-03-12"
 updatedDate: "2026-03-12"
 category: "BuildSelf"
 tags: ["ヘレン・ケラーの触覚","Routine"]
-heroImage: "/images/blog/helen_keller.webp"
+heroImage: "/images/blog/helen_keller.png"
 app: "buildself"
 formatVersion: 4
 authority: "ヘレン・ケラー、*私の人生の物語* (1903) & 認知神経科学研究"

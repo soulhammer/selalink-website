@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["帝国の重みと省察：ヴ","Routine"]
-heroImage: "/images/blog/victoria_daily_journaling.webp"
+heroImage: "/images/blog/victoria_daily_journaling.png"
 app: "buildself"
 formatVersion: 4
 authority: "ヴィクトリア女王の親筆日記原稿保存資料（Royal Archives）歴史的考証およびテキサス大学ジェームズ・ペネベーカー教授の表現的執筆（Expressive Writing）認知科学研究"

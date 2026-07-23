@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Great Habits","teresa","Routine","Stamina"]
-heroImage: "/images/blog/teresa_silent_contemplation.webp"
+heroImage: "/images/blog/teresa_silent_contemplation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Mother Teresa's Private Letters 'Come Be My Light' & JAMA Psychiatry Journal"

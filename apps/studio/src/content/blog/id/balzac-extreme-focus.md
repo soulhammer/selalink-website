@@ -5,7 +5,7 @@ pubDate: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "BuildSelf"
 tags: ["Bangun Ten","Routine"]
-heroImage: "/images/blog/balzac_extreme_focus.webp"
+heroImage: "/images/blog/balzac_extreme_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "Buku Stefan Zweig 'Balzac' & Jurnal Neuropharmacology"

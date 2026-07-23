@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["时间的元认知：约瑟夫","Routine"]
-heroImage: "/images/blog/schumpeter_time_grading.webp"
+heroImage: "/images/blog/schumpeter_time_grading.png"
 app: "buildself"
 formatVersion: 4
 authority: "传记《开门：约瑟夫·熊彼特的生平与工作》及关于元认知和自我调节回路对认知成就影响的研究"

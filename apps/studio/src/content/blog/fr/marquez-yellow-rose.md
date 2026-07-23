@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Le secret ","Routine"]
-heroImage: "/images/blog/marquez_yellow_rose.webp"
+heroImage: "/images/blog/marquez_yellow_rose.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie officielle de Márquez et recherche sur la neurologie de fusion cognitive de l'Université de New York (NYU)"

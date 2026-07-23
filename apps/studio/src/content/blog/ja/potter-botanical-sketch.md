@@ -5,7 +5,7 @@ pubDate: "2026-05-15"
 updatedDate: "2026-05-15"
 category: "BuildSelf"
 tags: ["「ピーターラビット」","Routine"]
-heroImage: "/images/blog/potter_botanical_sketch.webp"
+heroImage: "/images/blog/potter_botanical_sketch.png"
 app: "buildself"
 formatVersion: 4
 authority: "リンダ・リア評伝「Beatrix Potter: A Life in Nature」およびV&A博物館史料"

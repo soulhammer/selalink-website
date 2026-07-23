@@ -5,7 +5,7 @@ pubDate: "2026-04-30"
 updatedDate: "2026-04-30"
 category: "BuildSelf"
 tags: ["4 Jam di H","Routine"]
-heroImage: "/images/blog/thoreau_forest_walk.webp"
+heroImage: "/images/blog/thoreau_forest_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Walden oleh Thoreau & Studi Kognitif tentang Teori Pemulihan Perhatian"

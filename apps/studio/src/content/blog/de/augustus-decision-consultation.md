@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Die bewuss","Routine"]
-heroImage: "/images/blog/augustus_decision_consultation.webp"
+heroImage: "/images/blog/augustus_decision_consultation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Suetons 'Leben der Caesaren' und Daniel Kahnemans Forschung zu Heuristiken, System 2-Denken und der Milderung von Bestätigungsfehlern bei der Entscheidungsfindung"

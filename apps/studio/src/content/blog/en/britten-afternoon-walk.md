@@ -5,7 +5,7 @@ pubDate: "2026-04-22"
 updatedDate: "2026-04-22"
 category: "BuildSelf"
 tags: ["Great Habits","britten","Routine","Stamina"]
-heroImage: "/images/blog/britten_afternoon_walk.webp"
+heroImage: "/images/blog/britten_afternoon_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Humphrey Carpenter's 'Benjamin Britten: A Biography' & 'Frontiers in Human Neuroscience' Journal"

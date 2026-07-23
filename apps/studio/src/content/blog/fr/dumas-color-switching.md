@@ -5,7 +5,7 @@ pubDate: "2026-06-07"
 updatedDate: "2026-06-07"
 category: "BuildSelf"
 tags: ["Le génie q","Routine"]
-heroImage: "/images/blog/dumas_color_switching.webp"
+heroImage: "/images/blog/dumas_color_switching.png"
 app: "buildself"
 formatVersion: 4
 authority: "Mémoires d'Alexandre Dumas 'Mes Mémoires' & études de Color Research and Application"

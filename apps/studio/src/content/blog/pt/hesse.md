@@ -5,7 +5,7 @@ pubDate: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "BuildSelf"
 tags: ["O método d","Routine"]
-heroImage: "/images/blog/hesse.webp"
+heroImage: "/images/blog/hesse.png"
 app: "buildself"
 formatVersion: 4
 authority: "Hermann Hesse, *Bilderbuch des Gärtners (The Joy of Gardening)* (1957) & Cognitive Neuroscientific Studies"

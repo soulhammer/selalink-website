@@ -5,7 +5,7 @@ pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Codieren i","Routine"]
-heroImage: "/images/blog/torvalds_darkroom_focus.webp"
+heroImage: "/images/blog/torvalds_darkroom_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "Linus Torvalds' Autobiografie 'Just for Fun' & kognitionswissenschaftliche Studien zur Aufmerksamkeit"

@@ -4,7 +4,7 @@ title: "サモエドのダブルコート＆股関節ケア：毛吹きの管理
 description: "サモエドは厚いダブルコートによる皮膚疾患と、大型犬に多い股関節形成不全になりやすい犬種です。被毛と関節を守る3段階ルーティンを紹介します。"
 pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
-heroImage: "/images/blog/samoyed_care.webp"
+heroImage: "/images/blog/samoyed_care.png"
 authority: "AKCサモエドガイド＆OFA股関節ガイドライン"
 app: "petself"
 formatVersion: 4

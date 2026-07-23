@@ -4,7 +4,7 @@ description: "Immanuel Kant, el gigante de la filosofía moderna. Presentamos lo
 pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["¿El reloj ","Routine"]
-heroImage: "/images/blog/kant_walk.webp"
+heroImage: "/images/blog/kant_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía 'Kant' de Manfred Kuehn y Journal of Neurobiology of Learning and Memory (JN)"

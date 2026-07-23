@@ -5,7 +5,7 @@ pubDate: "2026-07-14"
 updatedDate: "2026-07-14"
 category: "BuildSelf"
 tags: ["Great Habits","klimt","Routine","Stamina"]
-heroImage: "/images/blog/klimt_gardening_nature_refresh.webp"
+heroImage: "/images/blog/klimt_gardening_nature_refresh.png"
 app: "buildself"
 formatVersion: 4
 authority: "Tobias G. Natter's 'Gustav Klimt: The Complete Paintings' & Attersee Letters"

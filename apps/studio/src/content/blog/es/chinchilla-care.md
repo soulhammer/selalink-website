@@ -4,7 +4,7 @@ title: "Cuidado de la Maloclusión y Temperatura en la Chinchilla: Rutina de 3 p
 description: "Las chinchillas tienen dientes de crecimiento continuo y son muy sensibles al calor y la humedad. Conozca una rutina para el heno y sus baños de arena."
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
-heroImage: "/images/blog/chinchilla_care.webp"
+heroImage: "/images/blog/chinchilla_care.png"
 authority: "Directrices de la AEMV para Chinchillas & Estándares dentales veterinarios"
 app: "petself"
 formatVersion: 4

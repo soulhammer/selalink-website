@@ -5,7 +5,7 @@ pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "BuildSelf"
 tags: ["Inspirasi ","Routine"]
-heroImage: "/images/blog/dickinson_scrap_writing.webp"
+heroImage: "/images/blog/dickinson_scrap_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Koleksi Emily Dickinson Perpustakaan Universitas Harvard & Katalog Puisi Amplop 'The Gorgeous Nothings'"

@@ -4,7 +4,7 @@ title: "フトアゴヒゲトカゲのバスキングと3ステップカルシ�
 description: "人懐っこいフトアゴヒゲトカゲの飼育。首振りの社会信号の意味と、代謝性骨疾患（MBD）を防ぐための3ステップの日常ルーチンについて解説します。"
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
-heroImage: "/images/blog/bearded_dragon_care.webp"
+heroImage: "/images/blog/bearded_dragon_care.png"
 authority: "爬虫類両生類獣医師会（ARAV）飼育ガイドラインおよび爬虫類学獣医標準"
 app: "petself"
 formatVersion: 4

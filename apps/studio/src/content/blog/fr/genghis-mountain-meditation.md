@@ -5,7 +5,7 @@ pubDate: "2026-04-21"
 updatedDate: "2026-04-21"
 category: "BuildSelf"
 tags: ["La vision ","Routine"]
-heroImage: "/images/blog/genghis_mountain_meditation.webp"
+heroImage: "/images/blog/genghis_mountain_meditation.png"
 app: "buildself"
 formatVersion: 4
 authority: "L'Histoire secrète des Mongols & revue Journal of Mental Imagery"

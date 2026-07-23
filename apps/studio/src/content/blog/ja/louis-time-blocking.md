@@ -5,7 +5,7 @@ pubDate: "2026-04-11"
 updatedDate: "2026-04-11"
 category: "BuildSelf"
 tags: ["時間を完全に支配する","Routine"]
-heroImage: "/images/blog/louis_time_blocking.webp"
+heroImage: "/images/blog/louis_time_blocking.png"
 app: "buildself"
 formatVersion: 4
 authority: "ルイ14世回顧録および学術誌「Journal of Consumer Research」"

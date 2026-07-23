@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["Great Habits","epicurus","Routine","Stamina"]
-heroImage: "/images/blog/epicurus_garden_conversation.webp"
+heroImage: "/images/blog/epicurus_garden_conversation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Diogenes Laërtius's 'Lives and Opinions of Eminent Philosophers' and Neuropsychiatric Research on Psychological Safety, Social Connection, and Stress Reduction"

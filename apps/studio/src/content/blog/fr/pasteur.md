@@ -5,7 +5,7 @@ pubDate: "2026-05-03"
 updatedDate: "2026-05-03"
 category: "BuildSelf"
 tags: ["La boucle ","Routine"]
-heroImage: "/images/blog/pasteur.webp"
+heroImage: "/images/blog/pasteur.png"
 app: "buildself"
 formatVersion: 4
 authority: "Gerald L. Geison, *La science privée de Louis Pasteur* (1995) & Cognitive Neuroscientific Studies"

@@ -5,7 +5,7 @@ pubDate: "2026-04-02"
 updatedDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["一天仅激烈工作三小时","Routine"]
-heroImage: "/images/blog/russell_three_hour_focus.webp"
+heroImage: "/images/blog/russell_three_hour_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "罗素自传《The Autobiography of Bertrand Russell》与深度工作 (Deep Work) 认知科学研究"

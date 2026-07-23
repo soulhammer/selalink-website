@@ -4,7 +4,7 @@ title: "Bengal Cat Energy Release Guide and 3-Step Stimulation Daily Routine"
 description: "Caring for the active and intelligent Bengal cat. Learn to understand their high-energy body language and support their play needs with a 3-step daily routine."
 pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
-heroImage: "/images/blog/bengal_care.webp"
+heroImage: "/images/blog/bengal_care.png"
 authority: "The International Cat Association (TICA) Bengal Breed Guide and Feline Behavioral Medicine Standards"
 app: "petself"
 formatVersion: 4

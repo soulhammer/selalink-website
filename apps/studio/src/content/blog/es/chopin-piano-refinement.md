@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["¿Obsesión ","Routine"]
-heroImage: "/images/blog/chopin_piano_refinement.webp"
+heroImage: "/images/blog/chopin_piano_refinement.png"
 app: "buildself"
 formatVersion: 4
 authority: "Memoria de George Sand 'A Winter in Majorca' y Análisis de manuscritos del Instituto Fryderyk Chopin"

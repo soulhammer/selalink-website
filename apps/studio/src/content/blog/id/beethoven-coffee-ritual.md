@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Komposer y","Routine"]
-heroImage: "/images/blog/beethoven_coffee_ritual.webp"
+heroImage: "/images/blog/beethoven_coffee_ritual.png"
 app: "buildself"
 formatVersion: 4
 authority: "Buku Anton Schindler 'Beethoven as I Knew Him' & Penelitian Cognition and Emotion"

@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["Fokus Mutl","Routine"]
-heroImage: "/images/blog/fermi_dawn_calculation_routine.webp"
+heroImage: "/images/blog/fermi_dawn_calculation_routine.png"
 app: "buildself"
 formatVersion: 4
 authority: "Enrico Fermi: Physicist karya Emilio Segrè dan Studi Sains Kognitif tentang Respon Kebangkitan Kortisol (CAR) dan Stamina Kognitif Puncak Pagi Hari"

@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["倒立的灵感：斯特拉文","Routine"]
-heroImage: "/images/blog/stravinsky_headstand_composition.webp"
+heroImage: "/images/blog/stravinsky_headstand_composition.png"
 app: "buildself"
 formatVersion: 4
 authority: "斯特拉文斯基自传《An Autobiography》考证及哈佛医学院关于前庭感觉与脑血流的研究"

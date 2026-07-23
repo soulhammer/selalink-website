@@ -5,7 +5,7 @@ pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
 tags: ["Der Meiste","Routine"]
-heroImage: "/images/blog/bach_pattern_transcription.webp"
+heroImage: "/images/blog/bach_pattern_transcription.png"
 app: "buildself"
 formatVersion: 4
 authority: "Forkels 'Life of Johann Sebastian Bach' & Funktionelle Gehirnentwicklungsstudie (James, 2012)"

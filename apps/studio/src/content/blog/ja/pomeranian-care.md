@@ -4,7 +4,7 @@ title: "ポメラニアンの膝蓋骨と呼吸器安定のための3段階プ�
 description: "小型犬ポメラニアンの遺伝的弱点である膝蓋骨脱臼の予防法と、気管虚脱（ガチョウの鳴き声のような呼吸音）の緩和のための3段階ケアを紹介します。"
 pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
-heroImage: "/images/blog/pomeranian_care.webp"
+heroImage: "/images/blog/pomeranian_care.png"
 authority: "アメリカンポメラニアンクラブ公式犬種ガイド＆AVMA獣医学マニュアル"
 app: "petself"
 formatVersion: 4

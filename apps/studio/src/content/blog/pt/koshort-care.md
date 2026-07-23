@@ -4,7 +4,7 @@ title: "Um instinto indomável? Uma rotina de 3 passos para o território e hidr
 description: "O shorthair coreano, com fortes instintos de caça. Conheça os métodos de hidratação adequados para prevenir la cistitis felina e uma rotina diária de 3 passos para o conforto territorial."
 pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
-heroImage: "/images/blog/koshort_care.webp"
+heroImage: "/images/blog/koshort_care.png"
 authority: "Guia de comportamento do Cornell Feline Health Center e manual de cuidados do NIAS"
 app: "petself"
 formatVersion: 4

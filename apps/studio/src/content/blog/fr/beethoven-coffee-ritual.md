@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Le composi","Routine"]
-heroImage: "/images/blog/beethoven_coffee_ritual.webp"
+heroImage: "/images/blog/beethoven_coffee_ritual.png"
 app: "buildself"
 formatVersion: 4
 authority: "L'ouvrage d'Anton Schindler 'Beethoven tel que je l'ai connu' et l'étude de Cognition and Emotion"

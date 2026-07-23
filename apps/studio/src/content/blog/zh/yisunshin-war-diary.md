@@ -5,7 +5,7 @@ pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
 tags: ["排解极端压力的笔尖？","Routine"]
-heroImage: "/images/blog/yisunshin_war_diary.webp"
+heroImage: "/images/blog/yisunshin_war_diary.png"
 app: "buildself"
 formatVersion: 4
 authority: "李顺臣《乱中日记》与学术期刊《Journal of Experimental Psychology》"

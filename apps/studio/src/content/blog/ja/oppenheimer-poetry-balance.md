@@ -5,7 +5,7 @@ pubDate: "2026-03-08"
 updatedDate: "2026-03-08"
 category: "BuildSelf"
 tags: ["量子物理学者のストレ","Routine"]
-heroImage: "/images/blog/oppenheimer_poetry_balance.webp"
+heroImage: "/images/blog/oppenheimer_poetry_balance.png"
 app: "buildself"
 formatVersion: 4
 authority: "評伝「American Prometheus」および米議会図書館史料"

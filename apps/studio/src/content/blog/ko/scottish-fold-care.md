@@ -4,7 +4,7 @@ title: "귀여움 뒤에 숨겨진 유전병, 스코티시 폴드 관절과 귀 
 description: "접힌 귀가 사랑스러운 스코티시 폴드. 하지만 평생을 유전적 연골 통증과 귀 감염 위험에 취약합니다. 슬기로운 관절 보호 매트 세팅과 귀 환기를 위한 3단계 데일리 루틴을 알아봅니다."
 pubDate: "2026-02-10"
 updatedDate: "2026-02-12"
-heroImage: "/images/blog/scottish_fold_care.webp"
+heroImage: "/images/blog/scottish_fold_care.png"
 authority: "ISFM (국제고양이의학협회) 유전성 연골질환 관리 지침 및 GCCF 묘종 가이드라인"
 app: "petself"
 formatVersion: 4

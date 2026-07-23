@@ -5,7 +5,7 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Kubis berdasar
 pubDate: "2026-04-20"
 category: "FreshSnap"
 tags: ["Kubis","Panduan Penyimpanan yang Terbukti Secara Ilmiah","vegetable"]
-heroImage: "/images/blog/cabbage_storage_hack.webp"
+heroImage: "/images/blog/cabbage_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"

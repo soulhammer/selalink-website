@@ -5,7 +5,7 @@ pubDate: "2026-05-29"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["腰间悬挂手账的天才？","Routine"]
-heroImage: "/images/blog/da_vinci_notepad.webp"
+heroImage: "/images/blog/da_vinci_notepad.png"
 app: "buildself"
 formatVersion: 4
 authority: "沃尔特·艾萨克森著《达芬奇传》及教育心理学期刊(JEP)笔记研究"

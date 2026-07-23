@@ -5,7 +5,7 @@ pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Menulis Ko","Routine"]
-heroImage: "/images/blog/torvalds_darkroom_focus.webp"
+heroImage: "/images/blog/torvalds_darkroom_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografi Linus Torvalds 'Just for Fun' & Studi Ilmu Kognitif tentang Atensi Lobus Frontal"

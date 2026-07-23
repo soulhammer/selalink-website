@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["決定疲れの管理：マー","Routine"]
-heroImage: "/images/blog/zuckerberg_uniform_minimization.webp"
+heroImage: "/images/blog/zuckerberg_uniform_minimization.png"
 app: "buildself"
 formatVersion: 4
 authority: "マーク・ザッカーバーグ公開タウンホールミーティングインタビュー考証およびロイ・バウマイスターの自己枯渇（Ego Depletion）認知心理学理論研究"

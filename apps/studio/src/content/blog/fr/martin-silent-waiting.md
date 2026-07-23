@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["L'esprit c","Routine"]
-heroImage: "/images/blog/martin_silent_waiting.webp"
+heroImage: "/images/blog/martin_silent_waiting.png"
 app: "buildself"
 formatVersion: 4
 authority: "Écrits et entretiens d'Agnes Martin 'Agnes Martin: Writings' et recherche neuroscientifique sur la méditation et l'oscillation neurale influençant la résolution de problèmes par l'intuition"

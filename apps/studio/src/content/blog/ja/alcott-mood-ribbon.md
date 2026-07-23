@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["黒いリボンがかかった","Routine"]
-heroImage: "/images/blog/alcott_mood_ribbon.webp"
+heroImage: "/images/blog/alcott_mood_ribbon.png"
 app: "buildself"
 formatVersion: 4
 authority: "オルコットの伝記「Louisa May Alcott: Her Life, Letters, and Journals」および認知心理学研究"

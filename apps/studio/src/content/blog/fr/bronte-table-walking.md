@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["Trois sœur","Routine"]
-heroImage: "/images/blog/bronte_table_walking.webp"
+heroImage: "/images/blog/bronte_table_walking.png"
 app: "buildself"
 formatVersion: 4
 authority: "Livre 'The Life of Charlotte Brontë' d'Elizabeth Gaskell & documents du musée Brontë Parsonage"

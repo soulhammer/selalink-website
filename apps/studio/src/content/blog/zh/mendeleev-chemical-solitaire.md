@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["元素的卡牌游戏：门捷","Routine"]
-heroImage: "/images/blog/mendeleev_chemical_solitaire.webp"
+heroImage: "/images/blog/mendeleev_chemical_solitaire.png"
 app: "buildself"
 formatVersion: 4
 authority: "俄罗斯化学学会档案馆藏门捷列夫笔记本考证及《认知研究》(Cognitive Research)关于空间操作记忆激活的研究"

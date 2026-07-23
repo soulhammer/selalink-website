@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración para conservar
 pubDate: "2026-01-01"
 category: "FreshSnap"
 tags: ["Zanahoria","Guía de almacenamiento científicamente probada","vegetable"]
-heroImage: "/images/blog/carrot_storage_hack.webp"
+heroImage: "/images/blog/carrot_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"

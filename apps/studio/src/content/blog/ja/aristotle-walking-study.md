@@ -5,7 +5,7 @@ pubDate: "2026-03-25"
 updatedDate: "2026-03-25"
 category: "BuildSelf"
 tags: ["アリストテレスの逍遥","Routine"]
-heroImage: "/images/blog/aristotle_walking_study.webp"
+heroImage: "/images/blog/aristotle_walking_study.png"
 app: "buildself"
 formatVersion: 4
 authority: "ディオゲネス・ラエルティオス『ギリシア哲学者列伝』 / 海馬の活性化に関する身体運動の脳科学研究"

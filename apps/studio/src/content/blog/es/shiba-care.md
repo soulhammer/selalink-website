@@ -4,7 +4,7 @@ title: "Independencia del Shiba Inu y cuidado del manto doble: rutina de 3 pasos
 description: "El Shiba Inu es muy independiente y sensible al tacto. Aprenda técnicas de cepillado para su manto doble y una rutina de 3 pasos para un contacto sin estrés."
 pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
-heroImage: "/images/blog/shiba_care.webp"
+heroImage: "/images/blog/shiba_care.png"
 authority: "Club Nacional del Shiba Inu de América y directrices de modificación de conducta de IAABC"
 app: "petself"
 formatVersion: 4

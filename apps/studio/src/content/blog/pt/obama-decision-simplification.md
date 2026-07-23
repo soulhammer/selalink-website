@@ -5,7 +5,7 @@ pubDate: "2026-01-06"
 updatedDate: "2026-01-06"
 category: "BuildSelf"
 tags: ["O segredo ","Routine"]
-heroImage: "/images/blog/obama_decision_simplification.webp"
+heroImage: "/images/blog/obama_decision_simplification.png"
 app: "buildself"
 formatVersion: 4
 authority: "Teoria da fadiga de decisão do professor Roy F. Baumeister e entrevista da Vanity Fair com o presidente Obama"

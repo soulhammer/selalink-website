@@ -4,7 +4,7 @@ description: "Le compositeur Piotr Tchaïkovski marchait exactement deux heures 
 pubDate: "2026-06-01"
 category: "BuildSelf"
 tags: ["Marcher 2 ","Routine"]
-heroImage: "/images/blog/tchaikovsky_two_hour_walk.webp"
+heroImage: "/images/blog/tchaikovsky_two_hour_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "L'ouvrage de Modest Tchaïkovski 'The Life & Letters of Peter Ilich Tchaikovsky' & étude de Frontiers in Neuroscience"

@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["A decisão ","Routine"]
-heroImage: "/images/blog/augustus_decision_consultation.webp"
+heroImage: "/images/blog/augustus_decision_consultation.png"
 app: "buildself"
 formatVersion: 4
 authority: "A obra de Suetônio 'A Vida de Doze Césares' y a pesquisa de Daniel Kahneman sobre heurística, pensamento do Sistema 2 e mitigação do viés de confirmação na tomada de decisões"

@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Presisi un","Routine"]
-heroImage: "/images/blog/kimgu_brush_meditation.webp"
+heroImage: "/images/blog/kimgu_brush_meditation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Memoar sejarah Kim Gu 'Baekbeomilji' & Penelitian tentang Kontrol Motorik Halus dan Regulasi Kecemasan Amigdala"

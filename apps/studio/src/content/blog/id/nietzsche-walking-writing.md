@@ -5,7 +5,7 @@ pubDate: "2026-04-27"
 updatedDate: "2026-04-27"
 category: "BuildSelf"
 tags: ["Menulis Fi","Routine"]
-heroImage: "/images/blog/nietzsche_walking_writing.webp"
+heroImage: "/images/blog/nietzsche_walking_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Surat-surat Friedrich Nietzsche & studi Psikologi Kognitif tentang bagaimana berjalan meningkatkan pemikiran kreatif"

@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Dialogue a","Routine"]
-heroImage: "/images/blog/machiavelli_regal_reading.webp"
+heroImage: "/images/blog/machiavelli_regal_reading.png"
 app: "buildself"
 formatVersion: 4
 authority: "Récit de la lettre de Machiavel de 1513 à Francesco Vettori et recherches de l'Université Northwestern sur la cognition par l'habit (Enclothed Cognition)"

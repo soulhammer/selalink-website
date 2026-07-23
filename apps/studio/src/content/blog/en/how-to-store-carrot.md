@@ -5,7 +5,7 @@ description: "Learn the best storage temperature, methods, and duration for Carr
 pubDate: "2026-01-01"
 category: "FreshSnap"
 tags: ["Carrot","Scientifically Proven Storage Guide","vegetable"]
-heroImage: "/images/blog/carrot_storage_hack.webp"
+heroImage: "/images/blog/carrot_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"

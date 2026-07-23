@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Zielvisual","Routine"]
-heroImage: "/images/blog/ohtani_mandalart_sleep.webp"
+heroImage: "/images/blog/ohtani_mandalart_sleep.png"
 app: "buildself"
 formatVersion: 4
 authority: "Offizielle Dokumente zu Shohei Ohtanis Schul-Mandalart und Nature-Studien zum glymphatischen System und Erholungsschlaf"

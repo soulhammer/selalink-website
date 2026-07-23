@@ -5,7 +5,7 @@ pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
 tags: ["诺贝尔和平奖得主的夜","Routine"]
-heroImage: "/images/blog/schweitzer_night_organ.webp"
+heroImage: "/images/blog/schweitzer_night_organ.png"
 app: "buildself"
 formatVersion: 4
 authority: "自传《Out of My Life and Thought》与 Journal of Music Therapy 学术期刊"

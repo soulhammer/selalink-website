@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Les répons","Routine"]
-heroImage: "/images/blog/poincare_time_limitation.webp"
+heroImage: "/images/blog/poincare_time_limitation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Ouvrage 'La Science et l'Hypothèse' d'Henri Poincaré & recherches sur le mode diffus en sciences cognitives"

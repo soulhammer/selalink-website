@@ -5,7 +5,7 @@ pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["エンドウ豆2万9千株","Routine"]
-heroImage: "/images/blog/mendel_pea_statistics.webp"
+heroImage: "/images/blog/mendel_pea_statistics.png"
 app: "buildself"
 formatVersion: 4
 authority: "メンデルの1865年の論文「Experiments on Plant Hybridization」および学術誌「Journal of Educational Psychology」"

@@ -5,7 +5,7 @@ pubDate: "2026-03-22"
 updatedDate: "2026-03-22"
 category: "BuildSelf"
 tags: [" 数周不脱衣的雕塑家","Routine"]
-heroImage: "/images/blog/michelangelo_flow.webp"
+heroImage: "/images/blog/michelangelo_flow.png"
 app: "buildself"
 formatVersion: 4
 authority: "乔尔乔·瓦萨里著作《艺苑名人传》及认知心理学自我损耗（Ego Depletion）理论"

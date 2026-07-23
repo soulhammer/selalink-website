@@ -5,7 +5,7 @@ pubDate: "2026-07-11"
 updatedDate: "2026-07-11"
 category: "BuildSelf"
 tags: ["完璧な注意力の秘密：","Routine"]
-heroImage: "/images/blog/weil_classical_recitation.webp"
+heroImage: "/images/blog/weil_classical_recitation.png"
 app: "buildself"
 formatVersion: 4
 authority: "シモーヌ・ヴェイユの著作「神を待ちのぞむ」および音読の脳認知心理学研究"

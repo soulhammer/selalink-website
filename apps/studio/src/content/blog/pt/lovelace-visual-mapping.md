@@ -5,7 +5,7 @@ pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
 tags: ["A programa","Routine"]
-heroImage: "/images/blog/lovelace_visual_mapping.webp"
+heroImage: "/images/blog/lovelace_visual_mapping.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia de Lovelace 'Ada's Algorithm' & estudos de psicologia cognitiva sobre a teoria da dupla codificação"

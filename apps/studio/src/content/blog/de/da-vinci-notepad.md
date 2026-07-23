@@ -5,7 +5,7 @@ pubDate: "2026-05-29"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Der Genieß","Routine"]
-heroImage: "/images/blog/da_vinci_notepad.webp"
+heroImage: "/images/blog/da_vinci_notepad.png"
 app: "buildself"
 formatVersion: 4
 authority: "Walter Isaacsons 'Leonardo da Vinci' & Studie im Journal of Educational Psychology"

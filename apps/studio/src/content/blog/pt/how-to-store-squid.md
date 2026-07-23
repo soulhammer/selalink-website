@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración de armazenamen
 pubDate: "2026-05-08"
 category: "FreshSnap"
 tags: ["Lula","Guia de armazenamento comprovado cientificamente","seafood"]
-heroImage: "/images/blog/squid_storage_hack.webp"
+heroImage: "/images/blog/squid_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>NIFS & MFDS & USDA</strong>"

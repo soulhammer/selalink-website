@@ -5,7 +5,7 @@ pubDate: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "BuildSelf"
 tags: ["Hesses Met","Routine"]
-heroImage: "/images/blog/hesse.webp"
+heroImage: "/images/blog/hesse.png"
 app: "buildself"
 formatVersion: 4
 authority: "Hermann Hesse, *Bilderbuch des Gärtners* (1957) & Kognitive Neurowissenschaftliche Studien"

@@ -4,7 +4,7 @@ description: "Benjamin Franklin, quien inventó el pararrayos y lideró la funda
 pubDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["30 minutos","Routine"]
-heroImage: "/images/blog/franklin_air_bath.webp"
+heroImage: "/images/blog/franklin_air_bath.png"
 app: "buildself"
 formatVersion: 4
 authority: "La autobiografía de Benjamin Franklin y New England Journal of Medicine (NEJM)"

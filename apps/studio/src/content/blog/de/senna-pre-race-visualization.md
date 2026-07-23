@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["Meditation","Routine"]
-heroImage: "/images/blog/senna_pre_race_visualization.webp"
+heroImage: "/images/blog/senna_pre_race_visualization.png"
 app: "buildself"
 formatVersion: 4
 authority: "Ayrton Sennas Interviews und kognitive Forschung zu mentalem Training, Bewegungsvorstellung und der Aktivierung des supplementär-motorischen Areals (SMA)"

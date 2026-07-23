@@ -4,7 +4,7 @@ description: "避雷針を発明し、米国の建国を導いたベンジャミ
 pubDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["毎朝30分、ベンジャ","Routine"]
-heroImage: "/images/blog/franklin_air_bath.webp"
+heroImage: "/images/blog/franklin_air_bath.png"
 app: "buildself"
 formatVersion: 4
 authority: "ベンジャミン・フランクリン自伝『The Autobiography of Benjamin Franklin』およびニューイングランド・ジャーナル・オブ・メディシン（NEJM）"

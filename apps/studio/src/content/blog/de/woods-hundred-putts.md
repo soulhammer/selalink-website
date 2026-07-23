@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Bis zu 100","Routine"]
-heroImage: "/images/blog/woods_hundred_putts.webp"
+heroImage: "/images/blog/woods_hundred_putts.png"
 app: "buildself"
 formatVersion: 4
 authority: "Tiger Woods' offizielles Trainingshandbuch und Forschung zur Zielerreichung aus dem Journal of Behavioral Decision Making (JDM)"

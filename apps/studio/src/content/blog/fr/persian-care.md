@@ -4,7 +4,7 @@ title: "Soins du chat Persan à poil long : Routine en 3 étapes pour le pelage 
 description: "Le Persan est connu pour son pelage élégant. Apprenez une routine en 3 étapes pour prévenir les infections de la peau du visage dues aux larmes et éviter les nœuds."
 pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
-heroImage: "/images/blog/persian_care.webp"
+heroImage: "/images/blog/persian_care.png"
 authority: "Directives d'élevage de la CFA pour les Persans et normes vétérinaires de l'AAFP"
 app: "petself"
 formatVersion: 4

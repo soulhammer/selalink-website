@@ -5,7 +5,7 @@ pubDate: "2026-04-13"
 updatedDate: "2026-04-13"
 category: "BuildSelf"
 tags: ["为了克服舞台恐惧寻找","Routine"]
-heroImage: "/images/blog/pavarotti_bent_nail.webp"
+heroImage: "/images/blog/pavarotti_bent_nail.png"
 app: "buildself"
 formatVersion: 4
 authority: "《帕瓦罗蒂自传》及关于表现焦虑的应用运动心理学研究"

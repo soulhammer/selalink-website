@@ -5,7 +5,7 @@ pubDate: "2026-05-01"
 updatedDate: "2026-05-01"
 category: "BuildSelf"
 tags: ["Das Genie,","Routine"]
-heroImage: "/images/blog/mozart_billiard_ideation.webp"
+heroImage: "/images/blog/mozart_billiard_ideation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Briefe von Constanze Mozart & Studie der UC Santa Barbara zum Default Mode Network (2012)"

@@ -4,7 +4,7 @@ title: "Bahasa Jambul Cockatiel dan Rutinitas 3 Langkah Mencegah Night Fright"
 description: "Panduan lengkap merawat burung Cockatiel (Parkit Australia). Pahami bahasa tubuh jambul, cegah panik malam (Night Fright), dan terapkan rutinitas AAV."
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
-heroImage: "/images/blog/cockatiel_care.webp"
+heroImage: "/images/blog/cockatiel_care.png"
 authority: "Association of Avian Veterinarians (AAV) & Standar Perilaku Burung"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Great Habits","napoleon","Routine","Stamina"]
-heroImage: "/images/blog/napoleon_micro_nap.webp"
+heroImage: "/images/blog/napoleon_micro_nap.png"
 app: "buildself"
 formatVersion: 4
 authority: "Napoleon's memoirs & Sleep Science research on NREM sleep and cognitive alertness restoration"

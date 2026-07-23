@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["Der Klang ","Routine"]
-heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
+heroImage: "/images/blog/flaubert_gueuloir_recitation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Flauberts gesammelte Korrespondenz und psycholinguistische Studien zur dualen Kodierungstheorie und zur Fehlererkennung in auditiven Feedbackschleifen"

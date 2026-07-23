@@ -5,7 +5,7 @@ description: "Learn the best storage temperature, methods, and duration for Egg 
 pubDate: "2026-04-15"
 category: "FreshSnap"
 tags: ["Egg","Scientifically Proven Storage Guide","dairy"]
-heroImage: "/images/blog/egg_storage_hack.webp"
+heroImage: "/images/blog/egg_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"

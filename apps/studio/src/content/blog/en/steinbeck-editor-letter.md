@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Great Habits","steinbeck","Routine","Stamina"]
-heroImage: "/images/blog/steinbeck_editor_letter.webp"
+heroImage: "/images/blog/steinbeck_editor_letter.png"
 app: "buildself"
 formatVersion: 4
 authority: "John Steinbeck's 'Journal of a Novel' and Cognitive Psychology Research on Perfectionism & Procrastination"

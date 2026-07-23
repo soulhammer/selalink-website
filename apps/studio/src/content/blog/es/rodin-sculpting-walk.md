@@ -5,7 +5,7 @@ pubDate: "2026-01-10"
 updatedDate: "2026-01-10"
 category: "BuildSelf"
 tags: ["¿El maestr","Routine"]
-heroImage: "/images/blog/rodin_sculpting_walk.webp"
+heroImage: "/images/blog/rodin_sculpting_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía 'Auguste Rodin: Art and Life' y archivos del Musée Rodin"

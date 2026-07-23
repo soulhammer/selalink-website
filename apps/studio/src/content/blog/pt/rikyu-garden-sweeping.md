@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Sweeping t","Routine"]
-heroImage: "/images/blog/rikyu_garden_sweeping.webp"
+heroImage: "/images/blog/rikyu_garden_sweeping.png"
 app: "buildself"
 formatVersion: 4
 authority: "Historical documents in Nanboroku & Research on Kinesthetic Meditation and Cognitive Control Network"

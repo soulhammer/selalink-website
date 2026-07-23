@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Schnelle W","Routine"]
-heroImage: "/images/blog/napoleon_micro_nap.webp"
+heroImage: "/images/blog/napoleon_micro_nap.png"
 app: "buildself"
 formatVersion: 4
 authority: "Napoleons Memoiren & schlafwissenschaftliche Forschung zu NREM-Schlaf und kognitiver Erholung"

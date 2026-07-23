@@ -5,7 +5,7 @@ pubDate: "2026-01-25"
 updatedDate: "2026-01-25"
 category: "BuildSelf"
 tags: ["Great Habits","descartes","Routine","Stamina"]
-heroImage: "/images/blog/descartes_lying_meditation.webp"
+heroImage: "/images/blog/descartes_lying_meditation.png"
 app: "buildself"
 formatVersion: 4
 authority: "René Descartes' Biography 'La Vie de Monsieur Descartes' & Psychophysiology Journal"

@@ -5,7 +5,7 @@ pubDate: "2026-05-11"
 updatedDate: "2026-05-11"
 category: "BuildSelf"
 tags: ["Membajak S","Routine"]
-heroImage: "/images/blog/tolstoy_physical_labor.webp"
+heroImage: "/images/blog/tolstoy_physical_labor.png"
 app: "buildself"
 formatVersion: 4
 authority: "Buku Sophia Tolstoy 'The Diaries of Sophia Tolstoy' & Journal of Clinical Medicine"

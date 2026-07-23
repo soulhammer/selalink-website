@@ -4,7 +4,7 @@ title: "브리티시 숏헤어 체중 케어: 비대성 심근증(HCM)과 비만
 description: "다부진 뼈대와 큰 머리가 매력적인 브리티시 숏헤어. 뼈마디와 심장에 무리를 주는 비만을 방지하고 유전 질환인 심근병증을 예방하는 3단계 식단/교감 케어를 소개합니다."
 pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
-heroImage: "/images/blog/bshorthair_care.webp"
+heroImage: "/images/blog/bshorthair_care.png"
 authority: "GCCF 브리티시 숏헤어 표준 및 AAFP 고양이 비만 지침"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-05-15"
 updatedDate: "2026-05-15"
 category: "BuildSelf"
 tags: ["¿La autora","Routine"]
-heroImage: "/images/blog/potter_botanical_sketch.webp"
+heroImage: "/images/blog/potter_botanical_sketch.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía 'Beatrix Potter: A Life in Nature' de Linda Lear y Archivos del Museo V&A"

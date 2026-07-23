@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["16.000 Num","Routine"]
-heroImage: "/images/blog/faraday_numbered_notebook.webp"
+heroImage: "/images/blog/faraday_numbered_notebook.png"
 app: "buildself"
 formatVersion: 4
 authority: "Dokumente aus 'Faraday's Diary' der Royal Institution und Cognitive Science-Forschung zu Externalisierung von Wissen und kognitiver Belastung"

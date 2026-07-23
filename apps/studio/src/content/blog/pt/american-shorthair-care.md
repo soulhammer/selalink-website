@@ -4,7 +4,7 @@ title: "Cuidado Cardíaco e de Peso do American Shorthair: Rotina de 3 passos pa
 description: "Gatos American Shorthair são robustos, mas propensos à obesidade e à Cardiomiopatia Hipertrófica (HCM). Conheça a rotina de controle de peso e exames cardíacos."
 pubDate: "2026-03-02"
 updatedDate: "2026-03-02"
-heroImage: "/images/blog/american_shorthair_care.webp"
+heroImage: "/images/blog/american_shorthair_care.png"
 authority: "Padrão de raça do American Shorthair da CFA e Cornell Feline Health Center"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
 tags: ["Une chambr","Routine"]
-heroImage: "/images/blog/proust_cork_isolation.webp"
+heroImage: "/images/blog/proust_cork_isolation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Exposition de la chambre de Proust au musée Carnavalet & Journal of Cognitive Neuroscience"

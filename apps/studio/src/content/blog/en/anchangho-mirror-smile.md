@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["Great Habits","anchangho","Routine","Stamina"]
-heroImage: "/images/blog/anchangho_mirror_smile.webp"
+heroImage: "/images/blog/anchangho_mirror_smile.png"
 app: "buildself"
 formatVersion: 4
 authority: "Ahn Chang-ho's Young Korean Academy lectures & Physiological Research on the Facial Feedback Hypothesis"

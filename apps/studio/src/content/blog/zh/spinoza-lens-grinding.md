@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["斯宾诺莎的磨镜片法：","Routine"]
-heroImage: "/images/blog/spinoza_lens_grinding.webp"
+heroImage: "/images/blog/spinoza_lens_grinding.png"
 app: "buildself"
 formatVersion: 4
 authority: "约翰内斯·科勒鲁斯《斯宾诺莎传》 / 关于精细手部动作与触觉体验对调控默认模式网络（DMN）影响的认知科学研究"

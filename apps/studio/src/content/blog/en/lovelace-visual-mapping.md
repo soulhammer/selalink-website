@@ -5,7 +5,7 @@ pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
 tags: ["Great Habits","lovelace","Routine","Stamina"]
-heroImage: "/images/blog/lovelace_visual_mapping.webp"
+heroImage: "/images/blog/lovelace_visual_mapping.png"
 app: "buildself"
 formatVersion: 4
 authority: "Lovelace's Biography 'Ada's Algorithm' & Cognitive Psychology Studies on Dual-Coding Theory"

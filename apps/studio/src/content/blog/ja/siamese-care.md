@@ -4,7 +4,7 @@ title: "寂しがり屋のシャム猫のための情緒安定と狩り遊び3�
 description: "飼い主への依存度が高く寂しがり屋のシャム猫。情緒的ストレスを軽減するスキンシップ方法と、十分なエネルギーを発散させる3段階のデイリー遊びを紹介します。"
 pubDate: "2026-02-19"
 updatedDate: "2026-02-19"
-heroImage: "/images/blog/siamese_care.webp"
+heroImage: "/images/blog/siamese_care.png"
 authority: "キャットファンシャーズアソシエーション(CFA)公式＆AAFP猫の行動プロトコル"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Melodi yan","Routine"]
-heroImage: "/images/blog/mccartney_dream_melody_capture.webp"
+heroImage: "/images/blog/mccartney_dream_melody_capture.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Resmi Paul McCartney 'Many Years From Now' dan Riset Tidur tentang Keadaan Hipnagogik, Kreativitas Mode Difus, dan Peluruhan Memori Kerja yang Cepat"

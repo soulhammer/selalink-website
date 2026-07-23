@@ -4,7 +4,7 @@ title: "Perawatan Bulu Keriting Bichon Frise: Rutinitas 3 Langkah untuk Bulu Kus
 description: "Terkenal dengan tampilan bulat putihnya, Bichon sangat ramah. Temukan rutinitas untuk mengelola bulu keriting mereka dan menangani ledakan energi secara aman."
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
-heroImage: "/images/blog/bichon_care.webp"
+heroImage: "/images/blog/bichon_care.png"
 authority: "Standar Bichon Frise Club of America & Pedoman Kesehatan AVMA"
 app: "petself"
 formatVersion: 4

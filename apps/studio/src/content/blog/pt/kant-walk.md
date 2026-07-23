@@ -4,7 +4,7 @@ description: "Immanuel Kant, o gigante da filosofia moderna. Conheça os benefí
 pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["O relógio ","Routine"]
-heroImage: "/images/blog/kant_walk.webp"
+heroImage: "/images/blog/kant_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia 'Kant' de Manfred Kuehn & Journal of Neurobiology of Learning and Memory (JN)"

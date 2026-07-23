@@ -5,7 +5,7 @@ pubDate: "2026-06-26"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["毎日朝10kmを走る","Routine"]
-heroImage: "/images/blog/murakami_running.webp"
+heroImage: "/images/blog/murakami_running.png"
 app: "buildself"
 formatVersion: 4
 authority: "村上春樹 著『走ることについて語るときに僕の語ること』＆ Frontiers in Psychology 運動認知研究"

@@ -5,7 +5,7 @@ pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "BuildSelf"
 tags: ["おもちゃを触りながら","Routine"]
-heroImage: "/images/blog/spielberg_viewfinder_tactile.webp"
+heroImage: "/images/blog/spielberg_viewfinder_tactile.png"
 app: "buildself"
 formatVersion: 4
 authority: "スピルバーグ伝記「Steven Spielberg」および学術誌「Nature Neuroscience」"

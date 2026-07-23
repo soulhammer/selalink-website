@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Établir un","Routine"]
-heroImage: "/images/blog/yiyi_self_warning.webp"
+heroImage: "/images/blog/yiyi_self_warning.png"
 app: "buildself"
 formatVersion: 4
 authority: "Écrits historiques de Yi I « Jakyungmun » & recherche en sciences cognitives sur l'effet d'auto-référence"

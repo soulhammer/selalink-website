@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Modularité","Routine"]
-heroImage: "/images/blog/nabokov_index_card.webp"
+heroImage: "/images/blog/nabokov_index_card.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiographie de Vladimir Nabokov 'Autres rivages' (Speak, Memory) et recherche sur la théorie de la charge cognitive pour l'optimisation de la mémoire de travail"

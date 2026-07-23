@@ -4,7 +4,7 @@ title: "Insting Menggali Hamster Suriah dan Rutin Harian 3 Langkah Bebas Stres"
 description: "Merawat hamster Suriah (emas) yang soliter dan nokturnal. Pelajari 3 langkah rutin mencakup lingkungan siang yang tenang, insting menimbun makanan di pipi, dan pengecekan roda putar untuk mencegah stres."
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
-heroImage: "/images/blog/golden_hamster_care.webp"
+heroImage: "/images/blog/golden_hamster_care.png"
 authority: "Panduan Perawatan Hamster Humane Society dan Standar Perilaku Veteriner"
 app: "petself"
 formatVersion: 4

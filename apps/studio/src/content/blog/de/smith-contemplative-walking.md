@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Der Gelehr","Routine"]
-heroImage: "/images/blog/smith_contemplative_walking.webp"
+heroImage: "/images/blog/smith_contemplative_walking.png"
 app: "buildself"
 formatVersion: 4
 authority: "John Raes 'The Life of Adam Smith' und die Forschung der Stanford University zu kreativer Kognition und Gehen (Oppezzo & Schwartz, 2014)"

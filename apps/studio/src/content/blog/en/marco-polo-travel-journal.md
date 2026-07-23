@@ -5,7 +5,7 @@ pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Great Habits","marco","Routine","Stamina"]
-heroImage: "/images/blog/marco_polo_travel_journal.webp"
+heroImage: "/images/blog/marco_polo_travel_journal.png"
 app: "buildself"
 formatVersion: 4
 authority: "Classic 'The Travels of Marco Polo' & Biography 'Marco Polo: From Venice to Xanadu'"

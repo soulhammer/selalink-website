@@ -4,7 +4,7 @@ title: "博美犬的髌骨与呼吸道保护：日常3步保护惯例"
 description: "博美犬极易发生髌骨脱位和气管塌陷。介绍预防关节损伤及缓解呼吸问题的日常3步保护惯例。"
 pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
-heroImage: "/images/blog/pomeranian_care.webp"
+heroImage: "/images/blog/pomeranian_care.png"
 authority: "美国博美犬俱乐部官方犬种指南与 AVMA 兽医学手册"
 app: "petself"
 formatVersion: 4

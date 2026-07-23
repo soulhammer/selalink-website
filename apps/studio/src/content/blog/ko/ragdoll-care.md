@@ -4,7 +4,7 @@ title: "인형처럼 안기는 고양이? 렉돌의 안심 안기 및 관절 홈
 description: "안아 올리면 인형처럼 힘을 빼는 사랑스러운 거대 장모종 렉돌. 무거운 체격으로 인해 오기 쉬운 하체 관절 통증 예방과 올바르게 안아주는 3단계 홈케어 루틴을 알아봅니다."
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
-heroImage: "/images/blog/ragdoll_care.webp"
+heroImage: "/images/blog/ragdoll_care.png"
 authority: "Cat Fanciers' Association (CFA) 렉돌 표준 가이드 및 AAFP 고양이 친화 진료 지침"
 app: "petself"
 formatVersion: 4

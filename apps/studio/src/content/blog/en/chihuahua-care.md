@@ -4,7 +4,7 @@ title: "The World's Smallest Warrior: Chihuahua's Molera Protection and Hypoglyc
 description: "Chihuahuas, the smallest brave dogs. Discover tips to protect their open skull fontanelle (molera) and a 3-step daily routine to prevent hypoglycemia and shivering."
 pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
-heroImage: "/images/blog/chihuahua_care.webp"
+heroImage: "/images/blog/chihuahua_care.png"
 authority: "Official Chihuahua Club of America Breed Manual & AVMA Toy Breed Metabolic Care Guidelines"
 app: "petself"
 formatVersion: 4

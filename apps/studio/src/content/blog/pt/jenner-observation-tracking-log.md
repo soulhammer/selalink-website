@@ -5,7 +5,7 @@ pubDate: "2026-07-14"
 updatedDate: "2026-07-14"
 category: "BuildSelf"
 tags: ["O Pai da V","Routine"]
-heroImage: "/images/blog/jenner_observation_tracking_log.webp"
+heroImage: "/images/blog/jenner_observation_tracking_log.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia de Richard Fisher 'Edward Jenner' e Arquivos da Royal Society"

@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["記憶の脚色を防ぐ記録","Routine"]
-heroImage: "/images/blog/mead_immediate_field_notes.webp"
+heroImage: "/images/blog/mead_immediate_field_notes.png"
 app: "buildself"
 formatVersion: 4
 authority: "ジェーン・ハワード著『マーガレット・ミードの生涯（Margaret Mead: A Life）』の記録分析および大脳作業記憶（Working Memory）の限界と認知オフローディング（Cognitive Offloading）の神経認知科学研究"

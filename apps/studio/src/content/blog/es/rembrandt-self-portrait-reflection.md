@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Mirándome ","Routine"]
-heroImage: "/images/blog/rembrandt_self_portrait_reflection.webp"
+heroImage: "/images/blog/rembrandt_self_portrait_reflection.png"
 app: "buildself"
 formatVersion: 4
 authority: "Los archivos del Museo de la Casa de Rembrandt e investigación neurocognitiva sobre la observación del espejo, la corteza prefrontal medial (mPFC) y el procesamiento autorreferencial"

@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Das Gehirn","Routine"]
-heroImage: "/images/blog/didion_manuscript_sleeping.webp"
+heroImage: "/images/blog/didion_manuscript_sleeping.png"
 app: "buildself"
 formatVersion: 4
 authority: "Die Pariser Rezension „Interview mit Joan Didion“ und Trends in den Kognitionswissenschaften"

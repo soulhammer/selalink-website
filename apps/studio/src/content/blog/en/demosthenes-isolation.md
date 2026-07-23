@@ -4,7 +4,7 @@ description: "Demosthenes overcame congenital physical limitations to become the
 pubDate: "2026-01-28"
 category: "BuildSelf"
 tags: ["Great Habits","demosthenes","Routine","Stamina"]
-heroImage: "/images/blog/demosthenes_isolation.webp"
+heroImage: "/images/blog/demosthenes_isolation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Plutarch's 'Lives: Life of Demosthenes' & APA Environmental Control Research"

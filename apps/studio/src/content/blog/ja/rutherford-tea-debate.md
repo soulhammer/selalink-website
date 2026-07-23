@@ -5,7 +5,7 @@ pubDate: "2026-05-23"
 updatedDate: "2026-05-23"
 category: "BuildSelf"
 tags: ["原子核を発見した現代","Routine"]
-heroImage: "/images/blog/rutherford_tea_debate.webp"
+heroImage: "/images/blog/rutherford_tea_debate.png"
 app: "buildself"
 formatVersion: 4
 authority: "評伝「Rutherford: Life and Letters」およびキャベンディッシュ研究所史料"

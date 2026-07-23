@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["El erudito","Routine"]
-heroImage: "/images/blog/smith_contemplative_walking.webp"
+heroImage: "/images/blog/smith_contemplative_walking.png"
 app: "buildself"
 formatVersion: 4
 authority: "La obra de John Rae 'La vida de Adam Smith' e investigación de la Universidad de Stanford sobre cognición creativa y caminar (Oppezzo y Schwartz, 2014)"

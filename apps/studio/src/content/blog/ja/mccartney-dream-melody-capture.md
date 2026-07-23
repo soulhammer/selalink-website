@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["夢の残像から救い出し","Routine"]
-heroImage: "/images/blog/mccartney_dream_melody_capture.webp"
+heroImage: "/images/blog/mccartney_dream_melody_capture.png"
 app: "buildself"
 formatVersion: 4
 authority: "ポール・マッカートニー公認伝記『Many Years From Now』の考証、および睡眠と覚醒の転移状態（Hypnagogia）で現れる脳の分散連想能力と短期記憶の揮発に関する睡眠神経科学の研究"

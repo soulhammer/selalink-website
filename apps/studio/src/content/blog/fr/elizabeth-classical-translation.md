@@ -5,7 +5,7 @@ pubDate: "2026-01-09"
 updatedDate: "2026-01-09"
 category: "BuildSelf"
 tags: ["La 'traduc","Routine"]
-heroImage: "/images/blog/elizabeth_classical_translation.webp"
+heroImage: "/images/blog/elizabeth_classical_translation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Archives d'Élisabeth I & écrits de Roger Ascham"

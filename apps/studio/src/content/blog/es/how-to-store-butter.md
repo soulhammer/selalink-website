@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración para conservar
 pubDate: "2026-06-03"
 category: "FreshSnap"
 tags: ["Mantequilla","Guía de almacenamiento científicamente probada","dairy"]
-heroImage: "/images/blog/butter_storage_hack.webp"
+heroImage: "/images/blog/butter_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"

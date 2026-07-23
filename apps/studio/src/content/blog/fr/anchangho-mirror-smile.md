@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["Éveiller l","Routine"]
-heroImage: "/images/blog/anchangho_mirror_smile.webp"
+heroImage: "/images/blog/anchangho_mirror_smile.png"
 app: "buildself"
 formatVersion: 4
 authority: "Conférences d'Ahn Chang-ho & recherche sur l'hypothèse de rétroaction faciale"

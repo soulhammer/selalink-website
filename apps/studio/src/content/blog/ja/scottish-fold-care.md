@@ -4,7 +4,7 @@ title: "愛らしさの裏に隠された遺伝病、スコティッシュフォ
 description: "折れ耳が愛らしいスコティッシュフォールド。しかし、生涯にわたり遺伝性の軟骨痛と耳の感染症リスクに晒されます。関節保護マットの設定と耳の衛生のための3段階ルーティンを紹介します。"
 pubDate: "2026-02-10"
 updatedDate: "2026-02-12"
-heroImage: "/images/blog/scottish_fold_care.webp"
+heroImage: "/images/blog/scottish_fold_care.png"
 authority: "ISFM(国際猫医学会)遺伝性軟骨疾患ガイドライン＆GCCF犬種基準"
 app: "petself"
 formatVersion: 4

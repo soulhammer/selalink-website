@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Great Habits","hitchcock","Routine","Stamina"]
-heroImage: "/images/blog/hitchcock_storyboard_visualization.webp"
+heroImage: "/images/blog/hitchcock_storyboard_visualization.png"
 app: "buildself"
 formatVersion: 4
 authority: "Alfred Hitchcock's biography 'Alfred Hitchcock: A Life in Darkness and Light' & Mental Simulation Cognitive Science Research"

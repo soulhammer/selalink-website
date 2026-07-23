@@ -5,7 +5,7 @@ pubDate: "2026-07-11"
 updatedDate: "2026-07-11"
 category: "BuildSelf"
 tags: ["完美专注力的秘密：西","Routine"]
-heroImage: "/images/blog/weil_classical_recitation.webp"
+heroImage: "/images/blog/weil_classical_recitation.png"
 app: "buildself"
 formatVersion: 4
 authority: "西蒙娜·薇依著作《等候上帝》与关于声学背诵的神经认知研究"

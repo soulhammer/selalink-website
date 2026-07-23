@@ -5,7 +5,7 @@ pubDate: "2026-04-21"
 updatedDate: "2026-04-21"
 category: "BuildSelf"
 tags: ["乱世を突破する大局観","Routine"]
-heroImage: "/images/blog/genghis_mountain_meditation.webp"
+heroImage: "/images/blog/genghis_mountain_meditation.png"
 app: "buildself"
 formatVersion: 4
 authority: "元朝秘史（モンゴル秘史）および学術誌「Journal of Mental Imagery」"

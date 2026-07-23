@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Un labyrin","Routine"]
-heroImage: "/images/blog/borges_mental_dictation.webp"
+heroImage: "/images/blog/borges_mental_dictation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie de Borges 'Borges: A Life' & recherches sur la plasticité cérébrale"

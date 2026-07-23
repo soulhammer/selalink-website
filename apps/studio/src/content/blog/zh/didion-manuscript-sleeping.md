@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["大脑在睡觉时解决问题","Routine"]
-heroImage: "/images/blog/didion_manuscript_sleeping.webp"
+heroImage: "/images/blog/didion_manuscript_sleeping.png"
 app: "buildself"
 formatVersion: 4
 authority: "巴黎评论“琼·迪迪恩访谈”与认知科学趋势"

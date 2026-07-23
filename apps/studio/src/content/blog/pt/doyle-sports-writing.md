@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Boxe antes","Routine"]
-heroImage: "/images/blog/doyle_sports_writing.webp"
+heroImage: "/images/blog/doyle_sports_writing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Memórias de Conan Doyle & ciência do desporto sobre o BDNF e a função executiva"

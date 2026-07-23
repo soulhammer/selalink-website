@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Great Habits","columbus","Routine","Stamina"]
-heroImage: "/images/blog/columbus_nautical_log.webp"
+heroImage: "/images/blog/columbus_nautical_log.png"
 app: "buildself"
 formatVersion: 4
 authority: "1492 Logbook 'The Journal of Christopher Columbus' & Historical Biographies"

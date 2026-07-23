@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración para conservar
 pubDate: "2026-07-17"
 category: "FreshSnap"
 tags: ["Uva","Guía de almacenamiento científicamente probada","fruit"]
-heroImage: "/images/blog/grape_storage_hack.webp"
+heroImage: "/images/blog/grape_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"

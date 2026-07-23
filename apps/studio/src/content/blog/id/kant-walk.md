@@ -4,7 +4,7 @@ description: "Immanuel Kant, raksasa filsafat modern. Temukan manfaat sains otak
 pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Jam Königs","Routine"]
-heroImage: "/images/blog/kant_walk.webp"
+heroImage: "/images/blog/kant_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi 'Kant' oleh Manfred Kuehn & Journal of Neurobiology of Learning and Memory (JN)"

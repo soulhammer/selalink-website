@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["O arquivo ","Routine"]
-heroImage: "/images/blog/hegel_card_index.webp"
+heroImage: "/images/blog/hegel_card_index.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia de Hegel 'Hegel: A Biography' & pesquisas em ciência cognitiva"

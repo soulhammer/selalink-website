@@ -4,7 +4,7 @@ title: "Danza de guerra del hurón de Marshall y rutina de exploración de 3 pas
 description: "Cuidado del juguetón hurón de Marshall. Aprenda a responder a su danza de guerra y mantenga su curiosidad activa y su higiene del oído con nuestra guía diaria de 3 pasos."
 pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
-heroImage: "/images/blog/marshall_ferret_care.webp"
+heroImage: "/images/blog/marshall_ferret_care.png"
 authority: "Estándares de la American Ferret Association y Pautas Veterinarias de Animales Exóticos"
 app: "petself"
 formatVersion: 4

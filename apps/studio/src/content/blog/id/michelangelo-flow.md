@@ -5,7 +5,7 @@ pubDate: "2026-03-22"
 updatedDate: "2026-03-22"
 category: "BuildSelf"
 tags: ["Tidur deng","Routine"]
-heroImage: "/images/blog/michelangelo_flow.webp"
+heroImage: "/images/blog/michelangelo_flow.png"
 app: "buildself"
 formatVersion: 4
 authority: "Karya Giorgio Vasari 'Lives of the Artists' & Teori Psikologi Kognitif tentang Penipisan Ego"

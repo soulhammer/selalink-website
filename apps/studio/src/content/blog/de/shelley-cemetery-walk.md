@@ -5,7 +5,7 @@ pubDate: "2026-07-07"
 updatedDate: "2026-07-07"
 category: "BuildSelf"
 tags: ["Spaziergän","Routine"]
-heroImage: "/images/blog/shelley_cemetery_walk.webp"
+heroImage: "/images/blog/shelley_cemetery_walk.png"
 app: "buildself"
 formatVersion: 4
 authority: "Mary Shelleys Tagebücher & Umweltpsychologie zu Ehrfurcht und Reflexion"

@@ -4,7 +4,7 @@ title: "Independência do Shiba Inu e cuidado de pelagem dupla: rotina de 3 pass
 description: "O Shiba Inu é muito independente e sensível ao toque. Aprenda técnicas de escovação para pelagem dupla e uma rotina de 3 passos para contato sem estresse."
 pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
-heroImage: "/images/blog/shiba_care.webp"
+heroImage: "/images/blog/shiba_care.png"
 authority: "Club Nacional do Shiba Inu da América e diretrizes de modificação de comportamento da IAABC"
 app: "petself"
 formatVersion: 4

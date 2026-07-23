@@ -5,7 +5,7 @@ pubDate: "2026-03-28"
 updatedDate: "2026-03-28"
 category: "BuildSelf"
 tags: ["Um jogo de","Routine"]
-heroImage: "/images/blog/degaulle_solitaire_refresh.webp"
+heroImage: "/images/blog/degaulle_solitaire_refresh.png"
 app: "buildself"
 formatVersion: 4
 authority: "As 'Memórias de Guerra' de Charles de Gaulle & revista Journal of Behavioral Medicine"

@@ -5,7 +5,7 @@ pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
 tags: ["Great Habits","hugo","Routine","Stamina"]
-heroImage: "/images/blog/hugo_hair_shaving.webp"
+heroImage: "/images/blog/hugo_hair_shaving.png"
 app: "buildself"
 formatVersion: 4
 authority: "Victor Hugo's biographical records & Cognitive Psychology research on environmental constraints and commitment devices"

@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Great Habits","serena","Routine","Stamina"]
-heroImage: "/images/blog/serena_match_routine.webp"
+heroImage: "/images/blog/serena_match_routine.png"
 app: "buildself"
 formatVersion: 4
 authority: "Tennis Magazine interviews and Singer's research on Pre-Performance Routines (PPR) & Cognitive Framing"

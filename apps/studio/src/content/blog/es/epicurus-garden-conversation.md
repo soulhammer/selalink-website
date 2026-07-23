@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["Solidarida","Routine"]
-heroImage: "/images/blog/epicurus_garden_conversation.webp"
+heroImage: "/images/blog/epicurus_garden_conversation.png"
 app: "buildself"
 formatVersion: 4
 authority: "La obra de Diógenes Laercio 'Vidas y opiniones de los filósofos ilustres' e investigación neuropsiquiátrica sobre seguridad psicológica, conexión social y reducción del estrés"

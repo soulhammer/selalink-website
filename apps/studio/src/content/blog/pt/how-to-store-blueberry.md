@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración de armazenamen
 pubDate: "2026-03-29"
 category: "FreshSnap"
 tags: ["Mirtilo","Guia de armazenamento comprovado cientificamente","fruit"]
-heroImage: "/images/blog/blueberry_storage_hack.webp"
+heroImage: "/images/blog/blueberry_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & RDA</strong>"

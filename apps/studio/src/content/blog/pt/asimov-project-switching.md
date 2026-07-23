@@ -5,7 +5,7 @@ pubDate: "2026-05-26"
 updatedDate: "2026-05-26"
 category: "BuildSelf"
 tags: ["Mudar de m","Routine"]
-heroImage: "/images/blog/asimov_project_switching.webp"
+heroImage: "/images/blog/asimov_project_switching.png"
 app: "buildself"
 formatVersion: 4
 authority: "Ensaios autobiográficos de Isaac Asimov e pesquisa da APA sobre fadiga cognitiva e memória de trabalho"

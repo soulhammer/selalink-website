@@ -5,7 +5,7 @@ pubDate: "2026-04-09"
 updatedDate: "2026-04-09"
 category: "BuildSelf"
 tags: ["凌晨4点口述《失乐园","Routine"]
-heroImage: "/images/blog/milton_morning_dictation.webp"
+heroImage: "/images/blog/milton_morning_dictation.png"
 app: "buildself"
 formatVersion: 4
 authority: "约翰·奥布里的传记记录及关于视觉剥夺与工作记忆的认知神经学研究"

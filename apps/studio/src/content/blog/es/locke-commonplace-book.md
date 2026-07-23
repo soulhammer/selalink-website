@@ -5,7 +5,7 @@ pubDate: "2026-03-19"
 updatedDate: "2026-03-19"
 category: "BuildSelf"
 tags: ["¿El filóso","Routine"]
-heroImage: "/images/blog/locke_commonplace_book.webp"
+heroImage: "/images/blog/locke_commonplace_book.png"
 app: "buildself"
 formatVersion: 4
 authority: "Tratado de John Locke 'Un nuevo método de hacer libros comunes' e investigación cognitiva"

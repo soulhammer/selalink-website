@@ -5,7 +5,7 @@ pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
 tags: ["Programmer","Routine"]
-heroImage: "/images/blog/lovelace_visual_mapping.webp"
+heroImage: "/images/blog/lovelace_visual_mapping.png"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Lovelace 'Ada's Algorithm' & Studi Psikologi Kognitif tentang Teori Pengodean Ganda"

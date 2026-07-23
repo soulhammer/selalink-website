@@ -5,7 +5,7 @@ pubDate: "2026-06-04"
 updatedDate: "2026-06-04"
 category: "BuildSelf"
 tags: ["Great Habits","gutenberg","Routine","Stamina"]
-heroImage: "/images/blog/gutenberg_movable_type_inspection.webp"
+heroImage: "/images/blog/gutenberg_movable_type_inspection.png"
 app: "buildself"
 formatVersion: 4
 authority: "Albert Kapr Biography 'Johannes Gutenberg' & Gutenberg Museum Mainz Archives"

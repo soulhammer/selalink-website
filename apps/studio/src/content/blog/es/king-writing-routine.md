@@ -5,7 +5,7 @@ pubDate: "2026-05-18"
 updatedDate: "2026-05-18"
 category: "BuildSelf"
 tags: ["¿Cómo doma","Routine"]
-heroImage: "/images/blog/king_writing_routine.webp"
+heroImage: "/images/blog/king_writing_routine.png"
 app: "buildself"
 formatVersion: 4
 authority: "Memorias de Stephen King 'Mientras escribo' e investigación en neurociencia sobre aprendizaje sensorio-motor"

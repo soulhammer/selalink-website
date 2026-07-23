@@ -5,7 +5,7 @@ pubDate: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "BuildSelf"
 tags: ["Great Habits","picasso","Routine","Stamina"]
-heroImage: "/images/blog/picasso.webp"
+heroImage: "/images/blog/picasso.png"
 app: "buildself"
 formatVersion: 4
 authority: "John Richardson, *A Life of Picasso* (1991) & Cognitive Neuroscientific Studies"

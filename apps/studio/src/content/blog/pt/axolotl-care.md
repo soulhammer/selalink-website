@@ -4,7 +4,7 @@ title: "Sinais das Brânquias do Axolote e Rotina em 3 Passos Para Água Fria"
 description: "Guia completo de cuidados para o Axolote (Axolotl). Entenda a curvatura das brânquias, mantenha água fria (16°C ~ 18°C) e evite substratos perigosos."
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
-heroImage: "/images/blog/axolotl_care.webp"
+heroImage: "/images/blog/axolotl_care.png"
 authority: "Protocolos Veterinários da Amphibian Ark"
 app: "petself"
 formatVersion: 4

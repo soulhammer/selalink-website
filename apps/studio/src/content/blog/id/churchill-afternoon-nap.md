@@ -5,7 +5,7 @@ pubDate: "2026-04-24"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Perdana Me","Routine"]
-heroImage: "/images/blog/churchill_afternoon_nap.webp"
+heroImage: "/images/blog/churchill_afternoon_nap.png"
 app: "buildself"
 formatVersion: 4
 authority: "Buku Winston Churchill 'The Second World War' & Penelitian Power Nap Astronot NASA"

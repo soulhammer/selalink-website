@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["Great Habits","shaw","Routine","Stamina"]
-heroImage: "/images/blog/shaw_rotating_hut_focus.webp"
+heroImage: "/images/blog/shaw_rotating_hut_focus.png"
 app: "buildself"
 formatVersion: 4
 authority: "Shaw's Corner Historic Site Preservation Records and Environmental Psychology Research on Daylight Exposure, Cognitive Isolation, and Reduced Attention Interruption"

@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["平息焦虑的防线：塞雷","Routine"]
-heroImage: "/images/blog/serena_match_routine.webp"
+heroImage: "/images/blog/serena_match_routine.png"
 app: "buildself"
 formatVersion: 4
 authority: "《网球杂志》及体育心理学家辛格(Singer)执行前规程(Pre-Performance Routine)与认知框架(Cognitive Framing)研究"

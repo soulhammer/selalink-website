@@ -4,7 +4,7 @@ description: "Nikola Tesla, penemu jenius yang mengerutkan jari kakinya setiap m
 pubDate: "2026-04-28"
 category: "BuildSelf"
 tags: ["Jenius yan","Routine"]
-heroImage: "/images/blog/tesla_toe_curling.webp"
+heroImage: "/images/blog/tesla_toe_curling.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografi Nikola Tesla 'My Inventions' & Journal of Physical Therapy Science (JPTS)"

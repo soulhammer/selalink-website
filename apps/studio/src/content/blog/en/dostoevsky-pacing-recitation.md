@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Great Habits","dostoevsky","Routine","Stamina"]
-heroImage: "/images/blog/dostoevsky_pacing_recitation.webp"
+heroImage: "/images/blog/dostoevsky_pacing_recitation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Anna Dostoevskaya's Memoirs and LMU Munich Research on Embodied Cognition"

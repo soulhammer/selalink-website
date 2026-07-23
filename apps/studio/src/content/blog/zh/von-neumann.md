@@ -5,7 +5,7 @@ pubDate: "2026-06-28"
 updatedDate: "2026-06-28"
 category: "BuildSelf"
 tags: ["冯·诺依曼的抗噪声训","Routine"]
-heroImage: "/images/blog/von_neumann.webp"
+heroImage: "/images/blog/von_neumann.png"
 app: "buildself"
 formatVersion: 4
 authority: "Norman Macrae，*John von Neumann* (1992) 和认知神经科学研究"

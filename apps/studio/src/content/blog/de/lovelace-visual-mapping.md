@@ -5,7 +5,7 @@ pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
 tags: ["Die Progra","Routine"]
-heroImage: "/images/blog/lovelace_visual_mapping.webp"
+heroImage: "/images/blog/lovelace_visual_mapping.png"
 app: "buildself"
 formatVersion: 4
 authority: "Lovelaces Biografie 'Ada's Algorithm' & kognitionspsychologische Studien zur dualen Codierungstheorie"

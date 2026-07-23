@@ -4,7 +4,7 @@ title: "波斯猫长毛护理：呵护毛发与眼部泪痕的日常3步惯例"
 description: "拥有优雅毛发的波斯猫。介绍一套预防因泪水引起的脸部皮肤炎以及防止双层长毛缠结的日常3步护理惯例。"
 pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
-heroImage: "/images/blog/persian_care.webp"
+heroImage: "/images/blog/persian_care.png"
 authority: "CFA 波斯猫品种指南与 AAFP 兽医学标准"
 app: "petself"
 formatVersion: 4

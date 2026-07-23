@@ -5,7 +5,7 @@ pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
 tags: ["霍金大脑中的虚拟黑板","Routine"]
-heroImage: "/images/blog/stephen_hawking.webp"
+heroImage: "/images/blog/stephen_hawking.png"
 app: "buildself"
 formatVersion: 4
 authority: "史蒂芬·霍金，*我的简史* (2013) 和认知神经科学研究"

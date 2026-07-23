@@ -4,7 +4,7 @@ title: "Panduan Proteksi Sendi Kucing Munchkin dan Rutinitas 3 Langkah Area Rend
 description: "Merawat kucing Munchkin berkaki pendek. Pelajari cara mendeteksi tanda nyeri sendi dini dan lindungi kelincahan gerak mereka."
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
-heroImage: "/images/blog/munchkin_care.webp"
+heroImage: "/images/blog/munchkin_care.png"
 authority: "Standar Ras Munchkin Cat Fanciers' Association (CFA) dan Pedoman Ortopedi Veteriner"
 app: "petself"
 formatVersion: 4

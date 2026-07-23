@@ -5,7 +5,7 @@ pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
 tags: ["Sketsa Obs","Routine"]
-heroImage: "/images/blog/galileo_vibration_sketch.webp"
+heroImage: "/images/blog/galileo_vibration_sketch.png"
 app: "buildself"
 formatVersion: 4
 authority: "Stillman Drake, Galileo at Work / Studi sains kognitif tentang pemrosesan spasial dan visual lewat membuat sketsa"

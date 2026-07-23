@@ -4,7 +4,7 @@ title: "Golden Retriever yang Ramah? Rutinitas Sehat 3 Langkah untuk Sendi dan I
 description: "Golden Retriever yang ramah dan cerdas. Temukan tips untuk mencegah displasia pinggul yang rentan pada anjing besar dan rutinitas harian 3 langkah."
 pubDate: "2026-05-28"
 updatedDate: "2026-05-30"
-heroImage: "/images/blog/golden_retriever_care.webp"
+heroImage: "/images/blog/golden_retriever_care.png"
 authority: "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC"
 app: "petself"
 formatVersion: 4

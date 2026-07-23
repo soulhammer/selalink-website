@@ -4,7 +4,7 @@ title: "Chinchilla Zahnfehlstellungs- und Temperaturpflege: 3-Schritte-Routine f
 description: "Chinchillas haben ständig wachsende Zähne und reagieren empfindlich auf Hitze. Lernen Sie eine Routine für Heufütterung und Sandbäder kennen."
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
-heroImage: "/images/blog/chinchilla_care.webp"
+heroImage: "/images/blog/chinchilla_care.png"
 authority: "Richtlinien der AEMV für Chinchillas & Zahnmedizin bei Nagern"
 app: "petself"
 formatVersion: 4

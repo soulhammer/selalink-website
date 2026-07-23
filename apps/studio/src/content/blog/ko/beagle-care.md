@@ -4,7 +4,7 @@ title: "비글의 폭발적 에너지 케어: 분리불안 완화와 귓병 예�
 description: "사냥개 혈통으로 호기심과 운동량이 강한 비글. 넘치는 에너지를 충족시켜 분리불안을 극복하고 덮여있는 귀의 환기를 돕는 3단계 노즈워크 케어를 다룹니다."
 pubDate: "2026-02-28"
 updatedDate: "2026-03-01"
-heroImage: "/images/blog/beagle_care.webp"
+heroImage: "/images/blog/beagle_care.png"
 authority: "American Kennel Club (AKC) 비글 가이드 및 IAABC 노즈워크 행동 프로토콜"
 app: "petself"
 formatVersion: 4

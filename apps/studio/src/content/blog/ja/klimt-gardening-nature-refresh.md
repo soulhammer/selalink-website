@@ -5,7 +5,7 @@ pubDate: "2026-07-14"
 updatedDate: "2026-07-14"
 category: "BuildSelf"
 tags: ["青いローブを着て朝の","Routine"]
-heroImage: "/images/blog/klimt_gardening_nature_refresh.webp"
+heroImage: "/images/blog/klimt_gardening_nature_refresh.png"
 app: "buildself"
 formatVersion: 4
 authority: "トビアス・G・ナッター著「Gustav Klimt: The Complete Paintings」およびアッター湖書簡集"

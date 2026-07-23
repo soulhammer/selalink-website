@@ -5,7 +5,7 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Daging sapi be
 pubDate: "2026-03-28"
 category: "FreshSnap"
 tags: ["Daging sapi","Panduan Penyimpanan yang Terbukti Secara Ilmiah","meat"]
-heroImage: "/images/blog/beef_storage_hack.webp"
+heroImage: "/images/blog/beef_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"

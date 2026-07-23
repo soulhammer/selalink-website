@@ -5,7 +5,7 @@ pubDate: "2026-04-09"
 updatedDate: "2026-04-09"
 category: "BuildSelf"
 tags: ["午前4時に『失楽園』","Routine"]
-heroImage: "/images/blog/milton_morning_dictation.webp"
+heroImage: "/images/blog/milton_morning_dictation.png"
 app: "buildself"
 formatVersion: 4
 authority: "ジョン・オーブリーの伝記記録および視覚遮断と作業記憶に関する認知神経学研究"

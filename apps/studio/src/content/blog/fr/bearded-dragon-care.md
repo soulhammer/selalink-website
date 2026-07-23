@@ -4,7 +4,7 @@ title: "Guide de thermorégulation du Dragon Barbu et routine de 3 étapes Calci
 description: "Prendre soin du lézard Dragon Barbu. Apprenez à interpréter le head bobbing et prévenez l'ostéodystrophie nutritionnelle (MBD) par l'éclairage et le calcium."
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
-heroImage: "/images/blog/bearded_dragon_care.webp"
+heroImage: "/images/blog/bearded_dragon_care.png"
 authority: "Lignes directrices d'élevage de l'ARAV (Association of Reptilian and Amphibian Veterinarians) et médecine herpétologique"
 app: "petself"
 formatVersion: 4

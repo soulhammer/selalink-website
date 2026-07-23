@@ -5,7 +5,7 @@ description: "Learn the best storage temperature, methods, and duration for Gree
 pubDate: "2026-01-07"
 category: "FreshSnap"
 tags: ["Green Onion","Scientifically Proven Storage Guide","vegetable"]
-heroImage: "/images/blog/green_onion_storage_hack.webp"
+heroImage: "/images/blog/green_onion_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"

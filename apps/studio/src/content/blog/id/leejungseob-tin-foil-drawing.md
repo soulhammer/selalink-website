@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Aliran Men","Routine"]
-heroImage: "/images/blog/leejungseob_tin_foil_drawing.webp"
+heroImage: "/images/blog/leejungseob_tin_foil_drawing.png"
 app: "buildself"
 formatVersion: 4
 authority: "Gambar kertas timah Lee Jung-seob di MoMA & Penelitian tentang relaksasi emosional melalui stimulasi asosiatif taktil-visual"

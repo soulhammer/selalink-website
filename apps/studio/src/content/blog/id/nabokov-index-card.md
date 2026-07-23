@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Modularita","Routine"]
-heroImage: "/images/blog/nabokov_index_card.webp"
+heroImage: "/images/blog/nabokov_index_card.png"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografi Vladimir Nabokov 'Speak, Memory' dan penelitian Teori Beban Kognitif tentang optimasi memori kerja"

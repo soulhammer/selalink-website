@@ -5,7 +5,7 @@ description: "根据官方食品安全指南，了解食用油/橄榄油的最�
 pubDate: "2026-05-24"
 category: "FreshSnap"
 tags: ["食用油/橄榄油","科学验证的储存指南","condiment"]
-heroImage: "/images/blog/olive_oil_storage_hack.webp"
+heroImage: "/images/blog/olive_oil_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"

@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Great Habits","beethoven","Routine","Stamina"]
-heroImage: "/images/blog/beethoven_coffee_ritual.webp"
+heroImage: "/images/blog/beethoven_coffee_ritual.png"
 app: "buildself"
 formatVersion: 4
 authority: "Anton Schindler's 'Beethoven as I Knew Him' & Cognition and Emotion"

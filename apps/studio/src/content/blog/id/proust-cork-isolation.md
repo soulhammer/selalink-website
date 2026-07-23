@@ -5,7 +5,7 @@ pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
 tags: ["Ruang Suny","Routine"]
-heroImage: "/images/blog/proust_cork_isolation.webp"
+heroImage: "/images/blog/proust_cork_isolation.png"
 app: "buildself"
 formatVersion: 4
 authority: "Pameran Restorasi Kamar Tidur Proust di Musée Carnavalet & Jurnal Journal of Cognitive Neuroscience"

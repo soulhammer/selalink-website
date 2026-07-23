@@ -5,7 +5,7 @@ pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
 tags: ["《戴珍珠耳环的少女》","Routine"]
-heroImage: "/images/blog/vermeer_camera_obscura_light.webp"
+heroImage: "/images/blog/vermeer_camera_obscura_light.png"
 app: "buildself"
 formatVersion: 4
 authority: "大都会艺术博物馆《Vermeer and the Delft School》与菲利普·斯蒂德曼研究史料"

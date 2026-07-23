@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Umgang mit","Routine"]
-heroImage: "/images/blog/zuckerberg_uniform_minimization.webp"
+heroImage: "/images/blog/zuckerberg_uniform_minimization.png"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Belege aus Mark Zuckerbergs Townhall-Interviews und Roy Baumeisters kognitionspsychologische Forschung zur Ego-Depletion"
