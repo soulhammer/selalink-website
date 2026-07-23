@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["在画家的画室里回响的","Routine"]
-heroImage: "/images/blog/rubens_multitasking_recitation.png"
+heroImage: "/images/blog/rubens_multitasking_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "鲁本斯传记《Master of Shadows》与《实验心理学期刊》认知通道分割分析研究"

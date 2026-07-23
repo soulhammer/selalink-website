@@ -5,7 +5,7 @@ pubDate: "2026-03-06"
 updatedDate: "2026-03-06"
 category: "BuildSelf"
 tags: ["Filsuf yan","Routine"]
-heroImage: "/images/blog/socrates_walking_dialogue.png"
+heroImage: "/images/blog/socrates_walking_dialogue.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Buku Plato 'Dialogues' & Penelitian Universitas Stanford tentang Berjalan dan Berpikir Kreatif (2014)"

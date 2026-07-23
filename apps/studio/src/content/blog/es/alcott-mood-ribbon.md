@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["No molesta","Routine"]
-heroImage: "/images/blog/alcott_mood_ribbon.png"
+heroImage: "/images/blog/alcott_mood_ribbon.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía de Alcott 'Louisa May Alcott: Her Life, Letters, and Journals' e investigación en psicología cognitiva"

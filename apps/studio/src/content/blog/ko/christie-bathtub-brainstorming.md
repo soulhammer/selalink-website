@@ -5,7 +5,7 @@ description: "전 세계에서 성경 다음으로 많이 읽힌 추리소설의
 pubDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["위인 습관", "아가사 크리스티", "아이디어", "목욕", "창의성"]
-heroImage: "/images/blog/christie_bathtub_brainstorming.png"
+heroImage: "/images/blog/christie_bathtub_brainstorming.webp"
 app: "buildself"
 authority: "아가사 크리스티 자서전 'Agatha Christie: An Autobiography' 및 세계 건강학 저널(Journal of Thermal Biology)"
 updatedDate: "2026-05-07"

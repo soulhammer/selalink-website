@@ -5,7 +5,7 @@ pubDate: "2026-03-10"
 updatedDate: "2026-03-10"
 category: "BuildSelf"
 tags: ["蒙田的梁上自省法：利","Routine"]
-heroImage: "/images/blog/montaigne_beam_inscription.png"
+heroImage: "/images/blog/montaigne_beam_inscription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "米歇尔·德·蒙田《随笔集》（Essais） / 关于视觉点燃（Visual Priming）及视线上移对提升元认知影响的认知心理学研究"

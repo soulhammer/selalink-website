@@ -5,7 +5,7 @@ description: "根据官方食品安全指南，了解吐司/面包的最佳储�
 pubDate: "2026-05-19"
 category: "FreshSnap"
 tags: ["吐司/面包","科学验证的储存指南","grain"]
-heroImage: "/images/blog/bread_storage_hack.png"
+heroImage: "/images/blog/bread_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>美国农务部(USDA) & FSA</strong>"

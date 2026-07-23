@@ -5,7 +5,7 @@ pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
 tags: ["Plinius de","Routine"]
-heroImage: "/images/blog/pliny_reading_excerpt.png"
+heroImage: "/images/blog/pliny_reading_excerpt.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Plinius der Jüngere, Briefe (Epistulae III.5) / Forschung zum Retikulären Aktivierungssystem (RAS) und Handschreiben"

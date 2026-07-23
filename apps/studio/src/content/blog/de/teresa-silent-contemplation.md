@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Der Schild","Routine"]
-heroImage: "/images/blog/teresa_silent_contemplation.png"
+heroImage: "/images/blog/teresa_silent_contemplation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Mutter Teresas private Briefe 'Come Be My Light' & Fachzeitschrift JAMA Psychiatry"

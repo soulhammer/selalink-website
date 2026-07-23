@@ -5,7 +5,7 @@ pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
 category: "BuildSelf"
 tags: ["Penemu yan","Routine"]
-heroImage: "/images/blog/wright_reverse_debate.png"
+heroImage: "/images/blog/wright_reverse_debate.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Wright Bersaudara 'The Wright Brothers' & Studi Akademis Cognitive Therapy and Research"

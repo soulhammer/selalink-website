@@ -5,7 +5,7 @@ description: "평생 병약했으나 매일 아침 도인법과 호흡 조절을
 pubDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["위인 습관", "퇴계 이황", "신체활성", "리프레시", "의지력"]
-heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.png"
+heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.webp"
 app: "buildself"
 authority: "이황 편필 저술 『활인심방(活人心方)』 의학 양생서 고증 및 임상의학저널(Journal of Clinical Medicine) 저강도 신체 자극과 부교감 신경 연구"
 updatedDate: "2026-06-12"

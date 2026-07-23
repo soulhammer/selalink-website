@@ -5,7 +5,7 @@ pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "BuildSelf"
 tags: ["Pionir Pen","Routine"]
-heroImage: "/images/blog/montessori_observation_log.png"
+heroImage: "/images/blog/montessori_observation_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Buku Maria Montessori 'The Discovery of the Child' & Arsip Sejarah"

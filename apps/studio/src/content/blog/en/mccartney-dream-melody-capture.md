@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Great Habits","mccartney","Routine","Stamina"]
-heroImage: "/images/blog/mccartney_dream_melody_capture.png"
+heroImage: "/images/blog/mccartney_dream_melody_capture.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Paul McCartney's Authorized Biography 'Many Years From Now' and Sleep Research on Hypnagogic States, Diffuse Mode Creativity, and Rapid Working Memory Decay"

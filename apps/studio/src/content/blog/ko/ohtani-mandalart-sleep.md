@@ -5,7 +5,7 @@ description: "현대 야구의 역사를 새로 쓰는 오타니 쇼헤이. 그�
 pubDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["위인 습관", "오타니 쇼헤이", "성장", "계획", "수면회복"]
-heroImage: "/images/blog/ohtani_mandalart_sleep.png"
+heroImage: "/images/blog/ohtani_mandalart_sleep.webp"
 app: "buildself"
 authority: "오타니 쇼헤이 실제 고교 만다라트 계획표 대중 공개 고증 및 네이처(Nature) 계열 아카이브의 뇌 글림프 체계 회복 수면 연구"
 updatedDate: "2026-02-06"

@@ -4,7 +4,7 @@ title: "Instinto de escavação do hámster sírio e rotina diária de 3 passos 
 description: "Cuidado do hámster sírio (dourado), solitário e noturno. Conheça uma rotina de 3 passos para um ambiente diurno silencioso, instinto de recolha nas bochechas e controlo da roda para prevenir o stresse."
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
-heroImage: "/images/blog/golden_hamster_care.png"
+heroImage: "/images/blog/golden_hamster_care.webp"
 authority: "Guia de Cuidado de Hámsters da Humane Society e Protocolos de Conduta Veterinária"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-03-08"
 updatedDate: "2026-03-08"
 category: "BuildSelf"
 tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/oppenheimer_poetry_balance.png"
+heroImage: "/images/blog/oppenheimer_poetry_balance.webp"
 app: "buildself"
 formatVersion: 4
 authority: "전기 'American Prometheus' 및 미 의회도서관 사료"

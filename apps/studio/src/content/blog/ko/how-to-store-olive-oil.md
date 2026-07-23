@@ -5,7 +5,7 @@ description: "공인된 안전 가이드라인에 따른 식용유/올리브유�
 pubDate: "2026-05-24"
 category: "FreshSnap"
 tags: ["식용유/올리브유","과학적으로 검증된 보관 가이드","condiment"]
-heroImage: "/images/blog/olive_oil_storage_hack.png"
+heroImage: "/images/blog/olive_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"

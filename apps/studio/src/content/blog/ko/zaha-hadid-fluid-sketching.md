@@ -5,7 +5,7 @@ pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
 tags: ["위인 습관", "Routine"]
-heroImage: "/images/blog/zaha_hadid_fluid_sketching.png"
+heroImage: "/images/blog/zaha_hadid_fluid_sketching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Philip Jodidio 저서 'Zaha Hadid: Complete Works' 및 프리츠커 건축상 연설문"

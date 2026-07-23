@@ -5,7 +5,7 @@ pubDate: "2026-06-06"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Die Schrif","Routine"]
-heroImage: "/images/blog/woolf_standing_desk.png"
+heroImage: "/images/blog/woolf_standing_desk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Virginia Woolfs Tagebuch & Studie in Applied Ergonomics über Stehpulte"

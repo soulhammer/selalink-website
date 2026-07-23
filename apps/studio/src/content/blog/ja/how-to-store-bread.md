@@ -5,7 +5,7 @@ description: "公的安全基準に基づく食パンの最適な保存温度、
 pubDate: "2026-05-19"
 category: "FreshSnap"
 tags: ["食パン","科学的に検証された保存ガイド","grain"]
-heroImage: "/images/blog/bread_storage_hack.png"
+heroImage: "/images/blog/bread_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>米国農務省(USDA) & FSA</strong>"

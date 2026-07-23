@@ -6,7 +6,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["위인 습관", "베토벤", "아침루틴", "커피", "마인드풀니스"]
-heroImage: "/images/blog/beethoven_coffee_ritual.png"
+heroImage: "/images/blog/beethoven_coffee_ritual.webp"
 app: "buildself"
 authority: "안톤 쉰들러 저 '내가 아는 베토벤' 및 인지감정학회지(Cognition and Emotion)"
 ---

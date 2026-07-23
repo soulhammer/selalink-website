@@ -4,7 +4,7 @@ title: "Bichon Frise Curly Coat Care: A 3-Step Routine for Detangling and Bichon
 description: "Famous for their white powder-puff look, Bichons are highly friendly. Discover a 3-step routine to manage their dense curly coat and safely handle sudden bursts of energy (FRAPs)."
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
-heroImage: "/images/blog/bichon_care.png"
+heroImage: "/images/blog/bichon_care.webp"
 authority: "Bichon Frise Club of America Standards & AVMA Health Guidelines"
 app: "petself"
 formatVersion: 4

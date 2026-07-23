@@ -5,7 +5,7 @@ description: "根据官方食品安全指南，了解奶酪/芝士的最佳储�
 pubDate: "2026-05-12"
 category: "FreshSnap"
 tags: ["奶酪/芝士","科学验证的储存指南","dairy"]
-heroImage: "/images/blog/cheese_storage_hack.png"
+heroImage: "/images/blog/cheese_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>美国农务部(USDA) & FSA</strong>"

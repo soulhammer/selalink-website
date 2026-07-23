@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["忍耐と平穏を養うリズ","Routine"]
-heroImage: "/images/blog/ieyasu_herb_grinding.png"
+heroImage: "/images/blog/ieyasu_herb_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "徳川家康の薬材収集記録に関する歴史文書、およびリズム運動（Rhythmic Motor Activity）とセロトニン神経調節に関する研究"

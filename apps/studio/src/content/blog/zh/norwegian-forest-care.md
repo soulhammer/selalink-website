@@ -4,7 +4,7 @@ title: "挪威森林猫的垂直空间游戏与三重防寒毛被毛梳理常规
 description: "满足大猫挪威森林猫爬树本能与三重被毛打理常规。"
 pubDate: "2026-04-08"
 updatedDate: "2026-04-08"
-heroImage: "/images/blog/norwegian_forest_care.png"
+heroImage: "/images/blog/norwegian_forest_care.webp"
 authority: "国际猫协会(TICA)指南及猫科动物行为科学"
 app: "petself"
 formatVersion: 4

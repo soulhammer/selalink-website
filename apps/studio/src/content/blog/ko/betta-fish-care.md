@@ -4,7 +4,7 @@ title: "베타 피쉬의 플레어링 영역 신호와 화려한 지느러미 �
 description: "화려한 화관 지느러미를 가진 베타(Betta Fish). 플레어링(Flaring) 스트레스 표현과 수류 관리, 라비린스 기관 호흡을 고려한 3단계 케어 루틴."
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
-heroImage: "/images/blog/betta_fish_care.png"
+heroImage: "/images/blog/betta_fish_care.webp"
 authority: "World Small Animal Veterinary Association (WSAVA) Aquatic Animal Health Standards"
 app: "petself"
 formatVersion: 4

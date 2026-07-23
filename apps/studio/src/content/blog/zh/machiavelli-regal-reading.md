@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["与圣贤的对话：马基雅","Routine"]
-heroImage: "/images/blog/machiavelli_regal_reading.png"
+heroImage: "/images/blog/machiavelli_regal_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "马基雅维利于1513年致弗朗切斯科·维托里的亲笔信考证及芝加哥西北大学关于衣服认知(Enclothed Cognition)的实证研究"

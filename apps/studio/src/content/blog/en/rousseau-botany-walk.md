@@ -5,7 +5,7 @@ pubDate: "2026-04-23"
 updatedDate: "2026-04-23"
 category: "BuildSelf"
 tags: ["Great Habits","rousseau","Routine","Stamina"]
-heroImage: "/images/blog/rousseau_botany_walk.png"
+heroImage: "/images/blog/rousseau_botany_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Rousseau's Reveries of a Solitary Walker & Research on Foraging Attention Systems"

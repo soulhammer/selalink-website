@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["Das Geheim","Routine"]
-heroImage: "/images/blog/ronaldo_polyphasic_sleep.png"
+heroImage: "/images/blog/ronaldo_polyphasic_sleep.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Schlafcoach Nick Littlehales‘ Buch „Sleep“ & Sleep Medicine Reviews"

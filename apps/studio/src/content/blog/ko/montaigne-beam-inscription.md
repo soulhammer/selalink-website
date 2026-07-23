@@ -5,7 +5,7 @@ description: "프랑스의 철학자 몽테뉴가 자신의 서재 대들보에 
 pubDate: "2026-03-10"
 category: "BuildSelf"
 tags: ["시각점화", "사색", "서재", "르네상스"]
-heroImage: "/images/blog/montaigne_beam_inscription.png"
+heroImage: "/images/blog/montaigne_beam_inscription.webp"
 app: "buildself"
 authority: "미셸 드 몽테뉴 《수상록》 (Essais)"
 updatedDate: "2026-03-10"

@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["宇宙模型を木彫りする","Routine"]
-heroImage: "/images/blog/kepler_geometric_modeling.png"
+heroImage: "/images/blog/kepler_geometric_modeling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ケプラーの著作「宇宙の神秘」および触覚的空間操作に関する認知心理学研究"

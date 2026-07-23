@@ -5,7 +5,7 @@ description: "동양 사상의 위대한 스승 공자. 어지러운 난세 속�
 pubDate: "2026-06-19"
 category: "BuildSelf"
 tags: ["위인 습관", "공자", "거문고", "음악치료", "마음조율"]
-heroImage: "/images/blog/confucius_guqin_harmony.png"
+heroImage: "/images/blog/confucius_guqin_harmony.webp"
 app: "buildself"
 authority: "논어(論語), 사기(史記) 공자세가 및 Journal of Music Therapy 학술지"
 updatedDate: "2026-06-19"

@@ -5,7 +5,7 @@ pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
 tags: ["El hábito ","Routine"]
-heroImage: "/images/blog/thatcher.png"
+heroImage: "/images/blog/thatcher.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Margaret Thatcher, *Los años de Downing Street* (1993) y estudios neurocientíficos cognitivos"

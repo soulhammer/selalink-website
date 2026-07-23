@@ -4,7 +4,7 @@ title: "Jeux cérébraux et soin des oreilles : routine en 3 étapes pour le can
 description: "Découvrez comment soulager l'ennui des caniches intelligents avec des jeux cérébraux et prévenir les otites grâce à une routine en 3 étapes."
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
-heroImage: "/images/blog/poodle_care.png"
+heroImage: "/images/blog/poodle_care.webp"
 authority: "Guide officiel des races de l'American Kennel Club (AKC) et protocoles comportementaux de l'IAABC"
 app: "petself"
 formatVersion: 4

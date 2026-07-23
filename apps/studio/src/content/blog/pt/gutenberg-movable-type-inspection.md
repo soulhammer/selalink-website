@@ -5,7 +5,7 @@ pubDate: "2026-06-04"
 updatedDate: "2026-06-04"
 category: "BuildSelf"
 tags: ["O mestre d","Routine"]
-heroImage: "/images/blog/gutenberg_movable_type_inspection.png"
+heroImage: "/images/blog/gutenberg_movable_type_inspection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia 'Johannes Gutenberg' de Albert Kapr e Arquivos do Museu Gutenberg"

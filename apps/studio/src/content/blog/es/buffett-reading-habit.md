@@ -5,7 +5,7 @@ pubDate: "2026-06-10"
 updatedDate: "2026-06-10"
 category: "BuildSelf"
 tags: ["¿El efecto","Routine"]
-heroImage: "/images/blog/buffett_reading_habit.png"
+heroImage: "/images/blog/buffett_reading_habit.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Estudio de neurología de lectura de Emory University y cartas a accionistas de Berkshire Hathaway"

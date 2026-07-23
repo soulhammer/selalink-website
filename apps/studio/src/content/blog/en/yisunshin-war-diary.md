@@ -5,7 +5,7 @@ pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
 tags: ["Great Habits","yisunshin","Routine","Stamina"]
-heroImage: "/images/blog/yisunshin_war_diary.png"
+heroImage: "/images/blog/yisunshin_war_diary.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Yi Sun-shin's Nanjung Ilgi & Journal of Experimental Psychology"

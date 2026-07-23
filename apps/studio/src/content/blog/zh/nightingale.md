@@ -5,7 +5,7 @@ pubDate: "2026-03-20"
 updatedDate: "2026-03-20"
 category: "BuildSelf"
 tags: ["南丁格尔的定量卫生诊","Routine"]
-heroImage: "/images/blog/nightingale.png"
+heroImage: "/images/blog/nightingale.webp"
 app: "buildself"
 formatVersion: 4
 authority: "弗洛伦斯·南丁格尔，*护理笔记* (1859) 和认知神经科学研究"

@@ -4,7 +4,7 @@ title: "프렌치 불독 호흡기 및 체온 관리: 기도와 관절 보호를
 description: "프렌치 불독은 납작한 얼굴 구조 때문에 호흡 곤란과 열사병에 취약합니다. 얼굴 주름 관리, 호흡 진단, 관절 보호를 위한 3단계 데일리 루틴을 알아봅니다."
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
-heroImage: "/images/blog/french_bulldog_care.png"
+heroImage: "/images/blog/french_bulldog_care.webp"
 authority: "American Kennel Club (AKC) 프렌치 불독 가이드라인"
 app: "petself"
 formatVersion: 4

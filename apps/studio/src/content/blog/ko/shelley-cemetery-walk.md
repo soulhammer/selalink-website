@@ -5,7 +5,7 @@ description: "소설 《프랑켄슈타인》을 집필한 메리 셸리가 왜 
 pubDate: "2026-07-07"
 category: "BuildSelf"
 tags: ["위인 습관", "사색"]
-heroImage: "/images/blog/shelley_cemetery_walk.png"
+heroImage: "/images/blog/shelley_cemetery_walk.webp"
 app: "buildself"
 authority: "메리 셸리의 일기 및 경외감을 주는 엄숙한 환경이 자기 성찰과 뇌 인지 회복에 미치는 환경심리학 연구"
 updatedDate: "2026-07-07"

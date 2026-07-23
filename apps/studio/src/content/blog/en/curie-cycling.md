@@ -4,7 +4,7 @@ description: "Marie Curie, the first woman to win a Nobel Prize and the only per
 pubDate: "2026-02-28"
 category: "BuildSelf"
 tags: ["Great Habits","curie","Routine","Stamina"]
-heroImage: "/images/blog/curie_cycling.png"
+heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Eve Curie's 'Madame Curie' & Harvard Health Publishing Exercise Research"

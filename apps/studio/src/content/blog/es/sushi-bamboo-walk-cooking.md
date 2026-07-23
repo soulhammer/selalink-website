@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["¿Superando","Routine"]
-heroImage: "/images/blog/sushi_bamboo_walk_cooking.png"
+heroImage: "/images/blog/sushi_bamboo_walk_cooking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Obras Reunidas de Su Shi 'Dongpo Quanji' y Biografía de Lin Yutang 'The Gay Genius'"

@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["士大夫的晨间养生：退","Routine"]
-heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.png"
+heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.webp"
 app: "buildself"
 formatVersion: 4
 authority: "李滉著《活人心方》医学养生书考证及《临床医学杂志》(Journal of Clinical Medicine)关于低强度身体刺激与副交感神经的研究"

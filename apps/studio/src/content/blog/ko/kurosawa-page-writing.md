@@ -5,7 +5,7 @@ description: "영화계의 전설 아키라 구로사와 감독이 거장으로 
 pubDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["위인 습관", "아키라 구로사와", "미세 목표", "인지 부하", "실천력", "창의성"]
-heroImage: "/images/blog/kurosawa_page_writing.png"
+heroImage: "/images/blog/kurosawa_page_writing.webp"
 app: "buildself"
 authority: "아키라 구로사와 자서전 『두꺼비 기름(Something Like an Autobiography)』 기록 및 행동경제학의 미세 목표 설정(Micro-Goal Setting) 및 편도체(Amygdala) 위협 반응 억제 연구"
 updatedDate: "2026-05-07"

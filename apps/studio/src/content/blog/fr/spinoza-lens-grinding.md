@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Le polissa","Routine"]
-heroImage: "/images/blog/spinoza_lens_grinding.png"
+heroImage: "/images/blog/spinoza_lens_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Colerus, La vie de Spinoza / Coordination œil-main et recherche sur la régulation du Réseau Mode par Défaut (RMD)"

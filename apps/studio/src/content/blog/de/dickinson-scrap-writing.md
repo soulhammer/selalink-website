@@ -5,7 +5,7 @@ pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "BuildSelf"
 tags: ["Poesie auf","Routine"]
-heroImage: "/images/blog/dickinson_scrap_writing.png"
+heroImage: "/images/blog/dickinson_scrap_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Harvard University Library Emily Dickinson Collection & Briefumschlag-Gedichte-Katalog „The Gorgeous Nothings“"

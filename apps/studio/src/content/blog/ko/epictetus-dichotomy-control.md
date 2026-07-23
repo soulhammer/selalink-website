@@ -5,7 +5,7 @@ pubDate: "2026-05-15"
 updatedDate: "2026-05-15"
 category: "BuildSelf"
 tags: ["위인 습관", "Routine"]
-heroImage: "/images/blog/epictetus_dichotomy_control.png"
+heroImage: "/images/blog/epictetus_dichotomy_control.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Epictetus 어록집 'Enchiridion' (행동 지침서) 및 'Discourses' (담론)"

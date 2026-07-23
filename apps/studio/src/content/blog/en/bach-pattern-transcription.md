@@ -5,7 +5,7 @@ pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
 tags: ["Great Habits","bach","Routine","Stamina"]
-heroImage: "/images/blog/bach_pattern_transcription.png"
+heroImage: "/images/blog/bach_pattern_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Forkel's 'Life of Johann Sebastian Bach' & Functional Brain Development Study (James, 2012)"

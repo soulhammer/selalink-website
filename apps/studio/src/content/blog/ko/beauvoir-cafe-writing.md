@@ -5,7 +5,7 @@ pubDate: "2026-06-08"
 updatedDate: "2026-06-08"
 category: "BuildSelf"
 tags: ["매일 같은 카페에서","Routine"]
-heroImage: "/images/blog/beauvoir_cafe_writing.png"
+heroImage: "/images/blog/beauvoir_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "시몬 드 보부아르의 자서전 '전성기(The Prime of Life)' 및 소비자 연구 학술지"

@@ -5,7 +5,7 @@ pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "BuildSelf"
 tags: ["위인 습관", "찰리 채플린", "창의성", "사색"]
-heroImage: "/images/blog/charlie_chaplin.png"
+heroImage: "/images/blog/charlie_chaplin.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Charlie Chaplin, *My Autobiography* (1964)"

@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Descobrir ","Routine"]
-heroImage: "/images/blog/saimdang_nature_observation.png"
+heroImage: "/images/blog/saimdang_nature_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Pinturas 'Chochungdo' de Saimdang e pesquisas sobre a teoria da restauração da atenção"

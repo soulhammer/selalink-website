@@ -5,7 +5,7 @@ pubDate: "2026-04-24"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Der Premie","Routine"]
-heroImage: "/images/blog/churchill_afternoon_nap.png"
+heroImage: "/images/blog/churchill_afternoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Winston Churchills 'Der Zweite Weltkrieg' & NASA-Studie über Power Naps bei Astronauten"

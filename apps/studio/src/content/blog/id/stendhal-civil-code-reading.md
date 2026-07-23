@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Pemanasan ","Routine"]
-heroImage: "/images/blog/stendhal_civil_code_reading.png"
+heroImage: "/images/blog/stendhal_civil_code_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Surat Stendhal untuk Balzac dan Riset Psikologi Kognitif tentang Efek Priming dan Stimulasi Tekstual Struktural pada Rasionalitas Objektif"

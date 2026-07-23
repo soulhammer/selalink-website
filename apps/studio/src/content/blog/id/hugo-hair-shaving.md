@@ -5,7 +5,7 @@ pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
 tags: ["Memaksa Ko","Routine"]
-heroImage: "/images/blog/hugo_hair_shaving.png"
+heroImage: "/images/blog/hugo_hair_shaving.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Catatan biografi Victor Hugo & penelitian Psikologi Kognitif tentang batasan lingkungan dan perangkat komitmen"

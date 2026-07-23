@@ -5,7 +5,7 @@ pubDate: "2026-06-11"
 updatedDate: "2026-06-11"
 category: "BuildSelf"
 tags: ["Great Habits","erasmus","Routine","Stamina"]
-heroImage: "/images/blog/erasmus_notebook_travel.png"
+heroImage: "/images/blog/erasmus_notebook_travel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Erasmus, Praise of Folly preface / Alpha brainwaves and cognitive flexibility in motion studies"

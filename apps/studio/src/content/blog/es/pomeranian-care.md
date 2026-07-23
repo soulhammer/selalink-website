@@ -4,7 +4,7 @@ title: "Protección de articulaciones y vías respiratorias del Pomerania: rutin
 description: "Los Pomeranias son propensos a la luxación patelar y al colapso traqueal. Descubra consejos para prevenir lesiones articulares y aliviar problemas respiratorios."
 pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
-heroImage: "/images/blog/pomeranian_care.png"
+heroImage: "/images/blog/pomeranian_care.webp"
 authority: "Guía oficial de razas del American Pomeranian Club y manual veterinario de la AVMA"
 app: "petself"
 formatVersion: 4

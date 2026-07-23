@@ -5,7 +5,7 @@ pubDate: "2026-07-14"
 updatedDate: "2026-07-14"
 category: "BuildSelf"
 tags: ["위인 습관", "Routine"]
-heroImage: "/images/blog/klimt_gardening_nature_refresh.png"
+heroImage: "/images/blog/klimt_gardening_nature_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Tobias G. Natter 저서 'Gustav Klimt: The Complete Paintings' 및 클림트 아터제 서간집"

@@ -5,7 +5,7 @@ description: "公的安全基準に基づく豆腐の最適な保存温度、保
 pubDate: "2026-04-20"
 category: "FreshSnap"
 tags: ["豆腐","科学的に検証された保存ガイド","dairy"]
-heroImage: "/images/blog/tofu_storage_hack.png"
+heroImage: "/images/blog/tofu_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"

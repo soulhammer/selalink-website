@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["創造的な視覚の発見：","Routine"]
-heroImage: "/images/blog/saimdang_nature_observation.png"
+heroImage: "/images/blog/saimdang_nature_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "申師任堂の代表的な遺作『草虫図』の美術史的記録および注意回復理論（Attention Restoration Theory）に関する環境心理学研究"

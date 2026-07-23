@@ -5,7 +5,7 @@ description: "베르사유 궁전을 지배한 프랑스의 태양왕 루이 14�
 pubDate: "2026-04-11"
 category: "BuildSelf"
 tags: ["위인 습관", "루이14세", "타임블로킹", "시간관리", "집중력"]
-heroImage: "/images/blog/louis_time_blocking.png"
+heroImage: "/images/blog/louis_time_blocking.webp"
 app: "buildself"
 authority: "루이 14세 회고록 및 Journal of Consumer Research 학술지"
 updatedDate: "2026-04-11"

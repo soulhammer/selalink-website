@@ -4,7 +4,7 @@ title: "孟加拉猫能量释放指南与3阶段日常活力流程"
 description: "针对活泼且聪明的孟加拉猫（豹猫）护理。解读其高能量行为语言，并通过3阶段日常游戏消解其压力。"
 pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
-heroImage: "/images/blog/bengal_care.png"
+heroImage: "/images/blog/bengal_care.webp"
 authority: "国际猫协会 (TICA) 孟加拉猫品种标准与猫科行为医学指导原则"
 app: "petself"
 formatVersion: 4

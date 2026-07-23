@@ -5,7 +5,7 @@ pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
 tags: ["위인 습관", "Routine"]
-heroImage: "/images/blog/humboldt_nature_journaling.png"
+heroImage: "/images/blog/humboldt_nature_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Andrea Wulf 전기 'The Invention of Nature: Alexander von Humboldt's New World' 및 훔볼트 저서 'Cosmos'"

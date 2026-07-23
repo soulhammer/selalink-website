@@ -4,7 +4,7 @@ title: "Soin de l'Angora Turc (Surdité et Cœur) : Routine en 3 étapes pour ch
 description: "L'Angora Turc blanc aux yeux bleus ou vairons est sujet à la surdité congénitale et à la CMH. Découvrez comment communiquer et soigner son poil."
 pubDate: "2026-04-07"
 updatedDate: "2026-04-07"
-heroImage: "/images/blog/turkish_angora_care.png"
+heroImage: "/images/blog/turkish_angora_care.webp"
 authority: "Recommandations du CFA Turkish Angora Breed Council"
 app: "petself"
 formatVersion: 4

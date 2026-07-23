@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["专注于重要事务的力量","Routine"]
-heroImage: "/images/blog/eisenhower_matrix_decision.png"
+heroImage: "/images/blog/eisenhower_matrix_decision.webp"
 app: "buildself"
 formatVersion: 4
 authority: "艾森豪威尔总统演说录（1954年世界教协演说）考证及关于决策疲劳（Decision Fatigue）与前额叶资源分配的认知科学研究成果"

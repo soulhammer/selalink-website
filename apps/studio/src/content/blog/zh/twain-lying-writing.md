@@ -5,7 +5,7 @@ pubDate: "2026-05-20"
 updatedDate: "2026-05-20"
 category: "BuildSelf"
 tags: ["床外很危险？躺着写出","Routine"]
-heroImage: "/images/blog/twain_lying_writing.png"
+heroImage: "/images/blog/twain_lying_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "《马克·吐温自传》与学术期刊《Journal of Neurophysiology》"

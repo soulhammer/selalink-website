@@ -4,7 +4,7 @@ title: "Pflege für siamesische Angst und Aktivität: Eine 3-Schritte-Routine"
 description: "Siamesen sind sehr besitzerbezogen. Entdecken Sie Tipps zur emotionalen Bindung und eine aktive 3-Schritte-Spielroutine zur Stressbewältigung."
 pubDate: "2026-02-19"
 updatedDate: "2026-02-19"
-heroImage: "/images/blog/siamese_care.png"
+heroImage: "/images/blog/siamese_care.webp"
 authority: "Offizieller Leitfaden der Cat Fanciers' Association (CFA) & AAFP-Katzenverhaltensprotokolle"
 app: "petself"
 formatVersion: 4

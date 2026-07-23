@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["回荡在房间里的声音：","Routine"]
-heroImage: "/images/blog/dostoevsky_pacing_recitation.png"
+heroImage: "/images/blog/dostoevsky_pacing_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "妻子安娜的回忆录《与陀思妥耶夫斯基同行的日子》及慕尼黑大学(LMU)关于具身认知(Embodied Cognition)的研究"

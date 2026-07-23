@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Great Habits","rikyu","Routine","Stamina"]
-heroImage: "/images/blog/rikyu_garden_sweeping.png"
+heroImage: "/images/blog/rikyu_garden_sweeping.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical documents in Nanboroku & Research on Kinesthetic Meditation and Cognitive Control Network"

@@ -5,7 +5,7 @@ pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "BuildSelf"
 tags: ["自信を充電する朝の鏡","Routine"]
-heroImage: "/images/blog/ali_positive_affirmation.png"
+heroImage: "/images/blog/ali_positive_affirmation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "モハメド・アリ自伝「蝶のように舞い蜂のように刺す」および学術誌「Social Cognitive and Affective Neuroscience」"

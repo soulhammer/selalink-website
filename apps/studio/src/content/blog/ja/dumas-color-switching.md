@@ -5,7 +5,7 @@ pubDate: "2026-06-07"
 updatedDate: "2026-06-07"
 category: "BuildSelf"
 tags: ["原稿用紙の色をジャン","Routine"]
-heroImage: "/images/blog/dumas_color_switching.png"
+heroImage: "/images/blog/dumas_color_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アレクサンドル・デュマ回顧録「Mes Mémoires」および「Color Research and Application」学術研究資料"

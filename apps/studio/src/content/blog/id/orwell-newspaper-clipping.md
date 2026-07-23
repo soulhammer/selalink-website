@@ -5,7 +5,7 @@ pubDate: "2026-03-13"
 updatedDate: "2026-03-13"
 category: "BuildSelf"
 tags: ["Novelis ya","Routine"]
-heroImage: "/images/blog/orwell_newspaper_clipping.png"
+heroImage: "/images/blog/orwell_newspaper_clipping.webp"
 app: "buildself"
 formatVersion: 4
 authority: "George Orwell: A Life oleh Bernard Crick & Jurnal 'Journal of Cognitive Neuroscience'"

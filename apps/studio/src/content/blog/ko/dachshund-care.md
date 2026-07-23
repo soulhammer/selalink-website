@@ -4,7 +4,7 @@ title: "닥스훈트 허리 보호 가이드와 코어 근육 강화 3단계 루
 description: "허리가 길고 다리가 짧은 닥스훈트 케어법. 척추 이상 신호를 감지하고 3단계 일상 루틴으로 관절과 디스크를 보호하는 법을 알아봅니다."
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
-heroImage: "/images/blog/dachshund_care.png"
+heroImage: "/images/blog/dachshund_care.webp"
 authority: "미국 캔넬 클럽(AKC) 닥스훈트 건강 가이드 및 수의학 척추 연합 권고사항"
 app: "petself"
 formatVersion: 4

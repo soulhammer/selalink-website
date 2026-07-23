@@ -5,7 +5,7 @@ description: "지동설로 우주의 패러다임을 바꾼 코페르니쿠스�
 pubDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["위인 습관", "니콜라우스 코페르니쿠스", "집중", "계획", "생산성"]
-heroImage: "/images/blog/copernicus_observatory_tower.png"
+heroImage: "/images/blog/copernicus_observatory_tower.webp"
 app: "buildself"
 authority: "『천구의 회전에 관하여』 역사적 서문 고증 및 예일 대학교(Yale) 공간 인지(Spatial Cognition) 신경학 연구"
 updatedDate: "2026-05-07"

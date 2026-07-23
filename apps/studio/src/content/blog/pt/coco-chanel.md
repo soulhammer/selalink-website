@@ -5,7 +5,7 @@ pubDate: "2026-05-17"
 updatedDate: "2026-05-17"
 category: "BuildSelf"
 tags: ["O método d","Routine"]
-heroImage: "/images/blog/coco_chanel.png"
+heroImage: "/images/blog/coco_chanel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Edmonde Charles-Roux, *Chanel and Her World* (1975) & Cognitive Neuroscientific Studies"

@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["身穿睡衣步行15英里","Routine"]
-heroImage: "/images/blog/smith_contemplative_walking.png"
+heroImage: "/images/blog/smith_contemplative_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "约翰·雷著《亚当·斯密传》历史考证及斯坦福大学关于步行与创造性认知功能相关性的研究"

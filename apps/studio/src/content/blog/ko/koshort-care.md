@@ -4,7 +4,7 @@ title: "길들여지지 않는 본능? 코리안 숏헤어의 영역 관리와 �
 description: "강인한 사냥 본능을 지닌 코리안 숏헤어. 고양이 방광염 방지를 위한 올바른 음수량 보충 방법과 영역 안정감을 위한 3단계 데일리 교감 루틴을 다룹니다."
 pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
-heroImage: "/images/blog/koshort_care.png"
+heroImage: "/images/blog/koshort_care.webp"
 authority: "Cornell Feline Health Center 고양이 행동 백서 및 농촌진흥청 국립축산과학원 가이드"
 app: "petself"
 formatVersion: 4

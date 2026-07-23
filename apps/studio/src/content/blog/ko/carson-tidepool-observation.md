@@ -5,7 +5,7 @@ description: "현대 환경 운동의 선구자 레이첼 카슨. 화학 대기�
 pubDate: "2026-07-04"
 category: "BuildSelf"
 tags: ["위인 습관", "레이첼 카슨", "자연 관찰", "주의 회복", "인도어 디톡스"]
-heroImage: "/images/blog/carson_tidepool_observation.png"
+heroImage: "/images/blog/carson_tidepool_observation.webp"
 app: "buildself"
 authority: "레이첼 카슨 전기 'Rachel Carson: Witness for Nature' 및 Environmental Science & Technology 학술지"
 updatedDate: "2026-07-04"

@@ -4,7 +4,7 @@ title: "¿El Golden Retriever angelical? Una rutina saludable de 3 pasos para la
 description: "Golden Retriever amigable e inteligente. Descubra consejos para prevenir la displasia de cadera genéticamente vulnerable en perros grandes y una rutina diaria de 3 pasos."
 pubDate: "2026-05-28"
 updatedDate: "2026-05-30"
-heroImage: "/images/blog/golden_retriever_care.png"
+heroImage: "/images/blog/golden_retriever_care.webp"
 authority: "Guía oficial de razas del American Kennel Club (AKC) y protocolos de comportamiento de IAABC"
 app: "petself"
 formatVersion: 4

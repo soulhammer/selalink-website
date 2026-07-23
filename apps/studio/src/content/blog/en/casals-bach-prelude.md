@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Great Habits","casals","Routine","Stamina"]
-heroImage: "/images/blog/casals_bach_prelude.png"
+heroImage: "/images/blog/casals_bach_prelude.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Pablo Casals's autobiography 'Joys and Sorrows' and neuroaesthetics research on prefrontal alpha wave induction via music"

@@ -5,7 +5,7 @@ pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
 tags: ["Reset Mala","Routine"]
-heroImage: "/images/blog/schweitzer_night_organ.png"
+heroImage: "/images/blog/schweitzer_night_organ.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi 'Out of My Life and Thought' & Jurnal Journal of Music Therapy"

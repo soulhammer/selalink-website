@@ -5,7 +5,7 @@ description: "일본 다도(茶道)의 거장 센노 리큐가 정원을 쓸어�
 pubDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["위인 습관", "센노 리큐", "정원 청소", "동적 명상", "인지 노이즈", "마음챙김"]
-heroImage: "/images/blog/rikyu_garden_sweeping.png"
+heroImage: "/images/blog/rikyu_garden_sweeping.webp"
 app: "buildself"
 authority: "다도 고전 문헌 『남방록(南方録)』 기록 및 가벼운 반복 신체 활동의 경도 움직임 명상(Kinesthetic Meditation)과 인지 통제 네트워크 활성화 연구"
 updatedDate: "2026-06-12"

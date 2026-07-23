@@ -4,7 +4,7 @@ title: "The Feisty Maltese? A 3-Step Protective Routine for Joint and Eye Care"
 description: "Maltese, the most beloved dog. Discover tips to prevent genetically vulnerable patellar luxation and a 3-step daily routine for tear stain management."
 pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
-heroImage: "/images/blog/maltese_care.png"
+heroImage: "/images/blog/maltese_care.webp"
 authority: "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral Protocols"
 app: "petself"
 formatVersion: 4

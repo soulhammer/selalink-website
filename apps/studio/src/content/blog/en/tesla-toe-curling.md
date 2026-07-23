@@ -4,7 +4,7 @@ description: "Nikola Tesla, the genius inventor who curled his toes every night 
 pubDate: "2026-04-28"
 category: "BuildSelf"
 tags: ["Great Habits","tesla","Routine","Stamina"]
-heroImage: "/images/blog/tesla_toe_curling.png"
+heroImage: "/images/blog/tesla_toe_curling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Nikola Tesla's Autobiography 'My Inventions' & Journal of Physical Therapy Science (JPTS)"

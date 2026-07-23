@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["魂の調律：パブロ・カ","Routine"]
-heroImage: "/images/blog/casals_bach_prelude.png"
+heroImage: "/images/blog/casals_bach_prelude.webp"
 app: "buildself"
 formatVersion: 4
 authority: "パブロ・カザルス自伝『喜びと悲しみ』考証および音楽療法に基づく前頭葉アルファ波誘導の研究"

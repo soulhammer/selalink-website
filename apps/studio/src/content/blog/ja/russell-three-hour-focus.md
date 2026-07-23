@@ -5,7 +5,7 @@ pubDate: "2026-04-02"
 updatedDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["一日たった三時間だけ","Routine"]
-heroImage: "/images/blog/russell_three_hour_focus.png"
+heroImage: "/images/blog/russell_three_hour_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ラッセル自伝「The Autobiography of Bertrand Russell」およびディープワーク（Deep Work）認知科学研究"

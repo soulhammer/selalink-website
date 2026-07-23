@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["Great Habits","fermi","Routine","Stamina"]
-heroImage: "/images/blog/fermi_dawn_calculation_routine.png"
+heroImage: "/images/blog/fermi_dawn_calculation_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Emilio Segrè's Enrico Fermi: Physicist and Cognitive Science Studies on Cortisol Awakening Response (CAR) and Morning Peak Cognitive Stamina"

@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["诺贝尔奖作家书桌上的","Routine"]
-heroImage: "/images/blog/marquez_yellow_rose.png"
+heroImage: "/images/blog/marquez_yellow_rose.webp"
 app: "buildself"
 formatVersion: 4
 authority: "马尔克斯官方传记及纽约大学(NYU)关于认知融合神经学的研究"

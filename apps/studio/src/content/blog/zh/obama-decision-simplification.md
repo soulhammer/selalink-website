@@ -5,7 +5,7 @@ pubDate: "2026-01-06"
 updatedDate: "2026-01-06"
 category: "BuildSelf"
 tags: ["做出成功抉择的秘诀？","Routine"]
-heroImage: "/images/blog/obama_decision_simplification.png"
+heroImage: "/images/blog/obama_decision_simplification.webp"
 app: "buildself"
 formatVersion: 4
 authority: "罗意·鲍迈斯特教授的决策疲劳理论与《名利场》奥巴马总统专访"

@@ -5,7 +5,7 @@ pubDate: "2026-01-04"
 updatedDate: "2026-01-04"
 category: "BuildSelf"
 tags: ["Jalan Pagi","Routine"]
-heroImage: "/images/blog/bacon_nature_observation.png"
+heroImage: "/images/blog/bacon_nature_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "John Aubrey, Brief Lives / Studi psikologi lingkungan tentang Attention Restoration Theory (ART) lewat stimulus alam"

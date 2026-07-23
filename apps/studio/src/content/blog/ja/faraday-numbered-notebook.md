@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["16,000の番号：","Routine"]
-heroImage: "/images/blog/faraday_numbered_notebook.png"
+heroImage: "/images/blog/faraday_numbered_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "英国王立研究所保存『Faraday's Diary』親筆日誌考証および認知科学ジャーナル（Cognitive Science）知識外在化と認知負荷研究"

@@ -5,7 +5,7 @@ pubDate: "2026-03-06"
 updatedDate: "2026-03-06"
 category: "BuildSelf"
 tags: ["裸足で歩きながら質問","Routine"]
-heroImage: "/images/blog/socrates_walking_dialogue.png"
+heroImage: "/images/blog/socrates_walking_dialogue.webp"
 app: "buildself"
 formatVersion: 4
 authority: "プラトン 著『対話篇』＆ スタンフォード大学のクリエイティブ思考と歩行に関する研究(2014)"

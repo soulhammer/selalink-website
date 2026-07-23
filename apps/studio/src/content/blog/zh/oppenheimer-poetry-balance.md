@@ -5,7 +5,7 @@ pubDate: "2026-03-08"
 updatedDate: "2026-03-08"
 category: "BuildSelf"
 tags: ["量子物理学家的解压秘","Routine"]
-heroImage: "/images/blog/oppenheimer_poetry_balance.png"
+heroImage: "/images/blog/oppenheimer_poetry_balance.webp"
 app: "buildself"
 formatVersion: 4
 authority: "传记《American Prometheus》与美国国会图书馆史料"

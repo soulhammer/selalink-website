@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Não saia d","Routine"]
-heroImage: "/images/blog/voltaire_bed_writing.png"
+heroImage: "/images/blog/voltaire_bed_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Memórias do secretário de Voltaire, Wagnière, e revista Frontiers in Human Neuroscience"

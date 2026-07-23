@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["30 Minuten","Routine"]
-heroImage: "/images/blog/bezos_six_page_memo.png"
+heroImage: "/images/blog/bezos_six_page_memo.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Amazon-Aktionärsbriefe und Forschung zur Entscheidungsfindung der Harvard Business Review (HBR)"

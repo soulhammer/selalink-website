@@ -4,7 +4,7 @@ title: "O problema genético por trás da fofura: Cuidado de 3 passos para as ar
 description: "Scottish Folds, famosos por orelhas dobradas. São propensos a dor articular genética e infecções de ouvido. Descubra uma rotina de 3 passos para articulações e orelhas."
 pubDate: "2026-02-10"
 updatedDate: "2026-02-12"
-heroImage: "/images/blog/scottish_fold_care.png"
+heroImage: "/images/blog/scottish_fold_care.webp"
 authority: "Protocolo de cartilagem hereditária da ISFM (International Society of Feline Medicine) e diretrizes do GCCF"
 app: "petself"
 formatVersion: 4

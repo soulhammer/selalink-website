@@ -5,7 +5,7 @@ pubDate: "2026-05-29"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Jenius yan","Routine"]
-heroImage: "/images/blog/da_vinci_notepad.png"
+heroImage: "/images/blog/da_vinci_notepad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Buku Walter Isaacson 'Leonardo da Vinci' & Penelitian Journal of Educational Psychology"

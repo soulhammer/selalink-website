@@ -5,7 +5,7 @@ pubDate: "2026-05-29"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["¿El genio ","Routine"]
-heroImage: "/images/blog/da_vinci_notepad.png"
+heroImage: "/images/blog/da_vinci_notepad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Obra de Walter Isaacson 'Leonardo da Vinci' y estudio del Journal of Educational Psychology"

@@ -4,7 +4,7 @@ description: "Learn the best storage temperature, methods, and duration for Wate
 pubDate: "2026-06-09"
 category: "FreshSnap"
 tags: ["Watermelon","Scientifically Proven Storage Guide","fruit"]
-heroImage: "/images/blog/watermelon_storage_hack.png"
+heroImage: "/images/blog/watermelon_storage_hack.webp"
 app: "freshsnap"
 authority: "<strong>KCA & MFDS</strong>"
 steps:
@@ -51,7 +51,7 @@ Understanding the unique characteristics of each ingredient and following the pr
     Covering a cut watermelon directly with plastic wrap creates a humid seal that causes bacteria to multiply thousands of times over, increasing the risk of food poisoning. Never store cut watermelon with just plastic wrap.
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/watermelon_storage_detail.png" alt="Never cover with plastic wrap directly — Prevent food poisoning ❌🍉" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/watermelon_storage_detail.webp" alt="Never cover with plastic wrap directly — Prevent food poisoning ❌🍉" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

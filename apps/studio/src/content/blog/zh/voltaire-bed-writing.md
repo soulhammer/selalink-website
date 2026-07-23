@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["别起床：启蒙主义大师","Routine"]
-heroImage: "/images/blog/voltaire_bed_writing.png"
+heroImage: "/images/blog/voltaire_bed_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "伏尔泰秘书瓦尼埃的备忘录与学术期刊《Frontiers in Human Neuroscience》"

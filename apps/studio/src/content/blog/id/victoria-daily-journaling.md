@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Beban Keka","Routine"]
-heroImage: "/images/blog/victoria_daily_journaling.png"
+heroImage: "/images/blog/victoria_daily_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Dokumen Buku Harian Ratu Victoria (Royal Archives) dan Penelitian Profesor James Pennebaker tentang Menulis Ekspresif"

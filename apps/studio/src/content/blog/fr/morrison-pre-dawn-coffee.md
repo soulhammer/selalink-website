@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["Le rituel ","Routine"]
-heroImage: "/images/blog/morrison_pre_dawn_coffee.png"
+heroImage: "/images/blog/morrison_pre_dawn_coffee.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Entretien avec Toni Morrison et Journal of Circadian Rhythms par The Paris Review"

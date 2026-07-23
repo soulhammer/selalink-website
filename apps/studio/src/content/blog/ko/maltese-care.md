@@ -4,7 +4,7 @@ title: "참지 않는 말티즈? 슬개골과 눈가 건강을 위한 3단계 �
 description: "한국인들이 가장 사랑하는 강아지 말티즈. 유전적으로 취약한 슬개골 탈구 방지 팁과 눈가 눈물자국 관리를 위한 3단계 데일리 교감 루틴을 소개합니다."
 pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
-heroImage: "/images/blog/maltese_care.png"
+heroImage: "/images/blog/maltese_care.webp"
 authority: "American Kennel Club (AKC) 공식 견종 가이드 및 IAABC 행동학 프로토콜"
 app: "petself"
 formatVersion: 4

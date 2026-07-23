@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Dezisionsm","Routine"]
-heroImage: "/images/blog/schulz_routine_hamburger.png"
+heroImage: "/images/blog/schulz_routine_hamburger.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Offizielle Biografie ‚Schulz and Peanuts‘ und psychologische Forschung zur Ego-Depletion zur Vermeidung von Dezisionsmüdigkeit"

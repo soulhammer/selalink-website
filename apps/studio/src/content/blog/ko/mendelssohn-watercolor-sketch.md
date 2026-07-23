@@ -5,7 +5,7 @@ description: "천재 작곡가 멘델스존은 매일 아침 풍경을 수채화
 pubDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/mendelssohn_watercolor_sketch.png"
+heroImage: "/images/blog/mendelssohn_watercolor_sketch.webp"
 app: "buildself"
 authority: "멘델스존 전기 'Mendelssohn: A Life in Music' 및 Scientific Reports 논문 자료"
 updatedDate: "2026-01-20"

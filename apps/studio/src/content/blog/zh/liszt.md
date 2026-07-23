@@ -5,7 +5,7 @@ pubDate: "2026-04-14"
 updatedDate: "2026-04-14"
 category: "BuildSelf"
 tags: ["李斯特的小脑学习法，","Routine"]
-heroImage: "/images/blog/liszt.png"
+heroImage: "/images/blog/liszt.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Alan Walker, *Franz Liszt: The Virtuoso Years* (1983) & Cognitive Neuroscientific Studies"

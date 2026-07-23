@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Der Millia","Routine"]
-heroImage: "/images/blog/carnegie_priority_first.png"
+heroImage: "/images/blog/carnegie_priority_first.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Carnegies Autobiografie 'Autobiography of Andrew Carnegie' & psychologische Studien zur Erschöpfung des Egos"

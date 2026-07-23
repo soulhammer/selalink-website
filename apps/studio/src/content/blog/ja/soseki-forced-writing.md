@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["スランプに打ち勝つ強","Routine"]
-heroImage: "/images/blog/soseki_forced_writing.png"
+heroImage: "/images/blog/soseki_forced_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "夏目漱石の書簡および門弟たちの回想録、並びにエミール・クレペリンの作業興奮（Arbeitsbereitschaft）理論"

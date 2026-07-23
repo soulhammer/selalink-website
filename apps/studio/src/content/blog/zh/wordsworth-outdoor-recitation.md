@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["漫步山路大声朗诵诗歌","Routine"]
-heroImage: "/images/blog/wordsworth_outdoor_recitation.png"
+heroImage: "/images/blog/wordsworth_outdoor_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "戴维斯《威廉·华兹华斯传》与《认知脑研究(Cognitive Brain Research)》期刊"

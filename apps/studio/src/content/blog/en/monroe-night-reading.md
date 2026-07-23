@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Great Habits","monroe","Routine","Stamina"]
-heroImage: "/images/blog/monroe_night_reading.png"
+heroImage: "/images/blog/monroe_night_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Marilyn Monroe's poems and letters 'Fragments' and University of Sussex Cognitive Research on Bibliotherapy for Stress Reduction"

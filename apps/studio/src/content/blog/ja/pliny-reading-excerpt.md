@@ -5,7 +5,7 @@ pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
 tags: ["大プリニウスの絶え間","Routine"]
-heroImage: "/images/blog/pliny_reading_excerpt.png"
+heroImage: "/images/blog/pliny_reading_excerpt.webp"
 app: "buildself"
 formatVersion: 4
 authority: "小プリニウス『書簡集』(Epistulae III.5) / 網様体賦活系(RAS)刺激および筆記と記憶力の関連性に関する認知心理学研究"

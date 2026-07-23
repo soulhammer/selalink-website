@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["A vibração","Routine"]
-heroImage: "/images/blog/luther_lute_meditation.png"
+heroImage: "/images/blog/luther_lute_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autenticação dos escritos de Lutero 'Luther's Works, Vol. 49' e pesquisas da Harvard Medical School sobre a musicoterapia e o sistema autónomo"

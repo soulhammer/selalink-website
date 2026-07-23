@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["咖啡馆噪音中的哲学？","Routine"]
-heroImage: "/images/blog/sartre_cafe_writing.png"
+heroImage: "/images/blog/sartre_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "萨特传记《Sartre: A Life》与工作环境心理学学术期刊研究成果"

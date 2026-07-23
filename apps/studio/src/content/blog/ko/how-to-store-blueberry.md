@@ -6,7 +6,7 @@ pubDate: "2026-03-29"
 updatedDate: "2026-03-29"
 category: "FreshSnap"
 tags: ["블루베리","과학적으로 검증된 보관 가이드","fruit"]
-heroImage: "/images/blog/blueberry_storage_hack.png"
+heroImage: "/images/blog/blueberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & FDA</strong>"

@@ -5,7 +5,7 @@ description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit f√
 pubDate: "2026-06-25"
 category: "FreshSnap"
 tags: ["Erdbeere","Wissenschaftlich gepr√ºfter Lagerungsratgeber","fruit"]
-heroImage: "/images/blog/strawberry_storage_hack.png"
+heroImage: "/images/blog/strawberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"

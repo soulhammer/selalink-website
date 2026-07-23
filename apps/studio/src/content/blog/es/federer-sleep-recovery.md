@@ -5,7 +5,7 @@ pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
 tags: ["¿El empera","Routine"]
-heroImage: "/images/blog/federer_sleep_recovery.png"
+heroImage: "/images/blog/federer_sleep_recovery.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía de Christopher Clarey 'The Master' y estudio de Nature Neuroscience"

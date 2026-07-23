@@ -4,7 +4,7 @@ title: "Le plus petit guerrier du monde : Routine en 3 étapes pour la protectio
 description: "Le Chihuahua, le plus petit guerrier. Découvrez comment protéger son crâne (fontanelle ouverte) et une routine en 3 étapes pour éviter l'hypoglycémie."
 pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
-heroImage: "/images/blog/chihuahua_care.png"
+heroImage: "/images/blog/chihuahua_care.webp"
 authority: "Manuel de race du Chihuahua Club of America et directives pour les soins métaboliques des races toy de l'AVMA"
 app: "petself"
 formatVersion: 4

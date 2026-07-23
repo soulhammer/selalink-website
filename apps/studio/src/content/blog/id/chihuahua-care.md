@@ -4,7 +4,7 @@ title: "Prajurit Terkecil di Dunia: Perlindungan Molera dan Perawatan Hipoglikem
 description: "Chihuahua, anjing berani terkecil. Temukan tips melindungi fontanela tengkorak terbuka (molera) mereka dan rutinitas 3 langkah untuk mencegah hipoglikemia."
 pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
-heroImage: "/images/blog/chihuahua_care.png"
+heroImage: "/images/blog/chihuahua_care.webp"
 authority: "Panduan Ras Resmi Chihuahua Club of America & Pedoman Perawatan Metabolik Ras Kecil AVMA"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Conclua 10","Routine"]
-heroImage: "/images/blog/hitchcock_storyboard_visualization.png"
+heroImage: "/images/blog/hitchcock_storyboard_visualization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia de Alfred Hitchcock 'Alfred Hitchcock: A Life in Darkness and Light' & pesquisa em ciência cognitiva sobre simulação mental"

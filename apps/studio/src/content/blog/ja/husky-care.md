@@ -4,7 +4,7 @@ title: "そり犬の燃えるエネルギー、シベリアンハスキーの二
 description: "シベリアの酷寒に耐えるそり犬シベリアンハスキー。夏の暑さ対策と、爆発的な活動量を満たして遠吠えや家具の破壊を防ぐ3段階ホームケアを紹介します。"
 pubDate: "2026-03-29"
 updatedDate: "2026-03-30"
-heroImage: "/images/blog/husky_care.png"
+heroImage: "/images/blog/husky_care.webp"
 authority: "シベリアンハスキークラブオブアメリカ公式ガイド＆IAABC作業犬活動プロトコル"
 app: "petself"
 formatVersion: 4

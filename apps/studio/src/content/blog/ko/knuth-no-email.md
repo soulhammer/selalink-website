@@ -5,7 +5,7 @@ description: "1990년부터 이메일을 완전히 중단하고 오직 종이 �
 pubDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["위인 습관", "도널드 너스", "집중", "생산성", "시간 관리"]
-heroImage: "/images/blog/knuth_no_email.png"
+heroImage: "/images/blog/knuth_no_email.webp"
 app: "buildself"
 authority: "도널드 너스 스탠퍼드대 공식 홈페이지 성명서 고증 및 칼 뉴포트의 『딥 워크(Deep Work)』 주의 전환 비용(Switching Cost) 예방 연구"
 updatedDate: "2026-05-07"

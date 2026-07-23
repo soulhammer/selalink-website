@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["Le cerveau","Routine"]
-heroImage: "/images/blog/rilke_standing_writing.png"
+heroImage: "/images/blog/rilke_standing_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Recueil de lettres de Rilke 'Lettres à un jeune poète' & recherche en sciences cognitives sur le flux sanguin préfrontal en position debout"

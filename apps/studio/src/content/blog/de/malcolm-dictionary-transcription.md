@@ -5,7 +5,7 @@ pubDate: "2026-07-03"
 updatedDate: "2026-07-03"
 category: "BuildSelf"
 tags: ["Das ganze ","Routine"]
-heroImage: "/images/blog/malcolm_dictionary_transcription.png"
+heroImage: "/images/blog/malcolm_dictionary_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Die Autobiografie von Malcolm X & Fachzeitschrift Frontiers in Psychology"

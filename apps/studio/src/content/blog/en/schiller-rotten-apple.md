@@ -5,7 +5,7 @@ pubDate: "2026-05-05"
 updatedDate: "2026-05-05"
 category: "BuildSelf"
 tags: ["Great Habits","schiller","Routine","Stamina"]
-heroImage: "/images/blog/schiller_rotten_apple.png"
+heroImage: "/images/blog/schiller_rotten_apple.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Johann Peter Eckermann's 'Conversations with Goethe' & 'Chemical Senses' Research Study"

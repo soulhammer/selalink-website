@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["O caderno ","Routine"]
-heroImage: "/images/blog/leibniz_universal_notebook.png"
+heroImage: "/images/blog/leibniz_universal_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "A biografia de Maria Rosa Antognazza 'Leibniz: An Intellectual Biography' e pesquisa cognitiva sobre redes semânticas e potenciação a longo prazo (LTP)"

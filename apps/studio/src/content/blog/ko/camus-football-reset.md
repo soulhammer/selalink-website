@@ -5,7 +5,7 @@ description: "프랑스의 노벨 문학상 작가이자 철학자 알베르 카
 pubDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/camus_football_reset.png"
+heroImage: "/images/blog/camus_football_reset.webp"
 app: "buildself"
 authority: "카뮈 평전 'Albert Camus' 및 신경생리학 저널 뇌 피로 회복 학술 자료"
 updatedDate: "2026-06-21"

@@ -5,7 +5,7 @@ pubDate: "2026-03-07"
 updatedDate: "2026-03-07"
 category: "BuildSelf"
 tags: ["¿Echar la ","Routine"]
-heroImage: "/images/blog/dali_spoon_nap.png"
+heroImage: "/images/blog/dali_spoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografía de Salvador Dalí 'La vida secreta de Salvador Dalí' y Journal of Frontiers in Human Neuroscience"

@@ -5,7 +5,7 @@ pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
 tags: ["建国のストレスを洗い","Routine"]
-heroImage: "/images/blog/lee_kuanyew_treadmill.png"
+heroImage: "/images/blog/lee_kuanyew_treadmill.webp"
 app: "buildself"
 formatVersion: 4
 authority: "リー・クアンユー回顧録「The Singapore Story」およびシンガポール国立公文書館記録史料"

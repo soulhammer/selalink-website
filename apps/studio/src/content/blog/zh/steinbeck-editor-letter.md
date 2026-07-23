@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["消除开始的恐惧：斯坦","Routine"]
-heroImage: "/images/blog/steinbeck_editor_letter.png"
+heroImage: "/images/blog/steinbeck_editor_letter.webp"
 app: "buildself"
 formatVersion: 4
 authority: "约翰·斯坦贝克书信集《Journal of a Novel》历史考证及《认知心理学》(Cognitive Psychology)关于完美主义与拖延行为(Procrastination)克服的研究"

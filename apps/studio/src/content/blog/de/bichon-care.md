@@ -4,7 +4,7 @@ title: "Bichon Frise Lockenfellpflege: 3-Schritte-Routine zum Entwirren und Umga
 description: "Bekannt für seinen weißen Puderquasten-Look ist der Bichon Frise sehr freundlich. Erfahren Sie, wie Sie das lockige Fell pflegen und sicher mit Energieausbrüchen umgehen."
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
-heroImage: "/images/blog/bichon_care.png"
+heroImage: "/images/blog/bichon_care.webp"
 authority: "Richtlinien des Bichon Frise Club of America und AVMA-Gesundheitsleitlinien"
 app: "petself"
 formatVersion: 4

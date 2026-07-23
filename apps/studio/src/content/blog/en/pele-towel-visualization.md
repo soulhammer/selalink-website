@@ -5,7 +5,7 @@ pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
 category: "BuildSelf"
 tags: ["Great Habits","pele","Routine","Stamina"]
-heroImage: "/images/blog/pele_towel_visualization.png"
+heroImage: "/images/blog/pele_towel_visualization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Pele's Autobiography 'My Life and the Beautiful Game' & FIFA Official Documentary Materials"

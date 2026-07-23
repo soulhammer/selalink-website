@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["認知エラーをゼロにす","Routine"]
-heroImage: "/images/blog/lindbergh_meticulous_checklist.png"
+heroImage: "/images/blog/lindbergh_meticulous_checklist.webp"
 app: "buildself"
 formatVersion: 4
 authority: "リンドバーグの回想録「セントルイスの精神」とヒューマンファクタージャーナル"

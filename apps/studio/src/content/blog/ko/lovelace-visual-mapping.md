@@ -5,7 +5,7 @@ description: "세계 최초의 프로그래머 에이다 러브레이스. 복잡
 pubDate: "2026-02-01"
 category: "BuildSelf"
 tags: ["위인 습관", "에이다 러브레이스", "공부", "창의성", "알고리즘"]
-heroImage: "/images/blog/lovelace_visual_mapping.png"
+heroImage: "/images/blog/lovelace_visual_mapping.webp"
 app: "buildself"
 authority: "러브레이스 전기 'Ada's Algorithm' 및 이중 부호화 이론에 관한 교육 심리학 연구"
 updatedDate: "2026-02-01"

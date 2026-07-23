@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["オフライン没頭：ドナ","Routine"]
-heroImage: "/images/blog/knuth_no_email.png"
+heroImage: "/images/blog/knuth_no_email.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ドナルド・クヌース公式宣言「Eメールと私（Knuth: Email）」考証およびマルチタスクと注意残留（Attention Residue）が作業記憶容量に及ぼす影響の研究"

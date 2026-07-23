@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["快速恢复专注：拿破仑","Routine"]
-heroImage: "/images/blog/napoleon_micro_nap.png"
+heroImage: "/images/blog/napoleon_micro_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "拿破仑回忆录及关于非快速眼动睡眠与认知警觉性恢复的睡眠科学研究"

@@ -5,7 +5,7 @@ description: "미니멀리즘 디자인의 전설 디터 람스. 매일 아침 �
 pubDate: "2026-05-20"
 category: "BuildSelf"
 tags: ["위인 습관", "디터 람스", "집중", "사색", "미니멀리즘"]
-heroImage: "/images/blog/rams_morning_swim.png"
+heroImage: "/images/blog/rams_morning_swim.webp"
 app: "buildself"
 authority: "디터 람스 디자인 전기 'As Little Design as Possible' 및 주의력 회복 이론(ART) 연구"
 updatedDate: "2026-05-20"

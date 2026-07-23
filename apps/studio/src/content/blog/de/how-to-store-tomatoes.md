@@ -5,7 +5,7 @@ description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit f√
 pubDate: "2026-03-24"
 category: "FreshSnap"
 tags: ["Tomate","Wissenschaftlich gepr√ºfter Lagerungsratgeber","fruit"]
-heroImage: "/images/blog/tomato_storage_hack.png"
+heroImage: "/images/blog/tomato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & CDC</strong>"

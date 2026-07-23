@@ -4,7 +4,7 @@ title: "Bearded Dragon Basking Guide and 3-Step Calcium-UVB Daily Routine"
 description: "Caring for the docile Bearded Dragon lizard. Learn how to interpret territorial head bobbing and prevent Metabolic Bone Disease (MBD) with a 3-step lighting and calcium routine."
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
-heroImage: "/images/blog/bearded_dragon_care.png"
+heroImage: "/images/blog/bearded_dragon_care.webp"
 authority: "Association of Reptilian and Amphibian Veterinarians (ARAV) Husbandry Guidelines and herpetological standards"
 app: "petself"
 formatVersion: 4

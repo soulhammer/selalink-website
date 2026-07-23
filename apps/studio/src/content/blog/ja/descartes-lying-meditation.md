@@ -5,7 +5,7 @@ pubDate: "2026-01-25"
 updatedDate: "2026-01-25"
 category: "BuildSelf"
 tags: ["昼までベッドから出な","Routine"]
-heroImage: "/images/blog/descartes_lying_meditation.png"
+heroImage: "/images/blog/descartes_lying_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "デカルト伝記「La Vie de Monsieur Descartes」および学術誌「Psychophysiology」"

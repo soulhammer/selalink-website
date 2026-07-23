@@ -5,7 +5,7 @@ pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "BuildSelf"
 tags: ["위인 습관", "Routine"]
-heroImage: "/images/blog/ramanujan_dream_notebook.png"
+heroImage: "/images/blog/ramanujan_dream_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Robert Kanigel 전기 'The Man Who Knew Infinity' 및 G. H. Hardy 회고록 'Ramanujan: Essays on His Life and Work'"

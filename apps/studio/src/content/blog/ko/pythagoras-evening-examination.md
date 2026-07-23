@@ -5,7 +5,7 @@ description: "매일 밤 잠들기 전 하루 동안의 말과 행동을 세 번
 pubDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["성찰", "사색", "휴식"]
-heroImage: "/images/blog/pythagoras_evening_examination.png"
+heroImage: "/images/blog/pythagoras_evening_examination.webp"
 app: "buildself"
 authority: "피타고라스 학파 행동 지침서 『황금률(Golden Verses)』 역사적 기록 및 하버드 의과대학 수면 의학과의 수면 중 기억 고정(Memory Consolidation) 신경학 연구 결과"
 updatedDate: "2026-04-06"

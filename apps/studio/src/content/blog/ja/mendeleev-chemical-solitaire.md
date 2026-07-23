@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["元素のカード遊び：メ","Routine"]
-heroImage: "/images/blog/mendeleev_chemical_solitaire.png"
+heroImage: "/images/blog/mendeleev_chemical_solitaire.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ロシア化学学会アーカイブ・メンデレーエフ手帳考証および認知研究ジャーナル（Cognitive Research）空間操作記憶活性化研究"

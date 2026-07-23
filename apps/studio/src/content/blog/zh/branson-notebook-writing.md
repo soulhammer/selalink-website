@@ -5,7 +5,7 @@ pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
 category: "BuildSelf"
 tags: ["牛仔裤后口袋里的亿万","Routine"]
-heroImage: "/images/blog/branson_notebook_writing.png"
+heroImage: "/images/blog/branson_notebook_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "理查德·布兰森自传《Losing My Virginity》与维珍集团档案馆"

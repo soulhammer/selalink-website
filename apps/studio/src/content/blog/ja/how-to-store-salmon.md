@@ -5,7 +5,7 @@ description: "公的安全基準に基づく鮭の最適な保存温度、保管
 pubDate: "2026-05-02"
 category: "FreshSnap"
 tags: ["鮭","科学的に検証された保存ガイド","seafood"]
-heroImage: "/images/blog/salmon_storage_hack.png"
+heroImage: "/images/blog/salmon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>米国食品医薬品局(FDA) & 米国農務省(USDA)</strong>"

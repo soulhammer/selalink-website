@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/teresa_silent_contemplation.png"
+heroImage: "/images/blog/teresa_silent_contemplation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "마더 테레사 사후 서한집 'Come Be My Light' 및 JAMA Psychiatry 학술지"

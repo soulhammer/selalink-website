@@ -5,7 +5,7 @@ pubDate: "2026-07-02"
 updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["富兰克林·D·罗斯福","Routine"]
-heroImage: "/images/blog/fdr_stamp_collecting.png"
+heroImage: "/images/blog/fdr_stamp_collecting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "罗斯福总统图书馆与博物馆记录"

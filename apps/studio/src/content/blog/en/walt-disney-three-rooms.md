@@ -5,7 +5,7 @@ pubDate: "2026-04-16"
 updatedDate: "2026-04-16"
 category: "BuildSelf"
 tags: ["Great Habits","walt","Routine","Stamina"]
-heroImage: "/images/blog/walt_disney_three_rooms.png"
+heroImage: "/images/blog/walt_disney_three_rooms.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Robert Dilts' Strategies of Genius"

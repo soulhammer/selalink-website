@@ -4,7 +4,7 @@ description: "사과가 금방 퍼석퍼석해지고 다른 과일을 망쳤나�
 pubDate: "2026-03-11"
 category: "FreshSnap"
 tags: ["사과 보관법", "과일 보관", "식재료 팁", "에틸렌 가스", "살림 꿀팁"]
-heroImage: "/images/blog/apple_storage_hack.png"
+heroImage: "/images/blog/apple_storage_hack.webp"
 app: "freshsnap"
 authority: "<strong>농촌진흥청(RDA) 및 미국 농무부(USDA) 및 식품의약품안전처(MFDS)</strong>"
 faqs:
@@ -67,7 +67,7 @@ formatVersion: 4
     💡 <strong>보관 팁</strong>: 수확 및 포장 상태 그대로 물을 묻히지 않은 사과를 식품용 랩(또는 위생 비닐봉지)으로 한 알씩 빈틈없이 꽁꽁 감싸주세요. 이렇게 하면 사과 자체의 수분이 가두어져 오랫동안 아삭아삭한 식감을 유지할 수 있고, 자체 방출되는 에틸렌 가스가 외부로 누출되는 것도 1차적으로 차단할 수 있습니다.
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/apple_storage_detail.png" alt="사과 랩 개별 포장법 일러스트" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/apple_storage_detail.webp" alt="사과 랩 개별 포장법 일러스트" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

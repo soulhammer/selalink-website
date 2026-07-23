@@ -5,7 +5,7 @@ pubDate: "2026-04-13"
 updatedDate: "2026-04-13"
 category: "BuildSelf"
 tags: ["Great Habits","gaudi","Routine","Stamina"]
-heroImage: "/images/blog/gaudi_nature_walk.png"
+heroImage: "/images/blog/gaudi_nature_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Gaudí's Biography 'Gaudí: A Biography' & Stanford University Cognitive Science Walking Studies"

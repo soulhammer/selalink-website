@@ -5,7 +5,7 @@ pubDate: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "BuildSelf"
 tags: ["Metode Hes","Routine"]
-heroImage: "/images/blog/hesse.png"
+heroImage: "/images/blog/hesse.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Hermann Hesse, *Bilderbuch des Gärtners (The Joy of Gardening)* (1957) & Studi Ilmu Saraf Kognitif"

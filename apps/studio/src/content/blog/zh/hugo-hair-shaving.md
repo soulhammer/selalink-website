@@ -5,7 +5,7 @@ pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
 tags: ["通过自我隔离强迫专注","Routine"]
-heroImage: "/images/blog/hugo_hair_shaving.png"
+heroImage: "/images/blog/hugo_hair_shaving.webp"
 app: "buildself"
 formatVersion: 4
 authority: "维克多·雨果的传记记录及关于环境约束与承诺装置的认知心理学研究"

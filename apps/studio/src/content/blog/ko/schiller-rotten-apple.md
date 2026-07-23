@@ -5,7 +5,7 @@ pubDate: "2026-05-05"
 updatedDate: "2026-05-05"
 category: "BuildSelf"
 tags: ["서랍 속 썩은 사과","Routine"]
-heroImage: "/images/blog/schiller_rotten_apple.png"
+heroImage: "/images/blog/schiller_rotten_apple.webp"
 app: "buildself"
 formatVersion: 4
 authority: "요한 페터 에커만의 '괴테와의 대화' 및 화학적 감각(Chemical Senses) 학술 연구"

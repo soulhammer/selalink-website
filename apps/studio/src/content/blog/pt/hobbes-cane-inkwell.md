@@ -5,7 +5,7 @@ pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
 tags: ["O filósofo","Routine"]
-heroImage: "/images/blog/hobbes_cane_inkwell.png"
+heroImage: "/images/blog/hobbes_cane_inkwell.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Registros biográficos de Brief Lives de John Aubrey & teoria cognitiva Supersizing the Mind"

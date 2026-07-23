@@ -4,7 +4,7 @@ title: "Cuidados com a ansiedade e atividade do Siamês: rotina de 3 passos"
 description: "Os gatos siameses dependem muito de seus donos. Descubra dicas para fortalecer o vínculo emocional e uma rotina de jogos ativos de 3 passos."
 pubDate: "2026-02-19"
 updatedDate: "2026-02-19"
-heroImage: "/images/blog/siamese_care.png"
+heroImage: "/images/blog/siamese_care.webp"
 authority: "Guia oficial da Cat Fanciers' Association (CFA) e protocolos de comportamento felino da AAFP"
 app: "petself"
 formatVersion: 4

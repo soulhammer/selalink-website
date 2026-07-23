@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración de armazenamen
 pubDate: "2026-05-24"
 category: "FreshSnap"
 tags: ["Óleo de cozinha / Azeite","Guia de armazenamento comprovado cientificamente","condiment"]
-heroImage: "/images/blog/olive_oil_storage_hack.png"
+heroImage: "/images/blog/olive_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"

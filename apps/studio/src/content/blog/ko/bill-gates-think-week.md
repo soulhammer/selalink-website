@@ -5,7 +5,7 @@ description: "마이크로소프트의 도약을 이끈 빌 게이츠의 오두�
 pubDate: "2026-01-08"
 category: "BuildSelf"
 tags: ["위인 습관", "빌 게이츠", "집중력", "사색", "독서"]
-heroImage: "/images/blog/bill_gates_think_week.png"
+heroImage: "/images/blog/bill_gates_think_week.webp"
 app: "buildself"
 authority: "마이크로소프트 아카이브 및 칼 뉴포트의 딥 워크(Deep Work)"
 updatedDate: "2026-01-08"

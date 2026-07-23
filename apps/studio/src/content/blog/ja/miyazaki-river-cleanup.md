@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["ジブリ巨匠の澄んだ朝","Routine"]
-heroImage: "/images/blog/miyazaki_river_cleanup.png"
+heroImage: "/images/blog/miyazaki_river_cleanup.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジブリ公式インタビュー資料および脳マッピング財団（Brain Mapping Foundation）の弛緩状態創造性研究"

@@ -4,7 +4,7 @@ title: "숲속의 사냥꾼 노르웨이 숲 고양이를 위한 수직 공간 �
 description: "대형 묘종이자 북유럽의 강인함을 품은 노르웨이 숲. 이들의 등반 본능을 충족하는 놀이와 방수 기능이 있는 두꺼운 삼중모 털 관리법을 제안합니다."
 pubDate: "2026-04-08"
 updatedDate: "2026-04-08"
-heroImage: "/images/blog/norwegian_forest_care.png"
+heroImage: "/images/blog/norwegian_forest_care.webp"
 authority: "국제고양이협회(TICA) 가이드 및 고양이 수의행동학 학술 지침"
 app: "petself"
 formatVersion: 4

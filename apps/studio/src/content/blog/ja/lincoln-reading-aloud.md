@@ -5,7 +5,7 @@ pubDate: "2026-04-26"
 updatedDate: "2026-04-26"
 category: "BuildSelf"
 tags: ["本を声に出して読んだ","Routine"]
-heroImage: "/images/blog/lincoln_reading_aloud.png"
+heroImage: "/images/blog/lincoln_reading_aloud.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ウィリアム・ハーンデン 著『リンカーンの生涯』＆ 認知心理学研究(MacLeod et al., 2010)"

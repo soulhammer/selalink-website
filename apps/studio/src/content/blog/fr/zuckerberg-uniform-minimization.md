@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Gérer la f","Routine"]
-heroImage: "/images/blog/zuckerberg_uniform_minimization.png"
+heroImage: "/images/blog/zuckerberg_uniform_minimization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Récit des déclarations de Mark Zuckerberg au Townhall de Meta et travaux de Roy Baumeister sur la théorie de l'épuisement de l'ego"

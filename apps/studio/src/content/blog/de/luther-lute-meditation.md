@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Vibration ","Routine"]
-heroImage: "/images/blog/luther_lute_meditation.png"
+heroImage: "/images/blog/luther_lute_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Belege aus Luthers Briefen in 'Luther's Works, Vol. 49' und Forschung der Harvard Medical School zur Musiktherapie und dem vegetativen Nervensystem"

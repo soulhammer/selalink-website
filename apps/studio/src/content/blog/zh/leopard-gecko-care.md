@@ -4,7 +4,7 @@ title: "豹纹守宫尾部语言与辅助顺畅蜕皮 responses 3步日常护理
 description: "首选伴侣爬宠豹纹守宫护理全攻略。解读摇尾警戒信号、湿藏避难所管理与ARAV标准的冷热温区建立。"
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
-heroImage: "/images/blog/leopard_gecko_care.png"
+heroImage: "/images/blog/leopard_gecko_care.webp"
 authority: "国际两栖爬行动物兽医协会 (ARAV) 护理指南"
 app: "petself"
 formatVersion: 4

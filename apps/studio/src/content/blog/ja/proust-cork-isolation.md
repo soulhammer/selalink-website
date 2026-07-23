@@ -5,7 +5,7 @@ pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
 tags: ["記憶を呼び覚ます静寂","Routine"]
-heroImage: "/images/blog/proust_cork_isolation.png"
+heroImage: "/images/blog/proust_cork_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "カルナヴァレ美術館 プルーストの寝室考証展示および「Journal of Cognitive Neuroscience」"

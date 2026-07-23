@@ -4,7 +4,7 @@ description: "Are your apples turning soft quickly or ruining other fruits? Disc
 pubDate: "2026-03-11"
 category: "FreshSnap"
 tags: ["Apple Storage", "Fruit Care", "Ethylene Gas", "Freshness Tips", "Kitchen Hacks"]
-heroImage: "/images/blog/apple_storage_hack.png"
+heroImage: "/images/blog/apple_storage_hack.webp"
 app: "freshsnap"
 faqs:
   - question: "Is it okay to wrap and store bruised apples?"
@@ -66,7 +66,7 @@ Therefore, the key to successful apple storage is preventing moisture loss and i
     💡 <strong>Storage Tip</strong>: Wrap each unwashed apple tightly with plastic cling wrap (or individual paper bags). Wrapping locks in the apple's natural moisture to maintain its signature crunch, while acting as a primary barrier to prevent the leakage of ethylene gas.
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/apple_storage_detail.png" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/apple_storage_detail.webp" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

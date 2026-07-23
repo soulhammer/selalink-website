@@ -5,7 +5,7 @@ description: "멕시코의 전설적인 화가 프리다 칼로. 전신 부상�
 pubDate: "2026-06-07"
 category: "BuildSelf"
 tags: ["위인 습관", "프리다 칼로", "거울 명상", "치유", "회복탄력성"]
-heroImage: "/images/blog/kahlo_mirror_painting.png"
+heroImage: "/images/blog/kahlo_mirror_painting.webp"
 app: "buildself"
 authority: "프리다 칼로 전기 'Frida: A Biography of Frida Kahlo' 및 Psychotherapy 학술지"
 updatedDate: "2026-06-07"

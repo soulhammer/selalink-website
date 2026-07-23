@@ -5,7 +5,7 @@ pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
 category: "BuildSelf"
 tags: ["Great Habits","wright","Routine","Stamina"]
-heroImage: "/images/blog/wright_reverse_debate.png"
+heroImage: "/images/blog/wright_reverse_debate.webp"
 app: "buildself"
 formatVersion: 4
 authority: "The Wright Brothers' Biography 'The Wright Brothers' & Cognitive Therapy and Research Academic Studies"

@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["Absoluter ","Routine"]
-heroImage: "/images/blog/fermi_dawn_calculation_routine.png"
+heroImage: "/images/blog/fermi_dawn_calculation_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Emilio Segrès Biografie „Enrico Fermi: Physicist“ und kognitionswissenschaftliche Studien zur Cortisol-Aufwachreaktion (CAR) und kognitiven Leistungsfähigkeit am Morgen"

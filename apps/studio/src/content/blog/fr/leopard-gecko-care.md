@@ -4,7 +4,7 @@ title: "Signaux de Queue du Gecko Léopard et Routine en 3 Étapes pour une Mue 
 description: "Guide complet pour le Gecko Léopard. Décodez le mouvement défensif de la queue, gérez la cachette humide et organisez le gradient thermique ARAV."
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
-heroImage: "/images/blog/leopard_gecko_care.png"
+heroImage: "/images/blog/leopard_gecko_care.webp"
 authority: "Association of Reptilian and Amphibian Veterinarians (ARAV)"
 app: "petself"
 formatVersion: 4

@@ -4,7 +4,7 @@ title: "Permainan Otak dan Perawatan Telinga: Rutinitas 3 Langkah untuk Poodle y
 description: "Temukan cara mengatasi kebosanan pada Poodle yang cerdas dengan permainan otak dan mencegah infeksi telinga menggunakan rutinitas 3 langkah."
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
-heroImage: "/images/blog/poodle_care.png"
+heroImage: "/images/blog/poodle_care.webp"
 authority: "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC"
 app: "petself"
 formatVersion: 4

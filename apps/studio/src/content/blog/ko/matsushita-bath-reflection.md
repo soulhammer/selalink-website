@@ -5,7 +5,7 @@ description: "일본 파나소닉의 창업자이자 '경영의 신'인 마쓰�
 pubDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["위인 습관", "마쓰시타 고노스케", "자기성찰", "이완", "의사결정", "부교감 신경"]
-heroImage: "/images/blog/matsushita-bath-reflection.png"
+heroImage: "/images/blog/matsushita-bath-reflection.webp"
 app: "buildself"
 authority: "마쓰시타 고노스케 저서 『길을 열다』 기록 및 자율신경계 이완을 통한 부교감 신경 활성화(Parasympathetic Activation)와 뇌의 기본 모드 네트워크(Default Mode Network) 연구"
 updatedDate: "2026-05-25"

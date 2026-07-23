@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["Membangun ","Routine"]
-heroImage: "/images/blog/anchangho_mirror_smile.png"
+heroImage: "/images/blog/anchangho_mirror_smile.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Kuliah Ahn Chang-ho & Penelitian Fisiologis tentang Hipotesis Umpan Balik Wajah"

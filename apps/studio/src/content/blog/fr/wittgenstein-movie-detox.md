@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Refroidir ","Routine"]
-heroImage: "/images/blog/wittgenstein_movie_detox.png"
+heroImage: "/images/blog/wittgenstein_movie_detox.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie de Ray Monk 'Ludwig Wittgenstein : Le devoir de génie' et recherche en psychologie cognitive sur la distraction attentionnelle et l'effet d'incubation"

@@ -5,7 +5,7 @@ pubDate: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "BuildSelf"
 tags: ["Metode Bel","Routine"]
-heroImage: "/images/blog/feynman_explanation_technique.png"
+heroImage: "/images/blog/feynman_explanation_technique.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Buku Richard Feynman 'Surely You're Joking, Mr. Feynman!' & Educational Psychology Review"

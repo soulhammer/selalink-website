@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Great Habits","rembrandt","Routine","Stamina"]
-heroImage: "/images/blog/rembrandt_self_portrait_reflection.png"
+heroImage: "/images/blog/rembrandt_self_portrait_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Rembrandt House Museum Archives and Neurocognitive Research on Mirror Gazing, Medial Prefrontal Cortex (mPFC), and Self-Referential Processing"

@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["布団の中で書かれた一","Routine"]
-heroImage: "/images/blog/keynes_morning_bed_work.png"
+heroImage: "/images/blog/keynes_morning_bed_work.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ロバート・スキデルスキー著『ジョン・メイナード・ケインズ（John Maynard Keynes: Hopes Betrayed）』伝記的考証および起床覚醒ホルモン（CAR）と起床直後の短期覚醒が大脳前頭葉認知機能に及ぼす臨床脳神経科学研究"

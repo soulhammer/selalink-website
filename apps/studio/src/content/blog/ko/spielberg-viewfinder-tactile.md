@@ -5,7 +5,7 @@ pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/spielberg_viewfinder_tactile.png"
+heroImage: "/images/blog/spielberg_viewfinder_tactile.webp"
 app: "buildself"
 formatVersion: 4
 authority: "스티븐 스필버그 전기 'Steven Spielberg' 및 Nature Neuroscience 학술지"

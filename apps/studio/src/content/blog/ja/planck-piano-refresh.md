@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["脳の認知リセット：マ","Routine"]
-heroImage: "/images/blog/planck_piano_refresh.png"
+heroImage: "/images/blog/planck_piano_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "プランク自伝『Wissenschaftliche Selbstbiographie』歴史的考証およびジョンズ・ホプキンス医科大学の音楽即興演奏脳画像神経科学研究"

@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Gegenmitte","Routine"]
-heroImage: "/images/blog/hume_social_refresh.png"
+heroImage: "/images/blog/hume_social_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Humes Biografie 'The Life of David Hume' & kognitionsneurowissenschaftliche Forschung"

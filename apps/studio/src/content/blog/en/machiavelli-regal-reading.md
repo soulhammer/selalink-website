@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Great Habits","machiavelli","Routine","Stamina"]
-heroImage: "/images/blog/machiavelli_regal_reading.png"
+heroImage: "/images/blog/machiavelli_regal_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Machiavelli's 1513 Letter to Francesco Vettori and Northwestern University Studies on Enclothed Cognition"

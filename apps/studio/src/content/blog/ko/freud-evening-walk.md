@@ -5,7 +5,7 @@ pubDate: "2026-07-09"
 updatedDate: "2026-07-09"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/freud_evening_walk.png"
+heroImage: "/images/blog/freud_evening_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "시그문트 프로이트 전기 'The Life and Work of Sigmund Freud' 및 Frontiers in Psychology 학술지"

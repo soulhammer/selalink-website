@@ -5,7 +5,7 @@ description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit f√
 pubDate: "2026-03-29"
 category: "FreshSnap"
 tags: ["Blaubeere","Wissenschaftlich gepr√ºfter Lagerungsratgeber","fruit"]
-heroImage: "/images/blog/blueberry_storage_hack.png"
+heroImage: "/images/blog/blueberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & RDA</strong>"

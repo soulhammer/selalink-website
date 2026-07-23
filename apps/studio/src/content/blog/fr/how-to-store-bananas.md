@@ -5,7 +5,7 @@ description: "Découvrez la température, les méthodes et la durée optimales d
 pubDate: "2026-03-05"
 category: "FreshSnap"
 tags: ["Banane","Guide de conservation scientifiquement prouvé","fruit"]
-heroImage: "/images/blog/banana_storage_hack.png"
+heroImage: "/images/blog/banana_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & WHO</strong>"

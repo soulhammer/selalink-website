@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["动摇不改的观测塔：哥","Routine"]
-heroImage: "/images/blog/copernicus_observatory_tower.png"
+heroImage: "/images/blog/copernicus_observatory_tower.webp"
 app: "buildself"
 formatVersion: 4
 authority: "《天体运行论》历史序言考证及耶鲁大学(Yale)关于空间认知(Spatial Cognition)神经学的研究"

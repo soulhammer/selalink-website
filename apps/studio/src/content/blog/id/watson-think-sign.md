@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Satu Kata ","Routine"]
-heroImage: "/images/blog/watson_think_sign.png"
+heroImage: "/images/blog/watson_think_sign.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Dokumen Sejarah Museum Korporasi IBM dan Penelitian Neurologis UCL tentang Mekanisme Refleksi"

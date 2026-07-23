@@ -5,7 +5,7 @@ pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
 tags: ["위인 습관", "Routine"]
-heroImage: "/images/blog/federer_sleep_recovery.png"
+heroImage: "/images/blog/federer_sleep_recovery.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Christopher Clarey 전기 'The Master: The Long Run and Beautiful Game of Roger Federer' 및 Nature Neuroscience 수면 논문"

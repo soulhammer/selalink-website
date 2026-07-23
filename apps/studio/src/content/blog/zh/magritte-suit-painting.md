@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["服装心理学：勒内·马","Routine"]
-heroImage: "/images/blog/magritte_suit_painting.png"
+heroImage: "/images/blog/magritte_suit_painting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "勒内·马格里特传记《勒内·马格里特：看不见的艺术》及关于服装对身体感知与注意力表现影响的服装认知研究"

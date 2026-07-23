@@ -4,7 +4,7 @@ title: "Brain Play and Ear Care: A 3-Step Routine for the Intelligent Poodle"
 description: "Discover how to relieve boredom in highly intelligent Poodles with brain games and prevent genetically vulnerable ear infections using a 3-step routine."
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
-heroImage: "/images/blog/poodle_care.png"
+heroImage: "/images/blog/poodle_care.webp"
 authority: "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral Protocols"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["在花园里散步并收集种","Routine"]
-heroImage: "/images/blog/goethe_botany_observation.png"
+heroImage: "/images/blog/goethe_botany_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "歌德著《植物变形记》及环境心理学的注意力恢复理论(Kaplan, 1995)"

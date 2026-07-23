@@ -5,7 +5,7 @@ description: "완벽한 고증과 치밀한 연출을 자랑했던 영화감독 
 pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["글쓰기", "창의성", "기록"]
-heroImage: "/images/blog/kubrick_index_box_archive.png"
+heroImage: "/images/blog/kubrick_index_box_archive.webp"
 app: "buildself"
 authority: "런던예술대학교(UAL) 스탠리 큐브릭 아카이브(Stanley Kubrick Archive) 공식 소장품 실태 보고서 및 인지신경과학의 정보 청킹(Chunking)과 인지 외재화(Cognitive Externalization) 효과"
 updatedDate: "2026-03-18"

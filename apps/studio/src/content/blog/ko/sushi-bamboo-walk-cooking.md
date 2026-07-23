@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/sushi_bamboo_walk_cooking.png"
+heroImage: "/images/blog/sushi_bamboo_walk_cooking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "소동파 시문집 '동파전집(東坡全集)' 및 임어당 저 '소동파전'"

@@ -5,7 +5,7 @@ description: "Learn the best storage temperature, methods, and duration for Onio
 pubDate: "2026-01-16"
 category: "FreshSnap"
 tags: ["Onion","Scientifically Proven Storage Guide","vegetable"]
-heroImage: "/images/blog/onion_storage_hack.png"
+heroImage: "/images/blog/onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & FSA</strong>"

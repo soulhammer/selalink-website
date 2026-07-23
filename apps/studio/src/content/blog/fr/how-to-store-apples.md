@@ -4,7 +4,7 @@ description: "Vos pommes ramollissent rapidement ou gâtent d'autres fruits ? D�
 pubDate: "2026-03-11"
 category: "FreshSnap"
 tags: ["Conserver Pommes", "Soin des Fruits", "Gaz Éthylène", "Astuces Fraîcheur", "Hacks Cuisine"]
-heroImage: "/images/blog/apple_storage_hack.png"
+heroImage: "/images/blog/apple_storage_hack.webp"
 app: "freshsnap"
 faqs:
   - question: "Est-il possible d'envelopper et de conserver des pommes abîmées ?"
@@ -67,7 +67,7 @@ Par conséquent, la clé d'une conservation réussie des pommes est de prévenir
     💡 <strong>Astuce de conservation</strong> : Enveloppez fermement chaque pomme non lavée avec du film étirable alimentaire (ou des sachets en plastique individuels). L'emballage retient l'humidité naturelle de la pomme pour maintenir son croquant emblématique, tout en agissant comme une barrière primaire pour empêcher la fuite de gaz éthylène.
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/apple_storage_detail.png" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/apple_storage_detail.webp" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

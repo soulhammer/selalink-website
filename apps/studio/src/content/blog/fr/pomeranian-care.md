@@ -4,7 +4,7 @@ title: "Protéger les articulations et la trachée du Loulou de Poméranie : rou
 description: "Le Loulou de Poméranie est sujet à la luxation de la rotule et au collapsus trachéal. Découvrez des conseils pour préserver ses articulations et sa trachée."
 pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
-heroImage: "/images/blog/pomeranian_care.png"
+heroImage: "/images/blog/pomeranian_care.webp"
 authority: "Guide officiel de race de l'American Pomeranian Club et manuel vétérinaire de l'AVMA"
 app: "petself"
 formatVersion: 4

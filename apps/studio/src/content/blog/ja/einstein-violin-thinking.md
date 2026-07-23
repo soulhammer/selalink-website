@@ -5,7 +5,7 @@ pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "BuildSelf"
 tags: ["思考が行き詰まった時","Routine"]
-heroImage: "/images/blog/einstein_violin_thinking.png"
+heroImage: "/images/blog/einstein_violin_thinking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アインシュタイン評伝「Einstein: A Life」および学術誌「Frontiers in Psychology」"

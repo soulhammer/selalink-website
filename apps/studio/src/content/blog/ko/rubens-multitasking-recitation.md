@@ -5,7 +5,7 @@ description: "바로크 양식의 거장 루벤스는 그림을 그리면서 역
 pubDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/rubens_multitasking_recitation.png"
+heroImage: "/images/blog/rubens_multitasking_recitation.webp"
 app: "buildself"
 authority: "루벤스 전기 'Master of Shadows' 및 실험심리학저널의 인지 채널 분할 분석 연구"
 updatedDate: "2026-02-08"

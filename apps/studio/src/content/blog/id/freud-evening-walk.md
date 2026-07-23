@@ -5,7 +5,7 @@ pubDate: "2026-07-09"
 updatedDate: "2026-07-09"
 category: "BuildSelf"
 tags: ["Jalan Kaki","Routine"]
-heroImage: "/images/blog/freud_evening_walk.png"
+heroImage: "/images/blog/freud_evening_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Sigmund Freud 'The Life and Work of Sigmund Freud' & Jurnal Frontiers in Psychology"

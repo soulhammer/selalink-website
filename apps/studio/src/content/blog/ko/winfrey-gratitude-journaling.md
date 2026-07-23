@@ -5,7 +5,7 @@ pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/winfrey_gratitude_journaling.png"
+heroImage: "/images/blog/winfrey_gratitude_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "오프라 윈프리 에세이 'What I Know for Sure' 및 Journal of Personality and Social Psychology 학술지"

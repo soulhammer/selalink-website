@@ -4,7 +4,7 @@ title: "Sicherer Hafen und Vertrauensbildung: Eine 3-Schritte-Routine für Russi
 description: "Russisch Blau Katzen sind von Natur aus scheu und geräuschempfindlich. Erfahren Sie, wie Sie eine stressfreie Schutzzone schaffen und Vertrauen aufbauen."
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
-heroImage: "/images/blog/russian_blue_care.png"
+heroImage: "/images/blog/russian_blue_care.webp"
 authority: "Rasseführer der Cat Fanciers' Association (CFA) & Cornell Feline Health Center"
 app: "petself"
 formatVersion: 4

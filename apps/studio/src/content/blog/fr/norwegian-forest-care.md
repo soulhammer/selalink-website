@@ -4,7 +4,7 @@ title: "Jeu vertical et entretien du pelage triple imperméable du chat Norvégi
 description: "Comblez l'instinct de grimpeur du Norvégien et entretenez son pelage triple."
 pubDate: "2026-04-08"
 updatedDate: "2026-04-08"
-heroImage: "/images/blog/norwegian_forest_care.png"
+heroImage: "/images/blog/norwegian_forest_care.webp"
 authority: "Guide de l'Association Internationale des Chats (TICA) et éthologie féline"
 app: "petself"
 formatVersion: 4

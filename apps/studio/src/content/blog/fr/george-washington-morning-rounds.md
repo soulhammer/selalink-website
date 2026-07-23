@@ -5,7 +5,7 @@ pubDate: "2026-07-04"
 updatedDate: "2026-07-04"
 category: "BuildSelf"
 tags: ["Le 'journa","Routine"]
-heroImage: "/images/blog/george_washington_morning_rounds.png"
+heroImage: "/images/blog/george_washington_morning_rounds.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Journaux de George Washington Sources originales"

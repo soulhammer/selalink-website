@@ -5,7 +5,7 @@ description: "스위스의 위대한 아동 심리학자 장 피아제. 생각�
 pubDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/piaget_morning_writing.png"
+heroImage: "/images/blog/piaget_morning_writing.webp"
 app: "buildself"
 authority: "피아제 자서전 'Autobiography' 및 인지신경과학 저널 학술 연구"
 updatedDate: "2026-01-01"

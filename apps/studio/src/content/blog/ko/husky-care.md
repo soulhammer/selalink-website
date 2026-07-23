@@ -4,7 +4,7 @@ title: "썰매견의 불타는 에너지, 시베리안 허스키 이중모와 �
 description: "시베리아 혹한을 버티는 늠름한 썰매견 시베리안 허스키. 여름철 더위 스트레스 해소와 폭발적인 활동량을 충족시켜 하울링과 실내 파괴를 예방하는 3단계 홈케어를 정리합니다."
 pubDate: "2026-03-29"
 updatedDate: "2026-03-30"
-heroImage: "/images/blog/husky_care.png"
+heroImage: "/images/blog/husky_care.webp"
 authority: "Siberian Husky Club of America 및 IAABC 썰매견 행동 인지/활동 에너지 지침"
 app: "petself"
 formatVersion: 4

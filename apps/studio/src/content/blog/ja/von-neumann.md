@@ -5,7 +5,7 @@ pubDate: "2026-06-28"
 updatedDate: "2026-06-28"
 category: "BuildSelf"
 tags: ["就寝前にメモを取るル","Routine"]
-heroImage: "/images/blog/von_neumann.png"
+heroImage: "/images/blog/von_neumann.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ノーマン マクレー、*ジョン フォン ノイマン* (1992) & 認知神経科学研究"

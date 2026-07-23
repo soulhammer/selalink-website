@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Jangan Ban","Routine"]
-heroImage: "/images/blog/voltaire_bed_writing.png"
+heroImage: "/images/blog/voltaire_bed_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Memoar sekretaris Voltaire, Wagnière & Jurnal Frontiers in Human Neuroscience"

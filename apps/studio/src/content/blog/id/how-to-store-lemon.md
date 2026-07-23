@@ -5,7 +5,7 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Lemon berdasar
 pubDate: "2026-02-13"
 category: "FreshSnap"
 tags: ["Lemon","Panduan Penyimpanan yang Terbukti Secara Ilmiah","fruit"]
-heroImage: "/images/blog/lemon_storage_hack.png"
+heroImage: "/images/blog/lemon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & FSA</strong>"

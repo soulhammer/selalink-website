@@ -5,7 +5,7 @@ pubDate: "2026-05-26"
 updatedDate: "2026-05-26"
 category: "BuildSelf"
 tags: ["¿Cambiar d","Routine"]
-heroImage: "/images/blog/asimov_project_switching.png"
+heroImage: "/images/blog/asimov_project_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Ensayos autobiográficos de Isaac Asimov e investigación de la APA sobre fatiga cognitiva y memoria de trabajo"

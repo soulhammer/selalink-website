@@ -4,7 +4,7 @@ title: "Comunicação da Cauda do Gecko Leopardo e Rotina em 3 Passos Para Troca
 description: "Guia completo de cuidados para o Gecko Leopardo. Interprete os movimentos defensivos da cauda, cuide da toca úmida e ajuste as zonas de temperatura ARAV."
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
-heroImage: "/images/blog/leopard_gecko_care.png"
+heroImage: "/images/blog/leopard_gecko_care.webp"
 authority: "Associação de Veterinários de Répteis e Anfíbios (ARAV)"
 app: "petself"
 formatVersion: 4

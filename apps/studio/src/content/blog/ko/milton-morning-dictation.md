@@ -5,7 +5,7 @@ description: "실명 속에서도 대서사시를 남긴 존 밀턴의 새벽 4�
 pubDate: "2026-04-09"
 category: "BuildSelf"
 tags: ["위인 습관", "사색"]
-heroImage: "/images/blog/milton_morning_dictation.png"
+heroImage: "/images/blog/milton_morning_dictation.webp"
 app: "buildself"
 authority: "존 오브리의 전기 기록 및 시각 차단과 작업 기억력 관련 인지신경학 연구"
 updatedDate: "2026-04-09"

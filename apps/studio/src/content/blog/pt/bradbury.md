@@ -5,7 +5,7 @@ pubDate: "2026-06-16"
 updatedDate: "2026-06-16"
 category: "BuildSelf"
 tags: ["A rotina d","Routine"]
-heroImage: "/images/blog/bradbury.png"
+heroImage: "/images/blog/bradbury.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Ray Bradbury, *Zen na Arte da Escrita* (1990) e Estudos Neurocientíficos Cognitivos"

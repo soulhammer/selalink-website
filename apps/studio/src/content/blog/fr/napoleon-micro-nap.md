@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Restaurati","Routine"]
-heroImage: "/images/blog/napoleon_micro_nap.png"
+heroImage: "/images/blog/napoleon_micro_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Mémoires de Napoléon & recherche en science du sommeil sur le sommeil NREM et la vigilance cognitive"

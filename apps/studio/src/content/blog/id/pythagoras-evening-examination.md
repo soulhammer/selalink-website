@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["Malam Yang","Routine"]
-heroImage: "/images/blog/pythagoras_evening_examination.png"
+heroImage: "/images/blog/pythagoras_evening_examination.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Pedoman Pythagoras 'Golden Verses' dan Riset Harvard Medical School tentang Konsolidasi Memori Selama Tidur"

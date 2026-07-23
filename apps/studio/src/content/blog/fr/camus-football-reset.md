@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Le remède ","Routine"]
-heroImage: "/images/blog/camus_football_reset.png"
+heroImage: "/images/blog/camus_football_reset.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie 'Albert Camus : Une Biographie' et Neurobiologie de l'Apprentissage et de la Mémoire"

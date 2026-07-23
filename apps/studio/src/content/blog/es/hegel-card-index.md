@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["¿El depósi","Routine"]
-heroImage: "/images/blog/hegel_card_index.png"
+heroImage: "/images/blog/hegel_card_index.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía de Hegel 'Hegel: A Biography' y estudios de ciencia cognitiva"

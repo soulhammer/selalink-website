@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["Le son des","Routine"]
-heroImage: "/images/blog/flaubert_gueuloir_recitation.png"
+heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Correspondance de Flaubert et études psycholinguistiques sur la théorie du double codage et la détection d'erreurs par boucle de rétroaction auditive"

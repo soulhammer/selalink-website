@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Offline-Fo","Routine"]
-heroImage: "/images/blog/knuth_no_email.png"
+heroImage: "/images/blog/knuth_no_email.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Donald Knuths offizielle Erklärung „Knuth: Email“ und Forschung zur kognitiven Belastungstheorie über die Kosten von Kontextwechseln"

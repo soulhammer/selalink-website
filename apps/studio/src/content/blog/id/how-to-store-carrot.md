@@ -5,7 +5,7 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Wortel berdasa
 pubDate: "2026-01-01"
 category: "FreshSnap"
 tags: ["Wortel","Panduan Penyimpanan yang Terbukti Secara Ilmiah","vegetable"]
-heroImage: "/images/blog/carrot_storage_hack.png"
+heroImage: "/images/blog/carrot_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"

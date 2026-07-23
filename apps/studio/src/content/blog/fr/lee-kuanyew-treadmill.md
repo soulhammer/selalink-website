@@ -5,7 +5,7 @@ pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
 tags: ["Évacuer le","Routine"]
-heroImage: "/images/blog/lee_kuanyew_treadmill.png"
+heroImage: "/images/blog/lee_kuanyew_treadmill.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Mémoires de Lee Kuan Yew 'The Singapore Story' & archives des Archives nationales de Singapour"

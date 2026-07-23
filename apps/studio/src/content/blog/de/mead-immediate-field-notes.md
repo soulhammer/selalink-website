@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Notizen, d","Routine"]
-heroImage: "/images/blog/mead_immediate_field_notes.png"
+heroImage: "/images/blog/mead_immediate_field_notes.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Jane Howards 'Margaret Mead: A Life' und neurokognitive Forschung zu Arbeitsgedächtnisbeschränkungen und kognitivem Offloading (Storm & Stone, 2015)"

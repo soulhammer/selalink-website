@@ -4,7 +4,7 @@ title: "Betta-Imponiersignale und 3-Schritte-Routine für gesunde Flossen"
 description: "Pflegeanleitung für Kampffische (Betta). Imponierverhalten (Flaring) verstehen, Labyrinthorgan berücksichtigen und Flossenfäule nach WSAVA vorbeugen."
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
-heroImage: "/images/blog/betta_fish_care.png"
+heroImage: "/images/blog/betta_fish_care.webp"
 authority: "World Small Animal Veterinary Association (WSAVA)"
 app: "petself"
 formatVersion: 4

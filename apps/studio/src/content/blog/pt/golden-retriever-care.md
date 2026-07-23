@@ -4,7 +4,7 @@ title: "O Golden Retriever angelical? Uma rotina saudável de 3 passos para as a
 description: "Golden Retriever amigável e inteligente. Descubra dicas para prevenir a displasia de quadril em cães grandes e uma rotina diária de 3 passos."
 pubDate: "2026-05-28"
 updatedDate: "2026-05-30"
-heroImage: "/images/blog/golden_retriever_care.png"
+heroImage: "/images/blog/golden_retriever_care.webp"
 authority: "Guia oficial de raças do American Kennel Club (AKC) e protocolos de comportamento da IAABC"
 app: "petself"
 formatVersion: 4

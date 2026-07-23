@@ -4,7 +4,7 @@ title: "레오파드 게코의 꼬리 신호와 올바른 탈피를 돕는 3단�
 description: "입문용 반려 파충류 1위 레오파드 게코. 꼬리 흔들기 감정 신호와 은신처 습도 관리를 통한 완벽 탈피, 핫존/쿨존 온습도 3단계 케어를 정리합니다."
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
-heroImage: "/images/blog/leopard_gecko_care.png"
+heroImage: "/images/blog/leopard_gecko_care.webp"
 authority: "Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines"
 app: "petself"
 formatVersion: 4

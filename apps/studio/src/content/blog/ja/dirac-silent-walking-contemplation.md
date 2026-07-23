@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["言葉を最小限にし静寂","Routine"]
-heroImage: "/images/blog/dirac_silent_walking_contemplation.png"
+heroImage: "/images/blog/dirac_silent_walking_contemplation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "グラハム・ファーメロ評伝「The Strangest Man」およびヘルゲ・クラグ著「Dirac」"

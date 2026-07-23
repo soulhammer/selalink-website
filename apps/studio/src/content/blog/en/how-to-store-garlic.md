@@ -5,7 +5,7 @@ description: "Learn the best storage temperature, methods, and duration for Garl
 pubDate: "2026-02-02"
 category: "FreshSnap"
 tags: ["Garlic","Scientifically Proven Storage Guide","vegetable"]
-heroImage: "/images/blog/garlic_storage_hack.png"
+heroImage: "/images/blog/garlic_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"

@@ -5,7 +5,7 @@ description: "공인된 안전 가이드라인에 따른 식빵의 최적 보관
 pubDate: "2026-05-19"
 category: "FreshSnap"
 tags: ["식빵","과학적으로 검증된 보관 가이드","grain"]
-heroImage: "/images/blog/bread_storage_hack.png"
+heroImage: "/images/blog/bread_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & FSA</strong>"

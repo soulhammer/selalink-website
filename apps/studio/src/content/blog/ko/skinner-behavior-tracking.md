@@ -5,7 +5,7 @@ description: "행동 심리학의 거장 B. F. 스키너의 데일리 행동 수
 pubDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/skinner_behavior_tracking.png"
+heroImage: "/images/blog/skinner_behavior_tracking.webp"
 app: "buildself"
 authority: "B. F. 스키너 자서전 'Particulars of My Life' 및 행동주의의 조작적 조건형성 이론"
 updatedDate: "2026-05-14"

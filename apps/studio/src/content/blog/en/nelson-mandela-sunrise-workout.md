@@ -5,7 +5,7 @@ pubDate: "2026-01-13"
 updatedDate: "2026-01-13"
 category: "BuildSelf"
 tags: ["Great Habits","nelson","Routine","Stamina"]
-heroImage: "/images/blog/nelson_mandela_sunrise_workout.png"
+heroImage: "/images/blog/nelson_mandela_sunrise_workout.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Nelson Mandela's autobiography 'Long Walk to Freedom'"

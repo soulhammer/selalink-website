@@ -5,7 +5,7 @@ pubDate: "2026-01-14"
 updatedDate: "2026-01-14"
 category: "BuildSelf"
 tags: ["優雅さの土台？オード","Routine"]
-heroImage: "/images/blog/hepburn_garden_mindfulness.png"
+heroImage: "/images/blog/hepburn_garden_mindfulness.webp"
 app: "buildself"
 formatVersion: 4
 authority: "オードリー・ヘプバーン歴史アーカイブおよび学術誌「Neuroscience」"

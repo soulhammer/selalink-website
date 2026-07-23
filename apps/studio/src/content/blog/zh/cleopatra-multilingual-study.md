@@ -5,7 +5,7 @@ pubDate: "2026-03-03"
 updatedDate: "2026-03-03"
 category: "BuildSelf"
 tags: ["克利奥帕特拉的“多语","Routine"]
-heroImage: "/images/blog/cleopatra_multilingual_study.png"
+heroImage: "/images/blog/cleopatra_multilingual_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "普鲁塔克的《安东尼传》与迈克尔·格兰特的研究著作《克利奥帕特拉传》"

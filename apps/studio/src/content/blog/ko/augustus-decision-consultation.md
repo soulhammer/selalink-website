@@ -5,7 +5,7 @@ description: "시저의 암살 이후 독단 대신 마이케나스, 아그리�
 pubDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["의사결정", "단순화", "생산성"]
-heroImage: "/images/blog/augustus_decision_consultation.png"
+heroImage: "/images/blog/augustus_decision_consultation.webp"
 app: "buildself"
 authority: "수토니우스 저 『황제전(The Lives of the Twelve Caesars)』 사료 기록 및 카너먼 & 트버스키의 휴리스틱과 의사결정 시 확증 편향(Confirmation Bias) 인지행동 연구 결과"
 updatedDate: "2026-01-01"

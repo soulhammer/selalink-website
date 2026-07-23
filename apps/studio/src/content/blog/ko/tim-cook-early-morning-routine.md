@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["위인 습관", "Routine"]
-heroImage: "/images/blog/tim_cook_early_morning_routine.png"
+heroImage: "/images/blog/tim_cook_early_morning_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Time 커버스토리 인터뷰 및 Leander Kahney 전기 'Tim Cook: The Genius Who Took Apple to the Next Level'"

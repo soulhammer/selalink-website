@@ -5,7 +5,7 @@ pubDate: "2026-06-11"
 updatedDate: "2026-06-11"
 category: "BuildSelf"
 tags: ["短篇小说巨匠的大脑清","Routine"]
-heroImage: "/images/blog/maupassant_rowing_reset.png"
+heroImage: "/images/blog/maupassant_rowing_reset.webp"
 app: "buildself"
 formatVersion: 4
 authority: "传记《Guy de Maupassant: Étude Scientifique》与 Journal of Applied Physiology 学术期刊"

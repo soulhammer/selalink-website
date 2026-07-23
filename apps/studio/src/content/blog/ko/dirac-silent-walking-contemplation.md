@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["위인 습관", "Routine"]
-heroImage: "/images/blog/dirac_silent_walking_contemplation.png"
+heroImage: "/images/blog/dirac_silent_walking_contemplation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Graham Farmelo 전기 'The Strangest Man' 및 Helge Kragh 저서 'Dirac'"

@@ -5,7 +5,7 @@ description: "매일 아침 비서에게 전화해 전날의 세부 일상과 �
 pubDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["기록", "기획", "생산성"]
-heroImage: "/images/blog/warhol_morning_dictation.png"
+heroImage: "/images/blog/warhol_morning_dictation.webp"
 app: "buildself"
 authority: "패트 해켓 편집 『앤디 워홀 일기(The Andy Warhol Diaries)』 역사적 고증 및 앨런 배들리의 작동 기억 인지 루프 연구"
 updatedDate: "2026-05-25"

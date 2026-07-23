@@ -5,7 +5,7 @@ pubDate: "2026-05-01"
 updatedDate: "2026-05-01"
 category: "BuildSelf"
 tags: ["作曲卡壳时打打台球的","Routine"]
-heroImage: "/images/blog/mozart_billiard_ideation.png"
+heroImage: "/images/blog/mozart_billiard_ideation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "康斯坦茨·莫扎特书信集及加州大学圣塔芭芭拉分校(UCSB)关于默认模式网络(DMN)的研究(2012)"

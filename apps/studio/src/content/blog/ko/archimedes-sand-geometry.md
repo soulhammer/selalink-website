@@ -5,7 +5,7 @@ description: "복잡한 과학적 영감을 시각화하기 위해 모래나 바
 pubDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["몰입", "사색", "창의성"]
-heroImage: "/images/blog/archimedes_sand_geometry.png"
+heroImage: "/images/blog/archimedes_sand_geometry.webp"
 app: "buildself"
 authority: "플루타르코스 서한집 대비열전(Life of Marcellus) 역사적 고증 및 인지심리학 작동 기억 분산 인지 연구"
 updatedDate: "2026-01-01"

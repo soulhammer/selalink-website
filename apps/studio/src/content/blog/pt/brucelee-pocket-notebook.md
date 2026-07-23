@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["Como captu","Routine"]
-heroImage: "/images/blog/brucelee_pocket_notebook.png"
+heroImage: "/images/blog/brucelee_pocket_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Bruce Lee arquiva 'Artista da Vida' e pesquisa de tecnologia cognitiva"

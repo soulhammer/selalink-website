@@ -4,7 +4,7 @@ title: "Cuidados com Orelhas do Holland Lop e Rotina em 3 Passos Para a Dança B
 description: "Guia completo de cuidados para o coelho Holland Lop. Previna otite, decodifique os saltos de alegria 'Binky' e ofereça feno Timothy ilimitado 24/7."
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
-heroImage: "/images/blog/holland_lop_care.png"
+heroImage: "/images/blog/holland_lop_care.webp"
 authority: "House Rabbit Society (HRS) & AEMV Normas de Coelhos"
 app: "petself"
 formatVersion: 4

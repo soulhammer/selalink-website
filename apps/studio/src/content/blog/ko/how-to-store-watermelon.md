@@ -4,7 +4,7 @@ description: "공인된 안전 가이드라인에 따른 수박의 최적 보관
 pubDate: "2026-06-09"
 category: "FreshSnap"
 tags: ["수박","과학적으로 검증된 보관 가이드","fruit"]
-heroImage: "/images/blog/watermelon_storage_hack.png"
+heroImage: "/images/blog/watermelon_storage_hack.webp"
 app: "freshsnap"
 authority: "<strong>KCA & MFDS</strong>"
 steps:
@@ -51,7 +51,7 @@ formatVersion: 4
     수박을 반으로 잘라 비닐 랩으로 덮어 보관하면, 수박 표면에 세균이 수천 배 이상 폭발적으로 증식하여 식중독 위험을 높입니다. 남은 수박에 절대 랩만 씌워 보관하지 마세요.
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/watermelon_storage_detail.png" alt="비닐 랩 절대 금지 — 식중독균 증식 예방 ❌🍉" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/watermelon_storage_detail.webp" alt="비닐 랩 절대 금지 — 식중독균 증식 예방 ❌🍉" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

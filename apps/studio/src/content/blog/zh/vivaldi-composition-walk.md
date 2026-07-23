@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["在清晨运河边散步并急","Routine"]
-heroImage: "/images/blog/vivaldi_composition_walk.png"
+heroImage: "/images/blog/vivaldi_composition_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "H.C.罗宾斯·兰登著作《Vivaldi: Voice of the Baroque》与维瓦尔第手稿分析"

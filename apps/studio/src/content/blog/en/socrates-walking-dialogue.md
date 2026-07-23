@@ -5,7 +5,7 @@ pubDate: "2026-03-06"
 updatedDate: "2026-03-06"
 category: "BuildSelf"
 tags: ["Great Habits","socrates","Routine","Stamina"]
-heroImage: "/images/blog/socrates_walking_dialogue.png"
+heroImage: "/images/blog/socrates_walking_dialogue.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Plato's 'Dialogues' & Stanford University Study on Walking and Creative Thinking (2014)"

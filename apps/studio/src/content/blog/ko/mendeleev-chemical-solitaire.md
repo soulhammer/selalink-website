@@ -5,7 +5,7 @@ description: "원소 성질을 적은 카드를 솔리테어 카드 놀이처럼
 pubDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["위인 습관", "드미트리 멘델레예프", "아이디어", "시각화", "문제해결"]
-heroImage: "/images/blog/mendeleev_chemical_solitaire.png"
+heroImage: "/images/blog/mendeleev_chemical_solitaire.webp"
 app: "buildself"
 authority: "러시아 화학 학회 아카이브 멘델레예프 수첩 고증 및 인지 연구 저널(Cognitive Research) 공간 조작 기억 활성화 연구"
 updatedDate: "2026-03-14"

@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["Sentir a g","Routine"]
-heroImage: "/images/blog/cezanne_dawn_mountain_observation.png"
+heroImage: "/images/blog/cezanne_dawn_mountain_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Cezanne: A Memoir de Joachim Gasquet e estudos de fisiologia ambiental sobre a exposição à luz azul matinal, ativação do núcleo supraquiasmático e sintonia da atenção visual"

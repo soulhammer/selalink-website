@@ -5,7 +5,7 @@ pubDate: "2026-04-23"
 updatedDate: "2026-04-23"
 category: "BuildSelf"
 tags: ["歩きながら植物採集？","Routine"]
-heroImage: "/images/blog/rousseau_botany_walk.png"
+heroImage: "/images/blog/rousseau_botany_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ルソーの「孤独な散歩者の夢想」および探索的注意システムに関する認知神経科学研究"

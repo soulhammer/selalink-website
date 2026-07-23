@@ -4,7 +4,7 @@ title: "A energia ardente dos cães de trenó: Cuidado de 3 passos de pelagem du
 description: "Husky Siberiano, o cão de trenó. Aprenda a combater o calor e a canalizar sua grande energia para evitar uivos e destruição com uma rotina de 3 passos."
 pubDate: "2026-03-29"
 updatedDate: "2026-03-30"
-heroImage: "/images/blog/husky_care.png"
+heroImage: "/images/blog/husky_care.webp"
 authority: "Guia da Siberian Husky Club of America e protocolos de atividade para cães de trabalho da IAABC"
 app: "petself"
 formatVersion: 4

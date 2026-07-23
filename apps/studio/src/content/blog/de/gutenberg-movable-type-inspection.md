@@ -5,7 +5,7 @@ pubDate: "2026-06-04"
 updatedDate: "2026-06-04"
 category: "BuildSelf"
 tags: ["Der Meiste","Routine"]
-heroImage: "/images/blog/gutenberg_movable_type_inspection.png"
+heroImage: "/images/blog/gutenberg_movable_type_inspection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Albert Kapr Biografie 'Johannes Gutenberg' & Archive des Gutenberg-Museums Mainz"

@@ -4,7 +4,7 @@ title: "Perserkatzen Langhaarpflege: 3-Schritte-Routine für Fell- und Tränenfl
 description: "Perserkatzen sind für ihr elegantes Fell bekannt. Lernen Sie eine 3-Schritte-Routine kennen, um Tränenflecken und Fellverknotungen zu vermeiden."
 pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
-heroImage: "/images/blog/persian_care.png"
+heroImage: "/images/blog/persian_care.webp"
 authority: "CFA-Perserzuchtrichtlinien und AAFP-Veterinärstandards"
 app: "petself"
 formatVersion: 4

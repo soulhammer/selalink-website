@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Wie strukt","Routine"]
-heroImage: "/images/blog/piaget_morning_writing.png"
+heroImage: "/images/blog/piaget_morning_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Jean Piagets Biografie „Autobiografie“ & Journal of Cognitive Neuroscience"

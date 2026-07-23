@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["感悟光的几何学：保罗","Routine"]
-heroImage: "/images/blog/cezanne_dawn_mountain_observation.png"
+heroImage: "/images/blog/cezanne_dawn_mountain_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "若阿希姆·加斯凯的日记回忆录《塞尚》考证及清晨蓝光暴露对大脑视交叉上核（SCN）觉醒与认知活化影响的环境生理学研究资料"

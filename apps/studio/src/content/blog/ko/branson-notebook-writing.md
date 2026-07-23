@@ -5,7 +5,7 @@ description: "버진 그룹 창업자 리처드 브랜슨 회장의 400개 기�
 pubDate: "2026-03-04"
 category: "BuildSelf"
 tags: ["위인 습관", "리처드브랜슨", "손글씨메모", "아날로그메모", "실행력"]
-heroImage: "/images/blog/branson_notebook_writing.png"
+heroImage: "/images/blog/branson_notebook_writing.webp"
 app: "buildself"
 authority: "리처드 브랜슨 자서전 'Losing My Virginity' 및 버진 그룹 아카이브"
 updatedDate: "2026-03-04"

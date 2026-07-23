@@ -5,7 +5,7 @@ description: "작가 아서 코난 도일이 왜 집필 전에 복싱이나 크�
 pubDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["위인 습관", "생산성"]
-heroImage: "/images/blog/doyle_sports_writing.png"
+heroImage: "/images/blog/doyle_sports_writing.webp"
 app: "buildself"
 authority: "아서 코난 도일의 자서전 및 고강도 신체 활동이 전두엽 BDNF 및 실행 기능 향상에 미치는 운동생리학 연구"
 updatedDate: "2026-06-21"

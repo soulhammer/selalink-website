@@ -5,7 +5,7 @@ description: "80년 넘게 매일 아침 바흐의 평균율 클라비어 곡집
 pubDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["위인 습관", "파블로 카살스", "안정", "명상", "창의성", "루틴"]
-heroImage: "/images/blog/casals_bach_prelude.png"
+heroImage: "/images/blog/casals_bach_prelude.webp"
 app: "buildself"
 authority: "파블로 카살스 자서전 『기쁨과 슬픔』 및 신경미학(Neuroaesthetics)과 음악 요법에 기반한 전두엽 알파파 유도 연구"
 updatedDate: "2026-02-24"

@@ -4,7 +4,7 @@ title: "柴犬的独立性格与双层毛梳理：日常3步触碰惯例"
 description: "柴犬性格独立且对触碰较为敏感。介绍预防双层毛脱落的正确梳理方法，以及减少抵触感的日常3步触碰惯例。"
 pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
-heroImage: "/images/blog/shiba_care.png"
+heroImage: "/images/blog/shiba_care.webp"
 authority: "美国国家柴犬俱乐部 (NSCA) 与 IAABC 行为矫正指南"
 app: "petself"
 formatVersion: 4

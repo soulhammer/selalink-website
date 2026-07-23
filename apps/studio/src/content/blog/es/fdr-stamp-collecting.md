@@ -5,7 +5,7 @@ pubDate: "2026-07-02"
 updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["La 'colecc","Routine"]
-heroImage: "/images/blog/fdr_stamp_collecting.png"
+heroImage: "/images/blog/fdr_stamp_collecting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Registros de la Biblioteca Presidencial FDR"

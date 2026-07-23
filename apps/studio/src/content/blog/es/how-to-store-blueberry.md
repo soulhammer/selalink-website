@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración para conservar
 pubDate: "2026-03-29"
 category: "FreshSnap"
 tags: ["Arándano","Guía de almacenamiento científicamente probada","fruit"]
-heroImage: "/images/blog/blueberry_storage_hack.png"
+heroImage: "/images/blog/blueberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & RDA</strong>"

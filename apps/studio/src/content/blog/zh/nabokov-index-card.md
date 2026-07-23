@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["思维的模块化：弗拉基","Routine"]
-heroImage: "/images/blog/nabokov_index_card.png"
+heroImage: "/images/blog/nabokov_index_card.webp"
 app: "buildself"
 formatVersion: 4
 authority: "弗拉基米尔·纳博科夫自传《说吧，记忆》及基于认知负荷理论的工作记忆优化研究"

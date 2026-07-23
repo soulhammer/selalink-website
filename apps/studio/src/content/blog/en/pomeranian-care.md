@@ -4,7 +4,7 @@ title: "Protecting Pomeranian Joints and Airway: A 3-Step Daily Routine"
 description: "Pomeranians are highly prone to patellar luxation and tracheal collapse. Discover tips to prevent joint injuries and relieve breathing issues using a 3-step routine."
 pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
-heroImage: "/images/blog/pomeranian_care.png"
+heroImage: "/images/blog/pomeranian_care.webp"
 authority: "Official American Pomeranian Club Breed Guide & AVMA Veterinary Manual"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ description: "根据官方食品安全指南，了解西红柿的最佳储存温
 pubDate: "2026-03-24"
 category: "FreshSnap"
 tags: ["西红柿","科学验证的储存指南","fruit"]
-heroImage: "/images/blog/tomato_storage_hack.png"
+heroImage: "/images/blog/tomato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & CDC</strong>"

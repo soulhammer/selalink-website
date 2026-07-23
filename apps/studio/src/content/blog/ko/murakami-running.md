@@ -6,7 +6,7 @@ pubDate: "2026-06-26"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["위인 습관", "무라카미 하루키", "달리기", "루틴", "체력"]
-heroImage: "/images/blog/murakami_running.png"
+heroImage: "/images/blog/murakami_running.webp"
 app: "buildself"
 authority: "무라카미 하루키 저 '달리기를 말할 때 내가 하고 싶은 이야기' 및 Frontiers in Psychology 연구"
 ---

@@ -5,7 +5,7 @@ description: "전쟁과 국정 운영이라는 거대한 의사결정의 무게�
 pubDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["의사결정", "생산성", "시간 관리"]
-heroImage: "/images/blog/eisenhower_matrix_decision.png"
+heroImage: "/images/blog/eisenhower_matrix_decision.webp"
 app: "buildself"
 authority: "아이젠하워 대통령 연설록(1954년 세계교회협의회 연설) 고증 및 인지과학의 의사결정 피로(Decision Fatigue)와 전두엽 자원 배정에 관한 연구 결과"
 updatedDate: "2026-01-01"

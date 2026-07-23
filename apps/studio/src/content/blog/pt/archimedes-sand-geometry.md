@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["O ápice do","Routine"]
-heroImage: "/images/blog/archimedes_sand_geometry.png"
+heroImage: "/images/blog/archimedes_sand_geometry.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autenticação do epistolário de Plutarco 'Vidas paralelas' e pesquisas sobre a teoria da codificação dual"

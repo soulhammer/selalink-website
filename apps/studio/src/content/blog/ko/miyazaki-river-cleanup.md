@@ -5,7 +5,7 @@ description: "스튜디오 지브리의 미야자키 하야오 감독이 매일 
 pubDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["위인 습관", "미야자키 하야오", "사색", "창의성", "휴식"]
-heroImage: "/images/blog/miyazaki_river_cleanup.png"
+heroImage: "/images/blog/miyazaki_river_cleanup.webp"
 app: "buildself"
 authority: "지브리 공식 인터뷰 자료 및 뇌 매핑 재단(Brain Mapping Foundation)의 이완 상태 창의성 연구"
 updatedDate: "2026-02-24"

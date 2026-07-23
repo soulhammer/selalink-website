@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Fokus Offl","Routine"]
-heroImage: "/images/blog/knuth_no_email.png"
+heroImage: "/images/blog/knuth_no_email.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Pernyataan resmi Donald Knuth 'Knuth: Email' dan penelitian Teori Beban Kognitif tentang biaya context switching"

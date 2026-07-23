@@ -4,7 +4,7 @@ description: "Marie Curie, die erste Nobelpreisträgerin und die einzige Person,
 pubDate: "2026-02-28"
 category: "BuildSelf"
 tags: ["Das Geheim","Routine"]
-heroImage: "/images/blog/curie_cycling.png"
+heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Ève Curies Biografie 'Madame Curie' & Sportstudien von Harvard Health Publishing"

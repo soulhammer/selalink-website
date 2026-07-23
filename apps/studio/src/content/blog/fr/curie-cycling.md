@@ -4,7 +4,7 @@ description: "Marie Curie, première femme à remporter un prix Nobel et seule p
 pubDate: "2026-02-28"
 category: "BuildSelf"
 tags: ["Le secret ","Routine"]
-heroImage: "/images/blog/curie_cycling.png"
+heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie 'Madame Curie' d'Ève Curie et recherches sur l'exercice de Harvard Health Publishing"

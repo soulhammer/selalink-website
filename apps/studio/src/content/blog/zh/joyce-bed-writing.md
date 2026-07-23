@@ -5,7 +5,7 @@ pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "BuildSelf"
 tags: ["躺在床上用蓝色色笔写","Routine"]
-heroImage: "/images/blog/joyce_bed_writing.png"
+heroImage: "/images/blog/joyce_bed_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "理查德·艾尔曼撰写的《詹姆斯·乔伊斯传》及关于对比敏感度的医学研究"

@@ -5,7 +5,7 @@ pubDate: "2026-04-04"
 updatedDate: "2026-04-04"
 category: "BuildSelf"
 tags: ["¿Vestir de","Routine"]
-heroImage: "/images/blog/haydn_formal_dressing.png"
+heroImage: "/images/blog/haydn_formal_dressing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Notas biográficas de Griesinger y psicología experimental sobre la cognición revestida"

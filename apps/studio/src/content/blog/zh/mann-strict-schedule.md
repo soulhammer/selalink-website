@@ -5,7 +5,7 @@ pubDate: "2026-01-24"
 updatedDate: "2026-01-24"
 category: "BuildSelf"
 tags: ["每天清晨连家人也被禁","Routine"]
-heroImage: "/images/blog/mann_strict_schedule.png"
+heroImage: "/images/blog/mann_strict_schedule.webp"
 app: "buildself"
 formatVersion: 4
 authority: "普拉特《托马斯·曼的一生》与卡尔·纽波特《深度工作(Deep Work)》"

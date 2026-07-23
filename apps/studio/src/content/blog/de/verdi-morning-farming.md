@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Im Boden e","Routine"]
-heroImage: "/images/blog/verdi_morning_farming.png"
+heroImage: "/images/blog/verdi_morning_farming.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Mary Jane Phillips-Matz' Biografie 'Verdi: A Biography' und umweltneurowissenschaftliche Forschung zu Grounding (Erden), morgendlicher Lichtexposition und Serotoninsynthese"

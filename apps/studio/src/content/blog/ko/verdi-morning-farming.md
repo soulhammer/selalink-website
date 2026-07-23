@@ -5,7 +5,7 @@ description: "악보를 그리기 전 새벽 5시에 일어나 산타가타 농�
 pubDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["창의성", "휴식", "생산성"]
-heroImage: "/images/blog/verdi_morning_farming.png"
+heroImage: "/images/blog/verdi_morning_farming.webp"
 app: "buildself"
 authority: "메리 제인 필립스-매츠 저 『베르디 평전(Verdi: A Biography)』 일기 고증 및 자연 접촉(Earthing)과 아침 Daylight 노출이 대뇌 세로토닌 및 인지 유연성에 미치는 환경신경과학 연구"
 updatedDate: "2026-06-21"

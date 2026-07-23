@@ -5,7 +5,7 @@ pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
 tags: ["Great Habits","bismarck","Routine","Stamina"]
-heroImage: "/images/blog/bismarck_morning_ride_priority.png"
+heroImage: "/images/blog/bismarck_morning_ride_priority.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Bismarck Memoirs 'Gedanken und Erinnerungen' & Historical Biographies"

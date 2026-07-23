@@ -5,7 +5,7 @@ description: "심각한 안질환 속에서도 침대에 누워 거대한 문학
 pubDate: "2026-04-10"
 category: "BuildSelf"
 tags: ["위인 습관", "휴식"]
-heroImage: "/images/blog/joyce_bed_writing.png"
+heroImage: "/images/blog/joyce_bed_writing.webp"
 app: "buildself"
 authority: "리처드 엘만의 제임스 조이스 평전 및 대비 감도와 인지 피로 저감 관련 의학 연구"
 updatedDate: "2026-04-10"

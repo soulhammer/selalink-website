@@ -5,7 +5,7 @@ description: "대공황을 극복한 거시경제학자이자 기상 직후 2시
 pubDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["집중", "생산성", "성공습관"]
-heroImage: "/images/blog/keynes_morning_bed_work.png"
+heroImage: "/images/blog/keynes_morning_bed_work.webp"
 app: "buildself"
 authority: "로버트 스키델스키 저 『존 메이너드 케인스(John Maynard Keynes: Hopes Betrayed)』 전기 고증 및 기상 각성 호르몬(CAR)과 기상 직후 단기 각성이 전두엽 인지 기능에 미치는 임상 뇌신경과학 연구"
 updatedDate: "2026-02-08"

@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Melihat Di","Routine"]
-heroImage: "/images/blog/rembrandt_self_portrait_reflection.png"
+heroImage: "/images/blog/rembrandt_self_portrait_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Arsip Museum Rumah Rembrandt dan Riset Neurokognitif tentang Menatap Cermin, Korteks Prefrontal Medial (mPFC), dan Pemrosesan Referensi Diri"

@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Great Habits","ohtani","Routine","Stamina"]
-heroImage: "/images/blog/ohtani_mandalart_sleep.png"
+heroImage: "/images/blog/ohtani_mandalart_sleep.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Public Records of Shohei Ohtani's High School Mandalart and Nature Archive Research on the Brain Glymphatic System and Recovery Sleep"

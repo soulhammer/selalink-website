@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["L'inspirat","Routine"]
-heroImage: "/images/blog/stravinsky_headstand_composition.png"
+heroImage: "/images/blog/stravinsky_headstand_composition.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Récit de 'An Autobiography' de Stravinsky et recherche de la Harvard Medical School sur la sensation vestibulaire et le débit sanguin cérébral"

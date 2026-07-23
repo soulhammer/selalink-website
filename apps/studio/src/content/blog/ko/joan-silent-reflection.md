@@ -5,7 +5,7 @@ description: "프랑스의 구국 성녀 잔 다르크. 백년전쟁의 소용�
 pubDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["위인 습관", "잔다르크", "침묵명상", "신념정렬", "멘탈회복"]
-heroImage: "/images/blog/joan_silent_reflection.png"
+heroImage: "/images/blog/joan_silent_reflection.webp"
 app: "buildself"
 authority: "잔 다르크 1431년 재판 기록 사료 및 Journal of Research in Personality 학술지"
 updatedDate: "2026-02-12"

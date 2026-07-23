@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["ホワイトハウスの秘密","Routine"]
-heroImage: "/images/blog/reagan_jellybean_relaxation.png"
+heroImage: "/images/blog/reagan_jellybean_relaxation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "レーガン伝記「President Reagan」および咀嚼運動とストレス緩和の学術研究"

@@ -5,7 +5,7 @@ description: "서유럽의 개척자 샤를마뉴 대제가 글쓰기를 배우�
 pubDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/charlemagne_lifelong_learning.png"
+heroImage: "/images/blog/charlemagne_lifelong_learning.webp"
 app: "buildself"
 authority: "에인하르트의 평전 'Life of Charlemagne' 및 해마의 수면 기억 통합(Consolidation) 연구"
 updatedDate: "2026-01-20"

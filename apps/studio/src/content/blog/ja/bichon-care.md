@@ -4,7 +4,7 @@ title: "ビション・フリーゼの巻き毛ケア：もつれ防止とビシ
 description: "アフロヘアーのような頭で人気のビション・フリーゼ。絡まりやすい巻き毛の管理と、突然のエネルギー爆発（ビションタイム）への安全な対処法を紹介します。"
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
-heroImage: "/images/blog/bichon_care.png"
+heroImage: "/images/blog/bichon_care.webp"
 authority: "Bichon Frise Club of Americaガイドライン＆AVMA獣医学指針"
 app: "petself"
 formatVersion: 4

@@ -4,7 +4,7 @@ title: "Skin Sebum Management and Temperature Control Routine for Hairless Sphyn
 description: "Clean skin sebum and protect temperature on Sphynx hairless cats."
 pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
-heroImage: "/images/blog/sphynx_care.png"
+heroImage: "/images/blog/sphynx_care.webp"
 authority: "International Society of Feline Medicine (ISFM) Guidelines"
 app: "petself"
 formatVersion: 4

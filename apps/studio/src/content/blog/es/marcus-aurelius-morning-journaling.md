@@ -5,7 +5,7 @@ pubDate: "2026-05-22"
 updatedDate: "2026-05-22"
 category: "BuildSelf"
 tags: ["El diario ","Routine"]
-heroImage: "/images/blog/marcus_aurelius_morning_journaling.png"
+heroImage: "/images/blog/marcus_aurelius_morning_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Marco Aurelio, Meditaciones / Conceptos de terapia cognitivo-conductual en el diario"

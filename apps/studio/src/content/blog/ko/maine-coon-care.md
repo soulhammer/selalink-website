@@ -4,7 +4,7 @@ title: "신사적인 거대묘 메인쿤, 심장 건강과 풍성한 이중모 3
 description: "사자 같은 외모를 지닌 신사적인 거대 고양이 메인쿤. 체중 과부하로 인한 관절 완충 매트 세팅과 유전성 비대성 심근증(HCM)을 모니터링하기 위한 3단계 데일리 루틴을 정돈합니다."
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
-heroImage: "/images/blog/maine_coon_care.png"
+heroImage: "/images/blog/maine_coon_care.webp"
 authority: "Maine Coon Breeders & Fanciers Association (MCBFA) 및 AAFP 대형묘 관리 프로토콜"
 app: "petself"
 formatVersion: 4

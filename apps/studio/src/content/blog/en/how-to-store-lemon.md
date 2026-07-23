@@ -5,7 +5,7 @@ description: "Learn the best storage temperature, methods, and duration for Lemo
 pubDate: "2026-02-13"
 category: "FreshSnap"
 tags: ["Lemon","Scientifically Proven Storage Guide","fruit"]
-heroImage: "/images/blog/lemon_storage_hack.png"
+heroImage: "/images/blog/lemon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & FSA</strong>"

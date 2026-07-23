@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Pagi Jerni","Routine"]
-heroImage: "/images/blog/miyazaki_river_cleanup.png"
+heroImage: "/images/blog/miyazaki_river_cleanup.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Wawancara Resmi Ghibli dan Penelitian Brain Mapping Foundation tentang Kreativitas dalam Keadaan Rileks"

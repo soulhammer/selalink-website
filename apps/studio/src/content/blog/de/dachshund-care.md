@@ -4,7 +4,7 @@ title: "Dachshund Rückenschutz-Leitfaden und 3-Schritt-Kernmuskulatur-Tagesrout
 description: "Pflege für den Dackel mit langem Rücken und kurzen Beinen. Lernen Sie, Anzeichen von Rückenproblemen zu erkennen und die Wirbelsäule zu schützen."
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
-heroImage: "/images/blog/dachshund_care.png"
+heroImage: "/images/blog/dachshund_care.webp"
 authority: "Dachshund-Gesundheitsratgeber des American Kennel Club und Richtlinien der Veterinär-Wirbelsäulen-Vereinigung"
 app: "petself"
 formatVersion: 4

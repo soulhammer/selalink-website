@@ -5,7 +5,7 @@ pubDate: "2026-05-20"
 updatedDate: "2026-05-20"
 category: "BuildSelf"
 tags: ["Weniger, a","Routine"]
-heroImage: "/images/blog/rams_morning_swim.png"
+heroImage: "/images/blog/rams_morning_swim.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Dieter Rams' Biografie 'As Little Design as Possible' & Studien zur Aufmerksamkeitserholungstheorie"

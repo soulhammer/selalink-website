@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["耕作泥土谱写旋律：朱","Routine"]
-heroImage: "/images/blog/verdi_morning_farming.png"
+heroImage: "/images/blog/verdi_morning_farming.webp"
 app: "buildself"
 formatVersion: 4
 authority: "玛丽·珍·菲利普斯-马茨著《威尔第传》日记考证及环境脑科学关于接地（Earthing）、晨光暴露对大脑血清素及认知柔韧性影响的研究成果"

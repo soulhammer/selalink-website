@@ -5,7 +5,7 @@ pubDate: "2026-05-22"
 updatedDate: "2026-05-22"
 category: "BuildSelf"
 tags: ["O diário m","Routine"]
-heroImage: "/images/blog/marcus_aurelius_morning_journaling.png"
+heroImage: "/images/blog/marcus_aurelius_morning_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Marco Aurélio, Meditações / Conceitos de terapia cognitivo-comportamental na escrita de diários"

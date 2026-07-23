@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["土を耕して作曲したメ","Routine"]
-heroImage: "/images/blog/verdi_morning_farming.png"
+heroImage: "/images/blog/verdi_morning_farming.webp"
 app: "buildself"
 formatVersion: 4
 authority: "メアリー・ジェーン・フィリップス＝マッツ著『ヴェルディ伝記（Verdi: A Biography）』史料考証および環境脳科学におけるアーシング（Earthing）と朝の日光暴露がセロトニン合成に及ぼす影響の研究"

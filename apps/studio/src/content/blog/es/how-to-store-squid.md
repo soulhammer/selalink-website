@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración para conservar
 pubDate: "2026-05-08"
 category: "FreshSnap"
 tags: ["Calamar","Guía de almacenamiento científicamente probada","seafood"]
-heroImage: "/images/blog/squid_storage_hack.png"
+heroImage: "/images/blog/squid_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>NIFS & MFDS & USDA</strong>"

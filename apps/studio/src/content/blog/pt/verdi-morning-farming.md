@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Melodias e","Routine"]
-heroImage: "/images/blog/verdi_morning_farming.png"
+heroImage: "/images/blog/verdi_morning_farming.webp"
 app: "buildself"
 formatVersion: 4
 authority: "A biografia de Mary Jane Phillips-Matz 'Verdi: A Biography' e pesquisa de neurociência ambiental sobre o contato com a terra (earthing), exposição à luz matinal e síntese de serotonina"

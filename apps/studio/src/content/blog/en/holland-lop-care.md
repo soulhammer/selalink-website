@@ -4,7 +4,7 @@ title: "Holland Lop Ear Care Communication and 3-Step Routine for Happy Binky Da
 description: "Comprehensive care guide for the floppy-eared Holland Lop Rabbit. Prevent ear infections (otitis), decode happy 'Binky' jumps, and ensure 24/7 Timothy hay under HRS standards."
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
-heroImage: "/images/blog/holland_lop_care.png"
+heroImage: "/images/blog/holland_lop_care.webp"
 authority: "House Rabbit Society (HRS) & Association of Exotic Mammal Veterinarians (AEMV)"
 app: "petself"
 formatVersion: 4

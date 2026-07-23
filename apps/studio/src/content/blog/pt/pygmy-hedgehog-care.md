@@ -4,7 +4,7 @@ title: "Ungimento do ouriço-cacheiro pigmeu africano e rotina de cuidado térmi
 description: "Cuidado do ouriço-cacheiro pigmeu africano. Compreenda os seus comportamentos únicos de ungir-se com saliva espumosa e mantenha uma temperatura óptima de 24-26 °C com a nossa rotina de 3 passos segura para o inverno."
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
-heroImage: "/images/blog/pygmy_hedgehog_care.png"
+heroImage: "/images/blog/pygmy_hedgehog_care.webp"
 authority: "Diretrizes da Hedgehog Welfare Society e Protocolos Veterinários de Animais Exóticos"
 app: "petself"
 formatVersion: 4

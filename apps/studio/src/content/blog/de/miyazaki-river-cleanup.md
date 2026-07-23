@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Der klare ","Routine"]
-heroImage: "/images/blog/miyazaki_river_cleanup.png"
+heroImage: "/images/blog/miyazaki_river_cleanup.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Offizielle Ghibli-Interviews und Forschung zur Kreativität im Entspannungszustand der Brain Mapping Foundation"

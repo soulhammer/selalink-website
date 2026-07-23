@@ -5,7 +5,7 @@ pubDate: "2026-01-08"
 updatedDate: "2026-01-08"
 category: "BuildSelf"
 tags: ["比尔·盖茨的“思考周","Routine"]
-heroImage: "/images/blog/bill_gates_think_week.png"
+heroImage: "/images/blog/bill_gates_think_week.webp"
 app: "buildself"
 formatVersion: 4
 authority: "微软档案与卡尔·纽波特的《深度工作》"

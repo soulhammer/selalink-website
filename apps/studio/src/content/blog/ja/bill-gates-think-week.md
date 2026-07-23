@@ -5,7 +5,7 @@ pubDate: "2026-01-08"
 updatedDate: "2026-01-08"
 category: "BuildSelf"
 tags: ["ビル・ゲイツの「思考","Routine"]
-heroImage: "/images/blog/bill_gates_think_week.png"
+heroImage: "/images/blog/bill_gates_think_week.webp"
 app: "buildself"
 formatVersion: 4
 authority: "マイクロソフト・アーカイブおよびカル・ニューポート「ディープワーク」"

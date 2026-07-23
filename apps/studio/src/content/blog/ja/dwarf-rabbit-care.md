@@ -4,7 +4,7 @@ title: "ネザーランドドワーフの足ダン警告と消化器保護の3�
 description: "世界で最も小さなウサギであるネザーランドドワーフ。不安を示す足ダンの対処法と、草食動物特有の胃腸をいたわる3ステップの牧草ケアについて解説します。"
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
-heroImage: "/images/blog/dwarf_rabbit_care.png"
+heroImage: "/images/blog/dwarf_rabbit_care.webp"
 authority: "House Rabbit Society ウサギ医療ガイドおよび小動物獣医行動マニュアル"
 app: "petself"
 formatVersion: 4

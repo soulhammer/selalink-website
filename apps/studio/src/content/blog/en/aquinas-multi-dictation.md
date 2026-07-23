@@ -5,7 +5,7 @@ pubDate: "2026-03-09"
 updatedDate: "2026-03-09"
 category: "BuildSelf"
 tags: ["Great Habits","aquinas","Routine","Stamina"]
-heroImage: "/images/blog/aquinas_multi_dictation.png"
+heroImage: "/images/blog/aquinas_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Bernard Gui, Life of Saint Thomas Aquinas / Working memory and context switching research in cognitive neuroscience"

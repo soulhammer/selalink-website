@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["绝对孤立的力量：古斯","Routine"]
-heroImage: "/images/blog/mahler_composition_hut.png"
+heroImage: "/images/blog/mahler_composition_hut.webp"
 app: "buildself"
 formatVersion: 4
 authority: "阿尔玛·马勒的回忆录《古斯塔夫·马勒：记忆与信件》及关于认知控制的噪音控制与孤立研究"

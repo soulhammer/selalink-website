@@ -5,7 +5,7 @@ pubDate: "2026-03-20"
 updatedDate: "2026-03-20"
 category: "BuildSelf"
 tags: ["Great Habits","nightingale","Routine","Stamina"]
-heroImage: "/images/blog/nightingale.png"
+heroImage: "/images/blog/nightingale.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Florence Nightingale, *Notes on Nursing* (1859) & Cognitive Neuroscientific Studies"

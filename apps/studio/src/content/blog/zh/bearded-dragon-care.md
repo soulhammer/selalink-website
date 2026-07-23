@@ -4,7 +4,7 @@ title: "鬃狮蜥日光浴指南与3阶段钙质-UVB日常流程"
 description: "针对性格温顺的鬃狮蜥护理。解读其领地意识的点头行为，并通过3阶段照灯与补钙日常流程预防代谢性骨病（MBD）。"
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
-heroImage: "/images/blog/bearded_dragon_care.png"
+heroImage: "/images/blog/bearded_dragon_care.webp"
 authority: "爬行动物与两栖动物兽医协会 (ARAV) 饲养指南与两栖爬行类动物兽医临床标准"
 app: "petself"
 formatVersion: 4

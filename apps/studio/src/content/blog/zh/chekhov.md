@@ -5,7 +5,7 @@ pubDate: "2026-01-12"
 updatedDate: "2026-01-12"
 category: "BuildSelf"
 tags: ["契诃夫的微观观察程序","Routine"]
-heroImage: "/images/blog/chekhov.png"
+heroImage: "/images/blog/chekhov.webp"
 app: "buildself"
 formatVersion: 4
 authority: "唐纳德·雷菲尔德，*安东·契诃夫：一生* (1997) 和认知神经科学研究"

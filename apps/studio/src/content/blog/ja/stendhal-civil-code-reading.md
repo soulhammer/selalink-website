@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["脳を冷ます乾燥した予","Routine"]
-heroImage: "/images/blog/stendhal_civil_code_reading.png"
+heroImage: "/images/blog/stendhal_civil_code_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "スタンダールがバルザックに送った書簡の考証、および認知心理学のプライミング効果（Priming Effect）と構造的テキスト刺激が大脳の客観的分析力向上に及ぼす影響の研究"

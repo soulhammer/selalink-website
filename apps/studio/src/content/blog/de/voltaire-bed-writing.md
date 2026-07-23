@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Bleiben Si","Routine"]
-heroImage: "/images/blog/voltaire_bed_writing.png"
+heroImage: "/images/blog/voltaire_bed_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Memoiren von Voltaires Sekretär Wagnière & Fachzeitschrift Frontiers in Human Neuroscience"

@@ -5,7 +5,7 @@ description: "19세기 프랑스 문학의 거장 오노레 드 발자크가 실
 pubDate: "2026-02-14"
 category: "BuildSelf"
 tags: ["위인 습관", "오노레 드 발자크", "초몰입", "집중력", "시간관리"]
-heroImage: "/images/blog/balzac_extreme_focus.png"
+heroImage: "/images/blog/balzac_extreme_focus.webp"
 app: "buildself"
 authority: "슈테판 츠바이크 저 '발자크' 및 현대신경약리학회지(Neuropharmacology)"
 updatedDate: "2026-02-14"

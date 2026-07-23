@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["妆容背后的灵魂：玛丽","Routine"]
-heroImage: "/images/blog/monroe_night_reading.png"
+heroImage: "/images/blog/monroe_night_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "玛丽莲·梦露书信诗集《Fragments》历史考证及萨塞克斯大学阅读缓解压力认知疗法(Bibliotherapy)研究"

@@ -4,7 +4,7 @@ title: "An Untamed Instinct? A 3-Step Routine for Korean Shorthair Territory and
 description: "Korean Shorthair, with strong hunting instincts. Learn proper hydration methods to prevent feline cystitis and a 3-step daily routine for territorial comfort."
 pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
-heroImage: "/images/blog/koshort_care.png"
+heroImage: "/images/blog/koshort_care.webp"
 authority: "Cornell Feline Health Center Behavioral Guide & NIAS Companion Animal Care Manual"
 app: "petself"
 formatVersion: 4

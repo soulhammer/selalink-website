@@ -5,7 +5,7 @@ description: "천재 과학자 앙리 푸앵카레의 성공 공식인 하루 4�
 pubDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["위인 습관", "앙리 푸앵카레", "무의식", "집중력", "창의성", "휴식"]
-heroImage: "/images/blog/poincare_time_limitation.png"
+heroImage: "/images/blog/poincare_time_limitation.webp"
 app: "buildself"
 authority: "앙리 푸앵카레 저서 '과학과 방법' 및 인지 학습 과학의 분산 모드 연구"
 updatedDate: "2026-04-19"

@@ -4,7 +4,7 @@ title: "American Shorthair Herz- und Gewichtspflege: 3-Schritte-Routine zur HCM-
 description: "American Shorthairs sind robuste Katzen, neigen aber zu Übergewicht und hypertropher Kardiomyopathie (HCM). Lernen Sie eine Routine für Futter und Herzgesundheit kennen."
 pubDate: "2026-03-02"
 updatedDate: "2026-03-02"
-heroImage: "/images/blog/american_shorthair_care.png"
+heroImage: "/images/blog/american_shorthair_care.webp"
 authority: "Richtlinien der CFA & Studien des Cornell Feline Health Center"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-04-02"
 updatedDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["Sang Geniu","Routine"]
-heroImage: "/images/blog/russell_three_hour_focus.png"
+heroImage: "/images/blog/russell_three_hour_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografi Russell 'The Autobiography of Bertrand Russell' & Studi Ilmu Kognitif Deep Work"

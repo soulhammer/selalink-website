@@ -5,7 +5,7 @@ pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "BuildSelf"
 tags: ["Great Habits","spielberg","Routine","Stamina"]
-heroImage: "/images/blog/spielberg_viewfinder_tactile.png"
+heroImage: "/images/blog/spielberg_viewfinder_tactile.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biography 'Steven Spielberg: A Biography' & Nature Neuroscience Journal"

@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["物理学を織りなした対","Routine"]
-heroImage: "/images/blog/bohr_dialogue_dictation.png"
+heroImage: "/images/blog/bohr_dialogue_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ルース・ムーア著『ニールス・ボーア』伝記の歴史的考証およびレフ・ヴィゴツキーの外的言語（External Speech）認知発達神経心理学研究"

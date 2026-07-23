@@ -5,7 +5,7 @@ pubDate: "2026-05-04"
 updatedDate: "2026-05-04"
 category: "BuildSelf"
 tags: ["点字の発明者の本質直","Routine"]
-heroImage: "/images/blog/braille_tactile_simplification.png"
+heroImage: "/images/blog/braille_tactile_simplification.webp"
 app: "buildself"
 formatVersion: 4
 authority: "評伝「Louis Braille: A Touch of Genius」およびユネスコ史料"

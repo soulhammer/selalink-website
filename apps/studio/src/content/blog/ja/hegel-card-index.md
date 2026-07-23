@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["哲学思考の保管庫？ヘ","Routine"]
-heroImage: "/images/blog/hegel_card_index.png"
+heroImage: "/images/blog/hegel_card_index.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ヘーゲル伝記「Hegel: A Biography」および認知科学の学術研究"

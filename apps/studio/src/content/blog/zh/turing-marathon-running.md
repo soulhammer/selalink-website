@@ -5,7 +5,7 @@ pubDate: "2026-02-02"
 updatedDate: "2026-02-02"
 category: "BuildSelf"
 tags: ["重置天才大脑的赛跑？","Routine"]
-heroImage: "/images/blog/turing_marathon_running.png"
+heroImage: "/images/blog/turing_marathon_running.webp"
 app: "buildself"
 formatVersion: 4
 authority: "安德鲁·霍奇斯传记《Alan Turing: The Enigma》与英国田径协会档案"

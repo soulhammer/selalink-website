@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["La géométr","Routine"]
-heroImage: "/images/blog/bresson_decisive_moment.png"
+heroImage: "/images/blog/bresson_decisive_moment.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Essai de Cartier-Bresson « Le moment décisif » et frontières de la recherche en psychologie"

@@ -5,7 +5,7 @@ pubDate: "2026-04-21"
 updatedDate: "2026-04-21"
 category: "BuildSelf"
 tags: ["突破乱世的大局观？成","Routine"]
-heroImage: "/images/blog/genghis_mountain_meditation.png"
+heroImage: "/images/blog/genghis_mountain_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "《蒙古秘史》与学术期刊《Journal of Mental Imagery》"

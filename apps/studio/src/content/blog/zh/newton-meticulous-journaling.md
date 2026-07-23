@@ -5,7 +5,7 @@ pubDate: "2026-03-30"
 updatedDate: "2026-03-30"
 category: "BuildSelf"
 tags: ["在混乱中记录秩序？艾","Routine"]
-heroImage: "/images/blog/newton_meticulous_journaling.png"
+heroImage: "/images/blog/newton_meticulous_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "艾萨克·牛顿手稿《The Waste Book》与学术期刊《Psychological Science》"

@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["筆先に込めた経営哲学","Routine"]
-heroImage: "/images/blog/lee_morning_calligraphy.png"
+heroImage: "/images/blog/lee_morning_calligraphy.webp"
 app: "buildself"
 formatVersion: 4
 authority: "李秉喆（イ・ビョンチョル）会長の親筆書道作品考証および神経学ジャーナル（Neuroscience Letters）微細運動制御と情緒安定性研究"

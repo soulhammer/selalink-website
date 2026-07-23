@@ -5,7 +5,7 @@ description: "20세기 최고의 무술가이자 액션 스타 브루스 리(이
 pubDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/brucelee_pocket_notebook.png"
+heroImage: "/images/blog/brucelee_pocket_notebook.webp"
 app: "buildself"
 authority: "이소룡 아카이브 'Artist of Life' 및 인지 기술 학술 정보"
 updatedDate: "2026-04-06"

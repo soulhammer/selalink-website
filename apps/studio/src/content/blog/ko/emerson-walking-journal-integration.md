@@ -5,7 +5,7 @@ description: "미국의 대표 사상가 랄프 왈도 에머슨. 낮의 산책 
 pubDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["사색", "휴식", "기록"]
-heroImage: "/images/blog/emerson_walking_journal_integration.png"
+heroImage: "/images/blog/emerson_walking_journal_integration.webp"
 app: "buildself"
 authority: "하버드 대학교 출판부 간행 『에머슨 저널 및 비망록』 실물 고증 및 인지 심리학의 확산 모드(Divergent)와 수렴 모드(Convergent) 교차 가동에 따른 창의적 문제 해결 연구"
 updatedDate: "2026-06-02"

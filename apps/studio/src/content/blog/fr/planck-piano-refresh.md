@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Réinitiali","Routine"]
-heroImage: "/images/blog/planck_piano_refresh.png"
+heroImage: "/images/blog/planck_piano_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Récit de l'autobiographie de Max Planck 'Wissenschaftliche Selbstbiographie' et travaux de la Johns Hopkins Medicine sur la neurobiologie de l'improvisation"

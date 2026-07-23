@@ -4,7 +4,7 @@ description: "Werden Ihre Äpfel schnell weich oder verderben anderes Obst? Entd
 pubDate: "2026-03-11"
 category: "FreshSnap"
 tags: ["Äpfel Lagern", "Obstpflege", "Ethylengas", "Frische-Tipps", "Küchenhacks"]
-heroImage: "/images/blog/apple_storage_hack.png"
+heroImage: "/images/blog/apple_storage_hack.webp"
 app: "freshsnap"
 faqs:
   - question: "Ist es in Ordnung, beschädigte Äpfel einzuwickeln und zu lagern?"
@@ -67,7 +67,7 @@ Daher ist der Schlüssel zu einer erfolgreichen Apfellagerung, Feuchtigkeitsverl
     💡 <strong>Lagertipp</strong>: Wickeln Sie jeden ungewaschenen Apfel fest in Frischhaltefolie (oder einzelne Plastiktüten) ein. Das Einwickeln schließt die natürliche Feuchtigkeit des Apfels ein, um seine typische Knackigkeit zu bewahren, und dient als primäre Barriere, um das Entweichen von Ethylengas zu verhindern.
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/apple_storage_detail.png" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/apple_storage_detail.webp" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["防止记忆被粉饰的记录","Routine"]
-heroImage: "/images/blog/mead_immediate_field_notes.png"
+heroImage: "/images/blog/mead_immediate_field_notes.webp"
 app: "buildself"
 formatVersion: 4
 authority: "简·霍华德著《玛格丽特·米德的一生》记录分析及关于大脑工作记忆（Working Memory）局限与认知卸载（Cognitive Offloading）的神经认知科学研究"

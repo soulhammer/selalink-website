@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["A salvação","Routine"]
-heroImage: "/images/blog/fleming_petridish_observation.png"
+heroImage: "/images/blog/fleming_petridish_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Conferência Nobel de Fleming de 1945 & revista Frontiers in Psychology"

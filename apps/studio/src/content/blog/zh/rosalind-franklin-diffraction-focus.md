@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["揭开DNA结构奥秘的","Routine"]
-heroImage: "/images/blog/rosalind_franklin_diffraction_focus.png"
+heroImage: "/images/blog/rosalind_franklin_diffraction_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "布伦达·马多克斯传记《Rosalind Franklin》与伦敦国王学院档案馆史料"

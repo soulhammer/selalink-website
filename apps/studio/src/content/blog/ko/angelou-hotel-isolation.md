@@ -5,7 +5,7 @@ description: "미국의 위대한 작가 마야 안젤루가 집을 떠나 빈 �
 pubDate: "2026-03-21"
 category: "BuildSelf"
 tags: ["위인 습관", "마야 안젤루", "환경통제", "집중", "몰입"]
-heroImage: "/images/blog/angelou_hotel_isolation.png"
+heroImage: "/images/blog/angelou_hotel_isolation.webp"
 app: "buildself"
 authority: "마야 안젤루의 Writers at Work 인터뷰 및 인지심리학의 환경 자극 제어 연구"
 ---

@@ -4,7 +4,7 @@ title: "Langage de la Huppe de la Calopsitte et Routine en 3 Étapes Anti-Frayeu
 description: "Guide complet pour la Calopsitte élégante. Décodez la huppe, prévenez les frayeurs nocturnes et suivez la routine recommandée par l'AAV."
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
-heroImage: "/images/blog/cockatiel_care.png"
+heroImage: "/images/blog/cockatiel_care.webp"
 authority: "Association of Avian Veterinarians (AAV) & Normes de Comportement Aviaire"
 app: "petself"
 formatVersion: 4

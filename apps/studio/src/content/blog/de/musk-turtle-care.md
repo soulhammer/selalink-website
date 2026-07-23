@@ -4,7 +4,7 @@ title: "Beinstrecken der Gewöhnlichen Moschusschildkröte und 3-Schritt-Wasserf
 description: "Pflege für die beliebte Gewöhnliche Moschusschildkröte. Lernen Sie die Bedeutung des Beinstreckens beim Basking kennen und beugen Sie Panzererkrankungen mit einer 3-Schritt-Filtrationsroutine vor."
 pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
-heroImage: "/images/blog/musk_turtle_care.png"
+heroImage: "/images/blog/musk_turtle_care.webp"
 authority: "Basking-Richtlinien der Gewöhnlichen Moschusschildkröte der World Chelonian Association"
 app: "petself"
 formatVersion: 4

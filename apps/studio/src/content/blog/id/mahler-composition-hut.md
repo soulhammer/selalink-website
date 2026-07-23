@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["Kekuatan I","Routine"]
-heroImage: "/images/blog/mahler_composition_hut.png"
+heroImage: "/images/blog/mahler_composition_hut.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Memoar Alma Mahler 'Gustav Mahler: Memories and Letters' dan penelitian tentang pengendalian kebisingan dan isolasi untuk kontrol kognitif"

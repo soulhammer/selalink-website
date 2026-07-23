@@ -5,7 +5,7 @@ description: "대중의 섹시 심벌 뒤에 400여 권의 장서를 지닌 애�
 pubDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["독서", "성찰", "휴식"]
-heroImage: "/images/blog/monroe_night_reading.png"
+heroImage: "/images/blog/monroe_night_reading.webp"
 app: "buildself"
 authority: "마릴린 먼로 서한·시집 『Fragments』 역사적 고증 및 서섹스 대학교 독서 스트레스 완화 인지치료 연구"
 updatedDate: "2026-03-14"

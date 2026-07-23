@@ -5,7 +5,7 @@ pubDate: "2026-05-20"
 updatedDate: "2026-05-20"
 category: "BuildSelf"
 tags: ["更少，但更好？迪特·","Routine"]
-heroImage: "/images/blog/rams_morning_swim.png"
+heroImage: "/images/blog/rams_morning_swim.webp"
 app: "buildself"
 formatVersion: 4
 authority: "迪特·拉姆斯设计传记《As Little Design as Possible》与注意力恢复理论 (ART) 研究"

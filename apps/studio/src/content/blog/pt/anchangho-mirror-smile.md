@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["Despertar ","Routine"]
-heroImage: "/images/blog/anchangho_mirror_smile.png"
+heroImage: "/images/blog/anchangho_mirror_smile.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Palestras de Ahn Chang-ho e pesquisas sobre a hipótese de feedback facial"

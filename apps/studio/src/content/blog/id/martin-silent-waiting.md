@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Pikiran Se","Routine"]
-heroImage: "/images/blog/martin_silent_waiting.png"
+heroImage: "/images/blog/martin_silent_waiting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Tulisan dan wawancara Agnes Martin 'Agnes Martin: Writings' dan penelitian neurosains tentang meditasi dan osilasi saraf"

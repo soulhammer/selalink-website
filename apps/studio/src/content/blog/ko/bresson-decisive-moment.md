@@ -5,7 +5,7 @@ description: "현대 사진의 거장 앙리 카르티에 브레송. 일상 속�
 pubDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/bresson_decisive_moment.png"
+heroImage: "/images/blog/bresson_decisive_moment.webp"
 app: "buildself"
 authority: "브레송 사진론 'The Decisive Moment' 및 Frontiers in Psychology 인지과학 연구"
 updatedDate: "2026-02-08"

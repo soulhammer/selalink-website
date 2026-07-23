@@ -5,7 +5,7 @@ description: "주 90시간의 격무를 처리하기 위해 하루 일정을 5�
 pubDate: "2026-06-15"
 category: "BuildSelf"
 tags: ["위인 습관", "일론 머스크", "생산성 향상", "시간 관리", "타임 블로킹"]
-heroImage: "/images/blog/elon_musk_time_blocking.png"
+heroImage: "/images/blog/elon_musk_time_blocking.webp"
 app: "buildself"
 authority: "애슐리 반스의 일론 머스크 전기 및 월터 아이작슨의 일론 머스크"
 updatedDate: "2026-06-15"

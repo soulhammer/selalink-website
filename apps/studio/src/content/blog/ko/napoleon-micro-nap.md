@@ -5,7 +5,7 @@ description: "프랑스의 황제이자 전설적인 전략가 나폴레옹 보�
 pubDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["위인 습관", "나폴레옹 보나파르트", "휴식", "낮잠", "생체 리듬"]
-heroImage: "/images/blog/napoleon_micro_nap.png"
+heroImage: "/images/blog/napoleon_micro_nap.webp"
 app: "buildself"
 authority: "나폴레옹 전기 회고록 및 NREM 수면과 인지 회복 연구"
 updatedDate: "2026-06-02"

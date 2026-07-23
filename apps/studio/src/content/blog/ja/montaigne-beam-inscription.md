@@ -5,7 +5,7 @@ pubDate: "2026-03-10"
 updatedDate: "2026-03-10"
 category: "BuildSelf"
 tags: ["モンテーニュの梁思考","Routine"]
-heroImage: "/images/blog/montaigne_beam_inscription.png"
+heroImage: "/images/blog/montaigne_beam_inscription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ミシェル・ド・モンテーニュ『エセー』(Essais) / 視覚的プライミング(Visual Priming)および視線上向き調整がメタ認知向上に及ぼす認知心理学研究"

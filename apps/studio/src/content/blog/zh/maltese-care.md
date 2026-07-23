@@ -4,7 +4,7 @@ title: "绝不妥协的马尔济斯？呵护关节与眼部健康的日常3步�
 description: "深受大家喜爱的马尔济斯犬。介绍预防遗传性膝盖骨脱臼的诀窍，以及用于 management 泪痕的3步日常护理惯例。"
 pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
-heroImage: "/images/blog/maltese_care.png"
+heroImage: "/images/blog/maltese_care.webp"
 authority: "美国养犬俱乐部 (AKC) 官方犬种指南与 IAABC 行为学协议"
 app: "petself"
 formatVersion: 4

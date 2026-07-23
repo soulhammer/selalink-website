@@ -5,7 +5,7 @@ description: "Learn the best storage temperature, methods, and duration for Chee
 pubDate: "2026-05-12"
 category: "FreshSnap"
 tags: ["Cheese","Scientifically Proven Storage Guide","dairy"]
-heroImage: "/images/blog/cheese_storage_hack.png"
+heroImage: "/images/blog/cheese_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & FSA</strong>"

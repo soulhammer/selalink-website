@@ -5,7 +5,7 @@ pubDate: "2026-01-09"
 updatedDate: "2026-01-09"
 category: "BuildSelf"
 tags: ["Elisabeth ","Routine"]
-heroImage: "/images/blog/elizabeth_classical_translation.png"
+heroImage: "/images/blog/elizabeth_classical_translation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Aufzeichnungen von Roger Ascham & Archivmaterial zu Elisabeth I."

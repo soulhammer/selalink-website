@@ -5,7 +5,7 @@ description: "스릴러 영화의 거장 알프레드 히치콕의 촬영 전 �
 pubDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/hitchcock_storyboard_visualization.png"
+heroImage: "/images/blog/hitchcock_storyboard_visualization.webp"
 app: "buildself"
 authority: "알프레드 히치콕 전기 'Alfred Hitchcock: A Life in Darkness and Light' 및 정신적 시뮬레이션 인지과학 연구"
 updatedDate: "2026-02-08"

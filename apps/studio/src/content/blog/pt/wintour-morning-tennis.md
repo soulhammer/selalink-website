@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["A força ce","Routine"]
-heroImage: "/images/blog/wintour_morning_tennis.png"
+heroImage: "/images/blog/wintour_morning_tennis.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia 'Anna: The Biography' e Cerebral Cortex Neurology Journal"

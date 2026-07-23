@@ -4,7 +4,7 @@ title: "忠诚珍岛犬的社会化指南与双层毛护理3步骤常规"
 description: "介绍珍岛犬的正确社会化训练方法，以及如何管理其严重掉毛的双层毛皮的3个日常家庭护理步骤。"
 pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
-heroImage: "/images/blog/jindo_care.png"
+heroImage: "/images/blog/jindo_care.webp"
 authority: "国立畜产科学院珍岛犬指南及KKC行为专家协议"
 app: "petself"
 formatVersion: 4

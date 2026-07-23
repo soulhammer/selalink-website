@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["¿Dulce sec","Routine"]
-heroImage: "/images/blog/reagan_jellybean_relaxation.png"
+heroImage: "/images/blog/reagan_jellybean_relaxation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía de Reagan y estudios sobre masticación y alivio del estrés"

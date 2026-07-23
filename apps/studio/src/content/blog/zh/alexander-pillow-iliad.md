@@ -5,7 +5,7 @@ pubDate: "2026-01-23"
 updatedDate: "2026-01-23"
 category: "BuildSelf"
 tags: ["亚历山大大帝的“枕边","Routine"]
-heroImage: "/images/blog/alexander_pillow_iliad.png"
+heroImage: "/images/blog/alexander_pillow_iliad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "普鲁塔克的《亚历山大传》与阿里安的《亚历山大远征记》"

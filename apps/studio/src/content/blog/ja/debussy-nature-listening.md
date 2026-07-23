@@ -5,7 +5,7 @@ pubDate: "2026-03-27"
 updatedDate: "2026-03-27"
 category: "BuildSelf"
 tags: ["「月の光」の作曲家の","Routine"]
-heroImage: "/images/blog/debussy_nature_listening.png"
+heroImage: "/images/blog/debussy_nature_listening.webp"
 app: "buildself"
 formatVersion: 4
 authority: "評伝「Debussy: His Life and Mind」および Nature Scientific Reports 学術誌"

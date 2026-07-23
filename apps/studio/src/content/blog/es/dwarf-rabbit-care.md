@@ -4,7 +4,7 @@ title: "Señales de golpes de patas del conejo enano de Holanda y rutina de 3 pa
 description: "Cuidado de la raza de conejo más pequeña, el enano de Holanda. Aprenda a responder a los golpes de advertencia con las patas y apoye su sensible sistema digestivo con una rutina de 3 pasos de heno alto en fibra."
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
-heroImage: "/images/blog/dwarf_rabbit_care.png"
+heroImage: "/images/blog/dwarf_rabbit_care.webp"
 authority: "Directrices Médicas de la House Rabbit Society y Estándares Veterinarios de Animales Pequeños"
 app: "petself"
 formatVersion: 4

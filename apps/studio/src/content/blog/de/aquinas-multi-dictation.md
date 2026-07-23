@@ -5,7 +5,7 @@ pubDate: "2026-03-09"
 updatedDate: "2026-03-09"
 category: "BuildSelf"
 tags: ["Thomas von","Routine"]
-heroImage: "/images/blog/aquinas_multi_dictation.png"
+heroImage: "/images/blog/aquinas_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Bernard Gui, Das Leben des Heiligen Thomas von Aquin / Forschung zum Arbeitsgedächtnis und Kontextwechsel"

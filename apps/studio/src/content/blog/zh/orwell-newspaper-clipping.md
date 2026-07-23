@@ -5,7 +5,7 @@ pubDate: "2026-03-13"
 updatedDate: "2026-03-13"
 category: "BuildSelf"
 tags: ["每天清晨用剪刀裁剪新","Routine"]
-heroImage: "/images/blog/orwell_newspaper_clipping.png"
+heroImage: "/images/blog/orwell_newspaper_clipping.webp"
 app: "buildself"
 formatVersion: 4
 authority: "克里克《乔治·奥威尔传》与《认知神经科学(Journal of Cognitive Neuroscience)》期刊"

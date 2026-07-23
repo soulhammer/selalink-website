@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Dialog den","Routine"]
-heroImage: "/images/blog/machiavelli_regal_reading.png"
+heroImage: "/images/blog/machiavelli_regal_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Arsip Surat Machiavelli tahun 1513 kepada Francesco Vettori dan Penelitian Universitas Northwestern tentang Kognisi Berbusana (Enclothed Cognition)"

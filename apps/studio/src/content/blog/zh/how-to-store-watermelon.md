@@ -4,7 +4,7 @@ description: "根据官方食品安全指南，了解西瓜的最佳储存温度
 pubDate: "2026-06-09"
 category: "FreshSnap"
 tags: ["西瓜","科学验证的储存指南","fruit"]
-heroImage: "/images/blog/watermelon_storage_hack.png"
+heroImage: "/images/blog/watermelon_storage_hack.webp"
 app: "freshsnap"
 authority: "<strong>韩国消费者院(KCA) & 韩国食品医药品安全处(MFDS)</strong>"
 steps:
@@ -51,7 +51,7 @@ formatVersion: 4
     如果将西红柿或西瓜切半直接覆上保鲜膜保存，切面上会滋生几千倍以上的细菌，极易引发食物中毒。切开的西瓜绝对不能仅包一层保鲜膜存放。
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/watermelon_storage_detail.png" alt="切勿直接覆盖保鲜膜 — 防止食中毒菌繁殖 ❌🍉" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/watermelon_storage_detail.webp" alt="切勿直接覆盖保鲜膜 — 防止食中毒菌繁殖 ❌🍉" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

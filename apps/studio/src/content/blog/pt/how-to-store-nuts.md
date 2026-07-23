@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración de armazenamen
 pubDate: "2026-06-18"
 category: "FreshSnap"
 tags: ["Nozes","Guia de armazenamento comprovado cientificamente","etc"]
-heroImage: "/images/blog/nuts_storage_hack.png"
+heroImage: "/images/blog/nuts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"

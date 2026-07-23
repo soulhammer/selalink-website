@@ -5,7 +5,7 @@ pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
 tags: ["Le pinceau","Routine"]
-heroImage: "/images/blog/yisunshin_war_diary.png"
+heroImage: "/images/blog/yisunshin_war_diary.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Nanjung Ilgi d'Yi Sun-shin & revue Journal of Experimental Psychology"

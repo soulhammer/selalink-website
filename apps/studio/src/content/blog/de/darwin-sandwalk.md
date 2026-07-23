@@ -5,7 +5,7 @@ pubDate: "2026-06-14"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Die Evolut","Routine"]
-heroImage: "/images/blog/darwin_sandwalk.png"
+heroImage: "/images/blog/darwin_sandwalk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Die Autobiographie von Charles Darwin & Studie der Stanford University über Gehen und Kreativität"

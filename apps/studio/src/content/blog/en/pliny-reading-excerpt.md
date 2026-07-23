@@ -5,7 +5,7 @@ pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
 tags: ["Great Habits","pliny","Routine","Stamina"]
-heroImage: "/images/blog/pliny_reading_excerpt.png"
+heroImage: "/images/blog/pliny_reading_excerpt.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Pliny the Younger, Letters (Epistulae III.5) / Reticular Activating System (RAS) and handwriting research"

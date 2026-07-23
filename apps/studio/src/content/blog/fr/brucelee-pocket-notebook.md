@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["Comment ca","Routine"]
-heroImage: "/images/blog/brucelee_pocket_notebook.png"
+heroImage: "/images/blog/brucelee_pocket_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Bruce Lee Archives « Artiste de la vie » et recherche sur les technologies cognitives"

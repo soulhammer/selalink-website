@@ -5,7 +5,7 @@ description: "Learn the best storage temperature, methods, and duration for Brea
 pubDate: "2026-05-19"
 category: "FreshSnap"
 tags: ["Bread","Scientifically Proven Storage Guide","grain"]
-heroImage: "/images/blog/bread_storage_hack.png"
+heroImage: "/images/blog/bread_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & FSA</strong>"

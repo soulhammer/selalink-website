@@ -5,7 +5,7 @@ pubDate: "2026-03-12"
 updatedDate: "2026-03-12"
 category: "BuildSelf"
 tags: ["La formati","Routine"]
-heroImage: "/images/blog/helen_keller.png"
+heroImage: "/images/blog/helen_keller.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Helen Keller, *L'histoire de ma vie* (1903) et études neuroscientifiques cognitives"

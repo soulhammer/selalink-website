@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["Great Habits","bryant","Routine","Stamina"]
-heroImage: "/images/blog/bryant_four_am_workout.png"
+heroImage: "/images/blog/bryant_four_am_workout.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Kobe Bryant's 'The Mamba Mentality' and Chronobiology Studies on Circadian Physical Metabolism"

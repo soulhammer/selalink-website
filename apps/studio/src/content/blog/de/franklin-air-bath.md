@@ -4,7 +4,7 @@ description: "Benjamin Franklin, der den Blitzableiter erfand und die Gründung 
 pubDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["Jeden Morg","Routine"]
-heroImage: "/images/blog/franklin_air_bath.png"
+heroImage: "/images/blog/franklin_air_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Benjamin Franklins Autobiografie 'The Autobiography of Benjamin Franklin' & New England Journal of Medicine (NEJM)"

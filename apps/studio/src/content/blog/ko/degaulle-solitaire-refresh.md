@@ -5,7 +5,7 @@ description: "위기 속에서 프랑스를 구했던 영웅 샤를 드 골. 그
 pubDate: "2026-03-28"
 category: "BuildSelf"
 tags: ["위인 습관", "샤를 드 골", "솔리테어", "의사결정 피로", "두뇌 이완"]
-heroImage: "/images/blog/degaulle_solitaire_refresh.png"
+heroImage: "/images/blog/degaulle_solitaire_refresh.webp"
 app: "buildself"
 authority: "샤를 드 골의 전쟁 회고록 'War Memoirs' 및 Journal of Behavioral Medicine 학술지"
 updatedDate: "2026-03-28"

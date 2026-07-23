@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Great Habits","doyle","Routine","Stamina"]
-heroImage: "/images/blog/doyle_sports_writing.png"
+heroImage: "/images/blog/doyle_sports_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Conan Doyle's Memoirs & Sports Science Research on BDNF and Executive Function"

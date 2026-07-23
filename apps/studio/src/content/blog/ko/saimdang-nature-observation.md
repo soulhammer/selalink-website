@@ -5,7 +5,7 @@ description: "조선 최고의 여류 예술가 신사임당의 자연 관찰을
 pubDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["위인 습관", "신사임당", "자연 관찰", "창의성", "주의 회복", "뇌과학"]
-heroImage: "/images/blog/saimdang_nature_observation.png"
+heroImage: "/images/blog/saimdang_nature_observation.webp"
 app: "buildself"
 authority: "신사임당의 대표 유작 『초충도(草蟲圖)』 미술사적 기록 및 주의 회복 이론(Attention Restoration Theory) 환경심리학 연구"
 updatedDate: "2026-02-24"

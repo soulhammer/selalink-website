@@ -4,7 +4,7 @@ title: "Axolotl Gill Curling Communication and 3-Step Care Routine for Cool-Wate
 description: "Comprehensive care guide for the Mexican Axolotl. Decode gill curling stress signals, maintain cool temperatures (16°C ~ 18°C), avoid gravel impaction under Amphibian Ark protocols."
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
-heroImage: "/images/blog/axolotl_care.png"
+heroImage: "/images/blog/axolotl_care.webp"
 authority: "International Amphibian Husbandry & Amphibian Ark Veterinary Care Protocol"
 app: "petself"
 formatVersion: 4

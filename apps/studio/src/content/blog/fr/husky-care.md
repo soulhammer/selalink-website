@@ -4,7 +4,7 @@ title: "L'énergie brûlante des chiens de traîneau : Routine en 3 étapes pour
 description: "Le Husky Sibérien, chien de traîneau de l'extrême. Apprenez à gérer le stress thermique et une routine en 3 étapes pour dépenser son énergie et éviter les hurlements."
 pubDate: "2026-03-29"
 updatedDate: "2026-03-30"
-heroImage: "/images/blog/husky_care.png"
+heroImage: "/images/blog/husky_care.webp"
 authority: "Guide de la Siberian Husky Club of America et protocoles d'activité pour chiens de travail de l'IAABC"
 app: "petself"
 formatVersion: 4

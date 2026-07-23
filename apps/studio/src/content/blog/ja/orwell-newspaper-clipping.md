@@ -5,7 +5,7 @@ pubDate: "2026-03-13"
 updatedDate: "2026-03-13"
 category: "BuildSelf"
 tags: ["毎朝新聞をハサミで切","Routine"]
-heroImage: "/images/blog/orwell_newspaper_clipping.png"
+heroImage: "/images/blog/orwell_newspaper_clipping.webp"
 app: "buildself"
 formatVersion: 4
 authority: "バーナード・クリック「ジョージ・オーウェル評伝」および学術誌「Journal of Cognitive Neuroscience」"

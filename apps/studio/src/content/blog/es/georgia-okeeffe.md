@@ -5,7 +5,7 @@ pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "BuildSelf"
 tags: ["Una mirada","Routine"]
-heroImage: "/images/blog/georgia_okeeffe.png"
+heroImage: "/images/blog/georgia_okeeffe.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Hunter Drohojowska-Philp, *Plena floración: el arte y la vida de Georgia O'Keeffe* (2004) y estudios neurocientíficos cognitivos"

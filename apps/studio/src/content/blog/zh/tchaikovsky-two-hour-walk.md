@@ -4,7 +4,7 @@ description: "作曲家彼得·柴可夫斯基每天坚持散步整整两小时�
 pubDate: "2026-06-01"
 category: "BuildSelf"
 tags: ["每日步行2小时汲取音","Routine"]
-heroImage: "/images/blog/tchaikovsky_two_hour_walk.png"
+heroImage: "/images/blog/tchaikovsky_two_hour_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "莫杰斯特·柴可夫斯基著《柴可夫斯基的生命与书信》及 Frontiers in Neuroscience 脑科学研究"

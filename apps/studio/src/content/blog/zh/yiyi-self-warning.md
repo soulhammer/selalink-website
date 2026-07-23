@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["确立动摇不得的自律：","Routine"]
-heroImage: "/images/blog/yiyi_self_warning.png"
+heroImage: "/images/blog/yiyi_self_warning.webp"
 app: "buildself"
 formatVersion: 4
 authority: "栗谷李珥著作《自警文》历史记载与关于自我参照效应（Self-Reference Effect）的认知科学研究"

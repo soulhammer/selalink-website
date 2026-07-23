@@ -4,7 +4,7 @@ title: "Panduan Vitamin C Marmut Abyssinian dan Rutinitas 3 Langkah Kesehatan Pe
 description: "Merawat marmut Abyssinian berbulu pusaran (rosettes). Pelajari cara memenuhi kebutuhan vitamin C dan kelola kandang dari debu jerami."
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
-heroImage: "/images/blog/abyssinian_guinea_pig_care.png"
+heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
 authority: "Pedoman Perawatan Hewan Pengerat RSPCA dan Standar Medis Dokter Hewan Eksotis"
 app: "petself"
 formatVersion: 4

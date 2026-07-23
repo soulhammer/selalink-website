@@ -5,7 +5,7 @@ description: "르네상스 대표 석학 에라스무스가 유럽을 횡단하�
 pubDate: "2026-06-11"
 category: "BuildSelf"
 tags: ["메모", "이동식학습", "인문주의", "르네상스"]
-heroImage: "/images/blog/erasmus_notebook_travel.png"
+heroImage: "/images/blog/erasmus_notebook_travel.webp"
 app: "buildself"
 authority: "에라스무스 《우신예찬》 서문 및 서한집"
 updatedDate: "2026-06-11"

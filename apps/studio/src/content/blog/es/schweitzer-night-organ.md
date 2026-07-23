@@ -5,7 +5,7 @@ pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
 tags: ["¿El reinic","Routine"]
-heroImage: "/images/blog/schweitzer_night_organ.png"
+heroImage: "/images/blog/schweitzer_night_organ.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografía 'Out of My Life and Thought' y Journal of Music Therapy"

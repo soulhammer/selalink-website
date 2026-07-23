@@ -5,7 +5,7 @@ description: "매일 새벽 4시에 첫 훈련을 수행했던 농구 황제 코
 pubDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["위인 습관", "코비 브라이언트", "성장", "의지력", "신체활성"]
-heroImage: "/images/blog/bryant_four_am_workout.png"
+heroImage: "/images/blog/bryant_four_am_workout.webp"
 app: "buildself"
 authority: "코비 브라이언트 자서전 『The Mamba Mentality』 고증 및 크로노바이올로지(Chronobiology) 일주기 신체 대사 연구"
 updatedDate: "2026-01-19"

@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración para conservar
 pubDate: "2026-01-20"
 category: "FreshSnap"
 tags: ["Patata","Guía de almacenamiento científicamente probada","vegetable"]
-heroImage: "/images/blog/potato_storage_hack.png"
+heroImage: "/images/blog/potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & RDA & FSA</strong>"

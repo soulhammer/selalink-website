@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["脳の健康を呼び覚ます","Routine"]
-heroImage: "/images/blog/adams_morning_walk.png"
+heroImage: "/images/blog/adams_morning_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アダムズ伝記「John Adams」および神経可塑性の医学研究"

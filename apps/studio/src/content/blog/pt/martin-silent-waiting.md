@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Mente como","Routine"]
-heroImage: "/images/blog/martin_silent_waiting.png"
+heroImage: "/images/blog/martin_silent_waiting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Escritos e entrevistas de Agnes Martin 'Agnes Martin: Writings' e pesquisa neurocientífica sobre meditação e oscilação neural influenciando a resolução de problemas de insight"

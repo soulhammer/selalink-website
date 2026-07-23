@@ -4,7 +4,7 @@ title: "O menor guerreiro do mundo: Proteção de moleira e cuidado de hipoglice
 description: "O Chihuahua, o menor guerreiro. Descubra como proteger sua cabeça (moleira aberta) e uma rotina de 3 passos para evitar hipoglicemia e tremores."
 pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
-heroImage: "/images/blog/chihuahua_care.png"
+heroImage: "/images/blog/chihuahua_care.webp"
 authority: "Manual de raça do Chihuahua Club of America e diretrizes de cuidado metabólico de raças miniatura da AVMA"
 app: "petself"
 formatVersion: 4

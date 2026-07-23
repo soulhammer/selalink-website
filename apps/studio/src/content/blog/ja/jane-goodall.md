@@ -5,7 +5,7 @@ pubDate: "2026-05-09"
 updatedDate: "2026-05-09"
 category: "BuildSelf"
 tags: ["ジェーン・グドールの","Routine"]
-heroImage: "/images/blog/jane_goodall.png"
+heroImage: "/images/blog/jane_goodall.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジェーン・グドール、*人間の影* (1971) & 認知神経科学研究"

@@ -5,7 +5,7 @@ pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
 tags: ["塞涅卡的入睡前自省：","Routine"]
-heroImage: "/images/blog/seneca_evening_review.png"
+heroImage: "/images/blog/seneca_evening_review.webp"
 app: "buildself"
 formatVersion: 4
 authority: "塞涅卡《论愤怒》（De Ira, III.36） / 睡前认知整理对自主神经系统及副交感神经影响的生理学研究"

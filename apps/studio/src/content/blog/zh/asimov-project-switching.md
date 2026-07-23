@@ -5,7 +5,7 @@ pubDate: "2026-05-26"
 updatedDate: "2026-05-26"
 category: "BuildSelf"
 tags: ["写作卡壳就换台打字机","Routine"]
-heroImage: "/images/blog/asimov_project_switching.png"
+heroImage: "/images/blog/asimov_project_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "艾萨克·阿西莫夫自传体随笔集与APA认知疲劳和工作记忆研究"

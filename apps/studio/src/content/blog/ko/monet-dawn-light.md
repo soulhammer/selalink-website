@@ -5,7 +5,7 @@ pubDate: "2026-03-31"
 updatedDate: "2026-03-31"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/monet_dawn_light.png"
+heroImage: "/images/blog/monet_dawn_light.webp"
 app: "buildself"
 formatVersion: 4
 authority: "클로드 모네의 서한집 'Letters of Claude Monet' 및 Science 학술지"

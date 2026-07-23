@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["消除压迫感的方法：迈","Routine"]
-heroImage: "/images/blog/phelps_pre_race_routine.png"
+heroImage: "/images/blog/phelps_pre_race_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "菲尔普斯自传及《国际运动心理学杂志》(IJSP)关于常规执行的研究"

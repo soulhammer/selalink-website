@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["调理精神的声波：马丁","Routine"]
-heroImage: "/images/blog/luther_lute_meditation.png"
+heroImage: "/images/blog/luther_lute_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "路德全集《Luther's Works, Vol. 49》历史书信考证及哈佛医学院关于音乐疗法与自主神经系统反应的神经科学研究"

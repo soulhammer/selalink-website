@@ -5,7 +5,7 @@ pubDate: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "BuildSelf"
 tags: ["Un rocking","Routine"]
-heroImage: "/images/blog/kennedy_rocking_chair.png"
+heroImage: "/images/blog/kennedy_rocking_chair.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Mémoires du Dr Janet Travell (orthopédiste de la Maison Blanche) & Archives de la bibliothèque présidentielle de JFK"

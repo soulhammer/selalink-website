@@ -5,7 +5,7 @@ description: "노벨상과 아카데미상을 휩쓴 극작가 버나드 쇼. �
 pubDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["집중", "생산성", "휴식"]
-heroImage: "/images/blog/shaw_rotating_hut_focus.png"
+heroImage: "/images/blog/shaw_rotating_hut_focus.webp"
 app: "buildself"
 authority: "영국 에이엇 세인트 로렌스 쇼의 저택(Shaw's Corner) 박물관 오두막 기록 고증 및 환경 심리학의 자연광 차단 집중과 차단 효과에 따른 인지 피로 저하 연구"
 updatedDate: "2026-02-27"

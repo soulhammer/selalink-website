@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Diseñar la","Routine"]
-heroImage: "/images/blog/kubrick_index_box_archive.png"
+heroImage: "/images/blog/kubrick_index_box_archive.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Archivos de Stanley Kubrick de la Universidad de las Artes de Londres (UAL) e investigación de neurociencia cognitiva sobre fragmentación de información, tesis de la mente extendida y descarga cognitiva"

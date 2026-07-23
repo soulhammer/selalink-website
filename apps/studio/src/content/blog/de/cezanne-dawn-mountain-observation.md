@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["Die Geomet","Routine"]
-heroImage: "/images/blog/cezanne_dawn_mountain_observation.png"
+heroImage: "/images/blog/cezanne_dawn_mountain_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Joachim Gasquets Biografie „Cezanne: A Memoir“ und umweltphysiologische Studien zur morgendlichen Blaulichtexposition, Aktivierung des suprachiasmatischen Nukleus und visuellen Aufmerksamkeitssteuerung"

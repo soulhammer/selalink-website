@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Great Habits","alcott","Routine","Stamina"]
-heroImage: "/images/blog/alcott_mood_ribbon.png"
+heroImage: "/images/blog/alcott_mood_ribbon.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Alcott's biography 'Louisa May Alcott: Her Life, Letters, and Journals' & Cognitive Psychology Research"

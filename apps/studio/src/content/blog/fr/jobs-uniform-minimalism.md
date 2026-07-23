@@ -5,7 +5,7 @@ pubDate: "2026-06-25"
 updatedDate: "2026-06-25"
 category: "BuildSelf"
 tags: ["Le génie q","Routine"]
-heroImage: "/images/blog/jobs_uniform_minimalism.png"
+heroImage: "/images/blog/jobs_uniform_minimalism.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie de Steve Jobs par Walter Isaacson & revue JPSP"

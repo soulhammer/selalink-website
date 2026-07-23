@@ -5,7 +5,7 @@ description: "일본의 국민 작가 나쓰메 소세키가 극심한 신경쇠
 pubDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["위인 습관", "나쓰메 소세키", "루틴", "집필 습관", "작동 흥분", "생산성"]
-heroImage: "/images/blog/soseki_forced_writing.png"
+heroImage: "/images/blog/soseki_forced_writing.webp"
 app: "buildself"
 authority: "나쓰메 소세키의 서한 및 회고록 속 집필 규칙 고증 & 독일 생리학자 에밀 크레펠린의 작업흥분(Arbeitsbereitschaft) 이론"
 updatedDate: "2026-04-19"

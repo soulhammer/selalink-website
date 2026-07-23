@@ -5,7 +5,7 @@ description: "노벨 문학상 수상 철학자 버트런드 러셀. 매일 오�
 pubDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["위인 습관", "버트런드 러셀", "집중", "딥워크", "생산성"]
-heroImage: "/images/blog/russell_three_hour_focus.png"
+heroImage: "/images/blog/russell_three_hour_focus.webp"
 app: "buildself"
 authority: "러셀 자서전 'The Autobiography of Bertrand Russell' 및 딥 워크(Deep Work) 인지과학 연구"
 updatedDate: "2026-04-02"

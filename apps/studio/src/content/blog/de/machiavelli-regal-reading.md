@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Dialog mit","Routine"]
-heroImage: "/images/blog/machiavelli_regal_reading.png"
+heroImage: "/images/blog/machiavelli_regal_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Belege aus Machiavellis Brief von 1513 an Francesco Vettori und Northwestern University-Studien zu kleiderinduzierter Kognition (Enclothed Cognition)"

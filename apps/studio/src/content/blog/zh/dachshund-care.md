@@ -4,7 +4,7 @@ title: "腊肠犬护脊指南与强化核心肌肉3阶段日常流程"
 description: "针对身长腿短的腊肠犬护理法。学习识别脊椎不适信号，并通过3阶段日常流程保护其关节与椎间板。"
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
-heroImage: "/images/blog/dachshund_care.png"
+heroImage: "/images/blog/dachshund_care.webp"
 authority: "美国养犬俱乐部 (AKC) 腊肠犬健康指南与兽医脊椎协会指导原则"
 app: "petself"
 formatVersion: 4

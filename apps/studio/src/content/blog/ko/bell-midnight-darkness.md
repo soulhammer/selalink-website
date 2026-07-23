@@ -5,7 +5,7 @@ pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/bell_midnight_darkness.png"
+heroImage: "/images/blog/bell_midnight_darkness.webp"
 app: "buildself"
 formatVersion: 4
 authority: "알렉산더 그레이엄 벨 전기 'Reluctant Genius' 및 Frontiers in Human Neuroscience 학술지"

@@ -4,7 +4,7 @@ title: "Jogos cognitivos e cuidados articulares para o inteligente Border Collie
 description: "Jogos mentais e cuidados articulares para o Border Collie."
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
-heroImage: "/images/blog/border_collie_care.png"
+heroImage: "/images/blog/border_collie_care.webp"
 authority: "Manual do Border Collie do Kennel Club (KC) e estudos cognitivos"
 app: "petself"
 formatVersion: 4

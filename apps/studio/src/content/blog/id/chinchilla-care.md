@@ -4,7 +4,7 @@ title: "Perawatan Maloklusi & Suhu Chinchilla: Rutinitas 3 Langkah untuk Pengiki
 description: "Chinchilla memiliki gigi yang tumbuh terus-menerus dan peka terhadap suhu panas. Pelajari rutinitas pemberian makan rumput kering dan mandi pasir."
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
-heroImage: "/images/blog/chinchilla_care.png"
+heroImage: "/images/blog/chinchilla_care.webp"
 authority: "Pedoman Penanganan Chinchilla AEMV & Kedokteran Gigi Hewan Pengerat"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-01-12"
 updatedDate: "2026-01-12"
 category: "BuildSelf"
 tags: ["Great Habits","chekhov","Routine","Stamina"]
-heroImage: "/images/blog/chekhov.png"
+heroImage: "/images/blog/chekhov.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Donald Rayfield, *Anton Chekhov: A Life* (1997) & Cognitive Neuroscientific Studies"

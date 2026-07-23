@@ -5,7 +5,7 @@ pubDate: "2026-03-27"
 updatedDate: "2026-03-27"
 category: "BuildSelf"
 tags: ["Great Habits","debussy","Routine","Stamina"]
-heroImage: "/images/blog/debussy_nature_listening.png"
+heroImage: "/images/blog/debussy_nature_listening.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biography 'Debussy: His Life and Mind' & Nature Scientific Reports"

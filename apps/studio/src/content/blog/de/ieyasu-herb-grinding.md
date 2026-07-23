@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Rhythmus v","Routine"]
-heroImage: "/images/blog/ieyasu_herb_grinding.png"
+heroImage: "/images/blog/ieyasu_herb_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Dokumente über Tokugawa Ieyasus Kräutersammlung & Forschung zu rhythmischen Bewegungsaktivitäten und Serotonin-Neuromodulation"

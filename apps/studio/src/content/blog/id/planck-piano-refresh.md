@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Atur Ulang","Routine"]
-heroImage: "/images/blog/planck_piano_refresh.png"
+heroImage: "/images/blog/planck_piano_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Buku otobiografi 'Wissenschaftliche Selbstbiographie' oleh Max Planck dan Penelitian Neuroimaging Universitas Johns Hopkins tentang Improvisasi Musik"

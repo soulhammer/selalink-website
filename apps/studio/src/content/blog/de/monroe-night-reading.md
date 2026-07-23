@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Die Seele ","Routine"]
-heroImage: "/images/blog/monroe_night_reading.png"
+heroImage: "/images/blog/monroe_night_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Belege aus Marilyn Monroes Gedichten und Briefen in 'Fragments' und Forschung der Universität Sussex zur Bibliotherapie zur Stressminderung"

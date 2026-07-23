@@ -5,7 +5,7 @@ description: "첫 서브 전 테니스 공을 항상 5번 튕기는 등의 경�
 pubDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["몰입", "의지력", "계획"]
-heroImage: "/images/blog/serena_match_routine.png"
+heroImage: "/images/blog/serena_match_routine.webp"
 app: "buildself"
 authority: "테니스 매거진 및 스포츠 심리학자 싱어(Singer)의 수행 전 루틴(Pre-Performance Routine) 연구 고증"
 updatedDate: "2026-04-19"

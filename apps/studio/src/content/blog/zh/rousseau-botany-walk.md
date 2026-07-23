@@ -5,7 +5,7 @@ pubDate: "2026-04-23"
 updatedDate: "2026-04-23"
 category: "BuildSelf"
 tags: ["漫步时采集植物？让-","Routine"]
-heroImage: "/images/blog/rousseau_botany_walk.png"
+heroImage: "/images/blog/rousseau_botany_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "卢梭著作《孤独散步者的遐想》与关于搜寻注意系统的认知神经科学研究"

@@ -5,7 +5,7 @@ pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
 tags: ["¿El rey de","Routine"]
-heroImage: "/images/blog/ford_line_walking.png"
+heroImage: "/images/blog/ford_line_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografía de Henry Ford 'My Life and Work' y revista Neuropsychologia"

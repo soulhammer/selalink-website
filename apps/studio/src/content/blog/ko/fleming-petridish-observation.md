@@ -5,7 +5,7 @@ description: "페니실린의 위대한 발견자 알렉산더 플레밍. 실수
 pubDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["위인 습관", "알렉산더 플레밍", "실패 성찰", "확산적 사고", "세렌디피티"]
-heroImage: "/images/blog/fleming_petridish_observation.png"
+heroImage: "/images/blog/fleming_petridish_observation.webp"
 app: "buildself"
 authority: "플레밍의 1945년 노벨상 강연록 및 Frontiers in Psychology 학술지"
 updatedDate: "2026-02-08"

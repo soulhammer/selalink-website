@@ -5,7 +5,7 @@ pubDate: "2026-05-04"
 updatedDate: "2026-05-04"
 category: "BuildSelf"
 tags: ["盲文发明家的本质直觉","Routine"]
-heroImage: "/images/blog/braille_tactile_simplification.png"
+heroImage: "/images/blog/braille_tactile_simplification.webp"
 app: "buildself"
 formatVersion: 4
 authority: "传记《Louis Braille: A Touch of Genius》与联合国教科文组织史料"

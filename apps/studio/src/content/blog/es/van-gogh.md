@@ -5,7 +5,7 @@ pubDate: "2026-04-21"
 updatedDate: "2026-04-21"
 category: "BuildSelf"
 tags: ["La reflexi","Routine"]
-heroImage: "/images/blog/van_gogh.png"
+heroImage: "/images/blog/van_gogh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Irving Stone, *Querido Theo: La autobiografía de Vincent van Gogh* (1937) y estudios neurocientíficos cognitivos"

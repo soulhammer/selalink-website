@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["沈黙のタワー：ノーベ","Routine"]
-heroImage: "/images/blog/pavlov_stimulus_control.png"
+heroImage: "/images/blog/pavlov_stimulus_control.webp"
 app: "buildself"
 formatVersion: 4
 authority: "パブロフ伝記「Ivan Pavlov: A Russian Life in Science」および行動心理学の刺激制御理論"

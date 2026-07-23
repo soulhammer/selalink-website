@@ -4,7 +4,7 @@ description: "Marie Curie, a primeira mulher a ganhar um Prêmio Nobel e a únic
 pubDate: "2026-02-28"
 category: "BuildSelf"
 tags: ["O segredo ","Routine"]
-heroImage: "/images/blog/curie_cycling.png"
+heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia 'Madame Curie' de Ève Curie e estudos sobre exercícios da Harvard Health Publishing"

@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Semangat M","Routine"]
-heroImage: "/images/blog/chung_dawn_breakfast.png"
+heroImage: "/images/blog/chung_dawn_breakfast.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografi Ketua Chung dan Penelitian Harvard Medical School tentang Tidur dan Ritme Sirkadian"

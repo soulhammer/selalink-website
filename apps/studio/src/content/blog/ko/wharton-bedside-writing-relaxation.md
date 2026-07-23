@@ -5,7 +5,7 @@ description: "여성 최초로 소설 분야 퓰리처상을 수상한 거장 �
 pubDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["글쓰기", "창의성", "휴식"]
-heroImage: "/images/blog/wharton_bedside_writing_relaxation.png"
+heroImage: "/images/blog/wharton_bedside_writing_relaxation.webp"
 app: "buildself"
 authority: "에디스 워튼의 자서전 『A Backward Glance』 고증 및 부교감신경 활성화가 대뇌 전두엽의 심리적 안전성 및 알파파(Alpha waves) 창조적 사고에 미치는 생리적 영향"
 updatedDate: "2026-06-21"

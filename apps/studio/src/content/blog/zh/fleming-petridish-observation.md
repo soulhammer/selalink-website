@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["从垃圾桶里救出来的的","Routine"]
-heroImage: "/images/blog/fleming_petridish_observation.png"
+heroImage: "/images/blog/fleming_petridish_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "弗莱明1945年诺贝尔奖演讲录与学术期刊《Frontiers in Psychology》"

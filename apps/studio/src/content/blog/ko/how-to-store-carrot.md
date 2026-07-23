@@ -6,7 +6,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "FreshSnap"
 tags: ["당근","과학적으로 검증된 보관 가이드","vegetable"]
-heroImage: "/images/blog/carrot_storage_hack.png"
+heroImage: "/images/blog/carrot_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"

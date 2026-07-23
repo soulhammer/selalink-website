@@ -5,7 +5,7 @@ pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "BuildSelf"
 tags: ["Great Habits","joyce","Routine","Stamina"]
-heroImage: "/images/blog/joyce_bed_writing.png"
+heroImage: "/images/blog/joyce_bed_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Richard Ellmann's biography of James Joyce & Medical research on Contrast Sensitivity"

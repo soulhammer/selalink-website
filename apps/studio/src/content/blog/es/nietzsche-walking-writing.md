@@ -5,7 +5,7 @@ pubDate: "2026-04-27"
 updatedDate: "2026-04-27"
 category: "BuildSelf"
 tags: ["Escribir f","Routine"]
-heroImage: "/images/blog/nietzsche_walking_writing.png"
+heroImage: "/images/blog/nietzsche_walking_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Correspondencia de Friedrich Nietzsche y estudio de psicología cognitiva sobre cómo caminar estimula el pensamiento creativo"

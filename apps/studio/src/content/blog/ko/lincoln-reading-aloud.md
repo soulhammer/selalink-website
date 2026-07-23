@@ -6,7 +6,7 @@ pubDate: "2026-04-26"
 updatedDate: "2026-04-26"
 category: "BuildSelf"
 tags: ["위인 습관", "링컨", "아침루틴", "독서", "낭독"]
-heroImage: "/images/blog/lincoln_reading_aloud.png"
+heroImage: "/images/blog/lincoln_reading_aloud.webp"
 app: "buildself"
 authority: "윌리엄 헌돈 저 '링컨의 생애' 및 인지심리학 연구(MacLeod et al., 2010)"
 ---

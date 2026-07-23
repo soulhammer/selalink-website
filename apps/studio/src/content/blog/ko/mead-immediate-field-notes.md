@@ -5,7 +5,7 @@ description: "기억이 왜곡되기 전 관찰한 사실을 현장에서 즉시
 pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["기록", "메모", "생산성"]
-heroImage: "/images/blog/mead_immediate_field_notes.png"
+heroImage: "/images/blog/mead_immediate_field_notes.webp"
 app: "buildself"
 authority: "제인 하워드 저 『마가렛 미드의 생애(Margaret Mead: A Life)』 기록 분석 및 대뇌 작업 기억(Working Memory)의 한계와 인지 오프로딩(Cognitive Offloading) 신경인지과학 연구"
 updatedDate: "2026-03-18"

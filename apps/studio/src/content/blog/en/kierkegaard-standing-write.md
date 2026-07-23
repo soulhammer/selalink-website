@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Great Habits","kierkegaard","Routine","Stamina"]
-heroImage: "/images/blog/kierkegaard_standing_write.png"
+heroImage: "/images/blog/kierkegaard_standing_write.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Joakim Garff's 'Søren Kierkegaard: A Biography' & Applied Ergonomics"

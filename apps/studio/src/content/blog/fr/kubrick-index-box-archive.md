@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Concevoir ","Routine"]
-heroImage: "/images/blog/kubrick_index_box_archive.png"
+heroImage: "/images/blog/kubrick_index_box_archive.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Archives Stanley Kubrick de l'Université des Arts de Londres (UAL) et recherches en neurosciences cognitives sur le fractionnement des informations, la théorie de l'esprit étendu et la décharge cognitive"

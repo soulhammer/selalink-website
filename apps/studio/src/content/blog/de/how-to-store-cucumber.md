@@ -5,7 +5,7 @@ description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit f√
 pubDate: "2026-01-22"
 category: "FreshSnap"
 tags: ["Gurke","Wissenschaftlich gepr√ºfter Lagerungsratgeber","vegetable"]
-heroImage: "/images/blog/cucumber_storage_hack.png"
+heroImage: "/images/blog/cucumber_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"

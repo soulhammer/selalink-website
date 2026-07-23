@@ -4,7 +4,7 @@ title: "¿El maltés audaz? Una rutina protectora de 3 pasos para el cuidado art
 description: "El maltés, el perro más querido. Descubra consejos para prevenir la luxación patelar genéticamente vulnerable y una rutina diaria de 3 pasos para el control de las manchas de lágrimas."
 pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
-heroImage: "/images/blog/maltese_care.png"
+heroImage: "/images/blog/maltese_care.webp"
 authority: "Guía oficial de razas del American Kennel Club (AKC) y protocolos de comportamiento de IAABC"
 app: "petself"
 formatVersion: 4

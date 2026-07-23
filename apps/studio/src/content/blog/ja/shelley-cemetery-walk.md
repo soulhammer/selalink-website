@@ -5,7 +5,7 @@ pubDate: "2026-07-07"
 updatedDate: "2026-07-07"
 category: "BuildSelf"
 tags: ["共同墓地を歩いてイン","Routine"]
-heroImage: "/images/blog/shelley_cemetery_walk.png"
+heroImage: "/images/blog/shelley_cemetery_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "メアリー・シェリーの日記および厳粛な環境がもたらす敬畏と自己省察に関する環境心理学研究"

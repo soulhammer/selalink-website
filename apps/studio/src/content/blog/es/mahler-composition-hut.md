@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["El poder d","Routine"]
-heroImage: "/images/blog/mahler_composition_hut.png"
+heroImage: "/images/blog/mahler_composition_hut.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Memorias de Alma Mahler 'Gustav Mahler: recuerdos y cartas' e investigación sobre el control del ruido y el aislamiento para el control cognitivo"

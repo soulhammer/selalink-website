@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["早朝5時の知識アーカ","Routine"]
-heroImage: "/images/blog/verne_morning_scrap.png"
+heroImage: "/images/blog/verne_morning_scrap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ヴェルヌ評伝「Jules Verne: Inventor of Science Fiction」および認知心理学の意味論的記憶理論"

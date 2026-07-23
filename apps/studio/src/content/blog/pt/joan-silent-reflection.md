@@ -5,7 +5,7 @@ pubDate: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["O centro d","Routine"]
-heroImage: "/images/blog/joan_silent_reflection.png"
+heroImage: "/images/blog/joan_silent_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Processo de Condenação de Joana d'Arc (1431) & revista Journal of Research in Personality"

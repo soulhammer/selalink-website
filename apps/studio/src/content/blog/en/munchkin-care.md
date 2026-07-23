@@ -4,7 +4,7 @@ title: "Munchkin Cat Joint Protection Guide and 3-Step Low-Height Daily Routine"
 description: "Caring for the short-legged Munchkin cat. Learn how to identify early signs of joint discomfort and maintain their agility with a 3-step daily routine."
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
-heroImage: "/images/blog/munchkin_care.png"
+heroImage: "/images/blog/munchkin_care.webp"
 authority: "Cat Fanciers' Association (CFA) Munchkin Breed Standards and Veterinary Orthopedic Guidelines"
 app: "petself"
 formatVersion: 4

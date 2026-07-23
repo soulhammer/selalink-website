@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["催生完美句子的声音：","Routine"]
-heroImage: "/images/blog/flaubert_gueuloir_recitation.png"
+heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "福楼拜书信集考证及语言心理学领域的双重编码理论（Dual-Coding Theory）与听觉反馈环路错误修正机制分析资料"

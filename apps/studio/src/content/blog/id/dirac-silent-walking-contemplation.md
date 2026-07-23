@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Sang Geniu","Routine"]
-heroImage: "/images/blog/dirac_silent_walking_contemplation.png"
+heroImage: "/images/blog/dirac_silent_walking_contemplation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Graham Farmelo 'The Strangest Man' & Karya Helge Kragh 'Dirac'"

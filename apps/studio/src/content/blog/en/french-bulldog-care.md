@@ -4,7 +4,7 @@ title: "French Bulldog Respiratory & Heat Care: A 3-Step Routine for Airway and 
 description: "French Bulldogs are prone to respiratory distress and heatstroke due to their flat faces. Learn a 3-step routine to manage wrinkles, breathing, and joints."
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
-heroImage: "/images/blog/french_bulldog_care.png"
+heroImage: "/images/blog/french_bulldog_care.webp"
 authority: "American Kennel Club (AKC) French Bulldog Care Guide"
 app: "petself"
 formatVersion: 4

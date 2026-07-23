@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["Great Habits","mahler","Routine","Stamina"]
-heroImage: "/images/blog/mahler_composition_hut.png"
+heroImage: "/images/blog/mahler_composition_hut.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Alma Mahler's memoir 'Gustav Mahler: Memories and Letters' and research on noise control and isolation for cognitive control"

@@ -5,7 +5,7 @@ description: "50년간 멈춤 없이 스누피 만화를 그리기 위해 일상
 pubDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["위인 습관", "찰스 슐츠", "생산성", "단순화", "의사결정", "루틴"]
-heroImage: "/images/blog/schulz_routine_hamburger.png"
+heroImage: "/images/blog/schulz_routine_hamburger.webp"
 app: "buildself"
 authority: "찰스 슐츠 공식 전기 『슐츠와 피너츠』 및 심리학의 자아 고갈 이론(Ego Depletion)에 기반한 의사결정 피로(Decision Fatigue) 방지 연구"
 updatedDate: "2026-02-06"

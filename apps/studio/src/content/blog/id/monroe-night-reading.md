@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Jiwa di Ba","Routine"]
-heroImage: "/images/blog/monroe_night_reading.png"
+heroImage: "/images/blog/monroe_night_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Kumpulan Puisi dan Surat Marilyn Monroe 'Fragments' dan Penelitian Universitas Sussex tentang Biblioterapi"

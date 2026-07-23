@@ -5,7 +5,7 @@ description: "根据官方食品安全指南，了解三文鱼/鲑鱼的最佳�
 pubDate: "2026-05-02"
 category: "FreshSnap"
 tags: ["三文鱼/鲑鱼","科学验证的储存指南","seafood"]
-heroImage: "/images/blog/salmon_storage_hack.png"
+heroImage: "/images/blog/salmon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA)</strong>"

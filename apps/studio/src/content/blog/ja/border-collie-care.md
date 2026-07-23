@@ -4,7 +4,7 @@ title: "天才犬ボーダーコリーのための知育玩具遊びと関節保
 description: "知能ランキング1位のボーダーコリー。有り余るエネルギーを満たす頭脳遊びと、激しい運動で痛めやすい関節を守るケアを学びます。"
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
-heroImage: "/images/blog/border_collie_care.png"
+heroImage: "/images/blog/border_collie_care.webp"
 authority: "英国ケネルクラブ(KC)公式ボーダーコリーガイドおよび行動認知研究"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ description: "프랑스의 대문호 볼테르가 평생 실천했던 침대 위
 pubDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/voltaire_bed_writing.png"
+heroImage: "/images/blog/voltaire_bed_writing.webp"
 app: "buildself"
 authority: "볼테르의 비서 Wagnière의 회고록 & Frontiers in Human Neuroscience 학술지"
 updatedDate: "2026-06-21"

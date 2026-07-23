@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["Great Habits","senna","Routine","Stamina"]
-heroImage: "/images/blog/senna_pre_race_visualization.png"
+heroImage: "/images/blog/senna_pre_race_visualization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Ayrton Senna's Interviews and Cognitive Research on Mental Rehearsal, Motor Imagery, and Supplementary Motor Area (SMA) Activation"

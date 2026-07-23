@@ -5,7 +5,7 @@ pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "BuildSelf"
 tags: ["L'inspirat","Routine"]
-heroImage: "/images/blog/dickinson_scrap_writing.png"
+heroImage: "/images/blog/dickinson_scrap_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Collection Emily Dickinson de la bibliothèque de l'université Harvard & catalogue des poèmes sur enveloppe 'The Gorgeous Nothings'"

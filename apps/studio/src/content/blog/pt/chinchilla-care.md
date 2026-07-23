@@ -4,7 +4,7 @@ title: "Cuidado da Maloclusão e Temperatura da Chinchila: Rotina de 3 passos pa
 description: "Chinchilas têm dentes de crescimento contínuo e são intolerantes ao calor e à umidade. Conheça a rotina com feno e banho de areia."
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
-heroImage: "/images/blog/chinchilla_care.png"
+heroImage: "/images/blog/chinchilla_care.webp"
 authority: "Guia de manejo de Chinchilas da AEMV e padrões de odontologia veterinária"
 app: "petself"
 formatVersion: 4

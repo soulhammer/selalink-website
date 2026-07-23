@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración de armazenamen
 pubDate: "2026-01-16"
 category: "FreshSnap"
 tags: ["Cebola","Guia de armazenamento comprovado cientificamente","vegetable"]
-heroImage: "/images/blog/onion_storage_hack.png"
+heroImage: "/images/blog/onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & FSA</strong>"

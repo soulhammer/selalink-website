@@ -4,7 +4,7 @@ title: "소심하고 섬세한 러시안 블루를 위한 안식처 제공과 3�
 description: "겁이 많고 낯선 소음에 민감한 러시안 블루. 스트레스를 줄이는 안락한 은신처 구성법과 거리를 존중하는 3단계 신뢰 교감 루틴을 알아봅니다."
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
-heroImage: "/images/blog/russian_blue_care.png"
+heroImage: "/images/blog/russian_blue_care.webp"
 authority: "Cat Fanciers' Association (CFA) 묘종 표준 가이드 및 Cornell Feline Health Center"
 app: "petself"
 formatVersion: 4

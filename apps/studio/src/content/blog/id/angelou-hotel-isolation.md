@@ -4,7 +4,7 @@ description: "Penulis dan aktivis terkenal Maya Angelou menulis hanya di kamar h
 pubDate: "2026-03-21"
 category: "BuildSelf"
 tags: ["Menciptaka","Routine"]
-heroImage: "/images/blog/angelou_hotel_isolation.png"
+heroImage: "/images/blog/angelou_hotel_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Wawancara Maya Angelou di The Paris Review (1990) & Studi Psikologi Kognitif tentang Pengendalian Gangguan"

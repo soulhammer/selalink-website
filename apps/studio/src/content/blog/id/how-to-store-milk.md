@@ -5,7 +5,7 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Susu berdasark
 pubDate: "2026-06-22"
 category: "FreshSnap"
 tags: ["Susu","Panduan Penyimpanan yang Terbukti Secara Ilmiah","dairy"]
-heroImage: "/images/blog/milk_storage_hack.png"
+heroImage: "/images/blog/milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"

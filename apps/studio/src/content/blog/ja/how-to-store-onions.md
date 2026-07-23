@@ -5,7 +5,7 @@ description: "公的安全基準に基づく玉ねぎの最適な保存温度、
 pubDate: "2026-01-16"
 category: "FreshSnap"
 tags: ["玉ねぎ","科学的に検証された保存ガイド","vegetable"]
-heroImage: "/images/blog/onion_storage_hack.png"
+heroImage: "/images/blog/onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & FSA</strong>"

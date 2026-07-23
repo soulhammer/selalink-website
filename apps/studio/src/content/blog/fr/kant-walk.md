@@ -4,7 +4,7 @@ description: "Immanuel Kant, le monument de la philosophie moderne. Découvrez l
 pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["L'horloge ","Routine"]
-heroImage: "/images/blog/kant_walk.png"
+heroImage: "/images/blog/kant_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie 'Kant' de Manfred Kuehn & Journal of Neurobiology of Learning and Memory (JN)"

@@ -5,7 +5,7 @@ description: "농구 황제 마이클 조던의 피지컬과 멘탈 한계를 �
 pubDate: "2026-01-16"
 category: "BuildSelf"
 tags: ["위인 습관", "마이클조던", "아침루틴", "의지력", "멘탈셋업"]
-heroImage: "/images/blog/jordan_breakfast_club.png"
+heroImage: "/images/blog/jordan_breakfast_club.webp"
 app: "buildself"
 authority: "피지컬 트레이너 팀 그로버 저서 'Relentless' 및 NBA 아카이브"
 updatedDate: "2026-01-16"

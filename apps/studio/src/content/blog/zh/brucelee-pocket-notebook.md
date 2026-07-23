@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["如何捕捉稍纵即逝的灵","Routine"]
-heroImage: "/images/blog/brucelee_pocket_notebook.png"
+heroImage: "/images/blog/brucelee_pocket_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "李小龙档案“生活艺术家”和认知技术研究"

@@ -4,7 +4,7 @@ description: "Immanuel Kant, der Gigant der modernen Philosophie. Lernen Sie die
 pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Die Uhr vo","Routine"]
-heroImage: "/images/blog/kant_walk.png"
+heroImage: "/images/blog/kant_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Manfred Kuehns Biografie 'Kant' & Journal of Neurobiology of Learning and Memory (JN)"

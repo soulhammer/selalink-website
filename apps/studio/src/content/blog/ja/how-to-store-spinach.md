@@ -5,7 +5,7 @@ description: "公的安全基準に基づくほうれん草の最適な保存温
 pubDate: "2026-02-18"
 category: "FreshSnap"
 tags: ["ほうれん草","科学的に検証された保存ガイド","vegetable"]
-heroImage: "/images/blog/spinach_storage_hack.png"
+heroImage: "/images/blog/spinach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>農村振興庁(RDA) & EFSA & FSA</strong>"

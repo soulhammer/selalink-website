@@ -5,7 +5,7 @@ pubDate: "2026-04-21"
 updatedDate: "2026-04-21"
 category: "BuildSelf"
 tags: ["Great Habits","genghis","Routine","Stamina"]
-heroImage: "/images/blog/genghis_mountain_meditation.png"
+heroImage: "/images/blog/genghis_mountain_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "The Secret History of the Mongols & Journal of Mental Imagery"

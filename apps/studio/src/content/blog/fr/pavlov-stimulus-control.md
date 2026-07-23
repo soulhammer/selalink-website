@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["La tour du","Routine"]
-heroImage: "/images/blog/pavlov_stimulus_control.png"
+heroImage: "/images/blog/pavlov_stimulus_control.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie de Pavlov 'Ivan Pavlov: A Russian Life in Science' & théorie du contrôle des stimuli en psychologie comportementale"

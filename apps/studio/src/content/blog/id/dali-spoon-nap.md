@@ -5,7 +5,7 @@ pubDate: "2026-03-07"
 updatedDate: "2026-03-07"
 category: "BuildSelf"
 tags: ["Tidur Sian","Routine"]
-heroImage: "/images/blog/dali_spoon_nap.png"
+heroImage: "/images/blog/dali_spoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografi Salvador Dalí 'The Secret Life of Salvador Dalí' & Jurnal Frontiers in Human Neuroscience"

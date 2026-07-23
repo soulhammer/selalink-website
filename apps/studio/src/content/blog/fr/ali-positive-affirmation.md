@@ -5,7 +5,7 @@ pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "BuildSelf"
 tags: ["Le secret ","Routine"]
-heroImage: "/images/blog/ali_positive_affirmation.png"
+heroImage: "/images/blog/ali_positive_affirmation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiographie de Muhammad Ali 'The Soul of a Butterfly' & revue Social Cognitive and Affective Neuroscience"

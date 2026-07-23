@@ -4,7 +4,7 @@ title: "The Angelic Golden Retriever? A 3-Step Healthy Routine for Joint and Ret
 description: "Friendly and intelligent Golden Retrievers. Discover tips to prevent genetically vulnerable hip dysplasia in large dogs and a 3-step daily routine for energy outlet."
 pubDate: "2026-05-28"
 updatedDate: "2026-05-30"
-heroImage: "/images/blog/golden_retriever_care.png"
+heroImage: "/images/blog/golden_retriever_care.webp"
 authority: "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral Protocols"
 app: "petself"
 formatVersion: 4

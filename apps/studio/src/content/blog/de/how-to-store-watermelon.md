@@ -4,7 +4,7 @@ description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit f�
 pubDate: "2026-06-09"
 category: "FreshSnap"
 tags: ["Wassermelone","Wissenschaftlich geprüfter Lagerungsratgeber","fruit"]
-heroImage: "/images/blog/watermelon_storage_hack.png"
+heroImage: "/images/blog/watermelon_storage_hack.webp"
 app: "freshsnap"
 authority: "<strong>KCA & MFDS</strong>"
 steps:
@@ -51,7 +51,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
     Das direkte Abdecken einer angeschnittenen Wassermelone mit Frischhaltefolie begünstigt die Bakterienbildung extrem, was das Risiko einer Vergiftung erhöht. Niemals so lagern.
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/watermelon_storage_detail.png" alt="Niemals direkt mit Frischhaltefolie abdecken — Lebensmittelvergiftung vermeiden ❌🍉" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/watermelon_storage_detail.webp" alt="Niemals direkt mit Frischhaltefolie abdecken — Lebensmittelvergiftung vermeiden ❌🍉" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

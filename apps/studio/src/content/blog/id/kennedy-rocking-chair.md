@@ -5,7 +5,7 @@ pubDate: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "BuildSelf"
 tags: ["Kursi Goya","Routine"]
-heroImage: "/images/blog/kennedy_rocking_chair.png"
+heroImage: "/images/blog/kennedy_rocking_chair.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Memoar Dr. Janet Travell (Ortopedi Gedung Putih) & Arsip Perpustakaan Kepresidenan JFK"

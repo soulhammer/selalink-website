@@ -5,7 +5,7 @@ pubDate: "2026-05-23"
 updatedDate: "2026-05-23"
 category: "BuildSelf"
 tags: ["Great Habits","rutherford","Routine","Stamina"]
-heroImage: "/images/blog/rutherford_tea_debate.png"
+heroImage: "/images/blog/rutherford_tea_debate.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biography 'Rutherford: Life and Letters' & Cavendish Laboratory Archives"

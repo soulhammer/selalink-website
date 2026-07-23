@@ -5,7 +5,7 @@ description: "최초의 인공 원자로를 설계하고 노벨상을 수상한 
 pubDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["집중", "생산성", "학습"]
-heroImage: "/images/blog/fermi_dawn_calculation_routine.png"
+heroImage: "/images/blog/fermi_dawn_calculation_routine.webp"
 app: "buildself"
 authority: "동료 에밀리오 세그레의 전기 『물리학자 페르미』 고증 및 인지과학의 대뇌 코르티솔 각성 주기(CAR)와 인지 피크타임(Cognitive Golden Hour)의 작업 집중 효율 연구"
 updatedDate: "2026-05-14"

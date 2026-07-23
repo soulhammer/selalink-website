@@ -5,7 +5,7 @@ pubDate: "2026-04-27"
 updatedDate: "2026-04-27"
 category: "BuildSelf"
 tags: ["Escrever f","Routine"]
-heroImage: "/images/blog/nietzsche_walking_writing.png"
+heroImage: "/images/blog/nietzsche_walking_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Cartas de Friedrich Nietzsche e estudo de psicologia cognitiva sobre como caminhar estimula o pensamento criativo"

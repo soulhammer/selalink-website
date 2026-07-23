@@ -5,7 +5,7 @@ description: "미국의 전설적인 작가이자 저널리스트 조앤 디디�
 pubDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/didion_manuscript_sleeping.png"
+heroImage: "/images/blog/didion_manuscript_sleeping.webp"
 app: "buildself"
 authority: "파리 리뷰 예술론 'Joan Didion Interview' 및 트렌드 인 인지과학 수면 인지 연구"
 updatedDate: "2026-06-02"

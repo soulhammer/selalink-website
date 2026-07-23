@@ -5,7 +5,7 @@ description: "미국 제40대 대통령 로널드 레이건은 담배를 끊고 
 pubDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/reagan_jellybean_relaxation.png"
+heroImage: "/images/blog/reagan_jellybean_relaxation.webp"
 app: "buildself"
 authority: "레이건 전기 'President Reagan: The Role of a Lifetime' 및 저작 운동 스트레스 연구"
 updatedDate: "2026-04-25"

@@ -6,7 +6,7 @@ pubDate: "2026-01-22"
 updatedDate: "2026-01-22"
 category: "FreshSnap"
 tags: ["오이","과학적으로 검증된 보관 가이드","vegetable"]
-heroImage: "/images/blog/cucumber_storage_hack.png"
+heroImage: "/images/blog/cucumber_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"

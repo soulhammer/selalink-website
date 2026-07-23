@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Great Habits","wharton","Routine","Stamina"]
-heroImage: "/images/blog/wharton_bedside_writing_relaxation.png"
+heroImage: "/images/blog/wharton_bedside_writing_relaxation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Edith Wharton's Autobiography 'A Backward Glance' and Neurophysiological Research on Parasympathetic Activation, Alpha Brainwaves, and Creative Writing Performance"

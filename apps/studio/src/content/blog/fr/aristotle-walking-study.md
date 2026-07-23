@@ -5,7 +5,7 @@ pubDate: "2026-03-25"
 updatedDate: "2026-03-25"
 category: "BuildSelf"
 tags: ["La marche ","Routine"]
-heroImage: "/images/blog/aristotle_walking_study.png"
+heroImage: "/images/blog/aristotle_walking_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Diogène Laërce, Vies et doctrines des philosophes illustres / Étude neuroscientifique sur l'exercice et l'hippocampe"

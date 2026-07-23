@@ -5,7 +5,7 @@ pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
 tags: ["El examen ","Routine"]
-heroImage: "/images/blog/seneca_evening_review.png"
+heroImage: "/images/blog/seneca_evening_review.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Séneca, De Ira (Sobre la ira, III.36) / Estudio sobre el sistema nervioso autónomo y la reflexión nocturna"

@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["El sonido ","Routine"]
-heroImage: "/images/blog/flaubert_gueuloir_recitation.png"
+heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Correspondencia recopilada de Flaubert y estudios psicolingüísticos sobre la teoría de la codificación dual y la detección de errores en el bucle de retroalimentación auditiva"

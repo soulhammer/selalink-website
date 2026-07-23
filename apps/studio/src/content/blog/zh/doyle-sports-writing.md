@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["创作福尔摩斯前先打拳","Routine"]
-heroImage: "/images/blog/doyle_sports_writing.png"
+heroImage: "/images/blog/doyle_sports_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "《柯南·道尔回忆录》及关于BDNF与执行功能的运动科学研究"

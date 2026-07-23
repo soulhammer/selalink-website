@@ -5,7 +5,7 @@ pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["2万9千株豌豆的的统","Routine"]
-heroImage: "/images/blog/mendel_pea_statistics.png"
+heroImage: "/images/blog/mendel_pea_statistics.webp"
 app: "buildself"
 formatVersion: 4
 authority: "孟德尔1865年论文《Experiments on Plant Hybridization》与学术期刊《Journal of Educational Psychology》"

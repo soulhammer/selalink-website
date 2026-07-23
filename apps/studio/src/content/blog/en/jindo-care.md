@@ -4,7 +4,7 @@ title: "Loyal Jindo Dog Socialization Guide and Double Coat 3-Step Care Routine"
 description: "Learn Jindo dog socialization and grooming guidelines."
 pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
-heroImage: "/images/blog/jindo_care.png"
+heroImage: "/images/blog/jindo_care.webp"
 authority: "National Institute of Animal Science Jindo Standards & KKC Behavior Expert Protocol"
 app: "petself"
 formatVersion: 4

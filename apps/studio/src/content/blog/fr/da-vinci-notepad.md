@@ -5,7 +5,7 @@ pubDate: "2026-05-29"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Le génie q","Routine"]
-heroImage: "/images/blog/da_vinci_notepad.png"
+heroImage: "/images/blog/da_vinci_notepad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "L'ouvrage de Walter Isaacson 'Léonard de Vinci' et l'étude du Journal of Educational Psychology"

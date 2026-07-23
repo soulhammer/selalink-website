@@ -5,7 +5,7 @@ description: "공인된 안전 가이드라인에 따른 감자의 최적 보관
 pubDate: "2026-01-20"
 category: "FreshSnap"
 tags: ["감자","과학적으로 검증된 보관 가이드","vegetable"]
-heroImage: "/images/blog/potato_storage_hack.png"
+heroImage: "/images/blog/potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & RDA & FSA</strong>"

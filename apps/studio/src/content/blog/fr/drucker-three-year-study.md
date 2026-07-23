@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["L'aventure","Routine"]
-heroImage: "/images/blog/drucker_three_year_study.png"
+heroImage: "/images/blog/drucker_three_year_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiographie de Peter Drucker et recherche neuroscientifique sur la plasticité cérébrale"

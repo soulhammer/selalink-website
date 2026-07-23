@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Foco offli","Routine"]
-heroImage: "/images/blog/knuth_no_email.png"
+heroImage: "/images/blog/knuth_no_email.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Declaração oficial de Donald Knuth 'Knuth: Email' e pesquisa da teoria da carga cognitiva sobre o custo da alternância de contexto"

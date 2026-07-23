@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["Das Wunder","Routine"]
-heroImage: "/images/blog/bryant_four_am_workout.png"
+heroImage: "/images/blog/bryant_four_am_workout.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Belege aus Kobe Bryants 'The Mamba Mentality' und zirkadianbiologische Studien zum körperlichen Stoffwechsel"

@@ -5,7 +5,7 @@ description: "보그 편집장 안나 윈투어. 매일 아침 5시 기상 후 1
 pubDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/wintour_morning_tennis.png"
+heroImage: "/images/blog/wintour_morning_tennis.webp"
 app: "buildself"
 authority: "안나 평전 'Anna: The Biography' 및 세리브럴 코텍스 저널 신경학 연구"
 updatedDate: "2026-05-14"

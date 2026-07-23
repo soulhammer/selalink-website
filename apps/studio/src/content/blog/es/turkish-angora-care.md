@@ -4,7 +4,7 @@ title: "Cuidado de la Sordera y Corazón del Angora Turco: Rutina de 3 pasos par
 description: "Los Angoras Turcos blancos con ojos azules u ojos impares son propensos a sordera congénita y HCM. Conozca una rutina para comunicarse y cepillar su manto."
 pubDate: "2026-04-07"
 updatedDate: "2026-04-07"
-heroImage: "/images/blog/turkish_angora_care.png"
+heroImage: "/images/blog/turkish_angora_care.webp"
 authority: "CFA Turkish Angora Breed Council & Estudios de sordera felina"
 app: "petself"
 formatVersion: 4

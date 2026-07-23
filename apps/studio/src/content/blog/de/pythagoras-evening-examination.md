@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["Die Nacht,","Routine"]
-heroImage: "/images/blog/pythagoras_evening_examination.png"
+heroImage: "/images/blog/pythagoras_evening_examination.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Der pythagoreische Kodex 'Goldene Verse' und die Forschung der Harvard Medical School zur Gedächtniskonsolidierung im Schlafzustand"

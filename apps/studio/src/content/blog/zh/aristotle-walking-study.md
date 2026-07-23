@@ -5,7 +5,7 @@ pubDate: "2026-03-25"
 updatedDate: "2026-03-25"
 category: "BuildSelf"
 tags: ["亚里士多德的逍遥漫步","Routine"]
-heroImage: "/images/blog/aristotle_walking_study.png"
+heroImage: "/images/blog/aristotle_walking_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "第欧根尼·拉尔修《哲人言行录》 / 关于身体运动激活海马体的脑科学研究"

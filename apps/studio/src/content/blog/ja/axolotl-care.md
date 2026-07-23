@@ -4,7 +4,7 @@ title: "ウーパールーパーのエラカールサインと水温管理の3�
 description: "神秘的な両生類ウーパールーパー（アホロートル）。フサフサのエラが前方に曲がるストレスサイン、16°C ~ 18°Cの低温水温管理、Amphibian Ark基準のケアを解説します。"
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
-heroImage: "/images/blog/axolotl_care.png"
+heroImage: "/images/blog/axolotl_care.webp"
 authority: "国際両生類飼育プロトコル (Amphibian Ark) 基準"
 app: "petself"
 formatVersion: 4

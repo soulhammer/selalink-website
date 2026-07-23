@@ -4,7 +4,7 @@ description: "Demosthenes überwand angeborene körperliche Einschränkungen, um
 pubDate: "2026-01-28"
 category: "BuildSelf"
 tags: ["Der Redner","Routine"]
-heroImage: "/images/blog/demosthenes_isolation.png"
+heroImage: "/images/blog/demosthenes_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Plutarchs 'Biografien: Demosthenes' & Forschungen zur Reizkontrolle der APA"

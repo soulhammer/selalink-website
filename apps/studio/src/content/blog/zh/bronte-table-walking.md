@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["夜转圆桌的三姐妹？夏","Routine"]
-heroImage: "/images/blog/bronte_table_walking.png"
+heroImage: "/images/blog/bronte_table_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "伊丽莎白·盖斯凯尔著《夏洛蒂·勃朗特传》史料与勃朗特牧师馆博物馆文献"

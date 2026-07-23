@@ -4,7 +4,7 @@ description: "リンゴがすぐにパサパサになったり、他の果物を
 pubDate: "2026-03-11"
 category: "FreshSnap"
 tags: ["リンゴの保存方法", "果物の保存", "エチレンガス", "鮮度キープ", "暮らしの知恵"]
-heroImage: "/images/blog/apple_storage_hack.png"
+heroImage: "/images/blog/apple_storage_hack.webp"
 app: "freshsnap"
 faqs:
   - question: "傷んだりんごをラップで包んで保存しても大丈夫ですか？"
@@ -67,7 +67,7 @@ formatVersion: 4
     💡 <strong>保存のコツ</strong>: 水をつけない状態のリンゴを、食品用ラップ（またはポリ袋）で1玉ずつ隙間なくぴったりと包みます。これにより、リンゴ本来の水分が閉じ込められてシャキシャキとした食感を長く保つことができ、エチレンガスの外部への漏れも一次的に防ぐことができます。
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/apple_storage_detail.png" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/apple_storage_detail.webp" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

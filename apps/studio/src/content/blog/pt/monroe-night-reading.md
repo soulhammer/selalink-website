@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["A alma por","Routine"]
-heroImage: "/images/blog/monroe_night_reading.png"
+heroImage: "/images/blog/monroe_night_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autenticación dos poemas e íntimos de Marilyn Monroe 'Fragments' e pesquisas da Universidade de Sussex sobre la biblioterapia"

@@ -4,7 +4,7 @@ title: "Kriegstanz des Marshall-Frettchens und 3-Schritt-Erkundungsroutine"
 description: "Pflege für das verspielte Marshall-Frettchen. Lernen Sie, auf seinen Kriegstanz zu reagieren, und halten Sie seine aktive Neugier und Ohrenhygiene mit unserem 3-Schritt-Tagesleitfaden aufrecht."
 pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
-heroImage: "/images/blog/marshall_ferret_care.png"
+heroImage: "/images/blog/marshall_ferret_care.webp"
 authority: "Standards der American Ferret Association und Tierärztliche Richtlinien für exotische Kleintiere"
 app: "petself"
 formatVersion: 4

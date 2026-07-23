@@ -5,7 +5,7 @@ pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
 tags: ["把深夜的完全黑暗当做","Routine"]
-heroImage: "/images/blog/bell_midnight_darkness.png"
+heroImage: "/images/blog/bell_midnight_darkness.webp"
 app: "buildself"
 formatVersion: 4
 authority: "传记《Reluctant Genius》与学术期刊《Frontiers in Human Neuroscience》"

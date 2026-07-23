@@ -5,7 +5,7 @@ description: "아테네 외곽의 정원에서 친구들과 검소한 식사를 
 pubDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["휴식", "안정", "사색"]
-heroImage: "/images/blog/epicurus_garden_conversation.png"
+heroImage: "/images/blog/epicurus_garden_conversation.webp"
 app: "buildself"
 authority: "에피쿠로스의 저서 『메노이케우스에게 보낸 편지』 역사적 문헌 분석 및 집단 유대감 형성이 체내 스트레스 호르몬(HPA 축)에 미치는 신경생리학적 임상 연구"
 updatedDate: "2026-01-20"

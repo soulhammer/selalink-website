@@ -4,7 +4,7 @@ description: "Nikola Tesla, der geniale Erfinder, der jeden Abend im Bett seine 
 pubDate: "2026-04-28"
 category: "BuildSelf"
 tags: ["Das Genie,","Routine"]
-heroImage: "/images/blog/tesla_toe_curling.png"
+heroImage: "/images/blog/tesla_toe_curling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Nikola Teslas Autobiografie 'My Inventions' & Journal of Physical Therapy Science (JPTS)"

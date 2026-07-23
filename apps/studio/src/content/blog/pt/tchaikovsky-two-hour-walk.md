@@ -4,7 +4,7 @@ description: "O compositor Pyotr Tchaikovsky caminhava exatamente duas horas tod
 pubDate: "2026-06-01"
 category: "BuildSelf"
 tags: ["Caminhar 2","Routine"]
-heroImage: "/images/blog/tchaikovsky_two_hour_walk.png"
+heroImage: "/images/blog/tchaikovsky_two_hour_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Obra de Modest Tchaikovsky 'The Life & Letters of Peter Ilich Tchaikovsky' e estudo da Frontiers in Neuroscience"

@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración para conservar
 pubDate: "2026-03-05"
 category: "FreshSnap"
 tags: ["Plátano","Guía de almacenamiento científicamente probada","fruit"]
-heroImage: "/images/blog/banana_storage_hack.png"
+heroImage: "/images/blog/banana_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & WHO</strong>"

@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["頭の中で百パーセント","Routine"]
-heroImage: "/images/blog/hitchcock_storyboard_visualization.png"
+heroImage: "/images/blog/hitchcock_storyboard_visualization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アルフレッド・ヒッチコック伝記「Alfred Hitchcock: A Life in Darkness and Light」および精神的シミュレーション認知科学研究"

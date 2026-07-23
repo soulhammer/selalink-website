@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["吉卜力大师清晨的宁静","Routine"]
-heroImage: "/images/blog/miyazaki_river_cleanup.png"
+heroImage: "/images/blog/miyazaki_river_cleanup.webp"
 app: "buildself"
 formatVersion: 4
 authority: "吉卜力官方访谈资料及脑映射基金会(Brain Mapping Foundation)关于放松状态下创造力的研究"

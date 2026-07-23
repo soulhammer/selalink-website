@@ -5,7 +5,7 @@ pubDate: "2026-06-04"
 updatedDate: "2026-06-04"
 category: "BuildSelf"
 tags: ["위인 습관", "Routine"]
-heroImage: "/images/blog/ashoka_edict_inscribed_reflection.png"
+heroImage: "/images/blog/ashoka_edict_inscribed_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Romila Thapar 역사서 'Asoka and the Decline of the Mauryas' 및 아쇼카 석주 칙령(Ashoka Edicts) 비문"

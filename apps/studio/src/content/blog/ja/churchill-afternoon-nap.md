@@ -5,7 +5,7 @@ pubDate: "2026-04-24"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["一日を二つに分割して","Routine"]
-heroImage: "/images/blog/churchill_afternoon_nap.png"
+heroImage: "/images/blog/churchill_afternoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ウィンストン・チャーチル 著『第二次世界大戦回顧録』＆ NASA 宇宙飛行士パワーナップ注意回復研究"

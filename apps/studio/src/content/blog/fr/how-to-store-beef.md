@@ -5,7 +5,7 @@ description: "Découvrez la température, les méthodes et la durée optimales d
 pubDate: "2026-03-28"
 category: "FreshSnap"
 tags: ["Bœuf","Guide de conservation scientifiquement prouvé","meat"]
-heroImage: "/images/blog/beef_storage_hack.png"
+heroImage: "/images/blog/beef_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"

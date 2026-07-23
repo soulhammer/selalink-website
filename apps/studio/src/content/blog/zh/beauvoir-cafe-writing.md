@@ -5,7 +5,7 @@ pubDate: "2026-06-08"
 updatedDate: "2026-06-08"
 category: "BuildSelf"
 tags: ["每天在同一家咖啡馆喝","Routine"]
-heroImage: "/images/blog/beauvoir_cafe_writing.png"
+heroImage: "/images/blog/beauvoir_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "波伏娃自传《非凡岁月(The Prime of Life)》与《消费者研究期刊(Journal of Consumer Research)》"

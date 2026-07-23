@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Great Habits","chung","Routine","Stamina"]
-heroImage: "/images/blog/chung_dawn_breakfast.png"
+heroImage: "/images/blog/chung_dawn_breakfast.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Chairman Chung's Autobiography and Harvard Medical School Research on Sleep and Circadian Rhythm"

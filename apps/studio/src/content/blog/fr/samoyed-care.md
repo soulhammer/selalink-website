@@ -4,7 +4,7 @@ title: "Soin du Samoyède (Pelage Double et Hanche) : Routine en 3 étapes pour 
 description: "Le Samoyède est exposé à la dysplasie de la hanche et aux infections cutanées. Découvrez une routine en 3 étapes pour l'entretien du poil et des articulations."
 pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
-heroImage: "/images/blog/samoyed_care.png"
+heroImage: "/images/blog/samoyed_care.webp"
 authority: "Manuel officiel de l'AKC pour le Samoyède et normes de l'OFA"
 app: "petself"
 formatVersion: 4

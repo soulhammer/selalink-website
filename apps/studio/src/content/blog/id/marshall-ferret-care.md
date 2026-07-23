@@ -4,7 +4,7 @@ title: "Tarian Perang Ferret Marshall dan Rutin Eksplorasi 3 Langkah"
 description: "Merawat Ferret Marshall yang lincah dan jenaka. Pelajari cara merespons tarian perang mereka dan pertahankan rasa ingin tahu yang aktif serta higiene telinga dengan panduan harian 3 langkah kami."
 pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
-heroImage: "/images/blog/marshall_ferret_care.png"
+heroImage: "/images/blog/marshall_ferret_care.webp"
 authority: "Standar American Ferret Association and Panduan Veteriner Hewan Eksotis"
 app: "petself"
 formatVersion: 4

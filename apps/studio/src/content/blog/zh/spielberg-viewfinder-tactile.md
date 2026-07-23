@@ -5,7 +5,7 @@ pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "BuildSelf"
 tags: ["通过摆弄玩具将巨幅想","Routine"]
-heroImage: "/images/blog/spielberg_viewfinder_tactile.png"
+heroImage: "/images/blog/spielberg_viewfinder_tactile.webp"
 app: "buildself"
 formatVersion: 4
 authority: "斯皮尔伯格传记《Steven Spielberg》与学术期刊《Nature Neuroscience》"

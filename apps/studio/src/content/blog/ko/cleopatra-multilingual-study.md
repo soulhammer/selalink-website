@@ -5,7 +5,7 @@ description: "라틴어, 에티오피아어 등 9개 언어를 통역 없이 완
 pubDate: "2026-03-03"
 category: "BuildSelf"
 tags: ["위인 습관", "클레오파트라", "언어 공부", "인지 유연성", "뇌 가소성"]
-heroImage: "/images/blog/cleopatra_multilingual_study.png"
+heroImage: "/images/blog/cleopatra_multilingual_study.webp"
 app: "buildself"
 authority: "플루타르코스 안토니우스 전기 및 마이클 그랜트의 클레오파트라 연구"
 updatedDate: "2026-03-03"

@@ -4,7 +4,7 @@ description: "著名作家兼活动家马雅·安杰卢只在空无一物的旅�
 pubDate: "2026-03-21"
 category: "BuildSelf"
 tags: ["创造深度专注的神圣空","Routine"]
-heroImage: "/images/blog/angelou_hotel_isolation.png"
+heroImage: "/images/blog/angelou_hotel_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "马雅·安杰卢在《巴黎评论》的访谈(1990) 及关于注意力分心控制的认知心理学研究"

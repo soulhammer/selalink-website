@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["¿Laberinto","Routine"]
-heroImage: "/images/blog/borges_mental_dictation.png"
+heroImage: "/images/blog/borges_mental_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía de Borges 'Borges: A Life' y estudios de neuroplasticidad"

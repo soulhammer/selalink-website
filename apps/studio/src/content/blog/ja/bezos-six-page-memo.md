@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["アマゾン会議室の沈黙","Routine"]
-heroImage: "/images/blog/bezos_six_page_memo.png"
+heroImage: "/images/blog/bezos_six_page_memo.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アマゾン株主書簡およびハーバード・ビジネス・レビュー（HBR）の意思決定研究"

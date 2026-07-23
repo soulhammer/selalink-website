@@ -5,7 +5,7 @@ pubDate: "2026-01-03"
 updatedDate: "2026-01-03"
 category: "BuildSelf"
 tags: ["O novelist","Routine"]
-heroImage: "/images/blog/poe_scroll_writing.png"
+heroImage: "/images/blog/poe_scroll_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Edgar Allan Poe: His Life and Legacy de Jeffrey Meyers & estudo de Applied Cognitive Psychology"

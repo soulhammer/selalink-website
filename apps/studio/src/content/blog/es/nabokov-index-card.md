@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Modularida","Routine"]
-heroImage: "/images/blog/nabokov_index_card.png"
+heroImage: "/images/blog/nabokov_index_card.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografía de Vladimir Nabokov 'Habla, memoria' e investigación de la teoría de la carga cognitiva sobre la optimización de la memoria de trabajo"

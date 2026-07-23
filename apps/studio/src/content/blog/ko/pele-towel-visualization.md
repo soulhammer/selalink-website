@@ -5,7 +5,7 @@ description: "축구 황제 펠레의 긴장 극복과 경기력 극대화 비�
 pubDate: "2026-01-30"
 category: "BuildSelf"
 tags: ["위인 습관", "펠레", "이미지트레이닝", "시각화", "마인드컨트롤"]
-heroImage: "/images/blog/pele_towel_visualization.png"
+heroImage: "/images/blog/pele_towel_visualization.webp"
 app: "buildself"
 authority: "펠레 자서전 'My Life and the Beautiful Game' 및 FIFA 공식 다큐멘터리 자료"
 updatedDate: "2026-01-30"

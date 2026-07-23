@@ -5,7 +5,7 @@ pubDate: "2026-04-27"
 updatedDate: "2026-04-27"
 category: "BuildSelf"
 tags: ["歩きながら哲学を完成","Routine"]
-heroImage: "/images/blog/nietzsche_walking_writing.png"
+heroImage: "/images/blog/nietzsche_walking_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "フリードリヒ・ニーチェの書簡集 ＆ 歩行が創造的思考に与える影響に関する認知心理学研究"

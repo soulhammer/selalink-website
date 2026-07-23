@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Melodi yan","Routine"]
-heroImage: "/images/blog/verdi_morning_farming.png"
+heroImage: "/images/blog/verdi_morning_farming.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Mary Jane Phillips-Matz 'Verdi: A Biography' dan Riset Neurosains Lingkungan tentang Earthing, Paparan Cahaya Pagi, dan Sintesis Serotonin"

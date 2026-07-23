@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Psikologi ","Routine"]
-heroImage: "/images/blog/magritte_suit_painting.png"
+heroImage: "/images/blog/magritte_suit_painting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Rene Magritte dan penelitian kognitif tentang Enclothed Cognition yang memengaruhi rentang perhatian"

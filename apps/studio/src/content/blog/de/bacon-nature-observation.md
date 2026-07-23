@@ -5,7 +5,7 @@ pubDate: "2026-01-04"
 updatedDate: "2026-01-04"
 category: "BuildSelf"
 tags: ["Francis Ba","Routine"]
-heroImage: "/images/blog/bacon_nature_observation.png"
+heroImage: "/images/blog/bacon_nature_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "John Aubrey, Brief Lives / Aufmerksamkeit-Erholungs-Theorie (ART) in der Umweltpsychologie"

@@ -5,7 +5,7 @@ pubDate: "2026-05-01"
 updatedDate: "2026-05-01"
 category: "BuildSelf"
 tags: ["O génio qu","Routine"]
-heroImage: "/images/blog/mozart_billiard_ideation.png"
+heroImage: "/images/blog/mozart_billiard_ideation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Cartas de Constanze Mozart e estudo da Universidade da Califórnia, Santa Bárbara (UCSB) sobre a DMN (2012)"

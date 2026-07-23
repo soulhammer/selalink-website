@@ -5,7 +5,7 @@ pubDate: "2026-05-29"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["常に腰に手帳をぶら下","Routine"]
-heroImage: "/images/blog/da_vinci_notepad.png"
+heroImage: "/images/blog/da_vinci_notepad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ウォルター・アイザックソン 著『レオナルド・ダ・ヴィンチ』＆ 教育心理学術誌(JEP) メモ効果研究"

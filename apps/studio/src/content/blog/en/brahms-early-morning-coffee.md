@@ -5,7 +5,7 @@ pubDate: "2026-06-13"
 updatedDate: "2026-06-13"
 category: "BuildSelf"
 tags: ["Great Habits","brahms","Routine","Stamina"]
-heroImage: "/images/blog/brahms_early_morning_coffee.png"
+heroImage: "/images/blog/brahms_early_morning_coffee.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Jan Swafford's 'Johannes Brahms: A Biography' & 'Nature Neuroscience' Journal"

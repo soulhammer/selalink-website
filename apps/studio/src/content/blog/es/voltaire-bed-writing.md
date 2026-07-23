@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["No salgas ","Routine"]
-heroImage: "/images/blog/voltaire_bed_writing.png"
+heroImage: "/images/blog/voltaire_bed_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Memorias del secretario de Voltaire, Wagnière, y la revista Frontiers in Human Neuroscience"

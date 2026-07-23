@@ -5,7 +5,7 @@ description: "야생 식물을 분류 및 채집하며 사색하고 주머니 �
 pubDate: "2026-04-23"
 category: "BuildSelf"
 tags: ["위인 습관", "사색"]
-heroImage: "/images/blog/rousseau_botany_walk.png"
+heroImage: "/images/blog/rousseau_botany_walk.webp"
 app: "buildself"
 authority: "장자크 루소의 저서 '고독한 산책자의 몽상' 및 수집/탐색 행위가 전두엽 인지 이완에 미치는 뇌과학 연구"
 updatedDate: "2026-04-23"

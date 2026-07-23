@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["部屋を歩き回る声：ド","Routine"]
-heroImage: "/images/blog/dostoevsky_pacing_recitation.png"
+heroImage: "/images/blog/dostoevsky_pacing_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "妻アンナの回顧録『ドストエフスキーと歩んだ日々』およびミュンヘン大学（LMU）の身体認知（Embodied Cognition）研究"

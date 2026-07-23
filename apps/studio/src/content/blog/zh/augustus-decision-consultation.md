@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["缓中求急的皇帝决断：","Routine"]
-heroImage: "/images/blog/augustus_decision_consultation.png"
+heroImage: "/images/blog/augustus_decision_consultation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "苏维托尼乌斯著《罗马十二帝王传》史料记录及卡尼曼与特沃斯基关于启发法与决策时“确证偏差”的认知行为研究成果"

@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Emptying M","Routine"]
-heroImage: "/images/blog/matsushita_bath_reflection.png"
+heroImage: "/images/blog/matsushita_bath_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Konosuke Matsushita's writings & Research on Parasympathetic Activation and Default Mode Network"

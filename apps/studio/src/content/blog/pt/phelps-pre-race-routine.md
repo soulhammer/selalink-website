@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Como apaga","Routine"]
-heroImage: "/images/blog/phelps_pre_race_routine.png"
+heroImage: "/images/blog/phelps_pre_race_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografia de Phelps e pesquisa sobre rotinas do International Journal of Sport Psychology (IJSP)"

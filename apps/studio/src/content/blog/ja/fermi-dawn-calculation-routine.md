@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["ゴールデンアワーの絶","Routine"]
-heroImage: "/images/blog/fermi_dawn_calculation_routine.png"
+heroImage: "/images/blog/fermi_dawn_calculation_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "同僚エミリオ・セグレの伝記『物理学者フェルミ』の考証、および認知科学における大脳コルチゾール覚醒反応（CAR）と認知ピークタイム（Cognitive Golden Hour）の作業集中効率に関する研究"

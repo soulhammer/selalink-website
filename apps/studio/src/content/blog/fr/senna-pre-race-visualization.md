@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["Méditation","Routine"]
-heroImage: "/images/blog/senna_pre_race_visualization.png"
+heroImage: "/images/blog/senna_pre_race_visualization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Interviews d'Ayrton Senna et recherche cognitive sur la répétition mentale, l'imagerie motrice et l'activation de l'aire motrice supplémentaire (SMA)"

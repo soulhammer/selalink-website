@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["위인 습관", "Routine"]
-heroImage: "/images/blog/vivaldi_composition_walk.png"
+heroImage: "/images/blog/vivaldi_composition_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "H.C. Robbins Landon 전기 'Vivaldi: Voice of the Baroque' 및 바로크 자필 악보 자필본 해제"

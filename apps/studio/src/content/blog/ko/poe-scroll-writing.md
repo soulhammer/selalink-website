@@ -5,7 +5,7 @@ pubDate: "2026-01-03"
 updatedDate: "2026-01-03"
 category: "BuildSelf"
 tags: ["원고를 두루마리로 ","Routine"]
-heroImage: "/images/blog/poe_scroll_writing.png"
+heroImage: "/images/blog/poe_scroll_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "제프리 마이어스의 '에드거 앨런 포 평전' 및 응용인지심리학(Applied Cognitive Psychology) 연구"

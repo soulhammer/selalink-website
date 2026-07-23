@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["没頭の極致：アルキメ","Routine"]
-heroImage: "/images/blog/archimedes_sand_geometry.png"
+heroImage: "/images/blog/archimedes_sand_geometry.webp"
 app: "buildself"
 formatVersion: 4
 authority: "プルタルコス書簡集『対比列伝』歴史的考証および二重符号化理論（Dual-Coding Theory）研究"

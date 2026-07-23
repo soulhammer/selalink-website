@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["El milagro","Routine"]
-heroImage: "/images/blog/bryant_four_am_workout.png"
+heroImage: "/images/blog/bryant_four_am_workout.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autenticación de 'The Mamba Mentality' de Kobe Bryant e investigaciones de cronobiología sobre el metabolismo físico circadiano"

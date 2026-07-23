@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Psychologi","Routine"]
-heroImage: "/images/blog/magritte_suit_painting.png"
+heroImage: "/images/blog/magritte_suit_painting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "René-Magritte-Biografie ‚René Magritte: Torczyner‘ und kognitive Forschung zu Enclothed Cognition mit Einfluss auf die Aufmerksamkeitsspanne"

@@ -4,7 +4,7 @@ title: "홀랜드 롭 토끼의 처진 귀 관리와 행복의 빙키 춤 3단�
 description: "귀여운 처진 귀가 매력적인 홀랜드 롭(Holland Lop). 외이염 예방과 행복의 기쁨 표현 '빙키(Binky)' 춤 시그널, 티모시 무제한 급여 3단계 케어."
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
-heroImage: "/images/blog/holland_lop_care.png"
+heroImage: "/images/blog/holland_lop_care.webp"
 authority: "House Rabbit Society (HRS) & Association of Exotic Mammal Veterinarians (AEMV)"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["开启大航海时代的船长","Routine"]
-heroImage: "/images/blog/columbus_nautical_log.png"
+heroImage: "/images/blog/columbus_nautical_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "1492年航海史料《The Journal of Christopher Columbus》与历史传记"

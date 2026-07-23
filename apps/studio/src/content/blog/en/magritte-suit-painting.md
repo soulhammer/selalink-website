@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Great Habits","magritte","Routine","Stamina"]
-heroImage: "/images/blog/magritte_suit_painting.png"
+heroImage: "/images/blog/magritte_suit_painting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Rene Magritte biography 'René Magritte: Torczyner' and cognitive research on Enclothed Cognition influencing attention span"

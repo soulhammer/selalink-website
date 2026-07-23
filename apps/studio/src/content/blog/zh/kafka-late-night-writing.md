@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["在极度宁静中诞生杰作","Routine"]
-heroImage: "/images/blog/kafka_late_night_writing.png"
+heroImage: "/images/blog/kafka_late_night_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "弗兰茨·卡夫卡书信集《Letters to Felice》与学术期刊《Frontiers in Psychology》"

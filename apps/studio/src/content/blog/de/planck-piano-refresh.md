@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Kognitiver","Routine"]
-heroImage: "/images/blog/planck_piano_refresh.png"
+heroImage: "/images/blog/planck_piano_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Belege aus Max Plancks Selbstbiografie und Forschung der Johns Hopkins University zur Neurobiologie der musikalischen Improvisation"

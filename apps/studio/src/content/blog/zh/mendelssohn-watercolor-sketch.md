@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["用色彩编织的旋律？费","Routine"]
-heroImage: "/images/blog/mendelssohn_watercolor_sketch.png"
+heroImage: "/images/blog/mendelssohn_watercolor_sketch.webp"
 app: "buildself"
 formatVersion: 4
 authority: "门德尔松传记《Mendelssohn: A Life in Music》与学术期刊《Scientific Reports》论文资料"

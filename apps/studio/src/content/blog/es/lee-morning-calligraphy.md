@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Filosofía ","Routine"]
-heroImage: "/images/blog/lee_morning_calligraphy.png"
+heroImage: "/images/blog/lee_morning_calligraphy.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autenticación de las obras caligráficas del presidente Lee e investigación de Neuroscience Letters sobre el control motor fino y la estabilidad emocional"

@@ -5,7 +5,7 @@ pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
 tags: ["L'examen d","Routine"]
-heroImage: "/images/blog/seneca_evening_review.png"
+heroImage: "/images/blog/seneca_evening_review.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Sénèque, De Ira (Sur la colère, III.36) / Étude sur le système nerveux autonome et la réflexion nocturne"

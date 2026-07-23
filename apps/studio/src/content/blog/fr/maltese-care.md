@@ -4,7 +4,7 @@ title: "Le fougueux bichon maltais ? Une routine protectrice en 3 étapes pour l
 description: "Le bichon maltais, le chien le plus aimé. Découvrez des conseils pour prévenir la luxation de la rotule et une routine en 3 étapes pour les taches de larmes."
 pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
-heroImage: "/images/blog/maltese_care.png"
+heroImage: "/images/blog/maltese_care.webp"
 authority: "Guide officiel des races de l'American Kennel Club (AKC) et protocoles comportementaux de l'IAABC"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["¿Programan","Routine"]
-heroImage: "/images/blog/torvalds_darkroom_focus.png"
+heroImage: "/images/blog/torvalds_darkroom_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografía de Linus Torvalds 'Just for Fun' y estudios sobre la atención sostenida del lóbulo frontal"

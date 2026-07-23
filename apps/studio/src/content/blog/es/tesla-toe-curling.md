@@ -4,7 +4,7 @@ description: "Nikola Tesla, el genio inventor que encogía los dedos de los pies
 pubDate: "2026-04-28"
 category: "BuildSelf"
 tags: ["¿El genio ","Routine"]
-heroImage: "/images/blog/tesla_toe_curling.png"
+heroImage: "/images/blog/tesla_toe_curling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "La autobiografía de Nikola Tesla 'My Inventions' y Journal of Physical Therapy Science (JPTS)"

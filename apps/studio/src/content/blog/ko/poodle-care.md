@@ -4,7 +4,7 @@ title: "영리한 푸들을 위한 지능형 놀이법과 귓병 예방 3단계 
 description: "높은 지능으로 인해 지루함을 느끼기 쉬운 푸들. 지능적 피로를 풀어주는 놀이와 유전적으로 취약한 귓병을 예방하는 3단계 홈케어를 알아봅니다."
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
-heroImage: "/images/blog/poodle_care.png"
+heroImage: "/images/blog/poodle_care.webp"
 authority: "American Kennel Club (AKC) 공식 가이드 및 IAABC 행동 프로토콜"
 app: "petself"
 formatVersion: 4

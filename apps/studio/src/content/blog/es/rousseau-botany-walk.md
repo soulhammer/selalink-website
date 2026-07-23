@@ -5,7 +5,7 @@ pubDate: "2026-04-23"
 updatedDate: "2026-04-23"
 category: "BuildSelf"
 tags: ["¿Recoger p","Routine"]
-heroImage: "/images/blog/rousseau_botany_walk.png"
+heroImage: "/images/blog/rousseau_botany_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Las ensoñaciones del paseante solitario de Rousseau y estudios sobre sistemas de atención recolectora"

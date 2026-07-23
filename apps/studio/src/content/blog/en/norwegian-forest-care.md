@@ -4,7 +4,7 @@ title: "Vertical Play and Triple Coat Waterproof Grooming for Norwegian Forest C
 description: "Satisfy climbing drive of Norwegian Forest Cats and manage waterproof triple coats."
 pubDate: "2026-04-08"
 updatedDate: "2026-04-08"
-heroImage: "/images/blog/norwegian_forest_care.png"
+heroImage: "/images/blog/norwegian_forest_care.webp"
 authority: "The International Cat Association (TICA) Guide & Feline Behavior Science"
 app: "petself"
 formatVersion: 4

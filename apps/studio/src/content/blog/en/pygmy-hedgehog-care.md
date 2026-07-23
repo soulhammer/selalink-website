@@ -4,7 +4,7 @@ title: "African Pygmy Hedgehog Self-Anointing and 3-Step Thermal Care Routine"
 description: "Caring for the African Pygmy Hedgehog. Understand their unique self-anointing froth behaviors and maintain an optimal temperature of 24-26°C with our 3-step winter-safe routine."
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
-heroImage: "/images/blog/pygmy_hedgehog_care.png"
+heroImage: "/images/blog/pygmy_hedgehog_care.webp"
 authority: "Hedgehog Welfare Society Guidelines and Exotic Animal Veterinary Protocol"
 app: "petself"
 formatVersion: 4

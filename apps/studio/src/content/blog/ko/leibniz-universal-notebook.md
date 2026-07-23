@@ -5,7 +5,7 @@ description: "미적분을 발견한 천재 학자이자, 모든 지식과 영�
 pubDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["기록", "창의성", "사색"]
-heroImage: "/images/blog/leibniz_universal_notebook.png"
+heroImage: "/images/blog/leibniz_universal_notebook.webp"
 app: "buildself"
 authority: "마리아 로사 안토냐차 저 『라이프니츠 평전(Leibniz: An Intellectual Biography)』 기록 고증 및 정보 뇌 과학에서의 의미망 형성(Semantic Networking)과 시냅스 장기 강화(LTP) 인지 이론"
 updatedDate: "2026-02-27"

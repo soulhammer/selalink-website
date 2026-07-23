@@ -5,7 +5,7 @@ pubDate: "2026-05-05"
 updatedDate: "2026-05-05"
 category: "BuildSelf"
 tags: ["从抽屉里烂苹果味中获","Routine"]
-heroImage: "/images/blog/schiller_rotten_apple.png"
+heroImage: "/images/blog/schiller_rotten_apple.webp"
 app: "buildself"
 formatVersion: 4
 authority: "艾克曼《歌德谈话录》与《化学感官(Chemical Senses)》学术研究"

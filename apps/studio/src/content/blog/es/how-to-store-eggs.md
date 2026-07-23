@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración para conservar
 pubDate: "2026-04-15"
 category: "FreshSnap"
 tags: ["Huevo","Guía de almacenamiento científicamente probada","dairy"]
-heroImage: "/images/blog/egg_storage_hack.png"
+heroImage: "/images/blog/egg_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"

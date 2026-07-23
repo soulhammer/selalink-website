@@ -5,7 +5,7 @@ pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
 tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/schweitzer_night_organ.png"
+heroImage: "/images/blog/schweitzer_night_organ.webp"
 app: "buildself"
 formatVersion: 4
 authority: "슈바이처 자서전 'Out of My Life and Thought' 및 Journal of Music Therapy 학술지"

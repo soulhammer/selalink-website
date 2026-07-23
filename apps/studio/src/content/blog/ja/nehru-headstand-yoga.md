@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["冷たい刑務所の床での","Routine"]
-heroImage: "/images/blog/nehru_headstand_yoga.png"
+heroImage: "/images/blog/nehru_headstand_yoga.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ネルー自伝「An Autobiography」および学術誌「Journal of Alternative and Complementary Medicine」"

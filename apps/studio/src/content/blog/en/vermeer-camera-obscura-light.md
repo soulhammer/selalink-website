@@ -5,7 +5,7 @@ pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
 tags: ["Great Habits","vermeer","Routine","Stamina"]
-heroImage: "/images/blog/vermeer_camera_obscura_light.png"
+heroImage: "/images/blog/vermeer_camera_obscura_light.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Metropolitan Museum of Art 'Vermeer and the Delft School' & Philip Steadman Research"

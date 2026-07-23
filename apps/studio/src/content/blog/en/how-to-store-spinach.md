@@ -5,7 +5,7 @@ description: "Learn the best storage temperature, methods, and duration for Spin
 pubDate: "2026-02-18"
 category: "FreshSnap"
 tags: ["Spinach","Scientifically Proven Storage Guide","vegetable"]
-heroImage: "/images/blog/spinach_storage_hack.png"
+heroImage: "/images/blog/spinach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"

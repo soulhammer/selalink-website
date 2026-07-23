@@ -5,7 +5,7 @@ pubDate: "2026-03-06"
 updatedDate: "2026-03-06"
 category: "BuildSelf"
 tags: ["Der Philos","Routine"]
-heroImage: "/images/blog/socrates_walking_dialogue.png"
+heroImage: "/images/blog/socrates_walking_dialogue.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Platons 'Dialoge' & Studie der Stanford University zum Gehen und kreativen Denken (2014)"

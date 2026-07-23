@@ -5,7 +5,7 @@ pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
 tags: ["Papan tuli","Routine"]
-heroImage: "/images/blog/stephen_hawking.png"
+heroImage: "/images/blog/stephen_hawking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Stephen Hawking, *Sejarah Singkat Saya* (2013) & Studi Ilmu Saraf Kognitif"

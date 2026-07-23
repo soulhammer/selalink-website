@@ -5,7 +5,7 @@ pubDate: "2026-06-28"
 updatedDate: "2026-06-28"
 category: "BuildSelf"
 tags: ["Great Habits","von","Routine","Stamina"]
-heroImage: "/images/blog/von_neumann.png"
+heroImage: "/images/blog/von_neumann.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Norman Macrae, *John von Neumann* (1992) & Cognitive Neuroscientific Studies"

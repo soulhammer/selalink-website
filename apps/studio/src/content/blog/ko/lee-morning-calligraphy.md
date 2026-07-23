@@ -5,7 +5,7 @@ description: "삼성을 창업한 이병철 회장이 매일 아침 거르지 �
 pubDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["위인 습관", "이병철", "집중", "마인드셋", "의지력"]
-heroImage: "/images/blog/lee_morning_calligraphy.png"
+heroImage: "/images/blog/lee_morning_calligraphy.webp"
 app: "buildself"
 authority: "이병철 회장 친필 서예 작품 고증 및 신경학 저널(Neuroscience Letters) 미세 운동 제어와 정서 안정성 연구"
 updatedDate: "2026-05-25"

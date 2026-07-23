@@ -5,7 +5,7 @@ pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
 category: "BuildSelf"
 tags: ["Das Geheim","Routine"]
-heroImage: "/images/blog/branson_notebook_writing.png"
+heroImage: "/images/blog/branson_notebook_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Richard Bransons Autobiografie „Losing My Virginity“ & Archiv der Virgin Group"

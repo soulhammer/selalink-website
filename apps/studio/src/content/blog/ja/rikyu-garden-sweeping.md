@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["心の塵を払う朝：千利","Routine"]
-heroImage: "/images/blog/rikyu_garden_sweeping.png"
+heroImage: "/images/blog/rikyu_garden_sweeping.webp"
 app: "buildself"
 formatVersion: 4
 authority: "茶道伝書『南方録』の記録、および軽微な反復身体運動による動的瞑想（Kinesthetic Meditation）と認知制御ネットワーク活性化に関する脳科学研究"

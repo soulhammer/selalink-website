@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Das Karten","Routine"]
-heroImage: "/images/blog/mendeleev_chemical_solitaire.png"
+heroImage: "/images/blog/mendeleev_chemical_solitaire.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Dokumente aus Mendeleevs Notizbüchern der Russischen Chemischen Gesellschaft und Cognitive Research-Studien zur räumlichen Informationsverarbeitung"

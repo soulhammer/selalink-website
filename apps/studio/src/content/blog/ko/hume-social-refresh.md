@@ -5,7 +5,7 @@ description: "현대 인지과학의 모태가 된 철학자 데이비드 흄은
 pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/hume_social_refresh.png"
+heroImage: "/images/blog/hume_social_refresh.webp"
 app: "buildself"
 authority: "흄 평전 'The Life of David Hume' 및 인지 신경과학 학술지 연구 결과"
 updatedDate: "2026-03-18"

@@ -4,7 +4,7 @@ title: "コモンマスクタートルの後ろ足伸ばし日光浴と水質濾
 description: "最も広く飼育されている半水生カメであるコモンマスクタートル。日光浴中の足伸ばし行動の意味と、甲羅の病気を防ぐための3ステップ濾過ガイドを解説します。"
 pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
-heroImage: "/images/blog/musk_turtle_care.png"
+heroImage: "/images/blog/musk_turtle_care.webp"
 authority: "World Chelonian Association カメ衛生ガイドおよび半水生カメ飼育基準"
 app: "petself"
 formatVersion: 4

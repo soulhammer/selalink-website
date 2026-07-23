@@ -5,7 +5,7 @@ description: "세계 최고의 공격수 크리스티아누 호날두. 하루에
 pubDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/ronaldo_polyphasic_sleep.png"
+heroImage: "/images/blog/ronaldo_polyphasic_sleep.webp"
 app: "buildself"
 authority: "슬립 코치 닉 리틀헤일스 저서 'Sleep' 및 Sleep Medicine Reviews 학술지"
 updatedDate: "2026-01-20"

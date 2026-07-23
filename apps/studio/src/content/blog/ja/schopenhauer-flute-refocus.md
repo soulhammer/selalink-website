@@ -5,7 +5,7 @@ pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "BuildSelf"
 tags: ["辛口哲学者が毎朝フル","Routine"]
-heroImage: "/images/blog/schopenhauer_flute_refocus.png"
+heroImage: "/images/blog/schopenhauer_flute_refocus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ショーペンハウアー伝記「Arthur Schopenhauer: His Life」および学術誌「Psychophysiology」"

@@ -5,7 +5,7 @@ pubDate: "2026-06-08"
 updatedDate: "2026-06-08"
 category: "BuildSelf"
 tags: ["毎日同じカフェで茶を","Routine"]
-heroImage: "/images/blog/beauvoir_cafe_writing.png"
+heroImage: "/images/blog/beauvoir_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "シモーヌ・ド・ボーヴォワール自伝「青春の思い出（The Prime of Life）」および学術誌「Journal of Consumer Research」"

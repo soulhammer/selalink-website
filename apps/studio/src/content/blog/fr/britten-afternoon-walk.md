@@ -5,7 +5,7 @@ pubDate: "2026-04-22"
 updatedDate: "2026-04-22"
 category: "BuildSelf"
 tags: ["Le composi","Routine"]
-heroImage: "/images/blog/britten_afternoon_walk.png"
+heroImage: "/images/blog/britten_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie de Benjamin Britten par Humphrey Carpenter & revue Frontiers in Human Neuroscience"

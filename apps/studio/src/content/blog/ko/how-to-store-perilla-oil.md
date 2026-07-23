@@ -5,7 +5,7 @@ description: "공인된 안전 가이드라인에 따른 들기름의 최적 보
 pubDate: "2026-06-03"
 category: "FreshSnap"
 tags: ["들기름","과학적으로 검증된 보관 가이드","condiment"]
-heroImage: "/images/blog/perilla_oil_storage_hack.png"
+heroImage: "/images/blog/perilla_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"

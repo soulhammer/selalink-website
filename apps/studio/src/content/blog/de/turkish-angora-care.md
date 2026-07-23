@@ -4,7 +4,7 @@ title: "Türkisch Angora Taubheits- und Herzpflege: 3-Schritt-Routine für taube
 description: "Weiße Türkisch Angoras mit blauen Augen neigen zu angeborener Taubheit und HCM. Lernen Sie eine Routine zur Kommunikation und Fellpflege kennen."
 pubDate: "2026-04-07"
 updatedDate: "2026-04-07"
-heroImage: "/images/blog/turkish_angora_care.png"
+heroImage: "/images/blog/turkish_angora_care.webp"
 authority: "Richtlinien des CFA Turkish Angora Breed Council & Taubheitsstudien"
 app: "petself"
 formatVersion: 4

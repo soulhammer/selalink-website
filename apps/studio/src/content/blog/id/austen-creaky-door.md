@@ -5,7 +5,7 @@ pubDate: "2026-03-27"
 updatedDate: "2026-03-27"
 category: "BuildSelf"
 tags: ["Melindungi","Routine"]
-heroImage: "/images/blog/austen_creaky_door.png"
+heroImage: "/images/blog/austen_creaky_door.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Jane Austen & penelitian Psikologi Kognitif tentang biaya pengalihan tugas"

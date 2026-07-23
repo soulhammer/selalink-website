@@ -5,7 +5,7 @@ description: "종교개혁의 거대한 중압감 속에서도 매일 아침 현
 pubDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["명상", "휴식", "마음"]
-heroImage: "/images/blog/luther_lute_meditation.png"
+heroImage: "/images/blog/luther_lute_meditation.webp"
 app: "buildself"
 authority: "루터 전집 『Luther's Works, Vol. 49』 역사적 기록 서한 고증 및 음악 치료의 자율신경계 반응 신경과학 연구"
 updatedDate: "2026-02-24"

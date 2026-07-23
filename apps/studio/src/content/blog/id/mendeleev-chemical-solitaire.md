@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Permainan ","Routine"]
-heroImage: "/images/blog/mendeleev_chemical_solitaire.png"
+heroImage: "/images/blog/mendeleev_chemical_solitaire.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Arsip Perkumpulan Kimia Rusia tentang Buku Catatan Mendeleev dan Penelitian Cognitive Research tentang Aktivasi Memori Spasial"

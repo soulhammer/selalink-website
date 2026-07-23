@@ -4,7 +4,7 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Semangka berda
 pubDate: "2026-06-09"
 category: "FreshSnap"
 tags: ["Semangka","Panduan Penyimpanan yang Terbukti Secara Ilmiah","fruit"]
-heroImage: "/images/blog/watermelon_storage_hack.png"
+heroImage: "/images/blog/watermelon_storage_hack.webp"
 app: "freshsnap"
 authority: "<strong>KCA & MFDS</strong>"
 steps:
@@ -51,7 +51,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
     Menutup potongan semangka langsung dengan plastik wrap memicu bakteri berkembang biak ribuan kali lipat pada permukaannya, meningkatkan risiko keracunan makanan.
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/watermelon_storage_detail.png" alt="Jangan tutup langsung dengan plastik wrap — Mencegah keracunan makanan ❌🍉" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/watermelon_storage_detail.webp" alt="Jangan tutup langsung dengan plastik wrap — Mencegah keracunan makanan ❌🍉" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

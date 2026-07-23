@@ -5,7 +5,7 @@ description: "글을 혼자 쓰는 대신 타인과의 끊임없는 구술 토�
 pubDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["학습", "창의성", "사색"]
-heroImage: "/images/blog/bohr_dialogue_dictation.png"
+heroImage: "/images/blog/bohr_dialogue_dictation.webp"
 app: "buildself"
 authority: "루스 무어 저 『닐스 보어(Niels Bohr)』 일대기 역사적 고증 및 레프 비고츠키의 외적 언어(External Speech) 발달 심리학 연구"
 updatedDate: "2026-01-19"

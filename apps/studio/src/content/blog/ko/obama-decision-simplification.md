@@ -5,7 +5,7 @@ description: "미국 제44대 대통령 버락 오바마가 재임 시절 실천
 pubDate: "2026-01-06"
 category: "BuildSelf"
 tags: ["위인 습관", "버락 오바마", "의사결정", "생산성", "자기관리", "루틴"]
-heroImage: "/images/blog/obama_decision_simplification.png"
+heroImage: "/images/blog/obama_decision_simplification.webp"
 app: "buildself"
 authority: "Roy F. Baumeister 교수의 결정 피로 이론 및 Vanity Fair 오바마 대통령 인터뷰"
 updatedDate: "2026-01-06"

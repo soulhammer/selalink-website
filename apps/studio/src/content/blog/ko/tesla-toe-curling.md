@@ -5,7 +5,7 @@ description: "매일 밤 침대에 누워 발가락을 오므렸던 천재 발�
 pubDate: "2026-04-28"
 category: "BuildSelf"
 tags: ["위인 습관", "니콜라 테슬라", "수면 루틴", "집중력", "동기부여"]
-heroImage: "/images/blog/tesla_sleep_hack.png"
+heroImage: "/images/blog/tesla_sleep_hack.webp"
 app: "buildself"
 authority: "니콜라 테슬라 자서전 'My Inventions' 및 물리치료과학학회지(JPTS)"
 ---

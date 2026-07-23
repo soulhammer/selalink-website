@@ -5,7 +5,7 @@ pubDate: "2026-06-10"
 updatedDate: "2026-06-10"
 category: "BuildSelf"
 tags: ["致富知识的复利效应？","Routine"]
-heroImage: "/images/blog/buffett_reading_habit.png"
+heroImage: "/images/blog/buffett_reading_habit.webp"
 app: "buildself"
 formatVersion: 4
 authority: "埃默里大学阅读神经学研究与伯克希尔·哈撒韦致股东信"

@@ -5,7 +5,7 @@ pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "BuildSelf"
 tags: ["Great Habits","zhuge","Routine","Stamina"]
-heroImage: "/images/blog/zhuge_liang_guqin_strategy.png"
+heroImage: "/images/blog/zhuge_liang_guqin_strategy.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical Records of the Three Kingdoms (Zhuge Liang Biography) & Commandment to My Son"

@@ -4,7 +4,7 @@ title: "Guide de vitamine C du cochon d'Inde abyssinien et routine de 3 étapes 
 description: "Prendre soin du cochon d'Inde abyssinien aux poils en rosettes. Assurez ses apports en vitamine C et protégez ses poumons de la poussière."
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
-heroImage: "/images/blog/abyssinian_guinea_pig_care.png"
+heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
 authority: "Normes de soin des rongeurs de la RSPCA et Directives des Vétérinaires pour Nouveaux Animaux de Compagnie"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
 tags: ["老普林尼的终极记笔记","Routine"]
-heroImage: "/images/blog/pliny_reading_excerpt.png"
+heroImage: "/images/blog/pliny_reading_excerpt.webp"
 app: "buildself"
 formatVersion: 4
 authority: "小普林尼《书信集》（Epistulae III.5） / 网状激活系统（RAS）刺激与手写记忆关联性的认知心理学研究"

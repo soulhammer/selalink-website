@@ -5,7 +5,7 @@ pubDate: "2026-03-06"
 updatedDate: "2026-03-06"
 category: "BuildSelf"
 tags: ["Le philoso","Routine"]
-heroImage: "/images/blog/socrates_walking_dialogue.png"
+heroImage: "/images/blog/socrates_walking_dialogue.webp"
 app: "buildself"
 formatVersion: 4
 authority: "L'ouvrage de Platon 'Dialogues' et l'étude de l'Université de Stanford sur la marche et la pensée créative (2014)"

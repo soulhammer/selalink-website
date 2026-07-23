@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Vaincre la","Routine"]
-heroImage: "/images/blog/steinbeck_editor_letter.png"
+heroImage: "/images/blog/steinbeck_editor_letter.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Récit de la correspondance de John Steinbeck 'Journal of a Novel' et recherches de psychologie cognitive sur le perfectionnisme et la procrastination"

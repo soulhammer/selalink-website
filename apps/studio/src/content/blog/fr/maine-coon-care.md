@@ -4,7 +4,7 @@ title: "Le doux géant Maine Coon : Routine en 3 étapes pour la santé cardiaqu
 description: "Le doux géant Maine Coon. Découvrez des précautions pour sa structure osseuse en raison de son poids, et une routine en 3 étapes pour son cœur et son double pelage."
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
-heroImage: "/images/blog/maine_coon_care.png"
+heroImage: "/images/blog/maine_coon_care.webp"
 authority: "Guide de la Maine Coon Breeders & Fanciers Association (MCBFA) et protocoles de gestion des grands félins de l'AAFP"
 app: "petself"
 formatVersion: 4

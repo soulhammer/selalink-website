@@ -5,7 +5,7 @@ description: "캔버스 앞 의자에 앉아 잡념이 완전히 사라질 때�
 pubDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["위인 습관", "아그네스 마틴", "명상", "사색", "안정", "창의성"]
-heroImage: "/images/blog/martin_silent_waiting.png"
+heroImage: "/images/blog/martin_silent_waiting.webp"
 app: "buildself"
 authority: "아그네스 마틴 저서 및 인터뷰집 『Agnes Martin: Writings』 고증 및 명상과 뇌파 동조가 통찰적 문제 해결(Insight Problem Solving)에 미치는 효과 연구"
 updatedDate: "2026-06-12"

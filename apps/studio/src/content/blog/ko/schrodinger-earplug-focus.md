@@ -5,7 +5,7 @@ description: "물리학의 거장 에르윈 슈뢰딩거의 귀마개 청각 차
 pubDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/schrodinger_earplug_focus.png"
+heroImage: "/images/blog/schrodinger_earplug_focus.webp"
 app: "buildself"
 authority: "에르윈 슈뢰딩거 평전 'Schrödinger: Life and Thought' 및 전두엽 주의 망상활성계(RAS) 연구"
 updatedDate: "2026-04-25"

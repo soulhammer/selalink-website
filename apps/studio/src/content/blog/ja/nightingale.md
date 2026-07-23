@@ -5,7 +5,7 @@ pubDate: "2026-03-20"
 updatedDate: "2026-03-20"
 category: "BuildSelf"
 tags: ["ナイチンゲールの定量","Routine"]
-heroImage: "/images/blog/nightingale.png"
+heroImage: "/images/blog/nightingale.webp"
 app: "buildself"
 formatVersion: 4
 authority: "フローレンス ナイチンゲール、*看護に関するメモ* (1859) および認知神経科学研究"

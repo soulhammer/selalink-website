@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["Diséñese a","Routine"]
-heroImage: "/images/blog/skinner_behavior_tracking.png"
+heroImage: "/images/blog/skinner_behavior_tracking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografía de B. F. Skinner 'Particulars of My Life' y teoría del condicionamiento operante"

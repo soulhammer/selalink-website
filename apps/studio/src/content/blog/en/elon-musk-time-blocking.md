@@ -5,7 +5,7 @@ pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "BuildSelf"
 tags: ["Great Habits","elon","Routine","Stamina"]
-heroImage: "/images/blog/elon_musk_time_blocking.png"
+heroImage: "/images/blog/elon_musk_time_blocking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Ashlee Vance's Elon Musk & Walter Isaacson's Elon Musk Biography"

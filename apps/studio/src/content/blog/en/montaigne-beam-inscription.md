@@ -5,7 +5,7 @@ pubDate: "2026-03-10"
 updatedDate: "2026-03-10"
 category: "BuildSelf"
 tags: ["Great Habits","montaigne","Routine","Stamina"]
-heroImage: "/images/blog/montaigne_beam_inscription.png"
+heroImage: "/images/blog/montaigne_beam_inscription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Michel de Montaigne, Essays (Essais) / Visual priming and vertical eye movement studies on metacognition"

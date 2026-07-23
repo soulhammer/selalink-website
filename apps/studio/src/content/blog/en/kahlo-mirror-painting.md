@@ -5,7 +5,7 @@ pubDate: "2026-06-07"
 updatedDate: "2026-06-07"
 category: "BuildSelf"
 tags: ["Great Habits","kahlo","Routine","Stamina"]
-heroImage: "/images/blog/kahlo_mirror_painting.png"
+heroImage: "/images/blog/kahlo_mirror_painting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Frida Kahlo's Biography 'Frida: A Biography of Frida Kahlo' & Psychotherapy Journal"

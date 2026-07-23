@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Keselamata","Routine"]
-heroImage: "/images/blog/fleming_petridish_observation.png"
+heroImage: "/images/blog/fleming_petridish_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Kuliah Nobel Fleming tahun 1945 & Jurnal Frontiers in Psychology"

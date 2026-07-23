@@ -4,7 +4,7 @@ title: "ペルシアン猫の長毛ケア：毛並みと涙やけ管理のため
 description: "優雅な毛並みを持つペルシアン。特有の涙による顔の皮膚炎予防と、もつれやすい長毛ケアのための3段階デイリールーティンを紹介します。"
 pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
-heroImage: "/images/blog/persian_care.png"
+heroImage: "/images/blog/persian_care.webp"
 authority: "CFAペルシアン種族ガイド＆AAFP獣医学指針"
 app: "petself"
 formatVersion: 4

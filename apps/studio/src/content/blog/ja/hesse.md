@@ -5,7 +5,7 @@ pubDate: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "BuildSelf"
 tags: ["田舎の庭で土の手入れ","Routine"]
-heroImage: "/images/blog/hesse.png"
+heroImage: "/images/blog/hesse.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ヘルマン・ヘッセ、*庭師の絵本 (ガーデニングの喜び)* (1957) & 認知神経科学研究"

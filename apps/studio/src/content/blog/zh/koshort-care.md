@@ -4,7 +4,7 @@ title: "难以驯服的本能？针对野生血统的中华田园猫领地与饮
 description: "拥有强健捕猎天性的中华田园猫。介绍预防猫下泌尿道综合征的饮水方法，以及实现领域安全感的日常3步护理惯例。"
 pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
-heroImage: "/images/blog/koshort_care.png"
+heroImage: "/images/blog/koshort_care.webp"
 authority: "康奈尔猫科健康中心行为指南与韩国国立畜产科学院伴侣动物看护手册"
 app: "petself"
 formatVersion: 4

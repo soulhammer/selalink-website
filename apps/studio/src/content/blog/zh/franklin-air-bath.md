@@ -4,7 +4,7 @@ description: "发明避雷针并领导美国建国的本杰明·富兰克林。�
 pubDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["每天清晨30分钟，本","Routine"]
-heroImage: "/images/blog/franklin_air_bath.png"
+heroImage: "/images/blog/franklin_air_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "富兰克林自传《The Autobiography of Benjamin Franklin》及《新英格兰医学杂志》（NEJM）"

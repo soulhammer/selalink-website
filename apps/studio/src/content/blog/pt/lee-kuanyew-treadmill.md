@@ -5,7 +5,7 @@ pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
 tags: ["Suor para ","Routine"]
-heroImage: "/images/blog/lee_kuanyew_treadmill.png"
+heroImage: "/images/blog/lee_kuanyew_treadmill.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Memórias de Lee Kuan Yew 'The Singapore Story' e Documentos de Arquivo dos Arquivos Nacionais de Cingapura"

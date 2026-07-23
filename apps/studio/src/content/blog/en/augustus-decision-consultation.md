@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Great Habits","augustus","Routine","Stamina"]
-heroImage: "/images/blog/augustus_decision_consultation.png"
+heroImage: "/images/blog/augustus_decision_consultation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Suetonius's 'The Lives of the Twelve Caesars' and Daniel Kahneman's Research on Heuristics, System 2 Thinking, and Confirmation Bias Mitigation in Decision Making"

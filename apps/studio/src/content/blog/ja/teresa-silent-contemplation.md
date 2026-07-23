@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["スラム街の苦しみの中","Routine"]
-heroImage: "/images/blog/teresa_silent_contemplation.png"
+heroImage: "/images/blog/teresa_silent_contemplation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "マザー・テレサ書簡集「Come Be My Light」および学術誌「JAMA Psychiatry」"

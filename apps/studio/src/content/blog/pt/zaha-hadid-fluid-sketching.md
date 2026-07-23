@@ -5,7 +5,7 @@ pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
 tags: ["A arquitet","Routine"]
-heroImage: "/images/blog/zaha_hadid_fluid_sketching.png"
+heroImage: "/images/blog/zaha_hadid_fluid_sketching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Obra 'Zaha Hadid: Complete Works' de Philip Jodidio & discurso do Prêmio Pritzker"

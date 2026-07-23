@@ -5,7 +5,7 @@ pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
 tags: ["산책 지팡이에 잉크","Routine"]
-heroImage: "/images/blog/hobbes_cane_inkwell.png"
+heroImage: "/images/blog/hobbes_cane_inkwell.webp"
 app: "buildself"
 formatVersion: 4
 authority: "존 오브리의 '약전(Brief Lives)' 전기 기록 및 연장된 정신(Supersizing the Mind) 인지 이론"

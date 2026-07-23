@@ -4,7 +4,7 @@ description: "Un extraño ritual de siesta que Edison realizaba cada vez que se 
 pubDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["¿El genio ","Routine"]
-heroImage: "/images/blog/edison_nap.png"
+heroImage: "/images/blog/edison_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Diario y observaciones de Edison (1948) e investigación del Instituto del Cerebro de París"

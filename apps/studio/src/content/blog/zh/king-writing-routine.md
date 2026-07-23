@@ -5,7 +5,7 @@ pubDate: "2026-05-18"
 updatedDate: "2026-05-18"
 category: "BuildSelf"
 tags: ["如何驯服灵感？斯蒂芬","Routine"]
-heroImage: "/images/blog/king_writing_routine.png"
+heroImage: "/images/blog/king_writing_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "斯蒂芬·金创作备忘录《写作这回事》与感觉运动学习的脑科学研究"

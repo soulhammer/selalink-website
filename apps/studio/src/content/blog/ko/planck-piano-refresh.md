@@ -5,7 +5,7 @@ description: "물리학 연구 후 피아노 건반을 마음대로 두드리며
 pubDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["이완", "사색", "휴식"]
-heroImage: "/images/blog/planck_piano_refresh.png"
+heroImage: "/images/blog/planck_piano_refresh.webp"
 app: "buildself"
 authority: "플랑크 자서전 『Wissenschaftliche Selbstbiographie』 역사적 고증 및 존스홉킨스 의과대학의 음악 즉흥 연주 뇌영상 신경과학 연구"
 updatedDate: "2026-04-01"

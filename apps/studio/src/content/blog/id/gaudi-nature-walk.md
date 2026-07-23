@@ -5,7 +5,7 @@ pubDate: "2026-04-13"
 updatedDate: "2026-04-13"
 category: "BuildSelf"
 tags: ["Sang Maste","Routine"]
-heroImage: "/images/blog/gaudi_nature_walk.png"
+heroImage: "/images/blog/gaudi_nature_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Gaudí 'Gaudí: A Biography' & Studi Universitas Stanford tentang Jalan Kaki"

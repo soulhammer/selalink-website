@@ -5,7 +5,7 @@ pubDate: "2026-05-15"
 updatedDate: "2026-05-15"
 category: "BuildSelf"
 tags: ["O filósofo","Routine"]
-heroImage: "/images/blog/epictetus_dichotomy_control.png"
+heroImage: "/images/blog/epictetus_dichotomy_control.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Obras 'Enquirídio' e 'Discursos' de Epicteto"

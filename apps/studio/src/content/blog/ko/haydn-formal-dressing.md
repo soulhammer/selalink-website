@@ -5,7 +5,7 @@ description: "작곡가 조지프 헤이든이 왜 작곡 전에 정장과 가�
 pubDate: "2026-04-04"
 category: "BuildSelf"
 tags: ["위인 습관", "생산성"]
-heroImage: "/images/blog/haydn_formal_dressing.png"
+heroImage: "/images/blog/haydn_formal_dressing.webp"
 app: "buildself"
 authority: "그리징거의 전기 기록 및 의복 인지(Enclothed Cognition) 관련 실험심리학 연구"
 updatedDate: "2026-04-04"

@@ -6,7 +6,7 @@ pubDate: "2026-07-17"
 updatedDate: "2026-07-17"
 category: "FreshSnap"
 tags: ["포도","과학적으로 검증된 보관 가이드","fruit"]
-heroImage: "/images/blog/grape_storage_hack.png"
+heroImage: "/images/blog/grape_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA</strong>"

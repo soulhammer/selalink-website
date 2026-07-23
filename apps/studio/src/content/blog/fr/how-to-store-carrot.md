@@ -5,7 +5,7 @@ description: "Découvrez la température, les méthodes et la durée optimales d
 pubDate: "2026-01-01"
 category: "FreshSnap"
 tags: ["Carotte","Guide de conservation scientifiquement prouvé","vegetable"]
-heroImage: "/images/blog/carrot_storage_hack.png"
+heroImage: "/images/blog/carrot_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"

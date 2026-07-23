@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Psicología","Routine"]
-heroImage: "/images/blog/magritte_suit_painting.png"
+heroImage: "/images/blog/magritte_suit_painting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía de René Magritte 'René Magritte: Torczyner' e investigación cognitiva sobre la cognición investida (Enclothed Cognition) que influye en el lapso de atención"

@@ -5,7 +5,7 @@ pubDate: "2026-06-04"
 updatedDate: "2026-06-04"
 category: "BuildSelf"
 tags: ["印刷革命の巨匠？グー","Routine"]
-heroImage: "/images/blog/gutenberg_movable_type_inspection.png"
+heroImage: "/images/blog/gutenberg_movable_type_inspection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アルバート・カプラ評伝「Johannes Gutenberg」およびマインツ・グーテンベルク博物館史料"

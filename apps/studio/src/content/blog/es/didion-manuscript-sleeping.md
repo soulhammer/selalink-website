@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["¿El cerebr","Routine"]
-heroImage: "/images/blog/didion_manuscript_sleeping.png"
+heroImage: "/images/blog/didion_manuscript_sleeping.webp"
 app: "buildself"
 formatVersion: 4
 authority: "The Paris Review 'Entrevista a Joan Didion' y tendencias en ciencias cognitivas"

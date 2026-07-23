@@ -5,7 +5,7 @@ description: "일평생 80여 점의 자화상을 그리며 자신의 변화를 
 pubDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["성찰", "창의성", "사색"]
-heroImage: "/images/blog/rembrandt_self_portrait_reflection.png"
+heroImage: "/images/blog/rembrandt_self_portrait_reflection.webp"
 app: "buildself"
 authority: "페리 채프먼 저 『렘브란트의 자화상(Rembrandt: The Self-Portraits)』 미술사적 기록 및 뇌의 자기 인식(Self-Recognition) 및 거울 뉴런계(Mirror Neuron System) 신경심리학 연구 결과"
 updatedDate: "2026-04-25"

@@ -5,7 +5,7 @@ pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "BuildSelf"
 tags: ["幼児教育の革命家？マ","Routine"]
-heroImage: "/images/blog/montessori_observation_log.png"
+heroImage: "/images/blog/montessori_observation_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "モンテッソーリ著「The Discovery of the Child」および評伝史料"

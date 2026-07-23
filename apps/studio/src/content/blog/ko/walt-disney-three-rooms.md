@@ -5,7 +5,7 @@ description: "창의적인 공상을 거대한 비즈니스로 실현시킨 월�
 pubDate: "2026-04-16"
 category: "BuildSelf"
 tags: ["위인 습관", "월트 디즈니", "기획력", "창의성", "아이디어"]
-heroImage: "/images/blog/walt_disney_three_rooms.png"
+heroImage: "/images/blog/walt_disney_three_rooms.webp"
 app: "buildself"
 authority: "로버트 딜츠의 천재들의 전략(Strategies of Genius)"
 updatedDate: "2026-04-16"

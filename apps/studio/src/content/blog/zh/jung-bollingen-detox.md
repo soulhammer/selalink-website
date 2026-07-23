@@ -5,7 +5,7 @@ pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "BuildSelf"
 tags: ["波林根石塔的的数字排","Routine"]
-heroImage: "/images/blog/jung_bollingen_detox.png"
+heroImage: "/images/blog/jung_bollingen_detox.webp"
 app: "buildself"
 formatVersion: 4
 authority: "卡尔·荣格自传《记忆、梦、思考》与学术期刊《Journal of Behavioral Addictions》"

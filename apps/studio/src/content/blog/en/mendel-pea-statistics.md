@@ -5,7 +5,7 @@ pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Great Habits","mendel","Routine","Stamina"]
-heroImage: "/images/blog/mendel_pea_statistics.png"
+heroImage: "/images/blog/mendel_pea_statistics.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Mendel's 1865 paper 'Experiments on Plant Hybridization' & Journal of Educational Psychology"

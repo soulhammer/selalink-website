@@ -5,7 +5,7 @@ pubDate: "2026-06-04"
 updatedDate: "2026-06-04"
 category: "BuildSelf"
 tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/gutenberg_movable_type_inspection.png"
+heroImage: "/images/blog/gutenberg_movable_type_inspection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "알베르트 카프 전기 'Johannes Gutenberg' 및 마인츠 구텐베르크 박물관 사료"

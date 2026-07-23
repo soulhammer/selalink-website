@@ -5,7 +5,7 @@ pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "BuildSelf"
 tags: ["¿El filóso","Routine"]
-heroImage: "/images/blog/plato_gymnastic_wrestling.png"
+heroImage: "/images/blog/plato_gymnastic_wrestling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Diálogo de Platón 'República' y revista Journal of Applied Physiology"

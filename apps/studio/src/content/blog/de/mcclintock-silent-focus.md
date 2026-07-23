@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["Schweigen ","Routine"]
-heroImage: "/images/blog/mcclintock_silent_focus.png"
+heroImage: "/images/blog/mcclintock_silent_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "McClintocks Biografie 'A Feeling for the Organism' & kognitive Aufmerksamkeitsforschung"

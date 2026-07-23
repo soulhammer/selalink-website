@@ -4,7 +4,7 @@ title: "法国斗牛犬的呼吸与体温护理：保护气道与关节的日常
 description: "法斗因其短头颅骨骼特征，极易发生呼吸困难和中暑。了解一套管理面部皱纹、呼吸和关节的日常3步护理惯例。"
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
-heroImage: "/images/blog/french_bulldog_care.png"
+heroImage: "/images/blog/french_bulldog_care.webp"
 authority: "AKC 法国斗牛犬官方护理指南"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["A geometri","Routine"]
-heroImage: "/images/blog/bresson_decisive_moment.png"
+heroImage: "/images/blog/bresson_decisive_moment.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Ensaio de Cartier-Bresson 'O momento decisivo' e fronteiras na pesquisa em psicologia"

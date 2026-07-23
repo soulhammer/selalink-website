@@ -4,7 +4,7 @@ description: "A strange nap ritual that Edison performed whenever he hit a wall 
 pubDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["Great Habits","edison","Routine","Stamina"]
-heroImage: "/images/blog/edison_nap.png"
+heroImage: "/images/blog/edison_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Edison's Diary and Sundry Observations (1948) & Paris Brain Institute Research"

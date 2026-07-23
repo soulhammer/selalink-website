@@ -5,7 +5,7 @@ pubDate: "2026-04-13"
 updatedDate: "2026-04-13"
 category: "BuildSelf"
 tags: ["舞台恐怖症のために曲","Routine"]
-heroImage: "/images/blog/pavarotti_bent_nail.png"
+heroImage: "/images/blog/pavarotti_bent_nail.webp"
 app: "buildself"
 formatVersion: 4
 authority: "パヴァロッティの自伝およびパフォーマンス不安に関する応用スポーツ心理学研究"

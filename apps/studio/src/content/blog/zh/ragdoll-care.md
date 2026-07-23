@@ -4,7 +4,7 @@ title: "像玩偶一样被抱着的猫？布偶猫的安心抱姿与关节家庭
 description: "抱起时像玩偶般全身放松的可爱大型长毛布偶猫。介绍因体重大易导致的下肢关节痛预防方法，以及正确抱姿的3步日常护理惯例。"
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
-heroImage: "/images/blog/ragdoll_care.png"
+heroImage: "/images/blog/ragdoll_care.webp"
 authority: "猫发烧友协会 (CFA) 官方布偶猫指南与 AAFP 猫咪友好诊疗指南"
 app: "petself"
 formatVersion: 4

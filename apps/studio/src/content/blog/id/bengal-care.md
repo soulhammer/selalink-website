@@ -4,7 +4,7 @@ title: "Panduan Pelepasan Energi Kucing Bengal dan Rutinitas 3 Langkah Stimulasi
 description: "Merawat kucing Bengal yang aktif dan cerdas. Pahami bahasa tubuh berenergi tinggi mereka dan atasi stres lewat 3 langkah rutinitas bermain."
 pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
-heroImage: "/images/blog/bengal_care.png"
+heroImage: "/images/blog/bengal_care.webp"
 authority: "Panduan Ras Bengal The International Cat Association (TICA) dan Standar Kedokteran Perilaku Feline"
 app: "petself"
 formatVersion: 4

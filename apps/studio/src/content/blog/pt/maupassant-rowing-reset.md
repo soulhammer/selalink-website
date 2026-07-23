@@ -5,7 +5,7 @@ pubDate: "2026-06-11"
 updatedDate: "2026-06-11"
 category: "BuildSelf"
 tags: ["O reinício","Routine"]
-heroImage: "/images/blog/maupassant_rowing_reset.png"
+heroImage: "/images/blog/maupassant_rowing_reset.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia 'Guy de Maupassant: Étude Scientifique' e Journal of Applied Physiology"

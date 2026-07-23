@@ -5,7 +5,7 @@ description: "에니그마 암호를 해독한 컴퓨터 과학의 아버지 앨
 pubDate: "2026-02-02"
 category: "BuildSelf"
 tags: ["위인 습관", "앨런튜링", "달리기", "러닝", "뇌피로해소"]
-heroImage: "/images/blog/turing_marathon_running.png"
+heroImage: "/images/blog/turing_marathon_running.webp"
 app: "buildself"
 authority: "앤드루 호지스 전기 'Alan Turing: The Enigma' 및 영국 육상 연맹 아카이브"
 updatedDate: "2026-02-02"

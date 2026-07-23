@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["散歩から帰るや否や帽","Routine"]
-heroImage: "/images/blog/kierkegaard_standing_write.png"
+heroImage: "/images/blog/kierkegaard_standing_write.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ヨアキム・ガルフォ 著『セーレン・キェルケゴールの生涯』＆ 人間工学術誌(Applied Ergonomics)"

@@ -5,7 +5,7 @@ pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "BuildSelf"
 tags: ["走出坎坷童年、终成脱","Routine"]
-heroImage: "/images/blog/winfrey_gratitude_journaling.png"
+heroImage: "/images/blog/winfrey_gratitude_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "奥普拉散文集《What I Know for Sure》与学术期刊《Journal of Personality and Social Psychology》"

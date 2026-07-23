@@ -4,7 +4,7 @@ title: "Soins du Beagle (Énergie et Anxiété) : Routine en 3 étapes pour l'an
 description: "Le Beagle est un chien de chasse curieux avec une grande énergie. Apprenez une routine en 3 étapes pour combler son besoin de flairer, réduire l'anxiété et soigner ses oreilles."
 pubDate: "2026-02-28"
 updatedDate: "2026-03-01"
-heroImage: "/images/blog/beagle_care.png"
+heroImage: "/images/blog/beagle_care.webp"
 authority: "Manuel officiel de l'AKC pour le Beagle et protocoles de pistage de l'IAABC"
 app: "petself"
 formatVersion: 4

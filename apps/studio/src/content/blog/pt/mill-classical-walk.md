@@ -5,7 +5,7 @@ pubDate: "2026-01-25"
 updatedDate: "2026-01-25"
 category: "BuildSelf"
 tags: ["Um cérebro","Routine"]
-heroImage: "/images/blog/mill_classical_walk.png"
+heroImage: "/images/blog/mill_classical_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "A autobiografia de John Stuart Mill & revista Nature Reviews Neuroscience"

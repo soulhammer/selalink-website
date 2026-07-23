@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["磨砺心志与耐心的律动","Routine"]
-heroImage: "/images/blog/ieyasu_herb_grinding.png"
+heroImage: "/images/blog/ieyasu_herb_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "关于德川家康药材收集记载的历史文献，与关于律动运动（Rhythmic Motor Activity）及血清素神经调节的研究"

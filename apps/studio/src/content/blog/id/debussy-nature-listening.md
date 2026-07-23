@@ -5,7 +5,7 @@ pubDate: "2026-03-27"
 updatedDate: "2026-03-27"
 category: "BuildSelf"
 tags: ["Rahasia Ko","Routine"]
-heroImage: "/images/blog/debussy_nature_listening.png"
+heroImage: "/images/blog/debussy_nature_listening.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi 'Debussy: His Life and Mind' & Jurnal Nature Scientific Reports"

@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["站立的瞬间大脑觉醒：","Routine"]
-heroImage: "/images/blog/rilke_standing_writing.png"
+heroImage: "/images/blog/rilke_standing_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "里尔克书信集《Letters to a Young Poet》与站立姿势前额叶血流觉醒认知科学研究"

@@ -4,7 +4,7 @@ title: "Un instinct indomptable ? Une routine en 3 étapes pour le territoire et
 description: "Le shorthair coréen, aux instincts de chasse développés. Apprenez les méthodes d'hydratation pour prévenir la cystite féline et une routine quotidienne en 3 étapes pour le confort territorial."
 pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
-heroImage: "/images/blog/koshort_care.png"
+heroImage: "/images/blog/koshort_care.webp"
 authority: "Guide comportemental du Cornell Feline Health Center et manuel de soins du NIAS"
 app: "petself"
 formatVersion: 4

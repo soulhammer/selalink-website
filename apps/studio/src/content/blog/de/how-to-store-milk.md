@@ -5,7 +5,7 @@ description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit f√
 pubDate: "2026-06-22"
 category: "FreshSnap"
 tags: ["Milch","Wissenschaftlich gepr√ºfter Lagerungsratgeber","dairy"]
-heroImage: "/images/blog/milk_storage_hack.png"
+heroImage: "/images/blog/milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"

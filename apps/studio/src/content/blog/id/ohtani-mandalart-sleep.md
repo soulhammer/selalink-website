@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Visualisas","Routine"]
-heroImage: "/images/blog/ohtani_mandalart_sleep.png"
+heroImage: "/images/blog/ohtani_mandalart_sleep.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Catatan Publik tentang Mandalart Sekolah Shohei Ohtani dan Penelitian Nature tentang Sistem Glimfatik Otak & Tidur Pemulihan"

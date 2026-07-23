@@ -4,7 +4,7 @@ title: "Dachshund Back Protection Guide and 3-Step Core-Strengthening Daily Rout
 description: "Caring for the long-backed, short-legged Dachshund. Learn to recognize signs of spinal discomfort and protect their joints with a 3-step daily routine."
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
-heroImage: "/images/blog/dachshund_care.png"
+heroImage: "/images/blog/dachshund_care.webp"
 authority: "American Kennel Club Dachshund Health Guide and Veterinary Spinal Association Guidelines"
 app: "petself"
 formatVersion: 4

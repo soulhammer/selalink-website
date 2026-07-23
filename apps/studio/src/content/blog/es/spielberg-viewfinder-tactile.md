@@ -5,7 +5,7 @@ pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "BuildSelf"
 tags: ["¿El maestr","Routine"]
-heroImage: "/images/blog/spielberg_viewfinder_tactile.png"
+heroImage: "/images/blog/spielberg_viewfinder_tactile.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía de Steven Spielberg y revista Nature Neuroscience"

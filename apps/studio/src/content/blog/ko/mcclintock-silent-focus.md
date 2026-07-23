@@ -5,7 +5,7 @@ description: "노벨상 수상 유전학자 바버라 매클린토크는 현미�
 pubDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/mcclintock_silent_focus.png"
+heroImage: "/images/blog/mcclintock_silent_focus.webp"
 app: "buildself"
 authority: "매클린토크 평전 'A Feeling for the Organism' 및 인지 주의 집중 연구 결과"
 updatedDate: "2026-05-14"

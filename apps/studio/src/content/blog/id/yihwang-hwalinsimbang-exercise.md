@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Pemelihara","Routine"]
-heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.png"
+heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Arsip Naskah Yi Hwang 'Hwalinsimbang' dan Penelitian Journal of Clinical Medicine tentang Senam Ringan & Saraf Parasimpatik"

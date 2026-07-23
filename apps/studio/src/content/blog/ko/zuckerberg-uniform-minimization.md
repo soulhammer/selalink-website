@@ -5,7 +5,7 @@ description: "의사결정 에너지를 절약하기 위해 매일 똑같은 회
 pubDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["의사결정", "단순화", "생산성"]
-heroImage: "/images/blog/zuckerberg_uniform_minimization.png"
+heroImage: "/images/blog/zuckerberg_uniform_minimization.webp"
 app: "buildself"
 authority: "2014년 메타 타운홀 Q&A 세션 공식 기록 및 로이 바우마이스터의 자아 고갈(Ego Depletion) 인지심리학 연구"
 updatedDate: "2026-06-12"

@@ -4,7 +4,7 @@ title: "玄凤鹦鹉冠羽情绪语言与预防夜惊 responses 3步日常护理
 description: "全方位玄凤鹦鹉（Cockatiel）护理指南。解析冠羽肢体语言，科学预防夜间暴冲惊厥（Night Fright），建立AAV标准的3步日常流程。"
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
-heroImage: "/images/blog/cockatiel_care.png"
+heroImage: "/images/blog/cockatiel_care.webp"
 authority: "国际鸟类兽医协会 (AAV) 行为护理标准"
 app: "petself"
 formatVersion: 4

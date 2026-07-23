@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["IBMを作った一言：","Routine"]
-heroImage: "/images/blog/watson_think_sign.png"
+heroImage: "/images/blog/watson_think_sign.webp"
 app: "buildself"
 formatVersion: 4
 authority: "IBM企業博物館歴史考証書およびロンドン大学（UCL）の神経学思索メカニズム研究"

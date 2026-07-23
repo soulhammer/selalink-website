@@ -5,7 +5,7 @@ pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "BuildSelf"
 tags: ["위인 습관", "프란츠 슈베르트", "계획", "아이디어"]
-heroImage: "/images/blog/schubert.png"
+heroImage: "/images/blog/schubert.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Otto Erich Deutsch, *Schubert: A Documentary Biography* (1946)"

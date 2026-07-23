@@ -4,7 +4,7 @@ title: "Juego vertical y mantenimiento del pelaje triple del gato Bosque de Noru
 description: "Instinto trepador del gato Bosque de Noruega y cuidado de pelaje triple."
 pubDate: "2026-04-08"
 updatedDate: "2026-04-08"
-heroImage: "/images/blog/norwegian_forest_care.png"
+heroImage: "/images/blog/norwegian_forest_care.webp"
 authority: "Guía de la Asociación Internacional de Gatos (TICA) y ciencia felina"
 app: "petself"
 formatVersion: 4

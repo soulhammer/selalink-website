@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["無意識のダンス：ジョ","Routine"]
-heroImage: "/images/blog/balanchine_ironing_choreography.png"
+heroImage: "/images/blog/balanchine_ironing_choreography.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジョージ・バランシン伝記『バランシン』考証および脳科学分野の単純運動とデフォルトモードネットワーク（DMN）活性化に基づく創造的インキュベーションの研究"

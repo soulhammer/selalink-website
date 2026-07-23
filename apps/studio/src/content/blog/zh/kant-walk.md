@@ -4,7 +4,7 @@ description: "现代哲学巨匠伊曼纽尔·康德。介绍隐藏在他数十�
 pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["哥尼斯堡的时钟？伊曼","Routine"]
-heroImage: "/images/blog/kant_walk.png"
+heroImage: "/images/blog/kant_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "曼弗雷德·库恩《康德传》及《学习与记忆神经生物学》期刊（JN）"

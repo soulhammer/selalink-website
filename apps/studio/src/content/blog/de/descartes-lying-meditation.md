@@ -5,7 +5,7 @@ pubDate: "2026-01-25"
 updatedDate: "2026-01-25"
 category: "BuildSelf"
 tags: ["Das Genie,","Routine"]
-heroImage: "/images/blog/descartes_lying_meditation.png"
+heroImage: "/images/blog/descartes_lying_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "René Descartes' Biografie 'La Vie de Monsieur Descartes' & Fachzeitschrift Psychophysiology"

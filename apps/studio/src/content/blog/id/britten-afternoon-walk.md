@@ -5,7 +5,7 @@ pubDate: "2026-04-22"
 updatedDate: "2026-04-22"
 category: "BuildSelf"
 tags: ["Komposer y","Routine"]
-heroImage: "/images/blog/britten_afternoon_walk.png"
+heroImage: "/images/blog/britten_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Benjamin Britten oleh Humphrey Carpenter & Jurnal 'Frontiers in Human Neuroscience'"

@@ -5,7 +5,7 @@ pubDate: "2026-07-11"
 updatedDate: "2026-07-11"
 category: "BuildSelf"
 tags: ["Rahasia Pe","Routine"]
-heroImage: "/images/blog/weil_classical_recitation.png"
+heroImage: "/images/blog/weil_classical_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Menunggu Tuhan oleh Simone Weil & Penelitian Neurokognitif tentang Membaca Nyaring"

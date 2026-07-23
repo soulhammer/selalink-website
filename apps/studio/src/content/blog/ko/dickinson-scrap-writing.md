@@ -5,7 +5,7 @@ description: "천재 시인 에밀리 디킨슨. 부엌에서 빵을 구우며 �
 pubDate: "2026-05-02"
 category: "BuildSelf"
 tags: ["위인 습관", "에밀리디킨슨", "영수증시", "즉흥기록", "창의성"]
-heroImage: "/images/blog/dickinson_scrap_writing.png"
+heroImage: "/images/blog/dickinson_scrap_writing.webp"
 app: "buildself"
 authority: "하버드 대학 도서관 에밀리 디킨슨 컬렉션 및 편지 봉투 시 원고 도록 'The Gorgeous Nothings'"
 updatedDate: "2026-05-02"

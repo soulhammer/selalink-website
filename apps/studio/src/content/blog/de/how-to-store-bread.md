@@ -5,7 +5,7 @@ description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit f√
 pubDate: "2026-05-19"
 category: "FreshSnap"
 tags: ["Brot","Wissenschaftlich gepr√ºfter Lagerungsratgeber","grain"]
-heroImage: "/images/blog/bread_storage_hack.png"
+heroImage: "/images/blog/bread_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & FSA</strong>"

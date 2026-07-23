@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Great Habits","verdi","Routine","Stamina"]
-heroImage: "/images/blog/verdi_morning_farming.png"
+heroImage: "/images/blog/verdi_morning_farming.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Mary Jane Phillips-Matz's 'Verdi: A Biography' and Environmental Neuroscience Research on Grounding, Morning Light exposure, and Serotonin Synthesis"

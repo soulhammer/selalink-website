@@ -5,7 +5,7 @@ pubDate: "2026-06-26"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Great Habits","murakami","Routine","Stamina"]
-heroImage: "/images/blog/murakami_running.png"
+heroImage: "/images/blog/murakami_running.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Haruki Murakami's 'What I Talk About When I Talk About Running' & Frontiers in Psychology"

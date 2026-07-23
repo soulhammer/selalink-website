@@ -5,7 +5,7 @@ description: "공인된 안전 가이드라인에 따른 닭고기의 최적 보
 pubDate: "2026-04-06"
 category: "FreshSnap"
 tags: ["닭고기","과학적으로 검증된 보관 가이드","meat"]
-heroImage: "/images/blog/chicken_storage_hack.png"
+heroImage: "/images/blog/chicken_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS & CDC</strong>"

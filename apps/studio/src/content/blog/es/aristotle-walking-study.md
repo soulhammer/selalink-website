@@ -5,7 +5,7 @@ pubDate: "2026-03-25"
 updatedDate: "2026-03-25"
 category: "BuildSelf"
 tags: ["El paseo p","Routine"]
-heroImage: "/images/blog/aristotle_walking_study.png"
+heroImage: "/images/blog/aristotle_walking_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Diógenes Laercio, Vidas y opiniones de los filósofos ilustres / Estudio neurocientífico sobre ejercicio e hipocampo"

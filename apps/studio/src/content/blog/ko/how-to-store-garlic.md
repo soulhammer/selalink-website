@@ -5,7 +5,7 @@ description: "공인된 안전 가이드라인에 따른 마늘의 최적 보관
 pubDate: "2026-02-02"
 category: "FreshSnap"
 tags: ["마늘","과학적으로 검증된 보관 가이드","vegetable"]
-heroImage: "/images/blog/garlic_storage_hack.png"
+heroImage: "/images/blog/garlic_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"

@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["大师的伟大起点：黑泽","Routine"]
-heroImage: "/images/blog/kurosawa_page_writing.png"
+heroImage: "/images/blog/kurosawa_page_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "黑泽明自传《蛤蟆的油》中的记载，以及有关设定微目标和抑制杏仁核威胁反应的行为科学研究"

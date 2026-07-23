@@ -4,7 +4,7 @@ title: "荷兰垂耳兔耳朵护理与激发快乐Binky舞 responses 3步日常"
 description: "可爱垂耳兔子荷兰垂耳兔（Holland Lop）护理指南。外耳炎预防、极度喜悦‘Binky’跳跃解读 responses HRS 24小时无限量提摩西干草喂养。"
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
-heroImage: "/images/blog/holland_lop_care.png"
+heroImage: "/images/blog/holland_lop_care.webp"
 authority: "美国家兔协会 (HRS) 与 特殊小动物兽医师学会 (AEMV)"
 app: "petself"
 formatVersion: 4

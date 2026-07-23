@@ -5,7 +5,7 @@ pubDate: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "BuildSelf"
 tags: ["Die supers","Routine"]
-heroImage: "/images/blog/feynman_explanation_technique.png"
+heroImage: "/images/blog/feynman_explanation_technique.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Richard Feynmans 'Sie belieben wohl zu scherzen, Mr. Feynman!' & Educational Psychology Review"

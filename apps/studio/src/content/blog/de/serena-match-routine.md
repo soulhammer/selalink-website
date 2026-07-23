@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Der Aufsch","Routine"]
-heroImage: "/images/blog/serena_match_routine.png"
+heroImage: "/images/blog/serena_match_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Belege aus dem Tennis Magazine und Singers sportpsychologische Forschung zu Vorbereitungsroutinen (Pre-Performance Routine) und kognitivem Framing"

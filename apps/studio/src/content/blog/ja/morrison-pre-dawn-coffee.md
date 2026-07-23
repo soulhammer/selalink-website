@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["夜明け前の創造性の儀","Routine"]
-heroImage: "/images/blog/morrison_pre_dawn_coffee.png"
+heroImage: "/images/blog/morrison_pre_dawn_coffee.webp"
 app: "buildself"
 formatVersion: 4
 authority: "トニ・モリソンとジャーナル・オブ・サーカディアン・リズムのパリ・レビュー・インタビュー"

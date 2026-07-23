@@ -4,7 +4,7 @@ title: "L'angélique Golden Retriever ? Une routine saine en 3 étapes pour les 
 description: "Golden Retriever amical et intelligent. Découvrez des conseils pour prévenir la dysplasie de la hanche chez les grands chiens et une routine quotidienne en 3 étapes."
 pubDate: "2026-05-28"
 updatedDate: "2026-05-30"
-heroImage: "/images/blog/golden_retriever_care.png"
+heroImage: "/images/blog/golden_retriever_care.webp"
 authority: "Guide officiel des races de l'American Kennel Club (AKC) et protocoles comportementaux de l'IAABC"
 app: "petself"
 formatVersion: 4

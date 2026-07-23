@@ -5,7 +5,7 @@ pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
 category: "BuildSelf"
 tags: ["15 minutes","Routine"]
-heroImage: "/images/blog/pele_towel_visualization.png"
+heroImage: "/images/blog/pele_towel_visualization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiographie de Pelé 'My Life and the Beautiful Game' & documentaires officiels de la FIFA"

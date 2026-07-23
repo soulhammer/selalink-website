@@ -5,7 +5,7 @@ pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "BuildSelf"
 tags: ["ボリンゲンの塔のデジ","Routine"]
-heroImage: "/images/blog/jung_bollingen_detox.png"
+heroImage: "/images/blog/jung_bollingen_detox.webp"
 app: "buildself"
 formatVersion: 4
 authority: "カール・ユング自伝「記憶、夢、思想」および学術誌「Journal of Behavioral Addictions」"

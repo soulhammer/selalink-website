@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Die Lautst","Routine"]
-heroImage: "/images/blog/schrodinger_earplug_focus.png"
+heroImage: "/images/blog/schrodinger_earplug_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Schrödingers Biografie 'Schrödinger: Life and Thought' & Forschung zum retikulären Aktivierungssystem (RAS)"

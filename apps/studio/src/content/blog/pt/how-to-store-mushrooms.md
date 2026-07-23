@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración de armazenamen
 pubDate: "2026-02-23"
 category: "FreshSnap"
 tags: ["Cogumelo","Guia de armazenamento comprovado cientificamente","vegetable"]
-heroImage: "/images/blog/mushroom_storage_hack.png"
+heroImage: "/images/blog/mushroom_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"

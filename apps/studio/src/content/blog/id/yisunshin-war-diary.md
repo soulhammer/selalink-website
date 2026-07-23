@@ -5,7 +5,7 @@ pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
 tags: ["Kuas yang ","Routine"]
-heroImage: "/images/blog/yisunshin_war_diary.png"
+heroImage: "/images/blog/yisunshin_war_diary.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Nanjung Ilgi Yi Sun-shin & Jurnal Journal of Experimental Psychology"

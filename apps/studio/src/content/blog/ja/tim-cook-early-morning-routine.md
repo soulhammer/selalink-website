@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["午前3時45分に起き","Routine"]
-heroImage: "/images/blog/tim_cook_early_morning_routine.png"
+heroImage: "/images/blog/tim_cook_early_morning_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Time誌カバーインタビューおよびリアンダー・ケーニー評伝「Tim Cook」"

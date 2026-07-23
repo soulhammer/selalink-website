@@ -4,7 +4,7 @@ description: "Découvrez la température, les méthodes et la durée optimales d
 pubDate: "2026-06-09"
 category: "FreshSnap"
 tags: ["Pastèque","Guide de conservation scientifiquement prouvé","fruit"]
-heroImage: "/images/blog/watermelon_storage_hack.png"
+heroImage: "/images/blog/watermelon_storage_hack.webp"
 app: "freshsnap"
 authority: "<strong>KCA & MFDS</strong>"
 steps:
@@ -51,7 +51,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
     Couvrir directement la pastèque coupée de film étirable crée une humidité où les bactéries se multiplient par milliers, risquant l'intoxication. Ne la conservez jamais sous simple film.
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/watermelon_storage_detail.png" alt="Ne jamais couvrir de film étirable directement — Éviter les bactéries ❌🍉" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/watermelon_storage_detail.webp" alt="Ne jamais couvrir de film étirable directement — Éviter les bactéries ❌🍉" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

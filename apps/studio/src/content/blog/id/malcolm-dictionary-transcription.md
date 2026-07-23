@@ -5,7 +5,7 @@ pubDate: "2026-07-03"
 updatedDate: "2026-07-03"
 category: "BuildSelf"
 tags: ["Menyalin S","Routine"]
-heroImage: "/images/blog/malcolm_dictionary_transcription.png"
+heroImage: "/images/blog/malcolm_dictionary_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografi Malcolm X & Jurnal Frontiers in Psychology"

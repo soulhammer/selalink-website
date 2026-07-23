@@ -5,7 +5,7 @@ description: "물리학의 패러다임을 바꾼 알베르트 아인슈타인. 
 pubDate: "2026-03-05"
 category: "BuildSelf"
 tags: ["위인 습관", "알베르트 아인슈타인", "창의성", "휴식", "아이디어"]
-heroImage: "/images/blog/einstein_violin_thinking.png"
+heroImage: "/images/blog/einstein_violin_thinking.webp"
 app: "buildself"
 authority: "알베르트 아인슈타인 전기 'Einstein: A Life' 및 Frontiers in Psychology 학술지"
 updatedDate: "2026-03-05"

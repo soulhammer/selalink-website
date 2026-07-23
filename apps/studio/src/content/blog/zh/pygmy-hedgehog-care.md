@@ -4,7 +4,7 @@ title: "非洲迷你刺猬的涂刺习性与预防低体温3阶段流程"
 description: "非洲迷你刺猬的护理。了解它们独特的涂刺泡沫行为，并通过我们维持24-26°C最适温度 of 3阶段护理预防致命的强制冬眠。"
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
-heroImage: "/images/blog/pygmy_hedgehog_care.png"
+heroImage: "/images/blog/pygmy_hedgehog_care.webp"
 authority: "Hedgehog Welfare Society 护理指南及异宠兽医行为规程"
 app: "petself"
 formatVersion: 4

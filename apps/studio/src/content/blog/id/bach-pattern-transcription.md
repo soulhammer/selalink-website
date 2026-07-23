@@ -5,7 +5,7 @@ pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
 tags: ["Master yan","Routine"]
-heroImage: "/images/blog/bach_pattern_transcription.png"
+heroImage: "/images/blog/bach_pattern_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Buku Forkel 'Life of Johann Sebastian Bach' & Penelitian Perkembangan Otak Fungsional (James, 2012)"

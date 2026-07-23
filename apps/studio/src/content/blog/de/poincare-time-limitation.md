@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Die Antwor","Routine"]
-heroImage: "/images/blog/poincare_time_limitation.png"
+heroImage: "/images/blog/poincare_time_limitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Henri Poincarés Buch „Wissenschaft und Methode“ & Forschungen zum diffusen Modus in den Kognitionswissenschaften"

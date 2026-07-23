@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["枕元の筆記板：シャル","Routine"]
-heroImage: "/images/blog/charlemagne_lifelong_learning.png"
+heroImage: "/images/blog/charlemagne_lifelong_learning.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アインハルトの伝記「Life of Charlemagne」および海馬の 睡眠記憶統合（Consolidation）研究"

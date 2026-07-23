@@ -4,7 +4,7 @@ title: "비어디 드래곤의 일광욕 가이드와 3단계 칼슘-UVB 일상 
 description: "온순한 비어디 드래곤 도마뱀 케어법. 머리를 흔드는 사회적 신호와 대사성 골질환(MBD)을 예방하는 3단계 조명 및 칼슘 공급 루틴을 다룹니다."
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
-heroImage: "/images/blog/bearded_dragon_care.png"
+heroImage: "/images/blog/bearded_dragon_care.webp"
 authority: "양서파충류수의학회(ARAV) 사육 가이드라인 및 파충류 임상 표준 수의 행동학"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ description: "할리우드의 전설 오드리 헵번. 극심한 대중의 관�
 pubDate: "2026-01-14"
 category: "BuildSelf"
 tags: ["위인 습관", "오드리헵번", "정원가꾸기", "스트레스해소", "마음치유"]
-heroImage: "/images/blog/hepburn_garden_mindfulness.png"
+heroImage: "/images/blog/hepburn_garden_mindfulness.webp"
 app: "buildself"
 authority: "오드리 헵번 전적 사료 및 Neuroscience 학술지"
 updatedDate: "2026-01-14"

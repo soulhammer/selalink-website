@@ -5,7 +5,7 @@ description: "Learn the best storage temperature, methods, and duration for Beef
 pubDate: "2026-03-28"
 category: "FreshSnap"
 tags: ["Beef","Scientifically Proven Storage Guide","meat"]
-heroImage: "/images/blog/beef_storage_hack.png"
+heroImage: "/images/blog/beef_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"

@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["El culmen ","Routine"]
-heroImage: "/images/blog/archimedes_sand_geometry.png"
+heroImage: "/images/blog/archimedes_sand_geometry.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autenticación del epistolario de Plutarco 'Vidas paralelas' e investigaciones sobre la teoría de la codificación dual"

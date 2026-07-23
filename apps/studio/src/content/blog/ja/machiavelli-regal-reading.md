@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["聖賢との対話：マキア","Routine"]
-heroImage: "/images/blog/machiavelli_regal_reading.png"
+heroImage: "/images/blog/machiavelli_regal_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "マキアヴェッリが1513年にフランチェスコ・ヴェットーリに送った親筆手紙考証およびシカゴ・ノースウェスタン大学の衣服認知（Enclothed Cognition）実証研究"

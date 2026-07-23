@@ -5,7 +5,7 @@ description: "천문학자 요하네스 케플러가 행성의 타원 궤도를 
 pubDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["위인 습관", "학습"]
-heroImage: "/images/blog/kepler_geometric_modeling.png"
+heroImage: "/images/blog/kepler_geometric_modeling.webp"
 app: "buildself"
 authority: "케플러의 저서 '우주의 신비' 및 촉각적 입체 인지 조작이 공간 추론에 미치는 인지과학 연구"
 updatedDate: "2026-06-24"

@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Notas que ","Routine"]
-heroImage: "/images/blog/mead_immediate_field_notes.png"
+heroImage: "/images/blog/mead_immediate_field_notes.webp"
 app: "buildself"
 formatVersion: 4
 authority: "La obra de Jane Howard 'Margaret Mead: A Life' e investigación neurocognitiva sobre las limitaciones de la memoria de trabajo y la descarga cognitiva (Storm & Stone, 2015)"

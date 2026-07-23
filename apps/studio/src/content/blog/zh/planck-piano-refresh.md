@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["大脑认知重置：马克斯","Routine"]
-heroImage: "/images/blog/planck_piano_refresh.png"
+heroImage: "/images/blog/planck_piano_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "普朗克自传《Wissenschaftliche Selbstbiographie》历史考证及约翰斯·霍普金斯医学院关于音乐即兴演奏脑成像神经科学研究"

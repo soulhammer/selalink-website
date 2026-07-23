@@ -4,7 +4,7 @@ title: "Shiba Inu Unabhängigkeit und Fellpflege: Eine 3-Schritte-Routine"
 description: "Der Shiba Inu ist unabhängig und berührungsempfindlich. Lernen Sie Bürstentechniken für sein doppeltes Fell und eine 3-Schritte-Routine für stressfreie Berührung."
 pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
-heroImage: "/images/blog/shiba_care.png"
+heroImage: "/images/blog/shiba_care.webp"
 authority: "Nationaler Shiba Inu Club von Amerika & IAABC-Verhaltensmodifikationsrichtlinien"
 app: "petself"
 formatVersion: 4

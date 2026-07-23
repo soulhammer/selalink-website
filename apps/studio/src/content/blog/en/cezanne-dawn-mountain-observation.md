@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["Great Habits","cezanne","Routine","Stamina"]
-heroImage: "/images/blog/cezanne_dawn_mountain_observation.png"
+heroImage: "/images/blog/cezanne_dawn_mountain_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Joachim Gasquet's Cezanne: A Memoir and Environmental Physiology Studies on Morning Blue-Light Exposure, Suprachiasmatic Nucleus Activation, and Visual Attention Tuning"

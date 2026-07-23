@@ -6,7 +6,7 @@ pubDate: "2026-05-01"
 updatedDate: "2026-05-01"
 category: "BuildSelf"
 tags: ["위인 습관", "모차르트", "당구", "무의식", "창의성"]
-heroImage: "/images/blog/mozart_billiard_ideation.png"
+heroImage: "/images/blog/mozart_billiard_ideation.webp"
 app: "buildself"
 authority: "콘스탄체 모차르트 서한집 및 산타바바라 캘리포니아 대학(UCSB) DMN 연구(2012)"
 ---

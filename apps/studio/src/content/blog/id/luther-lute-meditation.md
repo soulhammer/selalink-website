@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Getaran Pe","Routine"]
-heroImage: "/images/blog/luther_lute_meditation.png"
+heroImage: "/images/blog/luther_lute_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Arsip Surat 'Luther's Works, Vol. 49' dan Penelitian Harvard Medical School tentang Terapi Musik dan Respons Saraf Otonom"

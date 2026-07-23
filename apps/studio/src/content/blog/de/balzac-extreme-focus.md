@@ -5,7 +5,7 @@ pubDate: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "BuildSelf"
 tags: ["Um Mittern","Routine"]
-heroImage: "/images/blog/balzac_extreme_focus.png"
+heroImage: "/images/blog/balzac_extreme_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Stefan Zweigs 'Balzac' & Neuropharmacology"

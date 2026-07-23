@@ -4,7 +4,7 @@ title: "Fellpflege beim Yorkshire Terrier und Vorbeugung von Patellaluxation"
 description: "Pflege-Geheimnisse für das Fell des Yorkshire Terriers sowie Kniegelenksübungen."
 pubDate: "2026-01-02"
 updatedDate: "2026-01-02"
-heroImage: "/images/blog/yorkshire_care.png"
+heroImage: "/images/blog/yorkshire_care.webp"
 authority: "Richtlinien des Yorkshire Terrier Club (YTC) und der Veterinärorthopädie"
 app: "petself"
 formatVersion: 4

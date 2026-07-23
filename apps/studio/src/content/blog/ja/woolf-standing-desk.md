@@ -5,7 +5,7 @@ pubDate: "2026-06-06"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["毎朝立って執筆した小","Routine"]
-heroImage: "/images/blog/woolf_standing_desk.png"
+heroImage: "/images/blog/woolf_standing_desk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ヴァージニア・ウルフ 日記 ＆ 人間工学専門学術誌 Applied Ergonomics 起立作業研究"

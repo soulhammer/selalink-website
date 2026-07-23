@@ -4,7 +4,7 @@ title: "Samoyed Double Coat & Hip Health Care: A 3-Step Daily Routine to Manage 
 description: "Samoyeds are majestic sled dogs prone to hip dysplasia and skin infections under dense double coats. Learn a 3-step routine to maintain hair and joints."
 pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
-heroImage: "/images/blog/samoyed_care.png"
+heroImage: "/images/blog/samoyed_care.webp"
 authority: "AKC Samoyed Manual & Orthopedic Foundation for Animals (OFA)"
 app: "petself"
 formatVersion: 4

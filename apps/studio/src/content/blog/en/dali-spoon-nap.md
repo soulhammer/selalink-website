@@ -5,7 +5,7 @@ pubDate: "2026-03-07"
 updatedDate: "2026-03-07"
 category: "BuildSelf"
 tags: ["Great Habits","dali","Routine","Stamina"]
-heroImage: "/images/blog/dali_spoon_nap.png"
+heroImage: "/images/blog/dali_spoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Salvador Dalí's autobiography 'The Secret Life of Salvador Dalí' & Journal of Frontiers in Human Neuroscience"

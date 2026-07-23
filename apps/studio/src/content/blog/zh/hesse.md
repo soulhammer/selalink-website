@@ -5,7 +5,7 @@ pubDate: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "BuildSelf"
 tags: ["黑塞沉思自然的方法，","Routine"]
-heroImage: "/images/blog/hesse.png"
+heroImage: "/images/blog/hesse.webp"
 app: "buildself"
 formatVersion: 4
 authority: "赫尔曼·黑塞，*园丁图画书（园艺的乐趣）* (1957) 和认知神经科学研究"

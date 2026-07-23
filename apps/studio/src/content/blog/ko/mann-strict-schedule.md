@@ -5,7 +5,7 @@ pubDate: "2026-01-24"
 updatedDate: "2026-01-24"
 category: "BuildSelf"
 tags: ["매일 오전 4시간 ","Routine"]
-heroImage: "/images/blog/mann_strict_schedule.png"
+heroImage: "/images/blog/mann_strict_schedule.webp"
 app: "buildself"
 formatVersion: 4
 authority: "도널드 프레이터의 '토마스 만 전기' 및 칼 뉴포트의 '딥 워크(Deep Work)'"

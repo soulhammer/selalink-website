@@ -5,7 +5,7 @@ pubDate: "2026-01-24"
 updatedDate: "2026-01-24"
 category: "BuildSelf"
 tags: ["Great Habits","mann","Routine","Stamina"]
-heroImage: "/images/blog/mann_strict_schedule.png"
+heroImage: "/images/blog/mann_strict_schedule.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Donald Prater's 'Thomas Mann: A Life' & Cal Newport's 'Deep Work'"

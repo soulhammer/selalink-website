@@ -5,7 +5,7 @@ description: "범신론 철학자 스피노자가 에티카를 집필하는 틈�
 pubDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["신체노동", "이완", "몰입", "근세"]
-heroImage: "/images/blog/spinoza_lens_grinding.png"
+heroImage: "/images/blog/spinoza_lens_grinding.webp"
 app: "buildself"
 authority: "요하네스 콜레루스 《스피노자의 생애》"
 updatedDate: "2026-04-25"

@@ -5,7 +5,7 @@ pubDate: "2026-03-19"
 updatedDate: "2026-03-19"
 category: "BuildSelf"
 tags: ["Filsuf yan","Routine"]
-heroImage: "/images/blog/locke_commonplace_book.png"
+heroImage: "/images/blog/locke_commonplace_book.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Risalah John Locke 'Metode Baru Membuat Buku Common-Place' & Penelitian Kognitif"

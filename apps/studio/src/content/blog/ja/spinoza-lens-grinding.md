@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["スピノザのレンズ研磨","Routine"]
-heroImage: "/images/blog/spinoza_lens_grinding.png"
+heroImage: "/images/blog/spinoza_lens_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ヨハネス・コレルス『スピノザの生涯』 / 精巧な手動きおよびアナログ活動がデフォルト・モード・ネットワーク（DMN）制御に及ぼす認知科学研究"

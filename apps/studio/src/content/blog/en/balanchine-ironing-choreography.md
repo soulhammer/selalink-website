@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Great Habits","balanchine","Routine","Stamina"]
-heroImage: "/images/blog/balanchine_ironing_choreography.png"
+heroImage: "/images/blog/balanchine_ironing_choreography.webp"
 app: "buildself"
 formatVersion: 4
 authority: "George Balanchine's biography 'Balanchine' and neuroscientific research on Monotonous Motor Tasks and DMN activation for creative incubation"

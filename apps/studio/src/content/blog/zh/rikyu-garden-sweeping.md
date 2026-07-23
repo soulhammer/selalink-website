@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["拂拭心尘的清晨：千利","Routine"]
-heroImage: "/images/blog/rikyu_garden_sweeping.png"
+heroImage: "/images/blog/rikyu_garden_sweeping.webp"
 app: "buildself"
 formatVersion: 4
 authority: "茶道古籍《南方录》中的记载，以及有关轻度重复身体活动、动态冥想和激活认知控制网络的脑神经研究"

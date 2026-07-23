@@ -5,7 +5,7 @@ description: "公的安全基準に基づくナッツの最適な保存温度、
 pubDate: "2026-06-18"
 category: "FreshSnap"
 tags: ["ナッツ","科学的に検証された保存ガイド","etc"]
-heroImage: "/images/blog/nuts_storage_hack.png"
+heroImage: "/images/blog/nuts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>"

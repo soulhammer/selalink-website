@@ -5,7 +5,7 @@ pubDate: "2026-07-14"
 updatedDate: "2026-07-14"
 category: "BuildSelf"
 tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/jenner_observation_tracking_log.png"
+heroImage: "/images/blog/jenner_observation_tracking_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "리처드 피셔 전기 'Edward Jenner 1749-1823' 및 왕립학회 사료"

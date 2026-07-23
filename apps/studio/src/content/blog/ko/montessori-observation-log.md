@@ -5,7 +5,7 @@ pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "BuildSelf"
 tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/montessori_observation_log.png"
+heroImage: "/images/blog/montessori_observation_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "몽테소리 저서 'The Discovery of the Child' 및 전기 사료"

@@ -5,7 +5,7 @@ pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
 tags: ["Le maître ","Routine"]
-heroImage: "/images/blog/bach_pattern_transcription.png"
+heroImage: "/images/blog/bach_pattern_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "L'ouvrage de Forkel 'Vie de Jean-Sébastien Bach' et l'étude du développement cérébral fonctionnel (James, 2012)"

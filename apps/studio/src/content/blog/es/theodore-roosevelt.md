@@ -5,7 +5,7 @@ pubDate: "2026-07-06"
 updatedDate: "2026-07-06"
 category: "BuildSelf"
 tags: ["El entrena","Routine"]
-heroImage: "/images/blog/theodore_roosevelt.png"
+heroImage: "/images/blog/theodore_roosevelt.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Edmund Morris, *El ascenso de Theodore Roosevelt* (1979) y estudios neurocientíficos cognitivos"

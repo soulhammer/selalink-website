@@ -5,7 +5,7 @@ pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Statistike","Routine"]
-heroImage: "/images/blog/mendel_pea_statistics.png"
+heroImage: "/images/blog/mendel_pea_statistics.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Mendels Arbeit von 1865 'Versuche über Pflanzen-Hybriden' & Fachzeitschrift Journal of Educational Psychology"

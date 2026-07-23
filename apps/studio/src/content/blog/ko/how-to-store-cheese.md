@@ -6,7 +6,7 @@ pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "FreshSnap"
 tags: ["치즈","과학적으로 검증된 보관 가이드","dairy"]
-heroImage: "/images/blog/cheese_storage_hack.png"
+heroImage: "/images/blog/cheese_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & FDA</strong>"

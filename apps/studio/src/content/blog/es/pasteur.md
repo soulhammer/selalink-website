@@ -5,7 +5,7 @@ pubDate: "2026-05-03"
 updatedDate: "2026-05-03"
 category: "BuildSelf"
 tags: ["Circuito d","Routine"]
-heroImage: "/images/blog/pasteur.png"
+heroImage: "/images/blog/pasteur.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Gerald L. Geison, *La ciencia privada de Louis Pasteur* (1995) y estudios neurocientíficos cognitivos"

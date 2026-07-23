@@ -5,7 +5,7 @@ description: "미국의 가장 영향력 있는 여성이자 퍼스트 레이디
 pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/roosevelt_my_day_column.png"
+heroImage: "/images/blog/roosevelt_my_day_column.webp"
 app: "buildself"
 authority: "루스벨트 칼럼집 'My Day' 및 실험심리학 저널 인지 연구 논문"
 updatedDate: "2026-03-18"

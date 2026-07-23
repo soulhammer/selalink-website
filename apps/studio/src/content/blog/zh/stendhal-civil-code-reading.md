@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["冷却大脑的干燥预热：","Routine"]
-heroImage: "/images/blog/stendhal_civil_code_reading.png"
+heroImage: "/images/blog/stendhal_civil_code_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "司汤达致巴尔扎克书信考证及认知心理学启动效应（Priming Effect）与结构化文本刺激对提高大脑客观分析力影响的研究"

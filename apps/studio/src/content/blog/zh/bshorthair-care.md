@@ -4,7 +4,7 @@ title: "英国短毛猫体重护理：预防肥大性心肌病（HCM）与肥胖
 description: "以结实身架和圆圆大脸而闻名的英国短毛猫。介绍一套预防肥胖（加重骨骼与心脏负担）和遗传性心肌病（HCM）的日常3步饮食与护理惯例。"
 pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
-heroImage: "/images/blog/bshorthair_care.png"
+heroImage: "/images/blog/bshorthair_care.webp"
 authority: "GCCF 英国短毛猫标准与 AAFP 猫咪肥胖指南"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["画家の工房に響き渡る","Routine"]
-heroImage: "/images/blog/rubens_multitasking_recitation.png"
+heroImage: "/images/blog/rubens_multitasking_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ルーベンス伝記「Master of Shadows」および「実験心理学ジャーナル」の認知チャネル分割研究"

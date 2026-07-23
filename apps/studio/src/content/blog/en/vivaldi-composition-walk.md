@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["Great Habits","vivaldi","Routine","Stamina"]
-heroImage: "/images/blog/vivaldi_composition_walk.png"
+heroImage: "/images/blog/vivaldi_composition_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "H.C. Robbins Landon's 'Vivaldi: Voice of the Baroque' & Autograph Score Analysis"

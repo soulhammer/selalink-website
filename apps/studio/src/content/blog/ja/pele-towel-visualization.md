@@ -5,7 +5,7 @@ pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
 category: "BuildSelf"
 tags: ["ロッカールームの騒音","Routine"]
-heroImage: "/images/blog/pele_towel_visualization.png"
+heroImage: "/images/blog/pele_towel_visualization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ペレ自伝「My Life and the Beautiful Game」およびFIFA公式ドキュメンタリー資料"

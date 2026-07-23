@@ -5,7 +5,7 @@ pubDate: "2026-02-02"
 updatedDate: "2026-02-02"
 category: "BuildSelf"
 tags: ["Uma corrid","Routine"]
-heroImage: "/images/blog/turing_marathon_running.png"
+heroImage: "/images/blog/turing_marathon_running.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia de Andrew Hodges 'Alan Turing: The Enigma' & Arquivo da Associação Atlética Britânica"

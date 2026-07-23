@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Ein Wort, ","Routine"]
-heroImage: "/images/blog/watson_think_sign.png"
+heroImage: "/images/blog/watson_think_sign.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Dokumente des IBM-Unternehmensmuseums und neurologische Forschung des University College London (UCL) über Denkmechanismen"

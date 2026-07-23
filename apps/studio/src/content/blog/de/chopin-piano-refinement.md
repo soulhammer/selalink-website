@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Das eisern","Routine"]
-heroImage: "/images/blog/chopin_piano_refinement.png"
+heroImage: "/images/blog/chopin_piano_refinement.webp"
 app: "buildself"
 formatVersion: 4
 authority: "George Sands Memoiren „Ein Winter auf Mallorca“ & Manuskriptanalyse des Fryderyk-Chopin-Instituts"

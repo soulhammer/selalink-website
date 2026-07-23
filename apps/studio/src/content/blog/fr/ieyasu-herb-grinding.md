@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Le rythme ","Routine"]
-heroImage: "/images/blog/ieyasu_herb_grinding.png"
+heroImage: "/images/blog/ieyasu_herb_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Documents historiques sur la collection d'herbes de Tokugawa Ieyasu & recherche sur l'activité motrice rythmique et la neuromodulation de la sérotonine"

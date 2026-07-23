@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Great Habits","sartre","Routine","Stamina"]
-heroImage: "/images/blog/sartre_cafe_writing.png"
+heroImage: "/images/blog/sartre_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Sartre's Biography 'Sartre: A Life' & Environmental Psychology Research"

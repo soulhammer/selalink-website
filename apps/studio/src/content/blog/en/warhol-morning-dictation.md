@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Great Habits","warhol","Routine","Stamina"]
-heroImage: "/images/blog/warhol_morning_dictation.png"
+heroImage: "/images/blog/warhol_morning_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Posthumously published 'The Andy Warhol Diaries' and University of Illinois Cognitive Research on Cognitive Offloading"

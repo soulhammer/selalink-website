@@ -5,7 +5,7 @@ pubDate: "2026-01-24"
 updatedDate: "2026-01-24"
 category: "BuildSelf"
 tags: ["Novelis ya","Routine"]
-heroImage: "/images/blog/mann_strict_schedule.png"
+heroImage: "/images/blog/mann_strict_schedule.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Thomas Mann: A Life oleh Donald Prater & 'Deep Work' oleh Cal Newport"

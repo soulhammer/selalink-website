@@ -5,7 +5,7 @@ pubDate: "2026-06-13"
 updatedDate: "2026-06-13"
 category: "BuildSelf"
 tags: ["凌晨5点咖啡与晨间散","Routine"]
-heroImage: "/images/blog/brahms_early_morning_coffee.png"
+heroImage: "/images/blog/brahms_early_morning_coffee.webp"
 app: "buildself"
 formatVersion: 4
 authority: "斯瓦福德《约翰内斯·勃拉姆斯传》与《自然神经科学(Nature Neuroscience)》期刊"

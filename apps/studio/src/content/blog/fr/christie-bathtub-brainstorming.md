@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Manger des","Routine"]
-heroImage: "/images/blog/christie_bathtub_brainstorming.png"
+heroImage: "/images/blog/christie_bathtub_brainstorming.webp"
 app: "buildself"
 formatVersion: 4
 authority: "L'autobiographie d'Agatha Christie 'Agatha Christie : Une autobiographie' & Journal of Thermal Biology"

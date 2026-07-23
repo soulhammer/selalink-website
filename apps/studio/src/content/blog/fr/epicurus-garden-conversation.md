@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["Solidarité","Routine"]
-heroImage: "/images/blog/epicurus_garden_conversation.png"
+heroImage: "/images/blog/epicurus_garden_conversation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "L'ouvrage de Diogène Laërce 'Vies et doctrines des philosophes illustres' et recherche neuropsychiatrique sur la sécurité psychologique, la connexion sociale et la réduction du stress"

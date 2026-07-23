@@ -5,7 +5,7 @@ pubDate: "2026-06-04"
 updatedDate: "2026-06-04"
 category: "BuildSelf"
 tags: ["Raja Penak","Routine"]
-heroImage: "/images/blog/ashoka_edict_inscribed_reflection.png"
+heroImage: "/images/blog/ashoka_edict_inscribed_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Karya Romila Thapar 'Asoka and the Decline of the Mauryas' & Prasasti Titah Ashoka"

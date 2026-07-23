@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["ゴミ箱から救い出した","Routine"]
-heroImage: "/images/blog/fleming_petridish_observation.png"
+heroImage: "/images/blog/fleming_petridish_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "フレミングの1945年のノーベル賞講演録および学術誌「Frontiers in Psychology」"

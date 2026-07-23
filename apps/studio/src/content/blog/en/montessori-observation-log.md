@@ -5,7 +5,7 @@ pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "BuildSelf"
 tags: ["Great Habits","montessori","Routine","Stamina"]
-heroImage: "/images/blog/montessori_observation_log.png"
+heroImage: "/images/blog/montessori_observation_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Maria Montessori's Book 'The Discovery of the Child' & Historical Archives"

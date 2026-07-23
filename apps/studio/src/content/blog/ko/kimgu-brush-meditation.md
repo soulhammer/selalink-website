@@ -5,7 +5,7 @@ description: "대한민국 임시정부를 이끈 백범 김구의 서예를 통
 pubDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["위인 습관", "백범 김구", "서예 명상", "붓글씨", "불안 조절", "마음 수양"]
-heroImage: "/images/blog/kimgu_brush_meditation.png"
+heroImage: "/images/blog/kimgu_brush_meditation.webp"
 app: "buildself"
 authority: "백범 김구의 저서 『백범일지(白凡逸志)』 역사적 고증 및 미세 운동 제어(Fine Motor Control)와 편도체 불안 제어 연구"
 updatedDate: "2026-02-06"

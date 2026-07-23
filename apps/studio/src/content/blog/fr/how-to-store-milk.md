@@ -5,7 +5,7 @@ description: "Découvrez la température, les méthodes et la durée optimales d
 pubDate: "2026-06-22"
 category: "FreshSnap"
 tags: ["Lait","Guide de conservation scientifiquement prouvé","dairy"]
-heroImage: "/images/blog/milk_storage_hack.png"
+heroImage: "/images/blog/milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"

@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Régler le ","Routine"]
-heroImage: "/images/blog/schrodinger_earplug_focus.png"
+heroImage: "/images/blog/schrodinger_earplug_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie de Schrödinger 'Schrödinger: Life and Thought' & recherche sur le système réticulé activateur (SRA)"

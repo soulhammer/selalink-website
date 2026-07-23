@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["Schritte z","Routine"]
-heroImage: "/images/blog/adams_morning_walk.png"
+heroImage: "/images/blog/adams_morning_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Adams' Biografie 'John Adams' & neuroplastische medizinische Forschung"

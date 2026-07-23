@@ -5,7 +5,7 @@ description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit f√
 pubDate: "2026-01-20"
 category: "FreshSnap"
 tags: ["Kartoffel","Wissenschaftlich gepr√ºfter Lagerungsratgeber","vegetable"]
-heroImage: "/images/blog/potato_storage_hack.png"
+heroImage: "/images/blog/potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & RDA & FSA</strong>"

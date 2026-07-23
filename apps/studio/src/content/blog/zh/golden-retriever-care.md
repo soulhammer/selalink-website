@@ -4,7 +4,7 @@ title: "天使犬金毛寻回猎犬？呵护关节与寻回天性的日常3步�
 description: "友好且聪明的金毛寻回犬。介绍预防大型犬易患的髋关节发育不良的窍门，以及用于消耗精力的3步日常护理惯例。"
 pubDate: "2026-05-28"
 updatedDate: "2026-05-30"
-heroImage: "/images/blog/golden_retriever_care.png"
+heroImage: "/images/blog/golden_retriever_care.webp"
 authority: "美国养犬俱乐部 (AKC) 官方犬种指南与 IAABC 行为学协议"
 app: "petself"
 formatVersion: 4

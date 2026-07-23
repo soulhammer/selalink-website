@@ -5,7 +5,7 @@ description: "Découvrez la température, les méthodes et la durée optimales d
 pubDate: "2026-04-20"
 category: "FreshSnap"
 tags: ["Chou","Guide de conservation scientifiquement prouvé","vegetable"]
-heroImage: "/images/blog/cabbage_storage_hack.png"
+heroImage: "/images/blog/cabbage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"

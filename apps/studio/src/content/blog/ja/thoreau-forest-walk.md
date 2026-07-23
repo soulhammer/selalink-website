@@ -5,7 +5,7 @@ pubDate: "2026-04-30"
 updatedDate: "2026-04-30"
 category: "BuildSelf"
 tags: ["毎日4時間森を歩く：","Routine"]
-heroImage: "/images/blog/thoreau_forest_walk.png"
+heroImage: "/images/blog/thoreau_forest_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ソローの「ウォールデン」および注意力回復理論（ART）に関する認知科学研究"

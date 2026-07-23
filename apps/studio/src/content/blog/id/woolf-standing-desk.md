@@ -5,7 +5,7 @@ pubDate: "2026-06-06"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Novelis ya","Routine"]
-heroImage: "/images/blog/woolf_standing_desk.png"
+heroImage: "/images/blog/woolf_standing_desk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Buku Harian Virginia Woolf & Penelitian Applied Ergonomics tentang Meja Berdiri"

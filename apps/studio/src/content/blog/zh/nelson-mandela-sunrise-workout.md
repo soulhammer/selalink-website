@@ -5,7 +5,7 @@ pubDate: "2026-01-13"
 updatedDate: "2026-01-13"
 category: "BuildSelf"
 tags: ["纳尔逊·曼德拉的“日","Routine"]
-heroImage: "/images/blog/nelson_mandela_sunrise_workout.png"
+heroImage: "/images/blog/nelson_mandela_sunrise_workout.webp"
 app: "buildself"
 formatVersion: 4
 authority: "纳尔逊·曼德拉自传《漫漫自由路》"

@@ -5,7 +5,7 @@ description: "화려한 미사여구를 배제하고 인간 심리의 본질을 
 pubDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["글쓰기", "창의성", "의사결정"]
-heroImage: "/images/blog/stendhal_civil_code_reading.png"
+heroImage: "/images/blog/stendhal_civil_code_reading.webp"
 app: "buildself"
 authority: "스탕달이 발자크에게 보낸 서한 고증 및 인지심리학의 점화 효과(Priming Effect)와 구조적 텍스트 자극이 대뇌의 객관적 분석력 제고에 미치는 신경학적 영향"
 updatedDate: "2026-02-08"

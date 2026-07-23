@@ -5,7 +5,7 @@ pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["O segredo ","Routine"]
-heroImage: "/images/blog/marco_polo_travel_journal.png"
+heroImage: "/images/blog/marco_polo_travel_journal.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Clássico 'The Travels of Marco Polo' e biografia 'Marco Polo: From Venice to Xanadu'"

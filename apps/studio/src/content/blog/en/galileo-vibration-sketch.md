@@ -5,7 +5,7 @@ pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
 tags: ["Great Habits","galileo","Routine","Stamina"]
-heroImage: "/images/blog/galileo_vibration_sketch.png"
+heroImage: "/images/blog/galileo_vibration_sketch.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Stillman Drake, Galileo at Work / Visuospatial processing and sketching research in cognitive science"

@@ -4,7 +4,7 @@ title: "Denkspiele und Ohrenpflege: Eine 3-Schritte-Routine für den intelligent
 description: "Erfahren Sie, wie Sie Langeweile bei intelligenten Pudeln durch Denkspiele lindern und Ohrentzündungen mit einer 3-Schritte-Routine vorbeugen."
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
-heroImage: "/images/blog/poodle_care.png"
+heroImage: "/images/blog/poodle_care.webp"
 authority: "Offizieller Rasseführer des American Kennel Clubs (AKC) und IAABC-Verhaltensprotokolle"
 app: "petself"
 formatVersion: 4

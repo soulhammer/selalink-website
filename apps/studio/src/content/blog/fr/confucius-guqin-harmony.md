@@ -5,7 +5,7 @@ pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
 tags: ["Accorder l","Routine"]
-heroImage: "/images/blog/confucius_guqin_harmony.png"
+heroImage: "/images/blog/confucius_guqin_harmony.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Les Entretiens de Confucius, Shiji & revue Journal of Music Therapy"

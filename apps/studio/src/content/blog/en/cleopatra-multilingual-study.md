@@ -5,7 +5,7 @@ pubDate: "2026-03-03"
 updatedDate: "2026-03-03"
 category: "BuildSelf"
 tags: ["Great Habits","cleopatra","Routine","Stamina"]
-heroImage: "/images/blog/cleopatra_multilingual_study.png"
+heroImage: "/images/blog/cleopatra_multilingual_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Plutarch's Life of Antony & Michael Grant's Cleopatra Research"

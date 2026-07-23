@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["質素な庭での知的連帯","Routine"]
-heroImage: "/images/blog/epicurus_garden_conversation.png"
+heroImage: "/images/blog/epicurus_garden_conversation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ディオゲネス・ラエルティオス著『ギリシア哲学者列伝』第10巻歴史的考証および信頼関係のもとでの対面コミュニケーションがオキシトシン分泌とストレス緩解に及ぼす神経精神医学研究結果"

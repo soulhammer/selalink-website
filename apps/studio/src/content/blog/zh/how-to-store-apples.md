@@ -4,7 +4,7 @@ description: "苹果很快变粉变软，或者弄坏了其他水果？为您介
 pubDate: "2026-03-11"
 category: "FreshSnap"
 tags: ["苹果储存法", "水果保鲜", "乙烯气体", "保鲜窍门", "生活妙招"]
-heroImage: "/images/blog/apple_storage_hack.png"
+heroImage: "/images/blog/apple_storage_hack.webp"
 app: "freshsnap"
 faqs:
   - question: "碰伤的苹果可以用保鲜膜包裹保存吗？"
@@ -67,7 +67,7 @@ formatVersion: 4
     💡 <strong>储存窍门</strong>: 保持苹果干燥不沾水，用食品级保鲜膜（或塑料保鲜袋）将苹果一颗一颗严密地包裹起来。这样可以锁住苹果自身的水分，长期保持其爽脆的口感，同时也能初步阻断自身释放的乙烯气体向外泄漏。
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/apple_storage_detail.png" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/apple_storage_detail.webp" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

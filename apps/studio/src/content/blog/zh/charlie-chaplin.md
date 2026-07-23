@@ -5,7 +5,7 @@ pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "BuildSelf"
 tags: ["查理·卓别林的人体分","Routine"]
-heroImage: "/images/blog/charlie_chaplin.png"
+heroImage: "/images/blog/charlie_chaplin.webp"
 app: "buildself"
 formatVersion: 4
 authority: "查理·卓别林，*我的自传* (1964) 和认知神经科学研究"

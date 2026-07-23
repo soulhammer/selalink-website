@@ -4,7 +4,7 @@ title: "绅士般的大型巨猫缅因猫，心脏健康与浓密双层被毛3�
 description: "外表像狮子般威风的温顺巨猫缅因猫。由于体重大，需要布置关节减震垫以减轻落地冲击，并介绍监控遗传性肥大性心肌病（HCM）的3步日常护理惯例。"
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
-heroImage: "/images/blog/maine_coon_care.png"
+heroImage: "/images/blog/maine_coon_care.webp"
 authority: "缅因猫繁育与爱好者协会 (MCBFA) 官方指南与 AAFP 大型猫管理协议"
 app: "petself"
 formatVersion: 4

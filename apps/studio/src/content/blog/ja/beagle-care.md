@@ -4,7 +4,7 @@ title: "ビーグルの活発なエネルギーケア：分離不安緩和と耳
 description: "狩猟犬の血を引くビーグルは好奇心と運動量が活発です。エネルギーを消費して分離不安を克服し、垂れ耳の衛生を保つ3段階ルーティンを紹介します。"
 pubDate: "2026-02-28"
 updatedDate: "2026-03-01"
-heroImage: "/images/blog/beagle_care.png"
+heroImage: "/images/blog/beagle_care.webp"
 authority: "AKCビーグルガイド＆IAABCノーズワーク行動プロトコル"
 app: "petself"
 formatVersion: 4

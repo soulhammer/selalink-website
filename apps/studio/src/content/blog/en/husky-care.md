@@ -4,7 +4,7 @@ title: "The Burning Energy of Sled Dogs: Siberian Husky Double Coat and Activity
 description: "Siberian Huskies, the majestic sled dogs built for cold. Learn tips to manage heat stress and a 3-step daily routine to satisfy their huge energy levels and prevent howling."
 pubDate: "2026-03-29"
 updatedDate: "2026-03-30"
-heroImage: "/images/blog/husky_care.png"
+heroImage: "/images/blog/husky_care.webp"
 authority: "Official Siberian Husky Club of America Breed Guide & IAABC Working Dog Activity Protocols"
 app: "petself"
 formatVersion: 4

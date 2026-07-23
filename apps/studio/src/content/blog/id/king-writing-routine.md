@@ -5,7 +5,7 @@ pubDate: "2026-05-18"
 updatedDate: "2026-05-18"
 category: "BuildSelf"
 tags: ["Cara Menji","Routine"]
-heroImage: "/images/blog/king_writing_routine.png"
+heroImage: "/images/blog/king_writing_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Memoar Stephen King 'On Writing' & Penelitian Neurosains tentang Pembelajaran Sensorimotor"

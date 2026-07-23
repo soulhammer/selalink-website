@@ -5,7 +5,7 @@ pubDate: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["Das Zentru","Routine"]
-heroImage: "/images/blog/joan_silent_reflection.png"
+heroImage: "/images/blog/joan_silent_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Prozessakten von Jeanne d'Arc (1431) & Fachzeitschrift Journal of Research in Personality"

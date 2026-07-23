@@ -5,7 +5,7 @@ pubDate: "2026-01-16"
 updatedDate: "2026-01-16"
 category: "BuildSelf"
 tags: ["Mindset Pa","Routine"]
-heroImage: "/images/blog/jordan_breakfast_club.png"
+heroImage: "/images/blog/jordan_breakfast_club.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Buku Pelatih Fisik Tim Grover 'Relentless' & Arsip Resmi NBA"

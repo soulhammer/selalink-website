@@ -5,7 +5,7 @@ pubDate: "2026-03-22"
 updatedDate: "2026-03-22"
 category: "BuildSelf"
 tags: ["Dormir dan","Routine"]
-heroImage: "/images/blog/michelangelo_flow.png"
+heroImage: "/images/blog/michelangelo_flow.webp"
 app: "buildself"
 formatVersion: 4
 authority: "L'ouvrage de Giorgio Vasari 'Vies des meilleurs peintres, sculpteurs et architectes' & théorie de l'épuisement de l'ego"

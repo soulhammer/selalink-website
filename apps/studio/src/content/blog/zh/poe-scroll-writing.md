@@ -5,7 +5,7 @@ pubDate: "2026-01-03"
 updatedDate: "2026-01-03"
 category: "BuildSelf"
 tags: ["将手稿拼接成卷轴的推","Routine"]
-heroImage: "/images/blog/poe_scroll_writing.png"
+heroImage: "/images/blog/poe_scroll_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "迈耶斯《埃德加·爱伦·坡传》与《应用认知心理学(Applied Cognitive Psychology)》研究"

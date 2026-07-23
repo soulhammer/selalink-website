@@ -5,7 +5,7 @@ pubDate: "2026-05-05"
 updatedDate: "2026-05-05"
 category: "BuildSelf"
 tags: ["引き出しの中の腐った","Routine"]
-heroImage: "/images/blog/schiller_rotten_apple.png"
+heroImage: "/images/blog/schiller_rotten_apple.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ヨハン・ペーター・エッカーマン「ゲーテとの対話」および学術研究「Chemical Senses」"

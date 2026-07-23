@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["用手学到的知识永不遗","Routine"]
-heroImage: "/images/blog/peter_early_labor.png"
+heroImage: "/images/blog/peter_early_labor.webp"
 app: "buildself"
 formatVersion: 4
 authority: "彼得大帝传记《Peter the Great: His Life and World》与认知科学程序记忆理论"

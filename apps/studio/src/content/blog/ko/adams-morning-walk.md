@@ -5,7 +5,7 @@ description: "미국 제2대 대통령 존 아담스는 매일 5마일의 빠른
 pubDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/adams_morning_walk.png"
+heroImage: "/images/blog/adams_morning_walk.webp"
 app: "buildself"
 authority: "아담스 평전 'John Adams' 및 신경가소성 의학 학술지 연구 결과"
 updatedDate: "2026-04-06"

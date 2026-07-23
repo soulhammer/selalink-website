@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["极少言语、在静谧中散","Routine"]
-heroImage: "/images/blog/dirac_silent_walking_contemplation.png"
+heroImage: "/images/blog/dirac_silent_walking_contemplation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "格雷厄姆·法梅洛传记《The Strangest Man》与赫尔格·克拉赫著作《Dirac》"

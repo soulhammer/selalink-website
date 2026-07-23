@@ -5,7 +5,7 @@ pubDate: "2026-01-23"
 updatedDate: "2026-01-23"
 category: "BuildSelf"
 tags: ["Alexander ","Routine"]
-heroImage: "/images/blog/alexander_pillow_iliad.png"
+heroImage: "/images/blog/alexander_pillow_iliad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Plutarchs Alexanderbiografie & Arrians Anabasis"

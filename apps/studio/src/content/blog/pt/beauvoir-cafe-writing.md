@@ -5,7 +5,7 @@ pubDate: "2026-06-08"
 updatedDate: "2026-06-08"
 category: "BuildSelf"
 tags: ["A filósofa","Routine"]
-heroImage: "/images/blog/beauvoir_cafe_writing.png"
+heroImage: "/images/blog/beauvoir_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografia The Prime of Life de Simone de Beauvoir & revista Journal of Consumer Research"

@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["时速300公里的冥想","Routine"]
-heroImage: "/images/blog/senna_pre_race_visualization.png"
+heroImage: "/images/blog/senna_pre_race_visualization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "埃尔顿·塞纳生前媒体采访及F1赛车手心理演练、运动想象与辅助运动区（SMA）激活的神经科学研究成果"

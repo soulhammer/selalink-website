@@ -5,7 +5,7 @@ description: "어휘력의 부재로 말과 글을 쓰지 못했던 수감자에
 pubDate: "2026-07-03"
 category: "BuildSelf"
 tags: ["위인 습관", "말콤 X", "필사 학습", "뇌 자극", "집중력"]
-heroImage: "/images/blog/malcolm_dictionary_transcription.png"
+heroImage: "/images/blog/malcolm_dictionary_transcription.webp"
 app: "buildself"
 authority: "말콤 X 자서전 'The Autobiography of Malcolm X' 및 Journal of Cognitive Neuroscience 학술지"
 updatedDate: "2026-07-03"

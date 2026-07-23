@@ -5,7 +5,7 @@ pubDate: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "BuildSelf"
 tags: ["Great Habits","feynman","Routine","Stamina"]
-heroImage: "/images/blog/feynman_explanation_technique.png"
+heroImage: "/images/blog/feynman_explanation_technique.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Richard Feynman's 'Surely You're Joking, Mr. Feynman!' & Educational Psychology Review"

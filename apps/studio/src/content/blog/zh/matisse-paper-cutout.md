@@ -5,7 +5,7 @@ pubDate: "2026-05-17"
 updatedDate: "2026-05-17"
 category: "BuildSelf"
 tags: ["病榻上剪纸的的奇迹？","Routine"]
-heroImage: "/images/blog/matisse_paper_cutout.png"
+heroImage: "/images/blog/matisse_paper_cutout.webp"
 app: "buildself"
 formatVersion: 4
 authority: "泰特现代美术馆《Henri Matisse: The Cut-Outs》档案、传记《Matisse the Master》与学术期刊《Creativity Research Journal》"

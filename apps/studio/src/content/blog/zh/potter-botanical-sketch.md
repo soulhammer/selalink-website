@@ -5,7 +5,7 @@ pubDate: "2026-05-15"
 updatedDate: "2026-05-15"
 category: "BuildSelf"
 tags: ["《彼得兔》作者的秘密","Routine"]
-heroImage: "/images/blog/potter_botanical_sketch.png"
+heroImage: "/images/blog/potter_botanical_sketch.webp"
 app: "buildself"
 formatVersion: 4
 authority: "琳达·里尔传记《Beatrix Potter: A Life in Nature》与V&A博物馆档案馆史料"

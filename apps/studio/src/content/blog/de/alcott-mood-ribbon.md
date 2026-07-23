@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Bitte nich","Routine"]
-heroImage: "/images/blog/alcott_mood_ribbon.png"
+heroImage: "/images/blog/alcott_mood_ribbon.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Alcotts Biografie 'Louisa May Alcott: Her Life, Letters, and Journals' & kognitionspsychologische Forschung"

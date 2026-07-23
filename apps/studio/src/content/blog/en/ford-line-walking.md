@@ -5,7 +5,7 @@ pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
 tags: ["Great Habits","ford","Routine","Stamina"]
-heroImage: "/images/blog/ford_line_walking.png"
+heroImage: "/images/blog/ford_line_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Henry Ford's Autobiography 'My Life and Work' & Neuropsychologia Journal"

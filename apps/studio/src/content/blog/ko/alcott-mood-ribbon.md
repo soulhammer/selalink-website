@@ -5,7 +5,7 @@ description: "'작은 아씨들'의 저자 루이자 메이 올컷의 몰입 신
 pubDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/alcott_mood_ribbon.png"
+heroImage: "/images/blog/alcott_mood_ribbon.webp"
 app: "buildself"
 authority: "올컷의 전기 'Louisa May Alcott: Her Life, Letters, and Journals' 및 인지 심리학 연구"
 updatedDate: "2026-01-01"

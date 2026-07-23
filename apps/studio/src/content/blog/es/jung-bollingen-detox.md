@@ -5,7 +5,7 @@ pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "BuildSelf"
 tags: ["¿Desintoxi","Routine"]
-heroImage: "/images/blog/jung_bollingen_detox.png"
+heroImage: "/images/blog/jung_bollingen_detox.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografía de Carl Jung 'Recuerdos, sueños, pensamientos' y revista Journal of Behavioral Addictions"

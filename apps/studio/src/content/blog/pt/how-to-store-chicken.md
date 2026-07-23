@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración de armazenamen
 pubDate: "2026-04-06"
 category: "FreshSnap"
 tags: ["Frango","Guia de armazenamento comprovado cientificamente","meat"]
-heroImage: "/images/blog/chicken_storage_hack.png"
+heroImage: "/images/blog/chicken_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS & CDC</strong>"

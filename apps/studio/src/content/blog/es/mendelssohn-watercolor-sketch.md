@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["¿Melodías ","Routine"]
-heroImage: "/images/blog/mendelssohn_watercolor_sketch.png"
+heroImage: "/images/blog/mendelssohn_watercolor_sketch.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía 'Mendelssohn: A Life in Music' y artículos de Scientific Reports"

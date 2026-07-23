@@ -4,7 +4,7 @@ title: "Tunnelinstinkt des Goldhamsters und stressfreie 3-Schritt-Tagesroutine"
 description: "Pflege für den solitären und nachtaktiven Goldhamster. Lernen Sie eine 3-Schritt-Routine kennen, die eine ruhige Tagesumgebung, Backentaschen-Sammelinstinkte und Laufrad-Checks abdeckt."
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
-heroImage: "/images/blog/golden_hamster_care.png"
+heroImage: "/images/blog/golden_hamster_care.webp"
 authority: "Goldhamster-Pflegeleitfaden der Humane Society und Veterinär-Verhaltenstandards"
 app: "petself"
 formatVersion: 4

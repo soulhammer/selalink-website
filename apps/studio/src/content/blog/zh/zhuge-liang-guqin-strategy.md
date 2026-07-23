@@ -5,7 +5,7 @@ pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "BuildSelf"
 tags: ["历史顶尖智囊？诸葛亮","Routine"]
-heroImage: "/images/blog/zhuge_liang_guqin_strategy.png"
+heroImage: "/images/blog/zhuge_liang_guqin_strategy.webp"
 app: "buildself"
 formatVersion: 4
 authority: "史书《三国志·蜀书·诸葛亮传》与《戒子书》"

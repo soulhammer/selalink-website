@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["うつ病を治療するハサ","Routine"]
-heroImage: "/images/blog/andersen_paper_cutting.png"
+heroImage: "/images/blog/andersen_paper_cutting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アンデルセン自叙伝（私の生涯の童話）および学術誌「American Journal of Occupational Therapy」"

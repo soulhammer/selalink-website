@@ -5,7 +5,7 @@ pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
 tags: ["Great Habits","stephen","Routine","Stamina"]
-heroImage: "/images/blog/stephen_hawking.png"
+heroImage: "/images/blog/stephen_hawking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Stephen Hawking, *My Brief History* (2013) & Cognitive Neuroscientific Studies"

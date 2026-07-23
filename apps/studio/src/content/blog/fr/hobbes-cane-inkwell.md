@@ -5,7 +5,7 @@ pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
 tags: ["Le philoso","Routine"]
-heroImage: "/images/blog/hobbes_cane_inkwell.png"
+heroImage: "/images/blog/hobbes_cane_inkwell.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Notices biographiques 'Brief Lives' de John Aubrey & théorie cognitive 'Supersizing the Mind'"

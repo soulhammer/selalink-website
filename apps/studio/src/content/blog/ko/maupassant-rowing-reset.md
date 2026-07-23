@@ -5,7 +5,7 @@ pubDate: "2026-06-11"
 updatedDate: "2026-06-11"
 category: "BuildSelf"
 tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/maupassant_rowing_reset.png"
+heroImage: "/images/blog/maupassant_rowing_reset.webp"
 app: "buildself"
 formatVersion: 4
 authority: "전기 'Guy de Maupassant: Étude Scientifique' 및 Journal of Applied Physiology 학술지"

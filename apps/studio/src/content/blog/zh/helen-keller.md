@@ -5,7 +5,7 @@ pubDate: "2026-03-12"
 updatedDate: "2026-03-12"
 category: "BuildSelf"
 tags: ["海伦凯勒的触觉模仿训","Routine"]
-heroImage: "/images/blog/helen_keller.png"
+heroImage: "/images/blog/helen_keller.webp"
 app: "buildself"
 formatVersion: 4
 authority: "海伦·凯勒，*我一生的故事* (1903) 和认知神经科学研究"

@@ -4,7 +4,7 @@ title: "怒れるマルチーズ？関節と目の健康のための3段階プ�
 description: "日本や韓国で大人気のマルチーズ。遺伝的に弱い膝蓋骨脱臼の予防法と、涙やけケアのための3段階デイリールーティンを紹介します。"
 pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
-heroImage: "/images/blog/maltese_care.png"
+heroImage: "/images/blog/maltese_care.webp"
 authority: "アメリカンケネルクラブ(AKC)公式犬種ガイド＆IAABC行動学プロトコル"
 app: "petself"
 formatVersion: 4

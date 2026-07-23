@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Lienzo en ","Routine"]
-heroImage: "/images/blog/warhol_morning_dictation.png"
+heroImage: "/images/blog/warhol_morning_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autenticación de la obra publicada 'The Andy Warhol Diaries' e investigaciones de la Universidad de Illinois sobre la descarga cognitiva analógica"

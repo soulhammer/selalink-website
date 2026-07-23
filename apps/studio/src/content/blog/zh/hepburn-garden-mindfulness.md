@@ -5,7 +5,7 @@ pubDate: "2026-01-14"
 updatedDate: "2026-01-14"
 category: "BuildSelf"
 tags: ["优雅的根基？奥黛丽·","Routine"]
-heroImage: "/images/blog/hepburn_garden_mindfulness.png"
+heroImage: "/images/blog/hepburn_garden_mindfulness.webp"
 app: "buildself"
 formatVersion: 4
 authority: "奥黛丽·赫本历史档案馆与学术期刊《Neuroscience》"

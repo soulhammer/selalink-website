@@ -5,7 +5,7 @@ description: "로마 황제 마르쿠스 아우렐리우스가 일출 직전 일
 pubDate: "2026-05-22"
 category: "BuildSelf"
 tags: ["성찰", "일기", "스토아철학", "고대"]
-heroImage: "/images/blog/marcus_aurelius_morning_journaling.png"
+heroImage: "/images/blog/marcus_aurelius_morning_journaling.webp"
 app: "buildself"
 authority: "마르쿠스 아우렐리우스 《명상록》"
 updatedDate: "2026-05-22"

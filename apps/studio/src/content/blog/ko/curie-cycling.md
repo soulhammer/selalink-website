@@ -5,7 +5,7 @@ description: "여성 최초이자 물리학·화학 분야 노벨상 동시 수�
 pubDate: "2026-02-28"
 category: "BuildSelf"
 tags: ["위인 습관", "마리 퀴리", "자전거", "휴식", "스트레스"]
-heroImage: "/images/blog/curie_cycling.png"
+heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 authority: "이브 퀴리 저 '퀴리 부인' 및 하버드 헬스 퍼블리싱(Harvard Health) 운동 연구"
 ---

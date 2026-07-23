@@ -5,7 +5,7 @@ description: "바쁜 군사 및 행정 임무 속에서도 여러 서기에게 �
 pubDate: "2026-01-14"
 category: "BuildSelf"
 tags: ["위인 습관", "율리우스 카이사르", "시간 관리", "작업 기억", "생산성"]
-heroImage: "/images/blog/julius_caesar_multi_dictation.png"
+heroImage: "/images/blog/julius_caesar_multi_dictation.webp"
 app: "buildself"
 authority: "플루타르코스 영웅전 및 수에토니우스의 황제전"
 updatedDate: "2026-01-14"

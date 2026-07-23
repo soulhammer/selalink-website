@@ -5,7 +5,7 @@ pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
 tags: ["Refleksi M","Routine"]
-heroImage: "/images/blog/seneca_evening_review.png"
+heroImage: "/images/blog/seneca_evening_review.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Seneca, De Ira (On Anger, III.36) / Studi fisiologi dampak merapikan pikiran sebelum tidur terhadap saraf otonom dan parasimpatis"

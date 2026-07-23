@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["庭を歩きながら種を集","Routine"]
-heroImage: "/images/blog/goethe_botany_observation.png"
+heroImage: "/images/blog/goethe_botany_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ゲーテ 著『植物変態論』＆ 環境心理学の注意回復理論(Kaplan, 1995)"

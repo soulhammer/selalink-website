@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["ポジティブな脳内回路","Routine"]
-heroImage: "/images/blog/anchangho_mirror_smile.png"
+heroImage: "/images/blog/anchangho_mirror_smile.webp"
 app: "buildself"
 formatVersion: 4
 authority: "安昌浩の興士団での講論記録および顔面フィードバック仮説（Facial Feedback Hypothesis）に関する生理学研究"

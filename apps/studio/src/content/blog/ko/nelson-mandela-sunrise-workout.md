@@ -5,7 +5,7 @@ description: "27년간의 감옥 수감 생활 속에서도 매일 아침 새벽
 pubDate: "2026-01-13"
 category: "BuildSelf"
 tags: ["위인 습관", "넬슨 만델라", "회복탄력성", "운동 루틴", "새벽 루틴"]
-heroImage: "/images/blog/nelson_mandela_sunrise_workout.png"
+heroImage: "/images/blog/nelson_mandela_sunrise_workout.webp"
 app: "buildself"
 authority: "넬슨 만델라 자서전 '자유를 향한 길고긴 여정'(Long Walk to Freedom)"
 updatedDate: "2026-01-13"

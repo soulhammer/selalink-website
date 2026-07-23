@@ -5,7 +5,7 @@ pubDate: "2026-04-02"
 updatedDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["¿El genio ","Routine"]
-heroImage: "/images/blog/russell_three_hour_focus.png"
+heroImage: "/images/blog/russell_three_hour_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografía de Russell 'The Autobiography of Bertrand Russell' y estudios sobre el trabajo profundo"

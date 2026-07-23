@@ -4,7 +4,7 @@ title: "ヨツユビハリネズミのアンティング習性と低体温防止
 description: "可愛らしい棘を持つヨツユビハリネズミ。自分の体に泡を塗るアンティングの理由と、冬眠を防ぐ24〜26度の温度管理を中心とした3ステップケアを紹介します。"
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
-heroImage: "/images/blog/pygmy_hedgehog_care.png"
+heroImage: "/images/blog/pygmy_hedgehog_care.webp"
 authority: "Hedgehog Welfare Society ガイドラインおよびエキゾチック獣医学プロトコル"
 app: "petself"
 formatVersion: 4

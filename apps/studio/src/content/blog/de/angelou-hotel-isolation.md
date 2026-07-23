@@ -4,7 +4,7 @@ description: "Die berühmte Autorin und Aktivistin Maya Angelou schrieb nur in l
 pubDate: "2026-03-21"
 category: "BuildSelf"
 tags: ["Einen heil","Routine"]
-heroImage: "/images/blog/angelou_hotel_isolation.png"
+heroImage: "/images/blog/angelou_hotel_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Maya Angelous Interview in The Paris Review (1990) & kognitionspsychologische Studie zur Ablenkungskontrolle"

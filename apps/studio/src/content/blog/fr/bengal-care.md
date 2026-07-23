@@ -4,7 +4,7 @@ title: "Guide de dépenses énergétiques du Bengal et routine de 3 étapes pour
 description: "Prendre soin du chat Bengal, actif et intelligent. Décryptez son langage corporel et canalisez son énergie avec une routine de 3 étapes."
 pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
-heroImage: "/images/blog/bengal_care.png"
+heroImage: "/images/blog/bengal_care.webp"
 authority: "Standard de la race Bengal de The International Cat Association (TICA) et Comportementalisme Félin"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["放松引导的创造性流：","Routine"]
-heroImage: "/images/blog/wharton_bedside_writing_relaxation.png"
+heroImage: "/images/blog/wharton_bedside_writing_relaxation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "伊迪丝·华顿自传《A Backward Glance》考证及副交感神经激活对大脑前额叶心理安全性与阿尔法脑波（Alpha waves）创造性思维影响的研究"

@@ -5,7 +5,7 @@ pubDate: "2026-01-12"
 updatedDate: "2026-01-12"
 category: "BuildSelf"
 tags: ["La rutina ","Routine"]
-heroImage: "/images/blog/chekhov.png"
+heroImage: "/images/blog/chekhov.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Donald Rayfield, *Anton Chekhov: Una vida* (1997) y estudios neurocientíficos cognitivos"

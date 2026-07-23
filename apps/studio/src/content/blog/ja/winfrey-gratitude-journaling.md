@@ -5,7 +5,7 @@ pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "BuildSelf"
 tags: ["恵まれない過去を克服","Routine"]
-heroImage: "/images/blog/winfrey_gratitude_journaling.png"
+heroImage: "/images/blog/winfrey_gratitude_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "オプラ自伝エッセイ「What I Know for Sure」および学術誌「Journal of Personality and Social Psychology」"

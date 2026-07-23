@@ -5,7 +5,7 @@ pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "BuildSelf"
 tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/zhuge_liang_guqin_strategy.png"
+heroImage: "/images/blog/zhuge_liang_guqin_strategy.webp"
 app: "buildself"
 formatVersion: 4
 authority: "사서 '삼국지(三國志) 촉서 제갈량전' 및 제갈량 친필 '계자서(戒子書)'"

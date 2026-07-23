@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["一日の終わり、完全な","Routine"]
-heroImage: "/images/blog/matsushita_bath_reflection.png"
+heroImage: "/images/blog/matsushita_bath_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "松下幸之助の著書『道をひらく』の記録、および温水入浴による副交感神経活性化とデフォルト・モード・ネットワーク（DMN）に関する脳神経科学研究"

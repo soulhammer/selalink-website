@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Pengetahua","Routine"]
-heroImage: "/images/blog/peter_early_labor.png"
+heroImage: "/images/blog/peter_early_labor.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Peter Agung 'Peter the Great: His Life and World' & Teori Memori Prosedural Kognitif"

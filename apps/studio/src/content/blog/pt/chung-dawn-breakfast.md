@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["A emoção d","Routine"]
-heroImage: "/images/blog/chung_dawn_breakfast.png"
+heroImage: "/images/blog/chung_dawn_breakfast.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografia do presidente Chung e pesquisa da Harvard Medical School sobre sono e ritmo circadiano"

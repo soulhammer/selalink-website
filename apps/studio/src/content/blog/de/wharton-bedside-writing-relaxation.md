@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Kreativer ","Routine"]
-heroImage: "/images/blog/wharton_bedside_writing_relaxation.png"
+heroImage: "/images/blog/wharton_bedside_writing_relaxation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Edith Whartons Autobiografie „A Backward Glance“ und neurophysiologische Forschung zur parasympathischen Aktivierung, Alpha-Hirnwellen und kreativen Schreibleistung"

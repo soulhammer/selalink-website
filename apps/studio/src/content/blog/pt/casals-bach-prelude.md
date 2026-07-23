@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Afinar a a","Routine"]
-heroImage: "/images/blog/casals_bach_prelude.png"
+heroImage: "/images/blog/casals_bach_prelude.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografia de Pablo Casals 'Alegrias e Tristezas' e pesquisa neuroestética sobre indução de ondas alfa pré-frontais através da música"

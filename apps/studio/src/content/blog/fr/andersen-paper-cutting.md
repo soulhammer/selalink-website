@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Des ciseau","Routine"]
-heroImage: "/images/blog/andersen_paper_cutting.png"
+heroImage: "/images/blog/andersen_paper_cutting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiographie d'Andersen & revue American Journal of Occupational Therapy"

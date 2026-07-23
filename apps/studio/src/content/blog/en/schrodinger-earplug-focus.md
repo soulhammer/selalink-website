@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Great Habits","schrodinger","Routine","Stamina"]
-heroImage: "/images/blog/schrodinger_earplug_focus.png"
+heroImage: "/images/blog/schrodinger_earplug_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Schrödinger's biography 'Schrödinger: Life and Thought' & Reticular Activating System (RAS) research"

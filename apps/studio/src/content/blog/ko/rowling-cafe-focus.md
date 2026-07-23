@@ -5,7 +5,7 @@ description: "해리 포터의 작가 J.K. 롤링. 고요함 대신 카페의 �
 pubDate: "2026-03-03"
 category: "BuildSelf"
 tags: ["위인 습관", "J.K. 롤링", "창의성", "백색소음", "집중"]
-heroImage: "/images/blog/rowling_cafe_focus.png"
+heroImage: "/images/blog/rowling_cafe_focus.webp"
 app: "buildself"
 authority: "J.K. 롤링 전기 'J.K. Rowling: A Biography' 및 Journal of Consumer Research 백색소음 연구"
 updatedDate: "2026-03-03"

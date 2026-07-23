@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Mengelola ","Routine"]
-heroImage: "/images/blog/zuckerberg_uniform_minimization.png"
+heroImage: "/images/blog/zuckerberg_uniform_minimization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Wawancara Tanya Jawab Townhall Mark Zuckerberg dan Teori Penipisan Ego dari Roy Baumeister"

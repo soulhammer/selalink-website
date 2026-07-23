@@ -4,7 +4,7 @@ title: "네덜란드 드워프 토끼의 덤핑 경고와 소화계 보호 3단�
 description: "세상에서 가장 작은 토끼 품종인 네덜란드 드워프 토끼. 불안함을 뜻하는 뒷발 덤핑 대처법과 초식동물 고유의 섬유질 소화계를 돕는 3단계 건초 케어 루틴을 다룹니다."
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
-heroImage: "/images/blog/dwarf_rabbit_care.png"
+heroImage: "/images/blog/dwarf_rabbit_care.webp"
 authority: "House Rabbit Society 토끼 메디컬 가이드 및 소동물 수의학 행동 매뉴얼"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["Der Dialog","Routine"]
-heroImage: "/images/blog/bohr_dialogue_dictation.png"
+heroImage: "/images/blog/bohr_dialogue_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Belege aus Ruth Moores Biografie 'Niels Bohr' und Lew Wygotskis Forschung zur externen Sprache und kognitiven Metakognition"

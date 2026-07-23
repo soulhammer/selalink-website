@@ -5,7 +5,7 @@ pubDate: "2026-03-03"
 updatedDate: "2026-03-03"
 category: "BuildSelf"
 tags: ["Penulis ya","Routine"]
-heroImage: "/images/blog/rowling_cafe_focus.png"
+heroImage: "/images/blog/rowling_cafe_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi J.K. Rowling 'J.K. Rowling: A Biography' & Studi Kebisingan Latar Jurnal Journal of Consumer Research"

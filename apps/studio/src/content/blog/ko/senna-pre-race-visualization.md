@@ -5,7 +5,7 @@ description: "레이스가 시작하기 전 머릿속으로 완벽한 주행 궤
 pubDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["집중", "몰입", "성공습관"]
-heroImage: "/images/blog/senna_pre_race_visualization.png"
+heroImage: "/images/blog/senna_pre_race_visualization.webp"
 app: "buildself"
 authority: "크리스토퍼 힐튼 저 『아일톤 세나: 그의 진실한 이야기(Ayrton Senna: The Whole Story)』 전기적 사실 고증 및 스포츠 신경과학에서의 행동 시각화(Mental Imagery) 임상 인지 기능 연구 결과"
 updatedDate: "2026-05-14"

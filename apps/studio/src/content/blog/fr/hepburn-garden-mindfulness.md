@@ -5,7 +5,7 @@ pubDate: "2026-01-14"
 updatedDate: "2026-01-14"
 category: "BuildSelf"
 tags: ["La base de","Routine"]
-heroImage: "/images/blog/hepburn_garden_mindfulness.png"
+heroImage: "/images/blog/hepburn_garden_mindfulness.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Archives historiques d'Audrey Hepburn & revue Neuroscience"

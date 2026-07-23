@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["亚马逊会议室的沉静三","Routine"]
-heroImage: "/images/blog/bezos_six_page_memo.png"
+heroImage: "/images/blog/bezos_six_page_memo.webp"
 app: "buildself"
 formatVersion: 4
 authority: "亚马逊股东信及《哈佛商业评论》(HBR)关于决策的研究"

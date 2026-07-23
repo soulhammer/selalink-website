@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["重要なことに集中する","Routine"]
-heroImage: "/images/blog/eisenhower_matrix_decision.png"
+heroImage: "/images/blog/eisenhower_matrix_decision.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アイゼンハワー大統領演説録（1954年世界教会協議会演説）の史料考証、および認知科学における意思決定疲労（Decision Fatigue）と前頭葉資源配分に関する研究結果"

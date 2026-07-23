@@ -5,7 +5,7 @@ pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["Intellektu","Routine"]
-heroImage: "/images/blog/epicurus_garden_conversation.png"
+heroImage: "/images/blog/epicurus_garden_conversation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Diogenes Laertios' 'Leben und Meinungen berühmter Philosophen' und neuropsychiatrische Forschung zu psychologischer Sicherheit, sozialer Verbindung und Stressabbau"

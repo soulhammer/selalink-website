@@ -5,7 +5,7 @@ pubDate: "2026-01-12"
 updatedDate: "2026-01-12"
 category: "BuildSelf"
 tags: ["위인 습관", "안톤 체호프", "기록", "메모"]
-heroImage: "/images/blog/chekhov.png"
+heroImage: "/images/blog/chekhov.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Donald Rayfield, *Anton Chekhov: A Life* (1997)"

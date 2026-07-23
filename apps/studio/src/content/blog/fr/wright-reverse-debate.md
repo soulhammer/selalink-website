@@ -5,7 +5,7 @@ pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
 category: "BuildSelf"
 tags: ["Des invent","Routine"]
-heroImage: "/images/blog/wright_reverse_debate.png"
+heroImage: "/images/blog/wright_reverse_debate.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie des frères Wright 'The Wright Brothers' & études de Cognitive Therapy and Research"

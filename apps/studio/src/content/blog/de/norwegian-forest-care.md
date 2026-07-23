@@ -4,7 +4,7 @@ title: "Kletterbeschäftigung und Pflege des wasserabweisenden Fells der Norwegi
 description: "Erfüllen Sie den Klettertrieb der Norwegischen Waldkatze und pflegen Sie ihr Dreifachfell."
 pubDate: "2026-04-08"
 updatedDate: "2026-04-08"
-heroImage: "/images/blog/norwegian_forest_care.png"
+heroImage: "/images/blog/norwegian_forest_care.webp"
 authority: "Richtlinien der International Cat Association (TICA) und Katzenverhaltensforschung"
 app: "petself"
 formatVersion: 4

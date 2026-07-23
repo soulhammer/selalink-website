@@ -5,7 +5,7 @@ pubDate: "2026-03-20"
 updatedDate: "2026-03-20"
 category: "BuildSelf"
 tags: ["A rotina d","Routine"]
-heroImage: "/images/blog/nightingale.png"
+heroImage: "/images/blog/nightingale.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Florence Nightingale, *Notas sobre Enfermagem* (1859) e Estudos Neurocientíficos Cognitivos"

@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["克复匮乏的极度专注：","Routine"]
-heroImage: "/images/blog/leejungseob_tin_foil_drawing.png"
+heroImage: "/images/blog/leejungseob_tin_foil_drawing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "纽约现代艺术博物馆（MoMA）收藏的李仲燮银纸画历史史实，与关于触觉-视觉联合刺激促进情绪放松的研究"

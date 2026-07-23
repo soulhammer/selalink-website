@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["極限の静寂の中で傑作","Routine"]
-heroImage: "/images/blog/kafka_late_night_writing.png"
+heroImage: "/images/blog/kafka_late_night_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "フランツ・カフカ書簡集「Letters to Felice」および学術誌「Frontiers in Psychology」"

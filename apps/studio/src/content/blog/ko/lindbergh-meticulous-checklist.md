@@ -5,7 +5,7 @@ description: "대서양 단독 비행 횡단에 성공한 항공 영웅 찰스 �
 pubDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/lindbergh_meticulous_checklist.png"
+heroImage: "/images/blog/lindbergh_meticulous_checklist.webp"
 app: "buildself"
 authority: "린드버그 비행 기록서 'The Spirit of St. Louis' 및 휴먼 팩터즈 저널 연구 논문"
 updatedDate: "2026-04-25"

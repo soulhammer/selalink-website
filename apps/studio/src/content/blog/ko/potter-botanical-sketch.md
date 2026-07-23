@@ -5,7 +5,7 @@ pubDate: "2026-05-15"
 updatedDate: "2026-05-15"
 category: "BuildSelf"
 tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/potter_botanical_sketch.png"
+heroImage: "/images/blog/potter_botanical_sketch.webp"
 app: "buildself"
 formatVersion: 4
 authority: "린다 리 전기 'Beatrix Potter: A Life in Nature' 및 빅토리아 알버트 박물관 사료"

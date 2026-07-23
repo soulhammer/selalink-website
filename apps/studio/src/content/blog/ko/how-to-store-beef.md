@@ -5,7 +5,7 @@ description: "공인된 안전 가이드라인에 따른 소고기의 최적 보
 pubDate: "2026-03-28"
 category: "FreshSnap"
 tags: ["소고기","과학적으로 검증된 보관 가이드","meat"]
-heroImage: "/images/blog/beef_storage_hack.png"
+heroImage: "/images/blog/beef_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"

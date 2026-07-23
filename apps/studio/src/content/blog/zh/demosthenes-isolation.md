@@ -4,7 +4,7 @@ description: "德摩斯梯尼克服了先天的身体缺陷，成为古希腊最
 pubDate: "2026-01-28"
 category: "BuildSelf"
 tags: ["剃掉半边头发的演说家","Routine"]
-heroImage: "/images/blog/demosthenes_isolation.png"
+heroImage: "/images/blog/demosthenes_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "普鲁塔克《希腊罗马名人传》之《德摩斯梯尼传》及美国心理学会（APA）环境控制研究"

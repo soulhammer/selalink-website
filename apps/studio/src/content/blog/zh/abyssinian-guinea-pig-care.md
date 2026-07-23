@@ -4,7 +4,7 @@ title: "阿比西尼亚兔眼天竺鼠维生素C补充指南与呼吸道保护3�
 description: "针对拥有旋转毛旋的阿比西尼亚天竺鼠（豚鼠）护理。学习如何补充必不可少的维生素C，以及预防呼吸道感染的3阶段日常环境管理。"
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
-heroImage: "/images/blog/abyssinian_guinea_pig_care.png"
+heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
 authority: "英国皇家防止虐待动物协会 (RSPCA) 啮齿类动物护理指南与非传统宠物兽医标准"
 app: "petself"
 formatVersion: 4

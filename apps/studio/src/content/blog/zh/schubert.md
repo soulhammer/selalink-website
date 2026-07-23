@@ -5,7 +5,7 @@ pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "BuildSelf"
 tags: ["舒伯特起床后立即戴上","Routine"]
-heroImage: "/images/blog/schubert.png"
+heroImage: "/images/blog/schubert.webp"
 app: "buildself"
 formatVersion: 4
 authority: "奥托·埃里希·多伊奇（Otto Erich Deutsch），*舒伯特：一部纪录片传记*（1946）和认知神经科学研究"

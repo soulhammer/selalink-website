@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["凌晨4点的卡叶：保罗","Routine"]
-heroImage: "/images/blog/valery_dawn_notebook.png"
+heroImage: "/images/blog/valery_dawn_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "保罗·瓦勒里原著文献《Cahiers》手稿考证及时间生物学(Chronobiology)清晨时段皮质醇与前额叶觉醒功能研究"

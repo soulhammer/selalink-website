@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["心の目で描いた迷宮？","Routine"]
-heroImage: "/images/blog/borges_mental_dictation.png"
+heroImage: "/images/blog/borges_mental_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ボルヘス伝記「Borges: A Life」および交差可塑性脳医学研究の結果"

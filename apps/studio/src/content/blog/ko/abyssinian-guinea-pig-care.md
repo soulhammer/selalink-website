@@ -4,7 +4,7 @@ title: "아비시니안 기니피그 비타민 C 가이드와 호흡기 보호 3
 description: "가마가 있는 회오리 털이 특징인 아비시니안 기니피그 케어법. 필수적인 비타민 C 공급법과 예민한 호기성 호흡기 질환을 예방하는 3단계 루틴을 다룹니다."
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
-heroImage: "/images/blog/abyssinian_guinea_pig_care.png"
+heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
 authority: "영국 왕립동물학대방지협회(RSPCA) 설치류 관리 가이드라인 및 소동물 수의학 임상 표준"
 app: "petself"
 formatVersion: 4

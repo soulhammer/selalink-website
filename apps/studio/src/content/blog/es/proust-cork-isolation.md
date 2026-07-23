@@ -5,7 +5,7 @@ pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
 tags: ["¿Una habit","Routine"]
-heroImage: "/images/blog/proust_cork_isolation.png"
+heroImage: "/images/blog/proust_cork_isolation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Exhibición de restauración del dormitorio de Proust en el Museo Carnavalet y Journal of Cognitive Neuroscience"

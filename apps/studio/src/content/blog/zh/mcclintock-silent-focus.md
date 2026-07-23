@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["迈向基因的沉默？巴巴","Routine"]
-heroImage: "/images/blog/mcclintock_silent_focus.png"
+heroImage: "/images/blog/mcclintock_silent_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "麦克林托克传记《A Feeling for the Organism》与认知注意力研究成果"

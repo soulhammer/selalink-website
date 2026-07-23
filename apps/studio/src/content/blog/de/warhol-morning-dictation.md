@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Leeren der","Routine"]
-heroImage: "/images/blog/warhol_morning_dictation.png"
+heroImage: "/images/blog/warhol_morning_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Belege aus dem postum veröffentlichten 'The Andy Warhol Diaries' und Forschung der Universität Illinois zum kognitiven Entlasten"

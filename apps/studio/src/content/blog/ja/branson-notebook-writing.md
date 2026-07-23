@@ -5,7 +5,7 @@ pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
 category: "BuildSelf"
 tags: ["ジーンズの後ろポケッ","Routine"]
-heroImage: "/images/blog/branson_notebook_writing.png"
+heroImage: "/images/blog/branson_notebook_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "リチャード・ブランソン自叙伝「Losing My Virginity」およびヴァージン・グループアーカイブ"

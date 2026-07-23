@@ -5,7 +5,7 @@ pubDate: "2026-05-20"
 updatedDate: "2026-05-20"
 category: "BuildSelf"
 tags: ["ベッドの外は危険？横","Routine"]
-heroImage: "/images/blog/twain_lying_writing.png"
+heroImage: "/images/blog/twain_lying_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "マーク・トウェイン自伝「Autobiography of Mark Twain」および学術誌「Journal of Neurophysiology」"

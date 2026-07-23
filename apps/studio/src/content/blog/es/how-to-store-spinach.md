@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración para conservar
 pubDate: "2026-02-18"
 category: "FreshSnap"
 tags: ["Espinaca","Guía de almacenamiento científicamente probada","vegetable"]
-heroImage: "/images/blog/spinach_storage_hack.png"
+heroImage: "/images/blog/spinach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"

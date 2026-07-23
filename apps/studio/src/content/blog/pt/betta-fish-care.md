@@ -4,7 +4,7 @@ title: "Sinais de Flaring do Peixe Betta e Rotina em 3 Passos Para Nadadeiras Sa
 description: "Guia completo de cuidados para o Peixe Betta. Entenda o comportamento de abertura de nadadeiras, respiração por labirinto e rotina WSAVA."
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
-heroImage: "/images/blog/betta_fish_care.png"
+heroImage: "/images/blog/betta_fish_care.webp"
 authority: "Associação Mundial de Veterinários de Pequenos Animais (WSAVA)"
 app: "petself"
 formatVersion: 4

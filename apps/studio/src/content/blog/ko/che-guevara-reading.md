@@ -5,7 +5,7 @@ description: "쿠바 혁명의 영웅 체 게바라. 전쟁터의 고립된 상�
 pubDate: "2026-02-09"
 category: "BuildSelf"
 tags: ["위인 습관", "체게바라", "매일독서", "인지재구조화", "신념단련"]
-heroImage: "/images/blog/che_guevara_reading.png"
+heroImage: "/images/blog/che_guevara_reading.webp"
 app: "buildself"
 authority: "체 게바라의 볼리비아 일기(Bolivian Diary) 및 Brain and Language 학술지"
 updatedDate: "2026-02-09"

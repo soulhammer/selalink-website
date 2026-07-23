@@ -6,7 +6,7 @@ pubDate: "2026-04-24"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["위인 습관", "윈스턴 처칠", "낮잠", "휴식", "에너지"]
-heroImage: "/images/blog/churchill_afternoon_nap.png"
+heroImage: "/images/blog/churchill_afternoon_nap.webp"
 app: "buildself"
 authority: "윈스턴 처칠 저 '제2차 세계대전 회고록' 및 NASA 우주비행사 파워냅 주의력 연구"
 ---

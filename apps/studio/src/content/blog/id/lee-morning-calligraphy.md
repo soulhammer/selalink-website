@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Filosofi M","Routine"]
-heroImage: "/images/blog/lee_morning_calligraphy.png"
+heroImage: "/images/blog/lee_morning_calligraphy.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Arsip Kaligrafi Asli Pendiri Lee dan Penelitian Neuroscience Letters tentang Kontrol Motorik Halus & Stabilitas Emosional"

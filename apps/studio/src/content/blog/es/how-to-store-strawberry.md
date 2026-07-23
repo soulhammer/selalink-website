@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración para conservar
 pubDate: "2026-06-25"
 category: "FreshSnap"
 tags: ["Fresa","Guía de almacenamiento científicamente probada","fruit"]
-heroImage: "/images/blog/strawberry_storage_hack.png"
+heroImage: "/images/blog/strawberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"

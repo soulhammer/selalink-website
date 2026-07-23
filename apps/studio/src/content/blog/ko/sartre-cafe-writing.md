@@ -5,7 +5,7 @@ description: "프랑스의 실존주의 철학자 장 폴 사르트르는 소란
 pubDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/sartre_cafe_writing.png"
+heroImage: "/images/blog/sartre_cafe_writing.webp"
 app: "buildself"
 authority: "사르트르 평전 'Sartre: A Life' 및 작업 환경 심리학 학술지 연구 결과"
 updatedDate: "2026-06-02"

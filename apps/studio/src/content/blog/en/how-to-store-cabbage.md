@@ -5,7 +5,7 @@ description: "Learn the best storage temperature, methods, and duration for Cabb
 pubDate: "2026-04-20"
 category: "FreshSnap"
 tags: ["Cabbage","Scientifically Proven Storage Guide","vegetable"]
-heroImage: "/images/blog/cabbage_storage_hack.png"
+heroImage: "/images/blog/cabbage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"

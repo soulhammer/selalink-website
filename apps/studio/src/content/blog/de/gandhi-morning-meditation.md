@@ -5,7 +5,7 @@ pubDate: "2026-03-23"
 updatedDate: "2026-03-23"
 category: "BuildSelf"
 tags: ["Mahatma Ga","Routine"]
-heroImage: "/images/blog/gandhi_morning_meditation.png"
+heroImage: "/images/blog/gandhi_morning_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Mahatma Gandhis Autobiografie 'My Experiments with Truth' & Fachzeitschrift American Journal of Health Promotion"

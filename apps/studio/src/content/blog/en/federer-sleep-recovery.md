@@ -5,7 +5,7 @@ pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
 tags: ["Great Habits","federer","Routine","Stamina"]
-heroImage: "/images/blog/federer_sleep_recovery.png"
+heroImage: "/images/blog/federer_sleep_recovery.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Christopher Clarey's Biography 'The Master' & Nature Neuroscience Sleep Research"

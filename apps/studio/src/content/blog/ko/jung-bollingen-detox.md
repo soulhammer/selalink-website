@@ -5,7 +5,7 @@ description: "분석심리학의 개척자 칼 융. 소음과 전기마저 차�
 pubDate: "2026-01-21"
 category: "BuildSelf"
 tags: ["위인 습관", "칼 융", "휴식", "사색", "디지털디톡스"]
-heroImage: "/images/blog/jung_bollingen_detox.png"
+heroImage: "/images/blog/jung_bollingen_detox.webp"
 app: "buildself"
 authority: "칼 융 자서전 '기억, 꿈, 사상' 및 Journal of Behavioral Addictions 학술지"
 updatedDate: "2026-01-21"

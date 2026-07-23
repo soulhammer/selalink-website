@@ -5,7 +5,7 @@ pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
 tags: ["Konzentrat","Routine"]
-heroImage: "/images/blog/hugo_hair_shaving.png"
+heroImage: "/images/blog/hugo_hair_shaving.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografische Aufzeichnungen zu Victor Hugo & kognitionspsychologische Forschung zu Commitment-Devices und Umgebungsgrenzen"

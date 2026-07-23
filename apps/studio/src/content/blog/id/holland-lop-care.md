@@ -4,7 +4,7 @@ title: "Perawatan Telinga Holland Lop dan Rutinitas 3 Langkah Tarian Binky yang 
 description: "Panduan lengkap merawat Kelinci Holland Lop. Cegah infeksi telinga (otitis), pahami lompatan bahagia 'Binky', dan sediakan rumput Timothy 24/7 sesuai standar HRS."
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
-heroImage: "/images/blog/holland_lop_care.png"
+heroImage: "/images/blog/holland_lop_care.webp"
 authority: "House Rabbit Society (HRS) & Standar Dokter Hewan AEMV"
 app: "petself"
 formatVersion: 4

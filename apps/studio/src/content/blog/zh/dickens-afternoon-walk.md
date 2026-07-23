@@ -5,7 +5,7 @@ pubDate: "2026-05-23"
 updatedDate: "2026-05-23"
 category: "BuildSelf"
 tags: ["每天下午快步走3小时","Routine"]
-heroImage: "/images/blog/dickens_afternoon_walk.png"
+heroImage: "/images/blog/dickens_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "约翰·福斯特著《查尔斯·狄更斯传》及人类脑科学前沿期刊(Frontiers in Human Neuroscience)"

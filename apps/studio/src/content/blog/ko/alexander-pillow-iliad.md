@@ -5,7 +5,7 @@ description: "매일 밤 단검과 일리아스를 베개 밑에 두고 읽으�
 pubDate: "2026-01-23"
 category: "BuildSelf"
 tags: ["위인 습관", "알렉산드로스", "동기부여", "독서 습관", "잠재의식"]
-heroImage: "/images/blog/alexander_pillow_iliad.png"
+heroImage: "/images/blog/alexander_pillow_iliad.webp"
 app: "buildself"
 authority: "플루타르코스 영웅전 및 아리아노스의 알렉산드로스 동방원정기"
 updatedDate: "2026-01-23"

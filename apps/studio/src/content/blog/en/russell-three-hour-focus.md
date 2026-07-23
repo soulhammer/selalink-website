@@ -5,7 +5,7 @@ pubDate: "2026-04-02"
 updatedDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["Great Habits","russell","Routine","Stamina"]
-heroImage: "/images/blog/russell_three_hour_focus.png"
+heroImage: "/images/blog/russell_three_hour_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Russell's Autobiography 'The Autobiography of Bertrand Russell' & Cognitive Science Studies on Deep Work"

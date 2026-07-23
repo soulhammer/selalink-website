@@ -4,7 +4,7 @@ title: "Sinais de pancadas de patas do coelho anão de Holanda e rotina de 3 pas
 description: "Cuidado da raça de coelho mais pequena, o anão de Holanda. Aprenda a responder às pancadas de aviso com as patas e apoie o seu sensível sistema digestivo com uma rotina de 3 passos de feno alto em fibra."
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
-heroImage: "/images/blog/dwarf_rabbit_care.png"
+heroImage: "/images/blog/dwarf_rabbit_care.webp"
 authority: "Diretrizes Médicas da House Rabbit Society e Padrões Veterinários de Pequenos Animais"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "BuildSelf"
 tags: ["El método ","Routine"]
-heroImage: "/images/blog/hesse.png"
+heroImage: "/images/blog/hesse.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Hermann Hesse, *Libro ilustrado del jardinero (La alegría de la jardinería)* (1957) y Estudios neurocientíficos cognitivos"

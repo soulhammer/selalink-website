@@ -4,7 +4,7 @@ description: "Benjamin Franklin, inventeur du paratonnerre et figure de la fonda
 pubDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["30 minutes","Routine"]
-heroImage: "/images/blog/franklin_air_bath.png"
+heroImage: "/images/blog/franklin_air_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "L'Autobiographie de Benjamin Franklin & New England Journal of Medicine (NEJM)"

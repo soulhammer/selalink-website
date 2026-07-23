@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["Great Habits","rockefeller","Routine","Stamina"]
-heroImage: "/images/blog/rockefeller_red_notebook.png"
+heroImage: "/images/blog/rockefeller_red_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "John D. Rockefeller's Biography 'Titan' & Behavioral and Brain Sciences"

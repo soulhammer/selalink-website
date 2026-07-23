@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["凌晨4点的奇迹：科比","Routine"]
-heroImage: "/images/blog/bryant_four_am_workout.png"
+heroImage: "/images/blog/bryant_four_am_workout.webp"
 app: "buildself"
 formatVersion: 4
 authority: "科比·布莱恩特自传《The Mamba Mentality》考证及时间生物学(Chronobiology)昼夜身体代谢研究"

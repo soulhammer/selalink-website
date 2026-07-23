@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Plantar ba","Routine"]
-heroImage: "/images/blog/nehru_headstand_yoga.png"
+heroImage: "/images/blog/nehru_headstand_yoga.webp"
 app: "buildself"
 formatVersion: 4
 authority: "A autobiografia de Nehru & revista Journal of Alternative and Complementary Medicine"

@@ -4,7 +4,7 @@ title: "Aktivitas Memanjat dan Perawatan Bulu Triple Coat Kucing Hutan Norwegia"
 description: "Penuhi insting memanjat kucing Hutan Norwegia and kelola bulu triple coat mereka yang lebat."
 pubDate: "2026-04-08"
 updatedDate: "2026-04-08"
-heroImage: "/images/blog/norwegian_forest_care.png"
+heroImage: "/images/blog/norwegian_forest_care.webp"
 authority: "Panduan TICA & Ilmu Perilaku Kucing Internasional"
 app: "petself"
 formatVersion: 4

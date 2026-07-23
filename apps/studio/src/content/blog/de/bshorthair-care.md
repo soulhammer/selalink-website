@@ -4,7 +4,7 @@ title: "British Shorthair Gewichtspflege: 3-Schritte-Routine zur HCM- und Adipos
 description: "British Shorthairs sind für ihren stämmigen Körperbau beliebt. Entdecken Sie eine 3-Schritte-Routine zur Vorbeugung von Übergewicht und genetischer HCM."
 pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
-heroImage: "/images/blog/bshorthair_care.png"
+heroImage: "/images/blog/bshorthair_care.webp"
 authority: "GCCF-British-Shorthair-Standards und AAFP-Adipositasrichtlinien"
 app: "petself"
 formatVersion: 4

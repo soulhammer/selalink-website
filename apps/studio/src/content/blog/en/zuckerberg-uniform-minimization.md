@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Great Habits","zuckerberg","Routine","Stamina"]
-heroImage: "/images/blog/zuckerberg_uniform_minimization.png"
+heroImage: "/images/blog/zuckerberg_uniform_minimization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Mark Zuckerberg's Townhall QA transcript and Roy Baumeister's Cognitive Psychology research on Ego Depletion"

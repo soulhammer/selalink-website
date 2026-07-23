@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Torre de o","Routine"]
-heroImage: "/images/blog/copernicus_observatory_tower.png"
+heroImage: "/images/blog/copernicus_observatory_tower.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Prefácio histórico de 'De revolutionibus' e pesquisa da Universidade de Yale sobre neurologia da cognição espacial (Spatial Cognition)"

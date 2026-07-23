@@ -4,7 +4,7 @@ title: "Comunicação da Crista da Calopsita e Rotina em 3 Passos Contra Sustos 
 description: "Guia completo de cuidados para Calopsita. Entenda a linguagem da crista, previna o pânico noturno e siga uma rotina recomendada pela AAV."
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
-heroImage: "/images/blog/cockatiel_care.png"
+heroImage: "/images/blog/cockatiel_care.webp"
 authority: "Associação de Veterinários de Aves (AAV) & Padrões Comportamentais"
 app: "petself"
 formatVersion: 4

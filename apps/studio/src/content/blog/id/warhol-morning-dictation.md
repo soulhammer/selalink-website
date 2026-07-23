@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Mengosongk","Routine"]
-heroImage: "/images/blog/warhol_morning_dictation.png"
+heroImage: "/images/blog/warhol_morning_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Buku Harian Publikasi 'The Andy Warhol Diaries' dan Penelitian Universitas Illinois tentang Pelepasan Beban Kognitif"

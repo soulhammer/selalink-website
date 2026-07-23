@@ -4,7 +4,7 @@ title: "Melindungi Sendi dan Saluran Napas Pomeranian: Rutinitas 3 Langkah"
 description: "Pomeranian rentan terhadap luksasi patela dan kolaps trakea. Temukan tips mencegah cedera sendi dan meredakan masalah pernapasan dengan rutinitas 3 langkah."
 pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
-heroImage: "/images/blog/pomeranian_care.png"
+heroImage: "/images/blog/pomeranian_care.webp"
 authority: "Panduan Ras Resmi American Pomeranian Club & Panduan Dokter Hewan AVMA"
 app: "petself"
 formatVersion: 4

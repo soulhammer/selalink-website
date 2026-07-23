@@ -5,7 +5,7 @@ pubDate: "2026-06-16"
 updatedDate: "2026-06-16"
 category: "BuildSelf"
 tags: ["위인 습관", "레이 브래드버리", "아이디어", "창의성"]
-heroImage: "/images/blog/bradbury.png"
+heroImage: "/images/blog/bradbury.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Ray Bradbury, *Zen in the Art of Writing* (1990)"

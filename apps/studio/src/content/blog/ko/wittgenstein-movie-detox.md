@@ -5,7 +5,7 @@ description: "분석철학의 한계에 도전하며 과열된 뇌를 리셋하�
 pubDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["위인 습관", "루트비히 비트겐슈타인", "이완", "휴식", "사색", "스트레스 해소"]
-heroImage: "/images/blog/wittgenstein_movie_detox.png"
+heroImage: "/images/blog/wittgenstein_movie_detox.webp"
 app: "buildself"
 authority: "레이 몽크 저 비트겐슈타인 평전 『루트비히 비트겐슈타인: 천재의 의무』 및 인지심리학의 주의 분산 및 문제 해결 부화 효과(Incubation Effect) 연구"
 updatedDate: "2026-03-14"

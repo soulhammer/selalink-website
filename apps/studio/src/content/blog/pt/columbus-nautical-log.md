@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["O capitão ","Routine"]
-heroImage: "/images/blog/columbus_nautical_log.png"
+heroImage: "/images/blog/columbus_nautical_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Diário de Navegação de 1492 'The Journal of Christopher Columbus' e Biografias"

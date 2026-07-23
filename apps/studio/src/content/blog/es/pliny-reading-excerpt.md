@@ -5,7 +5,7 @@ pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
 tags: ["La toma de","Routine"]
-heroImage: "/images/blog/pliny_reading_excerpt.png"
+heroImage: "/images/blog/pliny_reading_excerpt.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Plinio el Joven, Cartas (Epistulae III.5) / Investigación sobre el Sistema de Activación Reticular (SAR) y la escritura"

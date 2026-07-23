@@ -5,7 +5,7 @@ description: "르네상스 최고의 거장 미켈란젤로 부오나로티. 시
 pubDate: "2026-03-22"
 category: "BuildSelf"
 tags: ["위인 습관", "미켈란젤로", "몰입", "의사결정 피로", "생산성"]
-heroImage: "/images/blog/michelangelo_flow.png"
+heroImage: "/images/blog/michelangelo_flow.webp"
 app: "buildself"
 authority: "조르조 바사리 저서 '미술가 평전(Lives of the Artists)' 및 인지 심리학의 자아 고갈(Ego Depletion) 이론"
 updatedDate: "2026-03-22"

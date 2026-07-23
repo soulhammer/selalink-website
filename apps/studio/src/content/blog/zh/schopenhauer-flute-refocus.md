@@ -5,7 +5,7 @@ pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "BuildSelf"
 tags: ["毒舌哲学家每天早晨吹","Routine"]
-heroImage: "/images/blog/schopenhauer_flute_refocus.png"
+heroImage: "/images/blog/schopenhauer_flute_refocus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "叔本华传记《Arthur Schopenhauer: His Life》与学术期刊《Psychophysiology》"

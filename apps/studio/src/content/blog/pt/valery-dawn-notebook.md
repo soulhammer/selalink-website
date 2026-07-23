@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Cahiers às","Routine"]
-heroImage: "/images/blog/valery_dawn_notebook.png"
+heroImage: "/images/blog/valery_dawn_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autenticação dos cadernos autógrafos 'Cahiers' de Paul Valéry e pesquisa sobre o cortisol ao amanhecer e ativação pré-frontal"

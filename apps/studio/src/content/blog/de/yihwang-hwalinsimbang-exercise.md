@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Morgendlic","Routine"]
-heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.png"
+heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Belege aus Yi Hwangs 'Hwalinsimbang' und Journal of Clinical Medicine-Forschung zu sanfter Bewegung und Parasympathikus-Aktivierung"

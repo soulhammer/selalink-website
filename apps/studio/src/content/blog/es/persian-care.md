@@ -4,7 +4,7 @@ title: "Cuidado del Gato Persa de Pelo Largo: Rutina de 3 pasos para el pelaje y
 description: "Los gatos persas son conocidos por su elegante pelaje. Aprenda una rutina de 3 pasos para prevenir infecciones en la piel de la cara por lágrimas y evitar enredos."
 pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
-heroImage: "/images/blog/persian_care.png"
+heroImage: "/images/blog/persian_care.webp"
 authority: "Directrices de cría de CFA para Persas y normas veterinarias de AAFP"
 app: "petself"
 formatVersion: 4

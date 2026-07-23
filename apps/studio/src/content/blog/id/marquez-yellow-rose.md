@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Rahasia di","Routine"]
-heroImage: "/images/blog/marquez_yellow_rose.png"
+heroImage: "/images/blog/marquez_yellow_rose.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Resmi Márquez dan Penelitian Universitas New York (NYU) tentang Neurologi Fusi Kognitif"

@@ -4,7 +4,7 @@ title: "짧은 다리 웰시코기의 비결: 슬개골과 척추를 지키는 3
 description: "귀여운 뒤태와 짧은 다리가 매력적인 웰시코기. 긴 허리와 체중 때문에 발생하기 쉬운 척추 질환 및 슬개골 탈구 예방을 위한 3단계 데일리 루틴을 소개합니다."
 pubDate: "2026-04-12"
 updatedDate: "2026-04-14"
-heroImage: "/images/blog/corgi_care.png"
+heroImage: "/images/blog/corgi_care.webp"
 authority: "Pembroke Welsh Corgi Club of America 공식 가이드 및 AKC 건강 지침"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "BuildSelf"
 tags: ["Le plus gr","Routine"]
-heroImage: "/images/blog/zhuge_liang_guqin_strategy.png"
+heroImage: "/images/blog/zhuge_liang_guqin_strategy.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Chroniques des Trois Royaume (Biographie de Zhuge Liang) & Carte à mon fils"

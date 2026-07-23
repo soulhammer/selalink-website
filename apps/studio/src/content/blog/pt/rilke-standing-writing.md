@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["O cérebro ","Routine"]
-heroImage: "/images/blog/rilke_standing_writing.png"
+heroImage: "/images/blog/rilke_standing_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Correspondência de Rilke 'Cartas a um Jovem Poeta' & pesquisa em ciência cognitiva sobre o fluxo sanguíneo pré-frontal em posições de pé"

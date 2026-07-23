@@ -5,7 +5,7 @@ pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
 tags: ["Kaisar yan","Routine"]
-heroImage: "/images/blog/federer_sleep_recovery.png"
+heroImage: "/images/blog/federer_sleep_recovery.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Christopher Clarey 'The Master' & Riset Nature Neuroscience"

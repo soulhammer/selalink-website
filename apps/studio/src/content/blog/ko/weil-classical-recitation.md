@@ -5,7 +5,7 @@ description: "프랑스의 철학자 시몬 베유가 주의력을 단련하기 
 pubDate: "2026-07-11"
 category: "BuildSelf"
 tags: ["위인 습관", "학습"]
-heroImage: "/images/blog/weil_classical_recitation.png"
+heroImage: "/images/blog/weil_classical_recitation.webp"
 app: "buildself"
 authority: "시몬 베유의 저서 '신을 기다리며' 및 낭독이 전두엽 인지 능력에 미치는 신경과학 연구"
 updatedDate: "2026-07-11"

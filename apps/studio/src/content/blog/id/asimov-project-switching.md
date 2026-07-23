@@ -5,7 +5,7 @@ pubDate: "2026-05-26"
 updatedDate: "2026-05-26"
 category: "BuildSelf"
 tags: ["Ganti Mesi","Routine"]
-heroImage: "/images/blog/asimov_project_switching.png"
+heroImage: "/images/blog/asimov_project_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Esai Otobiografi Isaac Asimov & Penelitian Keletihan Kognitif dan Memori Kerja APA"

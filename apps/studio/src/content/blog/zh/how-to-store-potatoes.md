@@ -5,7 +5,7 @@ description: "根据官方食品安全指南，了解土豆的最佳储存温度
 pubDate: "2026-01-20"
 category: "FreshSnap"
 tags: ["土豆","科学验证的储存指南","vegetable"]
-heroImage: "/images/blog/potato_storage_hack.png"
+heroImage: "/images/blog/potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA) & FSA</strong>"

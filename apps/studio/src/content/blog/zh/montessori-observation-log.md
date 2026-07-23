@@ -5,7 +5,7 @@ pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "BuildSelf"
 tags: ["儿童教育革命家？玛丽","Routine"]
-heroImage: "/images/blog/montessori_observation_log.png"
+heroImage: "/images/blog/montessori_observation_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "蒙台梭利著作《The Discovery of the Child》与历史文献"

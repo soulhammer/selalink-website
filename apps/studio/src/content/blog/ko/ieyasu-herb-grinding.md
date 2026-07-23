@@ -5,7 +5,7 @@ description: "일본 에도 막부를 수립한 도쿠가와 이에야스의 건
 pubDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["위인 습관", "도쿠가와 이에야스", "생약 조제", "리듬 운동", "인내력", "마인드컨트롤"]
-heroImage: "/images/blog/ieyasu_herb_grinding.png"
+heroImage: "/images/blog/ieyasu_herb_grinding.webp"
 app: "buildself"
 authority: "도쿠가와 이에야스의 약재 수집 기록 역사 문서 및 리듬 운동(Rhythmic Motor Activity)과 세로토닌 신경조절 연구"
 updatedDate: "2026-04-01"

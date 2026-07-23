@@ -5,7 +5,7 @@ description: "자전적 명작 '잃어버린 시간을 찾아서'를 집필한 �
 pubDate: "2026-01-29"
 category: "BuildSelf"
 tags: ["위인 습관", "마르셀프루스트", "감각차단", "집중력", "방음실집필"]
-heroImage: "/images/blog/proust_cork_isolation.png"
+heroImage: "/images/blog/proust_cork_isolation.webp"
 app: "buildself"
 authority: "카르나발레 박물관 프루스트 침실 고증 전시 및 Journal of Cognitive Neuroscience"
 updatedDate: "2026-01-29"

@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Great Habits","poincare","Routine","Stamina"]
-heroImage: "/images/blog/poincare_time_limitation.png"
+heroImage: "/images/blog/poincare_time_limitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Henri Poincaré's book 'Science and Method' & Diffuse Mode Research in Cognitive Learning Sciences"

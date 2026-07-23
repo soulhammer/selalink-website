@@ -6,7 +6,7 @@ pubDate: "2026-06-14"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["위인 습관", "찰스 다윈", "걷기", "사색", "아이디어"]
-heroImage: "/images/blog/darwin_sandwalk.png"
+heroImage: "/images/blog/darwin_sandwalk.webp"
 app: "buildself"
 authority: "찰스 다윈 자서전 및 스탠퍼드 대학 걷기 창의성 연구"
 ---

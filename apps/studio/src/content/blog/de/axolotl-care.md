@@ -4,7 +4,7 @@ title: "Axolotl-Kiemensignale und 3-Schritte-Routine für Kaltwasserpflege"
 description: "Pflegeanleitung für Axolotl. Kiemenkrümmung verstehen, Kaltwassertemperaturen (16°C ~ 18°C) sichern und Darmverschluss vermeiden."
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
-heroImage: "/images/blog/axolotl_care.png"
+heroImage: "/images/blog/axolotl_care.webp"
 authority: "Amphibian Ark Veterinary Care Protocols"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["夜のテーブルを回る三","Routine"]
-heroImage: "/images/blog/bronte_table_walking.png"
+heroImage: "/images/blog/bronte_table_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "エリザベス・ギャスケル著「シャーロット・ブロンテ伝」史料およびブロンテ・パソニッジ博物館文献"

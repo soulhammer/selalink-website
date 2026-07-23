@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Das überhi","Routine"]
-heroImage: "/images/blog/wittgenstein_movie_detox.png"
+heroImage: "/images/blog/wittgenstein_movie_detox.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Ray Monks Biografie ‚Ludwig Wittgenstein: Die Pflicht des Genies‘ und kognitionspsychologische Forschung zu Aufmerksamkeitsablenkung und Inkubationseffekt"

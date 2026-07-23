@@ -5,7 +5,7 @@ pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
 tags: ["La prise d","Routine"]
-heroImage: "/images/blog/pliny_reading_excerpt.png"
+heroImage: "/images/blog/pliny_reading_excerpt.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Pline le Jeune, Lettres (Epistulae III.5) / Recherche sur le système d'activation réticulaire (SAR) et l'écriture manuscrite"

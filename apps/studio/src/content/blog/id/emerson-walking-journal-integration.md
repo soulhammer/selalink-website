@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Sintesis D","Routine"]
-heroImage: "/images/blog/emerson_walking_journal_integration.png"
+heroImage: "/images/blog/emerson_walking_journal_integration.webp"
 app: "buildself"
 formatVersion: 4
 authority: "The Journals and Miscellaneous Notebooks of Ralph Waldo Emerson dari Harvard University Press dan Studi Psikologi Kognitif tentang Mode Berpikir Divergen dan Konvergen yang Bergantian"

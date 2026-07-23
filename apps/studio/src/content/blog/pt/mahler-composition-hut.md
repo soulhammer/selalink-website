@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["O poder do","Routine"]
-heroImage: "/images/blog/mahler_composition_hut.png"
+heroImage: "/images/blog/mahler_composition_hut.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Memórias de Alma Mahler 'Gustav Mahler: Lembranças e Cartas' e pesquisas sobre controle de ruído e isolamento para controle cognitivo"

@@ -5,7 +5,7 @@ pubDate: "2026-05-05"
 updatedDate: "2026-05-05"
 category: "BuildSelf"
 tags: ["O dramatur","Routine"]
-heroImage: "/images/blog/schiller_rotten_apple.png"
+heroImage: "/images/blog/schiller_rotten_apple.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Conversas com Goethe de Johann Peter Eckermann & estudo científico da Chemical Senses"

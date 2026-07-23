@@ -5,7 +5,7 @@ description: "몬테크리스토 백작의 작가 알렉상드르 뒤마. 매일
 pubDate: "2026-06-07"
 category: "BuildSelf"
 tags: ["위인 습관", "알렉상드르 뒤마", "창의성", "색상", "생산성"]
-heroImage: "/images/blog/dumas_color_switching.png"
+heroImage: "/images/blog/dumas_color_switching.webp"
 app: "buildself"
 authority: "알렉상드르 뒤마 회고록 'Mes Mémoires' 및 Color Research and Application 학술 연구 자료"
 updatedDate: "2026-06-07"

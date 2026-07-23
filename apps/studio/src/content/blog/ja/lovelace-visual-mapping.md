@@ -5,7 +5,7 @@ pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
 tags: ["数学公式を絵に描いた","Routine"]
-heroImage: "/images/blog/lovelace_visual_mapping.png"
+heroImage: "/images/blog/lovelace_visual_mapping.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ラブレス伝記「Ada's Algorithm」および二重符号化理論に関する教育心理学研究"

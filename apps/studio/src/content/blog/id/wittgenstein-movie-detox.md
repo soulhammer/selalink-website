@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Mendingink","Routine"]
-heroImage: "/images/blog/wittgenstein_movie_detox.png"
+heroImage: "/images/blog/wittgenstein_movie_detox.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Ludwig Wittgenstein oleh Ray Monk dan penelitian psikologi kognitif tentang gangguan perhatian dan Efek Inkubasi"

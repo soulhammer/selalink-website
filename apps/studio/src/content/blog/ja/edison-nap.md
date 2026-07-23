@@ -4,7 +4,7 @@ description: "画期的な発明のアイデアに行き詰まるたびにエデ
 pubDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["鉄球を手に握って昼寝","Routine"]
-heroImage: "/images/blog/edison_nap.png"
+heroImage: "/images/blog/edison_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "エディソンの日記および観察録（1948）およびフランス・パリ脳研究所（Paris Brain Institute）の研究"

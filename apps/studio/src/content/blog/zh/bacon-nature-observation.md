@@ -5,7 +5,7 @@ pubDate: "2026-01-04"
 updatedDate: "2026-01-04"
 category: "BuildSelf"
 tags: ["弗朗西斯·培根的晨间","Routine"]
-heroImage: "/images/blog/bacon_nature_observation.png"
+heroImage: "/images/blog/bacon_nature_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "约翰·奥布里《生平简笔》（Brief Lives） / 自然刺激对认知恢复影响的注意力恢复理论（Attention Restoration Theory）环境心理学研究"

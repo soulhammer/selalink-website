@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Der Gipfel","Routine"]
-heroImage: "/images/blog/archimedes_sand_geometry.png"
+heroImage: "/images/blog/archimedes_sand_geometry.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Belege aus Plutarchs 'Parallelen Lebensbeschreibungen' und kognitive Forschung zur Dual-Coding-Theorie"

@@ -5,7 +5,7 @@ pubDate: "2026-05-18"
 updatedDate: "2026-05-18"
 category: "BuildSelf"
 tags: ["インスピレーションを","Routine"]
-heroImage: "/images/blog/king_writing_routine.png"
+heroImage: "/images/blog/king_writing_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "スティーブン・キングの自伝的創作論「書くことについて」および感覚運動学習の脳科学研究"

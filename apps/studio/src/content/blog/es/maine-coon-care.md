@@ -4,7 +4,7 @@ title: "El gigante gentil Maine Coon: Cuidado de 3 pasos para su salud cardíaca
 description: "El gigante gentil Maine Coon. Descubra medidas de seguridad para la columna por su gran peso y una rutina de 3 pasos para la salud cardíaca y cuidado de su manto."
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
-heroImage: "/images/blog/maine_coon_care.png"
+heroImage: "/images/blog/maine_coon_care.webp"
 authority: "Guía de la Maine Coon Breeders & Fanciers Association (MCBFA) y protocolos de manejo de gatos grandes de AAFP"
 app: "petself"
 formatVersion: 4

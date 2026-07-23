@@ -5,7 +5,7 @@ pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "BuildSelf"
 tags: ["Das morgen","Routine"]
-heroImage: "/images/blog/ali_positive_affirmation.png"
+heroImage: "/images/blog/ali_positive_affirmation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Muhammad Alis Autobiografie 'The Soul of a Butterfly' & Fachzeitschrift Social Cognitive and Affective Neuroscience"

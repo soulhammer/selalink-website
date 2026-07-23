@@ -5,7 +5,7 @@ pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["《东方见闻录》探险家","Routine"]
-heroImage: "/images/blog/marco_polo_travel_journal.png"
+heroImage: "/images/blog/marco_polo_travel_journal.webp"
 app: "buildself"
 formatVersion: 4
 authority: "名著《The Travels of Marco Polo》与传记《Marco Polo: From Venice to Xanadu》"

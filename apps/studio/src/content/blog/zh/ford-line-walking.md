@@ -5,7 +5,7 @@ pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
 tags: ["在生产线上踱步并画出","Routine"]
-heroImage: "/images/blog/ford_line_walking.png"
+heroImage: "/images/blog/ford_line_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "福特自传《My Life and Work》与学术期刊《Neuropsychologia》"

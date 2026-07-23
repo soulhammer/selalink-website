@@ -5,7 +5,7 @@ pubDate: "2026-04-27"
 updatedDate: "2026-04-27"
 category: "BuildSelf"
 tags: ["Philosophi","Routine"]
-heroImage: "/images/blog/nietzsche_walking_writing.png"
+heroImage: "/images/blog/nietzsche_walking_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Friedrich Nietzsches Briefe & kognitionspsychologische Studie über die Förderung des kreativen Denkens durch Gehen"

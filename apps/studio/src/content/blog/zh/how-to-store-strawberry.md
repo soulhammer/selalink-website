@@ -5,7 +5,7 @@ description: "根据官方食品安全指南，了解草莓的最佳储存温度
 pubDate: "2026-06-25"
 category: "FreshSnap"
 tags: ["草莓","科学验证的储存指南","fruit"]
-heroImage: "/images/blog/strawberry_storage_hack.png"
+heroImage: "/images/blog/strawberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"

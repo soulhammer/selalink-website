@@ -4,7 +4,7 @@ title: "野生の野生本能？コリアンショートヘアの領域管理と
 description: "強靭な狩猟本能を持つコリアンショートヘア。特有の膀胱炎を予防するための正しい水分補給法と、領域の安定のための3段階デイリールーティンを紹介します。"
 pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
-heroImage: "/images/blog/koshort_care.png"
+heroImage: "/images/blog/koshort_care.webp"
 authority: "コーネル猫健康センター(Cornell Feline Health Center)猫の行動学＆国立畜産科学院ガイド"
 app: "petself"
 formatVersion: 4

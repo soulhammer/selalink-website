@@ -5,7 +5,7 @@ pubDate: "2026-07-14"
 updatedDate: "2026-07-14"
 category: "BuildSelf"
 tags: ["穿着蓝色罩衫在晨光中","Routine"]
-heroImage: "/images/blog/klimt_gardening_nature_refresh.png"
+heroImage: "/images/blog/klimt_gardening_nature_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "托比亚斯·G·纳特著作《Gustav Klimt: The Complete Paintings》与阿特湖信件"

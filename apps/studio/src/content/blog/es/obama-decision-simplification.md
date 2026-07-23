@@ -5,7 +5,7 @@ pubDate: "2026-01-06"
 updatedDate: "2026-01-06"
 category: "BuildSelf"
 tags: ["¿El secret","Routine"]
-heroImage: "/images/blog/obama_decision_simplification.png"
+heroImage: "/images/blog/obama_decision_simplification.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Teoría de la fatiga por decisión del profesor Roy F. Baumeister y entrevista de Vanity Fair al presidente Obama"

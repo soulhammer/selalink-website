@@ -4,7 +4,7 @@ title: "Holland-Lop-Ohrenpflege und 3-Schritte-Routine für glückliche Binky-T�
 description: "Pflegeanleitung für Holland Lop Zwergwidder. Otitis vorbeugen, Binky-Freudensprünge verstehen und unbegrenzt Timotheegras nach HRS-Standards anbieten."
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
-heroImage: "/images/blog/holland_lop_care.png"
+heroImage: "/images/blog/holland_lop_care.webp"
 authority: "House Rabbit Society (HRS) & AEMV Standards"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Menghilang","Routine"]
-heroImage: "/images/blog/schulz_routine_hamburger.png"
+heroImage: "/images/blog/schulz_routine_hamburger.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi resmi 'Schulz and Peanuts' dan penelitian psikologis tentang Ego Depletion untuk mencegah Kelelahan Keputusan"

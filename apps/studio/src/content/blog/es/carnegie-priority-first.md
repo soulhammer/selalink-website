@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["¿El multim","Routine"]
-heroImage: "/images/blog/carnegie_priority_first.png"
+heroImage: "/images/blog/carnegie_priority_first.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografía de Carnegie 'Autobiography of Andrew Carnegie' y estudios de psicología sobre el desgaste del ego"

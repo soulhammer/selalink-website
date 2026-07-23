@@ -4,7 +4,7 @@ title: "아메리칸 쇼트헤어 심장 및 비만 케어: HCM 예방과 체중
 description: "아메리칸 쇼트헤어는 건강하고 튼튼하지만 비만율이 높고 유전적으로 비대성 심근증(HCM)에 취약합니다. 식단 관리와 사냥 놀이를 활용한 3단계 심장 보호법을 알아봅니다."
 pubDate: "2026-03-02"
 updatedDate: "2026-03-02"
-heroImage: "/images/blog/american_shorthair_care.png"
+heroImage: "/images/blog/american_shorthair_care.webp"
 authority: "CFA 아메리칸 쇼트헤어 품종 표준 및 코넬 고양이 건강 센터 연구"
 app: "petself"
 formatVersion: 4

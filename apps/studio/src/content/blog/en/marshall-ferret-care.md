@@ -4,7 +4,7 @@ title: "Marshall Ferret Weasel War Dance and 3-Step Exploration Routine"
 description: "Caring for the playful Marshall Ferret. Learn how to respond to their war dance and maintain their active curiosity and ear hygiene with our 3-step daily guide."
 pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
-heroImage: "/images/blog/marshall_ferret_care.png"
+heroImage: "/images/blog/marshall_ferret_care.webp"
 authority: "American Ferret Association Standards and Exotic Veterinary Guidelines"
 app: "petself"
 formatVersion: 4

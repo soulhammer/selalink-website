@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Visualisat","Routine"]
-heroImage: "/images/blog/ohtani_mandalart_sleep.png"
+heroImage: "/images/blog/ohtani_mandalart_sleep.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Registres publics du Mandalart de Shohei Ohtani et recherche sur le système glymphatique du cerveau de Nature Archive"

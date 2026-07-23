@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Des classi","Routine"]
-heroImage: "/images/blog/rubens_multitasking_recitation.png"
+heroImage: "/images/blog/rubens_multitasking_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie 'Master of Shadows' & recherches du Journal of Experimental Psychology"

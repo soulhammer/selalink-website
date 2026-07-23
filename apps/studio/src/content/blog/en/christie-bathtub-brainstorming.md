@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Great Habits","christie","Routine","Stamina"]
-heroImage: "/images/blog/christie_bathtub_brainstorming.png"
+heroImage: "/images/blog/christie_bathtub_brainstorming.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Agatha Christie's autobiography 'Agatha Christie: An Autobiography' & Journal of Thermal Biology"

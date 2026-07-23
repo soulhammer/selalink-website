@@ -5,7 +5,7 @@ pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "BuildSelf"
 tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/nobel_evening_reflection.png"
+heroImage: "/images/blog/nobel_evening_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "전기 'The Legacy of Alfred Nobel' 및 노벨 재단 역사 사료"

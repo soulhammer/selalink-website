@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Synthese v","Routine"]
-heroImage: "/images/blog/emerson_walking_journal_integration.png"
+heroImage: "/images/blog/emerson_walking_journal_integration.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Harvard University Press’ „The Journals and Miscellaneous Notebooks of Ralph Waldo Emerson“ und kognitionspsychologische Studien zu abwechselnden divergenten und konvergenten Denkmodi"

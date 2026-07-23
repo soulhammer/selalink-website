@@ -5,7 +5,7 @@ description: "공인된 안전 가이드라인에 따른 계란의 최적 보관
 pubDate: "2026-04-15"
 category: "FreshSnap"
 tags: ["계란","과학적으로 검증된 보관 가이드","dairy"]
-heroImage: "/images/blog/egg_storage_hack.png"
+heroImage: "/images/blog/egg_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"

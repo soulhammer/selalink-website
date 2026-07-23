@@ -5,7 +5,7 @@ description: "리눅스와 깃(Git)의 창시자 리누스 토발즈. 빛과 소
 pubDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["위인 습관", "리누스 토발즈", "집중", "단순", "생산성"]
-heroImage: "/images/blog/torvalds_darkroom_focus.png"
+heroImage: "/images/blog/torvalds_darkroom_focus.webp"
 app: "buildself"
 authority: "리누스 토발즈 자서전 'Just for Fun' 및 감각 자극과 선택적 주의집중 뇌과학 연구"
 updatedDate: "2026-06-30"

@@ -4,7 +4,7 @@ title: "金仓鼠的掘洞本能与无压力3阶段每日护理流程"
 description: "护理独居且夜行性的金仓鼠。了解涵盖白天安静环境、颊囊收集本能以及跑轮检查的3阶段护理，有效预防高压状态。"
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
-heroImage: "/images/blog/golden_hamster_care.png"
+heroImage: "/images/blog/golden_hamster_care.webp"
 authority: "Humane Society 仓鼠护理指南及兽医行为标准"
 app: "petself"
 formatVersion: 4

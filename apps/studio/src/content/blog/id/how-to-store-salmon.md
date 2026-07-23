@@ -5,7 +5,7 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Salmon berdasa
 pubDate: "2026-05-02"
 category: "FreshSnap"
 tags: ["Salmon","Panduan Penyimpanan yang Terbukti Secara Ilmiah","seafood"]
-heroImage: "/images/blog/salmon_storage_hack.png"
+heroImage: "/images/blog/salmon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>FDA & USDA</strong>"

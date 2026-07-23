@@ -6,7 +6,7 @@ pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "FreshSnap"
 tags: ["양배추","과학적으로 검증된 보관 가이드","vegetable"]
-heroImage: "/images/blog/cabbage_storage_hack.png"
+heroImage: "/images/blog/cabbage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"

@@ -5,7 +5,7 @@ pubDate: "2026-07-09"
 updatedDate: "2026-07-09"
 category: "BuildSelf"
 tags: ["¿Un paseo ","Routine"]
-heroImage: "/images/blog/freud_evening_walk.png"
+heroImage: "/images/blog/freud_evening_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía de Sigmund Freud 'The Life and Work of Sigmund Freud' y revista Frontiers in Psychology"

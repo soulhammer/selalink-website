@@ -5,7 +5,7 @@ pubDate: "2026-05-09"
 updatedDate: "2026-05-09"
 category: "BuildSelf"
 tags: ["Los hábito","Routine"]
-heroImage: "/images/blog/jane_goodall.png"
+heroImage: "/images/blog/jane_goodall.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Jane Goodall, *A la sombra del hombre* (1971) y estudios neurocientíficos cognitivos"

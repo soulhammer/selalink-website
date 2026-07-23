@@ -5,7 +5,7 @@ pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "BuildSelf"
 tags: ["Great Habits","schopenhauer","Routine","Stamina"]
-heroImage: "/images/blog/schopenhauer_flute_refocus.png"
+heroImage: "/images/blog/schopenhauer_flute_refocus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biography 'Arthur Schopenhauer: His Life and His Philosophy' & Psychophysiology Journal"

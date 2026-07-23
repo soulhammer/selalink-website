@@ -5,7 +5,7 @@ description: "根据官方食品安全指南，了解西兰花的最佳储存温
 pubDate: "2026-03-07"
 category: "FreshSnap"
 tags: ["西兰花","科学验证的储存指南","vegetable"]
-heroImage: "/images/blog/broccoli_storage_hack.png"
+heroImage: "/images/blog/broccoli_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & EFSA</strong>"

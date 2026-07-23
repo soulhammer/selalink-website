@@ -4,7 +4,7 @@ title: "벵갈 고양이 에너지 발산 가이드와 3단계 활력 자극 루
 description: "활발하고 지능적인 벵갈 고양이 케어법. 벵갈의 넘치는 에너지 시그널을 이해하고 3단계 놀이 루틴으로 스트레스를 해소하는 법을 알아봅니다."
 pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
-heroImage: "/images/blog/bengal_care.png"
+heroImage: "/images/blog/bengal_care.webp"
 authority: "국제고양이협회(TICA) 벵갈 품종 가이드 및 고양이 행동의학 표준 권고사항"
 app: "petself"
 formatVersion: 4

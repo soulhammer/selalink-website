@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/columbus_nautical_log.png"
+heroImage: "/images/blog/columbus_nautical_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "1492년 항해 사료 'The Journal of Christopher Columbus' 및 전기 역사서"

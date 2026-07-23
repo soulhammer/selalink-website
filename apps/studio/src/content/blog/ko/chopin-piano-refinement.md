@@ -5,7 +5,7 @@ description: "낭만파 음악의 거장 프레데리크 쇼팽. 건반 앞에�
 pubDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["위인 습관", "쇼팽", "완벽주의", "피아노작곡", "디테일퇴고"]
-heroImage: "/images/blog/chopin_piano_refinement.png"
+heroImage: "/images/blog/chopin_piano_refinement.webp"
 app: "buildself"
 authority: "조르주 상드 수필 '노앙에서의 겨울' 사료 및 폴란드 국립 쇼팽 연구소 자필 악보 분석"
 updatedDate: "2026-06-21"

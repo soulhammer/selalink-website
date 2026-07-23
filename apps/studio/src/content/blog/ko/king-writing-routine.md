@@ -5,7 +5,7 @@ description: "3억 5천만 부 이상의 판매고를 올린 베스트셀러 거
 pubDate: "2026-05-18"
 category: "BuildSelf"
 tags: ["위인 습관", "스티븐 킹", "집필", "루틴", "창의성", "조건형성"]
-heroImage: "/images/blog/king_writing_routine.png"
+heroImage: "/images/blog/king_writing_routine.webp"
 app: "buildself"
 authority: "스티븐 킹 집필 회고록 '유혹하는 글쓰기' 및 행동 심리학의 조건화 연구"
 updatedDate: "2026-05-18"

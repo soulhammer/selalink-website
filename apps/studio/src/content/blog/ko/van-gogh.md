@@ -5,7 +5,7 @@ pubDate: "2026-04-21"
 updatedDate: "2026-04-21"
 category: "BuildSelf"
 tags: ["위인 습관", "빈센트 반 고흐", "기록", "성찰"]
-heroImage: "/images/blog/van_gogh.png"
+heroImage: "/images/blog/van_gogh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Irving Stone, *Dear Theo: The Autobiography of Vincent van Gogh* (1937)"

@@ -5,7 +5,7 @@ pubDate: "2026-01-10"
 updatedDate: "2026-01-10"
 category: "BuildSelf"
 tags: ["《思考者》的巨匠？罗","Routine"]
-heroImage: "/images/blog/rodin_sculpting_walk.png"
+heroImage: "/images/blog/rodin_sculpting_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "传记《Auguste Rodin: Art and Life》与罗丹博物馆（Musée Rodin）馆藏史料"

@@ -5,7 +5,7 @@ pubDate: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["¿El centro","Routine"]
-heroImage: "/images/blog/joan_silent_reflection.png"
+heroImage: "/images/blog/joan_silent_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Archivos del Juicio de Juana de Arco (1431) y revista Journal of Research in Personality"

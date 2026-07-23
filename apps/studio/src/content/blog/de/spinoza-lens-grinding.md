@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Spinozas G","Routine"]
-heroImage: "/images/blog/spinoza_lens_grinding.png"
+heroImage: "/images/blog/spinoza_lens_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Colerus, The Life of Spinoza / Hand-Auge-Koordination und Regulierung des Default Mode Networks (DMN)"

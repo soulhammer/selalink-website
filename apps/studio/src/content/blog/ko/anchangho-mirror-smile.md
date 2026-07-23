@@ -5,7 +5,7 @@ description: "독립운동가 도산 안창호가 강조한 '미소'와 '청결'
 pubDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["위인 습관", "도산 안창호", "거울 미소", "청결", "마인드컨트롤", "자기계발"]
-heroImage: "/images/blog/anchangho_mirror_smile.png"
+heroImage: "/images/blog/anchangho_mirror_smile.webp"
 app: "buildself"
 authority: "도산 안창호의 흥사단(興士團) 강론 기록 및 안면 피드백 가설(Facial Feedback Hypothesis) 생리학 연구"
 updatedDate: "2026-01-19"

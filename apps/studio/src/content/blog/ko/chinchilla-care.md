@@ -4,7 +4,7 @@ title: "친칠라 부정교합 및 온도 관리: 치아 마모와 열사병 예
 description: "친칠라는 평생 자라는 이빨 때문에 부정교합이 오기 쉽고 고온다습에 매우 취약합니다. 이갈이용 건초 급여와 모래목욕을 포함한 3단계 데일리 루틴을 알아봅니다."
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
-heroImage: "/images/blog/chinchilla_care.png"
+heroImage: "/images/blog/chinchilla_care.webp"
 authority: "특수동물수의사회(AEMV) 친칠라 사육 가이드라인 및 설치류 치과 임상 표준"
 app: "petself"
 formatVersion: 4

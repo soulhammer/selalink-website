@@ -5,7 +5,7 @@ description: "소설 집필 시작의 막연한 저항감을 해소하기 위해
 pubDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["위인 습관", "존 스타인벡", "리프레시", "창의성", "생산성"]
-heroImage: "/images/blog/steinbeck_editor_letter.png"
+heroImage: "/images/blog/steinbeck_editor_letter.webp"
 app: "buildself"
 authority: "존 스타인벡 서한집 『Journal of a Novel』 역사적 고증 및 인지심리학(Cognitive Psychology) 완벽주의와 지연 행동(Procrastination) 극복 연구"
 updatedDate: "2026-05-07"

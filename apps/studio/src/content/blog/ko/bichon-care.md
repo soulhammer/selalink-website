@@ -4,7 +4,7 @@ title: "비숑 프리제 곱슬모 케어: 엉킴 방지와 비숑타임 대처 
 description: "하이바 헬멧 머리로 유명한 친근한 비숑 프리제. 얇고 조밀해 쉽게 엉키는 곱슬털 관리 팁과 갑작스러운 에너지 폭발(비숑타임)의 안전 대처 루틴을 알아봅니다."
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
-heroImage: "/images/blog/bichon_care.png"
+heroImage: "/images/blog/bichon_care.webp"
 authority: "Bichon Frise Club of America 가이드라인 및 AVMA 수의학 지침"
 app: "petself"
 formatVersion: 4

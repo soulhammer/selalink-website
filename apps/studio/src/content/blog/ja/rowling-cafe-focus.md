@@ -5,7 +5,7 @@ pubDate: "2026-03-03"
 updatedDate: "2026-03-03"
 category: "BuildSelf"
 tags: ["カフェの騒音の中で魔","Routine"]
-heroImage: "/images/blog/rowling_cafe_focus.png"
+heroImage: "/images/blog/rowling_cafe_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "J.K.ローリング伝記「J.K. Rowling: A Biography」および「Journal of Consumer Research」白騒音研究"

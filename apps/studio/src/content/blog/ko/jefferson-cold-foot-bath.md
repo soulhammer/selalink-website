@@ -5,7 +5,7 @@ description: "미국의 제3대 대통령 토머스 제퍼슨. 60년 동안 매�
 pubDate: "2026-04-17"
 category: "BuildSelf"
 tags: ["위인 습관", "토머스 제퍼슨", "에너지", "아침 루틴", "각성"]
-heroImage: "/images/blog/jefferson_cold_foot_bath.png"
+heroImage: "/images/blog/jefferson_cold_foot_bath.webp"
 app: "buildself"
 authority: "토머스 제퍼슨 서한집 및 한랭 자극 신경과학 연구"
 updatedDate: "2026-04-17"

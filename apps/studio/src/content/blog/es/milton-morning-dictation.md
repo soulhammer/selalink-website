@@ -5,7 +5,7 @@ pubDate: "2026-04-09"
 updatedDate: "2026-04-09"
 category: "BuildSelf"
 tags: ["El poeta c","Routine"]
-heroImage: "/images/blog/milton_morning_dictation.png"
+heroImage: "/images/blog/milton_morning_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía de John Aubrey y estudios cognitivos sobre la privación visual"

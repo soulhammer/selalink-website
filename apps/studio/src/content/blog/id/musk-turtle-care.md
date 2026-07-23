@@ -4,7 +4,7 @@ title: "Peregangan Kaki Kura-Kura Kasturi dan Rutin Filtrasi Air 3 Langkah"
 description: "Merawat kura-kura kasturi umum (semi-akuatik). Pelajari arti peregangan kaki belakang saat berjemur dan cegah penyakit tempurung dengan rutin filtrasi 3 langkah."
 pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
-heroImage: "/images/blog/musk_turtle_care.png"
+heroImage: "/images/blog/musk_turtle_care.webp"
 authority: "Panduan Berjemur World Chelonian Association dan Protokol Kura-Kura Akuatik"
 app: "petself"
 formatVersion: 4

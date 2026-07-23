@@ -5,7 +5,7 @@ description: "영국의 대문호 제인 오스틴. 소란스러운 공유 공�
 pubDate: "2026-03-27"
 category: "BuildSelf"
 tags: ["위인 습관", "제인 오스틴", "집중력", "몰입", "환경 설정"]
-heroImage: "/images/blog/austen_creaky_door.png"
+heroImage: "/images/blog/austen_creaky_door.webp"
 app: "buildself"
 authority: "제인 오스틴 평전 및 작업 전환 비용에 관한 인지심리학 연구"
 updatedDate: "2026-03-27"

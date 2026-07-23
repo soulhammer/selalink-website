@@ -4,7 +4,7 @@ title: "Danse de guerre du furet de Marshall et routine d'exploration en 3 étap
 description: "Soin du furet de Marshall enjoué. Apprenez à répondre à sa danse de guerre et maintenez sa curiosité active et son hygiène auriculaire avec notre guide quotidien en 3 étapes."
 pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
-heroImage: "/images/blog/marshall_ferret_care.png"
+heroImage: "/images/blog/marshall_ferret_care.webp"
 authority: "Normes de l'American Ferret Association et Directives Vétérinaires pour Animaux Exotiques"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ description: "세기 최고의 복서 무하마드 알리. 경기 전 극심한 
 pubDate: "2026-01-26"
 category: "BuildSelf"
 tags: ["위인 습관", "무하마드알리", "자기확신", "동기부여", "멘탈케어"]
-heroImage: "/images/blog/ali_positive_affirmation.png"
+heroImage: "/images/blog/ali_positive_affirmation.webp"
 app: "buildself"
 authority: "무하마드 알리 자서전 '나비처럼 날아서 벌처럼 쏘다' 및 Social Cognitive and Affective Neuroscience 학술지"
 updatedDate: "2026-01-26"

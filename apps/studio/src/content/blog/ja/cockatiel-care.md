@@ -4,7 +4,7 @@ title: "オカメインコの冠羽サインとナイトフライト予防のた
 description: "愛くるしい冠羽を持つオカメインコ。夜間のパニック（ナイトフライト）予防と冠羽の感情解読、AAV基準に準拠した3ステップルーチンを解説します。"
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
-heroImage: "/images/blog/cockatiel_care.png"
+heroImage: "/images/blog/cockatiel_care.webp"
 authority: "鳥類獣医師協会 (AAV) および行動学アドバイザリー基準"
 app: "petself"
 formatVersion: 4

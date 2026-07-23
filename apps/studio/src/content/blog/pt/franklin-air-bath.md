@@ -4,7 +4,7 @@ description: "Benjamin Franklin, que inventou o para-raios e liderou a fundaçã
 pubDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["30 minutos","Routine"]
-heroImage: "/images/blog/franklin_air_bath.png"
+heroImage: "/images/blog/franklin_air_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "A Autobiografia de Benjamin Franklin & New England Journal of Medicine (NEJM)"

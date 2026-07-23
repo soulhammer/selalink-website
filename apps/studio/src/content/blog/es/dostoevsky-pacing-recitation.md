@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Una voz qu","Routine"]
-heroImage: "/images/blog/dostoevsky_pacing_recitation.png"
+heroImage: "/images/blog/dostoevsky_pacing_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Memorias de Anna Dostoevskaya e investigación sobre cognición encarnada (Embodied Cognition) de la LMU de Múnich"

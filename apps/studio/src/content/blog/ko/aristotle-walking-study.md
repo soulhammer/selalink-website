@@ -5,7 +5,7 @@ description: "아리스토텔레스와 소요 학파가 산책하며 사색하�
 pubDate: "2026-03-25"
 category: "BuildSelf"
 tags: ["산책", "토론", "기억력", "고대"]
-heroImage: "/images/blog/aristotle_walking_study.png"
+heroImage: "/images/blog/aristotle_walking_study.webp"
 app: "buildself"
 authority: "디오게네스 라에르티오스 《명철한 철학자들의 생애와 사상》"
 updatedDate: "2026-03-25"

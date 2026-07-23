@@ -4,7 +4,7 @@ description: "Apakah apel Anda cepat lembek atau merusak buah lainnya? Temukan c
 pubDate: "2026-03-11"
 category: "FreshSnap"
 tags: ["Menyimpan Apel", "Perawatan Buah", "Gas Etilen", "Tips Kesegaran", "Trik Dapur"]
-heroImage: "/images/blog/apple_storage_hack.png"
+heroImage: "/images/blog/apple_storage_hack.webp"
 app: "freshsnap"
 faqs:
   - question: "Apakah boleh membungkus dan menyimpan apel yang memar?"
@@ -67,7 +67,7 @@ Oleh karena itu, kunci sukses penyimpanan apel adalah mencegah hilangnya kelemba
     💡 <strong>Tips Penyimpanan</strong>: Bungkus setiap apel yang belum dicuci rapat-rapat menggunakan plastik pembungkus makanan (cling wrap) atau kantong plastik individu. Pembungkusan mengunci kelembapan alami apel untuk mempertahankan tekstur renyahnya, sekaligus bertindak sebagai penghalang utama untuk mencegah kebocoran gas etilen.
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/apple_storage_detail.png" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/apple_storage_detail.webp" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

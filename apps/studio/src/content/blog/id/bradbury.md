@@ -5,7 +5,7 @@ pubDate: "2026-06-16"
 updatedDate: "2026-06-16"
 category: "BuildSelf"
 tags: ["Rutinitas ","Routine"]
-heroImage: "/images/blog/bradbury.png"
+heroImage: "/images/blog/bradbury.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Ray Bradbury, *Zen dalam Seni Menulis* (1990) & Studi Ilmu Saraf Kognitif"

@@ -5,7 +5,7 @@ pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "BuildSelf"
 tags: ["充满自信的晨镜秘诀？","Routine"]
-heroImage: "/images/blog/ali_positive_affirmation.png"
+heroImage: "/images/blog/ali_positive_affirmation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "穆罕默德·阿里自传《像蝴蝶一样飞，像蜜蜂一样刺》与学术期刊《Social Cognitive and Affective Neuroscience》"

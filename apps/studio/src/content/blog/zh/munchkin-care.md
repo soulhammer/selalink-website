@@ -4,7 +4,7 @@ title: "曼基康矮脚猫关节保护指南与低空间3阶段日常流程"
 description: "针对短腿曼基康猫（ Munchkin ）的护理。学习识别其早期关节疼痛信号，并通过低矮空间的3阶段日常流程守护其关节健康。"
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
-heroImage: "/images/blog/munchkin_care.png"
+heroImage: "/images/blog/munchkin_care.webp"
 authority: "爱猫者协会 (CFA) 曼基康猫品种标准与兽医骨科健康指导原则"
 app: "petself"
 formatVersion: 4

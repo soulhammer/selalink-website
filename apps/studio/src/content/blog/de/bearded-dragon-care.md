@@ -4,7 +4,7 @@ title: "Bartagamen Sonnenplatz-Leitfaden und 3-Schritt-Kalzium-UVB-Tagesroutine"
 description: "Pflege für die zahme Bartagame. Lernen Sie, das dominante Kopfnicken zu verstehen und metabolische Knochenerkrankungen (MBD) durch Licht und Kalzium zu vermeiden."
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
-heroImage: "/images/blog/bearded_dragon_care.png"
+heroImage: "/images/blog/bearded_dragon_care.webp"
 authority: "Haltungsrichtlinien der ARAV (Association of Reptilian and Amphibian Veterinarians) und herpetologische Standards"
 app: "petself"
 formatVersion: 4

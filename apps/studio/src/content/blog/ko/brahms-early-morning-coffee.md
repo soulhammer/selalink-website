@@ -5,7 +5,7 @@ pubDate: "2026-06-13"
 updatedDate: "2026-06-13"
 category: "BuildSelf"
 tags: ["새벽 5시 커피와 ","Routine"]
-heroImage: "/images/blog/brahms_early_morning_coffee.png"
+heroImage: "/images/blog/brahms_early_morning_coffee.webp"
 app: "buildself"
 formatVersion: 4
 authority: "얀 스와포드의 '요하네스 브람스 전기' 및 네이처 뉴로사이언스(Nature Neuroscience) 학술지"

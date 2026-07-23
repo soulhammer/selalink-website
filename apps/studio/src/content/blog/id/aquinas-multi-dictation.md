@@ -5,7 +5,7 @@ pubDate: "2026-03-09"
 updatedDate: "2026-03-09"
 category: "BuildSelf"
 tags: ["Metode Dik","Routine"]
-heroImage: "/images/blog/aquinas_multi_dictation.png"
+heroImage: "/images/blog/aquinas_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Bernard Gui, Life of Saint Thomas Aquinas / Studi neurosains kognitif tentang kapasitas memori kerja (Working Memory) dan peralihan fokus cepat"

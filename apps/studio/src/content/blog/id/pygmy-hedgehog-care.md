@@ -4,7 +4,7 @@ title: "Pengurapan Diri Landak Mini Afrika dan Rutin Perawatan Suhu 3 Langkah"
 description: "Perawatan landak mini Afrika. Pahami perilaku unik mereka mengurapi diri dengan air liur berbusa dan pertahankan suhu optimal 24-26 °C dengan rutin 3 langkah musim dingin kami yang aman."
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
-heroImage: "/images/blog/pygmy_hedgehog_care.png"
+heroImage: "/images/blog/pygmy_hedgehog_care.webp"
 authority: "Panduan Hedgehog Welfare Society dan Protokol Veteriner Hewan Eksotis"
 app: "petself"
 formatVersion: 4

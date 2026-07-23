@@ -5,7 +5,7 @@ pubDate: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["Great Habits","joan","Routine","Stamina"]
-heroImage: "/images/blog/joan_silent_reflection.png"
+heroImage: "/images/blog/joan_silent_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Trial of Condemnation of Joan of Arc Archives & Journal of Research in Personality"

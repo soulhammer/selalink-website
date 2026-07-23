@@ -5,7 +5,7 @@ description: "프랑스의 대문호 빅토르 위고. 마감 시한이 닥쳐�
 pubDate: "2026-06-29"
 category: "BuildSelf"
 tags: ["위인 습관", "빅토르 위고", "몰입", "환경 제약", "생산성"]
-heroImage: "/images/blog/hugo_hair_shaving.png"
+heroImage: "/images/blog/hugo_hair_shaving.webp"
 app: "buildself"
 authority: "빅토르 위고의 일대기 및 인지심리학의 환경적 제약과 전념 장치 연구"
 updatedDate: "2026-06-29"

@@ -4,7 +4,7 @@ title: "Beagle Energie- und Angstpflege: 3-Schritte-Routine bei Trennungsangst u
 description: "Beagles sind neugierige Jagdhunde mit viel Energie. Lernen Sie eine 3-Schritte-Routine kennen, um ihren Schnüffeltrieb zu stillen, Angst zu lindern und Ohrenentzündungen vorzubeugen."
 pubDate: "2026-02-28"
 updatedDate: "2026-03-01"
-heroImage: "/images/blog/beagle_care.png"
+heroImage: "/images/blog/beagle_care.webp"
 authority: "Offizielles AKC-Beagle-Handbuch und IAABC-Schnüffelprotokolle"
 app: "petself"
 formatVersion: 4

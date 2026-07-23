@@ -4,7 +4,7 @@ title: "Cuidado del Manto Doble y Cadera del Samoyedo: Rutina de 3 pasos para la
 description: "Los Samoyedos son perros de trineo propensos a displasia de cadera e infecciones de piel bajo su denso pelaje. Conozca una rutina para cuidar su pelo y articulaciones."
 pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
-heroImage: "/images/blog/samoyed_care.png"
+heroImage: "/images/blog/samoyed_care.webp"
 authority: "Directrices oficiales de AKC para Samoyedos y directivas de OFA"
 app: "petself"
 formatVersion: 4

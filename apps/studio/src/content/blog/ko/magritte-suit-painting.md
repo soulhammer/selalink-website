@@ -5,7 +5,7 @@ description: "매일 정장을 단정하게 입고 거실 이젤 앞에서 흐�
 pubDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["위인 습관", "르네 마그리트", "집중", "루틴", "창의성", "단순화"]
-heroImage: "/images/blog/magritte_suit_painting.png"
+heroImage: "/images/blog/magritte_suit_painting.webp"
 app: "buildself"
 authority: "르네 마그리트 전기 『르네 마그리트: 보이지 않는 것의 미학』 및 의복이 신체 자각과 주의력 수행도에 미치는 영향인 착의 인지(Enclothed Cognition) 연구"
 updatedDate: "2026-05-25"

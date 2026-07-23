@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Menyelaras","Routine"]
-heroImage: "/images/blog/casals_bach_prelude.png"
+heroImage: "/images/blog/casals_bach_prelude.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografi Pablo Casals 'Joys and Sorrows' dan penelitian neuroestetika tentang induksi gelombang alfa prefrontal melalui musik"

@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Der CEO, d","Routine"]
-heroImage: "/images/blog/tim_cook_early_morning_routine.png"
+heroImage: "/images/blog/tim_cook_early_morning_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Time Cover-Story & Leander Kahneys Biografie 'Tim Cook'"

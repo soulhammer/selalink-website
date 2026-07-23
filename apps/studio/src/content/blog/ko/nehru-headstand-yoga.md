@@ -5,7 +5,7 @@ description: "인도 초대 총리 자와할랄 네루. 9년간의 독방 수감
 pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["위인 습관", "자와할랄 네루", "요가 물구나무서기", "뇌 혈류", "HPA 스트레스 축"]
-heroImage: "/images/blog/nehru_headstand_yoga.png"
+heroImage: "/images/blog/nehru_headstand_yoga.webp"
 app: "buildself"
 authority: "네루 자서전 'An Autobiography' 및 Journal of Alternative and Complementary Medicine 학술지"
 updatedDate: "2026-03-18"

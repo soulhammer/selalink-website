@@ -4,7 +4,7 @@ description: "O prémio Nobel Ernest Hemingway registava a sua contagem de palav
 pubDate: "2026-02-05"
 category: "BuildSelf"
 tags: ["Escrever r","Routine"]
-heroImage: "/images/blog/hemingway_word_count.png"
+heroImage: "/images/blog/hemingway_word_count.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Entrevista de Ernest Hemingway na The Paris Review (1958) e estudo da Journal of Applied Behavior Analysis"

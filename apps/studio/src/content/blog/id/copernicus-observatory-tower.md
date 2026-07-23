@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Menara Obs","Routine"]
-heroImage: "/images/blog/copernicus_observatory_tower.png"
+heroImage: "/images/blog/copernicus_observatory_tower.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Pengantar Sejarah 'De revolutionibus' dan Penelitian Universitas Yale tentang Neurologi Kognisi Spasial (Spatial Cognition)"

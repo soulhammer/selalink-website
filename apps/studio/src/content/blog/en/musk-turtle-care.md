@@ -4,7 +4,7 @@ title: "Common Musk Turtle Sunbathing Stretch and 3-Step Water Filtration Routin
 description: "Caring for the popular Common Musk Turtle. Learn the meaning of back-leg stretching during basking and prevent shell disease with a 3-step filtration routine."
 pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
-heroImage: "/images/blog/musk_turtle_care.png"
+heroImage: "/images/blog/musk_turtle_care.webp"
 authority: "World Chelonian Association Basking Guidelines and Aquatic Turtle Protocol"
 app: "petself"
 formatVersion: 4

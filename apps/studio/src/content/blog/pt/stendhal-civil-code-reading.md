@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Preparação","Routine"]
-heroImage: "/images/blog/stendhal_civil_code_reading.png"
+heroImage: "/images/blog/stendhal_civil_code_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Carta de Stendhal a Balzac e pesquisa em psicologia cognitiva sobre os efeitos de primming e a estimulação textual estrutural na racionalidade objetiva"

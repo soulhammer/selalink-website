@@ -5,7 +5,7 @@ pubDate: "2026-01-06"
 updatedDate: "2026-01-06"
 category: "BuildSelf"
 tags: ["Das Geheim","Routine"]
-heroImage: "/images/blog/obama_decision_simplification.png"
+heroImage: "/images/blog/obama_decision_simplification.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Die Theorie der Entscheidungsermüdung von Prof. Roy F. Baumeister & Vanity-Fair-Interview mit Präsident Obama"

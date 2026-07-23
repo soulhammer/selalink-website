@@ -4,7 +4,7 @@ title: "Persian Cat Longhair Care: A 3-Step Routine for Coat and Tear Stain Mana
 description: "Persian cats are known for their elegant coat. Learn a 3-step routine to prevent facial skin infections caused by tears and keep their double coat tangle-free."
 pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
-heroImage: "/images/blog/persian_care.png"
+heroImage: "/images/blog/persian_care.webp"
 authority: "CFA Breed Guidelines for Persians & AAFP Veterinary Standards"
 app: "petself"
 formatVersion: 4

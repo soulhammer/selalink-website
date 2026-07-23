@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["DNA構造の秘密を解","Routine"]
-heroImage: "/images/blog/rosalind_franklin_diffraction_focus.png"
+heroImage: "/images/blog/rosalind_franklin_diffraction_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ブレンダ・マドックス評伝「Rosalind Franklin」およびキングス・カレッジ・ロンドン史料"

@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Great Habits","nabokov","Routine","Stamina"]
-heroImage: "/images/blog/nabokov_index_card.png"
+heroImage: "/images/blog/nabokov_index_card.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vladimir Nabokov's autobiography 'Speak, Memory' and Cognitive Load Theory research on working memory optimization"

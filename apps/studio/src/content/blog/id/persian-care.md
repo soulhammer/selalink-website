@@ -4,7 +4,7 @@ title: "Perawatan Kucing Persia Bulu Panjang: Rutinitas 3 Langkah untuk Bulu dan
 description: "Kucing Persia dikenal dengan bulunya yang anggun. Pelajari rutinitas 3 langkah untuk mencegah infeksi kulit wajah akibat air mata dan menjaga bulu bebas kusut."
 pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
-heroImage: "/images/blog/persian_care.png"
+heroImage: "/images/blog/persian_care.webp"
 authority: "Pedoman Breed CFA untuk Persia & Standar Kedokteran Hewan AAFP"
 app: "petself"
 formatVersion: 4

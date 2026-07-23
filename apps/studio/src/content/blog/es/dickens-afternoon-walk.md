@@ -5,7 +5,7 @@ pubDate: "2026-05-23"
 updatedDate: "2026-05-23"
 category: "BuildSelf"
 tags: ["¿El noveli","Routine"]
-heroImage: "/images/blog/dickens_afternoon_walk.png"
+heroImage: "/images/blog/dickens_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Obra de John Forster 'The Life of Charles Dickens' y Frontiers in Human Neuroscience"

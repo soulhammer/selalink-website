@@ -5,7 +5,7 @@ pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
 tags: ["流放地著书500卷的","Routine"]
-heroImage: "/images/blog/jeong_yakyong_transcription.png"
+heroImage: "/images/blog/jeong_yakyong_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "韩国国学振兴院收藏《与犹堂全书》史料与茶山研究所学术研究"

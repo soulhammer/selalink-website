@@ -5,7 +5,7 @@ description: "독일 관념론을 완성한 헤겔의 철학 뒤에는 수만 �
 pubDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/hegel_card_index.png"
+heroImage: "/images/blog/hegel_card_index.webp"
 app: "buildself"
 authority: "헤겔 평전 'Hegel: A Biography' 및 인지과학 학술 연구 결과"
 updatedDate: "2026-01-01"

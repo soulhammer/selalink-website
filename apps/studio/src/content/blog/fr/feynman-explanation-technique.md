@@ -5,7 +5,7 @@ pubDate: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "BuildSelf"
 tags: ["La méthode","Routine"]
-heroImage: "/images/blog/feynman_explanation_technique.png"
+heroImage: "/images/blog/feynman_explanation_technique.webp"
 app: "buildself"
 formatVersion: 4
 authority: "L'ouvrage de Richard Feynman 'Vous voulez rire, monsieur Feynman !' et Educational Psychology Review"

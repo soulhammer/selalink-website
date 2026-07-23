@@ -5,7 +5,7 @@ pubDate: "2026-06-16"
 updatedDate: "2026-06-16"
 category: "BuildSelf"
 tags: ["布拉德伯里的发散思维","Routine"]
-heroImage: "/images/blog/bradbury.png"
+heroImage: "/images/blog/bradbury.webp"
 app: "buildself"
 formatVersion: 4
 authority: "雷·布拉德伯里 (Ray Bradbury)，*写作艺术中的禅宗* (1990) 和认知神经科学研究"

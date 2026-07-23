@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["Le silence","Routine"]
-heroImage: "/images/blog/mcclintock_silent_focus.png"
+heroImage: "/images/blog/mcclintock_silent_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie de McClintock 'A Feeling for the Organism' & recherches sur l'attention"

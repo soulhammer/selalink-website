@@ -5,7 +5,7 @@ pubDate: "2026-07-04"
 updatedDate: "2026-07-04"
 category: "BuildSelf"
 tags: ["Great Habits","carson","Routine","Stamina"]
-heroImage: "/images/blog/carson_tidepool_observation.png"
+heroImage: "/images/blog/carson_tidepool_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biography 'Rachel Carson: Witness for Nature' & Environmental Science & Technology"

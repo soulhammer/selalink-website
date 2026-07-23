@@ -5,7 +5,7 @@ description: "철강왕 앤드류 카네기. 전두엽 에너지가 가장 충�
 pubDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["위인 습관", "앤드류 카네기", "우선순위", "의지력", "생산성"]
-heroImage: "/images/blog/carnegie_priority_first.png"
+heroImage: "/images/blog/carnegie_priority_first.webp"
 app: "buildself"
 authority: "카네기 자서전 'Autobiography of Andrew Carnegie' 및 자아 고갈(Ego Depletion) 이론 심리학 연구"
 updatedDate: "2026-05-07"

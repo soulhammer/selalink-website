@@ -6,7 +6,7 @@ pubDate: "2026-03-07"
 updatedDate: "2026-03-07"
 category: "FreshSnap"
 tags: ["브로콜리","과학적으로 검증된 보관 가이드","vegetable"]
-heroImage: "/images/blog/broccoli_storage_hack.png"
+heroImage: "/images/blog/broccoli_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA</strong>"

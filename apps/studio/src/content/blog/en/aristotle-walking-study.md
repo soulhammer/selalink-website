@@ -5,7 +5,7 @@ pubDate: "2026-03-25"
 updatedDate: "2026-03-25"
 category: "BuildSelf"
 tags: ["Great Habits","aristotle","Routine","Stamina"]
-heroImage: "/images/blog/aristotle_walking_study.png"
+heroImage: "/images/blog/aristotle_walking_study.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Diogenes Laërtius, Lives and Opinions of Eminent Philosophers / Neuroscience of exercise on Hippocampus"

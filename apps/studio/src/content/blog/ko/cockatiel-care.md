@@ -4,7 +4,7 @@ title: "왕관앵무의 우관 표현과 나이트 파닉 예방을 위한 3단�
 description: "사교적이고 머리 벼슬(우관)이 매력적인 왕관앵무. 밤에 깜짝 놀라는 나이트 파닉(Night Fright) 예방과 깃털 긁기 시그널 해독, 맞춤형 3단계 데일리 케어 루틴을 소개합니다."
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
-heroImage: "/images/blog/cockatiel_care.png"
+heroImage: "/images/blog/cockatiel_care.webp"
 authority: "Association of Avian Veterinarians (AAV) & Avian Behavior Advisory Standards"
 app: "petself"
 formatVersion: 4

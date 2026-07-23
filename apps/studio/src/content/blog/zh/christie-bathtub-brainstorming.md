@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: [" 浴缸吃苹果与谋杀案","Routine"]
-heroImage: "/images/blog/christie_bathtub_brainstorming.png"
+heroImage: "/images/blog/christie_bathtub_brainstorming.webp"
 app: "buildself"
 formatVersion: 4
 authority: "阿加莎·克里斯蒂自传《阿加莎·克里斯蒂自传》及 Journal of Thermal Biology 学术期刊"

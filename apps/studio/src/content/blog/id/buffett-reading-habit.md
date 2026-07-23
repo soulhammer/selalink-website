@@ -5,7 +5,7 @@ pubDate: "2026-06-10"
 updatedDate: "2026-06-10"
 category: "BuildSelf"
 tags: ["Efek Bunga","Routine"]
-heroImage: "/images/blog/buffett_reading_habit.png"
+heroImage: "/images/blog/buffett_reading_habit.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Studi Neurologi Membaca Emory University & Surat Pemegang Saham Berkshire Hathaway"

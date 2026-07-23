@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["O saque qu","Routine"]
-heroImage: "/images/blog/serena_match_routine.png"
+heroImage: "/images/blog/serena_match_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autenticação de entrevistas de Tennis Magazine e pesquisas do psicólogo do esporte Singer sobre as rotinas prévias à execução"

@@ -4,7 +4,7 @@ title: "천사견 골든 리트리버? 관절과 리트리빙 본능을 위한 3
 description: "친근하고 영리한 골든 리트리버. 대형견의 취약점인 고관절 이형성증 예방과 에너지를 채워주는 3단계 데일리 교감 루틴을 소개합니다."
 pubDate: "2026-05-28"
 updatedDate: "2026-05-30"
-heroImage: "/images/blog/golden_retriever_care.png"
+heroImage: "/images/blog/golden_retriever_care.webp"
 authority: "American Kennel Club (AKC) 공식 가이드 및 IAABC 행동 프로토콜"
 app: "petself"
 formatVersion: 4

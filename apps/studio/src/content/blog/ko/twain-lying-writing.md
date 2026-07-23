@@ -5,7 +5,7 @@ description: "미국 문학의 거장 마크 트웨인. 아침 식사 후 침대
 pubDate: "2026-05-20"
 category: "BuildSelf"
 tags: ["위인 습관", "마크 트웨인", "침대 명상", "창의성", "이완"]
-heroImage: "/images/blog/twain_lying_writing.png"
+heroImage: "/images/blog/twain_lying_writing.webp"
 app: "buildself"
 authority: "마크 트웨인 자서전 'Autobiography of Mark Twain' 및 Journal of Neurophysiology 학술지"
 updatedDate: "2026-05-20"

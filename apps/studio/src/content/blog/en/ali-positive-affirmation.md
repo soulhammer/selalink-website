@@ -5,7 +5,7 @@ pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "BuildSelf"
 tags: ["Great Habits","ali","Routine","Stamina"]
-heroImage: "/images/blog/ali_positive_affirmation.png"
+heroImage: "/images/blog/ali_positive_affirmation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Muhammad Ali's Autobiography 'The Soul of a Butterfly' & Social Cognitive and Affective Neuroscience"

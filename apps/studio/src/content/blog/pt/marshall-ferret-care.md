@@ -4,7 +4,7 @@ title: "Dança de guerra do furão de Marshall e rotina de exploração de 3 pas
 description: "Cuidado do brincalhão furão de Marshall. Aprenda a responder à sua dança de guerra e mantenha a sua curiosidade ativa e a sua higiene do ouvido com o nosso guia diário de 3 passos."
 pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
-heroImage: "/images/blog/marshall_ferret_care.png"
+heroImage: "/images/blog/marshall_ferret_care.webp"
 authority: "Padrões da American Ferret Association e Diretrizes Veterinárias de Animais Exóticos"
 app: "petself"
 formatVersion: 4

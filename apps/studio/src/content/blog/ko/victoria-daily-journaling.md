@@ -5,7 +5,7 @@ description: "13세부터 사망 전까지 68년간 매일 밤 141권의 일기�
 pubDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["기록", "성찰", "자기계발"]
-heroImage: "/images/blog/victoria_daily_journaling.png"
+heroImage: "/images/blog/victoria_daily_journaling.webp"
 app: "buildself"
 authority: "영국 왕실 아카이브(Royal Archives) 빅토리아 여왕의 일기 역사 고증 및 표현적 글쓰기 신경심리학 연구"
 updatedDate: "2026-05-07"

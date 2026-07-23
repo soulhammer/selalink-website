@@ -5,7 +5,7 @@ description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit f√
 pubDate: "2026-04-15"
 category: "FreshSnap"
 tags: ["Ei","Wissenschaftlich gepr√ºfter Lagerungsratgeber","dairy"]
-heroImage: "/images/blog/egg_storage_hack.png"
+heroImage: "/images/blog/egg_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"

@@ -5,7 +5,7 @@ description: "公的安全基準に基づくぶどうの最適な保存温度、
 pubDate: "2026-07-17"
 category: "FreshSnap"
 tags: ["ぶどう","科学的に検証された保存ガイド","fruit"]
-heroImage: "/images/blog/grape_storage_hack.png"
+heroImage: "/images/blog/grape_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA)</strong>"

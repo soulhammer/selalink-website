@@ -4,7 +4,7 @@ title: "Soins des Oreilles du Holland Lop et Routine en 3 Étapes pour la Danse 
 description: "Guide complet pour le lapin Holland Lop. Prévenez les otites, décodez les sauts de joie 'Binky' et fournissez du foin de fléole à volonté sous les normes HRS."
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
-heroImage: "/images/blog/holland_lop_care.png"
+heroImage: "/images/blog/holland_lop_care.webp"
 authority: "House Rabbit Society (HRS) & AEMV Normes NAC"
 app: "petself"
 formatVersion: 4

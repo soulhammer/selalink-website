@@ -5,7 +5,7 @@ pubDate: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "BuildSelf"
 tags: ["¿Una meced","Routine"]
-heroImage: "/images/blog/kennedy_rocking_chair.png"
+heroImage: "/images/blog/kennedy_rocking_chair.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Memorias de la Dra. Janet Travell (Ortopedista de la Casa Blanca) y Archivos de la Biblioteca Presidencial de JFK"

@@ -4,7 +4,7 @@ description: "Benjamin Franklin, yang menemukan penangkal petir dan memimpin pen
 pubDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["30 Menit S","Routine"]
-heroImage: "/images/blog/franklin_air_bath.png"
+heroImage: "/images/blog/franklin_air_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografi Benjamin Franklin & New England Journal of Medicine (NEJM)"

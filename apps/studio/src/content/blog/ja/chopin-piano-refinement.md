@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["ピアノの詩人の凄まじ","Routine"]
-heroImage: "/images/blog/chopin_piano_refinement.png"
+heroImage: "/images/blog/chopin_piano_refinement.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジョルジュ・サンドの随筆「ノアンでの冬」史料およびポーランド国立ショパン研究所自筆楽譜分析"

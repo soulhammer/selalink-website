@@ -5,7 +5,7 @@ description: "아르헨티나의 대문호 보르헤스는 실명 후 머릿속�
 pubDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/borges_mental_dictation.png"
+heroImage: "/images/blog/borges_mental_dictation.webp"
 app: "buildself"
 authority: "보르헤스 전기 'Borges: A Life' 및 교차 가소성 뇌의학 연구"
 updatedDate: "2026-06-21"

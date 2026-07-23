@@ -5,7 +5,7 @@ pubDate: "2026-03-22"
 updatedDate: "2026-03-22"
 category: "BuildSelf"
 tags: ["Wochenlang","Routine"]
-heroImage: "/images/blog/michelangelo_flow.png"
+heroImage: "/images/blog/michelangelo_flow.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Giorgio Vasaris Biografie „Leben der ausgezeichnetsten Maler, Bildhauer und Architekten“ & kognitionspsychologische Theorie der Ego-Depletion"

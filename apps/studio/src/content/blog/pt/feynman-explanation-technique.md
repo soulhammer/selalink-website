@@ -5,7 +5,7 @@ pubDate: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "BuildSelf"
 tags: ["O método d","Routine"]
-heroImage: "/images/blog/feynman_explanation_technique.png"
+heroImage: "/images/blog/feynman_explanation_technique.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Obra de Richard Feynman 'Surely You're Joking, Mr. Feynman!' e Educational Psychology Review"

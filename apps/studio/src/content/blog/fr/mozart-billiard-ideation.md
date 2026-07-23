@@ -5,7 +5,7 @@ pubDate: "2026-05-01"
 updatedDate: "2026-05-01"
 category: "BuildSelf"
 tags: ["Le génie q","Routine"]
-heroImage: "/images/blog/mozart_billiard_ideation.png"
+heroImage: "/images/blog/mozart_billiard_ideation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Correspondance de Constanze Mozart et étude de l'Université de Californie à Santa Barbara (UCSB) sur le DMN (2012)"

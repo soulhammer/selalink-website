@@ -5,7 +5,7 @@ description: "조건반사의 창시자 이반 파블로프의 자극 차단 루
 pubDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/pavlov_stimulus_control.png"
+heroImage: "/images/blog/pavlov_stimulus_control.webp"
 app: "buildself"
 authority: "파블로프 전기 'Ivan Pavlov: A Russian Life in Science' 및 행동 심리학의 자극 통제 이론"
 updatedDate: "2026-02-27"

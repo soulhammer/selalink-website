@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Synthèse d","Routine"]
-heroImage: "/images/blog/emerson_walking_journal_integration.png"
+heroImage: "/images/blog/emerson_walking_journal_integration.webp"
 app: "buildself"
 formatVersion: 4
 authority: "The Journals and Miscellaneous Notebooks of Ralph Waldo Emerson de Harvard University Press et études de psychologie cognitive sur les modes de pensée alternatifs divergents et convergents"

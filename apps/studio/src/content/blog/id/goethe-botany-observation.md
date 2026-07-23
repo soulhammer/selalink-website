@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Sastrawan ","Routine"]
-heroImage: "/images/blog/goethe_botany_observation.png"
+heroImage: "/images/blog/goethe_botany_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Buku Goethe 'Metamorphosis of Plants' & Teori Pemulihan Perhatian Psikologi Lingkungan (Kaplan, 1995)"

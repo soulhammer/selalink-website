@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Management","Routine"]
-heroImage: "/images/blog/lee_morning_calligraphy.png"
+heroImage: "/images/blog/lee_morning_calligraphy.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Belege aus Chairman Lees Kalligraphien und Neuroscience Letters-Forschung zu Feinmotorik und emotionaler Stabilität"

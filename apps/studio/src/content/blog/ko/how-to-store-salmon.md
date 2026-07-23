@@ -5,7 +5,7 @@ description: "공인된 안전 가이드라인에 따른 연어의 최적 보관
 pubDate: "2026-05-02"
 category: "FreshSnap"
 tags: ["연어","과학적으로 검증된 보관 가이드","seafood"]
-heroImage: "/images/blog/salmon_storage_hack.png"
+heroImage: "/images/blog/salmon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>FDA & USDA</strong>"

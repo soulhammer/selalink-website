@@ -5,7 +5,7 @@ description: "철학자 세네카가 취침 전 어두운 방에서 하루를 �
 pubDate: "2026-02-04"
 category: "BuildSelf"
 tags: ["성찰", "저녁루틴", "평정심", "고대"]
-heroImage: "/images/blog/seneca_evening_review.png"
+heroImage: "/images/blog/seneca_evening_review.webp"
 app: "buildself"
 authority: "세네카 《분노에 대하여》 (De Ira, III.36)"
 updatedDate: "2026-02-04"

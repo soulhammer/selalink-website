@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["Licht im G","Routine"]
-heroImage: "/images/blog/turner_dawn_observation.png"
+heroImage: "/images/blog/turner_dawn_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Turners Biografie 'J.M.W. Turner' & visuell-räumliche Gedächtnisforschung"

@@ -5,7 +5,7 @@ pubDate: "2026-01-31"
 updatedDate: "2026-01-31"
 category: "BuildSelf"
 tags: ["埃尔哈特的认知控制训","Routine"]
-heroImage: "/images/blog/amelia_earhart.png"
+heroImage: "/images/blog/amelia_earhart.webp"
 app: "buildself"
 formatVersion: 4
 authority: "阿米莉亚·埃尔哈特 (Amelia Earhart)，*它的乐趣* (1932) 和认知神经科学研究"

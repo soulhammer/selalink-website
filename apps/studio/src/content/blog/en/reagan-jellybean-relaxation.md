@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Great Habits","reagan","Routine","Stamina"]
-heroImage: "/images/blog/reagan_jellybean_relaxation.png"
+heroImage: "/images/blog/reagan_jellybean_relaxation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Reagan's Biography 'President Reagan: The Role of a Lifetime' & Mastication Stress Research"

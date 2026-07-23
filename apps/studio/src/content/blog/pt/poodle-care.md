@@ -4,7 +4,7 @@ title: "Jogos mentais e cuidados com as orelhas: rotina de 3 passos para o poodl
 description: "Descubra como aliviar o tédio em poodles inteligentes com jogos mentais e prevenir infecções de ouvido com uma rotina de 3 passos."
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
-heroImage: "/images/blog/poodle_care.png"
+heroImage: "/images/blog/poodle_care.webp"
 authority: "Guia oficial de raças do American Kennel Club (AKC) e protocolos de comportamento da IAABC"
 app: "petself"
 formatVersion: 4

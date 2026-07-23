@@ -5,7 +5,7 @@ pubDate: "2026-01-25"
 updatedDate: "2026-01-25"
 category: "BuildSelf"
 tags: ["歩く脳が天才を作る？","Routine"]
-heroImage: "/images/blog/mill_classical_walk.png"
+heroImage: "/images/blog/mill_classical_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ジョン・スチュアート・ミル自伝「Autobiography」および学術誌「Nature Reviews Neuroscience」"

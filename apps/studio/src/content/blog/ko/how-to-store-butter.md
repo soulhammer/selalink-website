@@ -6,7 +6,7 @@ pubDate: "2026-06-03"
 updatedDate: "2026-06-03"
 category: "FreshSnap"
 tags: ["버터","과학적으로 검증된 보관 가이드","dairy"]
-heroImage: "/images/blog/butter_storage_hack.png"
+heroImage: "/images/blog/butter_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA</strong>"

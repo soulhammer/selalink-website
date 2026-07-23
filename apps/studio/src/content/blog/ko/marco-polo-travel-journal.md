@@ -5,7 +5,7 @@ pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/marco_polo_travel_journal.png"
+heroImage: "/images/blog/marco_polo_travel_journal.webp"
 app: "buildself"
 formatVersion: 4
 authority: "고전 'The Travels of Marco Polo' 및 전기 'Marco Polo: From Venice to Xanadu'"

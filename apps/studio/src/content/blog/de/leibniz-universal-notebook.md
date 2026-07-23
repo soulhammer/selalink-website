@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["Das Notizb","Routine"]
-heroImage: "/images/blog/leibniz_universal_notebook.png"
+heroImage: "/images/blog/leibniz_universal_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Maria Rosa Antognazzas Biografie 'Leibniz: An Intellectual Biography' und kognitive Forschung zu semantischen Netzwerken und Langzeitpotenzierung (LTP)"

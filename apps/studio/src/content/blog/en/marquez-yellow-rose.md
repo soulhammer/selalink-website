@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Great Habits","marquez","Routine","Stamina"]
-heroImage: "/images/blog/marquez_yellow_rose.png"
+heroImage: "/images/blog/marquez_yellow_rose.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Márquez's Official Biography and NYU Research on Cognitive Fusion Neurology"

@@ -5,7 +5,7 @@ pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "BuildSelf"
 tags: ["信封背面的伟大灵感？","Routine"]
-heroImage: "/images/blog/dickinson_scrap_writing.png"
+heroImage: "/images/blog/dickinson_scrap_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "哈佛大学图书馆艾米莉·狄金森珍藏与信封诗手稿目录《The Gorgeous Nothings》"

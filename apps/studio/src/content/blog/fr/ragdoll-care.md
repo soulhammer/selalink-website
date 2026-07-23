@@ -4,7 +4,7 @@ title: "Un chat qui se blottit comme une poupée ? Routine en 3 étapes pour por
 description: "Le Ragdoll, ce chat géant qui se détend comme une poupée quand on le porte. Découvrez des conseils pour protéger ses articulations et une routine en 3 étapes."
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
-heroImage: "/images/blog/ragdoll_care.png"
+heroImage: "/images/blog/ragdoll_care.webp"
 authority: "Guide des races de la Cat Fanciers' Association (CFA) et directives pour une pratique respectueuse des chats de l'AAFP"
 app: "petself"
 formatVersion: 4

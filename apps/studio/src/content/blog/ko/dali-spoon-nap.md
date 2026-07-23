@@ -5,7 +5,7 @@ description: "초현실주의 미술의 거장 살바도르 달리. 의자에 �
 pubDate: "2026-03-07"
 category: "BuildSelf"
 tags: ["위인 습관", "살바도르 달리", "창의성", "낮잠", "뇌파"]
-heroImage: "/images/blog/dali_spoon_nap.png"
+heroImage: "/images/blog/dali_spoon_nap.webp"
 app: "buildself"
 authority: "살바도르 달리 자서전 'The Secret Life of Salvador Dali' 및 Frontiers in Human Neuroscience 학술지"
 updatedDate: "2026-03-07"

@@ -5,7 +5,7 @@ pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
 category: "BuildSelf"
 tags: ["交换立场进行辩论的发","Routine"]
-heroImage: "/images/blog/wright_reverse_debate.png"
+heroImage: "/images/blog/wright_reverse_debate.webp"
 app: "buildself"
 formatVersion: 4
 authority: "莱特兄弟传记《The Wright Brothers》与《Cognitive Therapy and Research》学术研究资料"

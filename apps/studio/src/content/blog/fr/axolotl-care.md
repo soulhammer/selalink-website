@@ -4,7 +4,7 @@ title: "Signaux des Branchies de l'Axolotl et Routine en 3 Étapes en Eau Froide
 description: "Guide complet pour l'Axolotl. Décodez la courbure des branchies, maintenez une eau fraîche (16°C ~ 18°C) et évitez le gravier dangereux selon Amphibian Ark."
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
-heroImage: "/images/blog/axolotl_care.png"
+heroImage: "/images/blog/axolotl_care.webp"
 authority: "Protocoles Vétérinaires Amphibian Ark"
 app: "petself"
 formatVersion: 4

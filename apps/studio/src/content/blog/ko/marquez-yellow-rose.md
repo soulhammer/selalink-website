@@ -5,7 +5,7 @@ description: "『백년 동안의 고독』의 작가 가브리엘 가르시아 
 pubDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["위인 습관", "가브리엘 가르시아 마르케스", "창의성", "영감", "마음챙김"]
-heroImage: "/images/blog/marquez_yellow_rose.png"
+heroImage: "/images/blog/marquez_yellow_rose.webp"
 app: "buildself"
 authority: "마르케스 공식 전기 및 뉴욕 대학교(NYU) 인지 융합 신경학 연구"
 updatedDate: "2026-02-06"

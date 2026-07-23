@@ -4,7 +4,7 @@ title: "Einspeicheln des Afrikanischen Weißbauchigels und thermische 3-Schritt-
 description: "Pflege für den Afrikanischen Weißbauchigel. Verstehen Sie sein einzigartiges Verhalten des Einspeichelns mit schäumendem Speichel und halten Sie eine optimale Temperatur von 24-26 °C mit unserer winterfesten Routine."
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
-heroImage: "/images/blog/pygmy_hedgehog_care.png"
+heroImage: "/images/blog/pygmy_hedgehog_care.webp"
 authority: "Richtlinien der Hedgehog Welfare Society und Veterinär-Protokolle für exotische Kleintiere"
 app: "petself"
 formatVersion: 4

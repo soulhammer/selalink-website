@@ -4,7 +4,7 @@ title: "スフィンクス猫のための皮膚皮脂ケアと保温対策の3�
 description: "無毛種のスフィンクス。毛の代わりに皮膚に溜まる皮脂を拭き取るお手入れのコツと、寒さに弱い彼らのための防寒ケアを紹介します。"
 pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
-heroImage: "/images/blog/sphynx_care.png"
+heroImage: "/images/blog/sphynx_care.webp"
 authority: "国際猫医療学会(ISFM)皮膚科学研究データおよび被毛獣医学ガイドライン"
 app: "petself"
 formatVersion: 4

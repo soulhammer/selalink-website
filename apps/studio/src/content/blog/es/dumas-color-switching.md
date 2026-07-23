@@ -5,7 +5,7 @@ pubDate: "2026-06-07"
 updatedDate: "2026-06-07"
 category: "BuildSelf"
 tags: ["¿El genio ","Routine"]
-heroImage: "/images/blog/dumas_color_switching.png"
+heroImage: "/images/blog/dumas_color_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Memorias de Alexandre Dumas 'Mes Mémoires' y estudios de Color Research and Application"

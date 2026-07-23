@@ -5,7 +5,7 @@ pubDate: "2026-05-11"
 updatedDate: "2026-05-11"
 category: "BuildSelf"
 tags: ["¿Arar los ","Routine"]
-heroImage: "/images/blog/tolstoy_physical_labor.png"
+heroImage: "/images/blog/tolstoy_physical_labor.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Obra de Sophia Tolstoy 'The Diaries of Sophia Tolstoy' y Journal of Clinical Medicine"

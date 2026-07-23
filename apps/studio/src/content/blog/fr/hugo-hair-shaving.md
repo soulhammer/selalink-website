@@ -5,7 +5,7 @@ pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
 tags: ["Forcer la ","Routine"]
-heroImage: "/images/blog/hugo_hair_shaving.png"
+heroImage: "/images/blog/hugo_hair_shaving.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Archives biographiques de Victor Hugo & recherche en psychologie cognitive sur les contraintes environnementales et les mécanismes d'engagement"

@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["黄金时间的绝对专注：","Routine"]
-heroImage: "/images/blog/fermi_dawn_calculation_routine.png"
+heroImage: "/images/blog/fermi_dawn_calculation_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "同事埃米利奥·塞格雷的传记《物理学家费米》考证及关于认知科学的大脑皮质醇觉醒周期（CAR）与认知高峰期（Cognitive Golden Hour）工作专注效率的研究"

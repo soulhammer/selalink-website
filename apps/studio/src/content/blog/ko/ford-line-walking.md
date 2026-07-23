@@ -5,7 +5,7 @@ pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/ford_line_walking.png"
+heroImage: "/images/blog/ford_line_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "헨리 포드 자서전 'My Life and Work' 및 Neuropsychologia 학술지"

@@ -5,7 +5,7 @@ description: "根据官方食品安全指南，了解乌贼/鱿鱼的最佳储�
 pubDate: "2026-05-08"
 category: "FreshSnap"
 tags: ["乌贼/鱿鱼","科学验证的储存指南","seafood"]
-heroImage: "/images/blog/squid_storage_hack.png"
+heroImage: "/images/blog/squid_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国国立水产科学部(NIFS) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"

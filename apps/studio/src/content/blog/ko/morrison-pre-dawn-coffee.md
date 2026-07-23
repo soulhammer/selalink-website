@@ -5,7 +5,7 @@ description: "노벨 문학상 수상 작가 토니 모리슨. 매일 새벽 5�
 pubDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/morrison_pre_dawn_coffee.png"
+heroImage: "/images/blog/morrison_pre_dawn_coffee.webp"
 app: "buildself"
 authority: "파리 리뷰 작가 인터뷰 'Toni Morrison' 및 생체리듬학 저널 연구 자료"
 updatedDate: "2026-02-27"

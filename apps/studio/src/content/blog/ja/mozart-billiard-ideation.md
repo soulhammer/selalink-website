@@ -5,7 +5,7 @@ pubDate: "2026-05-01"
 updatedDate: "2026-05-01"
 category: "BuildSelf"
 tags: ["作曲が行き詰まった時","Routine"]
-heroImage: "/images/blog/mozart_billiard_ideation.png"
+heroImage: "/images/blog/mozart_billiard_ideation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "コンスタンツェ・モーツァルト書簡集 ＆ カリフォルニア大学サンタバーバラ校(UCSB)のDMN研究(2012)"

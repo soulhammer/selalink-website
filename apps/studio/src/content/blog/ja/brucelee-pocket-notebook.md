@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["一瞬のインスピレーシ","Routine"]
-heroImage: "/images/blog/brucelee_pocket_notebook.png"
+heroImage: "/images/blog/brucelee_pocket_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ブルース・リーのアーカイブ「アーティスト・オブ・ライフ」と認知技術の研究"

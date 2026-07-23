@@ -5,7 +5,7 @@ pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
 tags: ["極限のストレスを洗い","Routine"]
-heroImage: "/images/blog/yisunshin_war_diary.png"
+heroImage: "/images/blog/yisunshin_war_diary.webp"
 app: "buildself"
 formatVersion: 4
 authority: "李舜臣「乱中日記」および学術誌「Journal of Experimental Psychology」"

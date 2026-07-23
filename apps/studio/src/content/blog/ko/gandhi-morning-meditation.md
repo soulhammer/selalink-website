@@ -5,7 +5,7 @@ description: "인도의 위대한 평화 운동가 마하트마 간디. 매일 �
 pubDate: "2026-03-23"
 category: "BuildSelf"
 tags: ["위인 습관", "마하트마 간디", "아침 루틴", "명상", "스트레스 완화"]
-heroImage: "/images/blog/gandhi_morning_meditation.png"
+heroImage: "/images/blog/gandhi_morning_meditation.webp"
 app: "buildself"
 authority: "마하트마 간디 자서전 'My Experiments with Truth' 및 American Journal of Health Promotion 학술지"
 updatedDate: "2026-03-23"

@@ -4,7 +4,7 @@ title: "우파루파의 깃털 아가미 신호와 수온 관리를 위한 3단�
 description: "신비로운 멕시코 도롱뇽 우파루파(Axolotl). 깃털 아가미(External Gills) 컬링 자극 신호와 저수온(16°C ~ 18°C) 유지, 피부 보호 3단계 케어."
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
-heroImage: "/images/blog/axolotl_care.png"
+heroImage: "/images/blog/axolotl_care.webp"
 authority: "International Amphibian Husbandry & Amphibian Ark Veterinary Care Protocol"
 app: "petself"
 formatVersion: 4

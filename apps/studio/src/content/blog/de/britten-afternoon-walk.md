@@ -5,7 +5,7 @@ pubDate: "2026-04-22"
 updatedDate: "2026-04-22"
 category: "BuildSelf"
 tags: ["Der Kompon","Routine"]
-heroImage: "/images/blog/britten_afternoon_walk.png"
+heroImage: "/images/blog/britten_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Humphrey Carpenters 'Benjamin Britten: A Biography' & Fachzeitschrift Frontiers in Human Neuroscience"

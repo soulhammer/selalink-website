@@ -4,7 +4,7 @@ description: "Descubra la mejor temperatura, métodos y duración para conservar
 pubDate: "2026-06-09"
 category: "FreshSnap"
 tags: ["Sandía","Guía de almacenamiento científicamente probada","fruit"]
-heroImage: "/images/blog/watermelon_storage_hack.png"
+heroImage: "/images/blog/watermelon_storage_hack.webp"
 app: "freshsnap"
 authority: "<strong>KCA & MFDS</strong>"
 steps:
@@ -51,7 +51,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
     Cubrir la mitad de una sandía con film plástico crea un sello húmedo que multiplica las bacterias rápidamente, aumentando el riesgo de intoxicación. Nunca guarde la sandía solo con film.
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/watermelon_storage_detail.png" alt="Nunca cubra con film plástico directo — Evite intoxicaciones ❌🍉" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/watermelon_storage_detail.webp" alt="Nunca cubra con film plástico directo — Evite intoxicaciones ❌🍉" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

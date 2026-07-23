@@ -4,7 +4,7 @@ title: "アメリカン・ショートヘアの心臓＆体重ケア：HCM予防
 description: "アメリカン・ショートヘアは頑丈ですが肥満になりやすく、肥大性心筋症（HCM）の遺伝的リスクがあります。食事管理と運動を組み合わせた3段階ケアを紹介します。"
 pubDate: "2026-03-02"
 updatedDate: "2026-03-02"
-heroImage: "/images/blog/american_shorthair_care.png"
+heroImage: "/images/blog/american_shorthair_care.webp"
 authority: "CFAアメリカン・ショートヘア基準＆コーネル大学獣医学部研究"
 app: "petself"
 formatVersion: 4

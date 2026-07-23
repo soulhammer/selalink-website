@@ -5,7 +5,7 @@ pubDate: "2026-05-22"
 updatedDate: "2026-05-22"
 category: "BuildSelf"
 tags: ["マルクス・アウレリウ","Routine"]
-heroImage: "/images/blog/marcus_aurelius_morning_journaling.png"
+heroImage: "/images/blog/marcus_aurelius_morning_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "マルクス・アウレリウス『自省録』 / ジャーナリングがもたらす認知行動療法（CBT）的効果に関する脳認知研究"

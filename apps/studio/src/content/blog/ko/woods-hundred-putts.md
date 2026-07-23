@@ -5,7 +5,7 @@ description: "골프 황제 타이거 우즈가 훈련 전 수행한 '100회 연
 pubDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["위인 습관", "타이거 우즈", "몰입", "집중", "성공습관"]
-heroImage: "/images/blog/woods_hundred_putts.png"
+heroImage: "/images/blog/woods_hundred_putts.webp"
 app: "buildself"
 authority: "타이거 우즈 공식 훈련 지도서 및 행동의사결정학회지(JDM) 한계치 목표 성취 연구"
 updatedDate: "2026-04-01"

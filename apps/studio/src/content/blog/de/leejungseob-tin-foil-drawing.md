@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Fokus über","Routine"]
-heroImage: "/images/blog/leejungseob_tin_foil_drawing.png"
+heroImage: "/images/blog/leejungseob_tin_foil_drawing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Lee Jung-seobs Alufolienzeichnungen im MoMA & Forschung zur emotionalen Entspannung durch taktil-visuelle assoziative Stimulation"

@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Great Habits","woods","Routine","Stamina"]
-heroImage: "/images/blog/woods_hundred_putts.png"
+heroImage: "/images/blog/woods_hundred_putts.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Tiger Woods's Official Training Manual and Journal of Behavioral Decision Making (JDM) Research on Target Achievement"

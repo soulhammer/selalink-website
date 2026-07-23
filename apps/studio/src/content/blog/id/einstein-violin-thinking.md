@@ -5,7 +5,7 @@ pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "BuildSelf"
 tags: ["Sang Geniu","Routine"]
-heroImage: "/images/blog/einstein_violin_thinking.png"
+heroImage: "/images/blog/einstein_violin_thinking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi Albert Einstein 'Einstein: A Life' & Jurnal Frontiers in Psychology"

@@ -4,7 +4,7 @@ title: "British Shorthair Weight Care: A 3-Step Routine for HCM and Obesity Prev
 description: "British Shorthairs are loved for their chunky build. Discover a 3-step diet and lifestyle routine to prevent obesity, which stresses their bones and genetic HCM risk."
 pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
-heroImage: "/images/blog/bshorthair_care.png"
+heroImage: "/images/blog/bshorthair_care.webp"
 authority: "GCCF Breed Standards for British Shorthairs & AAFP Feline Obesity Guidelines"
 app: "petself"
 formatVersion: 4

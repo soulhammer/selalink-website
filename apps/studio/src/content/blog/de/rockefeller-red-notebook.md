@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["Der Ölköni","Routine"]
-heroImage: "/images/blog/rockefeller_red_notebook.png"
+heroImage: "/images/blog/rockefeller_red_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "John D. Rockefellers Biografie 'Titan' & Fachzeitschrift Behavioral and Brain Sciences"

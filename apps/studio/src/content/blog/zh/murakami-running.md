@@ -5,7 +5,7 @@ pubDate: "2026-06-26"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["每天早晨跑步10公里","Routine"]
-heroImage: "/images/blog/murakami_running.png"
+heroImage: "/images/blog/murakami_running.webp"
 app: "buildself"
 formatVersion: 4
 authority: "村上春树著《当我谈跑步时我谈些什么》及 Frontiers in Psychology 运动认知研究"

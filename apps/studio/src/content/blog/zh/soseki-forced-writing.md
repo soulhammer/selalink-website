@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["战胜倦怠与低谷的强制","Routine"]
-heroImage: "/images/blog/soseki_forced_writing.png"
+heroImage: "/images/blog/soseki_forced_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "夏目漱石书信与门生回忆录，以及埃米尔·克雷佩林关于“作业兴奋”的理论研究"

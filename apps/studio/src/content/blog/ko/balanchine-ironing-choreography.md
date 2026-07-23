@@ -5,7 +5,7 @@ description: "안무 영감이 막힐 때 다림질이나 빨래 등 단순 반�
 pubDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["위인 습관", "조지 발란신", "창의성", "사색", "이완", "루틴"]
-heroImage: "/images/blog/balanchine_ironing_choreography.png"
+heroImage: "/images/blog/balanchine_ironing_choreography.webp"
 app: "buildself"
 authority: "조지 발란신 전기 『발란신』 및 신경과학계의 단순 운동(Monotonous Motor Task)과 디폴트 모드 네트워크(DMN) 활성화에 기반한 창의적 부화 연구"
 updatedDate: "2026-04-01"

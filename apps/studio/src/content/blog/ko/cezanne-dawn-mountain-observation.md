@@ -5,7 +5,7 @@ description: "매일 새벽 6시 생트빅투아르 산을 향해 걸으며 빛�
 pubDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["사색", "휴식", "창의성"]
-heroImage: "/images/blog/cezanne_dawn_mountain_observation.png"
+heroImage: "/images/blog/cezanne_dawn_mountain_observation.webp"
 app: "buildself"
 authority: "요아킴 가스케의 회고록 『세잔 평전』 고증 및 아침 블루라이트 노출이 대뇌 교차상핵(SCN) 각성 및 인지 활성에 미치는 환경생리학 연구 자료"
 updatedDate: "2026-04-06"

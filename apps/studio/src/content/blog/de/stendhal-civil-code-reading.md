@@ -5,7 +5,7 @@ pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Trockenes ","Routine"]
-heroImage: "/images/blog/stendhal_civil_code_reading.png"
+heroImage: "/images/blog/stendhal_civil_code_reading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Stendhals Brief an Balzac und kognitionspsychologische Forschung zu Priming-Effekten und struktureller Textstimulation auf die objektive Rationalität"

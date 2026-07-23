@@ -6,7 +6,7 @@ pubDate: "2026-06-06"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["위인 습관", "버지니아 울프", "스탠딩데스크", "집중력", "생산성"]
-heroImage: "/images/blog/woolf_standing_desk.png"
+heroImage: "/images/blog/woolf_standing_desk.webp"
 app: "buildself"
 authority: "버지니아 울프 일기 및 Applied Ergonomics 스탠딩 데스크 연구"
 ---

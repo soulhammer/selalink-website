@@ -5,7 +5,7 @@ pubDate: "2026-04-11"
 updatedDate: "2026-04-11"
 category: "BuildSelf"
 tags: ["Como domin","Routine"]
-heroImage: "/images/blog/louis_time_blocking.png"
+heroImage: "/images/blog/louis_time_blocking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Memórias de Luís XIV & revista Journal of Consumer Research"

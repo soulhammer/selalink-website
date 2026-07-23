@@ -5,7 +5,7 @@ pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "BuildSelf"
 tags: ["路上で見知らぬ人の足","Routine"]
-heroImage: "/images/blog/charlie_chaplin.png"
+heroImage: "/images/blog/charlie_chaplin.webp"
 app: "buildself"
 formatVersion: 4
 authority: "チャーリー・チャップリン、*私の自伝* (1964) & 認知神経科学研究"

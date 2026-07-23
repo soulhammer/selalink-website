@@ -5,7 +5,7 @@ pubDate: "2026-01-24"
 updatedDate: "2026-01-24"
 category: "BuildSelf"
 tags: ["毎朝4時間、家族のア","Routine"]
-heroImage: "/images/blog/mann_strict_schedule.png"
+heroImage: "/images/blog/mann_strict_schedule.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ドナルド・プレイター「トーマス・マン評伝」およびカル・ニューポート「ディープワーク（Deep Work）」"

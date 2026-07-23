@@ -5,7 +5,7 @@ pubDate: "2026-06-11"
 updatedDate: "2026-06-11"
 category: "BuildSelf"
 tags: ["Os caderno","Routine"]
-heroImage: "/images/blog/erasmus_notebook_travel.png"
+heroImage: "/images/blog/erasmus_notebook_travel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Erasmo, Elogio da Loucura / Estudo sobre ondas cerebrais alfa e flexibilidade cognitiva em movimento"

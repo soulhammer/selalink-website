@@ -5,7 +5,7 @@ pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "BuildSelf"
 tags: ["A rotina i","Routine"]
-heroImage: "/images/blog/schubert.png"
+heroImage: "/images/blog/schubert.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Otto Erich Deutsch, *Schubert: A Documentary Biography* (1946) & Cognitive Neuroscientific Studies"

@@ -4,7 +4,7 @@ title: "Zwergspitz Gelenk- und Atemwegsschutz: Eine 3-Schritte-Routine"
 description: "Zwergspitze sind anfällig für Patellaluxation und Trachealkollaps. Erfahren Sie Tipps zur Gelenkvorsorge und Entlastung der Atemwege mit einer 3-Schritte-Routine."
 pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
-heroImage: "/images/blog/pomeranian_care.png"
+heroImage: "/images/blog/pomeranian_care.webp"
 authority: "Offizieller Rasseführer des American Pomeranian Clubs & Tierärztliches Handbuch der AVMA"
 app: "petself"
 formatVersion: 4

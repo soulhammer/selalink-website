@@ -4,7 +4,7 @@ title: "A Cat That Hugs Like a Doll? Ragdoll's Safe Holding and 3-Step Joint Hom
 description: "Ragdolls, the giant fluffy cats that go limp like dolls when held. Learn tips to protect their large frame joints and a 3-step home care routine for safe holding."
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
-heroImage: "/images/blog/ragdoll_care.png"
+heroImage: "/images/blog/ragdoll_care.webp"
 authority: "Official Cat Fanciers' Association (CFA) Breed Guide & AAFP Cat Friendly Practice Guidelines"
 app: "petself"
 formatVersion: 4

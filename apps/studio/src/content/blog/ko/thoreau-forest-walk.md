@@ -5,7 +5,7 @@ description: "월든 호숫가를 매일 4시간씩 걸으며 관찰하고 기�
 pubDate: "2026-04-30"
 category: "BuildSelf"
 tags: ["위인 습관", "사색"]
-heroImage: "/images/blog/thoreau_forest_walk.png"
+heroImage: "/images/blog/thoreau_forest_walk.webp"
 app: "buildself"
 authority: "헨리 데이비드 소로의 저서 '월든' 및 주의력 회복 이론(ART) 관련 인지과학 연구"
 updatedDate: "2026-04-30"

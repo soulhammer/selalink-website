@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Great Habits","wittgenstein","Routine","Stamina"]
-heroImage: "/images/blog/wittgenstein_movie_detox.png"
+heroImage: "/images/blog/wittgenstein_movie_detox.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Ray Monk's biography 'Ludwig Wittgenstein' and cognitive psychology research on attentional distraction and the Incubation Effect"

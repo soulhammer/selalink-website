@@ -5,7 +5,7 @@ pubDate: "2026-07-07"
 updatedDate: "2026-07-07"
 category: "BuildSelf"
 tags: ["Jalan-jala","Routine"]
-heroImage: "/images/blog/shelley_cemetery_walk.png"
+heroImage: "/images/blog/shelley_cemetery_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Jurnal Mary Shelley & Psikologi Lingkungan tentang Rasa Khidmat dan Refleksi"

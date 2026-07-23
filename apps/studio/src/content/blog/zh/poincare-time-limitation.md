@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["天才数学家的答案是在","Routine"]
-heroImage: "/images/blog/poincare_time_limitation.png"
+heroImage: "/images/blog/poincare_time_limitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "昂利·庞加莱著作《科学与方法》与认知学习科学的发散模式研究"

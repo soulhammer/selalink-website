@@ -5,7 +5,7 @@ pubDate: "2026-04-04"
 updatedDate: "2026-04-04"
 category: "BuildSelf"
 tags: ["自宅でも正装で作曲？","Routine"]
-heroImage: "/images/blog/haydn_formal_dressing.png"
+heroImage: "/images/blog/haydn_formal_dressing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "グリージンガーの伝記記録および被服認知に関する実験心理学研究"

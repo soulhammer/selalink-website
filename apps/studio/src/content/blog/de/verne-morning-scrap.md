@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Das Wissen","Routine"]
-heroImage: "/images/blog/verne_morning_scrap.png"
+heroImage: "/images/blog/verne_morning_scrap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Jules Vernes Biografie 'Jules Verne: Inventor of Science Fiction' & kognitive Abruftheorie"

@@ -4,7 +4,7 @@ title: "Französische Bulldogge Atemwegs- und Hitzepflege: 3-Schritte-Routine f�
 description: "Französische Bulldoggen neigen aufgrund ihres flachen Gesichts zu Atemnot und Hitzschlag. Lernen Sie eine Routine zur Pflege von Falten, Atmung und Gelenken kennen."
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
-heroImage: "/images/blog/french_bulldog_care.png"
+heroImage: "/images/blog/french_bulldog_care.webp"
 authority: "Offizieller AKC-Ratgeber zur Haltung von Französischen Bulldoggen"
 app: "petself"
 formatVersion: 4

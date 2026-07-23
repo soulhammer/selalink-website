@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Construire","Routine"]
-heroImage: "/images/blog/roosevelt_my_day_column.png"
+heroImage: "/images/blog/roosevelt_my_day_column.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Chroniques d'Eleanor Roosevelt « Ma journée » et Journal of Experimental Psychology"

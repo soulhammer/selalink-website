@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["Aislamient","Routine"]
-heroImage: "/images/blog/shaw_rotating_hut_focus.png"
+heroImage: "/images/blog/shaw_rotating_hut_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Registros de preservación del sitio histórico Shaw's Corner e investigación de psicología ambiental sobre la exposición a la luz solar, el aislamiento cognitivo y la reducción de la interrupción de la atención"

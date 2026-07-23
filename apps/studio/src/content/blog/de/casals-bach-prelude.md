@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Stimmung d","Routine"]
-heroImage: "/images/blog/casals_bach_prelude.png"
+heroImage: "/images/blog/casals_bach_prelude.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Pablo Casals' Autobiografie ‚Licht und Schatten auf einem langen Weg‘ (Joys and Sorrows) und neuroästhetische Forschung zur präfrontalen Alphawellen-Induktion durch Musik"

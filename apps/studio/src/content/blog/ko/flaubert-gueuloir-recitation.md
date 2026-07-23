@@ -5,7 +5,7 @@ description: "일물일어설을 지향하며 단어 하나도 허투루 쓰지 
 pubDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["글쓰기", "창의성", "기록"]
-heroImage: "/images/blog/flaubert_gueuloir_recitation.png"
+heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
 app: "buildself"
 authority: "플로베르 서한집 고증 및 언어심리학 분야의 이중 부호화 이론(Dual-Coding Theory)과 청각 피드백 루프의 오류 수정 메커니즘 분석 자료"
 updatedDate: "2026-01-20"

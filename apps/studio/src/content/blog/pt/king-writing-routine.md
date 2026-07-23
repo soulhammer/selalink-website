@@ -5,7 +5,7 @@ pubDate: "2026-05-18"
 updatedDate: "2026-05-18"
 category: "BuildSelf"
 tags: ["Como domar","Routine"]
-heroImage: "/images/blog/king_writing_routine.png"
+heroImage: "/images/blog/king_writing_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Memórias de Stephen King 'On Writing' e pesquisa em neurociência sobre aprendizagem sensorio-motora"

@@ -5,7 +5,7 @@ pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
 tags: ["将数学公式画成图画的","Routine"]
-heroImage: "/images/blog/lovelace_visual_mapping.png"
+heroImage: "/images/blog/lovelace_visual_mapping.webp"
 app: "buildself"
 formatVersion: 4
 authority: "洛夫莱斯传记《Ada's Algorithm》与双重编码理论相关教育心理学研究"

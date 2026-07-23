@@ -4,7 +4,7 @@ title: "Perawatan Bulu Indah Yorkshire Terrier dan 3 Langkah Pencegahan Dislokas
 description: "Cara menyikat bulu Yorkshire Terrier agar tetap berkilau and melatih otot kaki untuk mencegah dislokasi patela."
 pubDate: "2026-01-02"
 updatedDate: "2026-01-02"
-heroImage: "/images/blog/yorkshire_care.png"
+heroImage: "/images/blog/yorkshire_care.webp"
 authority: "Pedoman Yorkshire Terrier Club (YTC) & Ortopedi Veteriner"
 app: "petself"
 formatVersion: 4

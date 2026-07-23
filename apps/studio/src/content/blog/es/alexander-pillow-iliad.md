@@ -5,7 +5,7 @@ pubDate: "2026-01-23"
 updatedDate: "2026-01-23"
 category: "BuildSelf"
 tags: ["La 'Ilíada","Routine"]
-heroImage: "/images/blog/alexander_pillow_iliad.png"
+heroImage: "/images/blog/alexander_pillow_iliad.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Vidas de Plutarco y Anábasis de Alejandro de Arriano"

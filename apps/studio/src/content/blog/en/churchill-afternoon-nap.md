@@ -5,7 +5,7 @@ pubDate: "2026-04-24"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Great Habits","churchill","Routine","Stamina"]
-heroImage: "/images/blog/churchill_afternoon_nap.png"
+heroImage: "/images/blog/churchill_afternoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Winston Churchill's 'The Second World War' & NASA Astronaut Power Nap Study"

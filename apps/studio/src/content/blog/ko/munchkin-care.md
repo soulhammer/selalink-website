@@ -4,7 +4,7 @@ title: "먼치킨 고양이 관절 보호 가이드와 저지대 3단계 일상 
 description: "다리가 짧은 먼치킨 고양이 케어법. 관절 이상 신호를 감지하고 저지대 일상 루틴으로 관절염과 척추 디스크를 예방하는 법을 알아봅니다."
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
-heroImage: "/images/blog/munchkin_care.png"
+heroImage: "/images/blog/munchkin_care.webp"
 authority: "국제고양이애호가협회(CFA) 먼치킨 품종 표준 및 수의 정형외과 가이드라인"
 app: "petself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "Nikola Tesla, o gênio inventor que contraía os dedos dos pés to
 pubDate: "2026-04-28"
 category: "BuildSelf"
 tags: ["O gênio qu","Routine"]
-heroImage: "/images/blog/tesla_toe_curling.png"
+heroImage: "/images/blog/tesla_toe_curling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "A Autobiografia de Nikola Tesla 'My Inventions' & Journal of Physical Therapy Science (JPTS)"

@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/rosalind_franklin_diffraction_focus.png"
+heroImage: "/images/blog/rosalind_franklin_diffraction_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "브렌다 매독스 전기 'Rosalind Franklin: The Dark Lady of DNA' 및 킹스 콜리지 아카이브"

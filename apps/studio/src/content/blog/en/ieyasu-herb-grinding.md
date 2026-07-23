@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Great Habits","ieyasu","Routine","Stamina"]
-heroImage: "/images/blog/ieyasu_herb_grinding.png"
+heroImage: "/images/blog/ieyasu_herb_grinding.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical documents on Tokugawa Ieyasu's herb collection & Research on Rhythmic Motor Activity and Serotonin Neuromodulation"

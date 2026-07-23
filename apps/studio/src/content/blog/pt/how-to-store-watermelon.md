@@ -4,7 +4,7 @@ description: "Descubra la mejor temperatura, métodos y duración de armazenamen
 pubDate: "2026-06-09"
 category: "FreshSnap"
 tags: ["Melancia","Guia de armazenamento comprovado cientificamente","fruit"]
-heroImage: "/images/blog/watermelon_storage_hack.png"
+heroImage: "/images/blog/watermelon_storage_hack.webp"
 app: "freshsnap"
 authority: "<strong>KCA & MFDS</strong>"
 steps:
@@ -51,7 +51,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
     Cobrir uma melancia cortada diretamente com filme plástico gera umidade que multiplica as bactérias em milhares de vezes, aumentando o risco de infecção. Nunca guarde apenas com filme plástico.
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/watermelon_storage_detail.png" alt="Nunca cubra com filme plástico direto — Evite infecção alimentar ❌🍉" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/watermelon_storage_detail.webp" alt="Nunca cubra com filme plástico direto — Evite infecção alimentar ❌🍉" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

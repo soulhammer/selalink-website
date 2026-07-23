@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Great Habits","emerson","Routine","Stamina"]
-heroImage: "/images/blog/emerson_walking_journal_integration.png"
+heroImage: "/images/blog/emerson_walking_journal_integration.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Harvard University Press's The Journals and Miscellaneous Notebooks of Ralph Waldo Emerson and Cognitive Psychology Studies on Alternating Divergent and Convergent Thinking Modes"

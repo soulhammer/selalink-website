@@ -4,7 +4,7 @@ description: "¿Sus manzanas se ablandan rápido o dañan otras frutas? Descubra
 pubDate: "2026-03-11"
 category: "FreshSnap"
 tags: ["Conservar Manzanas", "Cuidado de Frutas", "Gas Etileno", "Consejos de Frescura", "Trucos de Cocina"]
-heroImage: "/images/blog/apple_storage_hack.png"
+heroImage: "/images/blog/apple_storage_hack.webp"
 app: "freshsnap"
 faqs:
   - question: "¿Está bien envolver y almacenar manzanas golpeadas?"
@@ -67,7 +67,7 @@ Por lo tanto, la clave para un almacenamiento exitoso de las manzanas es evitar 
     💡 <strong>Consejo de conservación</strong>: Envuelva bien cada manzana sin lavar con papel film transparente de cocina (o bolsas de plástico individuales). El envoltorio retiene la humedad natural de la manzana para mantener su textura crujiente y actúa como una barrera primaria para evitar la fuga de gas etileno.
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/apple_storage_detail.png" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/apple_storage_detail.webp" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

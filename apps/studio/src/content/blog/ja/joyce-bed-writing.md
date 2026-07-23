@@ -5,7 +5,7 @@ pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "BuildSelf"
 tags: ["ベッドで青い色鉛筆で","Routine"]
-heroImage: "/images/blog/joyce_bed_writing.png"
+heroImage: "/images/blog/joyce_bed_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "リチャード・エルマンのジェイムズ・ジョイス伝記およびコントラスト感度に関する医学研究"

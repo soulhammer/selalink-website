@@ -5,7 +5,7 @@ pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
 tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/vermeer_camera_obscura_light.png"
+heroImage: "/images/blog/vermeer_camera_obscura_light.webp"
 app: "buildself"
 formatVersion: 4
 authority: "메트로폴리탄 미술관 'Vermeer and the Delft School' 및 필립 스테드먼 연구서"

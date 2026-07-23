@@ -5,7 +5,7 @@ pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
 tags: ["生産ラインを歩きなが","Routine"]
-heroImage: "/images/blog/ford_line_walking.png"
+heroImage: "/images/blog/ford_line_walking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "フォード自伝「My Life and Work」および学術誌「Neuropsychologia」"

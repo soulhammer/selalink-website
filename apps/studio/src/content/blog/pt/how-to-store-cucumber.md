@@ -5,7 +5,7 @@ description: "Descubra la mejor temperatura, métodos y duración de armazenamen
 pubDate: "2026-01-22"
 category: "FreshSnap"
 tags: ["Pepino","Guia de armazenamento comprovado cientificamente","vegetable"]
-heroImage: "/images/blog/cucumber_storage_hack.png"
+heroImage: "/images/blog/cucumber_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"

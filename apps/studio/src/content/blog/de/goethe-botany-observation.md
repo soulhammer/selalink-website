@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Der große ","Routine"]
-heroImage: "/images/blog/goethe_botany_observation.png"
+heroImage: "/images/blog/goethe_botany_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Goethes 'Die Metamorphose der Pflanzen' & Attention Restoration Theory der Umweltpsychologie (Kaplan, 1995)"

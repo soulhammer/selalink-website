@@ -5,7 +5,7 @@ pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
 tags: ["Senecas ab","Routine"]
-heroImage: "/images/blog/seneca_evening_review.png"
+heroImage: "/images/blog/seneca_evening_review.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Seneca, De Ira (Über den Zorn, III.36) / Forschung zu vegetativem Nervensystem und abendlicher Reflexion"

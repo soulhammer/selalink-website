@@ -5,7 +5,7 @@ pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
 tags: ["重塑欧洲格局的铁血宰","Routine"]
-heroImage: "/images/blog/bismarck_morning_ride_priority.png"
+heroImage: "/images/blog/bismarck_morning_ride_priority.webp"
 app: "buildself"
 formatVersion: 4
 authority: "俾斯麦回忆录《Gedanken und Erinnerungen》与历史传记史料"

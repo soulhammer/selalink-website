@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["Meditasi p","Routine"]
-heroImage: "/images/blog/senna_pre_race_visualization.png"
+heroImage: "/images/blog/senna_pre_race_visualization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Wawancara Ayrton Senna dan Riset Kognitif tentang Latihan Mental, Citra Motorik, dan Aktivasi Area Motorik Tambahan (SMA)"

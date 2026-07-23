@@ -5,7 +5,7 @@ pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "BuildSelf"
 tags: ["La rutina ","Routine"]
-heroImage: "/images/blog/charlie_chaplin.png"
+heroImage: "/images/blog/charlie_chaplin.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Charlie Chaplin, *Mi autobiografía* (1964) y estudios neurocientíficos cognitivos"

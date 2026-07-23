@@ -5,7 +5,7 @@ description: "러시아 최고의 작곡가 표트르 차이코프스키가 매�
 pubDate: "2026-06-01"
 category: "BuildSelf"
 tags: ["위인 습관", "차이코프스키", "걷기", "사색", "산책"]
-heroImage: "/images/blog/tchaikovsky_two_hour_walk.png"
+heroImage: "/images/blog/tchaikovsky_two_hour_walk.webp"
 app: "buildself"
 authority: "차이코프스키 전기 자료 및 Frontiers in Neuroscience 뇌과학 산책 연구"
 ---

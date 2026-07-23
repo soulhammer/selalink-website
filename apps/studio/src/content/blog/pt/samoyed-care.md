@@ -4,7 +4,7 @@ title: "Cuidado da Pelagem Dupla e Quadril do Samoieda: Rotina de 3 passos para 
 description: "Samoiedas são propensos a displasia de quadril e dermatites sob a pelagem densa. Conheça a rotina para manter pelos e articulações saudáveis."
 pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
-heroImage: "/images/blog/samoyed_care.png"
+heroImage: "/images/blog/samoyed_care.webp"
 authority: "Diretrizes de raça do Samoieda do AKC e orientações da OFA"
 app: "petself"
 formatVersion: 4

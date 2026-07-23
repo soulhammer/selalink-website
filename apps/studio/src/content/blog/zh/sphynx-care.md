@@ -4,7 +4,7 @@ title: "无毛斯芬克斯猫的皮肤油脂清理与体温保暖3步骤家庭�
 description: "清理 Sphynx 皮肤油脂与温控常规。"
 pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
-heroImage: "/images/blog/sphynx_care.png"
+heroImage: "/images/blog/sphynx_care.webp"
 authority: "国际猫科医学学会(ISFM)皮肤与被毛护理指南"
 app: "petself"
 formatVersion: 4

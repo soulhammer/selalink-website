@@ -5,7 +5,7 @@ pubDate: "2026-03-28"
 updatedDate: "2026-03-28"
 category: "BuildSelf"
 tags: ["总统办公室里的单人纸","Routine"]
-heroImage: "/images/blog/degaulle_solitaire_refresh.png"
+heroImage: "/images/blog/degaulle_solitaire_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "夏尔·戴高乐战争回忆录《War Memoirs》与学术期刊《Journal of Behavioral Medicine》"

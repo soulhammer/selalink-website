@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["揺るぎない自律性の確","Routine"]
-heroImage: "/images/blog/yiyi_self_warning.png"
+heroImage: "/images/blog/yiyi_self_warning.webp"
 app: "buildself"
 formatVersion: 4
 authority: "栗谷李珥の著書『自警文』の歴史的記録および自己参照効果（Self-Reference Effect）に関する認知科学研究"

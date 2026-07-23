@@ -4,7 +4,7 @@ title: "Caring for Siamese Anxiety and Activity: A 3-Step Daily Routine"
 description: "Siamese cats are highly dependent on owners and prone to separation anxiety. Discover emotional bonding tips and a 3-step active play routine to manage their stress."
 pubDate: "2026-02-19"
 updatedDate: "2026-02-19"
-heroImage: "/images/blog/siamese_care.png"
+heroImage: "/images/blog/siamese_care.webp"
 authority: "Cat Fanciers' Association (CFA) Official Breed Guide & AAFP Feline Behavioral Protocols"
 app: "petself"
 formatVersion: 4

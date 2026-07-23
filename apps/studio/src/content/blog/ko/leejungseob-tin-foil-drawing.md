@@ -5,7 +5,7 @@ description: "화가 이중섭이 극한의 빈곤 속에서도 담뱃갑 은박
 pubDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["위인 습관", "이중섭", "은지화 드로잉", "몰입 루틴", "촉각 자극", "마인드풀니스"]
-heroImage: "/images/blog/leejungseob_tin_foil_drawing.png"
+heroImage: "/images/blog/leejungseob_tin_foil_drawing.webp"
 app: "buildself"
 authority: "이중섭의 뉴욕 현대미술관(MoMA) 소장 은지화 유작 역사적 사실 및 촉각-시각 연합 자극을 통한 정서 이완 연구"
 updatedDate: "2026-03-14"

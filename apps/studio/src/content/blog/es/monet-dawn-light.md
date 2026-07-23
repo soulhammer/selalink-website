@@ -5,7 +5,7 @@ pubDate: "2026-03-31"
 updatedDate: "2026-03-31"
 category: "BuildSelf"
 tags: ["¿El maestr","Routine"]
-heroImage: "/images/blog/monet_dawn_light.png"
+heroImage: "/images/blog/monet_dawn_light.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Correspondencia de Claude Monet 'Letters of Claude Monet' y revista Science"

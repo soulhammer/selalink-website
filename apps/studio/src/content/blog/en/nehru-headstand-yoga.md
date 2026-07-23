@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Great Habits","nehru","Routine","Stamina"]
-heroImage: "/images/blog/nehru_headstand_yoga.png"
+heroImage: "/images/blog/nehru_headstand_yoga.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Nehru's 'An Autobiography' & Journal of Alternative and Complementary Medicine"

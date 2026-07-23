@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Gestão da ","Routine"]
-heroImage: "/images/blog/zuckerberg_uniform_minimization.png"
+heroImage: "/images/blog/zuckerberg_uniform_minimization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autenticação das declarações de Mark Zuckerberg no Townhall do Meta e pesquisas de Roy Baumeister sobre a teoria da depleção do ego"

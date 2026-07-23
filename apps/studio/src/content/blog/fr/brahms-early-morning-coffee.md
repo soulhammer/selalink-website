@@ -5,7 +5,7 @@ pubDate: "2026-06-13"
 updatedDate: "2026-06-13"
 category: "BuildSelf"
 tags: ["L'harmonie","Routine"]
-heroImage: "/images/blog/brahms_early_morning_coffee.png"
+heroImage: "/images/blog/brahms_early_morning_coffee.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie de Johannes Brahms par Jan Swafford & revue Nature Neuroscience"

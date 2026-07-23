@@ -5,7 +5,7 @@ pubDate: "2026-06-04"
 updatedDate: "2026-06-04"
 category: "BuildSelf"
 tags: ["岩に勅令を刻み自省し","Routine"]
-heroImage: "/images/blog/ashoka_edict_inscribed_reflection.png"
+heroImage: "/images/blog/ashoka_edict_inscribed_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ロミラ・ターパル著「Asoka and the Decline of the Mauryas」およびアショカ王勅令碑文"

@@ -5,7 +5,7 @@ pubDate: "2026-05-20"
 updatedDate: "2026-05-20"
 category: "BuildSelf"
 tags: ["Im Liegen ","Routine"]
-heroImage: "/images/blog/twain_lying_writing.png"
+heroImage: "/images/blog/twain_lying_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Mark Twains Autobiografie 'Autobiography of Mark Twain' & Fachzeitschrift Journal of Neurophysiology"

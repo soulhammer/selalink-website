@@ -5,7 +5,7 @@ description: "根据官方食品安全指南，了解牛油果的最佳储存温
 pubDate: "2026-02-07"
 category: "FreshSnap"
 tags: ["牛油果","科学验证的储存指南","vegetable"]
-heroImage: "/images/blog/avocado_storage_hack.png"
+heroImage: "/images/blog/avocado_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"

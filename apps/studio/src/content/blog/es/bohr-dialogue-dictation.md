@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["El diálogo","Routine"]
-heroImage: "/images/blog/bohr_dialogue_dictation.png"
+heroImage: "/images/blog/bohr_dialogue_dictation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autenticación de la biografía de Niels Bohr por Ruth Moore e investigaciones sobre el habla externa y la metacognición cognitiva de Lev Vygotsky"

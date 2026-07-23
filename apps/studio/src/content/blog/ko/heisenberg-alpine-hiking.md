@@ -5,7 +5,7 @@ description: "양자역학의 난제를 풀기 위해 바이에른 알프스를 
 pubDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["사색", "이완", "창의성"]
-heroImage: "/images/blog/heisenberg_alpine_hiking.png"
+heroImage: "/images/blog/heisenberg_alpine_hiking.webp"
 app: "buildself"
 authority: "하이젠베르크 자서전 『부분과 전체(Physics and Beyond)』 역사 고증 및 스티븐 카플란의 주의 회복 이론(Attention Restoration Theory) 인지과학 연구"
 updatedDate: "2026-02-06"

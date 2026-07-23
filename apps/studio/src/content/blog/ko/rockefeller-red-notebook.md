@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/rockefeller_red_notebook.png"
+heroImage: "/images/blog/rockefeller_red_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "존 D. 록펠러 전기 'Titan' 및 Behavioral and Brain Sciences 학술지"

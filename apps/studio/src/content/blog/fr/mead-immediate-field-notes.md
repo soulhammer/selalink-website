@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Des notes ","Routine"]
-heroImage: "/images/blog/mead_immediate_field_notes.png"
+heroImage: "/images/blog/mead_immediate_field_notes.webp"
 app: "buildself"
 formatVersion: 4
 authority: "L'ouvrage de Jane Howard 'Margaret Mead: A Life' et recherche neurocognitive sur les limites de la mémoire de travail et la décharge cognitive (Storm & Stone, 2015)"

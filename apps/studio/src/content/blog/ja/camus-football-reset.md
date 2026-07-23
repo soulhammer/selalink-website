@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["燃え尽き症候群と生存","Routine"]
-heroImage: "/images/blog/camus_football_reset.png"
+heroImage: "/images/blog/camus_football_reset.webp"
 app: "buildself"
 formatVersion: 4
 authority: "伝記「アルベール・カミュ：伝記」と学習と記憶の神経生物学"

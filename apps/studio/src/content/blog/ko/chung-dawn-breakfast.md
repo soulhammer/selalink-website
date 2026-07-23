@@ -5,7 +5,7 @@ description: "현대그룹 창업주 정주영 회장이 평생 지켜온 매일
 pubDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["위인 습관", "정주영", "의지력", "계획", "시간 관리"]
-heroImage: "/images/blog/chung_dawn_breakfast.png"
+heroImage: "/images/blog/chung_dawn_breakfast.webp"
 app: "buildself"
 authority: "정주영 회장 자서전 『이 아침에도 설레이며』 고증 및 하버드 의과대학(Harvard Medical School) 수면 및 생체 주기 연구"
 updatedDate: "2026-06-12"

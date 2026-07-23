@@ -4,7 +4,7 @@ title: "Guide de protection articulaire du Munchkin et routine de 3 étapes à f
 description: "Prendre soin du chat Munchkin aux pattes courtes. Apprenez à identifier les signes de douleur articulaire et préservez sa mobilité."
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
-heroImage: "/images/blog/munchkin_care.png"
+heroImage: "/images/blog/munchkin_care.webp"
 authority: "Standard du Munchkin de la Cat Fanciers' Association (CFA) et Directives d'Orthopédie Vétérinaire"
 app: "petself"
 formatVersion: 4

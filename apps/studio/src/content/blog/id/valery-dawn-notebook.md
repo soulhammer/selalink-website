@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Cahiers Ja","Routine"]
-heroImage: "/images/blog/valery_dawn_notebook.png"
+heroImage: "/images/blog/valery_dawn_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Arsip Karya Asli Paul Valery 'Cahiers' dan Penelitian Kronobiologi tentang Hormon Kortisol Pagi & Aktivasi Prefrontal"

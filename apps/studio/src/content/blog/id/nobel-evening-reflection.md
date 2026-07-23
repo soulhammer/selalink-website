@@ -5,7 +5,7 @@ pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "BuildSelf"
 tags: ["Metode Eva","Routine"]
-heroImage: "/images/blog/nobel_evening_reflection.png"
+heroImage: "/images/blog/nobel_evening_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi 'The Legacy of Alfred Nobel' & Arsip Yayasan Nobel"

@@ -5,7 +5,7 @@ pubDate: "2026-03-23"
 updatedDate: "2026-03-23"
 category: "BuildSelf"
 tags: ["La rutina ","Routine"]
-heroImage: "/images/blog/gandhi_morning_meditation.png"
+heroImage: "/images/blog/gandhi_morning_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografía de Mahatma Gandhi 'My Experiments with Truth' y revista American Journal of Health Promotion"

@@ -5,7 +5,7 @@ pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
 tags: ["ホーキング博士の脳内","Routine"]
-heroImage: "/images/blog/stephen_hawking.png"
+heroImage: "/images/blog/stephen_hawking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "スティーブン・ホーキング博士、*私の簡単な歴史* (2013) & 認知神経科学研究"

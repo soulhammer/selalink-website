@@ -5,7 +5,7 @@ description: "올림픽 최다 금메달리스트 마이클 펠프스가 시합 
 pubDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["위인 습관", "마이클 펠프스", "몰입", "안정", "성공습관"]
-heroImage: "/images/blog/phelps_pre_race_routine.png"
+heroImage: "/images/blog/phelps_pre_race_routine.webp"
 app: "buildself"
 authority: "펠프스 자서전 『No Limits』 및 국제스포츠심리학회지(IJSP) 루틴 수행 연구"
 updatedDate: "2026-03-14"

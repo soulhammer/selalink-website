@@ -4,7 +4,7 @@ title: "Gérer l'anxiété et l'activité du Siamois : routine en 3 étapes"
 description: "Le chat Siamois est très dépendant de son maître. Découvrez des conseils pour renforcer le lien affectif et une routine de jeu actif en 3 étapes."
 pubDate: "2026-02-19"
 updatedDate: "2026-02-19"
-heroImage: "/images/blog/siamese_care.png"
+heroImage: "/images/blog/siamese_care.webp"
 authority: "Guide officiel de la Cat Fanciers' Association (CFA) et protocoles de comportement félin de l'AAFP"
 app: "petself"
 formatVersion: 4

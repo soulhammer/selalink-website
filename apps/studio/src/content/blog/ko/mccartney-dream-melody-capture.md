@@ -5,7 +5,7 @@ description: "비틀즈의 명곡 'Yesterday'를 아침 기상 직후 꿈의 기
 pubDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["글쓰기", "창의성", "기록"]
-heroImage: "/images/blog/mccartney_dream_melody_capture.png"
+heroImage: "/images/blog/mccartney_dream_melody_capture.webp"
 app: "buildself"
 authority: "폴 매카트니 공인 전기 『Many Years From Now』 고증 및 수면과 각성의 전이 상태(Hypnagogia)에서 나타나는 뇌의 분산 연상 능력과 단기 기억 휘발에 관한 수면신경학 연구"
 updatedDate: "2026-04-25"

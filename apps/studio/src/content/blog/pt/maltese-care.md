@@ -4,7 +4,7 @@ title: "O valente maltês? Uma rotina protetora de 3 passos para a saúde articu
 description: "O maltês, o cão mais amado. Descubra dicas para evitar a luxação patelar e uma rotina diária de 3 passos para cuidar das manchas de lágrimas."
 pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
-heroImage: "/images/blog/maltese_care.png"
+heroImage: "/images/blog/maltese_care.webp"
 authority: "Guia oficial de raças do American Kennel Club (AKC) e protocolos de comportamento da IAABC"
 app: "petself"
 formatVersion: 4

@@ -6,7 +6,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["위인 습관", "괴테", "아침루틴", "산책", "주의력회복"]
-heroImage: "/images/blog/goethe_botany_observation.png"
+heroImage: "/images/blog/goethe_botany_observation.webp"
 app: "buildself"
 authority: "괴테 저 '식물 변형론' 및 환경심리학의 주의 회복 이론(Kaplan, 1995)"
 ---

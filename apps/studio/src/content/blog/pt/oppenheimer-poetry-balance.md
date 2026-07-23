@@ -5,7 +5,7 @@ pubDate: "2026-03-08"
 updatedDate: "2026-03-08"
 category: "BuildSelf"
 tags: ["O alívio d","Routine"]
-heroImage: "/images/blog/oppenheimer_poetry_balance.png"
+heroImage: "/images/blog/oppenheimer_poetry_balance.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia 'American Prometheus' e arquivos da Biblioteca do Congresso"

@@ -5,7 +5,7 @@ pubDate: "2026-04-13"
 updatedDate: "2026-04-13"
 category: "BuildSelf"
 tags: ["¿Buscar un","Routine"]
-heroImage: "/images/blog/pavarotti_bent_nail.png"
+heroImage: "/images/blog/pavarotti_bent_nail.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografía de Pavarotti y psicología deportiva sobre rituales y ansiedad de rendimiento"

@@ -5,7 +5,7 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Murbai berdasa
 pubDate: "2026-03-29"
 category: "FreshSnap"
 tags: ["Murbai","Panduan Penyimpanan yang Terbukti Secara Ilmiah","fruit"]
-heroImage: "/images/blog/blueberry_storage_hack.png"
+heroImage: "/images/blog/blueberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & RDA</strong>"

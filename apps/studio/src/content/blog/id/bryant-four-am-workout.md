@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["Keajaiban ","Routine"]
-heroImage: "/images/blog/bryant_four_am_workout.png"
+heroImage: "/images/blog/bryant_four_am_workout.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Rujukan dari 'The Mamba Mentality' Kobe Bryant dan Studi Kronobiologi tentang Metabolisme Fisik Sirkadian"

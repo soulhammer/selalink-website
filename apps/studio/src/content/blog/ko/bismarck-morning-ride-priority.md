@@ -5,7 +5,7 @@ pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
 tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/bismarck_morning_ride_priority.png"
+heroImage: "/images/blog/bismarck_morning_ride_priority.webp"
 app: "buildself"
 formatVersion: 4
 authority: "비스마르크 회고록 'Gedanken und Erinnerungen' 및 전기 사료"

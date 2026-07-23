@@ -6,7 +6,7 @@ pubDate: "2026-06-25"
 updatedDate: "2026-06-25"
 category: "FreshSnap"
 tags: ["딸기","과학적으로 검증된 보관 가이드","fruit"]
-heroImage: "/images/blog/strawberry_storage_hack.png"
+heroImage: "/images/blog/strawberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"

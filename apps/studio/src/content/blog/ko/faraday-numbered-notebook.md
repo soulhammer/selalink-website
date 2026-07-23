@@ -5,7 +5,7 @@ description: "평생 16,000개가 넘는 실험 항목에 번호를 매겨 기�
 pubDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["위인 습관", "마이클 패러데이", "기록", "생산성", "논리력"]
-heroImage: "/images/blog/faraday_numbered_notebook.png"
+heroImage: "/images/blog/faraday_numbered_notebook.webp"
 app: "buildself"
 authority: "영국 왕립연구소 보존 『Faraday's Diary』 친필 일지 고증 및 인지과학저널(Cognitive Science) 지식 외재화 및 인지 부하 연구"
 updatedDate: "2026-02-24"

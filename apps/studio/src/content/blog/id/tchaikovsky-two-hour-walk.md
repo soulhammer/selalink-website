@@ -4,7 +4,7 @@ description: "Komposer Pyotr Tchaikovsky berjalan tepat dua jam setiap hari untu
 pubDate: "2026-06-01"
 category: "BuildSelf"
 tags: ["Berjalan 2","Routine"]
-heroImage: "/images/blog/tchaikovsky_two_hour_walk.png"
+heroImage: "/images/blog/tchaikovsky_two_hour_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Buku Modest Tchaikovsky 'The Life & Letters of Peter Ilich Tchaikovsky' & Penelitian Frontiers in Neuroscience"

@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["唤醒大脑健康的步伐？","Routine"]
-heroImage: "/images/blog/adams_morning_walk.png"
+heroImage: "/images/blog/adams_morning_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "亚当斯传记《John Adams》与神经可塑性医学期刊研究成果"

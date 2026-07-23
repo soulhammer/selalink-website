@@ -5,7 +5,7 @@ description: "根据官方食品安全指南，了解蓝莓的最佳储存温度
 pubDate: "2026-03-29"
 category: "FreshSnap"
 tags: ["蓝莓","科学验证的储存指南","fruit"]
-heroImage: "/images/blog/blueberry_storage_hack.png"
+heroImage: "/images/blog/blueberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>美国农务部(USDA) & 韩国农村振兴厅(RDA)</strong>"

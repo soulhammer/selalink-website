@@ -5,7 +5,7 @@ pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["唤醒积极的大脑回路：","Routine"]
-heroImage: "/images/blog/anchangho_mirror_smile.png"
+heroImage: "/images/blog/anchangho_mirror_smile.webp"
 app: "buildself"
 formatVersion: 4
 authority: "安昌浩在兴士团的讲论记载与关于面部反馈假说（Facial Feedback Hypothesis）的生理学研究"

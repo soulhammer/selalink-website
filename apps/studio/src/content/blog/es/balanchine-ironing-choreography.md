@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Danza del ","Routine"]
-heroImage: "/images/blog/balanchine_ironing_choreography.png"
+heroImage: "/images/blog/balanchine_ironing_choreography.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía de George Balanchine 'Balanchine' e investigación neurocientífica sobre tareas motoras monótonas y activación de la DMN para la incubación creativa"

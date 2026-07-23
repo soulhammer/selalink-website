@@ -5,7 +5,7 @@ pubDate: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "BuildSelf"
 tags: ["每天子夜起床伴着咖啡","Routine"]
-heroImage: "/images/blog/balzac_extreme_focus.png"
+heroImage: "/images/blog/balzac_extreme_focus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "斯蒂芬·茨威格著《巴尔扎克》及现代神经药理学期刊(Neuropharmacology)"

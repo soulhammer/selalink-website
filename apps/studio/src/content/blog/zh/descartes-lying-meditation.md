@@ -5,7 +5,7 @@ pubDate: "2026-01-25"
 updatedDate: "2026-01-25"
 category: "BuildSelf"
 tags: ["躺到中午都不起床的天","Routine"]
-heroImage: "/images/blog/descartes_lying_meditation.png"
+heroImage: "/images/blog/descartes_lying_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "传记《La Vie de Monsieur Descartes》与学术期刊《Psychophysiology》"

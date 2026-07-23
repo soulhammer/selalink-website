@@ -5,7 +5,7 @@ description: "『죄와 벌』의 작가 도스토옙스키가 방 안을 서성
 pubDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["위인 습관", "표도르 도스토옙스키", "창의성", "기록", "공부"]
-heroImage: "/images/blog/dostoevsky_pacing_recitation.png"
+heroImage: "/images/blog/dostoevsky_pacing_recitation.webp"
 app: "buildself"
 authority: "아내 안나의 회고록 『도스토옙스키와 함께한 날들』 및 뮌헨 대학교(LMU) 신체 인지(Embodied Cognition) 연구"
 updatedDate: "2026-05-25"

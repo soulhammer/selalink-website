@@ -4,7 +4,7 @@ title: "아프리칸 피그미 고슴도치의 안팅 습성과 저체온 방지
 description: "앙증맞은 가시를 가진 아프리칸 피그미 고슴도치. 자신의 가시에 거품을 바르는 안팅 행동의 의미와 동면을 방지하는 24~26도 온도 케어 중심의 3단계 가이드라인을 전해드립니다."
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
-heroImage: "/images/blog/pygmy_hedgehog_care.png"
+heroImage: "/images/blog/pygmy_hedgehog_care.webp"
 authority: "Hedgehog Welfare Society 케어 가이드라인 및 수의학 외래동물 치료 지침"
 app: "petself"
 formatVersion: 4

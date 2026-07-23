@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["¿Grabar la","Routine"]
-heroImage: "/images/blog/turner_dawn_observation.png"
+heroImage: "/images/blog/turner_dawn_observation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía de Turner 'J.M.W. Turner' y estudios de memoria visuoespacial"

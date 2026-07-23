@@ -5,7 +5,7 @@ description: "경험론의 대가 프란시스 베이컨이 매일 아침 정원
 pubDate: "2026-01-04"
 category: "BuildSelf"
 tags: ["산책", "자연관찰", "경험론", "근세"]
-heroImage: "/images/blog/bacon_nature_observation.png"
+heroImage: "/images/blog/bacon_nature_observation.webp"
 app: "buildself"
 authority: "존 오브리 《인물 단편집》 (Brief Lives)"
 updatedDate: "2026-01-04"

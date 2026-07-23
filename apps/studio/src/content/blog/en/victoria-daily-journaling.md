@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Great Habits","victoria","Routine","Stamina"]
-heroImage: "/images/blog/victoria_daily_journaling.png"
+heroImage: "/images/blog/victoria_daily_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Queen Victoria's handwritten journals (Royal Archives) and Professor James Pennebaker's Cognitive Research on Expressive Writing at the University of Texas"

@@ -5,7 +5,7 @@ pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
 tags: ["在散步地仗上挂墨水瓶","Routine"]
-heroImage: "/images/blog/hobbes_cane_inkwell.png"
+heroImage: "/images/blog/hobbes_cane_inkwell.webp"
 app: "buildself"
 formatVersion: 4
 authority: "奥布里《简明传记(Brief Lives)》与《扩展心灵(Supersizing the Mind)》认知理论"

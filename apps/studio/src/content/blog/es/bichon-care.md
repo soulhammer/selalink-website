@@ -4,7 +4,7 @@ title: "Cuidado del Manto Rizado del Bichón Frisé: Rutina de 3 pasos para dese
 description: "Famoso por su cabeza de pompón blanca, el Bichón Frisé es muy amigable. Conozca una rutina para cuidar su pelo rizado y manejar las explosiones de energía (Bichon Blitz)."
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
-heroImage: "/images/blog/bichon_care.png"
+heroImage: "/images/blog/bichon_care.webp"
 authority: "Estándares del Bichon Frise Club of America y pautas de salud de AVMA"
 app: "petself"
 formatVersion: 4

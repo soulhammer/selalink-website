@@ -4,7 +4,7 @@ title: "Leopard Gecko Tail Communication and 3-Step Care Routine for Safe Sheddi
 description: "Comprehensive care guide for Leopard Geckos. Learn to decode tail-waving defensive signals, manage humid hides for shedding, and structure ARAV thermal zones."
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
-heroImage: "/images/blog/leopard_gecko_care.png"
+heroImage: "/images/blog/leopard_gecko_care.webp"
 authority: "Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines"
 app: "petself"
 formatVersion: 4

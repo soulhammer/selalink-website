@@ -4,7 +4,7 @@ title: "Refugio seguro y generación de confianza: rutina de 3 pasos para el Azu
 description: "Los Azules Rusos son tímidos y sensibles al ruido. Aprenda a crear una zona segura sin estrés y una rutina de 3 pasos para ganarse su confianza."
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
-heroImage: "/images/blog/russian_blue_care.png"
+heroImage: "/images/blog/russian_blue_care.webp"
 authority: "Guía de razas de la Cat Fanciers' Association (CFA) y Cornell Feline Health Center"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
 tags: ["伽利略的振动素描法：","Routine"]
-heroImage: "/images/blog/galileo_vibration_sketch.png"
+heroImage: "/images/blog/galileo_vibration_sketch.webp"
 app: "buildself"
 formatVersion: 4
 authority: "斯蒂尔曼·德雷克《工作中的伽利略》 / 关于空间视觉信息处理（Visuospatial Processing）及素描对物理推论影响的认知科学研究"

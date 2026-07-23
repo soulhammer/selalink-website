@@ -4,7 +4,7 @@ title: "Guia de proteção de costas do Teckel e rotina de 3 passos para fortale
 description: "Cuidado do cão de corpo longo e patas curtas, o Teckel (Dachshund). Aprenda a reconhecer sinais de dor nas costas e proteja a coluna com uma rotina de 3 passos."
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
-heroImage: "/images/blog/dachshund_care.png"
+heroImage: "/images/blog/dachshund_care.webp"
 authority: "Diretrizes de Saúde do Dachshund do American Kennel Club e Padrões da Associação Veterinária da Coluna"
 app: "petself"
 formatVersion: 4

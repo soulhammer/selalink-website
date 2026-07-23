@@ -4,7 +4,7 @@ title: "Cuidados com o Welsh Corgi: Uma rotina de 3 passos para a saúde da colu
 description: "O Welsh Corgi, famoso por seu traseiro fofo e patas curtas. Descubra uma rotina diária de 3 passos para evitar problemas na coluna e a luxação patelar."
 pubDate: "2026-04-12"
 updatedDate: "2026-04-14"
-heroImage: "/images/blog/corgi_care.png"
+heroImage: "/images/blog/corgi_care.webp"
 authority: "Guia oficial do Pembroke Welsh Corgi Club of America e diretrizes de saúde do AKC"
 app: "petself"
 formatVersion: 4

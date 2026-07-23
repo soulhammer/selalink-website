@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Great Habits","didion","Routine","Stamina"]
-heroImage: "/images/blog/didion_manuscript_sleeping.png"
+heroImage: "/images/blog/didion_manuscript_sleeping.webp"
 app: "buildself"
 formatVersion: 4
 authority: "The Paris Review 'Joan Didion Interview' & Trends in Cognitive Sciences"

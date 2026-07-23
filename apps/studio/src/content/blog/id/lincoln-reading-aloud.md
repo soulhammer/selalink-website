@@ -5,7 +5,7 @@ pubDate: "2026-04-26"
 updatedDate: "2026-04-26"
 category: "BuildSelf"
 tags: ["Presiden y","Routine"]
-heroImage: "/images/blog/lincoln_reading_aloud.png"
+heroImage: "/images/blog/lincoln_reading_aloud.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Buku William Herndon 'Life of Lincoln' & Penelitian Psikologi Kognitif (MacLeod et al., 2010)"

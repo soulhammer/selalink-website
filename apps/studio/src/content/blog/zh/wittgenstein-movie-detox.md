@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["冷却过热的大脑：维特","Routine"]
-heroImage: "/images/blog/wittgenstein_movie_detox.png"
+heroImage: "/images/blog/wittgenstein_movie_detox.webp"
 app: "buildself"
 formatVersion: 4
 authority: "雷·蒙克所著的维特根斯坦传记《路德维希·维特根斯坦：天才的义务》及关于注意力分散与孵化效应的认知心理学研究"

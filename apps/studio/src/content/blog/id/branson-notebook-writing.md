@@ -5,7 +5,7 @@ pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
 category: "BuildSelf"
 tags: ["Rahasia Mi","Routine"]
-heroImage: "/images/blog/branson_notebook_writing.png"
+heroImage: "/images/blog/branson_notebook_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Otobiografi Richard Branson 'Losing My Virginity' & Arsip Virgin Group"

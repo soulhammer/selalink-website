@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["疗愈抑郁症的剪刀？安","Routine"]
-heroImage: "/images/blog/andersen_paper_cutting.png"
+heroImage: "/images/blog/andersen_paper_cutting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "安徒生自传《我的一生童话》与学术期刊《American Journal of Occupational Therapy》"

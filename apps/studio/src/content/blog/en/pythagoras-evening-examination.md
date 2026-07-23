@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["Great Habits","pythagoras","Routine","Stamina"]
-heroImage: "/images/blog/pythagoras_evening_examination.png"
+heroImage: "/images/blog/pythagoras_evening_examination.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Pythagorean code 'Golden Verses' and Harvard Medical School's Research on Sleep-state Memory Consolidation"

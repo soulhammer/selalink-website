@@ -5,7 +5,7 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Daging ayam be
 pubDate: "2026-04-06"
 category: "FreshSnap"
 tags: ["Daging ayam","Panduan Penyimpanan yang Terbukti Secara Ilmiah","meat"]
-heroImage: "/images/blog/chicken_storage_hack.png"
+heroImage: "/images/blog/chicken_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS & CDC</strong>"

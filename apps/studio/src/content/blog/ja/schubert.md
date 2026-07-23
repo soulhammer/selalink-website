@@ -5,7 +5,7 @@ pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "BuildSelf"
 tags: ["起床後すぐにメガネを","Routine"]
-heroImage: "/images/blog/schubert.png"
+heroImage: "/images/blog/schubert.webp"
 app: "buildself"
 formatVersion: 4
 authority: "オットー・エーリッヒ・ドイチュ、*シューベルト: ドキュメンタリー伝記* (1946) & 認知神経科学研究"

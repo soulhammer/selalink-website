@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["Great Habits","rilke","Routine","Stamina"]
-heroImage: "/images/blog/rilke_standing_writing.png"
+heroImage: "/images/blog/rilke_standing_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Rilke's letter bundle 'Letters to a Young Poet' & Cognitive Research on Cerebral Blood Flow in Standing Postures"

@@ -5,7 +5,7 @@ pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "BuildSelf"
 tags: ["Great Habits","marx","Routine","Stamina"]
-heroImage: "/images/blog/marx_reading_room.png"
+heroImage: "/images/blog/marx_reading_room.webp"
 app: "buildself"
 formatVersion: 4
 authority: "British Library Archives, Biography 'Karl Marx: A Life' & Cognitive Psychology"

@@ -5,7 +5,7 @@ pubDate: "2026-06-26"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["Penulis ya","Routine"]
-heroImage: "/images/blog/murakami_running.png"
+heroImage: "/images/blog/murakami_running.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Buku Haruki Murakami 'What I Talk About When I Talk About Running' & Penelitian Frontiers in Psychology"

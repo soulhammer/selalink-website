@@ -4,7 +4,7 @@ title: "Ungimiento del erizo pigmeo africano y rutina de cuidado térmico de 3 p
 description: "Cuidado del erizo pigmeo africano. Comprenda sus comportamientos únicos de ungirse con saliva espumosa y mantenga una temperatura óptima de 24-26 °C con nuestra rutina de 3 pasos segura para el invierno."
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
-heroImage: "/images/blog/pygmy_hedgehog_care.png"
+heroImage: "/images/blog/pygmy_hedgehog_care.webp"
 authority: "Pautas de la Hedgehog Welfare Society y Protocolos Veterinarios de Animales Exóticos"
 app: "petself"
 formatVersion: 4

@@ -6,7 +6,7 @@ pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
 tags: ["위인 습관", "바흐", "필사", "손글씨", "학습법"]
-heroImage: "/images/blog/bach_pattern_transcription.png"
+heroImage: "/images/blog/bach_pattern_transcription.webp"
 app: "buildself"
 authority: "포르켈 저 '요한 제바스티안 바흐의 생애' 및 기능적 뇌 발달 연구(James, 2012)"
 ---

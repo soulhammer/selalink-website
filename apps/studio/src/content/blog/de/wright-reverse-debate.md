@@ -5,7 +5,7 @@ pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
 category: "BuildSelf"
 tags: ["Erfinder, ","Routine"]
-heroImage: "/images/blog/wright_reverse_debate.png"
+heroImage: "/images/blog/wright_reverse_debate.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografie der Gebrüder Wright 'The Wright Brothers' & Studien aus Cognitive Therapy and Research"

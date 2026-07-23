@@ -5,7 +5,7 @@ pubDate: "2026-04-24"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["O primeiro","Routine"]
-heroImage: "/images/blog/churchill_afternoon_nap.png"
+heroImage: "/images/blog/churchill_afternoon_nap.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Obra de Winston Churchill 'The Second World War' e estudo da NASA sobre a sesta dos astronautas"

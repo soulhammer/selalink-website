@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Das geheim","Routine"]
-heroImage: "/images/blog/reagan_jellybean_relaxation.png"
+heroImage: "/images/blog/reagan_jellybean_relaxation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Reagans Biografie & kognitive Forschung zur Kautätigkeit gegen Stress"

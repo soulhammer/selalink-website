@@ -5,7 +5,7 @@ pubDate: "2026-04-04"
 updatedDate: "2026-04-04"
 category: "BuildSelf"
 tags: ["在家也穿正装作曲？约","Routine"]
-heroImage: "/images/blog/haydn_formal_dressing.png"
+heroImage: "/images/blog/haydn_formal_dressing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "格里辛格的传记记录及关于“衣着认知”的实验心理学研究"

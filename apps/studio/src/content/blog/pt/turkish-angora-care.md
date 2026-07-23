@@ -4,7 +4,7 @@ title: "Cuidado da Surdez e Coração do Angorá Turco: Rotina de 3 passos para 
 description: "Gatos Angorá Turco brancos com olhos azuis ou de cores diferentes têm alta incidência de surdez congênita e HCM. Conheça a rotina de cuidados."
 pubDate: "2026-04-07"
 updatedDate: "2026-04-07"
-heroImage: "/images/blog/turkish_angora_care.png"
+heroImage: "/images/blog/turkish_angora_care.webp"
 authority: "Conselho de raça do Angorá Turco da CFA e estudos veterinários de surdez"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,7 @@ pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "BuildSelf"
 tags: ["Das Genie,","Routine"]
-heroImage: "/images/blog/einstein_violin_thinking.png"
+heroImage: "/images/blog/einstein_violin_thinking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Albert Einsteins Biografie 'Einstein: A Life' & Fachzeitschrift Frontiers in Psychology"

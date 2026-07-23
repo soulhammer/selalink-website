@@ -5,7 +5,7 @@ description: "현대 과학의 아버지 갈릴레오 갈릴레이가 흔들리�
 pubDate: "2026-02-01"
 category: "BuildSelf"
 tags: ["시각화", "스케치", "물리학", "근세"]
-heroImage: "/images/blog/galileo_vibration_sketch.png"
+heroImage: "/images/blog/galileo_vibration_sketch.webp"
 app: "buildself"
 authority: "스틸먼 드레이크 《갈릴레오의 작업》"
 updatedDate: "2026-02-01"

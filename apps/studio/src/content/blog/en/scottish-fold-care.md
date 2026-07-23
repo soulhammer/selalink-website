@@ -4,7 +4,7 @@ title: "The Genetic Issue Behind the Cuteness: Scottish Fold Joint and Ear 3-Ste
 description: "Scottish Folds, famous for folded ears. They are vulnerable to genetic joint pain and ear infections. Discover tips for joint protection and a 3-step routine for ear hygiene."
 pubDate: "2026-02-10"
 updatedDate: "2026-02-12"
-heroImage: "/images/blog/scottish_fold_care.png"
+heroImage: "/images/blog/scottish_fold_care.webp"
 authority: "Official ISFM (International Society of Feline Medicine) Hereditary Cartilage Protocol & GCCF Breed Guidelines"
 app: "petself"
 formatVersion: 4

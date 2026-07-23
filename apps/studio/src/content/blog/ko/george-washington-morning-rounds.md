@@ -5,7 +5,7 @@ description: "새벽 4시 기상 후 직접 마운트 버넌 농장을 돌며 �
 pubDate: "2026-07-04"
 category: "BuildSelf"
 tags: ["위인 습관", "조지 워싱턴", "행정력", "영농 일지", "메타 인지"]
-heroImage: "/images/blog/george_washington_morning_rounds.png"
+heroImage: "/images/blog/george_washington_morning_rounds.webp"
 app: "buildself"
 authority: "조지 워싱턴의 서명 영농 일지(Diaries of George Washington) 원본"
 updatedDate: "2026-07-04"

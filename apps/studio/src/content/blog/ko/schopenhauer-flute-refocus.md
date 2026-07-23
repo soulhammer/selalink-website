@@ -5,7 +5,7 @@ pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/schopenhauer_flute_refocus.png"
+heroImage: "/images/blog/schopenhauer_flute_refocus.webp"
 app: "buildself"
 formatVersion: 4
 authority: "아르투어 쇼펜하우어 평전 'Arthur Schopenhauer: His Life' 및 Psychophysiology 학술지"

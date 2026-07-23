@@ -5,7 +5,7 @@ pubDate: "2026-05-11"
 updatedDate: "2026-05-11"
 category: "BuildSelf"
 tags: ["貴族身分なのに執筆前","Routine"]
-heroImage: "/images/blog/tolstoy_physical_labor.png"
+heroImage: "/images/blog/tolstoy_physical_labor.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ソフィア・トルストイ 著『ソフィア・トルストイの日記』＆ 臨床医学術誌(Journal of Clinical Medicine)"

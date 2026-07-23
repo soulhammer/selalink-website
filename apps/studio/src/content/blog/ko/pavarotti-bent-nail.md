@@ -5,7 +5,7 @@ description: "세계적인 테너 루치아노 파바로티가 공연 전 굽은
 pubDate: "2026-04-13"
 category: "BuildSelf"
 tags: ["위인 습관", "휴식"]
-heroImage: "/images/blog/pavarotti_bent_nail.png"
+heroImage: "/images/blog/pavarotti_bent_nail.webp"
 app: "buildself"
 authority: "루치아노 파바로티의 회고록 및 의식화된 루틴이 수행 불안 감소에 미치는 스포츠심리학 연구"
 updatedDate: "2026-04-13"

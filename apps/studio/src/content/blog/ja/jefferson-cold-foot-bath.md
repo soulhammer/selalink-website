@@ -5,7 +5,7 @@ pubDate: "2026-04-17"
 updatedDate: "2026-04-17"
 category: "BuildSelf"
 tags: ["冷水で認知力を呼び覚","Routine"]
-heroImage: "/images/blog/jefferson_cold_foot_bath.png"
+heroImage: "/images/blog/jefferson_cold_foot_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "トマス・ジェファーソンの個人書簡集 ＆ 冷刺激が自律神経系に与える影響に関する神経科学研究"

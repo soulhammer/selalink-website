@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["3D-Kosmos-","Routine"]
-heroImage: "/images/blog/kepler_geometric_modeling.png"
+heroImage: "/images/blog/kepler_geometric_modeling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Keplers Mysterium Cosmographicum & Studien zur haptischen Raummanipulation"

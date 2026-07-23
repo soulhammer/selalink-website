@@ -5,7 +5,7 @@ pubDate: "2026-03-12"
 updatedDate: "2026-03-12"
 category: "BuildSelf"
 tags: ["El entrena","Routine"]
-heroImage: "/images/blog/helen_keller.png"
+heroImage: "/images/blog/helen_keller.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Helen Keller, *La historia de mi vida* (1903) y estudios neurocientíficos cognitivos"

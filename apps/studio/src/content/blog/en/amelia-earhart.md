@@ -5,7 +5,7 @@ pubDate: "2026-01-31"
 updatedDate: "2026-01-31"
 category: "BuildSelf"
 tags: ["Great Habits","amelia","Routine","Stamina"]
-heroImage: "/images/blog/amelia_earhart.png"
+heroImage: "/images/blog/amelia_earhart.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Amelia Earhart, *The Fun of It* (1932) & Cognitive Neuroscientific Studies"

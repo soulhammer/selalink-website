@@ -4,7 +4,7 @@ title: "美短心脑血管与体重护理：预防肥大性心肌病(HCM)及控�
 description: "美国短毛猫身体强健，但极易发生肥胖并具有肥大性心肌病(HCM)的遗传倾向。通过日常3步护理惯例科学管理饮食、运动与心脏健康。"
 pubDate: "2026-03-02"
 updatedDate: "2026-03-02"
-heroImage: "/images/blog/american_shorthair_care.png"
+heroImage: "/images/blog/american_shorthair_care.webp"
 authority: "CFA 美国短毛猫标准与康奈尔猫科健康中心研究数据"
 app: "petself"
 formatVersion: 4

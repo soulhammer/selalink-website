@@ -5,7 +5,7 @@ pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
 tags: ["Wie Staats","Routine"]
-heroImage: "/images/blog/lee_kuanyew_treadmill.png"
+heroImage: "/images/blog/lee_kuanyew_treadmill.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Lee Kuan Yews Memoiren „The Singapore Story“ & Dokumente des Nationalarchivs von Singapur"

@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Reinicio c","Routine"]
-heroImage: "/images/blog/planck_piano_refresh.png"
+heroImage: "/images/blog/planck_piano_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autenticación da autobiografia de Max Planck 'Wissenschaftliche Selbstbiographie' e pesquisas da Universidade Johns Hopkins sobre la neurobiologia da improvisação"

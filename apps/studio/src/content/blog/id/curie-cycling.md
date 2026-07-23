@@ -4,7 +4,7 @@ description: "Marie Curie, wanita pertama yang memenangkan Hadiah Nobel dan satu
 pubDate: "2026-02-28"
 category: "BuildSelf"
 tags: ["Rahasia Me","Routine"]
-heroImage: "/images/blog/curie_cycling.png"
+heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi 'Madame Curie' oleh Ève Curie & Penelitian Olahraga Harvard Health Publishing"

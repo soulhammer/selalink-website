@@ -5,7 +5,7 @@ description: "500권 이상을 저술한 SF의 거장 아이작 아시모프의 
 pubDate: "2026-05-26"
 category: "BuildSelf"
 tags: ["위인 습관", "아이작 아시모프", "집중력", "다중작업", "창의성", "생산성"]
-heroImage: "/images/blog/asimov_project_switching.png"
+heroImage: "/images/blog/asimov_project_switching.webp"
 app: "buildself"
 authority: "아이작 아시모프 자전적 수필집 및 APA 인지 피로와 작업 기억 연구"
 updatedDate: "2026-05-26"

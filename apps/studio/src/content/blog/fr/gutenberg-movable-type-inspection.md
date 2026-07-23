@@ -5,7 +5,7 @@ pubDate: "2026-06-04"
 updatedDate: "2026-06-04"
 category: "BuildSelf"
 tags: ["Le maître ","Routine"]
-heroImage: "/images/blog/gutenberg_movable_type_inspection.png"
+heroImage: "/images/blog/gutenberg_movable_type_inspection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie par Albert Kapr 'Johannes Gutenberg' & Archives du Gutenberg Museum"

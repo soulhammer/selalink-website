@@ -4,7 +4,7 @@ title: "Klopfzeichen des Farbenzwergkaninchens und 3-Schritt-Routine für die Ve
 description: "Pflege für die kleinste Kaninchenrasse, das Farbenzwergkaninchen. Lernen Sie, auf Warnklopfen zu reagieren, und unterstützen Sie das empfindliche Verdauungssystem mit einer 3-Schritt-Heuroutine."
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
-heroImage: "/images/blog/dwarf_rabbit_care.png"
+heroImage: "/images/blog/dwarf_rabbit_care.webp"
 authority: "Medizinische Richtlinien der House Rabbit Society und Tierärztliche Standards für Kleintiere"
 app: "petself"
 formatVersion: 4

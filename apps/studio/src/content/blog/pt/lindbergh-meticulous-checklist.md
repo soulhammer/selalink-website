@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Como reduz","Routine"]
-heroImage: "/images/blog/lindbergh_meticulous_checklist.png"
+heroImage: "/images/blog/lindbergh_meticulous_checklist.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Memórias de Lindbergh 'The Spirit of St. Louis' e Human Factors Journal"

@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Un mot qui","Routine"]
-heroImage: "/images/blog/watson_think_sign.png"
+heroImage: "/images/blog/watson_think_sign.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Documents historiques du musée d'IBM et recherche neurologique de l'University College London (UCL) sur les mécanismes de réflexion"

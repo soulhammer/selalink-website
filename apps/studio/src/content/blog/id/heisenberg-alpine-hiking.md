@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Petunjuk K","Routine"]
-heroImage: "/images/blog/heisenberg_alpine_hiking.png"
+heroImage: "/images/blog/heisenberg_alpine_hiking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Buku otobiografi 'Physics and Beyond' oleh Werner Heisenberg dan Penelitian Stephen Kaplan tentang Teori Pemulihan Perhatian"

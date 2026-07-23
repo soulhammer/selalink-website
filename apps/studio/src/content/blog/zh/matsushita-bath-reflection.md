@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["一日终了时的释怀：松","Routine"]
-heroImage: "/images/blog/matsushita_bath_reflection.png"
+heroImage: "/images/blog/matsushita_bath_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "松下幸之助著作《路是无限宽广》的相关记载，以及有关温水入浴激活副交感神经和默认模式网络的行为生理研究"

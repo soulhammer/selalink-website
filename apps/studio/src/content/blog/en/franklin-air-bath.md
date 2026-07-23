@@ -4,7 +4,7 @@ description: "Benjamin Franklin, who invented the lightning rod and led the foun
 pubDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["Great Habits","franklin","Routine","Stamina"]
-heroImage: "/images/blog/franklin_air_bath.png"
+heroImage: "/images/blog/franklin_air_bath.webp"
 app: "buildself"
 formatVersion: 4
 authority: "The Autobiography of Benjamin Franklin & New England Journal of Medicine (NEJM)"

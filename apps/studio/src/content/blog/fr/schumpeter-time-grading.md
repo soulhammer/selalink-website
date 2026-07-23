@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Métacognit","Routine"]
-heroImage: "/images/blog/schumpeter_time_grading.png"
+heroImage: "/images/blog/schumpeter_time_grading.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie 'Opening Doors : The Life and Work of Joseph Schumpeter' et recherche sur la métacognition et les boucles d'autorégulation"

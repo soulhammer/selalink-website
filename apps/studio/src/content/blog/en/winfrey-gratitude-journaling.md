@@ -5,7 +5,7 @@ pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "BuildSelf"
 tags: ["Great Habits","winfrey","Routine","Stamina"]
-heroImage: "/images/blog/winfrey_gratitude_journaling.png"
+heroImage: "/images/blog/winfrey_gratitude_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Oprah Winfrey's Essay 'What I Know for Sure' & Journal of Personality and Social Psychology"

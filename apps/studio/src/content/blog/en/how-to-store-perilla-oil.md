@@ -5,7 +5,7 @@ description: "Learn the best storage temperature, methods, and duration for Peri
 pubDate: "2026-06-03"
 category: "FreshSnap"
 tags: ["Perilla Oil","Scientifically Proven Storage Guide","condiment"]
-heroImage: "/images/blog/perilla_oil_storage_hack.png"
+heroImage: "/images/blog/perilla_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"

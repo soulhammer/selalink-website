@@ -4,7 +4,7 @@ title: "Leopardgecko-Schwanzsignale und 3-Schritte-Routine für eine sichere Hä
 description: "Pflegeanleitung für Leopardgeckos. Schwanzbewegungen verstehen, Feuchthöhlen pflegen und ARAV-Temperaturzonen korrekt einstellen."
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
-heroImage: "/images/blog/leopard_gecko_care.png"
+heroImage: "/images/blog/leopard_gecko_care.webp"
 authority: "Association of Reptilian and Amphibian Veterinarians (ARAV)"
 app: "petself"
 formatVersion: 4

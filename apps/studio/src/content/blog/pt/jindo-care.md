@@ -4,7 +4,7 @@ title: "Guia de socialização e rotina de 3 passos para o pelo duplo del fiel c
 description: "Aprenda métodos de socialização para o cão Jindo e cuidados com pelo duplo."
 pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
-heroImage: "/images/blog/jindo_care.png"
+heroImage: "/images/blog/jindo_care.webp"
 authority: "Diretrizes de Jindo do Instituto Nacional de Ciência Animal da Coreia e KKC"
 app: "petself"
 formatVersion: 4

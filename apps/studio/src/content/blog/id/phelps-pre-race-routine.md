@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Cara Mengh","Routine"]
-heroImage: "/images/blog/phelps_pre_race_routine.png"
+heroImage: "/images/blog/phelps_pre_race_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiografi Phelps dan Penelitian IJSP tentang Pelaksanaan Rutinitas"

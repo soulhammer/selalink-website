@@ -5,7 +5,7 @@ pubDate: "2026-04-26"
 updatedDate: "2026-04-26"
 category: "BuildSelf"
 tags: ["Le préside","Routine"]
-heroImage: "/images/blog/lincoln_reading_aloud.png"
+heroImage: "/images/blog/lincoln_reading_aloud.webp"
 app: "buildself"
 formatVersion: 4
 authority: "L'ouvrage de William Herndon 'Vie de Lincoln' et les recherches en psychologie cognitive (MacLeod et al., 2010)"

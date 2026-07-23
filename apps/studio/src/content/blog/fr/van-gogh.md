@@ -5,7 +5,7 @@ pubDate: "2026-04-21"
 updatedDate: "2026-04-21"
 category: "BuildSelf"
 tags: ["La réflexi","Routine"]
-heroImage: "/images/blog/van_gogh.png"
+heroImage: "/images/blog/van_gogh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Irving Stone, *Cher Theo : L'autobiographie de Vincent van Gogh* (1937) & Études neuroscientifiques cognitives"

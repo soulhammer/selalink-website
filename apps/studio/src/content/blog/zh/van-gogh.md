@@ -5,7 +5,7 @@ pubDate: "2026-04-21"
 updatedDate: "2026-04-21"
 category: "BuildSelf"
 tags: ["梵高通过每晚写信给弟","Routine"]
-heroImage: "/images/blog/van_gogh.png"
+heroImage: "/images/blog/van_gogh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "欧文·斯通，*亲爱的西奥：文森特·梵高自传* (1937) 和认知神经科学研究"

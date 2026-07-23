@@ -4,7 +4,7 @@ description: "Suas maçãs estão ficando moles rapidamente ou estragando outras
 pubDate: "2026-03-11"
 category: "FreshSnap"
 tags: ["Armazenar Maçãs", "Cuidado de Frutas", "Gás Etileno", "Dicas de Frescor", "Trucos de Cozinha"]
-heroImage: "/images/blog/apple_storage_hack.png"
+heroImage: "/images/blog/apple_storage_hack.webp"
 app: "freshsnap"
 faqs:
   - question: "Posso embrulhar e guardar maçãs machucadas?"
@@ -67,7 +67,7 @@ Por isso, a chave para um armazenamento bem-sucedido de maçãs é evitar a perd
     💡 <strong>Dica de armazenamento</strong>: Embrulhe bem cada maçã não lavada com plástico filme de cozinha (ou sacos plásticos individuais). O embrulho retém a umidade natural da maçã para manter sua textura crocante característica, enquanto atua como uma barreira primária para evitar o vazamento de gás etileno.
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/apple_storage_detail.png" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/apple_storage_detail.webp" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

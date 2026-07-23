@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["O poder de","Routine"]
-heroImage: "/images/blog/eisenhower_matrix_decision.png"
+heroImage: "/images/blog/eisenhower_matrix_decision.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Arquivos da Biblioteca Dwight D. Eisenhower (Discurso de 1954) e estudos de ciência cognitiva sobre fadiga de decisão e alocação de recursos pré-frontais"

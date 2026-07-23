@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["¿La princi","Routine"]
-heroImage: "/images/blog/wintour_morning_tennis.png"
+heroImage: "/images/blog/wintour_morning_tennis.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía 'Anna: La biografía' y Revista de neurología de la corteza cerebral"

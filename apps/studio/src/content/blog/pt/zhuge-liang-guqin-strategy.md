@@ -5,7 +5,7 @@ pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "BuildSelf"
 tags: ["O maior es","Routine"]
-heroImage: "/images/blog/zhuge_liang_guqin_strategy.png"
+heroImage: "/images/blog/zhuge_liang_guqin_strategy.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Registros Históricos dos Três Reinos (Biografia de Zhuge Liang) e Carta ao meu filho"

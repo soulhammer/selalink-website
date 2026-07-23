@@ -5,7 +5,7 @@ pubDate: "2026-05-09"
 updatedDate: "2026-05-09"
 category: "BuildSelf"
 tags: ["위인 습관", "제인 구달", "사색", "성찰"]
-heroImage: "/images/blog/jane_goodall.png"
+heroImage: "/images/blog/jane_goodall.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Jane Goodall, *In the Shadow of Man* (1971)"

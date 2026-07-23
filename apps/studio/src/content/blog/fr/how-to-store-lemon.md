@@ -5,7 +5,7 @@ description: "Découvrez la température, les méthodes et la durée optimales d
 pubDate: "2026-02-13"
 category: "FreshSnap"
 tags: ["Citron","Guide de conservation scientifiquement prouvé","fruit"]
-heroImage: "/images/blog/lemon_storage_hack.png"
+heroImage: "/images/blog/lemon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & FSA</strong>"

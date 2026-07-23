@@ -5,7 +5,7 @@ description: "근대 철학의 거장 임마누엘 칸트. 이웃들이 보고 �
 pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["위인 습관", "임마누엘 칸트", "산책", "규율", "휴식"]
-heroImage: "/images/blog/kant_walk.png"
+heroImage: "/images/blog/kant_walk.webp"
 app: "buildself"
 authority: "만프레드 쿤 저 '칸트 평전' 및 신경과학·학습기억저널(JN)"
 ---

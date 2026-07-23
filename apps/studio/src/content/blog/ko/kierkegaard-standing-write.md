@@ -5,7 +5,7 @@ description: "실존주의 철학자 쇠렌 키르케고르가 번뜩이는 사�
 pubDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["위인 습관", "쇠렌 키르케고르", "기록", "스탠딩데스크", "영감"]
-heroImage: "/images/blog/kierkegaard_standing_write.png"
+heroImage: "/images/blog/kierkegaard_standing_write.webp"
 app: "buildself"
 authority: "요아킴 가프 저 '쇠렌 키르케고르의 일대기' 및 인간공학회지(Applied Ergonomics)"
 updatedDate: "2026-02-08"

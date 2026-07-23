@@ -5,7 +5,7 @@ pubDate: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "BuildSelf"
 tags: ["La méthode","Routine"]
-heroImage: "/images/blog/picasso.png"
+heroImage: "/images/blog/picasso.webp"
 app: "buildself"
 formatVersion: 4
 authority: "John Richardson, *Une vie de Picasso* (1991) & Cognitive Neuroscientific Studies"

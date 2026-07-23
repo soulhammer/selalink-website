@@ -4,7 +4,7 @@ title: "Guía de termorregulación del Dragón Barbudo y rutina de 3 pasos de Ca
 description: "Cuidado del lagarto Dragón Barbudo. Conozca el significado del head bobbing y prevenga la enfermedad ósea metabólica (MBD) con una rutina de iluminación y calcio."
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
-heroImage: "/images/blog/bearded_dragon_care.png"
+heroImage: "/images/blog/bearded_dragon_care.webp"
 authority: "Directrices de la Association of Reptilian and Amphibian Veterinarians (ARAV) y Estándares de Herpetología"
 app: "petself"
 formatVersion: 4

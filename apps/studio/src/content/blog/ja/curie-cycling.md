@@ -4,7 +4,7 @@ description: "女性初であり、物理学・化学分野でノーベル賞を
 pubDate: "2026-02-28"
 category: "BuildSelf"
 tags: ["ラジウム研究のストレ","Routine"]
-heroImage: "/images/blog/curie_cycling.png"
+heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "エーヴ・キュリー著『キュリー夫人』およびハーバード・ヘルス・パブリッシング（Harvard Health）の運動研究"

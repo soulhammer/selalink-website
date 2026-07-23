@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["¿El rey de","Routine"]
-heroImage: "/images/blog/rockefeller_red_notebook.png"
+heroImage: "/images/blog/rockefeller_red_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía de John D. Rockefeller 'Titan' y revista Behavioral and Brain Sciences"

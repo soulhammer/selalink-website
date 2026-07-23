@@ -5,7 +5,7 @@ pubDate: "2026-06-07"
 updatedDate: "2026-06-07"
 category: "BuildSelf"
 tags: ["Pintar-se ","Routine"]
-heroImage: "/images/blog/kahlo_mirror_painting.png"
+heroImage: "/images/blog/kahlo_mirror_painting.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografia de Frida Kahlo 'Frida: A Biography of Frida Kahlo' & revista Psychotherapy"

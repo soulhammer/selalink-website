@@ -6,7 +6,7 @@ pubDate: "2026-05-29"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["위인 습관", "레오나르도 다 빈치", "메모", "기록", "창의성"]
-heroImage: "/images/blog/da_vinci_notepad.png"
+heroImage: "/images/blog/da_vinci_notepad.webp"
 app: "buildself"
 authority: "월터 아이작슨 저 '레오나르도 다 빈치' 및 교육심리학회지(JEP)"
 ---

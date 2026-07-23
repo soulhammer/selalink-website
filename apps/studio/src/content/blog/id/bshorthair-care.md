@@ -4,7 +4,7 @@ title: "Perawatan Berat Badan British Shorthair: Rutinitas 3 Langkah untuk Pence
 description: "British Shorthair dicintai karena perawakannya yang kekar. Temukan rutinitas diet 3 langkah untuk mencegah obesitas dan risiko HCM genetik."
 pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
-heroImage: "/images/blog/bshorthair_care.png"
+heroImage: "/images/blog/bshorthair_care.webp"
 authority: "Standar Breed GCCF untuk British Shorthair & Pedoman Obesitas Feline AAFP"
 app: "petself"
 formatVersion: 4

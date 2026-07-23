@@ -5,7 +5,7 @@ pubDate: "2026-01-16"
 updatedDate: "2026-01-16"
 category: "BuildSelf"
 tags: ["朝6時の不敗のメンタ","Routine"]
-heroImage: "/images/blog/jordan_breakfast_club.png"
+heroImage: "/images/blog/jordan_breakfast_club.webp"
 app: "buildself"
 formatVersion: 4
 authority: "フィジカルトレーナー ティム・グローバーの著書「Relentless」およびNBAアーカイブ"

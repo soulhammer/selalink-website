@@ -5,7 +5,7 @@ pubDate: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "BuildSelf"
 tags: ["Uma cadeir","Routine"]
-heroImage: "/images/blog/kennedy_rocking_chair.png"
+heroImage: "/images/blog/kennedy_rocking_chair.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Memórias da Dra. Janet Travell (Ortopedista da Casa Blanca) & Arquivos da Biblioteca Presidencial de JFK"

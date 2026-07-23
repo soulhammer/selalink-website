@@ -5,7 +5,7 @@ pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["平息杂念的专注力：金","Routine"]
-heroImage: "/images/blog/kimgu_brush_meditation.png"
+heroImage: "/images/blog/kimgu_brush_meditation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "金九著作《白凡逸志》历史考证与关于细微运动控制（Fine Motor Control）及杏仁核焦虑控制的研究"

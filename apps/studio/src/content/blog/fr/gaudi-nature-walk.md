@@ -5,7 +5,7 @@ pubDate: "2026-04-13"
 updatedDate: "2026-04-13"
 category: "BuildSelf"
 tags: ["Le maître ","Routine"]
-heroImage: "/images/blog/gaudi_nature_walk.png"
+heroImage: "/images/blog/gaudi_nature_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biographie de Gaudí 'Gaudí: A Biography' & études de l'Université de Stanford sur la marche"

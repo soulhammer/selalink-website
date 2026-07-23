@@ -5,7 +5,7 @@ pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["立ち上がった瞬間脳が","Routine"]
-heroImage: "/images/blog/rilke_standing_writing.png"
+heroImage: "/images/blog/rilke_standing_writing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "リルケ書簡集「Letters to a Young Poet」および起立姿勢の前頭葉血流覚醒認知科学研究"

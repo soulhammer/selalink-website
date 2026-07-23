@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["Great Habits","sushi","Routine","Stamina"]
-heroImage: "/images/blog/sushi_bamboo_walk_cooking.png"
+heroImage: "/images/blog/sushi_bamboo_walk_cooking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Su Shi Collected Works 'Dongpo Quanji' & Lin Yutang Biography 'The Gay Genius'"

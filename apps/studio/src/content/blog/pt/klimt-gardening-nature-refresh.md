@@ -5,7 +5,7 @@ pubDate: "2026-07-14"
 updatedDate: "2026-07-14"
 category: "BuildSelf"
 tags: ["O pintor q","Routine"]
-heroImage: "/images/blog/klimt_gardening_nature_refresh.png"
+heroImage: "/images/blog/klimt_gardening_nature_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Obra de Tobias G. Natter 'Gustav Klimt: The Complete Paintings' & cartas de Attersee"

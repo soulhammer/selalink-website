@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["孤独思维的解毒剂？大","Routine"]
-heroImage: "/images/blog/hume_social_refresh.png"
+heroImage: "/images/blog/hume_social_refresh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "休谟传记《The Life of David Hume》与认知神经科学学术期刊研究成果"

@@ -4,7 +4,7 @@ title: "Bahasa Flaring Ikan Betta (Cupang) dan Rutinitas 3 Langkah untuk Sirip I
 description: "Panduan lengkap merawat Ikan Betta (Cupang). Pahami ekspresi flaring sirip, kebutuhan organ labirin, dan pencegahan busuk sirip (Fin Rot) standar WSAVA."
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
-heroImage: "/images/blog/betta_fish_care.png"
+heroImage: "/images/blog/betta_fish_care.webp"
 authority: "World Small Animal Veterinary Association (WSAVA) Aquatic Health Standards"
 app: "petself"
 formatVersion: 4

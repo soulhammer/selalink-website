@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
 tags: ["亲手雕刻3D宇宙模型","Routine"]
-heroImage: "/images/blog/kepler_geometric_modeling.png"
+heroImage: "/images/blog/kepler_geometric_modeling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "开普勒著作《宇宙的神秘》与关于触觉空间操作的认知心理学研究"

@@ -5,7 +5,7 @@ pubDate: "2026-06-11"
 updatedDate: "2026-06-11"
 category: "BuildSelf"
 tags: ["Erasmus' R","Routine"]
-heroImage: "/images/blog/erasmus_notebook_travel.png"
+heroImage: "/images/blog/erasmus_notebook_travel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Erasmus, Lob der Torheit / Forschung zu Alpha-Gehirnwellen und kognitiver Flexibilität bei Bewegung"

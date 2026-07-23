@@ -5,7 +5,7 @@ pubDate: "2026-04-30"
 updatedDate: "2026-04-30"
 category: "BuildSelf"
 tags: ["每天在森林中漫步4小","Routine"]
-heroImage: "/images/blog/thoreau_forest_walk.png"
+heroImage: "/images/blog/thoreau_forest_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "梭罗著作《瓦尔登湖》与注意力恢复理论（ART）的认知科学研究"

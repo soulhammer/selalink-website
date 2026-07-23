@@ -5,7 +5,7 @@ pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["Great Habits","leibniz","Routine","Stamina"]
-heroImage: "/images/blog/leibniz_universal_notebook.png"
+heroImage: "/images/blog/leibniz_universal_notebook.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Maria Rosa Antognazza's 'Leibniz: An Intellectual Biography' and Cognitive Research on Semantic Networking and Long-term Potentiation (LTP)"

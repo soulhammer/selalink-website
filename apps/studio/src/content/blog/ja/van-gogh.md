@@ -5,7 +5,7 @@ pubDate: "2026-04-21"
 updatedDate: "2026-04-21"
 category: "BuildSelf"
 tags: ["毎晩兄テオに手紙を書","Routine"]
-heroImage: "/images/blog/van_gogh.png"
+heroImage: "/images/blog/van_gogh.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アーヴィング・ストーン、*親愛なるテオ: フィンセント・ファン・ゴッホ自伝* (1937) & 認知神経科学研究"

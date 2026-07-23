@@ -5,7 +5,7 @@ pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
 tags: ["把整个地球看作有机体","Routine"]
-heroImage: "/images/blog/humboldt_nature_journaling.png"
+heroImage: "/images/blog/humboldt_nature_journaling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "安德烈娅·伍尔夫传记《The Invention of Nature》与洪堡著作《Cosmos》"

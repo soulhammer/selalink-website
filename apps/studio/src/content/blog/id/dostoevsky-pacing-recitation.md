@@ -5,7 +5,7 @@ pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Suara yang","Routine"]
-heroImage: "/images/blog/dostoevsky_pacing_recitation.png"
+heroImage: "/images/blog/dostoevsky_pacing_recitation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Memoar Anna Dostoevskaya dan Penelitian LMU Munich tentang Kognisi Terwujud (Embodied Cognition)"

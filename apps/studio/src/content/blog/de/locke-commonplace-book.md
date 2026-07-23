@@ -5,7 +5,7 @@ pubDate: "2026-03-19"
 updatedDate: "2026-03-19"
 category: "BuildSelf"
 tags: ["Der Philos","Routine"]
-heroImage: "/images/blog/locke_commonplace_book.png"
+heroImage: "/images/blog/locke_commonplace_book.webp"
 app: "buildself"
 formatVersion: 4
 authority: "John Lockes Abhandlung 'A New Method of Making Common-Place-Books' & kognitive Forschung"

@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["管理决策疲劳：马克·","Routine"]
-heroImage: "/images/blog/zuckerberg_uniform_minimization.png"
+heroImage: "/images/blog/zuckerberg_uniform_minimization.webp"
 app: "buildself"
 formatVersion: 4
 authority: "马克·扎克伯格公开市政厅会议访谈考证及罗伊·鲍迈斯特自我损耗(Ego Depletion)认知心理学理论研究"

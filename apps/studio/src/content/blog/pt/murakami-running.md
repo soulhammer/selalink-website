@@ -5,7 +5,7 @@ pubDate: "2026-06-26"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["O escritor","Routine"]
-heroImage: "/images/blog/murakami_running.png"
+heroImage: "/images/blog/murakami_running.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Obra de Haruki Murakami 'Do Que Eu Falo Quando Falo de Corrida' e estudo da Frontiers in Psychology"

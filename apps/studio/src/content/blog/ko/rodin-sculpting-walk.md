@@ -5,7 +5,7 @@ pubDate: "2026-01-10"
 updatedDate: "2026-01-10"
 category: "BuildSelf"
 tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/rodin_sculpting_walk.png"
+heroImage: "/images/blog/rodin_sculpting_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "전기 'Auguste Rodin: Art and Life' 및 로댕 미술관(Musée Rodin) 보관 사료"

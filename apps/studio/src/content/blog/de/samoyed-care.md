@@ -4,7 +4,7 @@ title: "Samojede Fell- und Hüftpflege: 3-Schritte-Routine bei starkem Haaren un
 description: "Samojeden neigen zu Hüftdysplasie und Hautinfektionen unter ihrem dichten Fell. Lernen Sie eine Routine zur Pflege von Doppelhaar und Gelenken kennen."
 pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
-heroImage: "/images/blog/samoyed_care.png"
+heroImage: "/images/blog/samoyed_care.webp"
 authority: "AKC-Rassestandard für Samojeden & Richtlinien der OFA"
 app: "petself"
 formatVersion: 4

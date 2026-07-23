@@ -4,7 +4,7 @@ description: "公的安全基準に基づくスイカの最適な保存温度、
 pubDate: "2026-06-09"
 category: "FreshSnap"
 tags: ["スイカ","科学的に検証された保存ガイド","fruit"]
-heroImage: "/images/blog/watermelon_storage_hack.png"
+heroImage: "/images/blog/watermelon_storage_hack.webp"
 app: "freshsnap"
 authority: "<strong>韓国消費者院(KCA) & 食品医薬品安全処(MFDS)</strong>"
 steps:
@@ -51,7 +51,7 @@ formatVersion: 4
     スイカを半分に切ってラップだけをかけて保存すると, 切り口に雑菌が数千倍以上に繁殖し, 食中毒のリスクが高まります。残ったスイカにラップだけをかけて保存するのは避けてください。
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/watermelon_storage_detail.png" alt="プラスチックラップでの保存は避ける — 食中毒菌繁殖の防止 ❌🍉" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/watermelon_storage_detail.webp" alt="プラスチックラップでの保存は避ける — 食中毒菌繁殖の防止 ❌🍉" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

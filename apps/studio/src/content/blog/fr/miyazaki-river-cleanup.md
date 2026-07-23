@@ -5,7 +5,7 @@ pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Le matin c","Routine"]
-heroImage: "/images/blog/miyazaki_river_cleanup.png"
+heroImage: "/images/blog/miyazaki_river_cleanup.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Entretiens officiels de Ghibli et recherche sur la créativité en état de relaxation de la Brain Mapping Foundation"

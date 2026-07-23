@@ -5,7 +5,7 @@ description: "매일 밤 자신의 일기장에 학습과 몰입 시간을 평�
 pubDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["위인 습관", "조지프 슘페터", "생산성", "시간 관리", "성찰", "계획"]
-heroImage: "/images/blog/schumpeter_time_grading.png"
+heroImage: "/images/blog/schumpeter_time_grading.webp"
 app: "buildself"
 authority: "조지프 슘페터 평전 『슘페터의 생애와 사상』 고증 및 메타인지(Metacognition)와 자기조절 루프(Self-regulation Loop)가 인지 성취도에 미치는 효과 연구"
 updatedDate: "2026-04-19"

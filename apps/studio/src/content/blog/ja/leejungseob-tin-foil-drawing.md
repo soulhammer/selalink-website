@@ -5,7 +5,7 @@ pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["欠乏を克服する没頭：","Routine"]
-heroImage: "/images/blog/leejungseob_tin_foil_drawing.png"
+heroImage: "/images/blog/leejungseob_tin_foil_drawing.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ニューヨーク近代美術館（MoMA）に所蔵されている李仲燮の銀紙画の歴史的事実、および触覚・視覚連合刺激を通じた情緒弛緩研究"

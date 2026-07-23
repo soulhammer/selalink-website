@@ -5,7 +5,7 @@ pubDate: "2026-07-14"
 updatedDate: "2026-07-14"
 category: "BuildSelf"
 tags: ["Der Vater ","Routine"]
-heroImage: "/images/blog/jenner_observation_tracking_log.png"
+heroImage: "/images/blog/jenner_observation_tracking_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Richard Fisher Biografie 'Edward Jenner' & Archive der Royal Society"

@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["揺るぎない観測塔：コ","Routine"]
-heroImage: "/images/blog/copernicus_observatory_tower.png"
+heroImage: "/images/blog/copernicus_observatory_tower.webp"
 app: "buildself"
 formatVersion: 4
 authority: "『天球の回転について』歴史的序文考証およびイェール大学（Yale）の空間認知（Spatial Cognition）神経学研究"

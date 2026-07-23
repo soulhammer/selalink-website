@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Le flux cr","Routine"]
-heroImage: "/images/blog/wharton_bedside_writing_relaxation.png"
+heroImage: "/images/blog/wharton_bedside_writing_relaxation.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Autobiographie d'Edith Wharton « A Backward Glance » et recherche neurophysiologique sur l'activation parasympathique, les ondes cérébrales alpha et les performances d'écriture créative"

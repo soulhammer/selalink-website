@@ -5,7 +5,7 @@ pubDate: "2026-04-22"
 updatedDate: "2026-04-22"
 category: "BuildSelf"
 tags: ["通过午后海岸散步解决","Routine"]
-heroImage: "/images/blog/britten_afternoon_walk.png"
+heroImage: "/images/blog/britten_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "卡朋特《本杰明·布里顿传》与《人类神经科学前沿(Frontiers in Human Neuroscience)》期刊"

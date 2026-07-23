@@ -4,7 +4,7 @@ title: "ブリティッシュ・ショートヘアの体重ケア：HCMと肥満
 description: "がっしりした体格と大きな顔が特徴のブリティッシュ・ショートヘア。心臓と関節に負担をかける肥満の予防と、遺伝病の心筋症（HCM）対策の3段階ルーティンを紹介します."
 pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
-heroImage: "/images/blog/bshorthair_care.png"
+heroImage: "/images/blog/bshorthair_care.webp"
 authority: "GCCFブリティッシュ・ショートヘア基準＆AAFP猫肥満指針"
 app: "petself"
 formatVersion: 4

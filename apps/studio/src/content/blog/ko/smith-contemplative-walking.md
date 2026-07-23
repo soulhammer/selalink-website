@@ -5,7 +5,7 @@ description: "아이디어를 머릿속으로 조립하기 위해 완전히 몰�
 pubDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["생산성", "사색", "창의성"]
-heroImage: "/images/blog/smith_contemplative_walking.png"
+heroImage: "/images/blog/smith_contemplative_walking.webp"
 app: "buildself"
 authority: "존 레이 저 『애덤 스미스의 생애(The Life of Adam Smith)』 역사적 고증 및 스탠퍼드 대학교 오페조 & 슈워츠(2014)의 보행과 창의적 인지 기능 상관관계 연구"
 updatedDate: "2026-06-02"

@@ -5,7 +5,7 @@ pubDate: "2026-04-11"
 updatedDate: "2026-04-11"
 category: "BuildSelf"
 tags: ["¿Cómo domi","Routine"]
-heroImage: "/images/blog/louis_time_blocking.png"
+heroImage: "/images/blog/louis_time_blocking.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Memorias de Luis XIV y revista Journal of Consumer Research"

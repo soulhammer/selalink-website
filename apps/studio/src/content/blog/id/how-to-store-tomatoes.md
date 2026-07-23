@@ -5,7 +5,7 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Tomat berdasar
 pubDate: "2026-03-24"
 category: "FreshSnap"
 tags: ["Tomat","Panduan Penyimpanan yang Terbukti Secara Ilmiah","fruit"]
-heroImage: "/images/blog/tomato_storage_hack.png"
+heroImage: "/images/blog/tomato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & CDC</strong>"

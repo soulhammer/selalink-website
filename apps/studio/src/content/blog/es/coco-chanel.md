@@ -5,7 +5,7 @@ pubDate: "2026-05-17"
 updatedDate: "2026-05-17"
 category: "BuildSelf"
 tags: ["El método ","Routine"]
-heroImage: "/images/blog/coco_chanel.png"
+heroImage: "/images/blog/coco_chanel.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Edmonde Charles-Roux, *Chanel y su mundo* (1975) y estudios neurocientíficos cognitivos"

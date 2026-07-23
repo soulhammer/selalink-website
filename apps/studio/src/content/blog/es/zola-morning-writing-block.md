@@ -5,7 +5,7 @@ pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
 tags: ["¿30 años d","Routine"]
-heroImage: "/images/blog/zola_morning_writing_block.png"
+heroImage: "/images/blog/zola_morning_writing_block.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografía 'Émile Zola' de Henri Mitterand y Correspondencia de Zola"

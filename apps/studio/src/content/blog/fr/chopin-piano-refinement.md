@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["La perfect","Routine"]
-heroImage: "/images/blog/chopin_piano_refinement.png"
+heroImage: "/images/blog/chopin_piano_refinement.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Mémoire de George Sand 'Un hiver à Majorque' & analyses des manuscrits de l'Institut Fryderyk Chopin"

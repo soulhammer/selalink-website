@@ -5,7 +5,7 @@ pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "BuildSelf"
 tags: ["在探求理型前先锤炼双","Routine"]
-heroImage: "/images/blog/plato_gymnastic_wrestling.png"
+heroImage: "/images/blog/plato_gymnastic_wrestling.webp"
 app: "buildself"
 formatVersion: 4
 authority: "柏拉图对话录《国家篇》与学术期刊《Journal of Applied Physiology》"

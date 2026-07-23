@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Merancang ","Routine"]
-heroImage: "/images/blog/kubrick_index_box_archive.png"
+heroImage: "/images/blog/kubrick_index_box_archive.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Arsip Stanley Kubrick University of the Arts London (UAL) dan Riset Neurosains Kognitif tentang Chunking Informasi, Tesis Pikiran yang Diperluas, dan Pelepasan Kognitif"

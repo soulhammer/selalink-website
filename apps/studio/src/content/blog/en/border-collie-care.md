@@ -4,7 +4,7 @@ title: "Brain Stimulation Games and Joint Care Home Routine for Clever Border Co
 description: "Learn cognitive games and joint care tips for active Border Collies."
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
-heroImage: "/images/blog/border_collie_care.png"
+heroImage: "/images/blog/border_collie_care.webp"
 authority: "The Kennel Club (KC) Border Collie Guide & Animal Cognition Studies"
 app: "petself"
 formatVersion: 4

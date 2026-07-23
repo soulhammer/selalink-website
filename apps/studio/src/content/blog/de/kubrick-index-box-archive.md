@@ -5,7 +5,7 @@ pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Perfektion","Routine"]
-heroImage: "/images/blog/kubrick_index_box_archive.png"
+heroImage: "/images/blog/kubrick_index_box_archive.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Stanley Kubrick Archives der University of the Arts London (UAL) und kognitionsneurowissenschaftliche Forschung zu Informations-Chunking, Theorie des erweiterten Geistes und kognitiver Entlastung"

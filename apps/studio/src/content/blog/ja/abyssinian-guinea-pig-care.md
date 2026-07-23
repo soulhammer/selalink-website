@@ -4,7 +4,7 @@ title: "アビシニアンギニアピッグのビタミンC管理と呼吸器�
 description: "つむじのある被毛が特徴のアビシニアンギニアピッグ。体内で合成できない必須ビタミンCの与え方と、デリケートな呼吸器を守る3ステップルーチンについて解説します。"
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
-heroImage: "/images/blog/abyssinian_guinea_pig_care.png"
+heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
 authority: "英国王立動物虐待防止協会（RSPCA）げっ歯類飼育基準およびエキゾチック獣医学ガイドライン"
 app: "petself"
 formatVersion: 4

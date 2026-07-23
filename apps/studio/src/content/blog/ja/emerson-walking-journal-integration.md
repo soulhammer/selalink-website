@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["拡散と収束の二重奏：","Routine"]
-heroImage: "/images/blog/emerson_walking_journal_integration.png"
+heroImage: "/images/blog/emerson_walking_journal_integration.webp"
 app: "buildself"
 formatVersion: 4
 authority: "ハーバード大学出版局刊行『エマーソン・ジャーナルおよび備忘録』の実物考証、および認知心理学における拡散モード（Divergent）と収束モード（Convergent）の交差稼働による創造的問題解決の研究"

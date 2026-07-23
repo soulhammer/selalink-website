@@ -5,7 +5,7 @@ pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "BuildSelf"
 tags: ["大英博物馆穹顶下的1","Routine"]
-heroImage: "/images/blog/marx_reading_room.png"
+heroImage: "/images/blog/marx_reading_room.webp"
 app: "buildself"
 formatVersion: 4
 authority: "大英图书馆马克思阅览档案馆、弗朗西斯·温所著马克思评传《Karl Marx: A Life》与学术期刊《Cognitive Psychology》"

@@ -5,7 +5,7 @@ pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Die Angst ","Routine"]
-heroImage: "/images/blog/steinbeck_editor_letter.png"
+heroImage: "/images/blog/steinbeck_editor_letter.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Belege aus John Steinbecks Briefwechsel in 'Journal of a Novel' und kognitionspsychologische Forschung zu Perfektionismus und Procrastination"

@@ -4,7 +4,7 @@ title: "Guia de gasto de energia do gato Bengal e rotina de 3 passos para estimu
 description: "Cuidado do gato Bengal, ativo e inteligente. Aprenda a decifrar a linguagem corporal e evite comportamentos indesejados com jogos diários em 3 passos."
 pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
-heroImage: "/images/blog/bengal_care.png"
+heroImage: "/images/blog/bengal_care.webp"
 authority: "Padrão de Raça do Bengal da The International Cat Association (TICA) e Diretrizes de Comportamento Felino"
 app: "petself"
 formatVersion: 4

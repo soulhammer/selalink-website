@@ -5,7 +5,7 @@ description: "SF 소설의 개척자 쥘 베른이 매일 아침 새벽 5시에 
 pubDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
-heroImage: "/images/blog/verne_morning_scrap.png"
+heroImage: "/images/blog/verne_morning_scrap.webp"
 app: "buildself"
 authority: "쥘 베른 평전 'Jules Verne: Inventor of Science Fiction' 및 정교화 시연 인지 인출 이론"
 updatedDate: "2026-06-02"

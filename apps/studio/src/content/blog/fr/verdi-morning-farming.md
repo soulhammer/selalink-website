@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Mélodies é","Routine"]
-heroImage: "/images/blog/verdi_morning_farming.png"
+heroImage: "/images/blog/verdi_morning_farming.webp"
 app: "buildself"
 formatVersion: 4
 authority: "La biographie de Mary Jane Phillips-Matz 'Verdi: A Biography' et recherches en neurosciences environnementales sur la mise à la terre (earthing), l'exposition à la lumière matinale et la synthèse de sérotonine"

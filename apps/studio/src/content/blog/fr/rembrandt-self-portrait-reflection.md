@@ -5,7 +5,7 @@ pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Me regarde","Routine"]
-heroImage: "/images/blog/rembrandt_self_portrait_reflection.png"
+heroImage: "/images/blog/rembrandt_self_portrait_reflection.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Les archives du musée de la maison de Rembrandt et recherches neurocognitives sur l'observation du miroir, le cortex préfrontal médial (mPFC) et le traitement autoréférentiel"

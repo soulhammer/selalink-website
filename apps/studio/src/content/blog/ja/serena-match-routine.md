@@ -5,7 +5,7 @@ pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["不安を静めるサーブ：","Routine"]
-heroImage: "/images/blog/serena_match_routine.png"
+heroImage: "/images/blog/serena_match_routine.webp"
 app: "buildself"
 formatVersion: 4
 authority: "テニスマガジンおよびスポーツ心理学者シンガー（Singer）の遂行前ルーティン（Pre-Performance Routine）および認知的フレーミング（Cognitive Framing）研究"

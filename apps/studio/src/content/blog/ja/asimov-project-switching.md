@@ -5,7 +5,7 @@ pubDate: "2026-05-26"
 updatedDate: "2026-05-26"
 category: "BuildSelf"
 tags: ["執筆に行き詰まったら","Routine"]
-heroImage: "/images/blog/asimov_project_switching.png"
+heroImage: "/images/blog/asimov_project_switching.webp"
 app: "buildself"
 formatVersion: 4
 authority: "アイザック・アシモフの自伝的エッセイ集およびAPA認知疲労と作業記憶研究"

@@ -4,7 +4,7 @@ title: "실키한 요크셔테리어를 위한 모질 관리법과 슬개골 탈
 description: "비단결 같은 털을 자랑하는 요크셔테리어. 털 엉킴을 막는 섬세한 브러싱 노하우와 유전적으로 취약한 슬개골 탈구를 방지하는 하체 근력 케어 루틴을 소개합니다."
 pubDate: "2026-01-02"
 updatedDate: "2026-01-02"
-heroImage: "/images/blog/yorkshire_care.png"
+heroImage: "/images/blog/yorkshire_care.webp"
 authority: "영국 요크셔테리어 클럽(YTC) 공식 피모 가이드 및 수의정형외학 행동 지침"
 app: "petself"
 formatVersion: 4

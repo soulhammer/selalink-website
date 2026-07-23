@@ -5,7 +5,7 @@ pubDate: "2026-04-22"
 updatedDate: "2026-04-22"
 category: "BuildSelf"
 tags: ["오후 해안가 산책으","Routine"]
-heroImage: "/images/blog/britten_afternoon_walk.png"
+heroImage: "/images/blog/britten_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4
 authority: "험프리 카펜터의 '벤자민 브리튼 전기' 및 휴먼 뉴로사이언스(Frontiers in Human Neuroscience) 학술지"

@@ -4,7 +4,7 @@ title: "ヒョウモントカゲモドキの尾サインと脱皮不全を防ぐ
 description: "人気のヒョウモントカゲモドキ(レオパ)。しっぽの警戒サイン解読、脱皮不全を防ぐ湿性シェルター管理、ARAV基準の温度勾配を解説します。"
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
-heroImage: "/images/blog/leopard_gecko_care.png"
+heroImage: "/images/blog/leopard_gecko_care.webp"
 authority: "爬虫類・両生類獣医師協会 (ARAV) 飼育ガイドライン"
 app: "petself"
 formatVersion: 4

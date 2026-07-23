@@ -5,7 +5,7 @@ pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["ファッションの鉄の座","Routine"]
-heroImage: "/images/blog/wintour_morning_tennis.png"
+heroImage: "/images/blog/wintour_morning_tennis.webp"
 app: "buildself"
 formatVersion: 4
 authority: "伝記「Anna: The Biography」 & 大脳皮質神経学ジャーナル"

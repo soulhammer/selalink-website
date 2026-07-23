@@ -5,7 +5,7 @@ pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["夜明けを開くときめき","Routine"]
-heroImage: "/images/blog/chung_dawn_breakfast.png"
+heroImage: "/images/blog/chung_dawn_breakfast.webp"
 app: "buildself"
 formatVersion: 4
 authority: "鄭周永会長自伝『この朝にもときめいて』考証およびハーバード医科大学（Harvard Medical School）の睡眠＆生体周期研究"
