@@ -242,6 +242,41 @@ const renderMyFridge = () => {
   const tLocal = (key: string) => {
     return indexLocalTranslations[currentLang]?.[key] || indexLocalTranslations['en']?.[key] || key;
   };
+
+  const getIngredientMultilingualName = (item: any, lang: string) => {
+    if (item.nameMultilingual && item.nameMultilingual[lang]) {
+      return item.nameMultilingual[lang];
+    }
+    const id = item.ingredientId || item.id;
+    if (id) {
+      const cardEl = document.querySelector(`.ingredient-item-wrapper[data-id="${id}"], [data-id="${id}"]`);
+      if (cardEl) {
+        const rawMulti = cardEl.getAttribute('data-name-multilingual');
+        if (rawMulti) {
+          try {
+            const parsed = JSON.parse(rawMulti);
+            if (parsed[lang]) return parsed[lang];
+          } catch (e) {}
+        }
+      }
+    }
+
+    if (item.name) {
+      const allCards = document.querySelectorAll('.ingredient-item-wrapper, [data-name-multilingual]');
+      for (let i = 0; i < allCards.length; i++) {
+        const rawMulti = allCards[i].getAttribute('data-name-multilingual');
+        if (rawMulti) {
+          try {
+            const parsed = JSON.parse(rawMulti);
+            if (parsed.ko === item.name || parsed.en === item.name || Object.values(parsed).includes(item.name)) {
+              if (parsed[lang]) return parsed[lang];
+            }
+          } catch (e) {}
+        }
+      }
+    }
+    return item.name || '';
+  };
   
   const listStr = localStorage.getItem('freshsnap_my_fridge') || '[]';
   const list = JSON.parse(listStr);
@@ -265,6 +300,13 @@ const renderMyFridge = () => {
         myFridgeResetBtn.classList.add('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
       }
     }
+    
+    const urgentAlertShelf = document.getElementById('urgentAlertShelf');
+    const urgentAlertGrid = document.getElementById('urgentAlertGrid');
+    const urgentCountBadge = document.getElementById('urgentCountBadge');
+    if (urgentAlertShelf) urgentAlertShelf.classList.add('hidden');
+    if (urgentAlertGrid) urgentAlertGrid.innerHTML = '';
+    if (urgentCountBadge) urgentCountBadge.textContent = '0';
     
     // 점선 박스의 고급스러운 Empty State 가이드 카드 렌더링
     myFridgeGrid.innerHTML = `
@@ -327,14 +369,21 @@ const renderMyFridge = () => {
   if (urgentAlertShelf && urgentAlertGrid && urgentCountBadge) {
     if (urgentItems.length > 0) {
       urgentAlertShelf.classList.remove('hidden');
-      urgentCountBadge.textContent = `${urgentItems.length}개`;
-      urgentAlertGrid.innerHTML = urgentItems.map((item: any) => `
-        <div class="flex items-center gap-2 p-2 px-3 rounded-2xl bg-amber-500/15 dark:bg-amber-950/50 border border-amber-500/30 text-amber-950 dark:text-amber-100 text-xs font-bold shadow-sm">
-          <span>⚠️ <strong>${item.name}</strong></span>
-          <span class="text-[10px] font-black text-rose-600 dark:text-rose-400 bg-rose-500/10 px-1.5 py-0.5 rounded-full">D-${item.remaining < 0 ? 'DAY' : item.remaining}</span>
-          <button type="button" class="urgent-consume-btn text-[10px] font-black bg-emerald-600 hover:bg-emerald-500 text-white px-2 py-0.5 rounded-md ml-1 active:scale-95 transition-all cursor-pointer" data-id="${item.ingredientId}">완소 😋</button>
-        </div>
-      `).join('');
+      const itemUnit = currentLang === 'ja' ? '個' : currentLang === 'zh' ? '个' : currentLang === 'ko' ? '개' : ' Items';
+      urgentCountBadge.textContent = `${urgentItems.length}${itemUnit}`;
+
+      const btnConsumeTxt = tLocal('util.card.ate') || '먹었어요 😋';
+
+      urgentAlertGrid.innerHTML = urgentItems.map((item: any) => {
+        const itemName = getIngredientMultilingualName(item, currentLang);
+        return `
+          <div class="flex items-center gap-2 p-2 px-3 rounded-2xl bg-amber-500/15 dark:bg-amber-950/50 border border-amber-500/30 text-amber-950 dark:text-amber-100 text-xs font-bold shadow-sm">
+            <span>⚠️ <strong>${itemName}</strong></span>
+            <span class="text-[10px] font-black text-rose-600 dark:text-rose-400 bg-rose-500/10 px-1.5 py-0.5 rounded-full">D-${item.remaining < 0 ? 'DAY' : item.remaining}</span>
+            <button type="button" class="urgent-consume-btn text-[10px] font-black bg-emerald-600 hover:bg-emerald-500 text-white px-2 py-0.5 rounded-md ml-1 active:scale-95 transition-all cursor-pointer" data-id="${item.ingredientId || item.id}">${btnConsumeTxt}</button>
+          </div>
+        `;
+      }).join('');
 
       urgentAlertGrid.querySelectorAll('.urgent-consume-btn').forEach((btn) => {
         btn.addEventListener('click', (e) => {
@@ -417,8 +466,9 @@ const renderMyFridge = () => {
       statusBadge = `<span class="bg-emerald-50 dark:bg-emerald-950/20 text-emerald-800 dark:text-emerald-300 border border-emerald-200/30 dark:border-emerald-900/30 px-2 py-0.5 rounded-md text-[9px] font-black">${tLocal('util.myfridge.status.safe')}</span>`;
     }
     
+    const itemMultilingualName = getIngredientMultilingualName(item, currentLang);
     const iconHTML = item.iconImage 
-      ? `<img src="${item.iconImage}" alt="${item.name}" class="w-10 h-10 object-contain select-none block" />`
+      ? `<img src="${item.iconImage}" alt="${itemMultilingualName}" class="w-10 h-10 object-contain select-none block" />`
       : `<span class="text-3xl select-none block">${item.emoji}</span>`;
       
     return `
@@ -443,7 +493,7 @@ const renderMyFridge = () => {
           <div class="flex items-center gap-2.5">
             <div class="shrink-0">${iconHTML}</div>
             <div>
-              <h3 class="text-sm font-bold text-slate-800 dark:text-slate-100 line-clamp-1">${item.name}</h3>
+              <h3 class="text-sm font-bold text-slate-800 dark:text-slate-100 line-clamp-1">${itemMultilingualName}</h3>
               <div class="flex items-center gap-1.5 mt-0.5">
                 <span class="text-[9px] font-extrabold uppercase tracking-tight text-slate-400 dark:text-slate-500">
                   ${methodEmoji} ${methodLabel}
@@ -685,6 +735,7 @@ bsQuickAddBtn?.addEventListener('click', () => {
     list.unshift({
       ingredientId: currentBsIngredient.ingredientId,
       name: currentBsIngredient.name,
+      nameMultilingual: currentBsIngredient.nameMultilingual || null,
       storageMethod: currentBsIngredient.storageMethod,
       durationDays: currentBsIngredient.durationDays,
       tip: currentBsIngredient.tip,

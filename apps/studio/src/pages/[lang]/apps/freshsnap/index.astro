@@ -108,10 +108,10 @@ const categoryCounts = getCategoryCounts(ingredients);
             <span class="relative inline-flex rounded-full h-2.5 w-2.5 bg-amber-500"></span>
           </span>
           <h3 class="text-xs sm:text-sm font-extrabold text-amber-800 dark:text-amber-300 uppercase tracking-wider flex items-center gap-1.5">
-            📌 오늘 꼭 확인하세요! (소비 임박 식재료)
+            {t('util.urgent_shelf.title')}
           </h3>
         </div>
-        <span id="urgentCountBadge" class="text-[10px] font-black bg-amber-500/20 text-amber-800 dark:text-amber-200 px-2 py-0.5 rounded-full">0개</span>
+        <span id="urgentCountBadge" class="text-[10px] font-black bg-amber-500/20 text-amber-800 dark:text-amber-200 px-2 py-0.5 rounded-full">{t('util.urgent_shelf.count').replace('$1', '0')}</span>
       </div>
       <div id="urgentAlertGrid" class="flex flex-wrap gap-2 sm:gap-3">
         <!-- 핀 아이템 동적 바인딩 -->
@@ -456,19 +456,19 @@ const categoryCounts = getCategoryCounts(ingredients);
   <nav class="md:hidden fixed bottom-0 left-0 right-0 z-40 bg-white/90 dark:bg-slate-950/90 backdrop-blur-md border-t border-slate-200/80 dark:border-slate-800/80 px-2 py-1.5 flex items-center justify-around select-none shadow-2xl">
     <button type="button" id="mobileNavHome" class="flex flex-col items-center gap-0.5 text-emerald-600 dark:text-emerald-400 font-bold px-3 py-1 cursor-pointer">
       <span class="text-lg">🏠</span>
-      <span class="text-[10px]">홈</span>
+      <span class="text-[10px]">{t('util.nav.home')}</span>
     </button>
     <button type="button" id="mobileNavFridge" class="flex flex-col items-center gap-0.5 text-slate-500 dark:text-slate-400 hover:text-emerald-600 dark:hover:text-emerald-400 font-bold px-3 py-1 cursor-pointer">
       <span class="text-lg">🧊</span>
-      <span class="text-[10px]">내 냉장고</span>
+      <span class="text-[10px]">{t('util.nav.myfridge')}</span>
     </button>
     <button type="button" id="mobileNavGuide" class="flex flex-col items-center gap-0.5 text-slate-500 dark:text-slate-400 hover:text-emerald-600 dark:hover:text-emerald-400 font-bold px-3 py-1 cursor-pointer">
       <span class="text-lg">📚</span>
-      <span class="text-[10px]">보관도감</span>
+      <span class="text-[10px]">{t('util.nav.book')}</span>
     </button>
     <button type="button" id="mobileNavStats" class="flex flex-col items-center gap-0.5 text-slate-500 dark:text-slate-400 hover:text-emerald-600 dark:hover:text-emerald-400 font-bold px-3 py-1 cursor-pointer">
       <span class="text-lg">📊</span>
-      <span class="text-[10px]">성취스코어</span>
+      <span class="text-[10px]">{t('util.nav.score')}</span>
     </button>
   </nav>
 
@@ -483,28 +483,28 @@ const categoryCounts = getCategoryCounts(ingredients);
           🥬
         </div>
         <div>
-          <h3 id="bsTitle" class="text-lg font-bold text-slate-800 dark:text-slate-100">양배추</h3>
-          <span id="bsCategory" class="text-xs text-slate-400 font-medium uppercase">채소류</span>
+          <h3 id="bsTitle" class="text-lg font-bold text-slate-800 dark:text-slate-100">-</h3>
+          <span id="bsCategory" class="text-xs text-slate-400 font-medium uppercase">-</span>
         </div>
       </div>
 
       <div class="space-y-3 mb-6">
         <div class="p-3 rounded-2xl bg-slate-50 dark:bg-slate-850/60 border border-slate-200/60 dark:border-slate-800/60 text-xs text-slate-650 dark:text-slate-350 leading-relaxed">
-          <span class="font-extrabold text-emerald-600 dark:text-emerald-400 block mb-1">🏛️ 공인 기관 검증 보관 수칙</span>
-          <p id="bsTip">키친타월로 감싸 비닐팩에 밀봉 후 냉장 보관하세요.</p>
+          <span class="font-extrabold text-emerald-600 dark:text-emerald-400 block mb-1">{t('util.modal.official_tip')}</span>
+          <p id="bsTip">-</p>
         </div>
         <div class="flex items-center justify-between text-xs text-slate-500 px-1">
-          <span>권장 보관일수: <strong id="bsDuration" class="text-emerald-600 dark:text-emerald-400 font-black">10일</strong></span>
+          <span>{t('util.modal.duration_label')} <strong id="bsDuration" class="text-emerald-600 dark:text-emerald-400 font-black">-</strong></span>
           <span id="bsSources" class="text-[10px] bg-slate-200 dark:bg-slate-800 text-slate-600 dark:text-slate-300 px-2 py-0.5 rounded-full font-bold uppercase">MFDS / USDA</span>
         </div>
       </div>
 
       <div class="flex items-center gap-2">
         <button type="button" id="bsQuickAddBtn" class="flex-1 py-3 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-extrabold text-xs text-center shadow-lg shadow-emerald-600/20 transition-all cursor-pointer active:scale-95">
-          ⚡ 1-Tap 내 냉장고에 담기
+          {t('util.modal.add_btn')}
         </button>
         <button type="button" id="bsCloseBtn" class="py-3 px-4 rounded-xl bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 font-bold text-xs cursor-pointer">
-          닫기
+          {t('util.modal.close')}
         </button>
       </div>
     </div>

@@ -37,6 +37,70 @@ export interface BuildSnapConfig {
 export function initBuildSnapUI(config: BuildSnapConfig) {
   const { habits, currentLang, runtimeTranslations, eraMentors, habitsTranslations } = config;
 
+  const getTranslatedHabitField = (id: string | undefined, heroNameFallback: string, field: 'name' | 'habitName' | 'actionName', fallback: string) => {
+    let targetId = id;
+    if (!targetId && heroNameFallback) {
+      const matched = habits.find((h: any) => h.name === heroNameFallback || (h.name && heroNameFallback && (h.name.includes(heroNameFallback) || heroNameFallback.includes(h.name))));
+      if (matched) targetId = matched.id;
+    }
+
+    let transObj = targetId ? (habitsTranslations as any)?.[targetId] : null;
+
+    // ID 미스매치 방지용 전수 heroName 역방향 매칭 (앙리 카르티에 브레송, 에픽테토스 등)
+    if (!transObj && heroNameFallback) {
+      const entries = Object.entries(habitsTranslations as any);
+      for (const [, obj] of entries) {
+        const itemObj: any = obj;
+        if (
+          itemObj?.ko?.name === heroNameFallback ||
+          itemObj?.en?.name === heroNameFallback ||
+          (itemObj?.ko?.name && heroNameFallback.includes(itemObj.ko.name)) ||
+          (itemObj?.en?.name && heroNameFallback.includes(itemObj.en.name))
+        ) {
+          transObj = itemObj;
+          break;
+        }
+      }
+    }
+
+    if (transObj && transObj[currentLang]) {
+      const langObj = transObj[currentLang];
+      let res = '';
+      if (field === 'name' && langObj.name) res = langObj.name;
+      else if (field === 'habitName' && langObj.habitName) res = langObj.habitName;
+      else if (field === 'actionName') {
+        res = langObj.actionName || langObj.quote || langObj.description || '';
+      }
+
+      if (res && (currentLang === 'ko' || !/[\uAC00-\uD7A3]/.test(res))) {
+        return res;
+      }
+    }
+
+    // 2차 영문 사전 폴백
+    if (transObj && transObj.en) {
+      const enObj = transObj.en;
+      let enRes = '';
+      if (field === 'name' && enObj.name) enRes = enObj.name;
+      else if (field === 'habitName' && enObj.habitName) enRes = enObj.habitName;
+      else if (field === 'actionName') enRes = enObj.actionName || enObj.quote || enObj.description || '';
+
+      if (enRes && !/[\uAC00-\uD7A3]/.test(enRes)) {
+        return enRes;
+      }
+    }
+
+    if (targetId) {
+      const habitObj = habits.find((h: any) => h.id === targetId);
+      if (habitObj) {
+        if (field === 'name' && habitObj.name) return habitObj.name;
+        if (field === 'habitName' && habitObj.habitName) return habitObj.habitName;
+        if (field === 'actionName' && (habitObj.actionName || habitObj.quote)) return habitObj.actionName || habitObj.quote;
+      }
+    }
+    return fallback;
+  };
+
   // ----------------------------------------------------
   // A. Stats Dashboard Accordion Toggle
   // ----------------------------------------------------
@@ -552,7 +616,13 @@ export function initBuildSnapUI(config: BuildSnapConfig) {
       if (resultHabitName) {
         resultHabitName.innerHTML = '';
         
-        const eraLabel = tClient(`buildsnap.era.${item.era === '근세' ? 'earlyModern' : item.era === '근대' ? 'modern' : item.era === '현대' ? 'contemporary' : 'ancient'}`);
+        const eraStr = (item.era || '').toLowerCase();
+        const eraKey = eraStr.includes('early') || eraStr.includes('근세') ? 'earlyModern' 
+          : eraStr.includes('renaissance') || eraStr.includes('르네상스') ? 'renaissance'
+          : eraStr.includes('modern') || eraStr.includes('근대') ? 'modern'
+          : eraStr.includes('contemporary') || eraStr.includes('현대') ? 'contemporary'
+          : 'ancient';
+        const eraLabel = tClient(`buildsnap.era.${eraKey}`);
         const eraBadge = document.createElement('span');
         eraBadge.className = 'era-badge mr-2 bg-indigo-50 dark:bg-indigo-900/30 text-indigo-600 dark:text-indigo-400 border-indigo-100 dark:border-indigo-800/40';
         eraBadge.textContent = eraLabel;
@@ -613,6 +683,188 @@ export function initBuildSnapUI(config: BuildSnapConfig) {
   if (btnDiagnose) {
     btnDiagnose.addEventListener('click', () => {
       triggerDiagnose(false);
+    });
+  }
+
+  // 나의 습관 실천 현황 개인화 대시보드 동적 연산 및 렌더링 함수
+  const renderMyPersonalStats = () => {
+    const curCanvas = JSON.parse(localStorage.getItem('selalink_buildsnap_my_canvas') || '[]');
+    const todayStr = new Date().toISOString().split('T')[0];
+
+    const totalCount = curCanvas.length;
+    const completedCount = curCanvas.filter((c: any) => c.lastCheckedDate === todayStr).length;
+    const completionRate = totalCount > 0 ? Math.round((completedCount / totalCount) * 100) : 0;
+    const maxStreak = totalCount > 0 ? Math.max(...curCanvas.map((c: any) => c.streakCount || 1)) : 0;
+
+    const elTotal = document.getElementById('statMyTotalHabits');
+    const elRate = document.getElementById('statMyCompletionRate');
+    const elStreak = document.getElementById('statMyMaxStreak');
+    const elBadge = document.getElementById('myStatsCompletionBadge');
+    const elProgressBar = document.getElementById('myStatsProgressBar');
+
+    const unitItems = (tClient('buildsnap.mystats.unit.items') || '$1개').replace('$1', String(totalCount));
+    const unitDays = (tClient('buildsnap.mystats.unit.days') || '🔥 $1일').replace('$1', String(maxStreak));
+    const badgeText = (tClient('buildsnap.mystats.today_badge') || '오늘 완료율 $1% ($2/$3)')
+      .replace('$1', String(completionRate))
+      .replace('$2', String(completedCount))
+      .replace('$3', String(totalCount));
+
+    if (elTotal) elTotal.textContent = unitItems;
+    if (elRate) elRate.textContent = `${completionRate}%`;
+    if (elStreak) elStreak.textContent = unitDays;
+    if (elBadge) elBadge.textContent = badgeText;
+    if (elProgressBar) elProgressBar.style.width = `${completionRate}%`;
+  };
+
+  // 나의 위인 습관 캔버스 보드 동적 렌더링 함수
+  const renderMyCanvas = () => {
+    renderMyPersonalStats();
+    const canvasBoard = document.getElementById('myCanvasBoard');
+    const canvasCountBadge = document.getElementById('canvasCountBadge');
+    if (!canvasBoard) return;
+
+    const curCanvas = JSON.parse(localStorage.getItem('selalink_buildsnap_my_canvas') || '[]');
+    if (canvasCountBadge) {
+      const countTpl = tClient('buildsnap.canvas.count') || '담긴 습관 $1개';
+      canvasCountBadge.textContent = countTpl.replace('$1', String(curCanvas.length));
+    }
+
+    if (curCanvas.length === 0) {
+      const emptyTitle = tClient('buildsnap.canvas.empty.title') || '아직 담긴 위인 습관이 없습니다';
+      const emptyDesc = tClient('buildsnap.canvas.empty.desc') || '위인 진단기에서 [⚡ 내 습관 캔버스에 담기]를 누르면 이곳에 나만의 실천 보드가 생성됩니다.';
+      canvasBoard.innerHTML = `
+        <div id="canvasEmptyGuide" class="col-span-full text-center py-12 px-6 rounded-2xl border border-dashed border-slate-250 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-900/30 flex flex-col items-center justify-center">
+          <span class="text-4xl mb-3 animate-bounce">✨</span>
+          <h4 class="text-sm sm:text-base font-bold text-slate-700 dark:text-slate-300 mb-1">${emptyTitle}</h4>
+          <p class="text-xs text-slate-500 dark:text-slate-400 max-w-sm">${emptyDesc}</p>
+        </div>
+      `;
+      return;
+    }
+
+    const todayStr = new Date().toISOString().split('T')[0];
+    const txtCheckToday = tClient('buildsnap.canvas.check.today') || '✓ 오늘 완료';
+    const txtCheckDone = tClient('buildsnap.canvas.check.done') || '✓ 실천 완료! 👏';
+    const txtDelete = tClient('buildsnap.canvas.delete') || '✕ 삭제';
+    const streakUnitTpl = tClient('buildsnap.mystats.unit.days') || '🔥 $1일';
+
+    canvasBoard.innerHTML = curCanvas.map((item: any) => {
+      const isCheckedToday = item.lastCheckedDate === todayStr;
+      const streak = item.streakCount || 1;
+      const streakStr = streakUnitTpl.replace('$1', String(streak));
+      const heroName = getTranslatedHabitField(item.habitId, item.heroName, 'name', item.heroName);
+      const habitTitle = getTranslatedHabitField(item.habitId, item.heroName, 'habitName', item.habitTitle);
+      const actionName = getTranslatedHabitField(item.habitId, item.heroName, 'actionName', item.actionName || item.habitTitle);
+
+      return `
+        <div class="canvas-item flex flex-col justify-between p-4 rounded-2xl bg-white dark:bg-slate-900 border border-sky-500/20 dark:border-sky-500/30 shadow-md hover:shadow-xl transition-all duration-300 relative group" data-id="${item.habitId}">
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-2">
+              <span class="text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded-full bg-sky-500/10 dark:bg-sky-500/20 text-sky-600 dark:text-sky-400">
+                👤 ${heroName}
+              </span>
+              <button type="button" class="canvas-delete-btn text-[10px] font-bold text-slate-400 hover:text-rose-500 transition-colors p-1" data-id="${item.habitId}">
+                ${txtDelete}
+              </button>
+            </div>
+            <h4 class="text-sm font-extrabold text-slate-850 dark:text-slate-100 mb-1 leading-snug">
+              ${habitTitle}
+            </h4>
+            <p class="text-xs text-slate-500 dark:text-slate-400 font-medium line-clamp-2 mb-3">
+              ${actionName}
+            </p>
+          </div>
+
+          <div class="pt-3 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between gap-2">
+            <span class="text-[10px] font-black text-amber-600 dark:text-amber-400 flex items-center gap-1">
+              ${streakStr}
+            </span>
+            <button type="button" class="canvas-check-btn text-[11px] font-extrabold px-3 py-1.5 rounded-xl ${isCheckedToday ? 'bg-slate-400 cursor-default' : 'bg-emerald-600 hover:bg-emerald-500 active:scale-95'} text-white shadow-sm transition-all" data-id="${item.habitId}" ${isCheckedToday ? 'disabled' : ''}>
+              ${isCheckedToday ? txtCheckDone : txtCheckToday}
+            </button>
+          </div>
+        </div>
+      `;
+    }).join('');
+
+    // 이벤트 리스너 바인딩 (삭제 및 완료)
+    canvasBoard.querySelectorAll('.canvas-delete-btn').forEach((btn) => {
+      btn.addEventListener('click', (e) => {
+        const id = (e.currentTarget as HTMLElement).getAttribute('data-id');
+        if (!id) return;
+        const freshCanvas = JSON.parse(localStorage.getItem('selalink_buildsnap_my_canvas') || '[]');
+        const updated = freshCanvas.filter((c: any) => c.habitId !== id);
+        localStorage.setItem('selalink_buildsnap_my_canvas', JSON.stringify(updated));
+        renderMyCanvas();
+        showToast(tClient('buildsnap.toast.deleted'));
+      });
+    });
+
+    canvasBoard.querySelectorAll('.canvas-check-btn').forEach((btn) => {
+      btn.addEventListener('click', (e) => {
+        const id = (e.currentTarget as HTMLElement).getAttribute('data-id');
+        if (!id) return;
+        const freshCanvas = JSON.parse(localStorage.getItem('selalink_buildsnap_my_canvas') || '[]');
+        const todayStrNow = new Date().toISOString().split('T')[0];
+
+        const updated = freshCanvas.map((c: any) => {
+          if (c.habitId === id) {
+            const newStreak = calculateStreak(c.lastCheckedDate || '', todayStrNow, c.streakCount || 1);
+            return { ...c, lastCheckedDate: todayStrNow, streakCount: newStreak };
+          }
+          return c;
+        });
+
+        localStorage.setItem('selalink_buildsnap_my_canvas', JSON.stringify(updated));
+        renderMyCanvas();
+        showToast(tClient('buildsnap.toast.completed'));
+      });
+    });
+  };
+
+  // 캔버스 전체 비우기 버튼 바인딩
+  const btnClearCanvas = document.getElementById('btnClearCanvas');
+  if (btnClearCanvas) {
+    btnClearCanvas.addEventListener('click', () => {
+      const curCanvas = JSON.parse(localStorage.getItem('selalink_buildsnap_my_canvas') || '[]');
+      if (curCanvas.length === 0) {
+        showToast(tClient('buildsnap.toast.empty'));
+        return;
+      }
+      localStorage.removeItem('selalink_buildsnap_my_canvas');
+      renderMyCanvas();
+      showToast(tClient('buildsnap.toast.cleared'));
+    });
+  }
+
+  // 초기 캔버스 렌더링 실행
+  renderMyCanvas();
+
+  const btnAddToCanvas = document.getElementById('btnAddToCanvas');
+  if (btnAddToCanvas) {
+    btnAddToCanvas.addEventListener('click', () => {
+      if (!currentPool || currentPool.length === 0) return;
+      const item = currentPool[currentIndex];
+      const curCanvas = JSON.parse(localStorage.getItem('selalink_buildsnap_my_canvas') || '[]');
+      
+      const isAlreadyAdded = curCanvas.some((c: any) => c.habitId === item.id);
+      if (!isAlreadyAdded) {
+        curCanvas.push({
+          habitId: item.id,
+          heroName: item.name,
+          habitTitle: item.habitName,
+          actionName: item.actionName || item.habitName,
+          timeOfDay: item.timeOfDay || 'morning',
+          addedDate: new Date().toISOString()
+        });
+        localStorage.setItem('selalink_buildsnap_my_canvas', JSON.stringify(curCanvas));
+        renderMyCanvas();
+        const heroNameTrans = getTranslatedHabitField(item.id, item.name, 'name', item.name);
+        const msgAdded = (tClient('buildsnap.toast.added') || '⚡ $1의 습관이 추가되었습니다.').replace('$1', heroNameTrans);
+        showToast(msgAdded);
+      } else {
+        showToast(tClient('buildsnap.toast.already'));
+      }
     });
   }
 
@@ -735,3 +987,82 @@ export function initBuildSnapUI(config: BuildSnapConfig) {
     });
   }
 }
+
+/**
+ * 1-Tap 위인 습관 담기용 데이터 파서 헬퍼
+ */
+export function parseBuildSnapQuickAdd(habit: any) {
+  return {
+    habitId: habit?.id || '',
+    heroName: habit?.name || '',
+    habitTitle: habit?.habitName || habit?.name || '',
+    actionName: habit?.actionName || habit?.habitName || '',
+    timeOfDay: habit?.timeOfDay || 'morning'
+  };
+}
+
+/**
+ * 연속 실천 일수(Streak) 계산 헬퍼
+ */
+export function calculateStreak(lastCheckedDate: string, todayDate: string, currentStreak: number): number {
+  if (!lastCheckedDate) return 1;
+
+  const lastDate = new Date(lastCheckedDate);
+  const today = new Date(todayDate);
+  lastDate.setHours(0, 0, 0, 0);
+  today.setHours(0, 0, 0, 0);
+
+  const diffTime = today.getTime() - lastDate.getTime();
+  const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+
+  if (diffDays === 1) {
+    return currentStreak + 1;
+  } else if (diffDays === 0) {
+    return currentStreak;
+  } else {
+    return 1;
+  }
+}
+
+/**
+ * 성취 뱃지 해금 조건 검증 헬퍼
+ */
+export function checkBadgeUnlock(streakDays: number, badgeType: string): boolean {
+  if (badgeType === 'explorer') return streakDays >= 7;
+  if (badgeType === 'master') return streakDays >= 14;
+  if (badgeType === 'legend') return streakDays >= 30;
+  return streakDays >= 7;
+}
+
+// 모바일 Bottom Sheet 슬라이드 모달 및 하단 탭바 클라이언트 이벤트 등록
+if (typeof document !== 'undefined') {
+  document.addEventListener('click', (e) => {
+    const target = e.target as HTMLElement;
+    if (!target) return;
+
+    if (target.id === 'buildsnapBsCloseBtn' || target.id === 'buildsnapBsCloseHandle') {
+      const modal = document.getElementById('buildsnapBottomSheetModal');
+      if (modal) modal.classList.add('hidden');
+    }
+
+    const anchor = target.closest('a[href^="#"]');
+    if (anchor) {
+      const href = anchor.getAttribute('href');
+      if (href && href.startsWith('#')) {
+        const targetSection = document.querySelector(href);
+        if (targetSection) {
+          e.preventDefault();
+          // 통계 탭 클릭 시 아코디언 자동 오픈
+          if (href === '#statsSection') {
+            const statsContainer = document.getElementById('statsContainer');
+            if (statsContainer && statsContainer.classList.contains('hidden')) {
+              statsContainer.classList.remove('hidden');
+            }
+          }
+          targetSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      }
+    }
+  });
+}
+

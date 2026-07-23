@@ -172,7 +172,45 @@ const runtimeTranslations = {
     </div>
 
     <!-- 1. Stats Dashboard Section (Premium UI with Accordion) -->
-    <section class="app-card-neon p-6 md:p-8 mb-8 md:mb-12 relative z-10 border border-slate-200 dark:border-slate-800/80 rounded-3xl bg-slate-50/50 dark:bg-slate-900/10">
+    <section id="statsSection" class="app-card-neon p-6 md:p-8 mb-8 md:mb-12 relative z-10 border border-slate-200 dark:border-slate-800/80 rounded-3xl bg-slate-50/50 dark:bg-slate-900/10">
+      
+      <!-- 🎯 나의 습관 실천 현황 개인화 대시보드 (My Personal Routine Practice Stats) -->
+      <div id="myPersonalStatsBoard" class="mb-6 p-5 rounded-2xl bg-gradient-to-r from-sky-500/10 via-indigo-500/10 to-purple-500/10 border border-sky-500/20 dark:border-sky-500/30">
+        <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 mb-3">
+          <div>
+            <h3 class="text-base sm:text-lg font-black text-slate-900 dark:text-white flex items-center gap-2">
+              <span>{t('buildsnap.mystats.title')}</span>
+            </h3>
+            <p class="text-xs text-slate-500 dark:text-slate-400">
+              {t('buildsnap.mystats.desc')}
+            </p>
+          </div>
+          <span id="myStatsCompletionBadge" class="px-3 py-1 rounded-full bg-emerald-500/20 text-emerald-700 dark:text-emerald-300 text-xs font-black border border-emerald-500/30 shrink-0">
+            0% (0/0)
+          </span>
+        </div>
+
+        <!-- 실천 완료율 게이지 바 -->
+        <div class="w-full h-3 rounded-full bg-slate-200 dark:bg-slate-800 overflow-hidden mb-4">
+          <div id="myStatsProgressBar" class="h-full bg-gradient-to-r from-sky-500 to-emerald-500 transition-all duration-500 w-0"></div>
+        </div>
+
+        <!-- 3대 요약 지표 카드 -->
+        <div class="grid grid-cols-3 gap-3 text-center">
+          <div class="p-3 rounded-xl bg-white/80 dark:bg-slate-900/80 border border-slate-200/60 dark:border-slate-800">
+            <span class="text-xs text-slate-400 font-bold block mb-0.5">{t('buildsnap.mystats.totalhabits')}</span>
+            <span id="statMyTotalHabits" class="text-base sm:text-lg font-black text-slate-800 dark:text-slate-100">0</span>
+          </div>
+          <div class="p-3 rounded-xl bg-white/80 dark:bg-slate-900/80 border border-slate-200/60 dark:border-slate-800">
+            <span class="text-xs text-slate-400 font-bold block mb-0.5">{t('buildsnap.mystats.completion')}</span>
+            <span id="statMyCompletionRate" class="text-base sm:text-lg font-black text-emerald-600 dark:text-emerald-400">0%</span>
+          </div>
+          <div class="p-3 rounded-xl bg-white/80 dark:bg-slate-900/80 border border-slate-200/60 dark:border-slate-800">
+            <span class="text-xs text-slate-400 font-bold block mb-0.5">{t('buildsnap.mystats.maxstreak')}</span>
+            <span id="statMyMaxStreak" class="text-base sm:text-lg font-black text-amber-600 dark:text-amber-400">🔥 0</span>
+          </div>
+        </div>
+      </div>
       
       <!-- Accordion Toggle Header Trigger -->
       <div id="btnToggleStats" class="flex items-center justify-between cursor-pointer select-none group">
@@ -609,18 +647,21 @@ const runtimeTranslations = {
               <!-- Cycle guide instructions -->
               <div id="matcherCycleGuide" class="mt-1 px-3.5 py-1.5 rounded-lg text-[10px] font-bold bg-slate-50 dark:bg-slate-900/50 border border-slate-200/50 dark:border-slate-800/50 text-slate-500 dark:text-slate-400 flex items-center justify-center gap-1.5 select-none"></div>
 
-              <!-- Action buttons for results (Shuffle, Read Story, Reset history, Start Over) -->
-              <div class="w-full flex flex-col sm:flex-row flex-wrap items-center justify-center gap-2 pt-5 mt-5 border-t border-slate-100 dark:border-slate-900">
-                <button type="button" id="btnShuffle" class="w-full sm:w-auto px-5 py-2.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-lg text-xs sm:text-sm font-black shadow-md transition-all active:scale-95 select-none cursor-pointer">
+              <!-- Action buttons for results (Add to Canvas, Shuffle, Read Story, Reset history, Start Over) -->
+              <div class="w-full flex flex-col sm:flex-row flex-wrap items-center justify-center gap-2.5 pt-5 mt-5 border-t border-slate-100 dark:border-slate-900">
+                <button type="button" id="btnAddToCanvas" class="w-full sm:w-auto px-6 py-2.5 bg-gradient-to-r from-sky-600 to-indigo-600 hover:from-sky-500 hover:to-indigo-500 text-white rounded-xl text-xs sm:text-sm font-black shadow-lg shadow-sky-500/25 transition-all active:scale-95 select-none cursor-pointer flex items-center justify-center gap-2">
+                  <span>⚡</span> <span>{t('buildsnap.matcher.btn.addToCanvas')}</span> <span>(+)</span>
+                </button>
+                <button type="button" id="btnShuffle" class="w-full sm:w-auto px-4 py-2.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-xl text-xs sm:text-sm font-black shadow-md transition-all active:scale-95 select-none cursor-pointer">
                   {t('buildsnap.matcher.btn.shuffle')}
                 </button>
-                <a href="#" id="btnReadStory" target="_blank" class="w-full sm:w-auto px-5 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg text-xs sm:text-sm font-black shadow-md transition-all active:scale-95 text-center select-none cursor-pointer">
+                <a href="#" id="btnReadStory" target="_blank" class="w-full sm:w-auto px-4 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white rounded-xl text-xs sm:text-sm font-black shadow-md transition-all active:scale-95 text-center select-none cursor-pointer">
                   📖 {t('buildsnap.result.button')}
                 </a>
-                <button type="button" id="btnResetHistory" class="w-full sm:w-auto px-5 py-2.5 border border-slate-200 dark:border-slate-800 text-slate-400 hover:text-rose-500 hover:border-rose-500 rounded-lg text-xs sm:text-sm font-black transition-all active:scale-95 select-none cursor-pointer">
+                <button type="button" id="btnResetHistory" class="w-full sm:w-auto px-3.5 py-2.5 border border-slate-200 dark:border-slate-800 text-slate-400 hover:text-rose-500 hover:border-rose-500 rounded-xl text-xs sm:text-sm font-black transition-all active:scale-95 select-none cursor-pointer">
                   {t('buildsnap.matcher.btn.reset')}
                 </button>
-                <button type="button" id="btnStartOver" class="w-full sm:w-auto px-5 py-2.5 border border-indigo-500/20 text-indigo-650 hover:bg-indigo-600 hover:text-white dark:text-indigo-400 rounded-lg text-xs sm:text-sm font-black transition-all active:scale-95 select-none cursor-pointer flex items-center justify-center gap-1.5">
+                <button type="button" id="btnStartOver" class="w-full sm:w-auto px-3.5 py-2.5 border border-indigo-500/20 text-indigo-650 hover:bg-indigo-600 hover:text-white dark:text-indigo-400 rounded-xl text-xs sm:text-sm font-black transition-all active:scale-95 select-none cursor-pointer flex items-center justify-center gap-1.5">
                   {t('buildsnap.matcher.btn.startover')}
                 </button>
               </div>
@@ -644,10 +685,105 @@ const runtimeTranslations = {
             <p class="text-xs sm:text-sm font-bold text-slate-500 dark:text-slate-400">{t('buildsnap.matcher.result.none')}</p>
           </div>
 
-        </div>
-
       </div>
     </section>
+
+    <!-- 3. 나의 위인 습관 캔버스 보드 섹션 (My Routine Canvas Board & 66-Day Milestone) -->
+    <section id="canvasSection" class="mt-12 md:mt-16 bg-white/70 dark:bg-slate-950/70 backdrop-blur-xl border border-sky-500/20 dark:border-sky-500/30 p-6 md:p-8 rounded-[2rem] shadow-2xl relative overflow-hidden">
+      <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-8 border-b border-slate-200/80 dark:border-slate-800 pb-6">
+        <div>
+          <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-sky-500/10 dark:bg-sky-500/20 text-sky-600 dark:text-sky-400 text-xs font-black mb-2">
+            <span>📜</span> <span>MY ROUTINE CANVAS</span>
+          </div>
+          <h2 class="text-xl sm:text-2xl font-black text-slate-900 dark:text-white tracking-tight">
+            {t('buildsnap.canvas.title')}
+          </h2>
+          <p class="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1">
+            {t('buildsnap.canvas.desc')}
+          </p>
+        </div>
+        <div class="flex items-center gap-2.5 shrink-0">
+          <span id="canvasCountBadge" class="px-3.5 py-1.5 rounded-xl bg-sky-500/15 text-sky-700 dark:text-sky-300 text-xs font-black border border-sky-500/30">
+            {t('buildsnap.canvas.count').replace('$1', '0')}
+          </span>
+          <button type="button" id="btnClearCanvas" class="px-3.5 py-1.5 rounded-xl border border-slate-200 dark:border-slate-800 text-slate-400 hover:text-rose-500 hover:border-rose-500 text-xs font-bold transition-all active:scale-95 cursor-pointer">
+            {t('buildsnap.canvas.clear')}
+          </button>
+        </div>
+      </div>
+
+      <!-- 캔버스 보드 4대 시간대 그리드 (Morning, Afternoon, Evening, Anytime) -->
+      <div id="myCanvasBoard" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">
+        <!-- JS로 동적 렌더링 또는 빈 상태 가이드 -->
+        <div id="canvasEmptyGuide" class="col-span-full text-center py-12 px-6 rounded-2xl border border-dashed border-slate-250 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-900/30 flex flex-col items-center justify-center">
+          <span class="text-4xl mb-3 animate-bounce">✨</span>
+          <h4 class="text-sm sm:text-base font-bold text-slate-700 dark:text-slate-300 mb-1">{t('buildsnap.canvas.empty.title')}</h4>
+          <p class="text-xs text-slate-500 dark:text-slate-400 max-w-sm">{t('buildsnap.canvas.empty.desc')}</p>
+        </div>
+      </div>
+
+      <!-- 66일 습관 형성 마일스톤 (Resist ➔ Stabilize ➔ Auto) -->
+      <div class="mt-8 pt-6 border-t border-slate-200/80 dark:border-slate-800">
+        <h3 class="text-sm font-black text-slate-800 dark:text-slate-200 mb-3 flex items-center gap-2">
+          <span>🧠</span> <span>{t('buildsnap.milestone.title')}</span>
+        </h3>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-3 text-xs">
+          <div class="p-3.5 rounded-xl bg-slate-100/80 dark:bg-slate-900/50 border border-slate-200 dark:border-slate-800">
+            <div class="font-extrabold text-amber-600 dark:text-amber-400 mb-1">{t('buildsnap.milestone.canvas.step1')}</div>
+            <p class="text-slate-500 dark:text-slate-400 text-[11px]">{t('buildsnap.milestone.step1')}</p>
+          </div>
+          <div class="p-3.5 rounded-xl bg-slate-100/80 dark:bg-slate-900/50 border border-slate-200 dark:border-slate-800">
+            <div class="font-extrabold text-sky-600 dark:text-sky-400 mb-1">{t('buildsnap.milestone.canvas.step2')}</div>
+            <p class="text-slate-500 dark:text-slate-400 text-[11px]">{t('buildsnap.milestone.step2')}</p>
+          </div>
+          <div class="p-3.5 rounded-xl bg-slate-100/80 dark:bg-slate-900/50 border border-slate-200 dark:border-slate-800">
+            <div class="font-extrabold text-emerald-600 dark:text-emerald-400 mb-1">{t('buildsnap.milestone.canvas.step3')}</div>
+            <p class="text-slate-500 dark:text-slate-400 text-[11px]">{t('buildsnap.milestone.step3')}</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 4. 나의 위인 성취 뱃지 보드 섹션 (Achievement Badge Board) -->
+    <section id="badgeSection" class="mt-8 md:mt-12 bg-white/70 dark:bg-slate-950/70 backdrop-blur-xl border border-amber-500/20 dark:border-amber-500/30 p-6 md:p-8 rounded-[2rem] shadow-2xl relative overflow-hidden">
+      <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-6 border-b border-slate-200/80 dark:border-slate-800 pb-4">
+        <div>
+          <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-500/10 dark:bg-amber-500/20 text-amber-600 dark:text-amber-400 text-xs font-black mb-2">
+            <span>🏆</span> <span>ACHIEVEMENT BADGES</span>
+          </div>
+          <h2 class="text-xl sm:text-2xl font-black text-slate-900 dark:text-white tracking-tight">
+            {t('buildsnap.badges.title')}
+          </h2>
+          <p class="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1">
+            {t('buildsnap.badges.desc')}
+          </p>
+        </div>
+      </div>
+
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+        <!-- Badge 1: 7-Day Explorer -->
+        <div class="p-5 rounded-2xl bg-amber-500/10 dark:bg-amber-950/30 border border-amber-500/30 flex flex-col items-center text-center">
+          <span class="text-4xl mb-2 select-none">🧭</span>
+          <h4 class="text-sm font-black text-slate-900 dark:text-white mb-1">{t('buildsnap.badges.b1.title')}</h4>
+          <span class="text-[10px] font-bold text-amber-600 dark:text-amber-400 bg-amber-500/20 px-2 py-0.5 rounded-full mb-2">{t('buildsnap.badges.b1.desc')}</span>
+        </div>
+
+        <!-- Badge 2: 14-Day Master -->
+        <div class="p-5 rounded-2xl bg-indigo-500/10 dark:bg-indigo-950/30 border border-indigo-500/30 flex flex-col items-center text-center">
+          <span class="text-4xl mb-2 select-none">📜</span>
+          <h4 class="text-sm font-black text-slate-900 dark:text-white mb-1">{t('buildsnap.badges.b2.title')}</h4>
+          <span class="text-[10px] font-bold text-indigo-600 dark:text-indigo-400 bg-indigo-500/20 px-2 py-0.5 rounded-full mb-2">{t('buildsnap.badges.b2.desc')}</span>
+        </div>
+
+        <!-- Badge 3: 30-Day Legend -->
+        <div class="p-5 rounded-2xl bg-emerald-500/10 dark:bg-emerald-950/30 border border-emerald-500/30 flex flex-col items-center text-center">
+          <span class="text-4xl mb-2 select-none">⚡</span>
+          <h4 class="text-sm font-black text-slate-900 dark:text-white mb-1">{t('buildsnap.badges.b3.title')}</h4>
+          <span class="text-[10px] font-bold text-emerald-600 dark:text-emerald-400 bg-emerald-500/20 px-2 py-0.5 rounded-full mb-2">{t('buildsnap.badges.b3.desc')}</span>
+        </div>
+      </div>
+    </section>
+
     <!-- 4. Smart Nudge Banner Section -->
     <section class="mt-12 md:mt-16 max-w-4xl mx-auto rounded-[2rem] border border-indigo-500/15 bg-indigo-500/5 dark:border-indigo-500/25 dark:bg-indigo-900/10 p-6 md:p-8 flex flex-col md:flex-row items-center gap-6 relative z-10 overflow-hidden">
       <!-- Ambient light effect -->
@@ -682,6 +818,43 @@ const runtimeTranslations = {
       </div>
     </section>
   </main>
+
+  <!-- 모바일 한 손 고정 하단 탭바 (Fixed Bottom Nav) -->
+  <nav class="md:hidden fixed bottom-0 left-0 right-0 z-50 bg-white/90 dark:bg-slate-900/90 backdrop-blur-xl border-t border-slate-200/80 dark:border-slate-800/80 px-4 py-2 flex items-center justify-around shadow-[0_-8px_20px_rgba(0,0,0,0.06)]">
+    <a href="#matcherSection" class="flex flex-col items-center gap-1 text-sky-600 dark:text-sky-400 active:scale-95 transition-all">
+      <span class="text-lg select-none">🧩</span>
+      <span class="text-[10px] font-black tracking-tight">{t('buildsnap.nav.matcher')}</span>
+    </a>
+    <a href="#canvasSection" class="flex flex-col items-center gap-1 text-slate-500 dark:text-slate-400 hover:text-sky-600 dark:hover:text-sky-400 active:scale-95 transition-all">
+      <span class="text-lg select-none">📜</span>
+      <span class="text-[10px] font-bold tracking-tight">{t('buildsnap.nav.canvas')}</span>
+    </a>
+    <a href="#statsSection" class="flex flex-col items-center gap-1 text-slate-500 dark:text-slate-400 hover:text-sky-600 dark:hover:text-sky-400 active:scale-95 transition-all">
+      <span class="text-lg select-none">📊</span>
+      <span class="text-[10px] font-bold tracking-tight">{t('buildsnap.nav.stats')}</span>
+    </a>
+    <a href="#badgeSection" class="flex flex-col items-center gap-1 text-slate-500 dark:text-slate-400 hover:text-sky-600 dark:hover:text-sky-400 active:scale-95 transition-all">
+      <span class="text-lg select-none">🏆</span>
+      <span class="text-[10px] font-bold tracking-tight">{t('buildsnap.nav.badges')}</span>
+    </a>
+  </nav>
+
+  <!-- 모바일 Bottom Sheet 슬라이드 모달 (Bottom Sheet Modal) -->
+  <div id="buildsnapBottomSheetModal" class="hidden fixed inset-0 z-[100] flex items-end justify-center bg-slate-950/60 backdrop-blur-sm transition-opacity duration-300">
+    <div class="w-full max-w-lg bg-white dark:bg-slate-900 rounded-t-[2rem] p-6 border-t border-slate-200 dark:border-slate-800 shadow-2xl animate-in slide-in-from-bottom duration-300">
+      <div class="w-12 h-1.5 bg-slate-300 dark:bg-slate-700 rounded-full mx-auto mb-5 cursor-pointer" id="buildsnapBsCloseHandle"></div>
+      <div class="flex items-center justify-between mb-4">
+        <h3 id="buildsnapBsTitle" class="text-lg font-black text-slate-900 dark:text-white">{t('buildsnap.modal.title')}</h3>
+        <button type="button" id="buildsnapBsCloseBtn" class="text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 text-sm font-bold px-2 py-1">{t('buildsnap.modal.close')}</button>
+      </div>
+      <div id="buildsnapBsContent" class="text-xs sm:text-sm text-slate-600 dark:text-slate-300 space-y-3 mb-6">
+        <p>{t('buildsnap.modal.desc')}</p>
+      </div>
+      <button type="button" id="buildsnapBsQuickAddBtn" class="w-full py-3 rounded-2xl bg-sky-600 hover:bg-sky-500 text-white font-extrabold text-sm shadow-lg shadow-sky-600/30 active:scale-98 transition-all">
+        ⚡ 1-Tap {t('buildsnap.matcher.btn.addToCanvas')}
+      </button>
+    </div>
+  </div>
 
   <!-- Client-side logic for diagnostics & canvas generator -->
   <script is:inline define:vars={{ habits, currentLang, runtimeTranslations, eraMentors, timeOfDayCounts, totalHabits, focusPercent, creativePercent, simplicityPercent, mindPercent, habitsTranslations }}>

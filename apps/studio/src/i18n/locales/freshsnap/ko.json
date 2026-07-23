@@ -18,6 +18,8 @@
     "util.card.freezer": "냉동",
     "util.card.days": "일",
     "util.card.infinite": "무기한",
+    "util.card.ate": "먹었어요 😋",
+    "util.card.wasted": "버렸어요 🗑️",
     "util.no_results": "검색 결과가 없습니다. 다른 검색어를 입력해 보세요.",
     "util.trust.sub": "세계보건기구(WHO), 미국농무부(USDA) 등 국내외 식품 안전 가이드라인을 참조합니다.",
     "util.disclaimer": "* 본 보관 가이드는 공인된 식품 안전 지침을 참조하여 제공하는 일반 정보로, 보관 환경이나 식재료의 초기 상태에 따라 실제 신선 기한은 달라질 수 있습니다. 최종 섭취 여부는 식재료 상태를 직접 확인 후 판단해 주세요.",
@@ -50,7 +52,17 @@
     "util.myfridge.score": "식재료 구출 점수",
     "util.myfridge.reset": "초기화 ↺",
     "util.myfridge.reset.confirm": "그동안 누적된 소비/폐기 통계를 초기화하시겠습니까?",
-    "util.myfridge.reset.cancel": "취소"
+    "util.myfridge.reset.cancel": "취소",
+    "util.urgent_shelf.title": "📌 오늘 꼭 확인하세요! (소비 임박 식재료)",
+    "util.urgent_shelf.count": "$1개",
+    "util.nav.home": "홈",
+    "util.nav.myfridge": "내 냉장고",
+    "util.nav.book": "보관도감",
+    "util.nav.score": "성취스코어",
+    "util.modal.official_tip": "🏛️ 공인 기관 검증 보관 수칙",
+    "util.modal.duration_label": "권장 보관일수:",
+    "util.modal.add_btn": "⚡ 1-Tap 내 냉장고에 담기",
+    "util.modal.close": "닫기"
   },
   "indexSource": {
     "source.MFDS": "식품의약품안전처 식약처",

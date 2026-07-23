@@ -228,6 +228,7 @@ if (appEl) {
     const newItem = {
       id: currentItem.id,
       name: currentItem.names[currentLang] || currentItem.names['en'],
+      nameMultilingual: currentItem.names || null,
       category: currentItem.category,
       emoji: currentItem.emoji || '',
       iconImage: currentItem.iconImage || null,
