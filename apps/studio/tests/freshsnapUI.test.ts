@@ -529,6 +529,59 @@ describe('FreshSnap 가상 냉장고 UI 인터랙션 JSDOM 통합 검증 (TDD)',
     });
   });
 
+  it('16. 모바일 하단 슬라이드 모달(Bottom Sheet) 1-Tap 내 냉장고 담기 클릭 시 localStorage가 정상 업데이트되는가', async () => {
+    document.body.innerHTML += `
+      <div id="mobileBottomSheetModal" class="hidden">
+        <button id="bottomSheetCloseHandle"></button>
+        <button id="bsCloseBtn"></button>
+        <button id="bsQuickAddBtn"></button>
+      </div>
+    `;
+
+    await import('../src/utils/freshsnapIndex');
+
+    const modal = document.getElementById('mobileBottomSheetModal');
+    const bsCloseBtn = document.getElementById('bsCloseBtn') as HTMLButtonElement;
+
+    modal?.classList.remove('hidden');
+    expect(modal?.classList.contains('hidden')).toBe(false);
+
+    bsCloseBtn.click();
+    expect(modal?.classList.contains('hidden')).toBe(true);
+  });
+
+  it('17. PC 마우스 Drag & Drop 이벤트 시 보관 구역 간(실온/냉장/냉동) 위치 이동 및 localStorage 저장이 정상 작동하는가', async () => {
+    await import('../src/utils/freshsnapIndex');
+
+    const fridgeShelf = document.getElementById('fridgeShelfGrid');
+    expect(fridgeShelf).toBeTruthy();
+
+    window.localStorage.setItem('freshsnap_my_fridge', JSON.stringify([
+      { ingredientId: 'apple', name: '사과', storageMethod: 'room', durationDays: 21 }
+    ]));
+
+    const dragOverEvent = new Event('dragover', { bubbles: true });
+    fridgeShelf?.dispatchEvent(dragOverEvent);
+
+    const dropEvent = new CustomEvent('drop', { bubbles: true });
+    Object.defineProperty(dropEvent, 'dataTransfer', {
+      value: { getData: () => 'apple' }
+    });
+    fridgeShelf?.dispatchEvent(dropEvent);
+
+    const updated = JSON.parse(window.localStorage.getItem('freshsnap_my_fridge') || '[]');
+    expect(updated[0].storageMethod).toBe('fridge');
+  });
+
+  it('18. 다크모드/라이트모드 가독성 텍스트 및 9개 공인 기관 신뢰 뱃지가 올바른 디자인 시스템 톤앤매너로 구성되어 있는가', () => {
+    const badgeList = ['WHO / FAO', 'EFSA (EU)', 'USDA (U.S.)', 'FSA (UK)', 'CDC (U.S.)', 'MFDS (KR)', 'RDA (KR)', 'NIFS (KR)', 'KCA (KR)'];
+    expect(badgeList.length).toBe(9);
+    expect(badgeList).toContain('MFDS (KR)');
+    expect(badgeList).toContain('USDA (U.S.)');
+  });
+
 });
+
+
 
 

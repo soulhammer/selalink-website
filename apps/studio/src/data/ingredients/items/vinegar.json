@@ -41,7 +41,7 @@
   },
   "storage": {
     "room": {
-      "durationDays": 1095,
+      "durationDays": 9999,
       "tips": {
         "ko": "식초는 산도가 매우 높아 미생물이 자라지 못하는 자기보존 식품입니다. 뚜껑을 꼭 닫아 그늘지고 서늘한 상온에 보관하면 거의 영구히 보존됩니다. 흰 침전물은 자연스러운 현상입니다.",
         "en": "Vinegar is self-preserving due to high acidity. Tighten lid and store in a cool, dark room. It will last almost indefinitely. Cloudiness/sediment is natural and safe.",

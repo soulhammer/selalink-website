@@ -96,6 +96,28 @@ const categoryCounts = getCategoryCounts(ingredients);
       </div>
     </div>
 
+    <!-- 📌 긴급 보관주의 상단 핀 쉘프 (Pinned Actionable Shelf) -->
+    <div 
+      id="urgentAlertShelf" 
+      class="hidden p-4 sm:p-5 mb-6 rounded-[1.6rem] bg-gradient-to-r from-amber-500/10 via-rose-500/10 to-indigo-500/10 dark:from-amber-950/40 dark:via-rose-950/40 dark:to-indigo-950/40 border border-amber-500/30 dark:border-amber-500/40 shadow-sm backdrop-blur-xl transition-all duration-300 select-none"
+    >
+      <div class="flex items-center justify-between gap-3 mb-3">
+        <div class="flex items-center gap-2">
+          <span class="flex h-2.5 w-2.5 relative">
+            <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-amber-400 opacity-75"></span>
+            <span class="relative inline-flex rounded-full h-2.5 w-2.5 bg-amber-500"></span>
+          </span>
+          <h3 class="text-xs sm:text-sm font-extrabold text-amber-800 dark:text-amber-300 uppercase tracking-wider flex items-center gap-1.5">
+            📌 오늘 꼭 확인하세요! (소비 임박 식재료)
+          </h3>
+        </div>
+        <span id="urgentCountBadge" class="text-[10px] font-black bg-amber-500/20 text-amber-800 dark:text-amber-200 px-2 py-0.5 rounded-full">0개</span>
+      </div>
+      <div id="urgentAlertGrid" class="flex flex-wrap gap-2 sm:gap-3">
+        <!-- 핀 아이템 동적 바인딩 -->
+      </div>
+    </div>
+
     <!-- 나의 냉장고 대시보드 섹션 (가이드 문구가 있는 Empty State 상시 노출) -->
     <div 
       id="myFridgeSection" 
@@ -276,7 +298,6 @@ const categoryCounts = getCategoryCounts(ingredients);
       class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-5 transition-all duration-300"
     >
       {localizedIngredients.map((item) => {
-        const isFeatured = false; // 모든 식재료 카드를 1칸(col-span-1) 크기로 통일
         return (
           <div class="ingredient-item-wrapper relative group select-none col-span-1">
             <a 
@@ -292,82 +313,79 @@ const categoryCounts = getCategoryCounts(ingredients);
               data-duration-freezer={item.storage.freezer?.durationDays || 0}
               data-recommended-method={item.recommendedMethod}
               data-recommended-label={t(`util.card.${item.recommendedMethod}.recommended`)}
-              class={`ingredient-item app-card-interactive p-4 sm:p-5 w-full flex justify-between group overflow-hidden transition-all duration-300 ${
-                isFeatured 
-                  ? 'flex-row items-center gap-4 sm:gap-6' 
-                  : 'flex-col gap-4'
-              }`}
-              style="--theme-color-light: rgba(16, 185, 129, 0.1); --theme-color-glow: rgba(16, 185, 129, 0.25); --theme-color-border-hover: rgba(16, 185, 129, 0.3);"
+              class="ingredient-item p-4 sm:p-5 w-full flex flex-col justify-between group overflow-hidden rounded-[1.6rem] border border-slate-200/80 dark:border-slate-800/80 bg-white/90 dark:bg-slate-900/90 backdrop-blur-xl shadow-sm hover:shadow-[0_12px_32px_rgba(16,185,129,0.18)] dark:hover:shadow-[0_12px_32px_rgba(16,185,129,0.12)] hover:-translate-y-1.5 transition-all duration-300 relative"
             >
-              <div class={`flex gap-3 ${isFeatured ? 'flex-row items-center' : 'flex-col'}`}>
-                {item.iconImage ? (
-                  <img 
-                    src={item.iconImage} 
-                    alt={item.localName}
-                    class={`${isFeatured ? 'w-[56px] h-[56px] sm:w-[64px] sm:h-[64px]' : 'w-[48px] h-[48px] sm:w-[54px] sm:h-[54px]'} object-contain group-hover:scale-105 transition-transform duration-300 select-none block`}
-                    loading="lazy"
-                  />
-                ) : (
-                  <span class={`${isFeatured ? 'text-5xl sm:text-6xl' : 'text-4xl sm:text-5xl'} group-hover:scale-105 transition-transform duration-300 select-none block w-fit`}>
-                    {item.emoji}
-                  </span>
-                )}
-                <div>
-                  <h2 class="text-base sm:text-lg font-bold text-slate-800 dark:text-slate-100 group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors">
-                    {item.localName}
-                  </h2>
-                  <span class="text-[10px] sm:text-xs font-bold uppercase tracking-wider text-slate-400 dark:text-slate-500">
-                    {t(`util.category.${item.category}`).split(' ').slice(1).join(' ') || t(`util.category.${item.category}`)}
-                  </span>
-                </div>
-              </div>
-
-              <div class={`flex flex-col gap-2 ${isFeatured ? 'items-end shrink-0 text-right border-t-0 pt-0' : 'mt-2 pt-3 border-t border-slate-100 dark:border-slate-800/80'}`}>
-                <!-- Storage Durations Badge List & Micro Sources -->
-                <div class={`flex gap-2 ${isFeatured ? 'flex-col items-end' : 'items-center justify-between'}`}>
-                  <div class="flex flex-wrap gap-1 text-[10px] sm:text-[11px] font-bold text-slate-600 dark:text-slate-400 justify-end duration-badges">
-                    {item.storage.room && (
-                      <span data-badge-method="room" class="room-badge bg-amber-50 dark:bg-amber-950/30 text-amber-800 dark:text-amber-300 px-2 py-0.5 rounded-md border border-amber-200/60 dark:border-amber-900/40 transition-all">
-                        {t('util.card.room')}{' '}
-                        <strong class="badge-days font-black text-amber-950 dark:text-amber-100">
-                          {item.storage.room.durationDays === 9999 ? t('util.card.infinite') : item.storage.room.durationDays}
-                        </strong>
-                        {item.storage.room.durationDays !== 9999 && t('util.card.days')}
-                      </span>
-                    )}
-                    {item.storage.fridge && (
-                      <span data-badge-method="fridge" class="fridge-badge bg-emerald-50 dark:bg-emerald-950/30 text-emerald-800 dark:text-emerald-300 px-2 py-0.5 rounded-md border border-emerald-200/60 dark:border-emerald-900/40 transition-all">
-                        {t('util.card.fridge')}{' '}
-                        <strong class="badge-days font-black text-emerald-950 dark:text-emerald-100">
-                          {item.storage.fridge.durationDays === 9999 ? t('util.card.infinite') : item.storage.fridge.durationDays}
-                        </strong>
-                        {item.storage.fridge.durationDays !== 9999 && t('util.card.days')}
-                      </span>
-                    )}
-                    {item.storage.freezer && (
-                      <span data-badge-method="freezer" class="freezer-badge bg-blue-50 dark:bg-blue-950/30 text-blue-800 dark:text-blue-300 px-2 py-0.5 rounded-md border border-blue-200/60 dark:border-blue-900/40 transition-all">
-                        {t('util.card.freezer')}{' '}
-                        <strong class="badge-days font-black text-blue-950 dark:text-blue-100">
-                          {item.storage.freezer.durationDays === 9999 ? t('util.card.infinite') : item.storage.freezer.durationDays}
-                        </strong>
-                        {item.storage.freezer.durationDays !== 9999 && t('util.card.days')}
-                      </span>
-                    )}
-                  </div>
-                  
-                  <!-- 마이크로 출처 뱃지 -->
-                  {item.sources && item.sources.length > 0 && (
-                    <div class="flex gap-0.5 opacity-80 group-hover:opacity-100 transition-opacity duration-300 select-none shrink-0">
-                      {item.sources.slice(0, 2).map((src: string) => (
-                        <span class="text-[9px] font-extrabold uppercase tracking-tight bg-slate-100 dark:bg-slate-800/80 text-slate-500 dark:text-slate-400 group-hover:text-emerald-600 dark:group-hover:text-emerald-400 group-hover:border-emerald-500/20 px-1.5 py-0.5 rounded border border-slate-200 dark:border-slate-700/80 transition-colors duration-300">
-                          {src}
-                        </span>
-                      ))}
-                    </div>
+              <!-- 모던 글래스모피즘 비주얼 & 추천보관 네온 캡슐 -->
+              <div class="flex items-start justify-between gap-3 w-full mb-3">
+                <!-- 글래스모피즘 부유 이모지 서클 -->
+                <div class="w-13 h-13 sm:w-15 sm:h-15 rounded-2xl bg-gradient-to-br from-emerald-500/10 to-teal-500/5 dark:from-emerald-500/15 dark:to-teal-500/10 border border-emerald-500/20 dark:border-emerald-500/30 flex items-center justify-center shrink-0 shadow-inner group-hover:scale-110 group-hover:border-emerald-500/40 transition-all duration-300">
+                  {item.iconImage ? (
+                    <img 
+                      src={item.iconImage} 
+                      alt={item.localName}
+                      class="w-8 h-8 sm:w-10 sm:h-10 object-contain select-none block"
+                      loading="lazy"
+                    />
+                  ) : (
+                    <span class="text-2xl sm:text-3xl select-none block">
+                      {item.emoji}
+                    </span>
                   )}
                 </div>
-                
-                <div class="text-[11px] sm:text-xs font-bold text-emerald-600 dark:text-emerald-400 flex items-center gap-1 mt-0.5 opacity-0 group-hover:opacity-100 translate-x-[-5px] group-hover:translate-x-0 transition-all duration-300 justify-end">
+
+                <!-- 9개 기관 신뢰 출처 마이크로 뱃지 -->
+                {item.sources && item.sources.length > 0 && (
+                  <div class="flex flex-col items-end gap-1 select-none">
+                    <span class="text-[9px] font-extrabold uppercase tracking-tight bg-slate-100/80 dark:bg-slate-800/80 text-slate-500 dark:text-slate-400 group-hover:text-emerald-600 dark:group-hover:text-emerald-400 px-2 py-0.5 rounded-full border border-slate-200/80 dark:border-slate-700/80 transition-colors duration-300">
+                      {item.sources[0]}
+                    </span>
+                  </div>
+                )}
+              </div>
+
+              <!-- 식재료 명칭 및 카테고리 -->
+              <div class="mb-3">
+                <h2 class="text-base sm:text-lg font-extrabold text-slate-800 dark:text-slate-100 group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors leading-snug">
+                  {item.localName}
+                </h2>
+                <span class="text-[10px] sm:text-xs font-bold uppercase tracking-wider text-slate-400 dark:text-slate-500">
+                  {t(`util.category.${item.category}`).split(' ').slice(1).join(' ') || t(`util.category.${item.category}`)}
+                </span>
+              </div>
+
+              <!-- 보관 기한 캡슐 뱃지 리스트 & 상세보기 안내 -->
+              <div class="mt-auto pt-3 border-t border-slate-100 dark:border-slate-800/80 flex flex-col gap-2">
+                <div class="flex flex-wrap gap-1 text-[10px] font-bold text-slate-600 dark:text-slate-400 duration-badges">
+                  {item.storage.room && (
+                    <span data-badge-method="room" class="room-badge bg-amber-50 dark:bg-amber-950/40 text-amber-800 dark:text-amber-300 px-2 py-0.5 rounded-full border border-amber-200/60 dark:border-amber-900/40 transition-all">
+                      {t('util.card.room')}{' '}
+                      <strong class="badge-days font-black text-amber-950 dark:text-amber-100">
+                        {item.storage.room.durationDays >= 1095 ? t('util.card.infinite') : item.storage.room.durationDays}
+                      </strong>
+                      {item.storage.room.durationDays < 1095 && t('util.card.days')}
+                    </span>
+                  )}
+                  {item.storage.fridge && (
+                    <span data-badge-method="fridge" class="fridge-badge bg-emerald-50 dark:bg-emerald-950/40 text-emerald-800 dark:text-emerald-300 px-2 py-0.5 rounded-full border border-emerald-200/60 dark:border-emerald-900/40 transition-all">
+                      {t('util.card.fridge')}{' '}
+                      <strong class="badge-days font-black text-emerald-950 dark:text-emerald-100">
+                        {item.storage.fridge.durationDays >= 1095 ? t('util.card.infinite') : item.storage.fridge.durationDays}
+                      </strong>
+                      {item.storage.fridge.durationDays < 1095 && t('util.card.days')}
+                    </span>
+                  )}
+                  {item.storage.freezer && (
+                    <span data-badge-method="freezer" class="freezer-badge bg-blue-50 dark:bg-blue-950/40 text-blue-800 dark:text-blue-300 px-2 py-0.5 rounded-full border border-blue-200/60 dark:border-blue-900/40 transition-all">
+                      {t('util.card.freezer')}{' '}
+                      <strong class="badge-days font-black text-blue-950 dark:text-blue-100">
+                        {item.storage.freezer.durationDays >= 1095 ? t('util.card.infinite') : item.storage.freezer.durationDays}
+                      </strong>
+                      {item.storage.freezer.durationDays < 1095 && t('util.card.days')}
+                    </span>
+                  )}
+                </div>
+
+                <div class="text-[11px] font-extrabold text-emerald-600 dark:text-emerald-400 flex items-center gap-1 opacity-0 group-hover:opacity-100 translate-x-[-4px] group-hover:translate-x-0 transition-all duration-300 justify-end">
                   {t('util.card.view')}
                 </div>
               </div>
@@ -426,7 +444,7 @@ const categoryCounts = getCategoryCounts(ingredients);
     </div>
 
     <!-- Legal Disclaimer -->
-    <div class="mt-12 p-5 rounded-2xl bg-slate-100/50 dark:bg-slate-900/30 border border-slate-200/50 dark:border-slate-800/50 max-w-3xl mx-auto flex items-start gap-3 select-none">
+    <div class="mt-12 p-5 rounded-2xl bg-slate-100/50 dark:bg-slate-900/30 border border-slate-200/50 dark:border-slate-800/50 max-w-3xl mx-auto flex items-start gap-3 select-none mb-16 md:mb-0">
       <span class="text-base text-slate-400 dark:text-slate-500 shrink-0">ℹ️</span>
       <p class="text-[11px] md:text-xs text-slate-500 dark:text-slate-400 leading-relaxed text-left">
         {t('util.disclaimer')}
@@ -434,7 +452,66 @@ const categoryCounts = getCategoryCounts(ingredients);
     </div>
   </main>
 
+  <!-- 모바일 전용 4대 고정 하단 탭바 (Thumb Zone UX) -->
+  <nav class="md:hidden fixed bottom-0 left-0 right-0 z-40 bg-white/90 dark:bg-slate-950/90 backdrop-blur-md border-t border-slate-200/80 dark:border-slate-800/80 px-2 py-1.5 flex items-center justify-around select-none shadow-2xl">
+    <button type="button" id="mobileNavHome" class="flex flex-col items-center gap-0.5 text-emerald-600 dark:text-emerald-400 font-bold px-3 py-1 cursor-pointer">
+      <span class="text-lg">🏠</span>
+      <span class="text-[10px]">홈</span>
+    </button>
+    <button type="button" id="mobileNavFridge" class="flex flex-col items-center gap-0.5 text-slate-500 dark:text-slate-400 hover:text-emerald-600 dark:hover:text-emerald-400 font-bold px-3 py-1 cursor-pointer">
+      <span class="text-lg">🧊</span>
+      <span class="text-[10px]">내 냉장고</span>
+    </button>
+    <button type="button" id="mobileNavGuide" class="flex flex-col items-center gap-0.5 text-slate-500 dark:text-slate-400 hover:text-emerald-600 dark:hover:text-emerald-400 font-bold px-3 py-1 cursor-pointer">
+      <span class="text-lg">📚</span>
+      <span class="text-[10px]">보관도감</span>
+    </button>
+    <button type="button" id="mobileNavStats" class="flex flex-col items-center gap-0.5 text-slate-500 dark:text-slate-400 hover:text-emerald-600 dark:hover:text-emerald-400 font-bold px-3 py-1 cursor-pointer">
+      <span class="text-lg">📊</span>
+      <span class="text-[10px]">성취스코어</span>
+    </button>
+  </nav>
+
+  <!-- 모바일 Bottom Sheet 슬라이드 모달 (공인 기관 신뢰 보관 팁 & 1-Tap 담기) -->
+  <div id="mobileBottomSheetModal" class="fixed inset-0 z-50 flex items-end justify-center bg-slate-950/60 backdrop-blur-sm hidden transition-opacity duration-300">
+    <div class="w-full max-w-lg bg-white dark:bg-slate-900 border-t border-slate-200/80 dark:border-slate-800/80 rounded-t-3xl p-6 shadow-2xl transform transition-transform duration-300 translate-y-0">
+      <!-- 모달 드래그 픽처 핸들 -->
+      <div class="w-12 h-1.5 bg-slate-300 dark:bg-slate-700 rounded-full mx-auto mb-4 cursor-pointer" id="bottomSheetCloseHandle"></div>
+      
+      <div class="flex items-center gap-3 mb-4">
+        <div id="bsIcon" class="w-12 h-12 rounded-2xl bg-emerald-50 dark:bg-emerald-950/40 border border-emerald-200/60 dark:border-emerald-800/60 flex items-center justify-center text-2xl shrink-0">
+          🥬
+        </div>
+        <div>
+          <h3 id="bsTitle" class="text-lg font-bold text-slate-800 dark:text-slate-100">양배추</h3>
+          <span id="bsCategory" class="text-xs text-slate-400 font-medium uppercase">채소류</span>
+        </div>
+      </div>
+
+      <div class="space-y-3 mb-6">
+        <div class="p-3 rounded-2xl bg-slate-50 dark:bg-slate-850/60 border border-slate-200/60 dark:border-slate-800/60 text-xs text-slate-650 dark:text-slate-350 leading-relaxed">
+          <span class="font-extrabold text-emerald-600 dark:text-emerald-400 block mb-1">🏛️ 공인 기관 검증 보관 수칙</span>
+          <p id="bsTip">키친타월로 감싸 비닐팩에 밀봉 후 냉장 보관하세요.</p>
+        </div>
+        <div class="flex items-center justify-between text-xs text-slate-500 px-1">
+          <span>권장 보관일수: <strong id="bsDuration" class="text-emerald-600 dark:text-emerald-400 font-black">10일</strong></span>
+          <span id="bsSources" class="text-[10px] bg-slate-200 dark:bg-slate-800 text-slate-600 dark:text-slate-300 px-2 py-0.5 rounded-full font-bold uppercase">MFDS / USDA</span>
+        </div>
+      </div>
+
+      <div class="flex items-center gap-2">
+        <button type="button" id="bsQuickAddBtn" class="flex-1 py-3 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-extrabold text-xs text-center shadow-lg shadow-emerald-600/20 transition-all cursor-pointer active:scale-95">
+          ⚡ 1-Tap 내 냉장고에 담기
+        </button>
+        <button type="button" id="bsCloseBtn" class="py-3 px-4 rounded-xl bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 font-bold text-xs cursor-pointer">
+          닫기
+        </button>
+      </div>
+    </div>
+  </div>
+
   <script src="../../../../utils/freshsnapIndex.ts"></script>
+
 </Layout>
 
 <style>

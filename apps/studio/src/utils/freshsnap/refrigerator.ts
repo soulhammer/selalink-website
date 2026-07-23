@@ -73,3 +73,52 @@ export function initRefrigeratorView(options: RefrigeratorOptions) {
     }
   });
 }
+
+/**
+ * D-Day 상태에 따른 신선도 네온 링 CSS 클래스 산출 헬퍼
+ */
+export function getFreshnessRingClass(dDay: number): string {
+  if (dDay >= 4) {
+    return 'ring-2 ring-emerald-500/80 shadow-emerald-500/20';
+  } else if (dDay >= 1) {
+    return 'ring-2 ring-amber-500/80 shadow-amber-500/20';
+  } else {
+    return 'ring-2 ring-indigo-500 dark:ring-rose-500 animate-pulse';
+  }
+}
+
+/**
+ * 식재료 도감에서 1-Tap 쾌속 냉장고 담기용 데이터 파싱 헬퍼
+ */
+export function parseQuickAddData(ingredient: any, lang: string = 'ko') {
+  const name = ingredient?.names?.[lang] || ingredient?.names?.en || ingredient?.id || '';
+  
+  // 추천 보관 방식 연산 (fridge > room > freezer)
+  const storage = ingredient?.storage || {};
+  let storageMethod = 'fridge';
+  let storageInfo = storage.fridge;
+
+  if (!storageInfo || (storageInfo.durationDays || 0) <= 0) {
+    if (storage.room && (storage.room.durationDays || 0) > 0) {
+      storageMethod = 'room';
+      storageInfo = storage.room;
+    } else if (storage.freezer && (storage.freezer.durationDays || 0) > 0) {
+      storageMethod = 'freezer';
+      storageInfo = storage.freezer;
+    }
+  }
+
+  const durationDays = storageInfo?.durationDays || 7;
+  const tip = storageInfo?.tips?.[lang] || storageInfo?.tips?.en || '';
+  const sources = storageInfo?.sources || [];
+
+  return {
+    ingredientId: ingredient?.id || '',
+    name,
+    storageMethod,
+    durationDays,
+    tip,
+    sources
+  };
+}
+

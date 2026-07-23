@@ -303,7 +303,8 @@ const renderMyFridge = () => {
   today.setHours(0, 0, 0, 0);
   
   const processedList = list.map((item: any) => {
-    const buyParts = item.buyDate.split('-');
+    const buyDateStr = item.buyDate || (item.addedDate ? item.addedDate.split('T')[0] : new Date().toISOString().split('T')[0]);
+    const buyParts = buyDateStr.split('-');
     const buyDate = new Date(parseInt(buyParts[0], 10), parseInt(buyParts[1], 10) - 1, parseInt(buyParts[2], 10));
     buyDate.setHours(0, 0, 0, 0);
     
@@ -314,9 +315,46 @@ const renderMyFridge = () => {
     if (item.durationDays !== 9999) {
       remaining = item.durationDays - elapsedDays;
     }
-    
     return { ...item, remaining };
   });
+
+  const urgentAlertShelf = document.getElementById('urgentAlertShelf');
+  const urgentAlertGrid = document.getElementById('urgentAlertGrid');
+  const urgentCountBadge = document.getElementById('urgentCountBadge');
+
+  // 긴급 보관주의(D-3 이하) 아이템 필터링 및 핀 쉘프 노출
+  const urgentItems = processedList.filter((item: any) => item.remaining <= 3 && item.remaining !== 9999);
+  if (urgentAlertShelf && urgentAlertGrid && urgentCountBadge) {
+    if (urgentItems.length > 0) {
+      urgentAlertShelf.classList.remove('hidden');
+      urgentCountBadge.textContent = `${urgentItems.length}개`;
+      urgentAlertGrid.innerHTML = urgentItems.map((item: any) => `
+        <div class="flex items-center gap-2 p-2 px-3 rounded-2xl bg-amber-500/15 dark:bg-amber-950/50 border border-amber-500/30 text-amber-950 dark:text-amber-100 text-xs font-bold shadow-sm">
+          <span>⚠️ <strong>${item.name}</strong></span>
+          <span class="text-[10px] font-black text-rose-600 dark:text-rose-400 bg-rose-500/10 px-1.5 py-0.5 rounded-full">D-${item.remaining < 0 ? 'DAY' : item.remaining}</span>
+          <button type="button" class="urgent-consume-btn text-[10px] font-black bg-emerald-600 hover:bg-emerald-500 text-white px-2 py-0.5 rounded-md ml-1 active:scale-95 transition-all cursor-pointer" data-id="${item.ingredientId}">완소 😋</button>
+        </div>
+      `).join('');
+
+      urgentAlertGrid.querySelectorAll('.urgent-consume-btn').forEach((btn) => {
+        btn.addEventListener('click', (e) => {
+          const id = (e.currentTarget as HTMLElement).getAttribute('data-id');
+          if (!id) return;
+          const freshList = JSON.parse(localStorage.getItem('freshsnap_my_fridge') || '[]');
+          const updatedList = freshList.filter((it: any) => (it.ingredientId || it.id) !== id);
+          localStorage.setItem('freshsnap_my_fridge', JSON.stringify(updatedList));
+
+          const curStats = JSON.parse(localStorage.getItem('freshsnap_stats') || '{"consumed":0,"wasted":0}');
+          curStats.consumed += 1;
+          localStorage.setItem('freshsnap_stats', JSON.stringify(curStats));
+
+          renderMyFridge();
+        });
+      });
+    } else {
+      urgentAlertShelf.classList.add('hidden');
+    }
+  }
   
   // 남은 기한 순 정렬 (마이너스는 기한이 많이 지난 것이므로 가장 위로)
   processedList.sort((a: any, b: any) => a.remaining - b.remaining);
@@ -590,3 +628,111 @@ document.addEventListener('click', (e) => {
     closeMobileTrust();
   }
 });
+
+// ==========================================
+// [신규 UI/UX] 모바일 하단 탭바 & Bottom Sheet & PC Drag-and-Drop
+// ==========================================
+
+// 모바일 4대 고정 하단 탭바 조작
+const mobileNavHome = document.getElementById('mobileNavHome');
+const mobileNavFridge = document.getElementById('mobileNavFridge');
+const mobileNavGuide = document.getElementById('mobileNavGuide');
+const mobileNavStats = document.getElementById('mobileNavStats');
+
+mobileNavHome?.addEventListener('click', () => {
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+
+mobileNavFridge?.addEventListener('click', () => {
+  myFridgeSection?.scrollIntoView({ behavior: 'smooth' });
+});
+
+mobileNavGuide?.addEventListener('click', () => {
+  grid?.scrollIntoView({ behavior: 'smooth' });
+});
+
+mobileNavStats?.addEventListener('click', () => {
+  myFridgeSection?.scrollIntoView({ behavior: 'smooth' });
+});
+
+// 모바일 Bottom Sheet 슬라이드 모달 조작
+const mobileBottomSheetModal = document.getElementById('mobileBottomSheetModal');
+const bottomSheetCloseHandle = document.getElementById('bottomSheetCloseHandle');
+const bsCloseBtn = document.getElementById('bsCloseBtn');
+const bsQuickAddBtn = document.getElementById('bsQuickAddBtn');
+
+let currentBsIngredient: any = null;
+
+const closeBottomSheet = () => {
+  mobileBottomSheetModal?.classList.add('hidden');
+};
+
+bottomSheetCloseHandle?.addEventListener('click', closeBottomSheet);
+bsCloseBtn?.addEventListener('click', closeBottomSheet);
+
+// 1-Tap 내 냉장고에 담기
+bsQuickAddBtn?.addEventListener('click', () => {
+  if (!currentBsIngredient) return;
+  const listStr = localStorage.getItem('freshsnap_my_fridge') || '[]';
+  const list = JSON.parse(listStr);
+
+  const existingIdx = list.findIndex((item: any) => item.ingredientId === currentBsIngredient.ingredientId);
+  const now = new Date().toISOString();
+
+  if (existingIdx >= 0) {
+    list[existingIdx].addedDate = now;
+  } else {
+    list.unshift({
+      ingredientId: currentBsIngredient.ingredientId,
+      name: currentBsIngredient.name,
+      storageMethod: currentBsIngredient.storageMethod,
+      durationDays: currentBsIngredient.durationDays,
+      tip: currentBsIngredient.tip,
+      addedDate: now
+    });
+  }
+
+  localStorage.setItem('freshsnap_my_fridge', JSON.stringify(list));
+  renderMyFridge();
+  closeBottomSheet();
+});
+
+// PC Drag and Drop (보관실 구역 간 이동)
+const setupDragAndDrop = () => {
+  [roomShelfGrid, fridgeShelfGrid, freezerShelfGrid].forEach((shelf) => {
+
+    if (!shelf) return;
+    shelf.addEventListener('dragover', (e) => {
+      e.preventDefault();
+      shelf.classList.add('bg-emerald-500/10', 'border-emerald-500');
+    });
+
+    shelf.addEventListener('dragleave', () => {
+      shelf.classList.remove('bg-emerald-500/10', 'border-emerald-500');
+    });
+
+    shelf.addEventListener('drop', (e) => {
+      e.preventDefault();
+      shelf.classList.remove('bg-emerald-500/10', 'border-emerald-500');
+      const ingredientId = e.dataTransfer?.getData('text/plain');
+      if (!ingredientId) return;
+
+      let targetMethod = 'fridge';
+      if (shelf.id === 'roomShelfGrid') targetMethod = 'room';
+      else if (shelf.id === 'freezerShelfGrid') targetMethod = 'freezer';
+
+      const listStr = localStorage.getItem('freshsnap_my_fridge') || '[]';
+      const list = JSON.parse(listStr);
+      const targetItem = list.find((item: any) => item.ingredientId === ingredientId);
+
+      if (targetItem) {
+        targetItem.storageMethod = targetMethod;
+        localStorage.setItem('freshsnap_my_fridge', JSON.stringify(list));
+        renderMyFridge();
+      }
+    });
+  });
+};
+
+setupDragAndDrop();
+
