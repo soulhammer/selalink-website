@@ -37,14 +37,16 @@ export async function getStaticPaths() {
 
     return {
       params: { lang, slug },
-      props: { post, prevPost, nextPost },
+      props: { post, prevPost, nextPost, lang },
     };
   });
 }
 
-const { post, prevPost, nextPost } = Astro.props;
-const { lang } = Astro.params;
+const { post, prevPost, nextPost, lang } = Astro.props;
 const { title, description, pubDate, heroImage, app, youtubeId, updatedDate } = post.data;
+
+// 안전한 .webp 확장자 보장
+const safeHeroImage = heroImage ? heroImage.replace(/\.png$/, '.webp') : '';
 
 const t = useTranslations(lang as any);
 const { Content, headings } = await render(post);
@@ -132,7 +134,7 @@ const activeAccent = themeAccents[app] || themeAccents.general;
         </div>
       </div>
 
-      {heroImage && (
+      {safeHeroImage && (
         <div 
           id="hero-image-trigger"
           class="relative rounded-[2rem] overflow-hidden border border-slate-200/80 dark:border-white/10 bg-slate-100 dark:bg-slate-950/20 shadow-xl dark:shadow-2xl max-h-[240px] sm:max-h-[360px] md:max-h-[480px] aspect-video flex items-center justify-center cursor-zoom-in hover:brightness-95 active:scale-[0.99] transition-all duration-200"
@@ -142,14 +144,14 @@ const activeAccent = themeAccents[app] || themeAccents.general;
         >
           {/* Blurred background shadow for aesthetic depth */}
           <img 
-            src={heroImage} 
+            src={safeHeroImage} 
             alt=""
             class="absolute inset-0 w-full h-full object-cover blur-3xl opacity-25 dark:opacity-35 pointer-events-none scale-105"
             aria-hidden="true"
           />
           {/* Main Contain Image to prevent cutting */}
           <img 
-            src={heroImage} 
+            src={safeHeroImage} 
             alt={title}
             class="relative z-10 max-h-[240px] sm:max-h-[360px] md:max-h-[480px] w-auto object-contain mx-auto pointer-events-none"
           />
@@ -314,7 +316,7 @@ const activeAccent = themeAccents[app] || themeAccents.general;
         </button>
         <img 
           id="lightbox-image" 
-          src={heroImage} 
+          src={safeHeroImage} 
           alt={title} 
           class="max-w-full max-h-[80vh] md:max-h-[85vh] object-contain rounded-2xl shadow-2xl pointer-events-auto bg-slate-950"
         />
