@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import { useTranslations } from '../i18n/ui';
 
 interface Props {
   post: CollectionEntry<'blog'>;
@@ -10,35 +11,47 @@ interface Props {
 const { post, lang, ingredientName = '' } = Astro.props;
 const { title, description, pubDate, heroImage, app } = post.data;
 
+const t = useTranslations(lang as any);
+
+const categoryKeyMap: Record<string, string> = {
+  freshsnap: 'freshsnap',
+  freshself: 'freshsnap',
+  buildself: 'buildself',
+  petself: 'petself',
+  logself: 'logself'
+};
+const categoryKey = categoryKeyMap[app] || 'freshsnap';
+const localizedCategoryName = t(`blog.filter.${categoryKey}` as any) || 'SelaLink';
+
 // 앱에 따른 대표 배지/색상 구성 (라이트/다크 양방향 지원)
 const appTags = {
   freshsnap: { 
-    name: 'FreshSnap', 
+    name: localizedCategoryName, 
     style: 'bg-emerald-50 text-emerald-700 border-emerald-200 dark:bg-emerald-500/10 dark:text-emerald-400 dark:border-emerald-500/20',
     hoverText: 'group-hover:text-emerald-600 dark:group-hover:text-emerald-400'
   },
   freshself: { 
-    name: 'FreshSelf', 
+    name: localizedCategoryName, 
     style: 'bg-purple-50 text-purple-700 border-purple-200 dark:bg-purple-500/10 dark:text-purple-400 dark:border-purple-500/20',
     hoverText: 'group-hover:text-purple-600 dark:group-hover:text-purple-400'
   },
   buildself: { 
-    name: 'BuildSelf', 
+    name: localizedCategoryName, 
     style: 'bg-sky-50 text-sky-700 border-sky-200 dark:bg-sky-500/10 dark:text-sky-400 dark:border-sky-500/20',
     hoverText: 'group-hover:text-sky-600 dark:group-hover:text-sky-400'
   },
   buildsnap: { 
-    name: 'BuildSnap', 
+    name: localizedCategoryName, 
     style: 'bg-indigo-50 text-indigo-700 border-indigo-200 dark:bg-indigo-500/10 dark:text-indigo-400 dark:border-indigo-500/20',
     hoverText: 'group-hover:text-indigo-600 dark:group-hover:text-indigo-400'
   },
   logself: { 
-    name: 'logSelf', 
+    name: localizedCategoryName, 
     style: 'bg-indigo-50 text-indigo-700 border-indigo-200 dark:bg-indigo-500/10 dark:text-indigo-400 dark:border-indigo-500/20',
     hoverText: 'group-hover:text-indigo-600 dark:group-hover:text-indigo-400'
   },
   petself: { 
-    name: 'PetSelf', 
+    name: localizedCategoryName, 
     style: 'bg-rose-50 text-rose-700 border-rose-200 dark:bg-rose-500/10 dark:text-rose-400 dark:border-rose-500/20',
     hoverText: 'group-hover:text-rose-600 dark:group-hover:text-rose-400'
   },

@@ -80,6 +80,47 @@ const themeAccents: Record<string, string> = {
   general: 'prose-a:text-teal-600 dark:prose-a:text-teal-400 hover:prose-a:text-teal-700 dark:hover:prose-a:text-teal-300 border-teal-500/10 dark:border-teal-500/20 bg-teal-500/5'
 };
 const activeAccent = themeAccents[app] || themeAccents.general;
+
+// 카테고리별 다국어 라벨 및 텍스트 색상 매핑
+const categoryKeyMap: Record<string, string> = {
+  freshsnap: 'freshsnap',
+  freshself: 'freshsnap',
+  buildself: 'buildself',
+  petself: 'petself',
+  logself: 'logself'
+};
+const categoryKey = categoryKeyMap[app] || 'freshsnap';
+const categoryLabel = t(`blog.filter.${categoryKey}` as any) || 'SelaLink';
+
+const categoryColorMap: Record<string, string> = {
+  freshsnap: 'text-emerald-600 dark:text-emerald-400',
+  freshself: 'text-purple-600 dark:text-purple-400',
+  buildself: 'text-sky-600 dark:text-sky-400',
+  logself: 'text-indigo-600 dark:text-indigo-400',
+  petself: 'text-rose-600 dark:text-rose-400'
+};
+const categoryColorClass = categoryColorMap[app] || 'text-slate-600 dark:text-slate-400';
+
+// PC 미니 위젯 및 CTA용 브랜드 매핑 및 유니코드 안전 중복 제거 서브타이틀 추출
+const isFreshCategory = ['freshsnap', 'freshself', 'petself'].includes(app);
+const targetCtaApp = isFreshCategory ? (app === 'petself' ? 'petself' : 'freshself') : app;
+const rawMiniCtaTitle = t(`cta.${targetCtaApp}.title` as any) || t('cta.general.title');
+
+// 전 세계 모든 언어(일본어/중국어/유럽어 등) 유니코드 보존 브랜드 중복 정제
+const cleanCtaTitle = (raw: string) => {
+  if (!raw) return '';
+  const brands = ['FreshSelf', 'BuildSelf', 'FreshSnap', 'logSelf', 'SelaLink'];
+  let cleaned = raw.replace(/^[\p{Emoji}\p{Symbol}\p{Punctuation}\s]+/u, '');
+  for (const brand of brands) {
+    const regex = new RegExp(`^${brand}\\s*[-–:]?\\s*`, 'i');
+    if (regex.test(cleaned)) {
+      cleaned = cleaned.replace(regex, '');
+      break;
+    }
+  }
+  return cleaned.replace(/^[-–:]\s*/, '').trim() || raw;
+};
+const cleanMiniCtaTitle = cleanCtaTitle(rawMiniCtaTitle);
 ---
 
 <Layout 
@@ -130,7 +171,7 @@ const activeAccent = themeAccents[app] || themeAccents.general;
         <div class="flex items-center gap-4 text-xs font-bold text-slate-400 dark:text-slate-500 pt-1">
           <time datetime={new Date(pubDate).toISOString()}>{formattedDate}</time>
           <span>•</span>
-          <span class="capitalize tracking-widest text-emerald-600 dark:text-emerald-400">{app}</span>
+          <span class={`font-bold tracking-wide ${categoryColorClass}`}>{categoryLabel}</span>
         </div>
       </div>
 
@@ -222,10 +263,18 @@ const activeAccent = themeAccents[app] || themeAccents.general;
           <Content />
         </article>
         
-        <ShareToolkit lang={lang as string} />
+        <!-- Post-Article CTA Container (App CTA 1st Priority) -->
+        <div id="post-article-cta" class="mt-10 pt-8 border-t border-slate-200/60 dark:border-white/10">
+          <BlogAppCta lang={lang as string} app={targetCtaApp} />
+        </div>
+
+        <!-- Share Toolkit (2nd Priority) -->
+        <div class="mt-6">
+          <ShareToolkit lang={lang as string} />
+        </div>
       </div>
 
-      <!-- Desktop Table of Contents (TOC) -->
+      <!-- Desktop Table of Contents (TOC) & Mini Sticky Widget -->
       {headings.length > 0 && (
         <aside class="hidden lg:block sticky top-28 self-start bg-slate-500/5 dark:bg-slate-900/20 p-6 rounded-[2rem] border border-slate-200/50 dark:border-white/5 backdrop-blur-sm max-h-[calc(100vh-160px)] overflow-y-auto shadow-sm">
           <h5 class="text-[10px] font-bold uppercase tracking-widest text-slate-400 dark:text-slate-500 mb-4">{t('blog.toc')}</h5>
@@ -239,6 +288,39 @@ const activeAccent = themeAccents[app] || themeAccents.general;
               </a>
             ))}
           </nav>
+
+          <!-- Desktop Sticky TOC Mini Widget -->
+          <div id="desktop-toc-mini-widget" class="mt-6 pt-5 border-t border-slate-200/50 dark:border-white/10">
+            <div class="p-3.5 rounded-xl bg-white/70 dark:bg-slate-900/50 border border-slate-200/80 dark:border-white/10 shadow-sm flex flex-col gap-2.5">
+              <div class="flex items-center gap-2.5">
+                <img 
+                  src={
+                    isFreshCategory ? `${import.meta.env.BASE_URL}freshself/invite/icon.png` :
+                    app === 'buildself' ? `${import.meta.env.BASE_URL}images/buildself/icon.png` :
+                    `${import.meta.env.BASE_URL}favicon.png`
+                  } 
+                  alt={app} 
+                  class="w-7 h-7 rounded-md object-contain shrink-0 border border-slate-200/50 dark:border-white/5" 
+                />
+                <span class="text-xs font-extrabold text-slate-900 dark:text-white truncate">
+                  {isFreshCategory ? 'FreshSelf' : app === 'buildself' ? 'BuildSelf' : 'SelaLink'}
+                </span>
+              </div>
+              <p class="text-[11px] font-medium text-slate-600 dark:text-slate-300 leading-snug line-clamp-2">
+                {cleanMiniCtaTitle}
+              </p>
+              <a 
+                href={`https://play.google.com/store/apps/details?id=com.selalink.${targetCtaApp === 'petself' ? 'freshself' : targetCtaApp}&hl=${lang}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                class={`inline-flex justify-center items-center px-3 py-1.5 rounded-lg text-xs font-bold text-white transition-colors shadow-sm text-center ${
+                  isFreshCategory ? (app === 'petself' ? 'bg-rose-600 hover:bg-rose-700 dark:bg-rose-500 dark:hover:bg-rose-600' : 'bg-purple-600 hover:bg-purple-700 dark:bg-purple-500 dark:hover:bg-purple-600') : 'bg-sky-600 hover:bg-sky-700 dark:bg-sky-500 dark:hover:bg-sky-600'
+                }`}
+              >
+                {t('cta.general.btn') || 'Install App →'}
+              </a>
+            </div>
+          </div>
         </aside>
       )}
     </div>
@@ -282,20 +364,6 @@ const activeAccent = themeAccents[app] || themeAccents.general;
         {app === 'buildself' ? t('blog.disclaimer.buildself.desc') : app === 'petself' ? t('blog.disclaimer.petself.desc') : t('blog.disclaimer.desc')}
       </p>
     </div>
-
-    <!-- App Promotion CTA Banner -->
-    <div class="pt-6 border-t border-slate-200 dark:border-white/10">
-      {(app === 'freshsnap' || app === 'freshself') ? (
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-          <BlogAppCta lang={lang as string} app="freshsnap" />
-          <BlogAppCta lang={lang as string} app="freshself" />
-        </div>
-      ) : (
-        <div class="space-y-4">
-          <BlogAppCta lang={lang as string} app={app} />
-        </div>
-      )}
-    </div>
   </main>
 
   {heroImage && (
@@ -320,66 +388,6 @@ const activeAccent = themeAccents[app] || themeAccents.general;
           alt={title} 
           class="max-w-full max-h-[80vh] md:max-h-[85vh] object-contain rounded-2xl shadow-2xl pointer-events-auto bg-slate-950"
         />
-      </div>
-    </div>
-  )}
-
-  <!-- Sticky App Promo CTA Bar (CRO Optimization) -->
-  {['freshsnap', 'buildself'].includes(app) && (
-    <div 
-      id="sticky-cta-bar"
-      data-app={app === 'freshsnap' ? 'freshself' : app}
-      class="fixed bottom-0 left-0 right-0 z-40 transform translate-y-full opacity-0 pointer-events-none transition-all duration-500 pb-[env(safe-area-inset-bottom,0px)]"
-    >
-      <div class="max-w-[720px] mx-auto px-4 pb-4">
-        <div class="flex items-center justify-between gap-4 p-4 rounded-2xl bg-white/95 dark:bg-slate-900/90 backdrop-blur-xl border border-slate-200/80 dark:border-white/10 shadow-2xl transition-all duration-300">
-          <div class="flex items-center gap-3 min-w-0">
-            <img 
-              src={
-                (app === 'freshsnap' || app === 'freshself') ? `${import.meta.env.BASE_URL}freshself/invite/icon.png` :
-                app === 'buildself' ? `${import.meta.env.BASE_URL}images/buildself/icon.png` :
-                `${import.meta.env.BASE_URL}favicon.png`
-              } 
-              alt={`${app === 'freshsnap' ? 'freshself' : app} icon`} 
-              class="w-9 h-9 sm:w-10 sm:h-10 rounded-lg object-contain shadow-sm border border-slate-200/50 dark:border-white/5 shrink-0"
-            />
-            <div class="text-left font-sans min-w-0">
-              <h5 class="text-xs sm:text-sm font-extrabold text-slate-900 dark:text-white leading-snug line-clamp-2 break-words">
-                {t(`cta.${app === 'freshsnap' ? 'freshself' : app}.title` as any) || t('cta.general.title')}
-              </h5>
-              <p class="hidden sm:block text-[10px] text-slate-500 dark:text-slate-400 font-medium leading-normal mt-0.5 max-w-[280px] lg:max-w-sm truncate">
-                {t(`cta.${app === 'freshsnap' ? 'freshself' : app}.desc` as any) || t('cta.general.desc')}
-              </p>
-            </div>
-          </div>
-          
-          <div class="flex items-center gap-2 shrink-0">
-            <!-- Google Play CTA Badge -->
-            <a 
-              href={`https://play.google.com/store/apps/details?id=com.selalink.${app === 'freshsnap' ? 'freshself' : app}&hl=${lang}`}
-              target="_blank" 
-              rel="noopener noreferrer"
-              class="flex items-center gap-1.5 text-xs font-bold text-white px-4 py-2 rounded-xl transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer shadow-md shadow-black/10"
-              style={`background-color: ${themeColors[app === 'freshsnap' ? 'freshself' : app] || themeColors.studio};`}
-            >
-              <svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
-                <path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/>
-              </svg>
-              <span>{t('cta.general.btn') || 'Install'}</span>
-            </a>
-            
-            <!-- Close Button -->
-            <button 
-              id="close-sticky-cta"
-              class="p-2 rounded-lg text-slate-400 hover:text-slate-600 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-white/5 transition-colors cursor-pointer"
-              aria-label="Close Promotion"
-            >
-              <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
-                <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
-              </svg>
-            </button>
-          </div>
-        </div>
       </div>
     </div>
   )}
