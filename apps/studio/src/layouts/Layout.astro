@@ -99,6 +99,9 @@ const isProd = import.meta.env.PROD;
 	<head>
 		{isProd && (
 			<>
+				<!-- Resource Hints for faster third-party connection -->
+				<link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+				<link rel="preconnect" href="https://www.googletagmanager.com" crossorigin="anonymous" />
 				<!-- Google tag (gtag.js) -->
 				<script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-F045X42F26"></script>
 				<script is:inline>
