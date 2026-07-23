@@ -24,9 +24,11 @@ faqs:
 
 ---
 
-Jorge Luis Borges a composé des chefs-d'œuvre après être devenu aveugle. 📚
+Jorge Luis Borges, le célèbre maître de la littérature argentine, a souffert d'une perte progressive de la vue en raison d'un glaucome héréditaire. Lorsqu'il est devenu directeur de la Bibliothèque nationale d'Argentine en 1955, il était presque totalement aveugle. Loin de renoncer, il a transformé sa cécité en un catalyseur intellectuel extraordinaire. 📚
 
-Aujourd'hui, BuildSelf vous présente la routine de Borges.
+Ne pouvant plus lire ni écrire sur le papier, il a élaboré une méthode de 'dictée mentale' : il composait et affinait dans son esprit des poèmes et des récits entiers avant de les dicter à sa mère ou à ses assistants. Borges imaginait ses œuvres comme des structures tridimensionnelles (des labyrinthes et des miroirs). Cette habitude a stimulé sa mémoire de travail visuospatiale.
+
+Aujourd'hui, BuildSelf révèle les principes neuroscientifiques de la plasticité croisée dans la routine de Borges et comment les appliquer au quotidien.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

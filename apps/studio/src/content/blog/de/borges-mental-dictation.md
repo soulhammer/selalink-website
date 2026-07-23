@@ -24,9 +24,11 @@ faqs:
 
 ---
 
-Jorge Luis Borges erdachte Meisterwerke nach seiner Erblindung. 📚
+Jorge Luis Borges, der berühmte argentinische Schriftsteller und Meister literarischer Labyrinthe, erblindete aufgrund eines erblichen Glaukoms im Laufe seines Lebens fast vollständig. Als er 1955 Direktor der argentinischen Nationalbibliothek wurde, konnte er nicht mehr sehen. Doch Borges verwandelte diese Einschränkung in einen kognitiven Vorteil. 📚
 
-Heute untersucht BuildSelf Borges' mentale Diktat-Routine.
+Da er nicht mehr auf Papier schreiben konnte, entwickelte er die Methode des 'mentalen Diktats': Er entwarf und feilte ganze Gedichte und Essays im Kopf, bevor er sie seiner Mutter oder Assistenten diktierte. Er stellte sich seine Werke als dreidimensionale Strukturen (Labyrinthe, unendliche Bibliotheken) vor. Diese Praxis schärfte sein visuell-räumliches Arbeitsgedächtnis enorm.
+
+Heute zeigt BuildSelf die neurowissenschaftlichen Prinzipien hinter Borges' Visualisierungsroutine und wie moderne Wissensarbeiter ihr Gedächtnis damit stärken können.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

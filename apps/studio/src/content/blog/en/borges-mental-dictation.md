@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Master of labyrinths Jorge Luis Borges wrote masterpieces after losing his sight. 📚
+Jorge Luis Borges, the master of Argentine literature and creator of complex literary labyrinths, suffered from gradual vision loss due to hereditary glaucoma. By the time he was appointed director of the National Library of Argentina in 1955, he was almost completely blind. However, rather than despairing, Borges transformed his blindness into a remarkable intellectual catalyst. 📚
 
-He composed entire stories mentally before dictating them aloud, maximizing working memory.
+Unable to read books or write physically on paper, he developed a unique 'mental dictation' routine. He composed and refined entire poems, short stories, and essays mentally in 3D architectural spaces (labyrinths, infinite libraries, and mirror rooms) before dictating them to his mother, Leonor Acevedo, or his assistants. This extraordinary habit expanded his visuospatial working memory to an unprecedented degree.
 
-Today, BuildSelf explores Jorge Luis Borges' mental dictation routine.
+Today, BuildSelf uncovers the neuroscientific mechanisms behind Jorge Luis Borges' mental dictation routine and provides a 3-step practical guide to help modern professionals maximize their working memory and cognitive focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

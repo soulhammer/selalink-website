@@ -24,9 +24,11 @@ faqs:
 
 ---
 
-Jorge Luis Borges compuso obras maestras tras perder la vista. 📚
+Jorge Luis Borges, el célebre maestro de la literatura argentina y creador de laberintos literarios, sufrió la pérdida gradual de la visión debido a un glaucoma hereditario. Para cuando asumió la dirección de la Biblioteca Nacional de Argentina en 1955, ya había perdido casi por completo la vista. Sin embargo, lejos de rendirse, Borges transformó su ceguera en un impresionante catalizador intelectual. 📚
 
-Hoy BuildSelf explora la rutina de dictado mental de Borges.
+Al no poder leer ni escribir físicamente en papel, desarrolló un increíble método de 'dictado mental': construía y pulía mentalmente poemas, cuentos y ensayos enteros antes de dictárselos a su madre, Leonor Acevedo, o a sus asistentes. Borges imaginaba sus obras no como palabras escritas, sino como mapas y arquitecturas tridimensionales (laberintos, bibliotecas infinitas y redes de espejos). Esta práctica le permitió mantener una memoria de trabajo visuoespacial prodigiosa.
+
+Hoy, BuildSelf revela los principios neurocientíficos de la plasticidad cruzada del cerebro en la rutina de visualización de Borges y cómo los profesionales modernos pueden aplicarla para potenciar su capacidad de enfoque y memoria de trabajo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

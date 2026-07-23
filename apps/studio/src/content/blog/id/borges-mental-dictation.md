@@ -24,9 +24,11 @@ faqs:
 
 ---
 
-Jorge Luis Borges menyusun karya agung setelah kehilangan penglihatannya. 📚
+Jorge Luis Borges, sastrawan besar Argentina dan maestro labirin literatur, mengalami penurunan penglihatan secara bertahap akibat glaukoma herediter. Ketika diangkat menjadi Direktur Perpustakaan Nasional Argentina pada tahun 1955, ia telah kehilangan penglihatannya secara hampir total. Namun, Borges mengubah keterbatasan ini menjadi katalis intelektual yang luar biasa. 📚
 
-Hari ini BuildSelf mengungkap sains di balik rutinitas Borges.
+Karena tidak lagi dapat membaca atau menulis di atas kertas, ia mengembangkan metode 'dikte mental': menyusun dan menyempurnakan puisi serta cerita secara utuh di dalam pikirannya sebelum mendiktekannya kepada ibunya, Leonor Acevedo, atau asistennya. Borges membayangkan karyanya sebagai arsitektur tiga dimensi (labirin dan jaringan cermin). Praktik ini melatih memori kerja spasialnya secara luar biasa.
+
+Hari ini, BuildSelf mengungkap prinsip neurosains plastisitas silang di balik rutinitas visualisasi Borges dan cara menerapkannya untuk meningkatkan fokus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
