@@ -220,8 +220,17 @@ function checkIntegrity() {
       // 2-C. 이미지 파일 존재성 검증
       // heroImage 검사
       if (meta.heroImage) {
-        const relativeImgPath = meta.heroImage.startsWith('/') ? meta.heroImage : `/${meta.heroImage}`;
-        const absoluteImgPath = path.join(publicRoot, relativeImgPath);
+        const rawRelPath = meta.heroImage.startsWith('/') ? meta.heroImage : `/${meta.heroImage}`;
+        const webpRelPath = rawRelPath.replace(/\.png$/, '.webp');
+        
+        let relativeImgPath = rawRelPath;
+        let absoluteImgPath = path.join(publicRoot, relativeImgPath);
+        
+        if (!fs.existsSync(absoluteImgPath) && fs.existsSync(path.join(publicRoot, webpRelPath))) {
+          relativeImgPath = webpRelPath;
+          absoluteImgPath = path.join(publicRoot, relativeImgPath);
+        }
+
         if (!fs.existsSync(absoluteImgPath)) {
           logError(`[이미지 부재] ${lang.toUpperCase()} ${file}: heroImage '${meta.heroImage}' 파일이 public 폴더에 존재하지 않습니다.`);
         } else {
