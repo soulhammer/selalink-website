@@ -23,16 +23,16 @@ faqs:
     answer: "Thaw it slowly in the fridge to maintain its tender texture. Sprinkling a dash of cooking rice wine (mirin) during thawing eliminates fishy odors."
 ---
 
-Você colocou lula fresca na geladeira e ela estragou e deixou mau cheiro? As vísceras apodrecem primeiro, então limpar e congelar é vital. Hoje, o FreshSnap compartilha técnicas corretas.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Autoridade Científica Verificada
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este guia de conservação segue as diretrizes oficiais de: <strong>NIFS & MFDS & USDA</strong>.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
@@ -41,7 +41,7 @@ Você colocou lula fresca na geladeira e ela estragou e deixou mau cheiro? As v�
 
 ## 1. Por que armazenar assim? Fatos científicos
 
-Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 ---
 
@@ -53,7 +53,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Limpe vísceras e impurezas dos tentáculos — Evite cheiro forte 🦑</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    As vísceras do lula e a sujeira das ventosas causam cheiro forte e bactérias. Abra o corpo, retire as vísceras e a bolsa de tinta, e lave os tentáculos em água corrente para remover as impurezas.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -63,7 +63,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Seque completamente e embrulhe com filme plástico — Armazenamento Refrigerado (2Dias) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Seque a lula com papel-toalha por dentro e por fora. O excesso de água cria cristais de gelo que deixam a lula mole ao descongelar. Embrulhe individualmente.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -73,7 +73,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Coloque em um saco para freezer e sele duplo — Armazenamento Congelado (60Dias)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Coloque a lula embrulhada em um saco para freezer, retire o ar e congele a menos de -18 °C. Essa vedação dupla impede que o cheiro de frutos do mar passe para outros alimentos.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -86,7 +86,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Retire as vísceras, olhos e ventosas completamente</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Manter as vísceras causa decomposição rápida, bactérias e mau cheiro. Limpe imediatamente.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
@@ -96,7 +96,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Prepare a lula crua em até 2 dias de geladeira</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Frutos do mar crus estragam rápido na geladeira. Para guardar por mais tempo, congele em porções.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
@@ -111,7 +111,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      No, raw squid guts decompose extremely fast, causing severe odors and spoilage. Always clean, eviscerate, and wash the squid before chilling.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 
@@ -121,7 +121,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Thaw it slowly in the fridge to maintain its tender texture. Sprinkling a dash of cooking rice wine (mirin) during thawing eliminates fishy odors.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 </div>

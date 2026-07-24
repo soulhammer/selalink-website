@@ -1,218 +1,72 @@
 {
   "maupassant-rowing-reset": {
     "title": {
-      "ko": "단편소설 거장의 머리 식히기? 기 드 모파상의 노젓기 수영 운동 루틴",
-      "en": "Master of Short Stories' Brain Reset? Guy de Maupassant's Rowing & Swimming Routine",
-      "ja": "短編小説の巨匠の脳のリセット？ギ・ド・モーパッサンのボート漕ぎ・水泳ルーティン",
-      "zh": "短篇小说巨匠的大脑清空法？莫泊桑的划船与游泳运动习惯",
-      "es": "¿El reinicio mental del maestro del relato corto? La rutina de remo y natación de Maupassant",
-      "fr": "Le réinitialisation du maître de la nouvelle ? La routine d'aviron et de natation de Maupassant",
-      "de": "Der geistige Reset des Meisters der Kurzgeschichte? Guy de Maupassants Ruder-Routine",
-      "pt": "O reinício mental do mestre dos contos? A rotina de remo e natação de Guy de Maupassant",
-      "id": "Reset Otak Maestro Cerpen? Rutinitas Mendayung & Berenang Guy de Maupassant"
+      "ko": "단편소설 거장의 머리 식히기? 기 드 모파상의 노젓기 수영 운동 루틴"
     },
     "description": {
-      "ko": "프랑스 단편 소설의 거장 기 드 모파상. 글쓰기로 지친 뇌를 센강 노젓기와 수영 운동으로 완벽하게 리셋한 강렬한 운동 루틴.",
-      "en": "Learn how Guy de Maupassant rowed boats on the Seine River to flush out mental fatigue and boost BDNF.",
-      "ja": "執筆で疲れた脳をセーヌ川のボート漕ぎや水泳で完全にリセットしたモーパッサンの運動習慣。",
-      "zh": "介绍短篇小说巨匠莫泊桑在写作后通过塞纳河划船与游泳彻底清空大脑、刺激BDNF分泌的强效运动习惯。",
-      "es": "Descubra cómo Maupassant remaba en el Sena para eliminar la fatiga mental y liberar BDNF.",
-      "fr": "Découvrez comment Maupassant ramait sur la Seine pour éliminer la fatigue mentale.",
-      "de": "Erfahren Sie, wie Maupassant auf der Seine ruderte, um kognitive Ermüdung wegzuspülen.",
-      "pt": "Descubra como Maupassant remava no Sena para eliminar a fadiga mental e elevar o BDNF.",
-      "id": "Temukan cara Maupassant mendayung perahu di Sungai Seine untuk membuang lelah mental."
+      "ko": "프랑스 단편 소설의 거장 기 드 모파상. 글쓰기로 지친 뇌를 센강 노젓기와 수영 운동으로 완벽하게 리셋한 강렬한 운동 루틴."
     },
     "authority": {
-      "ko": "전기 'Guy de Maupassant: Étude Scientifique' 및 Journal of Applied Physiology 학술지",
-      "en": "Biography 'Guy de Maupassant: Étude Scientifique' & Journal of Applied Physiology",
-      "ja": "評伝「Guy de Maupassant: Étude Scientifique」および Journal of Applied Physiology 学術誌",
-      "zh": "传记《Guy de Maupassant: Étude Scientifique》与 Journal of Applied Physiology 学术期刊",
-      "es": "Biografía 'Guy de Maupassant: Étude Scientifique' y Journal of Applied Physiology",
-      "fr": "Biographie 'Guy de Maupassant: Étude Scientifique' & Journal of Applied Physiology",
-      "de": "Biografie 'Guy de Maupassant: Étude Scientifique' & Journal of Applied Physiology",
-      "pt": "Biografia 'Guy de Maupassant: Étude Scientifique' e Journal of Applied Physiology",
-      "id": "Biografi 'Guy de Maupassant: Étude Scientifique' & Jurnal Journal of Applied Physiology"
+      "ko": "기 드 모파상 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "'비계 덩어리', '여자의 일생' 등 인간 심리의 정곡을 찌르는 마스터피스를 작성하여 프랑스 단편 소설의 최고 거장으로 추앙받는 기 드 모파상. 극도의 섬세함과 영감을 요구하는 집필 작업 뒤에 찾아오는 지독한 정신적 피로와 편두통을 그는 어떻게 극복했을까요? 🚣\n\n모파상은 맹렬하게 소설을 써 내려간 후 오후가 되면 망설임 없이 센강(Seine River)으로 나가 노를 저어 배를 몰거나 강물 속에 몸을 던져 수영을 했습니다. 전신 근육을 격렬하게 움직이는 노젓기 운동은 머리에 쏠려 있던 과도한 혈류를 온몸으로 분산시키고 뇌를 완벽히 리셋해 주었습니다.\n\n오늘 BuildSelf에서는 기 드 모파상의 노젓기 유산소 루틴과 BDNF(뇌유래신경영양인자) 분비의 과학을 소개합니다.",
-      "en": "In this historic routine: ' ', ' '                .               ? 🚣\n\nIn this historic routine:           (Seine River)           .                 .\n\nIn this historic routine:  BuildSelf       BDNF()   .\n\nPracticing this daily routine consistently builds deep focus and long-term habits. By systematically applying this historic routine daily, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus.",
-      "ja": "この歴史的習慣の実践において：' ', ' ' . ? 🚣 この歴史的習慣の実践において： (Seine River) . . この歴史的習慣の実践において： BuildSelf BDNF() .",
-      "zh": "在这一历史性惯例的实践中：' ', ' ' . ? 🚣 在这一历史性惯例的实践中： (Seine River) . . 在这一历史性惯例的实践中： BuildSelf BDNF() .",
-      "es": "En la práctica de esta rutina transformadora: ' ', ' '                .               ? 🚣\n\nEn la práctica de esta rutina transformadora:           (Seine River)           .                 .\n\nEn la práctica de esta rutina transformadora:  BuildSelf       BDNF()   .\n\nAl practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.\n\nCette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.\n\nCette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora: ' ', ' '                .               ? 🚣\n\nNa prática desta rotina transformadora:           (Seine River)           .                 .\n\nNa prática desta rotina transformadora:  BuildSelf       BDNF()   .\n\nAo praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "'비계 덩어리', '여자의 일생' 등 인간 심리의 정곡을 찌르는 마스터피스를 작성하여 프랑스 단편 소설의 최고 거장으로 추앙받는 기 드 모파상. 극도의 섬세함과 영감을 요구하는 집필 작업 뒤에 찾아오는 지독한 정신적 피로와 편두통을 그는 어떻게 극복했을까요? 🚣\n\n모파상은 맹렬하게 소설을 써 내려간 후 오후가 되면 망설임 없이 센강(Seine River)으로 나가 노를 저어 배를 몰거나 강물 속에 몸을 던져 수영을 했습니다. 전신 근육을 격렬하게 움직이는 노젓기 운동은 머리에 쏠려 있던 과도한 혈류를 온몸으로 분산시키고 뇌를 완벽히 리셋해 주었습니다.\n\n오늘 포스트에서는 기 드 모파상의 노젓기 유산소 루틴과 BDNF(뇌유래신경영양인자) 분비의 과학을 소개합니다."
     },
     "whyTitle": {
-      "ko": "전신 유산소 운동이 유도하는 BDNF 분비와 뇌 혈류 분산",
-      "en": "BDNF Secretion & Brain Blood Flow Redistribution via Cardio",
-      "ja": "全身有酸素運動が誘導するBDNF分泌と脳血流の分散",
-      "zh": "全身有氧运动引发的BDNF分泌与大脑血流分散",
-      "es": "Secreción de BDNF y Redistribución del Flujo Sanguíneo por Cardio",
-      "fr": "Sécrétion de BDNF et Redistribution du Flux Sanguin par le Cardio",
-      "de": "BDNF-Ausschüttung & Blutflussverteilung durch Kardio",
-      "pt": "Secreção de BDNF e Redistribuição do Fluxo Sanguíneo por Cardio",
-      "id": "Sekresi BDNF & Redistribusi Aliran Darah Otak Melalui Kardio"
+      "ko": "전신 유산소 운동이 유도하는 BDNF 분비와 뇌 혈류 분산"
     },
     "whyDesc": {
-      "ko": "집중적인 뇌 활동이 지속되면 전두엽 혈류 집중으로 오버히트와 신경계 상기 현상이 나타납니다.\n\n모파상의 노젓기처럼 전신 대근육을 사용하는 고강도 유산소 운동은 뇌유래신경영양인자(BDNF)를 촉진하고 뇌에 몰린 혈류를 신체로 분산시키는 <strong>'물리적 신경계 샤워'</strong> 역할을 합니다.",
-      "en": "Prolonged brain activity overheats the prefrontal cortex.\n\nFull-body intense cardio like rowing boosts <strong>BDNF (Brain-Derived Neurotrophic Factor)</strong> and redistributes brain blood flow to muscles as a physical nerve shower.",
-      "ja": "集中した脳活動が続くと前頭葉がオーバーヒートします。\n\n全身を使う高強度有酸素運動は<strong>BDNF（脳由来神経栄養因子）</strong>の分泌を促し、脳の血流を全身へ分散させます。",
-      "zh": "持续的高强度用脑会导致前额叶充血过热、产生神经紧绷感。\n\n像莫泊桑划船那样动用全身大肌肉群的高强度有氧运动，能强效促进<strong>BDNF（脑源性神经营养因子）</strong>分泌，充当将血液分散至全身的“物理神经洗礼”。",
-      "es": "La actividad cerebral prolongada sobrecalienta la corteza prefrontal.\n\nEl cardio de cuerpo entero aumenta el <strong>BDNF</strong> y redistribuye el flujo sanguíneo a los músculos.",
-      "fr": "L'activité cérébrale prolongée surchauffe le cortex préfrontal.\n\nLe cardio intense stimule le <strong>BDNF</strong> et redistribue le flux sanguin vers les muscles.",
-      "de": "Lange Gehirnaktivität überhitzt den präfrontalen Kortex.\n\nGanzkörperkardio fördert <strong>BDNF</strong> und verteilt den Blutfluss in den Körper.",
-      "pt": "A atividade mental prolongada superaquece o córtex pré-frontal.\n\nO cardio de corpo inteiro estimula o <strong>BDNF</strong> e redistribui o fluxo sanguíneo para os músculos.",
-      "id": "Aktivitas otak terus-menerus memicu panas berlebih di korteks prafrontal.\n\nKardio seluruh tubuh mendorong <strong>BDNF</strong> dan meredistribusi aliran darah ke otot."
+      "ko": "집중적인 뇌 활동이 지속되면 전두엽 혈류 집중으로 오버히트와 신경계 상기 현상이 나타납니다.\n\n모파상의 노젓기처럼 전신 대근육을 사용하는 고강도 유산소 운동은 뇌유래신경영양인자(BDNF)를 촉진하고 뇌에 몰린 혈류를 신체로 분산시키는 <strong>'물리적 신경계 샤워'</strong> 역할을 합니다."
     },
     "cautionTitle": {
-      "ko": "운동 중에는 업무 생각을 끄고 호흡과 동작에만 몰입하세요",
-      "en": "Turn off work thoughts during exercise and focus on rhythm",
-      "ja": "運動中は仕事の思考をオフにし、呼吸と動作に集中しましょう",
-      "zh": "运动期间切断工作思考，全身心融入呼吸与动作",
-      "es": "Apague los pensamientos de trabajo y concéntrese en el ritmo",
-      "fr": "Coupez les pensées de travail et concentrez-vous sur le mouvement",
-      "de": "Schalten Sie Arbeitsgedanken aus und fokussieren Sie die Bewegung",
-      "pt": "Desligue os pensamentos de trabalho e foque no movimento",
-      "id": "Matikan pikiran kerja saat berolahraga dan fokus pada irama"
+      "ko": "운동 중에는 업무 생각을 끄고 호흡과 동작에만 몰입하세요"
     },
     "cautionDesc": {
-      "ko": "운동하면서도 오늘 해야 할 일이나 번민을 곱씹으면 뇌 혈류 분산 효과가 반감됩니다. 근육의 수축과 호흡의 박자에만 인지를 두세요.",
-      "en": "Ruminating on tasks while exercising reduces blood flow distribution benefits. Focus purely on muscle contraction and breathing.",
-      "ja": "運動中もタスクに悩むと血流分散効果が半減します。筋肉の収縮と呼吸のペースだけに集中してください。",
-      "zh": "若在运动时依然反复琢磨工作，血液分散效果将大打折扣。请将注意力完全放在肌肉收缩与呼吸节奏上。",
-      "es": "Cavilar sobre tareas durante el ejercicio reduce los beneficios. Concéntrese en la respiración.",
-      "fr": "Rassasser les tâches pendant l'exercice réduit l'effet. Concentrez-vous sur le souffle.",
-      "de": "Grübeln während des Sports verringert den Effekt. Konzentrieren Sie sich auf die Atmung.",
-      "pt": "Ruminar sobre tarefas durante o exercício reduz o benefício. Foque na respiração.",
-      "id": "Merenungkan tugas saat berolahraga mengurangi manfaatnya. Fokuslah pada pernapasan."
+      "ko": "운동하면서도 오늘 해야 할 일이나 번민을 곱씹으면 뇌 혈류 분산 효과가 반감됩니다. 근육의 수축과 호흡의 박자에만 인지를 두세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "30분 전신 유산소 운동 환경 전환",
-          "en": "Shift to 30-Minute Full-Body Cardio",
-          "ja": "30分間の全身有酸素運動環境の切り替え",
-          "zh": "切换至30分钟全身有氧运动环境",
-          "es": "Cambiar a 30 Minutos de Cardio de Cuerpo Entero",
-          "fr": "Passer à 30 Min de Cardio de Corps Entier",
-          "de": "Wechsel zu 30 Min Ganzkörperkardio",
-          "pt": "Mudar para 30 Minutos de Cardio de Corpo Inteiro",
-          "id": "Beralih ke 30 Menit Kardio Seluruh Tubuh"
+          "ko": "30분 전신 유산소 운동 환경 전환"
         },
         "text": {
-          "ko": "오후 집필/작업 완료 후 로잉 머신, 수영장, 혹은 한적한 야외 트랙으로 이동합니다.",
-          "en": "After afternoon work, move to a rowing machine, pool, or outdoor track.",
-          "ja": "作業終了後、ローイングマシン、プール、または屋外のコースへ移動します。",
-          "zh": "下午工作完成后，前往划船机、游泳池或室外跑道。",
-          "es": "Tras el trabajo, vaya a una máquina de remo, piscina o pista exterior.",
-          "fr": "Après le travail, allez au rameur, à la piscine ou sur une piste.",
-          "de": "Gehen Sie nach der Arbeit zum Rudergerät, Pool oder auf die Laufbahn.",
-          "pt": "Após o trabalho, vá para um remo ergométrico, piscina ou pista.",
-          "id": "Setelah bekerja, pergi ke mesin rowing, kolam renang, atau trek outdoor."
+          "ko": "오후 집필/작업 완료 후 로잉 머신, 수영장, 혹은 한적한 야외 트랙으로 이동합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
         }
       },
       {
         "name": {
-          "ko": "리드미컬 고강도 노젓기/수영 실행",
-          "en": "Execute Rhythmic High-Intensity Cardio",
-          "ja": "リズム感のある高強度ボート漕ぎ・水泳の実行",
-          "zh": "执行具节奏感的高强度划船/游泳",
-          "es": "Ejecutar Cardio Rítmico de Alta Intensidad",
-          "fr": "Exécuter un Cardio Rythmé à Haute Intensité",
-          "de": "Rhythmisches hochintensives Kardio ausführen",
-          "pt": "Executar Cardio Rítmico de Alta Intensidade",
-          "id": "Lakukan Kardio Berirama Intensitas Tinggi"
+          "ko": "리드미컬 고강도 노젓기/수영 실행"
         },
         "text": {
-          "ko": "심박수가 올라갈 때까지 규칙적인 리듬에 맞춰 20-30분간 강렬한 유산소 운동을 수행합니다.",
-          "en": "Engage in intense cardio for 20-30 minutes matching a regular rhythm until heart rate rises.",
-          "ja": "心拍数が上がるまで規則的なリズムに合わせて20〜30分間運動を行います。",
-          "zh": "以规律的节奏持续进行20-30分钟高强度有氧运动，直至心率上升。",
-          "es": "Realice cardio intenso durante 20-30 minutos con ritmo constante.",
-          "fr": "Faites un cardio intense pendant 20 à 30 minutes à rythme régulier.",
-          "de": "Treiben Sie 20-30 Min intensiven Sport im gleichmäßigen Rhythmus.",
-          "pt": "Pratique cardio intenso por 20-30 minutos em ritmo constante.",
-          "id": "Lakukan kardio intensif selama 20-30 menit dengan irama teratur."
+          "ko": "심박수가 올라갈 때까지 규칙적인 리듬에 맞춰 20-30분간 강렬한 유산소 운동을 수행합니다."
         }
       },
       {
         "name": {
-          "ko": "샤워 후 산뜻한 뇌 상태 복귀",
-          "en": "Post-Shower Fresh Brain Recovery",
-          "ja": "シャワー後の爽快な脳状態の復帰",
-          "zh": "沐浴后爽朗大脑状态回归",
-          "es": "Recuperación Mental Tras la Ducha",
-          "fr": "Retour à l'État Frais Après la Douche",
-          "de": "Frischer Kopf nach der Dusche",
-          "pt": "Mente Renovada Após o Banho",
-          "id": "Kesegaran Otak Setelah Mandi"
+          "ko": "샤워 후 산뜻한 뇌 상태 복귀"
         },
         "text": {
-          "ko": "운동 후 따뜻한 물로 땀을 씻어내며 신경계가 산뜻하게 샤워된 쾌적함을 즐깁니다.",
-          "en": "Wash off sweat after exercising and enjoy the refreshed state of your reset nervous system.",
-          "ja": "運動後シャワーで汗を流し、神経系がリセットされた快適さを味わいます。",
-          "zh": "运动后温水冲洗汗水，享受神经系统如同洗礼般沉静爽朗的清爽感。",
-          "es": "Lávese el sudor después del ejercicio y disfrute del estado renovado de su cerebro.",
-          "fr": "Douchez-vous et profitez du calme retrouvé de votre système nerveux.",
-          "de": "Duschen Sie und genießen Sie den erfrischten Zustand Ihres Nervensystems.",
-          "pt": "Tome um banho e aproveite o estado renovado de seu cérebro.",
-          "id": "Mandi air hangat setelah berolahraga dan nikmati kesegaran sistem saraf Anda."
+          "ko": "운동 후 따뜻한 물로 땀을 씻어내며 신경계가 산뜻하게 샤워된 쾌적함을 즐깁니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "노젓기나 수영을 하지 못할 경우 어떤 운동으로 대체 가능한가요?",
-          "en": "What exercises can replace rowing or swimming?",
-          "ja": "ボート漕ぎや水泳ができない場合、どんな運動で代用できますか？",
-          "zh": "无法划船或游泳时可以用什么运动替代？",
-          "es": "¿Qué ejercicios pueden reemplazar el remo o la natación?",
-          "fr": "Par quels exercices remplacer l'aviron ou la natation ?",
-          "de": "Welcher Sport kann Rudern oder Schwimmen ersetzen?",
-          "pt": "Quais exercícios podem substituir o remo ou natação?",
-          "id": "Olahraga apa yang bisa menggantikan mendayung atau berenang?"
+          "ko": "노젓기나 수영을 하지 못할 경우 어떤 운동으로 대체 가능한가요?"
         },
         "answer": {
-          "ko": "상체와 하체를 동시에 쓰는 로잉 머신, 사이클 엘립티컬, 인터벌 조깅, 버피 테스트 등 전신 대근육 유산소 운동이라면 똑같은 신경계 샤워 효과를 얻을 수 있습니다.",
-          "en": "Elliptical machines, interval jogging, burpees, or any full-body cardio offer the same nervous system shower effect.",
-          "ja": "全身を使うローイングマシン、クロストレーナー、ランニング、バーピーなどでも同等の効果が得られます。",
-          "zh": "椭圆机、间歇慢跑、波比跳等任何动用全身大肌肉群的有氧运动都能达到同样的神经重置效果。",
-          "es": "Máquinas elípticas, footing por intervalos o burpees ofrecen el mismo efecto de limpieza mental.",
-          "fr": "Le vélo elliptique, le footing par intervalles ou les burpees offrent le même effet.",
-          "de": "Ellipsentrainer, Intervall-Jogging oder Burpees bieten denselben Effekt.",
-          "pt": "Elíptico, corrida com intervalos ou burpees oferecem o mesmo efeito de limpeza mental.",
-          "id": "Mesin eliptis, jogging interval, atau burpee memberikan efek pembersihan saraf yang sama."
+          "ko": "상체와 하체를 동시에 쓰는 로잉 머신, 사이클 엘립티컬, 인터벌 조깅, 버피 테스트 등 전신 대근육 유산소 운동이라면 똑같은 신경계 샤워 효과를 얻을 수 있습니다."
         }
       },
       {
         "question": {
-          "ko": "매일 고강도 운동을 하면 몸에 무리가 가지 않나요?",
-          "en": "Won't daily intense exercise strain the body?",
-          "ja": "毎日高強度の運動をすると身体に負担がかかりませんか？",
-          "zh": "每天进行高强度运动会不会对身体造成负担？",
-          "es": "¿No dañará el cuerpo el ejercicio intenso diario?",
-          "fr": "L'exercice quotidien intense ne va-t-il pas épuiser le corps ?",
-          "de": "Schadet täglicher intensiver Sport nicht dem Körper?",
-          "pt": "O exercício diário intenso não vai sobrecarregar o corpo?",
-          "id": "Apakah olahraga intensif harian tidak membebani tubuh?"
+          "ko": "매일 고강도 운동을 하면 몸에 무리가 가지 않나요?"
         },
         "answer": {
-          "ko": "주 3회 고강도 유산소를 진행하고, 나머지 날에는 가벼운 산책이나 스트레칭으로 유연하게 조절하여 부상을 방지하세요.",
-          "en": "Do intense cardio 3 times a week, and adjust flexibly with light walks on remaining days.",
-          "ja": "週3回は高強度で行い、残りの日は軽い散歩やストレッチに調整してください。",
-          "zh": "可保持每周3次高强度有氧，其余日子调整为轻度散步或拉伸，避免运动损伤。",
-          "es": "Haga cardio intenso 3 veces por semana y ajuste con paseos ligeros los demás días.",
-          "fr": "Faites du cardio 3 fois par semaine et marchez les autres jours pour équilibrer.",
-          "de": "Treiben Sie 3 Mal pro Woche intensiven Sport und gehen Sie an den anderen Tagen spazieren.",
-          "pt": "Faça cardio intenso 3 vezes por semana e alterne com caminhadas leves.",
-          "id": "Lakukan kardio 3 kali seminggu, dan selingi dengan jalan santai di hari sisanya."
+          "ko": "주 3회 고강도 유산소를 진행하고, 나머지 날에는 가벼운 산책이나 스트레칭으로 유연하게 조절하여 부상을 방지하세요."
         }
       }
-    ],
-    "pubDate": "2026-06-11",
-    "updatedDate": "2026-06-11"
+    ]
   }
 }

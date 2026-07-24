@@ -1,190 +1,62 @@
 {
   "valery-dawn-notebook": {
     "title": {
-      "ko": "새벽 4시의 카이에: 폴 발레리의 의식 기록법",
-      "en": "Cahiers at 4 AM: Paul Valery's Consciousness Recording Method",
-      "ja": "午前4時のカイエ：ポール・ヴァレリーの意識記録法",
-      "zh": "凌晨4点的卡叶：保罗·瓦勒里的意识记录法",
-      "es": "Cahiers a las 4 AM: El método de registro de la conciencia de Paul Valéry",
-      "fr": "Cahiers à 4h du matin : La méthode d'écriture de la conscience de Paul Valéry",
-      "de": "Cahiers um 4 Uhr morgens: Paul Valérys Methode zur Bewusstseinsaufzeichnung",
-      "pt": "Cahiers às 4 AM: O método de registro da consciência de Paul Valéry",
-      "id": "Cahiers Jam 4 Pagi: Metode Pencatatan Kesadaran Paul Valery"
+      "ko": "새벽 4시의 카이에: 폴 발레리의 의식 기록법"
     },
     "description": {
-      "ko": "51년간 매일 새벽 4시에 일어나 자필 노트 『카이에』를 채웠던 시인 폴 발레리. 외부 자극이 차단된 이른 아침의 정적이 전두엽의 성찰 및 분석 지능을 최고조로 깨우는 과학적 이유를 다룹니다.",
-      "en": "Poet Paul Valery, who woke up at 4 AM every day for 51 years to fill his notebook Cahiers. Read the science of how early morning quietness without external stimuli awakens the prefrontal cortex.",
-      "ja": "51年間、毎日午前4時に起きて自筆ノート『カイエ』を埋めた詩人ポール・ヴァレリー。外部の刺激が遮断された早朝の静寂が、前頭葉の省察および分析知能を最高潮に目覚めさせる科学的な理由を扱います。",
-      "zh": "51年间每天凌晨4点起床书写自传体日记《卡叶》的诗人保罗·瓦勒里。探讨免受外部刺激干扰的清晨静谧如何极大唤醒前额叶反思与分析智能的科学原因。",
-      "es": "El poeta Paul Valéry, que durante 51 años escribió en su diario Cahiers a las 4 AM. Analizamos el porqué la calma del amanecer estimula la corteza prefrontal.",
-      "fr": "Le poète Paul Valéry, qui a écrit pendant 51 ans dans ses Cahiers à 4h du matin. Découvrez pourquoi le calme de l'aube stimule le cortex préfrontal.",
-      "de": "Dichter Paul Valéry schrieb 51 Jahre lang jeden Morgen um 4 Uhr in seine 'Cahiers'. Erfahren Sie, warum die morgendliche Stille ohne äußere Reize die Stirnhirnleistung maximiert.",
-      "pt": "O poeta Paul Valéry, que durante 51 anos escreveu em seu diário Cahiers às 4 AM. Analisamos o porquê da calma do amanhecer estimular o córtex pré-frontal.",
-      "id": "Penyair Paul Valery, yang bangun pukul 4 pagi selama 51 tahun untuk mengisi buku catatan Cahiers. Ulas sains di balik ketenangan subuh untuk area prefrontal."
+      "ko": "51년간 매일 새벽 4시에 일어나 자필 노트 『카이에』를 채웠던 시인 폴 발레리. 외부 자극이 차단된 이른 아침의 정적이 전두엽의 성찰 및 분석 지능을 최고조로 깨우는 과학적 이유를 다룹니다."
     },
     "authority": {
-      "ko": "폴 발레리 원전 아카이브 『Cahiers』 자필 노트 고증 및 시간생물학(Chronobiology) 새벽 시간대 코르티솔 및 전두엽 각성 기능 연구",
-      "en": "Paul Valery's Original Archive 'Cahiers' and Chronobiology Research on Dawn Cortisol & Prefrontal Activation",
-      "ja": "ポール・ヴァレリー原典アーカイブ『Cahiers』自筆ノート考証および時間生物学（Chronobiology）早朝時間帯のコルチゾールと前頭葉覚醒機能研究",
-      "zh": "保罗·瓦勒里原著文献《Cahiers》手稿考证及时间生物学(Chronobiology)清晨时段皮质醇与前额叶觉醒功能研究",
-      "es": "Autenticación de los cuadernos autógrafos 'Cahiers' de Paul Valéry e investigación sobre el cortisol al amanecer y activación prefrontal",
-      "fr": "Récit des carnets autographes 'Cahiers' de Paul Valéry et recherche sur le cortisol à l'aube et l'activation du cortex préfrontal",
-      "de": "Historische Belege aus Paul Valérys 'Cahiers' und zirkadianbiologische Forschung zur morgendlichen Cortisolausschüttung und Stirnhirnaktivität",
-      "pt": "Autenticação dos cadernos autógrafos 'Cahiers' de Paul Valéry e pesquisa sobre o cortisol ao amanhecer e ativação pré-frontal",
-      "id": "Arsip Karya Asli Paul Valery 'Cahiers' dan Penelitian Kronobiologi tentang Hormon Kortisol Pagi & Aktivasi Prefrontal"
+      "ko": "Valery Dawn Notebook 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "프랑스 상징주의 문학의 최고 봉우리이자 날카로운 지성인 폴 발레리. 그는 평생 동안 매일 새벽 4시만 되면 어김없이 눈을 비비고 일어나 램프를 켰습니다. 그가 향한 곳은 집필용 책상이었습니다. 발레리는 동이 트기 전 세상이 가장 침묵하고 있는 몇 시간 동안, 떠오르는 의식의 흐름과 사색을 꼼꼼하게 기록했습니다. 51년간 쌓인 이 자필 노트는 무려 261권에 달하며 그의 모든 철학적 사유의 모태가 되었습니다. 脳科学的으로 새벽의 정적이 어떻게 우리의 인지적 거름망을 거쳐 가장 순수한 아이디어를 추출해 내는지 알아봅니다.",
-      "en": "The peak of French symbolist literature and sharp intellect, Paul Valery. Throughout his life, every day at 4 AM, he woke up without fail and turned on his lamp. He headed straight to his writing desk. During the quiet hours before dawn when the world was silent, Valery recorded the stream of consciousness and thoughts. Over 51 years, these notebooks accumulated to 261 volumes, serving as the source of all his philosophical ideas. Explore how the quietness of dawn filters cognitive noise to extract the purest ideas.",
-      "ja": "フランスの象徴主義文学の最高峰であり、鋭い知性の持ち主ポール・ヴァレリー。彼は生涯にわたり、毎日午前4時になると必ず目をこすって起き上がり、ランプを灯しました。彼が向かったのは執筆用の机でした。ヴァレリーは、夜が明ける前の世界が最も静まり返っている数時間の間に、浮かび上がる意識の流れと思索を細かく記録しました。51年間に蓄積されたこの自筆ノートは261冊に及び、彼のすべての哲学的思考の母体となりました。脳科学的に、夜明けの静寂が私たちの認知フィルターを通じていかに最も純粋なアイデアを抽出するのかを探ります。",
-      "zh": "在这一历史性惯例的实践中： . 4 . . , . 51 261 . 脳科学的 .",
-      "es": "Paul Valéry, el máximo exponente del simbolismo francés. Durante 51 años, se levantó a las 4 AM para escribir en su escritorio. En esas horas silenciosas antes del amanecer, registró el flujo de sus pensamientos. Estos escritos sumaron 261 cuadernos y constituyeron el núcleo de su obra. Analicemos cómo el silencio del amanecer despeja el ruido mental para liberar ideas puras.",
-      "fr": "Paul Valéry, figure majeure du symbolisme français. Pendant 51 ans, il s'est levé à 4h du matin pour écrire à son bureau. Dans le silence précédant l'aube, il a noté le flux de ses pensées. Ces écrits ont formé 261 carnets, base de toute son œuvre. Voyons comment le calme de l'aube dissipe le bruit mental pour libérer des idées pures.",
-      "de": "Paul Valéry war ein Meister des französischen Symbolismus. Über 51 Jahre hinweg stand er jeden Morgen um 4 Uhr auf, um am Schreibtisch zu arbeiten. In der absoluten Stille vor dem Sonnenaufgang hielt er den Fluss seines Bewusstseins fest. Seine Notizen füllten 261 Bände und bildeten das Fundament seines Werks. Erfahren Sie, wie die morgendliche Ruhe mentale Ablenkungen filtert.",
-      "pt": "Paul Valéry, o expoente máximo do simbolismo francês. Durante 51 anos, levantou-se às 4 AM para escrever em sua escrivaninha. Nessas horas silenciosas antes do amanhecer, registrou o fluxo de seus pensamentos. Esses escritos somaram 261 cadernos e constituíram o núcleo de sua obra. Analisemos como o silêncio do amanhecer limpa o ruído mental para liberar ideias puras.",
-      "id": "Paul Valery, puncak kesusastraan simbolis Prancis yang memiliki kecerdasan luar biasa. Sepanjang hidupnya, ia selalu bangun pukul 4 pagi untuk menyalakan lampu minyak dan duduk di meja kerjanya. Sebelum fajar menyingsing, ia mencatat aliran kesadaran dan pemikirannya. Buku catatan harian selama 51 tahun ini berjumlah 261 volume. Ulas bagaimana kesunyian subuh menyaring kebisingan kognitif untuk memunculkan ide-ide murni."
+      "ko": "\"새벽은 나의 의식이 가장 맑고 온전한 상태로 깨어나는 신성한 시간이다. 이때 남긴 기록만이 나의 정수이다.\" 🌅\n\n프랑스 상징주의 문학의 최고 봉우리이자 날카로운 지성인 폴 발레리. 그는 평생 동안 매일 새벽 4시만 되면 어김없이 눈을 비비고 일어나 램프를 켰습니다. 그가 향한 곳은 집필용 책상이었습니다. 발레리는 동이 트기 전 세상이 가장 침묵하고 있는 몇 시간 동안, 떠오르는 의식의 흐름과 사색을 꼼꼼하게 기록했습니다. 51년간 쌓인 이 자필 노트는 무려 261권에 달하며 그의 모든 철학적 사유의 모태가 되었습니다. 뇌과학적으로 새벽의 정적이 어떻게 우리의 인지적 거름망을 거쳐 가장 순수한 아이디어를 추출해 내는지 알아봅니다.\n\n현대 사회를 살아가는 많은 사람이 눈을 뜨자마자 스마트폰의 알림을 확인하고, 실시간 뉴스와 이메일의 세밀한 텍스트를 읽으며 하루를 시작하곤 합니다. 하지만 이 즉각적인 외부 자극 유입은 잠에서 깬 지 얼마 안 된 뇌에 엄청난 인지적 노이즈를 주입하여 하루의 주도권을 빼앗아갑니다. 반면 발레리는 온 세상이 잠든 이른 새벽을 활용하여, 외부 신호를 완벽하게 차단하고 내면의 사유를 정리하는 독립된 인지 쉴드를 확보했습니다.\n\n오늘 포스트에서는 폴 발레리의 새벽 노트를 통한 자아 조율 메커니즘을 뇌과학과 생리학적 관점에서 해석하고, 현대인들이 외부의 주의력 쟁탈전 속에서 평온한 두뇌 영역을 지키고 정제된 통찰을 얻는 3단계 새벽 실천 방안을 제시합니다."
     },
     "whyTitle": {
-      "ko": "새벽 정적이 주는 인지 노이즈 차단과 각성 호르몬의 작용",
-      "en": "Blocking Cognitive Noise and Action of Waking Hormones in Dawn Quietness",
-      "ja": "早朝の静寂がもたらす認知ノイズ遮断と覚醒ホルモンの作用",
-      "zh": "清晨静谧阻断认知噪音与觉醒荷尔蒙的作用",
-      "es": "Bloqueo del ruido cognitivo y el papel de las hormonas de activación en el silencio del amanecer",
-      "fr": "Blocage du bruit cognitif et rôle des hormones d'éveil dans le silence de l'aube",
-      "de": "Abschirmung kognitiver Störungen und Wirkung von Aktivierungshormonen in der morgendlichen Stille",
-      "pt": "Bloqueio do ruído cognitivo e o papel dos hormônios de ativação no silêncio do amanhecer",
-      "id": "Sains di Balik Ketenangan Subuh: Penyaringan Kebisingan Kognitif dan Hormon Pagi"
+      "ko": "새벽 정적이 주는 인지 노이즈 차단과 각성 호르몬의 작용"
     },
     "whyDesc": {
-      "ko": "일상적인 낮 시간대에 뇌는 소음, 이메일, 메신저 등 무수한 외부 자극에 직면하며 인지 자원을 낭비합니다. 그러나 새벽 4시에는 주변 세상이 완전히 멈춰 있어 뇌가 외부 자극을 거르는 데 드는 에너지가 0에 가까워집니다. 동시에, 잠에서 깨어나며 서서히 촉발되는 코르티솔 호르몬 수치의 상승은 뇌를 스트레스 없이 차분하게 깨워, 전두엽이 주도하는 깊은 성찰적 글쓰기와 자아 관조 작업을 수행하기에 완벽한 생리학적 조건을 조성합니다.",
-      "en": "During normal daytime hours, the brain wastes cognitive resources facing endless external stimuli like noise, emails, and messengers. However, at 4 AM, the surrounding world is completely still, reducing the energy spent filtering external stimuli to near zero. Simultaneously, the gradual rise in cortisol hormone levels during waking calmly alerts the brain without stress, creating perfect physiological conditions for deep, prefrontal-driven reflective writing and self-contemplation.",
-      "ja": "日常の昼間の時間帯、脳は騒音、電子メール、メッセンジャーなどの無数の外部刺激に直面し、認知資源を浪費します。しかし、午前4時には周囲の世界が完全に停止しているため、脳が外部刺激を遮断するために費やすエネルギーはゼロに近くなります。同時に、目覚めとともに徐々に高まるコルチゾールホルモンの分泌は、脳をストレスなく穏やかに目覚めさせ、前頭葉が主導する深い自己洞察や分析的な記述を行うのに最適な生理学的条件を整えます。",
-      "zh": "在日常的白昼时段，大脑需要应对噪音、邮件、即时通讯等无数外部刺激，从而浪费认知资源。然而在清晨4点，周围世界完全归于静止，大脑过滤外部刺激所需的能量几近为零。同时，伴随醒来而逐渐触发升高的皮质醇激素水平会无压力地温和唤醒大脑，为进行由前额叶主导的深度反思性写作与自我观照创造了完美的生理条件。",
-      "es": "Durante el día, el cerebro gasta energía procesando estímulos externos como ruidos y notificaciones. A las 4 AM, dado que el entorno está inactivo, el gasto cognitivo para filtrar distractores se reduce a cero. Al mismo tiempo, el aumento natural del cortisol al despertar activa el cerebro de forma gradual y sin estrés, facilitando un estado ideal para que el lóbulo frontal realice tareas de reflexión profunda y autoanálisis.",
-      "fr": "En journée, le cerveau s'épuise à filtrer les stimuli externes comme le bruit et les notifications. À 4h du matin, l'environnement étant inactif, le coût cognitif lié aux distractions tombe à zéro. En même temps, la hausse naturelle du cortisol au réveil stimule le cerveau en douceur, créant l'état idéal pour que le cortex préfrontal mène une réflexion approfondie.",
-      "de": "Tagsüber verbraucht das Gehirn Energie für das Filtern von Reizen wie Lärm, Mails und Nachrichten. Um 4 Uhr morgens steht die Welt still, sodass der Aufwand zur Reizfilterung gegen null geht. Gleichzeitig sorgt die morgendliche Cortisolausschüttung für ein stressfreies, natürliches Erwachen. Dies schafft optimale Bedingungen, um durch den Stirnlappen komplexe Reflexionen und Analysen durchzuführen.",
-      "pt": "Durante o dia, o cérebro gasta energia processando estímulos externos como ruídos e notificações. Às 4 AM, dado que o entorno está inativo, o gasto cognitivo para filtrar distratores reduz-se a zero. Ao mesmo tempo, o aumento natural do cortisol ao acordar ativa o cérebro de forma gradual e sem estresse, facilitando um estado ideal para que o lobo frontal realize tarefas de reflexão profunda e autoanálise.",
-      "id": "Pada waktu siang, otak membuang banyak energi untuk menyaring kebisingan, notifikasi, dan gangguan eksternal. Namun pada pukul 4 pagi, saat dunia luar masih sunyi, energi otak untuk menyaring gangguan bernilai hampir nol. Di saat yang sama, kenaikan kadar kortisol secara bertahap membangunkan otak dengan tenang tanpa stres, menciptakan kondisi ideal untuk refleksi diri dan berpikir tajam."
+      "ko": "일상적인 낮 시간대에 뇌는 소음, 이메일, 메신저 등 무수한 외부 자극에 직면하며 인지 자원을 낭비합니다. 그러나 새벽 4시에는 주변 세상이 완전히 멈춰 있어 뇌가 외부 자극을 거르는 데 드는 에너지가 0에 가까워집니다. 동시에, 잠에서 깨어나며 서서히 촉발되는 코르티솔 호르몬 수치의 상승은 뇌를 스트레스 없이 차분하게 깨워, 전두엽이 주도하는 깊은 성찰적 글쓰기와 자아 관조 작업을 수행하기에 완벽한 생리학적 조건을 조성합니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "기상 직후 뇌가 완전히 깨어나기 전의 몽롱한 상태에서 복잡한 기계적 업무나 수치 연산에 바로 들어가면 생산성이 떨어집니다. 이 시간대에는 논리 연산보다 직관적인 메모나 자유로운 글쓰기, 철학적 독서를 배치하는 것이 인지 효율에 가장 적합합니다. 또한, 새벽 시간을 방해받지 않기 위해 기상 직후 1시간 동안은 절대 스마트폰이나 이메일을 확인하지 않는 단절 벽을 세우는 것이 필수적입니다.",
-      "en": "Starting complex mathematical calculations or mechanical tasks immediately after waking up when the brain is still groggy impairs efficiency. It is best to schedule intuitive journaling, free writing, or philosophical reading during this window. Also, establish a barrier of not checking your phone or emails for the first hour to avoid disturbing the dawn quietness.",
-      "ja": "起床直後、脳が完全に目覚める前の朦朧とした状態で、複雑な機械的業務や数値演算にすぐに取りかかると生産性が低下します。この時間帯には、論理的な計算よりも、直感的なメモや自由な記述、哲学的な読書を配置することが認知効率に最も適しています。また、早朝の時間を邪魔されないために、起床後1時間は絶対にスマートフォンや電子メールを確認しないという『遮断壁』を築くことが不可欠です。",
-      "zh": "在刚起床、大脑尚未完全清醒的朦胧状态下，如果立刻投入复杂的机械性工作或数值运算，生产力反而会下降。在此时间段内，相比于逻辑运算，安排直观的随笔记录、自由写作或哲学阅读更符合认知效率。此外，为了防止清晨时光受到打扰，醒来后的首个小时内建立绝对不看手机或邮件的隔离壁垒是必不可少的。",
-      "es": "No intente realizar tareas de cálculo complejas o mecánicas al despertar cuando el cerebro aún está somnoliento. Es mejor dedicar este lapso a la escritura intuitiva, toma de notas o lectura. Asimismo, para proteger esta calma, evite revisar el teléfono o el correo durante la primera hora de su jornada.",
-      "fr": "N'essayez pas de faire des calculs complexes ou des tâches répétitives dès le réveil quand le cerveau est encore embrumé. Consacrez ce moment à l'écriture intuitive ou à la lecture. Pour protéger ce calme, évitez de regarder votre téléphone ou vos e-mails pendant la première heure.",
-      "de": "Beginnen Sie direkt nach dem Aufstehen nicht mit komplexen Rechenaufgaben, wenn das Gehirn noch müde ist. Nutzen Sie diese Zeit lieber für kreatives Schreiben, Notizen oder Lesen. Um die morgendliche Ruhe zu schützen, sollten Sie in der ersten Stunde nach dem Aufstehen auf Mails und Handys verzichten.",
-      "pt": "Não tente realizar tarefas de cálculo complexas ou mecânicas ao acordar quando o cérebro ainda está sonolento. É melhor dedicar este lapso à escrita intuitiva, anotações ou leitura. Da mesma forma, para proteger esta calma, evite verificar o telefone ou o e-mail durante a primeira hora do dia.",
-      "id": "Memulai tugas berhitung rumit saat otak masih setengah sadar setelah bangun tidur justru tidak produktif. Jadwalkan menulis catatan bebas, jurnal kreatif, atau membaca buku filsafat pada waktu ini. Selain itu, pastikan untuk tidak membuka ponsel atau memeriksa email pada 1 jam pertama untuk melindungi ketenangan subuh Anda."
+      "ko": "기상 직후 뇌가 완전히 깨어나기 전의 몽롱한 상태에서 복잡한 기계적 업무나 수치 연산에 바로 들어가면 생산성이 떨어집니다. 이 시간대에는 논리 연산보다 직관적인 메모나 자유로운 글쓰기, 철학적 독서를 배치하는 것이 인지 효율에 가장 적합합니다. 또한, 새벽 시간을 방해받지 않기 위해 기상 직후 1시간 동안은 절대 스마트폰이나 이메일을 확인하지 않는 단절 벽을 세우는 것이 필수적입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "새벽 각성 공간 구축 및 기상",
-          "en": "Establishing a Dawn Awakening Space and Waking Up",
-          "ja": "早朝覚醒空間の構築と起床",
-          "zh": "构建清晨觉醒空间并起床",
-          "es": "Crear un espacio de activación al amanecer y levantarse",
-          "fr": "Aménager un espace d'éveil matinal et se lever",
-          "de": "Einrichten eines ruhigen Arbeitsplatzes und Aufstehen",
-          "pt": "Criar um espaço de ativação ao amanecer e levantar-se",
-          "id": "Membangun Sudut Kerja Subuh dan Mulai Bangun"
+          "ko": "새벽 각성 공간 구축 및 기상"
         },
         "text": {
-          "ko": "새벽 4시에서 5시 사이에 조용히 기상하여, 뇌가 편안함을 느끼도록 침실이 아닌 서재나 테이블로 이동하여 간접 램프 조명만을 켭니다.",
-          "en": "Wake up quietly between 4 AM and 5 AM. Move to a study or desk rather than staying in bed, and turn on a warm indirect lamp to comfort the brain.",
-          "ja": "午前4時から5時の間に静かに起床し、脳が心地よさを感じるように、寝室ではなく書斎やテーブルへ移動して間接照明のランプだけを点灯します.",
-          "zh": "在凌晨4点至5点之间悄然起床，为了让大脑获得舒适感，移步至书房或餐桌旁，仅打开间接照明台灯。",
-          "es": "Levántese sin ruido entre las 4 AM y 5 AM. Diríjase a su mesa de estudio en lugar de quedarse en el dormitorio y encienda una lámpara de luz indirecta.",
-          "fr": "Levez-vous sans bruit entre 4h et 5h du matin. Installez-vous à votre bureau plutôt que de rester dans la chambre et allumez une lampe douce.",
-          "de": "Stehen Sie zwischen 4 und 5 Uhr ruhig auf. Gehen Sie an Ihren Schreibtisch und schalten Sie eine gedämpfte, indirekte Beleuchtung ein.",
-          "pt": "Levante-se sem ruído entre as 4 AM e 5 AM. Dirija-se à sua mesa de estudo em vez de ficar no quarto e acenda uma luminária de luz indireta.",
-          "id": "Bangun dengan tenang antara pukul 4 hingga 5 pagi. Pindahlah dari tempat tidur ke meja kerja Anda, lalu nyalakan lampu temaram yang nyaman."
+          "ko": "새벽 4시에서 5시 사이에 조용히 기상하여, 뇌가 편안함을 느끼도록 침실이 아닌 서재나 테이블로 이동하여 간접 램프 조명만을 켭니다."
         }
       },
       {
         "name": {
-          "ko": "외부 디지털 자극 차단 벽 세우기",
-          "en": "Setting a Barrier Against External Digital Stimuli",
-          "ja": "外部デジタル刺激の遮断壁設置",
-          "zh": "建立外部数字化刺激阻断壁垒",
-          "es": "Evitar estímulos digitales externos",
-          "fr": "Éviter les stimuli numériques externes",
-          "de": "Abschirmung digitaler Reize am Morgen",
-          "pt": "Evitar estímulos digitais externos",
-          "id": "Memblokir Gangguan Digital"
+          "ko": "외부 디지털 자극 차단 벽 세우기"
         },
         "text": {
-          "ko": "이른 아침의 마인드 정적을 훼손하지 않기 위해 기상 후 첫 1시간 동안은 스마트폰을 켜지 않거나 멀리 격리해 둡니다.",
-          "en": "To preserve the early morning calm, do not turn on your phone or keep it away for the first hour after waking up.",
-          "ja": "早朝のマインドの静寂を壊さないよう、起床後の最初の1時間はスマートフォンを起動しない、または遠ざけて保管します.",
-          "zh": "为了不破坏清晨的心灵静谧，醒来后的首个小时内不打开手机，或将其放置于远处隔离。",
-          "es": "Para proteger la tranquilidad matutina, evite encender o mirar el teléfono durante la primera hora después de levantarse.",
-          "fr": "Pour préserver le calme du matin, évitez d'allumer ou de regarder votre téléphone pendant la première heure après le réveil.",
-          "de": "Um die morgendliche Stille zu bewahren, lassen Sie das Smartphone in der ersten Stunde nach dem Aufstehen ausgeschaltet oder legen Sie es beiseite.",
-          "pt": "Para proteger a tranquilidade matinal, evite ligar ou olhar o telefone durante a primeira hora depois de se levantar.",
-          "id": "Untuk menjaga ketenangan pikiran di pagi hari, jangan menyalakan ponsel Anda atau letakkan di ruangan lain selama 1 jam pertama."
+          "ko": "이른 아침의 마인드 정적을 훼손하지 않기 위해 기상 후 첫 1시간 동안은 스마트폰을 켜지 않거나 멀리 격리해 둡니다."
         }
       },
       {
         "name": {
-          "ko": "의식의 흐름(카이에) 작성 및 사색",
-          "en": "Writing the Stream of Consciousness (Cahiers) and Meditating",
-          "ja": "意識の流れ（カイエ）の記述と思索",
-          "zh": "书写意识流（卡叶）并进行沉思",
-          "es": "Escribir el flujo de conciencia (Cahiers) y reflexionar",
-          "fr": "Écrire son flux de pensée (Cahiers) et méditer",
-          "de": "Festhalten von Gedanken (Cahiers) und Reflektieren",
-          "pt": "Escrever o fluxo de consciência (Cahiers) e refletir",
-          "id": "Menulis Jurnal Aliran Kesadaran (Cahiers)"
+          "ko": "의식의 흐름(카이에) 작성 및 사색"
         },
         "text": {
-          "ko": "노트를 열고 형식의 구애 없이 30분간 자신의 생각, 감정, 떠오르는 지적 아이디어를 묵묵히 펜으로 적어내려 가며 사유를 정교화합니다.",
-          "en": "Open a notebook and write your thoughts, feelings, or intellectual ideas freely for 30 minutes to refine your thinking.",
-          "ja": "ノートを開き、形式にとらわれずに30分間、自身の考え、感情、浮かび上がる知的なアイデアを黙々とペンで書き留め、思索を深めます.",
-          "zh": "翻开笔记本，不受格式拘束地用笔默默写下自己的想法、情感和涌现的智力创意，时长30分钟，以此细化思维。",
-          "es": "Abra un cuaderno y escriba libremente durante 30 minutos sobre sus ideas, emociones o metas, dando estructura a sus pensamientos.",
-          "fr": "Ouvrez un carnet et écrivez librement pendant 30 minutes sur vos idées, vos émotions ou vos objectifs pour structurer votre esprit.",
-          "de": "Öffnen Sie ein Heft und schreiben Sie 30 Minuten lang frei Ihre Gedanken, Gefühle oder Ideen auf, um Ihre Gedanken zu ordnen.",
-          "pt": "Abra um caderno e escreva libremente durante 30 minutos sobre suas ideias, emoções ou metas, dando estrutura aos seus pensamentos.",
-          "id": "Buka buku catatan Anda dan tuliskan pikiran, perasaan, atau ide kreatif Anda secara bebas selama 30 menit untuk menyaring ide."
+          "ko": "노트를 열고 형식의 구애 없이 30분간 자신의 생각, 감정, 떠오르는 지적 아이디어를 묵묵히 펜으로 적어내려 가며 사유를 정교화합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "새벽에 일어나는 것 자체가 힘든 수면 부족 환자는 어떡하죠?",
-          "en": "What if it is hard to wake up early due to chronic sleep debt?",
-          "ja": "早朝に起きること自体が難しい睡眠不足の人はどうすればよいですか？",
-          "zh": "由于慢性睡眠不足导致早起本身就极其困难的人该怎么办？",
-          "es": "¿Qué hago si tengo falta de sueño crónico y me cuesta madrugar?",
-          "fr": "Que faire si j'ai un manque de sommeil chronique et que j'ai du mal à me lever ?",
-          "de": "Was tun, wenn chronischer Schlafmangel das frühe Aufstehen erschwert?",
-          "pt": "O que fazer se tiver falta de sono crônico e me custar madrugar?",
-          "id": "Bagaimana jika saya sulit bangun subuh akibat kurang tidur kronis?"
+          "ko": "새벽에 일어나는 것 자체가 힘든 수면 부족 환자는 어떡하죠?"
         },
         "answer": {
-          "ko": "새벽에 일찍 일어나는 루틴은 반드시 조기 취침이 동반되어야 신체에 해가 없습니다. 만약 늦은 퇴근 등으로 조기 취침이 불가능하다면, 억지로 새벽 4시에 일어나는 대신 자신이 일어나는 일반적인 기상 시간의 첫 30분을 '디지털 차단 및 카이에 시간'으로 활용하는 방식으로 동일한 인지 앵커링 효과를 누릴 수 있습니다.",
-          "en": "Waking up early must be accompanied by going to bed early to prevent physical harm. If early bedtime is impossible due to late work, do not force yourself to wake up at 4 AM. Instead, dedicate the first 30 minutes of your regular wake-up window as 'digital disconnect and Cahiers time' to achieve the same anchoring effect.",
-          "ja": "早朝の起床ルーティンは、必ず早い就寝が伴わなければ身体に害を及ぼします。もし遅い帰宅などで早期の就寝が不可能な場合は、無理に午前4時に起きる代わりに、自分が起きる一般的な起床時間の最初の30分を『デジタル遮断およびカイエの時間』として活用することで、同様の認知アンカリング効果を得ることができます.",
-          "zh": "早起规程必须伴随早睡，否则会对身体造成伤害。如果因下班晚等原因无法早睡，请勿强求自己在凌晨4点起床，建议将自己平日起床后的前30分钟设定为“数字化隔离与卡叶时间”，通过这种方式同样能获得相同的认知锚定效果。",
-          "es": "Madrugar requiere acostarse antes. Si no puede dormir temprano debido a su horario laboral, no se obligue a despertar a las 4 AM. En su lugar, reserve los primeros 30 minutos de su despertar habitual para la desconexión digital y escritura, logrando el mismo efecto de enfoque.",
-          "fr": "Se lever tôt nécessite de se coucher tôt. Si vous ne pouvez pas vous coucher tôt à cause de votre travail, ne vous forcez pas à vous lever à 4h. Réservez les 30 premières minutes de votre réveil habituel pour l'écriture, avec le même effet d'ancrage.",
-          "de": "Frühes Aufstehen erfordert frühes Zubettgehen, um gesundheitsschädliche Folgen zu vermeiden. Wenn dies arbeitsbedingt unmöglich ist, zwingen Sie sich nicht zu 4 Uhr morgens. Nutzen Sie stattdessen die ersten 30 Minuten nach Ihrem normalen Erwachen ohne Handy als Ihre persönliche Schreibzeit.",
-          "pt": "Madrugar requer deitar-se mais cedo. Se não puder dormir cedo devido ao seu horário de trabalho, não se force a acordar às 4 AM. Em vez disso, reserve os primeiros 30 minutos de seu despertar habitual para a desconexão digital e escrita, alcançando o mesmo efeito de foco.",
-          "id": "Bangun subuh hanya akan bermanfaat jika Anda juga tidur lebih cepat di malam hari. Jika tidak memungkinkan untuk tidur cepat akibat pekerjaan, jangan paksa bangun pukul 4 pagi. Cukup gunakan 30 menit pertama setelah bangun tidur biasa sebagai 'Waktu Bebas Gadget dan Cahiers'."
+          "ko": "새벽에 일찍 일어나는 루틴은 반드시 조기 취침이 동반되어야 신체에 해가 없습니다. 만약 늦은 퇴근 등으로 조기 취침이 불가능하다면, 억지로 새벽 4시에 일어나는 대신 자신이 일어나는 일반적인 기상 시간의 첫 30분을 '디지털 차단 및 카이에 시간'으로 활용하는 방식으로 동일한 인지 앵커링 효과를 누릴 수 있습니다."
         }
       }
     ]

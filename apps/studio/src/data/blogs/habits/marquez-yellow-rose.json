@@ -1,190 +1,62 @@
 {
   "marquez-yellow-rose": {
     "title": {
-      "ko": "노벨 작가의 책상 위 비밀: 마르케스의 노란 장미 창작 루틴",
-      "en": "The Secret on a Nobel Writer's Desk: Márquez's Yellow Rose Creative Routine",
-      "ja": "ノーベル賞作家の机の上の秘密：マルケスの黄色いバラ創作ルーティン",
-      "zh": "诺贝尔奖作家书桌上的秘密：马尔克斯的黄玫瑰创作惯例",
-      "es": "El secreto en el escritorio de un escritor Nobel: La rutina creativa de la rosa amarilla de Márquez",
-      "fr": "Le secret sur le bureau d'un écrivain Nobel : La routine créative de la rose jaune de Márquez",
-      "de": "Das Geheimnis auf dem Schreibtisch eines Nobelpreisträgers: Márquez' kreative Routine mit der gelben Rose",
-      "pt": "O segredo na mesa de um escritor Nobel: A rotina criativa da rosa amarela de Márquez",
-      "id": "Rahasia di Meja Penulis Nobel: Rutinitas Kreatif Mawar Kuning Márquez"
+      "ko": "노벨 작가의 책상 위 비밀: 마르케스의 노란 장미 창작 루틴"
     },
     "description": {
-      "ko": "『백년 동안의 고독』의 작가 가브리엘 가르시아 마르케스가 매일 아침 책상 위에 노란 장미를 둔 이유. 시각적 리추얼이 뇌의 이완을 돕고 창의력을 자극하는 과학적 원리를 규명합니다.",
-      "en": "Why Gabriel García Márquez, author of 'One Hundred Years of Solitude,' placed a yellow rose on his desk. Explore how visual rituals relax the brain and stimulate creativity.",
-      "ja": "『百年の孤独』の著者ガブリエル・ガルシア＝マルケスが毎朝机の上に黄色いバラを置いた理由。視覚的リチュアルが脳の弛緩を助け、創造力を刺激する科学的原理を究明します。",
-      "zh": "《百年孤独》作者加布里埃尔·加西亚·马尔克斯每天早晨在书桌上放一朵黄玫瑰的原因。阐明视觉仪式帮助大脑放松并激发创造力的科学原理。",
-      "es": "Por qué Gabriel García Márquez colocaba una rosa amarilla en su escritorio. Explore cómo los rituales visuales relajan el cerebro y estimulan la creatividad.",
-      "fr": "Pourquoi Gabriel García Márquez plaçait une rose jaune sur son bureau. Découvrez comment les rituels visuels détendent le cerveau et stimulent la créativité.",
-      "de": "Warum Gabriel García Márquez jeden Morgen eine gelbe Rose auf seinen Schreibtisch stellte. Erfahren Sie, wie visuelle Rituale das Gehirn entspannen und die Kreativität fördern.",
-      "pt": "Por que Gabriel García Márquez colocava uma rosa amarela em sua mesa. Explore como rituais visuais relaxam o cérebro e estimulam a criatividade.",
-      "id": "Mengapa Gabriel García Márquez meletakkan mawar kuning di mejanya. Temukan bagaimana ritual visual merilekskan otak dan merangsang kreativitas."
+      "ko": "『백년 동안의 고독』의 작가 가브리엘 가르시아 마르케스가 매일 아침 책상 위에 노란 장미를 둔 이유. 시각적 리추얼이 뇌의 이완을 돕고 창의력을 자극하는 과학적 원리를 규명합니다."
     },
     "authority": {
-      "ko": "마르케스 공식 전기 및 뉴욕 대학교(NYU) 인지 융합 신경학 연구",
-      "en": "Márquez's Official Biography and NYU Research on Cognitive Fusion Neurology",
-      "ja": "マルケス公式伝記およびニューヨーク大学（NYU）の認知融合神経学研究",
-      "zh": "马尔克斯官方传记及纽约大学(NYU)关于认知融合神经学的研究",
-      "es": "Biografía oficial de Márquez e investigación sobre neurología de fusión cognitiva de la Universidad de Nueva York (NYU)",
-      "fr": "Biographie officielle de Márquez et recherche sur la neurologie de fusion cognitive de l'Université de New York (NYU)",
-      "de": "Márquez' offizielle Biografie und Forschung zur kognitiven Neurologie der New York University (NYU)",
-      "pt": "Biografia oficial de Márquez e pesquisa sobre neurologia de fusão cognitiva da Universidade de Nova Iorque (NYU)",
-      "id": "Biografi Resmi Márquez dan Penelitian Universitas New York (NYU) tentang Neurologi Fusi Kognitif"
+      "ko": "Marquez Yellow Rose 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "『백년 동안의 고독』으로 노벨 문학상을 수상하며 마술적 사실주의 문학의 정점을 세운 가브리엘 가르시아 마르케스. 그의 문학적 상상력의 원천 중 하나는 다름 아닌 매일 책상 위에 놓여 있던 노란 장미 한 송이였습니다. 그는 노란 장미가 꽂혀 있지 않으면 징크스로 여겨 타이프라이터 앞에서 단 한 자도 쓰지 않았다고 합니다. 단순한 집착이었을까요, 아니면 두뇌를 자극하는 과학적 이치였을까요?",
-      "en": "Gabriel García Márquez, who won the Nobel Prize in Literature for 'One Hundred Years of Solitude.' One of the sources of his literary imagination was a single yellow rose placed on his desk daily. If the yellow rose was not there, he considered it a jinx and didn't type a word. Was it simple obsession, or was it scientific reason stimulating the brain?",
-      "ja": "『百年の孤独』でノーベル文学賞を受賞し、魔術的リアリズム文学の頂点を築いたガブリエル・ガルシア＝マルケス。彼の文学的想像力の源泉の一つは、他ならぬ毎日机の上に置かれていた一本の黄色いバラでした。彼は黄色いバラが生けられていないとジンクスと考え、タイプライターの前で一文字も書かなかったそうです。単なる執着だったのでしょうか、それとも脳を刺激する科学的理屈だったのでしょうか。",
-      "zh": "通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
-      "es": "Gabriel García Márquez, galardonado con el Premio Nobel de Literatura por 'Cien años de soledad'. Una de las fuentes de su imaginación literaria fue una sola rosa amarilla colocada en su escritorio todos los días. Si la rosa amarilla no estaba allí, no escribía una sola palabra. ¿Obsesión o razón científica?",
-      "fr": "Gabriel García Márquez, lauréat du prix Nobel de littérature pour 'Cent ans de solitude'. L'une des sources de son imagination littéraire était une unique rose jaune placée sur son bureau. Si la rose jaune n'était pas là, il n'écrivait pas un seul mot. S'agissait-il d'une simple obsession ou d'une raison scientifique ?",
-      "de": "Gabriel García Márquez, der für 'Hundert Jahre Einsamkeit' den Nobelpreis für Literatur erhielt. Eine der Quellen seiner literarischen Vorstellungskraft war eine gelbe Rose, die täglich auf seinem Schreibtisch stand. Fehlte sie, tippte er kein einziges Wort. War es Aberglaube oder steckte ein wissenschaftlicher Nutzen dahinter?",
-      "pt": "Gabriel García Márquez, vencedor do Prêmio Nobel de Literatura por 'Cem anos de solidão'. Uma das fontes de sua imaginação literária foi uma única rosa amarela colocada em sua mesa todos os dias. Se a rosa amarela não estivesse lá, ele não escrevia uma única palavra. Obsessão ou razão científica?",
-      "id": "Gabriel García Márquez, peraih Penghargaan Nobel Sastra untuk 'Seratus Tahun Kesunyian'. Salah satu sumber imajinasi sastranya adalah sekuntum mawar kuning yang diletakkan di mejanya setiap hari. Jika mawar kuning itu tidak ada, dia menganggapnya sebagai nasib sial dan tidak akan mengetik sepatah kata pun. Apakah itu sekadar obsesi, atau alasan ilmiah yang menstimulasi otak?"
+      "ko": "\"내 책상 위에 노란 장미가 없으면 일은 한 발짝도 나아가지 않는다.\" 🌹\n\n『백년 동안의 고독』으로 노벨 문학상을 수상하며 마술적 사실주의 문학의 정점을 세운 가브리엘 가르시아 마르케스. 그의 문학적 상상력의 원천 중 하나는 다름 아닌 매일 책상 위에 놓여 있던 노란 장미 한 송이였습니다. 그는 노란 장미가 꽂혀 있지 않으면 징크스로 여겨 타이프라이터 앞에서 단 한 자도 쓰지 않았다고 합니다. 단순한 집착이었을까요, 아니면 두뇌를 자극하는 과학적 이치였을까요?\n\n그의 아내 메르세데스 바르차는 그를 위해 매일 아침 신선한 노란 장미를 꺾어 책상 위의 작은 유리병에 꽂아 주었습니다. 이 작은 노란 장미 한 송이는 마르케스에게 단순한 장식을 넘어, 깊은 고독과 창작의 소용돌이 속으로 들어가는 관문이자 두뇌가 창작을 시작하도록 알리는 강력한 인지적 방아쇠였습니다.\n\n오늘 포스트에서는 마르케스가 실천한 '노란 장미 리추얼'의 과학적 원리와 현대인들이 복잡한 도심과 업무 공간 속에서 두뇌를 이완시키고 강력한 창의성을 기르기 위해 적용할 수 있는 3단계 실천 루틴을 제안합니다."
     },
     "whyTitle": {
-      "ko": "시각적 의식이 창의력과 안정감을 주는 이유",
-      "en": "Why Visual Rituals Offer Creativity and Stability",
-      "ja": "視覚的儀式が創造力と安定感を与える理由",
-      "zh": "为什么视觉仪式能提供创造力与安全感",
-      "es": "Por qué los rituales visuales ofrecen creatividad y estabilidad",
-      "fr": "Pourquoi les rituels visuels apportent créativité et stabilité",
-      "de": "Warum visuelle Rituale Kreativität und Stabilität fördern",
-      "pt": "Por que rituais visuais oferecem criatividade e estabilidade",
-      "id": "Mengapa Ritual Visual Menghadirkan Kreativitas dan Stabilitas"
+      "ko": "시각적 의식이 창의력과 안정감을 주는 이유"
     },
     "whyDesc": {
-      "ko": "특정한 색상이나 자연물(노란 장미)을 시각적으로 고정 배치하고 관찰하는 리추얼은 뇌에 '안전하고 정서적으로 편안한 신호'를 보내 줍니다. 이완 상태에 접어든 뇌는 인지 활동과 집중력을 증진시키는 <strong>알파파(Alpha Waves)</strong>를 방출하게 되며, 이는 의도하지 않은 자유로운 생각의 연결을 가속화하여 창조적이고 입체적인 발상력을 고도화시킵니다.",
-      "en": "The ritual of visually placing and observing a specific color or natural object (like a yellow rose) sends a 'safe and emotionally comfortable signal' to the brain. The relaxed brain emits <strong>alpha waves</strong>, which enhance cognitive activity and concentration, accelerating unintended free associations to elevate creative and multi-dimensional ideation.",
-      "ja": "特定の色彩や自然物（黄色いバラ）を視覚的に固定配置して観察するリチュアルは、脳に「安全で情緒的に快適な信号」を送ってくれます。弛緩状態に入った脳は、認知活動と集中力を高める<strong>アルファ波（Alpha Waves）</strong>を放出し、これは意図しない自由な思考の連結を加速させ、創造的で立体的な発想力を高度化させます。",
-      "zh": "视觉上固定放置并观察特定颜色或自然物（黄玫瑰）的仪式会向大脑发送“安全且情绪舒适的信号”。进入放松状态的大脑会释放出能促进认知活动和注意力的<strong>阿尔法波（Alpha Waves）</strong>，这能加速无意识的自由联想，从而提升创造性和立体思维能力。",
-      "es": "El ritual de colocar y observar un color u objeto natural (como una rosa amarilla) envía una 'señal segura y emocionalmente cómoda' al cerebro. El cerebro relajado emite <strong>ondas alfa</strong>, que mejoran la concentración, acelerando asociaciones libres para elevar la ideación creativa.",
-      "fr": "Le rituel consistant à placer et à observer un objet naturel (comme une rose jaune) envoie un 'signal sûr et confortable' au cerveau. Le cerveau détendu émet des <strong>ondes alpha</strong>, qui améliorent la concentration, accélérant les associations libres pour stimuler l'idéation créative.",
-      "de": "Das visuelle Ritual, ein bestimmtes Objekt (wie eine gelbe Rose) zu platzieren und zu betrachten, sendet ein beruhigendes Signal an das Gehirn. Das entspannte Gehirn sendet <strong>Alphawellen</strong> aus, die die Konzentration steigern und freie Assoziationen fördern, was die Kreativität stärkt.",
-      "pt": "O ritual de colocar e observar uma cor ou objeto natural (como uma rosa amarela) envia um 'sinal seguro e emocionalmente confortável' ao cérebro. O cérebro relaxado emite <strong>ondas alfa</strong>, que melhoram a concentração, acelerando associações livres para elevar a ideação criativa.",
-      "id": "Ritual menempatkan dan mengamati warna atau objek alami tertentu (seperti mawar kuning) secara visual mengirimkan 'sinyal aman dan nyaman secara emosional' ke otak. Otak yang rileks memancarkan <strong>gelombang alfa</strong>, yang meningkatkan konsentrasi, mempercepat asosiasi bebas untuk meningkatkan ideasi kreatif."
+      "ko": "특정한 색상이나 자연물(노란 장미)을 시각적으로 고정 배치하고 관찰하는 리추얼은 뇌에 '안전하고 정서적으로 편안한 신호'를 보내 줍니다. 이완 상태에 접어든 뇌는 인지 활동과 집중력을 증진시키는 <strong>알파파(Alpha Waves)</strong>를 방출하게 되며, 이는 의도하지 않은 자유로운 생각의 연결을 가속화하여 창조적이고 입체적인 발상력을 고도화시킵니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions & Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen & Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan & Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "다만 책상 위에 너무 현란하거나 시선을 과하게 빼앗는 복잡한 장식물을 배치하는 것은 피해야 합니다. 색상이 과하면 오히려 뇌에 <strong>시각적 피로도</strong>를 유발하고 집중에 해가 되기 때문에, 단순하면서도 명확한 단 하나의 오브젝트를 선정하는 미니멀리즘 접근이 필요합니다.",
-      "en": "However, you should avoid placing decorations that are too flashy or distracting on your desk. Too much color can cause <strong>visual fatigue</strong> to the brain and hinder focus, so a minimalist approach of selecting a single, simple, and clear object is required.",
-      "ja": "ただし、机の上に華美すぎたり視線を奪うような複雑な装飾品を配置することは避けるべきです。色彩が過度になると、かえって脳に<strong>視覚的疲労度</strong>を誘発し集中の妨げになるため、単純でありながら明確な一つのオブジェクトを選定するミニマリズムのアプローチが必要です。",
-      "zh": "但是，应避免在书桌上放置过于显眼或分散注意力的复杂装饰品。颜色过于繁杂反而会给大脑带来<strong>视觉疲劳度</strong>并阻碍集中精力，因此需要采用极简主义方法，选择单一、简单且明确的物品。",
-      "es": "Sin embargo, debe evitar colocar decoraciones que sean demasiado llamativas o que distraigan en su escritorio. Demasiado color puede causar <strong>fatiga visual</strong> en el cerebro y obstaculizar la concentración, por lo que se requiere un enfoque minimalista al seleccionar un solo objeto.",
-      "fr": "Cependant, vous devriez éviter de placer sur votre bureau des décorations trop voyantes ou distrayantes. Trop de couleurs peut provoquer une <strong>fatigue visuelle</strong> pour le cerveau et nuire à la concentration, d'où la nécessité d'une approche minimaliste en choisissant un seul objet.",
-      "de": "Sie sollten es vermeiden, zu auffällige Dekorationen auf Ihrem Schreibtisch zu platzieren. Zu viele Farben führen zu <strong>visueller Müdigkeit</strong> und stören die Konzentration. Wählen Sie daher einen einzigen, einfachen und klaren Gegenstand.",
-      "pt": "No entanto, você deve evitar colocar decorações muito chamativas ou que distraiam na mesa. Excesso de cores pode causar <strong>fadiga visual</strong> no cérebro e prejudicar o foco, sendo necessária uma abordagem minimalista de selecionar um único objeto.",
-      "id": "Namun, Anda harus menghindari menempatkan dekorasi yang terlalu mencolok atau mengganggu di meja Anda. Warna yang berlebihan dapat menyebabkan <strong>kelelahan visual</strong> pada otak dan menghambat fokus, sehingga diperlukan pendekatan minimalis dengan memilih satu objek saja."
+      "ko": "다만 책상 위에 너무 현란하거나 시선을 과하게 빼앗는 복잡한 장식물을 배치하는 것은 피해야 합니다. 색상이 과하면 오히려 뇌에 <strong>시각적 피로도</strong>를 유발하고 집중에 해가 되기 때문에, 단순하면서도 명확한 단 하나의 오브젝트를 선정하는 미니멀리즘 접근이 필요합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "자신만의 시각적 환경 트리거 설정",
-          "en": "Setting Up Your Personal Visual Environmental Trigger",
-          "ja": "自分だけの視覚的環境トリガー設定",
-          "zh": "设定专属的视觉环境触发器",
-          "es": "Establecer su disparador ambiental visual personal",
-          "fr": "Dfinir votre dclencheur environnemental visuel personnel",
-          "de": "Festlegung Ihres persönlichen visuellen Reizes",
-          "pt": "Configurando seu gatilho ambiental visual pessoal",
-          "id": "Menetapkan Pemicu Lingkungan Visual Pribadi Anda"
+          "ko": "자신만의 시각적 환경 트리거 설정"
         },
         "text": {
-          "ko": "자신에게 정서적 안정과 집중 의지를 불러일으키는 단순한 시각 매체(생화, 반려식물, 미니멀한 그림 등)를 1개 선정합니다.",
-          "en": "Select a single simple visual medium (like fresh flowers, companion plants, minimalist paintings) that brings emotional stability and focus.",
-          "ja": "自分に情緒的安定と集中の意志を呼び起こす単純な視覚媒体（生花、観葉植物、ミニマルな絵など）を1つ選定します。",
-          "zh": "选择一个能给自己带来情绪稳定和专注意志的简单视觉媒介（例如：鲜花、绿植、极简画作等）。",
-          "es": "Seleccione un medio visual simple (como flores frescas, plantas, pinturas minimalistas) que le brinde estabilidad emocional y concentración.",
-          "fr": "Sélectionnez un support visuel simple (comme des fleurs fraîches, des plantes, des peintures minimalistes) qui vous apporte stabilité et concentration.",
-          "de": "Wählen Sie ein einfaches visuelles Objekt (z. B. eine frische Blume, eine Zimmerpflanze, ein minimalistisches Bild), das Ihnen Ruhe und Fokus schenkt.",
-          "pt": "Selecione um meio visual simples (como flores frescas, plantas, pinturas minimalistas) que lhe traga estabilidade emocional e foco.",
-          "id": "Pilih satu media visual sederhana (seperti bunga segar, tanaman hias, lukisan minimalis) yang menghadirkan stabilitas emosional dan fokus."
+          "ko": "자신에게 정서적 안정과 집중 의지를 불러일으키는 단순한 시각 매체(생화, 반려식물, 미니멀한 그림 등)를 1개 선정합니다."
         }
       },
       {
         "name": {
-          "ko": "업무 및 창작 돌입 전 정위치 배치",
-          "en": "Placing in the Fixed Location Before Working",
-          "ja": "業務および創作突入前の定位置配置",
-          "zh": "在投入工作及创作前将其放置于固定位置",
-          "es": "Colocación en la ubicación fija antes de trabajar",
-          "fr": "Placement l'endroit fix avant de travailler",
-          "de": "Platzierung am festen Ort vor dem Arbeitsbeginn",
-          "pt": "Colocando no local fixo antes de trabalhar",
-          "id": "Menempatkannya di Lokasi Tetap Sebelum Mulai Bekerja"
+          "ko": "업무 및 창작 돌입 전 정위치 배치"
         },
         "text": {
-          "ko": "매일 집중적인 두뇌 활동이나 창작 작업을 개시하기 직전, 선정된 매체를 책상 위 눈길이 닿는 일정한 위치에 올려둡니다.",
-          "en": "Just before starting intensive brain activity or creative work daily, place the selected medium in a fixed spot on the desk within sight.",
-          "ja": "毎日集中的な頭脳活動や創作作業を開始する直前、選定した媒体を机の上の目に入る一定の位置に置いておきます。",
-          "zh": "在每天开始进行高强度脑力活动或创作工作前，将选定的媒介放置在书桌上视线所及的固定位置。",
-          "es": "Justo antes de comenzar la actividad cerebral intensiva o el trabajo creativo, coloque el medio elegido en un lugar fijo en el escritorio a la vista.",
-          "fr": "Juste avant de commencer un travail intensif ou créatif, placez le support choisi à un endroit fixe sur le bureau, bien en vue.",
-          "de": "Stellen Sie das gewählte Objekt kurz vor Arbeitsbeginn an einen festen, gut sichtbaren Platz auf Ihrem Schreibtisch.",
-          "pt": "Logo antes de iniciar atividade cerebral intensiva ou trabalho criativo, coloque o meio escolhido em um local fixo na mesa dentro do seu campo de visão.",
-          "id": "Tepat sebelum memulai aktivitas otak yang intensif atau pekerjaan kreatif, letakkan media pilihan di tempat tetap di meja yang terlihat."
+          "ko": "매일 집중적인 두뇌 활동이나 창작 작업을 개시하기 직전, 선정된 매체를 책상 위 눈길이 닿는 일정한 위치에 올려둡니다."
         }
       },
       {
         "name": {
-          "ko": "오브젝트 응시 후 자연스러운 이완 집중",
-          "en": "Gazing at the Object and Naturally Relaxing into Focus",
-          "ja": "オブジェクト凝視後の自然な弛緩集中",
-          "zh": "凝视物品后自然进入放松专注状态",
-          "es": "Mirar el objeto y relajarse naturalmente en la concentración",
-          "fr": "Regarder l'objet et se dtendre naturellement pour se concentrer",
-          "de": "Betrachtung des Objekts und natürlicher Übergang in den Fokus",
-          "pt": "Olhar para o objeto e relaxar naturalmente no foco",
-          "id": "Menatap Objek dan Merilekskan Diri Secara Alami ke dalam Fokus"
+          "ko": "오브젝트 응시 후 자연스러운 이완 집중"
         },
         "text": {
-          "ko": "오브젝트를 가볍게 10~20초 동안 바라보며 호흡을 가다듬고, 뇌의 인지 상태를 편안하고 몰입 가능한 모드로 서서히 유도합니다.",
-          "en": "Lightly gaze at the object for 10 to 20 seconds, adjust your breathing, and slowly guide your brain's cognitive state into a comfortable, immersive mode.",
-          "ja": "オブジェクトを軽く10〜20秒間見つめながら呼吸を整え、脳の認知状態を快適で没頭可能なモードへ徐々に誘導します。",
-          "zh": "轻轻凝视该物品10至20秒，调整呼吸，缓缓将大脑的认知状态引导至舒适且易于投入的模式。",
-          "es": "Mire el objeto ligeramente durante 10 a 20 segundos, ajuste su respiración y guíe lentamente el estado cognitivo de su cerebro a un modo cómodo.",
-          "fr": "Regardez le support pendant 10 à 20 secondes, calmez votre respiration et guidez lentement votre esprit vers un état confortable et concentré.",
-          "de": "Betrachten Sie das Objekt 10 bis 20 Sekunden lang aufmerksam, regulieren Sie Ihren Atem und leiten Sie Ihren Geist in einen konzentrierten Zustand.",
-          "pt": "Olhe para o objeto levemente por 10 a 20 segundos, ajuste sua respiração e guie lentamente o estado cognitivo do seu cérebro para um modo confortável.",
-          "id": "Tatap objek secara ringan selama 10 hingga 20 detik, atur napas Anda, dan perlahan bimbing kondisi kognitif otak Anda ke dalam mode yang nyaman."
+          "ko": "오브젝트를 가볍게 10~20초 동안 바라보며 호흡을 가다듬고, 뇌의 인지 상태를 편안하고 몰입 가능한 모드로 서서히 유도합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "반드시 노란 장미여야 하나요?",
-          "en": "Does it have to be a yellow rose?",
-          "ja": "必ず黄色いバラでなければなりませんか？",
-          "zh": "必须是黄玫瑰吗？",
-          "es": "¿Tiene que ser una rosa amarilla?",
-          "fr": "Doit-il s'agir d'une rose jaune ?",
-          "de": "Muss es unbedingt eine gelbe Rose sein?",
-          "pt": "Tem que ser uma rosa amarela?",
-          "id": "Apakah harus mawar kuning?"
+          "ko": "반드시 노란 장미여야 하나요?"
         },
         "answer": {
-          "ko": "아닙니다. 마르케스에게 노란 장미는 심리적 편안함을 주는 개인적 매개체였으며, 현대인은 초록 화분, 수선화 등 자신이 편안하게 느끼는 대상을 자유롭게 선택하면 됩니다.",
-          "en": "No. For Márquez, the yellow rose was a personal medium offering psychological comfort. Modern professionals can freely choose any object they feel comfortable with.",
-          "ja": "いいえ。マルケスにとって黄色いバラは心理的な快適さを与える個人的な媒体であり、現代人は観葉植物や水仙など、自分が心地よく感じる対象を自由に選べばよいのです。",
-          "zh": "不是。对于马尔克斯来说，黄玫瑰是带给他心理舒适感的个人媒介。现代人可以自由选择任何让他们感到舒适的物品，例如绿植、水仙花等。",
-          "es": "No. Para Márquez, la rosa amarilla era un medio personal que ofrecía comodidad psicológica. Los profesionales pueden elegir libremente cualquier objeto con el que se sientan cómodos.",
-          "fr": "Non. Pour Márquez, la rose jaune était un moyen personnel d'apporter un confort psychologique. Vous pouvez choisir librement tout objet qui vous met à l'aise.",
-          "de": "Nein. Für Márquez war die gelbe Rose ein persönliches Objekt, das ihm Ruhe schenkte. Sie können frei wählen, was auch immer Ihnen ein gutes Gefühl gibt.",
-          "pt": "Não. Para Márquez, a rosa amarela era um meio pessoal que oferecia conforto psicológico. Você pode escolher livremente qualquer objeto com o qual se sinta confortável.",
-          "id": "Tidak. Bagi Márquez, mawar kuning adalah media pribadi yang menawarkan kenyamanan psikologis. Manusia modern dapat bebas memilih objek apa pun yang membuat mereka nyaman."
+          "ko": "아닙니다. 마르케스에게 노란 장미는 심리적 편안함을 주는 개인적 매개체였으며, 현대인은 초록 화분, 수선화 등 자신이 편안하게 느끼는 대상을 자유롭게 선택하면 됩니다."
         }
       }
     ]

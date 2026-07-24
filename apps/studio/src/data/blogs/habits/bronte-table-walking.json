@@ -1,218 +1,72 @@
 {
   "bronte-table-walking": {
     "title": {
-      "ko": "밤의 식탁을 도는 세 자매? 샬롯 브론테의 보행 창작 토론",
-      "en": "Three Sisters Walking Around the Night Table? Charlotte Bronte's Table Walking",
-      "ja": "夜のテーブルを回る三姉妹？シャーロット・ブロンテの歩行創作討論",
-      "zh": "夜转圆桌的三姐妹？夏洛蒂·勃朗特的“绕桌行步讨论”",
-      "es": "¿Tres hermanas caminando alrededor de la mesa? El hábito de debatir andando de Charlotte Brontë",
-      "fr": "Trois sœurs autour de la table ? La méthode de marche créative de Charlotte Brontë",
-      "de": "Drei Schwestern kreisen um den Tisch? Charlotte Brontës Geh-Routine",
-      "pt": "Três irmãs caminhando ao redor da mesa? O hábito de debater andando de Charlotte Brontë",
-      "id": "Tiga Saudari Berjalan Mengelilingi Meja Makan Malam? Diskusi Berjalan ala Charlotte Bronte"
+      "ko": "밤의 식탁을 도는 세 자매? 샬롯 브론테의 보행 창작 토론"
     },
     "description": {
-      "ko": "'제인 에어'의 작가 샬롯 브론테. 매일 밤 자매들과 거실 식탁을 돌며 소설의 인물과 플롯을 비평하고 완성했던 보행 창작 루틴의 창의성 과학을 소개합니다.",
-      "en": "Charlotte Brontë, the author of 'Jane Eyre'. Introduce the creativity science of her daily routine of walking around the living room table with her sisters to critique and complete novels.",
-      "ja": "「ジェーン・エア」の著者シャーロット・ブロンテ。毎晩姉妹たちと居間のテーブルを回りながら、小説の人物とプロットを批評し完成させた「歩行創作ルーティン」の創造性の科学を紹介します.",
-      "zh": "《简·爱》的作者夏洛蒂·勃朗特。介绍她每天晚上和姐妹们绕着客厅桌子行步，以评判和完善小说的行步创作常规背后的创造力科学。",
-      "es": "Charlotte Brontë, autora de 'Jane Eyre'. Presente la ciencia de la creatividad de su rutina: caminar alrededor de la mesa con sus hermanas para criticar y completar novelas.",
-      "fr": "Charlotte Brontë, l'auteure de 'Jane Eyre'. Découvrez les bienfaits cognitifs de sa routine consistant à marcher autour de la table avec ses sœurs pour peaufiner ses romans.",
-      "de": "Erfahren Sie, wie Charlotte Brontë und ihre Schwestern durch gemeinsames Umrunden des Esstischs ihre Kreativität steigerten und Weltliteratur schufen.",
-      "pt": "Charlotte Brontë, autora de 'Jane Eyre'. Apresente la ciência da criatividade da sua rotina: caminhar ao redor da mesa com suas irmãs para criticar e completar romances.",
-      "id": "Charlotte Brontë, penulis 'Jane Eyre'. Perkenalkan sains kreativitas dari rutinitas berjalan di sekitar meja ruang tamu bersama saudara-saudaranya untuk mengkritik dan menyelesaikan novel."
+      "ko": "'제인 에어'의 작가 샬롯 브론테. 매일 밤 자매들과 거실 식탁을 돌며 소설의 인물과 플롯을 비평하고 완성했던 보행 창작 루틴의 창의성 과학을 소개합니다."
     },
     "authority": {
-      "ko": "엘리자베스 가스켈 저 '샬롯 브론테 전기' 사료 및 브론테 파소니지 박물관 문헌",
-      "en": "Elizabeth Gaskell's 'The Life of Charlotte Brontë' & Brontë Parsonage Museum Documents",
-      "ja": "エリザベス・ギャスケル著「シャーロット・ブロンテ伝」史料およびブロンテ・パソニッジ博物館文献",
-      "zh": "伊丽莎白·盖斯凯尔著《夏洛蒂·勃朗特传》史料与勃朗特牧师馆博物馆文献",
-      "es": "Libro 'The Life of Charlotte Brontë' de Elizabeth Gaskell y Documentos del Museo Brontë Parsonage",
-      "fr": "Livre 'The Life of Charlotte Brontë' d'Elizabeth Gaskell & documents du musée Brontë Parsonage",
-      "de": "Elizabeth Gaskells Biografie „The Life of Charlotte Brontë“ & Dokumente des Brontë Parsonage Museums",
-      "pt": "Livro 'The Life of Charlotte Brontë' de Elizabeth Gaskell e Documentos do Museu Brontë Parsonage",
-      "id": "Buku 'The Life of Charlotte Brontë' karya Elizabeth Gaskell & Dokumen Museum Brontë Parsonage"
+      "ko": "샬롯 브론테 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "19세기 영문학사에서 가장 큰 충격을 던져준 소설 '제인 에어'의 작가 샬롯 브론테. 그녀는 영국 요크셔의 외딴 시골 하워스 목사관에서 에밀리, 앤 브론테 자매와 함께 지독한 고독과 가난을 겪으며 평생을 살았습니다. 변변한 지적 자극이나 외부 교류도 없던 고립된 환경 속에서, 이 세 자매가 '제인 에어', '폭풍의 언덕' 등 문학사의 명작들을 동시다발적으로 완성해 낸 비결은 무엇이었을까요?\n\n브랜슨의 끈질긴 기록만큼이나 강력했던 것은 브론테 자매의 '보행 창작 토론(Table Walking)' 습관이었습니다. 자매들은 낮 동안 고립되어 각자 글을 쓴 뒤, 밤 9시가 되면 거실의 커다란 식탁 주위를 함께 둥글게 돌며 걷기 시작했습니다. 그들은 걷는 동안 오늘 쓴 이야기의 줄거리, 캐릭터 묘사, 대사를 큰 소리로 낭독하고 서로의 작품에 통렬한 비평과 아이디어를 퍼부었습니다. 이 독특한 야간 보행 협업은 서로의 시야를 정비하고 창조적 동력을 유지한 마법 같은 통로였습니다.\n\n오늘 BuildSelf에서는 샬롯 브론테의 '식탁 보행 토론' 루틴이 脳科学的으로 어떤 창의적 촉진 효과를 가졌는지, 현대인들이 이를 회의나 아이디어 회환에 어떻게 접목할 수 있는지 소개합니다.",
-      "en": "Charlotte Brontë, the author of 'Jane Eyre,' the novel that presented the greatest shock in 19th-century English literary history. She lived a life of severe isolation and poverty with her sisters Emily and Anne Brontë in a remote vicarage in Haworth, Yorkshire. In an isolated environment without proper intellectual stimuli or external exchanges, how did these three sisters simultaneously complete masterpieces like 'Jane Eyre' and 'Wuthering Heights'?\n\nAs powerful as Branson's persistent note-taking was the Brontë sisters' 'Table Walking' habit. After writing separately in isolation during the day, the sisters gathered at 9 PM and began walking in a circle around the large dining table. While walking, they read aloud today's plots, characters, and dialogues, pouring sharp critique and ideas into each other's works. This unique night walking collaboration was a magical gateway to correct viewpoints and maintain creative energy.\n\nToday, BuildSelf introduces the neuroscientific principles of Charlotte Brontë's 'table walking' routine and how modern people can adapt this to meetings or idea retrieval.",
-      "ja": "19世紀の英文学史において最も大きな衝撃を与えた小説「ジェーン・エア」の著者シャーロット・ブロンテ。彼女は英国ヨークシャーの辺境の村ハワースの牧師館で、エミリー、アンのブロンテ姉妹と共に、凄まじい孤独と貧困の中で生涯を過ごしました. ろくな知的刺激も外部との交流もない孤立した環境の中で, この三姉妹が「ジェーン・エア」「嵐が丘」など文学史に残る名作を同時多発的に完成させた秘訣は何だったのでしょうか.\n\nブランソンの粘り強い記録と同様に強力だったのが、ブロンテ姉妹の「歩行創作討論（Table Walking）」の習慣でした。姉妹たちは昼の間、孤立してそれぞれ執筆し、夜9時になると居間の大きなテーブルの周りを一緒にぐるぐると回りながら歩き始めました。彼らは歩きながら、今日書いた物語のあらすじ、キャラクター描写、セリフを大声で朗読し、お互いの作品に痛烈な批評やアイデアを浴びせました。このユニークな夜間歩行の共同作業は、お互いの視野を正し、創造的な動力を維持する魔法のようなプロセスでした.\n\n本日、BuildSelfではシャーロット・ブロンテの「テーブル歩行討論」ルーティンが、脳科学的にどのような創造的促進効果をもたらしたのか、現代人がこれを会議やアイデア創出にどのように取り入れられるかを紹介します。",
-      "zh": "在这一历史性惯例的实践中：19 ' ' . , . , ' ', ' ' ? 在这一历史性惯例的实践中： ' (Table Walking)' . , 9 . , , . . 在这一历史性惯例的实践中： BuildSelf ' ' 脳科学的 , .",
-      "es": "Charlotte Brontë, autora de 'Jane Eyre', novela que sacudió la literatura del siglo XIX. Vivió con sus hermanas Emily y Anne en una vicaría en Haworth, Yorkshire, sufriendo aislamiento y pobreza. Sin estímulos intelectuales externos, ¿cómo completaron obras maestras de forma simultánea?\n\nTan poderoso como las notas de Branson era el hábito de las hermanas Brontë de 'debatir andando alrededor de la mesa'. Tras escribir por separado durante el día, a las 9 PM caminaban en círculos en torno a la mesa. Mientras andaban, leían los textos y se criticaban con dureza. Esta inusual colaboración nocturna era la clave para enfocar sus ideas.\n\nHoy, BuildSelf presenta la ciencia de la creatividad detrás de esta rutina de Charlotte Brontë y cómo adaptarla hoy.",
-      "fr": "Charlotte Brontë, l'auteure de 'Jane Eyre', le roman qui a bouleversé la littérature anglaise du XIXe siècle. Elle a vécu isolée et pauvre dans le presbytère de Haworth avec ses sœurs Emily et Anne. Sans stimulation intellectuelle ni échanges avec l'extérieur, comment ont-elles pu publier simultanément des chefs-d'œuvre comme 'Jane Eyre' et 'Les Hauts de Hurlevent' ?\n\nLeur secret résidait dans l'habitude de marcher ensemble autour de la table. Après avoir écrit chacune dans leur coin la journée, les sœurs se réunissaient à 21h pour marcher en cercle autour de la table. Tout en marchant, elles lisaient leurs textes à haute voix et se critiquaient sans concession. Cette collaboration nocturne ajustait leur point de vue.\n\nAujourd'hui, BuildSelf décrypte la science de la marche créative de Charlotte Brontë et explique comment s'en inspirer.",
-      "de": "Charlotte Brontë, die Autorin von „Jane Eyre“. Sie lebte mit ihren Schwestern Emily und Anne in einem abgelegenen Pfarrhaus in Yorkshire. In völliger Isolation und Armut schufen die drei Schwestern zeitgleich Klassiker wie „Jane Eyre“ und „Sturmhöhe“. Wie war das möglich?\n\nNeben Bransons Aufzeichnungen war das gemeinsame Umrunden des Esstischs (Table Walking) ihr wichtigstes Werkzeug. Nach dem einsamen Schreiben tagsüber trafen sich die Schwestern um 21 Uhr. Sie liefen im Kreis um den Tisch, lasen sich Textpassagen vor und kritisierten sich gegenseitig scharf. Diese Bewegung verhinderte die geistige Betriebsblindheit.\n\nHeute zeigt BuildSelf, wie Brontës Geh-Routine die Kreativität auf neurologischer Ebene steigert und wie Sie Bewegung nutzen können, um Ideen im Team zu verfeinern.",
-      "pt": "Charlotte Brontë, autora de 'Jane Eyre', romance que sacudiu a literatura do século XIX. Viveu com suas irmãs Emily e Anne em uma paróquia em Haworth, Yorkshire, sofrendo isolamento e pobreza. Sem estímulos intelectuais externos, como completaram obras-primas de forma simultânea?\n\nTão poderoso quanto as notas de Branson era o hábito das irmãs Brontë de 'debater andando ao redor da mesa'. Após escreverem separadamente durante o dia, às 21h caminhavam em círculos em torno da mesa. Enquanto andavam, liam os textos e se criticavam com dureza. Esta inusual colaboração noturna era a chave para enfocar suas ideias.\n\nHoge, o BuildSelf apresenta a ciência da criatividade por trás desta rotina de Charlotte Brontë e como adaptar isso hoje.",
-      "id": "Charlotte Brontë, penulis 'Jane Eyre,' novel yang memberikan kejutan terbesar dalam sejarah sastra Inggris abad ke-19. Ia menjalani hidup yang sangat terisolasi dan miskin bersama saudara-saudaranya, Emily dan Anne Brontë di sebuah pastoran terpencil di Haworth, Yorkshire. Dalam lingkungan terisolasi tanpa rangsangan intelektual yang memadai atau pertukaran luar, bagaimana ketiga saudari ini secara bersamaan menyelesaikan mahakarya seperti 'Jane Eyre' dan 'Wuthering Heights'?\n\nSama kuatnya dengan kebiasaan mencatat Richard Branson yang gigih, kebiasaan 'Berjalan di Sekitar Meja' (Table Walking) milik Brontë bersaudara juga sangat berpengaruh. Setelah menulis secara terpisah dalam isolasi pada siang hari, para saudari berkumpul pada jam 9 malam dan mulai berjalan melingkar mengelilingi meja makan yang besar. Sambil berjalan, mereka membaca keras-keras alur cerita, karakter, dan dialog hari itu, menuangkan kritik tajam dan ide ke dalam karya masing-masing. Kolaborasi berjalan malam yang unik ini adalah gerbang ajaib untuk memperbaiki sudut pandang dan mempertahankan energi kreatif.\n\nHari ini, BuildSelf memperkenalkan prinsip neurosains dari rutinitas 'berjalan di sekitar meja' Charlotte Brontë dan bagaimana manusia modern dapat menyesuaikannya untuk rapat atau penarikan ide."
+      "ko": "\"우리는 매일 밤 어둠 속에서 식탁 주위를 끝없이 돌며 이야기했다. 그 보행 속에서 우리 소설의 영혼들이 비로소 완성되었다.\" 🕯️\n\n19세기 영문학사에서 가장 큰 충격을 던져준 소설 '제인 에어'의 작가 샬롯 브론테. 그녀는 영국 요크셔의 외딴 시골 하워스 목사관에서 에밀리, 앤 브론테 자매와 함께 지독한 고독과 가난을 겪으며 평생을 살았습니다. 변변한 지적 자극이나 외부 교류도 없던 고립된 환경 속에서, 이 세 자매가 '제인 에어', '폭풍의 언덕' 등 문학사의 명작들을 동시다발적으로 완성해 낸 비결은 무엇이었을까요?\n\n브랜슨의 끈질긴 기록만큼이나 강력했던 것은 브론테 자매의 '보행 창작 토론(Table Walking)' 습관이었습니다. 자매들은 낮 동안 고립되어 각자 글을 쓴 뒤, 밤 9시가 되면 거실의 커다란 식탁 주위를 함께 둥글게 돌며 걷기 시작했습니다. 그들은 걷는 동안 오늘 쓴 이야기의 줄거리, 캐릭터 묘사, 대사를 큰 소리로 낭독하고 서로의 작품에 통렬한 비평과 아이디어를 퍼부었습니다. 이 독특한 야간 보행 협업은 서로의 시야를 정비하고 창조적 동력을 유지한 마법 같은 통로였습니다.\n\n오늘 포스트에서는 샬롯 브론테의 '식탁 보행 토론' 루틴이 뇌과학적으로 어떤 창의적 촉진 효과를 가졌는지, 현대인들이 이를 회의나 아이디어 회환에 어떻게 접목할 수 있는지 소개합니다."
     },
     "whyTitle": {
-      "ko": "보행이 높이는 창의적 신경 전달 물질과 거울 뉴런",
-      "en": "Creative Neurotransmitters and Mirror Neurons Enhanced by Walking",
-      "ja": "歩行が高める創造的神経伝達物質とミラーニューロン",
-      "zh": "绕桌行步提升的创意神经递质与镜像神经元",
-      "es": "Neurotransmisores creativos y neuronas espejo estimulados al caminar",
-      "fr": "Neurotransmetteurs et neurones miroirs stimulés par la marche",
-      "de": "Wie Gehen Botenstoffe freisetzt und die Kreativität steigert",
-      "pt": "Neurotransmissores criativos e neurônios-espelho estimulados ao caminhar",
-      "id": "Neurotransmitter Kreatif dan Neuron Cermin yang Ditingkatkan dengan Berjalan"
+      "ko": "보행이 높이는 창의적 신경 전달 물질과 거울 뉴런"
     },
     "whyDesc": {
-      "ko": "물리적으로 몸을 움직이며 걷는 행위는 뇌의 인지 성능을 극대화하는 촉진제입니다. 스탠포드 대학 임상 연구에 따르면, 걷는 도중과 직후에는 창의적인 발산 작용이 앉아 있을 때보다 약 60% 이상 향상됩니다. 보행은 뇌로 가는 혈류량과 산소 공급을 증가시키고, 신경 성장 요인들을 활성화해 고정된 사고 회로를 깹니다.\n\n또한 타인의 통렬한 비평과 아이디어를 들으며 이야기를 나누는 과정은 뇌의 <strong>'거울 뉴런(Mirror Neurons)'</strong> 계통을 가동합니다. 타인의 시각을 시뮬레이션하여 자신의 창작물을 바라보게 함으로써, 작가가 자기 생각의 좁은 가두리에 갇히는 <strong>'터널 시야(Tunnel Vision)'</strong> 현상을 강력히 억제하고 작품의 객관적인 설득력과 구조적 완결성을 끌어올립니다.",
-      "en": "The act of physically moving and walking is a catalyst that maximizes the brain's cognitive performance. According to Stanford University clinical research, creative divergent thinking improves by over 60% while walking compared to sitting. Walking increases blood flow and oxygen supply to the brain, activating nerve growth factors to break static thought patterns.\n\nAdditionally, sharing stories while receiving sharp critiques and ideas from others engages the brain's <strong>'Mirror Neurons'</strong> system. By simulating another's perspective to look at one's own creation, it strongly suppresses the <strong>'Tunnel Vision'</strong> phenomenon where writers get trapped in their narrow thoughts, raising the objective persuasiveness and structural completeness of the work.",
-      "ja": "物理的に体を動かして歩く行為は、脳の認知パフォーマンスを極大化する促進剤です. スタンフォード大学の臨床研究によると、歩行中および歩行直後は、座っているときよりも創造的な発散作用が約60%以上向上します. 歩行は脳への血流と酸素供給を増加させ、神経成長因子を活性化させて固定された思考回路を破壊します.\n\nまた、他人の痛烈な批評やアイデアを聞きながら話を交わすプロセスは、脳の<strong>「ミラーニューロン（Mirror Neurons）」</strong>系統を作動させます. 他人の視点をシミュレートして自分の創作物を見つめ直すことで、作家が自分の考えの狭い枠に閉じこもる<strong>「トンネル視野（Tunnel Vision）」</strong>現象を強力に抑制し、作品の客観的な説得力と構造的な完結性を高めます.",
-      "zh": "动身体进行步行的物理行为，是最大化大脑认知表现的催化剂。斯坦福大学的临床研究表明，步行途中及步行刚结束时，发散性创意能力比坐着时提升约60%以上。步行能增加输送往大脑的血流量和氧气供应，激活神经生长因子以打破固定的思维回路。\n\n此外，在聆听他人尖锐批评和创意的同时进行交流的过程，会启动大脑的<strong>“镜像神经元 (Mirror Neurons)”</strong>系统。通过模拟他人的视角来审视自己的创作，能够强力抑制创作者陷入自身思维狭隘牢笼的<strong>“隧道视野 (Tunnel Vision)”</strong>现象，进而提升作品的客观说服力和结构完整性。",
-      "es": "Caminar es un catalizador que maximiza la capacidad cognitiva. Un estudio de la Universidad de Stanford determinó que el pensamiento divergente mejora más de un 60% al caminar frente a estar sentado, pues eleva el flujo de oxígeno y rompe esquemas rígidos.\n\nAdemás, debatir con otros activa las <strong>neuronas espejo</strong>. Al simular el punto de vista del otro, se mitiga el sesgo de la <strong>'Visión de Túnel'</strong> (encerrarse en las propias ideas), elevando la lógica y solidez del trabajo.",
-      "fr": "Marcher est un puissant catalyseur cognitif. Selon une étude de l'université Stanford, la créativité divergente augmente de plus de 60 % pendant la marche par rapport à la position assise, car l'effort stimule l'afflux d'oxygène.\n\nDe plus, échanger en direct stimule les **neurones miroirs**. Adopter le point de vue d'autrui permet d'éviter l'**effet tunnel** (rester bloqué sur sa propre vision), ce qui donne plus de cohérence et de logique au projet.",
-      "de": "Gehen regt die Durchblutung und Sauerstoffversorgung des Gehirns an. Laut einer Studie der Stanford University steigt die kreative Denkleistung im Gehen um rund 60 % im Vergleich zum Sitzen.\n\nDer Austausch im Gehen aktiviert zudem die <strong>Spiegelneuronen</strong>. Die Perspektive des anderen einzunehmen hilft, die eigene <strong>Betriebsblindheit (Tunnelblick)</strong> zu überwinden und Logikfehler im Entwurf aufzudecken.",
-      "pt": "Caminhar é um catalisador que maximiza a capacidade cognitiva. Um estudo da Universidade de Stanford determinou que o pensamento divergente melhora mais de 60% ao caminhar em comparação com estar sentado, pois eleva o fluxo de oxigênio e rompe esquemas rígidos.\n\nAlém disso, debater com outros ativa os <strong>neurônios-espelho (Mirror Neurons)</strong>. Ao simular o ponto de vista alheio, mitiga-se o viés da <strong>'Visão de Túnel' (Tunnel Vision)</strong> de fechar-se nas próprias ideias, elevando a lógica e a solidez do trabalho.",
-      "id": "Tindakan bergerak dan berjalan secara fisik adalah katalisator yang memaksimalkan kinerja kognitif otak. Menurut penelitian klinis Universitas Stanford, pemikiran divergen kreatif meningkat lebih dari 60% saat berjalan dibandingkan saat duduk. Berjalan meningkatkan aliran darah dan suplai oksigen ke otak, mengaktifkan faktor pertumbuhan saraf untuk memecah pola pikir statis.\n\nSelain itu, berbagi cerita sambil menerima kritik tajam dan ide dari orang lain akan melibatkan sistem <strong>'Neuron Cermin' (Mirror Neurons)</strong> otak. Dengan mensimulasikan perspektif orang lain untuk melihat ciptaannya sendiri, hal ini secara kuat menekan fenomena <strong>'Tunnel Vision'</strong> di mana penulis terjebak dalam pikiran sempit mereka, meningkatkan persuasif objektif dan kelengkapan struktural karya tersebut."
+      "ko": "물리적으로 몸을 움직이며 걷는 행위는 뇌의 인지 성능을 극대화하는 촉진제입니다. 스탠포드 대학 임상 연구에 따르면, 걷는 도중과 직후에는 창의적인 발산 작용이 앉아 있을 때보다 약 60% 이상 향상됩니다. 보행은 뇌로 가는 혈류량과 산소 공급을 증가시키고, 신경 성장 요인들을 활성화해 고정된 사고 회로를 깹니다.\n\n또한 타인의 통렬한 비평과 아이디어를 들으며 이야기를 나누는 과정은 뇌의 <strong>'거울 뉴런(Mirror Neurons)'</strong> 계통을 가동합니다. 타인의 시각을 시뮬레이션하여 자신의 창작물을 바라보게 함으로써, 작가가 자기 생각의 좁은 가두리에 갇히는 <strong>'터널 시야(Tunnel Vision)'</strong> 현상을 강력히 억제하고 작품의 객관적인 설득력과 구조적 완결성을 끌어올립니다."
     },
     "cautionTitle": {
-      "ko": "논리 점검을 위한 객관화 피드백의 필연성",
-      "en": "The Inevitable Necessity of Objectifying Feedback for Logical Check",
-      "ja": "論理点検のための客観化フィードバックの必然性",
-      "zh": "用于逻辑检验的客观化反馈的必然性",
-      "es": "La necesidad de buscar críticas sinceras para verificar la lógica",
-      "fr": "Nécessité de confronter ses idées pour tester la logique",
-      "de": "Der Wert von ungeschöntem Feedback",
-      "pt": "A necessidade de buscar críticas sinceras para verificar a lógica",
-      "id": "Kebutuhan Tak Terelakkan dari Objektifikasi Umpan Balik untuk Pemeriksaan Logis"
+      "ko": "논리 점검을 위한 객관화 피드백의 필연성"
     },
     "cautionDesc": {
-      "ko": "보행 토론 루틴의 핵심은 '단순한 친목이나 칭찬이 아닌 차가운 객관적 비평을 주고받아야 한다는 것'입니다. 자매들이 서로의 작품을 칭찬하는 데 그쳤다면 '제인 에어' 같은 밀도 높은 걸작은 탄생할 수 없었습니다. 상대방이 내 생각의 논리적 오류나 플롯 구멍을 지적해 줄 때, 방어하지 않고 경청하는 수용적 마인드가 결합되어야만 브론테 자매의 완성도 교정 기제가 완벽하게 작동합니다.",
-      "en": "The key detail in the table walking routine is 'giving and receiving cold, objective critique, not simple socialization or praise.' If the sisters had stopped at praising each other's works, dense masterpieces like 'Jane Eyre' would never have been born. A receptive mind that listens without getting defensive when others point out logical flaws or plot holes is necessary for the Brontë sisters' correction mechanism to work perfectly.",
-      "ja": "歩行討論ルーティンの核心は、「単なる親睦や称賛ではなく、冷徹で客観的な批評を交わさなければならない」ということです. 姉妹たちがお互いの作品を褒め合うだけで終わっていたら、「ジェーン・エア」のような密度の高い傑作は誕生しませんでした. 相手が自分の考えの論理的エラーやプロットの穴を指摘するとき、防御的にならずに耳を傾ける受容的なマインドが結合してこそ, ブロンテ姉妹の完成度矯正システムが完璧に作動します.",
-      "zh": "行步讨论常规的关键在于“必须进行冷酷的客观批评，而非单纯的社交或赞美”。如果勃朗特姐妹仅停留在赞美彼此的作品上，像《简·爱》这样结构紧密、内涵丰富的杰作就绝对无法诞生。只有当对方指出自己思维中的逻辑漏洞或剧情硬伤时，结合不予防卫、虚心倾听的接纳心态，勃朗特姐妹的纠偏机制才能完美发挥作用。",
-      "es": "La clave de debatir andando es 'intercambiar críticas objetivas y frías, no meras felicitaciones'. Si se hubieran limitado a alabarse, no habrían creado sus obras maestras. Escuchar las fisuras de tu lógica sin ponerte a la defensiva es vital.",
-      "fr": "L'essence de cette routine est l'échange de critiques froides et objectives, pas les compliments. Si les sœurs s'étaient contentées de s'encourager, leurs chefs-d'œuvre n'auraient jamais vu le jour. Accepter d'écouter les failles de sa logique sans se défendre est indispensable.",
-      "de": "Der Kern dieser Routine ist ungeschönte, sachliche Kritik, nicht gegenseitiges Loben. Hätten sich die Schwestern nur umschmeichelt, wären diese dichten Meisterwerke nie entstanden. Es erfordert die mentale Bereitschaft, Schwachstellen im eigenen Entwurf ohne Rechtfertigung anzunehmen.",
-      "pt": "A essência de debater andando é 'intercambiar críticas objetivas e frias, e não meros elogios'. Se tivessem se limitado a elogiar umas às outras, não teriam criado suas obras-primas. Ouvir as fissuras da sua lógica sem ficar na defensiva é vital.",
-      "id": "Detail penting dalam rutinitas berjalan di sekitar meja adalah 'memberikan dan menerima kritik yang dingin dan objektif, bukan sosialisasi atau pujian belaka.' Jika para saudari berhenti saling memuji karya satu sama lain, mahakarya padat seperti 'Jane Eyre' tidak akan pernah lahir. Pikiran yang reseptif yang mendengarkan tanpa bersikap defensif ketika orang lain menunjukkan kelemahan logis atau celah alur cerita diperlukan agar mekanisme koreksi Brontë bersaudara bekerja dengan sempurna."
+      "ko": "보행 토론 루틴의 핵심은 '단순한 친목이나 칭찬이 아닌 차가운 객관적 비평을 주고받아야 한다는 것'입니다. 자매들이 서로의 작품을 칭찬하는 데 그쳤다면 '제인 에어' 같은 밀도 높은 걸작은 탄생할 수 없었습니다. 상대방이 내 생각의 논리적 오류나 플롯 구멍을 지적해 줄 때, 방어하지 않고 경청하는 수용적 마인드가 결합되어야만 브론테 자매의 완성도 교정 기제가 완벽하게 작동합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 논리 확인 및 기획 정체 시 보행 개시",
-          "en": "Step 1: Start Walking when Logical Block or Planning Stagnation Occurs",
-          "ja": "ステップ1：論理点検および企画停滞時の歩行開始",
-          "zh": "第一步：逻辑受阻或策划停滞时开始行步",
-          "es": "Paso 1: Levántese y comience a caminar ante un bloqueo mental",
-          "fr": "Étape 1 : Se lever et marcher dès que la logique bloque",
-          "de": "Schritt 1: Aufstehen und Gehen bei Denkblockaden",
-          "pt": "Passo 1: Levante-se e comece a caminhar diante de um bloqueio mental",
-          "id": "Langkah 1: Mulai Berjalan saat Terjadi Hambatan Logis atau Stagnasi Perencanaan"
+          "ko": "1단계: 논리 확인 및 기획 정체 시 보행 개시"
         },
         "text": {
-          "ko": "기획서나 소설 집일 중 아이디어가 막히거나, 구조적 모순이 느껴져 점검이 필요할 때 의자에서 일어나 방 안이나 거실을 일정 템포로 걷기 시작합니다.",
-          "en": "When ideas dry up during planning or writing, or when structural contradictions are felt, rise from your chair and start walking around the room or living room at a steady tempo.",
-          "ja": "企画書や小説の執筆中にアイデアが詰まったり, 構造的な矛盾が感じられて点検が必要なとき, 椅子から立ち上がって部屋の中やリビングを一定のテンポで歩き始めます.",
-          "zh": "在撰写策划书或创作小说中，如果创意受阻，或感到结构性矛盾需要检验时，从椅子上站起来，在房间内或客厅里以一定的节奏行走。",
-          "es": "Cuando sienta que el proyecto se estanca o detecte fallos de lógica, levántese y camine a un ritmo constante en la habitación.",
-          "fr": "Dès qu'un projet bloque ou qu'une incohérence apparaît, levez-vous et marchez à un rythme régulier dans la pièce.",
-          "de": "Verlassen Sie bei Blockaden oder Logikfehlern den Schreibtisch und laufen Sie im Zimmer umher.",
-          "pt": "Quando sentir que o projeto estanca ou detectar falhas de lógica, levante-se e caminhe em um ritmo constante na sala.",
-          "id": "Ketika ide-ide buntu selama perencanaan atau penulisan, atau ketika kontradiksi struktural dirasakan, bangkitlah dari kursi Anda dan mulailah berjalan di sekitar ruangan atau ruang tamu dengan tempo yang stabil."
+          "ko": "기획서나 소설 집일 중 아이디어가 막히거나, 구조적 모순이 느껴져 점검이 필요할 때 의자에서 일어나 방 안이나 거실을 일정 템포로 걷기 시작합니다."
         }
       },
       {
         "name": {
-          "ko": "2단계: 신뢰하는 동료와의 구두 토론 및 설명",
-          "en": "Step 2: Oral Discussion and Explanation with a Trusted Colleague",
-          "ja": "ステップ2：信頼する同僚との口頭討論と説明",
-          "zh": "第二步：与信任的同行口头讨论和讲解",
-          "es": "Paso 2: Explicar y debatir la idea en voz alta con un colega de confianza",
-          "fr": "Étape 2 : Expliquer et débattre de l'idée avec un partenaire de confiance",
-          "de": "Schritt 2: Das Problem mit einem Kollegen besprechen",
-          "pt": "Passo 2: Explicar e debater a ideia em voz alta com um colega de confiança",
-          "id": "Langkah 2: Diskusi Lisan dan Penjelasan dengan Rekan Kerja yang Terpercaya"
+          "ko": "2단계: 신뢰하는 동료와의 구두 토론 및 설명"
         },
         "text": {
-          "ko": "신뢰할 수 있는 동료나 파트너와 나란히 걸으며 자신의 기획 아이디어나 스토리 전개를 소리 내어 말로 설명하고, 상대방에게 가감 없는 구체적 피드백을 요구합니다.",
-          "en": "Walk alongside a trusted colleague or partner, explain your planning idea or story development out loud, and ask for raw, specific feedback.",
-          "ja": "信頼できる同僚やパートナーと並んで歩きながら, 自分の企画アイデアやストーリー展開を声に出して説明し, 相手に忌憚のない具体的なフィードバックを求めます.",
-          "zh": "与信任的同行或伙伴并肩行走，大声解释您的策划创意或故事情节，并要求对方给予毫无保留的具体反馈。",
-          "es": "Camine junto a un colega de confianza, explíquele la idea en voz alta y pídale una opinión cruda sobre los puntos flojos.",
-          "fr": "Marchez côte à côte avec un partenaire de confiance, exposez-lui votre idée à voix haute et demandez-lui un avis sans concession.",
-          "de": "Laufen Sie mit einem Partner auf und ab, erklären Sie das Problem laut und fordern Sie ehrliche Kritik ein.",
-          "pt": "Caminhe ao lado de um colega de confiança, explique-lhe a ideia em voz alta e peça uma opinião sincera sobre os pontos fracos.",
-          "id": "Berjalanlah berdampingan dengan rekan kerja atau mitra terpercaya, jelaskan ide perencanaan atau perkembangan cerita Anda dengan keras, dan mintalah umpan balik yang jujur dan spesifik."
+          "ko": "신뢰할 수 있는 동료나 파트너와 나란히 걸으며 자신의 기획 아이디어나 스토리 전개를 소리 내어 말로 설명하고, 상대방에게 가감 없는 구체적 피드백을 요구합니다."
         }
       },
       {
         "name": {
-          "ko": "3단계: 수용적 비평 청취 및 피드백 수정 반영",
-          "en": "Step 3: Receptive Listening to Critique and Reflecting Feedback Corrections",
-          "ja": "ステップ3：受容的な批評の聴取とフィードバック修正の反映",
-          "zh": "第三步：虚心听取批评并融入反馈进行修改",
-          "es": "Paso 3: Escucha activa y ajuste de los fallos detectados",
-          "fr": "Étape 3 : Écoute active et correction des failles",
-          "de": "Schritt 3: Kritik annehmen und Korrekturen einarbeiten",
-          "pt": "Passo 3: Escuta ativa e ajuste das falhas detectadas",
-          "id": "Langkah 3: Mendengarkan Kritik secara Reseptif dan Merefleksikan Koreksi Umpan Balik"
+          "ko": "3단계: 수용적 비평 청취 및 피드백 수정 반영"
         },
         "text": {
-          "ko": "상대방의 지적과 논리적 구멍을 방어하지 않고 경청한 뒤, 걷기를 끝내고 즉시 책상으로 돌아와 수집된 보완책을 반영해 창작물의 플롯이나 구조를 정밀하게 교정합니다.",
-          "en": "Listen to the colleague's pointers and logical holes without getting defensive. Return to the desk immediately after the walk, and correct the plot or structure reflecting the collected supplements.",
-          "ja": "相手の指摘や論理的な穴を防御的にならずに傾聴した後, 歩行を終えてすぐにデスクに戻り、集まった補完策を反映して創作物のプロットや構造を精密に矯正します.",
-          "zh": "对别人的指出和逻辑漏洞虚心倾听。步行结束后立即回到办公桌前，融入收集到的补充建议，对创作的大纲或结构进行精确调整。",
-          "es": "Escuche las objeciones sin justificarse, regrese al escritorio de inmediato e incorpore los ajustes a la estructura o propuesta.",
-          "fr": "Écoutez les objections sans chercher à vous justifier, puis retournez à votre bureau pour corriger la structure du projet.",
-          "de": "Nehmen Sie die Kritik sachlich an, kehren Sie zum Schreibtisch zurück und arbeiten Sie die Änderungen sofort ein.",
-          "pt": "Ouça as objeções sem se justificar, retorne à mesa imediatamente e incorpore os ajustes à estrutura ou proposta.",
-          "id": "Dengarkan petunjuk dan celah logis dari rekan kerja tanpa bersikap defensif. Kembali ke meja segera setelah berjalan, dan perbaiki alur atau struktur yang mencerminkan materi pelengkap yang dikumpulkan."
+          "ko": "상대방의 지적과 논리적 구멍을 방어하지 않고 경청한 뒤, 걷기를 끝내고 즉시 책상으로 돌아와 수집된 보완책을 반영해 창작물의 플롯이나 구조를 정밀하게 교정합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "함께 토론할 동료가 없을 때는 보행 창의성 효과가 일어나지 않나요?",
-          "en": "Does the walking creativity effect not occur when there is no colleague to discuss with?",
-          "ja": "一緒に討論する同僚がいないときは, 歩行の創造性効果は起こりませんか？",
-          "zh": "在没有可以共同讨论的同行的时，行步创造力效应就不会发生吗？",
-          "es": "¿Caminar no estimula la creatividad si no hay un colega con quien hablar?",
-          "fr": "La marche n'est-elle plus créative s'il n'y a personne avec qui débattre ?",
-          "de": "Funktioniert die Geh-Methode auch, wenn ich alleine bin?",
-          "pt": "Caminhar não estimula a criatividade se não houver um colega com quem debater?",
-          "id": "Apakah efek kreativitas berjalan tidak terjadi ketika tidak ada rekan kerja untuk berdiskusi bersama?"
+          "ko": "함께 토론할 동료가 없을 때는 보행 창의성 효과가 일어나지 않나요?"
         },
         "answer": {
-          "ko": "아닙니다. 걷는 신체 활동 자체만으로도 BDNF 분비와 뇌 혈류 증가로 인한 인산화 효과(창의성 60% 향상)는 동일하게 누릴 수 있습니다. 다만, 동료가 없을 때는 '거울 속 자신에게 1인칭으로 직접 아이디어를 조목조목 설명하기'나 '가상의 비평가를 설정하고 자문자답하며 걷기' 방식을 취하면 메타인지 자극 효과를 훌륭하게 모방할 수 있습니다.",
-          "en": "No. The physical activity of walking alone yields the same refresh effects (60% increase in creativity) due to BDNF secretion and increased brain blood flow. When alone, you can mimic the metacognitive stimulus by 'explaining ideas directly to yourself in a mirror' or 'setting a virtual critic and self-questioning while walking'.",
-          "ja": "いいえ, 違います. 歩く身体活動自体だけでも, BDNF分泌と脳血流の増加による効果（創造性60%向上）は同様に得られます. ただ、同僚がいないときは「鏡の中の自分自身に直接アイデアを細かく説明する」ことや、「仮想の批評家を設定し、自問自答しながら歩く」方法をとれば, メタ認知刺激効果を立派に模倣することができます.",
-          "zh": "不是。仅仅步行这一体育活动本身，由于BDNF的分泌和脑血流量的增加，同样能享受到磷酸化效应（创造力提升约60%）。不过，在没有同伴时，采用“对着镜子里的自己逐条解释创意”或“设定一位虚拟批评家并在步行中自问自答”的方式，能极好地模拟出元认知的刺激效果。",
-          "es": "No. El simple hecho de caminar estimula la creatividad un 60% por la oxigenación y el BDNF. Si está solo, simule la metacognición hablándose a sí mismo en voz alta o imaginando que un crítico ficticio le cuestiona la idea mientras anda.",
-          "fr": "Non. La marche seule stimule déjà la créativité de 60 % en augmentant l'afflux d'oxygène. Si vous êtes seul, simulez la métacognition en vous expliquant l'idée à voix haute ou en imaginant les questions d'un critique.",
-          "de": "Doch. Das Gehen allein steigert die Kreativität bereits durch die Durchblutung. Wenn Sie alleine sind, können Sie die Metakognition anregen, indem Sie sich den Gedanken selbst laut vorsprechen oder einen imaginären Kritiker befragen.",
-          "pt": "Não. O simples fato de caminhar estimula a criatividade em 60% pela oxigenação e BDNF. Se estiver sozinho, simule a metacognição falando consigo mesmo em voz alta ou imaginando que um crítico fictício lhe questiona a ideia enquanto anda.",
-          "id": "Tidak. Aktivitas fisik berjalan saja menghasilkan efek penyegaran yang sama (peningkatan kreativitas sebesar 60%) karena sekresi BDNF dan peningkatan aliran darah otak. Saat sendiri, Anda dapat meniru stimulus metakognitif dengan 'menjelaskan ide secara langsung kepada diri sendiri di cermin' atau 'menetapkan kritikus virtual dan mengajukan pertanyaan pada diri sendiri saat berjalan'."
+          "ko": "아닙니다. 걷는 신체 활동 자체만으로도 BDNF 분비와 뇌 혈류 증가로 인한 인산화 효과(창의성 60% 향상)는 동일하게 누릴 수 있습니다. 다만, 동료가 없을 때는 '거울 속 자신에게 1인칭으로 직접 아이디어를 조목조목 설명하기'나 '가상의 비평가를 설정하고 자문자답하며 걷기' 방식을 취하면 메타인지 자극 효과를 훌륭하게 모방할 수 있습니다."
         }
       },
       {
         "question": {
-          "ko": "비판적인 피드백을 들으면 오히려 마음에 상처를 입고 창작 의욕이 꺾이지 않나요?",
-          "en": "Doesn't listening to critical feedback hurt your feelings and dampen your creative desire instead?",
-          "ja": "批判的なフィードバックを聞くと, かえって傷ついて創作意欲が削がれませんか？",
-          "zh": "听取批评性的反馈，难道不会反而受到伤害、打消创作欲望吗？",
-          "es": "¿La crítica cruda no puede herir y desmotivar la creatividad?",
-          "fr": "La critique ne risque-t-elle pas de décourager le créateur ?",
-          "de": "Kann Kritik nicht auch demotiveren und verletzen?",
-          "pt": "A crítica sincera não pode ferir e desmotivar a criatividade?",
-          "id": "Bukankah mendengarkan umpan balik yang kritis justru menyakiti perasaan Anda dan memadamkan keinginan kreatif Anda?"
+          "ko": "비판적인 피드백을 들으면 오히려 마음에 상처를 입고 창작 의욕이 꺾이지 않나요?"
         },
         "answer": {
-          "ko": "충분히 일어날 수 있는 인지적 오류입니다. 뇌가 비평을 '나에 대한 공격'으로 인지하면 방어벽을 세우고 창작 의욕이 저하됩니다. 이를 막으려면 '나의 인격'과 '나의 창작물'을 명확히 선을 그어 분리해야 합니다. 피드백은 작품의 구조적 구멍을 보완하는 중립적인 정보 자료일 뿐임을 명심할 때 비로소 뇌의 수용적 조율 기제가 원활하게 작동합니다.",
-          "en": "This is a common cognitive error. If the brain perceives critique as 'an attack on self,' it builds defenses and creative drive drops. To prevent this, you must strictly separate 'my personality' and 'my creation.' Keep in mind that feedback is merely neutral data to complement structural holes in the work, enabling the brain's tuning mechanism.",
-          "ja": "十分に起こり得る認知的な誤りです. 脳が批評を「自分に対する攻撃」と認知すると、防御壁を築き創作意欲が低下します. これを防ぐには、「自分の人格」と「自分の創作物」に明確な境界線を引き、切り離す必要があります. フィードバックは作品の構造的な欠陥を補完する中立的な情報に過ぎないということを銘記するときに初めて, 脳の受容的調整システムが円滑に機能します.",
-          "zh": "这是极易发生的一种认知偏差。如果大脑将批评视作“对自身的攻击”，就会筑起防线，导致创作欲望下降。为了防止这种情况，必须将“我的人格”与“我的作品”明确划分并剥离。只有记住反馈仅仅是弥补作品结构性漏洞的中立信息，大脑的接纳性调节机制才能顺畅运转。",
-          "es": "Es un sesgo común. Si el cerebro percibe la crítica como un ataque personal, se defiende y baja la motivación. Separe su identidad de su obra. Entienda la crítica como datos neutros para mejorar el trabajo.",
-          "fr": "C'est un piège cognitif classique. Si le cerveau perçoit la critique comme une attaque personnelle, il se défend et la motivation baisse. Séparez votre ego de votre œuvre. Voyez la critique comme une donnée neutre pour l'améliorer.",
-          "de": "Das ist ein häufiger Denkfehler. Wenn das Gehirn Kritik als persönlichen Angriff wertet, blockiert es. Trennen Sie Ihre Persönlichkeit strikt von Ihrer Arbeit. Sehen Sie Feedback als wertfreie Daten an, um Fehler zu korrigieren.",
-          "pt": "É um viés comum. Se o cérebro percebe a crítica como um ataque pessoal, ele se defende e a motivação diminui. Separe a sua identidade da sua obra. Entenda a crítica como dados neutros para melhorar o trabalho.",
-          "id": "Ini adalah kesalahan kognitif yang umum. Jika otak menganggap kritik sebagai 'serangan terhadap diri sendiri,' ia akan membangun pertahanan dan dorongan kreatif akan menurun. Untuk mencegah hal ini, Anda harus memisahkan secara ketat 'kepribadian saya' dan 'karya saya.' Ingatlah bahwa umpan balik hanyalah data netral untuk melengkapi celah struktural dalam karya tersebut, sehingga mengaktifkan mekanisme penyetelan otak."
+          "ko": "충분히 일어날 수 있는 인지적 오류입니다. 뇌가 비평을 '나에 대한 공격'으로 인지하면 방어벽을 세우고 창작 의욕이 저하됩니다. 이를 막으려면 '나의 인격'과 '나의 창작물'을 명확히 선을 그어 분리해야 합니다. 피드백은 작품의 구조적 구멍을 보완하는 중립적인 정보 자료일 뿐임을 명심할 때 비로소 뇌의 수용적 조율 기제가 원활하게 작동합니다."
         }
       }
-    ],
-    "pubDate": "2026-05-14",
-    "updatedDate": "2026-05-14"
+    ]
   }
 }

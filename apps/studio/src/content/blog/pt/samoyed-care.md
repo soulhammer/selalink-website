@@ -16,23 +16,23 @@ faqs:
     answer: "Evite o sobrepeso desde filhote para reduzir o estresse articular. Evite também brincadeiras com saltos altos em pisos lisos."
 ---
 
-Famosos pela pelagem branca abundante e o 'Sorriso de Samoieda', são cães de trenó ativos e dóceis. Sua pelagem dupla protege do frio, mas acumula calor e umidade, gerando fungos. Por serem de grande porte, são propensos a displasia coxofemoral. Hoje, o PetSelf decifra seus sinais nas articulações e apresenta uma rotina em 3 passos.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Evidência Veterinária e Comportamental
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este conteúdo baseia-se em <strong>Diretrizes de raça do Samoieda do AKC e orientações da OFA</strong>.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Samoieda Perfil principal
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 14 anos</span></div>
@@ -43,7 +43,7 @@ Famosos pela pelagem branca abundante e o 'Sorriso de Samoieda', são cães de t
 
 ## 1. Linguagem corporal do Samoieda: postura de alívio e claudicação
 
-Para aliviar o calor, Samoiedas deitam esticados, postura chamada 'splooting', encostando o abdômen em superfícies frias. Já o 'andar de coelho' (correr com patas traseiras juntas) revela dor de quadril. Identificar esses sinais é vital.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Para aliviar o calor, Samoiedas deitam esticados, postura chamada 'splooting', e
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Escovação rasqueadeira para ventilação da pelagem</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Escove diariamente a pelagem usando rasqueadeira e pente metálico para remover o subpelo morto.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Para aliviar o calor, Samoiedas deitam esticados, postura chamada 'splooting', e
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Proteção articular e tapetes antiderrapantes</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Coloque tapetes antiderrapantes em pisos escorregadios e adicione glucosamina à comida.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Para aliviar o calor, Samoiedas deitam esticados, postura chamada 'splooting', e
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Lavagem das patas e secagem completa</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Lave as patas após passear. Seque totalmente o pelo entre os coxins com secador para evitar dermatite.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Para aliviar o calor, Samoiedas deitam esticados, postura chamada 'splooting', e
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Para aliviar o calor, Samoiedas deitam esticados, postura chamada 'splooting', e
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Não. A pelagem dupla serve como isolante térmico e protetor solar natural. Tosar na máquina expõe a pele a queimaduras e danifica a pelagem.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Para aliviar o calor, Samoiedas deitam esticados, postura chamada 'splooting', e
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Evite o sobrepeso desde filhote para reduzir o estresse articular. Evite também brincadeiras com saltos altos em pisos lisos.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 </div>

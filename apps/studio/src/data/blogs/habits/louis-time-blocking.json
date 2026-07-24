@@ -1,218 +1,72 @@
 {
   "louis-time-blocking": {
     "title": {
-      "ko": "시간을 완전히 지배하는 법? 루이 14세의 타임 블로킹 루틴",
-      "en": "How to Completely Dominate Time? Louis XIV's Time Blocking Routine",
-      "ja": "時間を完全に支配する方法？ルイ14世のタイムブロッキングルーティン",
-      "zh": "完全支配时间的方法？路易十四的时间规划常规",
-      "es": "¿Cómo dominar por completo el tiempo? La rutina de time-blocking de Luis XIV",
-      "fr": "Comment maîtriser complètement son temps ? La routine de time-blocking de Louis XIV",
-      "de": "Wie man die Zeit vollständig beherrscht? Ludwig XIV. Time-Blocking-Routine",
-      "pt": "Como dominar completamente o tempo? A rotina de time-blocking de Luís XIV",
-      "id": "Bagaimana Mendominasi Waktu Sepenuhnya? Rutinitas Time Blocking Louis XIV"
+      "ko": "시간을 완전히 지배하는 법? 루이 14세의 타임 블로킹 루틴"
     },
     "description": {
-      "ko": "베르사유 궁전을 지배한 프랑스의 태양왕 루이 14세. 인생을 통제하기 위해 매일 24시간을 분 단위로 쪼개어 지켰던 그의 '타임 블로킹'의 脳科学的 원리와 현대적 3단계 시간 관리법을 소개합니다.",
-      "en": "French Sun King Louis XIV, who ruled the Palace of Versailles. Discover the neurological principles and modern 3-step time management of his 'Time Blocking' routine, which divided 24 hours to dominate life.",
-      "ja": "ヴェルサイユ宮殿を支配したフランスの太陽王ルイ14世。人生をコントロールするために毎日24時間を分単位で区切って実行した彼の「タイムブロッキング」の脳科学的原理と現代的な3ステップの時間管理法を紹介します。",
-      "zh": "统治凡尔赛宫的法国太阳王路易十四。介绍他为了控制人生，每天将24小时细分到分钟来遵守的“时间规划”的脑科学原理和现代三步时间管理法。",
-      "es": "El rey Sol Luis XIV, que gobernó Versalles. Descubra los principios neurológicos y el manejo del tiempo de su rutina de 'Time Blocking', que dividía las 24 horas para dominar la vida, y una guía de 3 pasos.",
-      "fr": "Le roi Soleil Louis XIV, qui gouverna Versailles. Découvrez les principes de sa routine de 'Time-Blocking', qui divisait les 24 heures pour maîtriser sa vie, et un guide en 3 étapes.",
-      "de": "Der französische Sonnenkönig Ludwig XIV., der Versailles beherrschte. Entdecken Sie die Prinzipien seiner 'Time-Blocking'-Routine, die 24 Stunden aufteilte, um das Leben zu beherrschen, und eine 3-Schritte-Anleitung.",
-      "pt": "O rei Sol Luís XIV, que governou o Palácio de Versalhes. Conheça os princípios neurológicos e o gerenciamento de tempo de sua rotina de 'Time-Blocking', que dividia as 24 horas, e um guia em 3 passos.",
-      "id": "Raja Matahari Prancis Louis XIV, yang menguasai Istana Versailles. Temukan prinsip-prinsip neurologis dan manajemen waktu modern 3 langkah dari rutinitas 'Time Blocking' miliknya."
+      "ko": "베르사유 궁전을 지배한 프랑스의 태양왕 루이 14세. 인생을 통제하기 위해 매일 24시간을 분 단위로 쪼개어 지켰던 그의 '타임 블로킹'의 뇌과학적 원리와 현대적 3단계 시간 관리법을 소개합니다."
     },
     "authority": {
-      "ko": "루이 14세 회고록 및 Journal of Consumer Research 학술지",
-      "en": "Louis XIV's Memoirs & Journal of Consumer Research",
-      "ja": "ルイ14世回顧録および学術誌「Journal of Consumer Research」",
-      "zh": "《路易十四回忆录》与学术期刊《Journal of Consumer Research》",
-      "es": "Memorias de Luis XIV y revista Journal of Consumer Research",
-      "fr": "Mémoires de Louis XIV & revue Journal of Consumer Research",
-      "de": "Memoiren Ludwigs XIV. & Fachzeitschrift Journal of Consumer Research",
-      "pt": "Memórias de Luís XIV & revista Journal of Consumer Research",
-      "id": "Memoar Louis XIV & Jurnal Journal of Consumer Research"
+      "ko": "루이 14세 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "프랑스 절대왕정의 최고 전성기를 장식하고, '태양왕'이라는 칭호와 함께 베르사유 궁전을 지어 권력의 정점에 섰던 루이 14세. 72년이라는 기나긴 재위 기간 동안 끊임없는 영토 분쟁, 신하들의 파벌 싸움, 복잡한 국가 대사를 처리하면서도 그가 흔들림 없는 왕권과 지배력을 구축할 수 있었던 비결은 무엇일까요? 루이 14세는 \"일하는 시간과 규칙을 정해두면, 인생을 완벽히 지배할 수 있다\"는 신조 하에 매일 24시간을 철저하게 분 단위로 분할하여 실행했습니다. 기상, 정무, 식사, 놀이에 이르기까지 베르사유 궁전 전체가 그의 시간표에 맞춰 톱니바퀴처럼 굴러갔습니다. 오늘 BuildSelf에서는 루이 14세의 '타임 블로킹' 루틴의 脳科学的 장점과 현대적인 실천법을 소개합니다.",
-      "en": "Louis XIV, who marked the golden age of the French absolute monarchy and stood at the pinnacle of power with the title 'Sun King' by building the Palace of Versailles. Throughout his long 72-year reign, processing constant territorial conflicts, factional struggles, and complex state affairs, what was the secret behind establishing his unwavering authority? Under the creed \"By setting working times and rules, one can completely dominate life,\" Louis XIV divided his 24 hours strictly by the minute. Today, BuildSelf introduces the neurological advantages and modern implementation of Louis XIV's 'time blocking' routine.",
-      "ja": "この歴史的習慣の実践において： , '' 14. 72 , , ? 14 \" , \" 24 . , , , . BuildSelf 14 ' ' 脳科学的 .",
-      "zh": "在这一历史性惯例的实践中： , '' 14. 72 , , ? 14 \" , \" 24 . , , , . BuildSelf 14 ' ' 脳科学的 .",
-      "es": "Luis XIV, quien marcó la edad de oro de la monarquía absoluta francesa y se situó en la cúspide del poder construyendo el Palacio de Versalles. Durante su largo reinado de 72 años, resolviendo conflictos constantes y luchas de poder, ¿cuál fue el secreto para establecer su autoridad inquebrantable? Bajo el credo \"Al establecer tiempos y reglas de trabajo, uno puede dominar completamente la vida\", Luis XIV dividió sus 24 horas estrictamente al minuto. Hoy, BuildSelf presenta los beneficios neurológicos y la aplicación de la rutina de 'time blocking' de Luis XIV.",
-      "fr": "Louis XIV, qui marqua l'âge d'or de la monarchie absolue française et se plaça au sommet du pouvoir en construisant le château de Versailles. Pendant son long règne de 72 ans, gérant les conflits constants et les luttes de pouvoir, quel était le secret pour établir son autorité ? Sous le credo \"En fixant des heures et des règles de travail, on peut maîtriser sa vie\", Louis XIV divisa ses 24 heures à la minute près. Aujourd'hui, BuildSelf présente les bénéfices de la routine de 'time-blocking' de Louis XIV.",
-      "de": "Ludwig XIV., der die Blütezeit der französischen absoluten Monarchie einleitete und durch den Bau des Schlosses von Versailles an der Spitze der Macht stand. Was war das Geheimnis für seine unerschütterliche Autorität während seiner 72-jährigen Regierungszeit inmitten von Konflikten und Machtkämpfen? Unter dem Credo \"Indem man Arbeitszeiten und Regeln festlegt, kann man das Leben vollständig beherrschen\", teilte Ludwig XIV. seine 24 Stunden streng nach Minuten auf. Heute stellt BuildSelf die neurologischen Vorteile und die Umsetzung von Ludwig XIV. 'Time-Blocking'-Routine vor.",
-      "pt": "Luís XIV, que marcou a era de ouro da monarquia absoluta francesa e situou-se no topo do poder ao construir o Palácio de Versalhes. Durante seu longo reinado de 72 anos, resolvendo conflitos e lutas de poder, qual era o segredo para estabelecer sua autoridade inabalável? Sob o credo \"Ao estabelecer tempos e regras de trabalho, pode-se dominar completamente a vida\", Luís XIV dividiu suas 24 horas estritamente ao minuto. Hoje, o BuildSelf apresenta os benefícios neurológicos e a aplicação da rotina de 'time-blocking' de Luís XIV.",
-      "id": "Louis XIV, yang menandai masa keemasan monarki absolut Prancis dan berdiri di puncak kekuasaan dengan membangun Istana Versailles. Sepanjang 72 tahun masa pemerintahannya yang panjang, memproses konflik teritorial, perebutan kekuasaan, dan urusan negara yang rumit, apa rahasia di balik kekuasaannya yang tak tergoyahkan? Di bawah moto \"Dengan menetapkan waktu kerja dan aturan, seseorang dapat mendominasi hidup sepenuhnya,\" Louis XIV membagi 24 jamnya dengan ketat per menit. Hari ini, BuildSelf memperkenalkan keuntungan neurologis dari rutinitas berkebun ini."
+      "ko": "\"일하는 시간과 규칙을 정해두면, 인생을 완벽히 지배할 수 있다.\" 👑\n\n프랑스 절대왕정의 최고 전성기를 장식하고, '태양왕'이라는 칭호와 함께 화려한 베르사유 궁전을 지어 권력의 정점에 섰던 군주, 루이 14세. 72년이라는 역사상 가장 긴 재위 기간 동안 끊임없는 영토 분쟁, 신하들의 치열한 파벌 싸움, 복잡한 국가 대사를 처리하면서도 그가 흔들림 없는 왕권과 지배력을 구축할 수 있었던 비결은 무엇일까요?\n\n루이 14세는 기상부터 정무, 식사, 예배, 놀이, 취침에 이르는 하루의 모든 일과를 분 단위로 쪼개어 고정된 시간표대로 엄격하게 이행했습니다. 신하들은 \"왕의 시계만 보면 지금 그가 궁전 어디에서 무엇을 하는지 분 단위로 알 수 있다\"고 증언할 정도였습니다. 철저하게 시간을 블록화하고 스스로를 통제함으로써 의사결정의 피로를 극적으로 덜어낸 이 '타임 블로킹' 루틴은, 그가 거대한 제국을 흔들림 없이 수호하게 만든 권력의 초석이었습니다.\n\n오늘 포스트에서는 루이 14세의 '타임 블로킹' 루틴의 뇌과학적 이점과 현대인을 위해 재구성한 3단계 시간 관리법을 소개합니다."
     },
     "whyTitle": {
-      "ko": "시간 블로킹 수립에 따른 의사결정 피로 방지",
-      "en": "Preventing Decision Fatigue via Establishing Time Blocking",
-      "ja": "タイムブロッキング確立による意思決定疲労の防止",
-      "zh": "通过建立时间规划防止决策疲劳",
-      "es": "Prevención de la fatiga por toma de decisiones mediante el bloqueo del tiempo",
-      "fr": "Prévention de la fatigue décisionnelle par le blocage du temps",
-      "de": "Vermeidung von Entscheidungserschöpfung durch Time-Blocking",
-      "pt": "Prevenção da fadiga de decisão através do bloqueio de tempo",
-      "id": "Mencegah Kelelahan Keputusan Melalui Pembagian Blok Waktu"
+      "ko": "시간 블로킹 수립에 따른 의사결정 피로 방지"
     },
     "whyDesc": {
-      "ko": "매 순간 '다음에 무엇을 할까' 선택해야 하는 상황은 전두엽의 인지 에너지를 갉아먹는 주범인 <strong>'의사결정 피로(Decision Fatigue)'</strong>를 일으킵니다. 뇌과학에 따르면, 하루의 행동 계획을 특정 시간대 블록에 고정해 배치하는 <strong>'타임 블로킹(Time Blocking)'</strong>은 실행 제어망의 효율성을 극대화합니다. 다음 행동에 대한 두뇌의 선택적 고민을 원천 차단하고 실행 의식(Implementation Intentions)을 자극함으로써, 미루는 습관(Procrastination)을 방지하고 목표한 단일 작업에 대한 뇌의 주의 집중 자원을 가장 효율적으로 집중하게 만듭니다.",
-      "en": "The situation of having to choose 'what to do next' at every moment causes <strong>'Decision Fatigue'</strong>, which is the main culprit that consumes the cognitive energy of the frontal lobe. Neurologically, <strong>'Time Blocking'</strong>, which fixes and allocates the day's action plan to specific time blocks, maximizes the efficiency of the executive control network. By blocking the brain's selective worries about the next action and stimulating implementation intentions, it prevents procrastination and makes the brain focus its attention resources most efficiently on the target single task.",
-      "ja": "毎瞬「次に何をすべきか」を選択しなければならない状況は、前頭葉の認知エネルギーを削る主な原因である<strong>「意思決定疲労（Decision Fatigue）」</strong>を引き起こします。脳科学によると、一日の行動計画を特定の時間帯ブロックに固定して配置する<strong>「タイムブロッキング（Time Blocking）」</strong>は、実行制御ネットワークの効率性を極大化します。次の行動に対する脳の選択的な悩みを元から断ち切り, 実行意図（Implementation Intentions）を刺激することで、先延ばしにする習慣（Procrastination）を防止し、目標とする単一の作業に脳の注意集中資源を最も効率的に集中させます。",
-      "zh": "每时每刻都需要选择“接下来要做什么”的状况会导致<strong>“决策疲劳 (Decision Fatigue)”</strong>，这是消耗前额叶认知能量的主因。根据脑科学研究，将一天的行动计划固定分配在特定时间块的<strong>“时间规划 (Time Blocking)”</strong>可以最大化执行控制网络的效率。通过阻断大脑对下一步行动的选择性纠结，激发执行意向 (Implementation Intentions)，它能有效防止拖延症 (Procrastination)，并使大脑的注意力资源最高效地集中在目标单一任务上。",
-      "es": "Tener que elegir 'qué hacer después' a cada momento provoca <strong>'Fatiga de Decisión'</strong>, agotando la energía del lóbulo frontal. El <strong>'Time Blocking'</strong> (fijar y asignar el plan del día en bloques fijos) maximiza el control ejecutivo. Al evitar que el cerebro gaste energía eligiendo la siguiente acción, previene la postergación y enfoca la atención en una sola tarea.",
-      "fr": "Choisir 'que faire après' à chaque instant provoque une <strong>'Fatigue Décisionnelle'</strong>, épuisant le lobe frontal. Le <strong>'Time-Blocking'</strong> (fixer le programme de la journée en blocs) maximise le contrôle exécutif. En évitant au cerveau de gaspiller de l'énergie pour choisir l'action suivante, cela prévient la procrastination.",
-      "de": "Ständig wählen zu müssen, 'was als Nächstes zu tun ist', führt zu <strong>'Entscheidungserschöpfung'</strong>. Das <strong>'Time-Blocking'</strong> (Aufteilen des Tages in feste Blöcke) maximiert die Effizienz des exekutiven Netzwerks. Da das Gehirn nicht ständig wählen muss, wird Zögern verhindert und der Fokus auf eine Aufgabe gelenkt.",
-      "pt": "Ter que escolher 'o que fazer a seguir' a cada momento provoca <strong>'Fadiga de Decisão'</strong>, esgotando o lobo frontal. O <strong>'Time-Blocking'</strong> (fixar o plano do dia em blocos fixos) maximiza o controle executivo. Ao evitar que o cérebro gaste energia escolhendo a próxima ação, previne a procrastinação.",
-      "id": "Harus memilih 'apa yang dilakukan selanjutnya' memicu <strong>'Kelelahatan Keputusan'</strong>. <strong>'Time Blocking'</strong> (menetapkan rencana hari itu ke dalam blok waktu) memaksimalkan efisiensi kontrol eksekutif. Ini mencegah penundaan dan mengarahkan perhatian pada satu tugas."
+      "ko": "매 순간 '다음에 무엇을 할까' 선택해야 하는 상황은 전두엽의 인지 에너지를 갉아먹는 주범인 <strong>'의사결정 피로(Decision Fatigue)'</strong>를 일으킵니다. 뇌과학에 따르면, 하루의 행동 계획을 특정 시간대 블록에 고정해 배치하는 <strong>'타임 블로킹(Time Blocking)'</strong>은 실행 제어망의 효율성을 극대화합니다. 다음 행동에 대한 두뇌의 선택적 고민을 원천 차단하고 실행 의식(Implementation Intentions)을 자극함으로써, 미루는 습관(Procrastination)을 방지하고 목표한 단일 작업에 대한 뇌의 주의 집중 자원을 가장 효율적으로 집중하게 만듭니다."
     },
     "cautionTitle": {
-      "ko": "완벽주의적 빽빽함이 아닌, 일정 사이의 여백을 반드시 포함하세요",
-      "en": "Include Margins Between Schedules, Not Perfectionist Tightness",
-      "ja": "完璧主義的な過密スケジュールではなく、予定の間に必ず余白を含めてください",
-      "zh": "一定要保留日程之间的余白，而不是追求完美主义的紧凑",
-      "es": "Incluya márgenes entre tareas, evite un horario demasiado estricto",
-      "fr": "Incluez des marges entre les tâches, évitez un planning trop serré",
-      "de": "Planen Sie Pufferzeiten zwischen Terminen ein, keinen perfekten Zeitplan",
-      "pt": "Inclua margens entre as tarefas, evite uma agenda muito rígida",
-      "id": "Sertakan Jeda di Antara Jadwal, Bukan Kepadatan Perfeksionis"
+      "ko": "완벽주의적 빽빽함이 아닌, 일정 사이의 여백을 반드시 포함하세요"
     },
     "cautionDesc": {
-      "ko": "시간 블로킹 루틴이 지속되기 위해 가장 피해야 할 것은 빈틈없는 빽빽한 시간표를 짜는 것입니다. 1분 단위의 오차도 허용하지 않으려는 완벽주의는 예기치 못한 돌발 상황이 생겼을 때 시간표 전체를 포기하게 만듭니다. 일정 사이마다 10~15분 가량의 여백 시간(Buffer Time)을 의도적으로 남겨두어야만 뇌는 예상치 못한 시간 연장으로 인한 스트레스를 피할 수 있고, 지치지 않고 시간의 통제권을 지속적으로 쥘 수 있습니다.",
-      "en": "The most important thing to avoid for the time blocking routine to persist is drawing up a tight, zero-margin timetable. Perfectionism that allows no minute of error makes you give up the whole timetable when unexpected situations arise. You must intentionally leave a buffer time of about 10-15 minutes between schedules so the brain can avoid stress caused by unexpected delays and continuously hold control over time without burning out.",
-      "ja": "タイムブロッキングルーティンを継続するために最も避けるべきなのは、隙間のない過密なスケジュール表を作成することです。1分単位の誤差も許さないという完璧主義は、予期せぬ突発事態が発生した際にスケジュール表全体を諦めさせてしまいます。予定と予定の間に10〜15分程度の余白時間（Buffer Time）を意図的に残してこそ、脳は予期せぬ時間の延長によるストレスを回避でき、疲れずに時間の統制権を維持し続けることができます。",
-      "zh": "为了让时间规划常规能够持续下去，最需要避免的就是制定毫无空隙的紧凑时间表。不容许1分钟误差的完美主义，会在出现意想不到的突发情况时让你放弃整张时间表。日程之间必须有意留出10-15分钟左右的缓冲时间 (Buffer Time)，大脑才能避免因意料之外的时间延长而产生压力，并且能够不知疲倦地持续掌控时间。",
-      "es": "El error común es crear un horario sin margen. El perfeccionismo rígido hace que abandone el plan si surge un imprevisto. Deje un margen de 10 a 15 minutos (tiempo de amortiguación) entre bloques para que el cerebro no se estrese ante retrasos y mantenga el control.",
-      "fr": "L'erreur est de créer un planning sans marge. Le perfectionnisme rigide fait abandonner le plan au moindre imprévu. Laissez une marge de 10 à 15 minutes (temps tampon) entre les blocs pour que le cerveau ne se stresse pas et garde le contrôle.",
-      "de": "Der häufigste Fehler ist ein Zeitplan ohne Puffer. Perfektionismus führt dazu, dass Sie den Plan aufgeben, wenn Unvorhergesehenes eintritt. Planen Sie 10–15 Minuten Pufferzeit ein, damit das Gehirn flexibel bleibt und Sie die Kontrolle behalten.",
-      "pt": "O erro comum é criar uma agenda sem margens. O perfeccionismo rígido faz com que abandone o plano se surgir um imprevisto. Deixe uma margem de 10 a 15 minutos (tempo de amortecimento) entre os blocos para que o cérebro não se estresse com atrasos.",
-      "id": "Kesalahan paling umum adalah membuat jadwal tanpa jeda. Perfeksionisme kaku membuat Anda menyerah jika ada kendala. Berikan jeda 10-15 menit di antara blok waktu agar otak tetap tenang saat ada penundaan."
+      "ko": "시간 블로킹 루틴이 지속되기 위해 가장 피해야 할 것은 빈틈없는 빽빽한 시간표를 짜는 것입니다. 1분 단위의 오차도 허용하지 않으려는 완벽주의는 예기치 못한 돌발 상황이 생겼을 때 시간표 전체를 포기하게 만듭니다. 일정 사이마다 10~15분 가량의 여백 시간(Buffer Time)을 의도적으로 남겨두어야만 뇌는 예상치 못한 시간 연장으로 인한 스트레스를 피할 수 있고, 지치지 않고 시간의 통제권을 지속적으로 쥘 수 있습니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "시간 블록 단위로 할 일 배정",
-          "en": "Allocate Tasks in Time Blocks",
-          "ja": "時間ブロック単位でのタスク割り当て",
-          "zh": "以时间块为单位分配任务",
-          "es": "Asignar tareas en bloques de tiempo",
-          "fr": "Assigner les tâches par blocs de temps",
-          "de": "Aufgaben in Zeitblöcken planen",
-          "pt": "Designar tarefas em blocos de tempo",
-          "id": "Alokasikan Tugas dalam Blok Waktu"
+          "ko": "시간 블록 단위로 할 일 배정"
         },
         "text": {
-          "ko": "하루 일정을 시작하기 전, 해야 할 주요 일들을 시간대별로 묶어 시간 블록(예: 오전 9시~11시 코딩 업무) 단위로 배정해 플래너에 적습니다.",
-          "en": "Before starting your day, group the main tasks by time and allocate them to time blocks (e.g., 9 AM - 11 AM Coding) in your planner.",
-          "ja": "一日の予定を始める前に、行うべき主なタスクを時間帯別にグループ化し、時間ブロック（例：午前9時〜11時コーディング業務）単位で割り当ててプランナーに書き込みます。",
-          "zh": "在开始一天的日程前，将要做的主项任务按时间段归类，以时间块为单位（例如：上午9点-11点写代码）分配好并记录在规划表上。",
-          "es": "Antes de iniciar el día, agrupe las tareas por horas y asígnelas en bloques de tiempo (ej. 9 AM - 11 AM Trabajo) en su agenda.",
-          "fr": "Avant de commencer, regroupez vos tâches par heures et planifiez-les par blocs de temps (ex. 9h - 11h Code) sur votre carnet.",
-          "de": "Gruppieren Sie die Aufgaben vor dem Tag und planen Sie sie in Blöcken (z. B. 9–11 Uhr Programmieren) in Ihrem Kalender.",
-          "pt": "Antes de iniciar o dia, agrupe as tarefas por horas e designe-as em blocos de tempo (ex. 9 AM - 11 AM Trabalho) em sua agenda.",
-          "id": "Sebelum memulai aktivitas, kelompokkan tugas berdasarkan waktu dan alokasikan ke blok waktu (misalnya, 9 - 11 pagi Menulis Code)."
+          "ko": "하루 일정을 시작하기 전, 해야 할 주요 일들을 시간대별로 묶어 시간 블록(예: 오전 9시~11시 코딩 업무) 단위로 배정해 플래너에 적습니다."
         }
       },
       {
         "name": {
-          "ko": "예비 시간(여백) 확보",
-          "en": "Secure Buffer Time",
-          "ja": "予備時間（余白）の確保",
-          "zh": "保留预备时间（余白）",
-          "es": "Asegurar un margen de tiempo",
-          "fr": "Prévoir un temps tampon",
-          "de": "Pufferzeiten einplanen",
-          "pt": "Garantir um tempo de margem",
-          "id": "Siapkan Jeda Waktu (Buffer)"
+          "ko": "예비 시간(여백) 확보"
         },
         "text": {
-          "ko": "일정과 일정 사이마다 10~15분가량의 여백 시간을 의도적으로 확보해 둡니다. 예상치 못한 통화 지연이나 화장실 이용 등으로 일정에 차질이 생기는 것을 방어합니다.",
-          "en": "Intentionally secure a buffer time of 10-15 minutes between schedules. This protects the schedule from being disrupted by unexpected call delays or bathroom breaks.",
-          "ja": "予定と予定の間に10〜15分程度の余白時間を意図的に確保しておきます。予期せぬ電話の長引く事態やトイレ利用などで予定が狂うのを防ぎます。",
-          "zh": "在日程之间有意留出10-15分钟左右的余白时间。防止因意料之外的通话超时或上洗手间等导致日程安排被打乱。",
-          "es": "Deje un margen de 10 a 15 minutos entre cada bloque. Esto evita que el día se desorganice si una llamada se alarga o si toma un descanso.",
-          "fr": "Laissez une marge de 10 à 15 minutes entre chaque bloc. Cela évite d'être débordé en cas d'appel prolongé ou de pause imprévue.",
-          "de": "Planen Sie einen Puffer von 10–15 Minuten zwischen den Blöcken ein. Dies schützt den Plan vor Unterbrechungen durch längere Telefonate.",
-          "pt": "Deixe uma margem de 10 a 15 minutos entre cada bloco. Isso evita que o dia se desorganize se uma ligação se prolongar.",
-          "id": "Berikan jeda 10-15 menit di antara setiap blok. Ini menjaga agar jadwal tidak berantakan jika ada telepon yang lama."
+          "ko": "일정과 일정 사이마다 10~15분가량의 여백 시간을 의도적으로 확보해 둡니다. 예상치 못한 통화 지연이나 화장실 이용 등으로 일정에 차질이 생기는 것을 방어합니다."
         }
       },
       {
         "name": {
-          "ko": "단일 시간 블록 1개 작업 몰입",
-          "en": "Immerse in One Task per Time Block",
-          "ja": "単一時間ブロックにおける1つのタスクへの没頭",
-          "zh": "在单个时间块内专注于单项任务",
-          "es": "Concentrarse en una tarea por bloque",
-          "fr": "Se concentrer sur une tâche par bloc",
-          "de": "Fokus auf eine Aufgabe pro Block",
-          "pt": "Concentrar-se em uma tarefa por bloco",
-          "id": "Fokus pada Satu Tugas Per Blok"
+          "ko": "단일 시간 블록 1개 작업 몰입"
         },
         "text": {
-          "ko": "지정된 시간 블록이 시작되면 스마트폰을 비행기 모드로 전환하고, 멀티태스킹을 배제한 채 오직 해당 블록에 약속된 단 하나의 과업에만 몰입합니다.",
-          "en": "When the designated time block starts, turn your smartphone to airplane mode, exclude multitasking, and immerse yourself in the single task promised for that block.",
-          "ja": "指定された時間ブロックが始まったら、スマートフォンを機内モードにし、マルチタスクを排除して、そのブロックで約束した唯一の作業にのみ没頭します。",
-          "zh": "在指定的时间块开始时，将智能手机切换为飞行模式，排除多任务处理，只专注于该时间块内承诺的单项任务。",
-          "es": "Cuando inicie el bloque, ponga su teléfono en modo avión, evite la multitarea y enfóquese únicamente en la tarea asignada para ese bloque.",
-          "fr": "Au début du bloc, mettez votre téléphone en mode avion, évitez le multitâche et concentrez-vous uniquement sur la tâche prévue.",
-          "de": "Wenn der Block beginnt, schalten Sie das Handy auf Flugmodus, vermeiden Sie Multitasking und konzentrieren Sie sich nur auf die geplante Aufgabe.",
-          "pt": "Quando iniciar o bloco, coloque o celular em modo avião, evite a multitarefa e concentre-se apenas na tarefa designada para esse bloco.",
-          "id": "Saat blok waktu dimulai, aktifkan mode pesawat pada ponsel, hindari multitasking, dan fokuslah hanya pada satu tugas yang direncanakan."
+          "ko": "지정된 시간 블록이 시작되면 스마트폰을 비행기 모드로 전환하고, 멀티태스킹을 배제한 채 오직 해당 블록에 약속된 단 하나의 과업에만 몰입합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "직업 특성상 돌발 업무나 긴급 연락이 잦은데 실천 가능한가요?",
-          "en": "My job has frequent unexpected tasks or urgent calls, is this possible?",
-          "ja": "仕事の特性上、突発的な業務や緊急の連絡が多いのですが、実践可能ですか？",
-          "zh": "由于工作性质，突发任务或紧急联络很频繁，还能实践吗？",
-          "es": "¿Se puede hacer si mi trabajo tiene muchas urgencias o llamadas?",
-          "fr": "Est-il possible de le faire si mon travail comporte des urgences ?",
-          "de": "Ist das möglich, wenn mein Job viele Notfälle oder Anrufe erfordert?",
-          "pt": "É possível fazer se meu trabalho tiver muitas urgências ou ligações?",
-          "id": "Pekerjaan saya sering ada tugas mendadak, apakah ini bisa dilakukan?"
+          "ko": "직업 특성상 돌발 업무나 긴급 연락이 잦은데 실천 가능한가요?"
         },
         "answer": {
-          "ko": "충분히 가능합니다. 그럴 경우 하루 일정 중 '긴급 대응 및 메일 확인 시간 블록'을 하루 2~3회 의도적으로 배정해 둡니다. 그 외의 주 집중 블록(1~2시간) 동안에는 방해 없이 핵심 업무에 몰입하고, 대응 블록 시간대에 몰아서 처리함으로써 업무 집중도의 분절을 막을 수 있습니다.",
-          "en": "Yes, absolutely. In that case, intentionally allocate a 'Urgent Response & Email Check Time Block' 2-3 times a day. During other major focus blocks (1-2 hours), immerse yourself in core tasks without interruption, and process urgent matters together in the response block.",
-          "ja": "十分に可能です。その場合は、一日の中に「緊急対応およびメール確認の時間ブロック」を一日2〜3回、意図的に割り当てておきます。それ以外の主集中ブロック（1〜2時間）の間は邪魔されずにコア業務に没頭し、対応ブロックの時間帯にまとめて処理することで、業務集中力の分断を防ぐことができます。",
-          "zh": "完全可以。在这种情况下，在一天日程中有意分配2-3次“紧急处理及邮件确认时间块”。在此之外的主专注时间块（1-2小时）内，不受干扰地投入核心工作，并在紧急处理时间块集中处理，从而防止工作专注力被打断。",
-          "es": "Sí, totalmente. En ese caso, asigne bloques específicos para 'responder urgencias y revisar correos' 2 o 3 veces al día. Durante los bloques de enfoque (1 o 2 horas), trabaje sin interrupciones y resuelva las urgencias juntas en el bloque de respuesta.",
-          "fr": "Oui, tout à fait. Assegnez des blocs pour 'gérer les urgences et e-mails' 2 ou 3 fois par jour. Pendant les blocs de concentration (1 ou 2 heures), travaillez sans distractions et gérez les urgences dans le bloc prévu.",
-          "de": "Ja, absolut. Planen Sie in diesem Fall 2–3 Mal täglich Blöcke für 'Notfälle und E-Mails' ein. Während der Fokus-Blöcke (1–2 Stunden) arbeiten Sie ungestört und bearbeiten Notfälle gebündelt.",
-          "pt": "Sim, totalmente. Nesse caso, designe blocos específicos para 'responder urgências e verificar e-mails' 2 ou 3 vezes ao dia. Durante os blocos de foco (1 ou 2 horas), trabalhe sem interrupções.",
-          "id": "Sangat bisa. Jika demikian, alokasikan blok khusus untuk 'merespons hal mendadak & memeriksa email' sebanyak 2-3 kali sehari. Selama blok fokus (1-2 jam), bekerjalah tanpa gangguan."
+          "ko": "충분히 가능합니다. 그럴 경우 하루 일정 중 '긴급 대응 및 메일 확인 시간 블록'을 하루 2~3회 의도적으로 배정해 둡니다. 그 외의 주 집중 블록(1~2시간) 동안에는 방해 없이 핵심 업무에 몰입하고, 대응 블록 시간대에 몰아서 처리함으로써 업무 집중도의 분절을 막을 수 있습니다."
         }
       },
       {
         "question": {
-          "ko": "시간표대로 일정을 달성하지 못하면 심한 자책감이 듭니다.",
-          "en": "I feel severe self-reproach if I don't achieve schedules as planned.",
-          "ja": "スケジュール通りに予定を達成できないと, 強い自己嫌悪に陥ります。",
-          "zh": "如果没能按时间表达成日程，会产生强烈的自责感。",
-          "es": "Me siento muy culpable si no logro cumplir con el horario.",
-          "fr": "Je me sens coupable si je ne respecte pas le planning.",
-          "de": "Ich fühle mich schuldig, wenn ich den Zeitplan nicht einhalte.",
-          "pt": "Sinto-me muito culpado se não conseguir cumprir o cronograma.",
-          "id": "Saya merasa bersalah jika tidak bisa memenuhi jadwal."
+          "ko": "시간표대로 일정을 달성하지 못하면 심한 자책감이 듭니다."
         },
         "answer": {
-          "ko": "타임 블로킹은 자신을 묶어두는 족쇄가 아니라, 단지 시간의 자원을 가이드하는 지도일 뿐입니다. 완료 여부보다 중요한 것은 '해당 시간 블록 동안 단일 작업에 몰입했는가'입니다. 일정이 어긋났을 때 계획을 비난하기보다, 즉시 다음 블록의 일정에 다시 몰입하는 유연성(Cognitive Flexibility)을 가져야 루틴을 오래 유지할 수 있습니다.",
-          "en": "Time blocking is not a shackle to bind you, but merely a map guiding time resources. What is more important than completion is 'whether you immersed yourself in a single task during that block'. Rather than criticizing the plan when schedules slip, you must have cognitive flexibility to immediately immerse yourself back in the next block's schedule to maintain the routine long-term.",
-          "ja": "タイムブロッキングは自分を縛り付ける足枷ではなく、単に時間の資源をガイドする地図に過ぎません。完了したかどうかより重要なのは、「その時間ブロックの間に1つのタスクに没頭したか」です。予定がずれたときに計画を責めるのではなく、即座に次のブロックの予定に再び没頭する柔軟性（Cognitive Flexibility）を持ってこそ, ルーティンを長く維持できます。",
-          "zh": "时间规划不是捆绑自己的枷锁，而只是引导时间资源的地图。比是否全部完工更重要的是“在那个时间块内是否专注于单项任务”。当日程出现偏差时，与其责怪计划，不如立即将注意力重新投入到下一个时间块的日程中，保持认知灵活性 (Cognitive Flexibility) 才能长久坚持该常规。",
-          "es": "El bloqueo de tiempo no es una cadena, sino un mapa. Lo importante no es completar todo al 100%, sino haber estado concentrado en una sola tarea durante el bloque. Si se desvía, tenga flexibilidad cognitiva y concéntrese en el siguiente bloque en lugar de culparse.",
-          "fr": "Le blocage du temps est un guide, pas une contrainte. L'important n'est pas de tout finir à 100 %, mais de s'être concentré sur une tâche pendant le bloc. Si vous déviez, faites preuve de flexibilité.",
-          "de": "Time-Blocking ist kein Gefängnis, sondern ein Wegweiser. Wichtig ist nicht das Erreichen von 100 %, sondern die Konzentration auf eine Aufgabe im Block. Seien Sie flexibel und machen Sie mit dem nächsten Block weiter.",
-          "pt": "O bloqueio de tempo não é uma corrente, mas um mapa. O importante não é concluir tudo, mas ter estado concentrado em uma única tarefa durante o bloco. Se se desviar, tenha flexibilidade cognitiva.",
-          "id": "Time blocking bukanlah belenggu, melainkan peta panduan. Yang penting bukan menyelesaikan 100%, melainkan apakah Anda fokus pada satu tugas selama blok itu. Bersikaplah fleksibel."
+          "ko": "타임 블로킹은 자신을 묶어두는 족쇄가 아니라, 단지 시간의 자원을 가이드하는 지도일 뿐입니다. 완료 여부보다 중요한 것은 '해당 시간 블록 동안 단일 작업에 몰입했는가'입니다. 일정이 어긋났을 때 계획을 비난하기보다, 즉시 다음 블록의 일정에 다시 몰입하는 유연성(Cognitive Flexibility)을 가져야 루틴을 오래 유지할 수 있습니다."
         }
       }
-    ],
-    "pubDate": "2026-04-11",
-    "updatedDate": "2026-04-11"
+    ]
   }
 }

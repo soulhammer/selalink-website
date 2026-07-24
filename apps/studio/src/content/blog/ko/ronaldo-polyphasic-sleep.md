@@ -1,14 +1,14 @@
 ---
-formatVersion: 4
 title: "24시간 지치지 않는 피지컬의 비결? 크리스티아누 호날두의 90분 분할 수면법"
 description: "세계 최고의 공격수 크리스티아누 호날두. 하루에 90분씩 5회 분할 수면을 취하여 신체 회복력을 극대화한 그의 수면 과학과 실천 팁을 소개합니다."
-pubDate: "2026-01-20"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
-heroImage: "/images/blog/ronaldo_polyphasic_sleep.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/ronaldo_polyphasic_sleep.png"
 app: "buildself"
-authority: "슬립 코치 닉 리틀헤일스 저서 'Sleep' 및 Sleep Medicine Reviews 학술지"
-updatedDate: "2026-01-20"
+formatVersion: 4
+authority: "크리스티아누 호날두 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "수면 타이밍 계획 및 90분 세션 확보"
     text: "낮이나 훈련 직후 피로가 밀려오는 시간대에 수면 주기의 최소 단위인 90분을 배정합니다. 만약 90분 전체가 불가능하다면, 인지 리셋에 효과가 입증된 30분 파워 냅으로 수면 스케줄을 조율합니다."
@@ -21,6 +21,7 @@ faqs:
     answer: "일반적인 사무직 현대인이라면 굳이 낮에 90분 수면을 반복할 필요는 없습니다. 다만 고강도 피지컬 트레이닝을 하거나, 야근으로 밤 수면이 부족했던 날 일시적으로 90분 혹은 30분 분할 수면을 적용해 신체를 리셋하는 용도로 사용하면 좋습니다."
   - question: "태아 자세로 잘 때 양쪽 중 어느 방향으로 눕는 것이 좋나요?"
     answer: "역사적 및 스포츠 의학에 따르면, 심장이 상대적으로 흉부 왼쪽에 위치해 있으므로 왼쪽을 아래로 하면 심장 압박이 있을 수 있어 통상적으로 오른쪽을 바닥에 대고 눕는 것이 더 편안하며 심폐 순환에 유익하다고 조언합니다."
+
 ---
 
 "어제보다 오늘 더 나은 선수가 되는 것, 그것이 나의 유일한 목표다." 🚶‍♂️
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 슬립 코치 닉 리틀헤일스 저서 'Sleep' 및 Sleep Medicine Reviews 학술지 및 관련 인지과학/생리학 연구 결과를 기반으로 작성되었습니다.
+      본 콘텐츠는 <strong>크리스티아누 호날두 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 ronaldo-polyphasic-sleep 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 90분 R90 주기와 성장 호르몬 방출 최적화
+## 90분 R90 주기와 성장 호르몬 방출 최적화
 
 인간의 자연스러운 수면 사이클은 비렘(Non-REM)과 렘(REM) 수면이 결합되어 대략 90분 동안 진행됩니다. 만약 밤에 통잠을 자다 수면 주기의 중간에 억지로 깨어나면 뇌는 극심한 피로를 느끼는 '수면 관성(Sleep Inertia)' 상태에 빠집니다. 
 
@@ -53,8 +54,9 @@ faqs:
 
 ---
 
-## 2. 실천 가이드: 현대인을 위한 3단계 루틴
+## 완벽한 차단 환경과 올바른 자세가 수면 효율을 결정합니다
 
+분할 수면이나 짧은 파워 냅을 성공시키기 위해선 환경적 차단이 완벽해야 합니다. 아주 미세한 빛이나 소음도 뇌의 깊은 이완을 방해합니다. 또한 심장의 부담을 최소화하고 척추를 일직선으로 정렬하기 위해, 오른쪽이나 왼쪽으로 누워 무릎을 가볍게 구부린 태아 자세(Fetal Position)로 수면을 취하는 것이 효율적입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -66,7 +68,6 @@ faqs:
   </p>
 </div>
 
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
@@ -76,7 +77,6 @@ faqs:
     안대와 귀마개를 착용하고 커튼을 쳐 방을 어둡게 만듭니다. 척추 정렬을 돕고 뇌의 이완을 촉진하기 위해 옆으로 누워 무릎을 구부린 편안한 태아 자세를 취합니다.
   </p>
 </div>
-
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -88,27 +88,13 @@ faqs:
   </p>
 </div>
 
-
----
-
-## 3. 완벽한 차단 환경과 올바른 자세가 수면 효율을 결정합니다
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      분할 수면이나 짧은 파워 냅을 성공시키기 위해선 환경적 차단이 완벽해야 합니다. 아주 미세한 빛이나 소음도 뇌의 깊은 이완을 방해합니다. 또한 심장의 부담을 최소화하고 척추를 일직선으로 정렬하기 위해, 오른쪽이나 왼쪽으로 누워 무릎을 가볍게 구부린 태아 자세(Fetal Position)로 수면을 취하는 것이 효율적입니다.
-    </p>
-  </div>
-</div>
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>밤에 잠을 잘 자는데도 낮에 이 분할 수면을 해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -116,10 +102,9 @@ faqs:
       일반적인 사무직 현대인이라면 굳이 낮에 90분 수면을 반복할 필요는 없습니다. 다만 고강도 피지컬 트레이닝을 하거나, 야근으로 밤 수면이 부족했던 날 일시적으로 90분 혹은 30분 분할 수면을 적용해 신체를 리셋하는 용도로 사용하면 좋습니다.
     </p>
   </details>
-  
-
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>태아 자세로 잘 때 양쪽 중 어느 방향으로 눕는 것이 좋나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -127,5 +112,4 @@ faqs:
       역사적 및 스포츠 의학에 따르면, 심장이 상대적으로 흉부 왼쪽에 위치해 있으므로 왼쪽을 아래로 하면 심장 압박이 있을 수 있어 통상적으로 오른쪽을 바닥에 대고 눕는 것이 더 편안하며 심폐 순환에 유익하다고 조언합니다.
     </p>
   </details>
-  
 </div>

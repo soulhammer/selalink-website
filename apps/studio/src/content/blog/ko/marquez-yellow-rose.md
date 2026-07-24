@@ -1,17 +1,25 @@
 ---
-formatVersion: 4
 title: "노벨 작가의 책상 위 비밀: 마르케스의 노란 장미 창작 루틴"
 description: "『백년 동안의 고독』의 작가 가브리엘 가르시아 마르케스가 매일 아침 책상 위에 노란 장미를 둔 이유. 시각적 리추얼이 뇌의 이완을 돕고 창의력을 자극하는 과학적 원리를 규명합니다."
-pubDate: "2026-02-06"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["위인 습관", "가브리엘 가르시아 마르케스", "창의성", "영감", "마음챙김"]
-heroImage: "/images/blog/marquez_yellow_rose.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/marquez_yellow_rose.png"
 app: "buildself"
-authority: "마르케스 공식 전기 및 뉴욕 대학교(NYU) 인지 융합 신경학 연구"
-updatedDate: "2026-02-06"
+formatVersion: 4
+authority: "Marquez Yellow Rose 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+steps:
+  - name: "자신만의 시각적 환경 트리거 설정"
+    text: "자신에게 정서적 안정과 집중 의지를 불러일으키는 단순한 시각 매체(생화, 반려식물, 미니멀한 그림 등)를 1개 선정합니다."
+  - name: "업무 및 창작 돌입 전 정위치 배치"
+    text: "매일 집중적인 두뇌 활동이나 창작 작업을 개시하기 직전, 선정된 매체를 책상 위 눈길이 닿는 일정한 위치에 올려둡니다."
+  - name: "오브젝트 응시 후 자연스러운 이완 집중"
+    text: "오브젝트를 가볍게 10~20초 동안 바라보며 호흡을 가다듬고, 뇌의 인지 상태를 편안하고 몰입 가능한 모드로 서서히 유도합니다."
 faqs:
   - question: "반드시 노란 장미여야 하나요?"
     answer: "아닙니다. 마르케스에게 노란 장미는 심리적 편안함을 주는 개인적 매개체였으며, 현대인은 초록 화분, 수선화 등 자신이 편안하게 느끼는 대상을 자유롭게 선택하면 됩니다."
+
 ---
 
 "내 책상 위에 노란 장미가 없으면 일은 한 발짝도 나아가지 않는다." 🌹
@@ -26,27 +34,25 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 가브리엘 가르시아 마르케스의 인터뷰와 공식 전기에 나타난 고증 내용 및 시각적 색채 정보가 뇌의 감정 상태와 아이디어 융합 기능에 미치는 뉴욕 대학교(NYU) 신경과학 연구 결과를 기반으로 작성되었습니다.
+      본 콘텐츠는 <strong>Marquez Yellow Rose 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 marquez-yellow-rose 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 시각적 의식이 창의력과 안정감을 주는 이유
+## 시각적 의식이 창의력과 안정감을 주는 이유
 
 특정한 색상이나 자연물(노란 장미)을 시각적으로 고정 배치하고 관찰하는 리추얼은 뇌에 '안전하고 정서적으로 편안한 신호'를 보내 줍니다. 이완 상태에 접어든 뇌는 인지 활동과 집중력을 증진시키는 <strong>알파파(Alpha Waves)</strong>를 방출하게 되며, 이는 의도하지 않은 자유로운 생각의 연결을 가속화하여 창조적이고 입체적인 발상력을 고도화시킵니다.
 
-특히 긍정적인 감정을 환기하는 특수한 시각 단서(Visual Cue)는 편도체의 과활동을 잠재우고 도파민 수치를 적절하게 조절하여, 작업 개시 시점에서 발생하는 지연 행동이나 긴장에 기인한 뇌의 브레이크 현상을 현저히 줄여줍니다.
-
 ---
 
-## 2. 현대인을 위한 3단계 실천 루틴
+## 주의사항 및 팁
 
-지속적인 영감 충전과 심리적 몰입 상태를 유도할 수 있는 구체적인 마르케스식 3단계 창작 의식 루틴을 제안합니다.
+다만 책상 위에 너무 현란하거나 시선을 과하게 빼앗는 복잡한 장식물을 배치하는 것은 피해야 합니다. 색상이 과하면 오히려 뇌에 <strong>시각적 피로도</strong>를 유발하고 집중에 해가 되기 때문에, 단순하면서도 명확한 단 하나의 오브젝트를 선정하는 미니멀리즘 접근이 필요합니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -74,33 +80,17 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">오브젝트 응시 후 자연스러운 이완 집중</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    오브젝트를 가볍게 -초 동안 바라보며 호흡을 가다듬고, 뇌의 인지 상태를 편안하고 몰입 가능한 모드로 서서히 유도합니다.
+    오브젝트를 가볍게 10~20초 동안 바라보며 호흡을 가다듬고, 뇌의 인지 상태를 편안하고 몰입 가능한 모드로 서서히 유도합니다.
   </p>
 </div>
 
----
-
-## 3. 성공적인 루틴 작동을 위한 가이드
-
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">시각적 단순성을 유지하는 것이 중요합니다</strong>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      다만 책상 위에 너무 현란하거나 시선을 과하게 빼앗는 복잡한 장식물을 배치하는 것은 피해야 합니다. 색상이 과하면 오히려 뇌에 <strong>시각적 피로도</strong>를 유발하고 집중에 해가 되기 때문에, 단순하면서도 명확한 단 하나의 오브젝트를 선정하는 미니멀리즘 접근이 필요합니다.
-    </p>
-  </div>
-</div>
-
----
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📍</span> 자주 묻는 질문 (FAQ)
+    <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>반드시 노란 장미여야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

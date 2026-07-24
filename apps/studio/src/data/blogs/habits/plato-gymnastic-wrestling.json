@@ -1,218 +1,72 @@
 {
   "plato-gymnastic-wrestling": {
     "title": {
-      "ko": "이데아를 찾기 전 어깨를 단련한 철학자? 플라톤의 고강도 신체 예열법",
-      "en": "The Philosopher Who Trained His Shoulders Before Searching for Ideas? Plato's High-Intensity Physical Warm-up Method",
-      "ja": "イデアを探求する前に肩を鍛えた哲学者？プラトンの高強度身体ウォーミングアップ法",
-      "zh": "在探求理型前先锤炼双肩的哲学家？柏拉图的高强度身体唤醒法",
-      "es": "¿El filósofo que entrenó sus hombros antes de buscar el mundo de las ideas? El método de calentamiento físico de alta intensidad de Platón",
-      "fr": "Le philosophe qui se musclait les épaules avant de chercher l'Idée ? La méthode de préparation physique intensive de Platon",
-      "de": "Der Philosoph, der seine Schultern trainierte, bevor er nach den Ideen suchte? Platons hochintensives körperliches Aufwärmen",
-      "pt": "O filósofo que treinou os ombros antes de buscar o mundo das ideias? O método de aquecimento físico de alta intensidade de Platão",
-      "id": "Filsuf yang Melatih Bahunya Sebelum Mencari Dunia Ide? Metode Pemanasan Fisik Intensitas Tinggi Plato"
+      "ko": "이데아를 찾기 전 어깨를 단련한 철학자? 플라톤의 고강도 신체 예열법"
     },
     "description": {
-      "ko": "고대 그리스의 철학자 플라톤. 본명이 아닌 '넓은 어깨'라는 레슬러 시절 별명으로 불렸던 그가 매일 아침 지적 토론 전에 격렬하게 몸을 연마했던 뇌 과학적 원리와 현대적 홈 트레이닝 적용법을 알아봅니다.",
-      "en": "Plato, the great Greek philosopher who was also an avid wrestler. Discover how his morning high-intensity resistance training fueled his abstract philosophical thinking.",
-      "ja": "古代ギリシャの哲学者プラトン。本名ではなく「広い肩」を意味するレスラー時代の名で呼ばれた彼が、毎朝の知的な議論の前に身体を鍛え上げた脳科学的メカニズムと、現代的なホームトレーニング法を紹介します。",
-      "zh": "古希腊哲学家柏拉图。以摔跤手时期的绰号“宽肩膀”闻名于世的他，每天清晨在智力辩论前疯狂打熬力气的脑科学原理以及现代居家健身应用指南。",
-      "es": "Platón, el gran filósofo griego que también fue un luchador ávido. Descubra cómo su entrenamiento matutino de alta intensidad impulsaba su pensamiento abstracto.",
-      "fr": "Platon, le grand philosophe grec qui était aussi un lutteur passionné. Découvrez comment sa préparation physique matinale stimulait sa pensée philosophique abstraite.",
-      "de": "Platon, der große griechische Philosoph, der auch ein leidenschaftlicher Ringer war. Erfahren Sie, wie sein hochintensives Ringer-Training sein abstraktes Denken anregte.",
-      "pt": "Platão, o grande filósofo grego que também foi um lutador ávido. Descubra como o seu treino de alta intensidade impulsionava o seu pensamento abstrato.",
-      "id": "Plato, filsuf Yunani besar yang juga seorang pegulat ulung. Pelajari bagaimana latihan ketahanan intensitas tinggi di pagi hari memicu pemikiran filosofisnya."
+      "ko": "고대 그리스의 철학자 플라톤. 본명이 아닌 '넓은 어깨'라는 레슬러 시절 별명으로 불렸던 그가 매일 아침 지적 토론 전에 격렬하게 몸을 연마했던 뇌 과학적 원리와 현대적 홈 트레이닝 적용법을 알아봅니다."
     },
     "authority": {
-      "ko": "플라톤 대화편 '국가(Republic)' 및 Journal of Applied Physiology 학술지",
-      "en": "Plato's Dialogue 'Republic' & Journal of Applied Physiology",
-      "ja": "プラトン対話篇「国家」および学術誌「Journal of Applied Physiology」",
-      "zh": "柏拉图对话录《国家篇》与学术期刊《Journal of Applied Physiology》",
-      "es": "Diálogo de Platón 'República' y revista Journal of Applied Physiology",
-      "fr": "Dialogue de Platon 'La République' & revue Journal of Applied Physiology",
-      "de": "Platons Dialog 'Staat' & Fachzeitschrift Journal of Applied Physiology",
-      "pt": "Diálogo de Platão 'A República' & revista Journal of Applied Physiology",
-      "id": "Dialog Plato 'Republic' & Jurnal Journal of Applied Physiology"
+      "ko": "플라톤 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "서양 철학의 거대한 주춧돌을 놓고 이데아론을 주창하며 인류 역사상 최초의 고등 교육 기관인 '아카데메이아'를 설립한 위대한 철학자 플라톤. 우주의 본질을 파고들었던 그의 지치지 않는 사유와 깊은 정신력은 과연 어디서 출발했을까요? 🤼\n\n많은 이들이 플라톤을 정적인 서재의 사색가로만 상상하지만, 사실 '플라톤'이라는 이름은 그의 실명이 아니라 그리스어로 '넓은 어깨'를 뜻하는 레슬링 무대에서의 별명이었습니다. 그는 올림피아 제전에 출전할 정도로 뛰어난 레슬링 실력을 자랑했으며, 평생 동안 매일 아침 지적인 토론을 시작하기 전, 온몸에 올리브 오일을 바르고 흙먼지가 날리는 체육관에서 격렬한 레슬링과 근력 운동을 실행했습니다. 플라톤은 육체가 극한의 물리적 저항을 경험하며 단련될 때 비로소 뇌의 신경망이 고도의 추상적인 이상 세계를 논의할 준비를 마친다고 보았습니다.\n\n오늘 BuildSelf에서는 플라톤이 실천했던 '고강도 신체 예열' 루틴의 생리학적 메커니즘과 현대인을 위한 15분 홈 트레이닝 적용법을 다룹니다.",
-      "en": "Plato, the intellectual giant who laid the foundation of Western philosophy and established 'Academeia.' Where did his tireless thinking and mental stamina come from? 🤼\n\nWhile many imagine Plato as a static thinker, the name 'Plato' was actually a nickname meaning 'broad shoulders' from his wrestling days. He was an elite wrestler and started every morning with intense physical training. Plato believed that only when the body experiences extreme physical resistance can the brain prepare to contemplate abstract realms.\n\nToday, BuildSelf covers the physiological mechanisms behind Plato's 'high-intensity warm-up' routine and how to apply a 15-minute home workout version.",
-      "ja": "西洋哲学の礎を築き、イデア論を提唱して人類初の高等教育機関「アカデメイア」を設立した偉大な哲学者プラトン。宇宙の本質に迫る彼の旺盛な思索と強靭な精神力は、一体どこから生まれたのでしょうか。 🤼\n\n多くの人はプラトンを書斎にこもる静的な哲学者だと考えがちですが、実は「プラトン」という名は本名ではなく、ギリシャ語で「広い肩」を意味するレスラー時代のニックネームでした。彼はオリンピア祭典に出場するほど優れたレスラーであり、生涯を通じて毎朝、知的な対話を始める前に体にオイルを塗り、土埃が舞う体育館で激しいレスリングと筋力トレーニングを行いました。プラトンは、身体が強固な物理的抵抗を経験して鍛えられる時、初めて脳の神経網が高度な抽象概念を議論する準備を整えるのだと考えていました。\n\n今日のBuildSelfでは、プラトンが実践した「高強度身体準備」ルーティンの生理学的メカニズムと、現代人のための15分ホームトレーニング法を解説します。",
-      "zh": "奠定了西方哲学基石、主张理型论，并创立了人类历史上第一所高等教育机构“阿卡德米”的伟大哲学家柏拉图。他探索宇宙本质时那不知疲倦的思辨力与强大的精神力量，究竟源自何处？ 🤼\n\n许多人认为柏拉图只是坐在书房里冥想的学者，但实际上，“柏拉图”并非他的本名，而是源于希腊语中意为“宽肩膀”的摔跤场绰号。他是一位曾参加过运动会的高水平摔跤手，一生都坚持在每天早晨开始哲学思辨前，在身上涂抹橄榄油，在尘土飞扬的竞技场中进行激烈的摔跤和力量训练。柏拉图坚信，只有肉体经受了极限的物理对抗阻力，大脑的理性思维神经网才做好了研讨抽象伊甸世界的准备。\n\n今天，BuildSelf 将为您深度剖析柏拉图“高强度身体唤醒”常规的运动生理学机制，并提供现代版15分钟居家力量健身应用方案。",
-      "es": "Platón, el gigante intelectual que sentó las bases de la filosofía occidental y fundó la 'Academia'. ¿De dónde venía su incansable pensamiento y resistencia mental? 🤼\n\nAunque muchos imaginan a Platón como un pensador estático, el nombre 'Platón' era en realidad un apodo que significaba 'hombros anchos' de sus días de luchador. Era un luchador de élite y comenzaba cada mañana con un intenso entrenamiento físico. Platón creía que solo cuando el cuerpo experimenta una resistencia física extrema, el cerebro se prepara para contemplar reinos abstractos.\n\nHoy, BuildSelf cubre los mecanismos fisiológicos detrás de la rutina de 'calentamiento de alta intensidad' de Platón y cómo aplicar una versión de entrenamiento en casa de 15 minutos.",
-      "fr": "Platon, le géant intellectuel qui a jeté les bases de la philosophie occidentale et fondé l'« Académie ». D'où venaient sa pensée infatigable et sa force mentale ? 🤼\n\nSi beaucoup imaginent Platon comme un penseur sédentaire, le nom « Platon » était en réalité un surnom signifiant « larges épaules » issu de ses années de lutteur. Athlète d'élite, il commençait chaque matin par un entraînement physique intense. Platon estimait que c'est seulement lorsque le corps affronte une résistance physique extrême que le cerveau est prêt à contempler l'abstrait.\n\nAujourd'hui, BuildSelf décrypte les mécanismes physiologiques derrière la routine de « préparation intensive » de Platon et comment adapter une version de 15 minutes chez soi.",
-      "de": "Platon, der intellektuelle Riese, der das Fundament der westlichen Philosophie legte und die 'Akademie' gründete. Woher stammten sein unermüdliches Denken und seine mentale Ausdauer? 🤼\n\nWährend viele Platon als statischen Denker sehen, war der Name 'Platon' eigentlich ein Spitzname, der 'breite Schultern' bedeutete. Er war ein hervorragender Ringer und begann jeden Morgen mit einem intensiven körperlichen Training. Platon glaubte, dass sich das Gehirn erst dann auf abstrakte Bereiche vorbereiten kann, wenn der Körper extremen physischen Widerstand erfährt.\n\nHeute befasst sich BuildSelf mit den physiologischen Mechanismen hinter Platons Routine und zeigt, wie man eine 15-minütige Heimtrainingsversion anwendet.",
-      "pt": "Platão, o gigante intelectual que lançou as bases da filosofia ocidental e fundou a 'Academia'. De onde vinha seu pensamento incansável e vigor mental? 🤼\n\nEmbora muitos imaginem Platão como um pensador estático, o nome 'Platão' era na verdade um apelido que significava 'ombros largos' dos seus dias de lutador. Ele era um lutador de elite e começava cada manhã com um treino físico intenso. Platão acreditava que apenas quando o corpo experimenta uma resistência física extrema o cérebro se prepara para contemplar o mundo das ideias.\n\nHoje, o BuildSelf aborda os mecanismos fisiológicos por trás da rotina de 'aquecimento de alta intensidade' de Platão e como aplicar uma versão de treino em casa de 15 minutos.",
-      "id": "Plato, raksasa intelektual yang meletakkan dasar filsafat Barat dan mendirikan 'Academeia.' Dari mana kekuatan berpikir dan stamina mentalnya berasal? 🤼\n\nMeskipun banyak yang mengira Plato adalah pemikir pasif, nama 'Plato' sebenarnya adalah julukan yang berarti 'bahu lebar' dari masa pegulatnya. Ia adalah pegulat elit dan memulai pagi dengan latihan fisik intens. Plato percaya bahwa hanya ketika tubuh mengalami resistensi fisik yang ekstrem, otak bersiap merenungkan hal abstrak.\n\nHari ini, BuildSelf mengupas mekanisme fisiologis di balik rutinitas 'pemanasan intensitas tinggi' Plato dan menerapkan versi latihan rumah 15 menit."
+      "ko": "서양 철학의 거대한 주춧돌을 놓고 이데아론을 주창하며 인류 역사상 최초의 고등 교육 기관인 '아카데메이아'를 설립한 위대한 철학자 플라톤. 우주의 본질을 파고들었던 그의 지치지 않는 사유와 깊은 정신력은 과연 어디서 출발했을까요? 🤼\n\n많은 이들이 플라톤을 정적인 서재의 사색가로만 상상하지만, 사실 '플라톤'이라는 이름은 그의 실명이 아니라 그리스어로 '넓은 어깨'를 뜻하는 레슬링 무대에서의 별명이었습니다. 그는 올림피아 제전에 출전할 정도로 뛰어난 레슬링 실력을 자랑했으며, 평생 동안 매일 아침 지적인 토론을 시작하기 전, 온몸에 올리브 오일을 바르고 흙먼지가 날리는 체육관에서 격렬한 레슬링과 근력 운동을 실행했습니다. 플라톤은 육체가 극한의 물리적 저항을 경험하며 단련될 때 비로소 뇌의 신경망이 고도의 추상적인 이상 세계를 논의할 준비를 마친다고 보았습니다.\n\n오늘 포스트에서는 플라톤이 실천했던 '고강도 신체 예열' 루틴의 생리학적 메커니즘과 현대인을 위한 15분 홈 트레이닝 적용법을 다룹니다."
     },
     "whyTitle": {
-      "ko": "저항 운동이 일으키는 뇌 혈류 극대화와 BDNF 방출 효과",
-      "en": "Maximized Cerebral Blood Flow and BDNF Release from Resistance Training",
-      "ja": "抵抗運動がもたらす脳血流量の最大化とBDNF放出効果",
-      "zh": "抗阻运动引起的脑血流最大化与BDNF释放效应",
-      "es": "Flujo sanguíneo cerebral maximizado y liberación de BDNF por entrenamiento de resistencia",
-      "fr": "Flux sanguin cérébral maximisé et libération de BDNF par l'entraînement de résistance",
-      "de": "Maximierte Gehirndurchblutung und BDNF-Freisetzung durch Krafttraining",
-      "pt": "Fluxo sanguíneo cerebral maximizado e liberação de BDNF por treino de resistência",
-      "id": "Aliran Darah Otak Maksimal dan Pelepasan BDNF dari Latihan Ketahanan"
+      "ko": "저항 운동이 일으키는 뇌 혈류 극대화와 BDNF 방출 효과"
     },
     "whyDesc": {
-      "ko": "현대 운동 생리학 및 인지과학 연구에 따르면, 스쿼트나 팔굽혀펴기 같은 고강도의 신체 저항 운동(Resistance Training)은 대뇌 피질로 가는 혈류량과 산소 포화도를 즉각적으로 끌어올립니다. 이 생리적 각성은 뇌신경 세포의 생성과 시냅스 가소성을 촉진하는 핵심 물질인 뇌유래신경영양인자(BDNF)의 방출을 급격히 유도합니다. 동시에 신경 전달 물질인 도파민과 노르에피네프린을 대량으로 분비시켜, 운동 직후 뇌가 최상 수준의 장기 기억 형성 및 고난도 추상적 논리 연산에 집중할 수 있는 환경을 만듭니다.",
-      "en": "According to modern exercise physiology and cognitive science, high-intensity resistance training like squats or push-ups immediately increases cerebral blood flow and oxygen saturation. This physical arousal triggers a surge in Brain-Derived Neurotrophic Factor (BDNF), a key protein for neurogenesis and synaptic plasticity. It also floods the brain with dopamine and norepinephrine, establishing an optimal neural environment for high-level abstract logic and memory consolidation.",
-      "ja": "現代の運動生理学および認知科学の研究によると、スクワットや腕立て伏せなどの高強度の抵抗運動（筋力トレーニング）は、大脳皮質への血流量と酸素飽和度を即座に高めます。この生理的な覚醒は、脳神経細胞の生成やシナプス可塑性を促進する核心物質である脳由来神経栄養因子（BDNF）の放出を急激に促します。同時に、神経伝達物質であるドーパミンとノルアドレナリンを大量に分泌させ、運動直後の脳が高度な抽象的思考や論理演算に深く集中できる状態を作ります。",
-      "zh": "现代运动生理学与认知科学研究表明，深蹲、俯卧撑等高强度抗阻训练能使流向大类皮层的血液流量及氧气饱和度瞬间飙升。这种生理性唤醒能急剧诱导脑源性神经营养因子(BDNF)的释放，该因子是促进脑神经细胞生成和突触可塑性的核心物质。同时，伴随多巴胺和去甲肾上腺素的大量分泌，使运动后的大脑处于进行高难度抽象逻辑运算及形成长期记忆的极佳状态。",
-      "es": "Según la fisiología del ejercicio, el entrenamiento de resistencia de alta intensidad aumenta de inmediato el flujo sanguíneo cerebral y la oxigenación. Esto desencadena la liberación de BDNF, proteína clave para la neurogenesis y plasticidad. Además, inunda el cerebro con dopamina y norepinefrina, optimizando el razonamiento lógico.",
-      "fr": "Selon la physiologie de l'exercice, l'entraînement de résistance intense augmente immédiatement le flux sanguin cérébral et l'oxygénation. Cela déclenche la libération de BDNF, protéine clé pour la neurogenèse et la plasticité. De plus, il inonde le cerveau de dopamine et de norépinéphrine, favorisant le raisonnement logique.",
-      "de": "Laut Trainingsphysiologie erhöht Krafttraining die Durchblutung des Gehirns und die Sauerstoffsättigung. Dies löst die Freisetzung von BDNF aus, einem Schlüsselprotein für Neurogenese und Plastizität. Zudem werden Dopamin und Noradrenalin ausgeschüttet, was das abstrakte Denken fördert.",
-      "pt": "Segundo a fisiologia do exercício, o treino de resistência aumenta imediatamente o fluxo sanguíneo cerebral e a oxigenação. Isso desencadeia a liberação de BDNF, proteína essencial para a neurogênese e plasticidade. Também inunda o cérebro com dopamina e norepinefrina, otimizando o raciocínio lógico.",
-      "id": "Menurut fisiologi olahraga, latihan ketahanan intensitas tinggi meningkatkan aliran darah otak dan saturasi oksigen. Latihan ini memicu pelepasan Brain-Derived Neurotrophic Factor (BDNF), protein kunci untuk plastisitas sinaptik, serta pelepasan dopamin dan norepinefrin."
+      "ko": "현대 운동 생리학 및 인지과학 연구에 따르면, 스쿼트나 팔굽혀펴기 같은 고강도의 신체 저항 운동(Resistance Training)은 대뇌 피질로 가는 혈류량과 산소 포화도를 즉각적으로 끌어올립니다. 이 생리적 각성은 뇌신경 세포의 생성과 시냅스 가소성을 촉진하는 핵심 물질인 뇌유래신경영양인자(BDNF)의 방출을 급격히 유도합니다. 동시에 신경 전달 물질인 도파민과 노르에피네프린을 대량으로 분비시켜, 운동 직후 뇌가 최상 수준의 장기 기억 형성 및 고난도 추상적 논리 연산에 집중할 수 있는 환경을 만듭니다."
     },
     "cautionTitle": {
-      "ko": "부상 방지 및 학습 진입 타이밍 조율 팁",
-      "en": "Injury Prevention and Learning Entry Timing Tips",
-      "ja": "ケガの予防と学習開始のタイミングを調整するヒント",
-      "zh": "防范运动损伤与进入工作状态的时机掌控",
-      "es": "Prevención de lesiones y consejos para el momento de inicio de tareas",
-      "fr": "Prévention des blessures et conseils sur le moment idéal pour étudier",
-      "de": "Tipps zur Verletzungsprävention und zum richtigen Timing beim Lernen",
-      "pt": "Prevenção de lesões e dicas para o momento de início de tarefas",
-      "id": "Pencegahan Cedera dan Tips Pengaturan Waktu Mulai Belajar"
+      "ko": "부상 방지 및 학습 진입 타이밍 조율 팁"
     },
     "cautionDesc": {
-      "ko": "아침 기상 직후 몸이 풀리지 않은 상태에서 갑자기 고강도 운동을 시작하면 관절과 인대에 무리가 갈 수 있습니다. 따라서 본격적인 맨몸 운동을 시작하기 전 가벼운 스트레칭과 제자리걸음으로 관절을 먼저 예열하세요. 또한 운동이 끝난 직후 15분 이상 휴식을 지체하면 운동으로 얻은 뇌 혈류 최고점의 혜택이 상실되므로, 호흡이 가볍게 정돈된 직후(5분 이내) 바로 가장 복잡한 두뇌 작업에 진입하는 것이 좋습니다.",
-      "en": "Starting high-intensity exercise right after waking up without warming up can strain joints and ligaments. Perform light stretching and marching in place first. Also, if you delay study for more than 15 minutes after exercise, the peak brain blood flow benefits will decline. Transition to complex cognitive tasks within 5 minutes after catching your breath.",
-      "ja": "朝の起床直後に体がほぐれていない状態で突然激しい運動を行うと、関節や靭帯に負担がかかる恐れがあります。そのため、本格的な筋トレを始める前に、軽いストレッチやその場歩きで関節を温めてください。また、運動終了後15分以上何もしないと、運動によって高まった脳血流の恩恵が失われてしまうため、呼吸が整った直後（5分以内）に最も難易度の高い頭脳作業に入るのがベストです。",
-      "zh": "清晨起床后在身体僵硬的状态下突然进行高强度运动，极易损伤关节和韧带。在正式开始自重训练前，务必通过拉伸和原地踏步来预热关节。此外，如果运动结束后拖延超过15分钟才开始学习，运动带来的脑血流峰值红利将大打折扣，建议在呼吸平复后（5分钟内）立即投入最复杂的脑力劳动中。",
-      "es": "Ejercitarse intensamente al despertar sin calentar puede dañar articulaciones. Haga estiramientos leves primero. Además, si retrasa la tarea más de 15 minutos tras el ejercicio, perderá los beneficios del flujo sanguíneo cerebral. Empiece sus labores mentales dentro de los 5 minutos posteriores a recuperar el aliento.",
-      "fr": "S'entraîner intensément au réveil sans s'échauffer peut blesser les articulations. Étirez-vous d'abord. De plus, si vous attendez plus de 15 minutes après l'effort, vous perdrez les bénéfices du flux sanguin cérébral. Attaquez vos tâches mentales dans les 5 minutes après avoir repris votre souffle.",
-      "de": "Ein intensives Training ohne Aufwärmen kann Gelenke belasten. Dehnen Sie sich zuerst. Wenn Sie mit dem Lernen länger als 15 Minuten nach dem Training warten, sinkt der Nutzen der Durchblutung. Beginnen Sie innerhalb von 5 Minuten nach dem Durchatmen.",
-      "pt": "Exercitar-se intensamente ao acordar sem aquecer pode lesionar as articulações. Faça alongamentos leves primeiro. Além disso, se adiar a tarefa por mais de 15 minutos após o exercício, perderá os benefícios do fluxo sanguíneo. Comece suas tarefas mentais em até 5 minutos após recuperar o fôlego.",
-      "id": "Memulai olahraga berat tepat setelah bangun tidur tanpa pemanasan dapat merusak sendi. Lakukan peregangan ringan terlebih dahulu. Jika Anda menunda belajar lebih dari 15 menit setelah olahraga, puncak manfaat aliran darah akan menurun. Mulailah belajar dalam 5 menit setelah napas stabil."
+      "ko": "아침 기상 직후 몸이 풀리지 않은 상태에서 갑자기 고강도 운동을 시작하면 관절과 인대에 무리가 갈 수 있습니다. 따라서 본격적인 맨몸 운동을 시작하기 전 가벼운 스트레칭과 제자리걸음으로 관절을 먼저 예열하세요. 또한 운동이 끝난 직후 15분 이상 휴식을 지체하면 운동으로 얻은 뇌 혈류 최고점의 혜택이 상실되므로, 호흡이 가볍게 정돈된 직후(5분 이내) 바로 가장 복잡한 두뇌 작업에 진입하는 것이 좋습니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "5분 스트레칭 및 기초 관절 관류 예열",
-          "en": "5-Minute Stretch and Joint Warm-up",
-          "ja": "5分間のストレッチと関節の準備運動",
-          "zh": "5分钟关节拉伸与热身",
-          "es": "Estiramiento de 5 minutos y calentamiento de articulaciones",
-          "fr": "Étirement de 5 minutes et échauffement des articulations",
-          "de": "5-minütiges Dehnen und Aufwärmen der Gelenke",
-          "pt": "Alongamento de 5 minutos e aquecimento das articulações",
-          "id": "Peregangan dan Pemanasan Sendi 5 Menit"
+          "ko": "5분 스트레칭 및 기초 관절 관류 예열"
         },
         "text": {
-          "ko": "기상 직후 조용한 스트레칭 매트를 깔고, 손목, 발목, 목, 허리를 돌려주며 관절 가동 범위를 활성화합니다. 몸에 열을 가볍게 올려 본격적인 고강도 운동 중에 발생할 수 있는 관절 부상을 차단하는 단계입니다.",
-          "en": "Right after waking, lay down a yoga mat and roll your wrists, ankles, neck, and waist to activate your joints. This lightly warms up the body to prevent injuries during subsequent workouts.",
-          "ja": "起床後すぐにヨガマットを敷き、手首、足首、首、腰を回して関節の可動範囲を広げます。体に軽く熱を通し、この後の激しい運動中に起こり得る関節のケガを防ぐステップです。",
-          "zh": "起床后立即铺开瑜伽垫，转动腕关节、踝关节、颈部和腰部，恢复关节的可动范围。让身体微微发热，以此防范接下来高强度运动中可能发生的关节扭伤。",
-          "es": "Al despertar, use una esterilla de yoga y rote muñecas, tobillos, cuello y cintura. Esto calienta el cuerpo para evitar lesiones durante el entrenamiento intenso.",
-          "fr": "Au réveil, étalez un tapis de yoga et faites des cercles avec vos poignets, chevilles, cou et taille. Cela réchauffe le corps pour éviter les blessures durant l'effort.",
-          "de": "Rollen Sie Handgelenke, Knöchel, Nacken und Hüfte auf einer Gymnastikmatte. Dies wärmt den Körper auf, um Verletzungen beim nachfolgenden Training zu vermeiden.",
-          "pt": "Ao acordar, use um tapete de ioga e rotacione punhos, tornozelos, pescoço e cintura. Isso aquece o corpo para evitar lesões durante o treino intenso.",
-          "id": "Tepat setelah bangun tidur, lakukan peregangan pergelangan tangan, kaki, leher, dan pinggang di atas matras. Ini memanaskan tubuh untuk mencegah cedera."
+          "ko": "기상 직후 조용한 스트레칭 매트를 깔고, 손목, 발목, 목, 허리를 돌려주며 관절 가동 범위를 활성화합니다. 몸에 열을 가볍게 올려 본격적인 고강도 운동 중에 발생할 수 있는 관절 부상을 차단하는 단계입니다."
         }
       },
       {
         "name": {
-          "ko": "10분 고강도 맨몸 저항성 운동",
-          "en": "10-Minute High-Intensity Bodyweight Resistance",
-          "ja": "10分間の高強度自重トレーニング",
-          "zh": "10分钟高强度自重抗阻训练",
-          "es": "10 minutos de resistencia con el peso corporal de alta intensidad",
-          "fr": "10 minutes de musculation au poids du corps intensive",
-          "de": "10-minütiges hochintensives Eigengewichtstraining",
-          "pt": "10 minutos de treino de resistência de alta intensidade com peso corporal",
-          "id": "Latihan Ketahanan Beban Tubuh Intensitas Tinggi 10 Menit"
+          "ko": "10분 고강도 맨몸 저항성 운동"
         },
         "text": {
-          "ko": "스쿼트, 팔굽혀펴기, 또는 버피 테스트 등 대근육군을 동원하는 저항 운동을 10분간 연속해서 실행합니다. 숨이 가쁘게 차오르고 심박수가 급격히 상승할 정도의 높은 강도를 인위적으로 유지하는 것이 핵심입니다.",
-          "en": "Perform resistance exercises that engage large muscle groups, such as squats, push-ups, or burpees, for 10 minutes. The key is to maintain a high intensity that rapidly increases your heart rate.",
-          "ja": "スクワットや腕立て伏せ、バーピージャンプなど、大きな筋肉群を使用する筋力運動を10分間連続で行います。息が上がって心拍数が急上昇するほどの強度を意識的に維持することがポイントです。",
-          "zh": "连续进行10分钟深蹲、俯卧撑或波比跳等动用大肌肉群的抗阻运动。核心是主动维持高强度，使呼吸急促、心率快速飙升。",
-          "es": "Realice ejercicios que involucren grandes grupos musculares, como sentadillas o flexiones, durante 10 minutos. La clave es mantener una alta intensidad que eleve el ritmo cardíaco.",
-          "fr": "Enchaînez des exercices sollicitant les grands groupes musculaires, comme des squats ou des pompes, pendant 10 minutes. L'essentiel est de maintenir une intensité élevée pour monter le rythme cardiaque.",
-          "de": "Führen Sie 10 Minuten lang Übungen aus, die große Muskelgruppen ansprechen, wie Kniebeugen oder Liegestütze. Wichtig ist eine Intensität, die den Puls schnell ansteigen lässt.",
-          "pt": "Realize exercícios para grandes grupos musculares, como agachamentos ou flexões, por 10 minutos. O segredo é manter a alta intensidade para elevar os batimentos cardíacos.",
-          "id": "Lakukan olahraga yang melibatkan otot besar, seperti squat, push-up, atau burpee, selama 10 menit. Kuncinya adalah mempertahankan intensitas yang meningkatkan detak jantung."
+          "ko": "스쿼트, 팔굽혀펴기, 또는 버피 테스트 등 대근육군을 동원하는 저항 운동을 10분간 연속해서 실행합니다. 숨이 가쁘게 차오르고 심박수가 급격히 상승할 정도의 높은 강도를 인위적으로 유지하는 것이 핵심입니다."
         }
       },
       {
         "name": {
-          "ko": "호흡 조율 후 즉각적인 고난도 사유 진입",
-          "en": "Catching Breath and Immediate Entry to Complex Cognitive Work",
-          "ja": "呼吸を整えて直ちに難度の高い思考作業に入力",
-          "zh": "平复呼吸并立即投入高难度思考工作",
-          "es": "Recuperar el aliento e inicio inmediato de tareas complejas",
-          "fr": "Reprise de souffle et démarrage immédiat des tâches complexes",
-          "de": "Durchatmen und sofortiger Einstieg in komplexe Denkarbeit",
-          "pt": "Recuperar o fôlego e início imediato de tarefas complexas",
-          "id": "Tenangkan Napas dan Langsung Mulai Berpikir Rumit"
+          "ko": "호흡 조율 후 즉각적인 고난도 사유 진입"
         },
         "text": {
-          "ko": "운동을 마치고 숨이 평온해질 때까지 심호흡을 하며 2~3분간 앉아 쉽니다. 호흡이 정돈되는 즉시 스마트폰을 확인하지 않고, 오늘 다루어야 할 가장 추상적이고 복잡한 코딩, 설계, 혹은 학습 작업을 펼쳐 몰두합니다.",
-          "en": "Sit and rest for 2 to 3 minutes, taking deep breaths until your breathing stabilizes. As soon as you catch your breath, without checking your phone, immediately open and tackle your most abstract and complex coding or design work.",
-          "ja": "運動を終えたら、呼吸が落ち着くまで深呼吸をしながら2〜3分間座って休みます。呼吸が整ったらすぐにスマートフォンを見ず、今日行うべき最も抽象的で複雑なプログラミング、設計、または学習の作業を広げて没頭します。",
-          "zh": "运动结束后静坐2-3分钟，进行深呼吸直到呼吸平稳。一旦平复下来，绝不要看手机，立刻翻开今天需要处理的最具抽象性、最复杂的代码编写、架构设计或学习任务，全身心沉浸进去。",
-          "es": "Descanse 2 o 3 minutos respirando profundo hasta estabilizarse. Al recuperar el aliento, sin mirar el móvil, abra de inmediato y aborde su tarea de programación o diseño más compleja.",
-          "fr": "Reposez-vous 2 à 3 minutes en respirant profondément. Dès que le souffle revient, sans regarder votre téléphone, attaquez immédiatement votre tâche de programmation ou d'étude la plus complexe.",
-          "de": "Ruhen Sie sich 2 bis 3 Minuten lang aus und atmen Sie tief durch. Sobald sich Ihr Atem beruhigt hat, beginnen Sie sofort mit Ihrer komplexesten Programmier- oder Entwurfsarbeit.",
-          "pt": "Descanse de 2 a 3 minutos respirando fundo. Ao recuperar o fôlego, sem olhar o celular, inicie imediatamente o seu trabalho de programação ou design mais complexo.",
-          "id": "Duduk dan istirahat selama 2 hingga 3 menit. Begitu napas tenang, tanpa menyentuh ponsel, langsung buka tugas pemrograman atau analisis Anda yang paling rumit."
+          "ko": "운동을 마치고 숨이 평온해질 때까지 심호흡을 하며 2~3분간 앉아 쉽니다. 호흡이 정돈되는 즉시 스마트폰을 확인하지 않고, 오늘 다루어야 할 가장 추상적이고 복잡한 코딩, 설계, 혹은 학습 작업을 펼쳐 몰두합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "관절이 약하거나 저항 운동을 전혀 해보지 않은 초보자도 가능한가요?",
-          "en": "Can beginners or people with weak joints practice this routine?",
-          "ja": "関節が弱い人や、筋トレをしたことがない初心者でも実践できますか？",
-          "zh": "关节较弱或从无健身基础的初学者也可以实践这个常规吗？",
-          "es": "¿Pueden practicar esta rutina los principiantes o personas con articulaciones débiles?",
-          "fr": "Les débutants ou personnes aux articulations fragiles peuvent-ils suivre cette routine ?",
-          "de": "Können Anfänger oder Personen mit schwachen Gelenken diese Routine anwenden?",
-          "pt": "Iniciantes ou pessoas com articulações fracas podem praticar esta rotina?",
-          "id": "Apakah pemula atau orang dengan sendi lemah bisa melakukan rutinitas ini?"
+          "ko": "관절이 약하거나 저항 운동을 전혀 해보지 않은 초보자도 가능한가요?"
         },
         "answer": {
-          "ko": "네, 무리하게 무거운 역기를 들거나 부상 위험이 큰 격렬한 운동을 할 필요가 없습니다. 자신의 체력에 맞춰 벽 짚고 팔굽혀펴기, 슬로우 스쿼트, 혹은 가벼운 플랭크 등으로 강도를 낮춰 실천해도 좋습니다. 뇌 혈류를 끌어올리기 위한 생리적 지표는 '숨이 가빠지고 가벼운 땀이 날 정도의 강도'이므로, 부상이 없는 안전한 한도 내에서 강도를 조율하세요.",
-          "en": "Yes, there is no need to lift heavy weights. You can scale down the exercises to wall push-ups, bodyweight slow squats, or planks. The physiological trigger for brain blood flow is reaching a state where your breathing elevates and you sweat lightly, so adjust the intensity to keep it safe.",
-          "ja": "はい、重いバーベルを持ち上げたり、ケガのリスクが高い激しい運動を行う必要はありません。体力に合わせて、壁を使った腕立て伏せ、スロースクワット、軽いプランクなどで強度を下げて行っても結構です。脳の血流を増やすための生理的指標は「息が上がって軽い汗ばむ程度の強度」ですので、安全な範囲で調整してください。",
-          "zh": "是的, 并不需要去挑战重负荷举重或极易受伤的危险动作。可以根据个人体能, 降阶执行扶墙俯卧撑、慢速深蹲或基础平板支撑。激活脑血流的生理指标是“呼吸变急促、身体微微出汗”，因此请在确保安全的范畴内合理调节运动强度。",
-          "es": "Sí, no es necesario levantar pesas pesadas. Puede adaptar los ejercicios a flexiones en pared o sentadillas lentas. El indicador fisiológico es alcanzar un estado donde su respiración se eleve y sude ligeramente, por lo que debe ajustar la intensidad para mantenerse seguro.",
-          "fr": "Oui, il n'est pas nécessaire de soulever des poids lourds. Vous pouvez adapter les mouvements avec des pompes contre le mur ou des squats lents. L'indicateur biologique est une respiration plus rapide et une légère transpiration, ajustez l'intensité à votre niveau.",
-          "de": "Ja, es ist nicht nötig, schwere Gewichte zu heben. Sie können die Übungen anpassen (z. B. Liegestütze an der Wand). Der biologische Auslöser ist ein Zustand, in dem der Atem schneller wird und Sie leicht schwitzen. Passen Sie die Intensität an.",
-          "pt": "Sim, não é necessário levantar pesos pesados. Você pode adaptar os exercícios para flexões na parede ou agachamentos lentos. O indicador fisiológico é atingir um estado em que a respiração acelere e você sue levemente, ajustando a intensidade para sua segurança.",
-          "id": "Ya, tidak perlu mengangkat beban berat. Anda dapat menurunkan intensitas olahraga dengan push-up di dinding, slow squat, atau plank. Kunci utama aliran darah otak adalah napas yang terengah-engah dan berkeringat tipis."
+          "ko": "네, 무리하게 무거운 역기를 들거나 부상 위험이 큰 격렬한 운동을 할 필요가 없습니다. 자신의 체력에 맞춰 벽 짚고 팔굽혀펴기, 슬로우 스쿼트, 혹은 가벼운 플랭크 등으로 강도를 낮춰 실천해도 좋습니다. 뇌 혈류를 끌어올리기 위한 생리적 지표는 '숨이 가빠지고 가벼운 땀이 날 정도의 강도'이므로, 부상이 없는 안전한 한도 내에서 강도를 조율하세요."
         }
       },
       {
         "question": {
-          "ko": "근력 운동 대신 가벼운 조깅이나 달리기 같은 유산소 운동으로 대체해도 되나요?",
-          "en": "Can I replace resistance training with cardio like jogging or running?",
-          "ja": "筋トレの代わりに、ジョギングやランニングなどの有酸素運動でも効果はありますか？",
-          "zh": "可以用轻快慢跑或跑步等有氧运动来代替肌肉力量训练吗？",
-          "es": "¿Puedo reemplazar el entrenamiento de resistencia con cardio como correr?",
-          "fr": "Puis-je remplacer la musculation par du cardio comme le jogging ?",
-          "de": "Kann ich Krafttraining durch Ausdauertraining wie Joggen ersetzen?",
-          "pt": "Posso substituir o treino de resistência por cardio como corrida?",
-          "id": "Bisakah saya mengganti latihan ketahanan dengan kardio seperti joging atau lari?"
+          "ko": "근력 운동 대신 가벼운 조깅이나 달리기 같은 유산소 운동으로 대체해도 되나요?"
         },
         "answer": {
-          "ko": "조깅 같은 유산소 운동도 뇌 혈류 증가에 긍정적인 영향을 주지만, 뇌신경 성장 인자인 BDNF의 즉각적인 대량 분비 유도 측면에서는 고강도의 짧은 저항성 운동이 보다 즉각적인 대뇌 각성 효과를 보입니다. 유산소 운동을 활용할 경우에는 평평한 평지를 걷는 수준을 넘어 가벼운 언덕 질주나 인터벌 달리기와 같이 짧고 격렬하게 호흡을 밀어붙이는 구간을 포함해 주어야 플라톤의 인지 예열 효과에 부합합니다.",
-          "en": "While jogging supports brain health, short bursts of high-intensity resistance training are more effective at triggering rapid BDNF release and immediate cognitive arousal. If choosing cardio, incorporate short sprint intervals or hill climbs to push your breathing limits, matching the warm-up effect.",
-          "ja": "ジョギングなどの有酸素運動も脳血流の増加に有効ですが、脳神経成長因子（BDNF）を短時間で大量に分泌させ、即座に脳を覚醒させる効果は、高強度の短い抵抗運動の方が優れています。有酸素運動を取り入れる場合は、平地を歩くレベルではなく、坂道ダッシュやインターバル走のように、短時間で息を追い込む負荷を含めると効果的です。",
-          "zh": "慢跑等有氧运动对增加脑血流确实有益，但在即时诱发大量BDNF分泌、让大脑迅速清醒方面，高强度的短时抗阻训练效果更为突出。如果选用有氧运动，需要超越平地慢走，加入冲坡或间歇跑等能短时剧烈提高呼吸负荷的运动，方能达到与柏拉图常规一致的认知预热功效。",
-          "es": "Aunque trotar ayuda, los entrenamientos cortos de resistencia de alta intensidad son más efectivos para activar la liberación rápida de BDNF. Si elige cardio, incorpore intervalos cortos de sprint para elevar la respiración, logrando el mismo efecto.",
-          "fr": "Bien que le jogging soit bénéfique, les séances courtes de musculation intensive sont plus efficaces pour libérer rapidement du BDNF. Si vous préférez le cardio, intégrez des intervalles de sprint courts pour forcer la respiration et obtenir le même effet.",
-          "de": "Joggen fördert zwar die Durchblutung des Gehirns, aber kurze, hochintensive Kraftübungen sind effektiver bei der Freisetzung von BDNF. Wenn Sie Ausdauersport wählen, bauen Sie kurze Sprints ein, um die Atmung anzuregen.",
-          "pt": "Embora a corrida ajude, treinos curtos de resistência são mais eficazes para ativar a liberação rápida de BDNF. Se preferir cardio, inclua intervalos de tiros curtos para elevar a respiração, obtendo o mesmo efeito.",
-          "id": "Meskipun joging melancarkan aliran darah, latihan ketahanan singkat intensitas tinggi lebih cepat memicu pelepasan BDNF dan kesadaran kognitif. Jika memilih kardio, lakukan lari sprint interval untuk memicu napas cepat."
+          "ko": "조깅 같은 유산소 운동도 뇌 혈류 증가에 긍정적인 영향을 주지만, 뇌신경 성장 인자인 BDNF의 즉각적인 대량 분비 유도 측면에서는 고강도의 짧은 저항성 운동이 보다 즉각적인 대뇌 각성 효과를 보입니다. 유산소 운동을 활용할 경우에는 평평한 평지를 걷는 수준을 넘어 가벼운 언덕 질주나 인터벌 달리기와 같이 짧고 격렬하게 호흡을 밀어붙이는 구간을 포함해 주어야 플라톤의 인지 예열 효과에 부합합니다."
         }
       }
-    ],
-    "pubDate": "2026-03-05",
-    "updatedDate": "2026-03-05"
+    ]
   }
 }

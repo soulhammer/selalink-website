@@ -16,23 +16,23 @@ faqs:
     answer: "Mandíbula blanda, inflamación en las patas, temblores musculares o debilidad al andar. Si detecta esto, cambie la bombilla UVB y acuda a un veterinario de exóticos."
 ---
 
-Los dragones barbudos son unos de los reptiles más populares por su temperamento dócil. Sin embargo, al ser animales ectotermos (sangre fría), dependen totalmente del calor y la radiación UVB para digerir comida y procesar el calcio. La falta de radiación UVB adecuada causa la Enfermedad Ósea Metabólica (MBD), debilitando sus huesos. Hoy, PetSelf explica el lenguaje corporal del dragón barbudo y muestra una rutina de 3 pasos para la termorregulación diaria y el aporte de calcio.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Evidencia Veterinaria y Comportamental
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Directrices de la Association of Reptilian and Amphibian Veterinarians (ARAV) y Estándares de Herpetología</strong>.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Dragón Barbudo Perfil principal
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil media</span><span class="font-bold text-slate-800 dark:text-slate-200">10 ~ 15 años</span></div>
@@ -43,7 +43,7 @@ Los dragones barbudos son unos de los reptiles más populares por su temperament
 
 ## 1. Comunicación del dragón barbudo: cabeceo y movimientos de brazo
 
-Los dragones barbudos usan movimientos corporales para comunicarse y marcar estatus social. El cabeceo rápido ('head bobbing') indica dominancia. Al contrario, mover un brazo delantero en círculos de forma muy pausada ('arm waving') es una señal de sumisión o saludo amistoso.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Los dragones barbudos usan movimientos corporales para comunicarse y marcar esta
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Encendido de luces de calor y UVB</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Encienda las lámparas. Asegúrese de que la zona caliente alcance los 35-40 °C (95-105 °F) para que pueda digerir el alimento.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Los dragones barbudos usan movimientos corporales para comunicarse y marcar esta
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Alimentación con insectos espolvoreados con calcio</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Ofrezca insectos espolvoreados con calcio (con D3 para terrarios de interior). Añada verduras de hoja verde aptas.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Los dragones barbudos usan movimientos corporales para comunicarse y marcar esta
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Apagado de terrario y descanso térmico</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Apague todas las luces. Asegúrese de que la temperatura nocturna no baje de los 18 °C (65 °F) para un descanso seguro.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Los dragones barbudos usan movimientos corporales para comunicarse y marcar esta
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Embora o tratamento veterinário é importante, proporcionar um ambiente seguro (rampas, espaços verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Los dragones barbudos usan movimientos corporales para comunicarse y marcar esta
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Las bombillas UVB dejan de emitir radiación eficaz mucho antes de fundirse. Deben sustituirse cada 6 a 12 meses, aunque sigan emitiendo luz visible.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Los dragones barbudos usan movimientos corporales para comunicarse y marcar esta
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Mandíbula blanda, inflamación en las patas, temblores musculares o debilidad al andar. Si detecta esto, cambie la bombilla UVB y acuda a un veterinario de exóticos.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </details>
 </div>

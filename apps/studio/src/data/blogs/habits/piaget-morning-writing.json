@@ -1,223 +1,72 @@
 {
   "piaget-morning-writing": {
     "title": {
-      "ko": "생각을 정밀하게 구조화하는 뇌 작동법? 장 피아제의 글쓰기와 사색 산책",
-      "en": "How the Brain Structures Thoughts? Jean Piaget's Writing and Contemplative Walk",
-      "ja": "脳は思考をどのように構造化するのか?ジャン・ピアジェの執筆と瞑想の散歩",
-      "zh": "大脑如何构建思想？让·皮亚杰的写作与沉思之旅",
-      "es": "¿Cómo estructura el cerebro los pensamientos? La escritura y el paseo contemplativo de Jean Piaget",
-      "fr": "Comment le cerveau structure les pensées ? La promenade d'écriture et de contemplation de Jean Piaget",
-      "de": "Wie strukturiert das Gehirn Gedanken? Jean Piagets schreibender und kontemplativer Spaziergang",
-      "pt": "Como o cérebro estrutura os pensamentos? A escrita e o passeio contemplativo de Jean Piaget",
-      "id": "Bagaimana Otak Menyusun Pikiran? Penulisan dan Perjalanan Kontemplatif Jean Piaget"
+      "ko": "생각을 정밀하게 구조화하는 뇌 작동법? 장 피아제의 글쓰기와 사색 산책"
     },
     "description": {
-      "ko": "스위스의 위대한 아동 심리학자 장 피아제. 생각을 정밀하게 정돈한 그의 아침 4페이지 글쓰기 및 오후 사색 산책 루틴의 뇌과학적 원리와 3단계 실천법을 알아봅니다.",
-      "en": "Discover Jean Piaget's morning writing and afternoon walk routine. Learn the cognitive science behind it and follow a 3-step action plan to structure your own mind.",
-      "ja": "ジャン ピアジェの朝の執筆と午後の散歩の日課をご覧ください。その背後にある認知科学を学び、3 ステップの行動計画に従って自分の心を構造化しましょう。",
-      "zh": "探索让·皮亚杰 (Jean Piaget) 早上写作和下午散步的习惯。了解其背后的认知科学，并遵循三步行动计划来构建自己的思维。",
-      "es": "Descubra la rutina de escritura matutina y paseo vespertino de Jean Piaget. Conozca la ciencia cognitiva detrás de esto y siga un plan de acción de 3 pasos para estructurar su propia mente.",
-      "fr": "Découvrez la routine d'écriture du matin et de marche de l'après-midi de Jean Piaget. Apprenez les sciences cognitives qui se cachent derrière cela et suivez un plan d'action en 3 étapes pour structurer votre propre esprit.",
-      "de": "Entdecken Sie Jean Piagets morgendliche Schreib- und nachmittägliche Spazierroutine. Lernen Sie die kognitive Wissenschaft dahinter kennen und befolgen Sie einen dreistufigen Aktionsplan, um Ihren eigenen Geist zu strukturieren.",
-      "pt": "Descubra a rotina de escrita matinal e caminhada à tarde de Jean Piaget. Aprenda a ciência cognitiva por trás disso e siga um plano de ação de três etapas para estruturar sua própria mente.",
-      "id": "Temukan rutinitas menulis pagi dan jalan sore Jean Piaget. Pelajari ilmu kognitif di baliknya dan ikuti rencana tindakan 3 langkah untuk menyusun pikiran Anda sendiri."
+      "ko": "스위스의 위대한 아동 심리학자 장 피아제. 생각을 정밀하게 정돈한 그의 아침 4페이지 글쓰기 및 오후 사색 산책 루틴의 뇌과학적 원리와 3단계 실천법을 알아봅니다."
     },
     "authority": {
-      "ko": "피아제 자서전 'Autobiography' 및 인지신경과학 저널 학술 연구",
-      "en": "Jean Piaget's Biography 'Autobiography' & Journal of Cognitive Neuroscience",
-      "ja": "ジャン・ピアジェの伝記「自伝」と認知神経科学ジャーナル",
-      "zh": "让·皮亚杰的传记“自传”和认知神经科学杂志",
-      "es": "Biografía de Jean Piaget 'Autobiografía' y Revista de neurociencia cognitiva",
-      "fr": "Biographie de Jean Piaget « Autobiographie » et Journal of Cognitive Neuroscience",
-      "de": "Jean Piagets Biografie „Autobiografie“ & Journal of Cognitive Neuroscience",
-      "pt": "Biografia de Jean Piaget, 'Autobiografia' e Journal of Cognitive Neuroscience",
-      "id": "Biografi Jean Piaget 'Autobiografi' & Jurnal Ilmu Saraf Kognitif"
+      "ko": "장 피아제 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "아동이 세상을 이해하는 발달 단계를 정밀하게 증명하여 인류 인지심리학의 패러다임을 바꾼 거장, 장 피아제. 그의 위대한 학술적 업적의 배경에는 생각을 가다듬는 독특한 이중 리듬의 습관이 있었습니다. 📝\n\n피아제는 매일 아침 일찍 서재에 앉아 오직 펜과 원고지만을 활용해 최소 4페이지의 글을 써 내려갔습니다. 이 글쓰기는 누군가에게 보이기 위한 정돈된 글이 아니라, 파편화되어 있는 지식을 물리적인 글로 표현해 뇌의 작업 기억 영역을 청소하는 과정이었습니다. 글쓰기가 끝나고 뇌의 인지 리소스가 비워지면, 오후에는 스위스의 평화로운 자연과 호숫가를 수 시간 동안 걸었습니다. 신기하게도 걸음걸이에 맞춰 발바닥이 자극받을 때마다, 아침에 썼던 복잡한 주제들이 뇌 속에서 유기적으로 조화를 이루며 정제되었습니다.\n\n오늘 BuildSelf에서는 인지 발달의 대가가 고수한 아침 집필 및 오후 사색 루틴의 뇌과학적 원리를 분석하고, 현대인의 생산성과 창의력 향상을 위한 실천 가이드를 제안합니다.",
-      "en": "Jean Piaget, the giant who changed the paradigm of cognitive psychology by proving the developmental stages of children. Behind his great academic achievements was a unique dual-rhythm habit. 📝\n\nPiaget sat in his study early every morning and wrote at least four pages using only a pen and paper. This writing was not an organized text for others, but a process of expressing fragmented knowledge into physical words to clear the working memory of the brain. When his cognitive resources were cleared after writing, he walked for hours in the peaceful Swiss nature and lakeside in the afternoon. Surprisingly, whenever his soles were stimulated in time with his steps, the complex subjects he wrote in the morning were organically harmonized and refined in his brain.\n\nToday, BuildSelf analyzes the cognitive science behind Piaget's morning writing and afternoon walk routine and suggests a 3-step action guide for modern people.",
-      "ja": "この歴史的習慣の実践において： , . . 📝 この歴史的習慣の実践において： 4 . , . , . , . この歴史的習慣の実践において： BuildSelf , .",
-      "zh": "在这一历史性惯例的实践中： , . . 📝 在这一历史性惯例的实践中： 4 . , . , . , . 在这一历史性惯例的实践中： BuildSelf , .",
-      "es": "Jean Piaget, el gigante que cambió el paradigma de la psicología cognitiva al comprobar las etapas de desarrollo de los niños. Detrás de sus grandes logros académicos se encontraba un hábito único del doble ritmo. 📝\n\nPiaget se sentaba en su estudio todas las mañanas temprano y escribía al menos cuatro páginas utilizando sólo lápiz y papel. Esta escritura no fue un texto organizado para otros, sino un proceso de expresión de conocimiento fragmentado en palabras físicas para limpiar la memoria de trabajo del cerebro. Cuando sus recursos cognitivos se recuperaron después de escribir, por la tarde caminó durante horas en la tranquila naturaleza suiza y a orillas del lago. Sorprendentemente, cada vez que sus plantas eran estimuladas al ritmo de sus pasos, los temas complejos que escribía por la mañana se armonizaban y refinaban orgánicamente en su cerebro.\n\nHoy, BuildSelf analiza la ciencia cognitiva detrás de la rutina de escritura matutina y caminata vespertina de Piaget y sugiere una guía de acción de 3 pasos para la gente moderna.",
-      "fr": "Jean Piaget, le géant qui a changé le paradigme de la psychologie cognitive en démontrant les stades de développement des enfants. Derrière ses grandes réussites académiques se cachait une habitude unique de double rythme. 📝\n\nPiaget s'asseyait dans son bureau tôt chaque matin et écrivait au moins quatre pages en utilisant uniquement un stylo et du papier. Cette écriture n’était pas un texte organisé pour d’autres, mais un processus d’expression de connaissances fragmentées en mots physiques pour effacer la mémoire de travail du cerveau. Une fois ses ressources cognitives libérées après avoir écrit, il marchait pendant des heures dans la paisible nature suisse et au bord du lac l'après-midi. Étonnamment, chaque fois que ses semelles étaient stimulées au rythme de ses pas, les sujets complexes qu'il écrivait le matin étaient organiquement harmonisés et affinés dans son cerveau.\n\nAujourd'hui, BuildSelf analyse la science cognitive derrière la routine d'écriture du matin et de marche de l'après-midi de Piaget et propose un guide d'action en 3 étapes pour les personnes modernes.",
-      "de": "Jean Piaget, der Riese, der das Paradigma der kognitiven Psychologie veränderte, indem er die Entwicklungsstadien von Kindern nachweiste. Hinter seinen großartigen akademischen Erfolgen stand eine einzigartige Dual-Rhythmus-Angewohnheit. 📝\n\nPiaget saß jeden Morgen früh in seinem Arbeitszimmer und schrieb mindestens vier Seiten nur mit Stift und Papier. Dieses Schreiben war kein organisierter Text für andere, sondern ein Prozess, bei dem fragmentiertes Wissen in physische Worte ausgedrückt wurde, um das Arbeitsgedächtnis des Gehirns zu reinigen. Als seine kognitiven Ressourcen nach dem Schreiben geklärt waren, spazierte er nachmittags stundenlang durch die friedliche Schweizer Natur und am Seeufer. Überraschenderweise wurden die komplexen Themen, die er morgens schrieb, in seinem Gehirn organisch harmonisiert und verfeinert, wenn seine Fußsohlen im Takt seiner Schritte stimuliert wurden.\n\nHeute analysiert BuildSelf die kognitive Wissenschaft hinter Piagets morgendlicher Schreib- und Nachmittagsspaziergang-Routine und schlägt einen dreistufigen Handlungsleitfaden für moderne Menschen vor.",
-      "pt": "Jean Piaget, o gigante que mudou o paradigma da psicologia cognitiva ao comprovar os estágios de desenvolvimento das crianças. Por trás de suas grandes conquistas acadêmicas estava um hábito único de ritmo duplo. 📝\n\nPiaget sentava-se em seu escritório todas as manhãs e escrevia pelo menos quatro páginas usando apenas papel e caneta. Esta escrita não era um texto organizado para outros, mas um processo de expressão de conhecimento fragmentado em palavras físicas para limpar a memória de trabalho do cérebro. Quando seus recursos cognitivos foram liberados após escrever, ele caminhou por horas na natureza pacífica da Suíça e à beira do lago à tarde. Surpreendentemente, sempre que suas solas dos pés eram estimuladas no ritmo de seus passos, os assuntos complexos que ele escrevia pela manhã eram organicamente harmonizados e refinados em seu cérebro.\n\nHoje, BuildSelf analisa a ciência cognitiva por trás da escrita matinal e da rotina de caminhada vespertina de Piaget e sugere um guia de ação em três etapas para pessoas modernas.",
-      "id": "Jean Piaget, raksasa yang mengubah paradigma psikologi kognitif dengan membuktikan tahapan perkembangan anak. Di balik prestasi akademisnya yang luar biasa terdapat kebiasaan ritme ganda yang unik. 📝\n\nPiaget duduk di ruang kerjanya setiap pagi dan menulis setidaknya empat halaman hanya dengan menggunakan pena dan kertas. Tulisan ini bukanlah sebuah teks terorganisir untuk orang lain, namun sebuah proses mengungkapkan pengetahuan yang terfragmentasi ke dalam kata-kata fisik untuk menjernihkan memori kerja otak. Ketika sumber daya kognitifnya hilang setelah menulis, dia berjalan berjam-jam di alam Swiss yang damai dan tepi danau di sore hari. Anehnya, setiap kali telapak kakinya terstimulasi seiring dengan langkahnya, subjek kompleks yang dia tulis di pagi hari secara organik diselaraskan dan disempurnakan di otaknya.\n\nHari ini, BuildSelf menganalisis ilmu kognitif di balik rutinitas menulis pagi dan jalan sore Piaget dan menyarankan panduan tindakan 3 langkah untuk orang modern."
+      "ko": "\"지성은 우리가 어떻게 아는가가 아니라, 우리가 모를 때 어떻게 행동하는가에 있다.\" 🚶‍♂️\n\n아동이 세상을 이해하는 발달 단계를 정밀하게 증명하여 인류 인지심리학의 패러다임을 바꾼 거장, 장 피아제. 그의 위대한 학술적 업적의 배경에는 생각을 가다듬는 독특한 이중 리듬의 습관이 있었습니다. 📝\n\n피아제는 매일 아침 일찍 서재에 앉아 오직 펜과 원고지만을 활용해 최소 4페이지의 글을 써 내려갔습니다. 이 글쓰기는 누군가에게 보이기 위한 정돈된 글이 아니라, 파편화되어 있는 지식을 물리적인 글로 표현해 뇌의 작업 기억 영역을 청소하는 과정이었습니다. 글쓰기가 끝나고 뇌의 인지 리소스가 비워지면, 오후에는 스위스의 평화로운 자연과 호숫가를 수 시간 동안 걸었습니다. 신기하게도 걸음걸이에 맞춰 발바닥이 자극받을 때마다, 아침에 썼던 복잡한 주제들이 뇌 속에서 유기적으로 조화를 이루며 정제되었습니다.\n\n오늘 포스트에서는 인지 발달의 대가가 고수한 아침 집필 및 오후 사색 루틴의 뇌과학적 원리를 분석하고, 현대인의 생산성과 창의력 향상을 위한 실천 가이드를 제안합니다."
     },
     "whyTitle": {
-      "ko": "작업 기억의 외재화와 디폴트 모드 네트워크의 조화",
-      "en": "Harmonizing Working Memory Externalization and Default Mode Network",
-      "ja": "ワーキングメモリの外部化とデフォルトモードネットワークの調和",
-      "zh": "协调工作记忆外化和默认模式网络",
-      "es": "Armonización de la externalización de la memoria de trabajo y la red en modo predeterminado",
-      "fr": "Harmonisation de l'externalisation de la mémoire de travail et du réseau en mode par défaut",
-      "de": "Harmonisierung der Externalisierung des Arbeitsgedächtnisses und des Netzwerks im Standardmodus",
-      "pt": "Harmonizando a externalização da memória de trabalho e a rede de modo padrão",
-      "id": "Harmonisasi Eksternalisasi Memori Kerja dan Jaringan Mode Default"
+      "ko": "작업 기억의 외재화와 디폴트 모드 네트워크의 조화"
     },
     "whyDesc": {
-      "ko": "우리가 생각만으로 복잡한 문제를 해결하려 하면 뇌의 작업 기억 공간은 금방 한계에 도달해 과부하가 걸립니다. 피아제의 아침 글쓰기는 머릿속의 개념들을 외부 매체(종이)에 기록하여 뇌의 인지 부하를 강제로 덜어주는 <strong>'작업 기억의 외재화(Working Memory Externalization)'</strong> 작업이었습니다.\n\n글쓰기로 뇌의 작업 기억이 비워진 직후 이루어지는 오후의 산책은 신체 활동을 통해 뇌유래신경영양인자(BDNF)를 활성화합니다. 이와 동시에 뇌가 멍한 상태나 사색 모드에 들어갈 때 켜지는 '디폴트 모드 네트워크(Default Mode Network, DMN)'를 가동합니다. 이 과정에서 아침에 메모했던 지식 파편들이 무의식 속에서 무작위로 재결합하며 정교한 논리 체계와 창의적인 통찰력으로 재탄생하게 됩니다.",
-      "en": "When we try to solve complex problems by thinking alone, the brain's working memory space quickly reaches its limit and becomes overloaded. Piaget's morning writing was a process of forcibly reducing the brain's cognitive load by recording concepts on an external medium (paper), which is called <strong>'working memory externalization.'</strong>\n\nThe afternoon walk right after clearing the working memory activates Brain-Derived Neurotrophic Factor (BDNF) through physical activity. At the same time, it starts the 'Default Mode Network (DMN),' which lights up when the brain is in a daydreaming or contemplative mode. In this process, the fragments of knowledge written down in the morning are randomly recombined in the subconscious mind, leading to elaborate logical systems and creative insights.",
-      "ja": "複雑な問題を一人で考えて解決しようとすると、脳の作業記憶領域はすぐに限界に達し、過負荷になってしまいます。ピアジェの朝の作文は、 外部媒体（紙） に概念を記録することで脳の認知負荷を強制的に軽減するプロセスであり、 これを<strong>「作業記憶の外部化」 と呼びます</strong>。\n\n作業記憶をクリアした直後の午後の散歩は、身体活動を通じて脳由来神経栄養因子（BDNF）を活性化します。同時に、脳が空想モードまたは瞑想モードにあるときに点灯する「デフォルト モード ネットワーク (DMN)」を開始します。このプロセスでは、朝に書き留めた知識の断片が潜在意識の中でランダムに組み合わされ、精緻な論理体系や創造的な洞察が生まれます。",
-      "zh": "当我们试图通过单独思考来解决复杂问题时，大脑的工作记忆空间很快就会达到极限并变得超载。皮亚杰的晨写是通过将概念记录在外部介质（纸）上，强行减轻大脑认知负荷的过程，这就是所谓的“工作记忆外化”。\n\n清理工作记忆后的下午散步会通过体力活动激活脑源性神经营养因子（BDNF）。同时，它启动“默认模式网络（DMN）”，当大脑处于白日梦或沉思模式时，该网络就会亮起。在这个过程中，早上写下的知识碎片在潜意识中随机重组，形成复杂的逻辑系统和创造性的见解。",
-      "es": "Cuando intentamos resolver problemas complejos pensando solo, el espacio de la memoria de trabajo del cerebro rápidamente alcanza su límite y se sobrecarga. La escritura matutina de Piaget era un proceso de reducción forzada de la carga cognitiva del cerebro mediante el registro de conceptos en un medio externo (papel), lo que se denomina <strong>'externalización de la memoria de trabajo'</strong>.\n\nLa caminata de la tarde, justo después de limpiar la memoria de trabajo, activa el factor neurotrófico derivado del cerebro (BDNF) a través de la actividad física. Al mismo tiempo, inicia la 'Red de modo predeterminado (DMN)', que se enciende cuando el cerebro está en modo de ensueño o contemplativo. En este proceso, los fragmentos de conocimiento escritos por la mañana se recombinan aleatoriamente en la mente subconsciente, dando lugar a elaborados sistemas lógicos e ideas creativas.",
-      "fr": "Lorsque nous essayons de résoudre des problèmes complexes en pensant seuls, l’espace mémoire de travail du cerveau atteint rapidement ses limites et devient surchargé. L'écriture matinale de Piaget était un processus de réduction forcée de la charge cognitive du cerveau en enregistrant des concepts sur un support externe (papier), appelé <strong>« externalisation de la mémoire de travail ».</strong>\n\nLa marche de l'après-midi juste après avoir effacé la mémoire de travail active le facteur neurotrophique dérivé du cerveau (BDNF) grâce à l'activité physique. En même temps, il démarre le « réseau en mode par défaut (DMN) » qui s'allume lorsque le cerveau est en mode rêverie ou contemplatif. Dans ce processus, les fragments de connaissances écrits le matin sont recombinés de manière aléatoire dans le subconscient, conduisant à des systèmes logiques élaborés et à des idées créatives.",
-      "de": "Wenn wir versuchen, komplexe Probleme allein durch Denken zu lösen, stößt der Arbeitsgedächtnisraum des Gehirns schnell an seine Grenzen und wird überlastet. Piagets morgendliches Schreiben war ein Prozess, bei dem die kognitive Belastung des Gehirns gewaltsam reduziert wurde, indem Konzepte auf einem externen Medium (Papier) aufgezeichnet wurden, was als „Externalisierung des Arbeitsgedächtnisses“ bezeichnet wird\n\nDer Nachmittagsspaziergang direkt nach dem Löschen des Arbeitsgedächtnisses aktiviert den Brain-Derived Neurotrophic Factor (BDNF) durch körperliche Aktivität. Gleichzeitig wird das „Default Mode Network (DMN)“ gestartet, das aufleuchtet, wenn sich das Gehirn im Tagträumer- oder Kontemplationsmodus befindet. Dabei werden die am Morgen aufgeschriebenen Wissensfragmente im Unterbewusstsein nach dem Zufallsprinzip neu kombiniert, was zu ausgefeilten logischen Systemen und kreativen Erkenntnissen führt.",
-      "pt": "Quando tentamos resolver problemas complexos pensando sozinhos, o espaço da memória de trabalho do cérebro atinge rapidamente o seu limite e fica sobrecarregado. A escrita matinal de Piaget era um processo de redução forçada da carga cognitiva do cérebro, registrando conceitos em um meio externo (papel), que é chamado de <strong>'externalização da memória de trabalho'.</strong>\n\nA caminhada da tarde logo após a limpeza da memória de trabalho ativa o Fator Neurotrófico Derivado do Cérebro (BDNF) por meio da atividade física. Ao mesmo tempo, ele inicia a 'Rede de modo padrão (DMN)', que acende quando o cérebro está sonhando acordado ou contemplativo. Neste processo, os fragmentos de conhecimento escritos pela manhã são recombinados aleatoriamente na mente subconsciente, levando a sistemas lógicos elaborados e insights criativos.",
-      "id": "Ketika kita mencoba memecahkan masalah kompleks dengan berpikir sendiri, ruang memori kerja otak dengan cepat mencapai batasnya dan menjadi kelebihan beban. Tulisan pagi Piaget merupakan proses pengurangan paksa beban kognitif otak dengan mencatat konsep pada media eksternal (kertas), yang disebut <strong>'eksternalisasi memori kerja.'</strong>\n\nJalan-jalan sore setelah membersihkan memori kerja mengaktifkan Brain-Derived Neurotrophic Factor (BDNF) melalui aktivitas fisik. Pada saat yang sama, ia memulai 'Jaringan Mode Default (DMN),' yang menyala ketika otak berada dalam mode melamun atau kontemplatif. Dalam proses ini, potongan-potongan pengetahuan yang ditulis di pagi hari digabungkan kembali secara acak di pikiran bawah sadar, menghasilkan sistem logis yang rumit dan wawasan kreatif."
+      "ko": "우리가 생각만으로 복잡한 문제를 해결하려 하면 뇌의 작업 기억 공간은 금방 한계에 도달해 과부하가 걸립니다. 피아제의 아침 글쓰기는 머릿속의 개념들을 외부 매체(종이)에 기록하여 뇌의 인지 부하를 강제로 덜어주는 <strong>'작업 기억의 외재화(Working Memory Externalization)'</strong> 작업이었습니다.\n\n글쓰기로 뇌의 작업 기억이 비워진 직후 이루어지는 오후의 산책은 신체 활동을 통해 뇌유래신경영양인자(BDNF)를 활성화합니다. 이와 동시에 뇌가 멍한 상태나 사색 모드에 들어갈 때 켜지는 '디폴트 모드 네트워크(Default Mode Network, DMN)'를 가동합니다. 이 과정에서 아침에 메모했던 지식 파편들이 무의식 속에서 무작위로 재결합하며 정교한 논리 체계와 창의적인 통찰력으로 재탄생하게 됩니다."
     },
     "cautionTitle": {
-      "ko": "뇌에 입력하는 시간을 넘어 출력하고 환기하는 균형을 맞춰야 합니다",
-      "en": "You must balance input with output and cognitive refresh",
-      "ja": "インプットとアウトプット、認知のリフレッシュのバランスを取る必要があります",
-      "zh": "您必须平衡输入、输出和认知刷新",
-      "es": "Debes equilibrar los insumos con los resultados y la actualización cognitiva.",
-      "fr": "Vous devez équilibrer les entrées avec les sorties et le rafraîchissement cognitif",
-      "de": "Sie müssen Input mit Output und kognitiver Auffrischung in Einklang bringen",
-      "pt": "Você deve equilibrar a entrada com a saída e a atualização cognitiva",
-      "id": "Anda harus menyeimbangkan masukan dengan keluaran dan penyegaran kognitif"
+      "ko": "뇌에 입력하는 시간을 넘어 출력하고 환기하는 균형을 맞춰야 합니다"
     },
     "cautionDesc": {
-      "ko": "현대인들은 수많은 정보(인풋)를 스마트폰을 통해 뇌에 집어넣지만, 정작 스스로 생각하고 정돈하여 밖으로 끄집어내는 아웃풋 시간과 뇌를 쉬게 해주는 사색 시간이 절대적으로 부족합니다. 피아제처럼 아침의 쏟아내는 글쓰기(아웃풋)와 오후의 평화로운 산책(환기)의 균형을 통해 뇌가 스스로 작동할 공간을 열어주세요.",
-      "en": "Modern people put a lot of information (input) into their brains through smartphones, but lack output time to think and organize by themselves, and contemplative time to rest the brain. Like Piaget, give your brain room to operate through a balance of morning writing (output) and afternoon walks (refresh).",
-      "ja": "現代人はスマートフォンを通じて多くの情報（インプット）を脳に入れていますが、自分で考えて整理するアウトプットの時間や、脳を休める瞑想の時間が不足しています。ピアジェのように、午前中の執筆（アウトプット）と午後の散歩（リフレッシュ）のバランスをとることで、脳に余裕を与えましょう。",
-      "zh": "现代人通过智能手机向大脑输入大量信息（输入），却缺乏自己思考、组织的输出时间，以及让大脑休息的沉思时间。像皮亚杰一样，通过早上写作（输出）和下午散步（刷新）的平衡，给你的大脑空间来运作。",
-      "es": "Las personas modernas ingresan mucha información (entrada) en sus cerebros a través de teléfonos inteligentes, pero carecen de tiempo para pensar y organizarse por sí mismos, y de tiempo contemplativo para descansar el cerebro. Al igual que Piaget, déle a su cerebro espacio para operar mediante un equilibrio entre la escritura matutina (producción) y las caminatas vespertinas (renovación).",
-      "fr": "Les gens modernes mettent beaucoup d’informations (entrées) dans leur cerveau via les smartphones, mais manquent de temps pour penser et s’organiser par eux-mêmes, et de temps de contemplation pour reposer le cerveau. Comme Piaget, donnez à votre cerveau l'espace nécessaire pour fonctionner grâce à un équilibre entre l'écriture du matin (sortie) et les promenades de l'après-midi (rafraîchissement).",
-      "de": "Moderne Menschen geben über Smartphones viele Informationen (Eingaben) in ihr Gehirn ein, aber es fehlt ihnen die Zeit, um selbst nachzudenken und zu organisieren, und es fehlt ihnen die kontemplative Zeit, um das Gehirn auszuruhen. Geben Sie wie Piaget Ihrem Gehirn Raum, um durch eine ausgewogene Mischung aus morgendlichem Schreiben (Ausgabe) und nachmittäglichen Spaziergängen (Auffrischung) zu arbeiten.",
-      "pt": "As pessoas modernas colocam muitas informações (entradas) em seus cérebros por meio de smartphones, mas carecem de tempo de saída para pensar e organizar por si mesmas, e de tempo contemplativo para descansar o cérebro. Como Piaget, dê espaço ao seu cérebro para operar por meio de um equilíbrio entre a escrita matinal (produção) e as caminhadas à tarde (atualização).",
-      "id": "Masyarakat modern banyak memasukkan informasi (input) ke dalam otaknya melalui smartphone, namun kekurangan waktu output untuk berpikir dan berorganisasi sendiri, serta waktu kontemplatif untuk mengistirahatkan otak. Seperti Piaget, berikan ruang pada otak Anda untuk bekerja melalui keseimbangan menulis pagi (output) dan jalan sore (refresh)."
+      "ko": "현대인들은 수많은 정보(인풋)를 스마트폰을 통해 뇌에 집어넣지만, 정작 스스로 생각하고 정돈하여 밖으로 끄집어내는 아웃풋 시간과 뇌를 쉬게 해주는 사색 시간이 절대적으로 부족합니다. 피아제처럼 아침의 쏟아내는 글쓰기(아웃풋)와 오후의 평화로운 산책(환기)의 균형을 통해 뇌가 스스로 작동할 공간을 열어주세요."
     },
     "steps": [
       {
         "name": {
-          "ko": "아침 생각 쏟아내기 손글씨 집필",
-          "en": "Morning Brain Dump Hand-Writing",
-          "ja": "朝のブレインダンプ手書き",
-          "zh": "早上大脑转储手写",
-          "es": "Escritura a mano de volcado de cerebro matutino",
-          "fr": "Matin, vidage cerveau, écriture manuscrite",
-          "de": "Morgen-Brain-Dump-Handschrift",
-          "pt": "Escrita à mão do despejo cerebral matinal",
-          "id": "Tulisan Tangan Brain Dump Pagi"
+          "ko": "아침 생각 쏟아내기 손글씨 집필"
         },
         "text": {
-          "ko": "아침 일과 시작 전, 노트와 펜을 준비하고 머릿속에 있는 할 일, 연구 아이디어, 또는 어제 공부한 내용을 의식의 흐름대로 15분간 막힘없이 손으로 직접 써 내려갑니다. 맞춤법이나 문장의 완성도에 구애받지 않고 쏟아내는 것이 핵심입니다.",
-          "en": "Before starting your morning routine, prepare a notebook and a pen. Write down tasks, ideas, or what you studied yesterday for 15 minutes without stopping. The key is to pour it out without worrying about grammar or quality.",
-          "ja": "朝の日課を始める前に、ノートとペンを準備してください。タスク、アイデア、または昨日勉強したことを 15 分間、止まらずに書き留めます。重要なのは、文法や品質を気にせずにそれを吐き出すことです。",
-          "zh": "在开始早晨的例行公事之前，准备一个笔记本和一支笔。用 15 分钟不间断地写下任务、想法或昨天学习的内容。关键是要倒出来，不要担心语法或质量。",
-          "es": "Antes de empezar tu rutina matutina, prepara una libreta y un bolígrafo. Anota tareas, ideas o lo que estudiaste ayer durante 15 minutos sin parar. La clave es publicarlo sin preocuparse por la gramática o la calidad.",
-          "fr": "Avant de commencer votre routine matinale, préparez un cahier et un stylo. Notez les tâches, les idées ou ce que vous avez étudié hier pendant 15 minutes sans vous arrêter. La clé est de le verser sans se soucier de la grammaire ou de la qualité.",
-          "de": "Bevor Sie mit Ihrer Morgenroutine beginnen, bereiten Sie ein Notizbuch und einen Stift vor. Schreiben Sie Aufgaben, Ideen oder das, was Sie gestern gelernt haben, 15 Minuten lang ununterbrochen auf. Der Schlüssel liegt darin, es auszudrücken, ohne sich Gedanken über Grammatik oder Qualität zu machen.",
-          "pt": "Antes de iniciar sua rotina matinal, prepare um caderno e uma caneta. Anote tarefas, ideias ou o que você estudou ontem durante 15 minutos sem parar. O segredo é derramar sem se preocupar com gramática ou qualidade.",
-          "id": "Sebelum memulai rutinitas pagi Anda, siapkan buku catatan dan pulpen. Tuliskan tugas, ide, atau apa yang Anda pelajari kemarin selama 15 menit tanpa henti. Kuncinya adalah menuangkannya tanpa mengkhawatirkan tata bahasa atau kualitas."
+          "ko": "아침 일과 시작 전, 노트와 펜을 준비하고 머릿속에 있는 할 일, 연구 아이디어, 또는 어제 공부한 내용을 의식의 흐름대로 15분간 막힘없이 손으로 직접 써 내려갑니다. 맞춤법이나 문장의 완성도에 구애받지 않고 쏟아내는 것이 핵심입니다."
         }
       },
       {
         "name": {
-          "ko": "오후 스마트폰 없는 사색 산책",
-          "en": "Afternoon Screen-Free Contemplative Walk",
-          "ja": "午後のスクリーンなしの瞑想的な散歩",
-          "zh": "下午无屏幕沉思漫步",
-          "es": "Caminata contemplativa sin pantallas por la tarde",
-          "fr": "Promenade contemplative sans écran l’après-midi",
-          "de": "Nachmittags-Kontemplationsspaziergang ohne Bildschirm",
-          "pt": "Caminhada contemplativa à tarde sem tela",
-          "id": "Jalan Kontemplatif Tanpa Layar di Sore Hari"
+          "ko": "오후 스마트폰 없는 사색 산책"
         },
         "text": {
-          "ko": "오후 시간에 가벼운 운동화로 갈아 신고 스마트폰을 주머니에 넣은 채(가급적 보지 않음) 20분 동안 천천히 걷습니다. 발바닥이 땅에 닿는 감각과 바람의 느낌에 집중하며 아침에 썼던 주제를 가볍게 뇌리에 띄워 둡니다.",
-          "en": "In the afternoon, put on comfortable walking shoes and walk slowly for 20 minutes with your phone in your pocket. Focus on the physical touch of your steps and the wind, letting the topic you wrote about in the morning float naturally in your mind.",
-          "ja": "午後は、歩きやすい靴を履いて、携帯電話をポケットに入れてゆっくり 20 分間歩きます。足取りや風などの物理的な感触に集中して、朝書いたトピックが自然に頭の中に浮かび上がります。",
-          "zh": "下午，穿上舒适的步行鞋，口袋里装着手机，慢慢步行20分钟。专注于脚步和风的身体接触，让你早上写的主题自然地浮现在你的脑海中。",
-          "es": "Por la tarde, póngase zapatos cómodos para caminar y camine lentamente durante 20 minutos con el teléfono en el bolsillo. Concéntrate en el contacto físico de tus pasos y el viento, dejando que el tema sobre el que escribiste por la mañana flote naturalmente en tu mente.",
-          "fr": "L’après-midi, enfilez des chaussures de marche confortables et marchez lentement pendant 20 minutes avec votre téléphone dans votre poche. Concentrez-vous sur le toucher physique de vos pas et sur le vent, en laissant le sujet sur lequel vous avez écrit le matin flotter naturellement dans votre esprit.",
-          "de": "Ziehen Sie am Nachmittag bequeme Wanderschuhe an und gehen Sie 20 Minuten lang langsam mit Ihrem Telefon in der Tasche. Konzentrieren Sie sich auf die körperliche Berührung Ihrer Schritte und des Windes und lassen Sie das Thema, über das Sie am Morgen geschrieben haben, ganz natürlich in Ihrem Kopf schweben.",
-          "pt": "À tarde, calce sapatos confortáveis e caminhe lentamente por 20 minutos com o telefone no bolso. Concentre-se no toque físico de seus passos e no vento, deixando o assunto sobre o qual você escreveu pela manhã flutuar naturalmente em sua mente.",
-          "id": "Di sore hari, kenakan sepatu berjalan yang nyaman dan berjalanlah perlahan selama 20 menit dengan ponsel di saku. Berfokuslah pada sentuhan fisik langkah Anda dan angin, biarkan topik yang Anda tulis di pagi hari melayang secara alami di benak Anda."
+          "ko": "오후 시간에 가벼운 운동화로 갈아 신고 스마트폰을 주머니에 넣은 채(가급적 보지 않음) 20분 동안 천천히 걷습니다. 발바닥이 땅에 닿는 감각과 바람의 느낌에 집중하며 아침에 썼던 주제를 가볍게 뇌리에 띄워 둡니다."
         }
       },
       {
         "name": {
-          "ko": "스쳐간 아이디어 한 문장 안착 기록",
-          "en": "Jotting Down the Refined Idea in One Sentence",
-          "ja": "洗練されたアイデアを一文で書き留める",
-          "zh": "一语记精意",
-          "es": "Anotar la idea refinada en una frase",
-          "fr": "Noter l'idée raffinée en une phrase",
-          "de": "Die verfeinerte Idee in einem Satz niederschreiben",
-          "pt": "Anotando a ideia refinada em uma frase",
-          "id": "Mencatat Ide Halus dalam Satu Kalimat"
+          "ko": "스쳐간 아이디어 한 문장 안착 기록"
         },
         "text": {
-          "ko": "산책을 마친 직후, 뇌의 디폴트 모드 네트워크 상태에서 정제되어 새롭게 떠오른 핵심 단어나 통찰을 찾아내고, 이를 한 문장으로 일지에 즉시 기록하여 휘발을 방지합니다.",
-          "en": "Immediately after the walk, capture the core keyword or insight that emerged in your default mode network state, and write it down in one sentence in your log to prevent it from evaporating.",
-          "ja": "ウォークの直後に、デフォルト モードのネットワーク状態で現れた核となるキーワードや洞察をキャプチャし、それが蒸発しないようにログに一文として書き留めます。",
-          "zh": "步行结束后，立即捕获在默认模式网络状态下出现的核心关键字或见解，并将其用一句话写在日志中，以防止其消失。",
-          "es": "Inmediatamente después de la caminata, capture la palabra clave principal o la información que surgió en el estado de su red en modo predeterminado y escríbala en una oración en su registro para evitar que se evapore.",
-          "fr": "Immédiatement après la promenade, capturez le mot-clé ou l'information principale qui a émergé dans l'état de votre réseau en mode par défaut et notez-le en une phrase dans votre journal pour éviter qu'il ne s'évapore.",
-          "de": "Erfassen Sie unmittelbar nach dem Rundgang das Kernschlüsselwort oder die Kernerkenntnisse, die in Ihrem Netzwerkstatus im Standardmodus entstanden sind, und schreiben Sie sie in einem Satz in Ihr Protokoll, um zu verhindern, dass sie sich verflüchtigen.",
-          "pt": "Imediatamente após a caminhada, capture a palavra-chave principal ou o insight que surgiu no estado de rede do modo padrão e anote-o em uma frase em seu registro para evitar que evapore.",
-          "id": "Segera setelah berjalan-jalan, tangkap kata kunci inti atau wawasan yang muncul dalam status jaringan mode default Anda, dan tuliskan dalam satu kalimat di log Anda untuk mencegahnya menguap."
+          "ko": "산책을 마친 직후, 뇌의 디폴트 모드 네트워크 상태에서 정제되어 새롭게 떠오른 핵심 단어나 통찰을 찾아내고, 이를 한 문장으로 일지에 즉시 기록하여 휘발을 방지합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "꼭 손으로 써야 하나요? 디지털 타이핑으로 대체해도 될까요?",
-          "en": "Do I have to handwrite? Can I type it digitally?",
-          "ja": "手書きする必要がありますか?デジタルで入力してもいいですか？",
-          "zh": "我必须手写吗？我可以用数字方式输入吗？",
-          "es": "¿Tengo que escribir a mano? ¿Puedo escribirlo digitalmente?",
-          "fr": "Dois-je écrire à la main ? Puis-je le taper numériquement ?",
-          "de": "Muss ich handschriftlich schreiben? Kann ich es digital eingeben?",
-          "pt": "Tenho que escrever à mão? Posso digitá-lo digitalmente?",
-          "id": "Apakah saya harus menulis tangan? Bisakah saya mengetiknya secara digital?"
+          "ko": "꼭 손으로 써야 하나요? 디지털 타이핑으로 대체해도 될까요?"
         },
         "answer": {
-          "ko": "디지털 타이핑도 효과가 있으나, 손으로 직접 글씨를 쓰는 행위는 손가락 끝의 미세 근육을 자극하여 뇌의 인지 영역(특히 전두엽과 체성감각 피질)을 훨씬 강하게 활성화하고 주의 집중을 돕기 때문에 가급적 손글씨를 추천합니다.",
-          "en": "Typing is fine, but handwriting stimulates the fine muscles in your fingertips, which activates cognitive regions of the brain (especially the frontal lobe and somatosensory cortex) much more strongly and improves focus.",
-          "ja": "タイピングも問題ありませんが、手書きは指先の細かい筋肉を刺激し、脳の認知領域 (特に前頭葉と体性感覚皮質) をより強く活性化し、集中力を高めます。",
-          "zh": "打字很好，但手写会刺激指尖的精细肌肉，从而更强烈地激活大脑的认知区域（尤其是额叶和体感皮层）并提高注意力。",
-          "es": "Escribir está bien, pero escribir a mano estimula los finos músculos de las yemas de los dedos, lo que activa regiones cognitivas del cerebro (especialmente el lóbulo frontal y la corteza somatosensorial) con mucha más fuerza y mejora la concentración.",
-          "fr": "Taper à la machine, c'est bien, mais l'écriture manuscrite stimule les muscles fins du bout des doigts, ce qui active beaucoup plus fortement les régions cognitives du cerveau (en particulier le lobe frontal et le cortex somatosensoriel) et améliore la concentration.",
-          "de": "Tippen ist in Ordnung, aber das Schreiben mit der Hand stimuliert die feinen Muskeln in den Fingerspitzen, wodurch die kognitiven Regionen des Gehirns (insbesondere der Frontallappen und der somatosensorische Kortex) viel stärker aktiviert und die Konzentration verbessert werden.",
-          "pt": "Digitar é bom, mas escrever à mão estimula os músculos finos das pontas dos dedos, o que ativa regiões cognitivas do cérebro (especialmente o lobo frontal e o córtex somatossensorial) com muito mais força e melhora o foco.",
-          "id": "Mengetik boleh saja, tetapi tulisan tangan menstimulasi otot-otot halus di ujung jari Anda, yang mengaktifkan wilayah kognitif otak (terutama lobus frontal dan korteks somatosensori) lebih kuat dan meningkatkan fokus."
+          "ko": "디지털 타이핑도 효과가 있으나, 손으로 직접 글씨를 쓰는 행위는 손가락 끝의 미세 근육을 자극하여 뇌의 인지 영역(특히 전두엽과 체성감각 피질)을 훨씬 강하게 활성화하고 주의 집중을 돕기 때문에 가급적 손글씨를 추천합니다."
         }
       },
       {
         "question": {
-          "ko": "산책을 할 만한 자연 환경이 근처에 없으면 어떻게 하나요?",
-          "en": "What if there is no natural environment nearby for walking?",
-          "ja": "近くに散歩できる自然環境がない場合はどうすればよいでしょうか。",
-          "zh": "如果附近没有适合散步的自然环境怎么办？",
-          "es": "¿Qué pasa si no hay un entorno natural cercano para caminar?",
-          "fr": "Et s’il n’y a pas d’environnement naturel à proximité pour se promener ?",
-          "de": "Was ist, wenn es in der Nähe keine natürliche Umgebung zum Wandern gibt?",
-          "pt": "E se não houver um ambiente natural próximo para caminhar?",
-          "id": "Bagaimana jika tidak ada lingkungan alami di dekatnya untuk berjalan kaki?"
+          "ko": "산책을 할 만한 자연 환경이 근처에 없으면 어떻게 하나요?"
         },
         "answer": {
-          "ko": "숲이나 호수가 아니더라도 도시의 인도나 한적한 골목길, 심지어 조용한 건물 복도를 스마트폰 없이 걷는 것만으로도 신체 자극과 디폴트 모드 네트워크 활성화의 동일한 인지적 효과를 누릴 수 있습니다.",
-          "en": "Even if there is no park or lake, walking on city sidewalks, quiet alleys, or even a quiet hallway without your smartphone will trigger the same cognitive benefits of physical stimulation and default mode network activation.",
-          "ja": "公園や湖がない場合でも、スマートフォンを持たずに街の歩道、静かな路地、さらには静かな廊下を歩くだけで、物理的な刺激とデフォルトモードのネットワークの活性化による同じ認知的利点が引き起こされます。",
-          "zh": "即使没有公园或湖泊，在没有智能手机的情况下走在城市人行道、安静的小巷甚至安静的走廊上也会触发物理刺激和默认模式网络激活相同的认知益处。",
-          "es": "Incluso si no hay parque ni lago, caminar por las aceras de la ciudad, callejones tranquilos o incluso un pasillo tranquilo sin su teléfono inteligente desencadenará los mismos beneficios cognitivos de la estimulación física y la activación de la red en modo predeterminado.",
-          "fr": "Même s'il n'y a pas de parc ou de lac, marcher sur les trottoirs de la ville, dans les ruelles calmes ou même dans un couloir calme sans votre smartphone déclenchera les mêmes avantages cognitifs que la stimulation physique et l'activation du réseau en mode par défaut.",
-          "de": "Auch wenn es keinen Park oder See gibt, führt das Gehen auf städtischen Gehwegen, ruhigen Gassen oder sogar einem ruhigen Flur ohne Ihr Smartphone zu den gleichen kognitiven Vorteilen wie körperliche Stimulation und Netzwerkaktivierung im Standardmodus.",
-          "pt": "Mesmo que não haja parque ou lago, caminhar nas calçadas da cidade, em becos tranquilos ou até mesmo em um corredor silencioso sem o smartphone irá desencadear os mesmos benefícios cognitivos da estimulação física e da ativação da rede no modo padrão.",
-          "id": "Sekalipun tidak ada taman atau danau, berjalan di trotoar kota, gang sepi, atau bahkan lorong sepi tanpa ponsel cerdas Anda akan memicu manfaat kognitif yang sama dari stimulasi fisik dan aktivasi jaringan mode default."
+          "ko": "숲이나 호수가 아니더라도 도시의 인도나 한적한 골목길, 심지어 조용한 건물 복도를 스마트폰 없이 걷는 것만으로도 신체 자극과 디폴트 모드 네트워크 활성화의 동일한 인지적 효과를 누릴 수 있습니다."
         }
       }
-    ],
-    "stepImages": [
-      "",
-      "",
-      ""
-    ],
-    "pubDate": "2026-01-01",
-    "updatedDate": "2026-01-01"
+    ]
   }
 }

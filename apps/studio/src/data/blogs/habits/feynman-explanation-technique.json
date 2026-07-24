@@ -1,190 +1,62 @@
 {
   "feynman-explanation-technique": {
     "title": {
-      "ko": "노벨상 수상자의 초고속 학습법? 리처드 파인만의 가르치기 습관",
-      "en": "A Nobel Laureate's Superfast Learning Method? Richard Feynman's Teaching Habit",
-      "ja": "ノーベル賞受賞者の超高速学習法？リチャード・ファインマンの「教える」習慣",
-      "zh": "诺贝尔奖得主的超高速学习法？理查德·费曼的教授惯例",
-      "es": "¿El método de aprendizaje veloz de un Premio Nobel? El habit de enseñar de Richard Feynman",
-      "fr": "La méthode d'apprentissage ultra-rapide d'un prix Nobel ? L'habitude d'enseigner de Richard Feynman",
-      "de": "Die superschnelle Lernmethode eines Nobelpreisträgers? Richard Feynmans Gewohnheit zu lehren",
-      "pt": "O método de aprendizagem super-rápido de um laureado com o Nobel? O hábito de ensinar de Richard Feynman",
-      "id": "Metode Belajar Super Cepat Penerima Nobel? Kebiasaan Mengajar Richard Feynman"
+      "ko": "노벨상 수상자의 초고속 학습법? 리처드 파인만의 가르치기 습관"
     },
     "description": {
-      "ko": "어려운 양자역학을 10세 어린이도 이해할 수 있게 가르쳤던 리처드 파인만의 비결. 메타인지를 극대화하여 지식을 완전히 내 것으로 만드는 파인만 테크닉 루틴을 소개합니다.",
-      "en": "The secret of Richard Feynman, who taught quantum mechanics so simply that a 10-year-old could understand. Learn the Feynman Technique routine to maximize metacognition and master knowledge.",
-      "ja": "難しい量子力学を10歳の子供でも理解できるように教えたリチャード・ファインマンの秘訣。メタ認知を極大化して知識を完全に自分のものにするファインマン・テクニックのルーティンを紹介します。",
-      "zh": "理查德·费曼能够将复杂的量子力学讲得连10岁儿童也能理解的秘诀。介绍通过最大化元认知来彻底掌握知识的费曼技巧惯例。",
-      "es": "El secreto de Richard Feynman, quien enseñó mecánica cuántica de forma tan sencilla que un niño de 10 años podía entenderla. Conozca la rutina de la Técnica Feynman para maximizar la metacognición.",
-      "fr": "Le secret de Richard Feynman, qui enseignait la mécanique quantique si simplement qu'un enfant de 10 ans pouvait comprendre. Découvrez la routine de la technique Feynman pour maximiser la métacognition.",
-      "de": "Das Geheimnis von Richard Feynman, der Quantenmechanik so einfach erklärte, dass ein 10-jähriges Kind sie verstehen konnte. Lernen Sie die Feynman-Technik-Routine zur Maximierung der Metakognition kennen.",
-      "pt": "O segredo de Richard Feynman, que ensinou mecânica quântica de forma tão simples que uma criança de 10 anos conseguia compreender. Conheça a rotina da Técnica Feynman para maximizar a metacognição.",
-      "id": "Rahasia Richard Feynman, yang mengajarkan mekanika kuantum dengan sangat sederhana sehingga anak berusia 10 tahun pun dapat memahaminya. Pelajari rutinitas Teknik Feynman untuk memaksimalkan metakognisi."
+      "ko": "어려운 양자역학을 10세 어린이도 이해할 수 있게 가르쳤던 리처드 파인만의 비결. 메타인지를 극대화하여 지식을 완전히 내 것으로 만드는 파인만 테크닉 루틴을 소개합니다."
     },
     "authority": {
-      "ko": "리처드 파인만 저 '파인만씨, 농담도 잘하시네!' 및 교육심리학리뷰(Educational Psychology Review)",
-      "en": "Richard Feynman's 'Surely You're Joking, Mr. Feynman!' & Educational Psychology Review",
-      "ja": "リチャード・ファインマン 著『ご冗談でしょう、ファインマンさん』＆ 教育心理学術誌(Educational Psychology Review)",
-      "zh": "理查德·费曼著《别闹了，费曼先生！》及教育心理学评论期刊(Educational Psychology Review)",
-      "es": "Obra de Richard Feynman 'Surely You're Joking, Mr. Feynman!' y Educational Psychology Review",
-      "fr": "L'ouvrage de Richard Feynman 'Vous voulez rire, monsieur Feynman !' et Educational Psychology Review",
-      "de": "Richard Feynmans 'Sie belieben wohl zu scherzen, Mr. Feynman!' & Educational Psychology Review",
-      "pt": "Obra de Richard Feynman 'Surely You're Joking, Mr. Feynman!' e Educational Psychology Review",
-      "id": "Buku Richard Feynman 'Surely You're Joking, Mr. Feynman!' & Educational Psychology Review"
+      "ko": "리처드 파인만 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "20세기 양자전기역학 분야의 혁신적인 발견으로 노벨 물리학상을 수상한 현대 물리학의 거장, 리처드 파인만. 그는 난해하기로 악명 높은 노벨상 수준의 물리 연구를 대학생부터 대중, 심지어 어린아이까지 누구나 고개를 끄덕이게 설명하는 유쾌하고 탁월한 교육자였습니다. 📝\\n\\n그가 이렇게 지식을 깊고 자유자재로 다룰 수 있었던 비결은 그의 노트에 적힌 독특한 '가르치기' 습관이었습니다. 파인만은 새로운 지식을 배울 때마다 빈 노트를 열고 가상의 10세 어린이가 눈앞에 앉아 있다고 가정했습니다. 그리고 그 어린이에게 직접 설명하듯 전문 용어를 배제하고 가장 쉽고 명쾌한 어휘와 비유로 개념을 설명하여 적었습니다. 서술 중 설명이 장황해지거나 전문 용어 뒤에 숨어야 하는 순간이 오면, 그는 자신의 이해에 구멍이 생겼음을 깨닫고 즉시 오리지널 자료로 돌아가 복습했습니다. 가르치는 행위는 그에게 단순한 교육 봉사가 아니라, 지식을 머릿속에 완벽히 정착시키는 가장 정밀한 개인 학습 루틴이었습니다.\\n\\n오늘 BuildSelf에서는 리처드 파인만의 공부 비법에 숨겨진 脳科学的 진실과 일상에서 새로운 지식이나 기술을 초고속으로 마스터하는 파인만 테크닉 활용법을 공유합니다.\\n\\n\\n\\n\\n---",
-      "en": "Richard Feynman, a giant of modern physics who won the Nobel Prize in Physics for his revolutionary work in quantum electrodynamics. He was a cheerful and outstanding educator who could explain complex research in a way that anyone could understand. The secret lies in his unique 'teaching' habit recorded in his notebook. Whenever Feynman learned something new, he opened a blank notebook and assumed a 10-year-old child was sitting in front of him. He wrote down the concept using simple vocabulary and analogies as if explaining it to that child. When his writing became wordy, he realized there was a gap in his understanding and immediately returned to the original source. Today, BuildSelf shares the neuroscientific truth behind Feynman's learning method and how to master new knowledge quickly.",
-      "ja": "この歴史的習慣の実践において：20 , . , . 📝\\n\\n '' . 10 . . , . , .\\n\\n BuildSelf 脳科学的 .\\n\\n\\n\\n\\n---",
-      "zh": "在这一历史性惯例的实践中：20 , . , . 📝\\n\\n '' . 10 . . , . , .\\n\\n BuildSelf 脳科学的 .\\n\\n\\n\\n\\n---",
-      "es": "En la práctica de esta rutina transformadora: 20 , . , . 📝\\n\\n '' . 10 . . , . , .\\n\\n BuildSelf .\\n\\n\\n\\n\\n--- Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo. Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora: 20 , . , . 📝\\n\\n '' . 10 . . , . , .\\n\\n BuildSelf .\\n\\n\\n\\n\\n--- Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável. Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "\"쉬운 단어로 설명할 수 없다면, 그것은 당신이 그 내용을 전혀 이해하지 못했다는 뜻이다.\" 📝\n\n20세기 양자전기역학 분야의 혁신적인 발견으로 노벨 물리학상을 수상한 현대 물리학의 거장, 리처드 파인만. 그는 난해하기로 악명 높은 노벨상 수준의 물리 연구를 대학생부터 대중, 심지어 어린아이까지 누구나 고개를 끄덕이게 설명하는 유쾌하고 탁월한 교육자였습니다.\n\n그가 이렇게 지식을 깊고 자유자재로 다룰 수 있었던 비결은 그의 노트에 적힌 독특한 '가르치기' 습관이었습니다. 파인만은 새로운 지식을 배울 때마다 빈 노트를 열고 가상의 10세 어린이가 눈앞에 앉아 있다고 가정했습니다. 그리고 그 어린이에게 직접 설명하듯 전문 용어를 배제하고 가장 쉽고 명쾌한 어휘와 비유로 개념을 설명하여 적었습니다. 서술 중 설명이 장황해지거나 전문 용어 뒤에 숨어야 하는 순간이 오면, 그는 자신의 이해에 구멍이 생겼음을 깨닫고 즉시 오리지널 자료로 돌아가 복습했습니다. 가르치는 행위는 그에게 단순한 교육 봉사가 아니라, 지식을 머릿속에 완벽히 정착시키는 가장 정밀한 개인 학습 루틴이었습니다.\n\n오늘 포스트에서는 리처드 파인만의 공부 비법에 숨겨진 뇌과학적 진실과 일상에서 새로운 지식이나 기술을 초고속으로 마스터하는 파인만 테크닉 활용법을 공유합니다."
     },
     "whyTitle": {
-      "ko": "앎의 한계를 파악하는 메타인지와 능동적 인출",
-      "en": "Metacognition and Active Recall: Identifying the Limits of Knowing",
-      "ja": "理解の限界を把握するメタ認知と能動的想起",
-      "zh": "洞察认知边界的元认知与主动回想",
-      "es": "Metacognición y recuerdo activo: identificar los límites del saber",
-      "fr": "Métacognition et rappel actif : identifier les limites du savoir",
-      "de": "Metakognition und aktiver Abruf: Die Grenzen des Wissens erkennen",
-      "pt": "Metacognição e recordação ativa: identificar os limites do saber",
-      "id": "Metakognisi dan Pemanggilan Aktif: Mengidentifikasi Batas Pengetahuan"
+      "ko": "앎의 한계를 파악하는 메타인지와 능동적 인출"
     },
     "whyDesc": {
-      "ko": "새로운 정보를 단순히 읽거나 듣는 수동적인 학습법은 뇌에 기억을 장기적으로 각인시키지 못합니다. 반면, 자신이 습득한 내용을 소리 내어 가르치거나 쉬운 단어로 요약하는 것은 뇌의 인출(Retrieval) 작용을 활용해 지식을 인지 시스템에 깊이 고정시킵니다.\\n\\n특히 초등학생도 알아들을 수 있을 만큼 쉽고 직관적인 비유를 동원해 설명하는 훈련은 뇌의 '메타인지(내가 무엇을 알고 무엇을 모르는지 파악하는 능력)'를 활성화합니다. 전문 용어를 걷어내면 자신이 진정으로 완벽히 아는 것과, 단지 책에 적힌 어휘를 외워 아는 척했던 부분이 드러나기 때문입니다. 이 과정을 통해 뇌의 전두엽과 기억 센터인 해마는 시냅스를 재구성하고, 가르치기 학습을 거친 지식은 머릿속에서 오랫동안 보존되는 장기 기억으로 전이됩니다.",
-      "en": "Passive learning methods like reading or listening fail to imprint memories in the long term. Conversely, speaking or summarizing knowledge in simple words anchors it in the cognitive system using brain retrieval.\\n\\nParticularly, practicing explaining concepts using intuitive analogies activates metacognition—the ability to know what you know and what you don't. Stripping away technical terms reveals what you truly understand versus what you memorized. This process reorganizes synapses in the prefrontal cortex and hippocampus, transferring knowledge into long-term memory.",
-      "ja": "新しい情報を単に読んだり聞いたりする受動的な学習法は、脳に長期的な記憶を刻むことができません。一方、習得した内容を声に出して教えたり簡単な言葉で要約したりすることは、脳の想起(Retrieval)作用を活用して知識を認知システムに深く固定させます。専門用語を省くことで、自分が本当に理解している部分と、単に教科書を暗記していただけの部分が明らかになるからです。この過程を通じて脳の前頭葉と海馬が刺激され、学習内容は長期記憶に転移されます。",
-      "zh": "单纯阅读或倾听新信息的被动学习法，无法在大脑中留下长期的记忆印记。相反，将自己掌握的内容大声讲出来或用通俗的语言进行总结，能借助大脑的“检索（Retrieval）”作用，将知识深深固定在认知系统中。特别是动用连小学生都能听懂的直观比喻来进行讲解的训练，会激活大脑的“元认知（元认知是了解自己知道什么和不知道什么的能力）”。因为剥离了专业术语后，你真正彻底明白的与只是背下书本词汇装作明白的部分就会显露无遗。通过这一过程，大脑的前额叶和记忆中枢海马体会重构突触，经历过“教授”过程的知识会转化为在头脑中长久保存的的长期记忆。",
-      "es": "Los métodos de aprendizaje pasivos no graban recuerdos a largo plazo. Por el contrario, hablar o resumir conocimientos con palabras sencillas los ancla en el sistema cognitivo mediante la recuperación cerebral. Explicar conceptos con analogías intuitivas activa la metacognición: la capacidad de saber lo que sabes y lo que no. Eliminar términos técnicos revela lo que realmente entiendes frente a lo memorizado, reorganizando las sinapsis en la corteza prefrontal y el hipocampo.",
-      "fr": "Les méthodes d'apprentissage passif n'ancrent pas les souvenirs à long terme. À l'inverse, verbaliser ou résumer des connaissances avec des mots simples les fixe dans le système cognitif par la récupération cérébrale. Expliquer avec des analogies intuitives active la métacognition : la capacité de savoir ce qu'on sait et ce qu'on ignore. Éliminer les termes techniques révèle ce que vous comprenez vraiment, réorganisant les synapses dans le cortex préfrontal et l'hippocampe.",
-      "de": "Passives Lernen wie Lesen oder Hören prägt Erinnerungen langfristig nicht ein. Dagegen verankert das laute Erklären oder Zusammenfassen in einfachen Worten das Wissen tief im kognitiven System. Das Erklären mit anschaulichen Analogien aktiviert die Metakognition – die Fähigkeit zu wissen, was man weiß und was nicht. Das Weglassen von Fachbegriffen zeigt, was man wirklich versteht, und strukturiert die Synapsen im präfrontalen Cortex und Hippocampus neu.",
-      "pt": "Os métodos de aprendizagem passivos não gravam memórias a longo prazo. Pelo contrário, falar ou resumir conhecimentos com palavras simples fixa-os no sistema cognitivo através da recuperação cerebral. Explicar conceitos com analogias intuitivas ativa a metacognição: a capacidade de saber o que sabe e o que não sabe. Eliminar termos técnicos revela o que realmente entende, reorganizando as sinapses no córtex pré-frontal e no hipocampo.",
-      "id": "Metode belajar pasif tidak dapat menanamkan ingatan jangka panjang. Sebaliknya, berbicara atau merangkum pengetahuan dengan kata-kata sederhana menjangkarkannya dalam sistem kognitif. Menjelaskan konsep dengan analogi intuitif mengaktifkan metakognisi—kemampuan untuk mengetahui apa yang Anda ketahui & tidak ketahui. Menghilangkan istilah teknis menunjukkan pemahaman Anda yang sebenarnya."
+      "ko": "새로운 정보를 단순히 읽거나 듣는 수동적인 학습법은 뇌에 기억을 장기적으로 각인시키지 못합니다. 반면, 자신이 습득한 내용을 소리 내어 가르치거나 쉬운 단어로 요약하는 것은 뇌의 인출(Retrieval) 작용을 활용해 지식을 인지 시스템에 깊이 고정시킵니다.\\n\\n특히 초등학생도 알아들을 수 있을 만큼 쉽고 직관적인 비유를 동원해 설명하는 훈련은 뇌의 '메타인지(내가 무엇을 알고 무엇을 모르는지 파악하는 능력)'를 활성화합니다. 전문 용어를 걷어내면 자신이 진정으로 완벽히 아는 것과, 단지 책에 적힌 어휘를 외워 아는 척했던 부분이 드러나기 때문입니다. 이 과정을 통해 뇌의 전두엽과 기억 센터인 해마는 시냅스를 재구성하고, 가르치기 학습을 거친 지식은 머릿속에서 오랫동안 보존되는 장기 기억으로 전이됩니다."
+    },
+    "cautionTitle": {
+      "ko": "성공적인 루틴을 위한 뇌과학적 한마디"
+    },
+    "cautionDesc": {
+      "ko": "<strong>아는 척하는 지식의 덫에서 벗어나세요</strong>\\n\\n눈으로 훑어보는 독서와 설명글 감상은 지식을 소유했다는 '가짜 안도감'을 제공하지만, 실제로 행동을 변화시키지는 못합니다. 파인만처럼 학습 후 단 10분만이라도 흰 종이를 펼치고 손과 입을 움직여 설명해 보세요. 스스로 설명할 수 없는 모든 것은 아직 당신의 지식이 아닙니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "주제 선정 및 아동 설명 시뮬레이션",
-          "en": "Select Topic and Simulate Explaining to a Child",
-          "ja": "テーマ選定と児童説明シミュレーション",
-          "zh": "选定主题与儿童讲解模拟",
-          "es": "Seleccionar tema y simular explicación a un niño",
-          "fr": "Sélectionner un sujet et simuler l'explication à un enfant",
-          "de": "Thema auswählen und Erklärung für ein Kind simulieren",
-          "pt": "Selecionar tema e simular explicação a uma criança",
-          "id": "Pilih Topik dan Simulasikan Penjelasan kepada Anak"
+          "ko": "주제 선정 및 아동 설명 시뮬레이션"
         },
         "text": {
-          "ko": "새로 배운 개념이나 업무 지식을 노트 맨 위에 적고, 10세 어린이가 앞에 앉아 있다고 가정합니다. 전문 용어를 전혀 쓰지 않고 쉬운 설명과 비유를 엮어 빈 종이에 써 내려갑니다.",
-          "en": "Write down a newly learned concept or work task at the top of a page, and assume a 10-year-old child is in front of you. Write the explanation on blank paper without using any jargon, using simple descriptions and analogies.",
-          "ja": "新しく学んだ概念や業務知識をノートの最上部に書き留め、10歳の子供が目の前に座っていると仮定します。専門用語を一切使わず、わかりやすい説明と比喩を交えて白い紙に書き出します。",
-          "zh": "在笔记本最上方写下新学到的概念或工作知识，并假设面前坐着一个10岁的儿童。不使用任何专业术语，结合通俗的解释和比喻，在空白纸上写下来。",
-          "es": "Escriba un concepto recién aprendido en la parte superior de una página y asuma que un niño de 10 años está frente a usted. Escriba la explicación en un papel en blanco sin usar tecnicismos, con descripciones sencillas.",
-          "fr": "Écrivez un concept récemment appris en haut d'une page et supposez qu'un enfant de 10 ans est en face. Rédigez l'explication sur une feuille blanche sans jargon, avec des descriptions simples.",
-          "de": "Schreiben Sie ein neu gelerntes Konzept oben auf eine Seite und tun Sie so, als säße ein 10-jähriges Kind vor Ihnen. Schreiben Sie die Erklärung ohne Fachbegriffe mit einfachen Worten auf ein leeres Blatt Papier.",
-          "pt": "Escreva um conceito recém-aprendido no topo de uma página e assuma que uma criança de 10 anos está à sua frente. Escreva a explicação num papel em branco sem usar jargão técnico, com descrições simples.",
-          "id": "Tulis konsep baru di bagian atas halaman, & asumsikan anak berusia 10 tahun ada di depan Anda. Tulis penjelasan di kertas kosong tanpa menggunakan jargon, gunakan deskripsi & analogi sederhana."
+          "ko": "새로 배운 개념이나 업무 지식을 노트 맨 위에 적고, 10세 어린이가 앞에 앉아 있다고 가정합니다. 전문 용어를 전혀 쓰지 않고 쉬운 설명과 비유를 엮어 빈 종이에 써 내려갑니다."
         }
       },
       {
         "name": {
-          "ko": "막힌 부분 검토 및 오리지널 피드백",
-          "en": "Review Blocked Areas and Original Feedback",
-          "ja": "行き詰まった部分の検討とオリジナルフィードバック",
-          "zh": "审查卡壳部分并返回源资料反馈",
-          "es": "Revisar áreas bloqueadas y retroalimentación del original",
-          "fr": "Examiner les zones de blocage et retour aux sources",
-          "de": "Blockierte Bereiche überprüfen und Originalquellen nutzen",
-          "pt": "Rever áreas bloqueadas e feedback do original",
-          "id": "Tinjau Area yang Terhambat dan Umpan Balik Asli"
+          "ko": "막힌 부분 검토 및 오리지널 피드백"
         },
         "text": {
-          "ko": "설명하는 도중 대답이 궁색해지거나, 나도 모르게 복잡한 전문 용어로 얼버무리는 부분을 찾아냅니다. 그 부분이 자신이 모르는 영역이므로 즉시 원본 서적이나 연구 자료로 돌아가 재학습합니다.",
-          "en": "Identify areas where you struggle to explain or find yourself glossing over with jargon. Since these parts represent gaps in your understanding, return to the original book or materials immediately and study them again.",
-          "ja": "説明の途中で答えに詰まったり、思わず難しい専門用語でごまかしたりした部分を見つけ出します。その部分が未熟な領域なので、すぐに元のテキストに戻って再学習します。",
-          "zh": "找出讲解过程中词穷的地方，或者不由自主地用复杂的专业术语含糊带过的部分。这些部分正是你认知上的盲区，要立即回到原始书籍或研究资料中重新学习。",
-          "es": "Identifique las áreas donde le cueste explicar o use tecnicismos para evadir la explicación. Al ser vacíos en su comprensión, regrese de inmediato a los materiales originales y estúdielos de nuevo.",
-          "fr": "Identifiez les zones où vous avez du mal à expliquer ou utilisez du jargon. Ces parties représentant des lacunes, retournez immédiatement aux documents d'origine et étudiez-les à nouveau.",
-          "de": "Finden Sie Stellen, an denen das Erklären schwerfällt oder Sie sich in Fachbegriffe flüchten. Da dies Lücken sind, kehren Sie sofort zu den Originalquellen zurück und lernen Sie diese erneut.",
-          "pt": "Identifique as áreas onde tem dificuldade em explicar ou usa jargão técnico para contornar a explicação. Sendo falhas na sua compreensão, regresse imediatamente aos materiais originais e estude-os de novo.",
-          "id": "Temukan area di mana Anda kesulitan menjelaskan atau menggunakan jargon. Karena bagian ini mewakili celah dalam pemahaman Anda, segera kembali ke buku atau materi asli & pelajari lagi."
+          "ko": "설명하는 도중 대답이 궁색해지거나, 나도 모르게 복잡한 전문 용어로 얼버무리는 부분을 찾아냅니다. 그 부분이 자신이 모르는 영역이므로 즉시 원본 서적이나 연구 자료로 돌아가 재학습합니다."
         }
       },
       {
         "name": {
-          "ko": "개념 단순화 및 최종 설명서 완성",
-          "en": "Simplify Concepts and Complete Final Document",
-          "ja": "概念の単純化と最終説明書の完成",
-          "zh": "简化概念并完成最终说明书",
-          "es": "Simplificar conceptos y completar el documento final",
-          "fr": "Simplifier les concepts et finaliser le document",
-          "de": "Konzepte vereinfachen und das endgültige Dokument fertigstellen",
-          "pt": "Simplificar conceitos e completar o documento final",
-          "id": "Sederhanakan Konsep dan Selesaikan Dokumen Akhir"
+          "ko": "개념 단순화 및 최종 설명서 완성"
         },
         "text": {
-          "ko": "구멍이 메워지면, 한 번 더 쉽게 풀어 설명하는 과정을 거칩니다. 화살표, 도표, 직관적인 그림을 엮어 해당 주제를 전혀 모르는 사람도 3분 안에 이해할 수 있는 궁극의 단순화된 노트를 만듭니다.",
-          "en": "Once the gaps are filled, repeat the simplified explanation process. Combine arrows, diagrams, or intuitive drawings to create the ultimate simplified note that even a novice can understand in 3 minutes.",
-          "ja": "穴が埋まったら、もう一度わかりやすく説明するプロセスを経ます。矢印や図、直感的な絵を組み合わせ、そのテーマを全く知らない人でも3分で理解できる究極にシンプルなノートを完成させます。",
-          "zh": "弥补盲区后，再次进行通俗易懂的讲解。结合箭头、图表或直观的图画，制作出一份终极简化的笔记，让完全不懂该主题的人也能在3分钟内理解。",
-          "es": "Una vez llenados los vacíos, repita el proceso de explicación. Combine diagramas o dibujos para crear la nota simplificada definitiva que incluso un novato pueda entender en 3 minutos.",
-          "fr": "Une fois les lacunes comblées, répétez le processus d'explication. Associez schémas ou dessins pour créer la note simplifiée définitive qu'un novice peut comprendre en 3 minutes.",
-          "de": "Wenn die Lücken gefüllt sind, wiederholen Sie den Erklärungsprozess. Nutzen Sie Diagramme oder Zeichnungen, um eine vereinfachte Notiz zu erstellen, die ein Laie in 3 Minuten verstehen kann.",
-          "pt": "Depois de preencher as falhas, repita o processo de explicação. Combine diagramas ou desenhos para criar a nota simplificada definitiva que até um principiante possa compreender em 3 minutos.",
-          "id": "Setelah celah terisi, ulangi proses penjelasan yang disederhanakan. Padukan diagram atau gambar untuk membuat catatan yang disederhanakan sehingga orang awam pun dapat memahaminya dalam 3 menit."
+          "ko": "구멍이 메워지면, 한 번 더 쉽게 풀어 설명하는 과정을 거칩니다. 화살표, 도표, 직관적인 그림을 엮어 해당 주제를 전혀 모르는 사람도 3분 안에 이해할 수 있는 궁극의 단순화된 노트를 만듭니다."
         }
       }
     ],
-    "cautionTitle": {
-      "ko": "성공적인 루틴을 위한 脳科学的 한마디",
-      "en": "A brain-scientific word for a successful routine",
-      "ja": "効果的なルーティンのための脳科学的な一言",
-      "zh": "成功惯例的脑科学建议",
-      "es": "Un consejo neurocientífico para una rutina exitosa",
-      "fr": "Un conseil neuroscientifique pour une routine réussie",
-      "de": "Ein gehirnwissenschaftlicher Ratschlag für eine erfolgreiche Routine",
-      "pt": "Um conselho neurocientífico para uma rotina de sucesso",
-      "id": "Saran ilmiah saraf untuk rutinitas yang sukses"
-    },
-    "cautionDesc": {
-      "ko": "<strong>아는 척하는 지식의 덫에서 벗어나세요</strong>\\n\\n눈으로 훑어보는 독서와 설명글 감상은 지식을 소유했다는 '가짜 안도감'을 제공하지만, 실제로 행동을 변화시키지는 못합니다. 파인만처럼 학습 후 단 10분만이라도 흰 종이를 펼치고 손과 입을 움직여 설명해 보세요. 스스로 설명할 수 없는 모든 것은 아직 당신의 지식이 아닙니다.",
-      "en": "Escape the trap of pseudo-knowledge. Scanning text gives a false sense of security but doesn't change behavior. Like Feynman, open a blank page and explain using your hands and voice for just 10 minutes after learning. Anything you cannot explain is not your knowledge yet.",
-      "ja": "知っているふりをする「知識の罠」から抜け出してください。目で追う読書は知識を得たような錯覚を与えますが、実際には脳に残りません。ファインマンのように学習後の10分間だけでも白い紙を開き、手と口を動かして説明してみてください。自分で説明できないものはまだ自分の知識ではありません。",
-      "zh": "摆脱装懂知识的陷阱。用眼睛扫视阅读和欣赏说明性文字会给人一种掌握了知识的“虚假安逸感”，但实际上并不能促成行动的改变。像费曼一样，学习后哪怕只花10分钟，打开一张白纸，动用手和嘴去讲解一下吧。凡是无法靠自己讲清楚的，都还不是你自己的知识。",
-      "es": "Escape de la trampa del pseudo-conocimiento. Ojear textos da una falsa sensación de seguridad pero no cambia la conducta. Al igual que Feynman, use una página en blanco y explique con su voz durante 10 minutos tras aprender. Lo que no pueda explicar no es su conocimiento aún.",
-      "fr": "Échappez au piège du pseudo-savoir. Parcourir du texte donne un faux sentiment de sécurité mais ne change pas le comportement. Comme Feynman, ouvrez une page blanche et expliquez avec votre voix pendant 10 minutes après l'apprentissage. Ce que vous ne pouvez expliquer n'est pas encore votre savoir.",
-      "de": "Entkommen Sie der Falle des Scheinwissens. Das Überfliegen von Texten vermittelt ein falsches Sicherheitsgefühl. Nehmen Sie sich wie Feynman nach dem Lernen 10 Minuten Zeit, um auf einem weißen Blatt Papier das Wissen mit eigenen Worten zu erklären. Was Sie nicht erklären können, wissen Sie noch nicht.",
-      "pt": "Fuja da armadilha do pseudo-conhecimento. Passar os olhos por textos dá uma falsa sensação de segurança, mas não muda o comportamento. Tal como Feynman, use uma página em branco e explique com a sua voz durante 10 minutos após aprender. O que não puder explicar não é o seu conhecimento ainda.",
-      "id": "Hindari jebakan seolah-olah tahu. Membaca sekilas memberikan rasa aman yang palsu tetapi tidak mengubah perilaku. Seperti Feynman, buka halaman kosong & jelaskan menggunakan suara Anda selama 10 menit setelah belajar. Apa pun yang tidak dapat Anda jelaskan bukanlah pengetahuan Anda."
-    },
     "faqs": [
       {
         "question": {
-          "ko": "설명해 줄 진짜 어린아이가 주변에 없는데 어떻게 하나요?",
-          "en": "What if there is no real child around to explain to?",
-          "ja": "説明する本当の子供が周りにいない場合はどうすればいいですか？",
-          "zh": "如果身边没有真正的儿童可以讲解该怎么办？",
-          "es": "¿Qué pasa si no hay un niño real cerca para explicarle?",
-          "fr": "Que faire s'il n'y a pas d'enfant réel à qui expliquer ?",
-          "de": "Was ist, wenn kein Kind da ist, dem ich es erklären kann?",
-          "pt": "O que fazer se não houver uma criança real por perto para explicar?",
-          "id": "Bagaimana jika tidak ada anak kecil di sekitar untuk dijelaskan?"
+          "ko": "설명해 줄 진짜 어린아이가 주변에 없는데 어떻게 하나요?"
         },
         "answer": {
-          "ko": "현역 대학생이나 직장 동료, 혹은 책상 위에 있는 가상의 인형이나 10세 수준의 인공지능 챗봇을 대상으로 삼아도 좋으며, 핵심은 '전문 용어를 제외하고 초등학생도 이해할 단어 수준으로 본인의 말과 글을 검열하는 필터링 과정'을 거치는 것입니다.",
-          "en": "You can target college students, coworkers, a toy on your desk, or a chatbot. The key is going through the 'filtering process' of checking your words to exclude jargon and use vocabulary a 10-year-old can understand.",
-          "ja": "大学生や同僚、机の上にある人形、あるいはAIチャットボットを対象にしても構いません。本質は「専門用語を省き、10歳児が理解できる言葉で自分の言葉と文を検閲するフィルタリングプロセス」を経ることです。",
-          "zh": "可以以大学生、同事、桌子上的玩偶，或者人工智能聊天机器人为对象。核心在于经历“过滤过程”，即审视自己的言语和文字，排除专业术语，使用10岁儿童也能听懂的词汇水平进行表达。",
-          "es": "Puede explicarle a un compañero, a un juguete en su escritorio o a un chatbot. La clave es pasar por el 'proceso de filtrado' de revisar sus palabras para excluir tecnicismos y usar vocabulario que un niño pueda entender.",
-          "fr": "Vous pouvez expliquer à un collègue, un jouet ou un chatbot. L'essentiel est de passer par le « processus de filtrage » consistant à vérifier vos mots pour exclure le jargon et utiliser un vocabulaire compréhensible par un enfant.",
-          "de": "Sie können es Kollegen, einem Spielzeug oder einem Chatbot erklären. Wichtig ist der Filterprozess, bei dem Sie Fachbegriffe weglassen und Worte wählen, die ein 10-jähriges Kind verstehen könnte.",
-          "pt": "Pode explicar a um colega, a um brinquedo na sua secretária ou a um chatbot. A chave é passar pelo 'processo de filtragem' de rever as suas palavras para excluir jargão técnico e usar vocabulário que uma criança possa entender.",
-          "id": "Anda dapat menjelaskannya kepada rekan kerja, mainan di meja, atau chatbot. Kuncinya adalah melalui 'proses penyaringan' untuk mengecualikan jargon & menggunakan kosakata yang dapat dipahami anak berusia 10 tahun."
+          "ko": "현역 대학생이나 직장 동료, 혹은 책상 위에 있는 가상의 인형이나 10세 수준의 인공지능 챗봇을 대상으로 삼아도 좋으며, 핵심은 '전문 용어를 제외하고 초등학생도 이해할 단어 수준으로 본인의 말과 글을 검열하는 필터링 과정'을 거치는 것입니다."
         }
       }
     ]

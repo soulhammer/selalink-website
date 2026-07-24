@@ -1,220 +1,72 @@
 {
   "aristotle-walking-study": {
     "title": {
-      "en": "Aristotle's Peripatetic Walking: Moving the Body to Sharpen the Mind",
-      "ko": "아리스토텔레스의 소요 학파 산책: 몸을 움직여 이성을 갈고닦는 법",
-      "ja": "アリストテレスの逍遥学派の散歩：体を動かして理性を研ぎ澄ます方法",
-      "zh": "亚里士多德的逍遥漫步：活动身体以磨砺理性之光",
-      "es": "El paseo peripatético de Aristóteles: mover el cuerpo para agudizar la mente",
-      "fr": "La marche péripatéticienne d'Aristote : bouger le corps pour aiguiser l'esprit",
-      "de": "Aristoteles' peripatetischer Spaziergang: Den Körper bewegen, um den Geist zu schärfen",
-      "pt": "Caminhada peripatética de Aristóteles: mover o corpo para afiar a mente",
-      "id": "Jalan Kaki Peripatetik Aristoteles: Menggerakkan Tubuh untuk Mempertajam Pikiran"
+      "ko": "아리스토텔레스의 소요 학파 산책: 몸을 움직여 이성을 갈고닦는 법"
     },
     "description": {
-      "en": "Learn how Aristotle and the Peripatetic school used walking lectures to enhance logic, trigger cognitive breakthroughs, and boost memory.",
-      "ko": "아리스토텔레스와 소요 학파가 산책하며 사색하고 토론함으로써 인지적 돌파구를 열고 논리력을 높인 방법을 알아봅니다.",
-      "ja": "アリストテレスと逍遥学派が散歩しながら思考し討論することで、認知的な突破口を開き論理力を高めた方法を探ります。",
-      "zh": "了解亚里士多德与逍遥学派如何通过漫步思考与讨论，突破认知瓶颈并提升逻辑思维能力。",
-      "es": "Descubra cómo Aristóteles y la escuela peripatética utilizaban las caminatas para fomentar la lógica, la memoria y los avances cognitivos.",
-      "fr": "Découvrez comment Aristote et l'école péripatéticienne utilisaient la marche pour stimuler la logique, la mémoire et la créativité.",
-      "de": "Erfahren Sie, wie Aristoteles und die peripatetische Schule durch Gehen Logik, Gedächtnis und kognitive Durchbrüche förderten.",
-      "pt": "Descubra como Aristóteles e a escola peripatética usavam caminhadas para promover a lógica, memória e avanços cognitivos.",
-      "id": "Pelajari bagaimana Aristoteles dan sekolah Peripatetik menggunakan jalan kaki untuk memicu terobosan kognitif dan meningkatkan memori."
+      "ko": "아리스토텔레스와 소요 학파가 산책하며 사색하고 토론함으로써 인지적 돌파구를 열고 논리력을 높인 방법을 알아봅니다."
     },
     "authority": {
-      "en": "Diogenes Laërtius, Lives and Opinions of Eminent Philosophers / Neuroscience of exercise on Hippocampus",
-      "ko": "디오게네스 라에르티오스 《명철한 철학자들의 생애와 사상》 / 해마 활성화에 관한 신체 운동 뇌과학 연구",
-      "ja": "ディオゲネス・ラエルティオス『ギリシア哲学者列伝』 / 海馬の活性化に関する身体運動の脳科学研究",
-      "zh": "第欧根尼·拉尔修《哲人言行录》 / 关于身体运动激活海马体的脑科学研究",
-      "es": "Diógenes Laercio, Vidas y opiniones de los filósofos ilustres / Estudio neurocientífico sobre ejercicio e hipocampo",
-      "fr": "Diogène Laërce, Vies et doctrines des philosophes illustres / Étude neuroscientifique sur l'exercice et l'hippocampe",
-      "de": "Diogenes Laertios, Leben und Meinungen berühmter Philosophen / Neurowissenschaftliche Forschung zu Bewegung und Hippocampus",
-      "pt": "Diógenes Laércio, Vidas e Doutrinas dos Filósofos Ilustres / Estudo neurocientífico sobre exercício físico e hipocampo",
-      "id": "Diogenes Laertius, Lives and Opinions of Eminent Philosophers / Studi neurosains tentang olahraga dan aktivitas hipokampus"
+      "ko": "Aristotle Walking Study 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "en": "\"Logic and truth are found not in sitting still, but in active steps.\" Aristotle founded the Lyceum in Athens and spent his days walking along the tree-lined paths (Peripatos) with his disciples, discussing philosophy and science. This active approach to learning led to the term 'Peripatetics' (those who walk). Walking was not just a way to travel, but a tool to unlock deep, logical thinking.",
-      "ko": "\"진리와 이성은 가만히 앉아 있을 때가 아니라, 한 걸음씩 내디딜 때 비로소 완성된다.\" 아리스토텔레스는 아테네에 리케온 학당을 세운 후, 푸른 회랑(Peripatos)을 천천히 거닐며 제자들과 깊은 철학적 대화를 나누었습니다. 신체의 리드미컬한 움직임이 뇌를 깨우고 이성을 단단하게 만든다는 그의 믿음은, 훗날 그들을 '거니는 사람들(소요 학파)'이라 부르는 계기가 되었습니다.",
-      "ja": "「真理と理性は静かに座っているときではなく、一歩ずつ踏み出すときに初めて完成する。」アリストテレスはアテネにリュケイオン学舎を建てた後、緑豊かな回廊（ペリパトス）をゆっくりと歩きながら、弟子たちと深い哲学的な対話を交わしました。身体のリズミカルな動きが脳を目覚めさせ、理性を強固にするという彼の信念は、後に彼らを「歩き回る人々（逍遥学派）」と呼ぶきっかけとなりました。",
-      "zh": "在这一历史性惯例的实践中：\" , .\" , (Peripatos) . , ' ( )' .",
-      "es": "\"La lógica y la verdad no se encuentran en la inmovilidad, sino en los pasos activos.\" Aristóteles fundó el Liceo en Atenas y pasaba sus días caminando con sus discípulos por los senderos (Peripatos), discutiendo filosofía y ciencia. Este enfoque dio origen al término 'peripatéticos' (los que caminan). Caminar era una herramienta para desbloquear el pensamiento lógico profundo.",
-      "fr": "\"La logique et la vérité ne se trouvent pas dans l'immobilité, mais dans l'action.\" Aristote a fondé le Lycée à Athènes et passait ses journées à marcher avec ses disciples le long des sentiers (Peripatos), discutant de philosophie et de science. Cette approche active a donné naissance au terme de 'péripatéticiens' (ceux qui marchent). Marcher était un outil pour libérer la pensée logique profonde.",
-      "de": "\"Logik und Wahrheit finden sich nicht im Stillstand, sondern im aktiven Handeln.\" Aristoteles gründete das Lykeion in Athen und verbrachte seine Tage damit, mit seinen Schülern auf den von Bäumen gesäumten Wegen (Peripatos) spazieren zu gehen und über Philosophie und Wissenschaft zu diskutieren. Dieser Ansatz führte zum Begriff der \"Peripatetiker\" (die umherwandelnden). Gehen war ein Werkzeug, um tiefes, logisches Denken freizusetzen.",
-      "pt": "\"A lógica e a verdade não se encontram na imobilidade, mas nos passos ativos.\" Aristóteles fundou o Liceu em Atenas e passava seus dias caminhando com seus discípulos pelos caminhos (Peripatos), discutindo filosofia e ciência. Essa abordagem deu origem ao termo 'peripatéticos' (aqueles que caminham). Caminhar era uma ferramenta para desbloquear o pensamento lógico profundo.",
-      "id": "\"Logika dan kebenaran tidak ditemukan dalam keheningan, tetapi dalam langkah aktif.\" Aristoteles mendirikan Lyceum di Athena dan menghabiskan hari-harinya berjalan di jalur rindang (Peripatos) bersama murid-muridnya, mendiskusikan filsafat dan sains. Pendekatan aktif ini melahirkan istilah 'Peripatetik' (mereka yang berjalan kaki). Jalan kaki adalah alat untuk membuka pemikiran logis yang mendalam."
+      "ko": "\"진리와 이성은 가만히 앉아 있을 때가 아니라, 한 걸음씩 내디딜 때 비로소 완성된다.\" 🚶‍♂️\n\n아리스토텔레스는 아테네에 리케온 학당을 세운 후, 푸른 회랑(Peripatos)을 천천히 거닐며 제자들과 깊은 철학적 대화를 나누었습니다. 신체의 리드미컬한 움직임이 뇌를 깨우고 이성을 단단하게 만든다는 그의 믿음은, 훗날 그들을 '거니는 사람들(소요 학파)'이라 부르는 계기가 되었습니다.\n\n참조된 연구와 역사적 문헌에 따르면, 이러한 산책 사색은 현대 인지과학적으로도 두뇌 기능을 높이는 확실한 근거를 지니고 있습니다."
     },
     "whyTitle": {
-      "en": "Why Peripatetic Walking Sharpens Logic",
-      "ko": "소요 학파의 산책 사색이 이성을 자극하는 이유",
-      "ja": "逍遥学派の散歩思考が理性を刺激する理由",
-      "zh": "逍遥漫步法刺激理性思考的科学原理",
-      "es": "Por qué el paseo peripatético estimula la razón",
-      "fr": "Pourquoi la marche péripatéticienne stimule la raison",
-      "de": "Warum der peripatetische Spaziergang die Vernunft anregt",
-      "pt": "Por que a caminhada peripatética estimula a razão",
-      "id": "Mengapa Jalan Kaki Peripatetik Menstimulasi Nalar"
+      "ko": "소요 학파의 산책 사색이 이성을 자극하는 이유"
     },
     "whyDesc": {
-      "en": "When we walk, our heart rate increases slightly, pumping more oxygen and nutrients to the brain. Neuroscientific studies show that this physical activity stimulates the production of BDNF (Brain-Derived Neurotrophic Factor), which repairs and grows brain cells, particularly in the hippocampus—the center of learning and memory. The steady rhythm of walking also coordinates brain waves, facilitating the transition between logical focus and creative problem solving.",
-      "ko": "가볍게 걸을 때 심박수가 완만하게 상승하여 뇌로 흐르는 혈류량이 늘어나고 충분한 산소와 영양분이 공급됩니다. 현대 뇌과학 연구에 따르면 산책은 뇌신경 세포를 보호하고 성장을 유도하는 BDNF 물질의 분비를 활성화하며, 특히 학습과 장기 기억을 담당하는 해마 영역을 활성화합니다. 걷는 동안 유지되는 신체의 일정한 리듬감은 대뇌 피질의 주파수를 동조화하여 이성적 사고와 창의적 직관이 원활하게 상호작용하도록 돕습니다.",
-      "ja": "軽く歩くと、心拍数が緩やかに上昇し、脳へ流れる血流量が増え、十分な酸素と栄養分が供給されます。現代の脳科学研究によると、散歩は脳神経細胞を保護し成長を誘導するBDNF物質の分泌を活性化し、特に学習と長期記憶を担当する海馬領域を活性化します。歩く間に維持される身体の一意なリズムは、大脳皮質の周波数を同調させ、理性的思考と創造的直感の円滑な相互作用を促します。",
-      "zh": "当我们轻快地散步时，心率会温和上升，从而增加流向大脑 supply 的血液，并提供充足的氧气与养分。现代脑科学研究表明，漫步能刺激脑源性神经营养因子（BDNF）的分泌，促进脑神经元的修复与新生，特别能激活负责学习与长期记忆的海马体区域。步行时身体保持的规律律动，还能使大脑皮层的脑电波同步化，促进逻辑思维与创造性直觉的无缝结合。",
-      "es": "Al caminar, el ritmo cardíaco aumenta ligeramente, enviando más oxígeno al cerebro. Los estudios neurocientíficos demuestran que esta actividad física estimula la producción de BDNF (Factor Neurotrófico Derivado del Cerebro), que repara y hace crecer las células cerebrales, especialmente en el hipocampo, el centro del aprendizaje. El ritmo constante del caminar también coordina las ondas cerebrales, facilitando el pensamiento lógico.",
-      "fr": "En marchant, le rythme cardiaque augmente légèrement, envoyant plus d'oxygène au cerveau. Les études neuroscientifiques montrent que cette activité stimule la production de BDNF (Facteur Neurotrophique Dérivé du Cerveau), favorisant la croissance des cellules cérébrales, en particulier dans l'hippocampe. Le rythme régulier de la marche coordonne également les ondes cérébrales, facilitant la pensée logique.",
-      "de": "Beim Gehen steigt die Herzfrequenz leicht an, was die Durchblutung des Gehirns fördert. Neurowissenschaftliche Studien zeigen, dass diese körperliche Aktivität die Produktion von BDNF anregt, was das Wachstum von Gehirnzellen insbesondere im Hippocampus fördert. Der stetige Rhythmus des Gehens koordiniert zudem die Gehirnwellen und erleichtert logisches Denken.",
-      "pt": "Ao caminhar, o ritmo cardíaco aumenta ligeiramente, enviando mais oxigênio ao cérebro. Estudos neurocientíficos mostram que essa atividade física estimula a produção de BDNF, que repara e faz crescer as células cerebrais, especialmente no hipocampo. O ritmo constante da caminhada também coordina as ondas cerebrais, facilitando o pensamento lógico.",
-      "id": "Saat kita berjalan, detak jantung meningkat sedikit, memompa lebih banyak oksigen ke otak. Studi neurosains menunjukkan bahwa aktivitas fisik ini merangsang produksi BDNF (Brain-Derived Neurotrophic Factor) yang memperbaiki sel otak, terutama di hipokampus. Ritme berjalan yang stabil juga mengoordinasikan gelombang otak, memfasilitasi pemikiran logis."
+      "ko": "가볍게 걸을 때 심박수가 완만하게 상승하여 뇌로 흐르는 혈류량이 늘어나고 충분한 산소와 영양분이 공급됩니다. 현대 뇌과학 연구에 따르면 산책은 뇌신경 세포를 보호하고 성장을 유도하는 BDNF 물질의 분비를 활성화하며, 특히 학습과 장기 기억을 담당하는 해마 영역을 활성화합니다. 걷는 동안 유지되는 신체의 일정한 리듬감은 대뇌 피질의 주파수를 동조화하여 이성적 사고와 창의적 직관이 원활하게 상호작용하도록 돕습니다."
     },
     "cautionTitle": {
-      "en": "Caution & Tips for Peripatetic Walking",
-      "ko": "소요 학파 산책 사색을 위한 주의사항 및 팁",
-      "ja": "逍遥散歩思考のための注意事項とヒント",
-      "zh": "逍遥漫步法的注意事项与建议",
-      "es": "Precauciones y consejos para el paseo peripatético",
-      "fr": "Précautions et conseils pour la marche péripatéticienne",
-      "de": "Vorsichtsmaßnahmen und Tipps für den peripatetischen Spaziergang",
-      "pt": "Precauções e dicas para a caminhada peripatética",
-      "id": "Peringatan & Tips untuk Jalan Kaki Peripatetik"
+      "ko": "소요 학파 산책 사색을 위한 주의사항 및 팁"
     },
     "cautionDesc": {
-      "en": "Avoid busy streets where you must constantly watch out for traffic, as safety concerns consume executive brain capacity. Instead, choose calm parks or trails. Walk at a gentle pace; running or rushing shifts the body's focus to stamina rather than analytical thinking. Bring a voice recorder or a simple notepad to log ideas immediately before they fade.",
-      "ko": "차량 이동이나 소음이 심한 도로는 피해야 합니다. 주변 상황에 과도하게 집중해야 할 경우 뇌의 인지 기능이 생존 안전 모드로 전환되어 사색 능력이 저하됩니다. 가급적 한적한 공원이나 자연 친화적인 산책로를 선택하세요. 속도는 가볍게 대화할 수 있는 수준이 적당합니다. 번뜩이는 아이디어가 떠올랐을 때 즉시 기록할 수 있는 간편한 메모 앱이나 수첩을 반드시 휴대하세요.",
-      "ja": "交通量が多く騒がしい道路は避けるべきです。周囲の状況に過度に関心を払わなければならない場合、脳の認知機能が安全維持モードに切り替わり、思考能力が低下します。できるだけ静かな公園や自然豊かな散歩道を選んでください。速度は軽く会話ができる程度が適当です。閃いたアイデアをすぐに記録できるメモアプリや手帳を必ず持ち歩いてください。",
-      "zh": "请避开交通拥堵或嘈杂喧嚣的街道。若需要时刻提防周围环境，大脑的认知功能将切换至防御安全模式，导致思辨能力下降。请尽量选择宁静的公园或亲近自然的步道。步行速度以能轻松对话为宜。务必随身携带能随时记录灵感的记事本或手机便签软件，在火花熄灭前迅速记下。",
-      "es": "Evite calles con mucho tráfico, ya que preocuparse por la seguridad consume la capacidad del cerebro. Elija parques tranquilos. Camine a un ritmo moderado; correr desvía el foco del cerebro hacia el esfuerzo físico en lugar del pensamiento. Lleve una libreta o grabadora para registrar las ideas antes de que desaparezcan.",
-      "fr": "Évitez les rues animées où vous devez faire attention à la circulation, car la sécurité consomme de l'énergie cérébrale. Choisissez des parcs calmes. Marchez à un rythme modéré ; courir déplace le focus vers l'effort physique. Apportez un carnet ou un enregistreur pour noter les idées avant qu'elles ne s'effacent.",
-      "de": "Vermeiden Sie belebte Straßen mit viel Verkehr, da Sicherheitsbedenken die kognitive Kapazität beanspruchen. Wählen Sie ruhige Parks. Gehen Sie in mäßigem Tempo; Laufen lenkt den Fokus auf die körperliche Anstrengung. Nehmen Sie ein Notizbuch mit, um Ideen sofort festzuhalten.",
-      "pt": "Evite ruas movimentadas com muito tráfego, pois se preocupar com a segurança consome a capacidade cerebral. Escolha parques calmos. Caminhe a um ritmo moderado; correr desvia o foco do cérebro para o esforço físico. Leve um bloco de notas para registrar as ideias antes que desapareçam.",
-      "id": "Hindari jalan yang ramai dengan lalu lintas karena masalah keamanan akan menghabiskan kapasitas kognitif otak. Pilih taman yang tenang. Berjalanlah dengan kecepatan sedang; berlari akan mengalihkan fokus otak ke stamina. Bawa perekam suara atau buku catatan untuk menulis ide."
+      "ko": "차량 이동이나 소음이 심한 도로는 피해야 합니다. 주변 상황에 과도하게 집중해야 할 경우 뇌의 인지 기능이 생존 안전 모드로 전환되어 사색 능력이 저하됩니다. 가급적 한적한 공원이나 자연 친화적인 산책로를 선택하세요. 속도는 가볍게 대화할 수 있는 수준이 적당합니다. 번뜩이는 아이디어가 떠올랐을 때 즉시 기록할 수 있는 간편한 메모 앱이나 수첩을 반드시 휴대하세요."
     },
     "steps": [
       {
         "name": {
-          "en": "Select a Cognitive Query",
-          "ko": "1단계: 해결할 주제 정의하기",
-          "ja": "ステップ1：解決するテーマの定義",
-          "zh": "第一步：明确思索的议题",
-          "es": "Definir el tema a resolver",
-          "fr": "Définir le sujet à résoudre",
-          "de": "Definieren Sie das Thema",
-          "pt": "Definir o tema a resolver",
-          "id": "Langkah 1: Tentukan Topik Masalah"
+          "ko": "1단계: 해결할 주제 정의하기"
         },
         "text": {
-          "en": "Before stepping out, clarify one specific problem or idea you want to analyze. Do not burden your mind with multiple complex tasks; keeping focus on a single question allows logic to build continuously.",
-          "ko": "문을 나서기 전에 해결하고 싶은 단 한 가지의 구체적인 문제나 기획 주제를 정의합니다. 너무 많은 문제를 한꺼번에 떠올리면 논리적 흐름이 파편화되므로, 집중할 대상을 좁히는 것이 중요합니다.",
-          "ja": "散歩に出る前に、解決したい具体的な問題やテーマを一つだけ定義します。多くの問題を同時に考えると論理の流れが断片化するため、集中する対象を絞り込むことが重要です。",
-          "zh": "在迈出门槛之前，明确你想要分析的某一个具体问题或创意主题。不要试图同时解决多个复杂任务，集中注意力于单一问题能让逻辑思维连贯地构建。",
-          "es": "Antes de salir, defina un problema específico que desee analizar. No intente resolver varias tareas complejas a la vez; mantener el enfoque en una sola pregunta permite que la lógica se desarrolle de manera continua.",
-          "fr": "Avant de sortir, définissez un problème spécifique à analyser. Ne surchargez pas votre esprit avec plusieurs tâches complexes ; rester concentré sur une seule question permet à la logique de se construire en continu.",
-          "de": "Klären Sie vor dem Losgehen ein bestimmtes Problem, das Sie analysieren möchten. Überlasten Sie Ihren Geist nicht mit mehreren Aufgaben; der Fokus auf eine Frage ermöglicht kontinuierliche Logik.",
-          "pt": "Antes de sair, defina um problema específico que deseja analisar. Não tente resolver várias tarefas complexas ao mesmo tempo; manter o foco em uma única questão permite que a lógica se desenvolva continuamente.",
-          "id": "Sebelum melangkah keluar, perjelas satu masalah spesifik yang ingin Anda analisis. Jangan membebani pikiran dengan banyak tugas rumit agar alur logika dapat terbangun secara konsisten."
+          "ko": "문을 나서기 전에 해결하고 싶은 단 한 가지의 구체적인 문제나 기획 주제를 정의합니다. 너무 많은 문제를 한꺼번에 떠올리면 논리적 흐름이 파편화되므로, 집중할 대상을 좁히는 것이 중요합니다."
         }
       },
       {
         "name": {
-          "en": "Walk at an Analytical Pace",
-          "ko": "2단계: 일정한 속도로 산책하기",
-          "ja": "ステップ2：一定の速度で散歩する",
-          "zh": "第二步：以匀速舒适漫步",
-          "es": "Caminar a un ritmo constante",
-          "fr": "Marcher à un rythme régulier",
-          "de": "Gehen Sie in gleichmäßigem Tempo",
-          "pt": "Caminar a um ritmo constante",
-          "id": "Langkah 2: Berjalan dengan Kecepatan Stabil"
+          "ko": "2단계: 일정한 속도로 산책하기"
         },
         "text": {
-          "en": "Begin walking at a comfortable, natural pace. Let your posture align and breathe steadily. Focus your thoughts on the selected query, letting the physical movement coordinate and stimulate analytical reasoning.",
-          "ko": "가장 편안하고 자연스러운 속도로 걷기 시작합니다. 올바른 자세를 유지하고 규칙적으로 호흡하세요. 걷는 신체 동작과 발걸음의 리듬에 맞춰 머릿속의 논리 고리를 하나씩 이어 나갑니다.",
-          "ja": "最も快適で自然な速度で歩き始めます。正しい姿勢を保ち、規則正しく呼吸してください。歩く身体の動作と歩幅のリズムに合わせて、頭の中の論理の鎖を一つずつつなぎ合わせていきます。",
-          "zh": "以最舒适、自然的步调开始行走。保持良好的坐姿挺拔并均匀呼吸。随着脚步的规律节奏，在脑海中逐步推导和链接逻辑线索。",
-          "es": "Comience a caminar a un ritmo natural. Mantenga una postura alineada y respire con regularidad. Concentre sus pensamientos en el tema elegido, dejando que el movimiento coordine el razonamiento analítico.",
-          "fr": "Commencez à marcher à un rythme naturel. Gardez une bonne posture et respirez régulièrement. Concentrez vos pensées sur le sujet choisi, laissant le mouvement coordonner le raisonnement analytique.",
-          "de": "Beginnen Sie in natürlichem Tempo zu gehen. Achten Sie auf eine aufrechte Haltung und atmen Sie gleichmäßig. Konzentrieren Sie Ihre Gedanken auf das Thema und lassen Sie die Bewegung das Denken koordinieren.",
-          "pt": "Comece a caminhar a um ritmo natural. Mantenha uma postura alinhada e respire regularmente. Concentre seus pensamentos no tema escolhido, deixando que o movimento coordene o raciocínio analítico.",
-          "id": "Mulailah berjalan dengan kecepatan yang nyaman dan alami. Jaga postur tubuh tetap tegak dan bernapaslah dengan teratur. Hubungkan alur pikiran secara bertahap seiring ritme langkah kaki Anda."
+          "ko": "가장 편안하고 자연스러운 속도로 걷기 시작합니다. 올바른 자세를 유지하고 규칙적으로 호흡하세요. 걷는 신체 동작과 발걸음의 리듬에 맞춰 머릿속의 논리 고리를 하나씩 이어 나갑니다."
         }
       },
       {
         "name": {
-          "en": "Anchor the Epiphany",
-          "ko": "3단계: 통찰을 발견하고 즉시 기록하기",
-          "ja": "ステップ3：洞察を発見し直ちに記録する",
-          "zh": "第三步：捕捉并迅速记录洞察",
-          "es": "Registrar las ideas de inmediato",
-          "fr": "Noter les idées immédiatement",
-          "de": "Ideen sofort festhalten",
-          "pt": "Registrar as ideias imediatamente",
-          "id": "Langkah 3: Tulis Ide yang Muncul Segera"
+          "ko": "3단계: 통찰을 발견하고 즉시 기록하기"
         },
         "text": {
-          "en": "The moment a breakthrough or logic chain crystallizes, stop and write it down. Unrecorded mental insights melt away quickly once the walking rhythm breaks or you return to a static environment.",
-          "ko": "생각의 실타래가 풀리거나 명확한 통찰이 찾아오는 순간, 즉시 걸음을 멈추거나 벤치에 앉아 기록을 시작합니다. 산책 도중 얻은 아이디어는 정적인 환경으로 돌아가면 쉽게 사라지기 때문에 즉각적인 기록이 필수적입니다.",
-          "ja": "思考がまとまったり明確な洞察が得られたりした瞬間、すぐに足を止めるかベンチに座って記録を開始します。散歩中に得たアイデアは、静的な環境に戻るとすぐに消え去ってしまうため、即時の記録が不可欠です。",
-          "zh": "一旦思绪豁然开朗或逻辑线索拼凑完整，请立即停下脚步或找长椅坐下进行记录。散步中闪现的灵感极易在回到静止环境或步行节奏中断后迅速消散，即刻记录至关重要。",
-          "es": "En el momento en que surja una idea clara, deténgase y escríbala. Las ideas no registradas desaparecen rápidamente una vez que se interrumpe el ritmo de la caminata o se regresa a un entorno estático.",
-          "fr": "Dès qu'une idée claire apparaît, arrêtez-vous et notez-la. Les idées non notées disparaissent rapidement une fois le rythme de marche interrompu ou de retour dans un environnement statique.",
-          "de": "Sobald sich ein Durchbruch abzeichnet, halten Sie an und schreiben Sie ihn auf. Ungeschriebene Gedanken verblassen schnell, wenn der Gehrhythmus unterbrochen wird oder Sie in eine statische Umgebung zurückkehren.",
-          "pt": "No momento em que surgir uma ideia clara, pare e escreva-a. Ideias não registradas desaparecem rapidamente assim que o ritmo da caminhada é interrompido ou se retorna a um ambiente estático.",
-          "id": "Begitu terobosan ide atau kesimpulan logis terbentuk, segera berhenti dan catat. Ide yang tidak dicatat akan cepat memudar setelah ritme berjalan terputus atau saat Anda kembali ke ruangan statis."
+          "ko": "생각의 실타래가 풀리거나 명확한 통찰이 찾아오는 순간, 즉시 걸음을 멈추거나 벤치에 앉아 기록을 시작합니다. 산책 도중 얻은 아이디어는 정적인 환경으로 돌아가면 쉽게 사라지기 때문에 즉각적인 기록이 필수적입니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "en": "Is outdoor walking necessary, or is a treadmill okay?",
-          "ko": "실외 산책 대신 트레드밀(러닝머신) 위를 걸어도 효과가 같나요?",
-          "ja": "屋外の散歩の代わりにトレッドミル（ランニングマシン）を歩いても効果は同じですか？",
-          "zh": "用跑步机代替室外散步能达到同样的效果吗？",
-          "es": "¿Caminar en cinta tiene el mismo efecto que caminar al aire libre?",
-          "fr": "Est-ce que marcher sur un tapis roulant a le même effet que marcher dehors ?",
-          "de": "Hat das Gehen auf dem Laufband dieselbe Wirkung wie im Freien?",
-          "pt": "Caminhar na esteira tem o mesmo efeito que caminhar ao ar livre?",
-          "id": "Apakah berjalan di atas treadmill memiliki efek yang sama dengan berjalan di luar ruangan?"
+          "ko": "실외 산책 대신 트레드밀(러닝머신) 위를 걸어도 효과가 같나요?"
         },
-        "text": {},
         "answer": {
-          "en": "Outdoor walking is highly recommended. The visual flow of moving through a physical landscape triggers 'optic flow,' which calms the amygdala, reduces anxiety, and enhances open-ended creativity much more effectively than staring at a static wall on a treadmill.",
-          "ko": "가급적 야외 산책을 강력하게 권장합니다. 풍경이 지나가는 시각적 흐름인 '광학 흐름(Optic Flow)'은 편도체를 진정시켜 불안감을 낮추고, 트레드밀에서 고정된 벽을 보고 걸을 때보다 창의적 아이디어 유도를 훨씬 더 활성화합니다.",
-          "ja": "できるだけ屋外での散歩を強くお勧めします。風景が移り変わる視覚的な流れである「オプティック・フロー（Optic Flow）」は、扁桃体を落ち着かせて不安を軽減し、トレッドミルで固定された壁を見ながら歩くときよりも、創造的なアイデアの創出をはるかに活性化します。",
-          "zh": "强烈建议进行户外漫步。身处户外时，周围景物移动所产生的“光流（Optic Flow）”视觉体验能够有效安抚杏桃体、缓解焦虑，相比于在跑步机上面对单调的墙面，它更能激发发散性思维与创造力。",
-          "es": "Se recomienda caminar al aire libre. El flujo visual de desplazarse a través de un paisaje real calma la amígdala, reduce la ansiedad y fomenta la creatividad de manera mucho más efectiva que mirar una pared fija en una cinta.",
-          "fr": "La marche en plein air est fortement recommandée. Le flux visuel de paysages qui défilent calme l'amygdale, réduit l'anxiété et stimule la créativité bien plus efficacement que de regarder un mur fixe sur un tapis roulant.",
-          "de": "Gehen im Freien wird dringend empfohlen. Der visuelle Fluss der sich bewegenden Landschaft beruhigt die Amygdala, baut Ängste ab und fördert die Kreativität viel effektiver, als auf eine Wand auf dem Laufband zu starren.",
-          "pt": "Caminhar ao ar livre é altamente recomendado. O fluxo visual de se mover por uma paisagem real acalma a amígdala, reduz a ansiedade e estimula a criatividade de forma muito mais eficaz do que olhar para uma parede fixa na esteira.",
-          "id": "Sangat disarankan berjalan di luar ruangan. Aliran visual pemandangan saat bergerak (optic flow) dapat menenangkan amigdala, mengurangi kecemasan, dan merangsang kreativitas jauh lebih baik daripada menatap dinding statis di atas treadmill."
+          "ko": "가급적 야외 산책을 강력하게 권장합니다. 풍경이 지나가는 시각적 흐름인 '광학 흐름(Optic Flow)'은 편도체를 진정시켜 불안감을 낮추고, 트레드밀에서 고정된 벽을 보고 걸을 때보다 창의적 아이디어 유도를 훨씬 더 활성화합니다."
         }
       },
       {
         "question": {
-          "en": "How long should I walk for best results?",
-          "ko": "사색을 위한 산책 시간은 얼마 정도가 가장 적당한가요?",
-          "ja": "思考のための散歩時間はどれくらいが最も適当ですか？",
-          "zh": "为思考而进行的散步一般持续多久最合适？",
-          "es": "¿Cuánto tiempo debo caminar para obtener mejores resultados?",
-          "fr": "Combien de temps dois-je marcher pour obtenir les meilleurs résultats ?",
-          "de": "Wie lange sollte ich für beste Ergebnisse gehen?",
-          "pt": "Quanto tempo devo caminhar para obter os melhores resultados?",
-          "id": "Berapa lama waktu jalan kaki yang ideal untuk menghasilkan pemikiran terbaik?"
+          "ko": "사색을 위한 산책 시간은 얼마 정도가 가장 적당한가요?"
         },
-        "text": {},
         "answer": {
-          "en": "20 to 30 minutes is ideal. Walking for this duration provides sufficient aerobic benefits to increase blood flow and trigger BDNF production, without causing physical fatigue that might exhaust the energy needed for deep analytical thinking.",
-          "ko": "약 20~30분 내외가 가장 이상적입니다. 이 정도 시간은 신체적 피로를 유발해 사색에 쓰일 에너지를 소모하지 않으면서도, 뇌로 가는 혈류량을 증폭시키고 BDNF 분비를 유도하는 데 필요한 산소량을 충분히 확보해 줍니다.",
-          "ja": "約20〜30分程度が最も理想的です。この程度の時間は、身体的な疲労を引き起こして思考に使うエネルギーを消耗させることなく、脳への血流量を増やし、BDNFの分泌を促すために必要な酸素量を十分に確保してくれます。",
-          "zh": "大约20至30分钟最为理想。这个时长既能有效增加大脑血流量、促进脑源性神经营养因子（BDNF）的分泌，又不会因过度疲劳而消耗掉深度分析思考所需的精力。",
-          "es": "De 20 a 30 minutos es lo ideal. Este tiempo proporciona los beneficios aeróbicos necesarios para aumentar el flujo sanguíneo y el BDNF, sin causar fatiga física que reste energía al pensamiento analítico.",
-          "fr": "20 à 30 minutes sont idéales. Cette durée apporte les bienfaits aérobiques nécessaires pour augmenter le flux sanguin et le BDNF, sans causer de fatigue physique qui nuirait à la pensée profonde.",
-          "de": "20 bis 30 Minuten sind ideal. Diese Dauer bietet genügend aeroben Nutzen, um die Durchblutung und BDNF-Produktion zu steigern, ohne körperliche Ermüdung hervorzurufen, die die Energie für tiefes Denken raubt.",
-          "pt": "De 20 a 30 minutos é o ideal. Esse tempo proporciona os benefícios aeróbicos necessários para aumentar o fluxo sanguíneo e o BDNF, sem causar fadiga física que diminua a energia para o pensamento analítico.",
-          "id": "Sekitar 20 hingga 30 menit adalah waktu yang ideal. Durasi ini cukup untuk meningkatkan aliran darah ke otak dan memicu produksi BDNF tanpa menyebabkan kelelahan fisik yang dapat menguras energi kognitif Anda."
+          "ko": "약 20~30분 내외가 가장 이상적입니다. 이 정도 시간은 신체적 피로를 유발해 사색에 쓰일 에너지를 소모하지 않으면서도, 뇌로 가는 혈류량을 증폭시키고 BDNF 분비를 유도하는 데 필요한 산소량을 충분히 확보해 줍니다."
         }
       }
-    ],
-    "pubDate": "2026-03-25",
-    "updatedDate": "2026-03-25"
+    ]
   }
 }

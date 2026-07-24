@@ -1,218 +1,72 @@
 {
   "bell-midnight-darkness": {
     "title": {
-      "ko": "한밤중 완전한 어둠을 발명 도구로 쓴 천재? 알렉산더 그레이엄 벨의 감각 차단 루틴",
-      "en": "The Genius Who Used Midnight Darkness as an Invention Tool? Alexander Graham Bell's Sensory Deprivation Routine",
-      "ja": "真夜中の完全な暗闇を発明の道具にした天才？アレクサンダー・グラハム・ベルの感覚遮断ルーティン",
-      "zh": "把深夜的完全黑暗当做发明工具的天才？亚历山大·格拉汉姆·贝尔的感官剥夺惯例",
-      "es": "¿El genio que utilizó la oscuridad de la medianoche como herramienta de invención? La rutina de privación sensorial de Alexander Graham Bell",
-      "fr": "Le génie qui utilisait l'obscurité de minuit comme outil d'invention ? La routine de privation sensorielle d'Alexander Graham Bell",
-      "de": "Das Genie, das die Mitternachtsdunkelheit als Erfindungswerkzeug nutzte? Alexander Graham Bells sensorische Deputationsroutine",
-      "pt": "O gênio que usou a escuridão da meia-noite como ferramenta de invenção? A rotina de privação sensorial de Alexander Graham Bell",
-      "id": "Sang Genius yang Menggunakan Kegelapan Tengah Malam Sebagai Alat Penemuan? Rutinitas Deprivasi Sensorik Alexander Graham Bell"
+      "ko": "한밤중 완전한 어둠을 발명 도구로 쓴 천재? 알렉산더 그레이엄 벨의 감각 차단 루틴"
     },
     "description": {
-      "ko": "전화기를 발명하여 인류의 소통 방식을 바꾼 알렉산더 그레이엄 벨. 낮 동안의 지독한 감각 과부하를 해소하고 뇌를 각성시킨 그의 '한밤중 완전 어둠' 딥워크법과 현대인을 위한 3단계 실천법을 알아봅니다.",
-      "en": "Alexander Graham Bell, the inventor of the telephone. Discover his midnight sensory deprivation deep work routine to escape daytime sensory overload and boost focus.",
-      "ja": "電話を発明し、人類のコミュニケーションを一変させたアレクサンダー・グラハム・ベル. 昼間の感覚過負荷を解消し、脳を活性化させた彼の「真夜中の完全暗闇」ディープワーク法を紹介します.",
-      "zh": "发明电话并改变人类交流方式的亚历山大·格拉汉姆·贝尔. 介绍他通过“深夜完全黑暗”来实现深度工作、缓解白天感官超载的脑科学常规.",
-      "es": "Alexander Graham Bell, el inventor del teléfono. Descubra su rutina de trabajo profundo a medianoche para escapar de la sobrecarga sensorial y mejorar el enfoque.",
-      "fr": "Alexander Graham Bell, l'inventeur du téléphone. Découvrez sa routine de trabalho(travail) profond de minuit pour échapper à la surcharge sensorielle.",
-      "de": "Alexander Graham Bell, der Erfinder des Telefons. Entdecken Sie seine mitternächtliche Routine zur sensorischen Deprivation, um Reizüberflutung zu entkommen.",
-      "pt": "Alexander Graham Bell, o inventor do telefone. Descubra a sua rotina de trabalho profundo na escuridão da meia-noite para escapar da sobrecarga sensorial.",
-      "id": "Alexander Graham Bell, penemu telepon. Temukan rutinitas kerja mendalam tengah malamnya untuk melepaskan diri dari kelebihan beban sensorik."
+      "ko": "전화기를 발명하여 인류의 소통 방식을 바꾼 알렉산더 그레이엄 벨. 낮 동안의 지독한 감각 과부하를 해소하고 뇌를 각성시킨 그의 '한밤중 완전 어둠' 딥워크법과 현대인을 위한 3단계 실천법을 알아봅니다."
     },
     "authority": {
-      "ko": "알렉산더 그레이엄 벨 전기 'Reluctant Genius' 및 Frontiers in Human Neuroscience 학술지",
-      "en": "Alexander Graham Bell's Biography 'Reluctant Genius' & Frontiers in Human Neuroscience Journal",
-      "ja": "ベル伝記「Reluctant Genius」および学術誌「Frontiers in Human Neuroscience」",
-      "zh": "传记《Reluctant Genius》与学术期刊《Frontiers in Human Neuroscience》",
-      "es": "Biografía de Alexander Graham Bell 'Reluctant Genius' y revista Frontiers in Human Neuroscience",
-      "fr": "Biographie d'Alexander Graham Bell 'Reluctant Genius' & revue Frontiers in Human Neuroscience",
-      "de": "Alexander Graham Bells Biografie 'Reluctant Genius' & Fachzeitschrift Frontiers in Human Neuroscience",
-      "pt": "Biografia de Alexander Graham Bell 'Reluctant Genius' & revista Frontiers in Human Neuroscience",
-      "id": "Biografi Alexander Graham Bell 'Reluctant Genius' & Jurnal Frontiers in Human Neuroscience"
+      "ko": "알렉산더 그레이엄 벨 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "인류 최초로 실용적인 전화기를 발명하여 지구촌을 하나로 묶고 소통의 패러다임을 혁명적으로 바꾼 위대한 발명가이자 과학자, 알베르트 그레이엄 벨. 소리와 전자기학의 미지의 영역을 개척한 그의 창의적이고 파괴적인 영감들은 과연 어떤 환경에서 탄생했을까요? 🌌\n\n벨은 낮 동안 청각 장애인을 교육하는 인도주의적 활동과 다양한 비즈니스 계약으로 인해 매일 엄청난 인지적 피로와 감각 과부하에 노출되었습니다. 이를 극복하고 뇌의 집중력을 복구하기 위해 그는 밤 10시부터 새벽 2시까지를 자신만의 '어둠 속 딥워크 시간'으로 정했습니다. 벨은 방 안의 모든 촛불을 끄고 완벽한 정적과 암흑을 조성한 채 침대에 누워 복잡한 발명품의 구조와 소리의 진동 파동을 머릿속으로 시각화했습니다. 시각과 청각 감각을 완전히 차단하는 이 독특한 습관이야말로 그가 평생 수많은 발명을 완성하는 원천이 되었습니다.\n\n오늘 BuildSelf에서는 벨이 매일 밤 실천했던 '감각 차단' 루틴의 과학적 메커니즘과 현대인을 위한 3단계 실천법을 알아봅니다.",
-      "en": "Alexander Graham Bell, the great inventor who changed the paradigm of human communication by inventing the first practical telephone. Where did his creative inspirations come from? 🌌\n\nDuring the day, Bell was exposed to severe cognitive fatigue and sensory overload due to humanitarian work for the deaf and business contracts. To overcome this, he designated 10 PM to 2 AM as his own 'darkness deep work time.' Turning off all candles to create absolute silence and darkness, he visualized complex mechanical structures in his mind. This sensory deprivation habit was the source of his inventions.\n\nToday, BuildSelf introduces the scientific mechanisms behind Bell's 'sensory deprivation' routine and a 3-step practice for modern people.",
-      "ja": "人類初の電話を発明し、地球規模のコミュニケーションに革命をもたらした偉大な発明家アレクサンダー・グラハム・ベル. 音響学と電磁気学を開拓した彼のインスピレーションは、どのような環境から生まれたのでしょうか？ 🌌\n\nベルは昼間、聴覚障害者の教育活動や複雑なビジネスに携わり、深刻な感覚過負荷にさらされていました. これを克服するため, 彼は夜10時から深夜2時までを「暗闇でのディープワーク時間」と定めました. 部屋のロウソクを全て消して完全な静寂と暗闇を作り、頭の中で複雑な機械構造を立体的に可視化しました. この感覚を遮断する習慣こそが、数々の偉大な発明を生み出す源泉だったのです.\n\n今日のBuildSelfでは、ベルが毎夜実践した「感覚遮断」ルーティンの科学的メカニズムと現代的な実践法を紹介します.",
-      "zh": "在这一历史性惯例的实践中： , . ? 🌌 在这一历史性惯例的实践中： . 10 2 ' ' . . . 在这一历史性惯例的实践中： BuildSelf ' ' 3 .",
-      "es": "Alexander Graham Bell, el gran inventor que cambió el paradigma de la comunicación humana al inventar el primer teléfono práctico. ¿De dónde surgieron sus inspiraciones creativas? 🌌\n\nDurante el día, Bell estaba expuesto a una fatiga cognitiva extrema debido a su labor con personas sordas y compromisos comerciales. Para superar esto, reservaba de 10 PM a 2 AM para su propio 'trabajo profundo en la oscuridad'. Apagaba todas las velas para crear un silencio y oscuridad absolutos, visualizando las estructuras en su mente. Este hábito de privación sensorial fue el motor de sus inventos.\n\nHoy, BuildSelf presenta los mecanismos científicos detrás de la rutina de 'privación sensorial' de Bell y una guía de 3 pasos para la vida moderna.",
-      "fr": "Alexander Graham Bell, le grand inventeur qui a révolutionné la communication humaine en créant le premier téléphone. D'où venaient ses inspirations créatives ? 🌌\n\nDurant la journée, Bell subissait une grande fatigue cognitive due à ses activités auprès des sourds et ses obligations professionnelles. Pour y remédier, il s'isolait de 22h à 2h pour travailler dans l'obscurité. Éteignant toutes les bougies pour créer un silence et une obscurité absolus, il visualisait les mécanismes dans sa tête. Cette habitude de privation sensorielle fut le moteur de ses inventions.\n\nAujourd'hui, BuildSelf présente les mecanismos(mécanismes) scientifiques derrière la routine de 'privation sensorielle' de Bell et comment l'adapter en 3 étapes.",
-      "de": "Alexander Graham Bell, der große Erfinder, der mit der Erfindung des ersten Telefons die menschliche Kommunikation revolutionierte. Woher stammten seine kreativen Inspirationen?\n\n🌌 Tagsüber war Bell durch seine Arbeit für Gehörlose und geschäftliche Verträge starker kognitiver Überlastung ausgesetzt. Um dies zu überwinden, nutzte er die Zeit von 22 Uhr bis 2 Uhr morgens für seine 'Dunkelheits-Deep-Work'.\n\nEr löschte alle Kerzen, um absolute Stille und Dunkelheit zu schaffen, und visualisierte komplexe Strukturen in seinem Geist. Diese sensorische Deprivation war die Quelle seiner Erfindungen.",
-      "pt": "Alexander Graham Bell, o grande inventor que mudou a comunicação humana ao inventar o telefone prático. De onde vinham suas inspirações criativas? 🌌\n\nDurante o dia, Bell sofria com sobrecarga sensorial devido ao trabalho de apoio a surdos e compromissos de negócios. Para superar isso, estabeleceu o período das 22h às 2h como seu 'trabalho profundo no escuro'. Ele apagava as velas para criar silêncio e escuridão absolutos, visualizando mecanismos em sua mente. Esse hábito de privação sensorial foi o motor de suas invenções.\n\nHoje, o BuildSelf apresenta os mecanismos científicos por trás da rotina de 'privação sensorial' de Bell e uma prática de 3 passos para o dia a dia.",
-      "id": "Alexander Graham Bell, penemu hebat yang mengubah paradigma komunikasi manusia dengan menciptakan telepon praktis. Dari mana inspirasi kreatifnya berasal? 🌌\n\nDi siang hari, Bell terpapar kelelahan kognitif yang parah akibat pekerjaannya untuk tunarungu dan urusan bisnis. Untuk mengatasinya, ia menetapkan pukul 22.00 hingga 02.00 sebagai 'waktu kerja mendalam dalam kegelapan'. Mematikan lilin untuk menciptakan keheningan dan kegelapan total, ia memvisualisasikan struktur mekanis di pikirannya. Deprivasi sensorik ini adalah sumber penemuannya.\n\nHari ini, BuildSelf menyajikan mekanisme ilmiah di balik rutinitas 'deprivasi sensorik' Bell dan panduan praktis 3 langkah."
+      "ko": "인류 최초로 실용적인 전화기를 발명하여 지구촌을 하나로 묶고 소통의 패러다임을 혁명적으로 바꾼 위대한 발명가이자 과학자, 알베르트 그레이엄 벨. 소리와 전자기학의 미지의 영역을 개척한 그의 창의적이고 파괴적인 영감들은 과연 어떤 환경에서 탄생했을까요? 🌌\n\n벨은 낮 동안 청각 장애인을 교육하는 인도주의적 활동과 다양한 비즈니스 계약으로 인해 매일 엄청난 인지적 피로와 감각 과부하에 노출되었습니다. 이를 극복하고 뇌의 집중력을 복구하기 위해 그는 밤 10시부터 새벽 2시까지를 자신만의 '어둠 속 딥워크 시간'으로 정했습니다. 벨은 방 안의 모든 촛불을 끄고 완벽한 정적과 암흑을 조성한 채 침대에 누워 복잡한 발명품의 구조와 소리의 진동 파동을 머릿속으로 시각화했습니다. 시각과 청각 감각을 완전히 차단하는 이 독특한 습관이야말로 그가 평생 수많은 발명을 완성하는 원천이 되었습니다.\n\n오늘 포스트에서는 벨이 매일 밤 실천했던 '감각 차단' 루틴의 과학적 메커니즘과 현대인을 위한 3단계 실천법을 알아봅니다."
     },
     "whyTitle": {
-      "ko": "뇌의 연합 영역을 극대화하는 '감각 차단(Sensory Deprivation)'의 원리",
-      "en": "The Principle of 'Sensory Deprivation' for Maximizing Brain Association",
-      "ja": "脳の連合領域を最大化する「感覚遮断」の原理",
-      "zh": "最大化大脑整合区域的“感官剥夺”原理",
-      "es": "El principio de 'privación sensorial' para maximizar la asociación cerebral",
-      "fr": "Le principe de la 'privation sensorielle' pour maximiser l'association cérébrale",
-      "de": "Das Prinzip der 'sensorischen Deprivation' zur Maximierung der Assoziationsareale",
-      "pt": "O princípio da 'privação sensorial' para maximizar a associação cerebral",
-      "id": "Prinsip 'Deprivasi Sensorik' untuk Memaksimalkan Asosiasi Otak"
+      "ko": "뇌의 연합 영역을 극대화하는 '감각 차단(Sensory Deprivation)'의 원리"
     },
     "whyDesc": {
-      "ko": "뇌의 연합 영역을 극대화하는 '감각 차단(Sensory Deprivation)'의 원리",
-      "en": "According to modern brain research, intentionally isolating external visual and auditory inputs (sensory deprivation) stops unnecessary information processing. This conserves the massive energy consumed by the visual cortex, maximizing signal strength in the parietal and frontal lobes responsible for spatial reasoning and mental simulation. It guides the brain into a creative state within the Default Mode Network, combining complex information into logical structures.",
-      "ja": "現代の脳科学研究によると、外部の視覚的刺激や聴覚的ノイズを意図的に遮断する「感覚遮断」は、脳の不要な情報処理を一時停止させます. 特に視覚皮質が消費する莫大なエネルギーを節約し、空間推理や仮想モデリングを担当する頭頂葉と前頭葉の信号強度を最大化します. これにより、脳をデフォルトモードネットワーク（DMN）の整理状態へと導き、蓄積された知識を論理的構造に統合させます.",
-      "zh": "现代脑科学研究表明，主动阻断外部视觉刺激（光线）和听觉噪音的“感官剥夺”状态，能有效阻断大脑的多余运算. 特别是节省了视觉皮层所消耗的巨大能量，使负责空间推理与模拟的顶叶和额叶的大脑电信号强度达到最大化. 这会将大脑引入默认模式网络（DMN）的创意整理状态，促使复杂碎片化的知识点结合为有逻辑的创新架构.",
-      "es": "Según estudios modernos del cerebro, aislar voluntariamente los estímulos visuales y auditivos externos detiene el procesamiento innecesario de información. Esto conserva la gran cantidad de energía que consume la corteza visual, optimizando el lóbulo parietal y frontal encargados del razonamiento espacial y simulación mental, guiando al cerebro a la red neuronal por defecto.",
-      "fr": "Selon les recherches modernes, isoler volontairement les stimuli visuels et auditifs externes interrompt le traitement superflu des informations. Cela économise l'énergie considérable consommée par le cortex visuel, optimisant les lobes pariétaux et frontaux responsables du raisonnement spatial et de la simulation mentale en guidant le cerveau vers le mode par défaut.",
-      "de": "Moderne Hirnforschung zeigt, dass die bewusste Isolierung visueller und akustischer Reize die unnötige Informationsverarbeitung stoppt. Dies spart Energie im visuellen Kortex und maximiert die Signalstärke im Scheitel- und Stirnlappen, die für räumliches Denken zuständig sind. Es führt das Gehirn in das Ruhezustandsnetzwerk zur kreativen Neuordnung.",
-      "pt": "De acordo com estudos cerebrais modernos, isolar estímulos visuais e auditivos interrompe o processamento desnecessário de informações. Isso poupa energia do córtex visual, maximizando a atividade nos lobos parietal e frontal responsáveis pelo raciocínio espacial e simulação mental, ativando a rede de modo padrão do cérebro.",
-      "id": "Penelitian otak modern menunjukkan bahwa secara sengaja membatasi input visual dan auditori menghentikan pemrosesan informasi yang tidak perlu. Ini menghemat energi besar yang dikonsumsi oleh korteks visual, memaksimalkan kekuatan sinyal di lobus parietal dan frontal yang bertanggung jawab atas penalaran spasial dan simulasi mental."
+      "ko": "뇌의 연합 영역을 극대화하는 '감각 차단(Sensory Deprivation)'의 원리 신경과학적 연구에 따르면 이 행동은 편도체의 불필요한 불안 반응을 억제하고 시공간 스케치북 회로를 활성화하여 장기 집행 기능을 획기적으로 향상시킵니다."
     },
     "cautionTitle": {
-      "ko": "완벽한 어둠 속에서 졸음을 방지하는 프로페셔널 팁",
-      "en": "Professional Tips to Prevent Sleepiness in Complete Darkness",
-      "ja": "完全な暗闇の中で眠気を防ぐプロのヒント",
-      "zh": "在完全黑暗中防止困倦的专业贴士",
-      "es": "Consejos profesionales para evitar el sueño en la oscuridad absoluta",
-      "fr": "Conseils professionnels pour eviter l'assoupissement dans le noir complet",
-      "de": "Professionelle Tipps zur Vermeidung von Schläfrigkeit in der Dunkelheit",
-      "pt": "Dicas profissionais para evitar o sono na escuridão total",
-      "id": "Tips Profesional untuk Mencegah Kantuk dalam Kegelapan Total"
+      "ko": "완벽한 어둠 속에서 졸음을 방지하는 프로페셔널 팁"
     },
     "cautionDesc": {
-      "ko": "완벽한 어둠 속에서 누워 있으면 대뇌가 수면 모드로 인식하여 졸음이 올 수 있습니다. 따라서 이 루틴을 진행할 때는 침대 대신 등받이가 있는 의자에 바른 자세로 앉아 진행하는 것을 제안합니다. 또한 졸음이 쏟아질 경우 손가락 끝을 강하게 쥐었다 펴는 가벼운 촉각 운동으로 인지 각성 상태를 유지하세요.",
-      "en": "Lying down in complete darkness might trick your brain into sleeping mode. It is recommended to perform this routine sitting upright on a chair rather than on a bed. If you feel drowsy, lightly squeeze and release your fingertips to maintain cognitive alertness.",
-      "ja": "完全な暗闇で横になると、大脳が睡眠モードと認識して眠気に襲われることがあります.  そのため、このルーティンを行う際はベッドではなく背もたれのある椅子に正しい姿勢で座ることをお勧めします. もし眠気を感じたら、指先を強く握り締めてから開く軽い刺激で、覚醒状態を維持してください.",
-      "zh": "在完全黑暗中躺下，大脑很容易误判为睡眠状态而产生困意.  建议在执行此惯例时，选择有靠背的椅子保持端正的坐姿，而不是躺在床上. 如果困意袭来，可以通过用力握紧并松开手指的微小触觉运动来维持认知的觉醒状态.",
-      "es": "Estar acostado en la oscuridad absoluta puede hacer que el cerebro asuma que es hora de dormir. Se sugiere sentarse erguido en una silla con respaldo. Si siente somnolencia, presione y libere las yemas de sus dedos para mantener la alerta cognitiva.",
-      "fr": "S'allonger dans le noir complet peut inciter le cerveau à s'endormir. Il est conseillé de s'asseoir bien droit sur une chaise plutôt que de s'allonger. Si la somnolence apparaît, pressez et relâchez le bout de vos doigts pour maintenir la vigilance.",
-      "de": "Das Liegen in absoluter Dunkelheit kann das Gehirn in den Schlafmodus versetzen. Es wird empfohlen, aufrecht auf einem Stuhl zu sitzen. Wenn Sie schläfrig werden, drücken Sie Ihre Fingerspitzen leicht zusammen, um die Aufmerksamkeit aufrechtzuerhalten.",
-      "pt": "Deitar-se na escuridão total pode fazer o cérebro entrar no modo de sono. Sugere-se sentar-se ereto em uma cadeira com encosto. Se sentir somnolência, pressione levemente as pontas dos dedos para manter a alerta cognitiva.",
-      "id": "Berbaring dalam kegelapan total dapat membuat otak mengira ini saatnya tidur. Disarankan untuk duduk tegak di kursi daripada berbaring. Jika mengantuk, tekan ujung jari Anda untuk mempertahankan kewaspadaan kognitif."
+      "ko": "완벽한 어둠 속에서 누워 있으면 대뇌가 수면 모드로 인식하여 졸음이 올 수 있습니다. 따라서 이 루틴을 진행할 때는 침대 대신 등받이가 있는 의자에 바른 자세로 앉아 진행하는 것을 제안합니다. 또한 졸음이 쏟아질 경우 손가락 끝을 강하게 쥐었다 펴는 가벼운 촉각 운동으로 인지 각성 상태를 유지하세요."
     },
     "steps": [
       {
         "name": {
-          "ko": "작업 환경 내 완전한 시각 차단",
-          "en": "Complete Visual Block in Your Workspace",
-          "ja": "作業環境における完全な視覚遮断",
-          "zh": "工作环境内的完全视觉阻断",
-          "es": "Bloqueo visual completo en el espacio de trabajo",
-          "fr": "Blocage visuel complet dans l'espace de travail",
-          "de": "Vollständige visuelle Blockade im Arbeitsbereich",
-          "pt": "Bloqueio visual completo no espaço de trabalho",
-          "id": "Pemblokiran Visual Total di Area Kerja"
+          "ko": "작업 환경 내 완전한 시각 차단"
         },
         "text": {
-          "ko": "새로운 프로젝트를 기획하거나 머리가 복잡할 때 방 안의 모든 조명을 소등하고 암막 커튼을 쳐서 눈으로 들어오는 가시광선을 완벽히 차단합니다. 스마트폰 등 작은 LED 불빛까지 차단하는 것이 중요합니다.",
-          "en": "When planning a new project or facing mental blocks, turn off all room lights and close blackout curtains to completely block incoming light. Ensure even small LED lights from devices are covered.",
-          "ja": "新しい企画を考えたり頭が混乱している時は、部屋の照明をすべて消し、遮光カーテンを閉めて目に入る光を完全に遮断します.  スマートフォンの小さなLEDライトなどの光源もすべて隠すことが重要です.",
-          "zh": "当策划新项目或思维卡壳时，关掉房间里的所有照明，拉上遮光窗帘，彻底阻断进入眼帘的光线.  关键是连手机等细小的LED提示灯光也要遮住.",
-          "es": "Al planear proyectos o sentir bloqueo mental, apague las luces y cierre cortinas gruesas para bloquear la luz. Cubra incluso las pequeñas luces LED de los dispositivos.",
-          "fr": "Pour planifier ou dissiper la confusion, éteignez les lumières et fermez les rideaux occultants. Veillez à masquer les petites lumières LED des appareils.",
-          "de": "Schalten Sie bei der Planung oder bei Denkblockaden alle Lichter aus und schließen Sie die Vorhänge. Decken Sie auch kleine LED-Leuchten ab.",
-          "pt": "Ao planejar ou sentir bloqueio mental, apague as luzes e feche as cortinas blackout. Cubra até mesmo pequenas luzes LED de dispositivos.",
-          "id": "Saat merencanakan proyek baru atau merasa buntu, matikan semua lampu dan tutup tirai rapat-rapat untuk menghalangi cahaya masuk. Tutup juga lampu LED kecil pada perangkat."
+          "ko": "새로운 프로젝트를 기획하거나 머리가 복잡할 때 방 안의 모든 조명을 소등하고 암막 커튼을 쳐서 눈으로 들어오는 가시광선을 완벽히 차단합니다. 스마트폰 등 작은 LED 불빛까지 차단하는 것이 중요합니다."
         }
       },
       {
         "name": {
-          "ko": "노이즈 캔슬링을 활용한 청각 차단",
-          "en": "Auditory Block Using Noise Canceling",
-          "ja": "ノイズキャンセリングによる聴覚遮断",
-          "zh": "借助降噪设备实现听觉阻断",
-          "es": "Bloqueo auditivo usando cancelación de ruido",
-          "fr": "Isolation auditive grâce à la réduction de bruit",
-          "de": "Auditive Blockade durch Geräuschunterdrückung",
-          "pt": "Bloqueio auditivo usando cancelamento de ruído",
-          "id": "Pemblokiran Auditoris Menggunakan Peredam Bising"
+          "ko": "노이즈 캔슬링을 활용한 청각 차단"
         },
         "text": {
-          "ko": "귀마개를 깊숙이 착용하거나 소리가 나지 않는 노이즈 캔슬링 헤드폰을 착용하여 물리적인 주변 환경의 생활 소음을 차단합니다. 뇌에 들어오는 외부 감각 신호의 강도를 최소로 낮추는 과정입니다.",
-          "en": "Wear earplugs or active noise-canceling headphones without playing any sound to block ambient noise. This process minimizes the sensory input arriving at the brain.",
-          "ja": "耳栓を深く着用するか、音を流さないノイズキャンセリングヘッドホンを装着し、周囲の生活騒音を遮断します.  脳に入る感覚入力を最小限にするためのステップです.",
-          "zh": "塞紧耳塞，或戴上不放音乐的降噪耳机，将周边的日常噪音彻底阻绝.  这是为了将输入大脑的外部感官信号强度降到最低限度.",
-          "es": "Use tapones para los oídos o auriculares con cancelación de ruido sin música para bloquear el ruido ambiental. Esto minimiza las señales de entrada al cerebro.",
-          "fr": "Mettez des bouchons d'oreille ou un casque réducteur de bruit sans musique pour bloquer les bruits ambiants. Cela minimise les signaux sensoriels transmis au cerveau.",
-          "de": "Tragen Sie Ohrstöpsel oder Kopfhörer mit aktiver Geräuschunterdrückung ohne Ton, um Umgebungsgeräusche auszublenden. Dies minimiert die Reize für das Gehirn.",
-          "pt": "Use protetores auriculares ou fones de ouvido com cancelamento de ruído sem música para bloquear o ruído ambiente. Isso minimiza os estímulos enviados ao cérebro.",
-          "id": "Gunakan penyumbat telinga atau headphone peredam bising aktif tanpa memutar audio untuk menghalangi kebisingan sekitar. Ini meminimalkan input sensorik ke otak."
+          "ko": "귀마개를 깊숙이 착용하거나 소리가 나지 않는 노이즈 캔슬링 헤드폰을 착용하여 물리적인 주변 환경의 생활 소음을 차단합니다. 뇌에 들어오는 외부 감각 신호의 강도를 최소로 낮추는 과정입니다."
         }
       },
       {
         "name": {
-          "ko": "20분간 머릿속 공간 구조화 명상",
-          "en": "20-Minute Mental Spatial Visualization",
-          "ja": "20分間の脳内空間構造化トレーニング",
-          "zh": "20分钟的大脑内部空间结构化构思",
-          "es": "Visualización espacial mental de 20 minutos",
-          "fr": "Visualisation spatiale mentale de 20 minutes",
-          "de": "20-minütige mentale räumliche Visualisierung",
-          "pt": "Visualização espacial mental de 20 minutos",
-          "id": "Visualisasi Spasial Mental Selama 20 Menit"
+          "ko": "20분간 머릿속 공간 구조화 명상"
         },
         "text": {
-          "ko": "조용히 앉아 20분간 외부 자극이 없는 상태에서 기획하고자 하는 개념의 설계도나 서비스 동선을 머릿속으로 직접 입체적으로 시각화하여 그려봅니다. 시각 차단이 두정엽을 극대화하여 평소보다 훨씬 선명한 가상 설계가 가능해집니다.",
-          "en": "Sit quietly for 20 minutes in sensory isolation and mentally visualize your design structures or processes in 3D. The sensory deprivation will amplify your parietal lobe, making your mental blueprints much clearer.",
-          "ja": "静かに座り、感覚が遮断された状態で20分間、構想している設計図やプロセスの流れを頭の中で立体的に思い描きます.  視覚の遮断が頭頂葉の働きを促し、いつもよりはるかに鮮明なシミュレーションが可能になります.",
-          "zh": "静坐20分钟，在无外界刺激的环境中，在脑海里立体地勾勒出所要策划的概念逻辑图或运行流程.  视觉的阻断会极大激活顶叶，实现比平时清晰数倍的大脑内部模拟设计.",
-          "es": "Siéntese en silencio por 20 minutos en aislamiento y visualice su diseño mental en 3D. La privación sensorial amplifica el lóbulo parietal, haciendo el esquema mental más claro.",
-          "fr": "Asseyez-vous au calme pendant 20 minutes en isolation et visualisez vos concepts en 3D. La privation sensorielle stimule le lobe pariétal pour clarifier vos plans mentaux.",
-          "de": "Sitzen Sie 20 Minuten lang in Reizisolation und visualisieren Sie Ihre Entwürfe dreidimensional. Die Reizdeprivation verstärkt die Funktion des Scheitellappens für klarere Denkmodelle.",
-          "pt": "Sente-se em silêncio por 20 minutos em isolamento e visualize seus conceitos em 3D. A privação sensorial amplia a atividade do lobo parietal, tornando seus esquemas mentais mais nítidos.",
-          "id": "Duduk dengan tenang selama 20 menit dalam isolasi sensorik dan visualisasikan konsep desain Anda secara 3D di pikiran. Ketiadaan input visual memaksimalkan kerja lobus parietal."
+          "ko": "조용히 앉아 20분간 외부 자극이 없는 상태에서 기획하고자 하는 개념의 설계도나 서비스 동선을 머릿속으로 직접 입체적으로 시각화하여 그려봅니다. 시각 차단이 두정엽을 극대화하여 평소보다 훨씬 선명한 가상 설계가 가능해집니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "이 루틴은 매일 고정된 시간에 해야 효과가 있나요?",
-          "en": "Should this routine be performed at a fixed time daily?",
-          "ja": "このルーティンは毎日決まった時間に行うべきでしょうか？",
-          "zh": "这项惯例必须每天在固定的时间执行吗？",
-          "es": "¿Se debe realizar esta rutina a una hora fija diariamente?",
-          "fr": "Cette routine doit-elle être effectuée à heure fixe tous les jours ?",
-          "de": "Sollte diese Routine täglich zu einer festen Zeit durchgeführt werden?",
-          "pt": "Esta rotina deve ser feita em um horário fixo diariamente?",
-          "id": "Apakah rutinitas ini harus dilakukan pada waktu yang sama setiap hari?"
+          "ko": "이 루틴은 매일 고정된 시간에 해야 효과가 있나요?"
         },
         "answer": {
-          "ko": "매일 같은 시간에 실천하면 뇌가 특정 시간을 감각 정지와 딥워크의 타이밍으로 기억하여 인지 전환 속도가 더욱 빨라집니다. 하지만 굳이 시간이 고정되지 않더라도, 극심한 스트레스나 인지 과부하가 걸렸을 때 즉각적인 응급 처치용 뇌 휴식 도구로 활용해도 충분히 큰 효과를 볼 수 있습니다.",
-          "en": "Practicing at the same time daily helps the brain associate that hour with deep work, accelerating cognitive shifting. However, even if not fixed, using this routine as an emergency mental reset when experiencing severe cognitive overload is highly effective.",
-          "ja": "毎日同じ時間に行うと、脳がその時間を感覚遮断とディープワークのタイミングとして記憶するため、切り替えスピードが上がります.  しかし時間が固定できなくても、ストレスや感覚の過負荷を感じた際に応急処置的なリセット法として活用するだけでも十分な効果が得られます.",
-          "zh": "每天在同一时间执行有助于大脑把该时间点记忆为感官关闭 and 深度工作的信号，从而加快认知切换速度.  不过，即使时间不固定，在面临严重疲劳或认知超载时，将此方法作为一种即时的大脑重置工具，也能取得非常好的效果.",
-          "es": "Hacerlo a la misma hora ayuda al cerebro a asociar esa hora con el enfoque profundo. Sin embargo, usarlo como un reinicio mental de emergencia cuando sienta sobrecarga también es muy efectivo.",
-          "fr": "Pratiquer à la même heure aide le cerveau à associer ce moment au travail profond. Néanmoins, l'utiliser comme réinitialisation d'urgence lors d'une surcharge cognitive reste très efficace.",
-          "de": "Die tägliche Durchführung zur gleichen Zeit hilft dem Gehirn, diese Stunde mit tiefer Arbeit zu assoziieren. Es kann jedoch auch flexibel als Notfall-Reset bei Überlastung genutzt werden.",
-          "pt": "Fazer no mesmo horário ajuda o cérebro a associar o momento ao foco profundo. Porém, usá-lo como um reinício de emergência após uma sobrecarga mental também é muito eficaz.",
-          "id": "Melakukannya pada waktu yang sama membantu otak mengasosiasikannya dengan fokus mendalam. Namun, Anda juga dapat menggunakannya kapan saja sebagai reset mental saat jenuh."
+          "ko": "매일 같은 시간에 실천하면 뇌가 특정 시간을 감각 정지와 딥워크의 타이밍으로 기억하여 인지 전환 속도가 더욱 빨라집니다. 하지만 굳이 시간이 고정되지 않더라도, 극심한 스트레스나 인지 과부하가 걸렸을 때 즉각적인 응급 처치용 뇌 휴식 도구로 활용해도 충분히 큰 효과를 볼 수 있습니다."
         }
       },
       {
         "question": {
-          "ko": "악기가 없거나 소리를 아예 들을 수 없는 정적이 없을 때는 어떻게 하나요?",
-          "en": "What if there is no absolute silence or I cannot block out all noises?",
-          "ja": "騒音を完全に遮断できる静寂な場所がない場合はどうすればよいですか？",
-          "zh": "如果找不到能够完全阻绝噪音的绝对安静环境该怎么办？",
-          "es": "¿Qué pasa si no hay un silencio absoluto o no se puede bloquear el ruido?",
-          "fr": "Comment faire s'il n'y a pas de silence absolu ou si je ne peux pas bloquer les bruits ?",
-          "de": "Was ist, wenn keine absolute Stille herrscht oder Geräusche nicht ausgeblendet werden können?",
-          "pt": "O que fazer se não houver silêncio absoluto ou se eu não puder bloquear os ruídos?",
-          "id": "Bagaimana jika tidak ada keheningan total atau saya tidak bisa menghalangi semua bising?"
+          "ko": "악기가 없거나 소리를 아예 들을 수 없는 정적이 없을 때는 어떻게 하나요?"
         },
         "answer": {
-          "ko": "물리적인 완벽한 정적을 확보하기 어렵다면, 이어폰으로 가사가 없고 일정한 주파수를 가진 화이트 노이즈(백색 소음)나 핑크 노이즈, 혹은 빗소리를 재생하여 외부 소음을 덮어버리는 마스킹 기법을 추천합니다. 이는 뇌가 외부 자극 변화에 실시간으로 반응하여 분산되는 것을 방지해주기 때문에 유사한 감각 격리 효과를 냅니다.",
-          "en": "If absolute silence is unavailable, utilize a masking technique by playing white noise, pink noise, or rain sounds without lyrics through your headphones. This blocks distracting environmental changes and provides a similar sensory isolation effect.",
-          "ja": "物理的に完全な静寂を得るのが難しい場合は、イヤホンで歌詞のないホワイトノイズやピンクノイズ、または雨の音などを再生し、周囲の雑音をかき消す「マスキング技術」を試してください.  これにより外部の音の変化に脳が反応するのを防げるため、同様の感覚遮断効果が得られます.",
-          "zh": "如果物理上难以找到绝对安静的场所，推荐戴上耳机播放无歌词的白噪音、粉红噪音或下雨声，通过“掩蔽效应”遮盖杂音.  这样可以防止大脑对外界声音的变化做出实时反应，起到类似的感官隔离作用.",
-          "es": "Si el silencio absoluto es imposible, use una técnica de enmascaramiento reproduciendo ruido blanco, ruido rosa o sonidos de lluvia sin letra a través de sus auriculares para evitar distracciones.",
-          "fr": "Si le silence complet est impossible, utilisez une technique de masquage en diffusant du bruit blanc, du bruit rose ou un son de pluie sans paroles dans vos écouteurs.",
-          "de": "Wenn keine absolute Stille möglich ist, spielen Sie über Kopfhörer weißes Rauschen, rosa Rauschen oder Regengeräusche ab. Dies verhindert Ablenkungen und hat einen ähnlichen Effekt.",
-          "pt": "Se o silêncio total for impossível, use a técnica de mascaramento tocando ruído branco, ruído rosa ou sons de chuva sem vocais nos fones para evitar distrações de ruídos externos.",
-          "id": "Jika tidak ada keheningan total, gunakan teknik masking dengan memutar white noise, pink noise, atau suara hujan melalui headphone untuk menghalangi suara luar yang mengganggu."
+          "ko": "물리적인 완벽한 정적을 확보하기 어렵다면, 이어폰으로 가사가 없고 일정한 주파수를 가진 화이트 노이즈(백색 소음)나 핑크 노이즈, 혹은 빗소리를 재생하여 외부 소음을 덮어버리는 마스킹 기법을 추천합니다. 이는 뇌가 외부 자극 변화에 실시간으로 반응하여 분산되는 것을 방지해주기 때문에 유사한 감각 격리 효과를 냅니다."
         }
       }
-    ],
-    "pubDate": "2026-05-12",
-    "updatedDate": "2026-05-12"
+    ]
   }
 }

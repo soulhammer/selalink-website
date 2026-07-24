@@ -1,194 +1,64 @@
 {
   "matsushita-bath-reflection": {
     "title": {
-      "ko": "하루의 끝, 온전한 비움: 마쓰시타 고노스케의 욕탕 성찰 루틴",
-      "en": "Emptying Mind at Day's End: Konosuke Matsushita's Bath Reflection Routine",
-      "ja": "一日の終わり、完全な休息：松下幸之助の入浴省察ルーティン",
-      "zh": "一日终了时的释怀：松下幸之助的浴缸内省惯例",
-      "es": "Emptying Mind at Day's End: Konosuke Matsushita's Bath Reflection Routine",
-      "fr": "Emptying Mind at Day's End: Konosuke Matsushita's Bath Reflection Routine",
-      "de": "Emptying Mind at Day's End: Konosuke Matsushita's Bath Reflection Routine",
-      "pt": "Emptying Mind at Day's End: Konosuke Matsushita's Bath Reflection Routine",
-      "id": "Emptying Mind at Day's End: Konosuke Matsushita's Bath Reflection Routine"
+      "ko": "하루의 끝, 온전한 비움: 마쓰시타 고노스케의 욕탕 성찰 루틴"
     },
     "description": {
-      "ko": "경영의 신 마쓰시타 고노스케가 매일 밤 실천한 온수 목욕 사색. 부교감 신경 활성화와 뇌의 기본 모드 네트워크 정렬 효과를 해부합니다.",
-      "en": "Konosuke Matsushita's evening bath reflection. Explains parasympathetic nervous system activation and default mode network alignment.",
-      "ja": "経営の神様・松下幸之助が毎夜実践した温水入浴による思索。副交感神経の活性化と脳のデフォルト・モード・ネットワーク（DMN）の調整効果を分析します。",
-      "zh": "“经营之神”松下幸之助每晚坚持的温水入浴思索。探讨激活副交感神经与整理大脑“默认模式网络（DMN）”的科学效应。",
-      "es": "Konosuke Matsushita's evening bath reflection. Explains parasympathetic nervous system activation and default mode network alignment.",
-      "fr": "Konosuke Matsushita's evening bath reflection. Explains parasympathetic nervous system activation and default mode network alignment.",
-      "de": "Konosuke Matsushita's evening bath reflection. Explains parasympathetic nervous system activation and default mode network alignment.",
-      "pt": "Konosuke Matsushita's evening bath reflection. Explains parasympathetic nervous system activation and default mode network alignment.",
-      "id": "Konosuke Matsushita's evening bath reflection. Explains parasympathetic nervous system activation and default mode network alignment."
+      "ko": "경영의 신 마쓰시타 고노스케가 매일 밤 실천한 온수 목욕 사색. 부교감 신경 활성화와 뇌의 기본 모드 네트워크 정렬 효과를 해부합니다."
     },
     "authority": {
-      "ko": "마쓰시타 고노스케 자서전 『길을 열다』 기록 및 부교감 신경 활성화와 기본 모드 네트워크 연구",
-      "en": "Konosuke Matsushita's writings & Research on Parasympathetic Activation and Default Mode Network",
-      "ja": "松下幸之助の著書『道をひらく』の記録、および温水入浴による副交感神経活性化とデフォルト・モード・ネットワーク（DMN）に関する脳神経科学研究",
-      "zh": "松下幸之助著作《路是无限宽广》的相关记载，以及有关温水入浴激活副交感神经和默认模式网络的行为生理研究",
-      "es": "Konosuke Matsushita's writings & Research on Parasympathetic Activation and Default Mode Network",
-      "fr": "Konosuke Matsushita's writings & Research on Parasympathetic Activation and Default Mode Network",
-      "de": "Konosuke Matsushita's writings & Research on Parasympathetic Activation and Default Mode Network",
-      "pt": "Konosuke Matsushita's writings & Research on Parasympathetic Activation and Default Mode Network",
-      "id": "Konosuke Matsushita's writings & Research on Parasympathetic Activation and Default Mode Network"
+      "ko": "Matsushita Bath Reflection 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "마쓰시타 고노스케는 매일 저녁 온수 욕조에 몸을 담그며 자아 성찰과 깊은 사색을 진행했습니다. 이것은 지친 뇌를 부교감 신경계 이완으로 재생시키는 인지 복구 장치였습니다.",
-      "en": "Konosuke Matsushita immersed himself in a warm bath every evening for self-reflection. This was a cognitive restore system to regenerate the brain via parasympathetic relaxation.",
-      "ja": "この歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持続可能な深い集中力を養うことができます。",
-      "zh": "通过每天系统地实践这一历史性惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
-      "es": "Konosuke Matsushita tomaba baños largos todas las noches para reflexionar sobre sus decisiones comerciales. Este hábito de relajación térmica aumentó el flujo sanguíneo cerebral y promovió una profunda meditación calmada.",
-      "fr": "Konosuke Matsushita prenait de longs bains chaque soir pour réfléchir à ses décisions. Cette relaxation thermique augmentait le flux sanguin cérébral et favorisait la réflexion.",
-      "de": "Konosuke Matsushita nahm jeden Abend ein langes Bad, um über seine Geschäftsentscheidungen nachzudenken. Diese thermische Entspannung steigerte die Gehirndurchblutung.",
-      "pt": "Konosuke Matsushita tomava banhos longos todas as noites para refletir sobre suas decisões de negócios. Esse hábito de relaxamento térmico aumentou o fluxo sanguíneo cerebral.",
-      "id": "Konosuke Matsushita mandi air hangat dalam waktu lama setiap malam untuk merenungkan keputusan bisnisnya. Kebiasaan ini meningkatkan aliran darah ke otak."
+      "ko": "\"따뜻한 물에 몸을 맡길 때, 비로소 낮 동안의 무거운 의무감이 씻겨 내려가고 진정한 지혜의 눈이 떠진다.\" 🛀\n\n일본 파나소닉(마쓰시타 전기산업)의 설립자 마쓰시타 고노스케. 그는 가난과 병약함, 그리고 짧은 학력이라는 악조건을 딛고 세계적인 대기업을 일궈낸 '경영의 신'입니다. 그는 일생 동안 매우 허약한 체질로 인해 늘 만성 피로와 위장 장애에 시달렸으며, 매일 직면하는 수만 개의 비즈니스 결정 속에서 막대한 스트레스를 감내해야 했습니다. 극한의 신체적 한계와 정신적 압박 속에서도 그가 흔들리지 않고 탁월한 결단력을 유지할 수 있었던 숨겨진 의식은 바로 매일 밤 실천했던 '욕탕 속 성찰과 사색'이었습니다.\n\n고노스케는 하루 일과가 끝나면 집이나 숙소의 욕탕에 섭씨 38도에서 40도 사이의 따뜻한 온수를 채우고 몸을 완전히 뉘었습니다. 그리고 물의 흐름과 피부에 닿는 온기를 느끼며 침묵 속에서 하루 동안 내린 의사결정과 타인과의 관계를 하나씩 짚어보았습니다. 그는 이 이완의 시간 동안 \"오늘 나의 언행은 적절했는가?\", \"우리가 만든 가치가 정말 세상에 도움이 되었는가?\"를 조용히 성찰했습니다. 이 단순한 물속의 명상은 뇌과학적으로 스트레스 반응을 억제하고 고도의 창의적 통찰력을 깨워내는 '부교감 신경 조절'의 명확한 실행법이었습니다.\n\n오늘 포스트에서는 마쓰시타 고노스케가 실천한 욕탕 성찰 루틴 속에 담긴 자율신경계의 과학과 디폴트 모드 네트워크(DMN)의 관계를 분석하고, 현대인이 하루의 긴장을 완벽히 털어내고 최적의 뇌 인지 정렬을 얻을 수 있는 3단계 저녁 실천 가이드를 제안합니다."
     },
     "whyTitle": {
-      "ko": "온수 이완과 기본 모드 네트워크의 시너지",
-      "en": "Synergy of Warm Bath Relaxation and Default Mode Network",
-      "ja": "温水リラクゼーションとデフォルト・モード・ネットワークの相乗効果",
-      "zh": "温水放松与默认模式网络（DMN）的协同效应",
-      "es": "Synergy of Warm Bath Relaxation and Default Mode Network",
-      "fr": "Synergy of Warm Bath Relaxation and Default Mode Network",
-      "de": "Synergy of Warm Bath Relaxation and Default Mode Network",
-      "pt": "Synergy of Warm Bath Relaxation and Default Mode Network",
-      "id": "Synergy of Warm Bath Relaxation and Default Mode Network"
+      "ko": "온수 이완과 기본 모드 네트워크의 시너지"
     },
     "whyDesc": {
-      "ko": "따뜻한 온수 입욕은 심부 체온을 높이고 부교감 신경을 활성화하여 코르티솔을 감소시킵니다. 외부 자극이 차단된 이완 상태는 뇌의 기본 모드 네트워크를 자극해 창의적인 통찰력을 선사합니다.",
-      "en": "Immersion in warm water raises core temperature and triggers parasympathetic activation, reducing cortisol. This stimulus-blocked relaxation activates DMN for creative insight.",
-      "ja": "温水への入浴は深部体温を高め、副交感神経を活性化してストレスホルモンを減少させます。外部の刺激が遮断されたリラックス状態は脳のDMNを刺激し、創造的な洞察を与えてくれます。",
-      "zh": "温水入浴能提高身体深层温度，激活副交感神经并减少皮质醇的分泌。在隔绝外界刺激的放松状态下，大脑的默认模式网络会重新活跃，带来出人意料的创造性直觉。",
-      "es": "El calentamiento corporal pasivo activa el sistema nervioso parasimpático, reduciendo el cortisol y promoviendo la relajación muscular. La vasodilatación aumenta el suministro de oxígeno al cerebro, facilitando el estado cognitivo difuso ideal para resolver problemas complejos.",
-      "fr": "Le réchauffement corporel passif active le système parasympatique, réduisant le cortisol. La vasodilatation augmente l'apport d'oxygène, facilitant l'état cognitif diffus.",
-      "de": "Passive Körpererwärmung aktiviert das parasympathische Nervensystem, senkt den Cortisolspiegel und fördert die Muskelentspannung. Die Vasodilatation erhöht die Sauerstoffzufuhr im Gehirn.",
-      "pt": "O aquecimento corporal passivo ativa o sistema nervoso parassimpático, reduzindo o cortisol. A vasodilatação aumenta o suprimento de oxigênio ao cérebro, facilitando o estado cognitivo difuso.",
-      "id": "Pemanasan tubuh pasif mengaktifkan sistem saraf parasimpatis, mengurangi kortisol. Vasodilatasi meningkatkan pasokan oksigen ke otak, memfasilitasi kondisi kognitif difus."
+      "ko": "따뜻한 온수 입욕은 심부 체온을 높이고 부교감 신경을 활성화하여 코르티솔을 감소시킵니다. 외부 자극이 차단된 이완 상태는 뇌의 기본 모드 네트워크를 자극해 창의적인 통찰력을 선사합니다. 신경과학적 연구에 따르면 이 행동은 편도체의 불필요한 불안 반응을 억제하고 시공간 스케치북 회로를 활성화하여 장기 집행 기능을 획기적으로 향상시킵니다."
     },
     "cautionTitle": {
-      "ko": "뇌의 비움을 돕는 거장의 한마디",
-      "en": "A Word from the Master on Emptying the Mind",
-      "ja": "脳の整理を助ける巨匠の一言",
-      "zh": "松下幸之助关于清空大脑的寄语",
-      "es": "A Word from the Master on Emptying the Mind",
-      "fr": "A Word from the Master on Emptying the Mind",
-      "de": "A Word from the Master on Emptying the Mind",
-      "pt": "A Word from the Master on Emptying the Mind",
-      "id": "A Word from the Master on Emptying the Mind"
+      "ko": "뇌의 비움을 돕는 거장의 한마디"
     },
     "cautionDesc": {
-      "ko": "현명한 판단을 내리고 싶다면 먼저 뇌를 완전히 비우십시오. 욕실 내 디지털 차단과 15분간의 심신 이완이 그 지름길입니다.",
-      "en": "If you want to make wise decisions, empty your brain first. Blocking digital devices in bath and 15-minute relaxation is the shortcut.",
-      "ja": "賢明な判断を下したいなら、まずは脳を完全に空にしてください。浴室でのデジタル遮断と15分間の心身の緩和がその近道です。",
-      "zh": "若想做出贤明的决策，首先必须彻底放空大脑。在浴室中隔绝电子设备并进行15分钟的身心放松，是达到这一状态的捷径。",
-      "es": "Limite la duración del baño a 20 minutos y evite el agua excesivamente caliente. Las temperaturas muy altas pueden activar el sistema simpático, contrarrestando el efecto de relajación buscado.",
-      "fr": "Limitez la durée du bain à 20 minutes et évitez l'eau trop chaude. Les températures très élevées peuvent activer le système sympathique, contrecarrant la relaxation.",
-      "de": "Begrenzen Sie das Bad auf 20 Minuten und vermeiden Sie zu heißes Wasser. Sehr hohe Temperaturen können das sympathische System aktivieren und die Entspannung stören.",
-      "pt": "Limite a duração do banho a 20 minutos e evite água excessivamente quente. Temperaturas muito altas podem ativar o sistema simpático, neutralizando o relaxamento.",
-      "id": "Batasi durasi mandi hingga 20 menit dan hindari air yang terlalu panas. Suhu yang sangat tinggi dapat mengaktifkan sistem simpatis, menggagalkan efek relaksasi."
+      "ko": "현명한 판단을 내리고 싶다면 먼저 뇌를 완전히 비우십시오. 욕실 내 디지털 차단과 15분간의 심신 이완이 그 지름길입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "온도 맞추기와 물리적 디지털 디톡스",
-          "en": "Adjusting Temperature and Physical Digital Detox",
-          "ja": "湯温の調整と物理的なデジタルデトックス",
-          "zh": "水温调节与物理断联电子设备",
-          "es": "Adjusting Temperature and Physical Digital Detox",
-          "fr": "Adjusting Temperature and Physical Digital Detox",
-          "de": "Adjusting Temperature and Physical Digital Detox",
-          "pt": "Adjusting Temperature and Physical Digital Detox",
-          "id": "Adjusting Temperature and Physical Digital Detox"
+          "ko": "온도 맞추기와 물리적 디지털 디톡스"
         },
         "text": {
-          "ko": "섭씨 38도에서 40도 사이의 온수를 욕조에 받고 스마트폰 등 모든 디지털 기기를 외부로 격리합니다.",
-          "en": "Prepare water at 38 to 40 degrees Celsius in the tub and leave all digital devices outside the bathroom.",
-          "ja": "摂氏38度から40度のぬるま湯を浴槽に用意し、スマートフォンなどのデジタル機器を浴室の外に置きます。",
-          "zh": "准备摄氏38度至40度之间的温水，将手机等所有电子设备留在浴室门外。",
-          "es": "Prepare water at 38 to 40 degrees Celsius in the tub and leave all digital devices outside the bathroom.",
-          "fr": "Prepare water at 38 to 40 degrees Celsius in the tub and leave all digital devices outside the bathroom.",
-          "de": "Prepare water at 38 to 40 degrees Celsius in the tub and leave all digital devices outside the bathroom.",
-          "pt": "Prepare water at 38 to 40 degrees Celsius in the tub and leave all digital devices outside the bathroom.",
-          "id": "Prepare water at 38 to 40 degrees Celsius in the tub and leave all digital devices outside the bathroom."
+          "ko": "섭씨 38도에서 40도 사이의 온수를 욕조에 받고 스마트폰 등 모든 디지털 기기를 외부로 격리합니다."
         }
       },
       {
         "name": {
-          "ko": "15분간의 심신 이완과 질문 성찰",
-          "en": "15-Minute Relaxation and Reflection Questions",
-          "ja": "15分間の心身の緩和と内省の問いかけ",
-          "zh": "15分钟的身心放松与自我提问",
-          "es": "15-Minute Relaxation and Reflection Questions",
-          "fr": "15-Minute Relaxation and Reflection Questions",
-          "de": "15-Minute Relaxation and Reflection Questions",
-          "pt": "15-Minute Relaxation and Reflection Questions",
-          "id": "15-Minute Relaxation and Reflection Questions"
+          "ko": "15분간의 심신 이완과 질문 성찰"
         },
         "text": {
-          "ko": "온수 속에서 15분간 피로를 풀며 오늘 내가 내린 주요 결정을 회고하고 개선점을 질문합니다.",
-          "en": "Soak for 15 minutes, reflecting on daily decisions and asking yourself questions for improvement.",
-          "ja": "湯船に浸かりながら15分間疲労を回復させ、今日下した決断を振り返りつつ改善点を自問します。",
-          "zh": "在温水中浸泡15分钟以缓解疲劳，静静回想今天做出的关键决策，思考可改进之处。",
-          "es": "Soak for 15 minutes, reflecting on daily decisions and asking yourself questions for improvement.",
-          "fr": "Soak for 15 minutes, reflecting on daily decisions and asking yourself questions for improvement.",
-          "de": "Soak for 15 minutes, reflecting on daily decisions and asking yourself questions for improvement.",
-          "pt": "Soak for 15 minutes, reflecting on daily decisions and asking yourself questions for improvement.",
-          "id": "Soak for 15 minutes, reflecting on daily decisions and asking yourself questions for improvement."
+          "ko": "온수 속에서 15분간 피로를 풀며 오늘 내가 내린 주요 결정을 회고하고 개선점을 질문합니다."
         }
       },
       {
         "name": {
-          "ko": "미온수 세정과 자연스러운 숙면 유도",
-          "en": "Luke-warm Wash and Inducing Natural Sleep",
-          "ja": "ぬるま湯での洗い流しと自然な睡眠の誘導",
-          "zh": "温水冲洗与诱导自然睡眠",
-          "es": "Luke-warm Wash and Inducing Natural Sleep",
-          "fr": "Luke-warm Wash and Inducing Natural Sleep",
-          "de": "Luke-warm Wash and Inducing Natural Sleep",
-          "pt": "Luke-warm Wash and Inducing Natural Sleep",
-          "id": "Luke-warm Wash and Inducing Natural Sleep"
+          "ko": "미온수 세정과 자연스러운 숙면 유도"
         },
         "text": {
-          "ko": "가볍게 물기를 닦고 수분을 섭취합니다. 상승했던 체온이 내려가며 숙면을 취하도록 돕습니다.",
-          "en": "Dry water lightly and drink water. Let the lowered core body temperature naturally invite quality sleep.",
-          "ja": "軽く水分を拭き取り、水を手元に用意して飲みます。入浴で上がった深部体温が下がることで質の良い睡眠に入りやすくなります。",
-          "zh": "轻轻擦干水分并补充温水。让温浴后上升的深层体温自然回落，引导大脑进入深度睡眠阶段。",
-          "es": "Dry water lightly and drink water. Let the lowered core body temperature naturally invite quality sleep.",
-          "fr": "Dry water lightly and drink water. Let the lowered core body temperature naturally invite quality sleep.",
-          "de": "Dry water lightly and drink water. Let the lowered core body temperature naturally invite quality sleep.",
-          "pt": "Dry water lightly and drink water. Let the lowered core body temperature naturally invite quality sleep.",
-          "id": "Dry water lightly and drink water. Let the lowered core body temperature naturally invite quality sleep."
+          "ko": "가볍게 물기를 닦고 수분을 섭취합니다. 상승했던 체온이 내려가며 숙면을 취하도록 돕습니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "바쁜 현대인에게 매일 욕탕에 들어가는 것은 비효율적이지 않나요?",
-          "en": "Is it inefficient for busy people to take a bath every day?",
-          "ja": "忙しい現代人が毎日お風呂に入るのは非効率ではありませんか？",
-          "zh": "对于忙碌的现代人，每天泡澡是不是太没效率了？",
-          "es": "Is it inefficient for busy people to take a bath every day?",
-          "fr": "Is it inefficient for busy people to take a bath every day?",
-          "de": "Is it inefficient for busy people to take a bath every day?",
-          "pt": "Is it inefficient for busy people to take a bath every day?",
-          "id": "Is it inefficient for busy people to take a bath every day?"
+          "ko": "바쁜 현대인에게 매일 욕탕에 들어가는 것은 비효율적이지 않나요?"
         },
         "answer": {
-          "ko": "단 10분이라도 온탕에 잠기는 것은 교감 신경을 이완하고 뇌의 DMN을 켜는 고효율 인지 정리 기전입니다.",
-          "en": "Even a 10-minute soak relaxes the sympathetic system and turns on DMN, which is highly efficient for cognitive restructuring.",
-          "ja": "たった10分間でも温かいお湯に浸かることは、交感神経を休ませて脳のDMNを働かせる、非常に効率的な認知整理プロセスです。",
-          "zh": "即使只有短短10分钟，浸泡在温水浴中能够有效舒缓紧张的交感神经，启动大脑默认模式网络（DMN），是一种高效率的认知整顿方式。",
-          "es": "Even a 10-minute soak relaxes the sympathetic system and turns on DMN, which is highly efficient for cognitive restructuring.",
-          "fr": "Even a 10-minute soak relaxes the sympathetic system and turns on DMN, which is highly efficient for cognitive restructuring.",
-          "de": "Even a 10-minute soak relaxes the sympathetic system and turns on DMN, which is highly efficient for cognitive restructuring.",
-          "pt": "Even a 10-minute soak relaxes the sympathetic system and turns on DMN, which is highly efficient for cognitive restructuring.",
-          "id": "Even a 10-minute soak relaxes the sympathetic system and turns on DMN, which is highly efficient for cognitive restructuring."
+          "ko": "단 10분이라도 온탕에 잠기는 것은 교감 신경을 이완하고 뇌의 DMN을 켜는 고효율 인지 정리 기전입니다."
         }
       }
-    ],
-    "pubDate": "2026-05-25",
-    "updatedDate": "2026-05-25"
+    ]
   }
 }

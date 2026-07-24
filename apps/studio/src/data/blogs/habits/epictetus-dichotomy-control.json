@@ -1,219 +1,72 @@
 {
   "epictetus-dichotomy-control": {
-    "slug": "epictetus-dichotomy-control",
     "title": {
-      "ko": "내 통제 밖의 일은 신경을 끄라 한 노예 출신 철학자? 에픽테토스의 통제 이분법 성찰 루틴",
-      "en": "The Slave-Turned-Philosopher Who Said Ignore What You Cannot Control? Epictetus' Dichotomy of Control Routine",
-      "ja": "コントロール外のことは無視せよと言った奴隷出身の哲学者？エピクテトスの統制二分法リフレクション",
-      "zh": "主张彻底忽视无法掌控之事的奴隶出身哲学家？爱比克泰德的掌控二分法反思惯例",
-      "es": "¿El filósofo ex-esclavo que enseñó a ignorar lo incontrolable? La rutina de dicotomía del control de Epicteto",
-      "fr": "Le philosophe ex-esclave qui disait d'ignorer l'incontrôlable ? La routine de dichotomie du contrôle d'Épictète",
-      "de": "Der Sklave und Philosoph, der lehrte, das Unkontrollierbare zu ignorieren? Epiktets Dychotomie-Routine",
-      "pt": "O filósofo ex-escravo que ensinou a ignorar o incontrolável? A rotina de dicotomia do controle de Epicteto",
-      "id": "Filsuf Mantan Budak yang Mengajarkan Abaikan yang Tak Bisa Dikendalikan? Rutinitas Dikotomi Kontrol Epictetus"
+      "ko": "내 통제 밖의 일은 신경을 끄라 한 노예 출신 철학자? 에픽테토스의 통제 이분법 성찰 루틴"
     },
     "description": {
-      "ko": "고대 로마 스토아 철학의 거장 에픽테토스. 내 권한 안의 일과 밖의 일을 엄격히 분리해 일상의 불안을 제로로 만든 통제 이분법 저녁 기록 루틴과 3단계 실천법을 깊이 있게 알아봅니다.",
-      "en": "Epictetus, Stoic master. Discover his evening journaling routine for separating what is in your control from what is not to eliminate anxiety.",
-      "ja": "古代ローマのストア派哲学者エピクテトス。統制の二分法による夜の振り返り習慣と3ステップ実践法を紹介します。",
-      "zh": "古罗马斯多葛派大师爱比克泰德。介绍他通过掌控二分法区分权力内外事务消除焦虑的晚间反思惯例与三步指南。",
-      "es": "Epicteto, maestro estoico. Descubra su rutina nocturna para separar lo que está bajo su control de lo que no.",
-      "fr": "Épictète, maître stoïcien. Découvrez sa routine du soir pour séparer ce qui dépend de nous de ce qui n'en dépend pas.",
-      "de": "Epiktet, stoischer Meister. Entdecken Sie seine Abendroutine zur Trennung von Kontrollierbarem und Unkontrollierbarem.",
-      "pt": "Epicteto, mestre estoico. Descubra sua rotina noturna para separar o que está sob seu controle do que não está.",
-      "id": "Epictetus, master Stoik. Temukan rutinitas refleksi malamnya untuk memisahkan apa yang bisa dikendalikan dan yang tidak."
+      "ko": "고대 로마 스토아 철학의 거장 에픽테토스. 내 권한 안의 일과 밖의 일을 엄격히 분리해 일상의 불안을 제로로 만든 통제 이분법 저녁 기록 루틴과 3단계 실천법을 깊이 있게 알아봅니다."
     },
     "authority": {
-      "ko": "Epictetus 어록집 'Enchiridion' (행동 지침서) 및 'Discourses' (담론)",
-      "en": "Epictetus' 'Enchiridion' & 'Discourses'",
-      "ja": "エピクテトス著「語録（Enchiridion）」および「提要」",
-      "zh": "爱比克泰德语录《手册》(Enchiridion)与《论道集》",
-      "es": "Obras 'Enquiridión' y 'Discursos' de Epicteto",
-      "fr": "Ouvrages 'Enchiridion' et 'Entretiens' d'Épictète",
-      "de": "Epiktets 'Handbüchlein' (Enchiridion) & 'Gespräche'",
-      "pt": "Obras 'Enquirídio' e 'Discursos' de Epicteto",
-      "id": "Karya Epictetus 'Enchiridion' & 'Discourses'"
+      "ko": "Epictetus, *Discourses and Enchiridion* (ed. Robin Hard, 2014) & 스토아 철학 고증"
     },
     "intro": {
-      "ko": "노예라는 가장 비참한 신분으로 태어났음에도 불굴의 이성으로 마음의 자유를 얻고, 훗날 로마 황제 마르쿠스 아우렐리우스에게 가장 깊은 사상적 영감을 준 스토아 철학의 거장, 에픽테토스(Epictetus). 신체적 불구와 참혹한 외부 환경 속에서도 그가 평생 완벽한 마음의 평정심(Ataraxia)을 유지할 수 있었던 비결은 무엇일까요? 📜\n\n에픽테토스는 매일 저녁 자신이 겪은 하루의 사건들을 두 가지 범주로 엄격하게 분류하는 사색을 진행했습니다. 첫째는 '나의 생각, 의지, 행동처럼 내 권한 안에 있는 일(Up to Us)', 둘째는 '타인의 평가, 결과, 날씨, 과거처럼 내 권한 밖에 있는 일(Not Up to Us)'이었습니다. 그는 자신의 권한 밖에 있는 외부 결과에 마음을 쓰는 순간 불필요한 고통이 시작됨을 알아차리고, 자신이 제어할 수 있는 내면의 선택에만 모든 에너지를 집중했습니다.\n\n오늘 BuildSelf에서는 에픽테토스의 '통제 이분법 저녁 성찰' 루틴의 뇌과학적 원리와 현대인들이 불필요한 무력감과 불안을 제거하는 3단계 실천 가이드를 공개합니다.",
-      "en": "In this historic routine:          ,             , (Epictetus).           (Ataraxia)     ? 📜\n\nIn this historic routine:              .  ' , ,      (Up to Us)',  ' , , ,      (Not Up to Us)'.              ,         .\n\nIn this historic routine:  BuildSelf  '   '         3   .\n\nPracticing this daily routine consistently builds deep focus and long-term habits. By systematically applying this historic routine daily, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus. By systematically applying this historic routine daily, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus.",
-      "ja": "この歴史的習慣の実践において： , , (Epictetus). (Ataraxia) ? 📜 この歴史的習慣の実践において： . ' , , (Up to Us)', ' , , , (Not Up to Us)'. , . この歴史的習慣の実践において： BuildSelf ' ' 3 .",
-      "zh": "在这一历史性惯例的实践中： , , (Epictetus). (Ataraxia) ? 📜 在这一历史性惯例的实践中： . ' , , (Up to Us)', ' , , , (Not Up to Us)'. , . 在这一历史性惯例的实践中： BuildSelf ' ' 3 .",
-      "es": "En la práctica de esta rutina transformadora:          ,             , (Epictetus).           (Ataraxia)     ? 📜\n\nEn la práctica de esta rutina transformadora:              .  ' , ,      (Up to Us)',  ' , , ,      (Not Up to Us)'.              ,         .\n\nEn la práctica de esta rutina transformadora:  BuildSelf  '   '         3   .\n\nAl practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora:          ,             , (Epictetus).           (Ataraxia)     ? 📜\n\nNa prática desta rotina transformadora:              .  ' , ,      (Up to Us)',  ' , , ,      (Not Up to Us)'.              ,         .\n\nNa prática desta rotina transformadora:  BuildSelf  '   '         3   .\n\nAo praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "노예라는 가장 비참한 신분으로 태어났음에도 불굴의 이성으로 마음의 자유를 얻고, 훗날 로마 황제 마르쿠스 아우렐리우스에게 가장 깊은 사상적 영감을 준 스토아 철학의 거장, 에픽테토스(Epictetus). 신체적 불구와 참혹한 외부 환경 속에서도 그가 평생 완벽한 마음의 평정심(Ataraxia)을 유지할 수 있었던 비결은 무엇일까요? 📜\n\n에픽테토스는 매일 저녁 자신이 겪은 하루의 사건들을 두 가지 범주로 엄격하게 분류하는 사색을 진행했습니다. 첫째는 '나의 생각, 의지, 행동처럼 내 권한 안에 있는 일(Up to Us)', 둘째는 '타인의 평가, 결과, 날씨, 과거처럼 내 권한 밖에 있는 일(Not Up to Us)'이었습니다. 그는 자신의 권한 밖에 있는 외부 결과에 마음을 쓰는 순간 불필요한 고통이 시작됨을 알아차리고, 자신이 제어할 수 있는 내면의 선택에만 모든 에너지를 집중했습니다.\n\n오늘 포스트에서는 에픽테토스의 '통제 이분법 저녁 성찰' 루틴의 뇌과학적 원리와 현대인들이 불필요한 무력감과 불안을 제거하는 3단계 실천 가이드를 공개합니다."
     },
     "whyTitle": {
-      "ko": "통제 위치(Locus of Control) 내재화와 편도체 코르티솔 저감 메커니즘",
-      "en": "Mechanism: Internal Locus of Control Shift and Amygdala Cortisol Reduction",
-      "ja": "統制の所在（Locus of Control）の内在化と扁桃体コルチゾール低減メカニズム",
-      "zh": "掌控所在(Locus of Control)内在化与杏仁核皮质醇降低机制",
-      "es": "Mecanismo: Interiorización del locus de control y reducción de cortisol en la amígdala",
-      "fr": "Mecanisme : Internalisation du lieu de contrôle et réduction du cortisol dans l'amygdale",
-      "de": "Mechanismus: Verinnerlichung der Kontrollüberzeugung und Reduktion von Cortisol in der Amygdala",
-      "pt": "Mecanismo: Internalização do locus de controle e redução de cortisol na amígdala",
-      "id": "Mekanisme: Internalisasi Locus of Control dan Penurunan Kortisol Amigdala"
+      "ko": "통제 위치(Locus of Control) 내재화와 편도체 코르티솔 저감 메커니즘"
     },
     "whyDesc": {
-      "ko": "인간이 만성 스트레스와 불안에 시달리는 가장 큰 이유는 뇌가 자신이 통제할 수 없는 외부 결과(타인의 반응, 경제 상황, 지나간 과거)에 집착할 때 생기는 무력감입니다. 에픽테토스의 통제 이분법 기록은 <strong></strong>를 외부에서 내면으로 명확히 이동시킵니다.\n\n통제 불가능한 요소를 공식적으로 인지하고 내려놓을 때, 뇌의 공포 감정 센터인 <strong></strong>의 과활성화가 가라앉고 스트레스 호르몬인 코르티솔 수치가 대폭 감소하여 정서적 안정감이 회복됩니다.",
-      "en": "Chronic anxiety arises when the brain fixates on uncontrollable external outcomes. Epictetus' method shifts the cognitive <strong></strong> strictly from external factors to internal agency.\n\nFormally acknowledging and releasing uncontrollable variables calms the <strong></strong>, significantly lowering cortisol levels and restoring emotional equilibrium.",
-      "ja": "慢性的不安はコントロールできない外部結果に執着することで発生します。この記録法は<strong></strong>を内面へ移動させます。\n\n不可解な要素を手放すことで、<strong></strong>の過剰反応が収まり、コルチゾールが低下します。",
-      "zh": "慢性焦虑源于大脑执念于无法掌控的外部结果。爱比克泰德的二分法记录将<strong></strong>明确从外部转向内在。\n\n正式确认并放下不可控变量，能够平息大脑<strong></strong>的过度激活，大幅降低皮质醇水平并恢复情绪稳定。",
-      "es": "La ansiedad surge al fijarse en lo incontrolable. Esta técnica cambia el <strong></strong> al interior.\n\nSoltar lo incontrolable calma la <strong></strong> y reduce drásticamente el cortisol.",
-      "fr": "L'anxiété vient de l'obsession de ce qu'on ne contrôle pas. Cette méthode déplace le <strong></strong> vers l'intérieur.\n\nLâcher l'incontrôlable calme <strong></strong> et réduit le cortisol.",
-      "de": "Angst entsteht durch Fixierung auf Unkontrollierbares. Epiktets Methode verlagert die <strong></strong> nach innen.\n\nDas Loslassen beruhigt die <strong></strong> und senkt Cortisol.",
-      "pt": "A ansiedade surge ao focar no incontrolável. Esta técnica muda o <strong></strong> para o interior.\n\nSoltar o incontrolável acalma a <strong></strong> e reduz o cortisol.",
-      "id": "Kecemasan kronis timbul dari obsesi pada hal tak terkendali. Metode ini menggeser <strong></strong> ke dalam diri.\n\nMelepaskan yang tak terkendali menenangkan <strong></strong> dan menurunkan kortisol."
+      "ko": "인간이 만성 스트레스와 불안에 시달리는 가장 큰 이유는 뇌가 자신이 통제할 수 없는 외부 결과(타인의 반응, 경제 상황, 지나간 과거)에 집착할 때 생기는 무력감입니다. 에픽테토스의 통제 이분법 기록은 <strong></strong>를 외부에서 내면으로 명확히 이동시킵니다.\n\n통제 불가능한 요소를 공식적으로 인지하고 내려놓을 때, 뇌의 공포 감정 센터인 <strong></strong>의 과활성화가 가라앉고 스트레스 호르몬인 코르티솔 수치가 대폭 감소하여 정서적 안정감이 회복됩니다."
+    },
+    "cautionTitle": {
+      "ko": "외부 결과에 대한 과도한 책임감과 결과 집착 주의"
+    },
+    "cautionDesc": {
+      "ko": "내가 내가 최선을 다했음에도 타인의 반응이나 시장 결과가 좋지 않을 때 스스로를 자책하는 것은 뇌를 극심한 자아 고갈과 우울로 밀어 넣습니다. 당신의 몫은 '최선의 행동'까지이며, 그 이후의 결과는 우주의 영역임을 받아들이세요."
     },
     "steps": [
       {
         "name": {
-          "ko": "하루 발생 사건 T-차트 2분할 노트 작성",
-          "en": "Creating a Two-Column T-Chart for Daily Events",
-          "ja": "一日の出来事の Tチャート2分割ノート作成",
-          "zh": "绘制当天的T型双栏事件表",
-          "es": "Crear una tabla T de dos columnas para sucesos del día",
-          "fr": "Créer un tableau T en deux colonnes pour les événements du jour",
-          "de": "Erstellen eines T-Diagramms mit zwei Spalten für Tagesereignisse",
-          "pt": "Criar uma tabela T de duas colunas para eventos do dia",
-          "id": "Membuat Tabel T Dua Kolom untuk Kejadian Hari Ini"
+          "ko": "하루 발생 사건 T-차트 2분할 노트 작성"
         },
         "text": {
-          "ko": "저녁 노트 중간에 선을 그어 좌측에는 '내 권한 안의 일(내 반응/태도)', 우측에는 '내 권한 밖의 일(타인 평가/결과)'로 컬럼을 만듭니다.",
-          "en": "Draw a line down the middle of your evening notebook, labeling the left column 'In My Control' and the right 'Outside My Control'.",
-          "ja": "ノートに線を引き、左側に「自分の権限内（自分の態度）」、右側に「権限外（結果・他人の評価）」と書き出します。",
-          "zh": "在晚间笔记本中间划一条线，左栏标为“我掌控的事（我的态度与行动）”，右栏标为“我无法掌控的事（他人评价与结果）”。",
-          "es": "Trace una línea en su cuaderno: a la izquierda 'Bajo mi control' y a la derecha 'Fuera de mi control'.",
-          "fr": "Tracez une ligne dans votre carnet : à gauche 'Sous mon contrôle', à droite 'Hors de mon contrôle'.",
-          "de": "Zeichnen Sie eine Linie ins Notizbuch: links 'In meiner Macht', rechts 'Außerhalb meiner Macht'.",
-          "pt": "Desenhe uma linha em seu bloco: à esquerda 'Sob meu controle', à direita 'Fora do meu controle'.",
-          "id": "Buat garis di tengah buku catatan: kiri 'Dalam Kendaliku', kanan 'Di Luar Kendaliku'."
+          "ko": "저녁 노트 중간에 선을 그어 좌측에는 '내 권한 안의 일(내 반응/태도)', 우측에는 '내 권한 밖의 일(타인 평가/결과)'로 컬럼을 만듭니다."
         }
       },
       {
         "name": {
-          "ko": "권한 밖 항목의 공식적 수용 및 의식적 수용 선언",
-          "en": "Formally Accepting and Relinquishing Uncontrollable Items",
-          "ja": "権限外項目の公式的手放しと受け入れ宣言",
-          "zh": "正式确认并主动放手不可控事项",
-          "es": "Aceptar y soltar formalmente los elementos incontrolables",
-          "fr": "Accepter et lâcher formellement les éléments incontrôlables",
-          "de": "Formelles Akzeptieren und Loslassen unkontrollierbarer Punkte",
-          "pt": "Aceitar e soltar formalmente os itens incontroláveis",
-          "id": "Menerima dan Melepaskan Hal di Luar Kendali Secara Resmi"
+          "ko": "권한 밖 항목의 공식적 수용 및 의식적 수용 선언"
         },
         "text": {
-          "ko": "우측 컬럼에 적힌 항목들을 보며 '이 결과는 나의 몫이 아니다'라고 속으로 되뇌이고 마음에서 정서적 고리를 공식 끊어냅니다.",
-          "en": "Review items in the right column and mentally state, 'This outcome is not mine to carry,' cutting the emotional attachment.",
-          "ja": "右側の項目を見ながら「この結果は自分の責任範囲外である」と心でつぶやき、執着を手放します。",
-          "zh": "看着右栏事项，在内心默默告诉自己：“这一结果并非我能决定”，正式切断情感执念。",
-          "es": "Revise la columna derecha y diga internamente: 'Esto no está en mis manos', cortando el apego.",
-          "fr": "Lisez la colonne de droite et dites-vous : 'Ceci ne dépend pas de moi', en coupant l'attachement.",
-          "de": "Betrachten Sie die rechte Spalte und sagen Sie sich: 'Das liegt nicht bei mir', um loszulassen.",
-          "pt": "Revise a coluna direita e diga internamente: 'Isso não está nas minhas mãos', cortando o apego.",
-          "id": "Lihat kolom kanan dan katakan pada diri sendiri: 'Ini di luar kendaliku', lalu lepaskan kemelekatan."
+          "ko": "우측 컬럼에 적힌 항목들을 보며 '이 결과는 나의 몫이 아니다'라고 속으로 되뇌이고 마음에서 정서적 고리를 공식 끊어냅니다."
         }
       },
       {
         "name": {
-          "ko": "권한 안 태도 및 내일의 단 한 가지 행동 집중",
-          "en": "Focusing on Internal Attitude and Tomorrow's Single Action",
-          "ja": "権限内の態度と明日のたった一つの行動への集中",
-          "zh": "聚焦于内在本分态度与明天唯一的可控行动",
-          "es": "Enfocarse en la actitud interna y una sola acción para mañana",
-          "fr": "Se concentrer sur l'attitude interne et une action pour demain",
-          "de": "Fokussieren auf innere Haltung und eine Aktion für morgen",
-          "pt": "Focar na atitude interna e em uma única ação para amanhã",
-          "id": "Fokus pada Sikap Internal dan Satu Tindakan untuk Besok"
+          "ko": "권한 안 태도 및 내일의 단 한 가지 행동 집중"
         },
         "text": {
-          "ko": "좌측 컬럼의 '내 행동' 영역에만 집중하여, 내일 내가 제어할 수 있는 올바른 태도와 행동 하나를 정의하고 이를 실행하기로 다짐합니다.",
-          "en": "Refocus entirely on the left column, defining one single proactive action within your direct control to execute tomorrow.",
-          "ja": "左側の「自分の行動」だけに集中し、明日コントロールできる正しい態度を一つ決めて実行します。",
-          "zh": "将专注全额转回左栏，明确一项明天自身完全可控的正向行动并下定决心执行。",
-          "es": "Concéntrese solo en la columna izquierda y defina una acción bajo su control para ejecutar mañana.",
-          "fr": "Concentrez-vous sur la colonne de gauche et définissez une action sous votre contrôle pour demain.",
-          "de": "Konzentrieren Sie sich auf die linke Spalte und legen Sie eine Handlung für morgen fest.",
-          "pt": "Concentre-se na coluna esquerda e defina uma ação sob seu controle para amanhã.",
-          "id": "Fokuslah pada kolom kiri dan tentukan satu tindakan dalam kendali Anda untuk besok."
+          "ko": "좌측 컬럼의 '내 행동' 영역에만 집중하여, 내일 내가 제어할 수 있는 올바른 태도와 행동 하나를 정의하고 이를 실행하기로 다짐합니다."
         }
       }
     ],
-    "cautionTitle": {
-      "ko": "외부 결과에 대한 과도한 책임감과 결과 집착 주의",
-      "en": "Caution Against Excessive Responsibility and Attachment to External Outcomes",
-      "ja": "外部結果に対する過度な責任感と執着に対する注意",
-      "zh": "切忌对外部结果承担过度责任与执念",
-      "es": "Precaución con la responsabilidad excesiva y el apego a resultados externos",
-      "fr": "Attention à la responsabilité excessive et à l'attachement aux résultats",
-      "de": "Vorsicht vor übertriebener Verantwortung für externe Ergebnisse",
-      "pt": "Cuidado com a responsabilidade excessiva e apego a resultados externos",
-      "id": "Waspada Tanggung Jawab Berlebihan dan Kemelekatan Hasil Luar"
-    },
-    "cautionDesc": {
-      "ko": "내가 내가 최선을 다했음에도 타인의 반응이나 시장 결과가 좋지 않을 때 스스로를 자책하는 것은 뇌를 극심한 자아 고갈과 우울로 밀어 넣습니다. 당신의 몫은 '최선의 행동'까지이며, 그 이후의 결과는 우주의 영역임을 받아들이세요.",
-      "en": "Blaming yourself when external results fail despite your best efforts induces deep depression and burnout. Your responsibility ends at your best action; the outcome belongs to the world.",
-      "ja": " 最善を尽くしたにもかかわらず 他人の評価が悪かった時に自分を責めるのは、脳をうつ状態に追い込みます。あなたの役割は「最善の行動」までです。",
-      "zh": "在尽心尽力后仍因他人评价或不理想的结果责备自己，会使大脑陷入抑郁与消耗。你的本分止于“尽力行动”，之后的结果交由自然。",
-      "es": "Culparse cuando los resultados fallan a pesar del esfuerzo causa depresión. Su deber termina en la acción; el resultado no le pertenece.",
-      "fr": "Se blâmer lorsque le résultat échoue malgré les efforts mène à l'épuisement. Votre devoir s'arrête à l'action.",
-      "de": "Sich bei schlechten Ergebnissen trotz Anstrengung zu beschuldigen führt zu Burnout. Ihre Pflicht endet bei der Handlung.",
-      "pt": "Culpador-se quando os resultados falham apesar do esforço causa exaustão. Seu dever termina na ação.",
-      "id": "Menyalahkan diri saat hasil luar tidak sesuai walau sudah berusaha memicu depresi. Tugas Anda berhenti pada tindakan."
-    },
     "faqs": [
       {
         "question": {
-          "ko": "타인의 태도나 반응도 정말 내가 전혀 통제할 수 없나요?",
-          "en": "Are other people's attitudes and reactions really out of my control?",
-          "ja": "他人の態度や反応も本当に完全にコントロール不能ですか？",
-          "zh": "他人的态度与反应真的完全不在我的掌控之中吗？",
-          "es": "¿De verdad no puedo controlar la actitud ni las reacciones de los demás?",
-          "fr": "Est-ce que l'attitude des autres échappe vraiment à mon contrôle ?",
-          "de": "Kann ich das Verhalten anderer wirklich überhaupt nicht kontrollieren?",
-          "pt": "Realmente não posso controlar a atitude ou reação dos outros?",
-          "id": "Apakah sikap dan reaksi orang lain benar-benar di luar kendali saya?"
+          "ko": "타인의 태도나 반응도 정말 내가 전혀 통제할 수 없나요?"
         },
         "answer": {
-          "ko": "네, 그렇습니다. 내가 할 수 있는 것은 '영향을 주려는 나의 진정성 있는 행동'까지이며, 그것을 받아들이는 상대방의 감정과 반응은 100% 상대방 권한 영역입니다. 이를 구분하는 순간 인간관계의 스트레스가 사라집니다.",
-          "en": "Yes. You can influence others through your actions, but their final reaction belongs 100% to them. Recognizing this boundary instantly eliminates relationship stress.",
-          "ja": "はい。できるのは「自分の誠実な行動」までであり、相手の受け止め方は相手の領域です。",
-          "zh": "是的。你能做的止于“自己真诚的行动”，而对方如何接纳与反应则100%属于对方的权责领域。理清这一点能瞬间消除人际压力。",
-          "es": "Sí. Puede influir con sus acciones, pero la reacción final es 100% de la otra persona. Reconocer esto elimina el estrés.",
-          "fr": "Oui. Vous pouvez influencer par vos actes, mais la réaction finale appartient à l'autre. Le comprendre libère du stress.",
-          "de": "Ja. Sie können durch Ihr Handeln einwirken, aber die Reaktion liegt beim anderen. Das zu erkennen befreit von Stress.",
-          "pt": "Sim. Você pode influenciar pelas suas ações, mas a reação final é 100% do outro. Reconhecer isso elimina o estresse.",
-          "id": "Ya. Anda dapat memengaruhi lewat tindakan Anda, namun reaksi akhir 100% milik mereka. Memahami ini menghilangkan stres."
+          "ko": "네, 그렇습니다. 내가 할 수 있는 것은 '영향을 주려는 나의 진정성 있는 행동'까지이며, 그것을 받아들이는 상대방의 감정과 반응은 100% 상대방 권한 영역입니다. 이를 구분하는 순간 인간관계의 스트레스가 사라집니다."
         }
       },
       {
         "question": {
-          "ko": "결과를 신경 쓰지 않으면 열정이나 동기부여가 떨어지지 않나요?",
-          "en": "Does ignoring outcomes lower passion and motivation?",
-          "ja": "結果を気にしないと熱意やモチベーションが下がらないですか？",
-          "zh": "如果不去在乎结果，会不会导致热情与动力下降？",
-          "es": "¿Ignorar los resultados no disminuye la pasión y motivación?",
-          "fr": "Ignorer les résultats ne diminue-t-il pas la motivation ?",
-          "de": "Verringert das Ignorieren von Ergebnissen nicht die Motivation?",
-          "pt": "Ignorar resultados não diminui a paixão e a motivação?",
-          "id": "Apakah mengabaikan hasil tidak menurunkan semangat dan motivasi?"
+          "ko": "결과를 신경 쓰지 않으면 열정이나 동기부여가 떨어지지 않나요?"
         },
         "answer": {
-          "ko": "전혀 그렇지 않습니다! 오히려 결과에 대한 두려움과 불안이 사라지면서, 현재 내가 실행하는 행동 그 자체에 100% 순수한 몰입과 에너지를 쏟아부을 수 있게 됩니다.",
-          "en": "On the contrary! Removing fear of external outcomes frees 100% of your mental energy to flow into pure focus on the immediate task.",
-          "ja": "逆です。結果への恐れが消えることで、現在の行動そのものに100%没頭できるようになります。",
-          "zh": "恰恰相反！移除了对结果的恐惧与不安，反而能让你把100%的能量无损地投入到当下正在执行的行动本身。",
-          "es": "¡Al contrario! Eliminar el miedo al resultado libera el 100% de su energía para concentrarse en la tarea actual.",
-          "fr": "Au contraire ! Éliminer la peur du résultat libère 100% de votre énergie pour la tâche présente.",
-          "de": "Im Gegenteil! Die Befreiung von der Angst vor Ergebnissen setzt 100% der Energie für die Aufgabe frei.",
-          "pt": "Pelo contrário! Eliminar o medo do resultado liberta 100% da sua energia para a tarefa presente.",
-          "id": "Malahan sebaliknya! Melepaskan ketakutan akan hasil membebaskan 100% energi untuk fokus pada tindakan."
+          "ko": "전혀 그렇지 않습니다! 오히려 결과에 대한 두려움과 불안이 사라지면서, 현재 내가 실행하는 행동 그 자체에 100% 순수한 몰입과 에너지를 쏟아부을 수 있게 됩니다."
         }
       }
-    ],
-    "pubDate": "2026-05-15",
-    "updatedDate": "2026-05-15"
+    ]
   }
 }

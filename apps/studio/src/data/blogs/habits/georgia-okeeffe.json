@@ -1,218 +1,72 @@
 {
   "georgia-okeeffe": {
     "title": {
-      "en": "A close-up look at Georgia O'Keeffe's focus as she pulls a magnifying glass to the remains of a desert animal.",
-      "ko": "사막의 동물의 유골 뼈를 돋보기로 당겨본 조지아 오키프의 초점 클로즈업 관찰",
-      "ja": "砂漠の動物の死骸に虫眼鏡を引くジョージア・オキーフさんの焦点をクローズアップして見る。",
-      "zh": "乔治亚·欧姬芙 (Georgia O'Keeffe) 用放大镜观察沙漠动物遗骸时的特写镜头。",
-      "es": "Una mirada de cerca al enfoque de Georgia O'Keeffe mientras acerca una lupa a los restos de un animal del desierto.",
-      "fr": "Gros plan sur l'attention de Georgia O'Keeffe alors qu'elle pointe une loupe vers les restes d'un animal du désert.",
-      "de": "Eine Nahaufnahme von Georgia O'Keeffes Fokus, während sie ein Vergrößerungsglas auf die Überreste eines Wüstentiers zieht.",
-      "pt": "Uma visão de perto do foco de Georgia O'Keeffe enquanto ela aponta uma lupa para os restos mortais de um animal do deserto.",
-      "id": "Tampilan dekat pada fokus Georgia O'Keeffe saat dia menarik kaca pembesar ke sisa-sisa hewan gurun."
+      "ko": "사막의 동물의 유골 뼈를 돋보기로 당겨본 조지아 오키프의 초점 클로즈업 관찰"
     },
     "description": {
-      "en": "The godfather of American modernist art, he walked through the barren desert of New Mexico every morning to recover from visual fatigue by infinitely expanding his field of vision to the horizon.",
-      "ko": "미국 모더니즘 미술의 대모로, 매일 아침 뉴멕시코의 척박한 사막을 산책하며 시야를 지평선까지 무한히 확장해 시각적 피로를 회복했습니다.",
-      "ja": "アメリカのモダニズム芸術のゴッドファーザーである彼は、毎朝ニューメキシコの不毛の砂漠を歩き、視野を地平線まで無限に広げることで視覚疲労を回復しました。",
-      "zh": "美国现代主义艺术教父，他每天早上都会步行穿过新墨西哥州的贫瘠沙漠，通过将视野无限扩展到地平线来恢复视觉疲劳。",
-      "es": "Padrino del arte modernista estadounidense, caminaba todas las mañanas por el árido desierto de Nuevo México para recuperarse de la fatiga visual ampliando infinitamente su campo de visión hasta el horizonte.",
-      "fr": "Parrain de l'art moderniste américain, il marchait chaque matin dans le désert aride du Nouveau-Mexique pour se remettre de la fatigue visuelle en élargissant à l'infini son champ de vision jusqu'à l'horizon.",
-      "de": "Als Pate der amerikanischen Kunst der Moderne spazierte er jeden Morgen durch die karge Wüste von New Mexico, um sich von der visuellen Ermüdung zu erholen, indem er sein Sichtfeld unendlich bis zum Horizont erweiterte.",
-      "pt": "O padrinho da arte modernista americana, ele caminhava pelo deserto árido do Novo México todas as manhãs para se recuperar da fadiga visual, expandindo infinitamente seu campo de visão até o horizonte.",
-      "id": "Bapak baptis seni modernis Amerika, ia berjalan melewati gurun tandus New Mexico setiap pagi untuk memulihkan kelelahan visual dengan memperluas bidang penglihatannya ke cakrawala tanpa batas."
+      "ko": "미국 모더니즘 미술의 대모로, 매일 아침 뉴멕시코의 척박한 사막을 산책하며 시야를 지평선까지 무한히 확장해 시각적 피로를 회복했습니다."
     },
     "authority": {
-      "en": "Hunter Drohojowska-Philp, *Full Bloom: The Art and Life of Georgia O'Keeffe* (2004) & Cognitive Neuroscientific Studies",
-      "ko": "Hunter Drohojowska-Philp, *Full Bloom: The Art and Life of Georgia O'Keeffe* (2004)",
-      "ja": "ハンター・ドロホヨフスカ・フィリップ、*満開: ジョージア・オキーフの芸術と人生* (2004) & 認知神経科学研究",
-      "zh": "Hunter Drohojowska-Philp，*盛开：乔治亚·欧姬芙的艺术与生活* (2004) & 认知神经科学研究",
-      "es": "Hunter Drohojowska-Philp, *Plena floración: el arte y la vida de Georgia O'Keeffe* (2004) y estudios neurocientíficos cognitivos",
-      "fr": "Hunter Drohojowska-Philp, *Full Bloom: The Art and Life of Georgia O'Keeffe* (2004) & Cognitive Neuroscientific Studies",
-      "de": "Hunter Drohojowska-Philp, *Full Bloom: The Art and Life of Georgia O'Keeffe* (2004) & Cognitive Neuroscientific Studies",
-      "pt": "Hunter Drohojowska-Philp, *Full Bloom: The Art and Life of Georgia O'Keeffe* (2004) & Cognitive Neuroscientific Studies",
-      "id": "Hunter Drohojowska-Philp, *Full Bloom: The Art and Life of Georgia O'Keeffe* (2004) & Cognitive Neuroscientific Studies"
+      "ko": "Georgia Okeeffe 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "en": "Georgia O'Keeffe, the godmother of American modernist art and a female painter who pioneered the unique flower and desert bone painting style in 20th-century Western art history, and magnificently fixed the trivial shapes of Mother Nature on canvas using the focused close-up technique. She stood in the middle of the barren desert and stared for hours at the rough bones of unnoticed animals, the elaborate veins of wilted flowers, and the texture of grains of sand, magnified 10x or more as if through a magnifying glass. She created a visual impact by close-uping the smallest details of objects in overwhelming size on the entire canvas. This detailed visual focus and maximal rendering routine is what established her as an absolute master of modern art.\n\nToday on BuildSelf, we introduce the cognitive scientific principles of the habit of ‘gazing at 10x magnification at the remains of desert animals and withered flower petals’ and a 3-step guide that modern people can easily practice in their daily lives.",
-      "ko": "미국 모더니즘 미술의 대모이자 20세기 서양 미술사에서 독자적인 꽃과 사막의 뼈 화풍을 개척하며, 대자연의 사소한 형상을 초점 클로즈업 기법으로 화폭에 웅장하게 고정해 낸 여성 화가 조지아 오키프. 그녀는 황량한 사막 한가운데에 서서 아무도 눈여겨보지 않는 거친 동물의 유골 뼈, 시든 꽃의 정교한 잎맥, 모래 알갱이의 질감을 몇 시간 동안 돋보기를 보듯 10배 이상 확대하여 응시했습니다. 그녀는 事物의 지극히 사소한 극미세 부분을 캔버스 전면에 압도적인 크기로 클로즈업하여 시각적 충격을 던졌습니다. 이 세밀한 시각 초점 응시와 극대화 렌더링 루틴은 그녀를 현대 예술의 절대적인 거장으로 세운 원천이었습니다.\n\n오늘 BuildSelf에서는 그가 고수한 '사막의 동물의 유골 뼈와 시든 꽃잎을 10배 확대 응시하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다.",
-      "ja": "この歴史的習慣の実践において： 20 , . , , 10 . 事物 . . この歴史的習慣の実践において： BuildSelf ' 10 ' 3 .",
-      "zh": "在这一历史性惯例的实践中： 20 , . , , 10 . 事物 . . 在这一历史性惯例的实践中： BuildSelf ' 10 ' 3 .",
-      "es": "Georgia O'Keeffe, madrina del arte modernista estadounidense y pintora que fue pionera en el estilo único de pintura de flores y huesos del desierto en la historia del arte occidental del siglo XX, y fijó magníficamente las formas triviales de la Madre Naturaleza en lienzo utilizando la técnica del primer plano enfocado. Se paró en medio del árido desierto y contempló durante horas los ásperos huesos de animales que pasaban desapercibidos, las elaboradas venas de las flores marchitas y la textura de los granos de arena, ampliados 10 veces o más, como si se tratara de una lupa. Creó un impacto visual al acercar los detalles más pequeños de los objetos en un tamaño abrumador en todo el lienzo. Este enfoque visual detallado y la máxima rutina de renderizado es lo que la estableció como una maestra absoluta del arte moderno.\n\nHoy en BuildSelf, presentamos los principios científicos cognitivos del hábito de \"contemplar con un aumento de 10x los restos de animales del desierto y pétalos de flores marchitos\" y una guía de 3 pasos que la gente moderna puede practicar fácilmente en su vida diaria.",
-      "fr": "Georgia O'Keeffe, la marraine de l'art moderniste américain et une femme peintre qui a été la pionnière du style unique de peinture de fleurs et d'os du désert dans l'histoire de l'art occidental du 20e siècle, et a magnifiquement fixé les formes triviales de Mère Nature sur toile en utilisant la technique du gros plan ciblé. Elle se tenait au milieu du désert aride et regardait pendant des heures les os rugueux d'animaux inaperçus, les veines élaborées de fleurs fanées et la texture des grains de sable, agrandies 10 fois ou plus comme à travers une loupe. Elle a créé un impact visuel en gros plan sur les moindres détails des objets en taille impressionnante sur toute la toile. Cette concentration visuelle détaillée et cette routine de rendu maximal sont ce qui a fait d'elle un maître absolu de l'art moderne.\n\nAujourd'hui, sur BuildSelf, nous présentons les principes scientifiques cognitifs de l'habitude de « regarder avec un grossissement 10x les restes d'animaux du désert et les pétales de fleurs fanées » ainsi qu'un guide en 3 étapes que les gens modernes peuvent facilement mettre en pratique dans leur vie quotidienne.",
-      "de": "Georgia O'Keeffe, die Patin der amerikanischen Kunst der Moderne und eine Malerin, die den einzigartigen Stil der Blumen- und Wüstenknochenmalerei in der westlichen Kunstgeschichte des 20. Jahrhunderts bahnte und die trivialen Formen von Mutter Natur mithilfe der fokussierten Nahaufnahmetechnik auf großartige Weise auf Leinwand fixierte. Sie stand mitten in der kargen Wüste und starrte stundenlang auf die rauen Knochen unbemerkter Tiere, die kunstvollen Adern verwelkter Blumen und die Textur von Sandkörnern, zehnfach oder mehr vergrößert wie durch ein Vergrößerungsglas. Sie erzeugte eine visuelle Wirkung, indem sie die kleinsten Details von Objekten in überwältigender Größe auf der gesamten Leinwand in Nahaufnahmen aufnahm. Dieser detaillierte visuelle Fokus und die maximale Wiedergaberoutine machten sie zu einer absoluten Meisterin der modernen Kunst.\n\nHeute stellen wir auf BuildSelf die kognitionswissenschaftlichen Prinzipien der Gewohnheit vor, „mit 10-facher Vergrößerung auf die Überreste von Wüstentieren und verwelkten Blütenblättern zu blicken“ und eine dreistufige Anleitung, die moderne Menschen problemlos in ihrem täglichen Leben anwenden können.",
-      "pt": "Georgia O'Keeffe, a madrinha da arte modernista americana e uma pintora que foi pioneira no estilo único de pintura de flores e ossos do deserto na história da arte ocidental do século 20, e fixou magnificamente as formas triviais da Mãe Natureza na tela usando a técnica focada de close-up. Ela ficou no meio do deserto árido e olhou durante horas para os ossos ásperos de animais despercebidos, os veios elaborados das flores murchas e a textura dos grãos de areia, ampliados 10x ou mais, como se através de uma lupa. Ela criou um impacto visual ao aproximar os menores detalhes de objetos em tamanho impressionante em toda a tela. Esse foco visual detalhado e rotina de renderização máxima foi o que a estabeleceu como uma mestra absoluta da arte moderna.\n\nHoje, no BuildSelf, apresentamos os princípios científicos cognitivos do hábito de 'olhar com uma ampliação de 10x para restos de animais do deserto e pétalas de flores murchas' e um guia de 3 etapas que as pessoas modernas podem praticar facilmente em suas vidas diárias.",
-      "id": "Georgia O'Keeffe, ibu baptis seni modernis Amerika dan pelukis wanita yang memelopori gaya lukisan bunga dan tulang gurun yang unik dalam sejarah seni Barat abad ke-20, dan dengan luar biasa memperbaiki bentuk-bentuk sepele Ibu Pertiwi di atas kanvas menggunakan teknik close-up yang terfokus. Dia berdiri di tengah gurun tandus dan berjam-jam menatap tulang-tulang kasar hewan yang tidak disadari, urat-urat bunga layu yang rumit, dan tekstur butiran pasir, diperbesar 10x atau lebih seolah-olah melalui kaca pembesar. Dia menciptakan dampak visual dengan menutup detail terkecil objek dalam ukuran besar di seluruh kanvas. Fokus visual yang mendetail dan rutinitas rendering yang maksimal inilah yang menjadikannya sebagai master mutlak seni modern.\n\nHari ini di BuildSelf, kami memperkenalkan prinsip ilmiah kognitif tentang kebiasaan 'menatap sisa-sisa hewan gurun dan kelopak bunga yang layu dengan pembesaran 10x' dan panduan 3 langkah yang dapat dengan mudah dipraktikkan oleh orang modern dalam kehidupan sehari-hari."
+      "ko": "미국 모더니즘 미술의 대모이자 20세기 서양 미술사에서 독자적인 꽃과 사막의 뼈 화풍을 개척하며, 대자연의 사소한 형상을 초점 클로즈업 기법으로 화폭에 웅장하게 고정해 낸 여성 화가 조지아 오키프. 그녀는 황량한 사막 한가운데에 서서 아무도 눈여겨보지 않는 거친 동물의 유골 뼈, 시든 꽃의 정교한 잎맥, 모래 알갱이의 질감을 몇 시간 동안 돋보기를 보듯 10배 이상 확대하여 응시했습니다. 그녀는 사물의 지극히 사소한 극미세 부분을 캔버스 전면에 압도적인 크기로 클로즈업하여 시각적 충격을 던졌습니다. 이 세밀한 시각 초점 응시와 극대화 렌더링 루틴은 그녀를 현대 예술의 절대적인 거장으로 세운 원천이었습니다.\n\n오늘 포스트에서는 그가 고수한 '사막의 동물의 유골 뼈와 시든 꽃잎을 10배 확대 응시하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다."
     },
     "whyTitle": {
-      "en": "Analysis of the brain science principles that lead to success",
-      "ko": "성공을 자아내는 脳科学的 원리 분석",
-      "ja": "成功に導く脳科学原理の分析",
-      "zh": "分析导致成功的脑科学原理",
-      "es": "Análisis de los principios de las ciencias del cerebro que conducen al éxito.",
-      "fr": "Analyse des principes scientifiques du cerveau qui mènent au succès.",
-      "de": "Analyse der Prinzipien der Gehirnforschung, die zum Erfolg führen.",
-      "pt": "Análise dos princípios da ciência do cérebro que levam ao sucesso",
-      "id": "Analisis prinsip-prinsip ilmu otak yang membawa kesuksesan"
+      "ko": "성공을 자아내는 뇌과학적 원리 분석"
     },
     "whyDesc": {
-      "en": "Training that extremely narrows attention to only a very small part of an object dramatically improves the resolution of 'Visual Selective Attention' in the brain's visual association cortex. This has the effect of improving metacognitive cognitive resolution, which allows the brain to filter out noise (meaningless information) in everyday environments and detect meaningful patterns and unique essence first.",
-      "ko": "事物의 아주 미세한 일부분에만 주의를 극단적으로 좁히는 훈련은 두뇌 시각 연합 피질의 '선택적 시각 주의집중(Visual Selective Attention)' 해상도를 비약적으로 증진시킵니다. 이는 뇌가 일상적인 환경에서 노이즈(의미 없는 정보)를 필터링하고 유의미한 패턴과 독창적인 본질을 가장 먼저 감지해내는 메타 인지적 인지 분해능을 증진시키는 효과가 있습니다.",
-      "ja": "対象物のごく一部のみに注意を極端に絞るトレーニングは、脳の視覚連合野における「視覚選択的注意」の解像度を劇的に向上させます。これにはメタ認知の認知解像度が向上する効果があり、脳が日常環境のノイズ（意味のない情報）を除去し、意味のあるパターンや固有の本質を最初に検出できるようになります。",
-      "zh": "将注意力极度集中到物体的很小一部分的训练极大地提高了大脑视觉关联皮层中“视觉选择性注意力”的分辨率。这具有提高元认知认知分辨率的效果，使大脑能够过滤掉日常环境中的噪音（无意义的信息），并首先检测到有意义的模式和独特的本质。",
-      "es": "El entrenamiento que limita extremadamente la atención a sólo una parte muy pequeña de un objeto mejora drásticamente la resolución de la \"Atención Visual Selectiva\" en la corteza de asociación visual del cerebro. Esto tiene el efecto de mejorar la resolución cognitiva metacognitiva, lo que permite al cerebro filtrar el ruido (información sin sentido) en entornos cotidianos y detectar primero patrones significativos y esencias únicas.",
-      "fr": "Un entraînement qui réduit considérablement l'attention à seulement une très petite partie d'un objet améliore considérablement la résolution de « l'attention visuelle sélective » dans le cortex d'association visuelle du cerveau. Cela a pour effet d’améliorer la résolution cognitive métacognitive, ce qui permet au cerveau de filtrer le bruit (informations dénuées de sens) dans les environnements quotidiens et de détecter en premier les modèles significatifs et l’essence unique.",
-      "de": "Training, das die Aufmerksamkeit extrem auf nur einen sehr kleinen Teil eines Objekts beschränkt, verbessert die Auflösung der „visuellen selektiven Aufmerksamkeit“ im visuellen Assoziationskortex des Gehirns erheblich. Dies führt zu einer Verbesserung der metakognitiven kognitiven Auflösung, die es dem Gehirn ermöglicht, Rauschen (bedeutungslose Informationen) in alltäglichen Umgebungen herauszufiltern und zuerst bedeutungsvolle Muster und einzigartige Essenzen zu erkennen.",
-      "pt": "O treinamento que restringe extremamente a atenção a apenas uma parte muito pequena de um objeto melhora dramaticamente a resolução da 'Atenção Visual Seletiva' no córtex de associação visual do cérebro. Isto tem o efeito de melhorar a resolução cognitiva metacognitiva, o que permite ao cérebro filtrar ruídos (informações sem sentido) em ambientes cotidianos e detectar primeiro padrões significativos e essência única.",
-      "id": "Pelatihan yang sangat mempersempit perhatian hanya pada bagian yang sangat kecil dari suatu objek secara dramatis meningkatkan resolusi 'Visual Selective Attention' di korteks asosiasi visual otak. Hal ini memiliki efek meningkatkan resolusi kognitif metakognitif, yang memungkinkan otak menyaring kebisingan (informasi tidak berarti) di lingkungan sehari-hari dan mendeteksi pola bermakna dan esensi unik terlebih dahulu."
+      "ko": "의 아주 미세한 일부분에만 주의를 극단적으로 좁히는 훈련은 두뇌 시각 연합 피질의 '선택적 시각 주의집중(Visual Selective Attention)' 해상도를 비약적으로 증진시킵니다. 이는 뇌가 일상적인 환경에서 노이즈(의미 없는 정보)를 필터링하고 유의미한 패턴과 독창적인 본질을 가장 먼저 감지해내는 메타 인지적 인지 분해능을 증진시키는 효과가 있습니다."
     },
     "cautionTitle": {
-      "en": "Behavioral science advice for successful settlement",
-      "ko": "성공적인 안착을 위한 행동과학 조언",
-      "ja": "解決を成功させるための行動科学的アドバイス",
-      "zh": "成功解决的行为科学建议",
-      "es": "Consejos de ciencias del comportamiento para un acuerdo exitoso",
-      "fr": "Conseils en sciences comportementales pour une installation réussie",
-      "de": "Verhaltenswissenschaftliche Ratschläge für eine erfolgreiche Eingewöhnung",
-      "pt": "Conselhos científicos comportamentais para uma resolução bem-sucedida",
-      "id": "Nasihat ilmu perilaku agar penyelesaian berhasil"
+      "ko": "성공적인 안착을 위한 행동과학 조언"
     },
     "cautionDesc": {
-      "en": "Do not cause excessive tension in the ciliary muscles and cranial nerves around the eyes by observing objects for too long. It is enough to explore the detailed shapes in light and gentle breathing for 3 minutes every day.",
-      "ko": "事物을 너무 오랜 시간 관찰하여 눈 주변의 모양체 근육과 뇌 신경에 지나친 긴장을 유발하지 마세요. 매일 3분간 가볍고 부드러운 호흡 속에서 디테일 형태를 탐색하는 것으로 충분합니다.",
-      "ja": "長時間物体を観察することにより、目の周りの毛様体筋や脳神経に過度の緊張を与えないよう注意してください。毎日 3 分間、軽く穏やかな呼吸をしながら詳細な形状を探索するだけで十分です。",
-      "zh": "不要因长时间观察物体而导致眼睛周围的睫状肌和脑神经过度紧张。每天在轻柔的呼吸中探索细节形状3分钟就足够了。",
-      "es": "No provoque tensión excesiva en los músculos ciliares y los nervios craneales alrededor de los ojos al observar objetos durante demasiado tiempo. Basta explorar las formas detalladas con una respiración ligera y suave durante 3 minutos todos los días.",
-      "fr": "Ne provoquez pas de tension excessive dans les muscles ciliaires et les nerfs crâniens autour des yeux en observant les objets trop longtemps. Il suffit d'explorer les formes détaillées avec une respiration légère et douce pendant 3 minutes chaque jour.",
-      "de": "Verursachen Sie keine übermäßige Spannung in den Ziliarmuskeln und Hirnnerven um die Augen, indem Sie Objekte zu lange beobachten. Es reicht aus, jeden Tag 3 Minuten lang die detaillierten Formen in leichter und sanfter Atmung zu erkunden.",
-      "pt": "Não cause tensão excessiva nos músculos ciliares e nervos cranianos ao redor dos olhos observando objetos por muito tempo. Basta explorar as formas detalhadas com uma respiração leve e suave durante 3 minutos todos os dias.",
-      "id": "Jangan menyebabkan ketegangan berlebihan pada otot siliaris dan saraf kranial di sekitar mata dengan mengamati objek terlalu lama. Cukup mengeksplorasi detail bentuk dengan pernapasan ringan dan lembut selama 3 menit setiap hari."
+      "ko": "을 너무 오랜 시간 관찰하여 눈 주변의 모양체 근육과 뇌 신경에 지나친 긴장을 유발하지 마세요. 매일 3분간 가볍고 부드러운 호흡 속에서 디테일 형태를 탐색하는 것으로 충분합니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Step 1: Environment settings and tool settings",
-          "ko": "1단계: 환경 설정 및 도구 세팅",
-          "ja": "ステップ1：環境設定とツール設定",
-          "zh": "步骤一：环境设置与工具设置",
-          "es": "Paso 1: configuración del entorno y configuración de herramientas",
-          "fr": "Étape 1 : Paramètres de l'environnement et paramètres des outils",
-          "de": "Schritt 1: Umgebungseinstellungen und Werkzeugeinstellungen",
-          "pt": "Passo 1: Configurações de ambiente e configurações de ferramentas",
-          "id": "Langkah 1: Pengaturan lingkungan dan pengaturan alat"
+          "ko": "1단계: 환경 설정 및 도구 세팅"
         },
         "text": {
-          "en": "Every day, choose one very trivial object that stands out on your desk or around the office, such as a flower petal, a pencil sharpener, or the corner of a cup. Refine your gaze.",
-          "ko": "매일 책상 위나 사무실 주변에서 눈에 띄는 꽃잎, 연필 깎인 단면, 컵의 모서리 등 아주 사소한 事物 1가지를 고릅니다. 시선 초점을 가다듬습니다.",
-          "ja": "毎日、花びら、鉛筆削り、カップの角など、机の上やオフィスの周りで目立つ、非常に些細な物体を 1 つ選びます。視線を磨きましょう。",
-          "zh": "每天，选择一个在你的办公桌上或办公室周围很显眼的微不足道的物体，例如花瓣、卷笔刀或杯角。细化你的目光。",
-          "es": "Cada día, elige un objeto muy trivial que destaque en tu escritorio o en la oficina, como un pétalo de flor, un sacapuntas o la esquina de una taza. Afina tu mirada.",
-          "fr": "Chaque jour, choisissez un objet très trivial qui se démarque sur votre bureau ou autour du bureau, comme un pétale de fleur, un taille-crayon ou le coin d'une tasse. Affinez votre regard.",
-          "de": "Wählen Sie jeden Tag ein sehr triviales Objekt aus, das auf Ihrem Schreibtisch oder im Büro auffällt, z. B. ein Blütenblatt, ein Bleistiftspitzer oder die Ecke einer Tasse. Verfeinern Sie Ihren Blick.",
-          "pt": "Todos os dias, escolha um objeto muito trivial que se destaque em sua mesa ou no escritório, como uma pétala de flor, um apontador de lápis ou o canto de uma xícara. Refine seu olhar.",
-          "id": "Setiap hari, pilihlah satu objek yang sangat sepele yang menonjol di meja Anda atau di sekitar kantor, seperti kelopak bunga, rautan pensil, atau sudut cangkir. Sempurnakan pandangan Anda."
+          "ko": "매일 책상 위나 사무실 주변에서 눈에 띄는 꽃잎, 연필 깎인 단면, 컵의 모서리 등 아주 사소한 1가지를 고릅니다. 시선 초점을 가다듬습니다."
         }
       },
       {
         "name": {
-          "en": "Step 2: Full sense projection and practice",
-          "ko": "2단계: 온전한 감각 투사와 실천",
-          "ja": "ステップ 2: 完全な感覚の投影と実践",
-          "zh": "步骤二：全感官投射与练习",
-          "es": "Paso 2: Proyección y práctica de todos los sentidos.",
-          "fr": "Étape 2 : Projection et pratique du plein sens",
-          "de": "Schritt 2: Vollständige Sinnesprojektion und Übung",
-          "pt": "Passo 2: Projeção de sentido pleno e prática",
-          "id": "Langkah 2: Proyeksi dan latihan indera penuh"
+          "ko": "2단계: 온전한 감각 투사와 실천"
         },
         "text": {
-          "en": "Fix your eyes for two minutes and observe the object's extremely fine surface texture, scratches, and fine boundaries as if you were looking through a camera zoom lens.",
-          "ko": "事物의 극미세한 표면 질감, 흠집, 미세한 경계선을 마치 카메라 줌렌즈로 당겨보듯 2분 동안 눈동자를 고정하고 면밀하게 확대 관찰합니다.",
-          "ja": "2 分間目を固定し、カメラのズーム レンズを通して見ているかのように、物体の非常に細かい表面の質感、傷、細かい境界線を観察します。",
-          "zh": "固定眼睛两分钟，观察物体极其精细的表面纹理、划痕和精细边界，就像通过相机变焦镜头观察一样。",
-          "es": "Fije sus ojos durante dos minutos y observe la textura de la superficie extremadamente fina, los rayones y los límites finos del objeto como si estuviera mirando a través del lente de zoom de una cámara.",
-          "fr": "Fixez vos yeux pendant deux minutes et observez la texture de surface extrêmement fine, les rayures et les limites fines de l'objet comme si vous regardiez à travers un objectif zoom d'appareil photo.",
-          "de": "Fixieren Sie Ihre Augen zwei Minuten lang und beobachten Sie die extrem feine Oberflächenstruktur, Kratzer und feinen Ränder des Objekts, als würden Sie durch ein Kamera-Zoomobjektiv schauen.",
-          "pt": "Fixe os olhos por dois minutos e observe a textura extremamente fina da superfície do objeto, os arranhões e os limites finos, como se você estivesse olhando através da lente de zoom de uma câmera.",
-          "id": "Perbaiki mata Anda selama dua menit dan amati tekstur permukaan objek yang sangat halus, goresan, dan batas halus seolah-olah Anda sedang melihat melalui lensa zoom kamera."
+          "ko": "의 극미세한 표면 질감, 흠집, 미세한 경계선을 마치 카메라 줌렌즈로 당겨보듯 2분 동안 눈동자를 고정하고 면밀하게 확대 관찰합니다."
         }
       },
       {
         "name": {
-          "en": "Step 3: Objective gaze and meta-organization",
-          "ko": "3단계: 객관적 응시 및 메타 정리",
-          "ja": "ステップ3：客観的な視線とメタ組織化",
-          "zh": "步骤三：客观凝视与元组织",
-          "es": "Paso 3: Mirada objetiva y metaorganización",
-          "fr": "Étape 3 : Regard objectif et méta-organisation",
-          "de": "Schritt 3: Objektiver Blick und Meta-Organisation",
-          "pt": "Passo 3: Olhar objetivo e meta-organização",
-          "id": "Langkah 3: Pandangan obyektif dan meta-organisasi"
+          "ko": "3단계: 객관적 응시 및 메타 정리"
         },
         "text": {
-          "en": "The three unique hidden morphological characteristics of objects discovered through observation are imprinted and stored as if enlarged rendering on a blackboard in the mind.",
-          "ko": "관찰을 통해 발견한 事物의 숨겨진 독특한 형태적 특징 3가지를 머릿속 칠판에 확대 렌더링하듯 각인하고 저장합니다.",
-          "ja": "観察によって発見された物体に隠された3つのユニークな形態的特徴は、あたかも黒板に拡大表示されたかのように脳内に刻み込まれ、記憶されます。",
-          "zh": "通过观察发现的物体的三种独特的隐藏形态特征，就像黑板上放大的渲染一样被印记并存储在脑海中。",
-          "es": "Las tres características morfológicas ocultas únicas de los objetos descubiertos a través de la observación quedan impresas y almacenadas como si fueran una representación ampliada en una pizarra en la mente.",
-          "fr": "Les trois caractéristiques morphologiques cachées uniques des objets découverts grâce à l'observation sont imprimées et stockées comme s'il s'agissait d'un rendu agrandi sur un tableau noir dans l'esprit.",
-          "de": "Die drei einzigartigen verborgenen morphologischen Eigenschaften von Objekten, die durch Beobachtung entdeckt wurden, werden wie eine vergrößerte Darstellung auf einer Tafel im Kopf eingeprägt und gespeichert.",
-          "pt": "As três características morfológicas ocultas únicas dos objetos descobertos através da observação são impressas e armazenadas como se fossem ampliadas em um quadro negro na mente.",
-          "id": "Tiga ciri morfologi tersembunyi yang unik dari objek yang ditemukan melalui observasi dicetak dan disimpan seolah-olah diperbesar di papan tulis dalam pikiran."
+          "ko": "관찰을 통해 발견한 의 숨겨진 독특한 형태적 특징 3가지를 머릿속 칠판에 확대 렌더링하듯 각인하고 저장합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "매일 야외 수집 산책 루틴을 수행해야 하나요?",
-          "en": "Should I perform this outdoor collection walk routine every day?",
-          "ja": "毎日屋外での収集散歩ルーティンを行うべきですか？",
-          "zh": "每天都需要进行这种户外采集漫步规程吗？",
-          "es": "¿Debo realizar esta rutina de caminata de recolección al aire libre todos los días?",
-          "fr": "Dois-je faire cette routine de marche et de collecte en plein air chaque jour ?",
-          "de": "Sollte ich diese Sammel-Spaziergang-Routine jeden Tag durchführen?",
-          "pt": "Devo realizar esta rotina de caminhada e coleta ao ar livre todos os dias?",
-          "id": "Haruskah saya melakukan rutinitas berjalan mengumpulkan benda alam ini setiap hari?"
+          "ko": "매일 야외 수집 산책 루틴을 수행해야 하나요?"
         },
         "answer": {
-          "ko": "네, 아침의 신선한 공기를 마시며 자연물의 촉각과 질감에 집중하는 것이 뇌의 감각 영역 활성화와 스트레스 해소에 좋습니다.",
-          "en": "Yes, breathing fresh morning air and focusing on the touch and texture of natural objects activates the brain's sensory areas and relieves stress.",
-          "ja": "はい、朝の新鮮な空気を吸いながら自然物の触覚と質感に集中することが、脳の感覚領域の活性化とストレス解消に良いです。",
-          "zh": "是的，呼吸清晨的新鲜空气并集中精力感受自然物的触觉和质地，有利于激活大脑感官区域和缓解压力。",
-          "es": "Sí, respirar aire fresco por la mañana y concentrarse en el tacto y textura de objetos naturales activa las áreas sensoriales y reduce el estrés.",
-          "fr": "Oui, respirer l'air frais du matin et se concentrer sur la texture d'objets naturels stimule les zones sensorielles et libère le stress.",
-          "de": "Ja, frische Morgenluft und die Konzentration auf die Textur natürlicher Objekte aktivieren die sensorischen Areale und bauen Stress ab.",
-          "pt": "Sim, respirar ar fresco pela manhã e concentrar-se no toque e textura de objetos naturais activa as áreas sensoriais e alivia o estresse.",
-          "id": "Ya, menghirup udara pagi yang segar dan fokus pada sentuhan serta tekstur benda alam sangat baik untuk mengaktifkan area sensorik otak dan meredakan stres."
+          "ko": "네, 아침의 신선한 공기를 마시며 자연물의 촉각과 질감에 집중하는 것이 뇌의 감각 영역 활성화와 스트레스 해소에 좋습니다."
         }
       },
       {
         "question": {
-          "ko": "사막이나 자연석 수집 환경이 아니면 어떻게 대체하나요?",
-          "en": "How can I substitute if I'm not in a desert or stony environment?",
-          "ja": "砂漠や自然石を収集できる環境ではない場合はどうすればいいですか？",
-          "zh": "如果不在沙漠或能收集自然石头的环境下，该如何替代？",
-          "es": "¿Cómo puedo sustituir este hábito si no estoy en un desierto o entorno rocoso?",
-          "fr": "Comment puis-je remplacer cette routine si je ne suis pas dans un désert ou milieu rocheux ?",
-          "de": "Wie kann ich die Routine ersetzen, wenn ich nicht in einer Wüste oder steinigen Umgebung bin?",
-          "pt": "Como posso substituir se não tiver um jardim ou terra?",
-          "id": "Bagaimana cara menggantinya jika saya tidak berada di gurun atau lingkungan berbatu?"
+          "ko": "사막이나 자연석 수집 환경이 아니면 어떻게 대체하나요?"
         },
         "answer": {
-          "ko": "도심 속 공원을 가볍게 걸으며 나뭇잎, 꽃잎, 조가비 등 자연의 미세한 질감을 지닌 대상을 가만히 관찰하고 만지는 것으로 충분합니다.",
-          "en": "Simply walk in a city park and quietly observe or touch objects with fine natural textures, such as leaves, petals, or shells.",
-          "ja": "都心の中の公園を軽く歩きながら、木の葉、花びら、貝殻など、自然の微細な質感を持つ対象を静観して触ることで十分です。",
-          "zh": "只需不带任何压力地在城市公园散步，静静观察并触摸落叶、花瓣、贝壳等具有自然细微质感的事物即可。",
-          "es": "Simplemente camina en un parque y observa o toca con calma objetos con texturas naturales, como hojas, pétalos o conchas.",
-          "fr": "Marchez dans un parc et observez ou touchez des éléments aux textures naturelles simples, comme des feuilles, des pétales ou des coquillages.",
-          "de": "Spazieren Sie in einem Park und betrachten oder berühren Sie Objekte mit natürlichen Texturen wie Blätter, Blüten oder Muscheln.",
-          "pt": "Basta caminhar em um parque e observar ou tocar com calma objetos com texturas naturais, como folhas, pétalas ou conchas.",
-          "id": "Cukup berjalan santai di taman kota dan amati atau sentuh objek bertekstur alam seperti daun, kelopak bunga, atau kerang."
+          "ko": "도심 속 공원을 가볍게 걸으며 나뭇잎, 꽃잎, 조가비 등 자연의 미세한 질감을 지닌 대상을 가만히 관찰하고 만지는 것으로 충분합니다."
         }
       }
-    ],
-    "pubDate": "2026-02-25",
-    "updatedDate": "2026-02-25"
+    ]
   }
 }

@@ -16,23 +16,23 @@ faqs:
     answer: "La cola almacena grasa nutriente. Su adelgazamiento rápido indica anorexia, estrés severo o parásitos intestinales que requieren atención veterinaria."
 ---
 
-El Gecko Leopardo es el reptil doméstico más popular del mundo. Según la ARAV, al ser un animal ectotérmico que depende de fuentes externas de calor, mantener una gradación térmica correcta (Zona Caliente 30°C ~ 32°C / Zona Fría 24°C ~ 26°C) y una cueva húmeda para la muda es vital para su supervivencia.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Evidencia Veterinaria y Comportamental
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Asociación de Veterinarios de Reptiles y Anfibios (ARAV) Guías de Cuidado</strong>.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Gecko Leopardo (Leopard Gecko) Perfil principal
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil media</span><span class="font-bold text-slate-800 dark:text-slate-200">15 - 20 años</span></div>
@@ -43,7 +43,7 @@ El Gecko Leopardo es el reptil doméstico más popular del mundo. Según la ARAV
 
 ## 1. Lenguaje Corporal del Gecko: Movimientos de Cola y Muda de Piel
 
-Su cola regordeta es una reserva de grasa y una herramienta de comunicación. Diferenciar el balanceo lento defensivo de la agitación alegre durante la caza previene el estrés.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Su cola regordeta es una reserva de grasa y una herramienta de comunicación. Di
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Control Térmico e Humidificación de Cueva</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Comprueba la temperatura de la manta térmica (30°C ~ 32°C) e humedece el sustrato de la cueva.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Su cola regordeta es una reserva de grasa y una herramienta de comunicación. Di
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Entorno Tranquilo para Descanso Diurno</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Evita luces directas y ruidos fuertes para respetar su ciclo de sueño nocturno.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Su cola regordeta es una reserva de grasa y una herramienta de comunicación. Di
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Alimentación con Calcio e Higiene del Sustrato</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Alimenta con insectos espolvoreados con calcio mediante pinzas y limpia las heces.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Su cola regordeta es una reserva de grasa y una herramienta de comunicación. Di
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Embora o tratamento veterinário é importante, proporcionar um ambiente seguro (rampas, espaços verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Su cola regordeta es una reserva de grasa y una herramienta de comunicación. Di
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      La piel retenida corta la circulación y causa necrosis. Báñalo en agua tibia (30°C) durante 5 minutos y retírala suavemente con un bastoncillo húmedo.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Su cola regordeta es una reserva de grasa y una herramienta de comunicación. Di
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      La cola almacena grasa nutriente. Su adelgazamiento rápido indica anorexia, estrés severo o parásitos intestinales que requieren atención veterinaria.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </details>
 </div>

@@ -1,14 +1,14 @@
 ---
 title: "30년간 대작을 완성한 프랑스 거장? 에밀 졸라의 아침 3시간 몰입 루틴"
 description: "대문호 에밀 졸라가 30년 넘게 지켜온 'Nulla dies sine linea' 모토와 매일 아침 3시간 몰입 글쓰기 습관의 과학적 원리와 실천법."
-pubDate: "2026-02-04"
-updatedDate: "2026-02-04"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/zola_morning_writing_block.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/zola_morning_writing_block.png"
 app: "buildself"
 formatVersion: 4
-authority: "앙리 미테랑 전기 'Émile Zola' 및 에밀 졸라 서간집 사료"
+authority: "에밀 졸라 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "아침 딥 워크 1시간 타임블록 설정"
     text: "매일 아침 가장 맑은 시간대 중 1시간을 나만의 외부 방해 금지 타임블록으로 캘린더에 지정합니다."
@@ -21,6 +21,7 @@ faqs:
     answer: "정말 긴급한 연락은 전화로 오게 되어 있습니다. 메일과 메시지 확인 시간을 아침 몰입 1시간 뒤로 미루는 것만으로도 작업 품질이 10배 올라갑니다."
   - question: "3시간을 통째로 내기 힘든 직장인은 어떻게 적용해야 하나요?"
     answer: "3시간이라는 숫자보다 중요한 것은 '차단성'입니다. 출근 전 30분이나 퇴근 후 45분이라도 완전 차단된 상태로 딥 워크를 수행하면 충분합니다."
+
 ---
 
 19세기 프랑스 문학의 정점이자 리얼리즘·자연주의 문학을 개척하여 <나나>, <목로주점>, 그리고 드레퓌스 사건의 불의에 맞선 역사적 선언문 <나는 고발한다(J'Accuse...!)>를 남긴 대문호, 에밀 졸라(Émile Zola). 평생 수십 권의 대작을 발표하며 거대한 문학적 업적과 정교한 사회비판 논리를 구축해 낸 그의 폭발적인 창작열은 어디서 비롯되었을까요? ✒️
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 앙리 미테랑 전기 'Émile Zola' 및 에밀 졸라 서간집 사료 정보를 기반으로 작성되었습니다.
+      본 콘텐츠는 <strong>에밀 졸라 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 zola-morning-writing-block 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 환경 차단을 통한 의지력 고갈 방지와 기저핵 자동화
+## 환경 차단을 통한 의지력 고갈 방지와 기저핵 자동화
 
 매번 '지금 일을 시작할까?' 고민하는 행위는 전전두엽의 포도당과 의지력을 낭비시킵니다.
 
@@ -51,8 +52,9 @@ faqs:
 
 ---
 
-## 2. 실천을 위한 3단계 세부 행동 가이드
+## 분량보다 정해진 시간의 엄격한 차단에 집중하세요
 
+에밀 졸라의 모토 핵심은 '매일 거르지 않는 지속성'입니다. 완벽한 글을 쓰려 애쓰기보다 정해진 1시간 동안 외부 차단을 유지하는 습관 자체를 우선 확립하세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,25 +86,13 @@ faqs:
   </p>
 </div>
 
----
-
-## 3. 분량보다 정해진 시간의 엄격한 차단에 집중하세요
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      에밀 졸라의 모토 핵심은 '매일 거르지 않는 지속성'입니다. 완벽한 글을 쓰려 애쓰기보다 정해진 1시간 동안 외부 차단을 유지하는 습관 자체를 우선 확립하세요.
-    </p>
-  </div>
-</div>
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>아침에 급한 이메일이나 연락이 올까 봐 불안할 때는 어떻게 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -110,9 +100,9 @@ faqs:
       정말 긴급한 연락은 전화로 오게 되어 있습니다. 메일과 메시지 확인 시간을 아침 몰입 1시간 뒤로 미루는 것만으로도 작업 품질이 10배 올라갑니다.
     </p>
   </details>
-
+  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>3시간을 통째로 내기 힘든 직장인은 어떻게 적용해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

@@ -15,24 +15,23 @@ faqs:
   - question: "Apakah normal jika lempeng tempurung kura-kura saya mengelupas?"
     answer: "Ya. Seiring pertumbuhan kura-kura, mereka melepaskan keping tempurung tua, yang terkelupas sebagai kepingan tipis dan transparan. Namun, jika Anda melihat cairan lendir putih atau tempurung yang lunak dan berbau, itu tanda pembusukan and perlu perawatan dokter hewan."
 ---
-
-Kura-kura kasturi umum yang berukuran kompak ideal untuk pemula. Meskipun menghabiskan sebagian besar waktu mereka di air, berjemur kering secara rutin di bawah lampu UV sangat penting untuk disinfeksi tempurung, sintesis vitamin D, dan pemeliharaan suhu tubuh. Kualitas air yang buruk and kurangnya berjemur kering dapat menyebabkan pembusukan tempurung (shell rot) yang menyakitkan. Hari ini di PetSelf, kami menjelaskan bahasa tubuh berjemur, tanda peringatan, and rutin pengelolaan akuarium 3 langkah untuk air yang jernih.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Bukti Dokter Hewan & Perilaku
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>Panduan Berjemur World Chelonian Association dan Protokol Kura-Kura Akuatik</strong>.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Kura-Kura Kasturi Umum (Common Musk Turtle) Profil Utama
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Rata-rata Umur</span><span class="font-bold text-slate-800 dark:text-slate-200">20 ~ 30  tahun</span></div>
@@ -43,7 +42,7 @@ Kura-kura kasturi umum yang berukuran kompak ideal untuk pemula. Meskipun mengha
 
 ## 1. Sinyal Berjemur Kura-Kura Kasturi dan Pertahanan Penarikan Tempurung
 
-Kura-kura kasturi umum meregangkan kaki belakang ke belakang saat berjemur 'Peregangan kaki belakang (Back-Leg Stretching)' untuk memaksimalkan penyerapan cahaya. Sebaliknya, ketika mendeteksi ancaman atau getaran, mereka menarik kepala and anggota tubuh ke dalam tempurung keras 'Penarikan tempurung (Shell Retraction)' untuk pertahanan diri.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +76,7 @@ Kura-kura kasturi umum meregangkan kaki belakang ke belakang saat berjemur 'Pere
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Pemeriksaan Suhu Air & Pemberian Makan Seimbang</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Periksa termometer air (jaga pada suhu 25-28 °C) and beri pelet kura-kura komersial berkualitas tinggi yang sesuai dengan usianya.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -87,7 +86,7 @@ Kura-kura kasturi umum meregangkan kaki belakang ke belakang saat berjemur 'Pere
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Memeriksa Lampu Berjemur dan Bohlam UV-B</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Periksa apakah lampu panas UV-B and lampu berjemur berfungsi dengan baik untuk mencegah penyakit tulang metabolik (MBD).
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -97,7 +96,7 @@ Kura-kura kasturi umum meregangkan kaki belakang ke belakang saat berjemur 'Pere
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Membersihkan Sisa Makanan & Penggantian Air Mingguan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Sedot kotoran dan sisa makanan. Lakukan penggantian air mingguan sebanyak 30% menggunakan air yang sudah diendapkan.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -106,7 +105,7 @@ Kura-kura kasturi umum meregangkan kaki belakang ke belakang saat berjemur 'Pere
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </div>
 </div>
@@ -124,7 +123,7 @@ Kura-kura kasturi umum meregangkan kaki belakang ke belakang saat berjemur 'Pere
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Tidak. Klorin dalam air keran mengiritasi selaput mata and kulit sensitif kura-kura, menyebabkan kering atau bengkak. Gunakan air yang diendapkan selama 24 jam atau tetes antiklorin.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </details>
 
@@ -134,7 +133,7 @@ Kura-kura kasturi umum meregangkan kaki belakang ke belakang saat berjemur 'Pere
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ya. Seiring pertumbuhan kura-kura, mereka melepaskan keping tempurung tua, yang terkelupas sebagai kepingan tipis dan transparan. Namun, jika Anda melihat cairan lendir putih atau tempurung yang lunak dan berbau, itu tanda pembusukan and perlu perawatan dokter hewan.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </details>
 </div>

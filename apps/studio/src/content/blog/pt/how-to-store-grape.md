@@ -23,16 +23,16 @@ faqs:
     answer: "Partes danificadas aceleram a deterioração. Corte-as de imediato e consuma primeiro para evitar que estraguem o resto do lote."
 ---
 
-Você já guardou uvas na geladeira e viu que elas se soltaram do cacho e murcharam? Hoje, o FreshSnap compartilha dicas de conservação para mantê-las firmes e frescas.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Autoridade Científica Verificada
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este guia de conservação segue as diretrizes oficiais de: <strong>RDA & USDA</strong>.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
@@ -41,7 +41,7 @@ Você já guardou uvas na geladeira e viu que elas se soltaram do cacho e murcha
 
 ## 1. Por que armazenar assim? Fatos científicos
 
-Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 ---
 
@@ -53,7 +53,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Não lavar antes de guardar 🍇</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    O pó branco na casca das uvas é uma camada protetora natural contra bactérias. Não as lave antes de guardar.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -63,7 +63,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Embrulhar cada cacho com papel 📰</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Embrulhe os cachos separadamente em papel-toalha para que a umidade não se acumule.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -73,7 +73,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guardar em saco perfurado na gaveta de legumes ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Coloque os cachos embrulhados em um saco perfurado e evite colocar objetos pesados por cima.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -86,7 +86,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Não coloque objetos pesados por cima ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      As uvas são facilmente esmagadas. A pressão rompe a casca, liberando suco e estragando todo o cacho em poucos dias.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
@@ -96,7 +96,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Remova as uvas danificadas com antecedência 🍇</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      If there are bruised or burst grapes inside the bunch, the leaking juice will spoil nearby healthy grapes. Cut off any damaged grapes before storing.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
@@ -111,7 +111,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Não, lavar antes de guardar retém humidade, o que estimula fungos. Limpe a sujeira a seco e lave apenas antes de comer.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 
@@ -121,7 +121,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Partes danificadas aceleram a deterioração. Corte-as de imediato e consuma primeiro para evitar que estraguem o resto do lote.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 </div>

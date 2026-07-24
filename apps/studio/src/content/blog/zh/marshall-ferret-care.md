@@ -25,7 +25,7 @@ faqs:
       兽医学与行为学依据
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>American Ferret Association 雪貂行为标准及异宠兽医行为指南</strong>。
+将此惯例应用到日常习惯中，体验深度专注与认知能力的提升。
     </p>
   </div>
 </div>

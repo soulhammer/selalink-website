@@ -1,233 +1,72 @@
 {
   "borges-mental-dictation": {
     "title": {
-      "ko": "마음의 눈으로 그린 미로? 보르헤스의 공간 작업 기억 시각화 루틴",
-      "en": "Labyrinth In the Mind's Eye? Borges' Spatial Working Memory Routine",
-      "ja": "心の目で描いた迷宮？ボルヘスの空間作業記憶視覚化ルーティン",
-      "zh": "心灵之眼构筑的迷宫？博尔赫斯空间工作记忆视觉化惯例",
-      "es": "¿Laberinto en el ojo mental? La rutina de memoria espacial de Borges",
-      "fr": "Un labyrinthe de l'esprit ? La routine de mémoire spatiale de Borges",
-      "de": "Das Labyrinth im Kopf? Borges' visuell-räumliche Gedächtnisroutine",
-      "pt": "Labirinto no olho da mente? A rotina de memória espacial de Borges",
-      "id": "Labirin di Mata Batin? Rutinitas Visualisasi Memori Kerja Spasial Borges"
+      "ko": "마음의 눈으로 그린 미로? 보르헤스의 공간 작업 기억 시각화 루틴"
     },
     "description": {
-      "ko": "아르헨티나의 대문호 보르헤스는 실명 후 머릿속으로 입체적인 소설 구조를 완전히 설계한 뒤 구술로 책을 썼습니다. 뇌의 작업 기억력을 극대화하는 보르헤스의 시각화 훈련을 알아봅니다.",
-      "en": "Borges fully designed complex novels in his head after losing sight, dictating them to a assistant. Learn visual spatial memory training.",
-      "ja": "アルゼンチンの大文豪ボルヘスは、失明後に頭の中で立体的な小説構造を完全に設計し、口述で本を書きました。脳の作業記憶力を極大化するボルヘスの視覚化トレーニングを紹介します。",
-      "zh": "阿根廷文学巨匠博尔赫斯失明后，在脑海中完全设计出立体的杰作结构，然后通过口述完成了写作。让我们来了解一下将大脑工作记忆力发挥到极限的博尔赫斯视觉化训练。",
-      "es": "El escritor argentino Borges diseñó novelas en su mente tras perder la vista. Conozca su entrenamiento de memoria espacial y visualización.",
-      "fr": "L'écrivain argentin Borges concevait ses récits mentalement après être devenu aveugle. Découvrez sa méthode de visualisation spatiale.",
-      "de": "Der argentinische Dichter Borges entwarf Geschichten nach seiner Erblindung im Kopf. Lernen Sie sein räumliches Gedächtnistraining.",
-      "pt": "O escritor argentino Borges projetou romances em sua mente após perder a visão. Conheça seu treinamento de memória espacial e visualização.",
-      "id": "Sastrawan besar Argentina Borges merancang struktur novel tiga dimensi di kepalanya setelah kehilangan penglihatan, lalu mendiktekannya. Pelajari latihan visualisasi Borges."
+      "ko": "아르헨티나의 대문호 보르헤스는 실명 후 머릿속으로 입체적인 소설 구조를 완전히 설계한 뒤 구술로 책을 썼습니다. 뇌의 작업 기억력을 극대화하는 보르헤스의 시각화 훈련을 알아봅니다."
     },
     "authority": {
-      "ko": "보르헤스 전기 'Borges: A Life' 및 교차 가소성 뇌의학 연구",
-      "en": "Borges' Biography 'Borges: A Life' & Cross-modal Plasticity Neuro-medicine",
-      "ja": "ボルヘス伝記「Borges: A Life」および交差可塑性脳医学研究の結果",
-      "zh": "博尔赫斯传记《Borges: A Life》与交叉可塑性脑医学研究成果",
-      "es": "Biografía de Borges 'Borges: A Life' y estudios de neuroplasticidad",
-      "fr": "Biographie de Borges 'Borges: A Life' & recherches sur la plasticité cérébrale",
-      "de": "Borges' Biografie 'Borges: A Life' & neurobiologische Forschung zu Plastizität",
-      "pt": "Biografia de Borges 'Borges: A Life' & pesquisas em neuroplasticidade",
-      "id": "Biografi Borges 'Borges: A Life' & Penelitian Medis Plastisitas Saraf"
+      "ko": "보르헤스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "아르헨티나의 대문호이자 문학적 미로의 거장 호르헤 루이스 보르헤스(Jorge Luis Borges). 그는 유전성 녹내장으로 인해 청년기부터 시력을 점진적으로 잃어, 1955년 아르헨티나 국립도서관장에 취임할 무렵에는 이미 시력을 거의 완전히 상실한 상태였습니다. 그러나 보르헤스는 절망하는 대신 자신의 실명을 경이로운 지적 도약의 계기로 삼았습니다. 📚\n\n더 이상 종이 위에 글로 적거나 책을 읽을 수 없었던 그는 머릿속으로 시와 단편 소설, 평론의 구조를 복기하고 수정을 거듭하는 '내면 구술(Mental Dictation)' 루틴을 구축했습니다. 보르헤스는 텍스트를 단순한 문장의 나열이 아닌 3차원적 공간 구조(미로, 무한의 도서관, 거울의 방)로 시각화하여 머릿속에 담아둔 뒤, 이를 어머니 레오노르 아세베도나 조수들에게 구술하여 원고로 완성했습니다. 이 독보적인 습관은 그의 뇌 속 시공간 작업 기억(Visuospatial Working Memory)을 극한으로 발달시켰습니다.\n\n오늘 BuildSelf에서는 보르헤스를 불멸의 작가로 만든 '내면 구술 및 공간 시각화' 루틴의 뇌과학적 원리와 현대 지식 노동자들이 작업 기억과 집중력을 극대화할 수 있는 3단계 실천 루틴을 소개합니다.",
-      "en": "Jorge Luis Borges, the master of Argentine literature and creator of complex literary labyrinths, suffered from gradual vision loss due to hereditary glaucoma. By the time he was appointed director of the National Library of Argentina in 1955, he was almost completely blind. However, rather than despairing, Borges transformed his blindness into a remarkable intellectual catalyst. 📚\n\nUnable to read books or write physically on paper, he developed a unique 'mental dictation' routine. He composed and refined entire poems, short stories, and essays mentally in 3D architectural spaces (labyrinths, infinite libraries, and mirror rooms) before dictating them to his mother, Leonor Acevedo, or his assistants. This extraordinary habit expanded his visuospatial working memory to an unprecedented degree.\n\nToday, BuildSelf uncovers the neuroscientific mechanisms behind Jorge Luis Borges' mental dictation routine and provides a 3-step practical guide to help modern professionals maximize their working memory and cognitive focus.",
-      "ja": "アルゼンチンの大文豪であり文学的迷宮の巨匠ホルヘ・ルイス・ボルヘス（Jorge Luis Borges）。彼は遺伝性緑内障により青年期から徐々に視力を失い、1955年にアルゼンチン国立図書館長に就任する頃にはすでにほぼ完全に失明した状態でした。しかしボルヘスは絶望するどころか、自らの失明を驚異的な知的飛躍の契機としました。 📚\n\nもはや紙の上に文字を書いたり本を読んだりできなくなった彼は、頭の中で詩や短編小説、評論の構造を復習・推敲し続ける「内面口述（Mental Dictation）」ルーティンを構築しました。ボルヘスはテキストを単なる文章の羅列ではなく、3次元的な空間構造（迷宮、無限の図書館、鏡の部屋）として視覚化して頭の中に蓄え、それを母レオノール・アセベドや助手たちに口述して原稿を完成させました。この独自の習慣は、彼の脳内の時空間作業記憶（Visuospatial Working Memory）を極限まで発達させました。\n\n今日のBuildSelfでは、ボルヘスを不滅の作家に押し上げた「内面口述と空間視覚化」ルーティンの脳科学的原理と、現代の知識労働者が作業記憶と集中力を極大化できる3段階の実践ルーティンを紹介します。",
-      "zh": "在这一历史性惯例的实践中： (Jorge Luis Borges). , 1955 . . 📚 在这一历史性惯例的实践中： , ' (Mental Dictation)' . 3 (, , ) , . (Visuospatial Working Memory) . 在这一历史性惯例的实践中： BuildSelf ' ' 3 .",
-      "es": "Jorge Luis Borges, el célebre maestro de la literatura argentina y creador de laberintos literarios, sufrió la pérdida gradual de la visión debido a un glaucoma hereditario. Para cuando asumió la dirección de la Biblioteca Nacional de Argentina en 1955, ya había perdido casi por completo la vista. Sin embargo, lejos de rendirse, Borges transformó su ceguera en un impresionante catalizador intelectual. 📚\n\nAl no poder leer ni escribir físicamente en papel, desarrolló un increíble método de 'dictado mental': construía y pulía mentalmente poemas, cuentos y ensayos enteros antes de dictárselos a su madre, Leonor Acevedo, o a sus asistentes. Borges imaginaba sus obras no como palabras escritas, sino como mapas y arquitecturas tridimensionales (laberintos, bibliotecas infinitas y redes de espejos). Esta práctica le permitió mantener una memoria de trabajo visuoespacial prodigiosa.\n\nHoy, BuildSelf revela los principios neurocientíficos de la plasticidad cruzada del cerebro en la rutina de visualización de Borges y cómo los profesionales modernos pueden aplicarla para potenciar su capacidad de enfoque y memoria de trabajo.",
-      "fr": "Jorge Luis Borges, le célèbre maître de la littérature argentine, a souffert d'une perte progressive de la vue en raison d'un glaucome héréditaire. Lorsqu'il est devenu directeur de la Bibliothèque nationale d'Argentine en 1955, il était presque totalement aveugle. Loin de renoncer, il a transformé sa cécité en un catalyseur intellectuel extraordinaire. 📚\n\nNe pouvant plus lire ni écrire sur le papier, il a élaboré une méthode de 'dictée mentale' : il composait et affinait dans son esprit des poèmes et des récits entiers avant de les dicter à sa mère ou à ses assistants. Borges imaginait ses œuvres comme des structures tridimensionnelles (des labyrinthes et des miroirs). Cette habitude a stimulé sa mémoire de travail visuospatiale.\n\nAujourd'hui, BuildSelf révèle les principes neuroscientifiques de la plasticité croisée dans la routine de Borges et comment les appliquer au quotidien.",
-      "de": "Jorge Luis Borges, der berühmte argentinische Schriftsteller und Meister literarischer Labyrinthe, erblindete aufgrund eines erblichen Glaukoms im Laufe seines Lebens fast vollständig. Als er 1955 Direktor der argentinischen Nationalbibliothek wurde, konnte er nicht mehr sehen. Doch Borges verwandelte diese Einschränkung in einen kognitiven Vorteil. 📚\n\nDa er nicht mehr auf Papier schreiben konnte, entwickelte er die Methode des 'mentalen Diktats': Er entwarf und feilte ganze Gedichte und Essays im Kopf, bevor er sie seiner Mutter oder Assistenten diktierte. Er stellte sich seine Werke als dreidimensionale Strukturen (Labyrinthe, unendliche Bibliotheken) vor. Diese Praxis schärfte sein visuell-räumliches Arbeitsgedächtnis enorm.\n\nHeute zeigt BuildSelf die neurowissenschaftlichen Prinzipien hinter Borges' Visualisierungsroutine und wie moderne Wissensarbeiter ihr Gedächtnis damit stärken können.",
-      "pt": "Jorge Luis Borges, o mestre da literatura argentina e criador de labirintos literários, sofreu a perda gradual da visão devido a um glaucoma hereditário. Quando assumiu a direção da Biblioteca Nacional da Argentina em 1955, já estava quase totalmente cego. No entanto, ele transformou essa limitação em um poderoso catalisador intelectual. 📚\n\nImpossibilitado de ler ou escrever no papel, desenvolveu o método de 'ditado mental': construía e refinava mentalmente poemas, contos e ensaios inteiros antes de ditá-los para sua mãe, Leonor Acevedo, ou para seus assistentes. Borges imaginava suas obras como arquiteturas tridimensionais (labirintos e redes de espelhos), o que fortaleceu sua memória de trabalho visuoespacial.\n\nHoje, o BuildSelf revela os princípios neurocientíficos da plasticidade cruzada na rotina de Borges e como aplicá-los para expandir a capacidade de foco.",
-      "id": "Jorge Luis Borges, sastrawan besar Argentina dan maestro labirin literatur, mengalami penurunan penglihatan secara bertahap akibat glaukoma herediter. Ketika diangkat menjadi Direktur Perpustakaan Nasional Argentina pada tahun 1955, ia telah kehilangan penglihatannya secara hampir total. Namun, Borges mengubah keterbatasan ini menjadi katalis intelektual yang luar biasa. 📚\n\nKarena tidak lagi dapat membaca atau menulis di atas kertas, ia mengembangkan metode 'dikte mental': menyusun dan menyempurnakan puisi serta cerita secara utuh di dalam pikirannya sebelum mendiktekannya kepada ibunya, Leonor Acevedo, atau asistennya. Borges membayangkan karyanya sebagai arsitektur tiga dimensi (labirin dan jaringan cermin). Praktik ini melatih memori kerja spasialnya secara luar biasa.\n\nHari ini, BuildSelf mengungkap prinsip neurosains plastisitas silang di balik rutinitas visualisasi Borges dan cara menerapkannya untuk meningkatkan fokus."
+      "ko": "\"시력을 잃었을 때, 나는 비로소 내면의 세계와 진정한 미로를 탐험하기 시작했다.\" 📚\n\n아르헨티나의 대문호이자 20세기 세계 문학사에서 가장 독창적인 거장으로 평가받는 호르헤 루이스 보르헤스(Jorge Luis Borges). 그는 20세기 포스트모더니즘과 환상문학의 시초를 연 인물로, 유전성 녹내장(Glaucoma)으로 인해 30대부터 시력을 점진적으로 잃어 1955년 아르헨티나 국립도서관장에 취임할 무렵에는 완전히 실명 상태에 이르렀습니다. 수십만 권의 책으로 둘러싸인 도서관의 수장이 되었으나 단 한 줄의 책도 직접 읽을 수 없었던 그는 비극적인 운명 앞에서 결코 절망하지 않았습니다.\n\n종이 위에 펜으로 글을 쓰거나 책을 직접 읽을 수 없었던 보르헤스는 절망하는 대신, 자신의 머릿속 공간을 하나의 거대한 3차원 아키텍처로 바꾸는 '내면 구술(Mental Dictation)' 루틴을 단련했습니다. 그는 시와 단편 소설, 평론의 모든 문장과 구조를 머릿속 가상의 칠판과 미로에 3차원 입체 지도로 세밀하게 배치하고, 완벽하게 수정과 추상적 조율을 거친 뒤에야 어머니 레오노르 아세베도(Leonor Acevedo)나 조수들에게 구술하여 원고로 완성해 냈습니다. 이 독보적인 습관은 그의 시공간 작업 기억(Visuospatial Working Memory)을 극대화하여 뇌과학계에서도 경탄하는 뇌 가소성의 대표적 사례가 되었습니다.\n\n오늘 포스트에서는 보르헤스를 불멸의 작가로 만든 '내면 구술 및 3D 공간 시각화' 루틴의 뇌과학적 원리와 현대 지식 노동자들이 작업 기억과 몰입도를 끌어올릴 수 있는 3단계 실천 루틴을 소개합니다."
     },
     "whyTitle": {
-      "ko": "교차 가소성과 3차원 공간 시각화의 힘",
-      "en": "Power of Cross-Modal Plasticity and 3D Spatial Visualization",
-      "ja": "交差可塑性と3次元空間視覚化の力",
-      "zh": "交叉可塑性与三维空间视觉化的力量",
-      "es": "El poder de la plasticidad cruzada y la visualización 3D",
-      "fr": "Le pouvoir de la plasticité croisée et de la visualisation 3D",
-      "de": "Die Kraft der Plastizität und räumlichen Vorstellung",
-      "pt": "O poder da plasticidade cruzada e visualização 3D",
-      "id": "Kekuatan Cross-Modal Plasticity dan Visualisasi Ruang 3D"
+      "ko": "교차 가소성과 3차원 공간 시각화의 힘"
     },
     "whyDesc": {
-      "ko": "시각 자극이 완전히 제한되었을 때, 뇌는 청각 정보를 이용하여 공간 인지 영역을 활성화하는 <strong>'교차 가소성(Cross-modal Plasticity)'</strong>을 발휘합니다. 실명 상태의 보르헤스가 머릿속으로 복잡한 미로와 텍스트 구조를 구성할 때, 뇌의 시각 피질(Visual Cortex)은 공간적 배치와 논리적 설계를 담당하는 연합 영역으로 전환 작동했습니다. \n\n눈을 감고 3차원의 추상적 개념 지도를 머릿속으로 시각화하는 과정은 해마와 전두엽의 시공간 작업 기억(Working Memory) 용량을 강력하게 신장시킵니다. 이는 정보 간의 다차원적 통합과 직관적인 통찰력을 활성화하여, 텍스트의 나열을 뛰어넘는 혁신적인 아이디어를 조립해내는 脳科学的 원리입니다.",
-      "en": "When visual stimuli are limited, the brain exhibits <strong>'Cross-modal Plasticity'</strong> using auditory info to activate spatial areas. Borges' visual cortex adapted to handle logical layouts and spatial structures.\n\nVisualizing 3D abstract concept maps with closed eyes expands the visuospatial working memory capacity of the hippocampus and frontal lobe, activating multidimensional concepts and intuitive insights.",
-      "ja": "視覚刺激が完全に制限された時、脳は聴覚情報を利用して空間認知野を活性化する<strong>「交差可塑性（Cross-modal Plasticity）」</strong>を発揮します。失明状態のボルヘスが頭の中で複雑な迷宮やテキスト構造を構成する際、脳の視覚野（Visual Cortex）は空間的配置と論理的設計を担当する連合野に切り替わって作動しました。\n\n目を閉じて3次元の抽象的概念マップを頭の中で視覚化するプロセスは、海馬と前頭葉の時空間作業記憶（Working Memory）容量を強力に伸ばします。これは情報間の多次元的統合と直感的な洞察力を活性化し、テキストの羅列を超える革新的なアイデアを組み立てる脳科学的原理です。",
-      "zh": "当视觉刺激被完全限制时，大脑会发挥利用听觉信息来激活空间认知区域的<strong>“交叉可塑性（Cross-modal Plasticity）”</strong>。失明状态下的博尔赫斯在脑海里构筑复杂的迷宫和文字结构时，大脑的视觉皮层（Visual Cortex）便转换为了负责空间排布与逻辑联合设计的区域运作。\n\n闭上双眼，在脑海里对三维抽象概念图谱进行视觉化构建的过程，能强力拓宽海马体与额叶的时空间工作记忆（Working Memory）容量。这能激活信息间的多维融合与直观洞察力，是组装出超越文字简单排列的颠覆性灵感的脑科学原理。",
-      "es": "Al limitarse la vista, el cerebro activa la <strong>'plasticidad cruzada'</strong> usando la audición. El córtex visual de Borges se adaptó para manejar estructuras lógicas.\n\nVisualizar esquemas 3D con ojos cerrados expande la memoria visuoespacial del hipocampo, activando ideas y conocimientos intuitivos.",
-      "fr": "Lorsque la vue est limitée, le cerveau utilise la <strong>plasticité croisée</strong>. Chez Borges, le cortex visuel s'est réorganisé pour gérer les structures spatiales.\n\nVisualiser des concepts en 3D les yeux fermés stimule la mémoire visuospatiale, favorisant la synthèse d'idées neuves.",
-      "de": "Bei fehlenden visuellen Reizen nutzt das Gehirn die <strong>Plastizität</strong>. Borges' Sehrinde passte sich an, um räumliche Strukturen logisch zu verarbeiten.\n\nDas Visualisieren von 3D-Konzepten mit geschlossenen Augen stärkt das Arbeitsgedächtnis des Frontallappens und fördert kreative Einsichten.",
-      "pt": "Ao limitar-se a visão, o cérebro ativa a <strong>'plasticidade cruzada'</strong> usando a audição. O córtex visual de Borges adaptou-se para manejar estruturas lógicas.\n\nVisualizar esquemas 3D com os olhos fechados expande a memória visuoespacial do hipocampo, ativando ideias e conhecimentos intuitivos.",
-      "id": "Ketika stimulasi visual terbatas, otak menggunakan informasi auditori untuk mengaktifkan area kognitif spasial (<strong>'Cross-modal Plasticity'</strong>). Korteks visual Borges beradaptasi untuk menangani tata letak logis dan struktur spasial.\n\nMemvisualisasikan peta konsep abstrak 3D dengan mata tertutup memperluas kapasitas memori kerja spasial di hippocampus dan lobus frontal, mengaktifkan wawasan intuitif."
+      "ko": "시각 자극이 완전히 제한되었을 때, 뇌는 청각 정보를 이용하여 공간 인지 영역을 활성화하는 <strong>'교차 가소성(Cross-modal Plasticity)'</strong>을 발휘합니다. 실명 상태의 보르헤스가 머릿속으로 복잡한 미로와 텍스트 구조를 구성할 때, 뇌의 시각 피질(Visual Cortex)은 공간적 배치와 논리적 설계를 담당하는 연합 영역으로 전환 작동했습니다. \n\n눈을 감고 3차원의 추상적 개념 지도를 머릿속으로 시각화하는 과정은 해마와 전두엽의 시공간 작업 기억(Working Memory) 용량을 강력하게 신장시킵니다. 이는 정보 간의 다차원적 통합과 직관적인 통찰력을 활성화하여, 텍스트의 나열을 뛰어넘는 혁신적인 아이디어를 조립해내는 뇌과학적 원리입니다."
     },
     "cautionTitle": {
-      "ko": "눈앞의 텍스트가 아닌, 개념의 상호 구조에만 집중하세요",
-      "en": "Focus on the mutual structure of concepts, not the text in front of you",
-      "ja": "目の前のテキストではなく、概念の相互構造だけに集中してください",
-      "zh": "请专注于概念的相互关联结构，而非眼前的具体文字",
-      "es": "Concéntrese en la estructura de las ideas, no en el texto",
-      "fr": "Concentrez-vous sur la structure des idées, pas sur le texte",
-      "de": "Fokussieren Sie sich auf die Struktur der Ideen, nicht auf den Text",
-      "pt": "Concentre-se na estrutura das ideias, não no texto em si",
-      "id": "Fokuslah pada struktur timbal balik dari konsep, bukan teks di depan Anda"
+      "ko": "눈앞의 텍스트가 아닌, 개념의 상호 구조에만 집중하세요"
     },
     "cautionDesc": {
-      "ko": "보르헤스식 시각화의 핵심은 글자 폰트나 문장 기호를 눈으로 복기하는 것이 아닙니다. 기획의 핵심 개념들이 서로 어떻게 얽혀 있고 영향을 미치는지 '3차원적인 뼈대 구조(마인드맵이나 유기적 미로)'를 설계하는 것입니다. 추상적인 관계에 집중해야 뇌의 작업 기억 가소성 단련 효과를 온전히 얻을 수 있습니다.",
-      "en": "The key to Borges' visualization is not recalling letter fonts or syntax. It is designing the 3D skeleton structure (mind map or organic labyrinth) of concepts. Focus on relationships to get the plasticity training effect.",
-      "ja": "ボルヘス式視覚化の核心は、文字のフォントや文の記号を目で復習することではありません。企画の核心概念が互いにどのように絡み合い、影響を及ぼし合っているのか「3次元的な骨組み構造（マインドマップや有機的迷路）」を設計することです。抽象的な関係に集中してこそ、脳の作業記憶の可塑性訓練の効果を完全に得ることができます。",
-      "zh": "博尔赫斯式视觉化的核心，绝非在脑海里复盘文字字形或句读符号，而是设计创意核心概念之间如何交织并相互作用的“三维骨架结构（思维导图或有机迷宫）”。唯有专注于这种抽象关系，才能完整收获锻炼大脑工作记忆可塑性的效果。",
-      "es": "La clave no es recordar letras o sintaxis. Es diseñar la estructura 3D (mapa mental o laberinto) de las ideas. Concéntrese en las relaciones de los conceptos.",
-      "fr": "L'important n'est pas de revoir les mots. Il s'agit de concevoir la structure en 3D (carte mentale) de vos idées. Concentrez-vous sur les relations abstraites.",
-      "de": "Entscheidend ist nicht das Erinnern von Wörtern, sondern das Entwerfen der 3D-Struktur (Mindmap oder Netzwerk) der Ideen. Fokussieren Sie sich auf abstrakte Beziehungen.",
-      "pt": "A chave não é lembrar letras ou sintaxe. É projetar a estrutura 3D (mapa mental ou labirinto) das ideias. Concentre-se nas relações dos conceitos.",
-      "id": "Kunci dari visualisasi Borges bukanlah mengingat font huruf atau sintaksis. Ini adalah merancang struktur kerangka 3D (peta pikiran atau labirin organik) dari konsep-konsep tersebut. Fokuslah pada hubungan untuk mendapatkan efek latihan plastisitas."
+      "ko": "보르헤스식 시각화의 핵심은 글자 폰트나 문장 기호를 눈으로 복기하는 것이 아닙니다. 기획의 핵심 개념들이 서로 어떻게 얽혀 있고 영향을 미치는지 '3차원적인 뼈대 구조(마인드맵이나 유기적 미로)'를 설계하는 것입니다. 추상적인 관계에 집중해야 뇌의 작업 기억 가소성 단련 효과를 온전히 얻을 수 있습니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "2분 눈 감기와 잡념 소거",
-          "en": "Close Eyes and Clear Thoughts for 2 Minutes",
-          "ja": "2分間の目を閉じることと雑念の排除",
-          "zh": "闭眼两分钟并清空杂念",
-          "es": "Cerrar los ojos e ignorar distracciones por 2 minutos",
-          "fr": "Fermer les yeux et faire le vide pendant 2 minutes",
-          "de": "Augen schließen und 2 Minuten abschalten",
-          "pt": "Fechar os olhos e ignorar distrações por 2 minutos",
-          "id": "Tutup Mata dan Bersihkan Pikiran Selama 2 Menit"
+          "ko": "2분 눈 감기와 잡념 소거"
         },
         "text": {
-          "ko": "복잡한 기획이나 해결되지 않는 문제 앞에서, 의도적으로 2분 동안 눈을 감고 시각적 외부 빛 유입을 차단한 채 호흡을 가다듬습니다.",
-          "en": "Consciously close your eyes for 2 minutes before a complex problem. Cut off external visual inputs and calm your breathing.",
-          "ja": "複雑な企画や解決しない問題の前で、意図的に2分間目を閉じ、視覚的な外部の光の流入を遮断したまま呼吸を整えます。",
-          "zh": "在复杂的策划或悬而未决的问题前，有意识地闭眼2分钟，阻断外部光线输入，平复呼吸。",
-          "es": "Cierre los ojos durante 2 minutos ante un problema difícil, cortando estímulos visuales externos y respirando con calma.",
-          "fr": "Fermez les yeux pendant 2 minutes face à un problème complexe, en coupant les stimuli visuels et en respirant calmement.",
-          "de": "Schließen Sie bei Problemen 2 Minuten die Augen. Blenden Sie alles aus und atmen Sie ruhig durch.",
-          "pt": "Feche os olhos por 2 minutos diante de um problema complexo, cortando estímulos visuais e respirando com calma.",
-          "id": "Secara sadar tutup mata Anda selama 2 menit di depan masalah yang rumit. Putuskan asupan visual luar dan tenangkan pernapasan Anda."
+          "ko": "복잡한 기획이나 해결되지 않는 문제 앞에서, 의도적으로 2분 동안 눈을 감고 시각적 외부 빛 유입을 차단한 채 호흡을 가다듬습니다."
         }
       },
       {
         "name": {
-          "ko": "개념의 3D 입체 구조 시각화",
-          "en": "Visualize a 3D Concept Map",
-          "ja": "概念の3D立体構造の視覚化",
-          "zh": "视觉化构建概念的三维立体结构",
-          "es": "Visualizar el mapa de ideas en 3D",
-          "fr": "Visualiser la structure des idées en 3D",
-          "de": "Konzepte räumlich visualisieren",
-          "pt": "Visualizar o mapa de ideias em 3D",
-          "id": "Memvisualisasikan Peta Konsep 3D"
+          "ko": "개념의 3D 입체 구조 시각화"
         },
         "text": {
-          "ko": "기획안의 각 요소(A개념, B개념)를 도형으로 변환해 머릿속 공간에 배치하고, 이들이 선이나 화살표로 어떻게 얽히는지를 가상의 입체 지도로 그립니다.",
-          "en": "Convert elements into shapes, position them in your mind's space, and draw how they connect like a 3D labyrinth.",
-          "ja": "企画案の各要素（A概念、B概念）を図形に変換して頭の中の空間に配置し、これらが線や矢印でどのように絡み合うのかを仮想の立体地図として描きます。",
-          "zh": "将策划案的各个要素（A概念、B概念）转化为图形放入脑海空间中，如同绘制三维立体地图一般，构筑它们是如何通过线段或箭头交织在一起的。",
-          "es": "Convierta las ideas en figuras geométricas en su mente y trace cómo se conectan como en un mapa tridimensional.",
-          "fr": "Représentez vos idées sous forme de volumes dans votre esprit et reliez-les par des liens invisibles comme dans un plan en 3D.",
-          "de": "Verwandeln Sie Ideen in Gedankenbilder und ordnen Sie diese wie eine dreidimensionale Landkarte im Kopf an.",
-          "pt": "Converta as ideias em figuras em sua mente e trace como se conectam como em um mapa tridimensional.",
-          "id": "Ubah elemen menjadi bentuk, posisikan di ruang pikiran Anda, dan gambarkan bagaimana mereka terhubung seperti labirin 3D."
+          "ko": "기획안의 각 요소(A개념, B개념)를 도형으로 변환해 머릿속 공간에 배치하고, 이들이 선이나 화살표로 어떻게 얽히는지를 가상의 입체 지도로 그립니다."
         }
       },
       {
         "name": {
-          "ko": "구술 기록하듯 문장 즉시 받아쓰기",
-          "en": "Dictate and Write Down Immediately",
-          "ja": "口述記録のように文章を即座に書き取る",
-          "zh": "如同听写录音般立即记录文字",
-          "es": "Dictar y escribir inmediatamente al abrir los ojos",
-          "fr": "Dicter et transcrire immédiatement après",
-          "de": "Gedankengänge sofort aufschreiben",
-          "pt": "Editar e escrever imediatamente ao abrir os olhos",
-          "id": "Dikte dan Tuliskan Hasil Visualisasi Segera"
+          "ko": "구술 기록하듯 문장 즉시 받아쓰기"
         },
         "text": {
-          "ko": "머릿속 설계가 완료되면 곧바로 눈을 뜨고, 조수가 읊어준 문장을 기록하듯 내 안에서 완성된 구조를 모니터나 종이에 막힘없이 타자해 내려갑니다.",
-          "en": "Once the mental structure is designed, open your eyes immediately. Dictate and write down the finished outline on a screen without stopping.",
-          "ja": "頭の中の設計が完了したら、すぐに目を開け、助手が口ずさんだ文章を記録するように、自分の中で完成した構造をモニターや紙にためらうことなくタイピングしていきます。",
-          "zh": "一旦在脑海中完成设计，立即睁开双眼，如同记录助手朗读的语句般，将自身内部成型的结构毫无滞碍地在屏幕或纸张上打字书写下来。",
-          "es": "Al completar la estructura mental, abra los ojos y escriba el esquema en la pantalla sin detenerse.",
-          "fr": "Une fois le plan mental établi, ouvrez les yeux et transcrivez la structure sur écran sans vous arrêter.",
-          "de": "Öffnen Sie danach die Augen und schreiben Sie das mentale Konzept sofort auf Papier oder Bildschirm nieder.",
-          "pt": "Ao completar a estrutura mental, abra os olhos e escreva o esquema na tela sem parar.",
-          "id": "Setelah struktur mental dirancang, segeralah buka mata Anda. Dikte dan tuliskan kerangka yang telah selesai di layar tanpa henti."
+          "ko": "머릿속 설계가 완료되면 곧바로 눈을 뜨고, 조수가 읊어준 문장을 기록하듯 내 안에서 완성된 구조를 모니터나 종이에 막힘없이 타자해 내려갑니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "머릿속으로 시각화를 하려고 하면 자꾸 이미지가 깨지고 흐려지는데 팁이 있을까요?",
-          "en": "Are there tips when images break or blur during mental visualization?",
-          "ja": "頭の中で視覚化しようとすると、画像が崩れたりぼやけたりするのですが、ヒントはありますか？",
-          "zh": "在脑海中尝试视觉化时，图像总是碎裂、模糊，有什么窍门吗？",
-          "es": "¿Qué puedo hacer si las imágenes mentales se borran o difuminan?",
-          "fr": "Comment faire si mes représentations mentales s'estompent ?",
-          "de": "Was kann ich tun, wenn die Gedankenbilder verschwimmen?",
-          "pt": "O que posso fazer se as imagens mentais se apagam ou borram?",
-          "id": "Apakah ada tips ketika gambar pecah atau kabur saat melakukan visualisasi mental?"
+          "ko": "머릿속으로 시각화를 하려고 하면 자꾸 이미지가 깨지고 흐려지는데 팁이 있을까요?"
         },
         "answer": {
-          "ko": "매우 자연스러운 현상입니다. 처음에는 세부적인 그림을 선명하게 그리려 하기보다 단순한 동그라미나 네모 상자 2~3개를 그리고 그 사이를 화살표로 연결하는 아주 단순한 추상적 모형부터 시작하세요. 뇌의 훈련 강도가 쌓일수록 더 세밀한 시공간 해상도가 확보됩니다.",
-          "en": "It is normal. Instead of drawing detailed pictures at first, start with simple shapes like circles or rectangles and connect them with arrows. As you practice, your visuospatial resolution will improve.",
-          "ja": "非常に自然な現象です。最初は詳細な絵を鮮明に描こうとするのではなく、単純な丸や四角のボックスを2〜3個描き、その間を矢印で繋ぐ非常にシンプルな抽象モデルから始めてください。脳のトレーニング強度が積み重なるほど、より細かな時空間の解像度が確保されます。",
-          "zh": "这非常正常。起初请不要强求勾勒鲜艳具体的画面，而是从画出2~3个圆圈或方框、并在它们之间用箭头连接这一最简单的抽象模型开始。随着大脑训练强度的累积，时空间的分辨率自然会随之提高。",
-          "es": "Es normal. Al principio, use formas geométricas simples en lugar de dibujos complejos. Con la práctica, la resolución visuoespacial de su cerebro mejorará.",
-          "fr": "C'est tout à fait normal. Commencez par des formes très simples (cercles, carrés) reliées par des flèches. La précision s'améliorera avec l'entraînement.",
-          "de": "Das ist normal. Nutzen Sie anfangs einfache Kreise oder Quadrate und verbinden Sie diese mit Linien. Die räumliche Vorstellungskraft wächst mit der Übung.",
-          "pt": "É normal. No começo, use formas geométricas simples em vez de desenhos complexos. Com a prática, a resolução visuoespacial melhorará.",
-          "id": "Itu hal yang normal. Alih-alih menggambar gambar detail pada awalnya, mulailah dengan bentuk sederhana seperti lingkaran atau persegi panjang lalu hubungkan dengan panah. Resolusi spasial Anda akan meningkat seiring latihan."
+          "ko": "매우 자연스러운 현상입니다. 처음에는 세부적인 그림을 선명하게 그리려 하기보다 단순한 동그라미나 네모 상자 2~3개를 그리고 그 사이를 화살표로 연결하는 아주 단순한 추상적 모형부터 시작하세요. 뇌의 훈련 강도가 쌓일수록 더 세밀한 시공간 해상도가 확보됩니다."
         }
       },
       {
         "question": {
-          "ko": "눈을 감고 시각화하는 습관이 실제로 기획이나 코딩 실력에 도움이 되나요?",
-          "en": "Does closed-eye visualization actually help in planning or coding?",
-          "ja": "目を閉じて視覚化する習慣が、実際に企画やコーディングの実力に役立ちますか？",
-          "zh": "闭眼视觉化的习惯，真的对策划或编程能力有帮助吗？",
-          "es": "¿La visualización mental realmente ayuda a planificar o a programar?",
-          "fr": "La visualisation mentale aide-t-elle à planifier ou à coder ?",
-          "de": "Hilft visuelle Vorstellung beim Planen oder Programmieren?",
-          "pt": "A visualização mental realmente ajuda a planejar ou a programar?",
-          "id": "Apakah visualisasi dengan mata tertutup benar-benar membantu dalam perencanaan atau pengodean?"
+          "ko": "눈을 감고 시각화하는 습관이 실제로 기획이나 코딩 실력에 도움이 되나요?"
         },
         "answer": {
-          "ko": "큰 도움이 됩니다. 컴퓨터 공학자나 뛰어난 시스템 아키텍트들은 코드를 치기 전 전체 시스템의 컴포넌트 간 유기적인 데이터 흐름과 의존성 지도를 머릿속 공간에서 먼저 설계합니다. 머릿속 시각화 훈련은 복잡한 논리 구조를 흐트러짐 없이 조합하는 작업 기억력을 비약적으로 발달시킵니다.",
-          "en": "Yes, tremendously. Software architects design data flows and dependency maps in mental space before writing code. Visualization training significantly develops working memory to combine complex structures.",
-          "ja": "大いに役立ちます。コンピュータ技術者や優れたシステムアーキテクトは、コードを打ち込む前にシステム全体のコンポーネント間の有機的なデータフローと依存関係マップを、まず頭の中の空間で設計します。頭の中での視覚化トレーニングは、複雑な論理構造を乱れることなく組み合わせる作業記憶力を飛躍的に向上させます。",
-          "zh": "帮助巨大。计算机科学家或出色的系统架构师在敲代码前, 都会先在脑海空间里设计好整个系统组件之间有机的数流与依赖关系图。脑海视觉化训练能飞跃性地提升将复杂逻辑结构丝毫不乱地整合在一起的工作记忆力。",
-          "es": "Sí. Los ingenieros y arquitectos de software suelen diseñar el flujo de datos en su mente antes de programar. Entrenar la visualización mejora la memoria de trabajo.",
-          "fr": "Oui. Les architectes système dessinent souvent les flux de données mentalement avant de coder. Cet exercice développe la mémoire de travail pour les structures logiques complexes.",
-          "de": "Ja. Erfahrene Entwickler entwerfen Datenflüsse im Kopf, bevor sie programmieren. Die Visualisierung schult das logische Verständnis komplexer Systeme.",
-          "pt": "Sim. Engenheiros e arquitetos de software costumam desenhar o fluxo de dados na mente antes de programar. Treinar a visualização melhora a memória de trabalho.",
-          "id": "Ya, sangat membantu. Arsitek perangkat lunak merancang aliran data dan peta ketergantungan di ruang mental sebelum menulis kode. Latihan visualisasi secara signifikan mengembangkan memori kerja untuk menggabungkan struktur yang kompleks."
+          "ko": "큰 도움이 됩니다. 컴퓨터 공학자나 뛰어난 시스템 아키텍트들은 코드를 치기 전 전체 시스템의 컴포넌트 간 유기적인 데이터 흐름과 의존성 지도를 머릿속 공간에서 먼저 설계합니다. 머릿속 시각화 훈련은 복잡한 논리 구조를 흐트러짐 없이 조합하는 작업 기억력을 비약적으로 발달시킵니다."
         }
       }
-    ],
-    "stepImages": [
-      "",
-      "/images/blog/borges_mental_dictation_relax.webp",
-      ""
-    ],
-    "blog": {
-      "steps": [
-        null,
-        {
-          "name": {
-            "ja": "概念の3D立体構造の視覚化"
-          }
-        }
-      ]
-    },
-    "pubDate": "2026-06-21",
-    "updatedDate": "2026-06-21"
+    ]
   }
 }

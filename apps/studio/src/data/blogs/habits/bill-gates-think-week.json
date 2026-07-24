@@ -1,218 +1,72 @@
 {
   "bill-gates-think-week": {
     "title": {
-      "ko": "빌 게이츠의 '생각 주간': 외부와 완벽히 단절된 고립이 혁신을 만든다",
-      "en": "Bill Gates' 'Think Week': How Absolute Solitude Breeds Breakthrough Innovation",
-      "ja": "ビル・ゲイツの「思考週間」：外部と完全に遮断された孤立が革新を生む",
-      "zh": "比尔·盖茨的“思考周”：与世隔绝的绝对孤立如何孕育突破性创新",
-      "es": "La 'Semana de Reflexión' de Bill Gates: cómo el aislamiento absoluto engendra la innovación",
-      "fr": "La 'Semaine de Réflexion' de Bill Gates : comment l'isolement absolu engendre l'innovation",
-      "de": "Bill Gates' 'Think Week': Wie absolute Einsamkeit bahnbrechende Innovationen hervorbringt",
-      "pt": "A 'Semana de Reflexão' de Bill Gates: como o isolamento absoluto gera inovação",
-      "id": "‘Pekan Berpikir’ Bill Gates: Bagaimana Isolasi Total Melahirkan Inovasi Terobosan"
+      "ko": "빌 게이츠의 '생각 주간': 외부와 완벽히 단절된 고립이 혁신을 만든다"
     },
     "description": {
-      "ko": "마이크로소프트의 도약을 이끈 빌 게이츠의 오두막 고립 독서 루틴 '생각 주간'의 과학적 원리와 현대적으로 이를 실천할 수 있는 무소음 딥 워크 3단계를 소개합니다.",
-      "en": "Explore the science behind Bill Gates' cabin-isolation reading routine, 'Think Week', and learn a 3-step silent deep work practice for modern professionals.",
-      "ja": "マイクロソフトの躍進を導いたビル・ゲイツの別荘孤立読書ルーティン「思考週間」の科学的原理と、現代人向けの実践的な3ステップ無騒音ディープワークを紹介します。",
-      "zh": "探索比尔·盖茨小屋孤立阅读惯例“思考周”背后的科学原理，并学习适用于现代职场人士的三步无噪音深度工作法。",
-      "es": "Explore la ciencia detrás de la rutina de lectura en aislamiento de Bill Gates, la 'Semana de Reflexión', y aprenda una práctica de 3 pasos de trabajo profundo y silencioso.",
-      "fr": "Découvrez la science derrière la routine de lecture en isolement de Bill Gates, la 'Semaine de Réflexion', et apprenez une pratique en 3 étapes de travail profond et silencieux.",
-      "de": "Erfahren Sie mehr über die Wissenschaft hinter Bill Gates' Lese-Routine in der Einsamkeit, der 'Think Week', und lernen Sie eine 3-Schritt-Methode für ungestörtes Deep Work.",
-      "pt": "Explore a ciência por trás da rotina de leitura em isolamento de Bill Gates, a 'Semana de Reflexão', e aprenda um método prático de 3 passos de trabalho focado e silencioso.",
-      "id": "Jelajahi ilmu di balik rutinitas membaca dalam isolasi kabin Bill Gates, ‘Pekan Berpikir’, dan pelajari panduan praktis 3 langkah kerja mendalam tanpa gangguan."
+      "ko": "마이크로소프트의 도약을 이끈 빌 게이츠의 오두막 고립 독서 루틴 '생각 주간'의 과학적 원리와 현대적으로 이를 실천할 수 있는 무소음 딥 워크 3단계를 소개합니다."
     },
     "authority": {
-      "ko": "마이크로소프트 아카이브 및 칼 뉴포트의 딥 워크(Deep Work)",
-      "en": "Microsoft Archives & Cal Newport's Deep Work",
-      "ja": "マイクロソフト・アーカイブおよびカル・ニューポート「ディープワーク」",
-      "zh": "微软档案与卡尔·纽波特的《深度工作》",
-      "es": "Archivos de Microsoft y Deep Work de Cal Newport",
-      "fr": "Archives de Microsoft & Deep Work de Cal Newport",
-      "de": "Microsoft-Archive & Cal Newports Deep Work",
-      "pt": "Arquivos da Microsoft & Deep Work de Cal Newport",
-      "id": "Arsip Microsoft & Deep Work karya Cal Newport"
+      "ko": "Bill Gates Think Week 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "세계 최대의 소프트웨어 기업 마이크로소프트를 창업하고 기술 혁신을 주도한 빌 게이츠. 그는 엄청난 격변과 경쟁 속에서도 기업의 거대한 방향타를 정확한 타이밍에 꺾어 새로운 패러다임을 열어 젖혔습니다. 그가 결정적인 미래 비전을 포착할 수 있었던 비결은 다름 아닌 오두막 고립 루틴이었습니다. 🌲\n\n그는 마이크로소프트 운영 시절 매년 두 차례씩 외부 연락을 완전히 차단한 채 조용한 숲속 오두막으로 향했습니다. 그의 손에는 방대한 양의 기술 제안서, 논문, 그리고 도서가 들려 있었습니다. 일주일 동안 가족을 포함한 그 누구의 접촉도 없이 오직 읽고 사색하는 일에만 집중했습니다. 웹 브라우저 전쟁의 서막을 알린 그 유명한 '인터넷 조수(Internet Tidal Wave)' 메모 역시 이 고립 루틴 속에서 기획되었습니다.\n\n오늘 BuildSelf에서는 빌 게이츠가 실천한 '생각 주간(Think Week)' 루틴의 과학적 근거와 복잡한 디지털 시대에 현대인들이 이를 어떻게 활용하여 생산성을 극대화할 수 있는지 알아봅니다.",
-      "en": "Bill Gates, who founded Microsoft and led technological innovation. Amidst enormous turbulence and competition, he steered the company's huge rudder at the right timing to open a new paradigm. The secret to his capture of the decisive future vision was none other than his cabin isolation routine. 🌲\n\nTwice a year during his Microsoft days, he completely cut off outside contact and headed to a quiet forest cabin, holding a massive amount of technical proposals, papers, and books. For a week, without contact with anyone, including his family, he focused solely on reading and reflecting. The famous 'Internet Tidal Wave' memo, which marked the beginning of the web browser war, was planned in this isolation routine.\n\nToday, BuildSelf introduces the scientific evidence behind Gates' 'Think Week' routine and how modern people can use it to maximize productivity in a complex digital era.",
-      "ja": "世界最大のソフトウェア企業マイクロソフトを創業し、技術革新を主導したビル・ゲイツ。彼は激しい激変と競争の中でも、企業の巨大な方向舵を正確なタイミングで切り、新しいパラダイムを開きました。彼が決定的な未来予測を捉えることができた秘訣は、別荘での孤立ルーティンでした。 🌲\n\n彼はマイクロソフトの経営時代、年に2回、外部との連絡を完全に遮断したまま、静かな森の別荘へ向かいました。彼の両手には膨大な量の技術提案書、論文、そして書籍が抱えられていました。一週間、家族を含む誰とも会わず、ただ読むことと思索することだけに集中しました。ウェブブラウザ戦争の幕開けを告げた有名な「インターネットの潮流（Internet Tidal Wave）」メモも、この孤立ルーティンの中で執筆されました。\n\n今日のBuildSelfでは、ビル・ゲイツが実践した「思考週間（Think Week）」ルーティンの科学的根拠と、デジタル時代に現代人がこれを活用して生産性を極大化する方法を探ります。",
-      "zh": "在这一历史性惯例的实践中： . . . 🌲 在这一历史性惯例的实践中： . , , . . ' (Internet Tidal Wave)' . 在这一历史性惯例的实践中： BuildSelf ' (Think Week)' .",
-      "es": "Bill Gates, fundador de Microsoft y líder de la innovación tecnológica, su secreto para capturar la visión decisiva del futuro fue su rutina de aislamiento en cabañas. 🌲\n\nDos veces al año durante sus días en Microsoft, cortaba el contacto exterior y se dirigía a una tranquila cabaña forestal con propuestas técnicas, ponencias y libros. Durante una semana se centró únicamente en leer y reflexionar. El famoso memorando 'Internet Tidal Wave' se planificó en este aislamiento.\n\nHoy, BuildSelf presenta las pruebas científicas de la rutina de la 'Semana de Reflexión' de Gates y cómo las personas modernas pueden maximizar la productividad.",
-      "fr": "Bill Gates, fondateur de Microsoft et leader de l'innovation technologique, a orienté le gouvernail de l'entreprise au bon moment pour ouvrir un nouveau paradigme grâce à sa routine d'isolement en chalet. 🌲\n\nDeux fois par an, il coupait tout contact extérieur et se rendait dans un chalet en forêt avec des propositions techniques, des articles et des livres. Pendant une semaine, il s'est concentré uniquement sur la lecture et la réflexion. Le célèbre mémo 'Internet Tidal Wave' y a été planifié.\n\nAujourd'hui, BuildSelf présente les preuves scientifiques de la 'Semaine de Réflexion' de Gates et comment maximiser votre productivité.",
-      "de": "Bill Gates, Gründer von Microsoft und treibende Kraft hinter technologischen Innovationen. Das Geheimnis hinter seiner Vision lag in seiner Lese-Routine in einer Hütte. 🌲\n\nZweimal im Jahr zog er sich komplett zurück in eine Waldhütte, um Unmengen von Vorschlägen, Forschungsarbeiten und Büchern zu lesen. Eine Woche lang konzentrierte er sich ohne jegliche Ablenkung nur auf das Lesen und Nachdenken. Das berühmte 'Internet Tidal Wave'-Memo entstand genau hier.\n\nHeute stellt BuildSelf die Wissenschaft hinter Gates' 'Think Week'-Routine vor und zeigt, wie man damit heute seine Produktivität steigern kann.",
-      "pt": "Bill Gates, fundador da Microsoft e pioneiro da inovação tecnológica. O segredo para suas decisões mais importantes foi sua rotina de retiro em uma cabana isolada. 🌲\n\nDuas vezes por ano, ele cortava o contato com o mundo externo e se isolava em uma cabana na floresta com propostas técnicas, relatórios e livros. Durante uma semana, dedicou-se apenas a ler e refletir. O famoso memorando 'Internet Tidal Wave' nasceu desse retiro.\n\nHoje, o BuildSelf apresenta a ciência por trás da 'Semana de Reflexão' de Gates e como você pode usar esse conceito para maximizar sua produtivité.",
-      "id": "Bill Gates, yang mendirikan Microsoft dan memimpin inovasi teknologi. Rahasia di balik kemampuannya menangkap visi masa depan yang menentukan adalah rutinitas isolasi kabinnya. 🌲\n\nDua kali setahun selama masa kerjanya di Microsoft, ia memutus kontak luar dan menuju kabin hutan yang tenang, membawa proposal teknis, makalah, dan buku. Selama seminggu, ia fokus membaca dan merenung tanpa gangguan. Memo terkenal 'Internet Tidal Wave' direncanakan dalam isolasi ini.\n\nHari ini, BuildSelf menyajikan bukti ilmiah di balik rutinitas ‘Pekan Berpikir’ Gates dan bagaimana manusia modern dapat menggunakannya untuk memaksimalkan produktivitas."
+      "ko": "\"생각 주간은 내가 마이크로소프트에서 한 일 중 가장 생산적인 활동이었습니다. 그곳에서는 방해 없이 온전히 미래에만 집중할 수 있습니다.\" 🌲\n\n세계 최대의 소프트웨어 기업 마이크로소프트를 창업하고 기술 혁신을 주도한 빌 게이츠. 그는 엄청난 격변과 경쟁 속에서도 기업의 거대한 방향타를 정확한 타이밍에 꺾어 새로운 패러다임을 열어 젖혔습니다. 그가 결정적인 미래 비전을 포착할 수 있었던 비결은 다름 아닌 오두막 고립 루틴이었습니다.\n\n그는 마이크로소프트 운영 시절 매년 두 차례씩 외부 연락을 완전히 차단한 채 조용한 숲속 오두막으로 향했습니다. 그의 손에는 방대한 양의 기술 제안서, 논문, 그리고 도서가 들려 있었습니다. 일주일 동안 가족을 포함한 그 누구의 접촉도 없이 오직 읽고 사색하는 일에만 집중했습니다. 웹 브라우저 전쟁의 서막을 알린 그 유명한 '인터넷 조수(Internet Tidal Wave)' 메모 역시 이 고립 루틴 속에서 기획되었습니다.\n\n오늘 포스트에서는 빌 게이츠가 실천한 '생각 주간(Think Week)' 루틴의 과학적 근거와 복잡한 디지털 시대에 현대인들이 이를 어떻게 활용하여 생산성을 극대화할 수 있는지 알아봅니다."
     },
     "whyTitle": {
-      "ko": "왜 생각 주간 고립이 뇌를 깨우는가",
-      "en": "Why Think Week Isolation Awakens the Brain",
-      "ja": "なぜ思考週間の孤立が脳を活性化するのか",
-      "zh": "为什么思考周的孤立能唤醒大脑",
-      "es": "Por qué el aislamiento de la Semana de Reflexión despierta el cerebro",
-      "fr": "Pourquoi l'isolement de la Semaine de Réflexion éveille le cerveau",
-      "de": "Warum die Isolation der Think Week das Gehirn aktiviert",
-      "pt": "Por que o isolamento da Semana de Reflexión desperta o cérebro",
-      "id": "Mengapa Isolasi Pekan Berpikir Mengaktifkan Otak"
+      "ko": "왜 생각 주간 고립이 뇌를 깨우는가"
     },
     "whyDesc": {
-      "ko": "현대인은 무수한 디지털 정보의 범람 속에서 항상 주의력이 산만하게 분산된 '인지적 잔류(Attention Residue)' 상태에 노출되어 있습니다. 한 메일에서 다른 메일로, 한 메신저에서 다른 메신저로 즉각 반응하면서 깊이 있는 사고를 돕는 신경망의 연결이 차단됩니다. \n\n빌 게이츠가 정기적으로 실천했던 생각 주간은 이 인지적 잔류를 깨끗하게 청소하고, 뇌가 한 가지 거대한 주제에 완전히 동기화되도록 만듭니다. 외부 입력 자극이 완전히 통제되면, 전전두엽 피질은 정보를 가공하고 통찰을 뽑아내는 고차원적 인지 처리에 최적화됩니다. 脳科学的으로 이러한 긴 호흡의 완전한 몰입은 해마와 대뇌피질 사이의 장기 기억 강화를 촉진하여, 여러 파편화된 지식을 하나로 꿰어 장기적인 마스터 플랜을 설계하도록 돕습니다.",
-      "en": "Modern people are always exposed to a state of 'attention residue' where attention is distractedly scattered amidst the flood of digital information. The connection of the neural network that helps deep thinking is blocked by reacting instantly.\n\nGates' Think Week cleanses this attention residue and synchronizes the brain with one giant topic. When external input stimuli are controlled, the prefrontal cortex is optimized for high-level cognitive processing. Brain science shows that this deep immersion promotes long-term memory consolidation between the hippocampus and the cerebral cortex, helping to weave fragmented knowledge into a long-term master plan.",
-      "ja": "現代人は無数のデジタル情報の氾濫の中で、常に注意力が散漫に分散した「注意の残留（Attention Residue）」状態にさらされています。次々とメッセージに対応する中で、深い思考を助ける神経ネットワークの接続が遮断されます。\n\nビル・ゲイツが定期的に実践した思考週間は、この注意の残留をきれいにクレンジングし、脳を一つの巨大なテーマに完全に同期させます。外部の入力刺激が制限されると、前頭前野は情報を処理して洞察を導き出す高度な認知処理に最適化されます。脳科学的にも、このような長時間の深い没頭は海馬と大脳皮質の間の長期記憶の定着を促進し、断片化された知識を一つに繋ぎ合わせて長期的なマスタープランを設計するのを助けます。",
-      "zh": "现代人总是暴露在“注意力残留（Attention Residue）”的状态中，在数字信息的洪流中注意力分散。即时反应阻碍了深度思考的神经回路连接。\n\n盖茨的思考周能清除这种注意力残留，使大脑与一个宏大主题实现同步。当外部刺激受到控制时，前额叶皮层便会针对高层认知处理进行优化。脑科学表明，这种深度沉浸促进了海马体与大脑皮层之间的长期记忆整合，有助于将零散的知识织成宏伟的长期蓝图。",
-      "es": "Las personas modernas están expuestas a un estado de 'residuo de atención' en el que la atención se dispersa. La Semana de Reflexión de Gates limpia este residuo y sincroniza el cerebro. El control de los estímulos externos optimiza la corteza prefrontal, promoviendo la consolidación de la memoria a largo plazo.",
-      "fr": "Les gens modernes sont exposés à un état de 'résidu d'attention' où l'attention est dispersée. La Semaine de Réflexion de Gates nettoie ce résidu et synchronise le cerveau. Le contrôle des stimuli externes optimise le cortex préfrontal, favorisant la consolidation de la mémoire.",
-      "de": "Moderne Menschen leiden unter 'Aufmerksamkeitsrückständen' durch ständige Ablenkung. Gates' Think Week bereinigt diese Rückstände und synchronisiert das Gehirn. Die Kontrolle externer Reize optimiert den präfrontalen Kortex und fördert die Festigung des Langzeitgedächtnisses.",
-      "pt": "Pessoas modernas sofrem com 'resíduos de atenção' devido à distração constante. A Semana de Reflexão de Gates limpa esses resíduos e sincroniza o cérebro com um único objetivo. O controle de estímulos externos otimiza o córtex pré-frontal, facilitando ideias inovadoras.",
-      "id": "Manusia modern sering mengalami ‘sisa perhatian’ (attention residue) akibat banjir informasi digital. Pekan Berpikir Gates membersihkan sisa perhatian ini dan menyinkronkan otak pada satu topik besar. Pengendalian stimulus luar mengoptimalkan korteks prefrontal untuk memproses informasi tingkat tinggi."
+      "ko": "현대인은 무수한 디지털 정보의 범람 속에서 항상 주의력이 산만하게 분산된 '인지적 잔류(Attention Residue)' 상태에 노출되어 있습니다. 한 메일에서 다른 메일로, 한 메신저에서 다른 메신저로 즉각 반응하면서 깊이 있는 사고를 돕는 신경망의 연결이 차단됩니다. \n\n빌 게이츠가 정기적으로 실천했던 생각 주간은 이 인지적 잔류를 깨끗하게 청소하고, 뇌가 한 가지 거대한 주제에 완전히 동기화되도록 만듭니다. 외부 입력 자극이 완전히 통제되면, 전전두엽 피질은 정보를 가공하고 통찰을 뽑아내는 고차원적 인지 처리에 최적화됩니다. 뇌과학적으로 이러한 긴 호흡의 완전한 몰입은 해마와 대뇌피질 사이의 장기 기억 강화를 촉진하여, 여러 파편화된 지식을 하나로 꿰어 장기적인 마스터 플랜을 설계하도록 돕습니다."
     },
     "cautionTitle": {
-      "ko": "작은 고립이 큰 아이디어를 데려옵니다",
-      "en": "Small isolation brings big ideas",
-      "ja": "小さな孤立が大きなアイデアをもたらします",
-      "zh": "小孤立带来大灵感",
-      "es": "El pequeño aislamiento trae grandes ideas",
-      "fr": "Le petit isolement apporte de grandes idées",
-      "de": "Kleine Isolation bringt große Ideen",
-      "pt": "Pequenos isolamentos trazem grandes ideias",
-      "id": "Isolasi kecil membawa ide-ide besar"
+      "ko": "작은 고립이 큰 아이디어를 데려옵니다"
     },
     "cautionDesc": {
-      "ko": "빌 게이츠의 생각 주간은 현대인들에게 단절의 소중함을 말해줍니다. 해결되지 않는 고민을 붙잡고 매시간 이메일과 메시지를 확인하며 답을 찾으려 애쓰지 마세요. 오히려 모든 디지털 채널을 차단하고 아날로그 상태로 돌아가 생각할 시간을 확보할 때, 뇌는 스스로 고도로 얽혀 있던 난제의 실타래를 창의적으로 풀어내기 시작합니다.",
-      "en": "Bill Gates' Think Week speaks to the value of disconnection for modern people. Do not struggle to find answers while checking emails and messages every hour. Rather, when you block all digital channels and secure time to think in an analog state, the brain begins to creatively solve the thread of highly entangled problems.",
-      "ja": "ビル・ゲイツの思考週間は、現代人にとって「切断」の重要性を示しています。未解決の悩みを抱えながら、毎時間メールやメッセージを確認して答えを探そうとしないでください。むしろ、すべてのデジタルチャネルを遮断し、アナログな状態に戻って思考する時間を確保する時、脳は複雑に絡み合った難問の糸口を創造的に解きほぐし始めます。",
-      "zh": "比尔·盖茨的思考周向现代人传达了断联的价值。不要一边每小时检查邮件和消息，一边苦苦寻找答案。相反，当你切断所有数字渠道，腾出时间在模拟状态下思考时，大脑便会开始创造性地解开交织难题的线团。",
-      "es": "La Semana de Reflexión de Gates demuestra el valor de la desconexión. No luche por encontrar respuestas revisando mensajes cada hora. Bloquee los canales digitales y tómese tiempo para pensar en estado analógico para resolver problemas creativamente.",
-      "fr": "La Semaine de Réflexion de Gates montre la valeur de la déconnexion. Ne luttez pas pour trouver des réponses en consultant vos messages toutes les heures. Bloquez les canaux numériques et prenez le temps de réfléchir en mode analogique.",
-      "de": "Gates' Lese-Routine zeigt den Wert von Auszeiten. Suchen Sie nicht krampfhaft nach Antworten, während Sie stündlich E-Mails abrufen. Schalten Sie alle digitalen Kanäle ab, um in einem analogen Zustand über komplexe Probleme nachzudenken.",
-      "pt": "A Semana de Reflexão de Gates mostra o valor de se desconectar. Não tente resolver problemas checando mensagens a todo instante. Desligue os aparelhos digitais e reserve um tempo para pensar de forma analógica.",
-      "id": "Pekan Berpikir Gates menunjukkan pentingnya memutus koneksi. Jangan mencari jawaban sambil terus memeriksa pesan setiap jam. Matikan semua saluran digital dan luangkan waktu berpikir dalam kondisi analog."
+      "ko": "빌 게이츠의 생각 주간은 현대인들에게 단절의 소중함을 말해줍니다. 해결되지 않는 고민을 붙잡고 매시간 이메일과 메시지를 확인하며 답을 찾으려 애쓰지 마세요. 오히려 모든 디지털 채널을 차단하고 아날로그 상태로 돌아가 생각할 시간을 확보할 때, 뇌는 스스로 고도로 얽혀 있던 난제의 실타래를 창의적으로 풀어내기 시작합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "디지털 안식일 선포",
-          "en": "Declare a Digital Sabbath",
-          "ja": "デジタル安息日の宣言",
-          "zh": "宣告数字安息日",
-          "es": "Declare un sábado digital",
-          "fr": "Déclarez un sabbat numérique",
-          "de": "Erklären Sie einen digitalen Sabbat",
-          "pt": "Declare um sábado digital",
-          "id": "Deklarasikan Sabat Digital"
+          "ko": "디지털 안식일 선포"
         },
         "text": {
-          "ko": "매주 하루 혹은 특정 요일의 반나절을 지정하여 모든 스마트폰, 노트북, 태블릿을 비활성화합니다. 긴급한 연락 외에는 메일, 소셜 미디어를 전혀 확인하지 않는 물리적 고립을 강제합니다.",
-          "en": "Designate a half-day or a full day each week to disable all smartphones, laptops, and tablets. Force physical isolation by not checking email or social media at all except for urgent calls.",
-          "ja": "毎週一日、または特定の曜日の半日を指定して、すべてのスマートフォン、ノートパソコン、タブレットを非活性化します。緊急連絡以外は、メールやSNSを一切確認しない物理的な孤立を強制します。",
-          "zh": "每周指定半天或一天，停用所有智能手机、笔记本电脑和平板电脑。除了紧急电话外，绝对不查看电子邮件或社交媒体，强行与数字化隔绝。",
-          "es": "Desactive todos los dispositivos durante medio día o un día entero a la semana. Fuerce el aislamiento físico sin consultar redes sociales ni correos.",
-          "fr": "Désactivez tous vos appareils pendant une demi-journée ou une journée entière par semaine. Forcez l'isolement physique sans consulter vos courriels ou réseaux sociaux.",
-          "de": "Deaktivieren Sie wöchentlich einen halben oder ganzen Tag lang alle Smartphones, Laptops und Tablets. Erzwingen Sie diese Isolation und verzichten Sie auf E-Mails oder Social Media.",
-          "pt": "Desative todos os dispositivos eletrônicos durante meio dia ou um dia inteiro por semana. Evite checar e-mails ou redes sociais, forçando o foco analógico.",
-          "id": "Tentukan setengah hari atau satu hari penuh setiap minggu untuk menonaktifkan semua ponsel pintar, laptop, dan tablet. Jangan periksa surel atau media sosial sama sekali."
+          "ko": "매주 하루 혹은 특정 요일의 반나절을 지정하여 모든 스마트폰, 노트북, 태블릿을 비활성화합니다. 긴급한 연락 외에는 메일, 소셜 미디어를 전혀 확인하지 않는 물리적 고립을 강제합니다."
         }
       },
       {
         "name": {
-          "ko": "집중 연구 자료 수집 및 정독",
-          "en": "Collect and Read Intensive Research Materials",
-          "ja": "集中研究資料の収集と精読",
-          "zh": "收集并精读重点研究资料",
-          "es": "Recopile y lea materiales de investigación",
-          "fr": "Rassemblez et lisez des documents de recherche",
-          "de": "Sammeln und lesen Sie intensive Materialien",
-          "pt": "Reúna e leia materiais de pesquisa focados",
-          "id": "Kumpulkan dan Baca Bahan Penelitian Intensif"
+          "ko": "집중 연구 자료 수집 및 정독"
         },
         "text": {
-          "ko": "해결하려는 전략적 당면 과제에 대한 논문, 전문 서적, 제안서를 미리 인쇄해 두거나 오프라인 도서 형태로 수집합니다. 인터넷 검색창을 켜지 않고 2시간 이상 인쇄물만을 꼼꼼히 읽어 내려갑니다.",
-          "en": "Print out papers, professional books, and proposals in advance for the strategic tasks you want to solve, or collect them in physical books. Read only printed materials for more than 2 hours without opening internet search windows.",
-          "ja": "解決しようとする戦略的課題に関する論文、専門書、提案書をあらかじめ印刷しておくか、実物の書籍の形で収集します。インターネットを開かず、2時間以上印刷物だけを精読します。",
-          "zh": "针对想要解决的战略任务，提前打印好论文、专业书籍和提案，或收集纸质书籍。在不打开网络搜索窗口的情况下，专注阅读印刷材料两小时以上。",
-          "es": "Imprima o reúna libros físicos y documentos sobre el tema a resolver. Lea solo materiales impresos durante más de 2 horas sin buscar en internet.",
-          "fr": "Imprimez ou rassemblez des livres physiques et documents sur le sujet à résoudre. Lisez uniquement ces documents imprimés pendant plus de 2 heures sans chercher sur internet.",
-          "de": "Drucken Sie Fachliteratur, Berichte oder Vorschläge aus oder nutzen Sie physische Bücher. Lesen Sie mindestens 2 Stunden lang gedruckte Materialien, ohne das Internet zu nutzen.",
-          "pt": "Imprima relatórios e artigos sobre os temas que deseja resolver, ou use livros físicos. Leia os papéis por mais de 2 horas seguidas sem abrir o navegador.",
-          "id": "Cetak makalah, buku profesional, atau proposal terlebih dahulu terkait masalah yang ingin dipecahkan. Baca bahan cetak tersebut selama minimal 2 jam tanpa internet."
+          "ko": "해결하려는 전략적 당면 과제에 대한 논문, 전문 서적, 제안서를 미리 인쇄해 두거나 오프라인 도서 형태로 수집합니다. 인터넷 검색창을 켜지 않고 2시간 이상 인쇄물만을 꼼꼼히 읽어 내려갑니다."
         }
       },
       {
         "name": {
-          "ko": "아날로그 손 기록(Hand-writing)",
-          "en": "Analog Hand-writing",
-          "ja": "アナログな手書きメモ",
-          "zh": "纸笔模拟手写记录",
-          "es": "Escritura analógica a mano",
-          "fr": "Écriture manuscrite analogique",
-          "de": "Analoge Handschrift",
-          "pt": "Escrita analógica à mão",
-          "id": "Pencatatan Tulis Tangan Analog"
+          "ko": "아날로그 손 기록(Hand-writing)"
         },
         "text": {
-          "ko": "읽는 과정에서 떠오르는 분석과 장기 실행 방안들을 종이로 된 백지 노트에 자필로 직접 받아 적습니다. 필기하는 손의 감각적 자극은 전두엽의 아이디어 구조화 능력을 자극하는 효과적인 촉매가 됩니다.",
-          "en": "Write down the analysis and long-term action plans that come to mind while reading in a blank paper notebook. The sensory stimulation of the handwriting hand serves as an effective catalyst for the frontal lobe's ability to structure ideas.",
-          "ja": "読書の過程で浮かんだ分析や長期的な実行策を, 白紙の紙製ノートに直接手書きで書き留めます。手書きによる感覚的な刺激は、前頭葉のアイデア構造化能力を刺激する効果的な触媒となります。",
-          "zh": "在空白纸质笔记本上，亲手写下阅读时脑海中浮现的分析和长期行动计划。手写带来的感官刺激，是激发额叶思维结构化能力的有效催化剂。",
-          "es": "Escriba a mano los análisis y planes que surjan en un cuaderno físico. La estimulación sensorial de la escritura es un catalizador para estructurar ideas.",
-          "fr": "Écrivez à la main les analyses et plans dans un cahier physique. La stimulation sensorielle de l'écriture sert de catalyseur pour structurer les idées.",
-          "de": "Notieren Sie Ihre Gedanken und Aktionspläne handschriftlich in einem leeren Notizbuch. Die sensorische Stimulation beim Schreiben regt die Strukturierung von Ideen im Gehirn an.",
-          "pt": "Escreva as análises e ideias que surgirem em um caderno de papel. O estímulo sensorial de escrever à mão ativa as conexões cerebrais de forma mais profunda.",
-          "id": "Tuliskan analisis dan rencana jangka panjang yang muncul dalam buku catatan kertas kosong. Stimulasi sensorik dari menulis tangan merangsang kemampuan otak menstrukturkan ide."
+          "ko": "읽는 과정에서 떠오르는 분석과 장기 실행 방안들을 종이로 된 백지 노트에 자필로 직접 받아 적습니다. 필기하는 손의 감각적 자극은 전두엽의 아이디어 구조화 능력을 자극하는 효과적인 촉매가 됩니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "생각 주간을 가지려면 꼭 며칠씩 숲속 오두막으로 떠나야 하나요?",
-          "en": "Do I have to go to a forest cabin for several days to have a Think Week?",
-          "ja": "思考週間を持つためには、必ず何日間も森の別荘へ行かなければなりませんか？",
-          "zh": "进行思考周必须去森林小屋住上几天吗？",
-          "es": "¿Es necesario ir a una cabaña en el bosque durante varios días para hacer la Semana de Reflexión?",
-          "fr": "Faut-il partir plusieurs jours dans un chalet en forêt pour faire la Semaine de Réflexion?",
-          "de": "Muss ich für eine Think Week unbedingt tagelang in eine Waldhütte reisen?",
-          "pt": "É preciso ir para uma cabana isolada por vários dias para fazer a Semana de Reflexão?",
-          "id": "Apakah saya harus pergi ke kabin hutan selama beberapa hari untuk melakukan Pekan Berpikir?"
+          "ko": "생각 주간을 가지려면 꼭 며칠씩 숲속 오두막으로 떠나야 하나요?"
         },
         "answer": {
-          "ko": "아닙니다. 핵심은 물리적 장소가 아니라 '정보의 유입 통제'와 '주의력 고립'입니다. 주말 동안 집 밖의 조용한 독서실이나 카페를 활용하거나, 단 하루만이라도 스마트폰을 완전히 금고나 다른 방에 넣어두고 종이 서적과 메모장에만 집중하는 환경을 만드는 것으로도 충분히 강력한 두뇌 리셋 효과를 경험할 수 있습니다.",
-          "en": "No. The core is not the physical place, but 'controlling the influx of information' and 'isolating attention'. It is enough to use a quiet study room or cafe outside the house during the weekend, or to create an environment where you put your smartphone in a safe or another room for just a day and focus only on paper books and notebooks.",
-          "ja": "いいえ。重要なのは物理的な場所ではなく、「情報の流入制御」と「注意の孤立」です。週末に自宅以外の静かな読書室やカフェを利用したり、一日だけでもスマートフォンを別の部屋に置き、紙の書籍とノートだけに集中する環境を作るだけでも、十分に強力な脳のリセット効果を体験できます。",
-          "zh": "不。核心不是物理场所，而是“控制信息的流入”和“孤立注意力”。周末在屋外的自习室或咖啡馆，或者哪怕只花一天时间把智能手机锁起来，仅专注于纸质书和笔记本，就足以体验到强大脑重置的效果。",
-          "es": "No. Lo crucial es controlar la información y aislar la atención. Es suficiente con ir a una biblioteca silenciosa o guardar el móvil durante un día entero centrándose solo en libros de papel.",
-          "fr": "Non. L'essentiel est de contrôler l'information et d'isoler l'attention. Il suffit d'aller dans une bibliothèque ou de ranger votre téléphone pendant une journée pour vous concentrer sur des livres papier.",
-          "de": "Nein. Wichtig ist nicht der Ort, sondern die Reduzierung von Informationen. Es reicht, am Wochenende eine ruhige Bibliothek zu nutzen oder das Smartphone für einen Tag wegzusperren, um sich nur auf Bücher zu konzentrieren.",
-          "pt": "Não. O importante não é o local físico, mas o isolamento das distrações. Estudar em uma biblioteca ou guardar o celular por um dia inteiro, focando apenas em livros e cadernos físicos, já trará excelentes resultados.",
-          "id": "Tidak. Kuncinya adalah membatasi aliran informasi dan memfokuskan perhatian. Anda bisa menggunakan ruang baca yang tenang atau kafe di akhir pekan, atau menyimpan ponsel di ruangan lain selama sehari untuk fokus pada buku kertas."
+          "ko": "아닙니다. 핵심은 물리적 장소가 아니라 '정보의 유입 통제'와 '주의력 고립'입니다. 주말 동안 집 밖의 조용한 독서실이나 카페를 활용하거나, 단 하루만이라도 스마트폰을 완전히 금고나 다른 방에 넣어두고 종이 서적과 메모장에만 집중하는 환경을 만드는 것으로도 충분히 강력한 두뇌 리셋 효과를 경험할 수 있습니다."
         }
       },
       {
         "question": {
-          "ko": "자료를 읽을 때 컴퓨터 화면을 사용하면 안 되나요?",
-          "en": "Can't I use a computer screen when reading materials?",
-          "ja": "資料を読んでいるとき、パソコンの画面を使ってはいけませんか？",
-          "zh": "阅读资料时不能使用电脑屏幕吗？",
-          "es": "¿Puedo utilizar una pantalla de ordenador al leer los materiales?",
-          "fr": "Puis-je utiliser un écran d'ordinateur pour lire les documents?",
-          "de": "Kann ich für das Lesen der Materialien keinen Computerbildschirm nutzen?",
-          "pt": "Posso usar a tela do computador para ler os materiais?",
-          "id": "Apakah saya tidak boleh menggunakan layar komputer saat membaca bahan?"
+          "ko": "자료를 읽을 때 컴퓨터 화면을 사용하면 안 되나요?"
         },
         "answer": {
-          "ko": "컴퓨터 화면은 본질적으로 다양한 웹사이트, 이메일, 메신저 알림의 유혹에 바로 연결되는 통로입니다. 뇌의 집중적 주의 신경망(Focus Network)을 유지하기 위해서는 가급적 인쇄된 아날로그 종이를 보는 것이 좋습니다. 만약 부득이하게 디지털 기기를 활용해야 한다면 인터넷 접속이 차단된 전자책 리더(E-reader)나 와이파이가 차단된 단말기를 사용하는 것을 강력히 권장합니다.",
-          "en": "The computer screen is a passage connected to the temptation of various websites, emails, and messenger notifications. To maintain the brain's focus network, it is recommended to look at printed analog paper if possible. If you must use a digital device, it is recommended to use an E-reader without internet connection or a terminal with Wi-Fi disabled.",
-          "ja": "パソコンの画面は、本質的に様々なウェブサイト、メール、メッセンジャー通知の誘惑にすぐにつながる通路です。脳の集中注意ネットワークを維持するためには、できるだけ印刷されたアナログ紙を見ることが推奨されます。どうしてもデジタル機器を使う必要がある場合は、インターネット接続を切った電子書籍リーダーや、Wi-Fiを切断した端末を使用することを強くお勧めします。",
-          "zh": "电脑屏幕本质上是一个直接通往各种网站、电子邮件和即时通讯通知诱惑的通道。为了维持大脑的专注网络，建议尽可能查看打印的纸质材料。如果必须使用数字化设备，强烈建议使用未联网的电子书阅读器或禁用 Wi-Fi 的终端。",
-          "es": "Las pantallas tientan al cerebro con notificaciones de correos y webs. Para mantener la red de concentración se aconseja leer en papel. Si es inevitable usar un dispositivo digital, utilice un lector electrónico sin conexión.",
-          "fr": "Les écrans tentent le cerveau avec des notifications. Pour maintenir la concentration, il est conseillé de lire sur papier. Si l'utilisation d'un écran est inévitable, utilisez une liseuse sans connexion internet.",
-          "de": "Bildschirme verleiten durch E-Mails und Websites zur Ablenkung. Um die Konzentration aufrechtzuerhalten, wird gedrucktes Papier empfohlen. Falls digitale Geräte unvermeidbar sind, nutzen Sie einen E-Reader ohne Internetzugang.",
-          "pt": "A tela do computador facilita a distração com abas abertas e notificações. Para manter o foco, o ideal é ler materiais impressos. Se precisar usar telas, utilize leitores de e-book sem conexão com a internet.",
-          "id": "Layar komputer terhubung dengan godaan situs web lain, surel, dan pesan. Untuk menjaga fokus, sebaiknya gunakan kertas cetak. Jika harus menggunakan perangkat digital, gunakan E-reader tanpa koneksi internet."
+          "ko": "컴퓨터 화면은 본질적으로 다양한 웹사이트, 이메일, 메신저 알림의 유혹에 바로 연결되는 통로입니다. 뇌의 집중적 주의 신경망(Focus Network)을 유지하기 위해서는 가급적 인쇄된 아날로그 종이를 보는 것이 좋습니다. 만약 부득이하게 디지털 기기를 활용해야 한다면 인터넷 접속이 차단된 전자책 리더(E-reader)나 와이파이가 차단된 단말기를 사용하는 것을 강력히 권장합니다."
         }
       }
-    ],
-    "pubDate": "2026-01-08",
-    "updatedDate": "2026-01-08"
+    ]
   }
 }

@@ -1,218 +1,72 @@
 {
   "winfrey-gratitude-journaling": {
     "title": {
-      "ko": "불우한 과거를 이겨내고 토크쇼 여왕이 된 비결? 오프라 윈프리의 감사 일기 루틴",
-      "en": "The Secret to Overcoming a Troubled Past and Becoming the Talk Show Queen? Oprah Winfrey's Gratitude Journal Routine",
-      "ja": "恵まれない過去を克服しトークショーの女王になった秘訣？オプラ・ウィンフリーの感謝日記ルーティン",
-      "zh": "走出坎坷童年、终成脱口秀女王的秘诀？奥普拉·温弗瑞的感恩日记常规",
-      "es": "¿El secreto para superar un pasado difícil y convertirse en la reina de los programas de entrevistas? La rutina de diario de gratitud de Oprah Winfrey",
-      "fr": "Le secret pour surmonter un passé difficile et devenir la reine des talk-shows ? La routine de gratitude d'Oprah Winfrey",
-      "de": "Das Geheimnis, eine schwierige Vergangenheit zu überwinden und die Talkshow-Königin zu werden? Oprah Winfreys Dankbarkeitstagebuch-Routine",
-      "pt": "O segredo para superar um passado difícil e se tornar a rainha dos talk shows? A rotina de diário de gratidão de Oprah Winfrey",
-      "id": "Rahasia Mengatasi Masa Lalu yang Sulit dan Menjadi Ratu Talk Show? Rutinitas Diari Syukur Oprah Winfrey"
+      "ko": "불우한 과거를 이겨내고 토크쇼 여왕이 된 비결? 오프라 윈프리의 감사 일기 루틴"
     },
     "description": {
-      "ko": "세계에서 가장 영향력 있는 여성 리더 중 한 명인 오프라 윈프리. 기상 직후 스마트폰 대신 감사 일기 5줄을 손글씨로 적어 뇌의 기본 모드 네트워크를 긍정적으로 재배선했던 그녀의 과학적 루틴과 실천 가이드를 알아봅니다.",
-      "en": "Oprah Winfrey, one of the most influential female leaders. Discover how her morning routine of writing a 5-line gratitude journal rewrote her neural pathways and default mode network.",
-      "ja": "世界で最も影響力のある女性リーダーの一人、オプラ・ウィンフリー。起床後にスマートフォンを見る代わりに、感謝日記を5行手書きすることで脳のデフォルトモードネットワークを肯定的に再配線した彼女の科学的ルーティンを紹介します。",
-      "zh": "全球最具影响力的女性领袖之一奥普拉·温弗瑞。探讨她清晨起床拒绝手机，坚持手写5行感恩日记以重塑大脑默认模式网络与积极可塑性的脑科学常规。",
-      "es": "Oprah Winfrey, una de las líderes más influyentes del mundo. Descubra cómo su rutina de escribir un diario de gratitud de 5 líneas reconfiguraba sus vías neuronales.",
-      "fr": "Oprah Winfrey, l'une des femmes les plus influentes au monde. Découvrez comment sa routine consistant à écrire un journal de gratitude en 5 lignes reconfigurait ses connexions neuronales.",
-      "de": "Oprah Winfrey, eine der einflussreichsten Frauen der Welt. Erfahren Sie, wie ihre Dankbarkeitstagebuch-Routine ihre neuronalen Bahnen neu verdrahtete.",
-      "pt": "Oprah Winfrey, uma das líderes mais influentes do mundo. Descubra como a sua rotina de escrever um diário de gratidão de 5 linhas reconfigurava as suas vias neuronais.",
-      "id": "Oprah Winfrey, salah satu wanita paling berpengaruh. Pelajari bagaimana rutinitas menulis 5 baris diari syukur di pagi hari melatih saraf dan ritme berpikir positifnya."
+      "ko": "세계에서 가장 영향력 있는 여성 리더 중 한 명인 오프라 윈프리. 기상 직후 스마트폰 대신 감사 일기 5줄을 손글씨로 적어 뇌의 기본 모드 네트워크를 긍정적으로 재배선했던 그녀의 과학적 루틴과 실천 가이드를 알아봅니다."
     },
     "authority": {
-      "ko": "오프라 윈프리 에세이 'What I Know for Sure' 및 Journal of Personality and Social Psychology 학술지",
-      "en": "Oprah Winfrey's Essay 'What I Know for Sure' & Journal of Personality and Social Psychology",
-      "ja": "オプラ自伝エッセイ「What I Know for Sure」および学術誌「Journal of Personality and Social Psychology」",
-      "zh": "奥普拉散文集《What I Know for Sure》与学术期刊《Journal of Personality and Social Psychology》",
-      "es": "Ensayos de Oprah Winfrey 'What I Know for Sure' y revista Journal of Personality and Social Psychology",
-      "fr": "Essais d'Oprah Winfrey 'What I Know for Sure' & revue Journal of Personality and Social Psychology",
-      "de": "Oprah Winfreys Essays 'What I Know for Sure' & Fachzeitschrift Journal of Personality and Social Psychology",
-      "pt": "Ensaios de Oprah Winfrey 'What I Know for Sure' & revista Journal of Personality and Social Psychology",
-      "id": "Esai Oprah Winfrey 'What I Know for Sure' & Jurnal Journal of Personality and Social Psychology"
+      "ko": "오프라 윈프리 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "지독한 불우함과 절망적인 어린 시절의 슬픔을 딛고 일어나 역사상 가장 성공한 토크쇼 진행자이자 세계에서 가장 영향력 있는 여성 리더 중 한 명이 된 현대 미디어 산업의 상징 오프라 윈프리. 수많은 대중의 고민을 어루만지고 지치지 않는 영감을 전하는 그녀의 위대한 지적 에너지와 추진력은 과연 매일 아침 어떤 행동에서 탄생했을까요? 📝\n\n윈프리는 자신의 모든 성공과 활기찬 정신력의 비결로, 아침에 눈을 뜨자마자 실천하는 '감사 일기(Gratitude Journal)' 루틴을 꼽습니다. 그녀는 기상 후 스마트폰을 켜서 자극적인 정보에 뇌를 노출시키는 대신, 침대 옆에 둔 감사 일기장을 펴고 어제 하루 동안 겪은 일 중 사소하고 긍정적인 5가지 사건을 연필을 쥐고 세밀하게 손글씨로 적었습니다. 윈프리는 긍정적인 기억을 수동으로 기록하고 시각화하는 짧은 5분이 뇌를 만성적인 불안으로부터 해방시키고 기회와 몰입을 발견하도록 훈련하는 강력한 신경망 리셋 장치라고 고백했습니다.\n\n오늘 BuildSelf에서는 오프라 윈프리가 고수한 '아침 감사 일기' 루틴의 脳科学的 작동 원리와 현대적인 실천 가이드를 알아봅니다.",
-      "en": "Oprah Winfrey, the icon of modern media who overcame a painful childhood to become the legendary talk show queen. Where did her relentless drive and empathy come from? 📝\n\nWinfrey credits her success to her morning 'gratitude journal' routine. Instead of looking at her phone, she wrote down 5 specific, positive events from yesterday by hand. She confessed that this 5-minute ritual of visualizing and writing down gratitude cleared away anxiety and retrained her neural networks.\n\nToday, BuildSelf studies the brain science behind Winfrey's 'gratitude journaling' routine and provides a practical guide for today's life.",
-      "ja": "つらく困難な幼少期の悲しみを乗り越え、歴史上最も成功したトークショーの司会者であり、世界で最も影響力のある女性リーダーの一人となったオプラ・ウィンフリー。人々に感動を与え、尽きることのないエネルギーを放つ彼女のインスピレーションは、どのような朝の習慣から生まれたのでしょうか。 📝\n\nウィンフリーは自らの成功と精神力の秘訣として、朝目覚めてすぐに実践する「感謝日記（Gratitude Journal）」の習慣を挙げています。彼女は起床後すぐにスマートフォンを開いて脳に刺激的な情報を与える代わりに、ベッドサイドの手帳を開き、前日の一日の中で起こったささやかで肯定的な5つの出来事をペンで丁寧に手書きしました。彼女は、肯定的な記憶を書き出して脳内でイメージ化するわずか5分の時間が、脳を慢性的な不安から解放し、チャンスを発見できるように鍛える強力なネットワークリセットプロセスだと語っています。\n\n今日のBuildSelfでは、オプラ・ウィンフリーの「感謝日記」ルーティンの脳科学的原理と、現代的な実践ガイドを紹介します。",
-      "zh": "跨越痛苦童年与悲惨境遇、终成史诗级脱口秀主持人及全球最具启发性女性领袖之一的现代传媒女皇奥普拉·温弗瑞。她那能够抚慰无数心灵、不知疲倦的爱与创造力，究竟在清晨历经了怎样的日常仪式？ 📝\n\n奥普拉将自己的成功与源源不断的内在动力，完全归功于早晨睁眼后即刻进行的“感恩日记（Gratitude Journal）”惯例。她每天早晨推迟查阅手机获取碎片化信息的时间，取而代之的是翻开床头放置的感恩本，用手写方式，详细记录下昨天发生的5件细微而美好的事情。奥普拉坦言，通过手写将积极记忆可视化并予以记录的这短短5分钟，是让大脑从慢性焦虑中解放出来、重新寻回灵感与机遇的强大脑网重排设备。\n\n今天，BuildSelf 将为您探析奥普拉“清晨感恩手记”常规的大脑可塑性原理以及现代人的复刻指南。",
-      "es": "Oprah Winfrey, el ícono de los medios modernos que superó una infancia difícil para convertirse en la reina de los programas de entrevistas. ¿De dónde venía su energía creativa? 📝\n\nWinfrey atribuye su éxito a su rutina matutina de 'diario de gratitud'. En lugar de mirar su teléfono al despertar, escribía a mano 5 acontecimientos específicos del día anterior. Confesó que este ritual de 5 minutos aliviaba la ansiedad y reconfiguraba sus redes cerebrales.\n\nHoy, BuildSelf analiza la ciencia detrás de la rutina de 'diario de gratitud' de Winfrey y ofrece una guía práctica para el día a día.",
-      "fr": "Oprah Winfrey, l'icône des médias modernes qui a surmonté une enfance douloureuse pour devenir la reine des talk-shows. D'où venait son énergie créative ? 📝\n\nWinfrey attribue sa réussite à sa routine matinale de « journal de gratitude ». Plutôt que de regarder son téléphone au réveil, elle notait à la main 5 événements positifs de la veille. Elle expliquait que ce rituel de 5 minutes dissipait l'anxiété et réorganisait ses circuits neuronaux.\n\nAujourd'hui, BuildSelf analyse la science derrière la routine de « journal de gratitude » de Winfrey et propose un guide pratique au quotidien.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Oprah Winfrey, o ícone da mídia moderna que superou uma infância difícil para se tornar a rainha dos talk shows. De onde vinha a sua energia criativa? 📝\n\nWinfrey atribui o seu sucesso à rotina matinal de 'diário de gratidão'. Em vez de olhar para o celular ao acordar, escrevia à mão 5 acontecimentos específicos do dia anterior. Ela confessou que esse ritual de 5 minutos aliviava a ansiedade e reconfigurava suas redes neurais.\n\nHoje, o BuildSelf analisa a ciência por trás da rotina de 'diário de gratidão' de Winfrey e oferece um guia prático para o dia a dia.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "지독한 불우함과 절망적인 어린 시절의 슬픔을 딛고 일어나 역사상 가장 성공한 토크쇼 진행자이자 세계에서 가장 영향력 있는 여성 리더 중 한 명이 된 현대 미디어 산업의 상징 오프라 윈프리. 수많은 대중의 고민을 어루만지고 지치지 않는 영감을 전하는 그녀의 위대한 지적 에너지와 추진력은 과연 매일 아침 어떤 행동에서 탄생했을까요? 📝\n\n윈프리는 자신의 모든 성공과 활기찬 정신력의 비결로, 아침에 눈을 뜨자마자 실천하는 '감사 일기(Gratitude Journal)' 루틴을 꼽습니다. 그녀는 기상 후 스마트폰을 켜서 자극적인 정보에 뇌를 노출시키는 대신, 침대 옆에 둔 감사 일기장을 펴고 어제 하루 동안 겪은 일 중 사소하고 긍정적인 5가지 사건을 연필을 쥐고 세밀하게 손글씨로 적었습니다. 윈프리는 긍정적인 기억을 수동으로 기록하고 시각화하는 짧은 5분이 뇌를 만성적인 불안으로부터 해방시키고 기회와 몰입을 발견하도록 훈련하는 강력한 신경망 리셋 장치라고 고백했습니다.\n\n오늘 포스트에서는 오프라 윈프리가 고수한 '아침 감사 일기' 루틴의 뇌과학적 작동 원리와 현대적인 실천 가이드를 알아봅니다."
     },
     "whyTitle": {
-      "ko": "중변연계 도파민 경로(Mesolimbic Dopamine Pathway) 활성화와 뇌 가소성",
-      "en": "Mesolimbic Dopamine Pathway Activation and Brain Neuroplasticity",
-      "ja": "中脳辺縁系ドーパミン経路（Mesolimbic Dopamine Pathway）の活性化と脳の可塑性",
-      "zh": "中脑边缘多巴胺通路(Mesolimbic Dopamine Pathway)激活与大脑可塑性",
-      "es": "Activación de la vía de dopamina mesolímbica y neuroplasticidad cerebral",
-      "fr": "Activation de la voie dopaminergique mésolimbique et neuroplasticité cérébrale",
-      "de": "Aktivierung des mesolimbischen Dopaminwegs und Gehirnplastizität",
-      "pt": "Ativação da via de dopamina mesolímbica e neuroplasticidade cerebral",
-      "id": "Aktivasi Jalur Dopamin Mesolimbik dan Neuroplastisitas Otak"
+      "ko": "중변연계 도파민 경로(Mesolimbic Dopamine Pathway) 활성화와 뇌 가소성"
     },
     "whyDesc": {
-      "ko": "긍정적인 경험을 회상하고 수동으로 기록(Gratitude Journaling)하는 행위는 뇌의 중변연계 도파민 경로(Mesolimbic Dopamine Pathway)와 세로토닌 시스템을 강하게 활성화합니다. 이는 보상 중심의 생리 작용을 조율하여 뇌를 기분 좋은 각성 상태로 만듭니다. 또한 아침 기상 시 어제의 걱정거리를 되짚으며 우울감을 증폭시키기 쉬운 기본 모드 네트워크(DMN)를 강제로 차단하고 긍정적인 방향으로 뇌 가소성(Neuroplasticity)의 시냅스를 재배선하여, 장기적으로 스트레스 대처력과 인지적 회복 탄력성을 영구적으로 강화해 줍니다.",
-      "en": "Recalling positive experiences and writing them down (gratitude journaling) activates the mesolimbic dopamine pathway and serotonin systems in the brain. This regulates reward-centered neurobiology, creating a pleasant arousal state. Simultaneously, it inhibits the Default Mode Network (DMN) which often amplifies morning anxiety, and rewires synapses through neuroplasticity, permanently enhancing cognitive resilience and stress management.",
-      "ja": "肯定的な経験を思い出し、それを手書きで記録するジャーナリング（Gratitude Journaling）は、脳の中脳辺縁系ドーパミン経路（Mesolimbic Dopamine Pathway）とセロトニンシステムを強力に活性化します。これにより報酬系の脳内ネットワークが働き、心地よい覚醒状態を作ります。また起床時に昨日の不安を思い出してストレスを高めやすいデフォルトモードネットワーク（DMN）の活動を抑え、肯定的な方向へ脳の可塑性（Neuroplasticity）の配線を組み替えるため、長期的なストレス耐性とレジリエンス（回復力）を高めます。",
-      "zh": "回忆积极生活体验并当场手书感恩信息（感恩日记），能强力刺激大脑的中脑边缘多巴胺通路（Mesolimbic Dopamine Pathway）和五羟色胺系统。这可以有效唤醒多巴胺奖赏回路，让大脑处于积极健康的兴奋状态。同时，它强行关闭了清晨睁眼容易反复纠结昨日焦虑、放大沮丧感的默认模式网络（DMN），以积极的指向重塑大类突触的可塑性（Neuroplasticity），从根本上增强抗压韧性。",
-      "es": "Recordar experiencias positivas y escribirlas a mano activa la vía dopaminérgica mesolímbica y los sistemas de serotonina. Esto regula la neurobiología del sistema de recompensa, creando una alerta agradable. Además, inhibe la red neuronal por defecto que fomenta la ansiedad matutina y reconfigura las sinapsis mediante neuroplasticidad.",
-      "fr": "Consigner par écrit des expériences positives active la voie dopaminergique mésolimbique et les systèmes sérotoninergiques. Cela régule la neurobiologie du système de récompense pour une vigilance positive. En outre, cela inhibe le mode par défaut qui alimente l'anxiété matinale et reconfigure les synapses.",
-      "de": "Das Erinnern an positive Erlebnisse und deren schriftliches Festhalten aktiviert den mesolimbischen Dopaminweg und das Serotoninsystem. Dies reguliert die neurobiologische Belohnung und erzeugt eine aufgeweckte Stimmung. Zudem hemmt es das Ruhezustandsnetzwerk, das morgendliche Sorgen verstärkt.",
-      "pt": "Registrar experiências positivas por escrito ativa a via dopaminérgica mesolímbica e os sistemas de serotonina. Isso regula a neurobiologia do sistema de recompensa para uma alerta agradável. Além disso, inibe a rede de modo padrão que amplifica a ansiedade matinal.",
-      "id": "Mengingat peristiwa positif dan mencatatnya mengaktifkan jalur dopamin mesolimbik dan sistem serotonin otak. Ini melatih neurobiologi kepuasan, merangsang kesadaran positif. Ini juga menekan Default Mode Network (DMN) yang memicu kecemasan pagi hari."
+      "ko": "긍정적인 경험을 회상하고 수동으로 기록(Gratitude Journaling)하는 행위는 뇌의 중변연계 도파민 경로(Mesolimbic Dopamine Pathway)와 세로토닌 시스템을 강하게 활성화합니다. 이는 보상 중심의 생리 작용을 조율하여 뇌를 기분 좋은 각성 상태로 만듭니다. 또한 아침 기상 시 어제의 걱정거리를 되짚으며 우울감을 증폭시키기 쉬운 기본 모드 네트워크(DMN)를 강제로 차단하고 긍정적인 방향으로 뇌 가소성(Neuroplasticity)의 시냅스를 재배선하여, 장기적으로 스트레스 대처력과 인지적 회복 탄력성을 영구적으로 강화해 줍니다."
     },
     "cautionTitle": {
-      "ko": "형식적인 쓰기의 오류와 구체성 획득 팁",
-      "en": "Errors of Formal Writing and Specificity Acquisition Tips",
-      "ja": "形式的な記録の罠と具体性を高めるヒント",
-      "zh": "形式化记账的误区与具象化记录技巧",
-      "es": "Errores del registro formal y consejos de especificidad",
-      "fr": "Pièges de la notation formelle et conseils de précision",
-      "de": "Fallen formeller Aufzeichnungen und Tipps für mehr Konkretheit",
-      "pt": "Erros de anotações formais e dicas de especificidade",
-      "id": "Jebakan Menulis Secara Formal dan Tips Kejelasan Data"
+      "ko": "형식적인 쓰기의 오류와 구체성 획득 팁"
     },
     "cautionDesc": {
-      "ko": "감사 일기를 적을 때 단순히 '날씨가 좋아서 감사하다' 혹은 '일어날 수 있어 감사하다'처럼 막연하고 기계적인 템플릿 형태로 반복하면, 뇌는 이를 학습 자극으로 받아들이지 않고 도파민 분비가 중단됩니다. 핵심은 구체성입니다. '어제 건넨 농담에 친구가 크게 웃어주어 고마웠다'처럼 사건의 물리적인 소리와 풍경을 뇌에 연상할 수 있을 정도로 구체적으로 묘사하여 적어야 뇌의 긍정 가소성 회로가 각성하여 재배선됩니다.",
-      "en": "Writing vague, generic statements like 'thankful for the weather' triggers no brain learning or dopamine release. The key is specificity. Describe specific events, like 'grateful that my friend laughed at my joke yesterday,' with enough sensory details of the scene to actively stimulate your brain's positive neuroplasticity pathways.",
-      "ja": "感謝日記をつける際、「天気が良いから感謝」「朝起きられたから感謝」といった漠然として義務的なテンプレート表現を繰り返すと、脳はそれを学習刺激と捉えず、ドーパミンの放出が途絶えてしまいます。最も大切なのは「具体性」です。「昨日言ったジョークに友人が大笑いしてくれて嬉しかった」というように、出来事の物理的な音や風景を脳裏に思い浮かべられるほど具体的に描写して書くことで、脳の肯定的な可塑性回路が働き、神経が再配線されます。",
-      "zh": "在手写感恩日记时，如果只写“天气很好，我很感激”或“今天平安起床，我很感恩”等空泛机械的套话，大脑会判定为无效学习刺激而停止多巴胺分泌。诀窍在于“具体化”。必须描述出如“昨天开玩笑时朋友开怀大笑，让我感到温暖”这种能让大脑联想到物理声音和画面的具象化细节，才能有效唤醒并良性重组大脑的积极可塑性回路。",
-      "es": "Escribir afirmaciones genéricas como 'agradecido por el clima' no activa el aprendizaje cerebral. La clave es la especificidad. Describa eventos concretos, como 'agradecido de que mi amigo se riera de mi chiste ayer', con detalles sensoriales para estimular las vías de plasticidad positiva.",
-      "fr": "Noter des phrases vagues comme « merci pour le beau temps » ne stimule pas l'apprentissage cérébral. La clé est la précision. Décrivez des faits précis, comme « reconnaissant que mon ami ait ri à ma blague hier », avec des détails sensoriels pour activer la plasticité positive.",
-      "de": "Das Aufschreiben allgemeiner Sätze wie 'dankbar für das Wetter' regt das Gehirn nicht an. Der Schlüssel liegt in der Konkretheit. Beschreiben Sie bestimmte Ereignisse mit sensorischen Details, um die positive Plastizität des Gehirns anzuregen.",
-      "pt": "Escrever afirmações genéricas como 'grato pelo clima' não ativa o aprendizado cerebral. O segredo é a especificidade. Descreva eventos concretos, como 'grato porque meu amigo riu da minha piada ontem', com detalhes sensoriais para estimular a plasticidade positiva.",
-      "id": "Menulis pernyataan umum seperti 'bersyukur atas cuaca hari ini' tidak memicu respon belajar pada otak. Kuncinya adalah kejelasan. Deskripsikan peristiwa detail, seperti 'bersyukur teman saya tertawa mendengar lelucon saya kemarin', untuk melatih plastisitas positif otak."
+      "ko": "감사 일기를 적을 때 단순히 '날씨가 좋아서 감사하다' 혹은 '일어날 수 있어 감사하다'처럼 막연하고 기계적인 템플릿 형태로 반복하면, 뇌는 이를 학습 자극으로 받아들이지 않고 도파민 분비가 중단됩니다. 핵심은 구체성입니다. '어제 건넨 농담에 친구가 크게 웃어주어 고마웠다'처럼 사건의 물리적인 소리와 풍경을 뇌에 연상할 수 있을 정도로 구체적으로 묘사하여 적어야 뇌의 긍정 가소성 회로가 각성하여 재배선됩니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "책상 위 아날로그 감사 수첩 준비",
-          "en": "Preparing an Analog Gratitude Journal on Desk",
-          "ja": "デスクへのアナログ感謝手帳の用意",
-          "zh": "桌上放好实体感恩手账",
-          "es": "Preparación de un cuaderno de gratitud analógico en el escritorio",
-          "fr": "Préparation d'un carnet de gratitude sur le bureau",
-          "de": "Bereitstellen eines analogen Dankbarkeitstagebuchs auf dem Schreibtisch",
-          "pt": "Preparação de um caderno de gratidão analógico na mesa",
-          "id": "Siapkan Buku Syukur Analog di Meja"
+          "ko": "책상 위 아날로그 감사 수첩 준비"
         },
         "text": {
-          "ko": "침대 바로 옆 협탁이나, 아침에 눈을 뜨면 처음 앉는 서재 책상 위에 마찰력이 우수한 고급 종이 감사 수첩과 미학적으로 만족을 주는 펜을 배치해 둡니다. 아침 기상 시 스마트폰 대신 손을 뻗을 물리적 좌표를 고정하는 첫 단계입니다.",
-          "en": "Place a high-quality paper notebook and an aesthetically pleasing pen on your bedside table or desk. This establishes the physical target to reach for instead of your smartphone upon waking up.",
-          "ja": "ベッドのすぐ横のテーブルや、朝起きて最初に座るデスクの上に、紙の質感のよい上質な感謝ノートと、持っているだけで気分が上がるペンを置いておきます。起床時にスマートフォンを触る代わりに、真っ先に手を伸ばす物理的ターゲットを決める最初のステップです。",
-          "zh": "在床头柜或清晨起坐的第一张书桌上，放好一本纸质有质感的高档感恩日记本和一根精致的笔。这是为了在清晨起床时，锚定一个代替手机、伸手即达的物理目标点。",
-          "es": "Coloque un cuaderno de papel de alta calidad y un bolígrafo agradable en su mesa de noche o escritorio. Esto crea el objetivo físico al cual recurrir en lugar de su móvil al despertar.",
-          "fr": "Posez un carnet de qualité et un joli stylo sur votre table de nuit ou votre bureau. Cela crée le point de contact physique vers lequel se tourner plutôt que vers le smartphone au réveil.",
-          "de": "Legen Sie ein hochwertiges Notizbuch und einen schönen Stift auf Ihren Nachttisch oder Schreibtisch. Dies schafft den Anlaufpunkt am Morgen anstelle des Smartphones.",
-          "pt": "Coloque um caderno de papel de alta qualidade e uma caneta agradável no criado-mudo ou na mesa. Isso define o alvo físico ao qual recorrer em vez do celular ao acordar.",
-          "id": "Letakkan buku catatan berkualitas dan pena yang nyaman di meja samping tempat tidur Anda. Ini menjadi target fisik pertama yang Anda jangkau sebagai pengganti ponsel."
+          "ko": "침대 바로 옆 협탁이나, 아침에 눈을 뜨면 처음 앉는 서재 책상 위에 마찰력이 우수한 고급 종이 감사 수첩과 미학적으로 만족을 주는 펜을 배치해 둡니다. 아침 기상 시 스마트폰 대신 손을 뻗을 물리적 좌표를 고정하는 첫 단계입니다."
         }
       },
       {
         "name": {
-          "ko": "구체적인 5가지 긍정 사건 수기 기록",
-          "en": "Handwriting 5 Specific Positive Events",
-          "ja": "具体的な5つの肯定的出来事の手書き記録",
-          "zh": "手写记录5条具象化积极事件",
-          "es": "Escritura a mano de 5 eventos positivos específicos",
-          "fr": "Consignation manuscrite de 5 événements positifs précis",
-          "de": "Handschriftliches Aufschreiben von 5 konkreten positiven Ereignissen",
-          "pt": "Escrita manual de 5 eventos positivos específicos",
-          "id": "Tulis Tangan 5 Peristiwa Positif Secara Detail"
+          "ko": "구체적인 5가지 긍정 사건 수기 기록"
         },
         "text": {
-          "ko": "눈을 뜬 직후, 어제 겪었던 일 중 구체적이고 사소한 긍정적 일(예: 지하철 자리에 앉아 올 수 있었다, 식사가 따스했다 등) 5가지를 손글씨로 세밀하게 묘사하며 수첩에 적어 내립니다. 뇌의 연합 경로를 인위적으로 긍정 상태로 전환하는 단계입니다.",
-          "en": "Immediately after waking, write down 5 specific, small positive events from yesterday (e.g., finding a seat on the subway, enjoying a warm meal) by hand. This shifts your neural associations to a positive state.",
-          "ja": "起床直後、前日の出来事の中から具体的でささやかな肯定的な事（例：通勤電車で席に座れた、温かい食事が美味しかったなど）5つを手書きで細かくノートに書き出します。脳の連想回路を意図的に肯定的な状態へと切り替えるステップです。",
-          "zh": "睁眼后，在纸上手写记下昨天发生的5条具体、微小的开心事（例：乘车时刚好有座位坐、晚饭非常可口暖胃等）。这是主动改变脑神经元联结至积极状态的阶段。",
-          "es": "Al despertar, escriba a mano 5 pequeños eventos positivos del día anterior (ej. conseguir asiento en el metro, disfrutar de una comida cálida). Esto cambia sus asociaciones neuronales a un estado positivo.",
-          "fr": "Au réveil, notez à la main 5 petits événements positifs de la veille (ex. avoir trouvé une place assise dans le métro, un repas chaud apprécié). Cela oriente vos connexions vers un état positif.",
-          "de": "Schreiben Sie 5 konkrete, kleine positive Erlebnisse des Vortags auf (z. B. einen Sitzplatz in der U-Bahn gefunden, ein warmes Essen genossen). Dies lenkt die Gehirnassoziationen in eine positive Richtung.",
-          "pt": "Ao acordar, escreva à mão 5 pequenos eventos positivos do dia anterior (ex. conseguir assento no metrô, desfrutar de uma refeição calorosa). Isso muda as associações neurais para um estado positivo.",
-          "id": "Tepat setelah bangun, tulis 5 peristiwa kecil yang positif dari hari kemarin (misalnya: mendapat tempat duduk di kereta, atau menikmati teh hangat) dengan tangan. Ini melatih pola pikir positif."
+          "ko": "눈을 뜬 직후, 어제 겪었던 일 중 구체적이고 사소한 긍정적 일(예: 지하철 자리에 앉아 올 수 있었다, 식사가 따스했다 등) 5가지를 손글씨로 세밀하게 묘사하며 수첩에 적어 내립니다. 뇌의 연합 경로를 인위적으로 긍정 상태로 전환하는 단계입니다."
         }
       },
       {
         "name": {
-          "ko": "10초간의 신체 감각 시각화 및 이식",
-          "en": "10-Second Physical Sensation Visualization",
-          "ja": "10秒間の身体感覚の可視化と定着",
-          "zh": "10秒钟的生理体感可视化与植入",
-          "es": "Visualización de la sensación física de 10 segundos",
-          "fr": "Visualisation des sensations physiques de 10 secondes",
-          "de": "10-sekündige Visualisierung der physischen Empfindungen",
-          "pt": "Visualização da sensação física de 10 segundos",
-          "id": "10 Detik Visualisasi Sensasi Fisik"
+          "ko": "10초간의 신체 감각 시각화 및 이식"
         },
         "text": {
-          "ko": "기록을 마친 후 각 항목을 다시 읽으며, 당시 느꼈던 고마움과 몸의 이완된 따스한 감각을 머릿속으로 약 10초간 시각화하며 음미합니다. 분비된 도파민이 뇌의 시냅스 가소성에 깊이 이식되어 긍정 회로를 영구히 재배선하는 과정입니다.",
-          "en": "After writing, reread each item and spend 10 seconds visualizing the gratitude and warm bodily sensations felt at that moment. This anchors the dopamine release into your synaptic plasticity, permanently rewiring the positive circuits.",
-          "ja": "書き終えた後、各項目を読み返しながら、その時に感じた感謝の気持ちと体の温かいリラックスした感覚を約10秒間脳裏に思い浮かべ、深く味わいます。分泌されたドーパミンが脳のシナプス可塑性に定着し、肯定的な回路を再構築するステップです。",
-          "zh": "写完后重读一遍各项内容，在脑海中重温并体会当时感到的谢意以及身体松弛温暖的体感，持续约10秒钟。这让释出的多巴胺深嵌入突触可塑性中，长久加固正面思考通路。",
-          "es": "Al terminar, relea cada punto y dedique 10 segundos a visualizar la gratitud y las sensaciones corporales cálidas de ese momento. Esto ancla la liberación de dopamina en la plasticidad, fijando el circuito.",
-          "fr": "Une fois écrit, relisez chaque point et passez 10 secondes à visualiser la gratitude et les sensations corporelles de ce moment. Cela fixe la dopamine dans la plasticité, ancrant le circuit.",
-          "de": "Lesen Sie nach dem Schreiben jeden Punkt durch und visualisieren Sie 10 Sekunden lang die Dankbarkeit und die körperliche Wärme dieses Moments. Dies verankert das Dopamin im Gehirn.",
-          "pt": "Ao terminar, releia cada item e dedique 10 segundos a visualizar a gratidão e as sensações corporais quentes daquele momento. Isso fixa a liberação de dopamina na plasticidade, ancorando o circuito.",
-          "id": "Setelah menulis, baca kembali setiap poin dan luangkan 10 detik untuk membayangkan kehangatan dan rasa syukur pada momen tersebut. Ini mengunci pelepasan dopamin pada plastisitas otak."
+          "ko": "기록을 마친 후 각 항목을 다시 읽으며, 당시 느꼈던 고마움과 몸의 이완된 따스한 감각을 머릿속으로 약 10초간 시각화하며 음미합니다. 분비된 도파민이 뇌의 시냅스 가소성에 깊이 이식되어 긍정 회로를 영구히 재배선하는 과정입니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "아무리 생각해도 감사한 일이 도무지 떠오르지 않는 우울한 날에는 무엇을 적어야 하나요?",
-          "en": "What should I write on gloomy days when nothing seems to be grateful for?",
-          "ja": "どれだけ考えても感謝できることが浮かばない、気分の沈んだ日には何を書けばよいですか？",
-          "zh": "在情绪极度低落、实在想不出有什么值得感激的事情的日子里，应该写些什么？",
-          "es": "¿Qué debo escribir en días tristes cuando no parece haber nada por lo cual agradecer?",
-          "fr": "Que dois-je écrire les jours sombres où rien ne semble inspirer la gratitude ?",
-          "de": "Was soll ich an trüben Tagen schreiben, an denen mir nichts einfällt, wofür ich dankbar sein könnte?",
-          "pt": "O que devo escrever em dias tristes quando nada parece inspirar gratidão?",
-          "id": "Apa yang harus saya tulis saat suasana hati sedang buruk dan tidak bisa menemukan hal untuk disyukuri?"
+          "ko": "아무리 생각해도 감사한 일이 도무지 떠오르지 않는 우울한 날에는 무엇을 적어야 하나요?"
         },
         "answer": {
-          "ko": "그런 날이 바로 이 루틴이 가장 강력하게 필요한 시점입니다. 거창한 것을 적으려 하지 말고, '어제 마신 차가 따뜻했다', '어제 사고 없이 무사히 귀가했다', 혹은 '오늘 아침 기상해 숨을 쉴 수 있다'처럼 생존과 직결된 극히 사소하고 당연한 신체적 물리적 상태를 적으세요. 뇌는 이러한 미세한 안전 지표를 물리적으로 적는 것만으로도 위기 상황에서 벗어나는 긍정 각성을 가동합니다.",
-          "en": "Those days are when this routine is needed most. Do not look for grand events. Write down basic physical or survival states, such as 'the water I drank was clean,' 'I arrived home safely,' or 'I woke up and can breathe.' Simply writing down these tiny safety indicators prompts the brain to trigger positive arousal to escape crisis mode.",
-          "ja": "そのような日こそ、このルーティンが最も強力に必要な時です。大きなことを書こうとせず、「昨日飲んだお茶が温かかった」「昨日無事に家に帰れた」「今朝目覚めて呼吸ができている」といった、生存に直結するごく些細で当たり前の身体的・物理的状態を書いてください。脳はこのような極めて微細な安全の指標を書き出すだけで, 危機状況から脱して前向きな覚醒状態を起動します。",
-          "zh": "这种日子反而是该常规最急需发力的时刻。切记不要去憋大事，只记录与生存息息相关的最琐碎、最自然的物理体征，例如“昨天喝的热茶很暖”、“昨天安全回到了家”或“今天清晨醒来还能畅快呼吸”。大脑仅通过用手写下这微小的安全指标，就能启动摆脱危机防御模式的良性觉醒。",
-          "es": "Esos días es cuando más se necesita esta rutina. No busque grandes eventos. Escriba estados físicos básicos como 'el agua que bebí estaba limpia', 'llegué a casa a salvo' o 'me desperté y puedo respirar'. Anotar estos indicadores de seguridad activa la alerta positiva.",
-          "fr": "Ces jours-là sont ceux où la routine est la plus nécessaire. Ne cherchez pas de grands événements. Notez des faits physiques élémentaires comme « l'eau que j'ai bue était propre », « je suis rentré sain et sauf » ou « je respire ». Consigner ces micro-indices de sécurité active la vigilance positive.",
-          "de": "An solchen Tagen ist diese Routine am wichtigsten. Suchen Sie nicht nach großen Ereignissen. Schreiben Sie grundlegende körperliche Zustände auf (z. B. 'ich bin unbeschadet nach Hause gekommen' oder 'ich kann atmen'). Dies aktiviert das Belohnungssystem.",
-          "pt": "Nesses dias é quando esta rotina é mais necessária. Não busque grandes eventos. Escreva estados físicos básicos como 'a água que bebi estava limpa', 'cheguei a casa em segurança' ou 'acordei e posso respirar'. Anotar esses indicadores de segurança ativa a alerta positiva.",
-          "id": "Hari-hari seperti itu adalah saat di mana rutinitas ini paling Anda butuhkan. Jangan mencari hal besar. Cukup tulis kondisi fisik atau kelangsungan hidup dasar, seperti 'air yang saya minum bersih', 'saya tiba di rumah dengan selamat', atau 'saya bangun dan bisa bernapas'."
+          "ko": "그런 날이 바로 이 루틴이 가장 강력하게 필요한 시점입니다. 거창한 것을 적으려 하지 말고, '어제 마신 차가 따뜻했다', '어제 사고 없이 무사히 귀가했다', 혹은 '오늘 아침 기상해 숨을 쉴 수 있다'처럼 생존과 직결된 극히 사소하고 당연한 신체적 물리적 상태를 적으세요. 뇌는 이러한 미세한 안전 지표를 물리적으로 적는 것만으로도 위기 상황에서 벗어나는 긍정 각성을 가동합니다."
         }
       },
       {
         "question": {
-          "ko": "스마트폰 일기 앱이나 SNS 포스팅으로 감사 기록을 남기는 것은 어떤가요?",
-          "en": "What about tracking gratitude on a smartphone app or posting it on social media?",
-          "ja": "スマートフォンの日記アプリやSNSへの投稿で感謝の記録をのこすのはどうですか？",
-          "zh": "用手机日记软件或发社交圈来记录感恩，效果怎么样？",
-          "es": "¿Qué hay de registrar la gratitud en una aplicación móvil o publicarla en redes sociales?",
-          "fr": "Que pensez-vous d'écrire votre gratitude sur une application ou de la publier sur les réseaux sociaux ?",
-          "de": "Wie steht es mit dem Aufzeichnen von Dankbarkeit in einer App oder auf Social Media?",
-          "pt": "E quanto a registrar a gratidão em um aplicativo ou publicar nas redes sociais?",
-          "id": "Bagaimana dengan mencatat rasa syukur di aplikasi ponsel atau mempostingnya di media sosial?"
+          "ko": "스마트폰 일기 앱이나 SNS 포스팅으로 감사 기록을 남기는 것은 어떤가요?"
         },
         "answer": {
-          "ko": "스마트폰 앱이나 SNS에 글을 올리는 행위는 즉각적으로 타인의 반응(댓글, 좋아요 등)을 기대하게 만들어 뇌의 보상 중추를 왜곡된 도파민(불안 결합 도파민)에 노출시킵니다. 또한 화면이 미끄러워 촉각 자극이 미비합니다. 오직 종이에 펜으로 꾹꾹 눌러쓰는 아날로그 행위가 뇌를 디지털 비교로부터 온전히 차단하고 순수한 만족감과 집중력을 공급해 주기 때문에 실제 아날로그 수첩을 고수하는 것이 중요합니다.",
-          "en": "Posting on social media or apps tricks the brain into expecting external approval (likes, comments), exposing the reward center to anxious dopamine patterns. It also lacks physical tactile stimulation. The analog act of writing on paper shields the brain from comparisons and supplies pure satisfaction and focus, which is why sticking to an actual notebook is essential.",
-          "ja": "アプリやSNSに投稿する行為は、他者の反応（いいねやコメントなど）を期待させ、脳の報酬中枢を歪んだドーパミン（不安と結びついたドーパミン）にさらします。また、タッチスクリーンの滑らかさは指先への刺激として不十分です。紙に手で書くアナログな行為だけが、脳を他者との比較から遮断し、純粋な満足感と集中力を与えるため、本物のノートを使用し続けることが極めて重要です。",
-          "zh": "发社交圈或记录在联网应用中，会让大脑立即进入期待他人反馈（点赞、评论等）的状态，导致大脑奖赏中心暴露在被焦虑绑架的多巴胺模式下。且屏幕缺乏物理触觉摩擦。只有用笔写在纸上的实体动作，才能彻底阻绝来自数字世界的攀比干扰，带来最纯粹的平和与专注，因此坚持使用实体本子至关重要。",
-          "es": "Publicar en redes sociales hace que el cerebro espere la aprobación externa (likes, comentarios), exponiendo el centro de recompensa a patrones de dopamina asociados a la ansiedad. Escribir a mano en papel protege al cerebro de comparaciones y proporciona una satisfacción pura.",
-          "fr": "Publier sur les réseaux sociaux incite le cerveau à attendre l'approbation d'autrui (likes, commentaires), exposant le système de récompense à de l'anxiété. L'acte d'écrire sur papier protège l'esprit des comparaisons et procure une satisfaction pure.",
-          "de": "Das Posten in sozialen Medien führt dazu, dass das Gehirn nach externer Anerkennung sucht (Likes, Kommentare), was zu ungesunden Dopaminmustern führt. Das Schreiben auf Papier schützt das Gehirn vor Vergleichen und sorgt für reine Zufriedenheit.",
-          "pt": "Publicar nas redes sociais faz com que o cérebro espere aprovação externa (curtidas, comentários), expondo o centro de recompensa a padrões de dopamina associados à ansiedade. Escrever no papel protege o cérebro de comparações e fornece pura satisfação.",
-          "id": "Memposting di media sosial membuat otak mengharapkan persetujuan orang lain (likes, komentar), memicu pelepasan dopamin yang tidak stabil akibat cemas. Menulis di kertas melindungi otak dari keinginan membandingkan diri."
+          "ko": "스마트폰 앱이나 SNS에 글을 올리는 행위는 즉각적으로 타인의 반응(댓글, 좋아요 등)을 기대하게 만들어 뇌의 보상 중추를 왜곡된 도파민(불안 결합 도파민)에 노출시킵니다. 또한 화면이 미끄러워 촉각 자극이 미비합니다. 오직 종이에 펜으로 꾹꾹 눌러쓰는 아날로그 행위가 뇌를 디지털 비교로부터 온전히 차단하고 순수한 만족감과 집중력을 공급해 주기 때문에 실제 아날로그 수첩을 고수하는 것이 중요합니다."
         }
       }
-    ],
-    "pubDate": "2026-05-24",
-    "updatedDate": "2026-05-24"
+    ]
   }
 }

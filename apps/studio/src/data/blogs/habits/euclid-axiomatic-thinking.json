@@ -1,218 +1,72 @@
 {
   "euclid-axiomatic-thinking": {
     "title": {
-      "en": "Euclid's Axiomatic Thinking: How First-Principles Logic Eliminates Decision Paralysis",
-      "ko": "유클리드의 공리적 사고: 제1원리 연쇄 논리로 복잡한 의사결정 마비를 깨는 법",
-      "ja": "ユークリッドの公理的思考：第一原理の論理連鎖で 複雑な意思決定の麻痺を 破る Super Routine",
-      "zh": "欧几里得的公理化思考：如何用第一性原理解构复杂决策与打破困局",
-      "es": "El Pensamiento Axiomático de Euclides: Cómo la Lógica de Primeros Principios Elimina la Parálisis de Decisión",
-      "fr": "La Pensée Axiomatique d'Euclide : Comment la logique des premiers principes élimine la paralysie décisionnelle",
-      "de": "Euklids axiomatisches Denken: Wie die Logik der ersten Prinzipien Entscheidungsparalyse auflöst",
-      "pt": "O Pensamento Axiomático de Euclides: Como a Lógica de Primeiros Princípios Elimina a Paralisia de Decisão",
-      "id": "Pemikiran Aksiomatis Euklides: Cara Logika Prinsip Pertama Menghilangkan Paralisis Keputusan"
+      "ko": "유클리드의 공리적 사고: 제1원리 연쇄 논리로 복잡한 의사결정 마비를 깨는 법"
     },
     "description": {
-      "en": "Explore how ancient mathematician Euclid deconstructed complex problems into indisputable axioms, establishing the blueprint for modern first-principles thinking.",
-      "ko": "고대 그리스의 대수학자 유클리드가 복잡한 난제를 더 이상 의심할 수 없는 공리(Axiom)로 해체하여 해결해 낸 제1원리 사고법의 역사와 인지 과학을 다룹니다.",
-      "ja": "古代ギリシャの数学者ユークリッドが、複雑な課題を疑う余地のない公理（Axiom）へと解体して解決した、第一原理思考の歴史と脳科学を解説します。",
-      "zh": "探索古希腊数学家欧几里得如何将复杂问题解构为无可争议的公理，建立现代第一性原理思考的蓝图。",
-      "es": "Explore cómo el antiguo matemático Euclides descompuso problemas complejos en axiomas indiscutibles, estableciendo el diseño para el pensamiento moderno.",
-      "fr": "Découvrez comment le mathématicien antique Euclide a décomposé des problèmes complexes en axiomes indiscutables.",
-      "de": "Erfahren Sie, wie der antike Mathematiker Euklid komplexe Probleme in unbestreitbare Axiome zerlegte und damit die Grundlage für modernes Denken schuf.",
-      "pt": "Explore como o antigo matemático Euclides descompôs problemas complexos em axiomas indiscutíveis.",
-      "id": "Jelajahi bagaimana matematikawan kuno Euklides mengurai masalah kompleks menjadi aksioma yang tidak dapat disangkal."
+      "ko": "고대 그리스의 대수학자 유클리드가 복잡한 난제를 더 이상 의심할 수 없는 공리(Axiom)로 해체하여 해결해 낸 제1원리 사고법의 역사와 인지 과학을 다룹니다."
     },
     "authority": {
-      "en": "Euclid's Elements (c. 300 BC) & Proclus' Commentary on Euclid",
-      "ko": "유클리드의 《원론》(BC 300) 및 프로클로스의 《유클리드 주석서》",
-      "ja": "ユークリッドの『原論』(紀元前300年頃) およびプロクロスの『ユークリッド注釈書』",
-      "zh": "欧几里得《几何原本》(约公元前300年)及普罗克洛斯《几何原本注疏》",
-      "es": "Elementos de Euclides (c. 300 a.C.) y Comentario de Proclo sobre Euclides",
-      "fr": "Les Éléments d'Euclide (environ 300 av. J.-C.) et le Commentaire de Proclus",
-      "de": "Euklids Elemente (ca. 300 v. Chr.) & Proklos' Kommentar zu Euklid",
-      "pt": "Elementos de Euclides (c. 300 a.C.) e Comentário de Proclo sobre Euclides",
-      "id": "Elemen Euklides (c. 300 SM) & Komentar Proclus tentang Euklides"
+      "ko": "Euclid Axiomatic Thinking 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "en": "In the 3rd century BC, at the Royal Library of Alexandria, ancient Greek mathematician Euclid (c. 325–265 BC) laid the foundation for human logic by writing the 13 books of 'Elements'—the most influential textbook in history after the Bible.\n\nWhen King Ptolemy I asked if there was a shortcut or quick trick to master geometry, Euclid famously replied: 'There is no royal road to geometry.' Euclid's genius was not born from raw intuition or emotional guesses, but from his disciplined daily habit of reducing all complex problems to fundamental axioms.\n\nInstead of relying on prevailing assumptions or societal conventions, Euclid systematically stripped away all unproven opinions and established just 5 basic self-evident truths (axioms). From these 5 indisputable facts, he built an unbroken chain of deductive logic that proved the Pythagorean theorem and the 5 Platonic solids—a cognitive habit that shaped Western scientific thinking for over 2,000 years.",
-      "ko": "기원전 3세기, 고대 그리스 알렉산드리아의 왕립 도서관에서 학파를 이끌었던 '기하학의 아버지' 유클리드(Euclid, BC 325–265). 그는 플라톤의 아카데미아 정신을 이어받아 당대 최고의 학문적 성지에서 인류 역사상 성경 다음으로 많이 읽힌 위대한 고전 《원론(Elements)》 13권을 완성했습니다.\n\n알렉산드리아의 국왕 프톨레마이오스 1세가 복잡한 기하학을 쉽게 배울 수 있는 편법이나 왕도가 없느냐고 묻자, 유클리드는 '기하학에는 왕도가 없습니다(There is no royal road to geometry)'라는 불후의 명언을 남겼습니다. 유클리드의 위대함은 아무리 복잡한 수학적 난제나 학문적 분쟁에 직면해도 결코 자신의 직관이나 타인의 주장에 휘둘리지 않는 공리적 해체 습관에 있었습니다.\n\n그는 모든 불확실한 가정을 0으로 돌리고, '두 점을 잇는 직선은 하나뿐이다'와 같이 누구도 부인할 수 없는 가장 명백한 5가지 공리(Axiom)만을 출발점으로 삼았습니다. 이 공리들로부터 한 단계씩 연역적 논리의 사슬을 쌓아 올려 피타고라스 정리와 5대 정다면체 구조까지 완벽히 증명해 내는 사고 습관은 2000년 동안 서구 과학과 지성사를 지배했습니다.",
-      "ja": "この歴史的習慣の実践において： 3, ' ' (Euclid, BC 325–265). 《(Elements)》 13 . この歴史的習慣の実践において： 1 , ' (There is no royal road to geometry)' . . この歴史的習慣の実践において： 0 , ' ' 5 (Axiom) . 5 2000 .",
-      "zh": "在这一历史性惯例的实践中： 3, ' ' (Euclid, BC 325–265). 《(Elements)》 13 . 在这一历史性惯例的实践中： 1 , ' (There is no royal road to geometry)' . . 在这一历史性惯例的实践中： 0 , ' ' 5 (Axiom) . 5 2000 .",
-      "es": "En el siglo III a.C., en la gran Biblioteca de Alejandría, el matemático griego Euclides (c. 325–265 a.C.) sentó las bases de la lógica humana al escribir los 13 libros de los 'Elementos', la obra matemática más influyente de la historia y el libro más impreso del mundo después de la Biblia.\n\nCuando el rey Ptolomeo I le preguntó si había un camino corto y fácil para aprender geometría, Euclides respondió con su famosa frase: 'No hay camino real hacia la geometría'. El genio de Euclides consistía en que, al enfrentarse a problemas geométricos y filosóficos complejos, nunca confiaba en la intuición vaga, la experiencia superficial o los prejuicios sociales.\n\nEn lugar de aceptar suposiciones no probadas, Euclides despojó todas las opiniones no fundamentadas y estableció únicamente 5 verdades autoevidentes e indiscutibles (axiómas) como su punto de partida lógico. A partir de esas 5 premisas básicas, construyó una cadena ininterrumpida de lógica deductiva que demostró perfectamente el teorema de Pitágoras y la estructura de los sólidos regulares, formando el origen de la mentalidad de primeros principios.",
-      "fr": "Au IIIe siècle av. J.-C., au sein de la grande Bibliothèque d'Alexandrie, le mathématicien grec Euclide (325–265 av. J.-C.) a posé les bases de la logique humaine en rédigeant les 13 livres des 'Éléments', l'ouvrage mathématique le plus influent de l'histoire et le deuxième livre le plus imprimé au monde après la Bible.\n\nLorsque le roi Ptolémée Ier lui demanda s'il existait un moyen court et facile d'apprendre la géométrie, Euclide répondit par cette phrase célèbre : 'Il n'y a pas de voie royale en géométrie.' Le génie d'Euclide résidait dans le fait que, face à des problèmes géométriques complexes, il ne se fiait jamais à l'intuition vague, à l'expérience superficielle ou aux préjugés.\n\nAu lieu d'accepter des préconçus non prouvés, Euclide élimina toutes les opinions sans fondement pour ne garder que 5 vérités auto-évidentes et incontestables (axiomes) comme point de départ logique. À partir de ces 5 prémisses de base, il bâtit une chaîne ininterrompue de logique déductive qui prouva parfaitement le théorème de Pythagore et les solides réguliers, façonnant l'origine du raisonnement par premiers principes.",
-      "de": "Im 3. Jahrhundert v. Chr. legte der altgriechische Mathematiker Euklid (ca. 325–265 v. Chr.) in der großen Bibliothek von Alexandria mit den 13 Büchern der 'Elemente' das Fundament des menschlichen logischen Denkens – das einflussreichste mathematische Werk der Geschichte.\n\nAls König Ptolemäus I. fragte, ob es eine kurze und einfache Abkürzung gebe, um Geometrie zu lernen, antwortete Euklid berühmt: 'Es gibt keinen Königsweg zur Geometrie.' Euklids Stärke bestand darin, dass er sich bei komplexen Problemen niemals auf vage Intuition, oberflächliche Erfahrung oder gesellschaftliche Vorurteile verließ.\n\nAnstatt unbewiesene Annahmen zu akzeptieren, strich Euklid alle unbegründeten Meinungen und formulierte lediglich 5 selbstverständliche, unbestreitbare Grundwahrheiten (Axiome) als logischen Ausgangspunkt. Aus diesen 5 Grundannahmen baute er eine lückenlose Kette deduktiver Logik auf, die den Satz des Pythagoras und die regelmäßigen Polyeder bewies.",
-      "pt": "No século III a.C., na grande Biblioteca de Alexandria, o matemático grego Euclides (c. 325–265 a.C.) lançou as bases da lógica humana ao escrever os 13 livros dos 'Elementos', a obra matemática mais influente da história e o livro mais impresso do mundo depois da Bíblia.\n\nQuando o rei Ptolomeu I perguntou se havia um caminho curto e fácil para aprender geometria, Euclides respondeu com sua famosa frase: 'Não há estrada real para a geometria.' O brilho de Euclides estava em nunca confiar em intuição vaga, experiência superficial ou preconceitos sociais ao lidar com problemas complexos.\n\nEm vez de aceitar suposições não provadas, Euclides eliminou todas as opiniões sem fundamento e estabeleceu apenas 5 verdades autoevidentes e indiscutíveis (axiómas) como seu ponto de partida lógico. A partir dessas 5 premissas básicas, ele construiu uma cadeia ininterrupta de lógica dedutiva que provou perfeitamente o teorema de Pitágoras, formando a origem do pensamento por primeiros princípios.",
-      "id": "Pada abad ke-3 SM, di Perpustakaan Besar Alexandria, matematikawan Yunani kuno Euklides (c. 325–265 SM) meletakkan dasar logika manusia dengan menulis 13 buku 'Elemen', karya matematika paling berpengaruh dalam sejarah dan buku yang paling banyak dicetak di dunia setelah Alkitab.\n\nKetika Raja Ptolemeus I bertanya apakah ada jalan pintas yang mudah untuk mempelajari geometri, Euklides menjawab dengan kalimat terkenalnya: 'Tidak ada jalan kerajaan menuju geometri.' Kejeniusan Euklides terletak pada kenyataan bahwa ketika menghadapi masalah kompleks, ia tidak pernah mengandalkan intuisi samar, pengalaman superfisial, atau prasangka sosial.\n\nAlih-alih menerima asumsi yang belum terbukti, Euklides menghilangkan semua opini tanpa dasar dan menetapkan hanya 5 kebenaran mendasar yang jelas dan tidak terbantahkan (aksioma) sebagai titik awal logisnya. Dari 5 premis dasar tersebut, ia membangun rantai logika deduktif tanpa putus yang membuktikan teorema Pythagoras dan struktur polihedral secara sempurna."
+      "ko": "\"기하학에는 왕도가 없다.\" 📐\n\n기원전 3세기, 고대 그리스 알렉산드리아의 왕립 도서관(Musaeum)에서 수학 학파를 이끌었던 '기하학의 아버지' 유클리드(Euclid, BC 325–265). 그는 플라톤의 아카데미아 정신을 이어받아 당대 최고의 학문적 성지에서 인류 역사상 성경 다음으로 많이 읽힌 위대한 고전 《원론(Elements)》 13권을 완성했습니다.\n\n알렉산드리아의 국왕 프톨레마이오스 1세가 복잡한 기하학을 쉽게 배울 수 있는 편법이나 왕도가 없느냐고 묻자, 유클리드는 \"기하학에는 왕도가 없습니다(There is no royal road to geometry)\"라는 불후의 명언을 남겼습니다. 유클리드의 위대함은 아무리 복잡한 수학적 난제나 학문적 분쟁에 직면해도 결코 자신의 직관이나 타인의 주장에 휘둘리지 않는 공리적 해체 습관에 있었습니다.\n\n그는 모든 불확실한 가정을 0으로 돌리고, '두 점을 잇는 직선은 하나뿐이다'와 같이 누구도 부인할 수 없는 가장 명백한 5가지 공리(Axiom)만을 출발점으로 삼았습니다. 이 공리들로부터 한 단계씩 연역적 논리의 사슬을 쌓아 올려 피타고라스 정리와 5대 정다면체 구조까지 완벽히 증명해 내는 사고 습관은 2000년 동안 서구 과학과 지성사를 지배했습니다."
     },
     "whyTitle": {
-      "en": "Why Axiomatic Reconstruction Prevents Cognitive Overload",
-      "ko": "공리적 재조합이 뇌의 인지 과부하와 편향을 방지하는 이유",
-      "ja": "公理的再構築が脳の認知過負荷と偏見を防ぐ理由",
-      "zh": "公理重构如何防止大脑认知过载与偏见",
-      "es": "Por qué la Reconstrucción Axiomática Previene la Sobrecarga Cognitiva",
-      "fr": "Pourquoi la Reconstruction Axiomatique Évite la Surcharge Cognitive",
-      "de": "Warum axiomatische Rekonstruktion kognitive Überlastung verhindert",
-      "pt": "Por que a Reconstrução Axiomática Evita a Sobrecarga Cognitiva",
-      "id": "Mengapa Rekonstruksi Aksiomatis Mencegah Kelebihan Beban Kognitif"
+      "ko": "공리적 재조합이 뇌의 인지 과부하와 편향을 방지하는 이유"
     },
     "whyDesc": {
-      "en": "Cognitive psychology shows that human brains rely heavily on heuristics—mental shortcuts that lead to systemic bias. First-principles thinking strips away assumptions, lowering cognitive load by focusing strictly on proven facts.",
-      "ko": "인지심리학 연구에 따르면 인간의 뇌는 휴리스틱(직관적 편향)에 쉽게 의존하여 그릇된 판단을 내립니다. 제1원리 사고는 불확실한 가정을 제거하고 검증된 본질적 사실에만 인지 자원을 할당함으로써 뇌의 불필요한 과부하를 즉각 줄여줍니다.",
-      "ja": "認知心理学の研究によると、人間の脳はヒューリスティクス（直感的偏見）に依存しやすく、誤った判断を下します。第一原理思考は不確実な仮定を排除し、検証された本質的事実のみにリソースを割くことで、不要な過負荷を直ちに減らします。",
-      "zh": "认知心理学表明，人类大脑高度依赖直觉捷径(Heuristics)，这容易导致系统性偏见。第一性原理思考彻底剥离假定，仅聚焦于经过证明的事实，从而降低认知负荷。",
-      "es": "La psicología cognitiva muestra que el cerebro humano se apoya en los heurísticos. El pensamiento de primeros principios elimina las suposiciones y reduce la carga cognitiva al enfocarse estrictamente en hechos probados.",
-      "fr": "La psychologie cognitive montre que le cerveau repose sur des heuristiques. La pensée par premiers principes supprime les préconçus et réduit la charge cognitive en se concentrant sur des faits avérés.",
-      "de": "Kognitive Psychologie zeigt, dass sich das Gehirn oft auf Heuristiken verlässt. Das Denken nach ersten Prinzipien baut Annahmen ab und senkt die kognitive Last durch Fokus auf bewiesene Fakten.",
-      "pt": "A psicologia cognitiva mostra que o cérebro recorre a heurísticas. O pensamento de primeiros princípios elimina suposições e reduz a carga cognitiva focando estritamente em fatos comprovados.",
-      "id": "Psikologi kognitif menunjukkan bahwa otak manusia sangat bergantung pada heuristik. Pemikiran prinsip pertama menghilangkan asumsi dan mengurangi beban kognitif dengan fokus pada fakta terbukti."
+      "ko": "인지심리학 연구에 따르면 인간의 뇌는 휴리스틱(직관적 편향)에 쉽게 의존하여 그릇된 판단을 내립니다. 제1원리 사고는 불확실한 가정을 제거하고 검증된 본질적 사실에만 인지 자원을 할당함으로써 뇌의 불필요한 과부하를 즉각 줄여줍니다. 뇌과학적 분석에 따르면, 이 과정은 전전두엽 피질의 인지 과부하를 방지하고 두정엽의 시공간 스케치북과 기하학적 연산 회로를 자극하여 복잡한 과제를 일목요연하게 구조화하도록 돕습니다."
     },
     "cautionTitle": {
-      "en": "Caution & Euclid's Logic Tip",
-      "ko": "유클리드 사고법 주의사항 및 인지 팁",
-      "ja": "ユークリッド思考法の注意点と認知ヒント",
-      "zh": "欧几里得思考法的注意事项与认知技巧",
-      "es": "Precaución y Consejo de Lógica de Euclides",
-      "fr": "Précaution et Conseil de Logique d'Euclide",
-      "de": "Vorsicht & Euklids Logiktipp",
-      "pt": "Precaução e Dica de Lógica de Euclides",
-      "id": "Peringatan & Tip Logika Euklides"
+      "ko": "유클리드 사고법 주의사항 및 인지 팁"
     },
     "cautionDesc": {
-      "en": "Never mix unverified assumptions with your core facts. Isolate at least three indisputable truths before attempting to derive a solution.",
-      "ko": "증명되지 않은 경험이나 타인의 주장을 '기본 사실'로 착각해서는 안 됩니다. 해결책을 도출하기 전에 반드시 100% 명백한 사실 3가지를 명확히 분리해 내야 합니다.",
-      "ja": "証明されていない経験や他人の主張を「基本的事実」と誤解してはなりません。解決策を導き出す前に、必ず100%明白な事実3つを切り分ける必要があります。",
-      "zh": "切勿将未经验证的推测与核心事实混为一谈。在尝试推导解决方案之前，请务必先隔离出至少三条无可争议的基础事实。",
-      "es": "Nunca mezcle suposiciones no verificadas con sus hechos clave. Aísle al menos tres verdades indiscutibles antes de buscar una solución.",
-      "fr": "Ne mélangez jamais d'hypothèses non vérifiées avec des faits essentiels. Isolez au moins trois vérités incontestables avant de chercher une solution.",
-      "de": "Mischen Sie niemals unbewiesene Annahmen mit Kernfakten. Isolieren Sie mindestens drei unumstößliche Wahrheiten vor der Lösungssuche.",
-      "pt": "Nunca misture suposições não verificadas com seus fatos fundamentais. Isole pelo menos três verdades indiscutíveis antes de deduzir uma solução.",
-      "id": "Jangan pernah mencampur asumsi yang belum terverifikasi dengan fakta inti Anda. Isolasi setidaknya tiga kebenaran yang tidak dapat disangkal."
+      "ko": "증명되지 않은 경험이나 타인의 주장을 '기본 사실'로 착각해서는 안 됩니다. 해결책을 도출하기 전에 반드시 100% 명백한 사실 3가지를 명확히 분리해 내야 합니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Strip Away Assumptions",
-          "ko": "기존 가정과 고정관념 해체하기",
-          "ja": "既存の仮定と固定観念を解体する",
-          "zh": "剥离固有假定与刻板印象",
-          "es": "Eliminar las Suposiciones",
-          "fr": "Éliminer les Hypothèses",
-          "de": "Annahmen abbauen",
-          "pt": "Eliminar Suposições",
-          "id": "Kupas Asumsi"
+          "ko": "기존 가정과 고정관념 해체하기"
         },
         "text": {
-          "en": "Identify the complex problem and strip away all unproven opinions, conventional wisdom, and emotional biases.",
-          "ko": "해결하려는 문제에서 검증되지 않은 소문, 막연한 불안, 타인의 고정관념을 완전히 벗겨냅니다.",
-          "ja": "解決したい問題から、検証されていない噂や曖昧な不安、他人の固定観念を完全に剥ぎ取ります。",
-          "zh": "从待解决的问题中彻底剥离未经证明的传言、含糊的焦虑以及他人的刻板成见。",
-          "es": "Identifique el problema complejo y elimine todas las opiniones no probadas y sesgos emocionales.",
-          "fr": "Identifiez le problème complexe et retirez toutes les opinions non prouvées et préjugés.",
-          "de": "Identifizieren Sie das Problem und bauen Sie alle unbewiesenen Meinungen und Vorurteile ab.",
-          "pt": "Identifique o problema e elimine todas as opiniões não comprovadas e preconceitos.",
-          "id": "Identifikasi masalah kompleks dan kupas semua opini yang belum terbukti dan bias emosional."
+          "ko": "해결하려는 문제에서 검증되지 않은 소문, 막연한 불안, 타인의 고정관념을 완전히 벗겨냅니다."
         }
       },
       {
         "name": {
-          "en": "Identify Indisputable Axioms",
-          "ko": "가장 명백한 공리(Axiom) 3가지 정립",
-          "ja": "最も明白な公理（Axiom）3つを確立する",
-          "zh": "确立3条无可争议的基础公理",
-          "es": "Identificar Axiomas Indiscutibles",
-          "fr": "Identifier des Axiomes Incontestables",
-          "de": "Unumstößliche Axiome identifizieren",
-          "pt": "Identificar Axiomas Indiscutíveis",
-          "id": "Identifikasi Aksioma yang Tidak Dapat Disangkal"
+          "ko": "가장 명백한 공리(Axiom) 3가지 정립"
         },
         "text": {
-          "en": "Write down 3 fundamental truths that are objectively verifiable beyond any doubt.",
-          "ko": "누구도 부인할 수 없는 객관적인 사실 3가지를 노트에 명확히 작성합니다.",
-          "ja": "誰も否定できない客観的な事実3つをノートに明確に書き出します。",
-          "zh": "在笔记上清晰写下3条客观存在且无可置疑的基本事实。",
-          "es": "Escriba 3 verdades fundamentales que sean objetivamente verificables sin lugar a dudas.",
-          "fr": "Écrivez 3 vérités fondamentales vérifiables sans aucun doute.",
-          "de": "Schreiben Sie 3 fundamentale Wahrheiten auf, die objektiv überprüfbar sind.",
-          "pt": "Escreva 3 verdades fundamentais objetivamente verificáveis sem qualquer dúvida.",
-          "id": "Tuliskan 3 kebenaran mendasar yang terverifikasi secara objektif tanpa keraguan."
+          "ko": "누구도 부인할 수 없는 객관적인 사실 3가지를 노트에 명확히 작성합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
         }
       },
       {
         "name": {
-          "en": "Build a Deduction Chain",
-          "ko": "연역적 논리 사슬 한 단계씩 쌓기",
-          "ja": "演繹的論理のチェーンを一歩ずつ構築する",
-          "zh": "逐级构建演绎逻辑链条",
-          "es": "Construir una Cadena de Deducción",
-          "fr": "Construire une Chaîne de Déduction",
-          "de": "Eine Deduktionskette aufbauen",
-          "pt": "Construir uma Cadeia de Dedução",
-          "id": "Bangun Rantai Deduksi"
+          "ko": "연역적 논리 사슬 한 단계씩 쌓기"
         },
         "text": {
-          "en": "Derive your next logical decision step-by-step strictly based on the established axioms.",
-          "ko": "정립된 3가지 공리로부터 논리적 인과관계에 따라 다음 행동 플랜을 한 단계씩 연역적으로 유도합니다.",
-          "ja": "確立された3つの公理から、論理的な因果関係に基づいて次の行動プランを一歩ずつ演繹的に導き出します。",
-          "zh": "根据确立的3条公理，沿着严格的逻辑因果关系，逐级推导下一步行动方案。",
-          "es": "Deduzca su siguiente decisión paso a paso basándose estrictamente en los axiomas establecidos.",
-          "fr": "Déduisez votre prochaine décision étape par étape en vous basant sur les axiomes établis.",
-          "de": "Leiten Sie Ihre nächste Entscheidung Schritt für Schritt strikt aus den Axiomen ab.",
-          "pt": "Deduza sua próxima decisão passo a passo com base estritamente nos axiomas estabelecidos.",
-          "id": "Dapatkan keputusan Anda berikutnya langkah demi langkah berdasarkan aksioma yang ditetapkan."
+          "ko": "정립된 3가지 공리로부터 논리적 인과관계에 따라 다음 행동 플랜을 한 단계씩 연역적으로 유도합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "en": "How can I apply this to complex business decisions?",
-          "ko": "비즈니스나 복잡한 업무 의사결정에 어떻게 적용할 수 있나요?",
-          "ja": "ビジネスや複雑な業務上の意思決定にどのように適用できますか？",
-          "zh": "如何将其应用于商业或复杂的工作决策？",
-          "es": "¿Cómo puedo aplicar esto a decisiones comerciales complejas?",
-          "fr": "Comment puis-je appliquer cela aux décisions d'affaires complexes ?",
-          "de": "Wie kann ich dies auf komplexe Geschäftsentscheidungen anwenden?",
-          "pt": "Como posso aplicar isso a decisões de negócios complexas?",
-          "id": "Bagaimana saya dapat menerapkan ini pada keputusan bisnis yang kompleks?"
+          "ko": "비즈니스나 복잡한 업무 의사결정에 어떻게 적용할 수 있나요?"
         },
         "answer": {
-          "en": "Break the project down to cost, physical laws, and core user needs, then rebuild your strategy from these basic truths.",
-          "ko": "프로젝트의 비용, 물리적 제약, 사용자의 근본적 니즈라는 3가지 기본 사실로 문제를 분해한 뒤 전략을 다시 설계하세요.",
-          "ja": "プロジェクトのコスト、物理的制約、ユーザーの根本的ニーズという3つの基本的事実へと問題を解体し、戦略を再設計してください。",
-          "zh": "将项目拆解为成本、物理规律和用户核心需求这3个基本事实，然后从这些事实出发重建你的策略。",
-          "es": "Desglose el proyecto en costos, leyes físicas y necesidades del usuario, y reconstruya su estrategia.",
-          "fr": "Décomposez le projet en coûts, lois physiques et besoins des utilisateurs, puis reconstruisez votre stratégie.",
-          "de": "Zerlegen Sie das Projekt in Kosten, physische Gesetze und Nutzerbedürfnisse und bauen Sie Ihre Strategie neu auf.",
-          "pt": "Desmonte o projeto em custos, leis físicas e necessidades dos usuários, e reconstrua sua estratégia.",
-          "id": "Urai proyek menjadi biaya, hukum fisik, dan kebutuhan inti pengguna, lalu bangun kembali strategi Anda."
+          "ko": "프로젝트의 비용, 물리적 제약, 사용자의 근본적 니즈라는 3가지 기본 사실로 문제를 분해한 뒤 전략을 다시 설계하세요."
         }
       },
       {
         "question": {
-          "en": "What is the difference between this and ordinary logic?",
-          "ko": "일반적인 논리적 사고와 유클리드의 제1원리 사고는 무엇이 다른가요?",
-          "ja": "通常の論理的思考とユークリッドの第一原理思考の違いは何ですか？",
-          "zh": "常规逻辑思考与欧几里得第一性原理思考有何不同？",
-          "es": "¿Cuál es la diferencia entre esto y la lógica ordinaria?",
-          "fr": "Quelle est la différence entre cela et la logique ordinaire ?",
-          "de": "Was ist der Unterschied zwischen dieser und gewöhnlicher Logik?",
-          "pt": "Qual é a diferença entre isso e a lógica comum?",
-          "id": "Apa perbedaan antara ini dan logika biasa?"
+          "ko": "일반적인 논리적 사고와 유클리드의 제1원리 사고는 무엇이 다른가요?"
         },
         "answer": {
-          "en": "Ordinary logic often starts from existing conventions, while axiomatic thinking starts from zero-base truths.",
-          "ko": "일반 논리는 기존 관습이나 과거 사례를 전제로 출발하지만, 제1원리 사고는 모든 가정을 0으로 되돌리고 자명한 본질에서 출발합니다.",
-          "ja": "通常の論理は既存の慣習や過去の事例を前提として出発しますが、第一原理思考はすべての仮定をゼロに戻し、明白な本質から出発します。",
-          "zh": "常规逻辑通常从既有惯例或历史案例为前提开始，而第一性原理思考会将所有假定归零，从最本质的真理出发。",
-          "es": "La lógica ordinaria parte de convenciones existentes, mientras que el pensamiento axiomático parte de verdades de base cero.",
-          "fr": "La logique ordinaire part des conventions existantes, tandis que la pensée axiomatique part de vérités de base zéro.",
-          "de": "Gewöhnliche Logik geht oft von Konventionen aus, während axiomatisches Denken bei Null-Basis-Wahrheiten ansetzt.",
-          "pt": "A lógica comum parte de convenções existentes, enquanto o pensamento axiomático parte de verdades de base zero.",
-          "id": "Logika biasa sering kali dimulai dari konvensi yang ada, sedangkan pemikiran aksiomatis dimulai dari kebenaran basis nol."
+          "ko": "일반 논리는 기존 관습이나 과거 사례를 전제로 출발하지만, 제1원리 사고는 모든 가정을 0으로 되돌리고 자명한 본질에서 출발합니다."
         }
       }
-    ],
-    "pubDate": "2026-02-21",
-    "updatedDate": "2026-02-21"
+    ]
   }
 }

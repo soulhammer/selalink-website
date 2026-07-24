@@ -15,24 +15,23 @@ faqs:
   - question: "Apakah landak mini membutuhkan mainan kunyah?"
     answer: "Tidak seperti hewan pengerat, gigi landak mini tidak tumbuh terus-menerus. Mereka tidak membutuhkan mainan kunyah, and benda keras dapat mematahkan gigi mereka. Hindari kibble yang terlalu keras."
 ---
-
-Landak mini Afrika adalah peliharaan eksotis yang tenang dan menarik. Mereka pemalu secara alami, menggunakan duri untuk pertahanan diri dan melumuri air liur berbusa pada punggung mereka saat menemui aroma baru. Selain itu, mereka berisiko mengalami syok hibernasi fatal jika suhu ruangan turun. Hari ini di PetSelf, kami menguraikan perilaku duri landak mini, tips pengurapan diri, and rutin 3 langkah untuk menjaga kehangatan dan kebersihan tetap stabil.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Bukti Dokter Hewan & Perilaku
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>Panduan Hedgehog Welfare Society dan Protokol Veteriner Hewan Eksotis</strong>.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Landak Mini Afrika (African Pygmy Hedgehog) Profil Utama
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Rata-rata Umur</span><span class="font-bold text-slate-800 dark:text-slate-200">4 ~ 6 tahun</span></div>
@@ -43,7 +42,7 @@ Landak mini Afrika adalah peliharaan eksotis yang tenang dan menarik. Mereka pem
 
 ## 1. Insting Landak Mini: Busa Pengurapan Diri dan Pertahanan Duri
 
-Saat landak mini Afrika merasakan atau mencium sesuatu yang baru, mereka membuat air liur berbusa dan mengoleskannya ke duri mereka, sebuah proses yang disebut 'Pengurapan Diri (Self-Anointing)'. Ini adalah perilaku normal untuk menyamarkan aroma mereka. Sebaliknya, ketika takut, mereka menggulung tubuh menjadi bola rapat dan mendesis untuk memperingatkan agar tidak disentuh.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +76,7 @@ Saat landak mini Afrika merasakan atau mencium sesuatu yang baru, mereka membuat
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Membersihkan Roda Putar dan Wadah Makanan yang Kotor</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Karena landak cenderung buang air besar saat berlari di roda putar, bersihkan dan sterilkan roda serta mangkuk setiap pagi.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -87,7 +86,7 @@ Saat landak mini Afrika merasakan atau mencium sesuatu yang baru, mereka membuat
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Menjaga Suhu Ruangan Antara 24 hingga 26 °C</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Cegah suhu tubuh rendah and hibernasi dengan memeriksa bantalan pemanas dan termostat digital secara teratur.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -97,7 +96,7 @@ Saat landak mini Afrika merasakan atau mencium sesuatu yang baru, mereka membuat
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Pemberian Pakan Serangga Tinggi Protein & Pemeriksaan Kaki</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Sediakan kibble berkualitas tinggi berbahan dasar serangga, dan periksa kaki mereka untuk mendeteksi luka akibat berlari di roda.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -106,7 +105,7 @@ Saat landak mini Afrika merasakan atau mencium sesuatu yang baru, mereka membuat
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </div>
 </div>
@@ -124,7 +123,7 @@ Saat landak mini Afrika merasakan atau mencium sesuatu yang baru, mereka membuat
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Jika terlalu dingin, mereka berbaring datar di atas perut, kesulitan berjalan, and tampak lesu. Segera bungkus dengan handuk hangat, tempatkan di ruangan yang hangat, dan cari bantuan dokter hewan.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </details>
 
@@ -134,7 +133,7 @@ Saat landak mini Afrika merasakan atau mencium sesuatu yang baru, mereka membuat
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Tidak seperti hewan pengerat, gigi landak mini tidak tumbuh terus-menerus. Mereka tidak membutuhkan mainan kunyah, and benda keras dapat mematahkan gigi mereka. Hindari kibble yang terlalu keras.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </details>
 </div>

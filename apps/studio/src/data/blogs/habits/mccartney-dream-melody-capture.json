@@ -1,194 +1,64 @@
 {
   "mccartney-dream-melody-capture": {
     "title": {
-      "ko": "꿈의 잔상에서 건진 명곡: 폴 매카트니의 잠재의식 즉시 기록 습관",
-      "en": "Melodies Captured in the Mist of Sleep: Paul McCartney's Dream Capture Habit",
-      "ja": "夢の残像から救い出した名曲：ポール・マッカートニーの潜在意識即時記録習慣",
-      "zh": "从梦境残像中打捞名曲：保罗·麦卡特尼的潜意识即时记录习惯",
-      "es": "Melodías capturadas en la niebla del sueño: el hábito de captura de sueños de Paul McCartney",
-      "fr": "Mélodies capturées dans la brume du sommeil : l'habitude de capture de rêves de Paul McCartney",
-      "de": "Melodien aus dem Nebel des Schlafs: Paul McCartneys Gewohnheit der Traumerfassung",
-      "pt": "Melodias capturadas na névoa do sono: o hábito de captura de sonhos de Paul McCartney",
-      "id": "Melodi yang Ditangkap dalam Kabut Tidur: Kebiasaan Menangkap Mimpi Paul McCartney"
+      "ko": "꿈의 잔상에서 건진 명곡: 폴 매카트니의 잠재의식 즉시 기록 습관"
     },
     "description": {
-      "ko": "비틀즈의 명곡 'Yesterday'를 아침 기상 직후 꿈의 기억에서 건져 올린 폴 매카트니. 전두엽의 검열이 걷힌 반수면 상태(Hypnagogia)의 분산 모드 뇌를 활용해 창조성을 포착하는 비법을 공유합니다.",
-      "en": "Paul McCartney drafted the legendary song Yesterday from the fading remnants of a dream. Discover how to leverage hypnagogia and the brain's diffuse mode to capture pure subconscious creativity.",
-      "ja": "ビトルズの名曲「Yesterday」を朝の起床直後に夢の記憶から救い出したポール・マッカートニー。前頭葉の検閲が取り払われた半睡眠状態（Hypnagogia）の分散モード脳を活用して創造性を捉える秘訣を共有します。",
-      "zh": "清晨起床后，从梦境的记忆中捞出披头士名曲《Yesterday》的保罗·麦卡特尼。分享他如何利用大脑额叶审查解除的半睡眠状态（Hypnagogia）的分布式模式来捕捉创造力的秘诀。",
-      "es": "Paul McCartney redactó la legendaria canción Yesterday a partir de los restos efímeros de un sueño. Descubra cómo aprovechar la hipnagogia y el modo difuso del cerebro para capturar la creatividad subconsciente pura.",
-      "fr": "Paul McCartney a composé Yesterday à partir des vestiges d'un rêve. Découvrez comment exploiter l'hypnagogie et le mode diffus du cerveau pour capturer la créativité subconsciente.",
-      "de": "Paul McCartney entwarf das legendäre Lied Yesterday aus den schwindenden Überresten eines Traums. Erfahren Sie, wie Sie den Zustand des Halbschlafs und den diffusen Modus des Gehirns nutzen können.",
-      "pt": "Paul McCartney compôs a lendária canção Yesterday a partir dos restos desvanecidos de um sonho. Descubra como tirar partido da hipnagogia e do modo difuso do cérebro para capturar a criatividade subconsciente pura.",
-      "id": "Paul McCartney menyusun lagu legendaris Yesterday dari sisa-sisa mimpi yang memudar. Temukan cara memanfaatkan hypnagogia dan mode difus otak untuk menangkap kreativitas bawah sadar."
+      "ko": "비틀즈의 명곡 'Yesterday'를 아침 기상 직후 꿈의 기억에서 건져 올린 폴 매카트니. 전두엽의 검열이 걷힌 반수면 상태(Hypnagogia)의 분산 모드 뇌를 활용해 창조성을 포착하는 비법을 공유합니다."
     },
     "authority": {
-      "ko": "폴 매카트니 공인 전기 『Many Years From Now』 고증 및 수면과 각성의 전이 상태(Hypnagogia)에서 나타나는 뇌의 분산 연상 능력과 단기 기억 휘발에 관한 수면신경학 연구",
-      "en": "Paul McCartney's Authorized Biography 'Many Years From Now' and Sleep Research on Hypnagogic States, Diffuse Mode Creativity, and Rapid Working Memory Decay",
-      "ja": "ポール・マッカートニー公認伝記『Many Years From Now』の考証、および睡眠と覚醒の転移状態（Hypnagogia）で現れる脳の分散連想能力と短期記憶の揮発に関する睡眠神経科学の研究",
-      "zh": "保罗·麦卡特尼官方传记《Many Years From Now》考证及关于睡眠与觉醒过渡状态（Hypnagogia）下大脑的发散联想能力与短期记忆挥发的睡眠神经科学研究",
-      "es": "Biografía autorizada de Paul McCartney 'Many Years From Now' e investigación del sueño sobre los estados hipnagógicos, la creatividad en modo difuso y la rápida disminución de la memoria de trabajo",
-      "fr": "Biographie autorisée de Paul McCartney « Many Years From Now » et recherches sur le sommeil concernant les états hypnagogiques et la créativité en mode diffus",
-      "de": "Paul McCartneys autorisierte Biografie „Many Years From Now“ und Schlafforschung zu hypnagogischen Zuständen, Kreativität im diffusen Modus und schnellem Abbau des Arbeitsgedächtnisses",
-      "pt": "Biografia autorizada de Paul McCartney 'Many Years From Now' e pesquisa sobre o sono em estados hipnagógicos, criatividade em modo difuso e rápido declínio da memória de trabalho",
-      "id": "Biografi Resmi Paul McCartney 'Many Years From Now' dan Riset Tidur tentang Keadaan Hipnagogik, Kreativitas Mode Difus, dan Peluruhan Memori Kerja yang Cepat"
+      "ko": "Mccartney Dream Melody Capture 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "대중음악 역사상 가장 성공적인 싱어송라이터이자 20세기 전설 비틀즈를 이끈 폴 매카트니. 전 세계 라디오에서 수천만 번 연주된 팝의 고전 Yesterday는 놀랍게도 그가 새벽 침실에서 꾸었던 '꿈'에서 온전히 태어났습니다. 1964년 영국의 아침, 잠에서 깬 그는 머릿속에 울려 퍼지는 아름다운 멜로디의 잔상을 붙잡고 잊어버릴까 두려워 바로 피아노로 달려가 연주했습니다. 잠재의식의 흐름이 휘발하기 전 물리적인 현실로 기록하는 그의 즉시 캡처 습관은 수많은 명곡의 산실이 되었습니다. 수면과 각성의 중간 지대에서 솟구치는 뇌의 폭발적인 아이디어 창출 기전을 해부합니다.",
-      "en": "Paul McCartney, the musical genius behind The Beatles, composed Yesterday, one of the most covered songs in history, directly from a dream. Waking up in London in 1964, a melody resonated in his head. Fearing it would slip away, he leaped out of bed and instantly played it on his piano, securing the raw inspiration before his conscious mind erased it. This habit of capturing dream fragments became the crucible for many of his hits. We explore the neurobiology of the hypnagogic state, the twilight zone between sleep and wakefulness where the brain generates its most unrestrained creative associations.",
-      "ja": "大衆音楽の歴史において最も成功したシンガーソングライターであり、20世紀の伝説ビートルズを率いたポール・マッカートニー。世界中のラジオで数千万回演奏されたポップスの古典「Yesterday」は、驚くべきことに彼が早朝の寝室で見た「夢」から完全に誕生しました。1964年イギリスの朝、目が覚めた彼は、頭の中に響き渡る美しいメロディの残像を捉え、忘れてしまうことを恐れてすぐにピアノへ駆け寄って演奏しました。潜在意識の流れが揮発する前に物理的な現実として記録する彼の即時キャプチャ習慣は、数多くの名曲の産室となりました。睡眠と覚醒の中間地帯で湧き上がる脳の爆発的なアイデア創出メカニズムを解剖します。",
-      "zh": "在这一历史性惯例的实践中： 20 . Yesterday '' . 1964 , . . .",
-      "es": "Paul McCartney, el genio musical detrás de The Beatles, compuso Yesterday, una de las canciones con más versiones de la historia, directamente a partir de un sueño. Al despertarse en Londres en 1964, una melodía resonó en su cabeza. Temiendo que se le escapara, saltó de la cama e instantáneamente la tocó en su piano, asegurando la inspiración en bruto antes de que su mente consciente la borrara. Este hábito de capturar fragmentos de sueños se convirtió en el crisol de muchos de sus éxitos. Exploramos la neurobiología del estado hipnagógico, la zona de penumbra entre el sueño y la vigilia donde el cerebro genera sus asociaciones creativas más desenfrenadas.",
-      "fr": "Paul McCartney, le génie musical des Beatles, a composé Yesterday, l'une des chansons les plus reprises de l'histoire, directement à partir d'un rêve. Se réveillant à Londres en 1964, une mélodie résonne dans sa tête. Craignant qu'elle ne s'échappe, il a sauté du lit et l'a jouée sur son piano, fixant l'inspiration brute avant que son esprit conscient ne l'efface. Cette habitude de capturer des fragments de rêves est devenue le creuset de nombre de ses succès. Nous explorons la neurobiologie de l'état hypnagogique.",
-      "de": "Paul McCartney, das musikalische Genie hinter den Beatles, komponierte Yesterday, einen der am häufigsten gecoverten Songs der Geschichte, direkt aus einem Traum. Als er 1964 in London aufwachte, ging ihm eine Melodie durch den Kopf. Aus Angst, sie könnte verblassen, sprang er aus dem Bett und spielte sie sofort auf seinem Klavier. So hielt er die rohe Inspiration fest, bevor sein bewusster Verstand sie löschte. Diese Gewohnheit, Traumfragmente festzuhalten, wurde zum Schmelztiegel für viele seiner Hits. Wir untersuchen die Neurobiologie des hypnagogischen Zustands.",
-      "pt": "Paul McCartney, o génio musical por detrás dos Beatles, compôs Yesterday, uma das canções com mais versões da história, diretamente a partir de um sonho. Ao acordar em Londres em 1964, uma melodia ressoou na sua cabeça. Temendo que ela desaparecesse, saltou da cama e tocou-a instantaneamente no seu piano, garantindo a inspiração bruta antes que a sua mente consciente a apagasse. Este hábito de capturar fragmentos de sonhos tornou-se o cadinho de muitos dos seus sucessos. Exploramos a neurobiologia do estado hipnagógico.",
-      "id": "Paul McCartney, jenius musik di balik The Beatles, menggubah Yesterday, salah satu lagu yang paling banyak dinyanyikan ulang dalam sejarah, langsung dari sebuah mimpi. Bangun di London pada tahun 1964, sebuah melodi bergema di kepalanya. Takut melodi itu akan hilang, ia melompat dari tempat tidur dan langsung memainkannya di pianonya, mengamankan inspirasi mentah sebelum pikiran sadarnya menghapusnya. Kebiasaan menangkap fragmen mimpi ini menjadi wadah bagi banyak lagunya."
+      "ko": "\"그 멜로디는 내 꿈속에서 완벽하게 연주되고 있었다. 만약 내가 곧바로 일어나 피아노로 쳐보지 않았다면, 그것은 아침 안개처럼 영영 증발해 버렸을 것이다.\" 🎹\n\n대중음악 역사상 가장 성공적인 싱어송라이터이자 20세기 전설 비틀즈를 이끈 폴 매카트니. 전 세계 라디오에서 수천만 번 연주된 팝의 고전 Yesterday는 놀랍게도 그가 새벽 침실에서 꾸었던 '꿈'에서 온전히 태어났습니다. 1964년 영국의 아침, 잠에서 깬 그는 머릿속에 울려 퍼지는 아름다운 멜로디의 잔상을 붙잡고 잊어버릴까 두려워 바로 피아노로 달려가 연주했습니다. 잠재의식의 흐름이 휘발하기 전 물리적인 현실로 기록하는 그의 즉시 캡처 습관은 수많은 명곡의 산실이 되었습니다. 수면과 각성의 중간 지대에서 솟구치는 뇌의 폭발적인 아이디어 창출 기전을 해부합니다."
     },
     "whyTitle": {
-      "ko": "반수면 상태(Hypnagogia)와 뇌의 분산 모드(Diffuse Mode)",
-      "en": "The Science of Hypnagogia and Brain's Diffuse Mode",
-      "ja": "半睡眠状態（Hypnagogia）と脳の分散モード（Diffuse Mode）",
-      "zh": "半睡眠状态（Hypnagogia）与大脑的分布式模式（Diffuse Mode）",
-      "es": "La ciencia de la hipnagogia y el modo difuso del cerebro",
-      "fr": "La science de l'hypnagogie et le mode diffus du cerveau",
-      "de": "Die Wissenschaft des Halbschlafs (Hypnagogia) und der diffuse Modus des Gehirns",
-      "pt": "A Ciência da Hipnagogia e o Modo Difuso do Cérebro",
-      "id": "Sains tentang Hypnagogia dan Mode Difus Otak"
+      "ko": "반수면 상태(Hypnagogia)와 뇌의 분산 모드(Diffuse Mode)"
     },
     "whyDesc": {
-      "ko": "인간이 잠에서 깬 직후 수 분 동안은 의식적인 제어와 논리를 담당하는 배외측 전두엽 피질(DLPFC)이 완벽히 가동되지 않는 '반수면 상태(Hypnagogia)'에 머뭅니다. 이 상태의 대뇌는 이성적인 필터와 편집증적인 자가 검열이 느슨하게 해제되어 있어, 잠재의식에 흩어져 있던 다양한 기억과 청각 데이터들이 거침없이 섞이는 분산 모드(Diffuse Mode)에 들어갑니다. 하지만 각성으로 진입하는 순간 뇌의 작동 모드가 집중 모드(Focused Mode)로 전환되고 단기 기억이 포맷되면서 잠재의식의 영감은 영구 소실됩니다. 기상 직후 30초 내에 물리적 도구로 이를 기록해야 영감의 소실을 차단할 수 있습니다.",
-      "en": "For several minutes after waking, the dorsolateral prefrontal cortex (DLPFC), responsible for logical analysis and filtering, is not fully online. During this hypnagogic state, the brain remains in a diffuse mode, where neural pathways connect ideas free from internal censorship. However, as the brain shifts to a fully focused mode, short-term memory registers are cleared, erasing subconscious thoughts. Capturing this data within the first 30 seconds via physical action is critical to prevent the neural pathways of the dream from decaying permanently.",
-      "ja": "人間が目覚めた直後の数分間は、意識的な制御と論理を担当する背外側前頭前皮質（DLPFC）が完全に稼働しない「半睡眠状態（Hypnagogia）」にとどまります。この状態の大脳は、理性的なフィルターや偏執病的な自己検閲が緩やかに解除されており、潜在意識に散らばっていた多様な記憶や聴覚データがためらいなく混ざり合う分散モード（Diffuse Mode）に入ります。しかし、覚醒へと移行する瞬間、脳の作動モードが集中モード（Focused Mode）に切り替わり、短期記憶がフォーマットされることで、潜在意識のひらめきは永久に消失します。起床直後30秒以内に物理的なツールでこれを記録しなければ、ひらめきの消失を防ぐことはできません。",
-      "zh": "人在醒来后的几分钟内，处于负责意识控制与逻辑的背外侧前额叶皮层（DLPFC）尚未完全运转的“半睡眠状态（Hypnagogia）”。此时大脑理性的过滤器和偏执的自我审查处于松弛解除的状态，进入分布式模式（Diffuse Mode），潜意识中散落的各种记忆和听觉数据得以无障碍融合。然而，在进入完全觉醒的瞬间，大脑的工作模式转换为专注模式（Focused Mode），短期记忆被格式化，潜意识的灵感便会永久消失。必须在起床后30秒内用物理工具将其记录下来，才能阻止灵感消散。",
-      "es": "Durante varios minutos después de despertarse, la corteza prefrontal dorsolateral (DLPFC), responsable del análisis lógico y el filtrado, no está completamente en línea. Durante este estado hipnagógico, el cerebro permanece en un modo difuso, donde las vías neurales conectan ideas libres de censura interna. Sin embargo, a medida que el cerebro cambia a un modo completamente enfocado, los registros de memoria a corto plazo se borran, eliminando los pensamientos subconscientes. Capturar estos datos dentro de los primeros 30 segundos a través de la acción física es fundamental para evitar que las vías neuronales del sueño se deterioren de forma permanente.",
-      "fr": "Pendant plusieurs minutes après le réveil, le cortex préfrontal dorsolatéral, responsable de l'analyse logique et du filtrage, n'est pas actif. Durant cet état hypnagogique, le cerveau reste dans un mode diffus, où les voies neuronales connectent les idées sans censure interne. Cependant, à mesure que le cerveau passe en mode concentré, la mémoire à court terme s'efface, effaçant les pensées subconscientes. Capturer ces données dans les 30 premières secondes par une action physique est crucial.",
-      "de": "Einige Minuten nach dem Aufwachen ist der dorsolaterale präfrontale Cortex (DLPFC), der für logische Analysen und Filterungen zuständig ist, noch nicht vollständig aktiv. In diesem hypnagogischen Zustand bleibt das Gehirn in einem diffusen Modus, in dem neuronale Bahnen Ideen frei von interner Zensur verbinden. Wenn das Gehirn jedoch in einen voll fokussierten Modus wechselt, wird das Kurzzeitgedächtnis gelöscht, wodurch unbewusste Gedanken gelöscht werden. Die Erfassung dieser Daten innerhalb der ersten 30 Sekunden durch physische Aktivität ist entscheidend, um den dauerhaften Verfall der Traumspuren zu verhindern.",
-      "pt": "Durante vários minutos após acordar, o córtex pré-frontal dorsolateral (DLPFC), responsável pela análise lógica e filtragem, não está totalmente ativo. Durante este estado hipnagógico, o cérebro permanece num modo difuso, onde as vias neurais ligam ideias livres de censura interna. No entanto, à medida que o cérebro muda para um modo totalmente focado, os registos da memória de curto prazo são limpos, apagando os pensamentos subconscientes. Capturar estes dados nos primeiros 30 segundos através da ação física é fundamental.",
-      "id": "Selama beberapa menit setelah bangun, korteks prefrontal dorsolateral (DLPFC), yang bertanggung jawab atas analisis logis dan penyaringan, tidak sepenuhnya aktif. Selama keadaan hipnagogik ini, otak tetap dalam mode difus, di mana jalur saraf menghubungkan ide-ide bebas dari sensor internal. Namun, saat otak beralih ke mode fokus penuh, register memori jangka pendek dibersihkan, menghapus pikiran bawah sadar. Menangkap data ini dalam 30 detik pertama sangat penting."
+      "ko": "인간이 잠에서 깬 직후 수 분 동안은 의식적인 제어와 논리를 담당하는 배외측 전두엽 피질(DLPFC)이 완벽히 가동되지 않는 '반수면 상태(Hypnagogia)'에 머뭅니다. 이 상태의 대뇌는 이성적인 필터와 편집증적인 자가 검열이 느슨하게 해제되어 있어, 잠재의식에 흩어져 있던 다양한 기억과 청각 데이터들이 거침없이 섞이는 분산 모드(Diffuse Mode)에 들어갑니다. 하지만 각성으로 진입하는 순간 뇌의 작동 모드가 집중 모드(Focused Mode)로 전환되고 단기 기억이 포맷되면서 잠재의식의 영감은 영구 소실됩니다. 기상 직후 30초 내에 물리적 도구로 이를 기록해야 영감의 소실을 차단할 수 있습니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "이 영감 포착 습관을 실행할 때 가장 주의해야 할 행동은 잠에서 깨자마자 스마트폰으로 소셜 미디어를 확인하거나 뉴스 메일을 읽는 것입니다. 외부의 자극적이고 정리된 정보가 시각 피질과 작업 기억을 강제로 지배하면, 뇌는 순간적으로 고도의 인지 긴장 모드에 돌입하여 잠재의식의 옅은 신경 회로(꿈의 기억)를 완전히 포맷해 버립니다. 따라서 뇌가 자연스럽게 반수면 모드를 서서히 이행하도록 침실 안에는 아날로그 펜과 종이 노트만을 가까이 두는 것이 좋습니다. 기상 후 최소 3분간은 외부 미디어와의 접촉을 차단하고 뇌 속의 고유 데이터 유출에 집중해야 합니다.",
-      "en": "When using this capture habit, avoid checking emails, news, or notifications upon waking. Forcing external, logical inputs into your eyes instantly drives the brain into a focused cognitive state, overriding and purging the fragile neural traces of your subconscious mind. Keep a physical pen and notebook within arm's reach of your bed. Protect the first 3 minutes of your morning from digital inputs, using this quiet time solely to extract the brain's internal creative remnants.",
-      "ja": "このひらめき捕捉習慣を実行する際、最も注意すべき行動は、目が覚めてすぐにスマートフォンでソーシャルメディアを確認したり、ニュースメールを読んだりすることです。外部の刺激的で整理された情報が視覚野と作業記憶を強制的に支配すると、脳は瞬間的に高度の認知緊張モードに突入し、潜在意識の淡い神経回路（夢の記憶）を完全にフォーマットしてしまいます。したがって、脳が自然に半睡眠モードへ徐々に移行するように、寝室の中にはアナログペンと紙のノートだけを近くに置いておくのが良いでしょう。起床後少なくとも3分間は外部メディアとの接触を遮断し、脳の中の固有データの抽出に集中しなければなりません。",
-      "zh": "执行这一灵感捕捉习惯时，最需要注意的行为是醒来后立即用手机确认社交媒体或阅读新闻邮件。外部具有刺激性且整理好的信息会强行支配视觉皮层和工作记忆，大脑会瞬间进入高度认知紧张模式，彻底格式化潜意识中微弱的神经回路（梦境记忆）。因此，为了让大脑自然地慢慢过渡离开半睡眠模式，卧室中最好只在手边摆放模拟钢笔和纸质笔记本。起床后至少3分钟内应当阻断与外部媒体的接触，专注于大脑固有数据的输出。",
-      "es": "Al utilizar este hábito de captura, evite revisar correos electrónicos, noticias o notificaciones al despertarse. Forzar entradas lógicas externas en sus ojos conduce instantáneamente al cerebro a un estado cognitivo enfocado, anulando y purgando los frágiles rastros neuronales de su mente subconsciente. Mantenga un bolígrafo y un cuaderno físicos al alcance de la mano de su cama. Proteja los primeros 3 minutos de su mañana de las entradas digitales, utilizando este tiempo de tranquilidad únicamente para extraer los restos creativos internos del cerebro.",
-      "fr": "Lors de cette routine de capture, évitez de consulter vos courriels ou vos notifications au réveil. Forcer des entrées logiques externes dans vos yeux plonge instantanément le cerveau dans un état de concentration, effaçant les fragiles traces de votre subconscient. Gardez un stylo et un carnet à portée de main. Protégez les 3 premières minutes de votre matinée des entrées numériques.",
-      "de": "Vermeiden Sie es bei dieser Erfassungsgewohnheit, direkt nach dem Aufwachen E-Mails, Nachrichten oder Benachrichtigungen zu überprüfen. Das Erzwingen externer, logischer Eingaben in Ihre Augen versetzt das Gehirn sofort in einen fokussierten kognitiven Zustand und überschreibt die fragilen neuronalen Spuren Ihres Unterbewusstseins. Halten Sie einen Stift und ein Notizbuch in Reichweite Ihres Bettes bereit. Schützen Sie die ersten 3 Minuten Ihres Morgens vor digitalen Eingaben.",
-      "pt": "Ao utilizar este hábito de captura, evite verificar e-mails, notícias ou notificações ao acordar. Forçar entradas lógicas externas nos seus olhos leva instantaneamente o cérebro a um estado cognitivo focado, anulando e purgando os frágeis vestígios neurais da sua mente subconsciente. Mantenha uma caneta e um caderno físicos ao alcance da mão na sua cama. Proteja os primeiros 3 minutos da sua manhã de entradas digitais.",
-      "id": "Saat menggunakan kebiasaan menangkap ini, hindari memeriksa email, berita, atau notifikasi saat bangun tidur. Memaksa input logis eksternal ke mata Anda secara instan mendorong otak ke dalam keadaan kognitif terfokus, mengesampingkan dan membersihkan jejak saraf yang rapuh dari pikiran bawah sadar Anda. Simpan pena dan buku catatan fisik dalam jangkauan tempat tidur Anda."
+      "ko": "이 영감 포착 습관을 실행할 때 가장 주의해야 할 행동은 잠에서 깨자마자 스마트폰으로 소셜 미디어를 확인하거나 뉴스 메일을 읽는 것입니다. 외부의 자극적이고 정리된 정보가 시각 피질과 작업 기억을 강제로 지배하면, 뇌는 순간적으로 고도의 인지 긴장 모드에 돌입하여 잠재의식의 옅은 신경 회로(꿈의 기억)를 완전히 포맷해 버립니다. 따라서 뇌가 자연스럽게 반수면 모드를 서서히 이행하도록 침실 안에는 아날로그 펜과 종이 노트만을 가까이 두는 것이 좋습니다. 기상 후 최소 3분간은 외부 미디어와의 접촉을 차단하고 뇌 속의 고유 데이터 유출에 집중해야 합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "침대 머리맡 아날로그 기록 도구 배치",
-          "en": "Placing Notebook at Arm's Reach",
-          "ja": "ベッドの枕元へのアナログ記録ツールの配置",
-          "zh": "床头摆放模拟记录工具",
-          "es": "Colocar el cuaderno al alcance de la mano",
-          "fr": "Placer un carnet à portée de main",
-          "de": "Notizbuch in Reichweite platzieren",
-          "pt": "Colocar o Caderno ao Alcance da Mão",
-          "id": "Menempatkan Buku Catatan dalam Jangkauan"
+          "ko": "침대 머리맡 아날로그 기록 도구 배치"
         },
         "text": {
-          "ko": "침대 바로 옆 협탁이나 손이 닿는 위치에 펜과 메모 전용 아날로그 노트를 상시 고정해 둡니다. 스마트폰 녹음기 기능을 쓰더라도 다른 앱이 켜지지 않는 단순 음성 메모 기능만 실행 가능하게 화면을 설정합니다.",
-          "en": "Keep a paper journal and pen on your nightstand at all times. If you prefer audio recording, configure your phone so the voice memo application can be activated directly from the lock screen with a single press.",
-          "ja": "ベッドのすぐ隣のサイドテーブルなど、手が届く位置にペンとメモ専用のアナログノートを常時置いておきます。スマートフォンのレコーダー機能を使用する場合でも、他のアプリが起動しないシンプルな音声メモ機能だけが実行できるように画面を設定します。",
-          "zh": "在紧邻床边的床头柜或手够得着的位置常备钢笔和备忘录专用纸质笔记本。即使使用智能手机的录音机功能，也要进行屏幕设置，使其只能执行不会启动其他应用的简单语音备忘录功能。",
-          "es": "Mantenga un diario de papel y un bolígrafo en su mesita de noche en todo momento. Si prefiere la grabación de audio, configure su teléfono para que la aplicación de notas de voz se pueda activar directamente desde la pantalla de bloqueo con una sola pulsación.",
-          "fr": "Gardez un carnet et un stylo sur votre table de chevet. Si vous préférez l'enregistrement audio, configurez votre téléphone pour que l'application de mémos vocaux puisse être activée directement depuis l'écran de verrouillage.",
-          "de": "Bewahren Sie immer ein Notizbuch und einen Stift auf Ihrem Nachttisch auf. Wenn Sie Audioaufnahmen bevorzugen, konfigurieren Sie Ihr Telefon so, dass die Sprachmemo-App mit einem einzigen Druck direkt vom Sperrbildschirm aus aktiviert werden kann.",
-          "pt": "Mantenha um diário de papel e uma caneta na sua mesa de cabeceira em todos os momentos. Se preferir a gravação de áudio, configure o seu telemóvel para que a aplicação de notas de voz possa ser ativada diretamente a partir do ecrã de bloqueio com um único toque.",
-          "id": "Simpan buku catatan kertas dan pena di meja samping tempat tidur Anda setiap saat. Jika Anda lebih suka merekam audio, konfigurasikan ponsel Anda sehingga aplikasi memo suara dapat diaktifkan langsung dari layar kunci dengan sekali tekan."
+          "ko": "침대 바로 옆 협탁이나 손이 닿는 위치에 펜과 메모 전용 아날로그 노트를 상시 고정해 둡니다. 스마트폰 녹음기 기능을 쓰더라도 다른 앱이 켜지지 않는 단순 음성 메모 기능만 실행 가능하게 화면을 설정합니다."
         }
       },
       {
         "name": {
-          "ko": "기상 직후 신체 행동의 무의식적 가동",
-          "en": "Immediate Action Without Analysis",
-          "ja": "起床直後の身体行動の無意識的稼働",
-          "zh": "起床后立即启动无意识身体行动",
-          "es": "Acción inmediata sin análisis",
-          "fr": "Action immédiate sans analyse",
-          "de": "Sofortige Aktion ohne Analyse",
-          "pt": "Ação Imediata sem Análise",
-          "id": "Tindakan Segera Tanpa Analisis"
+          "ko": "기상 직후 신체 행동의 무의식적 가동"
         },
         "text": {
-          "ko": "잠에서 깨어난 순간 다른 잡념을 갖지 말고 즉각적으로 펜을 쥡니다. 머리에 울리는 멜로디의 허밍을 스마트폰에 녹음하거나, 꿈속에서 본 찰나의 문구와 파편적 이미지를 거침없이 노트에 휘갈겨 씁니다.",
-          "en": "The moment your eyes open, do not stretch or plan your day. Immediately grab the pen or press record. Humming a melody, drawing rough visual maps, or scrawling fragmented keywords should happen instantly.",
-          "ja": "目が覚めた瞬間、他の雑念を持たずに即座にペンを握ります。頭に響くメロディのハミングをスマートフォンに録音するか、夢の中で見た刹那のフレーズや断片的なイメージを躊躇なくノートに書き殴ります。",
-          "zh": "睁开眼的瞬间不要产生其他杂念，立刻拿起钢笔。将脑海中回荡的旋律哼唱记录在手机中，或者将梦中看到的刹那间语句和碎片式图像毫不犹豫地在笔记本上涂写下来。",
-          "es": "En el momento en que se abran los ojos, no se estire ni planifique su día. Agarre inmediatamente el bolígrafo o presione grabar. Tararear una melodía, dibujar mapas visuales aproximados o garabatear palabras clave fragmentadas debe ocurrir al instante.",
-          "fr": "Dès que vous ouvrez les yeux, ne vous étirez pas et ne planifiez pas votre journée. Saisissez immédiatement le stylo ou lancez l'enregistrement. Fredonner une mélodie, dessiner ou griffonner des mots-clés doit se faire instantanément.",
-          "de": "Strecken Sie sich im Moment des Aufwachens nicht und planen Sie nicht Ihren Tag. Greifen Sie sofort nach dem Stift oder drücken Sie auf Aufnahme. Das Summen einer Melodie, das Zeichnen grober Karten oder das Aufschreiben fragmentierter Schlüsselwörter sollte sofort geschehen.",
-          "pt": "No momento em que abrir os olhos, não se espreguice nem planeie o seu dia. Pegue imediatamente na caneta ou prima gravar. Cantarolar uma melodia, desenhar esboços visuais ou rabiscar palavras-chave fragmentadas deve acontecer instantaneamente.",
-          "id": "Saat mata Anda terbuka, jangan meregangkan tubuh atau merencanakan hari Anda. Segera ambil pena atau tekan rekam. Bersenandung melodi, menggambar peta visual kasar, atau mencoret-coret kata kunci yang terfragmentasi harus dilakukan secara instan."
+          "ko": "잠에서 깨어난 순간 다른 잡념을 갖지 말고 즉각적으로 펜을 쥡니다. 머리에 울리는 멜로디의 허밍을 스마트폰에 녹음하거나, 꿈속에서 본 찰나의 문구와 파편적 이미지를 거침없이 노트에 휘갈겨 씁니다."
         }
       },
       {
         "name": {
-          "ko": "자가 검열 배제와 날것의 데이터 축적",
-          "en": "Avoiding Self-Censorship",
-          "ja": "自己検閲の排除と生データの蓄積",
-          "zh": "排除自我审查与原始数据积累",
-          "es": "Evitar la autocensura",
-          "fr": "Éviter l'autocensure",
-          "de": "Selbstzensur vermeiden",
-          "pt": "Evitar a Autocensura",
-          "id": "Menghindari Sensor Mandiri"
+          "ko": "자가 검열 배제와 날것의 데이터 축적"
         },
         "text": {
-          "ko": "적는 동안 '이것이 논리적으로 말이 되는가?', '이상한 이야기인가?' 등의 자기 평가를 완벽하게 배제합니다. 오직 가공되지 않은 잠재의식의 생 데이터를 종이에 쏟아내는 데 집중하고, 분석과 논리 정제는 오후 시간대에 실행합니다.",
-          "en": "Suppress any self-judgment during the extraction process. Do not ask if the idea is good, logical, or readable. Concentrate solely on dumping the raw subconscious data onto paper. Analysis and refinement are deferred until later in the afternoon.",
-          "ja": "書いている間は「これは論理的に辻褄が合うか？」「おかしな話ではないか？」といった自己評価を完全に排除します。ただ加工されていない潜在意識の生データを紙に吐き出すことに集中し、分析や論理的な精製は午後に行います。",
-          "zh": "在记录期间，完全排除“这在逻辑上通顺吗？”、“是不是奇怪的话？”等自我评价。只专注于将未经加工的潜意识原始数据倾泻到纸张上，分析和逻辑梳理留到下午时间段进行。",
-          "es": "Suprima cualquier autojuicio durante el proceso de extracción. No se pregunte si la idea es buena, lógica o legible. Concéntrese únicamente en descargar los datos crudos del subconsciente en el papel. El análisis y el refinamiento se postergan para más tarde en la tarde.",
-          "fr": "Supprimez tout jugement de valeur pendant le processus d'extraction. Ne vous demandez pas si l'idée est bonne, logique ou lisible. Concentrez-vous uniquement sur le déversement des données brutes sur le papier.",
-          "de": "Unterdrücken Sie während des Extraktionsprozesses jegliche Selbstkritik. Fragen Sie nicht, ob die Idee gut, logisch oder lesbar ist. Konzentrieren Sie sich ausschließlich darauf, die rohen unbewussten Daten auf Papier zu bringen.",
-          "pt": "Elimine qualquer julgamento durante o processo de extração. Não pergunte se a ideia é boa, lógica ou legível. Concentre-se apenas em descarregar os dados brutos do subconsciente para o papel. A análise e o refinamento são adiados para mais tarde.",
-          "id": "Tekan penilaian diri selama proses ekstraksi. Jangan bertanya apakah idenya bagus, logis, atau terbaca. Konsentrasikan semata-mata pada memindahkan data bawah sadar mentah ke kertas. Analisis ditangguhkan hingga sore hari."
+          "ko": "적는 동안 '이것이 논리적으로 말이 되는가?', '이상한 이야기인가?' 등의 자기 평가를 완벽하게 배제합니다. 오직 가공되지 않은 잠재의식의 생 데이터를 종이에 쏟아내는 데 집중하고, 분석과 논리 정제는 오후 시간대에 실행합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "아침에 깼을 때 꿈이 전혀 기억나지 않는 날이 대부분인데 어떻게 해야 하나요?",
-          "en": "What if I wake up and remember absolutely nothing from my dreams?",
-          "ja": "朝起きたときに夢がまったく思い出せない日がほとんどですが、どうすればよいですか？",
-          "zh": "早晨醒来时大部分日子都完全记不得梦境，该怎么办？",
-          "es": "¿Qué pasa si me despierto y no recuerdo absolutamente nada de mis sueños?",
-          "fr": "Que faire si je me réveille sans aucun souvenir de mes rêves ?",
-          "de": "Was ist, wenn ich aufwache und mich an absolut nichts aus meinen Träumen erinnere?",
-          "pt": "E se eu acordar e não me lembrar de absolutamente nada dos meus sonhos?",
-          "id": "Bagaimana jika saya bangun dan tidak ingat apa pun dari mimpi saya?"
+          "ko": "아침에 깼을 때 꿈이 전혀 기억나지 않는 날이 대부분인데 어떻게 해야 하나요?"
         },
         "answer": {
-          "ko": "꿈 자체가 기억나지 않아도 괜찮습니다. 기상 직후 뇌가 몽롱한 상태에서 백지에 '떠오르는 의식의 흐름(Stream of Consciousness)'을 아무 단어나 3줄 이상 무작위로 써 내려가십시오. 이 습관 또한 자아 검열을 끄고 무의식의 영역을 예열하여 낮 시간대의 창조적 유연성을 획기적으로 향상시킵니다.",
-          "en": "That is normal. If you remember no dreams, perform a stream-of-consciousness writing exercise instead. Free-write three lines of whatever words happen to cross your mind without filtering. This still acts as a cognitive warm-up, unlocking lateral thinking and preparing the brain for creative performance during the day.",
-          "ja": "夢自体が思い出せなくても大丈夫です。起床直後、脳がぼんやりとした状態で、白紙に「浮かび上がる意識の流れ（Stream of Consciousness）」を何の単語でもいいので3行以上ランダムに書き連ねてください。この習慣も自己検閲をオフにし、無意識の領域を予熱することで、昼間の時間帯の創造的柔軟性を画期的に向上させます。",
-          "zh": "记不得梦境本身也完全没有关系。在起床后大脑模糊的状态下，在白纸上随便写下3行以上“脑海中浮现的意识流（Stream of Consciousness）”，随便什么词汇都可以。这种习惯同样能关闭自我审查，预热无意识区域，显著提升白天的创造性灵活性。",
-          "es": "Es normal. Si no recuerda ningún sueño, realice un ejercicio de escritura de flujo de conciencia en su lugar. Escriba libremente tres líneas de cualquier palabra que se le ocurra sin filtrar. Esto funciona como un calentamiento cognitivo, desbloqueando el pensamiento lateral y preparando al cerebro para el rendimiento creativo durante el día.",
-          "fr": "C'est normal. Si vous ne vous souvenez d'aucun rêve, faites un exercice d'écriture en flux de conscience. Rédigez librement trois lignes de mots qui vous viennent à l'esprit. Cela agit comme un échauffement cognitif.",
-          "de": "Das ist normal. Wenn Sie sich an keine Träume erinnern, führen Sie stattdessen eine Schreibübung des Bewusstseinsstroms durch. Schreiben Sie ungefiltert drei Zeilen mit Wörtern auf, die Ihnen gerade durch den Kopf gehen. Dies dient als kognitives Aufwärmen.",
-          "pt": "Isso é normal. Se não se lembrar de nenhum sonho, faça um exercício de escrita de fluxo de consciência. Escreva livremente três linhas de quaisquer palavras que lhe passem pela cabeça, sem filtrar. Isto funciona como um aquecimento cognitivo.",
-          "id": "Itu normal. Jika Anda tidak mengingat mimpi, lakukan latihan menulis aliran kesadaran sebagai gantinya. Tulis bebas tiga baris kata apa pun yang terlintas di pikiran Anda tanpa menyaring. Ini tetap bertindak sebagai pemanasan kognitif."
+          "ko": "꿈 자체가 기억나지 않아도 괜찮습니다. 기상 직후 뇌가 몽롱한 상태에서 백지에 '떠오르는 의식의 흐름(Stream of Consciousness)'을 아무 단어나 3줄 이상 무작위로 써 내려가십시오. 이 습관 또한 자아 검열을 끄고 무의식의 영역을 예열하여 낮 시간대의 창조적 유연성을 획기적으로 향상시킵니다."
         }
       }
-    ],
-    "pubDate": "2026-04-25",
-    "updatedDate": "2026-04-25"
+    ]
   }
 }

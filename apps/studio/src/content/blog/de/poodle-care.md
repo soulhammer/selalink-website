@@ -16,16 +16,16 @@ faqs:
     answer: "Pudel kauen oft aus Langeweile, wenn sie geistig nicht ausgelastet sind. Bieten Sie statt einfachem Kauspielzeug vermehrt Denkspiele und Schnüffelteppiche an."
 ---
 
-Pudel gelten als eine der intelligentesten Hunderassen der Welt. Sie sind zwar sehr lernwillig und feinfühlig für die Gefühle ihrer Besitzer, können sich aber aufgrund ihres aktiven Geistes leicht langweilen und stressen. 🐩 Da ihre Hängeohren den Gehörgang bedecken, sind sie aufgrund schlechter Belüftung anfällig für chronische Ohrentzündungen. Heute gibt PetSelf Tipps, wie Sie Ihren intelligenten Pudel geistig auslasten können, und stellt eine 3-Schritte-Pflegeroutine vor, um seine Ohren sauber und gesund zu halten.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Veterinärmedizinische & verhaltensbedingte Nachweise
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Inhalt basiert auf <strong>Offizieller Rasseführer des American Kennel Clubs (AKC) und IAABC-Verhaltensprotokolle</strong>.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </div>
 </div>
@@ -43,7 +43,7 @@ Pudel gelten als eine der intelligentesten Hunderassen der Welt. Sie sind zwar s
 
 ## 1. Körpersprache des Pudels: Unterscheidung zwischen Forderung und Stress
 
-Aufgrund ihrer Intelligenz kommunizieren Pudel aktiv über die Körpersprache. Typische Signale sind 'Pfotenheben' und 'Blinzeln'. Wenn ein Pudel eine Vorderpfote hebt, sieht das wie eine Bitte um ein Leckerli aus, ist aber oft eine Botschaft wie 'Gib mir Aufmerksamkeit' oder ein Beschwichtigungssignal mit der Bedeutung 'Ich bin etwas angespannt, bitte sei sanft'. Sanftes Anstarren und langsames Blinzeln ist ihre Art, Vertrauen zu zeigen.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Aufgrund ihrer Intelligenz kommunizieren Pudel aktiv über die Körpersprache. T
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Geistige Auslastung mit Denkspielzeug</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Nutzen Sie neben Spaziergängen auch Labyrinth-Näpfe oder Schnüffelmatten, um ihren aktiven Geist zu fordern und überschüssige Energie abzubauen.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Aufgrund ihrer Intelligenz kommunizieren Pudel aktiv über die Körpersprache. T
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Ohrenkontrolle und sanfte Reinigungsmassage</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Geben Sie 2-3 Tropfen Ohrreiniger in den Gehörgang, massieren Sie die Ohrbasis sanft und wischen Sie gelösten Schmalz mit einem Wattepad ab, um Ohrentzündungen vorzubeugen.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Aufgrund ihrer Intelligenz kommunizieren Pudel aktiv über die Körpersprache. T
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Bürsten gegen Verfilzungen und Hautprobleme</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Da das lockige Fell leicht verfilzt, bürsten Sie es täglich mit einer Zupfbürste, um abgestorbene Haare zu entfernen und die Belüftung der Haut zu fördern.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Aufgrund ihrer Intelligenz kommunizieren Pudel aktiv über die Körpersprache. T
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Aufgrund ihrer Intelligenz kommunizieren Pudel aktiv über die Körpersprache. T
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ja, das ist eine normale Selbstreinigungsreaktion. Sie hilft, den Reiniger samt gelöstem Schmutz herauszuschütteln. Wischen Sie einfach die Ohrmuschel sanft ab.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Aufgrund ihrer Intelligenz kommunizieren Pudel aktiv über die Körpersprache. T
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Pudel kauen oft aus Langeweile, wenn sie geistig nicht ausgelastet sind. Bieten Sie statt einfachem Kauspielzeug vermehrt Denkspiele und Schnüffelteppiche an.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </details>
 </div>

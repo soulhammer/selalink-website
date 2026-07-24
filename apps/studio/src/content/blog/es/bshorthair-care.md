@@ -16,23 +16,23 @@ faqs:
     answer: "Valoran su independencia y se sienten inseguros cuando sus patas pierden contacto con el suelo. Abrazarlos a la fuerza puede dañar la relación."
 ---
 
-Con sus caras redondas y complexión musculosa, los British Shorthairs son gigantes gentiles. Sin embargo, su robusto cuerpo hace que la obesidad dañe sus articulaciones. Además, son propensos a la Cardiomiopatía Hipertrófica (HCM), empeorada por el sobrepeso. Hoy, PetSelf explica su lenguaje y comparte una rutina de 3 pasos.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Evidencia Veterinaria y Comportamental
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Estándares de cría de GCCF para British Shorthairs y pautas de obesidad de AAFP</strong>.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 British Shorthair Perfil principal
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil media</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 años</span></div>
@@ -43,7 +43,7 @@ Con sus caras redondas y complexión musculosa, los British Shorthairs son gigan
 
 ## 1. Lenguaje corporal del British Shorthair: mirada distante y movimiento de cola
 
-A los British Shorthairs no les gusta que los retengan y muestran confianza a través de la 'mirada suave' a distancia. Por el contrario, cuando están molestos, muestran un 'movimiento de cola'. Cargarlos en ese momento les provocará estrés.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ A los British Shorthairs no les gusta que los retengan y muestran confianza a tr
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Control estricto de la dieta mediante báscula</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Para prevenir la cardiomiopatía hipertrófica (HCM) por obesidad, pese la comida en una báscula digital.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ A los British Shorthairs no les gusta que los retengan y muestran confianza a tr
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Cepillado del subpelo con cepillo de goma para gatos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Aunque son de pelo corto, su pelaje es denso. Cepille durante 5 minutos con cepillo de goma para retirar el subpelo muerto.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ A los British Shorthairs no les gusta que los retengan y muestran confianza a tr
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Control de frecuencia respiratoria para HCM y juego moderado</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Verifique que su frecuencia respiratoria al dormir sea inferior a 30 respiraciones por minuto y juegue de forma moderada con bolas de lana.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ A los British Shorthairs no les gusta que los retengan y muestran confianza a tr
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Embora o tratamento veterinário é importante, proporcionar um ambiente seguro (rampas, espaços verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ A los British Shorthairs no les gusta que los retengan y muestran confianza a tr
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Tienen un cuerpo robusto y son propensos a la Cardiomiopatía Hipertrófica (HCM). La obesidad obliga al corazón a esforzarse más, elevando el riesgo de fallo cardíaco.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ A los British Shorthairs no les gusta que los retengan y muestran confianza a tr
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Valoran su independencia y se sienten inseguros cuando sus patas pierden contacto con el suelo. Abrazarlos a la fuerza puede dañar la relación.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </details>
 </div>

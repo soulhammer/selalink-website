@@ -16,23 +16,23 @@ faqs:
     answer: "Indica daño por alta temperatura o infección por hongos (Saprolegnia). Reduce la temperatura a 16°C e incrementa los cambios de agua."
 ---
 
-El ajolote es un anfibio acuático fascinante capaz de regenerar sus extremidades. Según la organización Amphibian Ark, es extremadamente sensible a temperaturas superiores a 20°C. El agua debe mantenerse entre 16°C ~ 18°C y se debe evitar la grava para impedir la obstrucción intestinal.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Evidencia Veterinaria y Comportamental
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Protocolo Veterinario Internacional Amphibian Ark</strong>.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Ajolote / Axolote (Axolotl) Perfil principal
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil media</span><span class="font-bold text-slate-800 dark:text-slate-200">10 - 15 años</span></div>
@@ -43,7 +43,7 @@ El ajolote es un anfibio acuático fascinante capaz de regenerar sus extremidade
 
 ## 1. Comunicación del Ajolote: Curvatura de Branquias y Bostezo de Fondo
 
-Las branquias plumosas rojas son indicadores de la calidad del agua. Si se curvan hacia adelante como anzuelos, el ajolote sufre estrés por temperatura o amoníaco.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Las branquias plumosas rojas son indicadores de la calidad del agua. Si se curva
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Control de Temperatura (16°C ~ 18°C) y Refrigeración</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Comprueba que la temperatura no supere los 18°C.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Las branquias plumosas rojas son indicadores de la calidad del agua. Si se curva
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Limpieza de Desechos con Sifón y Luz Tenue</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Mantén el acuario en penumbra y aspira los desechos con sifón.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Las branquias plumosas rojas son indicadores de la calidad del agua. Si se curva
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Alimentación con Pinzas y Examen de Branquias</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Ofrece pellets hundibles con pinzas y revisa el color rojo de sus branquias.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Las branquias plumosas rojas son indicadores de la calidad del agua. Si se curva
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Embora o tratamento veterinário é importante, proporcionar um ambiente seguro (rampas, espaços verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Las branquias plumosas rojas son indicadores de la calidad del agua. Si se curva
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      ¡No! Los ajolotes tragan agua para comer y engullirán la grava, provocando una obstrucción intestinal mortal. Usa un acuario con fondo desnudo.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Las branquias plumosas rojas son indicadores de la calidad del agua. Si se curva
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Indica daño por alta temperatura o infección por hongos (Saprolegnia). Reduce la temperatura a 16°C e incrementa los cambios de agua.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </details>
 </div>

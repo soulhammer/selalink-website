@@ -16,23 +16,23 @@ faqs:
     answer: "Le poil du Bichon est fin et frisé. Sans brossage, il s'emmêle. Les nœuds serrent la peau, bloquent la circulation sanguine et créent des dermatites."
 ---
 
-Le Bichon Frisé est célèbre pour son aspect cotonneux et sa joie de vivre. Cependant, son poil frisé s'emmêle facilement à la racine, provoquant des dermatites. Les courses folles en intérieur (FRAPs) fatiguent ses articulations. Aujourd'hui, PetSelf étudie son langage et partage une routine de soins en 3 étapes.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Preuves Vétérinaires et Comportementales
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Normes du Bichon Frise Club of America et directives de santé de l'AVMA</strong>.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Bichon Frisé Profil principal
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 ans</span></div>
@@ -43,7 +43,7 @@ Le Bichon Frisé est célèbre pour son aspect cotonneux et sa joie de vivre. Ce
 
 ## 1. Langage corporel du Bichon Frisé : quart d'heure de folie et recherche d'attention
 
-Lorsqu'il est excité, le Bichon montre son 'Bichon Blitz' (courir follement) pour brûler de l'énergie. De plus, tapoter le bras de son maître ('tapotement de patte') est un signal affectueux pour demander de l'attention.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Lorsqu'il est excité, le Bichon montre son 'Bichon Blitz' (courir follement) po
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Jeu de rapport de jouet et traction douce</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Pour éviter les collisions avec les meubles, faites un jeu de traction douce le matin pour brûler de l'énergie.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Lorsqu'il est excité, le Bichon montre son 'Bichon Blitz' (courir follement) po
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi : 10 minutes de brossage avec carde et peigne en métal</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Vaporisez d'abord un spray de brossage, puis brossez le ventre et l'intérieur des pattes avec la carde. Suivez avec le peigne en métal.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Lorsqu'il est excité, le Bichon montre son 'Bichon Blitz' (courir follement) po
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir : Brossage du contour des yeux et séchage des larmes</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Peignez doucement le poil autour des yeux avec un peigne facial fin et séchez l'excès de larmes avec un coton.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Lorsqu'il est excité, le Bichon montre son 'Bichon Blitz' (courir follement) po
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Lorsqu'il est excité, le Bichon montre son 'Bichon Blitz' (courir follement) po
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Le Bichon Blitz est une libération émotionnelle normale. Ne l'attrapez pas et ne criez pas, cela l'exciterait. Fixez les tapis pour éviter les glissades et attendez.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Lorsqu'il est excité, le Bichon montre son 'Bichon Blitz' (courir follement) po
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Le poil du Bichon est fin et frisé. Sans brossage, il s'emmêle. Les nœuds serrent la peau, bloquent la circulation sanguine et créent des dermatites.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </details>
 </div>

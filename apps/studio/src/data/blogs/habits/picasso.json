@@ -1,218 +1,72 @@
 {
   "picasso": {
     "title": {
-      "en": "Picasso's flexible immersion method of immediately switching to the next canvas when ideas become stagnant.",
-      "ko": "아이디어가 정체될 때 즉시 옆 화폭으로 스위칭한 피카소의 유연 몰입법",
-      "ja": "アイデアが停滞したらすぐに次のキャンバスに切り替えるピカソの柔軟な没入手法。",
-      "zh": "毕加索灵活的沉浸式方法，当想法停滞时立即切换到下一张画布。",
-      "es": "El método de inmersión flexible de Picasso de pasar inmediatamente al siguiente lienzo cuando las ideas se estancan.",
-      "fr": "La méthode d'immersion flexible de Picasso consistant à passer immédiatement à la toile suivante lorsque les idées stagnent.",
-      "de": "Picassos flexible Immersionsmethode, bei der Ideen sofort zur nächsten Leinwand wechseln, wenn sie stagnieren.",
-      "pt": "O método de imersão flexível de Picasso de mudar imediatamente para a próxima tela quando as ideias ficam estagnadas.",
-      "id": "Metode pencelupan Picasso yang fleksibel untuk segera beralih ke kanvas berikutnya ketika ide menjadi stagnan."
+      "ko": "아이디어가 정체될 때 즉시 옆 화폭으로 스위칭한 피카소의 유연 몰입법"
     },
     "description": {
-      "en": "The master of modern art who founded Cubism, burned his creative flame in the light of a single candle at night, completely blocking out distractions.",
-      "ko": "입체주의를 창시한 현대 미술의 거장으로, 밤 시간대에 방해 요소를 완전히 차단한 단일 촛불 빛 속에서 창조적 불꽃을 태웠습니다.",
-      "ja": "キュビズムを創始した現代美術の巨匠は、夜に一本のキャンドルの明かりで創作の炎を燃やし、気を散らすものを完全に遮断しました。",
-      "zh": "这位立体主义创始人的现代艺术大师，在夜晚以一根蜡烛的光芒燃烧着他的创作火焰，完全排除了杂念。",
-      "es": "El maestro del arte moderno que fundó el cubismo encendía su llama creativa a la luz de una sola vela por la noche, bloqueando por completo las distracciones.",
-      "fr": "Le maître de l'art moderne qui a fondé le cubisme, brûlait sa flamme créatrice à la lumière d'une seule bougie la nuit, bloquant complètement les distractions.",
-      "de": "Der Meister der modernen Kunst, der den Kubismus begründete, ließ seine kreative Flamme nachts im Licht einer einzelnen Kerze entzünden und schirmte dabei Ablenkungen vollständig aus.",
-      "pt": "O mestre da arte moderna que fundou o cubismo, queimou sua chama criativa à luz de uma única vela à noite, bloqueando completamente as distrações.",
-      "id": "Ahli seni modern yang mendirikan Kubisme, membakar api kreatifnya dalam cahaya satu lilin di malam hari, sepenuhnya menghalangi gangguan."
+      "ko": "입체주의를 창시한 현대 미술의 거장으로, 밤 시간대에 방해 요소를 완전히 차단한 단일 촛불 빛 속에서 창조적 불꽃을 태웠습니다."
     },
     "authority": {
-      "en": "John Richardson, *A Life of Picasso* (1991) & Cognitive Neuroscientific Studies",
-      "ko": "John Richardson, *A Life of Picasso* (1991)",
-      "ja": "ジョン・リチャードソン、*ピカソの生涯* (1991) & 認知神経科学研究",
-      "zh": "约翰·理查森，*毕加索的一生* (1991) & 认知神经科学研究",
-      "es": "John Richardson, *Una vida de Picasso* (1991) y estudios neurocientíficos cognitivos",
-      "fr": "John Richardson, *Une vie de Picasso* (1991) & Cognitive Neuroscientific Studies",
-      "de": "John Richardson, *A Life of Picasso* (1991) & Cognitive Neuroscientific Studies",
-      "pt": "John Richardson, *A Life of Picasso* (1991) & Cognitive Neuroscientific Studies",
-      "id": "John Richardson, *A Life of Picasso* (1991) & Studi Ilmu Saraf Kognitif"
+      "ko": "Picasso 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "en": "Pablo Picasso, a genius Spanish painter who created a vast amount of borderless, destructive inspiration throughout his life, including paintings, sculptures, and ceramics. He laid out dozens of unfinished canvases all over his huge atelier at the same time and started working on them. When inspiration stopped while painting a Cubist work and he felt cognitive stagnation in his brain, he did not force the brush, but immediately picked up the brush and moved to a completely different still life or portrait canvas next to him and continued working. This flexible task-changing routine was the driving force behind the creation of tens of thousands of masterpieces throughout his career.\n\nToday on BuildSelf, we introduce the cognitive scientific principles of the habit of 'moving and drawing multiple unfinished canvases in the studio at the same time' that he adheres to, as well as a 3-step guide that modern people can easily practice in their daily lives.",
-      "ko": "20세기 현대 미술을 뒤흔든 불세출의 거장이자 입체주의(Cubism)의 창시자로, 회화뿐만 아니라 조각, 도자기 등 경계 없는 파괴적 영감을 평생 동안 방대하게 창조해 낸 스페인의 천재 화가 파블로 피카소. 그는 자신의 거대한 아틀리에 사방에 수십 개의 미완성 캔버스들을 동시에 깔아두고 작업을 기동했습니다. 그는 입체주의 작품을 그리다 영감이 멈추고 뇌에 인지적 정체가 느껴지면 억지로 붓을 쥐어짜지 않고, 즉시 붓을 들고 옆에 놓인 전혀 다른 정물화나 초상화 캔버스로 자리를 이동하여 작업을 계속했습니다. 이처럼 유연한 과제 전환 루틴은 그의 전 생애에 걸쳐 수만 점의 명작을 창조해 낸 원동력이었습니다.\n\n오늘 BuildSelf에서는 그가 고수한 '작업실 여러 미완성 캔버스를 동시에 옮겨 그리며 몰두하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다.",
-      "ja": "この歴史的習慣の実践において：20 (Cubism) , , . . , . . この歴史的習慣の実践において： BuildSelf ' ' 3 .",
-      "zh": "在这一历史性惯例的实践中：20 (Cubism) , , . . , . . 在这一历史性惯例的实践中： BuildSelf ' ' 3 .",
-      "es": "Pablo Picasso, un genio pintor español que creó una gran cantidad de inspiración destructiva y sin fronteras a lo largo de su vida, incluidas pinturas, esculturas y cerámicas. Colocó docenas de lienzos sin terminar al mismo tiempo en todo su enorme taller y comenzó a trabajar en ellos. Cuando la inspiración se detuvo mientras pintaba una obra cubista y sintió un estancamiento cognitivo en su cerebro, no forzó el pincel, sino que inmediatamente lo tomó y se trasladó a una naturaleza muerta o un retrato completamente diferente junto a él y continuó trabajando. Esta rutina flexible de cambio de tareas fue la fuerza impulsora detrás de la creación de decenas de miles de obras maestras a lo largo de su carrera.\n\nHoy en BuildSelf, presentamos los principios científicos cognitivos del hábito de \"mover y dibujar múltiples lienzos sin terminar en el estudio al mismo tiempo\" al que él se adhiere, así como una guía de 3 pasos que la gente moderna puede practicar fácilmente en su vida diaria.",
-      "fr": "Pablo Picasso, un peintre espagnol de génie qui a créé une grande quantité d'inspiration destructrice et sans frontières tout au long de sa vie, notamment des peintures, des sculptures et des céramiques. Il a disposé en même temps des dizaines de toiles inachevées dans tout son immense atelier et a commencé à y travailler. Lorsque l'inspiration s'est arrêtée alors qu'il peignait une œuvre cubiste et qu'il a ressenti une stagnation cognitive dans son cerveau, il n'a pas forcé le pinceau, mais a immédiatement pris le pinceau et s'est déplacé vers une nature morte ou une toile de portrait complètement différente à côté de lui et a continué à travailler. Cette routine flexible de changement de tâches a été le moteur de la création de dizaines de milliers de chefs-d’œuvre tout au long de sa carrière.\n\nAujourd'hui, sur BuildSelf, nous présentons les principes scientifiques cognitifs de l'habitude de « déplacer et dessiner plusieurs toiles inachevées en studio en même temps » auxquels il adhère, ainsi qu'un guide en 3 étapes que les gens modernes peuvent facilement mettre en pratique dans leur vie quotidienne.",
-      "de": "Pablo Picasso, ein genialer spanischer Maler, der im Laufe seines Lebens eine große Menge grenzenloser, destruktiver Inspiration schuf, darunter Gemälde, Skulpturen und Keramik. Er breitete gleichzeitig Dutzende unvollendeter Leinwände in seinem riesigen Atelier aus und begann mit der Arbeit daran. Als die Inspiration beim Malen eines kubistischen Werks aufhörte und er eine kognitive Stagnation in seinem Gehirn verspürte, übte er keinen Druck auf den Pinsel aus, sondern griff sofort zum Pinsel, bewegte sich zu einem völlig anderen Stillleben oder einer Porträtleinwand neben sich und arbeitete weiter. Diese flexible Routine zur Aufgabenänderung war die treibende Kraft hinter der Schaffung Zehntausender Meisterwerke im Laufe seiner Karriere.\n\nHeute stellen wir auf BuildSelf die kognitionswissenschaftlichen Prinzipien der Gewohnheit vor, „mehrere unfertige Leinwände im Studio gleichzeitig zu bewegen und zu zeichnen“, an die er festhält, sowie eine dreistufige Anleitung, die moderne Menschen problemlos in ihrem täglichen Leben anwenden können.",
-      "pt": "Pablo Picasso, um gênio pintor espanhol que criou uma grande quantidade de inspiração destrutiva e sem fronteiras ao longo de sua vida, incluindo pinturas, esculturas e cerâmicas. Ele expôs dezenas de telas inacabadas por todo o seu enorme ateliê ao mesmo tempo e começou a trabalhar nelas. Quando a inspiração parou enquanto pintava uma obra cubista e ele sentiu estagnação cognitiva em seu cérebro, ele não forçou o pincel, mas imediatamente pegou o pincel e mudou-se para uma natureza morta ou tela de retrato completamente diferente ao lado dele e continuou trabalhando. Essa rotina flexível de mudança de tarefas foi a força motriz por trás da criação de dezenas de milhares de obras-primas ao longo de sua carreira.\n\nHoje, no BuildSelf, apresentamos os princípios científicos cognitivos do hábito de 'mover e desenhar várias telas inacabadas no estúdio ao mesmo tempo' que ele segue, bem como um guia de 3 etapas que as pessoas modernas podem praticar facilmente em suas vidas diárias.",
-      "id": "Pablo Picasso, seorang pelukis Spanyol jenius yang menciptakan banyak sekali inspirasi destruktif tanpa batas sepanjang hidupnya, termasuk lukisan, patung, dan keramik. Dia meletakkan lusinan kanvas yang belum selesai di seluruh studio besarnya pada saat yang bersamaan dan mulai mengerjakannya. Ketika inspirasi berhenti saat melukis sebuah karya Kubisme dan dia merasakan stagnasi kognitif di otaknya, dia tidak memaksakan kuasnya, tetapi segera mengambil kuasnya dan pindah ke lukisan still life atau kanvas potret yang sama sekali berbeda di sebelahnya dan terus bekerja. Rutinitas perubahan tugas yang fleksibel ini menjadi kekuatan pendorong di balik penciptaan puluhan ribu mahakarya sepanjang kariernya.\n\nHari ini di BuildSelf, kami memperkenalkan prinsip ilmiah kognitif tentang kebiasaan 'memindahkan dan menggambar beberapa kanvas yang belum selesai di studio secara bersamaan' yang dianutnya, serta panduan 3 langkah yang dapat dengan mudah dipraktikkan oleh orang modern dalam kehidupan sehari-hari."
+      "ko": "20세기 현대 미술을 뒤흔든 불세출의 거장이자 입체주의(Cubism)의 창시자로, 회화뿐만 아니라 조각, 도자기 등 경계 없는 파괴적 영감을 평생 동안 방대하게 창조해 낸 스페인의 천재 화가 파블로 피카소. 그는 자신의 거대한 아틀리에 사방에 수십 개의 미완성 캔버스들을 동시에 깔아두고 작업을 기동했습니다. 그는 입체주의 작품을 그리다 영감이 멈추고 뇌에 인지적 정체가 느껴지면 억지로 붓을 쥐어짜지 않고, 즉시 붓을 들고 옆에 놓인 전혀 다른 정물화나 초상화 캔버스로 자리를 이동하여 작업을 계속했습니다. 이처럼 유연한 과제 전환 루틴은 그의 전 생애에 걸쳐 수만 점의 명작을 창조해 낸 원동력이었습니다.\n\n오늘 포스트에서는 그가 고수한 '작업실 여러 미완성 캔버스를 동시에 옮겨 그리며 몰두하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다."
     },
     "whyTitle": {
-      "en": "Analysis of the brain science principles that lead to success",
-      "ko": "성공을 자아내는 脳科学的 원리 분석",
-      "ja": "成功に導く脳科学原理の分析",
-      "zh": "分析导致成功的脑科学原理",
-      "es": "Análisis de los principios de las ciencias del cerebro que conducen al éxito.",
-      "fr": "Analyse des principes scientifiques du cerveau qui mènent au succès",
-      "de": "Analyse der hirnwissenschaftlichen Prinzipien, die zum Erfolg führen.",
-      "pt": "Análise dos princípios da ciência do cérebro que levam ao sucesso",
-      "id": "Analisis prinsip-prinsip ilmu otak yang mengarah pada kesuksesan"
+      "ko": "성공을 자아내는 뇌과학적 원리 분석"
     },
     "whyDesc": {
-      "en": "If you force yourself to continue doing the same type of complex task when your attention begins to diverge, you will experience 'Attention Residue' depletion, which rapidly depletes the brain's frontal lobe cognitive control resources. Like Picasso, by flexibly switching between 2-3 completely different tasks (Attention Switching), previously used brain nerve areas take a break and new brain neural networks awaken, minimizing fatigue and preserving concentration for a long time.",
-      "ko": "주의가 분산되기 시작했을 때 같은 종류의 복잡한 업무를 억지로 지속하면 뇌의 전두엽 인지 통제 자원이 급격히 소모되는 '주의 잔류(Attention Residue)' 고갈을 겪게 됩니다. 피카소처럼 완전히 결이 다른 2~3가지의 작업을 유연하게 스위칭(Attention Switching)하면, 이전에 쓰이던 뇌 신경 영역은 휴식을 취하고 새로운 뇌 신경망이 각성하여 피로를 최소화하며 집중력을 장시간 보존할 수 있습니다.",
-      "ja": "注意が発散し始めたときに同じ種類の複雑な作業を無理に続けようとすると、「注意残留」の枯渇が起こり、脳の前頭葉の認知制御リソースが急速に消耗します。ピカソのように、2〜3のまったく異なるタスクを柔軟に切り替える（注意スイッチング）ことにより、それまで使用されていた脳神経領域が休憩し、新しい脳神経ネットワークが目覚め、疲労が最小限に抑えられ、集中力が長時間維持されます。",
-      "zh": "如果当你的注意力开始分散时，你强迫自己继续做同样类型的复杂任务，你就会经历“注意力残留”耗尽，这会迅速耗尽大脑额叶认知控制资源。像毕加索一样，通过在2-3个完全不同的任务之间灵活切换（注意力切换），先前使用的大脑神经区域得到休息，新的大脑神经网络被唤醒，从而最大限度地减少疲劳并长时间保持注意力集中。",
-      "es": "Si se obliga a continuar haciendo el mismo tipo de tarea compleja cuando su atención comienza a divergir, experimentará un agotamiento de los \"residuos de atención\", lo que rápidamente agota los recursos de control cognitivo del lóbulo frontal del cerebro. Al igual que Picasso, al cambiar de forma flexible entre 2 o 3 tareas completamente diferentes (cambio de atención), las áreas nerviosas cerebrales utilizadas anteriormente se toman un descanso y se despiertan nuevas redes neuronales cerebrales, lo que minimiza la fatiga y preserva la concentración durante mucho tiempo.",
-      "fr": "Si vous vous forcez à continuer à effectuer le même type de tâche complexe lorsque votre attention commence à diverger, vous ressentirez un épuisement des « résidus d'attention », qui épuisera rapidement les ressources de contrôle cognitif du lobe frontal du cerveau. Comme Picasso, en basculant de manière flexible entre 2 ou 3 tâches complètement différentes (Attention Switching), les zones nerveuses cérébrales précédemment utilisées font une pause et de nouveaux réseaux neuronaux cérébraux s'éveillent, minimisant ainsi la fatigue et préservant la concentration pendant longtemps.",
-      "de": "Wenn Sie sich dazu zwingen, die gleiche Art von komplexer Aufgabe fortzusetzen, wenn Ihre Aufmerksamkeit zu divergieren beginnt, werden Sie eine Erschöpfung der „Aufmerksamkeitsrückstände“ erleben, die die kognitiven Kontrollressourcen des Frontallappens des Gehirns schnell erschöpft. Wie bei Picasso werden durch den flexiblen Wechsel zwischen 2-3 völlig unterschiedlichen Aufgaben (Attention Switching) zuvor genutzte Hirnnervenbereiche unterbrochen und neue neuronale Netze des Gehirns erwachen, wodurch Ermüdungserscheinungen minimiert und die Konzentration für lange Zeit erhalten bleibt.",
-      "pt": "Se você se forçar a continuar fazendo o mesmo tipo de tarefa complexa quando sua atenção começar a divergir, você experimentará o esgotamento do 'resíduo de atenção', que esgota rapidamente os recursos de controle cognitivo do lobo frontal do cérebro. Tal como Picasso, ao alternar de forma flexível entre 2 a 3 tarefas completamente diferentes (Troca de Atenção), as áreas nervosas cerebrais anteriormente utilizadas fazem uma pausa e novas redes neurais cerebrais despertam, minimizando a fadiga e preservando a concentração por um longo tempo.",
-      "id": "Jika Anda memaksakan diri untuk terus melakukan jenis tugas kompleks yang sama ketika perhatian Anda mulai menyimpang, Anda akan mengalami penipisan 'Residu Perhatian', yang dengan cepat menghabiskan sumber daya kontrol kognitif lobus frontal otak. Seperti Picasso, dengan secara fleksibel beralih antara 2-3 tugas yang benar-benar berbeda (Peralihan Perhatian), area saraf otak yang sebelumnya digunakan akan beristirahat dan jaringan saraf otak baru akan terbangun, meminimalkan kelelahan dan mempertahankan konsentrasi untuk waktu yang lama."
+      "ko": "주의가 분산되기 시작했을 때 같은 종류의 복잡한 업무를 억지로 지속하면 뇌의 전두엽 인지 통제 자원이 급격히 소모되는 '주의 잔류(Attention Residue)' 고갈을 겪게 됩니다. 피카소처럼 완전히 결이 다른 2~3가지의 작업을 유연하게 스위칭(Attention Switching)하면, 이전에 쓰이던 뇌 신경 영역은 휴식을 취하고 새로운 뇌 신경망이 각성하여 피로를 최소화하며 집중력을 장시간 보존할 수 있습니다."
     },
     "cautionTitle": {
-      "en": "Behavioral science advice for successful settlement",
-      "ko": "성공적인 안착을 위한 행동과학 조언",
-      "ja": "解決を成功させるための行動科学的アドバイス",
-      "zh": "成功解决问题的行为科学建议",
-      "es": "Consejos de ciencias del comportamiento para un acuerdo exitoso",
-      "fr": "Conseils en sciences comportementales pour un établissement réussi",
-      "de": "Verhaltenswissenschaftliche Ratschläge für eine erfolgreiche Einigung",
-      "pt": "Conselhos científicos comportamentais para uma liquidação bem-sucedida",
-      "id": "Saran ilmu perilaku untuk penyelesaian yang sukses"
+      "ko": "성공적인 안착을 위한 행동과학 조언"
     },
     "cautionDesc": {
-      "en": "This does not mean that you should multitask by keeping multiple messenger windows open at once. It is the wisdom to focus strictly on ‘one task’ within one work block, but to switch linkages between blocks flexibly like Picasso.",
-      "ko": "한 번에 여러 메신저 창을 띄워두고 멀티태스킹을 하라는 뜻이 아닙니다. 한 작업 블록 안에서는 철저하게 '단 하나의 과제'에만 통집중하되, 블록 간의 연계 전환을 피카소처럼 유연하게 교체하는 지혜입니다.",
-      "ja": "これは、同時に複数のメッセンジャー ウィンドウを開いたままにしてマルチタスクを行うべきであるという意味ではありません。一つの作業ブロック内で「一つの作業」に厳密に集中しつつ、ブロック間のつながりをピカソのように柔軟に切り替えるのが知恵です。",
-      "zh": "这并不意味着您应该通过同时打开多个信使窗口来执行多任务。在一个工作块内严格专注于“一项任务”，但像毕加索一样灵活地切换块之间的联系，这是一种智慧。",
-      "es": "Esto no significa que debas realizar múltiples tareas manteniendo abiertas varias ventanas de mensajería a la vez. Es prudente centrarse estrictamente en “una tarea” dentro de un bloque de trabajo, pero cambiar los vínculos entre bloques de manera flexible, como Picasso.",
-      "fr": "Cela ne signifie pas que vous devez effectuer plusieurs tâches en gardant plusieurs fenêtres de messagerie ouvertes en même temps. Il est sage de se concentrer strictement sur « une tâche » au sein d’un seul bloc de travail, mais de basculer les liens entre les blocs de manière flexible, comme Picasso.",
-      "de": "Dies bedeutet nicht, dass Sie Multitasking betreiben sollten, indem Sie mehrere Messenger-Fenster gleichzeitig geöffnet halten. Es ist klug, sich strikt auf „eine Aufgabe“ innerhalb eines Arbeitsblocks zu konzentrieren, aber wie Picasso die Verknüpfungen zwischen den Blöcken flexibel zu wechseln.",
-      "pt": "Isso não significa que você deva realizar várias tarefas ao mesmo tempo, mantendo várias janelas do messenger abertas ao mesmo tempo. É sensato concentrar-se estritamente em “uma tarefa” dentro de um bloco de trabalho, mas alternar as ligações entre os blocos de forma flexível, como Picasso.",
-      "id": "Ini tidak berarti Anda harus melakukan banyak tugas dengan membuka beberapa jendela messenger sekaligus. Merupakan kebijaksanaan untuk fokus secara ketat pada 'satu tugas' dalam satu blok pekerjaan, namun mengalihkan hubungan antar blok secara fleksibel seperti Picasso."
+      "ko": "한 번에 여러 메신저 창을 띄워두고 멀티태스킹을 하라는 뜻이 아닙니다. 한 작업 블록 안에서는 철저하게 '단 하나의 과제'에만 통집중하되, 블록 간의 연계 전환을 피카소처럼 유연하게 교체하는 지혜입니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Step 1: Environment settings and tool settings",
-          "ko": "1단계: 환경 설정 및 도구 세팅",
-          "ja": "ステップ1：環境設定とツール設定",
-          "zh": "第1步：环境设置和工具设置",
-          "es": "Paso 1: configuración del entorno y configuración de herramientas",
-          "fr": "Étape 1 : Paramètres de l'environnement et paramètres des outils",
-          "de": "Schritt 1: Umgebungseinstellungen und Werkzeugeinstellungen",
-          "pt": "Passo 1: Configurações do ambiente e configurações de ferramentas",
-          "id": "Langkah 1: Pengaturan lingkungan dan pengaturan alat"
+          "ko": "1단계: 환경 설정 및 도구 세팅"
         },
         "text": {
-          "en": "Before starting work every morning, divide the tasks to be completed today into 2-3 completely different work tracks (writing, numerical calculation, meeting preparation, etc.). Complete the distribution of tasks.",
-          "ko": "매일 아침 일을 시작하기 전, 오늘 완수해야 할 업무를 완전히 성격이 다른 2~3가지 성격의 업무 트랙(글쓰기, 수치 계산, 회의 준비 등)으로 미리 나누어 놓습니다. 업무 분배를 마칩니다.",
-          "ja": "毎朝仕事を始める前に、今日完了するタスクを 2 ～ 3 つのまったく異なる作業トラック (執筆、数値計算、会議の準備など) に分割します。タスクの配布を完了します。",
-          "zh": "每天早上开始工作前，把今天要完成的任务分成2-3个完全不同的工作轨道（写作、数值计算、会议准备等）。完成任务分配。",
-          "es": "Antes de comenzar a trabajar todas las mañanas, divida las tareas que debe completar hoy en 2 o 3 líneas de trabajo completamente diferentes (redacción, cálculo numérico, preparación de reuniones, etc.). Completar la distribución de tareas.",
-          "fr": "Avant de commencer à travailler chaque matin, divisez les tâches à accomplir aujourd'hui en 2-3 pistes de travail complètement différentes (écriture, calcul numérique, préparation de réunion, etc.). Compléter la répartition des tâches.",
-          "de": "Bevor Sie jeden Morgen mit der Arbeit beginnen, teilen Sie die heute zu erledigenden Aufgaben in 2-3 völlig unterschiedliche Arbeitsschritte auf (Schreiben, Zahlenrechnen, Besprechungsvorbereitung usw.). Vervollständigen Sie die Aufgabenverteilung.",
-          "pt": "Antes de começar o trabalho todas as manhãs, divida as tarefas a serem concluídas hoje em 2-3 trilhas de trabalho completamente diferentes (escrita, cálculo numérico, preparação de reuniões, etc.). Conclua a distribuição de tarefas.",
-          "id": "Sebelum mulai bekerja setiap pagi, bagilah tugas yang harus diselesaikan hari ini menjadi 2-3 jalur kerja yang sangat berbeda (penulisan, perhitungan numerik, persiapan rapat, dll.). Selesaikan pembagian tugas."
+          "ko": "매일 아침 일을 시작하기 전, 오늘 완수해야 할 업무를 완전히 성격이 다른 2~3가지 성격의 업무 트랙(글쓰기, 수치 계산, 회의 준비 등)으로 미리 나누어 놓습니다. 업무 분배를 마칩니다."
         }
       },
       {
         "name": {
-          "en": "Step 2: Projection and practice of complete senses",
-          "ko": "2단계: 온전한 감각 투사와 실천",
-          "ja": "ステップ 2: 完全な感覚の投影と実践",
-          "zh": "第二步：完整感官的投射和练习",
-          "es": "Paso 2: Proyección y práctica de los sentidos completos.",
-          "fr": "Étape 2 : Projection et pratique des sens complets",
-          "de": "Schritt 2: Projektion und Übung der gesamten Sinne",
-          "pt": "Passo 2: Projeção e prática de sentidos completos",
-          "id": "Langkah 2: Proyeksi dan latihan indera lengkap"
+          "ko": "2단계: 온전한 감각 투사와 실천"
         },
         "text": {
-          "en": "If you are immersed in a task for more than 30 minutes and reach a point where your ideas become stagnant or your concentration drops, do not force yourself to hold on to it, but boldly switch to a task on another track.",
-          "ko": "한 업무에 30분 이상 몰두하다가 아이디어가 정체되거나 집중도가 뚝 떨어지는 지점에 도달하면, 억지로 붙잡지 않고 즉시 준비된 다른 트랙의 업무로 과감히 스위칭합니다.",
-          "ja": "30 分以上タスクに没頭し、アイデアが停滞したり集中力が低下したりした場合は、無理に我慢せずに、思い切って別のトラックのタスクに切り替えてください。",
-          "zh": "如果你沉浸在一项任务中超过30分钟，并达到了想法停滞或注意力下降的地步，不要强迫自己坚持下去，而是大胆地切换到另一个轨道上的任务。",
-          "es": "Si estás inmerso en una tarea durante más de 30 minutos y llegas a un punto en el que tus ideas se estancan o tu concentración disminuye, no te fuerces a aferrarte a ella, sino cambia con valentía a una tarea en otra dirección.",
-          "fr": "Si vous êtes immergé dans une tâche pendant plus de 30 minutes et atteignez un point où vos idées stagnent ou votre concentration chute, ne vous forcez pas à vous y accrocher, mais n'hésitez pas à passer à une tâche sur une autre piste.",
-          "de": "Wenn Sie länger als 30 Minuten in eine Aufgabe vertieft sind und einen Punkt erreichen, an dem Ihre Ideen stagnieren oder Ihre Konzentration nachlässt, zwingen Sie sich nicht, daran festzuhalten, sondern wechseln Sie mutig zu einer Aufgabe auf einer anderen Spur.",
-          "pt": "Se você estiver imerso em uma tarefa por mais de 30 minutos e chegar a um ponto em que suas ideias ficam estagnadas ou sua concentração cai, não se force a segurá-la, mas sinta-se à vontade para mudar para uma tarefa em outro caminho.",
-          "id": "Jika Anda tenggelam dalam suatu tugas selama lebih dari 30 menit dan mencapai titik di mana ide Anda menjadi stagnan atau konsentrasi Anda menurun, jangan memaksakan diri untuk mempertahankannya, tetapi dengan berani beralih ke tugas di jalur lain."
+          "ko": "한 업무에 30분 이상 몰두하다가 아이디어가 정체되거나 집중도가 뚝 떨어지는 지점에 도달하면, 억지로 붙잡지 않고 즉시 준비된 다른 트랙의 업무로 과감히 스위칭합니다."
         }
       },
       {
         "name": {
-          "en": "Step 3: Objective gaze and meta-organization",
-          "ko": "3단계: 객관적 응시 및 메타 정리",
-          "ja": "ステップ3：客観的な視線とメタ組織化",
-          "zh": "第三步：客观审视和元组织",
-          "es": "Paso 3: Mirada objetiva y metaorganización",
-          "fr": "Étape 3 : Regard objectif et méta-organisation",
-          "de": "Schritt 3: Objektiver Blick und Meta-Organisation",
-          "pt": "Passo 3: Olhar objetivo e meta-organização",
-          "id": "Langkah 3: Pandangan objektif dan meta-organisasi"
+          "ko": "3단계: 객관적 응시 및 메타 정리"
         },
         "text": {
-          "en": "To lighten your mind at the moment of switching, write down just one line of the next key execution step that was put on hold in the previous task on a notepad to ease the memory load on your brain.",
-          "ko": "스위칭하는 순간에 머릿속을 가볍게 정돈하기 위해, 이전 작업에서 보류되었던 다음 핵심 실행 단계 딱 1줄만 메모지에 자필로 기입하여 뇌의 기억 부하를 덜어둡니다.",
-          "ja": "切り替えの瞬間に心を軽くするには、前のタスクで保留された次の重要な実行ステップを 1 行だけメモ帳に書き留めて、脳への記憶の負荷を軽減します。",
-          "zh": "为了在切换时减轻你的头脑，只需在记事本上写下在上一个任务中搁置的下一个关键执行步骤的一行，以减轻大脑的记忆负担。",
-          "es": "Para aligerar su mente en el momento de cambiar, escriba solo una línea del siguiente paso clave de ejecución que quedó en espera en la tarea anterior en un bloc de notas para aliviar la carga de memoria en su cerebro.",
-          "fr": "Pour alléger votre esprit au moment du changement, notez sur un bloc-notes une seule ligne de la prochaine étape d'exécution clé qui a été mise en attente dans la tâche précédente pour alléger la charge de mémoire de votre cerveau.",
-          "de": "Um Ihren Geist im Moment des Wechsels zu beruhigen, schreiben Sie einfach eine Zeile des nächsten wichtigen Ausführungsschritts, der in der vorherigen Aufgabe auf Eis gelegt wurde, auf einen Notizblock, um die Gedächtnisbelastung Ihres Gehirns zu verringern.",
-          "pt": "Para aliviar sua mente no momento da troca, anote em um bloco de notas apenas uma linha da próxima etapa de execução da tecla que foi colocada em espera na tarefa anterior para aliviar a carga de memória em seu cérebro.",
-          "id": "Untuk meringankan pikiran Anda pada saat peralihan, tuliskan satu baris langkah eksekusi kunci berikutnya yang ditunda pada tugas sebelumnya di buku catatan untuk meringankan beban memori di otak Anda."
+          "ko": "스위칭하는 순간에 머릿속을 가볍게 정돈하기 위해, 이전 작업에서 보류되었던 다음 핵심 실행 단계 딱 1줄만 메모지에 자필로 기입하여 뇌의 기억 부하를 덜어둡니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "en": "If you switch tasks too flexibly, won't it actually delay the completion of the work?",
-          "ko": "과제 스위칭을 너무 유연하게 하면 오히려 일의 마무리가 지연되지 않나요?",
-          "ja": "タスクを柔軟に切り替えすぎると、かえって仕事の完了が遅れてしまうことはないでしょうか？",
-          "zh": "如果切换任务太灵活的话，其实不是耽误了工作的完成吗？",
-          "es": "Si cambia de tarea con demasiada flexibilidad, ¿no retrasará realmente la finalización del trabajo?",
-          "fr": "Si vous changez de tâche de manière trop flexible, cela ne retardera-t-il pas l'achèvement du travail ?",
-          "de": "Wenn Sie die Aufgaben zu flexibel wechseln, verzögert sich dann nicht tatsächlich die Fertigstellung der Arbeit?",
-          "pt": "Se você alternar tarefas com muita flexibilidade, isso não atrasará a conclusão do trabalho?",
-          "id": "Jika Anda berpindah tugas terlalu fleksibel, bukankah justru menunda penyelesaian pekerjaan?"
+          "ko": "과제 스위칭을 너무 유연하게 하면 오히려 일의 마무리가 지연되지 않나요?"
         },
         "answer": {
-          "en": "No. According to neuroscience, when a task reaches a plateau and cognitive friction is maximized, rather than forcing yourself to do it, doing 20 minutes of ventilatory work and then returning to a clear frontal lobe will accelerate the total final completion speed by more than 40%.",
-          "ko": "아닙니다. 脳科学的으로 한 과제에 정체기가 와서 인지 마찰이 극대화되었을 때 억지로 붙잡는 것보다, 20분간 환기형 업무를 해두고 맑은 전두엽으로 복귀하는 것이 총 최종 완수 속도를 40% 이상 앞당깁니다.",
-          "ja": "いいえ。神経科学によれば、タスクがプラトーに達し、認知的摩擦が最大になった場合、無理にタスクを実行するのではなく、20 分間の換気作業を行ってから前頭葉がきれいな状態に戻ると、最終的な完了速度が 40% 以上加速されます。",
-          "zh": "不会。根据神经科学，当一项任务达到平台期并且认知摩擦最大化时，与其强迫自己去做，不如做 20 分钟的通气工作，然后回到清晰的额叶，将使最终总完成速度加快 40% 以上。",
-          "es": "No. Según la neurociencia, cuando una tarea llega a un punto muerto y la fricción cognitiva se maximiza, en lugar de obligarse a hacerlo, hacer 20 minutos de trabajo ventilatorio y luego regresar a un lóbulo frontal despejado acelerará la velocidad total de finalización final en más de un 40%.",
-          "fr": "Non. Selon les neurosciences, lorsqu'une tâche atteint un plateau et que la friction cognitive est maximisée, plutôt que de se forcer à le faire, faire 20 minutes de travail ventilatoire puis revenir à un lobe frontal clair accélérera la vitesse totale d'achèvement final de plus de 40 %.",
-          "de": "Nein. Wenn eine Aufgabe ein Plateau erreicht und die kognitive Reibung maximiert ist, beschleunigt die Neurowissenschaft laut Neurowissenschaften die Gesamtgeschwindigkeit der endgültigen Erledigung um mehr als 40 %, anstatt sich selbst dazu zu zwingen.",
-          "pt": "Não. De acordo com a neurociência, quando uma tarefa atinge um platô e o atrito cognitivo é maximizado, em vez de se forçar a fazê-lo, fazer 20 minutos de trabalho ventilatório e depois retornar a um lobo frontal limpo acelerará a velocidade final total de conclusão em mais de 40%.",
-          "id": "Tidak. Menurut ilmu saraf, ketika tugas mencapai titik tertinggi dan gesekan kognitif dimaksimalkan, daripada memaksakan diri untuk melakukannya, melakukan kerja ventilasi selama 20 menit dan kemudian kembali ke lobus frontal yang jelas akan mempercepat total kecepatan penyelesaian akhir lebih dari 40%."
+          "ko": "아닙니다. 뇌과학적으로 한 과제에 정체기가 와서 인지 마찰이 극대화되었을 때 억지로 붙잡는 것보다, 20분간 환기형 업무를 해두고 맑은 전두엽으로 복귀하는 것이 총 최종 완수 속도를 40% 이상 앞당깁니다."
         }
       },
       {
         "question": {
-          "en": "How many assignment tracks per day is best?",
-          "ko": "하루에 최대 몇 개의 과제 트랙으로 설계하는 것이 가장 적합한가요?",
-          "ja": "1 日に何曲の課題トラックが最適ですか?",
-          "zh": "每天多少作业轨道最好？",
-          "es": "¿Cuántas pistas de tareas por día es mejor?",
-          "fr": "Quel est le meilleur nombre de pistes d'affectation par jour ?",
-          "de": "Wie viele Aufgabenbereiche pro Tag sind am besten?",
-          "pt": "Quantas faixas de tarefas por dia são melhores?",
-          "id": "Berapa banyak jalur tugas per hari yang terbaik?"
+          "ko": "하루에 최대 몇 개의 과제 트랙으로 설계하는 것이 가장 적합한가요?"
         },
         "answer": {
-          "en": "To protect your decision-making brain's energy battery, we recommend no more than three core task categories per day. Frequent track settings of more than four result in wasted attention switching.",
-          "ko": "의사결정 뇌의 에너지 배터리를 보호하려면 하루 최대 3개 이상의 핵심 업무 카테고리를 넘지 않는 것이 좋습니다. 4개 이상의 잦은 트랙 설정은 주의 전환 낭비를 초래합니다.",
-          "ja": "意思決定を行う脳のエネルギーバッテリーを保護するために、1 日あたりのコア タスク カテゴリを 3 つまでにすることをお勧めします。 4 つを超えるトラック設定を頻繁に行うと、無駄な注意の切り替えが発生します。",
-          "zh": "为了保护你的决策大脑的能量电池，我们建议每天不要超过三个核心任务类别。频繁设置超过四个轨道会导致注意力切换的浪费。",
-          "es": "Para proteger la batería de energía de su cerebro al tomar decisiones, recomendamos no más de tres categorías de tareas principales por día. La configuración frecuente de pistas de más de cuatro resulta en un desperdicio de atención al cambiar.",
-          "fr": "Pour protéger la batterie d'énergie de votre cerveau décisionnel, nous recommandons de ne pas dépasser trois catégories de tâches principales par jour. Des réglages de piste fréquents supérieurs à quatre entraînent une perte d’attention.",
-          "de": "Um die Energiebatterie Ihres Entscheidungsgehirns zu schonen, empfehlen wir nicht mehr als drei Kernaufgabenkategorien pro Tag. Häufige Spureinstellungen von mehr als vier führen zu verschwendetem Aufmerksamkeitswechsel.",
-          "pt": "Para proteger a bateria de energia do seu cérebro que toma decisões, recomendamos não mais do que três categorias principais de tarefas por dia. Configurações freqüentes de mais de quatro faixas resultam em desperdício de atenção.",
-          "id": "Untuk melindungi baterai energi otak pengambilan keputusan Anda, kami merekomendasikan tidak lebih dari tiga kategori tugas inti per hari. Pengaturan trek yang sering lebih dari empat mengakibatkan peralihan perhatian yang sia-sia."
+          "ko": "의사결정 뇌의 에너지 배터리를 보호하려면 하루 최대 3개 이상의 핵심 업무 카테고리를 넘지 않는 것이 좋습니다. 4개 이상의 잦은 트랙 설정은 주의 전환 낭비를 초래합니다."
         }
       }
-    ],
-    "pubDate": "2026-02-15",
-    "updatedDate": "2026-02-15"
+    ]
   }
 }

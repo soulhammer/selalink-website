@@ -1,190 +1,62 @@
 {
   "dickens-afternoon-walk": {
     "title": {
-      "ko": "매일 오후 3시간씩 빠른 걸음으로 산책한 소설가? 찰스 디킨스의 아이디어 루틴",
-      "en": "The Novelist Who Walked at a Brisk Pace for 3 Hours Every Afternoon? Charles Dickens' Idea Routine",
-      "ja": "毎日午後3時間早歩きで散歩した小説家？チャールズ・ディケンズのアイデア・ルーティン",
-      "zh": "每天下午快步走3小时的小说家？查尔斯·狄更斯的创意惯例",
-      "es": "¿El novelista que caminaba a paso rápido durante 3 horas cada tarde? La rutina de ideas de Charles Dickens",
-      "fr": "Le romancier qui marchait d'un pas vif pendant 3 heures chaque après-midi ? La routine d'idées de Charles Dickens",
-      "de": "Der Schriftsteller, der jeden Nachmittag 3 Stunden lang stramm spazieren ging? Die Ideen-Routine von Charles Dickens",
-      "pt": "O romancista que caminhava a passo rápido durante 3 horas todas as tardes? A rotina de ideias de Charles Dickens",
-      "id": "Novelis yang Berjalan Cepat Selama 3 Jam Setiap Sore? Rutinitas Ide Charles Dickens"
+      "ko": "매일 오후 3시간씩 빠른 걸음으로 산책한 소설가? 찰스 디킨스의 아이디어 루틴"
     },
     "description": {
-      "ko": "영국의 대문호 찰스 디킨스가 소설 속 입체적인 인물들과 복잡한 스토리를 설계했던 비결. 매일 오후 3시간 동안 이어진 그의 빠른 산책 루틴과 뇌 환기 효과를 알아봅니다.",
-      "en": "The secret behind how great English author Charles Dickens designed lifelike characters and complex plots. Discover his daily 3-hour brisk walking routine and its brain-refreshing effects.",
-      "ja": "イギリスの大文豪チャールズ・ディケンズが小説の中の立体的な人物と複雑なストーリーを設計した秘訣。毎日午後3時間に及んだ彼の素早い散歩ルーティンと脳の換気効果を紹介します。",
-      "zh": "英国大文豪查尔斯·狄更斯构思立体人物和复杂故事的秘诀。探索他每天下午持续3小时的快步走惯例及其唤醒大脑的效果。",
-      "es": "El secreto detrás de cómo el gran autor inglés Charles Dickens diseñó personajes realistas y tramas complejas. Descubra su rutina diaria de caminar a paso rápido durante 3 horas y sus efectos revitalizadores para el cerebro.",
-      "fr": "Le secret derrière la façon dont le grand auteur anglais Charles Dickens a conçu des personnages vivants et des intrigues complexes. Découvrez sa routine quotidienne de marche rapide de 3 heures et ses effets rafraîchissants pour le cerveau.",
-      "de": "Das Geheimnis hinter der Art und Weise, wie der große englische Schriftsteller Charles Dickens vielschichtige Charaktere und komplexe Handlungen entwarf. Erfahren Sie mehr über seine tägliche 3-stündige stramme Gehroutine und ihre gehirnerfrischenden Effekte.",
-      "pt": "O segredo por trás de como o grande autor inglês Charles Dickens projetou personagens realistas e enredos complexos. Descubra a sua rotina diária de caminhada rápida de 3 horas e os seus efeitos revigorantes para o cérebro.",
-      "id": "Rahasia di balik bagaimana penulis besar Inggris Charles Dickens merancang karakter yang hidup dan alur cerita yang rumit. Temukan rutinitas jalan cepat 3 jam sehari dan efeknya dalam menyegarkan otak."
+      "ko": "영국의 대문호 찰스 디킨스가 소설 속 입체적인 인물들과 복잡한 스토리를 설계했던 비결. 매일 오후 3시간 동안 이어진 그의 빠른 산책 루틴과 뇌 환기 효과를 알아봅니다."
     },
     "authority": {
-      "ko": "존 포스터 저 '찰스 디킨스의 생애' 및 인간뇌과학회지(Frontiers in Human Neuroscience)",
-      "en": "John Forster's 'The Life of Charles Dickens' & Frontiers in Human Neuroscience",
-      "ja": "ジョン・フォースター 著『チャールズ・ディケンズの生涯』＆ 人間脳科学術誌(Frontiers in Human Neuroscience)",
-      "zh": "约翰·福斯特著《查尔斯·狄更斯传》及人类脑科学前沿期刊(Frontiers in Human Neuroscience)",
-      "es": "Obra de John Forster 'The Life of Charles Dickens' y Frontiers in Human Neuroscience",
-      "fr": "L'ouvrage de John Forster 'La Vie de Charles Dickens' et Frontiers in Human Neuroscience",
-      "de": "John Forsters 'The Life of Charles Dickens' & Frontiers in Human Neuroscience",
-      "pt": "Obra de John Forster 'The Life of Charles Dickens' e Frontiers in Human Neuroscience",
-      "id": "Buku John Forster 'The Life of Charles Dickens' & Frontiers in Human Neuroscience"
+      "ko": "찰스 디킨스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "《올리버 트위스트》, 《위대한 유산》, 《크리스마스 캐럴》 등 수많은 명작을 남기며 빅토리아 시대 영국의 가장 위대한 소설가로 불리는 대문호 찰스 디킨스. 그의 소설 속에 등장하는 수백 명의 매력적이고 입체적인 캐릭터와 거미줄처럼 정교하게 얽힌 플롯이 어디서 탄생했는지 알고 계신가요? 🚶‍♂️\\n\\n그 비결은 바로 그가 매일 오후 시간 동안 지독할 정도로 고수했던 '3시간 산책' 루틴에 있었습니다. 디킨스는 매일 오전 9시부터 오후 2시까지 조용하고 엄격하게 집필을 마친 뒤, 오후가 되면 어김없이 밖으로 뛰어나갔습니다. 그는 매일 정확히 3시간 동안 약 10~12마일(16~19km)에 달하는 긴 거리를 아주 빠른 속도로 걸었습니다. 런던의 지저분하고 복잡한 도시 뒷골목부터 켄트 지방의 고요한 자연림까지 전역을 거닐며, 머릿속에서 날뛰는 소설 속 인물들을 정돈하고 대화를 구성했습니다. 디킨스에게 산책은 단순한 신체 단련이 아닌, 폭발할 것 같은 뇌의 열기를 시키고 소설을 정밀하게 다듬는 핵심 창작 과정이었습니다.\\n\\n오늘 BuildSelf에서는 디킨스의 3시간 산책 습관에 숨겨진 脳科学的 원리와 현대인들이 복잡한 업무 중 머리를 식히고 창의성을 고도화할 수 있는 산책 설계법을 소개합니다.\\n\\n\\n\\n\\n---",
-      "en": "Charles Dickens, widely regarded as the greatest novelist of the Victorian era with masterpieces such as 'Oliver Twist,' 'Great Expectations,' and 'A Christmas Carol.' Do you know where the hundreds of charming characters and intricate plots in his novels were born? The secret lies in his '3-hour walk' routine, which he strictly maintained every afternoon. After finishing his writing sessions from 9 AM to 2 PM, Dickens headed outside. He walked about 10-12 miles (16-19 km) at a very fast pace for exactly three hours. Walking through the busy back alleys of London to the quiet country paths of Kent, he organized the characters and structured the dialogues in his head. Today, BuildSelf shares the brain-scientific principles behind Dickens' walking habit and how to design walks to refresh your mind and boost creativity.",
-      "ja": "この歴史的習慣の実践において：《 》, 《 》, 《 》 . ? 🚶‍♂️\\n\\n '3 ' . 9 2 , . 3 10~12(16~19km) . , . , .\\n\\n BuildSelf 3 脳科学的 .\\n\\n\\n\\n\\n---",
-      "zh": "在这一历史性惯例的实践中：《 》, 《 》, 《 》 . ? 🚶‍♂️\\n\\n '3 ' . 9 2 , . 3 10~12(16~19km) . , . , .\\n\\n BuildSelf 3 脳科学的 .\\n\\n\\n\\n\\n---",
-      "es": "En la práctica de esta rutina transformadora: 《 》, 《 》, 《 》 . ? 🚶‍♂️\\n\\n '3 ' . 9 2 , . 3 10~12(16~19km) . , . , .\\n\\n BuildSelf 3 .\\n\\n\\n\\n\\n--- Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo. Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora: 《 》, 《 》, 《 》 . ? 🚶‍♂️\\n\\n '3 ' . 9 2 , . 3 10~12(16~19km) . , . , .\\n\\n BuildSelf 3 .\\n\\n\\n\\n\\n--- Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável. Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "\"산책이 없었다면 나는 아마 폭발하여 사라져버렸을 것이다.\" 🚶‍♂️\n\n《올리버 트위스트》, 《위대한 유산》, 《크리스마스 캐럴》 등 수많은 명작을 남기며 빅토리아 시대 영국의 가장 위대한 소설가로 불리는 대문호 찰스 디킨스. 그의 소설 속에 등장하는 수백 명의 매력적이고 입체적인 캐릭터와 거미줄처럼 정교하게 얽힌 플롯이 어디서 탄생했는지 알고 계신가요?\n\n그 비결은 바로 그가 매일 오후 시간 동안 지독할 정도로 고수했던 '3시간 산책' 루틴에 있었습니다. 디킨스는 매일 오전 9시부터 오후 2시까지 조용하고 엄격하게 집필을 마친 뒤, 오후가 되면 어김없이 밖으로 뛰어나갔습니다. 그는 매일 정확히 3시간 동안 약 -마일(-km)에 달하는 긴 거리를 아주 빠른 속도로 걸었습니다. 런던의 지저분하고 복잡한 도시 뒷골목부터 켄트 지방의 고요한 자연림까지 전역을 거닐며, 머릿속에서 날뛰는 소설 속 인물들을 정돈하고 대화를 구성했습니다. 디킨스에게 산책은 단순한 신체 단련이 아닌, 폭발할 것 같은 뇌의 열기를 식히고 소설을 정밀하게 다듬는 핵심 창작 과정이었습니다.\n\n오늘 포스트에서는 디킨스의 3시간 산책 습관에 숨겨진 뇌과학적 원리와 현대인들이 복잡한 업무 중 머리를 식히고 창의성을 고도화할 수 있는 산책 설계법을 소개합니다."
     },
     "whyTitle": {
-      "ko": "발산적 사고의 기폭제, 무자극 걷기의 뇌과학",
-      "en": "Trigger for Divergent Thinking: The Neuroscience of Stimulus-Free Walking",
-      "ja": "発散的思考の起爆剤、無刺激歩行の脳科学",
-      "zh": "发散性思维的催化剂：无刺激散步的脑科学",
-      "es": "Detonante del pensamiento divergente: la neurociencia de caminar sin estímulos",
-      "fr": "Déclencheur de pensée divergente : la neuroscience de la marche sans stimulus",
-      "de": "Katalysator für divergentes Denken: Die Neurowissenschaft des reizfreien Gehens",
-      "pt": "Gatilho para o pensamento divergente: a neurociência de caminhar sem estímulos",
-      "id": "Pemicu Berpikir Divergen: Ilmu Saraf Jalan Kaki Bebas Rangsangan"
+      "ko": "발산적 사고의 기폭제, 무자극 걷기의 뇌과학"
     },
     "whyDesc": {
-      "ko": "과학적 연구에 따르면, 일정한 리듬으로 걷는 전신 운동은 뇌 유래 신경영양인자(BDNF)의 분비를 촉진하고 뇌 혈류를 원활하게 하여 인지 능력과 발산적 사고(Divergent Thinking)를 자극합니다. 이는 새로운 아이디어를 결합하는 창의성 영역의 활성화를 뜻합니다.\\n\\n특히 디킨스처럼 이어폰을 끼거나 스마트폰 화면을 보지 않고 외부 정보 자극을 차단한 채 무심히 걷는 행위는 뇌의 '디폴트 모드 네트워크(DMN)'를 활성화합니다. 뇌가 특정 업무에 직접 몰두하지 않는 방랑 상태가 될 때 작동하는 DMN은 잠재의식 속에 흩어져 있던 기억과 고민을 재배열하여 뜻밖의 깨달음(유레카 모먼트)을 만들어 냅니다. 오후의 정기적인 산책은 오전에 누적된 인지적 피로를 씻어내고 뇌의 작업 기억 공간을 다시 비워주는 훌륭한 청소 시간인 셈입니다.",
-      "en": "According to studies, walking at a steady rhythm promotes the secretion of brain-derived neurotrophic factor (BDNF) and improves cerebral blood flow, stimulating cognitive performance and divergent thinking. This activates creativity by linking new concepts.\\n\\nIn particular, walking without earphones or looking at a smartphone—shutting off external information—activates the brain's Default Mode Network (DMN). When the brain is in a wandering state, the DMN rearranges memories and unsolved problems in the subconscious, creating unexpected eureka moments. Regular afternoon walks act as a mental clean-up, clearing cognitive fatigue from the morning.",
-      "ja": "科学的研究によると、一定のリズムで歩く全身運動は脳由来神経栄養因子（BDNF）の分泌を促進し、脳の血流を滑らかにして認知能力と発散的思考（Divergent Thinking）を刺激します。これは新しいアイデアを組み合わせる創造性領域の活性化を意味します。特にディケンズのようにイヤホンをつけたりスマートフォンの画面を見たりせず、外部情報刺激を遮断したまま歩く行為はデフォルトモードネットワーク（DMN）を活性化させ、有益なひらめきをもたらします。",
-      "zh": "科学研究表明，以一定节奏散步的全身运动能够促进脑源性神经营养因子（BDNF）的分泌，使大脑血流顺畅，从而激发认知能力和发散性思维（Divergent Thinking）。这意味着激活了结合新创意的创造力领域。特别是像狄更斯那样，不戴耳机、不看手机屏幕，阻断外部信息刺激，在无意识中漫步，能够激活大脑的默认模式网络（DMN）。当大脑处于不直接专注于特定任务的放空状态时，运作的DMN会重新排列潜意识中零散的记忆和烦恼，从而产生意想不到的顿悟（尤里卡时刻）。下午的定期散步是洗去上午积累的认知疲劳、重新清空大脑工作记忆空间的绝佳清洁时间。",
-      "es": "Según los estudios, caminar a un ritmo constante promueve la secreción del factor neurotrófico derivado del cerebro (BDNF) y mejora el flujo sanguíneo cerebral, estimulando el rendimiento cognitivo y el pensamiento divergente. Esto activa la creatividad al vincular nuevos conceptos. En particular, caminar sin auriculares ni mirar la pantalla del teléfono, es decir, desconectarse de la información externa, activa la Red Neuronal por Defecto (DMN). Cuando el cerebro está en un estado errante, la DMN reordena los recuerdos en el subconsciente, creando momentos eureka. Las caminatas de la tarde eliminan la fatiga mental de la mañana.",
-      "fr": "Selon des études, marcher à un rythme régulier favorise la sécrétion du facteur neurotrophique dérivé du cerveau (BDNF) et améliore le flux sanguin cérébral, stimulant les performances cognitives et la pensée divergente. Cela active la créativité en reliant de nouveaux concepts. En particulier, marcher sans écouteurs et sans regarder son smartphone (se couper de l'information externe) active le réseau du mode par défaut (DMN). Lorsque le cerveau divague, le DMN réorganise les souvenirs dans le subconscient, créant des moments d'illumination. Les marches de l'après-midi nettoient la fatigue cognitive accumulée le matin.",
-      "de": "Studien zufolge fördert das Gehen in einem steten Rhythmus die Ausschüttung des BDNF und verbessert die Durchblutung des Gehirns, was die kognitive Leistung und das divergente Denken anregt. Dies aktiviert die Kreativität durch Verknüpfung neuer Ideen. Insbesondere das Gehen ohne Kopfhörer oder Blick auf das Smartphone aktiviert das DMN des Gehirns. Wenn das Gehirn schweift, ordnet das DMN Erinnerungen im Unterbewusstsein neu und erzeugt Heureka-Momente. Nachmittägliche Spaziergänge bauen die kognitive Müdigkeit des Morgens ab.",
-      "pt": "Segundo estudos, caminhar a um ritmo constante promove a secreção do fator neurotrófico derivado do cérebro (BDNF) e melhora o fluxo sanguíneo cerebral, estimulando o desempenho cognitivo e o pensamento divergente. Isto ativa a criatividade ao associar novos conceitos. Em particular, caminhar sem auscultadores ou sem olhar para o telemóvel ativa a Rede de Modo Padrão (DMN). Quando o cérebro divaga, a DMN reorganiza as memórias no subconsciente, criando momentos eureka. As caminhadas à tarde limpam a fadiga cognitiva acumulada de manhã.",
-      "id": "Menurut penelitian, berjalan dengan ritme yang stabil mendorong sekresi faktor neurotrofik turunan otak (BDNF) dan meningkatkan aliran darah serebral, merangsang kinerja kognitif & berpikir divergen. Ini mengaktifkan kreativitas. Secara khusus, berjalan tanpa earphone atau melihat ponsel mengaktifkan Default Mode Network (DMN) otak. Saat otak dalam keadaan mengembara, DMN menata ulang memori di alam bawah sadar, menciptakan momen eureka."
+      "ko": "과학적 연구에 따르면, 일정한 리듬으로 걷는 전신 운동은 뇌 유래 신경영양인자(BDNF)의 분비를 촉진하고 뇌 혈류를 원활하게 하여 인지 능력과 발산적 사고(Divergent Thinking)를 자극합니다. 이는 새로운 아이디어를 결합하는 창의성 영역의 활성화를 뜻합니다.\\n\\n특히 디킨스처럼 이어폰을 끼거나 스마트폰 화면을 보지 않고 외부 정보 자극을 차단한 채 무심히 걷는 행위는 뇌의 '디폴트 모드 네트워크(DMN)'를 활성화합니다. 뇌가 특정 업무에 직접 몰두하지 않는 방랑 상태가 될 때 작동하는 DMN은 잠재의식 속에 흩어져 있던 기억과 고민을 재배열하여 뜻밖의 깨달음(유레카 모먼트)을 만들어 냅니다. 오후의 정기적인 산책은 오전에 누적된 인지적 피로를 씻어내고 뇌의 작업 기억 공간을 다시 비워주는 훌륭한 청소 시간인 셈입니다."
+    },
+    "cautionTitle": {
+      "ko": "성공적인 루틴을 위한 뇌과학적 한마디"
+    },
+    "cautionDesc": {
+      "ko": "<strong>창의성은 뇌가 쉬어갈 때 찾아옵니다</strong>\\n\\n모니터 앞을 떠나지 않고 끊임없이 정보를 채워 넣는 것은 뇌의 인지 과부하를 초래할 뿐입니다. 디킨스가 매일 빠른 걸음으로 고독한 산책을 고수했듯, 하루 중 아주 짧은 시간이라도 외부 자극을 완전히 끊고 걸어 보세요. 비워진 뇌의 빈 공간에 새로운 창의적 발상들이 저절로 채워지기 시작할 것입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "오후 무자극 산책 시간 배정",
-          "en": "Schedule Stimulus-Free Afternoon Walk Time",
-          "ja": "午後の無刺激散歩時間の配分",
-          "zh": "分配下午无刺激散步时间",
-          "es": "Programar tiempo para caminata por la tarde sin estímulos",
-          "fr": "Planifier un temps de marche l'après-midi sans stimulus",
-          "de": "Nachmittägliche reizfreie Gehzeit einplanen",
-          "pt": "Programar tempo para caminhada à tarde sem estímulos",
-          "id": "Jadwalkan Waktu Jalan Sore Bebas Rangsangan"
+          "ko": "오후 무자극 산책 시간 배정"
         },
         "text": {
-          "ko": "식곤증이 몰려오고 집중력이 저하되는 오후 2시에서 4시 사이, 약 30분에서 1시간 정도의 고유 산책 시간을 확보합니다. 편안한 신발을 신고 밖으로 나설 준비를 합니다.",
-          "en": "Secure about 30 minutes to 1 hour of designated walking time between 2 PM and 4 PM when you feel drowsy and focus drops. Put on comfortable shoes and prepare to step outside.",
-          "ja": "集中力が低下する午後2時から4時の間、約30分から1時間の散歩時間を確保します。歩きやすい靴を履いて外に出る準備をします。",
-          "zh": "在下午2点至4点之间（容易犯困、注意力下降的时段），确保大约30分钟至1小时的专属散步时间。穿上舒适的鞋子，做好出门准备。",
-          "es": "Asegure de 30 minutos a 1 hora de tiempo de caminata asignado entre las 2 PM y las 4 PM, cuando sienta somnolencia y disminuya la concentración. Póngase zapatos cómodos.",
-          "fr": "Réservez de 30 minutes à 1 heure de marche entre 14h et 16h, au moment où la concentration chute. Enfilez des chaussures confortables et préparez-vous à sortir.",
-          "de": "Reservieren Sie zwischen 14 und 16 Uhr, wenn Konzentration nachlässt, etwa 30 bis 60 Minuten Gehzeit. Ziehen Sie bequeme Schuhe an und gehen Sie nach draußen.",
-          "pt": "Garanta 30 minutos a 1 hora de tempo de caminhada designado entre as 2 PM e as 4 PM, quando sentir sonolência e a concentração diminuir. Calce sapatos confortáveis.",
-          "id": "Sediakan waktu jalan kaki khusus sekitar 30 menit hingga 1 jam antara jam 2 siang & 4 sore saat Anda merasa mengantuk. Kenakan sepatu yang nyaman."
+          "ko": "식곤증이 몰려오고 집중력이 저하되는 오후 2시에서 4시 사이, 약 30분에서 1시간 정도의 고유 산책 시간을 확보합니다. 편안한 신발을 신고 밖으로 나설 준비를 합니다."
         }
       },
       {
         "name": {
-          "ko": "스마트폰 화면 및 오디오 자극 차단",
-          "en": "Block Smartphone Screens and Audio Stimuli",
-          "ja": "スマートフォンの画面とオーディオ刺激の遮断",
-          "zh": "阻断手机屏幕及音频刺激",
-          "es": "Bloquear pantallas de teléfonos y estímulos de audio",
-          "fr": "Bloquer l'écran du smartphone et les stimuli audio",
-          "de": "Smartphones und Audio-Reize ausschalten",
-          "pt": "Bloquear ecrãs de telemóveis e estímulos de áudio",
-          "id": "Blokir Layar Ponsel dan Rangsangan Audio"
+          "ko": "스마트폰 화면 및 오디오 자극 차단"
         },
         "text": {
-          "ko": "산책 중 스마트폰은 주머니나 가방에 넣어 보지 않도록 합니다. 음악, 팟캐스트, 뉴스 등 귀로 유입되는 언어적 정보를 차단하여 뇌가 인지 피로를 털어낼 수 있도록 감각의 진공 상태를 만듭니다.",
-          "en": "Keep your smartphone in your pocket or bag during the walk. Block verbal information entering your ears like music, podcasts, or news to create a sensory vacuum so the brain can clear cognitive fatigue.",
-          "ja": "散歩中はスマートフォンを見ないようにします。音楽、ポッドキャスト、ニュースなどの言語情報を遮断し、脳が認知疲労を解消できる感覚の真空状態を作ります。",
-          "zh": "散步期间，将手机放入兜里或包中，避免查看。阻断音乐、播客、新闻等传入耳中的言语信息，为大脑营造一个感官真空状态，以清除认知疲劳。",
-          "es": "Mantenga el teléfono en el bolsillo o bolso. Evite información verbal como música, podcasts o noticias para crear un vacío sensorial que permita al cerebro despejar la fatiga mental.",
-          "fr": "Gardez votre smartphone dans votre poche ou sac. Bloquez les informations verbales comme la musique, les podcasts ou les actualités pour créer un vide sensoriel afin de reposer le cerveau.",
-          "de": "Lassen Sie das Smartphone in der Tasche. Vermeiden Sie verbale Informationen wie Musik, Podcasts oder Nachrichten, um ein sensorisches Vakuum zu schaffen, damit sich das Gehirn erholen kann.",
-          "pt": "Mantenha o telemóvel no bolso ou na mala. Bloqueie informações verbais como música, podcasts ou notícias para criar um vácuo sensorial que permita ao cérebro limpar a fadiga mental.",
-          "id": "Simpan ponsel Anda di saku atau tas. Blokir informasi verbal seperti musik, podcast, atau berita untuk menciptakan ruang kosong sensorik agar otak dapat menghilangkan kelelahan kognitif."
+          "ko": "산책 중 스마트폰은 주머니나 가방에 넣어 보지 않도록 합니다. 음악, 팟캐스트, 뉴스 등 귀로 유입되는 언어적 정보를 차단하여 뇌가 인지 피로를 털어낼 수 있도록 감각의 진공 상태를 만듭니다."
         }
       },
       {
         "name": {
-          "ko": "관조적 걷기와 즉각적인 아이디어 메모",
-          "en": "Contemplative Walking and Immediate Note-taking",
-          "ja": "観照的歩行と即時のアイデアメモ",
-          "zh": "静观漫步与即时创意记录",
-          "es": "Caminata contemplativa y registro inmediato de ideas",
-          "fr": "Marche contemplative et prise de notes immédiate",
-          "de": "Kontemplatives Gehen und sofortiges Notieren von Ideen",
-          "pt": "Caminhada contemplativa e registo imediato de ideias",
-          "id": "Jalan Kaki Kontemplatif dan Pencatatan Ide Segera"
+          "ko": "관조적 걷기와 즉각적인 아이디어 메모"
         },
         "text": {
-          "ko": "발걸음의 리듬에 집중하며 풍경을 무심히 바라봅니다. DMN의 활성화로 인해 고민하던 문제의 돌파구나 창의적인 기획 아이디어가 스쳐 갈 때, 작은 수첩이나 음성 인식 앱을 켜서 휘발되기 전에 핵심 키워드만 빠르게 기록합니다.",
-          "en": "Focus on the rhythm of your steps and gaze at the scenery. When solutions to problems or creative ideas pass by due to DMN activation, quickly record key words in a small notebook or voice app before they fade.",
-          "ja": "足元のリズムに集中し、風景を眺めます。DMNの活性化により、悩んでいた問題の突破口や創造的なアイデアが浮かんだ時、小さなメモ帳や音声認識アプリに素早くキーワードだけを記録します。",
-          "zh": "专注于脚步的节奏，静静地注视周围的风景。当默认模式网络（DMN）激活使苦思冥想的突破口或创意企划浮现脑海时，在它们转瞬即逝前，用小本子或语音识别软件快速记录下核心关键词。",
-          "es": "Concéntrese en el ritmo de sus pasos y contemple el paisaje. Cuando surjan soluciones a problemas o ideas creativas gracias a la DMN, anote rápidamente las palabras clave en una libreta o aplicación de voz.",
-          "fr": "Concentrez-vous sur le rythme de vos pas et observez le paysage. Lorsque des solutions ou idées créatives surgissent grâce au DMN, notez rapidement les mots-clés dans un carnet ou une application vocale.",
-          "de": "Konzentrieren sich auf den Rhythmus Ihrer Schritte und betrachten Sie die Landschaft. Wenn durch das DMN Lösungen oder Ideen entstehen, notieren Sie Stichpunkte schnell in einem Notizbuch oder einer Sprach-App.",
-          "pt": "Concentre-se no ritmo dos seus passos e contemple a paisagem. Quando surgirem soluções para problemas ou ideias criativas graças à DMN, registe rapidamente as palavras-chave num bloco de notas ou aplicação de voz.",
-          "id": "Fokus pada ritme langkah kaki Anda. Ketika solusi masalah atau ide kreatif melintas karena aktivasi DMN, segera catat kata kunci di buku catatan kecil atau aplikasi suara sebelum hilang."
+          "ko": "발걸음의 리듬에 집중하며 풍경을 무심히 바라봅니다. DMN의 활성화로 인해 고민하던 문제의 돌파구나 창의적인 기획 아이디어가 스쳐 갈 때, 작은 수첩이나 음성 인식 앱을 켜서 휘발되기 전에 핵심 키워드만 빠르게 기록합니다."
         }
       }
     ],
-    "cautionTitle": {
-      "ko": "성공적인 루틴을 위한 脳科学的 한마디",
-      "en": "A brain-scientific word for a successful routine",
-      "ja": "効果的なルーティンのための脳科学的な一言",
-      "zh": "成功惯例的脑科学建议",
-      "es": "Un consejo neurocientífico para una rutina exitosa",
-      "fr": "Un conseil neuroscientifique pour une routine réussie",
-      "de": "Ein gehirnwissenschaftlicher Ratschlag für eine erfolgreiche Routine",
-      "pt": "Um conselho neurocientífico para uma rotina de sucesso",
-      "id": "Saran ilmiah saraf untuk rutinitas yang sukses"
-    },
-    "cautionDesc": {
-      "ko": "<strong>창의성은 뇌가 쉬어갈 때 찾아옵니다</strong>\\n\\n모니터 앞을 떠나지 않고 끊임없이 정보를 채워 넣는 것은 뇌의 인지 과부하를 초래할 뿐입니다. 디킨스가 매일 빠른 걸음으로 고독한 산책을 고수했듯, 하루 중 아주 짧은 시간이라도 외부 자극을 완전히 끊고 걸어 보세요. 비워진 뇌의 빈 공간에 새로운 창의적 발상들이 저절로 채워지기 시작할 것입니다.",
-      "en": "Creativity comes when the brain rests. Constantly feeding information to the brain without leaving your desk only leads to cognitive overload. Just as Dickens insisted on his solitary brisk walks, try disconnect from external stimuli and walk, even for a short time. New creative thoughts will fill the empty spaces naturally.",
-      "ja": "創造性は脳が休んでいる時に訪れます。モニターの前を離れず情報を詰め込み続けるのは脳の認知過負荷を招くだけです。ディケンズが毎日の散歩を守ったように、短い時間でも外部刺激を断って歩いてみてください。空いた脳の空間に新たなアイデアが自然と満たされるでしょう。",
-      "zh": "创造力是在大脑休息时悄然降临的。不离开电脑屏幕而不断塞入信息，只会导致大脑认知超载。就像狄更斯每天坚持快步独自散步一样，哪怕一天中只有很短的时间, 也试着彻底断开外部刺激去散散步吧。在放空的大脑空间里，新的创意灵感自然会开始填满。",
-      "es": "La creatividad surge cuando el cerebro descansa. Alimentar al cerebro constantemente sin levantarse del escritorio solo provoca una sobrecarga cognitiva. Desconéctese de los estímulos externos y camine, aunque sea por poco tiempo. Nuevas ideas creativas llenarán el espacio vacío de forma natural.",
-      "fr": "La créativité vient lorsque le cerveau se repose. Remplir le cerveau d'informations sans quitter son bureau ne fait que provoquer une surcharge cognitive. Déconnectez-vous des stimuli externes et marchez, même peu de temps. De nouvelles idées créatives rempliront naturellement cet espace vide.",
-      "de": "Kreativität entsteht, wenn das Gehirn ruht. Das ständige Aufnehmen von Informationen ohne Pause führt nur zu kognitiver Überlastung. Schalten Sie äußere Reize aus und gehen Sie spazieren, auch wenn es nur kurz ist. Neue Ideen werden den freien Raum im Gehirn von selbst füllen.",
-      "pt": "A criatividade surge quando o cérebro descansa. Alimentar o cérebro constantemente sem sair da secretária só provoca uma sobrecarga cognitiva. Desligue-se dos estímulos externos e caminhe, mesmo por pouco tempo. Novas ideias criativas preencherão o espaço vazio naturalmente.",
-      "id": "Kreativitas datang saat otak beristirahat. Terus-menerus memasukkan informasi tanpa meninggalkan meja kerja hanya akan menyebabkan kelebihan beban kognitif. Cobalah putuskan hubungan dari rangsangan luar & berjalan kaki, meskipun sebentar. Ide kreatif baru akan mengisi ruang kosong itu secara alami."
-    },
     "faqs": [
       {
         "question": {
-          "ko": "산책 중 스마트폰으로 음악을 들으면 안 되나요?",
-          "en": "Should I not listen to music during the walk?",
-          "ja": "散歩中にスマートフォンで音楽を聴いてはいけませんか？",
-          "zh": "散步期间听手机音乐不行吗？",
-          "es": "¿No debería escuchar música durante la caminata?",
-          "fr": "Ne devrais-je pas écouter de la musique pendant la marche ?",
-          "de": "Sollte ich beim Gehen keine Musik hören?",
-          "pt": "Não devo ouvir música durante a caminhada?",
-          "id": "Bolehkah saya mendengarkan musik saat berjalan?"
+          "ko": "산책 중 스마트폰으로 음악을 들으면 안 되나요?"
         },
         "answer": {
-          "ko": "음악이나 언어 정보는 뇌가 그것을 분석하도록 자극하여 디폴트 모드 네트워크(DMN) 활성화를 방해하므로, 온전한 뇌의 휴식과 창의성을 위해서는 가급적 이어폰 없이 자연의 소리와 발소리에만 집중하는 것이 좋습니다.",
-          "en": "Music or verbal information stimulates the brain to analyze it, hindering DMN activation. For complete brain rest and creativity, it is best to focus solely on the sounds of nature and your footsteps without earphones.",
-          "ja": "音楽や言語情報は脳に分析刺激を与え、DMNの活性化を妨げます。脳の休息と創造性の最大化のためには、イヤホンなしで足音や周囲の自然の音に集中することをお勧めします。",
-          "zh": "音乐或言语信息会刺激大脑去分析它们，从而妨碍默认模式网络（DMN）的激活。为了让大脑得到彻底休整并激发创造力，建议尽可能不戴耳机，只专注于大自然的声音和自己的脚步声。",
-          "es": "La música o la información verbal estimulan al cerebro para analizarlas, lo que dificulta la activación de la DMN. Para un descanso cerebral completo y creatividad, se recomienda concentrarse en los sonidos naturales sin auriculares.",
-          "fr": "La musique ou les informations verbales stimulent le cerveau pour les analyser, ce qui entrave l'activation du DMN. Pour un repos cérébral complet, concentrez-vous uniquement sur les sons naturels sans écouteurs.",
-          "de": "Musik oder verbale Informationen regen das Gehirn zur Analyse an und behindern die DMN-Aktivierung. Für vollständige Erholung und Kreativität ist es am besten, sich ohne Kopfhörer auf Umgebungsgeräusche zu konzentrieren.",
-          "pt": "A música ou as informações verbais estimulam o cérebro a analisá-las, dificultando a ativação da DMN. Para um descanso cerebral completo e criatividade, recomenda-se concentrar-se nos sons naturais sem auscultadores.",
-          "id": "Musik atau informasi verbal merangsang otak untuk menganalisisnya, menghambat aktivasi DMN. Untuk istirahat otak yang lengkap, sebaiknya fokus hanya pada suara alam & langkah kaki Anda tanpa earphone."
+          "ko": "음악이나 언어 정보는 뇌가 그것을 분석하도록 자극하여 디폴트 모드 네트워크(DMN) 활성화를 방해하므로, 온전한 뇌의 휴식과 창의성을 위해서는 가급적 이어폰 없이 자연의 소리와 발소리에만 집중하는 것이 좋습니다."
         }
       }
     ]

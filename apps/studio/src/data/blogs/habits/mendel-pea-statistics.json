@@ -1,218 +1,72 @@
 {
   "mendel-pea-statistics": {
     "title": {
-      "ko": "완두콩 2만 9천 그루의 통계? 그레고어 멘델의 작업 기억 강화법",
-      "en": "Statistics of 29,000 Pea Plants? Gregor Mendel's Working Memory Enhancement Method",
-      "ja": "エンドウ豆2万9千株の統計？グレゴール・メンデルのワーキングメモリ強化法",
-      "zh": "2万9千株豌豆的的统计？格雷戈尔·孟德尔的工作记忆强化法",
-      "es": "¿Estadísticas de 29,000 plantas de guisante? El método de Gregor Mendel para mejorar la memoria de trabajo",
-      "fr": "Statistiques de 29 000 plants de pois ? La méthode de Gregor Mendel pour améliorer la mémoire de travail",
-      "de": "Statistiken von 29.000 Erbsenpflanzen? Gregor Mendels Methode zur Verbesserung des Arbeitsgedächtnisses",
-      "pt": "Estatísticas de 29.000 plantas de ervilha? O método de Gregor Mendel para melhorar a memória de trabalho",
-      "id": "Statistik 29.000 Tanaman Kacang Polong? Metode Peningkatan Memori Kerja Gregor Mendel"
+      "ko": "완두콩 2만 9천 그루의 통계? 그레고어 멘델의 작업 기억 강화법"
     },
     "description": {
-      "ko": "유전학의 위대한 개척자 그레고어 멘델. 수도원 정원에서 매일 수천 개 완두콩의 변화를 수치로 정밀 기록했던 그의 끈기와, 뇌의 인지 구조를 단련하고 작업 기억력을 높이는 통계 기록법을 공개합니다.",
-      "en": "The pioneer of genetics Gregor Mendel. Discover how his routine of recording numerical data of thousands of pea plants in a monastery garden developed genetics and how data tracking boosts working memory.",
-      "ja": "遺伝学の偉大な開拓者グレゴール・メンデル。修道院の庭で毎日数千個のエンドウ豆の変化を数値で精密に記録した彼の根気と、脳の認知構造を鍛えてワーキングメモリを高める統計記録法を公開します。",
-      "zh": "遗传学的伟大先驱格雷戈尔·孟德尔。公开他在修道院花园里每天将数千株豌豆的变化精确记录为数值的毅力，以及锻炼大脑认知结构、提高工作记忆力的统计记录法。",
-      "es": "El pionero de la genética Gregor Mendel. Descubra cómo su rutina de registrar datos de guisantes mejoró su cerebro y cómo el seguimiento de datos impulsa la memoria de trabajo.",
-      "fr": "Le pionnier de la génétique Gregor Mendel. Découvrez comment sa routine de collecte de données sur les pois a stimulé son cerveau et comment le suivi de données améliore la mémoire de travail.",
-      "de": "Der Pionier der Genetik Gregor Mendel. Erfahren Sie, wie seine Routine, Daten von Erbsenpflanzen im Klostergarten zu erfassen, sein Gehirn stärkte und wie Daten-Tracking das Arbeitsgedächtnis verbessert.",
-      "pt": "O pioneiro da genética Gregor Mendel. Descubra como sua rotina de coletar dados de ervilhas no jardim do mosteiro desenvolveu a genética e como o rastreamento de dados melhora a memória de trabalho.",
-      "id": "Pelopor genetika Gregor Mendel. Temukan bagaimana rutinitasnya mencatat data numerik dari ribuan tanaman kacang polong di kebun biara memperkuat memori kerja."
+      "ko": "유전학의 위대한 개척자 그레고어 멘델. 수도원 정원에서 매일 수천 개 완두콩의 변화를 수치로 정밀 기록했던 그의 끈기와, 뇌의 인지 구조를 단련하고 작업 기억력을 높이는 통계 기록법을 공개합니다."
     },
     "authority": {
-      "ko": "멘델의 1865년 논문 'Experiments on Plant Hybridization' 및 Journal of Educational Psychology",
-      "en": "Mendel's 1865 paper 'Experiments on Plant Hybridization' & Journal of Educational Psychology",
-      "ja": "メンデルの1865年の論文「Experiments on Plant Hybridization」および学術誌「Journal of Educational Psychology」",
-      "zh": "孟德尔1865年论文《Experiments on Plant Hybridization》与学术期刊《Journal of Educational Psychology》",
-      "es": "Artículo de Mendel de 1865 'Experiments on Plant Hybridization' y la revista Journal of Educational Psychology",
-      "fr": "Article de Mendel de 1865 'Experiments on Plant Hybridization' & revue Journal of Educational Psychology",
-      "de": "Mendels Arbeit von 1865 'Versuche über Pflanzen-Hybriden' & Fachzeitschrift Journal of Educational Psychology",
-      "pt": "Artigo de Mendel de 1865 'Experiments on Plant Hybridization' & revista Journal of Educational Psychology",
-      "id": "Makalah Mendel tahun 1865 'Experiments on Plant Hybridization' & Jurnal Journal of Educational Psychology"
+      "ko": "그레고어 멘델 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "부모의 형질이 어떻게 자손에게 유전되는지 그 비밀을 밝혀내어 현대 생물학의 흐름을 완전히 바꾼 유전학의 아버지, 그레고어 멘델. 당시 변변한 실험 기구도 없던 19세기 중엽의 오스트리아 수도원에서 그는 어떻게 인류 역사에 길이 남을 '유전 법칙'을 발견해 냈을까요? 🫛\n\n그 비밀은 멘델이 무려 8년 동안 성 토마스 수도원 정원에서 실천했던 지독하리만치 철저한 '완두콩 통계 일지' 습관에 있었습니다. 그는 매일 오후 정원으로 나가 직접 완두콩을 파종하고, 재배하며, 꽃의 색깔, 꼬투리의 모양, 줄기의 길이 등 7가지 형질을 꼼꼼하게 관찰했습니다. 그리고 매일 기록 장부에 수치 데이터를 한 치의 오차도 없이 계량화하여 모눈종이에 적어 내려갔습니다. 그가 관찰한 완두콩은 무려 29,000그루에 달했습니다. 당대 학계의 철저한 무관심 속에서도 매일 묵묵히 데이터를 수집하고 분류한 그의 아날로그 기록 습관이 현대 생명과학의 초석이 되었습니다.\n\n오늘 BuildSelf에서는 멘델의 완두콩 데이터 수집 루틴 속에 담긴 脳科学的 원리와 현대인들이 작업 기억력을 향상하고 인내심을 단련할 수 있는 자가 데이터 트래킹 실천법을 소개합니다.",
-      "en": "Gregor Mendel, the father of genetics who unlocked how parental traits are inherited. In a mid-19th century monastery without proper lab equipment, how did he discover the laws of inheritance? 🫛\n\nThe secret lay in his meticulous 'pea statistics journal' habit, which he practiced for 8 years in the St. Thomas Monastery garden. Every afternoon, Mendel went to the garden to plant and cultivate peas, examining 7 traits like flower color and stem length. He recorded numerical data in a ledger with zero error. He observed 29,000 pea plants. This daily analog tracking laid the foundation of modern genetics.\n\nToday, BuildSelf introduces the cognitive science of Mendel's data collection routine and how modern people can boost working memory through self-data tracking.",
-      "ja": "親の形質がどのように子孫に遺伝するのか、その秘密を明らかにして現代生物学の流れを完全に変えた遺伝学の父、グレゴール・メンデル。当時まともな実験器具もなかった19世紀半ばのオーストリアの修道院で、彼はどのようにして人類の歴史に残る「遺伝の法則」を発見したのでしょうか？ 🫛\n\nその秘密は、メンデルが8年もの間、聖トマス修道院の庭で実践していた、すさまじいほど徹底した「エンドウ豆統計日誌」の習慣にありました。彼は毎日午後、庭に出て自らエンドウ豆を植え、栽培し、花の色、サヤの形、茎の長さなど7つの形質を綿密に観察しました。そして、毎日の記録台帳に数値データを一点の誤りもなく計量化して方眼紙に書き写しました。彼が観察したエンドウ豆は実に29,000株に及びました。当時の学界の徹底した無関心の中でも、毎日黙々とデータを収集し分類した彼のアナログな記録習慣が、現代生命科学の基礎となりました。\n\n本日、BuildSelfではメンデルのエンドウ豆データ収集ルーティンに込められた脳科学的原理と、現代人がワーキングメモリを向上させ、忍耐力を鍛えることができるセルフデータトラッキングの実践法を紹介します。",
-      "zh": "揭开父母的性状如何遗传给后代的秘密、彻底改变了现代生物学走向的遗传学之父格雷戈尔·孟德尔。在当时连像样的实验仪器都没有的19世纪中叶奥地利修道院里，他是如何发现名留人类史册的“遗传定律”的？ 🫛\n\n其秘密就在于孟德尔长达8年在圣托马斯修道院花园里实行的、近乎执拗的“豌豆统计日志”常规中。他每天下午都会去花园，亲自播种并栽培豌豆，仔细观察花色、豆荚形状、茎长等7个性状。接着，他将数值数据毫无误差地量化，记录在方眼纸台账上。他观察的豌豆多达29,000株。即使当时学术界完全不予关注，他每天默默收集和分类数据的小本本记录常规，依然成为了现代生命科学的基石。\n\n今天，BuildSelf 向您介绍孟德尔豌豆数据收集常规中蕴含的脑科学原理，以及现代人如何通过自我数据追踪提高工作记忆力并锻炼耐心的实践方法。",
-      "es": "En la práctica de esta rutina transformadora: , . 19 ' ' ? 🫛 En la práctica de esta rutina transformadora: 8 ' ' . , , , , 7 . . 29,000 . . En la práctica de esta rutina transformadora: BuildSelf . Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora: , . 19 ' ' ? 🫛 Na prática desta rotina transformadora: 8 ' ' . , , , , 7 . . 29,000 . . Na prática desta rotina transformadora: BuildSelf . Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "부모의 형질이 어떻게 자손에게 유전되는지 그 비밀을 밝혀내어 현대 생물학의 흐름을 완전히 바꾼 유전학의 아버지, 그레고어 멘델. 당시 변변한 실험 기구도 없던 19세기 중엽의 오스트리아 수도원에서 그는 어떻게 인류 역사에 길이 남을 '유전 법칙'을 발견해 냈을까요? 🫛\n\n그 비밀은 멘델이 무려 8년 동안 성 토마스 수도원 정원에서 실천했던 지독하리만치 철저한 '완두콩 통계 일지' 습관에 있었습니다. 그는 매일 오후 정원으로 나가 직접 완두콩을 파종하고, 재배하며, 꽃의 색깔, 꼬투리의 모양, 줄기의 길이 등 7가지 형질을 꼼꼼하게 관찰했습니다. 그리고 매일 기록 장부에 수치 데이터를 한 치의 오차도 없이 계량화하여 모눈종이에 적어 내려갔습니다. 그가 관찰한 완두콩은 무려 29,000그루에 달했습니다. 당대 학계의 철저한 무관심 속에서도 매일 묵묵히 데이터를 수집하고 분류한 그의 아날로그 기록 습관이 현대 생명과학의 초석이 되었습니다.\n\n오늘 포스트에서는 멘델의 완두콩 데이터 수집 루틴 속에 담긴 뇌과학적 원리와 현대인들이 작업 기억력을 향상하고 인내심을 단련할 수 있는 자가 데이터 트래킹 실천법을 소개합니다."
     },
     "whyTitle": {
-      "ko": "데이터 분석과 인지 구조를 바꾸는 작업 기억 훈련",
-      "en": "Working Memory Training That Restructures Data Analysis and Cognition",
-      "ja": "データ分析と認知構造を変えるワーキングメモリ訓練",
-      "zh": "改变数据分析与认知结构的工作记忆训练",
-      "es": "Entrenamiento de la memoria de trabajo que reestructura la cognición",
-      "fr": "Entraînement de la mémoire de travail qui restructure la cognition",
-      "de": "Arbeitsgedächtnistraining zur Umstrukturierung von Kognition und Datenanalyse",
-      "pt": "Treinamento da memória de trabalho que reestrutura a cognição",
-      "id": "Latihan Memori Kerja untuk Menstrukturkan Analisis Data dan Kognisi"
+      "ko": "데이터 분석과 인지 구조를 바꾸는 작업 기억 훈련"
     },
     "whyDesc": {
-      "ko": "매일 미세한 변화를 직접 눈으로 관찰하고 수치화하여 모눈종이에 적는 행위는 뇌의 전두엽(Frontal Lobe)에 위치한 <strong>작업 기억(Working Memory)</strong> 영역을 강력하게 활성화합니다. 작업 기억은 일시적으로 정보를 뇌에 보관하고 이를 가공하는 일종의 '뇌의 램(RAM)'과 같습니다.\n\n겉보기에 불규칙해 보이는 대량의 형태 데이터(둥글거나 우글쭈글한 씨앗 등)를 관찰하고 정렬하는 과정은 뇌의 하두정엽(Inferior Parietal Lobe)을 정교하게 자극하여 수학적 추론 능력과 공간 지각 능력을 증폭시킵니다. 또한 아날로그 방식으로 정렬된 시각 데이터를 직접 검토할 때, 뇌는 정보의 무작위 노이즈를 걸러내고 유의미한 패턴(우열 및 분리의 법칙)을 발견하는 고차원적 인지 구조를 발달시킵니다.",
-      "en": "Observing details and writing numerical data daily activates the brain's <strong>working memory</strong> in the frontal lobe. Working memory functions like the brain's RAM, temporarily holding and processing information. Sorting through a large amount of morphological data (like round vs. wrinkled seeds) stimulates the inferior parietal lobe, boosting mathematical reasoning and spatial perception. Manually reviewing this data trains the brain to filter noise and identify hidden patterns.",
-      "ja": "毎日微細な変化を直接目で観察し、数値化して方眼紙に書き留める行為は、脳の前頭葉（Frontal Lobe）に位置する<strong>ワーキングメモリ（Working Memory）</strong>領域を強力に活性化します。ワーキングメモリは、一時的に情報を脳に保管し、それを加工する一種の「脳のRAM」のようなものです。不規則に見える大量の形態データを観察して整理するプロセスは、脳の下頭頂小葉を刺激し、数学的推論能力を増幅させます。",
-      "zh": "每天亲眼观察微小的变化, 将其数值化并写在方眼纸上的行为, 能强力激活位于大脑前额叶（Frontal Lobe）的<strong>工作记忆（Working Memory）</strong>区域。工作记忆就像是一种临时在大脑中储存并加工信息的“大脑内存（RAM）”。观察并整理大量表面上看起来不规则的形态数据（如圆滑或皱缩的种子）的过程, 能精细刺激大脑的下头顶叶, 从而放大数学推理能力与空间知觉能力。",
-      "es": "Observar detalles y escribir datos numéricos a diario activa la <strong>memoria de trabajo</strong> del lóbulo frontal. La memoria de trabajo funciona como la memoria RAM del cerebro, procesando información. Clasificar datos morfológicos estimula el lóbulo parietal inferior, mejorando el razonamiento. Revisar estos datos entrena al cerebro a identificar patrones.",
-      "fr": "Observer des détails et écrire des données numériques active la <strong>mémoire de travail</strong> du lobe frontal. La mémoire de travail fonctionne comme la RAM du cerveau. Classer des données morphologiques stimule le lobe pariétal inférieur, améliorant le raisonnement. Ce suivi aide le cerveau à identifier des modèles.",
-      "de": "Das tägliche Erfassen und Aufschreiben numerischer Daten aktiviert das <strong>Arbeitsgedächtnis</strong> im Stirnlappen. Das Arbeitsgedächtnis fungiert wie das RAM des Gehirns. Das Sortieren großer Datenmengen stimuliert den unteren Parietallappen, was das logische Denken fördert und dem Gehirn hilft, Muster zu erkennen.",
-      "pt": "Observar detalhes e escrever dados numéricos diariamente ativa a <strong>memória de trabalho</strong> do lobo frontal. A memória de trabalho funciona como a memória RAM do cérebro, processando informações. Classificar dados morfológicos estimula o lobo parietal inferior, melhorando o raciocínio. Revisar esses dados ajuda o cérebro a identificar padrões.",
-      "id": "Mengamati detail dan menulis data numerik setiap hari mengaktifkan <strong>memori kerja (working memory)</strong> di lobus frontal. Memori kerja berfungsi seperti RAM otak, menampung dan memproses informasi sementara. Memilah data morfologi (seperti kacang bulat vs keriput) merangsang lobus parietal inferior, meningkatkan penalaran matematis."
+      "ko": "매일 미세한 변화를 직접 눈으로 관찰하고 수치화하여 모눈종이에 적는 행위는 뇌의 전두엽(Frontal Lobe)에 위치한 <strong>작업 기억(Working Memory)</strong> 영역을 강력하게 활성화합니다. 작업 기억은 일시적으로 정보를 뇌에 보관하고 이를 가공하는 일종의 '뇌의 램(RAM)'과 같습니다.\n\n겉보기에 불규칙해 보이는 대량의 형태 데이터(둥글거나 우글쭈글한 씨앗 등)를 관찰하고 정렬하는 과정은 뇌의 하두정엽(Inferior Parietal Lobe)을 정교하게 자극하여 수학적 추론 능력과 공간 지각 능력을 증폭시킵니다. 또한 아날로그 방식으로 정렬된 시각 데이터를 직접 검토할 때, 뇌는 정보의 무작위 노이즈를 걸러내고 유의미한 패턴(우열 및 분리의 법칙)을 발견하는 고차원적 인지 구조를 발달시킵니다."
     },
     "cautionTitle": {
-      "ko": "아날로그 통계가 뇌의 인지 필터를 정밀하게 만듭니다",
-      "en": "Analog Statistics Sharpen the Brain's Cognitive Filter",
-      "ja": "アナログ統計が脳の認知フィルターを精密にします",
-      "zh": "模拟统计让大脑的的认知过滤器变得精确",
-      "es": "Las estadísticas analógicas agudizan el filtro cognitivo del cerebro",
-      "fr": "Les statistiques analogiques affinent le filtre cognitif du cerveau",
-      "de": "Analoge Statistiken schärfen den kognitiven Filter des Gehirns",
-      "pt": "As estatísticas analógicas aguçam o filtro cognitivo do cérebro",
-      "id": "Statistik Analog Mempertajam Filter Kognitif Otak"
+      "ko": "아날로그 통계가 뇌의 인지 필터를 정밀하게 만듭니다"
     },
     "cautionDesc": {
-      "ko": "자동화된 디지털 데이터 분석 기기들은 편리하지만, 뇌가 직접 데이터를 수집하고 분류하는 능동적 인지 과정을 생략시킵니다. 멘델처럼 매일 아날로그 방식으로 자신만의 핵심 통계를 손글씨로 추적하고 기록하는 것은 두뇌의 정보 필터를 정밀하게 단련하고 인내심을 구축하는 가장 훌륭한 인지 훈련입니다.",
-      "en": "Automated data tracking is convenient, but it bypasses the active cognitive process of collecting and categorizing information. Tracking your own micro-data analogously, as Mendel did, is the finest cognitive training to sharpen information filters and build focus.",
-      "ja": "自動化されたデジタルデータ分析機器は便利ですが、脳が直接データを収集し分類する能動的な認知過程を省略させてしまいます。メンデルのように毎日アナログ方式で自分だけの核心的な統計を手書きで追跡し記録することは、脳の情報フィルターを精密に鍛え、忍耐力を構築する最も優れた認知訓練です。",
-      "zh": "自动化的数字数据分析工具虽然方便, 但它省略了大胸直接收集和分类数据的能动性认知过程。像孟德尔那样, 每天用模拟方式亲手追踪并记录专属的核心统计数据, 是精细锻炼大脑信息过滤器、建立耐心的极佳认知训练。",
-      "es": "El seguimiento automático es conveniente, pero omite el proceso cognitivo activo. Rastrear sus propios microdatos de forma analógica, como hacía Mendel, es el mejor entrenamiento para afinar el filtro de información y mejorar el enfoque.",
-      "fr": "Le suivi automatique est pratique, mais il omet le processus cognitif actif. Suivre vos propres micro-données de manière analogique est le meilleur entraînement pour affiner la concentration.",
-      "de": "Automatisiertes Tracking ist bequem, überspringt jedoch den aktiven kognitiven Prozess. Das eigene manuelle Daten-Tracking schärft den Fokus und stärkt die Geduld.",
-      "pt": "O rastreamento automático é conveniente, mas omite o processo cognitivo ativo. Rastrear seus próprios microdados de forma analógica é o melhor treinamento para afinar o filtro de informações e melhorar o foco.",
-      "id": "Pelacakan data otomatis memang praktis, tetapi melewatkan proses kognitif aktif dalam mengumpulkan dan mengategorikan informasi. Melacak data mikro Anda sendiri secara analog adalah latihan kognitif terbaik untuk mempertajam filter informasi."
+      "ko": "자동화된 디지털 데이터 분석 기기들은 편리하지만, 뇌가 직접 데이터를 수집하고 분류하는 능동적 인지 과정을 생략시킵니다. 멘델처럼 매일 아날로그 방식으로 자신만의 핵심 통계를 손글씨로 추적하고 기록하는 것은 두뇌의 정보 필터를 정밀하게 단련하고 인내심을 구축하는 가장 훌륭한 인지 훈련입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "마이크로 트래킹 수집 대상 선정",
-          "en": "Select a Micro-tracking Target",
-          "ja": "マイクロトラッキング収集対象の選定",
-          "zh": "选定微追踪收集对象",
-          "es": "Seleccione un objetivo de microseguimiento",
-          "fr": "Sélectionner un objectif de micro-suivi",
-          "de": "Wählen Sie ein Ziel für das Mikro-Tracking aus",
-          "pt": "Selecione um objetivo de microrrastreamento",
-          "id": "Pilih Target Pelacakan Mikro"
+          "ko": "마이크로 트래킹 수집 대상 선정"
         },
         "text": {
-          "ko": "매일 모니터링하여 가치를 창출할 수 있는 작고 구체적인 자신만의 계량 데이터(공부 집중 시간, 소모한 비용, 매일 섭취한 단백질 g수, 독서 페이지 수 등)를 단 하나 선정합니다.",
-          "en": "Select one specific and measurable personal data point to track daily (e.g., focused study time, spending, protein intake in grams, or pages read).",
-          "ja": "毎日モニタリングして価値を創出できる、小さくて具体的な自分だけの計量データ（勉強に集中した時間、消費した費用, 毎日摂取したタンパク質のグラム数, 読書したページ数など）を一つだけ選定します。",
-          "zh": "选定一个每天监控能创造价值的、细小且具体的量化数据（学习专注时间、消费金额、每日蛋白质摄入克数、阅读页数等）作为追踪对象。",
-          "es": "Seleccione un dato personal medible para rastrear a diario (por ejemplo, tiempo de estudio concentrado, gastos, gramos de proteína consumidos o páginas leídas).",
-          "fr": "Sélectionnez une donnée personnelle mesurable à suivre quotidiennement (par exemple, le temps d'étude, les dépenses, les protéines consommées ou les pages lues).",
-          "de": "Wählen Sie eine messbare persönliche Datenkategorie aus, die Sie täglich erfassen möchten (z. B. konzentrierte Lernzeit, Ausgaben, Proteinzufuhr in Gramm oder gelesene Seiten).",
-          "pt": "Selecione um dado pessoal mensurável para rastrear diariamente (por exemplo, tempo de estudo concentrado, gastos, gramas de proteína consumidos ou páginas lidas).",
-          "id": "Pilih satu titik data pribadi yang spesifik dan terukur untuk dilacak setiap hari (misalnya waktu fokus belajar, pengeluaran, asupan protein, atau halaman yang dibaca)."
+          "ko": "매일 모니터링하여 가치를 창출할 수 있는 작고 구체적인 자신만의 계량 데이터(공부 집중 시간, 소모한 비용, 매일 섭취한 단백질 g수, 독서 페이지 수 등)를 단 하나 선정합니다."
         }
       },
       {
         "name": {
-          "ko": "아날로그 대장 수기 기록",
-          "en": "Record Manually in an Analog Ledger",
-          "ja": "アナログ台帳への手書き記録",
-          "zh": "模拟台账手写记录",
-          "es": "Registre manualmente en un libro analógico",
-          "fr": "Noter manuellement dans un carnet analogique",
-          "de": "Erfassen Sie die Daten manuell in einem Notizbuch",
-          "pt": "Registre manualmente em um livro analógico",
-          "id": "Catat Manual di Buku Catatan Analog"
+          "ko": "아날로그 대장 수기 기록"
         },
         "text": {
-          "ko": "매일 저녁 일정한 시간에 모눈종이 노트나 수첩을 펴고, 스마트폰 메모앱 대신 펜으로 그날의 정확한 수치를 차분히 기입합니다. 숫자를 적는 행위 자체에 집중하여 전두엽의 인지 기억을 공고히 다집니다.",
-          "en": "Every evening at a fixed time, open your paper notebook and write down the exact numbers. Focus on the physical act of writing numbers to solidify cognitive memory in the frontal lobe.",
-          "ja": "毎晩一定の時間に方眼ノートや手帳を開き、スマホのメモアプリの代わりにペンでその日の正確な数値を落ち着いて記入します。数字を書く行為そのものに集中し、前頭葉の認知記憶を強固にします。",
-          "zh": "每天晚上固定时间打开方眼纸笔记本或手账, 代替手机备忘录, 用钢笔静下心来写下当天的准确数值。专注于书写数字的行为本身, 借此巩固前额叶的认知记忆。",
-          "es": "Cada noche a una hora fija, abra su cuaderno de papel y anote los números exactos. Concéntrese en la escritura manual para solidificar la memoria cognitiva en el lóbulo frontal.",
-          "fr": "Chaque soir à heure fixe, ouvrez votre carnet en papier et notez les chiffres exacts. Concentrez-vous sur l'écriture manuelle pour solidifier la mémoire cognitive.",
-          "de": "Tragen Sie jeden Abend zu einer festen Zeit die genauen Zahlen in Ihr Notizbuch ein. Konzentrieren Sie sich auf das Aufschreiben, um das Gedächtnis im Stirnlappen zu stärken.",
-          "pt": "Toda noite a uma hora fixa, abra seu caderno de papel e anote os números exatos. Concentre-se na escrita manual para solidificar a memória cognitiva no lobo frontal.",
-          "id": "Setiap malam pada waktu yang ditentukan, buka buku catatan kertas Anda dan tuliskan angka pastinya. Fokus pada tindakan menulis angka untuk memperkuat memori kognitif di lobus frontal."
+          "ko": "매일 저녁 일정한 시간에 모눈종이 노트나 수첩을 펴고, 스마트폰 메모앱 대신 펜으로 그날의 정확한 수치를 차분히 기입합니다. 숫자를 적는 행위 자체에 집중하여 전두엽의 인지 기억을 공고히 다집니다."
         }
       },
       {
         "name": {
-          "ko": "주간 패턴 분석 및 시각화",
-          "en": "Weekly Pattern Analysis and Visualization",
-          "ja": "週間のパターン分析と視覚化",
-          "zh": "周度模式分析与可视化",
-          "es": "Análisis y visualización de patrones semanales",
-          "fr": "Analyse et visualisation des modèles hebdomadaires",
-          "de": "Wöchentliche Musteranalyse und Visualisierung",
-          "pt": "Análise e visualização de padrões semanais",
-          "id": "Analisis Pola Mingguan dan Visualisasi"
+          "ko": "주간 패턴 분석 및 시각화"
         },
         "text": {
-          "ko": "주말이 되면 한 주 동안 기록된 수치들을 살펴보고 직접 손으로 꺾은선그래프나 표로 그려 시각화합니다. 어떤 요일에 편차가 발생했는지 요인을 분석하며 고차원적 통계 인지 패턴을 학습합니다.",
-          "en": "At the end of the week, review the recorded numbers and manually draw a line graph or table. Analyze when and why deviations occurred to train your high-level statistical cognition.",
-          "ja": "週末になったら1週間記録した数値を確認し、自分の手で折れ線グラフや表を描いて視覚化します。どの曜日に偏りが発生したのか要因を分析し、高次元の統計的認知パターンを学習します。",
-          "zh": "到了周末, 查看一周记录的数值, 亲手画折线图或表格来进行可视化。分析在周几发生了偏差及其成因, 由此学习高维度的统计认知模式。",
-          "es": "Al final de la semana, revise los números y dibuje a mano un gráfico de líneas o una tabla. Analice cuándo y por qué ocurrieron desviaciones para entrenar la cognición estadística.",
-          "fr": "À la fin de la semaine, passez en revue les chiffres et dessinez un graphique ou un tableau. Analysez quand et pourquoi des écarts se sont produits.",
-          "de": "Prüfen Sie am Wochenende die Daten und zeichnen Sie ein Diagramm. Analysieren Sie Schwankungen, um logische und statistische Muster zu erkennen.",
-          "pt": "No final da semana, revise os números e desenhe manualmente um gráfico de linhas ou tabela. Analise quando e por que ocorreram desvios para treinar a cognição estatística.",
-          "id": "Di akhir pekan, tinjau angka yang tercatat dan buat grafik garis atau tabel secara manual. Analisis kapan dan mengapa terjadi deviasi untuk melatih kognisi statistik."
+          "ko": "주말이 되면 한 주 동안 기록된 수치들을 살펴보고 직접 손으로 꺾은선그래프나 표로 그려 시각화합니다. 어떤 요일에 편차가 발생했는지 요인을 분석하며 고차원적 통계 인지 패턴을 학습합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "반드시 손으로 그래프를 그려야 하나요? 엑셀을 쓰면 더 편하지 않을까요?",
-          "en": "Do I have to draw graphs by hand? Wouldn't Excel be more convenient?",
-          "ja": "必ず手でグラフを描かなければなりませんか？エクセルを使った方が便利ではないでしょうか？",
-          "zh": "一定要亲手画图表吗？用 Excel 难道不是更方便吗？",
-          "es": "¿Tengo que dibujar gráficos a mano? ¿No sería más fácil usar Excel?",
-          "fr": "Dois-je dessiner les graphiques à la main ? Excel ne serait-il pas plus pratique ?",
-          "de": "Muss ich Diagramme von Hand zeichnen? Wäre Excel nicht bequemer?",
-          "pt": "Preciso desenhar os gráficos à mão? Não seria mais fácil usar o Excel?",
-          "id": "Apakah saya harus menggambar grafik dengan tangan? Bukankah Excel lebih praktis?"
+          "ko": "반드시 손으로 그래프를 그려야 하나요? 엑셀을 쓰면 더 편하지 않을까요?"
         },
         "answer": {
-          "ko": "엑셀이나 데이터 어플리케이션은 처리 과정이 자동화되어 있어 시각 인지 자극이 낮습니다. 직접 자를 대고 손으로 선을 그으며 수치의 높낮이를 그리는 행위는 뇌의 하두정엽 영역을 훨씬 강력하게 매료시키고, 데이터 이면의 인과 관계와 유의미한 패턴을 직관적으로 통찰할 수 있도록 돕습니다.",
-          "en": "Spreadsheets automate the processing, which minimizes visual cognitive stimulation. Placing a ruler and drawing lines by hand engages the inferior parietal lobe much more strongly, helping you intuitively grasp cause-and-effect relationships and hidden patterns.",
-          "ja": "エクセルやデータアプリは処理過程が自動化されているため、視覚的・認知的な刺激が少なめです。直接定規をあてて手で線を引き、数値の増減を描く行為は、脳の下頭頂小葉をはるかに強力に刺激し、データ背後の因果関係や有意義なパターンを直感的に洞察するのに役立ちます。",
-          "zh": "Excel或数据应用将处理过程自动化了, 这导致视觉认知刺激降低。亲自用直尺手画线条去描绘数值高低的行为, 能更强力地吸引大脑下头顶叶区域, 并帮助直观洞察数据背后的因果关系及有益模式。",
-          "es": "Las hojas de cálculo automatizan el proceso, reduciendo el estímulo visual. Dibujar las líneas a mano involucra el lóbulo parietal inferior de forma más fuerte, ayudándole a captar relaciones de causa y efecto.",
-          "fr": "Les tableurs automatisent le processus, ce qui réduit le stimulus visuel. Dessiner les lignes à la main engage le lobe pariétal inférieur beaucoup plus fortement, aidant à comprendre les relations de cause à effet.",
-          "de": "Tabellenkalkulationen automatisieren den Prozess, was den kognitiven Reiz minimiert. Das Zeichnen von Hand beansprucht den Parietallappen stärker und hilft, Ursache-Wirkungs-Beziehungen besser zu verstehen.",
-          "pt": "Planilhas automatizam o processo, reduzindo o estímulo visual. Desenhar as linhas à mão envolve o lobo parietal inferior de forma muito mais forte, ajudando a captar relações de causa e efeito.",
-          "id": "Spreadsheet mengotomatiskan proses, meminimalkan stimulasi kognitif visual. Menggaris dengan penggaris dan menggambar garis secara manual merangsang lobus parietal inferior dengan lebih kuat, membantu memahami pola sebab-akibat."
+          "ko": "엑셀이나 데이터 어플리케이션은 처리 과정이 자동화되어 있어 시각 인지 자극이 낮습니다. 직접 자를 대고 손으로 선을 그으며 수치의 높낮이를 그리는 행위는 뇌의 하두정엽 영역을 훨씬 강력하게 매료시키고, 데이터 이면의 인과 관계와 유의미한 패턴을 직관적으로 통찰할 수 있도록 돕습니다."
         }
       },
       {
         "question": {
-          "ko": "수치에 큰 변화가 없어도 기록할 필요가 있나요?",
-          "en": "Is it necessary to keep recording even when there are no major changes in the numbers?",
-          "ja": "数値に大きな変化がなくても記録する必要はありますか？",
-          "zh": "即使数值没有太大变化，也有必要继续记录吗？",
-          "es": "¿Es necesario seguir registrando si no hay grandes cambios en los números?",
-          "fr": "Est-il nécessaire de continuer à noter s'il n'y a pas de grands changements ?",
-          "de": "Ist es notwendig, weiterzuschreiben, wenn sich die Zahlen kaum ändern?",
-          "pt": "É necessário continuar registrando se não houver grandes mudanças nos números?",
-          "id": "Apakah perlu terus mencatat meskipun tidak ada perubahan besar pada angka tersebut?"
+          "ko": "수치에 큰 변화가 없어도 기록할 필요가 있나요?"
         },
         "answer": {
-          "ko": "네, 매우 중요합니다. 수치의 '평탄한 유지' 또한 일관성이라는 훌륭한 상태를 나타내는 데이터입니다. 변화가 없는 기간을 기록하는 것 자체로 뇌의 충동 제어 메커니즘이 유지되며, 장기적으로 특이값이 나타나는 순간(예: 독서량이 급격히 하락하는 원인 발견 등)에 중요한 대조군 역할을 하게 됩니다.",
-          "en": "Yes, absolutely. A flat line represents consistency, which is valuable data. Documenting periods with no change maintains the brain's impulse control mechanisms and provides a crucial control group when anomalies eventually occur.",
-          "ja": "はい、非常に重要です。数値が「平坦に維持」されていることも、一貫性という素晴らしい状態を示すデータです。変化のない期間を記録すること自体が脳の衝動制御メカニズムを維持し、長期的に特異値が現れる瞬間に重要な対照群の役割を果たすようになります。",
-          "zh": "是的, 非常重要。数值的“平坦维持”也是表现一贯性这一极佳状态的数据。记录没有变化的时间段这一行为本身即可维持大脑的冲动控制机制, 并在长期来看在特异值出现的瞬间扮演起重要的对照组角色。",
-          "es": "Sí, absolutamente. Una línea plana representa consistencia, lo cual es valioso. Registrar periodos sin cambios mantiene los mecanismos de control de impulsos del cerebro y sirve de grupo de control para cuando ocurran anomalías.",
-          "fr": "Oui, tout à fait. Une ligne plate représente la régularité, ce qui est une donnée précieuse. Noter les périodes sans changement maintient le contrôle des impulsions.",
-          "de": "Ja, absolut. Eine flache Linie steht für Beständigkeit, was wichtige Daten sind. Die Erfassung unveränderter Werte schult die Impulskontrolle und dient als Referenz bei späteren Schwankungen.",
-          "pt": "Sim, absolutamente. Uma linha plana representa consistência, o que é valioso. Registrar períodos sem mudanças mantém os mecanismos de controle de impulsos do cérebro.",
-          "id": "Ya, tentu saja. Garis datar mewakili konsistensi, yang merupakan data berharga. Mencatat periode tanpa perubahan mempertahankan mekanisme kontrol impuls otak dan menjadi pembanding penting saat terjadi anomali."
+          "ko": "네, 매우 중요합니다. 수치의 '평탄한 유지' 또한 일관성이라는 훌륭한 상태를 나타내는 데이터입니다. 변화가 없는 기간을 기록하는 것 자체로 뇌의 충동 제어 메커니즘이 유지되며, 장기적으로 특이값이 나타나는 순간(예: 독서량이 급격히 하락하는 원인 발견 등)에 중요한 대조군 역할을 하게 됩니다."
         }
       }
-    ],
-    "pubDate": "2026-06-30",
-    "updatedDate": "2026-06-30"
+    ]
   }
 }

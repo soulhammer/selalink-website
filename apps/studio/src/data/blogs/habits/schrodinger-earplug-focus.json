@@ -1,194 +1,64 @@
 {
   "schrodinger-earplug-focus": {
     "title": {
-      "ko": "세상의 볼륨을 제로로: 노벨상 수상자 슈뢰딩거의 소음 제어 집중법",
-      "en": "Set the World's Volume to Zero: Nobel Laureate Schrödinger's Noise-Control Focus Method",
-      "ja": "世界のボリュームをゼロに：ノーベル賞受賞者シュレーディンガーの騒音制御集中法",
-      "zh": "将世界音量调为零：诺贝尔奖得主薛定谔的控噪专注法",
-      "es": "Poner el volumen del mundo a cero: el método de concentración por control de ruido del Premio Nobel Schrödinger",
-      "fr": "Régler le volume du monde sur zéro : la méthode de concentration par le contrôle du bruit de Schrödinger, prix Nobel",
-      "de": "Die Lautstärke der Welt auf Null stellen: Die Lärmschutz-Fokusmethode des Nobelpreisträgers Schrödinger",
-      "pt": "Defina o volume do mundo como zero: o método de foco de controle de ruído do Prêmio Nobel Schrödinger",
-      "id": "Atur Volume Dunia ke Nol: Metode Fokus Kontrol Kebisingan dari Peraih Nobel Schrödinger"
+      "ko": "세상의 볼륨을 제로로: 노벨상 수상자 슈뢰딩거의 소음 제어 집중법"
     },
     "description": {
-      "ko": "물리학의 거장 에르윈 슈뢰딩거의 귀마개 청각 차단 습관을 소개합니다. 감각 필터링의 인지 소모를 없애 뇌 효율을 극대화하는 3단계 무음 몰입 실천법.",
-      "en": "Introduce the earplug silence routine of physics giant Erwin Schrödinger. Learn how to eliminate sensory filtering load and maximize brain efficiency in 3 steps.",
-      "ja": "物理学の巨匠エルヴィン・シュレーディンガーの耳栓による聴覚遮断習慣を紹介します。感覚フィルタリングの認知消耗を無くし脳効率を極大化する3ステップの無音没頭実践法.",
-      "zh": "介绍物理学巨匠埃尔温·薛定谔使用耳塞隔绝听觉的习惯。通过消除感官过滤的认知消耗来最大化大脑效率的三步无声专注实践指南。",
-      "es": "Presente la rutina de silencio con tapones para los oídos del gigante de la física Erwin Schrödinger. Aprenda a eliminar la carga de filtrado sensorial y a maximizar la eficiencia cerebral en 3 pasos.",
-      "fr": "Présentation de la routine de silence avec bouchons d'oreilles de Schrödinger. Apprenez à éliminer la charge de filtrage sensoriel et à maximiser l'efficacité cérébrale en 3 étapes.",
-      "de": "Erfahren Sie mehr über die geräuschlose Ohrenstöpsel-Routine von Erwin Schrödinger. Nutzen Sie unseren 3-Schritt-Leitfaden, um kognitive Lärmfilterbelastung zu eliminieren.",
-      "pt": "Apresente a rotina de silêncio com protetores auriculares do gigante da física Erwin Schrödinger. Aprenda a eliminar a carga de filtragem sensorial e maximizar a eficiência cerebral em 3 passos.",
-      "id": "Memperkenalkan rutinitas keheningan penyumbat telinga dari fisikawan besar Erwin Schrödinger. Pelajari cara menghilangkan beban penyaringan sensorik dan memaksimalkan efisiensi otak dalam 3 langkah."
+      "ko": "물리학의 거장 에르윈 슈뢰딩거의 귀마개 청각 차단 습관을 소개합니다. 감각 필터링의 인지 소모를 없애 뇌 효율을 극대화하는 3단계 무음 몰입 실천법."
     },
     "authority": {
-      "ko": "에르윈 슈뢰딩거 평전 'Schrödinger: Life and Thought' 및 전두엽 주의 망상활성계(RAS) 연구",
-      "en": "Schrödinger's biography 'Schrödinger: Life and Thought' & Reticular Activating System (RAS) research",
-      "ja": "シュレーディンガー評伝「Schrödinger: Life and Thought」および前頭葉注意・網様体活性系（RAS）研究",
-      "zh": "薛定谔传记《Schrödinger: Life and Thought》与前额叶注意力网状激活系统（RAS）研究",
-      "es": "Biografía de Schrödinger 'Schrödinger: Life and Thought' e investigación sobre el sistema de activación reticular (SAR)",
-      "fr": "Biographie de Schrödinger 'Schrödinger: Life and Thought' & recherche sur le système réticulé activateur (SRA)",
-      "de": "Schrödingers Biografie 'Schrödinger: Life and Thought' & Forschung zum retikulären Aktivierungssystem (RAS)",
-      "pt": "Biografia de Schrödinger 'Schrödinger: Life and Thought' & pesquisa sobre o Sistema Ativador Reticular (SAR)",
-      "id": "Biografi Schrödinger 'Schrödinger: Life and Thought' & Penelitian Sistem Aktivasi Retikular (RAS)"
+      "ko": "Schrodinger Earplug Focus 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "역사상 가장 신비롭고 복잡한 물리 법칙인 파동방정식을 발견하며 현대 양자역학의 기틀을 마련하고 노벨 물리학상을 수상한 오스트리아의 천재 물리학자 에르윈 슈뢰딩거. 그의 기발하고 거대한 수학적 계산과 깊은 물리철학적 사색은 어떤 환경에서 탄생했을까요? 🌌\\n\\n슈뢰딩거는 고도의 연산과 연구에 돌입할 때, 완벽한 청각적 정적을 유지하기 위해 항상 양쪽 귀에 귀마개를 깊숙이 꽂아 넣었습니다. 그는 결핵 치료를 위해 머물던 요양원의 산골 속 소음 없는 환경에서도, 바람 소리나 새 지저귐 같은 자연의 소리마저 뇌의 아까운 에너지와 주의력을 분산시킨다고 판단했습니다. 그는 완벽한 무음 상태(White Silence)를 확보한 후에야 비로소 우주의 파동적 성질을 규명하는 고도의 이론 물리학 연산에 몰두할 수 있었습니다. 슈뢰딩거에게 물리적인 귀마개는 감각의 간섭 없이 순수한 논리에 뇌를 결합시키는 열쇠였습니다.",
-      "en": "Erwin Schrödinger, the genius Austrian physicist who won the Nobel Prize in Physics and laid the foundation for modern quantum mechanics by discovering the wave equation, the most mysterious and complex physical law in history. In what environment did his brilliant mathematical calculations and deep physical-philosophical thoughts come from? 🌌\\n\\nWhenever Schrödinger went into highly complex calculations and research, he always inserted earplugs deeply into both ears to maintain absolute auditory silence. Even in the noiseless environment of the mountain sanatorium where he stayed for tuberculosis treatment, he believed that even natural sounds like the wind or birds chirping wasted the brain's precious energy and distracted attention. Only after securing a state of complete silence (White Silence) could he immerse himself in advanced calculations of theoretical physics. For Schrödinger, physical earplugs were the key to bonding his brain to pure logic without sensory interference.",
-      "ja": "この歴史的習慣の実践において： . ? 🌌\\n\\n , . , . (White Silence) . .",
-      "zh": "在这一历史性惯例的实践中： . ? 🌌\\n\\n , . , . (White Silence) . .",
-      "es": "Erwin Schrödinger, el genial físico austriaco que ganó el Premio Nobel de Física y sentó las bases de la mecánica cuántica moderna al descubrir la ecuación de ondas, la ley física más misteriosa y compleja de la historia. ¿De dónde procedían sus brillantes cálculos matemáticos y sus profundos pensamientos físico-filosóficos? 🌌\\n\\nSiempre que Schrödinger se adentraba en cálculos e investigaciones muy complejos, se introducía tapones en ambos oídos para mantener un silencio auditivo absoluto. Incluso en el entorno sin ruido del sanatorio de montaña donde se alojaba para tratarse de la tuberculosis, creía que incluso los sonidos naturales como el viento o el canto de los pájaros desperdiciaban la preciosa energía del cerebro y distraían la atención. Sólo después de asegurarse un estado de completo silencio (Silencio Blanco) podía sumergirse en los avanzados cálculos de la física teórica. Para Schrödinger, los tapones físicos eran la clave para unir su cerebro a la lógica pura sin interferencias sensoriales.",
-      "fr": "Erwin Schrödinger, le génie autrichien de la physique qui a remporté le prix Nobel de physique et posé les bases de la mécanique quantique moderne en découvrant l'équation de propagation des ondes. Dans quel environnement sont nés ses brillants calculs mathématiques et ses profondes réflexions ? 🌌\\n\\nChaque fois que Schrödinger se lançait dans des calculs et des recherches hautement complexes, il insérait toujours des bouchons d'oreilles pour maintenir un silence auditif absolu. Même dans l'environnement calme du sanatorium de montagne où il séjournait pour soigner sa tuberculose, il pensait que même les bruits de la nature, comme le vent ou le chant des oiseaux, gaspillaient l'énergie du cerveau et perturbaient l'attention. Ce n'est qu'après avoir obtenu un état de silence complet (silence blanc) qu'il pouvait s'immerger dans la physique théorique. Pour Schrödinger, les bouchons d'oreilles physiques étaient la clé pour lier son cerveau à la logique pure sans interférence.",
-      "de": "Erwin Schrödinger, der geniale österreichische Physiker, der den Nobelpreis für Physik erhielt und mit der Entdeckung der Wellengleichung das Fundament für die moderne Quantenmechanik legte. In welcher Umgebung entstanden seine brillanten mathematischen Berechnungen und tiefen physikalisch-philosophischen Gedanken? 🌌\\n\\nWann immer Schrödinger sich mit hochkomplexen Berechnungen und Forschungen befasste, steckte er sich Ohrenstöpsel tief in beide Ohren, um absolute Stille zu wahren. Selbst in der geräuschlosen Umgebung des Bergsanatoriums, in dem er sich wegen seiner Tuberkuloseerkrankung aufhielt, war er der Ansicht, dass selbst Naturgeräusche wie Wind oder Vogelgezwitscher die wertvolle Energie des Gehirns vergeudeten. Erst nachdem er einen Zustand völliger Stille (White Silence) gesichert hatte, konnte er sich in fortgeschrittene Berechnungen der theoretischen Physik vertiefen. Für Schrödinger waren die physischen Ohrenstöpsel der Schlüssel, um sein Gehirn ohne sensorische Störungen an reine Logik zu binden.",
-      "pt": "Erwin Schrödinger, o genial físico austríaco que ganhou o Prémio Nobel da Física e lançou as bases da mecânica quântica moderna ao descobrir a equação de ondas. Em que ambiente surgiram os seus brilhantes cálculos matemáticos e profundos pensamentos físico-filosóficos? 🌌\\n\\nSempre que Schrödinger iniciava cálculos e investigações altamente complexos, introduzia protetores auriculares profundamente em ambos os ouvidos para manter o silêncio auditivo absoluto. Mesmo no ambiente sem ruído del sanatorio de montanha onde esteve internado para tratamento da tuberculose, acreditava que até sons naturais como o vento ou o chilrear dos pássaros desperdiavam a preciosa energia do cérebro e desviavam a atenção. Só depois de garantir um estado de completo silêncio (Silêncio Branco) conseguia mergulhar em cálculos avançados de física teórica. Para Schrödinger, os protetores físicos eram a chave para ligar o seu cérebro à lógica pura sem interferência sensorial.",
-      "id": "Erwin Schrödinger, fisikawan genius Austria yang memenangkan Hadiah Nobel Fisika dan meletakkan dasar bagi mekanika kuantum modern dengan menemukan persamaan gelombang, hukum fisika paling misterius dan kompleks dalam sejarah. Dalam lingkungan seperti apa perhitungan matematika yang cemerlang dan pemikiran fisik-filosofisnya yang mendalam berasal? 🌌\\n\\nSetiap kali Schrödinger melakukan perhitungan dan penelitian yang sangat kompleks, dia selalu memasukkan penyumbat telinga dalam-dalam ke kedua telinganya untuk menjaga keheningan pendengaran mutlak. Bahkan di lingkungan tanpa kebisingan di sanatorium pegunungan tempat dia tinggal untuk perawatan TBC, dia percaya bahwa suara alami seperti angin atau kicauan burung sekalipun membuang energi berharga otak dan mengalihkan perhatian. Hanya setelah memastikan keadaan sunyi total (White Silence), dia dapat membenamkan diri dalam perhitungan fisika teori tingkat lanjut. Bagi Schrödinger, penyumbat telinga fisik adalah kunci untuk menyatukan otaknya pada logika murni tanpa gangguan sensorik."
+      "ko": "\"현재는 과거가 생산해 낸 결과이며, 미래가 창조되어 가는 원인이다.\" 🌌\n\n역사상 가장 신비롭고 복잡한 물리 법칙인 파동방정식을 발견하며 현대 양자역학의 기틀을 마련하고 노벨 물리학상을 수상한 오스트리아의 천재 물리학자 에르윈 슈뢰딩거. 그의 기발하고 거대한 수학적 계산과 깊은 물리철학적 사색은 어떤 환경에서 탄생했을까요?\n\n슈뢰딩거는 고도의 연산과 연구에 돌입할 때, 완벽한 청각적 정적을 유지하기 위해 항상 양쪽 귀에 귀마개를 깊숙이 꽂아 넣었습니다. 그는 결핵 치료를 위해 머물던 요양원의 산골 속 소음 없는 환경에서도, 바람 소리나 새 지저귐 같은 자연의 소리마저 뇌의 아까운 에너지와 주의력을 분산시킨다고 판단했습니다. 그는 완벽한 무음 상태(White Silence)를 확보한 후에야 비로소 우주의 파동적 성질을 규명하는 고도의 이론 물리학 연산에 몰두할 수 있었습니다. 슈뢰딩거에게 물리적인 귀마개는 감각의 간섭 없이 순수한 논리에 뇌를 결합시키는 열쇠였습니다.\n\n오늘 포스트에서는 슈뢰딩거의 귀마개 집중 루틴의 과학적 작동 원리와 현대인들이 복잡하고 정교한 인지 업무 시 이를 어떻게 응용할 수 있는지 알아봅니다."
     },
     "whyTitle": {
-      "ko": "감각 필터링의 에너지 소모를 막는 무음 효과",
-      "en": "Silence Effect to Prevent Energy Consumption of Sensory Filtering",
-      "ja": "感覚フィルタリングのエネルギー消耗を防ぐ無音効果",
-      "zh": "防止感官过滤消耗能量的无声效应",
-      "es": "Efecto del silencio para evitar el consumo de energía del filtrado sensorial",
-      "fr": "L'effet du silence pour éviter la consommation d'énergie du filtrage sensoriel",
-      "de": "Stille-Effekt zur Vermeidung des Energieverbrauchs der sensorischen Filterung",
-      "pt": "Efeito do silêncio para evitar o consumo de energia da filtragem sensorial",
-      "id": "Efek Keheningan untuk Mencegah Konsumsi Energi dari Penyaringan Sensorik"
+      "ko": "감각 필터링의 에너지 소모를 막는 무음 효과"
     },
     "whyDesc": {
-      "ko": "인간의 청각은 잠자는 동안에도 작동할 만큼 위협 감지를 위해 뇌의 각성을 유도하는 가장 예민한 감각 기관입니다. 미세한 환경 소음이 들릴 때마다 뇌는 무의식적으로 이 소음이 안전한지 걸러내는 감각 필터링(Sensory Filtering)을 가동하며 전두엽의 인지 에너지(주의 자원)를 소모합니다. 귀마개를 이용해 청각 입력을 원천 차단하면, 뇌는 불필요한 감각 데이터 필터링에 소모되던 뇌의 산소와 포도당 소비를 완전히 중단합니다. 이로 인해 보존된 모든 에너지는 오직 눈앞의 작업에만 100% 집중 투입되어 인지적 피로를 줄이고 몰입도를 극대화합니다.",
-      "en": "Human hearing is the most sensitive sensory organ that induces arousal of the brain to detect threats, operating even while sleeping. Whenever minor environmental noise is heard, the brain unconsciously activates sensory filtering to check if this noise is safe, consuming the cognitive energy (attention resources) of the prefrontal cortex. When auditory input is completely cut off using earplugs, the brain stops consuming oxygen and glucose wasted on filtering unnecessary sensory data. This allows all conserved energy to be 100% directed only to the task at hand, reducing cognitive fatigue and maximizing focus.",
-      "ja": "人間の聴覚は、睡眠中にも作動するほど脅威感知のために脳の覚醒を誘導する最も敏感な感覚器官です. 微細な環境騒音を聞くたびに、脳は無意識的にこの騒音が安全かどうかをフィルタリングする感覚フィルタリング（Sensory Filtering）を作動させ、前頭葉の認知エネルギー（注意資源）を消耗します. 耳栓を利用して聴覚入力を根本から遮断すれば、脳は不要な感覚データのフィルタリングに消耗されていた脳の酸素と葡萄糖の消費を完全に中断します. これにより保存されたすべてのエネルギーは、目の前の作業だけに100%集中投入され、認知的疲労を減らし没頭度を極大化します.",
-      "zh": "人类的听觉是最敏感的感官器官，其灵敏度甚至在睡眠中也能正常运转以检测威胁。每当听到微小的环境噪音时，大脑就会无意识地启动感官过滤（Sensory Filtering）以检查这种噪音是否安全，从而消耗前额叶皮层的认知能量（注意力资源）。当使用耳塞彻底阻断听觉输入时，大脑就会完全停止消耗原本用于过滤不必要感官数据的氧气和葡萄糖。因此，所有保存下来的能量都可以100%投入到眼前的任务中，从而减轻认知疲劳并最大化专注度。",
-      "es": "El oído humano es el órgano sensorial más sensible que induce la activación del cerebro para detectar amenazas, funcionando incluso mientras se duerme. Cada vez que se escucha un ruido ambiental leve, el cerebro activa inconscientemente el filtrado sensorial para comprobar si este ruido es seguro, consumiendo la energía cognitiva (recursos de atención) de la corteza prefrontal. Cuando se corta por completo la entrada auditiva mediante tapones, el cerebro deja de consumir oxígeno y glucosa desperdiciados en filtrar datos sensoriales innecesarios. Esto permite dirigir el 100% de toda la energía conservada únicamente a la tarea que se tiene entre manos, reduciendo la fatiga cognitiva y maximizando la concentración.",
-      "fr": "L'ouïe humaine est l'organe matériel le plus sensible pour détecter les menaces, fonctionnant même pendant le sommeil. Chaque fois qu'un léger bruit se fait entendre, le cerveau active inconsciemment le filtrage sensoriel pour vérifier s'il est sans danger, consommant l'énergie cognitive du cortex préfrontal. Lorsque l'entrée auditive est coupée par des bouchons d'oreilles, le cerveau cesse de consommer de l'oxygène et du glucose pour filtrer les données inutiles. Cela permet de diriger toute l'énergie conservée uniquement vers la tâche en cours, réduisant la fatigue et maximisant la concentration.",
-      "de": "Das menschliche Gehör ist das empfindlichste Sinnesorgan, das die Aktivierung des Gehirns zur Erkennung von Bedrohungen auslöst und sogar im Schlaf arbeitet. Wann immer geringfügiger Umgebungslärm zu hören ist, aktiviert das Gehirn unbewusst eine sensorische Filterung, um zu prüfen, ob dieser Lärm sicher ist, und verbraucht dabei die kognitive Energie des präfrontalen Kortex. Wenn die auditive Eingabe mithilfe von Ohrenstöpseln vollständig unterbrochen wird, verbraucht das Gehirn keinen Sauerstoff und keine Glukose mehr für das Filtern unnötiger Daten. Dadurch kann die gesamte eingesparte Energie zu 100 % auf die anstehende Aufgabe gerichtet werden, was die kognitive Ermüdung verringert und den Fokus maximiert.",
-      "pt": "A audição humana é o órgão sensorial mais sensível que induz o despertar do cérebro para detetar ameaças, funcionando mesmo durante o sono. Sempre que se ouve um pequeno ruído ambiental, o cérebro ativa inconscientemente a filtragem sensorial para verificar se este ruído é seguro, consumindo a energia cognitiva do córtex pré-frontal. Quando a entrada auditiva é completamente cortada por protetores auriculares, o cérebro deixa de consumir oxigénio e glicose desperdiçados na filtragem de dados desnecessários. Isto permite que toda a energia poupada seja 100% direcionada apenas para a tarefa em mãos, reduzindo a fadiga cognitiva e maximizando o foco.",
-      "id": "Pendengaran manusia adalah organ sensorik paling sensitif yang memicu terjaganya otak untuk mendeteksi ancaman, beroperasi bahkan saat tidur. Setiap kali terdengar kebisingan lingkungan yang kecil, otak secara tidak sadar mengaktifkan penyaringan sensorik untuk memeriksa apakah kebisingan ini aman, menghabiskan energi kognitif (sumber daya perhatian) dari korteks prefrontal. Ketika input pendengaran diputus sepenuhnya menggunakan penyambut telinga, otak berhenti mengonsumsi oksigen dan glukosa yang terbuang untuk menyaring data sensorik yang tidak perlu. Hal ini memungkinkan semua energi yang dihemat 100% diarahkan hanya ke tugas yang sedang dihadapi, mengurangi kelelahan kognitif dan memaksimalkan fokus."
+      "ko": "인간의 청각은 잠자는 동안에도 작동할 만큼 위협 감지를 위해 뇌의 각성을 유도하는 가장 예민한 감각 기관입니다. 미세한 환경 소음이 들릴 때마다 뇌는 무의식적으로 이 소음이 안전한지 걸러내는 감각 필터링(Sensory Filtering)을 가동하며 전두엽의 인지 에너지(주의 자원)를 소모합니다. 귀마개를 이용해 청각 입력을 원천 차단하면, 뇌는 불필요한 감각 데이터 필터링에 소모되던 뇌의 산소와 포도당 소비를 완전히 중단합니다. 이로 인해 보존된 모든 에너지는 오직 눈앞의 작업에만 100% 집중 투입되어 인지적 피로를 줄이고 몰입도를 극대화합니다."
     },
     "cautionTitle": {
-      "ko": "이명 방지 및 귀 위생 수칙 준수하기",
-      "en": "Preventing Tinnitus and Adhering to Ear Hygiene",
-      "ja": "耳鳴りの予防および耳衛生の規則遵守",
-      "zh": "预防耳鸣并遵守耳部卫生规则",
-      "es": "Prevenir el tinnitus y respetar la higiene del oído",
-      "fr": "Prévenir les acouphènes et respecter l'hygiène de l'oreille",
-      "de": "Tinnitus vorbeugen und Ohrhygiene einhalten",
-      "pt": "Prevenir o zumbido e respeitar a higiene do ouvido",
-      "id": "Mencegah Tinnitus dan Mematuhi Kebersihan Telinga"
+      "ko": "이명 방지 및 귀 위생 수칙 준수하기"
     },
     "cautionDesc": {
-      "ko": "귀마개를 너무 장시간 깊게 착용하면 귓속 내부의 압력이 변해 이명이 생기거나, 땀이 차서 외이도염 같은 귀 질환이 발생할 수 있습니다. 집중 세션은 최대 50분 단위로 제한하고, 쉬는 시간에는 반드시 귀마개를 제거하여 귀가 충분히 숨을 쉴 수 있도록 건조해 주어야 합니다. 또한 귀마개는 항상 청결을 유지하고 정기적으로 교체해 위생을 확보하십시오.",
-      "en": "If you wear earplugs too deeply for too long, the pressure inside the ear can change, causing tinnitus, or moisture can build up, leading to ear diseases like otitis externa. Limit focus sessions to a maximum of 50 minutes, and always remove earplugs during breaks to dry them and let your ears breathe. Keep earplugs clean and replace them regularly to ensure hygiene.",
-      "ja": "耳栓をあまりにも長時間深く着用すると、耳の中の内部圧力が変化して耳鳴りが生じたり、汗がこもって外耳道炎のような耳の疾患が発生することがあります. 集中セッションは最大50分単位に制限し、休憩時間には必ず耳栓を取り外して耳が十分に呼吸できるように乾燥させなければなりません. また、耳栓は常に清潔を維持し、定期的に交換して衛生を確保してください.",
-      "zh": "长时间将耳塞塞得太深可能会改变耳内压力导致耳鸣，或者因为积汗导致外耳道炎等耳部疾病。建议将专注时间限制在最多50分钟内，休息时一定要取下耳塞，让耳朵充分“呼吸”并保持干燥。此外，耳塞应始终保持清洁并定期更换以确保卫生。",
-      "es": "Si utiliza tapones para los oídos demasiado profundos durante mucho tiempo, la presión en el interior del oído puede cambiar, provocando tinnitus, o puede acumularse humedad, dando lugar a enfermedades del oído como la otitis externa. Limite las sesiones de concentración a un máximo de 50 minutos y retire siempre los tapones durante los descansos para secarlos y dejar que los oídos respiren. Mantenga limpios los tapones y sustitúyalos con regularidad para garantizar la higiene.",
-      "fr": "Porter des bouchons d'oreilles trop profondément ou trop longtemps peut modifier la pression dans l'oreille et causer des acouphènes, ou accumuler de l'humidité provoquant des otites. Limitez les sessions à 50 minutes maximum, et retirez-les pendant les pauses pour laisser l'oreille respirer. Gardez-les propres ou remplacez-les régulièrement.",
-      "de": "Wenn Sie Ohrenstöpsel zu lange und zu tief tragen, kann sich der Druck im Ohr verändern, was Tinnitus verursachen kann, oder es kann sich Feuchtigkeit ansammeln, was zu Ohrentzündungen führt. Begrenzen Sie Fokussitzungen auf maximal 50 Minuten und entfernen Sie die Stöpsel in den Pausen, damit die Ohren lüften können. Halten Sie die Stöpsel sauber und ersetzen Sie sie regelmäßig.",
-      "pt": "Se usar protetores auriculares de forma muito profunda por muito tempo, a pressão interna do ouvido pode mudar, causando zumbido, ou a humidade pode acumular-se, levando a infeções como otite externa. Limite as sessões de foco a um máximo de 50 minutos, e remova sempre os protetores durante os intervalos para secá-los e deixar os ouvidos respirar. Mantenha os protetores limpos e substitua-os regularmente.",
-      "id": "Jika Anda memakai penyumbat telinga terlalu dalam untuk waktu yang lama, tekanan di dalam telinga dapat berubah, menyebabkan tinnitus, atau kelembapan dapat menumpuk, menyebabkan penyakit telinga seperti otitis eksterna. Batasi sesi fokus maksimal 50 menit, dan selalu lepas penyumbat telinga saat istirahat untuk mengeringkannya dan membiarkan telinga bernapas. Jaga penyumbat telinga tetap bersih dan ganti secara teratur."
+      "ko": "귀마개를 너무 장시간 깊게 착용하면 귓속 내부의 압력이 변해 이명이 생기거나, 땀이 차서 외이도염 같은 귀 질환이 발생할 수 있습니다. 집중 세션은 최대 50분 단위로 제한하고, 쉬는 시간에는 반드시 귀마개를 제거하여 귀가 충분히 숨을 쉴 수 있도록 건조해 주어야 합니다. 또한 귀마개는 항상 청결을 유지하고 정기적으로 교체해 위생을 확보하십시오."
     },
     "steps": [
       {
         "name": {
-          "ko": "밀착형 소음 차단 도구 준비",
-          "en": "Preparing Tight Noise-Blocking Tools",
-          "ja": "密着型騒音遮断ツールの準備",
-          "zh": "准备贴合式隔音工具",
-          "es": "Preparar herramientas de bloqueo de ruido ajustadas",
-          "fr": "Préparer des outils d'insonorisation étanches",
-          "de": "Eng anliegende Lärmschutzwerkzeuge vorbereiten",
-          "pt": "Preparando ferramentas de bloqueio de ruído ajustadas",
-          "id": "Mempersiapkan Alat Pemblokir Kebisingan yang Rapat"
+          "ko": "밀착형 소음 차단 도구 준비"
         },
         "text": {
-          "ko": "자신의 귓구멍 크기에 잘 맞고 차음률(NRR)이 30dB 이상인 실리콘/폼 귀마개나 성능이 우수한 노이즈 캔슬링 장비를 준비합니다.",
-          "en": "Prepare silicone/foam earplugs that fit your ear canal size with a Noise Reduction Rating (NRR) of 30dB or higher, or high-performance noise-canceling gear.",
-          "ja": "自分の耳の穴のサイズにフィットし、遮音率（NRR）が30dB以上のシリコン/フォーム耳栓や、性能の優れたノイズキャンセリング機器を準備します.",
-          "zh": "准备适合自己耳道尺寸且降噪等级（NRR）在30dB以上的硅胶/海绵耳塞，或性能优异的防噪设备。",
-          "es": "Prepare tapones de silicona o espuma que se adapten al tamaño de su canal auditivo con un índice de reducción de ruido (NRR) de 30 dB o superior, o un equipo de cancelación de ruido de alto rendimiento.",
-          "fr": "Préparez des bouchons en silicone/mousse adaptés à votre conduit auditif avec un indice de réduction du bruit (NRR) de 30dB ou plus, ou un casque antibruit performant.",
-          "de": "Bereiten Sie Silikon-/Schaumstoff-Ohrenstöpsel vor, die gut in Ihren Gehörgang passen und eine Schalldämmung (NRR) von 30 dB oder mehr aufweisen, oder nutzen Sie hochwertige geräuschunterdrückende Kopfhörer.",
-          "pt": "Prepare protetores auriculares de silicone/espuma que se ajustem ao tamanho do seu canal auditivo com uma Classificação de Redução de Ruído (NRR) de 30dB ou superior, ou equipamento de cancelamento de ruído de alto desempenho.",
-          "id": "Siapkan penyumbat telinga silikon/busa yang pas dengan ukuran saluran telinga Anda dengan Noise Reduction Rating (NRR) 30dB atau lebih tinggi, atau perangkat peredam bising berkinerja tinggi."
+          "ko": "자신의 귓구멍 크기에 잘 맞고 차음률(NRR)이 30dB 이상인 실리콘/폼 귀마개나 성능이 우수한 노이즈 캔슬링 장비를 준비합니다."
         }
       },
       {
         "name": {
-          "ko": "귀마개 밀착 착용 및 기기 무음화",
-          "en": "Tight Fitting of Earplugs and Muting Devices",
-          "ja": "耳栓の密着着用および機器の無音化",
-          "zh": "贴合佩戴耳塞并将设备静音",
-          "es": "Ajuste apretado de los tapones y silenciar dispositivos",
-          "fr": "Ajustement étanche des bouchons et mise en sourdine des appareils",
-          "de": "Ohrenstöpsel dicht einsetzen und Geräte stumm schalten",
-          "pt": "Ajuste firme dos protetores e silenciar dispositivos",
-          "id": "Pemasangan Penyumbat Telinga yang Rapat dan Mematikan Suara Perangkat"
+          "ko": "귀마개 밀착 착용 및 기기 무음화"
         },
         "text": {
-          "ko": "공부나 분석을 시작하기 직전, 귀마개를 압착해 외이도에 안전하게 밀착시킵니다. 작업할 PC나 스마트폰의 알림을 완전 무음으로 전환하여 시각적 방해 요소도 방지합니다.",
-          "en": "Right before starting study or analysis, compress the earplugs and secure them tightly in the ear canal. Switch PC or smartphone notifications to absolute silent to prevent visual distractions.",
-          "ja": "勉強や分析を始める直前、耳栓を圧縮して外耳道に安全に密着させます. 作業するPCやスマートフォンの通知を完全無音に切り替え、視覚的な妨害要素も防止します.",
-          "zh": "开始学习或分析前，压缩耳塞并牢固戴入外耳道内。将正在操作的电脑或手机的提示音转为完全静音，防止视觉上的干扰。",
-          "es": "Justo antes de empezar a estudiar o analizar, comprima los tapones y colóquelos firmemente en el canal auditivo. Cambie las notificaciones del PC o del smartphone a silencio absoluto para evitar también las distracciones visuales.",
-          "fr": "Juste avant de commencer, comprimez les bouchons et insérez-les dans le conduit auditif. Passez les notifications de l'ordinateur ou du smartphone en mode silencieux pour éviter les distractions visuelles.",
-          "de": "Drücken Sie die Ohrenstöpsel kurz vor Beginn des Studiums zusammen und setzen Sie sie dicht in den Gehörgang ein. Schalten Sie PC- oder Smartphone-Benachrichtigungen stumm, um auch visuelle Ablenkungen zu vermeiden.",
-          "pt": "Antes de iniciar o estudo ou análise, comprima os protetores e fixe-os firmemente no canal auditivo. Coloque as notificações do PC o smartphone em modo silencioso para evitar também distrações visuais.",
-          "id": "Tepat sebelum mulai belajar atau menganalisis, tekan penyumbat telinga dan pasang dengan rapat di saluran telinga. Alihkan notifikasi PC atau ponsel ke mode senyap total untuk mencegah gangguan visual."
+          "ko": "공부나 분석을 시작하기 직전, 귀마개를 압착해 외이도에 안전하게 밀착시킵니다. 작업할 PC나 스마트폰의 알림을 완전 무음으로 전환하여 시각적 방해 요소도 방지합니다."
         }
       },
       {
         "name": {
-          "ko": "50분 몰입 세션 후 귀 환기",
-          "en": "Ventilating Ears After 50-Minute Session",
-          "ja": "50分間の没頭セッション後の耳の換気",
-          "zh": "专注50分钟后给耳朵通风",
-          "es": "Ventilar los oídos tras una sesión de 50 minutos",
-          "fr": "Aérer les oreilles après une session de 50 minutes",
-          "de": "Ohren lüften nach einer 50-minütigen Fokussitzung",
-          "pt": "Ventilar os ouvidos após sessão de 50 minutos",
-          "id": "Mengangin-anginkan Telinga Setelah Sesi Fokus 50 Menit"
+          "ko": "50분 몰입 세션 후 귀 환기"
         },
         "text": {
-          "ko": "타이머를 통해 50분 동안 완전 무음 상태에서 고도로 집중해 공부한 뒤, 알림이 울리면 반드시 귀마개를 분리하고 귓속의 습기를 말리며 10분간 휴식을 취합니다.",
-          "en": "Study with high concentration in absolute silence for 50 minutes, then when the timer goes off, make sure to remove the earplugs, dry the ears, and rest for 10 minutes.",
-          "ja": "タイマーを通じて50分間完全な無音状態で高度に集中して勉強した後、アラームが鳴ったら必ず耳栓を取り外し、耳の中の湿気を乾かしながら10分間休息を取ります.",
-          "zh": "设定计时器在完全静音的状态下高度集中注意力学习50分钟，当提示音响起时，务必取下耳塞，晾干耳道内积汗，并休息10分钟。",
-          "es": "Estudie con gran concentración en absoluto silencio durante 50 minutos y, cuando suene el temporizador, retire los tapones, seque los oídos y descanse durante 10 minutos.",
-          "fr": "Étudiez avec une concentration maximale pendant 50 minutes, puis retirez les bouchons, séchez vos oreilles et reposez-vous pendant 10 minutes.",
-          "de": "Lernen Sie 50 Minuten lang konzentriert in absoluter Stille. Wenn der Timer klingelt, nehmen Sie die Ohrenstöpsel heraus, lassen Sie die Ohren lüften und ruhen Sie sich 10 Minuten lang aus.",
-          "pt": "Estude com alta concentração em silêncio absoluto por 50 minutos e, quando o cronômetro tocar, retire os protetores, seque os ouvidos e descanse por 10 minutos.",
-          "id": "Belajar dengan konsentrasi tinggi dalam senyap total selama 50 menit, lalu ketika pengukur waktu berbunyi, pastikan untuk melepas penyumbat telinga, keringkan telinga, dan beristirahatlah selama 10 menit."
+          "ko": "타이머를 통해 50분 동안 완전 무음 상태에서 고도로 집중해 공부한 뒤, 알림이 울리면 반드시 귀마개를 분리하고 귓속의 습기를 말리며 10분간 휴식을 취합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "완벽한 무음 상태가 오히려 집중을 방해하거나 불안감을 유발할 때는 어떻게 해야 하나요?",
-          "en": "What should I do if complete silence actually hinders concentration or causes anxiety?",
-          "ja": "完全な無音状態がむしろ集中を妨げたり、不安感を誘発したりするときはどうすればいいですか？",
-          "zh": "如果完全静音反而分散注意力或引起焦虑该怎么办？",
-          "es": "¿Qué debo hacer si el silencio completo dificulta la concentración o provoca ansiedad?",
-          "fr": "Que faire si le silence complet nuit à la concentration ou provoque de l'anxiété ?",
-          "de": "Was soll ich tun, wenn völlige Stille die Konzentration stört oder Angstgefühle hervorruft?",
-          "pt": "O que devo fazer se o silêncio absoluto prejudicar a concentração ou causar ansiedade?",
-          "id": "Apa yang harus saya lakukan jika keheningan total justru menghambat konsentrasi atau menyebabkan kecemasan?"
+          "ko": "완벽한 무음 상태가 오히려 집중을 방해하거나 불안감을 유발할 때는 어떻게 해야 하나요?"
         },
         "answer": {
-          "ko": "완전한 적막이 어색한 초심자의 경우, 백색 소음(빗소리, 파도 소리 등)이나 가사가 없는 단순한 핑크 노이즈를 재생하는 것부터 시작해 뇌가 적막에 적응하는 인지 프레이밍 과정을 거치는 것이 좋습니다.",
-          "en": "For beginners who feel awkward in complete silence, it is recommended to start by playing white noise (rain, wave sounds) or wordless pink noise to let the brain adapt to the quietness.",
-          "ja": "完全な静寂が不慣れな初心者の場合、ホワイトノイズ（雨の音、波の音など）や歌詞のないシンプルなピンクノイズを再生することから始め、脳が静寂に適応する認知フレーミング過程を経ることをお勧めします.",
-          "zh": "对于不习惯完全静音的初学者，建议先播放白噪音（雨声、波浪声）或无歌词的粉红噪音，让大脑逐步适应安静的环境。",
-          "es": "Para los principiantes que se sientan incómodos en completo silencio, se recomienda empezar reproduciendo ruido blanco (sonidos de lluvia o de olas) o ruido rosa simple sin letra, para que el cerebro pase por un proceso de encuadre cognitivo y se adapte al silencio.",
-          "fr": "Pour les débutants qui se sentent mal à l'aise dans un silence complet, il est recommandé de commencer par diffuser du bruit blanc (bruit de pluie, de vagues, etc.) ou du bruit rose simple sans paroles, afin que le cerveau s'adapte au silence par un processus de cadrage cognitif.",
-          "de": "Für Anfänger, denen völlige Stille unangenehm ist, empfiehlt es sich, zunächst weißes Rauschen (Regen- oder Wellengeräusche) oder einfaches rosa Rauschen ohne Text abzuspielen, damit sich das Gehirn in einem kognitiven Anpassungsprozess an die Stille gewöhnt.",
-          "pt": "Para iniciantes que se sentem desconfortáveis no silêncio absoluto, recomenda-se começar reproduzindo ruído branco (sons de chuva, ondas, etc.) ou ruído rosa simples sem letra para permitir que o cérebro se adapte ao silêncio por meio de um processo de enquadramento cognitivo.",
-          "id": "Bagi pemula yang merasa canggung dalam keheningan total, disarankan untuk mulai dengan memutar white noise (suara hujan, ombak, dll.) atau pink noise sederhana tanpa lirik agar otak dapat beradaptasi dengan keheningan melalui proses pembingkaian kognitif."
+          "ko": "완전한 적막이 어색한 초심자의 경우, 백색 소음(빗소리, 파도 소리 등)이나 가사가 없는 단순한 핑크 노이즈를 재생하는 것부터 시작해 뇌가 적막에 적응하는 인지 프레이밍 과정을 거치는 것이 좋습니다."
         }
       }
-    ],
-    "pubDate": "2026-04-25",
-    "updatedDate": "2026-04-25"
+    ]
   }
 }

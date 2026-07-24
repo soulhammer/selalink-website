@@ -16,23 +16,23 @@ faqs:
     answer: "Une perte d'appétit soudaine ou des crottes minuscules sont des signes précoces de stase gastro-intestinale. L'arrêt du transit d'un lapin pouvant être fatal rapidement, contactez immédiatement un vétérinaire pour animaux exotiques."
 ---
 
-Avec de minuscules oreilles et un corps rond et compact, le lapin nain de couleur est adoré dans le monde entier. Cependant, leur petite taille les rend facilement craintifs, et ils sont très sujets à des problèmes potentiellement mortels comme la stase gastro-intestinale (GI Stasis) si l'apport en fibres est insuffisant. Lorsqu'ils sont anxieux, ils tapent le sol avec leurs pattes arrière en guise de signal d'avertissement. Aujourd'hui, PetSelf analyse ces comportements de tapements de pattes et partage une routine de soins à domicile en 3 étapes pour la santé digestive et la sécurité des griffes.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Preuves Vétérinaires et Comportementales
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Directives Médicales de la House Rabbit Society et Normes Vétérinaires pour Petits Animaux</strong>.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Lapin Nain de Couleur (Netherland Dwarf Rabbit) Profil principal
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">8 ~ 12 ans</span></div>
@@ -43,7 +43,7 @@ Avec de minuscules oreilles et un corps rond et compact, le lapin nain de couleu
 
 ## 1. Expression émotionnelle du lapin nain : tapements de pattes et grincements de dents
 
-Les lapins nains de couleur tapent leurs pattes arrière avec force contre le sol 'Tapements de pattes arrière (Thumping)' pour avertir d'un danger ou exprimer une profonde frustration. À l'inverse, lorsqu'ils sont détendus et heureux, ils frottent doucement leurs dents pour produire un léger cliquetis appelé 'Grincement de dents (Teeth Purring)'. Reconnaître ces signaux assure un lien heureux et sain.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Les lapins nains de couleur tapent leurs pattes arrière avec force contre le so
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Fourniture de foin de fléole des prés riche en fibres et d'eau fraîche</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Pour l'usure des dents et une digestion active, remplissez le râtelier de foin de fléole (Timothy) frais et dépoussiéré, et nettoyez le bol d'eau.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Les lapins nains de couleur tapent leurs pattes arrière avec force contre le so
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi : Nettoyage du bac à litière et inspection des pododermatites</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Nettoyez le bac à litière pour maintenir l'hygiène, et verifiez leurs coussinets pour prévenir les pododermatites (sore hocks) causées par des sols glissants ou durs.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Les lapins nains de couleur tapent leurs pattes arrière avec force contre le so
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir : Vérification des jouets à ronger et coupe régulière des griffes</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Fournissez des branches fraîches de pommier pour satisfaire leur instinct de ronger et verifiez la longueur des griffes pour éviter les déchirures ou blessures.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Les lapins nains de couleur tapent leurs pattes arrière avec force contre le so
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Les lapins nains de couleur tapent leurs pattes arrière avec force contre le so
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Non. Les lapins ont la peau très fine et se mouiller peut provoquer une hypothermie sévère ou un choc fatal. Ils se nettoient d'eux-mêmes grâce au toilettage. Nettoyez uniquement les zones sales localisées en douceur avec une serviette humide.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Les lapins nains de couleur tapent leurs pattes arrière avec force contre le so
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Une perte d'appétit soudaine ou des crottes minuscules sont des signes précoces de stase gastro-intestinale. L'arrêt du transit d'un lapin pouvant être fatal rapidement, contactez immédiatement un vétérinaire pour animaux exotiques.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </details>
 </div>

@@ -1,14 +1,14 @@
 ---
-formatVersion: 4
 title: "흔들리지 않는 자아를 세우는 기록력? 엘리너 루스벨트의 매일 저녁 성찰 쓰기"
 description: "미국의 가장 영향력 있는 여성이자 퍼스트 레이디인 엘리너 루스벨트. 27년간 매일 저녁 그날의 삶을 기고하며 자아를 정립한 저널링 루틴과 메타인지 효과를 밝힙니다."
-pubDate: "2026-03-18"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
-heroImage: "/images/blog/roosevelt_my_day_column.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/roosevelt_my_day_column.png"
 app: "buildself"
-authority: "루스벨트 칼럼집 'My Day' 및 실험심리학 저널 인지 연구 논문"
-updatedDate: "2026-03-18"
+formatVersion: 4
+authority: "엘리너 루스벨트 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "일과 사실 덤덤히 나열하기"
     text: "늦은 저녁 일기장을 펼치고, 오늘 한 일이나 대화를 나눈 대상 등 객관적인 사실 3가지를 가식 없이 팩트 위주로 편안하게 적습니다."
@@ -21,6 +21,7 @@ faqs:
     answer: "일상이 반복되더라도 그 안에서 마주하는 인물, 음식의 맛, 날씨의 냄새 등 매일의 미세한 변화를 한 가지씩 포착해 보십시오. 미세한 다른 점을 찾는 시도 자체가 두뇌의 주의력을 발달시키고 메타인지를 훈련하는 훌륭한 뇌 연습이 됩니다."
   - question: "디지털 일기장 앱이나 노션(Notion)에 입력해도 효과가 있나요?"
     answer: "네, 타이핑 도구를 활용해도 생각을 정리하고 외재화하는 메타인지적 효과는 동일하게 누릴 수 있습니다. 중요한 것은 손이든 자판이든 내면의 생각을 문장 구조로 명확히 시각화하는 과정 그 자체입니다."
+
 ---
 
 "매일 당신이 두려워하는 일을 하나씩 하라." 🚶‍♂️
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 루스벨트 칼럼집 'My Day' 및 실험심리학 저널 인지 연구 논문 및 관련 인지과학/생리학 연구 결과를 기반으로 작성되었습니다.
+      본 콘텐츠는 <strong>엘리너 루스벨트 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 roosevelt-my-day-column 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 단기 기억의 장기 공고화와 인지적 메타인지 촉진
+## 단기 기억의 장기 공고화와 인지적 메타인지 촉진
 
 우리가 일과 중 겪은 경험과 감정들은 정돈되지 않은 채 방치되면 뇌의 편도체(Amygdala)를 자극하여 스트레스 기억으로 내재화되거나 쉽게 휘발되어 뇌의 작업 용량만 채웁니다.
 
@@ -53,8 +54,9 @@ faqs:
 
 ---
 
-## 2. 실천 가이드: 현대인을 위한 3단계 루틴
+## 가식적이거나 이상적인 목표 대신 관조적인 덤덤함을 유지하십시오
 
+저널링을 쓸 때 억지로 긍정적인 말만 늘어놓거나, 실행하기 어려운 무거운 계획만 기록하면 오히려 뇌는 인지적 스트레스를 받아 기록 습관을 방해합니다. 엘리너처럼 오늘 겪은 물리적 사실과 만난 사람 등 있었던 일을 덤덤하게 복기하고, 그 사실에 내포된 자신의 내면 상태를 물 흐르듯 가볍게 기록하는 편안함이 필수적입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -66,7 +68,6 @@ faqs:
   </p>
 </div>
 
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
@@ -76,7 +77,6 @@ faqs:
     나열된 사실을 보며 자신이 느꼈던 생각, 감정의 미세한 파동(감사함, 짜증남, 신기함 등)을 왜곡하지 않고 단어 단위로 덤덤히 덧붙여 봅니다.
   </p>
 </div>
-
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -88,27 +88,13 @@ faqs:
   </p>
 </div>
 
-
----
-
-## 3. 가식적이거나 이상적인 목표 대신 관조적인 덤덤함을 유지하십시오
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      저널링을 쓸 때 억지로 긍정적인 말만 늘어놓거나, 실행하기 어려운 무거운 계획만 기록하면 오히려 뇌는 인지적 스트레스를 받아 기록 습관을 방해합니다. 엘리너처럼 오늘 겪은 물리적 사실과 만난 사람 등 있었던 일을 덤덤하게 복기하고, 그 사실에 내포된 자신의 내면 상태를 물 흐르듯 가볍게 기록하는 편안함이 필수적입니다.
-    </p>
-  </div>
-</div>
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>일기를 매일 쓰다 보니 쓸 내용이 매번 똑같은데 어떻게 하죠?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -116,10 +102,9 @@ faqs:
       일상이 반복되더라도 그 안에서 마주하는 인물, 음식의 맛, 날씨의 냄새 등 매일의 미세한 변화를 한 가지씩 포착해 보십시오. 미세한 다른 점을 찾는 시도 자체가 두뇌의 주의력을 발달시키고 메타인지를 훈련하는 훌륭한 뇌 연습이 됩니다.
     </p>
   </details>
-  
-
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>디지털 일기장 앱이나 노션(Notion)에 입력해도 효과가 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -127,5 +112,4 @@ faqs:
       네, 타이핑 도구를 활용해도 생각을 정리하고 외재화하는 메타인지적 효과는 동일하게 누릴 수 있습니다. 중요한 것은 손이든 자판이든 내면의 생각을 문장 구조로 명확히 시각화하는 과정 그 자체입니다.
     </p>
   </details>
-  
 </div>

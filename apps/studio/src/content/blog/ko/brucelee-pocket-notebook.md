@@ -1,14 +1,14 @@
 ---
-formatVersion: 4
 title: "번뜩이는 영감을 포획하는 사냥법? 브루스 리의 포켓 수첩 밀착 기록 루틴"
 description: "20세기 최고의 무술가이자 액션 스타 브루스 리(이소룡). 주머니에 포켓 수첩을 늘 소지하며 즉각 메모했던 그의 기록 철학과 아이디어 포획의 인지 메커니즘을 규명합니다."
-pubDate: "2026-04-06"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
-heroImage: "/images/blog/brucelee_pocket_notebook.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/brucelee_pocket_notebook.png"
 app: "buildself"
-authority: "이소룡 아카이브 'Artist of Life' 및 인지 기술 학술 정보"
-updatedDate: "2026-04-06"
+formatVersion: 4
+authority: "브루스 리 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "포켓형 물리적/디지털 메모 도구의 상시 휴대"
     text: "바지나 가방 안주머니 등 언제든 손가락을 뻗으면 바로 1초 만에 닿을 수 있는 공간에 손바닥 크기의 소형 수첩과 작은 미니 펜을 휴대합니다. 스마트폰을 쓰는 경우, 홈 화면에 원터치 메모 위젯을 설치합니다."
@@ -21,6 +21,7 @@ faqs:
     answer: "네, 좋은 대안입니다. 목소리로 녹음하는 것 역시 작업 기억을 빠르게 밖으로 끄집어내는 유용한 방법입니다. 다만, 나중에 다시 읽고 뇌에 시각화해 구조화하기 위해서는 텍스트로 보존되는 포맷이 유리하므로 음성 기록을 정기적으로 텍스트화해 주는 것이 좋습니다."
   - question: "메모를 적어놓고 나중에 다시 읽어보지 않게 되는데 방법이 없을까요?"
     answer: "메모의 가치는 기록한 사실 자체보다 '다시 읽고 행동에 결합할 때' 극대화됩니다. 매일 아침 양치질 전이나 퇴근 전 스마트폰 알림을 맞춰두고, 단 1분간 어제 쓴 수첩 페이지를 기계적으로 읽는 리마인드 루틴을 캘린더나 트리거 행동과 연결해 보세요."
+
 ---
 
 "아는 것만으로는 충분하지 않다. 적용해야 한다. 하고자 하는 것만으로는 충분하지 않다. 행해야 한다." 🚶‍♂️
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 이소룡 아카이브 'Artist of Life' 및 인지 기술 학술 정보 및 관련 인지과학/생리학 연구 결과를 기반으로 작성되었습니다.
+      본 콘텐츠는 <strong>브루스 리 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 brucelee-pocket-notebook 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 망상활성계(RAS) 자극과 뇌의 정보 선택 처리
+## 망상활성계(RAS) 자극과 뇌의 정보 선택 처리
 
 인간의 뇌는 깨어 있는 동안 수백만 비트의 정보를 받아들이지만, 생존과 관심 있는 주제 외의 정보는 인지 필터를 통해 즉각 지워버립니다. 
 
@@ -53,8 +54,9 @@ faqs:
 
 ---
 
-## 2. 실천 가이드: 현대인을 위한 3단계 루틴
+## 정돈된 구조보다 타이밍이 훨씬 중요합니다
 
+아이디어 메모의 제1법칙은 영감이 떠오른 지 5초 이내에 펜을 대는 신속함입니다. 수첩에 예쁜 글씨로 단락을 나누어 예쁘게 적으려고 고민하지 마십시오. 날려 쓴 몇 단어, 미완성된 낙서 같은 문장이라도 생각의 불씨를 붙여 두는 것만으로도 나중에 큰 지식으로 연결됩니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -66,7 +68,6 @@ faqs:
   </p>
 </div>
 
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
@@ -76,7 +77,6 @@ faqs:
     책을 읽거나 길을 걷거나 기획을 생각하다가 마음속에 노크하는 기발한 단어나 문장, 훈련 목표를 발견하면 그 자리에서 즉시 수첩을 꺼내 몇 글자의 키워드로 단번에 적습니다.
   </p>
 </div>
-
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -88,27 +88,13 @@ faqs:
   </p>
 </div>
 
-
----
-
-## 3. 정돈된 구조보다 타이밍이 훨씬 중요합니다
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      아이디어 메모의 제1법칙은 영감이 떠오른 지 5초 이내에 펜을 대는 신속함입니다. 수첩에 예쁜 글씨로 단락을 나누어 예쁘게 적으려고 고민하지 마십시오. 날려 쓴 몇 단어, 미완성된 낙서 같은 문장이라도 생각의 불씨를 붙여 두는 것만으로도 나중에 큰 지식으로 연결됩니다.
-    </p>
-  </div>
-</div>
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>수첩 대신 스마트폰 녹음 기능으로 아이디어를 녹음해도 될까요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -116,10 +102,9 @@ faqs:
       네, 좋은 대안입니다. 목소리로 녹음하는 것 역시 작업 기억을 빠르게 밖으로 끄집어내는 유용한 방법입니다. 다만, 나중에 다시 읽고 뇌에 시각화해 구조화하기 위해서는 텍스트로 보존되는 포맷이 유리하므로 음성 기록을 정기적으로 텍스트화해 주는 것이 좋습니다.
     </p>
   </details>
-  
-
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>메모를 적어놓고 나중에 다시 읽어보지 않게 되는데 방법이 없을까요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -127,5 +112,4 @@ faqs:
       메모의 가치는 기록한 사실 자체보다 '다시 읽고 행동에 결합할 때' 극대화됩니다. 매일 아침 양치질 전이나 퇴근 전 스마트폰 알림을 맞춰두고, 단 1분간 어제 쓴 수첩 페이지를 기계적으로 읽는 리마인드 루틴을 캘린더나 트리거 행동과 연결해 보세요.
     </p>
   </details>
-  
 </div>

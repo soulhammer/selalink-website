@@ -1,194 +1,64 @@
 {
   "verne-morning-scrap": {
     "title": {
-      "ko": "새벽 5시의 지식 조각상: 쥘 베른의 디테일 설계용 스크랩 습관",
-      "en": "The 5 AM Knowledge Archive: Jules Verne's Scrapbook Habit for Detail Design",
-      "ja": "早朝5時の知識アーカイブ：ジュール・ヴェルヌのディテール設計用スクラップ習慣",
-      "zh": "凌晨5点的知识档案：儒勒·凡尔纳用于细节设计的剪贴习惯",
-      "es": "El archivo de conocimiento de las 5 a.m.: el hábito de recorte de Julio Verne para el diseño de detalles",
-      "fr": "L'archive de connaissances de 5h : l'habitude de scrapbooking de Jules Verne pour le design des détails",
-      "de": "Das Wissensarchiv um 5 Uhr morgens: Jules Vernes Sammelalbum-Gewohnheit für Detaildesign",
-      "pt": "O arquivo de conhecimento das 5h: o hábito de scrapbooking de Júlio Verne para design de detalhes",
-      "id": "Arsip Pengetahuan Pukul 5 Pagi: Kebiasaan Kliping Jules Verne untuk Desain Detail"
+      "ko": "새벽 5시의 지식 조각상: 쥘 베른의 디테일 설계용 스크랩 습관"
     },
     "description": {
-      "ko": "SF 소설의 개척자 쥘 베른이 매일 아침 새벽 5시에 실행했던 정보 카드 스크랩 습관을 알아봅니다. 정보를 카테고리화하여 의미 기억을 강화하는 3단계 현대적 실천 가이드.",
-      "en": "Discover the 5 AM research card routine of SF pioneer Jules Verne. Follow our 3-step modern guide to categorize information and boost your semantic memory.",
-      "ja": "SF小説の開拓者ジュール・ヴェルヌが毎朝5時に実行していた情報カードのスクラップ習慣を紹介します。情報を分類して意味記憶を強化する3ステップ現代的実践ガイド.",
-      "zh": "了解科幻小说先驱儒勒·凡尔纳每天清晨5点执行的信息卡剪贴习惯。通过对信息进行分类来增强语义记忆的现代三步实践指南。",
-      "es": "Descubra la rutina de las tarjetas de investigación de las 5 a.m. del pionero de la ciencia ficción Julio Verne. Siga nuestra guía de 3 pasos para categorizar la información y potenciar su memoria semántica.",
-      "fr": "Découvrez la routine des fiches de recherche à 5h du matin de Jules Verne, pionnier de la SF. Suivez notre guide en 3 étapes pour catégoriser l'information.",
-      "de": "Erfahren Sie mehr über die Forschungsdaten-Routine von SF-Pionier Jules Verne um 5 Uhr morgens. Nutzen Sie unseren 3-Schritt-Leitfaden, um Informationen zu kategorisieren.",
-      "pt": "Descubra a rotina de fichas de pesquisa das 5h do pioneiro da ficção científica Júlio Verne. Siga o guia de 3 passos para categorizar informações.",
-      "id": "Temukan rutinitas kartu penelitian pukul 5 pagi dari pionir fiksi ilmiah Jules Verne. Ikuti panduan 3 langkah kami untuk mengkategorikan informasi."
+      "ko": "SF 소설의 개척자 쥘 베른이 매일 아침 새벽 5시에 실행했던 정보 카드 스크랩 습관을 알아봅니다. 정보를 카테고리화하여 의미 기억을 강화하는 3단계 현대적 실천 가이드."
     },
     "authority": {
-      "ko": "쥘 베른 평전 'Jules Verne: Inventor of Science Fiction' 및 정교화 시연 인지 인출 이론",
-      "en": "Jules Verne's Biography 'Jules Verne: Inventor of Science Fiction' & Cognitive Retrieval Theory",
-      "ja": "ヴェルヌ評伝「Jules Verne: Inventor of Science Fiction」および認知心理学の意味論的記憶理論",
-      "zh": "凡尔纳传记《Jules Verne: Inventor of Science Fiction》与认知检索理论",
-      "es": "Biografía de Julio Verne 'Jules Verne: Inventor of Science Fiction' y teoría de recuperación cognitiva",
-      "fr": "Biographie de Jules Verne 'Jules Verne: Inventor of Science Fiction' & théorie de la récupération cognitive",
-      "de": "Jules Vernes Biografie 'Jules Verne: Inventor of Science Fiction' & kognitive Abruftheorie",
-      "pt": "Biografia de Júlio Verne 'Jules Verne: Inventor of Science Fiction' & teoria de recuperação cognitiva",
-      "id": "Biografi Jules Verne 'Jules Verne: Inventor of Science Fiction' & Teori Pengambilan Kognitif"
+      "ko": "Verne Morning Scrap 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "『해저 2만리』, 『80일간의 세계 일주』 등 시대를 앞서간 환상적인 모험과 기발한 상상력을 글로 녹여낸 공상과학 소설의 선구자 쥘 베른. 19세기에 인공위성, 잠수함, 달 탐사선 등 현대의 발명품들을 놀라울 정도로 정밀하게 묘사해 낸 그의 기발한 배경 지식들은 도대체 어디서 탄생했을까요? 🗺️\\n\\n베른은 매일 새벽 5시에 연구실 서재의 불을 켰습니다. 그는 아침을 먹기 전까지 6시간 동안 최신 과학 저널, 학술지, 지리 잡지 등을 샅샅이 독서하며 사소한 디테일과 흥미로운 과학 법칙을 가로세로 약 10cm 크기의 백지에 직접 요약해 나갔습니다. 베른은 이 종이 조각들을 자신만의 분류법에 따라 서랍장에 보관했습니다. 이 새벽 독서와 카드 스크랩 습관으로 완성된 카드는 무려 2만 장에 달했으며, 그는 이 지식 아카이브를 조합해 소설에 개연성을 불어넣었습니다.",
-      "en": "Jules Verne, the pioneer of science fiction who melted fantastic adventures and brilliant imaginations ahead of his time in texts such as 'Twenty Thousand Leagues Under the Sea' and 'Around the World in Eighty Days'. Where did his detailed background knowledge that predicted satellites, submarines, and moon landing vehicles with amazing precision in the 19th century come from? 🗺️\\n\\nVerne turned on the lamp in his study at 5 AM every morning. For six hours before breakfast, he thoroughly read the latest scientific journals, geographics, and historical texts, summarizing details and physical laws onto 10cm paper cards. He categorized and filed these cards in a wooden chest. The archive eventually exceeded 20,000 cards, from which he extracted data to breathe life and plausibility into his novels.",
-      "ja": "『海底二万マイル』『八十日間世界一周』など、時代を先取りした幻想的な冒険と独創的な想像力を文章に凝縮したSF小説の先駆者ジュール・ヴェルヌ。19世紀に人工衛星や潜水艦、月探査船など現代の発明品を驚くほど精密に描写した彼の背景知識は、一体どこから生まれたのでしょうか？ 🗺️\\n\\nヴェルヌは毎日朝5時に研究室の灯りをつけました。朝食をとる前の6時間、最新の科学ジャーナル、学術誌、地理誌などをくまなく読み漁り、些細なディテールや興味深い科学的法則を約10cm四方の白い紙に直接要約していきました。彼はこの情報の断片を独自の分類法に従って整理し、木製のカードボックスに保管しました。この朝の読書とカード作成の習慣によって完成したカードは2万枚を超え、彼はこの巨大な知識の保管庫を組み合わせて、小説に圧倒的な現実味を与えたのです。",
-      "zh": "在这一历史性惯例的实践中：『 2』, 『80 』 . 19 , , ? 🗺️\\n\\n 5 . 6 , , 10cm . . 2 , .",
-      "es": "Julio Verne, el pionero de la ciencia ficción que plasmó en textos fantásticas aventuras e imaginaciones adelantadas a su tiempo, como 'Veinte mil leguas de viaje submarino' y 'La vuelta al mundo en ochenta días'. ¿De dónde procedían sus detallados conocimientos de base que predijeron con asombrosa precisión satélites, submarinos y vehículos de aterrizaje lunar en el siglo XIX? 🗺️\\n\\nVerne encendía la lámpara de su estudio a las 5 de la mañana de cada día. Durante seis horas antes del desayuno, leía a fondo las revistas científicas, geográficas e históricas más recientes, resumiendo los detalles y las leyes físicas en tarjetas de papel de 10 cm. Clasificaba y archivaba estas tarjetas en un arcón de madera. El archivo acabó superando las 20.000 tarjetas, de las que extraía datos para dar plausibilidad a sus novelas.",
-      "fr": "Jules Verne, pionnier de la science-fiction qui a décrit des aventures fantastiques et des imaginations brillantes en avance sur son temps dans des textes comme 'Vingt mille lieues sous les mers' et 'Le Tour du monde en quatre-vingts jours'. D'où venaient ses connaissances détaillées qui ont prédit les satellites, les sous-marins et les fusées lunaires au XIXe siècle ? 🗺️\\n\\nVerne allumait la lampe de son bureau à 5h chaque matin. Pendant six heures avant le petit-déjeuner, il lisait attentivement les dernières revues scientifiques, géographiques et historiques, résumant les détails et les lois physiques sur des fiches en papier de 10 cm. Il classait ces fiches dans un meuble en bois. L'archive a fini par dépasser 20 000 fiches, à partir desquelles il extrayait des données pour rendre ses romans plausibles.",
-      "de": "Jules Verne, der Pionier der Science-Fiction, der phantastische Abenteuer und geniale Ideen seiner Zeit voraus in Werken wie 'Zwanzigtausend Meilen unter dem Meer' und 'In 80 Tagen um die Welt' verarbeitete. Woher stammte sein detailliertes Hintergrundwissen, mit dem er Satelliten, U-Boote und Mondlandungsfahrzeuge im 19. Jahrhundert mit verblüffender Präzision vorhersagte? 🗺️\\n\\nVerne schaltete jeden Morgen um 5 Uhr das Licht in seinem Arbeitszimmer ein. Sechs Stunden lang vor dem Frühstück las er gründlich die neuesten wissenschaftlichen Zeitschriften sowie geografischen und historischen Texte und fasste Details und physikalische Gesetze auf 10-cm-Papierkarten zusammen. Er klassifizierte und archivierte diese Karten in einer Holzkiste. Das Archiv umfasste schließlich über 20.000 Karten, aus denen er Daten zog, um seinen Romanen Plausibilität einzuhauchen.",
-      "pt": "Júlio Verne, o pioneiro da ficção científica que reuniu aventuras fantásticas e imaginações brilhantes à frente do seu tempo em obras como 'Vinte Mil Léguas Submarinas' e 'A Volta ao Mundo em Oitenta Dias'. De onde vinha o seu detalhado conhecimento de base que previu com assombrosa precisão satélites, submarinos e foguetes lunares no século XIX? 🗺️\\n\\nVerne acendia a lâmpada do seu escritório às 5h todas as manhãs. Durante seis horas antes do pequeno-almoço, lia detalhadamente as revistas científicas, geográficas e históricas mais recentes, resumindo os detalhes e as leis físicas em fichas de papel de 10 cm. Classificava e arquivava estas fichas num baú de madeira. O arquivo acabou por ultrapassar as 20.000 fichas, das quais extraía dados para dar verosimilhança aos seus romances.",
-      "id": "Jules Verne, pionir fiksi ilmiah yang memadukan petualangan fantastis dan imajinasi cemerlang yang mendahului zamannya dalam karya-karya seperti 'Dua Puluh Ribu Mil di Bawah Laut' dan 'Mengelilingi Dunia dalam Delapan Puluh Hari'. Dari mana pengetahuan latar belakangnya yang terperinci yang memprediksi satelit, kapal selam, dan pendarat bulan dengan presisi luar biasa di abad ke-19 berasal? 🗺️\\n\\nVerne menyalakan lampu di ruang belajarnya pada pukul 5 pagi setiap hari. Selama enam jam sebelum sarapan, dia membaca jurnal ilmiah, geografis, dan sejarah terbaru secara mendalam, merangkum detail dan hukum fisik pada kartu kertas berukuran 10 cm. Dia mengelompokkan dan menyimpan kartu-kartu ini dalam peti kayu. Arsip tersebut akhirnya melebihi 20.000 kartu, dari mana dia mengekstrak data untuk memberi plausibilitas pada novel-novelnya."
+      "ko": "\"사람이 상상할 수 있는 모든 것은 다른 사람이 실현할 수 있다.\" 🗺️\n\n『해저 2만리』, 『80일간의 세계 일주』 등 시대를 앞서간 환상적인 모험과 기발한 상상력을 글로 녹여낸 공상과학 소설의 선구자 쥘 베른. 19세기에 인공위성, 잠수함, 달 탐사선 등 현대의 발명품들을 놀라울 정도로 정밀하게 묘사해 낸 그의 기발한 배경 지식들은 도대체 어디서 탄생했을까요?\n\n베른은 매일 새벽 5시에 연구실 서재의 불을 켰습니다. 그는 아침을 먹기 전까지 6시간 동안 최신 과학 저널, 학술지, 지리 잡지 등을 샅샅이 독서하며 사소한 디테일과 흥미로운 과학 법칙을 가로세로 약 10cm 크기의 백지에 직접 요약해 나갔습니다. 베른은 이 종이 조각들을 자신만의 분류법에 따라 서랍장에 보관했습니다. 이 새벽 독서와 카드 스크랩 습관으로 완성된 카드는 무려 2만 장에 달했으며, 그는 이 지식 아카이브를 조합해 소설에 개연성을 불어넣었습니다.\n\n오늘 포스트에서는 베른의 새벽 지식 아카이빙 습관의 과학적 작동 원리와 현대인들이 복합적인 정보 습득과 활용을 위해 이를 어떻게 응용할 수 있는지 알아봅니다."
     },
     "whyTitle": {
-      "ko": "의미기억을 강화하는 '정교화 분류 아카이빙'",
-      "en": "'Elaborative Categorization' to Strengthen Semantic Memory",
-      "ja": "意味記憶を強化する「精緻化分類アーカイブ」",
-      "zh": "增强语义记忆的“精细化分类归档”",
-      "es": "'Categorización elaborada' para fortalecer la memoria semántica",
-      "fr": "La 'catégorisation élaborée' pour renforcer la mémoire sémantique",
-      "de": "'Ausgearbeitete Kategorisierung' zur Stärkung des semantischen Gedächtnisses",
-      "pt": "'Categorização elaborada' para fortalecer a memória semântica",
-      "id": "'Kategorisasi Elaboratif' untuk Memperkuat Memori Semantik"
+      "ko": "의미기억을 강화하는 '정교화 분류 아카이빙'"
     },
     "whyDesc": {
-      "ko": "습득한 지식을 단순히 눈으로 훑는 대신, 직접 손으로 축약해 핵심 카드로 옮겨 적고 분류하는 과정은 뇌의 의미론적 기억(Semantic Memory) 네트워크를 비약적으로 강화합니다. 이를 인지 심리학에서는 <strong>'정교화 시연(Elaborative Rehearsal)'</strong>이라고 하며, 새로운 정보 조각들을 뇌의 기존 인지 구조에 밀접하게 직조해 넣어 장기 기억화하는 기법입니다. 카드를 물리적으로 분류하는 활동은 뇌의 시각적, 운동적 경로를 동시에 자극하여 정보 간의 구조적 개연성을 인지시킵니다. 이 정보 정리 습관은 뇌의 연합 기억(Associative Memory) 인출 통로를 활성화하여 창의적인 아이디어의 원활한 조립을 돕습니다.",
-      "en": "Instead of simply scanning acquired knowledge, the process of manually condensing it into cards and categorizing them significantly strengthens the semantic memory network. Cognitive psychology calls this <strong>'elaborative rehearsal'</strong>, which is a technique of consolidating new information closely into the brain's existing cognitive framework. The activity of physically sorting cards stimulates the visual and motor pathways of the brain simultaneously, organizing structural plausibility. This organization routine activates the associative memory channels, facilitating the smooth integration of creative ideas.",
-      "ja": "習得した知識を単に目で追うのではなく、自ら要約して核心カードに書き写し分類する過程は、脳の意味記憶（Semantic Memory）ネットワークを飛躍的に強化します。認知心理学ではこれを<strong>「精緻化リハーサル（Elaborative Rehearsal）」</strong>と呼び、新しい情報の断片を脳の既存の認知構造に密接に織り込んで長期記憶化する技法です。カードを物理的に分類する活動は、脳の視覚的・運動的経路を同時に刺激し、情報間の構造的蓋然性を認知させます。この情報整理習慣は、脳の連合記憶（Associative Memory）引き出し経路を活性化し、クリエイティブなアイデアの円滑な組み立てを助けます。",
-      "zh": "与单纯用眼睛浏览获取知识不同，亲自动手将其浓缩记录在核心卡片上并进行分类的过程，会飞跃性地增强大脑的语义记忆（Semantic Memory）网络。认知心理学将此称为“精细化复述（Elaborative Rehearsal）”，这是一种将新信息紧密交织进大脑原有认知结构中，从而实现长期记忆的技巧。物理分类卡片的活动能同时刺激大脑的视觉和运动神经通路，使大脑感知到信息之间的结构性关联。这种信息整理习惯激活了大脑的联想记忆（Associative Memory）调取通道，从而有助于创造性构想的顺畅组装。",
-      "es": "En lugar de simplemente escanear los conocimientos adquiridos, el proceso de condensarlos manualmente en tarjetas y categorizarlos fortalece significativamente la red de memoria semántica. La psicología cognitiva denomina a esto <strong>'repaso elaborado (Elaborative Rehearsal)'</strong>, que es una técnica para consolidar la nueva información estrechamente en el marco cognitivo existente en el cerebro. La actividad de clasificar físicamente las tarjetas estimula simultáneamente las vías visuales y motoras del cerebro, organizando la plausibilidad estructural. Esta rutina de organización activa los canales de la memoria asociativa, facilitando la integración fluida de ideas creativas.",
-      "fr": "Plutôt que de simplement parcourir les connaissances acquises, le processus de condensation manuelle en fiches et de catégorisation renforce considérablement le réseau de la mémoire sémantique. La psychologie cognitive appelle cela l'<strong>'auto-répétition élaborée (Elaborative Rehearsal)'</strong>, une technique consistant à consolider de nouvelles informations en les intégrant étroitement au cadre cognitif existant du cerveau. Le tri physique stimule simultanément les voies visuelles et motrices, organisant la plausibilité structurelle. Cette routine d'organisation active les canaux de la mémoire associative, facilitant l'intégration fluide des idées créatives.",
-      "de": "Anstatt erworbenes Wissen einfach nur zu überfliegen, stärkt der Prozess des manuellen Zusammenfassens auf Karten und deren Kategorisierung das semantische Gedächtnisnetzwerk erheblich. Die Kognitionspsychologie nennt dies <strong>'ausgearbeitete Wiederholung (Elaborative Rehearsal)'</strong>, eine Technik, bei der neue Informationen eng in die bestehende kognitive Struktur des Gehirns integriert werden. Das physische Sortieren von Karten stimuliert gleichzeitig die visuellen und motorischen Bahnen des Gehirns und organisiert die strukturelle Plausibilität. Diese Organisationsroutine aktiviert die Kanäle des assoziativen Gedächtnisses und erleichtert die reibungslose Verknüpfung kreativer Ideen.",
-      "pt": "Em vez de simplesmente ler os conhecimentos adquiridos, o processo de condensá-los manualmente em fichas e categorizá-los fortalece significativamente a rede de memória semântica. A psicologia cognitiva chama isso de <strong>'ensaio elaborado (Elaborative Rehearsal)'</strong>, uma técnica de consolidação de novas informações estreitamente na estrutura cognitiva existente do cérebro. A atividade de triagem física das fichas estimula simultaneamente as vias visuais e motoras do cérebro, organizando a plausibilidade estrutural. Essa rotina de organização ativa os canais de memória associativa, facilitando a integração fluida de ideias criativas.",
-      "id": "Alih-alih sekadar membaca sekilas pengetahuan yang diperoleh, proses meringkasnya secara manual ke dalam kartu dan mengkategorikannya akan memperkuat jaringan memori semantik secara signifikan. Psikologi kognitif menyebutnya sebagai <strong>'pengulangan elaboratif (Elaborative Rehearsal)'</strong>, yang merupakan teknik mengkonsolidasikan informasi baru secara erat ke dalam kerangka kognitif otak yang ada. Aktivitas menyortir kartu secara fisik menstimulasi jalur visual dan motorik otak secara bersamaan, mengatur plausibilitas struktural. Rutinitas pengorganisasian ini mengaktifkan saluran memori asosiatif, memfasilitasi integrasi ide-ide kreatif yang lancar."
+      "ko": "습득한 지식을 단순히 눈으로 훑는 대신, 직접 손으로 축약해 핵심 카드로 옮겨 적고 분류하는 과정은 뇌의 의미론적 기억(Semantic Memory) 네트워크를 비약적으로 강화합니다. 이를 인지 심리학에서는 <strong>'정교화 시연(Elaborative Rehearsal)'</strong>이라고 하며, 새로운 정보 조각들을 뇌의 기존 인지 구조에 밀접하게 직조해 넣어 장기 기억화하는 기법입니다. 카드를 물리적으로 분류하는 활동은 뇌의 시각적, 운동적 경로를 동시에 자극하여 정보 간의 구조적 개연성을 인지시킵니다. 이 정보 정리 습관은 뇌의 연합 기억(Associative Memory) 인출 통로를 활성화하여 창의적인 아이디어의 원활한 조립을 돕습니다."
     },
     "cautionTitle": {
-      "ko": "수집 강박을 예방하고 활용성 극대화하기",
-      "en": "Preventing Collectomania and Maximizing Practicality",
-      "ja": "収集強迫を予防し活用性を極大化する",
-      "zh": "预防收集强迫症并最大化其实用性",
-      "es": "Prevenir la coleccionomanía y maximizar la practicidad",
-      "fr": "Prévenir la collectionomanie et maximiser la praticité",
-      "de": "Sammelwut verhindern und Praktikabilität maximieren",
-      "pt": "Prevenindo a mania de colecionismo e maximizando a utilidade",
-      "id": "Mencegah Kolektomania dan Memaksimalkan Kepraktisan"
+      "ko": "수집 강박을 예방하고 활용성 극대화하기"
     },
     "cautionDesc": {
-      "ko": "스크랩 루틴의 주된 함정은 단순히 지식을 스크랩하고 축적하는 데서 성취감을 느끼는 수집 강박(Collector's Fallacy)에 빠지는 것입니다. 카드를 만드는 것은 지식을 뇌에 깊이 결합하고 활용하기 위한 수단이어야 합니다. 요약은 오직 나만의 언어로 정제해야 하며, 정기적으로 카드 아카이브를 훑어보고 관련 지식들을 직접 작문이나 토론에 연결해 출력하는 시간을 반드시 병행해야 합니다.",
-      "en": "The main pitfall of the scrap routine is falling into collectomania (Collector's Fallacy) where you feel a sense of achievement simply by gathering and accumulating knowledge. Making cards must be a means of deeply integrating and utilizing knowledge in the brain. Summaries should be written only in your own words, and you must regularly review the card archive, connecting and outputting the knowledge in writing or discussion.",
-      "ja": "スクラップルーティンの主な罠は、単に知識をスクラップして蓄積することに達成感を感じる「コレクターの謬見（Collector's Fallacy）」に陥ることです. カードを作ることは、知識を脳に深く結合して活用するための手段でなければなりません. 要約は自分だけの言葉で精製しなければならず、定期的にカードアーカイブを見直して、関連知識を実際の執筆や討論に連結して出力する時間を必ず並行する必要があります.",
-      "zh": "剪贴习惯的主要陷阱是陷入“收集者谬论（Collector's Fallacy）”，即仅仅因为收集和积累知识就产生虚假的成就感。制作卡片应该是将知识深度融合并加以运用的手段。摘要必须用自己的语言进行提炼，并且一定要定期浏览卡片库，将相关知识直接与写作或讨论联系起来进行输出。",
-      "es": "El principal peligro de la rutina de recortes es caer en la coleccionomanía (falacia del coleccionista), en la que se siente una sensación de logro simplemente reuniendo y acumulando conocimientos. Hacer tarjetas debe ser un medio para integrar y utilizar profundamente los conocimientos en el cerebro. Los resúmenes deben escribirse únicamente con sus propias palabras, y debe revisar periódicamente el archivo de tarjetas, conectando y plasmando los conocimientos por escrito o en debates.",
-      "fr": "Le principal piège de cette routine est de tomber dans la collectionomanie (l'illusion du collectionneur) où l'on ressent un sentiment d'accomplissement par le simple fait d'accumuler. Rédiger des fiches doit être un moyen d'intégrer et d'utiliser les connaissances. Les résumés doivent être écrits avec vos propres mots, et vous devez régulièrement réviser l'archive pour l'exploiter à l'écrit ou à l'oral.",
-      "de": "Die Hauptfalle der Sammel-Routine besteht darin, der Sammelwut (Collector's Fallacy) zu verfallern, bei der man ein Gefühl des Erfolgs empfindet, indem man einfach nur Wissen sammelt. Das Erstellen von Karten muss ein Mittel sein, um Wissen tief im Gehirn zu verankern. Zusammenfassungen sollten in eigenen Worten verfasst werden, und Sie müssen das Kartenarchiv regelmäßig überprüfen und das Wissen schriftlich oder in Diskussionen anwenden.",
-      "pt": "O principal perigo da rotina de scrapbooking é cair na mania de colecionismo (Falácia do Colecionador), onde se sente uma sensação de realização simplesmente por reunir e acumular conhecimento. Fazer fichas deve ser um meio de integrar e utilizar profundamente o conhecimento no cérebro. Os resumos devem ser escritos com as suas próprias palavras, e deve rever periodicamente o arquivo de fichas, aplicando o conhecimento na escrita ou em discussões.",
-      "id": "Jebakan utama dari rutinitas kliping adalah jatuh ke dalam kolektomania (Collector's Fallacy) di mana Anda merasa puas hanya dengan mengumpulkan dan menumpuk pengetahuan. Membuat kartu harus menjadi sarana untuk mengintegrasikan dan memanfaatkan pengetahuan secara mendalam di otak. Ringkasan harus ditulis hanya dengan kata-kata Anda sendiri, dan Anda harus meninjau arsip kartu secara teratur, menghubungkan dan menuangkan pengetahuan tersebut dalam tulisan atau diskusi."
+      "ko": "스크랩 루틴의 주된 함정은 단순히 지식을 스크랩하고 축적하는 데서 성취감을 느끼는 수집 강박(Collector's Fallacy)에 빠지는 것입니다. 카드를 만드는 것은 지식을 뇌에 깊이 결합하고 활용하기 위한 수단이어야 합니다. 요약은 오직 나만의 언어로 정제해야 하며, 정기적으로 카드 아카이브를 훑어보고 관련 지식들을 직접 작문이나 토론에 연결해 출력하는 시간을 반드시 병행해야 합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "데일리 정보 축약 카드 작성",
-          "en": "Writing Daily Condensed Information Cards",
-          "ja": "デイリー情報要約カードの作成",
-          "zh": "撰写每日信息浓缩卡",
-          "es": "Escribir tarjetas diarias de información condensada",
-          "fr": "Rédiger des fiches quotidiennes d'informations condensées",
-          "de": "Tägliche zusammenfassende Informationskarten schreiben",
-          "pt": "Escrevendo fichas diárias de informação condensada",
-          "id": "Menulis Kartu Informasi Ringkas Harian"
+          "ko": "데일리 정보 축약 카드 작성"
         },
         "text": {
-          "ko": "공부나 연구 중 습득한 아티클, 과학 사실 등을 가로세로 10cm 크기의 아날로그 메모지나 디지털 노트에 요약하여 핵심 단어 2~3개와 출처를 짧게 기입합니다.",
-          "en": "Condense articles or scientific facts acquired during study onto a 10cm paper card or digital note, keeping 2-3 key words and a brief source.",
-          "ja": "勉強や研究で得たアティクル、科学的ファクトなどを、約10cm四方のアナログメモ用紙やデジタルノートに要約し、重要な単語を2〜3個と出典を簡潔に書き込みます.",
-          "zh": "将学习或研究中获取的文章、科学事实等浓缩记录在10厘米见方的物理备忘纸 or 数字笔记中，简要写下2-3个关键词 and 出处。",
-          "es": "Condense los artículos o hechos científicos adquiridos durante el estudio en una tarjeta de papel de 10 cm o nota digital, conservando 2-3 palabras clave y una breve fuente.",
-          "fr": "Condensez les articles ou faits scientifiques acquis en cours de route sur une fiche papier de 10 cm ou une note numérique, en notant 2 ou 3 mots-clés et la source.",
-          "de": "Fassen Sie während des Studiums erworbene Artikel oder wissenschaftliche Fakten auf einer 10-cm-Papierkarte oder digitalen Notiz zusammen, und halten Sie 2-3 Schlüsselwörter und eine kurze Quelle fest.",
-          "pt": "Condense artigos ou fatos científicos adquiridos durante o estudo em uma ficha de papel de 10 cm ou nota digital, anotando 2-3 palavras-chave e uma breve fonte.",
-          "id": "Ringkas artikel atau fakta ilmiah yang diperoleh saat belajar ke dalam kartu kertas berukuran 10 cm atau catatan digital, tuliskan 2-3 kata kunci dan sumber singkat."
+          "ko": "공부나 연구 중 습득한 아티클, 과학 사실 등을 가로세로 10cm 크기의 아날로그 메모지나 디지털 노트에 요약하여 핵심 단어 2~3개와 출처를 짧게 기입합니다."
         }
       },
       {
         "name": {
-          "ko": "카테고리 분류 및 아카이빙",
-          "en": "Categorization and Archiving",
-          "ja": "カテゴリ分類とアーカイブ",
-          "zh": "分类与归档",
-          "es": "Categorización y archivado",
-          "fr": "Catégorisation et archivage",
-          "de": "Kategorisierung und Archivierung",
-          "pt": "Categorização e arquivamento",
-          "id": "Kategorisasi dan Pengarsipan"
+          "ko": "카테고리 분류 및 아카이빙"
         },
         "text": {
-          "ko": "작성한 지식 카드를 대분류(예: 인지과학, 마케팅, 지리 등)와 중분류 태그로 라벨링한 뒤, 지정된 상자나 디지털 폴더에 체계적으로 넣어 아카이빙합니다.",
-          "en": "Label the written cards with major categories (e.g., cognitive science, marketing, geography) and tags, then systematically file them in a designated box or folder.",
-          "ja": "作成した知識カードを大カテゴリ（例：認知科学、マーケティング、地理など）とタグでラベル付けし、指定のボックスやデジタルフォルダに体系的に分類してアークイブします.",
-          "zh": "将写好的知识卡片贴上大分类（如认知科学、营销、地理等）和子标签，然后系统地放入指定的盒子 or 数字文件夹中进行归档。",
-          "es": "Etiquete las tarjetas escritas con categorías principales (por ejemplo, ciencia cognitiva, marketing, geografía) y etiquetas, y después archívelas sistemáticamente en una caja o carpeta designada.",
-          "fr": "Étiquetez les fiches rédigées avec les catégories principales (ex. sciences cognitives, marketing, géographie) et des tags, puis classez-les dans une boîte ou un dossier.",
-          "de": "Beschriften Sie die Karten mit Hauptkategorien (z. B. Kognitionswissenschaft, Marketing, Geografie) und Tags und sortieren Sie sie systematisch in einer Box oder einem Ordner ein.",
-          "pt": "Rotule as fichas escritas com categorias principais (por exemplo, ciência cognitiva, geografia) e etiquetas, e depois arquive-as sistematicamente em uma caixa ou pasta designada.",
-          "id": "Labeli kartu yang ditulis dengan kategori utama (misalnya, sains kognitif, pemasaran, geografi) dan tag, lalu arsipkan secara sistematis dalam kotak atau folder yang ditentukan."
+          "ko": "작성한 지식 카드를 대분류(예: 인지과학, 마케팅, 지리 등)와 중분류 태그로 라벨링한 뒤, 지정된 상자나 디지털 폴더에 체계적으로 넣어 아카이빙합니다."
         }
       },
       {
         "name": {
-          "ko": "주 1회 카드 융합 복기",
-          "en": "Weekly Card Fusion Review",
-          "ja": "週1回のカード融合復習",
-          "zh": "每周一次卡片融合回顾",
-          "es": "Repaso semanal de fusión de tarjetas",
-          "fr": "Révision hebdomadaire de fusion des fiches",
-          "de": "Wöchentliche Karten-Fusionsüberprüfung",
-          "pt": "Revisão semanal de fusão de fichas",
-          "id": "Tinjauan Penggabungan Kartu Mingguan"
+          "ko": "주 1회 카드 융합 복기"
         },
         "text": {
-          "ko": "주말이나 특정 시간에 스크랩해 둔 카드를 서랍에서 임의로 5~6장 꺼내어 다시 읽고, 무관해 보이는 정보들을 결합하여 생각의 시너지를 만들거나 실질적인 집필에 출력합니다.",
-          "en": "At the weekend, randomly pull out 5-6 cards from the archive, review them, and combine seemingly unrelated information to create synergies or apply them to actual writing.",
-          "ja": "週末など特定の時間に、アーカイブからカードをランダムに5〜6枚取り出して見直し、一見無関係に見える情報を組み合わせて考えのシナジーを生み出すか、実際の執筆に活用します.",
-          "zh": "在周末 or 特定时间，从卡片盒中随机抽取5-6张卡片重新阅读，将看似无关的信息结合起来，创造思维协同效应或用于实际的写作输出。",
-          "es": "El fin de semana, extraiga al azar 5-6 tarjetas del archivo, repáselas y combine información aparentemente inconexa para crear sinergias o plasmarlas en escritos reales.",
-          "fr": "Le week-end, tirez au hasard 5 ou 6 fiches de l'archive, révisez-les et combinez des informations apparemment sans rapport pour créer des synergies ou les appliquer à un écrit.",
-          "de": "Ziehen Sie am Wochenende zufällig 5-6 Karten aus dem Archiv, überprüfen Sie diese und kombinieren Sie scheinbar unzusammenhängende Informationen, um Synergien zu schaffen oder sie beim Schreiben anzuwenden.",
-          "pt": "No fim de semana, retire aleatoriamente 5-6 fichas do arquivo, revise-as e combine informações aparentemente não relacionadas para criar sinergias ou aplicá-las em escritos reais.",
-          "id": "Di akhir pekan, ambil 5-6 kartu secara acak dari arsip, tinjau, dan gabungkan informasi yang tampaknya tidak berhubungan untuk menciptakan sinergi atau menerapkannya pada penulisan nyata."
+          "ko": "주말이나 특정 시간에 스크랩해 둔 카드를 서랍에서 임의로 5~6장 꺼내어 다시 읽고, 무관해 보이는 정보들을 결합하여 생각의 시너지를 만들거나 실질적인 집필에 출력합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "독일의 니클라스 루만 교수의 제텔카스텐(Zettelkasten) 메모법과 쥘 베른의 카드 스크랩은 무엇이 다른가요?",
-          "en": "How is Jules Verne's research card different from Professor Niklas Luhmann's Zettelkasten method?",
-          "ja": "ドイツのニクラス・ルーマン教授のゼッテルカステン（Zettelkasten）メモ法とジュール・ヴェルヌのカードスクラップはどう違うのですか？",
-          "zh": "儒勒·凡尔纳的卡片剪贴与德国尼克拉斯·卢曼教授的“卡片盒（Zettelkasten）”笔记法有什么区别？",
-          "es": "¿En qué se diferencia la tarjeta de investigación de Julio Verne del método Zettelkasten del profesor Niklas Luhmann?",
-          "fr": "En quoi la fiche de recherche de Jules Verne est-elle différente de la méthode Zettelkasten du professeur Niklas Luhmann ?",
-          "de": "Wie unterscheidet sich Jules Vernes Karte von Professor Niklas Luhmanns Zettelkasten-Methode?",
-          "pt": "Como a ficha de Júlio Verne se diferencia do método Zettelkasten do professor Niklas Luhmann?",
-          "id": "Bagaimana kartu penelitian Jules Verne berbeda dari metode Zettelkasten dari Profesor Niklas Luhmann?"
+          "ko": "독일의 니클라스 루만 교수의 제텔카스텐(Zettelkasten) 메모법과 쥘 베른의 카드 스크랩은 무엇이 다른가요?"
         },
         "answer": {
-          "ko": "제텔카스텐은 카드 간의 영구적인 상호 번호 연결을 통해 사유의 그물망을 만드는 데 집중하지만, 쥘 베른의 카드는 대규모 과학·기술 백과사전적인 자료를 카테고리별로 정밀하게 축적하여 작품의 기술적 묘사와 개연성을 보강하는 데 초점을 둔 점에서 차이가 있습니다.",
-          "en": "While Zettelkasten focuses on creating a web of thoughts through permanent numbering links between cards, Jules Verne's cards focus on building a large encyclopedic archive of science and technology data by category to support technical descriptions and plausibility in his works.",
-          "ja": "ゼッテルカステンはカード間の恒久的な相互番号リンクを通じて思考の網を作ることに集中しますが、ジュール・ヴェルヌのカードは、大容量の科学・技術百科事典的な資料をカテゴリ別に精緻に蓄積し、作品の技術的描写と蓋然性を補強することに焦点を当てている点で異なります.",
-          "zh": "卡片盒笔记法侧重于通过卡片之间的永久性链接来建立思维网；而儒勒·凡尔纳的卡片则侧重于按分类精密积累大规模的科学技术百科性资料，用以充实作品的技术描述和合理性，两者在这一点上有所区别。",
-          "es": "Mientras que Zettelkasten se centra en crear una red de pensamientos mediante enlaces permanentes numerados entre tarjetas, las tarjetas de Julio Verne se centran en acumular un gran archivo enciclopédico de datos de ciencia y tecnología por categorías para fundamentar las descripciones técnicas y la verosimilitud de sus obras.",
-          "fr": "Alors que le Zettelkasten se concentre sur la création d'un réseau de pensées grâce à des liens numérotés permanents, les fiches de Jules Verne visent à accumuler de grandes archives encyclopédiques de données scientifiques par catégories pour soutenir la plausibilité de ses œuvres.",
-          "de": "Während der Zettelkasten sich darauf konzentriert, ein Gedankennetz durch permanente Nummerierungslinks zwischen Karten zu erstellen, konzentrieren sich Jules Vernes Karten darauf, ein großes enzyklopädisches Archiv wissenschaftlicher Daten nach Kategorien aufzubauen, um technische Beschreibungen und Plausibilität in seinen Werken zu stützen.",
-          "pt": "Enquanto o Zettelkasten se concentra na criação de uma rede de pensamentos por meio de links numerados permanentes, as fichas de Júlio Verne concentram-se em construir um grande arquivo enciclopédico de dados científicos por categorias para apoiar as descrições técnicas e a verosimilhança em suas obras.",
-          "id": "Sementara Zettelkasten berfokus pada pembuatan jaringan pemikiran melalui tautan nomor permanen antar kartu, kartu Jules Verne berfokus pada membangun arsip ensiklopedis besar data sains dan teknologi berdasarkan kategori untuk mendukung deskripsi teknis dan plausibilitas dalam karyanya."
+          "ko": "제텔카스텐은 카드 간의 영구적인 상호 번호 연결을 통해 사유의 그물망을 만드는 데 집중하지만, 쥘 베른의 카드는 대규모 과학·기술 백과사전적인 자료를 카테고리별로 정밀하게 축적하여 작품의 기술적 묘사와 개연성을 보강하는 데 초점을 둔 점에서 차이가 있습니다."
         }
       }
-    ],
-    "pubDate": "2026-06-02",
-    "updatedDate": "2026-06-02"
+    ]
   }
 }

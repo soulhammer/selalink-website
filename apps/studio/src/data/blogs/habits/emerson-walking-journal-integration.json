@@ -1,194 +1,64 @@
 {
   "emerson-walking-journal-integration": {
     "title": {
-      "ko": "확산과 수렴의 이중주: 랄프 왈도 에머슨의 산책 메모와 야간 저널 습관",
-      "en": "Synthesis of Diffusion and Convergence: Ralph Waldo Emerson's Walking Journal Integration Habit",
-      "ja": "拡散と収束の二重奏：ラルフ・ワルド・エマーソンの散歩メモと夜間ジャーナル習慣",
-      "zh": "发散与收敛的二重奏：拉尔夫·沃尔多·爱默生的散步随记与夜间日志整合习惯",
-      "es": "Síntesis de difusión y convergencia: el hábito de integración del diario de caminata de Ralph Waldo Emerson",
-      "fr": "Synthèse de diffusion et de convergence : l'habitude d'intégration du journal de marche de Ralph Waldo Emerson",
-      "de": "Synthese von Diffusion und Konvergenz: Ralph Waldo Emersons Gewohnheit, beim Gehen Tagebuch zu führen",
-      "pt": "Síntese de difusão e convergência: o hábito de integração do diário de caminhada de Ralph Waldo Emerson",
-      "id": "Sintesis Difusi dan Konvergensi: Kebiasaan Integrasi Jurnal Berjalan Ralph Waldo Emerson"
+      "ko": "확산과 수렴의 이중주: 랄프 왈도 에머슨의 산책 메모와 야간 저널 습관"
     },
     "description": {
-      "ko": "미국의 대표 사상가 랄프 왈도 에머슨. 낮의 산책 메모(확산적 사고)와 밤의 일기 쓰기(수렴적 사고)를 결합하여 번뜩이는 아이디어를 유기적인 철학 체계로 완성했던 인지적 2단계 루틴을 분석합니다.",
-      "en": "Ralph Waldo Emerson combined walking notes (diffuse thinking) with evening journaling (focused thinking). Discover his two-stage cognitive routine that structured random inspirations into deep philosophy.",
-      "ja": "アメリカの代表的な思想家ラルフ・ワルド・エマーソン。昼の散歩メモ（拡散的思考）と夜の日記執筆（収束的思考）を組み合わせ、閃いたアイデアを有機的な哲学体系へと完成させた認知的2段階ルーティンを分析します。",
-      "zh": "美国代表性思想家拉尔夫·沃尔多·爱默生。分析他如何将白天的散步随记（发散思维）与夜晚的写日记（收敛思维）相结合，从而把闪现的灵感打造成有机哲学体系的认知两阶段程序。",
-      "es": "Ralph Waldo Emerson combinó las notas de caminata (pensamiento difuso) con el diario nocturno (pensamiento enfocado). Descubra su rutina cognitiva de dos etapas que estructuró inspiraciones aleatorias en una filosofía profunda.",
-      "fr": "Ralph Waldo Emerson associait les notes de marche et le journal de nuit. Découvrez sa routine cognitive en deux étapes qui a structuré des inspirations aléatoires en une philosophie profonde.",
-      "de": "Ralph Waldo Emerson kombinierte Notizen beim Gehen (diffuses Denken) mit abendlichem Tagebuchschreiben (fokussiertes Denken). Entdecken Sie seine zweistufige kognitive Routine.",
-      "pt": "Ralph Waldo Emerson combinou notas de caminhada (pensamento difuso) com o diário noturno (pensamento focado). Descubra a sua rotina cognitiva de duas etapas que estruturou inspirações aleatórias numa filosofia profunda.",
-      "id": "Ralph Waldo Emerson menggabungkan catatan berjalan (pemikiran difus) dengan menulis jurnal malam (pemikiran terfokus). Temukan rutinitas kognitif dua tahapnya."
+      "ko": "미국의 대표 사상가 랄프 왈도 에머슨. 낮의 산책 메모(확산적 사고)와 밤의 일기 쓰기(수렴적 사고)를 결합하여 번뜩이는 아이디어를 유기적인 철학 체계로 완성했던 인지적 2단계 루틴을 분석합니다."
     },
     "authority": {
-      "ko": "하버드 대학교 출판부 간행 『에머슨 저널 및 비망록』 실물 고증 및 인지 심리학의 확산 모드(Divergent)와 수렴 모드(Convergent) 교차 가동에 따른 창의적 문제 해결 연구",
-      "en": "Harvard University Press's The Journals and Miscellaneous Notebooks of Ralph Waldo Emerson and Cognitive Psychology Studies on Alternating Divergent and Convergent Thinking Modes",
-      "ja": "ハーバード大学出版局刊行『エマーソン・ジャーナルおよび備忘録』の実物考証、および認知心理学における拡散モード（Divergent）と収束モード（Convergent）の交差稼働による創造的問題解決の研究",
-      "zh": "哈佛大学出版社出版的《爱默生日志与备忘录》实物考证及关于认知心理学的发散模式（Divergent）与收敛模式（Convergent）交替运转促进创造性问题解决的研究",
-      "es": "The Journals and Miscellaneous Notebooks of Ralph Waldo Emerson de Harvard University Press y estudios de psicología cognitiva sobre modos de pensamiento divergentes y convergentes alternativos",
-      "fr": "The Journals and Miscellaneous Notebooks of Ralph Waldo Emerson de Harvard University Press et études de psychologie cognitive sur les modes de pensée alternatifs divergents et convergents",
-      "de": "Harvard University Press’ „The Journals and Miscellaneous Notebooks of Ralph Waldo Emerson“ und kognitionspsychologische Studien zu abwechselnden divergenten und konvergenten Denkmodi",
-      "pt": "The Journals and Miscellaneous Notebooks of Ralph Waldo Emerson da Harvard University Press e estudos de psicologia cognitiva sobre modos alternativos de pensamento divergente e convergente",
-      "id": "The Journals and Miscellaneous Notebooks of Ralph Waldo Emerson dari Harvard University Press dan Studi Psikologi Kognitif tentang Mode Berpikir Divergen dan Konvergen yang Bergantian"
+      "ko": "Emerson Walking Journal Integration 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "미국 고유의 사상적 독립을 선언한 초월주의 운동의 선구자이자 시인, 철학자입니다. 그가 이 방대하고 깊이 있는 사상적 체계를 세울 수 있었던 원동력은 그의 지극히 규칙적인 '산책 기록 결합 루틴'이었습니다. 그는 낮 동안 미국 콩코드의 월든 숲속을 걸으며 코트 주머니 속 가죽 수첩에 떠오르는 영감을 연필로 속박했고, 매일 밤 촛불을 켠 서재에서 이를 거대한 가죽 다이어리에 옮겨 적으며 논리적으로 확장했습니다. 뇌의 확산적 생각과 수렴적 논리를 정교하게 직조한 그의 인지적 습관을 과학적으로 조명합니다.",
-      "en": "Ralph Waldo Emerson, the intellectual leader of the Transcendentalist movement in 19th-century America, inspired generations with his essays Self-Reliance and Nature. The foundation of his deep philosophy was a two-stage cognitive cycle. During the day, he wandered the woods of Concord with a leather pocket notebook, trapping fleeting thoughts with a pencil. At night, he sat at his desk to transfer these raw fragments into a large leather-bound journal, expanding them into coherent essays. We examine how alternating between physical diffuse mode thinking and nocturnal focused integration builds structural mental models.",
-      "ja": "この歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持持続可能な深い集中力を養うことができます。",
-      "zh": "通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
-      "es": "Ralph Waldo Emerson, el líder intelectual del movimiento trascendentalista en la América del siglo XIX, inspiró a generaciones con sus ensayos Self-Reliance y Nature. La base de su profunda filosofía fue un ciclo cognitivo de dos etapas. Durante el día, deambulaba por los bosques de Concord con un cuaderno de bolsillo de cuero, atrapando pensamientos fugaces con un lápiz. Por la noche, se sentaba en su escritorio para transferir estos fragmentos en bruto a un gran diario encuadernado en cuero, expandiéndolos en ensayos coherentes. Examinamos cómo la alternancia entre el pensamiento en modo difuso físico y la integración enfocada nocturna construye modelos mentales estructurales.",
-      "fr": "Ralph Waldo Emerson, le leader intellectuel du mouvement transcendantaliste dans l'Amérique du XIXe siècle, a inspiré des générations avec ses essais. Le fondement de sa philosophie était un cycle cognitif en deux étapes. Pendant la journée, il se promenait dans les bois avec un carnet en cuir. La nuit, il s'asseyait à son bureau pour transférer ces fragments bruts dans un grand journal en cuir, les transformant en essais cohérents. Nous examinons comment l'alternance entre la pensée physique diffuse et l'intégration concentrée nocturne construit des modèles mentaux.",
-      "de": "Ralph Waldo Emerson, der intellektuelle Führer der Transzendentalismus-Bewegung im Amerika des 19. Jahrhunderts, inspirierte Generationen mit seinen Essays Self-Reliance und Nature. Das Fundament seiner tiefgründigen Philosophie war ein zweistufiger kognitiver Zyklus. Tagsüber wanderte er mit einem ledernen Taschennotizbuch durch die Wälder von Concord und hielt flüchtige Gedanken mit einem Bleistift fest. Nachts saß er an seinem Schreibtisch, um diese rohen Fragmente in ein großes, ledergebundenes Tagebuch zu übertragen und sie zu zusammenhängenden Essays auszuarbeiten.",
-      "pt": "Ralph Waldo Emerson, o líder intelectual do movimento Transcendentalista na América do século XIX, inspirou gerações com os seus ensaios Self-Reliance e Nature. A base da sua profunda filosofia foi um ciclo cognitivo de duas etapas. Durante o dia, deambulava pelas florestas de Concord com um caderno de bolso de couro, prendendo pensamentos fugazes com um lápis. À noite, sentava-se à secretária para transferir estes fragmentos brutos para um grande diário encadernado em couro, expandindo-os em ensaios coerentes.",
-      "id": "Ralph Waldo Emerson, pemimpin intelektual gerakan Transendentalis di Amerika abad ke-19, menginspirasi generasi dengan esainya Self-Reliance dan Nature. Dasar dari filosofinya yang mendalam adalah siklus kognitif dua tahap. Di siang hari, ia mengembara di hutan Concord dengan buku catatan saku kulit, menangkap pikiran sekilas dengan pensil. Di malam hari, ia duduk di mejanya untuk mentransfer fragmen mentah ini ke dalam jurnal besar berikat kulit, memperluasnya menjadi esai yang koheren."
+      "ko": "\"숲속을 걸을 때 떠오르는 작은 영감을 즉시 수첩에 가두지 않으면, 그것은 날개를 달고 영영 날아가 버려 다시는 찾을 수 없다.\" 📓\n\n19세기 미국의 독자적인 정신 세계와 사상의 독립을 선언한 초월주의 철학자 랄프 왈도 에머슨. 그의 통찰력 있는 에세이인 『자기 신뢰(Self-Reliance)』와 『자연(Nature)』은 오늘날까지도 현대 지성사에서 가장 위대한 철학서로 손꼽힙니다. 그가 이 방대하고 깊이 있는 사상적 체계를 세울 수 있었던 원동력은 그의 지극히 규칙적인 '산책 기록 결합 루틴'이었습니다. 그는 낮 동안 미국 콩코드의 월든 숲속을 걸으며 코트 주머니 속 가죽 수첩에 떠오르는 영감을 연필로 속박했고, 매일 밤 촛불을 켠 서재에서 이를 거대한 가죽 다이어리에 옮겨 적으며 논리적으로 확장했습니다. 뇌의 확산적 생각과 수렴적 논리를 정교하게 직조한 그의 인지적 습관을 과학적으로 조명합니다."
     },
     "whyTitle": {
-      "ko": "확산 모드와 수렴 모드의 순환 가동성",
-      "en": "The Alternation of Diffuse and Focused Cognitive Modes",
-      "ja": "拡散モードと収束モードの循環稼働性",
-      "zh": "发散模式与收敛模式的循环运转性",
-      "es": "La alternancia de los modos cognitivos difuso y enfocado",
-      "fr": "L'alternance des modes cognitifs diffus et concentré",
-      "de": "Der Wechsel von diffusem und fokussiertem kognitiven Modus",
-      "pt": "A Alternância de Modos Cognitivos Difuso e Focado",
-      "id": "Pergantian Mode Kognitif Difus dan Terfokus"
+      "ko": "확산 모드와 수렴 모드의 순환 가동성"
     },
     "whyDesc": {
-      "ko": "대뇌 과학에 따르면 인간의 창의적 문제 해결은 뇌가 이완된 상태에서 생각의 꼬리를 무작위로 결합하는 '확산 모드(Diffuse Mode)'와, 자리에 앉아 논리적 정합성을 검증하는 '수렴 모드(Convergent/Focused Mode)'가 적절히 번갈아 가동될 때 극대화됩니다. 에머슨이 낮에 자연 속을 걸어 다니며 신체 운동을 자극하고 생각을 자유롭게 흩어놓은 것은 확산 모드를 활성화한 것입니다. 그리고 저녁에 책상 앞에 앉아 낮의 날것의 수첩 메모를 대형 저널에 옮겨 쓰며 맥락을 구조화하는 일기 쓰기 과정은 뇌의 수렴 모드를 발동시킨 것입니다. 이 2단계 인지 루틴은 휘발되기 쉬운 창조적 아이디어를 정교하게 가다듬어 자신의 고유한 지식 자산으로 안착시킵니다.",
-      "en": "Neural research shows that creative problem-solving reaches its zenith when the brain oscillates between a relaxed diffuse mode—where loose semantic associations are made—and a convergent focused mode—where logical consistency is verified. Emerson's daylight walks activated the diffuse network by increasing cerebral blood flow and dopamine during light exercise. In contrast, his nightly habit of cataloging these scribbles in a journal engaged focused networks. This integration captures transient insights and embeds them into long-term cognitive frameworks.",
-      "ja": "大脳科学によれば、人間の創造的な問題解決は、脳がリラックスした状態で思考の連なりをランダムに結合する「拡散モード（Diffuse Mode）」と、机に向かって論理的整合性を検証する「収束モード（Convergent/Focused Mode）」が適度交互に稼働するときに極大化します。エマーソンが昼間に自然の中を歩き回り、身体運動を刺激して思考を自由に漂わせたのは、拡散モードを活性化したものです。そして夕方にデスクに向かい、昼間の生のメモを大型の日誌に書き写して文脈を構造化する日記執筆プロセスは、脳の収束モードを発動させたものです。この2段階の認知ルーティンは、揮発しやすい創造的アイデアを精巧に整え、自らの固有の知識資産として定着させます。",
-      "zh": "根据大脑科学研究，人类创造性地解决问题，是在大脑处于放松状态下随机结合联想的“发散模式（Diffuse Mode）”与坐下来验证逻辑合理性的“收敛模式（Convergent/Focused Mode）”适当交替运作时实现最大化的。爱默生白天在自然中漫步，刺激身体运动，让思维自由飘散，这激活了发散模式。而夜晚坐在书桌前，将白天原始的笔记本备忘誊写到大日志中，对脉络进行结构化的写日记过程，则启动了大脑袋收敛模式。这一双阶段认知程序能将易挥发的创造性灵感精心雕琢，并安顿为自身的特有知识资产。",
-      "es": "La investigación neural muestra que la resolución creativa de problemas alcanza su cenit cuando el cerebro oscila entre un modo difuso relajado (donde se hacen asociaciones semánticas libres) y un modo enfocado convergente (donde se verifica la coherencia lógica). Las caminatas diurnas de Emerson activaron la red difusa al aumentar el flujo sanguíneo cerebral y la dopamina durante el ejercicio ligero. En contraste, su hábito nocturno de catalogar estos garabatos en un diario involucró redes enfocadas. Esta integración captura ideas transitorias y las integra en marcos cognitivos a largo plazo.",
-      "fr": "La recherche montre que la résolution créative de problèmes atteint son apogée lorsque le cerveau oscille entre un mode diffus détendu et un mode concentré convergent. Les promenades de jour d'Emerson activaient le réseau diffus en augmentant le flux sanguin et la dopamine. En revanche, son habitude d'enregistrer ces notes dans un journal engageait les réseaux concentrés. Cette intégration capture les idées passagères.",
-      "de": "Neuronale Forschungen zeigen, dass die kreative Problemlösung ihren Höhepunkt erreicht, wenn das Gehirn zwischen einem entspannten diffusen Modus – in dem lose semantische Assoziationen gebildet werden – und einem konvergenten fokussierten Modus – in dem die logische Konsistenz überprüft wird – oszilliert. Emersons Tagesspaziergänge aktivierten das diffuse Netzwerk, indem sie die zerebrale Durchblutung und das Dopamin bei leichter Bewegung steigerten. Im Gegensatz dazu nutzte seine nächtliche Gewohnheit, diese Notizen in einem Tagebuch zu katalogisieren, fokussierte Netzwerke.",
-      "pt": "A pesquisa neural mostra que a resolução criativa de problemas atinge o seu zénite quando o cérebro oscila entre um modo difuso relaxado — onde são feitas associações semânticas soltas — e um modo focado convergente — onde a consistência lógica é verificada. As caminhadas diurnas de Emerson ativaram a rede difusa ao aumentar o fluxo sanguíneo cerebral e a dopamina durante o exercício leve. Em contraste, o seu hábito noturno de catalogar estes rabiscos num diário envolveu redes focadas. Esta integração captura ideias transitórias.",
-      "id": "Penelitian saraf menunjukkan bahwa pemecahan masalah kreatif mencapai puncaknya ketika otak terombang-ambing antara mode difus yang santai—di mana asosiasi semantik yang longgar dibuat—dan mode terfokus konvergen—di mana konsistensi logis diverifikasi. Jalan-jalan siang hari Emerson mengaktifkan jaringan difus dengan meningkatkan aliran darah serebral dan dopamin selama olahraga ringan. Sebaliknya, kebiasaan malamnya mencatat coretan-coretan ini dalam jurnal melibatkan jaringan terfokus."
+      "ko": "대뇌 과학에 따르면 인간의 창의적 문제 해결은 뇌가 이완된 상태에서 생각의 꼬리를 무작위로 결합하는 '확산 모드(Diffuse Mode)'와, 자리에 앉아 논리적 정합성을 검증하는 '수렴 모드(Convergent/Focused Mode)'가 적절히 번갈아 가동될 때 극대화됩니다. 에머슨이 낮에 자연 속을 걸어 다니며 신체 운동을 자극하고 생각을 자유롭게 흩어놓은 것은 확산 모드를 활성화한 것입니다. 그리고 저녁에 책상 앞에 앉아 낮의 날것의 수첩 메모를 대형 저널에 옮겨 쓰며 맥락을 구조화하는 일기 쓰기 과정은 뇌의 수렴 모드를 발동시킨 것입니다. 이 2단계 인지 루틴은 휘발되기 쉬운 창조적 아이디어를 정교하게 가다듬어 자신의 고유한 지식 자산으로 안착시킵니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "이 2단계 기록 습관을 수행할 때 피해야 할 것은, 낮에 떠오른 생각 조각들을 그날 밤에 정리하지 않고 며칠씩 방치해 두는 것입니다. 인간의 단기 기억은 수일이 지나면 기억 인덱스가 흐려지기 때문에, 자신이 과거에 작성한 메모를 다시 보아도 메모를 작성할 당시에 느꼈던 미묘한 인지적 자극과 감각적 세부 사항을 뇌가 복원해 내지 못합니다. 이 때문에 메모는 단순히 해독 불가능한 문자 더미로 굳어지게 됩니다. 따라서 낮에 포켓 수첩에 적은 메모는 반드시 12시간 내인 '당일 밤'에 일기장으로 승격시켜 옮겨 적는 당일 마감 규칙을 준수해야 온전한 지식 축적이 가능합니다.",
-      "en": "When using this two-stage system, do not let your pocket scribbles sit unaddressed for days. Working memory decay dims the context of your notes; if you wait too long, the brain loses the rich associative framework that accompanied the flash of insight, turning your notes into unreadable code. Establish a non-negotiable daily closeout rule: transfer your pocket notes into your permanent journal within 12 hours. This captures the memory while the mental cues are still fresh and active in your neural cache.",
-      "ja": "この2段階の記録習慣を実践する際に避けるべきなのは、昼間に浮かんだ思考の断片をその日の夜に整理せず、数日間放置しておくことです。人間の短期記憶は数日経つと記憶のインデックスが薄れるため、自分が過去に作成したメモを読み返しても、メモ作成当時に感じた微妙な認知的刺激や感覚的細部を脳が復元できません。このため、メモは単に解読不可能な文字の山として固まってしまいます。したがって、昼間にポケット手帳に書いたメモは、必ず12時間以内である「当日の夜」に日記帳に昇格させて書き写す、当日締め切りルールを遵守してこそ、健全な知識の蓄積が可能になります。",
-      "zh": "在践行这一双阶段记录习惯时，应当避免的是不当天晚上整理白天产生的想法碎片、将其搁置数日。人类的短期记忆在数日过后，记忆索引便会模糊，因此即便重新查看自己过去写下的备忘，大脑也无法还原写下备忘当时所感受到的微妙认知刺激与感官细节。因此，备忘就会退化为单纯的无法解读的字符堆。所以，白天在口袋笔记本上写下的备忘，必须遵守在12小时内的“当天晚上”升级誊写到大日记本上的当天收尾规则，才能实现完整的知识积累。",
-      "es": "Al usar este sistema de dos etapas, no deje que sus garabatos de bolsillo se queden sin abordar durante días. El deterioro de la memoria de trabajo atenúa el contexto de sus notas; si espera demasiado, el cerebro pierde el marco asociativo enriquecido que acompañó al destello de la idea, lo que convierte sus notas en códigos ilegibles. Establezca una regla de cierre diario no negociable: transfiera sus notas de bolsillo a su diario permanente dentro de las 12 horas.",
-      "fr": "Lorsque vous utilisez ce système en deux étapes, ne laissez pas vos notes de poche sans suite pendant des jours. Le déclin de la mémoire de travail atténue le contexte de vos notes ; si vous attendez trop longtemps, le cerveau perd le cadre associatif qui accompagnait l'éclair d'inspiration. Établissez une règle de clôture quotidienne non négociable : transférez vos notes de poche dans votre journal permanent sous 12 heures.",
-      "de": "Wenn Sie dieses zweistufige System verwenden, lassen Sie Ihre Taschennotizen nicht tagelang unberührt. Der Zerfall des Arbeitsgedächtnisses trübt den Kontext Ihrer Notizen. Wenn Sie zu lange warten, verliert das Gehirn den assoziativen Rahmen, der den Blitz der Erkenntnis begleitete. Richten Sie eine tägliche Abschlussregel ein: Übertragen Sie Ihre Taschennotizen innerhalb von 12 Stunden in Ihr Tagebuch.",
-      "pt": "Ao utilizar este sistema de duas etapas, não deixe os seus rabiscos de bolso sem resposta durante dias. O declínio da memória de trabalho enfraquece o contexto das suas notas; se esperar demasiado tempo, o cérebro perde a estrutura associativa rica que acompanhou o flash de discernimento, transformando as suas notas em códigos ilegíveis. Estabeleça uma regra de fecho diário não negociável: transfira as suas notas de bolso para o seu diário permanente dentro de 12 horas.",
-      "id": "Saat menggunakan sistem dua tahap ini, jangan biarkan coretan saku Anda tidak tersentuh selama berhari-hari. Peluruhan memori kerja meredupkan konteks catatan Anda; jika Anda menunggu terlalu lama, otak kehilangan kerangka asosiatif yang kaya yang menyertai kilasan wawasan, mengubah catatan Anda menjadi kode yang tidak terbaca."
+      "ko": "이 2단계 기록 습관을 수행할 때 피해야 할 것은, 낮에 떠오른 생각 조각들을 그날 밤에 정리하지 않고 며칠씩 방치해 두는 것입니다. 인간의 단기 기억은 수일이 지나면 기억 인덱스가 흐려지기 때문에, 자신이 과거에 작성한 메모를 다시 보아도 메모를 작성할 당시에 느꼈던 미묘한 인지적 자극과 감각적 세부 사항을 뇌가 복원해 내지 못합니다. 이 때문에 메모는 단순히 해독 불가능한 문자 더미로 굳어지게 됩니다. 따라서 낮에 포켓 수첩에 적은 메모는 반드시 12시간 내인 '당일 밤'에 일기장으로 승격시켜 옮겨 적는 당일 마감 규칙을 준수해야 온전한 지식 축적이 가능합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "휴대용 포켓 수첩의 주머니 상시 소지",
-          "en": "Carrying a Pocket Journal at All Times",
-          "ja": "携帯用ポケット手帳の常時ポケット所持",
-          "zh": "口袋随身笔记本常备在外套口袋中",
-          "es": "Llevar un diario de bolsillo en todo momento",
-          "fr": "Transporter un carnet de poche en permanence",
-          "de": "Tragen Sie immer ein Taschennotizbuch bei sich",
-          "pt": "Transportar um Caderno de Bolso em Todos os Momentos",
-          "id": "Membawa Jurnal Saku Setiap Saat"
+          "ko": "휴대용 포켓 수첩의 주머니 상시 소지"
         },
         "text": {
-          "ko": "스마트폰 메모 어플 대신 아날로그 포켓 수첩과 연필을 항시 코트나 바지 주머니에 넣고 다닙니다. 밖을 거닐 때 스마트폰을 켜는 즉시 각종 자극적 메시지에 노출되어 사색의 흐름이 끊기기 때문입니다.",
-          "en": "Slip a pocket-sized paper pad and pen into your coat or trousers before leaving the house. Pulling out a smartphone instantly exposes you to digital noise, fragmenting the natural flow of thought.",
-          "ja": "スマートフォンメモアプリの代わりに、アナログのポケット手帳と鉛筆を常にコートやズボンのポケットに入れて持ち歩きます。屋外を歩く際、スマホを立ち上げた瞬間に各種の刺激的なメッセージにさらされ、思索の流れが遮断されてしまうためです。",
-          "zh": "不使用手机备忘录应用，而是将模拟口袋笔记本和铅笔常备在衣服或裤子口袋中。因为在室外漫步时，一旦打开手机，就会立刻暴露在各种刺激性的信息中，打断思考的河流。",
-          "es": "Lleve una libreta de papel tamaño bolsillo y un bolígrafo en el abrigo o los pantalones antes de salir de casa. Sacar un teléfono inteligente lo expone instantáneamente al ruido digital, lo que fragmenta el flujo natural del pensamiento.",
-          "fr": "Glissez un carnet de poche et un stylo dans votre poche avant de sortir. Sortir un smartphone vous expose instantanément au bruit numérique, fragmentant le flux naturel de la pensée.",
-          "de": "Stecken Sie ein Notizbuch im Taschenformat und einen Stift in Ihren Mantel oder Ihre Hose, bevor Sie das Haus verlassen. Das Zücken eines Smartphones setzt Sie sofort digitalem Rauschen aus und fragmentiert den natürlichen Gedankenfluss.",
-          "pt": "Coloque um bloco de papel de bolso e uma caneta no casaco ou nas calças antes de sair de casa. Retirar um smartphone expõe-no instantaneamente ao ruído digital, fragmentando o fluxo natural do pensamento.",
-          "id": "Masukkan pembalut kertas ukuran saku dan pena ke dalam mantel atau celana Anda sebelum meninggalkan rumah. Mengeluarkan ponsel cerdas secara instan membuat Anda terpapar kebisingan digital."
+          "ko": "스마트폰 메모 어플 대신 아날로그 포켓 수첩과 연필을 항시 코트나 바지 주머니에 넣고 다닙니다. 밖을 거닐 때 스마트폰을 켜는 즉시 각종 자극적 메시지에 노출되어 사색의 흐름이 끊기기 때문입니다."
         }
       },
       {
         "name": {
-          "ko": "산책 중 멈춤 기록(Capture)",
-          "en": "Pausing to Capture Thoughts Mid-Walk",
-          "ja": "散歩中の立ち止まり記録（Capture）",
-          "zh": "步履暂停记录（Capture）",
-          "es": "Pausar para capturar pensamientos a mitad de camino",
-          "fr": "Faire une pause pour capturer les pensées en marchant",
-          "de": "Innehalten, um Gedanken mitten im Gehen festzuhalten",
-          "pt": "Pausar para Capturar Pensamentos Durante a Caminhada",
-          "id": "Berhenti Sejenak untuk Menangkap Pikiran di Tengah Jalan"
+          "ko": "산책 중 멈춤 기록(Capture)"
         },
         "text": {
-          "ko": "야외를 산책하다가 단편적인 영감이나 번뜩이는 아이디어가 스치면 그 자리에 걸음을 멈춥니다. 문장의 형식이 완성되지 않아도 좋으니 수첩에 연필로 그 찰나의 날것의 생각을 여과 없이 한두 줄로 빠르게 적어 둡니다.",
-          "en": "When a creative connection flashes during your walk, stop immediately. Do not wait until you return home. Scrawl the raw phrase or diagram in your pad immediately while the concept is fresh.",
-          "ja": "屋外を散歩中、断片的なインスピレーションや閃きがよぎったら、その場で歩みを止めます。文章の形式が整っていなくても構いませんので、手帳に鉛筆でその刹那の生の思考をありのまま1〜2行で素早く書き留めます。",
-          "zh": "在室外散步时，如果脑海中掠过碎片化的灵感或闪现的创意，立刻停下脚步。文字的格式未完成也无妨，用铅笔在笔记本上将那刹那间原始的想法毫无保留地快速写下1~2行。",
-          "es": "Cuando brille una conexión creativa durante su caminata, deténgase de inmediato. No espere hasta regresar a casa. Escriba la frase o el diagrama sin refinar en su libreta de inmediato mientras el concepto esté fresco.",
-          "fr": "Lorsqu'une idée surgit pendant votre promenade, arrêtez-vous immédiatement. N'attendez pas d'être rentré chez vous. Griffonnez immédiatement la phrase sur votre carnet pendant que le concept est frais.",
-          "de": "Wenn Ihnen während Ihres Spaziergangs eine kreative Verbindung in den Sinn kommt, halten Sie sofort an. Warten Sie nicht, bis Sie nach Hause zurückkehren. Schreiben Sie die Formulierung sofort auf.",
-          "pt": "Quando uma ligação criativa surgir durante a caminhada, pare imediatamente. Não espere até voltar para casa. Escreva a frase ou diagrama bruto na sua caderneta imediatamente enquanto o conceito está fresco.",
-          "id": "Ketika koneksi kreatif muncul selama berjalan Anda, segera berhenti. Jangan menunggu sampai Anda kembali ke rumah. Tuliskan frasa atau diagram mentah di buku catatan Anda segera saat konsepnya masih segar."
+          "ko": "야외를 산책하다가 단편적인 영감이나 번뜩이는 아이디어가 스치면 그 자리에 걸음을 멈춥니다. 문장의 형식이 완성되지 않아도 좋으니 수첩에 연필로 그 찰나의 날것의 생각을 여과 없이 한두 줄로 빠르게 적어 둡니다."
         }
       },
       {
         "name": {
-          "ko": "야간 저널 이관 및 논리 구조화(Synthesis)",
-          "en": "Nocturnal Journal Transfer and Synthesis",
-          "ja": "夜間ジャーナル移行と論理構造化（Synthesis）",
-          "zh": "夜间日志誊写与逻辑结构化（Synthesis）",
-          "es": "Transferencia y síntesis del diario nocturno",
-          "fr": "Transfert et synthèse du journal de nuit",
-          "de": "Nächtliche Übertragung und Synthese ins Tagebuch",
-          "pt": "Transferência e Síntese no Diário Noturno",
-          "id": "Transfer Jurnal Malam Hari dan Sintesis"
+          "ko": "야간 저널 이관 및 논리 구조화(Synthesis)"
         },
         "text": {
-          "ko": "매일 밤 일과를 마무리하기 전 서재 책상에 단정히 앉습니다. 낮에 수첩에 휘갈겨 놓은 파편화된 문장들을 큰 일기장(혹은 메인 노트)에 옮겨 적으며, 해당 개념의 근거를 보강하고 5줄 이상의 정연한 단락으로 확장하여 생각을 정제합니다.",
-          "en": "Sit at your desk before sleep. Review the daytime scraps in your pocket pad. Rewrite them into your main journal, connecting them to existing concepts and expanding them into coherent paragraphs.",
-          "ja": "毎晩、一日のスケジュールを終える前に書斎のデスクに静かに座ります。昼間に手帳へ書き殴った断片的な文章を大きな日記帳（あるいはメインノート）に書き写し、その概念の根拠を補強して5行以上の整然とした段落へと拡張し、思考を精製します。",
-          "zh": "每天夜晚结束日程前，端坐在书房书桌旁。将白天在笔记本上随手涂写的碎片化句子誊写到大日记本（或主笔记）中，补充该概念的论据，并扩展为5行以上条理清晰的段落，使思想得到精炼。",
-          "es": "Siéntese en su escritorio antes de dormir. Revise los fragmentos diurnos de su libreta de bolsillo. Transcríbalos en su diario principal, conectándolos con conceptos existentes y expandiéndolos en párrafos coherentes.",
-          "fr": "Asseyez-vous à votre bureau avant de dormir. Relisez les notes de la journée sur votre carnet. Recopiez-les dans votre journal principal, en les reliant à des concepts existants et en les développant.",
-          "de": "Setzen Sie sich vor dem Schlafen an Ihren Schreibtisch. Überprüfen Sie die Notizen des Tages in Ihrem Taschenblock. Schreiben Sie sie in Ihr Haupttagebuch um und erweitern Sie sie in zusammenhängenden Absätzen.",
-          "pt": "Sente-se à secretária antes de dormir. Reveja os rascunhos diurnos da sua caderneta. Reescreva-os no seu diário principal, ligando-os a conceitos existentes e expandindo-os em parágrafos coerentes.",
-          "id": "Duduklah di meja Anda sebelum tidur. Tinjau coretan siang hari di buku catatan saku Anda. Tulis ulang ke dalam jurnal utama Anda, hubungkan ke konsep yang ada dan kembangkan menjadi paragraf yang koheren."
+          "ko": "매일 밤 일과를 마무리하기 전 서재 책상에 단정히 앉습니다. 낮에 수첩에 휘갈겨 놓은 파편화된 문장들을 큰 일기장(혹은 메인 노트)에 옮겨 적으며, 해당 개념의 근거를 보강하고 5줄 이상의 정연한 단락으로 확장하여 생각을 정제합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "낮에 걷다가 떠오른 생각들을 종이 수첩 대신 스마트폰 음성 메모나 전용 메모 어플로 작성해도 되나요?",
-          "en": "Can I use voice memos or digital note apps on my phone during walks?",
-          "ja": "昼間に歩きながら浮かんだ思考を、紙の手帳の代わりにスマートフォンの音声メモや専用メモアプリで作成してもいいですか？",
-          "zh": "白天漫步时脑海中产生的想法，可以用手机语音备忘录或专用备忘录应用代替纸质笔记本记录吗？",
-          "es": "¿Puedo usar notas de voz o aplicaciones de notas digitales en mi teléfono durante las caminatas?",
-          "fr": "Puis-je utiliser des mémos vocaux ou des applications de notes sur mon téléphone pendant mes promenades ?",
-          "de": "Kann ich während des Spaziergangs Sprachmemos oder digitale Notizen-Apps auf meinem Telefon verwenden?",
-          "pt": "Posso utilizar notas de voz ou aplicações de notas digitais no telemóvel durante as caminhadas?",
-          "id": "Bisakah saya menggunakan memo suara atau aplikasi catatan digital di ponsel saya saat berjalan?"
+          "ko": "낮에 걷다가 떠오른 생각들을 종이 수첩 대신 스마트폰 음성 메모나 전용 메모 어플로 작성해도 되나요?"
         },
         "answer": {
-          "ko": "네, 스마트폰을 쓰더라도 외부 알림이 완벽히 차단된 위젯이나 오프라인 메모 앱을 쓴다면 훌륭한 대안이 됩니다. 핵심은 정보의 매체가 아닌, 걷는 중에는 뇌를 '입력 차단 및 확산 모드'로 유지하는 것과, 당일 밤에 '수렴 모드'를 통해 큰 노트로 통합 이관하는 구조적 주기를 유지하는 것입니다.",
-          "en": "Yes, provided you minimize digital distractions. Use an app that can be launched directly from your lock screen in offline mode to avoid notifications. The core value lies not in the paper itself, but in protecting the diffuse mode during your walk and securing the transfer to your permanent database that night.",
-          "ja": "はい、スマホを使用する場合でも、外部からの通知が完全に遮断されたウィジェットやオフラインのメモアプリを使用すれば、素晴らしい代替手段になります。重要なのは情報の媒体ではなく、歩行中は脳を「入力遮断および拡散モード」に維持すること、そして当日の夜に「収束モード」を通じて大きなノートに統合移行する構造的な周期を維持することです。",
-          "zh": "可以。即使使用智能手机，如果能使用完全屏蔽了外部通知的小组件或离线备忘录应用，也是很好的替代方案。核心不在于信息的介质，而在于在行走期间保持大脑的“阻断输入与发散模式”，以及在当天晚上通过“收敛模式”统一誊写到大笔记本中的结构化周期。",
-          "es": "Sí, siempre que minimice las distracciones digitales. Use una aplicación que se pueda iniciar directamente desde la pantalla de bloqueo en modo fuera de línea para evitar notificaciones. El valor principal no radica en el papel en sí, sino en proteger el modo difuso durante su caminata y asegurar la transferencia a su base de datos permanente esa noche.",
-          "fr": "Oui, à condition de minimiser les distractions. Utilisez une application lancée depuis l'écran de verrouillage hors ligne pour éviter les notifications. L'important n'est pas le papier, mais la protection du mode diffus pendant la marche.",
-          "de": "Ja, vorausgesetzt, Sie minimieren digitale Ablenkungen. Verwenden Sie eine App, die offline direkt vom Sperrbildschirm aus gestartet werden kann, um Benachrichtigungen zu vermeiden. Der Wert liegt nicht im Papier selbst, sondern im Schutz des diffusen Modus.",
-          "pt": "Sim, desde que minimize as distrações digitais. Utilize uma aplicação que possa ser iniciada diretamente a partir do ecrã de bloqueio no modo offline para evitar notificações. O valor principal não reside no papel em si, mas sim em proteger o modo difuso.",
-          "id": "Ya, asalkan Anda meminimalkan gangguan digital. Gunakan aplikasi yang dapat diluncurkan langsung dari layar kunci Anda dalam mode offline untuk menghindari notifikasi. Nilai intinya bukan pada kertas itu sendiri, tetapi pada perlindungan mode difus."
+          "ko": "네, 스마트폰을 쓰더라도 외부 알림이 완벽히 차단된 위젯이나 오프라인 메모 앱을 쓴다면 훌륭한 대안이 됩니다. 핵심은 정보의 매체가 아닌, 걷는 중에는 뇌를 '입력 차단 및 확산 모드'로 유지하는 것과, 당일 밤에 '수렴 모드'를 통해 큰 노트로 통합 이관하는 구조적 주기를 유지하는 것입니다."
         }
       }
-    ],
-    "pubDate": "2026-06-02",
-    "updatedDate": "2026-06-02"
+    ]
   }
 }

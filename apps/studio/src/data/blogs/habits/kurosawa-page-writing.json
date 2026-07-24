@@ -1,194 +1,64 @@
 {
   "kurosawa-page-writing": {
     "title": {
-      "ko": "거장의 위대한 시작: 아키라 구로사와 감독의 하루 2페이지 시나리오 루틴",
-      "en": "The Great Beginning of a Master: Director Akira Kurosawa's Daily 2-Page Script Routine",
-      "ja": "巨匠の偉大な始まり：黒澤明監督の１日２ページのシナリオルーティン",
-      "zh": "大师的伟大起点：黑泽明导演每日写两页剧本的日常惯例",
-      "es": "The Great Beginning of a Master: Director Akira Kurosawa's Daily 2-Page Script Routine",
-      "fr": "The Great Beginning of a Master: Director Akira Kurosawa's Daily 2-Page Script Routine",
-      "de": "The Great Beginning of a Master: Director Akira Kurosawa's Daily 2-Page Script Routine",
-      "pt": "The Great Beginning of a Master: Director Akira Kurosawa's Daily 2-Page Script Routine",
-      "id": "The Great Beginning of a Master: Director Akira Kurosawa's Daily 2-Page Script Routine"
+      "ko": "거장의 위대한 시작: 아키라 구로사와 감독의 하루 2페이지 시나리오 루틴"
     },
     "description": {
-      "ko": "아키라 구로사와 감독이 매일 실천한 2페이지 쓰기 습관. 목표를 극단적으로 잘게 쪼개어 편도체의 위협 반응을 억제하는 脳科学的 원리를 설명합니다.",
-      "en": "Akira Kurosawa's daily 2-page writing routine. Explains the neuroscientific value of micro-goal setting to reduce amygdala threat responses.",
-      "ja": "黒澤明監督が毎日実践した2ページの執筆習慣。目標を極限まで細分化し、扁桃体の脅威反応を抑える脳科学的原理を解説します。",
-      "zh": "黑泽明导演每日践行的两页剧本创作习惯。解析通过极度细分目标来抑制杏仁核威胁反应的脑科学原理。",
-      "es": "Akira Kurosawa's daily 2-page writing routine. Explains the neuroscientific value of micro-goal setting to reduce amygdala threat responses.",
-      "fr": "Akira Kurosawa's daily 2-page writing routine. Explains the neuroscientific value of micro-goal setting to reduce amygdala threat responses.",
-      "de": "Akira Kurosawa's daily 2-page writing routine. Explains the neuroscientific value of micro-goal setting to reduce amygdala threat responses.",
-      "pt": "Akira Kurosawa's daily 2-page writing routine. Explains the neuroscientific value of micro-goal setting to reduce amygdala threat responses.",
-      "id": "Akira Kurosawa's daily 2-page writing routine. Explains the neuroscientific value of micro-goal setting to reduce amygdala threat responses."
+      "ko": "아키라 구로사와 감독이 매일 실천한 2페이지 쓰기 습관. 목표를 극단적으로 잘게 쪼개어 편도체의 위협 반응을 억제하는 뇌과학적 원리를 설명합니다."
     },
     "authority": {
-      "ko": "아키라 구로사와 자서전 『두꺼비 기름』 기록 및 행동과학의 미세 목표 설정과 편도체 위협 반응 억제 연구",
-      "en": "Akira Kurosawa's autobiography and Research on Micro-Goal Setting and Amygdala Threat Inhibition",
-      "ja": "黒澤明の自伝『蝦蟇の油』の記録、およびミクロ目標設定と扁桃体脅威反応抑制に関する行動科学研究",
-      "zh": "黑泽明自传《蛤蟆的油》中的记载，以及有关设定微目标和抑制杏仁核威胁反应的行为科学研究",
-      "es": "Akira Kurosawa's autobiography and Research on Micro-Goal Setting and Amygdala Threat Inhibition",
-      "fr": "Akira Kurosawa's autobiography and Research on Micro-Goal Setting and Amygdala Threat Inhibition",
-      "de": "Akira Kurosawa's autobiography and Research on Micro-Goal Setting and Amygdala Threat Inhibition",
-      "pt": "Akira Kurosawa's autobiography and Research on Micro-Goal Setting and Amygdala Threat Inhibition",
-      "id": "Akira Kurosawa's autobiography and Research on Micro-Goal Setting and Amygdala Threat Inhibition"
+      "ko": "Kurosawa Page Writing 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "아키라 구로사와 감독은 평생 촬영 중에도 매일 시나리오 2페이지를 채우는 소박한 원칙을 지켰습니다. 이것은 뇌의 위협 센서인 편도체를 피해 행동력을 유도하는 지혜입니다.",
-      "en": "Akira Kurosawa kept the simple principle of completing 2 pages of script daily even during busy filming. This is a wisdom to avoid amygdala threat and trigger action.",
-      "ja": "この歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持続可能な深い集中力を養うことができます。",
-      "zh": "通过每天系统地实践这一历史性惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
-      "es": "Akira Kurosawa escribía un número fijo de páginas de guion todos los días, independientemente de su nivel de inspiración. Este hábito de escritura sistemático evitó el bloqueo del escritor al confiar en la disciplina sobre la motivación emocional.",
-      "fr": "Akira Kurosawa écrivait un nombre fixe de pages chaque jour, peu importe son inspiration. Cette routine systématique a évité le blocage de l'écrivain en s'appuyant sur la discipline.",
-      "de": "Akira Kurosawa schrieb jeden Tag eine feste Anzahl von Drehbuchseiten, unabhängig von seiner Inspiration. Diese Routine verhinderte Schreibblockaden durch Disziplin statt Motivation.",
-      "pt": "Akira Kurosawa escrevia um número fixo de páginas de roteiro todos os dias, independentemente de sua inspiração. Este hábito sistemático evitou o bloqueio criativo com base na disciplina.",
-      "id": "Akira Kurosawa menulis jumlah halaman skenario yang tetap setiap hari, tanpa memandang tingkat inspirasinya. Kebiasaan ini mencegah kebuntuan menulis."
+      "ko": "\"거대한 영화를 만들려 하지 마라. 그저 매일 2페이지의 글을 채우는 작은 규칙에만 집중하라.\" 🎬\n\n세계 영화 역사상 가장 영향력 있는 감독 중 한 명인 아키라 구로사와. 《라쇼몽》, 《7인의 사무라이》, 《란》 등 혁신적인 영상미와 탄탄한 시나리오로 영화의 패러다임을 바꾼 거장입니다. 수많은 영화 감독과 작가들이 창작의 벽 앞에서 머리를 쥐어뜯으며 좌절할 때, 그는 일관되고 흔들림 없는 성과를 내놓았습니다. 그가 위대한 각본과 연출을 쉼 없이 창조할 수 있었던 숨겨진 열쇠는 바로 매일 아침 무조건 실천했던 '하루 2페이지 시나리오 집필'이었습니다.\n\n구로사와 감독은 아무리 바쁜 촬영 기간이거나 컨디션이 저조할 때조차 매일 원고지 2장을 작성하는 규칙을 단 하루도 빼놓지 않았습니다. 그는 자서전에서 \"매일 2페이지씩만 쓰면 1년에 2편의 훌륭한 시나리오를 완성할 수 있다. 중요한 것은 거창한 결과물을 바라는 것이 아니라, 매일 약속된 최소한의 행동을 끝마치는 성실함이다\"라고 설파했습니다. 이 소박하고 강력한 규칙은 현대 행동과학이 강조하는 '인지 부하 감소'와 '미세 목표 설정'의 완벽한 표본입니다.\n\n오늘 포스트에서는 아키라 구로사와 감독의 하루 2페이지 루틴 속에 깃든 뇌의 저항 극복 원리를 살펴보고, 현대인이 원대한 계획을 완수하기 위해 뇌의 거부 반응을 최소화하고 실천력을 극대화할 수 있는 3단계 실천 가이드를 제시합니다."
     },
     "whyTitle": {
-      "ko": "뇌의 방어 기제를 우회하는 미세 목표의 뇌과학",
-      "en": "Neuroscience of Micro-Goals Bypassing Brain Defense Mechanisms",
-      "ja": "脳の防御機構を回避するミクロ目標の脳科学",
-      "zh": "绕过大脑防御机制的微目标脑科学",
-      "es": "Neuroscience of Micro-Goals Bypassing Brain Defense Mechanisms",
-      "fr": "Neuroscience of Micro-Goals Bypassing Brain Defense Mechanisms",
-      "de": "Neuroscience of Micro-Goals Bypassing Brain Defense Mechanisms",
-      "pt": "Neuroscience of Micro-Goals Bypassing Brain Defense Mechanisms",
-      "id": "Neuroscience of Micro-Goals Bypassing Brain Defense Mechanisms"
+      "ko": "뇌의 방어 기제를 우회하는 미세 목표의 뇌과학"
     },
     "whyDesc": {
-      "ko": "목표가 너무 크면 뇌의 편도체는 위협으로 느껴 회피 반응을 내보냅니다. 하루 2장과 같이 극단적으로 목표를 줄이면 저항감 없이 전두엽이 주도하는 행동을 시작할 수 있습니다.",
-      "en": "When a goal is too huge, the brain's amygdala perceives it as a threat and triggers procrastination. Extreme downsizing bypasses this block and starts prefrontal action.",
-      "ja": "目標が大きすぎると、脳の扁桃体はそれを脅威と感じて回避反応（先延ばし）を起こします。１日２ページのように目標を極限まで小さくすれば、抵抗なく前頭葉による行動を開始できます。",
-      "zh": "当目标过于庞大时，大脑中的杏仁核会将其视为威胁并触发拖延。如果将目标极度缩减至每日两页，就能毫无抵抗感地启动前额叶主导的行动。",
-      "es": "El cerebro creativo a menudo sufre de parálisis por expectativas. Establecer una meta de salida cuantitativamente baja reduce la ansiedad, disminuye la carga de trabajo en la corteza prefrontal y permite que el proceso de escritura fluya más libremente.",
-      "fr": "Le cerveau créatif souffre souvent de paralysie due aux attentes. Fixer un objectif quantitatif bas réduit l'anxiété, diminuant la charge de travail du cortex préfrontal.",
-      "de": "Das kreative Gehirn leidet oft unter Erwartungsparalyse. Das Festlegen eines quantitativ niedrigen Ziels reduziert die Angst und entlastet den präfrontalen Kortex.",
-      "pt": "O cérebro criativo frequentemente sofre de paralisia por expectativas. Estabelecer uma meta quantitativa baixa reduz a ansiedade, diminuindo a carga de trabalho no córtex pré-frontal.",
-      "id": "Otak kreatif sering kali menderita kelumpuhan karena ekspektasi. Menetapkan target keluaran kuantitatif yang rendah mengurangi kecemasan, menurunkan beban kerja prefrontal."
+      "ko": "목표가 너무 크면 뇌의 편도체는 위협으로 느껴 회피 반응을 내보냅니다. 하루 2장과 같이 극단적으로 목표를 줄이면 저항감 없이 전두엽이 주도하는 행동을 시작할 수 있습니다. 신경과학적 연구에 따르면 이 행동은 편도체의 불필요한 불안 반응을 억제하고 시공간 스케치북 회로를 활성화하여 장기 집행 기능을 획기적으로 향상시킵니다."
     },
     "cautionTitle": {
-      "ko": "완수를 돕기 위한 거장의 명언",
-      "en": "Master's Quote for Completion",
-      "ja": "やり遂げる力を与える巨匠の名言",
-      "zh": "助力达成目标的导演格言",
-      "es": "Master's Quote for Completion",
-      "fr": "Master's Quote for Completion",
-      "de": "Master's Quote for Completion",
-      "pt": "Master's Quote for Completion",
-      "id": "Master's Quote for Completion"
+      "ko": "완수를 돕기 위한 거장의 명언"
     },
     "cautionDesc": {
-      "ko": "거대한 영화 전체를 생각하면 숨이 막히지만, 매일 2페이지는 누구나 할 수 있습니다. 오늘 한 걸음에만 몰두하십시오. 1년 뒤 놀라운 자산이 쌓일 것입니다.",
-      "en": "Thinking of a huge movie blocks breath, but anyone can write 2 pages daily. Focus only on today's step. You will find massive assets in a year.",
-      "ja": "巨大な映画全体を考えると圧倒されますが、毎日２ページなら誰でもできます。今日の１歩にのみ集中してください。１年後には驚くべき成果が積み上がっています。",
-      "zh": "如果去设想一整部宏大的电影，会让人喘不过气，但每天写两页剧本是任何人都能做到的。只专注今天这一步，一年后你将积累惊人的资产。",
-      "es": "Evite juzgar o editar su trabajo mientras escribe. Separe estrictamente la fase de generación de contenido de la fase de edición para no interrumpir el estado de flujo cognitivo.",
-      "fr": "Évitez de juger ou d'éditer votre travail pendant que vous écrivez. Séparez strictement la phase de génération de la phase d'édition pour ne pas interrompre l'état de flux.",
-      "de": "Vermeiden Sie es, Ihre Arbeit während des Schreibens zu bewerten. Trennen Sie die Erstellungsphase streng von der Bearbeitungsphase, um den Flow-Zustand nicht zu stören.",
-      "pt": "Evite julgar ou editar seu trabalho enquanto escreve. Separe estritamente a fase de geração da fase de edição para não interromper o estado de fluxo cognitivo.",
-      "id": "Hindari menilai atau mengedit karya Anda saat menulis. Pisahkan secara ketat fase pembuatan konten dari fase pengeditan agar tidak mengganggu kondisi alir (flow)."
+      "ko": "거대한 영화 전체를 생각하면 숨이 막히지만, 매일 2페이지는 누구나 할 수 있습니다. 오늘 한 걸음에만 몰두하십시오. 1년 뒤 놀라운 자산이 쌓일 것입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "타겟 행동의 초미세 쪼개기 설정",
-          "en": "Setting Up Micro-Steps for Target Action",
-          "ja": "ターゲット行動の超微細な細分化設定",
-          "zh": "设定目标行动的极度拆解",
-          "es": "Setting Up Micro-Steps for Target Action",
-          "fr": "Setting Up Micro-Steps for Target Action",
-          "de": "Setting Up Micro-Steps for Target Action",
-          "pt": "Setting Up Micro-Steps for Target Action",
-          "id": "Setting Up Micro-Steps for Target Action"
+          "ko": "타겟 행동의 초미세 쪼개기 설정"
         },
         "text": {
-          "ko": "거대한 업무를 하루에 해낼 수 있는 가장 작은 기초 행동 단위로 쪼개어 오늘의 정량 목표로 삼습니다.",
-          "en": "Divide your huge project into the smallest daily actionable units, such as 2 pages of script, and define it as today's target.",
-          "ja": "巨大なタスクを１日で達成可能な最小の行動単位（シナリオ２ページなど）に分割し、今日の定量目標に設定します。",
-          "zh": "将宏大的任务拆解为每日可完成的最小基础行动单位（例如两页剧本），作为今天的定量目标。",
-          "es": "Divide your huge project into the smallest daily actionable units, such as 2 pages of script, and define it as today's target.",
-          "fr": "Divide your huge project into the smallest daily actionable units, such as 2 pages of script, and define it as today's target.",
-          "de": "Divide your huge project into the smallest daily actionable units, such as 2 pages of script, and define it as today's target.",
-          "pt": "Divide your huge project into the smallest daily actionable units, such as 2 pages of script, and define it as today's target.",
-          "id": "Divide your huge project into the smallest daily actionable units, such as 2 pages of script, and define it as today's target."
+          "ko": "거대한 업무를 하루에 해낼 수 있는 가장 작은 기초 행동 단위로 쪼개어 오늘의 정량 목표로 삼습니다."
         }
       },
       {
         "name": {
-          "ko": "인지 부하 차단을 위한 선별적 몰입",
-          "en": "Selective Immersion to block Cognitive Load",
-          "ja": "認知負荷遮断のための選択的没頭",
-          "zh": "进行选择性沉浸以隔绝认知负荷",
-          "es": "Selective Immersion to block Cognitive Load",
-          "fr": "Selective Immersion to block Cognitive Load",
-          "de": "Selective Immersion to block Cognitive Load",
-          "pt": "Selective Immersion to block Cognitive Load",
-          "id": "Selective Immersion to block Cognitive Load"
+          "ko": "인지 부하 차단을 위한 선별적 몰입"
         },
         "text": {
-          "ko": "전체 결과에 대한 심리적 압박을 버리고, 오직 눈앞의 미세 목표를 완성하는 것에만 몰두합니다.",
-          "en": "Discard psychological pressure regarding final outcomes and block cognitive consumption other than completing today's tiny step.",
-          "ja": "全体の結果に対する心理的プレッシャーを捨て、目の前の小さな目標を達成することだけに集中して、無駄なエネルギー消費を防ぎます。",
-          "zh": "抛开对最终结果的心理压力，在动手时只专注于完成眼前的微小目标，避免消耗其他精力。",
-          "es": "Discard psychological pressure regarding final outcomes and block cognitive consumption other than completing today's tiny step.",
-          "fr": "Discard psychological pressure regarding final outcomes and block cognitive consumption other than completing today's tiny step.",
-          "de": "Discard psychological pressure regarding final outcomes and block cognitive consumption other than completing today's tiny step.",
-          "pt": "Discard psychological pressure regarding final outcomes and block cognitive consumption other than completing today's tiny step.",
-          "id": "Discard psychological pressure regarding final outcomes and block cognitive consumption other than completing today's tiny step."
+          "ko": "전체 결과에 대한 심리적 압박을 버리고, 오직 눈앞의 미세 목표를 완성하는 것에만 몰두합니다."
         }
       },
       {
         "name": {
-          "ko": "작은 성공의 도파민 강화 의식",
-          "en": "Reinforcing Dopamine with Small Wins",
-          "ja": "小さな成功によるドーパミン強化の儀式",
-          "zh": "用小成效强化多巴胺的仪式",
-          "es": "Reinforcing Dopamine with Small Wins",
-          "fr": "Reinforcing Dopamine with Small Wins",
-          "de": "Reinforcing Dopamine with Small Wins",
-          "pt": "Reinforcing Dopamine with Small Wins",
-          "id": "Reinforcing Dopamine with Small Wins"
+          "ko": "작은 성공의 도파민 강화 의식"
         },
         "text": {
-          "ko": "정량 2페이지 달성을 끝내면 달성했다는 시각적 체크를 남기며, 뇌에 작은 성취감과 도파민 보상을 공급합니다.",
-          "en": "Once the 2 pages are completed, leave a visual checkmark to feed your brain with feelings of accomplishment and dopamine rewards.",
-          "ja": "定量２ページの執筆が完了したら視覚的なチェックを残し、脳に小さな達成感とドーパミンの報酬を与えます。",
-          "zh": "完成定量的两页后，在清单上留下清晰的视觉打勾，为大脑即时提供成就感和多巴胺奖励。",
-          "es": "Once the 2 pages are completed, leave a visual checkmark to feed your brain with feelings of accomplishment and dopamine rewards.",
-          "fr": "Once the 2 pages are completed, leave a visual checkmark to feed your brain with feelings of accomplishment and dopamine rewards.",
-          "de": "Once the 2 pages are completed, leave a visual checkmark to feed your brain with feelings of accomplishment and dopamine rewards.",
-          "pt": "Once the 2 pages are completed, leave a visual checkmark to feed your brain with feelings of accomplishment and dopamine rewards.",
-          "id": "Once the 2 pages are completed, leave a visual checkmark to feed your brain with feelings of accomplishment and dopamine rewards."
+          "ko": "정량 2페이지 달성을 끝내면 달성했다는 시각적 체크를 남기며, 뇌에 작은 성취감과 도파민 보상을 공급합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "하루 목표치가 너무 작으면 성과가 너무 더디지 않을까요?",
-          "en": "Will the progress be too slow if daily micro-goals are too small?",
-          "ja": "１日の目標が小さすぎると成果が出るのが遅くなりませんか？",
-          "zh": "每日目标定得太小，进展会不会太慢？",
-          "es": "Will the progress be too slow if daily micro-goals are too small?",
-          "fr": "Will the progress be too slow if daily micro-goals are too small?",
-          "de": "Will the progress be too slow if daily micro-goals are too small?",
-          "pt": "Will the progress be too slow if daily micro-goals are too small?",
-          "id": "Will the progress be too slow if daily micro-goals are too small?"
+          "ko": "하루 목표치가 너무 작으면 성과가 너무 더디지 않을까요?"
         },
         "answer": {
-          "ko": "목표가 너무 크면 시작조차 못 하고 아예 포기하지만, 작게 매일 실행하는 것은 1년 동안 막대한 양의 결과물을 누적시킵니다.",
-          "en": "Huge goals block starting completely. Consistent daily execution of tiny steps aggregates massive volumes of output in a year.",
-          "ja": "目標が大きすぎると開始すらできず諦めてしまいますが、小さくても毎日実行すれば、１年で膨大な成果が蓄積されます。",
-          "zh": "如果目标过大，往往会让人难以下手最终放弃；相反，每天坚持执行微小的任务，一年下来会积累惊人的成果。",
-          "es": "Huge goals block starting completely. Consistent daily execution of tiny steps aggregates massive volumes of output in a year.",
-          "fr": "Huge goals block starting completely. Consistent daily execution of tiny steps aggregates massive volumes of output in a year.",
-          "de": "Huge goals block starting completely. Consistent daily execution of tiny steps aggregates massive volumes of output in a year.",
-          "pt": "Huge goals block starting completely. Consistent daily execution of tiny steps aggregates massive volumes of output in a year.",
-          "id": "Huge goals block starting completely. Consistent daily execution of tiny steps aggregates massive volumes of output in a year."
+          "ko": "목표가 너무 크면 시작조차 못 하고 아예 포기하지만, 작게 매일 실행하는 것은 1년 동안 막대한 양의 결과물을 누적시킵니다."
         }
       }
-    ],
-    "pubDate": "2026-05-07",
-    "updatedDate": "2026-05-07"
+    ]
   }
 }

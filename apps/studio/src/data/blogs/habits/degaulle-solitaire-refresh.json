@@ -1,218 +1,72 @@
 {
   "degaulle-solitaire-refresh": {
     "title": {
-      "ko": "대통령 집무실의 1인용 카드 게임? 샤를 드 골의 의사결정 피로 해소법",
-      "en": "A Single-Player Card Game in the President's Office? Charles de Gaulle's Decision Fatigue Relief Method",
-      "ja": "大統領執務室での一人用カードゲーム？シャルル・ド・ゴールの意思決定疲労解消法",
-      "zh": "总统办公室里的单人纸牌游戏？夏尔·戴高乐的决策疲劳缓解法",
-      "es": "¿Un juego de cartas individual en el despacho presidencial? El método de Charles de Gaulle para aliviar la fatiga de decisión",
-      "fr": "Un jeu de cartes en solitaire dans le bureau du président ? La méthode de Charles de Gaulle pour soulager la fatigue décisionnelle",
-      "de": "Ein Kartenspiel für eine Person im Büro des Präsidenten? Charles de Gaulles Methode zur Linderung von Entscheidungsmüdigkeit",
-      "pt": "Um jogo de cartas individual no gabinete presidencial? O método de Charles de Gaulle para aliviar a fadiga de decisão",
-      "id": "Permainan Kartu Satu Pemain di Kantor Presiden? Metode Meredakan Kelelahan Keputusan Charles de Gaulle"
+      "ko": "대통령 집무실의 1인용 카드 게임? 샤를 드 골의 의사결정 피로 해소법"
     },
     "description": {
-      "ko": "위기 속에서 프랑스를 구했던 영웅 샤를 드 골. 그가 격무의 고단함 속에서 솔리테어 카드 게임을 즐겼던 숨은 습관을 조명하고, 뇌의 전두엽 의사결정 피로를 덜어내는 脳科学的 힐링 원리를 공개합니다.",
-      "en": "Charles de Gaulle, the hero who saved France. Discover his hidden routine of playing Solitaire to manage extreme political stress and how simple games relieve decision fatigue.",
-      "ja": "危機の中でフランスを救った英雄シャルル・ド・ゴール。彼が激務の疲れの中でソリティアカードゲームを楽しんだ隠れた習慣にスポットを当て、脳の前頭葉の意思決定疲労を和らげる脳科学的ヒーリング原理を公開します。",
-      "zh": "在危机中拯救法国的英雄夏尔·戴高乐。聚焦他在繁重工作和疲惫状态下喜爱玩单人纸牌（Solitaire）游戏的隐藏常规，公开减轻大脑前额叶决策疲劳的脑科学疗愈原理。",
-      "es": "El héroe que salvó a Francia, Charles de Gaulle. Descubra su rutina de jugar al solitario para manejar el estrés político y cómo los juegos simples alivian la fatiga de decisión.",
-      "fr": "Le héros qui a sauvé la France, Charles de Gaulle. Découvrez sa routine consistant à jouer au Solitaire pour gérer le stress, et comment les jeux simples soulagent la fatigue décisionnelle.",
-      "de": "Der Held, der Frankreich rettete: Charles de Gaulle. Erfahren Sie, wie seine Routine, Solitaire zu spielen, ihm half, Stress abzubauen, und wie einfache Spiele Entscheidungsmüdigkeit lindern.",
-      "pt": "O herói que salvou a França, Charles de Gaulle. Conheça sua rotina de jogar paciência para gerenciar o estresse político e como jogos simples aliviam a fadiga de decisão.",
-      "id": "Pahlawan yang menyelamatkan Prancis, Charles de Gaulle. Temukan rutinitas tersembunyinya bermain Solitaire untuk meredakan stres politik dan bagaimana game sederhana memulihkan kelelahan keputusan."
+      "ko": "위기 속에서 프랑스를 구했던 영웅 샤를 드 골. 그가 격무의 고단함 속에서 솔리테어 카드 게임을 즐겼던 숨은 습관을 조명하고, 뇌의 전두엽 의사결정 피로를 덜어내는 뇌과학적 힐링 원리를 공개합니다."
     },
     "authority": {
-      "ko": "샤를 드 골의 전쟁 회고록 'War Memoirs' 및 Journal of Behavioral Medicine",
-      "en": "Charles de Gaulle's 'War Memoirs' & Journal of Behavioral Medicine",
-      "ja": "シャルル・ド・ゴールの戦争回想録「War Memoirs」および学術誌「Journal of Behavioral Medicine」",
-      "zh": "夏尔·戴高乐战争回忆录《War Memoirs》与学术期刊《Journal of Behavioral Medicine》",
-      "es": "Las 'Memorias de guerra' de Charles de Gaulle y la revista Journal of Behavioral Medicine",
-      "fr": "Les 'Mémoires de guerre' de Charles de Gaulle & revue Journal of Behavioral Medicine",
-      "de": "Charles de Gaulles 'Kriegsmemoiren' & Fachzeitschrift Journal of Behavioral Medicine",
-      "pt": "As 'Memórias de Guerra' de Charles de Gaulle & revista Journal of Behavioral Medicine",
-      "id": "Memoar Perang Charles de Gaulle & Jurnal Journal of Behavioral Medicine"
+      "ko": "샤를 드 골 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "제2차 세계대전 당시 런던에서 망명정부 '자유 프랑스'를 이끌며 조국 해방의 선봉에 서고, 전후 대통령에 올라 현대 프랑스의 국가 기틀을 마련했던 거인 샤를 드 골. 냉전 시대 한가운데에서 국가적 국난과 극비 군사 결단을 쉼 없이 내려야 했던 그의 삶은 초인적인 긴장 상태의 연속이었습니다. 🃏\n\n이 지독한 압박감 속에서 드 골이 매일 밤 찾아갔던 그만의 독특한 탈출구가 있었습니다. 바로 트럼프 카드로 즐기는 1인용 카드 게임, '솔리테어(Solitaire)'였습니다. 그는 참모들과의 마라톤 안보 회의가 끝난 늦은 밤, 집무실의 촛불 아래 홀로 낡은 종이 트럼프 카드를 한 장씩 나열하고 이들을 무늬와 수서대로 맞추어 갔습니다. 그의 비서진의 증언에 따르면, 드 골은 솔리테어를 하는 동안 철저하게 말을 아꼈으며 카드가 차례로 정리되는 흐름에만 신경을 곤두세웠습니다. 이 사소해 보이는 카드 게임은 격무로 지쳐버린 프랑스 영웅의 두뇌 의사결정 필터를 일시적으로 꺼주고, 냉철한 판단력을 유지하게 한 비밀 안식처였습니다.\n\n오늘 BuildSelf에서는 드 골의 솔리테어 루틴이 지닌 脳科学的 휴식의 작동 원리와 현대인들이 복잡한 의사결정 스트레스에서 벗어나 뇌를 이완하는 아날로그 매칭 리추얼을 소개합니다.",
-      "en": "In this transformative routine: 2 ' ' , . . 🃏 In this transformative routine: . 1 , '(Solitaire)'. , . , . , . In this transformative routine: BuildSelf . By practicing this systematic routine every day, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus. By practicing this systematic routine every day, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus.",
-      "ja": "第二次世界大戦当時、ロンドンで亡命政府「自由フランス」を率いて祖国解放の先頭に立ち、戦後大統領として現代フランスの国家基盤を構築した巨人、シャルル・ド・ゴール。冷戦の真っ只中で国家的な危機や極秘の軍事決断を絶え間なく下さなければならなかった彼の人生は、超人的な緊張状態の連続でした。 🃏\n\nこの凄まじい圧迫感の中で、ド・ゴールが毎晩訪れた彼だけのユニークな避難処がありました。トランプカードで楽しむ一人用カードゲーム、「ソリティア（Solitaire）」でした。彼は参謀たちとの終わりのない安全保障会議が終わった深夜、執務室の灯りの下で一人、古いトランプカードを一枚ずつ並べてマークと数字を合わせました。秘書たちの証言によると、彼はソリティアをする間は徹底して言葉を控え、カードが順番に整理される流れだけに神経を研ぎ澄ませました。この些細に見えるカードゲームは、激務で疲れ果てたフランスの英雄の脳の意思決定フィルターを一時的にオフにし、冷徹な判断力を維持させた秘密の安息処でした。\n\n本日、BuildSelfではド・ゴールのソリティアルーティンが持つ脳科学的休息の作動原理と、現代人が複雑な意思決定のストレスから脱して脳をリラックスさせるアナログマッチングリチュアルを紹介します。",
-      "zh": "二战时期在伦敦领导亡命政府“自由法国”站在光复祖国最前沿，并在战后出任总统打下现代法国国家基石的伟人夏尔·戴高乐。在冷战时期正中央、必须不断做出国家危机和绝密军事决断的他的生活，无异于是超人般紧张状态的连续。 🃏\n\n在这一令人窒息的压迫感中，戴高乐每晚都会前往一个专属的独特避难所。那就是用扑克牌进行的单人游戏——“单人纸牌（Solitaire）”。在与幕僚们的马拉松式安全会议结束的深夜, 他独自一人在办公室的烛光下，将旧扑克牌一张张排开，按花色和数字进行拼配。据他的秘书们证言，戴高乐在玩纸牌期间绝口不提政务, 仅仅将注意力集中在卡牌依次整理的流水线上。这个看起来微不足道的纸牌游戏，暂时关闭了因繁重工作而疲惫不堪的法国英雄的大脑决策过滤器，成为了他保持冷静判断力的秘密避难所。\n\n今天，BuildSelf 向您介绍戴高乐单人纸牌常规所具有的脑科学休息运作原理，以及现代人摆脱复杂决策压力、放松大脑的模拟配对仪式。",
-      "es": "En la práctica de esta rutina transformadora: 2 ' ' , . . 🃏 En la práctica de esta rutina transformadora: . 1 , '(Solitaire)'. , . , . , . En la práctica de esta rutina transformadora: BuildSelf . Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora: 2 ' ' , . . 🃏 Na prática desta rotina transformadora: . 1 , '(Solitaire)'. , . , . , . Na prática desta rotina transformadora: BuildSelf . Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "제2차 세계대전 당시 런던에서 망명정부 '자유 프랑스'를 이끌며 조국 해방의 선봉에 서고, 전후 대통령에 올라 현대 프랑스의 국가 기틀을 마련했던 거인 샤를 드 골. 냉전 시대 한가운데에서 국가적 국난과 극비 군사 결단을 쉼 없이 내려야 했던 그의 삶은 초인적인 긴장 상태의 연속이었습니다. 🃏\n\n이 지독한 압박감 속에서 드 골이 매일 밤 찾아갔던 그만의 독특한 탈출구가 있었습니다. 바로 트럼프 카드로 즐기는 1인용 카드 게임, '솔리테어(Solitaire)'였습니다. 그는 참모들과의 마라톤 안보 회의가 끝난 늦은 밤, 집무실의 촛불 아래 홀로 낡은 종이 트럼프 카드를 한 장씩 나열하고 이들을 무늬와 수서대로 맞추어 갔습니다. 그의 비서진의 증언에 따르면, 드 골은 솔리테어를 하는 동안 철저하게 말을 아꼈으며 카드가 차례로 정리되는 흐름에만 신경을 곤두세웠습니다. 이 사소해 보이는 카드 게임은 격무로 지쳐버린 프랑스 영웅의 두뇌 의사결정 필터를 일시적으로 꺼주고, 냉철한 판단력을 유지하게 한 비밀 안식처였습니다.\n\n오늘 포스트에서는 드 골의 솔리테어 루틴이 지닌 뇌과학적 휴식의 작동 원리와 현대인들이 복잡한 의사결정 스트레스에서 벗어나 뇌를 이완하는 아날로그 매칭 리추얼을 소개합니다."
     },
     "whyTitle": {
-      "ko": "의사결정 피로와 편도체 과부하를 끄는 두뇌 리셋",
-      "en": "Brain Reset to Turn Off Decision Fatigue and Amygdala Overload",
-      "ja": "意思決定疲労と扁桃体過負荷をオフにする脳のリセット",
-      "zh": "关闭决策疲劳与杏仁核超载的的脑部重置",
-      "es": "Reinicio cerebral para apagar la fatiga de decisión y la sobrecarga de la amígdala",
-      "fr": "Réinitialisation cérébrale pour éteindre la fatigue décisionnelle et la surcharge de l'amygdale",
-      "de": "Gehirn-Reset zur Ausschaltung von Entscheidungsmüdigkeit und Amygdala-Überlastung",
-      "pt": "Reinício cerebral para desligar a fadiga de decisão e a sobrecarga da amígdala",
-      "id": "Reset Otak untuk Mematikan Kelelahan Keputusan dan Overload Amigdala"
+      "ko": "의사결정 피로와 편도체 과부하를 끄는 두뇌 리셋"
     },
     "whyDesc": {
-      "ko": "우리가 복잡한 비즈니스 결정이나 문제 해결에 계속 몰입하면, 전두엽은 에너지를 소모하며 '의사결정 피로(Decision Fatigue)' 상태에 빠집니다. 이 상태에서 스트레스 호르몬인 코르티솔이 솟구치고 편도체(Amygdala)가 불안과 위협 반응을 과잉 분비합니다.\n\n솔리테어와 같이 정형화되고 위협 요소가 없는 단독 패턴 정렬 게임은 뇌를 능동적 판단 모드에서 수동적 패턴 매칭 모드로 즉각 전환시킵니다. 뇌과학 연구에 따르면, 이러한 단순한 비언어적 몰입은 <strong>전두엽 의사결정 필터(Decision-making filters)</strong>를 비활성화하여 뇌가 인지 피로를 급격히 회복할 기회를 줍니다. 또한 일정한 시각 규칙에 맞춰 카드를 매칭하는 행동은 뇌의 이성적 영역(전두엽)과 감정적 영역(편도체)의 기능적 연결성을 복원하여 정서적 복원력을 극대화합니다.",
-      "en": "Making decisions continuously depletes prefrontal cortex energy, leading to <strong>decision fatigue</strong>. Under this state, cortisol spikes and the amygdala triggers hyper-reactive stress responses. Playing Solitaire, which has structured, non-threatening rules, transitions the brain from active judgment to passive pattern matching. Research indicates that this non-verbal immersion deactivates <strong>decision-making filters</strong> in the prefrontal cortex, allowing it to rest. Aligning shapes and numbers stabilizes functional connectivity between the prefrontal cortex and amygdala, rebuilding resilience.",
-      "ja": "複雑な決定や問題解決に没頭し続けると、前頭葉はエネルギーを消費し「意思決定疲労（Decision Fatigue）」状態に陥ります。この状態ではコルチゾールが上昇し、扁桃体（Amygdala）が過剰反応します。ソリティアのように脅威のない単独パターン配列ゲームは、脳を能動的判断モードから受動的パターンマッチングモードへ即座に転換させます。これは脳の意思決定フィルターを非活性化させます。",
-      "zh": "当持续投入于复杂的商业决策或问题解决中时, 前额叶会消耗能量, 陷入“决策疲劳（Decision Fatigue）”状态。在这一状态下, 压力荷尔蒙皮质醇飙升, 杏仁核（Amygdala）过量释放不安和威胁反应。像单人纸牌这样具有固定规则、没有威胁要素的单人模式对配游戏, 能使大脑瞬间从能动性判断模式转换为被动性模式对配模式。这种简单的非语言沉浸能让大脑决策过滤器钝化, 让前额叶得以休息。",
-      "es": "Tomar decisiones de forma continua agota la corteza prefrontal, provocando <strong>fatiga de decisión</strong> y sobrecarga de la amígdala. Jugar al solitario traslada el cerebro de un juicio activo a un emparejamiento pasivo de patrones. Esta inmersión desactiva los <strong>filtros de toma de decisiones</strong>, permitiendo descansar, y estabiliza la amígdala.",
-      "fr": "Prendre des décisions en continu épuise le cortex préfrontal, provoquant la <strong>fatigue décisionnelle</strong>. Jouer au solitaire fait passer le cerveau du jugement actif à l'association de formes. Cette immersion désactive les <strong>filtres de décision</strong>, ce qui repose le cerveau.",
-      "de": "Ständiges Entscheiden führt zu <strong>Entscheidungsmüdigkeit</strong>, treibt den Cortisolspiegel hoch und überlastet die Amygdala. Ein Spiel wie Solitaire verschiebt die Gehirnaktivität vom aktiven Beurteilen zum passiven Abgleichen von Mustern. Dies entlastet die Entscheidungsfilter und beruhigt die Amygdala.",
-      "pt": "Tomar decisões continuamente esgota o córtex pré-frontal, provocando <strong>fadiga de decisão</strong> e sobrecarga da amígdala. Jugar paciência muda o cérebro do julgamento ativo para a combinação passiva de padrões. Essa imersão desativa os <strong>filtros de tomada de decisão</strong>, permitindo descansar.",
-      "id": "Membuat keputusan terus-menerus menguras energi korteks prefrontal, memicu <strong>kelelahan keputusan</strong>. Di bawah kondisi ini, kortisol melonjak dan amigdala memicu respons stres berlebih. Bermain Solitaire, yang memiliki aturan terstruktur dan aman, mengalihkan otak dari penilaian aktif ke pencocokan pola pasif. Hal ini menonaktifkan filter keputusan."
+      "ko": "우리가 복잡한 비즈니스 결정이나 문제 해결에 계속 몰입하면, 전두엽은 에너지를 소모하며 '의사결정 피로(Decision Fatigue)' 상태에 빠집니다. 이 상태에서 스트레스 호르몬인 코르티솔이 솟구치고 편도체(Amygdala)가 불안과 위협 반응을 과잉 분비합니다.\n\n솔리테어와 같이 정형화되고 위협 요소가 없는 단독 패턴 정렬 게임은 뇌를 능동적 판단 모드에서 수동적 패턴 매칭 모드로 즉각 전환시킵니다. 뇌과학 연구에 따르면, 이러한 단순한 비언어적 몰입은 <strong>전두엽 의사결정 필터(Decision-making filters)</strong>를 비활성화하여 뇌가 인지 피로를 급격히 회복할 기회를 줍니다. 또한 일정한 시각 규칙에 맞춰 카드를 매칭하는 행동은 뇌의 이성적 영역(전두엽)과 감정적 영역(편도체)의 기능적 연결성을 복원하여 정서적 복원력을 극대화합니다."
     },
     "cautionTitle": {
-      "ko": "아날로그 매칭이 전두엽의 전원을 꺼줍니다",
-      "en": "Analog Matching Powers Down the Prefrontal Cortex",
-      "ja": "アナログマッチングが前頭葉の電源を切ってくれます",
-      "zh": "模拟配对关闭了前额叶的的电源",
-      "es": "El emparejamiento analógico apaga la corteza prefrontal",
-      "fr": "L'association analogique éteint le cortex préfrontal",
-      "de": "Analoges Mustermatching schaltet den Stirnlappen stumm",
-      "pt": "A combinação analógica desliga o córtex pré-frontal",
-      "id": "Pencocokan Analog Mematikan Sementara Korteks Prefrontal"
+      "ko": "아날로그 매칭이 전두엽의 전원을 꺼줍니다"
     },
     "cautionDesc": {
-      "ko": "현대인들은 쉴 때조차 스마트폰으로 끊임없이 숏폼 비디오를 넘기거나 게임을 하며 도파민과 시각 정보를 탐닉합니다. 이는 전두엽의 인지 필터를 계속 켜두어 만성 피로를 유발합니다. 드 골처럼 10분간 디지털 알림을 완전히 차단한 상태에서 실제 손으로 만져지는 아날로그 카드나 직소 퍼즐, 혹은 컬러링과 같은 매칭 활동을 하는 것이 전두엽의 전원을 진정으로 꺼주는 최고의 이완법입니다.",
-      "en": "Even when resting, modern people consume short-form videos and mobile games, keeping cognitive filters turned on. Disconnecting and engaging in tactile matching activities like analog cards or puzzles, as de Gaulle did, is the ultimate way to truly power down the prefrontal cortex.",
-      "ja": "現代人は休む時でさえスマホでショート動画を流し見したり、モバイルゲームをしてドパミンや視覚情報を貪ります。これは前頭葉を休ませません。ド・ゴールのようスマホ接続を遮断し、手触りのあるカードやジグソーパズルなどのマッチング活動を行うことが、前頭葉の電源を真にオフにする最善のリラックス法です。",
-      "zh": "现代人即使在休息时, 也会用手机不断刷短视频或玩手机游戏, 沉溺于多巴胺和视觉信息中。这使得前脑叶决策过滤器持续开启, 诱发慢性疲劳。像戴高乐那样, 在完全隔绝手机通知的状态下, 用双手触摸实体的纸牌、拼图或填色等配对活动, 才是让前额叶真正切断电源的极佳放松法。",
-      "es": "Incluso al descansar, las pantallas mantienen activos los filtros mentales. Desconectarse para hacer actividades táctiles como cartas físicas o rompecabezas, como hacía de Gaulle, es el método definitivo para apagar la corteza prefrontal y descansar de verdad.",
-      "fr": "Même au repos, les écrans maintiennent activés les filtres cognitifs. Se déconnecter pour des activités tactiles (cartes physiques, puzzles) est la méthode ultime pour reposer le cortex préfrontal.",
-      "de": "Auch in Ruhepausen nutzen wir Smartphones, was den Stirnlappen weiter beansprucht. Das Abschalten und die Beschäftigung mit realen Dingen (Karten, Puzzles) schalten den Stirnlappen effektiv ab.",
-      "pt": "Mesmo ao descansar, as telas mantêm ativos os filtros cognitivos. Desconectar-se para realizar atividades táteis como cartas físicas ou quebra-cabeças é o método definitivo para desligar o córtex pré-frontal.",
-      "id": "Bahkan saat istirahat, manusia modern mengonsumsi video pendek dan game seluler, membuat filter kognitif terus bekerja. Memutuskan koneksi dan melakukan aktivitas taktil seperti kartu analog atau puzzle adalah cara terbaik mematikan sementara korteks prefrontal."
+      "ko": "현대인들은 쉴 때조차 스마트폰으로 끊임없이 숏폼 비디오를 넘기거나 게임을 하며 도파민과 시각 정보를 탐닉합니다. 이는 전두엽의 인지 필터를 계속 켜두어 만성 피로를 유발합니다. 드 골처럼 10분간 디지털 알림을 완전히 차단한 상태에서 실제 손으로 만져지는 아날로그 카드나 직소 퍼즐, 혹은 컬러링과 같은 매칭 활동을 하는 것이 전두엽의 전원을 진정으로 꺼주는 최고의 이완법입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "아날로그 카드 세트 준비",
-          "en": "Prepare an Analog Card Deck",
-          "ja": "アナログカードセットの準備",
-          "zh": "准备实体扑克牌",
-          "es": "Prepare una baraja de cartas física",
-          "fr": "Préparer un jeu de cartes physique",
-          "de": "Bereiten Sie ein Kartenspiel vor",
-          "pt": "Prepare um baralho de cartas físico",
-          "id": "Siapkan Dek Kartu Analog"
+          "ko": "아날로그 카드 세트 준비"
         },
         "text": {
-          "ko": "디지털 화면이 아닌 종이나 플라스틱 재질로 된 실제 만져지는 트럼프 카드 세트(혹은 단순한 패턴 매칭용 보드게임이나 퍼즐)를 준비합니다. 주변의 전자기기를 모두 끄거나 눈에 보이지 않도록 치웁니다.",
-          "en": "Prepare a physical deck of cards (or simple pattern puzzles) instead of a screen. Turn off all nearby electronic devices or put them out of sight.",
-          "ja": "デジタル画面ではなく、紙やプラスチック製の手で触れられる実際のトランプカードセット（またはシンプルなパターンパズルやボードゲーム）を用意します。周辺の電子機器をすべてオフにし、視界から排除します。",
-          "zh": "准备好不是电子屏幕、而是由纸张或塑料制成的手感真实扑克牌（或用于单纯模式匹配的益智游戏/拼图）。关闭周围所有电子设备或移开至视线之外。",
-          "es": "Prepare una baraja física de cartas (o un rompecabezas de patrones simples) en lugar de una pantalla. Apague todos los dispositivos electrónicos cercanos.",
-          "fr": "Préparez un jeu de cartes physique (ou un puzzle simple) à la place d'un écran. Éteignez tous les appareils électroniques à proximité.",
-          "de": "Bereiten Sie ein physisches Kartenspiel (oder ein einfaches Puzzle) vor. Schalten Sie alle elektronischen Geräte in der Nähe aus.",
-          "pt": "Prepare um baralho físico de cartas (ou um quebra-cabeça de padrões simples) em vez de uma tela. Desligue todos os dispositivos eletrônicos próximos.",
-          "id": "Siapkan kartu remi fisik (atau puzzle pola sederhana) alih-alih layar digital. Matikan semua perangkat elektronik di sekitar Anda."
+          "ko": "디지털 화면이 아닌 종이나 플라스틱 재질로 된 실제 만져지는 트럼프 카드 세트(혹은 단순한 패턴 매칭용 보드게임이나 퍼즐)를 준비합니다. 주변의 전자기기를 모두 끄거나 눈에 보이지 않도록 치웁니다."
         }
       },
       {
         "name": {
-          "ko": "10분 스마트폰 차단 후 규칙 정렬",
-          "en": "10-Minute Screen-Free Rule Alignment",
-          "ja": "10分間のスマホ遮断と規則的な配列",
-          "zh": "隔离手机10分钟并按规则排序",
-          "es": "10 minutos de ordenamiento bajo reglas sin pantallas",
-          "fr": "10 minutes de rangement sous règles sans écran",
-          "de": "10 Minuten bildschirmfreies Auslegen nach Regeln",
-          "pt": "10 minutos de ordenação sob regras sem telas",
-          "id": "10 Menit Penyusunan Kartu Tanpa Layar"
+          "ko": "10분 스마트폰 차단 후 규칙 정렬"
         },
         "text": {
-          "ko": "스마트폰을 완전히 끄고 차단한 채, 테이블 위에 솔리테어 카드를 일정한 법칙에 맞추어 7개의 열로 나열하고 빨간색과 검은색의 교차 문양, 숫자의 내림차순에 맞춰 차분하게 카드를 매칭해 나갑니다.",
-          "en": "Turn off your smartphone. Arrange the Solitaire cards into 7 columns according to the rules, and start matching cards by alternating colors (red/black) and descending order.",
-          "ja": "スマートフォンを完全にオフにして遮断した状態で、テーブルの上にソリティアカードを一定の法則に従って7つの列に並べ、赤と黒の互い違いのマーク、数字の降順に沿って静かにカードを合わせていきます。",
-          "zh": "将智能手机完全关闭和阻断, 按照一定规则在桌上将纸牌排列成 7 列, 顺应红黑交替花色、数字降序进行配对整理。",
-          "es": "Apague el teléfono. Organice las cartas en 7 columnas según las reglas y comience a emparejar alternando colores y en orden descendente.",
-          "fr": "Éteignez votre téléphone. Organisez les cartes en 7 colonnes selon les règles et commencez à les associer en alternant les couleurs et par ordre décroissant.",
-          "de": "Schalten Sie Ihr Smartphone aus. Legen Sie die Karten in 7 Reihen aus und wippen Sie diese abwechselnd nach Farbe und in absteigender Reihenfolge ab.",
-          "pt": "Desligue o celular. Organize as cartas em 7 colunas de acordo com as regras e comece a combinar alternando cores e em ordem decrescente.",
-          "id": "Matikan ponsel Anda. Tata kartu Solitaire dalam 7 kolom sesuai aturan, lalu mulailah mencocokkan kartu dengan warna berselang-seling dan urutan menurun."
+          "ko": "스마트폰을 완전히 끄고 차단한 채, 테이블 위에 솔리테어 카드를 일정한 법칙에 맞추어 7개의 열로 나열하고 빨간색과 검은색의 교차 문양, 숫자의 내림차순에 맞춰 차분하게 카드를 매칭해 나갑니다."
         }
       },
       {
         "name": {
-          "ko": "촉각 및 비언어적 흐름에만 몰입",
-          "en": "Immerse in Tactile and Non-verbal Flow",
-          "ja": "触覚および非言語的フローへの没頭",
-          "zh": "仅沉浸于触觉与非语言流中",
-          "es": "Sumérjase en el flujo táctil y no verbal",
-          "fr": "S'immerger dans le flux tactile et non verbal",
-          "de": "Tauchen Sie in den haptischen und wortlosen Ablauf ein",
-          "pt": "Mergulhe no fluxo tátil e não verbal",
-          "id": "Fokus pada Aliran Taktil dan Non-verbal"
+          "ko": "촉각 및 비언어적 흐름에만 몰입"
         },
         "text": {
-          "ko": "게임을 하는 동안 머릿속으로 오늘의 스트레스 요인을 떠올리지 말고, 손끝에 닿는 종이 카드의 촉감, 카드를 놓는 소리, 시각적인 패턴의 완벽한 매칭 흐름에만 온 신경을 집중하며 전두엽을 휴식시킵니다.",
-          "en": "Do not think about the day's stressors. Focus all your attention on the tactile feel of the paper cards, the sound of placing them, and the flow of aligning visual patterns to rest your prefrontal cortex.",
-          "ja": "ゲームをしている間、頭の中でその日のストレス原因を思い出さず、指先に触れる紙カードの感触、カードを置く音、視覚的なパターンの完璧な配列のフローだけに全神経を集中させて前頭葉を休ませます。",
-          "zh": "在游戏期间, 脑海中不要回想今日的压力因素, 仅仅将注意力集中在指尖触及纸牌的触感、放牌的声音、以及视觉模式完美对配的流向中, 让前额叶得以放松休息。",
-          "es": "No pienese en los estresores del día. Concéntrese en el tacto de las cartas, el sonido al colocarlas y el flujo de los patrones visuales para descansar la mente.",
-          "fr": "Ne pensez pas au stress de la journée. Concentrez-vous sur le toucher des cartes, le son lorsqu'elles sont posées et les formes visuelles.",
-          "de": "Denken Sie nicht an den Stress des Tages. Konzentrieren Sie sich auf das Gefühl der Karten in der Hand, das Geräusch beim Ablegen und die Muster.",
-          "pt": "Não pense nos estressores do dia. Concentre-se no toque das cartas, no som ao colocá-las e no fluxo dos padrões visuais para descansar a mente.",
-          "id": "Jangan memikirkan pemicu stres harian. Pusatkan perhatian pada sentuhan fisik kartu, suara peletakannya, dan penyelarasan pola visual untuk mengistirahatkan prefrontal Anda."
+          "ko": "게임을 하는 동안 머릿속으로 오늘의 스트레스 요인을 떠올리지 말고, 손끝에 닿는 종이 카드의 촉감, 카드를 놓는 소리, 시각적인 패턴의 완벽한 매칭 흐름에만 온 신경을 집중하며 전두엽을 휴식시킵니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "스마트폰 카드 게임 어플로 솔리테어를 하는 것은 효과가 없나요?",
-          "en": "Is playing Solitaire through a smartphone app ineffective?",
-          "ja": "スマホのカードゲームアプリでソリティアをするのは効果がありませんか？",
-          "zh": "用手机纸牌游戏 App 玩单人纸牌没有效果吗？",
-          "es": "¿Jugar al solitario en una aplicación móvil no es efectivo?",
-          "fr": "Jouer au solitaire sur une application mobile est-il inefficace ?",
-          "de": "Ist Solitaire auf einer Smartphone-App unwirksam?",
-          "pt": "Jogar paciência em um aplicativo de celular não é eficaz?",
-          "id": "Apakah bermain Solitaire melalui aplikasi ponsel tidak efektif?"
+          "ko": "스마트폰 카드 게임 어플로 솔리테어를 하는 것은 효과가 없나요?"
         },
         "answer": {
-          "ko": "스마트폰 앱은 카드 매칭 과정은 같지만, 액정 화면의 블루라이트 자극과 수시로 뜨는 광고, 다른 알림들이 뇌의 주의력을 끊임없이 유도하여 전두엽의 완전한 휴식을 방해합니다. 실제 질감이 있는 아날로그 도구를 사용하여 눈과 손의 촉각적 교감을 만드는 것이 이완 효과에 압도적으로 유리합니다.",
-          "en": "Smartphone apps share the same rules, but screen glare, ads, and notifications keep the prefrontal cortex alert. Utilizing physical tools that build tactile feedback between the hands and eyes is far superior for relaxation.",
-          "ja": "スマホアプリはカードマッチングの過程は同じですが、液晶画面のブルーライト刺激や随時表示される広告、他の通知が脳の注意力を引きつけ続け、前頭葉の完全な休息を妨げます。実際の質感があるアナログ道具を使用して目と手の触覚的相互作用を作る方が、リラックス効果において圧倒的に有利です。",
-          "zh": "手机App虽配牌过程相同, 但液晶屏幕的蓝光刺激、随时弹出的广告以及其他通知会不断勾引大脑注意力, 从而妨碍前额叶彻底休息。使用具有真实质感的模拟工具、建立眼手的触觉交流, 在放松效果上要有利得多。",
-          "es": "Las aplicaciones móviles comparten las reglas, pero el brillo de la pantalla, los anuncios y las notificaciones mantienen el cerebro alerta. Usar herramientas físicas es muy superior.",
-          "fr": "Les applications mobiles ont les mêmes règles, mais la lumière de l'écran, les pubs et les notifications maintiennent le cerveau en alerte. Utiliser des outils physiques est bien plus efficace.",
-          "de": "Apps haben zwar dieselben Regeln, aber Blaulicht, Werbung und Benachrichtigungen halten den Stirnlappen aktiv. Physische Karten mit echtem Tastsinn sind für die Entspannung weitaus besser.",
-          "pt": "Os aplicativos compartilham as regras, mas o brilho da tela, anúncios e notificações mantêm o cérebro em alerta. Usar ferramentas físicas é muito superior para relaxar.",
-          "id": "Aplikasi ponsel memiliki aturan yang sama, tetapi radiasi layar, iklan, dan notifikasi membuat prefrontal tetap waspada. Menggunakan alat fisik yang melibatkan umpan balik taktil mata dan tangan jauh lebih efektif."
+          "ko": "스마트폰 앱은 카드 매칭 과정은 같지만, 액정 화면의 블루라이트 자극과 수시로 뜨는 광고, 다른 알림들이 뇌의 주의력을 끊임없이 유도하여 전두엽의 완전한 휴식을 방해합니다. 실제 질감이 있는 아날로그 도구를 사용하여 눈과 손의 촉각적 교감을 만드는 것이 이완 효과에 압도적으로 유리합니다."
         }
       },
       {
         "question": {
-          "ko": "카드가 정렬되지 않고 막히면 오히려 스트레스를 받지 않나요?",
-          "en": "Doesn't it cause stress if the cards get stuck and cannot be aligned?",
-          "ja": "カードが並ばずに行き詰まると、かえってストレスを感じませんか？",
-          "zh": "如果纸牌无法配对而卡关，难道不会反而产生压力吗？",
-          "es": "¿No causa estrés si las cartas se traban y no se pueden ordenar?",
-          "fr": "Cela ne provoque-t-il pas du stress si les cartes sont bloquées ?",
-          "de": "Verursacht es nicht Frust, wenn das Spiel stecken bleibt und nicht aufgeht?",
-          "pt": "Não causa estresse se as cartas ficarem travadas e não puderem ser ordenadas?",
-          "id": "Bukankah memicu stres jika kartu macet dan tidak bisa disusun?"
+          "ko": "카드가 정렬되지 않고 막히면 오히려 스트레스를 받지 않나요?"
         },
         "answer": {
-          "ko": "솔리테어의 핵심 목적은 '게임의 승리'가 아니라 '단순 작업에 의한 주의력 전환과 뇌 휴식'입니다. 카드가 정렬되지 않고 패가 막히더라도, 그 규칙을 따라 고민하고 카드를 손으로 움직인 과정 자체가 전두엽의 스트레스 유입을 차단하는 역할을 완료한 것이므로, 승패에 연연하지 말고 가볍게 섞어 다시 시작하면 됩니다.",
-          "en": "The main goal of Solitaire is not 'winning,' but 'attention shifting and brain rest through simple work.' Even if you get stuck, the physical process of shifting cards and sorting colors has already rested your prefrontal cortex. Simply reshuffle and start over.",
-          "ja": "ソリティアの核心的な目的は「ゲームの勝利」ではなく、「単純作業による注意の転換と脳の休息」です。カードが並ばず手詰まりになっても、そのルールに従って考え、カードを手で動かした過程自体が、前頭葉へのストレス侵入を防ぐ役割を十分に果たしています。勝敗に拘らず、軽く混ぜて再開すれば良いのです。",
-          "zh": "单人纸牌的核心目的非“游戏胜利”, 而是“通过简单工作进行的注意力转换和大脑休息”。即便卡牌无法理顺、牌局卡住, 顺应规则进行思考并用手移动纸牌的过程本身, 已经完成了阻断压力侵入前脑叶的任务, 因而无须执着于胜负, 重新洗牌开始即可。",
-          "es": "El objetivo no es 'ganar', sino el 'desvío de atención'. Incluso si se traba, el proceso de mover las cartas ya ha relajado la mente. Simplemente vuelva a barajar y empiece otra vez.",
-          "fr": "Le but n'est pas de 'gagner', mais de détourner l'attention. Même si vous êtes bloqué, le fait de manipuler les cartes a déjà reposé votre esprit. Mélangez et recommencez.",
-          "de": "Das Ziel ist nicht das Gewinnen, sondern die Ablenkung. Auch wenn das Spiel nicht aufgeht, hat das Wippen das Gehirn entlastet. Mischen Sie einfach neu und fangen Sie von vorne an.",
-          "pt": "O objetivo não é 'ganhar', mas o 'desvio de atenção'. Mesmo se travar, o processo de mover as cartas já relaxou a mente. Simplesmente embaralhe de novo e comece outra vez.",
-          "id": "Tujuan utama Solitaire bukanlah 'kemenangan', melainkan 'pengalihan perhatian dan istirahat otak lewat aktivitas sederhana'. Proses menggeser dan memilah kartu sudah memenuhi tujuan tersebut. Cukup kocok ulang kartu dan mulai lagi."
+          "ko": "솔리테어의 핵심 목적은 '게임의 승리'가 아니라 '단순 작업에 의한 주의력 전환과 뇌 휴식'입니다. 카드가 정렬되지 않고 패가 막히더라도, 그 규칙을 따라 고민하고 카드를 손으로 움직인 과정 자체가 전두엽의 스트레스 유입을 차단하는 역할을 완료한 것이므로, 승패에 연연하지 말고 가볍게 섞어 다시 시작하면 됩니다."
         }
       }
-    ],
-    "pubDate": "2026-03-28",
-    "updatedDate": "2026-03-28"
+    ]
   }
 }

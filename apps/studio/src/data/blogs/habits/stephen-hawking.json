@@ -1,218 +1,72 @@
 {
   "stephen-hawking": {
     "title": {
-      "en": "Hawking's virtual blackboard training in his brain, rendering outer space even while paralyzed",
-      "ko": "전신 마비 속에서도 우주 공간을 렌더링한 호킹의 뇌 속 가상 칠판 훈련",
-      "ja": "ホーキング博士の脳内仮想黒板トレーニング、麻痺中でも宇宙空間をレンダリング",
-      "zh": "霍金大脑中的虚拟黑板训练，即使瘫痪也能渲染外太空",
-      "es": "La pizarra virtual de Hawking entrena en su cerebro, representando el espacio exterior incluso estando paralizado",
-      "fr": "Le tableau noir virtuel de Hawking s'entraîne dans son cerveau, restituant l'espace même lorsqu'il est paralysé",
-      "de": "Hawkings virtuelle Tafel trainiert in seinem Gehirn und stellt den Weltraum dar, selbst wenn er gelähmt ist",
-      "pt": "O quadro-negro virtual de Hawking treinando em seu cérebro, renderizando o espaço sideral mesmo quando paralisado",
-      "id": "Papan tulis virtual Hawking berlatih di otaknya, menampilkan luar angkasa meski dalam keadaan lumpuh"
+      "ko": "전신 마비 속에서도 우주 공간을 렌더링한 호킹의 뇌 속 가상 칠판 훈련"
     },
     "description": {
-      "en": "He is a world-renowned genius space physicist who overcame amyotrophic lateral sclerosis. When he was unable to hold a pen due to paralysis, he activated a virtual blackboard in his head to get a mathematical bird's eye view of dimensions.",
-      "ko": "근위축성 측색 경화증을 극복한 세계적인 천재 우주물리학자로, 전신 마비로 펜을 쥘 수 없는 상황에서 머릿속 가상 칠판을 활성화해 차원을 수학적으로 조감했습니다.",
-      "ja": "筋萎縮性側索硬化症を克服した世界的に有名な天才宇宙物理学者です。麻痺によりペンを握ることができなくなったとき、彼は頭の中で仮想黒板を起動して、数学的に次元を俯瞰した。",
-      "zh": "他是世界著名的天才太空物理学家，克服了肌萎缩侧索硬化症。当他因瘫痪而无法握笔时，他激活了脑中的虚拟黑板，获得了维度的数学鸟瞰图。",
-      "es": "Es un genio físico espacial de renombre mundial que superó la esclerosis lateral amiotrófica. Cuando no pudo sostener un bolígrafo debido a una parálisis, activó una pizarra virtual en su cabeza para obtener una vista matemática de las dimensiones.",
-      "fr": "C'est un physicien spatial de génie de renommée mondiale qui a vaincu la sclérose latérale amyotrophique. Lorsqu'il était incapable de tenir un stylo en raison d'une paralysie, il a activé un tableau noir virtuel dans sa tête pour obtenir une vue mathématique des dimensions à vol d'oiseau.",
-      "de": "Er ist ein weltbekannter genialer Weltraumphysiker, der die amyotrophe Lateralsklerose überwunden hat. Als er aufgrund einer Lähmung keinen Stift halten konnte, aktivierte er eine virtuelle Tafel in seinem Kopf, um die Dimensionen aus der mathematischen Vogelperspektive zu betrachten.",
-      "pt": "Ele é um físico espacial genial de renome mundial que superou a esclerose lateral amiotrófica. Quando ele não conseguiu segurar uma caneta devido à paralisia, ele ativou um quadro negro virtual em sua cabeça para obter uma visão matemática das dimensões.",
-      "id": "Dia adalah fisikawan luar angkasa jenius terkenal di dunia yang berhasil mengatasi penyakit amyotrophic lateral sclerosis. Ketika dia tidak dapat memegang pena karena kelumpuhan, dia mengaktifkan papan tulis virtual di kepalanya untuk mendapatkan pandangan matematis tentang dimensi."
+      "ko": "근위축성 측색 경화증을 극복한 세계적인 천재 우주물리학자로, 전신 마비로 펜을 쥘 수 없는 상황에서 머릿속 가상 칠판을 활성화해 차원을 수학적으로 조감했습니다."
     },
     "authority": {
-      "en": "Stephen Hawking, *My Brief History* (2013) & Cognitive Neuroscientific Studies",
-      "ko": "Stephen Hawking, *My Brief History* (2013)",
-      "ja": "スティーブン・ホーキング博士、*私の簡単な歴史* (2013) & 認知神経科学研究",
-      "zh": "史蒂芬·霍金，*我的简史* (2013) 和认知神经科学研究",
-      "es": "Stephen Hawking, *Mi breve historia* (2013) y estudios neurocientíficos cognitivos",
-      "fr": "Stephen Hawking, *My Brief History* (2013) & Cognitive Neuroscientific Studies",
-      "de": "Stephen Hawking, *My Brief History* (2013) & Cognitive Neuroscientific Studies",
-      "pt": "Stephen Hawking, *My Brief History* (2013) & Cognitive Neuroscientific Studies",
-      "id": "Stephen Hawking, *Sejarah Singkat Saya* (2013) & Studi Ilmu Saraf Kognitif"
+      "ko": "Stephen Hawking, *My Brief History* (2013) & *Applied Cognitive Psychology*"
     },
     "intro": {
-      "en": "Stephen Hawking, the greatest space physicist of the 20th century and a genius scientist representing the history of human science since Einstein, is a great physicist who discovered the birth of the universe and the secrets of black holes even amidst the cruel barrier of paralysis called Lou Gehrig's disease. He did not stop his research despite the harsh physical barriers that paralyzed his entire body and prevented him from moving even a finger. Unable to write down physical formulas on paper, he calculated the huge virtual universe structure and three-dimensional geometric formulas as three-dimensional objects in his head. This imaginative space-time sketchbook exercise was the force that led to huge insights in physics.\n\nToday on BuildSelf, we introduce the cognitive scientific principles of the habit of ‘training with a virtual blackboard in the brain while confined to a wheelchair’ that he adheres to, as well as a 3-step guide that modern people can easily practice in their daily lives.",
-      "ko": "20세기 최고의 우주물리학자이자 아인슈타인 이후 인류 과학사를 대표하는 천재 과학자로, 루게릭병이라는 잔인한 전신 마비 장벽 속에서도 우주의 탄생과 블랙홀의 비밀을 규명해 낸 위대한 물리학자 스티븐 호킹. 그는 전신 근육이 마비되어 손가락 하나조차 움직일 수 없던 가혹한 신체적 장벽 속에서도 연구를 멈추지 않았습니다. 종이 위에 물리 공식을 적을 수 없게 된 그는 자신의 머릿속 공간에 가상의 거대한 우주 구조와 3차원 기하학적 수식을 입체적인 물체로 띄워 검산해 나갔습니다. 이 상상 시공간 스케치북 훈련은 물리학의 거대한 통찰을 얻게 한 힘이었습니다.\n\n오늘 BuildSelf에서는 그가 고수한 '휠체어에 몸이 속박된 상태에서 뇌 속 가상 칠판 훈련하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다.",
-      "ja": "この歴史的習慣の実践において：20 , . . 3 . . この歴史的習慣の実践において： BuildSelf ' ' 3 .",
-      "zh": "在这一历史性惯例的实践中：20 , . . 3 . . 在这一历史性惯例的实践中： BuildSelf ' ' 3 .",
-      "es": "Stephen Hawking, el físico espacial más grande del siglo XX y un genio científico que representa la historia de la ciencia humana desde Einstein, es un gran físico que descubrió el nacimiento del universo y los secretos de los agujeros negros incluso en medio de la cruel barrera de la parálisis llamada enfermedad de Lou Gehrig. No detuvo su investigación a pesar de las duras barreras físicas que paralizaban todo su cuerpo y le impedían mover ni siquiera un dedo. Incapaz de escribir fórmulas físicas en papel, calculó la enorme estructura del universo virtual y las fórmulas geométricas tridimensionales como objetos tridimensionales en su cabeza. Este imaginativo ejercicio de cuaderno de bocetos sobre el espacio-tiempo fue la fuerza que condujo a grandes conocimientos en física.\n\nHoy en BuildSelf, presentamos los principios científicos cognitivos del hábito de \"entrenar con una pizarra virtual en el cerebro mientras está confinado en una silla de ruedas\" al que él se adhiere, así como una guía de 3 pasos que la gente moderna puede practicar fácilmente en su vida diaria.",
-      "fr": "Stephen Hawking, le plus grand physicien spatial du 20ème siècle et un scientifique de génie représentant l'histoire des sciences humaines depuis Einstein, est un grand physicien qui a découvert la naissance de l'univers et les secrets des trous noirs même au milieu de la cruelle barrière de paralysie appelée maladie de Lou Gehrig. Il n'a pas arrêté ses recherches malgré les dures barrières physiques qui paralysaient tout son corps et l'empêchaient de bouger ne serait-ce qu'un doigt. Incapable d'écrire des formules physiques sur papier, il a calculé dans sa tête l'immense structure de l'univers virtuel et les formules géométriques tridimensionnelles comme des objets tridimensionnels. Cet exercice imaginatif de carnet de croquis spatio-temporel a été la force qui a conduit à d’énormes connaissances en physique.\n\nAujourd'hui, sur BuildSelf, nous présentons les principes scientifiques cognitifs de l'habitude de « s'entraîner avec un tableau virtuel dans le cerveau tout en étant confiné dans un fauteuil roulant » auxquels il adhère, ainsi qu'un guide en 3 étapes que les gens modernes peuvent facilement mettre en pratique dans leur vie quotidienne.",
-      "de": "Stephen Hawking, der größte Weltraumphysiker des 20. Jahrhunderts und ein genialer Wissenschaftler, der die Geschichte der menschlichen Wissenschaft seit Einstein repräsentiert, ist ein großer Physiker, der die Geburt des Universums und die Geheimnisse der Schwarzen Löcher entdeckte, selbst inmitten der grausamen Barriere der Lähmung namens Lou-Gehrig-Krankheit. Trotz der harten physischen Barrieren, die seinen gesamten Körper lähmten und ihn daran hinderten, auch nur einen Finger zu bewegen, hörte er mit seiner Forschung nicht auf. Da er nicht in der Lage war, physikalische Formeln auf Papier zu schreiben, berechnete er in seinem Kopf die riesige Struktur des virtuellen Universums und dreidimensionale geometrische Formeln als dreidimensionale Objekte. Diese fantasievolle Raum-Zeit-Skizzenbuchübung war die Kraft, die zu enormen Erkenntnissen in der Physik führte.\n\nHeute stellen wir auf BuildSelf die kognitionswissenschaftlichen Prinzipien der Gewohnheit vor, „mit einer virtuellen Tafel im Gehirn zu trainieren, während man an einen Rollstuhl gebunden ist“, an die er festhält, sowie eine dreistufige Anleitung, die moderne Menschen problemlos in ihrem täglichen Leben anwenden können.",
-      "pt": "Stephen Hawking, o maior físico espacial do século XX e um cientista genial que representa a história da ciência humana desde Einstein, é um grande físico que descobriu o nascimento do universo e os segredos dos buracos negros mesmo em meio à cruel barreira da paralisia chamada doença de Lou Gehrig. Ele não interrompeu sua pesquisa, apesar das duras barreiras físicas que paralisaram todo o seu corpo e o impediram de mover até mesmo um dedo. Incapaz de escrever fórmulas físicas no papel, ele calculou a enorme estrutura do universo virtual e as fórmulas geométricas tridimensionais como objetos tridimensionais em sua cabeça. Este exercício imaginativo de caderno de esboços de espaço-tempo foi a força que levou a grandes insights em física.\n\nHoje, no BuildSelf, apresentamos os princípios científicos cognitivos do hábito de ‘treinar com um quadro negro virtual no cérebro enquanto está confinado a uma cadeira de rodas’ que ele segue, bem como um guia de 3 etapas que as pessoas modernas podem praticar facilmente em suas vidas diárias.",
-      "id": "Stephen Hawking, fisikawan luar angkasa terhebat abad ke-20 dan ilmuwan jenius yang mewakili sejarah ilmu pengetahuan manusia sejak Einstein, adalah fisikawan hebat yang menemukan kelahiran alam semesta dan rahasia lubang hitam bahkan di tengah penghalang kelumpuhan kejam yang disebut penyakit Lou Gehrig. Dia tidak menghentikan penelitiannya meskipun ada hambatan fisik yang keras yang melumpuhkan seluruh tubuhnya dan mencegahnya menggerakkan satu jari pun. Karena tidak dapat menuliskan rumus fisika di atas kertas, ia menghitung struktur alam semesta maya yang sangat besar dan rumus geometri tiga dimensi sebagai objek tiga dimensi di kepalanya. Latihan sketsa ruang-waktu yang imajinatif ini adalah kekuatan yang menghasilkan wawasan luas dalam fisika.\n\nHari ini di BuildSelf, kami memperkenalkan prinsip ilmiah kognitif tentang kebiasaan 'berlatih dengan papan tulis virtual di otak sambil menggunakan kursi roda' yang dianutnya, serta panduan 3 langkah yang dapat dengan mudah dipraktikkan oleh orang modern dalam kehidupan sehari-hari."
+      "ko": "20세기 최고의 우주물리학자이자 아인슈타인 이후 인류 과학사를 대표하는 천재 과학자로, 루게릭병이라는 잔인한 전신 마비 장벽 속에서도 우주의 탄생과 블랙홀의 비밀을 규명해 낸 위대한 물리학자 스티븐 호킹. 그는 전신 근육이 마비되어 손가락 하나조차 움직일 수 없던 가혹한 신체적 장벽 속에서도 연구를 멈추지 않았습니다. 종이 위에 물리 공식을 적을 수 없게 된 그는 자신의 머릿속 공간에 가상의 거대한 우주 구조와 3차원 기하학적 수식을 입체적인 물체로 띄워 검산해 나갔습니다. 이 상상 시공간 스케치북 훈련은 물리학의 거대한 통찰을 얻게 한 힘이었습니다.\n\n오늘 포스트에서는 그가 고수한 '휠체어에 몸이 속박된 상태에서 뇌 속 가상 칠판 훈련하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다."
     },
     "whyTitle": {
-      "en": "Analysis of brain science principles that lead to success",
-      "ko": "성공을 자아내는 脳科学的 원리 분석",
-      "ja": "成功に導く脳科学原理の分析",
-      "zh": "分析导致成功的脑科学原理",
-      "es": "Análisis de los principios de las ciencias del cerebro que conducen al éxito.",
-      "fr": "Analyse des principes de la science du cerveau qui mènent au succès",
-      "de": "Analyse gehirnwissenschaftlicher Prinzipien, die zum Erfolg führen.",
-      "pt": "Análise dos princípios da ciência do cérebro que levam ao sucesso",
-      "id": "Analisis prinsip-prinsip ilmu otak yang mengarah pada kesuksesan"
+      "ko": "성공을 자아내는 뇌과학적 원리 분석"
     },
     "whyDesc": {
-      "en": "Visualization work that involves clearly rendering and rotating invisible abstract geometric figures or complex business variables in one's mind stimulates the 'Visuospatial Sketchpad', which is the core of the working memory system. This strengthens the synaptic connections between the parietal lobe and the prefrontal cortex, increasing the brain's planning and computing power to perfectly structure and gain insight into multidimensional business structures or design tasks in one's mind rather than just passing them by.",
-      "ko": "보이지 않는 추상적 기하학 도형이나 복잡한 비즈니스 변수들을 머릿속으로 선명하게 입체 렌더링하고 회전시키는 시각화 작업은 작업 기억 시스템의 핵심인 '시공간 스케치북(Visuospatial Sketchpad)'을 자극합니다. 이는 두정엽과 전전두엽 피질 간의 시냅스 연결을 두껍게 단련시켜, 다차원적인 비즈니스 구조나 설계 과제를 일차원적으로 스쳐 지나치지 않고 머릿속으로 완벽하게 구조화하여 통찰하는 두뇌 기획 연산력을 증대시킵니다.",
-      "ja": "目に見えない抽象的な幾何学的図形や複雑なビジネス変数を頭の中で明確にレンダリングしたり回転させたりする視覚化作業は、作業記憶システムの中核である「視覚空間スケッチパッド」を刺激します。これにより、頭頂葉と前頭前野の間のシナプス結合が強化され、脳の計画能力と計算能力が向上し、多次元のビジネス構造やデザインタスクを頭の中で完璧に構築し、洞察を得ることができます。",
-      "zh": "涉及在脑海中清晰地渲染和旋转不可见的抽象几何图形或复杂的业务变量的可视化工作会刺激“视觉空间画板”，这是工作记忆系统的核心。这加强了顶叶和前额叶皮层之间的突触连接，增强了大脑的规划和计算能力，以完美地构建和洞察大脑中的多维业务结构或设计任务，而不是只是忽略它们。",
-      "es": "El trabajo de visualización que implica representar y rotar claramente figuras geométricas abstractas invisibles o variables comerciales complejas en la mente estimula el 'Bloc de dibujo visoespacial', que es el núcleo del sistema de memoria de trabajo. Esto fortalece las conexiones sinápticas entre el lóbulo parietal y la corteza prefrontal, aumentando la capacidad de planificación y computación del cerebro para estructurar perfectamente y obtener información sobre estructuras comerciales multidimensionales o diseñar tareas en la mente en lugar de simplemente pasarlas por alto.",
-      "fr": "Le travail de visualisation qui implique le rendu et la rotation clairs de figures géométriques abstraites invisibles ou de variables commerciales complexes dans l'esprit stimule le « Bloc-notes visuospatial », qui est au cœur du système de mémoire de travail. Cela renforce les connexions synaptiques entre le lobe pariétal et le cortex préfrontal, augmentant ainsi la puissance de planification et de calcul du cerveau pour structurer parfaitement et mieux comprendre les structures commerciales multidimensionnelles ou les tâches de conception dans son esprit plutôt que de simplement les ignorer.",
-      "de": "Visualisierungsarbeiten, bei denen es darum geht, unsichtbare abstrakte geometrische Figuren oder komplexe Geschäftsvariablen klar im Kopf darzustellen und zu drehen, stimulieren den „Visuospatial Sketchpad“, den Kern des Arbeitsgedächtnissystems. Dadurch werden die synaptischen Verbindungen zwischen dem Parietallappen und dem präfrontalen Kortex gestärkt und die Planungs- und Rechenleistung des Gehirns erhöht, um mehrdimensionale Geschäftsstrukturen oder Designaufgaben im Kopf perfekt zu strukturieren und Einblicke zu gewinnen, anstatt sie einfach nur an ihnen vorbeigehen zu lassen.",
-      "pt": "O trabalho de visualização que envolve a renderização clara e a rotação de figuras geométricas abstratas invisíveis ou variáveis ​​de negócios complexas na mente estimula o 'bloco de desenho visuoespacial', que é o núcleo do sistema de memória de trabalho. Isto fortalece as conexões sinápticas entre o lobo parietal e o córtex pré-frontal, aumentando o planejamento do cérebro e o poder de computação para estruturar perfeitamente e obter insights sobre estruturas de negócios multidimensionais ou tarefas de design na mente, em vez de apenas ignorá-las.",
-      "id": "Pekerjaan visualisasi yang melibatkan rendering dengan jelas dan memutar figur geometris abstrak yang tidak terlihat atau variabel bisnis yang kompleks dalam pikiran seseorang menstimulasi 'Visuospatial Sketchpad', yang merupakan inti dari sistem memori kerja. Hal ini memperkuat hubungan sinaptik antara lobus parietal dan korteks prefrontal, meningkatkan perencanaan otak dan daya komputasi untuk menyusun secara sempurna dan mendapatkan wawasan tentang struktur bisnis multidimensi atau tugas desain dalam pikiran seseorang daripada hanya sekedar melewatkannya."
+      "ko": "보이지 않는 추상적 기하학 도형이나 복잡한 비즈니스 변수들을 머릿속으로 선명하게 입체 렌더링하고 회전시키는 시각화 작업은 작업 기억 시스템의 핵심인 '시공간 스케치북(Visuospatial Sketchpad)'을 자극합니다. 이는 두정엽과 전전두엽 피질 간의 시냅스 연결을 두껍게 단련시켜, 다차원적인 비즈니스 구조나 설계 과제를 일차원적으로 스쳐 지나치지 않고 머릿속으로 완벽하게 구조화하여 통찰하는 두뇌 기획 연산력을 증대시킵니다."
     },
     "cautionTitle": {
-      "en": "Behavioral science advice for successful settlement",
-      "ko": "성공적인 안착을 위한 행동과학 조언",
-      "ja": "解決を成功させるための行動科学的アドバイス",
-      "zh": "成功解决问题的行为科学建议",
-      "es": "Consejos de ciencias del comportamiento para un acuerdo exitoso",
-      "fr": "Conseils en sciences comportementales pour une installation réussie",
-      "de": "Verhaltenswissenschaftliche Ratschläge für eine erfolgreiche Einigung",
-      "pt": "Conselhos de ciência comportamental para uma liquidação bem-sucedida",
-      "id": "Nasihat ilmu perilaku untuk penyelesaian yang sukses"
+      "ko": "성공적인 안착을 위한 행동과학 조언"
     },
     "cautionDesc": {
-      "en": "Don't give yourself a headache by forcing the image to be dark. The training itself is enough to create afterimages of light lines and planes on a virtual blackboard while breathing gently.",
-      "ko": "이미지를 억지로 진하게 그리려 두통을 유발하지 마세요. 호흡을 부드럽게 가져가면서 가벼운 선과 면의 잔상을 가상의 칠판에 흘리듯 연출하는 훈련 자체로 충분합니다.",
-      "ja": "無理に画像を暗くして頭痛を引き起こさないようにしてください。トレーニング自体は、穏やかな呼吸をしながら仮想黒板上に光の線や面の残像を作り出すだけで十分です。",
-      "zh": "不要因为强制图像变暗而让自己头疼。训练本身足以在轻轻呼吸的同时在虚拟黑板上创建光线和平面的残像。",
-      "es": "No te provoques dolor de cabeza obligando a que la imagen sea oscura. El entrenamiento en sí es suficiente para crear imágenes residuales de líneas y planos de luz en una pizarra virtual mientras se respira suavemente.",
-      "fr": "Ne vous donnez pas mal à la tête en forçant l'image à être sombre. La formation elle-même suffit à créer des images rémanentes de lignes et de plans lumineux sur un tableau virtuel tout en respirant doucement.",
-      "de": "Machen Sie sich keine Kopfschmerzen, indem Sie das Bild zwangsweise dunkel erscheinen lassen. Das Training selbst reicht aus, um mit sanftem Atmen Nachbilder von Lichtlinien und -ebenen auf einer virtuellen Tafel zu erzeugen.",
-      "pt": "Não fique com dor de cabeça forçando a imagem a ficar escura. O treinamento em si é suficiente para criar pós-imagens de linhas e planos de luz em um quadro negro virtual enquanto respira suavemente.",
-      "id": "Jangan membuat diri Anda pusing dengan memaksakan gambar menjadi gelap. Pelatihannya sendiri cukup untuk menciptakan bayangan garis cahaya dan bidang di papan tulis virtual sambil bernapas dengan lembut."
+      "ko": "이미지를 억지로 진하게 그리려 두통을 유발하지 마세요. 호흡을 부드럽게 가져가면서 가벼운 선과 면의 잔상을 가상의 칠판에 흘리듯 연출하는 훈련 자체로 충분합니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Step 1: Setting up environment and tools",
-          "ko": "1단계: 환경 설정 및 도구 세팅",
-          "ja": "ステップ 1: 環境とツールのセットアップ",
-          "zh": "第1步：搭建环境和工具",
-          "es": "Paso 1: configurar el entorno y las herramientas",
-          "fr": "Étape 1 : Configuration de l'environnement et des outils",
-          "de": "Schritt 1: Umgebung und Tools einrichten",
-          "pt": "Etapa 1: configurar o ambiente e as ferramentas",
-          "id": "Langkah 1: Menyiapkan lingkungan dan alat"
+          "ko": "1단계: 환경 설정 및 도구 세팅"
         },
         "text": {
-          "en": "Every afternoon, during my break or when I'm organizing the difficult project plan at hand, I quietly close my eyes and create a clear virtual black board in the empty space of my mind. Take a long breath.",
-          "ko": "매일 오후 휴식 시간이나 당면한 어려운 기획안 설계를 정돈할 때, 눈을 가만히 감고 머릿속 빈 공간에 선명한 가상의 검은색 칠판을 띄웁니다. 호흡을 길게 가져갑니다.",
-          "ja": "毎日午後、休憩中、または目の前の難しいプロジェクト計画を整理しているとき、私は静かに目を閉じ、心の空いた空間に鮮明な仮想黒板を作成します。深呼吸してください。",
-          "zh": "每天下午，在休息的时候，或者在整理手头的困难项目计划时，我都会静静地闭上眼睛，在脑海的空白处创建一个清晰的虚拟黑板。长吸一口气。",
-          "es": "Todas las tardes, durante mi descanso o cuando estoy organizando el difícil plan del proyecto que tengo entre manos, cierro los ojos en silencio y creo una pizarra virtual clara en el espacio vacío de mi mente. Respira profundamente.",
-          "fr": "Chaque après-midi, pendant ma pause ou lorsque j'organise le plan de projet difficile à portée de main, je ferme tranquillement les yeux et crée un tableau noir virtuel clair dans l'espace vide de mon esprit. Respirez longuement.",
-          "de": "Jeden Nachmittag, während meiner Pause oder wenn ich den schwierigen Projektplan organisiere, schließe ich leise meine Augen und erstelle eine klare virtuelle Tafel im leeren Raum meines Geistes. Atme tief durch.",
-          "pt": "Todas as tardes, durante meu intervalo ou quando estou organizando o difícil plano de projeto em questão, fecho os olhos silenciosamente e crio um quadro negro virtual claro no espaço vazio da minha mente. Respire fundo.",
-          "id": "Setiap sore, saat istirahat atau ketika saya sedang mengatur rencana proyek sulit yang ada, saya diam-diam menutup mata dan membuat papan tulis virtual yang jelas di ruang kosong pikiran saya. Tarik napas panjang."
+          "ko": "매일 오후 휴식 시간이나 당면한 어려운 기획안 설계를 정돈할 때, 눈을 가만히 감고 머릿속 빈 공간에 선명한 가상의 검은색 칠판을 띄웁니다. 호흡을 길게 가져갑니다."
         }
       },
       {
         "name": {
-          "en": "Step 2: Full sense projection and practice",
-          "ko": "2단계: 온전한 감각 투사와 실천",
-          "ja": "ステップ 2: 完全な感覚の投影と実践",
-          "zh": "第二步：全感官投射和练习",
-          "es": "Paso 2: Proyección y práctica de todos los sentidos.",
-          "fr": "Étape 2 : Projection et pratique du plein sens",
-          "de": "Schritt 2: Vollständige Projektion und Übung",
-          "pt": "Passo 2: Projeção e prática do sentido pleno",
-          "id": "Langkah 2: Proyeksi dan latihan indra penuh"
+          "ko": "2단계: 온전한 감각 투사와 실천"
         },
         "text": {
-          "en": "On the blackboard, clearly draw the three key elements of the most difficult problem to be solved today (or simple 3D objects such as a clear sphere or pyramid) in the form of three-dimensional shapes.",
-          "ko": "해당 칠판 위에 오늘 해결해야 할 가장 머리 아픈 난제의 핵심 요소 3가지(또는 선명한 구체, 피라미드 같은 단순 3D 事物)를 입체 도형 형태로 선명하게 그려 넣습니다.",
-          "ja": "黒板に、今日解くべき最も難しい問題の 3 つの重要な要素 (または透明な球やピラミッドなどの単純な 3D オブジェクト) を立体的な形で明確に描きます。",
-          "zh": "在黑板上，以三维形状的形式清楚地画出当今要解决的最困难问题的三个关键要素（或简单的 3D 对象，例如清晰的球体或金字塔）。",
-          "es": "En la pizarra, dibuje claramente los tres elementos clave del problema más difícil de resolver hoy (o objetos 3D simples como una esfera transparente o una pirámide) en forma de formas tridimensionales.",
-          "fr": "Au tableau, dessinez clairement les trois éléments clés du problème le plus difficile à résoudre aujourd'hui (ou de simples objets 3D comme une sphère claire ou une pyramide) sous forme de formes tridimensionnelles.",
-          "de": "Zeichnen Sie an der Tafel deutlich die drei Schlüsselelemente des heute schwierigsten zu lösenden Problems (oder einfache 3D-Objekte wie eine klare Kugel oder Pyramide) in Form dreidimensionaler Formen.",
-          "pt": "No quadro negro, desenhe claramente os três elementos-chave do problema mais difícil a ser resolvido hoje (ou objetos 3D simples, como uma esfera ou pirâmide transparente) na forma de formas tridimensionais.",
-          "id": "Di papan tulis, gambarlah dengan jelas tiga elemen kunci dari soal yang paling sulit diselesaikan saat ini (atau objek 3D sederhana seperti bola atau piramida bening) dalam bentuk tiga dimensi."
+          "ko": "해당 칠판 위에 오늘 해결해야 할 가장 머리 아픈 난제의 핵심 요소 3가지(또는 선명한 구체, 피라미드 같은 단순 3D )를 입체 도형 형태로 선명하게 그려 넣습니다."
         }
       },
       {
         "name": {
-          "en": "Step 3: Objective looking and meta-organizing",
-          "ko": "3단계: 객관적 응시 및 메타 정리",
-          "ja": "ステップ 3: 客観視とメタ整理",
-          "zh": "第三步：客观观察和元组织",
-          "es": "Paso 3: Mirada objetiva y metaorganización",
-          "fr": "Étape 3 : Recherche d'objectifs et méta-organisation",
-          "de": "Schritt 3: Objektive Betrachtung und Meta-Organisation",
-          "pt": "Etapa 3: Visão objetiva e meta-organização",
-          "id": "Langkah 3: Mencari obyektif dan pengorganisasian meta"
+          "ko": "3단계: 객관적 응시 및 메타 정리"
         },
         "text": {
-          "en": "With your eyes closed, perform a 2-minute cognitive simulation rotation exercise in which you slowly rotate the virtual three-dimensional figures in your head 360 degrees left and right, dock them, and combine them.",
-          "ko": "눈을 감은 채로 머릿속의 그 가상 입체 도형들을 천천히 좌우로 360도 회전시키고 서로 도킹해 결합해보는 인지 시뮬레이션 회전 연습을 2분간 수행합니다.",
-          "ja": "目を閉じた状態で、頭の中にある仮想の 3 次元図形をゆっくりと左右 360 度回転させ、ドッキングして結合する 2 分間の認知シミュレーション回転演習を実行します。",
-          "zh": "闭上眼睛，进行2分钟的认知模拟旋转练习，将脑中的虚拟三维人物慢慢地左右旋转360度，对接、组合。",
-          "es": "Con los ojos cerrados, realice un ejercicio de rotación de simulación cognitiva de 2 minutos en el que gire lentamente las figuras tridimensionales virtuales en su cabeza 360 grados hacia la izquierda y hacia la derecha, las acopla y las combina.",
-          "fr": "Les yeux fermés, effectuez un exercice de rotation de simulation cognitive de 2 minutes dans lequel vous faites lentement pivoter les figures virtuelles tridimensionnelles dans votre tête à 360 degrés vers la gauche et la droite, les ancrez et les combinez.",
-          "de": "Führen Sie mit geschlossenen Augen eine zweiminütige kognitive Simulationsrotationsübung durch, bei der Sie die virtuellen dreidimensionalen Figuren in Ihrem Kopf langsam um 360 Grad nach links und rechts drehen, andocken und kombinieren.",
-          "pt": "Com os olhos fechados, execute um exercício de rotação de simulação cognitiva de 2 minutos, no qual você gira lentamente as figuras tridimensionais virtuais em sua cabeça 360 graus para a esquerda e para a direita, encaixa-as e combina-as.",
-          "id": "Dengan mata tertutup, lakukan latihan rotasi simulasi kognitif selama 2 menit di mana Anda secara perlahan memutar gambar tiga dimensi virtual di kepala Anda 360 derajat ke kiri dan ke kanan, menyatukannya, dan menggabungkannya."
+          "ko": "눈을 감은 채로 머릿속의 그 가상 입체 도형들을 천천히 좌우로 360도 회전시키고 서로 도킹해 결합해보는 인지 시뮬레이션 회전 연습을 2분간 수행합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "en": "Even when I close my eyes, all I see is a dark, black screen.",
-          "ko": "저는 눈을 감아도 그냥 깜깜하고 검은 화면만 보입니다.",
-          "ja": "目を閉じても、真っ暗な画面しか見えません。",
-          "zh": "即使闭上眼睛，我看到的也只是漆黑的屏幕。",
-          "es": "Incluso cuando cierro los ojos, todo lo que veo es una pantalla negra y oscura.",
-          "fr": "Même lorsque je ferme les yeux, tout ce que je vois est un écran sombre et noir.",
-          "de": "Selbst wenn ich meine Augen schließe, sehe ich nur einen dunklen, schwarzen Bildschirm.",
-          "pt": "Mesmo quando fecho os olhos, tudo que vejo é uma tela escura e preta.",
-          "id": "Bahkan ketika saya menutup mata, yang saya lihat hanyalah layar hitam pekat."
+          "ko": "저는 눈을 감아도 그냥 깜깜하고 검은 화면만 보입니다."
         },
         "answer": {
-          "en": "This is a very normal reaction. Instead of trying to force yourself to look at a 3D sphere, start by holding the color and shape afterimage of a small 2D flat model, such as an orange square or a white triangle, without shaking for 3 seconds.",
-          "ko": "아주 정상적인 반응입니다. 3D 구체를 억지로 보려 하지 말고, 주황색 사각형이나 하얀색 삼각형 같은 사소한 2D 평면 모형의 색채와 형태 잔상을 3초 동안 흔들림 없이 유지하는 것부터 다지십시오.",
-          "ja": "これはごく正常な反応です。無理に 3D 球体を見ようとするのではなく、オレンジ色の四角形や白い三角形などの小さな 2D 平面モデルの色と形の残像を、震えずに 3 秒間保持することから始めます。",
-          "zh": "这是非常正常的反应。不要试图强迫自己看 3D 球体，而是先握住小型 2D 平面模型（例如橙色正方形或白色三角形）的颜色和形状残像，不要晃动 3 秒钟。",
-          "es": "Esta es una reacción muy normal. En lugar de intentar obligarte a mirar una esfera 3D, comienza sosteniendo la imagen residual de color y forma de un pequeño modelo plano 2D, como un cuadrado naranja o un triángulo blanco, sin agitarlo durante 3 segundos.",
-          "fr": "C'est une réaction tout à fait normale. Au lieu d'essayer de vous forcer à regarder une sphère 3D, commencez par maintenir la couleur et la forme de l'image rémanente d'un petit modèle plat 2D, comme un carré orange ou un triangle blanc, sans trembler pendant 3 secondes.",
-          "de": "Das ist eine ganz normale Reaktion. Anstatt zu versuchen, sich dazu zu zwingen, auf eine 3D-Kugel zu schauen, halten Sie zunächst das Farb- und Formnachbild eines kleinen flachen 2D-Modells, z. B. eines orangefarbenen Quadrats oder eines weißen Dreiecks, drei Sekunden lang ohne zu schütteln fest.",
-          "pt": "Esta é uma reação muito normal. Em vez de tentar se forçar a olhar para uma esfera 3D, comece segurando a cor e a forma da pós-imagem de um pequeno modelo plano 2D, como um quadrado laranja ou um triângulo branco, sem tremer por 3 segundos.",
-          "id": "Ini adalah reaksi yang sangat normal. Daripada memaksakan diri untuk melihat bola 3D, mulailah dengan menahan warna dan bentuk bayangan model datar 2D kecil, seperti kotak oranye atau segitiga putih, tanpa menggoyangkannya selama 3 detik."
+          "ko": "아주 정상적인 반응입니다. 3D 구체를 억지로 보려 하지 말고, 주황색 사각형이나 하얀색 삼각형 같은 사소한 2D 평면 모형의 색채와 형태 잔상을 3초 동안 흔들림 없이 유지하는 것부터 다지십시오."
         }
       },
       {
         "question": {
-          "en": "Will increasing your brain's sketchbook capacity also help you organize complex tasks and priorities?",
-          "ko": "뇌 스케치북 능력을 늘리면 복잡한 일과 우선순위 정돈에도 작동하나요?",
-          "ja": "脳のスケッチブックの容量を増やすと、複雑なタスクや優先順位を整理するのにも役立ちますか?",
-          "zh": "增加大脑的速写本容量是否也能帮助您组织复杂的任务和优先事项？",
-          "es": "¿Aumentar la capacidad del cuaderno de bocetos de tu cerebro también te ayudará a organizar tareas y prioridades complejas?",
-          "fr": "L'augmentation de la capacité de votre cerveau en matière de carnet de croquis vous aidera-t-elle également à organiser des tâches et des priorités complexes ?",
-          "de": "Hilft Ihnen die Erweiterung der Skizzenbuchkapazität Ihres Gehirns auch dabei, komplexe Aufgaben und Prioritäten zu organisieren?",
-          "pt": "Aumentar a capacidade do caderno de desenho do seu cérebro também o ajudará a organizar tarefas e prioridades complexas?",
-          "id": "Akankah meningkatkan kapasitas buku sketsa otak Anda juga membantu Anda mengatur tugas dan prioritas yang kompleks?"
+          "ko": "뇌 스케치북 능력을 늘리면 복잡한 일과 우선순위 정돈에도 작동하나요?"
         },
         "answer": {
-          "en": "Yes, you can virtually display five to-do cards for today in your head, rank their importance by size and color, and rearrange them three-dimensionally, improving your task organizing skills in a very intuitive way.",
-          "ko": "네, 머릿속에서 오늘의 할 일 카드 5장을 가상으로 띄워 크기와 색깔로 중요도를 매기고 입체적으로 재정렬해 볼 수 있어, 작업 정리 능력이 매우 직관적으로 단련됩니다.",
-          "ja": "はい、今日の ToDo カードを 5 枚仮想的に頭の中に表示し、サイズと色で重要度をランク付けし、3 次元的に並べ替えることで、非常に直感的な方法でタスク整理スキルを向上させることができます。",
-          "zh": "是的，您实际上可以在脑海中显示今天的五张待办事项卡，按大小和颜色对它们的重要性进行排名，并以三维方式重新排列它们，以非常直观的方式提高您的任务组织技能。",
-          "es": "Sí, puedes mostrar virtualmente cinco tarjetas de tareas pendientes para hoy en tu cabeza, clasificar su importancia por tamaño y color y reorganizarlas tridimensionalmente, mejorando tus habilidades de organización de tareas de una manera muy intuitiva.",
-          "fr": "Oui, vous pouvez afficher virtuellement cinq cartes de tâches du jour dans votre tête, classer leur importance par taille et couleur et les réorganiser en trois dimensions, améliorant ainsi vos compétences en matière d'organisation des tâches de manière très intuitive.",
-          "de": "Ja, Sie können fünf Aufgabenkarten für heute virtuell in Ihrem Kopf anzeigen, ihre Wichtigkeit nach Größe und Farbe ordnen und sie dreidimensional neu anordnen, wodurch Sie Ihre Fähigkeiten zur Aufgabenorganisation auf sehr intuitive Weise verbessern.",
-          "pt": "Sim, você pode exibir virtualmente cinco cartões de tarefas do dia em sua cabeça, classificar sua importância por tamanho e cor e reorganizá-los tridimensionalmente, melhorando suas habilidades de organização de tarefas de uma forma muito intuitiva.",
-          "id": "Ya, Anda dapat menampilkan secara virtual lima kartu tugas hari ini di kepala Anda, mengurutkan kepentingannya berdasarkan ukuran dan warna, dan menyusunnya ulang secara tiga dimensi, sehingga meningkatkan keterampilan mengatur tugas Anda dengan cara yang sangat intuitif."
+          "ko": "네, 머릿속에서 오늘의 할 일 카드 5장을 가상으로 띄워 크기와 색깔로 중요도를 매기고 입체적으로 재정렬해 볼 수 있어, 작업 정리 능력이 매우 직관적으로 단련됩니다."
         }
       }
-    ],
-    "pubDate": "2026-06-23",
-    "updatedDate": "2026-06-23"
+    ]
   }
 }

@@ -1,218 +1,72 @@
 {
   "hepburn-garden-mindfulness": {
     "title": {
-      "ko": "우아함의 밑바탕? 오드리 헵번의 마음 치유 정원 루틴",
-      "en": "The Foundation of Elegance? Audrey Hepburn's Mind-Healing Garden Routine",
-      "ja": "優雅さの土台？オードリー・ヘプバーンの心癒すガーデニングルーティン",
-      "zh": "优雅的根基？奥黛丽·赫本的心灵疗愈花园常规",
-      "es": "¿La base de la elegancia? La rutina de jardín de Audrey Hepburn para sanar la mente",
-      "fr": "La base de l'élégance ? La routine de jardin d'Audrey Hepburn pour guérir l'esprit",
-      "de": "Das Fundament der Eleganz? Audrey Hepburns seelenheilende Gartenroutine",
-      "pt": "A base da elegância? A rotina de jardim de Audrey Hepburn para curar a mente",
-      "id": "Fondasi Keanggunan? Rutinitas Kebun Penyembuh Pikiran Audrey Hepburn"
+      "ko": "우아함의 밑바탕? 오드리 헵번의 마음 치유 정원 루틴"
     },
     "description": {
-      "ko": "할리우드의 전설 오드리 헵번. 극심한 대중의 관심과 암 투병의 고통 속에서도 정서적 안정과 우아함을 지켜낸 비결인 흙 만지기(정원 가꾸기) 루틴의 脳科学的 원리와 3단계 실천법을 소개합니다.",
-      "en": "Hollywood legend Audrey Hepburn. Discover the neurological principles and 3-step practice of her gardening (touching dirt) routine, which helped her maintain emotional stability and elegance despite immense public attention and the pain of cancer.",
-      "ja": "ハリウッドの伝説オードリー・ヘプバーン。世間の大きな関心やがん闘病の苦しみの中でも、感情的な安定と優雅さを守り抜いた秘訣である土いじり（ガーデニング）ルーティンの脳科学的原理と3ステップの実践法を紹介します。",
-      "zh": "好莱坞传奇人物奥黛丽·赫本。介绍她在极高的公众关注度和抗癌痛苦中保持情绪稳定与优雅的秘诀——摸土（园艺）常规的脑科学原理和三步实践法。",
-      "es": "La leyenda de Hollywood Audrey Hepburn. Descubra los principios neurológicos de su rutina de jardinería (tocar la tierra) para mantener la estabilidad emocional, y una guía práctica de 3 pasos.",
-      "fr": "La légende d'Hollywood Audrey Hepburn. Découvrez les principes neurologiques de sa routine de jardinage (toucher la terre) pour maintenir la stabilité émotionnelle, et un guide pratique en 3 étapes.",
-      "de": "Die Hollywood-Legende Audrey Hepburn. Entdecken Sie die neurologischen Prinzipien ihrer Gartenroutine (Erde berühren) zur Aufrechterhaltung der emotionalen Stabilität und eine praktische 3-Schritte-Anleitung.",
-      "pt": "A lenda de Hollywood Audrey Hepburn. Descubra os princípios neurológicos de sua rotina de jardinagem (tocar a terra) para manter a estabilidade emocional, e um guia prático em 3 passos.",
-      "id": "Legenda Hollywood Audrey Hepburn. Temukan prinsip-prinsip neurologis dari rutinitas berkebunnya (menyentuh tanah) untuk menjaga stabilitas emosi, dan panduan praktis 3 langkah."
+      "ko": "할리우드의 전설 오드리 헵번. 극심한 대중의 관심과 암 투병의 고통 속에서도 정서적 안정과 우아함을 지켜낸 비결인 흙 만지기(정원 가꾸기) 루틴의 뇌과학적 원리와 3단계 실천법을 소개합니다."
     },
     "authority": {
-      "ko": "오드리 헵번 전적 사료 및 Neuroscience 학술지",
-      "en": "Audrey Hepburn Historical Archives & Neuroscience",
-      "ja": "オードリー・ヘプバーン歴史アーカイブおよび学術誌「Neuroscience」",
-      "zh": "奥黛丽·赫本历史档案馆与学术期刊《Neuroscience》",
-      "es": "Archivos Históricos de Audrey Hepburn y revista Neuroscience",
-      "fr": "Archives historiques d'Audrey Hepburn & revue Neuroscience",
-      "de": "Historische Archive von Audrey Hepburn & Fachzeitschrift Neuroscience",
-      "pt": "Arquivos Históricos de Audrey Hepburn & revista Neuroscience",
-      "id": "Arsip Sejarah Audrey Hepburn & Jurnal Neuroscience"
+      "ko": "오드리 헵번 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "할리우드의 영원한 패션 아이콘이자 말년에는 헌신적인 유니세프 대사로서 고통받는 세계 각국의 아동을 위해 일했던 오드리 헵번. 극심한 언론의 노출과 외모 평가, 그리고 말년의 암 투병까지 겪었던 그녀의 일상에서 내면의 상처를 가라앉히고 우아함을 유지할 수 있었던 힘의 원천은 어디에 있었을까요? 오드리 헵번은 스위스 톨로케나즈의 시골 집 정원에서 매일 오후 흙을 만지고 꽃과 과일을 가꾸는 데 전념했습니다. 오늘 BuildSelf에서는 오드리 헵번의 '정원 가꾸기' 루틴의 인지 회복 원리와 현대적 정서 치유 루틴을 소개합니다.",
-      "en": "Audrey Hepburn, the eternal fashion icon of Hollywood who worked for suffering children worldwide as a devoted UNICEF ambassador in her later years. What was the source of strength that calmed her inner wounds and maintained her elegance through extreme media exposure, appearance evaluations, and cancer? She dedicated herself to touching the dirt and cultivating flowers and fruits every afternoon in her country home garden in Tolochenaz, Switzerland. Today, BuildSelf introduces the cognitive restoration principles and modern emotional healing routine of Audrey Hepburn's 'gardening'.",
-      "ja": "ハリウッドの永遠のファッションアイコンであり、晩年は献身的なユニセフ大使として、苦しむ世界各地の子どもたちのために活動したオードリー・ヘプバーン。極端なメディア露出や容姿評価、そして晩年のがん闘病まで経験した彼女の日常において、内面の傷を癒やし優雅さを維持できた力の源はどこにあったのでしょうか？オードリー・ヘプバーンは、スイスのトロシュナの田舎の家の庭で、毎日午後、土に触れ、花や果物を育てることに没頭しました。本日、BuildSelfではオードリー・ヘプバーンの「ガーデニング」ルーティンの認知回復原理と現代的な感情癒やしルーティンを紹介します。",
-      "zh": "在这一历史性惯例的实践中： . , ? . BuildSelf ' ' .",
-      "es": "Audrey Hepburn, el eterno ícono de Hollywood que trabajó por los niños como embajadora de UNICEF. ¿Cuál fue su fuente de fuerza para calmar sus heridas internas y mantener la elegancia a través de la exposición de los medios y el cáncer? Se dedicaba a tocar la tierra y cultivar flores cada tarde en su jardín en Tolochenaz, Suiza. Hoy, BuildSelf presenta los principios de restauración cognitiva y la rutina de curación emocional de la 'jardinería' de Audrey Hepburn.",
-      "fr": "Audrey Hepburn, l'éternelle icône d'Hollywood qui a travaillé pour les enfants en tant qu'ambassadrice de l'UNICEF. Quelle était sa source de force pour apaiser ses blessures et maintenir son élégance face aux médias et au cancer ? Elle se consacrait à toucher la terre et à cultiver des fleurs chaque après-midi dans son jardin à Tolochenaz, en Suisse. Aujourd'hui, BuildSelf présente les principes de restauration cognitive et la routine de guérison de la 'jardinería' d'Audrey Hepburn.",
-      "de": "Audrey Hepburn, die ewige Ikone Hollywoods, die sich als UNICEF-Botschafterin für Kinder einsetzte. Was war ihre Kraftquelle, um trotz Medienrummel und Krebserkrankung innere Wunden zu heilen und ihre Eleganz zu bewahren? Sie widmete sich jeden Nachmittag der Gartenarbeit in ihrem Haus in Tolochenaz in der Schweiz. Heute stellt BuildSelf die Prinzipien der kognitiven Erholung und die emotionale Heilungsroutine von Audrey Hepburns 'Gartenarbeit' vor.",
-      "pt": "Audrey Hepburn, o eterno ícone de Hollywood que trabalhou pelas crianças como embaixadora do UNICEF. Qual era sua fonte de força para acalmar suas feridas internas e manter a elegância através da exposição da mídia e do câncer? Ela se dedicava a tocar a terra e cultivar flores todas as tardes em seu jardim em Tolochenaz, na Suíça. Hoje, o BuildSelf apresenta os princípios de restauração cognitiva e a rotina de cura emocional da 'jardinagem' de Audrey Hepburn.",
-      "id": "Audrey Hepburn, ikon fesyen abadi Hollywood yang bekerja untuk anak-anak sebagai duta UNICEF. Apa sumber kekuatan untuk menenangkan luka batinnya dan mempertahankan keanggunan melalui paparan media dan kanker? Ia mendedikasikan diri untuk menyentuh tanah dan menanam bunga setiap sore di kebun rumahnya di Tolochenaz, Swiss. Hari ini, BuildSelf memperkenalkan prinsip-prinsip pemulihan kognitif dan rutinitas penyembuhan emosional dari 'berkebun' Audrey Hepburn."
+      "ko": "\"정원을 가꾸는 것은 내일을 믿는 일이다. 흙을 만질 때 비로소 내 영혼은 가장 조용해진다.\" 🌿\n\n할리우드의 영원한 패션 아이콘이자 말년에는 헌신적인 유니세프 대사로서 고통받는 세계 각국의 아동을 위해 일했던 오드리 헵번. 극심한 언론의 노출과 외모 평가, 그리고 말년의 암 투병까지 겪었던 그녀의 일상에서 내면의 상처를 가라앉히고 우아함을 유지할 수 있었던 힘의 원천은 어디에 있었을까요?\n\n오드리 헵번은 스위스 톨로케나즈의 시골 집 정원에서 매일 오후 흙을 만지고 꽃과 과일을 가꾸는 데 전념했습니다. 그녀는 모종삽을 들고 흙을 헤집고, 마른 나뭇가지를 치며 자연의 단순하고 명확한 순리에 깊숙이 몰입했습니다. 대중의 시선에서 온전히 탈피하여 오직 손끝에 닿는 차가운 흙과 자연물에만 온 정성을 쏟았던 이 정원 루틴은, 고갈된 인지 자원을 다시 충전하고 정신적 평안을 얻는 강력한 회복의 시간이었습니다.\n\n오늘 포스트에서는 오드리 헵번의 '정원 가꾸기' 루틴의 인지 회복 원리와 현대적 정서 치유 루틴을 소개합니다."
     },
     "whyTitle": {
-      "ko": "자연 접촉과 흙이 주는 세로토닌 촉진 원리",
-      "en": "The Principle of Serotonin Promotion by Nature Contact and Dirt",
-      "ja": "自然との接触と土がもたらすセロトニン促進の原理",
-      "zh": "接触自然和土壤带来的血清素促进原理",
-      "es": "El principio de estimulación de la serotonina por el contacto con la naturaleza y la tierra",
-      "fr": "Le principe de stimulation de la sérotonine par le contact avec la nature et la terre",
-      "de": "Das Prinzip der Serotoninförderung durch Naturkontakt und Erde",
-      "pt": "O princípio de estimulação da serotonina pelo contato com a natureza e a terra",
-      "id": "Prinsip Promosi Serotonin Melalui Kontak Alam dan Tanah"
+      "ko": "자연 접촉과 흙이 주는 세로토닌 촉진 원리"
     },
     "whyDesc": {
-      "ko": "인간은 흙과 교감할 때 근본적인 심리적 안정을 얻도록 진화했습니다. 뇌과학 및 미생물학 연구에 따르면, 정원을 가꾸며 흙을 만질 때 흙 속에 서식하는 유익한 미생물인 <strong>'마이코박테리움 백카이(Mycobacterium vaccae)'</strong>와 신체적으로 접촉하게 됩니다. 이 박테리아는 피부와 호흡기를 통해 뇌의 신경 세포를 자극하여 정서적 평온과 우울증 완화를 돕는 신경전달물질인 <strong>세로토닌(Serotonin)</strong>의 방출을 획기적으로 유도합니다. 즉 정원을 가꾸는 행위는 전두엽의 인지 피로를 덜어주는 '주의 회복(Attention Restoration)'과 신경 안정 효과를 동시에 부여합니다.",
-      "en": "Humans have evolved to gain fundamental psychological stability when interacting with the soil. According to brain science and microbiological studies, when touching the dirt while gardening, we physically contact a beneficial microorganism called <strong>'Mycobacterium vaccae'</strong> living in the soil. This bacterium stimulates brain neurons through the skin and respiratory system to dramatically induce the release of <strong>serotonin</strong>, a neurotransmitter that helps emotional tranquility and alleviates depression. In other words, gardening provides both 'Attention Restoration', which relieves cognitive fatigue in the frontal lobe, and neuro-stabilizing effects.",
-      "ja": "人間は土と交感するとき、根本的な心理的安定を得るように進化してきました。脳科学および微生物学の研究によると、ガーデニングで土に触れる際、土壌に生息する有益な微生物である<strong>「マイコバクテリウム・ヴァッカエ（Mycobacterium vaccae）」</strong>と身体的に接触することになります。このバクテリアは、皮膚や呼吸器を通じて脳の神経細胞を刺激し、情緒的な平穏やうつ症状の緩和を助ける神経伝達物質である<strong>セロトニン（Serotonin）</strong>の放出を画期的に誘導します。つまり、ガーデニングという行為は、前頭葉の認知疲労を和らげる「注意回復（Attention Restoration）」と神経安定効果を同時に与えてくれるのです。",
-      "zh": "人类在与土壤交流时进化出了获得根本心理稳定的机制。根据脑科学和微生物学研究，在进行园艺和摸土时，我们会与土壤中生存的有益微生物——<strong>“母牛分枝杆菌 (Mycobacterium vaccae)”</strong>发生身体接触。这种细菌通过皮肤和呼吸道刺激大脑神经细胞，显著诱导释放<strong>血清素 (Serotonin)</strong>，这是一种有助于情绪平静和缓解抑郁的神经递质。也就是说，园艺行为同时赋予了减轻前额叶认知疲劳的“注意力恢复 (Attention Restoration)”和神经稳定效果。",
-      "es": "Los humanos evolucionaron para ganar estabilidad al interactuar con la tierra. Estudios científicos demuestran que al tocar la tierra del jardín, contactamos físicamente con un microorganismo llamado <strong>'Mycobacterium vaccae'</strong>. Esta bacteria estimula las neuronas para liberar <strong>serotonina</strong>, el neurotransmisor de la felicidad y tranquilidad. Esto alivia la fatiga del lóbulo frontal (Restauración de la Atención) y reduce el estrés.",
-      "fr": "L'être humain a évolué pour trouver la stabilité en interagissant avec la terre. Des études prouvent qu'en touchant la terre, nous entrons en contact avec un micro-organisme appelé <strong>'Mycobacterium vaccae'</strong>. Cette bactérie stimule les neurones pour libérer de la <strong>sérotonine</strong>, le neurotransmetteur du bonheur. Cela soulage la fatigue du lobe frontal (Restauration de l'Attention).",
-      "de": "Menschen haben sich so entwickelt, dass sie durch den Kontakt mit der Erde psychische Stabilität gewinnen. Studien zeigen, dass wir beim Berühren von Erde mit dem Mikroorganismus <strong>'Mycobacterium vaccae'</strong> in Kontakt kommen. Dieses Bakterium stimuliert Neuronen zur Freisetzung von <strong>Serotonin</strong>, was die Stimmung hebt. Dies entlastet das Gehirn (Aufmerksamkeitswiederherstellung) und baut Stress ab.",
-      "pt": "Os humanos evoluíram para ganhar estabilidade ao interagir com a terra. Estudos provam que ao tocar a terra, entramos em contato com um microrganismo chamado <strong>'Mycobacterium vaccae'</strong>. Essa bactéria estimula os neurônios para liberar <strong>serotonina</strong>, o neurotransmissor da felicidade. Isso alivia a fadiga do lobo frontal (Restauração da Atenção).",
-      "id": "Manusia berevolusi untuk mendapatkan stabilitas saat berinteraksi dengan tanah. Penelitian membuktikan bahwa saat menyentuh tanah, kita bersentuhan dengan mikroorganisme bernama <strong>'Mycobacterium vaccae'</strong>. Bakteri ini merangsang neuron untuk melepaskan <strong>serotonin</strong>, neurotransmitter kebahagiaan. Ini meredakan kelelahan lobus frontal (Pemulihan Perhatian)."
+      "ko": "인간은 흙과 교감할 때 근본적인 심리적 안정을 얻도록 진화했습니다. 뇌과학 및 미생물학 연구에 따르면, 정원을 가꾸며 흙을 만질 때 흙 속에 서식하는 유익한 미생물인 <strong>'마이코박테리움 백카이(Mycobacterium vaccae)'</strong>와 신체적으로 접촉하게 됩니다. 이 박테리아는 피부와 호흡기를 통해 뇌의 신경 세포를 자극하여 정서적 평온과 우울증 완화를 돕는 신경전달물질인 <strong>세로토닌(Serotonin)</strong>의 방출을 획기적으로 유도합니다. 즉 정원을 가꾸는 행위는 전두엽의 인지 피로를 덜어주는 '주의 회복(Attention Restoration)'과 신경 안정 효과를 동시에 부여합니다."
     },
     "cautionTitle": {
-      "ko": "흙과 식물이 주는 미세한 아날로그 촉감에만 온전히 몰입하세요",
-      "en": "Immerse Yourself Fully Only in the Fine Analog Textures of Dirt and Plants",
-      "ja": "土や植物がもたらす微細なアナログの触感にのみ、完全に没頭してください",
-      "zh": "要完全沉浸在土壤和植物带来的细微模拟触感中",
-      "es": "Sumérjase por completo únicamente en las finas texturas analógicas de la tierra y las plantas",
-      "fr": "Plongez-vous complètement uniquement dans les textures analogiques de la terre et des plantes",
-      "de": "Tauchen Sie völlig in die feinen analogen Texturen von Erde und Pflanzen ein",
-      "pt": "Mergulhe completamente apenas nas finas texturas analógicas da terra e das plantas",
-      "id": "Hanyutkan Diri Anda Sepenuhnya Hanya dalam Tekstur Analog Halus dari Tanah dan Tanaman"
+      "ko": "흙과 식물이 주는 미세한 아날로그 촉감에만 온전히 몰입하세요"
     },
     "cautionDesc": {
-      "ko": "원예 루틴을 통한 진정한 정서적 이완을 얻으려면 행위 자체의 감각에 마음을 모으는 것이 중요합니다. 흙을 만지면서 오늘 해야 할 일이나 업무에 대한 잡념을 이어간다면 뇌의 주의 회복 기능은 차단됩니다. 손끝에 와닿는 흙의 시원하고 서늘한 감각, 흙 속에 섞인 모래알의 거친 촉감, 잎사귀 표면의 부드러움 등 눈앞의 물리적인 흙과 식물의 생명력에만 온 신경을 집중할 때 뇌는 비로소 이완 상태로 진입합니다.",
-      "en": "To obtain true emotional relaxation through the gardening routine, it is important to focus the mind on the senses of the action itself. If you continue to think about today's tasks or work while touching the soil, the brain's attention restoration function will be blocked. When you focus all your attention only on the physical soil and vitality of the plants in front of you, such as the cool and chilly sensation of the soil touching your fingertips, the rough texture of sand grains, and the softness of the leaf surface, the brain finally enters a state of relaxation.",
-      "ja": "ガーデニングルーティンを通じて真の情緒的緩和を得るためには、行為自体の感覚に心を集中させることが重要です。土に触れながら、今日行うべき仕事や業務についての雑念を続けてしまうと、脳の注意回復機能は遮断されてしまいます。指先に伝わる土の冷たくて涼しい感覚、土に混ざった砂粒の粗い触感、葉の表面の柔らかさなど、目の前にある物理的な土と植物の生命力にのみ神経を集中させるとき、脳はようやくリラックス状態に入ります。",
-      "zh": "为了通过园艺常规获得真正的正规情绪放松，将注意力集中在行为本身的感觉上至关重要。如果在一边摸着土一边想着今天要做的事情或工作杂念，大脑的注意力恢复功能就会被阻断。只有当你的所有神经都集中在眼前的物理土壤和植物生命力上时——比如指尖触碰土壤的凉爽感、土壤中夹杂沙粒的粗糙触感、叶片表面的柔软度，大脑才能真正进入放松状态。",
-      "es": "Para obtener una relajación real, concéntrese en las sensaciones físicas de la actividad. Si piensa en el trabajo mientras toca la tierra, bloqueará la restauración de la atención. Concéntrese en la frescura de la tierra en sus dedos, la textura de la arena o la suavidad de las hojas para relajar su mente.",
-      "fr": "Pour obtenir une vraie relaxation, concentrez-vous sur les sensations physiques. Si vous pensez au travail en touchant la terre, vous bloquerez la restauration de l'attention. Concentrez-vous sur la fraîcheur de la terre, la texture du sable ou la douceur des feuilles.",
-      "de": "Um echte Entspannung zu finden, konzentrieren Sie sich auf die körperlichen Empfindungen. Wenn Sie bei der Gartenarbeit an die Arbeit denken, wird die Erholung blockiert. Konzentrieren Sie sich auf die Kühle der Erde, die Textur des Sandes oder die Weichheit der Blätter.",
-      "pt": "Para obter um relaxamento real, concentre-se nas sensações físicas da atividade. Se você pensar no trabalho enquanto toca a terra, bloqueará a restauração da atenção. Concentre-se no frescor da terra em seus dedos, na textura da areia ou na suavidade das folhas.",
-      "id": "Untuk mendapatkan relaksasi nyata, fokuslah pada sensasi fisik aktivitas. Jika Anda memikirkan pekerjaan saat menyentuh tanah, Anda memblokir pemulihan perhatian. Konsentrasilah pada kesejukan tanah di jari Anda, tekstur pasir, atau kelembutan daun."
+      "ko": "원예 루틴을 통한 진정한 정서적 이완을 얻으려면 행위 자체의 감각에 마음을 모으는 것이 중요합니다. 흙을 만지면서 오늘 해야 할 일이나 업무에 대한 잡념을 이어간다면 뇌의 주의 회복 기능은 차단됩니다. 손끝에 와닿는 흙의 시원하고 서늘한 감각, 흙 속에 섞인 모래알의 거친 촉감, 잎사귀 표면의 부드러움 등 눈앞의 물리적인 흙과 식물의 생명력에만 온 신경을 집중할 때 뇌는 비로소 이완 상태로 진입합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "원예 공간 준비 및 스마트폰 격리",
-          "en": "Prepare Gardening Space & Isolate Smartphone",
-          "ja": "ガーデニングスペースの準備およびスマートフォンの隔離",
-          "zh": "准备园艺空间并隔离智能手机",
-          "es": "Preparar espacio de jardín y aislar el teléfono",
-          "fr": "Préparer l'espace de jardin & isoler le téléphone",
-          "de": "Gartenbereich vorbereiten & Smartphone isolieren",
-          "pt": "Preparar espaço de jardim e isolar o celular",
-          "id": "Siapkan Area Berkebun & Isolasi Ponsel"
+          "ko": "원예 공간 준비 및 스마트폰 격리"
         },
         "text": {
-          "ko": "작은 화분이나 정원이 있는 공간으로 나갑니다. 흙을 만지는 동안 카톡이나 이메일 알림에 방해받지 않도록 스마트폰을 실내의 방 안이나 가방 속 깊은 곳에 놓아둡니다.",
-          "en": "Go out to a space with small flowerpots or a garden. Place your smartphone deep in an indoor room or bag so you are not interrupted by messages or email notifications while touching the dirt.",
-          "ja": "小さな植木鉢や庭のあるスペースへ移動します。土に触れている間、メッセージやメールの通知に邪魔されないよう、スマートフォンを室内の部屋の中やバッグの奥深くに置いておきます。",
-          "zh": "走到有小花盆或花园的空间。为了在摸土时不受社交软件或邮件通知的打扰，将智能手机放在室内的房间里或包包深处。",
-          "es": "Vaya a un espacio con macetas o jardín. Deje el teléfono dentro de la casa o en su bolso para no ser interrumpido por notificaciones mientras toca la tierra.",
-          "fr": "Allez dans un espace avec des pots ou un jardin. Laissez le téléphone à l'intérieur ou dans votre sac pour ne pas être interrompu par des notifications.",
-          "de": "Gehen Sie in einen Bereich mit Pflanzen. Lassen Sie das Smartphone im Haus oder in der Tasche, um nicht von Benachrichtigungen abgelenkt zu werden.",
-          "pt": "Vá para um espaço com vasos ou jardim. Deixe o celular dentro de casa ou na bolsa para não ser interrompido por notificações enquanto toca a terra.",
-          "id": "Pergilah ke area dengan pot tanaman atau kebun. Letakkan ponsel di dalam ruangan atau di dalam tas agar Anda tidak terganggu oleh notifikasi saat menyentuh tanah."
+          "ko": "작은 화분이나 정원이 있는 공간으로 나갑니다. 흙을 만지는 동안 카톡이나 이메일 알림에 방해받지 않도록 스마트폰을 실내의 방 안이나 가방 속 깊은 곳에 놓아둡니다."
         }
       },
       {
         "name": {
-          "ko": "흙 파기 및 분갈이(물주기) 노동",
-          "en": "Digging Dirt & Repotting (Watering) Work",
-          "ja": "土掘りおよび鉢植えの植え替え（水やり）作業",
-          "zh": "挖土与换盆（浇水）工作",
-          "es": "Cavar tierra y trasplantar (o regar)",
-          "fr": "Creuser la terre et rempoter (ou arroser)",
-          "de": "Erde umgraben & umtopfen (oder gießen)",
-          "pt": "Cavar a terra e transplantar (ou regar)",
-          "id": "Menggali Tanah & Memindahkan Pot (Penyiraman)"
+          "ko": "흙 파기 및 분갈이(물주기) 노동"
         },
         "text": {
-          "ko": "모종삽이나 손으로 흙을 일구어 화분에 꽃 모종을 심거나 분갈이를 진행합니다. 화분이 없다면 식물의 흙을 다듬거나 천천히 물을 주는 단순 반복적인 작업을 개시합니다.",
-          "en": "Tills the soil with a trowel or hands to plant flower seedlings in pots or proceed with repotting. If there is no pot, start simple repetitive work like grooming the plant's soil or watering slowly.",
-          "ja": "移植ゴテや手で土を耕し、鉢に花の苗を植えたり、植え替えを行ったりします。鉢がない場合は、植物の土を整えたり、ゆっくりと水を与えたりする単純で反復的な作業を開始します。",
-          "zh": "用铲子或手翻松泥土，在花盆中种植花苗或进行换盆。如果没有花盆，就开始整理植物的土壤或缓慢浇水等简单重复性工作。",
-          "es": "Mueva la tierra con una pala o con las manos para trasplantar o plantar. Si no tiene plantas para trasplantar, limpie las hojas o riegue lentamente.",
-          "fr": "Remuez la terre avec une truelle ou les mains pour rempoter ou planter. Si vous n'avez pas de plantes à rempoter, nettoyez les feuilles ou arrosez lentement.",
-          "de": "Lockern Sie die Erde mit einer Schaufel oder den Händen auf, um umzutopfen. Wenn Sie nicht umtopfen müssen, säubern Sie die Blätter oder gießen Sie langsam.",
-          "pt": "Mova a terra com uma pá ou com as mãos para transplantar ou plantar. Se não tiver plantas para transplantar, limpe as folhas ou regue lentamente.",
-          "id": "Gemburkan tanah dengan sekop atau tangan untuk menanam bibit di pot atau memindahkannya. Jika tidak ada pot, mulailah merapikan tanah tanaman atau menyiramnya perlahan."
+          "ko": "모종삽이나 손으로 흙을 일구어 화분에 꽃 모종을 심거나 분갈이를 진행합니다. 화분이 없다면 식물의 흙을 다듬거나 천천히 물을 주는 단순 반복적인 작업을 개시합니다."
         }
       },
       {
         "name": {
-          "ko": "촉감과 자연 냄새에 10분 집중",
-          "en": "Focus 10 Minutes on Texture & Natural Scent",
-          "ja": "触感と自然の香りに10分間集中",
-          "zh": "专注于触觉和自然气味10分钟",
-          "es": "Concentrarse 10 minutos en la textura y el olor",
-          "fr": "Se concentrer 10 minutes sur la texture et l'odeur",
-          "de": "Konzentrieren Sie sich 10 Minuten auf Textur und Duft",
-          "pt": "Concentrar-se 10 minutos na textura e no cheiro",
-          "id": "Fokus 10 Menit pada Tekstur & Aroma Alami"
+          "ko": "촉감과 자연 냄새에 10분 집중"
         },
         "text": {
-          "ko": "손가락 끝에 닿는 흙의 서늘함, 흙 알갱이의 감각, 물이 퍼질 때 나는 흙냄새 등 눈앞에 펼쳐진 원초적인 자연의 촉감과 후각적 감각에만 10분간 온 신경을 모아봅니다.",
-          "en": "Focus all your attention for 10 minutes only on the primitive natural touch and olfactory senses in front of you, such as the coolness of the dirt touching your fingertips, the sensation of soil grains, and the smell of soil when water spreads.",
-          "ja": "指先に触れる土の冷たさ、土の粒の感触、水が広がるときに漂う土の香るなど、目の前に広がる原始的な自然の触感と嗅覚的な感覚にのみ、10分間すべての神経を集中させてみます。",
-          "zh": "将所有注意力集中在眼前原始的自然触觉和嗅觉感官上10分钟，例如指尖碰触泥土的凉意、泥土颗粒的质感以及水分扩散时散发出的泥土芬芳。",
-          "es": "Concéntrese durante 10 minutos únicamente en los sentidos táctiles y olfativos, como la frescura de la tierra en sus dedos, su textura y su olor.",
-          "fr": "Concentrez-vous pendant 10 minutes sur les sens tactiles et olfactifs, comme la fraîcheur de la terre, sa texture et son odeur.",
-          "de": "Konzentrieren Sie sich 10 Minuten lang auf die taktilen und olfaktorischen Sinne, wie die Kühle der Erde, ihre Textur und ihren Duft.",
-          "pt": "Concentre-se por 10 minutos apenas nos sentidos táteis e olfativos, como o frescor da terra em seus dedos, sua textura e seu cheiro.",
-          "id": "Fokuskan seluruh perhatian Anda selama 10 menit hanya pada indra peraba dan penciuman alami, seperti kesejukan tanah di ujung jari, teksturnya, dan aromanya."
+          "ko": "손가락 끝에 닿는 흙의 서늘함, 흙 알갱이의 감각, 물이 퍼질 때 나는 흙냄새 등 눈앞에 펼쳐진 원초적인 자연의 촉감과 후각적 감각에만 10분간 온 신경을 모아봅니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "집에 정원이나 마당이 없는데 아파트 실내에서도 가능한가요?",
-          "en": "I don't have a garden or yard at home, is it possible indoors in an apartment?",
-          "ja": "家に庭や敷地がないのですが、マンションの室内でも可能ですか？",
-          "zh": "家里没有花园或院子，在公寓室内也可以吗？",
-          "es": "No tengo jardín o patio, ¿se puede hacer dentro de un departamento?",
-          "fr": "Je n'ai pas de jardin, est-il possible de le faire dans un appartement ?",
-          "de": "Ich habe keinen Garten, ist es auch in einer Wohnung möglich?",
-          "pt": "Não tenho jardim ou quintal, é possível fazer dentro de um apartamento?",
-          "id": "Saya tidak memiliki kebun atau halaman, apakah bisa dilakukan di dalam apartemen?"
+          "ko": "집에 정원이나 마당이 없는데 아파트 실내에서도 가능한가요?"
         },
         "answer": {
-          "ko": "충분히 가능합니다. 베란다나 거실의 작은 화분에 분갈이용 흙을 채우고 작은 허브나 공기 정화 식물을 심는 것만으로도 동일한 촉감 자극과 마이코박테리움 박테리아 접촉 효과를 얻을 수 있습니다. 핵심은 화초의 크기가 아니라 흙과의 물리적인 신체적 교감입니다.",
-          "en": "Yes, absolutely. Just filling potting soil in a small pot on a veranda or living room and planting a small herb or air-purifying plant yields the same tactile stimulation and Mycobacterium bacteria contact effect. The core is the physical connection with the soil, not the size of the plant.",
-          "ja": "十分に可能です。ベランダやリビングの小さな鉢に植え替え用の土を入れ、小さなハーブや空気清浄植物を植えるだけでも、同様の触感刺激とマイコバクテリウム・バクテリアの接触効果を得ることができます。核心は観葉植物の大きさではなく、土との物理的な身体の交感です。",
-          "zh": "完全可以。只需在阳台或客厅的小花盆里填上盆栽土，种植小香草或空气净化植物，就能获得相同的触觉刺激和分枝杆菌接触效果。核心是与土壤的物理身体接触，而不是植物的大小。",
-          "es": "Totalmente. Llenar una maceta pequeña en el balcón o sala con tierra y plantar una hierba pequeña o planta purificadora de aire ofrece el mismo estímulo táctil y contacto bacteriano. Lo importante es la conexión física, no el tamaño de la planta.",
-          "fr": "Tout à fait. Remplir un petit pot sur le balcon avec de la terre et planter une petite herbe ou plante dépolluante offre le même stimulus tactile. L'important est la connexion physique, pas la taille de la plante.",
-          "de": "Absolut. Es reicht aus, einen kleinen Topf auf dem Balkon mit Erde zu füllen und eine Pflanze einzusetzen, um den gleichen taktilen Reiz zu spüren. Wichtig ist der physische Kontakt, nicht die Größe der Pflanze.",
-          "pt": "Totalmente. Encher um vaso pequeno na varanda ou sala com terra e plantar uma erva pequena ou planta purificadora de ar oferece o mesmo estímulo táctil. O importante é a conexão física, não o tamanho da planta.",
-          "id": "Sangat bisa. Cukup mengisi tanah di pot kecil di balkon atau ruang tamu dan menanam tanaman herbal kecil sudah memberikan stimulasi taktil yang sama. Intinya adalah hubungan fisik dengan tanah, bukan ukuran tanaman."
+          "ko": "충분히 가능합니다. 베란다나 거실의 작은 화분에 분갈이용 흙을 채우고 작은 허브나 공기 정화 식물을 심는 것만으로도 동일한 촉감 자극과 마이코박테리움 박테리아 접촉 효과를 얻을 수 있습니다. 핵심은 화초의 크기가 아니라 흙과의 물리적인 신체적 교감입니다."
         }
       },
       {
         "question": {
-          "ko": "맨손으로 만지면 세균 감염 같은 위생 문제가 없을까요?",
-          "en": "Are there hygiene issues like bacterial infection when touching with bare hands?",
-          "ja": "素手で触ると細菌感染などの衛生上の問題はありませんか？",
-          "zh": "用手直接接触会有细菌感染等卫生问题吗？",
-          "es": "¿Hay problemas de higiene al tocar la tierra con las manos descubiertas?",
-          "fr": "Y a-t-il des problèmes d'hygiène à toucher la terre à mains nues ?",
-          "de": "Gibt es Hygieneprobleme, wenn man die Erde mit bloßen Händen berührt?",
-          "pt": "Existem problemas de higiene ao tocar a terra com as mãos desprotegidas?",
-          "id": "Apakah ada masalah higienitas seperti infeksi bakteri saat menyentuh dengan tangan telanjang?"
+          "ko": "맨손으로 만지면 세균 감염 같은 위생 문제가 없을까요?"
         },
         "answer": {
-          "ko": "원예용으로 시판되는 흙은 멸균 처리된 것이 많아 일반 야생의 흙보다 훨씬 안전합니다. 또한 흙 속에 있는 유익균들은 면역력을 기르는 데 오히려 도움이 됩니다. 위생이 염려된다면 얇은 원예용 장갑을 착용한 상태로 진행해도 충분한 아날로그 촉감을 느낄 수 있으며, 작업 후 흐르는 물에 비누로 손을 깨끗이 씻으면 위생 상 아무런 문제가 없습니다.",
-          "en": "Commercially available potting soil is often sterilized, making it much safer than wild soil. In fact, beneficial bacteria in the soil rather help build immunity. If concerned about hygiene, wearing thin gardening gloves still allows enough analog touch. Washing hands cleanly with soap under running water after work resolves any hygiene issues.",
-          "ja": "園芸用として市販されている土は滅菌処理されているものが多く、一般の野生の土よりもはるかに安全です。また、土壌中の有益な細菌は、むしろ免疫力を高めるのに役立ちます。衛生面が気になる場合は、薄い園芸用手袋を着用した状態で行っても十分にアナログな触感を感じることができ、作業後に流水で石鹸を使ってきれいに手を洗えば, 衛生上の問題はまったくありません。",
-          "zh": "市售的园艺土大多经过灭菌处理，比普通的野生土安全得多。此外，泥土中的有益菌反而有助于建立免疫力。如果担心卫生问题，戴着薄的园艺手袋进行操作也同样能感受到足够的模拟触感，工作后用肥皂在流水下洗净双手，在卫生上就不会有任何问题。",
-          "es": "La tierra comercial suele estar esterilizada, siendo segura. De hecho, las bacterias beneficiosas ayudan a fortalecer el sistema inmune. Si le preocupa, use guantes finos de jardinería que permitan sentir la textura y lávese bien las manos con jabón después.",
-          "fr": "La terre commerciale est souvent stérilisée, donc sûre. En fait, les bonnes bactéries aident à renforcer l'immunité. Si cela vous inquiète, portez des gants fins de jardinage et lavez-vous bien les mains après.",
-          "de": "Handelsübliche Blumenerde ist sterilisiert und sicher. Nützliche Bakterien helfen sogar, das Immunsystem zu stärken. Bei Bedenken können Sie dünne Gartenhandschuhe tragen und sich danach gründlich die Hände waschen.",
-          "pt": "A terra comercial costuma ser esterilizada, sendo segura. De fato, as bactérias benéficas ajudam a fortalecer o sistema imunológico. Se estiver preocupado, use luvas finas de jardinagem que permitam sentir a textura e lave bem as mãos com sabão depois.",
-          "id": "Tanah pot komersial sering kali disterilkan, sehingga jauh lebih aman. Faktanya, bakteri bermanfaat dalam tanah justru membantu membangun kekebalan. Jika khawatir, gunakan sarung tangan berkebun yang tipis dan cuci tangan bersih-bersih dengan sabun setelah selesai."
+          "ko": "원예용으로 시판되는 흙은 멸균 처리된 것이 많아 일반 야생의 흙보다 훨씬 안전합니다. 또한 흙 속에 있는 유익균들은 면역력을 기르는 데 오히려 도움이 됩니다. 위생이 염려된다면 얇은 원예용 장갑을 착용한 상태로 진행해도 충분한 아날로그 촉감을 느낄 수 있으며, 작업 후 흐르는 물에 비누로 손을 깨끗이 씻으면 위생 상 아무런 문제가 없습니다."
         }
       }
-    ],
-    "pubDate": "2026-01-14",
-    "updatedDate": "2026-01-14"
+    ]
   }
 }

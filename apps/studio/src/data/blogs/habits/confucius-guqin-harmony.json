@@ -1,218 +1,72 @@
 {
   "confucius-guqin-harmony": {
     "title": {
-      "ko": "마음의 어지러움을 조율하는 음률? 공자의 거문고 수양 루틴",
-      "en": "Tuning the Clutter of Mind? Confucius's Guqin Contemplation Routine",
-      "ja": "心の乱れを調律する音律？孔子の古琴修養ルーティン",
-      "zh": "调和心绪的旋律？孔子的古琴修养常规",
-      "es": "¿Afinar el desorden de la mente? La rutina de contemplación con el Guqin de Confucio",
-      "fr": "Accorder le désordre de l'esprit ? La routine de contemplation avec le Guqin de Confucius",
-      "de": "Den Geist stimmen? Konfuzius' Guqin-Meditationsroutine",
-      "pt": "Afinar a desordem da mente? A rotina de contemplação com o Guqin de Confúcio",
-      "id": "Menyelaraskan Kekacauan Pikiran? Rutinitas Kontemplasi Guqin Konfusius"
+      "ko": "마음의 어지러움을 조율하는 음률? 공자의 거문고 수양 루틴"
     },
     "description": {
-      "ko": "동양 사상의 위대한 스승 공자. 어지러운 난세 속에서도 매일 현악기를 연주하며 감정을 다스렸던 그의 '금(琴) 수양법'의 음악치료적 원리와 3단계 마음 조율 루틴을 소개합니다.",
-      "en": "Confucius, the great teacher of Eastern thought. Discover the music-therapy principles and 3-step mind-tuning routine of his 'Guqin contemplation', which calmed his emotions during chaotic times.",
-      "ja": "東洋思想の偉大な師、孔子。混乱の乱世の中でも毎日弦楽器を奏でて感情を整えた彼の「琴修養法」の音楽療法的な原理と3ステップの心調律ルーティンを紹介します。",
-      "zh": "东方思想的伟大导师孔子。介绍他在混乱的乱世中每天弹奏弦乐以调节情绪的“琴修养法”的音乐治疗原理和三步调节心绪常规。",
-      "es": "Confucio, el gran maestro de la filosofía oriental. Descubra los principios de la musicoterapia de su 'contemplación con el Guqin' para calmar la mente, y una guía práctica de 3 pasos.",
-      "fr": "Confucius, le grand maître de la philosophie orientale. Découvrez les principes de la musicothérapie de sa 'contemplation avec le Guqin' pour apaiser l'esprit, et un guide pratique en 3 étapes.",
-      "de": "Konfuzius, der große Lehrer des östlichen Denkens. Entdecken Sie die musiktherapeutischen Prinzipien seiner 'Guqin-Meditation' zur Beruhigung des Geistes und eine praktische 3-Schritte-Anleitung.",
-      "pt": "Confúcio, o grande mestre da filosofia oriental. Descubra os princípios da musicoterapia de sua 'contemplação com o Guqin' para acalmar a mente, e um guia prático em 3 passos.",
-      "id": "Konfusius, guru besar pemikiran Timur. Temukan prinsip-prinsip terapi musik dari 'kontemplasi Guqin' untuk menenangkan pikiran, dan panduan praktis 3 langkah."
+      "ko": "동양 사상의 위대한 스승 공자. 어지러운 난세 속에서도 매일 현악기를 연주하며 감정을 다스렸던 그의 '금() 수양법'의 음악치료적 원리와 3단계 마음 조율 루틴을 소개합니다."
     },
     "authority": {
-      "ko": "논어(論語), 사기(史記) 공자세가 및 Journal of Music Therapy 학술지",
-      "en": "The Analects, Shiji (Records of the Grand Historian) & Journal of Music Therapy",
-      "ja": "論語、史記「孔子世家」および学術誌「Journal of Music Therapy」",
-      "zh": "《论语》、《史记·孔子世家》与学术期刊《Journal of Music Therapy》",
-      "es": "Las Analectas, Shiji (Registros del Gran Historiador) y revista Journal of Music Therapy",
-      "fr": "Les Entretiens de Confucius, Shiji & revue Journal of Music Therapy",
-      "de": "Die Analekten, Shiji (Aufzeichnungen des Chronisten) & Fachzeitschrift Journal of Music Therapy",
-      "pt": "As Analectas, Shiji (Registros do Historiador) & revista Journal of Music Therapy",
-      "id": "Analek Konfusius, Catatan Sejarawan Agung (Shiji) & Jurnal Journal of Music Therapy"
+      "ko": "공자 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "유교의 창시자이자 2천 년 넘게 동양의 사상적 기틀을 지배해 온 역사상 가장 위대한 철학자, 공자. 제후국들을 돌아다니며 위협과 핍박을 받던 14년간의 고단한 방랑길 속에서도 그가 결코 도덕적 품위와 정신적 평정을 잃지 않을 수 있었던 비결은 무엇일까요? 공자는 방랑 중에도 늘 거문고(Guqin)를 휴대하며 매일 연주하고 시를 노래했습니다. 그에게 음악은 유희가 아니라, 현악기의 줄을 세밀하게 조율하듯 내면의 흐름을 조율하는 격조 높은 수양법이었습니다. 오늘 BuildSelf에서는 공자의 '거문고 조율' 루틴의 음악치료적 원리와 현대적 정서 조율 루틴을 소개합니다.",
-      "en": "Confucius, the founder of Confucianism and the most influential philosopher who shaped Eastern thought for over two millennia. During his arduous 14-year exile, facing threats and persecution while traveling through various states, what was the secret behind maintaining his moral dignity and spiritual peace? Confucius always carried a Guqin (string instrument) even during his travels, playing it and singing poetry every day. For him, music was not entertainment, but a noble method of self-cultivation, tuning his inner flow just as he tuned the strings of the instrument. Today, BuildSelf introduces the music-therapy principles and modern emotional tuning routine of Confucius's 'Guqin tuning'.",
-      "ja": "この歴史的習慣の実践において： 2 , . 14 ? (Guqin) . , . BuildSelf ' ' .",
-      "zh": "在这一历史性惯例的实践中： 2 , . 14 ? (Guqin) . , . BuildSelf ' ' .",
-      "es": "Confucio, el fundador del confucianismo y el filósofo más influyente que dio forma al pensamiento oriental. Durante su arduo exilio de 14 años, enfrentando amenazas mientras viajaba por varios estados, ¿cuál fue el secreto para mantener su dignidad moral y paz espiritual? Confucio siempre llevaba un Guqin (instrumento de cuerda), tocándolo y cantando poesía todos los días. Para él, la música no era entretenimiento, sino un método noble de autocultivo, afinando su flujo interno tal como afinaba las cuerdas. Hoy, BuildSelf presenta los principios de la musicoterapia y la rutina moderna de la 'afinación del Guqin' de Confucio.",
-      "fr": "Confucius, le fondateur du confucianisme et le philosophe le plus influent de la pensée orientale. Durant ses 14 années d'exil difficile, faisant face aux menaces alors qu'il voyageait à travers divers États, quel était le secret pour maintenir sa dignité morale et sa paix spirituelle ? Confucius portait toujours un Guqin (instrument à cordes), en jouant et en chantant des poèmes chaque jour. Pour lui, la musique n'était pas un divertissement, mais une méthode noble d'auto-culture, accordant son flux intérieur comme il accordait les cordes. Aujourd'hui, BuildSelf présente les principes de la musicothérapie et la routine moderne d''accordage du Guqin' de Confucius.",
-      "de": "Konfuzius, der Begründer des Konfuzianismus und der einflussreichste Philosoph des östlichen Denkens. Was war das Geheimnis, dass er während seines beschwerlichen 14-jährigen Exils inmitten von Bedrohungen seine moralische Würde und seinen seelischen Frieden bewahrte? Konfuzius trug auch auf Reisen immer eine Guqin (Saiteninstrument) bei sich, spielte sie und sang täglich Gedichte. Für ihn war Musik keine Unterhaltung, sondern eine edle Methode der Selbstkultivierung, bei der er seinen inneren Fluss stimmte, so wie er die Saiten stimmte. Heute stellt BuildSelf die musiktherapeutischen Prinzipien und die moderne emotionale Stimmungsroutine von Konfuzius' 'Guqin-Stimmen' vor.",
-      "pt": "Confúcio, o fundador do confucionismo e o filósofo mais influente que moldou o pensamento oriental. Durante seu árduo exílio de 14 anos, enfrentando ameaças enquanto viajava por vários estados, qual era o segredo para manter sua dignidade moral e paz espiritual? Confúcio sempre carregava um Guqin (instrumento de cordas), tocando-o e cantando poesia todos os dias. Para ele, a música não era entretenimento, mas um método nobre de autocultivo, afinando seu fluxo interno tal como afinava as cordas. Hoje, o BuildSelf apresenta os princípios da musicoterapia e a rotina moderna de 'afinação do Guqin' de Confúcio.",
-      "id": "Konfusius, pendiri Konfusianisme dan filsuf paling berpengaruh yang membentuk pemikiran Timur selama lebih dari dua milenium. Selama 14 tahun pengasingan yang sulit, menghadapi ancaman saat bepergian melalui berbagai negara bagian, apa rahasia di balik menjaga martabat moral dan kedamaian spiritualnya? Konfusius selalu membawa Guqin (instrumen senar) bahkan selama perjalanannya, memainkannya dan menyanyikan puisi setiap hari. Baginya, musik bukanlah hiburan, melainkan metode luhur kultivasi diri, menyelaraskan aliran batinnya seperti menyelaraskan senar instrumen. Hari ini, BuildSelf memperkenalkan prinsip-prinsip terapi musik dan rutinitas penyelarasan emosi modern dari 'penyelarasan Guqin' Konfusius."
+      "ko": "\"마음이 맑아지지 않을 때 현을 타라. 악기를 조율하는 것은 곧 내 마음을 조율하는 것이다.\" 🎼\n\n유교의 창시자이자 2천 년 넘게 동양의 사상적 기틀을 지배해 온 역사상 가장 위대한 철학자, 공자. 제후국들을 돌아다니며 위협과 핍박을 받던 14년간의 고단한 방랑길 속에서도 그가 결코 도덕적 품위와 정신적 평정을 잃지 않을 수 있었던 비결은 무엇일까요?\n\n공자는 방랑 중에도 늘 거문고(Guqin)를 휴대하며 매일 연주하고 시를 노래했습니다. 그에게 음악은 단순한 유희나 오락이 아니라, 현악기의 줄을 정밀하게 고르고 조율하는 과정(Tuning)을 통해 헝클어진 내면의 감정을 차분히 정돈하고 마음의 고요를 지켜내는 격조 높은 마음 다스림(수양)이었습니다.\n\n오늘 포스트에서는 공자의 '거문고 조율' 루틴의 음악치료적 원리와 현대적으로 재구성한 마음 조율 루틴을 소개합니다."
     },
     "whyTitle": {
-      "ko": "현의 조율과 능동적 청각 몰입의 이완 기제",
-      "en": "The Relaxation Mechanism of String Tuning & Active Auditory Immersion",
-      "ja": "弦の調律と能動的な聴覚的没頭のリラックス効果",
-      "zh": "琴弦微调与主动听觉沉浸的放松机制",
-      "es": "El mecanismo de relajación de la afinación y la inmersión auditiva activa",
-      "fr": "Le mécanisme de relaxation de l'accordage et de l'immersion auditive active",
-      "de": "Der Entspannungsmechanismus von Saitenstimmen & aktivem auditiven Eintauchen",
-      "pt": "O mecanismo de relaxamento da afinação e da imersão auditiva ativa",
-      "id": "Mekanisme Relaksasi Penyetelan Senar & Imersi Auditorik Aktif"
+      "ko": "현의 조율과 능동적 청각 몰입의 이완 기제"
     },
     "whyDesc": {
-      "ko": "일상의 복잡한 정보와 스트레스는 뇌의 교감신경계를 흥분시켜 심박을 빠르게 하고 시야를 좁힙니다. 뇌과학에 따르면, 악기를 미세하게 조율하고 단순한 음률을 반복 연주하는 <strong>'능동적 청각 몰입'</strong>은 강력한 이완 기제를 제공합니다. 악기 줄을 튕기며 물리적인 주파수를 맞추는 고도의 미세 조정 작업은 뇌를 즉각적으로 자율신경계(ANS)의 부교감 신경 활성화 상태로 이끌어 심박수(HRV)를 차분하게 가라앉힙니다. 또한, 악기 연주 중 손끝의 미세한 근육 운동과 소리의 공명이 주는 피드백은 잡념을 강제로 차단하고 인지 자원을 즉시 회복시킵니다.",
-      "en": "Complex daily information and stress excite the brain's sympathetic nervous system, accelerating heart rate and narrowing focus. Neurologically, <strong>'active auditory immersion'</strong>, which involves finely tuning an instrument and playing simple melodies repetitively, provides a powerful relaxation mechanism. The fine-tuning work of matching physical frequencies by plucking strings instantly leads the brain to a parasympathetic state of the autonomous nervous system (ANS), calming heart rate variability (HRV). Furthermore, feedback from fine muscle movements in fingertips and the resonance of sound during play blocks distracting thoughts and immediately restores cognitive resources.",
-      "ja": "日常の複雑な情報とストレスは、脳の交感神経系を興奮させ、心拍数を上げ、視野を狭めます。脳科学によると、楽器を細かく調律し、単純な音律を繰り返し演奏する<strong>「能動的聴覚的没頭」</strong>は、強力なリラックス効果を提供します。弦を弾きながら物理的な周波数を合わせる高度な微調整作業は、脳を即座に自律神経系（ANS）の副交感神経活性化状態へと導き、心拍変動（HRV）を穏やかに沈めます。また、演奏中の指先の微細な筋肉運動と音の共鳴が与えるフィードバックは、雑念を強制的に遮断し、認知資源を即座に回復させます。",
-      "zh": "日常复杂的信息和压力会兴奋大脑的交感神经系统，使心率加快，视野变窄。根据脑科学研究，微调乐器并重复弹奏简单的旋律这种<strong>“主动听觉沉浸”</strong>提供了强大的放松机制。通过拨动琴弦来匹配物理频率的高精度微调操作，能立即引导大脑进入自主神经系统（ANS）的副交感神经激活状态，使心率变异性（HRV）平静下来。此外，弹奏过程中指尖的细微肌肉运动和声音共振带来的反馈，能强制阻断杂念，并立即恢复认知资源。",
-      "es": "El estrés y la información diaria excitan el sistema simpático, acelerando el corazón y limitando el enfoque. Científicamente, la <strong>'inmersión auditiva activa'</strong>, al afinar y tocar un instrumento, ofrece un poderoso mecanismo de relajación. Ajustar las frecuencias de las cuerdas induce un estado parasimpático en el sistema autónomo (SNA), calmando la frecuencia cardíaca (VFC) y restaurando los recursos cognitivos al centrarse en el tacto y el sonido.",
-      "fr": "Le stress excite le système sympathique, accélérant le cœur et limitant l'attention. Scientifiquement, l'<strong>'immersion auditive active'</strong>, en accordant et jouant d'un instrument, offre un mécanisme de relaxation. Ajuster les cordes induit un état parasympathique dans le système autonome (SNA), calmant le rythme cardiaque (VFC) et restaurant les ressources cognitives en se concentrant sur le son.",
-      "de": "Stress erregt das sympathische Nervensystem, beschleunigt den Herzschlag und verengt den Fokus. Neurowissenschaftlich bietet das <strong>'aktive auditive Eintauchen'</strong> durch Stimmen und Spielen eines Instruments einen Entspannungsmechanismus. Das Anpassen der Saiten führt zu einem parasympathischen Zustand des autonomen Nervensystems (ANS), beruhigt die Herzfrequenzvariabilität (HRV) und baut ablenkende Gedanken ab.",
-      "pt": "O estresse e a informação diária excitam o sistema simpático, acelerando o coração e limitando o foco. Cientificamente, a <strong>'imersão auditiva ativa'</strong>, ao afinar e tocar um instrumento, oferece um poderoso mecanismo de relaxamento. Ajustar as frequências das cordas induz um estado parassimpático no sistema autônomo (SNA), acalmando a frequência cardíaca (VFC) e restaurando os recursos cognitivos ao focar no toque e no som.",
-      "id": "Stres harian merangsang sistem saraf simpatik, mempercepat detak jantung dan mempersempit fokus. Secara neurologis, <strong>'imersi auditorik aktif'</strong>, dengan menyetem dan memainkan instrumen, memberikan mekanisme relaksasi yang kuat. Menyetel senar merangsang keadaan parasimpatis pada sistem saraf otonom (ANS), menenangkan variabilitas detak jantung (HRV) dan memulihkan sumber daya kognitif."
-    },
-    "cautionDesc": {
-      "ko": "소리의 감각적 힐링 효과를 누리기 위해서는 음의 오차를 귀로 구별하고 조율하는 과정에만 몰입해야 합니다. 튜닝기 모니터를 시각적으로만 보며 맞추기보다, 줄을 퉁기고 울려 나오는 소리의 진동과 파동을 직접 몸으로 느껴보세요. 눈을 감고 미세하게 변하는 음높이에만 신경을 모을 때 뇌는 인지 제어를 멈추고 자율신경계가 즉각 안정을 찾습니다.",
-      "en": "To enjoy the sensory healing effect of sound, you must immerse yourself only in the process of distinguishing and tuning pitch errors with your ears. Rather than just visually looking at a tuner monitor, pluck the strings and directly feel the vibrations and waves of the resounding sound with your body. When you close your eyes and focus only on the finely changing pitch, the brain stops cognitive control and the autonomous nervous system instantly stabilizes.",
-      "ja": "音の感覚的なヒーリング効果を享受するためには、音の誤差を耳で聞き分け、調律する過程にのみ没頭する必要があります。チューナーの画面を目で見るだけで合わせるのではなく、弦を弾いて響き渡る音の振動と波動を直接身体で感じてみてください。目を閉じ、微細に変化する音の高さにのみ意識を集中させるとき、脳は認知制御を停止し、自律神経系が即座に安定します。",
-      "zh": "为了享受声音带来的感官疗愈效果，你必须完全沉浸在用耳朵分辨和微调音调误差的过程中。与其只是用眼睛看着调音器屏幕去对音，不如直接用身体去感受拨动琴弦时发出的声波和共振。当你闭上眼睛，只专注于微小的音高变化时，大脑就会停止认知控制，自主神经系统就会立即恢复稳定。",
-      "es": "Para disfrutar del efecto terapéutico, concéntrese en distinguir el tono con sus oídos. En lugar de mirar fijamente una pantalla de afinación, pulse las cuerdas y sienta la vibración física con su cuerpo. Cierre los ojos y concéntrese únicamente en el tono para estabilizar el sistema nervioso.",
-      "fr": "Pour profiter de l'effet thérapeutique, concentrez-vous sur la distinction de la note avec vos oreilles. Au lieu de regarder un écran d'accordage, pincez les cordes et sentez la vibration avec votre corps. Fermez les yeux et concentrez-vous uniquement sur la note.",
-      "de": "Um den therapeutischen Effekt zu genießen, konzentrieren Sie sich darauf, den Ton mit den Ohren zu unterscheiden. Anstatt auf einen Bildschirm zu schauen, zupfen Sie die Saiten und spüren Sie die physische Vibration. Schließen Sie die Augen und konzentrieren Sie sich nur auf den Ton.",
-      "pt": "Para desfrutar do efeito terapêutico, concentre-se em distinguir o tom com seus ouvidos. Em vez de olhar para uma tela de afinação, toque as cordas e sinta a vibração física com seu corpo. Feche os olhos e concentre-se apenas no tom para estabilizar o sistema nervoso.",
-      "id": "Untuk menikmati efek terapeutik, fokuslah pada membedakan nada dengan telinga Anda. Daripada hanya melihat layar penyetem, petik senar dan rasakan getaran fisiknya dengan tubuh Anda. Pejamkan mata dan fokuslah hanya pada nada."
+      "ko": "일상의 복잡한 정보와 스트레스는 뇌의 교감신경계를 흥분시켜 심박을 빠르게 하고 시야를 좁힙니다. 뇌과학에 따르면, 악기를 미세하게 조율하고 단순한 음률을 반복 연주하는 <strong>'능동적 청각 몰입'</strong>은 강력한 이완 기제를 제공합니다. 악기 줄을 튕기며 물리적인 주파수를 맞추는 고도의 미세 조정 작업은 뇌를 즉각적으로 자율신경계(ANS)의 부교감 신경 활성화 상태로 이끌어 심박수(HRV)를 차분하게 가라앉힙니다. 또한, 악기 연주 중 손끝의 미세한 근육 운동과 소리의 공명이 주는 피드백은 잡념을 강제로 차단하고 인지 자원을 즉시 회복시킵니다."
     },
     "cautionTitle": {
-      "ko": "시각적 모니터가 아닌, 파동의 감각을 귀로 직접 느끼며 조율하세요",
-      "en": "Tune by Directly Feeling the Wave Senses with Your Ears, Not a Visual Monitor",
-      "ja": "視覚的なモニターではなく、波動の感覚を耳で直接感じながら調律してください",
-      "zh": "请用耳朵直接感受声波的感觉来进行微调，而不是看着视觉调音器",
-      "es": "Afine sintiendo directamente el sonido con sus oídos, no con un afinador digital",
-      "fr": "Accordez en sentant le son avec vos oreilles, pas avec un accordeur numérique",
-      "de": "Stimmen Sie, indem Sie die Schallwellen mit den Ohren fühlen, nicht über einen Bildschirm",
-      "pt": "Afine sentindo o som diretamente com seus ouvidos, não com um afinador digital",
-      "id": "Setem dengan Merasakan Suara Langsung Melalui Telinga Anda, Bukan Monitor Visual"
+      "ko": "시각적 모니터가 아닌, 파동의 감각을 귀로 직접 느끼며 조율하세요"
+    },
+    "cautionDesc": {
+      "ko": "소리의 감각적 힐링 효과를 누리기 위해서는 음의 오차를 귀로 구별하고 조율하는 과정에만 몰입해야 합니다. 튜닝기 모니터를 시각적으로만 보며 맞추기보다, 줄을 퉁기고 울려 나오는 소리의 진동과 파동을 직접 몸으로 느껴보세요. 눈을 감고 미세하게 변하는 음높이에만 신경을 모을 때 뇌는 인지 제어를 멈추고 자율신경계가 즉각 안정을 찾습니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "휴대폰 알림 차단 및 연주 세팅",
-          "en": "Block Phone Notifications & Set Up Playing",
-          "ja": "携帯電話の通知遮断および演奏セッティング",
-          "zh": "屏蔽手机通知并设置弹奏",
-          "es": "Bloquear notificaciones del teléfono y prepararse",
-          "fr": "Bloquer les notifications & se préparer à jouer",
-          "de": "Handy-Benachrichtigungen blockieren & Vorbereiten",
-          "pt": "Bloquear notificações do celular e preparar-se",
-          "id": "Blokir Notifikasi Ponsel & Siapkan Alat Musik"
+          "ko": "휴대폰 알림 차단 및 연주 세팅"
         },
         "text": {
-          "ko": "기기 알림을 완전히 차단한 후, 다루기 쉬운 현악기(칼림바, 우쿨렐레, 어쿠스틱 기타 등)를 준비하여 조용한 사색의 공간에 앉습니다.",
-          "en": "After completely blocking device notifications, prepare an easy-to-play string instrument (kalimba, ukulele, acoustic guitar, etc.) and sit in a quiet space of contemplation.",
-          "ja": "スマートフォンの通知を完全に遮断した後、扱いやすい弦楽器（カリンバ、ウクレレ、アコースティックギターなど）を準備し、静かな思索のスペースに座ります。",
-          "zh": "完全屏蔽设备通知后，准备一把易于弹奏的弦乐器（卡林巴琴、尤克里里、民谣吉他等），坐在安静的思考空间里。",
-          "es": "Bloquee las notificaciones. Prepare un instrumento de cuerda fácil de tocar (ukelele, guitarra, kalimba) y siéntese en un espacio tranquilo.",
-          "fr": "Bloquez les notifications. Préparez un instrument à cordes facile (ukulélé, guitare, kalimba) et asseyez-vous dans un endroit calme.",
-          "de": "Blockieren Sie Benachrichtigungen. Bereiten Sie ein Saiteninstrument vor (Ukulele, Gitarre, Kalimba) und setzen Sie sich an einen ruhigen Ort.",
-          "pt": "Bloqueie as notificações. Prepare um instrumento de cordas fácil (ukulele, violão, kalimba) e sente-se em um espaço silencioso.",
-          "id": "Blokir notifikasi ponsel sepenuhnya. Siapkan instrumen senar yang mudah dimainkan (ukulele, gitar, kalimba) dan duduklah di area tenang."
+          "ko": "기기 알림을 완전히 차단한 후, 다루기 쉬운 현악기(칼림바, 우쿨렐레, 어쿠스틱 기타 등)를 준비하여 조용한 사색의 공간에 앉습니다."
         }
       },
       {
         "name": {
-          "ko": "현의 파동을 느끼며 미세 조율",
-          "en": "Fine-Tuning While Feeling the Vibration of Strings",
-          "ja": "弦の波動を感じながら微調律",
-          "zh": "感受琴弦声波并进行微调",
-          "es": "Afinar sintiendo la vibración de las cuerdas",
-          "fr": "Accorder en sentant la vibration des cordes",
-          "de": "Feinstimmen, während Sie die Saitenvibration spüren",
-          "pt": "Afinar sentindo a vibração das cordas",
-          "id": "Menyetem Sembari Merasakan Getaran Senar"
+          "ko": "현의 파동을 느끼며 미세 조율"
         },
         "text": {
-          "ko": "눈을 감고 줄을 조심스럽게 하나씩 튕기며 울려 나오는 파동을 귀로 유심히 듣습니다. 음이 흐트러진 부분을 천천히 조율하는 과정 자체에 고도로 집중합니다.",
-          "en": "Close your eyes and gently pluck the strings one by one, listening carefully to the resounding wave with your ears. Focus highly on the process itself of slowly tuning the flat notes.",
-          "ja": "目を閉じて弦を一本ずつ慎重に弾き、響き渡る波動を耳で注意深く聴きます。音が乱れている部分をゆっくりと調律する過程そのものに高度に集中します。",
-          "zh": "闭上眼睛，小心翼翼地逐一拨动琴弦，用耳朵仔细聆听发出的声波。高度专注于慢慢调整走音部分的调音过程本身。",
-          "es": "Cierre los ojos y pulse las cuerdas una a una, escuchando atentamente el sonido. Concéntrese en el proceso de afinar lentamente las notas desafinadas.",
-          "fr": "Fermez les yeux et pincez les cordes une à une, en écoutant attentivement le son. Concéntrez-vous sur le processus d'accordage des notes fausses.",
-          "de": "Schließen Sie die Augen und zupfen Sie die Saiten einzeln, während Sie dem Klang lauschen. Konzentrieren Sie sich auf das Stimmen der Töne.",
-          "pt": "Feche os ojos e toque as cordas uma a uma, ouvindo atentamente o som. Concentre-se no processo de afinar lentamente as notas desafinadas.",
-          "id": "Pejamkan mata dan petik senar satu per satu secara perlahan, dengarkan getarannya dengan seksama. Fokuslah pada proses menyetem nada yang sumbang."
+          "ko": "눈을 감고 줄을 조심스럽게 하나씩 튕기며 울려 나오는 파동을 귀로 유심히 듣습니다. 음이 흐트러진 부분을 천천히 조율하는 과정 자체에 고도로 집중합니다."
         }
       },
       {
         "name": {
-          "ko": "단순 음률 반복 연주 및 청각 몰입",
-          "en": "Repetitive Play of Simple Melodies & Auditory Immersion",
-          "ja": "単純な音律の繰り返し演奏と聴覚的没頭",
-          "zh": "重复弹奏简单旋律与听觉沉浸",
-          "es": "Tocar melodías simples e inmersión auditiva",
-          "fr": "Jouer des mélodies simples & immersion auditive",
-          "de": "Wiederholtes Spielen einfacher Melodien & auditive Immersion",
-          "pt": "Tocar melodias simples e imersão auditiva",
-          "id": "Memainkan Nada Sederhana Secara Berulang & Imersi Auditorik"
+          "ko": "단순 음률 반복 연주 및 청각 몰입"
         },
         "text": {
-          "ko": "조율을 끝낸 뒤, 아주 단순한 동요의 멜로디나 아르페지오 패턴을 일정한 박자로 반복해서 연주합니다. 소리의 잔향과 손가락의 신체적 촉감에만 몰입합니다.",
-          "en": "After tuning, repeatedly play a very simple children's song melody or arpeggio pattern in a steady tempo. Immerse yourself only in the resonance of sound and the physical touch of fingers.",
-          "ja": "調律を終えた後、ごく簡単な童謡のメロディやアルペジオパターンを一定のテンポで繰り返し演奏します。音の残響と指の身体的な触感にのみ没頭します。",
-          "zh": "调完音后，以恒定的节拍重复弹奏非常简单的童谣旋律或琶音模式。只沉浸在声音的共鸣和手指的物理触觉中。",
-          "es": "Una vez afinado, toque una melodía muy simple o un patrón de arpegio a un ritmo constante. Concéntrese solo en la resonancia y el tacto físico.",
-          "fr": "Une fois accordé, jouez une mélodie très simple ou un arpège à un rythme régulier. Concentrez-vous uniquement sur la résonance et le toucher.",
-          "de": "Spielen Sie nach dem Stimmen eine einfache Melodie oder ein Arpeggio-Muster in konstantem Tempo. Konzentrieren Sie sich nur auf den Nachhall und das Gefühl.",
-          "pt": "Uma vez afinado, toque uma melodia muito simples ou um padrão de arpejo em um ritmo constante. Concentre-se apenas na ressonância e no toque físico.",
-          "id": "Setelah disetem, mainkan melodi sederhana atau pola arpeggio dengan tempo konstan secara berulang. Hanyutkan diri Anda hanya dalam resonansi suara dan sentuhan fisik."
+          "ko": "조율을 끝낸 뒤, 아주 단순한 동요의 멜로디나 아르페지오 패턴을 일정한 박자로 반복해서 연주합니다. 소리의 잔향과 손가락의 신체적 촉감에만 몰입합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "악기를 한 번도 배워본 적이 없는 초보자도 가능한가요?",
-          "en": "Is it possible for absolute beginners who have never learned an instrument?",
-          "ja": "楽器を一度も習ったことのない初心者でも可能ですか？",
-          "zh": "从来没有学过乐器的初学者也可以吗？",
-          "es": "¿Es posible para principiantes absolutos que nunca han aprendido un instrumento?",
-          "fr": "Est-il possible pour des débutants complets d'en faire ?",
-          "de": "Ist es für Anfänger möglich, die noch nie ein Instrument gelernt haben?",
-          "pt": "É possível para iniciantes absolutos que nunca aprenderam um instrumento?",
-          "id": "Apakah ini mungkin bagi pemula yang belum pernah mempelajari alat musik?"
+          "ko": "악기를 한 번도 배워본 적이 없는 초보자도 가능한가요?"
         },
         "answer": {
-          "ko": "당연히 가능합니다. 본 루틴의 목적은 화려한 연주 기술의 습득이 아닌, 악기 조율과 단순 음의 튕김을 통한 '청각적 신경 안정'에 있습니다. 줄이 단 4개뿐인 우쿨렐레나 금속 건반을 두드리는 칼림바처럼 10분 만에 음을 맞추고 튕길 수 있는 쉬운 악기로 시작하셔도 충분한 이완 효과를 얻을 수 있습니다.",
-          "en": "Yes, of course. The purpose of this routine is not to acquire brilliant performance techniques, but to achieve 'auditory nerve stabilization' through tuning and simple plucking. Starting with easy instruments like the ukulele, which has only 4 strings, or the kalimba, which plucks metal keys, is enough to yield the relaxation effect.",
-          "ja": "もちろん可能です。このルーティンの目的は、華麗な演奏技術の習得ではなく、楽器の調律と単純な音の弾きを通じて「聴覚的な神経の安定」を得ることにあります。弦が4本しかないウクレレや、金属の鍵盤をたたくカリンバのように、10分で調律して音を出せる簡単な楽器から始めても、十分なリラックス効果が得られます。",
-          "zh": "当然可以。此常规的目的不是掌握华丽的演奏技巧，而是通过调音和简单的拨弦来实现“听觉神经稳定”。即使是从只有4根弦的尤克里里或敲击金属键的卡林巴琴这种可以在10分钟内对好音并拨动的简单乐器开始，也完全可以达到放松的效果。",
-          "es": "Por supuesto. El objetivo no es adquirir técnicas complejas, sino lograr la estabilidad nerviosa a través de la afinación y el sonido simple. Instrumentos fáciles como el ukelele o la kalimba son excelentes para comenzar.",
-          "fr": "Bien sûr. Le but n'est pas de maîtriser des techniques complexes, mais d'apaiser le système nerveux par l'accordage et des sons simples. Des instruments faciles comme le ukulélé ou la kalimba sont parfaits pour débuter.",
-          "de": "Natürlich. Ziel ist nicht das Erlernen schwieriger Techniken, sondern die Beruhigung des Nervensystems durch das Stimmen und einfache Töne. Einfache Instrumente wie Ukulele oder Kalimba eignen sich hervorragend für den Einstieg.",
-          "pt": "Com certeza. O objetivo não é adquirir técnicas complexas, mas obter estabilidade nervosa através da afinação e do som simples. Instrumentos fáceis como o ukulele ou a kalimba são excelentes para começar.",
-          "id": "Tentu saja bisa. Tujuan rutinitas ini bukan mempelajari teknik bermain musik yang rumit, melainkan mencapai 'stabilisasi saraf pendengaran' melalui penyetelan dan pemetikan sederhana. Alat musik mudah seperti ukulele atau kalimba sangat bagus untuk memulai."
+          "ko": "당연히 가능합니다. 본 루틴의 목적은 화려한 연주 기술의 습득이 아닌, 악기 조율과 단순 음의 튕김을 통한 '청각적 신경 안정'에 있습니다. 줄이 단 4개뿐인 우쿨렐레나 금속 건반을 두드리는 칼림바처럼 10분 만에 음을 맞추고 튕길 수 있는 쉬운 악기로 시작하셔도 충분한 이완 효과를 얻을 수 있습니다."
         }
       },
       {
         "question": {
-          "ko": "전자 튜닝기 앱을 사용하는 것도 허용되나요?",
-          "en": "Is it allowed to use electronic tuner apps?",
-          "ja": "電子チューナーアプリを使用しても良いですか？",
-          "zh": "允许使用电子调音器APP吗？",
-          "es": "¿Se permite usar aplicaciones de afinación electrónica?",
-          "fr": "Est-il permis d'utiliser des applications d'accordage électronique ?",
-          "de": "Ist es erlaubt, elektronische Stimmgeräte-Apps zu verwenden?",
-          "pt": "É permitido usar aplicativos de afinação eletrônica?",
-          "id": "Apakah boleh menggunakan aplikasi penyetem elektronik?"
+          "ko": "전자 튜닝기 앱을 사용하는 것도 허용되나요?"
         },
         "answer": {
-          "ko": "조율을 돕기 위해 앱을 켜두는 것은 좋지만, 스마트폰 화면을 주시하기보다 소리에 귀를 기울여야 합니다. 앱을 켠 상태로 화면은 살짝 곁눈질만 하고, 손끝의 튕김과 악기 통의 공명이 주는 울림에 청각의 주의를 집중하려 노력해야 뇌의 피로를 유발하는 시각적 인지 모드가 해제됩니다.",
-          "en": "It is fine to keep the app on to help tune, but you should listen with your ears rather than staring at the smartphone screen. Turn the screen slightly away, look only with side eyes, and try to focus auditory attention on the plucks of fingertips and resonance of the instrument body to turn off the visual cognitive mode that causes brain fatigue.",
-          "ja": "調律を助けるためにアプリを起動しておくのは良いですが、スマートフォンの画面を凝視するよりは音に耳を傾けるべきです。アプリを起動した状態で画面は軽く横目で見る程度にし、指先の弾きと楽器の共鳴がもたらす響きに聴覚の注意を集中させるよう努めることで、脳の疲労を誘発する視覚的な認知モードが解除されます。",
-          "zh": "为了辅助调音而开启APP是可以的，但是应该用耳朵听，而不是盯着手机屏幕。建议把屏幕移开一点，只用余光轻轻扫视，并努力将听觉注意力集中在指尖的拨动和琴体共鸣产生的回响上，这样才能解除导致大脑疲劳的视觉认知模式。",
-          "es": "Puede usar la aplicación para orientarse, pero concéntrese en escuchar en lugar de mirar la pantalla. Mire la pantalla solo de reojo y enfoque su atención en la vibración física y el sonido del cuerpo del instrumento para desconectar el modo cognitivo visual.",
-          "fr": "Vous pouvez utiliser l'application pour vous guider, mais concentrez-vous sur l'écoute plutôt que sur l'écran. Regardez l'écran du coin de l'œil et concentrez-vous sur le son et la vibration de l'instrument.",
-          "de": "Sie können die App zur Orientierung nutzen, sollten sich aber auf das Hören konzentrieren, statt auf den Bildschirm zu starren. Schauen Sie nur flüchtig auf das Display und konzentrieren Sie sich auf den Ton und die Vibration.",
-          "pt": "Pode usar o aplicativo para se guiar, mas concentre-se em ouvir em vez de olhar para a tela. Olhe para a tela apenas de soslaio e concentre-se na vibração física e no som do instrumento para desconectar o modo cognitivo visual.",
-          "id": "Anda boleh menggunakan aplikasi untuk panduan, tetapi fokuslah untuk mendengar daripada menatap layar. Geser layar sedikit, dan fokuskan perhatian pada getaran fisik dan suara instrumen."
+          "ko": "조율을 돕기 위해 앱을 켜두는 것은 좋지만, 스마트폰 화면을 주시하기보다 소리에 귀를 기울여야 합니다. 앱을 켠 상태로 화면은 살짝 곁눈질만 하고, 손끝의 튕김과 악기 통의 공명이 주는 울림에 청각의 주의를 집중하려 노력해야 뇌의 피로를 유발하는 시각적 인지 모드가 해제됩니다."
         }
       }
-    ],
-    "pubDate": "2026-06-19",
-    "updatedDate": "2026-06-19"
+    ]
   }
 }

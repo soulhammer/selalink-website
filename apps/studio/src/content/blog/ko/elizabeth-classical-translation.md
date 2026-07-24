@@ -1,19 +1,27 @@
 ---
-formatVersion: 4
 title: "엘리자베스 1세의 '고전 번역': 통치자의 논리적 뇌를 벼려낸 아침 습관"
 description: "매일 아침 라틴어 고전을 영어로 번역하며 강인한 이성과 논리력을 길렀던 엘리자베스 1세 여왕. 고차원적 인지 능력을 활성화하는 번역 루틴의 과학을 알아봅니다."
-pubDate: "2026-01-09"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["위인 습관", "엘리자베스 1세", "두뇌 훈련", "번역 습관", "아침 루틴"]
-heroImage: "/images/blog/elizabeth_classical_translation.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/elizabeth_classical_translation.png"
 app: "buildself"
-authority: "엘리자베스 1세 아카이브 자료 및 로저 애스컴의 가정교사 기록(The Scholemaster)"
-updatedDate: "2026-01-09"
+formatVersion: 4
+authority: "Elizabeth Classical Translation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+steps:
+  - name: "라틴어 또는 타겟 고전 텍스트 선정"
+    text: "단순히 회화를 넘어서, 문장 구조가 정밀하고 복잡한 철학서, 명언집, 영문 명문 등 3~4문장의 실물 자료를 선정하여 아침 책상에 올려둡니다."
+  - name: "30분간의 아날로그 직접 번역"
+    text: "인터넷 번역기를 일절 끄고, 종이 사전이나 전자단어장만 사용하여 단어의 기원을 파악하며 공책에 직접 손으로 문장을 번역해 나갑니다."
+  - name: "논리 비교 및 퇴고"
+    text: "번역이 끝난 문장을 읽어보며 원래 텍스트의 논리 구조가 온전히 한글 문맥으로 연결되는지 비교하고, 문맥을 가장 자연스럽고 단단하게 다듬는 교정 작업을 거쳐 아침의 분석적 뇌 활성화를 마칩니다."
 faqs:
   - question: "인공지능 번역기를 사용하여 텍스트를 바로 맞춰보는 것은 효과가 없나요?"
     answer: "네, 버튼 하나로 결과를 얻는 것은 뇌의 인지 연결망을 자극하지 못합니다. 다소 번거롭고 느리더라도 사전을 직접 뒤적이며 문장의 뼈대를 맞추는 '머리를 쓰는 저항 과정'을 거칠 때에만 전두엽 피질의 시냅스가 활발히 발달합니다."
   - question: "그리스어와 라틴어 같은 고전어만 공부해야 효과가 있나요?"
     answer: "아닙니다. 영어, 중국어, 독일어 등 문장 구성의 논리 체계가 한국어와 다른 모든 종류의 현대 외국어 텍스트도 훌륭한 훈련 도구가 됩니다. 중요한 것은 일상적인 대화체가 아닌 밀도 높고 격식 있는 철학이나 칼럼 등의 텍스트를 정밀하게 직조하듯 번역해 내는 것입니다."
+
 ---
 
 "나는 사자의 가슴과 위장을 가졌으며, 이는 잉글랜드 국왕의 것이다." 👑
@@ -28,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 여왕의 가정교사였던 로저 애스컴의 역사적 기록 <strong>&lt;The Scholemaster&gt;</strong> 및 번역 프로세스가 인간 뇌의 복잡성 해결 센터인 배외측 전전두피질(dlPFC) 신경 가소성을 비약적으로 높인다는 인지과학 연구 결과를 기반으로 설계되었습니다.
+      본 콘텐츠는 <strong>Elizabeth Classical Translation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 elizabeth-classical-translation 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 번역 작업이 두뇌 전두엽 피질에 미치는 효과
+## 번역 작업이 두뇌 전두엽 피질에 미치는 효과
 
 번역은 뇌의 시각적 문자 인지 영역뿐만 아니라 고도의 논리적 규칙 전환을 담당하는 배외측 전전두엽 피질(dlPFC)을 전방위적으로 활성화합니다. 단순히 글을 읽는 독서와 달리, 한 언어의 의미와 맥락을 분해하여 다른 언어의 정확한 단어 구조로 치환하는 작업은 컴퓨터의 프로세서가 100% 가동하는 것과 같은 극도의 인지 제어(Cognitive Control) 훈련입니다.
 
@@ -46,9 +54,9 @@ faqs:
 
 ---
 
-## 2. 현대인을 위한 엘리자베스 라틴어 번역 루틴 3단계
+## 기계적 자동화 번역은 효과가 없습니다
 
-정밀한 사고 체계를 재가동하고 아침의 지적 집중 상태를 최상으로 벼려내는 정독 및 번역 가이드입니다.
+인공지능 번역기나 사전 앱의 버튼 하나만으로 텍스트를 바로 확인하는 행동은 뇌의 전두엽 회로를 자극하지 않습니다. 속도가 조금 느리더라도 스스로 단어를 찾고 문장을 수작업으로 재구축하며 머리를 쥐어짜는 과정 속에서만 전두엽 시냅스의 연결이 비약적으로 성장합니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -56,7 +64,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">라틴어 또는 타겟 고전 텍스트 선정</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    단순히 회화를 넘어서, 문장 구조가 정밀하고 복잡한 철학서, 명언집, 영문 명문 등 -문장의 실물 자료를 선정하여 아침 책상에 올려둡니다.
+    단순히 회화를 넘어서, 문장 구조가 정밀하고 복잡한 철학서, 명언집, 영문 명문 등 3~4문장의 실물 자료를 선정하여 아침 책상에 올려둡니다.
   </p>
 </div>
 
@@ -80,28 +88,13 @@ faqs:
   </p>
 </div>
 
----
-
-## 3. 성공적인 루틴을 위한 뇌과학적 한마디
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">기계적 자동화 번역은 효과가 없습니다</strong>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      인공지능 번역기나 사전 앱의 버튼 하나만으로 텍스트를 바로 확인하는 행동은 뇌의 전두엽 회로를 자극하지 않습니다. 속도가 조금 느리더라도 스스로 단어를 찾고 문장을 수작업으로 재구축하며 머리를 쥐어짜는 과정 속에서만 전두엽 시냅스의 연결이 비약적으로 성장합니다.
-    </p>
-  </div>
-</div>
-
----
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>인공지능 번역기를 사용하여 텍스트를 바로 맞춰보는 것은 효과가 없나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -109,9 +102,9 @@ faqs:
       네, 버튼 하나로 결과를 얻는 것은 뇌의 인지 연결망을 자극하지 못합니다. 다소 번거롭고 느리더라도 사전을 직접 뒤적이며 문장의 뼈대를 맞추는 '머리를 쓰는 저항 과정'을 거칠 때에만 전두엽 피질의 시냅스가 활발히 발달합니다.
     </p>
   </details>
-
+  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>그리스어와 라틴어 같은 고전어만 공부해야 효과가 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

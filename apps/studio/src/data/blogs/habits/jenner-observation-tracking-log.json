@@ -1,218 +1,72 @@
 {
   "jenner-observation-tracking-log": {
     "title": {
-      "ko": "천연두를 정복한 백신의 아버지? 에드워드 제너의 현장 관찰 기록 루틴",
-      "en": "Father of Vaccination? Edward Jenner's Field Observation Log Routine",
-      "ja": "天然痘を征服したワクチンの父？エドワード・ジェナーの現場観察記録ルーティン",
-      "zh": "消灭天花的“疫苗之父”？爱德华·詹纳的现场观察追踪习惯",
-      "es": "¿El Padre de la Vacunación? La rutina de registro de observación de campo de Edward Jenner",
-      "fr": "Le Père de la Vaccination ? La routine de journal d'observation de terrain d'Edward Jenner",
-      "de": "Der Vater der Impfung? Edward Jenners Feldbeobachtungs-Logbuch-Routine",
-      "pt": "O Pai da Vacinação? A rotina de diário de observação de campo de Edward Jenner",
-      "id": "Bapak Vaksinasi Dunia? Rutinitas Catatan Pengamatan Lapangan Edward Jenner"
+      "ko": "천연두를 정복한 백신의 아버지? 에드워드 제너의 현장 관찰 기록 루틴"
     },
     "description": {
-      "ko": "인류를 전염병에서 구한 의사 에드워드 제너가 매일 마을 가구를 직접 방문하며 우두 관찰 기록을 수년간 누적해 백신을 발명한 과학적 습관.",
-      "en": "Discover how Dr. Edward Jenner invented the smallpox vaccine through years of daily field observation tracking.",
-      "ja": "天然痘から人類を救ったジェナー博士が毎日の現場観察記録を蓄積し、ワクチンを発明した習慣を紹介します。",
-      "zh": "介绍拯救人类于天花灾难的大夫詹纳，通过几十年如一日积累现场观察追踪日志、成功发明疫苗的科学习惯。",
-      "es": "Descubra cómo el Dr. Edward Jenner inventó la vacuna de la viruela acumulando registros de observación diaria.",
-      "fr": "Découvrez comment le Dr Edward Jenner a inventé le vaccin contre la variole par un suivi de terrain quotidien.",
-      "de": "Erfahren Sie, wie Dr. Edward Jenner den Pockenimpfstoff durch jahrelange tägliche Feldbeobachtung erfand.",
-      "pt": "Descubra como o Dr. Edward Jenner inventou a vacina da varíola acumulando diários de observação de campo.",
-      "id": "Temukan bagaimana Dr. Edward Jenner menemukan vaksin cacar melalui catatan pengamatan harian."
+      "ko": "인류를 전염병에서 구한 의사 에드워드 제너가 매일 마을 가구를 직접 방문하며 우두 관찰 기록을 수년간 누적해 백신을 발명한 과학적 습관."
     },
     "authority": {
-      "ko": "리처드 피셔 전기 'Edward Jenner 1749-1823' 및 왕립학회 사료",
-      "en": "Richard Fisher Biography 'Edward Jenner' & The Royal Society Archives",
-      "ja": "リチャード・フィッシャー評伝「Edward Jenner」および王立協会史料",
-      "zh": "理查德·费舍尔传记《Edward Jenner》与英国皇家学会档案馆史料",
-      "es": "Biografía de Richard Fisher 'Edward Jenner' y Archivos de la Royal Society",
-      "fr": "Biographie par Richard Fisher 'Edward Jenner' & Archives de la Royal Society",
-      "de": "Richard Fisher Biografie 'Edward Jenner' & Archive der Royal Society",
-      "pt": "Biografia de Richard Fisher 'Edward Jenner' e Arquivos da Royal Society",
-      "id": "Biografi Richard Fisher 'Edward Jenner' & Arsip Royal Society"
+      "ko": "에드워드 제너 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "인류 역사상 가장 지독했던 전염병 천연두(Smallpox)를 지구상에서 마침내 퇴치하고 의학사상 최초의 '우두 백신'을 발명하여 수억 명의 인류 생명을 구한 영국의 시골 의사, 에드워드 제너(Edward Jenner). 세계 의학사를 바꾼 그의 위대한 의학적 발견은 대체 어떻게 시작될 수 있었을까요? 🩺\n\n제너는 글로스터셔의 농촌 마을에서 '소 전염병 우두를 앓았던 우유 짜기 여인들은 천연두에 걸리지 않는다'는 시골 민간설을 그냥 흘려듣지 않았습니다. 그는 매일 오후 수년간 직접 마을 농가를 찾아다니며 환자들의 피부 상태와 면역 반응의 미세한 변화를 '현장 관찰 추적 일지(Observation Log)'에 정량적으로 기록했습니다. 수년에 걸친 진득한 데이터 추적이 인류 구원의 백신을 완성했습니다.\n\n오늘 BuildSelf에서는 에드워드 제너 박사의 현장 추적 일지 루틴에 담긴 장기 데이터 누적과 그릿(Grit)의 뇌과학적 원리를 소개합니다.",
-      "en": "The country doctor who eradicated smallpox—one of humanity's deadliest diseases—and invented the world's first vaccine, Edward Jenner saved hundreds of millions of lives. How did a small-town physician achieve one of the greatest medical breakthroughs in human history? 🩺\n\nJenner did not ignore local folklore stating that milkmaids who contracted cowpox were immune to smallpox. For years, he visited rural farms daily, systematically tracking patient symptoms and immune responses in a dedicated Observation Log. His patient, long-term data collection built the unbreakable evidence base that led to the smallpox vaccine.\n\nToday, BuildSelf explores the neuroscience of Dr. Edward Jenner's field observation log routine, illustrating how long-term data tracking fuels cognitive grit and breakthrough discoveries.",
-      "ja": "この歴史的習慣の実践において： (Smallpox) ' ' , (Edward Jenner). ? 🩺 この歴史的習慣の実践において： ' ' . ' (Observation Log)' . . この歴史的習慣の実践において： BuildSelf (Grit) .",
-      "zh": "在这一历史性惯例的实践中： (Smallpox) ' ' , (Edward Jenner). ? 🩺 在这一历史性惯例的实践中： ' ' . ' (Observation Log)' . . 在这一历史性惯例的实践中： BuildSelf (Grit) .",
-      "es": "En la práctica de esta rutina transformadora:      (Smallpox)      ' '         ,  (Edward Jenner).            ? 🩺\n\nEn la práctica de esta rutina transformadora:     '         '     .                '   (Observation Log)'  .         .\n\nEn la práctica de esta rutina transformadora:  BuildSelf            (Grit)   .\n\nAl practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora:      (Smallpox)      ' '         ,  (Edward Jenner).            ? 🩺\n\nNa prática desta rotina transformadora:     '         '     .                '   (Observation Log)'  .         .\n\nNa prática desta rotina transformadora:  BuildSelf            (Grit)   .\n\nAo praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "인류 역사상 가장 지독했던 전염병 천연두(Smallpox)를 지구상에서 마침내 퇴치하고 의학사상 최초의 '우두 백신'을 발명하여 수억 명의 인류 생명을 구한 영국의 시골 의사, 에드워드 제너(Edward Jenner). 세계 의학사를 바꾼 그의 위대한 의학적 발견은 대체 어떻게 시작될 수 있었을까요? 🩺\n\n제너는 글로스터셔의 농촌 마을에서 '소 전염병 우두를 앓았던 우유 짜기 여인들은 천연두에 걸리지 않는다'는 시골 민간설을 그냥 흘려듣지 않았습니다. 그는 매일 오후 수년간 직접 마을 농가를 찾아다니며 환자들의 피부 상태와 면역 반응의 미세한 변화를 '현장 관찰 추적 일지(Observation Log)'에 정량적으로 기록했습니다. 수년에 걸친 진득한 데이터 추적이 인류 구원의 백신을 완성했습니다.\n\n오늘 포스트에서는 에드워드 제너 박사의 현장 추적 일지 루틴에 담긴 장기 데이터 누적과 그릿(Grit)의 뇌과학적 원리를 소개합니다."
     },
     "whyTitle": {
-      "ko": "현장 귀납 데이터 누적을 통한 전전두엽 장기 계획과 지속적 도파민 보상",
-      "en": "Prefrontal Long-Term Planning & Sustained Dopamine via Field Log Accumulation",
-      "ja": "現場帰納データ蓄積による前頭前野長期計画と持続的ドパミン報酬",
-      "zh": "通过现场归纳数据积累激活前额叶长期规划与持续多巴胺回报",
-      "es": "Planificación a Largo Plazo y Dopamina Sostenida Mediante Datos de Campo",
-      "fr": "Planification à Long Terme & Dopamine Continue via le Suivi de Terrain",
-      "de": "Langfristige Planung & nachhaltiges Dopamin durch Feldbeobachtungsdaten",
-      "pt": "Planejamento a Longo Prazo e Dopamina Sustentada via Dados de Campo",
-      "id": "Perencanaan Jangka Panjang & Dopamin Berkelanjutan Melalui Logbook Lapangan"
+      "ko": "현장 귀납 데이터 누적을 통한 전전두엽 장기 계획과 지속적 도파민 보상"
     },
     "whyDesc": {
-      "ko": "단기 결과에 목을 메면 가설이 조금만 안 맞아도 금방 포기하고 슬럼프에 빠집니다.\n\n제너처럼 매일 현장을 직접 관찰하고 데이터를 정직하게 기재하는 <strong>'장기 현장 관찰 일지'</strong>는 뇌의 도파민 보상축을 '결과'에서 '관찰과 기록 행위 자체'로 이동시킵니다. 끝까지 가설을 증명해 내는 압도적 그릿(Grit)과 확고한 성공 동력을 선사합니다.",
-      "en": "Chasing quick fixes causes easy surrender when early tests fail.\n\nConsistently logging field facts in a <strong>'Long-Term Field Log'</strong> shifts dopamine rewards to the act of recording itself, powering relentless grit.",
-      "ja": "短期的な結果ばかり追うと、仮説が少し外れただけで諦めてしまいます。\n\n毎日現場を観察して記録する<strong>「長期現場観察日記」</strong>はドパミン報酬を記録行為そのものに移行させ、粘り強いグリット（Grit）を与えます。",
-      "zh": "若急功近利只盯着短期成效，一旦早期试错受挫便极易放弃并陷入低谷。\n\n像詹纳那样每天亲临现场并诚实记录数据的<strong>“长效现场观察追踪”</strong>，能将大脑的多巴胺回报机制从“最终结果”转移至“观察与记录行为本身”，赋予你彻底证实假说的绝佳韧性(Grit)。",
-      "es": "Buscar resultados rápidos hace que se abandone al primer fallo.\n\nRegistrar hechos en un <strong>'Diario de Campo a Largo Plazo'</strong> traslada la recompensa de dopamina al acto de registrar, generando resiliencia.",
-      "fr": "Chercher des résultats immédiats pousse à l'abandon au premier échec.\n\nConsigner des faits dans un <strong>'Journal de Terrain à Long Terme'</strong> déplace la dopamine vers l'acte de noter, stimulant la persévérance.",
-      "de": "Das Jagen schneller Ergebnisse führt bei ersten Misserfolgen zum Aufgeben.\n\nDas Eintragen von Fakten in ein <strong>'Langzeit-Feldforschungs-Logbuch'</strong> verlagert Belohnungen auf das Aufzeichnen.",
-      "pt": "Buscar resultados rápidos faz com que se desista no primeiro erro.\n\nRegistrar fatos em um <strong>'Diário de Campo de Longo Prazo'</strong> transfere a recompensa de dopamina para o ato de registrar, gerando resiliência.",
-      "id": "Mengejar hasil cepat membuat orang mudah menyerah saat gagal di awal.\n\nMencatat fakta dalam <strong>'Logbook Lapangan Jangka Panjang'</strong> mengalihkan imbalan dopamin ke tindakan mencatat itu sendiri."
+      "ko": "단기 결과에 목을 메면 가설이 조금만 안 맞아도 금방 포기하고 슬럼프에 빠집니다.\n\n제너처럼 매일 현장을 직접 관찰하고 데이터를 정직하게 기재하는 <strong>'장기 현장 관찰 일지'</strong>는 뇌의 도파민 보상축을 '결과'에서 '관찰과 기록 행위 자체'로 이동시킵니다. 끝까지 가설을 증명해 내는 압도적 그릿(Grit)과 확고한 성공 동력을 선사합니다."
     },
     "cautionTitle": {
-      "ko": "편견이나 추측을 배제하고 사실 그대로를 기록하세요",
-      "en": "Exclude Bias or Assumptions and Log Raw Ground Truth",
-      "ja": "偏見や推測を排除し、事実をそのまま記録しましょう",
-      "zh": "排除偏见与主观猜测，如实记录眼前事实真相",
-      "es": "Excluya sesgos o suposiciones y registre la verdad objetiva",
-      "fr": "Excluez les biais ou suppositions et inscrivez la vérité brute",
-      "de": "Schließen Sie Vorurteile aus und tragen Sie reine Fakten ein",
-      "pt": "Exclua viés ou suposições e registre a verdade objetiva",
-      "id": "Abaikan prasangka atau asumsi dan catat kebenaran faktual"
+      "ko": "편견이나 추측을 배제하고 사실 그대로를 기록하세요"
     },
     "cautionDesc": {
-      "ko": "에드워드 제너의 위대함은 내 가설에 유리한 데이터만 모은 것이 아니라, 반대되는 예외 사례까지 솔직하게 일지에 담았다는 점입니다. 현장의 주관적 왜곡 없는 솔직한 데이터를 기록하세요.",
-      "en": "Jenner's greatness lay in recording raw exceptions alongside supporting data. Record honest facts without subjective spin.",
-      "ja": "ジェナーの偉大さは自分に都合の良いデータだけでなく、例外事例も正直に記録した点にあります。嘘のない事実を記録してください。",
-      "zh": "詹纳的伟大之处在于他不仅记录证实假设的数据，更如实保留反常与例外案例。请书写不带主观粉饰的真实现场数据。",
-      "es": "La grandeza de Jenner radicó en registrar excepciones reales sin manipular datos. Anote hechos honestos.",
-      "fr": "La grandeur de Jenner était de noter les exceptions réelles sans manipuler les faits. Inscrivez la vérité brute.",
-      "de": "Jenners Größe lag darin, auch Ausnahmen ehrlich aufzuzeichnen. Tragen Sie ehrliche Fakten ein.",
-      "pt": "A grandeza de Jenner esteve em registrar exceções reais sem manipular dados. Anote fatos honestos.",
-      "id": "Kehebatan Jenner terletak pada mencatat pengecualian nyata tanpa manipulasi. Catat fakta secara jujur."
+      "ko": "에드워드 제너의 위대함은 내 가설에 유리한 데이터만 모은 것이 아니라, 반대되는 예외 사례까지 솔직하게 일지에 담았다는 점입니다. 현장의 주관적 왜곡 없는 솔직한 데이터를 기록하세요."
     },
     "steps": [
       {
         "name": {
-          "ko": "오후 10분 현장 지표 & 고객 데이터 추적 세션",
-          "en": "10-Minute Afternoon Field & Data Tracking Session",
-          "ja": "午後10分間の現場指標＆顧客データ追跡セッション",
-          "zh": "锁定下午10分钟现场指标与真实反馈追踪",
-          "es": "Sesión de 10 Minutos por la Tarde de Seguimiento de Datos",
-          "fr": "Session de 10 Minutes l'Après-midi de Suivi des Données",
-          "de": "10-minütige nachmittägliche Datenverfolgungs-Session",
-          "pt": "Sessão de 10 Minutos à Tarde de Acompanhamento de Dados",
-          "id": "Sesi 10 Menit Pelacakan Data & Lapangan Sore"
+          "ko": "오후 10분 현장 지표 & 고객 데이터 추적 세션"
         },
         "text": {
-          "ko": "매일 오후 10분간 책상을 떠나 사용자 피드백, 시스템 통계 지표, 혹은 현장의 반응을 관찰합니다.",
-          "en": "Leave your desk for 10 minutes every afternoon to observe user feedback, metric dashboards, or field responses.",
-          "ja": "毎午後10分間デスクを離れ、ユーザーのフィードバックやシステムの統計指標、現場の反応を直接観察します。",
-          "zh": "每天下午抽出10分钟暂离开桌前，去直接查验用户反馈、系统指标大盘或现场真实反应。",
-          "es": "Deje su escritorio 10 minutos cada tarde para observar comentarios de usuarios, métricas o respuestas del campo.",
-          "fr": "Quittez votre bureau 10 minutes chaque après-midi pour observer les retours d'utilisateurs ou métriques.",
-          "de": "Verlassen Sie jeden Nachmittag 10 Minuten den Schreibtisch, um Nutzer-Feedback oder Metriken zu prüfen.",
-          "pt": "Deixe sua mesa por 10 minutos todas as tardes para observar comentários de usuários, métricas ou respostas.",
-          "id": "Tinggalkan meja selama 10 menit setiap sore untuk mengamati umpan balik pengguna atau metrik."
+          "ko": "매일 오후 10분간 책상을 떠나 사용자 피드백, 시스템 통계 지표, 혹은 현장의 반응을 관찰합니다."
         }
       },
       {
         "name": {
-          "ko": "현장 관찰 지표 3줄 타협 없는 기록",
-          "en": "Log 3 Uncompromising Ground Truth Observations",
-          "ja": "現場観察指標3行の妥協なき記録",
-          "zh": "妥协地记录3行现场真实观察指标",
-          "es": "Registre 3 Observaciones de la Verdad sin Concesiones",
-          "fr": "Inscrivez 3 Observations Brutes sans Concession",
-          "de": "Tragen Sie 3 kompromisslose Beobachtungsfakten ein",
-          "pt": "Registre 3 Observações da Verdade sem Concessões",
-          "id": "Catat 3 Pengamatan Lapangan Faktual Tanpa Kompromi"
+          "ko": "현장 관찰 지표 3줄 타협 없는 기록"
         },
         "text": {
-          "ko": "1) 관찰된 객관적 현상 2) 예상치 못한 예외 3) 누적된 지표 수치를 관찰 일지 노트에 3줄로 적습니다.",
-          "en": "Clearly write in your logbook: 1) Objective phenomena, 2) Unexpected exceptions, 3) Cumulative metrics.",
-          "ja": "1) 観察された客観的現象 2) 予想外の例外 3) 蓄積された数値の3行を観察ノートに記録します。",
-          "zh": "在日志本上无妥协地记录：1) 观察到的客观现象 2) 出乎意料的例外反例 3) 累计数据指标。",
-          "es": "Anote claramente en su cuaderno: 1) Fenómeno objetivo, 2) Excepciones inesperadas, 3) Métricas acumuladas.",
-          "fr": "Inscrivez clairement : 1) Phénomène objectif, 2) Exceptions inattendues, 3) Chiffres cumulés.",
-          "de": "Tragen Sie klar ein: 1) Objektives Phänomen, 2) Unerwartete Ausnahmen, 3) Kumulierte Zahlen.",
-          "pt": "Anote claramente no diário: 1) Fenômeno objetivo, 2) Exceções inesperadas, 3) Métricas acumuladas.",
-          "id": "Catat dengan jelas: 1) Fenomena objektif, 2) Pengecualian tak terduga, 3) Metrik kumulatif."
+          "ko": "1) 관찰된 객관적 현상 2) 예상치 못한 예외 3) 누적된 지표 수치를 관찰 일지 노트에 3줄로 적습니다."
         }
       },
       {
         "name": {
-          "ko": "누적 패턴 파악 및 가설 업그레이드",
-          "en": "Identify Cumulative Patterns & Upgrade Hypotheses",
-          "ja": "蓄積パターンの把握と仮説のアップグレード",
-          "zh": "分析积累模式与迭代优化工作假设",
-          "es": "Identifique Patrones Acumulados y Actualice Hipótesis",
-          "fr": "Identifiez les Motifs Cumulés & Améliorez les Hypothèses",
-          "de": "Identifizieren Sie Muster & Aktualisieren Sie Hypothesen",
-          "pt": "Identifique Padrões Acumulados e Atualize Hipóteses",
-          "id": "Identifikasi Pola Kumulatif & Tingkatkan Hipotesis"
+          "ko": "누적 패턴 파악 및 가설 업그레이드"
         },
         "text": {
-          "ko": "주말에 일주일간 축적된 관찰 기록을 모아보며 숨겨진 보물 같은 공통 패턴을 찾아 다음 가설에 적용합니다.",
-          "en": "Review your week of accumulated field logs on weekends to uncover hidden patterns and refine hypotheses.",
-          "ja": "週末に1週間蓄積された観察記録を見返し、隠された共通パターンを見つけて次の仮説に適用します。",
-          "zh": "每周周末翻阅一周积累的现场日志，从数据沉淀中掘金并发现隐秘的规律模式，据此升级迭代下一阶段假设。",
-          "es": "Revise sus registros de la semana los fines de semana para descubrir patrones y refinar hipótesis.",
-          "fr": "Révisez vos notes du week-end pour découvrir des motifs cachés et affiner vos hypothèses.",
-          "de": "Prüfen Sie am Wochenende Ihre Aufzeichnungen der Woche, um Muster zu entdecken und Hypothesen zu schärfen.",
-          "pt": "Revise seus diários da semana nos fins de semana para descobrir padrões e refinar hipóteses.",
-          "id": "Tinjau logbook harian seminggu di akhir pekan untuk menemukan pola dan memperbarui hipotesis."
+          "ko": "주말에 일주일간 축적된 관찰 기록을 모아보며 숨겨진 보물 같은 공통 패턴을 찾아 다음 가설에 적용합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "관찰 일지를 매일 적는데 의미 있는 패턴이 안 보이면 어떻게 하나요?",
-          "en": "What if I write daily field logs but fail to see meaningful patterns?",
-          "ja": "毎日観察日記を書いているのに意味のあるパターンが見えない場合はどうすればいいですか？",
-          "zh": "如果每天都写观察日志，却迟迟看不出有意义的规律模式怎么办？",
-          "es": "¿Qué hacer si escribo el diario de campo pero no veo patrones significativos?",
-          "fr": "Que faire si je ne vois pas de motifs dans mes notes de terrain ?",
-          "de": "Was tun, wenn ich täglich Felddaten aufzeichne, aber keine Muster sehe?",
-          "pt": "O que fazer se escrever o diário mas não ver padrões significativos?",
-          "id": "Bagaimana jika mencatat logbook harian tapi belum melihat pola yang bermakna?"
+          "ko": "관찰 일지를 매일 적는데 의미 있는 패턴이 안 보이면 어떻게 하나요?"
         },
         "answer": {
-          "ko": "패턴이 당장 안 보이는 데이터조차 소중한 '노이즈 제거' 과정입니다. 1개월 이상 데이터가 축적되면 전전두엽이 스스로 패턴을 연결하게 됩니다.",
-          "en": "Even unseen patterns represent vital noise filtration. After 1 month of logging, your brain will naturally connect dots.",
-          "ja": "パターンがすぐに見えないデータも貴重な「ノイズ除去」プロセスです。1ヶ月以上蓄積されると脳が自然にパターンを繋ぎます。",
-          "zh": "即便当下看不出规律，这些真实记录本身也是至为宝贵的信息降噪过程。只要坚持积累1个月以上，前额叶便能自然而然将分散的点连接成线。",
-          "es": "Incluso los datos sin patrones aparentes filtran el ruido. Tras 1 mes de registro, su cerebro conectará los puntos.",
-          "fr": "Même des données sans motifs filtrent le bruit. Après 1 mois de notes, votre cerveau reliera les points.",
-          "de": "Auch Daten ohne Muster filtern Lärm. Nach 1 Monat Aufzeichnung verbindet das Gehirn die Punkte.",
-          "pt": "Mesmo dados sem padrões aparentes filtram o ruído. Após 1 mês de registro, seu cérebro conectará os pontos.",
-          "id": "Bahkan data tanpa pola tetap berharga sebagai penyaringan kebisingan. Setelah 1 bulan, otak akan menghubungkannya."
+          "ko": "패턴이 당장 안 보이는 데이터조차 소중한 '노이즈 제거' 과정입니다. 1개월 이상 데이터가 축적되면 전전두엽이 스스로 패턴을 연결하게 됩니다."
         }
       },
       {
         "question": {
-          "ko": "제너처럼 시골 의사가 아닌 일반 현대 사무직도 현장 조사가 가능한가요?",
-          "en": "Can modern office workers perform field tracking like Jenner?",
-          "ja": "ジェナーのように地方の医師でない一般の事務職でも現場調査は可能ですか？",
-          "zh": "非临床与非外勤的普通办公室白领也能像詹纳一样做现场追踪吗？",
-          "es": "¿Los trabajadores de oficina pueden hacer seguimiento de campo como Jenner?",
-          "fr": "Les employés de bureau peuvent-ils faire du suivi de terrain comme Jenner ?",
-          "de": "Können Büroangestellte Feldbeobachtung wie Jenner durchführen?",
-          "pt": "Trabalhadores de escritório podem fazer acompanhamento de campo como Jenner?",
-          "id": "Apakah pekerja kantor biasa bisa melakukan pelacakan lapangan seperti Jenner?"
+          "ko": "제너처럼 시골 의사가 아닌 일반 현대 사무직도 현장 조사가 가능한가요?"
         },
         "answer": {
-          "ko": "네! 사용자 후기, CS 문의 텍스트, Google Analytics 데이터, 혹은 사내 팀원들의 반응 관찰이 현대 사무직의 가장 위대한 '현장'입니다.",
-          "en": "Yes! User reviews, support tickets, Google Analytics, or coworker interactions are the ultimate modern fields.",
-          "ja": "はい！ユーザーレビューやCSのお問い合わせ、Google Analyticsのデータ、同僚の反応観察こそ現代の最も偉大な「現場」です。",
-          "zh": "当然可以！用户评价、客服咨询工单、Google Analytics 流量仪表盘，甚至是跨部门同事的真实反馈，就是现代白领最伟大的“现场”。",
-          "es": "¡Sí! Las reseñas de usuarios, tickets de soporte, métricas o la reacción de sus compañeros son el gran 'campo' moderno.",
-          "fr": "Oui ! Les avis d'utilisateurs, tickets de support, métriques ou réactions de collègues sont le 'terrain' moderne.",
-          "de": "Ja! Nutzerbewertungen, Support-Tickets, Analytics-Daten oder Reaktionen von Kollegen sind das moderne 'Feld'.",
-          "pt": "Sim! Avaliações de usuários, chamados de suporte, métricas ou reações de colegas são o 'campo' moderno.",
-          "id": "Tentu! Ulasan pengguna, tiket dukungan, analitik, atau reaksi rekan kerja adalah 'lapangan' modern terhebat."
+          "ko": "네! 사용자 후기, CS 문의 텍스트, Google Analytics 데이터, 혹은 사내 팀원들의 반응 관찰이 현대 사무직의 가장 위대한 '현장'입니다."
         }
       }
-    ],
-    "pubDate": "2026-07-14",
-    "updatedDate": "2026-07-14"
+    ]
   }
 }

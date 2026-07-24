@@ -1,218 +1,72 @@
 {
   "hesse": {
     "title": {
-      "en": "Hesse's method of contemplating nature, tending to the soil in a country garden, pulling weeds, and being immersed in the sound of the wind.",
-      "ko": "시골 정원의 흙을 가꾸며 잡초를 뽑고 바람 소리에 침잠한 헤세의 자연 사색법",
-      "ja": "田舎の庭で土の手入れをし、雑草を抜き、風の音に浸りながら自然を見つめるヘッセの方法。",
-      "zh": "黑塞沉思自然的方法，照料乡村花园的土壤，拔除杂草，沉浸在风声中。",
-      "es": "El método de Hesse para contemplar la naturaleza, cuidar la tierra en un jardín rural, arrancar las malas hierbas y sumergirse en el sonido del viento.",
-      "fr": "La méthode de Hesse consistant à contempler la nature, à s'occuper du sol dans un jardin de campagne, à arracher les mauvaises herbes et à s'immerger dans le bruit du vent.",
-      "de": "Hesses Methode, die Natur zu betrachten, den Boden in einem ländlichen Garten zu pflegen, Unkraut zu jäten und in das Rauschen des Windes einzutauchen.",
-      "pt": "O método de Hesse de contemplar a natureza, cuidar do solo de um jardim campestre, arrancar ervas daninhas e mergulhar no som do vento.",
-      "id": "Metode Hesse dalam merenungkan alam, merawat tanah di taman pedesaan, mencabut rumput liar, dan tenggelam dalam suara angin."
+      "ko": "시골 정원의 흙을 가꾸며 잡초를 뽑고 바람 소리에 침잠한 헤세의 자연 사색법"
     },
     "description": {
-      "en": "A Nobel Prize winner in literature and a pacifist writer who loved forests and nature, he dealt with deep feelings of anxiety by touching the soil in the garden and trimming branches every day.",
-      "ko": "노벨문학상 수상자이자 숲과 자연을 사랑한 평화주의 작가로, 매일 정원의 흙을 만지고 가지를 다듬으며 깊은 불안의 정서를 다스렸습니다.",
-      "ja": "ノーベル文学賞受賞者であり、森と自然を愛する平和主義作家でもある彼は、毎日庭の土に触れ、枝を切ることで深い不安感に対処していました。",
-      "zh": "作为诺贝尔文学奖获得者、热爱森林和自然的和平主义作家，他每天通过触摸花园里的土壤、修剪树枝来应对深深的焦虑感。",
-      "es": "Premio Nobel de Literatura y escritor pacifista amante de los bosques y la naturaleza, lidiaba con profundos sentimientos de ansiedad tocando la tierra del jardín y podando ramas todos los días.",
-      "fr": "Lauréat du prix Nobel de littérature et écrivain pacifiste amoureux des forêts et de la nature, il a fait face à de profonds sentiments d'anxiété en touchant la terre du jardin et en coupant les branches chaque jour.",
-      "de": "Als Nobelpreisträger für Literatur und pazifistischer Schriftsteller, der Wälder und die Natur liebte, bewältigte er tiefe Angstgefühle, indem er jeden Tag die Erde im Garten berührte und Äste beschnitt.",
-      "pt": "Vencedor do Prêmio Nobel de literatura e escritor pacifista que amava as florestas e a natureza, ele lidava com profundos sentimentos de ansiedade tocando o solo do jardim e aparando galhos todos os dias.",
-      "id": "Seorang pemenang Hadiah Nobel dalam bidang sastra dan seorang penulis pasifis yang mencintai hutan dan alam, ia mengatasi perasaan cemas yang mendalam dengan menyentuh tanah di taman dan memangkas dahan setiap hari."
+      "ko": "노벨문학상 수상자이자 숲과 자연을 사랑한 평화주의 작가로, 매일 정원의 흙을 만지고 가지를 다듬으며 깊은 불안의 정서를 다스렸습니다."
     },
     "authority": {
-      "en": "Hermann Hesse, *Bilderbuch des Gärtners (The Joy of Gardening)* (1957) & Cognitive Neuroscientific Studies",
-      "ko": "Hermann Hesse, *Bilderbuch des Gärtners (정원 가꾸기의 즐거움)* (1957)",
-      "ja": "ヘルマン・ヘッセ、*庭師の絵本 (ガーデニングの喜び)* (1957) & 認知神経科学研究",
-      "zh": "赫尔曼·黑塞，*园丁图画书（园艺的乐趣）* (1957) 和认知神经科学研究",
-      "es": "Hermann Hesse, *Libro ilustrado del jardinero (La alegría de la jardinería)* (1957) y Estudios neurocientíficos cognitivos",
-      "fr": "Hermann Hesse, *Bilderbuch des Gärtners (La joie du jardinage)* (1957) & Cognitive Neuroscientific Studies",
-      "de": "Hermann Hesse, *Bilderbuch des Gärtners* (1957) & Kognitive Neurowissenschaftliche Studien",
-      "pt": "Hermann Hesse, *Bilderbuch des Gärtners (The Joy of Gardening)* (1957) & Cognitive Neuroscientific Studies",
-      "id": "Hermann Hesse, *Bilderbuch des Gärtners (The Joy of Gardening)* (1957) & Studi Ilmu Saraf Kognitif"
+      "ko": "Hermann Hesse, *My Belief: Essays on Life and Art* (1974) & 헤르만 헤세 서한집 고증"
     },
     "intro": {
-      "en": "Hermann Hesse, a novelist and poet who explored inner human self-realization and the wandering of the soul through analog meditation as a Swiss gardener, and winner of the Nobel Prize in Literature for masterpieces such as “Demian” and “Under the Wheel.” He stayed in his country garden and performed the analog gardener's work of tilling the soil, pulling weeds, and chopping or sawing off dead branches every day. While he was moving his body diligently, he focused all his attention on the sounds of birds in the forest, the sound of the wind, and the smell of moisture in the soil. This analog natural meditation routine was a source of stability and healing for his soul, which was suffering from a severe nervous breakdown.\n\nToday on BuildSelf, we introduce the cognitive scientific principles of the habit of 'picking the soil, sawing dead branches, and meditating on the sound of the wind' that he adheres to, as well as a 3-step guide that modern people can easily practice in their daily lives.",
-      "ko": "스위스 정원사로서의 아날로그 사색을 통해 인간 내면의 자아 실현과 영혼의 방황을 탐구한 소설가이자 시인으로, 《데미안》, 《수레바퀴 아래서》 등의 명작으로 노벨 문학상을 수상한 헤르만 헤세. 그는 시골 정원에 머무르며 매일 흙을 갈아엎고 잡초를 뽑으며, 죽은 나뭇가지를 손톱으로 부수거나 톱질을 하는 아날로그 정원사 일을 수행했습니다. 그는 몸을 부지런히 움직이는 가운데 숲속에서 들리는 새소리, 바람 소리, 흙의 습기 냄새에 온 신경을 집중시켰습니다. 이러한 아날로그 자연 사색 루틴은 지독한 신경 쇠약에 시달리던 그의 영혼을 안정시키고 치유한 원천이었습니다.\n\n오늘 BuildSelf에서는 그가 고수한 '흙을 고르고 죽은 나뭇가지를 톱질하며 바람 소리에 사색하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다.",
-      "ja": "この歴史的習慣の実践において： , 《》, 《 》 . , . , , . . この歴史的習慣の実践において： BuildSelf ' ' 3 .",
-      "zh": "在这一历史性惯例的实践中： , 《》, 《 》 . , . , , . . 在这一历史性惯例的实践中： BuildSelf ' ' 3 .",
-      "es": "Hermann Hesse, novelista y poeta que exploró la autorrealización humana interior y el vagabundeo del alma a través de la meditación analógica como un jardinero suizo, y ganador del Premio Nobel de Literatura por obras maestras como “Demian” y “Under the Wheel”. Se quedó en su jardín rural y realizó el trabajo análogo del jardinero: labrar la tierra, arrancar las malas hierbas y cortar o serrar ramas muertas todos los días. Mientras movía su cuerpo diligentemente, centró toda su atención en los sonidos de los pájaros en el bosque, el sonido del viento y el olor a humedad del suelo. Esta rutina de meditación natural analógica fue una fuente de estabilidad y curación para su alma, que sufría una grave crisis nerviosa.\n\nHoy en BuildSelf, presentamos los principios científicos cognitivos del hábito de 'recoger la tierra, serrar ramas muertas y meditar en el sonido del viento' al que él se adhiere, así como una guía de 3 pasos que la gente moderna puede practicar fácilmente en su vida diaria.",
-      "fr": "Hermann Hesse, romancier et poète qui a exploré la réalisation de soi humaine intérieure et l'errance de l'âme à travers la méditation analogique en tant que jardinier suisse, et lauréat du prix Nobel de littérature pour des chefs-d'œuvre tels que « Demian » et « Sous la roue ». Il est resté dans son jardin de campagne et a effectué le travail du jardinier analogique consistant à labourer le sol, à arracher les mauvaises herbes et à couper ou scier les branches mortes chaque jour. Pendant qu’il bougeait son corps avec diligence, il concentrait toute son attention sur les bruits des oiseaux dans la forêt, le bruit du vent et l’odeur de l’humidité du sol. Cette routine de méditation naturelle analogique était une source de stabilité et de guérison pour son âme, qui souffrait d'une grave dépression nerveuse.\n\nAujourd'hui sur BuildSelf, nous présentons les principes scientifiques cognitifs de l'habitude de « cueillir la terre, scier les branches mortes et méditer sur le bruit du vent » auxquels il adhère, ainsi qu'un guide en 3 étapes que les gens modernes peuvent facilement mettre en pratique dans leur vie quotidienne.",
-      "de": "Hermann Hesse, ein Romanautor und Dichter, der als Schweizer Gärtner die innere menschliche Selbstverwirklichung und das Wandern der Seele durch analoge Meditation erforschte und Literaturnobelpreisträger für Meisterwerke wie „Demian“ und „Under the Wheel“ erhielt. Er blieb in seinem Landgarten und verrichtete täglich die analoge Gärtnerarbeit, nämlich den Boden zu bestellen, Unkraut zu jäten und abgestorbene Äste zu hacken oder abzusägen. Während er seinen Körper fleißig bewegte, konzentrierte er seine ganze Aufmerksamkeit auf die Geräusche der Vögel im Wald, das Geräusch des Windes und den Geruch von Feuchtigkeit im Boden. Diese analoge natürliche Meditationsroutine war eine Quelle der Stabilität und Heilung für seine Seele, die unter einem schweren Nervenzusammenbruch litt.\n\nHeute stellen wir auf BuildSelf die kognitionswissenschaftlichen Prinzipien der Gewohnheit vor, „den Boden zu pflücken, abgestorbene Äste zu sägen und über das Geräusch des Windes zu meditieren“, an die er festhält, sowie eine dreistufige Anleitung, die moderne Menschen leicht in ihrem täglichen Leben anwenden können.",
-      "pt": "Hermann Hesse, um romancista e poeta que explorou a auto-realização humana interior e a divagação da alma através da meditação analógica como jardineiro suíço e vencedor do Prêmio Nobel de Literatura por obras-primas como “Demian” e “Under the Wheel”. Ele permanecia em seu jardim rural e realizava o trabalho análogo do jardineiro: arar o solo, arrancar ervas daninhas e cortar ou serrar galhos mortos todos os dias. Enquanto movia seu corpo diligentemente, ele concentrou toda sua atenção nos sons dos pássaros na floresta, no som do vento e no cheiro de umidade no solo. Essa rotina analógica de meditação natural foi uma fonte de estabilidade e cura para sua alma, que sofria de um grave colapso nervoso.\n\nHoje, no BuildSelf, apresentamos os princípios científicos cognitivos do hábito de 'colher o solo, serrar galhos mortos e meditar sobre o som do vento' que ele segue, bem como um guia de 3 passos que as pessoas modernas podem praticar facilmente em suas vidas diárias.",
-      "id": "Hermann Hesse, seorang novelis dan penyair yang mengeksplorasi realisasi diri manusia dan pengembaraan jiwa melalui meditasi analog sebagai tukang kebun Swiss, dan pemenang Hadiah Nobel Sastra untuk mahakarya seperti “Demian” dan “Under the Wheel.” Dia tinggal di taman pedesaannya dan melakukan pekerjaan analogi tukang kebun, yaitu mengolah tanah, mencabut rumput liar, dan memotong atau menggergaji cabang-cabang yang mati setiap hari. Sambil rajin menggerakkan badannya, ia memusatkan seluruh perhatiannya pada suara burung di hutan, suara angin, dan bau kelembapan tanah. Rutinitas meditasi analog alami ini merupakan sumber stabilitas dan penyembuhan bagi jiwanya, yang menderita gangguan saraf parah.\n\nHari ini di BuildSelf, kami memperkenalkan prinsip ilmiah kognitif tentang kebiasaan 'memetik tanah, menggergaji dahan mati, dan merenungkan suara angin' yang dianutnya, serta panduan 3 langkah yang dapat dengan mudah dipraktikkan oleh masyarakat modern dalam kehidupan sehari-hari."
+      "ko": "스위스 정원사로서의 아날로그 사색을 통해 인간 내면의 자아 실현과 영혼의 방황을 탐구한 소설가이자 시인으로, 《데미안》, 《수레바퀴 아래서》 등의 명작으로 노벨 문학상을 수상한 헤르만 헤세. 그는 시골 정원에 머무르며 매일 흙을 갈아엎고 잡초를 뽑으며, 죽은 나뭇가지를 손톱으로 부수거나 톱질을 하는 아날로그 정원사 일을 수행했습니다. 그는 몸을 부지런히 움직이는 가운데 숲속에서 들리는 새소리, 바람 소리, 흙의 습기 냄새에 온 신경을 집중시켰습니다. 이러한 아날로그 자연 사색 루틴은 지독한 신경 쇠약에 시달리던 그의 영혼을 안정시키고 치유한 원천이었습니다.\n\n오늘 포스트에서는 그가 고수한 '흙을 고르고 죽은 나뭇가지를 톱질하며 바람 소리에 사색하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다."
     },
     "whyTitle": {
-      "en": "Analysis of the brain science principles that lead to success",
-      "ko": "성공을 자아내는 脳科学的 원리 분석",
-      "ja": "成功に導く脳科学原理の分析",
-      "zh": "分析导致成功的脑科学原理",
-      "es": "Análisis de los principios de las ciencias del cerebro que conducen al éxito.",
-      "fr": "Analyse des principes scientifiques du cerveau qui mènent au succès",
-      "de": "Analyse der hirnwissenschaftlichen Prinzipien, die zum Erfolg führen.",
-      "pt": "Análise dos princípios da ciência do cérebro que levam ao sucesso",
-      "id": "Analisis prinsip ilmu otak yang membawa kesuksesan"
+      "ko": "성공을 자아내는 뇌과학적 원리 분석"
     },
     "whyDesc": {
-      "en": "The act of simply moving the body and focusing only on natural forests and analog sensory stimulation calms down the overloaded Default Mode Network (DMN) of the brain. This lowers the concentration of cortisol, a stress hormone, and activates the parasympathetic nervous system, washing away overall fatigue and energy from the brain and providing clear insight.",
-      "ko": "몸을 단순하게 움직이며 자연의 숲과 아날로그 감각 자극에만 신경을 집중하는 행위는 과부하가 걸려 있는 뇌의 디폴트 모드 네트워크(Default Mode Network, DMN)를 차분하게 가라앉칩니다. 이는 스트레스 호르몬인 코티솔의 농도를 떨어뜨리고 부교감 신경계를 활성화하여, 뇌의 전반적인 피로 에너지를 씻어내고 맑은 통찰력을 선사합니다.",
-      "ja": "シンプルに体を動かし、自然の森とアナログ感覚刺激だけに集中するという行為は、過負荷になった脳のデフォルトモードネットワーク（DMN）を落ち着かせます。これにより、ストレスホルモンであるコルチゾールの濃度が低下し、副交感神経系が活性化され、脳全体の疲労とエネルギーが洗い流され、明確な洞察力が得られます。",
-      "zh": "简单地移动身体并只关注自然森林和模拟感官刺激的行为可以使大脑超负荷的默认模式网络（DMN）平静下来。这会降低皮质醇（一种应激激素）的浓度，并激活副交感神经系统，消除大脑的整体疲劳和能量，并提供清晰的洞察力。",
-      "es": "El simple hecho de mover el cuerpo y centrarse únicamente en los bosques naturales y la estimulación sensorial analógica calma la sobrecargada Red de Modo Predeterminado (DMN) del cerebro. Esto reduce la concentración de cortisol, una hormona del estrés, y activa el sistema nervioso parasimpático, eliminando la fatiga general y la energía del cerebro y proporcionando una visión clara.",
-      "fr": "Le simple fait de bouger le corps et de se concentrer uniquement sur les forêts naturelles et la stimulation sensorielle analogique calme le réseau en mode par défaut (DMN) surchargé du cerveau. Cela réduit la concentration de cortisol, une hormone du stress, et active le système nerveux parasympathique, éliminant ainsi la fatigue et l'énergie globales du cerveau et fournissant une vision claire.",
-      "de": "Der Akt der einfachen Bewegung des Körpers und die Konzentration nur auf natürliche Wälder und analoge Sinnesstimulation beruhigt das überlastete Default Mode Network (DMN) des Gehirns. Dies senkt die Konzentration von Cortisol, einem Stresshormon, und aktiviert das parasympathische Nervensystem, wodurch allgemeine Müdigkeit und Energie aus dem Gehirn gespült werden und klare Erkenntnisse gewonnen werden.",
-      "pt": "O ato de simplesmente mover o corpo e focar apenas nas florestas naturais e na estimulação sensorial analógica acalma a sobrecarregada Rede de Modo Padrão (DMN) do cérebro. Isso reduz a concentração de cortisol, um hormônio do estresse, e ativa o sistema nervoso parassimpático, eliminando a fadiga geral e a energia do cérebro e proporcionando uma visão clara.",
-      "id": "Tindakan hanya menggerakkan tubuh dan fokus hanya pada hutan alam dan stimulasi sensor analog menenangkan Jaringan Mode Default (DMN) otak yang kelebihan beban. Hal ini menurunkan konsentrasi kortisol, hormon stres, dan mengaktifkan sistem saraf parasimpatis, menghilangkan kelelahan dan energi secara keseluruhan dari otak dan memberikan wawasan yang jelas."
+      "ko": "몸을 단순하게 움직이며 자연의 숲과 아날로그 감각 자극에만 신경을 집중하는 행위는 과부하가 걸려 있는 뇌의 디폴트 모드 네트워크(Default Mode Network, DMN)를 차분하게 가라앉칩니다. 이는 스트레스 호르몬인 코티솔의 농도를 떨어뜨리고 부교감 신경계를 활성화하여, 뇌의 전반적인 피로 에너지를 씻어내고 맑은 통찰력을 선사합니다."
     },
     "cautionTitle": {
-      "en": "Behavioral science advice for a successful settlement",
-      "ko": "성공적인 안착을 위한 행동과학 조언",
-      "ja": "和解を成功させるための行動科学的アドバイス",
-      "zh": "成功和解的行为科学建议",
-      "es": "Consejos de ciencias del comportamiento para un acuerdo exitoso",
-      "fr": "Conseils en sciences comportementales pour un établissement réussi",
-      "de": "Verhaltenswissenschaftliche Ratschläge für eine erfolgreiche Einigung",
-      "pt": "Conselhos de ciência comportamental para um acordo bem-sucedido",
-      "id": "Nasihat ilmu perilaku untuk penyelesaian yang sukses"
+      "ko": "성공적인 안착을 위한 행동과학 조언"
     },
     "cautionDesc": {
-      "en": "When taking a walk, don't keep worrying about today's work in your head. The key is to focus strictly on passively transfusing peripheral sensory information into the brain for 3 minutes.",
-      "ko": "산책할 때 머릿속으로 오늘 업무 고민을 계속 끌어안고 걷지 마세요. 3분 동안은 철저하게 주변 감각 정보만을 수동적으로 뇌에 수혈하는 것에만 집중하는 것이 핵심입니다.",
-      "ja": "散歩するときは、頭の中で今日の仕事のことを考え続けないでください。重要なのは、3 分間、末梢感覚情報を受動的に脳に注入することに厳密に集中することです。",
-      "zh": "散步时，不要一直在脑子里担心今天的工作。关键是严格专注于被动地将外围感觉信息输入大脑3分钟。",
-      "es": "Cuando salgas a caminar, no sigas preocupándote por el trabajo de hoy en tu cabeza. La clave es centrarse estrictamente en transfundir pasivamente información sensorial periférica al cerebro durante 3 minutos.",
-      "fr": "Lorsque vous vous promenez, ne vous inquiétez pas du travail d'aujourd'hui dans votre tête. La clé est de se concentrer strictement sur la transfusion passive d’informations sensorielles périphériques dans le cerveau pendant 3 minutes.",
-      "de": "Machen Sie sich bei einem Spaziergang nicht ständig Gedanken über die heutige Arbeit im Kopf. Der Schlüssel liegt darin, sich drei Minuten lang ausschließlich auf die passive Übertragung peripherer sensorischer Informationen in das Gehirn zu konzentrieren.",
-      "pt": "Ao dar um passeio, não fique se preocupando com o trabalho de hoje em sua cabeça. A chave é focar estritamente na transfusão passiva de informações sensoriais periféricas para o cérebro por 3 minutos.",
-      "id": "Saat berjalan-jalan, jangan terus-terusan memikirkan pekerjaan hari ini. Kuncinya adalah fokus secara ketat pada transmisi pasif informasi sensorik perifer ke otak selama 3 menit."
+      "ko": "산책할 때 머릿속으로 오늘 업무 고민을 계속 끌어안고 걷지 마세요. 3분 동안은 철저하게 주변 감각 정보만을 수동적으로 뇌에 수혈하는 것에만 집중하는 것이 핵심입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Step 1: Environment settings and tool settings",
-          "ko": "1단계: 환경 설정 및 도구 세팅",
-          "ja": "ステップ1：環境設定とツール設定",
-          "zh": "第1步：环境设置和工具设置",
-          "es": "Paso 1: configuración del entorno y configuración de herramientas",
-          "fr": "Étape 1 : Paramètres de l'environnement et paramètres des outils",
-          "de": "Schritt 1: Umgebungseinstellungen und Werkzeugeinstellungen",
-          "pt": "Passo 1: Configurações de ambiente e configurações de ferramentas",
-          "id": "Langkah 1: Pengaturan lingkungan dan pengaturan alat"
+          "ko": "1단계: 환경 설정 및 도구 세팅"
         },
         "text": {
-          "en": "Every afternoon or after work, completely silence your smartphone for 3 minutes and head to a nearby park or a trail with light dirt and trees. Start the analog contemplation stage.",
-          "ko": "매일 오후나 일과가 끝난 후 3분 동안, 스마트폰을 완전히 무음 처리하고 주변 공원이나 가벼운 흙과 나무가 있는 산책로로 향합니다. 아날로그 사색 단계를 기동합니다.",
-          "ja": "毎日の午後または仕事後に、スマートフォンを 3 分間完全に沈黙させて、近くの公園や軽い土と木々のある小道に出かけます。アナログな熟考段階を開始します。",
-          "zh": "每天下午或下班后，将您的智能手机完全静音 3 分钟，然后前往附近的公园或有轻微泥土和树木的小径。开始模拟沉思阶段。",
-          "es": "Todas las tardes o después del trabajo, silencia completamente tu teléfono inteligente durante 3 minutos y dirígete a un parque cercano o a un sendero con tierra ligera y árboles. Inicia la etapa de contemplación analógica.",
-          "fr": "Chaque après-midi ou après le travail, faites taire complètement votre smartphone pendant 3 minutes et dirigez-vous vers un parc à proximité ou un sentier avec de la saleté légère et des arbres. Commencez l’étape de contemplation analogique.",
-          "de": "Schalten Sie Ihr Smartphone jeden Nachmittag oder nach der Arbeit drei Minuten lang vollständig stumm und begeben Sie sich in einen nahegelegenen Park oder auf einen Pfad mit leichtem Schmutz und Bäumen. Starten Sie die analoge Kontemplationsphase.",
-          "pt": "Todas as tardes ou depois do trabalho, silencie completamente seu smartphone por 3 minutos e vá para um parque próximo ou uma trilha com terra leve e árvores. Inicie o estágio de contemplação analógica.",
-          "id": "Setiap sore atau setelah bekerja, diamkan ponsel cerdas Anda sepenuhnya selama 3 menit dan pergilah ke taman terdekat atau jalan setapak dengan sedikit tanah dan pepohonan. Mulailah tahap kontemplasi analog."
+          "ko": "매일 오후나 일과가 끝난 후 3분 동안, 스마트폰을 완전히 무음 처리하고 주변 공원이나 가벼운 흙과 나무가 있는 산책로로 향합니다. 아날로그 사색 단계를 기동합니다."
         }
       },
       {
         "name": {
-          "en": "Step 2: Full sense projection and practice",
-          "ko": "2단계: 온전한 감각 투사와 실천",
-          "ja": "ステップ 2: 完全な感覚の投影と実践",
-          "zh": "第二步：全感官投射和练习",
-          "es": "Paso 2: Proyección y práctica de todos los sentidos.",
-          "fr": "Étape 2 : Projection plein sens et pratique",
-          "de": "Schritt 2: Vollständige Sinnesprojektion und Übung",
-          "pt": "Passo 2: Projeção de sentido pleno e prática",
-          "id": "Langkah 2: Proyeksi dan latihan indera penuh"
+          "ko": "2단계: 온전한 감각 투사와 실천"
         },
         "text": {
-          "en": "Instead of wearing earphones while walking, focus your entire awareness on the feeling of the ground under your feet, the sound of the wind passing by, and the scent of the leaves of the street trees.",
-          "ko": "걸으며 이어폰을 끼는 대신, 발바닥에 닿는 지면의 느낌, 스치는 바람 소리, 가로수의 나뭇잎 향기에만 온 인지력을 고정합니다.",
-          "ja": "イヤホンをしながら歩くのではなく、足元の地面の感触、通り過ぎる風の音、街路樹の葉の香りに全意識を集中して歩きましょう。",
-          "zh": "走路时不要戴着耳机，而是将整个意识集中在脚下地面的感觉、风吹过的声音以及行道树树叶的气味上。",
-          "es": "En lugar de usar auriculares mientras camina, concentre toda su atención en la sensación del suelo bajo sus pies, el sonido del viento que pasa y el aroma de las hojas de los árboles de la calle.",
-          "fr": "Au lieu de porter des écouteurs lorsque vous marchez, concentrez toute votre attention sur la sensation du sol sous vos pieds, le bruit du vent qui passe et l'odeur des feuilles des arbres de la rue.",
-          "de": "Anstatt beim Gehen Kopfhörer zu tragen, konzentrieren Sie Ihr gesamtes Bewusstsein auf das Gefühl des Bodens unter Ihren Füßen, das Geräusch des vorbeiziehenden Windes und den Duft der Blätter der Straßenbäume.",
-          "pt": "Em vez de usar fones de ouvido enquanto caminha, concentre toda a sua atenção na sensação do chão sob seus pés, no som do vento passando e no cheiro das folhas das árvores da rua.",
-          "id": "Daripada memakai earphone saat berjalan, fokuskan seluruh kesadaran Anda pada perasaan tanah di bawah kaki Anda, suara angin yang lewat, dan aroma dedaunan pepohonan jalanan."
+          "ko": "걸으며 이어폰을 끼는 대신, 발바닥에 닿는 지면의 느낌, 스치는 바람 소리, 가로수의 나뭇잎 향기에만 온 인지력을 고정합니다."
         }
       },
       {
         "name": {
-          "en": "Step 3: Objective gaze and meta-organization",
-          "ko": "3단계: 객관적 응시 및 메타 정리",
-          "ja": "ステップ3：客観的な視線とメタ組織化",
-          "zh": "第三步：客观审视和元组织",
-          "es": "Paso 3: Mirada objetiva y metaorganización",
-          "fr": "Étape 3 : Regard objectif et méta-organisation",
-          "de": "Schritt 3: Objektiver Blick und Metaorganisation",
-          "pt": "Passo 3: Olhar objetivo e meta-organização",
-          "id": "Langkah 3: Pandangan objektif dan meta-organisasi"
+          "ko": "3단계: 객관적 응시 및 메타 정리"
         },
         "text": {
-          "en": "Breathe in all the analog factual stimulation provided by nature to completely wash away the cognitive fatigue from your exhausted frontal lobe and record it in your diary.",
-          "ko": "자연이 주는 아날로그적 팩트 자극을 온전히 들이마시며 지친 전두엽의 인지적 피로를 깨끗이 씻어내고 다이어리에 기록합니다.",
-          "ja": "自然が提供するアナログな事実の刺激をすべて吸い込み、疲れ切った前頭葉から認知疲労を完全に洗い流し、日記に記録します。",
-          "zh": "吸入大自然提供的所有模拟事实刺激，彻底洗去你疲惫的额叶的认知疲劳，并将其记录在你的日记中。",
-          "es": "Inhale toda la estimulación factual analógica proporcionada por la naturaleza para eliminar por completo la fatiga cognitiva de su lóbulo frontal agotado y regístrelo en su diario.",
-          "fr": "Respirez toute la stimulation factuelle analogique fournie par la nature pour éliminer complètement la fatigue cognitive de votre lobe frontal épuisé et enregistrez-la dans votre journal.",
-          "de": "Atmen Sie alle analogen, sachlichen Reize ein, die die Natur bietet, um die kognitive Müdigkeit vollständig aus Ihrem erschöpften Frontallappen zu entfernen, und halten Sie sie in Ihrem Tagebuch fest.",
-          "pt": "Inspire toda a estimulação factual analógica fornecida pela natureza para eliminar completamente a fadiga cognitiva de seu exausto lobo frontal e registre-a em seu diário.",
-          "id": "Hirup semua stimulasi faktual analog yang disediakan oleh alam untuk sepenuhnya menghilangkan kelelahan kognitif dari lobus frontal Anda yang kelelahan dan catatlah dalam buku harian Anda."
+          "ko": "자연이 주는 아날로그적 팩트 자극을 온전히 들이마시며 지친 전두엽의 인지적 피로를 깨끗이 씻어내고 다이어리에 기록합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "매일 정원 가꾸기 루틴을 수행해야 하나요?",
-          "en": "Should I perform this gardening routine every day?",
-          "ja": "毎日ガーデニングルーティンを行うべきですか？",
-          "zh": "每天都需要进行这种园艺规程吗？",
-          "es": "¿Debo realizar esta rutina de jardinería todos los días?",
-          "fr": "Dois-je faire cette routine de jardinage chaque jour ?",
-          "de": "Sollte ich diese Gartenarbeitsroutine jeden Tag durchführen?",
-          "pt": "Devo realizar esta rotina de jardinagem todos os dias?",
-          "id": "Haruskah saya melakukan rutinitas berkebun ini setiap hari?"
+          "ko": "매일 정원 가꾸기 루틴을 수행해야 하나요?"
         },
         "answer": {
-          "ko": "네, 정원의 흙을 만지고 잡초를 솎아내는 물리적 신체 노동이 문학적 몰입에 지친 전두엽을 휴식하게 만듭니다.",
-          "en": "Yes, physical labor like touching soil and weeding relaxes the prefrontal cortex exhausted from intense literary focus.",
-          "ja": "庭の土を触って雑草を抜く物理的な身体労働が、文学的な没頭に疲れた前頭葉を休息させます。",
-          "zh": "是的，触摸泥土、拔除杂草等体力劳动，能让因文学创作而疲惫的前额叶得到休息。",
-          "es": "Sí, el trabajo físico como tocar tierra y deshierbar relaja la corteza prefrontal agotada por el intenso enfoque mental.",
-          "fr": "Oui, le travail physique como toucher la terre et désherber repose le cortex préfrontal fatigué par la concentration.",
-          "de": "Ja, körperliche Arbeit wie das Berühren der Erde und Unkrautjäten entspannt den präfrontalen Kortex nach geistiger Anstrengung.",
-          "pt": "Sim, o trabalho físico como tocar na terra e capinar relaxa o córtex pré-frontal exausto pelo foco literário intenso.",
-          "id": "Ya, pekerjaan fisik seperti menyentuh tanah dan mencabut gulma mengistirahatkan korteks prefrontal yang lelah akibat fokus mental."
+          "ko": "네, 정원의 흙을 만지고 잡초를 솎아내는 물리적 신체 노동이 문학적 몰입에 지친 전두엽을 휴식하게 만듭니다."
         }
       },
       {
         "question": {
-          "ko": "가꿀 정원이나 흙이 없으면 어떻게 대체하나요?",
-          "en": "How can I substitute if I don't have a garden or soil?",
-          "ja": "手入れする庭や土がない場合はどうすればいいですか？",
-          "zh": "没有可以打理的家庭花园或泥土时该如何替代？",
-          "es": "¿Cómo puedo sustituir este hábito si no tengo un jardín o tierra?",
-          "fr": "Comment puis-je remplacer cette routine si je n'ai ni jardin ni terre ?",
-          "de": "Wie kann ich die Routine ersetzen, wenn ich keinen Garten oder keine Erde habe?",
-          "pt": "Como posso substituir se não tiver um jardim ou terra?",
-          "id": "Bagaimana cara menggantinya jika saya tidak memiliki kebun atau tanah?"
+          "ko": "가꿀 정원이나 흙이 없으면 어떻게 대체하나요?"
         },
         "answer": {
-          "ko": "베란다의 작은 실내 화분을 돌보거나, 분갈이를 하고, 마른 잎을 다듬어주는 식물 관리 활동으로 훌륭히 대체 가능합니다.",
-          "en": "Caring for small indoor plants on a balcony, repotting, or trimming dry leaves is an excellent substitute.",
-          "ja": "ベランダの小さな室内植木鉢を世話したり、植え替えをしたり、枯れ葉を整える植物管理活動で立派に代替可能です。",
-          "zh": "照料阳台上的室内小盆栽、进行换盆、或者修剪枯叶等养花弄草的活动，也是极佳的替代方案。",
-          "es": "Cuidar plantas de interior en un balcón, trasplantar o podar hojas secas es un excelente sustituto.",
-          "fr": "Prendre soin de petites plantes d'intérieur sur un balcon, rempoter ou tailler des feuilles sèches est un excellent substitut.",
-          "de": "Das Pflegen kleiner Zimmerpflanzen, Umtopfen oder das Abschneiden trockener Blätter ist ein hervorragender Ersatz.",
-          "pt": "Cuidar de pequenas plantas de interior em uma varanda, replantar ou aparar folhas secas é um excelente substituto.",
-          "id": "Merawat tanaman hias kecil di balkon, mengganti pot, atau memotong daun kering adalah alternatif pengganti yang bagus."
+          "ko": "베란다의 작은 실내 화분을 돌보거나, 분갈이를 하고, 마른 잎을 다듬어주는 식물 관리 활동으로 훌륭히 대체 가능합니다."
         }
       }
-    ],
-    "pubDate": "2026-02-16",
-    "updatedDate": "2026-02-16"
+    ]
   }
 }

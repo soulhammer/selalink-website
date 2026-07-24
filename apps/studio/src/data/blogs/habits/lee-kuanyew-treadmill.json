@@ -1,218 +1,72 @@
 {
   "lee-kuanyew-treadmill": {
     "title": {
-      "ko": "건국의 스트레스를 비우는 땀방울? 리콴유의 운동 후 명상",
-      "en": "Sweat Droplets Emptying Founding Stress? Lee Kuan Yew's Post-Exercise Meditation",
-      "ja": "建国のストレスを洗い流す汗の雫？リー・クアンユーの運動後瞑想",
-      "zh": "释放建国压力的汗水？李光耀的“运动后冥想”",
-      "es": "¿Sudor para liberar el estrés de fundar una nación? La meditación post-ejercicio de Lee Kuan Yew",
-      "fr": "Évacuer le stress d'une nation par la sueur ? La méditation après l'effort de Lee Kuan Yew",
-      "de": "Wie Staatsgründer Lee Kuan Yew Stress wegatmete? Laufband- und Meditations-Routine",
-      "pt": "Suor para liberar o estresse de fundar uma nação? A meditação pós-exercício de Lee Kuan Yew",
-      "id": "Tetesan Keringat yang Membuang Stres Pembangunan Negara? Meditasi Pasca-Olahraga Lee Kuan Yew"
+      "ko": "건국의 스트레스를 비우는 땀방울? 리콴유의 운동 후 명상"
     },
     "description": {
-      "ko": "싱가포르 건국의 성웅 리콴유 총리. 매일 퇴근 후 30분 트레드밀을 달린 직후 20분 호흡 명상을 통해 결정을 정비하고 뇌를 회복했던 심신 케어 과학을 알아봅니다.",
-      "en": "Singapore's founding Prime Minister Lee Kuan Yew. Explore the mind-body care science of his daily routine of 30-minute treadmill running followed by 20-minute breathing meditation to reset decisions and recover the brain.",
-      "ja": "シンガポール建国の父、リー・クアンユー首相。毎日の退勤後に30分トレッドミルで走った直後、20分の呼吸瞑想を行うことで決断力を整え脳を回復させた心身ケアの科学を紹介します。",
-      "zh": "新加坡建国总理李光耀。探索他每天下班后在跑步机上跑步30分钟，紧接着进行20分钟呼吸冥想，从而调整决策状态、恢复脑力的身心调理科学。",
-      "es": "El primer ministro fundador de Singapur, Lee Kuan Yew. Descubra la ciencia del cuidado mental y físico de su rutina diaria: 30 minutos de cinta seguidos de 20 minutos de meditación para reiniciar la mente.",
-      "fr": "Le Premier ministre fondateur de Singapour, Lee Kuan Yew. Découvrez la routine corps-esprit qui lui a permis de garder sa clarté décisionnelle : 30 minutes de course suivies de 20 minutes de méditation.",
-      "de": "Erfahren Sie, wie Singapurs Staatsgründer Lee Kuan Yew durch die Kombination von 30 Minuten Laufband und 20 Minuten Meditation geistige Klarheit bis ins hohe Alter bewahrte.",
-      "pt": "O primeiro-ministro fundador de Cingapura, Lee Kuan Yew. Descubra a ciência do cuidado mental e físico de sua rotina diária: 30 minutos de esteira seguidos de 20 minutos de meditação para reiniciar a mente.",
-      "id": "Perdana Menteri pendiri Singapura, Lee Kuan Yew. Temukan sains perawatan jiwa dan raga dari rutinitas hariannya, berlari di treadmill selama 30 menit diikuti dengan meditasi pernapasan selama 20 menit untuk menyelaraskan keputusan dan memulihkan otak."
+      "ko": "싱가포르 건국의 성웅 리콴유 총리. 매일 퇴근 후 30분 트레드밀을 달린 직후 20분 호흡 명상을 통해 결정을 정비하고 뇌를 회복했던 심신 케어 과학을 알아봅니다."
     },
     "authority": {
-      "ko": "리콴유 회고록 'The Singapore Story' 및 싱가포르 국립 아카이브 기록 사료",
-      "en": "Lee Kuan Yew's Memoirs 'The Singapore Story' & National Archives of Singapore Archive Documents",
-      "ja": "リー・クアンユー回顧録「The Singapore Story」およびシンガポール国立公文書館記録史料",
-      "zh": "李光耀回忆录《The Singapore Story》与新加坡国家档案馆历史文献",
-      "es": "Memorias de Lee Kuan Yew 'The Singapore Story' y Documentos de Archivo de los Archivos Nacionales de Singapur",
-      "fr": "Mémoires de Lee Kuan Yew 'The Singapore Story' & archives des Archives nationales de Singapour",
-      "de": "Lee Kuan Yews Memoiren „The Singapore Story“ & Dokumente des Nationalarchivs von Singapur",
-      "pt": "Memórias de Lee Kuan Yew 'The Singapore Story' e Documentos de Arquivo dos Arquivos Nacionais de Cingapura",
-      "id": "Memoar Lee Kuan Yew 'The Singapore Story' & Dokumen Arsip Nasional Singapura"
+      "ko": "리콴유 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "척박한 아시아의 작은 도시국가 싱가포르를 세계 최고의 글로벌 금융 허브이자 최강의 경제 부국으로 도약시킨 건국의 지도자, 리콴유 총리. 그는 강대국 틈바구니 속에서 생존 전략을 짜내야 하는 극심한 중압감과 매 순간 국가의 운명을 결정해야 하는 결정 마비 상황에 처했습니다. 이 가혹한 스트레스 상황 속에서 그가 90세가 넘을 때까지 명석한 두뇌와 단호한 통찰력을 유지할 수 있었던 비결은 무엇일까요?\n\n리콴유 총리는 극도로 엄격하고 강박적인 심신 관리 루틴을 지켜왔습니다. 그는 매일 저녁 퇴근 직후 트레드밀에서 땀을 비 오듯 흘리며 30분 동안 달렸습니다. 그리고 신체적 한계에 부딪히며 땀을 낸 바로 그 직후, 조용히 가부좌를 틀고 20분간 깊은 호흡 명상을 통해 활성화된 교감 신경을 이완시켰습니다. 동적 훈련과 정적 이완이 결합된 이 독특한 루틴은 그의 뇌를 가장 순수한 평정심으로 리셋하는 훌륭한 해독제였습니다.\n\n오늘 BuildSelf에서는 리처드 브랜슨에 버금가는 리콴유 총리의 '운동 후 20분 명상' 루틴이 지닌 신경학적 원리와 현대인의 번아웃 해소용 적용 가이드를 알아봅니다.",
-      "en": "Lee Kuan Yew, the founding Prime Minister who transformed Singapore, a small and resource-poor Asian city-state, into a world-class global financial hub and an economic powerhouse. He faced immense psychological pressure formulating survival strategies amid major powers and decision paralysis determining the nation's fate at every turn. How did he maintain a sharp brain and resolute insight into his 90s?\n\nPrime Minister Lee Kuan Yew adhered to an extremely strict mind-body care routine. Every evening immediately after work, he ran on the treadmill for 30 minutes, sweating profusely. And right after pushing physical limits and sweating, he sat quietly in a lotus position, calming his active sympathetic nervous system through deep breathing meditation for 20 minutes. This unique routine combining active training and static relaxation was an excellent antidote resetting his brain to pure equanimity.\n\nToday, BuildSelf explores the neurological principles of Prime Minister Lee Kuan Yew's 'post-exercise 20-minute meditation' routine and a guide for modern people to relieve burnout.",
-      "ja": "この歴史的習慣の実践において： , . . 90 ? この歴史的習慣の実践において： . 30 . , 20 . . この歴史的習慣の実践において： BuildSelf ' 20 ' .",
-      "zh": "在这一历史性惯例的实践中： , . . 90 ? 在这一历史性惯例的实践中： . 30 . , 20 . . 在这一历史性惯例的实践中： BuildSelf ' 20 ' .",
-      "es": "El primer ministro fundador Lee Kuan Yew, quien transformó a Singapur, una pequeña ciudad-estado sin recursos, en un centro financiero global. Se enfrentaba a una inmensa presión formulando estrategias de supervivencia y a la parálisis por decisión determinando el destino de la nación. ¿Cómo mantuvo su cerebro agudo hasta los 90 años?\n\nLee Kuan Yew se adhirió a una rutina estricta de cuidado mental. Cada tarde, inmediatamente después del trabajo, corría en la cinta durante 30 minutos, sudando profusamente. Justo después, se sentaba en loto y realizaba una meditación profunda durante 20 minutos. Esta rutina que combinaba entrenamiento activo con relajación estática era el antídoto para reiniciar su cerebro.\n\nHoy, BuildSelf explora los principios de la rutina de 'meditación de 20 minutos post-ejercicio' y cómo adaptarla para aliviar el desgaste.",
-      "fr": "Lee Kuan Yew, le Premier ministre fondateur qui a métamorphosé Singapour, petite cité-état dépourvue de ressources, en un centre financier mondial. Il faisait face à une pression immense au milieu des superpuissances et au risque de paralysie décisionnelle. Comment a-t-il pu garder sa vivacité d'esprit jusqu'à 90 ans ?\n\nLee Kuan Yew s'astreignait à une discipline stricte. Chaque soir en rentrant du bureau, il courait 30 minutes sur un tapis de course. Immédiatement après cet effort intense, il s'asseyait en tailleur pour méditer en respirant profondément pendant 20 minutes, afin de calmer son système sympathique. Cette alternance d'effort et de calme était la formule idéale pour régénérer son cerveau.\n\nAujourd'hui, BuildSelf analyse les ressorts neurologiques de la routine de Lee Kuan Yew et propose un guide pour surmonter le burn-out.",
-      "de": "Staatsgründer Lee Kuan Yew führte den kleinen asiatischen Stadtstaat Singapur an die Weltspitze. Der ständige Druck zwischen den Großmächten und die Verantwortung für sein Land führten bei ihm oft zu geistiger Erschöpfung. Doch er hatte ein wirksames Mittel dagegen.\n\nJeden Abend direkt nach der Arbeit lief Lee 30 Minuten auf dem Laufband. Völlig ausgepowert setzte er sich danach sofort im Lotussitz hin und meditierte 20 Minuten lang ruhig. Diese Kombination aus Ausbelastung und Entspannung brachte sein vegetatives Nervensystem rasch wieder ins Gleichgewicht.\n\nHeute zeigt BuildSelf, wie diese „Sport-und-Stille“-Routine den Stresspegel senkt und wie Sie diese Entspannungsmethode im Alltag nutzen können.",
-      "pt": "O primeiro-ministro fundador Lee Kuan Yew, que transformou Cingapura, uma pequena cidade-estado sem recursos, em um centro financeiro global. Ele enfrentava uma imensa pressão formulando estratégias de sobrevivência e à paralisia por decisão determinando o destino da nação. Como manteve seu cérebro afiado até os 90 anos?\n\nLee Kuan Yew seguia uma rotina estrita de cuidado mental. Cada tarde, imediatamente após o trabalho, corria na esteira por 30 minutos, suando profusamente. Logo após, sentava-se em lótus e realizava uma meditação profunda por 20 minutos. Esta rotina que combinava treino ativo com relaxamento estático era o antídoto para reiniciar seu cérebro.\n\nHoge, o BuildSelf explora os princípios da rotina de 'meditación de 20 minutos pós-exercício' e como adaptá-la para aliviar o desgaste.",
-      "id": "Lee Kuan Yew, Perdana Menteri pendiri yang mengubah Singapura, sebuah negara kota Asia yang kecil dan miskin sumber daya, menjadi pusat keuangan global kelas dunia dan kekuatan ekonomi. Ia menghadapi tekanan psikologis yang sangat besar dalam merumuskan strategi bertahan hidup di antara kekuatan-kekuatan besar dan kelumpuhan keputusan dalam menentukan nasib bangsa di setiap kesempatan. Bagaimana ia menjaga ketajaman otak dan wawasannya yang teguh hingga usia 90-an?\n\nPerdana Menteri Lee Kuan Yew mematuhi rutinitas perawatan jiwa dan raga yang sangat ketat. Setiap malam segera setelah pulang kerja, ia berlari di treadmill selama 30 menit, berkeringat deras. Dan tepat setelah melampaui batas fisik dan berkeringat, ia duduk dengan tenang dalam posisi teratai, menenangkan sistem saraf simpatiknya yang aktif melalui meditasi pernapasan dalam selama 20 menit. Rutinitas unik yang menggabungkan latihan aktif dan relaksasi statis ini adalah penawar luar biasa yang menyetel kembali otaknya ke ketenangan mutlak.\n\nHari ini, BuildSelf mengeksplorasi prinsip-prinsip neurologis dari rutinitas 'meditasi 20 menit pasca-olahraga' Perdana Menteri Lee Kuan Yew dan panduan bagi manusia modern untuk meredakan kejenuhan (burnout)."
+      "ko": "\"정신력이 체력을 지배하지만, 그 정신력을 버티게 하는 것은 매일 강박적으로 땀을 흘리는 규칙적인 신체 단련이다.\" 🇸🇬\n\n척박한 아시아의 작은 도시국가 싱가포르를 세계 최고의 글로벌 금융 허브이자 최강의 경제 부국으로 도약시킨 건국의 지도자, 리콴유 총리. 그는 강대국 틈바구니 속에서 생존 전략을 짜내야 하는 극심한 중압감과 매 순간 국가의 운명을 결정해야 하는 결정 마비 상황에 처했습니다. 이 가혹한 스트레스 상황 속에서 그가 90세가 넘을 때까지 명석한 두뇌와 단호한 통찰력을 유지할 수 있었던 비결은 무엇일까요?\n\n리콴유 총리는 극도로 엄격하고 강박적인 심신 관리 루틴을 지켜왔습니다. 그는 매일 저녁 퇴근 직후 트레드밀에서 땀을 비 오듯 흘리며 30분 동안 달렸습니다. 그리고 신체적 한계에 부딪히며 땀을 낸 바로 그 직후, 조용히 가부좌를 틀고 20분간 깊은 호흡 명상을 통해 활성화된 교감 신경을 이완시켰습니다. 동적 훈련과 정적 이완이 결합된 이 독특한 루틴은 그의 뇌를 가장 순수한 평정심으로 리셋하는 훌륭한 해독제였습니다.\n\n오늘 포스트에서는 리콴유 총리의 '운동 후 20분 명상' 루틴이 지닌 신경학적 원리와 현대인의 번아웃 해소용 적용 가이드를 알아봅니다."
     },
     "whyTitle": {
-      "ko": "유산소 기폭제와 부교감 신경 활성화의 시너지",
-      "en": "Synergy of Aerobic Catalyst and Parasympathetic Activation",
-      "ja": "有酸素起爆剤と副交感神経活性化のシナジー",
-      "zh": "有氧催化与副交感神经激活的协同效应",
-      "es": "Sinergia de catalizador aeróbico y activación parasimpática",
-      "fr": "Synergie de l'aérobie et de l'activation parasympathique",
-      "de": "Neurovegetative Synergie durch Sport und Meditation",
-      "pt": "Sinergia do catalisador aeróbico e ativação parassimpática",
-      "id": "Sinergi Katalis Aerobik dan Aktivasi Parasimpatis"
+      "ko": "유산소 기폭제와 부교감 신경 활성화의 시너지"
     },
     "whyDesc": {
-      "ko": "땀을 흘릴 정도로 격렬하게 달리는 유산소 운동은 뇌에 축적된 노폐물 배출을 촉진하고, 인지 피로 상태에서 분비된 유해 화학 물질을 쓸어냅니다. 이후 바로 실시하는 호흡 명상은 심장을 세차게 뛰게 만든 <strong>교감 신경(Sympathetic Nervous System)</strong> 상태를 이완을 관장하는 <strong>부교감 신경(Parasympathetic Nervous System)</strong> 상태로 급격하게 전환합니다.\n\n이 급격한 자율신경계의 변환 프로세스는, 스트레스 호르몬인 코르티솔(Cortisol)의 활성을 최단 시간 내에 낮추어 뇌의 항상성(Homeostasis)을 최고조로 이끕니다. 극도의 긴장 후에 찾아오는 완벽한 이완은 뇌세포의 피로 회복을 가속화하고, 복잡한 잡념을 배제하여 최적의 숙면 환경과 지적인 명료함을 복원합니다.",
-      "en": "Aerobic exercise intense enough to cause sweating promotes the discharge of accumulated waste in the brain and sweeps away harmful chemical substances produced during cognitive fatigue. The subsequent breathing meditation rapidly shifts the <strong>sympathetic nervous system</strong> state, which made the heart beat vigorously, to the <strong>parasympathetic nervous system</strong> state that regulates relaxation.\n\nThis rapid autonomic shift decreases the activity of the stress hormone cortisol in the shortest time, driving the brain's homeostasis to its peak. Perfect relaxation following extreme tension accelerates brain cell fatigue recovery, eliminates complicated distractions, and restores optimal sleep environment and intellectual clarity.",
-      "ja": "汗をかくほど激しく走る有酸素運動は、脳に蓄積された老廃物の排出を促進し, 認知疲労状態で分泌された有害な化学物質を洗い流します. その後すぐに実施する呼吸瞑想は、心臓を激しく脈打たせた<strong>交感神経（Sympathetic Nervous System）</strong>の状態を、リラックスを司る<strong>副交感神経（Parasympathetic Nervous System）</strong>の状態へと急激にシフトさせます.\n\nこの急激な自律神経系の変換プロセスは, ストレスホルモンであるコルチゾール（Cortisol）の活性を最短時間で低下させ, 脳の恒常性（Homeostasis）を最高潮へと導きます. 極度の緊張の後に訪れる完璧な弛緩は, 脳細胞の疲労回復を加速させ、複雑な雑念を排除して、最適な熟睡環境と知的なクリアさを復元します.",
-      "zh": "挥汗如雨的有氧运动能促进排出大脑中积累的代谢废物，清除脑力疲劳状态下分泌的有害化学物质。紧接着进行的呼吸冥想，能使令心脏剧烈跳动的<strong>交感神经（Sympathetic Nervous System）</strong>状态，急剧转化为控制放松的<strong>副交感神经（Parasympathetic Nervous System）</strong>状态。\n\n这种急剧的自主神经系统转换过程，能在最短时间内降低压力激素皮质醇（Cortisol）的活性，使大脑的自我调节恒常性（Homeostasis）达到顶点。极度紧张后的完美放松加速了脑细胞疲劳的恢复，排除了复杂的杂念，从而恢复了最佳的熟睡环境和智力清明状态。",
-      "es": "El ejercicio intenso estimula la eliminación de desechos en el cerebro. La meditación posterior cambia el estado del <strong>sistema simpático</strong> (que aceleró el corazón) al del <strong>sistema parasimpático</strong> (de relajación).\n\nEste cambio autónomo reduce el cortisol en tiempo récord, llevando la homeostasis cerebral al máximo. La relajación tras la tensión acelera la recuperación, elimina distracciones y restaura la claridad intelectual.",
-      "fr": "L'effort aérobie intense favorise l'élimination des toxines accumulées par la fatigue intellectuelle. La méditation qui suit fait rapidement basculer le **système sympathique** (actif pendant l'effort) vers le **système parasympathique** (détente).\n\nCe basculement fait chuter le taux de cortisol en un temps record. Cette alternance d'effort et de repos accélère la récupération des cellules cérébrales, élimine les pensées parasites et restaure un sommeil réparateur.",
-      "de": "Intensiver Ausdauersport regt die Durchblutung des Gehirns an und baut Stoffwechselprodukte ab. Die anschließende Meditation schaltet das Nervensystem sofort von <strong>Sympathikus</strong> (Leistung) auf <strong>Parasympathikus</strong> (Regeneration) um.\n\nDieser abrupte Wechsel senkt das Stresshormon Cortisol extrem schnell und bringt den Körper in die Homeostase. Das beschleunigt die Zellerholung, sorgt für erholsamen Schlaf und macht den Kopf wieder frei für neue Aufgaben.",
-      "pt": "O exercício intenso estimula a eliminação de resíduos no cérebro. A meditação posterior altera o estado do <strong>sistema simpático</strong> (que acelerou o coração) para o do <strong>sistema parassimpático</strong> (de relaxamento).\n\nEssa mudança autônoma reduz o cortisol em tempo recorde, levando a homeostase cerebral ao máximo. O relaxamento após a tensão acelera a recuperação, elimina distrações e restaura a clareza intelectual.",
-      "id": "Olahraga aerobik yang cukup intens hingga berkeringat meningkatkan pembuangan akumulasi limbah di otak dan menyapu zat kimia berbahaya yang dihasilkan selama kelelahan kognitif. Meditasi pernapasan berikutnya dengan cepat menggeser kondisi <strong>sistem saraf simpatik</strong>, yang membuat jantung berdetak kencang, menjadi kondisi <strong>sistem saraf parasimpatis</strong> yang mengatur relaksasi.\n\nPergeseran otonom yang cepat ini menurunkan aktivitas hormon stres kortisol dalam waktu singkat, mendorong homeostasis otak ke puncaknya. Relaksasi sempurna setelah ketegangan ekstrim mempercepat pemulihan kelelahan sel otak, menghilangkan gangguan yang rumit, dan memulihkan lingkungan tidur yang optimal serta kejernihan intelektual."
+      "ko": "땀을 흘릴 정도로 격렬하게 달리는 유산소 운동은 뇌에 축적된 노폐물 배출을 촉진하고, 인지 피로 상태에서 분비된 유해 화학 물질을 쓸어냅니다. 이후 바로 실시하는 호흡 명상은 심장을 세차게 뛰게 만든 <strong>교감 신경(Sympathetic Nervous System)</strong> 상태를 이완을 관장하는 <strong>부교감 신경(Parasympathetic Nervous System)</strong> 상태로 급격하게 전환합니다.\n\n이 급격한 자율신경계의 변환 프로세스는, 스트레스 호르몬인 코르티솔(Cortisol)의 활성을 최단 시간 내에 낮추어 뇌의 항상성(Homeostasis)을 최고조로 이끕니다. 극도의 긴장 후에 찾아오는 완벽한 이완은 뇌세포의 피로 회복을 가속화하고, 복잡한 잡념을 배제하여 최적의 숙면 환경과 지적인 명료함을 복원합니다."
     },
     "cautionTitle": {
-      "ko": "심장 박동 직후 이완의 골든타임 보존",
-      "en": "Preserving the Golden Time of Relaxation Immediately After Heartbeat Spike",
-      "ja": "心拍直後の弛緩のゴールデンタイム保存",
-      "zh": "保留心率激增后立即放松的黄金时间",
-      "es": "Aprovechar el momento clave de relajación tras el esfuerzo",
-      "fr": "Saisir le moment idéal de détente juste après l'effort",
-      "de": "Das Zeitfenster direkt nach der Belastung nutzen",
-      "pt": "Aproveitar o momento-chave de relaxamento após o esforço",
-      "id": "Mempertahankan Golden Time Relaksasi Segera Setelah Detak Jantung Melonjak"
+      "ko": "심장 박동 직후 이완의 골든타임 보존"
     },
     "cautionDesc": {
-      "ko": "리콴유식 명상 루틴의 핵심은 '운동 후 샤워나 다른 작업으로 넘어가기 전 즉시 조용한 명상에 안착해야 한다'는 것입니다. 심장 박동이 크게 활성화된 직후에 곧바로 호흡을 조절하기 시작해야 뇌의 자율신경계 변환 기제가 가장 강력하게 작동하여 코르티솔 농도를 최단 시간에 끌어내립니다. 시간 간격을 길게 두지 마십시오.",
-      "en": "The key detail in Lee Kuan Yew's meditation routine is 'settling into quiet meditation immediately after working out, before showering or moving to other tasks.' Tuning your breath right after a high heart rate spike maximizes the autonomic shift mechanism, dropping cortisol levels in the shortest time. Do not leave a long time gap.",
-      "ja": "リー・クアンユー式瞑想ルーティンの核心は、「運動後, シャワーを浴びたり他の作業に移ったりする前に, 直ちに静かな瞑想に入るべきだ」ということです. 心拍が大きく活性化した直後に、すぐさま呼吸をコントロールし始めてこそ, 脳の自律神経系変換システムが最も強力に働き、コルチゾール濃度を最短時間で低下させます. 時間の間隔を長く置かないでください.",
-      "zh": "李光耀式冥想常规的关键在于“必须在运动后、冲澡或转向其他工作之前立即进入安静的冥想状态”。只有在心率大幅上升后立即开始调整呼吸，大脑的自主神经系统转换机制才能最强有力地发挥作用，从而在最短时间内降低皮质醇浓度。切勿间隔过长时间。",
-      "es": "La clave de la rutina de Lee Kuan Yew es 'iniciar la meditación justo al terminar el ejercicio, antes de ducharse o hacer otra cosa'. Controlar la respiración inmediatamente después de acelerar el pulso maximiza el cambio autónomo y baja el cortisol.",
-      "fr": "La règle d'or est de s'asseoir pour méditer immédiatement après l'effort, avant même la douche ou toute autre activité. C'est à ce moment précis que le basculement autonome est le plus fort, réduisant le cortisol au minimum.",
-      "de": "Der Schlüssel liegt darin, direkt nach der Belastung zu meditieren – noch vor dem Duschen oder anderen Aufgaben. Das sofortige Regulieren des Atems nach dem hohen Puls zwingt das Nervensystem zur raschen Cortisol-Senkung.",
-      "pt": "A chave da rotina de Lee Kuan Yew é 'iniciar a meditação logo ao terminar o exercício, antes de tomar banho ou fazer outra coisa'. Controlar a respiração imediatamente após acelerar o pulso maximiza a mudança autônoma e baixa o cortisol.",
-      "id": "Detail penting dalam rutinitas meditasi Lee Kuan Yew adalah 'melakukan meditasi sunyi segera setelah berolahraga, sebelum mandi atau beralih ke tugas lain.' Menyelaraskan napas Anda tepat setelah lonjakan detak jantung yang tinggi memaksimalkan mekanisme pergeseran otonom, menurunkan kadar kortisol dalam waktu singkat. Jangan biarkan ada jeda waktu yang lama."
+      "ko": "리콴유식 명상 루틴의 핵심은 '운동 후 샤워나 다른 작업으로 넘어가기 전 즉시 조용한 명상에 안착해야 한다'는 것입니다. 심장 박동이 크게 활성화된 직후에 곧바로 호흡을 조절하기 시작해야 뇌의 자율신경계 변환 기제가 가장 강력하게 작동하여 코르티솔 농도를 최단 시간에 끌어내립니다. 시간 간격을 길게 두지 마십시오."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 30분 고강도 유산소 운동",
-          "en": "Step 1: 30-Minute High-Intensity Aerobic Exercise",
-          "ja": "ステップ1：30分間の高強度有酸素運動",
-          "zh": "第一步：30分钟高强度有氧运动",
-          "es": "Paso 1: 30 minutos de ejercicio aeróbico de alta intensidad",
-          "fr": "Étape 1 : 30 minutes d'effort aérobie intense",
-          "de": "Schritt 1: 30 Minuten intensives Cardio-Training",
-          "pt": "Passo 1: 30 minutos de exercício aeróbico de alta intensidade",
-          "id": "Langkah 1: 30 Menit Olahraga Aerobik Intensitas Tinggi"
+          "ko": "1단계: 30분 고강도 유산소 운동"
         },
         "text": {
-          "ko": "저녁 퇴근 후, 트레드밀 달리기나 실내 자전거 타기 등 땀이 비 오듯 흐르고 호흡이 상당히 가빠지는 강도의 유산소 운동을 30분 동안 완수합니다.",
-          "en": "After work in the evening, complete 30 minutes of aerobic exercise, such as running on a treadmill or indoor cycling, at an intensity that makes you sweat profusely and breathe heavily.",
-          "ja": "夕方の退勤後, トレッドミルでのランニングや室内自転車漕ぎなど, 汗が滝のように流れ呼吸がかなり上がる強度の有酸素運動を30分間やり遂げます.",
-          "zh": "晚上劳累一天后，进行30分钟有氧运动，如跑步机跑步或骑室内自行车，达到挥汗如雨、呼吸明显加快的强度。",
-          "es": "Por la tarde, complete 30 minutos de ejercicio aeróbico (cinta o bicicleta estática) a una intensidad que le haga sudar y respirar fuerte.",
-          "fr": "En fin de journée, effectuez 30 minutes de course ou de vélo à un rythme soutenu, pour transpirer et accélérer le rythme cardiaque.",
-          "de": "Laufen Sie 30 Minuten auf dem Laufband oder fahren Sie Rad, sodass Sie ins Schwitzen kommen und der Puls steigt.",
-          "pt": "Ao final da tarde, complete 30 minutes de exercício aeróbico (esteira ou bicicleta estática) a uma intensidade que faça suar e respirar forte.",
-          "id": "Setelah pulang kerja di malam hari, selesaikan 30 menit olahraga aerobik, seperti berlari di treadmill atau bersepeda statis, dengan intensitas yang membuat Anda berkeringat deras dan bernapas berat."
+          "ko": "저녁 퇴근 후, 트레드밀 달리기나 실내 자전거 타기 등 땀이 비 오듯 흐르고 호흡이 상당히 가빠지는 강도의 유산소 운동을 30분 동안 완수합니다."
         }
       },
       {
         "name": {
-          "ko": "2단계: 즉시 조용한 명상 공간 안착",
-          "en": "Step 2: Immediate Transition to a Quiet Meditation Space",
-          "ja": "ステップ2：直ちに静かな瞑想空間への安着",
-          "zh": "第二步：立即安坐于安静的冥想空间",
-          "es": "Paso 2: Transición inmediata a un espacio de meditación tranquilo",
-          "fr": "Étape 2 : S'installer immédiatement dans un espace calme",
-          "de": "Schritt 2: Direkt in die Stille gehen",
-          "pt": "Passo 2: Transição imediata para um espaço de meditação tranquilo",
-          "id": "Langkah 2: Transisi Segera ke Ruang Meditasi yang Tenang"
+          "ko": "2단계: 즉시 조용한 명상 공간 안착"
         },
         "text": {
-          "ko": "운동을 마치자마자 다른 행동을 하지 않고 즉시 가부좌를 틀거나 의자에 편안한 자세로 똑바로 앉아 눈을 감고 주의 집중 준비를 합니다.",
-          "en": "Right after finishing the workout, without doing anything else, immediately sit in a lotus position or sit upright in a comfortable chair, close your eyes, and prepare to focus attention.",
-          "ja": "運動を終えるやいなや, 他の行動を挟まずに即座に結跏趺坐（けっかふざ）するか、椅子に快適な姿勢でまっすぐ座り, 目を閉じて注意を集中する準備をします.",
-          "zh": "运动结束后不要做其他事情，立即盘腿而坐或以舒适的坐姿挺直坐在椅子上，闭上双眼，准备集中注意力。",
-          "es": "Nada más terminar, sin dilaciones, siéntese en loto o en una silla con postura recta, cierre los ojos y prepárese para concentrarse.",
-          "fr": "Dès l'effort terminé, asseyez-vous en tailleur ou bien droit sur une chaise, fermez les yeux et préparez-vous au calme.",
-          "de": "Setzen Sie sich direkt nach dem Training aufrecht hin, schließen Sie die Augen und konzentrieren Sie sich.",
-          "pt": "Logo após terminar, sem delongas, sente-se em lótus ou em uma cadeira com postura reta, feche os olhos e prepare-se para concentrar-se.",
-          "id": "Tepat setelah menyelesaikan olahraga, tanpa melakukan hal lain, segera duduk dalam posisi teratai atau duduk tegak di kursi yang nyaman, pejamkan mata Anda, dan bersiaplah untuk memusatkan perhatian."
+          "ko": "운동을 마치자마자 다른 행동을 하지 않고 즉시 가부좌를 틀거나 의자에 편안한 자세로 똑바로 앉아 눈을 감고 주의 집중 준비를 합니다."
         }
       },
       {
         "name": {
-          "ko": "3단계: 20분 자율 호흡 감각 집중",
-          "en": "Step 3: 20-Minute Focus on Natural Breath Sensations",
-          "ja": "ステップ3：20分間の自然呼吸感覚への集中",
-          "zh": "第三步：20分钟专注于自然呼吸感觉",
-          "es": "Paso 3: 20 minutos de enfoque en la respiración natural",
-          "fr": "Étape 3 : 20 minutes de concentration sur le souffle",
-          "de": "Schritt 3: 20 Minuten auf den Atem konzentrieren",
-          "pt": "Passo 3: 20 minutos de foco na respiração natural",
-          "id": "Langkah 3: 20 Menit Fokus pada Sensasi Napas Alami"
+          "ko": "3단계: 20분 자율 호흡 감각 집중"
         },
         "text": {
-          "ko": "20분 동안 숨이 콧구멍을 통해 들어오고 나가는 미세한 온도 차이와 감각, 횡격막의 움직임에만 의식을 완전히 고정하여 뇌파를 알파파로 떨어뜨립니다.",
-          "en": "For 20 minutes, fix your awareness entirely on the subtle temperature differences of breath entering and leaving your nostrils, and the movement of your diaphragm, lowering brainwaves to alpha waves.",
-          "ja": "20分間、息が鼻孔を通じて出入りする際の微細な温度差や感覚、横隔膜の動きにだけ意識を完全に固定し, 脳波をアルファ波へと低下させます.",
-          "zh": "在整整20分钟内，将意识完全固定在空气吸入和呼出鼻孔时的微小温差和感觉、以及横膈膜的运动上，使脑波降低至阿尔法波。",
-          "es": "Durante 20 minutos, fije su atención en la temperatura del aire al entrar y salir por la nariz y en su diafragma, llevando las ondas cerebrales a alfa.",
-          "fr": "Pendant 20 minutes, fixez votre attention sur la fraîcheur de l'air entrant par vos narines et sur le mouvement de votre diaphragme, pour apaiser le cerveau.",
-          "de": "Richten Sie Ihre Aufmerksamkeit 20 Minuten lang ganz auf den Luftstrom an Ihren Nasenflügeln und das Heben und Senken Ihres Bauches.",
-          "pt": "Durante 20 minutos, fixe a sua atenção na temperatura do ar ao entrar e sair pelo nariz e no seu diafragma, levando as ondas cerebrais a alfa.",
-          "id": "Selama 20 menit, pusatkan kesadaran Anda sepenuhnya pada perbedaan suhu napas yang masuk dan keluar dari lubang hidung Anda, serta gerakan diafragma Anda, sehingga menurunkan gelombang otak ke gelombang alfa."
+          "ko": "20분 동안 숨이 콧구멍을 통해 들어오고 나가는 미세한 온도 차이와 감각, 횡격막의 움직임에만 의식을 완전히 고정하여 뇌파를 알파파로 떨어뜨립니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "샤워를 한 후에 깨끗한 상태에서 명상을 하면 안 되나요?",
-          "en": "Can't I meditate in a clean state after showering?",
-          "ja": "シャワーを浴びてから、きれいな状態で瞑想してはいけませんか？",
-          "zh": "冲完澡、在身体清爽的状态下进行冥想不可以吗？",
-          "es": "¿No es mejor ducharse antes y meditar ya limpio?",
-          "fr": "Ne vaut-il pas mieux prendre sa douche avant de méditer ?",
-          "de": "Kann ich nicht erst duschen und dann in sauberem Zustand meditieren?",
-          "pt": "Não é melhor tomar banho antes e meditar já limpo?",
-          "id": "Bukankah saya bisa bermeditasi dalam kondisi bersih setelah mandi?"
+          "ko": "샤워를 한 후에 깨끗한 상태에서 명상을 하면 안 되나요?"
         },
         "answer": {
-          "ko": "안 됩니다. 뇌의 자율신경계 교정 시너지를 얻기 위한 생리학적 골든타임은 '심장 박동이 최고조에 달한 직후'입니다. 샤워를 하는 동안 심장 박동이 이미 정상 수준으로 돌아가 버리면 교감 신경에서 부교감 신경으로의 급격한 전환에 따른 코르티솔 소거 및 항상성 회복 효과가 크게 감소합니다. 반드시 땀을 흘린 직후 앉아야 합니다.",
-          "en": "No. The physiological golden time to obtain autonomic corrective synergy is 'immediately after the heart rate peaks.' If your heart rate returns to normal while showering, the effect of cortisol elimination and homeostasis recovery through the rapid autonomic shift decreases significantly. You must sit immediately after sweating.",
-          "ja": "いけません. 脳の自律神経系矯正シナジーを得るための生理学的なゴールデンタイムは、「心拍数が最高潮に達した直後」です. シャワーを浴びている間に心拍数がすでに正常レベルに戻ってしまうと、交感神経から副交感神経への急激な移行によるコルチゾール消去および恒常性回復効果が著しく低下します. 必ず汗を流した直後に座る必要があります.",
-          "zh": "不可以。获取大脑自主神经系统调整协同效应的生理黄金时间是“心率达到顶峰后立即进行”。如果在冲澡过程中主心率已经恢复到正常水平，那么通过交感神经向副交感神经急剧转换而带来的皮质醇清除和恒常性恢复效果就会大打折扣。必须在运动出汗后立即坐下冥想。",
-          "es": "No. El momento clave es justo después de acelerar el pulso. Si te duchas, el ritmo cardíaco vuelve a la normalidad y se reduce el efecto del cambio de sistema y la eliminación de cortisol. Siéntate en cuanto termines el ejercicio.",
-          "fr": "Non. Le moment idéal pour profiter du basculement nerveux est le pic de fréquence cardiaque. Si vous vous douchez d'abord, le cœur ralentit et l'effet de baisse du cortisol est amoindri. Installez-vous immédiatement.",
-          "de": "Nein. Der biologische Effekt ist direkt nach der Belastung am stärksten. Wenn Sie erst duschen, beruhigt sich der Puls, wodurch der regenerative Effekt des abrupten Wechsels auf den Parasympathikus verloren geht.",
-          "pt": "Não. O momento-chave é logo após acelerar o pulso. Se tomar banho, o ritmo cardíaco volta ao normal e reduz-se o efeito da mudança de sistema e eliminação de cortisol. Sente-se assim que terminar o exercício.",
-          "id": "Tidak. Waktu emas fisiologis untuk memperoleh sinergi korektif otonom adalah 'tepat setelah denyut jantung memuncak.' Jika denyut jantung Anda kembali normal saat mandi, efek eliminasi kortisol dan pemulihan homeostasis melalui pergeseran otonom yang cepat akan berkurang secara signifikan. Anda harus segera duduk setelah berkeringat."
+          "ko": "안 됩니다. 뇌의 자율신경계 교정 시너지를 얻기 위한 생리학적 골든타임은 '심장 박동이 최고조에 달한 직후'입니다. 샤워를 하는 동안 심장 박동이 이미 정상 수준으로 돌아가 버리면 교감 신경에서 부교감 신경으로의 급격한 전환에 따른 코르티솔 소거 및 항상성 회복 효과가 크게 감소합니다. 반드시 땀을 흘린 직후 앉아야 합니다."
         }
       },
       {
         "question": {
-          "ko": "명상 중에 계속 잡념이 떠오르면 실패한 것인가요?",
-          "en": "Is it a failure if distracting thoughts keep arising during meditation?",
-          "ja": "瞑想中に絶えず雑念が浮かぶのは, 失敗ですか？",
-          "zh": "冥想过程中不断涌现杂念算是失败了吗？",
-          "es": "¿Significa que he fallado si me distraigo durante la meditación?",
-          "fr": "Est-ce un échec si des pensées parasites apparaissent pendant la méditation ?",
-          "de": "Ist die Meditation gescheitert, wenn mir ständig Gedanken durch den Kopf gehen?",
-          "pt": "Significa que falhei se me distrair durante a meditação?",
-          "id": "Apakah gagal jika pikiran-pikiran yang mengganggu terus bermunculan selama meditasi?"
+          "ko": "명상 중에 계속 잡념이 떠오르면 실패한 것인가요?"
         },
         "answer": {
-          "ko": "아닙니다. 잡념이 떠오르는 것은 뇌의 자연스러운 현상입니다. 명상의 핵심은 잡념을 완전히 없애는 것이 아니라, '잡념이 떠올랐음을 인지하고 다시 호흡으로 주의를 부드럽게 되돌리는 주의 조절 훈련'입니다. 잡념을 알아차리고 돌아오는 매 순간 뇌의 전두엽 주의 집중 근육이 강화됩니다.",
-          "en": "No. Distracting thoughts are a natural brain phenomenon. The core of meditation is not eliminating thoughts completely but 'recognizing that your mind has wandered and gently returning attention to your breath.' Every time you notice distraction and return, the frontal lobe's attention muscle is strengthened.",
-          "ja": "いいえ. 雑念が浮かぶのは脳の自然な現象です. 瞑想の核心は雑念を完全に無くすことではなく、「雑念が浮かんだことを認知し、再び呼吸へと注意をやさしく戻す注意調節訓練」です. 雑念に気づいて戻ってくる旅に、脳の前頭葉の注意集中筋肉が鍛えられます.",
-          "zh": "不是。涌现杂念是大脑的自然现象。冥想的关键不在于完全消除杂念，而在于“意识到自己产生杂念，然后将注意力重新温柔地拉回到呼吸上的注意力调节训练”。每次察觉并拉回注意力，大脑前额叶的专注力肌肉都会得到一次强化。",
-          "es": "No. Es una reacción natural. El éxito de la meditación no radica en tener la mente en blanco, sino en darse cuenta de la distracción y devolver la atención a la respiración. Cada vez que lo haces, entrenas el lóbulo frontal.",
-          "fr": "Non, c'est tout à fait normal. L'important n'est pas d'avoir l'esprit vide, mais de réaliser que l'on s'est distrait et de ramener doucement son attention sur le souffle. Ce processus renforce le contrôle de votre attention.",
-          "de": "Nein, das ist völlig normal. Es geht nicht darum, keine Gedanken zu haben, sondern das Abschweifen zu bemerken und den Fokus sanft wieder auf den Atem zu richten. Das trainiert die Konzentrationsfähigkeit.",
-          "pt": "Não. É uma reação natural do cérebro. O sucesso da meditação não reside em ter a mente em branco, mas em perceber a distração e retornar a atenção à respiração. Cada vez que faz isso, treina o lobo frontal.",
-          "id": "Tidak. Pikiran yang mengganggu adalah fenomena otak yang alami. Inti dari meditasi bukanlah menghilangkan pikiran sepenuhnya melainkan 'menyadari bahwa pikiran Anda telah mengembara dan dengan lembut mengembalikan perhatian ke napas Anda.' Setiap kali Anda menyadari gangguan dan kembali, otot perhatian lobus frontal diperkuat."
+          "ko": "아닙니다. 잡념이 떠오르는 것은 뇌의 자연스러운 현상입니다. 명상의 핵심은 잡념을 완전히 없애는 것이 아니라, '잡념이 떠올랐음을 인지하고 다시 호흡으로 주의를 부드럽게 되돌리는 주의 조절 훈련'입니다. 잡념을 알아차리고 돌아오는 매 순간 뇌의 전두엽 주의 집중 근육이 강화됩니다."
         }
       }
-    ],
-    "pubDate": "2026-04-05",
-    "updatedDate": "2026-04-05"
+    ]
   }
 }

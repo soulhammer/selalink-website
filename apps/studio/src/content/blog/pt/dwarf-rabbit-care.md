@@ -16,23 +16,23 @@ faqs:
     answer: "Uma perda repentina do apetite ou fezes diminutas são sinais precoces de estase gastrointestinal. Dado que a paragem do intestino de um coelho pode ser fatal rapidamente, contacte um veterinário de animais exóticos imediatamente."
 ---
 
-Com orelhas minúsculas e um corpo redondo e compacto, o coelho anão de Holanda é adorado em todo o mundo. No entanto, o seu tamanho pequeno torna-os facilmente assustadiços, e são altamente propensos a problemas potencialmente mortais como a estase gastrointestinal (GI Stasis) se a ingestão de fibra for insuficiente. Quando estão ansiosos, batem com as patas traseiras no chão como um forte sinal de aviso. Hoje, o PetSelf analisa estes comportamentos de pancadas de patas e partilha uma rotina de cuidado no lar de 3 passos para a saúde digestiva e a segurança das unhas.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Evidência Veterinária e Comportamental
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este conteúdo baseia-se em <strong>Diretrizes Médicas da House Rabbit Society e Padrões Veterinários de Pequenos Animais</strong>.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Coelho Anão de Holanda (Netherland Dwarf Rabbit) Perfil principal
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">8 ~ 12 anos</span></div>
@@ -43,7 +43,7 @@ Com orelhas minúsculas e um corpo redondo e compacto, o coelho anão de Holanda
 
 ## 1. Expressão emocional do coelho anão: pancadas de patas e ranger de dentes
 
-Os coelhos anões de Holanda batem as suas patas traseiras com força contra o chão 'Pancadas de patas traseiras (Thumping)' para advertir de um perigo ou expressar frustração profunda. Pelo contrário, quando estão relaxados e felizes, rangem ligeiramente os dentes para produzir um suave som de clique chamado 'Ranger de dentes (Teeth Purring)'. Reconhecer estes sinais assegura uma ligação feliz e saudável.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Os coelhos anões de Holanda batem as suas patas traseiras com força contra o c
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Fornecimento de feno Timothy alto em fibra e água fresca</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Para o desgaste dos dentes e uma digestão ativa, encha o comedouro com feno Timothy fresco e livre de pó, e limpe a taça de água.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Os coelhos anões de Holanda batem as suas patas traseiras com força contra o c
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Limpeza da caixa de areia e inspeção de pododermatite</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Limpe a caixa de areia para manter a higiene, e verifique as suas almofadinhas para prevenir a pododermatite (sore hocks) causada por pisos escorregadios ou duros.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Os coelhos anões de Holanda batem as suas patas traseiras com força contra o c
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Revisão de brinquedos para mastigar e corte regular de unhas</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Proporcione ramos frescos de macieira para satisfazer o seu instinto de mastigação e verifique o comprimento das unhas para evitar cortes ou feridas.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Os coelhos anões de Holanda batem as suas patas traseiras com força contra o c
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Os coelhos anões de Holanda batem as suas patas traseiras com força contra o c
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Não. Os coelhos têm a pele muito fina e molhar-se pode causar hipotermia severa ou choque fatal. Limpam-se sozinhos através da sua própria higiene. Limpe apenas as áreas sujas localizadas suavemente com uma toalha húmida.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Os coelhos anões de Holanda batem as suas patas traseiras com força contra o c
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Uma perda repentina do apetite ou fezes diminutas são sinais precoces de estase gastrointestinal. Dado que a paragem do intestino de um coelho pode ser fatal rapidamente, contacte um veterinário de animais exóticos imediatamente.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 </div>

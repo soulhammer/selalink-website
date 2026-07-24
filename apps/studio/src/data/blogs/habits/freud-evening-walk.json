@@ -1,218 +1,72 @@
 {
   "freud-evening-walk": {
     "title": {
-      "ko": "내면의 무의식을 깨운 3마일 산책? 시그문트 프로이트의 저녁 속보 루틴",
-      "en": "A 3-Mile Walk That Awakened the Subconscious? Sigmund Freud's Evening Fast Walking Routine",
-      "ja": "無意識を呼び覚ます3マイルの散歩？ジークムント・フロイトの夕方速歩ルーティン",
-      "zh": "唤醒潜意识的3英里散步？西格蒙德·弗洛伊德的黄昏快速步行动作",
-      "es": "¿Un paseo de 3 millas que despertó el subconsciente? La rutina de caminata rápida vespertina de Sigmund Freud",
-      "fr": "Une marche de 3 milles pour réveiller le subconscient ? La routine de marche rapide du soir de Sigmund Freud",
-      "de": "Ein 3-Meilen-Spaziergang, der das Unterbewusstsein weckte? Sigmund Freuds abendliche Routine des schnellen Gehens",
-      "pt": "Uma caminhada de 3 milhas que despertou o subconsciente? A rotina de caminhada rápida noturna de Sigmund Freud",
-      "id": "Jalan Kaki 3 Mil yang Membangunkan Alam Bawah Sadar? Rutinitas Jalan Cepat Malam Sigmund Freud"
+      "ko": "내면의 무의식을 깨운 3마일 산책? 시그문트 프로이트의 저녁 속보 루틴"
     },
     "description": {
-      "ko": "정신분석학의 창시자 시그문트 프로이트. 고된 정신적 분석 업무를 마친 저녁마다 비엔나의 거리를 속보로 걸으며 좌뇌와 우뇌의 균형을 되찾고 무의식을 기록했던 그의 뇌 과학적 저녁 루틴을 파헤쳐 봅니다.",
-      "en": "Sigmund Freud, the founder of psychoanalysis. Learn how his daily 3-mile fast walk and analog journaling routine relieved mental fatigue and stimulated the subconscious.",
-      "ja": "精神分析学の創始者ジークムント・フロイト。激しいカウンセリングを終えた夕方、ウィーンの街を速歩で歩き、左右の脳のバランスを整えて無意識を書き留めた彼の脳科学的ルーティンを探ります。",
-      "zh": "精神分析学奠基人西格蒙德·弗洛伊德。剖析他每天结束高强度诊疗后，在维也纳街头快速散步3英里，以此平衡左右脑并捕捉无意识灵感的脑科学常规。",
-      "es": "Sigmund Freud, fundador del psicoanálisis. Conozca cómo su caminata rápida de 3 millas y sus diarios analógicos aliviaban la fatiga mental y estimulaban el subconsciente.",
-      "fr": "Sigmund Freud, le père de la psychanalyse. Découvrez comment sa marche rapide quotidienne de 3 milles et son journal analogique soulageaient la fatigue mentale et stimulaient le subconscient.",
-      "de": "Sigmund Freud, der Begründer der Psychoanalyse. Erfahren Sie, wie sein täglicher Spaziergang und sein analoges Tagebuch die mentale Müdigkeit linderten.",
-      "pt": "Sigmund Freud, o fundador da psicanálise. Veja como a sua caminhada diária de 3 milhas e seus diários analógicos aliviavam a fadiga mental e estimulavam o subconsciente.",
-      "id": "Sigmund Freud, pendiri psikoanalisis. Pelajari bagaimana jalan cepat 3 mil setiap hari dan rutinitas menulis diari meredakan kelelahan mentalnya."
+      "ko": "정신분석학의 창시자 시그문트 프로이트. 고된 정신적 분석 업무를 마친 저녁마다 비엔나의 거리를 속보로 걸으며 좌뇌와 우뇌의 균형을 되찾고 무의식을 기록했던 그의 뇌 과학적 저녁 루틴을 파헤쳐 봅니다."
     },
     "authority": {
-      "ko": "시그문트 프로이트 전기 'The Life and Work of Sigmund Freud' 및 Frontiers in Psychology 학술지",
-      "en": "Sigmund Freud's Biography 'The Life and Work of Sigmund Freud' & Frontiers in Psychology Journal",
-      "ja": "フロイト伝記「The Life and Work of Sigmund Freud」および学術誌「Frontiers in Psychology」",
-      "zh": "弗洛伊德传记《The Life and Work of Sigmund Freud》与学术期刊《Frontiers in Psychology》",
-      "es": "Biografía de Sigmund Freud 'The Life and Work of Sigmund Freud' y revista Frontiers in Psychology",
-      "fr": "Biographie de Sigmund Freud 'The Life and Work of Sigmund Freud' & revue Frontiers in Psychology",
-      "de": "Sigmund Freuds Biografie 'The Life and Work of Sigmund Freud' & Fachzeitschrift Frontiers in Psychology",
-      "pt": "Biografia de Sigmund Freud 'The Life and Work of Sigmund Freud' & revista Frontiers in Psychology",
-      "id": "Biografi Sigmund Freud 'The Life and Work of Sigmund Freud' & Jurnal Frontiers in Psychology"
+      "ko": "시그문트 프로이트 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "무의식과 억압, 그리고 꿈의 해석이라는 파격적인 이론을 주창하여 심리학의 기초를 다지고 인류의 정신 사상을 완전히 뒤흔든 정신분석학의 아버지 시그문트 프로이트. 인간 내면의 숨겨진 세계를 탐색했던 그의 뛰어난 통찰들은 과연 어떤 루틴 속에서 자라났을까요? 🧠\n\n프로이트는 매일 저녁 환자들의 심리를 심도 깊게 진료하고 무거운 이야기를 해석하는 고된 일과를 보냈습니다. 이로 인해 방전된 전두엽을 휴식시키기 위해 그는 비엔나 거리를 약 3마일(약 4.8km)씩 매우 빠른 걸음으로 산책하는 확실한 저녁 루틴을 평생 지켰습니다. 그는 빠른 걷기 운동이 뇌를 깨끗하게 비워내고, 낮 동안 억눌려 수면 아래에 숨어 있던 통찰들을 무의식 위로 이끌어내 주는 최고의 활력소라고 보았습니다. 산책을 마치고 서재로 돌아온 즉시, 프로이트는 만년필을 쥐고 산책 중 떠오른 생각과 심리학적 단상들을 상세하게 일기에 기록했습니다.\n\n오늘 BuildSelf에서는 프로이트가 매일 실천했던 '속보와 무의식 기록' 루틴의 과학적 메커니즘과 현대인을 위한 실천법을 소개합니다.",
-      "en": "Sigmund Freud, the father of psychoanalysis who reshaped modern psychology by introducing concepts like the subconscious and the interpretation of dreams. Where did his insights come from? 🧠\n\nFreud spent his days listening to patients' heavy mental struggles. To recharge his exhausted prefrontal cortex, he kept a daily evening routine of walking 3 miles at a very fast pace around Vienna. He believed that fast walking cleared the mind and surfaced insights hidden in the subconscious. Returning to his study, he immediately wrote down his thoughts in a journal.\n\nToday, BuildSelf introduces the scientific mechanisms behind Freud's 'fast walk and journaling' routine and how to apply it today.",
-      "ja": "無意識や抑圧、そして夢の解釈という画期的な理論を唱え、近代心理学の基礎を築いた精神分析の父ジークムント・フロイト。人間の深層心理を探求した彼の卓越した洞察は、どのような習慣から生まれたのでしょうか。 🧠\n\nフロイトは毎日、患者の重い心理的課題に向き合う過酷なスケジュールを消化していました。これにより消耗した前頭葉を回復させるため、彼は夕方にウィーンの街を約3マイル（約4.8km）にわたって非常に速いペースで散歩する夕方の習慣を生涯続けました。彼は速歩が脳をクリアにし、日中抑圧されていたインスピレーションを無意識の底から引き出す最適な刺激だと信じていました。書斎に戻ると、彼はすぐに万年筆を取り、散歩中に思い浮かんだ理論やアイデアを詳細に日記に記録しました。\n\n今日のBuildSelfでは、フロイトの「速歩と無意識の記録」ルーティンの科学的原理と、現代的な応用方法を紹介します。",
-      "zh": "在这一历史性惯例的实践中： , . ? 🧠 在这一历史性惯例的实践中： . 3( 4.8km) . , . , . 在这一历史性惯例的实践中： BuildSelf ' ' .",
-      "es": "Sigmund Freud, el padre del psicoanálisis que reformuló la psicología moderna al introducir conceptos como el subconsciente. ¿De dónde surgieron sus profundos conocimientos? 🧠\n\nFreud pasaba sus días escuchando los pesados conflictos mentales de sus pacientes. Para recargar su corteza frontal agotada, mantenía una rutina diaria de caminar 3 millas a paso rápido por Viena. Creía que caminar rápido despejaba la mente y sacaba a la luz ideas ocultas. Al regresar a su estudio, escribía inmediatamente sus pensamientos en un diario.\n\nHoy, BuildSelf presenta los mecanismos científicos detrás de la rutina de 'caminata rápida y diario' de Freud y cómo aplicarla en la actualidad.",
-      "fr": "Sigmund Freud, le père de la psychanalyse qui a redéfini la psychologie moderne en introduisant le concept de subconscient. D'où venaient ses profondes intuitions ? 🧠\n\nFreud passait ses journées à écouter les lourds conflits mentaux de ses patients. Pour recharger son cortex préfrontal épuisé, il s'imposait une marche rapide quotidienne de 3 milles dans Vienne. Il pensait que marcher vite libérait l'esprit et faisait émerger les idées enfouies. De retour à son bureau, il consignait aussitôt ses pensées dans un journal.\n\nAujourd'hui, BuildSelf présente les mécanismes scientifiques derrière la routine de 'marche rapide et journal' de Freud et comment l'appliquer au quotidien.",
-      "de": "Sigmund Freud, der Vater der Psychoanalyse, der die moderne Psychologie durch Konzepte wie das Unterbewusstsein prägte. Woher stammten seine tiefen Einsichten? 🧠\n\nFreud verbrachte seine Tage damit, sich die schweren Konflikte seiner Patienten anzuhören. Um seinen erschöpften Stirnlappen aufzuladen, behielt er eine tägliche Abendroutine bei, bei der er 3 Meilen in schnellem Tempo durch Wien ging. Er glaubte, dass schnelles Gehen den Geist klärt und unbewusste Erkenntnisse an die Oberfläche bringt. Nach der Rückkehr notierte er diese sofort in sein Tagebuch.\n\nHeute stellt BuildSelf die wissenschaftlichen Mechanismen hinter Freuds Routine vor und zeigt, wie man sie heute anwendet.",
-      "pt": "Sigmund Freud, o pai da psicanálise que remodelou a psicologia moderna ao introduzir conceitos como o subconsciente. De onde vinham suas percepções profundas? 🧠\n\nFreud passava os dias ouvindo os pesados dilemas mentais de seus pacientes. Para recarregar o córtex pré-frontal esgotado, mantinha uma rotina diária de caminhar 3 milhas em ritmo acelerado por Viena. Ele acreditava que a caminhada rápida limpava a mente e trazia à tona insights do subconsciente. Ao retornar à sua mesa, registrava imediatamente as suas reflexões em um diário.\n\nHoje, o BuildSelf apresenta os mecanismos científicos por trás da rotina de 'caminhada rápida e diário' de Freud e como aplicá-la hoje.",
-      "id": "Sigmund Freud, bapak psikoanalisis yang membentuk kembali psikologi modern dengan memperkenalkan konsep alam bawah sadar. Dari mana wawasan mendalamnya berasal? 🧠\n\nFreud menghabiskan harinya mendengarkan beban mental pasiennya yang berat. Untuk mengisi kembali daya prefrontal-nya, ia menjaga rutinitas malam berjalan 3 mil dengan tempo cepat di Wina. Ia percaya jalan cepat menjernihkan pikiran dan memunculkan wawasan tersembunyi. Kembali ke meja kerjanya, ia segera menuliskan pikirannya di buku diari.\n\nHari ini, BuildSelf menyajikan mekanisme ilmiah di balik rutinitas 'jalan cepat dan menulis diari' Freud dan penerapannya."
+      "ko": "무의식과 억압, 그리고 꿈의 해석이라는 파격적인 이론을 주창하여 심리학의 기초를 다지고 인류의 정신 사상을 완전히 뒤흔든 정신분석학의 아버지 시그문트 프로이트. 인간 내면의 숨겨진 세계를 탐색했던 그의 뛰어난 통찰들은 과연 어떤 루틴 속에서 자라났을까요? 🧠\n\n프로이트는 매일 저녁 환자들의 심리를 심도 깊게 진료하고 무거운 이야기를 해석하는 고된 일과를 보냈습니다. 이로 인해 방전된 전두엽을 휴식시키기 위해 그는 비엔나 거리를 약 3마일(약 4.8km)씩 매우 빠른 걸음으로 산책하는 확실한 저녁 루틴을 평생 지켰습니다. 그는 빠른 걷기 운동이 뇌를 깨끗하게 비워내고, 낮 동안 억눌려 수면 아래에 숨어 있던 통찰들을 무의식 위로 이끌어내 주는 최고의 활력소라고 보았습니다. 산책을 마치고 서재로 돌아온 즉시, 프로이트는 만년필을 쥐고 산책 중 떠오른 생각과 심리학적 단상들을 상세하게 일기에 기록했습니다.\n\n오늘 포스트에서는 프로이트가 매일 실천했던 '속보와 무의식 기록' 루틴의 과학적 메커니즘과 현대인을 위한 실천법을 소개합니다."
     },
     "whyTitle": {
-      "ko": "양측성 감각 자극(Bilateral Stimulation)과 전두엽 감정 제어",
-      "en": "Bilateral Stimulation and Prefrontal Emotion Control",
-      "ja": "両側性感覚刺激（Bilateral Stimulation）と前頭葉の感情制御",
-      "zh": "双侧性感觉刺激(Bilateral Stimulation)与前额叶情绪控制",
-      "es": "Estimulación bilateral y control emocional prefrontal",
-      "fr": "Stimulation bilatérale et contrôle émotionnel préfrontal",
-      "de": "Bilaterale Stimulation und präfrontale Emotionskontrolle",
-      "pt": "Estimulação bilateral e controle emocional pré-frontal",
-      "id": "Stimulasi Bilateral dan Kontrol Emosi Prefrontal"
+      "ko": "양측성 감각 자극(Bilateral Stimulation)과 전두엽 감정 제어"
     },
     "whyDesc": {
-      "ko": "빠른 속도로 양발을 교차해 걷는 행위는 좌뇌와 우뇌에 번갈아 가며 촉각 및 운동 정보를 제공하는 '양측성 감각 자극(Bilateral Stimulation)'을 만듭니다. 이는 트라우마 치료(EMDR)와 인지 치료에서도 활용되는 원리로, 지친 대뇌의 편도체 과활성화를 억제하고 정서적 평온을 부릅니다. 또한 산책 직후 떠오른 무의식의 생각을 직접 노트에 손으로 쓰며 구체화하는 손글씨 저널링은, 뇌의 전두엽 인지 영역을 자극해 복잡했던 감정을 차단하고 작업 기억 능력을 복구해 줍니다.",
-      "en": "Walking at a fast pace with alternating steps generates 'bilateral stimulation' that supplies tactile and motor inputs to the left and right hemispheres of the brain. Used in cognitive therapies (EMDR), this inhibits overactivation of the amygdala and brings emotional tranquility. Writing down subconscious thoughts immediately after walking stimulates the prefrontal cortex, blocking complex emotions and restoring working memory.",
-      "ja": "速いペースで両足を交互に出して歩く行為は、左脳と右脳に交互に触覚・運動情報を与える「両側性感覚刺激（Bilateral Stimulation）」を生み出します。これは認知療法（EMDR）でも活用される原理で、疲弊した脳の扁桃体の過剰活性を抑え、精神的平穏をもたらします。さらに、歩行直後に浮かんだ無意識の思考をノートに手書きするジャーナリングは、前頭葉の認知領域を刺激して複雑な感情を整理し、ワーキングメモリを回復させます。",
-      "zh": "快速交替双脚前行，能向左脑和右脑轮流输送触觉和运动刺激，从而产生“双侧性感觉刺激（Bilateral Stimulation）”。这一原理在眼动脱敏再处理（EMDR）等认知疗法中也常被采用，它能有效抑制疲惫大脑中扁桃体的过度活跃，带来情绪的平静。散步归来后立即将脑海中的想法手写出来的惯例，则能激活前额叶皮层，给复杂泛滥的情绪踩下刹车，恢复工作记忆。",
-      "es": "Caminar a paso rápido alternando pasos genera 'estimulación bilateral' en los hemisferios izquierdo y derecho del cerebro. Usado en terapias cognitivas (EMDR), inhibe la sobreactivación de la amígdala y aporta tranquilidad. Escribir los pensamientos estimula la corteza frontal, calmando las emociones y restaurando la memoria.",
-      "fr": "Marcher vite en alternant les pas génère une 'stimulation bilatérale' dans les deux hémisphères du cerveau. Utilisée en thérapie (EMDR), elle inhibe l'hyperactivité de l'amygdale et apporte le calme. Écrire ses pensées stimule le cortex préfrontal, régulant les émotions et restaurant la mémoire.",
-      "de": "Schnelles Gehen mit abwechselnden Schritten erzeugt eine 'bilaterale Stimulation', die Eingaben an beide Gehirnhälften liefert. Diese Technik (EMDR) hemmt die Überaktivierung der Amygdala und bringt emotionale Ruhe. Das anschließende Aufschreiben regt das Stirnhirn an und stellt das Arbeitsgedächtnis wieder her.",
-      "pt": "Caminhar rápido alternando passos gera 'estimulação bilateral' nos hemisférios esquerdo e direito do cérebro. Usado em terapias cognitivas (EMDR), inibe a hiperatividade da amígdala e traz tranquilidade. Escrever as reflexões estimula o córtex frontal, organizando as emoções e restaurando a memória.",
-      "id": "Berjalan dengan tempo cepat secara bergantian menghasilkan 'stimulasi bilateral' yang melatih belahan otak kanan dan kiri. Digunakan dalam terapi kognitif (EMDR), ini meredakan hiperaktivitas amigdala. Menulis diari setelah berjalan menstimulasi prefrontal untuk memulihkan memori."
+      "ko": "빠른 속도로 양발을 교차해 걷는 행위는 좌뇌와 우뇌에 번갈아 가며 촉각 및 운동 정보를 제공하는 '양측성 감각 자극(Bilateral Stimulation)'을 만듭니다. 이는 트라우마 치료(EMDR)와 인지 치료에서도 활용되는 원리로, 지친 대뇌의 편도체 과활성화를 억제하고 정서적 평온을 부릅니다. 또한 산책 직후 떠오른 무의식의 생각을 직접 노트에 손으로 쓰며 구체화하는 손글씨 저널링은, 뇌의 전두엽 인지 영역을 자극해 복잡했던 감정을 차단하고 작업 기억 능력을 복구해 줍니다."
     },
     "cautionTitle": {
-      "ko": "저녁 산책의 목적과 최적의 시간 안배 팁",
-      "en": "The Purpose of Evening Walk and Time Management Tips",
-      "ja": "夕方の散歩の目的と最適な時間管理のヒント",
-      "zh": "黄昏散步的核心目的与时间安排技巧",
-      "es": "El propósito de la caminata vespertina y consejos de tiempo",
-      "fr": "Le but de la marche du soir et conseils de gestion du temps",
-      "de": "Der Zweck des Abendspaziergangs und Tipps zum Zeitmanagement",
-      "pt": "O objetivo da caminhada noturna e dicas de gestão do tempo",
-      "id": "Tujuan Jalan Malam dan Tips Pengaturan Waktu"
+      "ko": "저녁 산책의 목적과 최적의 시간 안배 팁"
     },
     "cautionDesc": {
-      "ko": "이 저녁 루틴은 칼로리 소모를 목적으로 하는 격렬한 체력 훈련이 아닙니다. 따라서 숨이 턱 막힐 정도로 너무 강하게 달리는 것보다, 옆 사람과 대화는 가능하되 호흡이 가빠질 정도인 빠른 속보 상태를 유지하는 것이 뇌파 안정에 좋습니다. 또한 수면에 방해를 받지 않기 위해 취침 최소 3시간 이전에 마치는 것을 제안합니다.",
-      "en": "This evening routine is not a heavy cardio training for burning calories. Therefore, rather than running to exhaustion, maintain a brisk walking pace where you can still talk but experience slightly elevated breathing. Ensure this is completed at least 3 hours before sleep to avoid sleep disturbance.",
-      "ja": "この夕方のルーティンは、カロリー消費を目的とした激しい有酸素運動ではありません。そのため、息が切れるほど走るより、隣の人と会話はできるが呼吸が少し速くなる程度の速歩を維持する方が、脳波の安定に適しています。また睡眠を妨げないよう、就寝の最低3時間前には終えることをお勧めします。",
-      "zh": "这项黄昏惯例并非旨在消耗卡路里的剧烈体能训练。因此，比起跑得气喘吁吁，维持能与旁人交流但呼吸稍快的快速行走速度，更有利于脑电波的稳定。另外，为了避免影响夜间睡眠，建议在睡前至少3小时结束该常规。",
-      "es": "Esta rutina vespertina no es un entrenamiento cardiovascular para quemar calorías. Por lo tanto, mantenga un paso rápido donde pueda hablar pero experimente una respiración ligeramente elevada. Complete esto al menos 3 horas antes de dormir para no perturbar el sueño.",
-      "fr": "Cette routine n'est pas un entraînement cardiovasculaire intense. Plutôt que de courir jusqu'à l'épuisement, maintenez une marche rapide permettant de parler tout en accélérant la respiration. Terminez au moins 3 heures avant de dormir pour préserver le sommeil.",
-      "de": "Diese Abendroutine ist kein Cardio-Training zum Kalorienverbrennen. Laufen Sie nicht bis zur Erschöpfung, sondern halten Sie ein zügiges Gehtempo. Schließen Sie dies mindestens 3 Stunden vor dem Schlafen ab, um den Schlaf nicht zu stören.",
-      "pt": "Esta rotina noturna não é um treino cardiovascular intenso. Portanto, mantenha um ritmo de caminhada rápida que permita falar, mas acelere a respiração. Termine pelo menos 3 horas antes de dormir para não prejudicar o sono.",
-      "id": "Rutinitas malam ini bukan olahraga kardio berat untuk membakar kalori. Alih-alih berlari kencang, pertahankan tempo jalan cepat yang masih memungkinkan Anda mengobrol. Selesaikan setidaknya 3 jam sebelum tidur agar tidak mengganggu tidur."
+      "ko": "이 저녁 루틴은 칼로리 소모를 목적으로 하는 격렬한 체력 훈련이 아닙니다. 따라서 숨이 턱 막힐 정도로 너무 강하게 달리는 것보다, 옆 사람과 대화는 가능하되 호흡이 가빠질 정도인 빠른 속보 상태를 유지하는 것이 뇌파 안정에 좋습니다. 또한 수면에 방해를 받지 않기 위해 취침 최소 3시간 이전에 마치는 것을 제안합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "30분간의 활기찬 속보 산책",
-          "en": "30-Minute Brisk Walk",
-          "ja": "30分間の活発な速歩",
-          "zh": "30分钟的活力快速散步",
-          "es": "Caminata rápida de 30 minutos",
-          "fr": "Marche rapide de 30 minutes",
-          "de": "30-minütiger zügiger Spaziergang",
-          "pt": "Caminhada rápida de 30 minutos",
-          "id": "Jalan Cepat 30 Menit"
+          "ko": "30분간의 활기찬 속보 산책"
         },
         "text": {
-          "ko": "하루 일과가 마무리되는 늦은 오후나 저녁 시간, 가벼운 신발을 신고 밖으로 나가 약 30분 동안 보폭을 넓혀 빠른 걸음으로 걷습니다. 스마트폰은 주머니에 넣어 화면 자극을 차단하고 신체의 좌우 대칭 감각에 집중합니다.",
-          "en": "In the late afternoon or evening, head outside in comfortable shoes and walk at a brisk pace for 30 minutes. Keep your phone in your pocket to avoid screen distractions and focus on your body's symmetrical movement.",
-          "ja": "一日の仕事が終わる夕方や夜の時間帯に、歩きやすい靴を履いて外に出て、約30分間歩幅を広げて速足で歩きます。スマートフォンはポケットに入れ、画面の刺激を避けて体の左右対称な運動感覚に集中します。",
-          "zh": "在工作接近尾声的黄昏或傍晚，换上舒适的鞋子走到户外，迈开步伐快速行走约30分钟。手机放入口袋，避开屏幕信息干扰，专心感受身体的左右交替律动。",
-          "es": "Al final del día, salga con calzado cómodo y camine a paso rápido durante 30 minutos. Deje el móvil en el bolsillo para evitar distracciones y concéntrese en el movimiento de su cuerpo.",
-          "fr": "En fin de journée, sortez avec des chaussures confortables et marchez vite pendant 30 minutes. Laissez le téléphone dans la poche pour éviter les écrans et concentrez-vous sur le mouvement du corps.",
-          "de": "Gehen Sie am späten Nachmittag oder Abend mit bequemen Schuhen nach draußen und gehen Sie 30 Minuten lang zügig. Lassen Sie Ihr Telefon in der Tasche, um Ablenkungen zu vermeiden.",
-          "pt": "No final do dia, saia com calçados confortáveis e caminhe em ritmo acelerado por 30 minutos. Deixe o celular no bolso para evitar distrações e concentre-se no movimento do corpo.",
-          "id": "Di sore atau malam hari, berjalanlah ke luar dengan sepatu nyaman dan jalan cepat selama 30 menit. Simpan ponsel di saku untuk menghindari gangguan dan fokus pada gerakan kaki."
+          "ko": "하루 일과가 마무리되는 늦은 오후나 저녁 시간, 가벼운 신발을 신고 밖으로 나가 약 30분 동안 보폭을 넓혀 빠른 걸음으로 걷습니다. 스마트폰은 주머니에 넣어 화면 자극을 차단하고 신체의 좌우 대칭 감각에 집중합니다."
         }
       },
       {
         "name": {
-          "ko": "책상 앞 착석 및 심호흡 이완",
-          "en": "Sitting and Deep Breathing Relaxation",
-          "ja": "机の前に着席し深呼吸してリラックス",
-          "zh": "伏案静坐与深呼吸调理",
-          "es": "Sentarse y relajarse con respiración profunda",
-          "fr": "S'asseoir et se relaxer par la respiration",
-          "de": "Hinsetzen und Entspannen durch tiefes Atmen",
-          "pt": "Sentar-se e relaxar com respiração profunda",
-          "id": "Duduk dan Relaksasi Napas Dalam"
+          "ko": "책상 앞 착석 및 심호흡 이완"
         },
         "text": {
-          "ko": "산책 직후 어떠한 디지털 스크린도 켜지 않고 즉시 조용한 방 책상 앞에 바른 자세로 의자에 앉습니다. 1분간 눈을 감고 크게 심호흡(4초 들이마시고 6초 내쉬기)을 진행하며 몸의 각성 상태를 맑은 이완 상태로 유도합니다.",
-          "en": "Immediately after walking, sit at your desk without turning on any digital screens. Close your eyes for 1 minute and take deep breaths (inhale for 4s, exhale for 6s) to transition from physical arousal to calm relaxation.",
-          "ja": "散歩が終わったらデジタル画面を一切つけず、すぐに静かな部屋の机の前に座ります。1分間目を閉じて深呼吸（4秒吸って6秒吐く）を行い、体と脳をクリアで落ち着いた状態へと導きます。",
-          "zh": "散步归来后，在触碰任何电子屏幕前，立即在书桌椅上坐端正。闭眼进行1分钟的长深呼吸（吸气4秒，呼气6s），将步行后的体能兴奋引向清醒的安宁状态。",
-          "es": "Inmediatamente después de caminar, siéntese en su escritorio sin encender pantallas. Cierre los ojos 1 minuto y respire profundo (inhalar 4s, exhalar 6s) para pasar a una relajación tranquila.",
-          "fr": "Aussitôt après la marche, asseyez-vous à votre bureau sans allumer d'écrans. Fermez les yeux pendant 1 minute et respirez profondément (inspirez 4s, expirez 6s) pour retrouver le calme.",
-          "de": "Setzen Sie sich direkt nach dem Gehen an Ihren Schreibtisch, ohne Bildschirme einzuschalten. Schließen Sie 1 Minute lang die Augen und atmen Sie tief durch (4s ein, 6s aus).",
-          "pt": "Imediatamente após caminhar, sente-se na mesa sem ligar nenhuma tela. Feche os olhos por 1 minuto e respire fundo (inspire por 4s, expire por 6s) para passar a um relaxamento tranquilo.",
-          "id": "Segera setelah berjalan, duduklah di meja Anda tanpa menyalakan layar. Pejamkan mata selama 1 menit dan tarik napas dalam-dalam untuk menenangkan denyut jantung."
+          "ko": "산책 직후 어떠한 디지털 스크린도 켜지 않고 즉시 조용한 방 책상 앞에 바른 자세로 의자에 앉습니다. 1분간 눈을 감고 크게 심호흡(4초 들이마시고 6초 내쉬기)을 진행하며 몸의 각성 상태를 맑은 이완 상태로 유도합니다."
         }
       },
       {
         "name": {
-          "ko": "5분간의 무의식 저널링(Journaling)",
-          "en": "5-Minute Subconscious Journaling",
-          "ja": "5分間の無意識ジャーナリング",
-          "zh": "5分钟的无意识手写整理(Journaling)",
-          "es": "Diario de subconsciente de 5 minutos",
-          "fr": "Journal de subconscient de 5 minutes",
-          "de": "5-minütiges unbewusstes Tagebuchschreiben",
-          "pt": "Diário do subconsciente de 5 minutos",
-          "id": "Menulis Diari Alam Bawah Sadar 5 Menit"
+          "ko": "5분간의 무의식 저널링(Journaling)"
         },
         "text": {
-          "ko": "수첩과 만년필을 꺼내어, 형식이나 철자법에 구애받지 않고 산책 중에 문득 떠올랐던 영감, 또는 지금 내 머릿속을 스쳐 가는 생각들을 있는 그대로 손글씨로 써내려 갑니다. 5분 동안 뇌의 무의식을 종이 위에 외재화하는 핵심 단계입니다.",
-          "en": "Take out your notebook and pen. Write down any inspirations that came during your walk or thoughts passing through your mind without worrying about formatting or spelling. This externalizes your subconscious onto paper.",
-          "ja": "手帳と万年筆を用意し、形式やスペルにとらわれず、散歩中にふと浮かんだインスピレーションや、今頭をよぎる考えをそのまま手書きで書き留めます。5分間、脳の無意識を紙の上にアウトプットする重要なステップです。",
-          "zh": "准备好纸笔，无需顾忌格式或错别字，将在散步时脑海中掠过的灵感片段或此刻浮现的心思原原本本地写下来。这是将大脑无意识信息外置于纸面上的核心步骤，持续5分钟。",
-          "es": "Tome un cuaderno y bolígrafo. Escriba las ideas de su caminata o pensamientos sin preocuparse por el formato. Esto externaliza su subconsciente en el papel.",
-          "fr": "Prenez un carnet et un stylo. Consignez les idées de votre marche ou vos pensées sans vous soucier de la forme. Cela permet d'extérioriser le subconscient sur le papier.",
-          "de": "Nehmen Sie ein Notizbuch zur Hand. Schreiben Sie Gedanken auf, die Ihnen beim Gehen in den Sinn kamen, ohne sich um die Formatierung zu sorgen. Dies verlagert das Unbewusste auf das Papier.",
-          "pt": "Pegue um caderno e caneta. Escreva os insights de sua caminhada ou pensamentos sem se preocupar com a formatação. Isso externaliza seu subconsciente no papel.",
-          "id": "Keluarkan buku catatan dan pena. Tuliskan inspirasi yang muncul saat berjalan atau pikiran yang melintas tanpa memikirkan tata bahasa. Ini memindahkan alam bawah sadar Anda ke kertas."
+          "ko": "수첩과 만년필을 꺼내어, 형식이나 철자법에 구애받지 않고 산책 중에 문득 떠올랐던 영감, 또는 지금 내 머릿속을 스쳐 가는 생각들을 있는 그대로 손글씨로 써내려 갑니다. 5분 동안 뇌의 무의식을 종이 위에 외재화하는 핵심 단계입니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "저녁이 아닌 아침이나 오후에 산책을 해도 동일한 효과를 내나요?",
-          "en": "Can I perform this walk in the morning instead of evening?",
-          "ja": "夕方ではなく、朝や午後に散歩をしても同様の効果は得られますか？",
-          "zh": "如果不在黄昏，而在早晨或下午散步，也能取得相同的效果吗？",
-          "es": "¿Puedo realizar esta caminata por la mañana en lugar de la tarde?",
-          "fr": "Puis-je faire cette marche le matin plutôt que le soir ?",
-          "de": "Kann ich diesen Spaziergang auch morgens statt abends machen?",
-          "pt": "Posso fazer esta caminhada pela manhã em vez da noite?",
-          "id": "Bisakah saya melakukan jalan kaki ini di pagi hari daripada di malam hari?"
+          "ko": "저녁이 아닌 아침이나 오후에 산책을 해도 동일한 효과를 내나요?"
         },
         "answer": {
-          "ko": "네, 하루 중 언제 걸어도 양측성 감각 자극과 전두엽 활성화 효과는 동일하게 발생합니다. 다만 아심산책은 잠을 깨우는 각성 효과가 크고, 프로이트처럼 저녁에 걷는 것은 하루 동안 환자들과의 소통과 복잡한 업무로 인해 쌓인 인지적 쓰레기와 정서적 긴장을 즉시 리셋해주는 독특한 감정 이완의 혜택을 줍니다. 자신의 스트레스 형태에 맞춰 시간대를 선택하세요.",
-          "en": "Yes, walking at any time of the day provides bilateral stimulation. However, while morning walks excel at awakening the brain, evening walks help reset cognitive load and emotional tension accumulated from communication and work during the day.",
-          "ja": "はい、一日のうちいつ歩いても両側性感覚刺激と前頭葉の活性化効果は同様に得られます。ただ、朝の散歩は眠気を覚ます覚醒効果が高く、フロイトのように夕方に歩くことは、日中たまった知的疲労や感情の緊張を即座にリセットできるという利点があります。ストレスのタイプに合わせて時間帯を選択してください。",
-          "zh": "是的，在一天的任何时间散步都能带来双侧性感觉刺激和激活前额叶的效果。不过，清晨步行侧重于唤醒大脑，而像弗洛伊德一样在傍晚漫步，则能即时清空因白天的工作与沟通而积聚的认知垃圾和焦虑情绪。请根据个人的压力类型选择合适的时间。",
-          "es": "Sí, caminar a cualquier hora proporciona estimulación bilateral. Sin embargo, mientras las caminatas matutinas despiertan el cerebro, las vespertinas ayudan a liberar la tensión emocional y la carga cognitiva acumuladas durante el día.",
-          "fr": "Oui, marcher à tout moment apporte la stimulation bilatérale. Cependant, si la marche matinale éveille le cerveau, la marche du soir aide à évacuer la tension émotionnelle et la fatigue cognitive accumulées durant la journée.",
-          "de": "Ja, das Gehen zu jeder Tageszeit bietet eine bilaterale Stimulation. Während Morgenspaziergänge das Gehirn wecken, helfen Abendspaziergänge, kognitive Lasten und emotionale Spannungen des Tages abzubauen.",
-          "pt": "Sim, caminhar a qualquer hora proporciona estimulação bilateral. Mas, enquanto a caminhada matinal ajuda a acordar o cérebro, a noturna redefine a tensão emocional e a carga cognitiva acumuladas durante o dia.",
-          "id": "Ya, berjalan di waktu kapan saja tetap memberikan stimulasi bilateral. Namun, sementara jalan pagi berfungsi membangunkan fokus, jalan malam meredakan ketegangan emosi dan stres yang terkumpul sepanjang hari."
+          "ko": "네, 하루 중 언제 걸어도 양측성 감각 자극과 전두엽 활성화 효과는 동일하게 발생합니다. 다만 아심산책은 잠을 깨우는 각성 효과가 크고, 프로이트처럼 저녁에 걷는 것은 하루 동안 환자들과의 소통과 복잡한 업무로 인해 쌓인 인지적 쓰레기와 정서적 긴장을 즉시 리셋해주는 독특한 감정 이완의 혜택을 줍니다. 자신의 스트레스 형태에 맞춰 시간대를 선택하세요."
         }
       },
       {
         "question": {
-          "ko": "무의식 일기를 스마트폰 메모장이나 키보드로 타이핑하면 안 되나요?",
-          "en": "Can I type my subconscious thoughts on a smartphone or keyboard?",
-          "ja": "無意識の日記をスマートフォンのメモ帳やキーボード入力で書いてもいいですか？",
-          "zh": "可以用手机备忘录或键盘打字来代替手写日记吗？",
-          "es": "¿Puedo escribir mis pensamientos en un móvil o teclado?",
-          "fr": "Puis-je taper mes pensées sur un smartphone ou un clavier ?",
-          "de": "Kann ich meine unbewussten Gedanken auf einem Smartphone eintippen?",
-          "pt": "Posso digitar as minhas reflexões no celular ou teclado?",
-          "id": "Bisakah saya mengetik diari alam bawah sadar di ponsel atau keyboard?"
+          "ko": "무의식 일기를 스마트폰 메모장이나 키보드로 타이핑하면 안 되나요?"
         },
         "answer": {
-          "ko": "타이핑을 통한 입력을 할 때는 화면의 시각 피드백이 단순해지며 기기를 보며 뇌가 즉시 논리 연산 모드로 돌아갑니다. 반면, 펜을 쥐고 직접 종이에 꾹꾹 눌러쓰는 행위는 손가락 끝의 미세한 근육 자극을 통해 뇌의 그물망 활성계(RAS)를 더 강하게 자극합니다. 이는 무의식의 억눌린 개념들을 보다 편안하고 직관적으로 끄집어내는 데 압도적으로 우수한 생리적 환경을 만듭니다.",
-          "en": "Typing activates the brain's logical computation mode due to simplified visual feedback. Conversely, handwriting with a pen strongly stimulates the Reticular Activating System (RAS) through fine muscle control, making it much more effective at surfacing subconscious thoughts intuitively.",
-          "ja": "キーボード入力を行うと画面の視覚フィードバックが単純化され、脳はすぐに論理的な演算モードに戻ってしまいます。一方、ペンを握って紙に手書きする行為は、指先の微細な筋肉刺激を通じて脳の網様体活性系（RAS）をより強力に刺激します。これは無意識下の直感的なアイデアを引き出す上で、圧倒的に優れた生理的環境を作ります。",
-          "zh": "用键盘打字时，由于视觉反馈较为单调，大脑会瞬间回到逻辑计算模式。相反，用手握笔在纸上书写，能够通过指尖的精细运动刺激脑干网状结构激活系统（RAS）。这为更自然、直观地引导出潜意识里的隐秘点子，提供了压倒性优秀的生理机制。",
-          "es": "Escribir con teclado activa el modo de cálculo lógico debido a la retroalimentación visual simplificada. En cambio, escribir a mano con un bolígrafo estimula el Sistema de Activación Reticular (SAR), ayudando a aflorar el subconsciente.",
-          "fr": "Saisir au clavier ramène le cerveau vers un mode logique. À l'inverse, écrire à la main stimule le système réticulé activateur (SRA) via la motricité fine, favorisant l'émergence des pensées subconscientes de manière intuitive.",
-          "de": "Tippen aktiviert den logischen Rechenmodus des Gehirns. Das Schreiben mit einem Stift regt das Retikuläre Aktivierungssystem (RAS) durch Muskelkontrolle an, was unbewusste Gedanken effektiver an die Oberfläche bringt.",
-          "pt": "Digitar ativa o modo de cálculo lógico devido ao feedback visual simplificado. Por outro lado, escrever à mão estimula o Sistema de Ativação Reticular (SAR), ajudando a aflorar os pensées subconscientes.",
-          "id": "Mengetik mengaktifkan mode logika otak karena visual yang monoton. Sebaliknya, menulis dengan tangan merangsang Reticular Activating System (RAS) melalui gerakan motorik, membantu menyaring pikiran bawah sadar."
+          "ko": "타이핑을 통한 입력을 할 때는 화면의 시각 피드백이 단순해지며 기기를 보며 뇌가 즉시 논리 연산 모드로 돌아갑니다. 반면, 펜을 쥐고 직접 종이에 꾹꾹 눌러쓰는 행위는 손가락 끝의 미세한 근육 자극을 통해 뇌의 그물망 활성계(RAS)를 더 강하게 자극합니다. 이는 무의식의 억눌린 개념들을 보다 편안하고 직관적으로 끄집어내는 데 압도적으로 우수한 생리적 환경을 만듭니다."
         }
       }
-    ],
-    "pubDate": "2026-07-09",
-    "updatedDate": "2026-07-09"
+    ]
   }
 }

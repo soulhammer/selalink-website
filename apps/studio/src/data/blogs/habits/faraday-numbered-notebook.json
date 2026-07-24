@@ -1,190 +1,62 @@
 {
   "faraday-numbered-notebook": {
     "title": {
-      "ko": "16,000개의 번호: 마이클 패러데이의 정밀 노트 정리법",
-      "en": "16,000 Numbers: Michael Faraday's Precise Note-Taking Method",
-      "ja": "16,000の番号：マイケル・ファラデーの精密ノート整理法",
-      "zh": "16000个编号：迈克尔·法拉第的精密笔记整理法",
-      "es": "16,000 números: El método de toma de notas preciso de Michael Faraday",
-      "fr": "16 000 numéros : La méthode de prise de notes précise de Michael Faraday",
-      "de": "16.000 Nummern: Michael Faradays präzise Notizenmethode",
-      "pt": "16.000 números: O método de anotação precisa de Michael Faraday",
-      "id": "16.000 Nomor: Metode Pencatatan Akurat Michael Faraday"
+      "ko": "16,000개의 번호: 마이클 패러데이의 정밀 노트 정리법"
     },
     "description": {
-      "ko": "평생 16,000개가 넘는 실험 항목에 번호를 매겨 기록했던 물리학자 마이클 패러데이. 기록의 철저한 외재화가 뇌의 인지 부하를 줄이고 집중력을 높이는 원리를 파헤칩니다.",
-      "en": "Physicist Michael Faraday, who recorded and numbered over 16,000 experimental items. Explore how the strict externalization of records reduces cognitive load and enhances focus.",
-      "ja": "生涯16,000を超える実験項目に番号をつけて記録した物理学者マイケル・ファラデー。記録の徹底した外在化が脳の認知負荷を減らし、集中力を高める原理を解明します。",
-      "zh": "终生为16000多个实验项目进行编号记录的物理学家迈克尔·法拉第。揭示记录的彻底外在化如何减少大脑认知负荷并提升专注力的原理。",
-      "es": "El físico Michael Faraday, que numeró más de 16,000 registros. Explore cómo la externalización de la memoria reduce la carga cognitiva y aumenta el enfoque.",
-      "fr": "Le physicien Michael Faraday, qui a numéroté plus de 16 000 notes d'expériences. Découvrez comment l'externalisation de la mémoire réduit la charge cognitive et améliore la concentration.",
-      "de": "Physiker Michael Faraday nummerierte über 16.000 Laboreinträge. Erfahren Sie, wie die Externalisierung von Informationen die kognitive Belastung senkt und den Fokus stärkt.",
-      "pt": "O físico Michael Faraday, que numerou mais de 16.000 registros. Explore como a externalização da memória reduz a carga cognitiva e aumenta o foco.",
-      "id": "Fisikawan Michael Faraday, yang menomori lebih dari 16.000 catatan eksperimennya. Ulas bagaimana eksternalisasi catatan mengurangi beban kognitif dan meningkatkan fokus."
+      "ko": "평생 16,000개가 넘는 실험 항목에 번호를 매겨 기록했던 물리학자 마이클 패러데이. 기록의 철저한 외재화가 뇌의 인지 부하를 줄이고 집중력을 높이는 원리를 파헤칩니다."
     },
     "authority": {
-      "ko": "영국 왕립연구소 보존 『Faraday's Diary』 친필 일지 고증 및 인지과학저널(Cognitive Science) 지식 외재화 및 인지 부하 연구",
-      "en": "Royal Institution Archives of 'Faraday's Diary' and Cognitive Science Journal Research on Knowledge Externalization and Cognitive Load",
-      "ja": "英国王立研究所保存『Faraday's Diary』親筆日誌考証および認知科学ジャーナル（Cognitive Science）知識外在化と認知負荷研究",
-      "zh": "英国皇家研究院保存的《Faraday's Diary》手稿考证及《认知科学》(Cognitive Science)关于知识外在化与认知负荷的研究",
-      "es": "Archivos de la Royal Institution de 'Faraday's Diary' e investigación de Cognitive Science sobre externalización del conocimiento y carga cognitiva",
-      "fr": "Archives de la Royal Institution de 'Faraday's Diary' et recherche de Cognitive Science sur l'externalisation des connaissances et la charge cognitive",
-      "de": "Dokumente aus 'Faraday's Diary' der Royal Institution und Cognitive Science-Forschung zu Externalisierung von Wissen und kognitiver Belastung",
-      "pt": "Arquivos da Royal Institution de 'Faraday's Diary' e pesquisa de Cognitive Science sobre externalização do conhecimento e carga cognitiva",
-      "id": "Arsip Royal Institution tentang 'Faraday's Diary' dan Penelitian Cognitive Science tentang Eksternalisasi Pengetahuan & Beban Kognitif"
+      "ko": "Faraday Numbered Notebook 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "전자기 유도 현상을 발견하여 인류 전기 문명의 초석을 놓은 거장 마이클 패러데이. 수학적 배경이 부족했음에도 그가 놀랍도록 정교한 물리학적 법칙들을 정립할 수 있었던 열쇠는 다름 아닌 그의 실험 노트에 있었습니다. 그는 평생 실험 일지를 쓰며 관찰 사항과 아이디어에 순차적인 일련번호를 매겼습니다. 그가 남긴 연구 기록 파일에는 정확히 1번부터 16,041번까지의 숫자가 세심하게 인덱싱되어 있었습니다. 이 정밀한 기록 습관이 어떻게 인지적 한계를 보완하고 그의 천재성을 극대화했는지 알아봅니다.",
-      "en": "Michael Faraday, who laid the foundation of electric civilization by discovering electromagnetic induction. Although he lacked a formal mathematical background, the key to his precise physical laws was in his notebook. Throughout his life, he assigned sequential numbers to his observations and ideas in his journal. His research archives were indexed from number 1 up to 16,041. Let's find out how this precise record-keeping compensated for cognitive limits and unlocked his genius.",
-      "ja": "電磁誘導現象を発見し、人類の電気文明の礎を築いた巨匠マイケル・ファラデー。数学的な背景が不足していたにもかかわらず、彼が驚くほど精密な物理学的法則を確立できた鍵は、他ならぬ彼の実験ノートにありました。彼は生涯にわたり、実験日誌を書きながら観察事項やアイデアに順次シリアル番号をつけました。彼が残した研究記録には、正確に1番から16,041番までの数字が細かくインデックスされていました。この精密な記録習慣が、いかに認知的限界を補い、彼の天才性を引き出したかを探ります。",
-      "zh": "通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
-      "es": "Michael Faraday, quien sentó las bases de la era eléctrica. A pesar de carecer de formación matemática avanzada, la clave de sus descubrimientos estuvo en sus notas de laboratorio. A lo largo de su vida, numeró cada una de sus observaciones científicas. Su diario registra desde el número 1 hasta el 16,041. Analicemos cómo este ordenamiento compensó las limitaciones de memoria.",
-      "fr": "Michael Faraday, qui a jeté les bases de l'ère électrique. Bien que manquant de formation mathématique poussée, la clé de ses découvertes résidait dans ses notes de laboratoire. Il a numéroté chacune de ses observations tout au long de sa vie. Son journal s'étend du numéro 1 au numéro 16 041. Voyons comment ce classement a compensé les limites de sa mémoire.",
-      "de": "Michael Faraday legte mit der Entdeckung der elektromagnetischen Induktion den Grundstein für die moderne Elektrotechnik. Obwohl er keine mathematische Ausbildung hatte, verhalf ihm seine präzise Arbeitsmethode zum Erfolg. Er nummerierte jeden einzelnen Laboreintrag chronologisch durch. Sein Tagebuch umfasst Einträge von Nummer 1 bis 16.041. Erfahren Sie, wie diese Strukturierung seine kognitive Leistung stützte.",
-      "pt": "Michael Faraday, que estabeleceu as bases da era elétrica. Apesar de carecer de formação matemática avançada, a chave de suas descobertas esteve em suas notas de laboratório. Ao longo de sua vida, numerou cada uma de suas observações científicas. Seu diário registra desde o número 1 até o 16,041. Analisemos como este ordenamento compensou as limitações de memória.",
-      "id": "Michael Faraday, yang meletakkan dasar bagi peradaban listrik modern. Meskipun tidak memiliki latar belakang matematika formal yang kuat, kunci keberhasilannya merumuskan hukum fisika yang rumit terletak pada catatan eksperimennya. Sepanjang hidupnya, ia menomori setiap observasi dan ide secara berurutan, dari nomor 1 hingga 16.041. Ulas bagaimana kebiasaan mencatat yang rapi ini mengatasi keterbatasan memori."
+      "ko": "\"관찰을 시작했다면 즉시 번호를 붙여 기록하라. 기록되지 않고 흩어진 관찰은 지식이 될 수 없다.\" 📝\n\n전자기 유도 현상을 발견하여 인류 전기 문명의 초석을 놓은 거장 마이클 패러데이. 수학적 배경이 부족했음에도 그가 놀랍도록 정교한 물리학적 법칙들을 정립할 수 있었던 열쇠는 다름 아닌 그의 실험 노트에 있었습니다. 그는 평생 실험 일지를 쓰며 관찰 사항과 아이디어에 순차적인 일련번호를 매겼습니다. 그가 남긴 연구 기록 파일에는 정확히 1번부터 16,041번까지의 숫자가 세심하게 인덱싱되어 있었습니다. 이 정밀한 기록 습관이 어떻게 인지적 한계를 보완하고 그의 천재성을 극대화했는지 알아봅니다.\n\n많은 사람이 떠오르는 아이디어나 일과를 임의로 낙서하듯 적거나, 정리하지 않은 메모 더미를 방치하곤 합니다. 하지만 패러데이는 매번 작성하는 일지의 항목마다 고유 번호를 부여하여 지식을 질서화했습니다. 그의 일련번호 시스템은 단순한 도서관식 보관법을 넘어, 뇌가 복잡한 인지 정보의 위치를 즉시 기억에서 비우고 외부 매체에 위임하도록 돕는 강력한 인지적 해방 장치였습니다.\n\n오늘 포스트에서는 패러데이의 번호화된 지식 아카이빙 기법의 인지과학적 가치를 밝히고, 일상의 수많은 업무 정보 속에서 뇌의 메모리 낭비를 줄이고 깊은 집중력을 유도하는 3단계 실천 방안을 제시합니다."
     },
     "whyTitle": {
-      "ko": "기록의 인덱싱과 지식 외재화가 뇌의 작업 기억에 미치는 영향",
-      "en": "Impact of Record Indexing and Knowledge Externalization on Working Memory",
-      "ja": "記録のインデックス化と知識の外在化が脳の作業記憶に及ぼす影響",
-      "zh": "记录索引与知识外在化对大脑工作记忆的影响",
-      "es": "Efectos de la indexación de registros y la externalización del conocimiento en la memoria de trabajo",
-      "fr": "Effets de l'indexation des notes et de l'externalisation des connaissances sur la mémoire de travail",
-      "de": "Auswirkungen der Indexierung und der Externalisierung von Wissen auf das Arbeitsgedächtnis",
-      "pt": "Efeitos da indexação de registros e da externalização do conhecimento na memória de trabalho",
-      "id": "Pengaruh Indeksasi Catatan dan Eksternalisasi Pengetahuan pada Memori Kerja Otak"
+      "ko": "기록의 인덱싱과 지식 외재화가 뇌의 작업 기억에 미치는 영향"
     },
     "whyDesc": {
-      "ko": "뇌의 작업 기억 공간은 용량이 매우 한정되어 있습니다. 정보를 체계 없이 임의로 흩어놓거나 머릿속에만 채워두면 인지 부하가 급증하여 분석 능력이 떨어집니다. 하지만 패러데이처럼 노트를 철저하게 번호화하고 인덱싱하는 지식 외재화를 정착시키면, 뇌는 불필요한 검색 연산 에너지를 극적으로 절약할 수 있습니다. 뇌는 물리적 지식을 외부 저장소로 오프로드하고, 남은 활성 인지 자원을 메인 복합 추론 작업에 완전히 집중시킵니다.",
-      "en": "The brain's working memory capacity is highly limited. If information is randomly scattered without system or kept only inside the head, cognitive load spikes, impairing analytical power. However, by establishing knowledge externalization (numbering and indexing notes like Faraday), the brain dramatically saves search energy. The brain offloads physical knowledge to external storage, focusing its active cognitive resources entirely on complex reasoning tasks.",
-      "ja": "脳の作業記憶空間は容量が非常に限られています。情報を体系化せずに乱雑に散らばらせたり、頭の中だけで抱え込もうとすると、認知負荷が急増して分析能力が低下します。しかし、ファラデーのようにノートを徹底的に番号化・インデックス化する「知識の外在化」を定着させれば、脳は不要な検索エネルギーを劇的に節約できます。脳は物理的な知識を外部ストレージにオフロードし、残った認知資源をメインの複雑な推論作業に完全に集中させます。",
-      "zh": "大脑工作记忆空间的容量非常有限。如果杂乱无章地分散信息或仅在脑海中堆积信息，认知负荷就会暴增，从而降低分析能力。然而，如果像法拉第那样将笔记彻底编号和索引、固化“知识外在化”，大脑就能急剧节省无谓的检索能量。大脑将物理知识卸载（Offload）到外部存储，进而将剩余的活跃认知资源完全集中在主要复杂推理任务上。",
-      "es": "La memoria de trabajo del cerebro tiene un límite estricto. Guardar información de forma desordenada o retenerla solo en la mente dispara la carga cognitiva, disminuyendo la capacidad analítica. Sin embargo, al indexar y numerar apuntes, se logra externalizar la memoria. Esto permite al cerebro delegar datos a un soporte externo y enfocar sus recursos cognitivos en resolver problemas complejos.",
-      "fr": "La mémoire de travail du cerveau a une capacité limitée. Stocker des informations de manière désordonnée ou tout garder en tête augmente la charge cognitive, réduisant la capacité d'analyse. Cependant, en indexant et numérotant ses notes, on externalise la mémoire. Cela permet au cerveau de décharger les données sur un support externe et de concentrer ses ressources sur la résolution de problèmes.",
-      "de": "Das Arbeitsgedächtnis des Gehirns ist stark begrenzt. Unstrukturierte oder nur im Kopf behaltene Informationen führen zu kognitiver Überlastung und senken die Analysefähigkeit. Durch die Externalisierung von Wissen (Indexierung und Nummerierung wie bei Faraday) spart das Gehirn Suchaufwand. Es lagert Daten in einen externen Speicher aus und nutzt die freien Ressourcen für komplexe Denkaufgaben.",
-      "pt": "A memória de trabalho do cérebro tem um limite estrito. Guardar informações de forma desordenada ou retê-las apenas na mente dispara a carga cognitiva, diminuindo a capacidade analítica. No entanto, ao indexar e numerar apontes, consegue-se externalizar a memória. Isto permite ao cérebro delegar dados a um suporte externo e focar seus recursos cognitivos em resolver problemas complexos.",
-      "id": "Kapasitas memori kerja otak sangat terbatas. Menyimpan informasi secara acak tanpa struktur atau hanya memikirkannya di kepala akan memicu beban kognitif yang tinggi, menurunkan kemampuan analisis. Dengan menerapkan eksternalisasi pengetahuan seperti menomori dan mengindeks catatan seperti Faraday, otak menghemat energi secara signifikan untuk proses berpikir tingkat tinggi."
+      "ko": "뇌의 작업 기억 공간은 용량이 매우 한정되어 있습니다. 정보를 체계 없이 임의로 흩어놓거나 머릿속에만 채워두면 인지 부하가 급증하여 분석 능력이 떨어집니다. 하지만 패러데이처럼 노트를 철저하게 번호화하고 인덱싱하는 지식 외재화를 정착시키면, 뇌는 불필요한 검색 연산 에너지를 극적으로 절약할 수 있습니다. 뇌는 물리적 지식을 외부 저장소로 오프로드하고, 남은 활성 인지 자원을 메인 복합 추론 작업에 완전히 집중시킵니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "주의할 점은 단순히 적는 양을 늘리기보다 지식의 검색 가능성을 확보해야 한다는 점입니다. 아무런 분류 기준 없이 무조건 많은 양을 받아적기만 하는 형태의 기록은 오히려 디지털/물리 쓰레기를 양산하여 인지 혼란을 가중시킵니다. 따라서 노트를 작성한 뒤에는 반드시 1페이지에 인덱스(목차)를 구성하거나 날짜 및 핵심 태그를 맵핑하여 나중에 3초 안에 찾을 수 있도록 시스템화해야 효과적입니다.",
-      "en": "The caution is to ensure the searchability of knowledge rather than just increasing the volume of notes. Writing down too much information without classification criteria creates cognitive clutter. After taking notes, establish an index on the first page or map dates and tags so you can retrieve information within 3 seconds.",
-      "ja": "注意すべき点は、単に書く量を増やすことよりも、知識の検索可能性を確保することです。分類基準なしに無条件に多く書き写すだけの記録は、かえってデジタル・物理的ゴミを量産し、認知の混乱を加重させます。そのため、ノートを作成した後は、必ず最初のページにインデックス（目次）を設けるか、日付や核心的なタグをマッピングして、後から3秒以内に見つけられるようにシステム化することが効果的です。",
-      "zh": "需要注意的是，比起单纯增加书写量，更应确保知识的检索可行性。如果不加任何分类标准、一味海量抄写，反而会制造数字化/物理垃圾，进而加剧认知混乱。因此，写完笔记后，务必在第一页构建索引（目录）或映射日期及核心标签，对其进行系统化，以便日后在3秒内快速检索。",
-      "es": "El error es escribir en exceso sin clasificar. Tomar notas masivas sin estructura genera desorden mental. Después de escribir, cree un índice en la primera página o asocie etiquetas clave para poder localizar cualquier dato en menos de 3 segundos.",
-      "fr": "L'erreur est d'écrire trop sans classer. Prendre des notes massives sans structure crée du désordre mental. Après avoir écrit, créez un index sur la première page ou associez des balises clés pour retrouver l'information en moins de 3 secondes.",
-      "de": "Wichtig ist, dass Sie die Auffindbarkeit der Informationen sichern, statt nur viel aufzuschreiben. Unstrukturiertes Aufschreiben erzeugt Informationsmüll und stört die Konzentration. Erstellen Sie nach dem Schreiben ein Inhaltsverzeichnis auf der ersten Seite oder nutzen Sie Schlagworte, um Einträge in 3 Sekunden zu finden.",
-      "pt": "O erro é escrever em excesso sem classificar. Tomar notas massivas sem estrutura gera desordem mental. Depois de escrever, crie um índice na primeira página ou associe etiquetas chave para poder localizar qualquer dado em menos de 3 segundos.",
-      "id": "Tindakan pencegahannya adalah memastikan kemudahan pencarian informasi, bukan sekadar memperbanyak jumlah catatan. Mencatat terlalu banyak informasi tanpa klasifikasi yang jelas akan menambah beban kognitif. Setelah menulis, buatlah indeks halaman atau tagar utama agar data dapat dicari dalam 3 detik."
+      "ko": "주의할 점은 단순히 적는 양을 늘리기보다 지식의 검색 가능성을 확보해야 한다는 점입니다. 아무런 분류 기준 없이 무조건 많은 양을 받아적기만 하는 형태의 기록은 오히려 디지털/물리 쓰레기를 양산하여 인지 혼란을 가중시킵니다. 따라서 노트를 작성한 뒤에는 반드시 1페이지에 인덱스(목차)를 구성하거나 날짜 및 핵심 태그를 맵핑하여 나중에 3초 안에 찾을 수 있도록 시스템화해야 효과적입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "단일 기록 일지 구축 및 첫 번호 부여",
-          "en": "Establishing a Single Log and Assigning the First Number",
-          "ja": "単一記録日誌の構築と最初の番号付与",
-          "zh": "构建单一记录日记并赋予首个编号",
-          "es": "Establecer un registro único y asignar el primer número",
-          "fr": "Créer un journal unique et attribuer le premier numéro",
-          "de": "Einrichten eines Journals und Zuweisen der ersten Nummer",
-          "pt": "Estabelecer um registro único e atribuir o primeiro número",
-          "id": "Membuat Satu Buku Catatan Utama dan Mulai Menomori"
+          "ko": "단일 기록 일지 구축 및 첫 번호 부여"
         },
         "text": {
-          "ko": "아이디어를 흩뿌리지 않고 한곳에 모을 단 한 권의 노트(혹은 하나의 메모 앱)를 준비하고, 첫 기록 행위에 숫자 '#1'을 매겨 기록을 개시합니다.",
-          "en": "Prepare a single notebook (or one note app) to gather ideas in one place, and start by assigning '#1' to your first entry.",
-          "ja": "アイデアを散乱させずに一箇所に集めるための、ただ1冊のノート（または1つのメモアプリ）を用意し、最初の記録に数字「#1」を割り当てて記録を開始します。",
-          "zh": "准备一本可将创意聚集一处的笔记本（或一款备忘录APP），为首条记录标注数字“#1”并开始书写。",
-          "es": "Use un solo cuaderno o aplicación para centralizar sus notas y comience su primer registro asignándole el número '#1'.",
-          "fr": "Utilisez un seul carnet ou application pour centraliser vos notes et commencez votre premier écrit en lui attribuant le numéro '#1'.",
-          "de": "Nutzen Sie ein einziges Notizbuch (oder eine App), um Gedanken zu sammeln, und beginnen Sie den ersten Eintrag mit '#1'.",
-          "pt": "Use um único caderno ou aplicativo para centralizar suas notas e comece seu primeiro registro atribuindo-lhe o número '#1'.",
-          "id": "Siapkan satu buku catatan khusus (atau satu aplikasi catatan) untuk mengumpulkan semua ide, lalu mulailah dengan menuliskan nomor '#1' pada catatan pertama."
+          "ko": "아이디어를 흩뿌리지 않고 한곳에 모을 단 한 권의 노트(혹은 하나의 메모 앱)를 준비하고, 첫 기록 행위에 숫자 '#1'을 매겨 기록을 개시합니다."
         }
       },
       {
         "name": {
-          "ko": "연속 일련번호 부여와 관찰 내용 기록",
-          "en": "Assigning Sequential Numbers and Recording Observations",
-          "ja": "連続シリアル番号の付与と観察内容の記録",
-          "zh": "赋予连续序列号并记录观察内容",
-          "es": "Asignar números secuenciales y registrar observaciones",
-          "fr": "Attribuer des numéros séquentiels et noter les observations",
-          "de": "Zuweisen fortlaufender Nummern und Notieren von Details",
-          "pt": "Atribuir números sequenciais e registrar observações",
-          "id": "Menulis Catatan Secara Berurutan dengan Nomor Kronologis"
+          "ko": "연속 일련번호 부여와 관찰 내용 기록"
         },
         "text": {
-          "ko": "매번 지식을 추가하거나 실험적인 관찰, 업무 계획을 세울 때마다 앞의 번호와 이어지는 숫자를 맨 앞에 붙이고 핵심 내용을 압축 정리합니다.",
-          "en": "Every time you add knowledge, experimental observations, or work plans, prefix it with the next sequential number and condense the core content.",
-          "ja": "知識の追加、実験的観察、業務計画作成のたびに、前の番号に続く数字を冒頭につけ、核心となる内容を簡潔にまとめます。",
-          "zh": "每次添加知识、进行实验性观察或制定工作计划时，都在最前端标注接续前项的数字编号，并压缩整理出核心内容。",
-          "es": "Cada vez que agregue ideas, observaciones o planes de trabajo, anteponga el número correlativo y sintetice el contenido principal.",
-          "fr": "Chaque fois que vous ajoutez des idées, observations ou plans de travail, préfixez-les avec le numéro suivant et synthétisez le contenu.",
-          "de": "Jedes Mal, wenn Sie Gedanken, Beobachtungen oder Pläne festhalten, stellen Sie die nächste fortlaufende Nummer voran und fassen Sie den Inhalt zusammen.",
-          "pt": "Cada vez que adicionar ideias, observações ou planos de trabalho, anteponha o número correlato e sintetize o conteúdo principal.",
-          "id": "Setiap kali Anda menambahkan informasi baru, ide, atau rencana kerja, berikan nomor berikutnya secara berurutan di awal paragraf dan ringkas poin intinya."
+          "ko": "매번 지식을 추가하거나 실험적인 관찰, 업무 계획을 세울 때마다 앞의 번호와 이어지는 숫자를 맨 앞에 붙이고 핵심 내용을 압축 정리합니다."
         }
       },
       {
         "name": {
-          "ko": "정기적인 색인 정리 및 검색 키워드 맵핑",
-          "en": "Regular Indexing and Search Keyword Mapping",
-          "ja": "定期的な索引整理と検索キーワードのマッピング",
-          "zh": "定期整理索引并映射检索关键词",
-          "es": "Organizar el índice regularmente y mapear palabras clave de búsqueda",
-          "fr": "Organiser l'index régulièrement et associer des mots-clés",
-          "de": "Regelmäßige Indexpflege und Zuordnung von Suchbegriffen",
-          "pt": "Organizar o índice regularmente e mapear palavras-chave de busca",
-          "id": "Membuat Indeks Secara Berkala dan Pemetaan Kata Kunci"
+          "ko": "정기적인 색인 정리 및 검색 키워드 맵핑"
         },
         "text": {
-          "ko": "주 1회 혹은 매달 첫 장의 인덱스 영역을 열어, 누적된 번호와 그에 대응하는 대표 핵심 키워드를 표 형식으로 정리해 빠른 검색 경로를 굳힙니다.",
-          "en": "Open the index area on the first page once a week or month. Map the accumulated numbers with corresponding key terms in a table format for quick retrieval.",
-          "ja": "週1回または毎月、最初のインデックスエリアを開き、累積された番号とそれに対応する代表的なキーワードを表形式で整理し、迅速な検索経路を構築します。",
-          "zh": "每周或每月一次打开首页的索引区域，将累积的编号及其对应的代表性核心关键词以表格形式整理出来，固化快速检索路径。",
-          "es": "Abra la sección de índice al inicio del cuaderno una vez por semana o mes. Organice en una tabla los números y sus palabras clave para una búsqueda rápida.",
-          "fr": "Ouvrez l'index en début de carnet une fois par semaine ou par mois. Classez les numéros et mots-clés dans un tableau pour une recherche rapide.",
-          "de": "Öffnen Sie einmal pro Woche oder Monat das Inhaltsverzeichnis. Tragen Sie die Nummern und passenden Suchbegriffe ein, um das spätere Suchen zu erleichtern.",
-          "pt": "Abra a secão de índice no início do caderno uma vez por semana ou mês. Organize em uma tabela os números e suas palavras-chave para uma busca rápida.",
-          "id": "Sekali seminggu atau sebulan, perbarui halaman indeks di depan buku catatan. Buat tabel berisi nomor catatan dan kata kunci terkait agar mudah dicari."
+          "ko": "주 1회 혹은 매달 첫 장의 인덱스 영역을 열어, 누적된 번호와 그에 대응하는 대표 핵심 키워드를 표 형식으로 정리해 빠른 검색 경로를 굳힙니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "디지털 메모 앱을 사용하는데 아날로그 번호화가 유용한가요?",
-          "en": "Is analog-style numbering useful when using digital note apps?",
-          "ja": "デジタルメモアプリを使っていますが、アナログ風の番号化は有用ですか？",
-          "zh": "我使用的是数字化备忘录APP，模拟式的编号法还有用吗？",
-          "es": "¿Es útil la numeración si utilizo aplicaciones de notas digitales?",
-          "fr": "La numérotation est-elle utile si j'utilise des applications de notes numériques ?",
-          "de": "Ist eine Nummerierung auch bei digitalen Notizen sinnvoll?",
-          "pt": "A numeração é útil se eu utilizar aplicativos de notas digitais?",
-          "id": "Apakah metode penomoran ini tetap berguna jika saya menggunakan aplikasi catatan digital?"
+          "ko": "디지털 메모 앱을 사용하는데 아날로그 번호화가 유용한가요?"
         },
         "answer": {
-          "ko": "디지털 환경에서도 고유 번호를 매겨 기록하면 강력한 효과를 냅니다. 디지털 검색 기능은 정확한 단어가 생각나지 않으면 한계가 있지만, 고유 번호(예: #042)로 지식을 고정하면 상호 참조 링크(Backlink)를 구축하거나 다른 문서에서 지식의 맥락을 간결하게 끌어오는 인덱스 주소로 활용할 수 있어 오히려 디지털 생산성이 극대화됩니다.",
-          "en": "Assigning unique numbers is highly effective even in digital environments. While search functions have limits if you forget keywords, fixing knowledge with a unique number (e.g., #042) allows building cross-references (backlinks) and serves as an index address to fetch context, maximizing digital productivity.",
-          "ja": "デジタル環境でも固有の番号をつけて記録することは強力な効果を発揮します。デジタルの検索機能は、正確な単語を思い出せない場合に限界がありますが、固有の番号（例：#042）で知識を固定すれば、相互参照リンク（Backlink）を構築したり、他の文書から知識の文脈を簡潔に引用するインデックスアドレスとして活用できるため、むしろデジタル生産性が極大化されます。",
-          "zh": "在数字化环境下，标注唯一编号进行记录同样能产生强劲效果。虽然数字化检索功能在记不清准确词汇时会有局限，但如果用唯一编号（例如：#042）固化知识，就可以构建相互引用链接（Backlink），或将其用作在其他文档中简明提取知识脉络的索引地址，反而会极大化数字化生产力。",
-          "es": "Sí, la numeración digital es sumamente práctica. Aunque los buscadores ayudan, asignar códigos únicos (como #042) facilita la creación de enlaces de referencia y permite conectar ideas y documentos con precisión, potenciando su productividad digital.",
-          "fr": "Oui, la numérotation numérique est très pratique. Même si les moteurs de recherche aident, attribuer des codes uniques (comme #042) facilite la création de liens de référence et permet de connecter les idées, boostant la productivité.",
-          "de": "Auch digital ist die Nummerierung wertvoll. Suchfunktionen stoßen an Grenzen, wenn exakte Begriffe fehlen. Feste Nummern (z. B. #042) ermöglichen Querverweise (Backlinks) und dienen als eindeutige Referenzen, was die digitale Produktivität steigert.",
-          "pt": "Sim, a numeração digital é sumamente prática. Embora os buscadores ajudem, atribuir códigos únicos (como #042) facilita a criação de links de referência e permite conectar ideias e documentos com precisão, potencializando sua produtividade digital.",
-          "id": "Metode ini sangat berguna di era digital. Meskipun aplikasi memiliki fitur pencarian, menetapkan kode unik (misalnya #042) memudahkan pembuatan tautan silang (backlink) antar catatan dan menyusun basis pengetahuan digital Anda."
+          "ko": "디지털 환경에서도 고유 번호를 매겨 기록하면 강력한 효과를 냅니다. 디지털 검색 기능은 정확한 단어가 생각나지 않으면 한계가 있지만, 고유 번호(예: #042)로 지식을 고정하면 상호 참조 링크(Backlink)를 구축하거나 다른 문서에서 지식의 맥락을 간결하게 끌어오는 인덱스 주소로 활용할 수 있어 오히려 디지털 생산성이 극대화됩니다."
         }
       }
     ]

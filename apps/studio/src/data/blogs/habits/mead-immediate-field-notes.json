@@ -1,218 +1,72 @@
 {
   "mead-immediate-field-notes": {
     "title": {
-      "ko": "기억의 각색을 막는 기록: 마가렛 미드의 현장 즉각 메모 습관",
-      "en": "Notes That Prevent the Adaptation of Memory: Margaret Mead's Immediate Note-taking Habit",
-      "ja": "記憶の脚色を防ぐ記録：マーガレット・ミードの現場即時メモ習慣",
-      "zh": "防止记忆被粉饰的记录：玛格丽特·米德的现场即时笔记习惯",
-      "es": "Notas que previenen la adaptación de la memoria: el hábito de tomar notas de inmediato de Margaret Mead",
-      "fr": "Des notes qui empêchent l'adaptation de la mémoire : l'habitude de prendre des notes immédiatement de Margaret Mead",
-      "de": "Notizen, die die Anpassung des Gedächtnisses verhindern: Margaret Meads Gewohnheit der sofortigen Notizenannahme",
-      "pt": "Notas que previnem a adaptação da memória: o hábito de tomar notas imediatamente de Margaret Mead",
-      "id": "Catatan yang Mencegah Adaptasi Memori: Kebiasaan Mencatat Langsung Margaret Mead"
+      "ko": "기억의 각색을 막는 기록: 마가렛 미드의 현장 즉각 메모 습관"
     },
     "description": {
-      "ko": "기억이 왜곡되기 전 관찰한 사실을 현장에서 즉시 수첩에 받아적었던 인류학자 마가렛 미드. 뇌의 작업 기억 용량 한계를 극복하고 편향을 막아내는 '인지 오프로딩'의 신경학적 원리를 다룹니다.",
-      "en": "Anthropologist Margaret Mead wrote down observation facts on the spot before memory distorted. Explore the neuroscience of cognitive offloading to bypass working memory limits.",
-      "ja": "記憶が歪む前、観察した事実を現場で即座に手帳に書き留めた人類学者マーガレット・ミード. 脳の作業記憶の容量限界を克服し、偏向を防ぐ「認知オフローディング」の神経学的原理を扱います.",
-      "zh": "文化人类学家玛格丽特·米德在记忆发生指歪曲前，会在现场立即将观察到的事实记录在笔记本上。探讨克服大脑工作记忆容量限制并防止偏见的“认知卸载”神经学原理。",
-      "es": "La antropóloga Margaret Mead anotó datos de observación en el acto antes de que la memoria se distorsionara. Explore la neurociencia de la descarga cognitiva para eludir los límites de la memoria de trabajo.",
-      "fr": "L'anthropologue Margaret Mead a noté les faits d'observation sur le vif avant que la mémoire ne se déforme. Explorez la neuroscience de la décharge cognitive pour contourner les limites de la mémoire de travail.",
-      "de": "Die Anthropologin Margaret Mead notierte Beobachtungsfakten an Ort und Stelle, bevor sich das Gedächtnis verzerrte. Erforschen Sie die Neurowissenschaft des kognitiven Offloadings, um die Grenzen des Arbeitsgedächtnisses zu umgehen.",
-      "pt": "A antropóloga Margaret Mead anotou fatos de observação no ato, antes que a memória se distorcesse. Explore a neurociência da descarga cognitiva para contornar os limites da memória de trabalho.",
-      "id": "Antropolog Margaret Mead mencatat fakta-fakta observasi di tempat sebelum memori menyimpang. Jelajahi neurosains dari pemindahan kognitif untuk melewati batas memori kerja."
+      "ko": "기억이 왜곡되기 전 관찰한 사실을 현장에서 즉시 수첩에 받아적었던 인류학자 마가렛 미드. 뇌의 작업 기억 용량 한계를 극복하고 편향을 막아내는 '인지 오프로딩'의 신경학적 원리를 다룹니다."
     },
     "authority": {
-      "ko": "제인 하워드 저 『마가렛 미드의 생애(Margaret Mead: A Life)』 기록 분석 및 대뇌 작업 기억(Working Memory)의 한계와 인지 오프로딩(Cognitive Offloading) 신경인지과학 연구",
-      "en": "Jane Howard's 'Margaret Mead: A Life' and Neurocognitive Research on Working Memory Limitations and Cognitive Offloading (Storm & Stone, 2015)",
-      "ja": "ジェーン・ハワード著『マーガレット・ミードの生涯（Margaret Mead: A Life）』の記録分析および大脳作業記憶（Working Memory）の限界と認知オフローディング（Cognitive Offloading）の神経認知科学研究",
-      "zh": "简·霍华德著《玛格丽特·米德的一生》记录分析及关于大脑工作记忆（Working Memory）局限与认知卸载（Cognitive Offloading）的神经认知科学研究",
-      "es": "La obra de Jane Howard 'Margaret Mead: A Life' e investigación neurocognitiva sobre las limitaciones de la memoria de trabajo y la descarga cognitiva (Storm & Stone, 2015)",
-      "fr": "L'ouvrage de Jane Howard 'Margaret Mead: A Life' et recherche neurocognitive sur les limites de la mémoire de travail et la décharge cognitive (Storm & Stone, 2015)",
-      "de": "Jane Howards 'Margaret Mead: A Life' und neurokognitive Forschung zu Arbeitsgedächtnisbeschränkungen und kognitivem Offloading (Storm & Stone, 2015)",
-      "pt": "A obra de Jane Howard 'Margaret Mead: A Life' e pesquisa neurocognitiva sobre as limitações da memória de trabalho e a descarga cognitiva (Storm & Stone, 2015)",
-      "id": "Karya Jane Howard 'Margaret Mead: A Life' dan Riset Neurokognitif tentang Batasan Memori Kerja dan Pemindahan Kognitif (Storm & Stone, 2015)"
+      "ko": "Mead Immediate Field Notes 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "20세기 인류학의 패러다임을 바꾸고 문화적 다양성을 옹호한 세계적인 문화인류학자 마가렛 미드. 그녀는 남태평양 사모아 섬 등 문명의 발길이 닿지 않은 곳에 수년간 머물며 원주민들의 행동 양식과 의식을 관찰했습니다. 미드의 저작들이 100년이 지난 지금도 최고의 정교함과 사실성을 인정받는 이유는 그녀만의 독특한 기록 공식에 있었습니다. 미드는 무언가를 관찰하면 단 1시간도 뒤로 미루지 않고, 현장에서 즉시 가방 속 미니 수첩을 꺼내 생생하게 기록했습니다. 기억의 주관적 왜곡을 원천 봉쇄했던 미드의 즉각 기록 메커니즘을 상세히 해부합니다.",
-      "en": "Margaret Mead, the world-renowned cultural anthropologist who shifted the paradigm of 20th-century anthropology, lived for years in remote areas like Samoa. The reason Mead's writings are recognized for their extreme accuracy even 100 years later was her unique note-taking formula. Staring at something, Mead never delayed even for an hour, pulling out a mini-notepad to write. We dissect Mead's immediate note-taking mechanism.",
-      "ja": "20世紀の人類学のパラダイムを変え、文化的多様性を提唱した世界的な文化人类学者マーガレット・ミード. 彼女は南太平洋のサモア島など文明の足跡が届かない場所に数年間滞在し、先住民たちの行動様式や儀式を観察しました. 彼の著作が100年経った今でも最高の精緻さと事実性を認められている理由は、彼女だけのユニークな記録公式にありました. 彼女は何かを観察すると、わずか1時間も後に引き延ばすことなく、現場で即座にバッグの中のミニ手帳を取り出して生き生きと記録しました. 記憶の主観的歪みを根底から封じ込めたミードの即時記録メカニズムを詳細に解剖します.",
-      "zh": "改变了二十世纪人类学范式、倡导文化多样性的世界级文化人类学家玛格丽特·米德。她曾在南太平洋萨摩亚群岛等文明尚未波及的偏远地区居住数年，观察原住民的行为模式和仪式。米德的著作在百年后的今天依然被公认为具有极高精细度与真实性，原因就在于她独特的记录公式。米德在观察到某些现象时，绝不会往后拖延哪怕一小时，而是在现场立即从包里拿出微型笔记本进行生动记录。详细剖析从源头上封锁记忆主观扭曲的米德即时记录机制。",
-      "es": "Margaret Mead, la antropóloga cultural de renombre mundial que cambió el paradigma de la antropología del siglo XX, vivió durante años en áreas remotas como Samoa. La razón por la que los escritos de Mead son reconocidos por su extrema precisión incluso 100 años después fue su fórmula única para tomar notas. Al observar algo, Mead nunca se demoraba ni una hora, y sacaba un bloc de notas mini para escribir. Analizamos su mecanismo de toma de notas inmediato.",
-      "fr": "Margaret Mead, l'anthropologue culturelle de renommée mondiale qui a changé le paradigme de l'anthropologie du XXe siècle, a vécu pendant des années dans des régions reculées comme les îles Samoa. La raison pour laquelle les écrits de Mead sont reconnus pour leur extrême précision, même 100 ans plus tard, résidait dans sa formule unique de prise de notes.",
-      "de": "Margaret Mead, die weltberühmte Kulturanthropologin, die das Paradigma der Anthropologie des 20. Jahrhunderts veränderte, lebte jahrelang in abgelegenen Gebieten wie Samoa. Der Grund, warum Meads Schriften auch 100 Jahre später noch für ihre extreme Genauigkeit anerkannt sind, war ihre einzigartige Methode des Notizenschreibens. Wenn sie etwas beobachtete, zögerte Mead keine Stunde, sondern zog einen Mini-Notizblock heraus, um zu schreiben.",
-      "pt": "Margaret Mead, a antropóloga cultural de renome mundial que mudou o paradigma da antropologia do século XX, viveu durante anos em áreas remotas como Samoa. A razão pela qual os escritos de Mead são reconhecidos por sua extrema precisão, mesmo 100 anos depois, foi sua fórmula única de tomar notas. Ao observar algo, Mead nunca demorava nem uma hora, tirando um mini-bloco de notas para escrever.",
-      "id": "Margaret Mead, antropolog budaya terkenal di dunia yang menggeser paradigma antropologi abad ke-20, tinggal bertahun-tahun di daerah terpencil seperti Samoa. Alasan mengapa tulisan-tulisan Mead diakui keakuratannya yang luar biasa bahkan 100 tahun kemudian adalah formula pencatatan uniknya. Saat mengamati sesuatu, Mead tidak pernah menunda bahkan selama satu jam, mengeluarkan buku catatan mini untuk menulis."
+      "ko": "\"관찰한 사실을 그 즉시 적지 않는다면, 그것은 존재하지 않는 것과 같다.\" 📝\n\n20세기 인류학의 패러다임을 바꾸고 문화적 다양성을 옹호한 세계적인 문화인류학자 마가렛 미드. 그녀는 남태평양 사모아 섬 등 문명의 발길이 닿지 않은 곳에 수년간 머물며 원주민들의 행동 양식과 의식을 관찰했습니다. 미드의 저작들이 100년이 지난 지금도 최고의 정교함과 사실성을 인정받는 이유는 그녀만의 독특한 기록 공식에 있었습니다. 미드는 무언가를 관찰하면 단 1시간도 뒤로 미루지 않고, 현장에서 즉시 가방 속 미니 수첩을 꺼내 생생하게 기록했습니다. 기억의 주관적 왜곡을 원천 봉쇄했던 미드의 즉각 기록 메커니즘을 상세히 해부합니다."
     },
     "whyTitle": {
-      "ko": "작업 기억의 한계와 인지 오프로딩(Cognitive Offloading)",
-      "en": "Limitations of Working Memory and Cognitive Offloading",
-      "ja": "作業記憶の限界と認知オフローディング（Cognitive Offloading）",
-      "zh": "工作记忆的局限与认知卸载（Cognitive Offloading）",
-      "es": "Limitaciones de la memoria de trabajo y descarga cognitiva",
-      "fr": "Limites de la mémoire de travail et décharge cognitive",
-      "de": "Grenzen des Arbeitsgedächtnisses und kognitives Offloading",
-      "pt": "Limitações da memória de trabalho e descarga cognitiva",
-      "id": "Batasan Memori Kerja dan Pemindahan Kognitif"
+      "ko": "작업 기억의 한계와 인지 오프로딩(Cognitive Offloading)"
     },
     "whyDesc": {
-      "ko": "우리의 뇌는 새로운 정보를 입력받은 후 일시적인 '작업 기억(Working Memory)' 공간에 담아두지만, 이 공간은 7개 내외의 정보 조각만을 보존할 수 있을 정도로 용량이 작습니다. 시간이 지남에 따라 뇌는 누락된 정보를 자신의 스키마(기존 지식과 편향)에 맞춰 임의로 각색하고 재구성합니다. 미드처럼 현장에서 즉각 종이나 펜을 활용해 외부 기록 장치로 정보를 이동시키는 '인지 오프로딩'을 실행하면, 뇌는 주관적 기억 각색을 차단하고 뇌의 한계를 뛰어넘어 완벽한 객관성 데이터를 추출할 수 있게 됩니다.",
-      "en": "While our brain holds new information in temporary working memory, its capacity is limited to holding about 7 chunks. Over time, the brain fills gaps and reconstructs memory based on its schemas (existing bias). Transferring information immediately to an external recorder using pen and paper, like Mead did, triggers 'cognitive offloading' that blocks subjective memory distortion and captures objective data.",
-      "ja": "私たちの脳は新しい情報を入力された後、一時的な「作業記憶（Working Memory）」空間に収めておきますが、この空間は7個前後の情報のかたまりしか保存できないほど容量が小さいです. 時間の経過とともに、脳は抜け落ちた情報を自らのスキーマ（既存の知識や偏見）に合わせて任意に脚色し再構成します. ミードのように現場で即座に紙やペンを活用して外部記録装置に情報を移動させる「認知オフローディング」を実行すると、脳は主観的な記憶の脚色を遮断し、脳の限界を越えて完璧な客観性データを取り出すことができるようになります.",
-      "zh": "我们的大脑在接收新信息后，会将其储存在临时的“工作记忆”空间里，但该空间容量极小，仅能保存7个左右的信息片段。随着时间流逝，大脑会迎合自身的Schema（已有知识与偏见），对缺失的信息进行任意粉饰和重构。如果像米德一样，在现场立即利用纸笔将信息转移至外部记录介质上，即执行“认知卸载”，大脑就会阻断主观性的记忆美化，跨越大脑局限，导出客观数据。",
-      "es": "Aunque nuestro cerebro retiene nueva información en la memoria de trabajo temporal, su capacidad se limita a contener aproximadamente 7 fragmentos. Con el tiempo, el cerebro llena los vacíos y reconstruye la memoria en función de sus esquemas (sesgo existente). Transferir información inmediatamente a una grabadora externa usando papel y bolígrafo, como hizo Mead, activa la 'descarga cognitiva' que bloquea la distorsión subjetiva de la memoria y captura datos objetivos.",
-      "fr": "Bien que notre cerveau retienne de nouvelles informations dans la mémoire de travail temporaire, sa capacité est limitée à environ 7 éléments. Au fil du temps, le cerveau comble les lacunes et reconstruit la mémoire en fonction de ses schémas (biais existant). Transférer les informations immédiatement sur un support externe à l'aide d'un stylo et de papier, comme l'a fait Mead, déclenche une « décharge cognitive ».",
-      "de": "Obwohl unser Gehirn neue Informationen im temporären Arbeitsgedächtnis speichert, ist seine Kapazität auf etwa 7 Chunks begrenzt. Im Laufe der Zeit füllt das Gehirn Lücken und rekonstruiert das Gedächtnis basierend auf seinen Schemata (bestehende Voreingenommenheit). Die sofortige Übertragung von Informationen auf ein externes Aufzeichnungsmedium mit Stift und Papier, wie Mead es tat, löst ein 'kognitives Offloading' aus, das eine subjektive Gedächtnisverzerrung blockiert.",
-      "pt": "Embora nosso cérebro retenha novas informações na memória de trabalho temporária, sua capacidade é limitada a cerca de 7 fragmentos. Com o tempo, o cérebro preenche lacunas e reconstrói a memória com base em seus esquemas (viés existente). Transferir informações imediatamente para um gravador externo usando papel e caneta, como fez Mead, ativa a 'descarga cognitiva' que bloqueia a distorção da memória.",
-      "id": "Meskipun otak kita menyimpan informasi baru dalam memori kerja sementara, kapasitasnya terbatas untuk menampung sekitar 7 bongkahan informasi. Seiring waktu, otak mengisi celah dan merekonstruksi memori berdasarkan skemanya (bias yang ada). Memindahkan informasi segera ke perekam eksternal menggunakan pena dan kertas, seperti yang dilakukan Mead, memicu 'pemindahan kognitif' yang memblokir distorsi memori subjektif dan menangkap data objektif."
+      "ko": "우리의 뇌는 새로운 정보를 입력받은 후 일시적인 '작업 기억(Working Memory)' 공간에 담아두지만, 이 공간은 7개 내외의 정보 조각만을 보존할 수 있을 정도로 용량이 작습니다. 시간이 지남에 따라 뇌는 누락된 정보를 자신의 스키마(기존 지식과 편향)에 맞춰 임의로 각색하고 재구성합니다. 미드처럼 현장에서 즉각 종이나 펜을 활용해 외부 기록 장치로 정보를 이동시키는 '인지 오프로딩'을 실행하면, 뇌는 주관적 기억 각색을 차단하고 뇌의 한계를 뛰어넘어 완벽한 객관성 데이터를 추출할 수 있게 됩니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "즉각 기록 습관을 실천할 때 흔히 저지르는 실수는, 완벽한 문장이나 깔끔한 보고서 형태로 정돈하여 적으려 하는 것입니다. 기록 과정에서 철자나 문맥, 정리를 지나치게 의식하면 뇌는 다시 언어 문법 및 교정 필터를 돌리느라 찰나의 날것 데이터를 가공하고 변형해 버립니다. 즉각 메모 시에는 오직 날것의 키워드, 어조, 핵심 사실만 빠르게 휘갈겨 적어야 하며, 예쁜 문장으로 다듬는 일은 주말이나 퇴근 직전의 '정리 단계'로 완벽히 분리해야 합니다.",
-      "en": "A common mistake of immediate note-taking is trying to write in perfect sentences or structured reports. Focusing too much on spelling and context during the process causes the brain to filter and transform the raw data. Write in raw keywords and facts, and leave polishing to a separate organization phase.",
-      "ja": "即時記録習慣を実践する際にありがちなミスは、完璧な文章や整った報告書の形で整理して書こうとすることです. 記録の過程でスペルや文脈、整理を過度に意識すると、脳は再び言語の文法や校正フィルターを回すため、刹那の生データを加工し変形してしまいます. 即時メモの際は、生のキーワード、口調、核心の事実だけを素早く殴り書きしなければならず、きれいな文章に整える仕事は、週末や退社直前の「整理段階」へ完全に分離する必要があります.",
-      "zh": "践行即时记录习惯时常犯的错误是，试图以完美的语句或整洁的报告形式进行整理记录。如果记录过程中过度关注拼写、上下文或排版，大脑为了启动语言语法及校正过滤器，反而会加工并篡改转瞬即逝的原始数据。即时记录时，应当只快速草拟原始关键词、语气和核心事实，把修饰为优美句子的工作完全剥离到周末或下班前的“整理阶段”。",
-      "es": "Un error común al tomar notas de inmediato es intentar escribir en oraciones perfectas o informes estructurados. Concentrarse demasiado en la ortografía y el contexto durante el proceso hace que el cerebro filtre y transforme los datos brutos. Escriba palabras clave y hechos directos, y deje el pulido para una fase de organización separada.",
-      "fr": "Une erreur courante lors de la prise de notes immédiate est d'essayer d'écrire des phrases parfaites ou des rapports structurés. Se concentrer excessivement sur l'orthographe et le contexte pendant le processus amène le cerveau à filtrer et à transformer les données brutes. Écrivez des mots-clés et des faits bruts, et laissez le polissage pour une phase d'organisation distincte.",
-      "de": "Ein häufiger Fehler bei der sofortigen Notizenerstellung besteht darin, zu versuchen, in perfekten Sätzen oder strukturierten Berichten zu schreiben. Wenn man sich während des Prozesses zu sehr auf Rechtschreibung und Kontext konzentriert, filtert und transformiert das Gehirn die Rohdaten. Schreiben Sie Roh-Keywords und Fakten auf und überlassen Sie den Feinschliff einer separaten Organisationsphase.",
-      "pt": "Um erro comum ao tomar notas imediatamente é tentar escrever em frases perfeitas ou relatórios estruturados. Focar demais na ortografia e no contexto durante o processo faz com que o cérebro filtre e transforme os dados brutos. Escreva palavras-chave e fatos brutos, e deixe o polimento para uma fase de organização separada.",
-      "id": "Kesalahan umum dari mencatat langsung adalah mencoba menulis dalam kalimat yang sempurna atau laporan yang terstruktur. Terlalu fokus pada ejaan dan konteks selama proses menyebabkan otak memfilter dan mengubah data mentah. Tulis dalam kata kunci dan fakta mentah, dan biarkan pemolesan dilakukan pada fase pengaturan yang terpisah."
+      "ko": "즉각 기록 습관을 실천할 때 흔히 저지르는 실수는, 완벽한 문장이나 깔끔한 보고서 형태로 정돈하여 적으려 하는 것입니다. 기록 과정에서 철자나 문맥, 정리를 지나치게 의식하면 뇌는 다시 언어 문법 및 교정 필터를 돌리느라 찰나의 날것 데이터를 가공하고 변형해 버립니다. 즉각 메모 시에는 오직 날것의 키워드, 어조, 핵심 사실만 빠르게 휘갈겨 적어야 하며, 예쁜 문장으로 다듬는 일은 주말이나 퇴근 직전의 '정리 단계'로 완벽히 분리해야 합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "휴대용 기록 도구 상시 휴대",
-          "en": "Always Carrying Portable Recording Tools",
-          "ja": "携帯用記録ツールの常時携帯",
-          "zh": "常备随身记录工具",
-          "es": "Llevar siempre herramientas de grabación portátiles",
-          "fr": "Toujours porter des outils d'enregistrement portables",
-          "de": "Tragen Sie immer tragbare Aufzeichnungswerkzeuge bei sich",
-          "pt": "Sempre carregar ferramentas de gravação portáteis",
-          "id": "Selalu Membawa Alat Perekam Portabel"
+          "ko": "휴대용 기록 도구 상시 휴대"
         },
         "text": {
-          "ko": "주머니에 들어가는 작은 휴대용 수첩과 연필을 항상 소지하거나, 스마트폰 첫 화면에 원터치 메모 앱 위젯을 꺼내 둡니다.",
-          "en": "Always keep a small portable notepad and pencil in your pocket, or place a one-touch memo app widget on your smartphone's home screen.",
-          "ja": "ポケットに入る小さな携帯用手帳と鉛筆を常に携帯するか、スマートフォンの最初の画面にワンタッチメモアプリのウィジェットを出しておきます.",
-          "zh": "随身携带放得进兜里的小型笔记本和铅笔，或者在手机主屏幕上放置一键式备忘录应用的小组件。",
-          "es": "Lleve siempre en el bolsillo un pequeño bloc de notas portátil y un lápiz, o coloque un widget de la aplicación de notas de un toque en la pantalla de inicio de su teléfono inteligente.",
-          "fr": "Gardez toujours un petit bloc-notes portable et un crayon dans votre poche, ou placez un widget d'application de mémo à une touche sur l'écran d'accueil de votre smartphone.",
-          "de": "Tragen Sie immer ein kleines tragbares Notizbuch und einen Bleistift in Ihrer Tasche oder platzieren Sie ein One-Touch-Memo-App-Widget auf dem Startbildschirm Ihres Smartphones.",
-          "pt": "Sempre tenha um pequeno bloco de notas portátil e lápis no bolso, ou coloque um widget de aplicativo de notas de um toque na tela inicial do smartphone.",
-          "id": "Selalu simpan buku catatan portabel kecil dan pensil di saku Anda, atau tempatkan widget aplikasi memo sekali sentuh di layar beranda ponsel pintar Anda."
+          "ko": "주머니에 들어가는 작은 휴대용 수첩과 연필을 항상 소지하거나, 스마트폰 첫 화면에 원터치 메모 앱 위젯을 꺼내 둡니다."
         }
       },
       {
         "name": {
-          "ko": "이벤트 직후 날것의 휘갈겨 적기",
-          "en": "Jotting Down Raw Data Immediately After an Event",
-          "ja": "イベント直後の生の殴り書き",
-          "zh": "事件发生后立即草拟原始数据",
-          "es": "Anotar datos brutos inmediatamente después de un evento",
-          "fr": "Noter les données brutes immédiatement après un événement",
-          "de": "Rohdaten sofort nach einem Ereignis notieren",
-          "pt": "Anotar dados brutos imediatamente após um evento",
-          "id": "Mencatat Data Mentah Segera Setelah Peristiwa"
+          "ko": "이벤트 직후 날것의 휘갈겨 적기"
         },
         "text": {
-          "ko": "중요한 대화나 관찰이 끝난 직후, 정리를 미루지 않고 1분 이내에 머릿속 날것의 정보(키워드, 핵심 팩트)를 빠르게 휘갈겨 씁니다.",
-          "en": "Immediately after an important conversation or observation, without delaying, write down the raw information (keywords, core facts) within 1 minute.",
-          "ja": "重要な会話や観察が終わった直後、整理を引き延ばすことなく1分以内に、頭の中の生の情報（キーワード、核心の事実）を素早く殴り書きします.",
-          "zh": "在重要的交谈或观察结束后，毫不拖延地在1分钟内快速写下脑海中的原始信息（关键词、核心事实）。",
-          "es": "Inmediatamente después de una conversación u observación importante, sin demora, escriba la información bruta (palabras clave, hechos principales) dentro de 1 minuto.",
-          "fr": "Immédiatement après une conversation ou une observation importante, sans tarder, écrivez les informations brutes (mots-clés, faits principaux) en moins d'une minute.",
-          "de": "Schreiben Sie unmittelbar nach einem wichtigen Gespräch oder einer Beobachtung ohne Verzögerung die Rohinformationen (Schlüsselwörter, Kernfakten) innerhalb von 1 Minute auf.",
-          "pt": "Imediatamente após uma conversa ou observação importante, sem demora, escreva as informações brutas (palavras-chave, fatos principais) dentro de 1 minuto.",
-          "id": "Segera setelah percakapan atau observasi penting, tanpa menunda, tuliskan informasi mentah (kata kunci, fakta utama) dalam waktu 1 menit."
+          "ko": "중요한 대화나 관찰이 끝난 직후, 정리를 미루지 않고 1분 이내에 머릿속 날것의 정보(키워드, 핵심 팩트)를 빠르게 휘갈겨 씁니다."
         }
       },
       {
         "name": {
-          "ko": "일정 주기별 구조화 및 데이터 보관",
-          "en": "Periodic Structuring and Data Archiving",
-          "ja": "一定周期ごとの構造化とデータ保管",
-          "zh": "定期结构化与数据归档",
-          "es": "Estructuración periódica y archivo de datos",
-          "fr": "Structuration périodique et archivage des données",
-          "de": "Regelmäßige Strukturierung und Datenarchivierung",
-          "pt": "Estruturação periódica e arquivamento de dados",
-          "id": "Penstrukturan Berkala dan Pengarsipan Data"
+          "ko": "일정 주기별 구조화 및 데이터 보관"
         },
         "text": {
-          "ko": "매일 저녁이나 주말의 고정된 시간에 휘갈겨 적은 메모를 분류하고, 영구 보관용 지식 노트 시스템으로 이관하여 구조화합니다.",
-          "en": "At a fixed time every evening or weekend, classify the jotted notes and transfer them to a permanent knowledge base to structure them.",
-          "ja": "毎晩または週末の固定された時間に、殴り書きしたメモを分類し、永久保管用の知識ノートシステムに移管して構造化します.",
-          "zh": "在每天傍晚或周末的固定时间，对草拟的笔记进行分类，并移至永久保存的知识笔记系统中进行结构化整理。",
-          "es": "A una hora fija cada noche o fin de semana, clasifique las notas apuntadas y transfiéralas a una base de conocimiento permanente para estructurarlas.",
-          "fr": "À une heure fixe chaque soir ou week-end, classez les notes griffonnées et transférez-les dans une base de connaissances permanente pour les structurer.",
-          "de": "Klassifizieren Sie die notierten Aufzeichnungen jeden Abend oder am Wochenende zu einer festgelegten Zeit und übertragen Sie sie in eine dauerhafte Wissensdatenbank, um sie zu strukturieren.",
-          "pt": "Em um horário fixo todas as noites ou fins de semana, classifique as notas anotadas e transfira-as para uma base de conhecimento permanente para estruturá-las.",
-          "id": "Pada waktu yang ditentukan setiap malam atau akhir pekan, klasifikasikan catatan yang ditulis dan pindahkan ke basis pengetahuan permanen untuk menyusunnya."
+          "ko": "매일 저녁이나 주말의 고정된 시간에 휘갈겨 적은 메모를 분류하고, 영구 보관용 지식 노트 시스템으로 이관하여 구조화합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "수첩 대신 스마트폰 메모 앱을 사용해도 무방한가요?",
-          "en": "Is it okay to use a smartphone memo app instead of a notepad?",
-          "ja": "手帳の代わりにスマートフォンのメモアプリを使用しても差し支えありませんか？",
-          "zh": "用手机备忘录代替笔记本可以吗？",
-          "es": "¿Está bien usar una aplicación de notas de teléfono en lugar de un bloc de notas?",
-          "fr": "Est-il possible d'utiliser une application de notes de smartphone plutôt qu'un bloc-notes ?",
-          "de": "Ist es in Ordnung, anstelle eines Notizblocks eine Smartphone-Notizen-App zu verwenden?",
-          "pt": "Tudo bem usar um aplicativo de notas de smartphone em vez de um bloco de notas?",
-          "id": "Apakah tidak apa-apa menggunakan aplikasi memo ponsel pintar sebagai pengganti buku catatan?"
+          "ko": "수첩 대신 스마트폰 메모 앱을 사용해도 무방한가요?"
         },
         "answer": {
-          "ko": "가능합니다. 다만 스마트폰을 사용할 때는 다른 앱의 알림(메시지, SNS 등)에 주의를 빼앗기지 않도록 방해 금지 모드를 켜거나, 첫 화면에 바로 메모를 띄울 수 있는 위젯을 설정하여 기록 시간의 지연을 최소화해야 합니다.",
-          "en": "Yes. However, set your phone to Do Not Disturb to avoid notifications, or place a widget on the home screen to minimize input delay.",
-          "ja": "可能です. ただし、スマートフォンを使用するときは、他のアプリの通知（メッセージ、SNSなど）に注意を奪われないように、マナーモードにするか、最初の画面にすぐにメモを作成できるウィジェットを設定して、記録時間の遅延を最小限に抑える必要があります.",
-          "zh": "可以。但使用手机时开启免打扰模式，避免被社交媒体等应用通知分心，或在主屏幕上设置快捷组件，以将输入延迟降至最低。",
-          "es": "Sí. Sin embargo, configure su teléfono en No molestar para evitar notificaciones, o coloque un widget en la pantalla de inicio para minimizar el retraso de entrada.",
-          "fr": "Oui. Cependant, réglez votre téléphone sur Ne pas déranger pour éviter les notifications, ou placez un widget sur l'écran d'accueil pour minimiser le délai de saisie.",
-          "de": "Ja. Stellen Sie Ihr Telefon jedoch auf 'Nicht stören', um Benachrichtigungen zu vermeiden, oder platzieren Sie ein Widget auf dem Startbildschirm, um die Eingabeverzögerung zu minimieren.",
-          "pt": "Sim. No entanto, defina o telefone para Não Perturbe para evitar notificações, ou coloque um widget na tela inicial para minimizar o atraso de entrada.",
-          "id": "Ya. Namun, atur ponsel Anda ke Jangan Ganggu untuk menghindari notifikasi, atau tempatkan widget di layar beranda untuk meminimalkan keterlambatan input."
+          "ko": "가능합니다. 다만 스마트폰을 사용할 때는 다른 앱의 알림(메시지, SNS 등)에 주의를 빼앗기지 않도록 방해 금지 모드를 켜거나, 첫 화면에 바로 메모를 띄울 수 있는 위젯을 설정하여 기록 시간의 지연을 최소화해야 합니다."
         }
       },
       {
         "question": {
-          "ko": "녹음기를 켜두고 나중에 모아서 적는 방법은 어떤가요?",
-          "en": "What about recording audio and transcribing it later?",
-          "ja": "ボイスレコーダーをオンにしておき、後でまとめて書き留める方法はどうですか？",
-          "zh": "录音并在此后进行整理的方法如何？",
-          "es": "¿Qué pasa con la grabación de audio y su posterior transcripción?",
-          "fr": "Qu'en est-il de l'enregistrement audio et de sa transcription ultérieure ?",
-          "de": "Wie wäre es, Audio aufzunehmen und später zu transkribieren?",
-          "pt": "O que você acha de gravar áudio e transcrevê-lo mais tarde?",
-          "id": "Bagaimana dengan merekam audio dan mentranskripsikannya nanti?"
+          "ko": "녹음기를 켜두고 나중에 모아서 적는 방법은 어떤가요?"
         },
         "answer": {
-          "ko": "전체 녹음은 기록 누락을 줄여주지만, 나중에 수 시간을 다시 들어야 해서 작업 기억에 과부하를 줍니다. 관찰이나 회의 중 결정적인 순간에 핵심 키워드 중심의 손 기록을 병행하는 것이 뇌 신경 활성 및 정보 구조화에 더 효과적입니다.",
-          "en": "Audio recording helps capture details but causes working memory fatigue during transcription. Jotting down raw keywords during the event is much better for semantic mapping.",
-          "ja": "全体を録音することは記録漏れを減らしてくれますが、後で数時間聞き直さなければならないため、ワーキングメモリに負荷をかけます. 観察や会議中の決定的な瞬間に、核心のキーワードを中心とした手書きの記録を併行することが、脳の神経活性および情報の構造化に効果的です.",
-          "zh": "录音可以减少细节遗漏，但此后需要花费数小时重新收听，给工作记忆带来负担。在观察或会议期间手写记录核心关键词，更有利于大脑的神经网络构建和信息结构化。",
-          "es": "La grabación de audio ayuda a capturar detalles, pero causa fatiga en la memoria de trabajo durante la transcripción. Apuntar palabras clave brutas durante el evento es mucho mejor para el mapeo semántico.",
-          "fr": "L'enregistrement audio aide à capturer les détails mais fatigue la mémoire de travail pendant la transcription. Griffonner des mots-clés bruts pendant l'événement est préférable pour la cartographie sémantique.",
-          "de": "Audioaufzeichnungen helfen, Details zu erfassen, führen jedoch bei der Transkription zu einer Ermüdung des Arbeitsgedächtnisses. Das Aufschreiben von Roh-Keywords während des Ereignisses ist viel besser für das semantische Mapping.",
-          "pt": "A gravação de áudio ajuda a capturar detalhes, mas causa fadiga na memória de trabalho durante a transcrição. Anotar palavras-chave brutas durante o evento é muito melhor para o mapeamento semântico.",
-          "id": "Perekaman audio membantu menangkap detail tetapi menyebabkan kelelahan memori kerja selama transkripsi. Mencatat kata kunci mentah selama acara jauh lebih baik untuk pemetaan semantik."
+          "ko": "전체 녹음은 기록 누락을 줄여주지만, 나중에 수 시간을 다시 들어야 해서 작업 기억에 과부하를 줍니다. 관찰이나 회의 중 결정적인 순간에 핵심 키워드 중심의 손 기록을 병행하는 것이 뇌 신경 활성 및 정보 구조화에 더 효과적입니다."
         }
       }
-    ],
-    "pubDate": "2026-03-18",
-    "updatedDate": "2026-03-18"
+    ]
   }
 }

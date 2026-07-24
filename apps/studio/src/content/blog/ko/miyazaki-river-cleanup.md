@@ -1,17 +1,25 @@
 ---
-formatVersion: 4
 title: "지브리 거장의 맑은 아침: 미야자키 하야오의 하천 청소 산책"
 description: "스튜디오 지브리의 미야자키 하야오 감독이 매일 아침 길가의 쓰레기를 주운 숨은 이유. 단순한 산책과 정돈이 어떻게 천재적인 창의성과 사색을 자극하는지 알아봅니다."
-pubDate: "2026-02-24"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["위인 습관", "미야자키 하야오", "사색", "창의성", "휴식"]
-heroImage: "/images/blog/miyazaki_river_cleanup.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/miyazaki_river_cleanup.png"
 app: "buildself"
-authority: "지브리 공식 인터뷰 자료 및 뇌 매핑 재단(Brain Mapping Foundation)의 이완 상태 창의성 연구"
-updatedDate: "2026-02-24"
+formatVersion: 4
+authority: "Miyazaki River Cleanup 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+steps:
+  - name: "출근 전 가벼운 아침 산책로 지정"
+    text: "매일 아침 일과 시작 전 15~20분 동안 가볍게 도보로 다녀올 수 있는 나무가 우거진 산책로나 작은 공원 코스를 선택합니다."
+  - name: "산책 중 소소한 쓰레기 정돈 및 수거"
+    text: "스마트폰을 절대 꺼내지 않고 주위 환경에 시선을 두며, 눈에 띄는 캔이나 버려진 종이 쓰레기를 가볍게 수거하여 환경을 정돈합니다."
+  - name: "맑아진 뇌 상태로 창의적 본업 진입"
+    text: "산책을 마치고 돌아와 세로토닌이 충전되어 이완되고 맑아진 전두엽의 아이디어 융합 상태를 활용해 첫 창의적 기획 업무에 바로 돌입합니다."
 faqs:
   - question: "꼭 쓰레기를 주워야 하나요, 그냥 걷는 건 안 되나요?"
     answer: "그냥 걷는 것도 DMN 활성화에 도움이 되지만, 쓰레기 줍기라는 이타적 행동과 '목표 환경 정리' 행위가 결합될 때 뇌에 더 높은 수준의 만족 도파민과 세로토닌이 활성화되어 맑은 두뇌 상태를 유도합니다."
+
 ---
 
 "쓰레기를 줍는 일은 내 머리를 깨끗이 정리하고 자연을 자세히 들여다보는 일이다." 🌿
@@ -26,27 +34,25 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 스튜디오 지브리의 역사 기록 및 미야자키 하야오의 자전적 에세이 속 고증과 가벼운 신체 행동 및 이타적 각성이 뇌의 연합 기능과 평온을 미치는 뇌 매핑 재단(Brain Mapping Foundation)의 신경학 실증 연구를 기반으로 작성되었습니다.
+      본 콘텐츠는 <strong>Miyazaki River Cleanup 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 miyazaki-river-cleanup 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 이타적 걷기가 뇌에 주는 창조적 리프레시
+## 이타적 걷기가 뇌에 주는 창조적 리프레시
 
 주변 환경을 정리하며 가볍게 산책하는 행위는 뇌의 <strong>디폴트 모드 네트워크(Default Mode Network)</strong>를 부드럽게 가동합니다. 이 네트워크는 명시적인 인지적 일에서 벗어나 편안히 휴식할 때 구동되며, 뇌 도처에 흩어진 아이디어들을 연결해 참신한 직관을 발휘하게 돕습니다. 또한 몸을 쓰는 청소 작업은 아침 뇌의 세로토닌 활성화를 유도해 기분을 상쾌하게 다듬어 줍니다.
 
-더불어 주변 환경에서 흐트러진 사물을 주워 바르게 배치하거나 수거하는 물리적 조율은 뇌의 시지각 신경망에 규칙성과 질서 신호를 전달함으로써 복잡한 정보들이 혼재된 두뇌의 주의 분산을 사전에 정돈해 주는 정화 필터로 작용합니다.
-
 ---
 
-## 2. 현대인을 위한 3단계 실천 루틴
+## 주의사항 및 팁
 
-인지적 유연성을 기르고 아침 의식의 안정감을 확보할 수 있는 미야자키 하야오식 3단계 아침 산책 및 정리 루틴을 제안합니다.
+산책 중 스마트폰을 확인하거나 복잡한 생각에 잠기면 뇌는 DMN 이완 상태에 도달하지 못합니다. 걷는 동안에는 의식적으로 전자기기를 차단하고 <strong>주변 자연 환경을 감상</strong>하며, 눈앞의 물리적 대상들을 정돈하는 데에만 초점을 맞추는 것이 이 습관의 효과를 극대화하는 열쇠입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -54,7 +60,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">출근 전 가벼운 아침 산책로 지정</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    매일 아침 일과 시작 전 -분 동안 가볍게 도보로 다녀올 수 있는 나무가 우거진 산책로나 작은 공원 코스를 선택합니다.
+    매일 아침 일과 시작 전 15~20분 동안 가볍게 도보로 다녀올 수 있는 나무가 우거진 산책로나 작은 공원 코스를 선택합니다.
   </p>
 </div>
 
@@ -78,29 +84,13 @@ faqs:
   </p>
 </div>
 
----
-
-## 3. 성공적인 루틴 정착을 위한 실천 가이드
-
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">외부 세계에 시선을 고정하세요</strong>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      산책 중 스마트폰을 확인하거나 복잡한 생각에 잠기면 뇌는 DMN 이완 상태에 도달하지 못합니다. 걷는 동안에는 의식적으로 전자기기를 차단하고 <strong>주변 자연 환경을 감상</strong>하며, 눈앞의 물리적 대상들을 정돈하는 데에만 초점을 맞추는 것이 이 습관의 효과를 극대화하는 열쇠입니다.
-    </p>
-  </div>
-</div>
-
----
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📍</span> 자주 묻는 질문 (FAQ)
+    <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>꼭 쓰레기를 주워야 하나요, 그냥 걷는 건 안 되나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

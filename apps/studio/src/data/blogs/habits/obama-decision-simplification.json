@@ -1,194 +1,64 @@
 {
   "obama-decision-simplification": {
     "title": {
-      "ko": "성공적인 결정을 만드는 비결? 버락 오바마의 의사결정 단순화 루틴",
-      "en": "The Secret to Successful Choices? Barack Obama's Decision Simplification Routine",
-      "ja": "成功する決断を生み出す秘訣？バラク・オバマの意思決定シンプル化ルーティン",
-      "zh": "做出成功抉择的秘诀？贝拉克·奥巴马的决策极简惯例",
-      "es": "¿El secreto para decisiones exitosas? La rutina de simplificación de decisiones de Barack Obama",
-      "fr": "Le secret des choix réussis ? La routine de simplification décisionnelle de Barack Obama",
-      "de": "Das Geheimnis erfolgreicher Entscheidungen? Barack Obamas Routine zur Entscheidungsvereinfachung",
-      "pt": "O segredo para escolhas de sucesso? A rotina de simplificação de decisões de Barack Obama",
-      "id": "Rahasia Keputusan yang Sukses? Rutinitas Penyederhanaan Keputusan Barack Obama"
+      "ko": "성공적인 결정을 만드는 비결? 버락 오바마의 의사결정 단순화 루틴"
     },
     "description": {
-      "ko": "미국 제44대 대통령 버락 오바마가 재임 시절 실천한 의사결정 단순화 루틴. 전두엽의 결정 피로를 줄여 중대 업무 효율을 극대화하는 3단계 비결을 알아봅니다.",
-      "en": "The decision-simplification routine practiced by Barack Obama, the 44th US President. Discover the 3-step secret to reducing prefrontal brain fatigue and maximizing productivity.",
-      "ja": "アメリカ第44代大統領バラク・オバマが在任中に実践した意思決定シンプル化ルーティン。前頭葉の決断疲れを減らし、重要業務の効率を最大化する3ステップを紹介します。",
-      "zh": "美国第44任总统贝拉克·奥巴马在任期间实践的决策极简惯例。探讨减少前额叶决策疲劳、最大化核心任务效率的三步秘诀。",
-      "es": "La rutina de simplificación de decisiones practicada por el 44.º presidente de EE. UU., Barack Obama. Descubra el secreto de 3 pasos para reducir la fatiga cognitiva y maximizar el rendimiento.",
-      "fr": "La routine de simplification décisionnelle pratiquée par Barack Obama, 44e président des États-Unis. Découvrez le secret en 3 étapes pour réduire la fatigue frontale et maximiser l'efficacité.",
-      "de": "Die von Barack Obama, dem 44. US-Präsidenten, praktizierte Routine zur Entscheidungsvereinfachung. Erfahren Sie das 3-Schritte-Geheimnis zur Verringerung der Entscheidungsermüdung.",
-      "pt": "A rotina de simplificação de decisões praticada pelo 44.º presidente dos EUA, Barack Obama. Descubra o segredo de 3 passos para reduzir a fadiga cognitiva e maximizar a produtividade.",
-      "id": "Rutinitas penyederhanaan keputusan oleh Presiden AS ke-44 Barack Obama. Temukan panduan 3 langkah mengurangi keletihan otak prefrontal demi efisiensi maksimal."
+      "ko": "미국 제44대 대통령 버락 오바마가 재임 시절 실천한 의사결정 단순화 루틴. 전두엽의 결정 피로를 줄여 중대 업무 효율을 극대화하는 3단계 비결을 알아봅니다."
     },
     "authority": {
-      "ko": "Roy F. Baumeister 교수의 결정 피로 이론 및 Vanity Fair 오바마 대통령 인터뷰",
-      "en": "Professor Roy F. Baumeister's Decision Fatigue Theory & Vanity Fair Interview with President Obama",
-      "ja": "ロイ・バウマイスター教授の決断疲れ理論および米誌「Vanity Fair」オバマ大統領インタビュー",
-      "zh": "罗意·鲍迈斯特教授的决策疲劳理论与《名利场》奥巴马总统专访",
-      "es": "Teoría de la fatiga por decisión del profesor Roy F. Baumeister y entrevista de Vanity Fair al presidente Obama",
-      "fr": "Théorie de la fatigue décisionnelle du Pr Roy F. Baumeister & entretien de Vanity Fair avec le président Obama",
-      "de": "Die Theorie der Entscheidungsermüdung von Prof. Roy F. Baumeister & Vanity-Fair-Interview mit Präsident Obama",
-      "pt": "Teoria da fadiga de decisão do professor Roy F. Baumeister e entrevista da Vanity Fair com o presidente Obama",
-      "id": "Teori Keletihan Keputusan Prof. Roy F. Baumeister & Wawancara Vanity Fair dengan Presiden Obama"
+      "ko": "버락 오바마 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "미국의 제44대 대통령으로서 매일 세계 정세를 좌우하는 막중한 의사결정을 내려야 했던 버락 오바마. 그는 재임 기간 동안 매일 마주하는 무수한 선택 속에서 전두엽의 판단 에너지를 오롯이 국가적 중대사에 집중시키기 위해 매우 현명한 개인용 비결을 사용했습니다. 👔\n\n그것은 바로 '사소한 선택의 완전한 제거'였습니다. 오바마 대통령은 늘 회색이나 청색 계열의 양복만 입었고 아침 식단 역시 단순하게 고정시켰습니다. 그는 인터뷰에서 '내가 무엇을 입을지, 무엇을 먹을지에 대한 결정을 내리지 않으려고 노력하는 것을 볼 수 있을 것입니다. 왜냐하면 나는 그 외에 내려야 할 중대한 결정이 너무나도 많기 때문입니다'라고 밝힌 바 있습니다.\n\n오늘 BuildSelf에서는 오바마 대통령의 의사결정 단순화 루틴 속에 숨겨진 인지과학적 원리와 현대인들이 하루 의지력 배터리를 효율적으로 관리하는 3단계 실천 방안을 제안합니다.",
-      "en": "As the 44th President of the United States, Barack Obama had to make heavy, world-altering decisions every day. During his presidency, to focus his prefrontal judgment energy entirely on critical national affairs amid countless daily choices, he utilized a very clever personal secret. 👔\n\nIt was the 'complete elimination of minor choices.' President Obama always wore only grey or blue suits and simplified his breakfast menu. In an interview, he noted, 'You'll see I wear only grey or blue suits. I'm trying to pare down decisions. I don't want to make decisions about what I'm eating or wearing. Because I have too many other decisions to make.'\n\nToday, BuildSelf introduces the cognitive science principles behind President Obama's decision-simplification routine and proposes a 3-step practical action plan for modern people to efficiently manage their daily willpower battery.",
-      "ja": "この歴史的習慣の実践において： 44 . . 👔 この歴史的習慣の実践において： ' '. . ' , . ' . この歴史的習慣の実践において： BuildSelf 3 .",
-      "zh": "在这一历史性惯例的实践中： 44 . . 👔 在这一历史性惯例的实践中： ' '. . ' , . ' . 在这一历史性惯例的实践中： BuildSelf 3 .",
-      "es": "Como el 44.º presidente de los Estados Unidos, Barack Obama tenía que tomar decisiones pesadas y trascendentales todos los days. Durante su presidencia, para enfocar su energía prefrontal por completo en los asuntos críticos del país entre innumerables elecciones diarias, utilizó un secreto personal muy inteligente. 👔\n\nFue la 'eliminación completa de elecciones secundarias'. El presidente Obama siempre vestía únicamente trajes grises o azules y simplificaba su menú de desayuno. En una entrevista, señaló: 'Verán que solo uso trajes grises o azules. Estoy tratando de reducir las decisiones. No quiero tomar decisiones sobre lo que como o lo que visto. Porque tengo demasiadas otras decisiones que tomar'.\n\nHoy, BuildSelf presenta los principios de la ciencia cognitiva detrás de la rutina de simplificación de decisiones del presidente Obama y propone un plan práctico de 3 pasos para que las personas modernas gestionen de manera eficiente su batería de fuerza de voluntad diaria.",
-      "fr": "En tant que 44e président des États-Unis, Barack Obama devait prendre chaque jour des décisions lourdes de conséquences à l'échelle mondiale. Durant sa présidence, pour concentrer toute son énergie frontale sur les dossiers cruciaux de l'État parmi d'innombrables choix quotidiens, il a eu recours à un secret personnel très astucieux. 👔\n\nC'était l'« élimination complète des choix secondaires ». Le président Obama ne portait que des costumes gris ou bleus et avait simplifié son menu de petit-déjeuner. Lors d'un entretien, il a déclaré : « Vous verrez que je ne porte que des costumes gris ou bleus. J'essaie de limiter les choix. Je ne veux pas prendre de décisions sur ce que je mange ou ce que je porte. Parce que j'ai trop d'autres décisions à prendre. »\n\nAujourd'hui, BuildSelf présente les principes des sciences cognitives qui sous-tendent la routine de simplification décisionnelle du président Obama et propose un plan d'action pratique en 3 étapes pour gérer efficacement sa réserve quotidienne de volonté.",
-      "de": "Als 44. Präsident der Vereinigten Staaten musste Barack Obama jeden Tag schwerwiegende Entscheidungen treffen. Um seine Entscheidungsenergie inmitten unzähliger alltäglicher Entscheidungen ganz auf die wichtigen Staatsgeschäfte zu konzentrieren, nutzte er ein sehr kluges persönliches Geheimnis. 👔\n\nEs war die „vollständige Eliminierung kleiner Entscheidungen“. Präsident Obama trug immer nur graue oder blaue Anzüge und vereinfachte sein Frühstück. In einem Interview bemerkte er: 'Sie werden sehen, dass ich nur graue oder blaue Anzüge trage. Ich versuche, Entscheidungen zu reduzieren. Ich will keine Entscheidungen darüber treffen, was ich esse oder trage. Weil ich zu viele andere Entscheidungen zu treffen habe.'\n\nHeute stellt BuildSelf die kognitionswissenschaftlichen Prinzipien hinter Präsident Obamas Routine zur Entscheidungsvereinfachung vor und schlägt einen praktischen 3-Schritte-Aktionsplan vor, mit dem moderne Menschen ihre tägliche Willenskraft effizient verwalten können.",
-      "pt": "Como o 44.º presidente dos Estados Unidos, Barack Obama tinha de tomar decisões difíceis todos os dias. Durante a sua presidência, para concentrar a sua energia pré-frontal inteiramente em assuntos críticos do país, ele utilizou um segredo pessoal muito inteligente. 👔\n\nFoi a 'eliminação completa de escolhas secundárias'. O presidente Obama vestia apenas fatos cinzentos ou azuis e simplificava o menu de pequeno-almoço. Numa entrevista, referiu: 'Verão que só uso fatos cinzentos ou azuis. Estou a tentar reduzir as decisões. Não quero tomar decisões sobre o que como ou o que visto. Porque tenho demasiadas outras decisões a tomar'.\n\nHoje, o BuildSelf apresenta os princípios da ciência cognitiva por trás da rotina de simplificação de decisões del presidente Obama e propõe um plano de ação prático de 3 passos para as pessoas modernas gerirem com eficiência a sua bateria de força de vontade diária.",
-      "id": "Presiden Amerika Serikat ke-44 Barack Obama harus membuat keputusan berat setiap hari. Selama masa jabatannya, demi memfokuskan energi kognitifnya sepenuhnya pada urusan negara penting di antara pilihan harian yang tak terhitung, ia menggunakan rahasia pribadi yang sangat cerdas. 👔\n\nYaitu 'pemangkasan total pilihan-pilihan sepele.' Presiden Obama selalu mengenakan setelan jas abu-abu atau biru saja dan menyederhanakan menu sarapannya. Dalam sebuah wawancara, ia mencatat, 'Anda akan melihat saya hanya memakai jas abu-abu atau biru. Saya mencoba memangkas keputusan. Saya tidak ingin membuat keputusan tentang apa yang saya makan atau kenakan. Karena saya memiliki terlalu banyak keputusan lain untuk dibuat.'\n\nHari ini, BuildSelf mengupas prinsip ilmu kognitif di balik rutinitas penyederhanaan keputusan Presiden Obama dan menawarkan panduan 3 langkah praktis bagi manusia modern untuk mengelola daya pikir harian secara efisien."
+      "ko": "\"저는 무엇을 입을지, 무엇을 먹을지에 대한 결정을 내리지 않으려고 노력합니다. 저는 내려야 할 다른 결정들이 너무 많기 때문입니다.\" 👔\n\n미국의 제44대 대통령으로서 매일 세계 정세를 좌우하는 막중한 의사결정을 내려야 했던 버락 오바마. 그는 재임 기간 동안 매일 마주하는 무수한 선택 속에서 전두엽의 판단 에너지를 오롯이 국가적 중대사에 집중시키기 위해 매우 현명한 개인용 비결을 사용했습니다.\n\n그것은 바로 '사소한 선택의 완전한 제거'였습니다. 오바마 대통령은 늘 회색이나 청색 계열의 양복만 입었고 아침 식단 역시 단순하게 고정시켰습니다. 그는 인터뷰에서 자신의 이러한 옷차림이 패션 센스의 부족이 아니라, 중요한 국가 정책과 위기 극복을 위한 결정을 내릴 때 필요한 뇌의 의지력(Willpower)을 보존하려는 철저히 계산된 인지적 장치라고 설명했습니다.\n\n오늘 포스트에서는 오바마 대통령의 의사결정 단순화 루틴 속에 숨겨진 인지과학적 원리와 현대인들이 하루 의지력 배터리를 효율적으로 관리해 업무와 삶의 생산성을 극대화하는 3단계 실천 방안을 제안합니다."
     },
     "whyTitle": {
-      "ko": "의사결정 피로와 자아 고갈: 전두엽의 에너지 한계",
-      "en": "Decision Fatigue and Ego Depletion: The Energy Limit of the Frontal Lobe",
-      "ja": "決断疲れと自己消耗：前頭葉のエネルギー限界",
-      "zh": "决策疲劳与自我损耗：前额叶的能量极限",
-      "es": "Fatiga por Decisión y Agotamiento del Ego: El Límite de Energía del Lóbulo Frontal",
-      "fr": "Fatigue Décisionnelle et Épuisement de l'Égo : La Limite Énergétique du Lobe Frontal",
-      "de": "Entscheidungsermüdung und Ego-Erschöpfung: Die Energiegrenze des Stirnhirns",
-      "pt": "Fadiga de Decisão e Esgotamento do Ego: O Límite de Energia do Lobo Frontal",
-      "id": "Keletihan Keputusan dan Ego Depletion: Batas Energi Otak Prefrontal"
+      "ko": "의사결정 피로와 자아 고갈: 전두엽의 에너지 한계"
     },
     "whyDesc": {
-      "ko": "심리학과 뇌과학 분야의 실증 연구에 따르면, 의사결정 능력은 무한한 자원이 아닌 한정된 배터리와 같습니다. 아침에 일어나 어떤 양말을 신을지, 어떤 음식을 먹을지 고민하는 미세한 선택들도 전두엽의 인지적 자원(Willpower)을 소모합니다. 이 자원이 점차 바닥나는 현상을 '자아 고갈(Ego Depletion)' 또는 '결정 피로(Decision Fatigue)'라고 부릅니다.\n\n결정 피로가 극에 달하면 이성적인 인지 제어력이 상실되어 충동적인 선택을 하거나 중요한 결정을 포기하고 미루게 됩니다. 오바마 대통령이 아침의 기계적 활동을 미리 자동화한 것은, 가장 명료하고 깨끗한 뇌 상태에서 최상의 전략적 정책 결정을 내리기 위해 뉴런 에너지를 백퍼센트 보존하려는 인지 공학적 장치였습니다.",
-      "en": "According to empirical research in psychology and neuroscience, decision-making ability is not an infinite resource but functions like a limited battery. Even micro-choices like deciding which socks to wear or what to eat in the morning consume the cognitive resources (willpower) of the frontal lobe. This progressive draining of resources is called 'Ego Depletion' or 'Decision Fatigue.'\n\nWhen decision fatigue peaks, rational cognitive control is compromised, leading to impulsive choices or postponing critical decisions. President Obama's automation of mechanical morning routines was a cognitive engineering tactic designed to preserve neuron energy 100% so he could make the best strategic policy choices with the clearest brain state.",
-      "ja": "心理学や脳科学の分野の実証研究によると、意思決定能力は無限の資源ではなく、限られたバッテリーのようなものです。朝起きてどの靴下を履くか、何を食べるか悩む微細な選択も、前頭葉の認知的資源（意志力）を消費します。この資源が次第に減少していく現象を「自己消耗（Ego Depletion）」または「決断疲れ（Decision Fatigue）」と呼びます。\n\n決断疲れがピークに達すると、理性的な認知制御力が失われ、衝動的な選択をしたり、重要な決定を諦めて先延ばしにしたりするようになります。オバマ大統領が朝の機械的な活動をあらかじめ自動化したのは、最も明瞭でクリーンな脳の状態で最善の戦略的決断を下すために、ニューロンエネルギーを100%温存しようとした認知工学的アプローチでした。",
-      "zh": "根据心理学和脑科学领域的实证研究，决策能力并非取之不尽的资源，而是像容量有限的电池。早晨起床纠结穿哪双袜子、吃什么食物这些微小的选择，同样会消耗前额叶的认知资源（意志力）。这种资源逐渐枯竭的现象被称为“自我损耗”或“决策疲劳”。\n\n当决策疲劳达到顶峰时，理性的认知控制力就会受损，从而导致冲动的选择或推迟核心决策。奥巴马总统将早晨的机械化活动预先自动化的做法，是一种认知工程策略，旨在100%地保存神经元能量，以便在最清晰的大脑状态下做出最佳的战略决策。",
-      "es": "Según investigaciones empíricas en psicología y neurociencia, la capacidad de toma de decisiones no es un recurso infinito, sino que funciona como una batería limitada. Incluso las microelecciones, como decidir qué calcetines usar o qué comer por la mañana, consumen los recursos cognitivos (fuerza de voluntad) del lóbulo frontal. Este drenaje progresivo se denomina 'Agotamiento del Ego' o 'Fatiga por Toma de Decisiones'.\n\nCuando la fatiga alcanza su punto máximo, el control cognitivo racional se ve comprometido, lo que lleva a elecciones impulsivas o a posponer decisiones críticas. La automatización de las rutinas mecánicas matutinas del presidente Obama fue una táctica para preservar la energía de las neuronas al 100% y tomar las mejores decisiones estratégicas con el cerebro despejado.",
-      "fr": "Selon les recherches empiriques en psychologie et en neurosciences, la capacité à prendre des décisions n'est pas une ressource infinie, mais fonctionne comme une batterie limitée. Même les micro-choix, comme décider des chaussettes à porter ou du repas du matin, consomment des ressources cognitives (volonté) du lobe frontal. Ce drainage progressif est appelé « épuisement de l'égo » ou « fatigue décisionnelle ».\n\nLorsque cette fatigue culmine, le contrôle cognitif rationnel est altéré, ce qui conduit à des choix impulsifs ou au report de décisions critiques. L'automatisation des routines matutinales mécaniques par le président Obama era une tactique d'ingénierie cognitive conçue pour préserver intacte l'énergie des neurones afin de prendre les meilleures décisions stratégiques dans un état de fraîcheur mentale optimal.",
-      "de": "Als 44. Präsident der Vereinigten Staaten musste Barack Obama jeden Tag schwerwiegende Entscheidungen treffen. Um seine Entscheidungsenergie inmitten unzähliger alltäglicher Entscheidungen ganz auf die wichtigen Staatsgeschäfte zu konzentrieren, nutzte er ein sehr kluges persönliches Geheimnis. 👔\n\nEs war die „vollständige Eliminierung kleiner Entscheidungen“. Präsident Obama trug immer nur graue oder blaue Anzüge und vereinfachte sein Frühstück. In einem Interview bemerkte er: 'Sie werden sehen, dass ich nur graue oder blaue Anzüge trage. Ich versuche, Entscheidungen zu reduzieren. Ich will keine Entscheidungen darüber treffen, was ich esse oder trage. Weil ich zu viele andere Entscheidungen zu treffen habe.'\n\nHeute stellt BuildSelf die kognitionswissenschaftlichen Prinzipien hinter Präsident Obamas Routine zur Entscheidungsvereinfachung vor und schlägt einen praktischen 3-Schritte-Aktionsplan vor, mit dem moderne Menschen ihre tägliche Willenskraft effizient verwalten können.",
-      "pt": "Segundo investigações empíricas em psicologia e neurociência, a capacidade de tomada de decisões não é um recurso infinito, mas funciona como uma bateria limitada. Mesmo as microescolhas, como decidir que meias usar ou o que comer de manhã, consomem os recursos cognitivos (força de vontade) do lobo frontal. Este esgotamento progressivo de recursos é chamado 'Esgotamento do Ego' ou 'Fadiga de Decisão'.\n\nQuando la fadiga atinge o pico, o controlo cognitivo racional é comprometido, levando a escolhas impulsivas ou ao adiamento de decisões críticas. A automatização das rotinas matinais mecânicas do presidente Obama foi uma tática para preservar a energia dos neurónios a 100% e tomar as melhores decisões estratégicas com o cérebro limpo.",
-      "id": "Menurut penelitian empiris dalam psikologi dan neurosains, kemampuan mengambil keputusan bukanlah sumber daya tak terbatas melainkan berfungsi seperti baterai terbatas. Bahkan pilihan mikro seperti menentukan kaus kaki atau menu sarapan di pagi hari mengonsumsi sumber daya kognitif (kemauan) lobus frontal. Pengurasan bertahap ini disebut 'Ego Depletion' atau 'Keletihan Keputusan'."
+      "ko": "심리학과 뇌과학 분야의 실증 연구에 따르면, 의사결정 능력은 무한한 자원이 아닌 한정된 배터리와 같습니다. 아침에 일어나 어떤 양말을 신을지, 어떤 음식을 먹을지 고민하는 미세한 선택들도 전두엽의 인지적 자원(Willpower)을 소모합니다. 이 자원이 점차 바닥나는 현상을 '자아 고갈(Ego Depletion)' 또는 '결정 피로(Decision Fatigue)'라고 부릅니다.\n\n결정 피로가 극에 달하면 이성적인 인지 제어력이 상실되어 충동적인 선택을 하거나 중요한 결정을 포기하고 미루게 됩니다. 오바마 대통령이 아침의 기계적 활동을 미리 자동화한 것은, 가장 명료하고 깨끗한 뇌 상태에서 최상의 전략적 정책 결정을 내리기 위해 뉴런 에너지를 백퍼센트 보존하려는 인지 공학적 장치였습니다."
     },
     "cautionTitle": {
-      "ko": "효율적인 판단 관리를 위한 脳科学的 한마디",
-      "en": "A Brain-Scientific Word for Efficient Judgment Management",
-      "ja": "効率的な判断管理のための脳科学的なヒント",
-      "zh": "高效决策管理的脑科学寄语",
-      "es": "Un Mensaje de la Neurociencia para un Juicio Eficiente",
-      "fr": "Un Mot des Neurosciences pour une Gestion Efficace des Choix",
-      "de": "Ein neurowissenschaftlicher Rat für effizientes Entscheidungsmanagement",
-      "pt": "Um Conselho da Neurociência para uma Gestão Eficiente de Escolhas",
-      "id": "Nasihat Neurosains untuk Manajemen Keputusan yang Efisien"
+      "ko": "효율적인 판단 관리를 위한 뇌과학적 한마디"
     },
     "cautionDesc": {
-      "ko": "더 적은 사소한 선택은 더 깊은 집중을 의미합니다. 일상에서 무엇을 고를지 고민하는 과정을 간소화해 보세요. 뇌의 낭비되는 인지 누수를 막아 당신이 정말 성공시키고 싶은 중요한 분야에 폭발적인 추진력을 더해줄 것입니다.",
-      "en": "Fewer minor choices mean deeper focus. Start simplifying the process of agonizing over what to choose in your daily life. Preventing cognitive leaks in the brain will provide explosive momentum to the critical areas you truly want to make successful.",
-      "ja": "より少ない些細な選択は、より深い集中を意味します。日常生活で何を選ぶか悩むプロセスをシンプルにしてみてください。脳の無駄な認知漏れを防ぐことで、あなたが本当に成功させたい重要な分野に爆発的な推進力を与えてくれるでしょう。",
-      "zh": "更少的琐碎选择意味着更深度的专注。试着简化日常生活中为选择而纠结的过程。防止大脑认知能量的泄漏，将为您真正想要取得成功的核心领域提供爆发性的推动力。",
-      "es": "Menos elecciones secundarias significan una concentración más profunda. Empiece a simplificar el proceso de dudar sobre qué elegir en su vida diaria. Evitar fugas cognitivas en el cerebro le dará un impulso explosivo a las áreas críticas en las que realmente desea tener éxito.",
-      "fr": "Moins de choix futiles signifie une concentration plus profonde. Simplifiez le processus de décision de vos activités quotidiennes triviales. Éviter les fuites cognitives donnera un élan décisif aux projets importants que vous voulez réussir.",
-      "de": "Weniger triviale Entscheidungen bedeuten tieferen Fokus. Beginnen Sie, den process des Grübelns über alltägliche Entscheidungen zu vereinfachen. Das Verhindern kognitiver Lecks im Gehirn gibt den Bereichen, die Sie wirklich erfolgreich machen wollen, enormen Aufwind.",
-      "pt": "Menos escolhas secundárias significam foco mais profundo. Comece a simplificar o processo de hesitação sobre o que escolher no seu dia a dia. Evitar fugas cognitivas no cérebro dará um impulso explosivo às áreas cruciais nas quais você realmente deseja ter sucesso.",
-      "id": "Lebih sedikit pilihan sepele berarti fokus yang lebih mendalam. Mulailah menyederhanakan proses meragukan apa yang akan dipilih dalam hidup Anda. Mencegah kebocoran kognitif di otak akan memberikan momentum luar biasa pada bidang-bidang penting yang ingin Anda sukseskan."
+      "ko": "더 적은 사소한 선택은 더 깊은 집중을 의미합니다. 일상에서 무엇을 고를지 고민하는 과정을 간소화해 보세요. 뇌의 낭비되는 인지 누수를 막아 당신이 정말 성공시키고 싶은 중요한 분야에 폭발적인 추진력을 더해줄 것입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "나만의 '기본 템플릿(Uniform)' 공식 구축",
-          "en": "Building Your Own 'Basic Template (Uniform)'",
-          "ja": "自分だけの「基本テンプレート（Uniform）」公式の構築",
-          "zh": "打造专属的“基础模板（Uniform）”公式",
-          "es": "Crear su Propia 'Plantilla Básica (Uniforme)'",
-          "fr": "Définir sa Propre 'Tenue Standard (Uniforme)'",
-          "de": "Aufbau einer eigenen 'Basis-Uniform (Template)'",
-          "pt": "Definir seu 'Uniforme Padrão' (Template)",
-          "id": "Buat 'Template Dasar (Seragam)' Milik Anda"
+          "ko": "나만의 '기본 템플릿(Uniform)' 공식 구축"
         },
         "text": {
-          "ko": "스티브 잡스처럼 완벽히 똑같은 유니폼을 매일 입을 필요는 없지만, 일상에서 입었을 때 가장 무난하고 편안한 나만의 코디 조합을 2~3가지 템플릿으로 공식화해 둡니다. 아침에 거울 앞에서 고민하는 시간을 원천 봉쇄할 수 있습니다.",
-          "en": "You don't need to wear the exact same uniform like Steve Jobs every day, but formalize 2 or 3 of your own clothing templates that are comfortable and appropriate. This completely blocks the time wasted contemplating in front of the mirror in the morning.",
-          "ja": "スティーブ・ジョブズのように完璧に同じユニフォームを毎日着る必要はありませんが、日常で着たときに最も無難で快適な自分だけのコーディネートの組み合わせを2〜3個のテンプレートとして公式化しておきます。朝、鏡の前で悩む時間を根本的に遮断できます。",
-          "zh": "你不需要像史蒂夫·乔布斯那样每天穿完全相同的衣服，但可以把2到3套最得体、最舒适的穿搭组合公式化为你的专属模板。这能从源头上杜绝早晨在镜子前纠结的时间。",
-          "es": "No necesita usar exactamente el mismo uniforme como Steve Jobs todos los días, pero formalice 2 or 3 plantillas de ropa con las que se sientas cómodo y apropiado. Esto bloquea por completo el tiempo perdido contemplando frente al espejo por la mañana.",
-          "fr": "Il n'est pas nécessaire de porter exactement la même tenue tous les jours comme Steve Jobs. Formalisez plutôt 2 ou 3 associations de vêtements confortables et adaptées. Cela élimine d'emblée le temps perdu à hésiter devant le miroir le matin.",
-          "de": "Sie müssen nicht wie Steve Jobs jeden Tag die exakt gleiche Kleidung tragen. Formalisieren Sie stattdessen 2 oder 3 eigene Kleidungs-Templates, die bequem und angemessen sind. Das verhindert das morgendliche Grübeln vor dem Spiegel.",
-          "pt": "Você não precisa de usar exatamente o mesmo uniforme como Steve Jobs todos os dias, mas formalize 2 ou 3 modelos de roupas que sejam confortáveis e adequados. Isto bloqueia por completo o tempo perdido a hesitar em frente ao espelho de manhã.",
-          "id": "Anda tidak harus memakai seragam yang sama persis setiap hari seperti Steve Jobs, tapi rumuskan 2 atau 3 kombinasi pakaian ternyaman sebagai template Anda. Ini memotong waktu yang terbuang untuk bingung di depan cermin di pagi hari."
+          "ko": "스티브 잡스처럼 완벽히 똑같은 유니폼을 매일 입을 필요는 없지만, 일상에서 입었을 때 가장 무난하고 편안한 나만의 코디 조합을 2~3가지 템플릿으로 공식화해 둡니다. 아침에 거울 앞에서 고민하는 시간을 원천 봉쇄할 수 있습니다."
         }
       },
       {
         "name": {
-          "ko": "전날 밤 옷차림 및 소지품의 선제적 세팅",
-          "en": "Pre-Setting Clothing and Belongings the Night Before",
-          "ja": "前夜の衣服と持ち物の事前準備",
-          "zh": "前一天晚上提前准备好衣物和随身物品",
-          "es": "Preparar la Ropa y los Objetos Personales la Noche Anterior",
-          "fr": "Préparer ses Affaires la Veille au Soir",
-          "de": "Bereitlegen von Kleidung und Gegenständen am Vorabend",
-          "pt": "Preparar a Roupa e os Objetos na Noite Anterior",
-          "id": "Siapkan Pakaian dan Barang Bawaan Sejak Malam Hari"
+          "ko": "전날 밤 옷차림 및 소지품의 선제적 세팅"
         },
         "text": {
-          "ko": "매일 저녁 잠들기 전이나 주말 저녁에 다음 날 입을 옷, 챙겨야 할 가방, 소지품(지갑, 차 키 등)을 지정된 장소에 미리 꺼내 둡니다. 아침에 뇌가 완전히 깨어나지 않은 상태에서 물건을 찾거나 고민하는 무의미한 탐색 행동을 차단합니다.",
-          "en": "Every evening before going to bed or on weekends, place the next day's clothes, bag, and belongings (wallet, keys, etc.) in a designated spot. This blocks meaningless searching behaviors when the brain is not fully awake in the morning.",
-          "ja": "毎晩眠る前や週末の夜に、翌日着る服、用意すべきバッグ、持ち物（財布、車のキーなど）を指定された場所に用意しておきます。朝、脳が完全に覚醒していない状態で物を見つけたり悩んだりする無意味な探索行動を遮断できます。",
-          "zh": "前一天晚上提前准备好衣物和随身物品，可以完全避免早晨醒来后在未完全清醒的状态下寻找物品或纠结穿什么的无意义探索行为。",
-          "es": "Cada noche antes de acostarse o los fines de semana, coloque la ropa del día siguiente, el bolso y los objetos personales (cartera, llaves, etc.) en un lugar designado. Esto bloquea comportamientos de búsqueda sin sentido cuando el cerebro no está completamente despierto por la mañana.",
-          "fr": "Chaque soir avant de vous coucher ou le week-end, préparez vos vêtements, votre sac et vos effets personnels (portefeuille, clés, etc.) à un endroit précis. Cela évite les recherches fastidieuses le matin alors que le cerveau n'est pas encore tout à fait réveillé.",
-          "de": "Legen Sie jeden Abend vor dem Schlafengehen oder am Wochenende die Kleidung für den nächsten Tag, die Tasche und die Wertsachen (Geldbörse, Schlüssel usw.) an einem festen Ort bereit. Dies verhindert die morgendliche Suche, wenn das Gehirn noch nicht ganz wach ist.",
-          "pt": "Todas as noites antes de ir para a cama ou nos fins de semana, coloque as roupas do dia seguinte, a mala e os objetos pessoais (carteira, chaves, etc.) num local designado. Isto bloqueia comportamentos de procura sem sentido quando o cérebro ainda não está totalmente acordado de manhã.",
-          "id": "Setiap malam sebelum tidur atau di akhir pekan, siapkan pakaian, tas, dan barang bawaan (dompet, kunci, dll.) untuk keesokan harinya di tempat khusus. Ini mencegah tindakan mencari-cari yang tidak penting saat otak belum sepenuhnya bangun di pagi hari."
+          "ko": "매일 저녁 잠들기 전이나 주말 저녁에 다음 날 입을 옷, 챙겨야 할 가방, 소지품(지갑, 차 키 등)을 지정된 장소에 미리 꺼내 둡니다. 아침에 뇌가 완전히 깨어나지 않은 상태에서 물건을 찾거나 고민하는 무의미한 탐색 행동을 차단합니다."
         }
       },
       {
         "name": {
-          "ko": "가장 맑은 두뇌 상태에서 중요 의사결정 처리하기",
-          "en": "Processing Important Decisions with the Clearest Brain",
-          "ja": "最もクリアな頭脳状態で重要意思決定を処理する",
-          "zh": "在头脑最清醒的状态下处理重要决策",
-          "es": "Tomar Decisiones Importantes con el Cerebro Despejado",
-          "fr": "Prendre les Décisions Importantes avec un Esprit Frais",
-          "de": "Wichtige Entscheidungen mit frischem Geist treffen",
-          "pt": "Tomar as Decisões Importantes com a Mente Descansada",
-          "id": "Ambil Keputusan Penting dengan Pikiran Paling Segar"
+          "ko": "가장 맑은 두뇌 상태에서 중요 의사결정 처리하기"
         },
         "text": {
-          "ko": "단순화된 아침 준비 과정 덕분에 보존된 아침 시간대의 인지 에너지를 확인합니다. 출근 후 가벼운 이메일 확인이나 사소한 회의로 이 에너지를 흘려보내지 말고, 오늘 처리해야 할 업무 중 가장 핵심적이고 어려운 의사결정을 첫 업무로 처리합니다.",
-          "en": "Check the cognitive energy preserved during the morning hours thanks to the simplified preparation process. Don't waste this energy on checking emails or trivial meetings upon arriving at work; process the most critical and challenging decision as your first task.",
-          "ja": "シンプルになった朝の準備過程のおかげで温存された、午前中の認知エネルギーを確認します。出勤後の軽いメール確認や些細な会議でこのエネルギーを浪費せず、今日処理すべき業務の中で最も核心的で難しい意思決定を最初の仕事として処理します。",
-          "zh": "由于简化了早晨的准备过程，请注意保留上午的认知能量。不要在上班后通过查看不重要的邮件或琐碎的会议来浪费这些能量；应将最关键、最具挑战性的决策作为第一项任务来处理。",
-          "es": "Compruebe la energía cognitiva preservada durante las horas de la mañana gracias al proceso de preparación simplificado. No desperdicie esta energía revisando correos electrónicos o en reuniones triviales al llegar al trabajo; procese la decisión más crítica y desafiante como su primera tarea.",
-          "fr": "Constatez l'énergie cognitive préservée durant la matinée grâce à ce processus de préparation simplifié. Ne gaspillez pas cette énergie en vérifiant vos e-mails ou en assistant à des réunions futiles dès votre arrivée : traitez la décision la plus critique et la plus complexe en premier lieu.",
-          "de": "Nutzen Sie die kognitive Energie, die Sie durch den vereinfachten morgendlichen Ablauf gespart haben. Vergeuden Sie diese Energie nach der Ankunft am Arbeitsplatz nicht mit E-Mails oder trivialen Besprechungen, sondern treffen Sie die wichtigste Entscheidung als erste Aufgabe.",
-          "pt": "Verifique a energia cognitiva preservada durante a manhã graças ao processo de preparação simplificado. Não desperdice esta energia a verificar e-mails ou em reuniões triviais ao chegar ao trabalho; processe a decisão mais crítica e desafiante como a sua primeira tarefa.",
-          "id": "Gunakan energi kognitif yang berhasil dihemat selama jam pagi berkat persiapan yang mudah. Jangan buang energi ini untuk memeriksa email atau rapat tidak penting saat tiba di tempat kerja; lakukan keputusan paling kritis dan menantang sebagai tugas pertama Anda."
+          "ko": "단순화된 아침 준비 과정 덕분에 보존된 아침 시간대의 인지 에너지를 확인합니다. 출근 후 가벼운 이메일 확인이나 사소한 회의로 이 에너지를 흘려보내지 말고, 오늘 처리해야 할 업무 중 가장 핵심적이고 어려운 의사결정을 첫 업무로 처리합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "버락 오바마는 왜 회색과 청색 양복만 입었나요?",
-          "en": "Why did Barack Obama wear only grey and blue suits?",
-          "ja": "バラク・オバマはなぜグレーとブルーのスーツだけを着たのですか？",
-          "zh": "贝拉克·奥巴马为什么只穿灰色和蓝色的西装？",
-          "es": "¿Por qué Barack Obama usaba solo trajes grises y azules?",
-          "fr": "Pourquoi Barack Obama ne portait-il que des costumes grises et bleues ?",
-          "de": "Warum trug Barack Obama nur graue und blaue Anzüge?",
-          "pt": "Porque é que Barack Obama usava apenas fatos cinzentos e azuis?",
-          "id": "Mengapa Barack Obama hanya memakai setelan jas abu-abu dan biru?"
+          "ko": "버락 오바마는 왜 회색과 청색 양복만 입었나요?"
         },
         "answer": {
-          "ko": "매일 마주하는 무수한 국가적 중대 결정에 필요한 전두엽 에너지를 보존하기 위해, 매일 아침 옷이나 메뉴를 고르는 사소한 의사결정을 완전히 차단하여 결정 피로를 방지하기 위함이었습니다.",
-          "en": "To preserve prefrontal brain energy needed for the countless critical national decisions he faced daily, he completely eliminated minor choices like what to wear or eat to prevent decision fatigue.",
-          "ja": "毎日直面する無数の国家的な重大決断に必要な前頭葉のエネルギーを温存するため、毎朝服やメニューを選ぶ些細な意思決定を完全に遮断し、決断疲れを防ぐためでした。",
-          "zh": "为了保存每天面对无数国家重大决策所需的前额叶脑力，他彻底消除了每天早晨选择衣服或食物等琐碎决策，以此防止决策疲劳。",
-          "es": "Para preservar la energía cognitiva necesaria para las innumerables decisiones nacionales críticas a las que se enfrentaba a diario, eliminando elecciones menores de vestimenta o comida para evitar la fatiga por decisión.",
-          "fr": "Pour préserver l'énergie frontale nécessaire aux innombrables décisions nationales cruciales auxquelles il faisait face, en éliminant les choix de vêtements ou de repas afin de prévenir la fatigue décisionnelle.",
-          "de": "Um die kognitive Energie zu schonen, die er für die unzähligen wichtigen nationalen Entscheidungen benötigte, eliminierte er kleine Entscheidungen über Kleidung oder Essen, um Entscheidungsermüdung zu vermeiden.",
-          "pt": "Para preservar a energia cognitiva necessária para as inúmeras decisões nacionais críticas que enfrentava diariamente, eliminando pequenas escolhas de vestuário ou refeição para evitar a fadiga de decisão.",
-          "id": "Untuk menjaga energi otak prefrontal yang dibutuhkan demi keputusan negara penting yang tak terhitung jumlahnya, ia memotong pilihan sepele seperti berpakaian atau makan guna menghindari keletihan keputusan."
+          "ko": "매일 마주하는 무수한 국가적 중대 결정에 필요한 전두엽 에너지를 보존하기 위해, 매일 아침 옷이나 메뉴를 고르는 사소한 의사결정을 완전히 차단하여 결정 피로를 방지하기 위함이었습니다."
         }
       }
-    ],
-    "pubDate": "2026-01-06",
-    "updatedDate": "2026-01-06"
+    ]
   }
 }

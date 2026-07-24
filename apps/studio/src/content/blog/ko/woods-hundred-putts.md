@@ -1,17 +1,25 @@
 ---
-formatVersion: 4
 title: "100번 연속 성공할 때까지: 타이거 우즈의 4m 퍼팅 몰입법"
 description: "골프 황제 타이거 우즈가 훈련 전 수행한 '100회 연속 퍼팅 성공' 루틴. 타협 없는 성취 경험이 어떻게 뇌에 도파민을 공급하고 극단적인 몰입을 이끄는지 알아봅니다."
-pubDate: "2026-04-01"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["위인 습관", "타이거 우즈", "몰입", "집중", "성공습관"]
-heroImage: "/images/blog/woods_hundred_putts.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/woods_hundred_putts.png"
 app: "buildself"
-authority: "타이거 우즈 공식 훈련 지도서 및 행동의사결정학회지(JDM) 한계치 목표 성취 연구"
-updatedDate: "2026-04-01"
+formatVersion: 4
+authority: "Woods Hundred Putts 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+steps:
+  - name: "현대식 단순 멘탈 몰입 과제 지정"
+    text: "업무 돌입 전, 10분간 한글 타자 연습 오타 없이 끝마치기, 2분간 눈을 깜빡이지 않고 고정 촛점 응시하기 등 정밀 과제를 정합니다."
+  - name: "엄격한 실패 페널티와 반복 훈련"
+    text: "과제 수행 도중 실수나 오차가 발생하면, 어떠한 타협도 없이 진행 상태를 전면 무효화하고 즉시 1단계부터 재시작합니다."
+  - name: "도파민 충전 직후 메인 핵심 업무 개시"
+    text: "완벽하게 목표 도전에 성공해 쾌락 물질과 고도의 인지 긴장감이 세팅된 두뇌 상태를 이어받아, 즉시 기획안 작성 등 핵심 업무를 처리합니다."
 faqs:
   - question: "오히려 스트레스가 더 커져서 집중에 방해되면 어쩌죠?"
-    answer: "그것은 초기 도전 목표가 자신의 현재 역량보다 지나치게 어려워 뇌가 절망 호르몬을 내보내기 때문이므로, 과제의 강도를 낮추어 성공 확률을 -% 수준으로 조율해야 합니다."
+    answer: "그것은 초기 도전 목표가 자신의 현재 역량보다 지나치게 어려워 뇌가 절망 호르몬을 내보내기 때문이므로, 과제의 강도를 낮추어 성공 확률을 70~80% 수준으로 조율해야 합니다."
+
 ---
 
 "나는 마지막 100번째 퍼팅이 들어갈 때까지 연습 그린을 떠나지 않는다." ⛳
@@ -26,27 +34,25 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 타이거 우즈의 공식 훈련 매뉴얼 및 한계 지점까지의 정교한 목표 성취 행동이 두뇌의 보상계와 실행 제어 망에 미치는 영향력을 분석한 행동의사결정학회지(JDM)의 행동 인지 실증 연구를 기반으로 작성되었습니다.
+      본 콘텐츠는 <strong>Woods Hundred Putts 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 woods-hundred-putts 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 타협 없는 성취 경험이 가져다주는 극단적 몰입
+## 타협 없는 성취 경험이 가져다주는 극단적 몰입
 
 뇌가 고도의 집중력을 요구하는 작업을 수행할 때, 가장 중요한 촉매제는 보상 예측 물질인 <strong>도파민(Dopamine)</strong>입니다. 중간에 실패 시 원점으로 돌아간다는 엄격한 규칙 아래 과제를 성공적으로 마치는 경험은 뇌의 쾌락 및 행동 제어 중추를 강렬하게 활성화합니다. 이 과정을 통해 뇌는 일시적으로 잡념을 전면 차단하고 타깃 작업에만 전력을 다하는 최적의 몰입 상태를 강제로 활성화하게 됩니다.
 
-더불어 가차 없는 리셋 규정(페널티)은 뇌에 적절한 스트레스 긴장감을 부여하여 전두엽의 노이즈 여과망을 타이트하게 조여줍니다. 이 덕분에 사소한 소음이나 딴생각 등의 잡음 요소들이 들어설 자리를 철저히 배제해 줍니다.
-
 ---
 
-## 2. 현대인을 위한 3단계 실천 루틴
+## 주의사항 및 팁
 
-지적 에너지를 한계까지 집중하고 생산성을 급상승시키는 현대식 우즈 몰입 루틴을 제안합니다.
+도파민 보상을 효과적으로 사용하려면 과제가 너무 쉽거나 지루해서는 안 되며, 반대로 성공 가능성이 지나치게 희박해서도 안 됩니다. 개인의 인지 능력에 비추어 긴장을 늦출 수 없는 <strong>적정 난이도의 도전 과제</strong>를 정하는 것이 핵심이며, 초기에 잦은 실패로 되려 짜증이 유발된다면 난이도를 조율하는 현명함이 필요합니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,34 +84,18 @@ faqs:
   </p>
 </div>
 
----
-
-## 3. 성공적인 루틴 정착을 위한 실천 가이드
-
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">스스로의 수준에 맞춰 조율하세요</strong>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      도파민 보상을 효과적으로 사용하려면 과제가 너무 쉽거나 지루해서는 안 되며, 반대로 성공 가능성이 지나치게 희박해서도 안 됩니다. 개인의 인지 능력에 비추어 긴장을 늦출 수 없는 <strong>적정 난이도의 도전 과제</strong>를 정하는 것이 핵심이며, 초기에 잦은 실패로 되려 짜증이 유발된다면 난이도를 조율하는 현명함이 필요합니다.
-    </p>
-  </div>
-</div>
-
----
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📍</span> 자주 묻는 질문 (FAQ)
+    <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>오히려 스트레스가 더 커져서 집중에 방해되면 어쩌죠?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      그것은 초기 도전 목표가 자신의 현재 역량보다 지나치게 어려워 뇌가 절망 호르몬을 내보내기 때문이므로, 과제의 강도를 낮추어 성공 확률을 -% 수준으로 조율해야 합니다.
+      그것은 초기 도전 목표가 자신의 현재 역량보다 지나치게 어려워 뇌가 절망 호르몬을 내보내기 때문이므로, 과제의 강도를 낮추어 성공 확률을 70~80% 수준으로 조율해야 합니다.
     </p>
   </details>
 </div>

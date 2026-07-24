@@ -1,194 +1,64 @@
 {
   "victoria-daily-journaling": {
     "title": {
-      "ko": "제국의 무게와 성찰: 빅토리아 여왕의 매일 저녁 일기 쓰기 습관",
-      "en": "Weight of Empire and Reflection: Queen Victoria's Nightly Journaling Habit",
-      "ja": "帝国の重みと省察：ヴィクトリア女王の毎晩の日記執筆習慣",
-      "zh": "帝国的重载与自我反思：维多利亚女王的每晚日记撰写习惯",
-      "es": "El peso del imperio y la reflexión: El hábito diario de escribir un diario de la reina Victoria",
-      "fr": "Le poids de l'empire et la réflexion : L'habitude de journal intime de la reine Victoria",
-      "de": "Das Gewicht des Empires und die Reflexion: Königin Victorias tägliche Tagebuch-Routine",
-      "pt": "O peso do império e a reflexão: O hábito diário de escrever um diário da rainha Vitória",
-      "id": "Beban Kekaisaran dan Refleksi: Kebiasaan Menulis Buku Harian Ratu Victoria"
+      "ko": "제국의 무게와 성찰: 빅토리아 여왕의 매일 저녁 일기 쓰기 습관"
     },
     "description": {
-      "ko": "대영제국 전성기를 통치한 빅토리아 여왕이 평생 122권의 일기를 쓴 성찰 습관. 손으로 쓰는 표현적 글쓰기가 부교감 신경을 활성화하고 전두엽을 정돈하는 과학적 기전을 살펴봅니다.",
-      "en": "Queen Victoria, who ruled the golden age of the British Empire, wrote 122 volumes of journals throughout her life. Explore how expressive handwriting activates parasympathetic nerves and organizes the prefrontal cortex.",
-      "ja": "大英帝国の全盛期を統治したヴィクトリア女王が、生涯で122冊の日記を書いた省察習慣。手書きの表現的執筆が副交感神経を活性化し、前頭葉を整える科学的メカニズムを探ります。",
-      "zh": "统治大英帝国全盛期的维多利亚女王一生写下122册日记的反思习惯。探讨手写表达性写作如何激活副交感神经、并梳理前额叶的大脑科学机制。",
-      "es": "La reina Victoria escribió 122 volúmenes de diarios íntimos. Analizamos cómo escribir a mano (Expressive Writing) estimula las vías neuronales que reducen la ansiedad y el cortisol.",
-      "fr": "La reine Victoria a rédigé 122 volumes de journaux intimes. Découvrez comment l'écriture manuscrite (Expressive Writing) stimule les voies neuronales et réduit le cortisol.",
-      "de": "Königin Victoria verfasste im Laufe ihres Lebens 122 Tagebücher. Erfahren Sie, wie handschriftliches Schreiben (Expressive Writing) Angst abbaut und den Geist strukturiert.",
-      "pt": "A rainha Vitória escreveu 122 volumes de diários íntimos. Analisamos como escrever à mão (Expressive Writing) estimula as vias neuronais que reduzem a ansiedade.",
-      "id": "Ratu Victoria menulis 122 volume buku harian sepanjang hidupnya. Ulas bagaimana menulis dengan tangan menurunkan stres dan menenangkan pikiran."
+      "ko": "대영제국 전성기를 통치한 빅토리아 여왕이 평생 122권의 일기를 쓴 성찰 습관. 손으로 쓰는 표현적 글쓰기가 부교감 신경을 활성화하고 전두엽을 정돈하는 과학적 기전을 살펴봅니다."
     },
     "authority": {
-      "ko": "빅토리아 여왕의 친필 일기 원고 보존 자료(Royal Archives) 역사 고증 및 텍사스 대학교 제임스 페니베이커 교수의 표현적 글쓰기(Expressive Writing) 인지과학 연구",
-      "en": "Queen Victoria's handwritten journals (Royal Archives) and Professor James Pennebaker's Cognitive Research on Expressive Writing at the University of Texas",
-      "ja": "ヴィクトリア女王の親筆日記原稿保存資料（Royal Archives）歴史的考証およびテキサス大学ジェームズ・ペネベーカー教授の表現的執筆（Expressive Writing）認知科学研究",
-      "zh": "维多利亚女王亲笔日记手稿保存资料(Royal Archives)历史考证及德克萨斯大学詹姆斯·佩内贝克教授的表达性写作(Expressive Writing)认知科学研究",
-      "es": "Autenticación de los diarios manuscritos de la reina Victoria en los Royal Archives e investigaciones de James Pennebaker sobre la escritura expresiva",
-      "fr": "Récit des journaux manuscrits de la reine Victoria aux Royal Archives et travaux de James Pennebaker sur l'écriture expressive",
-      "de": "Historische Belege aus Königin Victorias Originaltagebüchern in den Royal Archives und James Pennebakers Forschung zum heilsamen Schreiben",
-      "pt": "Autenticação dos diários manuscritos da rainha Vitória nos Royal Archives e pesquisas de James Pennebaker sobre a escrita expressiva",
-      "id": "Dokumen Buku Harian Ratu Victoria (Royal Archives) dan Penelitian Profesor James Pennebaker tentang Menulis Ekspresif"
+      "ko": "Victoria Daily Journaling 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "19세기 대영제국의 최전성기, 해가 지지 않는 나라를 통치했던 절대 군주 빅토리아 여왕. 그녀가 짊어져야 했던 왕관의 무게는 상상을 초월하는 외교적 분쟁, 국가 통치 스트레스, 개인적인 비극(부군 앨버트 공의 이른 죽음)으로 가득 차 있었습니다. 지독한 고독과 정서적 혼란에 시달렸던 여왕이 평생 동안 하루도 거르지 않고 행했던 내면의 구원 의식은 다름 아닌 '손글씨 일기 쓰기'였습니다. 9세 때 시작하여 81세로 세상을 떠나기 직전까지 기록된 그녀의 일기는 총 122권에 달하며, 그 두껍고 묵직한 가죽 바인더는 여왕에게 있어 세상 모든 억압과 고난을 털어놓을 수 있는 유일한 공간이었습니다. 손으로 일기를 쓰는 脳科学的 원리와 그 치유적 효과를 입증합니다.",
-      "en": "Queen Victoria ruled the golden age of the British Empire. The weight of the crown she carried was heavy with geopolitical conflicts, governing stress, and personal tragedy including the early death of Prince Albert. Suffering from loneliness, her daily ritual of internal salvation was handwritten journaling. Starting at age 9 and continuing until her death at 81, her diaries reached 122 volumes. We examine the neuroscience of handwriting.",
-      "ja": "19世紀大英帝国の最全盛期、「日の沈まない国」を統治した絶対君主ヴィクトリア女王。彼女が背負わなければならなかった王冠の重みは、想像を絶する外交的紛争、国家統治のストレス、個人的な悲劇（夫アルバート公の早い死）に満ちていました。孤独と精神的な混乱に悩まされた女王が、生涯にわたり一日も欠かさず行った内面の自己治癒の儀式は、「手書きの日記」でした。9歳の時から始まり81歳で世を去る直前まで記録された彼女の日記は計122冊に達します。手書きで日記を書く脳科学的な原理とその治癒効果を実証します。",
-      "zh": "在这一历史性惯例的实践中：19 , . , , ( ) . ' '. 9 81 122 , . 脳科学的 .",
-      "es": "La reina Victoria rigió el Imperio británico. Para sobrellevar la inmensa carga del trono y la pérdida de su esposo Albert, realizaba un ritual de sanación: escribir a mano un diario personal. Redactó 122 tomos. Analicemos cómo la escritura analógica estimula las áreas motoras y el córtex prefrontal, regulando la actividad de la amígdala para desactivar las respuestas del estrés.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora: 19 , . , , ( ) . ' '. 9 81 122 , . . Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "\"나는 매일 밤 일기장을 펼치고, 하루 동안 겪은 나의 격정적인 마음에 고요를 베푼다.\" ✍️\n\n63년간 대제국을 다스리며 영국의 최전성기를 상징하는 이름이 된 빅토리아 여왕. 겉으로 비치는 화려함과 무소불위의 권력 이면에서, 그녀의 내면은 남편의 이른 사망, 끊임없는 정치적 암투, 대외 전쟁의 중압감으로 인한 극심한 우울과 감정 과부하에 짓눌려 있었습니다. 이 거대한 심리적 소용돌이 속에서 여왕이 균형을 잡을 수 있게 도와준 매일 밤의 의식이 있었습니다. 빅토리아는 13세 소녀 시절부터 세상을 떠나기 불과 며칠 전까지 68년 동안 한 번도 거르지 않고 일기를 썼습니다. 평생 남긴 141권의 일기장은 단순한 비망록이 아니라, 불안한 감정을 텍스트로 객관화하여 뇌를 리셋하고 냉철한 군주로서의 통제력을 되찾기 위한 고도의 메타인지 훈련장이었습니다."
     },
     "whyTitle": {
-      "ko": "표현적 글쓰기의 감정 레이블링과 전두엽 활성화",
-      "en": "Emotional Labeling of Expressive Writing and Prefrontal Activation",
-      "ja": "表現的執筆の感情レーベリングと前頭葉の活性化",
-      "zh": "表达性写作引发的情感贴签与前额叶激活",
-      "es": "Etiquetado emocional a través de la escritura expresiva y activación del lóbulo frontal",
-      "fr": "Étiquetage émotionnel par l'écriture expressive et activation du lobe frontal",
-      "de": "Emotionale Etikettierung beim heilsamen Schreiben und präfrontale Aktivierung",
-      "pt": "Rotulagem emocional através da escrita expressiva e ativação do lóbulo frontal",
-      "id": "Pelabelan Emosional dalam Menulis Ekspresif dan Aktivasi Lobus Frontal"
+      "ko": "표현적 글쓰기의 감정 레이블링과 전두엽 활성화"
     },
     "whyDesc": {
-      "ko": "불안이나 우울 같은 원인 모를 부정적 감정이 뇌 속에 가득할 때, 뇌의 변연계(Limbic System)는 비상 상황으로 인지하여 인지 통제력을 약화시킵니다. 손글씨를 이용한 일기 쓰기는 인지과학에서 말하는 '표현적 글쓰기(Expressive Writing)' 및 '감정 레이블링(Affect Labeling)'을 촉진합니다. 머릿속의 복잡한 감정들을 물리적 단어로 명명하고 지면에 써내려갈 때, 과열되었던 우측 편도체의 활성은 둔화되는 반면 이성적 판단을 돕는 좌측 전두엽 피질이 활성화됩니다. 이는 뇌에게 '상황이 통제되고 있다'는 강력한 신호를 주어 정서적 소용돌이를 진정시킵니다.",
-      "en": "When anonymous negative emotions like anxiety or depression fill the brain, the limbic system perceives it as an emergency, weakening cognitive control. Handwritten journaling triggers 'Expressive Writing' and 'Affect Labeling.' Naming complex emotions with physical words and writing them down dampens right amygdala activity while stimulating the left prefrontal cortex. This sends a strong signal to the brain that 'things are under control,' calming emotional storms.",
-      "ja": "不安や憂鬱のような原因の分からない否定的な感情が脳内に充満している時、脳の辺縁系（Limbic System）は非常事態として認識し、認知統制力を弱めます。手書きによる日記執筆は、認知科学で言う「表現的執筆」および「感情レーベリング（Affect Labeling）」を促進します。頭の中の複雑な感情を物理的な単語と命名して紙に書き出す時、過熱していた右側扁桃体の活性は鈍くなる一方、理性的判断を助ける左側前頭前皮質が活性化します。これは脳に「状況がコントロールされている」という強力な信号を送り、情緒的な乱れを鎮めます。",
-      "zh": "当焦虑或忧郁等莫名消极情感充斥大脑时，大脑的边缘系统(Limbic System)会将其认知为紧急情况，进而削弱执行控制力。手写日记可促进认知科学中所说的“表达性写作(Expressive Writing)”及“情感贴签(Affect Labeling)”。当用具体词汇命名大脑中错综复杂的感情并落在纸面上时，原本过度亢奋的右侧杏仁核活性会被钝化，而帮助理性判断的左侧前额叶皮层会被激活。这会向大脑传递“情况正处于控制中”的强烈信号，从而平息情绪漩涡。",
-      "es": "Cuando las emociones negativas desbordan la mente, el sistema límbico entra en alerta. Escribir a mano facilita el etiquetado emocional (Affect Labeling). Al dar forma y palabra física a los temores sobre el papel, la actividad de la amígdala derecha disminuye y la corteza prefrontal izquierda toma el mando. Esto le indica al cerebro que la situación está bajo control, ordenando el caos mental.",
-      "fr": "Quand les émotions négatives débordent, le système limbique s'emballe. L'écriture manuscrite facilite l'étiquetage émotionnel (Affect Labeling). En posant des mots sur le papier, l'activité de l'amygdale droite diminue au profit du cortex préfrontal gauche. Cela indique au cerveau que la situation est sous contrôle.",
-      "de": "Negative Emotionen versetzen das limbische System in Alarmbereitschaft. Handschriftliches Schreiben erleichtert die emotionale Etikettierung (Affect Labeling). Indem Sie Ihre Sorgen aufschreiben, nimmt die Aktivität des Mandelkerns ab und der präfrontale Cortex übernimmt die Führung. Das signalisiert dem Gehirn Kontrolle.",
-      "pt": "Quando as emoções negativas transbordam a mente, o sistema límbico entra em alerta. Escrever à mão facilita a rotulagem emocional (Affect Labeling). Ao dar forma e palavra física aos temores sobre o papel, a atividade da amígdala direita diminui e o córtex pré-frontal esquerdo toma o comando.",
-      "id": "Saat emosi negatif menumpuk, sistem limbik mendeteksi tanda bahaya. Menulis buku harian dengan tangan memicu pelabelan afektif (Affect Labeling). Menerjemahkan emosi abstrak ke dalam kata-kata tertulis menurunkan aktivitas amigdala kanan dan meningkatkan kontrol korteks prefrontal kiri."
+      "ko": "불안이나 우울 같은 원인 모를 부정적 감정이 뇌 속에 가득할 때, 뇌의 변연계(Limbic System)는 비상 상황으로 인지하여 인지 통제력을 약화시킵니다. 손글씨를 이용한 일기 쓰기는 인지과학에서 말하는 '표현적 글쓰기(Expressive Writing)' 및 '감정 레이블링(Affect Labeling)'을 촉진합니다. 머릿속의 복잡한 감정들을 물리적 단어로 명명하고 지면에 써내려갈 때, 과열되었던 우측 편도체의 활성은 둔화되는 반면 이성적 판단을 돕는 좌측 전두엽 피질이 활성화됩니다. 이는 뇌에게 '상황이 통제되고 있다'는 강력한 신호를 주어 정서적 소용돌이를 진정시킵니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "표현적 글쓰기 루틴을 수행할 때 피해야 할 행동은 맞춤법이나 글의 문장력 등 기교에 집착하는 것입니다. 글을 잘 써야 하거나 논리정연해야 한다는 압박감을 느끼게 되면, 뇌는 이를 평가를 받는 작업으로 해석하여 도리어 피로도를 높이게 됩니다. 따라서 문장의 완성도나 타인의 시선은 완전히 잊고, 머릿속에 떠오르는 감정의 흐름을 날것 그대로 지면에 거침없이 쏟아내는 자유 집필의 형태를 취하는 것이 핵심입니다.",
-      "en": "The trap to avoid during expressive writing is worrying about grammar, spelling, or literary quality. If you feel pressure to write well or logically, the brain interprets it as an evaluated task, increasing stress. Forget sentence completion or reader perception; simply pour out the raw stream of consciousness onto the page.",
-      "ja": "表現的執筆ルーティンを行う際に避けるべき行動は、スペルや文章の文章力などの技巧に執着することです. 文章をよく書かなければならない、論理的でなければならないという圧迫感を感じると、脳はこれを評価を受ける作業と解釈し、かえって疲労度を高めることになります. したがって、文章の完成度や他人の視線は完全に忘れ、頭の中に浮かぶ感情の流れを生のまま紙面に躊躇なく吐き出す自由執筆の形態を取ることが核心です.",
-      "zh": "进行表达性写作规程时需要避免的行为是，执着于拼写或文笔等技巧。如果感到必须写好或必须逻辑清晰的压力，大脑会将其解释为接受评估的任务，反而会增加疲劳感。因此，完全忘掉文章的完成度或他人的目光，将脑海中浮现的感情洪流原封不动、毫不犹豫地倾泻在纸面上，采取这种自由书写的形式才是核心所在。",
-      "es": "El error es preocuparse por la ortografía, el estilo o la coherencia. Si se impone escribir de forma pulida, el cerebro lo interpreta como una tarea evaluada, aumentando la tensión. El principio es ignorar el acabado de las frases y volcar el flujo crudo de pensamientos sin filtros en el cuaderno.",
-      "fr": "L'erreur est de se soucier de l'orthographe ou de la cohérence. Si vous essayez de bien écrire, le cerveau l'interprète comme un travail, augmentant la tension. L'important est d'oublier la forme et de jeter le flux brut de vos pensées sur le papier sans filtre.",
-      "de": "Vermeiden Sie es, auf Grammatik, Rechtschreibung oder Stil zu achten. Der Druck, gut zu schreiben, erzeugt neuen Stress. Vergessen Sie die Formulierung und bringen Sie einfach Ihre Gedanken ungefiltert zu Papier.",
-      "pt": "O erro é preocupar-se com a ortografia, o estilo ou a coerência. Se se impuser escrever de forma polida, o cérebro interpreta-o como uma tarefa avaliada, aumentando a tensão. O princípio é ignorar o acabamento das frases e verter o fluxo cru de pensamentos.",
-      "id": "Hindari mengkhawatirkan ejaan, gaya bahasa, atau kerapian tulisan. Menuntut tulisan bagus membuat otak merasa sedang dinilai. Kuncinya adalah melupakan struktur kalimat dan menuliskan aliran kesadaran Anda apa adanya."
+      "ko": "표현적 글쓰기 루틴을 수행할 때 피해야 할 행동은 맞춤법이나 글의 문장력 등 기교에 집착하는 것입니다. 글을 잘 써야 하거나 논리정연해야 한다는 압박감을 느끼게 되면, 뇌는 이를 평가를 받는 작업으로 해석하여 도리어 피로도를 높이게 됩니다. 따라서 문장의 완성도나 타인의 시선은 완전히 잊고, 머릿속에 떠오르는 감정의 흐름을 날것 그대로 지면에 거침없이 쏟아내는 자유 집필의 형태를 취하는 것이 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "아날로그 일기장과 펜 준비",
-          "en": "Preparing an Analog Notebook and Pen",
-          "ja": "アナログ日記帳とペンの準備",
-          "zh": "准备实体日记本与钢笔",
-          "es": "Preparar un cuaderno físico y una pluma",
-          "fr": "Préparer un carnet physique et un stylo",
-          "de": "Bereitlegen von Tagebuch und Stift",
-          "pt": "Preparar um caderno físico e uma caneta",
-          "id": "Siapkan Buku Harian Fisik dan Pena"
+          "ko": "아날로그 일기장과 펜 준비"
         },
         "text": {
-          "ko": "스마트폰이나 키보드 대신, 종이의 촉감을 직접 느낄 수 있는 아날로그 가죽 일기장과 아날로그 필기구를 침대 근처에 준비합니다.",
-          "en": "Instead of a smartphone or keyboard, set up a physical notebook and pen near your bed where you can feel the texture of paper.",
-          "ja": "スマートフォンやキーボードの代わりに、紙の触感を直接感じられるアナログな日記帳と筆記用具をベッドの近くに用意します。",
-          "zh": "不用智能手机或键盘，在床边备好实体日记本和书写工具，以便直接感受纸张的触觉。",
-          "es": "Coloque cerca de su cama un cuaderno de papel analógico y un bolígrafo, evitando el uso de pantallas o teclados digitales.",
-          "fr": "Posez près de votre lit un carnet en papier et un stylo, en évitant tout écran ou clavier numérique.",
-          "de": "Legen Sie ein echtes Tagebuch aus Papier und einen Stift bereit. Vermeiden Sie Bildschirme.",
-          "pt": "Coloque perto da sua cama um caderno de papel analógico e uma caneta, evitando o uso de ecrãs ou teclados digitais.",
-          "id": "Jauhkan ponsel. Letakkan buku harian kertas dan pena di dekat tempat tidur Anda."
+          "ko": "스마트폰이나 키보드 대신, 종이의 촉감을 직접 느낄 수 있는 아날로그 가죽 일기장과 아날로그 필기구를 침대 근처에 준비합니다."
         }
       },
       {
         "name": {
-          "ko": "하루의 감정을 손글씨로 나열",
-          "en": "Writing Down Day's Emotions by Hand",
-          "ja": "一日の感情を手書きで列挙",
-          "zh": "手写罗列一天的情感",
-          "es": "Volcar las emociones del día a mano",
-          "fr": "Poser les émotions du jour à la main",
-          "de": "Gefühle des Tages handschriftlich festhalten",
-          "pt": "Escrever as emoções do dia à mão",
-          "id": "Tuliskan Emosi Hari Ini Secara Manual"
+          "ko": "하루의 감정을 손글씨로 나열"
         },
         "text": {
-          "ko": "오늘 느꼈던 스트레스, 기쁨, 걱정 등 뇌리에 고여 있는 주된 기분을 지면에 5분 동안 손수 단어로 적어 표현합니다.",
-          "en": "Write down the main feelings remaining in your mind—stress, joy, or anxiety—for 5 minutes using physical words.",
-          "ja": "今日感じたストレス、喜び、不安など、脳裏に溜まっている主な気分を紙面に5分間手書きの言葉で書き綴ります。",
-          "zh": "将今天感受到的压力、喜悦、担心等停留在脑海中的主要情绪，用文字手写在纸上，持续5分钟。",
-          "es": "Escriba los sentimientos predominantes del día (estrés, alegría o ansiedad) durante 5 minutos de forma libre.",
-          "fr": "Écrivez les sentiments marquants du jour (stress, joie ou anxiété) pendant 5 minutes de façon libre.",
-          "de": "Schreiben Sie 5 Minuten lang auf, was Sie heute bewegt hat (Stress, Freude oder Sorgen).",
-          "pt": "Escreva os sentimentos predominantes do dia (estresse, alegria ou ansiedade) durante 5 minutos de forma livre.",
-          "id": "Tuliskan perasaan utama Anda hari ini—cemas, lelah, atau bersyukur—selama 5 menit."
+          "ko": "오늘 느꼈던 스트레스, 기쁨, 걱정 등 뇌리에 고여 있는 주된 기분을 지면에 5분 동안 손수 단어로 적어 표현합니다."
         }
       },
       {
         "name": {
-          "ko": "감정 매듭짓기 및 보관",
-          "en": "Wrapping Up the Emotions and Storing Them",
-          "ja": "感情の締めくくりと保管",
-          "zh": "梳理情感并妥善合上",
-          "es": "Cerrar el diario y dar por concluido el día",
-          "fr": "Fermer le carnet et conclure la journée",
-          "de": "Tagebuch schließen und den Tag abschließen",
-          "pt": "Fechar o diário e dar por concluído o dia",
-          "id": "Menutup Buku Harian"
+          "ko": "감정 매듭짓기 및 보관"
         },
         "text": {
-          "ko": "일기장을 덮으면서 '오늘의 모든 고민은 이 지면에 보관되었다'고 스스로 선언하며 뇌에 인지적 종료 신호를 주고 수면에 들어갑니다.",
-          "en": "Close the notebook and declare to yourself that 'all of today's worries are stored in this book,' signaling cognitive closure before sleep.",
-          "ja": "日記帳を閉じながら、「今日すべての悩みはこの紙面に保管された」と自分自身に宣言し、脳に認知的な終了信号を与えて睡眠に入ります。",
-          "zh": "合上日记本的同时对自己说“今天的全部烦恼都留在了这张纸上”，给大脑传递认知结束的信号，随后入睡。",
-          "es": "Cierre el cuaderno y diga mentalmente: 'Todas las tensiones de hoy quedan guardadas aquí'. Esto da al cerebro una señal clara de cierre.",
-          "fr": "Fermez le carnet et dites-vous : 'Toutes les tensions d'aujourd'hui restent ici'. Cela donne au cerveau un signal clair de fermeture.",
-          "de": "Schließen Sie das Buch und sagen Sie sich: 'Alle Sorgen für heute sind hier aufgeschrieben'. Das signalisiert dem Gehirn den Feierabend.",
-          "pt": "Feche o caderno e diga mentalmente: 'Todas as tensões de hoje ficam guardadas aqui'. Isto dá ao cérebro um sinal claro de encerramento.",
-          "id": "Tutup buku harian Anda dan katakan, 'Semua cemas hari ini telah aman disimpan di sini.' Masuklah ke fase tidur."
+          "ko": "일기장을 덮으면서 '오늘의 모든 고민은 이 지면에 보관되었다'고 스스로 선언하며 뇌에 인지적 종료 신호를 주고 수면에 들어갑니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "매일 쓸 양이 적거나 특별한 일이 없던 날에는 어떻게 일기를 채워야 하나요?",
-          "en": "How should I fill the journal on days when I have nothing special to write?",
-          "ja": "毎日書く分量が少なかったり、特別な出来事がなかった日にはどのように日記を埋めればよいですか？",
-          "zh": "每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？",
-          "es": "¿Qué debo escribir en el diario los días en los que no pasa nada especial?",
-          "fr": "Que dois-je écrire dans le journal les jours où il ne se passe rien de spécial ?",
-          "de": "Was soll ich an Tagen aufschreiben, an denen nichts Besonderes passiert ist?",
-          "pt": "O que devo escrever no diário nos dias em que não acontece nada de especial?",
-          "id": "Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?"
+          "ko": "매일 쓸 양이 적거나 특별한 일이 없던 날에는 어떻게 일기를 채워야 하나요?"
         },
         "answer": {
-          "ko": "일기장의 칸을 길게 채우는 것보다 더 중요한 것은 '습관의 일관성'을 유지하는 것입니다. 특별한 사건이 없었던 날에는 '오늘 하루 중 나를 편안하게 해 주었던 사소한 事物이나 순간 하나'에 대해 감사함을 적거나, 몸이 느끼는 긴장도 등을 한 줄 적는 것만으로도 충분합니다. 뇌는 긴 글을 쓰는 노고보다 매일 성찰의 시간을 가졌다는 지속성을 통해 안도감을 느낍니다.",
-          "en": "Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay.",
-          "ja": "日記帳の欄を長く埋めることよりも重要なのは、「習慣の一貫性」を維持することです。特別な出来事がなかった日には、「今日一日の中で自分をリラックスさせてくれた些細なモノや瞬間の一つ」について感謝を綴ったり、体が感じる緊張度などを一行書くだけでも十分です。脳は、長い文章を書く労力よりも、毎日省察の時間を持ったという継続性を通じて安堵感を得るのです。",
-          "zh": "比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物或瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。",
-          "es": "Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detalle por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo.",
-          "fr": "Garder la régularité est plus important que de remplir des pages. Les jours calmes, décrivez simplement un moment pour lequel vous êtes reconnaissant ou l'état physique de votre corps. Le cerveau se détend grâce à la continuité du rituel, non par l'effort de rédaction.",
-          "de": "Konsequenz ist wichtiger als lange Texte. Schreiben Sie an ruhigen Tagen einfach über eine Kleinigkeit, für die Sie dankbar sind, oder notieren Sie, wie entspannt sich Ihr Körper anfühlt. Die Routine der täglichen Reflexion beruhigt das Gehirn, nicht die Länge des Textes.",
-          "pt": "Manter a constância é mais importante do que preencher páginas. En dias tranquilos, escreva sobre um detalhe pelo qual esteja agradecido ou descreva como se sente fisicamente. O cérebro se relaja com a continuidade do ritual diário, não com o esforço de redigir um ensaio longo.",
-          "id": "Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian."
+          "ko": "일기장의 칸을 길게 채우는 것보다 더 중요한 것은 '습관의 일관성'을 유지하는 것입니다. 특별한 사건이 없었던 날에는 '오늘 하루 중 나를 편안하게 해 주었던 사소한 이나 순간 하나'에 대해 감사함을 적거나, 몸이 느끼는 긴장도 등을 한 줄 적는 것만으로도 충분합니다. 뇌는 긴 글을 쓰는 노고보다 매일 성찰의 시간을 가졌다는 지속성을 통해 안도감을 느낍니다."
         }
       }
-    ],
-    "pubDate": "2026-05-07",
-    "updatedDate": "2026-05-07"
+    ]
   }
 }

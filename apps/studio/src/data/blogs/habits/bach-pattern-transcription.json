@@ -1,194 +1,64 @@
 {
   "bach-pattern-transcription": {
     "title": {
-      "ko": "달빛 아래서 악보를 필사한 거장? 바흐의 두정엽 자극 필사 습관",
-      "en": "The Master Who Copied Music Under Moonlight? Bach's Parietal Lobe Stimulating Copying Habit",
-      "ja": "月明かりの下で楽譜を書き写した巨匠？バッハの頭頂葉刺激写経習慣",
-      "zh": "在月光下抄写乐谱的大师？巴赫的顶叶刺激抄写习惯",
-      "es": "¿El maestro que copiaba partituras bajo la luz de la luna? El hábito de copia de Bach para estimular el lóbulo parietal",
-      "fr": "Le maître qui copiait des partitions sous la lumière de la lune ? L'habitude de copie de Bach pour stimuler le lobe pariétal",
-      "de": "Der Meister, der Noten im Mondlicht kopierte? Bachs Gewohnheit des handschriftlichen Abschreibens",
-      "pt": "O mestre que copiava partituras sob a luz da lua? O hábito de cópia de Bach para estimular o lóbulo parietal",
-      "id": "Master yang Menyalin Musik di Bawah Sinar Rembulan? Kebiasaan Menyalin Bach yang Merangsang Lobus Parietal"
+      "ko": "달빛 아래서 악보를 필사한 거장? 바흐의 두정엽 자극 필사 습관"
     },
     "description": {
-      "ko": "평생 동안 선배 작곡가들의 악보를 베껴 쓰며 수학적 규칙을 체화한 요한 제바스티안 바흐. 손끝 조작이 뇌의 논리 영역을 자극하는 과학적 원리와 현대적 필사 루틴을 전해드립니다.",
-      "en": "Johann Sebastian Bach embodied mathematical rules by copying senior composers' sheet music. Discover the scientific principles of how hand manipulation stimulates logical brain areas and a modern transcription routine.",
-      "ja": "生涯にわたり先輩作曲家の楽譜を書き写し、数学的な規則を体得したヨハン・セバスチャン・バッハ。指先の操作が脳の論理領域を刺激する科学的原理と、現代的な写経ルーティンを紹介します。",
-      "zh": "一生抄写前辈作曲家的乐谱以体现数学规则的约翰·塞巴斯蒂安·巴赫。分享指尖操作如何刺激大脑逻辑区域的科学原理以及现代抄写惯例。",
-      "es": "Johann Sebastian Bach personificó las reglas matemáticas copiando partituras. Descubra los principios científicos de cómo la manipulación manual estimula las áreas lógicas del cerebro y una rutina moderna de transcripción.",
-      "fr": "Jean-Sébastien Bach a assimilé les règles mathématiques en recopiant des partitions. Découvrez comment l'écriture manuelle stimule les zones logiques du cerveau, avec une routine moderne de copie.",
-      "de": "Johann Sebastian Bach verinnerlichte mathematische Regeln, indem er Partituren kopierte. Erfahren Sie, wie handschriftliches Schreiben logische Gehirnareale stimuliert und wie Sie eine moderne Abschreibe-Routine einrichten.",
-      "pt": "Johann Sebastian Bach personificou as regras matemáticas ao copiar partituras. Descubra os princípios científicos de como a manipulação manual estimula as áreas lógicas do cérebro e uma rotina moderna de transcrição.",
-      "id": "Johann Sebastian Bach mewujudkan aturan matematika dengan menyalin lembaran musik komposer senior. Pelajari prinsip ilmiah bagaimana manipulasi tangan merangsang area logis otak."
+      "ko": "평생 동안 선배 작곡가들의 악보를 베껴 쓰며 수학적 규칙을 체화한 요한 제바스티안 바흐. 손끝 조작이 뇌의 논리 영역을 자극하는 과학적 원리와 현대적 필사 루틴을 전해드립니다."
     },
     "authority": {
-      "ko": "포르켈 저 '요한 제바스티안 바흐의 생애' 및 기능적 뇌 발달 연구(James, 2012)",
-      "en": "Forkel's 'Life of Johann Sebastian Bach' & Functional Brain Development Study (James, 2012)",
-      "ja": "フォルケル 著『ヨハン・セバスティアン・バッハの生涯』＆ 機能的脳発達に関する研究(James, 2012)",
-      "zh": "福克尔著《约翰·塞巴斯蒂安·巴赫的一生》及功能性大脑发育研究(James, 2012)",
-      "es": "Obra de Forkel 'Life of Johann Sebastian Bach' y estudio del desarrollo funcional del cerebro (James, 2012)",
-      "fr": "L'ouvrage de Forkel 'Vie de Jean-Sébastien Bach' et l'étude du développement cérébral fonctionnel (James, 2012)",
-      "de": "Forkels 'Life of Johann Sebastian Bach' & Funktionelle Gehirnentwicklungsstudie (James, 2012)",
-      "pt": "Obra de Forkel 'Life of Johann Sebastian Bach' e estudo do desenvolvimento funcional do cérebro (James, 2012)",
-      "id": "Buku Forkel 'Life of Johann Sebastian Bach' & Penelitian Perkembangan Otak Fungsional (James, 2012)"
+      "ko": "Johann Nikolaus Forkel, *Life of Johann Sebastian Bach* (1802) & *Journal of Neuroscience*"
     },
     "intro": {
-      "ko": "바로크 시대 대위법과 화성학을 완성하고, 훗날 베토벤과 모차르트 등 모든 서양 음악가들의 나침반이 되어 '음악의 아버지'라 불리는 요한 제바스티안 바흐. 그의 복잡하고 수학적인 화음 연동 속에는 놀라울 정도로 정교한 논리 구조가 얽혀 있습니다. 이 천재적인 대위법적 논리는 타고난 재능 이상의 평생에 걸친 지적 루틴에서 비롯되었습니다. ✍️\\n\\n그것은 바로 밤마다 당대의 최고 거장들이 쓴 악보들을 깃펜으로 한 줄 한 줄 베껴 쓰는 '악보 필사(Transcription) 습관'이었습니다. 10대 소년 시절, 엄격했던 형의 서재에서 몰래 거장들의 악보를 훔쳐내어 달빛에 의지해 밤새 악보를 필사했던 일화는 유명합니다. 바흐에게 필사는 단순히 곡을 눈으로 훑는 학습이 아니었습니다. 깃펜을 들고 손끝의 미세 운동 감각을 기동하여, 음표 간의 수학적 배치와 화성의 전개 원리를 자신의 신경계에 고스란히 새겨 넣는 강력한 뇌각인 의식이었습니다. 그는 거장들의 작곡 방식을 관찰하는 것에 그치지 않고 손으로 직접 그려내어 그들의 논리 공식을 자신의 뇌에 동기화시켰습니다.\\n\\n오늘 BuildSelf에서는 바흐의 필사 습관에 숨겨진 脳科学的 원리와 지적 문제 해결력 및 학습력을 극대화하는 현대적 아날로그 필사 리추얼 설계법을 분석합니다.\\n\\n\\n\\n\\n---",
-      "en": "Johann Sebastian Bach, called the 'Father of Music' for completing Baroque counterpoint and harmony, serving as a compass for later composers like Beethoven and Mozart. His complex, mathematical chord structures are interwoven with an incredibly sophisticated logical framework. This genius logic was born from a lifelong intellectual routine rather than mere innate talent. It was the 'score copying habit' of copying sheet music written by the greatest masters of his time, line by line with a quill every night. As a young boy, he secretly stole master scores from his older brother's study and copied them all night under the moonlight. For Bach, copying was not passive reading. It was a brain-imprinting ritual that used fine motor skills of his hands to engrave mathematical arrangements of notes into his nervous system. Today, BuildSelf shares the brain-scientific principles behind Bach's transcription habit and how to design a modern analog transcription ritual to maximize your logical thinking and learning.",
-      "ja": "この歴史的習慣の実践において： , ' ' . . . ✍️\\n\\n ' (Transcription) '. 10 , . . , . .\\n\\n BuildSelf 脳科学的 .\\n\\n\\n\\n\\n---",
-      "zh": "在这一历史性惯例的实践中： , ' ' . . . ✍️\\n\\n ' (Transcription) '. 10 , . . , . .\\n\\n BuildSelf 脳科学的 .\\n\\n\\n\\n\\n---",
-      "es": "En la práctica de esta rutina transformadora: , ' ' . . . ✍️\\n\\n ' (Transcription) '. 10 , . . , . .\\n\\n BuildSelf .\\n\\n\\n\\n\\n--- Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo. Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora: , ' ' . . . ✍️\\n\\n ' (Transcription) '. 10 , . . , . .\\n\\n BuildSelf .\\n\\n\\n\\n\\n--- Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável. Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "바로크 시대 대위법과 화성학을 완성하고, 훗날 베토벤과 모차르트 등 모든 서양 음악가들의 나침반이 되어 '음악의 아버지'라 불리는 요한 제바스티안 바흐. 그의 복잡하고 수학적인 화음 연동 속에는 놀라울 정도로 정교한 논리 구조가 얽혀 있습니다. 이 천재적인 대위법적 논리는 타고난 재능 이상의 평생에 걸친 지적 루틴에서 비롯되었습니다. ✍️\n\n그것은 바로 밤마다 당대의 최고 거장들이 쓴 악보들을 깃펜으로 한 줄 한 줄 베껴 쓰는 '악보 필사(Transcription) 습관'이었습니다. 10대 소년 시절, 엄격했던 형의 서재에서 몰래 거장들의 악보를 훔쳐내어 달빛에 의지해 밤새 악보를 필사했던 일화는 유명합니다. 바흐에게 필사는 단순히 곡을 눈으로 훑는 학습이 아니었습니다. 깃펜을 들고 손끝의 미세 운동 감각을 기동하여, 음표 간의 수학적 배치와 화성의 전개 원리를 자신의 신경계에 고스란히 새겨 넣는 강력한 뇌각인 의식이었습니다. 그는 거장들의 작곡 방식을 관찰하는 것에 그치지 않고 손으로 직접 그려내어 그들의 논리 공식을 자신의 뇌에 동기화시켰습니다.\n\n오늘 포스트에서는 바흐의 필사 습관에 숨겨진 뇌과학적 원리와 지적 문제 해결력 및 학습력을 극대화하는 현대적 아날로그 필사 리추얼 설계법을 분석합니다."
     },
     "whyTitle": {
-      "ko": "미세 손가락 운동과 두정엽 연합",
-      "en": "Fine Motor Action and Parietal Lobe Association",
-      "ja": "微細な手指運動と頭頂葉連合",
-      "zh": "微细手指运动与顶叶联络",
-      "es": "Movimiento motor fino y asociación del lóbulo parietal",
-      "fr": "Motricité fine et association du lobe pariétal",
-      "de": "Feinmotorik und Aktivierung des Scheitellappens",
-      "pt": "Movimento motor fino e associação do lóbulo parietal",
-      "id": "Tindakan Motorik Halus dan Asosiasi Lobus Parietal"
+      "ko": "미세 손가락 운동과 두정엽 연합"
     },
     "whyDesc": {
-      "ko": "컴퓨터 키보드나 모니터 화면을 두드리는 현대의 디지털 학습은 뇌의 운동 피질 중 매우 일부 영역만을 가볍게 훑고 지나는 저밀도 인지 활동입니다. 반면, 펜을 손에 쥐고 종이 위에 복잡한 텍스트나 기호를 꾹꾹 눌러쓰는 아날로그 필사 행위는 정교한 미세 근육(Fine Motor) 제어가 필요합니다. \\n\\n이 과정에서 뇌는 전두엽의 계획 영역뿐 아니라, 수학적 연산과 다차원적 상징, 그리고 물리적 연결을 인지하는 '두정엽(Parietal Lobe)' 연합 영역을 고도로 활성화시킵니다. 시각 피질을 통해 들어온 기호 정보가 손끝의 압력 감각과 궤적 정보로 변환되어 다시 뇌로 입력되는 '시각-운동 피드백 루프'는 뇌의 시냅스 연결망에 장기 기억의 흔적을 훨씬 더 선명하게 각인시킵니다. 필사 리추얼은 뇌의 주의력을 현재에 밀착시키고 복잡한 논리를 일목요연하게 구조화하도록 돕습니다.",
-      "en": "Modern digital typing is a low-density cognitive activity that briefly skims the motor cortex. In contrast, analog copying, which requires pressing a pen on paper to write complex symbols, demands precise fine motor control. In this process, the brain highly activates not only the planning area of the prefrontal cortex but also the parietal lobe association area that processes mathematical operations, multi-dimensional symbols, and physical connections. The 'visual-motor feedback loop'—where symbolic information entering through the visual cortex is converted into tactile pressure and trajectory data—engraves memories much more clearly in the brain's synaptic network. Transcription rituals focus attention on the present and help organize complex logic.",
-      "ja": "キーボードを入力する現代のデジタル学習は、脳の運動野の極小領域しか使わない低密度の認知活動です。一方、ペンを握って紙の上に複雑な文字や記号を書き写すアナログな筆写行為は、指先の微細な筋肉（Fine Motor）の精巧な制御を必要とします。この過程で、脳は前頭葉だけでなく、数学的演算や記号、空間構造を認知する「頭頂葉（Parietal Lobe）」の連合野を高度に活性化させます。視覚野から入ってきた情報が指先の圧力感覚と軌道情報に変換されて再び脳に入力される「視覚・運動フィードバックループ」は、長期記憶の痕跡をはるかに鮮明に脳に刻みます。筆写リチュアルは、脳の注意力を引きつけ、複雑な論理を構造化するのを助けます。",
-      "zh": "敲击计算机键盘或浏览显示屏的现代数字化学习，是一种仅轻微掠过大脑运动皮层极少部分区域的低密度认知活动。相反，手握笔在纸上用力书写复杂的文字或符号的模拟抄写行为，需要精细的微细肌肉（Fine Motor）控制。在此过程中，大脑不仅高度激活前额叶的计划区域，还会激活处理数学运算、多维符号以及物理连接的“顶叶（Parietal Lobe）”联络区域。通过视觉皮层输入的信息转化为手指尖的压力感觉和笔画轨迹信息，重新输入大脑的“视觉-运动反馈回路”，能在大脑的突触连接网络中更鲜明地刻下长期记忆的痕迹。抄写仪式有助于将大脑注意力紧密贴合于当下，并帮助将复杂的逻辑条理分明地结构化。",
-      "es": "Escribir digitalmente es una actividad cognitiva de baja densidad. En cambio, copiar a mano símbolos complejos requiere un control motor fino preciso. En este proceso, el cerebro activa no solo la corteza frontal sino también el área de asociación del lóbulo parietal, que procesa operaciones matemáticas, símbolos y conexiones físicas. El 'bucle de retroalimentación visual-motora' graba recuerdos de forma mucho más clara en la red sináptica del cerebro. El ritual de transcripción ayuda a organizar la lógica compleja.",
-      "fr": "La saisie numérique est une activité cognitive de faible densité. En revanche, recopier des symboles complexes à la main exige un contrôle moteur fin précis. Ce processus active non seulement le cortex frontal mais aussi la zone d'association du lobe pariétal, qui traite les opérations mathématiques, les symboles et les connexions physiques. Ce « retour visuo-moteur » grave les souvenirs de manière bien plus nette dans le réseau synaptique. Le rituel de copie aide à structurer les logiques complexes.",
-      "de": "Das Tippen auf einer Tastatur ist eine kognitive Aktivität mit geringer Dichte. Das handschriftliche Abschreiben komplexer Symbole erfordert hingegen eine präzise Feinmotorik. Dieser Prozess aktiviert neben dem Frontalhirn den Scheitellappen, der mathematische Operationen und Symbole verarbeitet. Diese visuo-motorische Rückkopplung prägt Informationen viel tiefer in das Gedächtnis ein. Ein Abschreibe-Ritual hilft, komplexe Logik strukturiert zu verarbeiten.",
-      "pt": "Digitar digitalmente é uma atividade cognitiva de baixa densidade. Pelo contrário, copiar à mão símbolos complexos exige um controlo motor fino preciso. Neste processo, o cérebro ativa não apenas o córtex frontal, mas também a área de associação do lóbulo parietal, que processa operações matemáticas, símbolos e conexões físicas. O 'ciclo de feedback visual-motor' grava memórias de forma muito mais clara na rede sináptica do cérebro. O ritual de transcrição ajuda a organizar a lógica complexa.",
-      "id": "Mengetik digital adalah aktivitas kognitif dengan kepadatan rendah. Sebaliknya, tindakan menyalin teks analog yang mengharuskan Anda menekan pena di atas kertas untuk menulis simbol-simbol rumit, menuntut kontrol motorik halus yang tepat. Otak sangat mengaktifkan area asosiasi lobus parietal yang memproses operasi matematika, simbol, & koneksi fisik. 'Putaran umpan balik visual-motorik' mengukir ingatan secara jelas di otak."
+      "ko": "컴퓨터 키보드나 모니터 화면을 두드리는 현대의 디지털 학습은 뇌의 운동 피질 중 매우 일부 영역만을 가볍게 훑고 지나는 저밀도 인지 활동입니다. 반면, 펜을 손에 쥐고 종이 위에 복잡한 텍스트나 기호를 꾹꾹 눌러쓰는 아날로그 필사 행위는 정교한 미세 근육(Fine Motor) 제어가 필요합니다.\n\n이 과정에서 뇌는 전두엽의 계획 영역뿐 아니라, 수학적 연산과 다차원적 상징, 그리고 물리적 연결을 인지하는 '두정엽(Parietal Lobe)' 연합 영역을 고도로 활성화시킵니다. 시각 피질을 통해 들어온 기호 정보가 손끝의 압력 감각과 궤적 정보로 변환되어 다시 뇌로 입력되는 '시각-운동 피드백 루프'는 뇌의 시냅스 연결망에 장기 기억의 흔적을 훨씬 더 선명하게 각인시킵니다. 필사 리추얼은 뇌의 주의력을 현재에 밀착시키고 복잡한 논리를 일목요연하게 구조화하도록 돕습니다."
+    },
+    "cautionTitle": {
+      "ko": "성공적인 루틴을 위한 뇌과학적 한마디"
+    },
+    "cautionDesc": {
+      "ko": "<strong>손은 밖으로 나온 뇌입니다</strong>\n\n모니터 화면을 보며 눈으로 읽거나 마우스로 드래그하는 정보는 뇌에 아주 얕게 흘러가 사라집니다. 뇌의 논리 회로를 강화하고 싶다면 단 10분만이라도 펜을 잡고 필사를 진행해 보세요. 바흐가 복잡한 푸가 패턴을 손끝으로 베껴 쓰며 바로크 음악의 완벽한 공식을 지배했던 것처럼, 당신의 뇌도 아날로그 필사를 거칠 때 어려운 지식을 완전히 소유하게 될 것입니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Prepare high-density logical text",
-          "ja": "論理密度の高い対象テキストを準備する",
-          "zh": "准备逻辑密度高的目标文字",
-          "es": "Preparar un texto lógico de alta densidad",
-          "fr": "Préparer un texte logique de haute densité",
-          "de": "Einen dichten logischen Text vorbereiten",
-          "pt": "Preparar um texto lógico de alta densidade",
-          "id": "Siapkan teks logis dengan kepadatan tinggi",
-          "ko": "Prepare high-density logical text"
+          "ko": "논리 밀도가 촘촘한 대상 텍스트 준비"
         },
         "text": {
-          "en": "Select a well-written paragraph, a textbook chapter, or high-quality code. Prepare an analog notebook and a fountain pen or pencil.",
-          "ja": "自分が体得したい優れた古典のフレーズ、複雑な数学の方程式、あるいは一級の開発者たちが書いた高品位なコードブロックなどを準備します。アナログノートと書き心地の良い万年筆や鉛筆を用意します。",
-          "zh": "准备一段想要体会的优秀经典语句、复杂的数学方程式，或者一流开发者编写的高品质代码块。准备好模拟笔记本和书写感良好的万年笔或铅笔。",
-          "es": "Selecciona un párrafo bien escrito, un capítulo de libro de texto o código de alta calidad. Prepara un cuaderno analógico y una pluma o lápiz.",
-          "fr": "Sélectionnez un paragraphe bien écrit, un chapitre de manuel ou du code de haute qualité. Préparez un carnet analogique et un stylo-plume ou un crayon.",
-          "de": "Wählen Sie einen gut geschriebenen Text oder Code. Bereiten Sie ein analoges Notizbuch und einen Füllfederhalter oder Bleistift vor.",
-          "pt": "Selecione um parágrafo bem escrito, um capítulo de livro ou código de alta qualidade. Prepare um caderno analógico e uma caneta ou lápis.",
-          "id": "Pilih paragraf yang ditulis dengan baik, bab buku pelajaran, atau kode berkualitas tinggi. Siapkan buku catatan analog & pena atau pensil.",
-          "ko": "Select a well-written paragraph, a textbook chapter, or high-quality code. Prepare an analog notebook and a fountain pen or pencil."
+          "ko": "내가 깊이 습득하고자 하는 선언문, 인문학 클래식 저서의 문장, 혹은 뛰어난 설계도가 담긴 영문 보고서나 고품질 코드의 핵심 코드 블록을 선정합니다. 연필이나 만년필, 아날로그 공책을 함께 배치합니다."
         }
       },
       {
         "name": {
-          "en": "Focus on the tactile feel of writing for 10 minutes",
-          "ja": "ペンの質感と筆圧に10分間集中する",
-          "zh": "将注意力集中在笔尖触感和笔压上书写10分钟",
-          "es": "Concentrarse en la sensación táctil de escribir durante 10 minutos",
-          "fr": "Se concentrer sur la sensation tactile de l'écriture pendant 10 minutos",
-          "de": "Sich 10 Minuten lang auf das kognitive Gefühl des Schreibens konzentrieren",
-          "pt": "Concentrar-se na sensação tátil de escrever durante 10 minutos",
-          "id": "Fokus pada sensasi sentuhan menulis selama 10 menit",
-          "ko": "Focus on the tactile feel of writing for 10 minutes"
+          "ko": "펜끝과 종이의 접촉 질감에 10분 몰입하기"
         },
         "text": {
-          "en": "Slowly write down the target text. Focus on the pen tip, the texture of the paper, and how the ink flows. Spend 10 minutes fully immersed in writing without looking at screens.",
-          "ja": "対象となるコードや文章を一行ずつゆっくり書き写します。スマートフォンやモニター画面を見ず、ただペンが紙に触れる質感、指先の圧力、紙の触感にのみ10分間意識を集中させます。",
-          "zh": "将目标代码或文字逐行缓慢抄写。不看手机或显示屏，用10分钟的时间将意识完全贴合在笔触（笔尖划过纸张的沙沙声）、手指尖的压力以及纸张的触感上。",
-          "es": "Escribe lentamente el texto objetivo. Concéntrate en la punta de la pluma, la textura del papel y el flujo de tinta. Dedica 10 minutos a esta tarea.",
-          "fr": "Écrivez lentement le texte cible. Concentrez-vous sur la pointe du stylo, le grain du papier et le flux d'encre. Consacrez 10 minutes à cette tâche.",
-          "de": "Schreiben Sie den Text langsam ab. Konzentrieren Sie sich auf die Stiftspitze, das Papier und den Tintenfluss. Verbringen Sie 15 Minuten ganz ohne Bildschirme.",
-          "pt": "Escreva lentamente o texto-alvo. Concentre-se na ponta da caneta, na textura do papel e no fluxo de tinta. Dedique 10 minutos a esta tarefa.",
-          "id": "Tulis teks target secara perlahan. Fokus pada ujung pena, tekstur kertas, & aliran tinta. Habiskan 10 menit sepenuhnya tenggelam dalam menulis.",
-          "ko": "Slowly write down the target text. Focus on the pen tip, the texture of the paper, and how the ink flows. Spend 10 minutes fully immersed in writing without looking at screens."
+          "ko": "선택한 텍스트나 기호를 펜으로 한 줄 한 줄 정성껏 베껴 씁니다. 스마트폰이나 모니터는 꺼두고, 펜 촉이 종이를 긁으며 지나가는 사각거리는 서각, 종이의 결, 손끝의 압력 변화 등 육체적 미세 감각에 의식을 온전히 일치시켜 10분간 지속합니다."
         }
       },
       {
         "name": {
-          "en": "Review the structure logically",
-          "ja": "書き写したテキストの構造的パターンを再び噛み締める",
-          "zh": "重新品味抄写文字的结构模式",
-          "es": "Revisar la estructura lógicamente",
-          "fr": "Revoir la structure logiquement",
-          "de": "Die Struktur logisch überprüfen",
-          "pt": "Rever a estrutura logicamente",
-          "id": "Tinjau strukturnya secara logis",
-          "ko": "Review the structure logically"
+          "ko": "필사한 텍스트의 구조적 논리 패턴 감상"
         },
         "text": {
-          "en": "After writing, look at your notes. Savor the logical flow and connections. This process completes a clear mental model of the structure in the prefrontal cortex.",
-          "ja": "書き写しが終わったら、自分が書いたアナログなテキストを上から下へ目で追いながら、論理的な記号間の配置と流れを頭の中で再連想します。脳がテキストの論理構造を最適に整えてくれます。",
-          "zh": "抄写结束后，自上而下用眼睛浏览自己写下的字句，在脑海中重新联想逻辑符号之间的配置与流程。大脑会将文字的逻辑结构进行最佳的整理。",
-          "es": "Después de escribir, revisa tus notas. Siente el flujo lógico y las conexiones. Este proceso consolida el modelo mental de la estructura en la corteza prefrontal.",
-          "fr": "Après l'écriture, relisez vos notes. Savourez le flux logique et les connexions. Ce processus consolide le modèle mental de la structure dans le cortex préfrontal.",
-          "de": "Betrachten Sie Ihre Notizen nach dem Schreiben. Verfolgen Sie den logischen Fluss. Dieser Prozess vervollständigt ein klares mentales Modell der Struktur.",
-          "pt": "Depois de escrever, reveja as suas notas. Sinta o fluxo lógico e as conexões. Este processo consolida o modelo mental da estrutura no córtex pré-frontal.",
-          "id": "Setelah menulis, lihat catatan Anda. Nikmati aliran logis & koneksinya. Proses ini melengkapi model mental yang jelas dari struktur tersebut.",
-          "ko": "After writing, look at your notes. Savor the logical flow and connections. This process completes a clear mental model of the structure in the prefrontal cortex."
+          "ko": "베껴 쓰기를 마친 후, 종이에 정렬된 텍스트 구조를 위에서 아래로 조용히 훑어보며 그들의 논리 관계와 배치 방식을 시각적으로 다시 정리합니다. 이 시각적-논리적 매칭 단계는 전두엽에 확실한 구조 프레임을 확립합니다."
         }
       }
     ],
-    "cautionTitle": {
-      "ko": "성공적인 루틴을 위한 脳科学的 한마디",
-      "en": "A brain-scientific word for a successful routine",
-      "ja": "効果的なルーティンのための脳科学的な一言",
-      "zh": "成功惯例的脑科学建议",
-      "es": "Un consejo neurocientífico para una rutina exitosa",
-      "fr": "Un conseil neurocientifique pour une routine réussie",
-      "de": "Ein gehirnwissenschaftlicher Ratschlag für eine erfolgreiche Routine",
-      "pt": "Um conselho neurocientífico para uma rotina de sucesso",
-      "id": "Saran ilmiah saraf untuk rutinitas yang sukses"
-    },
-    "cautionDesc": {
-      "ko": "<strong>손은 밖으로 나온 뇌입니다</strong>\\n\\n모니터 화면을 보며 눈으로 읽거나 마우스로 드래그하는 정보는 뇌에 아주 얕게 흘러가 사라집니다. 뇌의 논리 회로를 강화하고 싶다면 단 10분만이라도 펜을 잡고 필사를 진행해 보세요. 바흐가 복잡한 푸가 패턴을 손끝으로 베껴 쓰며 바로크 음악의 완벽한 공식을 지배했던 것처럼, 당신의 뇌도 아날로그 필사를 거칠 때 어려운 지식을 완전히 소유하게 될 것입니다.",
-      "en": "Information read with eyes and dragged with a mouse quickly vanishes. If you want to strengthen logical brain networks, pick up a pen and copy by hand for just 10 minutes. Just as Bach ruled Baroque music formulas by copying complex fugues with his hands, your brain will fully own difficult knowledge through analog copying.",
-      "ja": "モニター画面を見ながら目で読む情報や、マウスでドラッグするだけの情報は、脳の表面を浅く流れてすぐに消えてしまいます。脳の論理回路を強化したいなら、たった10分だけでもペンを握り、書き写しを行ってみてください。バッハが複雑なフーガのパターンを指先で書き写し、バロック音楽の完璧な公式を支配したように、あなたの脳もアナログな筆写を経ることで難しい知識を完全に掌中に収めることができるでしょう。",
-      "zh": "看着屏幕用眼睛阅读或用鼠标拖拽的信息，只会从大脑表层极浅地流过并迅速消失。如果想强化大脑的逻辑回路，哪怕只用10分钟，也请握起笔展开抄写吧。正如巴赫用手指尖誊抄复杂的赋格曲模式从而支配了巴洛克音乐的完美公式一样，您的大脑在经历模拟抄写时，也能够完全掌握高难度的知识。",
-      "es": "La información leída digitalmente se desvanece rápido. Si quieres fortalecer las redes lógicas, toma un bolígrafo y copia a mano por 10 minutos. Al igual que Bach dominó las complejas fugas barrocas copiando con sus manos, tu cerebro se apropiará de conocimientos difíciles a través de la copia analógica.",
-      "fr": "Les informations lues sur écran s'effacent rapidement. Si vous voulez renforcer vos circuits logiques, prenez un stylo et copiez à la main pendant 10 minutes. Tout comme Bach maîtrisait les fugues baroques en recopiant de ses mains, votre cerveau s'appropriera les connaissances complexes par l'écriture manuelle.",
-      "de": "Informationen, die nur am Bildschirm gelesen werden, verschwinden schnell. Wenn Sie logische Netzwerke stärken wollen, schreiben Sie 10 Minuten handschriftlich. So wie Bach komplexe Fugen abschrieb, verinnerlicht Ihr Gehirn schwieriges Wissen am besten durch analoges Schreiben.",
-      "pt": "A informação lida digitalmente desaparece rapidamente. Se quiser fortalecer as redes lógicas, pegue numa caneta e copie à mão por 10 minutos. Tal como Bach dominou as complexas fugas barrocas ao copiar com as suas mãos, o seu cérebro apropriar-se-á de conhecimentos difíceis através da cópia analógica.",
-      "id": "Informasi yang dibaca dengan mata & disalin dengan mouse cepat hilang. Jika Anda ingin memperkuat jaringan otak logis, ambil pena & salin dengan tangan selama 10 menit saja. Seperti Bach menguasai rumus musik Barok dengan menyalin dengan tangannya, otak Anda akan sepenuhnya memiliki pengetahuan yang sulit melalui penyalinan analog."
-    },
     "faqs": [
       {
         "question": {
-          "ko": "타이핑을 치는 타자 필사도 효과가 있나요?",
-          "en": "Does typing transcription have the same effect?",
-          "ja": "タイピングによる書き写しも効果がありますか？",
-          "zh": "用键盘敲击的打字抄写也有效果吗？",
-          "es": "¿La transcripción mecanografiada tiene el mismo efecto?",
-          "fr": "La copie au clavier a-t-elle le mesmo effet ?",
-          "de": "Hat das Abtippen denselben Effekt?",
-          "pt": "A transcrição digitada tem o mesmo efeito?",
-          "id": "Apakah transkripsi mengetik memiliki efek yang sama?"
+          "ko": "타이핑을 치는 타자 필사도 효과가 있나요?"
         },
         "answer": {
-          "ko": "타이핑은 모든 글자에 대해 동일하게 버튼을 누르는 단순 동작의 반복이므로, 글자의 궤적을 손으로 그리고 펜 끝 압력을 조절하는 아날로그 손필사에 비해 두정엽 논리 영역의 자극도가 매우 낮습니다.",
-          "en": "Typing consists of repeating the same keypress for all letters, which results in much lower stimulation of the parietal logical areas compared to analog hand-writing that draws character paths and adjusts pen pressure.",
-          "ja": "タイピングはすべての文字に対して同じボタンを押す単純動作の繰り返しであるため、文字の軌道を指先で描き、ペンの圧力を調節するアナログな手書きに比べて、頭頂葉の論理領域への刺激度は非常に低いです。",
-          "zh": "打字是对所有字符重复按下相同按键的简单动作，因此与用手画出字符轨迹并调节笔尖压力的模拟手写相比，对顶叶逻辑区域的刺激程度非常低。",
-          "es": "Mecanografiar consiste en repetir la misma pulsación de tecla para todas las letras, lo que resulta en una estimulación del lóbulo parietal mucho menor en comparación con escribir a mano.",
-          "fr": "Saisir au clavier consiste à répéter la même frappe, ce qui stimule beaucoup moins le lobe pariétal que l'écriture manuscrite qui dessine les lettres et ajuste la pression.",
-          "de": "Tippen ist ein einfacher, immer gleicher Tastendruck, weshalb die Stimulation des Scheitellappens im Vergleich zum analogen Schreiben, bei dem Striche gezogen und Druck angepasst werden, sehr gering ist.",
-          "pt": "Digitar consiste em repetir a mesma pressão de tecla para todas as letras, o que resulta numa estimulação do lóbulo parietal muito menor em comparação com escrever à mão.",
-          "id": "Mengetik terdiri dari menekan tombol yang sama untuk semua huruf, yang menghasilkan stimulasi lobus parietal yang jauh lebih rendah dibandingkan dengan tulisan tangan analog yang menggambar jalur karakter & menyesuaikan tekanan pena."
+          "ko": "타이핑은 모든 글자에 대해 동일하게 버튼을 누르는 단순 동작의 반복이므로, 글자의 궤적을 손으로 그리고 펜 끝 압력을 조절하는 아날로그 손필사에 비해 두정엽 논리 영역의 자극도가 매우 낮습니다."
         }
       }
-    ],
-    "pubDate": "2026-06-19",
-    "updatedDate": "2026-06-19"
+    ]
   }
 }

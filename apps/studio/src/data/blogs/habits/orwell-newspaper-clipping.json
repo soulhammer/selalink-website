@@ -1,223 +1,72 @@
 {
   "orwell-newspaper-clipping": {
     "title": {
-      "ko": "매일 아침 뉴스를 가위로 자른 소설가? 조지 오웰의 지식 스키마 빌딩법",
-      "en": "The Novelist Who Cut the News Every Morning with Scissors? George Orwell's Knowledge Schema Building",
-      "ja": "毎朝新聞をハサミで切り抜いた小説家？ジョージ・オーウェルの知識スキーマ構築法",
-      "zh": "每天清晨用剪刀裁剪新闻的小说家？乔治·奥威尔的知识图式构建法",
-      "es": "¿El novelista que recortaba las noticias con tijeras cada mañana? El método de construcción de esquemas de conocimiento de George Orwell",
-      "fr": "Le romancier qui découpait les journaux aux ciseaux chaque matin ? La méthode de structuration des connaissances de George Orwell",
-      "de": "Der Schriftsteller, der jeden Morgen Zeitungen ausschnitt? George Orwells Methode zur Wissensstrukturierung",
-      "pt": "O romancista que recortava jornais com tesoura todas as manhãs? O método de construção de esquemas de conhecimento de George Orwell",
-      "id": "Novelis yang Menggunting Berita Setiap Pagi? Metode Membangun Skema Pengetahuan George Orwell"
+      "ko": "매일 아침 뉴스를 가위로 자른 소설가? 조지 오웰의 지식 스키마 빌딩법"
     },
     "description": {
-      "ko": "소설가 조지 오웰은 매일 아침 여러 신문을 탐독하고 기사를 직접 가위로 잘라 스크랩북에 분류해 모았습니다. 정보를 유기적인 스키마로 구축하는 전두엽 강화 원리와 현대적 디지털 스크랩 루틴을 제안합니다.",
-      "en": "Novelist George Orwell read newspapers every morning and clipped articles with scissors to organize them. Learn how this builds a cognitive schema to strengthen the frontal lobe.",
-      "ja": "小説家ジョージ・オーウェルは、毎朝複数の新聞を熟読し、記事を自らハサミで切り抜いてスクラップブックに分類しました。情報を有機的なスキーマへと構築する前頭葉強化の原理と、現代的なデジタルスクラップルーティンを提案します。",
-      "zh": "小说家乔治·奥威尔每天清晨通读多份报纸，并亲自用剪刀裁剪文章整理。介绍将信息构建为有机图式的前额叶强化原理，并推荐现代数字化剪报惯例。",
-      "es": "El novelista George Orwell leía varios periódicos cada mañana y recortaba artículos con tijeras. Conozca cómo esto construye un esquema cognitivo que fortalece el lóbulo frontal.",
-      "fr": "Le romancier George Orwell lisait la presse chaque matin et découpait les articles aux ciseaux. Découvrez comment cette habitude structure un schéma cognitif solide au niveau du lobe frontal.",
-      "de": "Der Schriftsteller George Orwell las jeden Morgen Zeitungen und schnitt Artikel aus. Erfahren Sie, wie dieses Vorgehen Wissensstrukturen aufbaut und das Frontalhirn stärkt.",
-      "pt": "O romancista George Orwell lia vários jornais todas as manhãs e recortava artigos com tesoura para organizá-los. Saiba como isso constrói um esquema cognitivo que fortalece o lobo frontal.",
-      "id": "Novelis George Orwell membaca surat kabar setiap pagi dan menggunting artikel dengan gunting untuk mengaturnya. Temukan bagaimana hal ini membangun skema kognitif untuk memperkuat lobus frontal."
+      "ko": "소설가 조지 오웰은 매일 아침 여러 신문을 탐독하고 기사를 직접 가위로 잘라 스크랩북에 분류해 모았습니다. 정보를 유기적인 스키마로 구축하는 전두엽 강화 원리와 현대적 디지털 스크랩 루틴을 제안합니다."
     },
     "authority": {
-      "ko": "버나드 크릭의 '조지 오웰 전기' 및 인지신경학(Journal of Cognitive Neuroscience) 학술지",
-      "en": "Bernard Crick's 'George Orwell: A Life' & 'Journal of Cognitive Neuroscience'",
-      "ja": "バーナード・クリック「ジョージ・オーウェル評伝」および学術誌「Journal of Cognitive Neuroscience」",
-      "zh": "克里克《乔治·奥威尔传》与《认知神经科学(Journal of Cognitive Neuroscience)》期刊",
-      "es": "George Orwell: A Life de Bernard Crick y Journal of Cognitive Neuroscience",
-      "fr": "George Orwell: A Life de Bernard Crick & revue Journal of Cognitive Neuroscience",
-      "de": "Bernard Cricks 'George Orwell: A Life' & Fachzeitschrift Journal of Cognitive Neuroscience",
-      "pt": "George Orwell: A Life de Bernard Crick & revista Journal of Cognitive Neuroscience",
-      "id": "George Orwell: A Life oleh Bernard Crick & Jurnal 'Journal of Cognitive Neuroscience'"
+      "ko": "조지 오웰 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "'1984'와 '동물농장'을 통해 인간 권력의 본질과 독재의 위험성을 날카롭게 경고했던 20세기 영문학의 거장, 조지 오웰. 복잡한 정치적 지형 속에서 그가 가졌던 선견지명과 냉철한 분석적 문장들은 과연 어떻게 매일 유지될 수 있었을까요? 📰\n\n조지 오웰은 매일 아침 일찍 눈을 떠 서재 책상에 앉자마자 그날 발행된 신문들을 잔뜩 쌓아두고 탐독하는 것으로 하루를 시작했습니다. 그는 독서용 가위를 손에 들고 기사들을 꼼꼼히 읽어내려갔습니다. 그리고는 나중에 논증의 근거로 삼거나 영감을 줄 수 있는 구체적인 팩트, 기이한 정치적 현상, 날카로운 문장들을 직접 가위로 잘라내어 자신만의 커다란 스크랩북에 날짜별, 카테고리별로 단정하게 분류하여 붙였습니다. 이 수작업 스크랩북은 그의 뇌를 다차원적으로 훈련하는 최고의 지식 훈련 도구였습니다. 그가 소설 속 디스토피아적 통제 메커니즘을 창조해 낸 기초가 모두 이 가위질에서 비롯되었던 것입니다.\n\n오늘 BuildSelf에서는 조지 오웰의 '가위질 스크랩' 루틴의 인지신경학적 작동 원리와 현대인들이 디지털 정보 과부하 속에서 이를 어떻게 뇌 영양분으로 활용할 수 있는지에 대해 설명합니다.",
-      "en": "George Orwell, a giant of 20th-century English literature who sharply warned of the nature of human power and the dangers of dictatorship through '1984' and 'Animal Farm.' How were his foresight and cool analytical sentences maintained every day? 📰\n\nOrwell started his day by waking up early every morning, sitting at his writing desk, and reading a pile of newspapers published that day. With scissors in hand, he carefully read through the articles. He then cut out specific facts, strange political phenomena, or sharp sentences that could be used as evidence for his arguments or give him inspiration, and pasted them neatly in his large scrapbook by date and category. This manual scrapbook was the best knowledge training tool that trained his brain in a multidimensional way. The basis of his dystopian control mechanisms created in his novels all originated from this clipping.\n\nToday, BuildSelf explains the cognitive neurological working principles of Orwell's 'scissors clipping' routine and how modern people can use it as brain nutrients in the midst of digital information overload.",
-      "ja": "「1984年」や「動物農場」を通じて、権力の人間的本質と独裁の危険性を鋭く警告した20世紀英文学の巨匠、ジョージ・オーウェル。複雑な政治情勢の中で彼が持ち得た先見の明と冷静な分析的記述は、いかにして毎日維持されたのでしょうか？ 📰\n\nジョージ・オーウェルは毎朝早く起き、書斎の机に座ると同時に、その日に発行された何紙もの新聞を山積みにし、熟読することから一日を始めました。彼は読書用のハサミを手に持ち、記事を注意深く読み進めました。そして、後に自分の論証の根拠としたり、インスピレーションを与えてくれる具体的な事実、奇妙な政治現象、鋭い文章を自らハサミで切り抜き、専用の大きなスクラップブックに日付別・カテゴリー別に綺麗に分類して貼り付けました。この手作業のスクラップブックは、彼の脳を多角的に訓練する最高の知識トレーニングツールだったのです。彼が小説の中でディストピア的支配のメカニズムを創造した基礎は、すべてこの切り抜き作業から生まれました。\n\n今日のBuildSelfでは、ジョージ・オーウェルの「ハサミでの切り抜き」ルーティンの認知神経学的メカニズムと、現代人がデジタルの情報過多の中でこれをいかにして脳の栄養分として活用できるかについて説明します。",
-      "zh": "在这一历史性惯例的实践中：'1984' '' 20 , . ? 📰 在这一历史性惯例的实践中： . . , , , . . . 在这一历史性惯例的实践中： BuildSelf ' ' .",
-      "es": "George Orwell, gigante de la literatura inglesa del siglo XX que advirtió con lucidez sobre el poder humano y la dictadura en '1984' y 'Rebelión en la granja'. ¿Cómo lograba mantener esa visión de futuro y esa prosa analítica fría todos los días? 📰\n\nOrwell comenzaba el día temprano, sentándose al escritorio a devorar una pila de periódicos del día. Con tijeras en mano, leía con atención y recortaba datos concretos, hechos extraños o frases memorables para usarlos de base en sus argumentos o buscar inspiración, pegándolos por categorías en un gran cuaderno. Este archivador manual fue su mejor gimnasia cerebral. El origen del control distópico de sus obras nació de este simple ejercicio con tijeras.\n\nHoy, BuildSelf expone la neurobiología del hábito de 'recortes con tijera' de Orwell y cómo las personas modernas pueden usarlo para digerir la avalancha de información digital.",
-      "fr": "George Orwell, monument de la littérature anglaise du XXe siècle qui a dénoncé la nature du pouvoir et les dérives totalitaires dans '1984' et 'La Ferme des animaux'. Comment parvenait-il à nourrir quotidiennement sa lucidité politique et son style d'analyse si incisif ? 📰\n\nOrwell commençait sa journée très tôt en lisant la pile de journaux du jour empilée sur son bureau. Ciseaux en main, il parcourait les colonnes et découpait les faits précis, les anecdotes et les déclarations marquantes pour alimenter ses arguments futurs, avant de les classer méthodiquement dans un cahier. Ce travail de découpage manuel était le meilleur outil d'entraînement de son cerveau. La matière de sa critique sociale est née de ces colonnes de presse découpées.\n\nAujourd'hui, BuildSelf analyse les mécanismes d'ancrage cognitif liés à cette routine de découpage et propose une adaptation numérique pour transformer le flux d'informations actuel en carburant créatif.",
-      "de": "George Orwell, der Autor von '1984' und 'Farm der Tiere', der hellsichtig vor totalitärer Macht und Diktatur warnte. Wie gelang es ihm, seine scharfe Beobachtungsgabe und analytische Sprache täglich aufrechtzuerhalten? 📰\n\nOrwell begann seinen Tag früh am Schreibtisch mit einem Stapel Tageszeitungen. Mit einer Schere in der Hand las er die Artikel genau. Er schnitt Fakten, politische Phänomene oder prägnante Sätze aus, die ihm als Belege oder Inspiration dienten, und klebte sie sortiert nach Datum und Kategorie in ein großes Einklebebuch. Dieses Buch war sein bestes Werkzeug zum Gehirntraining. Die Dystopien seiner Romane basieren auf diesen Zeitungsschnipseln.\n\nHeute erklärt BuildSelf die kognitiven Mechanismen von Orwells Scheren-Routine und zeigt, wie moderne Menschen sie im digitalen Zeitalter als Gehirnnahrung nutzen können.",
-      "pt": "George Orwell, gigante da literatura inglesa do século XX que alertou sobre a essência do poder em '1984' e 'A Revolução dos Bichos'. Como ele mantinha sua previsão analítica todos os dias? 📰\n\nOrwell acordava cedo e começava o dia devorando uma pilha de jornais diários. Com uma tesoura nas mãos, lia com atenção e recortava fatos específicos, fenômenos políticos ou frases afiadas para servirem de argumento ou inspiração, colando em um álbum por datas e categorias. Este arquivo manual foi sua melhor ginástica mental. A base do controle distópico de suas obras nasceu deste hábito com tesouras.\n\nHoje, o BuildSelf explica os princípios cognitivos da rotina de 'recortes' de Orwell e como usá-la hoje para metabolizar o excesso de informações digitais.",
-      "id": "George Orwell, raksasa sastra Inggris abad ke-20 yang dengan tajam memperingatkan sifat kekuasaan manusia dan bahaya kediktatoran melalui '1984' dan 'Animal Farm.' Bagaimana pandangan ke depan dan kalimat analitisnya yang dingin dipertahankan setiap hari? 📰\n\nOrwell memulai harinya dengan bangun pagi-pagi, duduk di meja tulisnya, dan membaca tumpukan surat kabar yang diterbitkan hari itu. Dengan gunting di tangan, dia membaca artikel dengan cermat. Dia kemudian memotong fakta spesifik, fenomena politik yang aneh, atau kalimat tajam yang dapat digunakan sebagai bukti argumennya, dan menempelkannya dengan rapi di buku kliping besarnya. Kliping manual ini adalah alat pelatihan pengetahuan terbaik. Dasar dari mekanisme kontrol distopia dalam novel-novelnya semuanya berasal dari kliping ini.\n\nHari ini, BuildSelf menjelaskan prinsip kerja neurologis kognitif dari rutinitas 'kliping gunting' Orwell dan bagaimana manusia modern dapat menggunakannya sebagai nutrisi otak di tengah kelebihan informasi digital."
+      "ko": "'1984'와 '동물농장'을 통해 인간 권력의 본질과 독재의 위험성을 날카롭게 경고했던 20세기 영문학의 거장, 조지 오웰. 복잡한 정치적 지형 속에서 그가 가졌던 선견지명과 냉철한 분석적 문장들은 과연 어떻게 매일 유지될 수 있었을까요? 📰\n\n조지 오웰은 매일 아침 일찍 눈을 떠 서재 책상에 앉자마자 그날 발행된 신문들을 잔뜩 쌓아두고 탐독하는 것으로 하루를 시작했습니다. 그는 독서용 가위를 손에 들고 기사들을 꼼꼼히 읽어내려갔습니다. 그리고는 나중에 논증의 근거로 삼거나 영감을 줄 수 있는 구체적인 팩트, 기이한 정치적 현상, 날카로운 문장들을 직접 가위로 잘라내어 자신만의 커다란 스크랩북에 날짜별, 카테고리별로 단정하게 분류하여 붙였습니다. 이 수작업 스크랩북은 그의 뇌를 다차원적으로 훈련하는 최고의 지식 훈련 도구였습니다. 그가 소설 속 디스토피아적 통제 메커니즘을 창조해 낸 기초가 모두 이 가위질에서 비롯되었던 것입니다.\n\n오늘 포스트에서는 조지 오웰의 '가위질 스크랩' 루틴의 인지신경학적 작동 원리와 현대인들이 디지털 정보 과부하 속에서 이를 어떻게 뇌 영양분으로 활용할 수 있는지에 대해 설명합니다."
     },
     "whyTitle": {
-      "ko": "정보 부호화 및 스키마의 뇌 과학",
-      "en": "Brain Science of Information Encoding and Schema",
-      "ja": "情報符号化とスキーマの脳科学",
-      "zh": "信息编码与图式的脑科学",
-      "es": "Neurociencia de la Codificación de Información y Esquemas",
-      "fr": "Neurosciences de l'Encodage et des Schémas Cognitifs",
-      "de": "Neurowissenschaft der Codierung und Strukturierung",
-      "pt": "Neurobiologia da Codificação de Informações e Esquemas",
-      "id": "Sains Otak dari Pengodean Informasi dan Skema"
+      "ko": "정보 부호화 및 스키마의 뇌 과학"
     },
     "whyDesc": {
-      "ko": "수많은 디지털 기사를 단순히 눈으로만 훑고 지나가면 뇌의 일시 보관소인 단기 기억에 잠시 머물다 대부분 소멸합니다. 반면, 기사를 직접 선택하여 '잘라내고(물리적/디지털적 액션)' 범주화해 정리하는 행동은 뇌의 <strong>'깊은 부호화(Deep Encoding)'</strong> 처리를 유도합니다. \n\n이러한 정보 구조화 작업은 정보를 대뇌 피질의 장기 저장소에 정착시킬 뿐 아니라, 기존 지식체계와 결합하는 <strong>'스키마(Schema) 네트워크'</strong>를 형성합니다. 스키마가 발달한 뇌는 새로운 정보를 접했을 때 맥락을 더 빠르게 파악하고 문제의 핵심을 짚어내며, 글쓰기나 의사결정을 할 때 필요한 배경지식을 최적의 속도로 인출(Recall)하는 높은 유동적 지능을 발휘하게 됩니다.",
-      "en": "Scanning countless digital articles simply with your eyes only temporarily keeps them in short-term memory, the brain's temporary storage, before most are forgotten. Conversely, the act of selecting, 'clipping' (physical or digital action), and categorizing articles induces the brain's <strong>'deep encoding'</strong> processing.\n\nThis information structuring work not only deposits information into the long-term memory in the cerebral cortex but also forms a <strong>'schema network'</strong> that integrates with existing knowledge systems. A brain with a highly developed schema quickly grasps the context of new information, pinpoints the core of a problem, and displays high fluid intelligence that recalls background knowledge at optimal speeds when writing or making decisions.",
-      "ja": "数多くのデジタル記事を目だけでスクロールして通り過ぎると、脳の一時的な保管庫である短期記憶に少しの間留まるだけで、その大半は消滅します。一方、記事を能動的に選択して「切り抜き（物理的・デジタル的アクション）」、カテゴリー化して整理する行動は、脳の<strong>「深い符号化（Deep Encoding）」</strong>処理を促します。\n\nこのような情報の構造化作業は、情報を大脳皮質の長期記憶領域に定着させるだけでなく、既存の知識体系と結合する<strong>「スキーマ（Schema）ネットワーク」</strong>を形成します。スキーマの発達した脳は、新しい情報に触れた際により迅速に文脈を把握して問題の核心を突き、執筆や意思決定を行う際に必要な背景知識を最適な速度で取り出す（Recall）高度な流動性知能を発揮します。",
-      "zh": "如果只是用眼睛扫视无数的数字文章，信息仅会在大脑的临时存储库——短期记忆中停留片刻，随后大多会消逝。相反，亲自选择并进行“剪裁（物理或数字行动）”、分类整理的行为，能诱导大脑进行<strong>“深度编码(Deep Encoding)”</strong>处理。\n\n这种信息结构化工作不仅能将信息沉淀在大脑皮层的长期储存库中，还能形成与现有知识体系相结合的<strong>“图式(Schema)网络”</strong>。拥有发达图式网络的大脑在接触新信息时能更快掌握脉络，切中问题核心，并在写作或决策时发挥以最佳速度提取(Recall)背景知识的高超流动智力。",
-      "es": "Navegar por periódicos de forma pasiva hace que la información se guarde en la memoria a corto plazo y luego se borre. En cambio, elegir, recortar (acción manual) y etiquetar la información produce una <strong>'codificación profunda (Deep Encoding)'</strong>.\n\nEste proceso de clasificar la información la archiva en la memoria a largo plazo de la corteza cerebral, creando una <strong>'red de esquemas'</strong> que se une a lo ya aprendido. Un cerebro con esquemas sólidos capta el contexto más rápido, va al meollo de los problemas y recupera el conocimiento al instante al escribir o decidir.",
-      "fr": "Parcourir passivement des flux d'actualités ne sollicite que la mémoire à court terme, et les informations s'effacent rapidement. Au contraire, sélectionner un article, le 'découper' (par une action manuelle ou numérique) et le catégoriser déclenche un processus d'<strong>'encodage profond (Deep Encoding)'</strong>.\n\nCe travail de structuration permet de consolider l'information dans la mémoire à long terme et de l'intégrer au sein d'un <strong>'réseau de schémas cognitifs'</strong>. Un cerveau doté de ces schémas saisit plus vite le contexte, cerne le cœur des problèmes et mobilise instantanément les connaissances utiles lors d'une rédaction ou d'un choix stratégique.",
-      "de": "Das bloße Überfliegen digitaler Nachrichten verbleibt nur kurz im Kurzzeitgedächtnis und verfliegt meist schnell. Dagegen fördert das bewusste Auswählen, Ausschneiden (physisch oder digital) und Kategorisieren eine <strong>'tiefere Codierung (Deep Encoding)'</strong> im Gehirn.\n\nDiese Strukturierung verankert Wissen im Langzeitgedächtnis der Großhirnrinde und baut ein <strong>'Strukturnetzwerk (Schema)'</strong> mit vorhandenem Wissen auf. Ein so trainiertes Gehirn erfasst neue Zusammenhänge schneller, erkennt den Kern von Problemen und kann Hintergrundwissen bei Entscheidungen oder beim Schreiben optimal abrufen.",
-      "pt": "Passar os olhos por notícias na internet apenas retém a informação por instantes na memória de curto prazo. Pelo contrário, o ato de selecionar, recortar (seja físico ou digital) e categorizar induz o cérebro a uma <strong>'codificação profunda (Deep Encoding)'</strong>.\n\nEssa estruturação arquiva as informações na memória de longo prazo e cria uma <strong>'rede de esquemas'</strong> interligada ao conhecimento prévio. Um cérebro com esquemas desenvolvidos compreende o contexto com muito mais rapidez, sintetiza problemas e recupera o conhecimento ao escrever ou tomar decisões.",
-      "id": "Membaca sekilas artikel digital hanya menyimpannya di memori jangka pendek sebelum terlupakan. Sebaliknya, tindakan memilih, 'mengkliping' (tindakan fisik atau digital), dan mengelompokkan artikel memicu proses <strong>'pengodean mendalam (Deep Encoding)'</strong>.\n\nStrukturasi ini tidak hanya menyimpan informasi ke memori jangka panjang tetapi juga membentuk <strong>'jaringan skema'</strong> yang berintegrasi dengan sistem pengetahuan yang ada. Otak dengan skema yang berkembang cepat memahami konteks informasi baru dan memanggil pengetahuan saat menulis atau membuat keputusan."
+      "ko": "수많은 디지털 기사를 단순히 눈으로만 훑고 지나가면 뇌의 일시 보관소인 단기 기억에 잠시 머물다 대부분 소멸합니다. 반면, 기사를 직접 선택하여 '잘라내고(물리적/디지털적 액션)' 범주화해 정리하는 행동은 뇌의 <strong>'깊은 부호화(Deep Encoding)'</strong> 처리를 유도합니다. \n\n이러한 정보 구조화 작업은 정보를 대뇌 피질의 장기 저장소에 정착시킬 뿐 아니라, 기존 지식체계와 결합하는 <strong>'스키마(Schema) 네트워크'</strong>를 형성합니다. 스키마가 발달한 뇌는 새로운 정보를 접했을 때 맥락을 더 빠르게 파악하고 문제의 핵심을 짚어내며, 글쓰기나 의사결정을 할 때 필요한 배경지식을 최적의 속도로 인출(Recall)하는 높은 유동적 지능을 발휘하게 됩니다."
     },
     "cautionTitle": {
-      "ko": "맹목적인 수집 중독의 함정",
-      "en": "The Trap of Blind Collection Addiction",
-      "ja": "盲目的な収集依存の罠",
-      "zh": "盲目收集成瘾的陷阱",
-      "es": "La Trampa de la Adicción a la Recopilación Ciega",
-      "fr": "Le Piège de l'Accumulation Compulsive d'Infos",
-      "de": "Die Falle der blinden Sammelwut",
-      "pt": "A Armadilha da Acumulação Cega de Informações",
-      "id": "Jebakan Kecanduan Mengumpulkan Informasi"
+      "ko": "맹목적인 수집 중독의 함정"
     },
     "cautionDesc": {
-      "ko": "단순히 좋은 글이나 링크를 클릭 한 번으로 저장 폴더에 넣기만 하는 것은 뇌 과학적으로 지식을 소유했다고 착각하는 '수집가의 오류(Collector's Fallacy)'에 빠지게 만듭니다. 오직 직접 요약하거나 내 언어로 한 줄 평가를 덧붙여 뇌를 인지적으로 자극할 때에만 그 정보가 나만의 진짜 지식 스키마로 소화되어 활용될 수 있습니다.",
-      "en": "Simply saving links with a single click leads to the 'Collector's Fallacy' where you mistake collecting information for owning knowledge. Information becomes your real knowledge schema only when you actively summarize it or add a one-line evaluation in your own words to cognitively stimulate the brain.",
-      "ja": "単に良い文章やリンクをワンクリックで保存フォルダに入れるだけでは、脳科学的に知識を所有したと錯覚する「収集家の誤謬（Collector's Fallacy）」に陥ることになります。自分で要約したり、自分の言葉で一言評価を付け加えて脳を認知的に刺激して初めて、その情報が自分だけの本当の知識スキーマとして昇華され、活用されます。",
-      "zh": "仅通过点击一键将好文章或链接保存到文件夹中，在脑科学上会导致陷入误以为拥有了知识的“收集者谬误(Collector's Fallacy)”。只有通过亲自总结或用自己的语言加上一句话的评价来认知性地刺激大脑，这些信息才能被消化并转化为真正的知识图式。",
-      "es": "Guardar enlaces de forma automática nos hace caer en la 'falacia del coleccionista', creyendo que por archivar información ya poseemos el conocimiento. La información se integra en su esquema mental solo si la resume o añade una nota corta con sus propias palabras.",
-      "fr": "Sauvegarder des liens en un clic mène à 'l'illusion du collectionneur', où l'on confond stockage et savoir. L'information ne devient une connaissance intégrée que si vous faites l'effort de la synthétiser ou d'ajouter une courte note avec vos propres mots.",
-      "de": "Das bloße Abspeichern von Links per Klick führt zur 'Sammler-Täuschung', bei der man das Speichern mit Verstehen verwechselt. Erst das Zusammenfassen oder Hinzufügen einer eigenen Notiz macht die Information zu echtem Wissen.",
-      "pt": "Salvar links com um clique nos faz cair na 'falácia do colecionador', acreditando que arquivar é o mesmo que saber. A informação só se integra ao seu esquema mental se você resumir ou adicionar uma breve nota com suas próprias palavras.",
-      "id": "Menyimpan tautan dengan satu klik memicu 'Kecanduan Pengumpul' di mana Anda salah mengira mengumpulkan informasi sebagai memiliki pengetahuan. Informasi menjadi skema pengetahuan Anda hanya jika Anda meringkasnya dengan kata-kata sendiri."
+      "ko": "단순히 좋은 글이나 링크를 클릭 한 번으로 저장 폴더에 넣기만 하는 것은 뇌 과학적으로 지식을 소유했다고 착각하는 '수집가의 오류(Collector's Fallacy)'에 빠지게 만듭니다. 오직 직접 요약하거나 내 언어로 한 줄 평가를 덧붙여 뇌를 인지적으로 자극할 때에만 그 정보가 나만의 진짜 지식 스키마로 소화되어 활용될 수 있습니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "마인드 스위칭: 정보 스캔 채널 정비",
-          "en": "Mind Switching: Organizing Information Scan Channels",
-          "ja": "マインドスイッチング：情報スキャンチャネルの整備",
-          "zh": "认知转换：梳理信息筛选渠道",
-          "es": "Cambio de Mentalidad: Organizar los Canales de Información",
-          "fr": "Ajustement Mental : Tri des Canaux d'Information",
-          "de": "Mentaler Wechsel: Kanäle aufräumen",
-          "pt": "Mudança de Mentalidade: Organizar os Canais de Informações",
-          "id": "Peralihan Pikiran: Mengatur Saluran Penyaring Informasi"
+          "ko": "마인드 스위칭: 정보 스캔 채널 정비"
         },
         "text": {
-          "ko": "소셜 미디어나 무작위 포털 피드 대신, 매일 아침 내가 필요로 하는 지적 영역의 전문 채널(뉴스레터, 선별 기사 등)을 고정하고 15분 동안만 핵심 정보를 심층적으로 읽습니다.",
-          "en": "Instead of social media or random portal feeds, pin professional channels in your field (newsletters, curated articles, etc.) every morning and deeply read core information for only 15 minutes.",
-          "ja": "ソーシャルメディアや無作為なポータルフィードの代わりに、毎朝自分が求める知的領域の専門チャネル（ニュースレター、選定記事など）を固定し、15分間だけ核心的な情報を深く読みます。",
-          "zh": "不浏览社交媒体或无休止的门户网站推送，每天清晨固定关注1-2个自身智力领域内的专业渠道（如订阅邮件、精选文章等），仅深读核心信息15分钟。",
-          "es": "Evite las redes sociales y las portadas de noticias generalistas. Elija boletines o fuentes de su campo de interés y lea con atención solo durante 15 minutos.",
-          "fr": "Évitez les réseaux sociaux et les flux d'actualités généralistes. Sélectionnez des newsletters ou des sources spécialisées, et lisez attentivement pendant 15 minutes.",
-          "de": "Vermeiden Sie soziale Medien oder News-Feeds. Wählen Sie gezielte Newsletter oder Fachquellen und lesen Sie fokussiert für nur 15 Minuten.",
-          "pt": "Evite redes sociais e feeds generalistas. Escolha newsletters ou fontes da sua área de interesse e leia com atenção por apenas 15 minutos.",
-          "id": "Alih-alih media sosial, tentukan saluran profesional (buletin, artikel kurasi) setiap pagi dan baca informasi inti secara mendalam selama 15 menit."
+          "ko": "소셜 미디어나 무작위 포털 피드 대신, 매일 아침 내가 필요로 하는 지적 영역의 전문 채널(뉴스레터, 선별 기사 등)을 고정하고 15분 동안만 핵심 정보를 심층적으로 읽습니다."
         }
       },
       {
         "name": {
-          "ko": "디지털 또는 물리적 가위질을 통한 스크랩",
-          "en": "Clipping via Digital or Physical Scissors",
-          "ja": "デジタルまたは物理的な切り抜きによるスクラップ",
-          "zh": "通过数字或物理裁剪进行剪报",
-          "es": "Recortar Mediante Herramientas Digitales o Físicas",
-          "fr": "Découpage Physique ou Numérique",
-          "de": "Physisches oder digitales Ausschneiden",
-          "pt": "Recortar via Ferramentas Digitais ou Físicas",
-          "id": "Kliping Melalui Gunting Digital atau Fisik"
+          "ko": "디지털 또는 물리적 가위질을 통한 스크랩"
         },
         "text": {
-          "ko": "정보를 스캔하면서 유용하다고 판단된 문장이나 데이터 단락을 도구를 활용해 캡처하거나 디지털 클립 보드, 또는 실제 스크랩북에 분류 태그를 매겨 이관합니다.",
-          "en": "While scanning information, capture sentences or data blocks deemed useful, and transfer them with classification tags to a digital clipboard or physical scrapbook.",
-          "ja": "情報をスキャンしながら、有用であると判断した文章やデータの段落をツールを使ってキャプチャし、デジタルクリップボード、または実際のスクラップブックに分類タグを付けて移します。",
-          "zh": "在阅读信息时，将判定为有用的字句或数据段落进行截图或复制，并打上分类标签归档到数字化剪贴板或物理剪报本中。",
-          "es": "Mientras lee, capture los párrafos o datos de interés y guárdelos en un portapapeles digital o archivador físico, clasificándolos con etiquetas claras.",
-          "fr": "Pendant votre lecture, capturez les paragraphes ou données d'intérêt et sauvegardez-les dans un presse-papiers numérique ou un cahier physique, en les classant avec des étiquettes.",
-          "de": "Erfassen Sie wichtige Textpassagen oder Daten und übertragen Sie diese sortiert nach Schlagworten in eine App oder ein Notizbuch.",
-          "pt": "Enquanto lê, capture os parágrafos ou dados de interesse e guarde em uma ferramenta digital ou pasta física, classificando com marcadores claros.",
-          "id": "Saat membaca informasi, tangkap kalimat atau data yang dianggap berguna, lalu pindahkan dengan tag klasifikasi ke clipboard digital atau buku kliping."
+          "ko": "정보를 스캔하면서 유용하다고 판단된 문장이나 데이터 단락을 도구를 활용해 캡처하거나 디지털 클립 보드, 또는 실제 스크랩북에 분류 태그를 매겨 이관합니다."
         }
       },
       {
         "name": {
-          "ko": "인지 소화: 내 언어로 한 줄 내재화 기록",
-          "en": "Cognitive Digestion: Writing a One-Line Internalization in Your Own Words",
-          "ja": "認知的消化：自分の言葉による一行の内在化記録",
-          "zh": "认知消化：用自己的话写下一句内化记录",
-          "es": "Digestión Cognitiva: Nota de Interiorización con Sus Propias Palabras",
-          "fr": "Digestion Cognitive : Reformulation en une Ligne",
-          "de": "Kognitive Verarbeitung: Eine Zeile mit eigenen Worten",
-          "pt": "Digestão Cognitiva: Nota de Interiorização com Suas Próprias Palavras",
-          "id": "Pencernaan Kognitif: Menulis Satu Kalimat Internalisasi dengan Kata-Kata Sendiri"
+          "ko": "인지 소화: 내 언어로 한 줄 내재화 기록"
         },
         "text": {
-          "ko": "스크랩한 정보 바로 밑에 '왜 수집했는지'와 '어떻게 기획이나 일상에 쓸 것인지'를 단 한 문장(약 30자)으로 요약하여 직접 적습니다. 이 행동이 뇌의 부호화를 완료합니다.",
-          "en": "Right below the clipped information, summarize 'why you collected it' and 'how you will apply it to work or life' in just one sentence (about 30 characters). This action completes the brain's encoding.",
-          "ja": "スクラップした情報のすぐ下に、「なぜ収集したのか」と「どのように企画や日常に活かすのか」をたった一文（約30文字）で要約して直接書き込みます。この行動が脳の符号化を完結させます。",
-          "zh": "在剪报下方，用一句话（约30字）简明地写下“为什么要收集”以及“将如何应用到策划或日常中”。这一举动将完成大脑对信息的编码。",
-          "es": "Justo debajo de cada recorte, escriba en una frase corta (de unas 15 a 20 palabras) por qué lo guardó y cómo lo aplicará. Este paso completa la codificación en el cerebro.",
-          "fr": "Sous chaque note, résumez en une phrase courte pourquoi vous l'avez gardée et comment vous allez l'appliquer. C'est cette étape qui finalise l'encodage cérébral.",
-          "de": "Schreiben Sie unter jede Notiz in einem Satz auf, warum Sie diese gesichert haben und wie Sie sie nutzen wollen. Dieser Schritt schließt die Codierung im Gehirn ab.",
-          "pt": "Logo abaixo de cada recorte, escreva em uma frase curta por que você o guardou e como planeja aplicar. Esse passo finaliza a codificação no cérebro.",
-          "id": "Tepat di bawah informasi kliping, ringkas 'mengapa Anda mengumpulkannya' dan 'bagaimana Anda akan menerapkannya' dalam satu kalimat saja. Tindakan ini menyelesaikan pengodean otak."
+          "ko": "스크랩한 정보 바로 밑에 '왜 수집했는지'와 '어떻게 기획이나 일상에 쓸 것인지'를 단 한 문장(약 30자)으로 요약하여 직접 적습니다. 이 행동이 뇌의 부호화를 완료합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "조지 오웰의 스크랩북이 실제로 보관되어 있나요?",
-          "en": "Is George Orwell's scrapbook actually preserved?",
-          "ja": "ジョージ・オーウェルのスクラップブックは実際に保管されていますか？",
-          "zh": "乔治·奥威尔的剪报本现在还保存着吗？",
-          "es": "¿Se conserva el cuaderno de recortes de George Orwell?",
-          "fr": "Le cahier de recortes de George Orwell est-il conservé ?",
-          "de": "Ist George Orwells Einklebebuch heute noch erhalten?",
-          "pt": "O álbum de recortes de George Orwell ainda existe?",
-          "id": "Apakah buku kliping George Orwell benar-benar dilestarikan?"
+          "ko": "조지 오웰의 스크랩북이 실제로 보관되어 있나요?"
         },
         "answer": {
-          "ko": "네, 조지 오웰이 수집한 기사들과 가위로 자른 스크랩북의 사본 및 그의 작업 관련 메모들은 런던 유니버시티 칼리지(UCL)의 조지 오웰 아카이브에 역사적 귀중 사료로 보존되어 있습니다.",
-          "en": "Yes, copies of the articles collected by George Orwell and his clipped scrapbooks, along with notes related to his work, are preserved as historically valuable materials in the George Orwell Archive at University College London (UCL).",
-          "ja": "はい、ジョージ・オーウェルが収集した記事やハサミで切り抜いたスクラップブックの写し、および創作活動に関連するメモは、ロンドン大学ユニバーシティ・カレッジ（UCL）のジョージ・オーウェル・アーカイブに歴史的に貴重な資料として保管されています。",
-          "zh": "是的，乔治·奥威尔收集的文章、裁剪的剪报本复印件以及他与创作相关的笔记，都作为珍贵的历史史料保存在伦敦大学学院(UCL)的乔治·奥威尔档案馆中。",
-          "es": "Sí, copias de los recortes de prensa de George Orwell y sus notas de trabajo se conservan como valioso material histórico en el Archivo de George Orwell en el University College de Londres (UCL).",
-          "fr": "Oui, les originaux et copies des découpages de presse de George Orwell, ainsi que ses notes de travail, sont conservés comme pièces historiques précieuses aux Archives George Orwell de l'University College de Londres (UCL).",
-          "de": "Ja, Kopien von Orwells Zeitungsausschnitten und Einklebebüchern sowie Arbeitsnotizen werden im George-Orwell-Archiv des University College London (UCL) als historische Dokumente aufbewahrt.",
-          "pt": "Sim, cópias dos recortes de imprensa de George Orwell e suas notas de trabalho estão preservadas como valioso material histórico no Arquivo George Orwell da University College London (UCL).",
-          "id": "Ya, salinan artikel yang dikumpulkan oleh George Orwell dan buku klipingnya, disimpan di Arsip George Orwell di University College London (UCL)."
+          "ko": "네, 조지 오웰이 수집한 기사들과 가위로 자른 스크랩북의 사본 및 그의 작업 관련 메모들은 런던 유니버시티 칼리지(UCL)의 조지 오웰 아카이브에 역사적 귀중 사료로 보존되어 있습니다."
         }
       },
       {
         "question": {
-          "ko": "디지털로 이 스크랩 루틴을 수행하려면 어떤 앱을 추천하나요?",
-          "en": "What apps do you recommend to perform this scrap routine digitally?",
-          "ja": "デジタルでこのスクラップルーティンを行うには、どのアプリがおすすめですか？",
-          "zh": "如果想数字化践行该剪报惯例，推荐什么应用程序？",
-          "es": "¿Qué aplicaciones recomienda para seguir esta rutina de forma digital?",
-          "fr": "Quelles applications recommandez-vous pour numériser cette routine ?",
-          "de": "Welche Apps werden für das digitale Strukturieren empfohlen?",
-          "pt": "Quais aplicativos são recomendados para seguir esta rotina digitalmente?",
-          "id": "Aplikasi apa yang Anda rekomendasikan untuk melakukan rutinitas kliping ini secara digital?"
+          "ko": "디지털로 이 스크랩 루틴을 수행하려면 어떤 앱을 추천하나요?"
         },
         "answer": {
-          "ko": "텍스트의 캡처와 하이라이트가 간편하고 개인 의견 메모 추가가 즉각적으로 가능한 Notion(노션), Obsidian(옵시디언), Evernote(에버노트), 혹은 웹 스크랩 전용 앱인 Pocket(포켓)과 Raindrop.io를 추천합니다.",
-          "en": "We recommend Notion, Obsidian, and Evernote, which allow easy capture and highlighting of text and immediate adding of personal opinion notes, or Pocket and Raindrop.io, which are dedicated web scraping apps.",
-          "ja": "テキストのキャプチャやハイライトが簡単で、個人用の意見メモを即座に追加できるNotion（ノーション）、Obsidian（オブシディアン）、Evernote（エバーノート）、またはウェブスクラップ専用アプリのPocket（ポケット）やRaindrop.ioをおすすめします。",
-          "zh": "推荐 Notion、Obsidian（黑曜石）和 Evernote（印象笔记），这些应用方便截取和高亮文本，并能快速添加个人观点笔记；也可以使用网页裁剪专用应用 Pocket 和 Raindrop.io。",
-          "es": "Recomendamos Notion, Obsidian o Evernote, que facilitan capturar texto y añadir notas de opinión inmediatas; o aplicaciones dedicadas a guardar enlaces web como Pocket o Raindrop.io.",
-          "fr": "Nous conseillons Notion, Obsidian ou Evernote, qui permettent de capturer facilement le texte et d'ajouter une note ; ou des applications de sauvegarde comme Pocket ou Raindrop.io.",
-          "de": "Wir empfehlen Notion, Obsidian oder Evernote, da sie das Erfassen von Texten und Hinzufügen eigener Gedanken erleichtern, oder Lesezeichen-Apps wie Pocket und Raindrop.io.",
-          "pt": "Recomendamos Notion, Obsidian ou Evernote, que facilitam capturar texto e adicionar comentários imediatos, ou ferramentas dedicadas a salvar links como Pocket ou Raindrop.io.",
-          "id": "Kami merekomendasikan Notion, Obsidian, dan Evernote, yang memungkinkan pengambilan teks dan penyorotan yang mudah serta penambahan catatan pendapat pribadi, atau Pocket dan Raindrop.io."
+          "ko": "텍스트의 캡처와 하이라이트가 간편하고 개인 의견 메모 추가가 즉각적으로 가능한 Notion(노션), Obsidian(옵시디언), Evernote(에버노트), 혹은 웹 스크랩 전용 앱인 Pocket(포켓)과 Raindrop.io를 추천합니다."
         }
       }
-    ],
-    "stepImages": [
-      "",
-      "",
-      ""
-    ],
-    "pubDate": "2026-03-13",
-    "updatedDate": "2026-03-13"
+    ]
   }
 }

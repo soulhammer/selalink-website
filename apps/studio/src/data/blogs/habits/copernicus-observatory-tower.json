@@ -1,190 +1,62 @@
 {
   "copernicus-observatory-tower": {
     "title": {
-      "ko": "흔들리지 않는 관측 탑: 코페르니쿠스의 장소 고정 집중법",
-      "en": "Unshakable Observatory Tower: Copernicus's Fixed-Location Focus Method",
-      "ja": "揺るぎない観測塔：コペルニクスの場所固定集中法",
-      "zh": "动摇不改的观测塔：哥白尼的空间固定专注法",
-      "es": "Torre de observación inquebrantable: El método de enfoque de ubicación fija de Copérnico",
-      "fr": "Tour d'observation inébranlable : La méthode de concentration par lieu fixe de Copernic",
-      "de": "Der unerschütterliche Beobachtungsturm: Copernicus' Methode der räumlichen Fixierung",
-      "pt": "Torre de observação inabalável: O método de foco em localização fixa de Copérnico",
-      "id": "Menara Observatorium yang Kokoh: Metode Fokus Lokasi Tetap Copernicus"
+      "ko": "흔들리지 않는 관측 탑: 코페르니쿠스의 장소 고정 집중법"
     },
     "description": {
-      "ko": "지동설로 우주의 패러다임을 바꾼 코페르니쿠스가 고정된 관측 탑을 고수했던 비결. 특정 공간을 한 업무에만 전담시킬 때 뇌의 예열 시간이 단축되는 원리를 알아봅니다.",
-      "en": "The secret why Copernicus, who changed the cosmic paradigm with heliocentrism, stuck to a fixed tower. Learn how dedicating a space to one task shortens brain warm-up time.",
-      "ja": "地動説で宇宙のパラダイムを変えたコペルニクスが、固定された観測塔にこだわった秘訣。特定の空間を一つの業務だけに専念させる時、脳の予熱時間が短縮される原理を探ります。",
-      "zh": "凭借日心说颠覆宇宙范式的哥白尼为何坚守固定观测塔的秘诀。了解将特定空间专门用于一项任务时，大脑预热时间缩短的原理。",
-      "es": "El secreto de por qué Copérnico se aferró a una torre fija. Aprenda cómo dedicar un espacio a una sola tarea acorta el tiempo de calentamiento del cerebro.",
-      "fr": "Le secret pour lequel Copernic s'est tenu à une tour fixe. Apprenez comment dédier un espace à une seule tâche raccourcit le temps de concentration du cerveau.",
-      "de": "Das Geheimnis, warum Kopernikus an einem festen Turm festhielt. Erfahren Sie, wie die Zuweisung eines festen Ortes für eine Aufgabe die geistige Aufwärmzeit verkürzt.",
-      "pt": "O segredo de por que Copérnico se apegou a uma torre fixa. Aprenda como dedicar um espaço a uma única tarefa encurta o tempo de aquecimento do cérebro.",
-      "id": "Rahasia mengapa Copernicus bertahan di menara observatorium tetap. Pelajari bagaimana mendedikasikan satu ruang untuk satu tugas mempersingkat waktu pemanasan otak."
+      "ko": "지동설로 우주의 패러다임을 바꾼 코페르니쿠스가 고정된 관측 탑을 고수했던 비결. 특정 공간을 한 업무에만 전담시킬 때 뇌의 예열 시간이 단축되는 원리를 알아봅니다."
     },
     "authority": {
-      "ko": "『천구의 회전에 관하여』 역사적 서문 고증 및 예일 대학교(Yale) 공간 인지(Spatial Cognition) 신경학 연구",
-      "en": "Historical Preface of 'De revolutionibus' and Yale University Research on Spatial Cognition Neurology",
-      "ja": "『天球の回転について』歴史的序文考証およびイェール大学（Yale）の空間認知（Spatial Cognition）神経学研究",
-      "zh": "《天体运行论》历史序言考证及耶鲁大学(Yale)关于空间认知(Spatial Cognition)神经学的研究",
-      "es": "Prefacio histórico de 'De revolutionibus' e investigación de la Universidad de Yale sobre neurología de la cognición espacial (Spatial Cognition)",
-      "fr": "Préface historique de 'De revolutionibus' et recherche de l'Université de Yale sur la neurologie de la cognition spatiale (Spatial Cognition)",
-      "de": "Historisches Vorwort von 'De revolutionibus' und Forschung der Yale University zur neurologischen Raumkognition (Spatial Cognition)",
-      "pt": "Prefácio histórico de 'De revolutionibus' e pesquisa da Universidade de Yale sobre neurologia da cognição espacial (Spatial Cognition)",
-      "id": "Pengantar Sejarah 'De revolutionibus' dan Penelitian Universitas Yale tentang Neurologi Kognisi Spasial (Spatial Cognition)"
+      "ko": "Copernicus Observatory Tower 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "지구가 태양 주위를 돈다는 지동설을 선언하여 인류 역사상 가장 거대한 과학 혁명을 일으킨 니콜라우스 코페르니쿠스. 그가 거대한 천주의 비밀을 밝힐 수 있었던 연구 기지는 다름 아닌 폴란드 프롬보르크 대성당에 위치한 낡고 좁은 북서쪽 stone 관측 탑이었습니다. 그는 수십 년간 관측 기구와 관측 장소를 바꾸지 않고 오직 이 고정된 탑 안에서만 밤을 지새우며 하늘을 기록했습니다. 脳科学的으로 이 장소의 철저한 격리가 준 놀라운 집중력 메커니즘을 밝혀봅니다.",
-      "en": "Nicolaus Copernicus, who declared the heliocentric theory that the Earth revolves around the Sun. The research base where he could reveal the secrets of the cosmos was none other than the old, narrow stone observatory tower located in Frombork Cathedral, Poland. For decades, he did not change his observation instruments or location, recording the sky only inside this fixed tower. Explore the brain mechanism of this strict spatial isolation.",
-      "ja": "地球が太陽の周りを回るという地動説を宣言し、人類史上最も巨大な科学革命を起こしたニコラウス・コペルニクス。彼が巨大な天体の秘密を明らかにできた研究基地は、他ならぬポーランドのフロムボルク大聖堂にある古くて狭い北西の石の観測塔でした。彼は数十年間、観測器具や観測場所を変えず、ひたすらこの固定された塔の中で夜を明かして空を記録しました。脳科学的にこの場所の徹底した隔離が与えた驚くべき集中力メカニズムを明らかにします。",
-      "zh": "在这一历史性惯例的实践中： . stone . . 脳科学的 .",
-      "es": "Nicolás Copérnico, quien declaró la teoría heliocéntrica. La base donde pudo revelar los secretos del cosmos no era otra que la vieja y estrecha torre de observación de piedra en Frombork, Polonia. Durante décadas, no cambió sus instrumentos ni su ubicación. Explore el mecanismo cerebral de este estricto aislamiento espacial.",
-      "fr": "Nicolas Copernic, qui a déclaré la théorie héliocentrique. La base de recherche où il a révélé les secrets du cosmos n'était autre que l'ancienne tour d'observation en pierre de Frombork, en Pologne. Pendant des décennies, il n'a changé ni d'instruments ni de lieu. Découvrez le mécanisme cérébral de cet isolement spatial.",
-      "de": "Nicolaus Copernicus, der mit seiner heliozentrischen Theorie die Welt veränderte. Seine Forschungsbasis war der enge steinerne Beobachtungsturm der Kathedrale von Frombork, Polen. Über Jahrzehnte hinweg veränderte er weder seine Instrumente noch seinen Standort. Erfahren Sie mehr über die neurologische Wirkung dieser räumlichen Isolation.",
-      "pt": "Nicolau Copérnico, que declarou a teoria heliocéntrica. A base de pesquisa onde revelou os secretos do cosmos era a antiga e estreita torre de observação de pedra em Frombork, Polônia. Durante décadas, não mudou de instrumentos ou local. Explore o mecanismo cerebral deste isolamento espacial.",
-      "id": "Nicolaus Copernicus, yang mendeklarasikan teori heliosentris bahwa Bumi mengelilingi Matahari. Basis penelitian tempat dia mengungkap rahasia kosmos adalah menara observatorium batu yang sempit di Katedral Frombork, Polandia. Selama beberapa dekade, dia tidak mengubah instrumen atau lokasinya. Temukan mekanisme otak dari isolasi spasial ini."
+      "ko": "\"우주가 정돈되어 있는 한, 진리를 찾는 인간의 장소 또한 일관되어야 한다.\" 🔭\n\n지구가 태양 주위를 돈다는 지동설을 선언하여 인류 역사상 가장 거대한 과학 혁명을 일으킨 니콜라우스 코페르니쿠스. 그가 거대한 천주의 비밀을 밝힐 수 있었던 연구 기지는 다름 아닌 폴란드 프롬보르크 대성당에 위치한 낡고 좁은 북서쪽 stone 관측 탑이었습니다. 그는 수십 년간 관측 기구와 관측 장소를 바꾸지 않고 오직 이 고정된 탑 안에서만 밤을 지새우며 하늘을 기록했습니다. 뇌과학적으로 이 장소의 철저한 격리가 준 놀라운 집중력 메커니즘을 밝혀봅니다.\n\n많은 사람이 공부나 업무 능률을 올리기 위해 분위기 좋은 카페를 찾아다니거나, 매번 새로운 공부방과 장소를 물색하곤 합니다. 하지만 코페르니쿠스는 동일한 장소에서 변하지 않는 기구와 일관된 각도로 하늘을 관측하는 것을 철칙으로 삼았습니다. 그가 사용했던 관측 탑은 단순히 바람을 막아주는 물리적 장소를 넘어, 뇌가 한순간의 예열도 없이 즉각 천체 연산 모드로 기어 전환을 하도록 돕는 인지적 고정 도구였습니다.\n\n오늘 포스트에서는 코페르니쿠스의 '고정 탑 집중법'의 과학적 작동 메커니즘을 밝히고, 현대인들이 산만하고 변수가 가득한 일상 속에서 자신만의 전용 공부/업무 공간을 굳건히 확보해 예열 시간 없이 1초 만에 딥 워크(Deep Work) 모드로 들어가는 3단계 실천 방안을 제시합니다."
     },
     "whyTitle": {
-      "ko": "작업 공간 고정이 뇌의 예열 시간을 줄이는 원리",
-      "en": "How Fixing Workspace Shortens Brain Warm-Up Time",
-      "ja": "作業空間の固定が脳の予熱時間を減らす原理",
-      "zh": "固定工作空间缩短大脑预热时间的原理",
-      "es": "Cómo fijar el espacio de trabajo acorta el tiempo de calentamiento del cerebro",
-      "fr": "Comment la fixation de l'espace de travail raccourcit le temps de concentration",
-      "de": "Wie ein fester Arbeitsplatz die geistige Aufwärmzeit verkürzt",
-      "pt": "Como fixar o espaço de trabalho encurta o tempo de aquecimento do cérebro",
-      "id": "Bagaimana Memfokuskan Ruang Kerja Mempersingkat Waktu Pemanasan Otak"
+      "ko": "작업 공간 고정이 뇌의 예열 시간을 줄이는 원리"
     },
     "whyDesc": {
-      "ko": "뇌의 정보 처리 효율성을 저해하는 가장 큰 원인은 '상황 전환 시의 부하'입니다. 매번 공부나 업무를 다른 장소에서 진행하면 뇌는 환경 적응을 위해 불필요한 인지 에너지를 낭비합니다. 하지만 오직 특정 지적 업무만을 위한 공간을 지정하고 이를 제어하는 <strong>조건 제어(Condition Control)</strong>를 완성하면, 뇌는 그 장소에 앉는 즉시 관련 작업 활성화 상태로 연합 영역 신경망을 전환해 쓸데없는 인지 예열 과정을 대폭 차단합니다.",
-      "en": "The biggest obstacle to brain processing efficiency is the 'context switching load.' If you work in different places every time, the brain wastes cognitive energy adapting to new environments. However, by designating a space for a specific task and completing <strong>condition control</strong>, the brain switches its neural networks to the task state the moment you sit down, dramatically cutting warm-up latency.",
-      "ja": "脳の情報処理効率を阻害する最大の原因は、「状況切り替え時の負荷」です。毎回勉強や業務を異なる場所で行うと、脳は環境に適応するために不要な認知エネルギーを浪費します。しかし、特定の知的業務だけのための空間を指定し、これを制御する<strong>条件制御（Condition Control）</strong>を完成させれば、脳はその場所に座るやいなや関連作業の活性化状態へと連合領域の神経回路を切り替え、無駄な認知予熱過程を大幅に遮断します。",
-      "zh": "阻碍大脑信息处理效率的最大原因在于“切换场景时的负荷”。如果每次都在不同的地方学习或工作，大脑就会为了适应环境而浪费不必要的认知能量。然而，如果指定一个仅用于特定智力任务的空间并完成<strong>条件控制（Condition Control）</strong>，大脑就会在坐下的瞬间将联合区域神经网络切换到相关工作激活状态，从而大幅阻断无用的认知预热过程。",
-      "es": "El mayor obstáculo para la eficiencia del cerebro es la 'carga de cambio de contexto'. Si trabaja en diferentes lugares, el cerebro desperdicia energía adaptándose. Sin embargo, al designar un espacio para una tarea específica y completar el <strong>control de condiciones</strong>, el cerebro cambia sus redes al estado de tarea de inmediato.",
-      "fr": "Le principal obstacle à l'efficacité du cerveau est le coût du changement de contexte. Travailler dans des lieux différents gaspille de l'énergie pour s'adapter. En dédiant un espace à une tâche et en appliquant un <strong>contrôle des conditions</strong>, le cerveau active le réseau neuronal de la tâche dès que vous vous installez.",
-      "de": "Das größte Hindernis für die Effizienz des Gehirns ist die Umstellung auf neue Kontexte. Ständiges Wechseln des Arbeitsplatzes verbraucht Energie für die Anpassung. Durch die Zuweisung eines festen Ortes und die Etablierung einer <strong>Konditionierungskontrolle</strong> schaltet das Gehirn sofort auf Arbeitsmodus.",
-      "pt": "O maior obstáculo para a eficiência do cérebro é a 'carga de mudança de contexto'. Se trabalha em locais diferentes, o cérebro desperdiça energia adaptando-se. No entanto, ao designar um espaço para uma tarefa específica e completar o <strong>controle de condições</strong>, o cérebro muda suas redes ao estado de tarefa imediatamente.",
-      "id": "Hambatan terbesar bagi efisiensi otak adalah 'beban peralihan konteks.' Jika Anda bekerja di tempat berbeda, otak membuang energi untuk beradaptasi. Namun, dengan mendedikasikan ruang untuk tugas tertentu dan melakukan <strong>kontrol kondisi</strong>, otak langsung beralih ke tugas tersebut saat Anda duduk."
+      "ko": "뇌의 정보 처리 효율성을 저해하는 가장 큰 원인은 '상황 전환 시의 부하'입니다. 매번 공부나 업무를 다른 장소에서 진행하면 뇌는 환경 적응을 위해 불필요한 인지 에너지를 낭비합니다. 하지만 오직 특정 지적 업무만을 위한 공간을 지정하고 이를 제어하는 <strong>조건 제어(Condition Control)</strong>를 완성하면, 뇌는 그 장소에 앉는 즉시 관련 작업 활성화 상태로 연합 영역 신경망을 전환해 쓸데없는 인지 예열 과정을 대폭 차단합니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions & Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen & Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan & Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "주의할 점은 지정된 장소에서 침대나 게임 등 뇌가 딴짓을 연상할 수 있는 대상들을 철저히 배제해야 한다는 점입니다. 만약 공부용 책상에서 넷플릭스를 보거나 게임을 한다면 공간과 인지 사이의 <strong>환경적 단서</strong> 결합이 무너져 예열 차단 효과가 상실되므로, 하나의 장소에는 오직 단 하나의 핵심 인지 행동만 바인딩해야 합니다.",
-      "en": "The caution is to completely exclude items that associate the brain with other tasks, like beds or games, from the designated space. If you watch Netflix or play games on your study desk, the combination of <strong>environmental cues</strong> between space and cognition breaks, losing the warm-up prevention effect. Only bind a single key cognitive behavior to a space.",
-      "ja": "注意すべき点は、指定された場所でベッドやゲームなど、脳が他の行動を連想しうる対象を徹底的に排除しなければならないということです。もし勉強用の机で動画を見たりゲームをしたりすると、空間と認知の間の<strong>環境的手がかり</strong>の結合が崩れ、予熱遮断効果が喪失されるため、一つの場所にはただ一つの核心的な認知行動だけをバインドしなければなりません。",
-      "zh": "需要注意的是，必须在指定场所内彻底排除床、游戏机等可能让大脑产生其他联想的物品。如果在学习桌上看视频或玩游戏，空间与认知之间的<strong>环境线索</strong>结合就会破裂，从而失去阻断预热的效果，因此一个场所必须只绑定一项核心认知行为。",
-      "es": "La precaución es excluir elementos de distracción en el espacio de trabajo. Si ve películas o juega en su escritorio, la combinación de <strong>claves ambientales</strong> se rompe, perdiendo el efecto de enfoque rápido. Vincule solo un comportamiento clave a cada espacio.",
-      "fr": "La précaution est d'exclure les distractions de votre espace de travail. Si vous regardez des films ou jouez sur votre bureau, le lien entre l'espace et la concentration se brise, annulant l'effet d'activation rapide. Associez un seul comportement clé à chaque espace.",
-      "de": "Wichtig ist, dass Sie Ablenkungen von diesem Arbeitsplatz fernhalten. Wenn Sie am Schreibtisch Filme ansehen oder spielen, wird die Verknüpfung mit dem <strong>Umweltreiz</strong> zerstört. Verknüpfen Sie nur eine einzige Kernaktivität mit diesem Ort.",
-      "pt": "A precaução é excluir elementos de distração no espaço de trabalho. Se assiste a filmes ou joga na mesa de estudo, a combinação de <strong>pistas ambientais</strong> se quebra, perdendo o efeito de foco rápido. Associe apenas um comportamento chave a cada espaço.",
-      "id": "Tindakan pencegahannya adalah menyingkirkan benda-benda pengganggu dari ruang kerja Anda. Jika Anda menonton film atau bermain gim di meja belajar, kombinasi <strong>petunjuk lingkungan</strong> akan rusak, menghilangkan efek fokus cepat. Tautkan hanya satu perilaku kognitif kunci ke setiap ruang."
+      "ko": "주의할 점은 지정된 장소에서 침대나 게임 등 뇌가 딴짓을 연상할 수 있는 대상들을 철저히 배제해야 한다는 점입니다. 만약 공부용 책상에서 넷플릭스를 보거나 게임을 한다면 공간과 인지 사이의 <strong>환경적 단서</strong> 결합이 무너져 예열 차단 효과가 상실되므로, 하나의 장소에는 오직 단 하나의 핵심 인지 행동만 바인딩해야 합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "오직 공부/업무만을 위한 고정 독점 공간 지정",
-          "en": "Designating a Fixed Exclusive Space Only for Study/Work",
-          "ja": "ひたすら勉強/業務だけのための固定独占空間の指定",
-          "zh": "设定一个仅用于学习/工作的固定专属空间",
-          "es": "Designar un espacio exclusivo fijo solo para el estudio/trabajo",
-          "fr": "Dsigner un espace exclusif fixe uniquement pour l'tude/le travail",
-          "de": "Zuweisung eines festen, exklusiven Platzes nur zum Lernen/Arbeiten",
-          "pt": "Designando um espaço exclusivo fixo apenas para estudo/trabalho",
-          "id": "Menentukan Ruang Eksklusif Tetap Hanya untuk Belajar/Bekerja"
+          "ko": "오직 공부/업무만을 위한 고정 독점 공간 지정"
         },
         "text": {
-          "ko": "집이나 사무실 내에서 딴짓용 매체가 없고 다른 행동 영역(수면, 식사 등)과 명확히 구분되는 독립된 책상이나 자리를 격리하여 정합니다.",
-          "en": "Isolate and designate an independent desk or seat within your home or office that has no media for distraction and is clearly separated from other areas (sleeping, dining).",
-          "ja": "自宅やオフィス内で、他の行動を誘発する媒体がなく、他の行動領域（睡眠、食事など）と明確に区別される独立した机や席を隔離して決定します。",
-          "zh": "在家里或办公室内，隔离并设定一个没有娱乐媒介且与其他行为区域（睡眠、用餐等）明确区分开的独立书桌或座位。",
-          "es": "Aísle y designe un escritorio independiente en su hogar u oficina que esté libre de distracciones y separado de otras áreas (dormir, cenar).",
-          "fr": "Isolez et désignez un bureau indépendant chez vous ou au bureau, sans distraction et séparé des autres zones (sommeil, repas).",
-          "de": "Richten Sie sich zu Hause oder im Büro einen ablenkungsfreien, separaten Schreibtisch ein, der von anderen Bereichen (Schlaf, Essen) getrennt ist.",
-          "pt": "Isole e designe uma escrivaninha independente em sua casa ou escritório que esteja livre de distrações e separada de outras áreas (dormir, jantar).",
-          "id": "Isolasi dan tentukan meja independen di rumah atau kantor Anda yang bebas dari gangguan dan terpisah dari area lain (tidur, makan)."
+          "ko": "집이나 사무실 내에서 딴짓용 매체가 없고 다른 행동 영역(수면, 식사 등)과 명확히 구분되는 독립된 책상이나 자리를 격리하여 정합니다."
         }
       },
       {
         "name": {
-          "ko": "지정 공간 내 유해 자극 및 대체 행위 차단",
-          "en": "Blocking Harmful Stimuli and Alternative Activities in the Space",
-          "ja": "指定空間内での有害刺激および代替行為の遮断",
-          "zh": "在指定空间内阻断有害刺激与替代行为",
-          "es": "Bloquear estímulos dañinos y actividades alternativas en el espacio",
-          "fr": "Bloquer les stimuli nfastes et les activits alternatives",
-          "de": "Abschirmung von Störreizen und alternativen Aktivitäten an diesem Ort",
-          "pt": "Bloqueando estímulos nocivos e atividades alternativas no espaço",
-          "id": "Memblokir Stimuli Berbahaya dan Aktivitas Alternatif di Ruang Tersebut"
+          "ko": "지정 공간 내 유해 자극 및 대체 행위 차단"
         },
         "text": {
-          "ko": "해당 책상에는 스마트폰을 두지 않거나 웹서핑 등의 딴짓을 전면 금지하며, 오직 타깃 지적 작업의 준비 도구만을 올려두어 뇌의 조건 반사를 유도합니다.",
-          "en": "Never place a phone on that desk or surf the web. Only place preparation tools for the target task on it to trigger the brain's conditioned reflex.",
-          "ja": "該当する机にはスマートフォンを置かない、あるいはネットサーフィンなどの他の行動を全面的に禁止し、ターゲットとなる知的作業の準備道具だけを置いておくことで、脳の条件反射を誘導します。",
-          "zh": "在该书桌上不放手机、全面禁止浏览网页等开小差行为，只摆放目标智力工作的准备工具，以此诱导大脑的条件反射。",
-          "es": "Nunca coloque un teléfono en ese escritorio ni navegue por la web. Coloque solo herramientas de preparación para la tarea para activar el reflejo condicionado del cerebro.",
-          "fr": "Ne placez jamais de téléphone sur ce bureau et ne naviguez pas sur le web. N'y laissez que les outils de travail pour créer un réflexe conditionné.",
-          "de": "Legen Sie dort kein Handy ab und surfen Sie nicht im Web. Platzieren Sie nur Arbeitsmittel auf dem Schreibtisch, um eine Konditionierung zu erreichen.",
-          "pt": "Nunca coloque um telefone nessa mesa nem navegue na web. Coloque apenas ferramentas de preparação para a tarefa para ativar o reflexo condicionado do cérebro.",
-          "id": "Jangan letakkan ponsel di meja tersebut atau menjelajah internet. Hanya letakkan alat persiapan untuk tugas inti guna memicu refleks terkondisi otak."
+          "ko": "해당 책상에는 스마트폰을 두지 않거나 웹서핑 등의 딴짓을 전면 금지하며, 오직 타깃 지적 작업의 준비 도구만을 올려두어 뇌의 조건 반사를 유도합니다."
         }
       },
       {
         "name": {
-          "ko": "매일 일정한 시간의 집중 행동 개시",
-          "en": "Starting Focused Action at a Set Time Daily",
-          "ja": "毎日一定時間の集中行動開始",
-          "zh": "每天在固定时间开始专注行动",
-          "es": "Iniciar la acción enfocada a una hora fija todos los días",
-          "fr": "Commencer l'action cicle une heure fixe chaque jour",
-          "de": "Täglicher Beginn der konzentrierten Arbeit zu einer festen Zeit",
-          "pt": "Iniciando a ação focada a uma hora fixa todos os dias",
-          "id": "Memulai Aksi Terfokus pada Waktu yang Sama Setiap Hari"
+          "ko": "매일 일정한 시간의 집중 행동 개시"
         },
         "text": {
-          "ko": "매일 정해진 시간 블록에 해당 장소에 착석하여 지연 없이 첫 5분 집중 과제를 시작하며, 뇌의 공간-행동 신경 연결을 다져나갑니다.",
-          "en": "Sit in the designated spot at a set time block daily and start your first 5-minute focus task without delay to build the space-behavior neural link.",
-          "ja": "毎日決まった時間ブロックに該当する場所に座り、遅延なく最初の5分間の集中課題を開始し、脳の空間-行動の神経結合を強固にしていきます。",
-          "zh": "每天在固定的时间块坐在该位置上，毫无拖延地开始前五分钟的专注任务，固化大脑的“空间-行为”神经连接。",
-          "es": "Siéntese en el lugar designado a la hora establecida todos los días y comience su tarea sin demora para construir el vínculo neuronal de espacio-comportamiento.",
-          "fr": "Asseyez-vous à l'endroit désigné chaque jour à l'heure dite et commencez votre tâche sans tarder pour renforcer le lien espace-concentration.",
-          "de": "Setzen Sie sich täglich zur gleichen Zeit an den Schreibtisch und beginnen Sie sofort mit der Arbeit, um die räumliche Konditionierung zu festigen.",
-          "pt": "Sente-se no local designado à hora definida todos os dias e comece sua tarefa sem demora para construir a ligação neural espaço-comportamento.",
-          "id": "Duduk di tempat yang ditentukan pada waktu yang sama setiap hari dan mulai tugas fokus 5 menit pertama tanpa menunda untuk membangun tautan saraf ruang-perilaku."
+          "ko": "매일 정해진 시간 블록에 해당 장소에 착석하여 지연 없이 첫 5분 집중 과제를 시작하며, 뇌의 공간-행동 신경 연결을 다져나갑니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "좁은 원룸이라 공부 공간을 물리적으로 격리하기 힘든데 어쩌죠?",
-          "en": "What if it's a small studio apartment and physically isolating space is hard?",
-          "ja": "狭いワンルームなので、勉強空間を物理的に隔離するのが難しいのですが、どうすればよいですか？",
-          "zh": "如果是狭窄的单身公寓、难以在物理上隔离学习空间怎么办？",
-          "es": "¿Qué pasa si es un estudio pequeño y aislar el espacio es difícil?",
-          "fr": "Que faire si mon logement est petit et qu'il est difficile d'isoler un espace ?",
-          "de": "Was tun, wenn in einer kleinen Wohnung kein Platz für eine räumliche Trennung ist?",
-          "pt": "O que fazer se for um apartamento pequeno e for difícil isolar o espaço?",
-          "id": "Bagaimana jika itu adalah apartemen studio kecil dan sulit mengisolasi ruang secara fisik?"
+          "ko": "좁은 원룸이라 공부 공간을 물리적으로 격리하기 힘든데 어쩌죠?"
         },
         "answer": {
-          "ko": "물리적 공간 격리가 어렵다면 특정 장소에 앉을 때 특정 스탠드 조명을 켜거나, 오직 공부할 때만 쓰는 데스크 매트를 까는 등 '시각/환경 조건 단서'를 인위적으로 조율해 동일한 효과를 얻을 수 있습니다.",
-          "en": "If physical isolation is hard, you can achieve the same effect by artificially adjusting 'visual/environmental cues,' such as turning on a specific desk lamp or placing a desk mat used only for study.",
-          "ja": "物理的な空間隔離が難しい場合は、特定の場所に座る時に特定のスタンド照明をつけたり、勉強する時にだけ使うデスクマットを敷くなど、「視覚/環境条件の手がかり」を人為的に調整して同様の効果を得ることができます。",
-          "zh": "如果物理空间隔离困难，可以通过人为调整“视觉/环境条件线索”来获得相同效果，例如：坐在特定位置时打开特定的台灯，或者铺上只在学习时使用的桌垫。",
-          "es": "Si el aislamiento físico es difícil, puede lograr el mismo efecto ajustando artificialmente las 'claves visuales/ambientales', como encender una lámpara específica o colocar un tapete de escritorio usado solo para estudiar.",
-          "fr": "Si l'isolement physique est difficile, vous pouvez obtenir le même effet en ajustant les repères visuels, par exemple en allumant une lampe de bureau spécifique ou en utilisant un sous-main dédié uniquement à l'étude.",
-          "de": "Wenn eine räumliche Trennung unmöglich ist, nutzen Sie visuelle Signale wie eine bestimmte Schreibtischlampe oder eine Unterlage, die Sie nur zum Arbeiten auflegen.",
-          "pt": "Se o isolamento físico for difícil, você pode obter o mesmo efeito ajustando artificialmente as 'pistas visuais/ambientais', como acender uma luminária específica ou colocar uma esteira de mesa usada apenas para estudar.",
-          "id": "Jika isolasi fisik sulit, Anda dapat memperoleh efek yang sama dengan menyesuaikan 'pemicu visual/lingkungan' secara buatan, seperti menyalakan lampu meja tertentu atau memasang alas meja yang hanya digunakan saat belajar."
+          "ko": "물리적 공간 격리가 어렵다면 특정 장소에 앉을 때 특정 스탠드 조명을 켜거나, 오직 공부할 때만 쓰는 데스크 매트를 까는 등 '시각/환경 조건 단서'를 인위적으로 조율해 동일한 효과를 얻을 수 있습니다."
         }
       }
     ]

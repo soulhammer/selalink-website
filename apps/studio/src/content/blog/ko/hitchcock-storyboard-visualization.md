@@ -1,17 +1,25 @@
 ---
-formatVersion: 4
 title: "머릿속으로 백 프로 완성하라: 히치콕의 시각 스토리보드 루틴"
 description: "스릴러 영화의 거장 알프레드 히치콕의 촬영 전 정밀 스토리보드 설계 습관을 알아봅니다. 정신적 시뮬레이션을 통해 의사결정 부하를 없애는 3단계 시각화 가이드."
-pubDate: "2026-02-08"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
-heroImage: "/images/blog/hitchcock_storyboard_visualization.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/hitchcock_storyboard_visualization.png"
 app: "buildself"
-authority: "알프레드 히치콕 전기 'Alfred Hitchcock: A Life in Darkness and Light' 및 정신적 시뮬레이션 인지과학 연구"
-updatedDate: "2026-02-08"
+formatVersion: 4
+authority: "Hitchcock Storyboard Visualization 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+steps:
+  - name: "프로젝트 주요 실행 단계 분할"
+    text: "당일 수행해야 할 주요 업무나 공부 단계를 3~5개의 큰 흐름(예: 기획안 작성, 데이터 검증, 보고서 송부 등)으로 쪼개어 가상의 칸을 설계합니다."
+  - name: "가상 스케치와 장애 대응 대안 배치"
+    text: "각 단계 칸 안에 들어갈 시각적 행동 형태를 거칠게 스케치하거나 짧은 문장으로 기입하고, 진행 도중 만날 수 있는 리스크(코드 에러, 집중력 저하 등)와 극복안을 미리 표시해 둡니다."
+  - name: "1분 정신 연상 후 물리적 실행 개시"
+    text: "완성된 스토리보드를 바라보며 눈을 감고, 1분 동안 첫 번째 칸부터 마지막 완료까지 물 흐르듯 실행하는 내 모습을 선명하게 연상한 뒤 즉시 실제 물리적 액션에 돌입합니다."
 faqs:
   - question: "스토리보드를 매번 손으로 직접 그리기 어려운데 디지털 도구로도 괜찮나요?"
     answer: "스토리보드의 본질은 그림의 솜씨가 아니라 행동의 단계적 구조화와 시뮬레이션입니다. 피그마, 미로, 혹은 단순한 마인드맵 앱 등을 활용해 상자 모형과 텍스트 위주로 가볍게 정돈하는 것만으로도 완벽하게 동일한 인지 심리학적 시뮬레이션 혜택을 얻을 수 있습니다."
+
 ---
 
 "영화는 촬영장에서 만드는 것이 아니다. 이미 머릿속에서 다 끝난 일이다." 🎬
@@ -26,25 +34,25 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 알프레드 히치콕의 실제 영화 제작 아카이브 친필 드로잉 노트 평전 내용 및 인지과학의 계획 실행 최적화 연구 결과를 근거로 작성되었습니다.
+      본 콘텐츠는 <strong>Hitchcock Storyboard Visualization 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 hitchcock-storyboard-visualization 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 의사결정 피로를 없애는 '정신적 시뮬레이션'
+## 의사결정 피로를 없애는 '정신적 시뮬레이션'
 
-인지과학 연구에 따르면, 뇌가 실제로 어떤 행동을 수행하기 전 구체적인 과정을 머릿속으로 시뮬레이션해 보거나 눈으로 그릴 때, 실제 움직임을 관장하는 뇌의 운동 실행 네트워크(Motor Execution Network)가 동일하게 활성화됩니다. 이를 <strong>'정신적 시뮬레이션(Mental Simulation)'</strong>이라고 합니다.
-
-히치콕이 촬영 전 완벽하게 스토리보드를 스케치한 습관은, 실행 단계에서 겪게 될 변수들을 미리 시각적으로 체험해 대안을 결정하게 만들었습니다. 이 덕분에 뇌는 실제 작업 착수 시 직면하는 무수한 돌발 변수와 선택의 기로에서 발생하는 의사결정 부하(Decision Fatigue)를 완전히 소멸시켜, 실수 없이 높은 추진력으로 결과물을 내게 돕습니다.
+인지과학 연구에 따르면, 뇌가 실제로 어떤 행동을 수행하기 전 구체적인 과정을 머릿속으로 시뮬레이션해 보거나 눈으로 그릴 때, 실제 움직임을 관장하는 뇌의 운동 실행 네트워크(Motor Execution Network)가 동일하게 활성화됩니다. 이를 <strong>'정신적 시뮬레이션(Mental Simulation)'</strong>이라고 합니다. 히치콕이 촬영 전 완벽하게 스토리보드를 스케치한 습관은, 실행 단계에서 겪게 될 변수들을 미리 시각적으로 체험해 대안을 결정하게 만들었습니다. 이 덕분에 뇌는 실제 작업 착수 시 직면하는 무수한 돌발 변수와 선택의 기로에서 발생하는 의사결정 부하(Decision Fatigue)를 완전히 소멸시켜, 실수 없이 높은 추진력으로 결과물을 내게 돕습니다.
 
 ---
 
-## 2. 실천 방법
+## 계획 방종과 실행 지연 방지
+
+스토리보드 작성이 단순한 종이 끄적임으로 전락해 실행을 지연시키는 계획 방종(Plan Indulgence)에 빠질 수 있습니다. 스토리보드는 어디까지나 실행을 돕기 위한 보조 수단이어야 합니다. 스케치는 단 3~5단계의 거친 흐름만으로 구성해 시간 소모를 제한해야 하며, 시각 시뮬레이션이 끝난 후에는 계획을 붙잡고 늘어지는 대신 즉시 첫 번째 카드 단계의 실제 물리적 실천으로 몸을 전환해야 정밀화의 효과를 온전히 누립니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -52,7 +60,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">프로젝트 주요 실행 단계 분할</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    당일 수행해야 할 주요 업무나 공부 단계를 -개의 큰 흐름(예: 기획안 작성, 데이터 검증, 보고서 송부 등)으로 쪼개어 가상의 칸을 설계합니다.
+    당일 수행해야 할 주요 업무나 공부 단계를 3~5개의 큰 흐름(예: 기획안 작성, 데이터 검증, 보고서 송부 등)으로 쪼개어 가상의 칸을 설계합니다.
   </p>
 </div>
 
@@ -76,25 +84,13 @@ faqs:
   </p>
 </div>
 
----
-
-## 3. 계획 방종과 실행 지연 방지
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      스토리보드 작성이 단순한 종이 끄적임으로 전락해 실행을 지연시키는 계획 방종(Plan Indulgence)에 빠질 수 있습니다. 스토리보드는 어디까지나 실행을 돕기 위한 보조 수단이어야 합니다. 스케치는 단 -단계의 거친 흐름만으로 구성해 시간 소모를 제한해야 하며, 시각 시뮬레이션이 끝난 후에는 계획을 붙잡고 늘어지는 대신 즉시 첫 번째 카드 단계의 실제 물리적 실천으로 몸을 전환해야 정밀화의 효과를 온전히 누립니다.
-    </p>
-  </div>
-</div>
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>스토리보드를 매번 손으로 직접 그리기 어려운데 디지털 도구로도 괜찮나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

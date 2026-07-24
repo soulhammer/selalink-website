@@ -1,190 +1,62 @@
 {
   "balzac-extreme-focus": {
     "title": {
-      "ko": "매일 자정에 일어나 커피와 함께 12시간 집필? 발자크의 극한 초몰입 루틴",
-      "en": "Waking at Midnight to Write 10+ Hours with Coffee? Balzac's Extreme Hyperfocus Routine",
-      "ja": "毎日真夜中に起きてコーヒー片手に12時間執筆？バルザックの極限の超没頭ルーティン",
-      "zh": "每天子夜起床伴着咖啡写作12小时？巴尔扎克的极限超专注惯例",
-      "es": "¿Despertar a medianoche para escribir más de 10 horas con café? La rutina de hiperenfoque extremo de Balzac",
-      "fr": "Se réveiller à minuit pour écrire plus de 10 heures avec du café ? La routine d'hyperfocus extrême de Balzac",
-      "de": "Um Mitternacht aufstehen, um mit Kaffee 10+ Stunden zu schreiben? Balzacs extreme Hyperfokus-Routine",
-      "pt": "Acordar à meia-noite para escrever mais de 10 horas com café? A rotina de hiperfoco extremo de Balzac",
-      "id": "Bangun Tengah Malam untuk Menulis 10+ Jam dengan Kopi? Rutinitas Hiperfokus Ekstrem Balzac"
+      "ko": "매일 자정에 일어나 커피와 함께 12시간 집필? 발자크의 극한 초몰입 루틴"
     },
     "description": {
-      "ko": "19세기 프랑스 문학의 거장 오노레 드 발자크가 실천했던 독특한 시간 관리 비법. 자정 기상과 커피 각성을 통해 주의 산만 요소를 극복한 초몰입법의 과학적 효과를 파헤쳐봅니다.",
-      "en": "The unique time management secret of Honoré de Balzac, a giant of 19th-century French literature. Uncover the scientific effects of hyperfocus achieved through midnight waking and coffee activation.",
-      "ja": "19世紀のフランス文学の巨匠オノレ・ド・バルザックが実践した独特の時間管理の秘訣。真夜中の起床とコーヒーの覚醒を通じて、散漫要素を克服した超没頭法の科学的効果を紹介します。",
-      "zh": "19世纪法国文学巨匠奥诺雷·德·巴尔扎克所实践的独特时间管理秘诀。剖析通过子夜起床和咖啡唤醒来克服分心因素的超专注法的科学效果。",
-      "es": "El secreto de gestión del tiempo de Honoré de Balzac, el gran autor francés del siglo XIX. Conozca los efectos científicos del hiperenfoque mediante el despertar a medianoche y la activación por cafeína.",
-      "fr": "Le secret de gestion du temps d'Honoré de Balzac, le grand auteur français du XIXe siècle. Découvrez les effets scientifiques de l'hyperfocus obtenu en se réveillant à minuit et par la caféine.",
-      "de": "Das Zeitmanagement-Geheimnis von Honoré de Balzac, einem Riesen der französischen Literatur des 19. Jahrhunderts. Entdecken Sie die wissenschaftlichen Effekte von Hyperfokus durch nächtliches Aufstehen und Kaffee.",
-      "pt": "O segredo de gestão do tempo de Honoré de Balzac, o grande autor francês do século XIX. Conheça os efeitos científicos do hiperfoco através do acordar à meia-noite e da ativação pela cafeína.",
-      "id": "Rahasia manajemen waktu yang unik dari Honoré de Balzac, penulis besar Prancis abad ke-19. Selidiki efek ilmiah dari hiperfokus yang dicapai melalui bangun tengah malam & kafein."
+      "ko": "19세기 프랑스 문학의 거장 오노레 드 발자크가 실천했던 독특한 시간 관리 비법. 자정 기상과 커피 각성을 통해 주의 산만 요소를 극복한 초몰입법의 과학적 효과를 파헤쳐봅니다."
     },
     "authority": {
-      "ko": "슈테판 츠바이크 저 '발자크' 및 현대신경약리학회지(Neuropharmacology)",
-      "en": "Stefan Zweig's 'Balzac' & Neuropharmacology Journal",
-      "ja": "シュテファン・ツヴァイク 著『バルザック』＆ 現代神経薬理学術誌(Neuropharmacology)",
-      "zh": "斯蒂芬·茨威格著《巴尔扎克》及现代神经药理学期刊(Neuropharmacology)",
-      "es": "Obra de Stefan Zweig 'Balzac' y estudio de Neuropharmacology",
-      "fr": "L'ouvrage de Stefan Zweig 'Balzac' et l'étude de Neuropharmacology",
-      "de": "Stefan Zweigs 'Balzac' & Neuropharmacology",
-      "pt": "Obra de Stefan Zweig 'Balzac' e estudo da Neuropharmacology",
-      "id": "Buku Stefan Zweig 'Balzac' & Jurnal Neuropharmacology"
+      "ko": "발자크 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "19세기 프랑스 사실주의 문학의 절대적인 거장으로, 방대한 연작 소설 《인간 희극》을 집필하며 근대 소설의 기틀을 마련한 작가 오노레 드 발자크. 당시의 복잡한 사회상과 역동적인 인간 군상을 마치 해부하듯 세밀하게 적어 내린 그의 탁월한 집필력은 엄청난 양의 창작 노동에서 비롯되었습니다. 🕯️\\n\\n그 방대한 분량의 창작을 가능케 한 원동력은 바로 자정에 기상하여 12시간 동안 이어졌던 극단적인 '초몰입' 루틴에 있었습니다. 발자크는 저녁 6시에 일찍 잠자리에 든 뒤, 세상이 깊은 침묵에 빠진 밤 12시에 기상했습니다. 그는 흰 가운을 입고 오직 촛불 두 자루만 켠 뒤 외부의 모든 방해 요소를 지웠습니다. 그리고 다음 날 정오까지 약 12~15시간 동안 집필에 매진했습니다. 그가 이 혹독한 몰입의 고독을 버티기 위해 동원한 강력한 도구는 다름 아닌 강한 블랙커피였습니다. 그는 매일 수십 잔의 커피를 마시며 뇌를 강제로 각성시켰습니다. 발자크에게 밤의 어둠과 커피 한 잔은 창조적 번뇌로부터 도망치지 않고 소설에 몰입할 수 있게 해 준 최고의 도구였습니다.\\n\\n오늘 BuildSelf에서는 발자크의 극한 초몰입 습관에 숨겨진 脳科学的 원리와 현대인들이 복잡한 업무를 빠르게 끝내기 위해 고요한 통집중 블록을 활용하는 지혜를 소개합니다.\\n\\n\\n\\n\\n---",
-      "en": "In this historic routine: 19 , 《 》 . . 🕯️\\n\\n 12 '' . 6 , 12 . . 12~15 . . . .\\n\\n BuildSelf .\\n\\n\\n\\n\\n--- Practicing this daily routine consistently builds deep focus and long-term habits. By systematically applying this historic routine daily, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus. By systematically applying this historic routine daily, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus. By systematically applying this historic routine daily, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus.",
-      "ja": "この歴史的習慣の実践において：19 , 《 》 . . 🕯️\\n\\n 12 '' . 6 , 12 . . 12~15 . . . .\\n\\n BuildSelf 脳科学的 .\\n\\n\\n\\n\\n---",
-      "zh": "在这一历史性惯例的实践中：19 , 《 》 . . 🕯️\\n\\n 12 '' . 6 , 12 . . 12~15 . . . .\\n\\n BuildSelf 脳科学的 .\\n\\n\\n\\n\\n---",
-      "es": "En la práctica de esta rutina transformadora: 19 , 《 》 . . 🕯️\\n\\n 12 '' . 6 , 12 . . 12~15 . . . .\\n\\n BuildSelf .\\n\\n\\n\\n\\n--- Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo. Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora: 19 , 《 》 . . 🕯️\\n\\n 12 '' . 6 , 12 . . 12~15 . . . .\\n\\n BuildSelf .\\n\\n\\n\\n\\n--- Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável. Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "\"커피가 위장으로 흘러 들어가는 순간, 모든 것이 움직이기 시작한다. 생각들이 마치 위대한 군대처럼 진군해 온다.\" ☕\n\n19세기 프랑스 사실주의 문학의 절대적인 거장으로, 방대한 연작 소설 《인간 희극》을 집필하며 근대 소설의 기틀을 마련한 작가 오노레 드 발자크. 당시의 복잡한 사회상과 역동적인 인간 군상을 마치 해부하듯 세밀하게 적어 내린 그의 탁월한 집필력은 엄청난 양의 창작 노동에서 비롯되었습니다.\n\n그 방대한 분량의 창작을 가능케 한 원동력은 바로 자정에 기상하여 12시간 동안 이어졌던 극단적인 '초몰입' 루틴에 있었습니다. 발자크는 저녁 6시에 일찍 잠자리에 든 뒤, 세상이 깊은 침묵에 빠진 밤 12시에 기상했습니다. 그는 흰 가운을 입고 오직 촛불 두 자루만 켠 뒤 외부의 모든 방해 요소를 지웠습니다. 그리고 다음 날 정오까지 약 -시간 동안 집필에 매진했습니다. 그가 이 혹독한 몰입의 고독을 버티기 위해 동원한 강력한 도구는 다름 아닌 강한 블랙커피였습니다. 그는 매일 수십 잔의 커피를 마시며 뇌를 강제로 각성시켰습니다. 발자크에게 밤의 어둠과 커피 한 잔은 창조적 번뇌로부터 도망치지 않고 소설에 몰입할 수 있게 해 준 최고의 도구였습니다.\n\n오늘 포스트에서는 발자크의 극한 초몰입 습관에 숨겨진 뇌과학적 원리와 현대인들이 복잡한 업무를 빠르게 끝내기 위해 고요한 통집중 블록을 활용하는 지혜를 소개합니다."
     },
     "whyTitle": {
-      "ko": "인지 소음이 제로가 되는 심야 시간과 카페인 각성의 시너지",
-      "en": "Synergy of Zero-Noise Midnight Hours and Caffeine Activation",
-      "ja": "認知ノイズがゼロになる深夜時間とカフェイン覚醒の相乗効果",
-      "zh": "认知噪音归零的深夜时段与咖啡因唤醒的协同效应",
-      "es": "Sinergia de las horas de medianoche sin ruido cognitivo y la cafeína",
-      "fr": "Synergie des heures de minuit sans bruit cognitif et de la caféine",
-      "de": "Synergie von geräuscharmen Nachtstunden und kognitiver Koffein-Aktivierung",
-      "pt": "Sinergia das horas da meia-noite sem ruído cognitivo e da cafeína",
-      "id": "Sinergi Jam Tengah Malam Tanpa Kebisingan Kognitif dan Aktivasi Kafein"
+      "ko": "인지 소음이 제로가 되는 심야 시간과 카페인 각성의 시너지"
     },
     "whyDesc": {
-      "ko": "뇌가 정보를 처리할 때 겪는 방해 요소인 '인지 소음(Cognitive Noise)'이 완벽히 사라지는 심야 혹은 새벽 시간은 주의 장악력을 늘리는 최적의 몰입 시간대입니다. 모두가 잠든 시간은 전화나 메신저 알림이 오지 않아 뇌가 능동적으로 몰입의 끈을 유지하기 쉽습니다.\\n\\n여기에 더해 커피 속 카페인은 뇌의 피로를 인지하게 만드는 아데노신(Adenosine) 물질의 작용을 원천 차단합니다. 그 결과 도파민(Dopamine)과 노르에피네프린(Norepinephrine)이 추가 분비되면서 정신적 긴장도와 고도의 장시간 주의력을 날카롭게 형성합니다. 단, 지나친 카페인 남용은 자율신경계를 흔들 수 있어 현대인들은 이를 통제된 2~3시간의 몰입 시간 블록에만 선별적으로 대입해야 합니다.",
-      "en": "Midnight or early morning hours, when cognitive noise—the distractions the brain experiences while processing information—completely disappears, are the optimal deep-work time block. Since no notifications arrive, the brain easily maintains attention.\\n\\nAdditionally, caffeine in coffee blocks adenosine, which registers brain fatigue. This releases dopamine and norepinephrine, creating mental alertness and sharp focus over long periods. However, to avoid autonomic nervous system disruption, modern professionals should selectively apply this method to controlled 2-3 hour deep-work blocks.",
-      "ja": "脳が情報を処理する際の妨げとなる「認知ノイズ（Cognitive Noise）」が完全に消え去る深夜や早朝は、注意力を最大化する没頭の時間帯です。電話や連絡が入らないため、脳が主導して集中を維持しやすくなります。さらにカフェインは、疲労を感じさせるアデノシンの働きをブロックし、ドーパミンとノルアドレナリンの分泌を促すことで、長時間の高度な集中力を保たせます。しかし過度な乱用は自律神経を乱すため、2〜3時間の集中ブロックに限定して活用すべきです。",
-      "zh": "在深夜或清晨时段，“认知噪音（Cognitive Noise，即大脑在处理信息时所经历的分心因素）”会彻底消失，这是提高注意力主导权的黄金专注时间。在所有人都入睡的时间里，没有电话或短信通知，大脑很容易主动维持专注状态。此外，咖啡中的咖啡因能从源头上阻断让人体察觉大脑疲劳的腺苷（Adenosine）物质的作用。其结果是促进多巴胺（Dopamine）和去甲肾上腺素（Norepinephrine）的额外分泌，从而在长时间内锐利地形成精神紧凑感和高度的注意力。然而，咖啡因的过度滥用会动摇自主神经系统，因此现代人应当选择性地将此方法仅应用于受控的2至3小时“专注时间块”中。",
-      "es": "Las horas de medianoche, cuando el ruido cognitivo (las distracciones al procesar información) desaparece, son óptimas para el trabajo profundo. Al no recibir notificaciones, el cerebro mantiene la concentración de forma natural. Además, la cafeína bloquea la adenosina, liberando dopamina y norepinefrina, lo que agudiza el enfoque. Para evitar alterar el sistema nervioso, aplique este método solo en bloques controlados de 2 a 3 horas.",
-      "fr": "Les heures de minuit, lorsque le bruit cognitif (les distractions lors du traitement de l'information) disparaît, sont optimales pour le travail profond. Sans notifications, le cerveau maintient la concentration naturellement. De plus, la caféine bloque l'adénosine, libérant dopamine et noradrénaline pour aiguiser la concentration. Appliquez cette méthode uniquement sur des blocs contrôlés de 2 à 3 heures.",
-      "de": "Die Nachtstunden, in denen der kognitive Lärm – also Ablenkungen bei der Informationsverarbeitung – komplett verstummt, sind optimal für Fokusarbeit. Da keine Benachrichtigungen eingehen, bleibt die Konzentration erhalten. Zudem blockiert Koffein das Adenosin, was Dopamin freisetzt und die Aufmerksamkeit schärft. Um das Nervensystem zu schonen, sollte diese Methode auf Blöcke von 2 bis 3 Stunden begrenzt werden.",
-      "pt": "As horas da meia-noite, quando o ruído cognitivo (as distrações ao processar informação) desaparece, são ideais para o trabalho profundo. Ao não receber notificações, o cérebro mantém a concentração de forma natural. Além disso, a cafeína bloqueia a adenosina, libertando dopamina e norepinefrina, o que agudiza o foco. Para evitar perturbações nervosas, aplique este método apenas em blocos controlados de 2 a 3 horas.",
-      "id": "Jam tengah malam, ketika kebisingan kognitif—gangguan yang dialami otak saat memproses informasi—hilang sepenuhnya, adalah blok waktu kerja mendalam yang optimal. Karena tidak ada notifikasi yang masuk, otak dengan mudah mempertahankan perhatian. Selain itu, kafein memblokir adenosin, memicu dopamin & norepinefrin yang menciptakan kewaspadaan & fokus tajam. Terapkan metode ini hanya pada blok kerja 2-3 jam."
+      "ko": "뇌가 정보를 처리할 때 겪는 방해 요소인 '인지 소음(Cognitive Noise)'이 완벽히 사라지는 심야 혹은 새벽 시간은 주의 장악력을 늘리는 최적의 몰입 시간대입니다. 모두가 잠든 시간은 전화나 메신저 알림이 오지 않아 뇌가 능동적으로 몰입의 끈을 유지하기 쉽습니다.\\n\\n여기에 더해 커피 속 카페인은 뇌의 피로를 인지하게 만드는 아데노신(Adenosine) 물질의 작용을 원천 차단합니다. 그 결과 도파민(Dopamine)과 노르에피네프린(Norepinephrine)이 추가 분비되면서 정신적 긴장도와 고도의 장시간 주의력을 날카롭게 형성합니다. 단, 지나친 카페인 남용은 자율신경계를 흔들 수 있어 현대인들은 이를 통제된 2~3시간의 몰입 시간 블록에만 선별적으로 대입해야 합니다."
+    },
+    "cautionTitle": {
+      "ko": "성공적인 루틴을 위한 뇌과학적 한마디"
+    },
+    "cautionDesc": {
+      "ko": "<strong>아는 척하는 지식의 덫에서 벗어나세요</strong>\\n\\n눈으로 훑어보는 독서와 설명글 감상은 지식을 소유했다는 '가짜 안도감'을 제공하지만, 실제로 행동을 변화시키지는 못합니다. 파인만처럼 학습 후 단 10분만이라도 흰 종이를 펼치고 손과 입을 움직여 설명해 보세요. 스스로 설명할 수 없는 모든 것은 아직 당신의 지식이 아닙니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "주 2회 고요한 심야/새벽 시간 확보",
-          "en": "Secure Quiet Midnight/Dawn Blocks Twice a Week",
-          "ja": "週2回静かな深夜/早朝時間の確保",
-          "zh": "每周确保两次安静的深夜/清晨时段",
-          "es": "Asegurar bloques silenciosos de medianoche/madrugada dos veces por semana",
-          "fr": "Réserver des créneaux calmes de minuit/aube deux fois par semaine",
-          "de": "Zweimal pro Woche ruhige Nacht- oder Morgenstunden reservieren",
-          "pt": "Garantir blocos silenciosos de meia-noite/madrugada duas vezes por semana",
-          "id": "Sediakan Blok Waktu Tengah Malam/Fajar yang Tenang Dua Kali Seminggu"
+          "ko": "주 2회 고요한 심야/새벽 시간 확보"
         },
         "text": {
-          "ko": "매일 심야에 활동하는 것은 신체에 부담이 가므로, 일주일에 1~2회 정도 외부 연락이 완전히 뜸해지는 밤 10시 이후 혹은 새벽 시간을 핵심 업무를 위한 통몰입 시간으로 지정합니다.",
-          "en": "Working late every night burdens the body. Instead, designate a dawn block or time after 10 PM once or twice a week—when external communications cease—for deep work on key tasks.",
-          "ja": "毎晩遅くまで作業するのは体に負担がかかるため、週に1〜2回程度、外部からの連絡が途絶える夜10時以降や早朝を、重要なタスクに取り組むための集中時間として指定します。",
-          "zh": "每天深夜活动会给身体带来负担，因此每周仅指定1-2次、在外部联系完全冷落的晚上10点以后或清晨时间，作为处理核心任务的整块专注时间。",
-          "es": "Trabajar de noche a diario cansa el cuerpo. En su lugar, asigne un bloque de madrugada o después de las 10 PM una o dos veces por semana para avanzar tareas clave sin interrupciones.",
-          "fr": "Travailler de nuit quotidiennement fatigue le corps. Réservez plutôt un créneau à l'aube ou après 22h une à deux fois par semaine pour avancer sur vos tâches clés sans interruption.",
-          "de": "Jede Nacht spät zu arbeiten, belastet den Körper. Reservieren Sie stattdessen ein- bis zweimal pro Woche Stunden nach 22 Uhr oder am frühen Morgen für die Arbeit an wichtigen Aufgaben.",
-          "pt": "Trabalhar à noite diariamente desgasta o corpo. Em vez disso, reserve um bloco de madrugada ou após as 10 PM uma ou duas vezes por semana para avançar em tarefas essenciais sem interrupções.",
-          "id": "Bekerja larut malam setiap hari membebani tubuh. Sebagai gantinya, tetapkan blok waktu fajar atau setelah jam 10 malam sekali atau dua kali seminggu saat komunikasi luar terhenti untuk melakukan tugas penting."
+          "ko": "매일 심야에 활동하는 것은 신체에 부담이 가므로, 일주일에 1~2회 정도 외부 연락이 완전히 뜸해지는 밤 10시 이후 혹은 새벽 시간을 핵심 업무를 위한 통몰입 시간으로 지정합니다."
         }
       },
       {
         "name": {
-          "ko": "시각적 및 환경 자극 극도 단순화",
-          "en": "Extreme Simplification of Visual and Environmental Stimuli",
-          "ja": "視覚的および環境的刺激の極度な単純化",
-          "zh": "视觉及环境刺激的极端简化",
-          "es": "Simplificación extrema de estímulos visuales y ambientales",
-          "fr": "Simplification extrême des stimuli visuels et environnementaux",
-          "de": "Visuelle und umweltbedingte Reize extrem vereinfachen",
-          "pt": "Simplificação extrema de estímulos visuais e ambientais",
-          "id": "Penyederhanaan Ekstrem Rangsangan Visual dan Lingkungan"
+          "ko": "시각적 및 환경 자극 극도 단순화"
         },
         "text": {
-          "ko": "방 안의 형광등을 끄고 집중 대상인 책상만 비추는 스탠드 조명 하나만 켭니다. 스마트폰은 무음 처리하여 눈에 보이지 않는 서랍 속에 넣어 주의 분산을 원천 봉쇄합니다.",
-          "en": "Turn off room lights and turn on a single desk lamp illuminating only your work area. Silence your smartphone and place it out of sight in a drawer to prevent any visual distraction.",
-          "ja": "部屋の蛍光灯を消し、手元を照らすデスクライト一つだけを灯します。スマートフォンはミュートにし、引き出しの中に隠すことで視覚的な散漫さを完全に封じ込めます。",
-          "zh": "关闭房间里的日光灯，仅打开一盏只照亮书桌集中区域的台灯。将手机设为静音，放入看不见的抽屉中，从源头上阻断分心因素。",
-          "es": "Apague las luces principales y encienda un flexo que ilumine solo el escritorio. Silencie el teléfono y guárdelo en un cajón para evitar distracciones visuales.",
-          "fr": "Éteignez les lumières principales et allumez une lampe de bureau éclairant uniquement votre zone de travail. Silenciez votre smartphone et rangez-le dans un tiroir pour éviter les distractions.",
-          "de": "Schalten Sie das Deckenlicht aus und nutzen Sie nur eine Schreibtischlampe. Stellen Sie das Smartphone stumm und legen Sie es in eine Schublade, um Ablenkung zu vermeiden.",
-          "pt": "Desligue as luzes principais e acenda um candeeiro que ilumine apenas a secretária. Silencie o telemóvel e guarde-o numa gaveta para evitar distrações visuais.",
-          "id": "Matikan lampu kamar & nyalakan satu lampu meja yang hanya menerangi area kerja Anda. Senyapkan ponsel & masukkan ke dalam laci agar tidak terlihat untuk mencegah gangguan visual."
+          "ko": "방 안의 형광등을 끄고 집중 대상인 책상만 비추는 스탠드 조명 하나만 켭니다. 스마트폰은 무음 처리하여 눈에 보이지 않는 서랍 속에 넣어 주의 분산을 원천 봉쇄합니다."
         }
       },
       {
         "name": {
-          "ko": "따뜻한 음료 준비 및 1개 핵심 과제 몰입",
-          "en": "Prepare Warm Beverage and Immerse in 1 Key Task",
-          "ja": "温かい飲み物の準備と1つの重要課題への没頭",
-          "zh": "准备温热饮品并专注于1个核心任务",
-          "es": "Preparar bebida caliente y concentrarse en 1 tarea clave",
-          "fr": "Préparer une boisson chaude et se concentrer sur 1 tâche clé",
-          "de": "Warmes Getränk zubereiten und auf eine Hauptaufgabe konzentrieren",
-          "pt": "Preparar bebida quente e concentrar-se em 1 tarefa essencial",
-          "id": "Siapkan Minuman Hangat dan Fokus pada 1 Tugas Utama"
+          "ko": "따뜻한 음료 준비 및 1개 핵심 과제 몰입"
         },
         "text": {
-          "ko": "뇌의 집중을 도울 따뜻한 커피나 차를 한 잔 곁들입니다. 준비된 집중 시간 동안 여러 작업을 동시에 수행(멀티태스킹)하지 않고, 사전에 정의한 가장 가치 있고 무거운 '단 1개의 과제'에만 전력 투구합니다.",
-          "en": "Accompany your work with a warm cup of coffee or tea to aid concentration. Do not multitask; devote all your energy to 'just one task'—the most valuable and challenging one defined beforehand.",
-          "ja": "集中を助ける温かいコーヒーや紅茶を用意します。この時間はマルチタスクを避け、事前に決めた最も重要で骨の折れる「たった一つの課題」だけに全力を注ぎます。",
-          "zh": "伴着一杯有助于大脑专注的温热咖啡或茶。在预设的专注时间里，不要同时处理多项任务（多任务处理），而是全力投入到事先确定的最具价值且难度最大的“仅有的一项任务”中。",
-          "es": "Acompañe su trabajo con una taza caliente de café o té. Evite la multitarea; dedique toda su energía a realizar 'una sola tarea', la más valiosa y compleja definida previamente.",
-          "fr": "Accompagnez votre travail d'une tasse chaude de café ou de thé. Évitez le multitâche ; consacrez toute votre énergie à « une seule tâche », la plus complexe définie au préalable.",
-          "de": "Bereiten Sie Kaffee oder Tee zu. Vermeiden Sie Multitasking und widmen Sie Ihre gesamte Energie nur einer einzigen, zuvor definierten, wichtigen Aufgabe.",
-          "pt": "Acompanhe o seu trabalho com uma chávena quente de café ou chá. Evite o multitasking; dedique toda a sua energia a realizar 'uma única tarefa', a mais valiosa e complexa definida previamente.",
-          "id": "Sertai kerja Anda dengan secangkir kopi atau teh hangat untuk membantu konsentrasi. Jangan melakukan multitasking; curahkan seluruh energi Anda untuk 'satu tugas saja'."
+          "ko": "뇌의 집중을 도울 따뜻한 커피나 차를 한 잔 곁들입니다. 준비된 집중 시간 동안 여러 작업을 동시에 수행(멀티태스킹)하지 않고, 사전에 정의한 가장 가치 있고 무거운 '단 1개의 과제'에만 전력 투구합니다."
         }
       }
     ],
-    "cautionTitle": {
-      "ko": "성공적인 루틴을 위한 脳科学的 한마디",
-      "en": "A brain-scientific word for a successful routine",
-      "ja": "効果的なルーティンのための脳科学的な一言",
-      "zh": "成功惯例的脑科学建议",
-      "es": "Un consejo neurocientífico para una rutina exitosa",
-      "fr": "Un conseil neuroscientifique pour une routine réussie",
-      "de": "Ein gehirnwissenschaftlicher Ratschlag für eine erfolgreiche Routine",
-      "pt": "Um conselho neurocientífico para uma rotina de sucesso",
-      "id": "Saran ilmiah saraf untuk rutinitas yang sukses"
-    },
-    "cautionDesc": {
-      "ko": "<strong>아는 척하는 지식의 덫에서 벗어나세요</strong>\\n\\n눈으로 훑어보는 독서와 설명글 감상은 지식을 소유했다는 '가짜 안도감'을 제공하지만, 실제로 행동을 변화시키지는 못합니다. 파인만처럼 학습 후 단 10분만이라도 흰 종이를 펼치고 손과 입을 움직여 설명해 보세요. 스스로 설명할 수 없는 모든 것은 아직 당신의 지식이 아닙니다.",
-      "en": "Escape the trap of pseudo-knowledge. Scanning text gives a false sense of security but doesn't change behavior. Like Feynman, open a blank page and explain using your hands and voice for just 10 minutes after learning. Anything you cannot explain is not your knowledge yet.",
-      "ja": "知っているふりをする「知識の罠」から抜け出してください。目で追う読書は知識を得たような錯覚を与えますが、実際には脳に残りません。ファインマンのように学習後の10分間だけでも白い紙を開き、手と口を動かして説明してみてください。自分で説明できないものはまだ自分の知識ではありません。",
-      "zh": "摆脱装懂知识的陷阱。用眼睛扫视阅读和欣赏说明性文字会给人一种掌握了知识的“虚假安逸感”，但实际上并不能促成行动的改变。像费曼一样，学习后哪怕只花10分钟，打开一张白纸，动用手和嘴去讲解一下吧。凡是无法靠自己讲清楚的，都还不是你自己的知识。",
-      "es": "Escape de la trampa del pseudo-conocimiento. Ojear textos da una falsa sensación de seguridad pero no cambia la conducta. Al igual que Feynman, use una página en blanco y explique con su voz durante 10 minutos tras aprender. Lo que no pueda explicar no es su conocimiento aún.",
-      "fr": "Échappez au piège du pseudo-savoir. Parcourir du texte donne un faux sentiment de sécurité mais ne change pas le comportement. Comme Feynman, ouvrez une page blanche et expliquez avec votre voix pendant 10 minutes après l'apprentissage. Ce que vous ne pouvez expliquer n'est pas encore votre savoir.",
-      "de": "Entkommen Sie der Falle des Scheinwissens. Das Überfliegen von Texten vermittelt ein falsches Sicherheitsgefühl. Nehmen Sie sich wie Feynman nach dem Lernen 10 Minuten Zeit, um auf einem weißen Blatt Papier das Wissen mit eigenen Worten zu erklären. Was Sie nicht erklären können, wissen Sie noch nicht.",
-      "pt": "Fuja da armadilha do pseudo-conhecimento. Passar os olhos por textos dá uma falsa sensação de segurança, mas não muda o comportamento. Tal como Feynman, use uma página en blanco e explique com a sua voz durante 10 minutos após aprender. O que não puder explicar não é o seu conhecimento ainda.",
-      "id": "Hindari jebakan seolah-olah tahu. Membaca sekilas memberikan rasa aman yang palsu tetapi tidak mengubah perilaku. Seperti Feynman, buka halaman kosong & jelaskan menggunakan suara Anda selama 10 menit setelah belajar. Apa pun yang tidak dapat Anda jelaskan bukanlah pengetahuan Anda."
-    },
     "faqs": [
       {
         "question": {
-          "ko": "밤늦은 시간에 카페인을 섭취하면 수면에 방해가 되지 않나요?",
-          "en": "Does consuming caffeine late at night disturb sleep?",
-          "ja": "遅い時間にカフェインを摂取すると睡眠の妨げになりませんか？",
-          "zh": "深夜摄入咖啡因不会影响睡眠吗？",
-          "es": "¿Consumir cafeína tarde en la noche no altera el sueño?",
-          "fr": "Consommer de la caféine tard le soir ne perturbe-t-il pas le sommeil ?",
-          "de": "Stört Koffein am späten Abend nicht den Schlaf?",
-          "pt": "Consumir cafeína tarde da noite não prejudica o sono?",
-          "id": "Apakah mengonsumsi kafein larut malam mengganggu tidur?"
+          "ko": "밤늦은 시간에 카페인을 섭취하면 수면에 방해가 되지 않나요?"
         },
         "answer": {
-          "ko": "네, 수면의 질을 저하시킬 수 있습니다. 발자크처럼 매일 자정에 깨는 생활은 현대 직장인에게 부적절하므로, 카페인에 민감하신 분들은 디카페인 커피나 민트 티 등의 대체 음료를 사용하고, 몰입 블록은 가급적 퇴근 직후나 이른 아침 시간에 배치하는 것을 권장합니다.",
-          "en": "Yes, it can reduce sleep quality. Waking at midnight daily like Balzac is unsuitable for modern professionals. If sensitive, use decaf or mint tea, and place the deep-work block early in the morning or immediately after work.",
-          "ja": "睡眠の質を低下させる可能性があります。バルザックのような生活は現代の労働者には適さないため、敏感な方はカフェインレスコーヒーやハーブティーを代用し、集中ブロックは退勤直後や朝に配置することをお勧めします。",
-          "zh": "是的，可能会降低睡眠质量。像巴尔扎克那样每天子夜醒来的生活并不适合现代上班族，因此对咖啡因敏感的人建议使用无咖啡因咖啡或薄荷茶等替代饮品，并将“专注时间块”尽可能安排在刚下班后或清晨时段。",
-          "es": "Sí, puede afectar el sueño. El estilo de Balzac no es apto para trabajadores actuales. Si es sensible, use café descafeinado o té de menta, y ubique el bloque de trabajo temprano en la mañana o al salir de trabajar.",
-          "fr": "Oui, cela peut affecter le sommeil. Le style de Balzac n'est pas adapté pour les actifs. Si vous êtes sensible, utilisez du décaféiné ou du thé à la menthe, et placez le bloc de travail à l'aube ou juste après le travail.",
-          "de": "Ja, es kann Schlafqualität mindern. Die Gewohnheit Balzacs ist für moderne Arbeitnehmer ungeeignet. Nutzen Sie bei Empfindlichkeit entkoffeinierten Kaffee oder Pfefferminztee und legen Sie Fokusstunden auf den frühen Morgen.",
-          "pt": "Sim, pode afetar o sono. O estilo de Balzac não é adequado para trabalhadores atuais. Se for sensível, use café descafeinado ou chá de menta, e situe o bloco de trabalho de manhã cedo ou ao sair do trabalho.",
-          "id": "Ya, itu dapat menurunkan kualitas tidur. Gaya hidup Balzac tidak cocok untuk pekerja modern. Jika sensitif, gunakan kopi dekave atau teh mint, & jadwalkan blok kerja di pagi hari atau segera setelah pulang kerja."
+          "ko": "네, 수면의 질을 저하시킬 수 있습니다. 발자크처럼 매일 자정에 깨는 생활은 현대 직장인에게 부적절하므로, 카페인에 민감하신 분들은 디카페인 커피나 민트 티 등의 대체 음료를 사용하고, 몰입 블록은 가급적 퇴근 직후나 이른 아침 시간에 배치하는 것을 권장합니다."
         }
       }
     ]

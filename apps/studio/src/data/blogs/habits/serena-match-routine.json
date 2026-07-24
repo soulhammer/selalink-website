@@ -1,218 +1,72 @@
 {
   "serena-match-routine": {
     "title": {
-      "ko": "불안을 잠재우는 서브: 세레나 윌리엄스의 경기 전 루틴 습관",
-      "en": "Serve That Calms Anxiety: Serena Williams' Pre-Match Routine Habit",
-      "ja": "不安を静めるサーブ：セリーナ・ウィリアムズの試合前ルーティン習慣",
-      "zh": "平息焦虑的防线：塞雷娜·威廉姆斯的赛前规程习惯",
-      "es": "El saque que calma la ansiedad: El hábito de rutina previa al partido de Serena Williams",
-      "fr": "Le service qui calme l'anxiété : L'habitude de routine d'avant-match de Serena Williams",
-      "de": "Der Aufschlag, der die Angst nimmt: Serena Williams' Gewohnheit der Routine vor dem Match",
-      "pt": "O saque que acalma a ansiedade: O hábito de rotina pré-jogo de Serena Williams",
-      "id": "Servis yang Menenangkan Kecemasan: Kebiasaan Rutinitas Pra-Tanding Serena Williams"
+      "ko": "불안을 잠재우는 서브: 세레나 윌리엄스의 경기 전 루틴 습관"
     },
     "description": {
-      "ko": "첫 서브 전 테니스 공을 항상 5번 튕기는 등의 경기 전 루틴을 철저히 지켰던 세레나 윌리엄스. 수행 전 루틴이 외부 불안 자극을 차단하고 뇌를 인지적 프레이밍 상태로 조율하는 원리를 연구합니다.",
-      "en": "Serena Williams, who strictly followed pre-match routines like bouncing the tennis ball 5 times before serving. Learn how pre-performance routines block anxiety and frame the brain for peak state.",
-      "ja": "ファーストサーブの前にテニスボールを常に5回バウンドさせるなど、試合前のルーティンを徹底的に守ったセリーナ・ウィリアムズ。遂行前ルーティンが外部の不安刺激を遮断し、脳を認次的フレーミング状態に調整する原理を研究します。",
-      "zh": "在发一球前总是将网球弹跳5次等、彻底坚守赛前规程的塞雷娜·威廉姆斯。研究执行前规程如何阻断外界焦虑刺激、并调节大脑使其进入认知框架状态的原理。",
-      "es": "Serena Williams rebotaba la pelota exactamente 5 veces antes de su primer saque. Descubra cómo la rutina previa (PPR) bloquea el estrés externo y prepara al cerebro para el máximo rendimiento.",
-      "fr": "Serena Williams faisait rebondir sa balle exactement 5 fois avant son premier service. Découvrez comment la routine de pré-performance bloque le stress et prépare le cerveau.",
-      "de": "Serena Williams prellte den Ball vor dem ersten Aufschlag immer genau 5 Mal. Erfahren Sie, wie Vorbereitungsroutinen (Pre-Performance Routine) Angst blockieren und den Fokus maximieren.",
-      "pt": "Serena Williams quicava a bola exatamente 5 vezes antes de seu primeiro saque. Descubra como a rotina prévia (PPR) bloqueia o estresse externo e prepara o cérebro.",
-      "id": "Serena Williams, yang selalu memantulkan bola tenis 5 kali sebelum melakukan servis pertama. Pelajari bagaimana rutinitas pra-tanding memblokir cemas."
+      "ko": "첫 서브 전 테니스 공을 항상 5번 튕기는 등의 경기 전 루틴을 철저히 지켰던 세레나 윌리엄스. 수행 전 루틴이 외부 불안 자극을 차단하고 뇌를 인지적 프레이밍 상태로 조율하는 원리를 연구합니다."
     },
     "authority": {
-      "ko": "테니스 매거진 및 스포츠 심리학자 싱어(Singer)의 수행 전 루틴(Pre-Performance Routine) 및 인지적 프레이밍(Cognitive Framing) 연구",
-      "en": "Tennis Magazine interviews and Singer's research on Pre-Performance Routines (PPR) & Cognitive Framing",
-      "ja": "テニスマガジンおよびスポーツ心理学者シンガー（Singer）の遂行前ルーティン（Pre-Performance Routine）および認知的フレーミング（Cognitive Framing）研究",
-      "zh": "《网球杂志》及体育心理学家辛格(Singer)执行前规程(Pre-Performance Routine)与认知框架(Cognitive Framing)研究",
-      "es": "Autenticación de entrevistas de Tennis Magazine e investigaciones del psicólogo del deporte Singer sobre las rutinas previas a la ejecución y el encuadre cognitivo",
-      "fr": "Récit d'entretiens de Tennis Magazine et travaux du psychologue du sport Singer sur les routines de pré-performance",
-      "de": "Historische Belege aus dem Tennis Magazine und Singers sportpsychologische Forschung zu Vorbereitungsroutinen (Pre-Performance Routine) und kognitivem Framing",
-      "pt": "Autenticação de entrevistas de Tennis Magazine e pesquisas do psicólogo do esporte Singer sobre as rotinas prévias à execução",
-      "id": "Wawancara Tennis Magazine dan Penelitian Psikolog Olahraga Singer tentang Rutinitas Pra-Tanding"
+      "ko": "Serena Match Routine 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "그랜드슬램 단식 23회 우승, 사상 최고의 테니스 여제 세레나 윌리엄스. 전 세계 언론의 현미경 같은 관심과 한 점만 잃어도 순위가 뒤바뀌는 코트 위의 잔인한 압박 속에서 그녀가 20년 동안 세계 최강의 자리를 고수한 무기는 경기 전 수행하는 집착적이고 기이한 루틴들이었습니다. 그녀는 코트에 들어서기 전 항상 같은 헤드폰으로 음악을 들었고, 첫 서브 전에는 볼을 정확하게 5번 튕겼습니다. 심지어 승리한 대회의 양말은 빨지 않고 대회 내내 신는 징크스도 지켰습니다. 경기 속 통제 불가능한 온갖 불안 변수들을 자신만의 물리적 동작으로 차단하고 마인드를 포커싱하는 인지 심리학적 메커니즘을 파헤칩니다.",
-      "en": "Winner of 23 Grand Slam singles, the greatest tennis queen of all time, Serena Williams. Amidst microscopic media attention and the brutal pressure on the court where losing a single point could slip her ranking, the weapons that kept her at the top for 20 years were her obsessive and unique pre-match routines. Before entering the court, she always listened to music with the same headphones, and bounced the ball exactly 5 times before the first serve. We explore how these physical actions blocked uncontrollable anxiety variables and focused her mind.",
-      "ja": "グランドスラムシングルス23回優勝、史上最高のテニス女王セリーナ・ウィリアムズ. 全世界のメディアによる顕微鏡のような関心と、1点失うだけでも順位が覆るコート上の残酷な重圧の中で、彼女が20年間にわたり世界最強の座を守り続けた武器は、試合前に実行する執着に近い奇妙なルーティンでした。彼女はコートに入る前、常に同じヘッドホンで音楽を聴き、ファーストサーブの前にはボールを正確に5回バウンドさせました。試合中のコントロール不可能なあらゆる不安要因を自らの物理的動作で遮断し、マインドをフォーカシングする認知心理学のメカニズムを解き明かします。",
-      "zh": "通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
-      "es": "Serena Williams, la reina del tenis. En medio de la presión de la cancha, su arma secreta eran sus rutinas estrictas. Antes de jugar, escuchaba música con los mismos auriculares y botaba la pelota 5 veces antes de su primer saque. Analicemos cómo la rutina de pre-performance (PPR) ayuda a calmar la amígdala desviando el enfoque a tareas motrices de control.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Rekordsiegerin Serena Williams. Unter dem extremen Druck auf dem Platz halfen ihr strikte Rituale. Vor dem Match hörte sie über dieselben Kopfhörer Musik und prellte den Ball vor dem ersten Aufschlag genau 5 Mal. Sportpsychologisch blockiert eine solche Vorbereitungsroutine die Versagensangst, indem sie den Fokus auf einfache Abläufe lenkt.",
-      "pt": "Na prática desta rotina transformadora:   23 ,      .                  20            .         ,      5 .           .                 .\n\nAo praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Peraih 23 gelar tunggal Grand Slam, ratu tenis Serena Williams. Di bawah tekanan media dan lapangan yang sangat besar, senjatanya bertahan selama 20 tahun adalah rutinitas pra-tanding yang ketat. Sebelum servis pertama, ia selalu memantulkan bola tenis sebanyak 5 kali. Pelajari bagaimana gerakan motorik berulang mengamankan fokus mental."
+      "ko": "\"나는 매 경기 전 동일한 행동 순서를 반복하며 코트 위에 나만의 통제된 영토를 구축한다.\" 🎾\n\n테니스 역사상 가장 강력한 서브와 파괴력으로 메이저 단식 23회 우승을 차지한 스포츠사 최고의 레전드 세레나 윌리엄스. 매 경기 수천 명의 관중이 외치는 소음과 언론의 현미경 같은 관심 속에서, 단 한 점의 실수로 우승 트로피의 향방이 갈리는 잔인한 코트 위에서 그녀가 20년 가까이 세계 최정상의 자리를 지켜낼 수 있었던 멘탈의 열쇠는 다름 아닌 '의식적인 루틴'이었습니다. 세레나는 시합 전에 샤워용 샌들을 특정 방식으로 정렬하고, 가방을 늘 똑같은 장소에 배치했습니다. 가장 두드러진 습관은 서브 직전에 나타났습니다. 그녀는 첫 서브를 넣기 전에는 언제나 공을 정확히 5번 튕겼고, 세컨드 서브를 넣기 전에는 공을 정확히 2번 튕긴 뒤 서브 모션에 들어갔습니다. 경기 중 엄습하는 통제 불가능한 온갖 불안을 자신만의 신체적 지침으로 완전히 무력화하는 뇌과학적 메커니즘을 알아봅니다."
     },
     "whyTitle": {
-      "ko": "수행 전 루틴(PPR)을 통한 편도체 통제와 인지 프레이밍",
-      "en": "Amygdala Control and Cognitive Framing through Pre-Performance Routines (PPR)",
-      "ja": "遂行前ルーティン（PPR）による扁桃体制御と認次的フレーミング",
-      "zh": "通过执行前规程(PPR)实现的杏仁核控制与认知框架",
-      "es": "Control de la amígdala y encuadre cognitivo mediante rutinas previas (PPR)",
-      "fr": "Contrôle de l'amygdale et cadrage cognitif par les routines de pré-performance (PPR)",
-      "de": "Steuerung des Mandelkerns und kognitives Framing durch Pre-Performance Routines",
-      "pt": "Controle da amígdala e enquadramento cognitivo mediante rotinas prévias (PPR)",
-      "id": "Mengontrol Amigdala dan Membangun Bingkai Kognitif Melalui Rutinitas Pra-Tanding"
+      "ko": "수행 전 루틴(PPR)을 통한 편도체 통제와 인지 프레이밍"
     },
     "whyDesc": {
-      "ko": "시험이나 시합 직전 겪는 고도의 불안은 뇌의 시상하부를 자극해 에피네프린을 분비하고, 근육을 경직시키며 인지적 과경계(Hyper-vigilance)를 유발합니다. 스포츠 심리학에서 검증된 '수행 전 루틴(Pre-Performance Routine)'은 뇌가 통제할 수 없는 외부의 위협(상대방의 전력, 관중의 소음)에서 시선을 차단하고, 100% 통제 가능한 자신의 '신체 동작(공 튕기기, 가방 정렬)'으로 초점을 강제로 이동시킵니다. 이 물리적 통제 행위는 편도체 경보 회로를 정지시키고 뇌를 '안전한 몰입 상태'로 조율하는 인지적 프레이밍(Cognitive Framing) 효과를 발휘하여 기량 실수를 줄여줍니다.",
-      "en": "The intense anxiety felt right before an exam or match stimulates the brain's hypothalamus, secreting epinephrine, stiffening muscles, and causing hyper-vigilance. A 'Pre-Performance Routine (PPR),' verified in sports psychology, turns the brain's eyes away from uncontrollable external threats (opponents, crowd noise) and forces focus onto 100% controllable 'physical actions' (bouncing the ball, arranging bags). This physical control halts the amygdala alarm circuits and activates a cognitive framing effect, tuning the brain into a safe flow state to reduce execution mistakes.",
-      "ja": "試験や試合直前に経験する高度の不安は、脳の視床下部を刺激してエピネフリンを分泌させ、筋肉を硬直させ、認知的な過警戒（Hyper-vigilance）を引き起こします。スポーツ心理学で検証された「遂行前ルーティン」は、脳がコントロールできない外部の脅威から視線を遮断し、100%コントロール可能な自らの「身体動作」に焦点を強制的に移行させます。この物理的な制御行為は扁桃体のアラーム回路を停止させ、脳を「安全な没頭状態」に調整する認次的フレーミング（Cognitive Framing）効果を発揮し、技術的なミスを減少させます。",
-      "zh": "在考试或比赛前夕所承受的高度焦虑，会刺激大脑下丘脑分泌肾上腺素，使肌肉僵硬并引发认知过度警觉(Hyper-vigilance)。在体育心理学中得到验证的“执行前规程(Pre-Performance Routine)”能将视线从大脑无法控制的外部威胁上移开，强行将焦点转移到自己100%可控的“身体动作”上。这种物理控制行为能令杏仁核报警回路停止运转，并发挥将大脑调节为“安全专注状态”的认知框架(Cognitive Framing)效应，从而减少水平发挥上的失误。",
-      "es": "La ansiedad extrema antes de una prueba activa el sistema nervioso simpático, tensando los músculos y nublando el pensamiento. La rutina de pre-performance (PPR) desvía la mirada de los factores externos amenazantes y fuerza al cerebro a enfocarse en una acción motora 100% controlable por el sujeto. Esta ilusión de control detiene la respuesta de lucha o huida de la amígdala y crea un encuadre cognitivo (Cognitive Framing) que estabiliza el pulso y asegura la precisión.",
-      "fr": "L'anxiété extrême avant une épreuve excite le système sympathique, contractant les muscles et limitant la clarté d'esprit. La routine de pré-performance (PPR) détourne l'attention des menaces externes pour la forcer sur une action physique 100 % contrôlable. Ce contrôle arrête le système d'alarme de l'amygdale et crée un cadrage cognitif qui stabilise le geste.",
-      "de": "Extremer Druck vor Prüfungen regt den Hypothalamus an, blockiert Muskeln und trübt das Denken. Vorbereitungsroutinen (Pre-Performance Routine) lenken den Blick weg von unkontrollierbaren Störfaktoren hin zu 100 % kontrollierbaren Bewegungsabläufen. Dieses Gefühl der Kontrolle beruhigt den Mandelkern und schafft einen kognitiven Rahmen (Cognitive Framing), der Präzision ermöglicht.",
-      "pt": "La ansiedade extrema antes de uma prova ativa o sistema nervoso simpático, tensionando os músculos. La rotina pré-jogo (PPR) desvia o olhar dos fatores externos ameaçadores e força o cérebro a focar-se numa ação motora 100% controlável pelo sujeito. Esta ilusão de controle desliga o alarme da amígdala e cria um enquadramento cognitivo.",
-      "id": "Kecemasan ekstrem sebelum kompetisi merangsang hipotalamus, memicu hormon epinefrin, mengeraskan otot, dan memicu kewaspadaan berlebih. Rutinitas Pra-Tanding (PPR) mengalihkan perhatian otak dari ancaman eksternal yang tidak dapat dikendalikan dan memaksanya fokus pada tindakan fisik 100% terkendali. Ini menghentikan alarm amigdala."
+      "ko": "시험이나 시합 직전 겪는 고도의 불안은 뇌의 시상하부를 자극해 에피네프린을 분비하고, 근육을 경직시키며 인지적 과경계(Hyper-vigilance)를 유발합니다. 스포츠 심리학에서 검증된 '수행 전 루틴(Pre-Performance Routine)'은 뇌가 통제할 수 없는 외부의 위협(상대방의 전력, 관중의 소음)에서 시선을 차단하고, 100% 통제 가능한 자신의 '신체 동작(공 튕기기, 가방 정렬)'으로 초점을 강제로 이동시킵니다. 이 물리적 통제 행위는 편도체 경보 회로를 정지시키고 뇌를 '안전한 몰입 상태'로 조율하는 인지적 프레이밍(Cognitive Framing) 효과를 발휘하여 기량 실수를 줄여줍니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "수행 전 루틴을 적용할 때 주의해야 할 최악의 함정은 루틴의 동작 순서나 방식 자체에 집착하여 새로운 불안 요소를 만들어내는 것입니다. '만약 공을 5번이 아니라 4번 튕기면 경기를 망칠 것이다'라는 식으로 강박에 고착되면, 루틴 자체가 인지 자원을 소모하는 또 다른 스트레스 요인으로 전락합니다. 따라서 루틴의 핵심은 동작 자체의 완벽함이 아니라 '마음의 스위치를 켜는 도구'임을 자각하는 것이며, 상황에 맞춰 유연하게 변형할 수 있는 여유가 필요합니다.",
-      "en": "The worst trap when applying pre-performance routines is obsessing over the routine itself, creating a new source of anxiety. If you fall into obsessive thoughts like 'if I bounce the ball 4 times instead of 5, I will ruin the match,' the routine becomes another cognitive stressor. Remember, the routine is a tool to switch on focus, not a magical constraint, requiring mental flexibility.",
-      "ja": "遂行前ルーティンを適用する際に注意すべき点は、ルーティンの動作順序や方法そのものに執着して新たな不安要素を作り出すことです. 「もしボールを5回ではなく4回バウンドさせたら試合を台無しにするだろう」というように強迫に固執すると、ルーティン自体が認知リソースを消耗する別のストレス要因に転落します. したがってルーティンの核心は動作自体の完璧さではなく「心のスイッチを入れる道具」であることを自覚することであり、状況に合わせて柔軟に変形できる余裕が必要です.",
-      "zh": "在应用执行前规程时需要警惕的最大陷阱是，执着于规程的操作顺序或形式本身，反而造成新的焦虑因素。如果陷入“如果球只弹了4次而不是5次，就会毁掉比赛”这一强迫观念中，规程本身就会沦为消耗认知精力的又一个压力源。因此，规程的核心并不在于动作本身的完美，而在于自觉这只是“开启心态的工具”，需要留出能因情况灵活调整的余地。",
-      "es": "El error es obsesionarse con la exactitud milimétrica de la rutina, creando una nueva fuente de estrés. Creer que si bota la pelota 4 veces en lugar de 5 fallará convierte el ritual en otra limitación patológica. Recuerde que la rutina es una herramienta para encender la concentración (un interruptor mental), no un fetiche inamovible. Mantenga la flexibilidad.",
-      "fr": "L'erreur est d'obséder sur l'exactitude de la routine, créant un nouveau stress. Penser que rater un geste de la routine ruinera votre performance transforme le rituel en contrainte. Rappelez-vous que la routine est un outil pour allumer la concentration, non un dogme. Gardez de la souplesse.",
-      "de": "Vermeiden Sie es, sich sklavisch an das Ritual zu klammern und so neue Ängste zu schüren. Der Gedanke, dass ein Fehler beim Ritual die Leistung ruiniert, macht die Routine zum Stressfaktor. Sie ist nur ein Schalter für den Fokus, kein Zwang. Bleiben Sie flexibel.",
-      "pt": "O erro é obcecar-se com a exatidão milimétrica da rotina, criando uma nova fonte de estresse. Acreditar que se quicar a bola 4 vezes em vez de 5 falhará converte o ritual noutra limitação. Lembre-se de que a rotina é uma ferramenta para ligar a concentração, não um fetiche inamovível.",
-      "id": "Jebakan memedulikan ketepatan gerakan rutinitas secara kaku harus dihindari agar tidak memicu kecemasan baru. Terjebak pikiran cemas seperti 'jika memantulkan bola 4 kali, maka performa akan hancur' membuat rutinitas membebani RAM kognitif Anda. Ingat, ini hanyalah tombol fokus harian."
+      "ko": "수행 전 루틴을 적용할 때 주의해야 할 최악의 함정은 루틴의 동작 순서나 방식 자체에 집착하여 새로운 불안 요소를 만들어내는 것입니다. '만약 공을 5번이 아니라 4번 튕기면 경기를 망칠 것이다'라는 식으로 강박에 고착되면, 루틴 자체가 인지 자원을 소모하는 또 다른 스트레스 요인으로 전락합니다. 따라서 루틴의 핵심은 동작 자체의 완벽함이 아니라 '마음의 스위치를 켜는 도구'임을 자각하는 것이며, 상황에 맞춰 유연하게 변형할 수 있는 여유가 필요합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "5초 마인드 셋업 동작 설정",
-          "en": "Setting Up a 5-Second Mind Setup Action",
-          "ja": "5秒マインドセットアップ動作設定",
-          "zh": "设定5秒心态调整动作",
-          "es": "Definir una acción de encuadre de 5 segundos",
-          "fr": "Définir un geste de cadrage de 5 secondes",
-          "de": "Bestimmen einer 5-sekündigen Fokus-Geste",
-          "pt": "Definir uma ação de enquadramento de 5 segundos",
-          "id": "Menentukan Aksi Fokus 5 Detik"
+          "ko": "5초 마인드 셋업 동작 설정"
         },
         "text": {
-          "ko": "중요한 과업에 들어가기 전 5초 동안 신속하게 실행할 수 있는 자신만의 고유한 신체 동작 의식(예: 심호흡 3회 후 손 털기) 하나를 지정합니다.",
-          "en": "Designate a unique physical ritual that can be executed quickly within 5 seconds before entering a core task (e.g., taking 3 deep breaths and shaking hands).",
-          "ja": "重要な課題に入る前の5秒間、迅速に実行できる自分だけの固有の身体動作の儀式（例：深呼吸3回後に手を振るなど）を一つ指定します。",
-          "zh": "指定一个在进入重要任务前5秒内可以快速执行的、属于个人特有的身体动作仪式（如深呼吸3次后抖抖双手）。",
-          "es": "Elija un movimiento corporal sencillo que pueda realizar en 5 segundos antes de comenzar la tarea (como tres respiraciones lentas y sacudir las manos).",
-          "fr": "Choisissez un geste simple à réaliser en 5 secondes avant de commencer le travail (comme inspirer trois fois et secouer les mains).",
-          "de": "Wählen Sie eine kurze Geste aus, die Sie in 5 Sekunden vor der Aufgabe ausführen können (z. B. dreimal tief durchatmen und die Hände schütteln).",
-          "pt": "Escolha um movimento corporal simples que possa realizar em 5 segundos antes de começar a tarefa (como três respirações lentas e sacudir as mãos).",
-          "id": "Tentukan satu ritual fisik sederhana yang dapat dilakukan dengan cepat dalam 5 detik sebelum memulai tugas (misalnya tarik napas 3 kali lalu goyangkan tangan)."
+          "ko": "중요한 과업에 들어가기 전 5초 동안 신속하게 실행할 수 있는 자신만의 고유한 신체 동작 의식(예: 심호흡 3회 후 손 털기) 하나를 지정합니다."
         }
       },
       {
         "name": {
-          "ko": "규칙에 따른 강제 신체 통제",
-          "en": "Forced Physical Control Based on Rules",
-          "ja": "規則に伴う強制的な身体制御",
-          "zh": "按规则实施强制性身体掌控",
-          "es": "Ejecutar la rutina física según la secuencia",
-          "fr": "Exécuter la routine physique dans l'ordre",
-          "de": "Ausführen der Geste nach festem Ablauf",
-          "pt": "Executar a rotina física segundo a secuencia",
-          "id": "Melakukan Kontrol Fisik Sesuai Aturan"
+          "ko": "규칙에 따른 강제 신체 통제"
         },
         "text": {
-          "ko": "평가 압박이나 잡념이 들어올 틈을 주지 않고, 지정된 동일한 순서의 신체 루틴을 시선과 감각을 가다듬으며 가볍게 수행합니다.",
-          "en": "Without letting evaluative pressure or trivial thoughts slide in, execute the pre-defined physical routine while centering your focus and senses.",
-          "ja": "評価の重圧や雑念が入り込む隙を与えず、指定された同じ順序の身体ルーティンを目線と感覚を整えながら軽快に実行します。",
-          "zh": "不给评估压力或杂念切入的空隙，调整视线与感官，轻松地按照指定步骤实施该身体动作规程。",
-          "es": "Realice la secuencia corporal tal como la planificó, concentrando la vista y el tacto en el movimiento, bloqueando ideas de fracaso.",
-          "fr": "Réalisez la séquence corporelle prévue, en concentrant votre regard et votre toucher sur le geste, bloquant toute pensée négative.",
-          "de": "Führen Sie die Geste genau wie geplant aus. Konzentrieren Sie sich ganz auf den Tastsinn und die Bewegung, um Zweifel auszublenden.",
-          "pt": "Realize a sequência corporal tal como a planejou, concentrando a vista e o tato no movimento, bloqueando ideias de fracasso.",
-          "id": "Lakukan aksi fisik tersebut secara fokus tanpa memikirkan tekanan sekitar atau hasil akhir pekerjaan."
+          "ko": "평가 압박이나 잡념이 들어올 틈을 주지 않고, 지정된 동일한 순서의 신체 루틴을 시선과 감각을 가다듬으며 가볍게 수행합니다."
         }
       },
       {
         "name": {
-          "ko": "루틴 연계 즉시 과업 진입",
-          "en": "Immediate Task Entry Linked to the Routine",
-          "ja": "ルーティン連携による即時の課題進入",
-          "zh": "紧接规程立即进入任务",
-          "es": "Iniciar la tarea principal inmediatamente",
-          "fr": "Entamer le travail principal de suite",
-          "de": "Direkter Einstieg in die Hauptaufgabe",
-          "pt": "Iniciar a tarefa principal imediatamente",
-          "id": "Langsung Beralih ke Tugas Utama"
+          "ko": "루틴 연계 즉시 과업 진입"
         },
         "text": {
-          "ko": "마지막 신체 동작이 끝나는 물리적 차단 시점에 맞춰, 망설임 없이 메인 발표나 본 업무용 화면을 열고 첫 멘트를 시작합니다.",
-          "en": "At the exact physical end point of the last ritual, open your main presentation or task document without hesitation and start your first line.",
-          "ja": "最後の身体動作が終わる物理的な遮断の時点に合わせて、ためらうことなくメイン発表や本業務用画面を開いて最初の第一声を発します。",
-          "zh": "配合最后一个身体动作结束的物理截止点，毫不犹豫地开启主要演讲文件或工作窗口，敲下第一行字或说出第一句话。",
-          "es": "En cuanto termine el movimiento (como el último sacudón de manos), inicie la presentación o abra el archivo de trabajo sin dudar un instante.",
-          "fr": "Dès que le geste s'achève, lancez votre présentation ou ouvrez votre fichier de travail sans la moindre hésitation.",
-          "de": "Sobald die Geste beendet ist, starten Sie die Präsentation oder öffnen Sie das Dokument ohne jegliche Zögerung.",
-          "pt": "Assim que terminar o movimento, inicie a apresentação ou abra o arquivo de trabalho sem hesitar um instante.",
-          "id": "Begitu aksi fisik selesai, langsung buka berkas kerja utama atau mulailah presentasi Anda tanpa keraguan sedikit pun."
+          "ko": "마지막 신체 동작이 끝나는 물리적 차단 시점에 맞춰, 망설임 없이 메인 발표나 본 업무용 화면을 열고 첫 멘트를 시작합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "발표나 시험 등 일상의 중요한 일 전에 나만의 루틴을 어떻게 만드나요?",
-          "en": "How do I build my own routine before important events like presentations or tests?",
-          "ja": "発表や試験など日常の重要なことの前に、自分だけのルーティンをどのように作りますか？",
-          "zh": "在演讲或考试等日常重要事件前，该如何建立专属的规程？",
-          "es": "¿Cómo construyo mi propia rutina antes de eventos importantes como presentaciones o exámenes?",
-          "fr": "Comment créer ma propre routine avant des événements importants comme des présentations ou des examens ?",
-          "de": "Wie erstelle ich meine eigene Routine vor wichtigen Ereignissen wie Präsentationen oder Prüfungen?",
-          "pt": "Como construo minha própria rotina antes de eventos importantes como apresentações ou exames?",
-          "id": "Bagaimana cara membuat rutinitas sendiri sebelum acara penting seperti presentasi atau ujian?"
+          "ko": "발표나 시험 등 일상의 중요한 일 전에 나만의 루틴을 어떻게 만드나요?"
         },
         "answer": {
-          "ko": "'신발 끈 특정 순서로 묶기', '심호흡 3회 하기', '특정 다짐 문구 소리 내어 말하기' 등 스스로 완전히 통제할 수 있는 일관된 기계적 행동 2~3단계를 설정하여 동일하게 반복하면 불안 제어에 큰 도움을 줍니다.",
-          "en": "Establish 2-3 simple steps that you completely control, such as tying shoes in a certain way, taking deep breaths, or reciting a positive phrase, and repeat them consistently.",
-          "ja": "「靴紐を特定の順序で結ぶ」、「深呼吸を3回する」、「特定の誓いのフレーズを声に出して言う」など、自分で完全にコントロールできる一貫した機械的行動を2〜3ステップ設定して同じように繰り返すと、不安のコントロールに大いに役立ちます。",
-          "zh": "设定“以特定顺序系鞋带”、“深呼吸3次”、“大声对自己说鼓励的话”等2-3个能完全自我控制的连贯机械动作，并保持一致地重复，对控制焦虑非常有帮助。",
-          "es": "Establece 2 o 3 pasos simples que controles por completo, como atar los zapatos de cierta manera o respirar profundo, y repítelos de forma constante.",
-          "fr": "Établissez 2 ou 3 étapes simples que vous contrôlez, comme nouer vos lacets d'une certaine façon ou respirer profondément, et répétez-les régulièrement.",
-          "de": "Legen Sie 2-3 einfache Schritte fest, die Sie kontrollieren können (z. B. Schuhe binden, tief durchatmen), und wiederholen Sie diese konsequent.",
-          "pt": "Estabeleça 2 ou 3 passos simples que você controle totalmente, como amarrar os sapatos de certa maneira ou respirar fundo, e repita-os constantemente.",
-          "id": "Tentukan 2-3 langkah mekanis sederhana yang dapat Anda kontrol sepenuhnya, seperti mengikat tali sepatu dengan urutan tertentu, menarik napas dalam-dalam, atau mengucapkan kalimat positif."
+          "ko": "'신발 끈 특정 순서로 묶기', '심호흡 3회 하기', '특정 다짐 문구 소리 내어 말하기' 등 스스로 완전히 통제할 수 있는 일관된 기계적 행동 2~3단계를 설정하여 동일하게 반복하면 불안 제어에 큰 도움을 줍니다."
         }
       },
       {
         "question": {
-          "ko": "루틴을 도중에 하나라도 빠뜨리거나 실수했을 때 밀려오는 불안은 어떻게 제어하나요?",
-          "en": "How do I manage anxiety when I miss a step or make a mistake in my routine?",
-          "ja": "ルーティンを途中で一つでも忘れたりミスしたりした時に押し寄せる不安は、どのように制御しますか？",
-          "zh": "如果在规程中漏掉了一步或犯了错，该如何控制随之而来的焦虑？",
-          "es": "¿Cómo manejo la ansiedad si omito un paso o cometo un error en mi rutina?",
-          "fr": "Comment gérer l'anxiété si j'oublie une étape ou fais une erreur dans ma routine ?",
-          "de": "Wie gehe ich mit Angst um, wenn ich einen Schritt auslasse oder einen Fehler in der Routine mache?",
-          "pt": "Como gerencio a ansiedade se esquecer de um passo ou cometer um erro na minha rotina?",
-          "id": "Bagaimana cara mengatasi kecemasan jika melewatkan satu langkah atau melakukan kesalahan dalam rutinitas?"
+          "ko": "루틴을 도중에 하나라도 빠뜨리거나 실수했을 때 밀려오는 불안은 어떻게 제어하나요?"
         },
         "answer": {
-          "ko": "루틴은 심리적 닻(Anchor)의 역할일 뿐, 나의 실력과 행동 본질이 아니라는 것을 인지해야 합니다. 실수가 생겼을 때 '이것 또한 상황의 일부'라고 인정하는 유연성이 루틴 효과를 극대화합니다.",
-          "en": "Understand that a routine is merely a psychological anchor, not the source of your skill. Embracing slips as 'part of the situation' maximizes the true benefits of having a routine.",
-          "ja": "ルーティンは心理的な錨（Anchor）の役割に過ぎず、自分の実力や行動の本質ではないことを認識する必要があります。ミスが生じた時に「これもまた状況の一部」と認める柔軟性が、ルーティンの効果を極大化します。",
-          "zh": "必须明确规程只起到心理锚（Anchor）的作用，并不是自身实力和行动的本质。出错时，承认“这也是客观情况的一部分”的包容与弹性，能使规程的效果发挥到最大。",
-          "es": "Comprende que la rutina es solo un ancla psicológica, no la fuente de tu habilidad. Aceptar los errores como 'parte de la situación' maximiza los beneficios.",
-          "fr": "Comprenez que la routine n'est qu'une ancre psychologique, pas la source de vos capacités. Accepter les erreurs comme faisant partie de la situation maximise les bienfaits.",
-          "de": "Verstehen Sie, dass eine Routine nur ein psychologischer Anker ist. Fehler als Teil der Situation zu akzeptieren, maximiert den Nutzen der Routine.",
-          "pt": "Entenda que a rotina é apenas uma âncora psicológica, não a fonte da sua habilidade. Aceitar os erros como parte da situação maximiza os benefícios.",
-          "id": "Sadarilah bahwa rutinitas hanyalah jangkar psikologis, bukan esensi dari kemampuan Anda. Menerima kesalahan sebagai bagian dari proses memaksimalkan manfaat rutinitas."
+          "ko": "루틴은 심리적 닻(Anchor)의 역할일 뿐, 나의 실력과 행동 본질이 아니라는 것을 인지해야 합니다. 실수가 생겼을 때 '이것 또한 상황의 일부'라고 인정하는 유연성이 루틴 효과를 극대화합니다."
         }
       }
-    ],
-    "pubDate": "2026-04-19",
-    "updatedDate": "2026-04-19"
+    ]
   }
 }

@@ -15,28 +15,23 @@ faqs:
   - question: "Tosar o pelo do meu Husky vai ajudá-lo a ficar mais fresco no verão?"
     answer: "Não. A pelagem dupla serve como isolante térmico contra o calor e raios UV. Tosar destrói a regulação térmica, elevando o risco de choque térmico e queimaduras. O correto é apenas escovar o subpelo morto."
 ---
-
-Os Huskies Siberianos são famosos pela aparência de lobo e história puxando trenós. Têm resistência incrível e forte instinto de matilha. 🐕
-
-No entanto, a herança polar os torna vulneráveis ao calor e umidade, com risco de choque térmico no verão. Além disso, se não gastarem sua imensa energia, ficam estressados, expressando com uivos e destruição.
-
-Hou, o PetSelf decodifica sua comunicação e apresenta uma rotina de 3 passos de pelagem dupla e exercício.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Evidência Veterinária e Comportamental
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este conteúdo baseia-se em <strong>Guia da Siberian Husky Club of America e protocolos de atividade para cães de trabalho da IAABC</strong>.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Husky Siberiano Perfil principal
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 anos</span></div>
@@ -47,7 +42,7 @@ Hou, o PetSelf decodifica sua comunicação e apresenta uma rotina de 3 passos d
 
 ## 1. Linguagem corporal do Husky: Uivos de tédio e pata sobre o joelho
 
-Os Huskies retêm hábitos de matilha e se expressam ativamente. Os sinais chave são 'uivos' e 'oferecer a pata'. O uivo expressa tédio e demanda de exercício. Pôr a pata sobre você com olhar fixo é pedido direto de passeio. Canalize sua energia com brinquedos ou treinos.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -81,7 +76,7 @@ Os Huskies retêm hábitos de matilha e se expressam ativamente. Os sinais chave
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Ajuste do peitoral em Y e controle de tração</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Têm forte instinto de puxar. Ajuste um peitoral em Y para evitar pressão na traqueia e controle o ritmo do passeio.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -91,7 +86,7 @@ Os Huskies retêm hábitos de matilha e se expressam ativamente. Os sinais chave
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Ar condicionado, tapetes gelados e escovação intensiva do subpelo</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Sensíveis ao calor, mantenha a casa fresca. Use rasqueadeira e rastelo para subpelo para escovar a pelagem densa, liberando o calor.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -101,7 +96,7 @@ Os Huskies retêm hábitos de matilha e se expressam ativamente. Os sinais chave
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Passeio longo de 1 hora e mordedores de madeira duráveis</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Garanta pelo menos 1 hora de passeio ativo. Para evitar uivos noturnos, forneça um mordedor de madeira de cafeeiro para mastigar.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -110,7 +105,7 @@ Os Huskies retêm hábitos de matilha e se expressam ativamente. Os sinais chave
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
@@ -128,7 +123,7 @@ Os Huskies retêm hábitos de matilha e se expressam ativamente. Os sinais chave
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Têm resistência imensa como cães de trabalho. Combine corridas ou trilhas. Em casa, use brinquedos inteligentes com petiscos e mordedores duros para cansar a mandíbula.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 
@@ -138,7 +133,7 @@ Os Huskies retêm hábitos de matilha e se expressam ativamente. Os sinais chave
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Não. A pelagem dupla serve como isolante térmico contra o calor e raios UV. Tosar destrói a regulação térmica, elevando o risco de choque térmico e queimaduras. O correto é apenas escovar o subpelo morto.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 </div>

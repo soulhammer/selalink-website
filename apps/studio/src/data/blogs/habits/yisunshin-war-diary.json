@@ -1,218 +1,72 @@
 {
   "yisunshin-war-diary": {
     "title": {
-      "ko": "극한 스트레스를 비우는 붓끝? 이순신 장군의 성찰 일기 루틴",
-      "en": "The Brush that Clears Extreme Stress? Admiral Yi Sun-shin's Reflective Diary Routine",
-      "ja": "極限のストレスを洗い流す筆先？李舜臣将軍の省察日記ルーティン",
-      "zh": "排解极端压力的笔尖？李舜臣将军的反思日记常规",
-      "es": "¿El pincel que disipa el estrés extremo? La rutina de diario reflexivo del almirante Yi Sun-shin",
-      "fr": "Le pinceau qui dissipe le stress extrême ? La routine de journal réflexif de l'amiral Yi Sun-shin",
-      "de": "Der Pinsel, der extremen Stress abbaut? Admiral Yi Sun-shins reflektierende Tagebuchroutine",
-      "pt": "O pincel que dissipa o estresse extremo? A rotina de diário reflexivo do almirante Yi Sun-shin",
-      "id": "Kuas yang Membersihkan Stres Ekstrem? Rutinitas Buku Harian Reflektif Laksamana Yi Sun-shin"
+      "ko": "극한 스트레스를 비우는 붓끝? 이순신 장군의 성찰 일기 루틴"
     },
     "description": {
-      "ko": "조선의 구국 영웅 이순신 장군. 전쟁터의 극한 중압감과 내면의 번민을 극복하고 불패의 신화를 이룩한 비결인 '성찰 일기(난중일기)' 쓰기의 인지 심리학적 효과와 3단계 감정 정리 루틴을 소개합니다.",
-      "en": "Admiral Yi Sun-shin, the savior of Joseon. Discover the cognitive psychological effects and 3-step emotional clearing routine of writing his 'Reflective Diary (Nanjung Ilgi)', which helped him overcome extreme pressure and achieve an undefeated myth.",
-      "ja": "朝鮮の救国英雄、李舜臣将軍。戦場の極限の重圧と内面の葛藤を克服し、不敗の神話を成し遂げた秘訣である「内省日記（乱中日記）」執筆の認知心理学的効果と3ステップの感情整理ルーティンを紹介します。",
-      "zh": "朝鲜救国英雄李舜臣将军。介绍他在战场极度重压和内心苦闷中克服困难并创造不败神话的秘诀——撰写“反思日记（乱中日记）”的认知心理学效应和三步整理情绪常规。",
-      "es": "El almirante Yi Sun-shin, salvador de Joseon. Descubra los efectos psicológicos de escribir su 'Diario Reflexivo (Nanjung Ilgi)' para superar la presión extrema, y una rutina de 3 pasos.",
-      "fr": "L'amiral Yi Sun-shin, sauveur de Joseon. Découvrez les effets psychologiques de l'écriture de son 'Journal Réflexif (Nanjung Ilgi)' pour surmonter l'anxiété, et une routine de 3 étapes.",
-      "de": "Admiral Yi Sun-shin, der Retter von Joseon. Entdecken Sie die kognitionspsychologischen Effekte und die 3-Schritte-Routine des Schreibens seines Tagebuchs (Nanjung Ilgi) zur Überwindung extremen Drucks.",
-      "pt": "O almirante Yi Sun-shin, salvador de Joseon. Descubra os efeitos psicológicos de escrever seu 'Diário Reflexivo (Nanjung Ilgi)' para superar a pressão extrema, e uma rotina prática em 3 passos.",
-      "id": "Laksamana Yi Sun-shin, penyelamat Joseon. Temukan efek psikologis kognitif dan rutinitas pembersihan emosi 3 langkah dari menulis 'Buku Harian Reflektif (Nanjung Ilgi)' miliknya."
+      "ko": "조선의 구국 영웅 이순신 장군. 전쟁터의 극한 중압감과 내면의 번민을 극복하고 불패의 신화를 이룩한 비결인 '성찰 일기(난중일기)' 쓰기의 인지 심리학적 효과와 3단계 감정 정리 루틴을 소개합니다."
     },
     "authority": {
-      "ko": "이순신의 난중일기(亂中日記) 사료 및 Journal of Experimental Psychology 학술지",
-      "en": "Yi Sun-shin's Nanjung Ilgi & Journal of Experimental Psychology",
-      "ja": "李舜臣「乱中日記」および学術誌「Journal of Experimental Psychology」",
-      "zh": "李顺臣《乱中日记》与学术期刊《Journal of Experimental Psychology》",
-      "es": "Nanjung Ilgi de Yi Sun-shin y revista Journal of Experimental Psychology",
-      "fr": "Nanjung Ilgi d'Yi Sun-shin & revue Journal of Experimental Psychology",
-      "de": "Yi Sun-shins Nanjung Ilgi & Fachzeitschrift Journal of Experimental Psychology",
-      "pt": "Nanjung Ilgi de Yi Sun-shin & revista Journal of Experimental Psychology",
-      "id": "Nanjung Ilgi Yi Sun-shin & Jurnal Journal of Experimental Psychology"
+      "ko": "이순신 장군 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "임진왜란 당시 23전 23승이라는 세계 해전 역사상 전무후무한 불패의 기록을 세운 조선 최고의 명장, 이순신 장군. 조정의 음해와 옥고, 전사한 아들에 대한 슬픔, 압도적인 적의 함대 앞에서도 그가 평정심과 냉철한 전략을 고수할 수 있었던 힘의 근원은 어디에 있었을까요? 이순신 장군은 매일 밤 전쟁터의 긴박한 군사 상황 속에서도 등불을 켜고 매일의 기후, 아군의 상황, 그리고 깊은 내면의 한탄을 일기(난중일기)로 빼놓지 않고 기록했습니다. 그에게 일기 쓰기는 단순한 전황 보고서가 아니라, 억울함과 불안을 비워내고 냉정한 집중력을 유지하기 위한 자기 치유의 의식이었습니다. 오늘 BuildSelf에서는 이순신 장군의 '성찰 일기' 루틴의 인지 심리학적 효과와 현대적인 야간 일기 실천법을 소개합니다.",
-      "en": "Admiral Yi Sun-shin of Joseon set an unprecedented record of 23 victories in 23 battles in naval history. Facing political frame-ups, torture, the death of his son, and an overwhelming enemy fleet, where did he draw the strength to maintain composure and precise strategy? He lit a lantern every single night and meticulously recorded the day's weather, troop conditions, and his deepest sighs in Nanjung Ilgi. Writing a diary was not just a military report, but a self-healing ritual to clear away frustration and anxiety. Today, BuildSelf introduces the cognitive psychological effects and modern nightly journaling practice based on Admiral Yi's 'reflective diary' routine.",
-      "ja": "文禄・慶長の役当時、23戦23勝という世界海戦の歴史上、前無後無の不敗の記録を打ち立てた朝鮮最高の名将、李舜臣将軍。朝廷の陰謀と投獄、戦死した息子への悲しみ、圧倒的な敵の艦隊を前にしても、彼が平静さと冷徹な戦略を貫くことができた力の源はどこにあったのでしょうか？李舜臣将軍は毎晚、戦場の緊迫した軍事状況の中でも明かりを灯し、日々の気候、味方の状況、そして深い内面の嘆きを日記（乱中日記）に余すところなく記録しました。彼にとって日記を書くことは、単なる戦況報告書ではなく、怒りや不安を洗い流し、冷徹な集中力を維持するための自己治癒の儀式でした。本日、BuildSelfでは李舜臣将軍の「内省日記」ルーティンの認知心理学的効果と現代的な夜間日記の実践法を紹介します。",
-      "zh": "在这一历史性惯例的实践中： 23 23 , . , , ? , , () . , . BuildSelf ' ' .",
-      "es": "El almirante Yi Sun-shin de Joseon estableció un récord de 23 victorias en 23 batallas. Frente a conspiraciones políticas, torturas, la muerte de su hijo y una flota enemiga abrumadora, ¿dónde encontró la fuerza para mantener la compostura? Encendía un farol cada noche y registraba meticulosamente el clima y sus penas en el Nanjung Ilgi. Escribir no era solo un informe militar, sino un ritual de sanación para disipar la frustración. Hoy, BuildSelf presenta los efectos de esta rutina y cómo aplicarla.",
-      "fr": "L'amiral Yi Sun-shin de Joseon détient un record de 23 victoires en 23 batailles. Face aux complots politiques, à la torture et à une flotte ennemie écrasante, où puisait-il la force de rester calme ? Il allumait un fanal chaque nuit et notait le climat et ses peines dans le Nanjung Ilgi. Écrire n'était pas qu'un rapport militaire, mais un rituel pour apaiser la frustration. Aujourd'hui, BuildSelf présente les effets de cette routine.",
-      "de": "Admiral Yi Sun-shin aus Joseon errang 23 Siege in 23 Schlachten. Woher nahm er angesichts von Intrigen, Folter und einer übermächtigen gegnerischen Flotte die Kraft, die Fassung zu bewahren? Er zündete jede Nacht eine Laterne an und hielt das Wetter sowie seine Sorgen im Nanjung Ilgi fest. Das Schreiben war für ihn ein Selbstheilungsritual, um Frust abzubauen. Heute stellt BuildSelf die Effekte dieser Routine vor.",
-      "pt": "O almirante Yi Sun-shin de Joseon estabeleceu um recorde de 23 vitórias em 23 batalhas. Diante de conspirações políticas, torturas e uma frota inimiga esmagadora, onde encontrava forças para manter a compostura? Ele acendia um lampião todas as noites e registrava meticulosamente o clima e suas mágoas no Nanjung Ilgi. Escrever era um ritual de cura para dissipar a frustração. Hoje, o BuildSelf apresenta os efeitos dessa rotina.",
-      "id": "Laksamana Yi Sun-shin dari Joseon mencetak rekor 23 kemenangan dalam 23 pertempuran. Menghadapi konspirasi politik, siksaan, dan armada musuh yang luar biasa, dari mana ia menarik kekuatan untuk tetap tenang? Ia menyalakan lentera setiap malam dan mencatat cuaca serta keluh kesahnya di Nanjung Ilgi. Menulis bukanlah sekadar laporan militer, melainkan ritual penyembuhan untuk membuang rasa frustrasi. Hari ini, BuildSelf memperkenalkan efek dari rutinitas ini."
+      "ko": "\"밤이 깊도록 홀로 촛불 아래 앉아 나라를 걱정하며 일기를 쓴다.\" 🖌️\n\n임진왜란 당시 23전 23승이라는 세계 해전 역사상 전무후무한 불패의 기록을 세운 조선 최고의 명장, 이순신 장군. 조정의 모함과 지독한 옥고, 전사한 아들에 대한 깊은 슬픔, 압도적인 적의 대함대 앞에서도 그가 평정심과 냉철한 전술을 고수할 수 있었던 비결은 어디에 있었을까요?\n\n이순신 장군은 매일 밤 전쟁터의 긴박한 상황 속에서도 등불을 밝히고 날씨, 부하들의 상태, 전황과 함께 자신의 슬픔과 번민을 고스란히 일기(난중일기)로 붓끝에 담아냈습니다. 그에게 일기 쓰기는 단순한 전황 보고서 작성이 아니었습니다. 억울함과 두려움을 직시하여 지워내고, 링 위의 챔피언처럼 냉정한 판단력과 리더십을 발휘하기 위한 자기 치유와 성찰의 의식이었습니다.\n\n오늘 포스트에서는 이순신 장군의 '성찰 일기' 루틴의 인지 심리학적 효과와 현대적인 야간 성찰 일기 루틴을 소개합니다."
     },
     "whyTitle": {
-      "ko": "표현적 글쓰기의 감정 정화 및 편도체 진정 효과",
-      "en": "The Emotional Catharsis & Amygdala Calming Effect of Expressive Writing",
-      "ja": "表現的執筆の感情カタルシスと扁桃体鎮静効果",
-      "zh": "表达性写作的情感净化与杏仁核镇静效果",
-      "es": "El efecto de catarsis emocional y calma de la amígdala de la escritura expresiva",
-      "fr": "L'effet de catharsis émotionnelle et de calme de l'amygdale de l'écriture expressive",
-      "de": "Der emotionale Katharsis- & Amygdala-Beruhigungseffekt von expressivem Schreiben",
-      "pt": "O efeito de catarse emocional e acalento da amígdala da escrita expressiva",
-      "id": "Katarsis Emosional & Efek Penenangan Amigdala dari Menulis Ekspresif"
+      "ko": "표현적 글쓰기의 감정 정화 및 편도체 진정 효과"
     },
     "whyDesc": {
-      "ko": "극심한 두려움이나 억울함 같은 부정적인 감정에 직면했을 때, 뇌의 공포 중추인 <strong>편도체(Amygdala)</strong>는 극도로 과열됩니다. 이 상태에서는 이성적 판단과 의지력을 담당하는 전두엽 기능이 마비됩니다. 인지 심리학 연구에 따르면, 이러한 무정형의 감정 상태를 손글씨 텍스트로 옮겨 구체적으로 구조화하는 <strong>'표현적 글쓰기(Expressive Writing)'</strong>는 편도체의 이상 활성화를 강제로 진정시킵니다. 감정에 이름을 붙이고 객관적인 사실로 정렬하는 쓰기 행동을 통해, 두뇌는 통제 불가능했던 상황을 통제 가능한 범위로 인지하며 인지 자원을 즉각적으로 해방하고 스트레스 복원력을 강력히 발휘하게 됩니다.",
-      "en": "When faced with negative emotions such as extreme fear or frustration, the brain's fear center, the <strong>Amygdala</strong>, becomes highly overheated. In this state, frontal lobe functions responsible for rational judgment and willpower are paralyzed. According to cognitive psychology studies, <strong>'Expressive Writing'</strong>, which structures these amorphous emotions by writing them down by hand, forcibly calms the abnormal activation of the amygdala. By labeling emotions and organizing them into objective facts, the brain perceives the uncontrollable situation within a controllable range, instantly freeing cognitive resources and exerting strong stress resilience.",
-      "ja": "極度の恐怖や悔しさといった否定的な感情に直面したとき、脳の恐怖中枢である<strong>扁桃体（Amygdala）</strong>は極度に過熱します。この状態では、理性的判断と意志力を担当する前頭葉の機能が麻痺します。認知心理学の研究によると、このような無定形の感情状態を手書きのテキストに移して具体的に構造化する<strong>「表現的執筆（Expressive Writing）」</strong>は、扁桃体の異常な活性化を強制的に鎮静させます。感情に名前を付け、客観的な事実として整列させる執筆行動を通じて、脳は制御不能だった状況を制御可能な範囲として認識し、認知資源を即座に解放してストレス回復力を強力に発揮するようになります。",
-      "zh": "当面临极度恐惧或委屈等负面情绪时，大脑的恐惧中枢——<strong>杏仁核 (Amygdala)</strong>会极度过热。在这种状态下，负责理性判断和意志力的前额叶功能会被麻痹。根据认知心理学研究，将这种无形的感情状态转移到手写文本中并进行具体结构化的<strong>“表达性写作 (Expressive Writing)”</strong>，能强制镇静杏仁核的异常激活。通过为情绪命名并将其整理为客观事实的写作行为，大脑会将原本失控的局面认知为可控范围，从而立即释放认知资源，强力发挥抗压恢复力。",
-      "es": "Frente al miedo o la frustración, la <strong>amígdala</strong> (el centro del miedo) se sobrecalienta, paralizando el lóbulo frontal. La <strong>'escritura expresiva'</strong> (escribir a mano estas emociones amorfas) calma la amígdala. Al etiquetar los sentimientos y organizarlos como hechos objetivos, el cerebro percibe que puede controlar la situación, liberando recursos cognitivos y mejorando la resiliencia al estrés.",
-      "fr": "Face à la peur, l'<strong>amygdale</strong> surchauffe, paralysant le lobe frontal. L'<strong>'écriture expressive'</strong> (écrire à la main ces émotions) calme l'amygdale. En nommant les sentiments et en les organisant, le cerveau sent qu'il contrôle la situation, ce qui libère des ressources cognitives.",
-      "de": "Bei Angst läuft die <strong>Amygdala</strong> heiß und lähmt den Stirnlappen. Das <strong>'expressive Schreiben'</strong> (Gedanken handschriftlich festhalten) beruhigt die Amygdala. Durch das Benennen von Gefühlen nimmt das Gehirn die Situation als kontrollierbar wahr, was kognitive Ressourcen freisetzt und die Resistenz stärkt.",
-      "pt": "Diante do medo ou frustração, a <strong>amígdala</strong> superaquece, paralisando o lobo frontal. A <strong>'escrita expressiva'</strong> (escrever à mão essas emoções amorfas) acalma a amígdala. Ao rotular sentimentos e organizá-los, o cérebro percebe que pode controlar a situação, liberando recursos cognitivos e melhorando a resiliência.",
-      "id": "Saat menghadapi ketakutan, <strong>amigdala</strong> (pusat ketakutan) menjadi terlalu aktif, melumpuhkan lobus frontal. <strong>'Menulis ekspresif'</strong> (menulis tangan emosi tersebut) menenangkan amigdala. Dengan menamai perasaan dan mengaturnya sebagai fakta obyektif, otak merasa dapat mengendalikan situasi."
+      "ko": "극심한 두려움이나 억울함 같은 부정적인 감정에 직면했을 때, 뇌의 공포 중추인 <strong>편도체(Amygdala)</strong>는 극도로 과열됩니다. 이 상태에서는 이성적 판단과 의지력을 담당하는 전두엽 기능이 마비됩니다. 인지 심리학 연구에 따르면, 이러한 무정형의 감정 상태를 손글씨 텍스트로 옮겨 구체적으로 구조화하는 <strong>'표현적 글쓰기(Expressive Writing)'</strong>는 편도체의 이상 활성화를 강제로 진정시킵니다. 감정에 이름을 붙이고 객관적인 사실로 정렬하는 쓰기 행동을 통해, 두뇌는 통제 불가능했던 상황을 통제 가능한 범위로 인지하며 인지 자원을 즉각적으로 해방하고 스트레스 복원력을 강력히 발휘하게 됩니다."
     },
     "cautionTitle": {
-      "ko": "타인의 평가를 의식하지 말고 오직 나만을 위한 진실을 적으세요",
-      "en": "Do Not Conscious Other's Evaluation, Write the Truth Only for Yourself",
-      "ja": "他人の評価を意識せず、ただ自分のためだけの真実を書いてください",
-      "zh": "不要在意他人的评价，只写下专属于你自己的真实感受",
-      "es": "No piense en la evaluación de los demás, escriba la verdad solo para usted",
-      "fr": "Ne pensez pas au jugement des autres, écrivez la vérité uniquement pour vous",
-      "de": "Achten Sie nicht auf die Bewertung anderer, schreiben Sie die Wahrheit nur für sich",
-      "pt": "Não pense no julgamento dos outros, escreva a verdade apenas para você",
-      "id": "Jangan Pikirkan Penilaian Orang Lain, Tulis Kebenaran Hanya untuk Diri Sendiri"
+      "ko": "타인의 평가를 의식하지 말고 오직 나만을 위한 진실을 적으세요"
     },
     "cautionDesc": {
-      "ko": "성찰 일기의 감정 정화 효과를 100% 누리려면 타인의 눈을 전혀 신경 쓰지 않아야 합니다. '누가 내 일기장을 보면 어떡하지'라는 우려로 문장을 다듬거나 검열하여 적기 시작하면, 편도체를 이완시키는 객관화 기제는 작동하지 않습니다. 이순신 장군이 자신의 두려움과 울화, 번민을 가감 없이 붓끝으로 표출했듯, 오직 본인만이 읽을 수 있는 가장 내밀한 기록 공간에서 스스로에게 철저히 솔직해져야만 비로소 인지적 압박이 해소됩니다.",
-      "en": "To fully enjoy the emotional purification effect of a reflective diary, you must not care about others' eyes at all. If you start checking or censoring sentences due to concern like 'what if someone reads my diary', the objectification mechanism that relaxes the amygdala will not work. Just as Admiral Yi Sun-shin expressed his fear, anger, and anxiety without addition or subtraction through his brush, you must be thoroughly honest with yourself in the most private writing space to finally relieve cognitive pressure.",
-      "ja": "内省日記の感情浄化効果を100%享受するためには、他人の目を一切気にしてはいけません。「誰かが私の日記を見たらどうしよう」という懸念から文章を整えたり検閲して書き始めると、扁桃体をリラックスさせる客観化メカニズムは作動しません。李舜臣将軍が自身の恐怖や怒り、葛藤を余すところなく筆先で表したように、自分だけが読める最も内密な記録スペースで自分に対して徹底的に正直になってこそ、認知的圧迫が解消されます。",
-      "zh": "为了百分之百地发挥反思日记的情感净化效果，你必须完全不在意他人的目光。如果因为担心“别人看到我的日记怎么办”而开始修饰或审查句子，放松杏仁核的客观化机制就不会起作用。就像李顺臣将军毫不保留地用笔尖表达自己的恐惧、愤怒和苦闷一样，你必须在只有自己能读到的最私密的记录空间里对自己彻底坦诚，认知压力才会得到缓解。",
-      "es": "Para obtener el máximo beneficio, olvídese del juicio ajeno. Si edita sus frases por temor a que alguien lea su diario, el mecanismo no funcionará. Al igual que el almirante Yi expresaba su miedo y rabia sin filtros, sea totalmente honesto consigo mismo en un espacio privado para liberar la presión cognitiva.",
-      "fr": "Pour un effet maximal, oubliez le jugement des autres. Si vous censurez vos phrases par peur d'être lu, le mécanisme ne fonctionnera pas. Tout comme l'amiral Yi exprimait sa peur sans filtres, soyez honnête avec vous-même dans un espace privé.",
-      "de": "Für den maximalen Nutzen vergessen Sie die Bewertung anderer. Wenn Sie Ihre Sätze aus Angst vor Entdeckung zensieren, funktioniert der Mechanismus nicht. Schreiben Sie Ihre Ängste und Sorgen ungefiltert auf und seien Sie im privaten Raum absolut ehrlich zu sich selbst.",
-      "pt": "Para obter o máximo benefício, esqueça o julgamento alheio. Se você editar suas frases por medo de que alguém leia seu diário, o mecanismo não funcionará. Como o almirante Yi expressava seu medo e raiva sem filtros, seja totalmente honesto consigo mesmo em um espaço privado.",
-      "id": "Untuk mendapatkan manfaat maksimal, lupakan penilaian orang lain. Jika Anda menyensor kalimat karena takut dibaca orang lain, mekanisme ini tidak akan berfungsi. Seperti Laksamana Yi yang mengekspresikan rasa takut dan marahnya tanpa filter, jujurlah pada diri sendiri di area pribadi."
+      "ko": "성찰 일기의 감정 정화 효과를 100% 누리려면 타인의 눈을 전혀 신경 쓰지 않아야 합니다. '누가 내 일기장을 보면 어떡하지'라는 우려로 문장을 다듬거나 검열하여 적기 시작하면, 편도체를 이완시키는 객관화 기제는 작동하지 않습니다. 이순신 장군이 자신의 두려움과 울화, 번민을 가감 없이 붓끝으로 표출했듯, 오직 본인만이 읽을 수 있는 가장 내밀한 기록 공간에서 스스로에게 철저히 솔직해져야만 비로소 인지적 압박이 해소됩니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "야간 집중 환경 설정",
-          "en": "Set Up Night Concentration Environment",
-          "ja": "夜間集中環境の設定",
-          "zh": "设置夜间专注环境",
-          "es": "Configurar entorno nocturno de concentración",
-          "fr": "Configurer un environnement nocturne de concentration",
-          "de": "Nächtliche Konzentrationsumgebung einrichten",
-          "pt": "Configurar ambiente noturno de concentração",
-          "id": "Atur Lingkungan Konsentrasi Malam Hari"
+          "ko": "야간 집중 환경 설정"
         },
         "text": {
-          "ko": "일과를 완전히 끝마친 늦은 밤, 스마트폰과 컴퓨터 모니터를 끕니다. 은은한 등불 아래에서 조용히 노트를 펼쳐 책상에 마주 앉습니다.",
-          "en": "Late at night when your daily work is completely finished, turn off your smartphone and computer monitor. Open a notebook quietly under dim light and sit at the desk.",
-          "ja": "一日の一課を完全に終えた深夜、スマートフォンとパソコンのモニターをオフにします。ほのかな明かりの下で静かにノートを開き、机に向き合って座ります。",
-          "zh": "在一天工作完全结束的深夜，关闭智能手机和电脑显示器。在柔和的灯光下安静地铺开笔记本，坐在书桌前。",
-          "es": "Tarde en la noche, apague el teléfono y la computadora. Abra un cuaderno bajo una luz tenue y siéntese en el escritorio.",
-          "fr": "Tard dans la nuit, éteignez le téléphone et l'ordinateur. Ouvrez un carnet sous une lumière tamisée et asseyez-vous au bureau.",
-          "de": "Spät in der Nacht schalten Sie Handy und Computer aus. Öffnen Sie ein Notizbuch bei gedimmtem Licht und setzen Sie sich an den Schreibtisch.",
-          "pt": "Tarde da noite, desligue o celular e o computador. Abra um caderno sob luz suave e sente-se na escrivaninha.",
-          "id": "Larut malam setelah aktivitas selesai, matikan ponsel dan komputer. Buka buku catatan di bawah cahaya redup dan duduklah di meja."
+          "ko": "일과를 완전히 끝마친 늦은 밤, 스마트폰과 컴퓨터 모니터를 끕니다. 은은한 등불 아래에서 조용히 노트를 펼쳐 책상에 마주 앉습니다."
         }
       },
       {
         "name": {
-          "ko": "핵심 사건 및 날씨, 솔직한 감정 기술",
-          "en": "Describe Core Events, Weather & Honest Emotions",
-          "ja": "核心的な出来事や天気、率直な感情の記述",
-          "zh": "记录核心事件、天气和真实情感",
-          "es": "Describir eventos clave, clima y emociones sinceras",
-          "fr": "Décrire les événements clés, le climat & les émotions",
-          "de": "Kernereignisse, Wetter & ehrliche Gefühle beschreiben",
-          "pt": "Descrever eventos-chave, clima e emoções sinceras",
-          "id": "Tulis Peristiwa Kunci, Cuaca & Emosi Jujur"
+          "ko": "핵심 사건 및 날씨, 솔직한 감정 기술"
         },
         "text": {
-          "ko": "오늘 있었던 세부 전황(일과)과 그날의 날씨를 가볍게 적은 뒤, 내면에 쌓인 피로, 분노, 불안 등 솔직한 정서적 응어리를 여과 없이 노트에 적어 나갑니다.",
-          "en": "Lightly record the detailed daily events and weather of the day, then write down honest emotional knots such as accumulated fatigue, anger, or anxiety without filtration in the notebook.",
-          "ja": "今日あった出来事と天気を軽く書いた後、内面に蓄積された疲労、怒り、不安など、率直な感情のしこりを濾過することなくノートに書いていきます。",
-          "zh": "轻描淡写地记录下今天发生的核心事件（日常工作）和天气，然后将内心累积的疲劳、愤怒、焦虑等真实情感纠葛毫无过滤地记录在笔记本上。",
-          "es": "Registre brevemente los eventos y el clima del día, luego escriba sin filtros sus emociones sinceras como fatiga acumulada, enojo o ansiedad.",
-          "fr": "Notez brièvement les événements et le temps qu'il a fait, puis écrivez sans filtres vos émotions (fatigue, colère, anxiété).",
-          "de": "Notieren Sie kurz das Wetter und die Ereignisse des Tages, und schreiben Sie ungefiltert Ihre Gefühle (Müdigkeit, Wut, Angst) auf.",
-          "pt": "Registre brevemente os eventos e o clima do dia, depois escreva sem filtros suas emoções sinceras como fadiga acumulada, raiva ou ansiedade.",
-          "id": "Catat peristiwa penting dan cuaca hari ini, lalu tuliskan emosi jujur seperti kelelahan, kemarahan, atau kecemasan tanpa sensor."
+          "ko": "오늘 있었던 세부 전황(일과)과 그날의 날씨를 가볍게 적은 뒤, 내면에 쌓인 피로, 분노, 불안 등 솔직한 정서적 응어리를 여과 없이 노트에 적어 나갑니다."
         }
       },
       {
         "name": {
-          "ko": "통제 가능한 변수 도출 및 짐 내려놓기",
-          "en": "Deriving Controllable Variables & Letting Go of Burden",
-          "ja": "制御可能な変数の導出および負担の軽減",
-          "zh": "理清可控变量并放下负担",
-          "es": "Definir variables bajo control y liberar la carga",
-          "fr": "Définir les variables contrôlables & libérer la charge",
-          "de": "Kontrollierbare Variablen bestimmen & Last ablegen",
-          "pt": "Definir variáveis sob controle e liberar a carga",
-          "id": "Temukan Variabel yang Dapat Dikontrol & Lepaskan Beban"
+          "ko": "통제 가능한 변수 도출 및 짐 내려놓기"
         },
         "text": {
-          "ko": "글을 정리하면서 '내가 통제할 수 없는 일'과 '내일 당장 내가 통제할 수 있는 일 한 가지'를 명확하게 선을 그어 분류하고, 마음의 짐을 덜어내며 일기를 끝맺습니다.",
-          "en": "As you finish, clearly draw a line between 'things I cannot control' and 'one thing I can control immediately tomorrow', and conclude the diary letting go of the burden.",
-          "ja": "文章を整理しながら「自分には制御できないこと」と「明日すぐに自分が制御できること一つ」を明確に線引きして分類し、心の負担を軽減して日記を締めくくります。",
-          "zh": "在整理记录的同时，清晰地划清界限，区分“我无法控制的事”和“明天我能立即控制的一件事”，卸下思想包袱，结束日记的记录。",
-          "es": "Al finalizar, divida claramente lo que 'no puede controlar' de 'una cosa que sí puede controlar mañana', y concluya liberándose de la carga mental.",
-          "fr": "Pour finir, séparez ce que vous 'ne pouvez pas contrôler' de 'ce que vous pouvez contrôler demain', et concluez en vous libérant de la charge mentale.",
-          "de": "Trennen Sie am Ende klar zwischen Dingen, die Sie 'nicht kontrollieren können', und 'einer Sache, die Sie morgen kontrollieren können', und schließen Sie das Tagebuch ab.",
-          "pt": "Ao finalizar, divida claramente o que 'não pode controlar' de 'uma coisa que pode controlar amanhã', e conclua libertando-se da carga mental.",
-          "id": "Sebagai penutup, bedakan dengan jelas antara 'hal yang tidak bisa dikontrol' dan 'satu hal yang bisa segera dikontrol besok', lalu lepaskan beban pikiran."
+          "ko": "글을 정리하면서 '내가 통제할 수 없는 일'과 '내일 당장 내가 통제할 수 있는 일 한 가지'를 명확하게 선을 그어 분류하고, 마음의 짐을 덜어내며 일기를 끝맺습니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "매일 쓸 내용이 없거나 쓸 시간이 부족할 때는 어떻게 하나요?",
-          "en": "What if I have nothing to write or don't have enough time every day?",
-          "ja": "毎日書く内容がない、または書く時間が足りないときはどうすればよいですか？",
-          "zh": "每天没有可写的内容或者写的时间不够该怎么办？",
-          "es": "¿Qué pasa si no tengo nada que escribir o no tengo suficiente tiempo?",
-          "fr": "Que faire si je n'ai rien à écrire ou pas assez de temps ?",
-          "de": "Was ist, wenn ich nichts zu schreiben habe oder die Zeit fehlt?",
-          "pt": "O que fazer se eu não tiver nada para escrever ou se faltar tempo?",
-          "id": "Bagaimana jika tidak ada yang ditulis atau tidak punya cukup waktu setiap hari?"
+          "ko": "매일 쓸 내용이 없거나 쓸 시간이 부족할 때는 어떻게 하나요?"
         },
         "answer": {
-          "ko": "길게 쓸 필요가 없습니다. 단 세 줄만 써도 충분합니다. '오늘 나를 가장 지치게 했던 일 한 가지', '그때 느낀 내 감정', '그중 내가 내일 바로잡을 수 있는 일 한 가지'만 정렬해서 적어도 뇌의 감정 객관화 메커니즘은 동일하게 작동합니다.",
-          "en": "No need to write long. Just writing three lines is enough. Writing just 'one thing that exhausted me today', 'my emotion at that time', and 'one thing I can correct tomorrow' triggers the same emotional objectification mechanism in the brain.",
-          "ja": "長く書く必要はありません。わずか3行書くだけでも十分です。「今日自分を最も疲れさせたこと一つ」「そのとき感じた自分の感情」「その中で明日すぐに改善できること一つ」だけを整理して書くだけでも、脳の感情客観化メカニズムは同様に働きます。",
-          "zh": "不需要写得很长，哪怕只写三行也足够了。只需整理出“今天最让我疲惫的一件事”、“当时我的感受”以及“其中我明天可以立即着手改进的一件事”并记录下来，大脑的情绪客观化机制也同样会起作用。",
-          "es": "No es necesario escribir mucho. Con tres líneas basta: 'una cosa que me agotó hoy', 'cómo me sentí' y 'una cosa que puedo cambiar mañana'. Esto activa el mismo mecanismo de control.",
-          "fr": "Il n'est pas nécessaire d'écrire beaucoup. Trois lignes suffisent : 'une chose qui m'a fatigué aujourd'hui', 'ce que j'ai ressenti' et 'une chose que je peux changer demain'.",
-          "de": "Sie müssen nicht viel schreiben. Drei Zeilen genügen: 'Eine Sache, die mich heute erschöpft hat', 'wie ich mich gefühlt habe' und 'eine Sache, die ich morgen ändern kann'.",
-          "pt": "Não é necessário escrever muito. Três linhas bastam: 'uma coisa que me esgotou hoje', 'como me senti' e 'uma coisa que posso mudar amanhã'.",
-          "id": "Tidak perlu menulis panjang. Menulis tiga baris saja sudah cukup: 'satu hal yang melelahkan hari ini', 'bagaimana perasaan saya', dan 'satu hal yang bisa saya perbaiki besok'."
+          "ko": "길게 쓸 필요가 없습니다. 단 세 줄만 써도 충분합니다. '오늘 나를 가장 지치게 했던 일 한 가지', '그때 느낀 내 감정', '그중 내가 내일 바로잡을 수 있는 일 한 가지'만 정렬해서 적어도 뇌의 감정 객관화 메커니즘은 동일하게 작동합니다."
         }
       },
       {
         "question": {
-          "ko": "스마트폰 일기 앱이나 타자로 작성하는 것도 효과가 동일한가요?",
-          "en": "Is the effect the same when writing on a smartphone diary app or typing?",
-          "ja": "スマートフォンの日記アプリやタイピングで作成するのも効果は同じですか？",
-          "zh": "使用手机日记APP或打字记录的效果也一样吗？",
-          "es": "¿El efecto es el mismo si escribo en una aplicación de diario o escribo en teclado?",
-          "fr": "L'effet est-il le même si j'écris sur une application ou un clavier ?",
-          "de": "Ist der Effekt derselbe, wenn ich eine Tagebuch-App oder die Tastatur nutze?",
-          "pt": "O efeito é o mesmo se eu escrever em um aplicativo ou no teclado?",
-          "id": "Apakah efeknya sama jika menulis di aplikasi buku harian ponsel atau mengetik?"
+          "ko": "스마트폰 일기 앱이나 타자로 작성하는 것도 효과가 동일한가요?"
         },
         "answer": {
-          "ko": "원칙적으로는 펜으로 종이에 직접 꾹꾹 눌러쓰는 아날로그 손글씨가 가장 효과적입니다. 손과 팔의 미세한 감각 정보를 뇌로 전송하는 촉각적 피드백이 전두엽의 인지 통제력을 더 확실하게 깨우기 때문입니다. 다만 타자로 작성할 경우에도 기기 알림이 철저히 차단된 집중 상태를 유지하며 솔직하게 기술한다면 감정 조절 효과를 충분히 경험할 수 있습니다.",
-          "en": "In principle, writing by hand with a pen on paper is most effective. The tactile feedback of transmitting fine sensory information from hands and arms to the brain awakens the frontal lobe's cognitive control more clearly. However, even when typing, you can sufficiently experience the emotional control effect if you maintain focus with device notifications blocked and describe honestly.",
-          "ja": "原則としては、ペンで紙に直接書くアナログな手書きが最も効果的です。手と腕の微細な感覚情報を脳に送る触覚的なフィードバックが、前頭葉の認知的なコントロールをより明確に呼び起こすからです。ただし、タイピングで作成する場合でも、機器の通知を完全に遮断した集中状態を維持し、率直に記述すれば、感情調節の効果を十分に体験することができます。",
-          "zh": "原则上，用笔直接在纸上书写的模拟手写是最有效的。因为将手和手臂的细微感觉信息传输到大脑的触觉反馈能更明确地唤醒前额叶的认知控制力。然而，即使是打字记录，如果能保持完全屏蔽设备通知的专注状态并坦诚地记录，也同样能充分体验到调节情绪的效果。",
-          "es": "Es más eficaz escribir a mano en papel. El estímulo físico de mover la mano envía señales táctiles que activan la concentración del lóbulo frontal. Si escribe en teclado, asegúrese de bloquear todas las alertas para no romper la concentración.",
-          "fr": "L'écriture manuscrite est plus efficace. Le geste physique envoie des signaux tactiles qui activent la concentration. Si vous tapez au clavier, bloquez toutes les alertes pour ne pas briser la concentration.",
-          "de": "Das handschriftliche Schreiben auf Papier ist am effektivsten. Die Bewegung sendet taktile Signale, die die Konzentration stärken. Wenn Sie tippen, schalten Sie alle Benachrichtigungen aus, um den Fokus zu wahren.",
-          "pt": "É mais eficaz escrever à mão no papel. O estímulo físico de mover la mano envía sinais táteis que ativam a concentração do lobo frontal. Se digitar, certifique-se de bloquear todos os alertas para não romper a concentração.",
-          "id": "Menulis tangan di atas kertas adalah yang paling efektif. Umpan balik fisik dari gerakan tangan mengirimkan sinyal taktil yang mengaktifkan konsentrasi. Jika mengetik, pastikan semua notifikasi diblokir."
+          "ko": "원칙적으로는 펜으로 종이에 직접 꾹꾹 눌러쓰는 아날로그 손글씨가 가장 효과적입니다. 손과 팔의 미세한 감각 정보를 뇌로 전송하는 촉각적 피드백이 전두엽의 인지 통제력을 더 확실하게 깨우기 때문입니다. 다만 타자로 작성할 경우에도 기기 알림이 철저히 차단된 집중 상태를 유지하며 솔직하게 기술한다면 감정 조절 효과를 충분히 경험할 수 있습니다."
         }
       }
-    ],
-    "pubDate": "2026-06-29",
-    "updatedDate": "2026-06-29"
+    ]
   }
 }

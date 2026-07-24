@@ -1,218 +1,72 @@
 {
   "pascal-math-focus": {
     "title": {
-      "en": "Blaise Pascal's Geometry Focus: How High-Cognition Tasks Overcome Pain & Stress",
-      "ko": "블레즈 파스칼의 기하학 몰입: 고난도 과제로 통증과 스트레스를 뇌에서 지우는 법",
-      "ja": "ブレーズ・パスカルの幾何学集中：高難度タスクで 痛みとストレスを脳から 消し去る Super Routine",
-      "zh": "布莱士·帕斯卡的高难几何专注法：用深度认知重塑大脑与抗击压力",
-      "es": "El Enfoque Geométrico de Blaise Pascal: Cómo las Tareas de Alta Cognición Eliminan el Estrés y el Dolor",
-      "fr": "La Focalisation Géométrique de Blaise Pascal : Comment surmonter la douleur et le stress par la haute cognition",
-      "de": "Blaise Pascals Geometrie-Fokus: Wie hochkognitive Aufgaben Schmerz und Stress im Gehirn ausschalten",
-      "pt": "O Foco Geométrico de Blaise Pascal: Como Tarefas de Alta Cognição Eliminam a Dor e o Estresse",
-      "id": "Fokus Geometri Blaise Pascal: Cara Tugas Kognitif Tinggi Mengatasi Nyeri dan Stres"
+      "ko": "블레즈 파스칼의 기하학 몰입: 고난도 과제로 통증과 스트레스를 뇌에서 지우는 법"
     },
     "description": {
-      "en": "Discover how 17th-century polymath Blaise Pascal used intense mathematical problem-solving to block chronic pain, and how attentional gating theory validates his routine.",
-      "ko": "17세기 천재 블레즈 파스칼이 극심한 치통과 두통을 고난도 수학 몰입으로 극복한 역사적 사실과 주의 전환 통제(Attentional Gating)의 과학적 원리를 알아봅니다.",
-      "ja": "17世紀の天才ブレーズ・パスカルが激しい 歯痛や頭痛を幾何学の集中で 克服した歴史的事実と、注意ゲイン制御の科学的仕組みを解説します。",
-      "zh": "探索17世纪博学者布莱士·帕斯卡如何利用高难度数学解题阻断慢性疼痛，以及注意力门控理论的科学依据。",
-      "es": "Descubra cómo el polímata del siglo XVII Blaise Pascal utilizó la resolución de problemas matemáticos intensos para bloquear el dolor crónico y su validación científica.",
-      "fr": "Découvrez comment le polymathe du XVIIe siècle Blaise Pascal a utilisé la résolution de problèmes mathématiques pour bloquer la douleur chronique.",
-      "de": "Entdecken Sie, wie der Universalgelehrte Blaise Pascal im 17. Jahrhundert komplexe Mathematik nutzte, um Schmerzen und Stress zu blockieren.",
-      "pt": "Descubra como o polímata do século XVII Blaise Pascal usou a resolução de problemas matemáticos intensos para bloquear a dor crônica.",
-      "id": "Pelajari bagaimana Blaise Pascal menggunakan pemecahan masalah matematika tingkat tinggi untuk memblokir rasa sakit kronis dan stres."
+      "ko": "17세기 천재 블레즈 파스칼이 극심한 치통과 두통을 고난도 수학 몰입으로 극복한 역사적 사실과 주의 전환 통제(Attentional Gating)의 과학적 원리를 알아봅니다."
     },
     "authority": {
-      "en": "Blaise Pascal's Pensées (1670), Treatise on the Cycloid (1658) & Journal of Cognitive Neuroscience",
-      "ko": "블레즈 파스칼의 《팡세》(1670), 《사이클로이드 논고》(1658) 및 인지신경과학 저널 연구",
-      "ja": "パスカルの『パンセ』(1670)、『サイクロイド論文』(1658) および認知神経科学ジャーナルの研究",
-      "zh": "帕斯卡《思想录》(1670)、《摆线论》(1658)及《认知神经科学杂志》研究",
-      "es": "Pensamientos de Blaise Pascal (1670), Tratado de la Cicloide (1658) y revista Journal of Cognitive Neuroscience",
-      "fr": "Les Pensées de Blaise Pascal (1670), Traité de la Cycloïde (1658) et Journal of Cognitive Neuroscience",
-      "de": "Blaise Pascals Gedanken (1670), Abhandlung über die Zykloide (1658) & Journal of Cognitive Neuroscience",
-      "pt": "Pensamentos de Blaise Pascal (1670), Tratado da Cicloide (1658) e Journal of Cognitive Neuroscience",
-      "id": "Pensées Blaise Pascal (1670), Risalah tentang Sikloid (1658) & Journal of Cognitive Neuroscience"
+      "ko": "Pascal Math Focus 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "en": "17th-century French polymath Blaise Pascal (1623–1662) was a intellectual giant who proved Euclid's 32nd proposition at age 12 and invented the mechanical calculator 'Pascaline' at 19. Yet throughout his life, Pascal suffered from excruciating chronic toothaches, stomach ailments, and severe migraines.\n\nInstead of surrendering to despair or relying on numbing sedatives, Pascal chose a revolutionary cognitive strategy. In 1658, when a violent night toothache struck, he picked up paper and quill to tackle the cycloid curve—a complex geometric problem that had stumped contemporary mathematicians and was known as the 'Helen of Geometers'.\n\nBy immersing 100% of his working memory into calculating the area and center of gravity of the cycloid, Pascal effectively forced his thalamus to block physical pain signals to the brain. In just 8 days of intense focus, he solved the cycloid problem and compiled his famous treatise, completely unharmed by the agony.",
-      "ko": "17세기 프랑스가 배출한 위대한 천재 수학자이자 물리학자, 기독교 사상가인 블레즈 파스칼(Blaise Pascal, 1623–1662). 그는 12세에 독학으로 유클리드 기하학의 32번째 명제를 스스로 증명하고 19세에 세계 최초의 기계식 계산기인 '파스칼린(Pascaline)'을 발명한 지성사의 거장이었습니다.\n\n하지만 파스칼은 어릴 적부터 장 질환과 극심한 마비 증세, 그리고 밤새 잠을 이루지 못하게 만드는 발작성 치통과 두통에 평생 시달렸습니다. 당시 대다수 사람들은 극심한 통증 앞에 누워 신음하거나 의식을 잃는 진통제에 의존했지만, 파스칼은 완전히 다른 인지적 선택을 내렸습니다.\n\n1658년 어느 날 밤, 또다시 미칠 듯한 치통이 그를 덮쳤을 때 파스칼은 침대에서 일어나 당시 당대 최고의 수학자들도 풀지 못해 '기하학자들의 헬레네'라고 불리던 사이클로이드(Cycloid) 곡선 문제에 뇌를 100% 던졌습니다. 오직 펜과 종이만을 들고 문제의 면적과 호의 길이를 연쇄 계산하는 동안 뇌의 통증 감각 신경망 신호가 기적처럼 멈추었고, 불과 8일 만에 사이클로이드 곡선의 기하학적 정리를 완벽히 집필해냈습니다.",
-      "ja": "この歴史的習慣の実践において：17 , (Blaise Pascal, 1623–1662). 12 32 19 '(Pascaline)' . この歴史的習慣の実践において： , . , . この歴史的習慣の実践において：1658 , ' ' (Cycloid) 100% . , 8 .",
-      "zh": "在这一历史性惯例的实践中：17 , (Blaise Pascal, 1623–1662). 12 32 19 '(Pascaline)' . 在这一历史性惯例的实践中： , . , . 在这一历史性惯例的实践中：1658 , ' ' (Cycloid) 100% . , 8 .",
-      "es": "El polímata francés del siglo XVII Blaise Pascal (1623–1662) fue un gigante intelectual que demostró la proposición 32 de Euclides a los 12 años e inventó la calculadora mecánica 'Pascaline' a los 19. Sin embargo, a lo largo de su vida, Pascal sufrió insoportables dolores crónicos de muelas, dolencias estomacales y graves migrañas.\n\nEn lugar de rendirse a la desesperación o depender de sedantes que adormecieran su mente, Pascal eligió una estrategia cognitiva revolucionaria. En 1658, cuando lo atacó un violento dolor de muelas nocturno, tomó papel y pluma para abordar la curva cicloide, un complejo problema geométrico que había desconcertado a los matemáticos contemporáneos y era conocido como la 'Helena de los geómetras'.\n\nAl sumergir el 100% de su memoria de trabajo en el cálculo del área y el centro de gravedad de la cicloide, Pascal obligó efectivamente a su tálamo a bloquear las señales físicas de dolor al cerebro. En solo 8 días de intenso enfoque, resolvió el problema de la cicloide y redactó su famoso tratado, completamente ileso del dolor.",
-      "fr": "Le polymathe français du XVIIe siècle Blaise Pascal (1623–1662) était un géant intellectuel qui a prouvé la 32e proposition d'Euclide à l'âge de 12 ans et inventé la calculatrice mécanique 'Pascaline' à 19 ans. Pourtant, tout au long de sa vie, Pascal a souffert de maux de dents chroniques insupportables, d'affections de l'estomac et de migraines sévères.\n\nAu lieu de céder au désespoir ou de compter sur des sédatifs engourdissants, Pascal a choisi une stratégie cognitive révolutionnaire. En 1658, lorsqu'un violente rage de dents le frappa pendant la nuit, il prit du papier et une plume pour s'attaquer à la courbe cycloïde — un problème géométrique complexe qui avait dérouté les mathématiciens contemporains et était surnommé la 'Hélène des géomètres'.\n\nEn immergeant 100 % de sa mémoire de travail dans le calcul de la surface et du centre de gravité de la cycloïde, Pascal a effectivement forcé son thalamus à bloquer les signaux physiques de douleur envoyés au cerveau. En seulement 8 jours d'une concentration intense, il résolut le problème de la cycloïde et rédigea son célèbre traité, totalement indemne de la souffrance.",
-      "de": "Der französische Universalgelehrte des 17. Jahrhunderts Blaise Pascal (1623–1662) war ein intellektueller Gigant, der im Alter von 12 Jahren den 32. Satz Euklids bewies und mit 19 die mechanische Rechenmaschine 'Pascaline' erfand. Dennoch litt Pascal sein ganzes Leben lang unter unerträglichen chronischen Zahnschmerzen, Magenleiden und schwerer Migräne.\n\nAnstatt der Verzweiflung zu erliegen oder sich auf betäubende Beruhigungsmittel zu verlassen, wählte Pascal eine revolutionäre kognitive Strategie. Als ihn 1658 in einer Nacht heftige Zahnschmerzen überfielen, griff er zu Papier und Feder, um die Zykloidenkurve in Angriff zu nehmen – ein komplexes geometrisches Problem, das zeitgenössische Mathematiker vor Rätsel gestellt hatte und als 'Helena der Geometer' bekannt war.\n\nIndem er sein Arbeitsgedächtnis zu 100 % in die Berechnung der Fläche und des Schwerpunkts der Zykloide vertiefte, zwang Pascal seinen Thalamus effektiv dazu, physische Schmerzsignale an das Gehirn zu blockieren. In nur 8 Tagen intensiven Fokus löste er das Zykloidenproblem und verfasste seine berühmte Abhandlung, völlig unberührt von den Qualen.",
-      "pt": "O polímata francês do século XVII Blaise Pascal (1623–1662) foi um gigante intelectual que provou a 32ª proposição de Euclides aos 12 anos e inventou a calculadora mecânica 'Pascaline' aos 19. No entanto, ao longo de sua vida, Pascal sofreu com insuportáveis dores crônicas de dente, males estomacais e enxaquecas graves.\n\nEm vez de se render ao desespero ou confiar em sedativos que entorpeciam a mente, Pascal escolheu uma estratégia cognitiva revolucionária. Em 1658, quando uma violenta dor de dente noturna o atingiu, ele pegou papel e pena para enfrentar a curva cicloide — um complexo problema geométrico que havia frustrado matemáticos contemporâneos e era conhecido como a 'Helena dos geômetras'.\n\nAo mergulhar 100% de sua memória de trabalho no cálculo da área e do centro de gravidade da cicloide, Pascal forçou efetivamente seu tálamo a bloquear os sinais físicos de dor enviados ao cérebro. Em apenas 8 dias de foco intenso, ele resolveu o problema da cicloide e redigiu seu famoso tratado, completamente ileso do sofrimento.",
-      "id": "Polimata Prancis abad ke-17 Blaise Pascal (1623–1662) adalah raksasa intelektual yang membuktikan proposisi ke-32 Euklides pada usia 12 tahun dan menciptakan kalkulator mekanis 'Pascaline' pada usia 19 tahun. Namun sepanjang hidupnya, Pascal menderita sakit gigi kronis yang menyiksa, penyakit lambung, dan migrain parah.\n\nAlih-alih menyerah pada keputusasaan atau mengandalkan obat penenang yang menumpulkan pikiran, Pascal memilih strategi kognitif revolusioner. Pada tahun 1658, ketika sakit gigi malam yang hebat menyerangnya, dia mengambil kertas dan pena untuk memecahkan kurva sikloid—masalah geometri kompleks yang membingungkan para matematikawan kontemporer dan dikenal sebagai 'Helen para Geometer'.\n\nDengan membenamkan 100% memori kerjanya ke dalam kalkulasi luas dan pusat gravitasi sikloid, Pascal secara efektif memaksa talamusnya memblokir sinyal rasa sakit fisik ke otak. Hanya dalam 8 hari fokus intens, dia menyelesaikan masalah sikloid dan menyusun risalah terkenalnya, benar-benar tidak terganggu oleh penderitaan tersebut."
+      "ko": "\"인간의 모든 문제는 방 안에 홀로 조용히 앉아 있지 못하는 데서 비롯된다.\" 🧠\n\n17세기 프랑스가 배출한 위대한 천재 수학자이자 물리학자, 기독교 사상가인 블레즈 파스칼(Blaise Pascal, 1623–1662). 그는 12세에 스승 없이 독학으로 유클리드 기하학의 32번째 명제를 스스로 증명해 내고, 19세에는 세무관인 아버지를 돕기 위해 세계 최초의 기계식 계산기인 '파스칼린(Pascaline)'을 발명한 지성사의 거장이었습니다.\n\n하지만 파스칼은 어릴 적부터 장 질환과 극심한 마비 증세, 그리고 밤새 잠을 이루지 못하게 만드는 발작성 치통과 두통에 평생 시달렸습니다. 당시 대다수 사람들은 극심한 통증 앞에 누워 신음하거나 의식을 잃는 진통제에 의존했지만, 파스칼은 완전히 다른 인지적 선택을 내렸습니다.\n\n1658년 어느 날 밤, 또다시 미칠 듯한 치통이 그를 덮쳤을 때 파스칼은 침대에서 일어나 당시 당대 최고의 수학자들도 풀지 못해 '기하학자들의 헬레네'라고 불리던 사이클로이드(Cycloid) 곡선 문제에 뇌를 100% 던졌습니다. 오직 펜과 종이만을 들고 문제의 면적과 호의 길이를 연쇄 계산하는 동안 뇌의 통증 감각 신경망 신호가 기적처럼 멈추었고, 불과 8일 만에 사이클로이드 곡선의 기하학적 정리를 완벽히 집필해냈습니다."
     },
     "whyTitle": {
-      "en": "Why Intense Cognitive Focus Overpowers Physical & Mental Discomfort",
-      "ko": "고난도 인지 몰입이 신체적·정신적 불편감을 상쇄하는 과학적 이유",
-      "ja": "高度な認知の集中が 身体的・精神的不快感を 相殺する科学的理由",
-      "zh": "高难度认知专注阻断身体与心理不适的科学原理",
-      "es": "Por qué el Enfoque Cognitivo Intenso Supera el Malestar Físico y Mental",
-      "fr": "Pourquoi l'Attention Cognitive Intense Surmonte l'Inconfort Physique et Mental",
-      "de": "Warum intensiver kognitiver Fokus körperliches und geistiges Unbehagen überwindet",
-      "pt": "Por que o Foco Cognitivo Intenso Supera o Desconforto Físico e Mental",
-      "id": "Mengapa Fokus Kognitif Intens Mengatasi Ketidaknyamanan Fisik dan Mental"
+      "ko": "고난도 인지 몰입이 신체적·정신적 불편감을 상쇄하는 과학적 이유"
     },
     "whyDesc": {
-      "en": "Modern neuroscience attributes this to 'Attentional Gating Theory'. When the prefrontal cortex engages at maximum capacity, the thalamus actively filters out lower-priority sensory inputs, including stress signals and physical discomfort.",
-      "ko": "현대 뇌과학은 이를 '주의 전환 통제 메커니즘(Attentional Gating Theory)'으로 설명합니다. 인간의 전전두엽 피질이 높은 난이도의 인지적 과제에 100% 몰입하면, 시상(Thalamus) 신경망이 하위 통증 및 스트레스 감각 신호를 적극적으로 게이팅(차단)하여 감지하지 못하게 됩니다.",
-      "ja": "現代の脳科学では、これを「注意ゲイン制御メカニズム（Attentional Gating Theory）」と説明します。前頭前野が高難度の認知タスクに100%没頭すると、視床神経網が下位の痛みやストレス信号を積極的に遮断し、脳に感知させなくするのです。",
-      "zh": "现代大脑科学将其归因于“注意力门控理论(Attentional Gating Theory)”。当大脑前额叶皮层100%投入高难度认知任务时，丘脑神经网会主动过滤掉低优先级的感知信号，包括压力与物理疼痛。",
-      "es": "La neurociencia moderna lo atribuye a la 'Teoría del Control de Atención'. Cuando la corteza prefrontal se compromete a su máxima capacidad, el tálamo filtra activamente las señales sensoriales de menor prioridad, incluidos los signos de estrés y dolor.",
-      "fr": "La neuroscience moderne attribue cela à la 'Théorie du Filtrage Attentionnel'. Lorsque le cortex préfrontal s'engage à sa capacité maximale, le thalamus filtre les signaux sensoriels de faible priorité, y compris la douleur et le stress.",
-      "de": "Die moderne Neurowissenschaft führt dies auf die 'Attentional Gating Theory' zurück. Wenn der präfrontale Kortex mit maximaler Kapazität arbeitet, filtert der Thalamus Schmerz- und Stresssignale aktiver aus.",
-      "pt": "A neurociência moderna atribui isso à 'Teoria do Controle Atencional'. Quando o córtex pré-frontal opera na capacidade máxima, o tálamo filtra ativamente os estímulos sensoriais de menor prioridade.",
-      "id": "Neurosains modern mengaitkannya dengan 'Attentional Gating Theory'. Ketika korteks prefrontal bekerja pada kapasitas maksimum, talamus secara aktif memfilter masukan sensorik prioritas rendah."
+      "ko": "현대 뇌과학은 이를 '주의 전환 통제 메커니즘(Attentional Gating Theory)'으로 설명합니다. 인간의 전전두엽 피질이 높은 난이도의 인지적 과제에 100% 몰입하면, 시상(Thalamus) 신경망이 하위 통증 및 스트레스 감각 신호를 적극적으로 게이팅(차단)하여 감지하지 못하게 됩니다."
     },
     "cautionTitle": {
-      "en": "Caution & Pascal's Brain Secret",
-      "ko": "파스칼의 몰입 주의사항 및 뇌과학적 팁",
-      "ja": "パスカルの集中における注意点と脳科学的ヒント",
-      "zh": "帕斯卡专注法的注意事项与的大脑秘诀",
-      "es": "Precaución y el Secreto Cerebral de Pascal",
-      "fr": "Précaution et le Secret Cérébral de Pascal",
-      "de": "Vorsicht & Pascals Gehirngeheimnis",
-      "pt": "Precaução e o Segredo Cerebral de Pascal",
-      "id": "Peringatan & Rahasia Otak Pascal"
+      "ko": "파스칼의 몰입 주의사항 및 뇌과학적 팁"
     },
     "cautionDesc": {
-      "en": "Do not attempt to passively resist stress or distraction. Switch immediately to a task requiring 100% working memory capacity for at least 15 minutes to trigger the gating mechanism.",
-      "ko": "잡념이나 스트레스가 밀려올 때 억지로 참으려 애쓰지 마세요. 즉시 작업 기억(Working Memory)을 100% 사용하는 높은 난이도의 퀴즈나 독서 과제로 전환하여 15 - 20분간 뇌의 감각 차단 밸브를 가동해야 합니다.",
-      "ja": "ストレスや雑念が押し寄せた時、無理に耐えようとしないでください。直ちにワーキングメモリを100%使う高難度のタスクに切り替え、15〜20分間脳の感覚遮断バルブを稼働させる必要があります。",
-      "zh": "杂念或压力袭来时，切勿消极抵抗。请立即切换到需要100%工作记忆的高难度任务，持续至少15 - 20分钟，以激活大脑的门控遮断机制。",
-      "es": "No intente resistir pasivamente el estrés. Cambie de inmediato a una tarea que requiera el 100% de su memoria de trabajo durante al menos 15 - 20 minutos para activar el mecanismo de bloqueo.",
-      "fr": "N'essayez pas de résister passivement au stress. Passez immédiatement à une tâche nécessitant 100 % de votre mémoire de travail pendant au moins 15 - 20 minutes.",
-      "de": "Versuchen Sie nicht, Passiv gegen Stress anzukämpfen. Wechseln Sie sofort zu einer Aufgabe, die 100% Ihres Arbeitsgedächtnisses fordert (15 - 20 Min.).",
-      "pt": "Não tente resistir passivamente ao estresse. Mude imediatamente para uma tarefa que exija 100% da sua memória de trabalho por pelo menos 15 - 20 minutos.",
-      "id": "Jangan mencoba menahan stres secara pasif. Segera beralih ke tugas yang membutuhkan 100% kapasitas memori kerja setidaknya selama 15 - 20 menit."
+      "ko": "잡념이나 스트레스가 밀려올 때 억지로 참으려 애쓰지 마세요. 즉시 작업 기억(Working Memory)을 100% 사용하는 높은 난이도의 퀴즈나 독서 과제로 전환하여 15 - 20분간 뇌의 감각 차단 밸브를 가동해야 합니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Acknowledge the Distraction or Stress",
-          "ko": "밀려오는 스트레스나 잡념 인정하기",
-          "ja": "押し寄せるストレスや雑念を認める",
-          "zh": "接纳袭来的压力与杂念",
-          "es": "Reconocer la Distracción o el Estrés",
-          "fr": "Reconnaître la Distraction ou le Stress",
-          "de": "Stress oder Ablenkung anerkennen",
-          "pt": "Reconhecer a Distração ou Estresse",
-          "id": "Akui Gangguan atau Stres"
+          "ko": "밀려오는 스트레스나 잡념 인정하기"
         },
         "text": {
-          "en": "Accept the current discomfort without anxiety, treating it simply as a trigger to activate your high-cognition mode.",
-          "ko": "현재 느끼는 불쾌감이나 스트레스를 감정적으로 부풀리지 않고 단순한 뇌 가동 트리거 신호로 받아들입니다.",
-          "ja": "現在感じている不快感やストレスを感情的に増幅させず、単純な脳稼働のトリガー信号として受け入れます。",
-          "zh": "客观接受当前的心理不适，将其单纯视为触发大脑进入高阶认知模式的信号。",
-          "es": "Acepte el malestar actual sin ansiedad, tratándolo simplemente como un disparador para activar su modo de alta cognición.",
-          "fr": "Acceptez l'inconfort actuel sans anxiété, en le traitant simplement comme un déclencheur.",
-          "de": "Akzeptieren Sie das Unbehagen ohne Angst als Auslöser für Ihren Hochkognitionsmodus.",
-          "pt": "Aceite o desconforto atual sem ansiedade, tratando-o como um gatilho para o modo de alta cognição.",
-          "id": "Terima ketidaknyamanan saat ini tanpa kecemasan, menganggapnya sebagai pemicu mode kognisi tinggi."
+          "ko": "현재 느끼는 불쾌감이나 스트레스를 감정적으로 부풀리지 않고 단순한 뇌 가동 트리거 신호로 받아들입니다."
         }
       },
       {
         "name": {
-          "en": "Select a High-Cognition Target",
-          "ko": "100% 몰입용 고난도 과제 선택하기",
-          "ja": "100%没頭用の高難度タスクを選択する",
-          "zh": "选择100%深度的极高难度任务",
-          "es": "Seleccionar un Objetivo de Alta Cognición",
-          "fr": "Sélectionner une Tâche à Haute Cognition",
-          "de": "Ein hochkognitives Ziel wählen",
-          "pt": "Selecionar um Alvo de Alta Cognição",
-          "id": "Pilih Target Kognisi Tinggi"
+          "ko": "100% 몰입용 고난도 과제 선택하기"
         },
         "text": {
-          "en": "Pick a challenging problem, complex reading material, or demanding logic puzzle that leaves zero room for passive thinking.",
-          "ko": "단순 작업이 아닌, 깊은 논리적 사고나 계산이 필요한 복잡한 문제집이나 난해한 학술 독서를 펼칩니다.",
-          "ja": "単純作業ではなく、深い論理的思考や計算が必要な複雑な問題集や高度な学術書を開きます。",
-          "zh": "选择需要深度逻辑思考或复杂计算的难题集，不给消极思考留有任何余地。",
-          "es": "Elija un problema desafiante, material de lectura complejo o un rompecabezas de lógica exigente.",
-          "fr": "Choisissez un problème difficile, une lecture complexe ou un puzzle logique exigeant.",
-          "de": "Wählen Sie ein anspruchsvolles Problem oder eine komplexe Lektüre, die vollen Einsatz erfordert.",
-          "pt": "Escolha um problema desafiador ou uma leitura complexa que exija foco total.",
-          "id": "Pilih masalah yang menantang, materi bacaan kompleks, atau teka-teki logika yang menuntut."
+          "ko": "단순 작업이 아닌, 깊은 논리적 사고나 계산이 필요한 복잡한 문제집이나 난해한 학술 독서를 펼칩니다."
         }
       },
       {
         "name": {
-          "en": "Execute the 15-Minute Gating Sprint",
-          "ko": "15분 집중 감각 차단 스프린트 실행",
-          "ja": "15分間の集中感覚遮断スプリントの実行",
-          "zh": "执行15分钟高压遮断专注冲刺",
-          "es": "Ejecutar el Sprint de Bloqueo de 15 Minutos",
-          "fr": "Exécuter le Sprint de Filtrage de 15 Minutes",
-          "de": "Den 15-minütigen Fokussprint ausführen",
-          "pt": "Executar o Sprint de Controle de 15 Minutos",
-          "id": "Jalankan Sprint 15 Menit"
+          "ko": "15분 집중 감각 차단 스프린트 실행"
         },
         "text": {
-          "en": "Immerse yourself fully in solving the target problem for 15 unbroken minutes, triggering sensory gating in the thalamus.",
-          "ko": "15분간 외부 감각을 완전히 닫고 하나의 문제에 몰입하여, 뇌 시상(Thalamus)의 감각 차단 메커니즘을 활성화시킵니다.",
-          "ja": "15分間外部感覚を完全に遮断して一つの問題に没頭し、脳の視床による感覚遮断メカニズムを活性化させます。",
-          "zh": "在整整15分钟内完全切断外界感官干扰，全力解答该难题，激活丘脑的视觉门控功能。",
-          "es": "Sumérjase por completo en la resolución del problema objetivo durante 15 minutos continuos.",
-          "fr": "Immergez-vous complètement dans la résolution du problème pendant 15 minutes ininterrompues.",
-          "de": "Tauchen Sie 15 Minuten lang ununterbrochen in die Lösung ein, um den Thalamus zu aktivieren.",
-          "pt": "Mergulhe totalmente na resolução do problema por 15 minutos ininterruptos.",
-          "id": "Benamkan diri Anda sepenuhnya dalam memecahkan masalah target selama 15 menit tanpa henti."
+          "ko": "15분간 외부 감각을 완전히 닫고 하나의 문제에 몰입하여, 뇌 시상(Thalamus)의 감각 차단 메커니즘을 활성화시킵니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "en": "Does this technique work for everyday work stress as well?",
-          "ko": "이 방법이 일상적인 업무 스트레스나 불안감에도 효과가 있나요?",
-          "ja": "この方法は日常の仕事のストレスや不安にも効果がありますか？",
-          "zh": "这种方法对日常工作压力和焦虑也有效吗？",
-          "es": "¿Funciona esta técnica también para el estrés laboral diario?",
-          "fr": "Cette technique fonctionne-t-elle pour le stress au travail au quotidien ?",
-          "de": "Funktioniert diese Technik auch bei alltäglichem Arbeitsstress?",
-          "pt": "Esta técnica funciona para o estresse diário do trabalho?",
-          "id": "Apakah teknik ini juga berfungsi untuk stres kerja sehari-hari?"
+          "ko": "이 방법이 일상적인 업무 스트레스나 불안감에도 효과가 있나요?"
         },
         "answer": {
-          "en": "Yes. The thalamic gating mechanism operates identically whether filtering physical pain or emotional stress signals.",
-          "ko": "네, 그렇습니다. 뇌 시상(Thalamus)의 게이팅 메커니즘은 신체적 통증뿐만 아니라 심리적 불안과 스트레스 신호도 동일하게 차단해 줍니다.",
-          "ja": "はい。脳の視床ゲイン制御は、身体的な痛みだけでなく、心理的な不安やストレス信号も同様に遮断します。",
-          "zh": "是的。无论是过滤身体疼痛还是心理焦虑信号，丘脑门控机制的作用原理完全一致。",
-          "es": "Sí. El mecanismo del tálamo funciona de la misma manera ya sea filtrando dolor físico o estrés emocional.",
-          "fr": "Oui. Le mécanisme du thalamus fonctionne de la même manière pour la douleur physique et le stress émotionnel.",
-          "de": "Ja. Der Thalamus-Mechanismus funktioniert bei emotionalem Stress genauso wie bei körperlichem Schmerz.",
-          "pt": "Sim. O mecanismo do tálamo opera de forma idêntica para dor física ou estresse emocional.",
-          "id": "Ya. Mekanisme talamus beroperasi secara identik baik memfilter rasa sakit fisik atau stres emosional."
+          "ko": "네, 그렇습니다. 뇌 시상(Thalamus)의 게이팅 메커니즘은 신체적 통증뿐만 아니라 심리적 불안과 스트레스 신호도 동일하게 차단해 줍니다."
         }
       },
       {
         "question": {
-          "en": "How long should I maintain this high-cognition sprint?",
-          "ko": "고난도 몰입 스프린트는 얼마 동안 유지하는 것이 좋은가요?",
-          "ja": "高難度の没頭スプリントはどれくらいの時間維持するのが良いですか？",
-          "zh": "极深度专注冲刺维持多久最合适？",
-          "es": "¿Cuánto tiempo debo mantener este sprint de alta cognición?",
-          "fr": "Combien de temps dois-je maintenir ce sprint de haute cognition ?",
-          "de": "Wie lange sollte ich diesen hochkognitiven Sprint beibehalten?",
-          "pt": "Por quanto tempo devo manter este sprint de alta cognição?",
-          "id": "Berapa lama saya harus mempertahankan sprint kognisi tinggi ini?"
+          "ko": "고난도 몰입 스프린트는 얼마 동안 유지하는 것이 좋은가요?"
         },
         "answer": {
-          "en": "15 to 20 minutes is optimal. Prolonged sprints without rest can cause cognitive fatigue.",
-          "ko": "15분에서 20분 사이가 가장 이상적입니다. 뇌 자원을 집중적으로 몰입시킨 뒤에는 잠시 휴식을 취해 피로를 예방해야 합니다.",
-          "ja": "15分から20分の間が最も理想的です。脳のリソースを集中させた後は、休息をとって疲労を防ぎましょう。",
-          "zh": "15 - 20分钟是最理想的区间。过度延长冲刺而不休息会导致大脑过度疲劳。",
-          "es": "De 15 a 20 minutos es lo ideal. Los sprints prolongados sin descanso pueden causar fatiga cognitiva.",
-          "fr": "15 à 20 minutes est l'idéal. Les sprints prolongés sans repos peuvent causer de la fatigue cognitive.",
-          "de": "15 bis 20 Minuten sind optimal. Längere Sprints ohne Pause können zu kognitiver Ermüdung führen.",
-          "pt": "De 15 a 20 minutos é o ideal. Sprints prolongados sem descanso podem causar fadiga cognitiva.",
-          "id": "15 hingga 20 menit adalah waktu yang optimal. Sprint yang diperpanjang tanpa istirahat dapat menyebabkan kelelahan kognitif."
+          "ko": "15분에서 20분 사이가 가장 이상적입니다. 뇌 자원을 집중적으로 몰입시킨 뒤에는 잠시 휴식을 취해 피로를 예방해야 합니다."
         }
       }
-    ],
-    "pubDate": "2026-06-06",
-    "updatedDate": "2026-06-06"
+    ]
   }
 }

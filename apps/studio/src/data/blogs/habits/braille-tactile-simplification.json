@@ -1,218 +1,72 @@
 {
   "braille-tactile-simplification": {
     "title": {
-      "ko": "점자 발명가의 본질 직관? 루이 브라이유의 6점 단순화 루틴",
-      "en": "Braille Inventor's Core Intuition? Louis Braille's 6-Dot Simplification Routine",
-      "ja": "点字の発明者の本質直感？ルイ・ブライユの6点シンプル化ルーティン",
-      "zh": "盲文发明家的本质直觉？路易·布莱叶的六点简化习惯",
-      "es": "¿La intuición esencial del inventor del Braille? La rutina de simplificación de 6 puntos de Louis Braille",
-      "fr": "L'intuition du créateur du Braille ? La routine de simplification à 6 points de Louis Braille",
-      "de": "Die Intuition des Braille-Erfinders? Louis Brailles 6-Punkt-Vereinfachungsroutine",
-      "pt": "A intuição do inventor do Braille? A rotina de simplificação de 6 pontos de Louis Braille",
-      "id": "Intuisi Utama Penemu Braille? Rutinitas Penyederhanaan 6 Titik Louis Braille"
+      "ko": "점자 발명가의 본질 직관? 루이 브라이유의 6점 단순화 루틴"
     },
     "description": {
-      "ko": "복잡했던 12점 군용 문자를 손가락 한 마디에 들어오는 6점 점자로 단순화하여 지식 혁명을 일으킨 루이 브라이유의 본질 단순화 기술.",
-      "en": "Discover how Louis Braille simplified complex 12-dot military codes into a 6-dot tactile system to revolutionize literacy.",
-      "ja": "複雑だった12点の軍用文字を指先一つに収まる6点点字にシンプル化し、知識の革命を起こしたブライユの思考法。",
-      "zh": "介绍路易·布莱叶将复杂的12点军用密码简化为指尖可查的6点盲文、引发知识革命的精简思考习惯。",
-      "es": "Descubra cómo Louis Braille simplificó los códigos militares de 12 puntos en un sistema de 6 puntos.",
-      "fr": "Découvrez comment Louis Braille a simplifié les codes à 12 points en un système à 6 points.",
-      "de": "Erfahren Sie, wie Louis Braille komplexe 12-Punkt-Codes in ein 6-Punkt-System vereinfachte.",
-      "pt": "Descubra como Louis Braille simplificou códigos militares de 12 pontos em um sistema de 6 pontos.",
-      "id": "Temukan cara Louis Braille menyederhanakan kode 12 titik menjadi sistem 6 titik yang revolusioner."
+      "ko": "복잡했던 12점 군용 문자를 손가락 한 마디에 들어오는 6점 점자로 단순화하여 지식 혁명을 일으킨 루이 브라이유의 본질 단순화 기술."
     },
     "authority": {
-      "ko": "전기 'Louis Braille: A Touch of Genius' 및 유네스코 점자 유산 사료",
-      "en": "Biography 'Louis Braille: A Touch of Genius' & UNESCO Archives",
-      "ja": "評伝「Louis Braille: A Touch of Genius」およびユネスコ史料",
-      "zh": "传记《Louis Braille: A Touch of Genius》与联合国教科文组织史料",
-      "es": "Biografía 'Louis Braille: A Touch of Genius' y archivos de la UNESCO",
-      "fr": "Biographie 'Louis Braille: A Touch of Genius' & archives de l'UNESCO",
-      "de": "Biografie 'Louis Braille: A Touch of Genius' & UNESCO-Archive",
-      "pt": "Biografia 'Louis Braille: A Touch of Genius' e arquivos da UNESCO",
-      "id": "Biografi 'Louis Braille: A Touch of Genius' & Arsip UNESCO"
+      "ko": "루이 브라이유 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "전 세계 시각장애인들에게 읽고 쓰는 자유를 선물하며 인류 지식 접근성에 일대 혁명을 일으킨 위대한 발명가, 루이 브라이유. 그가 기존의 복잡했던 점자 체계를 뛰어넘어 완벽한 6점 점자를 창안할 수 있었던 비결은 무엇일까요? ⠃\n\n브라이유는 군대에서 쓰이던 12점 야간 문자가 손가락 한 마디로 한 번에 감지하기에 너무 크고 복잡하다는 사실을 깨달았습니다. 그는 매일 손끝 감각을 시험하며, 손가락을 움직이지 않고 단번에 인지할 수 있는 최적의 크기인 '6점 체계'로 불필요한 점들을 제거해 나갔습니다. 핵심 본질만 남기는 단순화 습관은 그의 최고의 무기였습니다.\n\n오늘 BuildSelf에서는 루이 브라이유의 6점 단순화 루틴과 인지 부하 감소의 과학을 소개합니다.",
-      "en": "Louis Braille, the inventor who revolutionized literacy for the visually impaired. How did he create the 6-dot braille system? ⠃\n\nBraille realized the 12-dot military code was too large to read with one fingertip. Testing tactile sensations daily, he stripped away complexity until he reached the optimal 6-dot system. Removing clutter was his ultimate strength.\n\nToday, BuildSelf introduces Braille's 6-dot simplification routine.",
-      "ja": "この歴史的習慣の実践において： , . 6 ? ⠃ この歴史的習慣の実践において： 12 . , '6 ' . . この歴史的習慣の実践において： BuildSelf 6 .",
-      "zh": "在这一历史性惯例的实践中： , . 6 ? ⠃ 在这一历史性惯例的实践中： 12 . , '6 ' . . 在这一历史性惯例的实践中： BuildSelf 6 .",
-      "es": "Esta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.\n\nEsta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.\n\nEsta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.\n\nCette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.\n\nCette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora:               ,  .        6      ? ⠃\n\nNa prática desta rotina transformadora:    12             .     ,          '6 '    .        .\n\nNa prática desta rotina transformadora:  BuildSelf   6       .\n\nAo praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "전 세계 시각장애인들에게 읽고 쓰는 자유를 선물하며 인류 지식 접근성에 일대 혁명을 일으킨 위대한 발명가, 루이 브라이유. 그가 기존의 복잡했던 점자 체계를 뛰어넘어 완벽한 6점 점자를 창안할 수 있었던 비결은 무엇일까요? ⠃\n\n브라이유는 군대에서 쓰이던 12점 야간 문자가 손가락 한 마디로 한 번에 감지하기에 너무 크고 복잡하다는 사실을 깨달았습니다. 그는 매일 손끝 감각을 시험하며, 손가락을 움직이지 않고 단번에 인지할 수 있는 최적의 크기인 '6점 체계'로 불필요한 점들을 제거해 나갔습니다. 핵심 본질만 남기는 단순화 습관은 그의 최고의 무기였습니다.\n\n오늘 포스트에서는 루이 브라이유의 6점 단순화 루틴과 인지 부하 감소의 과학을 소개합니다."
     },
     "whyTitle": {
-      "ko": "작업 기억 청킹(Chunking)을 통한 인지 과부하 차단",
-      "en": "Preventing Cognitive Overload via Working Memory Chunking",
-      "ja": "ワーキングメモリのチャンキングによる認知過負荷の遮断",
-      "zh": "通过工作记忆块化（Chunking）阻断认知过载",
-      "es": "Prevención de Sobrecarga Cognitiva Mediante Agrupamiento",
-      "fr": "Prévention de la Surcharge par le Chunking en Mémoire de Travail",
-      "de": "Vermeidung kognitiver Überlastung durch Chunking",
-      "pt": "Prevenção de Sobrecarga Cognitiva via Agrupamento",
-      "id": "Mencegah Kelebihan Beban Kognitif Melalui Chunking Memori"
+      "ko": "작업 기억 청킹(Chunking)을 통한 인지 과부하 차단"
     },
     "whyDesc": {
-      "ko": "인간의 작업 기억(Working Memory)은 한 번에 처리할 수 있는 정보의 양에 명확한 한계가 있습니다.\n\n브라이유 박사가 12점을 6점으로 절반이나 줄여 단번에 인지하게 만든 것처럼, 복잡한 업무 절차를 핵심 요소 3~5개 단위로 줄이는 <strong>'청킹(Chunking)'</strong> 작업은 뇌의 인지 부하를 줄이고 처리 속도를 극대화합니다.",
-      "en": "Human working memory has strict limits on information processed at once.\n\nJust as Braille cut 12 dots down to 6 for instant recognition, <strong>'chunking'</strong> complex processes into 3-5 core items eliminates cognitive load and boosts speed.",
-      "ja": "人間のワーキングメモリは一度に処理できる量に限界があります。\n\nブライユが12点を6点に減らして一瞬で認識可能にしたように、プロセスを3〜5個のコア要素にまとめる<strong>「チャンキング（Chunking）」</strong>は処理速度を極大化します。",
-      "zh": "人类的工作记忆在一次性处理信息量方面存在明确极限。\n\n正如布莱叶将12点砍掉一半缩至6点以便瞬间识别一样，将复杂流程缩减至3~5个核心要素的<strong>“块化（Chunking）”</strong>能大幅消除认知负荷。",
-      "es": "La memoria de trabajo tiene límites estrictos.\n\nAl igual que Braille redujo 12 puntos a 6, el <strong>'agrupamiento (chunking)'</strong> elimina sobrecargas y maximiza la velocidad.",
-      "fr": "La mémoire de travail a des limites strictes.\n\nTout comme Braille a réduit 12 points à 6, le <strong>'chunking'</strong> élimine la surcharge et accélère le traitement.",
-      "de": "Das Arbeitsgedächtnis hat strenge Grenzen.\n\nWie Braille 12 Punkte auf 6 reduzierte, eliminiert <strong>'Chunking'</strong> kognitive Überlastung.",
-      "pt": "A memória de trabalho tem limites estritos.\n\nAssim como Braille reduziu 12 pontos para 6, o <strong>'agrupamento'</strong> elimina sobrecargas e acelera o processamento.",
-      "id": "Memori kerja manusia memiliki batas ketat.\n\nSeperti Braille memotong 12 titik menjadi 6, <strong>'chunking'</strong> menghilangkan beban kognitif dan meningkatkan kecepatan."
+      "ko": "인간의 작업 기억(Working Memory)은 한 번에 처리할 수 있는 정보의 양에 명확한 한계가 있습니다.\n\n브라이유 박사가 12점을 6점으로 절반이나 줄여 단번에 인지하게 만든 것처럼, 복잡한 업무 절차를 핵심 요소 3~5개 단위로 줄이는 <strong>'청킹(Chunking)'</strong> 작업은 뇌의 인지 부하를 줄이고 처리 속도를 극대화합니다."
     },
     "cautionTitle": {
-      "ko": "중요하지 않은 부가 요소를 용기 있게 삭제하세요",
-      "en": "Courageously eliminate non-essential secondary elements",
-      "ja": "重要でない付加要素を勇気を持って削除しましょう",
-      "zh": "次要元素，勇于果断删减",
-      "es": "Elimine valientemente los elementos secundarios no esenciales",
-      "fr": "Éliminez avec courage les éléments secondaires non essentiels",
-      "de": "Mutiges Entfernen unwichtiger Sekundärelemente",
-      "pt": "Elimine com coragem elementos secundários não essenciais",
-      "id": "Beranikan diri menghapus elemen sekunder yang tidak penting"
+      "ko": "중요하지 않은 부가 요소를 용기 있게 삭제하세요"
     },
     "cautionDesc": {
-      "ko": "'혹시 나중에 쓰일지 모른다'는 미련으로 단계를 남겨두면 프로세스는 다시 복잡해집니다. 손가락 마디 하나에 들어오는 6점처럼 단순화하세요.",
-      "en": "Keeping steps 'just in case' makes processes complex again. Simplify like 6 dots under one fingertip.",
-      "ja": "「念のため」とステップを残しておくと再び複雑になります。指先一つに収まる6点のようにシンプルにしましょう。",
-      "zh": "因“万一以后用到”而保留步骤会让流程再次变得复杂。像指尖一下的6点那样保持精简。",
-      "es": "Mantener pasos 'por si acaso' vuelve compleja la rutina. Simplifique a 6 puntos.",
-      "fr": "Garder des étapes 'au cas où' rend le processus complexe. Simplifiez jusqu'à 6 points.",
-      "de": "Schritte 'für alle Fälle' zu behalten, macht Prozesse kompliziert. Vereinfachen Sie auf 6 Punkte.",
-      "pt": "Manter etapas 'por via das dúvidas' torna o processo complexo. Simplifique até 6 pontos.",
-      "id": "Menyimpan langkah 'untuk jaga-jaga' membuat proses rumit lagi. Sederhanakan ke 6 titik."
+      "ko": "'혹시 나중에 쓰일지 모른다'는 미련으로 단계를 남겨두면 프로세스는 다시 복잡해집니다. 손가락 마디 하나에 들어오는 6점처럼 단순화하세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "복잡한 프로세스 요소 전수 진단",
-          "en": "Diagnose All Complex Process Elements",
-          "ja": "複雑なプロセス要素の全数診断",
-          "zh": "全盘诊断复杂流程要素",
-          "es": "Diagnosticar Elementos de Procesos Complejos",
-          "fr": "Diagnostiquer Tous les Éléments d'un Processus",
-          "de": "Komplexe Prozesselemente analysieren",
-          "pt": "Diagnosticar Elementos de Processos Complexos",
-          "id": "Diagnosis Semua Elemen Proses Rumit"
+          "ko": "복잡한 프로세스 요소 전수 진단"
         },
         "text": {
-          "ko": "현재 작성 중인 기획안이나 daily 업무 루틴의 모든 단계를 나열합니다.",
-          "en": "List all steps of your current project proposal or daily work routine.",
-          "ja": "現在作成中の企画書や毎日の作業ルーティンの全ステップを書き出します。",
-          "zh": "列出当前正在撰写的策划案或日常工作习惯的所有步骤。",
-          "es": "Enumere todos los pasos de su propuesta o rutina diaria actual.",
-          "fr": "Lister toutes les étapes de votre projet ou routine quotidienne.",
-          "de": "Listeten Sie alle Schritte Ihres Projekts oder Ihrer Routine auf.",
-          "pt": "Liste todas as etapas do seu projeto ou rotina diária.",
-          "id": "Daftarkan semua langkah dari proposal atau rutinitas harian Anda."
+          "ko": "현재 작성 중인 기획안이나 daily 업무 루틴의 모든 단계를 나열합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
         }
       },
       {
         "name": {
-          "ko": "핵심 3~5가지 요소 과감한 추출",
-          "en": "Extract Core 3-5 Essential Elements",
-          "ja": "核心3〜5個の要素の果敢な抽出",
-          "zh": "果断提取3~5个核心要素",
-          "es": "Extraer de 3 a 5 Elementos Esenciales",
-          "fr": "Extraire 3 à 5 Éléments Essentiels",
-          "de": "3-5 Kernelemente extrahieren",
-          "pt": "Extrair 3 a 5 Elementos Essenciais",
-          "id": "Ekstrak 3-5 Elemen Utama"
+          "ko": "핵심 3~5가지 요소 과감한 추출"
         },
         "text": {
-          "ko": "결과에 80% 영향을 주는 핵심 3~5가지 필수 요소만 남기고 나머지를 과감히 삭제합니다.",
-          "en": "Keep only the core 3-5 essential items that drive 80% of results and cut the rest.",
-          "ja": "結果の80%に影響を与える核心の3〜5要素だけを残し、他を削ぎ落とします。",
-          "zh": "仅保留影响80%结果的3~5个核心要素，果断将其余部分删去。",
-          "es": "Conserve solo los 3-5 elementos clave que generan el 80% de los resultados.",
-          "fr": "Gardez seulement les 3 à 5 éléments clés générant 80 % des résultats.",
-          "de": "Behalten Sie nur die 3-5 Kernelemente, die 80 % der Ergebnisse bringen.",
-          "pt": "Conserve apenas os 3-5 elementos essenciais para 80% dos resultados.",
-          "id": "Simpan hanya 3-5 elemen kunci yang menghasilkan 80% hasil."
+          "ko": "결과에 80% 영향을 주는 핵심 3~5가지 필수 요소만 남기고 나머지를 과감히 삭제합니다."
         }
       },
       {
         "name": {
-          "ko": "단순화 체계 적용 및 원스톱 처리",
-          "en": "Apply Simplified System & One-Stop Process",
-          "ja": "シンプル化体系の適用とワンストップ処理",
-          "zh": "应用简化体系与一站式处理",
-          "es": "Aplicar Sistema Simplificado",
-          "fr": "Appliquer un Système Simplifié",
-          "de": "Vereinfachtes System anwenden",
-          "pt": "Aplicar Sistema Simplificado",
-          "id": "Terapkan Sistem المبسط"
+          "ko": "단순화 체계 적용 및 원스톱 처리"
         },
         "text": {
-          "ko": "새로 정돈된 6점 스타일의 단순 시스템으로 업무를 즉시 한눈에 원스톱 처리합니다.",
-          "en": "Process your work at a glance using the newly streamlined 6-dot-style simple system.",
-          "ja": "新しく整えたシンプルなシステムで、作業を一目でワンストップ処理します。",
-          "zh": "用全新整理的精简体系，一目了然地高效一站式完成工作。",
-          "es": "Procese su trabajo de un vistazo usando el nuevo sistema simplificado.",
-          "fr": "Traitez votre travail en un coup d'œil avec le nouveau système.",
-          "de": "Erledigen Sie Ihre Arbeit auf einen Blick mit dem neuen System.",
-          "pt": "Processe seu trabalho num relance com o novo sistema simplificado.",
-          "id": "Proses pekerjaan Anda sekilas menggunakan sistem sederhana baru."
+          "ko": "새로 정돈된 6점 스타일의 단순 시스템으로 업무를 즉시 한눈에 원스톱 처리합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "단순화하다가 중요한 내용을 빼먹을까 봐 두려울 땐 어떻게 하나요?",
-          "en": "What if I fear leaving out important details while simplifying?",
-          "ja": "シンプル化する中で重要な内容を落とすのが怖い場合はどうすればいいですか？",
-          "zh": "害怕在精简过程中遗漏重要细节该怎么办？",
-          "es": "¿Qué hacer si temo omitir detalles importantes al simplificar?",
-          "fr": "Que faire si j'ai peur d'omettre des détails importants ?",
-          "de": "Was tun, wenn ich angst habe, Wichtiges zu wegzulassen?",
-          "pt": "O que fazer se tiver medo de omitir detalhes importantes?",
-          "id": "Bagaimana jika takut melewatkan detail penting saat menyederhanakan?"
+          "ko": "단순화하다가 중요한 내용을 빼먹을까 봐 두려울 땐 어떻게 하나요?"
         },
         "answer": {
-          "ko": "삭제된 부가 정보는 '부록'이나 별도 폴더에 백업해 두고, 본문 프로세스에서는 핵심 3~5개만 노출시키는 이중화 전략을 쓰면 불안감을 해소할 수 있습니다.",
-          "en": "Back up deleted secondary details into an appendix folder and expose only core items in the main process.",
-          "ja": "削除した情報は「付録」フォルダにバックアップし、メインプロセスではコア要素だけを表示する戦略をとりましょう。",
-          "zh": "将删去的辅助信息备份在“附录”文件夹中，主流程仅展示核心3~5个要素即可消除不安。",
-          "es": "Guarde los detalles secundarios en una carpeta de anexo y exponga solo lo esencial en el proceso principal.",
-          "fr": "Sauvegardez les détails secondaires dans un dossier annexe et ne gardez que l'essentiel.",
-          "de": "Sichern Sie Sekundärdetails im Anhang und zeigen Sie im Hauptprozess nur das Wesentliche.",
-          "pt": "Guarde detalhes num anexo e exponha apenas o essencial no processo principal.",
-          "id": "Cadangkan detail sekunder di folder lampiran dan tampilkan hanya yang utama di proses utama."
+          "ko": "삭제된 부가 정보는 '부록'이나 별도 폴더에 백업해 두고, 본문 프로세스에서는 핵심 3~5개만 노출시키는 이중화 전략을 쓰면 불안감을 해소할 수 있습니다."
         }
       },
       {
         "question": {
-          "ko": "팀 업무 프로세스에도 이 방식을 적용할 수 있나요?",
-          "en": "Can this method be applied to team work processes?",
-          "ja": "チームの作業プロセスにもこの方法を適用できますか？",
-          "zh": "这种方法能应用于团队工作流程吗？",
-          "es": "¿Se puede aplicar este método a procesos de equipo?",
-          "fr": "Peut-on appliquer cette méthode aux processus d'équipe ?",
-          "de": "Kann diese Methode auf Teamprozesse angewendet werden?",
-          "pt": "Esse método pode ser aplicado a processos de equipe?",
-          "id": "Bisakah metode ini diterapkan pada proses kerja tim?"
+          "ko": "팀 업무 프로세스에도 이 방식을 적용할 수 있나요?"
         },
         "answer": {
-          "ko": "네, 회의 안건이나 보고서 결재 라인을 3단계 이하로 축소하는 단순화 규칙을 도입하면 팀 전반의 소통 속도가 급격히 향상됩니다.",
-          "en": "Yes, reducing meeting agendas or approval lines to 3 steps or fewer dramatically speeds up team communication.",
-          "ja": "はい、会議のアジェンダや承認ラインを3ステップ以下に縮小することで、チーム全体の溝通速度が向上します。",
-          "zh": "当然可以。将会议议程或审批流程缩减至3步以内，能显著提升团队整体的沟通效率。",
-          "es": "Sí, reducir las agendas de reuniones o líneas de aprobación a 3 pasos acelera la comunicación.",
-          "fr": "Oui, réduire les ordres du jour ou validations à 3 étapes accélère la communication d'équipe.",
-          "de": "Ja, die Reduzierung von Besprechungsagenden auf 3 Schritte beschleunigt die Kommunikation.",
-          "pt": "Sim, reduzir pautas de reunião ou aprovações para 3 etapas acelera a comunicação.",
-          "id": "Ya, mengurangi agenda rapat atau alur persetujuan menjadi 3 langkah mempercepat komunikasi tim."
+          "ko": "네, 회의 안건이나 보고서 결재 라인을 3단계 이하로 축소하는 단순화 규칙을 도입하면 팀 전반의 소통 속도가 급격히 향상됩니다."
         }
       }
-    ],
-    "pubDate": "2026-05-04",
-    "updatedDate": "2026-05-04"
+    ]
   }
 }

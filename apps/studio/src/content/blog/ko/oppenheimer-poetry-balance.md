@@ -1,19 +1,19 @@
 ---
 title: "양자물리학자의 스트레스 해소법? 로버트 오펜하이머의 야간 시 독서 루틴"
 description: "맨해튼 프로젝트의 수장 오펜하이머. 극심한 중압감 속에서 산스크리트어 고전시를 읽으며 뇌의 균형을 찾은 인지 이완 루틴과 실천법."
-pubDate: "2026-03-08"
-updatedDate: "2026-03-08"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/oppenheimer_poetry_balance.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/oppenheimer_poetry_balance.png"
 app: "buildself"
 formatVersion: 4
-authority: "전기 'American Prometheus' 및 미 의회도서관 사료"
+authority: "로버트 오펜하이머 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "수리/업무 장비 전원 끄기"
-    text: "저녁 업무 완료 후 모니터와 엑셀, 수치 서류를 치우고 책상 환경을 전환합니다."
+    text: "저녁 업무 완료 후 모니터와 엑셀, 수치 서류를 치우고 책상 환경을 전환합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
   - name: "15분간의 시/고전 문학 음미 독서"
-    text: "시집이나 서정적 문학 책을 펴고 천천히 속으로 읊조리듯 한 문장씩 독서합니다."
+    text: "시집이나 서정적 문학 책을 펴고 천천히 속으로 읊조리듯 한 문장씩 독서합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
   - name: "여운 느끼기와 조용한 침상 이완"
     text: "책을 덮은 뒤 마음에 남는 한 구절의 이미지를 떠올리며 편안하게 편안한 수면 상태로 넘어갑니다."
 faqs:
@@ -21,6 +21,7 @@ faqs:
     answer: "네, 줄거리에 치우친 긴 소설보다는 서정성이 강한 짧은 단편이나 시, 에세이가 수치 인지 피로를 이완시키는 데 훨씬 효과적입니다."
   - question: "전자책(e-book)으로 읽는 것도 상관없나요?"
     answer: "종이책이 가장 좋지만, 프론트라이트 타입의 전자잉크 리더기라면 수면 방해 블루라이트가 적어 활용해도 좋습니다."
+
 ---
 
 맨해튼 프로젝트를 이끌며 세상을 바꾼 이론 물리학자, J. 로버트 오펜하이머. 인류 역사의 거대한 기로에서 오는 극심한 중압감과 스트레스를 그는 어떻게 이겨냈을까요? 📜
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 전기 'American Prometheus' 및 미 의회도서관 사료 정보를 기반으로 작성되었습니다.
+      본 콘텐츠는 <strong>로버트 오펜하이머 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 oppenheimer-poetry-balance 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 치열한 수리 인지 후 우뇌 감성 회로를 깨우는 이질적 전환
+## 치열한 수리 인지 후 우뇌 감성 회로를 깨우는 이질적 전환
 
 숫자와 알고리즘에 오랫동안 노출되면 좌뇌의 과부하로 인지 유연성이 크게 저하됩니다.
 
@@ -51,8 +52,9 @@ faqs:
 
 ---
 
-## 2. 실천을 위한 3단계 세부 행동 가이드
+## 분석하려 하지 말고 문장의 시적 감성에 몸을 맡기세요
 
+문장의 문법이나 논리를 분석하려 들면 뇌는 다시 분석 모드로 들어갑니다. 이미지와 운율을 조용히 느껴보세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -60,7 +62,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">수리/업무 장비 전원 끄기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    저녁 업무 완료 후 모니터와 엑셀, 수치 서류를 치우고 책상 환경을 전환합니다.
+    저녁 업무 완료 후 모니터와 엑셀, 수치 서류를 치우고 책상 환경을 전환합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다.
   </p>
 </div>
 
@@ -70,7 +72,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">15분간의 시/고전 문학 음미 독서</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    시집이나 서정적 문학 책을 펴고 천천히 속으로 읊조리듯 한 문장씩 독서합니다.
+    시집이나 서정적 문학 책을 펴고 천천히 속으로 읊조리듯 한 문장씩 독서합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다.
   </p>
 </div>
 
@@ -84,25 +86,13 @@ faqs:
   </p>
 </div>
 
----
-
-## 3. 분석하려 하지 말고 문장의 시적 감성에 몸을 맡기세요
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      문장의 문법이나 논리를 분석하려 들면 뇌는 다시 분석 모드로 들어갑니다. 이미지와 운율을 조용히 느껴보세요.
-    </p>
-  </div>
-</div>
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>시 대신 소설이나 에세이를 읽어도 똑같은 효과가 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -110,9 +100,9 @@ faqs:
       네, 줄거리에 치우친 긴 소설보다는 서정성이 강한 짧은 단편이나 시, 에세이가 수치 인지 피로를 이완시키는 데 훨씬 효과적입니다.
     </p>
   </details>
-
+  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>전자책(e-book)으로 읽는 것도 상관없나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

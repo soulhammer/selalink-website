@@ -1,223 +1,72 @@
 {
   "brucelee-pocket-notebook": {
     "title": {
-      "ko": "번뜩이는 영감을 포획하는 사냥법? 브루스 리의 포켓 수첩 밀착 기록 루틴",
-      "en": "How to Capture Fleeting Inspirations? Bruce Lee's Pocket Notebook Habit",
-      "ja": "一瞬のインスピレーションを捉えるには?ブルース・リーの手帳の習慣",
-      "zh": "如何捕捉稍纵即逝的灵感？李小龙的袖珍笔记本习惯",
-      "es": "¿Cómo capturar inspiraciones fugaces? El hábito del cuaderno de bolsillo de Bruce Lee",
-      "fr": "Comment capturer des inspirations éphémères ? L'habitude du carnet de poche de Bruce Lee",
-      "de": "Wie fängt man flüchtige Inspirationen ein? Bruce Lees Taschennotizbuch-Gewohnheit",
-      "pt": "Como capturar inspirações fugazes? O hábito do caderno de bolso de Bruce Lee",
-      "id": "Bagaimana Cara Menangkap Inspirasi Sekilas? Kebiasaan Buku Catatan Saku Bruce Lee"
+      "ko": "번뜩이는 영감을 포획하는 사냥법? 브루스 리의 포켓 수첩 밀착 기록 루틴"
     },
     "description": {
-      "ko": "20세기 최고의 무술가이자 액션 스타 브루스 리(이소룡). 주머니에 포켓 수첩을 늘 소지하며 즉각 메모했던 그의 기록 철학과 아이디어 포획의 인지 메커니즘을 규명합니다.",
-      "en": "Discover Bruce Lee's pocket notebook routine. Learn how immediate physical logging stimulates the reticular activating system (RAS) and fuels creative action.",
-      "ja": "ブルース・リーの手帳の習慣を発見してください。即時の物理的記録がどのように網様体賦活系 (RAS) を刺激し、創造的な行動を促進するかを学びましょう。",
-      "zh": "探索李小龙的袖珍笔记本惯例。了解即时物理记录如何刺激网状激活系统 (RAS) 并激发创造性行动。",
-      "es": "Descubra la rutina del cuaderno de bolsillo de Bruce Lee. Descubra cómo el registro físico inmediato estimula el sistema de activación reticular (RAS) e impulsa la acción creativa.",
-      "fr": "Découvrez la routine du carnet de poche de Bruce Lee. Découvrez comment l'enregistrement physique immédiat stimule le système d'activation réticulaire (RAS) et alimente l'action créative.",
-      "de": "Entdecken Sie Bruce Lees Taschennotizbuch-Routine. Erfahren Sie, wie sofortiges physisches Protokollieren das retikuläre Aktivierungssystem (RAS) stimuliert und kreatives Handeln anregt.",
-      "pt": "Descubra a rotina do caderno de bolso de Bruce Lee. Aprenda como o registro físico imediato estimula o sistema de ativação reticular (RAS) e estimula a ação criativa.",
-      "id": "Temukan rutinitas buku catatan saku Bruce Lee. Pelajari bagaimana pencatatan fisik langsung menstimulasi sistem pengaktifan reticular (RAS) dan mendorong tindakan kreatif."
+      "ko": "20세기 최고의 무술가이자 액션 스타 브루스 리(이소룡). 주머니에 포켓 수첩을 늘 소지하며 즉각 메모했던 그의 기록 철학과 아이디어 포획의 인지 메커니즘을 규명합니다."
     },
     "authority": {
-      "ko": "이소룡 아카이브 'Artist of Life' 및 인지 기술 학술 정보",
-      "en": "Bruce Lee Archives 'Artist of Life' & Cognitive Technology Research",
-      "ja": "ブルース・リーのアーカイブ「アーティスト・オブ・ライフ」と認知技術の研究",
-      "zh": "李小龙档案“生活艺术家”和认知技术研究",
-      "es": "Bruce Lee Archives 'Artista de la vida' e investigación de tecnología cognitiva",
-      "fr": "Bruce Lee Archives « Artiste de la vie » et recherche sur les technologies cognitives",
-      "de": "Bruce Lee Archives „Artist of Life“ und kognitive Technologieforschung",
-      "pt": "Bruce Lee arquiva 'Artista da Vida' e pesquisa de tecnologia cognitiva",
-      "id": "Arsip Bruce Lee 'Artis Kehidupan' & Penelitian Teknologi Kognitif"
+      "ko": "브루스 리 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "강렬한 발차기와 괴성, 압도적인 피지컬로 전 세계 은막을 매료시킨 액션 스타이자, 절권도(Jeet Kune Do)라는 독창적 무예와 실존주의 동양 철학을 하나로 결합한 불멸의 아이콘, 브루스 리(이소룡). 그의 물 흐르는 듯한 유연한 무술 동작과 깊이 있는 인생 잠언들은 단순한 즉흥 연출이 아닌 철저히 기록되고 수집된 아이디어의 결정체였습니다. 📓\n\n브루스 리는 셔츠 주머니나 청바지 뒷주머니 등 손길이 닿는 곳에 항상 한 손 크기의 작은 검은색 가죽 수첩과 볼펜을 소지하고 다녔습니다. 책을 정독할 때는 물론, 영화 세트장 대기실, 지인들과 찻집에서 나누는 대화, 혹은 길을 걷다 스쳐 지나가는 풍경 등 일상의 모든 찰나에서 영감이 스칠 때마다 즉각 수첩을 펼쳐 적었습니다. 그의 수첩에는 근력 강화 훈련의 구체적인 세트 수부터, 인간 존재와 자아 성찰에 관한 심오한 철학적 메모들이 깨알 같은 영어와 한자로 뺵뺵히 빼곡히 기록되어 있었습니다. 이 메모들은 그의 삶을 흔들림 없이 가이드하는 확고한 닻이었습니다.\n\n오늘 BuildSelf에서는 이소룡이 평생 실천했던 즉각적인 포켓 메모 습관의 뇌과학적 원리를 분석하고, 현대인이 일상의 번뜩이는 생각들을 성장의 원동력으로 축적할 수 있는 메모 루틴을 제안합니다.",
-      "en": "Bruce Lee, the immortal icon of martial arts who combined Jeet Kune Do and existential philosophy. His fluid movements and deep philosophical remarks were not simple improvisations, but the accumulation of meticulously recorded ideas. 📓\n\nBruce Lee always carried a small, palm-sized black leather notebook and a pen in a pocket. Whether reading books, waiting in a movie set, having tea with friends, or walking the streets, he immediately opened his notebook whenever an inspiration crossed his mind. His notebook was packed with detailed gym workout logs, dietary calculations, and deep philosophical reflections. These notes served as a firm anchor that guided his life without wavering.\n\nToday, BuildSelf analyzes the cognitive science behind Bruce Lee's pocket memo habit and proposes a practical routine for modern people to accumulate fleeting ideas into fuel for growth.",
-      "ja": "ジークンドーと実存哲学を組み合わせた武術の不滅のアイコン、ブルース・リー。彼の流れるような動きと深い哲学的な発言は単なる即興演奏ではなく、緻密に記録されたアイデアの積み重ねでした。 📓\n\nブルース・リーはいつも手のひらサイズの小さな黒い革製のノートとペンをポケットに入れて持ち歩いていました。本を読んでいるときも、映画セットで待っているときも、友達とお茶をしているときも、街を歩いているときも、インスピレーションが頭をよぎるたびに、彼はすぐにノートを開いた。彼のノートには、ジムでのトレーニングの詳細な記録、食事の計算、そして深い哲学的考察が詰まっていました。これらのメモは、彼の人生を揺るぎなく導く確かなアンカーとして機能しました。\n\n今日、BuildSelf は、ブルース リーのポケットメモ習慣の背後にある認知科学を分析し、現代人がつかの間のアイデアを成長の燃料として蓄積するための実践的なルーチンを提案します。",
-      "zh": "在这一历史性惯例的实践中： , , (Jeet Kune Do) , (). . 📓 在这一历史性惯例的实践中： . , , , . , . . 在这一历史性惯例的实践中： BuildSelf , .",
-      "es": "Bruce Lee, el ícono inmortal de las artes marciales que combinó el Jeet Kune Do y la filosofía existencial. Sus movimientos fluidos y sus profundos comentarios filosóficos no fueron simples improvisaciones, sino la acumulación de ideas meticulosamente registradas. 📓\n\nBruce Lee siempre llevaba una pequeña libreta de cuero negro del tamaño de la palma de la mano y un bolígrafo en un bolsillo. Ya sea leyendo libros, esperando en el set de una película, tomando té con amigos o caminando por las calles, inmediatamente abría su cuaderno cada vez que se le cruzaba una inspiración por la mente. Su cuaderno estaba repleto de registros detallados de ejercicios en el gimnasio, cálculos dietéticos y profundas reflexiones filosóficas. Estas notas sirvieron como un ancla firme que guió su vida sin vacilar.\n\nHoy, BuildSelf analiza la ciencia cognitiva detrás del hábito de las notas de bolsillo de Bruce Lee y propone una rutina práctica para que la gente moderna acumule ideas fugaces y las convierta en combustible para el crecimiento.",
-      "fr": "Bruce Lee, l'icône immortelle des arts martiaux qui combinait Jeet Kune Do et philosophie existentielle. Ses mouvements fluides et ses profondes remarques philosophiques n’étaient pas de simples improvisations, mais l’accumulation d’idées méticuleusement enregistrées. 📓\n\nBruce Lee portait toujours un petit carnet en cuir noir de la taille d'une paume et un stylo dans sa poche. Qu'il lise des livres, attende dans un décor de cinéma, prenne le thé avec des amis ou se promène dans les rues, il ouvre immédiatement son carnet chaque fois qu'une inspiration lui vient à l'esprit. Son cahier était rempli de journaux détaillés d’entraînement en salle de sport, de calculs alimentaires et de profondes réflexions philosophiques. Ces notes constituent un point d’ancrage solide qui guide sa vie sans vaciller.\n\nAujourd'hui, BuildSelf analyse la science cognitive derrière l'habitude des mémos de poche de Bruce Lee et propose une routine pratique permettant aux gens modernes d'accumuler des idées éphémères pour alimenter leur croissance.",
-      "de": "Bruce Lee, die unsterbliche Ikone der Kampfkünste, die Jeet Kune Do und existenzielle Philosophie vereinte. Seine fließenden Bewegungen und tiefgründigen philosophischen Bemerkungen waren keine einfachen Improvisationen, sondern die Ansammlung sorgfältig aufgezeichneter Ideen. 📓\n\nBruce Lee hatte immer ein kleines, handtellergroßes schwarzes Ledernotizbuch und einen Stift in der Tasche. Egal, ob er Bücher las, am Filmset wartete, mit Freunden Tee trank oder durch die Straßen spazierte, er öffnete sofort sein Notizbuch, wann immer ihm eine Inspiration in den Sinn kam. Sein Notizbuch war vollgepackt mit detaillierten Trainingsprotokollen im Fitnessstudio, Ernährungsberechnungen und tiefgründigen philosophischen Überlegungen. Diese Notizen dienten als fester Anker, der sein Leben ohne Schwanken leitete.\n\nHeute analysiert BuildSelf die kognitive Wissenschaft hinter Bruce Lees Pocket-Memo-Gewohnheit und schlägt eine praktische Routine für moderne Menschen vor, um flüchtige Ideen als Treibstoff für Wachstum zu sammeln.",
-      "pt": "Bruce Lee, o ícone imortal das artes marciais que combinou Jeet Kune Do e filosofia existencial. Os seus movimentos fluidos e as suas profundas observações filosóficas não eram simples improvisações, mas a acumulação de ideias meticulosamente registadas. 📓\n\nBruce Lee sempre carregava um pequeno caderno de couro preto do tamanho da palma da mão e uma caneta no bolso. Seja lendo livros, esperando no set de um filme, tomando chá com os amigos ou andando pelas ruas, ele imediatamente abria seu caderno sempre que uma inspiração lhe passava pela cabeça. Seu caderno estava repleto de registros detalhados de exercícios de ginástica, cálculos dietéticos e profundas reflexões filosóficas. Essas notas serviram como uma âncora firme que guiou sua vida sem vacilar.\n\nHoje, BuildSelf analisa a ciência cognitiva por trás do hábito de memorandos de bolso de Bruce Lee e propõe uma rotina prática para as pessoas modernas acumularem ideias fugazes como combustível para o crescimento.",
-      "id": "Bruce Lee, ikon seni bela diri abadi yang menggabungkan Jeet Kune Do dan filosofi eksistensial. Gerakannya yang mengalir dan pernyataan filosofisnya yang mendalam bukanlah improvisasi sederhana, melainkan akumulasi ide-ide yang dicatat dengan cermat. 📓\n\nBruce Lee selalu membawa buku catatan kulit hitam kecil seukuran telapak tangan dan pena di sakunya. Baik membaca buku, menunggu di lokasi syuting film, minum teh bersama teman, atau berjalan-jalan, dia langsung membuka buku catatannya setiap kali ada inspirasi terlintas di benaknya. Buku catatannya penuh dengan catatan latihan gym yang terperinci, perhitungan pola makan, dan refleksi filosofis yang mendalam. Catatan-catatan ini berfungsi sebagai jangkar kokoh yang membimbing hidupnya tanpa bimbang.\n\nSaat ini, BuildSelf menganalisis ilmu kognitif di balik kebiasaan memo saku Bruce Lee dan mengusulkan rutinitas praktis bagi orang-orang modern untuk mengumpulkan ide-ide singkat menjadi bahan bakar pertumbuhan."
+      "ko": "\"아는 것만으로는 충분하지 않다. 적용해야 한다. 하고자 하는 것만으로는 충분하지 않다. 행해야 한다.\" 🚶‍♂️\n\n강렬한 발차기와 괴성, 압도적인 피지컬로 전 세계 은막을 매료시킨 액션 스타이자, 절권도(Jeet Kune Do)라는 독창적 무예와 실존주의 동양 철학을 하나로 결합한 불멸의 아이콘, 브루스 리(이소룡). 그의 물 흐르는 듯한 유연한 무술 동작과 깊이 있는 인생 잠언들은 단순한 즉흥 연출이 아닌 철저히 기록되고 수집된 아이디어의 결정체였습니다. 📓\n\n브루스 리는 셔츠 주머니나 청바지 뒷주머니 등 손길이 닿는 곳에 항상 한 손 크기의 작은 검은색 가죽 수첩과 볼펜을 소지하고 다녔습니다. 책을 정독할 때는 물론, 영화 세트장 대기실, 지인들과 찻집에서 나누는 대화, 혹은 길을 걷다 스쳐 지나가는 풍경 등 일상의 모든 찰나에서 영감이 스칠 때마다 즉각 수첩을 펼쳐 적었습니다. 그의 수첩에는 근력 강화 훈련의 구체적인 세트 수부터, 인간 존재와 자아 성찰에 관한 심오한 철학적 메모들이 깨알 같은 영어와 한자로 뺵뺵히 빼곡히 기록되어 있었습니다. 이 메모들은 그의 삶을 흔들림 없이 가이드하는 확고한 닻이었습니다.\n\n오늘 포스트에서는 이소룡이 평생 실천했던 즉각적인 포켓 메모 습관의 뇌과학적 원리를 분석하고, 현대인이 일상의 번뜩이는 생각들을 성장의 원동력으로 축적할 수 있는 메모 루틴을 제안합니다."
     },
     "whyTitle": {
-      "ko": "망상활성계(RAS) 자극과 뇌의 정보 선택 처리",
-      "en": "Stimulating the Reticular Activating System (RAS) and Information Processing",
-      "ja": "網様体賦活系 (RAS) と情報処理の刺激",
-      "zh": "刺激网状激活系统 (RAS) 和信息处理",
-      "es": "Estimulación del Sistema Activador Reticular (RAS) y Procesamiento de Información",
-      "fr": "Stimulation du système d'activation réticulaire (RAS) et du traitement de l'information",
-      "de": "Stimulierung des retikulären Aktivierungssystems (RAS) und der Informationsverarbeitung",
-      "pt": "Estimulando o Sistema de Ativação Reticular (RAS) e Processamento de Informações",
-      "id": "Merangsang Reticular Activating System (RAS) dan Pemrosesan Informasi"
+      "ko": "망상활성계(RAS) 자극과 뇌의 정보 선택 처리"
     },
     "whyDesc": {
-      "ko": "인간의 뇌는 깨어 있는 동안 수백만 비트의 정보를 받아들이지만, 생존과 관심 있는 주제 외의 정보는 인지 필터를 통해 즉각 지워버립니다. \n\n이소룡처럼 영감을 즉시 수첩에 시각적으로 적는 행동은 뇌간 부위에 위치한 <strong>'망상활성계(RAS, Reticular Activating System)'</strong>를 강하게 자극합니다. RAS는 뇌가 중요하다고 판단하는 정보에 우선순위 등급을 매기는 필터 역할을 하는데, 생각을 기록함으로써 뇌에 \"이 생각은 중요하니 보존하고 이와 연관된 외부 자극을 계속 수집하라\"는 명령을 강하게 내립니다. 결과적으로 뇌는 일상 속에서 목표를 성취하는 데 필요한 다른 단서와 아이디어를 탐색하는 데 훨씬 예민해지고, 단기 기억의 휘발성을 완벽하게 보완합니다.",
-      "en": "The human brain receives millions of bits of information while awake, but deletes most of it immediately through cognitive filters unless it concerns survival or current interests.\n\nJotting down ideas immediately on a physical pad strongly stimulates the <strong>'reticular activating system (RAS)'</strong> located in the brainstem. The RAS acts as a filter that prioritizes information the brain deems important. By writing down thoughts, you tell your brain, \"This is important, so preserve it and gather related external inputs.\" As a result, the brain becomes highly sensitive to detecting clues and ideas needed to achieve goals in daily life, while resolving short-term memory memory leakage.",
-      "ja": "人間の脳は起きている間に何百万ビットもの情報を受け取りますが、生存や現在の興味に関係しない限り、そのほとんどは認知フィルターを通してすぐに削除されます。\n\nアイデアを物理的なパッドにすぐに書き留めると、 脳幹にある<strong>「網様体賦活系（RAS）」 が強く刺激</strong>されます。 RAS は、脳が重要だと考える情報を優先するフィルターとして機能します。考えを書き留めることで、「これは重要なので保存し、関連する外部入力を収集してください」と脳に伝えます。その結果、脳は短期記憶の記憶漏れを解決しながら、日常生活の目標を達成するために必要な手がかりやアイデアを検出することに非常に敏感になります。",
-      "zh": "人脑在清醒时接收数百万比特的信息，但会通过认知过滤器立即删除其中大部分信息，除非涉及生存或当前兴趣。\n\n立即在实体本上记下想法会强烈刺激位于脑干的<strong>“网状激活系统（RAS）”</strong>。 RAS 充当过滤器，优先处理大脑认为重要的信息。通过写下想法，你可以告诉你的大脑：“这很重要，所以保留它并收集相关的外部输入。”因此，大脑对检测实现日常生活目标所需的线索和想法变得高度敏感，同时解决短期记忆泄漏问题。",
-      "es": "El cerebro humano recibe millones de bits de información mientras está despierto, pero elimina la mayor parte inmediatamente a través de filtros cognitivos, a menos que se trate de supervivencia o intereses actuales.\n\nAnotar ideas inmediatamente en una libreta física estimula fuertemente el <strong>'sistema de activación reticular (RAS)</strong> ubicado en el tronco del encéfalo. El RAS actúa como un filtro que prioriza la información que el cerebro considera importante. Al escribir pensamientos, le dice a su cerebro: \"Esto es importante, así que consérvelo y recopile información externa relacionada\". Como resultado, el cerebro se vuelve muy sensible para detectar pistas e ideas necesarias para lograr objetivos en la vida diaria, mientras resuelve la pérdida de memoria a corto plazo.",
-      "fr": "Le cerveau humain reçoit des millions de bits d’informations lorsqu’il est éveillé, mais en supprime immédiatement la plupart grâce à des filtres cognitifs, sauf si cela concerne la survie ou les intérêts actuels.\n\nLe fait de noter immédiatement des idées sur un bloc-notes physique stimule fortement le <strong>'système d'activation réticulaire (RAS)'</strong> situé dans le tronc cérébral. Le RAS agit comme un filtre qui donne la priorité aux informations que le cerveau juge importantes. En écrivant vos pensées, vous dites à votre cerveau : « C'est important, alors préservez-le et rassemblez les informations externes associées. » En conséquence, le cerveau devient très sensible à la détection des indices et des idées nécessaires pour atteindre les objectifs de la vie quotidienne, tout en résolvant les fuites de mémoire à court terme.",
-      "de": "Das menschliche Gehirn empfängt im Wachzustand Millionen von Informationen, löscht die meisten davon jedoch sofort durch kognitive Filter, es sei denn, es geht um das Überleben oder aktuelle Interessen.\n\nDas sofortige Aufschreiben von Ideen auf einem physischen Block stimuliert das <strong>retikuläre Aktivierungssystem (RAS)</strong> im Hirnstamm stark. Das RAS fungiert als Filter, der Informationen priorisiert, die das Gehirn für wichtig hält. Indem Sie Gedanken aufschreiben, sagen Sie Ihrem Gehirn: „Das ist wichtig, also bewahren Sie es auf und sammeln Sie entsprechende externe Eingaben.“ Dadurch reagiert das Gehirn sehr empfindlich auf die Erkennung von Hinweisen und Ideen, die zum Erreichen von Zielen im täglichen Leben erforderlich sind, und behebt gleichzeitig den Verlust von Kurzzeitgedächtnissen.",
-      "pt": "O cérebro humano recebe milhões de informações enquanto está acordado, mas elimina a maior parte delas imediatamente através de filtros cognitivos, a menos que se trate de sobrevivência ou de interesses atuais.\n\nAnotar ideias imediatamente em um bloco físico estimula fortemente o <strong>'sistema de ativação reticular (RAS)'</strong> localizado no tronco cerebral. O RAS atua como um filtro que prioriza as informações que o cérebro considera importantes. Ao anotar os pensamentos, você diz ao seu cérebro: “Isso é importante, então preserve-o e reúna informações externas relacionadas”. Como resultado, o cérebro torna-se altamente sensível para detectar pistas e ideias necessárias para atingir objetivos na vida diária, ao mesmo tempo que resolve o vazamento de memória de curto prazo.",
-      "id": "Otak manusia menerima jutaan bit informasi saat terjaga, namun segera menghapus sebagian besar informasi tersebut melalui filter kognitif kecuali jika menyangkut kelangsungan hidup atau kepentingan saat ini.\n\nMencatat ide langsung di buku catatan fisik akan sangat merangsang <strong>'sistem pengaktif retikuler (RAS)'</strong> yang terletak di batang otak. RAS bertindak sebagai filter yang memprioritaskan informasi yang dianggap penting oleh otak. Dengan menuliskan pemikiran, Anda memberi tahu otak Anda, \"Ini penting, jadi pertahankan dan kumpulkan masukan eksternal terkait.\" Akibatnya, otak menjadi sangat sensitif dalam mendeteksi petunjuk dan ide yang diperlukan untuk mencapai tujuan dalam kehidupan sehari-hari, sekaligus mengatasi kebocoran memori memori jangka pendek."
+      "ko": "인간의 뇌는 깨어 있는 동안 수백만 비트의 정보를 받아들이지만, 생존과 관심 있는 주제 외의 정보는 인지 필터를 통해 즉각 지워버립니다. \n\n이소룡처럼 영감을 즉시 수첩에 시각적으로 적는 행동은 뇌간 부위에 위치한 <strong>'망상활성계(RAS, Reticular Activating System)'</strong>를 강하게 자극합니다. RAS는 뇌가 중요하다고 판단하는 정보에 우선순위 등급을 매기는 필터 역할을 하는데, 생각을 기록함으로써 뇌에 \"이 생각은 중요하니 보존하고 이와 연관된 외부 자극을 계속 수집하라\"는 명령을 강하게 내립니다. 결과적으로 뇌는 일상 속에서 목표를 성취하는 데 필요한 다른 단서와 아이디어를 탐색하는 데 훨씬 예민해지고, 단기 기억의 휘발성을 완벽하게 보완합니다."
     },
     "cautionTitle": {
-      "ko": "정돈된 구조보다 타이밍이 훨씬 중요합니다",
-      "en": "Timing is much more important than structured organization",
-      "ja": "構造化された組織よりもタイミングがはるかに重要です",
-      "zh": "时机比结构化组织更重要",
-      "es": "El tiempo es mucho más importante que la organización estructurada",
-      "fr": "Le timing est bien plus important qu’une organisation structurée",
-      "de": "Das Timing ist viel wichtiger als eine strukturierte Organisation",
-      "pt": "O tempo é muito mais importante do que a organização estruturada",
-      "id": "Pengaturan waktu jauh lebih penting daripada organisasi terstruktur"
+      "ko": "정돈된 구조보다 타이밍이 훨씬 중요합니다"
     },
     "cautionDesc": {
-      "ko": "아이디어 메모의 제1법칙은 영감이 떠오른 지 5초 이내에 펜을 대는 신속함입니다. 수첩에 예쁜 글씨로 단락을 나누어 예쁘게 적으려고 고민하지 마십시오. 날려 쓴 몇 단어, 미완성된 낙서 같은 문장이라도 생각의 불씨를 붙여 두는 것만으로도 나중에 큰 지식으로 연결됩니다.",
-      "en": "The first rule of idea capturing is speed—writing down within 5 seconds of the inspiration. Do not worry about beautiful handwriting or neat paragraphs. Even a few scribbled words or incomplete sentences will serve to capture the spark of thought, which can connect into grand ideas later.",
-      "ja": "アイデアを捉えるための第一のルールはスピードです。つまり、インスピレーションを受けてから 5 秒以内に書き留めることです。美しい手書き文字やきちんとした段落について心配する必要はありません。いくつかの走り書きの単語や不完全な文章であっても、思考のひらめきを捉えるのに役立ち、後で壮大なアイデアにつながる可能性があります。",
-      "zh": "捕捉想法的第一条规则是速度——在灵感产生后 5 秒内写下来。不要担心字迹漂亮或段落整齐。即使是一些潦草的单词或不完整的句子也能捕捉到思想的火花，这些火花可以在以后连接成宏伟的想法。",
-      "es": "La primera regla para capturar ideas es la velocidad: escribir dentro de los 5 segundos posteriores a la inspiración. No se preocupe por una letra hermosa o párrafos prolijos. Incluso unas pocas palabras garabateadas u oraciones incompletas servirán para capturar la chispa del pensamiento, que puede conectarse en grandes ideas más adelante.",
-      "fr": "La première règle de capture d’idées est la rapidité : écrire dans les 5 secondes suivant l’inspiration. Ne vous inquiétez pas d’une belle écriture ou de paragraphes soignés. Même quelques mots griffonnés ou des phrases incomplètes serviront à capturer l’étincelle de la pensée, qui pourra ensuite se transformer en grandes idées.",
-      "de": "Die erste Regel beim Erfassen von Ideen ist Geschwindigkeit: Schreiben Sie die Idee innerhalb von 5 Sekunden auf. Machen Sie sich keine Sorgen um eine schöne Handschrift oder saubere Absätze. Selbst ein paar gekritzelte Wörter oder unvollständige Sätze dienen dazu, den Gedankenfunken einzufangen, der später zu großartigen Ideen führen kann.",
-      "pt": "A primeira regra para capturar ideias é a velocidade: anotar dentro de 5 segundos após a inspiração. Não se preocupe com uma caligrafia bonita ou parágrafos organizados. Mesmo algumas palavras rabiscadas ou frases incompletas servirão para capturar a centelha do pensamento, que mais tarde poderá se conectar em grandes ideias.",
-      "id": "Aturan pertama dalam menangkap ide adalah kecepatan—menulis dalam waktu 5 detik setelah inspirasi. Jangan khawatir tentang tulisan tangan yang indah atau paragraf yang rapi. Bahkan beberapa kata yang dicoret-coret atau kalimat yang tidak lengkap akan berfungsi untuk menangkap percikan pemikiran, yang nantinya dapat dihubungkan menjadi ide-ide besar."
+      "ko": "아이디어 메모의 제1법칙은 영감이 떠오른 지 5초 이내에 펜을 대는 신속함입니다. 수첩에 예쁜 글씨로 단락을 나누어 예쁘게 적으려고 고민하지 마십시오. 날려 쓴 몇 단어, 미완성된 낙서 같은 문장이라도 생각의 불씨를 붙여 두는 것만으로도 나중에 큰 지식으로 연결됩니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "포켓형 물리적/디지털 메모 도구의 상시 휴대",
-          "en": "Always Carrying a Pocket Memo Tool",
-          "ja": "ポケットメモツールを常に持ち歩く",
-          "zh": "始终携带袖珍备忘录工具",
-          "es": "Llevando siempre una herramienta de notas de bolsillo",
-          "fr": "Toujours avoir sur soi un outil de mémo de poche",
-          "de": "Tragen Sie immer ein Pocket-Memo-Tool bei sich",
-          "pt": "Sempre carregando uma ferramenta Pocket Memo",
-          "id": "Selalu Membawa Alat Memo Saku"
+          "ko": "포켓형 물리적/디지털 메모 도구의 상시 휴대"
         },
         "text": {
-          "ko": "바지나 가방 안주머니 등 언제든 손가락을 뻗으면 바로 1초 만에 닿을 수 있는 공간에 손바닥 크기의 소형 수첩과 작은 미니 펜을 휴대합니다. 스마트폰을 쓰는 경우, 홈 화면에 원터치 메모 위젯을 설치합니다.",
-          "en": "Keep a palm-sized notebook and a small pen in a space where you can reach it within a second, such as a pocket. If you prefer smartphones, install a one-touch memo widget on your home screen.",
-          "ja": "手のひらサイズのノートと小さなペンを、ポケットなどすぐに手が届く場所に置いておきましょう。スマートフォンの場合は、ホーム画面にワンタッチメモウィジェットをインストールしてください。",
-          "zh": "将手掌大小的笔记本和小笔放在您可以在一秒钟内拿到的地方，例如口袋。如果您更喜欢智能手机，请在主屏幕上安装一键式备忘录小部件。",
-          "es": "Mantenga una libreta del tamaño de la palma de la mano y un bolígrafo pequeño en un espacio al que pueda acceder en un segundo, como un bolsillo. Si prefiere los teléfonos inteligentes, instale un widget de notas de un toque en su pantalla de inicio.",
-          "fr": "Conservez un cahier de la taille d'une paume et un petit stylo dans un espace où vous pouvez l'atteindre en une seconde, comme une poche. Si vous préférez les smartphones, installez un widget mémo à une touche sur votre écran d'accueil.",
-          "de": "Bewahren Sie ein handtellergroßes Notizbuch und einen kleinen Stift an einem Ort auf, an dem Sie ihn innerhalb einer Sekunde erreichen können, beispielsweise in einer Tasche. Wenn Sie Smartphones bevorzugen, installieren Sie ein One-Touch-Memo-Widget auf Ihrem Startbildschirm.",
-          "pt": "Mantenha um caderno do tamanho da palma da mão e uma caneta pequena em um espaço onde você possa alcançá-lo em um segundo, como um bolso. Se você preferir smartphones, instale um widget de notas de um toque na tela inicial.",
-          "id": "Simpan buku catatan seukuran telapak tangan dan pena kecil di tempat yang mudah dijangkau dalam hitungan detik, misalnya di saku. Jika Anda lebih suka ponsel cerdas, pasang widget memo sekali sentuh di layar beranda Anda."
+          "ko": "바지나 가방 안주머니 등 언제든 손가락을 뻗으면 바로 1초 만에 닿을 수 있는 공간에 손바닥 크기의 소형 수첩과 작은 미니 펜을 휴대합니다. 스마트폰을 쓰는 경우, 홈 화면에 원터치 메모 위젯을 설치합니다."
         }
       },
       {
         "name": {
-          "ko": "스쳐가는 화두와 인상적 구절 즉시 포획",
-          "en": "Instantly Capturing Fleeting Thoughts",
-          "ja": "一瞬の思いを瞬時に捉える",
-          "zh": "立即捕捉稍纵即逝的想法",
-          "es": "Capturando instantáneamente pensamientos fugaces",
-          "fr": "Capturer instantanément des pensées éphémères",
-          "de": "Flüchtige Gedanken sofort einfangen",
-          "pt": "Capturando instantaneamente pensamentos fugazes",
-          "id": "Menangkap Pikiran Sekilas Secara Instan"
+          "ko": "스쳐가는 화두와 인상적 구절 즉시 포획"
         },
         "text": {
-          "ko": "책을 읽거나 길을 걷거나 기획을 생각하다가 마음속에 노크하는 기발한 단어나 문장, 훈련 목표를 발견하면 그 자리에서 즉시 수첩을 꺼내 몇 글자의 키워드로 단번에 적습니다.",
-          "en": "If a creative word, sentence, or workout target knocks on your mind while reading, walking, or brainstorming, pull out the notepad immediately and write down key words.",
-          "ja": "読書中、散歩中、またはブレインストーミング中に創造的な単語、文章、またはワークアウトの目標が頭に浮かんだ場合は、すぐにメモ帳を取り出してキーワードを書き留めてください。",
-          "zh": "如果在阅读、散步或集思广益时想到一个有创意的单词、句子或锻炼目标，请立即拿出记事本并写下关键词。",
-          "es": "Si una palabra, oración o objetivo de entrenamiento creativo le viene a la mente mientras lee, camina o hace una lluvia de ideas, saque el bloc de notas inmediatamente y escriba las palabras clave.",
-          "fr": "Si un mot créatif, une phrase ou un objectif d'entraînement vous vient à l'esprit pendant que vous lisez, marchez ou faites un brainstorming, sortez immédiatement le bloc-notes et notez les mots clés.",
-          "de": "Wenn Ihnen beim Lesen, Gehen oder Brainstorming ein kreatives Wort, ein kreativer Satz oder ein kreatives Trainingsziel in den Sinn kommt, holen Sie sofort den Notizblock heraus und schreiben Sie Schlüsselwörter auf.",
-          "pt": "Se uma palavra, frase ou objetivo de treino criativo surgir em sua mente durante a leitura, caminhada ou brainstorming, retire o bloco de notas imediatamente e anote as palavras-chave.",
-          "id": "Jika kata, kalimat, atau target latihan yang kreatif terlintas di benak Anda saat membaca, berjalan, atau bertukar pikiran, segera keluarkan buku catatan dan tuliskan kata kuncinya."
+          "ko": "책을 읽거나 길을 걷거나 기획을 생각하다가 마음속에 노크하는 기발한 단어나 문장, 훈련 목표를 발견하면 그 자리에서 즉시 수첩을 꺼내 몇 글자의 키워드로 단번에 적습니다."
         }
       },
       {
         "name": {
-          "ko": "하루 끝 메모 복기와 실행 구체화",
-          "en": "Daily Review of Notes & Action Execution",
-          "ja": "メモとアクションの実行を毎日レビューする",
-          "zh": "每日审查笔记和行动执行情况",
-          "es": "Revisión diaria de notas y ejecución de acciones",
-          "fr": "Examen quotidien des notes et de l'exécution des actions",
-          "de": "Tägliche Überprüfung der Notizen und der Aktionsausführung",
-          "pt": "Revisão diária de notas e execução de ações",
-          "id": "Review Harian Catatan & Eksekusi Tindakan"
+          "ko": "하루 끝 메모 복기와 실행 구체화"
         },
         "text": {
-          "ko": "매일 저녁이나 다음 날 아침 일과 시작 전, 수첩을 다시 펼치고 전날 낙서처럼 적혀 있던 아이디어들을 보며 업무에 녹이거나 자기계발 액션 플랜으로 옮길 방법을 1가지 지정하여 실천합니다.",
-          "en": "Every evening or the next morning before starting work, open the notebook, review the scribbled ideas from the previous day, and specify one concrete way to apply them to your work or habits.",
-          "ja": "毎晩または翌朝、仕事を始める前にノートを開いて、前日の走り書きのアイデアを確認し、それを仕事や習慣に適用するための具体的な方法を 1 つ指定します。",
-          "zh": "每天晚上或第二天早上开始工作前，打开笔记本，回顾前一天潦草地写下的想法，并指定一种具体方法将它们应用到你的工作或习惯中。",
-          "es": "Todas las tardes o la mañana siguiente, antes de empezar a trabajar, abre el cuaderno, revisa las ideas garabateadas el día anterior y especifica una forma concreta de aplicarlas a tu trabajo o hábitos.",
-          "fr": "Chaque soir ou le lendemain matin avant de commencer à travailler, ouvrez le cahier, revoyez les idées griffonnées de la veille et précisez une manière concrète de les appliquer à votre travail ou à vos habitudes.",
-          "de": "Schlagen Sie jeden Abend oder am nächsten Morgen vor Arbeitsbeginn das Notizbuch auf, gehen Sie die gekritzelten Ideen vom Vortag noch einmal durch und geben Sie eine konkrete Möglichkeit an, diese auf Ihre Arbeit oder Ihre Gewohnheiten anzuwenden.",
-          "pt": "Todas as noites ou na manhã seguinte, antes de começar o trabalho, abra o caderno, revise as ideias rabiscadas do dia anterior e especifique uma forma concreta de aplicá-las ao seu trabalho ou hábitos.",
-          "id": "Setiap malam atau keesokan paginya sebelum mulai bekerja, bukalah buku catatan, tinjaulah ide-ide yang ditulis dari hari sebelumnya, dan tentukan satu cara konkrit untuk menerapkannya pada pekerjaan atau kebiasaan Anda."
+          "ko": "매일 저녁이나 다음 날 아침 일과 시작 전, 수첩을 다시 펼치고 전날 낙서처럼 적혀 있던 아이디어들을 보며 업무에 녹이거나 자기계발 액션 플랜으로 옮길 방법을 1가지 지정하여 실천합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "수첩 대신 스마트폰 녹음 기능으로 아이디어를 녹음해도 될까요?",
-          "en": "Can I record ideas using a smartphone voice memo instead of writing?",
-          "ja": "メモの代わりにスマートフォンのボイスメモを使ってアイデアを記録できますか?",
-          "zh": "我可以使用智能手机语音备忘录代替书写来记录想法吗？",
-          "es": "¿Puedo grabar ideas usando una nota de voz de un teléfono inteligente en lugar de escribir?",
-          "fr": "Puis-je enregistrer des idées à l’aide d’un mémo vocal sur smartphone au lieu d’écrire ?",
-          "de": "Kann ich Ideen mit einer Smartphone-Sprachnotiz aufzeichnen, anstatt sie zu schreiben?",
-          "pt": "Posso gravar ideias usando um memorando de voz do smartphone em vez de escrever?",
-          "id": "Bisakah saya merekam ide menggunakan memo suara ponsel cerdas alih-alih menulis?"
+          "ko": "수첩 대신 스마트폰 녹음 기능으로 아이디어를 녹음해도 될까요?"
         },
         "answer": {
-          "ko": "네, 좋은 대안입니다. 목소리로 녹음하는 것 역시 작업 기억을 빠르게 밖으로 끄집어내는 유용한 방법입니다. 다만, 나중에 다시 읽고 뇌에 시각화해 구조화하기 위해서는 텍스트로 보존되는 포맷이 유리하므로 음성 기록을 정기적으로 텍스트화해 주는 것이 좋습니다.",
-          "en": "Yes, that is a great alternative. Recording your voice is a useful way to quickly extract working memory. However, to review and visually organize ideas later, keeping them in text format is better, so it is recommended to transcribe voice memos regularly.",
-          "ja": "はい、それは素晴らしい代替案です。自分の声を録音すると、作業記憶をすばやく抽出できる便利な方法です。ただし、後でアイデアを確認して視覚的に整理するには、アイデアをテキスト形式で保存しておく方が良いため、定期的にボイスメモを書き写すことをお勧めします。",
-          "zh": "是的，这是一个很好的选择。录制你的声音是快速提取工作记忆的有用方法。然而，为了以后回顾和直观地组织想法，以文本格式保存它们会更好，因此建议定期转录语音备忘录。",
-          "es": "Sí, esa es una gran alternativa. Grabar su voz es una forma útil de extraer rápidamente la memoria de trabajo. Sin embargo, para revisar y organizar visualmente las ideas más adelante, es mejor mantenerlas en formato de texto, por lo que se recomienda transcribir notas de voz con regularidad.",
-          "fr": "Oui, c'est une excellente alternative. L'enregistrement de votre voix est un moyen utile d'extraire rapidement la mémoire de travail. Cependant, pour réviser et organiser visuellement les idées plus tard, il est préférable de les conserver au format texte, il est donc recommandé de transcrire régulièrement les mémos vocaux.",
-          "de": "Ja, das ist eine tolle Alternative. Das Aufzeichnen Ihrer Stimme ist eine nützliche Möglichkeit, schnell Arbeitsspeicher zu extrahieren. Um Ideen jedoch später noch einmal zu überprüfen und visuell zu ordnen, ist es besser, sie im Textformat aufzubewahren. Daher wird empfohlen, Sprachnotizen regelmäßig zu transkribieren.",
-          "pt": "Sim, essa é uma ótima alternativa. Gravar sua voz é uma forma útil de extrair rapidamente a memória de trabalho. Porém, para revisar e organizar visualmente as ideias posteriormente, é melhor mantê-las em formato de texto, por isso é recomendável transcrever memorandos de voz regularmente.",
-          "id": "Ya, itu adalah alternatif yang bagus. Merekam suara Anda adalah cara yang berguna untuk mengekstrak memori kerja dengan cepat. Namun, untuk meninjau dan mengatur ide secara visual nanti, lebih baik menyimpannya dalam format teks, jadi disarankan untuk menyalin memo suara secara teratur."
+          "ko": "네, 좋은 대안입니다. 목소리로 녹음하는 것 역시 작업 기억을 빠르게 밖으로 끄집어내는 유용한 방법입니다. 다만, 나중에 다시 읽고 뇌에 시각화해 구조화하기 위해서는 텍스트로 보존되는 포맷이 유리하므로 음성 기록을 정기적으로 텍스트화해 주는 것이 좋습니다."
         }
       },
       {
         "question": {
-          "ko": "메모를 적어놓고 나중에 다시 읽어보지 않게 되는데 방법이 없을까요?",
-          "en": "I write notes but forget to review them later. What should I do?",
-          "ja": "メモを書きますが、後で見直すのを忘れてしまいます。どうすればいいですか？",
-          "zh": "我写笔记，但后来忘记复习。我应该怎么办？",
-          "es": "Escribo notas pero me olvido de revisarlas más tarde. ¿Qué tengo que hacer?",
-          "fr": "J'écris des notes mais j'oublie de les réviser plus tard. Que dois-je faire?",
-          "de": "Ich schreibe Notizen, vergesse aber, sie später noch einmal durchzugehen. Was soll ich tun?",
-          "pt": "Escrevo notas, mas esqueço de revisá-las mais tarde. O que devo fazer?",
-          "id": "Saya menulis catatan tetapi lupa meninjaunya nanti. Apa yang harus saya lakukan?"
+          "ko": "메모를 적어놓고 나중에 다시 읽어보지 않게 되는데 방법이 없을까요?"
         },
         "answer": {
-          "ko": "메모의 가치는 기록한 사실 자체보다 '다시 읽고 행동에 결합할 때' 극대화됩니다. 매일 아침 양치질 전이나 퇴근 전 스마트폰 알림을 맞춰두고, 단 1분간 어제 쓴 수첩 페이지를 기계적으로 읽는 리마인드 루틴을 캘린더나 트리거 행동과 연결해 보세요.",
-          "en": "The value of notes is maximized when you review and connect them to action. Link a 1-minute mechanical review of yesterday's notes with a calendar alert or an existing trigger behavior, such as brushing teeth or leaving the office.",
-          "ja": "メモの価値は、それを見直して行動に結びつけることで最大化されます。昨日のメモを 1 分間機械的にレビューすることを、カレンダー アラートや、歯磨きや退社などの既存のトリガー行動とリンクさせます。",
-          "zh": "当你回顾笔记并将其与行动联系起来时，笔记的价值就会最大化。将昨天笔记的 1 分钟机械回顾与日历提醒或现有触发行为（例如刷牙或离开办公室）联系起来。",
-          "es": "El valor de las notas se maximiza cuando las revisa y las conecta con la acción. Vincula una revisión mecánica de 1 minuto de las notas de ayer con una alerta del calendario o un comportamiento desencadenante existente, como cepillarse los dientes o salir de la oficina.",
-          "fr": "La valeur des notes est maximisée lorsque vous les examinez et les connectez à l’action. Associez une révision mécanique d'une minute des notes de la veille à une alerte de calendrier ou à un comportement déclencheur existant, comme se brosser les dents ou quitter le bureau.",
-          "de": "Der Wert von Notizen wird maximiert, wenn Sie sie überprüfen und mit Aktionen verknüpfen. Verknüpfen Sie eine einminütige mechanische Überprüfung der gestrigen Notizen mit einer Kalenderbenachrichtigung oder einem vorhandenen Auslöserverhalten, wie z. B. Zähneputzen oder Verlassen des Büros.",
-          "pt": "O valor das notas é maximizado quando você as revisa e as conecta à ação. Vincule uma revisão mecânica de 1 minuto das anotações de ontem a um alerta de calendário ou a um comportamento desencadeador existente, como escovar os dentes ou sair do escritório.",
-          "id": "Nilai catatan menjadi maksimal ketika Anda meninjau dan menghubungkannya dengan tindakan. Hubungkan tinjauan mekanis 1 menit atas catatan kemarin dengan peringatan kalender atau perilaku pemicu yang ada, seperti menyikat gigi atau meninggalkan kantor."
+          "ko": "메모의 가치는 기록한 사실 자체보다 '다시 읽고 행동에 결합할 때' 극대화됩니다. 매일 아침 양치질 전이나 퇴근 전 스마트폰 알림을 맞춰두고, 단 1분간 어제 쓴 수첩 페이지를 기계적으로 읽는 리마인드 루틴을 캘린더나 트리거 행동과 연결해 보세요."
         }
       }
-    ],
-    "stepImages": [
-      "",
-      "",
-      ""
-    ],
-    "pubDate": "2026-04-06",
-    "updatedDate": "2026-04-06"
+    ]
   }
 }

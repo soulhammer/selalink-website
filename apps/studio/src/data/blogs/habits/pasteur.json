@@ -1,218 +1,72 @@
 {
   "pasteur": {
     "title": {
-      "en": "Pasteur’s feedback loop that tracks microscopic changes in flask cultures in real time",
-      "ko": "플라스크 배양액의 미세 변화를 실시간으로 추적한 파스퇴르의 피드백 루프",
-      "ja": "フラスコ培養における微細な変化をリアルタイムで追跡するパスツールのフィードバック ループ",
-      "zh": "巴斯德的反馈回路实时跟踪烧瓶培养物的微观变化",
-      "es": "Circuito de retroalimentación de Pasteur que rastrea cambios microscópicos en cultivos de matraces en tiempo real",
-      "fr": "La boucle de rétroaction de Pasteur qui suit les changements microscopiques dans les cultures en flacons en temps réel",
-      "de": "Pasteurs Rückkopplungsschleife, die mikroskopische Veränderungen in Flaschenkulturen in Echtzeit verfolgt",
-      "pt": "O ciclo de feedback de Pasteur que rastreia mudanças microscópicas em culturas em frascos em tempo real",
-      "id": "Putaran umpan balik Pasteur yang melacak perubahan mikroskopis dalam kultur labu secara real time"
+      "ko": "플라스크 배양액의 미세 변화를 실시간으로 추적한 파스퇴르의 피드백 루프"
     },
     "description": {
-      "en": "The French microbiologist who became the father of vaccine development and low-temperature sterilization maintained a perfect physical desk arrangement that did not allow even 1% of microscopic noise to distract attention during the experiment.",
-      "ko": "백신 개발과 저온 살균법의 아버지가 된 프랑스의 미생물학자로, 실험 도중 주의력을 분산하는 단 1%의 미세 노이즈조차 허용하지 않는 완벽한 물리적 책상 정돈을 고수했습니다.",
-      "ja": "ワクチン開発と低温滅菌の父となったフランスの微生物学者は、実験中に微視的な騒音が 1% でも注意をそらすことのない完璧な物理的な机の配置を維持しました。",
-      "zh": "这位成为疫苗研制和低温灭菌之父的法国微生物学家在实验过程中保持着完美的物理办公桌布置，不允许哪怕是1%的微观噪音分散注意力。",
-      "es": "El microbiólogo francés que se convirtió en el padre del desarrollo de vacunas y de la esterilización a baja temperatura mantuvo una disposición física perfecta del escritorio que no permitía que ni siquiera el 1% de ruido microscópico distrajera la atención durante el experimento.",
-      "fr": "Le microbiologiste français qui est devenu le père du développement de vaccins et de la stérilisation à basse température a maintenu un agencement physique parfait du bureau qui ne permettait même pas à 1 % de bruit microscopique de détourner l'attention pendant l'expérience.",
-      "de": "Der französische Mikrobiologe, der Vater der Impfstoffentwicklung und der Niedertemperatursterilisation wurde, behielt eine perfekte physische Schreibtischanordnung bei, die nicht zuließ, dass auch nur 1 % mikroskopischer Geräusche die Aufmerksamkeit während des Experiments ablenkten.",
-      "pt": "O microbiologista francês que se tornou o pai do desenvolvimento de vacinas e da esterilização a baixa temperatura manteve uma disposição física perfeita da mesa que não permitiu nem mesmo 1% do ruído microscópico distrair a atenção durante o experimento.",
-      "id": "Ahli mikrobiologi Perancis yang menjadi bapak pengembangan vaksin dan sterilisasi suhu rendah mempertahankan pengaturan meja fisik yang sempurna yang tidak memungkinkan bahkan 1% kebisingan mikroskopis mengalihkan perhatian selama percobaan."
+      "ko": "백신 개발과 저온 살균법의 아버지가 된 프랑스의 미생물학자로, 실험 도중 주의력을 분산하는 단 1%의 미세 노이즈조차 허용하지 않는 완벽한 물리적 책상 정돈을 고수했습니다."
     },
     "authority": {
-      "en": "Gerald L. Geison, *The Private Science of Louis Pasteur* (1995) & Cognitive Neuroscientific Studies",
-      "ko": "Gerald L. Geison, *The Private Science of Louis Pasteur* (1995)",
-      "ja": "ジェラルド L. ゲイソン、*ルイ パスツールのプライベート サイエンス* (1995) および認知神経科学研究",
-      "zh": "Gerald L. Geison，*路易斯·巴斯德的私人科学* (1995) 和认知神经科学研究",
-      "es": "Gerald L. Geison, *La ciencia privada de Louis Pasteur* (1995) y estudios neurocientíficos cognitivos",
-      "fr": "Gerald L. Geison, *La science privée de Louis Pasteur* (1995) & Cognitive Neuroscientific Studies",
-      "de": "Gerald L. Geison, *The Private Science of Louis Pasteur* (1995) & Cognitive Neuroscientific Studies",
-      "pt": "Gerald L. Geison, *The Private Science of Louis Pasteur* (1995) & Cognitive Neuroscientific Studies",
-      "id": "Gerald L. Geison, *The Private Science of Louis Pasteur* (1995) & Cognitive Neuroscientific Studies"
+      "ko": "Pasteur 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "en": "Louis Pasteur, an absolute pioneer of modern medicine and microbiology and a French genius chemist who pioneered vaccines, saved humanity from the fear of infectious diseases by inventing pasteurization and anthrax/rabies vaccines. He sat at his lab desk and stared motionless for hours at a flask of culture under a microscope magnifying glass. He meticulously drew and recorded the minute shaking traces left behind by microorganisms as they proliferate in his notebook. His disinfection method and vaccine discovery were born from this observational feedback routine while staring at the flask.\n\nToday on BuildSelf, we introduce the cognitive scientific principles of the habit of ‘observing the shaking of microorganisms in flask cultures placed under a microscope’ and a 3-step guide that modern people can easily practice in their daily lives.",
-      "ko": "근대 의학과 미생물학의 절대적인 개척자이자 백신의 시초를 연 프랑스의 천재 화학자로, 저온 살균법(Pasteurization)과 탄저병/광견병 백신을 발명하여 인류를 감염병의 공포로부터 구원해 낸 루이 파스퇴르. 그는 실험실 책상에 앉아 현미경 돋보기 아래에 놓인 플라스크 배양액을 몇 시간 동안 미동도 없이 응시했습니다. 그는 미생물이 증식하며 남기는 미세한 흔들림 궤적을 1분 단위로 꼼꼼히 노트에 그리며 기록했습니다. 그의 소독법과 백신 발견은 이렇게 플라스크를 응시하며 관찰한 피드백 루틴에서 탄생했습니다.\n\n오늘 BuildSelf에서는 그가 고수한 '현미경 아래 놓인 플라스크 배양액의 미생물 흔들림 관찰하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다.",
-      "ja": "この歴史的習慣の実践において： , (Pasteurization) / . . 1 . . この歴史的習慣の実践において： BuildSelf ' ' 3 .",
-      "zh": "在这一历史性惯例的实践中： , (Pasteurization) / . . 1 . . 在这一历史性惯例的实践中： BuildSelf ' ' 3 .",
-      "es": "Louis Pasteur, un pionero absoluto de la medicina y la microbiología modernas y un genio químico francés que fue pionero en las vacunas, salvó a la humanidad del miedo a las enfermedades infecciosas al inventar la pasteurización y las vacunas contra el ántrax y la rabia. Se sentó en el escritorio de su laboratorio y miró inmóvil durante horas un matraz de cultivo bajo la lupa de un microscopio. Dibujó y registró meticulosamente en su cuaderno las diminutas huellas de temblor que dejan los microorganismos a medida que proliferan. Su método de desinfección y descubrimiento de la vacuna nacieron de esta rutina de retroalimentación observacional mientras miraba el matraz.\n\nHoy en BuildSelf, presentamos los principios científicos cognitivos del hábito de \"observar la agitación de microorganismos en cultivos en matraces colocados bajo un microscopio\" y una guía de 3 pasos que la gente moderna puede practicar fácilmente en su vida diaria.",
-      "fr": "Louis Pasteur, pionnier absolu de la médecine et de la microbiologie modernes et chimiste de génie français pionnier des vaccins, a sauvé l'humanité de la peur des maladies infectieuses en inventant la pasteurisation et les vaccins contre le charbon et la rage. Il était assis à son bureau de laboratoire et regardait immobile pendant des heures un flacon de culture sous une loupe de microscope. Il a méticuleusement dessiné et enregistré dans son carnet les minuscules traces de secousses laissées par les micro-organismes lors de leur prolifération. Sa méthode de désinfection et sa découverte de vaccins sont nées de cette routine d’observation en regardant le flacon.\n\nAujourd'hui, sur BuildSelf, nous présentons les principes scientifiques cognitifs de l'habitude d'« observer l'agitation des micro-organismes dans des cultures en flacons placées au microscope » et un guide en 3 étapes que les gens modernes peuvent facilement mettre en pratique dans leur vie quotidienne.",
-      "de": "Louis Pasteur, ein absoluter Pionier der modernen Medizin und Mikrobiologie und ein genialer französischer Chemiker, der Pionierarbeit bei Impfstoffen leistete, rettete die Menschheit vor der Angst vor Infektionskrankheiten, indem er Pasteurisierung und Milzbrand-/Tollwutimpfstoffe erfand. Er saß an seinem Labortisch und starrte stundenlang regungslos auf ein Kulturgefäß unter der Lupe eines Mikroskops. Er zeichnete und notierte akribisch die winzigen Schüttelspuren, die Mikroorganismen bei ihrer Vermehrung in seinem Notizbuch hinterlassen. Seine Desinfektionsmethode und die Entdeckung des Impfstoffs entstanden aus dieser Beobachtungs-Feedback-Routine, während er auf die Flasche starrte.\n\nHeute stellen wir auf BuildSelf die kognitionswissenschaftlichen Prinzipien der Gewohnheit vor, „das Schütteln von Mikroorganismen in Kolbenkulturen unter einem Mikroskop zu beobachten“ und eine dreistufige Anleitung, die moderne Menschen leicht in ihrem täglichen Leben anwenden können.",
-      "pt": "Louis Pasteur, um pioneiro absoluto da medicina moderna e da microbiologia e um químico francês genial que foi pioneiro nas vacinas, salvou a humanidade do medo das doenças infecciosas ao inventar a pasteurização e as vacinas contra o antraz/raiva. Ele sentou-se à mesa do laboratório e ficou olhando imóvel por horas para um frasco de cultura sob a lupa de um microscópio. Ele desenhou meticulosamente e registrou em seu caderno os minúsculos traços trêmulos deixados pelos microorganismos à medida que proliferavam. Seu método de desinfecção e descoberta da vacina nasceram dessa rotina de feedback observacional enquanto olhava para o frasco.\n\nHoje, no BuildSelf, apresentamos os princípios científicos cognitivos do hábito de “observar a agitação de microrganismos em culturas em frascos colocados sob um microscópio” e um guia de 3 etapas que as pessoas modernas podem praticar facilmente em suas vidas diárias.",
-      "id": "Louis Pasteur, seorang pionir kedokteran modern dan mikrobiologi dan seorang ahli kimia jenius Perancis yang memelopori vaksin, menyelamatkan umat manusia dari ketakutan akan penyakit menular dengan menciptakan pasteurisasi dan vaksin antraks/rabies. Dia duduk di meja labnya dan menatap tanpa bergerak selama berjam-jam pada botol kultur di bawah kaca pembesar mikroskop. Dia dengan cermat menggambar dan mencatat jejak-jejak gemetar yang ditinggalkan oleh mikroorganisme saat mereka berkembang biak di buku catatannya. Metode desinfeksi dan penemuan vaksinnya lahir dari pengamatan rutin sambil menatap botol tersebut.\n\nHari ini di BuildSelf, kami memperkenalkan prinsip ilmiah kognitif tentang kebiasaan 'mengamati pengocokan mikroorganisme dalam kultur labu yang ditempatkan di bawah mikroskop' dan panduan 3 langkah yang dapat dengan mudah dipraktikkan oleh orang modern dalam kehidupan sehari-hari."
+      "ko": "근대 의학과 미생물학의 절대적인 개척자이자 백신의 시초를 연 프랑스의 천재 화학자로, 저온 살균법(Pasteurization)과 탄저병/광견병 백신을 발명하여 인류를 감염병의 공포로부터 구원해 낸 루이 파스퇴르. 그는 실험실 책상에 앉아 현미경 돋보기 아래에 놓인 플라스크 배양액을 몇 시간 동안 미동도 없이 응시했습니다. 그는 미생물이 증식하며 남기는 미세한 흔들림 궤적을 1분 단위로 꼼꼼히 노트에 그리며 기록했습니다. 그의 소독법과 백신 발견은 이렇게 플라스크를 응시하며 관찰한 피드백 루틴에서 탄생했습니다.\n\n오늘 포스트에서는 그가 고수한 '현미경 아래 놓인 플라스크 배양액의 미생물 흔들림 관찰하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다."
     },
     "whyTitle": {
-      "en": "Analysis of brain science principles that lead to success",
-      "ko": "성공을 자아내는 脳科学的 원리 분석",
-      "ja": "成功に導く脳科学原理の分析",
-      "zh": "分析导致成功的脑科学原理",
-      "es": "Análisis de los principios de las ciencias del cerebro que conducen al éxito.",
-      "fr": "Analyse des principes de la science du cerveau qui mènent au succès",
-      "de": "Analyse gehirnwissenschaftlicher Prinzipien, die zum Erfolg führen.",
-      "pt": "Análise dos princípios da ciência do cérebro que levam ao sucesso",
-      "id": "Analisis prinsip-prinsip ilmu otak yang mengarah pada kesuksesan"
+      "ko": "성공을 자아내는 뇌과학적 원리 분석"
     },
     "whyDesc": {
-      "en": "The act of forming a hypothesis and inputting the trajectory of changes in the subtle observation object into the brain to operate a real-time feedback loop improves the brain's fine sensory resolution. The process of immediately converting and recording changes in observation data into text strengthens the neural network connection between the brain's lateral prefrontal cortex and the visual association cortex, enhancing the insight and analysis ability to detect minor changes in business or environmental errors one step ahead of others.",
-      "ko": "가설을 세우고 미세한 관찰 대상의 변화 궤적을 뇌에 입력하여 실시간 피드백 루프(Feedback Loop)를 가동하는 행위는 뇌의 미세 감각 분해능을 증진시킵니다. 관찰 데이터의 변화를 즉시 텍스트로 치환하고 기록하는 과정은 뇌의 외측전두엽과 시각 연합 피질 간의 신경망 연결을 단단하게 다져주어, 비즈니스의 사소한 변화 흐름이나 환경 오차 요인을 남들보다 한발 앞서 감지해내는 통찰 분석력을 고조시킵니다.",
-      "ja": "仮説を立て、微細な観察対象の変化の軌跡を脳に入力し、リアルタイムのフィードバックループを動作させる行為は、脳の微細な感覚分解能を向上させます。観察データの変化を即座にテキストに変換して記録するプロセスにより、脳の外側前頭前野と視覚連合野の間の神経ネットワークの接続が強化され、ビジネス上の小さな変化や環境上のエラーを一歩先に検出する洞察力と分析能力が強化されます。",
-      "zh": "形成假设并将细微观察对象的变化轨迹输入大脑以运行实时反馈回路的行为提高了大脑的精细感觉分辨率。将观察数据的变化立即转换并记录为文本的过程，加强了大脑外侧前额叶皮层和视觉关联皮层之间的神经网络连接，增强了洞察力和分析能力，领先一步发现商业或环境错误的微小变化。",
-      "es": "El acto de formar una hipótesis e introducir la trayectoria de los cambios en el objeto de observación sutil en el cerebro para operar un circuito de retroalimentación en tiempo real mejora la fina resolución sensorial del cerebro. El proceso de convertir y registrar inmediatamente los cambios en los datos de observación en texto fortalece la conexión de la red neuronal entre la corteza prefrontal lateral del cerebro y la corteza de asociación visual, mejorando la capacidad de percepción y análisis para detectar cambios menores en errores comerciales o ambientales un paso por delante de los demás.",
-      "fr": "Le fait de former une hypothèse et de saisir la trajectoire des changements dans l'objet d'observation subtile dans le cerveau pour faire fonctionner une boucle de rétroaction en temps réel améliore la résolution sensorielle fine du cerveau. Le processus de conversion et d'enregistrement immédiat des modifications des données d'observation en texte renforce la connexion du réseau neuronal entre le cortex préfrontal latéral du cerveau et le cortex d'association visuelle, améliorant ainsi la capacité de compréhension et d'analyse pour détecter des changements mineurs dans les erreurs commerciales ou environnementales avec une longueur d'avance sur les autres.",
-      "de": "Der Vorgang der Hypothesenbildung und der Eingabe der Verlaufskurve der Veränderungen des subtilen Beobachtungsobjekts in das Gehirn, um eine Echtzeit-Rückkopplungsschleife zu betreiben, verbessert die feine sensorische Auflösung des Gehirns. Der Prozess der sofortigen Umwandlung und Aufzeichnung von Änderungen in Beobachtungsdaten in Text stärkt die neuronale Netzwerkverbindung zwischen dem lateralen präfrontalen Kortex des Gehirns und dem visuellen Assoziationskortex und verbessert die Einsichts- und Analysefähigkeit, um kleinere Änderungen bei Geschäfts- oder Umweltfehlern einen Schritt voraus zu erkennen.",
-      "pt": "O ato de formar uma hipótese e inserir a trajetória de mudanças no objeto de observação sutil no cérebro para operar um ciclo de feedback em tempo real melhora a resolução sensorial fina do cérebro. O processo de conversão e registro imediato de alterações nos dados de observação em texto fortalece a conexão da rede neural entre o córtex pré-frontal lateral do cérebro e o córtex de associação visual, melhorando a capacidade de percepção e análise para detectar pequenas alterações em erros comerciais ou ambientais um passo à frente dos outros.",
-      "id": "Tindakan membentuk hipotesis dan memasukkan lintasan perubahan objek observasi halus ke dalam otak untuk mengoperasikan putaran umpan balik secara real-time meningkatkan resolusi sensorik halus otak. Proses mengubah dan mencatat perubahan data observasi menjadi teks dengan segera memperkuat koneksi jaringan saraf antara korteks prefrontal lateral otak dan korteks asosiasi visual, meningkatkan wawasan dan kemampuan analisis untuk mendeteksi perubahan kecil dalam kesalahan bisnis atau lingkungan selangkah lebih maju dari yang lain."
+      "ko": "가설을 세우고 미세한 관찰 대상의 변화 궤적을 뇌에 입력하여 실시간 피드백 루프(Feedback Loop)를 가동하는 행위는 뇌의 미세 감각 분해능을 증진시킵니다. 관찰 데이터의 변화를 즉시 텍스트로 치환하고 기록하는 과정은 뇌의 외측전두엽과 시각 연합 피질 간의 신경망 연결을 단단하게 다져주어, 비즈니스의 사소한 변화 흐름이나 환경 오차 요인을 남들보다 한발 앞서 감지해내는 통찰 분석력을 고조시킵니다."
     },
     "cautionTitle": {
-      "en": "Behavioral science advice for successful settlement",
-      "ko": "성공적인 안착을 위한 행동과학 조언",
-      "ja": "解決を成功させるための行動科学的アドバイス",
-      "zh": "成功解决问题的行为科学建议",
-      "es": "Consejos de ciencias del comportamiento para un acuerdo exitoso",
-      "fr": "Conseils en sciences comportementales pour une installation réussie",
-      "de": "Verhaltenswissenschaftliche Ratschläge für eine erfolgreiche Eingewöhnung",
-      "pt": "Conselhos científicos comportamentais para uma solução bem-sucedida",
-      "id": "Nasihat ilmu perilaku untuk penyelesaian yang sukses"
+      "ko": "성공적인 안착을 위한 행동과학 조언"
     },
     "cautionDesc": {
-      "en": "Don't put too much strain on your body by trying to perfect your habits. The key is to practice lightly and comfortably for 3 minutes every day to slowly pave the way for your muscles and neurons to remember.",
-      "ko": "습관을 너무 완벽하게 하려고 몸에 무리를 주지 마세요. 가볍고 편안하게 매일 3분간 실천하여 근육과 뉴런이 천천히 기억하도록 길을 뚫어 주는 것이 핵심입니다.",
-      "ja": "習慣を完璧にしようとして体に負担をかけすぎないようにしてください。重要なのは、毎日 3 分間軽く快適に練習して、ゆっくりと筋肉とニューロンに記憶させる道を切り開くことです。",
-      "zh": "不要试图完善你的习惯，给你的身体带来太大的压力。关键是每天轻松舒适地练习3分钟，慢慢为你的肌肉和神经元的记忆铺平道路。",
-      "es": "No ejerzas demasiada presión sobre tu cuerpo tratando de perfeccionar tus hábitos. La clave es practicar de forma ligera y cómoda durante 3 minutos todos los días para allanar lentamente el camino para que tus músculos y neuronas recuerden.",
-      "fr": "Ne mettez pas trop de pression sur votre corps en essayant de perfectionner vos habitudes. La clé est de pratiquer légèrement et confortablement pendant 3 minutes chaque jour pour ouvrir lentement la voie à la mémoire de vos muscles et de vos neurones.",
-      "de": "Belasten Sie Ihren Körper nicht zu sehr, indem Sie versuchen, Ihre Gewohnheiten zu perfektionieren. Der Schlüssel besteht darin, jeden Tag drei Minuten lang leicht und bequem zu üben, um Ihren Muskeln und Neuronen langsam den Weg zu ebnen, sich daran zu erinnern.",
-      "pt": "Não coloque muita pressão sobre seu corpo tentando aperfeiçoar seus hábitos. O segredo é praticar de maneira leve e confortável por 3 minutos todos os dias para preparar lentamente o caminho para que seus músculos e neurônios se lembrem.",
-      "id": "Jangan terlalu membebani tubuh Anda dengan mencoba menyempurnakan kebiasaan Anda. Kuncinya adalah berlatih dengan ringan dan nyaman selama 3 menit setiap hari untuk secara perlahan membuka jalan bagi otot dan neuron Anda untuk mengingat."
+      "ko": "습관을 너무 완벽하게 하려고 몸에 무리를 주지 마세요. 가볍고 편안하게 매일 3분간 실천하여 근육과 뉴런이 천천히 기억하도록 길을 뚫어 주는 것이 핵심입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Step 1: Environment settings and tool settings",
-          "ko": "1단계: 환경 설정 및 도구 세팅",
-          "ja": "ステップ1：環境設定とツール設定",
-          "zh": "第1步：环境设置和工具设置",
-          "es": "Paso 1: configuración del entorno y configuración de herramientas",
-          "fr": "Étape 1 : Paramètres de l'environnement et paramètres des outils",
-          "de": "Schritt 1: Umgebungseinstellungen und Werkzeugeinstellungen",
-          "pt": "Passo 1: Configurações de ambiente e configurações de ferramentas",
-          "id": "Langkah 1: Pengaturan lingkungan dan pengaturan alat"
+          "ko": "1단계: 환경 설정 및 도구 세팅"
         },
         "text": {
-          "en": "Reserve intensive training time every afternoon and select one object that changes around you (change in the angle of a flowerpot leaf, data scale on a computer screen, etc.). Fix the observation focus.",
-          "ko": "매일 오후 집중 훈련 시간을 확보하여 주변의 변화가 일어나는 대상(화분 잎사귀의 각도 변화, 컴퓨터 화면의 데이터 눈금 등) 1가지를 선정합니다. 관찰 초점을 고정합니다.",
-          "ja": "毎日午後に集中トレーニングの時間を確保し、周囲で変化するオブジェクト (植木鉢の葉の角度の変化、コンピューター画面上のデータのスケールなど) を 1 つ選択します。観察の焦点を固定します。",
-          "zh": "每天下午预留密集训练时间，选择一个周围发生变化的物体（花盆叶子角度的变化、电脑屏幕上数据比例的变化等）。固定观察焦点。",
-          "es": "Reserve un tiempo de entrenamiento intensivo todas las tardes y seleccione un objeto que cambie a su alrededor (cambio en el ángulo de la hoja de una maceta, escala de datos en la pantalla de una computadora, etc.). Fijar el foco de observación.",
-          "fr": "Réservez un temps d'entraînement intensif chaque après-midi et sélectionnez un objet qui change autour de vous (changement de l'angle d'une feuille de pot de fleur, échelle des données sur un écran d'ordinateur, etc.). Fixez le point d’observation.",
-          "de": "Nehmen Sie sich jeden Nachmittag intensive Trainingszeit und wählen Sie ein Objekt aus, das sich um Sie herum verändert (Änderung des Winkels eines Blumentopfblatts, Datenskala auf einem Computerbildschirm usw.). Fixieren Sie den Beobachtungsfokus.",
-          "pt": "Reserve um tempo de treinamento intensivo todas as tardes e selecione um objeto que muda ao seu redor (mudança no ângulo de uma folha de vaso de flores, escala de dados na tela de um computador, etc.). Fixe o foco de observação.",
-          "id": "Cadangan waktu latihan intensif setiap sore dan pilih satu objek yang berubah di sekitar Anda (perubahan sudut daun pot bunga, skala data di layar komputer, dll.). Perbaiki fokus observasi."
+          "ko": "매일 오후 집중 훈련 시간을 확보하여 주변의 변화가 일어나는 대상(화분 잎사귀의 각도 변화, 컴퓨터 화면의 데이터 눈금 등) 1가지를 선정합니다. 관찰 초점을 고정합니다."
         }
       },
       {
         "name": {
-          "en": "Step 2: Full sense projection and practice",
-          "ko": "2단계: 온전한 감각 투사와 실천",
-          "ja": "ステップ 2: 完全な感覚の投影と実践",
-          "zh": "第二步：全感官投射和练习",
-          "es": "Paso 2: Proyección y práctica de todos los sentidos.",
-          "fr": "Étape 2 : Projection plein sens et pratique",
-          "de": "Schritt 2: Vollständige Sinnesprojektion und Übung",
-          "pt": "Passo 2: Projeção e prática de sentido pleno",
-          "id": "Langkah 2: Proyeksi dan latihan indera penuh"
+          "ko": "2단계: 온전한 감각 투사와 실천"
         },
         "text": {
-          "en": "Observe the current state of the selected object closely in silence for one minute, replace it with two types of numerical information, and record it analogously in a notebook.",
-          "ko": "선택한 대상의 현재 상태를 1분 동안 침묵 속에서 정밀 관찰하여 수치 정보 2가지로 치환해 노트에 아날로그 기록합니다.",
-          "ja": "選択した対象物の現在の状態を1分間静かに観察し、2種類の数値情報に置き換えて、同様にノートに記録します。",
-          "zh": "沉默地密切观察所选对象的当前状态一分钟，用两种数字信息代替，并类似地记录在笔记本上。",
-          "es": "Observe de cerca el estado actual del objeto seleccionado en silencio durante un minuto, reemplácelo con dos tipos de información numérica y regístrelo de manera análoga en un cuaderno.",
-          "fr": "Observez attentivement l'état actuel de l'objet sélectionné en silence pendant une minute, remplacez-le par deux types d'informations numériques et enregistrez-le de manière analogue dans un cahier.",
-          "de": "Beobachten Sie eine Minute lang in aller Stille den aktuellen Zustand des ausgewählten Objekts, ersetzen Sie ihn durch zwei Arten numerischer Informationen und notieren Sie ihn analog in einem Notizbuch.",
-          "pt": "Observe atentamente o estado atual do objeto selecionado em silêncio por um minuto, substitua-o por dois tipos de informação numérica e registre-o de forma análoga em um caderno.",
-          "id": "Amati keadaan objek yang dipilih saat ini secara diam-diam selama satu menit, gantikan dengan dua jenis informasi numerik, dan catat secara analog di buku catatan."
+          "ko": "선택한 대상의 현재 상태를 1분 동안 침묵 속에서 정밀 관찰하여 수치 정보 2가지로 치환해 노트에 아날로그 기록합니다."
         }
       },
       {
         "name": {
-          "en": "Step 3: Objective gaze and meta-organizing",
-          "ko": "3단계: 객관적 응시 및 메타 정리",
-          "ja": "ステップ3：客観視とメタ整理",
-          "zh": "第三步：客观审视和元组织",
-          "es": "Paso 3: Mirada objetiva y metaorganización",
-          "fr": "Étape 3 : Regard objectif et méta-organisation",
-          "de": "Schritt 3: Objektiver Blick und Meta-Organisation",
-          "pt": "Passo 3: Olhar objetivo e meta-organização",
-          "id": "Langkah 3: Pandangan objektif dan pengorganisasian meta"
+          "ko": "3단계: 객관적 응시 및 메타 정리"
         },
         "text": {
-          "en": "After 1 hour, observe the subject again, measure very minute changes (1mm deviation, 1% indicator change, etc.), and perform feedback training to infer and analyze the cause-and-effect relationship for 1 minute and record it.",
-          "ko": "1시간 후 다시 대상을 관찰하여 아주 미세한 변화(1mm의 틀어짐, 1%의 지표 변화 등)를 측정하고 그 인과관계를 1분간 유추 분석하는 피드백 훈련을 수행해 기록합니다.",
-          "ja": "1時間後に再び被験者を観察し、非常に微小な変化（1mmの偏差、1％の指標変化など）を計測し、因果関係を推測・分析するフィードバックトレーニングを1分間行い記録します。",
-          "zh": "1小时后，再次观察受试者，测量非常微小的变化（1mm偏差、1%指标变化等），并进行反馈训练以推断和分析因果关系1分钟并记录。",
-          "es": "Después de 1 hora, observe nuevamente al sujeto, mida cambios muy pequeños (desviación de 1 mm, cambio de indicador del 1 %, etc.) y realice un entrenamiento de retroalimentación para inferir y analizar la relación causa-efecto durante 1 minuto y registrarla.",
-          "fr": "Après 1 heure, observez à nouveau le sujet, mesurez des changements très infimes (écart de 1 mm, changement d'indicateur de 1 %, etc.) et effectuez un entraînement au feedback pour déduire et analyser la relation de cause à effet pendant 1 minute et enregistrez-le.",
-          "de": "Beobachten Sie das Subjekt nach einer Stunde erneut, messen Sie sehr kleine Änderungen (1 mm Abweichung, 1 % Indikatoränderung usw.) und führen Sie ein Feedback-Training durch, um die Ursache-Wirkungs-Beziehung für eine Minute abzuleiten, zu analysieren und aufzuzeichnen.",
-          "pt": "Após 1 hora, observe o sujeito novamente, meça mudanças mínimas (desvio de 1 mm, mudança de indicador de 1%, etc.) e realize treinamento de feedback para inferir e analisar a relação de causa e efeito por 1 minuto e registrá-la.",
-          "id": "Setelah 1 jam, amati subjek lagi, ukur perubahan yang sangat kecil (deviasi 1mm, perubahan indikator 1%, dll.), dan lakukan pelatihan umpan balik untuk menyimpulkan dan menganalisis hubungan sebab-akibat selama 1 menit dan mencatatnya."
+          "ko": "1시간 후 다시 대상을 관찰하여 아주 미세한 변화(1mm의 틀어짐, 1%의 지표 변화 등)를 측정하고 그 인과관계를 1분간 유추 분석하는 피드백 훈련을 수행해 기록합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "매일 실험 전에 이 정리 의식을 수행해야 하나요?",
-          "en": "Should I perform this organizing ritual before work every day?",
-          "ja": "毎日実験の前にこの整理儀式を行うべきですか？",
-          "zh": "每天实验前都需要进行这个整理仪式吗？",
-          "es": "¿Debo realizar este ritual de organización antes del trabajo todos los días?",
-          "fr": "Dois-je faire ce rituel d'organisation avant le travail chaque jour ?",
-          "de": "Sollte ich dieses Aufräumritual jeden Tag vor der Arbeit durchführen?",
-          "pt": "Devo realizar este ritual de organização antes do trabalho todos os dias?",
-          "id": "Haruskah saya melakukan ritual merapikan ini sebelum bekerja setiap hari?"
+          "ko": "매일 실험 전에 이 정리 의식을 수행해야 하나요?"
         },
         "answer": {
-          "ko": "네, 작업을 시작하기 전 렌즈를 정밀하게 닦으며 뇌에 인지적 정돈 신호를 주어 업무 집중도를 극대화합니다.",
-          "en": "Yes, cleaning lenses precisely before starting work gives the brain a cognitive organizing signal, maximizing work focus.",
-          "ja": "はい、作業を開始する前にレンズを精密に拭くことで、脳に認知的な整頓信号を送り、業務集中度を極大化します。",
-          "zh": "是的，工作前精密地擦拭镜片能给大脑传递认知整理信号，使工作专注度达到最大。",
-          "es": "Sí, limpiar lentes antes de comenzar el trabajo le da al cerebro una señal de orden cognitivo, maximizando el enfoque.",
-          "fr": "Oui, nettoyer les objectifs avant de commencer le travail envoie un signal d'ordre au cerveau, maximisant la concentration.",
-          "de": "Ja, das Reinigen der Linsen vor Arbeitsbeginn signalisiert dem Gehirn Struktur und maximiert den Fokus.",
-          "pt": "Sim, limpar as lentes antes de começar o trabalho dá ao cérebro um sinal de ordem cognitiva, maximizando o foco.",
-          "id": "Ya, membersihkan lensa secara teliti sebelum bekerja memberikan sinyal keteraturan kognitif bagi otak, memaksimalkan fokus."
+          "ko": "네, 작업을 시작하기 전 렌즈를 정밀하게 닦으며 뇌에 인지적 정돈 신호를 주어 업무 집중도를 극대화합니다."
         }
       },
       {
         "question": {
-          "ko": "현미경이나 세척 융이 없으면 어떻게 대체하나요?",
-          "en": "How can I substitute if I don't have microscopes or cleaning cloths?",
-          "ja": "顕微鏡やクリーニングクロスがない場合はどうすればいいですか？",
-          "zh": "没有显微镜或清洗布时该如何替代？",
-          "es": "¿Cómo puedo sustituir este hábito si no tengo microscopios o paños de limpieza?",
-          "fr": "Comment puis-je remplacer le microscope ou le chiffon si je n'en ai pas ?",
-          "de": "Wie kann ich das Mikroskop oder das Reinigungstuch ersetzen, wenn ich keins habe?",
-          "pt": "Como posso substituir se não tiver microscópios ou panos de limpeza?",
-          "id": "Bagaimana cara menggantinya jika saya tidak memiliki mikroskop atau kain pembersih?"
+          "ko": "현미경이나 세척 융이 없으면 어떻게 대체하나요?"
         },
         "answer": {
-          "ko": "매일 일과 시작 전 내 컴퓨터 모니터를 극세사천으로 닦거나, 책상을 정돈하고 스마트폰 액정을 깨끗이 닦는 행위로 동일한 효과를 얻습니다.",
-          "en": "Wiping your computer monitor, organizing your desk, or cleaning your smartphone screen with a microfiber cloth before starting your daily work achieves the same effect.",
-          "ja": "毎日の業務開始前にPCモニターをマイクロファイバークロスで拭くか、机を整理しスマートフォンの画面をきれいに拭く行為で同じ効果が得られます。",
-          "zh": "每天开始工作前，用超细纤维布擦拭电脑显示器、整理办公桌，或者把手机屏幕擦拭干净，都能获得同样的效果。",
-          "es": "Limpiar el monitor con un paño de microfibra, organizar el escritorio o limpiar la pantalla del móvil antes del trabajo produce el mismo efecto.",
-          "fr": "Essuyer votre écran avec un chiffon en microfibre, ranger votre bureau ou nettoyer votre smartphone avant le travail produit le même effet.",
-          "de": "Das Wischen des Bildschirms mit einem Mikrofasertuch oder das Reinigen des Smartphones vor Arbeitsbeginn erzielt den gleichen Effekt.",
-          "pt": "Limpar o monitor com um pano de microfibra, organizar a mesa ou limpar a tela do telemóvel antes do trabalho pós-laboral fornece o mesmo efeito.",
-          "id": "Mengelap layar komputer dengan kain mikrofiber, merapikan meja, atau membersihkan layar ponsel sebelum bekerja memberikan hasil yang sama."
+          "ko": "매일 일과 시작 전 내 컴퓨터 모니터를 극세사천으로 닦거나, 책상을 정돈하고 스마트폰 액정을 깨끗이 닦는 행위로 동일한 효과를 얻습니다."
         }
       }
-    ],
-    "pubDate": "2026-05-03",
-    "updatedDate": "2026-05-03"
+    ]
   }
 }

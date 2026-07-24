@@ -15,24 +15,23 @@ faqs:
   - question: "Berapa lama mereka harus berjalan setiap hari?"
     answer: "Minimal 2 hours sehari dibagi menjadi pagi and sore, dikombinasikan dengan latihan kepatuhan."
 ---
-
-Border Collie adalah anjing paling cerdas di dunia dengan stamina luar biasa. Jalan-jalan biasa tidak cukup bagi mereka; tanpa stimulasi kognitif, mereka bisa stres dan merusak barang. Lari cepat dan belokan tajam juga rawan mencederai sendi mereka. Hari ini PetSelf membagikan tips stimulasi otak dan perlindungan sendi Border Collie.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Bukti Dokter Hewan & Perilaku
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>Panduan Border Collie Kennel Club (KC) Inggris & Penelitian Kognisi Hewan</strong>.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Border Collie Profil Utama
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Rata-rata Umur</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 tahun</span></div>
@@ -43,7 +42,7 @@ Border Collie adalah anjing paling cerdas di dunia dengan stamina luar biasa. Ja
 
 ## 1. Bahasa Tubuh Border Collie: Tatapan Tajam
 
-Border Collie memiliki tatapan 'Eye Contact' khas untuk menggiring objek. Merunduk and menatap tajam menunjukkan konsentrasi penuh menggiring. Mulut terbuka and ekor berputar lebar menandakan kesiapan bermain.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +76,7 @@ Border Collie memiliki tatapan 'Eye Contact' khas untuk menggiring objek. Merund
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Lari pagi dikombinasikan dengan latihan kepatuhan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Berikan perintah seperti 'tunggu' atau 'putar' di sela-sela lari agar mereka menggunakan otak.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -87,7 +86,7 @@ Border Collie memiliki tatapan 'Eye Contact' khas untuk menggiring objek. Merund
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Mainan teka-teki interaktif (Brain Games)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Sediakan mainan puzzle multi-level yang membutuhkan trik untuk mengeluarkan makanan.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -97,7 +96,7 @@ Border Collie memiliki tatapan 'Eye Contact' khas untuk menggiring objek. Merund
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Pijat lembut dan peregangan sendi pasca aktivitas</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Pijat lembut area paha and bahu untuk melemaskan otot setelah aktivitas fisik yang intens.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -106,7 +105,7 @@ Border Collie memiliki tatapan 'Eye Contact' khas untuk menggiring objek. Merund
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </div>
 </div>
@@ -124,7 +123,7 @@ Border Collie memiliki tatapan 'Eye Contact' khas untuk menggiring objek. Merund
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Itu adalah insting menggiring yang kuat. Latih fokus kontak mata sebelum mereka terpicu mengejar objek.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </details>
 
@@ -134,7 +133,7 @@ Border Collie memiliki tatapan 'Eye Contact' khas untuk menggiring objek. Merund
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Minimal 2 hours sehari dibagi menjadi pagi and sore, dikombinasikan dengan latihan kepatuhan.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </details>
 </div>

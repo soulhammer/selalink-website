@@ -1,194 +1,64 @@
 {
   "king-writing-routine": {
     "title": {
-      "ko": "영감을 길들이는 법? 스티븐 킹의 매일 2,000단어 집필 루틴",
-      "en": "How to Tame Inspiration? Stephen King's 2,000-Word Daily Writing Routine",
-      "ja": "インスピレーションを飼い慣らす？スティーブン・キングの毎日2000語の執筆ルーティン",
-      "zh": "如何驯服灵感？斯蒂芬·金每天写作2000字的系统惯例",
-      "es": "¿Cómo domar la inspiración? La rutina diaria de escritura de 2.000 palabras de Stephen King",
-      "fr": "Comment dompter l'inspiration ? La routine d'écriture quotidienne de 2 000 mots de Stephen King",
-      "de": "Wie man die Inspiration zähmt? Stephen Kings tägliche Schreibroutine von 2.000 Wörtern",
-      "pt": "Como domar a inspiração? A rotina diária de escrita de 2.000 palavras de Stephen King",
-      "id": "Cara Menjinakkan Inspirasi? Rutinitas Menulis 2.000 Kata Harian Stephen King"
+      "ko": "영감을 길들이는 법? 스티븐 킹의 매일 2,000단어 집필 루틴"
     },
     "description": {
-      "ko": "세계에서 가장 성공한 작가 스티븐 킹의 집필 루틴. 감각운동 학습과 트리거를 활용해 매일 일정한 생산성을 유지하는 3단계 비결을 알아봅니다.",
-      "en": "The writing routine of Stephen King, the world's most successful author. Discover the 3-step secret to maintaining daily productivity using sensorimotor learning and triggers.",
-      "ja": "世界で最も成功した作家スティーブン・キングの執筆ルーティン。感覚運動学習とトリガーを活用し、毎日一定量の生産性を維持する3ステップを紹介します。",
-      "zh": "世界上最成功的作家斯蒂芬·金的写作惯例。探讨利用感觉运动学习和触发机制、每天保持稳定产出效率的三步秘诀。",
-      "es": "La rutina de escritura de Stephen King, el autor más exitoso del mundo. Descubra el secreto de 3 pasos para mantener la productividad diaria con aprendizaje sensorio-motor.",
-      "fr": "La routine d'écriture de Stephen King, l'auteur le plus à succès au monde. Découvrez le secret en 3 étapes pour maintenir sa productivité via l'apprentissage sensorimoteur.",
-      "de": "Die Schreibroutine von Stephen King, dem erfolgreichsten Autor der Welt. Erfahren Sie das 3-Schritte-Geheimnis zur Aufrechterhaltung der Produktivität durch sensorisches Lernen.",
-      "pt": "A rotina de escrita de Stephen King, o autor mais bem-sucedido do mundo. Descubra o segredo de 3 passos para manter a produtividade diária usando aprendizagem sensorio-motora.",
-      "id": "Rutinitas menulis Stephen King, penulis paling sukses di dunia. Temukan panduan 3 langkah mempertahankan produktivitas harian menggunakan pembelajaran sensorimotor dan pemicu."
+      "ko": "세계에서 가장 성공한 작가 스티븐 킹의 집필 루틴. 감각운동 학습과 트리거를 활용해 매일 일정한 생산성을 유지하는 3단계 비결을 알아봅니다."
     },
     "authority": {
-      "ko": "스티븐 킹의 자전적 창작론 '유혹하는 글쓰기' 및 감각운동 학습의 뇌과학 연구",
-      "en": "Stephen King's Memoir 'On Writing' & Neuroscience Research on Sensorimotor Learning",
-      "ja": "スティーブン・キングの自伝的創作論「書くことについて」および感覚運動学習の脳科学研究",
-      "zh": "斯蒂芬·金创作备忘录《写作这回事》与感觉运动学习的脑科学研究",
-      "es": "Memorias de Stephen King 'Mientras escribo' e investigación en neurociencia sobre aprendizaje sensorio-motor",
-      "fr": "Mémoires de Stephen King « Écriture : Mémoires d'un métier » & recherche en neurosciences sur l'apprentissage sensorimoteur",
-      "de": "Stephen Kings Memoiren „Das Leben und das Schreiben“ & neurowissenschaftliche Forschung zu sensorischem Lernen",
-      "pt": "Memórias de Stephen King 'On Writing' e pesquisa em neurociência sobre aprendizagem sensorio-motora",
-      "id": "Memoar Stephen King 'On Writing' & Penelitian Neurosains tentang Pembelajaran Sensorimotor"
+      "ko": "스티븐 킹 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "'샤이닝', '쇼생크 탈출' 등 수많은 걸작을 집필한 모던 호러의 거장 스티븐 킹. 그는 지금도 매일 아침 집필을 시작해 2,000단어(원고지 약 10장 분량)를 모두 쓰기 전까지는 절대 책상에서 일어나지 않는다는 철저한 자기 규율을 수십 년째 유지하고 있습니다. ✍️\n\n킹은 영감에 대해 '영감이 오기를 기다리는 사람은 결코 책을 쓸 수 없다. 매일 같은 시간 책상 앞에 앉아 영감을 길들여야 한다'고 말합니다. 그는 감각적 트리거를 고도로 활용하여 뇌가 자동으로 몰입 모드로 전환되는 시스템을 구축했습니다.\n\n오늘 BuildSelf에서는 스티븐 킹의 집필 루틴 속에 숨겨진 감각운동 학습의 원리를 분석하고, 현대인들이 매일의 생산적 목표를 흔들림 없이 달성하기 위한 3단계 실천 방안을 제안합니다.",
-      "en": "Stephen King, the master of modern horror behind countless masterpieces like 'The Shining' and 'The Shawshank Redemption,' has maintained a strict discipline for decades: he starts writing every morning and never gets up from his desk until he finishes 2,000 words. ✍️\n\nRegarding inspiration, King says, 'The amateur sits and waits for inspiration, the rest of us just get up and go to work.' He highly utilized sensory triggers to build a system where the brain automatically switches to focus mode.\n\nToday, BuildSelf analyzes the sensorimotor learning principles hidden in Stephen King's writing routine and proposes a 3-step action plan for modern people to achieve daily productivity goals without fail.",
-      "ja": "「シャイニング」「ショーシャンクの空に」など、数々の傑作を執筆したモダンホラーの巨匠スティーブン・キング。彼は今でも毎日午前中に執筆を開始し、2,000語（原稿用紙約10枚分）を書き終えるまでは絶対に机から離れないという、冷徹なまでの自己規律を数十年間にわたって維持しています。✍️\n\nキングはインスピレーションについて、「インスピレーションが湧くのを待っていては決して本は書けない。毎日決まった時間に机に向かい、インスピレーションを飼い慣らさなければならない」と述べています。彼は感覚トリガーを高度に活用し、脳が自動的に集中モードに入るシステムを構築しました。\n\n本日、BuildSelfではスティーブン・キングの執筆ルーティンに隠された感覚運動学習の原理を解き明かし、現代人が毎日の生産目標を安定して達成するための3ステップの実践方法を提案します。",
-      "zh": "在这一历史性惯例的实践中：'', ' ' . 2,000( 10 ) . ✍️ 在这一历史性惯例的实践中： ' . ' . . 在这一历史性惯例的实践中： BuildSelf , 3 .",
-      "es": "Stephen King, el maestro del terror moderno detrás de obras maestras como 'El resplandor' y 'Cadena perpetua', ha mantenido una disciplina estricta durante décadas: empieza a escribir cada mañana y no se levanta hasta terminar 2.000 palabras. ✍️\n\nSobre la inspiración, King dice: 'El aficionado se sienta y espera la inspiración; los demás nos levantamos y nos ponemos a trabajar'. Utilizaba picos sensoriales para construir un sistema en el que el cerebro se enfoca automáticamente.\n\nHoy, BuildSelf analiza el aprendizaje sensorio-motor detrás de la rutina de Stephen King y propone un plan de 3 pasos para lograr los objetivos de productividad diarios sin falta.",
-      "fr": "Stephen King, le maître de l'horreur moderne auteur de chefs-d'œuvre comme « Shining » et « Les Évadés », maintient une discipline stricte depuis des décennies : il commence à écrire chaque matin et ne se lève pas avant d'avoir produit 2 000 mots. ✍️\n\nAu sujet de l'inspiration, King déclare : « L'amateur s'assoit et attend l'inspiration, le reste d'entre nous se lève et va au travail. » Il utilisait des déclencheurs sensoriels pour créer un système où le cerveau se concentre automatiquement.\n\nAujourd'hui, BuildSelf analyse les neurosciences de la routine de Stephen King et propose un plan en 3 étapes pour atteindre ses objectifs quotidiens à coup sûr.",
-      "de": "Stephen King, der Meister des modernen Horrors hinter Meisterwerken wie „The Shining“ und „Die Verurteilten“, pflegt seit Jahrzehnten eine strenge Disziplin: Er schreibt jeden Morgen und steht erst auf, wenn er 2.000 Wörter beendet hat. ✍️\n\nZur Inspiration sagt King: „Der Amateur setzt sich hin und wartet auf Inspiration, der Rest von uns steht einfach auf und geht an die Arbeit.“ Er nutzte sensorische Reize, um ein System aufzubauen, in dem sich das Gehirn automatisch fokussiert.\n\nHeute analysiert BuildSelf das sensorische Lernen hinter Stephen Kings Schreibroutine und schlägt einen 3-Schritte-Aktionsplan vor, mit dem moderne Menschen ihre täglichen Ziele zuverlässig erreichen können.",
-      "pt": "Stephen King, o mestre do terror moderno por trás de obras-primas como 'The Shining' e 'The Shawshank Redemption', mantém uma disciplina rigorosa há décadas: começa a escrever todas as manhãs e nunca se levanta até terminar 2.000 palavras. ✍️\n\nSobre inspiração, King diz: 'O amador senta-se e espera pela inspiração, o resto de nós simplesmente levanta-se e vai trabalhar'. Ele utilizava picos sensoriais para construir um sistema onde o cérebro se foca automaticamente.\n\nHoje, o BuildSelf analisa a aprendizagem sensorio-motora por trás da rotina de Stephen King e propõe um plano de 3 passos para alcançar as metas de produtividade diárias sem falhas.",
-      "id": "Stephen King, maestro horor modern di balik karya luar biasa seperti 'The Shining' dan 'The Shawshank Redemption,' telah menjaga disiplin ketat selama beberapa dekade: ia mulai menulis setiap pagi dan tidak akan berdiri sebelum menyelesaikan 2.000 kata. ✍️\n\nTentang inspirasi, King berkata, 'Amatir duduk dan menunggu inspirasi, sisanya dari kita hanya bangun dan bekerja.' Ia memanfaatkan pemicu sensorik untuk membangun sistem di mana otak otomatis fokus.\n\nHari ini, BuildSelf menganalisis prinsip pembelajaran sensorimotor dalam rutinitas Stephen King dan menawarkan panduan 3 langkah praktis untuk mencapai target produktivitas harian tanpa gagal."
+      "ko": "\"나는 내 뮤즈가 나를 어디서 만나야 하는지 정확히 알 수 있도록 매일 아침 같은 시간, 같은 책상 앞에 나타난다.\" ✍️\n\n전 세계적으로 3억 5천만 부가 넘는 압도적인 판매고를 기록하며 대중 공포 소설의 독보적인 왕좌를 지켜온 스티븐 킹. 매년 묵직하고 흡입력 높은 장편 소설을 끊임없이 발표하는 그의 탁월한 집필 생산성 밑바닥에는 영감을 길들이는 영리한 아침 의식이 깔려 있습니다.\n\n킹은 매일 아침 8시 정각에 같은 자리에 앉아 집필 루틴을 시작합니다. 아침 비타민을 먹고, 하드록 음악을 크게 재생하며, 물이나 차 한 잔을 책상 위에 둔 뒤 2,000단어를 작성할 때까지 결코 자리를 뜨지 않는 엄격한 루틴을 수십 년간 지켜왔습니다. 그는 자신의 회고록에서 이것이 단순한 미신이 아닌, 뇌의 특정 회로를 조건화하는 과정이라고 설명했습니다.\n\n오늘 포스트에서는 스티븐 킹의 '아침 8시 집필 의식'에 숨겨진 뇌의 고전적 조건화와 자동 몰입 기제를 밝히고, 현대인들이 중요한 작업을 수행할 때 의지력 낭비 없이 최고 몰입 상태로 유도하는 3단계 실천 방안을 제안합니다."
     },
     "whyTitle": {
-      "ko": "감각 트리거와 몰입 시스템의 구축: 감각운동 학습",
-      "en": "Sensory Triggers and Deep Focus Systems: Sensorimotor Learning",
-      "ja": "感覚トリガーと没頭システムの構築：感覚運動学習",
-      "zh": "感觉触发与专注系统构建：感觉运动学习",
-      "es": "Activadores Sensoriales y Sistemas de Enfoque Profundo: Aprendizaje Sensorio-motor",
-      "fr": "Déclencheurs Sensoriels et Concentration Profonde : Apprentissage Sensorimoteur",
-      "de": "Sensorische Trigger und Fokus-Systeme: Sensorisches Lernen",
-      "pt": "Ativadores Sensoriais e Sistemas de Foco Profundo: Aprendizagem Sensorio-motora",
-      "id": "Pemicu Sensorik dan Sistem Fokus Mendalam: Pembelajaran Sensorimotor"
+      "ko": "감각 트리거와 몰입 시스템의 구축: 감각운동 학습"
     },
     "whyDesc": {
-      "ko": "뇌과학에서 감각운동 학습(Sensorimotor Learning)이란 특정 감각적 자극(청각, 미각, 물리적 환경)과 특정 행동(집필, 공부, 업무)을 반복해서 결합함으로써 뇌에 자동화된 신경 경로를 형성하는 과정입니다. 스티븐 킹이 매일 아침 같은 자리에 앉아 비타민제를 먹고 일정한 음악을 듣는 것은 이 감각적 트리거를 활성화하기 위한 의식입니다.\n\n이 감각 트리거가 반복되면 뇌는 '이 행동이 시작되면 다음은 초집중 시간이다'라고 인지하여, 의지력 배터리를 소모하지 않고 자연스럽게 몰입 상태로 미끄러져 들어갑니다. 이는 전두엽의 인지적 에너지를 극대화하여 매일 균등한 생산성을 뽑아내는 고도의 인지 심리학적 전략입니다.",
-      "en": "In brain science, sensorimotor learning is the process of repeatedly linking a specific sensory stimulus (hearing, taste, physical setting) with a specific action (writing, studying, working) to form an automated neural pathway. Stephen King sitting in the same spot, taking a vitamin, and listening to set music every morning is a ritual to activate this sensory trigger.\n\nOnce repeated, the brain recognizes, 'When this trigger starts, it's time for super focus,' sliding into deep focus naturally without draining willpower. This is a cognitive strategy to maximize the prefrontal lobe's energy and extract equal productivity daily.",
-      "ja": "脳科学において、感覚運動学習（Sensorimotor Learning）とは、特定の感覚的刺激（聴覚、味覚、物理的環境）と特定の行動（執筆、勉強、仕事）を繰り返し結合させることで、脳に自動化された神経経路を形成するプロセスです。スティーブン・キングが毎朝席に座ってビタミン剤を飲み、同じ音楽を聴くのは、この感覚トリガーを活性化するためです。\n\n感覚トリガーが繰り返されると、脳は「これを始めれば次は超集中する時間だ」と認識し、意志力バッテリーを消耗することなく自然に没頭状態に入ります。これは前頭葉の認知エネルギーを最大限に温存し、毎日一定の生産性を維持するための高度な認知心理学的戦略です。",
-      "zh": "在脑科学中，感觉运动学习（Sensorimotor Learning）是指通过反复将特定的感觉刺激（听觉、味觉、物理环境）与特定行为（写作、学习、工作）结合，在大脑中形成自动化神经回路的过程。斯蒂芬·金每天早晨坐在相同的位置、服用维生素并听固定音乐，正是为了激活这一感觉触发器的仪式。\n\n当这种感觉触发器不断重复时，大脑就会意识到“这一行为开始后，接下来的时间需要高度专注”，从而自然而然地进入专注状态，而无需消耗意志力电池。这是一种能够最大程度保存前额叶认知能量、每天产出均等效率的高级认知心理学策略。",
-      "es": "En la ciencia cerebral, el aprendizaje sensorio-motor es el proceso de vincular repetidamente un estímulo sensorial (oído, gusto, entorno físico) con una acción (escribir, estudiar, trabajar) para crear una vía neural automática. Stephen King sentándose en el mismo sitio, tomando una vitamina y escuchando música fija cada mañana es un ritual para activar este disparador.\n\nUna vez repetido, el cerebro reconoce: 'Cuando empieza este estímulo, toca concentrarse', deslizándose hacia el enfoque profundo de forma natural. Es una estrategia cognitiva para maximizar la energía cerebral y mantener una productividad diaria constante.",
-      "fr": "En sciences cognitives, l'apprentissage sensorimoteur est le processus consistant à associer de manière répétée un stimulus sensoriel (ouïe, goût, cadre physique) à une action (écrire, étudier, travailler) pour former un réseau neuronal automatisé. Stephen King s'asseyant à la même place, prenant une vitamine et écoutant une musique fixe est un rituel pour activer ce déclencheur.\n\nUne fois répété, le cerveau comprend : « Quand ce signal retentit, il est temps de se concentrer », glissant naturellement dans la tâche sans puiser dans sa volonté. C'est une stratégie pour maximiser l'énergie du lobe frontal et assurer une productivité constante.",
-      "de": "In der Hirnforschung ist sensorisches Lernen der Prozess der wiederholten Verknüpfung eines bestimmten sensorischen Reizes (Hören, Geschmack, Umgebung) mit einer Aktion (Schreiben, Lernen, Arbeiten), um eine automatische neuronale Bahn zu bilden. Dass Stephen King jeden Morgen am selben Platz sitzt, ein Vitamin nimmt und Musik hört, ist ein Ritual, um diesen Reiz zu aktivieren.\n\nBei ständiger Wiederholung erkennt das Gehirn: „Wenn dieser Reiz einsetzt, ist es Zeit für Fokus“, und gleitet ohne Willensanstrengung in die Konzentration. Dies ist eine kognitive Strategie zur Maximierung der Energie des Stirnhirns für eine konstante tägliche Produktivität.",
-      "pt": "Na ciência cerebral, a aprendizagem sensorio-motora é o processo de ligar repetidamente um estímulo sensorial (audição, paladar, ambiente físico) a uma ação (escrever, estudar, trabalhar) para criar uma via neural automática. Stephen King sentar-se no mesmo sítio, tomar uma vitamina e ouvir música fixa todas as manhãs é um ritual para ativar este disparador.\n\nUma vez repetido, o cérebro reconhece: 'Quando começa este estímulo, é hora de focar', deslizando para o foco profundo de forma natural. É uma estratégia cognitiva para maximizar a energia cerebral e manter uma produtividade diária constante.",
-      "id": "Dalam ilmu otak, pembelajaran sensorimotor adalah proses menghubungkan rangsangan sensorik (pendengaran, rasa, lingkungan fisik) dengan tindakan tertentu (menulis, belajar, bekerja) berulang kali untuk membentuk jalur saraf otomatis. Stephen King duduk di tempat yang sama, minum vitamin, dan mendengarkan musik tertentu setiap pagi adalah ritual untuk aktifkan pemicu ini.\n\nSetelah berulang, otak mengenali, 'Saat pemicu ini mulai, saatnya fokus,' mengalir ke fokus mendalam secara alami tanpa menguras kemauan. Ini adalah strategi kognitif untuk maksimalkan energi lobus frontal dan menjaga produktivitas harian tetap stabil."
+      "ko": "뇌과학에서 감각운동 학습(Sensorimotor Learning)이란 특정 감각적 자극(청각, 미각, 물리적 환경)과 특정 행동(집필, 공부, 업무)을 반복해서 결합함으로써 뇌에 자동화된 신경 경로를 형성하는 과정입니다. 스티븐 킹이 매일 아침 같은 자리에 앉아 비타민제를 먹고 일정한 음악을 듣는 것은 이 감각적 트리거를 활성화하기 위한 의식입니다.\n\n이 감각 트리거가 반복되면 뇌는 '이 행동이 시작되면 다음은 초집중 시간이다'라고 인지하여, 의지력 배터리를 소모하지 않고 자연스럽게 몰입 상태로 미끄러져 들어갑니다. 이는 전두엽의 인지적 에너지를 극대화하여 매일 균등한 생산성을 뽑아내는 고도의 인지 심리학적 전략입니다."
     },
     "cautionTitle": {
-      "ko": "영감을 길들이기 위한 脳科学的 한마디",
-      "en": "A Brain-Scientific Word for Taming Inspiration",
-      "ja": "インスピレーションを飼い慣らすための脳科学的なヒント",
-      "zh": "驯服灵感的脑科学寄语",
-      "es": "Un Mensaje de la Neurociencia para Domar la Inspiración",
-      "fr": "Un Mot des Neurosciences pour Dompter l'Inspiration",
-      "de": "Ein neurowissenschaftlicher Rat zur Zähmung der Inspiration",
-      "pt": "Um Conselho da Neurociência para Domar a Inspiração",
-      "id": "Nasihat Neurosains untuk Menjinakkan Inspirasi"
+      "ko": "영감을 길들이기 위한 뇌과학적 한마디"
     },
     "cautionDesc": {
-      "ko": "영감은 기다리는 것이 아니라, 정해진 자리와 시간에 앉아 불러내는 것입니다. 처음에는 매일 책상에 앉아 15분이라도 정해진 트리거를 반복해 보세요. 뇌는 그 감각을 기억하고, 머지않아 자동으로 당신을 몰입의 세계로 이끌어 줄 것입니다.",
-      "en": "Inspiration is not to be waited for; it is called upon by sitting in a designated spot and time. Start by sitting at your desk every day for just 15 minutes, repeating a set trigger. The brain will remember that sensory setting and soon guide you to focus automatically.",
-      "ja": "インスピレーションは待つものではなく、決まった場所と時間に座って呼び出すものです。最初は毎日机に向かって15分でも、決まったトリガーを繰り返してみてください。脳はその感覚を覚え、やがて自動的にあなたを没頭の世界へ連れて行ってくれるでしょう。",
-      "zh": "灵感不是用来等待的，而是坐在固定的位置、在固定的时间里将其召唤出来的。起初，哪怕每天只在书桌前坐上15分钟，也请不断重复固定的触发动作。大脑会记住那种感觉，不久后便会自动带您进入专注的世界。",
-      "es": "La inspiración no se espera; se convoca sentándose en un lugar y momento determinados. Comience sentándose en su escritorio cada día solo 15 minutos, repitiendo el activador. El cerebro recordará ese entorno y pronto le guiará a concentrarse de forma automática.",
-      "fr": "L'inspiration ne s'attend pas ; elle se convoque en s'asseyant à une place et une heure précises. Commencez par vous installer à votre bureau chaque jour pendant 15 minutes, en répétant le signal. Le cerveau mémorisera ce cadre et vous guidera bientôt vers la concentration.",
-      "de": "Inspiration ist nichts, worauf man wartet; man ruft sie herbei, indem man sich an einen bestimmten Ort zu einer bestimmten Zeit setzt. Sitzen Sie jeden Tag nur 15 Minuten am Schreibtisch und wiederholen Sie den Reiz. Das Gehirn merkt sich diese Einstellung und führt Sie bald automatisch zum Fokus.",
-      "pt": "A inspiração não se espera; convoca-se sentando-se num lugar e momento determinados. Comece sentando-se à secretária todos os dias apenas 15 minutos, repetindo o ativador. O cérebro lembrará esse ambiente e em breve o guiará para focar de forma automática.",
-      "id": "Inspirasi tidak ditunggu; ia dipanggil dengan duduk di tempat dan waktu yang ditentukan. Mulailah dengan duduk di meja Anda setiap hari selama 15 menit saja, ulangi pemicu yang sama. Otak akan mengingat pengaturan sensorik tersebut dan segera membimbing Anda fokus secara otomatis."
+      "ko": "영감은 기다리는 것이 아니라, 정해진 자리와 시간에 앉아 불러내는 것입니다. 처음에는 매일 책상에 앉아 15분이라도 정해진 트리거를 반복해 보세요. 뇌는 그 감각을 기억하고, 머지않아 자동으로 당신을 몰입의 세계로 이끌어 줄 것입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "외부 방해가 완전히 차단된 고정 책상 지정",
-          "en": "Designating a Fixed Desk Free of External Distractions",
-          "ja": "外部の邪魔が完全に遮断された固定デスクの指定",
-          "zh": "设定完全杜绝外部干扰的固定书桌",
-          "es": "Designar un Escritorio Fijo sin Distracciones Externas",
-          "fr": "Désigner un Bureau Fixe sans Distractions Externes",
-          "de": "Zuweisen eines festen Schreibtischs ohne Ablenkungen von außen",
-          "pt": "Designar uma Secretária Fixa Sem Distrações Externas",
-          "id": "Tentukan Meja Kerja Tetap yang Bebas Gangguan Luar"
+          "ko": "외부 방해가 완전히 차단된 고정 책상 지정"
         },
         "text": {
-          "ko": "의지력 배터리가 가장 가득 차 있는 오전 시간대(예: 아침 8시 정각)에 외부 방해가 완전히 차단되는 나만의 조용하고 고정된 책상 공간을 지정합니다. 매번 다른 곳에서 공부하거나 일하는 것은 뇌의 의지력을 추가로 소모시킵니다.",
-          "en": "Designate a quiet, fixed desk space where external distractions are completely blocked during the morning (e.g., exactly at 8 AM) when your willpower battery is fullest. Studying or working in a different place each time drains additional willpower.",
-          "ja": "意志力バッテリーが最も満たされている午前中の時間帯（例：朝8時ちょうど）に、外部の邪魔が完全に遮断される、自分だけの静かで固定されたデスクスペースを指定します。毎回異なる場所で勉強したり仕事をしたりすることは、脳の意志力を追加で消費させます。",
-          "zh": "在意志力电池最充足的上午时间段（例如：早晨8点整），设定一个完全杜绝外部干扰的、属于自己的安静且固定的书桌空间。每次在不同的地方学习或工作会额外消耗大脑的意志力。",
-          "es": "Designe un escritorio fijo y silencioso donde se bloqueen las distracciones externas por la mañana (p. ej., a las 8 AM) cuando su fuerza de voluntad está al máximo. Estudiar o trabajar en lugares diferentes cada vez consume más energía.",
-          "fr": "Désignez un bureau fixe et calme où les distractions externes sont bloquées le matin (ex. à 8 h pile) quand votre volonté est au maximum. Étudier ou travailler dans un endroit différent à chaque fois consomme de la volonté supplémentaire.",
-          "de": "Weisen Sie sich einen ruhigen, festen Schreibtisch zu, an dem Ablenkungen am Morgen (z. B. um 8 Uhr) ausgeschlossen sind, wenn Ihre Willenskraft am größten ist. Jedes Mal an einem anderen Ort zu arbeiten, verbraucht zusätzliche Willenskraft.",
-          "pt": "Designe uma secretária fixa e silenciosa onde as distrações externas sejam bloqueadas de manhã (por exemplo, às 8h) quando a sua força de vontade está no máximo. Estudar ou trabalhar em locais diferentes de cada vez consome mais energia.",
-          "id": "Tentukan ruang meja kerja yang tenang dan tetap di mana gangguan luar diblokir sepenuhnya di pagi hari (misalnya tepat jam 8 pagi) saat daya pikir Anda paling penuh. Bekerja di tempat berbeda setiap kali akan menguras daya pikir tambahan."
+          "ko": "의지력 배터리가 가장 가득 차 있는 오전 시간대(예: 아침 8시 정각)에 외부 방해가 완전히 차단되는 나만의 조용하고 고정된 책상 공간을 지정합니다. 매번 다른 곳에서 공부하거나 일하는 것은 뇌의 의지력을 추가로 소모시킵니다."
         }
       },
       {
         "name": {
-          "ko": "신체적·감각적 트리거의 기계적 반복",
-          "en": "Mechanical Repetition of Physical and Sensory Triggers",
-          "ja": "身体的・感覚的トリガーの機械的反復",
-          "zh": "身体及感觉触发机制的机械化重复",
-          "es": "Repetición Mecánica de Activadores Físicos y Sensoriales",
-          "fr": "Répétition Mécanique de Déclencheurs Physiques et Sensoriels",
-          "de": "Mechanische Wiederholung physischer und sensorischer Trigger",
-          "pt": "Repetição Mecânica de Ativadores Físicos e Sensoriais",
-          "id": "Pengulangan Mekanis dari Pemicu Fisik dan Sensorik"
+          "ko": "신체적·감각적 트리거의 기계적 반복"
         },
         "text": {
-          "ko": "의식적으로 집중을 결심하는 대신, 자리에 앉아 비타민제를 복용하거나 일정한 음악(예: 헤드폰으로 하드록 듣기)을 재생하는 등 신체적이고 감각적인 트리거 행동을 매일 기계적으로 반복합니다. 뇌는 이 루틴을 감지하여 자동으로 몰입을 개시합니다.",
-          "en": "Instead of consciously forcing focus, mechanically repeat physical and sensory trigger actions daily: sitting down, taking a vitamin, or playing set music (e.g., listening to hard rock on headphones). The brain senses this routine and starts deep focus automatically.",
-          "ja": "意識的に集中を決意する代わりに、席に座ってビタミン剤を飲んだり、一定の音楽（例：ヘッドホンでハードロックを流す）を聞いたりするなど、身体的かつ感覚的なトリガー動作を毎日機械的に繰り返します。脳はこのルーティンを感知して自動的に没頭を開始します。",
-          "zh": "与其有意识地决定去集中注意力，不如每天机械地重复身体和感觉上的触发动作，例如坐在位子上服用维生素、播放固定音乐（如戴着耳机听重金属摇滚）等。大脑会感知到这一惯例并自动开始投入工作。",
-          "es": "En lugar de obligarse a concentrarse, repita de forma mecánica acciones físicas y sensoriales a diario: sentarse, tomar una vitamina o poner música (como escuchar rock duro con auriculares). El cerebro detecta la rutina e inicia el enfoque.",
-          "fr": "Plutôt que de vous forcer à vous concentrer, répétez machinalement des actions physiques et sensorielles : s'asseoir, prendre une vitamine ou lancer une musique fixe (ex. du hard rock au casque). Le cerveau détecte la routine et lance la concentration.",
-          "de": "Statt sich zum Fokus zu zwingen, wiederholen Sie täglich mechanisch physische und sensorische Trigger: Hinsetzen, ein Vitamin nehmen oder Musik abspielen (z. B. Hard Rock über Kopfhörer). Das Gehirn nimmt diese Routine wahr und startet den Fokus.",
-          "pt": "Em vez de se forçar a concentrar-se, repita mecanicamente ações físicas e sensoriais diariamente: sentar-se, tomar uma vitamina ou colocar música (como ouvir rock pesado com auscultadores). O cérebro deteta a rotina e inicia o foco.",
-          "id": "Alih-alih memaksa diri untuk fokus secara sadar, ulangi tindakan pemicu fisik dan sensorik secara mekanis setiap hari: duduk, minum vitamin, atau memutar musik khusus (misal mendengarkan hard rock di headphone). Otak mendeteksi ini dan mulai fokus otomatis."
+          "ko": "의식적으로 집중을 결심하는 대신, 자리에 앉아 비타민제를 복용하거나 일정한 음악(예: 헤드폰으로 하드록 듣기)을 재생하는 등 신체적이고 감각적인 트리거 행동을 매일 기계적으로 반복합니다. 뇌는 이 루틴을 감지하여 자동으로 몰입을 개시합니다."
         }
       },
       {
         "name": {
-          "ko": "물리적인 최소 생산 목표의 엄격한 유지",
-          "en": "Strict Maintenance of a Physical Minimum Production Target",
-          "ja": "物理的な最低生産目標の厳格な維持",
-          "zh": "严格遵守物理层面的最低产出目标",
-          "es": "Mantenimiento Estricto de un Objetivo Físico Mínimo de Producción",
-          "fr": "Respect Strict d'un Objectif Minimum de Production Physique",
-          "de": "Strikte Einhaltung eines physischen Mindestproduktionsziels",
-          "pt": "Manutenção Estrita de uma Meta Física Mínima de Produção",
-          "id": "Pertahankan Batas Target Produksi Fisik Minimum Secara Ketat"
+          "ko": "물리적인 최소 생산 목표의 엄격한 유지"
         },
         "text": {
-          "ko": "스티븐 킹이 매일 2,000단어를 쓸 때까지 결코 책상에서 일어나지 않았듯, 자신만의 하루 최소 생산 한계선(예: 문서 1장 작성 등)을 엄격히 지정합니다. 기분과 상관없이 물리적 결과물을 낼 때까지 자리를 지키며 영감을 길들이는 훈련을 지속합니다.",
-          "en": "Like Stephen King never leaving his desk until writing 2,000 words daily, strictly set your own minimum production limit (e.g., writing 1 page). Stay at your desk until the physical output is produced regardless of mood, training to tame inspiration.",
-          "ja": "スティーブン・キングが毎日2,000語を書くまで決して机から離れなかったように、自分だけの1日の最低生産制限値（例：文書1枚作成など）を厳格に指定します。気分に関係なく、物理的な成果物を出すまで机にかじりつき、インスピレーションを飼い慣らす訓練を継続します。",
-          "zh": "就像斯蒂芬·金每天不写满2000字决不起身离开书桌一样，请严格设定自己每天的最低产出底线（例如：撰写1页文档等）。不管心情如何，坚守座位直到生产出物理成果，以此持续进行驯服灵感的训练。",
-          "es": "Como Stephen King, que nunca dejaba su mesa sin escribir 2.000 palabras al día, establezca un límite de producción mínimo (p. ej., escribir 1 página). Quédese en su mesa hasta lograrlo sin importar su estado de ánimo, domando la inspiración.",
-          "fr": "Comme Stephen King qui ne quittait jamais sa table avant d'avoir produit 2 000 mots, fixez-vous un objectif de production minimal (ex. rédiger 1 page). Restez assis jusqu'à ce que ce soit fait, quel que soit votre état d'esprit, pour dompter l'inspiration.",
-          "de": "Wie Stephen King, der seinen Tisch nie verließ, bevor er 2.000 Wörter geschrieben hatte, sollten Sie sich ein Mindestziel setzen (z. B. 1 Seite schreiben). Bleiben Sie ungeachtet Ihrer Stimmung am Tisch, bis das Ziel erreicht ist, um die Inspiration zu zähmen.",
-          "pt": "Como Stephen King, que nunca deixava a mesa sem escrever 2.000 palavras por dia, estabeleça um limite de produção mínimo (por exemplo, escrever 1 página). Fique na mesa até conseguir, independentemente do seu estado de espírito, domando a inspiração.",
-          "id": "Seperti Stephen King yang tidak meninggalkan mejanya sebelum menulis 2.000 kata setiap hari, tetapkan batas produksi minimum harian Anda (misal menulis 1 halaman). Tetaplah di meja Anda sampai output fisik tersebut selesai."
+          "ko": "스티븐 킹이 매일 2,000단어를 쓸 때까지 결코 책상에서 일어나지 않았듯, 자신만의 하루 최소 생산 한계선(예: 문서 1장 작성 등)을 엄격히 지정합니다. 기분과 상관없이 물리적 결과물을 낼 때까지 자리를 지키며 영감을 길들이는 훈련을 지속합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "스티븐 킹은 왜 매일 2,000단어를 썼나요?",
-          "en": "Why did Stephen King write 2,000 words every day?",
-          "ja": "スティーブン・キングはなぜ毎日2,000語を書いたのですか？",
-          "zh": "斯蒂芬·金为什么要每天写作2000字？",
-          "es": "¿Por qué Stephen King escribía 2.000 palabras al día?",
-          "fr": "Pourquoi Stephen King écrivait-il 2 000 mots par jour ?",
-          "de": "Warum schrieb Stephen King jeden Tag 2.000 Wörter?",
-          "pt": "Porque é que Stephen King escrevia 2.000 palavras por dia?",
-          "id": "Mengapa Stephen King menulis 2.000 kata setiap hari?"
+          "ko": "스티븐 킹은 왜 매일 2,000단어를 썼나요?"
         },
         "answer": {
-          "ko": "기분에 의존하지 않고 매일 기계적으로 창작물을 쏟아낼 수 있도록, 감각 트리거와 물리적인 생산 하한선을 활용해 영감이 머무르는 시간을 통제하고 습관화하기 위함이었습니다.",
-          "en": "To avoid relying on mood and mechanically output creative work daily, utilizing sensory triggers and physical minimum limits to control and habituate the time inspiration stays.",
-          "ja": "気分に依存せず毎日機械的に創作物を生み出せるよう、感覚トリガーと物理的な生産下限線を活用して、インスピレーションが留まる時間をコントロールし習慣化するためでした。",
-          "zh": "为了不依赖情绪、每天机械地输出创意成果，他通过利用感觉触发器和物理产出底线，以此控制并习惯化灵感停留的时间。",
-          "es": "Para no depender del estado de ánimo y producir obras de forma mecánica a diario, utilizando activadores sensoriales y límites de producción mínimos para controlar y habituar el tiempo que dura la inspiración.",
-          "fr": "Pour ne pas dépendre de son humeur et produire régulièrement de manière mécanique, en utilisant des déclencheurs sensoriels and des limites de production minimales afin de contrôler et de ritualiser le temps d'inspiration.",
-          "de": "Um sich nicht auf seine Stimmung verlassen zu müssen und täglich mechanisch kreativ zu sein. Er nutzte sensorische Reize und Mindestgrenzen, um die Zeit, in der die Inspiration anhält, zu steuern und zur Gewohnheit zu machen.",
-          "pt": "Para não depender do seu estado de espírito e produzir obras de forma mecânica diariamente, utilizando ativadores sensoriais e limites de produção mínimos para controlar e habituar o tempo em que a inspiração dura.",
-          "id": "Agar tidak bergantung pada suasana hati dan mekanis menghasilkan karya kreatif setiap hari, ia menggunakan pemicu sensorik dan batas minimum fisik untuk mengendalikan serta merutinkan waktu bertahannya inspirasi."
+          "ko": "기분에 의존하지 않고 매일 기계적으로 창작물을 쏟아낼 수 있도록, 감각 트리거와 물리적인 생산 하한선을 활용해 영감이 머무르는 시간을 통제하고 습관화하기 위함이었습니다."
         }
       }
-    ],
-    "pubDate": "2026-05-18",
-    "updatedDate": "2026-05-18"
+    ]
   }
 }

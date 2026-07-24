@@ -15,24 +15,23 @@ faqs:
   - question: "Bagaimana cara mengendalikan bau musky alami ferret?"
     answer: "Ferret mengeluarkan aroma musk dari kelenjar kulit. Mandi yang terlalu sering mengeringkan kulit mereka, memicu produksi sebum lebih banyak and memperburuk bau. Batasi mandi sebulan sekali dan cuci alas tidur mereka setiap minggu."
 ---
-
-Dengan tubuh panjang yang lentur dan mata berbinar, Ferret Marshall adalah hewan peliharaan sosial yang berinteraksi erat dengan manusia. Mereka membutuhkan waktu bermain harian di luar kandang untuk memuaskan rasa ingin tahu dan mencegah depresi. Pemeriksaan telinga secara rutin juga penting untuk menghindari tungau. Hari ini di PetSelf, kami membahas tarian perang ferret, suara dooking, and rutin 3 langkah untuk petualangan harian mereka yang aman.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Bukti Dokter Hewan & Perilaku
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>Standar American Ferret Association and Panduan Veteriner Hewan Eksotis</strong>.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Ferret Marshall (Marshall Ferret) Profil Utama
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Rata-rata Umur</span><span class="font-bold text-slate-800 dark:text-slate-200">6 ~ 10 tahun</span></div>
@@ -43,7 +42,7 @@ Dengan tubuh panjang yang lentur dan mata berbinar, Ferret Marshall adalah hewan
 
 ## 1. Komunikasi Ferret Marshall: Tarian Perang dan Dooking
 
-Ferret Marshall menunjukkan kegembiraan dengan menggembungkan ekor, melengkungkan punggung, dan memantul ke samping—perilaku yang dikenal sebagai 'Tarian Perang Ferret (Weasel War Dance)'. Mereka juga mengeluarkan suara ketukan lembut yang disebut 'Dooking' saat menjelajah dengan penuh semangat. Memahami sinyal ini membantu memaksimalkan pengalaman bermain mereka.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +76,7 @@ Ferret Marshall menunjukkan kegembiraan dengan menggembungkan ekor, melengkungka
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Diet Karnivora Tinggi Protein & Pengisian Air</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Ferret memiliki saluran pencernaan yang pendek. Isi ulang kibble khusus ferret berbahan daging, bebas biji-bijian, and periksa botol minum mereka.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -87,7 +86,7 @@ Ferret Marshall menunjukkan kegembiraan dengan menggembungkan ekor, melengkungka
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Waktu Bermain Aman di Luar Kandang Minimal 4 Jam</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Cegah depresi dengan melepaskan mereka di ruangan. Pastikan semua celah kecil di bawah furnitur telah disegel.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -97,7 +96,7 @@ Ferret Marshall menunjukkan kegembiraan dengan menggembungkan ekor, melengkungka
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Pembersihan Tempat Tidur Gantung & Pemeriksaan Telinga</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Ferret tidak bisa berkeringat. Cuci hammock bulu mereka, and periksa telinga untuk mendeteksi kotoran tungau berwarna cokelat tua.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -106,7 +105,7 @@ Ferret Marshall menunjukkan kegembiraan dengan menggembungkan ekor, melengkungka
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </div>
 </div>
@@ -124,7 +123,7 @@ Ferret Marshall menunjukkan kegembiraan dengan menggembungkan ekor, melengkungka
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ini dikenal sebagai 'Tidur mati ferret (Ferret Dead Sleep)'. Mereka tidur sangat nyenyak hingga tampak lemas. Jika tubuh mereka hangat and napasnya stabil, biarkan mereka tidur; itu adalah perilaku normal.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </details>
 
@@ -134,7 +133,7 @@ Ferret Marshall menunjukkan kegembiraan dengan menggembungkan ekor, melengkungka
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ferret mengeluarkan aroma musk dari kelenjar kulit. Mandi yang terlalu sering mengeringkan kulit mereka, memicu produksi sebum lebih banyak and memperburuk bau. Batasi mandi sebulan sekali dan cuci alas tidur mereka setiap minggu.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </details>
 </div>

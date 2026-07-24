@@ -23,16 +23,16 @@ faqs:
     answer: "Partes danificadas aceleram a deterioração. Corte-as de imediato e consuma primeiro para evitar que estraguem o resto do lote."
 ---
 
-Você já comprou cenouras e viu que elas murcharam em poucos dias? Hoje, o FreshSnap compartilha dicas de conservação comprovadas.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Autoridade Científica Verificada
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este guia de conservação segue as diretrizes oficiais de: <strong>RDA & USDA</strong>.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
@@ -41,7 +41,7 @@ Você já comprou cenouras e viu que elas murcharam em poucos dias? Hoje, o Fres
 
 ## 1. Por que armazenar assim? Fatos científicos
 
-Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 ---
 
@@ -53,7 +53,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Secar umidade da superfície 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    As cenouras são sensíveis à umidade. Seque-as bem à sombra antes de guardar.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -63,7 +63,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Embrulhar individualmente 📰</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Embrulhe cada cenoura em papel-toalha para regular a umidade.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -73,7 +73,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guardar verticalmente ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Guarde-as de pé na gaveta de legumes para manter o frescor.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -86,7 +86,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Isole as cenouras de frutas que produzem etileno ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Armazenar cenouras perto de maçãs ou peras altera seus componentes, causando um sabor amargo.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
@@ -96,7 +96,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Corte as folhas da cenoura antes de guardar 🥕</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Se as folhas verdes forem deixadas, elas extrairão umidade e nutrientes da raiz, ressecando-a rapidamente.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
@@ -111,7 +111,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Não, lavar antes de guardar retém humidade, o que estimula fungos. Limpe a sujeira a seco e lave apenas antes de comer.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 
@@ -121,7 +121,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Partes danificadas aceleram a deterioração. Corte-as de imediato e consuma primeiro para evitar que estraguem o resto do lote.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 </div>

@@ -1,19 +1,27 @@
 ---
-formatVersion: 4
 title: "클레오파트라의 '다국어 학습': 통역관 없이 세상을 주도한 지적 대화 습관"
 description: "라틴어, 에티오피아어 등 9개 언어를 통역 없이 완벽히 구사했던 이집트의 여왕 클레오파트라. 뇌의 인지 유연성을 높이는 다국어 학습의 과학을 분석합니다."
-pubDate: "2026-03-03"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["위인 습관", "클레오파트라", "언어 공부", "인지 유연성", "뇌 가소성"]
-heroImage: "/images/blog/cleopatra_multilingual_study.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/cleopatra_multilingual_study.png"
 app: "buildself"
-authority: "플루타르코스 안토니우스 전기 및 마이클 그랜트의 클레오파트라 연구"
-updatedDate: "2026-03-03"
+formatVersion: 4
+authority: "Cleopatra Multilingual Study 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+steps:
+  - name: "실전 외국어 교재 및 매일 시간 확보"
+    text: "내가 일이나 취미에서 활용하고 싶은 실전 외국어 자료(비즈니스 기사, 영상 초안 등)를 선택하고, 오후 시간대 30분~1시간을 단단히 차단합니다."
+  - name: "15분 소리 내어 낭독"
+    text: "선택한 문장들을 눈으로만 보지 않고, 낭독자나 네이티브의 억양을 모방하여 큰 소리로 직접 입을 움직여 15분간 읽습니다. 브로카 영역과 모터 피질을 자극하는 행동입니다."
+  - name: "15분 번역기 없는 실전 작문"
+    text: "오늘 읽은 표현을 바탕으로 내 일상이나 비즈니스 메일 구문을 스스로 생각해서 손으로 직접 5~6문장을 영작하고 복습합니다. 뇌 회로를 최종 활성화하고 고정하는 작용입니다."
 faqs:
   - question: "동영상 강의를 가만히 보고만 있는 수동적 인풋은 언어 뇌 영역의 신경 밀도를 높이지 못하나요?"
     answer: "그렇습니다. 단순히 보고 듣기만 하는 행동은 수동적 인지 영역만 자극할 뿐입니다. 클레오파트라처럼 직접 낭독을 통해 성대와 구강 근육을 자극하고 적극적으로 스스로 문장을 구성할 때만 뇌세포의 시냅스 연결망이 활성화되어 뇌 가소성을 크게 높입니다."
   - question: "동시에 두 개의 언어를 공부하는 것이 인지 과부하를 주지는 않나요?"
     answer: "초보 단계에서는 하나의 언어에 먼저 적응하는 것이 바람직하지만, 어느 정도 기틀이 잡힌 상태라면 두 언어의 문법 구조를 번갈아 바꾸는 훈련 자체가 전전두엽 피질의 인지 제어 능력을 비약적으로 발달시켜 줍니다."
+
 ---
 
 "그녀의 언어는 음정이 잘 조율된 악기처럼 어떤 언어로든 완벽하게 대화할 준비가 되어 있었다." 👑
@@ -28,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 플루타르코스 사료 기록 <strong>&lt;Life of Antony&gt;</strong> 및 다국어 스위칭 학습이 대뇌 피질 회백질 밀도 증가와 뇌 기능 인지 제어 유연성에 미치는 임상 신경과학 보고서를 바탕으로 설계되었습니다.
+      본 콘텐츠는 <strong>Cleopatra Multilingual Study 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 cleopatra-multilingual-study 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 뇌의 연결 밀도를 높이는 외국어 학습의 힘
+## 뇌의 연결 밀도를 높이는 외국어 학습의 힘
 
 외국어를 말하고 번역하는 과정은 언어 수용을 담당하는 베르니케 영역과 언어 생성을 담당하는 브로카 영역을 번갈아 작동하게 만듭니다. 또한 두 개 이상의 서로 다른 문법적 뼈대를 끊임없이 전환하는 뇌 훈련은 전두엽의 인지 조절 네트워크를 고도로 자극합니다.
 
@@ -46,9 +54,9 @@ faqs:
 
 ---
 
-## 2. 현대인을 위한 클레오파트라 다국어 뇌 훈련 루틴 3단계
+## 소리 내어 말하고 직접 쓰는 것이 중요합니다
 
-글로벌 감각을 깨우고 인지 제어 능력을 비약적으로 격상시키는 하루 30분 언어 습관 가이드입니다.
+동영상 강의를 가만히 보고만 있는 수동적 인풋은 언어 뇌 영역의 신경 밀도를 높이지 못합니다. 클레오파트라처럼 낭독을 통해 구강 근육을 자극하고 적극적으로 작문을 시도할 때만 뇌의 가소성이 자극되어 진짜 언어 지식으로 전환됩니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -76,32 +84,17 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">15분 번역기 없는 실전 작문</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    오늘 읽은 표현을 바탕으로 내 일상이나 비즈니스 메일 구문을 스스로 생각해서 손으로 직접 -문장을 영작하고 복습합니다. 뇌 회로를 최종 활성화하고 고정하는 작용입니다.
+    오늘 읽은 표현을 바탕으로 내 일상이나 비즈니스 메일 구문을 스스로 생각해서 손으로 직접 5~6문장을 영작하고 복습합니다. 뇌 회로를 최종 활성화하고 고정하는 작용입니다.
   </p>
 </div>
-
----
-
-## 3. 성공적인 루틴을 위한 뇌과학적 한마디
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">소리 내어 말하고 직접 쓰는 것이 중요합니다</strong>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      동영상 강의를 가만히 보고만 있는 수동적 인풋은 언어 뇌 영역의 신경 밀도를 높이지 못합니다. 클레오파트라처럼 낭독을 통해 구강 근육을 자극하고 적극적으로 작문을 시도할 때만 뇌의 가소성이 자극되어 진짜 언어 지식으로 전환됩니다.
-    </p>
-  </div>
-</div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>동영상 강의를 가만히 보고만 있는 수동적 인풋은 언어 뇌 영역의 신경 밀도를 높이지 못하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -109,9 +102,9 @@ faqs:
       그렇습니다. 단순히 보고 듣기만 하는 행동은 수동적 인지 영역만 자극할 뿐입니다. 클레오파트라처럼 직접 낭독을 통해 성대와 구강 근육을 자극하고 적극적으로 스스로 문장을 구성할 때만 뇌세포의 시냅스 연결망이 활성화되어 뇌 가소성을 크게 높입니다.
     </p>
   </details>
-
+  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>동시에 두 개의 언어를 공부하는 것이 인지 과부하를 주지는 않나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

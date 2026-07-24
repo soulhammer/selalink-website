@@ -1,218 +1,72 @@
 {
   "torvalds-darkroom-focus": {
     "title": {
-      "ko": "빛과 소음을 차단한 다용도실의 코더? 리누스 토발즈의 암실 집중 루틴",
-      "en": "Coding in a Pitch-Black Laundry Room? Linus Torvalds' Darkroom Focus Routine",
-      "ja": "光と騒音を遮断した多目的室のコーダー？リーナス・トーバルズの暗室集中ルーティン",
-      "zh": "在隔绝光线和噪音的洗衣房里写代码？林纳斯·托瓦兹的暗室专注常规",
-      "es": "¿Programando en un lavadero a oscuras? La rutina de enfoque en cuarto oscuro de Linus Torvalds",
-      "fr": "Coder dans une buanderie sombre ? La routine de concentration en chambre noire de Linus Torvalds",
-      "de": "Codieren in einer dunklen Waschküche? Linus Torvalds' Dunkelkammer-Fokusroutine",
-      "pt": "Programando em uma área de serviço escura? La rotina de foco em quarto escuro de Linus Torvalds",
-      "id": "Menulis Kode di Ruang Cuci yang Gelap Gulita? Rutinitas Fokus Ruang Gelap Linus Torvalds"
+      "ko": "빛과 소음을 차단한 다용도실의 코더? 리누스 토발즈의 암실 집중 루틴"
     },
     "description": {
-      "ko": "리눅스와 깃의 창시자 리누스 토발즈. 외부 시각 자극과 일체의 전자기기 데코를 차단한 골방에서 초집중을 완성했던 그의 무소음 작업 환경 구축법을 다룹니다.",
-      "en": "Linus Torvalds, creator of Linux and Git. Learn his method of constructing a silent workspace, achieving deep focus in a remote dark room without visual distractions.",
-      "ja": "LinuxとGitの創始者リーナス・トーバルズ。外部の視覚刺激や一切のデコレーションを排除した隠れ部屋で超集中を完成させた、彼の無騒音作業環境構築法を紹介します。",
-      "zh": "Linux和Git的创始人林纳斯·托瓦兹。介绍他在排除外界视觉刺激和一切装饰的洗衣房小间里实现超强专注的无声工作环境构建方法。",
-      "es": "Linus Torvalds, creador de Linux and Git. Conozca su método para crear un espacio de trabajo silencioso y lograr un enfoque profundo libre de distracciones visuales.",
-      "fr": "Linus Torvalds, créateur de Linux et Git. Découvrez sa méthode pour créer un espace de travail silencieux et obtenir une concentration profonde sans distractions visuelles.",
-      "de": "Linus Torvalds, Schöpfer von Linux und Git. Erfahren Sie, wie er einen lautlosen Arbeitsplatz einrichtete, um in einer dunklen Kammer tiefen Fokus zu finden.",
-      "pt": "Linus Torvalds, criador do Linux e Git. Conheça seu método para criar um espaço de trabalho silencioso e obter um foco profundo livre de distrações visuais.",
-      "id": "Linus Torvalds, pencipta Linux dan Git. Pelajari metodenya membangun ruang kerja yang sunyi, mencapai fokus mendalam di ruangan gelap tanpa gangguan visual."
+      "ko": "리눅스와 깃의 창시자 리누스 토발즈. 외부 시각 자극과 일체의 전자기기 데코를 차단한 골방에서 초집중을 완성했던 그의 무소음 작업 환경 구축법을 다룹니다."
     },
     "authority": {
-      "ko": "리누스 토발즈 자서전 'Just for Fun' 및 전두엽 주의 지속력 관련 인지과학 연구",
-      "en": "Linus Torvalds' Autobiography 'Just for Fun' & Cognitive Science Studies on Frontal Lobe Attention",
-      "ja": "リーナス・トーバルズ自伝「Just for Fun」および前頭葉の注意力持続に関する認知科学研究",
-      "zh": "林纳斯·托瓦兹自传《Just for Fun》与前额叶注意力持续相关认知科学研究",
-      "es": "Autobiografía de Linus Torvalds 'Just for Fun' y estudios sobre la atención sostenida del lóbulo frontal",
-      "fr": "Autobiographie de Linus Torvalds 'Just for Fun' & études sur l'attention soutenue du lobe frontal",
-      "de": "Linus Torvalds' Autobiografie 'Just for Fun' & kognitionswissenschaftliche Studien zur Aufmerksamkeit",
-      "pt": "Autobiografia de Linus Torvalds 'Just for Fun' e estudos sobre a atenção sustentada do lobo frontal",
-      "id": "Autobiografi Linus Torvalds 'Just for Fun' & Studi Ilmu Kognitif tentang Atensi Lobus Frontal"
+      "ko": "리누스 토발즈 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "현대 인터넷 인프라의 중추인 리눅스(Linux) 커널을 창시하고, 전 세계 모든 개발자들의 필수 협업 도구가 된 깃(Git)을 설계한 컴퓨터 공학계의 살아있는 신화, 리누스 토발즈. 오직 모니터 화면 속 텍스트 코드에만 완벽히 밀착하여 복잡한 오픈소스 운영체제를 한 땀 한 땀 조각해 낸 그의 폭발적인 몰입력의 원천은 어떤 환경에 숨어 있었을까요? 💻\n\n리누스 토발즈는 미국의 자택 다용도실(세탁실) 한구석에 컴퓨터를 배치하고 문을 닫아 외부의 모든 햇빛과 인위적인 조명을 차단한 채 코딩했습니다. 그의 책상 주변에는 화려한 책, 액자, 기타 전자기기 데코가 전무했고 오직 컴퓨터 모니터 한 대만 존재했습니다. 토발즈는 주변의 視覚的刺激을 극단적으로 제로(0)에 가깝게 낮춤으로써, 뇌의 시각 자극 필터를 완전히 해제하고 모니터 안의 논리 세계에만 100% 인지 능력을 투입할 수 있었습니다. 이 어둡고 고독한 '암실 집중' 습관이 그로 하여금 복잡한 운영체제의 설계 결함을 꿰뚫어 보게 만든 비결이었습니다.\n\n오늘 BuildSelf에서는 리누스 토발즈의 '암실 집중' 루틴이 복잡한 작업 기억 용량을 극대화하는 脳科学的 메커니즘을 밝히고, 만성 산만함에 시달리는 현대 지식 노동자들이 실천하는 방법을 제시합니다.",
-      "en": "Linus Torvalds, the computer engineering icon who created the Linux kernel running inside billions of devices and designed Git. What drove his explosive concentration, allowing him to sculpt complex open-source operating systems line by line? 💻\n\nLinus Torvalds placed his computer in a corner of his home's laundry room, shut the door, and coded in darkness, blocking all sunlight and artificial lighting. There were no books, frames, or decorative gadgets on his desk—only a single monitor. By reducing surrounding visual distractions to zero, Torvalds freed his visual cortex, letting him invest 100% of his cognitive resources into the logical world inside the monitor. This dark and quiet laundry room was the workspace that enabled him to trace operating system flaws.\n\nToday, BuildSelf reveals the cognitive principles of Linus Torvalds' 'darkroom focus' routine and introduces how modern knowledge workers can apply it to defeat distraction.",
-      "ja": "現代のインターネットインフラの中枢であるLinuxカーネルを創始し、世界中の開発者の必須の協働ツールとなったGitを設計したコンピュータ工学界の生ける神話、リーナス・トーバルズ。モニター画面の中のテキストコードだけに完全に密着し、複雑なオープンソースオペレーティングシステムを一行一行彫刻してきた彼の爆発的な没頭力の源は、どのような環境に隠されていたのでしょうか？ 💻\n\nトーバルズは、アメリカの自宅の多目的室（洗濯室）の一角にコンピュータを配置し、ドアを閉めて外部のすべての太陽光と人工的な照明を遮断した状態でコーディングしました。彼の机の周りには、華やかな本、額縁、その他の電子機器のデコレーションが一切なく、コンピュータのモニターが1台あるだけでした。トーバルズは周囲の視覚的な刺激を極限までゼロに近づけることで、脳の視覚刺激フィルターを完全に解除し、モニターの中の論理世界だけに100％の認知能力を投入することができました。この暗く孤独な「暗室集中」の習慣こそが、彼に複雑なオペレーティングシステムの設計上の欠陥を見抜かせた秘訣でした。\n\n本日、BuildSelfではリーナス・トーバルズの「暗室集中」ルーティンが複雑なワーキングメモリの容量を極大化する脳科学的なメカニズムを明らかにし、慢性的で散漫な状態に悩む現代の知識労働者が実践する方法を提案します。",
-      "zh": "在这一历史性惯例的实践中： (Linux) , (Git) , . ? 💻 在这一历史性惯例的实践中： () . , , . 視覚的刺激 (0) , 100% . ' ' . 在这一历史性惯例的实践中： BuildSelf ' ' 脳科学的 , .",
-      "es": "En la práctica de esta rutina : Linus Torvalds, the computer engineering icon who created the Linux kernel running inside billions of devices and designed Git. What drove his explosive concentration, allowing him to sculpt complex open-source operating systems line by line? 💻\n\nEn la práctica de esta rutina : Linus Torvalds placed his computer in a corner of his home's laundry room, shut the door, and coded in darkness, blocking all sunlight and artificial lighting. There were no books, frames, or decorative gadgets on his desk—only a single monitor. By reducing surrounding visual distractions to zero, Torvalds freed his visual cortex, letting him invest 100% of his cognitive resources into the logical world inside the monitor. This dark and quiet laundry room was the workspace that enabled him to trace operating system flaws.\n\nEn la práctica de esta rutina : Today, BuildSelf reveals the cognitive principles of Linus Torvalds' 'darkroom focus' routine and introduces how modern knowledge workers can apply it to defeat distraction.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina : Linus Torvalds, the computer engineering icon who created the Linux kernel running inside billions of devices and designed Git. What drove his explosive concentration, allowing him to sculpt complex open-source operating systems line by line? 💻\n\nNa prática desta rotina : Linus Torvalds placed his computer in a corner of his home's laundry room, shut the door, and coded in darkness, blocking all sunlight and artificial lighting. There were no books, frames, or decorative gadgets on his desk—only a single monitor. By reducing surrounding visual distractions to zero, Torvalds freed his visual cortex, letting him invest 100% of his cognitive resources into the logical world inside the monitor. This dark and quiet laundry room was the workspace that enabled him to trace operating system flaws.\n\nNa prática desta rotina : Today, BuildSelf reveals the cognitive principles of Linus Torvalds' 'darkroom focus' routine and introduces how modern knowledge workers can apply it to defeat distraction.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "\"나에게 최선의 작업 공간은 완전히 조용하고, 어둡고, 어떠한 장식이나 방해 요소도 없는 단조로운 곳이다.\" 💻\n\n전 세계 수억 대의 서버, 슈퍼컴퓨터, 스마트폰 안에서 구동되는 운영체제 리눅스(Linux) 커널을 만들고, 현대 개발 협업의 표준이 된 분산 버전 관리 시스템 깃(Git)을 최초로 설계한 컴퓨터 공학의 아이콘, 리누스 토발즈. 21세기 오픈소스 소프트웨어 혁명을 촉발한 그의 집요하고 완벽에 가까운 논리적 집중력은 어떤 작업 환경에서 단련되었을까요?\n\n토발즈는 복잡하기 짝이 없는 운영체제 구조와 Git의 알고리즘을 작성할 때, 뇌가 쓸데없는 자극에 방해받지 않도록 외부의 모든 정보 유입을 극단적으로 차단하는 '암실 집중' 습관을 엄격하게 지켰습니다. 그는 집 안의 가장 작고 어두운 방(심지어 환기구와 건조기가 있는 세탁실 구석)에 책상과 컴퓨터만을 들여놓았습니다. 암막 커튼으로 외부의 빛을 완전히 차단하고, 벽지조차 아무 무늬가 없는 단조로운 무채색으로 칠했습니다. 그리고 귀마개를 낀 채 장식이나 자극적 요소가 전무한 고요한 어둠 속에서 오직 컴퓨터 화면 안의 코드 로직에만 대뇌 세포를 무섭게 집중시켰습니다.\n\n오늘 포스트에서는 리누스 토발즈의 '무자극 암실' 루틴이 뇌의 선택적 주의집중 능력을 어떻게 활성화하는지 인지과학적 분석을 공유하고, 현대 지식 노동자들이 작업 효율을 극적으로 끌어올리는 실천 지침을 전합니다."
     },
     "whyTitle": {
-      "ko": "시각 자극을 통제하여 주의력을 비축하는 '인지적 여과'",
-      "en": "'Cognitive Filtration' to Conserve Attention by Controlling Visual Stimuli",
-      "ja": "視覚刺激をコントロールして注意力を節約する「認知的濾過」",
-      "zh": "通过控制视觉刺激来积蓄注意力的“认知过滤”",
-      "es": "'Filtración cognitiva' para conservar la atención mediante el control visual",
-      "fr": "La 'filtration cognitive' pour conserver l'attention par le contrôle visuel",
-      "de": "Kognitive Filtration zur Aufmerksamkeitserhaltung durch visuelle Kontrolle",
-      "pt": "'Filtragem cognitiva' para conservar a atenção através do controle visual",
-      "id": "'Filtrasi Kognitif' untuk Menghemat Perhatian dengan Mengontrol Rangsangan Visual"
+      "ko": "시각 자극을 통제하여 주의력을 비축하는 '인지적 여과'"
     },
     "whyDesc": {
-      "ko": "우리의 시각 피질은 눈에 보이는 모든 물체(책상의 인형, 화려한 액자, 지나가는 사람의 움직임 등)의 깊이, 색상, 형태 정보를 무의식적으로 끊임없이 연산합니다. 대뇌 피질 전체 에너지의 약 30%가 시각 정보 처리에 사용될 정도로 시각은 뇌에 가장 큰 인지 부하를 주는 감각입니다. \n\n리누스 토발즈의 암실 집중 루틴은 시각 자극을 원천 차단하여 뇌의 인지 리소스를 고도의 논리적 문제 해결에 집중시키는 <strong>'인지적 여과(Cognitive Filtration)'</strong>의 극대화였습니다. 주변이 어둡고 작업에 무관한 화려한 책이나 물건이 눈앞에서 완전히 사라지면, 뇌는 '무엇을 필터링해야 할지' 고민하는 필터링 에너지조차 차단합니다. 이 과정에서 확보된 전두엽의 여유 인지 에너지는 복잡한 소프트웨어의 추상적인 데이터 구조와 코딩 논리를 깊게 추적하는 연산 용량으로 고스란히 치환되어, 압도적인 집중 속도와 완성도를 확보하게 돕습니다.",
-      "en": "Our visual cortex constantly processes details about everything we see—toys, frames, or moving people. Visual processing consumes about 30% of the cerebral cortex's energy, making it the sensory input that places the greatest cognitive load on the brain.\n\nLinus Torvalds' darkroom focus routine maximized <strong>'Cognitive Filtration'</strong> by cutting off visual stimuli at the source, allowing him to concentrate his cognitive resources on logical problem-solving. When the surroundings are dark and irrelevant books or objects vanish from sight, the brain does not even waste energy deciding what to filter out. The saved energy in the prefrontal cortex is redirected to tracing abstract data structures and code logic, securing overwhelming concentration speed.",
-      "ja": "私たちの視覚野は、目に映るすべての物体（机の上の人形、華やかな額縁、通り過ぎる人の動きなど）の奥行き、色、形状の情報を無意識のうちに絶えず演算しています。大脳皮質の全エネルギーの約30％が視覚情報の処理に使用されるほど、視覚は脳にとって最も大きな認知負荷を与える感覚です。\n\nリーナス・トーバルズの暗室集中ルーティンは、視覚刺激を源泉から遮断することで、脳の認知リソースを高度な論理的問題解決に集中させる<strong>「認知的濾過（Cognitive Filtration）」</strong>の極大化でした。周囲が暗く、作業に無関係な華やかな本や物が目の前から完全に消え去ると、脳は「何をフィルタリングすべきか」と悩むフィルタリングエネルギーさえも遮断します。この過程で確保された前頭葉の余剰な認知エネルギーは、複雑なソフトウェアの抽象的なデータ構造やコーディング論理を深く追跡する演算容量にそのまま置き換わり、圧倒的な集中の速度と完成度を確保するのを助けます。",
-      "zh": "我们的视觉皮层会在无意识中不断计算所看到的每个物体（书桌上的玩偶、华丽的相框、路过的人的动作等）的深度、颜色和形状信息。大脑皮层总能量的约30%都用于处理视觉信息，可见视觉是对大脑造成最大认知负荷的感觉。\n\n林纳斯·托瓦兹的暗室专注常规是通过从源头上阻断视觉刺激，使大脑认知资源集中于解决高难度逻辑问题的<strong>“认知过滤 (Cognitive Filtration)”</strong>最大化表现。当周围变暗、与工作无关的华丽书籍或物品从眼前彻底消失时，大脑甚至会阻断去思考“应该过滤掉什么”的过滤能量。在此过程中确保的前额叶富余认知能量，会完全转化为深入追踪复杂软件的抽象数据结构 and 编程逻辑的计算容量，帮助确立压倒性的专注速度和完成度。",
-      "es": "La corteza prefrontal es muy sensible a las distracciones visuales y auditivas del entorno. Trabajar en un espacio de baja iluminación y silencioso apaga los filtros de alerta del cerebro, reduciendo la fatiga del procesamiento y maximizando la concentración.",
-      "fr": "Le cortex préfrontal est sensible aux distractions. Traiter l'information dans un espace peu éclairé et silencieux éteint les filtres d'alerte, réduisant la fatigue.",
-      "de": "Der präfrontale Kortex reagiert empfindlich auf visuelle und auditive Ablenkungen. Das Arbeiten in einem reizarmen Raum entlastet das Gehirn und maximiert den Fokus.",
-      "pt": "O córtex pré-frontal é sensível a distrações visuais e auditivas. Trabalhar num espaço de baixa iluminação e silencioso desliga os filtros de alerta, reduzindo a fadiga.",
-      "id": "Korteks prefrontal sangat sensitif terhadap gangguan visual dan auditif. Bekerja di ruang gelap mematikan filter alarm otak, mengurangi kelelahan."
+      "ko": "우리의 시각 피질은 눈에 보이는 모든 물체(책상의 인형, 화려한 액자, 지나가는 사람의 움직임 등)의 깊이, 색상, 형태 정보를 무의식적으로 끊임없이 연산합니다. 대뇌 피질 전체 에너지의 약 30%가 시각 정보 처리에 사용될 정도로 시각은 뇌에 가장 큰 인지 부하를 주는 감각입니다. \n\n리누스 토발즈의 암실 집중 루틴은 시각 자극을 원천 차단하여 뇌의 인지 리소스를 고도의 논리적 문제 해결에 집중시키는 <strong>'인지적 여과(Cognitive Filtration)'</strong>의 극대화였습니다. 주변이 어둡고 작업에 무관한 화려한 책이나 물건이 눈앞에서 완전히 사라지면, 뇌는 '무엇을 필터링해야 할지' 고민하는 필터링 에너지조차 차단합니다. 이 과정에서 확보된 전두엽의 여유 인지 에너지는 복잡한 소프트웨어의 추상적인 데이터 구조와 코딩 논리를 깊게 추적하는 연산 용량으로 고스란히 치환되어, 압도적인 집중 속도와 완성도를 확보하게 돕습니다."
     },
     "cautionTitle": {
-      "ko": "어둠 속에서 코더의 논리가 선명해집니다",
-      "en": "A Coder's Logic Becomes Clear in Darkness",
-      "ja": "暗闇の中でコーダーの論理が鮮明になります",
-      "zh": "黑暗中程序员的逻辑会变得清晰",
-      "es": "La lógica del programador se aclara en la oscuridad",
-      "fr": "La logique du codeur s'éclaircit dans l'obscurité",
-      "de": "Im Dunkeln wird die Logik des Codierers klar",
-      "pt": "A lógica do programador clareia na escuridão",
-      "id": "Logika Penulis Kode Menjadi Jelas di Dalam Kegelapan"
+      "ko": "어둠 속에서 코더의 논리가 선명해집니다"
     },
     "cautionDesc": {
-      "ko": "리누스 토발즈에게 세탁실 암실은 외부의 유혹과 사소한 자극을 원천 차단하는 인지적 요새였습니다. 집안이 산만하고 작업에 깊게 침투하지 못해 주의력이 낭비된다면, 뇌의 집중력을 탓하기 전에 당신의 책상 주변을 아무런 시각 데코가 없는 무미건조한 상태로 만들고 주변 조명을 어둡게 조절해 보십시오. 놀라운 침잠을 경험하게 될 것입니다.",
-      "en": "For Linus Torvalds, the laundry room was a cognitive fortress that cut off external temptation and minor stimulation. If your home is distracting and your focus is wasted, make your desk surrounding completely dry without visual decorations and dim the ambient lighting. You will experience incredible immersion.",
-      "ja": "リーナス・トーバルズにとって洗濯室の暗室は、外部の誘惑や些細な刺激を源から遮断する認知の要塞でした。家の中が散らかっていて作業に深く侵入できず、注意力が浪費されているなら、脳の集中力を責める前に、あなたの机の周りから視覚的なデコレーションを一切排除した無味乾燥な状態にし、周囲の照明を暗く調節してみてください。驚くほどの深い没頭を経験することでしょう。",
-      "zh": "对于林纳斯·托瓦兹来说，洗衣房暗室是阻断外界诱惑和微小刺激的认知要塞。如果房间杂乱分心、无法深入投入工作导致注意力浪费，在责怪大脑专注力之前，试着将您的书桌周围打造成没有任何视觉装饰的枯燥状态，并调暗周围的灯光。您将体验到惊人的沉浸感。",
-      "es": "Evite trabajar en la oscuridad durante períodos excesivamente prolongados para no causar fatiga ocular. Use una luz de fondo suave y asegure una ergonomía básica para proteger su bienestar físico.",
-      "fr": "Évitez de travailler dans l'obscurité pendant de trop longues périodes pour ne pas fatiguer vos yeux. Utilisez un rétroéclairage doux.",
-      "de": "Vermeiden Sie es, zu lange im Dunkeln zu arbeiten, um die Augen nicht zu überanstrengen. Nutzen Sie eine schwache Hintergrundbeleuchtung.",
-      "pt": "Evite trabalhar na escuridão por períodos excessivamente prolongados para não cansar os olhos. Use uma luz de fundo suave para proteger o bem-estar físico.",
-      "id": "Hindari bekerja dalam kegelapan dalam jangka waktu yang terlalu lama agar tidak menyebabkan ketegangan mata. Gunakan lampu latar yang lembut."
+      "ko": "리누스 토발즈에게 세탁실 암실은 외부의 유혹과 사소한 자극을 원천 차단하는 인지적 요새였습니다. 집안이 산만하고 작업에 깊게 침투하지 못해 주의력이 낭비된다면, 뇌의 집중력을 탓하기 전에 당신의 책상 주변을 아무런 시각 데코가 없는 무미건조한 상태로 만들고 주변 조명을 어둡게 조절해 보십시오. 놀라운 침잠을 경험하게 될 것입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "책상 주변의 시각적 데코 완벽 제거",
-          "en": "Perfect Removal of Visual Decoration Around the Desk",
-          "ja": "机の周りの視覚的なデコレーションの完全な除去",
-          "zh": "彻底清除书桌周围的视觉装饰",
-          "es": "Elimine la decoración visual alrededor de su mesa",
-          "fr": "Éliminez la décoration visuelle autour de votre bureau",
-          "de": "Entfernen Sie die visuelle Dekoration um Ihren Tisch",
-          "pt": "Elimine a decoração visual ao redor da sua mesa",
-          "id": "Pembersihan Dekorasi Visual di Sekitar Meja Kerja Secara Total"
+          "ko": "책상 주변의 시각적 데코 완벽 제거"
         },
         "text": {
-          "ko": "컴퓨터 책상 위와 눈앞의 시야 영역에서 화려한 액자, 장난감 피규어, 책꽂이에 꽂힌 책 표지, 스마트폰 등을 완벽히 치웁니다. 오직 모니터와 마우스, 키보드만을 배치합니다.",
-          "en": "Perfecty remove colorful frames, toy figures, book covers on bookshelves, or smartphones from the computer desk and your front field of view. Place only the monitor, mouse, and keyboard.",
-          "ja": "パソコンの机の上や目の前の視野領域から、華やかな額縁、おもちゃのフィギュア、本棚に並んだ本の表紙、スマートフォンなどを完全に片付けます。モニターとマウス、キーボードだけを配置します。",
-          "zh": "将电脑书桌上和眼前视野区域内的华丽相框、玩具手办、书架上插着的书封面、智能手机等彻底清理干净。只配置显示器、鼠标和键盘。",
-          "es": "Retire de la mesa y de su vista cualquier adorno, marco, figura o teléfono. Deje solo el monitor, el ratón y el teclado.",
-          "fr": "Retirez du bureau et de votre vue tout bibelot, cadre, figurine ou téléphone. Laissez seulement l'écran, la souris et le clavier.",
-          "de": "Entfernen Sie alle Dekoartikel, Bilder oder Handys von Ihrem Tisch. Lassen Sie nur Monitor, Maus und Tastatur stehen.",
-          "pt": "Retire da mesa e da sua vista qualquer enfeite, porta-retrato, miniatura ou celular. Deixe apenas o monitor, o mouse e o teclado.",
-          "id": "Bersihkan bingkai foto, figur mainan, sampul buku di rak buku, atau ponsel pintar dari meja komputer dan area pandang di depan Anda secara total. Letakkan monitor, mouse, dan keyboard saja."
+          "ko": "컴퓨터 책상 위와 눈앞의 시야 영역에서 화려한 액자, 장난감 피규어, 책꽂이에 꽂힌 책 표지, 스마트폰 등을 완벽히 치웁니다. 오직 모니터와 마우스, 키보드만을 배치합니다."
         }
       },
       {
         "name": {
-          "ko": "주변 조도 제어 및 암실 환경 구축",
-          "en": "Control Surrounding Lighting and Create Darkroom",
-          "ja": "周囲の照度コントロールと暗室環境の構築",
-          "zh": "控制周围照度并构建暗室环境",
-          "es": "Controle la iluminación y cree un cuarto oscuro",
-          "fr": "Contrôlez l'éclairage et créez une chambre noire",
-          "de": "Kontrollieren Sie das Licht und schaffen Sie Dunkelheit",
-          "pt": "Controle a iluminação e crie um quarto escuro",
-          "id": "Kontrol Pencahayaan Sekitar dan Ciptakan Lingkungan Ruang Gelap"
+          "ko": "주변 조도 제어 및 암실 환경 구축"
         },
         "text": {
-          "ko": "작업실의 암막 커튼을 치거나 방의 메인 전등을 소등하여 주변 조도를 극도로 낮춥니다. 오직 모니터 화면의 빛만 눈에 보이도록 조절하거나, 시각 안정 피로를 예방할 부드러운 간접 조명 하나만 책상 아래나 뒤에 켭니다.",
-          "en": "Dim surrounding lighting by drawing blackout curtains or turning off the main lights. Adjust so that only the monitor's light is visible, or turn on a soft indirect light behind or under the desk to prevent eye strain.",
-          "ja": "作業室の遮光カーテンを閉めるか、部屋のメインの照明を消して、周囲の照度を極端に下げます。モニター画面の光だけが目に入るように調節するか、視覚の安定と疲労を防ぐための柔らかい間接照明を1つだけ机の下や後ろに点灯します。",
-          "zh": "拉上工作室的遮光窗帘，或关闭房间的主电灯，极度调暗周围的照度。调节为仅能看到显示器屏幕光线的状态，或者仅在书桌下方或后方开启一盏预防视觉疲劳的柔和间接照明灯。",
-          "es": "Baje las persianas o apague la luz principal para reducir la iluminación. Deje que solo brille el monitor o use una luz indirecta suave detrás de la mesa.",
-          "fr": "Fermez les stores ou éteignez la lumière principale pour réduire l'éclairage. Laissez briller l'écran ou utilisez une lumière indirecte douce derrière le bureau.",
-          "de": "Dunkeln Sie den Raum ab oder schalten Sie das Hauptlicht aus. Lassen Sie nur den Monitor leuchten oder nutzen Sie ein sanftes, indirektes Licht.",
-          "pt": "Feche as cortinas ou apague a luz principal para reduzir a iluminação. Deixe apenas o monitor brilhando ou use uma luz indirecta suave atrás da mesa.",
-          "id": "Tutup tirai kedap cahaya atau matikan lampu utama ruangan untuk menurunkan tingkat pencahayaan sekitar secara ekstrem. Sesuaikan agar hanya cahaya layar monitor saja yang terlihat, atau nyalakan satu lampu tidak langsung yang lembut di belakang atau di bawah meja."
+          "ko": "작업실의 암막 커튼을 치거나 방의 메인 전등을 소등하여 주변 조도를 극도로 낮춥니다. 오직 모니터 화면의 빛만 눈에 보이도록 조절하거나, 시각 안정 피로를 예방할 부드러운 간접 조명 하나만 책상 아래나 뒤에 켭니다."
         }
       },
       {
         "name": {
-          "ko": "디지털 단일 인터페이스 몰입",
-          "en": "Immerse in a Single Digital Interface",
-          "ja": "デジタル単一インターフェースへの没頭",
-          "zh": "沉浸于数码单一界面",
-          "es": "Sumérjase en una sola interfaz digital",
-          "fr": "Plongez-vous dans une seule interface numérique",
-          "de": "Tauchen Sie in eine einzige digitale Schnittstelle ein",
-          "pt": "Mergulhe em uma única interface digital",
-          "id": "Benamkan Diri dalam Antarmuka Digital Tunggal"
+          "ko": "디지털 단일 인터페이스 몰입"
         },
         "text": {
-          "ko": "화면에 여러 윈도우 창을 복잡하게 띄우지 않고, 작성 중인 코드 편집기나 문서 작성기 창 하나만을 전체 화면으로 실행합니다. 눈앞에 오직 단 하나의 핵심 텍스트 자극만 놓아 주의 조각을 방지합니다.",
-          "en": "Instead of keeping multiple windows open on screen, run only the code editor or document editor window in full screen. Prevent fragmented attention by placing only a single core text stimulus before your eyes.",
-          "ja": "画面に複数のウィンドウを複雑に表示させず、作成中のコードエディタや文書作成プログラムのウィンドウ1つだけを全画面表示で実行します。目の前にはただ1つの核となるテキスト刺激だけを置き、注意力の断片化を防ぎます。",
-          "zh": "不在屏幕上复杂地打开多个窗口，只将正在编写的代码编辑器或文档编辑器窗口全屏运行。眼前仅放置一个核心文本刺激，防止注意力分散。",
-          "es": "Evite tener muchas ventanas abiertas en la pantalla. Ponga el editor de código o documento en pantalla completa para enfocar toda su atenção.",
-          "fr": "Étiquez d'avoir plusieurs fenêtres ouvertes sur l'écran. Affichez l'éditeur de code ou de document en plein écran pour concentrer votre attention.",
-          "de": "Verhindern Sie die Ablenkung durch mehrere Fenster. Nutzen Sie den Code- oder Texteditor im Vollbildmodus, um den Fokus aufrechtzuerhalten.",
-          "pt": "Evite ter várias janelas abertas na tela. Coloque o editor de código ou documento em tela cheia para focar toda a sua atenção.",
-          "id": "Alih-alih membuka banyak jendela di layar, jalankan satu jendela editor kode atau dokumen yang sedang Anda kerjakan dalam mode layar penuh. Cegah fragmentasi perhatian."
+          "ko": "화면에 여러 윈도우 창을 복잡하게 띄우지 않고, 작성 중인 코드 편집기나 문서 작성기 창 하나만을 전체 화면으로 실행합니다. 눈앞에 오직 단 하나의 핵심 텍스트 자극만 놓아 주의 조각을 방지합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "어두운 곳에서 모니터만 보면 눈 시력이 나빠지지 않나요?",
-          "en": "Does looking at a monitor in a dark place damage eyesight?",
-          "ja": "暗い場所でモニターだけを見ていると、視力が悪くなりませんか？",
-          "zh": "在黑暗的地方只看显示器视力不会变差吗？",
-          "es": "¿Mirar el monitor a oscuras no daña la vista?",
-          "fr": "Regarder l'écran dans l'obscurité ne fatigue-t-il pas la vue ?",
-          "de": "Schadet das Arbeiten im Dunkeln am Monitor den Augen?",
-          "pt": "Olhar para o monitor no escuro não prejudica a visão?",
-          "id": "Apakah melihat monitor di tempat gelap merusak mata?"
+          "ko": "어두운 곳에서 모니터만 보면 눈 시력이 나빠지지 않나요?"
         },
         "answer": {
-          "ko": "완전한 암흑 속에서 과도하게 밝은 대비율은 눈의 피로를 유발합니다. 따라서 모니터의 조도(밝기)를 주변 환경에 맞춰 낮추거나, 모니터 화면 뒷면 벽에 부드러운 백라이트(간접 LED 등)를 설치하면 시각 신경의 피로를 예방하면서도 높은 몰입도를 확보할 수 있습니다.",
-          "en": "Excessive contrast in complete darkness causes eye strain. Therefore, dim the monitor's brightness to match the environment, or install a soft backlight (indirect LED) behind the monitor to prevent visual strain while maintaining high immersion.",
-          "ja": "完全な暗闇の中で過度に明るい対比率は、目の疲労を誘発します。したがって、モニターの輝度（明るさ）を周囲の環境に合わせて下げるか、モニター画面の裏側の壁に柔らかいバックライト（間接LEDなど）を設置すると、視覚神経の疲労を防ぎながら高い没頭度を確保できます。",
-          "zh": "在完全黑暗的环境中，对比度过高会导致眼睛疲劳。因此，应根据周围环境调低显示器的亮度，或者在显示器屏幕后面的墙壁上安装柔和的背光（间接LED等），这样既能预防视神经疲劳，又能确保高度沉浸感。",
-          "es": "El contraste excesivo fatiga los ojos. Se recomienda bajar el brillo del monitor para adaptarlo al entorno o usar una luz LED de fondo suave instalada detrás de la pantalla.",
-          "fr": "Un contraste excessif fatigue les yeux. Il est recommandé de baisser la luminosité de l'écran pour l'adapter à l'espace ou d'utiliser un rétroéclairage LED doux installé derrière l'écran.",
-          "de": "Zu starker Kontrast ermüdet die Augen. Reduzieren Sie die Helligkeit des Monitors oder installieren Sie ein sanftes LED-Hintergrundlicht hinter dem Bildschirm.",
-          "pt": "O contraste excessivo cansa os olhos. Recomenda-se diminuir o brilho do monitor para adaptá-lo ao ambiente ou usar uma luz LED de fundo suave instalada atrás da tela.",
-          "id": "Kontras berlebih di kegelapan total menyebabkan mata lelah. Oleh karena itu, turunkan tingkat kecerahan monitor agar sesuai dengan lingkungan sekitar, atau pasang lampu latar (backlight LED tidak langsung) di belakang layar untuk mencegah ketegangan mata."
+          "ko": "완전한 암흑 속에서 과도하게 밝은 대비율은 눈의 피로를 유발합니다. 따라서 모니터의 조도(밝기)를 주변 환경에 맞춰 낮추거나, 모니터 화면 뒷면 벽에 부드러운 백라이트(간접 LED 등)를 설치하면 시각 신경의 피로를 예방하면서도 높은 몰입도를 확보할 수 있습니다."
         }
       },
       {
         "question": {
-          "ko": "집에 세탁실이나 격리된 방이 없을 때는 어떻게 해야 하나요?",
-          "en": "What if I don't have a laundry room or an isolated room at home?",
-          "ja": "家に洗濯室や隔離された部屋がないときは、どうすればよいですか？",
-          "zh": "如果家里没有洗衣房或隔离的房间，该怎么办？",
-          "es": "¿Qué hacer se no tengo un lavadero o habitación aislada?",
-          "fr": "Que faire si je n'ai pas de buanderie ou de pièce isolée ?",
-          "de": "Was mache ich, wenn ich keinen separaten Raum habe?",
-          "pt": "O que fazer se eu não tiver uma área de serviço ou quarto isolado?",
-          "id": "Bagaimana jika saya tidak memiliki ruang cuci atau ruang terisolasi di rumah?"
+          "ko": "집에 세탁실이나 격리된 방이 없을 때는 어떻게 해야 하나요?"
         },
         "answer": {
-          "ko": "반드시 특수한 격리 공간일 필요는 없습니다. 일반 방의 문을 닫아 벽을 등지고 앉아 시야 반경을 고요하게 고정하거나, 물리적인 칸막이를 설치하여 책상 앞 1.5m 이내에 모니터 외의 다른 시각적 인지 자극물이 들어오지 않도록 차단막을 형성하는 것만으로도 충분합니다.",
-          "en": "It doesn't have to be a special isolated room. Simply closing the door of a regular room, sitting with your back to the wall to keep your visual field quiet, or setting up a physical partition to block anything other than the monitor from entering your 1.5m field of view is sufficient.",
-          "ja": "必ずしも特殊な隔離空間である必要はありません。普通の部屋のドアを閉めて壁を背にして座り、視野の範囲を静かに固定するか、物理的なパーテーションを設置して、机の前1.5m以内にモニター以外の他の視覚的な認知刺激物が入らないように遮断膜を形成するだけでも十分です。",
-          "zh": "不一定非要是特殊的隔离空间。只需关闭普通房间的门，背对墙壁坐着，将视野半径固定在静谧状态，或者设置物理隔板，形成一个屏障，使书桌前1.5米以内不出现显示器以外的其他视觉认知刺激物，这就足够了。",
-          "es": "No se necesita un espacio especial. Basta con cerrar la puerta, sentarse de espaldas a la pared para evitar distracciones o colocar un panel divisorio que bloquee la vista más allá del monitor.",
-          "fr": "Aucun espace spécial n'est requis. Il suffit de fermer la porte, de s'asseoir le dos au mur pour éviter les distractions ou d'installer un panneau de séparation pour bloquer la vue.",
-          "de": "Ein spezieller Raum ist nicht nötig. Es reicht, die Tür zu schließen, sich mit dem Rücken zur Wand zu setzen oder eine Trennwand aufzustellen, die den Blick abschirmt.",
-          "pt": "Não é necessário um espaço especial. Basta fechar a porta, sentar-se de costas para a parede para evitar distrações ou colocar um painel divisório que bloqueie a vista além do monitor.",
-          "id": "Tidak harus berupa ruang terisolasi khusus. Cukup tutup pintu ruangan biasa, duduk membelakangi dinding untuk menjaga bidang pandang tetap tenang, atau pasang sekat fisik untuk menghalangi apa pun selain monitor masuk ke dalam bidang pandang 1,5 meter Anda."
+          "ko": "반드시 특수한 격리 공간일 필요는 없습니다. 일반 방의 문을 닫아 벽을 등지고 앉아 시야 반경을 고요하게 고정하거나, 물리적인 칸막이를 설치하여 책상 앞 1.5m 이내에 모니터 외의 다른 시각적 인지 자극물이 들어오지 않도록 차단막을 형성하는 것만으로도 충분합니다."
         }
       }
-    ],
-    "pubDate": "2026-06-30",
-    "updatedDate": "2026-06-30"
+    ]
   }
 }

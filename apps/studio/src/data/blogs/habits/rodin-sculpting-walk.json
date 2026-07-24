@@ -1,218 +1,72 @@
 {
   "rodin-sculpting-walk": {
     "title": {
-      "ko": "'생각하는 사람'의 거장? 오귀스트 로댕의 아침 찰흙 감각 산책 루틴",
-      "en": "Master of 'The Thinker'? Auguste Rodin's Morning Clay Tactile Walking Routine",
-      "ja": "「考える人」の巨匠？オーギュスト・ロダンの朝の粘土感覚散歩ルーティン",
-      "zh": "《思考者》的巨匠？罗丹的早晨黏土触觉散步习惯",
-      "es": "¿El maestro de 'El Pensador'? La rutina de caminata táctil con arcilla de Auguste Rodin",
-      "fr": "Le maître du 'Penseur' ? La routine de marche tactile à l'argile d'Auguste Rodin",
-      "de": "Der Meister des 'Denkers'? Auguste Rodins morgendliche Ton-Tast-Spaziergang-Routine",
-      "pt": "O mestre de 'O Pensador'? A rotina de caminhada tátil com argila de Auguste Rodin",
-      "id": "Master 'The Thinker'? Rutinitas Jalan Pagi & Takwil Tanah Liat Auguste Rodin"
+      "ko": "'생각하는 사람'의 거장? 오귀스트 로댕의 아침 찰흙 감각 산책 루틴"
     },
     "description": {
-      "ko": "근대 조각의 거장 오귀스트 로댕. 매일 아침 손에 찰흙을 쥐고 걸으며 촉각적 영감을 깨웠던 그의 독창적 센서리 루틴과 3단계 실천법을 공개합니다.",
-      "en": "Auguste Rodin, the master of modern sculpture. Discover his sensory tactile routine of walking with clay every morning and 3 actionable steps.",
-      "ja": "近代彫刻の巨匠オーギュスト・ロダン。毎朝手に粘土を握って歩き、触覚的インスピレーションを呼び覚ました彼のセンサリールーティンを紹介します。",
-      "zh": "现代雕塑巨匠奥古斯特·罗丹。介绍他每天早晨手握黏土散步、唤醒触觉灵感的独创感官习惯及三步实践法。",
-      "es": "Auguste Rodin, el maestro de la escultura moderna. Descubra su rutina sensorial de caminar con arcilla cada mañana y 3 pasos prácticos.",
-      "fr": "Auguste Rodin, le maître de la sculpture moderne. Découvrez sa routine tactile du matin et ses 3 étapes d'application.",
-      "de": "Auguste Rodin, der Meister der modernen Plastik. Entdecken Sie seine morgendliche Tast-Routine mit Ton und 3 praktische Schritte.",
-      "pt": "Auguste Rodin, o mestre da escultura moderna. Descubra sua rotina tátil matinal com argila e 3 passos práticos.",
-      "id": "Auguste Rodin, master patung modern. Temukan rutinitas sensorik taktil pagi harinya dengan tanah liat dan 3 langkah praktisnya."
+      "ko": "근대 조각의 거장 오귀스트 로댕. 매일 아침 손에 찰흙을 쥐고 걸으며 촉각적 영감을 깨웠던 그의 독창적 센서리 루틴과 3단계 실천법을 공개합니다."
     },
     "authority": {
-      "ko": "전기 'Auguste Rodin: Art and Life' 및 로댕 미술관(Musée Rodin) 보관 사료",
-      "en": "Biography 'Auguste Rodin: Art and Life' & Musée Rodin Archives",
-      "ja": "評伝「Auguste Rodin: Art and Life」およびロダン美術館（Musée Rodin）所蔵史料",
-      "zh": "传记《Auguste Rodin: Art and Life》与罗丹博物馆（Musée Rodin）馆藏史料",
-      "es": "Biografía 'Auguste Rodin: Art and Life' y archivos del Musée Rodin",
-      "fr": "Biographie 'Auguste Rodin: Art and Life' & archives du Musée Rodin",
-      "de": "Biografie 'Auguste Rodin: Art and Life' & Archive des Musée Rodin",
-      "pt": "Biografia 'Auguste Rodin: Art and Life' e arquivos do Musée Rodin",
-      "id": "Biografi 'Auguste Rodin: Art and Life' & Arsip Musée Rodin"
+      "ko": "오귀스트 로댕 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "'생각하는 사람', '지옥의 문'을 창작하여 단단하고 차가운 돌과 청동에 타오르는 생명력과 우수의 감정을 불어넣은 근대 조각의 거장, 오귀스트 로댕. 인류 예술사에 획을 그은 그의 압도적 입체감과 영감은 어디서 유래했을까요? 🗿\n\n로댕은 매일 아침 작업실 주변 자연 속을 산책할 때 주머니 속에 언제나 작은 찰흙 덩어리를 가지고 나갔습니다. 그는 걸으면서 시각적 주시에만 의존하지 않고, 손가락으로 찰흙을 지긋이 주무르며 손끝의 촉각으로 자연의 인체 곡선과 미세한 질감을 형상화했습니다. 그는 시각적 착시를 넘어 촉각적 몰입을 통해 생명체의 본질적인 구조를 두뇌 속 깊이 각인했습니다.\n\n오늘 BuildSelf에서는 로댕이 실천했던 '촉각 찰흙 산책' 루틴의 감각 신경 과학적 원리와 현대인들이 창의적 영감을 깨우기 위해 이를 어떻게 활용할 수 있는지 소개합니다.",
-      "en": "Auguste Rodin, the master of modern sculpture who created 'The Thinker' and 'The Gates of Hell'. Where did his overwhelming 3D spatial intuition come from? 🗿\n\nEvery morning during his walks in nature near his studio, Rodin carried a small piece of clay in his pocket. Instead of relying solely on visual observation, he pressed and shaped the clay with his fingers, forming subtle textures through pure tactile immersion.\n\nToday, BuildSelf introduces the neuroscience behind Rodin's 'tactile clay walk' routine and how modern creatives can apply it.",
-      "ja": "この歴史的習慣の実践において：' ', ' ' , . ? 🗿 この歴史的習慣の実践において： . , . . この歴史的習慣の実践において： BuildSelf ' ' .",
-      "zh": "在这一历史性惯例的实践中：' ', ' ' , . ? 🗿 在这一历史性惯例的实践中： . , . . 在这一历史性惯例的实践中： BuildSelf ' ' .",
-      "es": "En la práctica de esta rutina transformadora: ' ', ' '             ,  .          ? 🗿\n\nEn la práctica de esta rutina transformadora:                 .      ,            .              .\n\nEn la práctica de esta rutina transformadora:  BuildSelf   '  '                .\n\nAl practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora: ' ', ' '             ,  .          ? 🗿\n\nNa prática desta rotina transformadora:                 .      ,            .              .\n\nNa prática desta rotina transformadora:  BuildSelf   '  '                .\n\nAo praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "'생각하는 사람', '지옥의 문'을 창작하여 단단하고 차가운 돌과 청동에 타오르는 생명력과 우수의 감정을 불어넣은 근대 조각의 거장, 오귀스트 로댕. 인류 예술사에 획을 그은 그의 압도적 입체감과 영감은 어디서 유래했을까요? 🗿\n\n로댕은 매일 아침 작업실 주변 자연 속을 산책할 때 주머니 속에 언제나 작은 찰흙 덩어리를 가지고 나갔습니다. 그는 걸으면서 시각적 주시에만 의존하지 않고, 손가락으로 찰흙을 지긋이 주무르며 손끝의 촉각으로 자연의 인체 곡선과 미세한 질감을 형상화했습니다. 그는 시각적 착시를 넘어 촉각적 몰입을 통해 생명체의 본질적인 구조를 두뇌 속 깊이 각인했습니다.\n\n오늘 포스트에서는 로댕이 실천했던 '촉각 찰흙 산책' 루틴의 감각 신경 과학적 원리와 현대인들이 창의적 영감을 깨우기 위해 이를 어떻게 활용할 수 있는지 소개합니다."
     },
     "whyTitle": {
-      "ko": "체감각 피질 자극을 통한 뇌의 촉각적 입체 활성화",
-      "en": "Tactile Spatial Activation via Somatosensory Cortex Stimulation",
-      "ja": "体性感覚野刺激による脳の触覚的立体活性化",
-      "zh": "通过体感皮层刺激激活大脑触觉空间",
-      "es": "Activación Espacial Táctil Mediante Estimulación de la Corteza Somatosensorial",
-      "fr": "Activation Spatiale Tactile via la Stimulation du Cortex Somatosensoriel",
-      "de": "Taktile Raumaktivierung durch Stimulation des somatosensorischen Kortex",
-      "pt": "Ativação Espacial Tátil via Estimulação do Córtex Somatossensorial",
-      "id": "Aktivasi Spasial Taktil Melalui Stimulasi Korteks Somatosensorik"
+      "ko": "체감각 피질 자극을 통한 뇌의 촉각적 입체 활성화"
     },
     "whyDesc": {
-      "ko": "현대인들은 정보의 90% 이상을 모니터나 스마트폰 화면 같은 평면적 시각 자극에만 의존합니다. 그 결과 뇌의 입체적 공간 감각과 정교한 인지 유연성이 손상되기 쉽습니다.\n\n로댕이 실천한 촉각 찰흙 주무르기는 손가락의 촘촘한 신경망을 통해 뇌의 체감각 피질(Somatosensory Cortex)과 운동 피질을 직접 자극하는 강렬한 <strong>'촉각적 인지 자극'</strong>입니다. 손가락 끝의 감각에 온전히 몰입하는 동안 시각적 피로감이 해소되며, 뇌는 직관적이고 새로운 입체적 영감을 연결하는 Default Mode Network에 도달합니다.",
-      "en": "Modern humans rely heavily on flat visual stimuli like screens for over 90% of information. As a result, spatial intuition tends to atrophy.\n\nRodin's clay molding is an intense <strong>'tactile cognitive stimulation'</strong> that directly stimulates the somatosensory cortex and motor cortex. Focusing on tactile sensation relieves visual fatigue and enables the brain's Default Mode Network to link new spatial inspirations.",
-      "ja": "現代人は情報の90%以上を画面などの平面的な視覚刺激だけに頼っています。\n\nロダンが実践した粘土捏ねは、指先の緻密な神経網を通じて体性感覚野と運動野を直接刺激する強力な<strong>「触覚的認知刺激」</strong>です。触覚に没頭することで視覚的疲労が解消され、新しいインスピレーションが生まれます。",
-      "zh": "现代人超90%的信息依赖于屏幕等扁平视觉刺激，导致空间直觉退化。\n\n罗丹捏揉黏土的做法是一种强烈的<strong>“触觉认知刺激”</strong>，直接刺激大脑体感皮层与运动皮层。专注触觉能消除视觉疲劳，联结新的立体灵感。",
-      "es": "Los humanos modernos dependen en más del 90% de estímulos visuales planos. Como resultado, la intuición espacial se atrofia.\n\nEl amasado de arcilla de Rodin es una <strong>'estimulación cognitiva táctil'</strong> que estimula la corteza somatosensorial, aliviando la fatiga visual y conectando nuevas inspiraciones.",
-      "fr": "Les hommes modernes dépendent à plus de 90 % d'écrans plats, ce qui érode l'intuition spatiale.\n\nLe pétrissage d'argile de Rodin est une <strong>'stimulation cognitive tactile'</strong> qui stimule le cortex somatosensoriel, apaisant la fatigue visuelle.",
-      "de": "Moderne Menschen verlassen sich zu über 90 % auf flache visuelle Bildschirmreize.\n\nRodins Tonkneten ist eine <strong>'taktile kognitive Stimulation'</strong>, die den somatosensorischen Kortex stimuliert, visuelle Ermüdung lindert und neue Inspirationen verknüpft.",
-      "pt": "As pessoas modernas dependem excessivamente de telas planas, atrofiando a intuição espacial.\n\nA moldagem de argila de Rodin é uma <strong>'estimulação cognitiva tátil'</strong> que ativa o córtex somatossensorial, aliviando a fadiga visual.",
-      "id": "Manusia modern mengandalkan lebih dari 90% stimulasi visual layar datar.\n\nRemasan tanah liat Rodin adalah <strong>'stimulasi kognitif taktil'</strong> yang merangsang korteks somatosensorik, meredakan lelah visual dan memicu inspirasi baru."
+      "ko": "현대인들은 정보의 90% 이상을 모니터나 스마트폰 화면 같은 평면적 시각 자극에만 의존합니다. 그 결과 뇌의 입체적 공간 감각과 정교한 인지 유연성이 손상되기 쉽습니다.\n\n로댕이 실천한 촉각 찰흙 주무르기는 손가락의 촘촘한 신경망을 통해 뇌의 체감각 피질(Somatosensory Cortex)과 운동 피질을 직접 자극하는 강렬한 <strong>'촉각적 인지 자극'</strong>입니다. 손가락 끝의 감각에 온전히 몰입하는 동안 시각적 피로감이 해소되며, 뇌는 직관적이고 새로운 입체적 영감을 연결하는 Default Mode Network에 도달합니다."
     },
     "cautionTitle": {
-      "ko": "시각을 끄고 손끝의 주관적 촉각에 몰입하세요",
-      "en": "Turn off vision and immerse in finger tactile sensations",
-      "ja": "視覚をオフにし、指先の手触りに集中しましょう",
-      "zh": "关闭视觉，沉浸于指尖的触觉感受",
-      "es": "Apague la vista y sumérjase en las sensaciones táctiles",
-      "fr": "Éteignez le visuel et immergez-vous dans le toucher",
-      "de": "Schalten Sie das Visuelle aus und tauchen Sie ins Taktile ein",
-      "pt": "Desligue o visual e mergulhe nas sensações táticas",
-      "id": "Matikan penglihatan dan benamkan diri pada sensasi taktil"
+      "ko": "시각을 끄고 손끝의 주관적 촉각에 몰입하세요"
     },
     "cautionDesc": {
-      "ko": "로댕에게 찰흙은 완성품을 만드는 재료이기 전에 손끝의 미세한 감각을 일깨우는 안테나였습니다. 모양을 정교하게 다듬으려 애쓰지 말고, 손끝에 느껴지는 질감과 탄성에 온전히 주의를 집중하세요.",
-      "en": "For Rodin, clay was an antenna to awaken subtle finger sensations before it was a crafting material. Focus on texture and elasticity.",
-      "ja": "ロダンにとって粘土は感覚を呼び覚ますアンテナでした。完璧な形を作ろうとせず、指先に伝わる質感と弾力に集中してください。",
-      "zh": "对罗丹而言，黏土首先是唤醒指尖感官的天线。不必刻意雕琢形状，将注意力完全放在纹理与弹性上即可。",
-      "es": "Para Rodin, la arcilla era una antena para despertar sensaciones. Concéntrese en la textura y elasticidad.",
-      "fr": "Pour Rodin, l'argile était une antenne réveillant les sens. Concentrez-vous sur la texture et l'élasticité.",
-      "de": "Für Rodin war Ton eine Antenne zur Erweckung der Sinne. Konzentrieren Sie sich auf Textur und Elastizität.",
-      "pt": "Para Rodin, a argila era uma antena para despertar sensações. Foque na textura e elasticidade sob os dedos.",
-      "id": "Bagi Rodin, tanah liat adalah antena untuk membangkitkan indra. Fokuslah pada tekstur dan elastisitasnya."
+      "ko": "로댕에게 찰흙은 완성품을 만드는 재료이기 전에 손끝의 미세한 감각을 일깨우는 안테나였습니다. 모양을 정교하게 다듬으려 애쓰지 말고, 손끝에 느껴지는 질감과 탄성에 온전히 주의를 집중하세요."
     },
     "steps": [
       {
         "name": {
-          "ko": "손 안의 촉각 도구 준비 및 디지털 차단",
-          "en": "Prepare Tactile Tool & Digital Detachment",
-          "ja": "触覚ツールの準備とデジタル遮断",
-          "zh": "准备手部触觉工具并断开数字连接",
-          "es": "Preparar Herramienta Táctil y Desconexión Digital",
-          "fr": "Préparer un Outil Tactile & Déconnexion Numérique",
-          "de": "Vorbereitung des Tastwerkzeugs & Digitale Pause",
-          "pt": "Preparar Ferramenta Tátil e Desconexão Digital",
-          "id": "Siapkan Alat Taktil & Lepas Koneksi Digital"
+          "ko": "손 안의 촉각 도구 준비 및 디지털 차단"
         },
         "text": {
-          "ko": "손에 쏙 들어오는 소형 찰흙, 스트레스 볼, 혹은 탄성 있는 오브제를 준비합니다. 휴식 시 화면을 끄고 손에 도구를 쥡니다.",
-          "en": "Prepare a small piece of clay, stress ball, or tactile object that fits in your hand. Turn off screens and hold it.",
-          "ja": "手に収まる小さな粘土やストレスボールを用意します。休憩時に画面を消して手にとります。",
-          "zh": "准备小块黏土、解压球或便于抓握的触觉物体。休息时关闭屏幕并握住它。",
-          "es": "Prepare un trozo de arcilla o pelota antiestrés. Apague las pantallas y sosténgalo durante el descanso.",
-          "fr": "Préparez une petite boule d'argile ou anti-stress. Éteignez les écrans et tenez-la en main.",
-          "de": "Bereiten Sie ein Stück Ton oder einen Stressball vor. Schalten Sie Bildschirme aus und halten Sie es.",
-          "pt": "Prepare um pedaço de argila ou bola antiestresse. Desligue as telas e segure-o durante a pausa.",
-          "id": "Siapkan bola stres atau tanah liat kecil. Matikan layar dan pegang alat tersebut saat beristirahat."
+          "ko": "손에 쏙 들어오는 소형 찰흙, 스트레스 볼, 혹은 탄성 있는 오브제를 준비합니다. 휴식 시 화면을 끄고 손에 도구를 쥡니다."
         }
       },
       {
         "name": {
-          "ko": "5분간의 리드미컬 촉각 롤링 산책",
-          "en": "5-Minute Rhythmic Tactile Rolling Walk",
-          "ja": "5分間のリズム触覚ローリング散歩",
-          "zh": "5分钟节奏触觉揉捏散步",
-          "es": "Paseo Rítmico de 5 Minutos Amasando",
-          "fr": "Marche Rythmée de 5 Min de Pétrissage",
-          "de": "5-minütiger Spaziergang mit taktilem Kneten",
-          "pt": "Caminhada Rítmica de 5 Minutos Amassando",
-          "id": "Jalan 5 Menit Berirama Meremas Taktil"
+          "ko": "5분간의 리드미컬 촉각 롤링 산책"
         },
         "text": {
-          "ko": "천천히 걸으며 손가락 끝으로 도구를 지긋이 누르고 쥐었다 펴는 동작을 반복합니다. 촉각적 압력과 반응에 집중합니다.",
-          "en": "Walk slowly while repeatedly pressing and rolling the object with your fingertips, focusing on tactile pressure.",
-          "ja": "ゆっくり歩きながら指先でツールをこねる動作を繰り返し、触覚の me 圧と反応に集中します。",
-          "zh": "缓慢行走，重复用指尖按压揉捏物体，专注于触觉的压力与反弹感。",
-          "es": "Camine despacio presionando y amasando el objeto con los dedos, concentrándose en la presión.",
-          "fr": "Marchez lentement en pressant l'objet sous vos doigts, en vous concentrant sur la pression tactile.",
-          "de": "Gehen Sie langsam und kneten Sie das Objekt mit den Fingern, während Sie sich auf den Druck konzentrieren.",
-          "pt": "Caminhe devagar pressionando o objeto com as pontas dos dedos, focando na pressão tátil.",
-          "id": "Berjalanlah perlahan sambil meremas objek dengan ujung jari, berfokus pada tekanan taktilnya."
+          "ko": "천천히 걸으며 손가락 끝으로 도구를 지긋이 누르고 쥐었다 펴는 동작을 반복합니다. 촉각적 압력과 반응에 집중합니다."
         }
       },
       {
         "name": {
-          "ko": "직관적 입체 영감 스케치",
-          "en": "Intuitive Spatial Inspiration Sketching",
-          "ja": "直感的立体インスピレーションのスケッチ",
-          "zh": "直觉立体灵感草记",
-          "es": "Boceto Intuitivo de Inspiración Espacial",
-          "fr": "Croquis d'Inspiration Intuitif",
-          "de": "Intuitives Skizzieren räumlicher Ideen",
-          "pt": "Esboço Intuitivo de Inspiração Espacial",
-          "id": "Sketsa Inspirasi Spasial Intuitif"
+          "ko": "직관적 입체 영감 스케치"
         },
         "text": {
-          "ko": "산책 직후 손에 남은 감각과 함께 머릿속에 떠오른 새로운 구조나 아이디어를 거칠게 메모지에 기록합니다.",
-          "en": "Right after the walk, roughly record new ideas or structural images that came to mind alongside the tactile residue.",
-          "ja": "散歩の直後、手に残った感覚とともに頭に浮かんだ新しい構造やアイデアをノートに書き留めます。",
-          "zh": "散步结束后，结合手部留存的感官记忆，在便签上粗略记录脑海中浮现的新构思。",
-          "es": "Justo después del paseo, anote de forma rápida las nuevas ideas o estructuras que surjan en su mente.",
-          "fr": "Juste après la marche, notez rapidement sur papier les idées et structures apparues dans votre esprit.",
-          "de": "Halten Sie direkt nach dem Spaziergang neue Ideen oder Strukturen grob auf einem Zettel fest.",
-          "pt": "Logo após a caminhada, anote rapidamente as novas ideias ou estruturas que surgirem na mente.",
-          "id": "Segera setelah berjalan, catat secara kasar struktur atau ide baru yang muncul di pikiran Anda."
+          "ko": "산책 직후 손에 남은 감각과 함께 머릿속에 떠오른 새로운 구조나 아이디어를 거칠게 메모지에 기록합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "찰흙 대신 사용할 수 있는 현대적 오브제는 무엇인가요?",
-          "en": "What modern objects can be used instead of clay?",
-          "ja": "粘土の代わりに使用できる現代的なオブジェクトは何ですか？",
-          "zh": "有什么现代替代品可以取代黏土？",
-          "es": "¿Qué objetos modernos se pueden usar en lugar de arcilla?",
-          "fr": "Quels objets modernes utiliser à la place de l'argile ?",
-          "de": "Welche modernen Objekte kann man anstelle von Ton verwenden?",
-          "pt": "Quais objetos modernos podem ser usados em vez de argila?",
-          "id": "Objek modern apa yang bisa digunakan sebagai pengganti tanah liat?"
+          "ko": "찰흙 대신 사용할 수 있는 현대적 오브제는 무엇인가요?"
         },
         "answer": {
-          "ko": "실리콘 스트레스 볼, 핑거 피젯 큐브, 미니 칼림바, 혹은 부드러운 원목 매끄러운 돌맹이 등 촉각 자극이 풍부한 모든 소품이 훌륭한 대안입니다.",
-          "en": "Silicone stress balls, finger fidget cubes, smooth wooden stones, or tactile tools work as great alternatives.",
-          "ja": "シリコンストレスボール、フィジェットキューブ、滑らかな木製の石など、触覚刺激の豊かなものが優れた代替品になります。",
-          "zh": "硅胶解压球、指尖魔方、光滑的木质或石质小物件等富含触觉刺激的物品都是极佳选择。",
-          "es": "Pelotas de silicona antiestrés, cubos fidget o piedras de madera pulida son excelentes alternativas.",
-          "fr": "Balles anti-stress en silicone, fidget cubes ou pierres en bois lisses sont d'excellentes alternatives.",
-          "de": "Silikon-Stressbälle, Fidget Cubes oder glatte Holzsteine sind hervorragende Alternativen.",
-          "pt": "Bolas antiestresse de silicone, fidget cubes ou pedras de madeira lisas são ótimas alternativas.",
-          "id": "Bola stres silikon, fidget cube, atau batu kayu halus adalah alternatif yang sangat baik."
+          "ko": "실리콘 스트레스 볼, 핑거 피젯 큐브, 미니 칼림바, 혹은 부드러운 원목 매끄러운 돌맹이 등 촉각 자극이 풍부한 모든 소품이 훌륭한 대안입니다."
         }
       },
       {
         "question": {
-          "ko": "손가락 촉각 자극이 어떻게 창의성을 높이나요?",
-          "en": "How does finger tactile stimulation boost creativity?",
-          "ja": "指先の触覚刺激がどのように創造性を高めますか？",
-          "zh": "手指触觉刺激如何提升创造力？",
-          "es": "¿Cómo aumenta la creatividad la estimulación táctil de los dedos?",
-          "fr": "Comment le toucher des doigts stimule-t-il la créativité ?",
-          "de": "Wie steigert taktile Fingerstimulation die Kreativität?",
-          "pt": "Como a estimulação tátil dos dedos aumenta a criatividade?",
-          "id": "Bagaimana stimulasi taktil jari meningkatkan kreativitas?"
+          "ko": "손가락 촉각 자극이 어떻게 창의성을 높이나요?"
         },
         "answer": {
-          "ko": "손은 뇌의 운동/감각 피질에서 가장 넓은 면적을 차지합니다. 손가락을 정교하게 자극하면 평소 쓰지 않던 뇌 신경 회로가 활성화되어 아이디어 연상이 촉진됩니다.",
-          "en": "The hands occupy the largest area in the brain's sensory cortex. Fine finger stimulation activates unused neural pathways and fosters associations.",
-          "ja": "手は脳の感覚野で最も広い面積を占めています。指先を繊細に刺激することで、普段使われていない神経回路が活性化され連想が促されます。",
-          "zh": "双手在大脑感觉皮层中占有最大面积。精细刺激手指能激活未常用的神经回路，促进灵感联想。",
-          "es": "Las manos ocupan la mayor área en la corteza sensorial. Estimular los dedos activa vías neuronales no usadas y fomenta la asociación.",
-          "fr": "Les mains occupent la plus grande surface du cortex sensoriel. Les stimuler active des réseaux neuronaux inexploités et stimule l'association.",
-          "de": "Die Hände belegen das größte Areal im somatosensorischen Kortex. Ihre Stimulation aktiviert ungenutzte Bahnen und fördert Ideen.",
-          "pt": "As mãos ocupam a maior área no córtex sensorial. Estimular os dedos ativa vias neuronais não usadas e promove associações.",
-          "id": "Tangan menempati area terluas di korteks sensorik otak. Merangsang jari mengaktifkan jalur saraf baru dan memicu asosiasi ide."
+          "ko": "손은 뇌의 운동/감각 피질에서 가장 넓은 면적을 차지합니다. 손가락을 정교하게 자극하면 평소 쓰지 않던 뇌 신경 회로가 활성화되어 아이디어 연상이 촉진됩니다."
         }
       }
-    ],
-    "pubDate": "2026-01-10",
-    "updatedDate": "2026-01-10"
+    ]
   }
 }

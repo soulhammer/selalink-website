@@ -1,218 +1,72 @@
 {
   "planck-piano-refresh": {
     "title": {
-      "ko": "뇌의 인지 리셋: 막스 플랑크의 피아노 즉흥 연주 습관",
-      "en": "Cognitive Reset: Max Planck's Piano Improvisation Habit",
-      "ja": "脳の認知リセット：マックス・プランクのピアノ即興演奏習慣",
-      "zh": "大脑认知重置：马克斯·普朗克的钢琴即兴演奏习惯",
-      "es": "Reinicio cognitivo: El hábito de improvisación en piano de Max Planck",
-      "fr": "Réinitialisation cognitive : L'habitude d'improvisation au piano de Max Planck",
-      "de": "Kognitiver Reset: Max Plancks Gewohnheit der Klavierimprovisation",
-      "pt": "Reinicio cognitivo: O hábito de improvisação ao piano de Max Planck",
-      "id": "Atur Ulang Kognitif: Kebiasaan Improvisasi Piano Max Planck"
+      "ko": "뇌의 인지 리셋: 막스 플랑크의 피아노 즉흥 연주 습관"
     },
     "description": {
-      "ko": "물리학 연구 후 피아노 건반을 마음대로 두드리며 즉흥 연주로 기분을 전환했던 막스 플랑크. 예술적 활성화가 논리 영역의 피로를 씻어내는 '교차 인지 리프레시' 원리를 연구합니다.",
-      "en": "Max Planck, who played the piano and improvised to refresh himself after physics research. Learn how artistic activation clears logical fatigue via 'cross-cognitive refresh.'",
-      "ja": "物理学の研究後、ピアノの鍵盤を思いのままに叩いて即興演奏で気分転換したマックス・プランク。芸術的な活性化が論理領域の疲労を洗い流す「交差認知リフレッシュ」の原理を研究します。",
-      "zh": "在物理学研究结束后、随心所欲拨弄琴键即兴演奏以转换心情的马克斯·普朗克。研究艺术性激活如何消除逻辑区域疲劳的“交差认知恢复”原理。",
-      "es": "Max Planck tocaba el piano para descansar de sus complejas ecuaciones de física. Descubra cómo activar áreas artísticas limpia la fatiga lógica mediante la 'recarga cognitiva cruzada'.",
-      "fr": "Max Planck jouait du piano pour se détendre après ses calculs de physique. Découvrez comment stimuler les zones créatives élimine la fatigue logique via la 'récupération croisée'.",
-      "de": "Max Planck spielte Klavier, um nach der Physikarbeit den Geist zu entspannen. Erfahren Sie, wie kreative Aktivierung logische Müdigkeit durch 'kognitiven Wechsel' abbaut.",
-      "pt": "Max Planck tocava piano para descansar das suas complexas equações de física. Descubra como ativar áreas artísticas limpa a fadiga lógica mediante a 'recarga cognitiva cruzada'.",
-      "id": "Max Planck, yang memainkan piano secara improvisasi untuk menyegarkan diri setelah meneliti fisika. Pelajari efek kognitif dari peralihan fokus otak."
+      "ko": "물리학 연구 후 피아노 건반을 마음대로 두드리며 즉흥 연주로 기분을 전환했던 막스 플랑크. 예술적 활성화가 논리 영역의 피로를 씻어내는 '교차 인지 리프레시' 원리를 연구합니다."
     },
     "authority": {
-      "ko": "플랑크 자서전 『Wissenschaftliche Selbstbiographie』 역사적 고증 및 존스홉킨스 의과대학의 음악 즉흥 연주 뇌영상 신경과학 연구",
-      "en": "Max Planck's 'Wissenschaftliche Selbstbiographie' and Johns Hopkins Medicine neuroimaging research on musical improvisation",
-      "ja": "プランク自伝『Wissenschaftliche Selbstbiographie』歴史的考証およびジョンズ・ホプキンス医科大学の音楽即興演奏脳画像神経科学研究",
-      "zh": "普朗克自传《Wissenschaftliche Selbstbiographie》历史考证及约翰斯·霍普金斯医学院关于音乐即兴演奏脑成像神经科学研究",
-      "es": "Autenticación de la autobiografía de Max Planck 'Wissenschaftliche Selbstbiographie' e investigaciones de la Universidad Johns Hopkins sobre la neurobiología de la improvisación",
-      "fr": "Récit de l'autobiographie de Max Planck 'Wissenschaftliche Selbstbiographie' et travaux de la Johns Hopkins Medicine sur la neurobiologie de l'improvisation",
-      "de": "Historische Belege aus Max Plancks Selbstbiografie und Forschung der Johns Hopkins University zur Neurobiologie der musikalischen Improvisation",
-      "pt": "Autenticación da autobiografia de Max Planck 'Wissenschaftliche Selbstbiographie' e pesquisas da Universidade Johns Hopkins sobre la neurobiologia da improvisação",
-      "id": "Buku otobiografi 'Wissenschaftliche Selbstbiographie' oleh Max Planck dan Penelitian Neuroimaging Universitas Johns Hopkins tentang Improvisasi Musik"
+      "ko": "Planck Piano Refresh 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "양자 가설을 정립하고 물리학 상수의 핵심인 플랑크 상수를 발견하여 고전 물리학을 넘어선 현대 물리학의 여명을 깨운 물리학의 거장 막스 플랑크. 우주의 근본 구조를 재구성하는 고도의 논리적 사유와 수학 공식 속에서 그가 격정적인 연구 피로와 신경통을 제어한 열쇠는 다름 아닌 피아노 건반이었습니다. 플랑크는 수준급의 피아노 실력을 가진 음악가였으며, 그의 절친한 동료인 알베르트 아인슈타인의 바이올린에 맞춰 피아노 실내악 듀오를 자주 선보이곤 했습니다. 그는 매일 연구가 막히거나 일과를 마친 뒤 피아노 앞에 앉아 악보 없이 마음 가는 대로 건반을 두드리며 즉흥 연주에 몰두했습니다. 예술을 통한 인지 전환이 어떻게 뇌를 리프레시했는지 파헤칩니다.",
-      "en": "Max Planck, the father of modern physics, established the quantum hypothesis and discovered the Planck constant. Amidst the intense logical calculations and math equations that restructured the universe, the key to controlling his research fatigue and neuralgia was the piano. Planck was a gifted pianist who often played chamber music duos with Albert Einstein on violin. Every day, when his research stalled, he sat before the piano and immersed himself in improvisation without sheet music. We explore how this artistic transition refreshed his brain.",
-      "ja": "量子仮説を定立し、物理学定数の核心であるプランク定数を発見して、古典物理学を超えた現代物理学的夜明けを導いた物理学の巨匠マックス・プランク。宇宙の根本構造を再構成する高度な論理的思索と数学公式の中で、彼が激しい研究疲労と神経痛を制御した鍵は、他ならぬピアノの鍵盤でした。プランクは一流のピアノの実力を持つ音楽家であり、彼の親しい同僚であるアルベルト・アインシュタインのバイオリンに合わせてピアノの室内楽デュオを頻繁に披露していました。彼は毎日、研究が滞ったり一日の仕事を終えた後、ピアノの前に座って楽譜なしで気の向くままに鍵盤を叩き、即興演奏に没頭しました。芸術を通じた認知の切り替えがいかに脳をリフレッシュさせたのかを解明します。",
-      "zh": "通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
-      "es": "Max Planck, el padre de la teoría cuántica. Para tolerar la inmensa fatiga de calcular las leyes del cosmos, realizaba un ritual de descanso: tocaba el piano sin partitura. Incluso acompañaba al violín de su colega Albert Einstein. Analicemos cómo la improvisación artística activa el hemisferio derecho y relaja las redes lógicas del hemisferio izquierdo, induciendo la 'recarga cognitiva cruzada' que restaura la frescura cerebral.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora:                    .                     .      ,             .                    .        .\n\nAo praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "\"나는 피아노 건반 위에 손가락을 올리고 자유로운 불협화음 속으로 나를 던질 때, 비로소 뇌의 긴장을 멈춘다.\" 🎹\n\n양자 가설을 정립하고 물리학 상수의 핵심인 플랑크 상수를 발견하여 고전 물리학의 패러다임을 종식시키고 현대 물리학의 아침을 연 독일의 과학 거장 막스 플랑크. 우주의 거시적이고 미시적인 논리를 재구성해야 했던 그의 연구는 뇌에 극심한 연산 과부하와 피로를 안겨주곤 했습니다. 그가 머리가 지끈거리고 문제 해결의 장벽에 부딪혔을 때 찾아갔던 피난처는 피아노 앞이었습니다. 수준급의 건반 연주 실력을 갖춘 음악가였던 플랑크는 절친한 물리학 동료 알베르트 아인슈타인의 바이올린에 맞춰 피아노 듀오 연주를 즐기기도 했습니다. 그는 매일 연구가 막힐 때나 하루의 학업을 마친 뒤, 악보를 덮고 마음 가는 대로 건반을 두드리며 즉흥 연주에 몰두했습니다. 예술을 통한 인지 스위칭이 뇌를 리프레시한 신경 과학적 메커니즘을 파헤칩니다."
     },
     "whyTitle": {
-      "ko": "우뇌 활성화를 통한 좌뇌 인지 억제와 교차 리프레시",
-      "en": "Left Brain Suppression and Cross Refresh through Right Brain Activation",
-      "ja": "右脳活性化による左脳認知抑制と交差リフレッシュ",
-      "zh": "通过右脑激活实现的左脑认知抑制与交差恢复",
-      "es": "Inhibición cognitiva del hemisferio izquierdo y recarga cruzada mediante la activación del hemisferio derecho",
-      "fr": "Inhibition du cerveau gauche et récupération croisée par l'activation du cerveau droit",
-      "de": "Inhibition der linken Gehirnhälfte und kognitiver Wechsel durch Aktivierung der rechten Gehirnhälfte",
-      "pt": "Inibição cognitiva do hemisfério esquerdo e recarga cruzada mediante a ativação do hemisfério direito",
-      "id": "Supresi Otak Kiri dan Penyegaran Silang Melalui Aktivasi Otak Kanan"
+      "ko": "우뇌 활성화를 통한 좌뇌 인지 억제와 교차 리프레시"
     },
     "whyDesc": {
-      "ko": "뇌의 특정 인지 영역(수리 논리, 추론 등 좌뇌와 두정엽)을 극단적으로 사용하면, 주의력 고갈 및 신경 피로 물질(아데노신 등)이 해당 부위에 집중 적재됩니다. 이때 단순히 가만히 쉬는 것보다, 음악 즉흥 연주와 같은 전혀 다른 성격의 영역(우뇌 및 운동 감각 피질)을 자극하는 행동은 뇌의 '교차 인지 리프레시(Cross-Cognitive Refresh)'를 촉진시킵니다. 즉흥 연주는 미리 정해진 규칙 없이 직관적인 감각 파동을 뇌가 스스로 조합하게 유도하며, 논리 회로의 스위치를 내리고 창조적 잠재 영역의 작동을 일깨워 피로한 영역의 강제 휴식과 신경계 정화를 돕습니다.",
-      "en": "Extreme usage of a specific cognitive region (mathematical logic, reasoning in the left brain and parietal lobe) concentrates fatigue waste like adenosine in that area. Stimulating a completely different region, such as through musical improvisation (right brain and motor-sensory cortex), triggers 'Cross-Cognitive Refresh.' Improvisation guides the brain to compile intuitive sensory waves without predefined rules. This switches off the logical networks and awakens the creative subconscious, ensuring forced rest for the tired region and neural purification.",
-      "ja": "脳の特定の認知領域（数理・論理、推理などの左脳と頭頂葉）を極端に使用すると、注意力の枯渇および神経疲労物質（アデノシンなど）がその部位に集中して蓄積されます。この時、単に静かに休むことより、音楽の即興演奏のような全く異なる性質の領域（右脳および運動感覚皮質）を刺激する行動は、脳の「交差認知リフレッシュ」を促進させます。即興演奏は、あらかじめ定められた規則なしに直感的な感覚の波動を脳が自ら組み合わせるように誘導し、論理回路のスイッチを切り、創造的な潜在領域の作動を呼び起こして、疲労した領域の強制的な休息と神経系の浄化を助けます。",
-      "zh": "若极端地使用大脑特定的认知区域（数理逻辑、推理等左脑与顶叶），注意力枯竭及神经疲劳物质（如腺苷）就会在该部位集中积聚。此时，比起单纯静坐休息，去激活如音乐即兴演奏等性质完全不同的区域（右脑及运动感觉皮层）的行为，更能促进大脑的“交差认知恢复(Cross-Cognitive Refresh)”。即兴演奏可引导大脑在没有预设规则的情况下，自动组合直觉性的感官声波，从而关掉逻辑回路的开关，唤醒创造性潜在区域的运转，帮助疲劳区域强制休息并净化神经系统。",
-      "es": "El uso intensivo de un área cerebral (como la lógica matemática del hemisferio izquierdo) acumula desechos como la adenosina en esa zona. Activar una región completamente diferente (como la improvisación en el hemisferio derecho y el córtex motor) estimula la recarga cognitiva cruzada. La improvisación desconecta la red analítica voluntaria, permitiendo que la zona cansada se recupere mientras la creatividad del subconsciente fluye.",
-      "fr": "L'usage intensif d'une zone cérébrale (comme la logique dans l'hémisphère gauche) accumule de la fatigue dans cette région. Activer une zone différente (comme l'improvisation dans l'hémisphère droit) stimule la récupération croisée. L'improvisation déconnecte les réseaux analytiques, permettant à la zone fatiguée de récupérer.",
-      "de": "Die intensive Nutzung eines Gehirnareals (etwa der mathematischen Logik der linken Hälfte) führt zu Ermüdung in diesem Bereich. Das Anregen eines völlig anderen Areals (etwa durch Musikimprovisation in der rechten Hälfte) löst einen kognitiven Wechsel aus. Dies schaltet die logischen Netzwerke ab und gibt dem müden Bereich Zeit zur Erholung.",
-      "pt": "O uso intensivo de uma área cerebral (como a lógica matemática do hemisfério esquerdo) acumula cansaço nessa zona. Activar uma região completamente diferente (como a improvisação no hemisfério direito) estimula a recarga cognitiva cruzada. A improvisação desliga a rede analítica.",
-      "id": "Penggunaan ekstrem pada area kognitif tertentu (logika matematika di otak kiri) menumpuk zat kelelahan seperti adenosin di area tersebut. Merangsang area lain yang berbeda karakter (seperti otak kanan melalui improvisasi piano) memicu penyegaran silang. Otak menghentikan sirkuit logika dan mengaktifkan area bawah sadar."
+      "ko": "뇌의 특정 인지 영역(수리 논리, 추론 등 좌뇌와 두정엽)을 극단적으로 사용하면, 주의력 고갈 및 신경 피로 물질(아데노신 등)이 해당 부위에 집중 적재됩니다. 이때 단순히 가만히 쉬는 것보다, 음악 즉흥 연주와 같은 전혀 다른 성격의 영역(우뇌 및 운동 감각 피질)을 자극하는 행동은 뇌의 '교차 인지 리프레시(Cross-Cognitive Refresh)'를 촉진시킵니다. 즉흥 연주는 미리 정해진 규칙 없이 직관적인 감각 파동을 뇌가 스스로 조합하게 유도하며, 논리 회로의 스위치를 내리고 창조적 잠재 영역의 작동을 일깨워 피로한 영역의 강제 휴식과 신경계 정화를 돕습니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "피아노 즉흥 연주를 통해 뇌를 리셋할 때 주의해야 할 점은 악보대로 정확하게 쳐야 한다는 규칙에 지배되는 것입니다. 음정이나 템포를 지키려 연주 기술에 의도적인 인지력을 소모하면, 뇌는 이를 또 다른 작업(Task)으로 인지하여 교차 이완 효과가 발생하지 않습니다. 따라서 핵심은 손가락 끝이 건반에 닿는 감촉과 울리는 불협화음조차 편안하게 수용하며, 아무 규제 없이 소리를 자유롭게 발산하는 낙서 같은 연주 태도를 유지하는 것입니다.",
-      "en": "The trap to watch out for when resetting the brain with piano playing is being ruled by sheet music. Trying to match tempo or notes consumes direct cognitive energy on playing technique, making it another task. The core is accepting the touch of fingers and even dissonant chords, playing freely like a musical scribble.",
-      "ja": "ピアノの即興演奏を通じて脳をリセットする際に注意すべき点は、楽譜通りに正確に弾かなければならないという規則に支配されることです。音程やテンポを守ろうと演奏技術に意図的な認知力を使用すると、脳はこれを新たな作業として認識し、交差弛緩効果が発生しなくなります。したがって核心は、指先が鍵盤に触れる感触や、響く不協和音さえも気楽に受け入れ、何の規制もなく音を自由に発散する落書きのような演奏態度を維持することです。",
-      "zh": "通过钢琴即兴演奏重置大脑时需要注意的一点是，不要被必须按乐谱精准弹奏的规则所支配。如果为了遵守音准或节奏而在演奏技术上耗费了意图性认知精力，大脑会将其认知为又一项任务(Task)，从而无法产生交差松弛效果. 因此，核心在于舒服地接受指尖接触琴键的触感以及发出的不和谐音，保持一种没有任何规制、自由散发声音的涂鸦般演奏态度。",
-      "es": "El error es intentar tocar de manera estructurada o seguir una partitura. Exigirse precisión técnica consume atención dirigida, convirtiendo el descanso en otra tarea. Lo importante es sentir el contacto físico con las teclas y aceptar incluso la disonancia, manteniendo una actitud de juego libre y sin metas.",
-      "fr": "L'erreur est d'essayer de jouer de façon structurée. S'imposer une précision technique consomme de l'attention dirigée, transformant le repos en contrainte. L'important est de ressentir le contact physique avec les touches et d'accepter l'improvisation libre.",
-      "de": "Vermeiden Sie es, nach Noten oder strikten Regeln zu spielen. Das Bemühen um Präzision verbraucht wieder gerichtete Aufmerksamkeit und macht das Spiel zu einer Aufgabe. Wichtig ist es, die Schwingungen und selbst Dissonanzen zuzulassen und ohne Ziel zu spielen.",
-      "pt": "O erro é intentar tocar de maneira estructurada o seguir una partitura. Exigirse precisión técnica consome atenção dirigida, convertendo o descanso noutra tarefa. O importante é sentir o contacto físico com as teclas e aceitar a dissonância.",
-      "id": "Jebakan menuntut ketepatan nada atau tempo harus dihindari. Memaksa ketelitian teknis membuat otak menerjemahkannya sebagai tugas kerja baru. Kuncinya adalah merasakan sentuhan jari pada tuts dan menerima nada sumbang sekalipun secara santai."
+      "ko": "피아노 즉흥 연주를 통해 뇌를 리셋할 때 주의해야 할 점은 악보대로 정확하게 쳐야 한다는 규칙에 지배되는 것입니다. 음정이나 템포를 지키려 연주 기술에 의도적인 인지력을 소모하면, 뇌는 이를 또 다른 작업(Task)으로 인지하여 교차 이완 효과가 발생하지 않습니다. 따라서 핵심은 손가락 끝이 건반에 닿는 감촉과 울리는 불협화음조차 편안하게 수용하며, 아무 규제 없이 소리를 자유롭게 발산하는 낙서 같은 연주 태도를 유지하는 것입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "즉흥 연주용 건반 준비",
-          "en": "Preparing a Keyboard for Improvisation",
-          "ja": "即興演奏用の鍵盤の準備",
-          "zh": "准备即兴演奏用键盘",
-          "es": "Preparar un teclado o piano acústico",
-          "fr": "Préparer un clavier ou piano acoustique",
-          "de": "Bereitstellen von Tasten für das Spiel",
-          "pt": "Preparar um teclado ou piano acústico",
-          "id": "Menyiapkan Media Keyboard Musik"
+          "ko": "즉흥 연주용 건반 준비"
         },
         "text": {
-          "ko": "업무 공간이나 거실에 아날로그 피아노 혹은 전자 키보드 등 손쉽게 건반을 두드릴 수 있는 즉흥 악기를 준비합니다.",
-          "en": "Set up an improvisational instrument in your workspace or living room, such as an acoustic piano or an electronic keyboard, for easy playing.",
-          "ja": "ワークスペースやリビングルームに、アナログピアノや電子キーボードなど、手軽に鍵盤を叩くことができる即興楽器を用意します。",
-          "zh": "在工作空间或客厅中，摆放好钢（风）琴或电子琴等，可以随时敲击键盘的即兴演奏乐器。",
-          "es": "Disponga de un piano o teclado electrónico en su sala de estar o estudio para poder acceder a las teclas rápidamente.",
-          "fr": "Disposez d'un piano ou clavier numérique dans votre salon ou bureau pour pouvoir y accéder facilement.",
-          "de": "Stellen Sie ein Klavier oder ein E-Keyboard in Ihrem Arbeits- oder Wohnzimmer bereit.",
-          "pt": "Disponha de um piano ou teclado eletrónico na sua sala de estar ou estúdio para poder aceder às teclas rapidamente.",
-          "id": "Siapkan piano akustik atau keyboard elektrik di ruang kerja atau ruang keluarga Anda agar mudah dimainkan."
+          "ko": "업무 공간이나 거실에 아날로그 피아노 혹은 전자 키보드 등 손쉽게 건반을 두드릴 수 있는 즉흥 악기를 준비합니다."
         }
       },
       {
         "name": {
-          "ko": "5분간의 낙서형 건반 타건",
-          "en": "Engaging in 5 Minutes of Scribble-like Keyboard Playing",
-          "ja": "5分間の落書き風の鍵盤打鍵",
-          "zh": "进行5分钟的涂鸦式键盘敲击",
-          "es": "Tocar las teclas libremente durante 5 minutos",
-          "fr": "Tapoter les touches librement pendant 5 minutes",
-          "de": "5 Minuten freies Tastenspiel ohne Ziel",
-          "pt": "Tocar as teclas livremente durante 5 minutos",
-          "id": "Mengetuk Keyboard Bebas Selama 5 Menit"
+          "ko": "5분간의 낙서형 건반 타건"
         },
         "text": {
-          "ko": "악보를 보지 않고 머릿속의 어떠한 논리도 끈 채, 5분 동안 손가락 끝이 이끄는 대로 리드미컬하게 타건을 진행합니다.",
-          "en": "Turn off all logical thoughts and avoid sheet music. Play the keyboard rhythmically for 5 minutes, letting your fingertips lead you.",
-          "ja": "楽譜を見ず、頭の中の論理的な思考をすべて消した状態で、5分間指先の導くままにリズミカルに打鍵を行います。",
-          "zh": "不看乐谱、关闭大脑中的一切逻辑思维，跟随指尖的引领有节奏地敲击琴键，持续5分钟。",
-          "es": "Deje de lado la partitura y desactive el pensamiento analítico. Toque las teclas rítmicamente durante 5 minutos de forma libre.",
-          "fr": "Écartez toute partition et désactivez la pensée logique. Tapotez les touches de façon rythmée pendant 5 minutes.",
-          "de": "Verzichten Sie auf Noten und schalten Sie das logische Denken aus. Spielen Sie 5 Minuten lang rein nach Gefühl.",
-          "pt": "Deixe de lado a pauta e desactive o pensamento analítico. Toque as teclas ritmicamente durante 5 minutos de forma livre.",
-          "id": "Abaikan partitur dan matikan pemikiran logika. Ketuk tuts secara ritmis selama 5 menit sesuai gerakan jemari Anda."
+          "ko": "악보를 보지 않고 머릿속의 어떠한 논리도 끈 채, 5분 동안 손가락 끝이 이끄는 대로 리드미컬하게 타건을 진행합니다."
         }
       },
       {
         "name": {
-          "ko": "소리의 감각화 인지와 마인드 리셋",
-          "en": "Perceiving the Acoustic Senses and Resetting the Mind",
-          "ja": "音の感覚化認知とマインドリセット",
-          "zh": "体察声音的感觉化并重置思维",
-          "es": "Sentir la resonancia y reiniciar el pensamiento",
-          "fr": "Ressentir la résonance et réinitialiser l'esprit",
-          "de": "Wahrnehmen der Töne und geistiges Zurücksetzen",
-          "pt": "Sentir a ressonância e reiniciar o pensamento",
-          "id": "Merasakan Resonansi Suara dan Atur Ulang Pikiran"
+          "ko": "소리의 감각화 인지와 마인드 리셋"
         },
         "text": {
-          "ko": "건반 소리의 파동과 화음의 울림에 온 주의력을 집중하여, 뇌의 수리 논리 영역에 고여 있던 피로를 깨끗이 비워내며 루틴을 마칩니다.",
-          "en": "Focus your entire attention on the sound waves of the keyboard and the resonance of chords, clearing logical fatigue to conclude the routine.",
-          "ja": "鍵盤の音の波動や和音の響きにすべての注意を集中させ、脳の数理・論理領域に溜まっていた疲労を綺麗に空にしてルーティンを終えます。",
-          "zh": "将所有注意力集中在键盘声音的声波与和弦的共鸣上，于干净清空大脑数理逻辑区域中积攒的疲劳中，结束规程。",
-          "es": "Concéntrese plenamente en las ondas sonoras y la resonancia de los acordes, disipando la tensión acumulada de su lóbulo izquierdo.",
-          "fr": "Concentrez-vous sur les ondes sonores et la résonance des accords, éliminant la tension accumulée dans l'hémisphère gauche.",
-          "de": "Konzentrieren Sie sich ganz auf die Schallwellen und das Nachklingen der Töne, um die logischen Areale zu entlasten.",
-          "pt": "Concentre-se plenamente nas ondas sonoras e na ressonância dos acordes, dissipando a tensão acumulada do seu lóbulo esquerdo.",
-          "id": "Pusatkan perhatian Anda sepenuhnya pada gelombang suara tuts dan resonansi yang dihasilkan, membersihkan sisa kelelahan logika."
+          "ko": "건반 소리의 파동과 화음의 울림에 온 주의력을 집중하여, 뇌의 수리 논리 영역에 고여 있던 피로를 깨끗이 비워내며 루틴을 마칩니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "악보가 없는 피아노 즉흥 연주는 어떻게 시작하나요?",
-          "en": "How do I start a piano improvisation without sheet music?",
-          "ja": "楽譜がないピアノの即興演奏はどのように始めますか？",
-          "zh": "没有乐谱的钢琴即兴弹奏该如何开始？",
-          "es": "¿Cómo empiezo una improvisación de piano sin partitura?",
-          "fr": "Comment commencer une improvisation au piano sans partition ?",
-          "de": "Wie beginne ich eine Klavierimprovisation ohne Noten?",
-          "pt": "Como começo uma improvisação de piano sem partitura?",
-          "id": "Bagaimana cara memulai improvisasi piano tanpa lembar musik?"
+          "ko": "악보가 없는 피아노 즉흥 연주는 어떻게 시작하나요?"
         },
         "answer": {
-          "ko": "멜로디의 완벽성이나 불협화음에 개의치 않고 손가락이 가는 대로 건반의 무게감과 소리의 울림에 온 주의를 모아 자유롭게 누르는 것이 뇌의 주의력 네트워크를 이완하고 리셋하는 열쇠입니다.",
-          "en": "Freely press keys as your fingers lead without worrying about melody or dissonance. Focusing solely on the key touch and resonance relaxes and resets the brain's attention network.",
-          "ja": "メロディーの完璧さや不協和音にこだわらず、指の赴くまま鍵盤の重みと音の響きに全神経を集中させて自由に弾くことが、脳の注意ネットワークを弛緩させリセットする鍵です。",
-          "zh": "无需在乎旋律的完美与否或是不和谐音，指尖随心而动，将全部注意力集中在琴键的触感和声音的共鸣上，自由敲击是放松并重置大脑注意力网络的钥匙。",
-          "es": "Presiona las teclas libremente como tus dedos te guíen sin preocuparte por la melodía. Concentrarse solo en el tacto y la resonancia relaja y reinicia la red de atención cerebral.",
-          "fr": "Appuyez librement sur les touches selon l'inspiration sans vous soucier de la mélodie. Se concentrer sur le toucher et la résonance détend et réinitialise le réseau d'attention du cerveau.",
-          "de": "Drücken Sie die Tasten frei nach Gefühl, ohne sich um die Melodie zu sorgen. Die Konzentration auf den Tastenanschlag entspannt und setzt das Aufmerksamkeitsnetzwerk zurück.",
-          "pt": "Pressione as teclas livremente conforme seus dedos guiarem sem se preocupar com a melodia. Concentrar-se apenas no toque e na ressonância relaxa e reinicia la rede de atenção cerebral.",
-          "id": "Tekan tuts secara bebas tanpa mengkhawatirkan melodi. Fokus pada sentuhan tuts dan resonansi suara merelaksasi serta mengatur ulang jaringan konsentrasi otak."
+          "ko": "멜로디의 완벽성이나 불협화음에 개의치 않고 손가락이 가는 대로 건반의 무게감과 소리의 울림에 온 주의를 모아 자유롭게 누르는 것이 뇌의 주의력 네트워크를 이완하고 리셋하는 열쇠입니다."
         }
       },
       {
         "question": {
-          "ko": "피아노 대신 다른 악기로도 인지 리셋이 가능한가요?",
-          "en": "Can I achieve a cognitive reset with other instruments besides the piano?",
-          "ja": "ピアノの代わりに他の楽器でも認知リセットが可能ですか？",
-          "zh": "除了钢琴，用其他乐器也能实现认知重置吗？",
-          "es": "¿Puedo lograr un reinicio cognitivo con otros instrumentos además del piano?",
-          "fr": "Puis-je obtenir une réinitialisation cognitive avec d'autres instruments que le piano ?",
-          "de": "Kann ich einen kognitiven Reset mit anderen Instrumenten als dem Klavier erzielen?",
-          "pt": "Posso obter um reinício cognitivo com outros instrumentos além do piano?",
-          "id": "Apakah pengaturan ulang kognitif bisa dilakukan dengan alat musik selain piano?"
+          "ko": "피아노 대신 다른 악기로도 인지 리셋이 가능한가요?"
         },
         "answer": {
-          "ko": "네, 기타나 우쿨렐레 등 손가락의 정교한 감각을 요구하고 소리의 여운을 직접 조율할 수 있는 현악기나 건반악기류라면 무엇이든 뇌의 주의 네트워크 전환 효과를 제공합니다.",
-          "en": "Yes. Any string or keyboard instruments that require precise finger coordination and allow direct control over resonance will provide similar attention-shifting effects.",
-          "ja": "はい。ギターやウクレレなど、指の精巧な感覚を要求し、音の余韻を直接調整できる弦楽器や鍵盤楽器類であれば、何でも脳の注意ネットワーク切り替え効果を提供します。",
-          "zh": "可以。任何需要手指精细触感并能亲自控制余音的弦乐器或键盘乐器，都能提供类似的大脑注意力网络转换效果。",
-          "es": "Sí. Cualquier instrumento de cuerda o teclado que requiera coordinación fina y permita controlar la resonancia proporcionará efectos similares de cambio de atención.",
-          "fr": "Oui. Tout instrument à cordes ou à clavier nécessitant une coordination fine et permettant de contrôler la résonance fournira des effets similaires sur l'attention.",
-          "de": "Ja. Jedes Saiten- oder Tasteninstrument, das feine Koordination erfordert und Resonanzkontrolle ermöglicht, erzielt ähnliche Effekte.",
-          "pt": "Sim. Qualquer instrumento de corda ou teclado que exija coordenação fina e permita controlar a ressonância proporcionará efeitos semelhantes de mudança de atenção.",
-          "id": "Ya. Alat musik gesek, petik, atau tuts yang membutuhkan koordinasi jari halus dan kontrol suara langsung memberikan efek pengalihan perhatian yang serupa."
+          "ko": "네, 기타나 우쿨렐레 등 손가락의 정교한 감각을 요구하고 소리의 여운을 직접 조율할 수 있는 현악기나 건반악기류라면 무엇이든 뇌의 주의 네트워크 전환 효과를 제공합니다."
         }
       }
-    ],
-    "pubDate": "2026-04-01",
-    "updatedDate": "2026-04-01"
+    ]
   }
 }

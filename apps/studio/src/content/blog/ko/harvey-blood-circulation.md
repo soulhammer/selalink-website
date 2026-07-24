@@ -1,19 +1,27 @@
 ---
-formatVersion: 4
 title: "윌리엄 하비의 혈액 순환 정량 검증법: 객관적 수치 계산으로 맹목적 편견을 부수는 법"
 description: "17세기 영국의 의사 윌리엄 하비가 심장 박동량의 수학적 정량 계산으로 2000년간 서양을 지배한 맹목적 통념을 깨뜨린 역사적 사실과 수치 검증의 뇌과학을 다룹니다."
-pubDate: "2026-03-14"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["수치", "검증", "순환", "의학"]
-heroImage: "/images/blog/harvey_blood_circulation.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/harvey_blood_circulation.png"
 app: "buildself"
-authority: "윌리엄 하비의 저서 《심장과 혈액의 운동에 관하여》(1628) 및 Physiological Reviews 저널 연구"
-updatedDate: "2026-03-14"
+formatVersion: 4
+authority: "Harvey Blood Circulation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+steps:
+  - name: "모호한 고정관념이나 가설에 이의 제기"
+    text: "당연하게 여겨지지만 객관적 수치 데이터가 부재한 통념이나 기존 업무 방식을 식별합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
+  - name: "핵심 요소를 정량적 수치 단위로 전환"
+    text: "핵심 변수들의 양, 속도, 시간, 비율을 명확한 정량 수치 단위로 치환하여 노트에 정렬합니다."
+  - name: "15분 수학적 정량 순환 검증 스프린트"
+    text: "15분간 연산과 수치 비교를 통해 시스템의 입출력 순환이 모순 없이 들어맞는지 엄밀히 검증합니다."
 faqs:
   - question: "비즈니스 지표 분석이나 기획 의사결정에 어떻게 적용하나요?"
     answer: "'사용자가 좋아한다'는 모호한 표현 대신, 사용자 유입량, 머무른 시간, 이탈률이라는 닫힌 정량 수치 순환 고리로 검증하세요."
   - question: "정량적 수치가 내 직관이나 기존 지식과 상충하면 어떻게 하나요?"
     answer: "직관보다 측정된 객관적 숫자를 신뢰해야 합니다. 역사적으로 직관은 종종 시대에 뒤떨어진 고정관념을 방어하려는 뇌의 착각이었습니다."
+
 ---
 
 "진리는 교과서의 전통에 있지 않고, 오직 객관적으로 측정된 자연의 수치 속에 존재한다." 🫀
@@ -28,25 +36,25 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 윌리엄 하비의 명저 《동물의 심장과 혈액의 운동에 관한 해부학적 논고》(De Motu Cordis, 1628)와 왕립의사회 기록 및 Physiological Reviews 저널의 '정량 분석과 전전두엽 인과 회로' 연구를 기반으로 작성되었습니다.
+      본 콘텐츠는 <strong>Harvey Blood Circulation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 harvey-blood-circulation 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 정량 수치 계산이 좌뇌의 논리적 통제력을 강화하는 이유
+## 정량 수치 계산이 좌뇌의 논리적 통제력을 강화하는 이유
 
-신경과학 연구에 따르면 막연한 감정이나 관습이 아닌 구체적인 수치 데이터와 수학적 정량 계산을 다루는 습관은 좌측 두정엽 및 전전두엽 인과 회로를 강하게 자극합니다.
-
-주관적 편견과 모호함을 단번에 부숴주고, 현실적 객관성에 기반한 칼날 같은 판단력을 제공해 줍니다.
+신경과학 연구에 따르면 막연한 감정이 아닌 구체적인 수치 데이터와 양적 계산을 다루는 습관은 좌측 두정엽 및 전전두엽 인과 회로를 강하게 자극하여 주관적 편견과 모호함을 단번에 부숴줍니다. 신경과학적 연구에 따르면 이 행동은 편도체의 불필요한 불안 반응을 억제하고 시공간 스케치북 회로를 활성화하여 장기 집행 기능을 획기적으로 향상시킵니다.
 
 ---
 
-## 2. 현대인을 위한 윌리엄 하비 정량 검증 3단계 실천 가이드
+## 윌리엄 하비의 검증 습관 주의사항 및 팁
+
+권위나 통념이라는 이유로 검증 없이 수용하지 마세요. 모호한 가설을 숫자와 측정 가능한 정량 수치 단위로 전환하는 것이 핵심입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -54,7 +62,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">모호한 고정관념이나 가설에 이의 제기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    당연하게 여겨지지만 객관적 수치 데이터가 부재한 통념이나 기존 업무 방식을 식별합니다.
+    당연하게 여겨지지만 객관적 수치 데이터가 부재한 통념이나 기존 업무 방식을 식별합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다.
   </p>
 </div>
 
@@ -78,27 +86,13 @@ faqs:
   </p>
 </div>
 
----
-
-## 3. 윌리엄 하비의 검증 습관 주의사항 및 팁
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      권위나 통념이라는 이유로 검증 없이 수용하지 마세요. 모호한 가설을 숫자와 측정 가능한 정량 수치 단위로 전환하는 것이 핵심입니다.
-    </p>
-  </div>
-</div>
-
----
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>비즈니스 지표 분석이나 기획 의사결정에 어떻게 적용하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -106,9 +100,9 @@ faqs:
       '사용자가 좋아한다'는 모호한 표현 대신, 사용자 유입량, 머무른 시간, 이탈률이라는 닫힌 정량 수치 순환 고리로 검증하세요.
     </p>
   </details>
-
+  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>정량적 수치가 내 직관이나 기존 지식과 상충하면 어떻게 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

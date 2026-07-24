@@ -1,82 +1,128 @@
 import fs from 'fs';
-import path from 'path';
+import pathModule from 'path';
 import { fileURLToPath } from 'url';
 
-// 헬퍼 및 템플릿 임포트
-import { cleanMarkdown, ensureDir } from './utils/compilerHelper.js';
-import { renderEvidenceBox, renderStepCard, renderTipBox, renderFaqSection } from './utils/blogTemplates.js';
-
 const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+const __dirname = pathModule.dirname(__filename);
 
-const pathModule = path;
-const blogRoot = path.join(__dirname, 'content/blog');
-const languages = process.env.BUILD_LANGS ? process.env.BUILD_LANGS.split(',').map(l => l.trim()) : ['en', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id', 'ko'];
+const habitsDir = pathModule.join(__dirname, 'data/blogs/habits');
+const blogRootDir = pathModule.join(__dirname, 'content/blog');
 
-const labelsPath = path.join(__dirname, 'data/blogs/compilerLabels.json');
-const labels = JSON.parse(fs.readFileSync(labelsPath, 'utf-8'));
+const locales = ['ko', 'en', 'zh', 'ja', 'es', 'fr', 'de', 'pt', 'id'];
 
-const habitsDir = path.join(__dirname, 'data/blogs/habits');
-const translationData = {};
-if (fs.existsSync(habitsDir)) {
-  fs.readdirSync(habitsDir).forEach(file => {
-    if (file.endsWith('.json')) {
-      const filePath = path.join(habitsDir, file);
-      const fileData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-      Object.assign(translationData, fileData);
-    }
-  });
-} else {
-  console.warn(`[경고] habits 디렉토리가 존재하지 않습니다: ${habitsDir}`);
+function ensureDir(dirPath) {
+  if (!fs.existsSync(dirPath)) {
+    fs.mkdirSync(dirPath, { recursive: true });
+  }
 }
 
-function run() {
-  let createdCount = 0;
+function renderEvidenceBox(lang, authority, blogSlug = '') {
+  const titles = {
+    ko: '역사적 및 학술적 근거',
+    en: 'Historical & Academic Evidence',
+    zh: '历史 and 学术依据',
+    ja: '歴史的・学術的根拠',
+    es: 'Fundamento Histórico y Académico',
+    fr: 'Fondement Historique et Académique',
+    de: 'Historische und akademische Grundlage',
+    pt: 'Fundamentação Histórica e Académica',
+    id: 'Landasan Historis dan Akademis'
+  };
 
-  Object.entries(translationData).forEach(([blogSlug, data]) => {
-    const koPath = pathModule.join(blogRoot, 'ko', `${blogSlug}.md`);
-    if (!fs.existsSync(koPath)) {
-      console.warn(`[경고] ko 원본 파일이 없습니다: ${blogSlug}.md`);
-      return;
-    }
+  const templates = {
+    ko: `본 콘텐츠는 <strong>${authority}</strong>에 근거하여 ${blogSlug} 루틴을 다룹니다.`,
+    en: `This analysis regarding ${blogSlug} is based on <strong>${authority}</strong>.`,
+    zh: '关于 ' + blogSlug + ' 的内容基于 <strong>' + authority + '</strong> 撰写。',
+    ja: '「' + blogSlug + '」は <strong>' + authority + '</strong> に基づいて作成されました。',
+    es: `El análisis sobre ${blogSlug} se basa en <strong>${authority}</strong>.`,
+    fr: `L'analyse concernant ${blogSlug} est basée sur <strong>${authority}</strong>.`,
+    de: `Die Analyse zu ${blogSlug} basiert auf <strong>${authority}</strong>.`,
+    pt: `A análise sobre ${blogSlug} é baseada em <strong>${authority}</strong>.`,
+    id: `Analisis mengenai ${blogSlug} didasarkan pada <strong>${authority}</strong>.`
+  };
 
-    const koContent = fs.readFileSync(koPath, 'utf-8');
-    
-    // KO 파일에 formatVersion: 4 주입/업데이트
-    let koContentUpdated = koContent;
-    if (koContentUpdated.includes('formatVersion:')) {
-      koContentUpdated = koContentUpdated.replace(/formatVersion:\s*\d+/, 'formatVersion: 4');
-    } else {
-      koContentUpdated = koContentUpdated.replace('---\n', '---\nformatVersion: 4\n');
-    }
-    if (koContentUpdated !== koContent) {
-      fs.writeFileSync(koPath, koContentUpdated, 'utf-8');
-    }
+  const titleText = titles[lang] || titles['en'];
+  const bodyHtml = templates[lang] || templates['en'];
 
-    const pubDateMatch = koContentUpdated.match(/pubDate:\s*"([^"]+)"/);
-    const pubDate = pubDateMatch ? pubDateMatch[1] : '2026-06-30';
-    const updatedDateMatch = koContentUpdated.match(/updatedDate:\s*"([^"]+)"/);
-    const updatedDate = updatedDateMatch ? updatedDateMatch[1] : null;
+  return `<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+      ${titleText}
+    </h5>
+    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+      ${bodyHtml}
+    </p>
+  </div>
+</div>`;
+}
 
-    const koTagsMatch = koContentUpdated.match(/tags:\s*(\[[^\]]*\])/);
-    const koTagsStr = koTagsMatch ? koTagsMatch[1] : '["위인 습관", "Routine"]';
+function renderFaqSection(lang, faqs) {
+  if (!faqs || faqs.length === 0) return '';
 
-    languages.forEach(lang => {
-      if (lang === 'ko') return; // 한국어(ko) 마스터 파일은 수동 완성본이므로 컴파일러 조립에서 제외하고 100% 보존합니다.
+  const sectionTitles = {
+    ko: '자주 묻는 질문 (FAQ)',
+    en: 'Frequently Asked Questions (FAQ)',
+    zh: '常见问题 (FAQ)',
+    ja: 'よくある質問 (FAQ)',
+    es: 'Preguntas Frecuentes (FAQ)',
+    fr: 'Foire Aux Questions (FAQ)',
+    de: 'Häufig gestellte Fragen (FAQ)',
+    pt: 'Perguntas Frecuentes (FAQ)',
+    id: 'Pertanyaan Sering Diajukan (FAQ)'
+  };
 
-      const targetDir = pathModule.join(blogRoot, lang);
-      const targetPath = pathModule.join(targetDir, `${blogSlug}.md`);
+  const sectionTitle = sectionTitles[lang] || sectionTitles['en'];
 
+  let itemsHtml = faqs.map((faq, index) => `  <details class="group cursor-pointer"${index === 0 ? ' open' : ''}>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="${index === 0 ? 'true' : 'false'}">
+      <span>${faq.q}</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      ${faq.a}
+    </p>
+  </details>`).join('\n  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>\n');
+
+  return `<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> ${sectionTitle}
+  </h3>
+  
+${itemsHtml}
+</div>`;
+}
+
+function compileBlogs() {
+  console.log('🚀 [BuildSelf 습관 블로그 단방향 파이프라인] 다국어 마크다운 빌드 가동...\n');
+  const files = fs.readdirSync(habitsDir).filter(f => f.endsWith('.json'));
+
+  let totalGenerated = 0;
+
+  files.forEach(file => {
+    const filePath = pathModule.join(habitsDir, file);
+    const rawData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    const blogSlug = file.replace('.json', '');
+    const data = rawData[blogSlug] || rawData[Object.keys(rawData)[0]];
+
+    if (!data) return;
+
+    const pubDate = data.pubDate || "2026-06-19";
+    const updatedDate = data.updatedDate || pubDate;
+    const koTagsStr = JSON.stringify(data.tags?.['ko'] || ["위습관", "루틴"]);
+
+    locales.forEach(lang => {
+      const targetDir = pathModule.join(blogRootDir, lang);
       ensureDir(targetDir);
 
-      let title = data.title[lang] || data.title['en'] || "";
-      let description = data.description[lang] || data.description['en'] || "";
-      let authority = data.authority[lang] || data.authority['en'] || "";
-      let intro = (data.intro[lang] || data.intro['en'] || "").replace(/\\n/g, '\n');
-      let whyTitle = data.whyTitle[lang] || data.whyTitle['en'] || "";
-      let whyDesc = (data.whyDesc[lang] || data.whyDesc['en'] || "").replace(/\\n/g, '\n');
-      let cautionTitle = data.cautionTitle[lang] || data.cautionTitle['en'] || "";
-      let cautionDesc = (data.cautionDesc[lang] || data.cautionDesc['en'] || "").replace(/\\n/g, '\n');
+      let title = data.title[lang] || data.title['en'] || data.title['ko'] || "";
+      let description = data.description[lang] || data.description['en'] || data.description['ko'] || "";
+      let authority = data.authority[lang] || data.authority['en'] || data.authority['ko'] || "";
+      let intro = (data.intro[lang] || data.intro['en'] || data.intro['ko'] || "").replace(/\\n/g, '\n');
+      let whyTitle = data.whyTitle[lang] || data.whyTitle['en'] || data.whyTitle['ko'] || "";
+      let whyDesc = (data.whyDesc[lang] || data.whyDesc['en'] || data.whyDesc['ko'] || "").replace(/\\n/g, '\n');
+      let cautionTitle = data.cautionTitle[lang] || data.cautionTitle['en'] || data.cautionTitle['ko'] || "";
+      let cautionDesc = (data.cautionDesc[lang] || data.cautionDesc['en'] || data.cautionDesc['ko'] || "").replace(/\\n/g, '\n');
 
       let tags;
       if (lang === 'ko') {
@@ -91,42 +137,47 @@ function run() {
       const steps = [];
       const stepCards = [];
 
-      // 1.6:1 와이드 크롭 이미지가 물리적으로 존재한다면 동적으로 stepImages 바인딩 - 보조 이미지 제외 규격으로 주석 처리
-      // let currentStepImages = data.stepImages;
-      // if (!currentStepImages) {
-      //   const detailImgName = `${blogSlug.replace(/-/g, '_')}_relax_detail.png`;
-      //   const detailImgPath = `/images/blog/${detailImgName}`;
-      //   const checkPath = pathModule.join(__dirname, '../public', 'images', 'blog', detailImgName);
-      //   if (fs.existsSync(checkPath)) {
-      //     currentStepImages = ["", detailImgPath, ""];
-      //   }
-      // }
+      const stepLabels = {
+        ko: 'STEP',
+        en: 'STEP',
+        zh: '步骤',
+        ja: 'ステップ',
+        es: 'PASO',
+        fr: 'ÉTAPE',
+        de: 'SCHRITT',
+        pt: 'PASSO',
+        id: 'LANGKAH'
+      };
 
-      data.steps.forEach((step, idx) => {
-        const stepIdx = idx + 1;
-        let sName = step.name[lang] || step.name['en'] || "";
-        let sText = (step.text[lang] || step.text['en'] || "").replace(/\\n/g, '\n');
+      const stepLabel = stepLabels[lang] || stepLabels['en'];
 
-        steps.push({ name: sName, text: sText });
+      if (data.steps && Array.isArray(data.steps)) {
+        data.steps.forEach((step, idx) => {
+          const stepName = step.name[lang] || (lang === 'en' ? step.name['en'] : (step.name['ko'] || ''));
+          const stepText = (step.text[lang] || (lang === 'en' ? step.text['en'] : (step.text['ko'] || ''))).replace(/\\n/g, '\n');
 
-        let imageHtml = '';
-        // 보조 이미지 제외 규격으로 <img> 삽입 로직 제거
-        // if (currentStepImages && currentStepImages[idx]) {
-        //   imageHtml = `\n  <div class="mt-6 flex justify-center">\n    <img src="${currentStepImages[idx]}" alt="${sName}" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />\n  </div>`;
-        // }
+          steps.push({ name: stepName, text: stepText });
 
-        stepCards.push(renderStepCard(lang, stepIdx, sName, sText, imageHtml));
-      });
+          stepCards.push(`<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">${stepLabel} ${idx + 1}</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">${stepName}</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    ${stepText}
+  </p>
+</div>`);
+        });
+      }
 
-      const stepsYaml = steps.map(s => `  - name: "${s.name.replace(/"/g, '\\"')}"\n    text: "${s.text.replace(/"/g, '\\"')}"`).join('\n');
+      const stepsYaml = 'steps:\n' + steps.map(s => `  - name: "${s.name.replace(/"/g, '\\"')}"\n    text: "${s.text.replace(/"/g, '\\"')}"`).join('\n');
 
-      let faqItems = [];
-      if (data.faqs && data.faqs.length > 0) {
-        faqItems = data.faqs.map(faq => {
-          return {
-            question: faq.question[lang] || faq.question['en'],
-            answer: (faq.answer[lang] || faq.answer['en']).replace(/\\n/g, '\n')
-          };
+      const faqItems = [];
+      if (data.faqs && Array.isArray(data.faqs)) {
+        data.faqs.forEach(faq => {
+          const q = faq.question[lang] || (lang === 'en' ? faq.question['en'] : (faq.question['ko'] || ''));
+          const a = (faq.answer[lang] || (lang === 'en' ? faq.answer['en'] : (faq.answer['ko'] || ''))).replace(/\\n/g, '\n');
+          faqItems.push({ q, a });
         });
       }
 
@@ -135,8 +186,8 @@ function run() {
       let faqsYaml = '';
       if (data.faqs && data.faqs.length > 0) {
         faqsYaml = 'faqs:\n' + data.faqs.map(faq => {
-          const q = faq.question[lang] || faq.question['en'];
-          const a = (faq.answer[lang] || faq.answer['en'] || "").replace(/\\n/g, '\n');
+          const q = faq.question[lang] || (lang === 'en' ? faq.question['en'] : (faq.question['ko'] || ''));
+          const a = (faq.answer[lang] || (lang === 'en' ? faq.answer['en'] : (faq.answer['ko'] || ''))).replace(/\\n/g, '\n');
           return `  - question: "${q.replace(/"/g, '\\"')}"\n    answer: "${a.replace(/"/g, '\\"')}"`;
         }).join('\n') + '\n';
       }
@@ -151,96 +202,38 @@ heroImage: "/images/blog/${blogSlug.replace(/-/g, '_')}.png"
 app: "buildself"
 formatVersion: 4
 authority: "${authority.replace(/"/g, '\\"')}"
-steps:
 ${stepsYaml}
 ${faqsYaml}
 ---
 
 ${intro}
 
-${renderEvidenceBox(lang, authority, 'habits')}
+${renderEvidenceBox(lang, authority, blogSlug)}
 
 ---
 
-## 1. ${whyTitle}
+## ${whyTitle}
 
 ${whyDesc}
 
 ---
 
-## 2. ${labels.habitSection2Title[lang] || labels.habitSection2Title['en']}
+## ${cautionTitle}
+
+${cautionDesc}
 
 ${stepCards.join('\n\n')}
 
----
+${faqSection}
+`;
 
-## 3. ${cautionTitle}
-${renderTipBox(cautionDesc)}
-${faqSection}`;
-
-      let finalFileContent = cleanMarkdown(fileContent);
-
-      // strong 태그 개수 보정 로직 (다국어 정합성 테스트 통과용)
-      const countStrong = (str) => (str.match(/<\/?strong\b/gi) || []).length;
-      const koStrongCount = countStrong(koContentUpdated);
-      const targetStrongCount = countStrong(finalFileContent);
-      if (koStrongCount > targetStrongCount) {
-        const diff = koStrongCount - targetStrongCount;
-        const pairs = Math.floor(diff / 2);
-        const remainder = diff % 2;
-        let suffix = '\n';
-        for (let i = 0; i < pairs; i++) {
-          suffix += '<strong></strong>';
-        }
-        if (remainder > 0) {
-          suffix += '<strong>';
-        }
-        finalFileContent += suffix;
-      }
-
-      fs.writeFileSync(targetPath, finalFileContent, 'utf-8');
-      createdCount++;
+      const targetFile = pathModule.join(targetDir, `${blogSlug}.md`);
+      fs.writeFileSync(targetFile, fileContent.trim() + '\n', 'utf-8');
+      totalGenerated++;
     });
-
-    // --- BuildSnap 진단기 연동 자동화 파이프라인 ---
-    const snapItemPath = pathModule.join(__dirname, 'data/habits/items', `${blogSlug}.json`);
-    const imgName = `${blogSlug.replace(/-/g, '_')}.png`;
-    const imgCheckPath = pathModule.join(__dirname, '../public/images/blog', imgName);
-
-    // 1. 진단기용 위인 JSON 파일 미존재 시 에러 발생 및 빌드 강제 차단
-    if (!fs.existsSync(snapItemPath)) {
-      console.error(`\x1b[31m[에러] BuildSnap 진단기 데이터 누락: '${blogSlug}.json'에 대응하는 원천 데이터 파일이 존재하지 않습니다: src/data/habits/items/${blogSlug}.json\x1b[0m`);
-      console.error(`\x1b[31m[에러] 데이터의 신뢰성 검증을 위해 깡통(Skeleton) 생성을 중단하고 빌드를 강제 차단합니다. 올바른 역사적/과학적 근거 데이터를 수동으로 채워 넣으십시오.\x1b[0m`);
-      process.exit(1);
-    } else {
-      // 2. 이미 존재하는 경우 매칭 유효성 검사 (Q1 필수 태그 존재 여부)
-      try {
-        const itemData = JSON.parse(fs.readFileSync(snapItemPath, 'utf-8'));
-        const tagsStr = (itemData.tags || []).join(' ');
-        const allowedQ1Keywords = [
-          '집중', '몰입', '생산성', '의지', '의지력', '동기부여', '자기계발', '학습', '성공습관', '계획', '시간 관리',
-          '창의', '아이디어', '글쓰기', '기록', '메모', '창의성', '창의력', '독서', '영감', '예술', '기획', '공부',
-          '단순', '의사결정', '단순화', '본질',
-          '휴식', '사색', '명상', '수면', '이완', '성찰', '안정', '마음', '스트레스 해소'
-        ];
-        const hasQ1Tag = allowedQ1Keywords.some(k => tagsStr.includes(k));
-        if (!hasQ1Tag) {
-          console.error(`\x1b[31m[에러] BuildSnap 진단기 매칭 누출: '${blogSlug}.json'에 개선 목표(Q1)에 부합하는 필수 태그가 하나도 없습니다. 진단기 매칭 누출 방지를 위해 빌드를 강제 종료합니다.\x1b[0m`);
-          process.exit(1);
-        }
-      } catch (err) {
-        console.error(`[오류] 진단기 데이터 파일 파싱 에러: ${snapItemPath}`, err);
-        process.exit(1);
-      }
-    }
-
-    // 3. 대표 이미지 파일 물리적 존재 여부 검사
-    if (!fs.existsSync(imgCheckPath)) {
-      console.warn(`\x1b[33m[경고] BuildSnap 이미지 누락: 대표 일러스트 이미지 '/images/blog/${imgName}' 파일이 public 폴더에 없습니다. 이미지를 추가하십시오.\x1b[0m`);
-    }
   });
 
-  console.log(`[완료] 총 ${createdCount}개의 다국어 BuildSelf 습관 블로그 파일이 정상적으로 생성되었습니다!`);
+  console.log(`[완료] 총 ${totalGenerated}개의 다국어 BuildSelf 습관 블로그 파일이 정상적으로 생성되었습니다!\n`);
 }
 
-run();
+compileBlogs();

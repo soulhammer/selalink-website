@@ -1,223 +1,72 @@
 {
   "britten-afternoon-walk": {
     "title": {
-      "ko": "오후 해안가 산책으로 난제를 해결한 작곡가? 벤자민 브리튼의 두뇌 해방 루틴",
-      "en": "The Composer Who Solved Difficult Problems with an Afternoon Coastal Walk? Benjamin Britten's Brain Liberation Routine",
-      "ja": "午後の海岸散歩で難題を解決した作曲家？ベンジャミン・ブリテンの脳解放ルーティン",
-      "zh": "通过午后海岸散步解决难题的作曲家？本杰明·布里顿的大脑释放惯例",
-      "es": "¿El compositor que resolvía problemas difíciles con un paseo por la costa? La rutina de liberación cerebral de Benjamin Britten",
-      "fr": "Le compositeur qui résolvait ses problèmes en marchant sur la côte ? La routine de libération mentale de Benjamin Britten",
-      "de": "Der Komponist, der Probleme bei einem Nachmittagsspaziergang löste? Benjamin Brittens Entlastungsroutine",
-      "pt": "O compositor que resolvia problemas complexos com uma caminhada na costa? A rotina de liberação cerebral de Benjamin Britten",
-      "id": "Komposer yang Memecahkan Masalah Sulit dengan Jalan Sore di Pantai? Rutinitas Pembebasan Otak Benjamin Britten"
+      "ko": "오후 해안가 산책으로 난제를 해결한 작곡가? 벤자민 브리튼의 두뇌 해방 루틴"
     },
     "description": {
-      "ko": "작곡가 벤자민 브리튼은 매일 오후 해안길을 산책하며 오전 동안 머리속에 채워 넣은 음표의 구조를 다듬었습니다. 강렬한 지적 노동 후 뇌의 주의 피로를 풀고 창의적 통합을 촉진하는 신경학적 원리를 설명합니다.",
-      "en": "Composer Benjamin Britten walked the coast every afternoon to refine the structure of music. Discover how walking after intense intellectual work recovers attention fatigue and prompts creative integration.",
-      "ja": "作曲家ベンジャミン・ブリテンは、毎日午後に海岸線を散歩しながら、午前中に頭の中に練り上げた楽曲の構成を整えていました。激しい知的労働の後に脳の注意疲労を和らげ、創造的な統合を促進する神経学的な原理を解説します。",
-      "zh": "作曲家本杰明·布里顿每天下午在海岸边散步，以此细化上午塞入脑海中的音符结构。阐述在强烈的智力劳动后缓解大脑疲劳、促进创造性整合的神经学原理。",
-      "es": "El compositor Benjamin Britten caminaba junto al mar cada tarde para pulir las notas acumuladas por la mañana. Explicamos cómo aliviar la fatiga de atención tras el esfuerzo mental.",
-      "fr": "Le compositeur Benjamin Britten marchait sur la côte chaque après-midi pour retravailler sa musique. Découvrez comment la marche après l'effort intellectuel dissipe la fatigue mentale.",
-      "de": "Der Komponist Benjamin Britten ging jeden Nachmittag an der Küste spazieren, um die Musik im Kopf to ordnen. Erfahren Sie, wie Spaziergänge geistige Erschöpfung abbauen.",
-      "pt": "O compositor Benjamin Britten caminava à beira-mar todas as tardes para lapidar as notas musicais. Explicamos como aliviar la fatiga de atención tras el esfuerzo mental.",
-      "id": "Komposer Benjamin Britten berjalan di pantai setiap sore untuk menyempurnakan struktur musik. Pelajari bagaimana berjalan setelah kerja intelektual memulihkan kelelahan."
+      "ko": "작곡가 벤자민 브리튼은 매일 오후 해안길을 산책하며 오전 동안 머리속에 채워 넣은 음표의 구조를 다듬었습니다. 강렬한 지적 노동 후 뇌의 주의 피로를 풀고 창의적 통합을 촉진하는 신경학적 원리를 설명합니다."
     },
     "authority": {
-      "ko": "험프리 카펜터의 '벤자민 브리튼 전기' 및 휴먼 뉴로사이언스(Frontiers in Human Neuroscience) 학술지",
-      "en": "Humphrey Carpenter's 'Benjamin Britten: A Biography' & 'Frontiers in Human Neuroscience' Journal",
-      "ja": "ハンフリー・カーペンター「ベンジャミン・ブリテン評伝」および学術誌「Frontiers in Human Neuroscience」",
-      "zh": "卡朋特《本杰明·布里顿传》与《人类神经科学前沿(Frontiers in Human Neuroscience)》期刊",
-      "es": "Biografía de Benjamin Britten de Humphrey Carpenter y revista Frontiers in Human Neuroscience",
-      "fr": "Biographie de Benjamin Britten par Humphrey Carpenter & revue Frontiers in Human Neuroscience",
-      "de": "Humphrey Carpenters 'Benjamin Britten: A Biography' & Fachzeitschrift Frontiers in Human Neuroscience",
-      "pt": "Biografia de Benjamin Britten de Humphrey Carpenter & revista Frontiers in Human Neuroscience",
-      "id": "Biografi Benjamin Britten oleh Humphrey Carpenter & Jurnal 'Frontiers in Human Neuroscience'"
+      "ko": "벤자민 브리튼 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "오페라 '피터 그라임스'와 '청소년을 위한 관현악 입문'을 작곡하며 20세기 영국 음악의 위대한 도약을 이끌었던 거장 벤자민 브리튼. 그의 복잡하고 지성적인 현대 음악의 화성학적 실타래들은 악보 앞이 아닌, 거친 해풍이 부는 서퍽(Suffolk)의 올드버러 해안길 산책로에서 풀렸습니다. 🌊\n\n브람스 못지않게 철저한 규칙을 지켰던 브리튼은 매일 오전 8시부터 오후 1시까지 집중해서 창곡을 한 후, 펜과 오선지를 완전히 책상에 둔 채 집 밖으로 나왔습니다. He는 고향의 거친 자갈 해안가를 따라 매일 일정한 코스로 산책을 나섰습니다. 그는 산책하며 파도 소리에 맞춰 머릿속으로 아침에 적은 선율과 화음 구조들을 정교하게 가다듬었습니다. 그는 이 산책길에서 머릿속 가상의 오케스트라 연주를 반복해 들으며 멜로디의 흠결을 지워내고 논리적 구조를 완전히 정립했습니다. 브리튼은 산책에 대해 '산책하는 동안 나는 내 음악의 가장 골치 아프고 어려운 난제들을 모두 해결해 낸다'고 남겼습니다.\n\n오늘 BuildSelf에서는 벤자민 브리튼이 매일 고수했던 '오후 뇌 해방 산책' 루틴의 뇌 과학적 원리와, 정보에 치여 뇌에 가부하가 걸린 현대인의 작업 능률을 다시 살리는 두뇌 회복 방법을 소개합니다.",
-      "en": "Benjamin Britten, a maestro who led a great leap in 20th-century British music by composing the opera 'Peter Grimes' and 'The Young Person's Guide to the Orchestra.' The harmonic threads of his complex and intellectual modern music were unraveled not in front of a sheet of music, but on the walking path of the Aldeburgh beach in Suffolk where a harsh sea breeze blew. 🌊\n\nBritten, who kept rules as strict as Brahms, composed music from 8 AM to 1 PM every morning, and then walked out of his house, leaving his pen and music sheet completely on his desk. He walked along the pebble beach of his hometown on a constant course every day. While walking, he delicately refined the melodies and harmonic structures written in the morning to the sound of waves. He repeatedly listened to his brain's virtual orchestra performance on this path, erasing flaws in the melody and fully establishing the logical structure. Britten wrote about walking, 'During the walk, I resolve all the most troublesome and difficult challenges of my music.'\n\nToday, BuildSelf introduces the brain science principles of the 'afternoon brain liberation walk' routine that Benjamin Britten stuck to every day, and a brain recovery method to revive the work efficiency of modern people whose brains are overloaded with information.",
-      "ja": "この歴史的習慣の実践において： ' ' ' ' 20 . , (Suffolk) . 🌊 この歴史的習慣の実践において： 8 1 , . He . . . ' ' . この歴史的習慣の実践において： BuildSelf ' ' , .",
-      "zh": "在这一历史性惯例的实践中： ' ' ' ' 20 . , (Suffolk) . 🌊 在这一历史性惯例的实践中： 8 1 , . He . . . ' ' . 在这一历史性惯例的实践中： BuildSelf ' ' , .",
-      "es": "Benjamin Britten, el maestro que lideró un gran salto en la música británica del siglo XX al componer la ópera 'Peter Grimes' y 'Guía de orquesta para jóvenes'. Los hilos armónicos de su compleja e intelectual música moderna se desenredaron no frente a una partitura, sino en el paseo marítimo de Aldeburgh en Suffolk, donde soplaba una fuerte brisa marina. 🌊\n\nBritten, que mantenía reglas tan estrictas como Brahms, componía música de 8 a.m. a 1 p.m. cada mañana, y luego salía de su casa, dejando su pluma y partitura por completo en su escritorio. Caminaba por la playa de guijarros de su ciudad natal en un curso constante todos los días. Mientras caminaba, refinaba delicadamente las melodías y estructuras armónicas escritas por la mañana con el sonido de las olas. Escuchaba repetidamente la interpretación de la orquesta virtual de su cerebro en este camino, borrando fallas en la melodía y estableciendo completamente la estructura lógica. Britten wrote sobre caminar: 'Durante el paseo, resuelvo todos los desafíos más problemáticos y difíciles de mi música'.\n\nHoy, BuildSelf presenta los principios de la ciencia cerebral de la rutina de 'paseo de liberación cerebral por la tarde' que Benjamin Britten mantuvo todos los días, y un método de recuperación cerebral para revivir la eficiencia laboral de las personas modernas cuyos cerebros están sobrecargados de información.",
-      "fr": "Benjamin Britten, un maestro qui a mené un grand pas en avant dans la musique britannique du XXe siècle en composant l'opéra 'Peter Grimes' et 'The Young Person's Guide to the Orchestra'. Les fils harmoniques de sa musique moderne complexe et intellectuelle se sont démêlés non pas devant une partition, sino en el paseo marítimo de Aldeburgh en Suffolk, donde soplaba una fuerte brisa marina. 🌊\n\nBritten, qui respectait des règles aussi strictes que Brahms, composait de 8h à 13h chaque matin, puis quittait sa maison, laissant son stylo et sa partition sur son bureau. Il marchait chaque jour sur la plage de galets de sa ville natale selon un itinéraire constant. En marchant, il affinait délicatement les mélodies et les structures harmoniques escritas por la mañana avec le son des vagues. Il écoutait à plusieurs reprises l'orchestre virtuel de son cerveau sur ce sentier, effaçant les imperfections de la mélodie et établissant pleinement la structure logique. Britten a écrit à propos de la marche : 'Pendant la marche, je résous tous les défis les plus fastidieux et difficiles de mi musique'.\n\nAujourd'hui, BuildSelf présente les principes neuroscientifiques de la routine de 'marche de libération cérébrale de l'après-midi' que Benjamin Britten suivait chaque jour, et une méthode de récupération cérébrale para restaurer l'efficacité au travail des personnes modernes dont le cerveau est surchargé d'informations.",
-      "de": "Benjamin Britten, ein Maestro, der mit der Komposition der Oper 'Peter Grimes' und 'The Young Person's Guide to the Orchestra' einen großen sprung in der britischen Musik des 20. Jahrhunderts anführte. Die harmonischen Fäden seiner komplexen und intellektuellen modernen Musik entwirrten sich nicht vor einer Partitur, sondern auf dem Spazierweg am Strand von Aldeburgh in Suffolk, wo eine raue Meeresbrise wehte. 🌊\n\nBritten, der ebenso strenge Regeln wie Brahms einhielt, komponierte jeden Morgen von 8 bis 13 Uhr Musik und verließ dann sein Haus, wobei er Stift und Notenblatt vollständig auf seinem Schreibtisch zurückließ. Er ging jeden Tag auf einem konstanten Kurs am Kieselstrand seiner Heimatstadt spazieren. Beim Gehen verfeinerte er die am Morgen geschriebenen Melodien und harmonischen Strukturen feinfühlig zum Klang der Wellen. Auf diesem Weg hörte er wiederholt der virtuellen Orchesteraufführung seines Gehirns zu, tilgte Mängel in der Melodie und baute die logische Struktur vollständig auf. Britten schrieb über das Gehen: 'Während des Spaziergangs löse ich all die mühsamsten und schwierigsten Herausforderungen meiner Musik'.\n\nHeute stellt BuildSelf die hirnwissenschaftlichen Prinzipien der Routine des 'nachmittäglichen Gehirnbefreiungsspaziergangs' vor, an der Benjamin Britten jeden Tag festhielt, und eine Methode zur Gehirnerholung, um die Arbeitseffizienz moderner Menschen wiederzubeleben, deren Gehirne mit Informationen überlastet sind.",
-      "pt": "Benjamin Britten, um maestro que liderou um grande salto na música británica del siglo XX al componer la ópera 'Peter Grimes' e 'The Young Person's Guide to the Orchestra'. Os fios harmônicos de sua música moderna complexa e intelectual foram desfeitos não diante de uma partitura, mas no caminho de caminhada da praia de Aldeburgh em Suffolk, onde soprava uma brisa marinha rigorosa. 🌊\n\nBritten, que mantinha regras tão rígidas quanto Brahms, compunha das 8h às 13h todas as manhãs, e depois saía de casa, deixando sua caneta e partitura no escritório. He caminhava pela praia de seixos de sua cidade natal em um percurso constante todos os dias. Enquanto caminhava, he refinava delicadamente as melodies e estruturas harmônicas escritas pela manhã com o som das ondas. He ouvia repetidamente a performance da orquestra virtual de seu cérebro neste caminho, apagando falhas na melodia e estabelecendo totalmente la estructura lógica. Britten escreveu sobre a caminhada: 'Durante a caminhada, eu resolvo todos os desafios mais problemáticos e difíceis da minha música'.\n\nHoje, o BuildSelf apresenta os princípios da ciência cerebral da rotina de 'caminhada de liberação cerebral à tarde' que Benjamin Britten mantinha todos os dias, e um método de recuperação cerebral para reviver a eficiência no trabalho das pessoas modernas cujos cérebros estão sobrecarregados de informações.",
-      "id": "Benjamin Britten, seorang maestro yang memimpin lompatan besar dalam musik Inggris abad ke-20 dengan menggubah opera 'Peter Grimes' dan 'The Young Person's Guide to the Orchestra.' Benang harmonis musik modernnya yang kompleks dan intelektual terurai bukan di depan lembaran musik, melainkan di jalan setapak pantai Aldeburgh di Suffolk tempat angin laut berhembus kencang. 🌊 Britten, yang menjaga aturan ketat seperti Brahms, menggubah musik dari jam 8 pagi sampai jam 1 siang setiap hari, and kemudian berjalan keluar rumah, meninggalkan penanya di meja.\n\nDia berjalan di sepanjang pantai kerikil setiap hari dengan rute yang konstan. Sembari berjalan, ia menyempurnakan melodi dan struktur harmonik yang ditulis di pagi hari sesuai suara ombak.\n\nHe berulang kali mendengarkan pertunjukan orkestra virtual otaknya di jalur ini, menghapus kekurangan pada melodi dan membangun struktur logis secara penuh. Britten wrote tentang berjalan, 'Selama berjalan, saya menyelesaikan semua tantangan musik saya yang paling merepotkan & sulit.'"
+      "ko": "오페라 '피터 그라임스'와 '청소년을 위한 관현악 입문'을 작곡하며 20세기 영국 음악의 위대한 도약을 이끌었던 거장 벤자민 브리튼. 그의 복잡하고 지성적인 현대 음악의 화성학적 실타래들은 악보 앞이 아닌, 거친 해풍이 부는 서퍽(Suffolk)의 올드버러 해안길 산책로에서 풀렸습니다. 🌊\n\n브람스 못지않게 철저한 규칙을 지켰던 브리튼은 매일 오전 8시부터 오후 1시까지 집중해서 창곡을 한 후, 펜과 오선지를 완전히 책상에 둔 채 집 밖으로 나왔습니다. 그는 고향의 거친 자갈 해안가를 따라 매일 일정한 코스로 산책을 나섰습니다. 그는 산책하며 파도 소리에 맞춰 머릿속으로 아침에 적은 선율과 화음 구조들을 정교하게 가다듬었습니다. 그는 이 산책길에서 머릿속 가상의 오케스트라 연주를 반복해 들으며 멜로디의 흠결을 지워내고 논리적 구조를 완전히 정립했습니다. 브리튼은 산책에 대해 '산책하는 동안 나는 내 음악의 가장 골치 아프고 어려운 난제들을 모두 해결해 낸다'고 남겼습니다.\n\n오늘 포스트에서는 벤자민 브리튼이 매일 고수했던 '오후 뇌 해방 산책' 루틴의 뇌 과학적 원리와, 정보에 치여 뇌에 가부하가 걸린 현대인의 작업 능률을 다시 살리는 두뇌 회복 방법을 소개합니다."
     },
     "whyTitle": {
-      "ko": "주의 피로 회복 이론(ART)과 무의식적 인지 통합",
-      "en": "Attention Restoration Theory (ART) and Subconscious Cognitive Integration",
-      "ja": "注意回復理論（ART）と無意識の認知統合",
-      "zh": "注意力恢复理论(ART)与潜意识认知整合",
-      "es": "Teoría de la Restauración de la Atención (ART) e Integración Subconsciente",
-      "fr": "Théorie de la Restauration de l'Attention (ART) et Assimilation Subconsciente",
-      "de": "Aufmerksamkeits-Erholungs-Theorie (ART) und unbewusste Verarbeitung",
-      "pt": "Teoria da Restauração da Atenção (ART) e Integração Subconsciente",
-      "id": "Teori Pemulihan Perhatian (ART) dan Integrasi Kognitif Bawah Sadar"
+      "ko": "주의 피로 회복 이론(ART)과 무의식적 인지 통합"
     },
     "whyDesc": {
-      "ko": "오전 시간 내내 고도의 연산이나 기획을 수행한 뇌는 집중 상태를 유지하는 '중앙 집행 네트워크(CEN)'를 가동해 인지적 에너지(글루코스)를 소진한 상태, 즉 '주의 피로(Attention Fatigue)' 상태에 빠집니다. \n\n환경 심리학의 <strong>'주의 피로 회복 이론(Attention Restoration Theory)'</strong>에 따르면, 바람 소리나 파도 소리 등 자연의 무자극적인 부드러운 매력(Soft Fascination) 요소를 지닌 야외를 천천히 걸을 때 뇌는 비로소 주의 네트워크를 이완하고 휴식을 취합니다. 이 휴식기 동안 뇌는 '디폴트 모드 네트워크(DMN)'를 가동해 오전에 학습하거나 고민한 파편적 정보들을 장기 저장소로 분류해 이송하고 정밀하게 조율하는 <strong>'인지적 통합(Cognitive Integration)'</strong>을 달성합니다. 브리튼은 오후 산책을 통해 뇌에 가부하를 지우고, 무의식적 사유를 활용해 복잡한 곡의 문제를 직관적으로 해결했던 것입니다.",
-      "en": "The brain that has performed high-level calculations or planning throughout the morning operates the 'Central Executive Network (CEN)', which maintains a focused state, depleting cognitive energy and falling into a state of 'Attention Fatigue.'\n\nAccording to environmental psychology's <strong>'Attention Restoration Theory (ART)'</strong>, when walking slowly outdoors, which has nature's non-stimulating soft fascination elements like wind or wave sounds, the brain finally relaxes the attention network. During this rest period, the brain operates the 'Default Mode Network (DMN)' to classify and transfer fragmented information or concerns from the morning to long-term storage, achieving <strong>'cognitive integration.'</strong> Through the afternoon walk, Britten cleared the overload on his brain and used subconscious thinking to intuitively solve complex problems.",
-      "ja": "午前中ずっと高度な計算や企画を行った脳は、集中状態を維持する「中央実行ネットワーク（CEN）」を作動させて認定的エネルギーを消耗した状態、すなわち「注意疲労」状態に陥ります。環境心理学の「注意回復理論（ART）」によると、風の音や波の音など、自然の刺激の少ない穏やかな魅力（ソフト・ファシネーション）要素を持つ野外をゆっくり歩くとき、脳は初めて注意ネットワークを弛緩させて休息を取ります。この休息期間中、脳は「デフォルト・モード・ネットワーク（DMN）」を作動させ、午前中に学習したり悩んだりした断片的な情報を長期記憶へと分類して移送し、精緻に調律する「認知的統合」を達成します。ブリテンは午後の散歩を通じて脳の過負荷を解消し、無意識の思索を活用して複雑な楽曲の難題を直感的に解決していたのです。",
-      "zh": "在大脑经历了一整个上午的高强度运算和规划后，维持专注状态的“中央执行网络（CEN）”会消耗大量的认知能量（葡萄糖），使大脑陷入“注意力疲劳（Attention Fatigue）”状态。\n\n根据环境心理学中的<strong>“注意力恢复理论（Attention Restoration Theory, ART）”</strong>，当我们漫步在拥有温和自然吸引力（Soft Fascination）的户外（如听着风声或海浪声）时，大脑的注意力网络才得以放松与休息。在这段休息期内，大脑会启动“默认模式网络（DMN）”，将上午学习或思考的碎片化信息分类并转移到长期记忆存储中，从而实现精密调理的<strong>“认知整合（Cognitive Integration）”</strong>。布里顿正是通过午后散步为大脑减负，利用无意识思考直觉性地解决了复杂乐曲中的难题。",
-      "es": "El cerebro que ha realizado cálculos o planificación de alto nivel durante la mañana opera la 'Red Ejecutiva Central (CEN)', que mantiene un estado enfocado, agotando la energía cognitiva y cayendo en un estado de 'Fatiga de la Atención'.\n\nSegún la <strong>'Teoría de la Restauración de la Atención (ART)'</strong> de la psicología ambiental, al caminar lentamente al aire libre, que tiene elementos de suave fascinación no estimulantes de la naturaleza como el sonido del viento o de las olas, el cerebro finalmente relaja la red de atención. During this rest period, el cerebro opera la 'Red Neuronal por Defecto (DMN)' para clasificar y transferir información fragmentada o preocupaciones de la mañana al almacenamiento a largo prazo, logrando la <strong>'integración cognitiva'</strong>. A través del paseo por la tarde, Britten despejó la sobrecarga de su cerebro y utilizó el pensamiento subconsciente para resolver intuitivamente problemas complejos.",
-      "fr": "Le cerveau qui a effectué des calculs ou une planification de haut niveau tout au long de la matinée fait fonctionner le 'Réseau Executif Central (CEN)', qui maintient un état de concentration, épuisant l'énergie cognitive e tombant dans un état de 'Fatigue de l'Attention'.\n\nSelon la <strong>'Théorie de la Restauration de l'Attention (ART)'</strong> de la psychologie environnementale, lors d'une marche lente à l'extérieur, qui présente des éléments de fascination douce et non stimulante de la nature comme le bruit du vent ou des vagues, le cerveau relâche enfin le réseau attentionnel. Durant cette période de repos, le cerveau fait fonctionner le 'Réseau du Mode par Défaut (DMN)' pour classer et transférer les informations fragmentées ou les préoccupations de la matinée vers le stockage à long terme, réalisant une <strong>'intégration cognitive'</strong>. Grâce à la marche de l'après-midi, Britten a libéré la surcharge de son cerveau et a utilisé la pensée subconsciente para resolver intuitivamente problèmes complexes.",
-      "de": "Das Gehirn, das den ganzen Morgen über complexe Berechnungen oder Planungen durchgeführt hat, betreibt das 'Zentrale Exekutive Netzwerk (CEN)', das einen pfokussierten Zustand aufrechterhält, wodurch kognitive Energie verbraucht wird und ein Zustand der 'Aufmerksamkeitsmüdigkeit' eintritt.\n\nLaut der <strong>'Aufmerksamkeits-Wiederherstellungs-Theorie (ART)'</strong> der Umweltpsychologie entspannt das Gehirn beim langsamen Gehen im Freien, das nicht-stimulierende, sanfte Faszinierungselemente der Natur wie Wind- oder Wellengeräusche aufweist, endlich das Aufmerksamkeitsnetzwerk. Während dieser Ruhephase betreibt das Gehirn das 'Default Mode Network (DMN)', um fragmentierte Informationen oder Sorgen des Morgens zu klassifizieren und in den Langzeitspeicher zu übertragen, wodurch eine <strong>'kognitive Integration'</strong> erreicht wird. Durch den Nachmittagsspaziergang baute Britten die Überlastung seines Gehirns ab und nutzte das unterbewusste Denken, um komplexe Probleme intuitiv zu lösen.",
-      "pt": "O cérebro que realizou cálculos ou planejamentos de alto nível durante a manhã opera a 'Rede Executiva Central (CEN)', que mantém um estado focado, esgotando a energy cognitiva e caindo em um estado de 'Fadiga de Atenção'.\n\nDe acordo com a <strong>'Teoria da Restauração da Atenção (ART)'</strong> da psicologia ambiental, ao caminhar lentamente ao ar livre, que tem elements de fascínio suave não estimulantes da natureza como o som do vento ou das ondas, o cérebro finalmente relaxa a rede de atenção. Durante este período de descanso, o cérebro opera a 'Rede de Modo Padrão (DMN)' para classificar e transferir informações fragmentadas ou preocupações da manhã para o armazenamento de longo prazo, alcançando a <strong>'integração cognitiva'</strong>. Atráves da caminhada à tarde, Britten limpou a sobrecarga em seu cérebro e usou o pensamento subconsciente para resolver intuitivamente problemas complexos.",
-      "id": "Otak yang telah melakukan perhitungan atau perencanaan tingkat tinggi sepanjang pagi mengoperasikan 'Jaringan Eksekutif Pusat (CEN)', yang mempertahankan keadaan fokus, menghabiskan energi kognitif dan jatuh ke dalam keadaan 'Kelelahan Perhatian.'\n\nMenurut <strong>'Teori Pemulihan Perhatian (ART)'</strong> psikologi lingkungan, ketika berjalan perlahan di luar ruangan, yang memiliki elemen pesona lembut alam yang tidak merangsang seperti suara angin or ombak, otak akhirnya merilekskan jaringan perhatian. Selama masa istirahat ini, otak mengoperasikan 'Jaringan Mode Default (DMN)' untuk mengklasifikasikan dan mentransfer informasi atau kekhawatiran yang terfragmentasi dari pagi hari ke penyimpanan jangka panjang, mencapai <strong>'integrasi kognitif.'</strong> Melalui jalan sore, Britten membersihkan beban berlebih pada otaknya und menggunakan pemikiran bawah sadar untuk memecahkan masalah kompleks secara intuitif."
+      "ko": "오전 시간 내내 고도의 연산이나 기획을 수행한 뇌는 집중 상태를 유지하는 '중앙 집행 네트워크(CEN)'를 가동해 인지적 에너지(글루코스)를 소진한 상태, 즉 '주의 피로(Attention Fatigue)' 상태에 빠집니다. \n\n환경 심리학의 <strong>'주의 피로 회복 이론(Attention Restoration Theory)'</strong>에 따르면, 바람 소리나 파도 소리 등 자연의 무자극적인 부드러운 매력(Soft Fascination) 요소를 지닌 야외를 천천히 걸을 때 뇌는 비로소 주의 네트워크를 이완하고 휴식을 취합니다. 이 휴식기 동안 뇌는 '디폴트 모드 네트워크(DMN)'를 가동해 오전에 학습하거나 고민한 파편적 정보들을 장기 저장소로 분류해 이송하고 정밀하게 조율하는 <strong>'인지적 통합(Cognitive Integration)'</strong>을 달성합니다. 브리튼은 오후 산책을 통해 뇌에 가부하를 지우고, 무의식적 사유를 활용해 복잡한 곡의 문제를 직관적으로 해결했던 것입니다."
     },
     "cautionTitle": {
-      "ko": "활성 뇌와 수동적 휴식의 차이",
-      "en": "Difference Between Active Brain and Passive Rest",
-      "ja": "活性脳と受動的休息の違い",
-      "zh": "主动大脑与被动休息的区别",
-      "es": "Cerebro Activo frente a Descanso Pasivo",
-      "fr": "Cerveau Actif et Repos Passif",
-      "de": "Aktive Erholung vs. passives Ausruhen",
-      "pt": "Cerebro Activo frente a Descanso Pasivo",
-      "id": "Perbedaan Antara Otak Aktif und Istirahat Pasif"
+      "ko": "활성 뇌와 수동적 휴식의 차이"
     },
     "cautionDesc": {
-      "ko": "머리가 아플 때 침대에 누워 스마트폰 릴스나 유튜브 영상을 시청하는 것은 뇌 과학적으로 '휴식'이 아닙니다. 비록 몸은 누워있을지라도 뇌의 시각 피질과 도파민 시스템은 끊임없이 새로운 영상 신호를 해독하느라 주의력을 소비하여 피로를 가중시킵니다. 브리튼처럼 정보 유입을 전면 차단한 채 몸을 가볍게 움직이는 산책만이 전두엽의 인지 피로를 온전히 리셋하는 과학적 휴식입니다.",
-      "en": "Lying in bed and watching smartphone reels or YouTube videos when your head hurts is not 'rest' scientifically. Even though the body lies down, the brain's visual cortex and dopamine system consume attention to decode new video signals, increasing fatigue. Only walking while completely blocking information input, like Britten, is a scientific rest that resets the frontal lobe's cognitive fatigue.",
-      "ja": "頭が痛いときにベッドに横になってスマートフォンのリール動画やYouTube動画を視聴することは、脳科学的に「休息」ではありません。体は横になっていても、脳の視覚野やドーパミンシステムは絶えず新しい映像信号を解読するために注意力を消費し、疲労を増幅させます。ブリテンのように情報の流入を完全に遮断した状態で体を軽く動かす散歩こそが、前頭葉の認知疲労を完全にリセットする科学的な休息です。",
-      "zh": "离开电脑屏幕后，躺在床上观看智能手机短视频 或 YouTube 视频在脑科学上并不是“休息”。虽然身体躺着，但大脑的视觉皮层和多巴胺系统正在不断消耗注意力以解析新的视频信号，这只会加重疲劳。只有像布里顿那样在完全阻断信息输入的状态下进行散步，才是能够完全重置前额叶认知疲劳的科学休息方式。",
-      "es": "Tumbarse en la cama a ver vídeos en el móvil cuando está cansado no es descansar. Aunque el cuerpo repose, el córtex visual y el sistema dopaminérgico siguen consumiendo energía para procesar los vídeos, elevando la fatiga. Solo un paseo activo libre de pantallas, como hacía Britten, resetea el lóbulo frontal.",
-      "fr": "S'allonger pour regarder des vidéos sur son téléphone lorsque l'on est fatigué n'est pas un repos. Même si le corps is immobile, le cortex visuel et le système dopaminergique s'activent pour décoder les images, augmentant la fatigue. Seule une marche active sans écran, comme Britten, réinitialise le cortex préfrontal.",
-      "de": "Das Anschauen von Handy-Videos im Bett bei Erschöpfung ist kein Ausruhen. Also wenn der Körper ruht, verarbeiten der visuelle Kortex und das Dopaminsystem neue Reize, was die Müdigkeit erhöht. Nur ein Spaziergang ohne Bildschirm entlastet das Stirnhirn.",
-      "pt": "Deitar-se na cama para assistir a vídeos no celular quando está cansado não é descansar. Embora o corpo repouse, le cortex visual e o sistema dopaminérgico continuam consumindo energy, elevando la fadiga. Apenas um paseo libre de telas reseta o lóbulo frontal.",
-      "id": "Berbaring di tempat tidur dan menonton video ketika kepala Anda sakit bukanlah 'istirahat' secara ilmiah. Meskipun tubuh berbaring, korteks visual dan sistem dopamin otak mengonsumsi perhatian untuk memecahkan kode sinyal video baru, meningkatkan kelelahan. Hanya berjalan tanpa input information yang mereset kelelahan."
+      "ko": "머리가 아플 때 침대에 누워 스마트폰 릴스나 유튜브 영상을 시청하는 것은 뇌 과학적으로 '휴식'이 아닙니다. 비록 몸은 누워있을지라도 뇌의 시각 피질과 도파민 시스템은 끊임없이 새로운 영상 신호를 해독하느라 주의력을 소비하여 피로를 가중시킵니다. 브리튼처럼 정보 유입을 전면 차단한 채 몸을 가볍게 움직이는 산책만이 전두엽의 인지 피로를 온전히 리셋하는 과학적 휴식입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "오전 업무 완료 및 인지 해방 선언",
-          "en": "Completing Morning Work and Declaring Cognitive Liberation",
-          "ja": "午前業務の完了と認知の解放宣言",
-          "zh": "完成上午工作并宣告脑力释放",
-          "es": "Terminar la Tarea y Declarar Cese de Foco",
-          "fr": "Finir le Travail et Libérer l'Esprit",
-          "de": "Arbeitsende am Mittag und Abschalten",
-          "pt": "Concluir a Tarefa e Declarar Fim de Foco",
-          "id": "Menyelesaikan Pekerjaan Pagi dan Menyatakan Kebebasan Kognitif"
+          "ko": "오전 업무 완료 및 인지 해방 선언"
         },
         "text": {
-          "ko": "오전 집중 세션(3~4시간)을 끝내면 즉시 컴퓨터 모니터를 끄고, 스마트폰을 주머니나 가방에 넣어 더 이상 업무 텍스트를 보지 않기로 의식적으로 타임아웃을 선언합니다.",
-          "en": "When the morning focus session (3-4 hours) ends, immediately turn off the computer monitor, put your smartphone in a pocket or bag, and consciously declare a timeout from reading work texts.",
-          "ja": "午前中の集中セッション（3〜4時間）が終了したら、すぐにコンピューターのモニターをオフにし、スマートフォンをポケットやバッグに入れて、これ以上仕事のテキストを見ないように意識的にタイムアウトを宣言します。",
-          "zh": "上午专注时段（3-4小时）结束后，立即关闭电脑显示器，将手机放入口袋或包内，有意识地宣告暂停处理工作类文本 information。",
-          "es": "When the morning focus session (3-4 hours) ends, immediately turn off the computer monitor, put your smartphone in a pocket or bag, and consciously declare a timeout from reading work texts.",
-          "fr": "When the morning focus session (3-4 hours) ends, immediately turn off the computer monitor, put your smartphone in a pocket or bag, and consciously declare a timeout from reading work texts.",
-          "de": "When the morning focus session (3-4 hours) ends, immediately turn off the computer monitor, put your smartphone in a pocket or bag, and consciously declare a timeout from reading work texts.",
-          "pt": "When the morning focus session (3-4 hours) ends, immediately turn off the computer monitor, put your smartphone in a pocket or bag, and consciously declare a timeout from reading work texts.",
-          "id": "When the morning focus session (3-4 hours) ends, immediately turn off the computer monitor, put your smartphone in a pocket or bag, and consciously declare a timeout from reading work texts."
+          "ko": "오전 집중 세션(3~4시간)을 끝내면 즉시 컴퓨터 모니터를 끄고, 스마트폰을 주머니나 가방에 넣어 더 이상 업무 텍스트를 보지 않기로 의식적으로 타임아웃을 선언합니다."
         }
       },
       {
         "name": {
-          "ko": "익숙한 해방 코스 산책 개시",
-          "en": "Starting a Walk on a Familiar Liberation Course",
-          "ja": "慣れ親しんだ解放ルートでの散歩開始",
-          "zh": "开始熟悉路线下的释放漫步",
-          "es": "Iniciar Paseo por una Ruta Conocida",
-          "fr": "Démarrer la Marche sur un Parcours Habituel",
-          "de": "Spaziergang auf einer bekannten Route starten",
-          "pt": "Iniciar Caminhada por uma Rota Conhecida",
-          "id": "Mulai Berjalan di Rute Pembebasan yang Biasa"
+          "ko": "익숙한 해방 코스 산책 개시"
         },
         "text": {
-          "ko": "길을 잃거나 경로를 고민할 필요가 없는 익숙하고 한적한 산책 코스(공원, 동네 길 등)를 따라 최소 20분 동안 가벼운 발걸음으로 걷습니다. 의사결정이 필요 없어야 뇌가 쉽니다.",
-          "en": "Walk at a light pace for at least 20 minutes along a familiar and quiet walking course (park, neighborhood road, etc.) where you do not need to worry about the path. There must be no decision-making for the brain to rest.",
-          "ja": "道に迷ったりルートに悩む必要のない、慣れ親しんだ静かな散歩コース（公園、近所の道など）に沿って、最低20分間軽い足取りで歩きます。意思決定の必要がないことで脳が休まります。",
-          "zh": "沿着无需费心规划路线或担心迷路的熟识且僻静 of 散步小径（如公园、社区周边）以轻快的步伐行走至少20分钟。必须免除决策，大脑才能休息。",
-          "es": "Walk at a light pace for at least 20 minutes along a familiar and quiet walking course (park, neighborhood road, etc.) where you do not need to worry about the path. There must be no decision-making for the brain to rest.",
-          "fr": "Walk at a light pace for at least 20 minutes along a familiar and quiet walking course (park, neighborhood road, etc.) where you do not need to worry about the path. There must be no decision-making for the brain to rest.",
-          "de": "Walk at a light pace for at least 20 minutes along a familiar and quiet walking course (park, neighborhood road, etc.) where you do not need to worry about the path. There must be no decision-making for the brain to rest.",
-          "pt": "Walk at a light pace for at least 20 minutes along a familiar and quiet walking course (park, neighborhood road, etc.) where you do not need to worry about the path. There must be no decision-making for the brain to rest.",
-          "id": "Walk at a light pace for at least 20 minutes along a familiar and quiet walking course (park, neighborhood road, etc.) where you do not need to worry about the path. There must be no decision-making for the brain to rest."
+          "ko": "길을 잃거나 경로를 고민할 필요가 없는 익숙하고 한적한 산책 코스(공원, 동네 길 등)를 따라 최소 20분 동안 가벼운 발걸음으로 걷습니다. 의사결정이 필요 없어야 뇌가 쉽니다."
         }
       },
       {
         "name": {
-          "ko": "비의도적 자연 자극 수용 및 인지 통합",
-          "en": "Accepting Unintentional Natural Stimuli and Cognitive Integration",
-          "ja": "非意図的な自然の刺激受容と認知統合",
-          "zh": "接受无意的大自然刺激与认知整合",
-          "es": "Recibir Estímulos Suaves de la Naturaleza y Fijar Ideas",
-          "fr": "Accueillir les Stimuli de la Nature et Assimiler",
-          "de": "Aufnahme sanfter Naturreize und Verarbeiten",
-          "pt": "Receber Estímulos Suaves da Natureza e Fixar Ideas",
-          "id": "Menerima Rangsangan Alam Tanpa Sengaja dan Integrasi Kognitif"
+          "ko": "비의도적 자연 자극 수용 및 인지 통합"
         },
         "text": {
-          "ko": "스마트폰 화면을 철저히 배제하고 주변의 바람 소리, 나무들의 나뭇잎 흔들림, 파도 소리 등 자연의 무자극적인 감각을 온전히 느낍니다. 이완된 뇌가 무의식 중에 오전에 했던 작업을 통합하여 정돈하도록 유도합니다.",
-          "en": "Thoroughly exclude the smartphone screen and fully feel nature's non-stimulating sensations, such as the sound of the wind, rustling leaves, and waves nearby. Induce the relaxed brain to integrate and organize the morning's work in the subconscious.",
-          "ja": "スマートフォンの画面を徹底的に見ず、周囲の風の音、木々の葉のそよぎ、波の音など、自然の刺激の少ない感覚を全身で感じます。弛緩した脳が、無意識のうちに午前中に行った作業を統合し、整理するように仕向けます。",
-          "zh": "彻底排除手机屏幕，去静静感受周围的风声、树叶的沙沙声、波涛声等自然界无刺激的感官体验。引导放松的大脑在潜意识中对上午处理的工作进行整合与理顺。",
-          "es": "Thoroughly exclude the smartphone screen and fully feel nature's non-stimulating sensations, such as the sound of the wind, rustling leaves, and waves nearby. Induce the relaxed brain to integrate and organize the morning's work in the subconscious.",
-          "fr": "Thoroughly exclude the smartphone screen and fully feel nature's non-stimulating sensations, such as the sound of the wind, rustling leaves, and waves nearby. Induce the relaxed brain to integrate and organize the morning's work in the subconscious.",
-          "de": "Thoroughly exclude the smartphone screen and fully feel nature's non-stimulating sensations, such as the sound of the wind, rustling leaves, and waves nearby. Induce the relaxed brain to integrate and organize the morning's work in the subconscious.",
-          "pt": "Thoroughly exclude the smartphone screen and fully feel nature's non-stimulating sensations, such as the sound of the wind, rustling leaves, and waves nearby. Induce the relaxed brain to integrate and organize the morning's work in the subconscious.",
-          "id": "Thoroughly exclude the smartphone screen and fully feel nature's non-stimulating sensations, such as the sound of the wind, rustling leaves, and waves nearby. Induce the relaxed brain to integrate and organize the morning's work in the subconscious."
+          "ko": "스마트폰 화면을 철저히 배제하고 주변의 바람 소리, 나무들의 나뭇잎 흔들림, 파도 소리 등 자연의 무자극적인 감각을 온전히 느낍니다. 이완된 뇌가 무의식 중에 오전에 했던 작업을 통합하여 정돈하도록 유도합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "브리튼이 산책했던 올드버러 해안길은 어떤 곳인가요?",
-          "en": "What is the Aldeburgh coastal path where Britten walked?",
-          "ja": "ブリテンが散歩したオルドバラの海岸線はどのような場所ですか？",
-          "zh": "布里顿曾散步的奥尔德伯勒海岸线是怎样的地方？",
-          "es": "What is the Aldeburgh coastal path where Britten walked?",
-          "fr": "What is the Aldeburgh coastal path where Britten walked?",
-          "de": "What is the Aldeburgh coastal path where Britten walked?",
-          "pt": "What is the Aldeburgh coastal path where Britten walked?",
-          "id": "What is the Aldeburgh coastal path where Britten walked?"
+          "ko": "브리튼이 산책했던 올드버러 해안길은 어떤 곳인가요?"
         },
         "answer": {
-          "ko": "영국 동부 서퍽주에 위치한 올드버러 해안은 모래가 아닌 동글동글한 자갈로 가득 찬 해변으로, 파도가 칠 때마다 자갈이 구르는 청량한 소리가 나며 해안가 길을 따라 탁 트인 차분한 풍광을 자랑하는 곳입니다.",
-          "en": "The Aldeburgh coast, located in Suffolk, eastern England, is a beach full of round pebbles, not sand. Whenever waves hit, it makes a clear sound of rolling pebbles, and boasts an open, calm scenery along the coastal road.",
-          "ja": "イギリス東部サフォーク州にあるオルドバラ海岸は、砂ではなく丸い小石（ジャリ）が一面に広がる海岸で、波が寄せるたびに小石が転がる涼やかな音が響き、海岸線に沿って开けた静かな景観を誇る場所です。",
-          "zh": "奥尔德伯勒海岸位于英格兰东部的萨福克郡，是一处铺满圆润砾石而非沙子的海滩。每当波浪拍打，都会发出砾石滚动出的清亮声响，沿着海岸路展现出开阔而宁静的迷人风光。",
-          "es": "The Aldeburgh coast, located in Suffolk, eastern England, is a beach full of round pebbles, not sand. Whenever waves hit, it makes a clear sound of rolling pebbles, and boasts an open, calm scenery along the coastal road.",
-          "fr": "The Aldeburgh coast, located in Suffolk, eastern England, is a beach full of round pebbles, not sand. Whenever waves hit, it makes a clear sound of rolling pebbles, and boasts an open, calm scenery along the coastal road.",
-          "de": "The Aldeburgh coast, located in Suffolk, eastern England, is a beach full of round pebbles, not sand. Whenever waves hit, it makes a clear sound of rolling pebbles, and boasts an open, calm scenery along the coastal road.",
-          "pt": "The Aldeburgh coast, located in Suffolk, eastern England, is a beach full of round pebbles, not sand. Whenever waves hit, it makes a clear sound of rolling pebbles, and boasts an open, calm scenery along the coastal road.",
-          "id": "The Aldeburgh coast, located in Suffolk, eastern England, is a beach full of round pebbles, not sand. Whenever waves hit, it makes a clear sound of rolling pebbles, and boasts an open, calm scenery along the coastal road."
+          "ko": "영국 동부 서퍽주에 위치한 올드버러 해안은 모래가 아닌 동글동글한 자갈로 가득 찬 해변으로, 파도가 칠 때마다 자갈이 구르는 청량한 소리가 나며 해안가 길을 따라 탁 트인 차분한 풍광을 자랑하는 곳입니다."
         }
       },
       {
         "question": {
-          "ko": "도심 속 빌딩 숲 산책도 주의 피로 회록 효과가 있나요?",
-          "en": "Does walking in a city skyscraper forest also have an attention restoration effect?",
-          "ja": "都会のビル群の中を歩く散歩でも、注意疲労の回復効果はありますか？",
-          "zh": "在城市高楼大厦林立的街道中散步也有注意力恢复效果吗？",
-          "es": "Does walking in a city skyscraper forest also have an attention restoration effect?",
-          "fr": "Does walking in a city skyscraper forest also have an attention restoration effect?",
-          "de": "Does walking in a city skyscraper forest also have an attention restoration effect?",
-          "pt": "Does walking in a city skyscraper forest also have an attention restoration effect?",
-          "id": "Does walking in a city skyscraper forest also have an attention restoration effect?"
+          "ko": "도심 속 빌딩 숲 산책도 주의 피로 회록 효과가 있나요?"
         },
         "answer": {
-          "ko": "도심 속 산책은 네온사인, 간판, 교통 소음 등 시선과 신경을 자극하는 비자발적 유도 자극이 많아 회복 효과가 떨어집니다. 가로수가 울창한 조용한 공원이나, 도심 속이라도 화단과 물소리가 있는 친자연적 구역을 선택하는 것이 필수적입니다.",
-          "en": "Walking in a city has low restoration effects due to many involuntary guidance stimuli that stimulate sight and nerves, such as neon signs, signboards, and traffic noise. It is essential to choose a quiet park with dense trees or a nature-friendly zone with flowerbeds and water sounds, even within a city.",
-          "ja": "都会の中の散歩は、ネオンサイン、看板、交通騒音など、視線や神経を刺激する「不随意的な誘導刺激」が多く、回復効果が低下します。並木がうっそうとした静かな公園や、都会であっても花壇や水の音がある自然豊かな区域を選ぶことが不可欠です。",
-          "zh": "由于城市散步充斥着霓虹灯、广告牌、交通噪音等刺激视线和神经的非随意引导刺激，其恢复效果会打折扣。必须选择树木茂密的安静公园，或者即便是城市内部，也应挑选配有花坛 and 水声的亲自然区域。",
-          "es": "Walking in a city has low restoration effects due to many involuntary guidance stimuli that stimulate sight and nerves, such as neon signs, signboards, and traffic noise. It is essential to choose a quiet park with dense trees or a nature-friendly zone with flowerbeds and water sounds, even within a city.",
-          "fr": "Walking in a city has low restoration effects due to many involuntary guidance stimuli that stimulate sight and nerves, such as neon signs, signboards, and traffic noise. It is essential to choose a quiet park with dense trees or a nature-friendly zone with flowerbeds and water sounds, even within a city.",
-          "de": "Walking in a city has low restoration effects due to many involuntary guidance stimuli that stimulate sight and nerves, such as neon signs, signboards, and traffic noise. It is essential to choose a quiet park with dense trees or a nature-friendly zone with flowerbeds and water sounds, even within a city.",
-          "pt": "Walking in a city has low restoration effects due to many involuntary guidance stimuli that stimulate sight and nerves, such as neon signs, signboards, and traffic noise. It is essential to choose a quiet park with dense trees or a nature-friendly zone with flowerbeds and water sounds, even within a city.",
-          "id": "Walking in a city has low restoration effects due to many involuntary guidance stimuli that stimulate sight and nerves, such as neon signs, signboards, and traffic noise. It is essential to choose a quiet park with dense trees or a nature-friendly zone with flowerbeds and water sounds, even within a city."
+          "ko": "도심 속 산책은 네온사인, 간판, 교통 소음 등 시선과 신경을 자극하는 비자발적 유도 자극이 많아 회복 효과가 떨어집니다. 가로수가 울창한 조용한 공원이나, 도심 속이라도 화단과 물소리가 있는 친자연적 구역을 선택하는 것이 필수적입니다."
         }
       }
-    ],
-    "stepImages": [
-      "",
-      "",
-      ""
-    ],
-    "pubDate": "2026-04-22",
-    "updatedDate": "2026-04-22"
+    ]
   }
 }

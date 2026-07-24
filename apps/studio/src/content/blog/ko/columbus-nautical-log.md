@@ -1,14 +1,14 @@
 ---
 title: "대항해 시대를 연 선장? 콜럼버스의 야간 항해일지 & 별자리 수치 루틴"
 description: "미지의 대서양을 넘은 탐험가 콜럼버스가 폭풍과 공포 속에서도 매일 밤 항해 일지를 기록하며 극도의 이성적 안정을 유지했던 과학적 일지 습관."
-pubDate: "2026-04-25"
-updatedDate: "2026-04-25"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/columbus_nautical_log.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/columbus_nautical_log.png"
 app: "buildself"
 formatVersion: 4
-authority: "1492년 항해 사료 'The Journal of Christopher Columbus' 및 전기 역사서"
+authority: "콜럼버스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "취침 전 나만의 3줄 항해 일기 노트를 펴기"
     text: "매일 밤 침대 곁 조명 아래 일기장을 펼치고 당일 항해의 기록을 시작할 정적 상태를 갖춥니다."
@@ -21,6 +21,7 @@ faqs:
     answer: "손으로 직접 종이에 기재하는 물리적 촉각 자극이 뇌의 운동 피질을 더 넓게 자극하여 편도체 진정 효과가 훨씬 탁월합니다. 수첩 사용을 추천합니다."
   - question: "너무 피곤해서 일기를 쓰지 못하고 잘 것 같은 날엔 어떻게 하나요?"
     answer: "단 1줄, '오늘 완료: 과제 A' 하나만 적어도 괜찮습니다. 끊어지지 않는 기록의 연결 고리 자체가 뇌에 안도감을 제공합니다."
+
 ---
 
 1492년, 3척의 작은 목선 산타마리아호·핀타호·니냐호를 이끌고 아무도 건너본 적 없는 끝없는 대서양의 암흑을 가로질러 신대륙 항로를 개척한 대탐험가, 크리스토퍼 콜럼버스(Christopher Columbus). 수평선 끝에 펼쳐진 절망적인 깊이와 '지구 끝에서 떨어질지 모른다'는 선원들의 폭동 위기 속에서 그는 어떻게 흔들리지 않는 극강의 지휘력을 유지했을까요? ⛵
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 1492년 항해 사료 'The Journal of Christopher Columbus' 및 전기 역사서 정보를 기반으로 작성되었습니다.
+      본 콘텐츠는 <strong>콜럼버스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 columbus-nautical-log 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 야간 정량 일지 작성을 통한 편도체(Amygdala) 안정 및 이성 회복
+## 야간 정량 일지 작성을 통한 편도체(Amygdala) 안정 및 이성 회복
 
 모호한 불안감은 뇌의 감정 센터인 편도체를 과활성화하여 심박수를 올리고 불면증과 파닉 상태를 유발합니다.
 
@@ -51,8 +52,9 @@ faqs:
 
 ---
 
-## 2. 실천을 위한 3단계 세부 행동 가이드
+## 감정적 푸념 대신 객관적 사실과 수치를 기재하세요
 
+항해 일지의 본질은 객관화입니다. '오늘 힘들었다'보다는 '오늘 목표 분량 5쪽 중 4쪽 완료'처럼 수치화된 사실을 기록해야 편도체 진정 효과가 극대화됩니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,25 +86,13 @@ faqs:
   </p>
 </div>
 
----
-
-## 3. 감정적 푸념 대신 객관적 사실과 수치를 기재하세요
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      항해 일지의 본질은 객관화입니다. '오늘 힘들었다'보다는 '오늘 목표 분량 5쪽 중 4쪽 완료'처럼 수치화된 사실을 기록해야 편도체 진정 효과가 극대화됩니다.
-    </p>
-  </div>
-</div>
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>스마트폰 메모 앱에 작성해도 일지 효과가 같나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -110,9 +100,9 @@ faqs:
       손으로 직접 종이에 기재하는 물리적 촉각 자극이 뇌의 운동 피질을 더 넓게 자극하여 편도체 진정 효과가 훨씬 탁월합니다. 수첩 사용을 추천합니다.
     </p>
   </details>
-
+  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>너무 피곤해서 일기를 쓰지 못하고 잘 것 같은 날엔 어떻게 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

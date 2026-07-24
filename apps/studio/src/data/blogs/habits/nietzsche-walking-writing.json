@@ -1,214 +1,70 @@
 {
   "nietzsche-walking-writing": {
     "title": {
-      "ko": "프리드리히 니체의 산책 집필 루틴: 매 걸음마다 뇌의 창의성을 여는 법",
-      "en": "Writing Philosophy with Every Step: Friedrich Nietzsche's 8-Hour Walking Routine",
-      "ja": "一歩一歩で哲学を執筆する：フリードリヒ・ニーチェの8時間歩行と創造性開放ルーティン",
-      "zh": "用脚步丈量哲学：弗里德里希·尼采每天8小时的散步写作惯例",
-      "es": "Escribir filosofía con cada paso: La rutina de caminar 8 horas de Friedrich Nietzsche",
-      "fr": "Écrire la philosophie à chaque pas : La routine de marche de 8 heures de Friedrich Nietzsche",
-      "de": "Philosophie mit jedem Schritt schreiben: Friedrich Nietzsches 8-Stunden-Spaziergangs-Routine",
-      "pt": "Escrever filosofia a cada passo: A rotina de caminhada de 8 horas de Friedrich Nietzsche",
-      "id": "Menulis Filsafat dengan Setiap Langkah: Rutinitas Berjalan 8 Jam Friedrich Nietzsche"
+      "ko": "프리드리히 니체의 산책 집필 루틴: 매 걸음마다 뇌의 창의성을 여는 법"
     },
     "description": {
-      "ko": "독일의 위대한 철학자 프리드리히 니체가 하루 8시간 동안 스위스 산길을 걸으며 노트에 위대한 사상을 집필한 역사적 사실과 신체 운동이 DMN(기본 모드 네트워크)과 뇌의 발산적 사고를 촉진하는 뇌과학적 원리를 다룹니다.",
-      "en": "Explore how German philosopher Friedrich Nietzsche walked up to 8 hours a day in the Swiss Alps to conceive his greatest philosophical works, and how movement-induced DMN activation boosts divergent thinking.",
-      "ja": "ドイツの偉大な哲学者ニーチェがスイスの山道を1日最大8時間歩きながらノートに思想を書き留めた歴史的事実と、身体運動がデフォルト・モード・ネットワーク（DMN）と拡散的思考を活性化させる脳科学的原理を解説します。",
-      "zh": "深入探索德国哲学家弗里德里希·尼采如何在瑞士阿尔卑斯山小径上每天行走8小时撰写哲学巨著，以及身体运动激活默认模式网络(DMN)促进发散性思维的神经科学原理。",
-      "es": "Descubra cómo el filósofo alemán Friedrich Nietzsche caminaba hasta 8 horas al día en los Alpes suizos para concebir sus grandes obras, y cómo la activación del DMN mediante el movimiento estimula el pensamiento divergente.",
-      "fr": "Découvrez comment le philosophe allemand Friedrich Nietzsche marchait jusqu'à 8 heures par jour dans les Alpes suisses pour concevoir ses grandes œuvres, et comment l'activation du DMN par le mouvement stimule la pensée divergente.",
-      "de": "Erfahren Sie, wie der deutsche Philosoph Friedrich Nietzsche täglich bis zu 8 Stunden in den Schweizer Alpen wanderte, um seine Hauptwerke zu verfassen, und wie bewegungsinduzierte DMN-Aktivierung das divergente Denken fördert.",
-      "pt": "Descubra como o filósofo alemão Friedrich Nietzsche caminhava até 8 horas por dia nos Alpes Suíços para conceber suas obras, e como a ativação do DMN pelo movimento estimula o pensamento divergente.",
-      "id": "Pelajari bagaimana filsuf Jerman Friedrich Nietzsche berjalan hingga 8 jam sehari di Pegunungan Alp Swiss untuk menulis karya filosofisnya, dan bagaimana aktivasi DMN melalui gerakan merangsang pemikiran divergen."
+      "ko": "독일의 위대한 철학자 프리드리히 니체가 하루 8시간 동안 스위스 산길을 걸으며 노트에 위대한 사상을 집필한 역사적 사실과 신체 운동이 DMN(기본 모드 네트워크)과 뇌의 발산적 사고를 촉진하는 뇌과학적 원리를 다룹니다."
     },
     "authority": {
-      "ko": "프리드리히 니체의 자서전 《이 사람을 보라》(1888) 및 뇌과학 저널의 산책과 DMN 결합 연구",
-      "en": "Friedrich Nietzsche's autobiography Ecce Homo (1888) & Cognitive Psychology studies on walking and DMN activation",
-      "ja": "ニーチェの自伝『この人を見よ』（1888）および歩行とDMN活性化に関する認知心理学研究",
-      "zh": "尼采自传《瞧！这个人》(1888)及关于步行与DMN激活的认知心理学研究",
-      "es": "Autobiografía de Friedrich Nietzsche Ecce Homo (1888) y estudios de psicología cognitiva sobre caminar y la DMN",
-      "fr": "Autobiographie de Friedrich Nietzsche Ecce Homo (1888) et études de psychologie cognitive sur la marche et le DMN",
-      "de": "Friedrich Nietzsches Autobiografie Ecce Homo (1888) & kognitionspsychologische Studien über Gehen und DMN-Aktivierung",
-      "pt": "Autobiografia de Friedrich Nietzsche Ecce Homo (1888) e estudos de psicologia cognitiva sobre caminhada e o DMN",
-      "id": "Autobiografi Friedrich Nietzsche Ecce Homo (1888) & studi psikologi kognitif tentang berjalan dan aktivasi DMN"
+      "ko": "Nietzsche Walking Writing 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "\"모든 진실로 위대한 사상은 산책 중에 떠오른다.\"라고 선언한 19세기 독일의 위대한 철학자 프리드리히 니체(Friedrich Nietzsche, 1844–1900). 평생 극심한 편두통과 위장 질환, 시력 저하라는 고통에 시달렸던 그는 의사의 권유와 자신의 몸이 보내는 신호에 따라 책상 앞을 떠나 자연 속으로 걸어 들어갔습니다.\n\n그는 매년 여름 스위스 실스마리아(Sils-Maria)의 숲과 호수, 산길을 하루 8시간 이상 걸었습니다. 손에는 작은 수첩과 펜을 들고, 걷는 도중 번뜩이는 통찰이 떠오를 때마다 즉시 자리에 멈춰 서서 수첩에 메모를 남겼습니다. 그의 대표작 《짜라투스트라는 이렇게 말했다》를 비롯한 수많은 명작들이 바로 이 8시간 산책 속에서 탄생했습니다.\n\n일정한 템포의 산책은 뇌의 심장 박동과 혈류 공급을 원활하게 하고, 작업 기억의 과부하를 비워내어 뇌의 기본 모드 네트워크(DMN)를 고도로 활성화시킵니다. 신체적 걷기 리듬이 전전두엽의 통제를 완화하여 잠재의식 속 창의적 아이디어를 분출시키는 뇌과학적 정수였습니다.",
-      "en": "Friedrich Nietzsche (1844–1900), the iconic 19th-century German philosopher who boldly proclaimed: 'All truly great thoughts are conceived while walking.' Struggling with severe chronic migraines, stomach ailments, and failing eyesight, Nietzsche abandoned long sedentary hours at his desk to seek healing and inspiration in nature.\n\nEvery summer in Sils-Maria, Switzerland, he spent up to eight hours a day walking along mountain trails, lake shores, and quiet pine forests. Carrying a small pocket notebook and pencil, he stopped immediately whenever an epiphany struck, jotting down aphorisms on the spot. His masterwork Thus Spoke Zarathustra and many core philosophical treatises were born entirely during these eight-hour daily walks.\n\nNeuroscience reveals that walking at a steady rhythm optimizes cerebral blood flow and clears working memory overloads, deeply engaging the brain's Default Mode Network (DMN). This physical rhythm relaxes prefrontal executive control, allowing subconscious creative insights to flow freely onto paper.",
-      "ja": "この歴史的習慣の実践において：\" .\" 19 (Friedrich Nietzsche, 1844–1900). , . この歴史的習慣の実践において： (Sils-Maria) , 8 . , . 《 》 8 . この歴史的習慣の実践において： , (DMN) . .",
-      "zh": "在这一历史性惯例的实践中：\" .\" 19 (Friedrich Nietzsche, 1844–1900). , . 在这一历史性惯例的实践中： (Sils-Maria) , 8 . , . 《 》 8 . 在这一历史性惯例的实践中： , (DMN) . .",
-      "es": "Friedrich Nietzsche (1844–1900), el icónico filósofo alemán del siglo XIX que proclamó: 'Todos los pensamientos verdaderamente grandes se conciben al caminar'. Luchando contra migrañas crónicas graves y mala visión, Nietzsche abandonó las largas horas sentado en el escritorio para buscar inspiración en la naturaleza.\n\nCada verano en Sils-Maria, Suiza, pasaba hasta ocho horas al día caminando por senderos de montaña, orillas de lagos y bosques. Llevando un cuaderno de bolsillo y un lápiz, se detenía de inmediato cada vez que le surgía una idea. Su obra maestra Así habló Zaratustra y sus principales tratados nacieron durante estas caminatas diarias de ocho horas.\n\nLa neurociencia revela que caminar a un ritmo constante optimiza el flujo sanguíneo cerebral y despeja la sobrecarga de la memoria de trabajo, activando la Red Neuronal por Defecto (DMN) y liberando ideas creativas del subconsciente.",
-      "fr": "Friedrich Nietzsche (1844–1900), le célèbre philosophe allemand du XIXe siècle qui proclama : 'Toutes les pensées vraiment grandes sont conçues en marchant'. Luttant contre de graves migraines chroniques et une baisse de la vue, Nietzsche abandonna les longues heures assis au bureau pour chercher l'inspiration dans la nature.\n\nChaque été à Sils-Maria, en Suisse, il passait jusqu'à huit heures par jour à marcher le long des sentiers de montagne et des forêts. Muni d'un carnet de poche et d'un crayon, il s'arrêtait immédiatement chaque fois qu'une idée surgissait. Son chef-d'œuvre Ainsi parlait Zarathoustra et ses principaux traités sont nés pendant ces marches quotidiennes de huit heures.\n\nLa neuroscience révèle que marcher à un rythme régulier optimise le flux sanguin cérébral et libère la mémoire de travail, activant le réseau du mode par défaut (DMN) et faisant surgir les idées créatives du subconscient.",
-      "de": "Friedrich Nietzsche (1844–1900), der deutsche Philosoph, der verkündete: 'Alle wirklich großen Gedanken werden im Gehen empfangen.' Im Kampf gegen schwere chronische Migräne und Sehstörungen verließ Nietzsche den Schreibtisch, um in der Natur Inspiration zu suchen.\n\nJeden Sommer in Sils-Maria in der Schweiz wanderte er täglich bis zu acht Stunden über Bergpfade und durch Wälder. Mit Notizbuch und Stift hielt er jeden Einfall sofort fest. Sein Hauptwerk Also sprach Zarathustra entstand während dieser täglichen achtstündigen Spaziergänge.\n\nDie Neurowissenschaft zeigt, dass rhythmisches Gehen die Gehirndurchblutung optimiert, das Arbeitsgedächtnis entlastet und das Default Mode Network (DMN) aktiviert, was kreative Gedanken freisetzen kann.",
-      "pt": "Friedrich Nietzsche (1844–1900), o icónico filósofo alemão que proclamou: 'Todos os pensamentos verdadeiramente grandes são concebidos ao caminhar'. Lutando contra enxaquecas crónicas e má visão, Nietzsche abandonou as longas horas no escritório para buscar inspiração na natureza.\n\nTodos os Verões em Sils-Maria, Suíça, passava até oito horas por dia caminhando por trilhos de montanha e florestas. Com um caderno de bolso e lápis, parava imediatamente para anotar cada ideia. A sua obra-prima Assim Falava Zaratustra nasceu durante estas caminhadas diárias de oito horas.\n\nA neurociência revela que caminhar a um ritmo constante optimiza o fluxo sanguíneo cerebral e limpa a memória de trabalho, activando a Rede Neuronal por Defeito (DMN) e libertando ideias criativas do subconsciente.",
-      "id": "Friedrich Nietzsche (1844–1900), filsuf ikonik Jerman abad ke-19 yang menyatakan: 'Semua pemikiran yang benar-benar hebat lahir saat berjalan.' Berjuang melawan migrain kronis dan gangguan penglihatan, Nietzsche meninggalkan meja kerja untuk mencari inspirasi di alam.\n\nSetiap musim panas di Sils-Maria, Swiss, dia menghabiskan hingga delapan jam sehari berjalan di sepanjang jalur pegunungan dan hutan. Dengan membawa buku catatan saku dan pensil, dia segera berhenti setiap kali ide muncul. Karya agungnya Demikianlah Bersabda Zarathustra lahir selama jalan-jalan delapan jam sehari ini.\n\nNeurosains mengungkapkan bahwa berjalan dengan ritme yang stabil mengoptimalkan aliran darah otak dan membersihkan memori kerja, mengaktifkan Default Mode Network (DMN) dan melepaskan wawasan kreatif."
+      "ko": "\\\"모든 진정으로 위대한 생각들은 걷는 동안 배태된다(All truly great thoughts are conceived while walking).\\\" 🚶‍♂️\n\n망치를 든 철학자로 불리며 서구 철학의 근간을 뒤흔든 파격적인 통찰을 제시한 프리드리히 니체. 그의 강렬하고 날카로운 사상들은 어디에서 탄생했을까요? 니체는 책상 앞에 엉덩이를 붙이고 앉아 머리를 쥐어짜는 식의 전통적인 공부 방식을 극도로 혐오했습니다. 그는 만성적인 두통, 안질환, 위장 장애 등으로 평생 육체적 고통에 시달렸지만, 오히려 그 고통을 극복하기 위해 신체를 끊임없이 움직였습니다.\n\n니체는 스위스의 알프스 고산 지대인 실스 마리아(Sils Maria) 등에서 요양하며 매일 평균 6시간에서 8시간을 걸었습니다. 산책을 나설 때 그의 주머니에는 늘 작은 수첩과 연필이 들어 있었고, 걷는 동안 머릿속을 스치는 철학적 아이디어와 문장들을 그 자리에서 멈춰 서서 즉각적으로 기록했습니다. 그의 대표작인 『차라투스트라는 이렇게 말했다』의 핵심 개념들 역시 실스 마리아의 푸른 호숫가와 울창한 숲길을 걷는 도중에 벼락처럼 스친 영감에서 비롯되었습니다.\n\n오늘 포스트에서는 니체가 고집했던 '산책 집필' 루틴의 과학적 작동 메커니즘과 이를 현대적인 창의적 문제 해결에 어떻게 적용할 수 있는지 알아봅니다."
     },
     "whyTitle": {
-      "ko": "산책의 신체 리듬이 DMN과 발산적 사고를 촉진하는 이유",
-      "en": "Why Rhythmic Walking Triggers Default Mode Network & Divergent Thinking",
-      "ja": "歩行の身体リズムがDMNと拡散的思考を促進する理由",
-      "zh": "节奏性散步如何激活默认模式网络(DMN)与发散性思维",
-      "es": "Por qué el Ritmo Físico de Caminar Estimula la DMN y el Pensamiento Divergente",
-      "fr": "Pourquoi le Rythme de la Marche Stimule le DMN et la Pensée Divergente",
-      "de": "Warum rhythmisches Gehen das DMN und divergentes Denken stimuliert",
-      "pt": "Por que o Ritmo da Caminhada Estimula o DMN e o Pensamento Divergente",
-      "id": "Mengapa Berjalan Ritmis Memicu Default Mode Network & Pemikiran Divergen"
+      "ko": "산책의 신체 리듬이 DMN과 발산적 사고를 촉진하는 이유"
     },
     "whyDesc": {
-      "ko": "일정한 템포로 걸으면 심장 박동이 적절히 상승하여 뇌 혈류량과 산소 공급이 극대화됩니다. 특히 걷는 동작이 뇌의 작업 기억 과부하를 해소하고 DMN(Default Mode Network)을 활성화하여 평소 연결되기 힘든 개념들을 자유롭게 결합시키는 창의적 발산 모드로 전환시킵니다.",
-      "en": "Walking at a steady tempo gently increases heart rate and optimizes cerebral oxygenation. More importantly, movement frees the brain from working memory overloads and activates the Default Mode Network (DMN), enabling remote concepts to connect effortlessly into creative breakthroughs.",
-      "ja": "一定のテンポで歩くと心拍数が適度に上昇し、脳への血流量と酸素供給が極大化します。特に歩行動作が作業記憶の過負荷を解消し、DMN（デフォルト・モード・ネットワーク）を活性化させて、普段は結びつかない概念同士を自由に結合させる創造的拡散モードへと転換させます。",
-      "zh": "以恒定节奏行走能适度提高心率，使大脑血流量与供氧量达到最佳状态。更重要的是，步行运动能解开工作记忆的超负荷，高度激活默认模式网络(DMN)，使平时难以关联的概念自由碰撞，产生突破性创意。",
-      "es": "Caminar a un ritmo constante aumenta suavemente el ritmo cardíaco y optimiza la oxigenación cerebral. Liberar la mente de la sobrecarga de la memoria de trabajo activa la Red Neuronal por Defecto (DMN), conectando conceptos distantes en ideas creativas.",
-      "fr": "Marcher à un rythme régulier augmente doucement le rythme cardiaque et optimise l'oxygénation du cerveau. Libérer l'esprit de la surcharge cognitive active le réseau du mode par défaut (DMN), connectant des concepts éloignés en idées créatives.",
-      "de": "Gehen in gleichmäßigem Tempo steigert die Gehirndurchblutung und Sauerstoffversorgung. Die Entlastung des Arbeitsgedächtnisses aktiviert das Default Mode Network (DMN), was das Verknüpfen weit entfernter Konzepte ermöglicht.",
-      "pt": "Caminhar a um ritmo constante optimiza a oxigenação cerebral. Libertar a mente da sobrecarga da memória de trabalho activa a Rede Neuronal por Defeito (DMN), conectando conceitos distantes em ideias criativas.",
-      "id": "Berjalan dengan tempo yang stabil mengoptimalkan oksigenasi otak. Bebas dari beban berlebih memori kerja mengaktifkan Default Mode Network (DMN), menghubungkan konsep-konsep jauh menjadi terobosan kreatif."
+      "ko": "일정한 템포로 걸으면 심장 박동이 적절히 상승하여 뇌 혈류량과 산소 공급이 극대화됩니다. 특히 걷는 동작이 뇌의 작업 기억 과부하를 해소하고 DMN(Default Mode Network)을 활성화하여 평소 연결되기 힘든 개념들을 자유롭게 결합시키는 창의적 발산 모드로 전환시킵니다."
+    },
+    "cautionTitle": {
+      "ko": "니체식 산책 집필 루틴 주의사항 및 팁"
+    },
+    "cautionDesc": {
+      "ko": "산책 중 스마트폰이나 디지털 기기를 보지 마세요. 주머니에 작은 노트와 펜만 지닌 채 외부 디지털 자극을 완전히 차단해야 뇌의 잠재의식적 창의성이 정상 가동됩니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Prepare manual writing tools and go digital-free",
-          "ja": "アナログな筆記用具を用意し、デジタルから離れる",
-          "zh": "准备纸笔工具并脱离数字化设备",
-          "es": "Prepara herramientas de escritura analógicas y desconéctate",
-          "fr": "Préparer des outils d'écriture papier et couper le numérique",
-          "de": "Bereiten Sie analoge Schreibwerkzeuge vor und gehen Sie offline",
-          "pt": "Prepare ferramentas de escrita analógicas e desconecte-se",
-          "id": "Siapkan alat tulis manual dan bebaskan diri dari digital",
           "ko": "Prepare manual writing tools and go digital-free"
         },
         "text": {
-          "en": "Before heading out, leave your smartphone behind or put it in Do Not Disturb mode. Carry only a pocket notebook and a pen. The goal is to disconnect from digital triggers.",
-          "ja": "出発する前に、スマートフォンを置いていくか、「妨害禁止」モードにします。ポケットサイズのノートとペンだけを持ち歩きます。デジタル刺激を遮断することが目的です。",
-          "zh": "出门前，将智能手机留在家里或设置为勿扰模式。只携带口袋笔记本和一支笔。目标是切断与数字化触发源的联系。",
-          "es": "Antes de salir, deja tu teléfono o ponlo en modo No molestar. Lleva solo una libreta de bolsillo y un bolígrafo. El objetivo es desconectarse por completo de los estímulos digitales.",
-          "fr": "Avant de sortir, laissez votre smartphone ou passez-le en mode Ne pas déranger. Emportez uniquement un carnet de poche et un stylo. Le but est de couper les stimulations numériques.",
-          "de": "Lassen Sie Ihr Smartphone vor dem Aufbruch zurück oder schalten Sie es stumm. Nehmen Sie nur ein Taschennotizbuch und einen Stift mit, um digitale Ablenkungen zu vermeiden.",
-          "pt": "Antes de sair, deixe o telemóvel ou coloque-o no modo Não incomodar. Leve apenas um caderno de bolso e uma caneta. O objetivo é desconectar-se de estímulos digitais.",
-          "id": "Sebelum keluar, tinggalkan ponsel cerdas Anda atau atur ke mode Jangan Ganggu. Bawa hanya buku catatan saku dan pulpen. Tujuannya adalah memutuskan hubungan dari pemicu digital.",
           "ko": "Before heading out, leave your smartphone behind or put it in Do Not Disturb mode. Carry only a pocket notebook and a pen. The goal is to disconnect from digital triggers."
         }
       },
       {
         "name": {
-          "en": "Walk at a steady, rhythmic pace in nature",
-          "ja": "自然の中で一定の心地よいリズムで歩く",
-          "zh": "在自然中以稳定、有节奏的步伐行走",
-          "es": "Camina a un ritmo constante en un entorno natural",
-          "fr": "Marcher à un rythme régulier en pleine nature",
-          "de": "Gehen Sie in gleichmäßigem, rhythmischem Tempo in der Natur",
-          "pt": "Caminhe a um ritmo constante num ambiente natural",
-          "id": "Berjalanlah dengan langkah yang stabil dan ritmis di alam",
           "ko": "Walk at a steady, rhythmic pace in nature"
         },
         "text": {
-          "en": "Find a quiet park or trail. Walk at a moderate pace that matches your natural breathing. Let your eyes scan the environment without focusing on any single point.",
-          "ja": "静かな公園や散歩道を見つけます。自然な呼吸に合わせた適度なペースで歩きます。特定の1点を見つめることなく、周囲の風景に目を泳がせます。",
-          "zh": "寻找一片安静的公园或小径。以适合您自然呼吸的中等速度行走。让您的视线浏览周围的环境，而不需要专注于任何单一的点。",
-          "es": "Camina a un ritmo moderado que coincida con tu respiración natural. Deja que tus ojos escaneen el entorno sin enfocarse en un solo punto.",
-          "fr": "Trouvez un parc ou un sentier calme. Marchez à un rythme modéré, adapté à votre respiration. Laissez votre regard errer sans fixer de point précis.",
-          "de": "Finden Sie einen ruhigen Park oder Pfad. Gehen Sie in einem Tempo, das zu Ihrer natürlichen Atmung passt. Lassen Sie Ihren Blick ohne festen Fokus schweifen.",
-          "pt": "Procure um parque ou trilho silencioso. Caminhe a um ritmo moderado que corresponda à sua respiração natural. Deixe os seus olhos observarem o ambiente sem se focarem num único ponto.",
-          "id": "Temukan taman atau jalur yang tenang. Berjalanlah dengan kecepatan sedang yang sesuai dengan pernapasan alami Anda. Biarkan mata Anda memindai lingkungan tanpa berfokus pada satu titik pun.",
           "ko": "Find a quiet park or trail. Walk at a moderate pace that matches your natural breathing. Let your eyes scan the environment without focusing on any single point."
         }
       },
       {
         "name": {
-          "en": "Capture and write down insights immediately",
-          "ja": "ひらめいた洞察をその場ですぐに記録する",
-          "zh": "立即捕捉并记录下涌现的灵感",
-          "es": "Captura y escribe tus ideas de inmediato",
-          "fr": "Capturer et noter les idées immédiatement",
-          "de": "Halten Sie Erkenntnisse sofort schriftlich fest",
-          "pt": "Capte e escreva as suas ideias imediatamente",
-          "id": "Tangkap dan tuliskan wawasan segera",
           "ko": "Capture and write down insights immediately"
         },
         "text": {
-          "en": "As soon as an idea or solution flashes, stop immediately and write it down in your notebook. Do not wait until you return home, as short-term memory decays quickly.",
-          "ja": "アイデアや解決策がひらめいたら、すぐに立ち止まってノートに書き留めます。帰宅するまで待ってはいけません。短期記憶は急速に失われてしまうからです。",
-          "zh": "一旦灵感或解决方案闪现，立即停下来并在笔记本上写下它。不要等到回家，因为短期记忆会迅速衰退。",
-          "es": "Tan pronto como surja una idea, detente de inmediato y escríbela en tu libreta. No esperes a volver a casa, ya que la memoria a corto plazo se desvanece rápidamente.",
-          "fr": "Dès qu'une idée surgit, arrêtez-vous et notez-la dans votre carnet. N'attendez pas d'être rentré chez vous, car la mémoire à court terme s'efface vite.",
-          "de": "Sobald ein Gedanke aufblitzt, halten Sie an und schreiben Sie ihn in Ihr Notizbuch. Warten Sie nicht, bis Sie zu Hause sind, da das Kurzzeitgedächtnis flüchtig ist.",
-          "pt": "Assim que surgir uma ideia, pare imediatamente e escreva-a no seu caderno. Não espere até voltar para casa, pois a memória a curto prazo desaparece rapidamente.",
-          "id": "Begitu sebuah ide atau solusi muncul, segera berhenti dan tuliskan di buku catatan Anda. Jangan menunggu sampai Anda kembali ke rumah, karena memori jangka pendek cepat memudar.",
           "ko": "As soon as an idea or solution flashes, stop immediately and write it down in your notebook. Do not wait until you return home, as short-term memory decays quickly."
         }
       }
     ],
-    "cautionTitle": {
-      "ko": "니체식 산책 집필 루틴 주의사항 및 팁",
-      "en": "Caution & Nietzsche's Walking Ideation Tips",
-      "ja": "ニーチェ流歩行執筆の注意点とヒント",
-      "zh": "尼采散步写作习惯的注意事项与技巧",
-      "es": "Precaución y Consejos de la Rutina de Nietzsche",
-      "fr": "Précautions et Conseils de la Routine de Nietzsche",
-      "de": "Vorsicht & Nietzsches Geh-Routine-Tipps",
-      "pt": "Precauções e Dicas da Rotina de Nietzsche",
-      "id": "Peringatan & Tip Rutinitas Berjalan Nietzsche"
-    },
-    "cautionDesc": {
-      "ko": "산책 중 스마트폰이나 디지털 기기를 보지 마세요. 주머니에 작은 노트와 펜만 지닌 채 외부 디지털 자극을 완전히 차단해야 뇌의 잠재의식적 창의성이 정상 가동됩니다.",
-      "en": "Do not look at smartphones or digital devices while walking. Carry only a physical pocket notebook and pen, completely blocking digital noise so your subconscious creativity can activate fully.",
-      "ja": "散歩中にスマートフォンなどのデジタル機器を見ないでください。ポケットに小さなノートとペンだけを入れ、外部のデジタル刺激を完全に遮断してこそ、脳の潜在意識的な創造性が正常に作動します。",
-      "zh": "散步时切勿看手机或电子设备。口袋里只需携带纸质小笔记本和笔，完全切断外界数字干扰，才能让大脑潜意识的创造力全面释放。",
-      "es": "No mire el teléfono inteligente mientras camina. Lleve solo un cuaderno de bolsillo y un bolígrafo, bloqueando el ruido digital para que la creatividad subconsciente se active por completo.",
-      "fr": "Ne regardez pas votre smartphone en marchant. Emportez uniquement un carnet de poche et un stylo, coupant le bruit numérique pour que la créativité du subconscient s'active pleinement.",
-      "de": "Schauen Sie beim Gehen nicht auf Ihr Smartphone. Nehmen Sie nur ein Taschennotizbuch und einen Stift mit, um digitale Ablenkungen komplett zu blockieren.",
-      "pt": "Não olhe para o smartphone enquanto caminha. Leve apenas um caderno de bolso e uma caneta, bloqueando o ruído digital para que a criatividade do subconsciente se active totalmente.",
-      "id": "Jangan melihat ponsel pintar saat berjalan. Bawa hanya buku catatan saku dan pulpen, memblokir kebisingan digital agar kreativitas bawah sadar dapat aktif sepenuhnya."
-    },
     "faqs": [
       {
         "question": {
-          "ko": "니체는 구체적으로 언제 걸었나요?",
-          "en": "When specifically did Nietzsche go for his walks?",
-          "ja": "ニーチェは具体的にいつ歩いたのですか？",
-          "zh": "尼采具体是在什么时候散步的？",
-          "es": "A qu hora caminaba Nietzsche concretamente?",
-          "fr": "Quand prcisment Nietzsche faisait-il ses marches ?",
-          "de": "Wann genau ging Nietzsche spazieren?",
-          "pt": "A que horas caminhava Nietzsche concretamente?",
-          "id": "Kapan tepatnya Nietzsche melakukan jalan-jalan tersebut?"
+          "ko": "니체는 구체적으로 언제 걸었나요?"
         },
         "answer": {
-          "ko": "니체는 주로 아침 식사 후부터 점심시간 전까지, 그리고 늦은 오후에 걸었습니다. 특히 산길과 숲길을 걸으며 자연 속에서 철학적 영감을 얻는 것을 선호했습니다.",
-          "en": "Nietzsche walked mainly after breakfast until lunchtime, and again in the late afternoon. He preferred mountain trails and forests to find philosophical inspiration in nature.",
-          "ja": "ニーチェは主に朝食後から昼食前まで、そして夕方に歩きました。特に山道や森を歩き、自然の中で哲学的なインスピレーションを得ることを好みました。",
-          "zh": "尼采主要在早餐后到午餐前，以及傍晚时间步行。他喜欢走山路和森林小径，在自然中寻找哲学灵感。",
-          "es": "Nietzsche caminaba principalmente despus del desayuno hasta la hora del almuerzo, y de nuevo a ltima hora de la tarde. Prefera los senderos de montaa y bosques para inspirarse.",
-          "fr": "Nietzsche marchait principalement après le petit-djeuner jusqu'au djeuner, puis en fin d'après-midi. Il prfrait les sentiers de montagne et forts pour s'inspirer.",
-          "de": "Nietzsche ging hauptschlich nach dem Frhstck bis zum Mittagessen und am spten Nachmittag spazieren. Er bevorzugte Bergpfade und Wlder, um Inspiration zu finden.",
-          "pt": "Nietzsche caminhava principalmente aps o pequeno-almoo at  hora do almoo, e novamente ao fim da tarde. Preferia trilhos de montanha e florestas para se inspirar.",
-          "id": "Nietzsche berjalan terutama setelah sarapan hingga waktu makan siang, and sekali lagi di sore hari. Ia lebih menyukai jalur pegunungan dan hutan untuk menemukan inspirasi filosofis di alam."
+          "ko": "니체는 주로 아침 식사 후부터 점심시간 전까지, 그리고 늦은 오후에 걸었습니다. 특히 산길과 숲길을 걸으며 자연 속에서 철학적 영감을 얻는 것을 선호했습니다."
         }
       },
       {
         "question": {
-          "ko": "일상에서 실천할 때 꼭 야외를 걸어야 하나요?",
-          "en": "Do I have to walk outdoors to practice this?",
-          "ja": "日常生活で実践する際、必ず屋外を歩く必要がありますか？",
-          "zh": "在日常生活中实践时，一定要在室外步行吗？",
-          "es": "Es estrictamente necesario caminar al aire libre para practicar esto?",
-          "fr": "Doit-on obligatoirement marcher en extérieur ?",
-          "de": "Muss ich drauen gehen, um dies zu praktizieren?",
-          "pt": " Esstrictamente necessrio caminhar ao ar livre para praticar isto?",
-          "id": "Apakah saya harus berjalan di luar ruangan untuk mempraktikkan ini?"
+          "ko": "일상에서 실천할 때 꼭 야외를 걸어야 하나요?"
         },
         "answer": {
-          "ko": "야외 산책이 가장 좋지만, 여의치 않다면 실내의 좁은 복도나 사무실 안을 조용히 서성이는 것만으로도 가벼운 인지 전환과 집중력 리셋 효과를 누릴 수 있습니다.",
-          "en": "While walking outdoors is ideal, simply pacing quietly down a hallway or around an office can provide a mild cognitive shift and reset focus.",
-          "ja": "屋外での散歩がベストですが、難しい場合は室内の静かな廊下やオフィス内をゆっくり歩き回るだけでも、軽い認知転換と集中力リセットの効果が得られます。",
-          "zh": "虽然在户外散步是最好的，但如果条件不允许，仅在室内的走廊或办公室里静静踱步，也能达到轻微的认知转移和重置注意力的效果。",
-          "es": "Aunque caminar al aire libre es ideal, pasear tranquilamente por un pasillo o en la oficina puede proporcionar una ligera transicin cognitiva y reiniciar el enfoque.",
-          "fr": "Mme si l'extérieur est idal, faire les cent pas dans un couloir ou un bureau peut suffire  crer une transition cognitive et recentrer l'attention.",
-          "de": "Obwohl Gehen an der frischen Luft ideal ist, kann das Auf- und Abgehen auf einem Flur oder im Bro einen leichten kognitiver Wechsel bewirken und den Fokus strken.",
-          "pt": "Embora caminhar ao ar livre seja o ideal, passear tranquilamente por um corredor ou no escritrio pode proporcionar uma ligeira transio cognitiva e reiniciar o foco.",
-          "id": "Mengenai berjalan di luar ruangan adalah yang ideal, sekadar mondar-mandir dengan tenang di lorong atau di sekitar kantor dapat memberikan peralihan kognitif ringan."
+          "ko": "야외 산책이 가장 좋지만, 여의치 않다면 실내의 좁은 복도나 사무실 안을 조용히 서성이는 것만으로도 가벼운 인지 전환과 집중력 리셋 효과를 누릴 수 있습니다."
         }
       }
     ]

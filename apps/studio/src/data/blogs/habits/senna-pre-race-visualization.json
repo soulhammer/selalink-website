@@ -1,218 +1,72 @@
 {
   "senna-pre-race-visualization": {
     "title": {
-      "ko": "시속 300km 속도의 명상: 아일톤 세나의 레이스 전 시각화 습관",
-      "en": "Meditation at 300km/h: Ayrton Senna's Pre-race Visualization Habit",
-      "ja": "時速300kmの瞑想：アイルトン・セナのレース前視覚化習慣",
-      "zh": "时速300公里的冥想：埃尔顿·塞纳赛前想象习惯",
-      "es": "Meditación a 300 km/h: el hábito de visualización previo a la carrera de Ayrton Senna",
-      "fr": "Méditation à 300 km/h : l'habitude de visualisation d'Ayrton Senna avant la course",
-      "de": "Meditation bei 300 km/h: Ayrton Sennas Gewohnheit der Visualisierung vor dem Rennen",
-      "pt": "Meditação a 300 km/h: o hábito de visualização pré-corrida de Ayrton Senna",
-      "id": "Meditasi pada Kecepatan 300km/jam: Kebiasaan Visualisasi Sebelum Balapan Ayrton Senna"
+      "ko": "시속 300km 속도의 명상: 아일톤 세나의 레이스 전 시각화 습관"
     },
     "description": {
-      "ko": "포뮬러 원(F1)의 전설적인 챔피언이자, 경기 전 콕핏 안에서 눈을 감고 트랙 전체를 완벽하게 시각화했던 아일톤 세나. 뇌의 운동 피질을 미리 활성화하여 실행 오차를 없애고 스트레스를 통제하는 멘탈 리허설의 신경학적 메커니즘을 밝깁니다.",
-      "en": "F1 legend Ayrton Senna closed his eyes in the cockpit to mentally drive the track before the race. Learn how mental rehearsal pre-activates the motor cortex to minimize error.",
-      "ja": "F1の伝説的チャンピオンであり、レース開始前にコックピット内で完璧なコースのシミュレーションを行ったセナ. 運動野を事前活性化してエラーを最小限に抑える神経学的な仕組みを解析します.",
-      "zh": "F1传奇冠军埃尔顿·塞纳在比赛前会在驾驶舱内闭上眼睛，在脑海中完美地构想整个赛道。探讨精神演练预先激活运动皮层以减少执行误差的神经学机制。",
-      "es": "La leyenda de la F1 Ayrton Senna cerraba los ojos en la cabina para conducir mentalmente la pista antes de la carrera. Conozca cómo el ensayo mental activa previamente la corteza motora para minimizar el error.",
-      "fr": "La légende de la F1 Ayrton Senna fermait les yeux dans le cockpit pour parcourir mentalement la piste avant la course. Découvrez comment l'entraînement mental active le cortex moteur.",
-      "de": "Die F1-Legende Ayrton Senna schloss im Cockpit die Augen, um die Strecke vor dem Rennen im Geist abzufahren. Erfahren Sie, wie mentales Training den motorischen Kortex voraktiviert.",
-      "pt": "A lenda da F1 Ayrton Senna fechava os olhos no cockpit para conduzir mentalmente a pista antes da corrida. Saiba como o ensaio mental ativa previamente o córtex motor para minimizar erros.",
-      "id": "Legenda F1 Ayrton Senna memejamkan mata di kokpit untuk berkendara secara mental di lintasan sebelum balapan. Pelajari bagaimana latihan mental mengaktifkan korteks motorik untuk meminimalkan kesalahan."
+      "ko": "포뮬러 원(F1)의 전설적인 챔피언이자, 경기 전 콕핏 안에서 눈을 감고 트랙 전체를 완벽하게 시각화했던 아일톤 세나. 뇌의 운동 피질을 미리 활성화하여 실행 오차를 없애고 스트레스를 통제하는 멘탈 리허설의 신경학적 메커니즘을 밝깁니다."
     },
     "authority": {
-      "ko": "아일톤 세나 생전 언론 인터뷰 및 F1 드라이버들의 멘탈 리허설(Mental Rehearsal) 습관과 뇌의 운동 영역(Supplementary Motor Area) 이미지 트레이닝 신경학 연구",
-      "en": "Ayrton Senna's Interviews and Cognitive Research on Mental Rehearsal, Motor Imagery, and Supplementary Motor Area (SMA) Activation",
-      "ja": "アイルトン・セナ生前のメディアインタビューおよびF1ドライバーのメンタルリハーサル（Mental Rehearsal）習慣と運動前野（Supplementary Motor Area）の神経科学研究結果",
-      "zh": "埃尔顿·塞纳生前媒体采访及F1赛车手心理演练、运动想象与辅助运动区（SMA）激活的神经科学研究成果",
-      "es": "Entrevistas de Ayrton Senna e investigación cognitiva sobre el ensayo mental, la imaginería motora y la activación del área motora suplementaria (SMA)",
-      "fr": "Interviews d'Ayrton Senna et recherche cognitive sur la répétition mentale, l'imagerie motrice et l'activation de l'aire motrice supplémentaire (SMA)",
-      "de": "Ayrton Sennas Interviews und kognitive Forschung zu mentalem Training, Bewegungsvorstellung und der Aktivierung des supplementär-motorischen Areals (SMA)",
-      "pt": "Entrevistas de Ayrton Senna e pesquisa cognitiva sobre ensaio mental, imaginação motora e ativação da área motora suplementar (SMA)",
-      "id": "Wawancara Ayrton Senna dan Riset Kognitif tentang Latihan Mental, Citra Motorik, dan Aktivasi Area Motorik Tambahan (SMA)"
+      "ko": "Senna Pre Race Visualization 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "포뮬러 원(F1) 역사상 가장 위대한 천재 드라이버로 꼽히는 아일톤 세나. 빗길 속 코너를 시속 300km에 육박하는 속도로 돌파하며 경외감을 자아냈던 레전드 챔피언인 그의 초인적인 주행 능력 뒤에는 신체 훈련만큼 혹독했던 '뇌 훈련'이 있었습니다. 세나는 경기 시작 수십 분 전, 헬멧을 쓴 채 머신 콕핏에 앉아 눈을 감고 미동조차 하지 않는 상태를 고수했습니다. 그의 머릿속에서는 이미 경기가 시작되어 서킷의 수십 개 코너를 도는 코스, 변속 타이밍, 브레이킹 지점이 완벽하게 3D 시뮬레이션되고 있었습니다. 레이스 전 실행 본능을 극한으로 조율했던 아일톤 세나의 멘탈 리허설 메커니즘을 규명합니다.",
-      "en": "In this historic routine:  (F1)        .     300km                ' ' .      ,             .           ,  ,    3D  .            .\n\nPracticing this daily routine consistently builds deep focus and long-term habits. By systematically applying this historic routine daily, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus. By systematically applying this historic routine daily, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus.",
-      "ja": "F1の歴史において最も偉大な天才ドライバーとされるアイルトン・セナ. 雨の中、時速300kmに迫る速度でコーナーを突破し、畏敬の念を抱かせた伝説の王者の超人的なドライビング能力の背景には、肉体トレーニングと同じくらい過酷な「脳トレーニング」がありました. セナはレース開始の数十分前、ヘルメットをかぶったままマシンのコックピットに座り、目を閉じて身じろぎ一つしない状態を保ちました. 彼の頭の中ではすでにレースが始まっており、サーキットの数十ものコーナーを回るルート、シフトチェンジのタイミング、ブレーキングポイントが完璧に3Dシミュレーションされていました. レース前に実行本能を極限までコントロールしたアイルトン・セナのメンタルリハーサルのメカニズムを解明します.",
-      "zh": "在这一历史性惯例的实践中： (F1) . 300km ' ' . , . , , 3D . .",
-      "es": "Ayrton Senna, uno de los mejores pilotos de F1 de la historia, tenía una intensa rutina mental junto con el entrenamiento físico. Minutos antes de una carrera, se sentaba en su cabina con el casco puesto, los ojos cerrados, completamente inmóvil. En su mente, la carrera ya había comenzado, simulando cada giro, cambio de marcha y punto de frenado. Analizamos el mecanismo del ensayo mental de Ayrton Senna.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Ayrton Senna, einer der größten F1-Fahrer der Geschichte, hatte neben dem körperlichen Training ein intensives mentales Programm. Minuten vor einem Rennen saß er mit aufgesetztem Helm mit geschlossenen Augen völlig still in seinem Cockpit. In seinem Geist hatte das Rennen bereits begonnen und simulierte jede Kurve, jeden Gangwechsel und jeden Bremspunkt.",
-      "pt": "Na prática desta rotina transformadora:  (F1)        .     300km                ' ' .      ,             .           ,  ,    3D  .            .\n\nAo praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Ayrton Senna, salah satu pembalap F1 terhebat dalam sejarah, memiliki rutinitas mental yang intens di samping pelatihan fisik. Beberapa menit sebelum balapan, ia duduk di kokpit dengan helm terpasang, mata terpejam, dan sepenuhnya diam. Di dalam pikirannya, balapan telah dimulai, menyimulasikan setiap tikungan, pergantian gigi, dan titik pengereman."
+      "ko": "\"나는 머릿속으로 이미 수백 번 그 코너를 완벽하게 달렸다. 몸은 그저 그 궤적을 재현할 뿐이다.\" 🏎️\n\n포뮬러 원(F1) 역사상 가장 빠르고 영광스러운 황제로 꼽히는 레이서 아일톤 세나. 그는 찰나의 순간에 생과 사가 오가는 시속 300km가 넘는 괴물 머신 안에서 누구보다 침착하고 정교하게 주행한 전설이었습니다. 그가 레이스 시작 직전 매번 수행했던 강력한 비밀 의식이 있었습니다. 바로 '레이스 전 시각화 명상'이었습니다. 세나는 시동을 걸기 전 콕핏에 앉아 헬멧을 쓰고 조용히 눈을 감았습니다. 그는 머릿속으로 자신이 마주할 경기장 트랙의 거친 노면 질감, 모든 코너의 진입 각도, 변속 타이밍, 빗길 주행 시 타이어 그립의 한계점을 극도로 상세히 3차원으로 시뮬레이션했습니다. 이미 머릿속으로 완벽한 주행을 마친 세나의 행동 시각화 신경학적 메커니즘을 상세히 해부합니다."
     },
     "whyTitle": {
-      "ko": "시각적 시뮬레이션과 보조운동영역(SMA)의 운동 뉴런 활성화",
-      "en": "Mental Simulation and Motor Neuron Pre-activation in the SMA",
-      "ja": "視覚的シミュレーションと補足運動野（SMA）のニューロン活性化",
-      "zh": "精神模拟与辅助运动区（SMA）的运动神经元预激活",
-      "es": "Simulación mental y preactivación de neuronas motoras en la SMA",
-      "fr": "Simulation mentale et préactivation des neurones moteurs dans la SMA",
-      "de": "Mentale Simulation und motorische Neuronen-Voraktivierung im SMA",
-      "pt": "Simulação mental e pré-ativação de neurônios motores na SMA",
-      "id": "Simulasi Mental dan Pra-Aktivasi Neuron Motorik di SMA"
+      "ko": "시각적 시뮬레이션과 보조운동영역(SMA)의 운동 뉴런 활성화"
     },
     "whyDesc": {
-      "ko": "실제 몸을 움직이지 않더라도 뇌 속에서 동작을 극도로 구체적으로 상상(Mental Imagery)하면, 대뇌의 '보조운동영역(Supplementary Motor Area, SMA)'과 일차운동피질이 활성화됩니다. 이는 실제 근육을 움직일 때 작동하는 뉴런 배선과 90% 이상 일치합니다. 이러한 멘탈 리허설은 신호 전달 효율을 높여 실제 수행 시 근육 반응 속도를 단축하고 반사 동작 오차를 차단합니다. 또한 자율신경계가 투쟁-도피 모드로 돌입해 심박수가 치솟는 것을 막고 안정적인 알파파 상태를 유지하여 스트레스를 압도합니다.",
-      "en": "Even without moving your body, imagining actions in vivid detail (Mental Imagery) activates the Supplementary Motor Area (SMA) and primary motor cortex. This matches over 90% of the neural wiring utilized during actual physical movement. This mental rehearsal optimizes signal conduction efficiency, shortening reaction time and cutting execution errors. It also keeps the autonomic nervous system in a calm alpha-wave state rather than fight-or-flight.",
-      "ja": "実際に体を動かさなくても、脳内で動作を極めて具体的にイメージ（Mental Imagery）すると、大脳の「補足運動野（SMA）」と一次運動野が活性化します. これは、実際の筋肉を動かすときの神経配線と90％以上一致します. このメンタルリハーサルは、信号伝達効率を高め、実際の実行時の筋肉反応速度を短縮し、反射動作のエラーを遮断します. また、自律神経系が闘争・逃走モードに入って心拍数が急上昇するのを防ぎ、安定したアルファ波状態を維持してストレスを圧倒します.",
-      "zh": "即使不移动身体，在脑海中极其具体地想象动作（运动想象）也会激活辅助运动区（SMA）和初级运动区。这与实际身体运动时使用的大脑神经回路有90%以上的重合度。这种精神演练可以提高信号传导效率，缩短实际执行时的肌肉反应时间并阻断执行错误。它还可以防止自主神经系统进入战斗或逃跑模式，保持稳定的阿尔法波状态以战胜压力。",
-      "es": "Incluso sin mover el cuerpo, imaginar acciones con vívido detalle (Imaginería mental) activa el Área Motora Suplementaria (SMA) y la corteza motora primaria. Esto coincide en más del 90% con el cableado neuronal utilizado durante el movimiento físico real. Este ensayo mental optimiza la eficiencia de la conducción de señales, acortando el tiempo de reacción y reduciendo los errores de ejecución. También mantiene el sistema nervioso autónomo en un estado tranquilo de ondas alfa en lugar de lucha o huida.",
-      "fr": "Même sans bouger le corps, imaginer des actions avec précision (Imagerie mentale) active l'aire motrice supplémentaire (SMA) et le cortex moteur primaire. Cela correspond à plus de 90 % des connexions neuronales utilisées lors du mouvement physique réel. Cette répétition mentale optimise la conduction des signaux, raccourcissant le temps de réaction.",
-      "de": "Auch ohne den Körper zu bewegen, aktiviert das bildhafte Vorstellen von Handlungen (Bewegungsvorstellung) das supplementär-motorische Areal (SMA) und den primären motorischen Kortex. Dies stimmt zu über 90 % mit den neuronalen Schaltkreisen überein, die bei tatsächlicher körperlicher Bewegung genutzt werden. Dieses mentale Training optimiert die Signalleitungseffizienz, verkürzt die Reaktionszeit und reduziert Ausführungsfehler.",
-      "pt": "Mesmo sem mover o corpo, imaginar ações com detalhes vívidos (Imaginação Mental) ativa a Área Motora Suplementar (SMA) e o córtex motor primário. Isso coincide em mais de 90% com as conexões neuronais utilizadas durante o movimento físico real. Este ensaio mental otimiza a eficiência da condução de sinais, reduzindo o tempo de reação.",
-      "id": "Bahkan tanpa menggerakkan tubuh Anda, membayangkan tindakan secara mendetail (Mental Imagery) mengaktifkan Supplementary Motor Area (SMA) dan korteks motorik primer. Ini cocok dengan lebih dari 90% jaringan saraf yang digunakan selama gerakan fisik yang sebenarnya. Latihan mental ini mengoptimalkan efisiensi konduksi sinyal, memperpendek waktu reaksi dan memotong kesalahan eksekusi. Hal ini juga menjaga sistem saraf otonom dalam keadaan gelombang alfa yang tenang."
+      "ko": "실제 몸을 움직이지 않더라도 뇌 속에서 동작을 극도로 구체적으로 상상(Mental Imagery)하면, 대뇌의 '보조운동영역(Supplementary Motor Area, SMA)'과 일차운동피질이 활성화됩니다. 이는 실제 근육을 움직일 때 작동하는 뉴런 배선과 90% 이상 일치합니다. 이러한 멘탈 리허설은 신호 전달 효율을 높여 실제 수행 시 근육 반응 속도를 단축하고 반사 동작 오차를 차단합니다. 또한 자율신경계가 투쟁-도피 모드로 돌입해 심박수가 치솟는 것을 막고 안정적인 알파파 상태를 유지하여 스트레스를 압도합니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "멘탈 시뮬레이션을 수행할 때의 주의점은 결과(예: 발표 성공, 목표 달성)만을 상상하는 데 그치는 것입니다. 뇌의 운동 피질을 활성화하고 실수를 줄이려면 결과가 아닌 **구체적인 과정(예: 상대의 어떤 피드백에 어떻게 답변할 것인가, 어떤 단어로 서두를 열 것인가 등)**의 인과적 디테일을 시뮬레이션해야 신경가소성 프라이밍 효과가 나타납니다.",
-      "en": "Do not just visualize the final result (e.g., winning or a successful presentation). To activate the motor cortex and prevent mistakes, simulate the step-by-step process (e.g., how to respond to specific objections, what word to start with) to trigger neuroplastic priming.",
-      "ja": "ローカルのメンタルシミュレーションを行う際の注意点は、結果（例：発表の成功、目標達成）だけを想像することに留まることです. 脳の運動野を活性化し、ミスを減らすためには、結果ではなく具体的なプロセス（例：相手のどのようなフィードバックにどう答えるか、どのような言葉で話し始めるかなど）の因果的なディテールをシミュレーションしてこそ、神経可塑性のプライミング効果が現れます.",
-      "zh": "进行心理模拟时，避免仅想象最终结果（如成功获胜或演讲圆满）。为了激活大脑运动皮层并减少失误，必须对具体过程（例如如何应对对方的反馈、以什么词开场等）的细节进行因果模拟，才能产生神经塑性启动效应。",
-      "es": "No visualice solo el resultado final (por ejemplo, ganar o una presentación exitosa). Para activar la corteza motora y prevenir errores, simule el proceso paso a paso (por ejemplo, cómo responder a objeciones específicas, con qué palabra comenzar) para desencadenar la preparación neuroplástica.",
-      "fr": "Ne visualisez pas seulement le résultat final (ex. gagner ou réussir une présentation). Pour activer le cortex moteur et éviter les erreurs, simulez le processus étape par étape (ex. comment répondre aux objections, par quel mot commencer) pour déclencher l'amorçage neuroplastique.",
-      "de": "Visualisieren Sie nicht nur das Endergebnis (z. B. das Gewinnen oder eine erfolgreiche Präsentation). Um den motorischen Kortex zu aktivieren und Fehler zu vermeiden, simulieren Sie den schrittweisen Prozess (z. B. wie Sie auf Einwände reagieren, mit welchem Wort Sie beginnen), um ein neuroplastisches Priming auszulösen.",
-      "pt": "Não visualize apenas o resultado final (por exemplo, ganhar ou uma apresentação bem-sucedida). Para ativar o córtex motor e prevenir erros, simule o processo passo a passo (por exemplo, como responder a objeções específicas, com qual palavra começar) para desencadear a preparação neuroplástica.",
-      "id": "Jangan hanya memvisualisasikan hasil akhir (misalnya, menang atau presentasi yang sukses). Untuk mengaktifkan korteks motorik dan mencegah kesalahan, simulasikan proses langkah demi langkah (misalnya, bagaimana menanggapi keberatan tertentu, kata apa yang harus dimulai) untuk memicu neuroplastic priming."
+      "ko": "멘탈 시뮬레이션을 수행할 때의 주의점은 결과(예: 발표 성공, 목표 달성)만을 상상하는 데 그치는 것입니다. 뇌의 운동 피질을 활성화하고 실수를 줄이려면 결과가 아닌 구체적인 과정(예: 상대의 어떤 피드백에 어떻게 답변할 것인가, 어떤 단어로 서두를 열 것인가 등)의 인과적 디테일을 시뮬레이션해야 신경가소성 프라이밍 효과가 나타납니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "시각적 잡음 차단 및 호흡 안정",
-          "en": "Blocking Visual Noise and Calming Breath",
-          "ja": "視覚的雑音の遮断と呼吸の安定",
-          "zh": "阻断视觉噪音并稳定呼吸",
-          "es": "Bloquear el ruido visual y calmar la respiración",
-          "fr": "Bloquer le bruit visuel et calmer sa respiration",
-          "de": "Visuelles Rauschen ausblenden und Atmung beruhigen",
-          "pt": "Bloquear o ruído visual e acalmar a respiração",
-          "id": "Memblokir Kebisingan Visual dan Menenangkan Napas"
+          "ko": "시각적 잡음 차단 및 호흡 안정"
         },
         "text": {
-          "ko": "중요한 실행 10분 전, 조용히 의자에 기대거나 눈을 감고 깊은 복식호흡을 3회 반복하여 뇌파를 가라앉힙니다.",
-          "en": "Ten minutes before a major event, sit back, close your eyes, and take 3 deep diaphragmatic breaths to settle brain waves.",
-          "ja": "重要な実行の10分前、静かに椅子に寄りかかるか目を閉じ、深い腹式呼吸を3回繰り返して脳波を落ち着かせます.",
-          "zh": "在重要执行前10分钟，静静靠在椅子上或闭上双眼，重复深腹式呼吸3次以平复脑电波。",
-          "es": "Diez minutos antes de un evento importante, siéntese, cierre los ojos y tome 3 respiraciones diafragmáticas profundas para calmar las ondas cerebrales.",
-          "fr": "Dix minutes avant un événement majeur, asseyez-vous, fermez les yeux et prenez 3 respirations diaphragmatiques profondes pour calmer les ondes cérébrales.",
-          "de": "Setzen Sie sich zehn Minuten vor einem wichtigen Ereignis zurück, schließen Sie die Augen und nehmen Sie 3 tiefe Zwerchfellatmungen, um die Gehirnwellen zu beruhigen.",
-          "pt": "Dez minutos antes de um evento importante, sente-se, feche os olhos e respire fundo pelo diafragma por 3 vezes para acalmar as ondas cerebrais.",
-          "id": "Sepuluh menit sebelum peristiwa besar, duduklah, pejamkan mata, dan tarik napas dalam-dalam sebanyak 3 kali untuk menenangkan gelombang otak."
+          "ko": "중요한 실행 10분 전, 조용히 의자에 기대거나 눈을 감고 깊은 복식호흡을 3회 반복하여 뇌파를 가라앉힙니다."
         }
       },
       {
         "name": {
-          "ko": "실행 과정의 1인칭 3D 시뮬레이션",
-          "en": "First-person 3D Process Simulation",
-          "ja": "実行プロセスの1人称3Dシミュレーション",
-          "zh": "执行过程的第一人称3D模拟",
-          "es": "Simulación de procesos en 3D en primera persona",
-          "fr": "Simulation de processus en 3D à la première personne",
-          "de": "3D-Prozesssimulation in der Ich-Perspektive",
-          "pt": "Simulação de processos em 3D em primeira pessoa",
-          "id": "Simulasi Proses 3D Orang Pertama"
+          "ko": "실행 과정의 1인칭 3D 시뮬레이션"
         },
         "text": {
-          "ko": "자신의 시각(1인칭)으로 첫 화면, 첫 문장, 첫 제스처를 뇌 속에서 영화처럼 매우 느리게 3D로 구체화해 상상합니다.",
-          "en": "From a first-person perspective, visualize the first slide, first sentence, or first gesture slowly in 3D.",
-          "ja": "自身の視覚（1人称）で、最初の画面、最初のセリフ、最初のジェスチャーを脳内で映画のように非常にゆっくりと3Dで具体化して想像します.",
-          "zh": "以第一人称视角，在脑海中像电影一样非常缓慢地将第一页幻灯片、第一句台词或第一个手势具体化为3D进行想象。",
-          "es": "Desde una perspectiva en primera persona, visualice la primera diapositiva, la primera oración o el primer gesto lentamente en 3D.",
-          "fr": "Du point de vue de la première personne, visualisez lentement la première diapositive, la première phrase ou le premier geste en 3D.",
-          "de": "Visualisieren Sie die erste Folie, den ersten Satz oder die erste Geste langsam in 3D aus der Ich-Perspektive.",
-          "pt": "De uma perspectiva em primeira pessoa, visualize o primeiro slide, a primeira frase ou o primeiro gesto lentamente em 3D.",
-          "id": "Dari perspektif orang pertama, visualisasikan slide pertama, kalimat pertama, atau gerakan pertama secara perlahan dalam format 3D."
+          "ko": "자신의 시각(1인칭)으로 첫 화면, 첫 문장, 첫 제스처를 뇌 속에서 영화처럼 매우 느리게 3D로 구체화해 상상합니다."
         }
       },
       {
         "name": {
-          "ko": "돌발 상황 대처의 사전 입력",
-          "en": "Pre-programming Responses to Contingencies",
-          "ja": "突発的な状況への対処の事前インプット",
-          "zh": "预先输入应对突发情况的方案",
-          "es": "Preprogramación de respuestas ante contingencias",
-          "fr": "Pré-programmer des réponses aux imprévus",
-          "de": "Reaktionen auf Unvorhergesehenes vorprogrammieren",
-          "pt": "Pré-programar respostas para contingências",
-          "id": "Memprogram Ulang Respons Terhadap Kemungkinan Buruk"
+          "ko": "돌발 상황 대처의 사전 입력"
         },
         "text": {
-          "ko": "말이 꼬이거나 장비에 오류가 나는 돌발 상황을 일부러 상상한 뒤, 이에 당황하지 않고 가벼운 호흡 후 대처하는 모션까지 시뮬레이션해 둡니다.",
-          "en": "Intentionally imagine a glitch or stutter, and simulate yourself taking a breath and resolving it without panic.",
-          "ja": "言葉が詰まったり機器のエラーが発生したりする突発的な状況をあえて想像し、慌てずに軽く呼吸した後に対応する動作までシミュレーションしておきます.",
-          "zh": "刻意想象忘词或设备故障等突发状况，并模拟自己深吸一口气然后淡定应对的动作。",
-          "es": "Imagine intencionalmente un error o tartamudeo, y simúlese respirando y resolviéndolo sin pánico.",
-          "fr": "Imaginez intentionnellement un problème ou un bégaiement, et simulez-vous en train de respirer et de le résoudre sans panique.",
-          "de": "Stellen Sie sich absichtlich eine Panne oder ein Stottern vor und simulieren Sie, wie Sie tief durchatmen und das Problem ohne Panik lösen.",
-          "pt": "Imagine intencionalmente uma falha ou gagueira, e simule a si mesmo respirando e resolvendo a situação sem pânico.",
-          "id": "Sengaja bayangkan gangguan atau kegagapan, dan simulasikan diri Anda menarik napas lalu menyelesaikannya tanpa panik."
+          "ko": "말이 꼬이거나 장비에 오류가 나는 돌발 상황을 일부러 상상한 뒤, 이에 당황하지 않고 가벼운 호흡 후 대처하는 모션까지 시뮬레이션해 둡니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "시뮬레이션을 하다가 오히려 불안감이 가중되는데 이럴 땐 어떡하죠?",
-          "en": "What if visualization increases my anxiety?",
-          "ja": "シミュレーションをしていると、かえって不安感が強くなりますが、どうすればいいですか？",
-          "zh": "进行模拟时反而加剧了焦虑感，该怎么办？",
-          "es": "¿Qué pasa si la visualización aumenta mi ansiedad?",
-          "fr": "Que faire si la visualisation augmente mon anxiété ?",
-          "de": "Was ist, wenn die Visualisierung meine Angst erhöht?",
-          "pt": "O que fazer se a visualização aumentar minha ansiedade?",
-          "id": "Bagaimana jika visualisasi meningkatkan kecemasan saya?"
+          "ko": "시뮬레이션을 하다가 오히려 불안감이 가중되는데 이럴 땐 어떡하죠?"
         },
         "answer": {
-          "ko": "불안감이 가중되는 것은 부정적 시나리오(실패하는 모습)에 뇌가 집중했기 때문입니다. 즉시 시각화를 멈추고 현재 숨 쉬는 소리나 손바닥의 물리적 촉감 등 감각 접지(Grounding)를 하여 불안을 환기하고 가벼운 스트레칭으로 신체를 먼저 이완해 주십시오.",
-          "en": "Anxiety rises when your mind focuses on failure scenarios. Stop the imagery, ground yourself on physical touch or breath sounds, and stretch to relax.",
-          "ja": "不安感が強くなるのは、否定的なシナリオ（失敗する姿）に脳が集中してしまったためです. すぐに視覚化を中止し、現在の呼吸音や手のひらの物理的な触感などの感覚接地（Grounding）を行い、不安をそらし、軽いストレッチで体を先にほぐしてください.",
-          "zh": "焦虑感加剧是因为大脑集中在了否定性的场景（失败的画面）上。请立即停止想象，进行关注当前呼吸声或手掌物理触觉等感觉接地，转移焦虑，并通过轻微的拉伸先放松身体。",
-          "es": "La ansiedad aumenta cuando su mente se centra en escenarios de fracaso. Detenga la imaginería, conéctese con el tacto físico o los sonidos de la respiración y estírese para relajarse.",
-          "fr": "L'anxiété augmente lorsque votre esprit se concentre sur des scénarios d'échec. Arrêtez l'imagerie, concentrez-vous sur le toucher physique ou les sons de la respiration, et étirez-vous.",
-          "de": "Angst entsteht, wenn sich Ihr Geist auf Versagensszenarien konzentriert. Stoppen Sie die Vorstellung, erden Sie sich auf körperliche Berührungen oder Atemgeräusche und dehnen Sie sich, um sich zu entspannen.",
-          "pt": "A ansiedade aumenta quando a mente se concentra em cenários de fracasso. Interrompa a imaginação, conecte-se com o toque físico ou os sons da respiração, e alongue-se para relaxar.",
-          "id": "Kecemasan meningkat ketika pikiran Anda berfokus pada skenario kegagalan. Hentikan visualisasi, fokuskan diri pada sentuhan fisik atau suara napas, dan lakukan peregangan untuk rileks."
+          "ko": "불안감이 가중되는 것은 부정적 시나리오(실패하는 모습)에 뇌가 집중했기 때문입니다. 즉시 시각화를 멈추고 현재 숨 쉬는 소리나 손바닥의 물리적 촉감 등 감각 접지(Grounding)를 하여 불안을 환기하고 가벼운 스트레칭으로 신체를 먼저 이완해 주십시오."
         }
       },
       {
         "question": {
-          "ko": "멘탈 리허설을 매번 연습할 때 적절한 훈련 시간은 얼마인가요?",
-          "en": "What is the ideal duration for a mental rehearsal session?",
-          "ja": "メンタルリハーサルを毎回練習する際、適切なトレーニング時間はどのくらいですか？",
-          "zh": "每次练习心理演练时，合适的训练时间是多久？",
-          "es": "¿Cuál es la duración ideal para una sesión de ensayo mental?",
-          "fr": "Quelle est la durée idéale pour une séance de répétition mentale ?",
-          "de": "Was ist die ideale Dauer für eine mentale Trainingseinheit?",
-          "pt": "Qual é a duração ideal para uma sessão de ensaio mental?",
-          "id": "Berapa durasi ideal untuk sesi latihan mental?"
+          "ko": "멘탈 리허설을 매번 연습할 때 적절한 훈련 시간은 얼마인가요?"
         },
         "answer": {
-          "ko": "기존의 긴 훈련을 할 필요 없이 3~5분 정도의 짧고 굵은 몰입이 가장 효과적입니다. 뇌의 고도 집중력을 발휘하는 작업 기억 자원은 한정되어 있으므로, 발표 직전이나 미팅 5분 전에 핵심 과정만 집중적으로 시뮬레이션하는 것이 뇌 활성에 가장 이상적입니다.",
-          "en": "Keep it short—3 to 5 minutes of focused immersion is ideal. Prefrontal working memory is limited, so quick simulations right before the event yield the best results.",
-          "ja": "長いトレーニングを行う必要はなく、3〜5分程度の短く密度の高い没頭が最も効果的です. 脳の高度な集中力を発揮するワーキングメモリのリソースは限られているため、発表の直前やミーティングの5分前に核心のプロセスだけを集中的にシミュレーションするのが、脳の活性化に最も理想的です.",
-          "zh": "无需长时间进行，3到5分钟的短暂而高度专注的沉浸最有效。由于负责发挥大脑高度专注力的工作记忆资源是有限 of，在演讲前或会议前5分钟集中模拟核心过程对于大脑激活是最理想的。",
-          "es": "Manténgalo corto: de 3 a 5 minutos de inmersión enfocada es ideal. La memoria de trabajo prefrontal es limitada, por lo que las simulaciones rápidas justo antes del evento producen los mejores resultados.",
-          "fr": "Restez court : 3 à 5 minutes d'immersion ciblée sont idéales. La mémoire de travail préfrontale étant limitée, des simulations rapides juste avant l'événement donnent les meilleurs résultats.",
-          "de": "Halten Sie es kurz – 3 bis 5 Minuten fokussiertes Eintauchen sind ideal. Das präfrontale Arbeitsgedächtnis ist begrenzt, daher bringen schnelle Simulationen kurz vor dem Ereignis die besten Ergebnisse.",
-          "pt": "Mantenha curto: de 3 a 5 minutos de imersão focada é o ideal. A memória de trabalho pré-frontal é limitada, de modo que simulados rápidos logo antes do evento produzem os melhores resultados.",
-          "id": "Buat tetap singkat – 3 hingga 5 menit perendaman fokus adalah hal yang ideal. Memori kerja prefrontal terbatas, jadi simulasi cepat tepat sebelum acara memberikan hasil terbaik."
+          "ko": "기존의 긴 훈련을 할 필요 없이 3~5분 정도의 짧고 굵은 몰입이 가장 효과적입니다. 뇌의 고도 집중력을 발휘하는 작업 기억 자원은 한정되어 있으므로, 발표 직전이나 미팅 5분 전에 핵심 과정만 집중적으로 시뮬레이션하는 것이 뇌 활성에 가장 이상적입니다."
         }
       }
-    ],
-    "pubDate": "2026-05-14",
-    "updatedDate": "2026-05-14"
+    ]
   }
 }

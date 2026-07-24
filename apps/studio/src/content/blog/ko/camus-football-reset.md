@@ -1,14 +1,14 @@
 ---
-formatVersion: 4
 title: "번아웃과 실존적 우울을 날리는 원초적 방법? 알베르 카뮈의 축구 리셋 습관"
 description: "프랑스의 노벨 문학상 작가이자 철학자 알베르 카뮈. 글쓰기가 꽉 막힐 때마다 그라운드로 나가 골키퍼로 몸을 던진 신체 몰입의 뇌과학과 3단계 현대인 적용 가이드를 나눕니다."
-pubDate: "2026-06-21"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
-heroImage: "/images/blog/camus_football_reset.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/camus_football_reset.png"
 app: "buildself"
-authority: "카뮈 평전 'Albert Camus' 및 신경생리학 저널 뇌 피로 회복 학술 자료"
-updatedDate: "2026-06-21"
+formatVersion: 4
+authority: "알베르 카뮈 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "업무 공간 이탈 및 기기 차단"
     text: "두뇌 회로에 번아웃 경고등이 켜지면 즉시 의자에서 일어나 스마트폰이나 모니터에서 멀어집니다. 신체 활동을 위한 운동복으로 갈아입습니다."
@@ -21,6 +21,7 @@ faqs:
     answer: "있습니다. 벽에 스쿼시나 테니스 공을 대고 튀겨진 공을 반사적으로 잡아내는 벽치기 훈련, 또는 복싱 샌드백을 치거나 권투 동작을 연습하는 등의 순발력 트레이닝만으로도 소뇌를 자극하여 전두엽을 성공적으로 오프라인 상태로 만들 수 있습니다."
   - question: "피로도가 높은 날에 30분 운동을 하면 오히려 더 지치지 않을까요?"
     answer: "정신적인 피로(뇌 피로)와 육체적인 피로는 다릅니다. 책상에 종일 앉아 머리만 써서 피곤한 상태는 뇌의 피로 물질이 쌓인 것이므로, 몸을 살짝 움직여서 혈류를 순환시키고 전두엽을 휴식시키는 동적 휴식을 취해주어야만 오히려 몸 전체의 피로감이 해소됩니다."
+
 ---
 
 "삶이 무의미하다면, 우리는 그것에 의미를 불어넣어야 한다." 🚶‍♂️
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 카뮈 평전 'Albert Camus' 및 신경생리학 저널 뇌 피로 회복 학술 자료 및 관련 인지과학/생리학 연구 결과를 기반으로 작성되었습니다.
+      본 콘텐츠는 <strong>알베르 카뮈 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 camus-football-reset 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 전두엽의 강제 오프라인과 소뇌 인지 스위칭
+## 전두엽의 강제 오프라인과 소뇌 인지 스위칭
 
 사색, 글쓰기, 비즈니스 기획 등 복잡한 고도의 지적 작업은 뇌의 전두엽(Prefrontal Cortex) 영역을 지독하게 마마시킵니다. 전두엽 에너지가 고갈되면 우리는 결정을 내리지 못하고 우울과 만성 피로(번아웃)를 겪게 됩니다.
 
@@ -53,8 +54,9 @@ faqs:
 
 ---
 
-## 2. 실천 가이드: 현대인을 위한 3단계 루틴
+## 복잡한 점수 경쟁이나 두뇌 싸움이 들어간 게임은 피하십시오
 
+이 루틴의 목적은 뇌의 휴식입니다. 만약 동호회에 나가 극단적인 승패 경쟁을 하거나, 과도하게 전략을 짜며 스트레스를 받는 스포츠 게임에 몰입하면 뇌는 휴식을 취하지 못하고 전두엽에 2차 과부하가 걸립니다. 가볍게 공을 쫓아 뛰거나, 승패와 무관하게 신체의 반사 능력에 오롯이 몸을 던질 수 있는 편안한 야외 스포츠 활동이 추천됩니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -66,7 +68,6 @@ faqs:
   </p>
 </div>
 
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
@@ -76,7 +77,6 @@ faqs:
     야외로 나가 축구공 리프팅이나 패스, 배드민턴 셔틀콕 주고받기 등 빠르게 움직이는 대상(공)을 시각적으로 추적하며 반사적으로 몸을 던지는 동적 운동에 30분간 참여합니다.
   </p>
 </div>
-
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -88,27 +88,13 @@ faqs:
   </p>
 </div>
 
-
----
-
-## 3. 복잡한 점수 경쟁이나 두뇌 싸움이 들어간 게임은 피하십시오
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      이 루틴의 목적은 뇌의 휴식입니다. 만약 동호회에 나가 극단적인 승패 경쟁을 하거나, 과도하게 전략을 짜며 스트레스를 받는 스포츠 게임에 몰입하면 뇌는 휴식을 취하지 못하고 전두엽에 2차 과부하가 걸립니다. 가볍게 공을 쫓아 뛰거나, 승패와 무관하게 신체의 반사 능력에 오롯이 몸을 던질 수 있는 편안한 야외 스포츠 활동이 추천됩니다.
-    </p>
-  </div>
-</div>
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>혼자서 할 수 있는 대체 신체 활동이 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -116,10 +102,9 @@ faqs:
       있습니다. 벽에 스쿼시나 테니스 공을 대고 튀겨진 공을 반사적으로 잡아내는 벽치기 훈련, 또는 복싱 샌드백을 치거나 권투 동작을 연습하는 등의 순발력 트레이닝만으로도 소뇌를 자극하여 전두엽을 성공적으로 오프라인 상태로 만들 수 있습니다.
     </p>
   </details>
-  
-
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>피로도가 높은 날에 30분 운동을 하면 오히려 더 지치지 않을까요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -127,5 +112,4 @@ faqs:
       정신적인 피로(뇌 피로)와 육체적인 피로는 다릅니다. 책상에 종일 앉아 머리만 써서 피곤한 상태는 뇌의 피로 물질이 쌓인 것이므로, 몸을 살짝 움직여서 혈류를 순환시키고 전두엽을 휴식시키는 동적 휴식을 취해주어야만 오히려 몸 전체의 피로감이 해소됩니다.
     </p>
   </details>
-  
 </div>

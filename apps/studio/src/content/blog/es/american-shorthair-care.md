@@ -16,23 +16,23 @@ faqs:
     answer: "Es clave usar alimentos altos en proteína, medir las porciones y usar juguetes dispensadores para que el gato deba moverse para obtener su comida."
 ---
 
-Conocido por su patrón atigrado plateado y su cuerpo fuerte, el American Shorthair es un gato equilibrado y cariñoso. Su carácter calmado suele llevarlos a la pereza y la obesidad, lo que daña su corazón. Tienen además predisposición genética a la miocardiopatía hipertrófica (HCM). Hoy, PetSelf descifra sus señales y presenta una rutina diaria de cuidado en 3 pasos.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Evidencia Veterinaria y Comportamental
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Cat Fanciers' Association (CFA) & Centro de Salud Felina de Cornell</strong>.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 American Shorthair Perfil principal
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil media</span><span class="font-bold text-slate-800 dark:text-slate-200">15 ~ 20 años</span></div>
@@ -43,7 +43,7 @@ Conocido por su patrón atigrado plateado y su cuerpo fuerte, el American Shorth
 
 ## 1. Lenguaje corporal del American Shorthair: sobrecarga cardiaca y respiración con boca abierta
 
-Los gatos no jadean de forma natural. Si tu American Shorthair muestra una 'respiración con la boca abierta' o se 'fatiga rápido' al jugar, es aviso de un problema cardiaco. Reconocer estas señales es crucial.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Los gatos no jadean de forma natural. Si tu American Shorthair muestra una 'resp
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Control de porciones alimentarias para evitar obesidad</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Evite la alimentación libre. Divida su ración de calorías diaria en porciones pesadas para cuidar su sistema vascular.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Los gatos no jadean de forma natural. Si tu American Shorthair muestra una 'resp
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Sesión de juego interactivo de 15 minutos para quemar calorías</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Juegue con cañas de plumas o punteros láser dos veces al día por 15 minutos para mantenerlo en movimiento.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Los gatos no jadean de forma natural. Si tu American Shorthair muestra una 'resp
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Cepillado semanal contra bolas de pelo</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Aunque su pelo es corto, tiene alta densidad. Cepíllelo una o dos veces por semana para prevenir vómitos por tricobezoares.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Los gatos no jadean de forma natural. Si tu American Shorthair muestra una 'resp
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Embora o tratamento veterinário é importante, proporcionar um ambiente seguro (rampas, espaços verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Los gatos no jadean de forma natural. Si tu American Shorthair muestra una 'resp
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Es una enfermedad hereditaria en la que el músculo cardiaco se engrosa, dificultando el bombeo. Como suele ser silenciosa al inicio, se recomiendan ecocardiografías anuales.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Los gatos no jadean de forma natural. Si tu American Shorthair muestra una 'resp
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Es clave usar alimentos altos en proteína, medir las porciones y usar juguetes dispensadores para que el gato deba moverse para obtener su comida.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </details>
 </div>

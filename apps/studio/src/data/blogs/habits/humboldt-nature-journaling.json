@@ -1,219 +1,72 @@
 {
   "humboldt-nature-journaling": {
-    "slug": "humboldt-nature-journaling",
     "title": {
-      "ko": "지구 전체를 유기체로 본 대탐험가? 알렉산더 폰 훔볼트의 현장 관찰 기록 루틴",
-      "en": "The Explorer Who Saw Earth as a Single Organism? Alexander von Humboldt's Field Journal Routine",
-      "ja": "地球全体を一つの有機体と見た大探検家？アレクサンダー・フォン・フンボルトの観察記録ルーティン",
-      "zh": "把整个地球看作有机体的大探险家？亚历山大·冯·洪堡的野外观察笔记惯例",
-      "es": "¿El explorador que vio la Tierra como un solo organismo? La rutina de notas de campo de Alexander von Humboldt",
-      "fr": "L'explorateur qui voyait la Terre comme un organisme unique ? La routine de carnet de terrain d'Alexander von Humboldt",
-      "de": "Der Entdecker, der die Erde als einen Organismus sah? Alexander von Humboldts Feldnotizen-Routine",
-      "pt": "O explorador que via a Terra como um único organismo? A rotina de notas de campo de Alexander von Humboldt",
-      "id": "Penjelajah yang Melihat Bumi Sebagai Satu Organisme? Rutinitas Catatan Lapangan Alexander von Humboldt"
+      "ko": "지구 전체를 유기체로 본 대탐험가? 알렉산더 폰 훔볼트의 현장 관찰 기록 루틴"
     },
     "description": {
-      "ko": "근대 생태학과 지리학의 아버지 알렉산더 폰 훔볼트. 남미 쉼보라소 산을 오르는 혹독한 탐험 현장에서 기압과 식물 데이터를 즉시 노트로 기록해 '코스모스'를 완성한 그의 인지 정밀화 루틴과 3단계 실천법을 소개합니다.",
-      "en": "Alexander von Humboldt, father of modern ecology and geography. Discover his real-time field journaling routine on Mount Chimborazo and a 3-step guide for precision cognition.",
-      "ja": "近代生態学の父フンボルト。探検現場でデータを即座に記録し「コスモス」を完成させた彼の認知精密化法と3ステップ実践法を紹介します。",
-      "zh": "现代地理学之父洪堡。介绍他在探险现场即时记录数据的大脑精准化惯例及现代人三步实践指南。",
-      "es": "Alexander von Humboldt, padre de la ecología moderna. Descubra su rutina de notas de campo en tiempo real en el Chimborazo y una guía práctica de 3 pasos.",
-      "fr": "Alexander von Humboldt, père de l'écologie moderne. Découvrez sa routine de carnet de terrain en temps réel et un guide en 3 étapes.",
-      "de": "Alexander von Humboldt, Vater der modernen Ökologie. Entdecken Sie seine Feldnotiz-Routine am Chimborazo und einen 3-Schritte-Leitfaden.",
-      "pt": "Alexander von Humboldt, pai da ecologia moderna. Descubra sua rotina de anotações de campo em tempo real no Chimborazo e um guia prático de 3 passos.",
-      "id": "Alexander von Humboldt, bapak ekologi modern. Temukan rutinitas catatan lapangannya di Gunung Chimborazo dan panduan praktis 3 langkah."
+      "ko": "근대 생태학과 지리학의 아버지 알렉산더 폰 훔볼트. 남미 쉼보라소 산을 오르는 혹독한 탐험 현장에서 기압과 식물 데이터를 즉시 노트로 기록해 '코스모스'를 완성한 그의 인지 정밀화 루틴과 3단계 실천법을 소개합니다."
     },
     "authority": {
-      "ko": "Andrea Wulf 전기 'The Invention of Nature: Alexander von Humboldt's New World' 및 훔볼트 저서 'Cosmos'",
-      "en": "Andrea Wulf's Biography 'The Invention of Nature' & Humboldt's 'Cosmos'",
-      "ja": "アンドレア・ウルフ評伝「The Invention of Nature」およびフンボルト著「コスモス」",
-      "zh": "安德烈娅·伍尔夫传记《The Invention of Nature》与洪堡著作《Cosmos》",
-      "es": "Biografía de Andrea Wulf 'The Invention of Nature' y obra 'Cosmos' de Humboldt",
-      "fr": "Biographie d'Andrea Wulf 'The Invention of Nature' & ouvrage 'Cosmos' de Humboldt",
-      "de": "Andrea Wulfs Biografie 'The Invention of Nature' & Humboldts 'Cosmos'",
-      "pt": "Biografia de Andrea Wulf 'The Invention of Nature' & obra 'Cosmos' de Humboldt",
-      "id": "Biografi Andrea Wulf 'The Invention of Nature' & Karya Humboldt 'Cosmos'"
+      "ko": "Andrea Wulf, *The Invention of Nature: Alexander von Humboldt's New World* (2015)"
     },
     "intro": {
-      "ko": "남미 아마존강과 안데스산맥의 쉼보라소(Chimborazo) 화산을 오르며 근대 지리학과 생태학의 기초를 다진 독일의 위대한 대탐험가이자 과학자, 알렉산더 폰 훔볼트. 찰스 다윈조차 '내 평생에 가장 큰 영감을 준 위대한 스승'이라 극찬했던 그의 통합적 통찰력은 어디서 탄생했을까요? 🌿\n\n훔볼트는 산소 부족과 강풍이 몰아치는 험난한 고산지대를 탐험하는 순간에도, 고도계, 기압계, 온도계를 꺼내 측정한 치수와 희귀 식물 수집 결과를 그 자리에서 바로 현장 노트에 정밀 스케치와 함께 기록했습니다. 그는 관찰과 기록 사이의 시간 간격을 완전히 제거함으로써, 시간이 지남에 따라 발생할 수 있는 기억의 왜곡을 방지하고 지구 전체가 하나의 유기체로 연결되어 있다는 '자연의 코스모스(Cosmos)' 사상을 완성했습니다.\n\n오늘 BuildSelf에서는 훔볼트의 '실시간 현장 관찰 기록' 루틴의 과학적 원리와 현대 직장인 및 연구자들이 학습 인지력을 정밀하게 끌어올리는 3단계 실천 가이드를 공개합니다.",
-      "en": "Alexander von Humboldt, the great German explorer and scientist who laid the foundation for modern ecology by climbing Mount Chimborazo in the Andes. Where did his holistic insight come from? 🌿\n\nEven amidst freezing winds and altitude sickness, Humboldt immediately pulled out his field notebook to record barometer readings, temperatures, and plant drawings right on the spot. By completely eliminating the delay between observation and recording, he prevented memory distortion and synthesized the revolutionary concept that Earth is a single living organism.\n\nToday, BuildSelf reveals the science behind Humboldt's 'real-time field journaling' routine and a 3-step precision cognition guide.",
-      "ja": "この歴史的習慣の実践において： (Chimborazo) , . ' ' ? 🌿 この歴史的習慣の実践において： , , , . , ' (Cosmos)' . この歴史的習慣の実践において： BuildSelf ' ' 3 .",
-      "zh": "在这一历史性惯例的实践中： (Chimborazo) , . ' ' ? 🌿 在这一历史性惯例的实践中： , , , . , ' (Cosmos)' . 在这一历史性惯例的实践中： BuildSelf ' ' 3 .",
-      "es": "En la práctica de esta rutina transformadora:    (Chimborazo)           ,   .   '       '      ? 🌿\n\nEn la práctica de esta rutina transformadora:         , , ,                 .        ,                ' (Cosmos)'  .\n\nEn la práctica de esta rutina transformadora:  BuildSelf  '   '            3   .\n\nAl practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina : Alexander von Humboldt, the great German explorer and scientist who laid the foundation for modern ecology by climbing Mount Chimborazo in the Andes. Where did his holistic insight come from? 🌿\n\nNa prática desta rotina : Even amidst freezing winds and altitude sickness, Humboldt immediately pulled out his field notebook to record barometer readings, temperatures, and plant drawings right on the spot. By completely eliminating the delay between observation and recording, he prevented memory distortion and synthesized the revolutionary concept that Earth is a single living organism.\n\nNa prática desta rotina : Today, BuildSelf reveals the science behind Humboldt's 'real-time field journaling' routine and a 3-step precision cognition guide.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "남미 아마존강과 안데스산맥의 쉼보라소(Chimborazo) 화산을 오르며 근대 지리학과 생태학의 기초를 다진 독일의 위대한 대탐험가이자 과학자, 알렉산더 폰 훔볼트. 찰스 다윈조차 '내 평생에 가장 큰 영감을 준 위대한 스승'이라 극찬했던 그의 통합적 통찰력은 어디서 탄생했을까요? 🌿\n\n훔볼트는 산소 부족과 강풍이 몰아치는 험난한 고산지대를 탐험하는 순간에도, 고도계, 기압계, 온도계를 꺼내 측정한 치수와 희귀 식물 수집 결과를 그 자리에서 바로 현장 노트에 정밀 스케치와 함께 기록했습니다. 그는 관찰과 기록 사이의 시간 간격을 완전히 제거함으로써, 시간이 지남에 따라 발생할 수 있는 기억의 왜곡을 방지하고 지구 전체가 하나의 유기체로 연결되어 있다는 '자연의 코스모스(Cosmos)' 사상을 완성했습니다.\n\n오늘 포스트에서는 훔볼트의 '실시간 현장 관찰 기록' 루틴의 과학적 원리와 현대 직장인 및 연구자들이 학습 인지력을 정밀하게 끌어올리는 3단계 실천 가이드를 공개합니다."
     },
     "whyTitle": {
-      "ko": "실시간 감각 입력과 작업 기억의 정밀 동기화 메커니즘",
-      "en": "Precision Mechanism: Real-Time Coupling of Sensory Input and Working Memory",
-      "ja": "精密メカニズム：リアルタイム感覚入力と作業記憶の同期",
-      "zh": "精准原理：实时感官输入与工作记忆的同步",
-      "es": "Mecanismo de precisión: Sincronización en tiempo real de entrada sensorial y memoria de trabajo",
-      "fr": "Mécanisme de précision : Synchronisation en temps réel de l'entrée sensorielle et de la mémoire de travail",
-      "de": "Präzisionsmechanismus: Echtzeit-Synchronisation von Sensorik und Arbeitsgedächtnis",
-      "pt": "Mecanismo de precisão: Sincronização em tempo real de entrada sensorial e memória de trabalho",
-      "id": "Mekanisme Presisi: Sinkronisasi Real-Time Input Sensorik dan Memori Kerja"
+      "ko": "실시간 감각 입력과 작업 기억의 정밀 동기화 메커니즘"
     },
     "whyDesc": {
-      "ko": "인간의 뇌와 기억은 시간이 경과함에 따라 자신이 기존에 가지고 있던 선입견이나 편향으로 수집된 데이터를 사후 합리화하고 재구성하는 성향이 강합니다. 훔볼트의 실시간 현장 관찰 기록법은 외부에서 들어오는 <strong></strong>을 딜레이 없이 실시간 동기화합니다.\n\n관찰한 정보와 수치를 왜곡 없이 현장에서 텍스트와 스케치로 구조화하면, 뇌는 파편적 현상들 사이에 숨겨진 매개변수와 상관관계를 포착하는 <strong></strong> 능력을 최고 수준으로 유지하게 됩니다.",
-      "en": "Human memory naturally rationalizes and reshapes collected data over time based on prior biases. Humboldt's real-time field notes method synchronizes <strong></strong> without cognitive lag.\n\nStructuring observed facts on the spot through text and visual diagrams prevents memory distortion and elevates <strong></strong>, enabling the brain to detect hidden correlations among fragmented phenomena.",
-      "ja": "記憶は時間経過とともに偏見でデータに変容を加えます。フンボルトの即時記録法は、<strong></strong>をリアルタイムで同期させます。\n\n現場で事実を正確に構造化することで、潜在的なパターンを発見するメタ認知能力が最大化されます。",
-      "zh": "人类记忆倾向于随时间推移按偏见重构数据。洪堡的即时记录法将<strong></strong>实时同步。\n\n在现场无失真地整理观察到的事实，能让大脑极大化提升识别潜藏模式的元认知能力。",
-      "es": "La memoria tiende a distorsionar los datos con el tiempo. La técnica de Humboldt sincroniza la <strong></strong> en tiempo real.\n\nEstructurar los datos observados en el acto sin distorsión maximiza la metacognición para detectar patrones.",
-      "fr": "La mémoire a tendance à altérer les données avec le temps. La méthode d'Humboldt synchronise <strong></strong> en temps réel.\n\nStructurer les faits sur le champ sans distorsion maximise la métacognition.",
-      "de": "Das Gedächtnis neigt dazu, Daten mit der Zeit zu verfälschen. Humboldts Methode synchronisiert <strong></strong> in Echtzeit.\n\nDas strukturierte Festhalten von Daten vor Ort maximiert das Erkennen von Mustern.",
-      "pt": "A memória tende a distorcer dados com o tempo. A técnica de Humboldt sincroniza <strong></strong> em tempo real.\n\nEstruturar dados observados no local sem distorção maximiza a metacognição.",
-      "id": "Memori manusia cenderung mengubah data seiring waktu. Metode Humboldt menyinkronkan <strong></strong> secara real-time.\n\nMengarahkan fakta yang diamati di tempat tanpa distorsi memaksimalkan metakognisi untuk menemukan pola."
+      "ko": "인간의 뇌와 기억은 시간이 경과함에 따라 자신이 기존에 가지고 있던 선입견이나 편향으로 수집된 데이터를 사후 합리화하고 재구성하는 성향이 강합니다. 훔볼트의 실시간 현장 관찰 기록법은 외부에서 들어오는 <strong></strong>을 딜레이 없이 실시간 동기화합니다.\n\n관찰한 정보와 수치를 왜곡 없이 현장에서 텍스트와 스케치로 구조화하면, 뇌는 파편적 현상들 사이에 숨겨진 매개변수와 상관관계를 포착하는 <strong></strong> 능력을 최고 수준으로 유지하게 됩니다."
+    },
+    "cautionTitle": {
+      "ko": "사후 정리 연기에 따른 뇌의 사후 합리화와 정보 오염 주의"
+    },
+    "cautionDesc": {
+      "ko": "'나중에 사무실에 돌아가서 한꺼번에 적어야지' 하고 관찰 기록을 미루면, 뇌는 불과 몇 시간 만에 핵심 세부 수치를 왜곡하거나 편향된 착각으로 가공해버립니다. 훔볼트의 법칙처럼 관찰과 기록 사이의 타임갭을 5분 이내로 줄이는 습관이야말로 가장 정확한 인지 지도를 만드는 비결입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "관찰 및 수집 공간에서의 도구 즉시 배치",
-          "en": "Instant Deployment of Recording Tools on Site",
-          "ja": "観察場所での記録ツールの即座配置",
-          "zh": "在观察场所即刻放置记录工具",
-          "es": "Despliegue inmediato de herramientas en el sitio",
-          "fr": "Déploiement immédiat des outils sur le terrain",
-          "de": "Sofortiges Bereitstellen von Werkzeugen vor Ort",
-          "pt": "Disponibilização imediata de ferramentas no local",
-          "id": "Penyiapan Alat Pencatat di Lokasi Seketika"
+          "ko": "관찰 및 수집 공간에서의 도구 즉시 배치"
         },
         "text": {
-          "ko": "새로운 프로젝트 현장, 미팅 공간, 혹은 연구실에 들어서자마자 기록 노트를 펼치거나 필기도구를 손 닿는 위치에 준비하여 기록 진입 장벽을 완전히 허뭅니다.",
-          "en": "Unfold your notebook or open your digital note tool immediately upon entering a new project meeting or research site to remove entry friction.",
-          "ja": "新しい場所や会議に到着したら、すぐに記録ツールを手に取れる場所に置きます。",
-          "zh": "到达新现场或会议地点时，立即将记录工具放在手边，消除记录阻力。",
-          "es": "Abra su cuaderno inmediatamente al llegar a una reunión o sitio de trabajo para eliminar cualquier fricción.",
-          "fr": "Ouvrez votre carnet dès votre arrivée en réunion ou sur le terrain pour éliminer tout obstacle.",
-          "de": "Öffnen Sie Ihr Buch sofort bei der Ankunft am Besprechungsort zur Vermeidung von Hürden.",
-          "pt": "Abra seu bloco de notas imediatamente ao chegar a um local para eliminar barreiras.",
-          "id": "Buka buku catatan Anda seketika saat tiba di lokasi untuk menghilangkan hambatan pencatatan."
+          "ko": "새로운 프로젝트 현장, 미팅 공간, 혹은 연구실에 들어서자마자 기록 노트를 펼치거나 필기도구를 손 닿는 위치에 준비하여 기록 진입 장벽을 완전히 허뭅니다."
         }
       },
       {
         "name": {
-          "ko": "객관적 사실 및 핵심 데이터의 실시간 수치화",
-          "en": "Real-Time Quantification of Objective Facts and Data",
-          "ja": "客観的事実と核心データのリアルタイム数値化",
-          "zh": "客观事实与核心数据的实时量化",
-          "es": "Cuantificación en tiempo real de hechos y datos",
-          "fr": "Quantification en temps réel des faits et données",
-          "de": "Echtzeit-Quantifizierung von Fakten und Daten",
-          "pt": "Quantificação em tempo real de fatos e dados",
-          "id": "Kuantifikasi Real-Time Fakta dan Data Objektif"
+          "ko": "객관적 사실 및 핵심 데이터의 실시간 수치화"
         },
         "text": {
-          "ko": "주관적 감상이나 판단을 배제하고, 목격하거나 수집한 데이터, 핵심 수치, 명확한 키워드를 현장에서 즉시 정밀 텍스트로 적어 내립니다.",
-          "en": "Exclude subjective opinions and capture observed facts, precise metrics, and key terms on the spot without lag.",
-          "ja": "主観的感想に偏らず、収集したデータやキーワードを観察直後に記録します。",
-          "zh": "排除主观偏见，在观察后立即记录具体数据、关键数字和清晰关键词。",
-          "es": "Evite opiniones subjetivas y anote datos concretos, métricas y palabras clave tras la observación.",
-          "fr": "Évitez les jugements subjectifs et notez les données, chiffres et mots-clés immédiatement.",
-          "de": "Vermeiden Sie subjektive Meinungen und schreiben Sie Daten und Fakten sofort auf.",
-          "pt": "Evite opiniões subjetivas e anote dados concretos e métricas logo após a observação.",
-          "id": "Hindari bias subjektif dan tulis data konkret serta kata kunci segera setelah pengamatan."
+          "ko": "주관적 감상이나 판단을 배제하고, 목격하거나 수집한 데이터, 핵심 수치, 명확한 키워드를 현장에서 즉시 정밀 텍스트로 적어 내립니다."
         }
       },
       {
         "name": {
-          "ko": "키워드 간 연관 관계의 visual 화살표 도해",
-          "en": "Visual Arrow Diagramming of Inter-Keyword Relations",
-          "ja": "キーワード間の関連性の矢印図解",
-          "zh": "用箭头图解绘制关键词之间的关联关系",
-          "es": "Diagramación visual con flechas de relaciones entre datos",
-          "fr": "Schématisation visuelle par flèches des liaisons",
-          "de": "Visualisierung von Beziehungen durch Pfeile",
-          "pt": "Diagramação visual de conexões entre dados",
-          "id": "Diagram Visual Panah untuk Hubungan Antar Kata Kunci"
+          "ko": "키워드 간 연관 관계의 visual 화살표 도해"
         },
         "text": {
-          "ko": "기록된 단어와 데이터들 사이에 화살표, 기호, 혹은 관계선을 그려 넣어, 단편적 정보들이 어떻게 서로 상호작용하는지 유기적 구조로 매핑합니다.",
-          "en": "Draw arrows and connecting lines between recorded data fragments to visually map how individual items dynamically interact.",
-          "ja": "記録した単語の間に矢印や記号を書き加え、関連性を視覚化します。",
-          "zh": "在记录的关键词之间画上箭头或符号，可视化不同数据之间的有机关联。",
-          "es": "Trace flechas y líneas entre los datos anotados para mapear visualmente sus interconexiones.",
-          "fr": "Tracez des flèches et des lignes entre les données pour cartographier leurs liaisons.",
-          "de": "Zeichnen Sie Pfeile und Linien zwischen Notizen, um Wechselwirkungen zu kartieren.",
-          "pt": "Desenhe setas e linhas entre os dados para mapear visualmente as conexões.",
-          "id": "Gambar panah dan garis penghubung di antara catatan untuk memetakan hubungan secara visual."
+          "ko": "기록된 단어와 데이터들 사이에 화살표, 기호, 혹은 관계선을 그려 넣어, 단편적 정보들이 어떻게 서로 상호작용하는지 유기적 구조로 매핑합니다."
         }
       }
     ],
-    "cautionTitle": {
-      "ko": "사후 정리 연기에 따른 뇌의 사후 합리화와 정보 오염 주의",
-      "en": "Caution Against Post-Hoc Rationalization and Memory Contamination from Delayed Recording",
-      "ja": "記録延期による記憶の後付け修正と情報汚染に対する注意",
-      "zh": "切忌因延迟记录导致事后合理化与信息失真",
-      "es": "Precaución con la racionalización a posteriori al retrasar las notas",
-      "fr": "Attention aux rationalisations a posteriori en différant la prise de note",
-      "de": "Vorsicht vor nachträglicher Verfälschung durch aufgeschobene Notizen",
-      "pt": "Cuidado com a racionalização posterior ao adiar anotações",
-      "id": "Waspada Rasionalisasi dan Kontaminasi Memori Akibat Menunda Catatan"
-    },
-    "cautionDesc": {
-      "ko": "'나중에 사무실에 돌아가서 한꺼번에 적어야지' 하고 관찰 기록을 미루면, 뇌는 불과 몇 시간 만에 핵심 세부 수치를 왜곡하거나 편향된 착각으로 가공해버립니다. 훔볼트의 법칙처럼 관찰과 기록 사이의 타임갭을 5분 이내로 줄이는 습관이야말로 가장 정확한 인지 지도를 만드는 비결입니다.",
-      "en": "Delaying field recording under the assumption of 'I'll summarize later back at the office' causes the brain to replace sharp metrics with biased rationalizations within hours. Keeping the gap under 5 minutes is the key to creating precise cognitive maps.",
-      "ja": "「後でまとめて書こう」と延期すると、脳は数時間以内に詳細な情報を後付けの錯覚に置き換えます。観察と記録の差を5分以内に抑えましょう。",
-      "zh": "若拖延记录想着“过后再总结”，大脑会在几小时内用事后合理化替代细节。请将观察与记录的时间差缩短在5分钟内。",
-      "es": "Posponer la nota pensando 'luego resumo' hace que el cerebro reemplace los detalles reales. Mantenga el margen en menos de 5 minutos.",
-      "fr": "Différer la note en se disant 'je résumerai plus tard' altère les détails. Gardez un écart de moins de 5 minutes.",
-      "de": "Gestalten Sie Ihren Arbeitsbereich frei von Ablenkungen und passen Sie das Umgebungslicht an, um maximale Konzentration zu erreichen.",
-      "pt": "Adiar anotações pensando 'depois eu resumo' faz o cérebro alterar detalhes. Mantenha o intervalo em menos de 5 minutos.",
-      "id": "Menunda catatan dengan berpikir 'nanti saja diwakili' membuat otak mengganti detail asli. Jaga jeda di bawah 5 menit."
-    },
     "faqs": [
       {
         "question": {
-          "ko": "현장에서 글씨를 급하게 적느라 악필이 되어도 효과가 있나요?",
-          "en": "Does it still work effectively if my handwriting is messy on site?",
-          "ja": "現場で汚い字で素早く書いても効果はありますか？",
-          "zh": "在现场字迹潦草地快速记录也有效果吗？",
-          "es": "¿Tiene efecto si escribo rápido y desordenado en el lugar?",
-          "fr": "Est-ce efficace même si j'écris de manière désordonnée ?",
-          "de": "Ist es auch wirksam, wenn ich unleserlich schnell schreibe?",
-          "pt": "Funciona mesmo se eu escrever rápido e de forma desordenada?",
-          "id": "Apakah tetap efektif meskipun tulisan tangan cepat dan berantakan?"
+          "ko": "현장에서 글씨를 급하게 적느라 악필이 되어도 효과가 있나요?"
         },
         "answer": {
-          "ko": "네, 완벽하게 효과가 있습니다! 본 루틴의 핵심은 정갈한 서체가 아니라 '감각 입력과 작업 기억의 즉각적 텍스트 연결'에 있습니다. 깔끔한 재정리는 오후 정리 단계에서 수행하셔도 충분합니다.",
-          "en": "Yes, 100%! The core of this routine is the instant connection between sensory input and working memory, not pretty handwriting. Clean organization can be done during afternoon review.",
-          "ja": "はい。「感覚入力とテキストの即時接続」が重要です。整頓は後で行えば十分です。",
-          "zh": "是的。重要的在于感官输入与文字的即时结合，而非字迹美观。整理可在之后进行。",
-          "es": "Sí. Lo vital es la conexión instantánea entre la entrada sensorial y el texto. El orden se da después.",
-          "fr": "Oui. L'important est la connexion immédiate entre sensation et texte. La mise au propre se fait plus tard.",
-          "de": "Ja. Wichtig ist die sofortige Verbindung von Eindruck und Text. Das Ordnen erfolgt später.",
-          "pt": "Sim. O importante é a conexão instantânea entre o estímulo e o texto. O alinhamento vem depois.",
-          "id": "Ya. Yang penting adalah hubungan seketika antara persepsi sensorik dan teks."
+          "ko": "네, 완벽하게 효과가 있습니다! 본 루틴의 핵심은 정갈한 서체가 아니라 '감각 입력과 작업 기억의 즉각적 텍스트 연결'에 있습니다. 깔끔한 재정리는 오후 정리 단계에서 수행하셔도 충분합니다."
         }
       },
       {
         "question": {
-          "ko": "손으로 직접 쓰는 대신 디지털 녹음이나 음성 메모를 써도 되나요?",
-          "en": "Can I use digital voice memos instead of writing by hand?",
-          "ja": "手書きの代わりに音声録音機能を使ってもいいですか？",
-          "zh": "可以用语音录音替代手写记录吗？",
-          "es": "¿Puedo usar grabación de voz en vez de escribir a mano?",
-          "fr": "Puis-je utiliser des mémo vocaux au lieu d'écrire ?",
-          "de": "Kann ich Sprachnotizen anstelle von Handschrift nutzen?",
-          "pt": "Posso usar gravação de voz em vez de escrever à mão?",
-          "id": "Bolehkah menggunakan perekam suara dibanding menulis tangan?"
+          "ko": "손으로 직접 쓰는 대신 디지털 녹음이나 음성 메모를 써도 되나요?"
         },
         "answer": {
-          "ko": "음성 녹음도 훌륭한 사실 기록 도구이지만, 손으로 키워드를 적거나 관계 화살표를 그릴 때 활성화되는 뇌의 시운동(Graphomotor) 신경 자극 효과를 동시에 누리기 위해 간략한 키워드 메모를 병행하는 것을 권장합니다.",
-          "en": "Voice recording is great for raw data, but combining it with quick handwritten keywords or arrow diagrams triggers graphomotor neural circuits for superior cognitive mapping.",
-          "ja": "音声録音も良いですが、簡単な図解やスケッチの併用をお勧めします。",
-          "zh": "语音录音也很好，但结合简短的手绘图解能进一步激活手脑联动机制。",
-          "es": "La voz es útil, pero combinarla con bocetos rápidos activa mejor el procesamiento psicomotor del cerebro.",
-          "fr": "L'enregistreur est utile, mais le combiner avec des croquis stimule mieux le cerveau.",
-          "de": "Sprachnotizen sind gut, aber kleine Skizzen aktivieren das Gehirn durch Bewegung noch besser.",
-          "pt": "Gravador de voz é ótimo, mas combinar com pequenos esboços ativa melhor o cérebro.",
-          "id": "Perekam suara bagus, namun mengombinasikannya dengan sketsa singkat lebih baik untuk stimulasi otak."
+          "ko": "음성 녹음도 훌륭한 사실 기록 도구이지만, 손으로 키워드를 적거나 관계 화살표를 그릴 때 활성화되는 뇌의 시운동(Graphomotor) 신경 자극 효과를 동시에 누리기 위해 간략한 키워드 메모를 병행하는 것을 권장합니다."
         }
       }
-    ],
-    "pubDate": "2026-02-04",
-    "updatedDate": "2026-02-04"
+    ]
   }
 }

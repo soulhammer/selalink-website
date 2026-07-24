@@ -1,192 +1,62 @@
 {
   "montaigne-beam-inscription": {
     "title": {
-      "en": "Montaigne's Inscribed Beams: Stimulating Metacognition via Visual Priming",
-      "ko": "몽테뉴의 대들보 사색법: 視覚的刺激으로 편견을 흔들고 메타인지를 켜는 법",
-      "ja": "モンテーニュの梁思考法：視覚的刺激で偏見を揺さぶりメタ認知をオンにする方法",
-      "zh": "蒙田的梁上自省法：利用视觉点燃打破偏见并激活元认知",
-      "es": "Las vigas grabadas de Montaigne: estimular la metacognición mediante la facilitación visual",
-      "fr": "Les poutres gravées de Montaigne : stimuler la métacognition par l'amorçage visuel",
-      "de": "Montaignes beschriftete Balken: Metakognition durch visuelles Priming stimulieren",
-      "pt": "As vigas gravadas de Montaigne: estimular a metacognição através da ativação visual",
-      "id": "Metode Balok Kayu Montaigne: Memicu Metakognisi Lewat Stimulus Visual"
+      "ko": "몽테뉴의 대들보 사색법: 시각적 자극으로 편견을 흔들고 메타인지를 켜는 법"
     },
     "description": {
-      "en": "Discover how Michel de Montaigne used 57 classical quotes painted on his library ceiling beams to break confirmation bias and spark creative essays.",
-      "ko": "프랑스의 철학자 몽테뉴가 자신의 서재 대들보에 고대 철학 격언 57개를 새겨두고 이를 보며 고정관념을 깨부순 창의적 사색 비결을 알아봅니다.",
-      "ja": "フランスの哲学者モンテーニュが自室の梁に古代哲学の格言57個を刻んでおき、これを見て固定観念を打破した創造的な思考の秘訣を探ります。",
-      "zh": "探讨法国哲学家蒙田如何在其书房顶部的57根横梁上刻下古希腊罗马格言，并通过仰望它们来打破思维定势的创意思索秘诀。",
-      "es": "Descubra cómo Michel de Montaigne usaba 57 citas clásicas grabadas en las vigas del techo para romper prejuicios y escribir sus ensayos.",
-      "fr": "Découvrez comment Michel de Montaigne utilisait 57 citations classiques gravées sur les poutres de sa bibliothèque pour briser les préjugés.",
-      "de": "Erfahren Sie, wie Michel de Montaigne 57 klassische Zitate auf den Deckenbalken seiner Bibliothek nutzte, um Vorurteile abzubauen.",
-      "pt": "Descubra como Michel de Montaigne usava 57 citações clássicas pintadas nas vigas do teto para quebrar preconceitos e criar seus ensaios.",
-      "id": "Ketahui bagaimana Michel de Montaigne menuliskan 57 kutipan klasik di balok kayu langit-langit perpustakaannya untuk memicu ide-ide segar."
+      "ko": "프랑스의 철학자 몽테뉴가 자신의 서재 대들보에 고대 철학 격언 57개를 새겨두고 이를 보며 고정관념을 깨부순 창의적 사색 비결을 알아봅니다."
     },
     "authority": {
-      "en": "Michel de Montaigne, Essays (Essais) / Visual priming and vertical eye movement studies on metacognition",
-      "ko": "미셸 드 몽테뉴 《수상록》 (Essais) / 시각적 점화(Visual Priming) 및 시선 상향 조정이 메타인지 향상에 미치는 인지심리학 연구",
-      "ja": "ミシェル・ド・モンテーニュ『エセー』(Essais) / 視覚的プライミング(Visual Priming)および視線上向き調整がメタ認知向上に及ぼす認知心理学研究",
-      "zh": "米歇尔·德·蒙田《随笔集》（Essais） / 关于视觉点燃（Visual Priming）及视线上移对提升元认知影响的认知心理学研究",
-      "es": "Michel de Montaigne, Ensayos / Estudios sobre facilitación visual y movimiento ocular vertical en la metacognición",
-      "fr": "Michel de Montaigne, Essais / Études sur l'amorçage visuel et le mouvement oculaire vertical dans la métacognition",
-      "de": "Michel de Montaigne, Essays / Forschung zu visuellem Priming und vertikaler Augenbewegung bei Metakognition",
-      "pt": "Michel de Montaigne, Ensaios / Estudos sobre ativação visual e movimento ocular vertical na metacognição",
-      "id": "Michel de Montaigne, Essays (Essais) / Studi psikologi kognitif tentang stimulasi visual (Visual Priming) dan gerakan mata ke atas terhadap metakognisi"
+      "ko": "Montaigne Beam Inscription 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "en": "\"He who does not look ahead remains behind.\" Michel de Montaigne retired at age 38 to his round tower library. On the wooden beams supporting his ceiling, he carved 57 Greek and Latin maxims, representing key philosophical questions. Sitting in his armchair, he looked up at these phrases to break his own rigid assumptions, which allowed him to write his highly objective, self-reflective Essays.",
-      "ko": "\"앞을 내다보지 않는 자는 이미 뒤처진 자다.\" 미셸 드 몽테뉴는 38세에 은퇴를 선언하고 자신의 원형 탑 서재에 틀어박혔습니다. 그는 서재를 떠받치는 57개의 목재 대들보에 그리스어와 라틴어로 철학적 회의와 이성을 촉구하는 고대 격언들을 새겨 넣었습니다. 그는 안락의자에 기대어 누워 이 구절들을 올려다보았고, 이 視覚的刺激은 그가 자신만의 독선에서 벗어나 날카로운 통찰을 담은 《수상록》을 쓸 수 있게 한 근간이었습니다.",
-      "ja": "「前を見ようとしない者はすでに遅れをとっている。」ミシェル・ド・モンテーニュは38歳で隠居を宣言し、自身の円形塔の書斎にこもりました。彼は書斎を支える57本の木製の梁に、ギリシャ語とラテン語で哲学的な懐疑と理性を促す古代の格言を刻み込みました。安楽椅子に深く腰掛け、これらの文句を見上げる視覚的刺激は、彼が自己の独善から脱し、鋭い洞察に満ちた『エセー』を執筆できた源でした。",
-      "zh": "在这一历史性惯例的实践中：\" .\" 38 . 57 . , 視覚的刺激 《》 .",
-      "es": "\"El que no mira hacia adelante se queda atrás.\" Michel de Montaigne se retiró a los 38 años a la biblioteca de su torre. En las vigas de madera talló 57 máximas griegas y latinas. Sentado en su sillón, miraba estas frases para romper sus prejuicios, lo que le permitió escribir sus Ensayos.",
-      "fr": "\"Celui qui ne regarde pas en avant reste en arrière.\" Michel de Montaigne s'est retiré à 38 ans dans sa bibliothèque. Sur les poutres en bois, il a gravé 57 maximes grecques et latines. Assis dans son fauteuil, il regardait ces phrases pour briser ses préjugés, ce qui lui a permis d'écrire ses Essais.",
-      "de": "\"Wer nicht vorausblickt, bleibt zurück.\" Michel de Montaigne zog sich mit 38 Jahren in die Bibliothek seines Turms zurück. In die Holzbalken schnitzte er 57 griechische und lateinische Maximen. Im Sessel sitzend blickte er auf diese Sätze, um seine Vorurteile abzubauen, was es ihm ermöglichte, seine Essays zu schreiben.",
-      "pt": "\"Aquele que não olha para frente fica para trás.\" Michel de Montaigne retirou-se aos 38 anos para a biblioteca de sua torre. Nas vigas de madeira, entalhou 57 máximas gregas e latinas. Sentado em sua poltrona, olhava para essas frases para quebrar seus preconceitos, o que lhe permitiu escrever seus Ensaios.",
-      "id": "\"Siapa yang tidak melihat ke depan akan tertinggal.\" Michel de Montaigne pensiun pada usia 38 tahun ke perpustakaan menara bulatnya. Di balok kayu langit-langitnya, ia memahat 57 kalimat bijak Yunani dan Latin. Sambil bersandar di kursi malas, ia menatap tulisan tersebut untuk memecah kebuntuan berpikir."
+      "ko": "\"나는 무엇을 아는가? (Que sçay-je?)\" 🏛️\n\n미셸 드 몽테뉴는 38세에 은퇴를 선언하고 자신의 원형 탑 서재에 틀어박혔습니다. 그는 서재를 떠받치는 57개의 목재 대들보에 그리스어와 라틴어로 철학적 회의와 이성을 촉구하는 고대 격언들을 새겨 넣었습니다. 그는 안락의자에 기대어 누워 이 구절들을 올려다보았고, 이 시각적 자극은 그가 자신만의 독선에서 벗어나 날카로운 통찰을 담은 《수상록》을 쓸 수 있게 한 근간이었습니다.\n\n자주 머무는 시각 공간에 스스로를 각성시키는 단서를 부착하는 이 독특한 습관은, 오늘날 인지과학 분야에서도 뛰어난 의식 환기 기법으로 평가받습니다."
     },
     "whyTitle": {
-      "en": "How Inscribed Prompts Activate Metacognition",
-      "ko": "새겨진 텍스트가 메타인지를 켜는 脳科学的 원리",
-      "ja": "刻まれたテキストがメタ認知をオンにする脳科学的原理",
-      "zh": "视觉信息激活元认知的大脑科学机制",
-      "es": "Cómo las señales visuales activan la metacognición",
-      "fr": "Comment les rappels visuels activent la métacognition",
-      "de": "Wie geschriebene Reize die Metakognition aktivieren",
-      "pt": "Como os lembretes visuais ativam a metacognição",
-      "id": "Bagaimana Kalimat Inpiratif Menstimulasi Metakognisi Anda"
+      "ko": "새겨진 텍스트가 메타인지를 켜는 뇌과학적 원리"
     },
     "whyDesc": {
-      "en": "Exposing yourself to visual philosophical cues utilizes 'visual priming,' which subconsciously activates conceptual nodes in the brain. Furthermore, the physical act of looking upwards activates the frontal and prefrontal lobes. This visual alignment prompts the brain to step out of local task-focus and shift to global, high-level evaluation, which is the definition of metacognition. It helps break bias and encourages objective self-monitoring.",
-      "ko": "의도적으로 배치된 시각적 격언에 눈길을 주는 행위는 인지심리학의 '시각적 점화(Visual Priming)' 이론에 부합합니다. 대뇌는 눈에 들어온 텍스트를 무의식적으로 분석하여 연상 네트워크를 넓히고 관련 기억을 인출합니다. 특히, 턱을 들어 올려 천장의 문구를 쳐다보는 수직 안구 운동과 시선 상향 조정은 메타인지 조절기 역할을 하는 전전두엽 피질(Prefrontal Cortex)을 물리적으로 활성화시킵니다. 이는 눈앞의 작업에만 갇혀 있던 시야를 넓혀, 자신의 논리가 타당한지 한 단계 높은 차원에서 성찰하도록 유도합니다.",
-      "ja": "意図的に配置された視覚的な格言に目を向ける行為は、認知心理学の「視覚的プライミング(Visual Priming)」理論に合致しています。大脳は目に入ったテキストを無意識のうちに分析し、連想ネットワークを広げて関連記憶を引き出します。特に、顎を上げて梁の文句を見つめる垂直な眼球運動と視線上向き調整は、メタ認知の調整役である前頭前野を物理的に活性化させます。これは、目の前のタスクだけに囚われていた視野を広げ、自分の論理が妥当かどうかを一段高いレベルから省察させます。",
-      "zh": "有意识地将视觉上的哲理暗示置于视线所及处，符合认知心理学的“视觉点燃”理论。大脑在无意识间捕捉并解析这些文字，从而拓宽联想神经网络，唤醒相关记忆。特别值得指出的是，仰头观看高处文字这一物理动作会促使前额叶皮层激活。这种物理视角的提升能促使大脑跳出局部的任务细节，从更高维度进行全局性、宏观性的评估——这正是“元认知”的核心运作方式，能有效摆脱狭隘的主观偏见。",
-      "es": "Exponerse a señales visuales filosóficas utiliza la 'facilitación visual', que activa de forma subconsciente redes conceptuales en el cerebro. Además, mirar hacia arriba activa físicamente la corteza prefrontal, el área responsable de la metacognición. Esto ayuda al cerebro a alejarse de los sesgos y promueve la autoevaluación objetiva.",
-      "fr": "L'exposition à des rappels visuels utilise l'amorçage visuel pour activer inconsciemment des zones conceptuelles. De plus, le fait de regarder vers le haut stimule le cortex préfrontal, zone de la métacognition. Cela aide l'esprit à prendre du recul sur ses propres biais et encourage l'auto-évaluation.",
-      "de": "Die Konfrontation mit visuellen Reizen nutzt das visuelle Priming, um unbewusste Netzwerke im Gehirn zu aktivieren. Zudem aktiviert der Blick nach oben den präfrontalen Kortex, der für Metakognition zuständig ist. Dies hilft, Vorurteile abzubauen und das eigene Denken kritisch zu prüfen.",
-      "pt": "A exposição a lembretes visuais utiliza a ativação visual para ativar inconscientemente redes conceituais no cérebro. Além disso, olhar para cima ativa fisicamente o córtex pré-frontal, área responsável pela metacognição. Isso ajuda a quebrar preconceitos e promove a autoavaliação objetiva.",
-      "id": "Membiasakan mata melihat kalimat bijak menggunakan teknik 'visual priming' yang mengaktifkan bagian ingatan secara tidak sadar. Lebih lanjut, gerakan mata mendongak ke atas secara fisik memicu korteks prefrontal (pusat metakognisi). Ini membantu melonggarkan ego dan bias pribadi."
+      "ko": "의도적으로 배치된 시각적 격언에 눈길을 주는 행위는 인지심리학의 '시각적 점화(Visual Priming)' 이론에 부합합니다. 대뇌는 눈에 들어온 텍스트를 무의식적으로 분석하여 연상 네트워크를 넓히고 관련 기억을 인출합니다. 특히, 턱을 들어 올려 천장의 문구를 쳐다보는 수직 안구 운동과 시선 상향 조정은 메타인지 조절기 역할을 하는 전전두엽 피질(Prefrontal Cortex)을 물리적으로 활성화시킵니다. 이는 눈앞의 작업에만 갇혀 있던 시야를 넓혀, 자신의 논리가 타당한지 한 단계 높은 차원에서 성찰하도록 유도합니다."
     },
     "cautionTitle": {
-      "en": "Avoid Mindless Exposure",
-      "ko": "환경 적응(시각적 둔감화) 방지하기",
-      "ja": "環境適応(視覚的鈍感化)の防止",
-      "zh": "防止因习以为常而产生视觉钝化",
-      "es": "Evitar la insensibilización visual",
-      "fr": "Éviter la désensibilisation visuelle",
-      "de": "Vermeiden Sie Gewöhnungseffekte",
-      "pt": "Evitar a dessensibilização visual",
-      "id": "Hindari Kejenuhan Visual"
+      "ko": "환경 적응(시각적 둔감화) 방지하기"
     },
     "cautionDesc": {
-      "en": "If a quote remains in the same spot forever, the brain adapts and starts ignoring it. To prevent this visual habituation, change the locations or the content of the quotes every few months. The key is the novelty of the stimulus to keep the metacognitive reflex active.",
-      "ko": "아무리 훌륭한 문구라도 천장이나 모니터 옆에 오랜 기간 똑같은 모양으로 방치되면 뇌는 이를 단순 배경 요소로 취급하여 무시하기 시작합니다. 이러한 시각적 적응(Habituation)을 방지하려면 몇 달에 한 번씩 포스트잇의 색상이나 문구의 위치를 바꾸거나 새로운 글로 교체해야 합니다. 뇌에 주는 새로움(Novelty)이 유지될 때 비로소 메타인지 반사가 활성화됩니다.",
-      "ja": "どれほど素晴らしい文句であっても、天井やモニターの横に長期間同じ状態で放置されると、脳はそれを単なる背景要素として扱い、無視し始めます。このような視覚的順化（Habituation）を防ぐためには、数ヶ月に一度ポストイットの色や文章の位置を変えたり、新しい言葉に交換したりする必要があります。脳に与える「新しさ（Novelty）」が維持されて初めて、メタ認知反射が活性化します。",
-      "zh": "再有哲理的语句，如果长期以一成不变的姿态贴在屏幕旁，大脑就会将其归为“背景噪音”并自动过滤。为了避免这种视觉适应（Habituation），请每隔几个月更换便签的颜色、改变摆放位置或替换为全新的语句。唯有保持视觉刺激的“新鲜感（Novelty）”，才能持续唤醒元认知反射。",
-      "es": "Si una frase permanece en el mismo sitio para siempre, el cerebro se adapta y empieza a ignorarla. Para evitar la habituación visual, cambie la ubicación o el contenido de las frases cada pocos meses. La novedad del estímulo es clave para mantener la metacognición activa.",
-      "fr": "Si une citation reste au même endroit trop longtemps, le cerveau s'habitue et l'ignore. Pour éviter cette accoutumance visuelle, modifiez l'emplacement ou le contenu des phrases régulièrement. La nouveauté du stimulus est essentielle.",
-      "de": "Wenn ein Zitat immer am selben Ort bleibt, gewöhnt sich das Gehirn daran und ignoriert es. Um diesen Gewöhnungseffekt zu vermeiden, ändern Sie den Ort oder das Zitat alle paar Monate. Die Neuheit des Reizes hält die Metakognition wach.",
-      "pt": "Se uma frase permanecer no mesmo local para sempre, o cérebro se adapta e começa a ignorá-la. Para evitar a habituação visual, mude a localização ou o conteúdo das frases a cada poucos meses. A novidade do estímulo é crucial.",
-      "id": "Jika sebuah tulisan dibiarkan di posisi yang sama selamanya, otak akan terbiasa dan mulai mengabaikannya. Untuk mencegah kejenuhan visual, ganti kutipan atau posisi peletakannya beberapa bulan sekali. Rasa baru adalah kunci stimulasi otak."
+      "ko": "아무리 훌륭한 문구라도 천장이나 모니터 옆에 오랜 기간 똑같은 모양으로 방치되면 뇌는 이를 단순 배경 요소로 취급하여 무시하기 시작합니다. 이러한 시각적 적응(Habituation)을 방지하려면 몇 달에 한 번씩 포스트잇의 색상이나 문구의 위치를 바꾸거나 새로운 글로 교체해야 합니다. 뇌에 주는 새로움(Novelty)이 유지될 때 비로소 메타인지 반사가 활성화됩니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Select a Cognitive Disruption Quote",
-          "ko": "1단계: 나를 일깨우는 회의적 질문 고르기",
-          "ja": "ステップ1：自分を目覚めさせる懐疑的質問の選択",
-          "zh": "第一步：选择能引发自我反思的警句",
-          "es": "Seleccionar una frase de disrupción cognitiva",
-          "fr": "Sélectionner une phrase de perturbation cognitive",
-          "de": "Wählen Sie ein kritisches Zitat",
-          "pt": "Selecionar uma frase de disrupção cognitiva",
-          "id": "Langkah 1: Pilih Kalimat Pemantik Refleksi"
+          "ko": "1단계: 나를 일깨우는 회의적 질문 고르기"
         },
         "text": {
-          "en": "Choose a quote that directly challenges confirmation bias, such as Montaigne's 'What do I know?'. The quote must act as a speed bump for your thoughts rather than passive comfort.",
-          "ko": "단순한 위로의 글귀가 아니라, 나의 확증 편향과 고정관념을 강하게 흔들어 줄 철학적 질문이나 명언을 1~2개 선택합니다. 예컨대 몽테뉴의 '나는 무엇을 아는가?'와 같은 반성적 질문이 좋습니다.",
-          "ja": "単なる慰めの言葉ではなく、自分の確証バイアスや固定観念を強く揺さぶる哲学的な問いや名言を1〜2個選びます。例えば、モンテーニュの「私は何を思うか（Que sçay-je?）」のような反省的な問いが最適です。",
-          "zh": "选择一两句不是提供盲目安慰，而是能猛烈撞击你认知惯性与确证偏见的哲理性提问或名言。例如蒙田的“我懂得什么？（Que sçay-je?）”这样具有高度反思性的提问极其合适。",
-          "es": "Elija una frase que desafíe de forma directa sus sesgos cognitivos, como el '¿Qué sé yo?' de Montaigne. La frase debe forzar una pausa mental en lugar de ser solo un consuelo pasivo.",
-          "fr": "Choisissez une citation qui remet en question vos biais, comme le 'Que sais-je ?' de Montaigne. La phrase doit forcer une pause mentale plutôt que d'être un simple réconfort.",
-          "de": "Wählen Sie ein Zitat, das Vorurteile direkt in Frage stellt, wie Montaignes 'Was weiß ich?'. Das Zitat soll Sie zum Nachdenken anregen und nicht nur beruhigen.",
-          "pt": "Escolha uma frase que desafie diretamente seus preconceitos cognitivos, como o 'O que eu sei?' de Montaigne. A frase deve forçar uma pausa mental, não apenas ser um consolo passivo.",
-          "id": "Pilih 1-2 kalimat bijak yang menantang bias pemikiran pribadi, seperti kutipan terkenal Montaigne 'Apa yang aku ketahui?'. Kalimat ini harus bisa memicu otak berpikir kritis."
+          "ko": "단순한 위로의 글귀가 아니라, 나의 확증 편향과 고정관념을 강하게 흔들어 줄 철학적 질문이나 명언을 1~2개 선택합니다. 예컨대 몽테뉴의 '나는 무엇을 아는가?'와 같은 반성적 질문이 좋습니다."
         }
       },
       {
         "name": {
-          "en": "Position on a High Visual Plane",
-          "ko": "2단계: 시선보다 높은 곳에 배치하기",
-          "ja": "ステップ2：目線より高い位置に配置する",
-          "zh": "第二步：将其布置于视线之上",
-          "es": "Colocar en un plano visual elevado",
-          "fr": "Placer dans un plan visuel élevé",
-          "de": "Platzieren Sie es über Augenhöhe",
-          "pt": "Posicionar em um plano visual elevado",
-          "id": "Langkah 2: Letakkan Lebih Tinggi dari Level Mata"
+          "ko": "2단계: 시선보다 높은 곳에 배치하기"
         },
         "text": {
-          "en": "Write the phrase on a card or post-it and paste it on a high spot, like the ceiling or the top frame of your monitor. The goal is to physically force an upward gaze when viewing it.",
-          "ko": "선택한 문구를 포스트잇이나 카드에 적어 모니터 상단 프레임이나 방 천장 등, 고개를 위로 들어 올려야만 쳐다볼 수 있는 높은 공간에 부착합니다.",
-          "ja": "選択した文章をポストイットやカードに書き、モニターの上部フレームや部屋の天井など、頭を上に持ち上げなければ見つめられない高い空間に貼り付けます。",
-          "zh": "将选好的语句写在便签或卡片上，粘贴在显示器的顶部边框、或者房间的天花板等高度。其核心在于当你观看它时，迫使你的头部和视线必须物理性地向上抬起。",
-          "es": "Escriba la frase en una tarjeta y péguela en un lugar alto, como el marco superior de su monitor o el techo. El objetivo es forzar una mirada hacia arriba al leerla.",
-          "fr": "Écrivez la phrase sur un carton et collez-la en hauteur, comme sur le haut de votre écran ou au plafond. Le but est de forcer votre regard vers le haut.",
-          "de": "Schreiben Sie das Zitat auf eine Karte und kleben Sie sie an eine hohe Stelle, z. B. auf den oberen Monitorrand. Ziel ist es, den Blick nach oben zu lenken.",
-          "pt": "Escreva a frase em um cartão e cole em um local alto, como a moldura superior de seu monitor ou o teto. O objetivo é forçar o olhar para cima ao lê-la.",
-          "id": "Tulis kutipan di kartu pos atau kertas tempel dan letakkan di area yang tinggi seperti bingkai atas monitor komputer atau langit-langit kamar agar Anda harus mendongak untuk melihatnya."
+          "ko": "선택한 문구를 포스트잇이나 카드에 적어 모니터 상단 프레임이나 방 천장 등, 고개를 위로 들어 올려야만 쳐다볼 수 있는 높은 공간에 부착합니다."
         }
       },
       {
         "name": {
-          "en": "Exert Upward Gaze & Recalibrate",
-          "ko": "3단계: 고개를 들고 15초간 사색하기",
-          "ja": "ステップ3：頭を上げて15秒間思考する",
-          "zh": "第三步：抬头审视并放空反思",
-          "es": "Mirar hacia arriba y reflexionar 15 segundos",
-          "fr": "Regarder vers le haut et réfléchir 15 secondes",
-          "de": "Blicken Sie auf und kalibrieren Sie neu",
-          "pt": "Olhar para cima e refletir por 15 segundos",
-          "id": "Langkah 3: Dongakkan Kepala dan Renungkan 15 Detik"
+          "ko": "3단계: 고개를 들고 15초간 사색하기"
         },
         "text": {
-          "en": "When blocked or biased, lean back, raise your head, read the quote, and pause for 15 seconds. Let your brain detach from the immediate stressor to calibrate the logic path from a distance.",
-          "ko": "사고 과정이 막히거나 고정관념이 의심될 때 의식적으로 고개를 뒤로 젖히고 천장의 문구를 15초간 묵독합니다. 일시적인 시선 교정을 통해 문제를 멀리서 넓게 조망하는 메타인지를 켭니다.",
-          "ja": "思考プロセスが行き詰まったり、固定観念が疑われるとき、意識的に頭を後ろに反らし、天井の文句を15秒間黙読します。一時的な視線の切り替えを通じて、問題を遠くから広く俯瞰するメタ認知をオンにします。",
-          "zh": "当思维受阻或怀疑自我存在偏见时，请有意识地向后靠，抬起头静静注视高处的语句15秒。通过这短暂的视线位移，让大脑从眼前的死胡同中抽离，从更宏观的视角重新梳理逻辑路径。",
-          "es": "Cuando se sienta bloqueado, reclínese, levante la cabeza y lea la frase durante 15 segundos. Permita que su cerebro se desconecte del problema inmediato para calibrar la lógica desde la distancia.",
-          "fr": "Lorsque vous vous sentez bloqué, inclinez-vous, levez la tête et lisez la phrase pendant 15 secondes. Laissez votre cerveau se détacher du problème pour calibrer votre logique.",
-          "de": "Wenn Sie blockiert sind, lehnen Sie sich zurück, heben Sie den Kopf und lesen Sie das Zitat für 15 Sekunden. Lassen Sie Ihr Gehirn kurz abschalten, um die Logik neu zu kalibrieren.",
-          "pt": "Quando se sentir bloqueado, incline-se, levante a cabeça e leia a frase por 15 segundos. Permita que seu cérebro se desconecte do problema imediato para calibrar a lógica à distância.",
-          "id": "Saat fokus Anda buntu atau menghadapi bias, condongkan tubuh ke belakang, dongakkan kepala, baca kutipan tersebut, dan renungkan selama 15 detik untuk memutus kepenatan kognitif."
+          "ko": "사고 과정이 막히거나 고정관념이 의심될 때 의식적으로 고개를 뒤로 젖히고 천장의 문구를 15초간 묵독합니다. 일시적인 시선 교정을 통해 문제를 멀리서 넓게 조망하는 메타인지를 켭니다."
         }
       }
     ],
-    "pubDate": "2026-03-10",
-    "updatedDate": "2026-03-10",
     "faqs": [
       {
         "question": {
-          "ko": "이 습관을 매일 실천해야 하나요?",
-          "en": "Should I practice this habit daily?",
-          "ja": "この習慣を毎日実践すべきですか？",
-          "zh": "建议每天实践这一习惯吗？",
-          "es": "¿Debo practicar este hábito a diario?",
-          "fr": "Dois-je pratiquer cette habitude tous les jours ?",
-          "de": "Sollte ich diese Gewohnheit täglich praktizieren?",
-          "pt": "Devo praticar este hábito diariamente?",
-          "id": "Apakah saya harus mempraktikkan kebiasaan ini setiap hari?"
+          "ko": "이 습관을 매일 실천해야 하나요?"
         },
         "answer": {
-          "ko": "네, 매일 일정한 시간에 실천할 때 뇌의 신경 가소성이 극대화됩니다.",
-          "en": "Yes, practicing at a set time daily maximizes brain neuroplasticity.",
-          "ja": "はい、毎日決まった時間に実践することで脳の神経可塑性が極大化します。",
-          "zh": "是的，在每天固定时间实践能最大化大脑的神经可塑性。",
-          "es": "Sí, practicar a una hora fija diariamente maximiza la neuroplasticidad cerebral.",
-          "fr": "Oui, pratiquer à une heure fixe chaque jour maximise la neuroplasticité cérébrale.",
-          "de": "Ja, tägliche Praxis zur gleichen Zeit maximiert die Neuroplastizität.",
-          "pt": "Sim, praticar a uma hora fixa diariamente maximiza a neuroplasticidade.",
-          "id": "Ya, berlatih pada waktu yang sama setiap hari memaksimalkan neuroplastisitas."
+          "ko": "네, 매일 일정한 시간에 실천할 때 뇌의 신경 가소성이 극대화됩니다. 일정한 시각과 장소에서 매일 지속적으로 실행하여 뇌의 신경 가소성(Neuroplasticity) 회로를 강화하는 것이 가장 확실한 성공 열쇠입니다."
         }
       }
     ]

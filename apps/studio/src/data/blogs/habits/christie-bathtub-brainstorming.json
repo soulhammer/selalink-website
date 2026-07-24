@@ -1,219 +1,70 @@
 {
   "christie-bathtub-brainstorming": {
     "title": {
-      "en": "Eating Apples in the Bathtub: Agatha Christie's Plot Brainstorming Ritual",
-      "ko": "욕조에서 사과를 먹으며 살인을 계획한 여인? 아가사 크리스티의 온수 브레인스토밍",
-      "ja": "湯船でリンゴをかじる？アガサ・クリスティのプロット構想術",
-      "zh": " 浴缸吃苹果与谋杀案构思：阿加莎·克里斯蒂的脑力激荡仪式",
-      "es": "¿Comer manzanas en la bañera? El ritual de lluvia de ideas de Agatha Christie",
-      "fr": "Manger des pommes dans sa baignoire : Le rituel de brainstorming d'Agatha Christie",
-      "de": "Äpfel in der Badewanne essen: Agatha Christies Ritual zur Plot-Entwicklung",
-      "pt": "Comer maçãs na banheira: O ritual de brainstorming de Agatha Christie",
-      "id": "Makan Apel di Bak Mandi: Ritual Brainstorming Plot Agatha Christie"
+      "ko": "욕조에서 사과를 먹으며 살인을 계획한 여인? 아가사 크리스티의 온수 브레인스토밍"
     },
     "description": {
-      "en": "The Queen of Mystery, Agatha Christie, designed her murder plots in a warm bathtub. Learn how sensory relaxation triggers creative breakthrough.",
-      "ko": "전 세계에서 성경 다음으로 많이 읽힌 추리소설의 여왕 아가사 크리스티. 욕조 안에서 사과를 먹으며 치밀한 알리바이와 트릭을 구상했던 그녀의 이완 루틴과 창의성을 자극하는 신체 이완 루틴을 알아봅니다.",
-      "ja": "ミステリーの女王アガサ・クリスティは、温かい湯船の中で殺人プロットを練り上げました。感覚の緩和が創造性を刺激するメカニズムを解説します。",
-      "zh": "推理女王阿加莎·克里斯蒂在温暖的浴缸中设计了她的谋杀案情节。了解感官放松如何触发创意突破。",
-      "es": "La reina del misterio, Agatha Christie, diseñaba sus tramas en una bañera cálida. Conozca cómo la relajación sensorial activa la creatividad.",
-      "fr": "La reine du mystère, Agatha Christie, concevait ses intrigues dans un bain chaud. Découvrez comment la relaxation stimule la créativité.",
-      "de": "Die Königin des Krimis, Agatha Christie, entwickelte ihre Plots in einer warmen Badewanne. Erfahren Sie, wie sensorische Entspannung Kreativität freisetzt.",
-      "pt": "A rainha do mistério, Agatha Christie, desenhava os seus enredos numa banheira quente. Saiba como o relaxamento sensorial ativa a criatividade.",
-      "id": "Ratu Misteri, Agatha Christie, merancang plot pembunuhannya di bak mandi air hangat. Pelajari bagaimana relaksasi sensorik memicu terobosan kreatif."
+      "ko": "전 세계에서 성경 다음으로 많이 읽힌 추리소설의 여왕 아가사 크리스티. 욕조 안에서 사과를 먹으며 치밀한 알리바이와 트릭을 구상했던 그녀의 이완 루틴과 창의성을 자극하는 신체 이완 루틴을 알아봅니다."
     },
     "authority": {
-      "en": "Agatha Christie's autobiography 'Agatha Christie: An Autobiography' & Journal of Thermal Biology",
-      "ko": "아가사 크리스티 자서전 'Agatha Christie: An Autobiography' 및 세계 건강학 저널(Journal of Thermal Biology)",
-      "ja": "アガサ・クリスティ自伝『アガサ・クリスティ自著伝』＆ Journal of Thermal Biology 学術誌",
-      "zh": "阿加莎·克里斯蒂自传《阿加莎·克里斯蒂自传》及 Journal of Thermal Biology 学术期刊",
-      "es": "Autobiografía de Agatha Christie 'Agatha Christie: An Autobiography' y Journal of Thermal Biology",
-      "fr": "L'autobiographie d'Agatha Christie 'Agatha Christie : Une autobiographie' & Journal of Thermal Biology",
-      "de": "Agatha Christies Autobiografie „Agatha Christie: Meine gute alte Zeit“ & Journal of Thermal Biology",
-      "pt": "Autobiografia de Agatha Christie 'Agatha Christie: Uma Autobiografia' e Journal of Thermal Biology",
-      "id": "Autobiografi Agatha Christie 'Agatha Christie: An Autobiography' & Jurnal Thermal Biology"
+      "ko": "아가사 크리스티 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "en": "Agatha Christie, the creator of Hercule Poirot and Miss Marple, and the best-selling novelist in history. How did her intricate murder plots and alibis come to be? Instead of locking herself in a study forcing words on paper, Christie believed her mind worked best when immersed in a warm bath. Today, BuildSelf explores the behavioral science behind Christie's 'bath and apples' routine and how you can apply it to solve complex daily problems.",
-      "ko": "전 세계를 매혹한 탐정 에르큘 포아로와 미스 마플의 창시자이자, 추리문학 역사상 가장 위대한 베스트셀러 작가인 아가사 크리스티. 80편이 넘는 정교하고 치밀한 살인 트릭과 알리바이는 대체 어떻게 탄생했을까요? 크리스티는 방 안에 갇혀 억지로 원고를 붙잡고 있을 때보다, 따뜻한 물이 가득 담긴 대형 clawfoot 욕조에 몸을 담그고 있을 때 가장 뇌가 활성화된다고 믿었습니다. 오늘 BuildSelf에서는 아가사 크리스티가 고수했던 '온수 입욕과 사과' 루틴의 행동과학적 원리와 현대인들이 복잡한 문제 해결을 위해 이를 활용하는 법을 소개합니다.",
-      "ja": "この歴史的習慣の実践において： , . 80 ? , clawfoot . BuildSelf ' ' .",
-      "zh": "在这一历史性惯例的实践中： , . 80 ? , clawfoot . BuildSelf ' ' .",
-      "es": "Agatha Christie, la creadora de Hércules Poirot y Miss Marple, y la novelista más vendida de la historia. ¿Cómo surgieron sus intrincadas tramas de asesinato? En lugar de encerrarse a escribir, Christie creía que su mente funcionaba mejor en un baño tibio. Hoy, BuildSelf analiza la ciencia del comportamiento detrás de esta rutina.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Agatha Christie, die Schöpferin von Hercule Poirot und Miss Marple sowie die meistverkaufte Romanautorin der Geschichte. Wie entstanden ihre komplizierten Plots? Anstatt sich in ein Arbeitszimmer einzuschließen, glaubte Christie, dass ihr Geist in einer warmen Wanne am besten funktionierte. Heute untersucht BuildSelf die Verhaltenswissenschaft dahinter.",
-      "pt": "Na prática desta rotina transformadora:         ,        . 80         ?         ,      clawfoot         .  BuildSelf    '  '            .\n\nAo praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Agatha Christie, pencipta Hercule Poirot dan Miss Marple, dan novelis terlaris dalam sejarah. Bagaimana plot pembunuhan dan alibinya yang rumit bisa terjadi? Alih-alih mengurung diri di ruang kerja, Christie percaya pikirannya bekerja paling baik saat berendam di bak mandi hangat. Hari ini, BuildSelf mengeksplorasi ilmu kognitif di balik ini."
+      "ko": "전 세계를 매혹한 탐정 에르큘 포아로와 미스 마플의 창시자이자, 추리문학 역사상 가장 위대한 베스트셀러 작가인 아가사 크리스티. 80편이 넘는 정교하고 치밀한 살인 트릭과 알리바이는 대체 어떻게 탄생했을까요? 🍏\n\n크리스티는 방 안에 갇혀 억지로 원고를 붙잡고 있을 때보다, 따뜻한 물이 가득 담긴 대형 clawfoot 욕조에 몸을 담그고 있을 때 가장 뇌가 활성화된다고 믿었습니다. 그녀는 목욕을 하는 동안 한 손에는 늘 신선한 사과를 쥐고 아삭아삭 씹어 먹으며, 소설 속 인물들의 살인 동기와 반전 플롯을 자유롭게 연결했습니다. 욕조 안에서의 이 단순하고 편안한 이완 루틴은 그녀의 시그니처 습관이 되었고, 실제로 많은 영감의 순간들을 욕조 안에서 사과 찌꺼기를 바라보며 건져냈습니다.\n\n오늘 포스트에서는 아가사 크리스티가 고수했던 '온수 입욕과 사과' 루틴의 행동과학적 원리와 현대인들이 복잡한 문제 해결을 위해 이를 활용하는 법을 소개합니다."
     },
     "whyTitle": {
-      "en": "Thermal Physics and the Default Mode Network",
-      "ko": "신체 온도 상승과 디폴트 모드 네트워크(DMN)의 활성화",
-      "ja": "身体温度の上昇とデフォルト・モード・ネットワークの活性化",
-      "zh": "热物理学与默认模式网络",
-      "es": "La física térmica y la red neuronal por defecto",
-      "fr": "La physique thermique et le réseau du mode par défaut",
-      "de": "Thermische Physik und das Default-Mode-Netzwerk",
-      "pt": "A física térmica e a red neuronal por omissão",
-      "id": "Fisika Termal dan Jaringan Mode Default"
+      "ko": "신체 온도 상승과 디폴트 모드 네트워크(DMN)의 활성화"
     },
     "whyDesc": {
-      "en": "Soaking in warm water expands blood vessels and increases brain blood flow. Simultaneously, the brain turns off the task-positive network and activates the 'Default Mode Network (DMN).' In this relaxed state, the brain freely reorganizes disparate concepts to present creative solutions.",
-      "ko": "따뜻한 물에 몸을 담그는 전신 입욕은 혈관을 확장하고 뇌 혈류량을 늘려줍니다. 이와 동시에 뇌는 집중하여 일할 때 켜지는 '수행 네트워크'를 끄고, 멍하니 이완할 때 활성화되는 '디폴트 모드 네트워크(DMN)'를 켭니다. DMN 상태가 되면 뇌는 서로 연관 없어 보이던 단서들을 창의적으로 재조합하여 복잡한 문제의 해답을 불쑥 제시합니다. 크리스티는 이 이완의 생리적 메커니즘을 본능적으로 100% 이해하고 있었던 작가였습니다.",
-      "ja": "温かいお湯に身を浸す全身入浴は、血管を広げて脳の血流量を増やします。同時に脳は「デフォルト・モード・ネットワーク(DMN)」を活性化させます。この状態になると脳は無関係に見える情報を再構築し、独創的な解決策を提示します。",
-      "zh": "浸泡在温水中会扩张血管并增加大脑血流量。同时，大脑会关闭任务积极网络，并激活“默认模式网络（DMN）”。在这种放松的状态下，大脑自由地重新整理不同的概念，从而提出创造性的解决方案。",
-      "es": "Sumergirse en agua tibia dilata los vasos sanguíneos y mejora el flujo sanguíneo cerebral. Al mismo tiempo, el cerebro activa la 'Red Neuronal por Defecto' (DMN). En este estado relajado, el cerebro reorganiza conceptos de forma asociativa.",
-      "fr": "Prendre un bain chaud dilate les vaisseaux et augmente le flux sanguin cérébral. En parallèle, le cerveau active le « Réseau du mode par défaut » (DMN). Dans cet état relâché, le cerveau réorganise les concepts pour proposer des solutions.",
-      "de": "Das Einweichen in warmem Wasser erweitert die Blutgefäße und erhöht die Hirndurchblutung. Gleichzeitig aktiviert das Gehirn das „Default-Mode-Netzwerk“ (DMN). In diesem entspannten Zustand verknüpft das Gehirn unzusammenhängende Konzepte neu.",
-      "pt": "Mergulhar em água morna dilata os vasos sanguíneos e aumenta o fluxo sanguíneo cerebral. Ao mesmo tempo, o cérebro ativa a 'Rede Neuronal por Omissão' (DMN). Neste estado relaxado, el cerebro reorganiza conceptos de forma asociativa.",
-      "id": "Berendam di air hangat memperlebar pembuluh darah dan meningkatkan aliran darah otak. Secara bersamaan, otak mengaktifkan 'Jaringan Mode Default (DMN)'. Dalam keadaan santai ini, otak bebas mengatur ulang konsep untuk menghasilkan solusi."
+      "ko": "따뜻한 물에 몸을 담그는 전신 입욕은 혈관을 확장하고 뇌 혈류량을 늘려줍니다. 이와 동시에 뇌는 집중하여 일할 때 켜지는 '수행 네트워크'를 끄고, 멍하니 이완할 때 활성화되는 '디폴트 모드 네트워크(DMN)'를 켭니다. DMN 상태가 되면 뇌는 서로 연관 없어 보이던 단서들을 창의적으로 재조합하여 복잡한 문제의 해답을 불쑥 제시합니다. 크리스티는 이 이완의 생리적 메커니즘을 본능적으로 100% 이해하고 있었던 작가였습니다."
     },
     "cautionTitle": {
-      "en": "Loosening Tension Opens Closed Thoughts",
-      "ko": "긴장을 풀어야 닫힌 생각이 열립니다",
-      "ja": "緊張を緩めることで閉ざされた思考が開かれます",
-      "zh": "放松紧张感才能开启封闭的思想",
-      "es": "Aflojar la tensión abre los pensamientos cerrados",
-      "fr": "Relâcher la tension ouvre les pensées bloquées",
-      "de": "Spannung abbauen öffnet blockierte Gedanken",
-      "pt": "Afrouxar a tensão abre os pensamentos fechados",
-      "id": "Melonggarkan Ketegangan Membuka Pikiran yang Tertutup"
+      "ko": "긴장을 풀어야 닫힌 생각이 열립니다"
     },
     "cautionDesc": {
-      "en": "Creativity doesn't flourish under obligation and stress. Just as Christie unraveled murder mysteries in cozy bath warmth and apple scents, when blocked, release conscious control and gift your brain space to wander.",
-      "ko": "창의성은 의무감과 스트레스 속에서 자라나지 않습니다. 아가사 크리스티가 욕조의 아늑함과 아삭한 사과 향 속에서 세기의 미스터리를 풀어냈듯, 해결되지 않는 문제가 앞을 가로막는다면 몸의 근육을 풀고 뇌에게 자유로운 놀이터를 만들어 주세요.",
-      "ja": "創造性は義務感やストレスからは生まれません。アガサ・クリスティが湯船の心地よさとリンゴの香りの中で謎を解き明かしたように、行き詰まったら体を緩め、脳に自由な遊び場を提供してください。",
-      "zh": "创造力不会在义务和压力下蓬勃发展。正如阿加莎·克里斯蒂在舒适的温浴和苹果香气中揭开谋杀谜团一样，当遇到瓶颈时，释放意识控制，给大脑一个漫游的空间。",
-      "es": "La creatividad no florece bajo la obligación y el estrés. Al igual que Christie resolvía misterios en la calidez del baño, cuando esté bloqueado, libere el control consciente y regale a su cerebro espacio para divagar.",
-      "fr": "La créativité ne fleurit pas sous la contrainte et le stress. Tout comme Christie concevait ses intrigues dans la douceur d'un bain, en cas de blocage, relâchez la pression et donnez à votre esprit l'espace pour s'évader.",
-      "de": "Kreativität gedeiht nicht unter Zwang und Stress. Genau wie Christie ihre Kriminalromane in der Wärme der Badewanne entwickelte, sollten Sie bei Blockaden die bewusste Kontrolle loslassen und Ihrem Geist freien Lauf lassen.",
-      "pt": "A criatividade não floresce sob a obrigação e o stress. Tal como Christie resolvia mistérios no aconchego do banho e aroma da maçã, quando estiver bloqueado, liberte o controlo e dê espaço ao cérebro para divagar.",
-      "id": "Kreativitas tidak berkembang di bawah kewajiban dan stres. Sama seperti Christie memecahkan misteri dalam kehangatan mandi dan aroma apel, saat buntu, lepaskan kontrol dan beri otak Anda ruang untuk mengembara."
+      "ko": "창의성은 의무감과 스트레스 속에서 자라나지 않습니다. 아가사 크리스티가 욕조의 아늑함과 아삭한 사과 향 속에서 세기의 미스터리를 풀어냈듯, 해결되지 않는 문제가 앞을 가로막는다면 몸의 근육을 풀고 뇌에게 자유로운 놀이터를 만들어 주세요."
     },
     "steps": [
       {
         "name": {
-          "en": "Set up a warm bath or foot soak",
-          "ko": "온수 입욕 또는 반신욕 환경 셋업",
-          "ja": "温水入浴または足湯の環境を整える",
-          "zh": "设置温水浴或泡脚环境",
-          "es": "Prepara un baño tibio o baño de pies",
-          "fr": "Préparer un bain chaud ou un bain de pieds",
-          "de": "Bereiten Sie ein warmem Bad oder Fußbad vor",
-          "pt": "Prepare um banho morno ou banho de pés",
-          "id": "Atur bak mandi hangat atau rendam kaki"
+          "ko": "온수 입욕 또는 반신욕 환경 셋업"
         },
         "text": {
-          "en": "Fill a tub with warm water (38°C-40°C) and soak for 15-20 minutes. A warm foot soak or neck compress acts as a great biological alternative.",
-          "ko": "따뜻한 물(38도~40도)을 욕조에 채우고 15분~20분간 몸을 담급니다. 가벼운 족욕이나 따뜻한 스팀 타월로 목 뒷부분을 찜질하는 것 역시 부교감 신경을 활성화하여 훌륭한 대안이 됩니다.",
-          "ja": "ぬるめのお湯(38度〜40度)を浴槽に溜め、15〜20分間身を浸します。足湯や温かいタオルで首の後ろを温めるだけでも、副交感神経を刺激する良い代替案になります。",
-          "zh": "将浴缸注入温水（38℃-40℃），浸泡15-20分钟。温水泡脚或颈部热敷是很好的替代方案。",
-          "es": "Llene la bañera con agua tibia (38 °C a 40 °C) y sumérjase durante 15 a 20 minutos. Un baño de pies o compresa caliente funciona como alternativa.",
-          "fr": "Remplissez un bain d'eau chaude (38°C-40°C) et restez-y 15-20 minutes. Un bain de pieds ou une compresse chaude est une excellente alternative.",
-          "de": "Füllen Sie eine Wanne mit warmem Wasser (38 °C–40 °C) und weichen Sie 15–20 Minuten darin ein. Ein warmes Fußbad ist eine gute Alternative.",
-          "pt": "Encha a banheira com água morna (38 °C a 40 °C) e mergulhe durante 15 a 20 minutos. Um banho de pés ou compressa quente funciona como alternativa.",
-          "id": "Isi bak mandi dengan air hangat (38°C-40°C) dan berendamlah selama 15-20 menit. Rendam kaki hangat adalah alternatif biologis yang bagus."
+          "ko": "따뜻한 물(38도~40도)을 욕조에 채우고 15분~20분간 몸을 담급니다. 가벼운 족욕이나 따뜻한 스팀 타월로 목 뒷부분을 찜질하는 것 역시 부교감 신경을 활성화하여 훌륭한 대안이 됩니다."
         }
       },
       {
         "name": {
-          "en": "Engage chewing and sensory stimuli",
-          "ko": "저작 운동과 미세 감각 자극 병행",
-          "ja": "咀嚼運動と微細な感覚刺激の並行",
-          "zh": "结合咀嚼与感官刺激",
-          "es": "Combina la masticación y los estímulos sensoriales",
-          "fr": "Associer la mastication et les stimuli sensoriels",
-          "de": "Nutzen Sie Kaubewegungen und sensorische Reize",
-          "pt": "Combine a mastigação e os estímulos sensoriais",
-          "id": "Lakukan stimulasi sensorik mengunyah"
+          "ko": "저작 운동과 미세 감각 자극 병행"
         },
         "text": {
-          "en": "Eat fresh, crunchy, fragrant snacks like apples. Chewing lowers cortisol (stress hormone) and lightly stimulates the prefrontal cortex.",
-          "ko": "입욕 중 사과나 오이 등 씹는 질감이 뚜렷하고 아로마 향이 풍부한 건강한 간식을 섭취합니다. 씹는 행위(저작 운동)는 스트레스 호르몬인 코르티솔 수치를 낮추고 뇌 전두엽을 미세하게 자극하여 고요한 각성을 유도합니다.",
-          "ja": "入浴中にリンゴなど、噛みごたえがあり香りの良い健康的なおやつを食べます。咀嚼する行為はストレスホルモンを下げ、前頭葉を優しく刺激します。",
-          "zh": "在沐浴时食用新鲜、爽脆且芳香的食物（如苹果）。咀嚼能降低皮质醇（压力激素）并轻微刺激前额叶皮层。",
-          "es": "Coma bocadillos frescos y crujientes como manzanas. Masticar reduce el cortisol (hormona del estrés) y estimula la corteza prefrontal.",
-          "fr": "Mangez des aliments frais et croquants comme des pommes. Mâcher réduit le cortisol (hormone du stress) et stimule le cortex préfrontal.",
-          "de": "Essen Sie frische, knackige Snacks wie Äpfel. Kauen senkt Cortisol (Stresshormon) und stimuliert den präfrontalen Kortex.",
-          "pt": "Coma lanches frescos e crocantes como maçãs. Mastigar reduz o cortisol (hormona do stress) e estimula o córtex pré-frontal.",
-          "id": "Makanlah camilan segar, renyah, dan harum seperti apel. Mengunyah menurunkan kortisol (hormon stres) dan merangsang korteks prefrontal."
+          "ko": "입욕 중 사과나 오이 등 씹는 질감이 뚜렷하고 아로마 향이 풍부한 건강한 간식을 섭취합니다. 씹는 행위(저작 운동)는 스트레스 호르몬인 코르티솔 수치를 낮추고 뇌 전두엽을 미세하게 자극하여 고요한 각성을 유도합니다."
         }
       },
       {
         "name": {
-          "en": "Capture associative thoughts in relaxation",
-          "ko": "이완 상태에서 연상 메모 기록",
-          "ja": "リラックスした状態でメモを取る",
-          "zh": "在放松状态下捕捉联想性思维",
-          "es": "Captura pensamientos asociativos al relajarte",
-          "fr": "Noter les idées en état de relaxation",
-          "de": "Halten Sie assoziative Gedanken fest",
-          "pt": "Capture pensamentos associativos ao relaxar",
-          "id": "Tangkap pikiran asosiatif dalam relaksasi"
+          "ko": "이완 상태에서 연상 메모 기록"
         },
         "text": {
-          "en": "Hold a core problem in mind and watch thoughts wander. The moment concepts click, dry off and note them down immediately.",
-          "ko": "풀어야 할 핵심 과제 하나만 머릿속에 던져두고, 멍하니 흘러가는 생각들의 꼬리를 관찰합니다. 생각이 유기적으로 결합되는 순간 물기를 닦아내고 방수 패드나 방 밖의 메모장에 즉시 아이디어를 포착합니다.",
-          "ja": "解決したい課題を一つだけ頭に置いて、自由に流れる思考を観察します。アイデアが結びついた瞬間、メモ帳に書き留めます。",
-          "zh": "将一个核心问题放在脑海中，看着思绪飘散。当概念契合的瞬间，擦干身体并立即记录下来。",
-          "es": "Mantenga un problema central en mente y observe cómo divaga el pensamiento. En el momento en que los conceptos encajen, anótelos inmediatamente.",
-          "fr": "Gardez un problème en tête et laissez vos pensées défiler. Dès que les idées s'assemblent, séchez-vous et notez-les aussitôt.",
-          "de": "Behalten Sie ein Kernproblem im Auge und lassen Sie Ihre Gedanken schweifen. Sobald Konzepte ineinandergreifen, schreiben Sie sie auf.",
-          "pt": "Mantenha um problema central em mente e observe os pensamentos divagarem. No momento em que los conceptos se encaixarem, anote-os imediatamente.",
-          "id": "Pikirkan masalah inti dan biarkan pikiran melayang. Saat konsep-konsep tersebut cocok, segera catat."
+          "ko": "풀어야 할 핵심 과제 하나만 머릿속에 던져두고, 멍하니 흘러가는 생각들의 꼬리를 관찰합니다. 생각이 유기적으로 결합되는 순간 물기를 닦아내고 방수 패드나 방 밖의 메모장에 즉시 아이디어를 포착합니다."
         }
       }
-    ],
-    "stepImages": [
-      "",
-      "/images/blog/christie_bathtub_brainstorming_relax_detail.webp",
-      ""
     ],
     "faqs": [
       {
         "question": {
-          "en": "Why did she specifically eat apples in the tub while planning?",
-          "ko": "왜 하필 욕조 안에서 사과를 먹으며 아이디어를 짰나요?",
-          "ja": "なぜわざわざ湯船でリンゴを食べながらプロットを構想したのですか？",
-          "zh": "为什么她非要在浴缸里吃着苹果设计谋杀案？",
-          "es": "¿Por qué comía específicamente manzanas en la bañera mientras planeaba?",
-          "fr": "Pourquoi mangeait-elle spécifiquement des pommes dans sa baignoire ?",
-          "de": "Warum aß sie beim Planen ausgerechnet Äpfel in der Badewanne?",
-          "pt": "Porque é que comia especificamente maçãs na banheira enquanto planeava?",
-          "id": "Mengapa ia secara khusus makan apel di bak mandi saat merencanakan?"
+          "ko": "왜 하필 욕조 안에서 사과를 먹으며 아이디어를 짰나요?"
         },
         "answer": {
-          "en": "Warm baths relax muscles and stabilize heart rates. Meanwhile, chewing crunchy apples and smelling their scent activates minor facial nerves and jaw muscles, inducing a state of calm alertness best suited for mystery plotting.",
-          "ko": "온수 목욕은 근육의 긴장을 해소하고 심박수를 안정시킵니다. 여기에 껍질째 씹어 먹는 사과의 아삭아삭한 저작(씹기) 운동과 풍부한 과일 향이 후각과 턱 근육을 자극하여, 자율신경계가 가장 조화롭게 균형 잡힌 상태에서 극비의 트릭 영감을 이끌어 냈던 것입니다.",
-          "ja": "温水入浴は筋肉の緊張をほぐし、心拍数を安定させます。そこにシャキシャキとしたリンゴを噛む動作（咀嚼）と豊かな果実の香りが、嗅覚と顎の筋肉を刺激し、自律神経が調和したリラックスかつ冴えた状態でトリックのひらめきを導き出したのです。",
-          "zh": "温水浴能放松肌肉并稳定心率。同时，咀嚼脆爽苹果的动作和果香刺激了嗅觉与下颚肌肉，在自主神经系统最协调平衡的状态下引出了极秘的谋杀案诡计灵感。",
-          "es": "Los baños calientes relajan los músculos y estabilizan el ritmo cardíaco. Masticar manzanas crujientes y oler su aroma activa los nervios faciales y los músculos de la mandíbula, induciendo una alerta tranquila para las tramas.",
-          "fr": "Le bain chaud détend les muscles et régule le cœur. Le fait de croquer des pommes et de respirer leur parfum stimule la mâchoire et l'olfaction, induisant un état d'éveil calme propice aux énigmes.",
-          "de": "Warme Bäder entspannen die Muskeln und stabilisieren die Herzfrequenz. Das Kauen von knackigen Äpfeln und deren Duft aktiviert Gesichtsnerven und Kiefermuskeln, was eine ruhige Wachsamkeit bewirkt.",
-          "pt": "Os banhos quentes relaxam os músculos e estabilizam o ritmo cardíaco. Mastigar maçãs crocantes e cheirar o seu aroma ativa os nervos faciais e os músculos da mandíbula, induzindo um alerta tranquilo para os enredos.",
-          "id": "Mandi air hangat melemaskan otot dan menstabilkan detak jantung. Sementara itu, mengunyah apel renyah dan mencium aromanya merangsang saraf wajah dan otot rahang, menginduksi keadaan kewaspadaan tenang."
+          "ko": "온수 목욕은 근육의 긴장을 해소하고 심박수를 안정시킵니다. 여기에 껍질째 씹어 먹는 사과의 아삭아삭한 저작(씹기) 운동과 풍부한 과일 향이 후각과 턱 근육을 자극하여, 자율신경계가 가장 조화롭게 균형 잡힌 상태에서 극비의 트릭 영감을 이끌어 냈던 것입니다."
         }
       },
       {
         "question": {
-          "en": "What physical relaxation methods can I use if I don't have a tub?",
-          "ko": "욕조 목욕이 없을 때 대체할 수 있는 신체 이완법은 무엇인가요?",
-          "ja": "湯船がない場合に代わりとなる身体弛緩法は何ですか？",
-          "zh": "没有浴缸时，有什么可以代替的身体放松法吗？",
-          "es": "¿Qué métodos de relajación física puedo usar si no tengo bañera?",
-          "fr": "Quelles méthodes de relaxation puis-je utiliser sans baignoire ?",
-          "de": "Welche Entspannungsmethoden kann ich ohne Badewanne nutzen?",
-          "pt": "Que métodos de relaxamento físico posso usar se não tiver banheira?",
-          "id": "Metode relaksasi fisik apa yang dapat saya gunakan jika tidak memiliki bak mandi?"
+          "ko": "욕조 목욕이 없을 때 대체할 수 있는 신체 이완법은 무엇인가요?"
         },
         "answer": {
-          "en": "You can take a warm foot bath or drink hot tea to gently raise body temperature. Simple sensory relaxation triggers the brain's Default Mode Network, unlocking creative blockages.",
-          "ko": "네, 가벼운 온수 족욕을 하거나 따뜻한 차를 마시며 미세한 신체 열을 올리는 방법이 있습니다. 머리를 비우고 몸을 이완하는 단순한 자극만으로도 뇌의 기본 모드 네트워크가 켜져 번뜩이는 아이디어가 샘솟게 됩니다.",
-          "ja": "足湯をしたり、温かいお茶を飲んで体温を優しく上げる方法があります。感覚を緩める単純なリラックス刺激だけでも脳のデフォルト・モード・ネットワーク（DMN）が起動し、アイデアが湧きやすくなります。",
-          "zh": "可以进行简单的足浴，或者饮用热茶来稍微提高体温。通过放松身体的简单感官刺激，也能启动大脑的默认模式网络（DMN），使灵感喷涌而出。",
-          "es": "Puede tomar un baño de pies tibio o beber té caliente para elevar suavemente la temperatura corporal. La relajación sensorial activa la Red Neuronal por Defecto cerebral.",
-          "fr": "Vous pouvez faire un bain de pieds chaud ou boire un thé chaud pour augmenter doucement la température du corps. La relaxation stimule le réseau du mode par défaut.",
-          "de": "Sie können ein warmes Fußbad nehmen oder heißen Tee trinken, um die Körpertemperatur zu erhöhen. Sensorische Entspannung aktiviert das Default-Mode-Netzwerk.",
-          "pt": "Pode fazer um escalda-pés morno ou beber chá quente para elevar suavemente a temperatura corporal. O relaxamento sensorial ativa a Rede Neuronal por Omissão.",
-          "id": "Anda dapat merendam kaki dengan air hangat atau minum teh hangat untuk meningkatkan suhu tubuh. Relaksasi sensorik memicu Jaringan Mode Default otak."
+          "ko": "네, 가벼운 온수 족욕을 하거나 따뜻한 차를 마시며 미세한 신체 열을 올리는 방법이 있습니다. 머리를 비우고 몸을 이완하는 단순한 자극만으로도 뇌의 기본 모드 네트워크가 켜져 번뜩이는 아이디어가 샘솟게 됩니다."
         }
       }
     ]

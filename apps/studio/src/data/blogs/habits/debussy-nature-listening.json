@@ -1,218 +1,72 @@
 {
   "debussy-nature-listening": {
     "title": {
-      "ko": "'달빛' 작곡가의 영감 비결? 클로드 드뷔시의 새벽 자연 소리 리스닝",
-      "en": "Composer of 'Clair de Lune'? Claude Debussy's Dawn Nature Listening Routine",
-      "ja": "「月の光」の作曲家のインスピレーション？ドビュッシーの早朝自然音リスニング",
-      "zh": "《月光》作曲家的灵感来源？克洛德·德彪西的黎明自然之声聆听习惯",
-      "es": "¿El secreto del compositor de 'Clair de Lune'? La rutina de escucha de la naturaleza de Debussy",
-      "fr": "Le secret du compositeur de 'Clair de Lune' ? La routine d'écoute de la nature de Debussy",
-      "de": "Das Geheimnis des Komponisten von 'Clair de Lune'? Debussys Natur-Hörroutine",
-      "pt": "O segredo do compositor de 'Clair de Lune'? A rotina de escuta da natureza de Debussy",
-      "id": "Rahasia Komposis 'Clair de Lune'? Rutinitas Mendengar Alam Fajar Claude Debussy"
+      "ko": "'달빛' 작곡가의 영감 비결? 클로드 드뷔시의 새벽 자연 소리 리스닝"
     },
     "description": {
-      "ko": "인상주의 음악의 거장 드뷔시. 새벽 숲의 바람 소리와 물소리에 귀 기울여 인류 역사상 가장 아름다운 멜로디를 만든 청각 센서리 루틴.",
-      "en": "Discover how Debussy listened to dawn forest sounds to create timeless impressionist music.",
-      "ja": "黎明の森の風の音や水の音に耳を澄ませ、美しい旋律を生み出したドビュッシーのリフレッシュ術。",
-      "zh": "介绍德彪西在清晨倾听森林风声与水流声、创作出流芳百世的印象派音乐的感官习惯。",
-      "es": "Descubra cómo Debussy escuchaba los sonidos del bosque al amanecer para crear música deslumbrante.",
-      "fr": "Découvrez comment Debussy écoutait les sons de la forêt à l'aube pour créer sa musique.",
-      "de": "Erfahren Sie, wie Debussy frühmorgens Naturgeräuschen lauschte, um Musik zu erschaffen.",
-      "pt": "Descubra como Debussy ouvia os sons da floresta ao amanhecer para criar músicas imortais.",
-      "id": "Temukan cara Debussy mendengarkan suara hutan fajar untuk menciptakan musik impresionis."
+      "ko": "인상주의 음악의 거장 드뷔시. 새벽 숲의 바람 소리와 물소리에 귀 기울여 인류 역사상 가장 아름다운 멜로디를 만든 청각 센서리 루틴."
     },
     "authority": {
-      "ko": "전기 'Debussy: His Life and Mind' 및 Nature Scientific Reports 학술지",
-      "en": "Biography 'Debussy: His Life and Mind' & Nature Scientific Reports",
-      "ja": "評伝「Debussy: His Life and Mind」および Nature Scientific Reports 学術誌",
-      "zh": "传记《Debussy: His Life and Mind》与 Nature Scientific Reports 学术期刊",
-      "es": "Biografía 'Debussy: His Life and Mind' y Nature Scientific Reports",
-      "fr": "Biographie 'Debussy: His Life and Mind' & Nature Scientific Reports",
-      "de": "Biografie 'Debussy: His Life and Mind' & Nature Scientific Reports",
-      "pt": "Biografia 'Debussy: His Life and Mind' e Nature Scientific Reports",
-      "id": "Biografi 'Debussy: His Life and Mind' & Jurnal Nature Scientific Reports"
+      "ko": "클로드 드뷔시 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "'달빛', '바다'를 작곡하여 기존의 딱딱한 형식을 깨고 꿈꾸는 듯한 인상주의 음악의 시대를 연 프랑스의 거장, 클로드 드뷔시. 세상을 감동시킨 그의 독창적 화성과 멜로디는 어디서 불어왔을까요? 🌊\n\n드뷔시는 영감이 막힐 때마다 방 안에서 악보와 씨름하는 대신 새벽녘 조용히 정원이나 숲으로 나갔습니다. 그는 이어폰이나 인공적 소음이 없는 자연 속에서 나뭇잎 스치는 바람 소리, 새소리, 물방울 소리에 고요히 귀를 기울였습니다. 자연의 핑크 노이즈와 미세 음향을 경청하는 습관은 그에게 최고의 멜로디 모티프를 선물했습니다.\n\n오늘 BuildSelf에서는 드뷔시의 자연 리스닝 루틴과 청각 이완의 과학을 소개합니다.",
-      "en": "In this historic routine: '', ''             ,  .        ? 🌊\n\nIn this historic routine:              .           , ,     .            .\n\nIn this historic routine:  BuildSelf        .\n\nPracticing this daily routine consistently builds deep focus and long-term habits. By systematically applying this historic routine daily, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus.",
-      "ja": "この歴史的習慣の実践において：'', '' , . ? 🌊 この歴史的習慣の実践において： . , , . . この歴史的習慣の実践において： BuildSelf .",
-      "zh": "在这一历史性惯例的实践中：'', '' , . ? 🌊 在这一历史性惯例的实践中： . , , . . 在这一历史性惯例的实践中： BuildSelf .",
-      "es": "Esta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.\n\nEsta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.\n\nEsta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.\n\nCette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.\n\nCette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Esta prática diária essencial estimula um foco profundo e reduz a fadiga cognitiva.\n\nEsta prática diária essencial estimula um foco profundo e reduz a fadiga cognitiva.\n\nEsta prática diária essencial estimula um foco profundo e reduz a fadiga cognitiva.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan mengurangi kelelahan kognitif.\n\nPraktik harian esensial ini mendorong fokus mendalam dan mengurangi kelelahan kognitif.\n\nPraktik harian esensial ini mendorong fokus mendalam dan mengurangi kelelahan kognitif."
+      "ko": "'달빛', '바다'를 작곡하여 기존의 딱딱한 형식을 깨고 꿈꾸는 듯한 인상주의 음악의 시대를 연 프랑스의 거장, 클로드 드뷔시. 세상을 감동시킨 그의 독창적 화성과 멜로디는 어디서 불어왔을까요? 🌊\n\n드뷔시는 영감이 막힐 때마다 방 안에서 악보와 씨름하는 대신 새벽녘 조용히 정원이나 숲으로 나갔습니다. 그는 이어폰이나 인공적 소음이 없는 자연 속에서 나뭇잎 스치는 바람 소리, 새소리, 물방울 소리에 고요히 귀를 기울였습니다. 자연의 핑크 노이즈와 미세 음향을 경청하는 습관은 그에게 최고의 멜로디 모티프를 선물했습니다.\n\n오늘 포스트에서는 드뷔시의 자연 리스닝 루틴과 청각 이완의 과학을 소개합니다."
     },
     "whyTitle": {
-      "ko": "자연의 핑크 노이즈가 유도하는 뇌파 알파(Alpha)파 전환",
-      "en": "Brainwave Alpha-Wave Conversion Induced by Pink Noise",
-      "ja": "自然のピンクノイズが誘導する脳波α波の切り替え",
-      "zh": "自然粉红噪音引发的大脑α波转换",
-      "es": "Conversión a Ondas Alfa Cerebrales Mediante Ruido Rosa Natural",
-      "fr": "Conversion vers les Ondes Alpha par le Bruit Rose Naturel",
-      "de": "Alpha-Wellen-Umwandlung des Gehirns durch Rosa Rauschen",
-      "pt": "Conversão para Ondas Alfa Cerebrais pelo Ruído Rosa Natural",
-      "id": "Konversi Gelombang Otak Alfa Melalui Pink Noise Alam"
+      "ko": "자연의 핑크 노이즈가 유도하는 뇌파 알파(Alpha)파 전환"
     },
     "whyDesc": {
-      "ko": "도시의 인공적 복잡음은 청각 신경을 피로하게 만들고 신체 긴장도를 높입니다.\n\n바람 소리, 물소리 같은 자연의 핑크 노이즈(Pink Noise)에 집중하면 뇌파가 긴장 상태의 베타파에서 편안한 <strong>'알파파(Alpha Wave)'</strong> 상태로 유도되어 직관적 유연성과 창의적 연상 능력이 크게 강화됩니다.",
-      "en": "Artificial urban noise fatigues auditory nerves and raises physical tension.\n\nFocusing on natural pink noise shifts brainwaves into relaxed <strong>'Alpha waves'</strong>, boosting intuitive flexibility.",
-      "ja": "都市の人工音は聴覚を疲弊させます。\n\n風や水の自然音（ピンクノイズ）に集中すると、脳波がリラックスした<strong>「α波」</strong>へ移行し、直感力が強化されます。",
-      "zh": "城市的嘈杂噪音会让听觉神经疲惫不堪。\n\n专注自然界的粉红噪音能使脑波转换为放松的<strong>“α波”</strong>，大幅增强直觉与创造力。",
-      "es": "El ruido urbano fatiga los nervios auditivos.\n\nEl ruido rosa natural convierte las ondas cerebrales en <strong>'ondas Alfa'</strong> relajadas, potenciando la intuición.",
-      "fr": "Le bruit urbain fatigue les nerfs auditifs.\n\nLe bruit rose naturel induit des <strong>'ondes Alpha'</strong> apaisantes, renforçant l'intuition.",
-      "de": "Städtischer Lärm ermüdet das Gehör.\n\nNaturgeräusche wandeln Gehirnwellen in <strong>'Alpha-Wellen'</strong> um und steigern die Intuition.",
-      "pt": "O ruído urbano fatiga os nervos auditivos.\n\nO ruído rosa natural induz <strong>'ondas Alfa'</strong> relaxantes, aumentando a intuição.",
-      "id": "Kebisingan kota melelahkan saraf pendengaran.\n\nFokus pada pink noise alam mengubah gelombang otak ke <strong>'Gelombang Alfa'</strong> yang santai."
+      "ko": "도시의 인공적 복잡음은 청각 신경을 피로하게 만들고 신체 긴장도를 높입니다.\n\n바람 소리, 물소리 같은 자연의 핑크 노이즈(Pink Noise)에 집중하면 뇌파가 긴장 상태의 베타파에서 편안한 <strong>'알파파(Alpha Wave)'</strong> 상태로 유도되어 직관적 유연성과 창의적 연상 능력이 크게 강화됩니다."
     },
     "cautionTitle": {
-      "ko": "이어폰을 빼고 자연의 미세 소리를 미분하듯 들어보세요",
-      "en": "Unplug earphones and listen to subtle natural sounds",
-      "ja": "イヤホンを外し、自然の微小な音に耳を傾けましょう",
-      "zh": "摘下耳机，细心微分般倾听自然的细微声音",
-      "es": "Desconecte los auriculares y escuche los sonidos naturales",
-      "fr": "Débranchez vos écouteurs et écoutez les sons subtils",
-      "de": "Nehmen Sie die Kopfhörer ab und lauschen Sie Naturgeräuschen",
-      "pt": "Tire os fones e ouça os sons sutis da natureza",
-      "id": "Lepas headphone dan dengarkan suara alam yang halus"
+      "ko": "이어폰을 빼고 자연의 미세 소리를 미분하듯 들어보세요"
     },
     "cautionDesc": {
-      "ko": "음악이나 팟캐스트를 듣는 대신 5분간 아무 소리도 재생하지 말고 내 주변 자연 소리 3가지를 찾아내는 감각 훈련을 진행하세요.",
-      "en": "Instead of playing music or podcasts, play no sound for 5 minutes and practice identifying 3 distinct natural sounds.",
-      "ja": "音楽を聴く代わりに5分間音を流さず、周囲の自然の音を3つ見つける訓練を行いましょう。",
-      "zh": "与其听音乐，不如保持5分钟沉寂，进行找出周围3种自然声音的感官训练。",
-      "es": "En lugar de podcasts, no reproduzca sonido durante 5 minutos e identifique 3 sonidos naturales.",
-      "fr": "Au lieu de podcasts, n'écoutez aucun son pendant 5 min et identifiez 3 sons de la nature.",
-      "de": "Spielen Sie 5 Minuten keinen Ton ab und identifizieren Sie 3 Naturgeräusche.",
-      "pt": "Em vez de podcasts, não toque som por 5 minutos e identifique 3 sons naturais.",
-      "id": "Daripada mendengarkan musik, diamlah 5 menit dan identifikasi 3 suara alam di sekitar."
+      "ko": "음악이나 팟캐스트를 듣는 대신 5분간 아무 소리도 재생하지 말고 내 주변 자연 소리 3가지를 찾아내는 감각 훈련을 진행하세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "이어폰 차단 및 자연 공간 이동",
-          "en": "Remove Earphones & Move Outdoors",
-          "ja": "イヤホンの取り外しと屋外移動",
-          "zh": "摘下耳机并前往户外",
-          "es": "Quitar Auriculares y Salir al Aire Libre",
-          "fr": "Retirer les Écouteurs & Sortir Dehors",
-          "de": "Kopfhörer abnehmen & ins Freie gehen",
-          "pt": "Tirar Fones e Ir para ao Ar Livre",
-          "id": "Lepas Headphone & Keluar Ruangan"
+          "ko": "이어폰 차단 및 자연 공간 이동"
         },
         "text": {
-          "ko": "아침 시간 이어폰을 벗어두고 공원이나 나무가 있는 장소로 이동합니다.",
-          "en": "In the morning, take off earphones and walk to a park or tree-lined space.",
-          "ja": "朝の時間、イヤホンを外して公園や木のある場所へ移動します。",
-          "zh": "清晨摘下耳机，走到公园或树木繁茂的地方。",
-          "es": "Por la mañana, quítese los auriculares y vaya a un parque.",
-          "fr": "Le matin, ôtez vos écouteurs et marchez vers un parc.",
-          "de": "Nehmen Sie morgens die Kopfhörer ab und gehen Sie in einen Park.",
-          "pt": "De manhã, tire os fones e vá a um parque ou praça.",
-          "id": "Di pagi hari, lepas headphone dan berjalanlah ke taman."
+          "ko": "아침 시간 이어폰을 벗어두고 공원이나 나무가 있는 장소로 이동합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
         }
       },
       {
         "name": {
-          "ko": "5분간의 미세 청각 핑크노이즈 탐색",
-          "en": "5-Minute Auditory Sound Scanning",
-          "ja": "5分間の微小聴覚の音探索",
-          "zh": "5分钟微观听觉扫描",
-          "es": "5 Minutos de Exploración Auditiva",
-          "fr": "5 Min d'Exploration Auditive Subtile",
-          "de": "5-minütiges Auslauscnen der Natur",
-          "pt": "5 Minutos de Varredura Auditiva",
-          "id": "5 Menit Pemindaian Suara Pendengaran"
+          "ko": "5분간의 미세 청각 핑크노이즈 탐색"
         },
         "text": {
-          "ko": "눈을 감고 바람 소리, 나뭇잎 서걱거림, 멀리서 들리는 소리 3가지를 분리해 들어봅니다.",
-          "en": "Close your eyes and isolate 3 distinct sounds like wind, rustling leaves, or distant birds.",
-          "ja": "目を閉じ、風の音、葉の擦れ合う音など3つの音を分離して聴きます。",
-          "zh": "闭上眼睛，区分辨听风声、树叶沙沙声等3种声音。",
-          "es": "Cierre los ojos e aísle 3 sonidos distintos como el viento o las hojas.",
-          "fr": "Fermez les yeux et isolez 3 sons distincts comme le vent ou les feuilles.",
-          "de": "Schließen Sie die Augen und isolieren Sie 3 Geräusche wie Wind oder Blätter.",
-          "pt": "Feche os olhos e isole 3 sons distintos como o vento ou folhas.",
-          "id": "Pejamkan mata dan pisahkan 3 suara seperti angin atau dedaunan."
+          "ko": "눈을 감고 바람 소리, 나뭇잎 서걱거림, 멀리서 들리는 소리 3가지를 분리해 들어봅니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
         }
       },
       {
         "name": {
-          "ko": "청각적 영감 키워드 메모",
-          "en": "Auditory Inspiration Keyword Note",
-          "ja": "聴覚的インスピレーションのメモ",
-          "zh": "听觉灵感关键词记录",
-          "es": "Notas de Palabras Clave de Inspiración Auditiva",
-          "fr": "Notes de Mots-Clés d'Inspiration Auditive",
-          "de": "Notieren von Hörinhalte-Schlüsselwörtern",
-          "pt": "Anotar Palavras-Chave de Inspiração Auditiva",
-          "id": "Catatan Kata Kunci Inspirasi Pendengaran"
+          "ko": "청각적 영감 키워드 메모"
         },
         "text": {
-          "ko": "자연 소리를 들으며 느껴진 청량함이나 떠오른 새로운 시상을 단어로 적습니다.",
-          "en": "Note down short words capturing the freshness or ideas felt while listening to natural sounds.",
-          "ja": "自然の音を聴いて感じた爽やかさやアイデアを言葉で書き留めます。",
-          "zh": "将倾听自然声音时感受到的清爽感或浮现的新构思记在便签上。",
-          "es": "Anote palabras cortas que capturen la frescura o ideas sentidas.",
-          "fr": "Notez quelques mots capturant la fraîcheur et les idées ressenties.",
-          "de": "Notieren Sie kurze Wörter, die Frische oder Ideen festhalten.",
-          "pt": "Anote palavras curtas que capturem o frescor e as ideias.",
-          "id": "Catat kata-kata singkat yang menggambarkan kesegaran atau ide."
+          "ko": "자연 소리를 들으며 느껴진 청량함이나 떠오른 새로운 시상을 단어로 적습니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "도심 한복판이라 자연 소리를 들을 공원이 없다면 어쩌죠?",
-          "en": "What if I live in a city center without parks?",
-          "ja": "公園がない都心に住んでいる場合はどうすればいいですか？",
-          "zh": "如果身处没有公园的市中心该怎么办？",
-          "es": "¿Qué hacer si vivo en una ciudad sin parques?",
-          "fr": "Que faire si je vis en centre-ville sans parc ?",
-          "de": "Was tun, wenn ich in einer Stadt ohne Park lebe?",
-          "pt": "O que fazer se moro no centro sem parques?",
-          "id": "Bagaimana jika tinggal di pusat kota tanpa taman?"
+          "ko": "도심 한복판이라 자연 소리를 들을 공원이 없다면 어쩌죠?"
         },
         "answer": {
-          "ko": "실제 야외가 어렵다면 창문을 열고 바람 소리에 집중하거나, 유튜브/앱의 고품질 화이트/핑크 노이즈 자연음을 5분간 집중 감상하는 것으로 대안을 삼을 수 있습니다.",
-          "en": "Open a window to listen to the wind or play high-quality natural pink noise audio for 5 minutes as an alternative.",
-          "ja": "窓を開けて風の音に集中するか、アプリで高品質な自然音（ピンクノイズ）を5分間聴くことでも代用できます。",
-          "zh": "开窗专注倾听风声，或在 App 中集中倾听5分钟高质量自然粉红噪音音频也是很好的替代方案。",
-          "es": "Abra una ventana para escuchar el viento o reproduzca audio de ruido rosa natural durante 5 minutos.",
-          "fr": "Ouvrez une fenêtre pour écouer le vent ou écoutez un audio de bruit rose naturel pendant 5 minutes.",
-          "de": "Öffnen Sie ein Fenster oder spielen Sie 5 Minuten lang hochwertiges Rosa Rauschen ab.",
-          "pt": "Abra uma janela para ouvir o vento ou toque um áudio de ruído rosa natural por 5 minutos.",
-          "id": "Buka jendela untuk mendengar angin atau putar audio pink noise alam selama 5 menit."
+          "ko": "실제 야외가 어렵다면 창문을 열고 바람 소리에 집중하거나, 유튜브/앱의 고품질 화이트/핑크 노이즈 자연음을 5분간 집중 감상하는 것으로 대안을 삼을 수 있습니다."
         }
       },
       {
         "question": {
-          "ko": "새벽 시간이 아닌 낮에 실천해도 유효한가요?",
-          "en": "Is it valid to practice during the day instead of dawn?",
-          "ja": "早朝ではなく日中に実践しても効果がありますか？",
-          "zh": "在白天而不是清晨实践也有效果吗？",
-          "es": "¿Es válido practicarlo durante el día en lugar del amanecer?",
-          "fr": "Est-ce valable de le faire en journée plutôt qu'à l'aube ?",
-          "de": "Ist es auch tagsüber statt morgens wirksam?",
-          "pt": "É válido praticar durante o dia em vez do amanhecer?",
-          "id": "Apakah efektif dilakukan siang hari daripada fajar?"
+          "ko": "새벽 시간이 아닌 낮에 실천해도 유효한가요?"
         },
         "answer": {
-          "ko": "네, 업무 중 청각적 과부하가 느껴질 때 5분간 외부 소음에 주의를 기울여 정적을 모티프화하는 훈련은 언제든 유효합니다.",
-          "en": "Yes, practicing 5 minutes of mindful listening whenever you feel auditory overload during work is always effective.",
-          "ja": "はい、作業中に聴覚の過負荷を感じた際、5分間意識を傾ける訓練はいつでも有効です。",
-          "zh": "是的，在工作中感到听觉过载时，抽出5分钟专注倾听都是非常有效的。",
-          "es": "Sí, practicar 5 minutos de escucha atenta cuando sienta sobrecarga durante el trabajo es siempre efectivo.",
-          "fr": "Oui, pratiquer 5 minutes d'écoute attentive lors d'une surcharge au travail est toujours efficace.",
-          "de": "Ja, 5 Minuten achtsames Lauschen bei Hörüberlastung ist jederzeit wirksam.",
-          "pt": "Sim, praticar 5 minutos de escuta atenta durante o trabalho é sempre eficaz.",
-          "id": "Ya, berlatih 5 menit mendengarkan dengan penuh kesadaran kapan pun lelah pendengaran sangat efektif."
+          "ko": "네, 업무 중 청각적 과부하가 느껴질 때 5분간 외부 소음에 주의를 기울여 정적을 모티프화하는 훈련은 언제든 유효합니다."
         }
       }
-    ],
-    "pubDate": "2026-03-27",
-    "updatedDate": "2026-03-27"
+    ]
   }
 }

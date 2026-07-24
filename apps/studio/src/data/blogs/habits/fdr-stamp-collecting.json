@@ -1,216 +1,70 @@
 {
   "fdr-stamp-collecting": {
     "title": {
-      "ko": "프랭클린 D. 루스벨트의 '우표 분류': 격무 속 뇌를 구한 인지적 이완 루틴",
-      "en": "Franklin D. Roosevelt's 'Stamp Collecting': Cognitive Shifting Routine That Saved the Brain",
-      "ja": "フランクリン・D・ルーズベルトの「切手分類」：激務から脳を救った認知的弛緩ルーティン",
-      "zh": "富兰克林·D·罗斯福的“邮票整理”：从繁重工作中解救大脑的认知放松惯例",
-      "es": "La 'colección de sellos' de Franklin D. Roosevelt: rutina de relajación cognitiva",
-      "fr": "La 'collection de timbres' de Franklin D. Roosevelt : routine de relaxation cognitive",
-      "de": "Franklin D. Roosevelts 'Briefmarkensammeln': Kognitive Entspannung vor dem Schlafen",
-      "pt": "A 'coleção de selos' de Franklin D. Roosevelt: rotina de relaxamento cognitivo",
-      "id": "Mengoleksi Perangko Franklin D. Roosevelt: Rutinitas Relaksasi Kognitif Penyelamat Otak"
+      "ko": "프랭클린 D. 루스벨트의 '우표 분류': 격무 속 뇌를 구한 인지적 이완 루틴"
     },
     "description": {
-      "ko": "전쟁과 경제 위기의 스트레스 속에서도 매일 밤 우표 분류로 뇌의 긴장을 풀었던 루스벨트 대통령. 숙면과 스트레스 해소를 돕는 인지적 이완의 원리를 알아봅니다.",
-      "en": "How President Roosevelt relieved stress by sorting stamps every night. Discover the science of cognitive shifting that aids deep sleep and stress relief.",
-      "ja": "戦争と経済危機のストレスの中でも毎晩の切手整理で脳を解きほぐしたルーズベルト大統領。睡眠の質を高めストレスを解消する認知的弛緩の原理を紐解きます。",
-      "zh": "罗斯福总统如何在战争与经济危机的巨大压力下，通过每晚整理邮票放松大脑紧张感。介绍有助于深度睡眠与缓解压力的认知放松原理。",
-      "es": "Cómo el presidente Roosevelt aliviaba el estrés clasificando sellos. Descubra la ciencia de la relajación cognitiva para dormir mejor.",
-      "fr": "Comment le président Roosevelt soulageait son stress en triant des timbres. Découvrez la science de la relaxation cognitive pour un meilleur sommeil.",
-      "de": "Wie Präsident Roosevelt durch Briefmarkensortieren Stress abbaute. Erfahren Sie, wie kognitives Abschalten den Schlaf verbessert.",
-      "pt": "Como o presidente Roosevelt aliviava o estresse organizando selos antes de dormir. Conheça a neurociência por trás do relaxamento cognitivo.",
-      "id": "Bagaimana Presiden Roosevelt meredakan stres berat dengan merapikan perangko. Pelajari metode relaksasi kognitif untuk tidur lelap."
+      "ko": "전쟁과 경제 위기의 스트레스 속에서도 매일 밤 우표 분류로 뇌의 긴장을 풀었던 루스벨트 대통령. 숙면과 스트레스 해소를 돕는 인지적 이완의 원리를 알아봅니다."
     },
     "authority": {
-      "ko": "루스벨트 대통령 도서관 및 박물관(FDR Presidential Library)",
-      "en": "FDR Presidential Library and Museum Records",
-      "ja": "ルーズベルト大統領図書館・博物館（FDR Presidential Library）の記録",
-      "zh": "罗斯福总统图书馆与博物馆记录",
-      "es": "Registros de la Biblioteca Presidencial FDR",
-      "fr": "Archives de la Bibliothèque présidentielle FDR",
-      "de": "Aufzeichnungen der FDR Presidential Library",
-      "pt": "Registros da Biblioteca Presidencial FDR",
-      "id": "Arsip Perpustakaan Presidensial FDR"
+      "ko": "Fdr Stamp Collecting 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "역사상 전무후무한 미국 대통령 4선 당선자이자 대공황 극복을 위한 뉴딜 정책을 펼치고 제2차 세계대전을 연합국의 승리로 이끈 위대한 행정가 프랭클린 D. 루스벨트. 그는 온 세계의 운명을 양어깨에 짊어진 채 국가적 위기와 전쟁 지휘라는 인간의 한계를 시험하는 격무 속에 평생을 살았습니다. ✉️\n\n게다가 소아마비로 평생을 휠체어에 의지해야 했던 신체적 고통 속에서도, 그가 항상 밝고 낙관적인 에너지를 잃지 않았던 원천 중 하나는 매일 밤 잠들기 직전에 가졌던 우표 정리 루틴이었습니다. 그는 보좌관들에게 '아무리 비상상황이어도 내 취침 전 30분은 방해하지 말라'고 엄포를 놨습니다. 모든 공문서를 치우고 핀셋과 우표첩을 꺼내 작은 종이 조각들을 대륙별, 발행연도별로 분류하며 그는 전쟁의 소음 속에서 뇌를 완전히 정화했습니다.\n\n오늘 BuildSelf에서는 루스벨트의 '우표 분류' 루틴 속에 숨겨진 脳科学的 원리와 스트레스가 일상을 지배하는 현대인들이 하루를 안전하게 마감하는 아날로그 이완 방법을 알아봅니다.",
-      "en": "Franklin D. Roosevelt, the only 4-term U.S. president who led the New Deal to overcome the Great Depression and guided the Allies to victory in WWII. He lived in heavy duties testing human limits. ✉️\n\nDespite the physical pain of polio, one of the secrets of his bright energy was his stamp sorting routine before bed. He ordered aides not to disturb his 30 minutes before sleep. Clearing documents and sorting small paper pieces by continent and year, he purified his brain from the noise of war.\n\nToday, BuildSelf looks at the brain science behind Roosevelt's 'stamp collecting' routine and how modern people can safely close the day with analog relaxation.",
-      "ja": "史上唯一の米大統領4選達成者であり、大恐慌克服のためのニューディール政策を展開し、第二次世界大戦を連合国の勝利へと導いた偉大な大統領フランクリン・D・ルーズベルト。彼は、国家の危機と戦争指揮という極度のストレスの中で一生を過ごしました。 ✉️\n\nさらに小児麻痺による身体的苦痛の中でも、彼が常に明るく楽観的なエネルギーを保ち続けた秘訣の一つが、毎晩眠る直前の切手整理ルーティンでした。彼は補佐官たちに「いかなる緊急事態であっても、私の就寝前30分は邪魔するな」と厳命していました。すべての公文書を片付け、ピンセットと切手アルバムを取り出し、小さな切手たちを分類しながら、彼は戦争の騒音から脳を完全に解放しました。\n\n今日のBuildSelfでは、ルーズベルトの「切手分類」ルーティンに隠された脳科学的原理と、ストレスにさらされる現代人が一日を穏やかに締めくくるアナログなリラックス方法を紹介します。",
-      "zh": "在这一历史性惯例的实践中： 4 2 D. . . ✉️ 在这一历史性惯例的实践中： , . ' 30 ' . , . 在这一历史性惯例的实践中： BuildSelf ' ' 脳科学的 .",
-      "es": "En la práctica de esta rutina transformadora: 4 2 D. . . ✉️ En la práctica de esta rutina transformadora: , . ' 30 ' . , . En la práctica de esta rutina transformadora: BuildSelf ' ' . Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora: 4 2 D. . . ✉️ Na prática desta rotina transformadora: , . ' 30 ' . , . Na prática desta rotina transformadora: BuildSelf ' ' . Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "\"나는 우표 수집 덕분에 내 삶의 온전한 정신을 지킬 수 있었다.\" ✉️\n\n역사상 전무후무한 미국 대통령 4선 당선자이자 대공황 극복을 위한 뉴딜 정책을 펼치고 제2차 세계대전을 연합국의 승리로 이끈 위대한 행정가 프랭클린 D. 루스벨트. 그는 온 세계의 운명을 양어깨에 짊어진 채 국가적 위기와 전쟁 지휘라는 인간의 한계를 시험하는 격무 속에 평생을 살았습니다.\n\n게다가 소아마비로 평생을 휠체어에 의지해야 했던 신체적 고통 속에서도, 그가 항상 밝고 낙관적인 에너지를 잃지 않았던 원천 중 하나는 매일 밤 잠들기 직전에 가졌던 우표 정리 루틴이었습니다. 그는 보좌관들에게 '아무리 비상상황이어도 내 취침 전 30분은 방해하지 말라'고 엄포를 놨습니다. 모든 공문서를 치우고 핀셋과 우표첩을 꺼내 작은 종이 조각들을 대륙별, 발행연도별로 분류하며 그는 전쟁의 소음 속에서 뇌를 완전히 정화했습니다.\n\n오늘 포스트에서는 루스벨트의 '우표 분류' 루틴 속에 숨겨진 뇌과학적 원리와 스트레스가 일상을 지배하는 현대인들이 하루를 안전하게 마감하는 아날로그 이완 방법을 알아봅니다."
     },
     "whyTitle": {
-      "ko": "과열된 작업 기억을 시키는 인지적 이완",
-      "en": "Cognitive Shifting That Cools Overheated Working Memory",
-      "ja": "過熱したワーキングメモリを冷ます認知的弛緩",
-      "zh": "冷却过度运转的工作记忆的认知放松",
-      "es": "Relajación cognitiva para enfriar la memoria de trabajo",
-      "fr": "Relaxation cognitive pour refroidir la mémoire de travail",
-      "de": "Kognitives Abschalten zur Beruhigung des Arbeitsgedächtnisses",
-      "pt": "Relaxamento cognitivo para acalmar a mente sobrecarregada",
-      "id": "Relaksasi Kognitif untuk Mendinginkan Memori Kerja"
+      "ko": "과열된 작업 기억을 시키는 인지적 이완"
     },
     "whyDesc": {
-      "ko": "중요한 비즈니스 의사결정이나 스트레스가 높은 업무를 수행할 때, 뇌의 전전두엽 피질은 쉴 새 없이 회전하며 막대한 에너지를 소모합니다. 업무가 끝난 후에도 이 긴장이 풀리지 않고 인지적 잔류가 뇌에 남아 있으면 수면 장애를 유발하고 장기적으로 뇌신경 세포를 손상시킵니다.\n\n루스벨트의 우표 분류처럼 업무와 무관한 정밀한 시각-촉각적 취미를 즐기는 것은 뇌에 '안전 신호'를 보내 전두엽의 전반적인 각성 수준을 부드럽게 가라앉힙니다. 뇌과학 연구에 따르면, 이러한 인지적 이완(Cognitive Shifting)은 숙면을 유도하는 멜라토닌과 신체 복구를 돕는 성장 호르몬 방출을 촉진합니다. 즉, 의도적인 아날로그 쉼표를 통해 과열된 뇌를 식혀주는 필수적인 냉각 시스템 역할을 하는 것입니다.",
-      "en": "When executing high-stress tasks, the brain's prefrontal cortex rotates constantly, consuming massive energy. If tension is not relieved after work and cognitive residue remains, it causes sleep disorders and damages neurons long term.\n\nEnjoying non-work visual-tactile hobbies, like Roosevelt's stamp sorting, sends a 'safety signal' to the brain to gently lower the arousal level of the frontal lobe. Studies show that this cognitive shifting promotes melatonin release, aiding deep sleep. It acts as an essential cooling system to cool down the overheated brain.",
-      "ja": "重要な意思決定や高ストレスの業務を行う際、脳の前頭前野は休むことなく回転し、莫大なエネルギーを消費します。業務が終わってもこの緊張が解けず、認知的残留が脳に残っていると、睡眠障害を引き起こし、長期的には脳神経細胞を損傷します。\n\nルーズベルトの切手分類のように、業務とは無関係な精密な視覚・触覚的趣味を楽しむことは、脳に「安全信号」を送り、前頭葉の全体的な覚醒レベルを穏やかに鎮めます。脳科学の研究によると、このような認知的弛緩（Cognitive Shifting）は睡眠を促すメラトニンの放出を刺激し、過熱した脳を冷ます冷却システムとして機能します。",
-      "zh": "在进行高压工作时，大脑前额叶皮层不断运转并消耗巨大能量。如果工作结束后这种紧张感无法消退，残留的认知残留就会引发睡眠障碍，并长期损伤脑神经细胞。\n\n像罗斯福整理邮票一样，体验与工作无关的精细视觉和触觉趣味，能向大脑发送“安全信号”，轻柔地降低前额叶的整体兴奋水平。脑科学研究表明，这种认知放松（Cognitive Shifting）可促进有利于睡眠的褪黑素分泌，起到冷却过度运转的大脑的降温系统作用。",
-      "es": "El cerebro consume gran energía con tareas complejas. Las aficiones táctiles y visuales como ordenar sellos envían una 'señal de seguridad' al cerebro, facilitando la melatonina y actuando como un sistema de refrigeración natural.",
-      "fr": "Le cerveau consomme beaucoup d'énergie avec les tâches complexes. Les loisirs tactiles et visuels comme le tri de timbres envoient un 'signal de sécurité', facilitant la mélatonine et agissant comme un refroidisseur naturel.",
-      "de": "Komplexe Aufgaben verbrauchen viel Energie im präfrontalen Kortex. Hobbys, die Seh- und Tastsinn ansprechen (wie Briefmarken sortieren), signalisieren dem Gehirn Sicherheit und senken das Stressniveau. Dies fördert die Melatoninproduktion.",
-      "pt": "Atividades de alta responsabilidade esgotam a energia do córtex pré-frontal. Dedicar-se a tarefas manuais leves envia 'sinais de segurança' ao cérebro, facilitando a liberação de melatonina e agindo como um resfriador cerebral.",
-      "id": "Pekerjaan stres tinggi menghabiskan energi korteks prefrontal. Melakukan hobi taktil dan visual seperti menyusun perangko mengirimkan ‘sinyal aman’ ke otak, memicu melatonin, dan mendinginkan otak."
+      "ko": "중요한 비즈니스 의사결정이나 스트레스가 높은 업무를 수행할 때, 뇌의 전전두엽 피질은 쉴 새 없이 회전하며 막대한 에너지를 소모합니다. 업무가 끝난 후에도 이 긴장이 풀리지 않고 인지적 잔류가 뇌에 남아 있으면 수면 장애를 유발하고 장기적으로 뇌신경 세포를 손상시킵니다.\n\n루스벨트의 우표 분류처럼 업무와 무관한 정밀한 시각-촉각적 취미를 즐기는 것은 뇌에 '안전 신호'를 보내 전두엽의 전반적인 각성 수준을 부드럽게 가라앉힙니다. 뇌과학 연구에 따르면, 이러한 인지적 이완(Cognitive Shifting)은 숙면을 유도하는 멜라토닌과 신체 복구를 돕는 성장 호르몬 방출을 촉진합니다. 즉, 의도적인 아날로그 쉼표를 통해 과열된 뇌를 식혀주는 필수적인 냉각 시스템 역할을 하는 것입니다."
     },
     "cautionTitle": {
-      "ko": "뇌의 안식을 위해 화면을 끄세요",
-      "en": "Turn off the screen for the rest of the brain",
-      "ja": "脳の休息のために画面を消してください",
-      "zh": "为了大脑的休息，请关闭屏幕",
-      "es": "Apague las pantallas para que el cerebro descanse",
-      "fr": "Éteignez les écrans pour laisser le cerveau se reposer",
-      "de": "Schalten Sie die Bildschirme aus, damit das Gehirn ruhen kann",
-      "pt": "Desligue as telas para dar descanso ao cérebro",
-      "id": "Matikan Layar Ponsel Demi Istirahat Otak"
+      "ko": "뇌의 안식을 위해 화면을 끄세요"
     },
     "cautionDesc": {
-      "ko": "많은 이들이 침대에 누워 스마트폰으로 영상을 보며 쉰다고 착각하지만, 디지털 화면의 블루라이트와 끊임없는 자극 정보는 뇌를 계속해서 각성 상태로 만듭니다. 수면 호르몬인 멜라토닌이 원활히 분비되게 하려면, 취침 전 반드시 아날로그 도구나 事物에 초점을 맞추는 시간을 가져야 합니다.",
-      "en": "Many people mistake looking at a smartphone in bed as resting, but blue light and stimuli from digital screens keep the brain aroused. To smoothly release melatonin, you must take time to focus on analog tools or objects before sleeping.",
-      "ja": "多くの人がベッドに横になってスマートフォンで動画を見ながら休んでいると錯覚しますが、デジタル画面のブルーライトと絶え間ない刺激情報は脳を覚醒状態にし続けます。睡眠ホルモンであるメラトニンを円滑に分泌させるためには、就寝前に必ずアナログな道具や物に焦点を合わせる時間を持つべきです。",
-      "zh": "许多人误以为躺在床上看手机视频是在休息，但数字屏幕的蓝光和持续的刺激信息会让大脑一直处于兴奋状态。为了让褪黑素顺利分泌，睡前必须留出时间专注于实体工具或物品。",
-      "es": "Descansar no es mirar vídeos en el móvil. La luz azul estimula el cerebro. Para liberar melatonina y descansar de verdad, dedique los minutos previos a dormir a herramientas u objetos físicos.",
-      "fr": "Se reposer n'est pas regarder des vidéos sur son téléphone. La lumière bleue stimule le cerveau. Pour libérer de la mélatonine, consacrez du temps à des objets physiques avant de dormir.",
-      "de": "Fernsehen oder Smartphone im Bett ist keine echte Erholung. Das blaue Licht hält das Gehirn wach. Um Melatonin freizusetzen, sollten Sie sich vor dem Schlafen analogen Hobbys oder Gegenständen widmen.",
-      "pt": "Muitos acham que descansam vendo vídeos no celular, mas a luz azul e os estímulos visuais mantêm o cérebro alerta. Para liberar melatonina, dedique-se a tarefas manuais e analógicas antes de deitar.",
-      "id": "Banyak orang mengira melihat ponsel adalah istirahat, padahal sinar biru dan stimulasi digital menjaga otak tetap terjaga. Gunakan aktivitas analog sebelum tidur agar melatonin terlepas."
+      "ko": "많은 이들이 침대에 누워 스마트폰으로 영상을 보며 쉰다고 착각하지만, 디지털 화면의 블루라이트와 끊임없는 자극 정보는 뇌를 계속해서 각성 상태로 만듭니다. 수면 호르몬인 멜라토닌이 원활히 분비되게 하려면, 취침 전 반드시 아날로그 도구나 에 초점을 맞추는 시간을 가져야 합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "집무 문서 치우기 및 경계 설정",
-          "en": "Clear Work Documents and Set Boundaries",
-          "ja": "仕事の文書の整理と境界線の設定",
-          "zh": "清理工作文件并划清界限",
-          "es": "Guardar el trabajo y marcar límites",
-          "fr": "Ranger le travail et marquer des limites",
-          "de": "Arbeitsunterlagen wegräumen und Grenzen ziehen",
-          "pt": "Guardar o trabalho e definir limites",
-          "id": "Simpan Pekerjaan dan Beri Batasan"
+          "ko": "집무 문서 치우기 및 경계 설정"
         },
         "text": {
-          "ko": "침대 주변이나 책상 위에서 일과 연관된 서류, 다이어리, 노트북 등을 보이지 않는 서랍 안으로 치웁니다. 업무 공간과 이완 공간의 물리적 경계를 짓는 필수 행동입니다.",
-          "en": "Clear documents, diaries, and laptops related to work from around the bed or desk into invisible drawers. This is an essential action to set physical boundaries between work and relaxation spaces.",
-          "ja": "ベッド周辺や机の上から、仕事に関連する書類、手帳、ノートパソコンなどを見えない引き出しの中に片付けます。仕事スペースとリラックススペースの物理的な境界線を引くための必須の行動です。",
-          "zh": "将床边或书桌上与工作相关的文件、日记本、笔记本电脑等整理到看不见的抽屉里。这是划分工作空间与放松空间物理界限的必要行动。",
-          "es": "Retire del escritorio o la cama todo papel, agenda o portátil del trabajo. Marcar un límite visual y físico es clave para relajarse.",
-          "fr": "Retirez du bureau ou du lit tout papier, agenda ou ordinateur du travail. Marquer une limite physique est essentiel pour se détendre.",
-          "de": "Räumen Sie alle Arbeitsmaterialien (Unterlagen, Laptop) vom Tisch oder aus der Nähe des Bettes. Dies trennt Arbeit und Entspannung räumlich.",
-          "pt": "Retire da mesa ou de perto da cama documentos, agendas e o notebook do trabalho. Essa separação física ajuda a mudar o registro mental.",
-          "id": "Jauhkan dokumen kerja, buku agenda, dan laptop dari sekitar tempat tidur. Ini penting untuk membatasi ruang kerja dan ruang istirahat."
+          "ko": "침대 주변이나 책상 위에서 일과 연관된 서류, 다이어리, 노트북 등을 보이지 않는 서랍 안으로 치웁니다. 업무 공간과 이완 공간의 물리적 경계를 짓는 필수 행동입니다."
         }
       },
       {
         "name": {
-          "ko": "아날로그 소일거리 선택",
-          "en": "Select Analog Activity",
-          "ja": "アナログな手仕事の選択",
-          "zh": "选择实体手工细活",
-          "es": "Elegir un pasatiempo analógico",
-          "fr": "Choisir un passe-temps analogique",
-          "de": "Analoges Hobby wählen",
-          "pt": "Escolher uma atividade manual",
-          "id": "Pilih Aktivitas Fisik Ringan"
+          "ko": "아날로그 소일거리 선택"
         },
         "text": {
-          "ko": "퍼즐 맞추기, 우표 정리, 드로잉, 악기 손질 등 손끝의 감각을 사용하고 결과를 즉각 눈으로 확인할 수 있는 아날로그 취미 활동을 준비합니다.",
-          "en": "Prepare analog hobby activities where you use the sense of your fingertips and immediately see results, such as solving puzzles, organizing stamps, drawing, or maintaining instruments.",
-          "ja": "パズル、切手の整理、デッサン、楽器のお手入れなど、指先の感覚を使い、結果を即座に目で確認できるアナログな趣味の活動を用意します。",
-          "zh": "准备拼图、整理邮票、手绘、保养乐器等使用指尖感觉且能立即用眼睛确认结果的实体兴趣活动。",
-          "es": "Prepare una actividad analógica y manual que muestre resultados inmediatos: puzles, dibujo, limpiar un instrumento, etc.",
-          "fr": "Préparez une activité analogique et manuelle (puzzles, dessin, entretien d'un instrument, etc.) qui montre des résultats immédiats.",
-          "de": "Wählen Sie ein analoges Hobby, bei dem Sie Ihre Hände benutzen und schnelle Ergebnisse sehen (z. B. Puzzle, Zeichnen).",
-          "pt": "Escolha um hobby manual leve: quebra-cabeças, desenho, limpar um instrumento musical ou organizar objetos.",
-          "id": "Siapkan aktivitas fisik ringan yang melatih motorik jari dan memberikan hasil langsung (seperti puzzle, menggambar, merapikan koleksi)."
+          "ko": "퍼즐 맞추기, 우표 정리, 드로잉, 악기 손질 등 손끝의 감각을 사용하고 결과를 즉각 눈으로 확인할 수 있는 아날로그 취미 활동을 준비합니다."
         }
       },
       {
         "name": {
-          "ko": "30분간의 무목적 몰입",
-          "en": "30 Minutes of Purposeless Focus",
-          "ja": "30分間の目的のない没頭",
-          "zh": "30分钟的无目的沉浸",
-          "es": "30 minutos de concentración sin meta",
-          "fr": "30 minutes de concentration sans but",
-          "de": "30 Minuten zweckfreies Fokussieren",
-          "pt": "30 minutos de foco sem cobrança",
-          "id": "30 Menit Fokus Tanpa Target"
+          "ko": "30분간의 무목적 몰입"
         },
         "text": {
-          "ko": "어떤 생산적 의무나 효율성을 버리고 오직 해당 소일거리의 색상, 촉각, 형태에만 집중하여 30분간 시간을 보냅니다. 마음의 평화와 호흡의 차분함을 유지하는 것에 전념합니다.",
-          "en": "Abandon any productive obligations or efficiency, focus solely on the color, touch, and shape of the activity, and spend 30 minutes. Dedicate yourself to maintaining peace of mind and calm breathing.",
-          "ja": "生産的な義務や効率性を一切捨て、その手仕事の色、感触、形だけに集中して30分間過ごします。心の平和と呼吸の落ち着きを保つことだけに専念します。",
-          "zh": "抛开任何生产性任务或高效率要求，单纯专注于该细活的颜色、触觉和形态，沉浸30分钟。专注于保持内心的平静和呼吸的沉稳。",
-          "es": "Dedique 30 minutos a la tarea sin buscar ser productivo. Concéntrese en texturas, colores y formas, respirando con calma.",
-          "fr": "Consacrez 30 minutes à la tâche sans chercher la productivité. Concentrez-vous sur les textures, couleurs et formes.",
-          "de": "Verbringen Sie 30 Minuten mit dem Hobby, ohne produktiv sein zu wollen. Achten Sie auf Formen und Farben und atmen Sie ruhig.",
-          "pt": "Dedique 30 minutos à atividade sem pressa ou cobrança por resultados. Concentre-se nas texturas e cores, respirando calmamente.",
-          "id": "Lakukan aktivitas selama 30 minutes tanpa memikirkan efisiensi. Nikmati warna, bentuk, dan teksturnya dengan napas yang tenang."
+          "ko": "어떤 생산적 의무나 효율성을 버리고 오직 해당 소일거리의 색상, 촉각, 형태에만 집중하여 30분간 시간을 보냅니다. 마음의 평화와 호흡의 차분함을 유지하는 것에 전념합니다."
         }
       }
     ],
-    "pubDate": "2026-07-02",
-    "updatedDate": "2026-07-02",
     "faqs": [
       {
         "question": {
-          "ko": "스마트폰 게임이나 영상 시청도 인지적 이완에 도움이 되나요?",
-          "en": "Do smartphone games or watching videos help with cognitive relaxation?",
-          "ja": "スマートフォンゲームや動画視聴も認知的な弛緩に役立ちますか？",
-          "zh": "玩手机游戏或刷视频也有助于认知放松吗？",
-          "es": "¿Los juegos de teléfonos o ver videos ayudan a la relajación cognitiva?",
-          "fr": "Les jeux sur smartphone ou le visionnage de vidéos aident-ils à la relaxation cognitive ?",
-          "de": "Helfen Smartphone-Spiele oder Videos beim kognitiven Abschalten?",
-          "pt": "Jogos de celular ou vídeos ajudam no relaxamento cognitivo?",
-          "id": "Apakah bermain game di ponsel atau menonton video membantu relaksasi kognitif?"
+          "ko": "스마트폰 게임이나 영상 시청도 인지적 이완에 도움이 되나요?"
         },
         "answer": {
-          "ko": "그렇지 않습니다. 디지털 화면의 블루라이트와 자극적인 정보 피드는 뇌를 쉬게 하는 것이 아니라 각성 상태를 유지하여 수면 호르몬인 멜라토닌 분비를 방해합니다. 인지적 이완을 위해서는 반드시 아날로그 도구나 事物을 활용해야 합니다.",
-          "en": "No. Blue light and stimulating information feeds from digital screens keep the brain awake rather than letting it rest, disrupting the secretion of the sleep hormone melatonin. For cognitive relaxation, analog tools or physical objects must be used.",
-          "ja": "いいえ、そうではありません。デジタル画面のブルーライトと刺激的な情報のフィードは、脳を休ませるのではなく覚醒状態を維持し、睡眠ホルモンであるメラトニンの分泌を妨げます。認知的な弛緩のためには、必ずアナログの道具や物体を活用する必要があります。",
-          "zh": "并非如此。数码屏幕释放的蓝光和刺激性的信息流不会让大脑得到休息，反而会让其保持清醒状态，从而干扰睡眠激素褪黑素的分泌。若想达到认知放松，必须使用模拟（实体）工具或物品。",
-          "es": "No. La luz azul y los estímulos de las pantallas mantienen al cerebro despierto en lugar de dejarlo descansar, bloqueando la melatonina. Para la relajación cognitiva, se deben usar herramientas analógicas.",
-          "fr": "Non. La lumière bleue et les flux d'informations des écrans maintiennent le cerveau éveillé au lieu de le reposer, bloquant la mélatonine. Pour la relaxation cognitive, vous devez utiliser des outils analogiques.",
-          "de": "Nein. Blaulicht und Reize von Bildschirmen halten das Gehirn wach und stören die Melatoninausschüttung. Verwenden Sie stattdessen analoge Hobbys.",
-          "pt": "Não. A luz azul e o fluxo de informações das telas mantêm o cérebro em estado de alerta em vez de descansá-lo, bloqueando la melatonina. Para relaxar a mente, use ferramentas analógicas.",
-          "id": "Tidak. Cahaya biru dan umpan informasi yang merangsang dari layar digital membuat otak tetap terjaga alih-alih mengistirahatkannya, mengganggu sekresi hormon melatonin. Untuk relaksasi kognitif, alat analog atau objek fisik wajib digunakan."
+          "ko": "그렇지 않습니다. 디지털 화면의 블루라이트와 자극적인 정보 피드는 뇌를 쉬게 하는 것이 아니라 각성 상태를 유지하여 수면 호르몬인 멜라토닌 분비를 방해합니다. 인지적 이완을 위해서는 반드시 아날로그 도구나 을 활용해야 합니다."
         }
       },
       {
         "question": {
-          "ko": "매일 밤 30분이 너무 길게 느껴질 때는 어떻게 하나요?",
-          "en": "What should I do if 30 minutes every night feels too long?",
-          "ja": "毎晩30分が長すぎると感じるときはどうしますか？",
-          "zh": "如果觉得每天晚上三十分钟太长了该怎么办？",
-          "es": "¿Qué hago si 30 minutos cada noche me parece demasiado tiempo?",
-          "fr": "Que faire si 30 minutes chaque soir me semblent trop longues ?",
-          "de": "Was kann ich tun, wenn mir 30 Minuten jeden Abend zu lang vorkommen?",
-          "pt": "O que fazer se 30 minutos todas as noites parecerem tempo demais?",
-          "id": "Apa yang harus saya lakukan jika 30 menit setiap malam terasa terlalu lama?"
+          "ko": "매일 밤 30분이 너무 길게 느껴질 때는 어떻게 하나요?"
         },
         "answer": {
-          "ko": "시간이 부족하다면 단 10분만이라도 좋습니다. 노트북을 덮고 좋아하는 드로잉 북에 낙서를 하거나 가벼운 아날로그 일기를 쓰는 등의 동작을 통해 뇌에 '일과가 끝났다'는 안전 신호만 확실히 피드백해 주어도 효과가 있습니다.",
-          "en": "If time is short, even 10 minutes is fine. Closing your laptop and doing actions like doodling in a drawing book or writing a brief analog diary still works effectively by providing a clear safety feedback signal to the brain that 'the workday is over'.",
-          "ja": "時間が足りなければ、たった10分でも構いません。ノートパソコンを閉じ、お気に入りのドローイングブックに落書きをしたり、軽いアナログ日記を書いたりする動作を通じて、脳に「一日が終わった」という安全信号を確実にフィードバックするだけでも効果があります。",
-          "zh": "如果时间不够，哪怕只有十分钟也行。合上电脑，在画册上涂鸦或者写几行手写日记，通过这些小动作给大脑发出“今天工作已结束”的明确安全信号，同样大有裨益。",
-          "es": "Si le falta tiempo, incluso 10 minutos bastan. Cerrar la laptop y hacer garabatos o escribir un breve diario analógico ayuda enviando una señal clara de que 'el día terminó'.",
-          "fr": "Si le temps manque, 10 minutes suffisent. Fermer l'ordinateur et griffonner ou écrire un court journal analogique aide en envoyant un signal clair que la journée est finie.",
-          "de": "Sollte die Zeit knapp sein, reichen auch 10 Minuten. Laptop schließen, kritzeln oder ein analoges Tagebuch führen, um dem Gehirn das Signal „Feierabend“ zu senden.",
-          "pt": "Se faltar tempo, até 10 minutos são suficientes. Fechar o laptop e rabiscar ou escrever um diário analógico ajuda ao enviar um sinal claro de que 'o dia de trabalho acabou'.",
-          "id": "Jika waktu mepet, bahkan 10 menit saja sudah cukup. Menutup laptop dan mencorat-coret di buku gambar atau menulis buku harian analog singkat tetap efektif memberikan sinyal aman ke otak bahwa 'hari kerja telah selesai'."
+          "ko": "시간이 부족하다면 단 10분만이라도 좋습니다. 노트북을 덮고 좋아하는 드로잉 북에 낙서를 하거나 가벼운 아날로그 일기를 쓰는 등의 동작을 통해 뇌에 '일과가 끝났다'는 안전 신호만 확실히 피드백해 주어도 효과가 있습니다."
         }
       }
     ]

@@ -1,218 +1,72 @@
 {
   "potter-botanical-sketch": {
     "title": {
-      "ko": "'피터 래빗' 저자의 비밀? 비아트릭스 포터의 아침 미시적 자연 관찰 루틴",
-      "en": "Author of 'Peter Rabbit'? Beatrix Potter's Morning Botanical Observation Routine",
-      "ja": "「ピーターラビット」著者の秘密？ビアトリクス・ポターの朝の超微小自然観察ルーティン",
-      "zh": "《彼得兔》作者的秘密？比阿特丽克丝·波特的清晨植物微观观察习惯",
-      "es": "¿La autora de 'Peter Rabbit'? La rutina de observación botánica de Beatrix Potter",
-      "fr": "L'auteure de 'Pierre Lapin' ? La routine d'observation botanique de Beatrix Potter",
-      "de": "Die Autorin von 'Peter Hase'? Beatrix Potters morgendliche Botanik-Beobachtungs-Routine",
-      "pt": "A autora de 'Peter Rabbit'? A rotina de observação botânica de Beatrix Potter",
-      "id": "Penulis 'Peter Rabbit'? Rutinitas Pengamatan Botani Mikro Pagi Beatrix Potter"
+      "ko": "'피터 래빗' 저자의 비밀? 비아트릭스 포터의 아침 미시적 자연 관찰 루틴"
     },
     "description": {
-      "ko": "'피터 래빗'의 저자 비아트릭스 포터가 매일 아침 돋보기로 식물과 이끼의 미세 구조를 세밀 관찰하며 잡념을 끄고 예술적 영감을 키운 뇌과학 습관.",
-      "en": "Discover how Beatrix Potter boosted visual focus and creative genius through morning microscopic nature sketching.",
-      "ja": "「ピーターラビット」の作者ポターが毎朝植物や苔の微細構造を観察し、雑念を消しインスピレーションを育てた習慣を紹介します。",
-      "zh": "介绍《彼得兔》作者波特每天早晨用放大镜细致观察植物与苔藓微观结构、消除杂念并滋养艺术灵感的习惯。",
-      "es": "Descubra cómo Beatrix Potter impulsó su enfoque y genio creativo observando la naturaleza al detalle.",
-      "fr": "Découvrez comment Beatrix Potter a stimulé sa concentration et son génie créatif en observant la nature.",
-      "de": "Erfahren Sie, wie Beatrix Potter durch die Beobachtung mikroskopischer Naturstrukturen Fokus fand.",
-      "pt": "Descubra como Beatrix Potter impulsionou seu foco e genialidade criativa observando a natureza.",
-      "id": "Temukan bagaimana Beatrix Potter meningkatkan fokus dan jenius kreatifnya dengan mengamati alam mikro."
+      "ko": "'피터 래빗'의 저자 비아트릭스 포터가 매일 아침 돋보기로 식물과 이끼의 미세 구조를 세밀 관찰하며 잡념을 끄고 예술적 영감을 키운 뇌과학 습관."
     },
     "authority": {
-      "ko": "린다 리 전기 'Beatrix Potter: A Life in Nature' 및 빅토리아 알버트 박물관 사료",
-      "en": "Linda Lear Biography 'Beatrix Potter: A Life in Nature' & V&A Museum Archives",
-      "ja": "リンダ・リア評伝「Beatrix Potter: A Life in Nature」およびV&A博物館史料",
-      "zh": "琳达·里尔传记《Beatrix Potter: A Life in Nature》与V&A博物馆档案馆史料",
-      "es": "Biografía 'Beatrix Potter: A Life in Nature' de Linda Lear y Archivos del Museo V&A",
-      "fr": "Biographie 'Beatrix Potter: A Life in Nature' par Linda Lear & Archives du V&A Museum",
-      "de": "Linda Lear Biografie 'Beatrix Potter: A Life in Nature' & V&A Museum Archive",
-      "pt": "Biografia 'Beatrix Potter: A Life in Nature' de Linda Lear e Arquivos do Museu V&A",
-      "id": "Biografi Linda Lear 'Beatrix Potter: A Life in Nature' & Arsip Museum V&A"
+      "ko": "비아트릭스 포터 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "전 세계 3억 부 이상 판매되며 세대를 넘어 사랑받는 캐릭터 <피터 래빗(Peter Rabbit)>의 창시자이자 19세기 자연주의 삽화가 및 균류학 연구자, 비아트릭스 포터(Beatrix Potter). 수줍음 많던 영국 빅토리아 시대의 여성인 그녀가 웅장하고 독창적인 동화 세계와 학술적 가치를 지닌 식물 세밀화를 완성한 원동력은 무엇이었을까요? 🐰\n\n비아트릭스 포터는 매일 아침 레이크 디스트릭트의 이끼 낀 들판과 정원으로 나아가 손에 돋보기와 스케치북을 들었습니다. 그녀는 작은 버섯의 포자 구조, 이끼의 질감, 야생 토끼의 미세한 털 흩날림을 돋보기로 수 십 분 동안 정밀 관찰하며 세밀화를 그렸습니다. 미세한 자연물의 감각을 눈으로 좇고 손으로 옮겨 적는 이 초집중 미세 스케치 루틴은 뇌를 외부의 걱정으로부터 완벽히 분리해 내는 고도의 딥 워크 도구였습니다.\n\n오늘 BuildSelf에서는 비아트릭스 포터가 평생 고수한 미세 자연 관찰 및 스케치 루틴에 담긴 우뇌 시공간 감각 활성화와 몰입 유도의 인지과학적 과학을 소개합니다.",
-      "en": "Creator of the beloved classic *The Tale of Peter Rabbit* which has sold over 300 million copies worldwide, Beatrix Potter was also a pioneering natural scientific illustrator and mycologist. Living in Victorian England, how did she cultivate such extraordinary imaginative depth and scientific precision? 🐰\n\nEvery morning in the lush Lake District countryside, Potter stepped into fields with a magnifying glass and sketchbook. She spent undisturbed hours observing microscopic moss structures, fungi spores, and wild rabbit movements, capturing them in delicate watercolors. This tactile, hyper-focused micro-observation routine detached her mind from social anxieties and activated deep right-hemisphere spatial flow.\n\nToday, BuildSelf explores the cognitive science behind Beatrix Potter's botanical sketching routine, demonstrating how micro-nature observation triggers deep focus and sensory restoration.",
-      "ja": "この歴史的習慣の実践において： 3 < (Peter Rabbit)> 19 , (Beatrix Potter). ? 🐰 この歴史的習慣の実践において： . , , . . この歴史的習慣の実践において： BuildSelf .",
-      "zh": "在这一历史性惯例的实践中： 3 < (Peter Rabbit)> 19 , (Beatrix Potter). ? 🐰 在这一历史性惯例的实践中： . , , . . 在这一历史性惯例的实践中： BuildSelf .",
-      "es": "En la práctica de esta rutina transformadora:   3        < (Peter Rabbit)>  19     ,  (Beatrix Potter).                   ? 🐰\n\nEn la práctica de esta rutina transformadora:               .     ,  ,              .                       .\n\nEn la práctica de esta rutina transformadora:  BuildSelf                    .\n\nAl practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina : Creator of the beloved classic *The Tale of Peter Rabbit* which has sold over 300 million copies worldwide, Beatrix Potter was also a pioneering natural scientific illustrator and mycologist. Living in Victorian England, how did she cultivate such extraordinary imaginative depth and scientific precision? 🐰\n\nNa prática desta rotina : Every morning in the lush Lake District countryside, Potter stepped into fields with a magnifying glass and sketchbook. She spent undisturbed hours observing microscopic moss structures, fungi spores, and wild rabbit movements, capturing them in delicate watercolors. This tactile, hyper-focused micro-observation routine detached her mind from social anxieties and activated deep right-hemisphere spatial flow.\n\nNa prática desta rotina : Today, BuildSelf explores the cognitive science behind Beatrix Potter's botanical sketching routine, demonstrating how micro-nature observation triggers deep focus and sensory restoration.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "전 세계 3억 부 이상 판매되며 세대를 넘어 사랑받는 캐릭터 <피터 래빗(Peter Rabbit)>의 창시자이자 19세기 자연주의 삽화가 및 균류학 연구자, 비아트릭스 포터(Beatrix Potter). 수줍음 많던 영국 빅토리아 시대의 여성인 그녀가 웅장하고 독창적인 동화 세계와 학술적 가치를 지닌 식물 세밀화를 완성한 원동력은 무엇이었을까요? 🐰\n\n비아트릭스 포터는 매일 아침 레이크 디스트릭트의 이끼 낀 들판과 정원으로 나아가 손에 돋보기와 스케치북을 들었습니다. 그녀는 작은 버섯의 포자 구조, 이끼의 질감, 야생 토끼의 미세한 털 흩날림을 돋보기로 수 십 분 동안 정밀 관찰하며 세밀화를 그렸습니다. 미세한 자연물의 감각을 눈으로 좇고 손으로 옮겨 적는 이 초집중 미세 스케치 루틴은 뇌를 외부의 걱정으로부터 완벽히 분리해 내는 고도의 딥 워크 도구였습니다.\n\n오늘 포스트에서는 비아트릭스 포터가 평생 고수한 미세 자연 관찰 및 스케치 루틴에 담긴 우뇌 시공간 감각 활성화와 몰입 유도의 인지과학적 과학을 소개합니다."
     },
     "whyTitle": {
-      "ko": "미시적 초점 맞춤(Micro-focused attention)을 통한 DMN 방황 차단과 집행 제어",
-      "en": "Micro-Focused Attention for DMN Wandering Cut & Executive Control",
-      "ja": "超微小焦点合わせによるDMN迷走遮断と執行制御",
-      "zh": "通过微观专注力关停 DMN 大脑杂念与激活执行控制",
-      "es": "Enfoque Micro para Cortar la Mente Vagabunda y Activar el Control Ejecutivo",
-      "fr": "Attention Micro pour Couper le Vagabondage Mental & Activer le Contrôle",
-      "de": "Mikro-Fokussierung zur Abschaltung des Gedankenkarussells & Exekutivkontrolle",
-      "pt": "Foco Micro para Cortar a Mente Vagabunda e Activar o Controle Executivo",
-      "id": "Atensi Fokus Mikro untuk Menghentikan DMN & Mengaktifkan Kontrol Eksekutif"
+      "ko": "미시적 초점 맞춤(Micro-focused attention)을 통한 DMN 방황 차단과 집행 제어"
     },
     "whyDesc": {
-      "ko": "뇌가 과거의 후회나 미래의 걱정으로 산만해지는 것은 디폴트 모드 네트워크(DMN)가 과열되어 방황하기 때문입니다.\n\n포터처럼 사물의 미세한 패턴이나 결에 시선을 바짝 고정하는 <strong>'미시적 초점 훈련'</strong>은 시각적 신호를 집행 제어 네트워크(Executive Network)로 몰아줍니다. 잡념 회로를 온전히 차단하고 뇌를 즉각적인 맑은 평정 상태로 돌려놓습니다.",
-      "en": "Wandering thoughts occur when the Default Mode Network (DMN) overheats with regrets or worries.\n\nFixing vision on micro patterns via <strong>'Micro-Focused Attention'</strong> routes neural power to the Executive Network, silencing mental noise.",
-      "ja": "過去の後悔や未来の心配で頭が散らかるのは、DMN（デフォルト・モード・ネットワーク）が迷走しているためです。\n\n細部をじっと見つめる<strong>「超微小焦点訓練」</strong>は雑念回路を遮断し、脳を清澄な集中状態に戻します。",
-      "zh": "大脑沉浸于过去的反思或未来的焦虑中，是因为“默认模式网络(DMN)”发生了过热漂移。\n\n像波特那样将视线极其紧凑地聚焦于微观纹理与图案的<strong>“微观专注训练”</strong>，能瞬时将大脑控制权交还给执行控制网络，关停杂念。",
-      "es": "La mente vaga cuando la Red por Defecto (DMN) se sobrecalienta con preocupaciones.\n\nFijar la vista en micro patrones mediante el <strong>'Enfoque Micro'</strong> apaga el ruido mental.",
-      "fr": "L'esprit vagabonde lorsque le Réseau par Défaut (DMN) surchauffe.\n\nFixer des micro motifs via l'<strong>'Attention Micro'</strong> éteint le bruit mental.",
-      "de": "Gedanken wandernd wenn das Default Mode Network (DMN) überhitzt.\n\nDas Fixieren von Mikromustern durch <strong>'Mikro-Fokussierung'</strong> schaltet Lärm aus.",
-      "pt": "A mente vaga quando a Rede por Defeito (DMN) superaquece com preocupações.\n\nFixar a visão em micro padrões via <strong>'Foco Micro'</strong> silencia o ruído mental.",
-      "id": "Pikiran melayang saat Default Mode Network (DMN) mengalami kelebihan beban.\n\nMengarahkan pandangan pada pola mikro lewat <strong>'Atensi Fokus Mikro'</strong> menghentikan kebisingan pikiran."
+      "ko": "뇌가 과거의 후회나 미래의 걱정으로 산만해지는 것은 디폴트 모드 네트워크(DMN)가 과열되어 방황하기 때문입니다.\n\n포터처럼 사물의 미세한 패턴이나 결에 시선을 바짝 고정하는 <strong>'미시적 초점 훈련'</strong>은 시각적 신호를 집행 제어 네트워크(Executive Network)로 몰아줍니다. 잡념 회로를 온전히 차단하고 뇌를 즉각적인 맑은 평정 상태로 돌려놓습니다."
     },
     "cautionTitle": {
-      "ko": "멀리 보지 말고 눈앞 사물의 미세 결 하나에 몰입하세요",
-      "en": "Focus on One Micro Detail Right Before You Rather Than the Whole",
-      "ja": "全体ではなく目の前の物の1つの微細な模様に没頭しましょう",
-      "zh": "切勿好高骛远，专注于眼前事物的一处微观纹理",
-      "es": "Concéntrese en un micro detalle frente a usted más que en el todo",
-      "fr": "Concentrez-vous sur un micro détail juste devant vous plutôt que sur le tout",
-      "de": "Konzentrieren Sie sich auf ein Mikro-Detail direkt vor Ihnen",
-      "pt": "Concentre-se em um micro detalhe à sua frente em vez do todo",
-      "id": "Fokuslah pada satu detail mikro di depan Anda daripada keseluruhannya"
+      "ko": "멀리 보지 말고 눈앞 사물의 미세 결 하나에 몰입하세요"
     },
     "cautionDesc": {
-      "ko": "이 관찰 루틴의 핵심은 거창한 예술적 스케치가 아닙니다. 잎사귀 하나, 연필 끝 하나, 혹은 손등의 피부 결을 돋보기로 보듯 미시적으로 탐색하는 그 집중 과정 자체가 뇌를 치유합니다.",
-      "en": "The key is not artistic drawing perfection. It is the micro exploration of a leaf vein or skin texture that heals the brain.",
-      "ja": "目的は絵を上手に描くことではありません。葉脈や皮膚の模様をミクロに探索するプロセス自体が脳を癒やします。",
-      "zh": "本观照习惯的核心绝非绘制精美的图画，而是像拿放大镜般极其专注地探索一片树叶纹理或手背纹理的过程本身，即能疗愈大脑。",
-      "es": "La clave no es dibujar perfecto. Es la exploración micro de una vena de hoja o textura de piel lo que sana el cerebro.",
-      "fr": "La clé n'est pas le dessin parfait. C'est l'exploration d'une veine de feuille qui guérit le cerveau.",
-      "de": "Der Schlüssel ist nicht perfektes Zeichnen. Es ist das mikro-Erkunden einer Blattader, das heilend wirkt.",
-      "pt": "Crie um ambiente de trabalho sem distrações e ajuste a iluminação para manter um alto nível de imersão.",
-      "id": "Kuncinya bukanlah hasil gambar yang sempurna. Ini adalah eksplorasi mikro urat daun yang menyembuhkan otak."
+      "ko": "이 관찰 루틴의 핵심은 거창한 예술적 스케치가 아닙니다. 잎사귀 하나, 연필 끝 하나, 혹은 손등의 피부 결을 돋보기로 보듯 미시적으로 탐색하는 그 집중 과정 자체가 뇌를 치유합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "미시적 관찰 대상 사물 1개 선택",
-          "en": "Select 1 Micro Observation Object",
-          "ja": "超微小観察対象のオブジェクト1つの selected",
-          "zh": "挑选1件微观观照对象",
-          "es": "Seleccionar 1 Objeto para Observación Micro",
-          "fr": "Sélectionner 1 Objet d'Observation Micro",
-          "de": "Auswählen 1 Mikro-Beobachtungsobjekts",
-          "pt": "Selecionar 1 Objeto para Observação Micro",
-          "id": "Pilih 1 Objek Pengamatan Mikro"
+          "ko": "미시적 관찰 대상 사물 1개 선택"
         },
         "text": {
-          "ko": "주변의 나뭇잎, 사과 표면, 나무 결, 혹은 커피 원두 등 디테일이 살아있는 사물 1개를 손에 쥡니다.",
-          "en": "Pick up a detailed object such as a leaf, apple surface, wood grain, or coffee bean in your hand.",
-          "ja": "身近な葉っぱや果物の表面、木目、コーヒー豆など、細部のあるオブジェクトを1つ手に取ります。",
-          "zh": "在身边随手拾起一件细节丰富的物体，如一片树叶、苹果表面、木材纹理或咖啡豆。",
-          "es": "Tome un objeto detallado como una hoja, la superficie de una manzana, grano de madera o café.",
-          "fr": "Prenez un objet détaillé comme une feuille, la peau d'une pomme, du grain de bois ou un grain de café.",
-          "de": "Nehmen Sie einen detaillierten Gegenstand wie ein Blatt, eine Apfelschale oder eine Kaffeebohne in die Hand.",
-          "pt": "Pegue um objeto detalhado como uma folha, a casca de uma maçã, fibra de madeira ou grão de café.",
-          "id": "Ambil satu objek berdetail seperti daun, permukaan apel, serat kayu, atau biji kopi."
+          "ko": "주변의 나뭇잎, 사과 표면, 나무 결, 혹은 커피 원두 등 디테일이 살아있는 사물 1개를 손에 쥡니다."
         }
       },
       {
         "name": {
-          "ko": "3분간의 돋보기 시각 초점 밀착 관찰",
-          "en": "3-Minute Magnifying Visual Focus Close-Up",
-          "ja": "3分間の虫眼鏡視覚焦点密着観察",
-          "zh": "3分钟放大镜式极端视线聚焦观照",
-          "es": "3 Minutos de Observación de Enfoque Visual de Cerca",
-          "fr": "3 Minutes d'Observation Visuelle Rapprochée",
-          "de": "3-minütige Nahbeobachtung mit Fokus",
-          "pt": "3 Minutos de Observação de Foco Visual de Perto",
-          "id": "3 Menit Pengamatan Dekat Fokus Visual Kaca Pembesar"
+          "ko": "3분간의 돋보기 시각 초점 밀착 관찰"
         },
         "text": {
-          "ko": "돋보기를 대듯 눈을 사물 10cm 앞으로 가져가 미세한 선, 질감, 그늘의 변화에 온 신경을 밀착시킵니다.",
-          "en": "Bring your eyes 10cm away as if using a magnifying glass, focusing entirely on fine lines, textures, and subtle shades.",
-          "ja": "虫眼鏡をあてるように目をオブジェクト10cm前まで近づけ、細い線や質感、影の変化に集中します。",
-          "zh": "如拿放大镜般将视线拉近至距离物体10厘米处，将全副注意力粘合于微细线条、质感与阴影渐变上。",
-          "es": "Acerque los ojos a 10cm como con una lupa, concentrándose en líneas finas, texturas y sombras.",
-          "fr": "Approchez vos yeux à 10cm comme avec une loupe, en vous concentrant sur les lignes fines et textures.",
-          "de": "Halten Sie den Gegenstand 10cm vor Ihre Augen und fixieren Sie feine Linien und Texturen.",
-          "pt": "Aproxime os olhos a 10cm como com uma lupa, focando em linhas finas, texturas e sombras.",
-          "id": "Dekatkan mata hingga 10cm seolah pakai kaca pembesar, berfokus pada garis halus dan tekstur."
+          "ko": "돋보기를 대듯 눈을 사물 10cm 앞으로 가져가 미세한 선, 질감, 그늘의 변화에 온 신경을 밀착시킵니다."
         }
       },
       {
         "name": {
-          "ko": "발견한 디테일 1줄 메모 또는 라인 묘사",
-          "en": "Record 1 Detail Observation Note or Line Sketch",
-          "ja": "発見したディテール1行メモまたはライン描写",
-          "zh": "用1行文字或简单线条记录细微发现",
-          "es": "Registre 1 Nota de Detalle o Boceto de Líneas",
-          "fr": "Notez 1 Détail Observé ou Dessinez une Ligne",
-          "de": "Halten Sie 1 Detailnotiz oder Skizze fest",
-          "pt": "Registre 1 Nota de Detalhe ou Esboço de Linhas",
-          "id": "Catat 1 Detail Temuan atau Gambarkan Garis Sederhana"
+          "ko": "발견한 디테일 1줄 메모 또는 라인 묘사"
         },
         "text": {
-          "ko": "관찰 직후 '잎사귀 뒤편 미세 가시 패턴'처럼 새로 발견한 관찰 사실을 노트에 1줄로 기재합니다.",
-          "en": "Right after observing, record 1 new detail fact like 'Microspines on the leaf back' in your journal.",
-          "ja": "観察直後、「葉の裏の微細な棘のパターン」のように新しく発見した観察事実をノートに1行記録します。",
-          "zh": "观照结束后，在记录本上写下1行新发现的细节描述，如“叶片背面的微小绒毛排列结构”。",
-          "es": "Justo después de observar, anote 1 detalle descubierto como 'Patrón de microespinas en el envés de la hoja'.",
-          "fr": "Juste après l'observation, notez 1 détail découvert comme 'Motif de micro-épines sous la feuille'.",
-          "de": "Halten Sie direkt nach der Beobachtung 1 Detail fest wie 'Mikrodornen auf der Blattrückseite'.",
-          "pt": "Logo após observar, anote 1 detalhe descoberto como 'Padrão de microespinhas no verso da folha'.",
-          "id": "Segera setelah mengamati, catat 1 detail temuan baru seperti 'Pola duri mikro di belakang daun'."
+          "ko": "관찰 직후 '잎사귀 뒤편 미세 가시 패턴'처럼 새로 발견한 관찰 사실을 노트에 1줄로 기재합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "그림을 잘 그리지 못하는데도 스케치를 해야 하나요?",
-          "en": "Do I need to draw even if I can't sketch well?",
-          "ja": "絵を上手く描けなくてもスケッチをする必要がありますか？",
-          "zh": "画画不好也必须要进行线条描绘草图吗？",
-          "es": "¿Tengo que dibujar aunque no sepa abocetar bien?",
-          "fr": "Dois-je dessiner même si je ne sais pas dessiner ?",
-          "de": "Muss ich skizzieren, auch wenn ich nicht gut zeichnen kann?",
-          "pt": "Preciso desenhar mesmo se não souber esboçar bem?",
-          "id": "Apakah harus menggambar meskipun tidak pandai sketsa?"
+          "ko": "그림을 잘 그리지 못하는데도 스케치를 해야 하나요?"
         },
         "answer": {
-          "ko": "아닙니다! 그림 대신 발견한 특징을 텍스트로 적어도 관찰에 뇌가 몰입되는 효과는 100% 동일합니다.",
-          "en": "No! Writing down discovered details as text provides the exact same 100% brain focus benefits.",
-          "ja": "いいえ！絵の代わりに発見した特徴をテキストで書き留めても、脳が没頭する効果は100%同じです。",
-          "zh": "完全不必！用文字写下观察到的特征，引发大脑深度专注与消除杂念的效果是 100% 相同的。",
-          "es": "¡No! Escribir los detalles descubiertos en texto ofrece exactamente los mismos beneficios de enfoque.",
-          "fr": "Non ! Écrire les détails observés sous forme de texte offre exactement les mêmes bienfaits.",
-          "de": "Nein! Das Aufschreiben entdeckter Details in Textform bringt genau denselben Fokus-Effekt.",
-          "pt": "Não! Escrever os detalhes descobertos em texto oferece exatamente os mesmos benefícios de foco.",
-          "id": "Tidak! Menuliskan detail temuan dalam teks memberikan manfaat fokus otak yang 100% sama."
+          "ko": "아닙니다! 그림 대신 발견한 특징을 텍스트로 적어도 관찰에 뇌가 몰입되는 효과는 100% 동일합니다."
         }
       },
       {
         "question": {
-          "ko": "사무실이나 실내에서도 자연물 대신 적용할 수 있나요?",
-          "en": "Can I apply this indoors or in an office using non-natural objects?",
-          "ja": "オフィスや室内でも自然物の代わりに適用できますか？",
-          "zh": "在办公室或室内可以用非自然物品替代执行吗？",
-          "es": "¿Se puede aplicar en interiores u oficinas usando objetos no naturales?",
-          "fr": "Peut-on l'appliquer en intérieur ou au bureau avec des objets burocratiques ?",
-          "de": "Kann man dies im Büro mit nicht-natürlichen Gegenständen anwenden?",
-          "pt": "Pode-se aplicar em ambientes fechados usando objetos não naturais?",
-          "id": "Apakah bisa diterapkan di kantor menggunakan benda non-alami?"
+          "ko": "사무실이나 실내에서도 자연물 대신 적용할 수 있나요?"
         },
         "answer": {
-          "ko": "네, 만년필 촉의 미세 홈, 종이 재질 결, 가죽 지갑의 재봉선 등 미세한 질감이 있는 모든 인공물에서도 뛰어난 몰입 효과를 얻을 수 있습니다.",
-          "en": "Yes! Fountain pen nibs, paper texture grain, or leather stitching provide excellent micro-focus.",
-          "ja": "はい、万年筆のペン先や紙の繊維、革製品の縫い目など微細な質感がある全ての人工物で効果が得られます。",
-          "zh": "当然可以！钢笔尖的微小缝隙、纸张纤维纹理或皮革包的皮缝线，凡具备微观质感的事物均有极佳效果。",
-          "es": "¡Sí! El plumín de una estilográfica, la textura del papel o las costuras de cuero funcionan de maravilla.",
-          "fr": "Oui ! La plume d'un stylo, le grain du papier ou les coutures d'un cuir offrent une excellente focalisation.",
-          "de": "Ja! Füllfederhalter-Federn, Papierfasern oder Ledernähte bieten hervorragende Mikro-Fokussierung.",
-          "pt": "Sim! A pena de uma caneta, a textura do papel ou as costuras de couro oferecem excelente foco.",
-          "id": "Tentu! Ujung pena, serat kertas, atau jahitan kulit memberikan fokus mikro yang sangat baik."
+          "ko": "네, 만년필 촉의 미세 홈, 종이 재질 결, 가죽 지갑의 재봉선 등 미세한 질감이 있는 모든 인공물에서도 뛰어난 몰입 효과를 얻을 수 있습니다."
         }
       }
-    ],
-    "pubDate": "2026-05-15",
-    "updatedDate": "2026-05-15"
+    ]
   }
 }

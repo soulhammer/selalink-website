@@ -1,194 +1,64 @@
 {
   "ieyasu-herb-grinding": {
     "title": {
-      "ko": "인내와 평정심을 기르는 리듬: 도쿠가와 이에야스의 생약 조제 루틴",
-      "en": "Rhythm of Patience and Serenity: Tokugawa Ieyasu's Herb Grinding Routine",
-      "ja": "忍耐と平穏を養うリズム：徳川家康の生薬調製ルーティン",
-      "zh": "磨砺心志与耐心的律动：德川家康的生药研磨惯例",
-      "es": "Ritmo de Paciencia y Serenity: La Rutina de Molienda de Hierbas de Tokugawa Ieyasu",
-      "fr": "Le rythme de la patience et de la sérénité : la routine de broyage d'herbes de Tokugawa Ieyasu",
-      "de": "Rhythmus von Geduld und Gelassenheit: Tokugawa Ieyasus Routine des Kräutermahlens",
-      "pt": "Ritmo de Paciência e Serenidade: A Rotina de Moagem de Ervas de Tokugawa Ieyasu",
-      "id": "Ritme Kesabaran dan Ketenangan: Rutinitas Menggiling Herbal Tokugawa Ieyasu"
+      "ko": "인내와 평정심을 기르는 리듬: 도쿠가와 이에야스의 생약 조제 루틴"
     },
     "description": {
-      "ko": "도쿠가와 이에야스의 정신 수양법. 매일 생약을 직접 약사발에 가던 리듬 운동의 세로토닌 신경조절 효과를 다룹니다.",
-      "en": "Tokugawa Ieyasu's mental cultivation. Discusses the serotonin neuromodulation effects of the daily routine of grinding herbs in a mortar.",
-      "ja": "徳川家康の精神修養法。毎日生薬をすり鉢で挽くリズム運動がもたらすセロトニン調節効果を解説します。",
-      "zh": "德川家康的修心之法。探讨每日亲自在药钵中研磨生药的律动运动，对促进血清素调节的科学效应。",
-      "es": "El cultivo mental de Tokugawa Ieyasu. Analiza el efecto de la modulación de serotonina al moler hierbas diariamente.",
-      "fr": "La discipline mentale de Tokugawa Ieyasu. Analyse les effets de la sérotonine lors du broyage quotidien d'herbes.",
-      "de": "Tokugawa Ieyasus geistige Kultivierung. Erklärt die Wirkung der Serotonin-Neuromodulation beim täglichen Kräutermahlen.",
-      "pt": "O cultivo mental de Tokugawa Ieyasu. Discute os efeitos da neuromodulação da serotonina ao moer ervas diariamente.",
-      "id": "Metode kedisiplinan mental Tokugawa Ieyasu. Membahas efek neuromodulasi serotonin dari rutinitas menggiling herbal."
+      "ko": "도쿠가와 이에야스의 정신 수양법. 매일 생약을 직접 약사발에 가던 리듬 운동의 세로토닌 신경조절 효과를 다룹니다."
     },
     "authority": {
-      "ko": "도쿠가와 이에야스의 약재 수집 기록 역사 문서 및 리듬 운동(Rhythmic Motor Activity)과 세로토닌 신경조절 연구",
-      "en": "Historical documents on Tokugawa Ieyasu's herb collection & Research on Rhythmic Motor Activity and Serotonin Neuromodulation",
-      "ja": "徳川家康の薬材収集記録に関する歴史文書、およびリズム運動（Rhythmic Motor Activity）とセロトニン神経調節に関する研究",
-      "zh": "关于德川家康药材收集记载的历史文献，与关于律动运动（Rhythmic Motor Activity）及血清素神经调节的研究",
-      "es": "Documentos históricos sobre la colección de hierbas de Tokugawa Ieyasu e investigación sobre la actividad motora rítmica y la neuromodulación de la serotonina",
-      "fr": "Documents historiques sur la collection d'herbes de Tokugawa Ieyasu & recherche sur l'activité motrice rythmique et la neuromodulation de la sérotonine",
-      "de": "Historische Dokumente über Tokugawa Ieyasus Kräutersammlung & Forschung zu rhythmischen Bewegungsaktivitäten und Serotonin-Neuromodulation",
-      "pt": "Documentos históricos sobre a coleção de ervas de Tokugawa Ieyasu e pesquisas sobre atividade motora rítmica e neuromodulação da serotonina",
-      "id": "Dokumen sejarah tentang koleksi herbal Tokugawa Ieyasu & Penelitian tentang Aktivitas Motorik Ritmis dan Neuromodulasi Serotonin"
+      "ko": "Ieyasu Herb Grinding 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "일본 전국시대의 혼란을 통일한 도쿠가와 이에야스. 그가 격변기 속에서 74세까지 장수하며 에도 막부의 시대를 열 수 있었던 건강과 감정 조절의 비결은 매일 직접 생약을 갈아 처방하던 루틴이었습니다.",
-      "en": "Tokugawa Ieyasu unified the Warring States period of Japan. His secret to longevity and founding the Edo Shogunate was his daily routine of grinding and prescribing herbs himself.",
-      "ja": "この歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持続可能な深い集中力を養うことができます。",
-      "zh": "通过每天系统地实践这一历史性惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
-      "es": "Tokugawa Ieyasu preparaba sus propias medicinas moliendo hierbas en un mortero. Este hábito manual le proporcionó una estimulación táctil que calmó su sistema nervioso y agudizó su enfoque estratégico durante momentos de alta tensión política.",
-      "fr": "Tokugawa Ieyasu préparait ses propres remèdes en broyant des herbes. Ce travail manuel lui apportait une stimulation tactile qui calmait son système nerveux lors des tensions politiques.",
-      "de": "Tokugawa Ieyasu stellte seine eigenen Medikamente her, indem er Kräuter in einem Mörser zerrieb. Diese manuelle Arbeit verschaffte ihm eine taktile Stimulation, die sein Nervensystem beruhigte.",
-      "pt": "Tokugawa Ieyasu preparava seus próprios remédios moendo ervas num almofariz. Este hábito manual proporcionou uma estimulação tátil que acalmou seu sistema nervoso durante momentos de tensão.",
-      "id": "Tokugawa Ieyasu menyiapkan obat-obatannya sendiri dengan menumbuk bahan di lesung. Kebiasaan manual ini memberikan stimulasi taktil yang menenangkan sistem sarafnya."
+      "ko": "\"사람의 일생은 무거운 짐을 지고 먼 길을 가는 것과 같다. 서두르지 말고 아침마다 절구공이를 잡아 약초를 가니, 흐트러진 호흡이 다스려지고 비로소 천하를 인내할 평정심이 생긴다.\" \n\n일본 전국시대의 극심한 난세를 종식시키고 250년간 지속된 평화의 상징 에도 막부를 세운 도쿠가와 이에야스. 그는 오랜 인질 생활, 전장에서 살아남기 위한 극한의 긴장 상태, 그리고 신하들의 배신과 수많은 외적 위협 속에서 평생을 살았습니다. 동시대를 풍미했던 라이벌 오다 노부나가, 도요토미 히데요시 등 쟁쟁한 천재 장군들을 물리치고 최후의 승자가 된 이에야스의 비결은 철저한 자기 관리와 건강, 그리고 기다릴 줄 아는 '인내의 힘'이었습니다. 그는 동시대 인물 중 가장 장수(73세)했는데, 이 영광 뒤에는 매일 아침 거르지 않았던 독특한 자가 건강 의식인 '생약 조제 루틴'이 있었습니다.\n\n현대인들은 매일 끝없는 선택과 예측하기 어려운 스트레스, 불안정한 환경에 직면해 마음의 평화를 잃기 쉽습니다. 이에야스는 전국 각지에서 모은 약재를 아침마다 절구를 사용해 직접 일정한 속도로 갈아내며, 약을 짓는 실질적인 목표를 달성함과 동시에 뇌의 감정 상태를 다스렸습니다. 뇌과학적으로 일정한 리듬을 지닌 반복적인 신체 운동은 뇌의 평정심 신경전달체계인 세로토닌을 자극하는 아주 훌륭한 감정 피드백 수련입니다.\n\n오늘 포스트에서는 도쿠가와 이에야스가 최후의 생존자가 되기 위해 매일 실천했던 생약 조제 루틴 속에 담긴 리듬 운동의 인지과학적 효과를 파헤치고, 현대인이 불안을 제어하고 흔들리지 않는 평정심과 통제력을 확보할 수 있는 3단계 실천 방안을 제시합니다."
     },
     "whyTitle": {
-      "ko": "리듬 운동과 세로토닌 활성화를 통한 전두엽 지향적 인내력 제어",
-      "en": "Rhythmic Motor Activity and Serotonin Activation for Prefrontal Patience Control",
-      "ja": "リズム運動とセロトニン活性化による前頭葉指向的忍耐力制御",
-      "zh": "律动运动与血清素激活促进前额叶定向耐力控制的机制",
-      "es": "Actividad Motora Rítmica y Activación de Serotonina para el Control de la Paciencia Prefrontal",
-      "fr": "Activité motrice rythmique et activation de la sérotonine pour le contrôle de la patience préfrontale",
-      "de": "Rhythmische motorische Aktivität und Serotoninaktivierung zur präfrontalen Geduldssteuerung",
-      "pt": "Atividade Motora Rítmica e Ativação de Serotonina para o Controle da Paciência Pré-frontal",
-      "id": "Aktivitas Motorik Ritmis dan Aktivasi Serotonin untuk Kontrol Kesabaran Prefrontal"
+      "ko": "리듬 운동과 세로토닌 활성화를 통한 전두엽 지향적 인내력 제어"
     },
     "whyDesc": {
-      "ko": "생리학적으로 일정한 속도와 압력으로 반복되는 신체 활동인 '리듬 운동'은 세로토닌 방출률을 극대화하여 충동성을 제어하고 평정심을 조절합니다.",
-      "en": "Physiologically, Rhythmic Motor Activity stimulates serotonin release, controlling impulsivity and regulating composure.",
-      "ja": "生理学的に、一定の速度と圧力で繰り返されるリズム運動はセロトニンの放出率を最大化し、感情の急激な変動を抑えて平穏を保ちます。",
-      "zh": "从生理学角度来看，以一定速度和压力重复进行的律动运动能促进大脑分泌血清素，从而平息情绪并保持内心的平静。",
-      "es": "Las tareas motoras finas y repetitivas desvían la atención de los factores estresantes cognitivos, reduciendo la actividad de la amígdala. El contacto físico y el ritmo constante estimulan la producción de ondas alfa, induciendo un estado de calma atenta.",
-      "fr": "Les tâches motrices fines et répétitives détournent l'attention des facteurs de stress, réduisant l'activité de l'amygdale. Le rythme régulier stimule la production d'ondes alpha.",
-      "de": "Feinmotorische und repetitive Aufgaben lenken die Aufmerksamkeit von kognitiven Stressoren ab und reduzieren die Aktivität der Amygdala. Der stete Rhythmus fördert die Produktion von Alpha-Wellen.",
-      "pt": "Tarefas motoras finas e repetitivas desviam a atenção dos estressores cognitivos, reduzindo a atividade da amígdala. O ritmo constante estimula a produção de ondas alfa.",
-      "id": "Tugas motorik halus dan repetitif mengalihkan perhatian dari pemicu stres kognitif, mengurangi aktivitas amigdala. Ritme yang stabil merangsang produksi gelombang alfa."
+      "ko": "생리학적으로 일정한 속도와 압력으로 반복되는 신체 활동인 '리듬 운동'은 세로토닌 방출률을 극대화하여 충동성을 제어하고 평정심을 조절합니다. 신경과학적 연구에 따르면 이 행동은 편도체의 불필요한 불안 반응을 억제하고 시공간 스케치북 회로를 활성화하여 장기 집행 기능을 획기적으로 향상시킵니다."
     },
     "cautionTitle": {
-      "ko": "흔들리지 않는 평정심을 위한 이에야스의 한마디",
-      "en": "Ieyasu's Word for Unshakeable Composure",
-      "ja": "揺るぎない平穏のための徳川家康の言葉",
-      "zh": "德川家康关于坚毅平心静气的寄语",
-      "es": "Un Mensaje de Ieyasu para la Compostura Inquebrantable",
-      "fr": "Un Mot d'Ieyasu pour une Sérénité Inébranlable",
-      "de": "Ieyasus Rat für unerschütterliche Gelassenheit",
-      "pt": "Um Conselho de Ieyasu para a Compostura Inabalável",
-      "id": "Nasihat Ieyasu untuk Ketenangan yang Kokoh"
+      "ko": "흔들리지 않는 평정심을 위한 이에야스의 한마디"
     },
     "cautionDesc": {
-      "ko": "인생은 무거운 짐을 지고 먼 길을 가는 것과 같습니다. 마음이 조급해지고 불안할 때는 가만히 앉아 일정한 속도로 물건을 갈거나 단순한 리듬에 집중해 보십시오.",
-      "en": "Life is like walking a long road carrying a heavy burden. When you feel rushed, sit quietly and focus on a simple rhythm by grinding something.",
-      "ja": "人の一生は重荷を負うて遠き道を行くが如し。心が焦り不安なときは、静かに座って一定の速度ですり潰したり単純なリズムに集中してみてください。",
-      "zh": "人生犹如负重致远，切勿急躁。心烦意乱之时，不妨静坐下来，专注于规律研磨的简单节奏中。",
-      "es": "No realice la tarea con prisa. Para obtener los beneficios neurológicos, concéntrese en el proceso físico, la textura de los materiales y la precisión de sus movimientos corporales.",
-      "fr": "Ne vous pressez pas. Pour obtenir les bienfaits neurologiques, concentrez-vous sur le processus physique, la texture des matériaux et la précision de vos mouvements.",
-      "de": "Führen Sie die Aufgabe nicht in Eile aus. Konzentrieren Sie sich auf den physischen Prozess, die Textur der Materialien und die Präzision Ihrer Bewegungen.",
-      "pt": "Não realize a tarefa com pressa. Para obter os benefícios neurológicos, concentre-se no processo físico, na textura dos materiais e na precisão dos movimentos corporais.",
-      "id": "Jangan lakukan tugas ini dengan tergesa-gesa. Untuk mendapatkan manfaat neurologis, fokuslah pada proses fisik dan presisi gerakan Anda."
+      "ko": "인생은 무거운 짐을 지고 먼 길을 가는 것과 같습니다. 마음이 조급해지고 불안할 때는 가만히 앉아 일정한 속도로 물건을 갈거나 단순한 리듬에 집중해 보십시오. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "나만의 '건강 처방' 생약재 선별과 세팅",
-          "en": "Selecting and Setting Up Your Own 'Health Prescription' Herbs",
-          "ja": "自分だけの「健康処方」生薬の選別とセッティング",
-          "zh": "挑选与配置属于自己的“健康处方”生药",
-          "es": "Seleccionar y Configurar sus Propias Hierbas de Receta",
-          "fr": "Sélection et Préparation des Herbes de Votre « Remède Personnel »",
-          "de": "Auswahl und Vorbereitung der Kräuter für die eigene Rezeptur",
-          "pt": "Selecionar e Preparar Suas Próprias Ervas de Receita",
-          "id": "Pilih dan Siapkan Campuran Herbal Harian Anda"
+          "ko": "나만의 '건강 처방' 생약재 선별과 세팅"
         },
         "text": {
-          "ko": "매일 오전, 차로 우려 마실 말린 찻잎이나 한약재 등을 사발에 정돈하여 준비합니다.",
-          "en": "Every morning, prepare dried tea leaves or herbs in a scale or bowl.",
-          "ja": "毎日午前中、お茶にして飲むための乾燥茶葉や漢方薬材を器に準備します。",
-          "zh": "每天上午，准备适量用于泡茶的干燥茶叶或养生草药并放入药钵中。",
-          "es": "Every morning, prepare dried tea leaves or herbs in a scale or bowl.",
-          "fr": "Every morning, prepare dried tea leaves or herbs in a scale or bowl.",
-          "de": "Every morning, prepare dried tea leaves or herbs in a scale or bowl.",
-          "pt": "Every morning, prepare dried tea leaves or herbs in a scale or bowl.",
-          "id": "Every morning, prepare dried tea leaves or herbs in a scale or bowl."
+          "ko": "매일 오전, 차로 우려 마실 말린 찻잎이나 한약재 등을 사발에 정돈하여 준비합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
         }
       },
       {
         "name": {
-          "ko": "약사발과 절구를 활용한 리듬감 있는 갈기",
-          "en": "Rhythmic Grinding Using Mortar and Pestle",
-          "ja": "薬鉢や薬研を活用したリズム感のあるすり潰し",
-          "zh": "利用药钵与乳棒进行律动研磨",
-          "es": "Molienda Rítmica con Mortero y Pilón",
-          "fr": "Broyage Rythmique Dans un Mortier avec un Pilon",
-          "de": "Rhythmisches Mahlen mit Mörser und Stößel",
-          "pt": "Moagem Rítmica Usando Almofariz e Pistilo",
-          "id": "Menggiling Secara Ritmis Menggunakan Ulekan dan Wadah"
+          "ko": "약사발과 절구를 활용한 리듬감 있는 갈기"
         },
         "text": {
-          "ko": "일정하고 부드럽게 누르며 5분 동안 약재를 곱게 갈아내며 원형 운동에만 집중합니다.",
-          "en": "Grind the herbs clockwise gently for 5 minutes, focusing entirely on the circular motion.",
-          "ja": "時計回りに円を描くように一定のペースで優しく5分間すり潰し、その円運動にのみ集中します。",
-          "zh": "顺时针画圆，以均匀的力量温柔地磨碎药材，持续5分钟，专注于指尖感受的阻力。",
-          "es": "Grind the herbs clockwise gently for 5 minutes, focusing entirely on the circular motion.",
-          "fr": "Grind the herbs clockwise gently for 5 minutes, focusing entirely on the circular motion.",
-          "de": "Grind the herbs clockwise gently for 5 minutes, focusing entirely on the circular motion.",
-          "pt": "Grind the herbs clockwise gently for 5 minutes, focusing entirely on the circular motion.",
-          "id": "Grind the herbs clockwise gently for 5 minutes, focusing entirely on the circular motion."
+          "ko": "일정하고 부드럽게 누르며 5분 동안 약재를 곱게 갈아내며 원형 운동에만 집중합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
         }
       },
       {
         "name": {
-          "ko": "나만의 차 복용과 호흡 정리",
-          "en": "Consuming Your Own Tea and Regulating Breath",
-          "ja": "自分だけの茶の服用と呼吸の整理",
-          "zh": "服用自制茶饮并匀速呼吸",
-          "es": "Consumir su Propio Té y Regular la Respiración",
-          "fr": "Consommation de Votre Thé et Apaisement de la Respiration",
-          "de": "Konsumieren des eigenen Tees und Regulierung der Atmung",
-          "pt": "Consumir Seu Próprio Chá e Regular a Respiração",
-          "id": "Minum Seduhan Teh Anda dan Atur Napas"
+          "ko": "나만의 차 복용과 호흡 정리"
         },
         "text": {
-          "ko": "따뜻한 물을 부어 우려낸 후, 천천히 냄새를 맡고 음미하며 마십니다.",
-          "en": "Pour warm water over the ground herbs or tea leaves, and sip slowly while regulating breathing.",
-          "ja": "温かいお湯を注いで淹れた後、ゆっくりと香りを味わいながら飲み、呼吸を整えます。",
-          "zh": "在研磨好的茶叶中冲入温水，慢慢闻香并细细品饮，调匀呼吸。",
-          "es": "Pour warm water over the ground herbs or tea leaves, and sip slowly while regulating breathing.",
-          "fr": "Pour warm water over the ground herbs or tea leaves, and sip slowly while regulating breathing.",
-          "de": "Pour warm water over the ground herbs or tea leaves, and sip slowly while regulating breathing.",
-          "pt": "Pour warm water over the ground herbs or tea leaves, and sip slowly while regulating breathing.",
-          "id": "Pour warm water over the ground herbs or tea leaves, and sip slowly while regulating breathing."
+          "ko": "따뜻한 물을 부어 우려낸 후, 천천히 냄새를 맡고 음미하며 마십니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "스스로 약을 갈아 만드는 행위가 정서 안정에 어떤 도움을 주나요?",
-          "en": "How does the act of grinding your own medicine help stabilize emotions?",
-          "ja": "自分で生薬をすり潰す行為が、情緒の安定にどのように役立ちますか？",
-          "zh": "亲自研磨生药的行为如何帮助稳定情绪？",
-          "es": "¿Cómo ayuda a estabilizar las emociones el hecho de moler su propia medicina?",
-          "fr": "En quoi le fait de broyer soi-même son remède aide-t-il à stabiliser les émotions ?",
-          "de": "Wie hilft das Mahlen der eigenen Medizin, Emotionen zu stabilisieren?",
-          "pt": "Como o ato de moer o próprio remédio ajuda a estabilizar as emoções?",
-          "id": "Bagaimana aktivitas menggiling obat sendiri membantu menstabilkan emosi?"
+          "ko": "스스로 약을 갈아 만드는 행위가 정서 안정에 어떤 도움을 주나요?"
         },
         "answer": {
-          "ko": "일정한 속도로 반복되는 움직임은 세로토닌 시스템을 활성화하고 인지적 몰입을 유도하여 불안감을 차단하기 때문입니다.",
-          "en": "Repeated movement with steady speed activates the brain's serotonin system, improving mood and blocking anxiety about the future.",
-          "ja": "一定の速度で繰り返される動きは、脳のセロトニンシステムを活性化して気分を改善し、未来に対する不安感を遮断するためです。",
-          "zh": "因为以规律速度重复进行的动作能激活大脑的血清素系统，改善情绪并阻断对未来的焦虑感。",
-          "es": "Repeated movement with steady speed activates the brain's serotonin system, improving mood and blocking anxiety about the future.",
-          "fr": "Repeated movement with steady speed activates the brain's serotonin system, improving mood and blocking anxiety about the future.",
-          "de": "Repeated movement with steady speed activates the brain's serotonin system, improving mood and blocking anxiety about the future.",
-          "pt": "Repeated movement with steady speed activates the brain's serotonin system, improving mood and blocking anxiety about the future.",
-          "id": "Repeated movement with steady speed activates the brain's serotonin system, improving mood and blocking anxiety about the future."
+          "ko": "일정한 속도로 반복되는 움직임은 세로토닌 시스템을 활성화하고 인지적 몰입을 유도하여 불안감을 차단하기 때문입니다."
         }
       }
-    ],
-    "pubDate": "2026-04-01",
-    "updatedDate": "2026-04-01"
+    ]
   }
 }

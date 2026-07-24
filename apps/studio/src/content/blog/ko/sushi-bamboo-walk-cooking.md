@@ -1,14 +1,14 @@
 ---
 title: "유배지의 절망을 이겨낸 대문호? 소동파의 아침 대나무 산책 & 요리 이완 루틴"
 description: "북송의 천재 문인 소동파가 거듭된 유배지 시련 속에서도 아침 대나무 숲 산책과 요리로 마음을 비우고 세기의 낙천주의를 완성한 회복탄력성 습관."
-pubDate: "2026-06-24"
-updatedDate: "2026-06-24"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/sushi_bamboo_walk_cooking.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/sushi_bamboo_walk_cooking.png"
 app: "buildself"
 formatVersion: 4
-authority: "소동파 시문집 '동파전집(東坡全集)' 및 임어당 저 '소동파전'"
+authority: "소동파 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "아침 10분 자연 리셋 산책"
     text: "아침 시간 가까운 공원, 나무 길, 혹은 집 주변을 걸으며 머릿속의 복잡한 정서적 응어리를 바람에 날려 보냅니다."
@@ -21,9 +21,8 @@ faqs:
     answer: "네! 복잡한 요리가 아닙니다. 따뜻한 드립 커피를 내리거나 계란 프라이 하나를 정성껏 굽는 미니 조리만으로도 충분합니다."
   - question: "정말 손으로 요리하는 행위가 스트레스를 줄여주나요?"
     answer: "작업치료학 연구에 따르면 손을 사용해 완성품을 만들어내는 식재료 다듬기는 우울감을 유도하는 뇌 신호를 억제하고 자존감을 회복시키는 효과가 검증되어 있습니다."
----
 
-<적벽부(赤壁賦)> 등의 명작을 남긴 북송 시대 최고의 시인이자 정치가, 그리고 저명한 미식가이자 예술가인 소동파(蘇東坡, 소식). 정치적 모함으로 인해 황량한 오지 황주(黃州)로 잇따라 유배되는 극심한 고초와 신분 추락 속에서도 그는 어떻게 늘 호탕하고 유유자적한 정서적 안정과 풍부한 예술적 영감을 유지했을까요? 🎋
+---
 
 소동파는 매일 아침 새벽 안개가 감도는 대나무 숲길을 천천히 거닐며 맑은 피톤치드 공기를 마셨습니다. 산책을 마친 후에는 흙화로에 도자기 냄비를 올리고 약한 불로 돼지고기와 차를 수시간 동안 뭉근히 조리하는 슬로우 푸드 루틴을 즐겼습니다. 숲의 소리에 귀 기울이고 음식이 끓어오르는 김을 잔잔히 관측하는 이 오감 리셋 습관은 유배 생활의 분노와 억울함을 씻어내는 최고의 정서적 치유제였습니다.
 
@@ -33,17 +32,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 소동파 시문집 '동파전집(東坡全集)' 및 임어당 저 '소동파전' 정보를 기반으로 작성되었습니다.
+      본 콘텐츠는 <strong>소동파 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 sushi-bamboo-walk-cooking 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 수공예적 행동(Somatic Routine)이 활성화하는 부교감 신경과 신경 회복탄력성
+## 수공예적 행동(Somatic Routine)이 활성화하는 부교감 신경과 신경 회복탄력성
 
 마음의 상처나 억울한 감정을 머리로만 억지로 잊으려 하면 뇌의 편도체 회로가 반복재생되어 괴로움이 배가됩니다.
 
@@ -51,8 +50,9 @@ faqs:
 
 ---
 
-## 2. 실천을 위한 3단계 세부 행동 가이드
+## 결과보다 조리 및 산책의 과정 자체에 집중하세요
 
+소동파 요리의 정수는 화후(, 불조절)를 기다리는 고요한 마음입니다. 빨리 음식을 만들어 먹으려 서두르지 말고, 재료가 익어가는 시간 동안 손끝의 감각과 향에 정성을 다하세요.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,25 +84,13 @@ faqs:
   </p>
 </div>
 
----
-
-## 3. 결과보다 조리 및 산책의 과정 자체에 집중하세요
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      소동파 요리의 정수는 화후(火候, 불조절)를 기다리는 고요한 마음입니다. 빨리 음식을 만들어 먹으려 서두르지 말고, 재료가 익어가는 시간 동안 손끝의 감각과 향에 정성을 다하세요.
-    </p>
-  </div>
-</div>
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>요리를 전혀 못 하는 요알못도 적용 가능한가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -110,9 +98,9 @@ faqs:
       네! 복잡한 요리가 아닙니다. 따뜻한 드립 커피를 내리거나 계란 프라이 하나를 정성껏 굽는 미니 조리만으로도 충분합니다.
     </p>
   </details>
-
+  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>정말 손으로 요리하는 행위가 스트레스를 줄여주나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

@@ -1,17 +1,25 @@
 ---
-formatVersion: 4
 title: "새벽을 여는 설렘: 정주영 회장의 5시 가족 조식과 도보 루틴"
 description: "현대그룹 창업주 정주영 회장이 평생 지켜온 매일 새벽 4시 기상과 아침 가족 소통. 아침 유산소 운동과 정서적 교류가 하루의 코르티솔 분비를 안정시키고 활력을 주는 원리를 알아봅니다."
-pubDate: "2026-06-12"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["위인 습관", "정주영", "의지력", "계획", "시간 관리"]
-heroImage: "/images/blog/chung_dawn_breakfast.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/chung_dawn_breakfast.png"
 app: "buildself"
-authority: "정주영 회장 자서전 『이 아침에도 설레이며』 고증 및 하버드 의과대학(Harvard Medical School) 수면 및 생체 주기 연구"
-updatedDate: "2026-06-12"
+formatVersion: 4
+authority: "Chung Dawn Breakfast 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+steps:
+  - name: "규칙적인 초아침 기상 시간의 세팅"
+    text: "일과 시작 시간의 구속 없이 매일 일정한 이른 아침 시간(예: 오전 5시~6시)에 일어나는 기상 리듬을 고정합니다."
+  - name: "간단한 대화 조식 및 감정 교류 실행"
+    text: "기상 직후 간단하게 과일이나 아침 식사를 준비하여 가족들과 눈을 맞추고 짧은 긍정적 안부 대화를 나누며 뇌를 깨웁니다."
+  - name: "빛이 있는 야외 도보 출근 혹은 산책"
+    text: "집을 나서서 15~30분간 야외 햇빛을 섭취하며 가볍게 걸어서 출근하거나 공원을 걸어 활성 호르몬 세팅을 완료합니다."
 faqs:
   - question: "꼭 새벽 4시에 일어나야 하나요? 저는 저녁형 인간인데요."
     answer: "아닙니다. 핵심은 4시라는 절대 시간이 아니라, 기상 후 인지 부하 차단, 아침 소통, 햇빛 도보의 유기적 3단계 메커니즘을 자신의 일정에 맞춰 일관되게 적용하는 데 있습니다."
+
 ---
 
 "새벽에 일어날 때의 설렘이 하루의 성공을 결정한다." ☀️
@@ -26,27 +34,25 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 아산 정주영 회장의 공식 저작 <strong>&lt;이 아침에도 설레이며&gt;</strong> 기록과 아침의 규칙적인 야외 광량 노출 및 가벼운 움직임이 뇌파 안정에 주는 하버드 의과대학(Harvard Medical School) 수면 및 생체 리듬 신경과학 실증 연구를 기반으로 작성되었습니다.
+      본 콘텐츠는 <strong>Chung Dawn Breakfast 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 chung-dawn-breakfast 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 새벽 빛과 아침 움직임이 뇌를 깨우는 신경생리학
+## 새벽 빛과 아침 움직임이 뇌를 깨우는 신경생리학
 
 일정한 아침 기상 후 야외에서 햇빛을 마주하며 걷는 행위는 뇌의 <strong>멜라토닌(Melatonin)</strong> 분비를 완전히 차단하고, 각성과 활력을 돋우는 세로토닌과 코르티솔 분비를 정상화합니다. 또한 이른 아침 가족들과 대화를 나누는 정서적 안정 의식은 불안을 조절하고 두뇌 회전을 신속하게 가속하여, 복잡한 업무가 시작되기 전 하루에 사용할 최상의 인지적 인프라를 신속하게 설계해 줍니다.
 
-더욱이 출근길 새벽 도보는 뇌의 유산소 자극을 통한 혈류 촉진과 신경영양인자(BDNF)의 발현을 유도해 전두엽 피질의 기능 상태를 고도로 향상함으로써, 급변하는 비즈니스의 불확실성 속에서도 가장 지혜롭고 과감한 의사결정을 실천하도록 뒷받침합니다.
-
 ---
 
-## 2. 현대인을 위한 3단계 실천 루틴
+## 주의사항 및 팁
 
-지적 주도성과 에너지 넘치는 아침 활력을 완전히 회복하는 정주영식 3단계 새벽 개시 루틴을 제안합니다.
+강박적인 새벽 기상이 성공을 보장하는 것은 아니며, 충분한 전체 수명 및 수면 시간이 보장되지 않은 무리한 조기 기상은 되려 만성 피로와 인지 저하를 가져옵니다. 따라서 기상 시간을 무조건 일찍 앞당기기 전에, 전날 밤 <strong>일정한 아침 취침 시간</strong>을 통제하여 7시간 내외의 수면을 선제적으로 지켜내는 지혜가 동반되어야 합니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -74,33 +80,17 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">빛이 있는 야외 도보 출근 혹은 산책</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    집을 나서서 -분간 야외 햇빛을 섭취하며 가볍게 걸어서 출근하거나 공원을 걸어 활성 호르몬 세팅을 완료합니다.
+    집을 나서서 15~30분간 야외 햇빛을 섭취하며 가볍게 걸어서 출근하거나 공원을 걸어 활성 호르몬 세팅을 완료합니다.
   </p>
 </div>
 
----
-
-## 3. 성공적인 루틴 정착을 위한 실천 가이드
-
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">안정된 수면 사이클이 전제되어야 합니다</strong>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      강박적인 새벽 기상이 성공을 보장하는 것은 아니며, 충분한 전체 수명 및 수면 시간이 보장되지 않은 무리한 조기 기상은 되려 만성 피로와 인지 저하를 가져옵니다. 따라서 기상 시간을 무조건 일찍 앞당기기 전에, 전날 밤 <strong>일정한 아침 취침 시간</strong>을 통제하여 7시간 내외의 수면을 선제적으로 지켜내는 지혜가 동반되어야 합니다.
-    </p>
-  </div>
-</div>
-
----
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📍</span> 자주 묻는 질문 (FAQ)
+    <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>꼭 새벽 4시에 일어나야 하나요? 저는 저녁형 인간인데요.</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

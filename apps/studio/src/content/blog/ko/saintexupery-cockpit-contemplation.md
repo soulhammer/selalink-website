@@ -1,19 +1,27 @@
 ---
-formatVersion: 4
 title: "생텍쥐페리의 조종석 메모법: 고도의 고독과 군더더기 정제로 본질을 뽑아내는 법"
 description: "《어린 왕자》의 저자이자 비행사인 생텍쥐페리가 상공 조종석의 고독 속에서 구상하고 불필요한 미사여구를 깎아내며 본질에 도달한 글쓰기 습관을 살펴봅니다."
-pubDate: "2026-07-18"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["글쓰기", "창의성", "사색", "본질"]
-heroImage: "/images/blog/saintexupery_cockpit_contemplation.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/saintexupery_cockpit_contemplation.png"
 app: "buildself"
-authority: "앙투안 드 생텍쥐페리의 《인간의 대지》(1939) 및 Human Brain Mapping 저널 뇌과학 연구"
-updatedDate: "2026-07-18"
+formatVersion: 4
+authority: "Saintexupery Cockpit Contemplation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+steps:
+  - name: "소음 없는 1인 고독 공간 확보"
+    text: "모든 디지털 알림과 외부 소음이 차단된 조용한 1인 공간을 20분간 확보합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
+  - name: "검열 없이 날것의 생각 기록하기"
+    text: "수첩에 떠오르는 아이디어, 감정, 사상을 스스로 평가하지 않고 날것 그대로 거침없이 적습니다."
+  - name: "30% 이상 군더더기 깎아내기"
+    text: "작성한 글을 검토하며 불필요한 미사여구와 형용사를 30% 이상 깎아내어 더 이상 뺄 것이 없는 본질만 남깁니다."
 faqs:
   - question: "이 뺄셈 법칙을 업무 보고서나 기획안 작성에도 적용할 수 있나요?"
     answer: "네! 초안을 솔직하게 자유롭게 쓴 후, 두 번째 검토에서 불필요한 수식어, 전문 용어, 늘어지는 문장을 과감히 깎아내면 전달력이 2배 높아집니다."
   - question: "너무 많이 깎아내어 문맥이 손실되면 어떻게 하나요?"
     answer: "핵심 명사와 동사는 유지하고, 감정적인 수식어나 중복된 설명 위주로 깎아내면 본질적 문맥은 또렷해집니다."
+
 ---
 
 "완벽함이란 더 이상 보탤 것이 없을 때가 아니라, 더 이상 뺄 것이 없을 때 완성된다." ✈️
@@ -28,25 +36,25 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 앙투안 드 생텍쥐페리의 《인간의 대지》(Terre des hommes, 1939) 및 스테이시 시프의 전기 기록과 신경과학 저널 Human Brain Mapping의 '디폴트 모드 네트워크와 정제 사고' 연구를 기반으로 작성되었습니다.
+      본 콘텐츠는 <strong>Saintexupery Cockpit Contemplation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 saintexupery-cockpit-contemplation 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 고독과 뺄셈 습관이 전전두엽 메타인지를 극대화하는 이유
+## 고독과 뺄셈 습관이 전전두엽 메타인지를 극대화하는 이유
 
-현대 신경과학 연구에 의하면 소음과 외부 자극이 차단된 1인 고독 환경은 뇌의 '디폴트 모드 네트워크(DMN, Default Mode Network)'를 가동하여 기억과 감정, 아이디어를 연관 짓는 창의적 영감을 자극합니다.
-
-이후 작성된 글이나 프로젝트 기획안에서 불필요한 요소를 30% 이상 깎아내는 '뺄셈 정제(Subtraction)' 작업은 전전두엽의 메타인지(Metacognition) 신경망을 자극하여 본질과 핵심 메시지를 선명하게 드러나게 해 줍니다.
+신경과학 연구에 따르면 외부 소음이 차단된 고독 상태는 뇌의 디폴트 모드 네트워크(DMN)를 가동하여 창의적 인식을 돕습니다. 이후 불필요한 요소나 미사여구를 깎아내는 뺄셈 작업은 전전두엽 메타인지를 자극하여 사고의 정밀도를 완벽히 끌어올립니다.
 
 ---
 
-## 2. 현대인을 위한 생텍쥐페리 고독 & 정제 3단계 실천 가이드
+## 생텍쥐페리 습관 주의사항 및 정제 팁
+
+아이디어를 떠올리는 단계에서 검열하거나 수정하지 마세요. 고독 속에서 자유롭게 발산한 뒤, 검토 단계에서 불필요한 수식어를 30% 이상 과감하게 자르는 2단계 프로세스를 지켜야 합니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -54,7 +62,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">소음 없는 1인 고독 공간 확보</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    모든 스마트폰 알림과 외부 소음이 차단된 조용한 1인 고독 공간을 20분간 확보합니다.
+    모든 디지털 알림과 외부 소음이 차단된 조용한 1인 공간을 20분간 확보합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다.
   </p>
 </div>
 
@@ -64,7 +72,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">검열 없이 날것의 생각 기록하기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    수첩이나 종이에 떠오르는 아이디어, 문장, 감정을 스스로 평가하지 않고 날것 그대로 솔직하게 기록합니다.
+    수첩에 떠오르는 아이디어, 감정, 사상을 스스로 평가하지 않고 날것 그대로 거침없이 적습니다.
   </p>
 </div>
 
@@ -74,31 +82,17 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">30% 이상 군더더기 깎아내기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    작성된 글이나 아이디어를 다듬을 때 불필요한 미사여구와 수식어를 30% 이상 과감하게 자르고 본질적 핵심만 남깁니다.
+    작성한 글을 검토하며 불필요한 미사여구와 형용사를 30% 이상 깎아내어 더 이상 뺄 것이 없는 본질만 남깁니다.
   </p>
 </div>
-
----
-
-## 3. 생텍쥐페리 습관 주의사항 및 정제 팁
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      아이디어를 떠올리는 단계에서 검열하거나 수정하지 마세요. 고독 속에서 자유롭게 발산한 뒤, 검토 단계에서 불필요한 수식어를 30% 이상 과감하게 자르는 2단계 프로세스를 지켜야 합니다.
-    </p>
-  </div>
-</div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>이 뺄셈 법칙을 업무 보고서나 기획안 작성에도 적용할 수 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -106,9 +100,9 @@ faqs:
       네! 초안을 솔직하게 자유롭게 쓴 후, 두 번째 검토에서 불필요한 수식어, 전문 용어, 늘어지는 문장을 과감히 깎아내면 전달력이 2배 높아집니다.
     </p>
   </details>
-
+  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>너무 많이 깎아내어 문맥이 손실되면 어떻게 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

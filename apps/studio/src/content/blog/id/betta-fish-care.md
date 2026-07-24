@@ -16,23 +16,23 @@ faqs:
     answer: "Meskipun bisa bernapas udara, toples kecil tanpa filter mengalami penumpukan amonia yang cepat beracun. Disarankan menggunakan akuarium minimal 15 liter dengan filter sponge."
 ---
 
-Ikan Betta (Cupang) terkenal dengan sirip indahnya yang mengembang anggun. Menurut standar WSAVA, Cupang memiliki organ labirin khusus untuk bernapas udara langsung di permukaan. Menjaga suhu air (24°C ~ 26°C), arus tenang, dan menyediakan tempat istirahat daun sangat penting untuk mencegah penyakit busuk sirip (Fin Rot).
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Bukti Dokter Hewan & Perilaku
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>World Small Animal Veterinary Association (WSAVA) Aquatic Health Standards</strong>.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Ikan Betta / Cupang Profil Utama
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Rata-rata Umur</span><span class="font-bold text-slate-800 dark:text-slate-200">3 - 5 Tahun</span></div>
@@ -43,7 +43,7 @@ Ikan Betta (Cupang) terkenal dengan sirip indahnya yang mengembang anggun. Menur
 
 ## 1. Komunikasi Cupang: Mengembangkan Insang (Flaring) & Istirahat Permukaan
 
-Mengembangkan insang dan sirip (Flaring) adalah tanda pertahanan teritorial. Latihan singkat 5 menit sehari bagus untuk otot sirip, namun flaring terus-menerus cause stress berat.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Mengembangkan insang dan sirip (Flaring) adalah tanda pertahanan teritorial. Lat
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Cek Suhu Air (24°C ~ 26°C) & Arus Filter Sponge</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Pastikan pemanas berfungsi dan arus air dari filter sponge sangat tenang.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Mengembangkan insang dan sirip (Flaring) adalah tanda pertahanan teritorial. Lat
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Beri Pakan Pelet Khusus & Bersihkan Sisa Makanan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Beri 3 - 4 butir pelet khusus Cupang dan angkat sisa makanan dalam 5 menit.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Mengembangkan insang dan sirip (Flaring) adalah tanda pertahanan teritorial. Lat
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Cek Sarang Busa & Latihan Flaring 5 Menit</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Gunakan cermin kecil selama 3 - 5 menit untuk melatih otot sirip agar tidak lengket.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Mengembangkan insang dan sirip (Flaring) adalah tanda pertahanan teritorial. Lat
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Mengembangkan insang dan sirip (Flaring) adalah tanda pertahanan teritorial. Lat
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Itu adalah gejala busuk sirip (Fin Rot) akibat kualitas air buruk. Lakukan penggantian air 25% secara rutin dengan air terkondisikan.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Mengembangkan insang dan sirip (Flaring) adalah tanda pertahanan teritorial. Lat
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Meskipun bisa bernapas udara, toples kecil tanpa filter mengalami penumpukan amonia yang cepat beracun. Disarankan menggunakan akuarium minimal 15 liter dengan filter sponge.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </details>
 </div>

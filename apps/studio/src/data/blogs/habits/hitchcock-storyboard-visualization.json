@@ -1,194 +1,64 @@
 {
   "hitchcock-storyboard-visualization": {
     "title": {
-      "ko": "머릿속으로 백 프로 완성하라: 히치콕의 시각 스토리보드 루틴",
-      "en": "Finish 100% In Your Mind First: Hitchcock's Visual Storyboard Routine",
-      "ja": "頭の中で百パーセント完成させよ：ヒッチコックの視覚ストーリーボードルーティン",
-      "zh": "在脑海中完成百分之百：希区柯克的视觉故事板习惯",
-      "es": "Termine al 100% primero en su mente: la rutina de guiones gráficos visuales de Hitchcock",
-      "fr": "Finissez à 100 % dans votre esprit d'abord : la routine de storyboard visuel de Hitchcock",
-      "de": "Zuerst zu 100 % im Kopf abschließen: Hitchcocks visuelle Storyboard-Routine",
-      "pt": "Conclua 100% primeiro na sua mente: a rotina de storyboard visual de Hitchcock",
-      "id": "Selesaikan 100 Persen di Pikiran Anda Terlebih Dahulu: Rutinitas Papan Cerita Visual Hitchcock"
+      "ko": "머릿속으로 백 프로 완성하라: 히치콕의 시각 스토리보드 루틴"
     },
     "description": {
-      "ko": "스릴러 영화의 거장 알프레드 히치콕의 촬영 전 정밀 스토리보드 설계 습관을 알아봅니다. 정신적 시뮬레이션을 통해 의사결정 부하를 없애는 3단계 시각화 가이드.",
-      "en": "Discover the detailed storyboard routine of thriller maestro Alfred Hitchcock. Follow our 3-step visualization guide to eliminate cognitive load via mental simulation.",
-      "ja": "スリラー映画の巨匠アルフレッド・ヒッチコックの撮影前精密ストーリーボード設計習慣を紹介します。精神的シミュレーションを通じて意思決定負荷をなくす3ステップ視覚化ガイド。",
-      "zh": "了解惊悚片大师阿尔弗雷德·希区柯克在拍摄前进行精密故事板设计的习惯。通过精神模拟消除决策负载的三步视觉化指南。",
-      "es": "Descubra la detallada rutina de guiones gráficos del maestro del thriller Alfred Hitchcock. Siga nuestra guía de 3 pasos para eliminar la carga cognitiva mediante la simulación mental.",
-      "fr": "Découvrez la routine de storyboard d'Alfred Hitchcock. Suivez notre guide en 3 étapes pour éliminer la charge cognitive via la simulation mentale.",
-      "de": "Erfahren Sie mehr über die Storyboard-Routine des Thriller-Regisseurs Alfred Hitchcock. Nutzen Sie unseren 3-Schritt-Leitfaden, um kognitive Belastung durch mentale Simulation zu reduzieren.",
-      "pt": "Descubra a rotina de storyboard detalhada do mestre do suspense Alfred Hitchcock. Siga o guia de 3 passos para eliminar a carga cognitiva por meio da simulação mental.",
-      "id": "Temukan rutinitas papan cerita terperinci dari maestro thriller Alfred Hitchcock. Ikuti panduan visualisasi 3 langkah kami untuk menghilangkan beban kognitif melalui simulasi mental."
+      "ko": "스릴러 영화의 거장 알프레드 히치콕의 촬영 전 정밀 스토리보드 설계 습관을 알아봅니다. 정신적 시뮬레이션을 통해 의사결정 부하를 없애는 3단계 시각화 가이드."
     },
     "authority": {
-      "ko": "알프레드 히치콕 전기 'Alfred Hitchcock: A Life in Darkness and Light' 및 정신적 시뮬레이션 인지과학 연구",
-      "en": "Alfred Hitchcock's biography 'Alfred Hitchcock: A Life in Darkness and Light' & Mental Simulation Cognitive Science Research",
-      "ja": "アルフレッド・ヒッチコック伝記「Alfred Hitchcock: A Life in Darkness and Light」および精神的シミュレーション認知科学研究",
-      "zh": "阿尔弗雷德·希区柯克传记《Alfred Hitchcock: A Life in Darkness and Light》与精神模拟认知科学研究",
-      "es": "Biografía de Alfred Hitchcock 'Alfred Hitchcock: A Life in Darkness and Light' e investigación en ciencia cognitiva sobre simulación mental",
-      "fr": "Biographie d'Alfred Hitchcock 'Alfred Hitchcock: A Life in Darkness and Light' & recherche en sciences cognitives sur la simulation mentale",
-      "de": "Alfred Hitchcocks Biografie 'Alfred Hitchcock: A Life in Darkness and Light' & kognitionswissenschaftliche Forschung zur mentalen Simulation",
-      "pt": "Biografia de Alfred Hitchcock 'Alfred Hitchcock: A Life in Darkness and Light' & pesquisa em ciência cognitiva sobre simulação mental",
-      "id": "Biografi Alfred Hitchcock 'Alfred Hitchcock: A Life in Darkness and Light' & Penelitian Sains Kognitif Simulasi Mental"
+      "ko": "Hitchcock Storyboard Visualization 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "『싸이코』, 『현기증』, 『이창』 등 역사에 길이 남을 서스펜스 영화들을 연출하며 스릴러 영화의 문법을 재정립한 영국의 세계적인 거장 알프레드 히치콕. 실제 촬영장에서 단 한 조각의 흔들림도 없이 확신에 차서 메가폰을 휘둘렀던 그의 놀라운 통제력은 도대체 어디서 탄생했을까요? 🎬\\n\\n히치콕은 영화 촬영에 돌입하기 수개월 전부터 연구실 책상에 앉았습니다. 그는 영화의 모든 씬(Scene)과 카메라 구도, 조명의 배치, 심지어 배우의 미세한 동선까지 직접 연필로 스토리보드(Storyboard) 용지에 그리고 상세하게 기입했습니다. 그는 스토리보드 설계가 끝났을 때 이미 자신의 머릿속에서 영화가 100% 완성되었다고 보았습니다. 때문에 촬영장에 도착했을 때는 스토리보드를 그대로 필사하는 것만으로 충분했으며, 카메라 렌즈조차 볼 필요가 없다고 말했습니다. 히치콕에게 스토리보드는 단순한 계획을 넘어 실행의 모든 리스크를 사전에 소멸시키는 정신적 시뮬레이션이었습니다.",
-      "en": "Alfred Hitchcock, the world-famous British maestro who redefined the grammar of thriller movies by directing immortal suspense films such as 'Psycho', 'Vertigo', and 'Rear Window'. Where did his amazing control, commanding the filming set with absolute confidence and without a single doubt, come from? 🎬\\n\\nMonths before starting to shoot a movie, Hitchcock sat at his study desk. He sketched every scene, camera angle, light placement, and even the actor's movements with a pencil on storyboard paper and wrote details. He believed that when the storyboard design was finished, the film was already 100% complete in his mind. Therefore, when he arrived at the set, he said it was enough to just copy the storyboard and he didn't even need to look through the camera lens. For Hitchcock, the storyboard went beyond a simple plan, acting as a mental simulation that eliminated all execution risks in advance.",
-      "ja": "『サイコ』、『めまい』、『裏窓』など歴史に残るサスペンス映画を演出し、スリラー映画の文法を再定義した英国の世界的な巨匠アルフレッド・ヒッチコック. 実際の撮影現場で少しのブレもなく確信に満ちてメガホンを振るった彼の驚くべき統制力は、一体どこから誕生したのでしょうか？ 🎬\\n\\nヒッチコックは映画撮影に突入する数ヶ月前から研究室の机に座りました. 彼は映画のすべてのシーン（Scene）とカメラ構図、照明の配置、さらには俳優の微細な動線まで自ら鉛筆でストーリーボード（Storyboard）用紙に描き、詳細に記入しました. 彼はストーリーボード設計が終わった時、すでに自分の頭の中で映画が100%完成したとみなしました. そのため、撮影現場に到着した時はストーリーボードをそのまま模写するだけで十分であり、カメラレンズさえ見る必要がないと言いました. ヒッチコックにとってストーリーボードは単なる計画を超え、実行のすべてのリスクを事前に消滅させる精神的シミュレーションでした.",
-      "zh": "在这一历史性惯例的实践中：『』, 『』, 『』 . ? 🎬\\n\\n . (Scene) , , (Storyboard) . 100% . , . .",
-      "es": "Alfred Hitchcock, el mundialmente famoso maestro británico que redefinió la gramática del cine de suspense dirigiendo películas inmortales como 'Psicosis', 'Vértigo' y 'La ventana indiscreta'. ¿De dónde procedía su asombroso control, comandando el set de rodaje con absoluta confianza y sin una sola duda? 🎬\\n\\nMeses antes de empezar a rodar una película, Hitchcock se sentaba en el escritorio de su estudio. Dibujaba a lápiz cada escena, ángulo de cámara, colocación de las luces e incluso los movimientos de los actores en papel de guión gráfico y escribía los detalles. Creía que cuando terminaba el diseño del guión gráfico, la película ya estaba completa al 100% en su mente. Por lo tanto, cuando llegaba al plató, decía que bastaba con copiar el guión gráfico y que ni siquiera necesitaba mirar a través del objetivo de la cámara. Para Hitchcock, el guión gráfico iba más allá de un simple plan, actuando como una simulación mental que eliminaba de antemano todos los riesgos de la ejecución.",
-      "fr": "Alfred Hitchcock, le génie de la psychologie américaine qui a établi le paradigme du béhaviorisme. En tant que scientifique ayant étudié les mécanismes de modification du comportement d'autrui, comment gérait-il sa propre productivité ? 🎬\\n\\nChaque jour, Hitchcock s'asseyait à son bureau et mesurait avec un chronomètre le temps exact qu'il consacrait à l'écriture. Immédiatement après, il notait le nombre de mots et la durée nette de sa concentration. Plutôt que de simplement collecter ces chiffres, il dessinait un graphique linéaire de ses progrès et l'épinglait au mur face à son bureau. Il a ainsi expérimenté sur lui-même et prouvé le mécanisme d'auto-renforcement.",
-      "de": "Alfred Hitchcock, der weltberühmte britische Maestro, der die Filmsprache des Thrillers mit Werken wie 'Psycho', 'Vertigo' und 'Das Fenster zum Hof' neu definierte. Woher stammte seine erstaunliche Kontrolle, mit der er das Filmset mit absoluter Zuversicht und ohne jeden Zweifel beherrschte? 🎬\\n\\nMonate vor dem Drehbeginn saß Hitchcock an seinem Schreibtisch. Er skizzierte jede Szene, jeden Kamerawinkel, jede Lichtplatzierung und sogar die Bewegungen der Schauspieler mit einem Bleistift auf Storyboard-Papier und schrieb Details dazu auf. Er war der Ansicht, dass der Film bereits zu 100 % in seinem Kopf fertig war, wenn das Storyboard fertiggestellt war. Am Set angekommen, reichte es seiner Meinung nach aus, das Storyboard einfach umzusetzen, und er musste nicht einmal durch das Kameraobjektiv schauen. Für Hitchcock war das Storyboard mehr als ein Plan – es war eine mentale Simulation, die alle Ausführungsrisiken im Voraus eliminierte.",
-      "pt": "Alfred Hitchcock, o mundialmente famoso maestro britânico que redefiniu a linguagem dos thrillers ao realizar filmes imortais como 'Psicose', 'Vertigem' e 'Janela Indiscreta'. De onde vinha o seu controlo incrível, comandando o set de filmagens com absoluta confiança e sem uma única dúvida? 🎬\\n\\nMeses antes de começar a filmar, Hitchcock sentava-se à secretária. Desenhava a lápis cada cena, ângulo de câmara, colocação de luzes e até os movimentos dos atores em papel de storyboard e anotava os detalhes. Acreditava que quando o desenho do storyboard terminava, o filme já estava 100% completo na sua mente. Portanto, ao chegar ao set, dizia que bastaba copiar o storyboard e nem precisava de olhar pela lente da câmara. Para Hitchcock, o storyboard ia além de um simples plano, agindo como uma simulação mental que eliminava de antemão os riscos.",
-      "id": "Alfred Hitchcock, maestro Inggris terkenal di dunia yang mendefinisikan ulang tata bahasa film thriller dengan menyutradarai film-film suspense abadi seperti 'Psycho', 'Vertigo', dan 'Rear Window'. Dari mana kontrolnya yang luar biasa, memimpin lokasi syuting dengan keyakinan mutlak tanpa keraguan sedikit pun, berasal? 🎬\\n\\nBerbulan-bulan sebelum mulai syuting film, Hitchcock duduk di meja belajarnya. Dia mensketsa setiap adegan, sudut kamera, penempatan cahaya, dan bahkan pergerakan aktor dengan pensil pada kertas storyboard dan menulis detailnya. Dia percaya bahwa ketika desain papan cerita selesai, film tersebut sudah 100% selesai dalam pikirannya. Oleh karena itu, ketika dia tiba di lokasi syuting, dia berkata bahwa cukup dengan menyalin storyboard dan dia bahkan tidak perlu melihat melalui lensa kamera. Bagi Hitchcock, papan cerita melampaui rencana sederhana, bertindak sebagai simulasi mental yang menghilangkan semua risiko eksekusi sebelumnya."
+      "ko": "\"영화는 촬영장에서 만드는 것이 아니다. 이미 머릿속에서 다 끝난 일이다.\" 🎬\n\n『싸이코』, 『현기증』, 『이창』 등 역사에 길이 남을 서스펜스 영화들을 연출하며 스릴러 영화의 문법을 재정립한 영국의 세계적인 거장 알프레드 히치콕. 실제 촬영장에서 단 한 조각의 흔들림도 없이 확신에 차서 메가폰을 휘둘렀던 그의 놀라운 통제력은 도대체 어디서 탄생했을까요?\n\n히치콕은 영화 촬영에 돌입하기 수개월 전부터 연구실 책상에 앉았습니다. 그는 영화의 모든 씬(Scene)과 카메라 구도, 조명의 배치, 심지어 배우의 미세한 동선까지 직접 연필로 스토리보드(Storyboard) 용지에 그리고 상세하게 기입했습니다. 그는 스토리보드 설계가 끝났을 때 이미 자신의 머릿속에서 영화가 100% 완성되었다고 보았습니다. 때문에 촬영장에 도착했을 때는 스토리보드를 그대로 필사하는 것만으로 충분했으며, 카메라 렌즈조차 볼 필요가 없다고 말했습니다. 히치콕에게 스토리보드는 단순한 계획을 넘어 실행의 모든 리스크를 사전에 소멸시키는 정신적 시뮬레이션이었습니다.\n\n오늘 포스트에서는 히치콕의 스토리보드 설계 루틴의 과학적 작동 원리와 현대인들이 복잡한 다단계 업무나 중요한 시험 준비 전 발생할 수 있는 주의 손실을 방지하기 위해 이를 어떻게 응용할 수 있는지 알아봅니다."
     },
     "whyTitle": {
-      "ko": "의사결정 피로를 없애는 '정신적 시뮬레이션'",
-      "en": "'Mental Simulation' to Eliminate Decision Fatigue",
-      "ja": "意思決定疲労をなくす「精神的シミュレーション」",
-      "zh": "消除决策疲劳的“精神模拟”",
-      "es": "'Simulación mental' para eliminar la fatiga de decisión",
-      "fr": "La 'simulation mentale' pour éliminer la fatigue décisionnelle",
-      "de": "'Mentale Simulation' zur Vermeidung von Entscheidungsermüdung",
-      "pt": "'Simulação Mental' para eliminar a fadiga de decisão",
-      "id": "'Simulasi Mental' untuk Menghilangkan Kelelahan Pengambilan Keputusan"
+      "ko": "의사결정 피로를 없애는 '정신적 시뮬레이션'"
     },
     "whyDesc": {
-      "ko": "인지과학 연구에 따르면, 뇌가 실제로 어떤 행동을 수행하기 전 구체적인 과정을 머릿속으로 시뮬레이션해 보거나 눈으로 그릴 때, 실제 움직임을 관장하는 뇌의 운동 실행 네트워크(Motor Execution Network)가 동일하게 활성화됩니다. 이를 <strong>'정신적 시뮬레이션(Mental Simulation)'</strong>이라고 합니다. 히치콕이 촬영 전 완벽하게 스토리보드를 스케치한 습관은, 실행 단계에서 겪게 될 변수들을 미리 시각적으로 체험해 대안을 결정하게 만들었습니다. 이 덕분에 뇌는 실제 작업 착수 시 직면하는 무수한 돌발 변수와 선택의 기로에서 발생하는 의사결정 부하(Decision Fatigue)를 완전히 소멸시켜, 실수 없이 높은 추진력으로 결과물을 내게 돕습니다.",
-      "en": "Cognitive research shows that when the brain mentally simulates or visualizes a concrete process before actually performing a behavior, the motor execution network governing the movement is similarly activated. This is called <strong>'mental simulation'</strong>. Hitchcock's habit of sketching storyboards perfectly before filming allowed him to visually experience variables and decide alternatives beforehand. This eliminates the decision fatigue that arises from unexpected variables and choices during actual work execution, helping achieve high-momentum, error-free results.",
-      "ja": "認知科学の研究によると、脳が実際に何らかの行動を実行する前に具体的な過程を頭の中でシミュレーションしたり、目で描いたりするとき、実際の動きを司る脳の運動実行ネットワーク（Motor Execution Network）が同様に活性化されます. これを<strong>「精神的シミュレーション（Mental Simulation）」</strong>と呼びます. ヒッチコックが撮影前に完璧にストーリーボードをスケッチした習慣は、実行段階で直面する変数をあらかじめ視覚的に体験して代替案を決定させました. このおかげで脳は、実際の作業着手時に直面する無数の突発的な変数と選択の岐路で発生する意思決定負荷（Decision Fatigue）を完全に消滅させ、ミスなく高い推進力で成果物を出すのを助けます.",
-      "zh": "认知科学研究表明，当大脑在实际执行某种行为前在脑海中模拟其具体过程或用眼睛描绘时，控制实际运动的大脑运动执行网络（Motor Execution Network）也会被同样激活。这被称为<strong>“精神模拟（Mental Simulation）”</strong>。希区柯克在拍摄前完美绘制故事板的习惯，促使他在执行阶段可能遇到的变量提前在视觉上予以体验并确定替代方案。因此，大脑在实际着手工作时，能完全消除由于面临无数突发变量和选择困境而产生的决策疲劳（Decision Fatigue），从而帮助实现无差错、高推动力的产出。",
-      "es": "La investigación cognitiva demuestra que cuando el cerebro simula mentalmente o visualiza un proceso concreto antes de realizar realmente una conducta, la red de ejecución motora que gobierna el movimiento se activa de forma similar. Esto se denomina <strong>'simulación mental'</strong>. El hábito de Hitchcock de esbozar guiones gráficos a la perfección antes del rodaje le permitía experimentar visualmente las variables y decidir alternativas de antemano. Esto elimina la fatiga de decisión que surge de las variables y elecciones inesperadas durante la ejecución real del trabajo, ayudando a conseguir resultados sin errores y con gran impulso.",
-      "fr": "Les recherches cognitives montrent que lorsque le cerveau simule ou visualise un processus avant de l'exécuter, le réseau moteur est activé de la même manière. C'est la <strong>'simulation mentale'</strong>. L'habitude d'Hitchcock consistant à concevoir ses storyboards lui permettait de vivre visuellement les variables et de prévoir les alternatives. Cela élimine la fatigue décisionnelle liée aux imprévus, garantissant une exécution fluide.",
-      "de": "Kognitionsforschung zeigt, dass bei der mentalen Simulation oder Visualisierung eines Prozesses vor der eigentlichen Ausführung das für die Bewegung zuständige motorische Netzwerk im Gehirn in ähnlicher Weise aktiviert wird. Dies wird als <strong>'mentale Simulation'</strong> bezeichnet. Hitchcocks Gewohnheit, Storyboards vor dem Dreh genau zu skizzieren, ermöglichte es ihm, Variablen visuell durchzuspielen und Alternativen vorab festzulegen. Dies eliminiert die Entscheidungsermüdung durch unerwartete Ereignisse während der Ausführung und hilft, fehlerfreie Ergebnisse mit hoher Dynamik zu erzielen.",
-      "pt": "A pesquisa cognitiva mostra que quando o cérebro simula mentalmente ou visualiza um processo concreto antes de realizar realmente um comportamento, a rede de execução motora que governa o movimento é ativada de forma semelhante. Isso chama-se <strong>'simulação mental'</strong>. O hábito de Hitchcock de esboçar storyboards antes das filmagens permitiu-lhe experimentar visualmente as variáveis e decidir alternativas de antemão. Isso elimina a fadiga de decisão que surge de variáveis inesperadas durante a execução real, ajudando a alcançar resultados sem erros.",
-      "id": "Penelitian kognitif menunjukkan bahwa ketika otak secara mental mensimulasikan atau memvisualisasikan proses konkret sebelum benar-benar melakukan perilaku, jaringan eksekusi motorik yang mengatur gerakan tersebut juga diaktifkan secara serupa. Ini disebut <strong>'Simulasi Mental' (Mental Simulation)</strong>. Kebiasaan Hitchcock mensketsa papan cerita dengan sempurna sebelum syuting memungkinkannya merasakan variabel secara visual dan menentukan alternatif sebelumnya. Hal ini menghilangkan kelelahan pengambilan keputusan (Decision Fatigue) yang timbul dari variabel dan pilihan tak terduga selama eksekusi kerja nyata, membantu mencapai hasil bebas kesalahan dengan dorongan tinggi."
+      "ko": "인지과학 연구에 따르면, 뇌가 실제로 어떤 행동을 수행하기 전 구체적인 과정을 머릿속으로 시뮬레이션해 보거나 눈으로 그릴 때, 실제 움직임을 관장하는 뇌의 운동 실행 네트워크(Motor Execution Network)가 동일하게 활성화됩니다. 이를 <strong>'정신적 시뮬레이션(Mental Simulation)'</strong>이라고 합니다. 히치콕이 촬영 전 완벽하게 스토리보드를 스케치한 습관은, 실행 단계에서 겪게 될 변수들을 미리 시각적으로 체험해 대안을 결정하게 만들었습니다. 이 덕분에 뇌는 실제 작업 착수 시 직면하는 무수한 돌발 변수와 선택의 기로에서 발생하는 의사결정 부하(Decision Fatigue)를 완전히 소멸시켜, 실수 없이 높은 추진력으로 결과물을 내게 돕습니다."
     },
     "cautionTitle": {
-      "ko": "계획 방종과 실행 지연 방지",
-      "en": "Guarding Against Plan Indulgence and Delay of Execution",
-      "ja": "計画の放縦と実行遅延の防止",
-      "zh": "警惕数据造假与本末倒置",
-      "es": "Cuidado con la manipulación de métricas y la inversión de medios y fines",
-      "fr": "Prendre garde à la complaisance de planification et au retard de l'exécution",
-      "de": "Vermeidung von Planungs-Complacency und Ausführungsverzögerung",
-      "pt": "Cuidado com a complacência de planeamento e atraso da execução",
-      "id": "Mewaspadai Pemanjaan Rencana dan Penundaan Eksekusi"
+      "ko": "계획 방종과 실행 지연 방지"
     },
     "cautionDesc": {
-      "ko": "스토리보드 작성이 단순한 종이 끄적임으로 전락해 실행을 지연시키는 계획 방종(Plan Indulgence)에 빠질 수 있습니다. 스토리보드는 어디까지나 실행을 돕기 위한 보조 수단이어야 합니다. 스케치는 단 3~5단계의 거친 흐름만으로 구성해 시간 소모를 제한해야 하며, 시각 시뮬레이션이 끝난 후에는 계획을 붙잡고 늘어지는 대신 즉시 첫 번째 카드 단계의 실제 물리적 실천으로 몸을 전환해야 정밀화의 효과를 온전히 누립니다.",
-      "en": "Writing a storyboard can degrade into simple paper scribbling that delays execution, falling into plan indulgence. Storyboards must only be an aid to support execution. Limit sketches to 3-5 rough steps to save time, and once mental simulation is finished, immediately transition your body to physical action of the first step instead of holding onto plans.",
-      "ja": "ストーリーボードの作成が単なる紙の落書きに転落し、実行を遅らせる計画耽溺（Plan Indulgence）に陥る可能性があります。ストーリーボードはあくまで実行を助けるための補助手段でなければなりません。スケッチはわずか3〜5段階の粗い流れだけで構成して時間消耗を制限すべきであり、視覚シミュレーションが終わった後は、計画にしがみつく代わりに直ちに最初のカード段階の実際の物理的実践へと体を切り替えてこそ、精密化の効果を完全に享受できます。",
-      "zh": "故事板的编写可能会堕落为单纯在纸上涂鸦，从而拖延执行，陷入计划沉迷。故事板应当始终只是辅助执行的方法。草图应仅由3-5个粗略的步骤组成，以限制时间消耗。在视觉模拟结束后，不要纠泥于计划，而应立即转向第一张卡片步骤的实际物理行动，这样才能完整享受精细化的成效。",
-      "es": "La redacción de un guión gráfico puede degenerar en un simple garabateo sobre el papel que retrase la ejecución, cayendo en la indulgencia del plan. Los guiones gráficos sólo deben ser una ayuda para apoyar la ejecución. Limite los bocetos a 3-5 pasos preliminares para ahorrar tiempo y, una vez finalizada la simulación mental, pase inmediatamente a la acción física del primer paso en lugar de aferrarse a los planes.",
-      "fr": "Le risque est de passer trop de temps sur le storyboard et de retarder l'action (complaisance de planification). Le storyboard doit rester un outil d'aide. Limitez les croquis à 3 ou 5 étapes simples pour gagner du temps, et passez immédiatement à l'action physique dès la fin de la simulation.",
-      "de": "Das Schreiben eines Storyboards kann in einfache Kritzeleien ausarten, die die Ausführung verzögern. Storyboards dürfen nur eine Hilfe zur Unterstützung der Ausführung sein. Begrenzen Sie Skizzen auf 3–5 grobe Schritte, um Zeit zu sparen. Gehen Sie nach der mentalen Simulation sofort zur physischen Aktion des ersten Schritts über, anstatt an Plänen festzuhalten.",
-      "pt": "Escrever um storyboard pode degradar-se em simples rabiscos no papel que atrasam a execução. Os storyboards devem ser apenas uma ajuda para apoiar a execução. Limite os esboços a 3-5 passos gerais para poupar tempo e, uma vez terminada a simulação mental, passe imediatamente para a ação física do primeiro passo.",
-      "id": "Menulis papan cerita dapat menurun menjadi sekadar coretan kertas yang menunda eksekusi, jatuh ke dalam pemanjaan rencana (Plan Indulgence). Papan cerita harus menjadi alat bantu untuk mendukung eksekusi. Batasi sketsa pada 3-5 langkah kasar saja untuk membatasi konsumsi waktu, dan setelah simulasi visual selesai, segera alihkan tubuh Anda ke tindakan fisik nyata dari langkah pertama alih-alih terus terpaku pada rencana."
+      "ko": "스토리보드 작성이 단순한 종이 끄적임으로 전락해 실행을 지연시키는 계획 방종(Plan Indulgence)에 빠질 수 있습니다. 스토리보드는 어디까지나 실행을 돕기 위한 보조 수단이어야 합니다. 스케치는 단 3~5단계의 거친 흐름만으로 구성해 시간 소모를 제한해야 하며, 시각 시뮬레이션이 끝난 후에는 계획을 붙잡고 늘어지는 대신 즉시 첫 번째 카드 단계의 실제 물리적 실천으로 몸을 전환해야 정밀화의 효과를 온전히 누립니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "프로젝트 주요 실행 단계 분할",
-          "en": "Dividing Project into Key Execution Steps",
-          "ja": "プロジェクトの主要実行段階の分割",
-          "zh": "项目主要执行步骤划分",
-          "es": "Dividir el proyecto en pasos clave de ejecución",
-          "fr": "Diviser le projet en étapes clés d'exécution",
-          "de": "Projekt in wichtige Ausführungsschritte unterteilen",
-          "pt": "Dividindo o projeto em etapas de execução principais",
-          "id": "Membagi Tahap Eksekusi Utama Proyek"
+          "ko": "프로젝트 주요 실행 단계 분할"
         },
         "text": {
-          "ko": "당일 수행해야 할 주요 업무나 공부 단계를 3~5개의 큰 흐름(예: 기획안 작성, 데이터 검증, 보고서 송부 등)으로 쪼개어 가상의 칸을 설계합니다.",
-          "en": "Split today's major task or study steps into 3-5 big flows (e.g., writing draft, validating data, sending report) to design virtual boxes.",
-          "ja": "当日遂行すべき主要業務や勉強の段階を3〜5個の大きな流れ（例：企画書の作成、データ検証、報告書の送付など）に分割し、仮想の枠を設計します.",
-          "zh": "将当天要完成的主要工作或学习步骤拆分为3-5个大的流程（如撰写策划案、数据验证、发送报告等），设计出虚拟的空格。",
-          "es": "Divida las tareas principales o pasos de estudio de hoy en 3-5 grandes flujos (por ejemplo, redactar borrador, validar datos, enviar informe) para diseñar casillas virtuales.",
-          "fr": "Divisez la tâche ou les étapes d'étude du jour en 3 à 5 grands flux (ex. rédaction du projet, vérification des données, envoi du rapport) pour concevoir des blocs virtuels.",
-          "de": "Unterteilen Sie die Hauptaufgabe oder die Lernschritte des Tages in 3–5 große Abläufe (z. B. Entwurf schreiben, Daten validieren, Bericht senden), um Boxen zu entwerfen.",
-          "pt": "Divida a tarefa principal ou as etapas de estudo de hoje em 3-5 fluxos grandes (por exemplo, escrever rascunho, validar dados, enviar relatório) para desenhar blocos virtuais.",
-          "id": "Bagi tugas utama atau langkah belajar yang harus dilakukan hari itu menjadi 3-5 alur besar (misalnya: menulis draf proposal, validasi data, mengirim laporan, dll.) untuk merancang kotak virtual."
+          "ko": "당일 수행해야 할 주요 업무나 공부 단계를 3~5개의 큰 흐름(예: 기획안 작성, 데이터 검증, 보고서 송부 등)으로 쪼개어 가상의 칸을 설계합니다."
         }
       },
       {
         "name": {
-          "ko": "가상 스케치와 장애 대응 대안 배치",
-          "en": "Virtual Sketch and Placing Obstacle Alternatives",
-          "ja": "仮想スケッチと障害対応代替案の配置",
-          "zh": "虚拟草图与应对障碍备选方案配置",
-          "es": "Esquema virtual y colocación de alternativas ante obstáculos",
-          "fr": "Croquis virtuel et placement d'alternatives face aux obstacles",
-          "de": "Virtuelle Skizze und Platzieren von Hindernis-Alternativen",
-          "pt": "Esboço virtual e colocação de alternativas para obstáculos",
-          "id": "Sketsa Virtual dan Penempatan Alternatif Penanggulangan Hambatan"
+          "ko": "가상 스케치와 장애 대응 대안 배치"
         },
         "text": {
-          "ko": "각 단계 칸 안에 들어갈 시각적 행동 형태를 거칠게 스케치하거나 짧은 문장으로 기입하고, 진행 도중 만날 수 있는 리스크(코드 에러, 집중력 저하 등)와 극복안을 미리 표시해 둡니다.",
-          "en": "Roughly sketch the visual behavior or write short sentences inside each step box, and display risks (code errors, drop in concentration) and solutions in advance.",
-          "ja": "各段階の枠の中に入る視覚的な行動形態を粗くスケッチするか短い文章で記入し、進行中に遭遇する可能性のあるリスク（コードエラー、集中力低下など）と克服案をあらかじめ表示しておきます.",
-          "zh": "在每个步骤空格内画出视觉行动形态或写下简短句子，并提前标明可能遇到的风险（代码错误、注意力下降等）和应对策略。",
-          "es": "Esboce a grandes rasgos el comportamiento visual o escriba frases cortas dentro de cada casilla, y muestre con antelación los riesgos (errores de código, caída de concentración) y las soluciones.",
-          "fr": "Dessinez grossièrement le comportement visuel ou écrivez de courtes phrases dans chaque bloc, et notez à l'avance les risques et les solutions.",
-          "de": "Skizzieren Sie kurz das visuelle Verhalten oder schreiben Sie kurze Sätze in jede Box. Tragen Sie Risiken (Codefehler, Konzentrationsabfall) und Lösungen im Voraus ein.",
-          "pt": "Esboce a traços largos o comportamento visual ou escreva frases curtas dentro de cada bloco, e mostre com antecedência os riscos (erros de código, quebra de concentração) e as soluções.",
-          "id": "Mensketser secara kasar bentuk tindakan visual yang akan dimasukkan ke dalam setiap kotak langkah atau menuliskannya dalam kalimat pendek, serta menandai risiko (error kode, penurunan konsentrasi, dll.) dan solusi penanggulangannya terlebih dahulu."
+          "ko": "각 단계 칸 안에 들어갈 시각적 행동 형태를 거칠게 스케치하거나 짧은 문장으로 기입하고, 진행 도중 만날 수 있는 리스크(코드 에러, 집중력 저하 등)와 극복안을 미리 표시해 둡니다."
         }
       },
       {
         "name": {
-          "ko": "1분 정신 연상 후 물리적 실행 개시",
-          "en": "1-Minute Mental Simulation and Starting Physical Execution",
-          "ja": "1分間の精神連想後の物理的実行開始",
-          "zh": "1分钟精神联想后开始物理执行",
-          "es": "Simulación mental de 1 minuto e iniciar la ejecución física",
-          "fr": "1 minute de simulation mentale et début de l'exécution physique",
-          "de": "1-minütige mentale Simulation und Beginn der physischen Ausführung",
-          "pt": "Simulação mental de 1 minuto e iniciar a execução física",
-          "id": "Simulasi Mental 1 Menit lalu Memulai Eksekusi Fisik"
+          "ko": "1분 정신 연상 후 물리적 실행 개시"
         },
         "text": {
-          "ko": "완성된 스토리보드를 바라보며 눈을 감고, 1분 동안 첫 번째 칸부터 마지막 완료까지 물 흐르듯 실행하는 내 모습을 선명하게 연상한 뒤 즉시 실제 물리적 액션에 돌입합니다.",
-          "en": "Close your eyes while looking at the completed storyboard, clearly visualize yourself executing smoothly from the first to the last box for 1 minute, and then immediately jump into action.",
-          "ja": "完成したストーリーボードを眺めながら目を閉じ、1分間最初の枠から最後の完了まで水が流れるように実行する自分の姿を鮮明に連想した後、即座に実際の物理的アクションに突入します.",
-          "zh": "看着制作完成的故事板闭上眼睛，在1分钟内清晰地联想自己从第一个空格到最后一个空格如行云流水般执行的过程，然后立即投入实际的物理行动。",
-          "es": "Cierre los ojos mientras mira el guión gráfico completado, visualícese claramente ejecutando sin problemas desde la primera hasta la última casilla durante 1 minuto y, a continuación, pase inmediatamente a la acción.",
-          "fr": "Fermez les yeux devant le storyboard terminé, visualisez-vous en train de l'exécuter du début à la fin pendant 1 minute, puis lancez-vous.",
-          "de": "Schließen Sie die Augen, während Sie das fertige Storyboard betrachten. Visualisieren Sie 1 Minute lang, wie Sie die Schritte von der ersten bis zur letzten Box durchlaufen, und beginnen Sie dann sofort mit der Arbeit.",
-          "pt": "Feche os olhos enquanto olha para o storyboard concluído, visualize-se claramente a executar sem problemas do primeiro ao último bloco durante 1 minuto e passe imediatamente à ação.",
-          "id": "Menatap papan cerita yang telah selesai sambil memejamkan mata, memvisualisasikan diri Anda mengeksekusi dengan lancar dari kotak pertama hingga selesai selama 1 menit, lalu segera mulai melakukan tindakan fisik nyata."
+          "ko": "완성된 스토리보드를 바라보며 눈을 감고, 1분 동안 첫 번째 칸부터 마지막 완료까지 물 흐르듯 실행하는 내 모습을 선명하게 연상한 뒤 즉시 실제 물리적 액션에 돌입합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "스토리보드를 매번 손으로 직접 그리기 어려운데 디지털 도구로도 괜찮나요?",
-          "en": "Is it okay to use digital tools if it is difficult to hand-draw storyboards every time?",
-          "ja": "ストーリーボードを毎回手で直接描くのは難しいですが、デジタルツールでも大丈夫ですか？",
-          "zh": "每次都手绘故事板太难了，可以使用数字工具吗？",
-          "es": "¿Se pueden utilizar herramientas digitales si resulta difícil dibujar los guiones gráficos a mano cada vez?",
-          "fr": "Est-il possible d'utiliser des outils numériques s'il est difficile de dessiner les storyboards à la main ?",
-          "de": "Ist es in Ordnung, digitale Tools zu verwenden, wenn es schwierig ist, Storyboards jedes Mal von Hand zu zeichnen?",
-          "pt": "É possível utilizar ferramentas digitais se for difícil desenhar os storyboards à mão todas as vezes?",
-          "id": "Apakah boleh menggunakan alat digital jika sulit untuk menggambar papan cerita secara manual setiap saat?"
+          "ko": "스토리보드를 매번 손으로 직접 그리기 어려운데 디지털 도구로도 괜찮나요?"
         },
         "answer": {
-          "ko": "스토리보드의 본질은 그림의 솜씨가 아니라 행동의 단계적 구조화와 시뮬레이션입니다. 피그마, 미로, 혹은 단순한 마인드맵 앱 등을 활용해 상자 모형과 텍스트 위주로 가볍게 정돈하는 것만으로도 완벽하게 동일한 인지 심리학적 시뮬레이션 혜택을 얻을 수 있습니다.",
-          "en": "The essence of storyboards is not drawing skill, but structural step-planning and simulation of behavior. Utilizing Figma, Miro, or simple mind map apps to organize with box shapes and text is completely sufficient to gain the same cognitive psychology benefits.",
-          "ja": "ストーリーボードの本質は絵の腕前ではなく、行動の段階的な構造化とシミュレーションです. Figma、Miro、または単純なマインドマップアプリなどを活用して、ボックス模型とテキスト中心に軽く整頓するだけでも、完全に同じ認知心理学的なシミュレーションのメリットを得ることができます.",
-          "zh": "故事板的本质不在于画画技巧，而在于行为的阶段性结构化和模拟。利用Figma、Miro或简单的思维导图应用，以盒子模型和文本为主进行轻松整理，就完全可以获得相同的认知心理学模拟成效。",
-          "es": "La esencia de los guiones gráficos no radica en la habilidad para dibujar, sino en la planificación estruturada por pasos y la simulación del comportamiento. Utilizar aplicaciones como Figma, Miro o herramientas sencillas de mapas mentales para organizar la información mediante cuadros y texto es completamente suficiente para obtener los mismos beneficios de la psicología cognitiva.",
-          "fr": "L'essence du storyboard ne réside pas dans vos talents de dessinateur, mais dans la planification structurée par étapes et la simulation du comportement. Utiliser Figma, Miro ou de simples applications de carte heuristique pour l'organiser avec des blocs et du texte suffit amplement à obtenir les mêmes avantages en psychologie cognitive.",
-          "de": "Der Kern eines Storyboards liegt nicht im zeichnerischen Talent, sondern in der strukturierten Schritt-für-Schritt-Planung und der Simulation des Verhaltens. Die Verwendung von Figma, Miro oder einfachen Mindmap-Apps zur Organisation mit Box-Formen und Text ist völlig ausreichend, um die gleichen kognitionspsychologischen Vorteile zu erzielen.",
-          "pt": "A essência do storyboard não é a habilidade de desenhar, mas o planejamento estruturado passo a passo e a simulação de comportamento. Utilizar o Figma, Miro ou aplicativos simples de mapa mental para organizar com formas de caixas e texto é totalmente suficiente para obter os mesmos benefícios da psicologia cognitiva.",
-          "id": "Inti dari papan cerita bukanlah keterampilan menggambar, melainkan perencanaan langkah terstruktur dan simulasi perilaku. Menggunakan Figma, Miro, atau aplikasi peta pikiran sederhana untuk mengatur dengan bentuk kotak dan teks sudah sangat cukup untuk mendapatkan manfaat psikologi kognitif yang sama."
+          "ko": "스토리보드의 본질은 그림의 솜씨가 아니라 행동의 단계적 구조화와 시뮬레이션입니다. 피그마, 미로, 혹은 단순한 마인드맵 앱 등을 활용해 상자 모형과 텍스트 위주로 가볍게 정돈하는 것만으로도 완벽하게 동일한 인지 심리학적 시뮬레이션 혜택을 얻을 수 있습니다."
         }
       }
-    ],
-    "pubDate": "2026-02-08",
-    "updatedDate": "2026-02-08"
+    ]
   }
 }

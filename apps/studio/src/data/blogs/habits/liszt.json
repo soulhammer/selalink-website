@@ -1,218 +1,72 @@
 {
   "liszt": {
     "title": {
-      "en": "Liszt's cerebellum learning method that slows down the tempo and plays one key per second without error",
-      "ko": "템포를 늦추어 1초에 한 건반을 무오류로 연주한 리스트의 소뇌 학습법",
-      "ja": "テンポを落として1秒に1鍵を間違えずに弾くリストの小脳学習法",
-      "zh": "李斯特的小脑学习法，放慢节奏，每秒弹一个键，不会出错",
-      "es": "El método de aprendizaje del cerebelo de Liszt que ralentiza el tempo y toca una tecla por segundo sin error",
-      "fr": "Méthode d'apprentissage du cervelet de Liszt qui ralentit le tempo et joue une touche par seconde sans erreur",
-      "de": "Liszts Kleinhirn-Lernmethode, die das Tempo verlangsamt und eine Taste pro Sekunde fehlerfrei spielt",
-      "pt": "Método de aprendizagem do cerebelo de Liszt que diminui o ritmo e toca uma tecla por segundo sem erros",
-      "id": "Metode pembelajaran otak kecil Liszt yang memperlambat tempo dan memainkan satu kunci per detik tanpa kesalahan"
+      "ko": "템포를 늦추어 1초에 한 건반을 무오류로 연주한 리스트의 소뇌 학습법"
     },
     "description": {
-      "en": "As a pianist who boasted the most sophisticated technique in music history, instead of practicing chaotically on the keyboard, he slowed down the metronome tempo and programmed the perfect trajectory of the muscles into his brain.",
-      "ko": "음악 역사상 가장 정교한 기교를 자랑한 피아니스트로, 건반의 무질서한 속주 연습 대신 메트로놈 템포를 늦추어 근육의 완벽한 궤적을 뇌에 프로그래밍했습니다.",
-      "ja": "音楽史上最も洗練されたテクニックを誇ったピアニストである彼は、無秩序に鍵盤を弾いて練習するのではなく、メトロノームのテンポを遅くし、筋肉の完璧な軌道を脳にプログラムしました。",
-      "zh": "作为一位号称音乐史上技术最精湛的钢琴家，他没有在键盘上杂乱地练习，而是放慢了节拍器的节奏，将肌肉的完美轨迹编入大脑。",
-      "es": "Como pianista que contaba con la técnica más sofisticada de la historia de la música, en lugar de practicar caóticamente en el teclado, ralentizó el tempo del metrónomo y programó la trayectoria perfecta de los músculos en su cerebro.",
-      "fr": "En tant que pianiste doté de la technique la plus sophistiquée de l'histoire de la musique, au lieu de s'entraîner de manière chaotique sur le clavier, il a ralenti le tempo du métronome et programmé la trajectoire parfaite des muscles dans son cerveau.",
-      "de": "Als Pianist, der sich der ausgefeiltesten Technik in der Musikgeschichte rühmte, verlangsamte er, anstatt chaotisch auf der Tastatur zu üben, das Tempo des Metronoms und programmierte die perfekte Flugbahn der Muskeln in sein Gehirn.",
-      "pt": "Como um pianista que ostentava a técnica mais sofisticada da história da música, em vez de praticar caoticamente no teclado, ele desacelerou o andamento do metrônomo e programou a trajetória perfeita dos músculos em seu cérebro.",
-      "id": "Sebagai seorang pianis yang membanggakan teknik tercanggih dalam sejarah musik, alih-alih berlatih secara kacau di keyboard, ia memperlambat tempo metronom dan memprogram lintasan otot yang sempurna ke dalam otaknya."
+      "ko": "음악 역사상 가장 정교한 기교를 자랑한 피아니스트로, 건반의 무질서한 속주 연습 대신 메트로놈 템포를 늦추어 근육의 완벽한 궤적을 뇌에 프로그래밍했습니다."
     },
     "authority": {
-      "en": "Alan Walker, *Franz Liszt: The Virtuoso Years* (1983) & Cognitive Neuroscientific Studies",
-      "ko": "Alan Walker, *Franz Liszt: The Virtuoso Years* (1983)",
-      "ja": "Alan Walker, *Franz Liszt: The Virtuoso Years* (1983) & Cognitive Neuroscientific Studies",
-      "zh": "Alan Walker, *Franz Liszt: The Virtuoso Years* (1983) & Cognitive Neuroscientific Studies",
-      "es": "Alan Walker, *Franz Liszt: Los años virtuosos* (1983) y estudios neurocientíficos cognitivos",
-      "fr": "Alan Walker, *Franz Liszt : The Virtuoso Years* (1983) & Cognitive Neuroscientific Studies",
-      "de": "Alan Walker, *Franz Liszt: The Virtuoso Years* (1983) & Cognitive Neuroscientific Studies",
-      "pt": "Alan Walker, *Franz Liszt: The Virtuoso Years* (1983) & Cognitive Neuroscientific Studies",
-      "id": "Alan Walker, *Franz Liszt: The Virtuoso Years* (1983) & Cognitive Neuroscientific Studies"
+      "ko": "Liszt 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "en": "Hungarian composer Franz Liszt, the emperor of the piano during the Romantic era of the 19th century and the greatest virtuosic pianist of his time, expanded the expressive limits of piano music to the maximum through overwhelming sophistication and practice methods. Instead of practicing playing quickly and recklessly on the keyboard, he practiced every day by slowing down the metronome tempo to an extreme slow-motion level and playing only one key per second without error. He programmed the perfect muscle movement trajectories of the keyboard into his brain, and then used them to create magical, spectacular moves.\n\nToday on BuildSelf, we introduce the cognitive scientific principles of the habit of ‘slowing down the metronome tempo and hitting one key per second accurately’ and a 3-step guide that modern people can easily practice in their daily lives.",
-      "ko": "19세기 낭만주의 시대 피아노의 황제이자 당대 최고의 기교파 피아니스트로, 압도적인 정교함과 연습법을 통해 피아노 음악의 표현 한계를 극대화로 팽창시킨 헝가리의 작곡가 프란츠 리스트. 그는 건반 위에서 무작정 빠르게 연주 연습을 반복하는 대신, 메트로놈 템포를 극단적인 슬로 모션 수준으로 늦추어 1초에 단 한 건반만을 오차 없이 정확하게 치는 훈련을 매일 기동했습니다. 그는 뇌 속에 건반의 완벽한 근육 운동 궤적을 프로그래밍한 뒤, 이를 바탕으로 마법 같은 화려한 속주를 완성해 냈습니다.\n\n오늘 BuildSelf에서는 그가 고수한 '메트로놈 템포를 늦추어 1초에 한 건반을 정확하게 치기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다.",
-      "ja": "この歴史的習慣の実践において：19 , . , 1 . , . この歴史的習慣の実践において： BuildSelf ' 1 ' 3 .",
-      "zh": "在这一历史性惯例的实践中：19 , . , 1 . , . 在这一历史性惯例的实践中： BuildSelf ' 1 ' 3 .",
-      "es": "El compositor húngaro Franz Liszt, emperador del piano durante la era romántica del siglo XIX y el mayor pianista virtuoso de su tiempo, amplió al máximo los límites expresivos de la música para piano a través de una sofisticación y métodos de práctica abrumadores. En lugar de practicar tocando el teclado de forma rápida e imprudente, practicaba todos los días reduciendo el tempo del metrónomo a un nivel de cámara extremadamente lenta y tocando sólo una tecla por segundo sin error. Programó las trayectorias perfectas de movimiento muscular del teclado en su cerebro y luego las usó para crear movimientos mágicos y espectaculares.\n\nHoy en BuildSelf, presentamos los principios científicos cognitivos del hábito de \"reducir el tempo del metrónomo y presionar una tecla por segundo con precisión\" y una guía de 3 pasos que la gente moderna puede practicar fácilmente en su vida diaria.",
-      "fr": "Le compositeur hongrois Franz Liszt, empereur du piano à l'époque romantique du 19ème siècle et plus grand pianiste virtuose de son temps, a élargi au maximum les limites expressives de la musique pour piano grâce à une sophistication et des méthodes de pratique écrasantes. Au lieu de s'entraîner à jouer rapidement et imprudemment sur le clavier, il s'entraînait chaque jour en ralentissant le tempo du métronome jusqu'à un niveau de ralenti extrême et en ne jouant qu'une seule touche par seconde sans erreur. Il a programmé les trajectoires parfaites des mouvements musculaires du clavier dans son cerveau, puis les a utilisées pour créer des mouvements magiques et spectaculaires.\n\nAujourd'hui, sur BuildSelf, nous présentons les principes scientifiques cognitifs de l'habitude de « ralentir le tempo du métronome et d'appuyer avec précision sur une touche par seconde » ainsi qu'un guide en 3 étapes que les gens modernes peuvent facilement mettre en pratique dans leur vie quotidienne.",
-      "de": "Der ungarische Komponist Franz Liszt, Kaiser des Klaviers in der Romantik des 19. Jahrhunderts und größter virtuoser Pianist seiner Zeit, erweiterte die Ausdrucksgrenzen der Klaviermusik durch überwältigende Raffinesse und Übungsmethoden auf das Maximum. Anstatt das schnelle und rücksichtslose Spielen auf der Tastatur zu üben, übte er jeden Tag, indem er das Tempo des Metronoms auf ein extremes Zeitlupenniveau verlangsamte und nur eine Taste pro Sekunde fehlerfrei spielte. Er programmierte die perfekten Muskelbewegungsbahnen der Tastatur in sein Gehirn und nutzte sie dann, um magische, spektakuläre Bewegungen zu erzeugen.\n\nHeute stellen wir auf BuildSelf die kognitionswissenschaftlichen Prinzipien der Gewohnheit vor, „das Tempo des Metronoms zu verlangsamen und eine Taste pro Sekunde genau anzuschlagen“ und eine dreistufige Anleitung, die moderne Menschen problemlos in ihrem täglichen Leben anwenden können.",
-      "pt": "O compositor húngaro Franz Liszt, o imperador do piano durante a era romântica do século XIX e o maior pianista virtuoso do seu tempo, expandiu ao máximo os limites expressivos da música para piano através de sofisticação e métodos de prática avassaladores. Em vez de praticar tocando rápida e imprudentemente no teclado, ele praticava todos os dias desacelerando o andamento do metrônomo para um nível extremamente lento e tocando apenas uma tecla por segundo sem erros. Ele programou em seu cérebro as trajetórias perfeitas dos movimentos musculares do teclado e depois as usou para criar movimentos mágicos e espetaculares.\n\nHoje, no BuildSelf, apresentamos os princípios científicos cognitivos do hábito de “desacelerar o andamento do metrônomo e acertar uma tecla por segundo com precisão” e um guia de três etapas que as pessoas modernas podem praticar facilmente em suas vidas diárias.",
-      "id": "Komposer Hongaria Franz Liszt, kaisar piano selama era Romantis abad ke-19 dan pianis virtuoso terhebat pada masanya, memperluas batas ekspresi musik piano secara maksimal melalui kecanggihan dan metode latihan yang luar biasa. Alih-alih berlatih bermain keyboard dengan cepat dan sembarangan, ia berlatih setiap hari dengan memperlambat tempo metronom ke tingkat gerakan sangat lambat dan hanya memainkan satu tuts per detik tanpa kesalahan. Dia memprogram lintasan gerakan otot yang sempurna pada keyboard ke dalam otaknya, dan kemudian menggunakannya untuk menciptakan gerakan yang ajaib dan spektakuler.\n\nHari ini di BuildSelf, kami memperkenalkan prinsip ilmiah kognitif tentang kebiasaan 'memperlambat tempo metronom dan menekan satu tuts per detik secara akurat' dan panduan 3 langkah yang dapat dengan mudah dipraktikkan oleh orang modern dalam kehidupan sehari-hari."
+      "ko": "19세기 낭만주의 시대 피아노의 황제이자 당대 최고의 기교파 피아니스트로, 압도적인 정교함과 연습법을 통해 피아노 음악의 표현 한계를 극대화로 팽창시킨 헝가리의 작곡가 프란츠 리스트. 그는 건반 위에서 무작정 빠르게 연주 연습을 반복하는 대신, 메트로놈 템포를 극단적인 슬로 모션 수준으로 늦추어 1초에 단 한 건반만을 오차 없이 정확하게 치는 훈련을 매일 기동했습니다. 그는 뇌 속에 건반의 완벽한 근육 운동 궤적을 프로그래밍한 뒤, 이를 바탕으로 마법 같은 화려한 속주를 완성해 냈습니다.\n\n오늘 포스트에서는 그가 고수한 '메트로놈 템포를 늦추어 1초에 한 건반을 정확하게 치기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다."
     },
     "whyTitle": {
-      "en": "Analysis of brain science principles that lead to success",
-      "ko": "성공을 자아내는 脳科学的 원리 분석",
-      "ja": "成功に導く脳科学原理の分析",
-      "zh": "分析导致成功的脑科学原理",
-      "es": "Análisis de los principios de las ciencias del cerebro que conducen al éxito.",
-      "fr": "Analyse des principes scientifiques du cerveau qui mènent au succès",
-      "de": "Analyse gehirnwissenschaftlicher Prinzipien, die zum Erfolg führen.",
-      "pt": "Análise dos princípios da ciência do cérebro que levam ao sucesso",
-      "id": "Analisis prinsip ilmu otak yang membawa kesuksesan"
+      "ko": "성공을 자아내는 뇌과학적 원리 분석"
     },
     "whyDesc": {
-      "en": "Training to consciously control the movements of fingers and body muscles by slowing down the tempo of movement stimulates fine motor learning and neuron myelination in the cerebellum. Slow repetition of perfect trajectories thickens the myelin, the covering of the corresponding nerve fibers, dramatically improving the efficiency of brain signal transmission by more than 10 times. This is the ultimate error-free routine (Errorless Learning) formation method that does not input any motion errors into the brain.",
-      "ko": "동작의 템포를 늦추어 손가락과 신체 근육의 움직임을 의식 속에서 통제하는 훈련은 소뇌의 정밀 운동 학습(Motor Learning)과 뉴런 수초화를 자극합니다. 완벽한 궤적의 느린 반복은 해당 신경 섬유의 피복인 미엘린(Myelin)을 두껍게 형성하여 뇌 신호 전달 효율을 10배 이상 비약적으로 향상시킵니다. 이는 뇌에 어떠한 동작 오차도 입력시키지 않는 극강의 무오류 루틴(Errorless Learning) 형성법입니다.",
-      "ja": "動きのテンポを遅くして指や体の筋肉の動きを意識的に制御するトレーニングは、細かい運動学習と小脳のニューロン髄鞘形成を刺激します。完璧な軌道をゆっくりと繰り返すことで、対応する神経線維を覆うミエリンが厚くなり、脳信号伝達の効率が 10 倍以上劇的に向上します。動作エラーを脳に入力しない究極のエラーフリールーチン（Errorless Learning）形成法です。",
-      "zh": "通过减慢运动节奏来有意识地控制手指和身体肌肉的运动的训练会刺激小脑的精细运动学习和神经元髓鞘形成。缓慢重复完美的轨迹会使髓磷脂（相应神经纤维的覆盖层）变厚，从而将大脑信号传输的效率显着提高10倍以上。这是终极的无错误套路（Errorless Learning）形成方法，不会向大脑输入任何动作错误。",
-      "es": "Entrenar para controlar conscientemente los movimientos de los dedos y los músculos del cuerpo disminuyendo el ritmo del movimiento estimula el aprendizaje motor fino y la mielinización de las neuronas en el cerebelo. La repetición lenta de trayectorias perfectas espesa la mielina, la cubierta de las fibras nerviosas correspondientes, mejorando drásticamente la eficiencia de la transmisión de señales cerebrales en más de 10 veces. Este es el método de formación de rutinas sin errores (aprendizaje sin errores) definitivo que no introduce ningún error de movimiento en el cerebro.",
-      "fr": "L'entraînement pour contrôler consciemment les mouvements des doigts et des muscles du corps en ralentissant le rythme des mouvements stimule l'apprentissage de la motricité fine et la myélinisation des neurones dans le cervelet. La répétition lente de trajectoires parfaites épaissit la myéline, qui recouvre les fibres nerveuses correspondantes, améliorant considérablement l'efficacité de la transmission des signaux cérébraux de plus de 10 fois. Il s’agit de la méthode ultime de formation de routine sans erreur (Errorless Learning) qui n’introduit aucune erreur de mouvement dans le cerveau.",
-      "de": "Das Training zur bewussten Steuerung der Bewegungen von Fingern und Körpermuskeln durch Verlangsamung des Bewegungstempos stimuliert das feinmotorische Lernen und die Myelinisierung von Neuronen im Kleinhirn. Die langsame Wiederholung perfekter Flugbahnen verdickt das Myelin, die Hülle der entsprechenden Nervenfasern, und verbessert so die Effizienz der Gehirnsignalübertragung um mehr als das Zehnfache. Dies ist die ultimative Methode zur fehlerfreien Routinebildung (Errorless Learning), die keine Bewegungsfehler in das Gehirn einspeist.",
-      "pt": "O treinamento para controlar conscientemente os movimentos dos dedos e dos músculos do corpo, diminuindo o ritmo do movimento, estimula o aprendizado motor fino e a mielinização dos neurônios no cerebelo. A repetição lenta de trajetórias perfeitas engrossa a mielina, a cobertura das fibras nervosas correspondentes, melhorando drasticamente a eficiência da transmissão do sinal cerebral em mais de 10 vezes. Este é o método definitivo de formação de rotina sem erros (Aprendizagem sem Erros) que não insere nenhum erro de movimento no cérebro.",
-      "id": "Latihan mengendalikan gerakan jari dan otot tubuh secara sadar dengan memperlambat tempo gerakan merangsang pembelajaran motorik halus dan mielinisasi neuron di otak kecil. Pengulangan lintasan yang sempurna secara perlahan akan mengentalkan mielin, yang menutupi serabut saraf yang bersangkutan, sehingga secara dramatis meningkatkan efisiensi transmisi sinyal otak lebih dari 10 kali lipat. Ini adalah metode pembentukan rutin bebas kesalahan (Errorless Learning) yang tidak memasukkan kesalahan gerak apa pun ke otak."
+      "ko": "동작의 템포를 늦추어 손가락과 신체 근육의 움직임을 의식 속에서 통제하는 훈련은 소뇌의 정밀 운동 학습(Motor Learning)과 뉴런 수초화를 자극합니다. 완벽한 궤적의 느린 반복은 해당 신경 섬유의 피복인 미엘린(Myelin)을 두껍게 형성하여 뇌 신호 전달 효율을 10배 이상 비약적으로 향상시킵니다. 이는 뇌에 어떠한 동작 오차도 입력시키지 않는 극강의 무오류 루틴(Errorless Learning) 형성법입니다."
     },
     "cautionTitle": {
-      "en": "Behavioral science advice for successful settlement",
-      "ko": "성공적인 안착을 위한 행동과학 조언",
-      "ja": "解決を成功させるための行動科学的アドバイス",
-      "zh": "成功解决问题的行为科学建议",
-      "es": "Consejos de ciencias del comportamiento para un acuerdo exitoso",
-      "fr": "Conseils en sciences comportementales pour une installation réussie",
-      "de": "Verhaltenswissenschaftliche Ratschläge für eine erfolgreiche Lösung",
-      "pt": "Conselhos científicos comportamentais para uma resolução bem-sucedida",
-      "id": "Nasihat ilmu perilaku untuk penyelesaian yang sukses"
+      "ko": "성공적인 안착을 위한 행동과학 조언"
     },
     "cautionDesc": {
-      "en": "Do not use too much force on the keyboard or tools during practice. The essence is to eliminate all force and increase the precision of the cerebellar neural network only with light and slow movements like water.",
-      "ko": "연습 도중 건반이나 도구를 힘으로 무리하게 쥐지 마세요. 힘을 전면 소거한 채, 물 흐르듯 가볍고 느린 움직임만으로 소뇌 신경 회로망의 정밀도를 얹어주는 것이 본질입니다.",
-      "ja": "練習中は鍵盤や道具に力を入れすぎないでください。その本質は、あらゆる力を排除し、水のように軽くてゆっくりとした動きだけで小脳の神経ネットワークの精度を高めることです。",
-      "zh": "练习时不要在键盘或工具上用力过大。本质是只用像水一样轻缓的动作，消除一切力量，提高小脑神经网络的精度。",
-      "es": "No utilice demasiada fuerza en el teclado o las herramientas durante la práctica. La esencia es eliminar toda fuerza y ​​aumentar la precisión de la red neuronal cerebelosa sólo con movimientos ligeros y lentos como el agua.",
-      "fr": "N'utilisez pas trop de force sur le clavier ou les outils pendant la pratique. L'essence est d'éliminer toute force et d'augmenter la précision du réseau neuronal cérébelleux uniquement avec des mouvements légers et lents comme l'eau.",
-      "de": "Üben Sie beim Üben nicht zu viel Kraft auf der Tastatur oder den Werkzeugen aus. Die Essenz besteht darin, alle Kraft zu eliminieren und die Präzision des neuronalen Netzwerks des Kleinhirns nur durch leichte und langsame Bewegungen wie Wasser zu erhöhen.",
-      "pt": "Não use muita força no teclado ou nas ferramentas durante a prática. A essência é eliminar toda a força e aumentar a precisão da rede neural cerebelar apenas com movimentos leves e lentos como a água.",
-      "id": "Jangan menggunakan terlalu banyak tenaga pada keyboard atau alat selama latihan. Intinya adalah menghilangkan segala kekuatan dan meningkatkan presisi jaringan saraf otak kecil hanya dengan gerakan ringan dan lambat seperti air."
+      "ko": "연습 도중 건반이나 도구를 힘으로 무리하게 쥐지 마세요. 힘을 전면 소거한 채, 물 흐르듯 가볍고 느린 움직임만으로 소뇌 신경 회로망의 정밀도를 얹어주는 것이 본질입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Step 1: Environment settings and tool settings",
-          "ko": "1단계: 환경 설정 및 도구 세팅",
-          "ja": "ステップ1：環境設定とツール設定",
-          "zh": "步骤 1：环境设置和工具设置",
-          "es": "Paso 1: configuración del entorno y configuración de herramientas",
-          "fr": "Étape 1 : Paramètres de l'environnement et paramètres des outils",
-          "de": "Schritt 1: Umgebungseinstellungen und Werkzeugeinstellungen",
-          "pt": "Passo 1: Configurações de ambiente e configurações de ferramentas",
-          "id": "Langkah 1: Pengaturan lingkungan dan pengaturan alat"
+          "ko": "1단계: 환경 설정 및 도구 세팅"
         },
         "text": {
-          "en": "Break the action you want to practice (shortcut key typing, presentation action, playing a musical instrument, etc.) into extremely slow motion 5 times slower. Your body begins to relax.",
-          "ko": "연습하고자 하는 행동(단축키 타이핑, 프레젠테이션 동작, 악기 연주 등)을 극단적으로 5배 느린 슬로 모션으로 쪼갭니다. 신체 이완을 시작합니다.",
-          "ja": "練習したい動作（ショートカットキーの入力、プレゼンテーション動作、楽器の演奏など）を5倍の超スローモーションに分割します。体がリラックスし始めます。",
-          "zh": "将要练习的动作（快捷键输入、演示动作、演奏乐器等）分解为慢 5 倍的极慢动作。你的身体开始放松。",
-          "es": "Divida la acción que desea practicar (tecleo de teclas de método abreviado, acción de presentación, tocar un instrumento musical, etc.) en cámara extremadamente lenta 5 veces más lenta. Tu cuerpo comienza a relajarse.",
-          "fr": "Brisez l'action que vous souhaitez pratiquer (saisie d'une touche de raccourci, action de présentation, jouer d'un instrument de musique, etc.) en un mouvement extrêmement lent 5 fois plus lent. Votre corps commence à se détendre.",
-          "de": "Teilen Sie die Aktion, die Sie üben möchten (Tastenkombinationen eingeben, Präsentationsaktion, Spielen eines Musikinstruments usw.), in fünfmal langsamere Extremzeitlupe auf. Ihr Körper beginnt sich zu entspannen.",
-          "pt": "Divida a ação que você deseja praticar (digitação de teclas de atalho, ação de apresentação, tocar um instrumento musical, etc.) em câmera extremamente lenta 5 vezes mais lenta. Seu corpo começa a relaxar.",
-          "id": "Bagi tindakan yang ingin Anda latih (mengetik tombol pintas, tindakan presentasi, memainkan alat musik, dll.) menjadi gerakan sangat lambat 5 kali lebih lambat. Tubuh Anda mulai rileks."
+          "ko": "연습하고자 하는 행동(단축키 타이핑, 프레젠테이션 동작, 악기 연주 등)을 극단적으로 5배 느린 슬로 모션으로 쪼갭니다. 신체 이완을 시작합니다."
         }
       },
       {
         "name": {
-          "en": "Step 2: Full sense projection and practice",
-          "ko": "2단계: 온전한 감각 투사와 실천",
-          "ja": "ステップ 2: 完全な感覚の投影と実践",
-          "zh": "步骤 2：全感觉投射和练习",
-          "es": "Paso 2: Proyección y práctica de todos los sentidos.",
-          "fr": "Étape 2 : Projection plein sens et pratique",
-          "de": "Schritt 2: Vollständige Sinnesprojektion und Übung",
-          "pt": "Passo 2: Projeção de sentido pleno e prática",
-          "id": "Langkah 2: Proyeksi dan latihan indera penuh"
+          "ko": "2단계: 온전한 감각 투사와 실천"
         },
         "text": {
-          "en": "In accordance with a stable beat timer (metronome, etc.), perform only one movement per second slowly and without error, being aware of the minute movements of the body.",
-          "ko": "안정적인 비트 타이머(메트로놈 등)에 맞춰, 1초에 단 한 동작씩 신체의 미세 움직임을 의식하며 오차 없이 느리게 실행합니다.",
-          "ja": "安定した拍子タイマー（メトロノームなど）に従い、体の微細な動きを意識しながら、1秒間に1動作だけをゆっくりと誤差なく行います。",
-          "zh": "按照稳定的节拍计时器（节拍器等），缓慢且无差错地每秒仅进行一个动作，注意身体的微小动作。",
-          "es": "De acuerdo con un cronómetro estable (metrónomo, etc.), realice sólo un movimiento por segundo lentamente y sin errores, siendo consciente de los pequeños movimientos del cuerpo.",
-          "fr": "Conformément à un chronomètre à rythme stable (métronome, etc.), effectuez un seul mouvement par seconde lentement et sans erreur, en étant conscient des mouvements infimes du corps.",
-          "de": "Führen Sie gemäß einem stabilen Taktgeber (Metronom usw.) nur eine Bewegung pro Sekunde langsam und fehlerfrei aus und achten Sie dabei auf die winzigen Bewegungen des Körpers.",
-          "pt": "De acordo com um cronômetro de batida estável (metrônomo, etc.), execute apenas um movimento por segundo lentamente e sem erros, estando atento aos mínimos movimentos do corpo.",
-          "id": "Sesuai dengan pengatur waktu ketukan yang stabil (metronom, dll.), lakukan hanya satu gerakan per detik secara perlahan dan tanpa kesalahan, dengan memperhatikan gerakan tubuh yang sangat kecil."
+          "ko": "안정적인 비트 타이머(메트로놈 등)에 맞춰, 1초에 단 한 동작씩 신체의 미세 움직임을 의식하며 오차 없이 느리게 실행합니다."
         }
       },
       {
         "name": {
-          "en": "Step 3: Objective gaze and meta-organization",
-          "ko": "3단계: 객관적 응시 및 메타 정리",
-          "ja": "ステップ3：客観的な視線とメタ組織化",
-          "zh": "步骤 3：客观凝视和元组织",
-          "es": "Paso 3: Mirada objetiva y metaorganización",
-          "fr": "Étape 3 : Regard objectif et méta-organisation",
-          "de": "Schritt 3: Objektiver Blick und Metaorganisation",
-          "pt": "Passo 3: Olhar objetivo e meta-organização",
-          "id": "Langkah 3: Pandangan obyektif dan meta-organisasi"
+          "ko": "3단계: 객관적 응시 및 메타 정리"
         },
         "text": {
-          "en": "By precisely synchronizing the brain's motor cells to a slow motion trajectory, I observe and record my body's friction force and physical limits.",
-          "ko": "느린 동작 궤적에 뇌의 운동 세포를 정밀 동기화하여 내 몸의 마찰력과 물리 한계를 관찰하고 기록에 남깁니다.",
-          "ja": "脳の運動細胞をスローモーションの軌道に正確に同期させることで、体の摩擦力と物理的限界を観察し、記録します。",
-          "zh": "通过将大脑的运动细胞精确同步到慢动作轨迹，我观察并记录我身体的摩擦力和物理极限。",
-          "es": "Al sincronizar con precisión las células motoras del cerebro con una trayectoria de cámara lenta, observo y registro la fuerza de fricción y los límites físicos de mi cuerpo.",
-          "fr": "En synchronisant avec précision les cellules motrices du cerveau sur une trajectoire au ralenti, j'observe et enregistre la force de friction et les limites physiques de mon corps.",
-          "de": "Indem ich die motorischen Zellen des Gehirns präzise auf eine Zeitlupenbahn synchronisiere, beobachte und zeichne ich die Reibungskraft und physikalischen Grenzen meines Körpers auf.",
-          "pt": "Ao sincronizar com precisão as células motoras do cérebro com uma trajetória em câmera lenta, observo e registro a força de atrito e os limites físicos do meu corpo.",
-          "id": "Dengan menyinkronkan sel motorik otak secara tepat ke lintasan gerakan lambat, saya mengamati dan mencatat gaya gesekan dan batas fisik tubuh saya."
+          "ko": "느린 동작 궤적에 뇌의 운동 세포를 정밀 동기화하여 내 몸의 마찰력과 물리 한계를 관찰하고 기록에 남깁니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "매일 아침 기상 후 스케일 연습을 해야 하나요?",
-          "en": "Should I perform the scales practice immediately after waking up every morning?",
-          "ja": "毎朝起床後にスケール練習を行うべきですか？",
-          "zh": "每天早晨起床后都需要进行音阶练习吗？",
-          "es": "¿Debo realizar la práctica de escalas inmediatamente después de despertar cada mañana?",
-          "fr": "Dois-je faire la pratique des gammes immédiatement après le réveil chaque matin ?",
-          "de": "Sollte ich die Tonleiterübungen jeden Morgen direkt nach dem Aufstehen machen?",
-          "pt": "Devo praticar escalas imediatamente após acordar todas as manhãs?",
-          "id": "Haruskah saya melakukan latihan tangga nada segera setelah bangun tidur setiap pagi?"
+          "ko": "매일 아침 기상 후 스케일 연습을 해야 하나요?"
         },
         "answer": {
-          "ko": "네, 기상 직후 단순 반복적인 손가락 훈련을 통해 두뇌의 운동 피질을 깨우고 주의력 집중 경로를 프레이밍합니다.",
-          "en": "Yes, simple repetitive finger training after waking up awakens the brain's motor cortex and frames the attention pathway.",
-          "ja": "はい、起床直後の単純で反復的な指の訓練を通じて脳の運動皮質を目覚めさせ、注意集中経路をフレーミングします。",
-          "zh": "是的，刚起床进行简单的重复性手指训练，能唤醒大脑的运动皮层，为主管注意力的神经网络路径进行铺垫。",
-          "es": "Sí, el entrenamiento de dedos repetitivo después de despertar despierta la corteza motora cerebral y enmarca el camino de atención.",
-          "fr": "Oui, un entraînement répétitif des doigts après le réveil stimule le cortex moteur et structure le canal de l'attention.",
-          "de": "Ja, einfache Fingerübungen nach dem Aufstehen aktivieren den motorischen Kortex und fokussieren die Aufmerksamkeit.",
-          "pt": "Sim, o treino repetitivo de dedos após acordar ativa o córtex motor cerebral e molda o canal de atenção.",
-          "id": "Ya, latihan jari berulang yang sederhana setelah bangun tidur mengaktifkan korteks motorik otak dan melatih fokus perhatian."
+          "ko": "네, 기상 직후 단순 반복적인 손가락 훈련을 통해 두뇌의 운동 피질을 깨우고 주의력 집중 경로를 프레이밍합니다."
         }
       },
       {
         "question": {
-          "ko": "실제 피아노 건반이 없으면 어떻게 대체하나요?",
-          "en": "How can I substitute if I don't have a real piano?",
-          "ja": "実際のピアノの鍵盤がない場合はどうすればいいですか？",
-          "zh": "没有真实的钢琴键盘时该如何替代？",
-          "es": "¿Cómo puedo sustituir este hábito si no tengo un piano real?",
-          "fr": "Comment puis-je remplacer le piano si je n'en ai pas ?",
-          "de": "Wie kann ich das Klavier ersetzen, wenn ich keins habe?",
-          "pt": "Como posso substituir se não tiver um piano real?",
-          "id": "Bagaimana cara menggantinya jika saya tidak memiliki piano sungguhan?"
+          "ko": "실제 피아노 건반이 없으면 어떻게 대체하나요?"
         },
         "answer": {
-          "ko": "책상 위나 모형 키보드 위에서 메트로놈에 맞춰 손가락을 순차적으로 타건하듯 움직이는 것만으로도 운동 피질 자극 효과가 있습니다.",
-          "en": "Simply moving your fingers sequentially on a desk or model keyboard to a metronome stimulates the motor cortex.",
-          "ja": "机の上や模型キーボードの上でメトロノームに合わせて指を順に打鍵するように動かすだけでも、運動皮質を刺激する効果があります。",
-          "zh": "在桌面上或模拟键盘上配合节拍器依次做出弹琴般的手指敲击动作，也能起到刺激运动皮层的效果。",
-          "es": "Simplemente mover los dedos en orden sobre un escritorio o teclado de juego con un metrónomo estimula la corteza motora.",
-          "fr": "Bouger vos doigts sur un bureau ou un clavier factice au rythme d'un métronome stimule le cortex moteur.",
-          "de": "Tippen Sie Ihre Finger nacheinander auf dem Schreibtisch im Takt eines Metronoms. Das aktiviert ebenfalls den motorischen Kortex.",
-          "pt": "Mover os dedos em ordem sobre uma mesa ou teclado simulado ao ritmo de um metrônomo estimula o córtex motor.",
-          "id": "Menggerakkan jari secara berurutan di atas meja dengan bantuan metronom sudah cukup merangsang korteks motorik."
+          "ko": "책상 위나 모형 키보드 위에서 메트로놈에 맞춰 손가락을 순차적으로 타건하듯 움직이는 것만으로도 운동 피질 자극 효과가 있습니다."
         }
       }
-    ],
-    "pubDate": "2026-04-14",
-    "updatedDate": "2026-04-14"
+    ]
   }
 }

@@ -1,218 +1,72 @@
 {
   "amelia-earhart": {
     "title": {
-      "en": "Earhart's cognitive control training immersed in instrument panel readings even in the cockpit during a typhoon",
-      "ko": "태풍 속 조종석에서도 계기판 수치에 몰입한 에어하트의 인지 통제 훈련",
-      "ja": "イアハートの認知制御トレーニングは、台風時のコックピットでもインパネの読み取りに没頭しました",
-      "zh": "埃尔哈特的认知控制训练沉浸在仪表板读数中，甚至在台风期间在驾驶舱内",
-      "es": "El entrenamiento de control cognitivo de Earhart inmerso en las lecturas del panel de instrumentos incluso en la cabina durante un tifón",
-      "fr": "L'entraînement au contrôle cognitif d'Earhart immergé dans les lectures du tableau de bord, même dans le cockpit lors d'un typhon",
-      "de": "Earharts kognitives Kontrolltraining tauchte während eines Taifuns sogar im Cockpit in die Messwerte der Instrumententafel ein",
-      "pt": "O treinamento de controle cognitivo de Earhart imerso nas leituras do painel de instrumentos, mesmo na cabine durante um tufão",
-      "id": "Pelatihan kontrol kognitif Earhart dibenamkan dalam pembacaan panel instrumen bahkan di kokpit saat terjadi topan"
+      "ko": "태풍 속 조종석에서도 계기판 수치에 몰입한 에어하트의 인지 통제 훈련"
     },
     "description": {
-      "en": "As the first female aviator to successfully cross the Atlantic solo, she calmed her flight anxiety by precisely scraping every morning's weather data and wind fluctuations.",
-      "ko": "대서양 단독 횡단에 성공한 최초의 여성 비행사로, 매일 아침의 기상 데이터와 바람의 변동을 정밀 스크랩하여 비행 불안을 잠재웠습니다.",
-      "ja": "大西洋単独横断に成功した初の女性飛行士として、彼女は毎朝の気象データと風の変動を正確に収集することで飛行の不安を和らげました。",
-      "zh": "作为第一位成功独自飞越大西洋的女飞行员，她通过每天早上精确抓取天气数据和风向波动来平复自己的飞行焦虑。",
-      "es": "Como la primera mujer aviadora en cruzar con éxito el Atlántico en solitario, calmó su ansiedad por el vuelo recopilando con precisión los datos meteorológicos y las fluctuaciones del viento de cada mañana.",
-      "fr": "En tant que première femme aviateur à réussir à traverser l'Atlantique en solo, elle a calmé son anxiété de vol en collectant avec précision les données météorologiques et les fluctuations du vent de chaque matin.",
-      "de": "Als erste Fliegerin, die den Atlantik erfolgreich alleine überquerte, beruhigte sie ihre Flugangst, indem sie jeden Morgen die Wetterdaten und Windschwankungen präzise auflistete.",
-      "pt": "Como a primeira aviadora a cruzar com sucesso o Atlântico sozinha, ela acalmou sua ansiedade de voo coletando com precisão os dados meteorológicos e as flutuações do vento de todas as manhãs.",
-      "id": "Sebagai penerbang wanita pertama yang berhasil melintasi Atlantik sendirian, dia menenangkan kecemasan penerbangannya dengan secara akurat mengumpulkan data cuaca setiap pagi dan fluktuasi angin."
+      "ko": "대서양 단독 횡단에 성공한 최초의 여성 비행사로, 매일 아침의 기상 데이터와 바람의 변동을 정밀 스크랩하여 비행 불안을 잠재웠습니다."
     },
     "authority": {
-      "en": "Amelia Earhart, *The Fun of It* (1932) & Cognitive Neuroscientific Studies",
-      "ko": "Amelia Earhart, *The Fun of It* (1932)",
-      "ja": "アメリア・イアハート、*The Fun of It* (1932) & 認知神経科学研究",
-      "zh": "阿米莉亚·埃尔哈特 (Amelia Earhart)，*它的乐趣* (1932) 和认知神经科学研究",
-      "es": "Amelia Earhart, *The Fun of It* (1932) y estudios neurocientíficos cognitivos",
-      "fr": "Amelia Earhart, *The Fun of It* (1932) & Cognitive Neuroscientific Studies",
-      "de": "Amelia Earhart, *The Fun of It* (1932) & Cognitive Neuroscientific Studies",
-      "pt": "Amelia Earhart, *The Fun of It* (1932) & Cognitive Neuroscientific Studies",
-      "id": "Amelia Earhart, *The Fun of It* (1932) & Studi Ilmu Saraf Kognitif"
+      "ko": "Amelia Earhart 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "en": "Amelia Earhart, a legendary American aviator and aviation pioneer who became the first woman to successfully fly solo across the Atlantic Ocean, spreading the adventurous spirit of challenging the impossible to people around the world, and breaking down social limitations for women. She sat in the narrow, shaky cockpit of the plane and meticulously observed minute-by-minute changes in the compass, altimeter readings, and decibel changes in engine sounds, writing them down in her pilot's notebook. Even in extreme crisis situations where we could experience a typhoon or engine failure at any moment, we held our trembling hands and focused only on the factual information on the instrument panel scale. This habit of thoroughly analyzing and recording analog instruments was the secret to successfully becoming the first woman to fly transatlantic.\n\nToday on BuildSelf, we introduce the cognitive scientific principles of his habit of ‘sitting in the cockpit and recording changes in the compass and instrument panel scales’ and a 3-step guide that modern people can easily practice in their daily lives.",
-      "ko": "여성 최초로 대서양 단독 횡단 비행에 성공하며 전 세계인에게 불가능에 도전하는 모험정신을 전파하고, 여성의 사회적 한계를 허문 미국의 전설적인 비행사이자 비행 개척자 아멜리아 에어하트. 그녀는 비행기의 좁고 흔들리는 조종석에 앉아 나침반의 미세한 흔들림, 고도계의 눈금 변화, 그리고 엔진 소리의 데시벨 변화를 1분 단위로 꼼꼼하게 관찰해 조종 수첩에 직접 적었습니다. 언제 태풍이나 엔진 고장을 겪을지 모르는 극한의 위기 상황에서도 떨리는 손을 부여잡고 오직 계기판 눈금의 팩트 정보에만 인지력을 고정했습니다. 이 철저한 아날로그 계기 분석과 기록 습관은 여성 최초로 대서양 횡단 비행을 무사히 성공시킨 비결이었습니다.\n\n오늘 BuildSelf에서는 그가 고수한 '조종석에 앉아 나침반과 계기판 눈금의 변화 기록하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다.",
-      "ja": "この歴史的習慣の実践において： , . , , 1 . . . この歴史的習慣の実践において： BuildSelf ' ' 3 .",
-      "zh": "在这一历史性惯例的实践中： , . , , 1 . . . 在这一历史性惯例的实践中： BuildSelf ' ' 3 .",
-      "es": "Amelia Earhart, una legendaria aviadora y pionera de la aviación estadounidense que se convirtió en la primera mujer en volar sola con éxito a través del Océano Atlántico, difundiendo el espíritu aventurero de desafiar lo imposible a personas de todo el mundo y rompiendo las limitaciones sociales de las mujeres. Se sentó en la estrecha y temblorosa cabina del avión y observó meticulosamente minuto a minuto los cambios en la brújula, las lecturas del altímetro y los cambios de decibelios en los sonidos del motor, anotándolos en su cuaderno de piloto. Incluso en situaciones de crisis extremas, en las que en cualquier momento podíamos sufrir un tifón o un fallo del motor, nos tomamos las manos temblorosas y nos concentramos únicamente en la información factual en la escala del panel de instrumentos. Este hábito de analizar y grabar minuciosamente instrumentos analógicos fue el secreto para convertirse con éxito en la primera mujer en volar transatlántico.\n\nHoy en BuildSelf, presentamos los principios científicos cognitivos de su hábito de \"sentarse en la cabina y registrar los cambios en la brújula y las escalas del panel de instrumentos\" y una guía de 3 pasos que la gente moderna puede practicar fácilmente en su vida diaria.",
-      "fr": "Amelia Earhart, une légendaire aviatrice américaine et pionnière de l'aviation qui est devenue la première femme à traverser avec succès l'océan Atlantique en solo, propageant l'esprit aventureux du défi de l'impossible aux gens du monde entier et brisant les limitations sociales des femmes. Elle était assise dans le cockpit étroit et fragile de l'avion et observait méticuleusement les changements minute par minute dans la boussole, les lectures de l'altimètre et les changements en décibels dans les bruits du moteur, les notant dans son carnet de pilote. Même dans des situations de crise extrêmes où nous risquions d'être confrontés à tout moment à un typhon ou à une panne moteur, nous avons tenu nos mains tremblantes et nous nous sommes concentrés uniquement sur les informations factuelles affichées sur l'échelle du tableau de bord. Cette habitude d’analyser et d’enregistrer en profondeur des instruments analogiques était le secret pour devenir la première femme à effectuer un vol transatlantique.\n\nAujourd'hui sur BuildSelf, nous présentons les principes scientifiques cognitifs de son habitude de « s'asseoir dans le cockpit et d'enregistrer les changements dans les échelles de la boussole et du tableau de bord » ainsi qu'un guide en 3 étapes que les gens modernes peuvent facilement mettre en pratique dans leur vie quotidienne.",
-      "de": "Amelia Earhart, eine legendäre amerikanische Fliegerin und Flugpionierin, die als erste Frau erfolgreich alleine über den Atlantik flog, den Abenteuergeist, das Unmögliche herauszufordern, auf Menschen auf der ganzen Welt verbreitete und gesellschaftliche Beschränkungen für Frauen überwand. Sie saß im engen, wackeligen Cockpit des Flugzeugs und beobachtete akribisch minütlich die Veränderungen des Kompasses, der Höhenmesser sowie die Dezibelveränderungen der Triebwerksgeräusche und schrieb sie in das Notizbuch ihres Piloten. Selbst in extremen Krisensituationen, in denen es jederzeit zu einem Taifun oder einem Motorschaden kommen konnte, hielten wir unsere zitternden Hände und konzentrierten uns nur auf die sachlichen Informationen auf der Instrumententafel-Skala. Diese Angewohnheit, analoge Instrumente gründlich zu analysieren und aufzuzeichnen, war das Geheimnis dafür, dass sie als erste Frau erfolgreich über den Atlantik flog.\n\nHeute stellen wir auf BuildSelf die kognitionswissenschaftlichen Prinzipien seiner Angewohnheit vor, „im Cockpit zu sitzen und Änderungen im Kompass und auf der Instrumententafelskala aufzuzeichnen“, sowie eine dreistufige Anleitung, die moderne Menschen problemlos in ihrem täglichen Leben anwenden können.",
-      "pt": "Amelia Earhart, uma lendária aviadora americana e pioneira da aviação que se tornou a primeira mulher a voar sozinha com sucesso através do Oceano Atlântico, espalhando o espírito aventureiro de desafiar o impossível para pessoas ao redor do mundo e quebrando as limitações sociais para as mulheres. Ela sentou-se na cabine estreita e instável do avião e observou meticulosamente as mudanças minuto a minuto na bússola, as leituras do altímetro e as mudanças em decibéis nos sons do motor, anotando-as em seu caderno de piloto. Mesmo em situações de crise extremas, em que poderíamos enfrentar um tufão ou uma falha de motor a qualquer momento, mantivemos as mãos trêmulas e nos concentramos apenas nas informações factuais da escala do painel de instrumentos. Esse hábito de analisar e registrar minuciosamente instrumentos analógicos foi o segredo para se tornar a primeira mulher a voar transatlântico.\n\nHoje, no BuildSelf, apresentamos os princípios científicos cognitivos de seu hábito de ‘sentar na cabine e registrar mudanças na bússola e nas escalas do painel de instrumentos’ e um guia de 3 etapas que as pessoas modernas podem praticar facilmente em suas vidas diárias.",
-      "id": "Amelia Earhart, seorang penerbang dan pionir penerbangan legendaris Amerika yang menjadi wanita pertama yang berhasil terbang sendirian melintasi Samudera Atlantik, menyebarkan semangat petualangan menantang hal-hal mustahil kepada orang-orang di seluruh dunia, dan mendobrak batasan sosial bagi wanita. Dia duduk di kokpit pesawat yang sempit dan goyah dan dengan cermat mengamati perubahan menit demi menit pada kompas, pembacaan altimeter, dan perubahan desibel pada suara mesin, dan menuliskannya di buku catatan pilotnya. Bahkan dalam situasi krisis ekstrem di mana kami dapat mengalami angin topan atau kerusakan mesin kapan saja, kami menahan tangan gemetar dan hanya fokus pada informasi faktual pada skala panel instrumen. Kebiasaan menganalisis dan merekam instrumen analog secara menyeluruh inilah yang menjadi rahasia sukses menjadi wanita pertama yang terbang transatlantik.\n\nHari ini di BuildSelf, kami memperkenalkan prinsip ilmiah kognitif dari kebiasaannya 'duduk di kokpit dan mencatat perubahan pada skala kompas dan panel instrumen' serta panduan 3 langkah yang dapat dengan mudah dipraktikkan oleh orang modern dalam kehidupan sehari-hari."
+      "ko": "여성 최초로 대서양 단독 횡단 비행에 성공하며 전 세계인에게 불가능에 도전하는 모험정신을 전파하고, 여성의 사회적 한계를 허문 미국의 전설적인 비행사이자 비행 개척자 아멜리아 에어하트. 그녀는 비행기의 좁고 흔들리는 조종석에 앉아 나침반의 미세한 흔들림, 고도계의 눈금 변화, 그리고 엔진 소리의 데시벨 변화를 1분 단위로 꼼꼼하게 관찰해 조종 수첩에 직접 적었습니다. 언제 태풍이나 엔진 고장을 겪을지 모르는 극한의 위기 상황에서도 떨리는 손을 부여잡고 오직 계기판 눈금의 팩트 정보에만 인지력을 고정했습니다. 이 철저한 아날로그 계기 분석과 기록 습관은 여성 최초로 대서양 횡단 비행을 무사히 성공시킨 비결이었습니다.\n\n오늘 포스트에서는 그가 고수한 '조종석에 앉아 나침반과 계기판 눈금의 변화 기록하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다."
     },
     "whyTitle": {
-      "en": "Analysis of brain science principles that lead to success",
-      "ko": "성공을 자아내는 脳科学的 원리 분석",
-      "ja": "成功に導く脳科学原理の分析",
-      "zh": "分析导致成功的脑科学原理",
-      "es": "Análisis de los principios de las ciencias del cerebro que conducen al éxito.",
-      "fr": "Analyse des principes de la science du cerveau qui mènent au succès",
-      "de": "Analyse hirnwissenschaftlicher Prinzipien, die zum Erfolg führen",
-      "pt": "Análise dos princípios da ciência do cérebro que levam ao sucesso",
-      "id": "Analisis prinsip-prinsip ilmu otak yang mengarah pada kesuksesan"
+      "ko": "성공을 자아내는 뇌과학적 원리 분석"
     },
     "whyDesc": {
-      "en": "In a crisis situation or an unstable work environment, the act of suppressing emotional brain (amygdala) arousal and fixing judgment on physical indicators dramatically activates the brain's frontal cognitive control neural network. The process of quickly converting collected instrument data into text and meta-analyzing it is a powerful device that controls the secretion of cortisol hormone and induces the best, error-free decision-making without panicking in a complex business environment.",
-      "ko": "위기 상황이나 불안한 작업 환경에서 뇌의 감정 뇌(편도체) 각성을 억제하고 물리적 지표에 판단을 고정하는 행위는 뇌의 전두엽 인지 통제(Cognitive Control) 신경망을 비약적으로 활성화합니다. 수집된 계기 데이터를 신속하게 텍스트로 치환하고 메타 분석하는 과정은 코티솔 호르몬의 분비를 통제하고, 복잡한 비즈니스 환경에서 패닉에 빠지지 않고 최선의 오차 없는 의사결정을 유도하는 강력한 장치입니다.",
-      "ja": "危機的状況や不安定な労働環境では、感情的な脳（扁桃体）の興奮を抑制し、物理的指標に判断を固定させる行為により、脳の前頭側認知制御神経ネットワークが劇的に活性化されます。収集した機器データを迅速にテキスト化し、メタ分析するプロセスは、コルチゾールホルモンの分泌を制御し、複雑なビジネス環境においてパニックに陥ることなく、間違いのない最良の意思決定を導く強力な装置です。",
-      "zh": "在危机情况或不稳定的工作环境中，抑制情绪脑（杏仁核）的唤醒和固定对身体指标的判断的行为会极大地激活大脑的额叶认知控制神经网络。将收集到的仪器数据快速转换为文本并进行荟萃分析的过程是一个强大的设备，可以控制皮质醇激素的分泌，并在复杂的商业环境中诱导最佳、无差错的决策，而不会惊慌失措。",
-      "es": "En una situación de crisis o en un ambiente de trabajo inestable, el acto de suprimir la excitación emocional del cerebro (amígdala) y fijar el juicio en indicadores físicos activa dramáticamente la red neuronal de control cognitivo frontal del cerebro. El proceso de convertir rápidamente los datos recopilados de los instrumentos en texto y metaanalizarlos es un dispositivo poderoso que controla la secreción de la hormona cortisol e induce la mejor toma de decisiones sin errores y sin entrar en pánico en un entorno empresarial complejo.",
-      "fr": "Dans une situation de crise ou un environnement de travail instable, le fait de supprimer l'excitation émotionnelle du cerveau (amygdale) et de fixer le jugement sur les indicateurs physiques active considérablement le réseau neuronal de contrôle cognitif frontal du cerveau. Le processus de conversion rapide des données d'instrument collectées en texte et de leur méta-analyse est un dispositif puissant qui contrôle la sécrétion de l'hormone cortisol et induit la meilleure prise de décision, sans erreur, sans paniquer dans un environnement commercial complexe.",
-      "de": "In einer Krisensituation oder einem instabilen Arbeitsumfeld wird durch die Unterdrückung der emotionalen Erregung des Gehirns (Amygdala) und die Festlegung des Urteilsvermögens auf körperliche Indikatoren das frontale neuronale Netzwerk zur kognitiven Kontrolle des Gehirns dramatisch aktiviert. Der Prozess der schnellen Umwandlung gesammelter Instrumentendaten in Text und deren Metaanalyse ist ein leistungsstarkes Gerät, das die Ausschüttung des Hormons Cortisol steuert und die beste, fehlerfreie Entscheidungsfindung ermöglicht, ohne in einem komplexen Geschäftsumfeld in Panik zu geraten.",
-      "pt": "Em uma situação de crise ou em um ambiente de trabalho instável, o ato de suprimir a excitação emocional do cérebro (amígdala) e fixar o julgamento em indicadores físicos ativa dramaticamente a rede neural de controle cognitivo frontal do cérebro. O processo de conversão rápida dos dados coletados do instrumento em texto e meta-análise é um dispositivo poderoso que controla a secreção do hormônio cortisol e induz a melhor tomada de decisão, sem erros, sem entrar em pânico em um ambiente de negócios complexo.",
-      "id": "Dalam situasi krisis atau lingkungan kerja yang tidak stabil, tindakan menekan gairah emosional otak (amigdala) dan menetapkan penilaian pada indikator fisik secara dramatis mengaktifkan jaringan saraf kontrol kognitif frontal otak. Proses dengan cepat mengubah data instrumen yang dikumpulkan menjadi teks dan menganalisisnya secara meta adalah perangkat canggih yang mengontrol sekresi hormon kortisol dan mendorong pengambilan keputusan terbaik dan bebas kesalahan tanpa panik dalam lingkungan bisnis yang kompleks."
+      "ko": "위기 상황이나 불안한 작업 환경에서 뇌의 감정 뇌(편도체) 각성을 억제하고 물리적 지표에 판단을 고정하는 행위는 뇌의 전두엽 인지 통제(Cognitive Control) 신경망을 비약적으로 활성화합니다. 수집된 계기 데이터를 신속하게 텍스트로 치환하고 메타 분석하는 과정은 코티솔 호르몬의 분비를 통제하고, 복잡한 비즈니스 환경에서 패닉에 빠지지 않고 최선의 오차 없는 의사결정을 유도하는 강력한 장치입니다."
     },
     "cautionTitle": {
-      "en": "Behavioral science advice for successful settlement",
-      "ko": "성공적인 안착을 위한 행동과학 조언",
-      "ja": "解決を成功させるための行動科学的アドバイス",
-      "zh": "成功解决问题的行为科学建议",
-      "es": "Consejos de ciencias del comportamiento para un acuerdo exitoso",
-      "fr": "Conseils en sciences comportementales pour un établissement réussi",
-      "de": "Verhaltenswissenschaftliche Ratschläge für eine erfolgreiche Einigung",
-      "pt": "Conselhos científicos comportamentais para uma liquidação bem-sucedida",
-      "id": "Saran ilmu perilaku untuk penyelesaian yang sukses"
+      "ko": "성공적인 안착을 위한 행동과학 조언"
     },
     "cautionDesc": {
-      "en": "Don't be overly obsessed with numerical analysis and make your daily goals too verbose. Focus on giving your brain a clear map of facts by staring at just three cold gauge numbers.",
-      "ko": "수치 분석에 과도하게 집착하여 하루 목표를 너무 장황하게 세우지 마세요. 단 3가지의 차가운 계기 수치만을 응시하여 뇌에 명확한 사실 정보 지도를 얹어주는 것에만 몰두하십시오.",
-      "ja": "数値分析にこだわりすぎて、毎日の目標を冗長にしすぎないでください。たった 3 つのコールド ゲージの数字を見つめて、脳に事実の明確な地図を与えることに集中してください。",
-      "zh": "不要过度沉迷于数字分析，也不要让你的日常目标过于冗长。只需盯着三个冷表数字，专注于为您的大脑提供清晰的事实地图。",
-      "es": "No se obsesione demasiado con el análisis numérico y haga que sus objetivos diarios sean demasiado detallados. Concéntrate en darle a tu cerebro un mapa claro de hechos mirando solo tres números de calibre frío.",
-      "fr": "Ne soyez pas trop obsédé par l'analyse numérique et ne rendez pas vos objectifs quotidiens trop verbeux. Concentrez-vous sur la fourniture à votre cerveau d’une carte claire des faits en observant seulement trois chiffres à froid.",
-      "de": "Seien Sie nicht zu sehr von numerischen Analysen besessen und machen Sie Ihre täglichen Ziele nicht zu ausführlich. Konzentrieren Sie sich darauf, Ihrem Gehirn eine klare Karte der Fakten zu geben, indem Sie nur auf drei Kaltmaßzahlen starren.",
-      "pt": "Não seja excessivamente obcecado por análises numéricas e torne suas metas diárias muito detalhadas. Concentre-se em dar ao seu cérebro um mapa claro dos fatos, observando apenas três números de medidores frios.",
-      "id": "Jangan terlalu terobsesi dengan analisis numerik dan membuat tujuan harian Anda terlalu bertele-tele. Berfokuslah untuk memberikan otak Anda peta fakta yang jelas dengan hanya menatap tiga angka yang dingin."
+      "ko": "수치 분석에 과도하게 집착하여 하루 목표를 너무 장황하게 세우지 마세요. 단 3가지의 차가운 계기 수치만을 응시하여 뇌에 명확한 사실 정보 지도를 얹어주는 것에만 몰두하십시오. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Step 1: Environment settings and tool settings",
-          "ko": "1단계: 환경 설정 및 도구 세팅",
-          "ja": "ステップ1：環境設定とツール設定",
-          "zh": "第1步：环境设置和工具设置",
-          "es": "Paso 1: configuración del entorno y configuración de herramientas",
-          "fr": "Étape 1 : Paramètres de l'environnement et paramètres des outils",
-          "de": "Schritt 1: Umgebungseinstellungen und Werkzeugeinstellungen",
-          "pt": "Passo 1: Configurações de ambiente e configurações de ferramentas",
-          "id": "Langkah 1: Pengaturan lingkungan dan pengaturan alat"
+          "ko": "1단계: 환경 설정 및 도구 세팅"
         },
         "text": {
-          "en": "Every day, for 3 minutes before starting heavy and important work, write down 3 types of numerical information about my current work environment (today's remaining deadline time, number of emails to be processed, key goal indicators, etc.) on a blank sheet of paper. Emotional modifiers are excluded.",
-          "ko": "매일 무겁고 중요한 업무를 시작하기 전 3분 동안, 현재 내 업무 환경의 수치 정보 3가지(오늘 남은 데드라인 시간, 처리할 이메일 개수, 핵심 목표 지표 등)를 백지에 정량 기입합니다. 감정적인 수식어는 배제합니다.",
-          "ja": "毎日、重くて重要な仕事を開始する前に 3 分間、現在の作業環境に関する 3 種類の数値情報 (今日の残りの締め切り時間、処理するメールの数、重要な目標指標など) を白紙の紙に書き留めます。感情的な修飾語は除外されます。",
-          "zh": "每天，在开始繁重而重要的工作之前花3分钟，在一张白纸上写下关于我当前工作环境的3种数字信息（今天剩余的截止时间、要处理的电子邮件数量、关键目标指标等）。情绪调节剂被排除在外。",
-          "es": "Todos los días, durante 3 minutos antes de comenzar un trabajo pesado e importante, escriba 3 tipos de información numérica sobre mi entorno de trabajo actual (el tiempo límite restante de hoy, la cantidad de correos electrónicos a procesar, indicadores clave de objetivos, etc.) en una hoja de papel en blanco. Se excluyen los modificadores emocionales.",
-          "fr": "Chaque jour, pendant 3 minutes avant de commencer un travail lourd et important, notez 3 types d'informations numériques sur mon environnement de travail actuel (délai restant aujourd'hui, nombre d'e-mails à traiter, indicateurs d'objectifs clés, etc.) sur une feuille de papier vierge. Les modificateurs émotionnels sont exclus.",
-          "de": "Jeden Tag, 3 Minuten lang, bevor ich mit schwerer und wichtiger Arbeit beginne, schreibe ich 3 Arten von numerischen Informationen über meine aktuelle Arbeitsumgebung (heutige verbleibende Deadline, Anzahl der zu bearbeitenden E-Mails, wichtige Zielindikatoren usw.) auf ein leeres Blatt Papier. Emotionale Modifikatoren sind ausgeschlossen.",
-          "pt": "Todos os dias, por 3 minutos antes de iniciar um trabalho pesado e importante, anote 3 tipos de informações numéricas sobre meu ambiente de trabalho atual (o prazo restante de hoje, número de e-mails a serem processados, indicadores-chave de metas, etc.) em uma folha de papel em branco. Modificadores emocionais são excluídos.",
-          "id": "Setiap hari, selama 3 menit sebelum memulai pekerjaan berat dan penting, tuliskan 3 jenis informasi numerik tentang lingkungan kerja saya saat ini (sisa waktu tenggat hari ini, jumlah email yang akan diproses, indikator tujuan utama, dll.) pada selembar kertas kosong. Pengubah emosional tidak termasuk."
+          "ko": "매일 무겁고 중요한 업무를 시작하기 전 3분 동안, 현재 내 업무 환경의 수치 정보 3가지(오늘 남은 데드라인 시간, 처리할 이메일 개수, 핵심 목표 지표 등)를 백지에 정량 기입합니다. 감정적인 수식어는 배제합니다."
         }
       },
       {
         "name": {
-          "en": "Step 2: Projection and practice of complete senses",
-          "ko": "2단계: 온전한 감각 투사와 실천",
-          "ja": "ステップ 2: 完全な感覚の投影と実践",
-          "zh": "第二步：完整感官的投射和练习",
-          "es": "Paso 2: Proyección y práctica de los sentidos completos.",
-          "fr": "Étape 2 : Projection et pratique des sens complets",
-          "de": "Schritt 2: Projektion und Übung aller Sinne",
-          "pt": "Passo 2: Projeção e prática de sentidos completos",
-          "id": "Langkah 2: Proyeksi dan latihan indera lengkap"
+          "ko": "2단계: 온전한 감각 투사와 실천"
         },
         "text": {
-          "en": "Instead of emotionally describing the anxiety factors around me or the worries of the day, I only focus my eyes on the visible numerical information and goal in front of me for one minute and look at them coldly.",
-          "ko": "주변의 불안 요소나 오늘 하루의 걱정거리를 감정적으로 서술하지 않고, 오직 눈앞의 가시적인 수치 정보와 목표치에만 1분 동안 눈을 고정하고 차갑게 직시합니다.",
-          "ja": "自分の周りの不安要素やその日の悩みを感情的に説明するのではなく、目の前にある目に見える数値情報や目標に1分間だけ目を集中させて冷ややかに見つめる。",
-          "zh": "我不会情绪化地描述周围的焦虑因素或当天的担忧，而是只将目光集中在眼前可见的数字信息和目标上一分钟，冷冷地看着它们。",
-          "es": "En lugar de describir emocionalmente los factores de ansiedad que me rodean o las preocupaciones del día, solo enfoco mis ojos en la información numérica visible y la meta frente a mí durante un minuto y los miro con frialdad.",
-          "fr": "Au lieu de décrire émotionnellement les facteurs d'anxiété qui m'entourent ou les soucis de la journée, je concentre uniquement mes yeux sur les informations numériques visibles et l'objectif devant moi pendant une minute et je les regarde froidement.",
-          "de": "Anstatt die Angstfaktoren um mich herum oder die Sorgen des Tages emotional zu beschreiben, konzentriere ich meinen Blick für eine Minute nur auf die sichtbaren numerischen Informationen und das Ziel vor mir und betrachte sie kalt.",
-          "pt": "Em vez de descrever emocionalmente os fatores de ansiedade ao meu redor ou as preocupações do dia, eu apenas foco meus olhos nas informações numéricas visíveis e no objetivo à minha frente por um minuto e olho para eles com frieza.",
-          "id": "Alih-alih menggambarkan secara emosional faktor kecemasan di sekitar saya atau kekhawatiran hari ini, saya hanya memfokuskan mata saya pada informasi numerik dan tujuan yang terlihat di depan saya selama satu menit dan melihatnya dengan dingin."
+          "ko": "주변의 불안 요소나 오늘 하루의 걱정거리를 감정적으로 서술하지 않고, 오직 눈앞의 가시적인 수치 정보와 목표치에만 1분 동안 눈을 고정하고 차갑게 직시합니다."
         }
       },
       {
         "name": {
-          "en": "Step 3: Objective gaze and meta-organizing",
-          "ko": "3단계: 객관적 응시 및 메타 정리",
-          "ja": "ステップ3：客観視とメタ整理",
-          "zh": "第三步：客观审视和元组织",
-          "es": "Paso 3: Mirada objetiva y metaorganización",
-          "fr": "Étape 3 : Regard objectif et méta-organisation",
-          "de": "Schritt 3: Objektiver Blick und Meta-Organisation",
-          "pt": "Passo 3: Olhar objetivo e meta-organização",
-          "id": "Langkah 3: Pandangan objektif dan pengorganisasian meta"
+          "ko": "3단계: 객관적 응시 및 메타 정리"
         },
         "text": {
-          "en": "Based on this, we activate the best attention battery by blocking anxiety factors and carefully setting one key milestone to be completed today.",
-          "ko": "이를 바탕으로 불안 요인을 차단하고 오늘 완수할 핵심 마일스톤 1가지를 정교하게 세팅하여 최상의 주의력 배터리를 활성화합니다.",
-          "ja": "これに基づいて、不安要素をブロックし、今日完了すべき 1 つの重要なマイルストーンを慎重に設定することで、最大限の注意力を発揮します。",
-          "zh": "基于此，我们通过阻止焦虑因素并仔细设定今天要完成的一个关键里程碑来激活最佳注意力电池。",
-          "es": "En base a esto, activamos la mejor batería de atención bloqueando los factores de ansiedad y estableciendo cuidadosamente un hito clave para completar hoy.",
-          "fr": "Sur cette base, nous activons la meilleure batterie d'attention en bloquant les facteurs d'anxiété et en fixant soigneusement une étape clé à franchir aujourd'hui.",
-          "de": "Auf dieser Grundlage aktivieren wir die beste Aufmerksamkeitsbatterie, indem wir Angstfaktoren blockieren und sorgfältig einen wichtigen Meilenstein festlegen, den wir heute erreichen möchten.",
-          "pt": "Com base nisso, ativamos a melhor bateria de atenção, bloqueando os fatores de ansiedade e definindo cuidadosamente um marco importante a ser concluído hoje.",
-          "id": "Berdasarkan hal ini, kami mengaktifkan baterai perhatian terbaik dengan memblokir faktor kecemasan dan dengan hati-hati menetapkan satu pencapaian penting yang harus diselesaikan hari ini."
+          "ko": "이를 바탕으로 불안 요인을 차단하고 오늘 완수할 핵심 마일스톤 1가지를 정교하게 세팅하여 최상의 주의력 배터리를 활성화합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "en": "Does dashboard training work immediately even when things get too busy and you feel impatient?",
-          "ko": "일이 너무 막히고 조급증이 날 때도 계기판 훈련이 즉각 작동하나요?",
-          "ja": "忙しすぎて焦っているときでも、ダッシュボード トレーニングはすぐに効果がありますか?",
-          "zh": "即使事情变得太忙并且您感到不耐烦，仪表板培训也会立即起作用吗？",
-          "es": "¿La capacitación en el tablero funciona de inmediato incluso cuando las cosas están demasiado ocupadas y usted se siente impaciente?",
-          "fr": "La formation sur les tableaux de bord fonctionne-t-elle immédiatement même lorsque les choses deviennent trop chargées et que vous vous sentez impatient ?",
-          "de": "Funktioniert das Dashboard-Training sofort, auch wenn es zu hektisch zugeht und Sie ungeduldig sind?",
-          "pt": "O treinamento do painel funciona imediatamente, mesmo quando as coisas ficam muito ocupadas e você fica impaciente?",
-          "id": "Apakah pelatihan dasbor langsung berfungsi meskipun keadaan menjadi terlalu sibuk dan Anda merasa tidak sabar?"
+          "ko": "일이 너무 막히고 조급증이 날 때도 계기판 훈련이 즉각 작동하나요?"
         },
         "answer": {
-          "en": "Yes, it works right away. When impatience occurs, the brain overactivates the amygdala. At this time, if you coldly write down physical figures such as the number of remaining messenger notifications and deadline minutes on a blank sheet of paper, the brain's cognitive control network operates top-down to stabilize your emotions.",
-          "ko": "네, 즉시 작동합니다. 조급증이 일어날 때 뇌는 편도체를 과잉 활성화합니다. 이때 남은 메신저 알림 수, 데드라인 분 등 물리적 수치를 차갑게 백지에 받아 적으면 뇌의 인지 통제 네트워크가 하향식(Top-down)으로 작동해 감정을 안정시킵니다.",
-          "ja": "はい、すぐに機能します。焦りが生じると、脳は扁桃体を過剰に活性化します。このとき、メッセンジャーの通知の残り数や締め切りの分数などの物理的な数字を冷徹に白紙に書き出すと、脳の認知制御ネットワークがトップダウンで作動して感情を安定させます。",
-          "zh": "是的，它立即起作用。当出现不耐烦时，大脑会过度激活杏仁核。这时，如果你冷冷地在一张白纸上写下剩余信使通知数量、截止时间分钟等物理数字，大脑的认知控制网络就会自上而下地运作，稳定你的情绪。",
-          "es": "Sí, funciona de inmediato. Cuando se produce impaciencia, el cerebro sobreactiva la amígdala. En este momento, si escribes fríamente cifras físicas como el número de notificaciones de mensajería restantes y los minutos de la fecha límite en una hoja de papel en blanco, la red de control cognitivo del cerebro opera de arriba hacia abajo para estabilizar tus emociones.",
-          "fr": "Oui, ça marche tout de suite. Lorsque l’impatience survient, le cerveau suractive l’amygdale. À ce moment-là, si vous écrivez froidement des chiffres physiques tels que le nombre de notifications de messagerie restantes et les minutes d'échéance sur une feuille de papier vierge, le réseau de contrôle cognitif du cerveau fonctionne de haut en bas pour stabiliser vos émotions.",
-          "de": "Ja, es funktioniert sofort. Wenn Ungeduld auftritt, überaktiviert das Gehirn die Amygdala. Wenn Sie zu diesem Zeitpunkt physische Zahlen wie die Anzahl der verbleibenden Messenger-Benachrichtigungen und Deadline-Minuten kalt auf ein leeres Blatt Papier schreiben, arbeitet das kognitive Kontrollnetzwerk des Gehirns von oben nach unten, um Ihre Emotionen zu stabilisieren.",
-          "pt": "Sim, funciona imediatamente. Quando ocorre impaciência, o cérebro superativa a amígdala. Neste momento, se você anotar friamente números físicos, como o número de notificações de mensagens restantes e os minutos do prazo final, em uma folha de papel em branco, a rede de controle cognitivo do cérebro operará de cima para baixo para estabilizar suas emoções.",
-          "id": "Ya, langsung berfungsi. Ketika ketidaksabaran terjadi, otak mengaktifkan amigdala secara berlebihan. Pada saat ini, jika Anda dengan dingin menuliskan angka-angka fisik seperti jumlah notifikasi pesan yang tersisa dan menit tenggat waktu pada selembar kertas kosong, jaringan kontrol kognitif otak beroperasi dari atas ke bawah untuk menstabilkan emosi Anda."
+          "ko": "네, 즉시 작동합니다. 조급증이 일어날 때 뇌는 편도체를 과잉 활성화합니다. 이때 남은 메신저 알림 수, 데드라인 분 등 물리적 수치를 차갑게 백지에 받아 적으면 뇌의 인지 통제 네트워크가 하향식(Top-down)으로 작동해 감정을 안정시킵니다."
         }
       },
       {
         "question": {
-          "en": "What values ​​are most recommended to specify as flight instrument panel variables?",
-          "ko": "어떤 수치들을 비행 계기판 변수로 지정하는 것이 가장 추천되나요?",
-          "ja": "フライト計器パネルの変数として指定するのに最も推奨される値は何ですか?",
-          "zh": "最建议指定什么值作为飞行仪表板变量？",
-          "es": "¿Qué valores es más recomendable especificar como variables del panel de instrumentos de vuelo?",
-          "fr": "Quelles valeurs sont les plus recommandées à spécifier comme variables du tableau de bord de vol ?",
-          "de": "Welche Werte werden am meisten als Variablen für die Fluginstrumententafel angegeben?",
-          "pt": "Quais valores são mais recomendados para especificar como variáveis ​​do painel de instrumentos de voo?",
-          "id": "Nilai apa yang paling disarankan untuk ditetapkan sebagai variabel panel instrumen penerbangan?"
+          "ko": "어떤 수치들을 비행 계기판 변수로 지정하는 것이 가장 추천되나요?"
         },
         "answer": {
-          "en": "It is wisest to set the three major indicators centered on 'variables completely under my control' (e.g., number of reports to read, number of calls to make, time to focus) that I can complete today.",
-          "ko": "오늘 당장 내가 완수할 수 있는 '완전히 내 통제 하에 있는 변수'(예: 읽어야 할 보고서 장수, 통화할 개수, 집중할 시간)를 중심으로 3대 지표를 세팅하는 것이 가장 현명합니다.",
-          "ja": "今日完了できる「完全に制御できる変数」（読むレポートの数、電話をかける回数、集中する時間など）を中心に 3 つの主要な指標を設定するのが最も賢明です。",
-          "zh": "最明智的做法是，以我今天可以完成的“完全在我控制范围内的变量”（例如，要阅读的报告数量、要拨打的电话数量、集中时间）为中心设置三个主要指标。",
-          "es": "Es más inteligente establecer los tres indicadores principales centrados en \"variables completamente bajo mi control\" (por ejemplo, número de informes que leer, número de llamadas que hacer, tiempo para concentrarme) que puedo completar hoy.",
-          "fr": "Il est plus sage de définir les trois indicateurs majeurs centrés sur des « variables entièrement sous mon contrôle » (par exemple, nombre de rapports à lire, nombre d'appels à passer, temps de concentration) que je peux compléter aujourd'hui.",
-          "de": "Es ist am klügsten, die drei Hauptindikatoren so festzulegen, dass sie sich auf „Variablen konzentrieren, die vollständig unter meiner Kontrolle stehen“ (z. B. Anzahl der zu lesenden Berichte, Anzahl der zu tätigenden Anrufe, Zeit zum Konzentrieren), die ich heute erledigen kann.",
-          "pt": "É mais sensato definir os três principais indicadores centrados em “variáveis ​​completamente sob meu controle” (por exemplo, número de relatórios a ler, número de chamadas a fazer, tempo para focar) que posso completar hoje.",
-          "id": "Yang paling bijaksana adalah memusatkan tiga indikator utama pada 'variabel yang sepenuhnya berada di bawah kendali saya' (misalnya, jumlah laporan yang harus dibaca, jumlah panggilan yang harus dilakukan, waktu untuk fokus) yang dapat saya selesaikan hari ini."
+          "ko": "오늘 당장 내가 완수할 수 있는 '완전히 내 통제 하에 있는 변수'(예: 읽어야 할 보고서 장수, 통화할 개수, 집중할 시간)를 중심으로 3대 지표를 세팅하는 것이 가장 현명합니다."
         }
       }
-    ],
-    "pubDate": "2026-01-31",
-    "updatedDate": "2026-01-31"
+    ]
   }
 }

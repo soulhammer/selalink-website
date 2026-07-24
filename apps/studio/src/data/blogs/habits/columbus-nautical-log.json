@@ -1,218 +1,72 @@
 {
   "columbus-nautical-log": {
     "title": {
-      "ko": "대항해 시대를 연 선장? 콜럼버스의 야간 항해일지 & 별자리 수치 루틴",
-      "en": "Captain of the Age of Discovery? Columbus's Nightly Logbook & Celestial Routine",
-      "ja": "大航海時代を開いた船長？コロンブスの夜の航海日記＆天体数値照合ルーティン",
-      "zh": "开启大航海时代的船长？哥伦布的夜间航海日志与星象核对习惯",
-      "es": "¿El capitán de la Era de los Descubrimientos? La rutina de cuaderno de bitácora nocturno de Colón",
-      "fr": "Le capitaine de l'Âge des Découvertes ? La routine de journal de bord nocturne de Colomb",
-      "de": "Der Kapitän des Zeitalters der Entdeckungen? Kolumbus' nächtliche Logbuch-Routine",
-      "pt": "O capitão da Era dos Descobrimentos? A rotina de diário de bordo noturno de Colombo",
-      "id": "Kapten Era Penjelajahan? Rutinitas Logbook Malam & Pengukuran Bintang Columbus"
+      "ko": "대항해 시대를 연 선장? 콜럼버스의 야간 항해일지 & 별자리 수치 루틴"
     },
     "description": {
-      "ko": "미지의 대서양을 넘은 탐험가 콜럼버스가 폭풍과 공포 속에서도 매일 밤 항해 일지를 기록하며 극도의 이성적 안정을 유지했던 과학적 일지 습관.",
-      "en": "Discover how Christopher Columbus controlled fear and uncertainty by writing a nightly nautical logbook across the ocean.",
-      "ja": "未知の大西洋を渡ったコロンブスが暴風と恐怖の中で毎夜航海日記を記録し、冷静さを維持した習慣を紹介します。",
-      "zh": "介绍探险家哥伦布在跨越大西洋期间，通过每天夜晚记录航海日志克服未知恐慌与保持清醒镇定的习惯。",
-      "es": "Descubra cómo Cristóbal Colón controló el miedo y la incertidumbre escribiendo su diario de a bordo cada noche.",
-      "fr": "Découvrez comment Christophe Colomb contrôlait la peur en rédigeant son journal de bord chaque nuit.",
-      "de": "Erfahren Sie, wie Kolumbus Angst und Unsicherheit durch ein nächtliches Logbuch beherrschte.",
-      "pt": "Descubra como Cristóvão Colombo controlava o medo escrevendo seu diário de bordo todas as noites.",
-      "id": "Temukan bagaimana Columbus mengendalikan ketakutan dengan menulis logbook pelayaran setiap malam."
+      "ko": "미지의 대서양을 넘은 탐험가 콜럼버스가 폭풍과 공포 속에서도 매일 밤 항해 일지를 기록하며 극도의 이성적 안정을 유지했던 과학적 일지 습관."
     },
     "authority": {
-      "ko": "1492년 항해 사료 'The Journal of Christopher Columbus' 및 전기 역사서",
-      "en": "1492 Logbook 'The Journal of Christopher Columbus' & Historical Biographies",
-      "ja": "1492年航海史料「The Journal of Christopher Columbus」および史料",
-      "zh": "1492年航海史料《The Journal of Christopher Columbus》与历史传记",
-      "es": "Diario de Navegación de 1492 'The Journal of Christopher Columbus' y Biografías",
-      "fr": "Journal de bord de 1492 'The Journal of Christopher Colomb' & Biographies Historiques",
-      "de": "Logbuch von 1492 'The Journal of Christopher Columbus' & Historische Biografien",
-      "pt": "Diário de Navegação de 1492 'The Journal of Christopher Columbus' e Biografias",
-      "id": "Logbook Pelayaran 1492 'The Journal of Christopher Columbus' & Biografi Sejarah"
+      "ko": "콜럼버스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "1492년, 3척의 작은 목선 산타마리아호·핀타호·니냐호를 이끌고 아무도 건너본 적 없는 끝없는 대서양의 암흑을 가로질러 신대륙 항로를 개척한 대탐험가, 크리스토퍼 콜럼버스(Christopher Columbus). 수평선 끝에 펼쳐진 절망적인 깊이와 '지구 끝에서 떨어질지 모른다'는 선원들의 폭동 위기 속에서 그는 어떻게 흔들리지 않는 극강의 지휘력을 유지했을까요? ⛵\n\n콜럼버스는 미지의 바다 한가운데서 매일 밤 어두운 선실 촛불 아래 앉아 사분의(Astrolabe)로 읽어낸 별자리의 각도와 바람의 속도, 그리고 수심 데이터를 '항해 일지(Nautical Log)'에 정량적으로 기록했습니다. 주관적인 공포와 감정적 불안이 엄습할 때마다 정밀한 숫자와 지형 기록으로 이를 변환시키는 야간 일지 작성 습관은 뇌의 편도체 불안 반응을 진정시키고 선단을 성공으로 이끄는 강력한 정서 제어 장치였습니다.\n\n오늘 BuildSelf에서는 콜럼버스의 야간 항해일지 작성 루틴에 담긴 정량적 데이터 기록을 통한 불안 제어 과학과 현대인을 위한 3단계 마인드 앵커링 기법을 알아봅니다.",
-      "en": "In 1492, leading three small wooden vessels—the Santa María, Pinta, and Niña—across the uncharted Atlantic Ocean, Christopher Columbus opened a new era of global exploration. Facing sailors on the brink of mutiny and the terrifying expanse of the unknown ocean, how did he maintain iron-willed emotional composure and command leadership? ⛵\n\nEvery night inside his dim cabin by candlelight, Columbus wrote meticulous entries in his nautical logbook. He recorded exact wind directions, magnetic compass variations, and astrolabe star altitudes. By converting subjective fear and existential anxiety into objective quantitative numbers and physical coordinates, his nightly logging routine calmed his amygdala and anchored his psychological resilience.\n\nToday, BuildSelf unpacks the neuroscience behind Christopher Columbus's nautical log routine, showing how objective data tracking neutralizes anxiety and fortifies focus during high-stakes uncertainty.",
-      "ja": "この歴史的習慣の実践において：1492, 3 ·· , (Christopher Columbus). ' ' ? ⛵ この歴史的習慣の実践において： (Astrolabe) , ' (Nautical Log)' . . この歴史的習慣の実践において： BuildSelf 3 .",
-      "zh": "在这一历史性惯例的实践中：1492, 3 ·· , (Christopher Columbus). ' ' ? ⛵ 在这一历史性惯例的实践中： (Astrolabe) , ' (Nautical Log)' . . 在这一历史性惯例的实践中： BuildSelf 3 .",
-      "es": "En la práctica de esta rutina transformadora: 1492, 3   ··             ,  (Christopher Columbus).      '   '           ? ⛵\n\nEn la práctica de esta rutina transformadora:            (Astrolabe)     ,    ' (Nautical Log)'  .                            .\n\nEn la práctica de esta rutina transformadora:  BuildSelf                3    .\n\nAl practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora: 1492, 3   ··             ,  (Christopher Columbus).      '   '           ? ⛵\n\nNa prática desta rotina transformadora:            (Astrolabe)     ,    ' (Nautical Log)'  .                            .\n\nNa prática desta rotina transformadora:  BuildSelf                3    .\n\nAo praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "1492년, 3척의 작은 목선 산타마리아호·핀타호·니냐호를 이끌고 아무도 건너본 적 없는 끝없는 대서양의 암흑을 가로질러 신대륙 항로를 개척한 대탐험가, 크리스토퍼 콜럼버스(Christopher Columbus). 수평선 끝에 펼쳐진 절망적인 깊이와 '지구 끝에서 떨어질지 모른다'는 선원들의 폭동 위기 속에서 그는 어떻게 흔들리지 않는 극강의 지휘력을 유지했을까요? ⛵\n\n콜럼버스는 미지의 바다 한가운데서 매일 밤 어두운 선실 촛불 아래 앉아 사분의(Astrolabe)로 읽어낸 별자리의 각도와 바람의 속도, 그리고 수심 데이터를 '항해 일지(Nautical Log)'에 정량적으로 기록했습니다. 주관적인 공포와 감정적 불안이 엄습할 때마다 정밀한 숫자와 지형 기록으로 이를 변환시키는 야간 일지 작성 습관은 뇌의 편도체 불안 반응을 진정시키고 선단을 성공으로 이끄는 강력한 정서 제어 장치였습니다.\n\n오늘 포스트에서는 콜럼버스의 야간 항해일지 작성 루틴에 담긴 정량적 데이터 기록을 통한 불안 제어 과학과 현대인을 위한 3단계 마인드 앵커링 기법을 알아봅니다."
     },
     "whyTitle": {
-      "ko": "야간 정량 일지 작성을 통한 편도체(Amygdala) 안정 및 이성 회복",
-      "en": "Nightly Log Writing for Amygdala Calm & Rational Recovery",
-      "ja": "夜の定量日記作成による偏桃体安定と理性回復",
-      "zh": "通过夜间定量日志书写平息杏仁核恐慌与恢复理智",
-      "es": "Registro Nocturno de Datos para Calmar la Amígdala y Recuperar la Razón",
-      "fr": "Journal Nocturne pour Apaiser l'Amygdale & Récupérer la Raison",
-      "de": "Nächtliches Logbuch zur Beruhigung der Amygdala & rationaler Erholung",
-      "pt": "Diário Noturno de Dados para Acalmar a Amígdala e Recuperar a Razão",
-      "id": "Penulisan Logbook Malam untuk Menenangkan Amigdala & Memulihkan Akal"
+      "ko": "야간 정량 일지 작성을 통한 편도체(Amygdala) 안정 및 이성 회복"
     },
     "whyDesc": {
-      "ko": "모호한 불안감은 뇌의 감정 센터인 편도체를 과활성화하여 심박수를 올리고 불면증과 파닉 상태를 유발합니다.\n\n콜럼버스처럼 있었던 사실과 정량적 데이터(수치/지표)를 글로 작성하는 <strong>'야간 항해 일지 기록'</strong>은 감정 뇌에서 이성 뇌인 전전두엽으로 주도권을 넘기는 최고의 신경학적 전환 스위치입니다. 불안의 실체가 직시되고 마음의 평정이 찾아옵니다.",
-      "en": "Vague anxiety overactivates the amygdala, driving up heart rate and causing insomnia.\n\nWriting down factual progress and metrics in a <strong>'Nightly Logbook'</strong> shifts brain control from emotion to the prefrontal cortex.",
-      "ja": "漠然とした不安は偏桃体を過剰活性化させ、心拍数を上げパニックを引き起こします。\n\n事実と計量を記録する<strong>「夜の航海日記」</strong>は、感情から前頭前野へ主導権を渡す最高の転換スイッチです。",
-      "zh": "模糊的焦虑会过度激活杏仁核，引发心率飙升与恐慌自失。\n\n像哥伦布那样将真实进展与量化指标写入<strong>“夜间航海日志”</strong>，是促成掌控权从情绪大脑转移至前额叶理智大脑的最强神经开关。",
-      "es": "La ansiedad vaga hiperactiva la amígdala, causando insomnio y pánico.\n\nEscribir hechos y métricas en un <strong>'Cuaderno de Bitácora Nocturno'</strong> traslada el control del cerebro emocional al prefrontal.",
-      "fr": "L'anxiété vague hyperactive l'amygdale, provoquant l'insomnie.\n\nÉcrire des faits dans un <strong>'Journal Nocturne'</strong> transfère le contrôle vers le cortex préfrontal.",
-      "de": "Vage Angst überaktiviert die Amygdala und führt zu Schlaflosigkeit.\n\nFakten in ein <strong>'Nächtliches Logbuch'</strong> einzutragen überträgt die Steuerung auf den präfrontalen Kortex.",
-      "pt": "A ansiedade vaga hiperativa a amígdala, causando insônia e pânico.\n\nEscrever fatos em um <strong>'Diário Noturno de Bordo'</strong> transfere o controle do cérebro emocional para o prefrontal.",
-      "id": "Kecemasan yang samar memicu hiperaktivitas amigdala dan insomnia.\n\nMenuliskan fakta dan metrik dalam <strong>'Logbook Malam'</strong> mengalihkan kendali otak ke korteks prefrontal."
+      "ko": "모호한 불안감은 뇌의 감정 센터인 편도체를 과활성화하여 심박수를 올리고 불면증과 파닉 상태를 유발합니다.\n\n콜럼버스처럼 있었던 사실과 정량적 데이터(수치/지표)를 글로 작성하는 <strong>'야간 항해 일지 기록'</strong>은 감정 뇌에서 이성 뇌인 전전두엽으로 주도권을 넘기는 최고의 신경학적 전환 스위치입니다. 불안의 실체가 직시되고 마음의 평정이 찾아옵니다."
     },
     "cautionTitle": {
-      "ko": "감정적 푸념 대신 객관적 사실과 수치를 기재하세요",
-      "en": "Log Objective Facts and Numbers Rather Than Emotional Complaints",
-      "ja": "感情的な愚痴ではなく客観的な事実と数値を記録しましょう",
-      "zh": "记录客观事实与具体数值，而非发泄情绪抱怨",
-      "es": "Registre hechos objetivos y números en lugar de quejas emocionales",
-      "fr": "Inscrivez des faits objectifs et des chiffres plutôt que des plaintes",
-      "de": "Tragen Sie objektive Fakten und Zahlen ein statt emotionaler Klagen",
-      "pt": "Registre fatos objetivos e números em vez de lamentações emocionais",
-      "id": "Catat fakta objektif dan angka daripada keluhan emosional"
+      "ko": "감정적 푸념 대신 객관적 사실과 수치를 기재하세요"
     },
     "cautionDesc": {
-      "ko": "항해 일지의 본질은 객관화입니다. '오늘 힘들었다'보다는 '오늘 목표 분량 5쪽 중 4쪽 완료'처럼 수치화된 사실을 기록해야 편도체 진정 효과가 극대화됩니다.",
-      "en": "The essence of a log is objectivity. Record 'Completed 4 of 5 goal pages' instead of 'Today was tough'.",
-      "ja": "航海日記の本质は客観化です。「今日はつらかった」より「目標5ページ中4ページ完了」と数値で記録してください。",
-      "zh": "航海日志的本质在于客观化。相比“今天好累”，记录“设定5页目标已完成4页”更能最大化镇定杏仁核。",
-      "es": "La esencia de la bitácora es la objetividad. Anote 'Completé 4 de 5 páginas' en lugar de 'Hoy fue duro'.",
-      "fr": "L'essence du journal est l'objectivité. Notez 'Complété 4 pages sur 5' au lieu de 'Journée difficile'.",
-      "de": "Die Essenz eines Logbuchs ist Objektivität. Tragen Sie '4 von 5 Seiten erledigt' ein statt 'Heute war es schwer'.",
-      "pt": "A essência do diário é a objetividade. Anote 'Completei 4 de 5 páginas' em vez de 'Hoje foi difícil'.",
-      "id": "Inti logbook adalah objektivitas. Catat 'Selesai 4 dari 5 halaman' daripada 'Hari ini berat'."
+      "ko": "항해 일지의 본질은 객관화입니다. '오늘 힘들었다'보다는 '오늘 목표 분량 5쪽 중 4쪽 완료'처럼 수치화된 사실을 기록해야 편도체 진정 효과가 극대화됩니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "취침 전 나만의 3줄 항해 일기 노트를 펴기",
-          "en": "Open Your 3-Line Nightly Log Notebook Before Bed",
-          "ja": "就寝前の3行航海日記ノートを開く",
-          "zh": "睡前打开专属3行航海日志本",
-          "es": "Abra su Cuaderno de Bitácora de 3 Líneas antes de Dormir",
-          "fr": "Ouvrez votre Carnet de Bord à 3 Lignes avant de Dormir",
-          "de": "Öffnen Sie Ihr 3-Zeilen-Logbuch vor dem Schlafen",
-          "pt": "Abra seu Diário de Bordo de 3 Linhas antes de Dormir",
-          "id": "Buka Buku Catatan Logbook 3 Baris Sebelum Tidur"
+          "ko": "취침 전 나만의 3줄 항해 일기 노트를 펴기"
         },
         "text": {
-          "ko": "매일 밤 침대 곁 조명 아래 일기장을 펼치고 당일 항해의 기록을 시작할 정적 상태를 갖춥니다.",
-          "en": "Open your logbook by the bed every night under warm lighting and prepare to record your day's journey.",
-          "ja": "毎夜ベッドサイドでノートを開き、今日の航海の記録を開始する静かな状態を整えます。",
-          "zh": "每天夜晚在床头温馨的灯光下翻开日志本，进入记录全天航程的宁静状态。",
-          "es": "Abra su libreta junto a la cama cada noche bajo luz cálida y prepárese para registrar su jornada.",
-          "fr": "Ouvrez votre carnet près du lit sous une lumière douce pour consigner le voyage du jour.",
-          "de": "Öffnen Sie Ihr Logbuch jeden Abend am Bett bei warmem Licht zur Aufzeichnung der Tagesreise.",
-          "pt": "Abra seu diário perto da cama todas as noites sob luz suave para registrar a jornada do dia.",
-          "id": "Buka buku catatan di dekat tempat tidur setiap malam dan siap mencatat perjalanan hari ini."
+          "ko": "매일 밤 침대 곁 조명 아래 일기장을 펼치고 당일 항해의 기록을 시작할 정적 상태를 갖춥니다."
         }
       },
       {
         "name": {
-          "ko": "팩트 기반 3줄 수치 기록 (완료/진행/지표)",
-          "en": "Record 3 Fact-Based Metrics (Done/Progress/Metric)",
-          "ja": "ファクトベースの3行数値記録（完了/進行/指標）",
-          "zh": "基于事实记录3行量化指标（完成/进展/数据）",
-          "es": "Registre 3 Datos Basados en Hechos (Hecho/Avance/Métrica)",
-          "fr": "Consignez 3 Lignes de Faits (Fait/Progrès/Chiffre)",
-          "de": "Tragen Sie 3 faktenbasierte Zeilen ein (Erledigt/Fortschritt/Zahl)",
-          "pt": "Registre 3 Dados Baseados em Fatos (Feito/Progresso/Métrica)",
-          "id": "Catat 3 Baris Berbasis Fakta (Selesai/Kemajuan/Metrik)"
+          "ko": "팩트 기반 3줄 수치 기록 (완료/진행/지표)"
         },
         "text": {
-          "ko": "1) 오늘 완료한 수치 2) 진행 중인 과제 수치 3) 내일의 방향을 담은 3줄 팩트를 명확히 기재합니다.",
-          "en": "Clearly log: 1) What was completed today with numbers, 2) Ongoing metrics, 3) Tomorrow's target direction.",
-          "ja": "1) 今日完了した数値 2) 進行中の数値 3) 明日の方向性の3行のファクトを明確に記入します。",
-          "zh": "清晰记录：1) 今日已算量完成的具体事项 2) 推进中的数据 3) 明日确切航向。",
-          "es": "Anote claramente: 1) Lo completado hoy con cifras, 2) Avance actual, 3) Rumbo de mañana.",
-          "fr": "Consignez clairement : 1) Ce qui a été accompli en chiffres, 2) Avancement, 3) Cap pour demain.",
-          "de": "Tragen Sie klar ein: 1) Was heute zahlenmäßig erledigt wurde, 2) Fortschritt, 3) Kurs für morgen.",
-          "pt": "Anote claramente: 1) O que foi concluído hoje com números, 2) Avanço atual, 3) Rumo de amanhã.",
-          "id": "Catat dengan jelas: 1) Yang selesai hari ini dalam angka, 2) Metrik berjalan, 3) Arah besok."
+          "ko": "1) 오늘 완료한 수치 2) 진행 중인 과제 수치 3) 내일의 방향을 담은 3줄 팩트를 명확히 기재합니다."
         }
       },
       {
         "name": {
-          "ko": "뇌의 통제권 회복 선언 및 숙면 이행",
-          "en": "Declare Brain Control Recovered & Transition to Sleep",
-          "ja": "脳の統制権回復宣言と熟睡への移行",
-          "zh": "宣告掌控权归位并安心步入深度睡眠",
-          "es": "Declare el Control Recuperado y Pase a Dormir",
-          "fr": "Déclarez le Contrôle Retrouvé & Passez au Sommeil",
-          "de": "Bestätigen Sie die Kontrolle & Gehen Sie Schlafen",
-          "pt": "Declare o Controle Recuperado e Vá Dormir",
-          "id": "Deklarasikan Kendali Otak Membaik & Siap Tidur Nyenyak"
+          "ko": "뇌의 통제권 회복 선언 및 숙면 이행"
         },
         "text": {
-          "ko": "일기를 덮으며 '오늘의 항해는 안전하게 완료되었다'고 마음속으로 읊조린 뒤 편안하게 취침에 듭니다.",
-          "en": "Close the logbook, silently whisper 'Today's voyage is safely logged', and go to sleep peacefully.",
-          "ja": "ノートを閉じ「今日の航海は安全に完了した」と心で呟き、安心して眠りにつきます。",
-          "zh": "合上日志本，在心中默念“今天的航程已安全落案”，而后安心步入睡眠。",
-          "es": "Cierre la libreta, susurre 'El viaje de hoy está a salvo' y duerma con tranquilidad.",
-          "fr": "Fermez le carnet, murmurez 'Le voyage du jour est consigné' et dormez paisiblement.",
-          "de": "Schließen Sie das Buch, sagen Sie leise 'Die heutige Reise ist gesichert' und schlafen Sie ein.",
-          "pt": "Feche o diário, sussurre 'A viagem de hoje está segura' e dorma em paz.",
-          "id": "Tutup logbook, katakan 'Pelayaran hari ini telah tercatat aman', dan tidur dengan tenang."
+          "ko": "일기를 덮으며 '오늘의 항해는 안전하게 완료되었다'고 마음속으로 읊조린 뒤 편안하게 취침에 듭니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "스마트폰 메모 앱에 작성해도 일지 효과가 같나요?",
-          "en": "Is writing in a phone notes app equally effective?",
-          "ja": "スマホのメモアプリに記録しても同じ効果がありますか？",
-          "zh": "用手机备忘录记录能获得相同的效果吗？",
-          "es": "¿Es igual de efectivo escribir en una app de notas en el móvil?",
-          "fr": "Est-ce aussi efficace d'écrire dans une application de notes ?",
-          "de": "Ist eine Notizen-App auf dem Handy genauso effektiv?",
-          "pt": "Escrever em um aplicativo de notas no celular é tão eficaz quanto?",
-          "id": "Apakah menulis di aplikasi catatan ponsel sama efektifnya?"
+          "ko": "스마트폰 메모 앱에 작성해도 일지 효과가 같나요?"
         },
         "answer": {
-          "ko": "손으로 직접 종이에 기재하는 물리적 촉각 자극이 뇌의 운동 피질을 더 넓게 자극하여 편도체 진정 효과가 훨씬 탁월합니다. 수첩 사용을 추천합니다.",
-          "en": "Physical handwriting stimulates the motor cortex more deeply, achieving superior amygdala calming. Notebooks are recommended.",
-          "ja": "紙に手で書く触覚刺激のほうが脳の運動野を広く刺激し、偏桃体の安定効果が優れています。ノートをお勧めします。",
-          "zh": "在纸张上亲手书写的物理触觉刺激能更广泛地激发大脑运动皮层，达到远优于屏幕的镇静效果。强烈推荐手抄本。",
-          "es": "Escribir a mano en papel estimula más el córtex motor, logrando un mejor efecto en la amígdala. Se recomienda libreta.",
-          "fr": "Écrire à la main sur papier stimule mieux le cortex moteur, apaisant mieux l'amygdale. Le carnet est recommandé.",
-          "de": "Handschrift auf Papier stimuliert den motorischen Kortex stärker und beruhigt die Amygdala besser. Empfohlen.",
-          "pt": "Escrever à mão no papel estimula mais o córtex motor, acalmando melhor a amígdala. Recomenda-se diário físico.",
-          "id": "Menulis tangan di kertas merangsang korteks motorik lebih luas, menenangkan amigdala lebih baik. Pakailah buku catatan."
+          "ko": "손으로 직접 종이에 기재하는 물리적 촉각 자극이 뇌의 운동 피질을 더 넓게 자극하여 편도체 진정 효과가 훨씬 탁월합니다. 수첩 사용을 추천합니다."
         }
       },
       {
         "question": {
-          "ko": "너무 피곤해서 일기를 쓰지 못하고 잘 것 같은 날엔 어떻게 하나요?",
-          "en": "What if I'm too exhausted to write a full log entry before bed?",
-          "ja": "疲れすぎて日記を書けずに寝てしまいそうな日はどうすればいいですか？",
-          "zh": "如果太累无法完成完整日志该怎么办？",
-          "es": "¿Qué hacer si estoy demasiado agotado para escribir el diario?",
-          "fr": "Que faire si je suis trop fatigué pour écrire le journal ?",
-          "de": "Was tun, wenn ich zu müde für einen vollen Logbuch-Eintrag bin?",
-          "pt": "O que fazer se estiver exausto demais para escrever o diário?",
-          "id": "Bagaimana jika terlalu lelah untuk menulis logbook sebelum tidur?"
+          "ko": "너무 피곤해서 일기를 쓰지 못하고 잘 것 같은 날엔 어떻게 하나요?"
         },
         "answer": {
-          "ko": "단 1줄, '오늘 완료: 과제 A' 하나만 적어도 괜찮습니다. 끊어지지 않는 기록의 연결 고리 자체가 뇌에 안도감을 제공합니다.",
-          "en": "Even writing a single line like 'Completed Task A' works. An unbroken streak gives your brain security.",
-          "ja": "たった1行「今日完了：タスクA」と書くだけでも大丈夫です。連続性が脳に安心感を与えます。",
-          "zh": "只需简短写下1行“今天完成：任务A”即可。无间断的记录连续性本身就能向大脑输送安全感。",
-          "es": "Incluso una sola línea como 'Completado: Tarea A' basta. Mantener la racha le da seguridad al cerebro.",
-          "fr": "Même 1 seule ligne comme 'Complété : Tâche A' suffit. La régularité rassure le cerveau.",
-          "de": "Eine einzige Zeile wie 'Heute erledigt: Aufgabe A' reicht. Die Kette gibt dem Gehirn Sicherheit.",
-          "pt": "Mesmo uma única linha como 'Concluído: Tarefa A' basta. Manter a sequência dá segurança ao cérebro.",
-          "id": "Cukup tulis 1 baris seperti 'Hari ini selesai: Tugas A'. Kontinuitas memberikan rasa aman pada otak."
+          "ko": "단 1줄, '오늘 완료: 과제 A' 하나만 적어도 괜찮습니다. 끊어지지 않는 기록의 연결 고리 자체가 뇌에 안도감을 제공합니다."
         }
       }
-    ],
-    "pubDate": "2026-04-25",
-    "updatedDate": "2026-04-25"
+    ]
   }
 }

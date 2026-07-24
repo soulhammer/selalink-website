@@ -1,218 +1,72 @@
 {
   "helen-keller": {
     "title": {
-      "en": "Helen Keller's tactile imitation training awakened palm spelling sense in the dark",
-      "ko": "어둠 속에서 손바닥 철자 감각을 깨운 헬렌 켈러의 촉각 모방 훈련",
-      "ja": "ヘレン・ケラーの触覚模倣トレーニングにより、暗闇の中で手のひらの綴りの感覚が目覚めた",
-      "zh": "海伦凯勒的触觉模仿训练唤醒黑暗中的手掌拼写感觉",
-      "es": "El entrenamiento de imitación táctil de Helen Keller despertó el sentido de ortografía de la palma en la oscuridad",
-      "fr": "La formation d'imitation tactile d'Helen Keller a éveillé le sens de l'orthographe des paumes dans l'obscurité",
-      "de": "Helen Kellers taktiles Nachahmungstraining weckte im Dunkeln den Handschriftsinn",
-      "pt": "O treinamento de imitação tátil de Helen Keller despertou o senso de ortografia da palma da mão no escuro",
-      "id": "Pelatihan imitasi sentuhan Helen Keller membangkitkan kemampuan mengeja telapak tangan dalam kegelapan"
+      "ko": "어둠 속에서 손바닥 철자 감각을 깨운 헬렌 켈러의 촉각 모방 훈련"
     },
     "description": {
-      "en": "A miraculous great man who overcame his visual and hearing impairments to become a world-renowned writer and human rights activist, he expanded his inner universe by feeling the detailed tactile information of nature.",
-      "ko": "시각과 청각 장애를 극복하고 세계적 작가이자 인권 운동가가 된 기적의 위인으로, 자연의 세밀한 촉각 정보를 느끼며 내면의 우주를 확장했습니다.",
-      "ja": "視覚と聴覚の障害を克服して世界的に有名な作家、人権活動家となった奇跡の偉人である彼は、自然の細かな触覚情報を感じることで内なる宇宙を広げました。",
-      "zh": "一个神奇的伟人，克服了视觉和听觉障碍，成为世界著名的作家和人权活动家，他通过感受大自然细致的触觉信息拓展了自己的内心世界。",
-      "es": "Un gran hombre milagroso que superó sus discapacidades visuales y auditivas para convertirse en un escritor y activista de derechos humanos de renombre mundial, amplió su universo interior al sentir la información táctil detallada de la naturaleza.",
-      "fr": "Grand homme miraculeux qui a surmonté ses déficiences visuelles et auditives pour devenir un écrivain et un militant des droits de l'homme de renommée mondiale, il a élargi son univers intérieur en ressentant les informations tactiles détaillées de la nature.",
-      "de": "Als wunderbarer großer Mann, der seine Seh- und Hörbehinderungen überwand und ein weltbekannter Schriftsteller und Menschenrechtsaktivist wurde, erweiterte er sein inneres Universum, indem er die detaillierten taktilen Informationen der Natur spürte.",
-      "pt": "Um grande homem milagroso que superou suas deficiências visuais e auditivas para se tornar um escritor e ativista de direitos humanos de renome mundial, ele expandiu seu universo interior ao sentir as informações táteis detalhadas da natureza.",
-      "id": "Seorang pria hebat yang ajaib yang mengatasi gangguan penglihatan dan pendengarannya untuk menjadi seorang penulis dan aktivis hak asasi manusia terkenal di dunia, ia memperluas alam semesta batinnya dengan merasakan informasi sentuhan alam yang mendetail."
+      "ko": "시각과 청각 장애를 극복하고 세계적 작가이자 인권 운동가가 된 기적의 위인으로, 자연의 세밀한 촉각 정보를 느끼며 내면의 우주를 확장했습니다."
     },
     "authority": {
-      "en": "Helen Keller, *The Story of My Life* (1903) & Cognitive Neuroscientific Studies",
-      "ko": "Helen Keller, *The Story of My Life* (1903)",
-      "ja": "ヘレン・ケラー、*私の人生の物語* (1903) & 認知神経科学研究",
-      "zh": "海伦·凯勒，*我一生的故事* (1903) 和认知神经科学研究",
-      "es": "Helen Keller, *La historia de mi vida* (1903) y estudios neurocientíficos cognitivos",
-      "fr": "Helen Keller, *L'histoire de ma vie* (1903) et études neuroscientifiques cognitives",
-      "de": "Helen Keller, *The Story of My Life* (1903) & kognitive neurowissenschaftliche Studien",
-      "pt": "Helen Keller, *The Story of My Life* (1903) & Cognitive Neuroscientific Studies",
-      "id": "Helen Keller, *The Story of My Life* (1903) & Cognitive Neuroscientific Studies"
+      "ko": "Helen Keller 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "en": "Helen Keller, an icon of overcoming who overcame the triple ordeal of being invisible and unable to hear (visual, hearing, and speech impediments) and dedicated her life as a great social activist and writer, coloring humanity's despair with hope. In the silent darkness, she focused all her nerves on the traces of Mr. Sullivan's tactile movements as he meticulously wrote the letters with his fingertips on the palm of his hand. The moment the cold spring water wetted the back of her other hand, she combined the tactile signal 'W-A-T-E-R' on her palm with the spirit of the water in her brain for the first time. This sophisticated training of tactile imitation was the key that made her an immortal writer.\n\nToday on BuildSelf, we introduce the cognitive scientific principles of the habit of 'training tactile perception by constantly tapping letters on the palm' that he adheres to and a 3-step guide that modern people can easily practice in their daily lives.",
-      "ko": "보이지도 들리지도 않는 삼중의 시련(시각, 청각, 언어장애)을 딛고 일어나 위대한 사회운동가이자 작가로 평생을 헌신하며 인류의 절망을 희망으로 물들인 극복의 아이콘 헬렌 켈러. 그녀는 침묵의 어둠 속에서 설리번 선생님이 자신의 손바닥 위에 손가락 끝으로 철자를 꼼꼼하게 써 내려가는 촉각의 미세한 움직임 궤적에 온 신경망을 집중시켰습니다. 차가운 샘물이 자신의 다른 쪽 손등을 적시는 순간, 그녀는 손바닥의 촉각 신호 'W-A-T-E-R'와 물의 영혼을 최초로 뇌 속에서 결합해 냈습니다. 이 정교한 촉각 모방 훈련은 그녀를 불멸의 작가로 만든 열쇠였습니다.\n\n오늘 BuildSelf에서는 그가 고수한 '손바닥에 끊임없이 철자를 두드려 촉각 인지 훈련하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다.",
-      "ja": "この歴史的習慣の実践において： (, , ) . . , 'W-A-T-E-R' . . この歴史的習慣の実践において： BuildSelf ' ' 3 .",
-      "zh": "在这一历史性惯例的实践中： (, , ) . . , 'W-A-T-E-R' . . 在这一历史性惯例的实践中： BuildSelf ' ' 3 .",
-      "es": "Helen Keller, un ícono de superación que superó la triple prueba de ser invisible e incapaz de oír (impedimentos visuales, auditivos y del habla) y dedicó su vida como gran activista social y escritora, coloreando de esperanza la desesperación de la humanidad. En la silenciosa oscuridad, concentró todos sus nervios en las huellas de los movimientos táctiles del Sr. Sullivan mientras él escribía meticulosamente las letras con las yemas de los dedos en la palma de su mano. En el momento en que el agua fría del manantial mojó el dorso de su otra mano, combinó la señal táctil 'AGUA' en su palma con el espíritu del agua en su cerebro por primera vez. Este sofisticado entrenamiento de imitación táctil fue la clave que la convirtió en una escritora inmortal.\n\nHoy en BuildSelf, presentamos los principios científicos cognitivos del hábito de \"entrenar la percepción táctil tocando constantemente letras en la palma\" al que él se adhiere y una guía de 3 pasos que la gente moderna puede practicar fácilmente en su vida diaria.",
-      "fr": "Helen Keller, une icône du dépassement qui a surmonté la triple épreuve d'être invisible et incapable d'entendre (troubles visuels, auditifs et d'élocution) et a consacré sa vie en tant que grande militante sociale et écrivaine, colorant d'espoir le désespoir de l'humanité. Dans l'obscurité silencieuse, elle concentrait tous ses nerfs sur les traces des mouvements tactiles de M. Sullivan alors qu'il écrivait méticuleusement les lettres du bout des doigts sur la paume de sa main. Au moment où l'eau froide de la source a mouillé le dos de son autre main, elle a combiné pour la première fois le signal tactile « W-A-T-E-R » sur sa paume avec l'esprit de l'eau dans son cerveau. Cette formation sophistiquée à l’imitation tactile fut la clé qui fit d’elle une écrivaine immortelle.\n\nAujourd'hui, sur BuildSelf, nous présentons les principes scientifiques cognitifs de l'habitude de « former la perception tactile en tapotant constamment des lettres sur la paume » auxquels il adhère et un guide en 3 étapes que les gens modernes peuvent facilement mettre en pratique dans leur vie quotidienne.",
-      "de": "Helen Keller, eine Ikone der Überwindung, die die dreifache Tortur der Unsichtbarkeit und der Unfähigkeit zu hören (Seh-, Hör- und Sprachbehinderungen) überwunden hat und ihr Leben als große soziale Aktivistin und Schriftstellerin widmete, um der Verzweiflung der Menschheit Hoffnung zu verleihen. In der stillen Dunkelheit konzentrierte sie alle ihre Nerven auf die Spuren von Mr. Sullivans taktilen Bewegungen, als er die Briefe akribisch mit den Fingerspitzen auf seiner Handfläche schrieb. In dem Moment, als das kalte Quellwasser den Handrücken ihrer anderen Hand benetzte, verband sie zum ersten Mal das taktile Signal „W-A-T-E-R“ auf ihrer Handfläche mit dem Geist des Wassers in ihrem Gehirn. Diese raffinierte Ausbildung der taktilen Nachahmung war der Schlüssel, der sie zu einer unsterblichen Schriftstellerin machte.\n\nHeute stellen wir auf BuildSelf die kognitionswissenschaftlichen Prinzipien der Gewohnheit vor, „die taktile Wahrnehmung durch ständiges Klopfen von Buchstaben auf die Handfläche zu trainieren“, an die er sich hält, und einen dreistufigen Leitfaden, den moderne Menschen problemlos in ihrem täglichen Leben anwenden können.",
-      "pt": "Helen Keller, um ícone de superação que superou a tripla provação de ser invisível e incapaz de ouvir (dificuldades visuais, auditivas e de fala) e dedicou sua vida como grande ativista social e escritora, colorindo o desespero da humanidade com esperança. Na escuridão silenciosa, ela concentrou todos os seus nervos nos traços dos movimentos táteis do Sr. Sullivan enquanto ele escrevia meticulosamente as letras com as pontas dos dedos na palma da mão. No momento em que a água fria da nascente molhou as costas da outra mão, ela combinou o sinal tátil 'ÁGUA' na palma da mão com o espírito da água em seu cérebro pela primeira vez. Esse sofisticado treinamento de imitação tátil foi a chave que fez dela uma escritora imortal.\n\nHoje, no BuildSelf, apresentamos os princípios científicos cognitivos do hábito de 'treinar a percepção tátil batendo constantemente nas letras na palma da mão' que ele segue e um guia de 3 etapas que as pessoas modernas podem praticar facilmente em suas vidas diárias.",
-      "id": "Helen Keller, ikon penanggulangan yang berhasil mengatasi tiga cobaan yaitu tidak terlihat dan tidak dapat mendengar (keterbatasan penglihatan, pendengaran, dan bicara) dan mendedikasikan hidupnya sebagai aktivis sosial dan penulis hebat, mewarnai keputusasaan umat manusia dengan harapan. Dalam kegelapan yang sunyi, dia memusatkan seluruh sarafnya pada jejak gerakan taktil Tuan Sullivan saat dia dengan cermat menulis surat-surat itu dengan ujung jarinya di telapak tangannya. Saat mata air dingin membasahi punggung tangannya yang lain, dia menggabungkan sinyal sentuhan 'W-A-T-E-R' di telapak tangannya dengan roh air di otaknya untuk pertama kalinya. Pelatihan peniruan sentuhan yang canggih ini adalah kunci yang menjadikannya seorang penulis abadi.\n\nHari ini di BuildSelf, kami memperkenalkan prinsip ilmiah kognitif tentang kebiasaan 'melatih persepsi sentuhan dengan terus-menerus mengetuk huruf di telapak tangan' yang dianutnya dan panduan 3 langkah yang dapat dengan mudah dipraktikkan oleh orang modern dalam kehidupan sehari-hari."
+      "ko": "보이지도 들리지도 않는 삼중의 시련(시각, 청각, 언어장애)을 딛고 일어나 위대한 사회운동가이자 작가로 평생을 헌신하며 인류의 절망을 희망으로 물들인 극복의 아이콘 헬렌 켈러. 그녀는 침묵의 어둠 속에서 설리번 선생님이 자신의 손바닥 위에 손가락 끝으로 철자를 꼼꼼하게 써 내려가는 촉각의 미세한 움직임 궤적에 온 신경망을 집중시켰습니다. 차가운 샘물이 자신의 다른 쪽 손등을 적시는 순간, 그녀는 손바닥의 촉각 신호 'W-A-T-E-R'와 물의 영혼을 최초로 뇌 속에서 결합해 냈습니다. 이 정교한 촉각 모방 훈련은 그녀를 불멸의 작가로 만든 열쇠였습니다.\n\n오늘 포스트에서는 그가 고수한 '손바닥에 끊임없이 철자를 두드려 촉각 인지 훈련하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다."
     },
     "whyTitle": {
-      "en": "Analysis of brain science principles that lead to success",
-      "ko": "성공을 자아내는 脳科学的 원리 분석",
-      "ja": "成功に導く脳科学原理の分析",
-      "zh": "分析导致成功的脑科学原理",
-      "es": "Análisis de los principios de las ciencias del cerebro que conducen al éxito.",
-      "fr": "Analyse des principes scientifiques du cerveau qui mènent au succès",
-      "de": "Analyse gehirnwissenschaftlicher Prinzipien, die zum Erfolg führen",
-      "pt": "Análise dos princípios da ciência do cérebro que levam ao sucesso",
-      "id": "Analisis prinsip-prinsip ilmu otak yang mengarah pada kesuksesan"
+      "ko": "성공을 자아내는 뇌과학적 원리 분석"
     },
     "whyDesc": {
-      "en": "The act of relying on the tactile location and movement trajectory of the body's epidermis with eyes closed and visual stimulation turned off enhances cognitive plasticity (neuroplasticity) in the somatosensory cortex. As sensory information becomes denser, the brain thickens the neural network that calmly structures the essential causal relationships of information without being distracted by visual noise, dramatically improving metacognitive resolution that keeps long-term memories clear.",
-      "ko": "눈을 감고 시각 자극이 소거된 상태에서 신체 표피의 촉각적 위치와 움직임 궤적에 의존하는 행위는 체성감각 피질의 인지 가소성(Neuroplasticity)을 고조시킵니다. 감각 정보가 조밀해지면 뇌는 시각적 잡음에 현혹되지 않고 정보의 본질적인 인과관계를 차분하게 구조화하는 신경 연결망을 두껍게 단련하여, 장기 기억을 선명하게 유지하는 메타 인지 해상도를 비약적으로 향상시킵니다.",
-      "ja": "目を閉じて視覚刺激をオフにして、身体の表皮の触覚の位置と運動の軌跡に依存する行為は、体性感覚皮質の認知可塑性（神経可塑性）を高めます。感覚情報が高密度になるにつれて、脳は視覚的なノイズに惑わされることなく情報の本質的な因果関係を冷静に構築する神経ネットワークを厚くし、長期記憶を鮮明に保つメタ認知の解像度を劇的に向上させます。",
-      "zh": "闭上眼睛并关闭视觉刺激，依靠身体表皮的触觉位置和运动轨迹的行为增强了体感皮层的认知可塑性（神经可塑性）。随着感觉信息变得更加密集，大脑会增厚神经网络，从而平静地构建信息的基本因果关系，而不会被视觉噪音分散注意力，从而显着提高元认知分辨率，从而保持长期记忆清晰。",
-      "es": "El acto de confiar en la ubicación táctil y la trayectoria de movimiento de la epidermis del cuerpo con los ojos cerrados y la estimulación visual apagada mejora la plasticidad cognitiva (neuroplasticidad) en la corteza somatosensorial. A medida que la información sensorial se vuelve más densa, el cerebro espesa la red neuronal que estructura tranquilamente las relaciones causales esenciales de la información sin distraerse con el ruido visual, mejorando drásticamente la resolución metacognitiva que mantiene claros los recuerdos a largo plazo.",
-      "fr": "Le fait de s'appuyer sur l'emplacement tactile et la trajectoire de mouvement de l'épiderme du corps, les yeux fermés et la stimulation visuelle désactivée, améliore la plasticité cognitive (neuroplasticité) dans le cortex somatosensoriel. À mesure que les informations sensorielles deviennent plus denses, le cerveau épaissit le réseau neuronal qui structure calmement les relations causales essentielles des informations sans être distrait par le bruit visuel, améliorant considérablement la résolution métacognitive qui maintient les souvenirs à long terme clairs.",
-      "de": "Das Vertrauen auf die taktile Position und Bewegungsbahn der Körperepidermis bei geschlossenen Augen und ausgeschalteter visueller Stimulation steigert die kognitive Plastizität (Neuroplastizität) im somatosensorischen Kortex. Wenn die sensorischen Informationen dichter werden, verdichtet das Gehirn das neuronale Netzwerk, das in aller Ruhe die wesentlichen Kausalzusammenhänge von Informationen strukturiert, ohne durch visuelles Rauschen abgelenkt zu werden. Dadurch wird die metakognitive Auflösung dramatisch verbessert, sodass Langzeiterinnerungen klar bleiben.",
-      "pt": "O ato de confiar na localização tátil e na trajetória de movimento da epiderme do corpo com os olhos fechados e a estimulação visual desligada aumenta a plasticidade cognitiva (neuroplasticidade) no córtex somatossensorial. À medida que a informação sensorial se torna mais densa, o cérebro engrossa a rede neural que estrutura calmamente as relações causais essenciais da informação sem ser distraído pelo ruído visual, melhorando dramaticamente a resolução metacognitiva que mantém claras as memórias de longo prazo.",
-      "id": "Tindakan mengandalkan lokasi sentuhan dan lintasan pergerakan epidermis tubuh dengan mata tertutup dan rangsangan visual dimatikan meningkatkan plastisitas kognitif (neuroplastisitas) di korteks somatosensori. Ketika informasi sensorik menjadi lebih padat, otak mempertebal jaringan saraf yang dengan tenang menyusun hubungan sebab akibat yang penting dari informasi tanpa terganggu oleh gangguan visual, sehingga secara dramatis meningkatkan resolusi metakognitif yang menjaga ingatan jangka panjang tetap jelas."
+      "ko": "눈을 감고 시각 자극이 소거된 상태에서 신체 표피의 촉각적 위치와 움직임 궤적에 의존하는 행위는 체성감각 피질의 인지 가소성(Neuroplasticity)을 고조시킵니다. 감각 정보가 조밀해지면 뇌는 시각적 잡음에 현혹되지 않고 정보의 본질적인 인과관계를 차분하게 구조화하는 신경 연결망을 두껍게 단련하여, 장기 기억을 선명하게 유지하는 메타 인지 해상도를 비약적으로 향상시킵니다."
     },
     "cautionTitle": {
-      "en": "Behavioral science advice for successful establishment",
-      "ko": "성공적인 안착을 위한 행동과학 조언",
-      "ja": "確立を成功させるための行動科学のアドバイス",
-      "zh": "成功建立的行为科学建议",
-      "es": "Consejos de ciencias del comportamiento para un establecimiento exitoso",
-      "fr": "Conseils en sciences comportementales pour un établissement réussi",
-      "de": "Verhaltenswissenschaftliche Ratschläge für eine erfolgreiche Etablierung",
-      "pt": "Conselhos científicos comportamentais para um estabelecimento de sucesso",
-      "id": "Nasihat ilmu perilaku untuk keberhasilan pendirian"
+      "ko": "성공적인 안착을 위한 행동과학 조언"
     },
     "cautionDesc": {
-      "en": "Don't be greedy about practicing word writing habits for a long time. The key is to quietly close your eyes for two minutes and focus solely on the calming training routine itself, which brings your senses fully to the tip of your skin.",
-      "ko": "단어 쓰기 습관을 거창하게 오래 수행하려고 욕심부리지 마세요. 눈을 2분간 가만히 감고 감각을 피부 끝으로 온전히 모아 주는 차분한 훈련 루틴 자체에만 초점을 맞추는 것이 핵심입니다.",
-      "ja": "単語を書く習慣を長く続けることに貪欲にならないでください。重要なのは、2分間静かに目を閉じ、皮膚の先端まで感覚を完全にもたらす、心を落ち着かせるトレーニング ルーチン自体にのみ集中することです。",
-      "zh": "不要贪图长期练习写字的习惯。关键是安静地闭上眼睛两分钟，专注于平静的训练本身，这会让你的感官完全到达你的皮肤尖端。",
-      "es": "No seas codicioso a la hora de practicar hábitos de escritura de palabras durante mucho tiempo. La clave es cerrar los ojos en silencio durante dos minutos y concentrarse únicamente en la relajante rutina de entrenamiento, que lleva todos los sentidos a la punta de la piel.",
-      "fr": "Ne soyez pas avide de pratiquer des habitudes d'écriture de mots pendant une longue période. La clé est de fermer tranquillement les yeux pendant deux minutes et de se concentrer uniquement sur la routine d’entraînement apaisante elle-même, qui amène pleinement vos sens au bout de votre peau.",
-      "de": "Seien Sie nicht gierig, wenn es darum geht, Schreibgewohnheiten über einen längeren Zeitraum zu üben. Der Schlüssel liegt darin, zwei Minuten lang ruhig die Augen zu schließen und sich ausschließlich auf das beruhigende Training selbst zu konzentrieren, das Ihre Sinne vollständig an die Hautspitze bringt.",
-      "pt": "Não seja ganancioso em praticar hábitos de escrita de palavras por muito tempo. O segredo é fechar os olhos silenciosamente por dois minutos e focar apenas na rotina de treinamento calmante em si, que traz os seus sentidos totalmente à ponta da pele.",
-      "id": "Jangan serakah untuk melatih kebiasaan menulis kata dalam waktu lama. Kuncinya adalah dengan menutup mata Anda dengan tenang selama dua menit dan hanya fokus pada rutinitas latihan yang menenangkan itu sendiri, yang membawa indra Anda sepenuhnya ke ujung kulit Anda."
+      "ko": "단어 쓰기 습관을 거창하게 오래 수행하려고 욕심부리지 마세요. 눈을 2분간 가만히 감고 감각을 피부 끝으로 온전히 모아 주는 차분한 훈련 루틴 자체에만 초점을 맞추는 것이 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Step 1: Environment settings and tool settings",
-          "ko": "1단계: 환경 설정 및 도구 세팅",
-          "ja": "ステップ1：環境設定とツール設定",
-          "zh": "第1步：环境设置和工具设置",
-          "es": "Paso 1: configuración del entorno y configuración de herramientas",
-          "fr": "Étape 1 : Paramètres de l'environnement et paramètres des outils",
-          "de": "Schritt 1: Umgebungseinstellungen und Werkzeugeinstellungen",
-          "pt": "Passo 1: Configurações de ambiente e configurações de ferramentas",
-          "id": "Langkah 1: Pengaturan lingkungan dan pengaturan alat"
+          "ko": "1단계: 환경 설정 및 도구 세팅"
         },
         "text": {
-          "en": "During my daily break, I quietly close my eyes for 2 minutes and focus my attention on the fine surface texture of the object that I touch with my fingertips (grain of a wooden desk, the metallic feel of a ballpoint pen, a warm teacup, etc.). It relies on skin sensation.",
-          "ko": "매일 휴식 시간 중 2분 동안 눈을 가만히 감고, 내 손가락 끝에 닿는 事物(나무 책상결, 볼펜의 금속 촉감, 따뜻한 찻잔 등)의 미세한 표면 질감에 온 주의를 고정해 봅니다. 피부 감각에 의존합니다.",
-          "ja": "私は毎日の休憩時間に2分間静かに目を閉じ、指先で触れる物の表面の細かな質感（木の机の木目、ボールペンの金属感、温かい湯飲みなど）に意識を集中します。それは皮膚感覚に依存します。",
-          "zh": "每天休息的时候，我会静静地闭上眼睛2分钟，把注意力集中在我用指尖触摸的物体的细腻表面纹理上（木桌的纹理、圆珠笔的金属感、温暖的茶杯等）。它依赖于皮肤感觉。",
-          "es": "Durante mi descanso diario, cierro los ojos en silencio durante 2 minutos y concentro mi atención en la fina textura de la superficie del objeto que toco con las yemas de los dedos (la veta de un escritorio de madera, la sensación metálica de un bolígrafo, una taza de té caliente, etc.). Se basa en la sensación de la piel.",
-          "fr": "Pendant ma pause quotidienne, je ferme tranquillement les yeux pendant 2 minutes et concentre mon attention sur la fine texture de la surface de l'objet que je touche du bout des doigts (le grain d'un bureau en bois, la sensation métallique d'un stylo à bille, une tasse de thé chaude, etc.). Cela dépend de la sensation cutanée.",
-          "de": "Während meiner täglichen Pause schließe ich zwei Minuten lang ruhig meine Augen und konzentriere meine Aufmerksamkeit auf die feine Oberflächenstruktur des Objekts, das ich mit meinen Fingerspitzen berühre (Maserung eines Holzschreibtisches, das metallische Gefühl eines Kugelschreibers, eine warme Teetasse usw.). Es beruht auf dem Hautgefühl.",
-          "pt": "Durante meu intervalo diário, fecho meus olhos silenciosamente por 2 minutos e foco minha atenção na textura fina da superfície do objeto que toco com as pontas dos dedos (grão de uma mesa de madeira, a sensação metálica de uma caneta esferográfica, uma xícara de chá quente, etc.). Depende da sensação da pele.",
-          "id": "Selama istirahat sehari-hari, saya diam-diam menutup mata selama 2 menit dan memusatkan perhatian pada tekstur permukaan halus dari benda yang saya sentuh dengan ujung jari saya (butiran meja kayu, kesan metalik dari pulpen, cangkir teh hangat, dll.). Itu bergantung pada sensasi kulit."
+          "ko": "매일 휴식 시간 중 2분 동안 눈을 가만히 감고, 내 손가락 끝에 닿는 (나무 책상결, 볼펜의 금속 촉감, 따뜻한 찻잔 등)의 미세한 표면 질감에 온 주의를 고정해 봅니다. 피부 감각에 의존합니다."
         }
       },
       {
         "name": {
-          "en": "Step 2: Full sense projection and practice",
-          "ko": "2단계: 온전한 감각 투사와 실천",
-          "ja": "ステップ 2: 完全な感覚の投影と実践",
-          "zh": "第二步：全感官投射和练习",
-          "es": "Paso 2: Proyección y práctica de todos los sentidos.",
-          "fr": "Étape 2 : Projection plein sens et pratique",
-          "de": "Schritt 2: Vollständige Sinnesprojektion und Übung",
-          "pt": "Passo 2: Projeção de sentido pleno e prática",
-          "id": "Langkah 2: Proyeksi dan latihan indra penuh"
+          "ko": "2단계: 온전한 감각 투사와 실천"
         },
         "text": {
-          "en": "With my eyes closed, I use the tip of my other black finger as a pen, and very slowly and precisely write down on the palm of my hand the one most valuable English word or keyword that I want to accomplish today.",
-          "ko": "눈을 감은 채로 다른 쪽 검은 손가락 끝을 펜으로 삼아, 내 손바닥 위에 오늘 꼭 완수하고 싶은 가장 가치 있는 영단어나 키워드 1가지를 아주 느리고 정교하게 써 내려갑니다.",
-          "ja": "目を閉じて、もう一方の黒い指の先をペンのように使い、今日達成したい最も価値のある英語の単語またはキーワードを、非常にゆっくりと正確に手のひらに書きます。",
-          "zh": "我闭上眼睛，用另一只黑色手指的指尖当笔，非常缓慢而精确地在手掌上写下我今天想要完成的一个最有价值的英语单词或关键词。",
-          "es": "Con los ojos cerrados, uso la punta de mi otro dedo negro como bolígrafo y, muy lenta y precisamente, escribo en la palma de mi mano la palabra o palabra clave en inglés más valiosa que quiero lograr hoy.",
-          "fr": "Les yeux fermés, j'utilise le bout de mon autre doigt noir comme un stylo et j'écris très lentement et précisément sur la paume de ma main le mot anglais ou le mot-clé le plus précieux que je souhaite accomplir aujourd'hui.",
-          "de": "Mit geschlossenen Augen benutze ich die Spitze meines anderen schwarzen Fingers als Stift und schreibe ganz langsam und präzise das wertvollste englische Wort oder Schlüsselwort auf meine Handfläche, das ich heute erreichen möchte.",
-          "pt": "Com os olhos fechados, uso a ponta do outro dedo preto como caneta e, muito lenta e precisamente, escrevo na palma da minha mão a palavra ou palavra-chave em inglês mais valiosa que quero realizar hoje.",
-          "id": "Dengan mata terpejam, saya menggunakan ujung jari hitam saya yang lain sebagai pena, dan dengan sangat perlahan dan tepat menuliskan di telapak tangan saya satu kata atau kata kunci bahasa Inggris paling berharga yang ingin saya capai hari ini."
+          "ko": "눈을 감은 채로 다른 쪽 검은 손가락 끝을 펜으로 삼아, 내 손바닥 위에 오늘 꼭 완수하고 싶은 가장 가치 있는 영단어나 키워드 1가지를 아주 느리고 정교하게 써 내려갑니다."
         }
       },
       {
         "name": {
-          "en": "Step 3: Objective gaze and meta-organization",
-          "ko": "3단계: 객관적 응시 및 메타 정리",
-          "ja": "ステップ3：客観的な視線とメタ組織化",
-          "zh": "第三步：客观审视和元组织",
-          "es": "Paso 3: Mirada objetiva y metaorganización",
-          "fr": "Étape 3 : Regard objectif et méta-organisation",
-          "de": "Schritt 3: Objektiver Blick und Meta-Organisation",
-          "pt": "Passo 3: Olhar objetivo e meta-organização",
-          "id": "Langkah 3: Pandangan obyektif dan meta-organisasi"
+          "ko": "3단계: 객관적 응시 및 메타 정리"
         },
         "text": {
-          "en": "Expand the cognitive space in your brain by visualizing the spatial trajectory of the tactile sensation passing through your skin barrier as if drawing clearly on a blackboard inside the brain nerves.",
-          "ko": "내 피부 장벽을 스쳐 지나가는 촉각의 공간적 궤적을 뇌 신경 속의 칠판 위에 선명하게 드로잉하듯 시각화하며 두뇌 속의 인지 공간을 넓혀 나갑니다.",
-          "ja": "脳神経内の黒板に鮮明に描くように、皮膚関門を通過する触覚の空間軌跡を視覚化することで、脳内の認知空間を拡張します。",
-          "zh": "通过想象触觉穿过皮肤屏障的空间轨迹来扩展大脑的认知空间，就像在大脑神经内部的黑板上清晰地画画一样。",
-          "es": "Amplíe el espacio cognitivo de su cerebro visualizando la trayectoria espacial de la sensación táctil que pasa a través de la barrera cutánea como si dibujara claramente en una pizarra dentro de los nervios del cerebro.",
-          "fr": "Développez l'espace cognitif de votre cerveau en visualisant la trajectoire spatiale de la sensation tactile traversant votre barrière cutanée comme si vous dessiniez clairement sur un tableau noir à l'intérieur des nerfs cérébraux.",
-          "de": "Erweitern Sie den kognitiven Raum in Ihrem Gehirn, indem Sie den räumlichen Verlauf des Tastempfindens visualisieren, der durch Ihre Hautbarriere verläuft, als ob Sie deutlich auf einer Tafel innerhalb der Gehirnnerven zeichnen würden.",
-          "pt": "Expanda o espaço cognitivo em seu cérebro visualizando a trajetória espacial da sensação tátil passando pela barreira da pele, como se estivesse desenhando claramente em um quadro negro dentro dos nervos cerebrais.",
-          "id": "Perluas ruang kognitif di otak Anda dengan memvisualisasikan lintasan spasial sensasi sentuhan yang melewati penghalang kulit Anda seolah-olah menggambar dengan jelas di papan tulis di dalam saraf otak."
+          "ko": "내 피부 장벽을 스쳐 지나가는 촉각의 공간적 궤적을 뇌 신경 속의 칠판 위에 선명하게 드로잉하듯 시각화하며 두뇌 속의 인지 공간을 넓혀 나갑니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "en": "Is sensory training of the fingertips directly related to improving long-term memory?",
-          "ko": "손가락 끝의 감각 훈련이 장기 기억력 증진과도 직결되나요?",
-          "ja": "指先の感覚トレーニングは長期記憶の向上に直接関係しているのでしょうか？",
-          "zh": "指尖的感觉训练与改善长期记忆直接相关吗？",
-          "es": "¿El entrenamiento sensorial de las yemas de los dedos está directamente relacionado con la mejora de la memoria a largo plazo?",
-          "fr": "L'entraînement sensoriel du bout des doigts est-il directement lié à l'amélioration de la mémoire à long terme ?",
-          "de": "Steht das sensorische Training der Fingerspitzen in direktem Zusammenhang mit der Verbesserung des Langzeitgedächtnisses?",
-          "pt": "O treinamento sensorial das pontas dos dedos está diretamente relacionado à melhoria da memória de longo prazo?",
-          "id": "Apakah pelatihan sensorik pada ujung jari berhubungan langsung dengan peningkatan memori jangka panjang?"
+          "ko": "손가락 끝의 감각 훈련이 장기 기억력 증진과도 직결되나요?"
         },
         "answer": {
-          "en": "Yes, that's right. When the brain decodes information about the skin's fine tactile texture rather than visual or auditory information, the long-term synaptic networks of the frontal and parietal lobes are linked much more densely, so the depth and permanence of memory increases explosively.",
-          "ko": "네, 그렇습니다. 뇌는 시각, 청각 정보보다 피부의 미세한 촉각 질감 정보를 해독할 때 전두엽과 두정엽의 장기 시냅스 연결망을 훨씬 조밀하게 연동하므로, 기억의 깊이와 영속도가 폭발적으로 상승합니다.",
-          "ja": "はい、そうです。脳が視覚や聴覚の情報ではなく、皮膚の微細な触感に関する情報を解読すると、前頭葉と頭頂葉の長期シナプス ネットワークがより密にリンクされるため、記憶の深さと永続性が爆発的に増加します。",
-          "zh": "是的，没错。当大脑解码有关皮肤精细触觉纹理的信息而不是视觉或听觉信息时，额叶和顶叶的长期突触网络连接得更加紧密，因此记忆的深度和持久性会爆炸性地增加。",
-          "es": "Sí, eso es correcto. Cuando el cerebro decodifica información sobre la fina textura táctil de la piel en lugar de información visual o auditiva, las redes sinápticas a largo plazo de los lóbulos frontal y parietal se vinculan mucho más densamente, por lo que la profundidad y permanencia de la memoria aumentan explosivamente.",
-          "fr": "Oui, c'est vrai. Lorsque le cerveau décode les informations sur la fine texture tactile de la peau plutôt que les informations visuelles ou auditives, les réseaux synaptiques à long terme des lobes frontaux et pariétaux sont liés de manière beaucoup plus dense, de sorte que la profondeur et la permanence de la mémoire augmentent de manière explosive.",
-          "de": "Ja, das stimmt. Wenn das Gehirn anstelle von visuellen oder akustischen Informationen Informationen über die feine taktile Textur der Haut entschlüsselt, sind die langfristigen synaptischen Netzwerke der Frontal- und Parietallappen viel dichter miteinander verbunden, sodass die Tiefe und Beständigkeit des Gedächtnisses explosionsartig zunimmt.",
-          "pt": "Sim, isso mesmo. Quando o cérebro decodifica informações sobre a fina textura tátil da pele, em vez de informações visuais ou auditivas, as redes sinápticas de longo prazo dos lobos frontal e parietal estão ligadas de forma muito mais densa, de modo que a profundidade e a permanência da memória aumentam explosivamente.",
-          "id": "Ya itu benar. Ketika otak menerjemahkan informasi tentang tekstur sentuhan halus kulit dibandingkan informasi visual atau pendengaran, jaringan sinaptik jangka panjang pada lobus frontal dan parietal terhubung jauh lebih erat, sehingga kedalaman dan kelanggengan memori meningkat secara eksplosif."
+          "ko": "네, 그렇습니다. 뇌는 시각, 청각 정보보다 피부의 미세한 촉각 질감 정보를 해독할 때 전두엽과 두정엽의 장기 시냅스 연결망을 훨씬 조밀하게 연동하므로, 기억의 깊이와 영속도가 폭발적으로 상승합니다."
         }
       },
       {
         "question": {
-          "en": "What should I do if my skin is dry and my tactile sensitivity decreases?",
-          "ko": "피부가 건조하여 촉각 감도가 떨어질 때는 어쩌죠?",
-          "ja": "肌が乾燥して触覚の感度が低下した場合はどうすればよいですか?",
-          "zh": "如果我的皮肤干燥、触觉敏感度下降怎么办？",
-          "es": "¿Qué debo hacer si mi piel está seca y mi sensibilidad táctil disminuye?",
-          "fr": "Que dois-je faire si ma peau est sèche et que ma sensibilité tactile diminue ?",
-          "de": "Was soll ich tun, wenn meine Haut trocken ist und meine Tastempfindlichkeit nachlässt?",
-          "pt": "O que devo fazer se minha pele estiver seca e minha sensibilidade tátil diminuir?",
-          "id": "Apa yang harus saya lakukan jika kulit saya kering dan sensitivitas sentuhan saya menurun?"
+          "ko": "피부가 건조하여 촉각 감도가 떨어질 때는 어쩌죠?"
         },
         "answer": {
-          "en": "You can awaken the physical resolution of your sense of touch to a greater extent by activating blood flow by lightly washing your hands with warm water before training, or by lightly applying moisturizing cream to form a fine moisture resistance film before training.",
-          "ko": "훈련 전 따뜻한 물로 손을 가볍게 씻어 혈류를 활성화하거나, 보습 크림을 가볍게 발라 미세한 수분 저항막을 형성한 후 훈련하면 촉각의 물리적 분해능을 더 크게 각성시킬 수 있습니다.",
-          "ja": "トレーニング前に手を軽くお湯で洗って血流を活性化させたり、トレーニング前に保湿クリームを軽く塗って細かい防湿膜を形成したりすることで、触覚の物理的解像度をより覚醒させることができます。",
-          "zh": "训练前用温水轻轻洗手，激活血液流动，或者训练前轻轻涂上保湿霜，形成一层细腻的防潮膜，可以更大程度地唤醒触觉的物理分辨率。",
-          "es": "Puedes despertar en mayor medida la resolución física de tu sentido del tacto activando el flujo sanguíneo lavándote ligeramente las manos con agua tibia antes de entrenar, o aplicando ligeramente una crema humectante para formar una fina película resistente a la humedad antes de entrenar.",
-          "fr": "Vous pouvez éveiller davantage la résolution physique de votre sens du toucher en activant la circulation sanguine en vous lavant légèrement les mains à l'eau tiède avant l'entraînement, ou en appliquant légèrement une crème hydratante pour former un fin film résistant à l'humidité avant l'entraînement.",
-          "de": "Sie können die körperliche Auflösung Ihres Tastsinns stärker wecken, indem Sie die Durchblutung aktivieren, indem Sie Ihre Hände vor dem Training leicht mit warmem Wasser waschen, oder indem Sie vor dem Training leicht eine Feuchtigkeitscreme auftragen, um einen feinen feuchtigkeitsbeständigen Film zu bilden.",
-          "pt": "Você pode despertar ainda mais a resolução física do seu sentido do tato ativando o fluxo sanguíneo lavando levemente as mãos com água morna antes do treino ou aplicando levemente um creme hidratante para formar uma fina película de resistência à umidade antes do treino.",
-          "id": "Anda dapat meningkatkan resolusi fisik indra peraba Anda dengan mengaktifkan aliran darah dengan mencuci tangan secara ringan dengan air hangat sebelum latihan, atau dengan mengoleskan sedikit krim pelembab untuk membentuk lapisan tipis tahan kelembapan sebelum latihan."
+          "ko": "훈련 전 따뜻한 물로 손을 가볍게 씻어 혈류를 활성화하거나, 보습 크림을 가볍게 발라 미세한 수분 저항막을 형성한 후 훈련하면 촉각의 물리적 분해능을 더 크게 각성시킬 수 있습니다."
         }
       }
-    ],
-    "pubDate": "2026-03-12",
-    "updatedDate": "2026-03-12"
+    ]
   }
 }

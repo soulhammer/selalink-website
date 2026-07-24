@@ -1,190 +1,62 @@
 {
   "beethoven-coffee-ritual": {
     "title": {
-      "ko": "매일 아침 원두 60알을 세어 커피를 내린 작곡가? 베토벤의 집중력 의식",
-      "en": "The Composer Who Counted 60 Coffee Beans Every Morning? Beethoven's Concentration Ritual",
-      "ja": "毎朝コーヒー豆を60粒数えて淹れた作曲家？ベートーヴェンの集中力儀式",
-      "zh": "每天清晨数出60颗咖啡豆的作曲家？贝多芬的专注力仪式",
-      "es": "El compositor que contaba 60 granos de café cada mañana? El ritual de concentración de Beethoven",
-      "fr": "Le compositeur qui comptait 60 grains de café chaque matin ? Le rituel de concentration de Beethoven",
-      "de": "Der Komponist, der jeden Morgen 60 Kaffeebohnen abzählte? Beethovens Konzentrationsritual",
-      "pt": "O compositor que contava 60 grãos de café todas as manhãs? O ritual de concentração de Beethoven",
-      "id": "Komposer yang Menghitung 60 Biji Kopi Setiap Pagi? Ritual Konsentrasi Beethoven"
+      "ko": "매일 아침 원두 60알을 세어 커피를 내린 작곡가? 베토벤의 집중력 의식"
     },
     "description": {
-      "ko": "시대를 초월한 위대한 작곡가 루드비히 판 베토벤. 매일 아침 정확히 60알의 원두를 세며 마음을 정돈했던 그의 독특한 루틴과 뇌를 깨우는 마인드풀니스 실천법을 알아봅니다.",
-      "en": "The timeless great composer Ludwig van Beethoven. Explore his unique routine of counting exactly 60 coffee beans every morning to calm his mind, and how to practice mindfulness today.",
-      "ja": "時代を超越した偉大な作曲家ルートヴィヒ・ヴァン・ベートーヴェン。毎朝正確に60粒の豆を数えながら心を整えた彼の独特なルーティンと, 脳を目覚めさせるマインドフルネス実践法を紹介します。",
-      "zh": "跨越时代的伟大作曲家路德维希·凡·贝多芬。探索他每天早晨精确数出60颗咖啡豆以使心灵平静的独特惯例，以及引导大脑觉醒的正念实践方法。",
-      "es": "El gran compositor de todos los tiempos Ludwig van Beethoven. Conozca su rutina única de contar exactamente 60 granos de café cada mañana para calmar su mente, y cómo practicarla hoy en día.",
-      "fr": "Le grand compositeur de tous les temps Ludwig van Beethoven. Découvrez sa routine unique consistant à compter exactement 60 grains de café chaque matin pour calmer son esprit, et comment la pratiquer aujourd'hui.",
-      "de": "Der zeitlose große Komponist Ludwig van Beethoven. Erfahren Sie mehr über seine einzigartige Routine, jeden Morgen genau 60 Kaffeebohnen abzuzählen, um den Geist zu beruhigen, und wie Sie Achtsamkeit praktizieren können.",
-      "pt": "O grande compositor de todos os tempos Ludwig van Beethoven. Conheça a sua rotina única de contar exatamente 60 grãos de café todas as manhãs para acalmar a mente, e como praticá-la hoje.",
-      "id": "Komposer hebat sepanjang masa Ludwig van Beethoven. Pelajari tentang rutinitas uniknya menghitung tepat 60 biji kopi setiap pagi untuk menenangkan pikirannya, dan cara melatih perhatian penuh hari ini."
+      "ko": "시대를 초월한 위대한 작곡가 루드비히 판 베토벤. 매일 아침 정확히 60알의 원두를 세며 마음을 정돈했던 그의 독특한 루틴과 뇌를 깨우는 마인드풀니스 실천법을 알아봅니다."
     },
     "authority": {
-      "ko": "안톤 쉰들러 저 '내가 아는 베토벤' 및 인지감정학회지(Cognition and Emotion)",
-      "en": "Anton Schindler's 'Beethoven as I Knew Him' & Cognition and Emotion",
-      "ja": "アントン・シンドラー 著『私が知るベートーヴェン』＆ 認知感情学術誌(Cognition and Emotion)",
-      "zh": "安东·辛德勒著《我所知道的贝多芬》及认知与情感学术期刊(Cognition and Emotion)",
-      "es": "Obra de Anton Schindler 'Beethoven as I Knew Him' y estudio de Cognition and Emotion",
-      "fr": "L'ouvrage d'Anton Schindler 'Beethoven tel que je l'ai connu' et l'étude de Cognition and Emotion",
-      "de": "Anton Schindlers 'Beethoven, wie ich ihn hatte' & Studie in Cognition and Emotion",
-      "pt": "Obra de Anton Schindler 'Beethoven as I Knew Him' e estudo da Cognition and Emotion",
-      "id": "Buku Anton Schindler 'Beethoven as I Knew Him' & Penelitian Cognition and Emotion"
+      "ko": "베토벤 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "청각 장애라는 음악가에게 사형 선고와도 같은 시련을 극복하고 《운명 교향곡》, 《합창 교향곡》 등 인류 역사상 가장 위대한 선율을 탄생시킨 작곡가, 루드비히 판 베토벤. 평생 동안 불같은 성격과 예술가적 예민함을 보였던 그가 아침에 눈을 떠 작곡을 시작하기 전, 매우 차분하고 엄격하게 치렀던 기묘한 행동을 알고 계신가요? ☕\\n\\n그것은 바로 커피 원두를 정확히 '60알' 세어서 내리는 아침 커피 의식이었습니다. 베토벤은 커피의 맛과 향에 무척 예민했고 완벽한 비율을 고집했습니다. 그는 유리를 달구어 사이폰식으로 커피를 추출했는데, 매일 아침 유리관 안을 들여다보며 손끝으로 생원두를 딱 60알 세어서 분쇄기에 넣었습니다. 귀한 손님이 방문했을 때도 한 잔당 정확히 60알이라는 엄격한 규칙을 단 한 알의 오차도 없이 고수했습니다. 이 60알의 원두를 세는 시간은 그에게 단순한 음료 준비가 아닌, 어수선한 외부 소음으로부터 마음을 닫고 고요히 자신의 내면 음악 세계로 들어가는 신성한 아침의 진입로였습니다.\\n\\n오늘 BuildSelf에서는 베토벤의 기묘한 원두 60알 의식 속에 깃든 과학적 비밀과 이를 통해 하루의 몰입도를 극대화하는 아침 리추얼 설계법을 소개합니다.\\n\\n\\n\\n\\n---",
-      "en": "Ludwig van Beethoven, one of the greatest composers in Western music history who overcame the fatal ordeal of hearing loss and created the greatest melodies in human history such as the 'Fate Symphony' and the 'Choral Symphony.' Did you know the unique ritual he performed every morning before starting to compose? It was a precise coffee ritual of counting exactly '60 beans.' Beethoven was very sensitive to the taste and aroma of coffee and insisted on the perfect ratio. He used a glass siphon to extract coffee, counting exactly 60 raw beans by hand every morning. Even when guests visited, he strictly adhered to this rule. Counting these 60 beans was a sacred morning entryway for him to shut out distracting external noises and quietly enter his inner musical world. Today, BuildSelf shares the scientific secrets of Beethoven's coffee ritual and how to design a morning ritual to maximize your focus.",
-      "ja": "この歴史的習慣の実践において： 《 》, 《 》 , . , ? ☕\\n\\n '60' . . , 60 . 60 . 60 , .\\n\\n BuildSelf 60 .\\n\\n\\n\\n\\n---",
-      "zh": "在这一历史性惯例的实践中： 《 》, 《 》 , . , ? ☕\\n\\n '60' . . , 60 . 60 . 60 , .\\n\\n BuildSelf 60 .\\n\\n\\n\\n\\n---",
-      "es": "Ludwig van Beethoven, uno de los más grandes compositores de la historia de la música occidental, que superó la prueba mortal de la pérdida auditiva y creó las melodías más grandiosas de la historia, como la 'Sinfonía del Destino' y la 'Sinfonía Coral'. ¿Sabías que realizaba un ritual matutino antes de empezar a componer? Era el ritual de contar exactamente '60 granos' de café. Beethoven era muy sensible al sabor y aroma del café e insistía en la proporción perfecta. Contar estos 60 granos era una entrada sagrada para aislar los ruidos externos y entrar en su mundo musical. Hoy, BuildSelf comparte los secretos científicos del ritual de Beethoven y cómo diseñar una rutina matutina para maximizar tu enfoque.",
-      "fr": "Ludwig van Beethoven, l'un des plus grands compositeurs de l'histoire de la musique occidentale, qui a surmonté l'épreuve mortelle de la perte auditive pour créer les mélodies les plus grandioses, telles que la « Symphonie du Destin » et la « Symphonie chorale ». Saviez-vous qu'il accomplissait un rituel matutinal avant de commencer à composer ? C'était le rituel consistant à compter exactement « 60 grains » de café. Beethoven était très sensible au goût et à l'arôme du café et exigeait une proportion parfaite. Compter ces 60 grains était un prélude sacré pour s'isoler des bruits extérieurs et entrer dans son monde musical. Aujourd'hui, BuildSelf partage les secrets scientifiques du rituel de Beethoven.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Ludwig van Beethoven, um dos maiores compositores da história da música ocidental, que superou a provação mortal da perda auditiva e criou as melodias mais grandiosas da história, como a 'Sinfonia do Destino' e a 'Sinfonia Coral'. Sabia que ele realizava um ritual matinal antes de começar a compor? Era o ritual de contar exatamente '60 grãos' de café. Beethoven era muito sensível ao sabor e aroma del café e insistia na proporção perfeita. Contar estes 60 grãos era uma entrada sagrada para isolar os ruídos externos e entrar no seu mundo musical. Hoje, o BuildSelf partilha os segredos científicos del ritual de Beethoven.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "청각 장애라는 음악가에게 사형 선고와도 같은 시련을 극복하고 《운명 교향곡》, 《합창 교향곡》 등 인류 역사상 가장 위대한 선율을 탄생시킨 작곡가, 루드비히 판 베토벤. 평생 동안 불같은 성격과 예술가적 예민함을 보였던 그가 아침에 눈을 떠 작곡을 시작하기 전, 매우 차분하고 엄격하게 치렀던 기묘한 행동을 알고 계신가요? ☕\n\n그것은 바로 커피 원두를 정확히 '60알' 세어서 내리는 아침 커피 의식이었습니다. 베토벤은 커피의 맛과 향에 무척 예민했고 완벽한 비율을 고집했습니다. 그는 유리를 달구어 사이폰식으로 커피를 추출했는데, 매일 아침 유리관 안을 들여다보며 손끝으로 생원두를 딱 60알 세어서 분쇄기에 넣었습니다. 귀한 손님이 방문했을 때도 한 잔당 정확히 60알이라는 엄격한 규칙을 단 한 알의 오차도 없이 고수했습니다. 이 60알의 원두를 세는 시간은 그에게 단순한 음료 준비가 아닌, 어수선한 외부 소음으로부터 마음을 닫고 고요히 자신의 내면 음악 세계로 들어가는 신성한 아침의 진입로였습니다.\n\n오늘 포스트에서는 베토벤의 기묘한 원두 60알 의식 속에 깃든 과학적 비밀과 이를 통해 하루의 몰입도를 극대화하는 아침 리추얼 설계법을 소개합니다."
     },
     "whyTitle": {
-      "ko": "전두엽을 깨우는 마인드풀니스와 '인지적 프레이밍'",
-      "en": "Mindfulness and 'Cognitive Framing' That Wake the Prefrontal Cortex",
-      "ja": "前頭葉を目覚めさせるマインドフルネスと「認知的フレーミング」",
-      "zh": "唤醒前额叶皮层的正念与“认知框架”",
-      "es": "Atención plena y 'encuadre cognitivo' que despiertan la corteza prefrontal",
-      "fr": "Pleine conscience et « cadrage cognitif » qui éveillent le cortex préfrontal",
-      "de": "Achtsamkeit und 'kognitives Framing' zur Aktivierung des präfrontalen Cortex",
-      "pt": "Atenção plena e 'enquadramento cognitivo' que despertam o córtex pré-frontal",
-      "id": "Perhatian Penuh dan 'Pembingkaian Kognitif' yang Membangunkan Korteks Prefrontal"
+      "ko": "전두엽을 깨우는 마인드풀니스와 '인지적 프레이밍'"
     },
     "whyDesc": {
-      "ko": "손끝으로 작고 둥근 원두의 촉감을 느끼며 숫자를 하나하나 세는 정교한 행동은 脳科学的으로 훌륭한 '마인드풀니스(Mindfulness, 마음챙김)' 훈련입니다. \\n\\n우리가 아침에 눈을 뜨면 뇌는 어제 끝내지 못한 걱정거리나 오늘 해야 할 복잡한 업무 계획을 연상하며 디폴트 모드 네트워크(DMN)를 과도하게 활성화시킵니다. 이 상태는 뇌의 에너지를 낭비하고 은연중에 불안을 유발합니다. 이때 베토벤의 원두 세기처럼 단순하고 세밀한 신체적 감각과 동작에 온전히 의식을 집중하면, DMN의 과활성화가 억제되고 현재 순간의 뇌 감각 영역이 깨어납니다. 또한 매일 똑같은 행동 의식을 거치는 것은 뇌에 '이제 고도의 집중 상태로 진입한다'는 프레임을 씌워주는 인지적 트리거로 작동합니다.",
-      "en": "Focusing on precise physical actions like counting small coffee beans is an excellent 'Mindfulness' training in neuroscience. When we wake up in the morning, the brain often overactivates the Default Mode Network (DMN) by thinking about unfinished worries or complex work plans. This state wastes brain energy and causes anxiety. Focusing on simple physical sensations and actions like Beethoven's bean counting suppresses DMN overactivation and awakens the sensory areas of the brain. Also, going through the same behavioral ritual every morning acts as a cognitive trigger that frames the brain to enter a state of high concentration.",
-      "ja": "指先で小さく丸いコーヒー豆の感触を感じながら、数字を一つ一つ数える精巧な行動は、脳科学的に優れた「マインドフルネス（心付け）」トレーニングです。私たちが朝目覚めると、脳は昨日の心配事や今日の複雑な業務計画を連想し、デフォルトモードネットワーク（DMN）を過度に活性化させます。この状態は脳のエネルギーを無駄にし、不安を誘発します。ベートーヴェンのように単純な身体的感覚と動作に完全に意識を集中させると、DMNの過活動が抑制され、現時点での脳の感覚領域が目覚めます。また、毎朝同じ行動儀式を経ることは、認知的フレーミングとして機能します。",
-      "zh": "指尖感受着咖啡豆细小圆润的触觉，将数字一颗一颗数出来的精细动作，在脑科学上是极佳的“正念（Mindfulness）”训练。早晨醒来时，大脑往往会通过联想昨天没完没了的烦恼或今天的复杂工作计划，过度激活默认模式网络（DMN）。这种状态会浪费大脑能量并诱发焦虑。像贝多芬那样将意识完全集中在简单的身体感觉和动作上，能抑制DMN的过度激活，唤醒当下的大脑感官区域。此外，每天早晨经历相同的行为仪式，可以作为认知的触发器，为大脑框定进入高度专注状态的路径。",
-      "es": "Concentrarse en acciones físicas precisas como contar granos de café es un excelente entrenamiento de 'Atención Plena' en neurociencia. Cuando nos despertamos por la mañana, el cerebro a menudo sobreactiva la Red Neuronal por Defecto (DMN) pensando en preocupaciones pendientes o planes de trabajo complejos. Este estado desperdicia energía y causa ansiedad. Centrarse en sensaciones físicas simples como el recuento de granos de Beethoven suprime la sobreactivación de la DMN y despierta las áreas sensoriales del cerebro. Además, pasar por el mismo ritual actúa como un disparador cognitivo que encuadra al cerebro para entrar en un estado de alta concentración.",
-      "fr": "Se concentrer sur des actions physiques précises comme compter des grains de café est un excellent entraînement de « Pleine conscience ». Au réveil, le cerveau suractive souvent le réseau du mode par défaut (DMN) en pensant aux soucis ou aux projets complexes. Cet état gaspille de l'énergie et génère de l'anxiété. Se concentrer sur des sensations physiques simples comme le comptage de grains de Beethoven supprime cette suractivation et éveille les zones sensorielles. De plus, accomplir le même rituel chaque matin agit comme un déclencheur cognitif qui prépare le cerveau à entrer en concentration.",
-      "de": "Sich auf präzise körperliche Handlungen wie das Zählen kleiner Kaffeebohnen zu konzentrieren, ist ein hervorragendes Achtsamkeitstraining. Wenn wir morgens aufwachen, aktiviert das Gehirn oft das DMN übermäßig, indem es an unerledigte Sorgen oder komplexe Pläne denkt. Dieser Zustand verschwendet Energie und erzeugt Angst. Die Konzentration auf einfache kognitiven Empfindungen.",
-      "pt": "Focar em ações físicas precisas, como contar grãos de café, é um excelente treino de 'Atenção Plena'. Quando acordamos de manhã, o cérebro muitas vezes sobreativa a Rede de Modo Padrão (DMN) ao pensar em preocupações pendentes ou planos de trabalho complexos. Este estado desperdiça energia e causa ansiedade. Centrar-se em sensações físicas simples, como a contagem de grãos de Beethoven, suprime a sobreativação da DMN e desperta as áreas sensoriais del cérebro. Além disso, passar pelo mesmo ritual atua como um gatilho cognitivo que enquadra o cérebro para entrar num estado de alta concentração.",
-      "id": "Fokus pada tindakan fisik yang tepat seperti menghitung biji kopi kecil adalah pelatihan 'Perhatian Penuh' yang sangat baik dalam ilmu saraf. Ketika kita bangun di pagi hari, otak sering kali mengaktifkan Default Mode Network (DMN) secara berlebihan dengan memikirkan kekhawatiran yang belum selesai atau rencana kerja yang rumit. Kondisi ini membuang-buang energi otak dan menimbulkan kecemasan. Berfokus pada sensasi & tindakan fisik sederhana."
+      "ko": "손끝으로 작고 둥근 원두의 촉감을 느끼며 숫자를 하나하나 세는 정교한 행동은 뇌과학적으로 훌륭한 '마인드풀니스(Mindfulness, 마음챙김)' 훈련입니다. \\n\\n우리가 아침에 눈을 뜨면 뇌는 어제 끝내지 못한 걱정거리나 오늘 해야 할 복잡한 업무 계획을 연상하며 디폴트 모드 네트워크(DMN)를 과도하게 활성화시킵니다. 이 상태는 뇌의 에너지를 낭비하고 은연중에 불안을 유발합니다. 이때 베토벤의 원두 세기처럼 단순하고 세밀한 신체적 감각과 동작에 온전히 의식을 집중하면, DMN의 과활성화가 억제되고 현재 순간의 뇌 감각 영역이 깨어납니다. 또한 매일 똑같은 행동 의식을 거치는 것은 뇌에 '이제 고도의 집중 상태로 진입한다'는 프레임을 씌워주는 인지적 트리거로 작동합니다."
+    },
+    "cautionTitle": {
+      "ko": "성공적인 루틴을 위한 뇌과학적 한마디"
+    },
+    "cautionDesc": {
+      "ko": "<strong>하루의 몰입은 아침의 정교함에서 나옵니다</strong>\\n\\n바쁜 아침 시간에 허둥지둥 준비해 출근하면 하루 종일 뇌는 어수선한 상태에서 헤어 나오지 못합니다. 베토벤처럼 단 5분만이라도 나를 위해 온전한 감각에 집중하는 정교한 아침 리추얼을 고수해 보세요. 뇌를 차분하게 동기화하고 정돈해 둔 상태에서 시작하는 하루는 집중력의 깊이 자체가 완전히 다릅니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Set your own precise morning ritual item",
-          "ja": "自分だけの精巧な朝の儀式アイテムを設定する",
-          "zh": "设定专属于你的精细晨间仪式项目",
-          "es": "Establecer tu propio artículo de ritual matutino preciso",
-          "fr": "Définir votre propre objet de rituel matinal",
-          "de": "Ein eigenes präzises Morgenritual-Element festlegen",
-          "pt": "Definir o seu próprio item de ritual matinal preciso",
-          "id": "Tentukan item ritual pagi Anda yang tepat",
           "ko": "Set your own precise morning ritual item"
         },
         "text": {
-          "en": "Instead of instant coffee or a machine, choose a morning tool that requires you to move your hands. A hand drip tool for grinding coffee beans or a tea set are excellent alternatives.",
-          "ja": "インスタントコーヒーやボタン一つの機械の代わりに、手を直接動かす朝の道具を決めます。コーヒー豆をハンドミルで直接挽いて淹れるハンドドリップ器具や、茶葉を急須に丁寧に分ける茶道セットなどが非常に優れた代替案です。",
-          "zh": "选择一种需要你动手操作的清晨工具，而不是速溶咖啡或一键启动的机器。手动磨豆机冲泡手冲咖啡，或者将茶叶精心放入茶壶的茶具，都是极好的替代选择。",
-          "es": "En lugar de café instantáneo o una máquina, elige una herramienta matutina que requiera mover las manos. Una herramienta de goteo manual para moler granos de café o un juego de té son excelentes alternativas.",
-          "fr": "Au lieu d'un café instantané ou d'une machine, choisissez un outil matinal qui demande de bouger les mains. Un moulin manuel pour moudre les grains ou un service à thé sont d'excellentes alternatives.",
-          "de": "Wählen Sie anstelle von Instantkaffee oder einer Maschine ein morgendliches Werkzeug, bei dem Sie Ihre Hände bewegen müssen. Ein Handfilter zum Mahlen von Kaffeebohnen oder ein Teeset sind hervorragende Alternativen.",
-          "pt": "Em vez de café instantâneo ou de uma máquina, escolha uma ferramenta matinal que exija mover as mãos. Uma ferramenta de goteamento manual para moer grãos de café ou um jogo de chá são excelentes alternativas.",
-          "id": "Alih-alih kopi instan atau mesin, pilihlah alat pagi hari que mengharuskan Anda menggerakkan tangan. Alat tetes tangan untuk menggiling biji kopi atau satu set teh adalah alternatif yang sangat baik.",
           "ko": "Instead of instant coffee or a machine, choose a morning tool that requires you to move your hands. A hand drip tool for grinding coffee beans or a tea set are excellent alternatives."
         }
       },
       {
         "name": {
-          "en": "Completely block external stimuli for 5 minutes of preparation",
-          "ja": "準備する5分間、外部刺激を完全に遮断する",
-          "zh": "在准备的5分钟内彻底阻断外部刺激",
-          "es": "Bloquear completamente los estímulos externos durante 5 minutos de preparación",
-          "fr": "Bloquer complètement les stimuli externes pendant 5 minutes de préparation",
-          "de": "Während der 5-minütigen Zubereitung äußere Reize komplett ausblenden",
-          "pt": "Bloquear completamente os estímulos externos durante 5 minutes de preparação",
-          "id": "Blokir rangsangan luar sepenuhnya selama 5 menit persiapan",
           "ko": "Completely block external stimuli for 5 minutes of preparation"
         },
         "text": {
-          "en": "During the 5 minutes of preparing tea or counting beans, do not look at your smartphone screen and block verbal stimuli like news or conversation. Focus solely on physical sensations: the touch of the beans, the vibration of grinding, the sound of boiling water, and the aroma.",
-          "ja": "豆を数えたりお茶を淹れたりする5分間は、スマートフォンの画面を絶対に見ず、ニュースや会話などの言語的刺激を遮断します。ただ指先の感覚、コーヒーの香り、お湯の落ちる音だけに極度に集中します。",
-          "zh": "在数咖啡豆或泡茶的5分钟内，绝对不要看手机屏幕，阻断新闻或谈话等言语刺激。只专注于手指尖 of 触觉、转动磨豆机时传到手心的振动、水开的声音以及散发出来的茶香/咖啡香。",
-          "es": "Durante los 5 minutos de preparar el té o contar los granos, no mires la pantalla de tu teléfono y bloquea los estímulos verbales como las noticias o la conversación. Concéntrate únicamente en las sensaciones físicas.",
-          "fr": "Pendant les 5 minutes de préparation, ne regardez pas votre écran de smartphone et bloquez les stimuli verbaux (actualités, conversations). Concentrez-vous uniquement sur les sensations physiques.",
-          "de": "Schauen Sie während der 5 Minuten der Zubereitung nicht auf Ihr Smartphone und vermeiden Sie sprachliche Reize wie Nachrichten oder Gespräche. Konzentrieren Sie sich nur auf die kognitiven Empfindungen.",
-          "pt": "Durante os 5 minutos de preparação do chá ou contagem dos grãos, não olhe para o ecrã do telemóvel e bloqueie estímulos verbais como notícias ou conversas. Concentre-se unicamente nas sensações físicas.",
-          "id": "Selama 5 menit menyiapkan teh atau menghitung biji kopi, jangan melihat layar ponsel Anda dan blokir rangsangan luar seperti berita atau percakapan. Fokus semata-mata pada sensasi fisik.",
           "ko": "During the 5 minutes of preparing tea or counting beans, do not look at your smartphone screen and block verbal stimuli like news or conversation. Focus solely on physical sensations: the touch of the beans, the vibration of grinding, the sound of boiling water, and the aroma."
         }
       },
       {
         "name": {
-          "en": "Start focus mode while drinking slowly",
-          "ja": "落ち着いて一杯を飲みながら没頭モードを開始する",
-          "zh": "静心品记/饮咖啡，开启专注模式",
-          "es": "Iniciar el modo de enfoque mientras bebes lentamente",
-          "fr": "Lancer le mode concentration tout en buvant lentement",
-          "de": "Den Fokusmodus beim langsamen Trinken starten",
-          "pt": "Iniciar o modo de foco enquanto bebe lentamente",
-          "id": "Mulai mode fokus sambil minum perlahan",
           "ko": "Start focus mode while drinking slowly"
         },
         "text": {
-          "en": "Savor the prepared coffee or tea slowly. Maintain this calm brain state and immediately enter your first important task. Repeating this ritual at the same time every morning conditions the brain to recognize the coffee taste as a focus trigger.",
-          "ja": "丁寧に淹れたコーヒーやお茶を席に座ってゆっくり味わいます。この落ち着いて整えられた脳の状態を維持し、最初の重要な業務にすぐに突入します。繰り返すことで、集中モードの作動信号として条件付けます。",
-          "zh": "坐在位子上，慢慢品味精心冲泡的咖啡或茶。保持这种平静而整顿的大脑状态，立即投入到第一项重要工作中。每天早晨在同一时间重复这一仪式，大脑就会形成条件反射，将咖啡的味道视为“专注模式启动信号”。",
-          "es": "Saborea el café o té preparado lentamente. Mantén este estado cerebral tranquilo e ingresa inmediatamente a tu primera tarea importante. Repetir este ritual por la mañana condiciona al cerebro a reconocer el sabor como un disparador.",
-          "fr": "Savourez lentement le café ou le thé préparé. Maintenez cet état cérébral calme et attaquez immédiatement votre première tâche importante. Répéter ce rituel conditionne le cerveau à associer ce goût à la concentration.",
-          "de": "Genießen Sie den Kaffee oder Tee langsam. Nutzen Sie diesen ruhigen Zustand, um sofort mit Ihrer ersten wichtigen Aufgabe zu beginnen. Die tägliche Wiederholung konditioniert das Gehirn, den Geschmack als Startsignal zu erkennen.",
-          "pt": "Saboreie o café ou chá preparado lentamente. Mantenha este estado cerebral calmo e entre imediatamente na sua primeira tarefa importante. Repetir este ritual de manhã condiciona o cérebro a reconhecer o sabor como um gatilho.",
-          "id": "Nikmati kopi atau teh yang disiapkan secara perlahan. Pertahankan kondisi otak yang tenang ini & segera lakukan tugas penting pertama Anda.",
           "ko": "Savor the prepared coffee or tea slowly. Maintain this calm brain state and immediately enter your first important task. Repeating this ritual at the same time every morning conditions the brain to recognize the coffee taste as a focus trigger."
         }
       }
     ],
-    "cautionTitle": {
-      "ko": "성공적인 루틴을 위한 脳科学的 한마디",
-      "en": "A brain-scientific word for a successful routine",
-      "ja": "効果的なルーティンのための脳科学的な一言",
-      "zh": "成功惯例的脑科学建议",
-      "es": "Un consejo neurocientífico para una rutina exitosa",
-      "fr": "Un conseil neuroscientifique pour une routine réussie",
-      "de": "Ein gehirnwissenschaftlicher Ratschlag für eine erfolgreiche Routine",
-      "pt": "Um conselho neurocientífico para uma rotina de sucesso",
-      "id": "Saran ilmiah saraf untuk rutinitas yang sukses"
-    },
-    "cautionDesc": {
-      "ko": "<strong>하루의 몰입은 아침의 정교함에서 나옵니다</strong>\\n\\n바쁜 아침 시간에 허둥지둥 준비해 출근하면 하루 종일 뇌는 어수선한 상태에서 헤어 나오지 못합니다. 베토벤처럼 단 5분만이라도 나를 위해 온전한 감각에 집중하는 정교한 아침 리추얼을 고수해 보세요. 뇌를 차분하게 동기화하고 정돈해 둔 상태에서 시작하는 하루는 집중력의 깊이 자체가 완전히 다릅니다.",
-      "en": "If you rush to get ready in the morning, your brain remains cluttered throughout the day. Like Beethoven, stick to a precise morning ritual of focusing on your senses for just 5 minutes. A day started with a calm, synchronized brain has a completely different depth of concentration.",
-      "ja": "忙しい朝の時間にバタバタと準備して出勤すると、一日中脳は雑然とした状態から抜け出せません。ベートーヴェンのように、たった5分だけでも自分のために温かい感覚に集中する精巧な朝のリチュアルを守ってみてください。脳を落ち着かせて同期化し、整えておいた状態で始める一日は、集中力の深さ自体がまったく異なります。",
-      "zh": "如果在忙碌的早晨手忙脚乱地准备出门，大脑一整天都会处于杂乱的状态。像贝多芬一样，坚持用仅仅5分钟的时间，专注于自我感官的精细清晨仪式吧。在平静、同步的大脑状态下开启的一天，其专注力的深度是完全不同的。",
-      "es": "Si te apresuras a prepararte por la mañana, tu cerebro permanecerá desordenado durante todo el día. Al igual que Beethoven, mantén un ritual matutino preciso de concentrarte en tus sentidos durante solo 5 minutos. Un día que comienza con un cerebro tranquilo tiene una profundidad de concentración diferente.",
-      "fr": "Si vous vous pressez le matin, votre cerveau restera encombré toute la journée. Comme Beethoven, tenez-vous à un rituel matinal précis consistant à vous concentrer sur vos sens pendant seulement 5 minutes. Une journée commencée avec un cerveau calme offre une concentration bien plus profonde.",
-      "de": "Wenn Sie sich morgens beeilen, bleibt Ihr Gehirn den ganzen Tag über unruhig. Nehmen Sie sich wie Beethoven 5 Minuten Zeit für ein präzises Morgenritual, um sich auf Ihre Sinne zu konzentrieren. Ein so begonnener Tag ermöglicht eine ganz andere Tiefe der Konzentration.",
-      "pt": "Se se apressar a preparar-se de manhã, o seu cérebro permanecerá desordenado durante todo o dia. Tal como Beethoven, mantenha um ritual matinal preciso de se concentrar nos seus sentidos durante apenas 5 minutos. Um dia começado com um cérebro calmo tem uma profundidade de concentração diferente.",
-      "id": "Jika Anda terburu-buru bersiap-siap di pagi hari, otak Anda akan tetap kacau sepanjang hari. Seperti Beethoven, patuhi ritual pagi yang tepat untuk fokus pada indra Anda selama 5 menit saja. Hari yang dimulai dengan otak yang tenang memiliki kedalaman konsentrasi yang sangat berbeda."
-    },
     "faqs": [
       {
         "question": {
-          "ko": "베토벤은 왜 원두 60알을 고집했나요?",
-          "en": "Why did Beethoven insist on 60 coffee beans?",
-          "ja": "ベートーヴェンはなぜコーヒー豆60粒にこだわったのですか？",
-          "zh": "贝多芬为什么坚持只用60颗咖啡豆？",
-          "es": "¿Por qué Beethoven insistía en contar 60 granos de café?",
-          "fr": "Pourquoi Beethoven insistait-il sur 60 grains de café ?",
-          "de": "Warum bestand Beethoven auf 60 Kaffeebohnen?",
-          "pt": "Porque é que Beethoven insistia em contar 60 grãos de café?",
-          "id": "Mengapa Beethoven bersikeras menggunakan 60 biji kopi?"
+          "ko": "베토벤은 왜 원두 60알을 고집했나요?"
         },
         "answer": {
-          "ko": "작업 직전 아침 원두 60알을 직접 세는 단순 반복 행위를 통해 인지 에너지를 한곳으로 수렴하고 몰입의 트리거 신호로 삼기 위함이었습니다.",
-          "en": "Through the repetitive act of counting 60 beans, he gathered cognitive energy to use as a trigger signal for deep work.",
-          "ja": "作業の直前に60粒の豆を数える単純反復行為を通じて、認知エネルギーを1箇所に集約し、没頭へのトリガーとするためでした。",
-          "zh": "在开始工作前通过数60颗咖啡豆这种简单重复的行为，将认知能量汇聚于一点，作为进入深度专注的触发信号。",
-          "es": "A través del acto repetitivo de contar 60 granos, concentraba la energía cognitiva para usarla como disparador de concentración.",
-          "fr": "À travers l'action répétitive de compter 60 grains, il concentrait son attention pour en faire le déclencheur de son travail.",
-          "de": "Durch das Abzählen von 60 Bohnen sammelte er seine Energie als Signal für den Beginn tiefer Arbeit.",
-          "pt": "Através do ato repetitivo de contar 60 grãos, concentrava a energia cognitiva para usá-la como gatilho de concentração.",
-          "id": "Melalui tindakan berulang menghitung 60 biji kopi, ia mengumpulkan energi kognitif sebagai pemicu fokus."
+          "ko": "작업 직전 아침 원두 60알을 직접 세는 단순 반복 행위를 통해 인지 에너지를 한곳으로 수렴하고 몰입의 트리거 신호로 삼기 위함이었습니다."
         }
       }
     ]

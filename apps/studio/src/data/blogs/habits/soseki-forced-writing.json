@@ -1,194 +1,64 @@
 {
   "soseki-forced-writing": {
     "title": {
-      "ko": "슬럼프를 이기는 강제의 힘: 나쓰메 소세키의 아침 집필 루틴",
-      "en": "The Power of Compulsion to Overcome Slump: Natsume Soseki's Morning Writing Routine",
-      "ja": "スランプに打ち勝つ強制の力：夏目漱石の朝の執筆ルーティン",
-      "zh": "战胜倦怠与低谷的强制力量：夏目漱石的清晨写作惯例",
-      "es": "The Power of Compulsion to Overcome Slump: Natsume Soseki's Morning Writing Routine",
-      "fr": "The Power of Compulsion to Overcome Slump: Natsume Soseki's Morning Writing Routine",
-      "de": "The Power of Compulsion to Overcome Slump: Natsume Soseki's Morning Writing Routine",
-      "pt": "The Power of Compulsion to Overcome Slump: Natsume Soseki's Morning Writing Routine",
-      "id": "The Power of Compulsion to Overcome Slump: Natsume Soseki's Morning Writing Routine"
+      "ko": "슬럼프를 이기는 강제의 힘: 나쓰메 소세키의 아침 집필 루틴"
     },
     "description": {
-      "ko": "나쓰메 소세키가 명작을 남긴 아침 집필 규칙. 영감을 기다리지 않고 뇌의 작동 흥분을 깨우는 루틴의 가치를 설명합니다.",
-      "en": "Natsume Soseki's morning writing routine. Explains the value of awakening the brain's work excitement instead of waiting for inspiration.",
-      "ja": "夏目漱石が数々の名作を残した朝の執筆規則。インスピレーションを待たずに脳の『作業興奮』を呼び覚ます習慣の価値を解説します。",
-      "zh": "夏目漱石创作无数名作的清晨写作规则。探讨不等待灵感、直接唤醒大脑“作业兴奋”机制的日常习惯价值。",
-      "es": "Natsume Soseki's morning writing routine. Explains the value of awakening the brain's work excitement instead of waiting for inspiration.",
-      "fr": "Natsume Soseki's morning writing routine. Explains the value of awakening the brain's work excitement instead of waiting for inspiration.",
-      "de": "Natsume Soseki's morning writing routine. Explains the value of awakening the brain's work excitement instead of waiting for inspiration.",
-      "pt": "Natsume Soseki's morning writing routine. Explains the value of awakening the brain's work excitement instead of waiting for inspiration.",
-      "id": "Natsume Soseki's morning writing routine. Explains the value of awakening the brain's work excitement instead of waiting for inspiration."
+      "ko": "나쓰메 소세키가 명작을 남긴 아침 집필 규칙. 영감을 기다리지 않고 뇌의 작동 흥분을 깨우는 루틴의 가치를 설명합니다."
     },
     "authority": {
-      "ko": "나쓰메 소세키의 서한집 기록 및 크레펠린의 작업흥분(Arbeitsbereitschaft) 이론",
-      "en": "Historical letters of Natsume Soseki & Emil Kraepelin's Work Excitement Theory",
-      "ja": "夏目漱石の書簡および門弟たちの回想録、並びにエミール・クレペリンの作業興奮（Arbeitsbereitschaft）理論",
-      "zh": "夏目漱石书信与门生回忆录，以及埃米尔·克雷佩林关于“作业兴奋”的理论研究",
-      "es": "Historical letters of Natsume Soseki & Emil Kraepelin's Work Excitement Theory",
-      "fr": "Historical letters of Natsume Soseki & Emil Kraepelin's Work Excitement Theory",
-      "de": "Historical letters of Natsume Soseki & Emil Kraepelin's Work Excitement Theory",
-      "pt": "Historical letters of Natsume Soseki & Emil Kraepelin's Work Excitement Theory",
-      "id": "Historical letters of Natsume Soseki & Emil Kraepelin's Work Excitement Theory"
+      "ko": "Soseki Forced Writing 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "나쓰메 소세키는 매일 아침 영감을 기다리지 않고 기계적으로 책상에 앉았습니다. 이것은 뇌의 도파민 분비를 촉진하고 창의적인 집중력을 깨우는 작동 흥분 루틴입니다.",
-      "en": "Natsume Soseki sat at his desk mechanically every morning without waiting for inspiration. This is a work excitement routine that stimulates dopamine and awakens creative focus.",
-      "ja": "この歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持続可能な深い集中力を養うことができます。",
-      "zh": "通过每天系统地实践这一历史性惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
-      "es": "Natsume Soseki se sentaba a escribir mecánicamente todas las mañanas sin esperar inspiración. Este hábito de acción obligada estimuló la liberación de dopamina en su cerebro, despertando el enfoque creativo a través del movimiento físico.",
-      "fr": "Natsume Soseki s'asseyait pour écrire mécaniquement chaque matin sans attendre l'inspiration. Cette routine a stimulé la libération de dopamine.",
-      "de": "Natsume Soseki setzte sich jeden Morgen mechanisch zum Schreiben hin, ohne auf Inspiration zu warten. Diese Aktion stimulierte die Dopaminausschüttung.",
-      "pt": "Natsume Soseki sentava-se para escrever mecanicamente todas as manhãs sem esperar inspiração. Esse hábito estimulou a liberação de dopamina no cérebro.",
-      "id": "Natsume Soseki duduk menulis secara mekanis setiap pagi tanpa menunggu inspirasi. Kebiasaan tindakan paksa ini merangsang pelepasan dopamin."
+      "ko": "\"글을 쓰는 것은 영감의 분출이 아니라, 매일 정해진 시간에 밭을 가는 농부의 정직한 노동과 같다.\" 🖋️\n\n일본 근대 문학의 거장 나쓰메 소세키. 그는 《나는 고양이로소이다》, 《도련님》, 《마음》 등 수많은 명작을 집필하며 일본의 국민 작가로 추앙받았습니다. 하지만 소세키의 일생은 순탄치 않았습니다. 그는 평생 심각한 신경쇠약과 위궤양, 그리고 우울증에 시달렸습니다. 정서적으로 극도로 피폐했던 그가 매번 마감의 압박 속에서도 방대한 양의 명작들을 꾸준히 완성해 낼 수 있었던 숨겨진 비결은 바로 철저한 '아침 강제 집필 루틴'이었습니다.\n\n소세키는 기분이나 영감에 의존하여 펜을 들지 않았습니다. 그는 아침에 일어나 식사를 마치면, 글이 써지든 써지지 않든 즉시 책상 앞에 앉아 정해진 원고지 매수를 메우기 전까지는 자리에서 일어나지 않는 규칙을 평생 동안 고수했습니다. 이러한 기계적이고 규칙적인 습관은 현대 뇌과학에서 증명한 '작동 흥분(Action Excitation)' 원리를 완벽하게 실천한 사례입니다.\n\n오늘 포스트에서는 나쓰메 소세키가 정신적 고통을 극복하고 위대한 문학적 업적을 쌓아 올린 강제 집필 루틴 속 인지과학적 메커니즘을 살펴보고, 현대인이 무기력과 슬럼프를 깨부수고 실행력을 즉각 극대화할 수 있는 3단계 행동 가이드를 제안합니다."
     },
     "whyTitle": {
-      "ko": "시작이 동기를 만드는 작동 흥분 효과",
-      "en": "Work Excitement Effect: Action Creates Motivation",
-      "ja": "行動が動機を生み出す「作業興奮」効果",
-      "zh": "行动激发机制：作业兴奋效应的奥秘",
-      "es": "Work Excitement Effect: Action Creates Motivation",
-      "fr": "Work Excitement Effect: Action Creates Motivation",
-      "de": "Work Excitement Effect: Action Creates Motivation",
-      "pt": "Work Excitement Effect: Action Creates Motivation",
-      "id": "Work Excitement Effect: Action Creates Motivation"
+      "ko": "시작이 동기를 만드는 작동 흥분 효과"
     },
     "whyDesc": {
-      "ko": "뇌는 가만히 앉아 있을 때 동기부여 호르몬을 내보내지 않습니다. 움직이기 시작해야 비로소 전두엽과 측좌핵이 자극을 받아 행동력을 부여합니다.",
-      "en": "The brain does not release motivation hormones when sitting still. Rhythmic actions trigger the nucleus accumbens to release dopamine and focus.",
-      "ja": "脳は静かに座っているだけでは動機付けホルモンを放出しません。実際に動き始めることで側坐核が刺激され、ドーパミンが分泌されて集中モードに入ります。",
-      "zh": "大脑在静坐不动时不会释放动力激素。只有当身体开始行动时，侧坐核受到刺激才会分泌多巴胺，进而带入专注状态。",
-      "es": "El cerebro no libera hormonas de motivación cuando está inactivo. Iniciar acciones físicas repetitivas estimula el núcleo accumbens, activando la producción de dopamina y conduciendo al cerebro a un estado de enfoque y concentración profunda de manera automática.",
-      "fr": "Le cerveau ne libère pas d'hormones de motivation lorsqu'il est inactif. Commencer des actions physiques stimule le noyau accumbens, activant la dopamine.",
-      "de": "Das Gehirn schüttet im Ruhezustand keine Motivationshormone aus. Der Beginn repetitiver physischer Handlungen stimuliert den Nucleus accumbens und aktiviert Dopamin.",
-      "pt": "O cérebro não libera hormônios de motivação quando está inativo. Iniciar ações físicas repetitivas estimula o núcleo accumbens, ativando a produção de dopamina.",
-      "id": "Otak tidak melepaskan hormon motivasi saat tidak aktif. Memulai tindakan fisik merangsang nukleus akumbens, mengaktifkan produksi dopamin."
+      "ko": "뇌는 가만히 앉아 있을 때 동기부여 호르몬을 내보내지 않습니다. 움직이기 시작해야 비로소 전두엽과 측좌핵이 자극을 받아 행동력을 부여합니다. 신경과학적 연구에 따르면 이 행동은 편도체의 불필요한 불안 반응을 억제하고 시공간 스케치북 회로를 활성화하여 장기 집행 기능을 획기적으로 향상시킵니다."
     },
     "cautionTitle": {
-      "ko": "행동을 바로 이끌기 위한 거장의 조언",
-      "en": "Master's Advice for Immediate Action",
-      "ja": "即座に行動を起こすための文豪の助言",
-      "zh": "文豪关于即刻行动的诚恳建议",
-      "es": "Master's Advice for Immediate Action",
-      "fr": "Master's Advice for Immediate Action",
-      "de": "Master's Advice for Immediate Action",
-      "pt": "Master's Advice for Immediate Action",
-      "id": "Master's Advice for Immediate Action"
+      "ko": "행동을 바로 이끌기 위한 거장의 조언"
     },
     "cautionDesc": {
-      "ko": "기분이나 환경의 조성을 기다리지 말고, 일단 원고지 앞에 앉아 한 글자라도 적기 시작하십시오. 행동만이 뇌를 깨웁니다.",
-      "en": "Do not wait for mood or perfect environments. Just sit down and write a single character. Action alone awakens your brain.",
-      "ja": "気分や完璧な環境が整うのを待つのではなく、まずは机に向かって一文字でも書き始めてください。行動だけが脳を目覚めさせます。",
-      "zh": "不要等待心情或完美环境。只要先坐在书桌前，哪怕只写一个字，行动本身就能唤醒大脑。",
-      "es": "No espere a que el entorno o su estado de ánimo sean perfectos. Simplemente siéntese e inicie la tarea escribiendo una sola palabra o realizando la primera acción física menor.",
-      "fr": "N'attendez pas que votre humeur soit parfaite. Asseyez-vous et commencez la tâche en écrivant un seul mot ou en faisant une première action physique.",
-      "de": "Warten Sie nicht auf die perfekte Stimmung. Setzen Sie sich einfach hin und beginnen Sie die Aufgabe, indem Sie ein einziges Wort schreiben.",
-      "pt": "Não espere que o ambiente ou seu humor estejam perfeitos. Apenas sente-se e inicie a tarefa escrevendo uma única palavra ou realizando uma primeira ação.",
-      "id": "Jangan menunggu suasana hati Anda sempurna. Cukup duduk dan mulai tugas dengan menulis satu kata atau melakukan tindakan fisik kecil pertama."
+      "ko": "기분이나 환경의 조성을 기다리지 말고, 일단 원고지 앞에 앉아 한 글자라도 적기 시작하십시오. 행동만이 뇌를 깨웁니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "무조건적인 기상 집필 환경 확보",
-          "en": "Securing Unconditional Morning Writing Space",
-          "ja": "無条件の朝の執筆環境の確保",
-          "zh": "确保清晨无条件写作环境",
-          "es": "Securing Unconditional Morning Writing Space",
-          "fr": "Securing Unconditional Morning Writing Space",
-          "de": "Securing Unconditional Morning Writing Space",
-          "pt": "Securing Unconditional Morning Writing Space",
-          "id": "Securing Unconditional Morning Writing Space"
+          "ko": "무조건적인 기상 집필 환경 확보"
         },
         "text": {
-          "ko": "아침에 잠에서 깨어 일정이 시작되면 즉시 스마트폰을 멀리하고 책상 앞에 앉습니다.",
-          "en": "Right after waking up and eating, move away from devices and sit directly at your desk.",
-          "ja": "朝起きて食事を済ませたら、スマートフォンなどの誘惑を遠ざけ、すぐに机に向かって座ります。",
-          "zh": "早晨起床并用餐后，远离电子设备，立即在书桌前坐下。",
-          "es": "Right after waking up and eating, move away from devices and sit directly at your desk.",
-          "fr": "Right after waking up and eating, move away from devices and sit directly at your desk.",
-          "de": "Right after waking up and eating, move away from devices and sit directly at your desk.",
-          "pt": "Right after waking up and eating, move away from devices and sit directly at your desk.",
-          "id": "Right after waking up and eating, move away from devices and sit directly at your desk."
+          "ko": "아침에 잠에서 깨어 일정이 시작되면 즉시 스마트폰을 멀리하고 책상 앞에 앉습니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
         }
       },
       {
         "name": {
-          "ko": "의식의 흐름대로 10분간 강제 집필",
-          "en": "Forced Writing for 10 Minutes with Stream of Consciousness",
-          "ja": "意識の流れに沿った10分間の強制執筆",
-          "zh": "跟随意识流进行10分钟强制写作",
-          "es": "Forced Writing for 10 Minutes with Stream of Consciousness",
-          "fr": "Forced Writing for 10 Minutes with Stream of Consciousness",
-          "de": "Forced Writing for 10 Minutes with Stream of Consciousness",
-          "pt": "Forced Writing for 10 Minutes with Stream of Consciousness",
-          "id": "Forced Writing for 10 Minutes with Stream of Consciousness"
+          "ko": "의식의 흐름대로 10분간 강제 집필"
         },
         "text": {
-          "ko": "글자 맞춤법이나 내용을 고민하지 말고 머릿속에 떠오르는 생각을 10분간 연속해서 적어내려갑니다.",
-          "en": "Do not worry about contents or spelling. Keep writing any thoughts continuously for 10 minutes.",
-          "ja": "文章の完成度や誤字脱字を気にせず、頭に浮かぶ考えを10分間途切れることなく書き進めます。",
-          "zh": "不用担心内容是否连贯或错别字，持续10分钟不停地写下脑海里浮现的所有想法。",
-          "es": "Do not worry about contents or spelling. Keep writing any thoughts continuously for 10 minutes.",
-          "fr": "Do not worry about contents or spelling. Keep writing any thoughts continuously for 10 minutes.",
-          "de": "Do not worry about contents or spelling. Keep writing any thoughts continuously for 10 minutes.",
-          "pt": "Do not worry about contents or spelling. Keep writing any thoughts continuously for 10 minutes.",
-          "id": "Do not worry about contents or spelling. Keep writing any thoughts continuously for 10 minutes."
+          "ko": "글자 맞춤법이나 내용을 고민하지 말고 머릿속에 떠오르는 생각을 10분간 연속해서 적어내려갑니다."
         }
       },
       {
         "name": {
-          "ko": "정량 훈련 후 루틴 종료",
-          "en": "Ending Routine After Reaching Target Amount",
-          "ja": "一定量のトレーニング達成後のルーティン終了",
-          "zh": "达到定量目标后结束惯例",
-          "es": "Ending Routine After Reaching Target Amount",
-          "fr": "Ending Routine After Reaching Target Amount",
-          "de": "Ending Routine After Reaching Target Amount",
-          "pt": "Ending Routine After Reaching Target Amount",
-          "id": "Ending Routine After Reaching Target Amount"
+          "ko": "정량 훈련 후 루틴 종료"
         },
         "text": {
-          "ko": "지정해 둔 30분 시간 혹은 최소 글자 수를 달성하면 자리를 정리하고 성취감을 안고 종료합니다.",
-          "en": "Once you reach the minimum target time or characters, conclude the routine with satisfaction.",
-          "ja": "設定した目標時間や最低限の文字数を満たしたら、満足感とともにルーティンを終了します。",
-          "zh": "一旦达到设定的最低目标时间或字数，即可满怀成就感地结束惯例。",
-          "es": "Once you reach the minimum target time or characters, conclude the routine with satisfaction.",
-          "fr": "Once you reach the minimum target time or characters, conclude the routine with satisfaction.",
-          "de": "Once you reach the minimum target time or characters, conclude the routine with satisfaction.",
-          "pt": "Once you reach the minimum target time or characters, conclude the routine with satisfaction.",
-          "id": "Once you reach the minimum target time or characters, conclude the routine with satisfaction."
+          "ko": "지정해 둔 30분 시간 혹은 최소 글자 수를 달성하면 자리를 정리하고 성취감을 안고 종료합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "아무 생각도 나지 않고 집중이 안 될 때는 어떻게 해야 하나요?",
-          "en": "What should I do if no thoughts come and I cannot focus?",
-          "ja": "何も思い浮かばず集中できないときはどうすればよいですか？",
-          "zh": "毫无头绪且无法集中注意力时该怎么办？",
-          "es": "What should I do if no thoughts come and I cannot focus?",
-          "fr": "What should I do if no thoughts come and I cannot focus?",
-          "de": "What should I do if no thoughts come and I cannot focus?",
-          "pt": "What should I do if no thoughts come and I cannot focus?",
-          "id": "What should I do if no thoughts come and I cannot focus?"
+          "ko": "아무 생각도 나지 않고 집중이 안 될 때는 어떻게 해야 하나요?"
         },
         "answer": {
-          "ko": "아무것도 쓰지 않거나 스마트폰을 보는 대신, 책상 앞에 앉아 펜을 쥐고 낙서라도 시작하십시오.",
-          "en": "Instead of doing nothing or looking at a phone, sit at your desk and start writing anything or scribbling.",
-          "ja": "何もしなかったり携帯を見たりする代わりに、まずは机の前に座ってペンを握り、落書きでもいいので書き始めてみましょう。",
-          "zh": "与其发呆或看手机，不如坐在书桌前拿起笔，哪怕只是随手涂鸦也可以开始写点什么。",
-          "es": "Instead of doing nothing or looking at a phone, sit at your desk and start writing anything or scribbling.",
-          "fr": "Instead of doing nothing or looking at a phone, sit at your desk and start writing anything or scribbling.",
-          "de": "Instead of doing nothing or looking at a phone, sit at your desk and start writing anything or scribbling.",
-          "pt": "Instead of doing nothing or looking at a phone, sit at your desk and start writing anything or scribbling.",
-          "id": "Instead of doing nothing or looking at a phone, sit at your desk and start writing anything or scribbling."
+          "ko": "아무것도 쓰지 않거나 스마트폰을 보는 대신, 책상 앞에 앉아 펜을 쥐고 낙서라도 시작하십시오."
         }
       }
-    ],
-    "pubDate": "2026-04-19",
-    "updatedDate": "2026-04-19"
+    ]
   }
 }

@@ -1,218 +1,72 @@
 {
   "fleming-petridish-observation": {
     "title": {
-      "ko": "쓰레기통 속에서 건져 올린 인류의 구원? 알렉산더 플레밍의 실패 관찰법",
-      "en": "Human Salvation Rescued from the Trash? Alexander Fleming's Failure Observation Method",
-      "ja": "ゴミ箱から救い出した人類の救済？アレクサンダー・フレミングの失敗観察法",
-      "zh": "从垃圾桶里救出来的的人类救星？亚历山大·弗莱明的失败观察法",
-      "es": "¿La salvación humana rescatada de la basura? El método de observación de fallos de Alexander Fleming",
-      "fr": "Le salut de l'humanité sauvé de la poubelle ? La méthode d'observation des erreurs d'Alexander Fleming",
-      "de": "Die Rettung der Menschheit aus dem Müll? Alexander Flemings Methode zur Beobachtung von Fehlern",
-      "pt": "A salvação humana resgatada do lixo? O método de observação de falhas de Alexander Fleming",
-      "id": "Keselamatan Umat Manusia yang Diselamatkan dari Tempat Sampah? Metode Pengamatan Kegagalan Alexander Fleming"
+      "ko": "쓰레기통 속에서 건져 올린 인류의 구원? 알렉산더 플레밍의 실패 관찰법"
     },
     "description": {
-      "ko": "페니실린의 위대한 발견자 알렉산더 플레밍. 실수로 오염된 배양 접시를 무심히 버리지 않고 꼼꼼히 들여다보던 습관이 어떻게 인류의 운명을 바꾸었는지 그 脳科学的 원리를 탐구합니다.",
-      "en": "Discover how Alexander Fleming's routine of examining contaminated petri dishes led to the discovery of penicillin, and the neuroscientific principles of divergent thinking from failure.",
-      "ja": "ペニシリンの偉大な発見者アレクサンダー・フレミング。誤って汚染された培養皿を何気なく捨てずに細かく観察した習慣が、どのように人類の運命を変えたのか、その脳科学的原理を探究します。",
-      "zh": "青霉素的伟大发现者亚历山大·弗莱明。探讨他没有随手扔掉因失误被污染的培养皿、而是仔细端详的习惯，是如何改变了人类命运的脑科学原理。",
-      "es": "Descubra cómo la rutina de Alexander Fleming de examinar placas contaminadas llevó a la penicilina y los principios neurológicos del pensamiento divergente.",
-      "fr": "Découvrez comment la routine d'Alexander Fleming consistant à examiner des boîtes de Pétri contaminées a conduit à la pénicilline et à la pensée divergente.",
-      "de": "Erfahren Sie, wie Alexander Flemings Routine, kontaminierte Petrischalen zu untersuchen, zur Entdeckung des Penicillins führte, und wie das Gehirn aus Fehlern lernt.",
-      "pt": "Descubra como a rotina de Alexander Fleming de examinar placas contaminadas levou à descoberta da penicilina e os princípios neurológicos do pensamento divergente.",
-      "id": "Temukan bagaimana rutinitas Alexander Fleming memeriksa cawan petri yang terkontaminasi melahirkan penemuan penisilin, serta prinsip neurosains berpikir divergen."
+      "ko": "페니실린의 위대한 발견자 알렉산더 플레밍. 실수로 오염된 배양 접시를 무심히 버리지 않고 꼼꼼히 들여다보던 습관이 어떻게 인류의 운명을 바꾸었는지 그 뇌과학적 원리를 탐구합니다."
     },
     "authority": {
-      "ko": "플레밍의 1945년 노벨상 강연록 및 Frontiers in Psychology 학술지",
-      "en": "Fleming's 1945 Nobel Lecture & Frontiers in Psychology",
-      "ja": "フレミングの1945年のノーベル賞講演録および学術誌「Frontiers in Psychology」",
-      "zh": "弗莱明1945年诺贝尔奖演讲录与学术期刊《Frontiers in Psychology》",
-      "es": "Conferencia Nobel de Fleming de 1945 y la revista Frontiers in Psychology",
-      "fr": "Conférence Nobel de Fleming de 1945 & revue Frontiers in Psychology",
-      "de": "Flemings Nobelpreis-Vortrag von 1945 & Fachzeitschrift Frontiers in Psychology",
-      "pt": "Conferência Nobel de Fleming de 1945 & revista Frontiers in Psychology",
-      "id": "Kuliah Nobel Fleming tahun 1945 & Jurnal Frontiers in Psychology"
+      "ko": "알렉산더 플레밍 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "수억 명의 목숨을 앗아갔던 무서운 감염병들로부터 인류를 구해내고 의학 역사를 영원히 바꾼 최초의 항생제, 페니실린. 20세기 최고의 발견 중 하나로 꼽히는 이 위대한 업적은 고도의 첨단 장비가 가득한 연구실에서 탄생했을까요? 🧫\n\n사실 페니실린은 알렉산더 플레밍의 지극히 평범하고 어수선한 실험실에서 발생한 '실수'의 산물이었습니다. 휴가를 가기 전 그가 책상 위에 그대로 방치해 둔 포도상구균 배양 접시가 원인이었습니다. 휴가에서 복귀한 뒤 씻어내기 위해 접시를 모으던 중, 보통의 연구원들이라면 오염된 오물로 여겨 생각 없이 씻어버렸을 하나의 접시를 플레밍은 가만히 멈춰 서서 들여다보았습니다. 푸른곰팡이가 피어난 주변의 세균들이 마치 마법처럼 투명하게 녹아 없어져 있었던 것입니다. 평소 어수선한 상태에서도 모든 배양 접시를 그냥 넘기지 않고 매일 꼼꼼하게 관찰하고 기록해 두던 그의 '예외 관찰 습관'이 역사상 가장 위대한 의학적 세렌디피티를 이끌어 냈습니다.\n\n오늘 BuildSelf에서는 알렉산더 플레밍의 예외 발견 루틴이 어떻게 뇌의 인지 필터를 조절하여 창의성을 깨웠는지 분석하고, 일상에서 실패로부터 돌파구를 찾는 오류 성찰 법을 제안합니다.",
-      "en": "Penicillin, the first antibiotic that saved hundreds of millions of lives. Was this achievement born in a high-tech laboratory? 🧫\n\nActually, penicillin was a product of a 'mistake' in Alexander Fleming's cluttered lab. Before leaving for vacation, he left staphylococcus culture dishes on his desk. Upon return, while collecting dishes to clean, Fleming stopped to look at one dish that others would have discarded. The bacteria around the blue mold had dissolved. His habit of meticulously examining every dish and recording anomalies led to medicine's greatest serendipity.\n\nToday, BuildSelf analyzes how Fleming's routine adjusted the brain's cognitive filter to trigger creativity and proposes a method to find breakthroughs from failures.",
-      "ja": "数億人の命を奪った恐ろしい感染症から人類を救い、医学の歴史を永遠に変えた最初の抗生物質、ペニシリン。20世紀最高の発見の一つに数えられるこの偉大な業績は、高度な最先端機器に満ちた研究室で誕生したのでしょうか？ 🧫\n\n実はペニシリンは、アレクサンダー・フレミングの極めて平凡で乱雑な研究室で発生した「失敗」の産物でした。休暇に行く前、彼が机の上にそのまま放置しておいた黄色ブドウ球菌の培養皿が原因でした。休暇から戻った後、洗浄するために皿を集めていたところ、普通の研究員なら汚染されたゴミと考えて深く考えずに洗い流したであろう一枚の皿を、フレミングは立ち止まってじっと見つめました。青カビが発生した周囲の細菌が、まるで魔法のように透明に溶けてなくなっていたのです。普段からすべての培養皿をただ見過ごさず、毎日細かく観察して記録していた彼の「例外観察習慣」が、歴史上最も偉大な医学的セレンディピティを導きました。\n\n本日、BuildSelfではアレクサンダー・フレミングの例外発見ルーティンがどのように脳の認知フィルターを調節して創造性を呼び覚ましたのか分析し、日常生活で失敗から突破口を見出すエラー省察法を提案します。",
-      "zh": "把人类从夺去数亿人生命的恐怖传染病中解救出来、永远改变了医学史的第一种抗生素——青霉素。这项被誉为20世纪最伟大发现之一的伟业，是在充满高端先进仪器的实验室里诞生的吗？ 🧫\n\n事实上，青霉素是亚历山大·弗莱明在极其平凡且凌乱的实验室里发生的一次“失误”的产物。起因是他在休假前直接遗留在桌子上的金黄色葡萄球菌培养皿。休假回来后，在收集培养皿准备清洗时，对于一个换作普通研究员会当成被污染的脏污而随手洗掉的培养皿，弗莱明静静地驻足端详起来。长出青霉的周围，细菌像施了魔法般变得透明并消融了。平时在杂乱的环境下也决不放过任何一个培养皿、每天都仔细观察并做记录的“例外观察常规”，引出了历史上最伟大的医学奇迹（Serendipity）。\n\n今天，BuildSelf 向您分析亚历山大·弗莱明的例外发现常规是如何通过调节大脑的认知过滤器来唤醒创造力的，并提出在日常生活中从失败里寻找突破口的错误反思法。",
-      "es": "En la práctica de esta rutina transformadora:              , . 20              ? 🧫\n\nEn la práctica de esta rutina transformadora:          '' .             .        ,               .           .                '  '       .\n\nEn la práctica de esta rutina transformadora:  BuildSelf             ,        .\n\nAl practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.\n\nAl practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora:              , . 20              ? 🧫\n\nNa prática desta rotina transformadora:          '' .             .        ,               .           .                '  '       .\n\nNa prática desta rotina transformadora:  BuildSelf             ,        .\n\nAo praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.\n\nAo praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "수억 명의 목숨을 앗아갔던 무서운 감염병들로부터 인류를 구해내고 의학 역사를 영원히 바꾼 최초의 항생제, 페니실린. 20세기 최고의 발견 중 하나로 꼽히는 이 위대한 업적은 고도의 첨단 장비가 가득한 연구실에서 탄생했을까요? 🧫\n\n사실 페니실린은 알렉산더 플레밍의 지극히 평범하고 어수선한 실험실에서 발생한 '실수'의 산물이었습니다. 휴가를 가기 전 그가 책상 위에 그대로 방치해 둔 포도상구균 배양 접시가 원인이었습니다. 휴가에서 복귀한 뒤 씻어내기 위해 접시를 모으던 중, 보통의 연구원들이라면 오염된 오물로 여겨 생각 없이 씻어버렸을 하나의 접시를 플레밍은 가만히 멈춰 서서 들여다보았습니다. 푸른곰팡이가 피어난 주변의 세균들이 마치 마법처럼 투명하게 녹아 없어져 있었던 것입니다. 평소 어수선한 상태에서도 모든 배양 접시를 그냥 넘기지 않고 매일 꼼꼼하게 관찰하고 기록해 두던 그의 '예외 관찰 습관'이 역사상 가장 위대한 의학적 세렌디피티를 이끌어 냈습니다.\n\n오늘 포스트에서는 알렉산더 플레밍의 예외 발견 루틴이 어떻게 뇌의 인지 필터를 조절하여 창의성을 깨웠는지 분석하고, 일상에서 실패로부터 돌파구를 찾는 오류 성찰 법을 제안합니다."
     },
     "whyTitle": {
-      "ko": "인지적 고착을 깨부수는 '확산적 사고'의 원리",
-      "en": "The Principles of 'Divergent Thinking' to Break Cognitive Fixation",
-      "ja": "認知的な固着を打破する「拡散的思考」の原理",
-      "zh": "打破认知固化的“扩散性思维”原理",
-      "es": "Los principios del 'Pensamiento divergente' para romper la fijación cognitiva",
-      "fr": "Les principes de la 'Pensée divergente' pour romper la fixation cognitive",
-      "de": "Die Prinzipien des 'divergenten Denkens' zur Überwindung mentaler Blockaden",
-      "pt": "Os princípios do 'Pensamento divergente' para quebrar a fixação cognitiva",
-      "id": "Prinsip 'Berpikir Divergen' untuk Memecahkan Fiksasi Kognitif"
+      "ko": "인지적 고착을 깨부수는 '확산적 사고'의 원리"
     },
     "whyDesc": {
-      "ko": "뇌는 이미 학습된 경험과 목적에 따라 효율적으로 작동하려 하기 때문에, 오염물질이나 오류 같은 예외적 상황을 마주하면 이를 '노이즈(Noise)'로 판단해 필터링하는 <strong>인지적 고착(Cognitive Fixation)</strong> 경향을 가집니다. 일반 연구원들이 세균 번식 실패작을 그냥 씻어버렸던 이유도 이 때문입니다.\n\n알렉산더 플레밍처럼 의도적으로 '실패'의 대상을 꼼꼼히 들여다보는 습관은 뇌의 전두-두정엽 주의 네트워크(Frontoparietal Attention Network)를 다르게 자극하여 인지 필터를 리셋합니다. 뇌는 무시하려던 정보의 디테일을 다시 탐색하는 과정에서 예기치 못한 우연적 발견인 '세렌디피티(Serendipity)'를 유도하는 <strong>확산적 사고(Divergent Thinking)</strong> 모드로 진입하게 됩니다. 이는 오류 속에서 창의적 연결고리를 포착하여 뇌를 비약적으로 도약시키는 脳科学的 원리입니다.",
-      "en": "The brain seeks efficiency based on experiences, creating a tendency of <strong>cognitive fixation</strong> where anomalies or mistakes are filtered out as noise. Examining a 'failure' meticulously, as Fleming did, resets the brain's cognitive filters by stimulating the frontoparietal attention network. This triggers <strong>divergent thinking</strong>, moving the brain from analytical processing to creative exploration, capturing value from errors.",
-      "ja": "脳はすでに学習された経験と目的に従い効率的に作動しようとするため、汚染物質やエラーのような例外的な状況に直面すると、これを「ノイズ」と判断してフィルターにかける<strong>認知的固着（Cognitive Fixation）</strong>の傾向を持ちます。フレミングのように意図的に「失敗」の対象を細かく観察する習慣は、脳の額頂葉注意ネットワークを異なる方法で刺激し、認知フィルターをリセットします。これは<strong>拡散的思考（Divergent Thinking）</strong>を誘導します。",
-      "zh": "大脑倾向于根据已学习的经验和目的高效运转, 因此在遇到被污染物质或错误等例外情况时, 会将其判定为“噪音（Noise）”并予以过滤, 这即是<strong>认知固化（Cognitive Fixation）</strong>倾向。像亚历山大·弗莱明那样, 有意仔细端详“失败”对象的习惯, 能以不同方式刺激大脑的前额-顶叶注意力网络（Frontoparietal Attention Network）并重置认知过滤器。大脑在重新探索本想忽略的信息细节的过程中, 会进入引导出意外发现（Serendipity）的<strong>扩散性思维（Divergent Thinking）</strong>模式。",
-      "es": "El cerebro busca la eficiencia basada en experiencias, creando una tendencia de <strong>fijación cognitiva</strong> donde los errores se filtran como ruido. Examinar un 'fallo' meticulosamente estimula el lóbulo frontal, activando el <strong>pensamiento divergente</strong> y permitiendo encontrar valor en los errores.",
-      "fr": "Le cerveau cherche l'efficacité, créant une <strong>fixation cognitive</strong> qui élimine les erreurs comme du bruit. Examiner une 'erreur' méticuleusement stimule le lobe frontal, activant la <strong>pensée divergente</strong>.",
-      "de": "Das Gehirn filtert Fehler oft als Störfaktoren aus (kognitive Fixierung). Die Gewohnheit, Misserfolge genau zu analysieren, überwindet diesen Filter. Dies regt das <strong>divergente Denken</strong> an, wodurch neue Verknüpfungen gebildet werden.",
-      "pt": "O cérebro busca eficiência com base em experiências, criando uma tendência de <strong>fixação cognitiva</strong> onde erros são filtrados como ruído. Examinar uma 'falha' meticulosamente estimula o lobo frontal, ativando o <strong>pensamento divergente</strong>.",
-      "id": "Otak mencari efisiensi berdasarkan pengalaman, menciptakan kecenderungan <strong>fiksasi kognitif</strong> di mana anomali disaring sebagai noise. Mengamati 'kegagalan' secara cermat menyetel ulang filter kognitif otak dengan merangsang jaringan perhatian frontoparietal. Hal ini memicu <strong>berpikir divergen</strong>."
+      "ko": "뇌는 이미 학습된 경험과 목적에 따라 효율적으로 작동하려 하기 때문에, 오염물질이나 오류 같은 예외적 상황을 마주하면 이를 '노이즈(Noise)'로 판단해 필터링하는 <strong>인지적 고착(Cognitive Fixation)</strong> 경향을 가집니다. 일반 연구원들이 세균 번식 실패작을 그냥 씻어버렸던 이유도 이 때문입니다.\n\n알렉산더 플레밍처럼 의도적으로 '실패'의 대상을 꼼꼼히 들여다보는 습관은 뇌의 전두-두정엽 주의 네트워크(Frontoparietal Attention Network)를 다르게 자극하여 인지 필터를 리셋합니다. 뇌는 무시하려던 정보의 디테일을 다시 탐색하는 과정에서 예기치 못한 우연적 발견인 '세렌디피티(Serendipity)'를 유도하는 <strong>확산적 사고(Divergent Thinking)</strong> 모드로 진입하게 됩니다. 이는 오류 속에서 창의적 연결고리를 포착하여 뇌를 비약적으로 도약시키는 뇌과학적 원리입니다."
     },
     "cautionTitle": {
-      "ko": "실패 속에 숨겨진 의도치 않은 힌트를 포착하세요",
-      "en": "Capture Unintentional Clues Hidden in Failure",
-      "ja": "失敗の中に隠された意図しないヒントを捉えましょう",
-      "zh": "捕捉失败中隐藏的的无意提示",
-      "es": "Capture las pistas ocultas dentro de los fallos",
-      "fr": "Saisir les indices cachés au cœur de l'échec",
-      "de": "Erfassen Sie unbeabsichtigte Hinweise, die im Fehler verborgen sind",
-      "pt": "Capture as pistas ocultas dentro das falhas",
-      "id": "Tangkap Petunjuk Tersembunyi di Balik Kegagalan"
+      "ko": "실패 속에 숨겨진 의도치 않은 힌트를 포착하세요"
     },
     "cautionDesc": {
-      "ko": "현대인들은 업무나 공부 중 실패나 실수를 겪으면 인지적 스트레스를 받고 이를 빠르게 지우거나 잊어버리려고 합니다. 그러나 플레밍의 배양 접시가 증명하듯, 창의적인 영감과 혁신은 정제된 성공이 아니라 오히려 의도하지 않았던 오염과 실패의 흔적 속에 숨겨져 있습니다. 실패를 관찰하는 여유가 뇌의 진정한 천재성을 깨웁니다.",
-      "en": "When modern people experience failures, they quickly try to erase them due to cognitive stress. However, as Fleming's petri dish proved, creative inspiration is often hidden in the ruins of unintended contamination. The habit of analyzing failure awakens the brain's genius.",
-      "ja": "現代人は仕事や勉強の中で失敗やミスを経験すると、認知的ストレスを受けてこれを素早く消去したり忘れようとします。しかし、フレミングの培養皿が証明しているように、創造的なインスピレーションと革新は精製された成功ではなく、むしろ意図しなかった汚染や失敗の痕跡の中に隠されています。失敗を観察する心の余裕が、脳の真の天才性を呼び覚ます。",
-      "zh": "现代人在工作或学习中遇到失败或失误时, 会承受认知压力, 并试图迅速将其抹去或遗忘。然而，正如弗莱明的培养皿所证明的那样, 创造性的灵感和创新并非源于精雕细琢的成功, 反而隐藏在无意的污染和失败的痕迹之中。观察失败的宽裕心态才能唤醒大脑真正的天才潜力。",
-      "es": "Ante un error, solemos intentar borrarlo debido al estrés. Sin embargo, la inspiración suele ocultarse en las ruinas de fallos no intencionados. Analizar los fallos despierta el ingenio.",
-      "fr": "Face à une erreur, nous tentons de l'effacer à cause du stress. Pourtant, l'inspiration se cache souvent dans les ruines d'échecs non intentionnels. Analyser les échecs éveille l'ingéniosité.",
-      "de": "Bei Fehlern versuchen wir oft, diese schnell zu vergessen. Aber wie Flemings Petrischale beweist, liegt kreative Inspiration häufig in Misserfolgen. Die Analyse von Fehlern weckt die Genialität des Gehirns.",
-      "pt": "Diante de um erro, costumamos tentar apagá-lo devido ao estresse. No entanto, a inspiração costuma se ocultar nas ruínas de falhas não intencionadas. Analisar as falhas desperta o gênio mental.",
-      "id": "Saat gagal, manusia modern cenderung cepat-cepat menghapusnya karena stres kognitif. Namun, seperti yang dibuktikan cawan petri Fleming, inspirasi kreatif justru sering tersembunyi di balik kegagalan yang tak disengaja. Kebiasaan menganalisis kegagalan melatih kejeniusan otak."
+      "ko": "현대인들은 업무나 공부 중 실패나 실수를 겪으면 인지적 스트레스를 받고 이를 빠르게 지우거나 잊어버리려고 합니다. 그러나 플레밍의 배양 접시가 증명하듯, 창의적인 영감과 혁신은 정제된 성공이 아니라 오히려 의도하지 않았던 오염과 실패의 흔적 속에 숨겨져 있습니다. 실패를 관찰하는 여유가 뇌의 진정한 천재성을 깨웁니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "오류 요소를 보관할 인지 버퍼 생성",
-          "en": "Create a Cognitive Buffer for Errors",
-          "ja": "エラー要素を保管する認知バッファの作成",
-          "zh": "创建储存错误元素的认知缓冲",
-          "es": "Cree un búfer cognitivo para los errores",
-          "fr": "Créer un espace cognitif pour les erreurs",
-          "de": "Schaffen Sie einen Puffer für Fehler",
-          "pt": "Crie um buffer cognitivo para os erros",
-          "id": "Buat Buffer Kognitif untuk Kesalahan"
+          "ko": "오류 요소를 보관할 인지 버퍼 생성"
         },
         "text": {
-          "ko": "기획안 반려, 오류가 발생한 코드, 실패한 작업물 등 스스로 실망감을 느끼는 요소를 만났을 때, 즉시 휴지통에 버리지 말고 '성찰 보관함' 폴더나 특정 임시 노트 구역에 보관해 둡니다.",
-          "en": "When you encounter disappointing results like a rejected proposal, broken code, or failed project, do not delete them immediately. Place them in a 'reflection folder' or a dedicated temporary note area.",
-          "ja": "企画案の却下、エラーが発生したコード、失敗した作業物など、自分で失望感を感じる要素に出会った際、すぐにゴミ箱に捨てるのではなく「省察保管庫」フォルダや特定の臨時ノート領域に保管しておきます。",
-          "zh": "在遇到企划案被驳回、产生Bug的代码、失败的作品等让自己感到失望的元素时, 不要立即将其丢进垃圾桶, 而是保存在“反思存档”文件夹或特定的临时笔记本区域中。",
-          "es": "Cuando encuentre resultados decepcionantes como una propuesta rechazada o código roto, no los borre inmediatamente. Colóquelos en una 'carpeta de reflexión'.",
-          "fr": "Lorsque vous rencontrez des résultats décevants comme une proposition rejetée ou un code erroné, ne les supprimez pas. Placez-les dans un 'dossier de réflexion'.",
-          "de": "Wenn Sie auf enttäuschende Ergebnisse stoßen (abgelehnter Entwurf, fehlerhafter Code), löschen Sie diese nicht sofort. Speichern Sie sie in einem 'Reflexionsordner'.",
-          "pt": "Quando encontrar resultados decepcionantes como uma proposta rejeitada ou código com erro, não os apague. Coloque-os em uma 'pasta de reflexão'.",
-          "id": "Saat menemui hasil mengecewakan seperti draf ditolak atau kode error, jangan langsung menghapusnya. Simpan di 'folder refleksi' atau area catatan sementara."
+          "ko": "기획안 반려, 오류가 발생한 코드, 실패한 작업물 등 스스로 실망감을 느끼는 요소를 만났을 때, 즉시 휴지통에 버리지 말고 '성찰 보관함' 폴더나 특정 임시 노트 구역에 보관해 둡니다."
         }
       },
       {
         "name": {
-          "ko": "5분 스마트폰 차단 후 오류 미세 분석",
-          "en": "5-Minute Screen-Free Error Analysis",
-          "ja": "5分間のスマホ遮断とエラーの微細分析",
-          "zh": "断开手机5分钟对错误进行微细分析",
-          "es": "5 minutos de análisis del error sin distracciones",
-          "fr": "5 minutes d'analyse de l'erreur sans écrans",
-          "de": "5 Minuten bildschirmfreie Fehleranalyse",
-          "pt": "5 minutos de análise do erro sem telas",
-          "id": "5 Menit Analisis Kesalahan Tanpa Layar"
+          "ko": "5분 스마트폰 차단 후 오류 미세 분석"
         },
         "text": {
-          "ko": "스마트폰을 완전히 끄고 차단한 상태에서, 보관해 둔 실패작을 5~10분간 유심히 관찰합니다. 당초 기획과 달라진 구체적인 실패 지점, 의도하지 않았던 현상이나 조건이 무엇이었는지 한글로 꼼꼼히 기록합니다.",
-          "en": "Turn off your smartphone. Meticulously analyze the failed work for 5 to 10 minutes. Write down the exact points where it deviated from the original plan and what unintended variables were present.",
-          "ja": "スマートフォンを完全にオフにして遮断した状態で、保管しておいた失敗作を5〜10分間注意深く観察します。当初の企画から外れた具体的な失敗地点、意図しなかった現象や条件が何であったのかを丁寧に記録します。",
-          "zh": "在智能手机完全关闭和隔绝的状态下, 仔细观察保存下来的失败之作 5 到 10 分钟。认真记录下偏离当初规划的具体失败节点、以及非预期的现象或条件是什么。",
-          "es": "Apague el teléfono. Analice el trabajo fallido durante 5 a 10 minutos. Escriba los puntos exactos donde se desvió y las variables no planificadas.",
-          "fr": "Éteignez votre téléphone. Analysez le travail manqué pendant 5 à 10 minutes. Écrivez les points exactos où il a dévié et les variables non planifiées.",
-          "de": "Schalten Sie Ihr Smartphone aus. Analysieren Sie das fehlerhafte Werk für 5 bis 10 Minuten. Notieren Sie genau, wo Abweichungen vom Plan auftraten.",
-          "pt": "Desligue o celular. Analise o trabalho com erro por 5 a 10 minutos. Escreva os pontos exatos onde houve desvio e as variáveis não planejadas.",
-          "id": "Matikan ponsel Anda. Analisis karya yang gagal tersebut selama 5 hingga 10 menit secara cermat. Tuliskan bagian mana yang menyimpang dari rencana awal."
+          "ko": "스마트폰을 완전히 끄고 차단한 상태에서, 보관해 둔 실패작을 5~10분간 유심히 관찰합니다. 당초 기획과 달라진 구체적인 실패 지점, 의도하지 않았던 현상이나 조건이 무엇이었는지 한글로 꼼꼼히 기록합니다."
         }
       },
       {
         "name": {
-          "ko": "우연한 힌트 추출 및 재조합",
-          "en": "Extract Unintentional Clues and Recombine",
-          "ja": "偶然のヒントの抽出と再構成",
-          "zh": "偶然提示提取与重组",
-          "es": "Extraiga pistas no planificadas y recombine",
-          "fr": "Extraire des indices non planifiés et recombiner",
-          "de": "Unbeabsichtigte Hinweise extrahieren und neu kombinieren",
-          "pt": "Extraia pistas não planejadas e recombine",
-          "id": "Ekstrak Petunjuk Tak Sengaja dan Kombinasikan"
+          "ko": "우연한 힌트 추출 및 재조합"
         },
         "text": {
-          "ko": "적어둔 메모를 보며 '이 오류 현상이 유용하게 활용될 수 있는 다른 영역은 없을까?' 혹은 '이 과정에서 배운 새로운 제약은 무엇인가?'를 고민해 보고, 1~2개의 창의적 대안이나 교훈으로 재구조화합니다.",
-          "en": "Look at your notes and ask: 'Is there any other area where this error could be useful?' or 'What new constraint did I learn?' Reframe the failure into creative alternatives or lessons.",
-          "ja": "書き留めたメモを見ながら「このエラー現象が有用に活用できる他の領域はないか？」あるいは「この過程で学んだ新しい制約は何か？」を熟考し、1〜2個の創造的な代替案や教訓として再構成します。",
-          "zh": "看着记录下的笔记, 思考“这个错误现象是否有能发挥作用的其他领域？”或是“在这个过程中学到的新限制条件是什么？”, 并将其重组为 1 到 2 个创意的替代方案或教训。",
-          "es": "Mire sus notas y pregunte: '¿Hay alguna otra área donde este error pueda ser útil?' o '¿Qué aprendí de esto?'. Convierta el fallo en una lección o alternativa.",
-          "fr": "Regardez vos notes et demandez-vous : 'Cet échec peut-il être utile ailleurs ?' ou 'Qu'ai-je appris ?'. Transformez l'erreur en leçon.",
-          "de": "Fragen Sie sich beim Betrachten der Notizen: 'Gibt es Bereiche, in denen dieser Fehler nützlich sein könnte?' oder 'Was habe ich gelernt?'. Formulieren Sie Lehren daraus.",
-          "pt": "Olhe para suas notas e pregunte: 'Há alguma outra área onde este erro possa ser útil?' ou 'O que aprendi com isso?'. Transforme a falha em lição ou alternativa.",
-          "id": "Tinjau catatan Anda dan tanyakan: 'Apakah ada area lain di mana kesalahan ini bisa bermanfaat?' atau 'Kendala baru apa yang saya pelajari?' Susun ulang kegagalan menjadi alternatif kreatif."
+          "ko": "적어둔 메모를 보며 '이 오류 현상이 유용하게 활용될 수 있는 다른 영역은 없을까?' 혹은 '이 과정에서 배운 새로운 제약은 무엇인가?'를 고민해 보고, 1~2개의 창의적 대안이나 교훈으로 재구조화합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "실패를 분석하는 것이 오히려 정신적 좌절감을 크게 만들지 않을까요?",
-          "en": "Doesn't analyzing failures increase mental frustration?",
-          "ja": "失敗を分析することが、むしろ精神的な挫折感を大きくさせませんか？",
-          "zh": "分析失败难道不会让精神挫败感更强烈吗？",
-          "es": "¿Analizar los fallos no aumenta la frustración mental?",
-          "fr": "L'analyse des échecs n'augmente-t-elle pas la frustration ?",
-          "de": "Erhöht die Analyse von Fehlern nicht den Frust?",
-          "pt": "Analisar as falhas não aumenta a frustração mental?",
-          "id": "Bukankah menganalisis kegagalan justru meningkatkan frustrasi mental?"
+          "ko": "실패를 분석하는 것이 오히려 정신적 좌절감을 크게 만들지 않을까요?"
         },
         "answer": {
-          "ko": "오류를 덮어두려고만 할 때 뇌의 불쾌감과 불안은 더 오래 지속됩니다. 오히려 감정을 배제하고 사실 데이터 위주로 왜 실패했는지 꼼꼼하게 종이에 적으며 분석하면, 뇌는 상황에 대한 '통제력'을 확보했다고 판단하여 불안 수준을 낮추고 성취 동기를 자극합니다.",
-          "en": "When we try to hide mistakes, anxiety lasts longer. However, writing down facts and analyzing why a failure occurred helps the brain regain a sense of control, which reduces stress and stimulates motivation.",
-          "ja": "エラーを隠そうとするだけでは、脳の不快感と不安はより長引きます。むしろ感情を排除し、事実データ中心になぜ失敗したのか細かく紙に書いて分析すると、脳は状況に対する「コントロール力」を確保したと判断し、不安レベルを下げてモチベーションを刺激します。",
-          "zh": "当只想着掩盖错误时, 大脑的不快和不安反而持续得更久。相反, 若排除情感、主要基于事实数据在纸上仔细分析为什么失败, 大脑便会判定自己确保了对局面的“控制力”, 从而降低不安程度并刺激成就动机。",
-          "es": "Ocultar los errores prolonga la ansiedad. Escribir los hechos y analizar el porqué de un fallo ayuda al cerebro a recuperar el sentido de control, lo que reduce el estrés.",
-          "fr": "Cacher les erreurs prolonge l'anxiété. Écrire les faits et analyser l'échec aide le cerveau à retrouver un sentiment de contrôle, réduisant le stress.",
-          "de": "Das Verdrängen von Fehlern verlängert die Angst. Das Aufschreiben und Analysieren gibt dem Gehirn das Gefühl der Kontrolle zurück, was Stress abbaut.",
-          "pt": "Esconder os erros prolonga a ansiedade. Escrever os fatos e analisar o porquê de uma falha ajuda o cérebro a recuperar o senso de controle, reduzindo o estresse.",
-          "id": "Saat mencoba menyembunyikan kesalahan, kecemasan berlangsung lebih lama. Menuliskan fakta dan menganalisis mengapa kegagalan terjadi membantu otak mendapatkan kembali kendali, menurunkan stres."
+          "ko": "오류를 덮어두려고만 할 때 뇌의 불쾌감과 불안은 더 오래 지속됩니다. 오히려 감정을 배제하고 사실 데이터 위주로 왜 실패했는지 꼼꼼하게 종이에 적으며 분석하면, 뇌는 상황에 대한 '통제력'을 확보했다고 판단하여 불안 수준을 낮추고 성취 동기를 자극합니다."
         }
       },
       {
         "question": {
-          "ko": "우연한 발견(세렌디피티)을 더 잘 포착할 수 있는 뇌 훈련법이 있나요?",
-          "en": "Is there a brain training method to better capture serendipity?",
-          "ja": "偶然の発見（セレンディピティ）をより良く捉える脳の訓練法はありますか？",
-          "zh": "有什么能更好地捕捉偶然发现（Serendipity）的大脑训练法吗？",
-          "es": "¿Existe algún entrenamiento para captar mejor la serendipia?",
-          "fr": "Existe-t-il un entraînement pour mieux capter la sérendipité ?",
-          "de": "Gibt es ein Training, um unerwartete Zufälle (Serendipität) besser zu erkennen?",
-          "pt": "Existe algum treinamento para captar melhor a serendipidade?",
-          "id": "Apakah ada latihan otak untuk menangkap penemuan tak terduga (serendipitas) dengan lebih baik?"
+          "ko": "우연한 발견(세렌디피티)을 더 잘 포착할 수 있는 뇌 훈련법이 있나요?"
         },
         "answer": {
-          "ko": "매일 자신이 실천하던 일상의 동선이나 절차를 아주 사소하게 바꾸어 보는 것이 큰 도움이 됩니다. 늘 가던 길이 아닌 곳으로 걷거나, 다른 장소에서 일해보는 등 일상에 의도적으로 미세 노이즈를 개입시키면, 뇌의 전두-두정엽 주의 네트워크가 활성화되어 낯선 연결을 포착하는 세렌디피티 능력이 자연스레 발달합니다.",
-          "en": "Making minor changes to your daily routes or habits is very helpful. Walking a different path or working in a new spot introduces micro-noise, which stimulates the frontoparietal attention network and trains the brain to notice novel connections.",
-          "ja": "毎日実践していた日常の動線や手順を、ごく些細に変えてみることが大きな助けになります。いつもと違う道を選んで歩いたり、別の場所で仕事をしてみるなど、日常に意図的に微細なノイズを介入させると、脳の注意力ネットワークが活性化され、新しい繋がりを捉えるセレンディピティ能力が自然と発達します。",
-          "zh": "将每天实行的日常路线或步骤进行极其微小的改变会很有帮助。比如走一条不常走的路, 换个地方工作等, 有意在日常中引入微小干扰, 从而激活大脑注意力网络, 自然而然地开发出捕捉陌生连接的偶然发现能力。",
-          "es": "Hacer pequeños cambios en sus rutas diarias es muy útil. Caminar por una ruta diferente introduce micro-ruido, lo que estimula el cerebro para notar conexiones nuevas.",
-          "fr": "Faire de légers changements dans ses habitudes est utile. Prendre un chemin différent stimule le cerveau pour remarquer de nouvelles connexions.",
-          "de": "Kleine Änderungen im Alltag helfen sehr. Ein anderer Arbeitsweg oder ein neuer Arbeitsort regen das Gehirn an, unerwartete Details wahrzunehmen.",
-          "pt": "Fazer pequenas mudanças na sua rotina diária é útil. Caminhar por um caminho diferente estimula o cérebro para notar conexões novas.",
-          "id": "Melakukan perubahan kecil pada rute atau kebiasaan harian sangat membantu. Berjalan di jalur berbeda atau bekerja di tempat baru memperkenalkan noise mikro, merangsang otak menangkap hubungan baru."
+          "ko": "매일 자신이 실천하던 일상의 동선이나 절차를 아주 사소하게 바꾸어 보는 것이 큰 도움이 됩니다. 늘 가던 길이 아닌 곳으로 걷거나, 다른 장소에서 일해보는 등 일상에 의도적으로 미세 노이즈를 개입시키면, 뇌의 전두-두정엽 주의 네트워크가 활성화되어 낯선 연결을 포착하는 세렌디피티 능력이 자연스레 발달합니다."
         }
       }
-    ],
-    "pubDate": "2026-02-08",
-    "updatedDate": "2026-02-08"
+    ]
   }
 }

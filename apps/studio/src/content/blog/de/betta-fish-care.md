@@ -16,23 +16,23 @@ faqs:
     answer: "Kugelvasen ohne Filter verschmutzen extrem schnell und vergiften den Fisch. Ein Becken ab 15 Litern mit Schwammfilter wird dringend empfohlen."
 ---
 
-Der Kampffisch ist für seine prachtvollen Flossen bekannt. Gemäß WSAVA benötigen Bettas wegen ihres Labyrinthorgans ruhiges Wasser, Pflanzen an der Oberfläche und Temperaturen von 24°C ~ 26°C. Die Bereitstellung einer konsistenten täglichen Gesundheitspflege und einer sicheren Umgebung sichert das Wohlbefinden Ihres Haustieres.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Veterinärmedizinische & verhaltensbedingte Nachweise
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Inhalt basiert auf <strong>World Small Animal Veterinary Association (WSAVA)</strong>.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Siamesischer Kampffisch (Betta Fish) Rasseprofil
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Lebenserwartung</span><span class="font-bold text-slate-800 dark:text-slate-200">3 - 5 Jahre</span></div>
@@ -43,7 +43,7 @@ Der Kampffisch ist für seine prachtvollen Flossen bekannt. Gemäß WSAVA benöt
 
 ## 1. Kommunikation des Bettas: Kiemenabspreizen & Ruhephasen
 
-Das Kiemenabspreizen (Flaring) dient der Revierverteidigung. Kurze tägliche Übungen von 5 Minuten halten die Flossen elastisch.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Das Kiemenabspreizen (Flaring) dient der Revierverteidigung. Kurze tägliche Üb
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Temperatur (24°C ~ 26°C) & Strömung prüfen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Heizer kontrollieren und sanfte Filterströmung sichern.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Das Kiemenabspreizen (Flaring) dient der Revierverteidigung. Kurze tägliche Üb
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Spezielles Betta-Futter & Reinigung</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    3 - 4 Betta-Pellets füttern und Futterreste absaugen.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Das Kiemenabspreizen (Flaring) dient der Revierverteidigung. Kurze tägliche Üb
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Schaumnest-Check & Spiegeltraining</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    3 - 5 Minuten einen Spiegel vorhalten für Flossentraining.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Das Kiemenabspreizen (Flaring) dient der Revierverteidigung. Kurze tägliche Üb
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Das Kiemenabspreizen (Flaring) dient der Revierverteidigung. Kurze tägliche Üb
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sofort 25% Wasser wechseln und die Wasserwerte überprüfen, um das Fortschreiten zu stoppen.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Das Kiemenabspreizen (Flaring) dient der Revierverteidigung. Kurze tägliche Üb
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Kugelvasen ohne Filter verschmutzen extrem schnell und vergiften den Fisch. Ein Becken ab 15 Litern mit Schwammfilter wird dringend empfohlen.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </details>
 </div>

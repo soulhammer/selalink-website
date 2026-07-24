@@ -16,23 +16,23 @@ faqs:
     answer: "Las orejas caídas bloquean el aire en el canal auditivo, creando un ambiente cálido y húmedo ideal para levaduras y bacterias. La ventilación semanal es crucial."
 ---
 
-Con sus orejas caídas y cola alegre, los Beagles son sabuesos históricos. Aunque amigables, tienen una gran curiosidad y un fuerte impulso de rastreo. Sin el ejercicio adecuado, pueden desarrollar ansiedad por separación, aullando o rompiendo muebles. Sus orejas caídas atrapan humedad, facilitando infecciones. Hoy, PetSelf descifra sus señales y presenta una rutina de 3 pasos.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Evidencia Veterinaria y Comportamental
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Manual oficial de razas de AKC para Beagles y protocolos de olfato de IAABC</strong>.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Beagle Perfil principal
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil media</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 años</span></div>
@@ -43,7 +43,7 @@ Con sus orejas caídas y cola alegre, los Beagles son sabuesos históricos. Aunq
 
 ## 1. Lenguaje corporal del Beagle: instinto de rastreo y significado de aullidos
 
-Cuando se concentran en el olor, los Beagles muestran un comportamiento de 'rastreo', ignorando su entorno. Por el contrario, el 'aullido' cuando están solos es un signo de ansiedad por separación. Entender estas dos señales es clave para mantenerlos tranquilos.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Cuando se concentran en el olor, los Beagles muestran un comportamiento de 'rast
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Búsqueda de premios en casa y juegos de olfato</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Después del desayuno, esconda premios en vasos de papel por toda la casa para saciar su olfato y cansarle mentalmente.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Cuando se concentran en el olor, los Beagles muestran un comportamiento de 'rast
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Paseo de rastreo al aire libre de más de 40 minutos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Asegure un paseo de al aire libre de al menos 40 minutos diarios. Permítale olfatear el césped libremente para reducir el estrés.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Cuando se concentran en el olor, los Beagles muestran un comportamiento de 'rast
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Ventilación de orejas caídas y limpieza dos veces por semana</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Como sus orejas caídas bloquean el flujo de aire, voltéelas suavemente para ventilar y limpie con solución para oídos dos veces por semana.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Cuando se concentran en el olor, los Beagles muestran un comportamiento de 'rast
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Embora o tratamento veterinário é importante, proporcionar um ambiente seguro (rampas, espaços verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Cuando se concentran en el olor, los Beagles muestran un comportamiento de 'rast
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      El aullido se debe a la ansiedad por soledad y a la energía acumulada. Aumentar los paseos y juegos de olfato para cansarles es la prevención más eficaz.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Cuando se concentran en el olor, los Beagles muestran un comportamiento de 'rast
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Las orejas caídas bloquean el aire en el canal auditivo, creando un ambiente cálido y húmedo ideal para levaduras y bacterias. La ventilación semanal es crucial.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </details>
 </div>

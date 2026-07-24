@@ -1,190 +1,62 @@
 {
   "twain-lying-writing": {
     "title": {
-      "ko": "침대 밖은 위험해? 누워서 명작을 쓴 마크 트웨인의 침대 집필 루틴",
-      "en": "Writing from the Comfort of the Bed: Mark Twain's Reclining Routine",
-      "ja": "ベッドの外は危険？横になって名作を書いたマーク・トウェインのベッド執筆ルーティン",
-      "zh": "床外很危险？躺着写出名著的马克·吐温的床上写作惯例",
-      "es": "¿Escribir acostado en la cama? La rutina de escritura reclinada de Mark Twain",
-      "fr": "Écrire allongé dans son lit ? La routine d'écriture inclinée de Mark Twain",
-      "de": "Im Liegen Meisterwerke schreiben? Mark Twains Schreibroutine im Bett",
-      "pt": "Escrever deitado na cama? A rotina de escrita reclinada de Mark Twain",
-      "id": "Menulis dari Kenyamanan Tempat Tidur? Rutinitas Menulis Sambil Berbaring Mark Twain"
+      "ko": "침대 밖은 위험해? 누워서 명작을 쓴 마크 트웨인의 침대 집필 루틴"
     },
     "description": {
-      "ko": "미국 문학의 거장 마크 트웨인. 아침 식사 후 침대에 누워 비스듬히 기댄 자세로 명작들을 탄생시켰던 그의 독특한 집필 습관과 신체 이완이 주는 창의적 脳科学的 효과를 알아봅니다.",
-      "en": "Mark Twain, the master of American literature. Discover his unique routine of writing while reclining in bed and the scientific benefits of physical relaxation for creativity.",
-      "ja": "アメリカ文学の巨匠マーク・トウェイン。朝食後、ベッドに横たわり傾いた姿勢で名作を生み出した彼のユニークな執筆習慣と、身体の弛緩がもたらす創造的な脳科学的効果を紹介します。",
-      "zh": "美国文学巨匠马克·吐温。介绍他早餐后躺在床上、以斜靠姿势创作出多部名著的独特写作习惯，以及身体放松带来的脑科学创造力效应。",
-      "es": "Mark Twain, el maestro de la literatura estadounidense. Descubra su rutina única de escribir reclinado en la cama y los beneficios científicos de la relajación física para la creatividad.",
-      "fr": "Mark Twain, le maître de la littérature américaine. Découvrez sa routine unique d'écriture allongé dans son lit et les bienfaits scientifiques de la relaxation physique sur la créativité.",
-      "de": "Mark Twain, der Meister der amerikanischen Literatur. Entdecken Sie seine einzigartige Routine, im Bett liegend zu schreiben, und die kognitiven Vorteile körperlicher Entspannung für die Kreativität.",
-      "pt": "Mark Twain, o mestre da literatura americana. Descubra sua rotina única de escrever deitado na cama e os benefícios científicos do relaxamento físico para a criatividade.",
-      "id": "Mark Twain, maestro sastra Amerika. Temukan rutinitas uniknya menulis sambil berbaring di tempat tidur dan manfaat ilmiah dari relaksasi fisik bagi kreativitas."
+      "ko": "미국 문학의 거장 마크 트웨인. 아침 식사 후 침대에 누워 비스듬히 기댄 자세로 명작들을 탄생시켰던 그의 독특한 집필 습관과 신체 이완이 주는 창의적 뇌과학적 효과를 알아봅니다."
     },
     "authority": {
-      "ko": "마크 트웨인 자서전 'Autobiography of Mark Twain' 및 Journal of Neurophysiology 학술지",
-      "en": "Mark Twain's Autobiography 'Autobiography of Mark Twain' & Journal of Neurophysiology",
-      "ja": "マーク・トウェイン自伝「Autobiography of Mark Twain」および学術誌「Journal of Neurophysiology」",
-      "zh": "《马克·吐温自传》与学术期刊《Journal of Neurophysiology》",
-      "es": "Autobiografía de Mark Twain 'Autobiography of Mark Twain' y revista Journal of Neurophysiology",
-      "fr": "Autobiographie de Mark Twain 'Autobiographie de Mark Twain' & revue Journal of Neurophysiology",
-      "de": "Mark Twains Autobiografie 'Autobiography of Mark Twain' & Fachzeitschrift Journal of Neurophysiology",
-      "pt": "Autobiografia de Mark Twain 'Autobiography of Mark Twain' & revista Journal of Neurophysiology",
-      "id": "Autobiografi Mark Twain 'Autobiography of Mark Twain' & Jurnal Journal of Neurophysiology"
+      "ko": "누워서 명작을 쓴 마크 트웨인 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "소설 '톰 소여의 모험'과 '허클베리 핀의 모험'으로 미국 문학의 독자적인 지평을 열고, 인류 역사상 가장 뛰어난 해학과 풍자가로 불리는 작가 마크 트웨인. 그의 날카로운 유머와 생생한 묘사들은 의외로 가장 편안하고 게으른 장소에서 탄생했습니다. 그곳은 바로 그의 따뜻한 '침대'였습니다.\\n\\n트웨인은 매일 아침 풍성한 식사를 마친 뒤, 서재로 향하는 대신 침실로 돌아와 폭신한 베개 여러 개를 등에 대고 비스듬히 누웠습니다. 그리고 무릎 위에 두꺼운 판지를 얹은 채 펜으로 글을 썼습니다. 점심시간이 되어 가족들이 그를 부를 때까지, 그는 이 누운 자세를 완벽히 유지하며 온전히 글쓰기에만 집중했습니다. 트웨인은 신체의 극단적인 이완이 정신을 가장 자유롭게 해방하고 영감을 가져다주는 열쇠라고 믿었습니다. 오늘 BuildSelf에서는 트웨인의 '침대 집필' 루틴의 생리학적 원리와 현대인들이 이완을 통해 창의성을 극대화하는 방법을 소개합니다.",
-      "en": "Mark Twain, who opened a unique horizon in American literature with the novels 'The Adventures of Tom Sawyer' and 'Adventures of Huckleberry Finn,' is known as one of history's greatest humorists. Surprisingly, his sharp humor and vivid descriptions were born in the most comfortable and seemingly lazy place: his warm 'bed.'\\n\\nEvery morning, after a hearty breakfast, instead of heading to his study, Twain returned to his bedroom and reclined in bed propped up by several fluffy pillows. Placing a thick board on his knees, he wrote with a pen. Until his family called him for lunch, he remained in this reclining posture, completely immersed in writing. Twain believed that extreme physical relaxation was the key to liberating the mind and summoning inspiration. Today, BuildSelf introduces the physiological principles behind Twain's 'writing in bed' routine and how modern people can maximize creativity through relaxation.",
-      "ja": "この歴史的習慣の実践において： ' ' ' ' , . . ''.\\n\\n , . . , . . BuildSelf ' ' .",
-      "zh": "在这一历史性惯例的实践中： ' ' ' ' , . . ''.\\n\\n , . . , . . BuildSelf ' ' .",
-      "es": "Mark Twain, quien abrió un horizonte único en la literatura estadounidense con las novelas 'Las aventuras de Tom Sawyer' y 'Las aventuras de Huckleberry Finn,' es recordado como uno de los mayores humoristas. Sorprendentemente, su agudo humor y vívidas descripciones nacieron en el lugar más cómodo y aparentemente perezoso: su cálida 'cama.'\\n\\nCada mañana, después de un desayuno abundante, en lugar de ir a su estudio, Twain regresaba a su dormitorio y se reclinaba en la cama apoyado por varias almohadas mullidas. Colocando una tabla gruesa sobre sus rodillas, escribía con pluma. Hasta que su familia lo llamaba para almorzar, permanecía en esta postura reclinada, completamente inmerso en la escritura. Twain creía que la relajación física extrema era la clave para liberar la mente y convocar la inspiración. Hoy, BuildSelf presenta los principios fisiológicos detrás de la rutina de 'escribir en la cama' de Twain y cómo las personas de hoy pueden maximizar su creatividad a través de la relajación.",
-      "fr": "Mark Twain, qui a ouvert un horizon unique dans la littérature américaine avec ses romans 'Les Aventures de Tom Sawyer' et 'Les Aventures de Huckleberry Finn,' est considéré comme l'un des plus grands humoristes. Étonnamment, son humour aiguisé et ses descriptions vivantes sont nés dans l'endroit le plus confortable et apparemment le plus paresseux : son 'lit' douillet.\\n\\nChaque matin, après un copieux petit-déjeuner, au lieu de se diriger vers son bureau, Twain retournait dans sa chambre et s'allongeait dans son lit, calé par plusieurs oreillers moelleux. Posant une planche épaisse sur ses genoux, il écrivait à la plume. Jusqu'à ce que sa famille l'appelle pour le déjeuner, il restait dans cette posture inclinée, complètement plongé dans l'écriture. Twain pensait qu'une relaxation physique extrême était la clé pour libérer l'esprit et invoquer l'inspiration. Aujourd'hui, BuildSelf présente les principes physiologiques de la routine d'écriture au lit de Twain et comment maximiser la créativité par la relaxation.",
-      "de": "Mark Twain, der mit seinen Romanen 'Die Abenteuer des Tom Sawyer' und 'Die Abenteuer des Huckleberry Finn' den Weg für die eigenständige amerikanische Literatur ebnete, gilt als einer der größten Humoristen der Geschichte. Überraschenderweise wurden sein scharfer Humor und seine lebendigen Beschreibungen am bequemsten und scheinbar faulsten Ort geboren: in seinem warmen 'Bett'.\\n\\nJeden Morgen nach einem ausgiebigen Frühstück kehrte Twain, anstatt in sein Arbeitszimmer zu gehen, in sein Schlafzimmer zurück und legte sich, von mehreren flauschigen Kissen gestützt, ins Bett. Mit einem dicken Brett auf den Knien schrieb er mit der Feder. Bis ihn seine Familie zum Mittagessen rief, blieb er in dieser halbliegenden Haltung, völlig in sein Schreiben vertieft. Twain glaubte, dass extreme körperliche Entspannung der Schlüssel zur Befreiung des Geistes und zur Beschwörung von Inspiration war. Heute stellt BuildSelf die physiologischen Prinzipien hinter Twains Routine vor und zeigt, wie moderne Menschen ihre Kreativität durch Entspannung maximieren können.",
-      "pt": "Mark Twain, que abriu um horizonte único na literatura americana com os romances 'As Aventuras de Tom Sawyer' e 'As Aventuras de Huckleberry Finn,' é conhecido como um dos maiores humoristas da história. Surpreendentemente, seu humor afiado e suas descrições vívidas nasceram no lugar mais confortável e aparentemente preguiçoso: sua 'cama' aconchegante.\\n\\nCada manhã, após um café da manhã reforçado, em vez de ir para o escritório, Twain voltava para o quarto e se deitava na cama apoiado por vários travesseiros macios. Colocando uma prancheta grossa sobre os joelhos, ele escrevia à caneta. Até ser chamado para o almoço, permanecia nessa postura reclinada, totalmente imerso na escrita. Twain acreditava que o relaxamento físico extremo era a chave para libertar a mente e invocar a inspiração. Hoje, o BuildSelf apresenta os princípios fisiológicos da rotina de 'escrever na cama' de Twain e como as pessoas modernas podem maximizar a criatividade através do relaxamento.",
-      "id": "Mark Twain, yang membuka cakrawala unik dalam sastra Amerika dengan novel 'Petualangan Tom Sawyer' dan 'Petualangan Huckleberry Finn,' dikenal sebagai salah satu humoris terbesar dalam sejarah. Anehnya, humornya yang tajam dan deskripsinya yang hidup lahir di tempat yang paling nyaman dan tampaknya malas: 'tempat tidur' yang hangat.\\n\\nSetiap pagi, setelah sarapan yang kenyang, alih-alih pergi ke ruang kerjanya, Twain kembali ke kamarnya dan berbaring di tempat tidur yang ditopang oleh beberapa bantal empuk. Menaruh papan tebal di lututnya, ia menulis dengan pena. Sampai keluarganya memanggilnya untuk makan siang, ia tetap dalam posisi berbaring ini, benar-benar tenggelam dalam menulis. Twain percaya bahwa relaksasi fisik yang ekstrem adalah kunci untuk membebaskan pikiran dan memanggil inspirasi. Hari ini, BuildSelf memperkenalkan prinsip fisiologis di balik rutinitas 'menulis di tempat tidur' Twain dan bagaimana manusia modern dapat memaksimalkan kreativitas melalui relaksasi."
+      "ko": "\"내게 침대는 세상에서 가장 훌륭한 연구소이자 창조적 작업실이다.\" 🛏️\n\n소설 '톰 소여의 모험'과 '허클베리 핀의 모험'으로 미국 문학의 독자적인 지평을 열고, 인류 역사상 가장 뛰어난 해학과 풍자가로 불리는 작가 마크 트웨인. 그의 날카로운 유머와 생생한 묘사들은 의외로 가장 편안하고 게으른 장소에서 탄생했습니다. 그곳은 바로 그의 따뜻한 '침대'였습니다.\n\n트웨인은 매일 아침 풍성한 식사를 마친 뒤, 서재로 향하는 대신 침실로 돌아와 폭신한 베개 여러 개를 등에 대고 비스듬히 누웠습니다. 그리고 무릎 위에 두꺼운 판지를 얹은 채 펜으로 글을 썼습니다. 점심시간이 되어 가족들이 그를 부를 때까지, 그는 이 누운 자세를 완벽히 유지하며 온전히 글쓰기에만 집중했습니다. 트웨인은 신체의 극단적인 이완이 정신을 가장 자유롭게 해방하고 영감을 가져다주는 열쇠라고 믿었습니다. 오늘 포스트에서는 트웨인의 '침대 집필' 루틴의 생리학적 원리와 현대인들이 이완을 통해 창의성을 극대화하는 방법을 소개합니다."
     },
     "whyTitle": {
-      "ko": "뇌의 긴장을 풀고 생각을 연결하는 '연상적 사고'",
-      "en": "'Associative Thinking' to Relax the Brain and Connect Thoughts",
-      "ja": "脳の緊張をほぐし思考をつなぐ「連想的思考」",
-      "zh": "放松大脑并连接思维的“联想性思维”",
-      "es": "'Pensamiento Asociativo' para Relajar el Cerebro y Conectar Pensamientos",
-      "fr": "La 'Pensée Associative' pour Relâcher le Cerveau et Connecter les Idées",
-      "de": "'Assoziatives Denken' zur Entspannung des Gehirns und Verknüpfung von Gedanken",
-      "pt": "'Pensamento Associativo' para Relaxar o Cérebro e Conectar Ideias",
-      "id": "'Berpikir Asosiatif' untuk Merilekskan Otak dan Menghubungkan Pikiran"
+      "ko": "뇌의 긴장을 풀고 생각을 연결하는 '연상적 사고'"
     },
     "whyDesc": {
-      "ko": "우리가 수평으로 눕거나 비스듬히 기대면, 서 있거나 앉아 있을 때보다 심장이 피를 온몸으로 밀어내는 부담이 현저히 줄어듭니다. 이는 뇌 혈류량을 늘리고 심박수를 안정시키며, 부교감 신경계를 강하게 자극합니다. 신체가 완전히 이완되면 뇌는 스트레스 수준을 조절하는 코르티솔의 분비를 억제합니다.\\n\\n이완된 뇌는 긴장 상태(베타파 발생)에서 벗어나 창의성과 깊은 통찰력을 유도하는 <strong>'알파(Alpha)파'</strong>와 <strong>'세타(Theta)파'</strong>를 풍부하게 방출합니다. 심리학적으로 이러한 상태는 경직된 논리적 사고의 틀을 깨고, 서로 무관해 보이던 아이디어들을 유연하게 결합하는 <strong>'연상적 사고(Associative Thinking)'</strong>를 촉진합니다. 마크 트웨인이 침대에서 글을 쓸 때 막힘없이 풍부한 아이디어와 생생한 묘사를 펼칠 수 있었던 비결이 바로 이 신체적 이완과 대뇌 혈류 메커니즘의 결합에 있습니다.",
-      "en": "When we lie horizontally or recline, the burden of the heart pushing blood through the body is significantly reduced compared to standing or sitting. This increases cerebral blood flow, stabilizes heart rate, and strongly stimulates the parasympathetic nervous system. When the body is completely relaxed, the brain suppresses the secretion of cortisol, which regulates stress levels.\\n\\nThe relaxed brain escapes from a state of tension (beta waves) and richly emits <strong>'alpha waves'</strong> and <strong>'theta waves'</strong> that induce creativity and deep insight. Psychologically, this state breaks the rigid frame of logical thinking and promotes <strong>'associative thinking'</strong> that flexibly combines ideas that seemed unrelated. The secret behind Mark Twain's smooth expansion of ideas and vivid descriptions when writing in bed lies in this combination of physical relaxation and cerebral blood flow mechanism.",
-      "ja": "私たちが水平に横たわったり斜めに傾いたりすると、立っている時や座っている時に比べて、心臓が全身に血液を送り出す負担が著しく軽減されます。これにより脳への血流量が増加し、心拍数が安定し、副交感神経系が強く刺激されます。身体が完全に弛緩すると、脳はストレスレベルを調節するコルチゾールの分泌を抑制します。\\n\\n弛緩した脳は、緊張状態（ベータ波の発生）から脱し、創造性や深い洞察力を誘導する<strong>「アルファ（Alpha）波」</strong>と<strong>「シータ（Theta）波」</strong>を豊富に放出します。心理学的にこのような状態は、硬直した論理的思考の枠組みを崩し、一見無関係に見えるアイデアを柔軟に結合する<strong>「連想的思考（Associative Thinking）」</strong>を促進します。マーク・トウェインがベッドで執筆する際に、滞りなく豊富なアイデアと生き生きとした描写を展開できた秘訣が、まさにこの身体的弛緩と大脳血流メカニズムの結合にあります。",
-      "zh": "当我们水平躺下或斜靠时，与站立或坐着相比，心脏将血液推送到全身的负担显著减轻。这增加了脑部血流量，稳定了心率，并强烈刺激副交感神经系统。当身体完全放松时，大脑会抑制调节压力水平的皮质醇的分泌。\\n\\n放松的大脑摆脱了紧张状态（产生贝塔波），丰富地释放出引导创造力和深邃洞察力的<strong>“阿尔法（Alpha）波”</strong>和<strong>“塞塔（Theta）波”</strong>。从心理学上讲，这种状态打破了僵化的逻辑思维框架，促进了将看似无关的创意灵活结合的<strong>“联想性思维（Associative Thinking）”</strong>。马克·吐温在床上写作时能毫无阻碍地展现丰富的创意和生动的描写，其秘诀正是身体放松与大脑血液循环机制的结合。",
-      "es": "Cuando nos acostamos horizontalmente o nos reclinamos, la carga del corazón para bombear sangre por el cuerpo se reduce significativamente en comparación con estar de pie o sentado. Esto aumenta el flujo sanguíneo cerebral, estabiliza el ritmo cardíaco y estimula fuertemente el sistema nervioso parasimpático. Cuando el cuerpo está completamente relajado, el cerebro suprime la secreción de cortisol.\\n\\nEl cerebro relajado escapa del estado de tensión (ondas beta) y emite abundantemente <strong>'ondas alfa'</strong> y <strong>'ondas theta'</strong> que inducen la creatividad y la visión profunda. Psicológicamente, este estado rompe el rígido marco del pensamiento lógico y promueve el <strong>'pensamiento asociativo (Associative Thinking)'</strong>, que combina con flexibilidad ideas que parecían no tener relación. El secreto de Mark Twain para escribir en la cama con fluidez y viveza radica en esta combinación de relajación física y flujo sanguíneo cerebral.",
-      "fr": "Lorsque nous sommes allongés horizontalement ou inclinés, la charge cardiaque pour pomper le sang est considérablement réduite par rapport à la station debout ou assise. Cela augmente le flux sanguin cérébral, stabilise le rythme cardiaque et stimule fortement le système nerveux parasympatique. Lorsque le corps est détendu, le cerveau supprime la sécrétion de cortisol.\\n\\nLe cerveau détendu échappe à l'état de tension (ondes bêta) et émet abondamment des <strong>'ondes alpha'</strong> et des <strong>'ondes thêta'</strong> qui favorisent la créativité et la réflexion profonde. Psychologiquement, cet état brise le cadre rigide de la pensée logique et favorise la <strong>'pensée associative (Associative Thinking)'</strong>, qui combine des idées apparemment sans rapport. Le secret de Mark Twain pour écrire au lit avec fluidité réside dans cette combinaison de relaxation physique et de flux sanguin cérébral.",
-      "de": "Wenn wir flach liegen oder uns zurücklehnen, verringert sich die Belastung des Herzens, Blut durch den Körper zu pumpen, im Vergleich zum Stehen oder Sitzen erheblich. Dies erhöht den zerebralen Blutfluss, stabilisiert die Herzfrequenz und stimuliert das parasympathische Nervensystem stark. Wenn der Körper entspannt ist, unterdrückt das Gehirn die Ausschüttung von Cortisol.\\n\\nDas entspannte Gehirn entkommt dem Spannungszustand (Beta-Wellen) und sendet vermehrt <strong>'Alpha-Wellen'</strong> und <strong>'Theta-Wellen'</strong> aus, die Kreativität und tiefen Einblick fördern. Psychologisch gesehen bricht dieser Zustand den starren Rahmen des logischen Denkens auf und fördert das <strong>'assoziative Denken (Associative Thinking)'</strong>, das scheinbar unzusammenhängende Ideen flexibel verbindet. Das Geheimnis hinter Mark Twains reibungslosem Schreiben im Bett liegt in dieser Kombination aus körperlicher Entspannung und zerebralem Blutfluss.",
-      "pt": "Quando nos deitamos horizontalmente ou nos reclinamos, a carga do coração para bombear o sangue pelo corpo é significativamente reduzida em comparação com ficar de pé ou sentado. Isso aumenta o fluxo sanguíneo cerebral, estabiliza a frequência cardíaca e estimula fortemente o sistema nervoso parassimpático. Quando o corpo está relaxado, o cérebro suprime a secreção de cortisol.\\n\\nO cérebro relaxado escapa do estado de tensão (ondas beta) e emite abundantemente <strong>'ondas alfa'</strong> e <strong>'ondas theta'</strong> que induzem a criatividade e a intuição profunda. Psicologicamente, esse estado quebra a rigidez do pensamento lógico e promove o <strong>'pensamento associativo (Associative Thinking)'</strong>, que combina ideias aparentemente sem relação. O segredo de Mark Twain para escrever na cama reside nesta combinação de relaxamento físico e fluxo sanguíneo cerebral.",
-      "id": "Ketika kita berbaring secara horizontal atau bersandar, beban jantung yang mendorong darah ke seluruh tubuh berkurang secara signifikan dibandingkan saat berdiri atau duduk. Ini meningkatkan aliran darah serebral, menstabilkan detak jantung, dan merangsang sistem saraf parasimpatis dengan kuat. Saat tubuh rileks sepenuhnya, otak menekan sekresi kortisol.\\n\\nOtak yang rileks lolos dari ketegangan (gelombang beta) dan memancarkan <strong>'gelombang alfa'</strong> dan <strong>'gelombang theta'</strong> yang memicu kreativitas dan wawasan mendalam. Secara psikologis, kondisi ini menghancurkan kerangka berpikir logis yang kaku dan mendorong <strong>'berpikir asosiatif (Associative Thinking)'</strong> yang menggabungkan ide-ide yang tampaknya tidak terkait secara fleksibel. Rahasia di balik lancarnya pengembangan ide Mark Twain saat menulis di tempat tidur terletak pada kombinasi relaksasi fisik dan aliran darah otak ini."
+      "ko": "우리가 수평으로 눕거나 비스듬히 기대면, 서 있거나 앉아 있을 때보다 심장이 피를 온몸으로 밀어내는 부담이 현저히 줄어듭니다. 이는 뇌 혈류량을 늘리고 심박수를 안정시키며, 부교감 신경계를 강하게 자극합니다. 신체가 완전히 이완되면 뇌는 스트레스 수준을 조절하는 코르티솔의 분비를 억제합니다.\\n\\n이완된 뇌는 긴장 상태(베타파 발생)에서 벗어나 창의성과 깊은 통찰력을 유도하는 <strong>'알파(Alpha)파'</strong>와 <strong>'세타(Theta)파'</strong>를 풍부하게 방출합니다. 심리학적으로 이러한 상태는 경직된 논리적 사고의 틀을 깨고, 서로 무관해 보이던 아이디어들을 유연하게 결합하는 <strong>'연상적 사고(Associative Thinking)'</strong>를 촉진합니다. 마크 트웨인이 침대에서 글을 쓸 때 막힘없이 풍부한 아이디어와 생생한 묘사를 펼칠 수 있었던 비결이 바로 이 신체적 이완과 대뇌 혈류 메커니즘의 결합에 있습니다."
     },
     "cautionTitle": {
-      "ko": "자세를 지탱하고 스마트폰 중독을 예방하세요",
-      "en": "Support Your Posture and Prevent Smartphone Addiction",
-      "ja": "姿勢を支え、スマートフォン中毒を予防してください",
-      "zh": "支撑好身体姿势并防止手机成瘾",
-      "es": "Apoye Su Postura y Evite la Adicción al Smartphone",
-      "fr": "Soutenez Votre Posture et Évitez l'Addiction au Smartphone",
-      "de": "Stützen Sie Ihre Haltung und beugen Sie Smartphone-Sucht vor",
-      "pt": "Sustente Sua Postura e Evite Distrações no Celular",
-      "id": "Topang Postur Anda dan Cegah Ketergantungan Ponsel"
+      "ko": "자세를 지탱하고 스마트폰 중독을 예방하세요"
     },
     "cautionDesc": {
-      "ko": "침대 위에서 비스듬히 눕는 자세는 척추나 목에 큰 무리를 줄 수 있으므로, 여러 개의 단단한 베개를 등에 대어 척추가 구부러지지 않도록 단단히 지탱해 주어야 합니다. 또한, 침대가 주는 평온함이 자칫 스마트폰으로 SNS를 보거나 멍하게 시간을 보내는 도피처가 되지 않도록, 침대에 눕기 전 스마트폰은 완전히 손이 닿지 않는 곳에 치워 두세요.",
-      "en": "Reclining in bed can put a lot of strain on your spine or neck, so support your spine firmly by putting several firm pillows against your back. Also, to prevent the comfort of the bed from becoming a hideout for scanning social media on your smartphone, put your phone away where you cannot reach it before lying down.",
-      "ja": "ベッドの上で横になる姿勢は、脊椎や首に大きな負担をかける可能性があるため、複数の硬めの枕を背中に当てて、背骨が曲がらないようしっかりと支える必要があります。また、ベッドのもたらす安らぎが、スマートフォンでSNSを眺めたり、ぼーっと時間を過ごす逃避先にならないよう、ベッドに入る前にスマートフォンは完全に手の届かない場所に片付けておきましょう。",
-      "zh": "在床上斜靠可能会给脊椎或颈部带来很大负担，因此需要准备几个硬度适中的枕头垫在背部，牢牢支撑脊椎以防弯曲。另外，为了防止床上的舒适感变成用手机刷社交媒体、虚度时光的避难所，躺下前请将手机放在完全够不到的地方。",
-      "es": "Reclinarse en la cama puede ejercer mucha presión sobre la columna o el cuello, así que sostenga la columna firmemente colocando varias almohadas duras detrás de la espalda. Además, para evitar que la comodidad de la cama se convierta en una distracción para mirar las redes sociales en el móvil, mantenga su teléfono alejado antes de acostarse.",
-      "fr": "S'allonger dans son lit peut fatiguer la colonne ou le cou. Soutenez fermement votre dos en plaçant plusieurs oreillers fermes. De plus, pour éviter que le confort du lit ne devienne un prétexte pour regarder les réseaux sociaux sur votre smartphone, éloignez votre téléphone avant de vous allonger.",
-      "de": "Das Liegen im Bett kann Wirbelsäule und Nacken stark belasten. Stützen Sie Ihren Rücken daher gut ab, indem Sie feste Kissen verwenden. Um zu verhindern, dass die Bequemlichkeit des Bettes zu einer Ausrede wird, um auf dem Smartphone zu surfen, legen Sie Ihr Telefon außer Reichweite, bevor Sie sich hinlegen.",
-      "pt": "Deitar-se de forma inclinada na cama pode sobrecarregar a coluna ou o pescoço, por isso apoie as costas firmemente com travesseiros firmes. Além disso, para evitar que o conforto da cama se torne um convite para navegar no celular, afaste o aparelho antes de se deitar.",
-      "id": "Berbaring di tempat tidur dapat memberi tekanan berat pada tulang belakang atau leher, jadi sangga punggung Anda dengan bantal yang kokoh. Selain itu, agar kenyamanan tempat tidur tidak menjadi tempat pelarian untuk berselancar di media sosial pada ponsel Anda, jauhkan ponsel sebelum Anda berbaring."
+      "ko": "침대 위에서 비스듬히 눕는 자세는 척추나 목에 큰 무리를 줄 수 있으므로, 여러 개의 단단한 베개를 등에 대어 척추가 구부러지지 않도록 단단히 지탱해 주어야 합니다. 또한, 침대가 주는 평온함이 자칫 스마트폰으로 SNS를 보거나 멍하게 시간을 보내는 도피처가 되지 않도록, 침대에 눕기 전 스마트폰은 완전히 손이 닿지 않는 곳에 치워 두세요."
     },
     "steps": [
       {
         "name": {
-          "ko": "베개를 활용한 상체 지지자세 형성",
-          "en": "Form Upper Body Support Posture Using Pillows",
-          "ja": "枕を活用した上半身の支持姿勢の形成",
-          "zh": "利用枕头支撑上身姿势",
-          "es": "Formar Postura de Soporte para la Parte Superior del Cuerpo con Almohadas",
-          "fr": "Adopter une Posture de Soutien du Haut du Corps avec des Oreillers",
-          "de": "Oberkörperstütze mit Kissen einrichten",
-          "pt": "Formar Postura de Suporte para o Tronco com Travesseiros",
-          "id": "Bentuk Postur Penyangga Tubuh Bagian Atas Menggunakan Bantal"
+          "ko": "베개를 활용한 상체 지지자세 형성"
         },
         "text": {
-          "ko": "침대 머리에 여러 개의 크고 탄탄한 베개를 겹쳐 놓고, 허리와 등, 그리고 목 뒤를 비스듬히 기대어 척추가 곧게 펴질 수 있도록 편안하게 기댑니다.",
-          "en": "Stack several large, firm pillows against the headboard of the bed, and recline your lower back, upper back, and the back of your neck so that your spine can extend straight and comfortably.",
-          "ja": "ベッドのヘッドボードに複数の大きくてしっかりした枕を重ねて置き、腰と背中、そして首の後ろを傾けて寄りかかり、脊椎がまっすぐ伸びるように快適に寄りかかります。",
-          "zh": "在床头叠放几个大而结实的枕头，将腰部、背部和颈部后侧斜靠在上面，使脊椎能够挺直且舒适地得到支撑。",
-          "es": "Coloque varias almohadas grandes y firmes contra la cabecera de la cama, y recline la zona lumbar, la espalda y el cuello para que la columna se extienda de forma recta y cómoda.",
-          "fr": "Empilez plusieurs oreillers fermes contre la tête de lit, et appuyez le bas du dos, le haut du dos et la nuque de manière à ce que votre colonne soit droite et confortable.",
-          "de": "Stapeln Sie feste Kissen am Kopfende des Bettes und lehnen Sie Ihren unteren Rücken, oberen Rücken und Nacken so an, dass Ihre Wirbelsäule gerade und bequem gestützt ist.",
-          "pt": "Coloque vários travesseiros grandes e firmes na cabeceira da cama, apoiando a lombar, as costas e a nuca de modo que a coluna fique reta e confortável.",
-          "id": "Tumpuk beberapa bantal besar yang kokoh di kepala tempat tidur, dan sandarkan punggung bawah, punggung atas, serta leher agar tulang belakang dapat tegak dengan nyaman."
+          "ko": "침대 머리에 여러 개의 크고 탄탄한 베개를 겹쳐 놓고, 허리와 등, 그리고 목 뒤를 비스듬히 기대어 척추가 곧게 펴질 수 있도록 편안하게 기댑니다."
         }
       },
       {
         "name": {
-          "ko": "클립보드 및 도구 적재와 디지털 차단",
-          "en": "Prepare Clipboard & Tools and Digital Disconnection",
-          "ja": "クリップボードとツールの準備およびデジタル遮断",
-          "zh": "准备书写板与工具并屏蔽数字设备",
-          "es": "Preparar Portapapeles e Instrumentos y Desconexión Digital",
-          "fr": "Préparer un Support et des Outils et Couper le Numérique",
-          "de": "Klemmbrett und Schreibutensilien bereitlegen und digitale Geräte ausschalten",
-          "pt": "Preparar Prancheta & Caneta e Bloquear o Celular",
-          "id": "Siapkan Papan Alas & Alat Tulis serta Putus Koneksi Digital"
+          "ko": "클립보드 및 도구 적재와 디지털 차단"
         },
         "text": {
-          "ko": "무릎 위에 얹을 단단한 클립보드(종이 받침대)와 펜, 혹은 노트북을 준비합니다. 스마트폰은 손이 닿지 않는 방 반대편에 두어 몰입을 방해하는 연결을 완벽히 끊습니다.",
-          "en": "Prepare a firm clipboard (paper support) and a pen, or a laptop to place on your knees. Put your smartphone on the opposite side of the room out of reach to completely cut off connections that disturb immersion.",
-          "ja": "膝の上にのせる頑丈なクリップボード（紙の台）とペン、あるいはノートパソコンを準備します。スマートフォンは手の届かない部屋の反対側に置き、没頭を妨げる繋がりを完全に断ち切ります。",
-          "zh": "准备一块坚固的书写板（纸张托板）和笔，或将笔记本电脑放在膝盖上。把手机放在房间里够不到的另一端，彻底切断干扰专注的数字化连接。",
-          "es": "Prepare un portapapeles firme y una pluma, o una computadora portátil sobre sus rodillas. Deje su teléfono en el lado opuesto de la habitación para cortar las conexiones que distraen.",
-          "fr": "Préparez un support rigide et un stylo, ou un ordinateur portable sur vos genoux. Placez votre smartphone à l'autre bout de la pièce pour couper toute connexion perturbatrice.",
-          "de": "Bereiten Sie ein festes Klemmbrett und einen Stift vor oder legen Sie Ihren Laptop auf die Knie. Legen Sie Ihr Smartphone an das andere Ende des Raumes, um Störungen auszuschließen.",
-          "pt": "Prepare uma prancheta firme e uma caneta, ou apoie o notebook sobre os joelhos. Deixe o celular do outro lado do quarto para cortar conexões que atrapalhem o foco.",
-          "id": "Siapkan papan alas yang kokoh dan pena, atau laptop untuk diletakkan di lutut Anda. Letakkan ponsel di seberang ruangan agar tidak dapat dijangkau untuk memutus gangguan."
+          "ko": "무릎 위에 얹을 단단한 클립보드(종이 받침대)와 펜, 혹은 노트북을 준비합니다. 스마트폰은 손이 닿지 않는 방 반대편에 두어 몰입을 방해하는 연결을 완벽히 끊습니다."
         }
       },
       {
         "name": {
-          "ko": "편안함 속에서 자유로운 연상 기록",
-          "en": "Record Free Association in Comfort",
-          "ja": "リラックスした状態での自由な連想の記録",
-          "zh": "在舒适中记录自由联想",
-          "es": "Registrar la Asociación Libre con Comodidad",
-          "fr": "Noter des Associations d'Idées en Toute Décontraction",
-          "de": "Freie Assoziationen entspannt aufschreiben",
-          "pt": "Anotar Ideias Livres com Conforto",
-          "id": "Catat Asosiasi Bebas dalam Kenyamanan"
+          "ko": "편안함 속에서 자유로운 연상 기록"
         },
         "text": {
-          "ko": "이완된 자세에서 호흡을 가다듬고, 머릿속에서 흘러나오는 생각들을 논리적으로 검열하지 말고 날것 그대로 기록합니다. 문장, 그림, 마인드맵 등 어떤 형식이든 좋습니다. 15분 이상 마음껏 생각을 외재화합니다.",
-          "en": "Regulate your breathing in the relaxed posture, and record the thoughts flowing in your head raw without logical censoring. Any format like sentences, drawings, or mind maps is fine. Externalize thoughts as much as you want for over 15 minutes.",
-          "ja": "リラックスした姿勢で呼吸を整え、頭の中に浮かび上がる考えを論理的に検閲せず、ありのまま記録します。文章、絵、マインドマップなど、どのような形式でも構いません。15分以上、思いのまま考えを書き出します。",
-          "zh": "在放松的姿势下调整呼吸，不要对脑海中浮现的想法进行逻辑审查，而是原汁原味地记录下来。无论是句子、画图还是思维导图，任何形式都可以。在15分钟以上的时间里尽情将想法外在化。",
-          "es": "Regule su respiración en la postura relajada, y registre los pensamientos que fluyen en su cabeza sin censura lógica. Cualquier formato es válido. Externalice sus ideas durante más de 15 minutos.",
-          "fr": "Calmez votre respiration et notez les pensées qui vous viennent à l'esprit sans filtre logique. Le format importe peu : phrases, dessins, schémas. Matérialisez vos pensées pendant plus de 15 minutes.",
-          "de": "Regulieren Sie Ihren Atem und schreiben Sie Ihre Gedanken ungefiltert auf. Jedes Format ist erlaubt (Sätze, Skizzen, Mindmaps). Schreiben Sie mindestens 15 Minuten lang frei auf.",
-          "pt": "Respire fundo na postura relaxada e anote as ideias que surgem na cabeça sem julgamento lógico. Sentenças, desenhos ou mapas mentais: qualquer formato é válido. Registre ideias por mais de 15 minutos.",
-          "id": "Atur napas Anda dalam posisi rileks, dan catat pikiran yang mengalir di kepala secara alami tanpa sensor logis. Format apa pun seperti kalimat, gambar, atau peta pikiran boleh saja. Eksternalisasikan pikiran Anda selama lebih dari 15 menit."
+          "ko": "이완된 자세에서 호흡을 가다듬고, 머릿속에서 흘러나오는 생각들을 논리적으로 검열하지 말고 날것 그대로 기록합니다. 문장, 그림, 마인드맵 등 어떤 형식이든 좋습니다. 15분 이상 마음껏 생각을 외재화합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "침대에서 작업하면 잠이 오거나 게을러지지 않나요?",
-          "en": "Won't working in bed make you sleepy or lazy?",
-          "ja": "ベッドで作業すると、眠くなったり怠けてしまいませんか？",
-          "zh": "在床上工作难道不会让人昏昏欲睡或变得懒散吗？",
-          "es": "¿No dará sueño o pereza trabajar en la cama?",
-          "fr": "Travailler au lit ne risque-t-il pas de donner envie de dormir ?",
-          "de": "Wird man beim Arbeiten im Bett nicht schläfrig oder träge?",
-          "pt": "Trabalhar na cama não dá sono ou preguiça?",
-          "id": "Apakah bekerja di tempat tidur tidak membuat mengantuk atau malas?"
+          "ko": "침대에서 작업하면 잠이 오거나 게을러지지 않나요?"
         },
         "answer": {
-          "ko": "그럴 수 있습니다. 따라서 이 루틴은 단순히 눕는 것이 아니라 베개를 통해 상체를 단단히 지지하여 '각성된 이완' 상태를 유지하는 것이 중요합니다. 또한, 스마트폰 등 방해 물질을 완전히 차단한 집중 작업 시간을 미리 설정해야 합니다.",
-          "en": "It can. Therefore, this routine is not simply about lying down, but supporting your upper body firmly using pillows to maintain an 'alert relaxation' state. Also, you must preset a focused working time completely cutting off distractors like smartphones.",
-          "ja": "その可能性があります。したがって、このルーティンは単に横たわることではなく、枕を介して上半身をしっかりと支え、「目覚めた弛緩」状態を維持することが重要です。また、スマートフォンなどの邪魔な要素を完全に断ち切った集中作業時間をあらかじめ設定しておく必要があります。",
-          "zh": "确实会这样。因此，这一惯例的核心不在于单纯地躺下，而是利用枕头牢牢支撑上身，保持“清醒的放松”状态。此外，必须预先设定一段完全排除手机等干扰因素的专注工作时间。",
-          "es": "Es posible. Por ello, la clave no es tumbarse sin más, sino apoyar el cuerpo con almohadas para mantener una 'relajación alerta'. También debe fijarse un tiempo de trabajo sin distractores cerca.",
-          "fr": "C'est possible. L'important n'est pas de s'allonger mollement, mais de soutenir le buste avec des oreillers pour rester dans un état d'éveil détendu. Il est également crucial de définir une durée de travail fixe en éliminant les distractions.",
-          "de": "Das ist möglich. Daher geht es nicht um einfaches Liegen, sondern um die Stützung des Oberkörpers mit Kissen, um einen Zustand wacher Entspannung zu halten. Legen Sie feste Zeiten fest und verbannen Sie Ablenkungen.",
-          "pt": "Pode acontecer. Por isso, a rotina não é apenas deitar-se, mas apoiar o tronco com travesseiros para manter um estado de 'relaxamento alerta'. Fique longe do celular durante este tempo.",
-          "id": "Bisa saja. Oleh karena itu, rutinitas ini bukan sekadar berbaring, melainkan menyangga tubuh bagian atas dengan bantal untuk mempertahankan kondisi 'relaksasi yang waspada'. Singkirkan gangguan seperti ponsel."
+          "ko": "그럴 수 있습니다. 따라서 이 루틴은 단순히 눕는 것이 아니라 베개를 통해 상체를 단단히 지지하여 '각성된 이완' 상태를 유지하는 것이 중요합니다. 또한, 스마트폰 등 방해 물질을 완전히 차단한 집중 작업 시간을 미리 설정해야 합니다."
         }
       }
     ]

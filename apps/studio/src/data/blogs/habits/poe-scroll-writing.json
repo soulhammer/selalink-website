@@ -1,223 +1,72 @@
 {
   "poe-scroll-writing": {
     "title": {
-      "ko": "원고를 두루마리로 이어 붙여 쓴 추리 소설가? 에드거 앨런 포의 초집중 필기법",
-      "en": "The Mystery Novelist Who Pasted Manuscript into a Scroll? Edgar Allan Poe's High-Focus Writing Method",
-      "ja": "原稿を巻物のように繋ぎ合わせた推理小説家？エドガー・アラン・ポーの超集中筆記法",
-      "zh": "将手稿拼接成卷轴的推理小说家？埃德加·爱伦·坡的超专注写作法",
-      "es": "¿El novelista de misterio que pegaba sus manuscritos en un pergamino? El método de escritura de alta concentración de Edgar Allan Poe",
-      "fr": "Le pionnier du polar qui collait ses pages en rouleau ? La méthode d'hyper-concentration d'Edgar Allan Poe",
-      "de": "Der Kriminalautor, der seine Manuskripte auf eine Rolle klebte? Edgar Allan Poes Hochfokus-Schreibmethode",
-      "pt": "O novelista de mistério que colava seus manuscritos em um pergaminho? O método de escrita de alta concentração de Edgar Allan Poe",
-      "id": "Novelis Misteri yang Menempelkan Naskah Menjadi Gulungan? Metode Menulis Fokus Tinggi Edgar Allan Poe"
+      "ko": "원고를 두루마리로 이어 붙여 쓴 추리 소설가? 에드거 앨런 포의 초집중 필기법"
     },
     "description": {
-      "ko": "근대 추리 소설의 시조 에드거 앨런 포는 좁은 종이 띠에 글을 쓰고 계속 이어 붙여 두루마리로 제작했습니다. 시선 좌우 유입을 차단하여 인지 터널링 효과를 내는 뇌 과학적 원리를 규명합니다.",
-      "en": "Edgar Allan Poe, pioneer of detective fiction, wrote on narrow paper strips and pasted them into a scroll. Discover how this blocks visual distractions and creates a cognitive tunneling effect.",
-      "ja": "近代推理小説の始祖エドガー・アラン・ポーは、狭い紙の帯に文字を書き、それを繋ぎ合わせて巻物にしました。視線の左右への動きを遮断して認知トンネル効果を生み出す脳科学的原理を究明します。",
-      "zh": "现代推理小说先驱埃德加·爱伦·坡在窄纸条上写作并不断拼接成卷轴。阐明阻断视线左右偏离、产生认知隧道效应的脑科学原理。",
-      "es": "El creador de la novela policial Edgar Allan Poe escribía en tiras estrechas de papel y las unía en rollos. Analizamos cómo esto evita la dispersión visual para lograr un túnel cognitivo.",
-      "fr": "Le père du roman policier Edgar Allan Poe écrivait sur des bandes de papier collées en rouleau. Découvrez comment ce procédé élimine les distractions visuelles pour créer un tunnel cognitif.",
-      "de": "Der Erfinder der Detektivgeschichte Edgar Allan Poe schrieb auf Papierstreifen, die er zusammenklebte. Erfahren Sie, wie dies den Blick fixiert und Tunnel-Fokus erzeugt.",
-      "pt": "O criador da novela policial Edgar Allan Poe escrevia em tiras de papel e unia em pergaminhos. Analisamos como esse hábito evita a dispersão visual para obter um túnel cognitivo.",
-      "id": "Pelopor fiksi detektif Edgar Allan Poe menulis pada strip kertas sempit dan menempelkannya menjadi gulungan. Pelajari bagaimana hal ini memblokir gangguan visual."
+      "ko": "근대 추리 소설의 시조 에드거 앨런 포는 좁은 종이 띠에 글을 쓰고 계속 이어 붙여 두루마리로 제작했습니다. 시선 좌우 유입을 차단하여 인지 터널링 효과를 내는 뇌 과학적 원리를 규명합니다."
     },
     "authority": {
-      "ko": "제프리 마이어스의 '에드거 앨런 포 평전' 및 응용인지심리학(Applied Cognitive Psychology) 연구",
-      "en": "Jeffrey Meyers's 'Edgar Allan Poe: His Life and Legacy' & 'Applied Cognitive Psychology'",
-      "ja": "ジェフリー・マイヤーズ「エドガー・アラン・ポー評伝」および学術研究「Applied Cognitive Psychology」",
-      "zh": "迈耶斯《埃德加·爱伦·坡传》与《应用认知心理学(Applied Cognitive Psychology)》研究",
-      "es": "Edgar Allan Poe: His Life and Legacy de Jeffrey Meyers y estudio de Applied Cognitive Psychology",
-      "fr": "Edgar Allan Poe: His Life and Legacy de Jeffrey Meyers & étude de 'Applied Cognitive Psychology'",
-      "de": "Jeffrey Meyers' 'Edgar Allan Poe: His Life and Legacy' & Studie in 'Applied Cognitive Psychology'",
-      "pt": "Edgar Allan Poe: His Life and Legacy de Jeffrey Meyers & estudo de Applied Cognitive Psychology",
-      "id": "Edgar Allan Poe: His Life and Legacy oleh Jeffrey Meyers & Penelitian 'Applied Cognitive Psychology'"
+      "ko": "에드거 앨런 포 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "'까마귀'와 '검은 고양이' 등 기괴하고 서늘한 공포 문학의 선구자이자 근대 추리 소설의 창시자로 추앙받는 거장 에드거 앨런 포. 인간 내면의 심리적 불안과 완벽하게 짜인 논리적 미스터리를 자아냈던 그의 천재적인 원고는 과연 어떤 도구 위에서 탄생했을까요? 📜\n\n에드거 앨런 포는 서재에서 원고를 집필할 때 일반적인 사각형 낱장 원고지를 거의 사용하지 않았습니다. 그는 좁고 기다란 종이 리본 띠에 극도로 세밀하고 정갈하며 마치 인쇄물처럼 단정한 손글씨로 촘촘히 텍스트를 써 내려갔습니다. 그리고 종이 띠 한 장이 다 채워지면 끝부분에 풀이나 왁스를 칠해 다음 종이 띠를 연이어 붙였습니다. 집필이 진행될수록 그의 원고는 둥글게 감아 올리는 기다란 '두루마리(Scroll)' 형태가 되었습니다. 포는 이 기이할 정도로 좁고 긴 시각 정보의 공간에 집중할 때 비로소 뇌의 모든 감각이 하나의 복선과 흐름에 고도의 깊이로 수렴하는 경험을 고백한 바 있습니다.\n\n오늘 BuildSelf에서는 에드거 앨런 포의 '두루마리 집필' 루틴에 숨겨진 시각 피드백 조율 원리와, 집필 효율성을 높이기 위한 현대적 집중 모드 활용법을 배웁니다.",
-      "en": "Edgar Allan Poe, a giant who is revered as a pioneer of strange and cold gothic horror literature and the founder of detective fiction. On what kind of tools were his genius manuscripts, which created the psychological anxiety of the human inside and perfectly structured logical mysteries, born? 📜\n\nEdgar Allan Poe rarely used general rectangular sheets of paper when writing in his study. He wrote texts densely on narrow, long paper ribbons in extremely fine and neat handwriting. When one strip of paper was filled, he applied glue or wax to the end to paste the next strip of paper continuously. As the writing progressed, his manuscript became a long 'scroll' that was rolled up. Poe once confessed that when concentrating on this strange, narrow space of visual information, all senses of his brain converged to a single flow with deep focus.\n\nToday, BuildSelf learns the visual feedback tuning principles hidden in Edgar Allan Poe's 'scroll writing' routine, and how to use modern focus modes to improve writing efficiency.",
-      "ja": "「大鴉」や「黒猫」など、奇妙で冷徹な恐怖文学の先駆者であり、近代推理小説の創始者として崇められる巨匠エドガー・アラン・ポー。人間の内面的な心理的不安と、完璧に構築された論理的ミステリーを生み出した彼の天才的な原稿は、一体どのような道具の上で執筆されたのでしょうか。 📜\n\nエドガー・アラン・ポーは、書斎で原稿を執筆する際、一般的な四角い原稿用紙をほとんど使用しませんでした。彼は細くて長い紙の帯（リボン）に、極めて細かく整然とした、まるで印刷されたかのような端正な手書き文字でテキストをぎっしり書き込みました。そして紙の帯が一杯になると、端に糊やワックスを塗って次の紙の帯を繋ぎ合わせました。執筆が進むにつれて、彼の原稿は丸めて保管する長い「巻物（Scroll）」の形態になりました。ポーは、この奇妙なほど細長い視覚空間に没頭するとき、脳のすべての感覚が一つの伏線と物語の流れに向けて極めて高度に収束する経験を告白しています。\n\n今日のBuildSelfでは、エドガー・アラン・ポーの「巻物執筆」ルーティンに隠された視覚フィードバック制御の原理と、作業効率を高めるための現代的な集中モードの活用法を学びます。",
-      "zh": "在这一历史性惯例的实践中：'' ' ' . ? 📜 在这一历史性惯例的实践中： . . . '(Scroll)' . . 在这一历史性惯例的实践中： BuildSelf ' ' , .",
-      "es": "Edgar Allan Poe, el maestro de la intriga gótica creador de 'El cuervo' y 'El gato negro'. ¿Sobre qué tipo de soporte nacieron sus manuscritos, capaces de capturar la ansiedad humana con una lógica deductiva impecable? 📜\n\nEn su estudio, Poe apenas usaba folios rectangulares comunes. Escribía en cintas de papel estrechas y largas, con una letra diminuta y tan limpia que parecía impresa. Al terminar una tira, la pegaba a la siguiente con cola o cera. Conforme avanzaba el relato, el manuscrito se convertía en un largo 'pergamino (Scroll)' que iba enrollando. Poe confesó que este campo visual tan estrecho le permitía enfocar todos sus sentidos en la trama de forma obsesiva.\n\nHoy, BuildSelf desvela el mecanismo de enfoque visual del 'manuscrito en rollo' de Edgar Allan Poe y cómo usar los modos de foco de las apps para escribir con fluidez.",
-      "fr": "Edgar Allan Poe, pionnier de l'épouvante et inventeur du roman policier avec 'Le Corbeau' et 'Le Chat noir'. Sur quel support ses manuscrits de génie, qui explorent l'angoisse humaine et résolvent des énigmes logiques parfaites, ont-ils été rédigés ? 📜\n\nDans son bureau, Poe n'utilisait presque jamais de feuilles de papier ordinaires. Il écrivait sur de longues bandes de papier étroites, d'une écriture liliputienne et si régulière qu'elle semblait imprimée. Dès qu'une bande était pleine, il la collait à la suivante avec de la cire ou de la colle. Au fil de son travail, le manuscrit devenait un long 'rouleau (Scroll)' qu'il enroulait sur lui-même. Il a confié que ce format visuel très étroit lui permettait de focaliser son esprit sur un seul fil narratif.\n\nAujourd'hui, BuildSelf décrypte la concentration visuelle induite par ce 'manuscrit en rouleau' d'Edgar Allan Poe, et présente les fonctions logicielles de focus pour écrire sans entrave.",
-      "de": "Edgar Allan Poe, der Wegbereiter der Schauerliteratur und Begründer der Detektivgeschichte mit 'Der Rabe' und 'Die schwarze Katze'. Auf welchem Material entstanden seine Meisterwerke, die menschliche Abgründe und logische Rätsel verbinden? 📜\n\nEdgar Allan Poe nutzte fast nie normale Blätter. Er schrieb auf schmale Papierstreifen mit einer winzigen, gestochen scharfen Schrift. War ein Streifen voll, klebte er den nächsten mit Wachs an. So wurde das Manuskript zu einer langen Rolle. Poe gab an, dass dieser extrem schmale Blickbereich ihm half, alle Gedanken ohne Ablenkung auf die Logik der Handlung zu richten.\n\nHeute zeigt BuildSelf die Mechanismen hinter Poes Rollen-Routine und wie man moderne Fokussierungshilfen am Bildschirm für produktives Schreiben nutzt.",
-      "pt": "Edgar Allan Poe, o mestre do terror gótico criador de 'O Corvo' e 'O Gato Preto'. Sobre que suporte nasceram seus manuscritos capazes de projetar a ansiedade com lógica impecável? 📜\n\nEm seu gabinete, Poe raramente usava folhas comuns. Escrevia em tiras estreitas e longas, com letra minúscula e tão regular que parecia impressa. Ao fim de uma tira, colava a seguinte com cera. Conforme o texto crescia, o manuscrito tornava-se um longo 'pergaminho (Scroll)' que ia enrolando. Poe confessou que este foco visual tão estreito alinhava sua mente com a trama de forma obsessiva.\n\nHoje, o BuildSelf revela o mecanismo de foco visual do 'manuscrito em rolo' de Edgar Allan Poe e como usar os modos de foco digitais para escrever sem dispersão.",
-      "id": "Edgar Allan Poe, seorang raksasa yang dihormati sebagai pelopor sastra horor gotik dan pendiri fiksi detektif. Pada alat apa naskah jeniusnya, yang menciptakan kecemasan psikologis manusia dan misteri logis, lahir? 📜\n\nEdgar Allan Poe jarang menggunakan lembaran kertas persegi panjang umum saat menulis. Dia menulis teks secara padat pada pita kertas sempit dan panjang dengan tulisan tangan yang sangat halus. Ketika satu strip kertas terisi, dia menempelkan lembaran berikutnya. Seiring kemajuan penulisan, naskahnya menjadi 'gulungan' panjang. Poe mengaku bahwa ketika berkonsentrasi pada ruang informasi visual yang sempit ini, seluruh indra otaknya berkumpul menjadi satu aliran dengan fokus mendalam.\n\nHari ini, BuildSelf mempelajari prinsip umpan balik visual yang tersembunyi dalam rutinitas 'menulis gulungan' Edgar Allan Poe."
+      "ko": "'까마귀'와 '검은 고양이' 등 기괴하고 서늘한 공포 문학의 선구자이자 근대 추리 소설의 창시자로 추앙받는 거장 에드거 앨런 포. 인간 내면의 심리적 불안과 완벽하게 짜인 논리적 미스터리를 자아냈던 그의 천재적인 원고는 과연 어떤 도구 위에서 탄생했을까요? 📜\n\n에드거 앨런 포는 서재에서 원고를 집필할 때 일반적인 사각형 낱장 원고지를 거의 사용하지 않았습니다. 그는 좁고 기다란 종이 리본 띠에 극도로 세밀하고 정갈하며 마치 인쇄물처럼 단정한 손글씨로 촘촘히 텍스트를 써 내려갔습니다. 그리고 종이 띠 한 장이 다 채워지면 끝부분에 풀이나 왁스를 칠해 다음 종이 띠를 연이어 붙였습니다. 집필이 진행될수록 그의 원고는 둥글게 감아 올리는 기다란 '두루마리(Scroll)' 형태가 되었습니다. 포는 이 기이할 정도로 좁고 긴 시각 정보의 공간에 집중할 때 비로소 뇌의 모든 감각이 하나의 복선과 흐름에 고도의 깊이로 수렴하는 경험을 고백한 바 있습니다.\n\n오늘 포스트에서는 에드거 앨런 포의 '두루마리 집필' 루틴에 숨겨진 시각 피드백 조율 원리와, 집필 효율성을 높이기 위한 현대적 집중 모드 활용법을 배웁니다."
     },
     "whyTitle": {
-      "ko": "인지적 터널링과 자기 감시 회로 억제",
-      "en": "Cognitive Tunneling and Inhibition of Self-Monitoring Circuits",
-      "ja": "認知のトンネル化と自己監視回路の抑制",
-      "zh": "认知隧道化与抑制自我监控回路",
-      "es": "Túnel Cognitivo e Inhibición de Autocontrol",
-      "fr": "Tunnel Cognitif et Inhibition de l'Autocensure",
-      "de": "Tunnel-Fokus und Hemmung der Selbstkritik",
-      "pt": "Túnel Cognitivo e Inibição do Autocontrole",
-      "id": "Tunneling Kognitif dan Penghambatan Sirkuit Pemantauan Diri"
+      "ko": "인지적 터널링과 자기 감시 회로 억제"
     },
     "whyDesc": {
-      "ko": "시야 폭을 극도로 좁은 띠 형태로 제어하면 뇌의 불필요한 시선 탐색 추적(Saccadic movement)이 감소하여 전두엽의 시각 주의력 낭비가 획기적으로 차단됩니다. 뇌 과학에서는 이 상태를 시각 정보의 유입 폭을 강제 제한하여 몰입을 돕는 <strong>'인지적 터널링(Cognitive Tunneling)'</strong>이라고 칭합니다.\n\n동시에, 끝없이 아래로만 이어지는 물리적 스크롤 구조는 작가들이 흔히 겪는 파괴적 버릇, 즉 '방금 쓴 문장을 다시 읽고 고치려는 행동'을 억제합니다. 문장을 즉각 평가하려는 뇌의 <strong>'자기 감시(Self-monitoring)'</strong> 회로가 차단되면, 뇌는 정제되지 않은 잠재의식 속 생각의 유기적 흐름인 '자유 연상'을 방해받지 않고 끝까지 유지할 수 있게 되어 독창적이고 유창한 집필이 가능해집니다.",
-      "en": "Controlling the visual width in an extremely narrow band shape reduces the brain's unnecessary eye tracking (saccadic movement), dramatically blocking the waste of visual attention in the frontal lobe. Brain science calls this state <strong>'cognitive tunneling'</strong>, which aids concentration by forcibly limiting the input width of visual information.\n\nAt the same time, the physical scroll structure that endlessly leads downwards inhibits a destructive habit common to writers: 'rereading and correcting the sentence just written.' When the brain's <strong>'self-monitoring'</strong> circuit that evaluates sentences immediately is cut off, the brain can maintain 'free association', the organic flow of thoughts in the unrefined subconscious mind, until the end, enabling creative and fluent writing.",
-      "ja": "視野の幅を極めて狭い帯状にコントロールすると、脳の不要な視線追跡運動（Saccadic movement）が減少し、前頭葉の視覚的注意力の無駄遣いが劇的に遮断されます。脳科学ではこの状態を、視覚情報の入力幅を強制的に制限して没頭を助ける<strong>「認知的トンネル化（Cognitive Tunneling）」</strong>と呼びます。\n\n同時に、ただ下へと果てしなく続く物理的なスクロール構造は、物書きが陥りやすい破壊的な癖、すなわち「直前に書いた一文を読み直して修正しようとする行動」を抑制します。文章を即座に評価しようとする脳の<strong>「自己監視（Self-monitoring）」</strong>回路が遮断されると、脳は未精製の潜在意識にある思考の有機的な流れである「自由連想」を邪魔されることなく最後まで維持できるようになり、独創的で流暢な執筆が可能になります。",
-      "zh": "将视野控制在极窄的条带形状内，可以减少大脑不必要的眼球追踪运动（扫视运动），从而大幅阻断前额叶视觉注意力的浪费。在脑科学中，这种通过强制限制视觉信息输入宽度来辅助专注的状态被称为<strong>“认知隧道化(Cognitive Tunneling)”</strong>。\n\n同时，无尽向下延伸的物理卷轴结构，能有效抑制创作者们常见的破坏性坏习惯——“反复阅读并修改刚写好的句子”。当评估句子的脑部<strong>“自我监控(Self-monitoring)”</strong>回路被阻断后，大脑便能心无旁骛地将属于潜意识思维有机流动的“自由联想”保持到底，从而实现极具独创性且流畅的写作。",
-      "es": "Limitar el campo visual a una franja estrecha reduce los movimientos oculares sacádicos innecesarios, disminuyendo el esfuerzo del lóbulo frontal. En neurociencia esto se conoce como <strong>'túnel cognitivo (Cognitive Tunneling)'</strong>, y ayuda a fijar el foco bloqueando el ruido periférico.\n\nAdemás, el formato continuo en rollo evita un hábito destructivo al escribir: releer y corregir la última frase de inmediato. Al apagar este circuito de <strong>'autoevaluación (Self-monitoring)'</strong>, el cerebro da paso a la 'asociación libre', permitiendo que fluyan las ideas del subconsciente sin frenos, lo que aporta originalidad.",
-      "fr": "Limiter le champ visuel à une bande étroite réduit les mouvements oculaires saccadiques inutiles, allégeant l'effort du cortex préfrontal. En neurosciences, ce phénomène est appelé <strong>'tunnel cognitif (Cognitive Tunneling)'</strong> ; il favorise l'attention en bloquant les signaux périphériques.\n\nDe plus, le format en rouleau continu élimine le réflexe d'autocensure immédiat (relecture et correction de la phrase précédente). En mettant ce circuit d'<strong>'auto-évaluation (Self-monitoring)'</strong> en pause, le cerveau libère l'association libre, permettant aux idées du subconscient de jaillir sans filtre.",
-      "de": "Das Einengen des Sichtfelds auf einen schmalen Bereich reduziert unwillkürliche Augenbewegungen und schont die visuelle Aufmerksamkeit des Stirnhirns. In der Forschung wird dies als <strong>'kognitives Tunneln (Cognitive Tunneling)'</strong> bezeichnet, da Reize ausgeblendet werden.\n\nDas Schreiben auf einer Endlosrolle verhindert zudem das ständige Korrigieren des eben geschriebenen Satzes. Durch das Ausschalten dieser <strong>'Selbstkontrolle'</strong> kann das Gehirn Gedanken im freien Fluss ('freie Assoziation') flüssiger und kreativer formulieren.",
-      "pt": "Limitar o campo visual a uma faixa estreita reduz os movimentos oculares sacádicos desnecessários, diminuindo o esforço do lobo frontal. Na neurociência, isso é chamado de <strong>'túnel cognitivo (Cognitive Tunneling)'</strong>, e ajuda a manter o foco bloqueando o ruído visual periférico.\n\nAlém disso, o formato contínuo em pergaminho evita um hábito nocivo ao escrever: reler e corrigir a última linha escrita. Ao silenciar o circuito de <strong>'autocrítica (Self-monitoring)'</strong>, o cérebro liberta a associação livre do subconsciente, permitindo que as ideias fluam.",
-      "id": "Mengontrol lebar visual dalam bentuk pita sempit mengurangi pelacakan mata yang tidak perlu, secara dramatis memblokir pemborosan perhatian visual di lobus frontal. Sains otak menyebut kondisi ini sebagai <strong>'tunneling kognitif'</strong>.\n\nPada saat yang sama, struktur gulungan fisik menghambat kebiasaan merusak penulis: 'membaca ulang dan mengoreksi kalimat yang baru saja ditulis.' Ketika sirkuit <strong>'pemantauan diri'</strong> otak yang mengevaluasi kalimat dipotong, otak dapat mempertahankan aliran pikiran bawah sadar yang organik."
+      "ko": "시야 폭을 극도로 좁은 띠 형태로 제어하면 뇌의 불필요한 시선 탐색 추적(Saccadic movement)이 감소하여 전두엽의 시각 주의력 낭비가 획기적으로 차단됩니다. 뇌 과학에서는 이 상태를 시각 정보의 유입 폭을 강제 제한하여 몰입을 돕는 <strong>'인지적 터널링(Cognitive Tunneling)'</strong>이라고 칭합니다.\n\n동시에, 끝없이 아래로만 이어지는 물리적 스크롤 구조는 작가들이 흔히 겪는 파괴적 버릇, 즉 '방금 쓴 문장을 다시 읽고 고치려는 행동'을 억제합니다. 문장을 즉각 평가하려는 뇌의 <strong>'자기 감시(Self-monitoring)'</strong> 회로가 차단되면, 뇌는 정제되지 않은 잠재의식 속 생각의 유기적 흐름인 '자유 연상'을 방해받지 않고 끝까지 유지할 수 있게 되어 독창적이고 유창한 집필이 가능해집니다."
     },
     "cautionTitle": {
-      "ko": "자기 편집(Editing)과의 격리",
-      "en": "Isolation from Self-Editing",
-      "ja": "自己編集（Editing）との隔離",
-      "zh": "与自我修改（Editing）的隔离",
-      "es": "Separar la Creación de la Edición",
-      "fr": "Séparer Création et Édition",
-      "de": "Trennung von Schreiben und Korrektur",
-      "pt": "Separar a Criação da Edição",
-      "id": "Isolasi dari Penyuntingan Diri"
+      "ko": "자기 편집(Editing)과의 격리"
     },
     "cautionDesc": {
-      "ko": "글을 쓸 때 한 문장 단위로 고치는 버릇은 우뇌의 창의적 회로와 좌뇌의 비판적 회로를 끊임없이 충돌하게 만들어 뇌에 심각한 피로를 줍니다. 포가 스크롤을 끝없이 아래로 이어 쓴 것처럼, 집필 단계에서는 비판적인 편집 회로를 강제로 끄고 오직 아이디어를 쏟아내는 것에만 뇌 에너지를 사용한 뒤, 수정은 완전히 나중에 실행하는 것이 원칙입니다.",
-      "en": "Correcting sentence by sentence while writing causes the brain's creative right hemisphere and critical left hemisphere to constantly clash, causing severe brain fatigue. Just as Poe wrote scrolls continuously downwards, the rule is to force turn off the critical editing circuit during writing, use brain energy only for pouring out ideas, and execute correction completely later.",
-      "ja": "執筆時に一文単位で修正する癖は、右脳の創造的回路と左脳の批判的回路を絶えず衝突させ、脳に深刻な疲労を与えます。ポーが巻物を下へと繋ぎ続けたように、執筆段階では批判的な編集回路を強制的にオフにし、アイデアを吐き出すことだけに脳エネルギーを費やした後、校正は完全に後で行うのが鉄則です。",
-      "zh": "在写作时以句子为单位进行修改的习惯，会导致右脑的创意回路与左脑的批判回路不断发生冲突，给大脑带来严重的疲劳。就像坡将卷轴无尽向下拼接一样，原则是在写作阶段强制关闭批判性的修改回路，仅将脑力用于输出创意，修改工作则完全留到之后进行。",
-      "es": "Corregir frase a frase mientras escribe hace que el hemisferio derecho (creativo) y el izquierdo (analítico) choquen, provocando fatiga. Siga el ejemplo de Poe: apague el editor interno al crear, vuelque sus ideas y corrija todo en una fase posterior.",
-      "fr": "Corriger phrase par phrase fait entrer en conflit l'hémisphère droit (créatif) et l'hémisphère gauche (analytique), générant de la fatigue. Imitez Poe : désactivez le correcteur interne pour libérer les idées, et relisez-vous plus tard.",
-      "de": "Das Korrigieren Satz für Satz lässt die kreative rechte und die kritische linke Gehirnhälfte kollidieren, was ermüdet. Schalten Sie beim Entwerfen den inneren Zensor aus und korrigieren Sie erst im Nachgang.",
-      "pt": "Corrigir linha por linha enquanto escreve faz com que o hemisfério direito (criativo) e o esquerdo (analítico) colidam, gerando fadiga. Siga o exemplo de Poe: silencie o editor interno ao criar, jogue as ideias no papel e corrija depois.",
-      "id": "Mengoreksi kalimat demi kalimat saat menulis menyebabkan belahan otak kanan kreatif dan belahan otak kiri kritis terus-menerus berbenturan, menyebabkan kelelahan otak parah. Aturannya adalah matikan sirkuit kritis selama menulis."
+      "ko": "글을 쓸 때 한 문장 단위로 고치는 버릇은 우뇌의 창의적 회로와 좌뇌의 비판적 회로를 끊임없이 충돌하게 만들어 뇌에 심각한 피로를 줍니다. 포가 스크롤을 끝없이 아래로 이어 쓴 것처럼, 집필 단계에서는 비판적인 편집 회로를 강제로 끄고 오직 아이디어를 쏟아내는 것에만 뇌 에너지를 사용한 뒤, 수정은 완전히 나중에 실행하는 것이 원칙입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "집필 공간의 시각적 축소",
-          "en": "Visual Reduction of Writing Space",
-          "ja": "執筆空間の視覚的縮小",
-          "zh": "写作空间的视觉压缩",
-          "es": "Estrechar el Espacio de Escritura",
-          "fr": "Réduction Visuelle de l'Espace d'Écriture",
-          "de": "Visuelles Verkleinern des Arbeitsbereichs",
-          "pt": "Estreitar o Espaço de Escrita",
-          "id": "Pengurangan Visual Ruang Menulis"
+          "ko": "집필 공간의 시각적 축소"
         },
         "text": {
-          "ko": "모니터 화면에 불필요한 레이아웃을 모두 끄고 텍스트 에디터 창의 가로 폭을 최대한 좁게 조절하여 시선이 좌우로 흐트러지지 않게 터널처럼 고정합니다.",
-          "en": "Turn off all unnecessary layouts on the monitor screen and adjust the horizontal width of the text editor window as narrow as possible to fix your sight like a tunnel without scattering left and right.",
-          "ja": "モニター画面上の不要なレイアウトをすべて非表示にし、テキストエディタのウィンドウ幅をできる限り狭く調整して、視線が左右に逸れないようトンネルのように固定します。",
-          "zh": "关闭显示器屏幕上所有无用的布局，将文本编辑器窗口的宽度调节至极窄，使视线像进入隧道般固定，不向左右飘移。",
-          "es": "Oculte barras de herramientas en su pantalla y reduzca el ancho de la ventana del editor al mínimo, para que su vista se centre en un eje vertical estrecho.",
-          "fr": "Masquez les barres d'outils et réduisez la largeur de la fenêtre de votre éditeur au minimum, pour contraindre votre regard sur un axe vertical étroit.",
-          "de": "Blenden Sie alle Menüs aus und ziehen Sie das Textfenster sehr schmal, damit Ihr Blick wie in einem Tunnel auf dem Text fixiert bleibt.",
-          "pt": "Oculte as barras de ferramentas e reduza a largura da janela do editor ao mínimo, para manter sua vista centrada em um eixo vertical estreito.",
-          "id": "Matikan semua tata letak yang tidak perlu di layar monitor dan sesuaikan lebar horizontal jendela editor teks sesempit mungkin untuk membaiki pandangan Anda."
+          "ko": "모니터 화면에 불필요한 레이아웃을 모두 끄고 텍스트 에디터 창의 가로 폭을 최대한 좁게 조절하여 시선이 좌우로 흐트러지지 않게 터널처럼 고정합니다."
         }
       },
       {
         "name": {
-          "ko": "자기 비판 잠금 및 스크롤 고수",
-          "en": "Self-Criticism Lock and Scroll Adherence",
-          "ja": "自己批判ロックとスクロール維持",
-          "zh": "锁定自我批判并坚持单向书写",
-          "es": "Bloquear la Autocrítica y Seguir Escribiendo",
-          "fr": "Bloquer l'Autocensure et Écrire en Continu",
-          "de": "Selbstkritik ausschalten und Weiterschreiben",
-          "pt": "Bloquear a Autocrítica e Seguir Escrevendo",
-          "id": "Kunci Kritik Diri dan Kepatuhan Gulir"
+          "ko": "자기 비판 잠금 및 스크롤 고수"
         },
         "text": {
-          "ko": "초안 작성 도중 백스페이스를 누르거나 마우스로 이전 줄로 올라가는 행동을 의식적으로 차단합니다. 오직 앞으로만 타자를 치며 머릿속의 생각을 정제 없이 쏟아냅니다.",
-          "en": "Consciously block the action of pressing backspace or scrolling up to previous lines with the mouse during drafting. Type only forward, pouring out thoughts from your head without refinement.",
-          "ja": "下書きの作成中、バックスペースキーを押したり、マウスで前の行に戻ったりする行為を意識的に禁止します。ひたすら前へと文字を入力し、頭の中の考えを推敲せずに吐き出します。",
-          "zh": "有意识地禁止在草稿撰写阶段按下 Backspace 键或用鼠标移回前行。只管向前打字，将大脑中的想法不做过滤地倾泻出来。",
-          "es": "Durante el borrador, evite usar la tecla borrar o mover el cursor hacia atrás. Escriba solo hacia adelante, dejando que las ideas se plasmen tal como surgen.",
-          "fr": "Pendant le premier jet, interdisez-vous d'utiliser la touche effacer ou de remonter le curseur. Écrivez toujours vers l'avant, en laissant les idées venir.",
-          "de": "Vermeiden Sie beim Entwerfen das Löschen oder Zurückspringen im Text. Schreiben Sie nur vorwärts und lassen Sie die Gedanken fließen.",
-          "pt": "Durante o rascunho, evite usar a tecla apagar ou mover o cursor para trás. Escreva apenas para a frente, permitindo que os insights surjam livremente.",
-          "id": "Secara sadar hindari tindakan menekan backspace atau menggulir ke baris sebelumnya saat membuat draf. Ketik hanya ke depan, tuangkan pikiran tanpa penyaringan."
+          "ko": "초안 작성 도중 백스페이스를 누르거나 마우스로 이전 줄로 올라가는 행동을 의식적으로 차단합니다. 오직 앞으로만 타자를 치며 머릿속의 생각을 정제 없이 쏟아냅니다."
         }
       },
       {
         "name": {
-          "ko": "창작-편집 인지 모드 완벽 분리",
-          "en": "Complete Separation of Creation and Editing Cognitive Modes",
-          "ja": "創作・編集の認知モードの完全分離",
-          "zh": "创作-修改认知模式彻底分离",
-          "es": "Separación Total entre Creación y Edición",
-          "fr": "Séparation Absolue entre Création et Correction",
-          "de": "Strikte Trennung von Kreativ- und Korrekturmodus",
-          "pt": "Separação Total entre Criação e Edição",
-          "id": "Pemisahan Sempurna Mode Kognitif Kreasi dan Penyuntingan"
+          "ko": "창작-편집 인지 모드 완벽 분리"
         },
         "text": {
-          "ko": "글을 다 쓰고 스크롤 원고가 완성된 뒤에만 집필 모드를 끕니다. 약 10분의 휴식을 취한 후, 비판적 뇌를 켜고 낱장 원고를 검토하듯 오탈자와 비문, 문맥을 차분히 다듬어 나갑니다.",
-          "en": "Turn off writing mode only after the writing is finished and the scroll manuscript is complete. After taking a 10-minute break, turn on the critical brain and calmly refine typos, grammar, and context.",
-          "ja": "すべての文章を書き終え、巻物原稿が完成した後にのみ執筆モードをオフにします。約10分の休憩を挟んだ後、批判的な脳を作動させ、推敲するように誤字脱字や文章表現、文脈を冷静に整えていきます。",
-          "zh": "只有在文章写完、卷轴手稿完整呈现后，才关闭写作模式。休息约10分钟，然后启动理性大脑，如同审阅单页稿件般，平静地修正错别字、病句和语境。",
-          "es": "Solo al terminar el texto apague el modo de creación. Descanse 10 minutos y luego active su mente analítica para revisar la ortografía, el estilo y la coherencia.",
-          "fr": "Ne quittez le mode création qu'une fois le texte fini. Faites une pause de 10 minutes, puis activez votre esprit logique pour traquer les fautes et retravailler le style.",
-          "de": "Schalten Sie erst nach Abschluss des Entwurfs in den Korrekturmodus. Machen Sie 10 Minuten Pause und überarbeiten Sie dann Orthografie und Stil.",
-          "pt": "Apenas ao concluir o texto encerre o modo criativo. Descanse 10 minutos e ative a mente analítica para revisar gramática, estilo e coerência.",
-          "id": "Matikan mode menulis hanya setelah penulisan selesai dan naskah gulungan rampung. Setelah istirahat 10 menit, aktifkan otak kritis untuk menyempurnakan tulisan."
+          "ko": "글을 다 쓰고 스크롤 원고가 완성된 뒤에만 집필 모드를 끕니다. 약 10분의 휴식을 취한 후, 비판적 뇌를 켜고 낱장 원고를 검토하듯 오탈자와 비문, 문맥을 차분히 다듬어 나갑니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "에드거 앨런 포의 두루마리 원고가 오늘날에도 존재하나요?",
-          "en": "Does Edgar Allan Poe's scroll manuscript exist today?",
-          "ja": "エドガー・アラン・ポーの巻物原稿は今日でも存在しますか？",
-          "zh": "埃德加·爱伦·坡的卷轴手稿今天还存在吗？",
-          "es": "¿Se conservan hoy en día los manuscritos en rollo de Edgar Allan Poe?",
-          "fr": "Les manuscrits en rouleau d'Edgar Allan Poe existent-ils encore ?",
-          "de": "Gibt es Poes Rollen-Manuskripte heute noch?",
-          "pt": "Os manuscritos em pergaminho de Edgar Allan Poe ainda existem?",
-          "id": "Apakah naskah gulungan Edgar Allan Poe masih ada sampai sekarang?"
+          "ko": "에드거 앨런 포의 두루마리 원고가 오늘날에도 존재하나요?"
         },
         "answer": {
-          "ko": "네, 그가 쓴 일부 원고(예: '벨라 도나' 등의 비평이나 단편)들은 실제 그가 풀로 이어 붙인 좁은 두루마리 형태로 미국의 필라델피아 프리 라이브러리(Free Library of Philadelphia) 등 박물관에 보존되어 있습니다.",
-          "en": "Yes, some manuscripts he wrote (e.g., criticisms or short stories like 'Belladonna') are preserved in museums such as the Free Library of Philadelphia in the United States in the form of narrow scrolls he actually pasted together.",
-          "ja": "はい、彼が執筆した一部の原稿（例：「ベラドンナ」などの批評や短編）は、実際に彼が糊で繋ぎ合わせた細い巻物の形で、米国のフィラデルフィア・フリー・ライブラリー（Free Library of Philadelphia）などの博物館に保管されています。",
-          "zh": "是的，他撰写的部分手稿（例如评论或像《贝拉多娜》这样的短篇小说）至今仍以他用胶水拼接成的窄卷轴形式，保存在美国费城自由图书馆(Free Library of Philadelphia)等博物馆中。",
-          "es": "Sí, algunos manuscritos originales (como sus críticas literarias o el relato 'The Murders in the Rue Morgue') se conservan en formato de tira continua pegada por él mismo en la Biblioteca Libre de Filadelfia (Free Library of Philadelphia) y otros museos de EE. UU.",
-          "fr": "Oui, certains originaux (comme ses critiques ou nouvelles) sont conservés sous forme de bandes collées de sa main à la Free Library de Philadelphie et dans d'autres musées américains.",
-          "de": "Ja, einige Originalmanuskripte (wie Kritiken oder Kurzgeschichten) sind in Form der von ihm zusammengeklebten Rollen in Museen wie der Free Library of Philadelphia erhalten.",
-          "pt": "Sim, alguns manuscritos originais (como críticas ou contos) estão preservados em formato de tiras coladas por ele mesmo na Biblioteca Livre de Filadélfia (Free Library of Philadelphia) e outros museus dos EUA.",
-          "id": "Ya, beberapa naskah yang ditulisnya dilestarikan di museum-museum seperti Perpustakaan Bebas Philadelphia di Amerika Serikat dalam bentuk gulungan sempit."
+          "ko": "네, 그가 쓴 일부 원고(예: '벨라 도나' 등의 비평이나 단편)들은 실제 그가 풀로 이어 붙인 좁은 두루마리 형태로 미국의 필라델피아 프리 라이브러리(Free Library of Philadelphia) 등 박물관에 보존되어 있습니다."
         }
       },
       {
         "question": {
-          "ko": "디지털 화면에서 '글 고치기 버릇'을 막는 프로그램이 있나요?",
-          "en": "Are there programs that prevent the 'sentence-correcting habit' on digital screens?",
-          "ja": "デジタル画面で「文章修正の癖」を防ぐプログラムはありますか？",
-          "zh": "是否有能在数字屏幕上防止“边写边改习惯”的软件？",
-          "es": "¿Hay programas para evitar la manía de borrar y corregir al escribir en pantalla?",
-          "fr": "Existe-t-il des logiciels pour bloquer le réflexe de correction à l'écran ?",
-          "de": "Gibt es Programme, die das ständige Korrigieren am Bildschirm verhindern?",
-          "pt": "Existem programas para evitar a mania de apagar e corrigir ao digitar?",
-          "id": "Apakah ada program yang mencegah 'kebiasaan mengoreksi kalimat' di layar digital?"
+          "ko": "디지털 화면에서 '글 고치기 버릇'을 막는 프로그램이 있나요?"
         },
         "answer": {
-          "ko": "네, 입력 도중 백스페이스를 누르거나 멈추면 원고가 지워지기 시작하는 등 뒤로 돌아갈 수 없게 강제하는 초안 전문 앱(예: The Most Dangerous Writing App)이나 타자기 모드를 지원하는 에디터들이 효과적입니다.",
-          "en": "Yes, drafting apps (e.g., 'The Most Dangerous Writing App') that force you not to turn back by starting to erase the manuscript if you press backspace or stop typing, or editors that support typewriter modes, are effective.",
-          "ja": "はい、文字入力中にバックスペースを押したりキー入力を止めると原稿が消え始めるなど、後戻りできないよう強制する下書き専用アプリ（例：The Most Dangerous Writing App）や、タイプライターモードをサポートするエディタが効果的です。",
-          "zh": "是的，有一些专门撰写初稿的应用（例如“The Most Dangerous Writing App”），它们通过在打字停顿或按退格键时开始擦除手稿来强迫你无法回头，或者支持打字机模式的编辑器也十分有效。",
-          "es": "Sí, existen aplicaciones diseñadas para forzar el flujo continuo, como 'The Most Dangerous Writing App' (que borra lo escrito si se detiene o borra), o editores que simulan una máquina de escribir (Typewriter Mode) impidiendo editar líneas previas.",
-          "fr": "Oui, des applications comme 'The Most Dangerous Writing App' (qui efface le texte si vous vous arrêtez ou effacez) ou des éditeurs avec un mode machine à écrire (Typewriter Mode) bloquent l'édition des lignes précédentes.",
-          "de": "Ja, Schreib-Apps wie 'The Most Dangerous Writing App' (die den Text löscht, wenn man aufhört zu tippen) oder Editoren mit Schreibmaschinenmodus verhindern das Zurückspringen effektiv.",
-          "pt": "Sim, existem aplicativos para forçar a escrita contínua, como o 'The Most Dangerous Writing App' (que apaga o texto se você parar ou apagar), ou editores com modo máquina de escrever (Typewriter Mode).",
-          "id": "Ya, aplikasi draf (misalnya, 'The Most Dangerous Writing App') yang memaksa Anda untuk tidak berbalik arah dengan mulai menghapus naskah jika Anda berhenti mengetik sangat efektif."
+          "ko": "네, 입력 도중 백스페이스를 누르거나 멈추면 원고가 지워지기 시작하는 등 뒤로 돌아갈 수 없게 강제하는 초안 전문 앱(예: The Most Dangerous Writing App)이나 타자기 모드를 지원하는 에디터들이 효과적입니다."
         }
       }
-    ],
-    "stepImages": [
-      "",
-      "",
-      ""
-    ],
-    "pubDate": "2026-01-03",
-    "updatedDate": "2026-01-03"
+    ]
   }
 }

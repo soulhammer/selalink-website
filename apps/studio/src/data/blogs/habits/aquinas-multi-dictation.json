@@ -1,192 +1,62 @@
 {
   "aquinas-multi-dictation": {
     "title": {
-      "en": "Thomas Aquinas' Multi-Scribe Dictation: Expanding Working Memory and Cognitive Control",
-      "ko": "토마스 아퀴나스의 다중 구술법: 작업 기억력을 극대화하여 복잡한 난제를 정복하는 법",
-      "ja": "トマス・アクィナスの多重口述法：ワーキングメモリを極大化して複雑な難題を克服する方法",
-      "zh": "托马斯·阿奎那的多重口授法：极限扩张工作记忆与认知控制力",
-      "es": "La dictación múltiple de Tomás de Aquino: expandir la memoria de trabajo y el control cognitivo",
-      "fr": "La dictée multiple de Thomas d'Aquin : étendre la mémoire de travail et le contrôle cognitif",
-      "de": "Thomas von Aquins Diktat an mehrere Schreiber: Erweiterung des Arbeitsgedächtnisses",
-      "pt": "A ditado múltiplo de Tomás de Aquino: expandir a memória de trabalho e o controle cognitivo",
-      "id": "Metode Dikte Multi-Asisten Thomas Aquinas: Memaksimalkan Memori Kerja untuk Memecahkan Masalah Rumit"
+      "ko": "토마스 아퀴나스의 다중 구술법: 작업 기억력을 극대화하여 복잡한 난제를 정복하는 법"
     },
     "description": {
-      "en": "Learn how the medieval philosopher Thomas Aquinas composed the Summa Theologiae by dictating to multiple scribes simultaneously without losing logical flow.",
-      "ko": "중세의 위대한 신학자 토마스 아퀴나스가 동시에 3~4명의 비서에게 서로 다른 주제의 원고를 구술 대필하며, 논리적 맥락을 잃지 않고 작업 기억을 확장한 비결을 살펴봅니다.",
-      "ja": "中世の偉大な神学者トマス・アクィナスが、同時に3〜4人の秘書に異なるテーマの原稿を口述筆記させ、論理的な文脈を失わずにワーキングメモリを拡張した秘訣を探ります。",
-      "zh": "探索中世纪杰出哲学家托马斯·阿奎那如何通过同时向3-4位助手口授不同主题的书稿，在不丢失逻辑线索的前提下极限扩展工作记忆的秘诀。",
-      "es": "Descubra cómo el filósofo medieval Tomás de Aquino compuso la Summa Theologiae dictando a varios escribas a la vez sin perder el hilo lógico.",
-      "fr": "Découvrez comment le philosophe Thomas d'Aquin a rédigé la Somme théologique en dictant à plusieurs secrétaires à la fois sans perdre le fil.",
-      "de": "Erfahren Sie, wie der mittelalterliche Philosoph Thomas von Aquin die Summa Theologiae verfasste, indem er mehreren Schreibern gleichzeitig diktierte.",
-      "pt": "Descubra como o filósofo medieval Tomás de Aquino compôs a Summa Theologiae ditando para múltiplos escribas simultaneamente sem perder o fluxo lógico.",
-      "id": "Ketahui bagaimana filsuf abad pertengahan Thomas Aquinas menulis Summa Theologiae dengan mendiktekan tulisan ke beberapa asisten sekaligus."
+      "ko": "중세의 위대한 신학자 토마스 아퀴나스가 동시에 3~4명의 비서에게 서로 다른 주제의 원고를 구술 대필하며, 논리적 맥락을 잃지 않고 작업 기억을 확장한 비결을 살펴봅니다."
     },
     "authority": {
-      "en": "Bernard Gui, Life of Saint Thomas Aquinas / Working memory and context switching research in cognitive neuroscience",
-      "ko": "베르나르 귀 《성 토마스 아퀴나스의 생애》 / 작업 기억(Working Memory) 용량 확장 및 고속 컨텍스트 전환에 관한 인지신경과학 연구",
-      "ja": "ベルナール・ギ『聖トマス・アクィナスの生涯』 / ワーキングメモリ（Working Memory）容量拡張および高速コンテキスト切り替えに関する認知神経科学研究",
-      "zh": "贝尔纳·吉《圣托马斯·阿奎那传》 / 关于工作记忆（Working Memory）容量扩张及高速任务切换的认知神经科学研究",
-      "es": "Bernard Gui, Vida de Santo Tomás de Aquino / Investigación en neurociencia cognitiva sobre la memoria de trabajo y el cambio de contexto",
-      "fr": "Bernard Gui, Vie de Saint Thomas d'Aquin / Recherche en neurosciences cognitives sur la mémoire de travail et le changement de contexte",
-      "de": "Bernard Gui, Das Leben des Heiligen Thomas von Aquin / Forschung zum Arbeitsgedächtnis und Kontextwechsel",
-      "pt": "Bernard Gui, Vida de Santo Tomás de Aquino / Pesquisa em neurociência cognitiva sobre memória de trabalho e alternância de contexto",
-      "id": "Bernard Gui, Life of Saint Thomas Aquinas / Studi neurosains kognitif tentang kapasitas memori kerja (Working Memory) dan peralihan fokus cepat"
+      "ko": "Aquinas Multi Dictation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "en": "\"Reason is the handmaid of faith, and intellect is its sword.\" Thomas Aquinas, the towering figure of medieval scholasticism, possessed a mind that worked faster than he could write. To capture his thoughts, he dictated his massive Summa Theologiae to multiple scribes at once. He walked around his room, directing one scribe on a point of theology, then immediately turning to another on a point of physics, without losing his train of thought.",
-      "ko": "\"신앙과 이성은 결코 충돌하지 않으며, 이성은 신앙을 증명하는 강력한 무기다.\" 중세 스콜라 철학의 거장 토마스 아퀴나스는 생각의 전개 속도가 집필 속도를 아득히 뛰어넘었습니다. 그는 머릿속 아이디어를 온전히 기록하기 위해, 여러 명의 비서를 대동하여 동시 구술 대필을 진행했습니다. 방 안을 거닐며 한 비서에게 신학적 가설을 읊조리다가, 멈춤 없이 즉각 다음 비서로 전환하여 물리적 논증을 정확히 이어 나갔습니다.",
-      "ja": "この歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持持続可能な深い集中力を養うことができます。",
-      "zh": "通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
-      "es": "\"La razón es la sirvienta de la fe, y el intelecto es su espada.\" Tomás de Aquino, la figura más destacada de la escolástica medieval, tenía una mente tan rápida que sus manos no podían seguirla. Para plasmar sus ideas, dictaba su Summa Theologiae a varios escribas al mismo tiempo, moviéndose de un tema a otro sin perder el hilo de sus pensamientos.",
-      "fr": "\"La raison est la servante de la fe, et l'intellect son épée.\" Thomas d'Aquin, figure de la scolastique médiévale, possédait un esprit plus rapide que sa plume. Pour capturer ses pensées, il dictait sa Somme théologique à plusieurs secrétaires à la fois, passant d'un sujet à un autre sans jamais perdre le fil.",
-      "de": "\"Die Vernunft ist die Dienerin des Glaubens, und der Intellekt ist sein Schwert.\" Thomas von Aquin, die überragende Gestalt der mittelalterlichen Scholastik, besaß einen Geist, der schneller arbeitete, als er schreiben konnte. Um seine Gedanken festzuhalten, diktierte er seine Summa Theologiae mehreren Schreibern gleichzeitig.",
-      "pt": "\"A razão é a serva da fé, e o intelecto é sua espada.\" Tomás de Aquino, a figura mais importante da escolástica medieval, possuía uma mente tão rápida que não conseguia escrever no mesmo ritmo. Para registrar suas ideias, ditava sua Summa Theologiae para vários escribas ao mesmo tempo, alternando temas sem perder o fluxo.",
-      "id": "\"Nalar adalah pelayan iman, dan intelek adalah pedangnya.\" Thomas Aquinas, tokoh skolastisisme abad pertengahan yang terkemuka, memiliki kecepatan berpikir yang melampaui kemampuan tangannya menulis. Ia mendiktekan buku besarnya Summa Theologiae ke beberapa asisten sekaligus, berjalan mondar-mandir beralih dari satu asisten ke asisten lain tanpa kehilangan alur berpikir."
+      "ko": "\"이성 없는 신앙은 맹목이고, 신앙 없는 이성은 무기력하다.\" 📜\n\n중세 스콜라 철학의 거장 토마스 아퀴나스는 생각의 전개 속도가 집필 속도를 아득히 뛰어넘었습니다. 그는 머릿속 아이디어를 온전히 기록하기 위해, 여러 명의 비서를 대동하여 동시 구술 대필을 진행했습니다. 방 안을 거닐며 한 비서에게 신학적 가설을 읊조리다가, 멈춤 없이 즉각 다음 비서로 전환하여 물리적 논증을 정확히 이어 나갔습니다.\n\n동시에 -명의 서로 다른 주제의 논문 작성을 동시에 이끌었던 이 놀라운 지적 집중 방식은 현대 인지신경과학의 관점에서도 뇌의 최상위 집행 통제 시스템이 어떻게 작동하는지를 보여주는 가장 모범적인 예입니다."
     },
     "whyTitle": {
-      "en": "The Neurobiology of Working Memory Partitioning",
-      "ko": "작업 기억 파티셔닝의 두뇌 인지 과학적 원리",
-      "ja": "ワーキングメモリ・パーティショニングの脳認知科学的原理",
-      "zh": "工作记忆分区化的大脑认知科学原理",
-      "es": "La neurobiología de la partición de la memoria de trabajo",
-      "fr": "La neurobiologie de la division de la mémoire de travail",
-      "de": "Die Neurobiologie der Partitionierung des Arbeitsgedächtnisses",
-      "pt": "A neurobiologia da partição da memória de trabalho",
-      "id": "Sains Kognitif di Balik Pengelompokan Memori Kerja"
+      "ko": "작업 기억 파티셔닝의 두뇌 인지 과학적 원리"
     },
     "whyDesc": {
-      "en": "Handling multiple complex tasks simultaneously usually causes cognitive interference and high context switching costs. However, Thomas Aquinas managed this through 'working memory partitioning.' By utilizing the central executive system of the prefrontal cortex, he maintained active memory nodes for each project in separate sub-compartments, allowing him to jump between tasks without draining his neural capacity or mixing up concepts.",
-      "ko": "동시에 여러 개의 추상적 과업을 조율하는 행위는 보통 대뇌에 극심한 정보 간섭(Interference)과 인지 전환 비용을 발생시킵니다. 하지만 토마스 아퀴나스는 이를 '작업 기억 파티셔닝(Working Memory Partitioning)'으로 극복했습니다. 전전두엽 피질의 중앙 집행계(Central Executive System)를 고도로 훈련시켜, 각 프로젝트의 지식 노드를 별도의 구획에 활성화 상태로 유지했습니다. 이를 통해 컨텍스트를 빠르게 전환하면서도 인지 자원이 고갈되거나 정보가 혼선되지 않도록 방어했습니다.",
-      "ja": "同時に複数の抽象的なタスクを制御する行為は、通常、大脳に極めて激しい情報干渉（Interference）と認知切り替えコストを引き起こします。しかし、トマス・アクィナスはこれを「ワーキングメモリ・パーティショニング（Working Memory Partitioning）」で克服しました。前頭前野の中央実行系（Central Executive System）を高度にトレーニングし、各プロジェクトの知識ノードを別個のコンパートメントに活性化状態で保持したのです。これにより、コンテキストを迅速に切り替えながらも、認知リソースが枯渇したり情報が混同したりするのを防ぎました。",
-      "zh": "同时调度多个抽象任务通常会导致大脑内部极强的“信息干扰”与极高的切换成本。然而，托马斯·阿奎那通过“工作记忆分区化（Working Memory Partitioning）”克服了这一瓶颈。他极高地锻炼了前额叶皮层的中央执行系统（Central Executive System），将每个课题的知识节点独立激活并留存在不同分区中。这使他能够在高速任务切换中，避免认知资源的枯竭以及概念的混淆。",
-      "es": "Manejar múltiples tareas complejas al mismo tiempo suele provocar interferencia cognitiva y altos costos de cambio de contexto. Sin embargo, Tomás de Aquino lo lograba mediante la 'partición de la memoria de trabajo'. Al utilizar el sistema ejecutivo central de la corteza prefrontal, mantenía nodos de memoria activos en compartimentos separados, evitando mezclar conceptos.",
-      "fr": "Gérer plusieurs tâches complexes à la fois provoque généralement des interférences cognitives et des coûts de changement de contexte élevés. Cependant, Thomas d'Aquin gérait cela grâce à la 'division de la mémoire de travail'. En utilisant le système exécutif central du cortex préfrontal, il gardait actives des zones de mémoire distinctes.",
-      "de": "Die gleichzeitige Bewältigung mehrerer Aufgaben verursacht normalerweise kognitive Interferenzen. Thomas von Aquin bewältigte dies jedoch durch die \"Partitionierung des Arbeitsgedächtnisses\". Unter Nutzung des zentralen exekutiven Systems des präfrontalen Kortex hielt er Gedächtnisknoten in separaten Bereichen aktiv.",
-      "pt": "Gerenciar múltiplas tarefas complexas ao mesmo tempo costuma causar interferência cognitiva e altos custos de alternância de contexto. No entanto, Tomás de Aquino conseguia isso através da 'partição da memória de trabalho'. Ao utilizar o sistema executivo central do córtex pré-frontal, mantinha os nós de memória ativos em partições separadas.",
-      "id": "Menangani beberapa tugas rumit secara bersamaan biasanya memicu interferensi kognitif dan biaya peralihan fokus yang besar. Thomas Aquinas mengatasinya lewat pengelompokan memori kerja (working memory partitioning) dengan mengaktifkan pusat kendali eksekutif di korteks prefrontal untuk memisah-misah ingatan aktif."
+      "ko": "동시에 여러 개의 추상적 과업을 조율하는 행위는 보통 대뇌에 극심한 정보 간섭(Interference)과 인지 전환 비용을 발생시킵니다. 하지만 토마스 아퀴나스는 이를 '작업 기억 파티셔닝(Working Memory Partitioning)'으로 극복했습니다. 전전두엽 피질의 중앙 집행계(Central Executive System)를 고도로 훈련시켜, 각 프로젝트의 지식 노드를 별도의 구획에 활성화 상태로 유지했습니다. 이를 통해 컨텍스트를 빠르게 전환하면서도 인지 자원이 고갈되거나 정보가 혼선되지 않도록 방어했습니다."
     },
     "cautionTitle": {
-      "en": "Avoid Mindless Multitasking",
-      "ko": "비생산적 멀티태스킹 경계하기",
-      "ja": "非生産的なマルチタスクの警戒",
-      "zh": "警惕无效率的低水平多任务处理",
-      "es": "Evitar la multitarea ineficaz",
-      "fr": "Éviter le multitâche inefficace",
-      "de": "Vermeiden Sie ineffizientes Multitasking",
-      "pt": "Evitar a multitarefa ineficaz",
-      "id": "Hindari Multitasking yang Tidak Produktif"
+      "ko": "비생산적 멀티태스킹 경계하기"
     },
     "cautionDesc": {
-      "en": "Do not confuse this method with modern distracted multitasking (like checking emails while coding). Distracted multitasking divides attention shallowly, lowering productivity. Aquinas' method involves sequentially executing high-focus tasks by partitioning them, meaning you focus 100% on one topic before cleanly shifting to 100% on another.",
-      "ko": "이 습관을 현대의 산만하게 주의가 분산되는 멀티태스킹(예: 이메일을 읽으며 코딩하기)과 혼동해서는 안 됩니다. 단순 주의 분산은 작업 품질과 속도를 대폭 떨어뜨립니다. 아퀴나스의 방식은 높은 집중도 상태의 단일 업무들을 파티션을 나누어 순차적으로 실행(Sequential Execution)하는 방식입니다. 즉, 한 대상을 처리할 때는 오직 100%의 두뇌 자원을 쏟아야 합니다.",
-      "ja": "この習慣を、現代の注意力が散漫になるマルチタスク（例：Eメールを読みながらコーディングする）と混同してはなりません。単純な注意散漫は、作業の品質と速度を著しく低下させます。アクィナスの方式は、高い集中状態にある個別の業務をパーティションに分け、順次実行（Sequential Execution）する方式です。つまり、一つの対象を処理するときは、100％の脳のリソースを注がなければなりません。",
-      "zh": "请千万不要将这种训练与现代人注意力分散的“多任务切换”（例如边写代码边查收邮件）相混淆。普通的注意力分散会急剧拉低工作的质量与速率。阿奎那的模式是“分区顺序执行”高专注度的独立工作。也就是说，在处理某一个具体问题时，你依然必须倾注100%的大脑精力，然后清晰地转换到下一个课题的100%状态。",
-      "es": "No confunda este método con la multitarea distraída moderna (como responder correos mientras programa). Eso divide la atención y baja la productividad. El método de Aquino implica ejecutar de forma secuencial tareas de alta concentración, dedicando el 100% de atención a un tema antes de cambiar al 100% del siguiente.",
-      "fr": "Ne confondez pas cette méthode avec le multitâche distrait moderne (comme répondre à ses e-mails en codant). Cela divise l'attention et baisse la productivité. La méthode d'Aquin consiste à exécuter de manière séquentielle des tâches de haute concentration, en y consacrant 100 % d'attention avant de changer.",
-      "de": "Verwechseln Sie dies nicht mit modernem, ablenkendem Multitasking (wie E-Mails schreiben beim Codieren). Dies senkt die Produktivität. Aquins Methode beinhaltet das nacheinander ausgeführte, hochkonzentrierte Abarbeiten von Aufgaben durch klare Partitionierung.",
-      "pt": "Não confunda este método com a multitarefa distraída moderna (como ler e-mails enquanto programa). Isso divide a atenção e reduz a produtividade. O método de Aquino envolve executar sequencialmente tarefas de alta concentração, dedicando 100% de atenção a um tema antes de mudar para 100% do próximo.",
-      "id": "Jangan samakan metode ini dengan multitasking yang mengganggu fokus (seperti membalas email saat menulis kode). Multitasking jenis itu memecah konsentrasi dan menurunkan kualitas kerja. Metode Aquinas melibatkan eksekusi tugas berfokus tinggi secara berurutan dengan menyekat-nyekat alurnya."
+      "ko": "이 습관을 현대의 산만하게 주의가 분산되는 멀티태스킹(예: 이메일을 읽으며 코딩하기)과 혼동해서는 안 됩니다. 단순 주의 분산은 작업 품질과 속도를 대폭 떨어뜨립니다. 아퀴나스의 방식은 높은 집중도 상태의 단일 업무들을 파티션을 나누어 순차적으로 실행(Sequential Execution)하는 방식입니다. 즉, 한 대상을 처리할 때는 오직 100%의 두뇌 자원을 쏟아야 합니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Define High-Value Projects",
-          "ko": "1단계: 병렬적으로 몰두할 2개의 업무 정의하기",
-          "ja": "ステップ1：並行して没頭する2つの業務の定義",
-          "zh": "第一步：明确需要并行推进的两个课题",
-          "es": "Definir dos proyectos de alto valor",
-          "fr": "Définir deux projets de haute importance",
-          "de": "Definieren Sie zwei wichtige Projekte",
-          "pt": "Definir dois projetos de alto valor",
-          "id": "Langkah 1: Tentukan 2 Pekerjaan Utama"
+          "ko": "1단계: 병렬적으로 몰두할 2개의 업무 정의하기"
         },
         "text": {
-          "en": "Select 2 distinct, complex tasks you need to solve. Do not combine more than 3, as the human working memory starts experiencing excessive interference past that point.",
-          "ko": "현재 심층적인 사고가 필요한 서로 다른 프로젝트 2~3개를 선별합니다. 4개 이상의 주제는 전전두엽의 정보 수용 한계를 초과하여 인지 간섭을 일으키므로 대상의 개수를 제한하는 것이 좋습니다.",
-          "ja": "現在、深層的な思考が必要な異なる2〜3個のプロジェクトを選別します。4個以上のテーマは前頭前野の情報受容限界を超えて情報干渉を引き起こすため、対象の数を制限することが望ましいです。",
-          "zh": "筛选出当前需要深入思考的2-3个不同的项目课题。由于4个以上的主题会超出前额叶皮层的信息承载极限并引发严重的逻辑干扰，因此最好限制任务的数量。",
-          "es": "Seleccione 2 tareas complejas y diferentes a resolver. No intente combinar más de 3, ya que la memoria de trabajo experimentará interferencias excesivas a partir de ese punto.",
-          "fr": "Sélectionnez 2 tâches complexes à résoudre. N'essayez pas d'en combiner plus de 3, car la mémoire de travail subirait trop d'interférences au-delà.",
-          "de": "Wählen Sie zwei verschiedene, komplexe Aufgaben aus. Kombinieren Sie nicht mehr als drei, da das Arbeitsgedächtnis ab diesem Punkt an seine Grenzen stößt.",
-          "pt": "Selecione 2 tarefas complexas e distintas para resolver. Não tente combinar mais do que 3, pois a memória de trabalho experimentará interferências excessivas a partir daí.",
-          "id": "Pilih 2-3 tugas utama yang membutuhkan konsentrasi tinggi. Batasi jumlahnya karena memproses lebih dari 3 tugas sekaligus akan memicu interferensi kognitif berlebih."
+          "ko": "현재 심층적인 사고가 필요한 서로 다른 프로젝트 2~3개를 선별합니다. 4개 이상의 주제는 전전두엽의 정보 수용 한계를 초과하여 인지 간섭을 일으키므로 대상의 개수를 제한하는 것이 좋습니다."
         }
       },
       {
         "name": {
-          "en": "Commit with Time Blocking",
-          "ko": "2단계: 타임 블록 동안 한 업무에만 집중하기",
-          "ja": "ステップ2：タイムブロックの間、一つの業務のみに集中する",
-          "zh": "第二步：在特定时间块内孤注一掷于单一项目",
-          "es": "Dedicar un bloque de tiempo exclusivo",
-          "fr": "Consacrer un bloc de temps exclusif",
-          "de": "Nutzen Sie klare Zeitblöcke",
-          "pt": "Dedicar um bloco de tempo exclusivo",
-          "id": "Langkah 2: Gunakan Blok Waktu untuk Berfokus Tunggal"
+          "ko": "2단계: 타임 블록 동안 한 업무에만 집중하기"
         },
         "text": {
-          "en": "Allocate 15-20 minutes to the first project. Focus 100% of your cognitive energy on this single task. Refrain from checking any other inputs during this block.",
-          "ko": "첫 번째 프로젝트 메모를 활성화하고 15~20분의 타임 블록 동안 오직 이 업무에만 집중하여 아이디어나 내용을 손으로 적거나 입력합니다. 중간에 주의를 빼앗기는 모든 알림을 꺼야 합니다.",
-          "ja": "最初のプロジェクトメモを有効にし、15〜20分のタイムブロックの間、この業務だけに集中してアイデアや内容を手で書くか入力します。途中で注意を削がれるすべての通知を切る必要があります。",
-          "zh": "打开第一个项目的草稿，在15-20分钟的时间块内，全身心地投入这一项工作中，记录或录下你的想法。在此期间必须屏蔽所有可能干扰注意力的电子提示音。",
-          "es": "Dedique entre 15 y 20 minutos al primer proyecto. Concentre el 100% de su energía en esa única tarea, evitando mirar cualquier otro estímulo.",
-          "fr": "Consacrez 15 à 20 minutes au premier projet. Concentrez 100 % de votre énergie sur cette seule tâche, en évitant toute autre distraction.",
-          "de": "Widmen Sie dem ersten Projekt 15-20 Minuten. Konzentrieren Sie sich zu 100 % auf diese Aufgabe und vermeiden Sie jegliche Ablenkung.",
-          "pt": "Dedique entre 15 e 20 minutos ao primeiro projeto. Concentre 100% de sua energia nessa única tarefa, evitando olhar para qualquer outro estímulo.",
-          "id": "Alokasikan waktu 15-20 menit untuk proyek pertama. Curahkan 100% energi kognitif Anda pada tugas tunggal ini tanpa gangguan notifikasi lain."
+          "ko": "첫 번째 프로젝트 메모를 활성화하고 15~20분의 타임 블록 동안 오직 이 업무에만 집중하여 아이디어나 내용을 손으로 적거나 입력합니다. 중간에 주의를 빼앗기는 모든 알림을 꺼야 합니다."
         }
       },
       {
         "name": {
-          "en": "Perform a Clean Context Shift",
-          "ko": "3단계: 뇌를 리셋하듯 다른 업무로 전환하기",
-          "ja": "ステップ3：脳をリセットするように別の業務に切り替える",
-          "zh": "第三步：如同清空缓存般干脆转换至下个课题",
-          "es": "Hacer un cambio limpio de contexto",
-          "fr": "Faire un changement propre de contexte",
-          "de": "Führen Sie einen sauberen Kontextwechsel durch",
-          "pt": "Fazer uma mudança limpa de contexto",
-          "id": "Langkah 3: Lakukan Peralihan Fokus Secara Bersih"
+          "ko": "3단계: 뇌를 리셋하듯 다른 업무로 전환하기"
         },
         "text": {
-          "en": "When the block ends, close the first file and open the second. Take 3 deep breaths to flush the immediate working memory, then dive with 100% focus into the second task without looking back.",
-          "ko": "시간이 종료되면 즉시 첫 번째 작업을 닫고 두 번째 작업을 엽니다. 깊은 호흡을 세 번 하며 이전 생각이 뇌에 잔상으로 남지 않도록 버퍼를 비운 뒤, 100%의 집중력으로 두 번째 과업을 수행합니다.",
-          "ja": "時間が終了したら直ちに最初のタスクを閉じ、二番目のタスクを開きます。深呼吸を三回行い、前の思考が脳に残り火として残らないようバッファをクリアにした後、100％の集中力で二番目のタスクに取り組みます。",
-          "zh": "当预设的时长截止，立刻关掉当前的文件并点开第二个项目。做三次深呼吸，彻底清空前一个项目在大脑中留下的工作缓存，接着倾注100%的专注力进入下一项任务，绝不瞻前顾后。",
-          "es": "Al finalizar el bloque, cierre el primer archivo y abra el segundo. Respire hondo tres veces para vaciar la memoria de trabajo activa y comience con el 100% de atención en el segundo proyecto.",
-          "fr": "À la fin du bloc, fermez le premier projet et ouvrez le second. Respirez profondément trois fois pour vider la mémoire de travail active et plongez à 100 % dans le second projet.",
-          "de": "Schließen Sie nach Ablauf der Zeit die erste Datei und öffnen Sie die zweite. Atmen Sie dreimal tief durch, um das Arbeitsgedächtnis zu leeren, und starten Sie fokussiert.",
-          "pt": "Ao finalizar o bloco, feche o primeiro arquivo e abra o segundo. Respire fundo três vezes para esvaziar a memória ativa e inicie com 100% de atenção na segunda tarefa.",
-          "id": "Begitu waktu habis, segera tutup file pertama dan buka file kedua. Tarik napas dalam-dalam 3 kali untuk membersihkan memori kerja aktif, lalu fokuslah 100% pada proyek kedua."
+          "ko": "시간이 종료되면 즉시 첫 번째 작업을 닫고 두 번째 작업을 엽니다. 깊은 호흡을 세 번 하며 이전 생각이 뇌에 잔상으로 남지 않도록 버퍼를 비운 뒤, 100%의 집중력으로 두 번째 과업을 수행합니다."
         }
       }
     ],
-    "pubDate": "2026-03-09",
-    "updatedDate": "2026-03-09",
     "faqs": [
       {
         "question": {
-          "ko": "이 습관을 매일 실천해야 하나요?",
-          "en": "Should I practice this habit daily?",
-          "ja": "この習慣を毎日実践すべきですか？",
-          "zh": "建议每天实践这一习惯吗？",
-          "es": "¿Debo practicar este hábito a diario?",
-          "fr": "Dois-je pratiquer cette habitude tous les jours ?",
-          "de": "Sollte ich diese Gewohnheit täglich praktizieren?",
-          "pt": "Devo praticar este hábito diariamente?",
-          "id": "Apakah saya harus mempraktikkan kebiasaan ini setiap hari?"
+          "ko": "이 습관을 매일 실천해야 하나요?"
         },
         "answer": {
-          "ko": "네, 매일 일정한 시간에 실천할 때 뇌의 신경 가소성이 극대화됩니다.",
-          "en": "Yes, practicing at a set time daily maximizes brain neuroplasticity.",
-          "ja": "はい、毎日決まった時間に実践することで脳の神経可塑性が極大化します。",
-          "zh": "是的，在每天固定时间实践能最大化大脑的神经可塑性。",
-          "es": "Sí, practicar a una hora fija diariamente maximiza la neuroplasticidad cerebral.",
-          "fr": "Oui, pratiquer à une heure fixe chaque jour maximise la neuroplasticité cérébrale.",
-          "de": "Ja, tägliche Praxis zur gleichen Zeit maximiert die Neuroplastizität.",
-          "pt": "Sim, praticar a uma hora fixa diariamente maximiza a neuroplasticidade.",
-          "id": "Ya, berlatih pada waktu yang sama setiap hari memaksimalkan neuroplastisitas."
+          "ko": "네, 매일 일정한 시간에 실천할 때 뇌의 신경 가소성이 극대화됩니다. 일정한 시각과 장소에서 매일 지속적으로 실행하여 뇌의 신경 가소성(Neuroplasticity) 회로를 강화하는 것이 가장 확실한 성공 열쇠입니다."
         }
       }
     ]

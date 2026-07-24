@@ -15,28 +15,23 @@ faqs:
   - question: "Les escaliers de sécurité empêchent-ils complètement la luxation rotulienne ?"
     answer: "Bien que les escaliers réduisent l'impact, les sols glissants et les poils des pattes jouent un rôle majeur. Il faut couper les poils des coussinets et poser des tapis antidérapants."
 ---
-
-Le bichon maltais, avec son pelage blanc et soyeux et ses trois points noirs (les yeux et la truffe), est un chien de compagnie adoré dans le monde entier. Bien que vif et affectueux, il exprime clairement ses limites, ce qui lui vaut une réputation de chien fougueux. 🐕
-
-Cependant, les propriétaires de bichons maltais s'inquiètent souvent de deux problèmes génétiques : la luxation de la rotule (rotules disloquées) et les taches de larmes (oxydation des larmes), qui provoquent des traces rouges et de potentielles infections cutanées. Des ajustements quotidiens du mode de vie sont cruciaux pour gérer ces conditions.
-
-Aujourd'hui, PetSelf étudie le langage corporel du bichon maltais et présente une routine de soins quotidiens sécurisée en 3 étapes pour protéger ses articulations et ses yeux.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Preuves Vétérinaires et Comportementales
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Guide officiel des races de l'American Kennel Club (AKC) et protocoles comportementaux de l'IAABC</strong>.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Bichon maltais Profil principal
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 ans</span></div>
@@ -47,7 +42,7 @@ Aujourd'hui, PetSelf étudie le langage corporel du bichon maltais et présente 
 
 ## 1. Langage corporel du bichon maltais : signaux de stress et de confort
 
-En tant que chiens très dépendants de leurs maîtres, les bichons maltais montrent silencieusement leur état psychologique par des gestes corporels. Les signaux d'apaisement typiques incluent le fait de se lécher la truffe et de bâiller. Face à un environnement tendu ou inconnu, se lécher la truffe ou bâiller n'est pas dû à la fatigue ; c'est un message pacifique pour se calmer et demander aux autres de ne pas les menacer. Si les maîtres continuent le contact, leur stress augmente. Il est préférable de prendre du recul.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -81,7 +76,7 @@ En tant que chiens très dépendants de leurs maîtres, les bichons maltais mont
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Contrôle anti-glisse et étirements des articulations</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Vérifiez que les tapis de protection sont bien en place. Lors des étirements du matin, massez doucement les articulations arrière. Veillez à couper les poils sous les pattes.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -91,7 +86,7 @@ En tant que chiens très dépendants de leurs maîtres, les bichons maltais mont
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi : Hygiène oculaire et brossage ciblé</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Une fois par jour, peignez le contour des yeux avec un peigne fin et une lotion adaptée. Les poils humides favorisent les traces rouges et les infections ; séchez avec un coton.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -101,7 +96,7 @@ En tant que chiens très dépendants de leurs maîtres, les bichons maltais mont
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir : Supplément articulaire et désensibilisation des pattes</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Donnez les compléments pour les articulations. Touchez doucement ses pattes et récompensez-le aussitôt. Cela évite les réactions agressives lors de la coupe des griffes.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -110,7 +105,7 @@ En tant que chiens très dépendants de leurs maîtres, les bichons maltais mont
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </div>
 </div>
@@ -128,7 +123,7 @@ En tant que chiens très dépendants de leurs maîtres, les bichons maltais mont
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Les bichons maltais sont des chiens miniatures aux nerfs sensoriels très développés concentrés dans leurs pattes, ce qui les pousse à éviter le toucher. Un entraînement de désensibilisation, en touchant doucement puis en récompensant, est conseillé.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </details>
 
@@ -138,7 +133,7 @@ En tant que chiens très dépendants de leurs maîtres, les bichons maltais mont
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Bien que les escaliers réduisent l'impact, les sols glissants et les poils des pattes jouent un rôle majeur. Il faut couper les poils des coussinets et poser des tapis antidérapants.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </details>
 </div>

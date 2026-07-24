@@ -1,19 +1,27 @@
 ---
-formatVersion: 4
 title: "알렉산드로스 대왕의 '베개 밑 일리아스': 거대한 도전을 지탱한 밤의 비전 독서"
 description: "매일 밤 단검과 일리아스를 베개 밑에 두고 읽으며 전장에서 용기를 잃지 않았던 알렉산드로스 대왕. 잠재의식을 자극하는 비전 독서의 힘을 살펴봅니다."
-pubDate: "2026-01-23"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["위인 습관", "알렉산드로스", "동기부여", "독서 습관", "잠재의식"]
-heroImage: "/images/blog/alexander_pillow_iliad.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/alexander_pillow_iliad.png"
 app: "buildself"
-authority: "플루타르코스 영웅전 및 아리아노스의 알렉산드로스 동방원정기"
-updatedDate: "2026-01-23"
+formatVersion: 4
+authority: "Alexander Pillow Iliad 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+steps:
+  - name: "비전 서적 선정 및 배치"
+    text: "내가 지향하고자 하는 최고의 정체성과 비전을 자극해 줄 한 권의 책을 선택하여 침대 머리맡에 두고 스마트폰을 완전히 치웁니다."
+  - name: "취침 전 15분 영웅전 정독"
+    text: "누워서 대충 훑어보는 것이 아닌, 바른 자세로 앉아 책 속의 고결한 문장들을 음미하며 15분간 깊게 생각하며 읽습니다. 텍스트가 뇌세포에 스며들도록 깊은 주의를 기울입니다."
+  - name: "비전 각인 및 취침"
+    text: "읽은 내용을 머리맡에 내려놓고, 눈을 감은 뒤 오늘 읽은 영웅의 모습이나 나의 내일 목표를 1~2분간 시각화하며 잠자리에 듭니다. 잠재의식이 밤새 이 방향으로 움직이도록 유도합니다."
 faqs:
   - question: "소설이나 만화책을 잠들기 전에 읽어도 비전 고전 독서 루틴과 같은 효과가 있나요?"
     answer: "가벼운 픽션도 두뇌의 스트레스를 해소하는 냉각 효과는 있지만, 알렉산드로스 루틴처럼 자아 정체성을 정렬하고 실행 의지력을 고취하는 '가치 지향 동기부여' 효과를 내려면 내적인 울림과 성찰을 주는 고전 서사시, 철학서, 위인전 등을 선택하는 것이 훨씬 좋습니다."
   - question: "누워서 이북 리더기로 책을 읽어도 되나요?"
     answer: "이북 리더기나 태블릿 화면은 빛 방출로 인해 뇌가 낮으로 착각하여 멜라토닌 분비를 억제할 위험이 큽니다. 잠재의식 정렬과 깊은 숙면을 유도하는 최적의 효과를 위해서는 가급적 은은한 조명 아래서 실물 종이 책을 직접 손으로 넘기며 정독하는 것을 권장합니다."
+
 ---
 
 "도전하는 자에게 불가능한 일이란 없다." ⚔️
@@ -28,27 +36,27 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 아리아노스 저작 <strong>&lt;Anabasis of Alexander&gt;</strong> 및 플루타르코스의 전거 기록에 기반하였으며, 취침 전 알파-세타파 상태에서 수행되는 가치 주입형 독서가 인간의 장기적 정체성 회복과 자아 효능감 회복에 미치는 임상 분석 결과를 바탕으로 작성되었습니다.
+      본 콘텐츠는 <strong>Alexander Pillow Iliad 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 alexander-pillow-iliad 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 잠재의식 정렬을 유도하는 가치 지향 독서
+## 잠재의식 정렬을 유도하는 가치 지향 독서
 
-뇌가 잠들기 시작할 때의 뇌파는 알파파와 세타파로 전환되며, 이때 주입되는 정보는 평상시보다 장기 기억 저장소인 해마와 잠재의식을 형성하는 대뇌 피질 깊숙한 곳에 훨씬 쉽게 도달합니다.
+뇌가 잠들기 시작할 때의 뇌파는 알파파와 세타파로 전환되며, 이때 주입되는 정보는 평상시보다 장기 기억 저장소인 해마와 잠재의식을 형성하는 대뇌 피질 깊숙한 곳에 훨씬 쉽게 도달합니다. 
 
 알렉산드로스 대왕이 잠들기 전 읽었던 일리아스는 단순한 시간 때우기가 아니었습니다. 영웅의 가치, 용맹성, 도전 정신을 뇌가 휴면 모드로 들어가기 직전에 반복적으로 노출시킴으로써, 그의 자아 정체성과 목표 지향적 신경망을 가치 지향(Value Alignment)으로 동기화했습니다. 현대 뇌과학에서도 잠들기 직전 긍정적이고 주도적인 스토리에 집중하는 행위는 잠재의식적 문제 해결 능력을 활성화하고 자존감을 회복시키는 도구로 유용하게 입증되었습니다.
 
 ---
 
-## 2. 현대인을 위한 알렉산드로스 비전 독서 루틴 3단계
+## 어떤 텍스트를 읽는지가 잠재의식을 결정합니다
 
-의지력을 재정비하고 든든한 용기를 가슴에 품은 채 아침을 맞이하게 하는 밤의 독서 루틴입니다.
+소셜 미디어나 뉴스 기사처럼 두려움, 질투, 비판을 자극하는 콘텐츠를 밤늦게 소비하면 잠재의식이 부정적인 자극에 정렬되어 깊은 수면을 방해하고 아침에 피로한 상태로 깨어나게 만듭니다. 의도적으로 고결한 고전이나 나의 가치를 높여줄 책을 머리맡에 비치하세요.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -76,32 +84,17 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">비전 각인 및 취침</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    읽은 내용을 머리맡에 내려놓고, 눈을 감은 뒤 오늘 읽은 영웅의 모습이나 나의 내일 목표를 -분간 시각화하며 잠자리에 듭니다. 잠재의식이 밤새 이 방향으로 움직이도록 유도합니다.
+    읽은 내용을 머리맡에 내려놓고, 눈을 감은 뒤 오늘 읽은 영웅의 모습이나 나의 내일 목표를 1~2분간 시각화하며 잠자리에 듭니다. 잠재의식이 밤새 이 방향으로 움직이도록 유도합니다.
   </p>
 </div>
-
----
-
-## 3. 성공적인 루틴을 위한 뇌과학적 한마디
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">뇌의 안식을 위해 화면을 끄세요</strong>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      소셜 미디어나 뉴스 기사처럼 두려움, 질투, 비판을 자극하는 콘텐츠를 밤늦게 소비하면 잠재의식이 부정적인 자극에 정렬되어 깊은 수면을 방해하고 아침에 피로한 상태로 깨어나게 만듭니다. 의도적으로 고결한 고전이나 나의 가치를 높여줄 책을 머리맡에 비치하세요.
-    </p>
-  </div>
-</div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>소설이나 만화책을 잠들기 전에 읽어도 비전 고전 독서 루틴과 같은 효과가 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -109,9 +102,9 @@ faqs:
       가벼운 픽션도 두뇌의 스트레스를 해소하는 냉각 효과는 있지만, 알렉산드로스 루틴처럼 자아 정체성을 정렬하고 실행 의지력을 고취하는 '가치 지향 동기부여' 효과를 내려면 내적인 울림과 성찰을 주는 고전 서사시, 철학서, 위인전 등을 선택하는 것이 훨씬 좋습니다.
     </p>
   </details>
-
+  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>누워서 이북 리더기로 책을 읽어도 되나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

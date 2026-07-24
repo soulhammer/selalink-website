@@ -16,16 +16,16 @@ faqs:
     answer: "Fortgeschrittene Stadien (Grad 3 oder 4) erfordern eine Operation. Pflege zu Hause (Gewichtskontrolle, rutschfeste Böden) ist in frühen Stadien (Grad 1 oder 2) wirksam, um das Fortschreiten zu verlangsamen."
 ---
 
-Zwergspitze sind beliebte Gesellschaftshunde, die für ihr plüschiges Fell und ihren selbstbewussten Gang bekannt sind. Sie sind extrovertiert und klug, können aber aufgrund ihres Erbes geräuschempfindlich sein und zum Bellen neigen. 🐕 Besitzer sorgen sich oft um zwei Gesundheitsprobleme: Patellaluxation (Kniescheibenluxation aufgrund feiner Knochen) und Trachealkollaps (der zu einem gänsehustenartigen Keuchen führt). Diese Beschwerden verschlimmern sich auf rutschigen Böden. Heute stellt PetSelf eine 3-Schritte-Routine vor.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Veterinärmedizinische & verhaltensbedingte Nachweise
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Inhalt basiert auf <strong>Offizieller Rasseführer des American Pomeranian Clubs & Tierärztliches Handbuch der AVMA</strong>.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </div>
 </div>
@@ -43,7 +43,7 @@ Zwergspitze sind beliebte Gesellschaftshunde, die für ihr plüschiges Fell und 
 
 ## 1. Körpersprache des Zwergspitzes: Unterscheidung zwischen Spieltrieb und Angst
 
-Zwergspitze sind sehr ausdrucksstark. Wichtige Signale sind die 'Spielaufforderung' (Vorderkörper absenken) und das 'Lippenlecken'. Wenn ein Zwergspitz den Vorderkörper senkt und das Hinterteil hebt, ist das eine Spielaufforderung. Wenn er jedoch mit dem Schwanz wedelt, aber ständig die Lippen leckt, deutet dies auf innere Unruhe oder Stress hin. Verwechseln Sie dies nicht mit Freude.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Zwergspitze sind sehr ausdrucksstark. Wichtige Signale sind die 'Spielaufforderu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Rutschschutzprüfung und Sprungvermeidungstraining</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Stellen Sie sicher, dass rutschfeste Matten richtig liegen. Gewöhnen Sie ihn daran, Hundetreppen zu benutzen, anstatt herunterzuspringen.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Zwergspitze sind sehr ausdrucksstark. Wichtige Signale sind die 'Spielaufforderu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Bürsten gegen den Strich zur Hautbelüftung</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Nutzen Sie eine Stiftbürste, um das Fell sanft von der Rute zum Kopf gegen den Strich zu bürsten. Dies verhindert Verfilzungen und lüftet die Haut.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Zwergspitze sind sehr ausdrucksstark. Wichtige Signale sind die 'Spielaufforderu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Halsmassage und Brustgeschirr-Prüfung zur Atemwegsentlastung</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Um die empfindliche Luftröhre zu schützen, nutzen Sie ein Y-Geschirr statt eines Halsbands. Massieren Sie die Halsseiten sanft, um Muskeln zu entspannen.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Zwergspitze sind sehr ausdrucksstark. Wichtige Signale sind die 'Spielaufforderu
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Zwergspitze sind sehr ausdrucksstark. Wichtige Signale sind die 'Spielaufforderu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Dies ist ein Symptom des Trachealkollapses. Bleiben Sie ruhig; halten Sie ihn fest, streicheln Sie die Kehle sanft oder halten Sie die Nasenlöcher für 1 Sekunde zu, um Nasenatmung anzuregen.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Zwergspitze sind sehr ausdrucksstark. Wichtige Signale sind die 'Spielaufforderu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Fortgeschrittene Stadien (Grad 3 oder 4) erfordern eine Operation. Pflege zu Hause (Gewichtskontrolle, rutschfeste Böden) ist in frühen Stadien (Grad 1 oder 2) wirksam, um das Fortschreiten zu verlangsamen.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </details>
 </div>

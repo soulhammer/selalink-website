@@ -1,17 +1,25 @@
 ---
-formatVersion: 4
 title: "세상의 볼륨을 제로로: 노벨상 수상자 슈뢰딩거의 소음 제어 집중법"
 description: "물리학의 거장 에르윈 슈뢰딩거의 귀마개 청각 차단 습관을 소개합니다. 감각 필터링의 인지 소모를 없애 뇌 효율을 극대화하는 3단계 무음 몰입 실천법."
-pubDate: "2026-04-25"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
-heroImage: "/images/blog/schrodinger_earplug_focus.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/schrodinger_earplug_focus.png"
 app: "buildself"
-authority: "에르윈 슈뢰딩거 평전 'Schrödinger: Life and Thought' 및 전두엽 주의 망상활성계(RAS) 연구"
-updatedDate: "2026-04-25"
+formatVersion: 4
+authority: "Schrodinger Earplug Focus 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+steps:
+  - name: "밀착형 소음 차단 도구 준비"
+    text: "자신의 귓구멍 크기에 잘 맞고 차음률(NRR)이 30dB 이상인 실리콘/폼 귀마개나 성능이 우수한 노이즈 캔슬링 장비를 준비합니다."
+  - name: "귀마개 밀착 착용 및 기기 무음화"
+    text: "공부나 분석을 시작하기 직전, 귀마개를 압착해 외이도에 안전하게 밀착시킵니다. 작업할 PC나 스마트폰의 알림을 완전 무음으로 전환하여 시각적 방해 요소도 방지합니다."
+  - name: "50분 몰입 세션 후 귀 환기"
+    text: "타이머를 통해 50분 동안 완전 무음 상태에서 고도로 집중해 공부한 뒤, 알림이 울리면 반드시 귀마개를 분리하고 귓속의 습기를 말리며 10분간 휴식을 취합니다."
 faqs:
   - question: "완벽한 무음 상태가 오히려 집중을 방해하거나 불안감을 유발할 때는 어떻게 해야 하나요?"
     answer: "완전한 적막이 어색한 초심자의 경우, 백색 소음(빗소리, 파도 소리 등)이나 가사가 없는 단순한 핑크 노이즈를 재생하는 것부터 시작해 뇌가 적막에 적응하는 인지 프레이밍 과정을 거치는 것이 좋습니다."
+
 ---
 
 "현재는 과거가 생산해 낸 결과이며, 미래가 창조되어 가는 원인이다." 🌌
@@ -26,25 +34,25 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 슈뢰딩거의 자전 평전 기록 및 인간의 각성 조절 신경망(RAS) 생리학 연구 결과를 바탕으로 작성되었습니다.
+      본 콘텐츠는 <strong>Schrodinger Earplug Focus 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 schrodinger-earplug-focus 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 감각 필터링의 에너지 소모를 막는 무음 효과
+## 감각 필터링의 에너지 소모를 막는 무음 효과
 
-인간의 청각은 잠자는 동안에도 작동할 만큼 위협 감지를 위해 뇌의 각성을 유도하는 가장 예민한 감각 기관입니다. 미세한 환경 소음이 들릴 때마다 뇌는 무의식적으로 이 소음이 안전한지 걸러내는 감각 필터링(Sensory Filtering)을 가동하며 전두엽의 인지 에너지(주의 자원)를 소모합니다.
-
-귀마개를 이용해 청각 입력을 원천 차단하면, 뇌는 불필요한 감각 데이터 필터링에 소모되던 뇌의 산소와 포도당 소비를 완전히 중단합니다. 이로 인해 보존된 모든 에너지는 오직 눈앞의 작업에만 100% 집중 투입되어 인지적 피로를 줄이고 몰입도를 극대화합니다.
+인간의 청각은 잠자는 동안에도 작동할 만큼 위협 감지를 위해 뇌의 각성을 유도하는 가장 예민한 감각 기관입니다. 미세한 환경 소음이 들릴 때마다 뇌는 무의식적으로 이 소음이 안전한지 걸러내는 감각 필터링(Sensory Filtering)을 가동하며 전두엽의 인지 에너지(주의 자원)를 소모합니다. 귀마개를 이용해 청각 입력을 원천 차단하면, 뇌는 불필요한 감각 데이터 필터링에 소모되던 뇌의 산소와 포도당 소비를 완전히 중단합니다. 이로 인해 보존된 모든 에너지는 오직 눈앞의 작업에만 100% 집중 투입되어 인지적 피로를 줄이고 몰입도를 극대화합니다.
 
 ---
 
-## 2. 실천 방법
+## 이명 방지 및 귀 위생 수칙 준수하기
+
+귀마개를 너무 장시간 깊게 착용하면 귓속 내부의 압력이 변해 이명이 생기거나, 땀이 차서 외이도염 같은 귀 질환이 발생할 수 있습니다. 집중 세션은 최대 50분 단위로 제한하고, 쉬는 시간에는 반드시 귀마개를 제거하여 귀가 충분히 숨을 쉴 수 있도록 건조해 주어야 합니다. 또한 귀마개는 항상 청결을 유지하고 정기적으로 교체해 위생을 확보하십시오.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -76,25 +84,13 @@ faqs:
   </p>
 </div>
 
----
-
-## 3. 이명 방지 및 귀 위생 수칙 준수하기
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      귀마개를 너무 장시간 깊게 착용하면 귓속 내부의 압력이 변해 이명이 생기거나, 땀이 차서 외이도염 같은 귀 질환이 발생할 수 있습니다. 집중 세션은 최대 50분 단위로 제한하고, 쉬는 시간에는 반드시 귀마개를 제거하여 귀가 충분히 숨을 쉴 수 있도록 건조해 주어야 합니다. 또한 귀마개는 항상 청결을 유지하고 정기적으로 교체해 위생을 확보하십시오.
-    </p>
-  </div>
-</div>
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>완벽한 무음 상태가 오히려 집중을 방해하거나 불안감을 유발할 때는 어떻게 해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

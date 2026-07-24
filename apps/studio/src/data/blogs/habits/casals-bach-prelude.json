@@ -1,190 +1,62 @@
 {
   "casals-bach-prelude": {
     "title": {
-      "ko": "영혼의 조율: 파블로 카살스의 아침 바흐 전주곡 루틴",
-      "en": "Tuning the Soul: Pablo Casals's Morning Bach Prelude Routine",
-      "ja": "魂の調律：パブロ・カザルスの朝のバッハ前奏曲ルーティン",
-      "zh": "心灵的调谐：巴勃罗·卡萨尔斯的晨间巴赫前奏曲规程",
-      "es": "Afinar el alma: la rutina matutina del preludio de Bach de Pablo Casals",
-      "fr": "Accorder son âme : la routine matinale du prélude de Bach de Pablo Casals",
-      "de": "Stimmung der Seele: Pablo Casals' morgendliche Bach-Präludium-Routine",
-      "pt": "Afinar a alma: a rotina matinal de prelúdio de Bach de Pablo Casals",
-      "id": "Menyelaraskan Jiwa: Rutinitas Pagi Bach Prelude Pablo Casals"
+      "ko": "영혼의 조율: 파블로 카살스의 아침 바흐 전주곡 루틴"
     },
     "description": {
-      "ko": "80년 넘게 매일 아침 바흐의 평균율 클라비어 곡집을 연주하며 하루를 시작한 거장 첼리스트 파블로 카살스. 음악적 의식이 뇌의 감정 상태를 안정시키고 알파파를 유도하는 원리를 알아봅니다.",
-      "en": "Master cellist Pablo Casals, who started his days playing Bach's Well-Tempered Clavier for over 80 years. Discover the neuroscientific principles of music rituals inducing alpha waves and emotional stability.",
-      "ja": "80年以上、毎朝バッハの平均律クラヴィーア曲集を演奏して一日を開始した巨匠チェリスト、パブロ・カザルス。音楽的儀式が脳の感情状態を安定させ、アルファ波を誘導する原理を学びます。",
-      "zh": "大师级大提琴家巴勃罗·卡萨尔斯在80多年的时间里，每天早晨演奏巴赫的《平均律键盘曲集》开始新的一天。发现音乐仪式诱导阿尔法波和情绪稳定的神经科学原理。",
-      "es": "El virtuoso violonchelista Pablo Casals, quien comenzó sus días tocando El clave bien temperado de Bach durante más de 80 años. Descubra los principios neurocientíficos de los rituales musicales que inducen ondas alfa y estabilidad emocional.",
-      "fr": "Le violoncelliste virtuose Pablo Casals, qui a commencé ses journées en jouant Le Clavier bien tempéré de Bach pendant plus de 80 ans. Découvrez les principes neuroscientifiques des rituels musicaux induisant des ondes alfa et la stabilité émotionnelle.",
-      "de": "Meistercellist Pablo Casals, der über 80 Jahre lang seinen tag mit dem Spielen von Bachs Wohltemperiertem Klavier begann. Entdecken Sie die neurowissenschaftlichen Prinzipien von Musikritualen, die Alphawellen und emotionale Stabilität induzieren.",
-      "pt": "O violoncelista virtuoso Pablo Casals, que começou seus dias tocando O Cravo Bem Temperado de Bach por mais de 80 anos. Descubra los principios neurocientíficos de los rituales musicales que inducen ondas alfa y estabilidad emocional.",
-      "id": "Pemain cello legendaris Pablo Casals, yang memulai harinya dengan memainkan Bach selama lebih dari 80 tahun. Pelajari prinsip neurosains dari ritual musik ini."
+      "ko": "80년 넘게 매일 아침 바흐의 평균율 클라비어 곡집을 연주하며 하루를 시작한 거장 첼리스트 파블로 카살스. 음악적 의식이 뇌의 감정 상태를 안정시키고 알파파를 유도하는 원리를 알아봅니다."
     },
     "authority": {
-      "ko": "파블로 카살스 자서전 『기쁨과 슬픔』 및 신경미학(Neuroaesthetics)과 음악 요법에 기반한 전두엽 알파파 유도 연구",
-      "en": "Pablo Casals's autobiography 'Joys and Sorrows' and neuroaesthetics research on prefrontal alpha wave induction via music",
-      "ja": "パブロ・カザルス自伝『喜びと悲しみ』考証および音楽療法に基づく前頭葉アルファ波誘導の研究",
-      "zh": "巴勃罗·卡萨尔斯自传《喜悦与哀愁》及基于神经美学与音乐疗法的前额叶阿尔法波诱导研究",
-      "es": "Autobiografía de Pablo Casals 'Alegrías y penas' e investigación de neuroestética sobre la inducción de ondas alfa prefrontales mediante la música",
-      "fr": "Autobiographie de Pablo Casals 'Joies et Souvenirs' (Joys and Sorrows) et recherche en neuroesthétique sur l'induction des ondes alfa préfrontales par la musique",
-      "de": "Pablo Casals' Autobiografie ‚Licht und Schatten auf einem langen Weg‘ (Joys and Sorrows) und neuroästhetische Forschung zur präfrontalen Alphawellen-Induktion durch Musik",
-      "pt": "Autobiografia de Pablo Casals 'Alegrias e Tristezas' e pesquisa neuroestética sobre indução de ondas alfa pré-frontais através da música",
-      "id": "Autobiografi Pablo Casals 'Joys and Sorrows' dan penelitian neuroestetika tentang induksi gelombang alfa prefrontal melalui musik"
+      "ko": "Casals Bach Prelude 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "20세기 클래식 음악계의 가장 거대한 거장이자, 역사 속에 묻혀 있었던 바흐의 《무반주 첼로 모음곡》을 불멸의 명작으로 부활시킨 스페인의 천재 첼리스트 파블로 카살스. 그는 96세의 나이로 세상을 떠날 때까지 80년이 넘는 세월 동안 단 하루도 거르지 않았던 특별한 아침 루틴이 있었습니다. 잠에서 깨어나 가볍게 산책을 마친 후, 카살스는 피아노 앞에 앉아 바흐의 《평균율 클라비어 곡집》 중 전주곡 두 곡을 정성껏 연주했습니다. 그는 이 행위를 단순한 손가락 연습이 아니라 세상과 자신을 연결하고 축복을 내리는 성스러운 의식이라 불렀습니다. 脳科学的으로 이 음악적 예열 의식이 하루의 지각 능력과 감정 조율에 미치는 영향을 알아봅니다.",
-      "en": "In this historic routine: 20 , 《 》 . 96 80 . , 《 》 . . . Practicing this daily routine consistently builds deep focus and long-term habits. By systematically applying this historic routine daily, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus. By systematically applying this historic routine daily, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus.",
-      "ja": "20世紀クラシック音楽界の最も偉大な巨匠であり、歴史の中に埋もれていたバッハの『無伴奏チェロ組曲』を不滅の名作として復活させたスペインの天才チェリスト、パブロ・カザルス。彼は96歳で亡くなるまで、80年以上の歳月の中でただの一日も欠かさなかった特別な朝のルーティンがありました。目覚めて軽く散歩を終えた後、カザルスはピアノの前に座ってバッハの平均律クラヴィーア曲集の中の前奏曲2曲を心を込めて演奏しました。彼はこの行為を単なる指の練習ではなく、世界と自分を繋ぎ、祝福を与える聖なる儀式と呼びました。脳科学的にこの音楽的予熱儀式が一日の知覚能力と感情調整に与える影響を明らかにします。",
-      "zh": "在这一历史性惯例的实践中：20 , 《 》 . 96 80 . , 《 》 . . 脳科学的 .",
-      "es": "Pablo Casals, la leyenda española del violonchelo que resucitó las Suites para violonchelo de Bach. Hasta que falleció a los 96 años, mantuvo una rutina matutina única durante más de 80 años. Después de una ligera caminata matutina, se sentaba al piano para tocar dos preludios de Bach. Llamó a esto una bendición más que una práctica. Exploramos los efectos cognitivos de este ritual musical matutino en la sincronización cerebral y la regulación emocional.",
-      "fr": "Pablo Casals, la leyenda española du violoncelle qui a ressuscité les Suites pour violoncelle de Bach. Jusqu'à sa mort à 96 ans, il a conservé une routine matinale unique pendant plus de 80 ans. Après une légère promenade matinale, il s'asseyait au piano pour jouer deux préludes de Bach. Il appelait cela une bénédiction plutôt qu'un exercice. Nous explorons les effets cognitifs de ce rituel musical matinal sur la synchronisation cérébrale et la régulation émotionnelle.",
-      "de": "Pablo Casals, die spanische Cello-Legende, die Bachs Cello-Suiten wiederbelebte. Bis zu seinem Tod im Alter von 96 Jahren pflegte er über 80 Jahre lang eine einzigartige Morgenroutine. Nach einem kurzen Morgenspaziergang setzte er sich ans Klavier, um zwei Bach-Präludien zu spielen. Er nannte dies eher einen Segen als Übung. Wir untersuchen die kognitiven Auswirkungen dieses morgendlichen Musikrituals auf die Gehirnsynchronisation und die emotionale Regulierung.",
-      "pt": "Pablo Casals, a lenda espanhola do violoncelo que ressuscitou as Suites para Violoncelo de Bach. Até falecer aos 96 anos, ele manteve uma rotina matinal única por mais de 80 anos. Depois de uma leve caminhada matinal, ele se sentava ao piano para tocar dois prelúdios de Bach. Ele chamava isso de bênção, em vez de prática. Exploramos os efeitos cognitivos de este ritual musical matinal en la sincronización cerebral y la regulación emocional.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "\"그것은 일종의 축복과도 같다. 내 방 안에서 바흐의 음악이 울려 퍼지기 시작하면, 나는 다시 한번 살아있다는 기쁨을 느끼고 세상과 완벽하게 연결된다.\" 🎹\n\n20세기 클래식 음악계의 가장 거대한 거장이자, 역사 속에 묻혀 있었던 바흐의 《무반주 첼로 모음곡》을 불멸의 명작으로 부활시킨 스페인의 천재 첼리스트 파블로 카살스. 그는 96세의 나이로 세상을 떠날 때까지 80년이 넘는 세월 동안 단 하루도 거르지 않았던 특별한 아침 루틴이 있었습니다. 잠에서 깨어나 가볍게 산책을 마친 후, 카살스는 피아노 앞에 앉아 바흐의 《평균율 클라비어 곡집》 중 전주곡 두 곡을 정성껏 연주했습니다. 그는 이 행위를 단순한 손가락 연습이 아니라 세상과 자신을 연결하고 축복을 내리는 성스러운 의식이라 불렀습니다. 뇌과학적으로 이 음악적 예열 의식이 하루의 지각 능력과 감정 조율에 미치는 영향을 알아봅니다.\n\n많은 현대인들은 아침에 알림음 소리에 화들짝 놀라며 기상합니다. 눈을 뜨자마자 스마트폰을 켜고 자극적인 뉴스나 밀린 업무 메신저를 읽으며 하루를 시작하곤 합니다. 이 과정에서 뇌는 심한 긴장과 흥분 상태를 유도하는 스트레스 호르몬인 코르티솔과 아드레날린을 급격히 분비합니다. 아직 깨어나지 않은 전두엽이 이 아침의 불안에 포섭되면, 하루 종일 주의력이 산만해지고 감정 기복이 심해질 수 있습니다.\n\n오늘 포스트에서는 파블로 카살스의 아침 바흐 연주 의식이 뇌의 뇌파 조율에 어떻게 개입하는지 규명하고, 현대인들이 아침의 정서 정화를 바탕으로 최고의 평온과 몰입 상태를 이루는 3단계 실천 방안을 제시합니다."
     },
     "whyTitle": {
-      "ko": "음악 동조화를 통한 알파파 활성화와 자율신경계 균형",
-      "en": "Alpha Wave Activation and Autonomic Balance via Musical Entrainment",
-      "ja": "音楽同調によるアルファ波活性化と自律神経系のバランス",
-      "zh": "通过音乐夹带激活阿尔法波并平衡自主神经系统",
-      "es": "Activación de ondas alfa y equilibrio autonómico mediante el arrastre musical",
-      "fr": "Activation des ondes alfa et équilibre autonome via l'entraînement musical",
-      "de": "Alphawellen-Aktivierung und autonomes Gleichgewicht durch musikalische Synchronisation",
-      "pt": "Ativação de ondas alfa e equilíbrio autonômico através do arrastamento musical",
-      "id": "Aktivasi Gelombang Alfa dan Keseimbangan Otonom melalui Penyelarasan Musik"
+      "ko": "음악 동조화를 통한 알파파 활성화와 자율신경계 균형"
     },
     "whyDesc": {
-      "ko": "우리의 뇌는 아침에 잠에서 깰 때 코르티솔 수치가 급증하며 스트레스와 각성 상태를 동시에 겪습니다. 이때 규칙적이고 조화로운 수학적 구조를 가진 바흐의 전주곡을 직접 연주하거나 깊이 경청하면, 뇌의 신경 진동(Neural Oscillations)이 음악의 주파수와 일치하는 '음악 동조화(Musical Entrainment)' 현상이 발생합니다. 이는 스트레스를 즉각 해소하고 마음을 평온하게 만드는 8~12Hz 영역의 알파파(Alpha Waves)를 크게 활성화합니다. 이와 동시에 부교감 신경계가 촉진되어 자율신경계의 완벽한 균형을 유도하며, 하루를 최상의 긍정적인 집중 모드로 시작하게 만듭니다.",
-      "en": "When we wake up, cortisol levels spike, creating stress and alertness. Playing or listening to Bach's preludes, which have mathematical structures, triggers 'Musical Entrainment'—aligning neural oscillations with the music. This activates 8-12Hz alpha waves, inducing deep relaxation and focus. Concurrently, it stimulates the parasympathetic nervous system, balancing the autonomic nervous system to start the day in an optimal positive state.",
-      "ja": "私たちの脳は朝目覚めるとき、コルチゾール値が急増してストレスと覚醒状態を同時に経験します。この時、規則的で調和のとれた数学的構造を持つバッハの前奏曲を直接演奏するか深く傾聴すると、脳の神経振動（Neural Oscillations）が音楽の周波数と一致する「音楽同調（Musical Entrainment）」現象が発生します。これはストレスを即座に解消し、心を穏やかにする8〜12Hz領域のアルファ波（Alpha Waves）を大きく活性化します。これと同時に副交感神経系が促進され、自律神経系の完璧なバランスを誘導し、一日を最良の肯定的かつ集中した状態で開始させます。",
-      "zh": "当我们醒来时，皮质醇水平会飙升，产生压力 and 警觉性。演奏或聆听具有数学结构的巴赫前奏曲会触发“音乐夹带”——将神经振荡与音乐对齐。这激活了8-12Hz的阿尔法波，从而引导深度放松 and 专注。同时，它刺激副交感神经系统，平衡自主神经系统，以在最佳的积极状态下开始新的一天。",
-      "es": "Cuando nos despertamos, los niveles de cortisol aumentan, creando estrés y estado de alerta. Tocar o escuchar los preludios de Bach, que tienen estructuras matemáticas, desencadena le 'Arrastre musical': alinear las oscilaciones neuronales con la música. Esto activa las ondas alfa de 8-12 Hz, induciendo una profunda relajación y concentración. Al mismo tiempo, estimula el sistema nervioso parasimpático, equilibrando el sistema nervioso autónomo para comenzar el día en un estado positivo óptimo.",
-      "fr": "Lorsque nous nous réveillons, les niveaux de cortisol augmentent, créant du stress y de la vigilance. Jouer ou écouter les préludes de Bach, qui ont des structures mathématiques, déclenche « l'entraînement musical », c'est-à-dire l'alignement des oscillations neuronales avec la musique. Cela active les ondes alfa 8-12 Hz, induisant une relaxation profonde et de la concentration. Parallèlement, cela stimule le système nerveux parasympathique, équilibrant le système nerveux autonome pour commencer la journée dans un état positif optimal.",
-      "de": "Wenn wir aufwachen, steigt der Cortisolspiegel an, was Stress und Wachheit erzeugt. Das Spielen oder Hören von Bach-Präludien, die mathematische Strukturen aufweisen, löst eine „musikalische Synchronisation“ aus – die Ausrichtung neuronaler Schwingungen auf die Musik. Dies aktiviert 8–12-Hz-Alphawellen, was tiefe Entspannung und Fokus induziert. Gleichzeitig regt es das parasympathische Nervensystem an und balanciert das autonome Nervensystem aus, um den tag in einem optimalen positiven Zustand zu beginnen.",
-      "pt": "Quando acordamos, os níveis de cortisol aumentam, criando estresse e alerta. Tocar ou ouvir os prelúdios de Bach, que possuem estruturas matemáticas, desencadeia le 'Arrastamento Musical' — alinhando as oscilações neurais com a música. Isso activa ondas alfa de 8-12Hz, induzindo relaxamento profundo e foco. Concorrentemente, estimula o sistema nervoso parassimpático, equilibrando o sistema nervoso autônomo para iniciar o dia em um estado positivo ideal.",
-      "id": "Saat kita bangun, kadar kortisol meningkat, memicu stres dan kewaspadaan. Memainkan atau mendengarkan prelude Bach yang memiliki struktur matematis memicu 'Penyelarasan Musik'—menyelaraskan osilasi saraf dengan musik. Ini mengaktifkan gelombang alfa 8-12Hz, memicu relaksasi mendalam. Secara bersamaan, ini merangsang sistem saraf parasimpatis."
+      "ko": "우리의 뇌는 아침에 잠에서 깰 때 코르티솔 수치가 급증하며 스트레스와 각성 상태를 동시에 겪습니다. 이때 규칙적이고 조화로운 수학적 구조를 가진 바흐의 전주곡을 직접 연주하거나 깊이 경청하면, 뇌의 신경 진동(Neural Oscillations)이 음악의 주파수와 일치하는 '음악 동조화(Musical Entrainment)' 현상이 발생합니다. 이는 스트레스를 즉각 해소하고 마음을 평온하게 만드는 8~12Hz 영역의 알파파(Alpha Waves)를 크게 활성화합니다. 이와 동시에 부교감 신경계가 촉진되어 자율신경계의 완벽한 균형을 유도하며, 하루를 최상의 긍정적인 집중 모드로 시작하게 만듭니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "아침 음악 루틴을 설계할 때 가장 경계해야 할 것은 복잡하고 난해하거나 귀를 자극하는 강렬한 비트의 음악을 선택하는 것입니다. 자극적인 팝이나 록, 혹은 기교가 까다로운 고난도의 곡 연주는 뇌를 이완시키기보다 오히려 교감 신경계를 과도하게 자극하여 불안감과 인지적 각성을 높일 수 있습니다. 따라서 바흐의 전주곡처럼 구조적으로 조화롭고 반복적이며 차분한 템포의 클래식 곡이나 뉴에이지 음악을 선택해야 최고의 정서적 완충 효과를 누릴 수 있습니다.",
-      "en": "When designing a morning music routine, avoid chaotic or high-tempo music with intense beats. Demanding compositions or aggressive rock/pop can over-stimulate the sympathetic nervous system, heightening anxiety. Opt for harmonious, moderately paced classical pieces (like Bach) or calming ambient music to achieve the desired psychological buffering effect.",
-      "ja": "朝の音楽ルーティンを設計するとき、最も警戒すべきは、複雑で難解な、あるいは耳を刺激する強烈なビートの音楽を選択することです. 刺激的なポップスやロック、あるいは技巧が難しい高難度の曲の演奏は、脳を弛緩させるよりもむしろ交感神経系を過度に刺激し、不安感や認知的覚醒を高める可能性があります。したがって、バッハの前奏曲のように構造的に調和し、反復的で落ち着いたテンポのクラシック曲やニューエイジ音楽を選択することで、最高の情緒的緩衝効果を享受することができます。",
-      "zh": "在设计晨间音乐规程时，避免选择带有强烈节拍的混乱或高节奏音乐。要求苛刻的乐曲或激进的摇滚/流行音乐会过度刺激交感神经系统，加剧焦虑。选择和谐、节奏适中的古典音乐（如巴赫）或平静的氛围音乐，以达到预期的心理缓冲效果。",
-      "es": "Al diseñar una rutina de música matutina, evite la música caótica o de ritmo rápido con ritmos intensos. Las composiciones exigentes o el rock/pop agresivo pueden sobreestimular el sistema nervioso simpático, aumentando la ansiedad. Opte por piezas clásicas armoniosas y de ritmo moderado (como Bach) o música ambiental relajante para lograr el efecto de amortiguación psicológica deseado.",
-      "fr": "Lors de la conception d'une routine musicale matinale, évitez la musique chaotique ou à tempo rapide aux rythmes intenses. Les compositions exigeantes o el rock/pop agresivo pueden surexciter el sistema nervioso simpático, aumentando la ansiedad. Opte por piezas clásicas armoniosas y de ritmo moderado (como Bach) o música ambiental relajante para lograr el efecto de amortiguación psicológica deseado.",
-      "de": "Vermeiden Sie bei der Gestaltung einer morgendlichen Musikroutine chaotische oder schnelle Musik mit intensiven Beats. Anspruchsvolle Kompositionen oder aggressiver Rock/Pop können das sympathische Nervensystem überstimulieren und Ängste verstärken. Wählen Sie harmonische, mäßig tempolierte klassische Stücke (wie Bach) oder beruhigende Ambient-Musik, um den gewünschten psychologischen Puffereffekt zu erzielen.",
-      "pt": "Ao projetar uma rotina de música matinal, evite músicas caóticas ou de ritmo acelerado com batidas intensas. Composições exigentes o rock/pop agressivos podem superestimular le sistema nervioso simpático, aumentando la ansiedad. Opte por peças clássicas harumoniosas e de ritmo moderado (como Bach) o música ambiente calmante para obter le efecto de amortecimiento psicológico deseado.",
-      "id": "Saat merancang rutinitas musik pagi, hindari musik yang kacau atau bertempo cepat dengan ketukan intens. Komposisi yang menuntut atau rock/pop agresif dapat merangsang sistem saraf simpatik secara berlebihan, meningkatkan kecemasan. Pilih lagu klasik bertempo sedang (seperti Bach) atau musik ambient yang menenangkan."
+      "ko": "아침 음악 루틴을 설계할 때 가장 경계해야 할 것은 복잡하고 난해하거나 귀를 자극하는 강렬한 비트의 음악을 선택하는 것입니다. 자극적인 팝이나 록, 혹은 기교가 까다로운 고난도의 곡 연주는 뇌를 이완시키기보다 오히려 교감 신경계를 과도하게 자극하여 불안감과 인지적 각성을 높일 수 있습니다. 따라서 바흐의 전주곡처럼 구조적으로 조화롭고 반복적이며 차분한 템포의 클래식 곡이나 뉴에이지 음악을 선택해야 최고의 정서적 완충 효과를 누릴 수 있습니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "나만의 아침 예열 음악 선정",
-          "en": "Selecting Your Morning Harmony",
-          "ja": "自分だけの朝の予熱音楽の選定",
-          "zh": "选择你的晨间和谐",
-          "es": "Seleccionar su armonía matutina",
-          "fr": "Seleccionar sa mélodie matinale",
-          "de": "Auswahl Ihrer morgendlichen Harmonie",
-          "pt": "Selecionar sua harmonia matinal",
-          "id": "Memilih Harmoni Pagi Anda"
+          "ko": "나만의 아침 예열 음악 선정"
         },
         "text": {
-          "ko": "마음을 평온하게 해주고 수학적 구조가 정돈된 바흐의 음악이나 차분한 클래식, 뉴에이지 피아노 곡을 아침 예열 곡으로 선정합니다.",
-          "en": "Choose a mathematically structured Bach piece or a calming classical/new-age piano melody as your morning routine music.",
-          "ja": "心を穏やかにし、数学的構造が整えられたバッハの音楽や、落ち着いたクラシック、ニューエイジのピアノ曲を朝の予熱曲として選定します。",
-          "zh": "选择一首具有数学结构的巴赫乐曲，或者一首平静的古典/新世纪钢琴旋律，作为您的晨间日常音乐。",
-          "es": "Elija una pieza de Bach estruturada matemáticamente o una melodía de piano clásica/new-age relajante como música de rutina matutina.",
-          "fr": "Choisissez une pièce de Bach mathématiquement structurée ou une mélodie de piano classique/new-age apaisante como musique de routine matinale.",
-          "de": "Wählen Sie ein mathematisch strukturiertes Bach-Stück oder eine beruhigende klassische oder New-Age-Klaviermelodie als Musik für Ihre Morgenroutine.",
-          "pt": "Escolha uma pièce de Bach estruturada matematicamente ou uma melodia de piano clássica/new-age relaxante como música da sua rotina matinal.",
-          "id": "Pilih karya Bach yang terstruktur secara matematis atau melodi piano klasik/new-age yang menenangkan sebagai musik pagi Anda."
+          "ko": "마음을 평온하게 해주고 수학적 구조가 정돈된 바흐의 음악이나 차분한 클래식, 뉴에이지 피아노 곡을 아침 예열 곡으로 선정합니다."
         }
       },
       {
         "name": {
-          "ko": "10분간의 정적 연주 혹은 경청 의식",
-          "en": "Executing 10 Minutes of Playing or Listening",
-          "ja": "10分間の静的な演奏または傾聴の儀式",
-          "zh": "执行10分钟 of 演奏或聆听",
-          "es": "Ejecutar 10 minutos de interpretación o escucha",
-          "fr": "Pratiquer 10 minutes d'écoute",
-          "de": "Ausführung von 10 Minuten Spielen oder Hören",
-          "pt": "Executar 10 minutes de execução ou escuta",
-          "id": "Melakukan 10 Menit Bermain Musik atau Mendengarkan"
+          "ko": "10분간의 정적 연주 혹은 경청 의식"
         },
         "text": {
-          "ko": "아침 산책 후 혹은 일과 시작 전, 10분 동안 스마트폰을 끄고 선정된 음악을 직접 연주하거나 다른 잡념 없이 소리에만 주의를 집중해 경청합니다.",
-          "en": "After waking, spend 10 minutes playing your instrument or listening with eyes closed, fully focusing on the auditory texture without digital distraction.",
-          "ja": "朝の散歩の後、あるいは仕事の開始前、10分間スマートフォンをオフにして、選定した音楽を自ら演奏するか、他の雑念なしに音だけに注意を集中して傾聴します。",
-          "zh": "起床后，花10分钟弹奏您的乐器或闭上眼睛聆听，完全专注于听觉质感，排除数字化干扰。",
-          "es": "Después de despertarse, dedique 10 minutos a tocar su instrumento o a escuchar con los ojos closed, concentráéndose completamente en la textura auditiva sin distracciones digitales.",
-          "fr": "Après vous être réveillé, passez 10 minutes à jouer de votre instrument ou à écouter les yeux fermés, en vous concentrant pleinement sur la texture sonore, sans distraction numérique.",
-          "de": "Nehmen Sie sich nach dem Aufwachen 10 Minuten Zeit, um Ihr Instrument zu spielen oder mit geschlossenen Augen zuzuhören. Konzentrieren Sie sich ganz auf das Klangerlebnis, ohne digitale Ablenkungen.",
-          "pt": "Depois de acordar, dedique 10 minutos para tocar seu instrumento ou ouvir com os olhos fechados, concentrando-se totalmente na textura auditiva, sem distrações digitais.",
-          "id": "Setelah bangun tidur, luangkan waktu 10 menit untuk memainkan instrumen Anda atau mendengarkan dengan mata tertutup, fokus sepenuhnya."
+          "ko": "아침 산책 후 혹은 일과 시작 전, 10분 동안 스마트폰을 끄고 선정된 음악을 직접 연주하거나 다른 잡념 없이 소리에만 주의를 집중해 경청합니다."
         }
       },
       {
         "name": {
-          "ko": "정서적 정렬 후 매끄러운 일과 이행",
-          "en": "Transitioning to Your Daily Routine",
-          "ja": "情緒的アライメント後の円滑な日課への移行",
-          "zh": "过渡到你的日常工作",
-          "es": "Transición a su rutina diaria",
-          "fr": "Passer à sa routine quotidienne",
-          "de": "Übergang zu Ihrer täglichen Routine",
-          "pt": "Transição para a sua rotina diária",
-          "id": "Transisi ke Rutinitas Harian Anda"
+          "ko": "정서적 정렬 후 매끄러운 일과 이행"
         },
         "text": {
-          "ko": "음악이 끝난 뒤 차분해진 마음과 가다듬어진 호흡을 유지하며, 망설임 없이 기획서 작성 등 당일의 본 업무를 시작합니다.",
-          "en": "As the music fades, carry the centered emotional state and deep breathing directly into your first high-focus task of the day.",
-          "ja": "音楽が終わった後、落ち着いた心と整えられた呼吸を維持しながら、ためらうことなく企画書の作成などその日の本業務を開始します。",
-          "zh": "当音乐淡出时，将集中而平静的情绪状态 and 深呼吸直接带入您当天的第一项高度专注的任务中。",
-          "es": "A medida que la música se apaga, lleve el estado emocional centrado y la respiración profunda directamente a su primera tarea de alta concentración del día.",
-          "fr": "À mesure que la música s'estompe, transportez cet état émotionnel recentré et cette respiration profonde directement vers votre première tâche importante de la journée.",
-          "de": "Wenn die Musik verklingt, nehmen Sie den ausgeglichenen emotionalen Zustand und die tiefe Atmung direkt mit in Ihre erste hochkonzentrierte Aufgabe des Tages.",
-          "pt": "À medida que a música disminui, leve o estado emocional centrado e a respiração profunda directamente para a sua primeira tarefa de alto foco do dia.",
-          "id": "Saat musik mereda, bawa kondisi emosional yang terpusat dan napas dalam langsung ke tugas fokus tinggi pertama Anda."
+          "ko": "음악이 끝난 뒤 차분해진 마음과 가다듬어진 호흡을 유지하며, 망설임 없이 기획서 작성 등 당일의 본 업무를 시작합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "악기를 전혀 다루지 못하는 사람도 카살스의 아침 음악 루틴을 효과적으로 활용할 수 있나요?",
-          "en": "Can someone who doesn't play any instruments benefit from Casals's morning routine?",
-          "ja": "楽器をまったく扱えない人でもカザルスの朝の音楽ルーティンを効果的に活用できますか？",
-          "zh": "不会演奏任何乐器的人也能从卡萨尔斯的晨间常规中受益吗？",
-          "es": "¿Puede alguien que no toca ningún instrumento beneficiarse de la rutina matutina de Casals?",
-          "fr": "Une personne qui ne joue d'aucun instrument peut-elle bénéficier de la routine matinale de Casals ?",
-          "de": "Kann jemand, der kein Instrument spielt, von Casals' Morgenroutine profiteren?",
-          "pt": "Alguém que não toca nenhum instrumento puede se beneficiar da rotina matinal de Casals?",
-          "id": "Apakah seseorang yang tidak memainkan instrumen apa pun dapat memperoleh manfaat dari rutinitas pagi Casals?"
+          "ko": "악기를 전혀 다루지 못하는 사람도 카살스의 아침 음악 루틴을 효과적으로 활용할 수 있나요?"
         },
         "answer": {
-          "ko": "네, 매우 효과가 있습니다. 직접 악기를 연주하는 것이 신경 운동 피질을 더 활성화하지만, 눈을 감고 소리의 진동과 리듬에 뇌를 맡겨 100% 경청(Active Listening)하는 것만으로도 두뇌의 알파파 주파수를 동조화할 수 있습니다. 중요한 것은 음악을 단순히 배경 소음(BGM)으로 흘려듣는 것이 아니라, 10분간 소리의 미세한 변화에 온전히 몰입하는 정신적 주의 훈련에 있습니다.",
-          "en": "Yes, definitely. While playing an instrument provides tactile and motor cortex activation, active listening—focusing entirely on the auditory experience with closed eyes—effectively synchronizes alpha waves. The key is active engagement with the acoustic waves rather than leaving it as background noise.",
-          "ja": "はい、非常に効果的です。自分で楽器を演奏する方が運動皮質をより活性化させますが、目を閉じて音の振動とリズムに脳を任せて100％アクティブリスニング（Active Listening）するだけでも、脳のアルファ波周波数を同調させることができます。重要なのは、音楽を単にバックグラウンドミュージック（BGM）として聞き流すのではなく、10分間音の微細な変化に完全に没頭する精神的な注意訓練にあります。",
-          "zh": "是的，绝对可以。虽然演奏乐器可以激活触觉 and 运动皮层，但主动聆听——闭上眼睛完全专注于听觉体验——能有效地同步阿尔法波。关键是积极参与声波，而不是将其作为背景空间流过。",
-          "es": "Sí, definitivamente. Aunque tocar un instrumento proporciona una activación de la corteza motora y táctil, la escucha activa (concentrarse por completo en la experiencia auditiva con los ojos closed) synchroniza eficazmente las ondas alfa. La clave está en la participación activa con las ondas acústicas en lugar de dejarlas como ruido de fondo.",
-          "fr": "Oui, tout à fait. Bien que jouer d'un instrument offre une activation tactile et motrice du cortex, l'écoute active (se concentrer entièrement sur l'expérience auditive, les yeux closed) synchronise efficacement les ondes alfa. L'essentiel réside dans l'engagement actif avec les ondes sonores plutôt que de les laisser en bruit de fond.",
-          "de": "Ja, definitiv. Während das Spielen eines Instruments eine taktile und motorische Aktivierung des Cortex bewirkt, synchronisiert aktives Hören – also das vollständige Konzentrieren auf das Hörerlebnis mit geschlossenen Augen – die Alphawellen effektiv. Der Schlüssel liegt in der aktiven Beschäftigung mit den Schallwellen, anstatt sie als Hintergrundgeräusch verpuffen zu lassen.",
-          "pt": "Sim, definitivamente. Embora tocar um instrumento proporcione ativação tátil e motora do córtex, la escuta ativa — concentrar-se inteiramente na experiência auditiva com os olhos fechados — sincroniza efetivamente as ondas alfa. A chave é o envolvimento ativo con las ondas acústicas, en vez de dej-las como ruído de fondo.",
-          "id": "Ya, tentu saja. Meskipun memainkan instrumen memberikan aktivasi korteks taktil dan motorik, mendengarkan secara aktif—fokus sepenuhnya pada suara dengan mata tertutup—secara efektif menyelaraskan gelombang alfa."
+          "ko": "네, 매우 효과가 있습니다. 직접 악기를 연주하는 것이 신경 운동 피질을 더 활성화하지만, 눈을 감고 소리의 진동과 리듬에 뇌를 맡겨 100% 경청(Active Listening)하는 것만으로도 두뇌의 알파파 주파수를 동조화할 수 있습니다. 중요한 것은 음악을 단순히 배경 소음(BGM)으로 흘려듣는 것이 아니라, 10분간 소리의 미세한 변화에 온전히 몰입하는 정신적 주의 훈련에 있습니다."
         }
       }
     ]

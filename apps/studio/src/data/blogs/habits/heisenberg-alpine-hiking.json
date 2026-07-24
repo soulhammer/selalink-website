@@ -1,218 +1,72 @@
 {
   "heisenberg-alpine-hiking": {
     "title": {
-      "ko": "자연이 준 불확정성의 힌트: 하이젠베르크의 알프스 하이킹 습관",
-      "en": "Clue of Uncertainty from Nature: Heisenberg's Alpine Hiking Habit",
-      "ja": "自然がくれた不確定性のヒント：ハイゼンベルクのアルプスハイキング習慣",
-      "zh": "大自然赋予的不确定性启示：海森堡的阿尔卑斯登山习惯",
-      "es": "La pista de la incertidumbre en la naturaleza: El hábito de senderismo alpino de Heisenberg",
-      "fr": "L'indice de l'incertitude dans la nature : L'habitude de randonnée alpine de Heisenberg",
-      "de": "Hinweis der Unbestimmtheit aus der Natur: Heisenbergs Gewohnheit des alpinen Wanderns",
-      "pt": "A pista da incerteza na natureza: O hábito de caminhada alpina de Heisenberg",
-      "id": "Petunjuk Ketidakpastian dari Alam: Kebiasaan Hiking Alpine Heisenberg"
+      "ko": "자연이 준 불확정성의 힌트: 하이젠베르크의 알프스 하이킹 습관"
     },
     "description": {
-      "ko": "양자역학의 난제를 풀기 위해 바이에른 알프스를 홀로 하이킹하며 생각에 잠겼던 베르너 하이젠베르크. 자연 속 걷기가 뇌의 주의력을 회복시키고 창조적 인큐베이션(부화)을 유도하는 과학적 원리를 알아봅니다.",
-      "en": "Werner Heisenberg, who hiked the Bavarian Alps alone to solve complex quantum mechanics puzzles. Learn how nature walking restores attention and triggers creative incubation.",
-      "ja": "量子力学の難問を解決するために、バイエルン・アルプスを一人でハイキングしながら思索にふけったヴェルナー・ハイゼンベルク。自然の中を歩くことが脳の注意力を回復させ、創造的なインキュベーション（孵化）を導く科学的原理を学びます。",
-      "zh": "为了解决量子力学难题、独自一人在巴伐利亚阿尔卑斯山登山思索的维尔纳·海森堡。探讨在自然界中行走如何恢复大脑注意力、并引导创造性孵化(Incubation)的科学原理。",
-      "es": "Werner Heisenberg caminaba solo por los Alpes bávaros para resolver dilemas de física. Descubra cómo caminar en entornos naturales restaura la atención y fomenta la incubación creativa.",
-      "fr": "Werner Heisenberg marchait seul dans les Alpes bavaroises pour résoudre les dilemmes de la physique. Découvrez comment la marche en pleine nature restaure l'attention.",
-      "de": "Werner Heisenberg wanderte allein durch die bayerischen Alpen, um Rätsel der Physik zu lösen. Erfahren Sie, wie Wandern in der Natur die Aufmerksamkeit regeneriert.",
-      "pt": "Werner Heisenberg caminaba sozinho pelos Alpes bávaros para resolver dilemas de física. Descubra como caminhar em ambientes naturales restaura la atención.",
-      "id": "Werner Heisenberg, yang mendaki Pegunungan Alpen Bavaria sendirian untuk memecahkan teka-teki fisika kuantum. Ulas bagaimana berjalan di alam memicu inkubasi kreatif."
+      "ko": "양자역학의 난제를 풀기 위해 바이에른 알프스를 홀로 하이킹하며 생각에 잠겼던 베르너 하이젠베르크. 자연 속 걷기가 뇌의 주의력을 회복시키고 창조적 인큐베이션(부화)을 유도하는 과학적 원리를 알아봅니다."
     },
     "authority": {
-      "ko": "하이젠베르크 자서전 『부분과 전체(Physics and Beyond)』 역사적 고증 및 스티븐 카플란의 주의 회복 이론(Attention Restoration Theory) 인지과학 연구",
-      "en": "Werner Heisenberg's autobiography 'Physics and Beyond' and Stephen Kaplan's Cognitive Research on Attention Restoration Theory (ART)",
-      "ja": "ハイゼンベルク自伝『部分と全体』歴史的書簡の考証およびスティーブン・カプランの注意回復理論（Attention Restoration Theory）認知科学研究",
-      "zh": "海森堡自传《部分与整体》(Physics and Beyond)历史考证及斯蒂芬·卡普兰注意力恢复理论(Attention Restoration Theory)认知科学研究",
-      "es": "Autenticación de la autobiografía de Heisenberg 'Diálogos sobre la física atómica' e investigaciones de Stephen Kaplan sobre la teoría de la restauración de la atención",
-      "fr": "Récit de l'autobiographie de Heisenberg 'Physique et au-delà' et travaux de Stephen Kaplan sur la théorie de la restauración de la atención",
-      "de": "Historische Belege aus Werner Heisenbergs Autobiografie 'Der Teil und das Ganze' und Stephen Kaplans kognitive Forschung zur Aufmerksamkeit-Wiederherstellungs-Theorie",
-      "pt": "Autenticación da autobiografia de Heisenberg 'Diálogos sobre a física atómica' e pesquisas de Stephen Kaplan sobre la teoría de la restauración de la atención",
-      "id": "Buku otobiografi 'Physics and Beyond' oleh Werner Heisenberg dan Penelitian Stephen Kaplan tentang Teori Pemulihan Perhatian"
+      "ko": "Heisenberg Alpine Hiking 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "물리학계에 '불확정성 원리'를 제시하며 현대 양자물리학의 주춧돌을 놓고 노벨 물리학상을 수상한 독일의 거장 베르너 하이젠베르크. 전자의 불연속적 궤도 전이와 기하학적 매트릭스 계산이라는 난해한 물리학 방정식에 가로막혀 지독한 인지적 번아웃과 불면증에 시달리던 젊은 하이젠베르크는 돌파구가 필요할 때마다 바이에른 알프스 산맥으로 홀로 떠났습니다. 그는 울창한 침엽수림과 규칙적으로 전개되는 알프스의 산길을 며칠씩 묵묵히 하이킹하며 생각의 방향을 조율했습니다. 1925년 가을, 북해의 외딴 섬 헬골란트 요양지와 알프스 산책로에서 물리학의 역사적 이정표가 된 불확정성 수식이 탄생한 배경에는 그의 등산 사색 습관이 있었습니다. 대자연 속 걷기가 뇌에 베푸는 인지적 충전 원리를 밝혀냅니다.",
-      "en": "Werner Heisenberg laid the cornerstone of modern quantum physics and won the Nobel Prize. When the young Heisenberg faced cognitive burnout and insomnia from electronic orbital transition matrix calculations, he set off for the Bavarian Alps alone. For days, he hiked quietly through the coniferous forests and orderly paths of the Alps, tuning his thoughts. In the autumn of 1925, during his recovery on the remote North Sea island of Heligoland and hikes in the Alps, the uncertainty equations that marked a historical milestone in physics were born. We uncover the attention restoration principles of hiking.",
-      "ja": "物理学界に「不確定性原理」を提示し、現代量子物理学の基礎を築いてノーベル物理学賞を受賞したドイツの巨匠ヴェルナー・ハイゼンベルク。電子の不連続な軌道転移と幾何学的なマトリックス計算という難解な物理方程式に阻まれ、ひどい認知の燃え尽き症候群と不眠症に悩まされていた若きハイゼンベルクは、突破口が必要な時にいつもバイエルン・アルプス山脈へ一人で旅立ちました。彼は鬱蒼とした針葉樹林と規則的に展開するアルプスの山道を数日間黙々とハイキングし、思考の方向を調整しました。1925年の秋、北海の孤島ヘルゴラント島での療養とアルプスの遊歩道から、物理学の歴史的里程標となった不確定性数式が誕生した背景には、彼の登山思索習慣がありました。大自然の中を歩くことが脳にもたらす認知的充電の原理を明らかにします。",
-      "zh": "通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
-      "es": "En la práctica de esta rutina transformadora:  ' '            .                          .             . 1925 ,                    .         .\n\nAl practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.\n\nAl practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora:  ' '            .                          .             . 1925 ,                    .         .\n\nAo praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.\n\nAo praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "\"나는 광활한 알프스의 숲길을 걸으며 복잡한 수학 공식의 잔재를 비우고, 비로소 자연의 깊은 내면을 응시한다.\" 🌲\n\n현대 물리학의 패러다임을 뿌리째 뒤흔든 '불확정성 원리'를 창안하며 현대 양자역학의 초석을 다지고 노벨 물리학상을 수상한 독일의 위대한 과학자 베르너 하이젠베르크. 젊은 시절의 그는 전자의 궤도 전이와 매트릭스 계산이라는 인류 미답의 수학적 난제에 가로막혀 지독한 불면증과 뇌의 피로(Cognitive Burnout)에 시달렸습니다. 논리가 꽉 막혀 더는 생각에 진전이 없을 때마다, 하이젠베르크는 바이에른 알프스 산맥의 깊은 침엽수림으로 떠났습니다. 그는 며칠 동안 산의 침묵 속을 하이킹하며 조용히 사색의 고유 속도를 조율했습니다. 1925년 가을, 북해의 고립된 요양지 헬골란트 섬과 알프스 산책을 거치며 양자역학의 가장 결정적인 돌파구 수식이 도출된 배경에는 그의 등산 사색 루틴이 있었습니다. 자연의 숲길 걷기가 지친 뇌를 충전하고 창의성을 일깨우는 인지과학적 메커니즘을 밝혀냅니다."
     },
     "whyTitle": {
-      "ko": "주의 회복 이론(ART)과 인지 인큐베이션의 신경 회로",
-      "en": "Attention Restoration Theory (ART) and the Neural Circuits of Cognitive Incubation",
-      "ja": "注意回復理論（ART）と認知インキュベーションの神経回路",
-      "zh": "注意力恢复理论(ART)与认知孵化的神经回路",
-      "es": "Teoría de la restauración de la atención y circuitos de incubación cognitiva",
-      "fr": "Théorie de la restauración de la atención y circuitos d'incubation cognitive",
-      "de": "Aufmerksamkeit-Wiederherstellungs-Thorie und die neuronalen Kreisläufe kognitiver Inkubation",
-      "pt": "Teoria da restauração da atenção e circuitos de incubação cognitiva",
-      "id": "Teori Pemulihan Perhatian dan Sirkuit Saraf dari Inkubasi Kognitif"
+      "ko": "주의 회복 이론(ART)과 인지 인큐베이션의 신경 회로"
     },
     "whyDesc": {
-      "ko": "모니터 화면과 숫자에 장시간 집중할 때, 뇌는 의지적 주의력(Directed Attention) 자원을 소모하여 주의력 피로 상태에 빠집니다. 하이젠베르크처럼 우거진 자연을 등산하며 걸을 때, 인지과학의 '주의 회복 이론(Attention Restoration Theory)'이 작동합니다. 자연의 부드러운 자극(Soft Fascination)은 의지적 뇌 활동을 쉬게 하고 자발적 주의력을 일깨워 전두엽을 휴식 상태로 만듭니다. 이때 뇌의 잠재의식적 처리 경로인 '기본 모드 네트워크(DMN)'가 기동되어, 해결하지 못하고 얽혀 있던 복잡한 수학 공식과 물리학적 매트릭스의 조각들을 무의식 속에서 재정렬하는 '인지적 부화(Cognitive Incubation)'가 일어나 유레카의 도약을 돕습니다.",
-      "en": "When focusing on screens and numbers for hours, the brain depletes its 'Directed Attention' resources, falling into attention fatigue. Hiking through lush nature triggers 'Attention Restoration Theory (ART).' Nature's soft fascination allows the voluntary brain areas to rest and awakens involuntary attention, relaxing the frontal lobe. This fires up the 'Default Mode Network (DMN),' the brain's subconscious processing pathway, carrying out 'Cognitive Incubation' to rearrange complex mathematical and physical fragments in the background, catalyzing the eureka moment.",
-      "ja": "モニター画面や数字に長時間集中する時、脳は意志的注意（Directed Attention）のリソースを消耗し、注意疲労状態に陥ります。ハイゼンベルクのように鬱蒼とした自然を登山して歩く時、認知科学の「注意回復理論（Attention Restoration Theory）」が作動します。自然の優しい刺激（Soft Fascination）は意志的な脳活動を休ませ、自発的注意を呼び起こして前頭葉を休息状態にします。この時、脳の潜在意識的な処理経路である「デフォルトモードネットワーク（DMN）」が起動し、解決できずに絡み合っていた複雑な数学公式や物理的マトリックスの破片を無意識のうちに再整列させる「認知的インキュベーション（Cognitive Incubation）」が起こり、ユーレカの跳躍を助けます。",
-      "zh": "当长时间专注于显示器屏幕与数字时，大脑会消耗定向注意力(Directed Attention)资源，陷入注意力疲劳状态。若像海森堡一样在郁郁葱葱的自然界中登山行走，认知科学中的“注意力恢复理论(Attention Restoration Theory)”就会发挥作用。大自然的温柔吸引(Soft Fascination)能让定向脑活动得以休息，并唤起自发注意力，使前头叶进入休息状态。此时，作为大脑下意识处理路径的“默认模式网络(DMN)”启动，在无意识中将未能解决而纠缠在一起的复杂数学公式及物理矩阵碎片重新排列，即进行“认知孵化(Cognitive Incubation)”，从而促成“尤里卡（我发现了）”式的质变飞跃。",
-      "es": "El enfoque voluntario continuado agota los recursos de atención dirigida del lóbulo frontal. Caminar en la naturaleza activa la teoría de restauración de la atención (ART). Los estímulos suaves del bosque (Soft Fascination) desactivan el córtex prefrontal, permitiendo su descanso. Al mismo tiempo, se enciende la red neuronal por defecto (DMN), procesando de forma subconsciente los fragmentos lógicos bloqueados, facilitando el momento eureka.",
-      "fr": "La concentration volontaire continue épuise les ressources d'attention dirigée du lobe frontal. Marcher dans la nature active la théorie de la restauration de l'attention (ART). Les stimuli doux de la forêt désactivent le cortex préfrontal. Parallèlement, le réseau neuronal par défaut (DMN) s'active, traitant inconsciemment les problèmes abstraits bloqués.",
-      "de": "Langanhaltende Konzentration verbraucht Ressourcen der gerichteten Aufmerksamkeit. Wandern in der Natur regt die Aufmerksamkeit-Wiederherstellungs-Theorie (ART) an. Sanfte Naturreize (Soft Fascination) entlasten den präfrontalen Cortex. Dies aktiviert das Default Mode Network (DMN), das im Hintergrund ungelöste Probleme ordnet und unbewusste Gedankenprozesse anstößt.",
-      "pt": "O foco voluntário continuado esgota os recursos de atenção dirigida do lóbulo frontal. Caminhar na natureza ativa a teoria de restauração da atenção (ART). Os estímulos suaves del bosque (Soft Fascination) desativam o córtex pré-frontal, permitindo o seu descanso. Ao mesmo tempo, acende-se a rede por defeito (DMN).",
-      "id": "Fokus pada layar dan angka selama berjam-jam menguras kapasitas perhatian terarah. Berjalan di alam mengaktifkan Teori Pemulihan Perhatian (ART). Daya tarik alam yang lembut mengistirahatkan lobus frontal dan memicu Jaringan Mode Default (DMN) untuk menginkubasi ide rumit di bawah sadar."
+      "ko": "모니터 화면과 숫자에 장시간 집중할 때, 뇌는 의지적 주의력(Directed Attention) 자원을 소모하여 주의력 피로 상태에 빠집니다. 하이젠베르크처럼 우거진 자연을 등산하며 걸을 때, 인지과학의 '주의 회복 이론(Attention Restoration Theory)'이 작동합니다. 자연의 부드러운 자극(Soft Fascination)은 의지적 뇌 활동을 쉬게 하고 자발적 주의력을 일깨워 전두엽을 휴식 상태로 만듭니다. 이때 뇌의 잠재의식적 처리 경로인 '기본 모드 네트워크(DMN)'가 기동되어, 해결하지 못하고 얽혀 있던 복잡한 수학 공식과 물리학적 매트릭스의 조각들을 무의식 속에서 재정렬하는 '인지적 부화(Cognitive Incubation)'가 일어나 유레카의 도약을 돕습니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "산림 하이킹을 통한 사색을 진행할 때 주의해야 할 최악의 방해 요인은 스마트폰으로 팟캐스트를 듣거나 이메일을 확인하는 것입니다. 자연 속에 있으면서도 디지털 화면에 자발적 주의력을 지속해서 소모한다면 뇌의 주의력 회복과 DMN의 무의식적 부화는 완전히 차단됩니다. 따라서 자연을 걸을 때는 반드시 스마트폰을 비행기 모드로 전환하거나 가방 깊숙이 넣고, 오직 자연의 소리와 자신의 발걸음 진동에만 온전히 집중하는 걷기 명상 형태로 수행해야 합니다.",
-      "en": "The worst trap when hiking for reflection is checking emails or listening to podcasts on your phone. Even in nature, consuming directed attention on digital screens completely blocks DMN incubation and attention recovery. Keep your phone in airplane mode or deep in your bag, and focus entirely on the sounds of nature and the sensation of your steps.",
-      "ja": "山林ハイキングによる思索を行う際に最も避けるべき妨げは、スマートフォンでポッドキャストを聞いたり電子メールを確認することです。自然の中にいながらもデジタル画面に意志的注意を消耗し続けるなら, 脳の注意力回復とDMNの無意識的な孵化は完全に遮断されます. したがって、自然を歩く時は必ずスマートフォンを飛行機モードにするかカバンの奥深くに入れ、自然の音と自らの足音の振動にのみ完全に集中する歩行瞑想の形で遂行しなければなりません.",
-      "zh": "进行森林登山思索时最坏的干扰因素是，用手机听播客或查看电子邮件。即使置身于大自然中，若持续在数字屏幕上消耗定向注意力，大脑注意力的恢复与DMN的无意识孵化就会被完全阻断。因此，在自然中散步时，务必将智能手机转为飞行模式或放入包底，必须以只专注于自然之声和自身脚步振动的行走默想形式进行。",
-      "es": "El error es caminar escuchando podcasts o revisando mensajes. Seguir consumiendo atención dirigida frente a una pantalla bloquea la incubación y restauración cognitiva. Ponga el móvil en modo avión o guárdelo en su mochila. Concéntrese exclusivamente en la resonancia de sus pasos y en el entorno acústico del bosque.",
-      "fr": "L'erreur es de marcher en écoutant des podcasts ou en vérifiant ses messages. Consommer de l'attention sur un écran bloque la restauration cognitive. Mettez le téléphone en mode avion. Concentrez-vous sur la résonance de vos pas et les bruits de la nature.",
-      "de": "Der größte Fehler beim Wandern zur Reflexion ist das Checken von E-Mails oder Hören von Podcasts. Die fortgesetzte Nutzung von Bildschirmen blockiert die Regeneration und das DMN. Schalten Sie das Handy in den Flugmodus und konzentrieren sich ganz auf die Naturgeräusche und das Gehen.",
-      "pt": "O erro é caminhar ouvindo podcasts ou revisando mensagens. Seguir consumindo atenção dirigida diante de uma tela bloqueia a incubação. Coloque o telemóvel em modo avião e concentre-se exclusivamente nos seus passos.",
-      "id": "Kesalahan terbesar saat mendaki adalah sambil mendengarkan podcast atau memeriksa ponsel. Ini menguras perhatian terarah Anda dan memblokir inkubasi DMN. Atur ponsel ke mode pesawat, dan fokuslah pada suara alam sekitar."
+      "ko": "산림 하이킹을 통한 사색을 진행할 때 주의해야 할 최악의 방해 요인은 스마트폰으로 팟캐스트를 듣거나 이메일을 확인하는 것입니다. 자연 속에 있으면서도 디지털 화면에 자발적 주의력을 지속해서 소모한다면 뇌의 주의력 회복과 DMN의 무의식적 부화는 완전히 차단됩니다. 따라서 자연을 걸을 때는 반드시 스마트폰을 비행기 모드로 전환하거나 가방 깊숙이 넣고, 오직 자연의 소리와 자신의 발걸음 진동에만 온전히 집중하는 걷기 명상 형태로 수행해야 합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "디지털 차단 및 등산 경로 설정",
-          "en": "Digital Off and Setting Up a Hiking Trail",
-          "ja": "デジタル遮断および登山ルートの設定",
-          "zh": "切断数字连接并设定登山路线",
-          "es": "Desconexión digital y trazar la ruta verde",
-          "fr": "Couper la connexion numérique et choisir un sentier",
-          "de": "Verbindungsverbot und Festlegen einer Waldroute",
-          "pt": "Desconexão digital e traçar a rota verde",
-          "id": "Matikan Gawai dan Pilih Jalur Hiking"
+          "ko": "디지털 차단 및 등산 경로 설정"
         },
         "text": {
-          "ko": "스마트폰을 비행기 모드로 전환하고, 거주지 근처나 휴양지의 나무와 자연이 풍부하게 펼쳐진 하이킹 경로를 확보해 나섭니다.",
-          "en": "Switch your phone to airplane mode, and secure a hiking trail rich in trees and nature near your residence or resort.",
-          "ja": "スマートフォンを飛行機モードに切り替え、居住地の近くや休養地の樹木と自然が豊かに広がるハイキングルートを確保して出かけます。",
-          "zh": "将智能手机转为飞行模式，并前往住所附近或度假地里林木茂密、自然风光舒展的登山路线。",
-          "es": "Active el modo avión en el móvil. Diríjase a una zona forestal, parque natural o sendero verde y prepare su caminata sin interferencias.",
-          "fr": "Activez le mode avion sur votre téléphone. Dirigez-vous vers un parc, une forêt ou un sentier et commencez votre marche.",
-          "de": "Schalten Sie Ihr Handy in den Flugmodus und wählen eine Route mit vielen Bäumen in einem nahegelegenen Wald.",
-          "pt": "Ative o modo avião no telemóvel. Dirija-se a uma zona florestal, parque natural ou sendero verde e prepare a sua caminhada.",
-          "id": "Ubah ponsel ke mode pesawat. Pergilah ke jalur pendakian atau taman hutan yang asri dan tenang di dekat Anda."
+          "ko": "스마트폰을 비행기 모드로 전환하고, 거주지 근처나 휴양지의 나무와 자연이 풍부하게 펼쳐진 하이킹 경로를 확보해 나섭니다."
         }
       },
       {
         "name": {
-          "ko": "30분간의 무목적 걷기 명상",
-          "en": "Engaging in 30 Minutes of Aimless Walking Meditation",
-          "ja": "30分間の無目的歩行瞑想",
-          "zh": "进行30分钟的无目的行走默想",
-          "es": "Caminar de forma contemplativa durante 30 minutos",
-          "fr": "Marcher de façon contemplative pendant 30 minutos",
-          "de": "30 Minuten zielloses Gehen in der Natur",
-          "pt": "Caminar de forma contemplativa durante 30 minutos",
-          "id": "Jalan Santai Tanpa Tujuan Selama 30 Menit"
+          "ko": "30분간의 무목적 걷기 명상"
         },
         "text": {
-          "ko": "난제의 조속한 해결 압박을 잠시 내려놓고, 발바닥의 감각과 피톤치드의 향기, 바람의 감촉에만 몰입하며 30분간 고요히 걷습니다.",
-          "en": "Release the pressure to solve the puzzle instantly, and walk quietly for 30 minutes, immersing solely in the touch of wind and steps.",
-          "ja": "難題の早急な解決のプレッシャーを一時的に手放し、足の裏の感覚やフィトンチッドの香り、風の感触にのみ没頭しながら30分間静かに歩きます。",
-          "zh": "暂时放下急于解决难题的压力，将注意完全沉浸在脚底的感官、空气中负离子的香气以及风的触觉中，安静地步行30分钟。",
-          "es": "Aplace la presión por solucionar el dilema y camine a paso constante durante 30 minutos, concentrado en sus pasos y en el viento.",
-          "fr": "Oubliez la pression du problème et marchez à pas régulier pendant 30 minutes, concentré sur la nature et vos pas.",
-          "de": "Vergessen Sie das Problem für einen Moment und gehen Sie 30 Minuten lang ruhig, konzentriert auf Atmung und Natur.",
-          "pt": "Esqueça a pressão do problema e caminhe a passo constante durante 30 minutos, concentrado nos seus passos e no viento.",
-          "id": "Lepaskan sejenak beban pikiran Anda. Berjalanlah secara santai selama 30 menit sambil meresapi udara segar dan embusan angin."
+          "ko": "난제의 조속한 해결 압박을 잠시 내려놓고, 발바닥의 감각과 피톤치드의 향기, 바람의 감촉에만 몰입하며 30분간 고요히 걷습니다."
         }
       },
       {
         "name": {
-          "ko": "도출된 무의식 힌트 즉각 메모",
-          "en": "Immediately Taking Notes on Subconscious Clues",
-          "ja": "導出された無意識のヒントの即時メモ",
-          "zh": "即刻记录得出的无意识线索",
-          "es": "Registrar de inmediato los hallazgos subconscientes",
-          "fr": "Noter immédiatement les pistes révélées",
-          "de": "Im Hintergrund geordnete Gedanken sofort aufschreiben",
-          "pt": "Registrar de imediato os lampejos subconscientes",
-          "id": "Segera Catat Ide yang Muncul Secara Spontan"
+          "ko": "도출된 무의식 힌트 즉각 메모"
         },
         "text": {
-          "ko": "하이킹을 마친 뒤, DMN의 무의식적 조각 재배열을 통해 번뜩 떠오른 아이디어의 핵심 고리를 일기장에 즉각 적어 보관합니다.",
-          "en": "After hiking, immediately write down the core chain of ideas that flashed into your mind through the subconscious rearrangement of DMN.",
-          "ja": "ハイキングを終えた後、DMNの無意識的な破片の再配列を通じてひらめいたアイデアの核心を、日記帳に即座に書き残して保管します。",
-          "zh": "登山结束后，将在无意识的DMN碎片重组中瞬间闪现的想法核心逻辑，立刻记录到日记本上妥善保存。",
-          "es": "Al concluir la caminata, anote inmediatamente en su diario la cadena de ideas o soluciones reveladas por su procesamiento subconsciente.",
-          "fr": "À la fin de la marche, notez immédiatement les idées clés révélées par le travail de votre subconscient.",
-          "de": "Notieren Sie direkt nach dem Gehen die Ideen, die Ihnen unbewusst in den Sinn gekommen sind, in Ihrem Notizbuch.",
-          "pt": "Ao concluir a caminhada, anote imediatamente no seu diário os lampejos de soluções revelados pelo seu processamento subconsciente.",
-          "id": "Setelah hiking selesai, segera catat ide-ide kreatif yang muncul secara tiba-tiba ke dalam jurnal Anda."
+          "ko": "하이킹을 마친 뒤, DMN의 무의식적 조각 재배열을 통해 번뜩 떠오른 아이디어의 핵심 고리를 일기장에 즉각 적어 보관합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "도심에 거주하여 하이킹이나 산행을 가기 힘들 때는 어떻게 대체하나요?",
-          "en": "How can I replace this when living in a city, making hiking difficult?",
-          "ja": "都心に住んでいてハイキングや登山が難しい場合は、どのように代替しますか？",
-          "zh": "居住在城市里，难以去远足或爬山时该如何代替？",
-          "es": "¿Cómo puedo reemplazar esto si vivo en la ciudad y es difícil hacer senderismo?",
-          "fr": "Comment puis-je remplacer cela si je vis en ville et qu'il est difficile de randonner ?",
-          "de": "Wie kann ich dies ersetzen, wenn ich in einer Stadt wohne und Wandern schwierig ist?",
-          "pt": "Como posso substituir isso se moro na cidade e é difícil fazer caminhadas?",
-          "id": "Bagaimana saya bisa menggantinya jika tinggal di kota dan sulit untuk mendaki?"
+          "ko": "도심에 거주하여 하이킹이나 산행을 가기 힘들 때는 어떻게 대체하나요?"
         },
         "answer": {
-          "ko": "도심 속 공원이나 가로수길을 스마트폰 없이 자연 풍경을 탐색하며 30분 이상 걷는 것으로 대체할 수 있습니다. 야외 활동을 통한 시공간 감각 자극과 뇌혈류 활성화가 핵심입니다.",
-          "en": "You can substitute it by walking in a city park or tree-lined street for over 30 minutes without a smartphone. The key is stimulating spatiotemporal senses and boosting brain blood flow through outdoor activity.",
-          "ja": "都心の中の公園や並木道を、スマートフォンを持たずに自然の風景を探索しながら30分以上歩くことで代替できます。屋外活動を通じた時空間感覚の刺激と脳血流の活性化が核心です。",
-          "zh": "可以通过不带手机在城市公园或林荫道漫步30分钟以上来代替。关键是通过户外活动刺激时空感并促进脑部血液流动。",
-          "es": "Puedes sustituirlo caminando en un parque de la ciudad durante más de 30 minutos sin móvil. La clave es estimular los sentidos espaciotemporales y aumentar el flujo sanguíneo cerebral.",
-          "fr": "Vous pouvez y substituer une marche de 30 minutes dans un parc de la ville sans smartphone. L'important est de stimuler les sens et d'augmenter le flux sanguin cérébral.",
-          "de": "Sie können stattdessen über 30 Minuten ohne Smartphone in einem Stadtpark spazieren gehen. Der Schlüssel liegt in der Anregung der Sinne und der Förderung der Durchblutung durch Aktivität im Freien.",
-          "pt": "Você pode substituir isso caminhando em um parque da cidade por mais de 30 minutos sem o telemóvel. A chave é estimular los sentidos espaço-temporais e aumentar o fluxo sanguíneo cerebral.",
-          "id": "Anda dapat menggantinya dengan berjalan di taman kota selama lebih dari 30 menit tanpa ponsel. Kuncinya adalah merangsang indra spasio-temporal dan melancarkan aliran darah otak."
+          "ko": "도심 속 공원이나 가로수길을 스마트폰 없이 자연 풍경을 탐색하며 30분 이상 걷는 것으로 대체할 수 있습니다. 야외 활동을 통한 시공간 감각 자극과 뇌혈류 활성화가 핵심입니다."
         }
       },
       {
         "question": {
-          "ko": "하이킹 중 떠오른 아이디어를 잊지 않고 기록하는 팁이 있나요?",
-          "en": "Are there tips to record ideas that come to mind during a hike without forgetting them?",
-          "ja": "ハイキング中に思い浮かんだアイデアを忘れずに記録するコツはありますか？",
-          "zh": "有什么诀窍可以不漏掉地记录在远足中想到的点子吗？",
-          "es": "¿Hay algún consejo para registrar las ideas que surgen durante una caminata sin olvidarlas?",
-          "fr": "Y a-t-il des astuces pour noter les idées qui surviennent pendant une randonnée sans les oublier ?",
-          "de": "Gibt es Tipps, um Ideen, die beim Wandern entstehen, sofort festzuhalten?",
-          "pt": "Tem alguma dica para registrar as ideias que surges durante uma caminhada sem esquecê-las?",
-          "id": "Apakah ada tips untuk mencatat ide yang muncul saat mendaki agar tidak terlupakan?"
+          "ko": "하이킹 중 떠오른 아이디어를 잊지 않고 기록하는 팁이 있나요?"
         },
         "answer": {
-          "ko": "주머니에 작은 메모 수첩과 펜을 소지하여 생각나는 즉시 핵심 단어만 간단히 수기 기록하거나, 걷기에 방해되지 않도록 음성 메모 기능으로 즉석 녹음하는 방안을 추천합니다.",
-          "en": "We recommend carrying a small notepad and pen in your pocket to jot down keywords instantly, or using voice memo features for quick hands-free recording.",
-          "ja": "ポケットに小さなメモ帳とペンを入れておき、思いついた瞬間にキーワードだけを手書きで記録するか、歩く邪魔にならないように音声メモ機能で即座に録音することをお勧めします。",
-          "zh": "建议在口袋里放一个小型笔记本和笔，想到灵感时立即手写记录关键词，或者使用语音备忘录功能实时录音以防干扰步行。",
-          "es": "Recomendamos llevar un pequeño cuaderno y bolígrafo en el bolsillo para anotar palabras clave al instante, o usar notas de voz para no interrumpir la caminata.",
-          "fr": "Nous recommandons de garder un petit carnet et un stylo sur vous pour noter les mots-clés, ou d'utiliser les notes vocales pour ne pas interrompre la marche.",
-          "de": "Wir empfehlen, ein kleines Notizbuch und einen Stift in der Tasche zu tragen, um Stichworte festzuhalten, oder Sprachnotizen zu verwenden.",
-          "pt": "Recomendamos levar um pequeno caderno e caneta no bolso para anotar palavras-chave instantaneamente, ou usar notas de voz para não interromper a caminhada.",
-          "id": "Kami menyarankan Anda membawa buku catatan kecil dan pena di saku untuk segera menulis kata kunci, atau menggunakan memo suara agar tidak mengganggu jalan."
+          "ko": "주머니에 작은 메모 수첩과 펜을 소지하여 생각나는 즉시 핵심 단어만 간단히 수기 기록하거나, 걷기에 방해되지 않도록 음성 메모 기능으로 즉석 녹음하는 방안을 추천합니다."
         }
       }
-    ],
-    "pubDate": "2026-02-06",
-    "updatedDate": "2026-02-06"
+    ]
   }
 }

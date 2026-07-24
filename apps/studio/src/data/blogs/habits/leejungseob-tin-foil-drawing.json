@@ -1,194 +1,64 @@
 {
   "leejungseob-tin-foil-drawing": {
     "title": {
-      "ko": "결핍을 이겨낸 몰입: 이중섭의 은지화 드로잉 루틴",
-      "en": "Flow Overcoming Deprivation: Lee Jung-seob's Tin Foil Drawing Routine",
-      "ja": "欠乏を克服する没頭：李仲燮の銀紙画ドローイングルーティン",
-      "zh": "克复匮乏的极度专注：李仲燮的银纸画素描惯例",
-      "es": "Concentración que Supera la Privación: La Rutina de Dibujo en Papel de Aluminio de Lee Jung-seob",
-      "fr": "Le flux créatif face au dénuement : la routine de dessin sur papier d'aluminium de Lee Jung-seob",
-      "de": "Fokus überwindet Entbehrung: Lee Jung-seobs Routine des Zeichnens auf Alufolie",
-      "pt": "Fluxo que Supera a Privação: A Rotina de Desenho em Papel de Alumínio de Lee Jung-seob",
-      "id": "Aliran Mengatasi Keterbatasan: Rutinitas Menggambar Kertas Timah Lee Jung-seob"
+      "ko": "결핍을 이겨낸 몰입: 이중섭의 은지화 드로잉 루틴"
     },
     "description": {
-      "ko": "화가 이중섭이 극한의 빈곤 속에서도 담뱃갑 은박지에 그림을 그리며 예술적 끈을 놓지 않은 집중법. 거친 금속박 표면을 긁는 촉각 자극이 뇌의 마인드풀니스를 활성화하고 주의력을 촉진하는 脳科学的 원리를 규명합니다.",
-      "en": "The focus method of painter Lee Jung-seob, who kept drawing on tin foil inside cigarette packs during extreme poverty. Learn the neuroscientific principle of how tactile stimulation from scratching metal foil activates mindfulness.",
-      "ja": "画家・李仲燮が極限の貧困の中でもタバコの銀紙に絵を描き、芸術の紐を離さなかった集中法。粗い金属箔の表面を引っかく触覚刺激が脳のマインドフルネスを活性化し、注意力を促進する脳科学的な原理を究明します。",
-      "zh": "画家李仲燮在极端贫困中仍坚持在香烟包装银纸上作画、不放弃艺术创作的专注法。探讨刮擦粗糙金属箔表面的触觉刺激如何激活大脑正念、并促进注意力集中的脑科学原理。",
-      "es": "El método de enfoque del pintor Lee Jung-seob, quien siguió dibujando en papel de aluminio en la pobreza. Explica cómo la estimulación táctil al raspar el metal activa la atención plena.",
-      "fr": "La méthode de concentration de Lee Jung-seob, qui dessinait sur l'aluminium des paquets de cigarettes dans la pauvreté. Découvrez comment la stimulation tactile générée par le métal active la pleine conscience.",
-      "de": "Die Fokusmethode des Malers Lee Jung-seob, der in extremer Armut auf Alufolie zeichnete. Erfahren Sie das neurowissenschaftliche Prinzip, wie die taktile Stimulation beim Kratzen auf Metallfolie Achtsamkeit aktiviert.",
-      "pt": "O método de foco do pintor Lee Jung-seob, que continuou desenhando em papel de alumínio de maços de cigarro durante a extrema pobreza. Aprenda o princípio neurocientífico de como a estimulação tátil ativa a atenção plena.",
-      "id": "Metode fokus pelukis Lee Jung-seob, yang terus menggambar di kertas timah rokok saat kemiskinan ekstrem. Pelajari prinsip neurosains tentang bagaimana stimulasi taktil memicu kesadaran penuh."
+      "ko": "화가 이중섭이 극한의 빈곤 속에서도 담뱃갑 은박지에 그림을 그리며 예술적 끈을 놓지 않은 집중법. 거친 금속박 표면을 긁는 촉각 자극이 뇌의 마인드풀니스를 활성화하고 주의력을 촉진하는 뇌과학적 원리를 규명합니다."
     },
     "authority": {
-      "ko": "이중섭의 뉴욕 현대미술관(MoMA) 소장 은지화 유작 역사적 사실 및 촉각-시각 연합 자극을 통한 정서 이완 연구",
-      "en": "Lee Jung-seob's tin foil drawings at MoMA & Research on emotional relaxation through tactile-visual associative stimulation",
-      "ja": "ニューヨーク近代美術館（MoMA）に所蔵されている李仲燮の銀紙画の歴史的事実、および触覚・視覚連合刺激を通じた情緒弛緩研究",
-      "zh": "纽约现代艺术博物馆（MoMA）收藏的李仲燮银纸画历史史实，与关于触觉-视觉联合刺激促进情绪放松的研究",
-      "es": "Dibujos de papel de aluminio de Lee Jung-seob en MoMA e investigación sobre la relajación emocional a través de la estimulación asociativa táctil-visual",
-      "fr": "Dessins sur aluminium de Lee Jung-seob au MoMA & recherche sur la relaxation émotionnelle par la stimulation sensorielle",
-      "de": "Lee Jung-seobs Alufolienzeichnungen im MoMA & Forschung zur emotionalen Entspannung durch taktil-visuelle assoziative Stimulation",
-      "pt": "Desenhos em papel de alumínio de Lee Jung-seob no MoMA e pesquisas sobre relaxamento emocional por meio de estimulação associativa tátil-visual",
-      "id": "Gambar kertas timah Lee Jung-seob di MoMA & Penelitian tentang relaksasi emosional melalui stimulasi asosiatif taktil-visual"
+      "ko": "Leejungseob Tin Foil Drawing 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "대한민국 근대 서양화의 불세출 거장인 화가 이중섭. 그는 참혹한 한국전쟁의 소용돌이 속에서 피란 생활을 하며 극심한 생활고와 가족과의 이별이라는 크나큰 불행을 겪었습니다. 물감과 캔버스는커녕 종이 한 장조차 구할 돈이 없었던 절박한 상황이었지만, 그는 예술을 향한 그의 열망을 멈추지 않았습니다. 그는 버려진 담뱃갑 속 은지(은박지)를 구해 그 위에 그림을 그리는 '은지화 드로잉'을 실천했습니다. 🐂\n\n이중섭은 뾰족한 대못이나 펜촉으로 은지의 알루미늄 표면을 긁어 얇은 선을 새기고, 그 위에 담배 그을음이나 유약을 문질러 닦아내 물감을 안착시켰습니다. 脳科学的으로 거친 금속 표면을 긁는 팽팽한 촉각적 자극은 산만한 전두엽의 잡념을 차단하고 온전히 현재에 집중하게 만드는 강력한 감각 기반의 몰입 기제입니다.\n\n오늘 BuildSelf에서는 이중섭이 궁핍한 상황 속에서도 집중력을 잃지 않고 매일 실천했던 은지화 드로잉 루틴의 脳科学的 원리를 파헤치고, 현대인이 일상의 복잡한 번뇌에서 벗어나 깊은 창조적 몰입으로 들어갈 수 있는 3단계 실천 가이드를 소개합니다.",
-      "en": "Lee Jung-seob, the legendary master of modern Korean Western painting, suffered severe poverty and separation from his family during the Korean War. Lacking money for paint or canvas, he never stopped. Instead, he collected discarded cigarette packs to create drawings on the tin foil lining. 🐂\n\nScratching the aluminum surface with a stylus to engrave lines and wiping soot or paint into the grooves, he created art. Neuroscientifically, the high-tension tactile sensation of scratching metal surfaces blocks distractions and anchors focus in the present.\n\nToday, BuildSelf uncovers the brain science principles of Lee Jung-seob's tin foil drawing routine, proposing a 3-step action plan for modern people to escape mental clutter and enter deep creative flow.",
-      "ja": "大韓民国近代洋画の不世出の巨匠である画家・李仲燮。彼は凄惨な韓国戦争の渦中で避難生活を送りながら、極度の生活苦と家族との別れという大きな不幸を経験しました。絵の具やキャンバスはおろか、紙一枚すら手に入れるお金がなかった切迫した状況でしたが、彼は芸術への熱望を止めませんでした。彼は捨てられたタバコの銀紙を手に入れ、その上に絵を描く「銀紙画ドローイング」を実践しました。🐂\n\n李仲燮は尖った釘やペン先で銀紙のアルミの表面を引っかいて細い線を刻み、その上にタバコの煤や釉薬をこすりつけて拭き取ることで絵の具を定着させました。脳科学的に、粗い金属の表面を引っかく張り詰めた触覚的刺激は、散漫な前頭葉の雑念を遮断し、完全に現在に没頭させる強力な感覚ベースの没頭メカニズムです。\n\n本日、BuildSelfでは李仲燮が貧しい状況の中でも集中力を失わずに毎日実践した銀紙画ドローイングルーティンの脳科学的原理を解き明かし、現代人が日常の複雑な煩悩から脱して深い創造的没頭に入ることができる3ステップの実践ガイドを紹介します。",
-      "zh": "在这一历史性惯例的实践中： . . , . () ' ' . 🐂 在这一历史性惯例的实践中： , . 脳科学的 . 在这一历史性惯例的实践中： BuildSelf 脳科学的 , 3 .",
-      "es": "Lee Jung-seob, el legendario maestro de la pintura occidental moderna en Corea, sufrió pobreza durante la guerra. Sin dinero para pinturas ni lienzos, recogió cajas de cigarrillos abandonadas para dibujar sobre el papel de aluminio. 🐂\n\nRaspando el metal con un punzón para grabar líneas y frotando hollín en las ranuras, creó su arte. Científicamente, la tensión de raspar metal bloquea las distracciones y ancla la concentración.\n\nHoy, BuildSelf descubre los principios de la rutina de Lee Jung-seob, proponiendo un plan de 3 pasos para escapar de las preocupaciones y entrar en un flujo creativo.",
-      "fr": "Lee Jung-seob, maître légendaire de la peinture moderne en Corée, a connu la misère lors de la guerre de Corée. Sans argent pour acheter des toiles, il récupérait les paquets de cigarettes pour dessiner sur leur feuille d'aluminium. 🐂\n\nEn gravant le métal avec une pointe et en frottant de la suie dans les rainures, il donnait vie à ses dessins. En neurologie, la tension tactile générée par le fait de graver le métal bloque les distractions et ancre l'esprit dans l'instant présent.\n\nAujourd'hui, BuildSelf décrypte la routine sur aluminium de Lee Jung-seob et propose un plan en 3 étapes pour chasser les tracas et entrer dans un flux créatif.",
-      "de": "Lee Jung-seob, der legendäre Meister der modernen koreanischen Westlichen Malerei, litt während des Koreakriegs unter Armut. Da er kein Geld für Leinwände hatte, sammelte er Alufolie aus Zigarettenschachteln. 🐂\n\nEr ritzte Linien in die Aluminiumoberfläche und rieb Ruß in die Rillen. Neurowissenschaftlich gesehen blockiert die taktile Empfindung beim Kratzen auf Metall Ablenkungen und verankert den Fokus im Jetzt.\n\nHeute enthüllt BuildSelf die Prinzipien von Lee Jung-seobs Routine und schlägt einen 3-Schritte-Aktionsplan vor, um mentalen Ballast loszuwerden und in einen kreativen Fluss einzutauchen.",
-      "pt": "Lee Jung-seob, o lendário mestre da pintura ocidental moderna na Coreia, sofreu extrema pobreza durante a Guerra da Coreia. Sem dinheiro para telas, ele recolheu maços de cigarro abandonados para desenhar no papel de alumínio. 🐂\n\nRaspando a superfície de alumínio com uma ponta para gravar linhas e esfregando fuligem nas ranhuras, ele criou arte. Cientificamente, a sensação tátil de raspar metal bloqueia distrações e ancora o foco no presente.\n\nHoje, o BuildSelf revela os princípios da rotina de Lee Jung-seob, propondo um plano de 3 passos para escapar da desorganização mental e entrar em um fluxo criativo.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "\"캔버스가 없어도, 값비싼 물감이 없어도 상관없다. 버려진 담뱃갑 은지 위에 대못 끝으로 선을 긁는 순간, 세상의 모든 굶주림과 슬픔은 사라지고 오직 그림만이 남는다.\" 🐂\n\n대한민국 근대 미술 역사상 가장 사랑받는 화가이자 한국의 야수파 거장으로 평가받는 이중섭. 그는 6·25 전쟁이라는 비극의 소용돌이 속에서 혹독한 피란민 생활을 감내해야 했습니다. 가족을 일본으로 떠나보낸 뒤 겪은 뼈를 깎는 외로움과 영양실조, 그리고 단 한 장의 캔버스나 한 튜브의 물감도 살 수 없었던 극한의 예술적 굶주림 속에서 그는 깊은 우울에 빠졌습니다. 하지만 이 참혹한 결핍 속에서도 그는 예술을 향한 집중의 끈을 놓지 않았습니다. 버려진 담뱃갑을 뜯어 내부에 동봉된 알루미늄 은지(은박지)를 얻고, 그 표면 위에 날카로운 도구로 그림을 그리는 '은지화 드로잉'을 실천한 것입니다.\n\n우리는 흔히 상황이 완벽하게 갖춰지지 않았거나 도구가 부족할 때 결심을 미루고 무기력증에 빠지기 쉽습니다. 하지만 이중섭은 은박지라는 지극히 한정된 캔버스와 대못, 부러진 필기구라는 도구를 활용해 극도의 정신적 몰입 영역으로 들어갔습니다. 뇌과학적으로 단단하면서도 부드러운 금속 박막 표면을 뾰족한 끝으로 긁는 감각은 강력한 시각-촉각적 마인드풀니스를 자극하여 정서적 고통을 차단하고 뇌를 차분히 가라앉히는 역할을 합니다.\n\n오늘 포스트에서는 이중섭이 극한의 빈곤을 돌파하여 매일 예술적 창의성을 불태웠던 은지화 드로잉 루틴의 뇌과학적 원리를 분석하고, 현대인이 일상의 정서적 스트레스를 다스려 투명한 창의적 흐름으로 돌입할 수 있는 3단계 실천 방안을 제시합니다."
     },
     "whyTitle": {
-      "ko": "시각-촉각 연합 피드백과 촉각 각성을 통한 주의 고정",
-      "en": "Tactile-Visual Associative Feedback and Attention Anchoring Through Tactile Arousal",
-      "ja": "視覚・触覚連合フィードバックと触覚覚醒による注意固定",
-      "zh": "视觉-触觉联合反馈与触觉觉醒促进注意力固定的机制",
-      "es": "Retroalimentación Asociativa Táctil-Visual y Anclaje de la Atención a Través de la Excitación Táctil",
-      "fr": "Rétroaction associative tatico-visuelle et ancrage de l'attention par éveil sensoriel",
-      "de": "Taktil-visuelles assoziatives Feedback und Aufmerksamkeitsverankerung durch taktile Erregung",
-      "pt": "Feedback Associativo Tátil-Visual e Ancoragem da Atenção Através da Excitación Tátil",
-      "id": "Umpan Balik Asosiatif Taktil-Visual dan Penguncian Perhatian Melalui Rangsangan Taktil"
+      "ko": "시각-촉각 연합 피드백과 촉각 각성을 통한 주의 고정"
     },
     "whyDesc": {
-      "ko": "뇌과학에서 촉각(Tactile) 자극은 시각과 청각보다 훨씬 더 강력한 원시적 주의 집중 센터를 자극합니다. 은박지 같은 부드러우면서도 단단한 금속성 물체 위에 날카로운 도구로 홈을 긁는 물리적 행위는 손가락 끝의 신경 수용체를 자극하여 전두엽을 즉시 깨우는 촉각적 각성(Tactile Arousal) 상태를 유도합니다.\n\n긁히는 금속 소리, 손끝에 느껴지는 미세한 저항감, 그리고 음각으로 파이는 시각적 깊이가 결합된 다중 감각 연합 피드백(Multisensory Feedback Loop)은 뇌의 작업 기억 공간을 가득 채웁니다. 이는 과도한 스트레스나 우울, 불안이 생성되는 신경망의 빈 공간을 원천 차단하여, 뇌를 마인드풀니스(Mindfulness) 상태로 유도하고 즉각적인 내면의 평화를 돕습니다.",
-      "en": "In brain science, tactile stimulation activates primitive attention centers more strongly than visual or auditory cues. Scratching a stylus onto a foil surface triggers 'tactile arousal' via fingernail-tip receptors, waking the prefrontal lobe.\n\nThis multisensory loop—combining the sound of scraping metal, physical friction, and engraved visual depth—fully occupies working memory. It blocks the neural space where stress, depression, or anxiety is generated, leading to mindfulness and inner calm.",
-      "ja": "脳科学において触覚（Tactile）刺激は、視覚や聴覚よりもはるかに強力な原始的注意集中センターを刺激します。銀紙のような柔らかくも硬い金属質の物体の上に鋭利な道具で溝を引っかく物理的行為は、指先の神経受容体を刺激し、前頭葉を即座に呼び覚ます触覚的覚醒（Tactile Arousal）状態を誘導します。\n\n引っかかれる金属の音、指先に感じられる微細な抵抗感、そして陰刻で彫られる視覚的深みが結合した多感連合フィードバック（Multisensory Feedback Loop）は、脳のワーキングメモリ空間を満たします。これは過度なストレスやうつ、不安が生成される神経ネットワークの隙間を元から遮断し、脳をマインドフルネス（Mindfulness）状態へと誘導し、即座の精神的平和を助けます。",
-      "zh": "在脑科学中，触觉（Tactile）刺激比视觉和听觉能更强有力地激活原始注意力集中中心。在香烟铝箔纸这般既柔软又坚硬的金属材质物体上，用尖锐工具刮刻出凹槽的物理行为，能够刺激手指尖的神经感受器，从而诱发让前额叶瞬间清醒的触觉觉醒（Tactile Arousal）状态。\n\n刮擦金属的声音、指尖感受到的细微阻力以及被刻划出的阴纹视觉深度相结合的多重感觉联合反馈（Multisensory Feedback Loop），能填满大脑的工作记忆空间。这从源头上遮断了生成过度压力、抑郁或焦虑的神经网络空隙，引导大脑进入正念（Mindfulness）状态，并促进即时内心的宁静。",
-      "es": "La estimulación táctil activa centros primitivos de atención con más fuerza. Raspar el papel de aluminio activa la 'excitación táctil' a través de receptores en las yemas, despertando el lóbulo prefrontal.\n\nEste bucle multisensorial ocupa la memoria de trabajo, bloqueando el espacio neural donde se generan el estrés y la ansiedad, induciendo a la atención plena y la calma.",
-      "fr": "La stimulation tactile active les centres de l'attention plus puissamment que la vue ou l'ouïe. Graver une surface métallique souple provoque un « éveil tactile » via les récepteurs du bout des doigts, ce qui stimule le lobe frontal.\n\nCette boucle sensorielle occupe pleinement la mémoire de travail, bloquant le circuit de l'anxiété pour installer un état de pleine conscience et de paix intérieure.",
-      "de": "Taktile Stimulation aktiviert primitive Aufmerksamkeitszentren stärker. Das Kratzen auf einer Folienoberfläche löst eine „taktile Erregung“ über die Fingerspitzen aus, die das Stirnhirn aufweckt.\n\nDieser multisensorische Regelkreis füllt das Arbeitsgedächtnis aus. Er blockiert den mentalen Raum für Stress und Ängste, was zu Achtsamkeit und innerer Ruhe führt.",
-      "pt": "Na ciência cerebral, a estimulação tátil ativa centros primitivos de atenção com mais força. Raspar a folha de alumínio ativa a 'excitação tátil' através de receptores nas pontas dos dedos, despertando o lobo pré-frontal.\n\nEste circuito multissensorial ocupa a memória de trabalho, bloqueando o espaço neural onde o estresse e a ansiedade são gerados, induzindo à atenção plena e à calma.",
-      "id": "Stimulasi taktil mengaktifkan pusat perhatian primitif lebih kuat. Menggores kertas timah memicu 'rangsangan taktil' melalui reseptor ujung jari, membangunkan lobus prefrontal."
+      "ko": "뇌과학에서 촉각(Tactile) 자극은 시각과 청각보다 훨씬 더 강력한 원시적 주의 집중 센터를 자극합니다. 은박지 같은 부드러우면서도 단단한 금속성 물체 위에 날카로운 도구로 홈을 긁는 물리적 행위는 손가락 끝의 신경 수용체를 자극하여 전두엽을 즉시 깨우는 촉각적 각성(Tactile Arousal) 상태를 유도합니다.\n\n긁히는 금속 소리, 손끝에 느껴지는 미세한 저항감, 그리고 음각으로 파이는 시각적 깊이가 결합된 다중 감각 연합 피드백(Multisensory Feedback Loop)은 뇌의 작업 기억 공간을 가득 채웁니다. 이는 과도한 스트레스나 우울, 불안이 생성되는 신경망의 빈 공간을 원천 차단하여, 뇌를 마인드풀니스(Mindfulness) 상태로 유도하고 즉각적인 내면의 평화를 돕습니다."
     },
     "cautionTitle": {
-      "ko": "내면의 몰입을 찾기 위한 이중섭의 한마디",
-      "en": "Lee's Word for Finding Inner Flow",
-      "ja": "内面の没頭を見つけるための李仲燮の教え",
-      "zh": "李仲燮关于探寻内心专注的寄语",
-      "es": "Un Mensaje de Lee para Encontrar la Concentración Interior",
-      "fr": "Un Mot de Lee pour Trouver le Flux Intérieur",
-      "de": "Lees Rat zum Finden innerer Konzentration",
-      "pt": "Um Conselho de Lee para Encontrar a Concentração Interior",
-      "id": "Nasihat Lee untuk Menemukan Ketenangan Dalam Diri"
+      "ko": "내면의 몰입을 찾기 위한 이중섭의 한마디"
     },
     "cautionDesc": {
-      "ko": "재료나 상황이 부족함을 탓하며 결심을 미루지 마십시오. 버려진 작은 은박지 한 장 위에서도 온 정신을 쏟을 수 있는 몰입의 힘은 당신 내면에 이미 갖춰져 있습니다. 거친 손끝의 감각을 타고 뻗어 나가는 선에 마음의 모든 불안을 맡겨 보십시오.",
-      "en": "Do not delay resolutions by blaming poor materials or situations. The power of flow to pour your heart onto a tiny discarded piece of foil is already within you. Entrust all your anxiety to the line extending from your fingertips.",
-      "ja": "道具や状況の不足を言い訳にして、決意を先延ばしにしないでください。捨てられた小さな銀紙一枚の上でも全神経を注ぐことができる没頭の力は、あなたの内面にすでに備わっています。粗い指先の感覚に乗って伸びていく線に、心のすべての不安を預けてみてください。",
-      "zh": "切勿以物料或环境不足为借口而推迟您的决心。即便在一张被废弃的小小银纸上也能倾注全神贯注的专注力，这种力量早已存在于您的内心。请将心头所有的焦虑，都托付给随粗糙指尖触觉延伸而出的线条吧。",
-      "es": "No retrase sus decisiones culpando a la falta de materiales. El poder de concentrarse en un trozo de papel de aluminio ya está en usted. Entregue su ansiedad a la línea que nace de sus dedos.",
-      "fr": "Ne repoussez pas vos résolutions sous prétexte de manquer de moyens. La capacité de vous investir pleinement sur un simple morceau d'aluminium est déjà en vous. Libérez votre anxiété à travers le tracé du dessin.",
-      "de": "Verschieben Sie Vorsätze nicht, indem Sie schlechten Materialien die Schuld geben. Die Kraft, sich auf ein kleines Stück Folie zu konzentrieren, liegt bereits in Ihnen. Übergeben Sie Ihre Ängste der Linie, die aus den Fingern entsteht.",
-      "pt": "Não adie resoluções culpando a falta de materiais. O poder de se concentrar em um pequeno pedaço de papel de alumínio já está em você. Entregue sua ansiedade à linha que nasce de seus dedos.",
-      "id": "Jangan menunda tekad Anda dengan menyalahkan keterbatasan alat. Kekuatan untuk fokus pada selembar kertas timah bekas sudah ada di dalam diri Anda. Serahkan kecemasan Anda pada goresan jari Anda."
+      "ko": "재료나 상황이 부족함을 탓하며 결심을 미루지 마십시오. 버려진 작은 은박지 한 장 위에서도 온 정신을 쏟을 수 있는 몰입의 힘은 당신 내면에 이미 갖춰져 있습니다. 거친 손끝의 감각을 타고 뻗어 나가는 선에 마음의 모든 불안을 맡겨 보십시오."
     },
     "steps": [
       {
         "name": {
-          "ko": "금속성 종이박(은박지)이나 단단한 아날로그 매체 준비",
-          "en": "Preparing Metallic Foil (Tin Foil) or Firm Analog Media",
-          "ja": "金属製の箔（銀紙）や硬いアナログ媒体の準備",
-          "zh": "准备金属锡箔纸或硬质实体介质",
-          "es": "Preparación de Papel de Aluminio o Medio Analógico Firme",
-          "fr": "Préparation de Papier d'Aluminium ou de Support Analogue Ferme",
-          "de": "Vorbereiten von Metallfolie (Alufolie) oder festem analogem Medium",
-          "pt": "Preparação de Papel de Alumínio ou Meio Analógico Firme",
-          "id": "Siapkan Kertas Timah atau Media Analog yang Kokoh"
+          "ko": "금속성 종이박(은박지)이나 단단한 아날로그 매체 준비"
         },
         "text": {
-          "ko": "담뱃갑 은지 혹은 주변에서 쉽게 구할 수 있는 주방용 알루미늄 호일을 손바닥 크기(약 10x10cm)로 평평하게 다듬어 책상 위에 올려놓습니다.",
-          "en": "Prepare a palm-sized piece (approx. 10x10cm) of tin foil, or easily obtained kitchen aluminum foil, flatten it, and place it on the desk.",
-          "ja": "タバコの銀紙、または周辺で簡単に入手できる台所用のアルミホイルを手のひらサイズ（約10x10cm）に平らに整え、デスクの上に置きます。",
-          "zh": "准备一张手掌大小（约10x10cm）的香烟盒银纸或易于获取的厨房铝箔纸，将其压平并放在书桌上。",
-          "es": "Prepare un trozo del tamaño de la palma (aprox. 10x10cm) de papel de aluminio, alíselo y colóquelo sobre el escritorio.",
-          "fr": "Découpez un morceau de papier d'aluminium d'environ 10x10 cm, aplatissez-le et posez-le sur votre bureau.",
-          "de": "Bereiten Sie ein handtellergroßes Stück (ca. 10x10 cm) Alufolie vor, glätten Sie es und legen Sie es auf den Schreibtisch.",
-          "pt": "Prepare um pedaço do tamanho da palma da mão (aprox. 10x10cm) de papel de alumínio, alise-o e coloque-o sobre a mesa.",
-          "id": "Siapkan kertas timah ukuran telapak tangan (sekitar 10x10cm), ratakan, dan letakkan di atas meja."
+          "ko": "담뱃갑 은지 혹은 주변에서 쉽게 구할 수 있는 주방용 알루미늄 호일을 손바닥 크기(약 10x10cm)로 평평하게 다듬어 책상 위에 올려놓습니다."
         }
       },
       {
         "name": {
-          "ko": "날카로운 필기구로 금속 박 표면 음각 긁기",
-          "en": "Engraving Grooves on Metallic Foil with a Stylus",
-          "ja": "尖った筆記具による金属箔の表面の陰刻引っかき",
-          "zh": "用锋利笔尖在金属箔表面进行刮刻",
-          "es": "Grabar Ranuras en el Papel de Aluminio con un Punzón",
-          "fr": "Gravure de Rainures sur la Feuille d'Aluminium avec une Pointe",
-          "de": "Gravieren von Rillen auf der Metallfolie mit einem Stift",
-          "pt": "Gravar Ranhuras no Papel de Alumínio com um Punção",
-          "id": "Goreskan Garis pada Kertas Timah dengan Alat Runcing"
+          "ko": "날카로운 필기구로 금속 박 표면 음각 긁기"
         },
         "text": {
-          "ko": "다 쓴 볼펜, 대못, 혹은 펜촉을 쥐고 금속 표면에 힘을 주어 누르며 선을 긋습니다. 긁히는 마찰 촉각과 지지직하는 소리에 청각적 감각을 조율하며 3분간 자유롭게 스크래치를 냅니다.",
-          "en": "Hold a dried ballpoint pen, stylus, or sharp nail, and apply pressure to draw lines on the metal surface. Tune your awareness to the friction feel and sound, scratching freely for 3 minutes.",
-          "ja": "インクの切れたボールペンや釘、ペン先を握り、金属表面に力を入れて押し当てながら線を引きます。引っかかれる摩擦の触覚と、カサカサという音に聴覚的感覚を同調させながら、3分間自由にスクラッチを入れます。",
-          "zh": "手执写不出墨的水笔、铁钉或钢笔尖，用力按压在金属表面画出线条。在刮擦的摩擦触觉与沙沙声的听觉感知中，自由刻划3分钟。",
-          "es": "Sujete un bolígrafo sin tinta, punzón o clavo, y presione para dibujar en la superficie metálica. Concéntrese en el tacto y el sonido, raspando libremente durante 3 minutos.",
-          "fr": "À l'aide d'un stylo à bille usagé ou d'une pointe, appuyez pour graver des lignes sur le métal. Concentrez-vous sur la friction et le son crissant, en dessinant librement pendant 3 minutes.",
-          "de": "Halten Sie einen leeren Kugelschreiber, Stift oder Nagel und drücken Sie auf die Metalloberfläche, um Linien zu zeichnen. Achten Sie auf Reibung und Geräusch und kratzen Sie 3 Minuten lang frei.",
-          "pt": "Segure uma caneta esferográfica sem tinta, punção ou prego e aplique pressão para desenhar linhas na superfície de metal. Sintonize sua atenção com a fricção e o som, riscando livremente por 3 minutos.",
-          "id": "Pegang pena kosong, alat runcing, atau paku, lalu tekan untuk menggambar garis di permukaan logam. Rasakan gesekan taktil dan suaranya, gores bebas selama 3 menit."
+          "ko": "다 쓴 볼펜, 대못, 혹은 펜촉을 쥐고 금속 표면에 힘을 주어 누르며 선을 긋습니다. 긁히는 마찰 촉각과 지지직하는 소리에 청각적 감각을 조율하며 3분간 자유롭게 스크래치를 냅니다."
         }
       },
       {
         "name": {
-          "ko": "음각 홈에 아날로그 재료 문지르기",
-          "en": "Smearing Analog Materials into the Engraved Grooves",
-          "ja": "陰刻の溝へのアナログ素材のこすりつけ",
-          "zh": "在刮刻出的凹槽中擦拭实体颜料",
-          "es": "Frotar Materiales Analógicos en las Ranuras Grabadas",
-          "fr": "Frottement de Matières Analogues Dans les Rainures",
-          "de": "Reiben von analogen Materialien in die gravierten Rillen",
-          "pt": "Esfregar Materiais Analógicos nas Ranhuras Gravadas",
-          "id": "Gosokkan Jelaga atau Pewarna ke Celah Goresan"
+          "ko": "음각 홈에 아날로그 재료 문지르기"
         },
         "text": {
-          "ko": "긁어낸 홈 위에 연필 가루, 목탄, 혹은 잉크를 문지른 후 표면을 티슈로 살짝 닦아내어 음각 홈 속에 짙은 색상이 안착되도록 만드는 마감 수양을 진행하여 시각적 성취감을 도출합니다.",
-          "en": "Smear pencil powder, charcoal, or ink onto the engraved grooves, then gently wipe the surface with a tissue so dark color settles inside, producing visual accomplishment.",
-          "ja": "削り出した溝の上に鉛筆の芯の粉や木炭、またはインクをこすりつけた後、表面をティッシュで軽く拭き取り、陰刻の溝の中に濃い色が定着するように仕上げる修養を行い、視覚的な達成感を引き出します。",
-          "zh": "在刮出的凹槽上涂抹铅笔粉、木炭或墨水，然后用纸巾轻轻擦拭表面，使深色沉淀在凹槽中，以此完成收尾修养，获得视觉上的成就感。",
-          "es": "Frota polvo de lápiz, carboncillo o tinta en las ranuras y limpia la superficie con un pañuelo para que el color oscuro se asiente, logrando satisfacción visual.",
-          "fr": "Frottez de la mine de crayon, du fusain ou de l'encre sur les rainures, puis essuyez délicatement la surface afin de faire ressortir le tracé et de savourer le résultat.",
-          "de": "Reiben Sie Bleistiftpulver, Kohle oder Tinte in die Rillen und wischen Sie die Oberfläche mit einem Tuch ab, damit sich die Farbe absetzt und ein Erfolgserlebnis entsteht.",
-          "pt": "Esfregue pó de lápis, carvão ou tinta nas ranhuras gravadas e, em seguida, limpe suavemente a superfície com um lenço de papel para que a cor escura se assente, obtendo satisfação visual.",
-          "id": "Gosokkan bubuk pensil, arang, atau tinta di atas celah goresan, lalu seka permukaan dengan tisu agar warna gelap masuk ke celah, memberikan kepuasan visual."
+          "ko": "긁어낸 홈 위에 연필 가루, 목탄, 혹은 잉크를 문지른 후 표면을 티슈로 살짝 닦아내어 음각 홈 속에 짙은 색상이 안착되도록 만드는 마감 수양을 진행하여 시각적 성취감을 도출합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "은박지에 그림을 그리는 행위가 스트레스를 가라앉히는 원리는 무엇인가요?",
-          "en": "What is the principle behind drawing on tin foil calming stress?",
-          "ja": "銀紙に絵を描く行為がストレスを和らげる原理は何ですか？",
-          "zh": "在银纸上作画能缓解压力的原理是什么？",
-          "es": "¿Por qué dibujar sobre papel de aluminio alivia el estrés?",
-          "fr": "Pourquoi dessiner sur du papier d'aluminium calme-t-il le stress ?",
-          "de": "Warum lindert das Zeichnen auf Alufolie Stress?",
-          "pt": "Por que desenhar no papel de alumínio alivia o estresse?",
-          "id": "Apa prinsip di balik menggambar di kertas timah yang meredakan stres?"
+          "ko": "은박지에 그림을 그리는 행위가 스트레스를 가라앉히는 원리는 무엇인가요?"
         },
         "answer": {
-          "ko": "금속박지 표면을 긁을 때 뇌로 전달되는 독특한 마찰감과 소리는 체성감각 피드백을 채워주어, 불안과 불필요한 공상을 차단하고 주의력을 시각-촉각적 현재에 단단히 결속시키기 때문입니다.",
-          "en": "The friction and sound when scratching metal foil fills somatosensory feedback, blocking anxiety and mind-wandering by anchoring focus in the tactile-visual present.",
-          "ja": "金属箔の表面を引っかくときに脳に伝わる独特の摩擦感と音は、体性感覚フィードバックを満たし、不安や不必要な妄想を遮断して、注意力を視覚的・触覚的な現在にしっかりと結びつけるためです。",
-          "zh": "因为刮擦金属箔表面时传达给大脑的独特摩擦感与声音，能够填满躯体感觉反馈，从而阻断焦虑与无用的杂念，将注意力牢牢绑定在视觉与触觉的当下。",
-          "es": "La fricción y el sonido al raspar el metal llenan la retroalimentación somatosensorial, bloqueando la ansiedad al anclar la atención en el presente táctil-visual.",
-          "fr": "Le frottement et le crissement du métal stimulent les capteurs sensoriels, ce qui chasse l'anxiété et les distractions en ancrant l'esprit dans le moment présent.",
-          "de": "Die Reibung und das Geräusch beim Kratzen auf Metall füllen das somatosensorische Feedback, blockieren Ängste und verankern den Fokus im Jetzt.",
-          "pt": "A fricção e o som ao raspar o papel de alumínio preenchem o feedback somatossensorial, bloqueando a ansiedade ao ancorar a atenção no presente tátil-visual.",
-          "id": "Gesekan dan suara saat menggores kertas timah mengisi umpan balik somatosensorik, memblokir kecemasan dengan mengunci fokus pada saat ini."
+          "ko": "금속박지 표면을 긁을 때 뇌로 전달되는 독특한 마찰감과 소리는 체성감각 피드백을 채워주어, 불안과 불필요한 공상을 차단하고 주의력을 시각-촉각적 현재에 단단히 결속시키기 때문입니다."
         }
       }
-    ],
-    "pubDate": "2026-03-14",
-    "updatedDate": "2026-03-14"
+    ]
   }
 }

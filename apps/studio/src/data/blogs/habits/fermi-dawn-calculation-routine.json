@@ -1,194 +1,64 @@
 {
   "fermi-dawn-calculation-routine": {
     "title": {
-      "ko": "골든 아워의 절대 집중: 엔리코 페르미의 아침 2시간 고독 계산 습관",
-      "en": "Absolute Focus of the Golden Hour: Enrico Fermi's Dawn Calculation Routine",
-      "ja": "ゴールデンアワーの絶対集中：エンリコ・フェルミの朝2時間の孤独な計算習慣",
-      "zh": "黄金时间的绝对专注：恩里科·费米清晨2小时的孤独计算习惯",
-      "es": "Enfoque absoluto de la hora dorada: el hábito de cálculo al amanecer de Enrico Fermi",
-      "fr": "Concentration absolue de l'heure d'or : l'habitude de calcul à l'aube d'Enrico Fermi",
-      "de": "Absoluter Fokus der Goldenen Stunde: Enrico Fermis Gewohnheit der Berechnung im Morgengrauen",
-      "pt": "Foco absoluto da hora de ouro: o hábito de cálculo ao amanhecer de Enrico Fermi",
-      "id": "Fokus Mutlak Jam Emas: Kebiasaan Perhitungan Fajar Enrico Fermi"
+      "ko": "골든 아워의 절대 집중: 엔리코 페르미의 아침 2시간 고독 계산 습관"
     },
     "description": {
-      "ko": "최초의 인공 원자로를 설계하고 노벨상을 수상한 천재 물리학자 엔리코 페르미. 매일 정규 출근 전 새벽에 2시간 동안 오직 자신만의 계산 문제를 밀어붙였던 인지 피크타임 활용 비결을 파헤칩니다.",
-      "en": "Enrico Fermi, Nobel laureate who built the first nuclear reactor, spent 2 hours in absolute solitude at dawn on calculations. Discover how to leverage your cognitive golden hour.",
-      "ja": "初の人工原子炉を設計しノーベル賞を受賞した天才物理学者エンリコ・フェルミ。毎日、正規の出勤前の早朝に2時間、自分だけの計算問題を追求した認知ピークタイムの活用法に迫ります。",
-      "zh": "设计出首个建造人造反应堆并荣获诺贝尔奖的物理天才恩里科·费米。探究他每天正式上班前的清晨独自钻研2小时计算问题、利用认知高峰期的秘诀。",
-      "es": "Enrico Fermi, premio Nobel que construyó el primer reactor nuclear, pasó 2 horas en absoluta soledad al amanecer en cálculos. Descubra cómo aprovechar su hora dorada cognitiva.",
-      "fr": "Enrico Fermi, lauréat du prix Nobel qui a construit le premier réacteur nucléaire, a passé 2 heures dans une solitude absolue à l'aube pour effectuer des calculs.",
-      "de": "Enrico Fermi, Nobelpreisträger und Entwickler des ersten Kernreaktors, verbrachte im Morgengrauen zwei Stunden in absoluter Einsamkeit mit Berechnungen. Erfahren Sie, wie Sie Ihre kognitive goldene Stunde nutzen.",
-      "pt": "Enrico Fermi, prémio Nobel que construiu o primeiro reator nuclear, passou 2 horas em absoluta solidão ao amanhecer em cálculos. Descubra como tirar partido da sua hora de ouro cognitiva.",
-      "id": "Enrico Fermi, pemenang Nobel yang membangun reaktor nuklir pertama, menghabiskan 2 jam dalam kesendirian mutlak saat fajar untuk menghitung. Temukan cara memanfaatkan jam emas kognitif Anda."
+      "ko": "최초의 인공 원자로를 설계하고 노벨상을 수상한 천재 물리학자 엔리코 페르미. 매일 정규 출근 전 새벽에 2시간 동안 오직 자신만의 계산 문제를 밀어붙였던 인지 피크타임 활용 비결을 파헤칩니다."
     },
     "authority": {
-      "ko": "동료 에밀리오 세그레의 전기 『물리학자 페르미』 고증 및 인지과학의 대뇌 코르티솔 각성 주기(CAR)와 인지 피크타임(Cognitive Golden Hour)의 작업 집중 효율 연구",
-      "en": "Emilio Segrè's Enrico Fermi: Physicist and Cognitive Science Studies on Cortisol Awakening Response (CAR) and Morning Peak Cognitive Stamina",
-      "ja": "同僚エミリオ・セグレの伝記『物理学者フェルミ』の考証、および認知科学における大脳コルチゾール覚醒反応（CAR）と認知ピークタイム（Cognitive Golden Hour）の作業集中効率に関する研究",
-      "zh": "同事埃米利奥·塞格雷的传记《物理学家费米》考证及关于认知科学的大脑皮质醇觉醒周期（CAR）与认知高峰期（Cognitive Golden Hour）工作专注效率的研究",
-      "es": "Enrico Fermi: Physicist de Emilio Segrè y estudios de ciencia cognitiva sobre la respuesta de despertar del cortisol (CAR) y la resistencia cognitiva máxima por la mañana",
-      "fr": "Enrico Fermi: Physicist d'Emilio Segrè et études en sciences cognitives sur la réponse d'éveil du cortisol (CAR) et l'endurance cognitive maximale du matin",
-      "de": "Emilio Segrès Biografie „Enrico Fermi: Physicist“ und kognitionswissenschaftliche Studien zur Cortisol-Aufwachreaktion (CAR) und kognitiven Leistungsfähigkeit am Morgen",
-      "pt": "Enrico Fermi: Physicist de Emilio Segrè e estudos de ciência cognitiva sobre a resposta ao despertar do cortisol (CAR) e a resistência cognitiva máxima matinal",
-      "id": "Enrico Fermi: Physicist karya Emilio Segrè dan Studi Sains Kognitif tentang Respon Kebangkitan Kortisol (CAR) dan Stamina Kognitif Puncak Pagi Hari"
+      "ko": "Fermi Dawn Calculation Routine 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "원자로 개발과 양자역학 발전에 공헌하여 20세기 최고의 천재 중 하나로 불리는 이탈리아계 미국인 물리학자입니다. 복잡하고 방대한 연구 프로젝트를 진행하면서도 연구소의 번잡한 인간관계나 행정 업무에 지장을 받지 않기 위해 철저한 시간 계획을 세웠습니다. 그는 매일 아침 새벽 5시 30분에 정확하게 기상하여 가벼운 차를 한 잔 마신 뒤, 8시 30분 출근하기 전까지 서재 문을 잠그고 2시간 동안 혼자만의 계산 작업을 수행했습니다. 이 시간 동안 그는 그 누구의 방해도 받지 않고 오직 순수 수학과 물리학 공식의 연역적 증명과 계산에만 집중했습니다. 동료들은 페르미가 항상 다른 학자들보다 막힘없이 계산을 수행할 수 있었던 원동력이 바로 이 고독한 아침 2시간에 있었다고 증언했습니다.",
-      "en": "Enrico Fermi, the legendary physicist who designed the world's first nuclear reactor, was highly unique for mastering both theoretical and experimental physics. While other scientists got stuck in calculations, Fermi derived answers with ease. The secret to his productivity was his morning routine: waking at 5:30 AM to calculate in his study for 2 hours in absolute silence before heading to his lab at 8:30 AM. We explore the neuroscience of protecting the brain's cognitive golden hour from early morning distractions to maximize rational and logical output.",
-      "ja": "原子炉の開発と量子力学の発展に貢献し、20世紀最高の天才の一人と呼ばれるイタリア系アメリカ人の物理学者です。複雑で膨大な研究プロジェクトを進めながらも、研究所の煩雑な人間関係や行政業務に支障をきたさないよう、徹底した時間計画を立てました。彼は毎朝5時30分に正確に起床し、軽いお茶を一杯飲んだ後、8時30分に出勤するまで書斎の鍵を閉めて2時間、一人だけの計算作業を行いました。この間、彼は誰の邪魔も受けず、純粋数学と物理学公式の演繹的証明と計算だけに集中しました。同僚たちは、フェルミが常に他の学者たちよりよどみなく計算を遂行できた原動力が、まさにこの孤独な朝の2時間にあったと証言しました。",
-      "zh": "通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
-      "es": "Enrico Fermi, el legendario físico que diseñó el primer reactor nuclear del mundo, fue muy singular por dominar tanto la física teórica como la experimental. Mientras otros científicos se atascaban en los cálculos, Fermi derivaba las respuestas con facilidad. El secreto de su productividad era su rutina matutina: despertarse a las 5:30 a. m. para calcular en su estudio durante 2 horas en absoluto silencio antes de dirigirse a su laboratorio a las 8:30 a. m. Exploramos la neurociencia de proteger la hora dorada cognitiva del cerebro de las distracciones matutinas.",
-      "fr": "Enrico Fermi, le légendaire physicien qui a conçu le premier réacteur nucléaire au monde, maîtrisait à la fois la physique théorique et expérimentale. Alors que d'autres scientifiques se perdaient dans les calculs, Fermi trouvait les réponses avec facilité. Le secret de sa productivité résidait dans sa routine matinale : se réveiller à 5h30 pour calculer dans son bureau pendant 2 heures dans un silence absolu avant de se rendre à son laboratoire à 8h30. Nous explorons les neurosciences de la protection de l'heure d'or.",
-      "de": "Enrico Fermi, der legendäre Physiker, der den weltweit ersten Kernreaktor entwarf, war hochgradig einzigartig, da er sowohl die theoretische als auch die experimentelle Physik beherrschte. Während andere Wissenschaftler bei Berechnungen stecken blieben, leitete Fermi Antworten mit Leichtigkeit ab. Das Geheimnis seiner Produktivität war seine Morgenroutine: Er wachte um 5:30 Uhr morgens auf, um zwei Stunden lang in absolutem Schweigen in seinem Arbeitszimmer Berechnungen anzustellen, bevor er um 8:30 Uhr morgens in sein Labor ging.",
-      "pt": "Enrico Fermi, o lendário físico que projetou o primeiro reator nuclear do mundo, foi altamente singular por dominar a física teórica e a experimental. Enquanto outros cientistas ficavam atolados em cálculos, Fermi deduzia as respostas com facilidade. O segredo da sua produtividade era a sua rotina matinal: acordar às 5h30 para calcular no seu estúdio durante 2 horas em silêncio absoluto antes de se dirigir para o laboratório às 8h30. Exploramos a neurociência de proteger a hora de ouro.",
-      "id": "Enrico Fermi, fisikawan legendaris yang merancang reaktor nuklir pertama di dunia, sangat unik karena menguasai fisika teoritis dan eksperimental. Sementara ilmuwan lain buntu dalam perhitungan, Fermi menurunkan jawaban dengan mudah. Rahasia produktivitasnya adalah rutinitas pagi harinya: bangun jam 5:30 pagi untuk menghitung di ruang kerjanya selama 2 jam dalam kesunyian mutlak sebelum menuju laboratoriumnya pada jam 8:30 pagi."
+      "ko": "\"문제의 복잡함은 아침의 고요함 속에서 완전히 해체된다. 아무도 깨어나지 않은 시간이야말로 내 뇌가 가장 선명하게 돌아가는 순간이다.\" 🧮\n\n20세기 양자역학과 핵물리학의 진보를 이끌며 최초의 원자로 시카고 파일 1호를 개발한 이탈리아의 천재 물리학자 엔리코 페르미. 그는 이론물리학과 실험물리학 양면에서 모두 최고의 업적을 남긴 드문 학자였습니다. 수많은 동료 학자들이 복잡한 계산 도중 벽에 부딪힐 때마다 페르미는 마법처럼 간단한 근사 계산(일명 페르미 추정)으로 돌파구를 찾아냈습니다. 그가 평생 유지한 극도로 엄격한 시간 관리는 매일 새벽 5시 30분에 일어나 출근 전인 8시 30분까지 2시간 동안 서재에 틀어박혀 고독한 계산을 수행하는 것이었습니다. 뇌의 연산 능력이 가장 예리한 아침 골든 아워를 지켜낸 페르미의 시간 활용법을 신경과학적으로 분석합니다."
     },
     "whyTitle": {
-      "ko": "코르티솔 각성과 인지적 골든 아워의 뇌 과학",
-      "en": "Cortisol Awakening Response and the Cognitive Golden Hour",
-      "ja": "コルチゾール覚醒と認知的ゴールデンアワーの脳科学",
-      "zh": "皮质醇觉醒与认知黄金时间的大脑科学",
-      "es": "Respuesta de despertar del cortisol y la hora dorada cognitiva",
-      "fr": "Réponse d'éveil du cortisol et heure d'or cognitive",
-      "de": "Cortisol-Aufwachreaktion und die kognitive goldene Stunde",
-      "pt": "Resposta ao Despertar do Cortisol e a Hora de Ouro Cognitiva",
-      "id": "Respon Kebangkitan Kortisol dan Jam Emas Kognitif"
+      "ko": "코르티솔 각성과 인지적 골든 아워의 뇌 과학"
     },
     "whyDesc": {
-      "ko": "인간이 잠에서 깨어나면 30~45분 동안 활력 호르몬인 코르티솔 분비량이 최대 50%까지 급증하는 코르티솔 각성 반응(Cortisol Awakening Response)이 일어납니다. 이 시기부터 3시간 동안은 대뇌 전두엽의 논리력, 작업 기억(Working Memory), 고차원적 의사결정 능력이 하루 중 최고 상태에 도달하는 인지적 골든 아워(Cognitive Golden Hour)입니다. 이때 메일이나 SNS 등의 자극적 자극에 시각 피질을 노출시키지 않고, 오직 펜과 노트만으로 난해한 논리적 수식을 유도하거나 프로그래밍 설계에 집중하면, 방해 자극이 없는 고도의 인지 몰입(High Cognitive Load Flow) 상태에 진입하여 업무 속도가 수배 향상됩니다.",
-      "en": "After waking, a healthy body experiences the Cortisol Awakening Response (CAR), raising cortisol levels by up to 50 percent to fuel cognitive networks. This marks the beginning of your cognitive golden hour—a 3-hour window where the prefrontal cortex reaches its daily peak in analytical reasoning, working memory, and planning. Allocating this time to difficult logical tasks (like mathematics, writing code, or design architecture) before exposing the visual cortex to emails or chat notifications allows the brain to enter an intense flow state, performing at maximum intellectual capacity.",
-      "ja": "人間が目覚めると、30〜45分間、活力ホルモンであるコルチゾールの分泌量が最大50%まで急増するコルチゾール覚醒反応（Cortisol Awakening Response）が起こります。この時期から3時間は、大脳前頭葉の論理力、作業記憶（Working Memory）、高次意思決定能力が一日のうちで最高状態に達する認知的ゴールデンアワー（Cognitive Golden Hour）です。このとき、メールやSNSなどの刺激的な刺激に視覚野をさらさず、ペンとノートだけで難解な論理数式を誘導したり、プログラミング設計に集中したりすると、妨害刺激のない高度な認知没頭（High Cognitive Load Flow）状態に入り、業務スピードが数倍向上します。",
-      "zh": "人在醒来后的30~45分钟内，体内促进活力的皮质醇分泌量会激增至50%，发生皮质醇觉醒反应（Cortisol Awakening Response）。从这一时期开始的3个小时内，大脑前额叶的逻辑能力、工作记忆（Working Memory）及高水平决策能力会达到一天中的最高状态，即认知黄金时间（Cognitive Golden Hour）。此时不将视觉皮层暴露在邮件或SNS等刺激性信息中，只用钢笔和笔记本推导复杂的逻辑公式或专注于程序设计，便能进入无干扰的高级认知沉浸（High Cognitive Load Flow）状态，工作速度会成倍提升。",
-      "es": "Después de despertarse, un cuerpo sano experimenta la respuesta de despertar del cortisol (CAR), que eleva los niveles de cortisol hasta en un 50 por ciento para alimentar las redes cognitivas. Esto marca el comienzo de su hora dorada cognitiva: una ventana de 3 horas donde la corteza prefrontal alcanza su pico diario en razonamiento analítico, memoria de trabajo y planificación. Asignar este tiempo a tareas lógicas difíciles antes de exponer la corteza visual a correos electrónicos permite al cerebro entrar en un estado de flujo intenso.",
-      "fr": "Après le réveil, l'organisme subit la réponse d'éveil du cortisol (CAR), ce qui augmente les niveaux de cortisol jusqu'à 50 pour cent pour alimenter les réseaux cognitifs. Cela marque le début de votre heure d'or cognitive, une fenêtre de 3 heures où le cortex préfrontal atteint son apogée quotidien. Consacrer ce temps à des tâches logiques difficiles avant d'exposer le cortex visuel aux courriels permet au cerveau d'entrer dans un flux intense.",
-      "de": "Nach dem Aufwachen erlebt ein gesunder Körper die Cortisol-Aufwachreaktion (CAR), die den Cortisolspiegel um bis zu 50 Prozent erhöht, um kognitive Netzwerke anzuregen. Dies markiert den Beginn Ihrer kognitiven goldenen Stunde – ein Zeitfenster von drei Stunden, in dem der präfrontale Kortex seinen täglichen Höhepunkt bei analytischem Denken, Arbeitsgedächtnis und Planung erreicht. Die Zuweisung dieser Zeit für schwierige logische Aufgaben vor dem E-Mail-Check ermöglicht einen intensiven Flow-Zustand.",
-      "pt": "Depois de acordar, um corpo saudável experimenta a Resposta ao Despertar do Cortisol (CAR), aumentando os níveis de cortisol em até 50% para alimentar as redes cognitivas. Isto marca o início da sua hora de ouro cognitiva — uma janela de 3 horas onde o córtex pré-frontal atinge o seu pico diário em raciocínio analítico, memória de trabalho e planeamento. Alocar este tempo a tarefas lógicas difíceis antes de expor o córtex visual a e-mails permite ao cérebro entrar num estado de fluxo.",
-      "id": "Setelah bangun, tubuh yang sehat mengalami Respon Kebangkitan Kortisol (CAR), meningkatkan kadar kortisol hingga 50 persen untuk menyalakan jaringan kognitif. Ini menandai awal dari jam emas kognitif Anda—jendela waktu 3 jam di mana korteks prefrontal mencapai puncak hariannya dalam penalaran analitis, memori kerja, dan perencanaan. Mengalokasikan waktu ini untuk tugas-tugas logis yang sulit sebelum memeriksa email memungkinkan otak masuk ke flow state."
+      "ko": "인간이 잠에서 깨어나면 30~45분 동안 활력 호르몬인 코르티솔 분비량이 최대 50%까지 급증하는 코르티솔 각성 반응(Cortisol Awakening Response)이 일어납니다. 이 시기부터 3시간 동안은 대뇌 전두엽의 논리력, 작업 기억(Working Memory), 고차원적 의사결정 능력이 하루 중 최고 상태에 도달하는 인지적 골든 아워(Cognitive Golden Hour)입니다. 이때 메일이나 SNS 등의 자극적 자극에 시각 피질을 노출시키지 않고, 오직 펜과 노트만으로 난해한 논리적 수식을 유도하거나 프로그래밍 설계에 집중하면, 방해 자극이 없는 고도의 인지 몰입(High Cognitive Load Flow) 상태에 진입하여 업무 속도가 수배 향상됩니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "이 고독한 집중 세션을 유지할 때 주의할 점은 아침 식사를 지나치게 많이 하여 위장 장기를 과부하시키는 것입니다. 정량 이상의 탄수화물이나 고지방 식사는 위장 소화를 위해 체내 혈류를 위장관으로 집중시켜 뇌로 향하는 뇌혈류량과 산소 공급을 급감하게 만듭니다. 이로 인해 인지적 피크 타임에 식곤증과 나른함(Postprandial Somnolence)이 유발되어 연산 성능이 훼손됩니다. 따라서 아침 2시간의 격렬한 두뇌 노동이 끝나기 전에는 가벼운 물이나 시럽 없는 녹차, 블랙커피 등으로 소화 장기를 최소한으로 다독인 후 빈속(공복 상태)을 유지하며 연산에 집중하는 것이 두뇌 회전에 훨씬 이롭습니다.",
-      "en": "When using this morning focus routine, avoid eating a heavy breakfast. Consuming processed carbohydrates or fatty meals redirects systemic blood flow to the digestive tract, decreasing oxygen delivery and cerebral blood flow to the prefrontal cortex. This triggers postprandial somnolence (food coma) during your peak cognitive window. Keep your digestive load minimal during these 2 hours: consume only water, green tea, or black coffee, and maintain a light, fasted state to preserve cognitive sharpness.",
-      "ja": "この孤独な集中セッションを維持する際、注意すべき点は、朝食を食べすぎて消化器官に過負荷をかけることです。必要以上の炭水化物や高脂肪の食事は、胃腸の消化のために体内の血流を胃腸管に集中させ、脳に向かう脳血流量や酸素供給を急減させます。これにより、認知的ピークタイムに食後の眠気や気だるさ（Postprandial Somnolence）が引き起こされ、演算能力が損なわれます。したがって、朝2時間の激しい頭脳労働が終わる前は、軽い水やシロップなしの緑茶、ブラックコーヒーなどで消化器官を最小限になだめた後、空腹状態を維持して演算に集中することが、脳の回転に遥かに役立ちます。",
-      "zh": "在维持这一孤独的专注时段时，需要注意的是避免早餐吃得过多，从而使胃肠器官超负荷运转。摄入超过合理限度的碳水化合物或高脂肪食物，会使体内的血液为了胃肠消化而集中流向胃肠道，导致流向大脑的脑血流量和氧气供应急剧减少。这会在认知高峰期引发食后困倦与无力感（Postprandial Somnolence），损害大脑运算性能。因此，在清晨2小时的剧烈脑力劳动结束之前，最好只喝清淡的水、无糖绿茶或黑咖啡等，以对消化器官进行最起码的抚慰，保持空腹状态专注于运算，这样对大脑运转大有裨益。",
-      "es": "Al usar esta rutina de enfoque matutino, evite desayunar pesado. Consumir carbohidratos procesados o comidas grasas redirige el flujo sanguíneo sistémico al tracto digestivo, disminuyendo el suministro de oxígeno y el flujo sanguíneo cerebral a la corteza prefrontal. Esto desencadena somnolencia posprandial (coma alimenticio) durante su ventana cognitiva máxima. Mantenga su carga digestiva al mínimo durante estas 2 horas: consuma solo agua, té verde o café solo, y mantenga un estado ligero en ayunas para preservar la agudeza cognitiva.",
-      "fr": "Lorsque vous utilisez cette routine de concentration matinale, évitez de prendre un petit-déjeuner copieux. Consommer des glucides raffinés ou des repas gras redirige le flux sanguin vers le tube digestif, diminuant l'apport d'oxygène et le flux sanguin vers le cortex préfrontal. Cela déclenche une somnolence postprandiale pendant votre pic cognitif. Réduisez votre charge digestive au minimum pendant ces 2 heures.",
-      "de": "Vermeiden Sie bei dieser morgendlichen Fokusroutine ein schweres Frühstück. Der Konsum verarbeiteter Kohlenhydrate oder fettreicher Mahlzeiten leitet den systemischen Blutfluss in den Verdauungstrakt um und verringert die Sauerstoffzufuhr und den zerebralen Blutfluss zum präfrontalen Kortex. Dies löst während Ihres kognitiven Spitzenfensters postprandiale Somnolenz (Esskoma) aus. Halten Sie Ihre Verdauungsbelastung in diesen 2 Stunden minimal.",
-      "pt": "Ao utilizar esta rotina de foco matinal, evite tomar um pequeno-almoço pesado. Consumir hidratos de carbono processados ou refeições gordurosas redireciona o fluxo sanguíneo sistémico para o trato digestivo, diminuindo a entrega de oxigénio e o fluxo sanguíneo cerebral ao córtex pré-frontal. Isto desencadeia sonolência pós-prandial (coma alimentar) durante a sua janela cognitiva de pico. Mantenha a sua carga digestiva no mínimo durante estas 2 horas.",
-      "id": "Saat menggunakan rutinitas fokus pagi ini, hindari makan sarapan berat. Mengonsumsi karbohidrat olahan atau makanan berlemak mengalihkan aliran darah sistemik ke saluran pencernaan, mengurangi pengiriman oksigen dan aliran darah serebral ke korteks prefrontal. Ini memicu somnolen pascaprandial (koma makanan) selama jendela kognitif puncak Anda. Jaga beban pencernaan Anda seminimal mungkin."
+      "ko": "이 고독한 집중 세션을 유지할 때 주의할 점은 아침 식사를 지나치게 많이 하여 위장 장기를 과부하시키는 것입니다. 정량 이상의 탄수화물이나 고지방 식사는 위장 소화를 위해 체내 혈류를 위장관으로 집중시켜 뇌로 향하는 뇌혈류량과 산소 공급을 급감하게 만듭니다. 이로 인해 인지적 피크 타임에 식곤증과 나른함(Postprandial Somnolence)이 유발되어 연산 성능이 훼손됩니다. 따라서 아침 2시간의 격렬한 두뇌 노동이 끝나기 전에는 가벼운 물이나 시럽 없는 녹차, 블랙커피 등으로 소화 장기를 최소한으로 다독인 후 빈속(공복 상태)을 유지하며 연산에 집중하는 것이 두뇌 회전에 훨씬 이롭습니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "새벽 5:30 정시 기상과 차 한 잔",
-          "en": "Waking at 5:30 AM and Having Tea",
-          "ja": "早朝5:30の定時起床とお茶一杯",
-          "zh": "清晨5:30准时起床并喝一杯茶",
-          "es": "Despertarse a las 5:30 a.m. y tomar té",
-          "fr": "Se réveiller à 5h30 et boire un thé",
-          "de": "Um 5:30 Uhr aufwachen und Tee trinken",
-          "pt": "Acordar às 5h30 e Tomar um Chá",
-          "id": "Bangun jam 5:30 Pagi dan Minum Teh"
+          "ko": "새벽 5:30 정시 기상과 차 한 잔"
         },
         "text": {
-          "ko": "아침 알람을 활용해 이른 새벽에 정시 기상합니다. 각성 호르몬 촉진과 체수분 공급을 위해 따뜻한 차나 물을 한 잔 마시며 소화기를 일깨우고 잠을 쫓아냅니다.",
-          "en": "Wake up early using a consistent alarm. Drink a warm cup of water or tea to rehydrate your body and gently wake up your metabolic systems without tax on digestion.",
-          "ja": "朝のアラームを活用して、早朝に定時起床します。覚醒ホルモンの促進と体への水分供給のため、温かいお茶や水を一杯飲み、消化器官を目覚めさせて眠気を吹き飛ばします。",
-          "zh": "利用清晨闹钟准时起早。为了促进觉醒激素的分泌以及补充体内水分，喝一杯温茶或温水，唤醒消化系统，驱散困意。",
-          "es": "Despiértese temprano con una alarma constante. Beba una taza tibia de agua o té para rehidratar su cuerpo y despertar suavemente sus sistemas metabólicos sin sobrecargar la digestión.",
-          "fr": "Réveillez-vous tôt avec un réveil. Buvez une tasse d'eau tiède ou de thé pour réhydrater votre corps et réveiller en douceur votre métabolisme sans fatiguer votre digestion.",
-          "de": "Wachen Sie früh mit einem zuverlässigen Wecker auf. Trinken Sie eine Tasse warmes Wasser oder Tee, um Ihren Körper mit Feuchtigkeit zu versorgen und Ihren Stoffwechsel sanft anzuregen, ohne die Verdauung zu belasten.",
-          "pt": "Acorde cedo com um alarme consistente. Beba uma chávena de água morna ou chá para reidratar o corpo e acordar suavemente os seus sistemas metabólicos sem sobrecarregar a digestão.",
-          "id": "Bangun pagi-pagi sekali menggunakan alarm yang konsisten. Minum secangkir air hangat atau teh untuk rehidrasi tubuh Anda dan membangunkan sistem metabolisme Anda secara lembut tanpa membebani pencernaan."
+          "ko": "아침 알람을 활용해 이른 새벽에 정시 기상합니다. 각성 호르몬 촉진과 체수분 공급을 위해 따뜻한 차나 물을 한 잔 마시며 소화기를 일깨우고 잠을 쫓아냅니다."
         }
       },
       {
         "name": {
-          "ko": "서재 고립과 차단 메커니즘",
-          "en": "Quarantining Your Study Room",
-          "ja": "書斎の隔離と遮断メカニズム",
-          "zh": "书房隔离与阻断机制",
-          "es": "Poner en cuarentena su sala de estudio",
-          "fr": "S'isoler dans son bureau",
-          "de": "Arbeitszimmer isolieren",
-          "pt": "Isolar a Sala de Estudo",
-          "id": "Mengkarantina Ruang Belajar Anda"
+          "ko": "서재 고립과 차단 메커니즘"
         },
         "text": {
-          "ko": "가족들이 깨어나기 전, 서재나 작업용 책상으로 이동하여 문을 완전히 잠급니다. 모든 스마트폰 기기의 와이파이와 전자기기 네트워크를 꺼서 이메일이나 행정 연락의 침범을 원천 차단합니다.",
-          "en": "Enter your study or office space and close the door. Switch off your computer's internet connection and disable phone signals to build a firewall against early morning administrative intrusions.",
-          "ja": "家族が起き出す前に書斎や作業用デスクに移動し、ドアを完全にロックします。すべてのスマートフォンのWi-Fiや電子機器のネットワークを切り、メールや行政的な連絡の侵入を根本から遮断します。",
-          "zh": "在家人醒来之前，移步至书房或工作台前，将门完全锁上。断开所有智能手机设备的Wi-Fi及电子设备网络连接，从源头上杜绝邮件或行政联络的打扰。",
-          "es": "Ingrese a su estudio u oficina y cierre la puerta. Apague la conexión a Internet de su computadora y desactive las señales telefónicas para construir un cortafuegos contra las intrusiones administrativas matutinas.",
-          "fr": "Entrez dans votre bureau et fermez la porte. Coupez la connexion Internet de votre ordinateur et désactivez les réseaux mobiles pour créer un pare-feu contre les intrusions administratives.",
-          "de": "Gehen Sie in Ihr Arbeitszimmer oder Büro und schließen Sie die Tür. Schalten Sie die Internetverbindung Ihres Computers aus und deaktivieren Sie Telefonsignale, um eine Firewall gegen administrative Störungen am Morgen aufzubauen.",
-          "pt": "Entre no seu escritório e feche a porta. Desligue a ligação à internet do computador e desative os sinais do telemóvel para construir uma barreira contra intrusões administrativas matinais.",
-          "id": "Masuk ke ruang belajar atau ruang kerja Anda dan tutup pintu. Matikan koneksi internet komputer Anda dan nonaktifkan sinyal telepon untuk membangun firewall terhadap gangguan administratif pagi hari."
+          "ko": "가족들이 깨어나기 전, 서재나 작업용 책상으로 이동하여 문을 완전히 잠급니다. 모든 스마트폰 기기의 와이파이와 전자기기 네트워크를 꺼서 이메일이나 행정 연락의 침범을 원천 차단합니다."
         }
       },
       {
         "name": {
-          "ko": "2시간의 고강도 두뇌 연산 실행",
-          "en": "Executing 2 Hours of Hard Calculation",
-          "ja": "2時間の高強度な頭脳演算の実行",
-          "zh": "执行2小时高强度脑力运算",
-          "es": "Ejecutar 2 horas de cálculo mental duro",
-          "fr": "Exécuter 2 heures de calcul mental intense",
-          "de": "Zwei Stunden harte Denkaufgaben ausführen",
-          "pt": "Executar 2 Horas de Cálculo Mental Intenso",
-          "id": "Menjalankan 2 Jam Perhitungan Otak Intensitas Tinggi"
+          "ko": "2시간의 고강도 두뇌 연산 실행"
         },
         "text": {
-          "ko": "준비한 백지 노트에 자신이 오늘 해결해야 할 가장 까다로운 수학 증명, 논문 작성, 프로그램 로직 작성 등을 펼쳐놓고 2시간 동안 중간 휴식 없이 고독하게 수식을 전개하며 정면 돌파합니다.",
-          "en": "Open your notebook or code editor. Focus exclusively on the most challenging task—whether it is mathematical derivations, system architecture, or logical debugging—and push forward for 2 hours.",
-          "ja": "用意した白紙のノートに、自分が今日解決すべき最も厄介な数学の証明、論文執筆、プログラムロジックの作成などを広げ、2時間の間、途中の休憩なしで孤独に数式を展開しながら正面突破します。",
-          "zh": "在准备好的空白笔记本上摊开自己今天需要解决的最棘手的数学证明、论文撰写、程序逻辑编写等任务，在2个小时的时间里不作中途休息，孤独地展开公式进行正面突破。",
-          "es": "Abra su cuaderno o editor de código. Concéntrese exclusivamente en la tarea más desafiante, ya sean derivaciones matemáticas, arquitectura de sistemas o depuración lógica, y siga adelante durante 2 horas.",
-          "fr": "Ouvrez votre cahier ou votre éditeur de code. Concentrez-vous exclusivement sur la tâche la plus difficile, qu'il s'agisse de dérivations mathématiques ou de programmation, et travaillez pendant 2 heures.",
-          "de": "Öffnen Sie Ihr Notizbuch oder Ihren Code-Editor. Konzentrieren Sie sich ausschließlich auf die anspruchsvollste Aufgabe – seien es mathematische Herleitungen, Systemarchitektur oder logisches Debugging – und arbeiten Sie zwei Stunden lang intensiv daran.",
-          "pt": "Abra o seu caderno ou editor de código. Concentre-se exclusivamente na tarefa mais desafiante — quer sejam derivações matemáticas, arquitetura de sistemas ou depuração lógica — e avance durante 2 horas.",
-          "id": "Buka buku catatan atau editor kode Anda. Fokus secara eksklusif pada tugas yang paling menantang—baik itu derivasi matematika, arsitektur sistem, atau debugging logis—dan terus maju selama 2 jam."
+          "ko": "준비한 백지 노트에 자신이 오늘 해결해야 할 가장 까다로운 수학 증명, 논문 작성, 프로그램 로직 작성 등을 펼쳐놓고 2시간 동안 중간 휴식 없이 고독하게 수식을 전개하며 정면 돌파합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "2시간 내내 집중을 유지하기 어려워서 자꾸 딴생각이 나는데 집중 주기를 어떻게 조절하나요?",
-          "en": "What if I cannot sustain focus for 2 hours without drifting off?",
-          "ja": "2時間ずっと集中を維持するのが難しく、どうしても他の考えが浮かんでしまいますが、集中周期をどのように調整すればいいですか？",
-          "zh": "难以在整整2小时里维持专注、总是开小差，如何调节专注周期？",
-          "es": "¿Qué pasa si no puedo mantener la concentración durante 2 horas sin distraerme?",
-          "fr": "Que faire si je ne parviens pas à rester concentré pendant 2 heures sans me dissiper ?",
-          "de": "Was ist, wenn ich mich nicht zwei Stunden lang ohne Ablenkung konzentrieren kann?",
-          "pt": "E se não conseguir manter o foco durante 2 horas sem me distrair?",
-          "id": "Bagaimana jika saya tidak dapat mempertahankan fokus selama 2 jam tanpa melamun?"
+          "ko": "2시간 내내 집중을 유지하기 어려워서 자꾸 딴생각이 나는데 집중 주기를 어떻게 조절하나요?"
         },
         "answer": {
-          "ko": "처음부터 2시간 연속 몰입은 어려우므로, 50분 집중 후 10분 스트레칭을 수행하는 '2세트 분할 집중' 기법을 실천하십시오. 단, 10분 휴식 시간에도 절대 메신저를 켜지 않고 가벼운 물 마시기나 제자리걸음으로 뇌에 혈류를 돌린 후 즉각 2차 세션으로 복귀해야 흐름이 깨지지 않습니다.",
-          "en": "If 2 hours is too long, break it into two blocks: 50 minutes of deep focus followed by 10 minutes of active stretching. Do not check your phone during the 10-minute break. Drink water or pace around the room to boost circulation, then return to your second session immediately.",
-          "ja": "最初から2時間連続の没頭は難しいため、50分集中した後に10分間ストレッチを行う「2セット分割集中」技法を実践してください。ただし、10分の休憩時間中も絶対にメッセンジャーなどを開かず、軽い水分補給やその場歩きで脳に血流を巡らせた後、即座に2回目のセッションに復帰しなければ流れが途切れてしまいます。",
-          "zh": "从一开始就连续沉浸2小时确实不易，请实践“2套分段专注”技巧，即专注50分钟后进行10分钟拉伸。但是，在10分钟的休息时间里也绝不打开聊天工具，仅通过喝水或原地踏步促进大脑血液循环，随后立刻返回第二轮专注时段，这样才不会打断思路。",
-          "es": "Si 2 horas es demasiado tiempo, divídalas en dos bloques: 50 minutos de concentración profunda seguidos de 10 minutos de estiramiento activo. No revise su teléfono durante el descanso de 10 minutos. Beba agua o camine por la habitación para estimular la circulación, luego regrese a su segunda sesión de inmediato.",
-          "fr": "Si 2 heures, c'est trop long, divisez cette session en deux blocs : 50 minutes de concentration profonde suivies de 10 minutes d'étirements. Ne regardez pas votre téléphone pendant la pause de 10 minutes.",
-          "de": "Wenn zwei Stunden zu lang sind, unterteilen Sie sie in zwei Blöcke: 50 Minuten tiefe Konzentration, gefolgt von 10 Minuten aktivem Dehnen. Schauen Sie während der 10-minütigen Pause nicht auf Ihr Telefon. Trinken Sie Wasser oder gehen Sie im Raum auf und ab, um den Kreislauf anzuregen, und kehren Sie dann sofort zu Ihrer zweiten Sitzung zurück.",
-          "pt": "Se 2 horas for muito tempo, divida-o em dois blocos: 50 minutos de foco profundo seguidos de 10 minutos de alongamentos ativos. Não mexa no telemóvel durante o intervalo de 10 minutos. Beba água ou caminhe para aumentar a circulação e regresse imediatamente à segunda sessão.",
-          "id": "Jika 2 jam terlalu lama, bagilah menjadi dua blok: 50 menit fokus mendalam diikuti oleh 10 menit peregangan aktif. Jangan memeriksa ponsel Anda selama istirahat 10 menit. Minum air atau berjalan-jalan di sekitar ruangan untuk meningkatkan sirkulasi, lalu segera kembali ke sesi kedua Anda."
+          "ko": "처음부터 2시간 연속 몰입은 어려우므로, 50분 집중 후 10분 스트레칭을 수행하는 '2세트 분할 집중' 기법을 실천하십시오. 단, 10분 휴식 시간에도 절대 메신저를 켜지 않고 가벼운 물 마시기나 제자리걸음으로 뇌에 혈류를 돌린 후 즉각 2차 세션으로 복귀해야 흐름이 깨지지 않습니다."
         }
       }
-    ],
-    "pubDate": "2026-05-14",
-    "updatedDate": "2026-05-14"
+    ]
   }
 }

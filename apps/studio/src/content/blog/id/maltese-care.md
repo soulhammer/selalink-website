@@ -15,21 +15,16 @@ faqs:
   - question: "Apakah tangga pengaman dapat mencegah luksasi patela sepenuhnya?"
     answer: "Meskipun tangga mengurangi benturan, lantai yang licin dan bulu kaki yang panjang juga berperan penting. Anda harus menjaga bulu cakar tetap pendek dan memasang keset antislip."
 ---
-
-Maltese, dengan bulu putih selembut sutra dan tiga titik hitam (mata dan hidung), adalah anjing pendamping yang dicintai di seluruh dunia. Meskipun lincah dan penuh kasih sayang, mereka mengekspresikan batasan mereka dengan jelas, memberi mereka reputasi sebagai anjing yang berani. 🐕
-
-Namun, pemilik Maltese sering khawatir tentang dua masalah genetik: Luksasi Patela (tempurung lutut bergeser) and Noda Air Mata (tear staining), yang menyebabkan garis kemerahan dan potensi infeksi kulit. Penyesuaian gaya hidup sehari-hari sangat penting untuk mengelola kondisi ini.
-
-Hari ini, PetSelf mengeksplorasi bahasa tubuh Maltese dan memperkenalkan rutinitas perawatan harian 3 langkah yang aman untuk melindungi sendi dan mata mereka.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Bukti Dokter Hewan & Perilaku
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC</strong>.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </div>
 </div>
@@ -47,7 +42,7 @@ Hari ini, PetSelf mengeksplorasi bahasa tubuh Maltese dan memperkenalkan rutinit
 
 ## 1. Bahasa Tubuh Maltese: Sinyal Stres dan Kenyamanan
 
-Sebagai anjing dengan ketergantungan tinggi pada pemiliknya, Maltese secara diam-diam menunjukkan keadaan psikologis mereka melalui gerakan tubuh. Sinyal penenang yang khas termasuk 'menjilat hidung' and 'menguap'. Saat menghadapi lingkungan yang tegang atau asing, menjilat hidung atau menguap bukan karena mengantuk; itu adalah pesan damai untuk menenangkan diri dan meminta orang lain untuk tidak mengancam mereka. Jika pemilik terus melakukan kontak berlebihan selama waktu ini, stres mereka akan meningkat. Yang terbaik adalah mundur selangkah dan memberi mereka ruang.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -81,7 +76,7 @@ Sebagai anjing dengan ketergantungan tinggi pada pemiliknya, Maltese secara diam
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Pemeriksaan Antiselip dan Peregangan Sendi</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Periksa apakah keset antislip terpasang kuat. Saat Maltese meregangkan tubuh di pagi hari, pijat lembut sendi kaki belakang mereka untuk melemaskan otot yang kaku. Pastikan bulu bantalan cakar dicukur.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -91,7 +86,7 @@ Sebagai anjing dengan ketergantungan tinggi pada pemiliknya, Maltese secara diam
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang/Sore: Kebersihan Mata dan Rutinitas Penyisiran 1:1</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Sekali sehari, sisir area mata dengan sisir bergigi rapat dan cairan pembersih. Bulu yang basah menyebabkan noda merah dan infeksi, jadi seka kelembapan dengan kapas hingga kering.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -101,7 +96,7 @@ Sebagai anjing dengan ketergantungan tinggi pada pemiliknya, Maltese secara diam
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Pemberian Suplemen Sendi dan Desensitisasi Sentuhan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Berikan suplemen sendi. Sentuh cakar mereka dengan lembut dan segera beri hadiah berupa camilan. Desensitisasi ini mencegah reaksi agresif saat memotong kuku atau pemeriksaan fisik.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -110,7 +105,7 @@ Sebagai anjing dengan ketergantungan tinggi pada pemiliknya, Maltese secara diam
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </div>
 </div>
@@ -128,7 +123,7 @@ Sebagai anjing dengan ketergantungan tinggi pada pemiliknya, Maltese secara diam
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Maltese adalah anjing kecil dengan saraf sensorik yang sangat berkembang di cakar mereka, membuat mereka secara naluriah menghindari sentuhan. Latihan desensitisasi, menyentuh kaki dengan lembut dan memberi hadiah, sangat disarankan.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </details>
 
@@ -138,7 +133,7 @@ Sebagai anjing dengan ketergantungan tinggi pada pemiliknya, Maltese secara diam
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Meskipun tangga mengurangi benturan, lantai yang licin dan bulu kaki yang panjang juga berperan penting. Anda harus menjaga bulu cakar tetap pendek dan memasang keset antislip.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </details>
 </div>

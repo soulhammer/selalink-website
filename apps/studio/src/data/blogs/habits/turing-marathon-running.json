@@ -1,218 +1,72 @@
 {
   "turing-marathon-running": {
     "title": {
-      "ko": "천재의 뇌를 리셋하는 레이스? 앨런 튜링의 러닝 루틴",
-      "en": "A Race to Reset a Genius's Brain? Alan Turing's Running Routine",
-      "ja": "天才の脳をリセットするレース？アラン・チューリングのランニングルーティン",
-      "zh": "重置天才大脑的赛跑？艾伦·图灵的跑步习惯",
-      "es": "¿Una carrera para reiniciar el cerebro de un genio? La rutina de correr de Alan Turing",
-      "fr": "Une course pour réinitialiser le cerveau d'un génie ? La routine de course d'Alan Turing",
-      "de": "Wie ein Marathon das Gehirn eines Genies klärt? Alan Turings Lauf-Routine",
-      "pt": "Uma corrida para reiniciar o cérebro de um gênio? A rotina de corrida de Alan Turing",
-      "id": "Perlombaan untuk Mereset Otak Seorang Jenius? Rutinitas Lari Alan Turing"
+      "ko": "천재의 뇌를 리셋하는 레이스? 앨런 튜링의 러닝 루틴"
     },
     "description": {
-      "ko": "에니그마 암호를 해독한 컴퓨터 과학의 아버지 앨런 튜링. 매일 16km를 뛰며 뇌 과부하를 해소하고 신경세포를 활성화했던 그의 러닝 습관과 과학적 배경을 알아봅니다.",
-      "en": "Discover the running habit and scientific background of Alan Turing, who solved the Enigma code, running 16km daily to resolve brain overload and stimulate neurons.",
-      "ja": "エニグマ暗号を解読したコンピュータ科学の父アラン・チューリング。毎日16kmを走り、脳の過負荷を解消し神経細胞を活性化した彼のランニング習慣と科学的背景を紹介します。",
-      "zh": "探索破解恩尼格玛密码的计算机科学之父艾伦·图灵每日跑步16公里以解决大脑过载并刺激神经元的跑步习惯及科学背景。",
-      "es": "Descubra el hábito de correr y el trasfondo científico de Alan Turing, quien resolvió el código Enigma, corriendo 16 km diarios para resolver la sobrecarga cerebral y estimular las neuronas.",
-      "fr": "Découvrez l'habitude de courir et le contexte scientifique d'Alan Turing, qui a résolu le code Enigma en courant 16 km par jour pour libérer son cerveau et stimuler ses neurones.",
-      "de": "Erfahren Sie, wie Informatik-Pionier Alan Turing durch tägliches Laufen von 16 km sein Gehirn entlastete und neue Synapsen bildete.",
-      "pt": "Descubra o hábito de corrida e a base científica de Alan Turing, que desvendou o código Enigma, correndo 16 km diariamente para resolver a sobrecarga cerebral e estimular os neurônios.",
-      "id": "Temukan kebiasaan lari dan latar belakang ilmiah Alan Turing, pemecah kode Enigma, yang berlari 16 km setiap hari untuk mengatasi kelebihan beban otak dan menstimulasi neuron."
+      "ko": "에니그마 암호를 해독한 컴퓨터 과학의 아버지 앨런 튜링. 매일 16km를 뛰며 뇌 과부하를 해소하고 신경세포를 활성화했던 그의 러닝 습관과 과학적 배경을 알아봅니다."
     },
     "authority": {
-      "ko": "앤드루 호지스 전기 'Alan Turing: The Enigma' 및 영국 육상 연맹 아카이브",
-      "en": "Andrew Hodges' Biography 'Alan Turing: The Enigma' & British Athletic Association Archive",
-      "ja": "アンドリュー・ホッジス伝記「Alan Turing: The Enigma」および英国陸上連盟アーカイブ",
-      "zh": "安德鲁·霍奇斯传记《Alan Turing: The Enigma》与英国田径协会档案",
-      "es": "Biografía de Andrew Hodges 'Alan Turing: The Enigma' y Archivo de la Asociación Atlética Británica",
-      "fr": "Biographie d'Andrew Hodges 'Alan Turing: The Enigma' & archives de la British Athletic Association",
-      "de": "Andrew Hodges Biografie „Alan Turing: The Enigma“ & Archiv des britischen Leichtathletikverbands",
-      "pt": "Biografia de Andrew Hodges 'Alan Turing: The Enigma' & Arquivo da Associação Atlética Britânica",
-      "id": "Biografi Andrew Hodges 'Alan Turing: The Enigma' & Arsip Asosiasi Atletik Inggris"
+      "ko": "앨런 튜링 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "제2차 세계대전 당시 악명 높았던 독일군의 에니그마 암호를 해독하고 컴퓨터 과학의 토대를 다진 영국의 천재 수학자, 앨런 튜링. 그는 온갖 복잡한 계산과 기계 설계, 암호 분석 때문에 언제나 뇌의 과부하에 시달렸습니다. 이처럼 엄청난 지적 압박 속에서 그가 정신적 평형을 유지하고 창조적 발상을 이어갈 수 있었던 비결은 다름 아닌 '마라톤 러닝'이었습니다.\n\n튜링은 매일 10마일(약 16km) 이상을 달리는 혹독한 장거리 러닝 루틴을 유지했습니다. 실제로 그는 1948년 영국 마라톤 국가대표 선발전에서 2시간 46분 3초라는 준수한 기록으로 5위를 차지할 정도로 프로급 주자였습니다. 튜링에게 달리기는 단순한 운동이 아니라, 전두엽의 인지 활동을 멈추고 뇌를 정화하는 필수적인 사색의 통로였습니다.\n\n오늘 BuildSelf에서는 앨런 튜링의 러닝 루틴의 신경과학적 메커니즘과 현대인을 위한 지적 각성용 30분 러닝 가이드를 알아봅니다.",
-      "en": "Alan Turing, the British genius mathematician who decoded the notorious Enigma code of the German army during World War II and laid the foundation of computer science. He suffered from chronic brain overload due to complex calculations, mechanical design, and cryptanalysis. His secret to maintaining mental equilibrium and creative thinking under such intellectual pressure was 'marathon running.'\n\nTuring maintained a grueling long-distance running routine, covering over 10 miles (about 16 km) daily. In fact, he was a pro-level runner who finished 5th in the 1948 British Olympic marathon trials with an impressive time of 2 hours, 46 minutes, and 3 seconds. For Turing, running was not just exercise, but an essential contemplation channel that stopped frontal lobe cognitive activity to purify the brain.\n\nToday, BuildSelf explores the neuroscientific mechanisms of Alan Turing's running routine and a 30-minute running guide for mental awakening in modern people.",
-      "ja": "この歴史的習慣の実践において：2 , . , . ' '. この歴史的習慣の実践において： 10( 16km) . 1948 2 46 3 5 . , . この歴史的習慣の実践において： BuildSelf 30 .",
-      "zh": "在这一历史性惯例的实践中：2 , . , . ' '. 在这一历史性惯例的实践中： 10( 16km) . 1948 2 46 3 5 . , . 在这一历史性惯例的实践中： BuildSelf 30 .",
-      "es": "Alan Turing, el genio matemático británico que descodificó el código Enigma del ejército alemán durante la Segunda Guerra Mundial y sentó las bases de la informática. Sufría de sobrecarga cerebral crónica debido a cálculos complejos y criptoanálisis. Su secreto para mantener el equilibrio mental bajo tal presión intelectual era 'correr maratones'.\n\nTuring mantenía una rutina de correr largas distancias, cubriendo más de 10 millas (unos 16 km) diarios. De hecho, era un corredor de nivel profesional que terminó 5.º en las pruebas olímpicas de maratón británicas de 1948 con un tiempo de 2 horas, 46 minutos y 3 segundos. Para Turing, correr no era solo ejercicio, sino un canal de contemplación esencial que detenía la actividad del lóbulo frontal para purificar el cerebro.\n\nHoy, BuildSelf explora los mecanismos neurocientíficos de la rutina de correr de Alan Turing y una guía de 30 minutos para el despertar mental de las personas modernas.",
-      "fr": "Alan Turing, le génie mathématique britannique qui a décrypté le code Enigma de l'armée allemande pendant la Seconde Guerre mondiale et posé les bases de l'informatique. Il souffrait de surchauffe cérébrale chronique due à ses recherches. Son secret pour maintenir son équilibre mental et sa créativité sous une telle pression intellectuelle était la course de fond.\n\nTuring courait plus de 16 km par jour. C'était un athlète de haut niveau, qui a terminé 5e aux sélections olympiques britanniques de marathon en 1948 avec un temps de 2h 46min 3s. Pour Turing, courir n'était pas un simple sport, mais un moyen d'éteindre le lobe frontal pour purifier l'esprit.\n\nAujourd'hui, BuildSelf analyse les mécanismes neuroscientifiques de la routine d'Alan Turing et propose un guide de course de 30 minutes pour stimuler l'esprit au quotidien.",
-      "de": "Alan Turing, der britische Mathematiker, der im Zweiten Weltkrieg die Enigma-Maschine knackte. Die ständige Beschäftigung mit komplexen Codes führte bei ihm zu extremer geistiger Erschöpfung. Sein Ventil war der Ausdauersport.\n\nTuring lief täglich über 16 km und war so gut, dass er sich fast für die Olympischen Spiele 1948 qualifiziert hätte (Bestzeit: 2:46:03). Für ihn war das Laufen keine Ablenkung, sondern die einzige Möglichkeit, das bewusste Denken auszuschalten und dem Gehirn eine Pause zu gönnen.\n\nHeute erforscht BuildSelf die neurologischen Effekte von Turings Ausdauersport und gibt Tipps für eine 30-minütige regenerative Lauf-Routine.",
-      "pt": "Alan Turing, o gênio matemático britânico que decodificou o código Enigma do exército alemão durante a Segunda Guerra Mundial e estabeleceu as bases da ciência da computação. Ele sofria de sobrecarga cerebral crônica devido a cálculos complexos e criptoanálise. Seu segredo para manter o equilíbrio mental sob tal pressão intelectual era a corrida de maratona.\n\nTuring mantinha uma rotina rigorosa de corrida de longa distância, cobrindo mais de 10 milhas (cerca de 16 km) diariamente. Na verdade, ele era um corredor de nível profissional que terminou em 5º lugar nas seletivas de maratona olímpica britânica de 1948, com o tempo impressionante de 2 horas, 46 minutos e 3 segundos. Para Turing, correr não era apenas exercício, mas um canal essencial de contemplação que interrompia a atividade cognitiva do lobo frontal para purificar o cérebro.\n\nHoge, o BuildSelf explora os mecanismos neurocientíficos da rotina de corrida de Alan Turing e apresenta um guia de corrida de 30 minutos para o despertar mental das pessoas modernas.",
-      "id": "Alan Turing, matematikawan jenius Inggris yang memecahkan kode Enigma tentara Jerman selama Perang Dunia II dan meletakkan dasar ilmu komputer. Ia menderita kelelahan otak kronis karena perhitungan rumit, desain mekanis, dan analisis kriptografi. Rahasianya untuk menjaga keseimbangan mental dan pemikiran kreatif di bawah tekanan intelektual seperti itu adalah 'berlari maraton.'\n\nTuring mempertahankan rutinitas lari jarak jauh yang melelahkan, menempuh jarak lebih dari 10 mil (sekitar 16 km) setiap hari. Faktanya, ia adalah pelari tingkat profesional yang menempati posisi ke-5 dalam uji coba maratona Olimpiade Inggris tahun 1948 dengan catatan waktu mengesankan 2 jam 46 menit 3 detik. Bagi Turing, berlari bukan sekadar olahraga, melainkan saluran perenungan penting yang menghentikan aktivitas kognitif lobus frontal untuk memurnikan otak.\n\nHari ini, BuildSelf mengeksplorasi mekanisme neurosains dari rutinitas lari Alan Turing dan panduan lari 30 menit untuk kebangkitan mental pada manusia modern."
+      "ko": "\"나에게 러닝은 복잡한 마음을 비워내고 온전한 생각에 잠기게 하는 가장 아름다운 시간이다.\" 🏃‍♂️\n\n제2차 세계대전 당시 악명 높았던 독일군의 에니그마 암호를 해독하고 컴퓨터 과학의 토대를 다진 영국의 천재 수학자, 앨런 튜링. 그는 온갖 복잡한 계산과 기계 설계, 암호 분석 때문에 언제나 뇌의 과부하에 시달렸습니다. 이처럼 엄청난 지적 압박 속에서 그가 정신적 평형을 유지하고 창조적 발상을 이어갈 수 있었던 비결은 다름 아닌 '마라톤 러닝'이었습니다.\n\n튜링은 매일 10마일(약 16km) 이상을 달리는 혹독한 장거리 러닝 루틴을 유지했습니다. 실제로 그는 1948년 영국 마라톤 국가대표 선발전에서 2시간 46분 3초라는 준수한 기록으로 5위를 차지할 정도로 프로급 주자였습니다. 튜링에게 달리기는 단순한 운동이 아니라, 전두엽의 인지 활동을 멈추고 뇌를 정화하는 필수적인 사색의 통로였습니다.\n\n오늘 포스트에서는 앨런 튜링의 러닝 루틴의 신경과학적 메커니즘과 현대인을 위한 지적 각성용 30분 러닝 가이드를 알아봅니다."
     },
     "whyTitle": {
-      "ko": "유산소 운동이 촉진하는 뇌세포 생성과 인지 환기",
-      "en": "Brain Cell Generation and Cognitive Refresher Promoted by Aerobic Exercise",
-      "ja": "有酸素運動が促進する脳細胞の生成と認知の換気",
-      "zh": "有氧运动促进脑细胞生成与认知唤醒",
-      "es": "Generación de células cerebrales y renovación cognitiva promovidas por el ejercicio aeróbico",
-      "fr": "Génération de cellules cérébrales et régénération cognitive par l'aérobie",
-      "de": "Neurogenese und kognitive Regeneration durch Ausdauersport",
-      "pt": "Geração de células cerebrais e renovação cognitiva promovidas pelo exercício aeróbico",
-      "id": "Generasi Sel Otak dan Penyegar Kognitif yang Dipromosikan oleh Olahraga Aerobik"
+      "ko": "유산소 운동이 촉진하는 뇌세포 생성과 인지 환기"
     },
     "whyDesc": {
-      "ko": "매일 꾸준히 달리는 유산소 운동은 뇌 건강에 결정적인 물질인 <strong>뇌유래신경영양인자(BDNF)</strong>의 합성을 유도합니다. BDNF는 기억과 학습을 담당하는 해마 영역에서 새로운 신경세포(Neuron) 생성을 촉진하여 인지적 작업 기억 공간을 넓힙니다.\n\n또한 달리는 동안 뇌의 인지적 통제를 맡은 전두엽은 일시적인 휴식 상태로 전환되며, 이때 무의식적 자원을 활용하는 <strong>기본 모드 네트워크(DMN)</strong>가 자극받습니다. 이 현상 덕분에 머리를 싸매고 고민할 때 풀리지 않던 어려운 연산이나 창조적 아이디어가 달리기를 마친 직후 번뜩이며 활성화되는 복원 효과를 거두게 됩니다.",
-      "en": "Consistent aerobic exercise daily induces the synthesis of <strong>BDNF (Brain-Derived Neurotrophic Factor)</strong>, a crucial substance for brain health. BDNF promotes the generation of new neurons in the hippocampus, which is responsible for memory and learning, thereby expanding cognitive working memory space.\n\nAdditionally, during running, the frontal lobe responsible for cognitive control enters a temporary state of rest, stimulating the <strong>Default Mode Network (DMN)</strong> which utilizes unconscious resources. Thanks to this phenomenon, complex computations or creative ideas that seemed unsolvable while racking your brain are instantly activated with a flash of insight right after running.",
-      "ja": "毎日コツコツと走る有酸素運動は、脳の健康に決定的な物質である<strong>脳由来神経栄養因子（BDNF）</strong>の合成を誘導します。BDNFは、記憶や学習を司る海馬領域において新しい神経細胞（ニューロン）の生成を促進し、認知的な作業記憶スペースを拡大します。\n\nまた、走っている間、脳の認知的制御を司る前頭葉は一時的な休息状態に移行し、この時に無意識的なリソースを活用する<strong>デフォルトモードネットワーク（DMN）</strong>が刺激されます。この現象のおかげで、机の前で頭を抱えて悩んでいた時には解けなかった難しい計算やクリエイティブなアイデアが、走り終わった直後に突然ひらめくという効果を得られます。",
-      "zh": "坚持每日进行有氧运动会诱导合成对大脑健康至关重要的物质——<strong>脑源性神经营养因子 (BDNF)</strong>。BDNF促进负责记忆和学习的海马体区域产生新的神经元，从而扩大认知工作记忆空间。\n\n此外，在跑步期间，负责认知控制的大脑前额叶进入暂时的休息状态，刺激了利用无意识资源的<strong>默认模式网络 (DMN)</strong>。得益于这一现象，在苦思冥想时看似无法解决的复杂计算或创意想法，在跑步后会以灵光一现的形式瞬间被激活。",
-      "es": "El ejercicio aeróbico constante diario induce la síntesis de <strong>BDNF</strong>, una sustancia crucial para la salud cerebral. El BDNF promueve la generación de nuevas neuronas en el hipocampo, responsable de la memoria y el aprendizaje, expandiendo el espacio de memoria de trabajo cognitivo.\n\nAdemás, al correr, el lóbulo frontal entra en un estado temporal de reposo, estimulando la <strong>Red Neuronal por Defecto (RND)</strong> que utiliza recursos inconscientes. Gracias a esto, ideas creativas o cálculos complejos que no se resolvían pensando intensamente se activan con un destello de intuición justo después de correr.",
-      "fr": "Un effort aérobie régulier stimule la synthèse du <strong>BDNF (facteur neurotrophique dérivé du cerveau)</strong>, une protéine essentielle à la santé cérébrale. Le BDNF favorise la neurogenèse dans l'hippocampe, élargissant la capacité de la mémoire de travail.\n\nDe plus, courir met au repos le lobe frontal et active le <strong>réseau du mode par défaut (RMD)</strong>. C'est pourquoi des solutions ou des idées créatives, impossibles à formuler devant un bureau, apparaissent souvent comme une évidence juste après une séance de course.",
-      "de": "Regelmäßiges Ausdauertraining kurbelt die Produktion von <strong>BDNF</strong> an, einem Protein, das das Wachstum neuer Nervenzellen im Hippocampus fördert. Dies verbessert nachweislich die Gedächtnisleistung und die Lernfähigkeit.\n\nZudem wird beim Laufen das bewusste Denken im Stirnlappen gedämpft, wodurch das <strong>Ruhezustandsnetzwerk (DMN)</strong> des Gehirns aktiv wird. Das ermöglicht dem Gehirn, unbewusste Verknüpfungen herzustellen – weshalb die besten Lösungen oft direkt nach dem Laufen entstehen.",
-      "pt": "O exercício aeróbico constante diariamente induz a síntese de <strong>BDNF</strong> (Fator Neurotrófico Derivado do Cérebro), uma substância crucial para a saúde cerebral. O BDNF promove a geração de novos neurônios no hipocampo, responsável pela memória e aprendizado, expandindo o espaço de memória de trabalho cognitivo.\n\nAlém disso, ao correr, o lobo frontal entra em um estado temporário de repouso, estimulando a <strong>Rede de Modo Padrão (DMN)</strong> que utiliza recursos inconscientes. Graças a isso, ideias criativas ou cálculos complexos que não se resolviam pensando intensamente são ativados com um vislumbre de intuição logo após a corrida.",
-      "id": "Olahraga aerobik yang konsisten setiap hari memicu sintesis <strong>BDNF (Brain-Derived Neurotrophic Factor)</strong>, zat penting untuk kesehatan otak. BDNF merangsang pembentukan neuron baru di hipokampus, bagian yang bertanggung jawab untuk memori dan pembelajaran, sehingga memperluas ruang memori kerja kognitif.\n\nSelain itu, saat berlari, lobus frontal yang bertanggung jawab atas kontrol kognitif memasuki kondisi istirahat sementara, menstimulasi <strong>Jaringan Mode Default (DMN)</strong> yang menggunakan sumber daya bawah sadar. Berkat fenomena ini, komputasi rumit atau ide kreatif yang tampaknya tidak terpecahkan saat memeras otak akan langsung aktif dengan kilatan wawasan tepat setelah berlari."
+      "ko": "매일 꾸준히 달리는 유산소 운동은 뇌 건강에 결정적인 물질인 <strong>뇌유래신경영양인자(BDNF)</strong>의 합성을 유도합니다. BDNF는 기억과 학습을 담당하는 해마 영역에서 새로운 신경세포(Neuron) 생성을 촉진하여 인지적 작업 기억 공간을 넓힙니다.\n\n또한 달리는 동안 뇌의 인지적 통제를 맡은 전두엽은 일시적인 휴식 상태로 전환되며, 이때 무의식적 자원을 활용하는 <strong>기본 모드 네트워크(DMN)</strong>가 자극받습니다. 이 현상 덕분에 머리를 싸매고 고민할 때 풀리지 않던 어려운 연산이나 창조적 아이디어가 달리기를 마친 직후 번뜩이며 활성화되는 복원 효과를 거두게 됩니다."
     },
     "cautionTitle": {
-      "ko": "주의력 환기를 위한 페이스 통제",
-      "en": "Pace Control for Attentional Refresh",
-      "ja": "注意力の喚起のためのペース制御",
-      "zh": "用于注意力唤醒的配速控制",
-      "es": "Control del ritmo para la renovación de la atención",
-      "fr": "Contrôle de l'allure pour régénérer l'attention",
-      "de": "Der richtige Puls für mentale Regeneration",
-      "pt": "Controle do ritmo para a renovação da atenção",
-      "id": "Kontrol Kecepatan untuk Penyegaran Perhatian"
+      "ko": "주의력 환기를 위한 페이스 통제"
     },
     "cautionDesc": {
-      "ko": "두뇌를 환기하기 위한 러닝에서는 페이스 조절이 매우 중요합니다. 지나치게 격렬하게 뛰어 심장이 터질 것 같은 무산소 역치 상태에 도달하면, 뇌는 신체 생존에만 온 인지 자원을 쏟아부어 사색과 DMN 활성화를 방해합니다. 옆 사람과 가벼운 대화가 가능한 정도의 페이스로 일정하게 뛰는 것이 효과적입니다.",
-      "en": "Pace control is crucial in running to refresh the brain. If you run too aggressively and reach an anaerobic threshold where your heart rate spikes excessively, the brain channels all cognitive resources solely to physical survival, hindering contemplation and DMN activation. Running at a steady pace where you can converse lightly is effective.",
-      "ja": "脳をクリアにするためのランニングでは、ペース調節が極めて重要です。あまりにも激しく走り、心臓が破裂しそうな無酸素閾値の状態に達すると、脳は身体の生存だけにすべての認知リソースを注ぎ込み、思索やDMNの活性化を妨げます。隣の人と軽い会話ができる程度の一定のペースで走るのが効果的です。",
-      "zh": "旨在唤醒脑力的跑步中，控制配速至关重要。如果跑步过于剧烈并达到心率过度飙升的无氧阈值状态，大脑会将所有认知资源仅用于维持身体生存，阻碍思考和DMN激活。以能够进行轻微交谈的稳定配速跑步才有效。",
-      "es": "El control del ritmo es crucial al correr para refrescar el cerebro. Si corres demasiado rápido y alcanzas un umbral anaeróbico donde tu corazón se acelera en exceso, el cerebro destina los recursos cognitivos a la supervivencia física, impidiendo la contemplación. Corre a un ritmo constante que te permita hablar.",
-      "fr": "L'allure est essentielle pour régénérer le cerveau. Si vous courez trop vite et atteignez le seuil anaérobie, le cerveau consacre toutes ses ressources à la survie physique, ce qui bloque le RMD. Courir à un rythme modéré, permettant de parler, est beaucoup plus efficace.",
-      "de": "Um den Kopf frei zu bekommen, darf das Tempo nicht zu hoch sein. Bei maximaler Auslastung im anaeroben Bereich konzentriert sich das Gehirn nur auf das physische Überleben. Laufen Sie in einem Tempo, bei dem Sie sich noch unterhalten könnten, um den regenerativen Effekt zu maximieren.",
-      "pt": "O controle do ritmo é crucial ao correr para refrescar o cérebro. Se correr muito rápido e atingir um limiar anaeróbico onde o coração acelera excessivamente, o cérebro destina os recursos cognitivos apenas à sobrevivência física, impedindo a contemplação. Corra a um ritmo constante que permita conversar.",
-      "id": "Kontrol kecepatan sangat penting dalam berlari untuk menyegarkan otak. Jika Anda berlari terlalu agresif dan mencapai ambang batas anaerobik di mana detak jantung melonjak berlebihan, otak menyalurkan semua sumber daya kognitif hanya untuk kelangsungan hidup fisik, sehingga menghambat perenungan dan aktivasi DMN. Berlari dengan kecepatan stabil di mana Anda dapat mengobrol ringan adalah hal yang efektif."
+      "ko": "두뇌를 환기하기 위한 러닝에서는 페이스 조절이 매우 중요합니다. 지나치게 격렬하게 뛰어 심장이 터질 것 같은 무산소 역치 상태에 도달하면, 뇌는 신체 생존에만 온 인지 자원을 쏟아부어 사색과 DMN 활성화를 방해합니다. 옆 사람과 가벼운 대화가 가능한 정도의 페이스로 일정하게 뛰는 것이 효과적입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 디지털 차단과 러닝 시작",
-          "en": "Step 1: Digital Disconnection and Start Running",
-          "ja": "ステップ1：デジタル遮断とランニング開始",
-          "zh": "第一步：切断电子设备，开始跑步",
-          "es": "Paso 1: Desconexión digital y comenzar a correr",
-          "fr": "Étape 1 : Déconnexion numérique et départ",
-          "de": "Schritt 1: Smartphone weg und Lauf starten",
-          "pt": "Passo 1: Desconexão digital e começar a correr",
-          "id": "Langkah 1: Pemutusan Digital dan Mulai Berlari"
+          "ko": "1단계: 디지털 차단과 러닝 시작"
         },
         "text": {
-          "ko": "스마트폰의 음악이나 팟캐스트 스트리밍을 켜지 않고, 스마트폰을 주머니에 넣거나 방해 금지 모드로 설정하여 외부 디지털 자극을 완전히 끊고 달리기 시작합니다.",
-          "en": "Start running by setting your smartphone to do-not-disturb mode or putting it away without playing music or podcast streams, completely disconnecting from external digital stimuli.",
-          "ja": "スマートフォンの音楽やポッドキャストのストリーミングをオンにせず、スマホをポケットに入れるかマナーモードに設定して、外部のデジタル刺激を完全に遮断して走り始めます。",
-          "zh": "将智能手机设置为免打扰模式或放好，不要播放音乐或播客，完全切断外部数字刺激，然后开始跑步。",
-          "es": "Comience a correr configurando su teléfono en modo no molestar, sin reproducir música ni podcasts, desconectándose de los estímulos digitales.",
-          "fr": "Partez courir en réglant votre téléphone sur ne pas déranger, sans musique ni podcasts, pour vous couper de tout stimulus numérique.",
-          "de": "Laufen Sie los, ohne Musik oder Podcasts einzuschalten. Konzentrieren Sie sich ganz auf die Bewegung und die Umgebung.",
-          "pt": "Comece a correr configurando o celular no modo não perturbe, sem reproduzir música ou podcasts, desconectando-se de estímulos digitais.",
-          "id": "Mulailah berlari dengan mengatur ponsel Anda ke mode jangan ganggu atau menyimpannya tanpa memutar musik atau streaming podcast, memutuskan hubungan sepenuhnya dari rangsangan digital luar."
+          "ko": "스마트폰의 음악이나 팟캐스트 스트리밍을 켜지 않고, 스마트폰을 주머니에 넣거나 방해 금지 모드로 설정하여 외부 디지털 자극을 완전히 끊고 달리기 시작합니다."
         }
       },
       {
         "name": {
-          "ko": "2단계: 대화 가능한 일정한 페이스 유지",
-          "en": "Step 2: Maintain a Steady, Conversational Pace",
-          "ja": "ステップ2：会話が可能な一定のペース維持",
-          "zh": "第二步：保持稳定、可交谈的的配速",
-          "es": "Paso 2: Mantenga un ritmo constante y conversacional",
-          "fr": "Étape 2 : Maintenir une allure modérée et régulière",
-          "de": "Schritt 2: Konstantes, moderates Tempo halten",
-          "pt": "Passo 2: Mantenha um ritmo constante e conversacional",
-          "id": "Langkah 2: Jaga Kecepatan yang Stabil dan Dapat Sambil Mengobrol"
+          "ko": "2단계: 대화 가능한 일정한 페이스 유지"
         },
         "text": {
-          "ko": "30분 동안 호흡이 살짝 가쁘지만 옆 사람과 가볍게 말을 주고받을 수 있는 일정한 페이스(심박수 영역 2)를 일관되게 유지하며 달립니다.",
-          "en": "Run for 30 minutes while consistently maintaining a steady pace (heart rate zone 2) where your breathing increases slightly but you can still converse lightly.",
-          "ja": "30分間、呼吸は少し上がりますが、隣の人と軽く話ができる程度の一定のペース（心拍数ゾーン2）を一貫して維持しながら走ります.",
-          "zh": "跑步30分钟，同时持续保持稳定配速（心率区间2），在此配速下您的呼吸会略有促，但仍能进行轻微交谈。",
-          "es": "Corra durante 30 minutos manteniendo un ritmo constante (zona de frecuencia cardíaca 2) que le permita respirar un poco más rápido pero hablar.",
-          "fr": "Courez pendant 30 minutes à une allure régulière (zone cardiaque 2) qui accélère légèrement le souffle tout en permettant de parler.",
-          "de": "Laufen Sie 30 Minuten lang in einem Tempo (Herzfrequenzzone 2), bei dem Sie zwar leicht ins Schwitzen kommen, aber problemlos sprechen könnten.",
-          "pt": "Corra por 30 minutos mantendo um ritmo constante (zona de frequência cardíaca 2) que permita respirar um pouco mais rápido mas conversar.",
-          "id": "Berlari selama 30 menit sambil secara konsisten mempertahankan kecepatan yang stabil (zona denyut jantung 2) di mana napas Anda sedikit meningkat tetapi Anda masih dapat mengobrol ringan."
+          "ko": "30분 동안 호흡이 살짝 가쁘지만 옆 사람과 가볍게 말을 주고받을 수 있는 일정한 페이스(심박수 영역 2)를 일관되게 유지하며 달립니다."
         }
       },
       {
         "name": {
-          "ko": "3단계: 러닝 후 쿨다운 및 떠오른 아이디어 아날로그 메모",
-          "en": "Step 3: Cool Down and Take Analog Notes of Fleeting Ideas",
-          "ja": "ステップ3：ランニング後のクールダウンとひらめいたアイデアのアナログメモ",
-          "zh": "第三步：跑步后整理放松，用模拟方式记录脑海中浮现的想法",
-          "es": "Paso 3: Enfriamiento y notas analógicas de ideas fugaces",
-          "fr": "Étape 3 : Récupération et notes manuscrites des idées apparues",
-          "de": "Schritt 3: Abkühlen und Gedanken handschriftlich notieren",
-          "pt": "Passo 3: Desaceleração e notas analógicas de ideias fugazes",
-          "id": "Langkah 3: Pendinginan dan Catat Ide-Ide yang Muncul Secara Analog"
+          "ko": "3단계: 러닝 후 쿨다운 및 떠오른 아이디어 아날로그 메모"
         },
         "text": {
-          "ko": "러닝을 마친 뒤 가벼운 스트레칭과 호흡으로 몸을 식히고, 전두엽이 해방된 상태에서 무의식적으로 떠오른 생각이나 해결책을 수첩에 아날로그 손필기로 적습니다.",
-          "en": "After running, cool down with light stretching and deep breathing. Write down ideas or solutions that arose from your subconscious on a physical notepad by hand.",
-          "ja": "ランニングを終えた後, 軽いストレッチと呼吸で体を冷まし、前頭葉が解放された状態で無意識的にひらめいた考えや解決策をノートに手書きでメモします.",
-          "zh": "跑步后，进行轻度拉伸和深呼吸以放松身体。将处于前额叶解放状态下无意中浮现的想法或解决方案用手写方式记录在纸质笔记本上。",
-          "es": "Al terminar, realice estiramientos y respire hondo. Escriba a mano en un cuaderno de papel las ideas o soluciones surgidas de su subconsciente.",
-          "fr": "Après la course, récupérez avec des étirements. Notez immédiatement à la main sur un carnet les idées apparues pendant que votre lobe frontal était au repos.",
-          "de": "Machen Sie nach dem Lauf Dehnübungen. Schreiben Sie spontane Ideen oder Lösungsansätze sofort handschriftlich in ein Notizbuch.",
-          "pt": "Ao terminar, realize alongamentos e respire fundo. Escreva à mão em um caderno físico as ideias ou soluções que surgiram do seu subconsciente.",
-          "id": "Setelah berlari, lakukan pendinginan dengan peregangan ringan dan napas dalam. Catat ide atau solusi yang muncul dari alam bawah sadar Anda pada buku catatan fisik secara manual."
+          "ko": "러닝을 마친 뒤 가벼운 스트레칭과 호흡으로 몸을 식히고, 전두엽이 해방된 상태에서 무의식적으로 떠오른 생각이나 해결책을 수첩에 아날로그 손필기로 적습니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "러닝 대신 실내 고정 자전거나 수영을 해도 뇌 환기 효과는 동일한가요?",
-          "en": "Are the brain-refreshing effects the same if I do indoor stationary cycling or swimming instead of running?",
-          "ja": "ランニングの代わりに室内固定自転車や水泳をしても、脳のクリア効果は同じですか？",
-          "zh": "用室内动感单车或游泳代替跑步，唤醒脑力的效果是一样的吗？",
-          "es": "¿El efecto de renovación cerebral es el mismo si hago ciclismo estático o natación en lugar de correr?",
-          "fr": "Le vélo d'appartement ou la natation produisent-ils le même effet de régénération cérébrale ?",
-          "de": "Haben Indoor-Cycling oder Schwimmen denselben Effekt auf das Gehirn?",
-          "pt": "O efeito de renovação cerebral é o mesmo se eu fizer ciclismo estático ou natação em vez de correr?",
-          "id": "Apakah efek penyegaran otak sama jika saya bersepeda statis dalam ruangan atau berenang sebagai ganti berlari?"
+          "ko": "러닝 대신 실내 고정 자전거나 수영을 해도 뇌 환기 효과는 동일한가요?"
         },
         "answer": {
-          "ko": "네, 심폐 기능이 개입되어 BDNF 수치를 높일 수 있는 지속적인 유산소 운동이라면 자전거나 수영도 유사한 인지 회복 효과를 제공합니다. 다만, 야외 러닝처럼 자연 경관과 바람 등의 오감 자극이 뇌로 전달될 때 기본 모드 네트워크(DMN)의 이완 및 아이디어 활성화 효과가 극대화됩니다.",
-          "en": "Yes, any continuous aerobic exercise that engages cardiopulmonary function and increases BDNF levels, like cycling or swimming, offers similar cognitive recovery. However, outdoor running maximizes DMN relaxation and creative insight as sensory inputs like natural scenery and wind are processed.",
-          "ja": "はい、心肺機能が働きBDNF数値を高めることができる持続的な有酸素運動であれば、自転車や水泳も同様の認知回復効果を提供します。ただ、屋外ランニングのように自然の景色や風などの五感の刺激が脳に伝わる時、デフォルトモードネットワーク（DMN）の弛緩とアイデアの活性化効果が極大化されます.",
-          "zh": "是的，任何涉及心肺功能并提高BDNF水平的持续有氧运动，如骑自行车或游泳，都能提供类似的认知恢复效果。然而，户外跑步时，诸如自然风光和风等感官刺激传递给大脑，这能最大程度放松默认模式网络 (DMN) 并最大化创意灵感。",
-          "es": "Sí, cualquier ejercicio aeróbico continuo que eleve el BDNF, como ciclismo o natación, ofrece una recuperación cognitiva similar. No obstante, correr al aire libre maximiza la relajación del RND gracias a los estímulos sensoriales como el viento y el paisaje.",
-          "fr": "Oui, tout exercice aérobie continu qui stimule le BDNF (vélo, natation) offre des bienfaits cognitifs similaires. Cependant, la course en extérieur maximise le repos du RMD en apportant des stimuli sensoriels (nature, vent) qui stimulent la créativité.",
-          "de": "Ja, jede Form von aerobem Ausdauersport (wie Radfahren oder Schwimmen) fördert die BDNF-Ausschüttung. Laufen an der frischen Luft hat jedoch durch die sensorischen Reize der Natur den stärksten beruhigenden Effekt auf das DMN.",
-          "pt": "Sim, qualquer exercício aeróbico contínuo que eleve o BDNF, como ciclismo ou natação, oferece uma recuperação cognitiva semelhante. Contudo, correr ao ar livre maximiza o relaxamento do DMN graças aos estímulos sensoriais como o vento e a paisagem.",
-          "id": "Ya, olahraga aerobik berkelanjutan apa pun yang melibatkan fungsi kardiopulmoner dan meningkatkan kadar BDNF, seperti bersepeda atau berenang, menawarkan pemulihan kognitif serupa. Namun, berlari di luar ruangan memaksimalkan relaksasi DMN dan wawasan kreatif karena masukan sensorik seperti pemandangan alam dan angin diproses oleh otak."
+          "ko": "네, 심폐 기능이 개입되어 BDNF 수치를 높일 수 있는 지속적인 유산소 운동이라면 자전거나 수영도 유사한 인지 회복 효과를 제공합니다. 다만, 야외 러닝처럼 자연 경관과 바람 등의 오감 자극이 뇌로 전달될 때 기본 모드 네트워크(DMN)의 이완 및 아이디어 활성화 효과가 극대화됩니다."
         }
       },
       {
         "question": {
-          "ko": "달리는 동안 음악을 들으면 뇌 회복에 방해가 되나요?",
-          "en": "Does listening to music while running interfere with brain recovery?",
-          "ja": "走っている間に音楽を聴くと脳の回復の妨げになりますか？",
-          "zh": "跑步时听音乐会妨碍大脑恢复吗？",
-          "es": "¿Escuchar música mientras corro interfiere con la recuperación cerebral?",
-          "fr": "Écouter de la musique en courant nuit-il à la récupération cérébrale ?",
-          "de": "Stört Musik beim Laufen die geistige Erholung?",
-          "pt": "Ouvir música enquanto corro interfere na recuperação cerebral?",
-          "id": "Apakah mendengarkan musik saat berlari mengganggu pemulihan otak?"
+          "ko": "달리는 동안 음악을 들으면 뇌 회복에 방해가 되나요?"
         },
         "answer": {
-          "ko": "가사나 격렬한 비트가 있는 음악은 전두엽이 소리 정보를 청각적으로 여과하고 분석하게 하여 뇌의 완전한 휴식을 방해합니다. 자연의 소리를 그대로 듣거나 음악 없이 호흡에만 집중하는 것이 DMN을 가장 온전하게 활성화하고 주의력을 재충전하는 비결입니다.",
-          "en": "Music with lyrics or aggressive beats forces the frontal lobe to process and filter audio information, which hinders complete brain rest. Listening to natural sounds or focusing solely on your breath without music is the best way to fully activate the DMN and recharge attention.",
-          "ja": "歌詞や激しいビートのある音楽は、前頭葉が音の情報を聴覚的にろ過・分析するように働くため、脳の完全な休息を妨げます。自然の音をそのまま聴くか、音楽なしで呼吸だけに集中することがDMNを最も健やかに活性化し, 注意力を再充電する秘訣です.",
-          "zh": "带有歌词或剧烈节拍的音乐会迫使前额叶听觉化地过滤和分析音频信息，从而妨碍大脑的完全休息。倾听大自然的声音或在没有音乐的情况下专注于呼吸，是充分激活DMN和恢复注意力的秘诀。",
-          "es": "La música con letra o ritmos fuertes obliga al lóbulo frontal a procesar sonido, impidiendo el descanso cerebral. Escuchar sonidos naturales o concentrarse en la respiración sin música activa mejor la RND y recarga la atención.",
-          "fr": "Les musiques avec paroles ou rythmes agressifs forcent le lobe frontal à traiter les informations sonores, ce qui empêche le cerveau de se reposer. Écouter les bruits de la nature ou se concentrer sur son souffle sans musique est idéal pour activer le RMD.",
-          "de": "Musik mit Texten oder schnellen Rhythmen zwingt das Gehirn, akustische Daten zu verarbeiten. Das verhindert die geistige Ruhe. Das Lauschen auf die Naturgeräusche oder den eigenen Atem aktiviert das DMN am effektivsten.",
-          "pt": "Música com letra ou ritmos fortes obriga o lobo frontal a processar som, impedindo o descanso cerebral absoluto. Ouvir sons naturais ou concentrar-se na respiração sem música ativa melhor o DMN e recarrega a atenção.",
-          "id": "Musik dengan lirik atau ketukan agresif memaksa lobus frontal untuk memproses dan menyaring informasi audio, yang menghambat istirahat otak secara total. Mendengarkan suara alam atau hanya fokus pada napas Anda tanpa musik adalah cara terbaik untuk mengaktifkan DMN sepenuhnya dan mengisi ulang perhatian."
+          "ko": "가사나 격렬한 비트가 있는 음악은 전두엽이 소리 정보를 청각적으로 여과하고 분석하게 하여 뇌의 완전한 휴식을 방해합니다. 자연의 소리를 그대로 듣거나 음악 없이 호흡에만 집중하는 것이 DMN을 가장 온전하게 활성화하고 주의력을 재충전하는 비결입니다."
         }
       }
-    ],
-    "pubDate": "2026-02-02",
-    "updatedDate": "2026-02-02"
+    ]
   }
 }

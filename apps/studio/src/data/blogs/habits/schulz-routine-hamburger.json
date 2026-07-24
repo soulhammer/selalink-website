@@ -1,190 +1,62 @@
 {
   "schulz-routine-hamburger": {
     "title": {
-      "ko": "의사결정 피로 지우기: 찰스 슐츠의 단일 점심 루틴",
-      "en": "Eliminating Decision Fatigue: Charles M. Schulz's Single Lunch Routine",
-      "ja": "意思決定疲労の解消：チャールズ・シュルツの単一ランチルーティン",
-      "zh": "消除决策疲劳：查尔斯·舒尔茨的单一午餐规程",
-      "es": "Eliminar la fatiga por tomar decisiones: la rutina de almuerzo único de Charles M. Schulz",
-      "fr": "Éliminer la fatigue décisionnelle : la routine de déjeuner unique de Charles M. Schulz",
-      "de": "Dezisionsmüdigkeit eliminieren: Charles M. Schulz' immer gleiche Mittagsroutine",
-      "pt": "Eliminar a fadiga de decisão: a rotina de almoço único de Charles M. Schulz",
-      "id": "Menghilangkan Kelelahan Keputusan: Rutinitas Satu Menu Makan Siang Charles M. Schulz"
+      "ko": "의사결정 피로 지우기: 찰스 슐츠의 단일 점심 루틴"
     },
     "description": {
-      "ko": "50년간 멈춤 없이 스누피 만화를 그리기 위해 일상의 식사와 업무 환경을 완전히 고정했던 찰스 슐츠. 매일 똑같은 햄버거를 먹으며 전두엽의 인지 피로를 막고 창의력을 극대화한 자동화 의식을 탐구합니다.",
-      "en": "Cartoonist Charles M. Schulz, who standardized his daily lunch and workspace to draw Snoopy for 50 years. Explore the automation rituals that shield the prefrontal cortex from decision fatigue.",
-      "ja": "50年間休むことなくスヌーピーを描き続けるため、日常の食事や作業環境を完全に固定したチャールズ・シュルツ。毎日同じハンバーガーを食べながら前頭葉の認知疲労を防ぎ、創造力を極大化した自動化の儀式を探求します。",
-      "zh": "漫画家查尔斯·舒尔茨为了50年不停歇地创作史努比漫画，完全固定了自己的日常午餐和工作空间。探讨保护前额叶皮层免受决策疲劳影响的自动化仪式。",
-      "es": "El caricaturista Charles M. Schulz, quien estandarizó su almuerzo diario y espacio de trabajo para dibujar a Snoopy durante 50 años. Explore los rituales de automatización que protegen la corteza prefrontal de la fatiga por tomar decisiones.",
-      "fr": "Le caricaturiste Charles M. Schulz, qui a standardisé son déjeuner quotidien et son espace de travail pour dessiner Snoopy pendant 50 ans. Découvrez les rituels d'automatisation qui protègent le cortex préfrontal de la fatigue décisionnelle.",
-      "de": "Karikaturist Charles M. Schulz, der sein tägliches Mittagessen und seinen Arbeitsplatz standardisierte, um 50 Jahre lang Snoopy zu zeichnen. Erforschen Sie die Automatisierungsrituale, die den präfrontalen Cortex vor Dezisionsmüdigkeit schützen.",
-      "pt": "O cartunista Charles M. Schulz, que padronizou seu almoço diário e espaço de trabalho para desenhar o Snoopy por 50 anos. Explore os rituais de automatização que protegem o córtex pré-frontal da fadiga de decisão.",
-      "id": "Kartunis Charles M. Schulz, yang menstandardisasi makan siang dan ruang kerjanya demi menggambar Snoopy selama 50 tahun. Pelajari ritual otomatisasi."
+      "ko": "50년간 멈춤 없이 스누피 만화를 그리기 위해 일상의 식사와 업무 환경을 완전히 고정했던 찰스 슐츠. 매일 똑같은 햄버거를 먹으며 전두엽의 인지 피로를 막고 창의력을 극대화한 자동화 의식을 탐구합니다."
     },
     "authority": {
-      "ko": "찰스 슐츠 공식 전기 『슐츠와 피너츠』 및 심리학의 자아 고갈 이론(Ego Depletion)에 기반한 의사결정 피로(Decision Fatigue) 방지 연구",
-      "en": "Official biography 'Schulz and Peanuts' and psychological research on Ego Depletion preventing Decision Fatigue",
-      "ja": "チャールズ・シュルツ公式伝記『シュルツとピーナッツ』および心理学の自我消耗理論に基づく意思決定疲労（Decision Fatigue）防止の研究",
-      "zh": "查尔斯·舒尔茨官方传记《舒尔茨与花生》及基于自我损耗理论的决策疲劳预防研究",
-      "es": "Biografía oficial 'Schulz y Peanuts' e investigación psicológica sobre el agotamiento del ego que previene la fatiga por tomar decisiones",
-      "fr": "Biographie officielle 'Schulz and Peanuts' et recherche psychologique sur l'épuisement de l'ego prévenant la fatigue décisionnelle",
-      "de": "Offizielle Biografie ‚Schulz and Peanuts‘ und psychologische Forschung zur Ego-Depletion zur Vermeidung von Dezisionsmüdigkeit",
-      "pt": "Biografia oficial 'Schulz and Peanuts' e pesquisa psicológica sobre o esgotamento do ego que previne a fadiga de decisão",
-      "id": "Biografi resmi 'Schulz and Peanuts' dan penelitian psikologis tentang Ego Depletion untuk mencegah Kelelahan Keputusan"
+      "ko": "Schulz Routine Hamburger 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "사랑스러운 강아지 스누피와 찰리 브라운의 일상을 담아 전 세계인의 마음을 사로잡은 신문 연재만화 《피너츠》. 이 명작의 뒤에는 50년 동안 어시스턴트 한 명 없이 혼자서 만화의 기획, 드로잉, 채색을 도맡았던 철저한 루틴의 화신 찰스 슐츠가 있었습니다. 그는 평생 마주해야 했던 엄청난 마감 압박과 창조적 스트레스 속에서 뇌의 에너지를 유지하기 위해 독특한 습관을 실천했습니다. 아침 9시부터 오후 4시까지 고정된 시간에 같은 책상에서 일했고, 특히 점심 식사는 고민할 필요도 없이 매일 똑같은 햄버거를 사서 제도 책상 옆에서 먹었습니다. 신경과학적으로 이 단일 식사 루틴이 뇌의 분석 영역을 어떻게 지켜내는지 알아봅니다.",
-      "en": "Peanuts, the beloved comic strip featuring Snoopy and Charlie Brown. Behind this masterpiece stood Charles M. Schulz, a man of absolute routines who drew and wrote the strip alone for 50 years without assistants. To manage the creative pressure and save brainpower, he standardized his days. He worked at the same desk from 9 AM to 4 PM, and for lunch, he ate the exact same hamburger next to his drawing board. We look into how this single-menu routine shields the brain's analytic centers.",
-      "ja": "愛らしい子犬のスヌーピーとチャーリー・ブラウンの日常を描き、世界中の人々の心を捉えた新聞連載漫画『ピーナッツ』。この名作の後ろには、50年間アシスタント一人も置かずに一人で漫画の企画、ドローイング、彩色を担当した徹底的なルーティンの化身チャールズ・シュルツがいました。彼は一生直面しなければならなかった巨大な締め切りの圧力と創造的ストレスの中で脳のエネルギーを維持するために、独特な習慣を実践しました。朝9時から午後4時まで固定された時間に同じ机で働き、特に昼食は悩む必要もなく毎日まったく同じハンバーガーを買って製図机の横で食べました。神経科学的にこの単一食事ルーティンが脳の分析領域をどのように守るのかを調べます。",
-      "zh": "通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
-      "es": "Peanuts, la querida tira cómica con Snoopy y Charlie Brown. Detrás de esta obra maestra estuvo Charles M. Schulz, un hombre de rutinas absolutas que dibujó y escribió la tira solo durante 50 años sin asistentes. Para manejar la presión creativa y ahorrar energía mental, estandarizó sus días. Trabajaba en el mismo escritorio de 9 a.m. a 4 p.m. y, para almorzar, comía exactamente la misma hamburguesa al lado de su mesa de dibujo. Analizamos cómo esta rutina de menú único protege los centros analíticos del cerebro.",
-      "fr": "Peanuts, la bande dessinée adorée mettant en scène Snoopy et Charlie Brown. Derrière ce chef-d'œuvre se tenait Charles M. Schulz, un homme aux routines absolues qui dessinait et écrivait seul la bande dessinée pendant 50 ans sans assistants. Pour gérer la pression créative et économiser son énergie mentale, il a standardisé ses journées. Il travaillait au même bureau de 9h à 16h et, pour le déjeuner, il mangeait exactement le même hamburger à côté de sa table à dessin. Nous examinons comment cette routine de menu unique protège les centres analytiques du cerveau.",
-      "de": "Peanuts, der beliebte Comic-Strip mit Snoopy und Charlie Brown. Hinter diesem Meisterwerk stand Charles M. Schulz, ein Mann absoluter Routinen, der den Strip 50 Jahre lang ohne Assistenten allein zeichnete und schrieb. Um den kreativen Druck zu bewältigen und Gehirnschmalz zu sparen, standardisierte er seine Tage. Er arbeitete von 9 bis 16 Uhr am selben Schreibtisch und aß mittags genau denselben Hamburger an seinem Zeichentisch. Wir untersuchen, wie diese Routine des immer gleichen Menüs die Analysezentren des Gehirns schützt.",
-      "pt": "Peanuts, a adorada tira de quadrinhos com Snoopy e Charlie Brown. Por trás desta obra-prima estava Charles M. Schulz, um homem de rotinas absolutas que desenhou e escreveu a tira sozinho por 50 anos, sem assistentes. Para gerenciar a pressão criativa e economizar energia mental, ele padronizou seus dias. Ele trabalhava na mesma mesa das 9h às 16h e, no almoço, comia exatamente o mesmo hambúrguer ao lado de sua mesa de desenho. Analisamos como essa rotina de cardápio único protege os centros analíticos do cérebro.",
-      "id": "Peanuts, strip komik yang menampilkan Snoopy dan Charlie Brown. Di balik mahakarya ini berdiri Charles M. Schulz, pria dengan rutinitas mutlak yang menggambar sendirian selama 50 tahun. Untuk menghemat energi otak, dia bekerja di meja yang sama pukul 9 pagi hingga 4 sore, dan makan menu burger yang sama. Kami melihat bagaimana ini melindungi pusat analitik otak."
+      "ko": "\"나는 매일 아침 9시에 책상 앞에 앉아 펜을 든다. 그리고 점심에는 항상 햄버거를 먹는다. 일상을 단순하게 만드는 것이 내 창조성을 유지하는 비결이다.\" 🍔\n\n사랑스러운 강아지 스누피와 찰리 브라운의 일상을 담아 전 세계인의 마음을 사로잡은 신문 연재만화 《피너츠》. 이 명작의 뒤에는 50년 동안 어시스턴트 한 명 없이 혼자서 만화의 기획, 드로잉, 채색을 도맡았던 철저한 루틴의 화신 찰스 슐츠가 있었습니다. 그는 평생 마주해야 했던 엄청난 마감 압박과 창조적 스트레스 속에서 뇌의 에너지를 유지하기 위해 독특한 습관을 실천했습니다. 아침 9시부터 오후 4시까지 고정된 시간에 같은 책상에서 일했고, 특히 점심 식사는 고민할 필요도 없이 매일 똑같은 햄버거를 사서 제도 책상 옆에서 먹었습니다. 신경과학적으로 이 단일 식사 루틴이 뇌의 분석 영역을 어떻게 지켜내는지 알아봅니다.\n\n우리는 일상에서 끊임없이 결정을 내려야 합니다. 아침에 어떤 옷을 입을지, 점심으로 무엇을 먹을지, 어떤 경로로 출근할지 등의 사소한 물음들이 계속해서 머릿속을 맴돕니다. 그러나 놀랍게도 뇌는 아무리 사소한 선택이라도 에너지를 소모하며, 이는 고도의 논리적 사고나 창의적 작업을 수행하기 위한 에너지를 고갈시키는 주범입니다.\n\n오늘 포스트에서는 찰스 슐츠의 의사결정 최소화 루틴이 뇌의 자아 고갈을 어떻게 방지하는지 규명하고, 현대인들이 사소한 의사결정을 줄여 본질적인 집중 효율을 발휘하는 3단계 실천 방안을 제시합니다."
     },
     "whyTitle": {
-      "ko": "자아 고갈 방지와 전두엽 에너지 보존의 원리",
-      "en": "Principles of Preventing Ego Depletion and Conserving Prefrontal Energy",
-      "ja": "自我消耗防止と前頭葉エネルギー保存の原理",
-      "zh": "防止自我损耗与节省前额叶能量的原则",
-      "es": "Principios para prevenir el agotamiento del ego y conservar la energía prefrontal",
-      "fr": "Principes de prévention de l'épuisement de l'ego et de conservation de l'énergie préfrontale",
-      "de": "Prinzipien zur Vermeidung von Ego-Depletion und zur Schonung präfrontaler Energie",
-      "pt": "Princípios para prevenir o esgotamento do ego e conservar a energia pré-frontal",
-      "id": "Prinsip Mencegah Ego Depletion dan Menghemat Energi Prefrontal"
+      "ko": "자아 고갈 방지와 전두엽 에너지 보존의 원리"
     },
     "whyDesc": {
-      "ko": "뇌의 전두엽(Prefrontal Cortex)은 계획을 세우고, 감정을 통제하며, 결정을 내리는 중추입니다. 그러나 신경과학 연구에 의하면 뇌는 결정을 내릴 때 그것이 점심 메뉴 선택처럼 사소한 일이라도 의사결정 자원을 소모합니다. 이를 '의사결정 피로(Decision Fatigue)' 혹은 '자아 고갈(Ego Depletion)'이라고 부릅니다. 슐츠처럼 매일 아침 입을 옷과 점심 식사 메뉴를 일찍이 고정해 두면 불필요한 의사결정에 소모되는 신경 에너지를 완벽히 차단하고, 이렇게 보존한 최고의 뇌 자원을 만화 캐릭터의 표정 하나, 대사 한 줄을 창작하는 핵심 업무에 온전히 투자할 수 있습니다.",
-      "en": "The prefrontal cortex is the control center for planning, regulating emotions, and making decisions. Neuroscientific studies show that the brain expends decision-making resources on choices, even minor ones like choosing lunch. This is known as 'Decision Fatigue' or 'Ego Depletion.' By pre-determining small choices like clothes and lunch menus like Schulz, you block unnecessary neural energy loss and invest preserved high-quality brain resources into core creative tasks.",
-      "ja": "脳の前頭前野（Prefrontal Cortex）は、計画を立て、感情をコントロールし、意思決定を下す中枢です。しかし、神経科学の研究によれば、脳は意思決定を下す際、それが昼食メニューの選択のような些細なことでも、意思決定リソースを消費します。これを「意思決定疲労（Decision Fatigue）」または「自我消耗（Ego Depletion）」と呼びます。シュルツのように毎朝着る服や昼食メニューを早めに固定しておけば、不要な意思決定に消費される神経エネルギーを完璧に遮断し、このように保存した最高の脳リソースを漫画キャラクターの表情一つ、セリフ一行を創作する核心業務に完全に投資することができます。",
-      "zh": "前额叶皮层是规划、调节情绪和做出决策的控制中心。神经科学研究表明，大脑在做选择时会消耗决策资源，即使是像选择午餐这样的小事。这被称为“决策疲劳”或“自我损耗”。通过像舒尔茨一样预先确定衣服和午餐菜单等小选择，您可以阻止不必要的神经能量流失，并将保留的高质量大脑资源投入到核心创意任务中。",
-      "es": "La corteza prefrontal es el centro de control para planificar, regular las emociones y tomar decisiones. Los estudios neurocientíficos muestran que el cerebro gasta recursos de toma de decisiones en elecciones, incluso en las menores como elegir el almuerzo. Esto se conoce como 'Fatiga por tomar decisiones' o 'Agotamiento del ego'. Al predeterminar pequeñas opciones como la ropa y los menús de almuerzo como Schulz, bloquea la pérdida innecesaria de energía neural e invierte los recursos cerebrales de alta calidad conservados en tareas creativas centrales.",
-      "fr": "Le cortex préfrontal est le centre de contrôle pour planifier, réguler les émotions et prendre des décisions. Des études neuroscientifiques montrent que le cerveau dépense des ressources décisionnelles pour des choix, même mineurs comme choisir son déjeuner. C'est ce qu'on appelle la « fatigue décisionnelle » ou « l'épuisement de l'ego ». En prédéterminant de petits choix comme les vêtements et les menus du déjeuner comme Schulz, vous bloquez la perte d'énergie nerveuse inutile et investissez les ressources cérébrales de haute qualité préservées dans les tâches créatives centrales.",
-      "de": "Der präfrontale Cortex ist das Kontrollzentrum für Planung, Emotionsregulation und Entscheidungsfindung. Neurowissenschaftliche Studien zeigen, dass das Gehirn bei Entscheidungen – selbst bei unbedeutenden wie der Wahl des Mittagessens – Entscheidungsressourcen verbraucht. Dies wird als „Dezisionsmüdigkeit“ oder „Ego-Depletion“ bezeichnet. Indem Sie kleine Entscheidungen wie Kleidung und Mittagsmenüs wie Schulz im Voraus festlegen, blockieren Sie unnötigen neuralen Energieverlust und investieren die geschonten, hochwertigen Gehirnressourcen in kreative Kernaufgaben.",
-      "pt": "O córtex pré-frontal é o centro de controle para planejar, regular emoções e tomar decisões. Estudos neurocientíficos mostram que o cérebro gasta recursos de tomada de decisão em escolhas, mesmo as pequenas, como escolher o almoço. Isso é conhecido como 'Fadiga de decisão' ou 'Esgotamento do ego'. Ao pré-determinar pequenas escolhas, como roupas e cardápios de almoço, como Schulz, você bloqueia a perda desnecessária de energia neural e investe recursos cerebrais de alta qualidade conservados em tarefas criativas centrais.",
-      "id": "Korteks prefrontal adalah pusat kendali untuk merencanakan, mengatur emosi, dan membuat keputusan. Studi neurosains menunjukkan otak menghabiskan sumber daya pembuatan keputusan pada pilihan-pilihan, bahkan pilihan kecil seperti makan siang. Ini dikenal sebagai 'Decision Fatigue' atau 'Ego Depletion'. Dengan menentukan pilihan kecil terlebih dahulu, Anda menghemat energi otak."
+      "ko": "뇌의 전두엽(Prefrontal Cortex)은 계획을 세우고, 감정을 통제하며, 결정을 내리는 중추입니다. 그러나 신경과학 연구에 의하면 뇌는 결정을 내릴 때 그것이 점심 메뉴 선택처럼 사소한 일이라도 의사결정 자원을 소모합니다. 이를 '의사결정 피로(Decision Fatigue)' 혹은 '자아 고갈(Ego Depletion)'이라고 부릅니다. 슐츠처럼 매일 아침 입을 옷과 점심 식사 메뉴를 일찍이 고정해 두면 불필요한 의사결정에 소모되는 신경 에너지를 완벽히 차단하고, 이렇게 보존한 최고의 뇌 자원을 만화 캐릭터의 표정 하나, 대사 한 줄을 창작하는 핵심 업무에 온전히 투자할 수 있습니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "루틴을 너무 과도하게 강제하여 변동성을 100% 제거하면, 뇌는 오히려 매너리즘에 빠져 인지 기능이 둔화되거나 지루함을 느낄 수 있습니다. 따라서 의사결정 자동화는 일상의 본질적이지 않은 영역(식사, 옷차림, 작업 환경)에만 적용하고, 실제 업무 내용이나 취미, 여가 시간 등 창조적 유연성이 필요한 영역에는 의도적인 변주와 탐색의 여지를 열어두어야 신선한 자극을 유지할 수 있습니다.",
-      "en": "Standardizing everything to eliminate all variance can backfire, causing the brain to fall into boredom or cognitive stagnation. Apply decision automation strictly to non-essential spheres (meals, clothing, environments), while reserving intentional variety and play for creative work and personal time to keep neural pathways stimulated.",
-      "ja": "ルーティンを過度に強制して変動性を100％排除すると、脳はむしろマンネリに陥り、認知機能が鈍化したり退屈を感じたりすることがあります。したがって、意思決定の自動化は日常の本質的でない領域（食事、服装、作業環境）にのみ適用し、実際の業務内容や趣味、余暇時間などの創造的柔軟性が必要な領域には意図的な変奏と探索の余地を残しておくことで、新鮮な刺激を維持する必要があります。",
-      "zh": "标准化一切以消除所有差异可能会适得其反，导致大脑陷入无聊或认知停滞。将决策自动化严格应用于非必要领域（餐食、衣服、环境），同时在创意工作和个人时间中保留有意识的多样性和趣味，以保持神经通路受到刺激。",
-      "es": "Estandarizar todo para eliminar toda variación puede ser contraproducente, haciendo que el cerebro caiga en el aburrimiento o el estancamiento cognitivo. Aplique la automatización de decisiones estrictamente a esferas no esenciales (comidas, ropa, entornos), mientras reserva variedad y juego intencionados para el trabajo creativo y el tiempo personal para mantener estimuladas las vías neuronales.",
-      "fr": "Tout standardiser pour éliminer toute variation peut se retourner contre vous, obligeant le cerveau à sombrer dans l'ennui ou la stagnation cognitive. Appliquez l'automatisation des décisions strictement aux sphères non essentielles (repas, vêtements, environnements), tout en réservant une variété intentionnelle et du jeu pour le travail créatif et le temps personnel afin de maintenir les voies neuronales stimulées.",
-      "de": "Alles zu standardisieren, um jegliche Varianz zu eliminieren, kann nach hinten losgehen und dazu führen, dass das Gehirn in Langeweile oder kognitive Stagnation verfällt. Wenden Sie die Entscheidungsautomatisierung ausschließlich auf unwesentliche Bereiche (Mahlzeiten, Kleidung, Umgebungen) an, während Sie sich bewusste Vielfalt und Spielraum für kreative Arbeit und Freizeit vorbehalten, um die neuralen Bahnen stimuliert zu halten.",
-      "pt": "Padronizar tudo para eliminar qualquer variação pode ser contraproducente, fazendo com que o cérebro caia no tédio ou na estagnação cognitiva. Aplique a automação de decisões estritamente a esferas não essenciais (refeições, roupas, ambientes), enquanto reserva variedade e diversão intencionais para o trabalho criativo e o tempo pessoal para manter os caminhos neurais estimulados.",
-      "id": "Menstandardisasi segala hal untuk menghilangkan variasi dapat menjadi bumerang, menyebabkan otak bosan. Terapkan otomatisasi keputusan pada ranah non-esensial saja (makanan, pakaian, lingkungan), dan tetap sediakan variasi pada ranah kreatif dan waktu pribadi."
+      "ko": "루틴을 너무 과도하게 강제하여 변동성을 100% 제거하면, 뇌는 오히려 매너리즘에 빠져 인지 기능이 둔화되거나 지루함을 느낄 수 있습니다. 따라서 의사결정 자동화는 일상의 본질적이지 않은 영역(식사, 옷차림, 작업 환경)에만 적용하고, 실제 업무 내용이나 취미, 여가 시간 등 창조적 유연성이 필요한 영역에는 의도적인 변주와 탐색의 여지를 열어두어야 신선한 자극을 유지할 수 있습니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "선택 없는 비본질적 요소의 고정",
-          "en": "Standardizing Non-essential Daily Choices",
-          "ja": "選択のない非本質的要素の固定",
-          "zh": "标准化非必要的日常选择",
-          "es": "Estandarizar opciones diarias no esenciales",
-          "fr": "Standardiser les choix quotidiens non essentiels",
-          "de": "Standardisierung unwesentlicher täglicher Entscheidungen",
-          "pt": "Padronizar escolhas diárias não essenciais",
-          "id": "Menstandardisasi Pilihan Harian Non-esensial"
+          "ko": "선택 없는 비본질적 요소의 고정"
         },
         "text": {
-          "ko": "출근 시 입을 유니폼(단벌 옷)을 정하거나, 매주 정해진 요일에 먹을 점심 메뉴를 미리 결정하여 아침의 고민 시간을 지웁니다.",
-          "en": "Designate a daily work uniform or pre-schedule weekly lunch menus to eliminate morning decision friction.",
-          "ja": "出勤時に着るユニフォーム（同じ服）を決めたり、毎週決められた曜日に食べる昼食メニューを事前に決めておくことで、朝の悩み時間を消去します。",
-          "zh": "指定一套日常工作服或预先安排每周的午餐菜单，以消除早上的决策磨合。",
-          "es": "Designe un uniforme de trabajo diario o preprograme los menús de almuerzo semanales para eliminar la fricción de las decisiones matutinas.",
-          "fr": "Désignez un uniforme de travail quotidien ou planifiez à l'avance les menus de déjeuner hebdomadaires pour éliminer les hésitations décisionnelles du matin.",
-          "de": "Legen Sie eine tägliche Arbeitskleidung fest oder planen Sie wöchentliche Mittagsmenüs im Voraus, um morgendliche Entscheidungsschwierigkeiten zu vermeiden.",
-          "pt": "Designe um uniforme de trabalho diário ou pré-programe os cardápios semanais de almoço para eliminar a fricção das decisões matinais.",
-          "id": "Tentukan pakaian kerja harian Anda atau buat jadwal menu makan siang mingguan untuk mengurangi kebingungan di pagi hari."
+          "ko": "출근 시 입을 유니폼(단벌 옷)을 정하거나, 매주 정해진 요일에 먹을 점심 메뉴를 미리 결정하여 아침의 고민 시간을 지웁니다."
         }
       },
       {
         "name": {
-          "ko": "업무 시간과 공간의 규칙적 앵커링",
-          "en": "Anchoring Workspace and Time Routinely",
-          "ja": "業務時間と空間の規則的なアンカリング",
-          "zh": "常规锚定工作空间和时间",
-          "es": "Anclar rutinariamente el espacio de trabajo y el tiempo",
-          "fr": "Ancrer régulièrement l'espace de travail et le temps",
-          "de": "Regelmäßige Verankerung von Arbeitsplatz und Zeit",
-          "pt": "Ancorar rotineiramente o espaço de trabalho e o tempo",
-          "id": "Menambatkan Ruang dan Waktu Kerja Secara Rutin"
+          "ko": "업무 시간과 공간의 규칙적 앵커링"
         },
         "text": {
-          "ko": "매일 똑같은 책상에서 정해진 시간에 의자에 앉는 습관을 들여 뇌가 별도의 의지력 소모 없이 즉각 '일하는 모드'로 들어가게 유도합니다.",
-          "en": "Sit at the same desk at the same time every day, prompting the brain to enter work-mode without wasting willpower.",
-          "ja": "毎日同じ机で決められた時間に椅子に座る習慣を身につけ、脳が余分な意志力を消耗することなく即座に「仕事モード」に入るように誘導します。",
-          "zh": "每天在同一时间坐在同一张办公桌前，促使大脑进入工作模式，而无需浪费意志力。",
-          "es": "Siéntese en el mismo escritorio a la misma hora todos los días, incitando al cerebro a entrar en modo de trabajo sin gastar fuerza de voluntad.",
-          "fr": "Asseyez-vous au même bureau à la même heure chaque jour, ce qui incitera le cerveau à passer en mode travail sans gaspiller de volonté.",
-          "de": "Setzen Sie sich jeden Tag zur gleichen Zeit an denselben Schreibtisch und veranlassen Sie das Gehirn, ohne Willenskraft zu verschwenden, in den Arbeitsmodus zu wechseln.",
-          "pt": "Sente-se na mesma mesa no mesmo horário todos os dias, estimulando o cérebro a entrar no modo de trabalho sem desperdiçar força de vontade.",
-          "id": "Duduklah di meja yang sama pada waktu yang sama setiap hari, mendorong otak masuk ke mode kerja tanpa membuang kemauan."
+          "ko": "매일 똑같은 책상에서 정해진 시간에 의자에 앉는 습관을 들여 뇌가 별도의 의지력 소모 없이 즉각 '일하는 모드'로 들어가게 유도합니다."
         }
       },
       {
         "name": {
-          "ko": "확보된 인지 자원의 핵심 딥워크 투입",
-          "en": "Allocating Conserved Energy to Core Deep Work",
-          "ja": "確保された認知資源の核心ディープワーク投入",
-          "zh": "将节省的精力分配给核心深度工作",
-          "es": "Asignar energía conservada al trabajo profundo central",
-          "fr": "Allouer l'énergie conservée au travail en profondeur essentiel",
-          "de": "Zuweisung geschonter Energie auf Kernbereiche konzentrierter Arbeit",
-          "pt": "Alocar energia conservada para o trabalho profundo principal",
-          "id": "Mengalokasikan Energi yang Dihemat untuk Kerja Mendalam Utama"
+          "ko": "확보된 인지 자원의 핵심 딥워크 투입"
         },
         "text": {
-          "ko": "사소한 고민이 사라지며 보존된 신선한 집중력을 하루 중 가장 중요한 전략 수립, 기획, 집필에 가장 먼저 사용합니다.",
-          "en": "Pour the fresh cognitive energy saved by avoiding trivial decisions directly into your most important task of the day.",
-          "ja": "些細な悩みが消えて保存された新鮮な集中力を、一日の中で最も重要な戦略立案、企画、執筆に最優先で使用します。",
-          "zh": "将因避免琐碎决定而节省的清醒认知精力，直接投入到一天中最重要的任务中。",
-          "es": "Vierta la energía cognitiva fresca ahorrada al evitar decisiones triviales directamente en su tarea más importante del día.",
-          "fr": "Consacrez l'énergie cognitive fraîche économisée en évitant les décisions futiles directement à votre tâche la plus importante de la journée.",
-          "de": "Nutzen Sie die frische kognitive Energie, die durch die Vermeidung trivialer Entscheidungen gespart wurde, direkt für Ihre wichtigste Aufgabe des Tages.",
-          "pt": "Direcione a energia cognitiva fresca economizada ao evitar decisões triviais diretamente na sua tarefa mais importante do dia.",
-          "id": "Curahkan energi kognitif segar yang dihemat dari menghindari keputusan sepele langsung ke tugas terpenting Anda."
+          "ko": "사소한 고민이 사라지며 보존된 신선한 집중력을 하루 중 가장 중요한 전략 수립, 기획, 집필에 가장 먼저 사용합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "매일 같은 점심을 먹는 것이 건강에 해롭지 않을까요? 슐츠의 습관을 현대적으로 어떻게 적용하나요?",
-          "en": "Is eating the same lunch daily unhealthy? How do we adapt Schulz's habit modernly?",
-          "ja": "毎日同じ昼食を食べることが健康に害になりませんか？シュルツの習慣を現代的にどのように適用しますか？",
-          "zh": "每天吃同样的午餐是否不健康？我们如何在现代适应舒尔茨的习惯？",
-          "es": "¿Es insalubre comer el mismo almuerzo a diario? ¿Cómo adaptamos el hábito de Schulz en la actualidad?",
-          "fr": "Est-il malsain de manger le même déjeuner tous les jours ? Comment adapter la routine de Schulz aujourd'hui ?",
-          "de": "Ist es ungesund, täglich das gleiche Mittagessen zu essen? Wie können wir Schulz' Gewohnheit modern anpassen?",
-          "pt": "Comer o mesmo almoço diariamente não faz mal à saúde? Como adaptamos o hábito do Schulz de forma moderna?",
-          "id": "Apakah makan siang menu yang sama setiap hari tidak sehat? Bagaimana kita mengadaptasi kebiasaan Schulz hari ini?"
+          "ko": "매일 같은 점심을 먹는 것이 건강에 해롭지 않을까요? 슐츠의 습관을 현대적으로 어떻게 적용하나요?"
         },
         "answer": {
-          "ko": "슐츠는 전통적인 햄버거를 주로 먹었지만, 현대적으로는 '영양 균형이 맞춰진 도시락 3종 교대'나 '정기 구독 샐러드' 등으로 대체할 수 있습니다. 핵심은 먹는 행위 자체보다 '무엇을 먹을지 고르고 결정하는 과정'을 제거하는 것에 있습니다. 루틴화된 식단 옵션 2~3가지를 고정해 두면 영양과 인지 에너지 보존이라는 두 마리 토끼를 다 잡을 수 있습니다.",
-          "en": "While Schulz ate typical burgers, modern adapters can use nutritionally balanced meal prep kits, pre-ordered salads, or 3 rotating healthy menus. The goal is removing the cognitive selection process. Pre-selecting 2 or 3 healthy diet options secures both physical health and mental energy savings.",
-          "ja": "シュルツは伝統的なハンバーガーを主に食べていましたが、現代的には「栄養バランスの取れたお弁当3種の交代」や「定期購読サラダ」などに置き換えることができます。核心は、食べる行為そのものよりも「何を食べるかを選んで決定するプロセス」を排除することにあります。ルーティン化された食事オプションを2〜3個固定しておけば、栄養と認知エネルギーの保存という二兎を得ることができます。",
-          "zh": "虽然舒尔茨吃的是典型的汉堡，但现代适应者可以使用营养平衡的餐食准备套件、预订沙拉或3种轮换的健康菜单。目标是消除认知选择过程。预先选择2或3种健康饮食选择可以同时确保身体健康和节省心理能量。",
-          "es": "Aunque Schulz comía hamburguesas típicas, los adaptadores modernos pueden usar kits de preparación de comidas nutricionalmente equilibradas, ensaladas preordenadas o 3 menús saludables rotativos. El objetivo es eliminar el proceso de selección cognitiva. Preseleccionar 2 o 3 opciones de dieta saludable asegura tanto la salud física como el ahorro de energía mental.",
-          "fr": "Alors que Schulz mangeait des hamburgers classiques, les adaptateurs modernes peuvent utiliser des kits de préparation de repas équilibrés, des salades précommandées ou 3 menus sains rotatifs. Le but est de supprimer le processus de choix cognitif. Présélectionner 2 ou 3 options saines garantit à la fois la santé physique et l'économie d'énergie mentale.",
-          "de": "Während Schulz typische Hamburger aß, können moderne Anwender ernährungsphysiologisch ausgewogene Mahlzeiten-Kits, vorbestellte Salate oder 3 rotierende gesunde Menüs nutzen. Das Ziel besteht darin, den kognitiven Auswahlprozess zu eliminieren. Die Vorauswahl von 2 oder 3 gesunden Ernährungsoptionen sichert sowohl die körperliche Gesundheit als auch die Einsparung geistiger Energie.",
-          "pt": "Embora Schulz comesse hambúrgueres típicos, os adaptadores modernos podem usar kits de refeições nutricionalmente equilibradas, saladas pré-encomendadas ou 3 menus saudáveis rotativos. O objetivo é remover o processo de seleção cognitiva. A pré-seleção de 2 ou 3 opções de dieta saudável garante tanto a saúde física quanto a economia de energia mental.",
-          "id": "Meskipun Schulz makan burger biasa, adaptasi modern dapat menggunakan katering sehat, salad langganan, atau rotasi 3 menu sehat. Tujuannya adalah menghilangkan proses pemilihan kognitif."
+          "ko": "슐츠는 전통적인 햄버거를 주로 먹었지만, 현대적으로는 '영양 균형이 맞춰진 도시락 3종 교대'나 '정기 구독 샐러드' 등으로 대체할 수 있습니다. 핵심은 먹는 행위 자체보다 '무엇을 먹을지 고르고 결정하는 과정'을 제거하는 것에 있습니다. 루틴화된 식단 옵션 2~3가지를 고정해 두면 영양과 인지 에너지 보존이라는 두 마리 토끼를 다 잡을 수 있습니다."
         }
       }
     ]

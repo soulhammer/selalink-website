@@ -1,223 +1,72 @@
 {
   "hegel-card-index": {
     "title": {
-      "ko": "철학적 사유의 보관소? 헤겔의 변증법적 카드 색인 기록법",
-      "en": "The Storage of Philosophical Thought? Hegel's Dialectical Card Indexing System",
-      "ja": "哲学思考の保管庫？ヘーゲルの弁証法的カードインデックス記録法",
-      "zh": "哲学思维的保管库？黑格尔的辩证卡片索引记录法",
-      "es": "¿El depósito del pensamiento filosófico? El sistema de indexación de tarjetas dialécticas de Hegel",
-      "fr": "Le réservoir de la pensée philosophique ? Le système d'indexation de fiches dialectiques de Hegel",
-      "de": "Das Archiv des philosophischen Denkens? Hegels dialektisches Zettelkasten-System",
-      "pt": "O arquivo do pensamento filosófico? O sistema de indexação de fichas dialéticas de Hegel",
-      "id": "Gudang Pemikiran Filosofis? Sistem Pengindeksan Kartu Dialektika Hegel"
+      "ko": "철학적 사유의 보관소? 헤겔의 변증법적 카드 색인 기록법"
     },
     "description": {
-      "ko": "독일 관념론을 완성한 헤겔의 철학 뒤에는 수만 장의 지식 카드와 철저한 분류 상자 보관법이 있었습니다. 지식을 확장하는 그의 인지적 스캐폴딩과 실천법을 알아봅니다.",
-      "en": "Behind Hegel's philosophy was tens of thousands of knowledge cards and a strict catalog indexing system. Learn his cognitive scaffolding and implementation plan.",
-      "ja": "ドイツ観念論を完成させたヘーゲルの哲学の背後には、数万枚の知識カードと徹底した分類箱保管法がありました。知識を拡張する彼の認知的足場と実践法を紹介します。",
-      "zh": "在完成德国古典主义唯心论的黑格尔哲学背后，有着数万张知识卡片和彻底的分类分类保存法。让我们来了解一下他扩展知识的认知支架和实践方法。",
-      "es": "Detrás de la filosofía de Hegel había decenas de miles de fichas de conocimiento y un estricto sistema de almacenamiento. Conozca su andamiaje cognitivo y plan de práctica.",
-      "fr": "Derrière la philosophie de Hegel se cachaient des dizaines de milliers de fiches de connaissances et un système de classement rigoureux. Découvrez son échafaudage cognitif.",
-      "de": "Hinter Hegels Philosophie standen zehntausende Wissenskarten und ein striktes Ordnungssystem. Entdecken Sie Hegels kognitives Gerüst und praktische Anleitung.",
-      "pt": "Por trás da filosofia de Hegel havia milhares de fichas de conhecimento e um sistema rígido de catalogação. Conheça o seu andaime cognitivo e plano prático.",
-      "id": "Di balik filsafat Hegel, terdapat puluhan ribu kartu pengetahuan dan sistem pengarsipan yang ketat. Pelajari alih kognitif dan panduan praktisnya."
+      "ko": "독일 관념론을 완성한 헤겔의 철학 뒤에는 수만 장의 지식 카드와 철저한 분류 상자 보관법이 있었습니다. 지식을 확장하는 그의 인지적 스캐폴딩과 실천법을 알아봅니다."
     },
     "authority": {
-      "ko": "헤겔 평전 'Hegel: A Biography' 및 인지과학 학술 연구 결과",
-      "en": "Hegel's Biography 'Hegel: A Biography' & Cognitive Science Research",
-      "ja": "ヘーゲル伝記「Hegel: A Biography」および認知科学の学術研究",
-      "zh": "黑格尔传记《Hegel: A Biography》与认知科学学术研究成果",
-      "es": "Biografía de Hegel 'Hegel: A Biography' y estudios de ciencia cognitiva",
-      "fr": "Biographie de Hegel 'Hegel: A Biography' & recherches en sciences cognitives",
-      "de": "Hegels Biografie 'Hegel: A Biography' & kognitionswissenschaftliche Forschung",
-      "pt": "Biografia de Hegel 'Hegel: A Biography' & pesquisas em ciência cognitiva",
-      "id": "Biografi Hegel 'Hegel: A Biography' & Penelitian Sains Kognitif"
+      "ko": "헤겔 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "독일 관념론을 집대성하고 변증법적 사유 체계를 완성하여 마르크스, 사르트르, 하버마스 등 후대 철학사에 심오한 거대 산맥을 구축한 철학자, 게오르크 빌헬름 프리드리히 헤겔(G. W. F. Hegel). 수십 권에 달하는 깊고 거대한 철학 서적과 복잡한 변증법 논리는 대체 어떻게 체계화될 수 있었을까요? 🗃️\n\n헤겔은 평생 방대한 문헌을 읽으며 떠오르는 단하나의 고유한 개념이나 논리적 생각들을 작은 카드 한 장에 독립적으로 기록했습니다. 그리고 이 수만 장의 카드들을 주제별, 알파벳순으로 분류하여 전용 나무 보관 상자에 철저히 정렬했습니다. 새로운 글을 쓰거나 창의적 문제를 해결할 때마다 이 카드들을 꺼내 책상 위에 늘어놓고 자유롭게 순서를 재배치하며 정보들의 예기치 않은 유기적 결합을 유도했습니다.\n\n오늘 BuildSelf에서는 헤겔의 카드 색인 분류 루틴에 담긴 인지적 스캐폴딩(Cognitive Scaffolding)과 정보 재조합의 뇌과학적 원리를 소개합니다.",
-      "en": "Mastermind of German Idealism whose dialectical system shaped modern philosophy, Georg Wilhelm Friedrich Hegel built a monumental intellectual legacy. How did he organize such vast philosophical systems without drowning in complexity? 🗃️\n\nHegel transcribed every single concept or excerpt onto individual paper cards. He cataloged tens of thousands of cards in wooden boxes organized by topics. When constructing new works, he spread these modular cards across his table, reorganizing them physically to uncover dialectical connections between ideas.\n\nToday, BuildSelf explores the cognitive scaffolding behind Hegel's card index routine, revealing how modular information management fuels mental flexibility.",
-      "ja": "この歴史的習慣の実践において： , , , (G. W. F. Hegel). ? 🗃️ この歴史的習慣の実践において： . , . . この歴史的習慣の実践において： BuildSelf (Cognitive Scaffolding) .",
-      "zh": "在这一历史性惯例的实践中： , , , (G. W. F. Hegel). ? 🗃️ 在这一历史性惯例的实践中： . , . . 在这一历史性惯例的实践中： BuildSelf (Cognitive Scaffolding) .",
-      "es": "En la práctica de esta rutina transformadora:        , ,         ,    (G. W. F. Hegel).               ? 🗃️\n\nEn la práctica de esta rutina transformadora:                 .      ,        .                      .\n\nEn la práctica de esta rutina transformadora:  BuildSelf        (Cognitive Scaffolding)     .\n\nAl practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora:        , ,         ,    (G. W. F. Hegel).               ? 🗃️\n\nNa prática desta rotina transformadora:                 .      ,        .                      .\n\nNa prática desta rotina transformadora:  BuildSelf        (Cognitive Scaffolding)     .\n\nAo praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "독일 관념론을 집대성하고 변증법적 사유 체계를 완성하여 마르크스, 사르트르, 하버마스 등 후대 철학사에 심오한 거대 산맥을 구축한 철학자, 게오르크 빌헬름 프리드리히 헤겔(G. W. F. Hegel). 수십 권에 달하는 깊고 거대한 철학 서적과 복잡한 변증법 논리는 대체 어떻게 체계화될 수 있었을까요? 🗃️\n\n헤겔은 평생 방대한 문헌을 읽으며 떠오르는 단하나의 고유한 개념이나 논리적 생각들을 작은 카드 한 장에 독립적으로 기록했습니다. 그리고 이 수만 장의 카드들을 주제별, 알파벳순으로 분류하여 전용 나무 보관 상자에 철저히 정렬했습니다. 새로운 글을 쓰거나 창의적 문제를 해결할 때마다 이 카드들을 꺼내 책상 위에 늘어놓고 자유롭게 순서를 재배치하며 정보들의 예기치 않은 유기적 결합을 유도했습니다.\n\n오늘 포스트에서는 헤겔의 카드 색인 분류 루틴에 담긴 인지적 스캐폴딩(Cognitive Scaffolding)과 정보 재조합의 뇌과학적 원리를 소개합니다."
     },
     "whyTitle": {
-      "ko": "제한된 뇌 용량을 돕는 '인지적 스캐폴딩'",
-      "en": "'Cognitive Scaffolding' to Support Limited Brain Capacity",
-      "ja": "限られた脳の容量を助ける「認知的足場」",
-      "zh": "辅助有限大脑容量的“认知支架”",
-      "es": "'Andamiaje Cognitivo' para Ayudar a la Capacidad Cerebral",
-      "fr": "L'Échafaudage Cognitif' pour Soutenir la Capacité Cérébrale",
-      "de": "'Kognitives Gerüst' zur Entlastung des Gehirns",
-      "pt": "'Andaimes Cognitivos' para Apoiar a Capacidade Cerebral",
-      "id": "'Alih Kognitif' untuk Membantu Kapasitas Otak"
+      "ko": "제한된 뇌 용량을 돕는 '인지적 스캐폴딩'"
     },
     "whyDesc": {
-      "ko": "우리의 뇌는 한 번에 처리할 수 있는 정보량인 작업 기억 용량이 극히 제한되어 있습니다. 여러 논리와 지식을 머릿속에만 담고 있으면 뇌는 과부하에 걸려 고차원적인 창의성을 발휘하기 힘듭니다. \n\n헤겔의 카드 색인 분류법은 지식을 외부로 보관하는 완벽한 <strong>'인지적 스캐폴딩(Cognitive Scaffolding, 인지적 비계)'</strong> 역할을 합니다. 지식을 외재화하면 뇌의 연산 공간이 확보되고, 축적된 카드들을 물리적으로 조합하고 배치하는 과정에서 뇌는 예기치 못한 새로운 아이디어의 연결 회로를 활성화합니다. 이는 머릿속에 갇혀 있던 단편적 개념들이 유기적인 변증법적 종합을 이루게 돕는 脳科学的 원리입니다.",
-      "en": "Our brain has an extremely limited working memory capacity. Keeping multiple logics and knowledges in your head causes overload, making it hard to exercise high creativity.\n\nHegel's card indexing acts as a perfect <strong>'cognitive scaffolding.'</strong> Externalizing knowledge frees up mental computing space. Physically combining and arranging cards activates neural pathways for unexpected connections. This helps isolated concepts achieve organic synthesis.",
-      "ja": "私たちの脳は、一度に処理できる情報量である作業記憶（ワーキングメモリ）の容量が極めて限られています。複数の論理や知識を頭の中だけに留めておくと、脳は過負荷になり、高次元の創造性を発揮することが難しくなります。\n\nヘーゲルのカードインデックス分類法は、知識を外部に保管する完璧な<strong>「認知的足場（Cognitive Scaffolding）」</strong>の役割を果たします。知識を外在化することで脳の演算空間が確保され、蓄積されたカードを物理的に組み合わせて配置する過程で、脳は予期せぬ新しいアイデアの接続回路を活性化します。これは、頭の中に閉じ込められていた断片的な概念が、有機的な弁証法的総合を成すのを助ける脳科学的原理です。",
-      "zh": "我们大脑的日常工作记忆容量极为有限。如果将各种逻辑和知识只装在脑子里，大脑就会超载，很难发挥高层次的创造力。\n\n黑格尔的卡片索引分类法起到了将知识保存在外部的完美<strong>“认知支架（Cognitive Scaffolding）”</strong>作用。将知识外在化可以确保大脑的运算空间，而在物理上组合和排列积累的卡片的过程中，大脑会激活意想不到的新灵感连接回路。这是帮助被困在脑海中的片段概念实现有机辩证综合的脑科学原理。",
-      "es": "Nuestro cerebro tiene una capacidad de memoria de trabajo extremadamente limitada. Mantener múltiples lógicas y conocimientos en la cabeza provoca sobrecargas, dificultando la creatividad.\n\nLa indexación de Hegel actúa como un <strong>'andamiaje cognitivo'</strong>. Externalizar el conocimiento libera espacio mental. Combinar físicamente las fichas activa vías neuronales para conexiones inesperadas, ayudando a que conceptos aislados logren una síntesis orgánica.",
-      "fr": "Notre cerveau a une capacité de mémoire de travail extrêmement limitée. Conserver de multiples logiques dans sa tête provoque une surcharge, rendant la créativité difficile.\n\nL'indexation de Hegel agit comme un parfait <strong>'échafaudage cognitif'</strong>. Externaliser les connaissances libère de l'espace mental. Combiner physiquement les fiches active des voies neuronales pour des connexions inattendues, aidant les concepts isolés à réaliser une synthèse organique.",
-      "de": "Unser Gehirn hat eine extrem begrenzte Arbeitsgedächtniskapazität. Viele Informationen im Kopf zu behalten führt zur Überlastung und hemmt Kreativität.\n\nHegels Zettelkasten dient als perfektes <strong>'kognitives Gerüst'</strong>. Das Auslagern von Wissen schafft mentalen Freiraum. Das physische Kombinieren und Anordnen der Zettel regt unerwartete neuronale Verknüpfungen an, wodurch Fragmente organisch verschmelzen.",
-      "pt": "Nosso cérebro possui uma capacidade de memória de trabalho extremamente limitada. Guardar lógica e conhecimentos apenas na cabeça causa sobrecarga, dificultando a criatividade.\n\nA rotina de Hegel funciona como um <strong>'andaime cognitivo'</strong>. Externalizar o conhecimento libera espaço mental. Combinar fisicamente as fichas ativa conexões inesperadas, ajudando a criar sínteses orgânicas.",
-      "id": "Otak kita memiliki kapasitas memori kerja yang sangat terbatas. Menyimpan berbagai logika dan pengetahuan di kepala dapat menyebabkan kelebihan beban, menyulitkan kreativitas.\n\nPengindeksan kartu Hegel berfungsi sebagai <strong>' scaffolding kognitif'</strong> yang sempurna. Mengeksternalkan pengetahuan akan membebaskan ruang komputasi mental. Menggabungkan dan menyusun kartu secara fisik mengaktifkan jalur saraf untuk koneksi tak terduga, membantu konsep-konsep terisolasi mencapai sintesis organik."
+      "ko": "우리의 뇌는 한 번에 처리할 수 있는 정보량인 작업 기억 용량이 극히 제한되어 있습니다. 여러 논리와 지식을 머릿속에만 담고 있으면 뇌는 과부하에 걸려 고차원적인 창의성을 발휘하기 힘듭니다. \n\n헤겔의 카드 색인 분류법은 지식을 외부로 보관하는 완벽한 <strong>'인지적 스캐폴딩(Cognitive Scaffolding, 인지적 비계)'</strong> 역할을 합니다. 지식을 외재화하면 뇌의 연산 공간이 확보되고, 축적된 카드들을 물리적으로 조합하고 배치하는 과정에서 뇌는 예기치 못한 새로운 아이디어의 연결 회로를 활성화합니다. 이는 머릿속에 갇혀 있던 단편적 개념들이 유기적인 변증법적 종합을 이루게 돕는 뇌과학적 원리입니다."
     },
     "cautionTitle": {
-      "ko": "단순 보관이 아닌, 연결할 수 있는 정리가 핵심입니다",
-      "en": "The key is organizing for connection, not just storage",
-      "ja": "単なる保管ではなく、接続できる整理が鍵です",
-      "zh": "关键在于能够建立连接的整理，而非单纯的保存",
-      "es": "La clave es organizar para conectar, no solo almacenar",
-      "fr": "La clé est d'organiser pour connecter, pas seulement stocker",
-      "de": "Der Schlüssel ist das Verbinden von Ideen, nicht nur das Lagern",
-      "pt": "A chave é organizar para conectar, não apenas armazenar",
-      "id": "Kuncinya adalah mengatur untuk menghubungkan, bukan hanya menyimpan"
+      "ko": "단순 보관이 아닌, 연결할 수 있는 정리가 핵심입니다"
     },
     "cautionDesc": {
-      "ko": "헤겔의 카드 보관 상자는 단순한 자료 창고가 아니라 사상의 변증법을 실행하는 사유의 연장선이었습니다. 기록하는 행위 자체에 만족하기보다, 언제든 쉽게 다시 꺼내보고 다른 조각들과 유기적으로 결합할 수 있도록 질서를 부여하는 것이 인지적 비계의 핵심입니다.",
-      "en": "Hegel's card box was not a simple storage but an extension of thought. Rather than being satisfied with recording, establish an order so you can retrieve and connect them with other fragments at any time.",
-      "ja": "ヘーゲルのカード保管箱は単なる資料倉庫ではなく、思想の弁証法を実行する思考の延長線でした。記録する行為自体に満足するのではなく、いつでも簡単に取り出して他の断片と有機的に結合できるように秩序を与えることが、認知的足場の核心です。",
-      "zh": "黑格尔的卡片保存箱并非单纯的资料库，而是实现思想辩证法的思维延伸。比起满足于记录行为本身，更重要的是赋予其秩序，以便随时轻松取出并与其他碎片有机结合，这才是认知支架的核心。",
-      "es": "La caja de Hegel no era un almacén, sino una extensión del pensamiento. En lugar de limitarse a registrar, establezca un orden para poder recuperarlos y conectarlos en cualquier momento.",
-      "fr": "La boîte de Hegel n'était pas un simple stockage, mais un prolongement de la pensée. Plutôt que de se contenter de noter, créez un ordre pour pouvoir les retrouver et les relier à tout moment.",
-      "de": "Hegels Kasten war kein Zettelgrab, sondern ein Denkwerkzeug. Entscheidend ist nicht das bloße Aufschreiben, sondern das Herstellen einer Ordnung, die spätere Verknüpfungen ermöglicht.",
-      "pt": "A caixa de fichas de Hegel não era um mero depósito, mas uma extensão do pensamento. Mais do que registrar, estabeleça uma ordem para recuperar e conectar as ideias a qualquer momento.",
-      "id": "Kotak kartu Hegel bukan sekadar penyimpanan sederhana, melainkan perluasan pemikiran. Daripada puas dengan mencatat, buatlah keteraturan sehingga Anda dapat mengambil dan menghubungkannya kembali setiap saat."
+      "ko": "헤겔의 카드 보관 상자는 단순한 자료 창고가 아니라 사상의 변증법을 실행하는 사유의 연장선이었습니다. 기록하는 행위 자체에 만족하기보다, 언제든 쉽게 다시 꺼내보고 다른 조각들과 유기적으로 결합할 수 있도록 질서를 부여하는 것이 인지적 비계의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "1개 개념당 1개의 전용 카드 기록",
-          "en": "Record One Concept per Dedicated Card",
-          "ja": "1つの概念につき1枚の専用カード記録",
-          "zh": "一个概念记录在一张专用卡片上",
-          "es": "Registre un concepto por ficha dedicada",
-          "fr": "Consigner un concept par fiche dédiée",
-          "de": "Ein Gedanke pro Zettel",
-          "pt": "Registre um conceito por ficha dedicada",
-          "id": "Catat Satu Konsep per Kartu Khusus"
+          "ko": "1개 개념당 1개의 전용 카드 기록"
         },
         "text": {
-          "ko": "공부나 독서 중 영감이나 지식을 얻으면 한 개의 카드에 오직 하나의 독립적인 개념이나 생각만 명확히 손으로 적습니다. 여러 내용을 섞어 적지 않는 것이 철저한 원칙입니다.",
-          "en": "When gaining inspiration during study or reading, clearly handwrite only one independent concept or thought on a single card. It is a strict rule not to mix multiple contents.",
-          "ja": "勉強や読書中にインスピレーションや知識を得たら、1枚のカードに独立した概念や考えだけを明確に手書きします。複数の内容を混ぜて書かないことが徹底した原則です。",
-          "zh": "在学习或阅读中获得灵感或知识时，在一张卡片上只清晰地手写一个独立的学术概念或想法。绝对不要把多个内容混在一起写，这是首要原则。",
-          "es": "Al obtener inspiración durante el estudio, escriba a mano solo un concepto o pensamiento independiente en una ficha. Es una regla estricta no mezclar múltiples contenidos.",
-          "fr": "Si vous trouvez l'inspiration en étudiant, notez à la main un seul concept sur une fiche. C'est une règle stricte de ne pas mélanger plusieurs idées.",
-          "de": "Wenn Sie beim Lesen etwas Wichtiges entdecken, schreiben Sie nur einen einzigen Gedanken klar auf einen Zettel. Schreiben Sie niemals verschiedene Themen auf dasselbe Papier.",
-          "pt": "Ao obter inspiração ao estudar, escreva à mão apenas um conceito ou pensamento em uma ficha. É uma regra rígida não misturar vários assuntos.",
-          "id": "Saat mendapatkan inspirasi selama belajar atau membaca, tuliskan hanya satu konsep atau pemikiran independen di atas satu kartu. Ini aturan ketat untuk tidak mencampuradukkan konten."
+          "ko": "공부나 독서 중 영감이나 지식을 얻으면 한 개의 카드에 오직 하나의 독립적인 개념이나 생각만 명확히 손으로 적습니다. 여러 내용을 섞어 적지 않는 것이 철저한 원칙입니다."
         }
       },
       {
         "name": {
-          "ko": "메타 데이터 태그 부여 및 색인 분류",
-          "en": "Assign Meta Data Tags and Catalog Index",
-          "ja": "メタデータタグの付与とインデックス分類",
-          "zh": "赋予元数据标签并进行索引分类",
-          "es": "Asigne etiquetas de metadatos e indexe",
-          "fr": "Attribuer des balises de métadonnées et indexer",
-          "de": "Vergabe von Metadaten und Schlagwörtern",
-          "pt": "Atribua etiquetas de metadados e indexe",
-          "id": "Berikan Tag Meta Data dan Indeks Topik"
+          "ko": "메타 데이터 태그 부여 및 색인 분류"
         },
         "text": {
-          "ko": "작성한 카드 상단에 해당 메모의 속성을 식별할 수 있는 키워드나 분류 코드(예: #인지과학, #습관)를 적어두어 나중에 언제든 쉽게 찾고 연결할 수 있는 색인을 부여합니다.",
-          "en": "Write keywords or classification codes (e.g., #CognitiveScience, #Habits) at the top of the card so you can easily find and connect them later.",
-          "ja": "作成したカードの上部に、メモの属性を識別できるキーワードや分類コード（例：#認知科学、#習慣）を書いておき、後でいつでも簡単に検索して接続できるインデックスを付与します。",
-          "zh": "在写好的卡片顶部写上可以识别该备忘录属性的关键词或分类代码（例如 #认知科学，#习惯），以便日后随时轻松查找和建立连接。",
-          "es": "Escriba palabras clave o códigos (p. ej., #CienciaCognitiva, #Habitos) en la parte superior de la ficha para poder buscarlas y conectarlas fácilmente más adelante.",
-          "fr": "Écrivez des mots-clés (ex. #SciencesCognitives, #Habitudes) en haut de la fiche pour pouvoir les retrouver et les relier facilement par la suite.",
-          "de": "Schreiben Sie ein Schlagwort (z. B. #Kognition, #Routine) oben auf den Zettel, damit Sie ihn später problemlos wiederfinden und zuordnen können.",
-          "pt": "Escreva palavras-chave ou códigos (ex: #CienciaCognitiva, #Habitos) no topo da ficha para facilitar a busca e conexão posteriormente.",
-          "id": "Tulis kata kunci atau kode klasifikasi (misalnya, #SainsKognitif, #Kebiasaan) di bagian atas kartu agar Anda dapat dengan mudah menemukan dan menghubungkannya nanti."
+          "ko": "작성한 카드 상단에 해당 메모의 속성을 식별할 수 있는 키워드나 분류 코드(예: #인지과학, #습관)를 적어두어 나중에 언제든 쉽게 찾고 연결할 수 있는 색인을 부여합니다."
         }
       },
       {
         "name": {
-          "ko": "물리적 공간 조합을 통한 아이디어 변증법",
-          "en": "Idea Dialectics Through Physical Space Combination",
-          "ja": "物理的空間の組み合わせによるアイデアの弁証法",
-          "zh": "通过物理空间组合实现灵感辩证法",
-          "es": "Dialéctica de ideas mediante combinación espacial",
-          "fr": "Dialectique des idées par combinaison spatiale",
-          "de": "Dialektik durch physisches Neuanordnen",
-          "pt": "Dialética de ideias por combinação espacial",
-          "id": "Dialektika Ide Melalui Penggabungan Ruang Fisik"
+          "ko": "물리적 공간 조합을 통한 아이디어 변증법"
         },
         "text": {
-          "ko": "기획을 하거나 문제를 해결해야 할 때, 관련 카테고리의 카드들을 책상 위에 늘어놓고 자유롭게 순서를 바꾸거나 배치하여 정보 조각들의 예기치 못한 유기적 변증법 결합을 유도합니다.",
-          "en": "When planning or solving problems, lay out cards on the desk and freely rearrange them to induce unexpected organic dialectical combinations of information fragments.",
-          "ja": "企画や問題解決が必要な時、関連カテゴリのカードを机の上に並べ、自由に順序を変えたり配置したりして、情報の断片同士の予期せぬ弁証法的結合を促します。",
-          "zh": "在需要进行策划或解决难题时，将相关类别的卡片摆放在桌上，自由地调整顺序或位置，以促使知识碎片发生意想不到的有机辩证融合。",
-          "es": "Al planificar o resolver problemas, extienda las fichas sobre el escritorio y reordénelas libremente para inducir combinaciones dialécticas inesperadas.",
-          "fr": "Lors de la planification, étalez les fiches sur le bureau et réorganisez-les librement pour induire des combinaisons dialectiques inattendues.",
-          "de": "Legen Sie bei Planungen die Zettel auf dem Tisch aus und verschieben Sie sie frei, um neue organische Synthesen und logische Verbindungen anzuregen.",
-          "pt": "Ao planejar ou resolver problemas, espalhe as fichas sobre a mesa e reorganize-as livremente para estimular conexões inesperadas.",
-          "id": "Saat merencanakan atau memecahkan masalah, hamparkan kartu di atas meja dan atur ulang secara bebas untuk merangsang penggabungan dialektis organik."
+          "ko": "기획을 하거나 문제를 해결해야 할 때, 관련 카테고리의 카드들을 책상 위에 늘어놓고 자유롭게 순서를 바꾸거나 배치하여 정보 조각들의 예기치 못한 유기적 변증법 결합을 유도합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "디지털 기기를 이용해 이 루틴을 대체할 수 있나요?",
-          "en": "Can I replace this routine using digital devices?",
-          "ja": "デジタル機器を使ってこのルーティンを代替できますか？",
-          "zh": "可以使用数字化设备代替这个习惯吗？",
-          "es": "¿Se puede reemplazar esta rutina usando dispositivos digitales?",
-          "fr": "Peut-on remplacer cette routine par des outils numériques ?",
-          "de": "Kann man diese Routine auch digital durchführen?",
-          "pt": "É possível substituir essa rotina por dispositivos digitais?",
-          "id": "Bisakah saya mengganti rutinitas ini menggunakan perangkat digital?"
+          "ko": "디지털 기기를 이용해 이 루틴을 대체할 수 있나요?"
         },
         "answer": {
-          "ko": "물론입니다. 노션(Notion), 옵시디언(Obsidian), 혹은 일반 메모 앱의 태그 기능을 사용하여 카드 색인 시스템을 구현할 수 있으며, 특히 양방향 링크(Backlink) 기능을 활용하면 헤겔의 사상 결합을 더욱 효과적으로 구현할 수 있습니다.",
-          "en": "Absolutely. You can implement the card index system using tagging in Notion, Obsidian, or note apps. Utilizing backlinks can be especially effective for replicating Hegel's connection of ideas.",
-          "ja": "もちろんです。Notion、Obsidian、または一般的なメモアプリのタグ機能を使ってカードインデックスシステムを実装できます。特に双方向リンク（Backlink）機能を活用すると、ヘーゲルの思想結合をより効果的に構築できます。",
-          "zh": "当然可以。您可以使用 Notion、Obsidian 或普通备忘录应用的标签功能来实现卡片索引系统，尤其是利用双向链接（Backlink）功能，可以更高效地还原黑格尔的思想结合。",
-          "es": "Por supuesto. Puede implementarlo usando Notion, Obsidian o aplicaciones de notas con etiquetas. Utilizar enlaces bidireccionales es especialmente efectivo para replicar la conexión de Hegel.",
-          "fr": "Absolument. Vous pouvez utiliser Notion, Obsidian ou des applications de notes. L'utilisation de liens bidirectionnels est particulièrement efficace pour reproduire la connexion de Hegel.",
-          "de": "Natürlich. Sie können den Zettelkasten digital in Notion, Obsidian oder Notiz-Apps umsetzen. Backlinks eignen sich hervorragend, um Hegels Verknüpfungsmethode nachzuahmen.",
-          "pt": "Com certeza. É possível usar aplicativos como Notion, Obsidian ou blocos de notas com etiquetas. Links bidirecionais são ideais para replicar as conexões de Hegel.",
-          "id": "Tentu saja. Anda dapat menerapkan sistem pengindeksan kartu menggunakan penandaan di Notion, Obsidian, atau aplikasi catatan. Menggunakan tautan balik (backlink) bisa sangat efektif."
+          "ko": "물론입니다. 노션(Notion), 옵시디언(Obsidian), 혹은 일반 메모 앱의 태그 기능을 사용하여 카드 색인 시스템을 구현할 수 있으며, 특히 양방향 링크(Backlink) 기능을 활용하면 헤겔의 사상 결합을 더욱 효과적으로 구현할 수 있습니다."
         }
       },
       {
         "question": {
-          "ko": "노트를 길게 쓰는 것보다 짧은 카드가 더 효과적인 이유는 무엇인가요?",
-          "en": "Why are short cards more effective than writing long notes?",
-          "ja": "ノートを長く書くよりも、短いカードの方が効果的な理由は何ですか？",
-          "zh": "比起写长篇笔记，短小精悍的卡片更有效的原因是什么？",
-          "es": "¿Por qué las fichas cortas son más efectivas que las notas largas?",
-          "fr": "Pourquoi les fiches courtes sont-elles plus efficaces que les longs cahiers ?",
-          "de": "Warum sind kurze Zettel effektiver als lange Aufzeichnungen?",
-          "pt": "Por que as fichas curtas são mais eficazes do que anotações longas?",
-          "id": "Mengapa kartu pendek lebih efektif daripada menulis catatan panjang?"
+          "ko": "노트를 길게 쓰는 것보다 짧은 카드가 더 효과적인 이유는 무엇인가요?"
         },
         "answer": {
-          "ko": "노트의 긴 서술은 구조에 얽매여 정보의 독립성을 해칩니다. 반면, 한 장에 하나의 정보만 담긴 카드는 독립된 모듈로 작동하여, 나중에 다른 정보들과 제약 없이 재조합되고 변형될 수 있는 높은 '인지적 유연성'을 제공하기 때문입니다.",
-          "en": "Long narratives in notes are bound to structure, hurting information independence. On the other hand, cards with one piece of information act as independent modules, providing high cognitive flexibility to be recombined without restrictions.",
-          "ja": "ノートの長い記述は構造に縛られ、情報の独立性を損ないます。一方、1枚に1つの情報だけが含まれるカードは独立したモジュールとして機能するため、後で他の情報と制約なく再結合され、高い「認知の柔軟性」を提供するからです。",
-          "zh": "长篇幅的笔记会受制于前后结构，从而破坏信息的独立性。相比之下，一张卡片只包含一个独立信息，可以作为独立的模块，为日后与其他信息无障碍地重新组合提供极高的“认知灵活性”。",
-          "es": "Las narraciones largas limitan la independencia de la información. Las fichas con un solo concepto actúan como módulos independientes, ofreciendo flexibilidad cognitiva para recombinarse.",
-          "fr": "Les longs récits nuisent à l'indépendance de l'information. Les fiches contenant un seul concept agissent comme des modules indépendants, offrant une grande flexibilité cognitive.",
-          "de": "Lange Texte binden Informationen an eine feste Struktur. Einzelne Zettel hingegen wirken als Module, die sich ohne Einschränkungen flexibel neu anordnen lassen.",
-          "pt": "Textos longos prendem as ideias a uma estrutura fixa. Fichas curtas agem como módulos independentes, oferecendo flexibilidade cognitiva para serem recombinadas livremente.",
-          "id": "Catatan panjang terikat pada struktur, merusak kemandirian informasi. Kartu dengan satu informasi bertindak sebagai modul independen, memberikan fleksibilitas kognitif tinggi."
+          "ko": "노트의 긴 서술은 구조에 얽매여 정보의 독립성을 해칩니다. 반면, 한 장에 하나의 정보만 담긴 카드는 독립된 모듈로 작동하여, 나중에 다른 정보들과 제약 없이 재조합되고 변형될 수 있는 높은 '인지적 유연성'을 제공하기 때문입니다."
         }
       }
-    ],
-    "stepImages": [
-      "",
-      "/images/blog/hegel_card_index_relax.webp",
-      ""
-    ],
-    "pubDate": "2026-01-01",
-    "updatedDate": "2026-01-01"
+    ]
   }
 }

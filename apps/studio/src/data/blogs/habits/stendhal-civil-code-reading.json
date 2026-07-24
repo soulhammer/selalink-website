@@ -1,194 +1,64 @@
 {
   "stendhal-civil-code-reading": {
     "title": {
-      "ko": "뇌를 식히는 건조한 예열: 스탕달의 프랑스 민법전 독서 습관",
-      "en": "Dry Priming for the Mind: Stendhal's Civil Code Reading Habit",
-      "ja": "脳を冷ます乾燥した予熱：スタンダールのフランス民法典読書習慣",
-      "zh": "冷却大脑的干燥预热：司汤达的法国民法典阅读习惯",
-      "es": "Calentamiento en seco para la mente: el hábito de lectura del Código Civil de Stendhal",
-      "fr": "Préparation à sec de l'esprit : l'habitude de lecture du Code civil de Stendhal",
-      "de": "Trockenes Aufwärmen des Geistes: Stendhals Gewohnheit zur Lektüre des Bürgerlichen Gesetzbuches",
-      "pt": "Preparação a seco para a mente: o hábito de leitura do Código Civil de Stendhal",
-      "id": "Pemanasan Kering untuk Pikiran: Kebiasaan Membaca Kode Sipil Stendhal"
+      "ko": "뇌를 식히는 건조한 예열: 스탕달의 프랑스 민법전 독서 습관"
     },
     "description": {
-      "ko": "화려한 미사여구를 배제하고 인간 심리의 본질을 해부하듯 서술한 사실주의의 대가 스탕달. 글을 쓰기 전 매일 프랑스 민법전을 읽으며 뇌의 객관성을 최고조로 세팅했던 문체 예열 습관을 분석합니다.",
-      "en": "Stendhal, the master of realism, carved away flowery rhetoric to dissect human psychology. Discover his dry priming habit of reading the Napoleonic Civil Code to tune his mind to precision.",
-      "ja": "華麗な修辞を排除し、人間の心理の本質を解剖するように描写した写実主義の巨匠スタンダール。執筆前に毎日フランス民法典を読み、脳の客観性を最高潮に設定した文体予熱習慣を分析します。",
-      "zh": "排除华丽词藻，像解剖人类心理本质般叙述的现实主义大师司汤达。分析他每天在写作前阅读法国民法典，将大脑客观性调至最高状态的文体预热习惯。",
-      "es": "Stendhal, el maestro del realismo, eliminó la retórica florida para diseccionar la psicología humana. Descubra su hábito de lectura del Código Civil napoleónico para afinar su mente con precisión.",
-      "fr": "Stendhal, le maître du réalisme, a éliminé la rhétorique fleurie pour disséquer la psychologie humaine. Découvrez son habitude de lire le Code civil napoléonien pour affiner son esprit avec précision.",
-      "de": "Stendhal, der Meister des Realismus, verzichtete auf blumige Rhetorik, um die menschliche Psychologie zu analysieren. Entdecken Sie seine Gewohnheit, das napoleonische Gesetzbuch zu lesen, um seinen Verstand auf Präzision einzustellen.",
-      "pt": "Stendhal, o mestre do realismo, eliminou a retórica florida para dissecar a psicologia humana. Descubra o seu hábito de leitura do Código Civil Napoleónico para afinar a sua mente com precisão.",
-      "id": "Stendhal, master realisme, menyingkirkan retorika berbunga-bunga untuk membedah psikologi manusia. Temukan kebiasaannya membaca Kode Sipil Napoleon untuk menyempurnakan ketepatan pikirannya."
+      "ko": "화려한 미사여구를 배제하고 인간 심리의 본질을 해부하듯 서술한 사실주의의 대가 스탕달. 글을 쓰기 전 매일 프랑스 민법전을 읽으며 뇌의 객관성을 최고조로 세팅했던 문체 예열 습관을 분석합니다."
     },
     "authority": {
-      "ko": "스탕달이 발자크에게 보낸 서한 고증 및 인지심리학의 점화 효과(Priming Effect)와 구조적 텍스트 자극이 대뇌의 객관적 분석력 제고에 미치는 영향",
-      "en": "Stendhal's Letter to Balzac and Cognitive Psychology Research on Priming Effects and structural Textual Stimulation on Objective Rationality",
-      "ja": "スタンダールがバルザックに送った書簡の考証、および認知心理学のプライミング効果（Priming Effect）と構造的テキスト刺激が大脳の客観的分析力向上に及ぼす影響の研究",
-      "zh": "司汤达致巴尔扎克书信考证及认知心理学启动效应（Priming Effect）与结构化文本刺激对提高大脑客观分析力影响的研究",
-      "es": "Carta de Stendhal a Balzac e investigación de psicología cognitiva sobre los efectos de primado y la estimulación textual estructural en la racionalidad objetiva",
-      "fr": "Lettre de Stendhal à Balzac et recherches en psychologie cognitive sur les effets d'amorçage et la stimulation textuelle structurelle sur la rationalité objective",
-      "de": "Stendhals Brief an Balzac und kognitionspsychologische Forschung zu Priming-Effekten und struktureller Textstimulation auf die objektive Rationalität",
-      "pt": "Carta de Stendhal a Balzac e pesquisa em psicologia cognitiva sobre os efeitos de primming e a estimulação textual estrutural na racionalidade objetiva",
-      "id": "Surat Stendhal untuk Balzac dan Riset Psikologi Kognitif tentang Efek Priming dan Stimulasi Tekstual Struktural pada Rasionalitas Objektif"
+      "ko": "Stendhal Civil Code Reading 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "프랑스 문학사에서 인간 내면의 허영과 사랑의 심리를 가장 정교하게 포착한 작가로 평가받는 스탕달. 그의 대표작 『적과 흑』은 군더더기 없는 건조하고 투명한 문체로 오늘날까지도 현대 소설의 바이블로 불립니다. 그가 살던 19세기는 감정과 수식어가 흘러넘치는 낭만주의 문학이 유행하던 시대였으나, 스탕달은 철저하게 수학처럼 정확한 문장을 고집했습니다. 그가 매일 아침 펜을 들기 전 반드시 행했던 습관은 다름 아닌 나폴레옹 법전(프랑스 민법전)을 몇 페이지씩 읽는 것이었습니다. 건조하고 차가운 법률 텍스트로 뇌를 예열하여 문장의 감상적 거품을 걷어내고 이성적 사실 묘사에 집중했던 스탕달의 인지적 점화 루틴을 상세히 파헤칩니다.",
-      "en": "Stendhal, famous for Scarlet and Black, is celebrated for his objective and transparent prose that captured the complexities of human ambition. During an era saturated with flowery Romanticism, Stendhal insisted on mathematical precision in his sentences. His secret morning routine before writing was reading a few pages of the Napoleonic Civil Code (French Civil Code). We analyze how Stendhal used dry, logical legal texts to prime his brain, stripping away rhetorical fluff and sharpening his objective analytical power.",
-      "ja": "フランス文学史において、人間の内面の虚栄心や恋愛心理を最も精巧に描いた作家と評価されるスタンダール。彼の代表作『赤と黒』は、無駄のない無味乾燥で透明な文体で、今日に至るまで現代小説のバイブルと呼ばれています。彼が暮らした19世紀は、感情や修飾語が溢れかえるロマン主義文学が流行した時代でしたが、スタンダールは徹底的に数学のように正確な文章にこだわりました。彼が毎朝ペンを取る前に必ず行った習慣は、他ならぬナポレオン法典（フランス民法典）を数ページずつ読むことでした。乾燥した冷たい法律テキストで脳を予熱し、文章の感傷的な泡を払い落として理性的・事実的描写に集中したスタンダールの認知的プライミングルーティンを詳細に紐解きます。",
-      "zh": "通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
-      "es": "Stendhal, famoso por Rojo y Negro, es celebrado por su prosa objetiva y transparente que capturó las complejidades de la ambición humana. Durante una época saturada de romanticismo florido, Stendhal insistió en la precisión matemática en sus oraciones. Su rutina matutina secreta antes de escribir era leer algunas páginas del Código Civil napoleónico (Código Civil francés). Analizamos cómo Stendhal utilizó textos legales secos y lógicos para preparar su cerebro, eliminando la pelusa retórica y agudizando su poder analítico objetivo.",
-      "fr": "Stendhal, célèbre pour Le Rouge et le Noir, est réputé pour sa prose objective et transparente qui a capturé les complexités de l'ambition humaine. À une époque saturée de romantisme fleuri, Stendhal insistait sur la précision mathématique dans ses phrases. Sa routine matinale secrète avant d'écrire consistait à lire quelques pages du Code civil napoléonien. Nous analysons comment Stendhal a utilisé des textes juridiques secs et logiques pour préparer son cerveau, éliminant le superflu rhétorique et aiguisant son sens analytique.",
-      "de": "Stendhal, berühmt für Rot und Schwarz, wird für seine objektive und transparente Prosa gefeiert, die die Komplexität menschlichen Ehrgeizes einfing. In einer Ära, die von blumiger Romantik geprägt war, bestand Stendhal auf mathematischer Präzision in seinen Sätzen. Seine geheime Morgenroutine vor dem Schreiben bestand darin, einige Seiten des napoleonischen Bürgerlichen Gesetzbuchs (Code Civil) zu lesen. Wir analysieren, wie Stendhal trockene, logische Gesetzestexte nutzte, um sein Gehirn vorzubereiten, rhetorischen Ballast abzuwerfen und seine objektive analytische Kraft zu schärfen.",
-      "pt": "Stendhal, famoso por O Vermelho e o Negro, é celebrado pela sua prosa objetiva e transparente que capturou as complexidades da ambição humana. Numa época saturada de Romantismo florido, Stendhal insistia na precisão matemática nas suas frases. A sua rotina matinal secreta antes de escrever era ler algumas páginas do Código Civil Napoleónico (Código Civil Francês). Analisamos como Stendhal utilizou textos jurídicos secos e lógicos para preparar o seu cérebro, eliminando o excesso retórico e aguçando o seu poder analítico objetivo.",
-      "id": "Stendhal, yang terkenal dengan karyanya Merah dan Hitam, terkenal karena prosanya yang objektif dan transparan yang menangkap kompleksitas ambisi manusia. Selama era yang dipenuhi dengan Romantisisme yang berbunga-bunga, Stendhal bersikeras pada ketepatan matematis dalam kalimat-kalimatnya. Rutinitas pagi rahasianya sebelum menulis adalah membaca beberapa halaman Kode Sipil Napoleon (Kode Sipil Prancis). Kami menganalisis bagaimana Stendhal menggunakan teks hukum yang kering dan logis untuk mempersiapkan otaknya, menghilangkan hiasan retoris dan mempertajam kekuatan analitis objektifnya."
+      "ko": "\"문체를 바로잡기 위해 나는 매일 아침 민법전을 두세 페이지씩 읽는다. 법전의 언어는 감정을 섞지 않고 오직 사실과 정의를 명확하게 전달하기 때문이다.\" 📖\n\n프랑스 문학사에서 인간 내면의 허영과 사랑의 심리를 가장 정교하게 포착한 작가로 평가받는 스탕달. 그의 대표작 『적과 흑』은 군더더기 없는 건조하고 투명한 문체로 오늘날까지도 현대 소설의 바이블로 불립니다. 그가 살던 19세기는 감정과 수식어가 흘러넘치는 낭만주의 문학이 유행하던 시대였으나, 스탕달은 철저하게 수학처럼 정확한 문장을 고집했습니다. 그가 매일 아침 펜을 들기 전 반드시 행했던 습관은 다름 아닌 나폴레옹 법전(프랑스 민법전)을 몇 페이지씩 읽는 것이었습니다. 건조하고 차가운 법률 텍스트로 뇌를 예열하여 문장의 감상적 거품을 걷어내고 이성적 사실 묘사에 집중했던 스탕달의 인지적 점화 루틴을 상세히 파헤칩니다."
     },
     "whyTitle": {
-      "ko": "언어적 점화 효과와 감상주의 인지 차단",
-      "en": "Verbal Priming and Emotional Cognitive Inhibition",
-      "ja": "言語的プライミング効果と感傷主義の認知遮断",
-      "zh": "语言启动效应与感伤主义的认知阻断",
-      "es": "Primado verbal e inhibición cognitiva emocional",
-      "fr": "Amorçage verbal et inhibition cognitive émotionnelle",
-      "de": "Verbale Aktivierung (Priming) und emotionale kognitive Hemmung",
-      "pt": "Priming Verbal e Inibição Cognitiva Emocional",
-      "id": "Priming Verbal dan Inhibisi Kognitif Emocional"
+      "ko": "언어적 점화 효과와 감상주의 인지 차단"
     },
     "whyDesc": {
-      "ko": "인지과학에서 말하는 점화 효과(Priming Effect)에 따르면, 뇌는 특정 성격의 정보에 먼저 노출되면 이후에 수행하는 모든 인지 작업에서 그와 유사한 패턴을 무의식적으로 활성화하고 모방합니다. 스탕달이 글쓰기 직전 민법전의 딱딱하고 사실적인 문장을 읽은 것은 대뇌의 언어 조절 영역을 객관성 및 논리성 지향 모드로 세팅한 것과 같습니다. 이 인위적인 자극은 대뇌가 주관적 감상이나 불필요한 미사여구를 자발적으로 억제(Cognitive Inhibition)하도록 만들어, 글을 작성할 때 팩트와 논리 구조를 뼈대로 하는 담백하고 명료한 글쓰기를 지탱하도록 뇌를 돕습니다.",
-      "en": "The psychological concept of Priming shows that prior exposure to specific stimuli unconsciously shapes subsequent cognitive actions. By reading the dry, structured sentences of the Civil Code right before writing, Stendhal primed his brain's language processing centers for objectivity and logic. This conceptual priming triggers cognitive inhibition, letting the brain filter out emotional adjectives and sentimental rhetoric. Consequently, it primes the mind to construct clear, fact-driven narrative structures.",
-      "ja": "認知科学におけるプライミング効果（Priming Effect）によれば、脳は特定の性質の情報に事前にさらされると、その後に遂行するすべての認知作業でそれと類似したパターンを無意識に活性化させ、模倣します。スタンダールが執筆直前に民法典の硬くて事実に基づいた文章を読んだのは、大脳の言語調節領域を客観性および論理性指向モードにセットしたようなものです。この人為的な刺激は、大脳が主観的な感傷や不要な美辞麗句を自発的に抑制（Cognitive Inhibition）するようにし、文章を執筆する際、事実と論理構造を骨組みとする淡白で明瞭な執筆を支えるように脳を助けます。",
-      "zh": "根据认知科学中的启动效应（Priming Effect），如果大脑事先接触了特定性质的信息，那么在随后执行的所有认知任务中，它都会无意识地激活并模仿类似的模式。司汤达在写作前阅读民法典刻板而纪实的句子，相当于将大脑的语言调节区设置为“客观”与“逻辑”导向模式。这种人为的刺激能让大脑自发抑制（Cognitive Inhibition）主观的情感或不必要的华丽辞藻，帮助大脑在写作时维持以事实和逻辑结构为骨架的清淡明晰的写作状态。",
-      "es": "El concepto psicológico de Primado muestra que la exposición previa a estímulos específicos da forma inconscientemente a las acciones cognitivas posteriores. Al leer las oraciones secas y estructuradas del Código Civil justo antes de escribir, Stendhal preparó los centros de procesamiento del lenguaje de su cerebro para la objetividad y la lógica. Este primado conceptual desencadena la inhibición cognitiva, permitiendo al cerebro filtrar adjetivos emocionales y retórica sentimental. En consecuencia, prepara la mente para construir estructuras narrativas claras y basadas en hechos.",
-      "fr": "Le concept psychologique d'amorçage montre que l'exposition préalable à des stimuli spécifiques façonne inconsciemment les actions cognitives ultérieures. En lisant les phrases sèches et structurées du Code civil juste avant d'écrire, Stendhal a préparé son cerveau à l'objectivité et à la logique. Cet amorçage conceptuel déclenche une inhibition cognitive, permettant au cerveau de filtrer les adjectifs émotionnels et la rhétorique sentimentale.",
-      "de": "Das psychologische Konzept des Primings zeigt, dass die vorherige Exposition gegenüber bestimmten Reizen unbewusst nachfolgende kognitive Handlungen prägt. Durch das Lesen der trockenen, strukturierten Sätze des Code Civil direkt vor dem Schreiben bereitete Stendhal die Sprachverarbeitungszentren seines Gehirns auf Objektivität und Logik vor. Dieses konzeptionelle Priming löst eine kognitive Hemmung aus, die es dem Gehirn ermöglicht, emotionale Adjektive und sentimentale Rhetorik herauszufiltern.",
-      "pt": "O conceito psicológico de Priming mostra que a exposição prévia a estímulos específicos molda inconscientemente as ações cognitivas subsequentes. Ao ler as frases secas e estruturadas do Código Civil imediatamente antes de escrever, Stendhal preparou os centros de processamento de linguagem do seu cérebro para a objetividade e a lógica. Este priming conceptual desencadeia a inibição cognitiva, permitindo ao cérebro filtrar adjetivos emocionais e retórica sentimental.",
-      "id": "Konsep psikologis tentang Priming menunjukkan bahwa paparan sebelumnya terhadap stimulus tertentu secara tidak sadar membentuk tindakan kognitif berikutnya. Dengan membaca kalimat-kalimat Kode Sipil yang kering dan terstruktur tepat sebelum menulis, Stendhal mempersiapkan pusat pemrosesan bahasa otaknya untuk objektivitas dan logika. Priming konseptual ini memicu inhibisi kognitif, membiarkan otak menyaring kata sifat emosional dan retorika sentimental."
+      "ko": "인지과학에서 말하는 점화 효과(Priming Effect)에 따르면, 뇌는 특정 성격의 정보에 먼저 노출되면 이후에 수행하는 모든 인지 작업에서 그와 유사한 패턴을 무의식적으로 활성화하고 모방합니다. 스탕달이 글쓰기 직전 민법전의 딱딱하고 사실적인 문장을 읽은 것은 대뇌의 언어 조절 영역을 객관성 및 논리성 지향 모드로 세팅한 것과 같습니다. 이 인위적인 자극은 대뇌가 주관적 감상이나 불필요한 미사여구를 자발적으로 억제(Cognitive Inhibition)하도록 만들어, 글을 작성할 때 팩트와 논리 구조를 뼈대로 하는 담백하고 명료한 글쓰기를 지탱하도록 뇌를 돕습니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "이 습관을 적용할 때 주의할 점은 건조한 텍스트를 읽으면서 내용의 복잡한 이해관계에 너무 몰두하는 것입니다. 법전 조항을 읽으면서 복잡한 판례 분석이나 법리적 해석에 깊이 빠져들면 전두엽의 에너지 자원이 글을 쓰기도 전에 고갈(Cognitive Depletion)될 위험이 있습니다. 이 루틴의 본질은 정보의 뇌 습득이 아니라 문장 구조의 건조함과 명료한 단어 조합의 규칙성을 시각적으로 인지하고 뇌에 각인시키는 데 있습니다. 따라서 내용은 깊게 고민하지 않고 문장의 군더더기 없는 형태와 마침표로 빠르게 종결되는 짧은 호흡 자체를 가볍게 스캔하듯 읽는 것이 중요합니다.",
-      "en": "When applying this habit, avoid getting bogged down in complex legal or technical arguments. Trying to parse deep case laws or mathematical proofs before your main work can cause cognitive depletion, draining prefrontal energy before you start writing. The essence of this routine is not acquiring new knowledge, but visually scanning and absorbing the dry sentence structures and brief, declarative syntax. Treat the reading as an aesthetic style model, scanning the brevity of the sentences rather than analyzing the details.",
-      "ja": "この習慣を適用する際の注意点は、乾燥したテキストを読みながらその内容の複雑な背景に没頭しすぎることです。法典の条項を読みながら、複雑な判例の分析や法理的解釈に深く入り込んでしまうと、文章を書き始める前に前頭葉のエネルギー資源が枯渇（Cognitive Depletion）する危険があります。このルーティンの本質は、脳への情報の獲得ではなく、文章構造の乾燥したシンプルさと明確な単語の組み合わせの規則性を視覚的に認知し、脳に刻み込むことにあります。したがって、内容は深く考えず、文章の無駄のない形と、句点でスピーディーに完結する短いリズムそのものを、軽くスキャンするように読むことが重要です。",
-      "zh": "应用这种习惯时，需要注意的是不要在阅读枯燥文本时过度沉溺于其复杂的内容逻辑中。如果一边读法条一边陷入复杂的判例分析或法理解释中，额叶的精力资源在动笔前就面临被消耗殆尽（Cognitive Depletion）的危险。这一程序的本质不在于大脑获取新知识，而在于通过视觉感知句子的枯燥、干练以及明确的词汇搭配规则，并将其刻印在大脑中。因此，重要的一点是不深入思考内容本身，而是像扫描一样轻轻阅读短小的句式以及通过句号快速终结的简短语流。",
-      "es": "Al aplicar este hábito, evite empantanarse en argumentos legales o técnicos complejos. Intentar analizar jurisprudencia profunda o pruebas matemáticas antes de su trabajo principal puede causar agotamiento cognitivo, drenando la energía prefrontal antes de comenzar a escribir. La esencia de esta rutina no es adquirir nuevos conocimientos, sino escanear y absorber visualmente las estructuras de las oraciones secas y la sintaxis declarativa breve. Trate la lectura como un modelo de estilo estético, escaneando la brevedad de las oraciones en lugar de analizar los detalles.",
-      "fr": "Lorsque vous appliquez cette habitude, évitez de vous enliser dans des arguments juridiques ou techniques complexes. Essayer d'analyser une jurisprudence approfondie ou des preuves mathématiques avant votre travail principal peut provoquer un épuisement cognitif. L'essence de cette routine n'est pas d'acquérir de nouvelles connaissances, mais de balayer visuellement et d'absorber les structures de phrases sèches. Traitez la lecture comme un modèle de style, en balayant la brièveté des phrases.",
-      "de": "Vermeiden Sie bei der Anwendung dieser Gewohnheit, sich in komplexen juristischen oder technischen Argumenten zu verzetteln. Der Versuch, vor Ihrer Hauptarbeit tiefgründige Rechtsprechungen oder mathematische Beweise zu analysieren, kann zu kognitiver Erschöpfung führen. Der Kern dieser Routine besteht nicht darin, sich neues Wissen anzueignen, sondern die trockenen Satzstrukturen und die kurze, deklarative Syntax visuell zu scannen und aufzunehmen. Betrachten Sie das Lesen als ästhetisches Stilmodell.",
-      "pt": "Ao aplicar este hábito, evite ficar atolado em argumentos jurídicos ou técnicos complexos. Tentar analisar jurisprudência profunda ou provas matemáticas antes do seu trabalho principal pode causar esgotamento cognitivo, drenando a energia pré-frontal antes de começar a escrever. A essência desta rotina não é adquirir novos conhecimentos, mas sim digitalizar e absorver visualmente as estruturas de frases secas e a sintaxe declarativa breve. Trate a leitura como um modelo de estilo estético.",
-      "id": "Saat menerapkan kebiasaan ini, hindari terjebak dalam argumen hukum atau teknis yang rumit. Mencoba menganalisis hukum kasus yang mendalam atau bukti matematis sebelum pekerjaan utama Anda dapat menyebabkan penipisan kognitif, menguras energi prefrontal sebelum Anda mulai menulis. Inti dari rutinitas ini bukanlah memperoleh pengetahuan baru, tetapi memindai dan menyerap struktur kalimat yang kering secara visual."
+      "ko": "이 습관을 적용할 때 주의할 점은 건조한 텍스트를 읽으면서 내용의 복잡한 이해관계에 너무 몰두하는 것입니다. 법전 조항을 읽으면서 복잡한 판례 분석이나 법리적 해석에 깊이 빠져들면 전두엽의 에너지 자원이 글을 쓰기도 전에 고갈(Cognitive Depletion)될 위험이 있습니다. 이 루틴의 본질은 정보의 뇌 습득이 아니라 문장 구조의 건조함과 명료한 단어 조합의 규칙성을 시각적으로 인지하고 뇌에 각인시키는 데 있습니다. 따라서 내용은 깊게 고민하지 않고 문장의 군더더기 없는 형태와 마침표로 빠르게 종결되는 짧은 호흡 자체를 가볍게 스캔하듯 읽는 것이 중요합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "건조한 정밀 텍스트 선정",
-          "en": "Selecting Dry and Precise Text",
-          "ja": "乾燥した精密テキストの選定",
-          "zh": "选择枯燥且精确的文本",
-          "es": "Seleccionar un texto seco y preciso",
-          "fr": "Sélectionner un texte sec et précis",
-          "de": "Auswahl eines trockenen und präzisen Textes",
-          "pt": "Selecionar um Texto Seco e Preciso",
-          "id": "Memilih Teks yang Kering dan Tepat"
+          "ko": "건조한 정밀 텍스트 선정"
         },
         "text": {
-          "ko": "자신의 서재나 책상에 감정적 자극이 전혀 없고 오직 정보와 논리만 전달하는 책을 1권 준비합니다. 나폴레옹 법전과 유사한 현대 민법전 조항집, 기계 조립 매뉴얼, 혹은 과학 백과사전의 정의 문단 등이 훌륭한 대안입니다.",
-          "en": "Select a book entirely devoid of emotional charge, containing only pure logical structure or technical description. Modern legal statutes, mechanical manuals, or textbooks on formal logic are excellent options.",
-          "ja": "自分の書斎やデスクに、感情的な刺激がまったくなく、情報と論理だけを伝える本を1冊用意します。ナポレオン法典に類似した現代の民法典の条文集、機械の組み立てマニュアル、あるいは科学百科事典の定義文などが優れた選択肢です。",
-          "zh": "在自己的书房或书桌上准备一本完全没有情感刺激、仅传达信息与逻辑的书籍。类似于拿破仑法典的现代民法典条文集、机械组装说明书或科学百科全书的定义段落都是极佳的替代品。",
-          "es": "Seleccione un libro completamente desprovisto de carga emocional, que contenga solo una estructura lógica pura o una descripción técnica. Los estatutos legales modernos, los manuales mecánicos o los libros de texto sobre lógica formal son opciones excelentes.",
-          "fr": "Sélectionnez un livre entièrement dépourvu de charge émotionnelle, ne contenant qu'une structure logique pure ou une description technique. Les textes de loi modernes, les manuels techniques ou les manuels de logique formelle sont d'excellentes options.",
-          "de": "Wählen Sie ein Buch aus, das völlig frei von emotionalen Spannungen ist und nur eine reine logische Struktur oder technische Beschreibung enthält. Moderne Gesetze, mechanische Handbücher oder Lehrbücher zur formalen Logik sind hervorragende Optionen.",
-          "pt": "Selecione um livro totalmente desprovido de carga emocional, contendo apenas uma estrutura lógica pura ou descrição técnica. Estatutos jurídicos modernos, manuais mecânicos ou livros didáticos de lógica formal são excelentes opções.",
-          "id": "Pilih buku yang sama sekali tidak memiliki muatan emosional, hanya berisi struktur logis murni atau deskripsi teknis. Undang-undang hukum modern, panduan mekanis, atau buku teks logika formal adalah pilihan yang sangat baik."
+          "ko": "자신의 서재나 책상에 감정적 자극이 전혀 없고 오직 정보와 논리만 전달하는 책을 1권 준비합니다. 나폴레옹 법전과 유사한 현대 민법전 조항집, 기계 조립 매뉴얼, 혹은 과학 백과사전의 정의 문단 등이 훌륭한 대안입니다."
         }
       },
       {
         "name": {
-          "ko": "집필 전 10분의 객관성 독서",
-          "en": "Reading for 10 Minutes Before Writing",
-          "ja": "執筆前10分間の客観性読書",
-          "zh": "写作前进行10分钟的客观阅读",
-          "es": "Leer durante 10 minutos antes de escribir",
-          "fr": "Lire pendant 10 minutes avant d'écrire",
-          "de": "10 Minuten Lesen vor dem Schreiben",
-          "pt": "Ler Durante 10 Minutos Antes de Escrever",
-          "id": "Membaca selama 10 Menit Sebelum Menulis"
+          "ko": "집필 전 10분의 객관성 독서"
         },
         "text": {
-          "ko": "본격적인 글쓰기나 보고서 작성을 시작하기 직전, 타이머를 10분에 맞추고 준비한 텍스트를 정독합니다. 문장 안에 형용사와 수식어가 얼마나 최소화되어 있는지, 주어와 동사가 어떻게 직관적으로 연결되는지 관찰하며 읽습니다.",
-          "en": "Set a timer for 10 minutes right before drafting. Read the chosen text closely, focusing on the complete absence of unnecessary adjectives and how cleanly subjects connect directly to verbs.",
-          "ja": "本格的な執筆やレポート作成を開始する直前、タイマーを10分にセットして用意したテキストを精読します。文章の中で形容詞や修飾語がどれほど最小限に抑えられているか、主語と動詞がどのように直観的に結びついているかを観察しながら読みます。",
-          "zh": "在开始正式写作或撰写报告之前，将计时器设置为10分钟，认真阅读准备好的文本。阅读时，观察句子中形容词和修饰语被精简到了何种程度，主语和动词是如何直观连接的。",
-          "es": "Configure un temporizador durante 10 minutos justo antes de redactar. Lea atentamente el texto elegido, concentrándose en la ausencia total de adjetivos innecesarios y en cómo los sujetos se conectan limpiamente directamente con los verbos.",
-          "fr": "Réglez un minuteur sur 10 minutes juste avant de rédiger. Lisez attentivement le texte choisi, en vous concentrant sur l'absence totale d'adjectifs inutiles et sur la façon dont les sujets se connectent aux verbes.",
-          "de": "Stellen Sie direkt vor dem Entwerfen einen Timer auf 10 Minuten. Lesen Sie den ausgewählten Text aufmerksam und konzentrieren Sie sich darauf, dass keine unnötigen Adjektive vorhanden sind und wie sauber sich Subjekte direkt mit Verben verbinden.",
-          "pt": "Defina um temporizador para 10 minutos imediatamente antes de escrever. Leia atentamente o texto escolhido, concentrando-se na ausência total de adjetivos desnecessários e na forma como os sujeitos se ligam diretamente aos verbos.",
-          "id": "Atur pengatur waktu selama 10 menit tepat sebelum menyusun draf. Bacalah teks pilihan Anda dengan cermat, fokus pada ketiadaan kata sifat yang tidak perlu dan seberapa bersih subjek terhubung langsung ke kata kerja."
+          "ko": "본격적인 글쓰기나 보고서 작성을 시작하기 직전, 타이머를 10분에 맞추고 준비한 텍스트를 정독합니다. 문장 안에 형용사와 수식어가 얼마나 최소화되어 있는지, 주어와 동사가 어떻게 직관적으로 연결되는지 관찰하며 읽습니다."
         }
       },
       {
         "name": {
-          "ko": "중단 없는 본 작업 전환",
-          "en": "Transitioning Instantly to Main Work",
-          "ja": "中断のない本作業への切り替え",
-          "zh": "无中断转入正式工作",
-          "es": "Transición instantánea al trabajo principal",
-          "fr": "Transition instantanée vers le travail principal",
-          "de": "Sofortiger Übergang zur Hauptarbeit",
-          "pt": "Transição Instantânea para o Trabalho Principal",
-          "id": "Beralih Instan ke Pekerjaan Utama"
+          "ko": "중단 없는 본 작업 전환"
         },
         "text": {
-          "ko": "10분의 독서가 끝나면 다른 잡념이 끼어들거나 스마트폰을 보기 전에 책을 덮고 즉각 자신이 작성해야 할 원고나 기획서를 집필합니다. 법전의 메마른 호흡이 뇌에 점화된 상태를 유지하며 글을 거침없이 써 내려갑니다.",
-          "en": "When the timer rings, close the book and immediately open your main document. Do not check your phone or check email. Write continuously while the brain remains primed by the dry, structured style.",
-          "ja": "10分間の読書が終わったら、他の雑念が入ったりスマートフォンを見たりする前に本を閉じ、直ちに自分が書くべき原稿や企画書を執筆します。法典の味気ないリズムが脳にプライミングされた状態を維持しながら、文章をよどみなく書き進めます。",
-          "zh": "10分钟的阅读结束后，在其他杂念介入或查看智能手机前立即合上书本，立刻开始撰写自己需要完成的稿件或企划案。维持法典枯燥语流在大脑中激活的状态，流畅无阻地写下去。",
-          "es": "Cuando suene el temporizador, cierre el libro y abra inmediatamente su documento principal. No revise su teléfono ni su correo electrónico. Escriba continuamente mientras el cerebro permanezca estimulado por el estilo seco y estructurado.",
-          "fr": "Lorsque le minuteur sonne, fermez le livre et ouvrez immédiatement votre document principal. Ne regardez pas votre téléphone et ne lisez pas vos courriels. Écrivez en continu tant que votre cerveau est imprégné par ce style structuré.",
-          "de": "Wenn der Timer ertönt, schließen Sie das Buch und öffnen Sie sofort Ihr Hauptdokument. Überprüfen Sie weder Ihr Telefon noch Ihre E-Mails. Schreiben Sie kontinuierlich weiter, während das Gehirn durch den trockenen, strukturierten Stil aktiviert bleibt.",
-          "pt": "Quando o temporizador tocar, feche o livro e abra imediatamente o seu documento principal. Não mexa no telemóvel nem verifique o e-mail. Escreva continuamente enquanto o cérebro permanece estimulado pelo estilo seco e estruturado.",
-          "id": "Ketika pengatur waktu berbunyi, tutup buku dan segera buka dokumen utama Anda. Jangan memeriksa ponsel Anda atau memeriksa email. Menulislah terus-menerus sementara otak tetap terbiasa dengan gaya yang terstruktur."
+          "ko": "10분의 독서가 끝나면 다른 잡념이 끼어들거나 스마트폰을 보기 전에 책을 덮고 즉각 자신이 작성해야 할 원고나 기획서를 집필합니다. 법전의 메마른 호흡이 뇌에 점화된 상태를 유지하며 글을 거침없이 써 내려갑니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "마케팅 문구나 감성적인 에세이를 써야 할 때도 법전을 읽는 것이 도움이 되나요?",
-          "en": "Does this help even when writing emotional stories or marketing copy?",
-          "ja": "マーケティング文句や感傷的なエッセイを書かなければならないときも法典を読むことは役に立ちますか？",
-          "zh": "在需要撰写营销文案或感性随笔时，阅读法典也有帮助吗？",
-          "es": "¿Esto ayuda incluso al escribir historias emocionales o textos de marketing?",
-          "fr": "Cela aide-t-il même lors de la rédaction d'histoires émotionnelles ou de textes marketing ?",
-          "de": "Hilft das auch beim Schreiben emotionaler Geschichten oder Werbetexte?",
-          "pt": "Isto ajuda mesmo quando se escrevem histórias emocionais ou textos de marketing?",
-          "id": "Apakah ini membantu bahkan saat menulis cerita emosional atau salinan pemasaran?"
+          "ko": "마케팅 문구나 감성적인 에세이를 써야 할 때도 법전을 읽는 것이 도움이 되나요?"
         },
         "answer": {
-          "ko": "감성적이고 화려한 설득 문장을 써야 할 때는 법전 대신 자신이 닮고 싶은 매력적인 광고 카피나 감각적인 수필을 점화 텍스트로 사용하는 것이 좋습니다. 스탕달 습관의 핵심은 쓰고자 하는 결과물의 톤앤매너에 어울리는 최적의 텍스트로 뇌를 먼저 점화(Priming)시키는 데 있습니다.",
-          "en": "For emotional copywriting or storytelling, replace dry statutes with high-quality advertising copy or evocative prose that you wish to emulate. The core of Stendhal's method is conscious priming; choose a style model that matches the target tone of your upcoming task.",
-          "ja": "感傷的で華麗な説得力のある文章を書く必要があるときは、法典の代わりに自分が模倣したい魅力的な広告コピーや感覚的な随筆をプライミングテキストとして使用するのが良いでしょう。スタンダールの習慣の核心は、書こうとする成果物のトーン＆マナーに調和する最適なテキストで脳をあらかじめプライミング（誘発）することにあります。",
-          "zh": "在需要撰写感性且华丽的说服性文字时，建议使用自己想要模仿的、具有吸引力的广告文案或富有感官张力的随笔来代替法典作为启动文本。司汤达习惯的核心在于：使用与想要产出的成果物的Tone and Manner最相配的、最适合的文本，事先对大脑进行启动（Priming）。",
-          "es": "Para la redacción publicitaria o la narración emocional, reemplace los estatutos secos con textos publicitarios de alta calidad o prosa evocadora que desee emular. El núcleo del método de Stendhal es el primado consciente; elija un modelo de estilo que coincida con el tono objetivo de su próxima tarea.",
-          "fr": "Pour la rédaction publicitaire ou la narration émotionnelle, remplacez les textes juridiques par des textes publicitaires de qualité ou de la prose évocatrice que vous souhaitez imiter. Le cœur de la méthode de Stendhal est l'amorçage conscient.",
-          "de": "Ersetzen Sie beim emotionalen Texten oder Geschichtenerzählen trockene Gesetze durch hochwertige Werbetexte oder ausdrucksstarke Prosa, die Sie nachahmen möchten. Der Kern von Stendhals Methode ist das bewusste Priming; Wählen Sie ein Stilmodell, das zum Zielton Ihrer bevorstehenden Aufgabe passt.",
-          "pt": "Para redação publicitária ou narrativa emocional, substitua os estatutos secos por textos publicitários de alta qualidade ou prosa evocativa que deseja imular. O cerne do método de Stendhal é o priming consciente; escolha um modelo de estilo que corresponda ao tom pretendido da sua próxima tarefa.",
-          "id": "Untuk copywriting emosional atau mendongeng, ganti undang-undang kering dengan salinan iklan berkualitas tinggi atau prosa menggugah yang ingin Anda tiru. Inti dari metode Stendhal adalah priming sadar; pilih model gaya yang sesuai dengan nada target dari tugas Anda."
+          "ko": "감성적이고 화려한 설득 문장을 써야 할 때는 법전 대신 자신이 닮고 싶은 매력적인 광고 카피나 감각적인 수필을 점화 텍스트로 사용하는 것이 좋습니다. 스탕달 습관의 핵심은 쓰고자 하는 결과물의 톤앤매너에 어울리는 최적의 텍스트로 뇌를 먼저 점화(Priming)시키는 데 있습니다."
         }
       }
-    ],
-    "pubDate": "2026-02-08",
-    "updatedDate": "2026-02-08"
+    ]
   }
 }

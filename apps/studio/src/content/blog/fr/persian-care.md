@@ -16,23 +16,23 @@ faqs:
     answer: "Les chats à face plate ont des plis profonds près du nez. Les larmes stagnantes favorisent les bactéries et levures, causant des odeurs et infections."
 ---
 
-Avec leur pelage épais et leur face aplatie, les chats Persans sont doux et calmes. Cependant, leur structure faciale plate provoque des larmes excessives. Leur pelage long et dense s'emmêle facilement, causant de la douleur et bloquant l'air. Aujourd'hui, PetSelf étudie leurs signaux de stress et propose une routine de soins en 3 étapes.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Preuves Vétérinaires et Comportementales
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Directives d'élevage de la CFA pour les Persans et normes vétérinaires de l'AAFP</strong>.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Chat Persan Profil principal
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 17 ans</span></div>
@@ -43,7 +43,7 @@ Avec leur pelage épais et leur face aplatie, les chats Persans sont doux et cal
 
 ## 1. Langage corporel du Persan : signaux silencieux des yeux et des oreilles
 
-Comme les Persans s'expriment calmement, le stress est difficile à détecter. S'ils montrent de l'affection par des 'yeux mi-clos', les 'oreilles en avion' (tournées sur le côté) indiquent l'inconfort. Cela se produit souvent si le brossage est trop rapide.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Comme les Persans s'expriment calmement, le stress est difficile à détecter. S
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Nettoyage des plis du visage et des taches de larmes</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Le matin, nettoyez doucement les plis du visage avec une compresse stérile humide pour prévenir la dermatite.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Comme les Persans s'expriment calmement, le stress est difficile à détecter. S
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi : Double brossage avec brosse carde et peigne en métal</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Ciblez les zones sujettes aux nœuds (aisselles et ventre). Utilisez d'abord une brosse carde, puis un peigne en métal pour aligner le poil.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Comme les Persans s'expriment calmement, le stress est difficile à détecter. S
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir : Supplément anti-boules de poils et contrôle de la fontaine à eau</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Donnez de la pâte anti-boules de poils pour éviter l'occlusion, et inspectez la fontaine à eau pour l'encourager à s'hydrater.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Comme les Persans s'expriment calmement, le stress est difficile à détecter. S
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Comme les Persans s'expriment calmement, le stress est difficile à détecter. S
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Le poil du Persan est fin et dense. S'arrêter 2-3 jours provoque des nœuds serrés qui tirent sur la peau, créant de la douleur et obligeant à tondre.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Comme les Persans s'expriment calmement, le stress est difficile à détecter. S
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Les chats à face plate ont des plis profonds près du nez. Les larmes stagnantes favorisent les bactéries et levures, causant des odeurs et infections.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </details>
 </div>

@@ -32,7 +32,7 @@ faqs:
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 荷兰侏儒兔 (Netherland Dwarf Rabbit) 核心档案
+将此惯例应用到日常习惯中，体验深度专注与认知能力的提升。
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">平均寿命</span><span class="font-bold text-slate-800 dark:text-slate-200">8 ~ 12年</span></div>

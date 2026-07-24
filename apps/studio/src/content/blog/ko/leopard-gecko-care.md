@@ -18,17 +18,7 @@ faqs:
 
 특유의 웃는 듯한 얼굴과 표범 무늬 꼬리를 가진 레오파드 게코(Leopard Gecko)는 온순하고 수명이 긴 대표적 파충류 반려동물입니다. 파충류 및 양서류 수의사회(ARAV)의 권고에 따르면, 레오파드 게코는 체온 조절을 외부 열원에 의존하는 변온동물이므로 사육장 내 핫존(Hot Zone 30°C ~ 32°C)과 쿨존(Cool Zone 24°C ~ 26°C)의 명확한 경계 및 탈피용 습성 은신처(Wet Cave) 유지가 생존의 핵심입니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      수의학적 & 행동학적 근거
-    </h5>
-    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines</strong>에 기반하고 있습니다.
-    </p>
-  </div>
-</div>
+이러한 규칙적인 습관과 몰입 루틴은 뇌의 전두엽 및 신경 가소성을 활성화하여 일상의 집중력과 뇌 피로 회복을 극대화합니다.
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">

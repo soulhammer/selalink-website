@@ -16,23 +16,23 @@ faqs:
     answer: "Non, ses oreilles tombantes retiennent l'humidité et favorisent les otites et gale d'oreille. Consultez un vétérinaire NAC."
 ---
 
-Le Holland Lop est un lapin très populaire reconnaissable à sa tête ronde et ses oreilles tombantes. Suivant la House Rabbit Society (HRS), inspectez régulièrement ses oreilles pour éviter l'otite et fournissez du foin de fléole à volonté 24/7 contre la stase digestive mortelle.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Preuves Vétérinaires et Comportementales
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>House Rabbit Society (HRS) & AEMV Normes NAC</strong>.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Holland Lop (Lapin Bélier) Profil principal
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">8 - 12 ans</span></div>
@@ -43,7 +43,7 @@ Le Holland Lop est un lapin très populaire reconnaissable à sa tête ronde et 
 
 ## 1. Communication du Holland Lop: Danse Binky et Taper du Pied
 
-Le 'Binky' (saut vrillé dans les airs) est l'expression ultime du bonheur. Taper fort du pied arrière indique la peur ou le mécontentement.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Le 'Binky' (saut vrillé dans les airs) est l'expression ultime du bonheur. Tape
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin: Foin de Fléole à Volonté & Eau Fraîche</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Remplissez le râtelier de foin de fléole frais de 1ère coupe pour stimuler le transit.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Le 'Binky' (saut vrillé dans les airs) est l'expression ultime du bonheur. Tape
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi: Inspection des Oreilles Tombantes & Repos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Soulevez délicatement les oreilles pour vérifier l'absence d'inflammation.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Le 'Binky' (saut vrillé dans les airs) est l'expression ultime du bonheur. Tape
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir: Exercice dans les Tunnels & Brossage</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Laissez-le courir dans un parc sécurisé et brossez-le pour éviter l'ingestion de poils.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Le 'Binky' (saut vrillé dans les airs) est l'expression ultime du bonheur. Tape
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Le 'Binky' (saut vrillé dans les airs) est l'expression ultime du bonheur. Tape
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      C'est une stase gastro-intestinale (GI Stasis), une urgence vitale en 12h. Consultez immédiatement un vétérinaire NAC.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Le 'Binky' (saut vrillé dans les airs) est l'expression ultime du bonheur. Tape
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Non, ses oreilles tombantes retiennent l'humidité et favorisent les otites et gale d'oreille. Consultez un vétérinaire NAC.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </details>
 </div>

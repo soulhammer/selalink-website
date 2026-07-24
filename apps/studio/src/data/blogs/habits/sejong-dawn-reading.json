@@ -1,218 +1,72 @@
 {
   "sejong-dawn-reading": {
     "title": {
-      "ko": "창의적 국정의 비결? 세종대왕의 지독한 새벽 독서 루틴",
-      "en": "The Secret of Creative Statecraft? King Sejong the Great's Intense Dawn Reading Routine",
-      "ja": "創造的国政の秘訣？世宗大王の徹底した早朝読書ルーティン",
-      "zh": "创意国政的秘诀？世宗大王极为严苛的拂晓阅读常规",
-      "es": "¿El secreto del gobierno creativo? La intensa rutina de lectura al amanecer del Rey Sejong el Grande",
-      "fr": "Le secret d'un gouvernement créatif ? L'intense routine de lecture à l'aube du Roi Sejong le Grand",
-      "de": "Das Geheimnis kreativer Staatsführung? König Sejong des Großen intensive Leseroutine im Morgengrauen",
-      "pt": "O segredo do governo criativo? A intensa rotina de leitura ao amanhecer do Rei Sejong, o Grande",
-      "id": "Rahasia Tata Negara yang Kreatif? Rutinitas Membaca Subuh yang Intens dari Raja Sejong yang Agung"
+      "ko": "창의적 국정의 비결? 세종대왕의 지독한 새벽 독서 루틴"
     },
     "description": {
-      "ko": "한글을 창제한 조선의 최고 성군 세종대왕. 만성 질환 속에서도 매일 새벽 3시에 일어나 고전을 읽으며 머리를 예열했던 그의 아침 인지 활성화 루틴을 소개합니다.",
-      "en": "King Sejong the Great, the Joseon dynasty's greatest monarch who created Hangeul. Discover his morning cognitive activation routine of waking up at 3 AM to read classics despite chronic illness.",
-      "ja": "ハングルを創製した朝鮮最高の聖君、世宗大王。慢性疾患の中でも毎日早朝3時に起きて古典を読み、頭を活性化させた彼の早朝認知活性化ルーティンを紹介します。",
-      "zh": "创造韩文的朝鲜最伟大圣君世宗大王。介绍他在慢性疾病缠身的情况下，每天凌晨3点起床阅读经典以预热大脑的晨间认知激活常规。",
-      "es": "El rey Sejong el Grande, el mayor monarca de la dinastía Joseon que creó el Hangeul. Conozca su rutina de activación cognitiva al despertar a las 3 a.m. para leer clásicos.",
-      "fr": "Le roi Sejong le Grand, le plus grand monarque de la dynastie Joseon qui créa le Hangeul. Découvrez sa routine de réveil à 3h du matin pour lire des classiques.",
-      "de": "König Sejong der Große, der Schöpfer des Hangeul. Entdecken Sie seine Routine zur kognitiven Aktivierung am Morgen, bei der er trotz chronischer Krankheit um 3 Uhr morgens aufstand, um Klassiker zu lesen.",
-      "pt": "O rei Sejong, o Grande, o maior monarca da dinastia Joseon que criou o Hangeul. Conheça sua rotina de ativação cognitiva ao acordar às 3h para ler clássicos.",
-      "id": "Raja Sejong yang Agung, raja terbesar dinasti Joseon yang menciptakan Hangeul. Temukan rutinitas aktivasi kognitif paginya dengan bangun jam 3 pagi untuk membaca karya klasik."
+      "ko": "한글을 창제한 조선의 최고 성군 세종대왕. 만성 질환 속에서도 매일 새벽 3시에 일어나 고전을 읽으며 머리를 예열했던 그의 아침 인지 활성화 루틴을 소개합니다."
     },
     "authority": {
-      "ko": "조선왕조실록 세종실록 및 Frontiers in Psychology 학술지",
-      "en": "Annals of the Joseon Dynasty (Sejong) & Frontiers in Psychology",
-      "ja": "朝鮮王朝実録「世宗実録」および学術誌「Frontiers in Psychology」",
-      "zh": "《朝鲜王朝实录·世宗实录》与学术期刊《Frontiers in Psychology》",
-      "es": "Anales de la Dinastía Joseon (Sejong) y revista Frontiers in Psychology",
-      "fr": "Annales de la dynastie Joseon (Sejong) & revue Frontiers in Psychology",
-      "de": "Annalen der Joseon-Dynastie (Sejong) & Fachzeitschrift Frontiers in Psychology",
-      "pt": "Anais da Dinastia Joseon (Sejong) & revista Frontiers in Psychology",
-      "id": "Babad Dinasti Joseon (Sejong) & Jurnal Frontiers in Psychology"
+      "ko": "세종대왕 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "한글을 창제하고 과학과 문화를 꽃피운 조선 역사상 가장 위대한 성군, 세종대왕. 그가 수많은 격무와 질병 속에서도 놀라운 창의성과 현명한 결정을 내릴 수 있었던 비결은 어디에 있었을까요? 세종대왕은 매일 새벽 3~4시경 가장 먼저 일어나 촛불 아래에서 독서를 하며 하루를 시작했습니다. 그는 이 고요한 시간에 역사서와 경전을 집중해서 읽으며 아침 일찍 신하들과 가질 정책 토론인 '경연'을 준비했습니다. 오늘 BuildSelf에서는 세종대왕의 '새벽 독서' 루틴의 脳科学的 원리와 현대적 실천법을 소개합니다.",
-      "en": "King Sejong the Great, the most respected monarch in Korean history who created Hangeul and advanced science and culture. What was the secret behind his extraordinary creativity and wise decisions despite severe workload and illness? He woke up before anyone else at 3 or 4 AM and read books under candlelight. In this quiet time, he focused on reading history and classics to prepare for academic debates with officials. Today, BuildSelf introduces the neurological principles and modern implementation of King Sejong's 'dawn reading' routine.",
-      "ja": "ハングルを創製し、科学と文化を花開かせた朝鮮の歴史上最も偉大な聖君、世宗大王。彼が数々の激務と病気の中でも驚くべき創造性と賢明な決定を下すことができた秘訣はどこにあったのでしょうか？世宗大王は毎日早朝3〜4時頃に誰よりも早く起き、ローソクの光の下で読書をしながら一日を始めました。彼はこの静かな時間に歴史書や経典を集中して読み、朝早く臣下たちと行う政策討論である「経筵」を準備しました。本日、BuildSelfでは世宗大王の「早朝読書」ルーティンの脳科学的原理と現代的な実践法を紹介します。",
-      "zh": "在这一历史性惯例的实践中： , . ? 3~4 . '' . BuildSelf ' ' 脳科学的 .",
-      "es": "El rey Sejong el Grande, el monarca más respetado de la historia de Corea que creó el Hangeul y promovió la ciencia y la cultura. ¿Cuál fue el secreto de su extraordinaria creatividad y sabias decisiones a pesar de la carga de trabajo y las enfermedades? Se despertaba antes que nadie, a las 3 o 4 de la mañana, y leía bajo la luz de las velas. En este tiempo de silencio, se concentraba en la historia y los clásicos para prepararse para los debates académicos. Hoy, BuildSelf presenta los principios neurológicos y la aplicación moderna de la rutina de 'lectura al amanecer' del rey Sejong.",
-      "fr": "Le roi Sejong le Grand, le monarque le plus respecté de l'histoire de la Corée qui créa le Hangeul et fit progresser la science et la culture. Quel était le secret de sa créativité et de ses décisions sages malgré le surmenage et la maladie ? Il se réveillait avant tout le monde à 3h ou 4h du matin et lisait à la lueur des bougies. Pendant ce temps calme, il lisait l'histoire et les classiques pour se préparer aux débats académiques. Aujourd'hui, BuildSelf présente les principes neurologiques et la mise en œuvre moderne de la routine de 'lecture à l'aube' du roi Sejong.",
-      "de": "König Sejong der Große, der angesehenste Monarch der koreanischen Geschichte, der das Hangeul schuf und Wissenschaft und Kultur voranbrachte. Was war das Geheimnis seiner außergewöhnlichen Kreativität und klugen Entscheidungen trotz Überlastung und Krankheit? Er wachte vor allen anderen um 3 oder 4 Uhr morgens auf und las Bücher bei Kerzenlicht. In dieser ruhigen Zeit konzentrierte er sich auf das Lesen von Geschichte und Klassikern, um sich auf Debatten vorzubereiten. Heute stellt BuildSelf die neurologischen Prinzipien und die moderne Umsetzung von König Sejongs 'Morgenlese'-Routine vor.",
-      "pt": "O rei Sejong, o Grande, o monarca mais respeitado da história da Coréia que criou o Hangeul e promoveu a ciência e a cultura. Qual era o segredo de sua extraordinária criatividade e decisões sábias apesar do excesso de trabalho e doenças? Ele acordava antes de todos às 3 ou 4 da manhã e lia sob a luz de velas. Nesse tempo silencioso, concentrava-se em ler história e clássicos para se preparar para os debates. Hoje, o BuildSelf apresenta os princípios neurológicos e a implementação moderna da rotina de 'leitura ao amanhecer' do rei Sejong.",
-      "id": "Raja Sejong yang Agung, raja yang paling dihormati dalam sejarah Korea yang menciptakan Hangeul dan memajukan sains serta budaya. Apa rahasia di balik kreativitas luar biasa dan keputusan bijaksananya meskipun beban kerja parah dan sakit? Ia bangun sebelum orang lain jam 3 atau 4 pagi dan membaca buku di bawah cahaya lilin. Di waktu tenang ini, ia fokus membaca sejarah dan karya klasik untuk mempersiapkan debat akademis. Hari ini, BuildSelf memperkenalkan prinsip-prinsip neurologis dan penerapan modern dari rutinitas 'membaca subuh' Raja Sejong."
+      "ko": "\"배우지 않으면 어두운 방에 앉아 있는 것과 같고, 책을 읽는 것은 등불을 드는 것과 같다.\" 📖\n\n한글(훈민정음)을 창제하고 과학과 문화를 꽃피운 조선 역사상 가장 위대한 성군, 세종대왕. 그가 수많은 격무와 질병 속에서도 놀라운 창의성과 현명한 결정을 내릴 수 있었던 비결은 어디에 있었을까요?\n\n세종대왕은 매일 새벽 -시경 가장 먼저 일어나 촛불 아래에서 독서를 하며 하루를 시작했습니다. 그는 이 고요한 시간에 역사서와 경전을 집중해서 읽으며 아침 일찍 신하들과 가질 정책 토론이자 학술 토의인 '경연()'을 준비했습니다. 몸을 돌볼 틈도 없이 바쁜 와중에도 거르지 않았던 이 새벽 공부 시간은, 눈앞의 난제들을 넓은 시야에서 해소하고 찬란한 문화적 혁신을 설계하는 힘이 되었습니다.\n\n오늘 포스트에서는 세종대왕의 '새벽 독서' 루틴의 뇌과학적 원리와 바쁜 현대인들도 일상에서 쉽게 실천할 수 있는 아침 인지 활성화 루틴을 제안합니다."
     },
     "whyTitle": {
-      "ko": "기상 직후 뇌를 깨우는 인지 예열의 효과",
-      "en": "The Effect of Cognitive Warm-Up to Wake Up the Brain Right After Waking",
-      "ja": "起床直後、脳を目覚めさせる認知予熱の効果",
-      "zh": "起床后立即唤醒大脑的的认知预热效果",
-      "es": "El efecto del calentamiento cognitivo para despertar el cerebro justo después de levantarse",
-      "fr": "L'effet de l'échauffement cognitif pour réveiller le cerveau juste après le réveil",
-      "de": "Der Effekt des kognitiven Aufwärmens zum Aufwecken des Gehirns direkt nach dem Aufstehen",
-      "pt": "O efeito do aquecimento cognitivo para acordar o cérebro logo após levantar",
-      "id": "Efek Pemanasan Kognitif untuk Membangunkan Otak Tepat Setelah Bangun"
+      "ko": "기상 직후 뇌를 깨우는 인지 예열의 효과"
     },
     "whyDesc": {
-      "ko": "아침에 잠에서 깨어난 직후의 뇌는 외부 소음이나 불필요한 視覚的刺激에 시달리지 않아 고도의 순수한 몰입을 발휘할 수 있는 상태입니다. 脳科学的으로 아침 일찍 조용히 고전이나 두꺼운 텍스트를 읽는 행위는 뇌의 <strong>'인지 예열(Cognitive Warm-Up)'</strong> 역할을 합니다. 이른 아침의 독서는 논리와 전두엽을 담당하는 신경망을 서서히 일깨워, 그날 하루 동안 마주할 복잡한 의사결정에서 인지 피로를 현저하게 줄여주고 창의적인 패턴 매칭 능력을 극대화해 줍니다.",
-      "en": "Immediately after waking up in the morning, the brain is not plagued by external noise or unnecessary visual stimuli, allowing it to exert a high level of pure immersion. Neurologically, reading classics or dense text quietly in the early morning acts as a <strong>'Cognitive Warm-Up'</strong> for the brain. Early morning reading slowly awakens the neural networks responsible for logic and the frontal lobe, significantly reducing cognitive fatigue in complex decisions faced throughout the day and maximizing creative pattern-matching abilities.",
-      "ja": "朝目覚めた直後の脳は、外部の騒音や不要な視覚的刺激に悩まされることがないため、高度で純粋な没頭を発揮できる状態です。脳科学的に、早朝に静かに古典や難解なテキストを読む行為は、脳の<strong>「認知予熱（Cognitive Warm-Up）」</strong>の役割を果たします。早朝の読書は、論理と前頭葉を担当する神経ネットワークを徐々に目覚めさせ、その日一日の間に直面する複雑な意思決定における認知疲労を著しく減少させ、創造的なパターンマッチング能力を極大化してくれます。",
-      "zh": "早上刚醒来时，大脑不受外界噪音或不必要视觉刺激的干扰，能够发挥高度纯粹的专注力。从脑科学的角度来看，清晨安静地阅读经典或深奥的文本可以起到大脑<strong>“认知预热 (Cognitive Warm-Up)”</strong>的作用。清晨的阅读会慢慢唤醒负责逻辑和前额叶的神经网络，显著减少全天面临的复杂决策中的认知疲劳，并最大限度地提高创意模式匹配能力。",
-      "es": "Inmediatamente después de despertarse, el cerebro está libre de ruidos y estímulos visuales innecesarios, lo que permite un alto nivel de concentración. Científicamente, leer clásicos o textos densos temprano actúa como un <strong>'Calentamiento Cognitivo'</strong>. Esta lectura activa lentamente el lóbulo frontal, reduciendo la fatiga en las decisiones del día y maximizando la creatividad.",
-      "fr": "Juste après le réveil, le cerveau est libre de bruits et de stimuli visuels, ce qui permet un haut niveau de concentration. Scientifiquement, lire des classiques ou des textes denses tôt agit comme un <strong>'Échauffement Cognitif'</strong>. Cette lecture réveille le lobe frontal, réduisant la fatigue décisionnelle et maximisant la créativité.",
-      "de": "Direkt nach dem Aufwachen ist das Gehirn frei von Lärm und unnötigen Reizen, was eine tiefe Konzentration ermöglicht. Neurowissenschaftlich wirkt das frühe Lesen von Klassikern als <strong>'kognitives Aufwärmen'</strong>. Es aktiviert den Stirnlappen, reduziert die Müdigkeit bei Entscheidungen am Tag und maximiert die Kreativität.",
-      "pt": "Imediatamente após acordar, o cérebro está livre de ruídos e estímulos visuais desnecessários, permiting um alto nível de concentração. Cientificamente, ler clássicos ou textos densos cedo age como um <strong>'Aquecimento Cognitivo'</strong>. Essa leitura ativa o lobo frontal, reduzindo a fadiga nas decisões do dia e maximizando a criatividade.",
-      "id": "Segera setelah bangun tidur, otak bebas dari kebisingan dan rangsangan visual yang tidak perlu, memungkinkan tingkat konsentrasi yang tinggi. Secara neurolgis, membaca karya klasik atau teks padat bertindak sebagai <strong>'Pemanasan Kognitif'</strong>. Membaca subuh mengaktifkan lobus frontal secara perlahan, mengurangi kelelahan keputusan di siang hari dan memaksimalkan kreativitas."
+      "ko": "아침에 잠에서 깨어난 직후의 뇌는 외부 소음이나 불필요한 시각적 자극에 시달리지 않아 고도의 순수한 몰입을 발휘할 수 있는 상태입니다. 뇌과학적으로 아침 일찍 조용히 고전이나 두꺼운 텍스트를 읽는 행위는 뇌의 <strong>'인지 예열(Cognitive Warm-Up)'</strong> 역할을 합니다. 이른 아침의 독서는 논리와 전두엽을 담당하는 신경망을 서서히 일깨워, 그날 하루 동안 마주할 복잡한 의사결정에서 인지 피로를 현저하게 줄여주고 창의적인 패턴 매칭 능력을 극대화해 줍니다."
     },
     "cautionTitle": {
-      "ko": "스크린의 블루라이트 대신 종이와 은은한 등불을 택하세요",
-      "en": "Choose Paper and Dim Lighting Instead of Screen Blue Light",
-      "ja": "スクリーンのブルーライトの代わりに、紙とほのかな明かりを選んでください",
-      "zh": "选择纸张和柔和的灯光，而不是屏幕的蓝光",
-      "es": "Elija papel y luz tenue en lugar de la luz azul de las pantallas",
-      "fr": "Choisissez le papier et une lumière tamisée plutôt que la lumière bleue des écrans",
-      "de": "Wählen Sie Papier und gedimmtes Licht anstelle des blauen Lichts von Bildschirmen",
-      "pt": "Escolha papel e luz suave em vez da luz azul das telas",
-      "id": "Pilih Kertas dan Cahaya Redup Daripada Cahaya Biru Layar"
+      "ko": "스크린의 블루라이트 대신 종이와 은은한 등불을 택하세요"
     },
     "cautionDesc": {
-      "ko": "새벽 독서의 핵심은 기상 직후 뇌가 갖는 고요한 집중 상태를 유지하는 것입니다. 일어나자마자 스마트폰 스크린을 켜는 순간, 쏟아지는 블루라이트와 단편적인 알림 정보들은 전두엽을 순식간에 피로하게 만듭니다. 세종대왕이 은은한 등불 아래에서 한 글자씩 종이책을 음미했듯, 여러분도 디지털 화면을 배제하고 아날로그 종이책을 활용하여 새벽의 평온함을 인지 자산으로 전환해야 합니다.",
-      "en": "The core of dawn reading is maintaining the quiet focus state of the brain right after waking. The moment you turn on the smartphone screen upon waking, the pouring blue light and fragmented notifications instantly exhaust the frontal lobe. Just as King Sejong savored paper books letter by letter under dim light, you should also exclude digital screens and use analog paper books to convert the dawn's tranquility into cognitive assets.",
-      "ja": "早朝読書の核心は、起床直後の脳が持つ静かな集中状態を維持することです。起きてすぐにスマートフォンの画面をつける瞬間、降り注ぐブルーライトと断片的な通知情報は、前頭葉を一瞬にして疲労させます。世宗大王がほのかな明かりの下で一文字ずつ紙の本を吟味したように、皆さんもデジタル画面を排除し、アナログな紙の本を活用して早朝の平穏さを認知資産へと転換する必要があります。",
-      "zh": "拂晓阅读的核心是保持刚醒来时大脑安静的专注状态。起床后一打开手机屏幕，倾泻而出的蓝光和零碎的通知信息会瞬间让前额叶疲劳。就像世宗大王在柔和的灯光下一字一句地品味纸质书一样，你也应该排除数字屏幕，利用模拟纸质书，将清晨的宁静转化为认知资产。",
-      "es": "La clave de la lectura al amanecer es mantener la concentración inicial. Encender la pantalla del teléfono al despertar fatiga instantáneamente el lóbulo frontal debido a la luz azul y las notificaciones. Al igual que el rey Sejong leía libros de papel bajo luz tenue, evite las pantallas y elija libros físicos.",
-      "fr": "La clé de la lecture à l'aube est de maintenir la concentration initiale. Allumer le téléphone fatigue instantanément le lobe frontal en raison de la lumière bleue et des notifications. Comme le roi Sejong lisait des livres en papier sous une lumière tamisée, évitez les écrans et choisissez des livres physiques.",
-      "de": "Der Schlüssel zum Lesen im Morgengrauen liegt darin, die anfängliche Konzentration aufrechtzuerhalten. Das Einschalten des Bildschirms ermüdet den Stirnlappen durch blaues Licht und Benachrichtigungen. Wie König Sejong Bücher unter gedimmtem Licht las, sollten Sie Bildschirme meiden und physische Bücher wählen.",
-      "pt": "A chave da leitura ao amanhecer é manter a concentração inicial. Ligar a tela do celular ao acordar fatiga instantaneamente o lobo frontal devido à luz azul e notificações. Como o rei Sejong lia livros de papel sob luz suave, evite telas e escolha livros físicos.",
-      "id": "Kunci membaca subuh adalah menjaga konsentrasi awal. Menyalakan layar ponsel saat bangun tidur langsung melelahkan lobus frontal karena cahaya biru dan notifikasi. Seperti Raja Sejong yang menikmati buku kertas di bawah cahaya redup, hindari layar dan pilih buku fisik."
+      "ko": "새벽 독서의 핵심은 기상 직후 뇌가 갖는 고요한 집중 상태를 유지하는 것입니다. 일어나자마자 스마트폰 스크린을 켜는 순간, 쏟아지는 블루라이트와 단편적인 알림 정보들은 전두엽을 순식간에 피로하게 만듭니다. 세종대왕이 은은한 등불 아래에서 한 글자씩 종이책을 음미했듯, 여러분도 디지털 화면을 배제하고 아날로그 종이책을 활용하여 새벽의 평온함을 인지 자산으로 전환해야 합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "30분 조기 기상 및 기기 차단",
-          "en": "35 Minutes Early Waking & Device Block",
-          "ja": "30分の早期起床および機器の遮断",
-          "zh": "提早30分钟起床并断开设备",
-          "es": "Despertar 30 minutos antes y bloquear dispositivos",
-          "fr": "Réveil 30 minutes plus tôt & blocage des appareils",
-          "de": "30 Minuten früher aufstehen & Geräte blockieren",
-          "pt": "Acordar 30 minutos mais cedo & bloquear dispositivos",
-          "id": "Bangun 30 Menit Lebih Awal & Blokir Perangkat"
+          "ko": "30분 조기 기상 및 기기 차단"
         },
         "text": {
-          "ko": "평소 기상 시간보다 30분 일찍 알람을 맞추고 일어납니다. 눈을 뜨자마자 스마트폰을 확인하지 않도록 기기를 멀리 두거나 전원을 꺼둔 상태를 유지합니다.",
-          "en": "Set an alarm and wake up 30 minutes earlier than usual. Keep the smartphone far away or turned off so you do not check it as soon as you open your eyes.",
-          "ja": "普段の起床時間より30分早くアラームを設定して起きます。目を開けてすぐにスマートフォンを確認しないよう、機器を遠ざけるか、電源を切った状態を維持します。",
-          "zh": "比平时起床时间提早30分钟设置闹钟起床。将智能手机放远或保持关机状态，以免一睁眼就查看手机。",
-          "es": "Establezca una alarma 30 minutos antes de lo habitual. Mantenga el teléfono alejado o apagado para no revisarlo inmediatamente al abrir los ojos.",
-          "fr": "Réglez une alarme 30 minutes plus tôt que d'habitude. Gardez le téléphone éloigné ou éteint pour ne pas le regarder dès le réveil.",
-          "de": "Stellen Sie den Wecker 30 Minuten früher als gewöhnlich. Halten Sie das Smartphone fern oder ausgeschaltet, um es nicht sofort nach dem Aufwachen zu überprüfen.",
-          "pt": "Defina um alarme 30 minutos mais cedo do que o habitual. Mantenha o celular longe ou desligado para não verificar imediatamente ao abrir os olhos.",
-          "id": "Atur alarm 30 menit lebih awal dari biasanya. Jauhkan ponsel atau biarkan mati agar Anda tidak langsung memeriksanya saat membuka mata."
+          "ko": "평소 기상 시간보다 30분 일찍 알람을 맞추고 일어납니다. 눈을 뜨자마자 스마트폰을 확인하지 않도록 기기를 멀리 두거나 전원을 꺼둔 상태를 유지합니다."
         }
       },
       {
         "name": {
-          "ko": "은은한 조명 아래 아날로그 독서",
-          "en": "Analog Reading Under Dim Lighting",
-          "ja": "ほのかな明かりの下でのアナログ読書",
-          "zh": "柔和灯光下的模拟阅读",
-          "es": "Lectura analógica bajo luz tenue",
-          "fr": "Lecture analogique sous une lumière tamisée",
-          "de": "Analoges Lesen bei gedimmtem Licht",
-          "pt": "Leitura analógica sob luz suave",
-          "id": "Membaca Analog di Bawah Cahaya Redup"
+          "ko": "은은한 조명 아래 아날로그 독서"
         },
         "text": {
-          "ko": "자극적인 형광등 대신 은은한 스탠드나 조명을 켭니다. 준비해 둔 종이책(역사, 문학, 고전 에세이 등)을 펼쳐 20분 동안 천천히 정독합니다.",
-          "en": "Turn on a dim stand or ambient light instead of harsh fluorescent lights. Open a prepared paper book (history, literature, classic essays) and read slowly for 20 minutes.",
-          "ja": "刺激的な蛍光灯の代わりに、ほのかなスタンドや間接照明をつけます。準備しておいた紙の本（歴史、文学、古典エッセイなど）を開き、20分間ゆっくりと精読します。",
-          "zh": "开启柔和的台灯或氛围灯，而不是刺激性的荧光灯。翻开准备好的纸质书（历史、文学、经典散文等），慢慢精读20分钟。",
-          "es": "Encienda una luz tenue en lugar de luces fluorescentes fuertes. Abra un libro físico de historia, literatura o ensayos clásicos y lea lentamente durante 20 minutos.",
-          "fr": "Allumez une lumière tamisée plutôt que des néons agressifs. Ouvrez un livre physique d'histoire, de littérature ou d'essais classiques et lisez lentement pendant 20 minutes.",
-          "de": "Schalten Sie gedimmtes Licht anstelle von hellem Neonlicht ein. Öffnen Sie ein physisches Buch (Geschichte, Literatur, klassische Essays) und lesen Sie 20 Minuten lang langsam.",
-          "pt": "Acenda uma luz suave em vez de luzes fluorescentes fortes. Abra um livro físico de história, literatura ou ensaios clássicos e leia lentamente por 20 minutes.",
-          "id": "Nyalakan lampu meja yang redup daripada lampu neon yang terang. Buka buku fisik yang disiapkan (sejarah, sastra, esai klasik) dan baca perlahan selama 20 menit."
+          "ko": "자극적인 형광등 대신 은은한 스탠드나 조명을 켭니다. 준비해 둔 종이책(역사, 문학, 고전 에세이 등)을 펼쳐 20분 동안 천천히 정독합니다."
         }
       },
       {
         "name": {
-          "ko": "핵심 구절 필사 및 생각 정리",
-          "en": "Transcription of Core Phrases & Organizing Thoughts",
-          "ja": "核心的な句の筆記および考えの整理",
-          "zh": "摘抄核心句子并整理思绪",
-          "es": "Transcribir frases clave y organizar pensamientos",
-          "fr": "Transcription de phrases clés & organisation des pensées",
-          "de": "Abschreiben von Kernsätzen & Gedanken ordnen",
-          "pt": "Transcrever frases-chave e organizar pensamentos",
-          "id": "Menyalin Kalimat Kunci & Mengatur Pikiran"
+          "ko": "핵심 구절 필사 및 생각 정리"
         },
         "text": {
-          "ko": "가장 인상 깊었던 문장을 노트에 손글씨로 적어봅니다. 이와 함께 오늘 하루 해야 할 가장 중요한 일 한 가지를 떠올리며 마인드셋을 조율합니다.",
-          "en": "Handwrite the most impressive phrase in a notebook. Along with this, think of the one most important task to do today to tune your mindset.",
-          "ja": "最も印象深かった文章をノートに手書きで書き写してみます。これと共に、今日一日で行うべき最も重要な仕事を一つ思い浮かべ、マインドセットを整えます。",
-          "zh": "将最令人印象深刻的句子手写在笔记本上。同时，想一想今天要做的一件最重要的事情，以调整自己的心态。",
-          "es": "Escriba a mano la frase más impresionante en un cuaderno. Junto con esto, piense en la tarea más importante del día para ajustar su mentalidad.",
-          "fr": "Écrivez à la main la phrase la plus marquante dans un carnet. Pensez également à la tâche la plus importante de la journée pour ajuster votre état d'esprit.",
-          "de": "Schreiben Sie den beeindruckendsten Satz handschriftlich in ein Notizbuch. Denken Sie an die wichtigste Aufgabe des Tages, um sich mental darauf einzustellen.",
-          "pt": "Escreva à mão a frase mais impressionante em um caderno. Junto com isso, pense na tarefa mais importante do dia para ajustar sua mentalidade.",
-          "id": "Tulis tangan kalimat yang paling berkesan di buku catatan. Bersamaan dengan itu, pikirkan satu tugas terpenting hari ini untuk mengatur pola pikir Anda."
+          "ko": "가장 인상 깊었던 문장을 노트에 손글씨로 적어봅니다. 이와 함께 오늘 하루 해야 할 가장 중요한 일 한 가지를 떠올리며 마인드셋을 조율합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "아침형 인간이 아닌데, 새벽 3~4시에 일어나야 하나요?",
-          "en": "I'm not a morning person, do I have to wake up at 3 or 4 AM?",
-          "ja": "朝型人間ではないのですが、早朝3〜4時に起きなければなりませんか？",
-          "zh": "我不是晨型人，一定要在凌晨3-4点起床吗？",
-          "es": "No soy una persona madrugadora, ¿tengo que despertarme a las 3 o 4 a.m.?",
-          "fr": "Je ne suis du matin, dois-je me réveiller à 3h ou 4h ?",
-          "de": "Ich bin kein Frühaufsteher, muss ich um 3 oder 4 Uhr morgens aufstehen?",
-          "pt": "Não sou uma pessoa matutina, preciso acordar às 3 ou 4 da manhã?",
-          "id": "Saya bukan orang yang suka bangun pagi, apakah saya harus bangun jam 3 atau 4 pagi?"
+          "ko": "아침형 인간이 아닌데, 새벽 3~4시에 일어나야 하나요?"
         },
         "answer": {
-          "ko": "아닙니다. 세종대왕의 핵심은 '기상 직후 외부 방해 없는 나만의 인지 자산 확보'에 있습니다. 본인의 평소 기상 시간보다 단 30분만 일찍 일어나 스마트폰 차단 하에 조용히 독서하는 것만으로도 충분히 동일한 효과를 냅니다.",
-          "en": "No. The core of King Sejong's routine is 'securing one's own cognitive assets right after waking without external interruption'. Waking up just 30 minutes earlier than your usual time and reading quietly under device blocking is sufficient to yield the same effect.",
-          "ja": "いいえ。世宗大王の核心は「起床直後、外部の妨げのない自分だけの認知資産の確保」にあります。ご自身の普段の起床時間よりわずか30分だけ早く起き、スマートフォンを遮断した状態で静かに読書をするだけでも、十分に同様の効果を得られます。",
-          "zh": "不用。世宗大王的核心是“起床后在没有外界干扰的情况下获取专属的认知资产”。比平时起床时间提早30分钟起床，并在断开智能手机的情况下安静地阅读，就足以产生相同的效果。",
-          "es": "No. Lo fundamental es asegurar un tiempo sin interrupciones al despertar. Levantarse solo 30 minutos antes de lo habitual y leer sin distracciones digitales es suficiente para obtener el mismo efecto.",
-          "fr": "Non. L'essentiel est de s'assurer un temps sans distractions au réveil. Se lever seulement 30 minutes plus tôt et lire sans écrans suffit pour obtenir le même effet.",
-          "de": "Nein. Der Kern liegt darin, direkt nach dem Aufwachen ablenkungsfreie Zeit zu haben. Es reicht völlig aus, 30 Minuten früher aufzustehen und ohne Geräte zu lesen.",
-          "pt": "Não. O fundamental é garantir um tempo sem interrupções ao acordar. Levantar apenas 30 minutos mais cedo e ler sem distrações digitais é suficiente para obter o mesmo efeito.",
-          "id": "Tidak. Inti dari rutinitas Raja Sejong adalah 'mengamankan aset kognitif sendiri segera setelah bangun tidur tanpa gangguan luar'. Bangun hanya 30 menit lebih awal dan membaca dengan tenang tanpa ponsel sudah cukup untuk menghasilkan efek yang sama."
+          "ko": "아닙니다. 세종대왕의 핵심은 '기상 직후 외부 방해 없는 나만의 인지 자산 확보'에 있습니다. 본인의 평소 기상 시간보다 단 30분만 일찍 일어나 스마트폰 차단 하에 조용히 독서하는 것만으로도 충분히 동일한 효과를 냅니다."
         }
       },
       {
         "question": {
-          "ko": "웹소설이나 소셜 미디어 아티클을 읽는 것도 괜찮나요?",
-          "en": "Is it okay to read web novels or social media articles?",
-          "ja": "ウェブ小説やソーシャルメディアの記事を読むことでも大丈夫ですか？",
-          "zh": "阅读网络小说或社交媒体文章也可以吗？",
-          "es": "¿Está bien leer novelas web o artículos de redes sociales?",
-          "fr": "Est-il possible de lire des romans en ligne ou des articles de réseaux sociaux ?",
-          "de": "Ist es in Ordnung, Web-Romane oder Social-Media-Artikel zu lesen?",
-          "pt": "Tudo bem ler web novels ou artigos de redes sociais?",
-          "id": "Apakah boleh membaca novel web atau artikel media sosial?"
+          "ko": "웹소설이나 소셜 미디어 아티클을 읽는 것도 괜찮나요?"
         },
         "answer": {
-          "ko": "아침의 뇌를 예열하기 위해서는 단편적이고 視覚的刺激이 강한 온라인 텍스트보다, 논리 전개가 깊고 구조적인 종이책을 정독하는 것이 좋습니다. 철학, 인문학, 고전 에세이, 역사서처럼 뇌가 서사를 따라 적극적으로 사유하게 만드는 활자가 인지 기능 활성화에 훨씬 유익합니다.",
-          "en": "To warm up the morning brain, it is better to read structured paper books with deep logical development, rather than fragmented online text with strong visual stimuli. Print that forces the brain to actively think along the narrative, such as philosophy, humanities, classic essays, and history, is far more beneficial for cognitive activation.",
-          "ja": "朝の脳を予熱するためには、断片的で視覚的刺激の強いオンラインテキストより、論理展開が深く構造的な紙の本を精読することが望ましいです。哲学、人文学、古典エッセイ、歴史書のように、脳がストーリーに沿って積極的に思考するような活字が、認知機能の活性化にはるかに有益です。",
-          "zh": "为了预热晨间的大脑，最好精读逻辑展开深入、结构化的纸质书，而不是碎片化、视觉刺激强烈的在线文本。像哲学、人文学、经典散文、历史书那样能促使大脑顺着叙事积极思考的文字，对激活认知功能要有用得多。",
-          "es": "Para calentar el cerebro, es mejor leer libros físicos estructurados y con desarrollo lógico, en lugar de textos digitales fragmentados. Libros de filosofía, humanidades, historia o ensayos que requieran reflexión activa son más beneficiosos.",
-          "fr": "Pour échauffer le cerveau, il est préférable de lire des livres physiques structurés avec un développement logique. Les livres de philosophie, sciences humaines, histoire ou essais qui demandent une réflexion active sont plus bénéfiques.",
-          "de": "Um das Gehirn aufzuwärmen, ist es besser, strukturierte physische Bücher zu lesen. Bücher über Philosophie, Geisteswissenschaften, Geschichte oder Essays, die zum aktiven Nachdenken anregen, sind vorteilhafter.",
-          "pt": "Para aquecer o cérebro, é melhor ler livros físicos estruturados, em vez de textos digitais fragmentados. Livros de filosofia, ciências humanas, história ou ensaios que exijam reflexão ativa são mais benéficos.",
-          "id": "Untuk melatih otak di pagi hari, lebih baik membaca buku fisik terstruktur daripada teks digital yang terfragmentasi. Buku filsafat, humaniora, sejarah, atau esai yang membutuhkan pemikiran aktif jauh lebih bermanfaat."
+          "ko": "아침의 뇌를 예열하기 위해서는 단편적이고 시각적 자극이 강한 온라인 텍스트보다, 논리 전개가 깊고 구조적인 종이책을 정독하는 것이 좋습니다. 철학, 인문학, 고전 에세이, 역사서처럼 뇌가 서사를 따라 적극적으로 사유하게 만드는 활자가 인지 기능 활성화에 훨씬 유익합니다."
         }
       }
-    ],
-    "pubDate": "2026-04-27",
-    "updatedDate": "2026-04-27"
+    ]
   }
 }

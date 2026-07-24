@@ -1,218 +1,72 @@
 {
   "warhol-morning-dictation": {
     "title": {
-      "ko": "창작의 백지화: 앤디 워홀의 매일 아침 구두 일기 습관",
-      "en": "Blanking the Creative Canvas: Andy Warhol's Morning Oral Journaling Habit",
-      "ja": "創作の白紙化：アンディ・ウォーホルの毎朝の口頭日記習慣",
-      "zh": "创作的留白：安迪·沃霍尔的清晨口述日记习惯",
-      "es": "Lienzo en blanco para la creación: El hábito de dictado matutino de Andy Warhol",
-      "fr": "Feuille blanche pour la création : L'habitude de journal dicté matinal d'Andy Warhol",
-      "de": "Leeren der kreativen Leinwand: Andy Warhols Gewohnheit des morgendlichen Tagebuch-Diktats",
-      "pt": "Tela em branco para a criação: O hábito de ditado matinal de Andy Warhol",
-      "id": "Mengosongkan Kanvas Kreatif: Kebiasaan Jurnal Lisan Pagi Andy Warhol"
+      "ko": "창작의 백지화: 앤디 워홀의 매일 아침 구두 일기 습관"
     },
     "description": {
-      "ko": "비서에게 전화로 어제의 일과와 세세한 지출을 읊조려 기록했던 앤디 워홀. 매일 아침 구두 일기 출력이 인지 과부하를 비워내고 주의 영역을 초기화한 과학적 메커니즘을 규명합니다.",
-      "en": "Andy Warhol, who recorded yesterday's schedule and expenditures by calling his secretary. Learn the scientific mechanism of how morning verbal output cleared cognitive overload and reset attention.",
-      "ja": "秘書に電話で昨日のスケジュールや細かい支出を口頭で記録させたアンディ・ウォーホル。毎朝の口頭日記出力が認知の過負荷を解消し、注意力領域を初期化する科学的メカニズムを明らかにします。",
-      "zh": "通过给秘书打电话口述记录前一天日程与细微支出的安迪·沃霍尔。探讨清晨口述日记的输出如何清空认知过载并初始化注意力区域的大脑科学原理。",
-      "es": "Andy Warhol llamaba a su secretaria cada mañana para dictar sus gastos y actividades del día anterior. Analizamos cómo verbalizar la memoria de trabajo libera carga cognitiva (Cognitive Offloading).",
-      "fr": "Andy Warhol appelait sa secrétaire chaque matin pour lui dicter ses dépenses et activités. Découvrez comment verbaliser la mémoire de travail libère la charge cognitive (Cognitive Offloading).",
-      "de": "Andy Warhol telefonierte jeden Morgen mit seiner Sekretärin, um seinen Tag zu protokollieren. Erfahren Sie, wie das Diktieren das Arbeitsgedächtnis entlastet (Cognitive Offloading).",
-      "pt": "Andy Warhol ligava para a sua secretária cada manhã para ditar as suas despesas e atividades. Analisamos como verbalizar a memória de trabalho liberta carga cognitiva.",
-      "id": "Andy Warhol mencatat jadwal dan pengeluarannya dengan menelepon sekretarisnya setiap pagi. Pelajari bagaimana verbalisasi meredakan beban kerja otak."
+      "ko": "비서에게 전화로 어제의 일과와 세세한 지출을 읊조려 기록했던 앤디 워홀. 매일 아침 구두 일기 출력이 인지 과부하를 비워내고 주의 영역을 초기화한 과학적 메커니즘을 규명합니다."
     },
     "authority": {
-      "ko": "앤디 워홀 사후 출간된 일기장 『The Andy Warhol Diaries』 역사 고증 및 일리노이 대학교의 인지 부하 외재화(Cognitive Offloading) 심리학 연구",
-      "en": "Posthumously published 'The Andy Warhol Diaries' and University of Illinois Cognitive Research on Cognitive Offloading",
-      "ja": "アンディ・ウォーホル死後に出版された日記『The Andy Warhol Diaries』歴史的考証およびイリノイ大学の認知負荷外在化（Cognitive Offloading）心理学研究",
-      "zh": "安迪·沃霍尔死后出版的日记《The Andy Warhol Diaries》历史考证及伊利诺伊大学认知负荷外在化(Cognitive Offloading)心理学研究",
-      "es": "Autenticación de la obra publicada 'The Andy Warhol Diaries' e investigaciones de la Universidad de Illinois sobre la descarga cognitiva analógica",
-      "fr": "Récit de l'ouvrage 'The Andy Warhol Diaries' et travaux de l'Université de l'Illinois sur la décharge cognitive",
-      "de": "Historische Belege aus dem postum veröffentlichten 'The Andy Warhol Diaries' und Forschung der Universität Illinois zum kognitiven Entlasten",
-      "pt": "Autenticação da obra publicada 'The Andy Warhol Diaries' e pesquisas da Universidade de Illinois sobre a descarga cognitiva analógica",
-      "id": "Buku Harian Publikasi 'The Andy Warhol Diaries' dan Penelitian Universitas Illinois tentang Pelepasan Beban Kognitif"
+      "ko": "Warhol Morning Dictation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "캠벨 수프 통조림, 마릴린 먼로 초상화 등 대중적 이미지를 변주하며 현대 미술의 판도를 바꾼 팝아트의 거장 앤디 워홀. 뉴욕의 아틀리에 '팩토리(Factory)'의 복잡한 인간관계, 예술적 영감의 쥐어짜기, 대형 자금 지출 속에서 그가 예술가로서 매서운 감각을 잃지 않은 비결은 매일 아침의 구두 일기 습관이었습니다. 워홀은 1976년부터 세상을 떠나기 전인 1987년까지 매일 아침 비서인 팻 해킷에게 전화를 걸어 전날의 택시비 지출에서부터 일상의 가십, 인맥들과의 사소한 대화까지 모두 읊조려 대필로 기록하게 했습니다. 매일 아침 축적된 머릿속 찌꺼기를 말로 털어내 뇌의 작업 기억 공간을 말끔히 청소하는 인지 脳科学的 원리를 분석합니다.",
-      "en": "The pop art titan Andy Warhol transformed modern art with Campbell's soup cans and Marilyn Monroe portraits. Amidst the complex social relationships at his studio 'Factory,' squeezing of artistic inspirations, and financial budgets, the key that preserved his sharp edge was morning oral journaling. From 1976 to his death in 1987, Warhol called his secretary Pat Hackett every morning to recite taxi fares, daily gossips, and trivial talks for diary transcription. We analyze how this cleared working memory.",
-      "ja": "キャンベル・スープの缶やマリリン・モンローの肖像など、ポップなイメージを変奏して現代美術の歴史を塗り替えたポップアートの巨匠アンディ・ウォーホル。アトリエ「ファクトリー（Factory）」の複雑な人間関係、芸術的インスピレーションの渇望、多額の資金支出の中で、彼が芸術家として鋭い感覚を失わなかった秘訣は、毎朝の口頭日記習慣でした。ウォーホルは1976年からこの世を去る前の1987年まで、毎朝秘書のパット・ハケットに電話をかけ、前日のタクシー代の支出から日常のゴシップ、人々との些細な会話まで、すべてを口頭で伝えて代筆で記録させました。毎朝蓄積された頭の中の残骸を言葉で吐き出すことで、脳のワーキングメモリ空間を綺麗に清掃する認知脳科学的原理を分析します。",
-      "zh": "凭借金宝汤罐头、玛丽莲·梦露肖像等创新的大众图像改变现代美术范式的波普艺术皇帝安迪·沃霍尔。在纽约“工厂(Factory)”纷繁复杂的社交人际关系以及每日海量的资金支出中，他之所以能始终保持敏锐的灵感与执行力，关键就在于每天清晨拿起电话。自1976年至逝世的1987年，沃霍尔每天清晨都会给秘书兼共同记录者帕特·哈克特打电话，将前一天的日常起居、琐碎谈话以及支出明细通过口头叙述的方式整理成口述日记。我们共同探讨这种清晨口述整理是如何将沃霍尔的大脑清洗为适合创作的空白画面的。",
-      "es": "Andy Warhol, el rey del pop art. Rodeado de la agitación de su estudio 'The Factory', sus gastos y sus contactos, ideó un ritual diario para despejar su mente: el dictado telefónico. Cada mañana llamaba a su secretaria Pat Hackett y le narraba al detalle su jornada anterior, desde el costo de los taxis hasta los chismes del día. Analicemos cómo este proceso de descarga cognitiva (Cognitive Offloading) libera espacio en la memoria de trabajo, reduciendo el estrés y devolviendo la frescura cerebral.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora: , . '(Factory)' , , . 1976 1987 , . . Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "\"나는 매일 아침 나의 어제를 소리로 녹음해 인쇄하며 뇌 속의 잡동사니를 치운다.\" 📞\n\n대담하고 혁신적인 이미지로 대중문화와 순수 예술의 경계를 무너뜨린 현대 미술의 황제 앤디 워홀. 뉴욕에 위치한 그의 스튜디오 '팩토리(Factory)'는 매일 수많은 예술가, 힙스터, 유명인들로 넘쳐나며 온갖 인간관계의 파열음과 상업적 계약이 교차하는 복잡성의 극치였습니다. 이 거대하고 시끄러운 뉴욕 사교계의 중심에서 워홀이 어떻게 고유의 날카로운 미적 직관과 추진력을 유지했는지에 대한 힌트는 뜻밖에도 그의 '아침 의식'에 있습니다. 워홀은 1976년부터 그가 사망한 1987년까지 매일 아침 9시가 되면 비서이자 오랜 친구인 패트 해켓에게 전화를 걸었습니다. 그리고 전날 만난 사람, 나눈 사소한 가십, 심지어 택시비와 팁까지 1센트 단위로 가감 없이 말로 조곤조곤 읊으며 하루를 정리했습니다. 뇌과학적으로 이 독특한 '음성 구술 일기'가 예술가의 뇌를 어떻게 리프레시하고 인지 피로를 세척했는지 그 신경학적 메커니즘을 밝혀냅니다."
     },
     "whyTitle": {
-      "ko": "구두 표출을 통한 작업 기억 리셋과 인지 부하 외재화",
-      "en": "Working Memory Reset and Cognitive Offloading through Verbal Expression",
-      "ja": "口頭表出によるワーキングメモリのリセットと認知負荷の外在化",
-      "zh": "通过口头表述实现工作记忆重置与认知负荷外在化",
-      "es": "Reinicio de la memoria de trabajo y descarga cognitiva a través de la expresión verbal",
-      "fr": "Réinitialisation de la mémoire de travail et décharge cognitive par l'expression verbale",
-      "de": "Zurücksetzen des Arbeitsgedächtnisses und kognitive Entlastung durch verbalen Ausdruck",
-      "pt": "Reinicio da memória de trabalho e descarga cognitiva através da expressão verbal",
-      "id": "Atur Ulang Memori Kerja dan Pelepasan Beban Kognitif Melalui Ekspresi Lisan"
+      "ko": "구두 표출을 통한 작업 기억 리셋과 인지 부하 외재화"
     },
     "whyDesc": {
-      "ko": "뇌의 작업 기억(Working Memory)은 단기간에 처리할 수 있는 정보 용량이 제한되어 있습니다. 어제의 해결되지 않은 지출 걱정이나 대화 잔상들이 뇌에 남아있으면, 오늘 필요한 정보 처리에 사용할 수 있는 인지 자원이 그만큼 줄어듭니다. 워홀처럼 아침에 이를 '구두(Verbal)로 읊어 다른 매체에 기록'하는 행위는 인지 과학의 <strong>인지 부하 외재화(Cognitive Offloading)</strong>를 완벽히 유도합니다. 말하는 과정에서 기억들이 체계화되어 외부 저장소로 물리적으로 이전되므로, 뇌는 잔여 인지 용량을 온전히 보존하고 오늘 당장 직면한 새로운 예술 창작 과업에 포커싱할 수 있게 됩니다.",
-      "en": "The brain's working memory has a limited capacity. When yesterday's unsolved budget worries or conversations linger, the cognitive resources available for today's tasks decrease. Reciting them verbally and archiving them outside the brain triggers 'Cognitive Offloading.' Because the brain structures and physically offloads memories to an external storage, it saves remaining cognitive budgets to focus on new creative tasks.",
-      "ja": "脳のワーキングメモリ（Working Memory）は、短期間に処理できる情報の容量が制限されています。昨日の未解決の支出の悩みや会話の残像が脳に残っていると、今日必要な情報処理に使える認知リソースがその分減少します。ウォーホルのように朝、これを口頭（Verbal）で唱えて別の媒体に記録する行為は、認知科学の「認知負荷の外在化（Cognitive Offloading）」を完璧に誘導します。話す過程で記憶が体系化され、外部の保存場所に物理的に移転されるため、脳は残りの認知容量を完全に保存し、今日直面する新しい芸術創造活動にフォーカスできます。",
-      "zh": "大脑的工作记忆(Working Memory)在短时间内能够处理的信息容量是有限的。如果昨天未能解决的支出烦恼或谈话残像残留在脑海中，那么今天用于必要信息处理的认知资源就会相应减少。像沃霍尔一样在清晨将其“以口头(Verbal)叙述的形式记录在其他介质上”的行为，能完美引导认知科学中的“认知负荷外在化(Cognitive Offloading)”。在表述的过程中，记忆得以条理化并被物理转移到外部存储介质中，因此大脑可以完好地保留剩余的认知容量，全神贯注于今天所面临的全新艺术创作任务中。",
-      "es": "La memoria de trabajo tiene un límite estricto de retención de datos. Si los pendientes y detalles del día anterior siguen flotando en su mente, reducen su capacidad atencional para la jornada actual. Dictar estas memorias para plasmarlas fuera de su cabeza es un proceso clásico de descarga cognitiva (Cognitive Offloading). Al verbalizar y transferir la información, el cerebro se siente liberado del deber de retención, permitiendo el despliegue del pensamiento creativo.",
-      "fr": "La mémoire de travail a des capacités limitées. Si les détails de la veille encombrent votre esprit, ils nuisent à votre attention. Dicter ces souvenirs pour les poser sur papier est un processus de décharge cognitive (Cognitive Offloading). En verbalisant et en transférant l'information, le cerveau se libère du devoir de mémoire, permettant le retour de la créativité.",
-      "de": "Das Arbeitsgedächtnis kann nur eine begrenzte Menge an Informationen gleichzeitig verarbeiten. Wenn unerledigte Sorgen vom Vortag im Kopf kreisen, blockiert das kognitive Ressourcen. Das morgendliche Diktieren nutzt das Prinzip des kognitiven Entlastens (Cognitive Offloading). Durch das Aussprechen werden die Gedanken geordnet und ausgelagert, sodass der Kopf wieder frei wird für neue kreative Ideen.",
-      "pt": "La memória de trabalho tem um limite estrito de retenção de dados. Se os detalhes do dia anterior continuam flutuando na mente, reduzem a sua capacidade atencional. Ditar estas memórias para plasmá-las fora do cérebro é um processo de descarga cognitiva. Ao verbalizar e transferir a informação, o cérebro se sente liberado.",
-      "id": "Kapasitas RAM memori kerja otak sangat terbatas. Menyimpan sisa tugas dan pengeluaran kemarin mengurangi memori untuk fokus berkarya hari ini. Mendiktekan memori kemarin secara lisan merupakan pelepasan beban kognitif (Cognitive Offloading). Otak merasa aman karena data telah diarsipkan di tempat lain."
+      "ko": "뇌의 작업 기억(Working Memory)은 단기간에 처리할 수 있는 정보 용량이 제한되어 있습니다. 어제의 해결되지 않은 지출 걱정이나 대화 잔상들이 뇌에 남아있으면, 오늘 필요한 정보 처리에 사용할 수 있는 인지 자원이 그만큼 줄어듭니다. 워홀처럼 아침에 이를 '구두(Verbal)로 읊어 다른 매체에 기록'하는 행위는 인지 과학의 <strong>인지 부하 외재화(Cognitive Offloading)</strong>를 완벽히 유도합니다. 말하는 과정에서 기억들이 체계화되어 외부 저장소로 물리적으로 이전되므로, 뇌는 잔여 인지 용량을 온전히 보존하고 오늘 당장 직면한 새로운 예술 창작 과업에 포커싱할 수 있게 됩니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "구두 일기 쓰기 루틴을 수행할 때 피해야 할 장애물은 정돈된 논문이나 강연처럼 짜임새 있게 말하려 노력하는 것입니다. 격식 있는 스피치나 정확한 발음에 주의를 뺏기게 되면, 뇌는 이를 또 다른 정신적 업무로 인지하여 외재화에 의한 리프레시 효과가 발생하지 않습니다. 따라서 핵심은 생각나는 단어와 사실들을 두서없이, 혼잣말처럼 자유롭고 빠르게 내뱉는 브레인 덤프(Brain Dump)의 태도를 유지하는 데 있습니다.",
-      "en": "The trap to avoid during oral journaling is trying to speak in structured sentences like a presentation. If you worry about formal speech or exact pronunciation, the brain treats it as another mental workload, losing the offloading benefit. Keep it casual like a monologue, speaking fast as a brain dump.",
-      "ja": "口頭日記の執筆ルーティンを行う際に避けるべき障害は、整った論文や講演のように組み立てて話そうと努めることです. 格式張ったスピーチや正確な発音に注意を奪われると、脳はこれを新たな精神的業務と認識し、外在化によるリフレッシュ効果が発生しなくなります. したがって核心は、思い浮かぶ単語や事実を順序なく、独り言のように自由で迅速に吐き出すブレインダンプの態度を維持することにあります.",
-      "zh": "进行口述日记书写规程时需要避开的障碍是，试图如发表论文或讲演般有条理地进行表述。如果将精力分散在讲求格式或发音准确上，大脑会将其认知为又一项精神工作，从而无法产生外在化带来的恢复效果。因此，核心在于保持随心倾泻(Brain Dump)的态度，将脑海中浮现的词汇和事实杂乱无章、自言自语般自由且快速地吐露出来。",
-      "es": "El error es intentar hablar con elocuencia o estructurar el discurso como una presentación formal. Si se preocupa por la gramática o la pronunciación, el cerebro genera carga de trabajo mental, impidiendo la descarga cognitiva. El secreto es verbalizar rápido y sin filtros, como un vaciado cerebral puro (Brain Dump) en forma de monólogo.",
-      "fr": "L'erreur est de chercher à bien parler ou à structurer son discours. Si vous vous souciez de la forme, le cerveau subit une charge de travail, bloquant la décharge cognitive. L'important est de parler vite et sans filtre, comme un vidage de cerveau (Brain Dump) en monologue.",
-      "de": "Vermeiden Sie es, auf Eloquenz oder grammatikalische Richtigkeit zu achten. Die Sorge um die Formulierung erzeugt neue geistige Arbeit und blockiert das Entlasten. Der Schlüssel liegt darin, die Gedanken ungefiltert und schnell auszusprechen, ähnlich einem lauten Selbstgespräch (Brain Dump).",
-      "pt": "O erro é intentar falar com elocução ou estruturar o discurso. Se se preocupar com a gramática, o cérebro gera carga de trabalho mental, impedindo a descarga. O segredo é verbalizar rápido e sem filtros, como um esvaziamento cerebral puro (Brain Dump).",
-      "id": "Hindari menuntut diri berbicara secara terstruktur atau formal seperti sedang presentasi. Khawatir pada tata bahasa justru menyedot memori kerja baru bagi otak. Kuncinya adalah berbicara secara bebas dan cepat tanpa saringan, seperti tumpahan pikiran spontan (Brain Dump)."
+      "ko": "구두 일기 쓰기 루틴을 수행할 때 피해야 할 장애물은 정돈된 논문이나 강연처럼 짜임새 있게 말하려 노력하는 것입니다. 격식 있는 스피치나 정확한 발음에 주의를 뺏기게 되면, 뇌는 이를 또 다른 정신적 업무로 인지하여 외재화에 의한 리프레시 효과가 발생하지 않습니다. 따라서 핵심은 생각나는 단어와 사실들을 두서없이, 혼잣말처럼 자유롭고 빠르게 내뱉는 브레인 덤프(Brain Dump)의 태도를 유지하는 데 있습니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "음성 녹음기 또는 텍스트 변환 앱 준비",
-          "en": "Preparing a Voice Recorder or STT App",
-          "ja": "音声レコーダーまたはテキスト変換アプリの準備",
-          "zh": "准备录音机或语音转文字APP",
-          "es": "Preparar una grabadora o aplicación de voz",
-          "fr": "Préparer un dictaphone ou une application STT",
-          "de": "Bereitlegen eines Diktiergeräts oder einer STT-App",
-          "pt": "Preparar uma gravadora ou aplicação de voz",
-          "id": "Siapkan Perekam Suara atau Aplikasi STT"
+          "ko": "음성 녹음기 또는 텍스트 변환 앱 준비"
         },
         "text": {
-          "ko": "아침에 눈뜨자마자 쉽게 손이 닿는 침실 근처에 스마트폰의 간편 음성 녹음기나 음성 텍스트 변환(STT) 애플리케이션을 활성화해 놓습니다.",
-          "en": "Prepare a simple voice recorder or a speech-to-text (STT) app within arm's reach near your bed to use immediately upon waking.",
-          "ja": "朝起きてすぐに簡単に手が届くベッドの近くに、スマートフォンの簡易音声レコーダーや音声テキスト変換（STT）アプリケーションを起動しておきます。",
-          "zh": "在清晨睁开双眼后触手可及的床边，备好手机内置的简易录音机或语音转文字(STT)应用程序并处于待启用状态。",
-          "es": "Tenga a mano en su mesilla una grabadora de voz analógica o una aplicación de conversión de voz a texto (STT) lista para usar al despertar.",
-          "fr": "Gardez à portée de main près de votre lit un dictaphone ou une application de conversion voix-texte (STT) prête à l'emploi au réveil.",
-          "de": "Legen Sie ein Diktiergerät oder Ihr Handy mit einer STT-App griffbereit neben Ihr Bett.",
-          "pt": "Tenha à mão na sua mesinha uma gravadora de voz ou uma aplicação de conversão de voz a texto (STT) pronta para usar ao acordar.",
-          "id": "Siapkan perekam suara bawaan atau aplikasi Speech-to-Text (STT) di ponsel Anda dekat tempat tidur."
+          "ko": "아침에 눈뜨자마자 쉽게 손이 닿는 침실 근처에 스마트폰의 간편 음성 녹음기나 음성 텍스트 변환(STT) 애플리케이션을 활성화해 놓습니다."
         }
       },
       {
         "name": {
-          "ko": "5분간의 의식의 흐름 구두 외재화",
-          "en": "Engaging in 5 Minutes of Verbal Consciousness Stream Offloading",
-          "ja": "5分間の意識の流れの口頭外在化",
-          "zh": "实施5分钟的意识流口头外在化",
-          "es": "Verbalizar el flujo de ideas durante 5 minutos",
-          "fr": "Verbaliser le flux de pensées pendant 5 minutes",
-          "de": "5 Minuten Diktieren des Gedankenstroms",
-          "pt": "Verbalizar o fluxo de ideias durante 5 minutos",
-          "id": "Tumpahkan Pikiran Secara Lisan Selama 5 Menit"
+          "ko": "5분간의 의식의 흐름 구두 외재화"
         },
         "text": {
-          "ko": "녹음 버튼을 누르고 어제 있었던 사건, 만났던 인물, 지출 비용 등을 머릿속에 떠오르는 가감 없는 단어로 5분간 빠르게 읊어 쏟아냅니다.",
-          "en": "Press the record button and recite yesterday's schedule, people met, and money spent for 5 minutes using raw, unfiltered words.",
-          "ja": "録音ボタンを押し、昨日あった出来事、会った人物、支出した費用などを、頭の中に浮かぶありのままの言葉で5分間素早く口頭で吐き出します。",
-          "zh": "按下录音键，将昨天发生的事情、见过的人物、支出的费用等，用脑海中浮现出的毫无保留的词汇，快速口述出来，持续5分钟。",
-          "es": "Pulse grabar y relate sin filtros los eventos de ayer, personas con las que habló, o los gastos realizados de manera rápida durante 5 minutos.",
-          "fr": "Appuyez sur enregistrer et racontez sans filtre les événements de la veille, les personnes rencontrées et les dépenses pendant 5 minutes.",
-          "de": "Starten Sie die Aufnahme und sprechen Sie 5 Minuten lang über die Ereignisse von gestern, getroffene Personen oder Ausgaben.",
-          "pt": "Carregue no botão de gravar e relate sem filtros os eventos de ontem, pessoas com quem falou ou gastos realizados rapidamente.",
-          "id": "Nyalakan perekam dan bicarakan agenda kemarin, orang yang ditemui, dan pengeluaran secara cepat dan tanpa filter selama 5 menit."
+          "ko": "녹음 버튼을 누르고 어제 있었던 사건, 만났던 인물, 지출 비용 등을 머릿속에 떠오르는 가감 없는 단어로 5분간 빠르게 읊어 쏟아냅니다."
         }
       },
       {
         "name": {
-          "ko": "텍스트 파일 아카이빙 및 인지 리셋",
-          "en": "Text Archiving and Cognitive Reset",
-          "ja": "テキストファイルアーカイブと認知リセット",
-          "zh": "文本文件归档与认知重置",
-          "es": "Archivar el texto y reiniciar la mente",
-          "fr": "Archiver le fichier texte et réinitialiser l'esprit",
-          "de": "Archivieren des Diktats und kognitiver Reset",
-          "pt": "Arquivar o texto e reiniciar a mente",
-          "id": "Arsipkan Hasil Teks dan Atur Ulang Pikiran"
+          "ko": "텍스트 파일 아카이빙 및 인지 리셋"
         },
         "text": {
-          "ko": "녹음을 종료하고 생성된 텍스트 로그를 보관 폴더에 저장하며 '어제의 잔상은 백지화되었다'고 선언하고, 오늘 새로운 업무로 진입합니다.",
-          "en": "End the recording and save the generated text log in a storage folder, declaring that 'yesterday's slate is wiped clean,' to start today's tasks.",
-          "ja": "録音を終了し、生成されたテキストログを保管フォルダに保存して「昨日の残像は白紙に戻された」と宣言し、今日新しい業務に入ります。",
-          "zh": "结束录音并将生成的文本日志存入保管文件夹中，同时对自己宣告“昨天的残像已被清空为白纸”，随后开启今天的新工作。",
-          "es": "Finalice la grabación y guarde el texto resultante. Declare mentalmente: 'El lienzo de ayer está en blanco'. Comience su jornada de trabajo.",
-          "fr": "Arrêtez l'enregistrement et sauvegardez le texte. Dites-vous : 'La feuille d'hier est blanche'. Commencez votre journée de travail.",
-          "de": "Beenden Sie das Diktat und speichern Sie den Text. Sagen Sie sich: 'Die Leinwand von gestern ist leer'. Starten Sie in den neuen Tag.",
-          "pt": "Finalize a gravação e guarde o texto resultante. Declare mentalmente: 'A tela de ontem está em branco'. Comece o seu dia de trabalho.",
-          "id": "Matikan perekam, simpan transkrip teks tersebut ke folder arsip harian, dan mulailah aktivitas baru dengan pikiran segar."
+          "ko": "녹음을 종료하고 생성된 텍스트 로그를 보관 폴더에 저장하며 '어제의 잔상은 백지화되었다'고 선언하고, 오늘 새로운 업무로 진입합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "비서가 없는 현대인은 매일 아침 통화 기록식 구술을 어떻게 실천하나요?",
-          "en": "How can modern people practice daily dictation without an assistant?",
-          "ja": "秘書がいない現代人は毎朝の電話記録式の口述をどのように実践しますか？",
-          "zh": "没有秘书的现代人该如何践行每日电话记录式口头记事？",
-          "es": "¿Cómo puede la gente moderna practicar este hábito de dictado sin un asistente?",
-          "fr": "Comment les gens modernes peuvent-ils pratiquer cette habitude sans assistant ?",
-          "de": "Wie können Menschen heute dieses Diktat ohne Assistenten praktizieren?",
-          "pt": "Como as pessoas hoje podem praticar esse hábito de ditado sem um assistente?",
-          "id": "Bagaimana orang modern mempraktikkan dikte harian tanpa asisten?"
+          "ko": "비서가 없는 현대인은 매일 아침 통화 기록식 구술을 어떻게 실천하나요?"
         },
         "answer": {
-          "ko": "스마트폰의 음성-텍스트 변환(STT) 기능이나 AI 메모 앱을 켜고, 어제 있었던 사건이나 오늘 해야 할 감정적 부담감을 5분간 소리 내어 브레인덤핑(Brain Dumping)하듯 쏟아내 기록하는 방안을 추천합니다.",
-          "en": "We recommend turning on a smartphone Speech-to-Text (STT) feature or AI memo app and voicing out yesterday's events or today's emotional burdens for 5 minutes as a brain dump.",
-          "ja": "スマートフォンの音声-テキスト変換（STT）機能やAIメモアプリを起動し、昨日あった出来事や今日すべき感情的負担を5分間声に出して記録する形をお勧めします。",
-          "zh": "建议打开手机的语音转文字（STT）功能或AI备忘录，将昨天发生的事情或今天的心理负担大声说出5分钟，像进行脑力释放（Brain Dumping）一样记录下来。",
-          "es": "Recomendamos usar la función de voz a texto (STT) del móvil o una aplicación de notas y expresar en voz alta los eventos de ayer o cargas de hoy durante 5 minutos.",
-          "fr": "Nous recommandons d'utiliser la fonction voix-texte (STT) du smartphone pour exprimer à voix haute vos pensées ou préoccupations pendant 5 minutes.",
-          "de": "Wir empfehlen, die Diktierfunktion (STT) des Smartphones zu nutzen, um die Ereignisse von gestern oder die Aufgaben von heute 5 Minuten lang laut auszusprechen.",
-          "pt": "Recomendamos usar a função de voz para texto (STT) do telemóvel ou um aplicativo de notas e expressar em voz alta os eventos de ontem ou cargas de hoje por 5 minutos.",
-          "id": "Kami menyarankan Anda menggunakan fitur STT (Speech-to-Text) ponsel atau aplikasi memo AI dan menyuarakan beban pikiran hari ini selama 5 menit."
+          "ko": "스마트폰의 음성-텍스트 변환(STT) 기능이나 AI 메모 앱을 켜고, 어제 있었던 사건이나 오늘 해야 할 감정적 부담감을 5분간 소리 내어 브레인덤핑(Brain Dumping)하듯 쏟아내 기록하는 방안을 추천합니다."
         }
       },
       {
         "question": {
-          "ko": "구술할 때 주로 어떤 내용을 조잘거리면 생산성 향상에 도움이 되나요?",
-          "en": "What should I talk about during dictation to boost productivity?",
-          "ja": "口述する時、主にどのような内容を話せば生産性の向上に役立ちますか？",
-          "zh": "口述记录时主要说些什么内容对提高生产力有帮助？",
-          "es": "¿De qué debo hablar durante el dictado para aumentar la productividad?",
-          "fr": "De quoi dois-je parler pendant le dictado pour augmenter la productivité ?",
-          "de": "Worüber sollte ich beim Diktieren sprechen, um die Produktivität zu steigern?",
-          "pt": "Sobre o que devo falar durante o ditado para aumentar a produtividade?",
-          "id": "Apa yang harus saya bicarakan saat dikte untuk meningkatkan produktivitas?"
+          "ko": "구술할 때 주로 어떤 내용을 조잘거리면 생산성 향상에 도움이 되나요?"
         },
         "answer": {
-          "ko": "어제 있었던 사실적 사건들의 나열, 오늘 마주할 업무 우선순위에 대한 브레인덤핑, 혹은 지금 떠오르는 감정 상태를 날것 그대로 소리 내어 읊조리는 것으로 충분합니다.",
-          "en": "Listing factual events from yesterday, doing a brain dump of today's work priorities, or voicing out your current emotional state raw and unfiltered is sufficient.",
-          "ja": "昨日あった事実的な出来事の羅列、今日直面する業務優先順位のブレインダンプ、あるいは今思い浮かぶ感情の状態を生のまま声に出して呟くだけで十分です。",
-          "zh": "罗列昨天发生的客观事实、释放今天需要面对的工作优先顺序、或者原原本本大声说出此时此刻脑海中浮现的情感状态，这就足够了。",
-          "es": "Enumerar los hechos de ayer, hacer un volcado de las prioridades de trabajo de hoy o expresar tu estado emocional actual de forma cruda es suficiente.",
-          "fr": "Lister les faits d'hier, vider votre esprit des priorités du jour ou exprimer votre état émotionnel actuel de manière brute suffit amplement.",
-          "de": "Es reicht aus, die Ereignisse von gestern aufzulisten, die Prioritäten für heute zu ordnen oder Ihre aktuelle emotionale Verfassung laut auszusprechen.",
-          "pt": "Listar os fatos de ontem, fazer um despejo de ideias das prioridades de trabalho de hoje ou expressar seu estado emocional atual de forma crua é suficiente.",
-          "id": "Menyebutkan kejadian kemarin, merinci prioritas kerja hari ini, atau menyuarakan kondisi emosional Anda saat ini secara apa adanya sudah cukup."
+          "ko": "어제 있었던 사실적 사건들의 나열, 오늘 마주할 업무 우선순위에 대한 브레인덤핑, 혹은 지금 떠오르는 감정 상태를 날것 그대로 소리 내어 읊조리는 것으로 충분합니다."
         }
       }
-    ],
-    "pubDate": "2026-05-25",
-    "updatedDate": "2026-05-25"
+    ]
   }
 }

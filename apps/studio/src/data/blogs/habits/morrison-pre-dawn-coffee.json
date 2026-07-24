@@ -1,223 +1,72 @@
 {
   "morrison-pre-dawn-coffee": {
     "title": {
-      "ko": "창의성이 깨어나는 여명의 의식? 토니 모리슨의 새벽 5시 글쓰기 준비 루틴",
-      "en": "The Ritual of Pre-Dawn Creativity? Toni Morrison's 5 A.M. Coffee and Light Observation",
-      "ja": "夜明け前の創造性の儀式?トニ・モリソンの『午前5時』コーヒーと光の観察",
-      "zh": "黎明前创造力的仪式？托妮·莫里森的《凌晨 5 点》咖啡和光观察",
-      "es": "¿El ritual de la creatividad antes del amanecer? Las 5 a. m. de Toni Morrison. Observación de café y luz.",
-      "fr": "Le rituel de la créativité avant l’aube ? 5 heures du matin de Toni Morrison Observation du café et de la lumière",
-      "de": "Das Ritual der Kreativität vor dem Morgengrauen? Toni Morrisons 5 A.M. Kaffee- und Lichtbeobachtung",
-      "pt": "O ritual da criatividade antes do amanhecer? 5 da manhã de Toni Morrison. Observação de café e luz",
-      "id": "Ritual Kreativitas Jelang Fajar? Jam 5 pagi karya Toni Morrison Observasi Kopi dan Cahaya"
+      "ko": "창의성이 깨어나는 여명의 의식? 토니 모리슨의 새벽 5시 글쓰기 준비 루틴"
     },
     "description": {
-      "ko": "노벨 문학상 수상 작가 토니 모리슨. 매일 새벽 5시 여명을 응시하며 생각을 리셋하고 집필에 돌입한 그녀의 새벽 집중 비법과 인지과학적 가치를 소개합니다.",
-      "en": "Discover Toni Morrison's pre-dawn routine. Learn the circadian science of watching the light arrive and how a silent morning ritual unlocks deep creative thinking.",
-      "ja": "トニ・モリソンの夜明け前のルーティンをご覧ください。光が届くのを観察する概日科学と、静かな朝の儀式がどのようにして深い創造的思考を解き放つのかを学びましょう。",
-      "zh": "探索托妮·莫里森 (Toni Morrison) 黎明前的例行公事。了解观察光线到来的昼夜节律科学，以及安静的早晨仪式如何释放深刻的创造性思维。",
-      "es": "Descubra la rutina antes del amanecer de Toni Morrison. Aprenda la ciencia circadiana de ver llegar la luz y cómo un ritual matutino silencioso desbloquea un pensamiento creativo profundo.",
-      "fr": "Découvrez la routine d'avant l'aube de Toni Morrison. Apprenez la science circadienne consistant à observer la lumière arriver et comment un rituel matinal silencieux débloque une profonde pensée créative.",
-      "de": "Entdecken Sie Toni Morrisons Morgenroutine. Lernen Sie die zirkadiane Wissenschaft des Beobachtens des Lichteinfalls kennen und erfahren Sie, wie ein stilles Morgenritual tiefes kreatives Denken freisetzt.",
-      "pt": "Descubra a rotina pré-amanhecer de Toni Morrison. Aprenda a ciência circadiana de observar a luz chegar e como um ritual matinal silencioso desbloqueia o pensamento criativo profundo.",
-      "id": "Temukan rutinitas menjelang fajar Toni Morrison. Pelajari ilmu sirkadian dalam menyaksikan cahaya datang dan bagaimana ritual pagi yang hening membuka pemikiran kreatif yang mendalam."
+      "ko": "노벨 문학상 수상 작가 토니 모리슨. 매일 새벽 5시 여명을 응시하며 생각을 리셋하고 집필에 돌입한 그녀의 새벽 집중 비법과 인지과학적 가치를 소개합니다."
     },
     "authority": {
-      "ko": "파리 리뷰 작가 인터뷰 'Toni Morrison' 및 생체리듬학 저널 연구 자료",
-      "en": "The Paris Review Interview with Toni Morrison & Journal of Circadian Rhythms",
-      "ja": "トニ・モリソンとジャーナル・オブ・サーカディアン・リズムのパリ・レビュー・インタビュー",
-      "zh": "《巴黎评论》对托妮·莫里森和《昼夜节律杂志》的采访",
-      "es": "Entrevista de The Paris Review con Toni Morrison y Journal of Circadian Rhythms",
-      "fr": "Entretien avec Toni Morrison et Journal of Circadian Rhythms par The Paris Review",
-      "de": "Das Paris Review-Interview mit Toni Morrison und Journal of Circadian Rhythms",
-      "pt": "Entrevista da Paris Review com Toni Morrison e Journal of Circadian Rhythms",
-      "id": "Wawancara Tinjauan Paris dengan Toni Morrison & Jurnal Irama Sirkadian"
+      "ko": "토니 모리슨 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "싱글맘으로서 홀로 두 아이를 키우며 출판사의 무거운 에디터 업무를 병행하면서도, 세계 문학사에 영원히 기록될 노벨 문학상 대표작들을 집필해 낸 소설가 토니 모리슨. 시간의 빈곤 속에서도 그녀가 위대한 문학적 깊이를 획득할 수 있었던 비결은 매일 새벽에 치른 고요한 의식에 있었습니다. ☕\n\n모리슨은 온 집안이 고요함에 싸인 매일 새벽 5시에 일어나 신선한 원두를 갈아 따뜻한 커피를 내렸습니다. 그리고 컴퓨터를 켜거나 필기구를 쥐기 전에, 커피가 담긴 컵을 양손에 쥐고 서재 창가에 서서 밖을 내다보았습니다. 그녀는 밤의 어둠이 걷히며 서서히 세상에 닿는 차가운 새벽빛(여명)을 조용히 지켜보았습니다. 그녀는 이를 '빛이 도달하는 것을 지켜보는 행위'라고 불렀으며, 이 어스름한 시각만이 자신이 일상적인 사회적 의무에서 벗어나 온전한 창의적 주체로 존재할 수 있는 유일한 공간이라고 고백했습니다.\n\n오늘 BuildSelf에서는 창작과 기획의 문을 여는 토니 모리슨의 새벽 여명 루틴의 과학적 근거를 설명하고, 매일 뇌를 평화롭고 예리하게 깨울 수 있는 구체적인 새벽 리추얼을 소개합니다.",
-      "en": "Toni Morrison, the novelist who managed to write Nobel Prize-winning masterpieces that will remain in literary history forever, while raising two children as a single mother and working as a senior publisher editor. The secret to her rich literary depth despite time poverty was a quiet pre-dawn ritual. ☕\n\nMorrison got up at 5:00 a.m. every morning when the whole house was wrapped in silence, and brewed warm coffee. Before turning on a computer or holding a pen, she stood by her study window holding the coffee cup in both hands. She quietly watched the cold pre-dawn light (dawn) gradually clearing the darkness of the night. She called this 'watching the light arrive,' confessing that this dim time was the only space where she could escape daily social duties and exist as a pure creative subject.\n\nToday, BuildSelf explains the science behind Morrison's dawn routine and introduces a specific morning ritual to wake up your brain peacefully and sharply.",
-      "ja": "この歴史的習慣の実践において： , . . ☕ この歴史的習慣の実践において： 5 . , . () . ' ' , . この歴史的習慣の実践において： BuildSelf , .",
-      "zh": "在这一历史性惯例的实践中： , . . ☕ 在这一历史性惯例的实践中： 5 . , . () . ' ' , . 在这一历史性惯例的实践中： BuildSelf , .",
-      "es": "Toni Morrison, la novelista que logró escribir obras maestras ganadoras del Premio Nobel que permanecerán en la historia de la literatura para siempre, mientras criaba a dos hijos como madre soltera y trabajaba como editora senior. El secreto de su rica profundidad literaria a pesar de la escasez de tiempo fue un tranquilo ritual antes del amanecer. ☕\n\nMorrison se levantaba a las 5:00 a. m. todas las mañanas, cuando toda la casa estaba en silencio, y preparaba café caliente. Antes de encender una computadora o sostener un bolígrafo, se paró junto a la ventana de su estudio sosteniendo la taza de café con ambas manos. Observó en silencio la fría luz previa al amanecer (amanecer) que poco a poco aclaraba la oscuridad de la noche. Ella llamó a esto \"ver llegar la luz\", y confesó que este momento oscuro era el único espacio donde podía escapar de los deberes sociales diarios y existir como un sujeto creativo puro.\n\nHoy, BuildSelf explica la ciencia detrás de la rutina del amanecer de Morrison e introduce un ritual matutino específico para despertar el cerebro de forma pacífica y nítida.",
-      "fr": "Toni Morrison, la romancière qui a réussi à écrire des chefs-d'œuvre lauréats du prix Nobel qui resteront à jamais dans l'histoire littéraire, tout en élevant deux enfants en tant que mère célibataire et en travaillant comme rédactrice en chef d'un éditeur. Le secret de sa riche profondeur littéraire malgré le manque de temps était un rituel tranquille avant l'aube. ☕\n\nMorrison se levait à 5 heures du matin tous les matins alors que toute la maison était enveloppée dans le silence et préparait du café chaud. Avant d'allumer un ordinateur ou de tenir un stylo, elle se tenait près de la fenêtre de son bureau, tenant la tasse de café à deux mains. Elle observa tranquillement la lumière froide d'avant l'aube (l'aube) dissipant progressivement l'obscurité de la nuit. Elle appelait cela « regarder la lumière arriver », avouant que cette période sombre était le seul espace où elle pouvait échapper aux devoirs sociaux quotidiens et exister en tant que pur sujet créatif.\n\nAujourd'hui, BuildSelf explique la science derrière la routine de l'aube de Morrison et présente un rituel matinal spécifique pour réveiller votre cerveau paisiblement et brusquement.",
-      "de": "Toni Morrison, die Romanautorin, die es geschafft hat, mit dem Nobelpreis ausgezeichnete Meisterwerke zu schreiben, die für immer in der Literaturgeschichte bleiben werden, während sie als alleinerziehende Mutter zwei Kinder großzog und als leitende Redakteurin bei einem Verlag arbeitete. Das Geheimnis ihrer reichen literarischen Tiefe trotz Zeitknappheit war ein stilles Ritual vor der Morgendämmerung. ☕\n\nMorrison stand jeden Morgen um 5:00 Uhr auf, wenn das ganze Haus in Stille gehüllt war, und kochte warmen Kaffee. Bevor sie einen Computer einschaltete oder einen Stift in der Hand hielt, stand sie am Fenster ihres Arbeitszimmers und hielt die Kaffeetasse in beiden Händen. Sie beobachtete ruhig, wie das kalte Licht vor der Morgendämmerung (Morgendämmerung) allmählich die Dunkelheit der Nacht lichtete. Sie nannte dies „das Licht ankommen sehen“ und gestand, dass diese düstere Zeit der einzige Raum sei, in dem sie den täglichen gesellschaftlichen Pflichten entfliehen und als reines kreatives Subjekt existieren könne.\n\nHeute erklärt BuildSelf die Wissenschaft hinter Morrisons Morgenroutine und stellt ein spezielles Morgenritual vor, um Ihr Gehirn friedlich und kräftig aufzuwecken.",
-      "pt": "Toni Morrison, a romancista que conseguiu escrever obras-primas ganhadoras do Prêmio Nobel que permanecerão para sempre na história da literatura, enquanto criava dois filhos como mãe solteira e trabalhava como editora sênior de uma editora. O segredo de sua rica profundidade literária, apesar da pobreza de tempo, era um ritual tranquilo antes do amanhecer. ☕\n\nMorrison acordava às 5h todas as manhãs, quando toda a casa estava envolta em silêncio, e preparava café quente. Antes de ligar o computador ou segurar uma caneta, ela ficava perto da janela do escritório segurando a xícara de café com as duas mãos. Ela observou calmamente a luz fria da madrugada (amanhecer) gradualmente limpando a escuridão da noite. Ela chamava isso de “ver a luz chegar”, confessando que esse tempo sombrio era o único espaço onde ela poderia escapar dos deveres sociais diários e existir como um sujeito puramente criativo.\n\nHoje, BuildSelf explica a ciência por trás da rotina matinal de Morrison e apresenta um ritual matinal específico para acordar seu cérebro de forma pacífica e nítida.",
-      "id": "Toni Morrison, novelis yang berhasil menulis mahakarya pemenang Hadiah Nobel yang akan tetap ada dalam sejarah sastra selamanya, sembari membesarkan dua anak sebagai ibu tunggal dan bekerja sebagai editor penerbit senior. Rahasia kedalaman sastranya yang kaya meskipun dalam kemiskinan adalah ritual menjelang fajar yang tenang. ☕\n\nMorrison bangun pukul 5 pagi setiap pagi ketika seluruh rumah diselimuti keheningan, dan menyeduh kopi hangat. Sebelum menyalakan komputer atau memegang pena, dia berdiri di dekat jendela ruang kerjanya sambil memegang cangkir kopi dengan kedua tangannya. Dia diam-diam menyaksikan cahaya dingin menjelang fajar (fajar) yang perlahan-lahan membersihkan kegelapan malam. Dia menyebutnya 'menyaksikan cahaya tiba,' dan mengakui bahwa waktu redup ini adalah satu-satunya ruang di mana dia dapat melepaskan diri dari tugas sosial sehari-hari dan eksis sebagai subjek kreatif murni.\n\nHari ini, BuildSelf menjelaskan ilmu di balik rutinitas fajar Morrison dan memperkenalkan ritual pagi khusus untuk membangunkan otak Anda dengan damai dan tajam."
+      "ko": "\"우리는 말을 하고, 그것이 세상을 바꾼다.\" 🚶‍♂️\n\n싱글맘으로서 홀로 두 아이를 키우며 출판사의 무거운 에디터 업무를 병행하면서도, 세계 문학사에 영원히 기록될 노벨 문학상 대표작들을 집필해 낸 소설가 토니 모리슨. 시간의 빈곤 속에서도 그녀가 위대한 문학적 깊이를 획득할 수 있었던 비결은 매일 새벽에 치른 고요한 의식에 있었습니다. ☕\n\n모리슨은 온 집안이 고요함에 싸인 매일 새벽 5시에 일어나 신선한 원두를 갈아 따뜻한 커피를 내렸습니다. 그리고 컴퓨터를 켜거나 필기구를 쥐기 전에, 커피가 담긴 컵을 양손에 쥐고 서재 창가에 서서 밖을 내다보았습니다. 그녀는 밤의 어둠이 걷히며 서서히 세상에 닿는 차가운 새벽빛(여명)을 조용히 지켜보았습니다. 그녀는 이를 '빛이 도달하는 것을 지켜보는 행위'라고 불렀으며, 이 어스름한 시각만이 자신이 일상적인 사회적 의무에서 벗어나 온전한 창의적 주체로 존재할 수 있는 유일한 공간이라고 고백했습니다.\n\n오늘 포스트에서는 창작과 기획의 문을 여는 토니 모리슨의 새벽 여명 루틴의 과학적 근거를 설명하고, 매일 뇌를 평화롭고 예리하게 깨울 수 있는 구체적인 새벽 리추얼을 소개합니다."
     },
     "whyTitle": {
-      "ko": "생체 시계 각성과 망막 광수용체의 자극",
-      "en": "Circadian Clock Awakening and Retinal Photoreceptor Stimulation",
-      "ja": "概日時計の覚醒と網膜光受容体の刺激",
-      "zh": "昼夜节律时钟唤醒和视网膜感光器刺激",
-      "es": "Despertar del reloj circadiano y estimulación de los fotorreceptores de la retina",
-      "fr": "Réveil de l'horloge circadienne et stimulation des photorécepteurs rétiniens",
-      "de": "Erwachen der zirkadianen Uhr und Stimulation der retinalen Photorezeptoren",
-      "pt": "Despertar do Relógio Circadiano e Estimulação de Fotorreceptores Retinianos",
-      "id": "Kebangkitan Jam Sirkadian dan Stimulasi Fotoreseptor Retina"
+      "ko": "생체 시계 각성과 망막 광수용체의 자극"
     },
     "whyDesc": {
-      "ko": "어두운 방에서 눈을 뜨자마자 스마트폰의 강력한 청색광(Blue Light)에 뇌를 노출하면 뇌는 스트레스 신호인 코르티솔을 비정상적으로 급증시켜 불안지수를 높입니다.\n\n토니 모리슨이 행한 여명 관찰은 점진적으로 밝아오는 자연 광선을 망막에 투과시켜 생체 시계 조절 영역인 <strong>'교차상핵(Suprachiasmatic Nucleus)'</strong>에 평화로운 각성 신호를 보냅니다. 이는 수면 호르몬인 멜라토닌 분비를 부드럽게 억제하고 안정적인 주의력을 유도하는 신경전달물질의 균형을 가져옵니다. 또한, 방해 요소가 전혀 없는 새벽의 차분한 분위기는 뇌의 전두엽 영역에 불필요한 인지 간섭을 차단하여 오직 창의적 글쓰기와 아이디어 구상에만 전력을 집중할 수 있는 최적의 신경망 환경을 제공합니다.",
-      "en": "Exposing the brain to the strong blue light of a smartphone as soon as you open your eyes in a dark room causes a sharp spike in cortisol, increasing anxiety levels.\n\nThe dawn observation practiced by Toni Morrison transmits natural, gradually brightening light through the retina, sending a peaceful awakening signal to the <strong>'suprachiasmatic nucleus,'</strong> the circadian clock regulator. This gently suppresses the sleep hormone melatonin and balances neurotransmitters that induce stable attention. Furthermore, the quiet atmosphere of the dawn eliminates unnecessary cognitive interference in the frontal lobe, providing an optimal neural environment to focus entirely on creative writing and ideas.",
-      "ja": "暗い部屋で目を開けるとすぐにスマートフォンの強いブルーライトに脳がさらされると、コルチゾールが急激に上昇し、不安レベルが高まります。\n\nトニ・モリソンが実践した夜明けの観察は、自然で徐々に明るくなる光を網膜を通して伝達し、 概日時計の調節因子である<strong>「視交叉上核」 に平和な目覚めの信号を</strong>送ります。これにより、睡眠ホルモンのメラトニンが穏やかに抑制され、安定した注意力をもたらす神経伝達物質のバランスがとれます。さらに、夜明けの静かな雰囲気は、前頭葉における不必要な認知的干渉を排除し、創造的な執筆やアイデアに完全に集中するための最適な神経環境を提供します。",
-      "zh": "当你在黑暗的房间里睁开眼睛时，大脑就会暴露在智能手机的强蓝光下，导致皮质醇急剧上升，从而增加焦虑水平。\n\n托尼·莫里森（Toni Morrison）进行的黎明观察通过视网膜传输自然的、逐渐变亮的光线，向生物钟调节器“视交叉上核”发送和平的唤醒信号。这会温和地抑制睡眠激素褪黑激素并平衡诱导稳定注意力的神经递质。此外，黎明的安静气氛消除了额叶不必要的认知干扰，为完全专注于创意写作和想法提供了最佳的神经环境。",
-      "es": "Exponer el cerebro a la fuerte luz azul de un teléfono inteligente tan pronto como abres los ojos en una habitación oscura provoca un fuerte aumento de cortisol, lo que aumenta los niveles de ansiedad.\n\nLa observación del amanecer practicada por Toni Morrison transmite una luz natural que se ilumina gradualmente a través de la retina, enviando una señal de despertar pacífico al <strong>'núcleo supraquiasmático'</strong>, el regulador del reloj circadiano. Esto suprime suavemente la hormona del sueño melatonina y equilibra los neurotransmisores que inducen una atención estable. Además, la atmósfera tranquila del amanecer elimina la interferencia cognitiva innecesaria en el lóbulo frontal, proporcionando un entorno neuronal óptimo para centrarse por completo en la escritura y las ideas creativas.",
-      "fr": "Exposer le cerveau à la forte lumière bleue d’un smartphone dès que vous ouvrez les yeux dans une pièce sombre provoque une forte augmentation du cortisol, augmentant ainsi le niveau d’anxiété.\n\nL'observation de l'aube pratiquée par Toni Morrison transmet une lumière naturelle qui s'éclaircit progressivement à travers la rétine, envoyant un signal d'éveil paisible au <strong>'noyau suprachiasmatique'</strong>, le régulateur de l'horloge circadienne. Cela supprime en douceur la mélatonine, l’hormone du sommeil, et équilibre les neurotransmetteurs qui induisent une attention stable. De plus, l’atmosphère calme de l’aube élimine les interférences cognitives inutiles dans le lobe frontal, offrant ainsi un environnement neuronal optimal pour se concentrer entièrement sur l’écriture créative et les idées.",
-      "de": "Wenn Sie Ihr Gehirn dem starken blauen Licht eines Smartphones aussetzen, sobald Sie in einem dunklen Raum die Augen öffnen, steigt der Cortisolspiegel stark an und das Angstniveau steigt.\n\nDie von Toni Morrison praktizierte Morgendämmerungsbeobachtung überträgt natürliches, allmählich heller werdendes Licht durch die Netzhaut und sendet ein friedliches Erwachenssignal an den „suprachiasmatischen Kern“, den Regulator der zirkadianen Uhr. Dadurch wird das Schlafhormon Melatonin sanft unterdrückt und Neurotransmitter ausgeglichen, die eine stabile Aufmerksamkeit bewirken. Darüber hinaus eliminiert die ruhige Atmosphäre der Morgendämmerung unnötige kognitive Störungen im Frontallappen und bietet eine optimale neuronale Umgebung, um sich ganz auf kreatives Schreiben und Ideen zu konzentrieren.",
-      "pt": "Expor o cérebro à forte luz azul de um smartphone assim que você abre os olhos em um quarto escuro causa um aumento acentuado no cortisol, aumentando os níveis de ansiedade.\n\nA observação do amanhecer praticada por Toni Morrison transmite luz natural, gradualmente iluminada, através da retina, enviando um sinal de despertar pacífico ao <strong>'núcleo supraquiasmático'</strong>, o regulador do relógio circadiano. Isso suprime suavemente o hormônio do sono melatonina e equilibra os neurotransmissores que induzem a atenção estável. Além disso, a atmosfera tranquila do amanhecer elimina interferências cognitivas desnecessárias no lobo frontal, proporcionando um ambiente neural ideal para se concentrar inteiramente na escrita e nas ideias criativas.",
-      "id": "Memaparkan otak ke cahaya biru yang kuat dari ponsel pintar segera setelah Anda membuka mata di ruangan gelap menyebabkan lonjakan tajam kortisol, sehingga meningkatkan tingkat kecemasan.\n\nPengamatan fajar yang dilakukan oleh Toni Morrison memancarkan cahaya alami yang semakin terang secara bertahap melalui retina, mengirimkan sinyal kebangkitan yang damai ke <strong>'inti suprachiasmatic'</strong>, pengatur jam sirkadian. Ini dengan lembut menekan hormon tidur melatonin dan menyeimbangkan neurotransmiter yang menghasilkan perhatian stabil. Selain itu, suasana fajar yang tenang menghilangkan gangguan kognitif yang tidak perlu di lobus frontal, menyediakan lingkungan saraf yang optimal untuk fokus sepenuhnya pada penulisan dan ide kreatif."
+      "ko": "어두운 방에서 눈을 뜨자마자 스마트폰의 강력한 청색광(Blue Light)에 뇌를 노출하면 뇌는 스트레스 신호인 코르티솔을 비정상적으로 급증시켜 불안지수를 높입니다.\n\n토니 모리슨이 행한 여명 관찰은 점진적으로 밝아오는 자연 광선을 망막에 투과시켜 생체 시계 조절 영역인 <strong>'교차상핵(Suprachiasmatic Nucleus)'</strong>에 평화로운 각성 신호를 보냅니다. 이는 수면 호르몬인 멜라토닌 분비를 부드럽게 억제하고 안정적인 주의력을 유도하는 신경전달물질의 균형을 가져옵니다. 또한, 방해 요소가 전혀 없는 새벽의 차분한 분위기는 뇌의 전두엽 영역에 불필요한 인지 간섭을 차단하여 오직 창의적 글쓰기와 아이디어 구상에만 전력을 집중할 수 있는 최적의 신경망 환경을 제공합니다."
     },
     "cautionTitle": {
-      "ko": "자연광이 눈에 닿는 동안 어떤 전자기기도 터치하지 마세요",
-      "en": "Do not forget to avoid digital screens when natural light reaches your eyes",
-      "ja": "自然光が目に入るときは、デジタル画面を避けることを忘れないでください。",
-      "zh": "当自然光照射到您的眼睛时，请不要忘记避开数码屏幕",
-      "es": "No olvides evitar las pantallas digitales cuando la luz natural llegue a tus ojos.",
-      "fr": "N'oubliez pas d'éviter les écrans numériques lorsque la lumière naturelle atteint vos yeux",
-      "de": "Vergessen Sie nicht, digitale Bildschirme zu meiden, wenn natürliches Licht Ihre Augen erreicht",
-      "pt": "Não se esqueça de evitar telas digitais quando a luz natural atingir seus olhos",
-      "id": "Jangan lupa untuk menghindari layar digital saat cahaya alami masuk ke mata Anda"
+      "ko": "자연광이 눈에 닿는 동안 어떤 전자기기도 터치하지 마세요"
     },
     "cautionDesc": {
-      "ko": "새벽 루틴의 가장 큰 파괴자는 스마트폰 메시지와 뉴스 알림입니다. 눈을 뜨고 여명을 관찰하는 5분 동안은 절대 디지털 기기의 화면을 켜지 않아야 합니다. 차분히 깨어나는 망막과 뇌세포에 시각적 소음을 끼얹지 않고 자연스러운 햇빛의 흐름을 뇌에 입력하십시오.",
-      "en": "The biggest destroyer of a morning routine is smartphone messages and news notifications. During the 5 minutes of watching the dawn, never turn on the screen of a digital device. Avoid pouring visual noise onto your waking retina and brain cells, and let natural light enter your brain.",
-      "ja": "朝のルーティンを破壊する最大の要因は、スマートフォンのメッセージとニュース通知です。夜明けを眺める 5 分間は、決してデジタル機器の画面をオンにしないでください。起きている網膜や脳細胞に視覚的なノイズが降り注ぐのを避け、自然光を脳に取り込みましょう。",
-      "zh": "早晨例行公事的最大破坏者是智能手机消息和新闻通知。在观看黎明的5分钟内，切勿打开数码设备的屏幕。避免将视觉噪音倒入您清醒的视网膜和脑细胞上，让自然光进入您的大脑。",
-      "es": "El mayor destructor de la rutina matutina son los mensajes de los teléfonos inteligentes y las notificaciones de noticias. Durante los 5 minutos de contemplar el amanecer, nunca enciendas la pantalla de un dispositivo digital. Evite verter ruido visual en la retina y las células cerebrales despiertas, y permita que la luz natural entre en su cerebro.",
-      "fr": "Les messages sur smartphone et les notifications d'actualités sont les plus grands destructeurs de la routine matinale. Pendant les 5 minutes d’observation de l’aube, n’allumez jamais l’écran d’un appareil numérique. Évitez de déverser du bruit visuel sur votre rétine et vos cellules cérébrales éveillées et laissez la lumière naturelle pénétrer dans votre cerveau.",
-      "de": "Der größte Zerstörer einer Morgenroutine sind Smartphone-Nachrichten und Nachrichtenbenachrichtigungen. Schalten Sie während der 5 Minuten, in denen Sie die Morgendämmerung beobachten, niemals den Bildschirm eines digitalen Geräts ein. Vermeiden Sie visuelles Rauschen auf Ihre wache Netzhaut und Ihre Gehirnzellen und lassen Sie natürliches Licht in Ihr Gehirn eindringen.",
-      "pt": "O maior destruidor da rotina matinal são as mensagens do smartphone e as notificações de notícias. Durante os 5 minutos assistindo ao amanhecer, nunca ligue a tela de um aparelho digital. Evite derramar ruído visual na retina e nas células cerebrais e deixe a luz natural entrar em seu cérebro.",
-      "id": "Penghancur terbesar rutinitas pagi hari adalah pesan ponsel pintar dan notifikasi berita. Selama 5 menit menonton fajar, jangan pernah menyalakan layar perangkat digital. Hindari menuangkan gangguan visual ke retina dan sel otak Anda saat bangun tidur, dan biarkan cahaya alami masuk ke otak Anda."
+      "ko": "새벽 루틴의 가장 큰 파괴자는 스마트폰 메시지와 뉴스 알림입니다. 눈을 뜨고 여명을 관찰하는 5분 동안은 절대 디지털 기기의 화면을 켜지 않아야 합니다. 차분히 깨어나는 망막과 뇌세포에 시각적 소음을 끼얹지 않고 자연스러운 햇빛의 흐름을 뇌에 입력하십시오."
     },
     "steps": [
       {
         "name": {
-          "ko": "새벽 시각 고요 속에서의 기상",
-          "en": "Waking Up in Pre-Dawn Silence",
-          "ja": "夜明け前の静寂の中で目覚める",
-          "zh": "在黎明前的寂静中醒来",
-          "es": "Despertar en el silencio previo al amanecer",
-          "fr": "Se réveiller dans le silence d'avant l'aube",
-          "de": "Aufwachen in der Stille vor der Morgendämmerung",
-          "pt": "Acordando no silêncio antes do amanhecer",
-          "id": "Bangun dalam Keheningan Menjelang Fajar"
+          "ko": "새벽 시각 고요 속에서의 기상"
         },
         "text": {
-          "ko": "하루가 완전히 깨어나기 전의 고요한 시간(가급적 아침 5시~6시)에 일어납니다. 절대 스마트폰 화면이나 조명을 바로 켜지 않고 가만히 뇌를 깨웁니다.",
-          "en": "Wake up in the quiet hours before the day fully starts (preferably 5:00 a.m. to 6:00 a.m.). Do not turn on your smartphone screen or artificial lights immediately, letting the brain wake up gently.",
-          "ja": "一日が完全に始まる前の静かな時間帯（できれば午前5時から6時）に起きましょう。すぐにスマートフォンの画面や人工照明をオンにせず、脳を穏やかに目覚めさせてください。",
-          "zh": "在新的一天开始前的安静时间（最好是凌晨 5:00 至早上 6:00）起床。不要立即打开智能手机屏幕或人造灯，让大脑轻轻醒来。",
-          "es": "Despierte en las horas tranquilas antes de que comience el día por completo (preferiblemente entre las 5:00 a. m. y las 6:00 a. m.). No enciendas la pantalla de tu teléfono inteligente ni las luces artificiales inmediatamente, deja que el cerebro se despierte suavemente.",
-          "fr": "Réveillez-vous aux heures calmes avant le début de la journée (de préférence entre 5h00 et 6h00). N’allumez pas immédiatement l’écran de votre smartphone ou les lumières artificielles, laissez le cerveau se réveiller en douceur.",
-          "de": "Wachen Sie in den ruhigen Stunden auf, bevor der Tag richtig beginnt (vorzugsweise zwischen 5:00 und 6:00 Uhr). Schalten Sie den Bildschirm Ihres Smartphones oder das künstliche Licht nicht sofort ein und lassen Sie das Gehirn sanft aufwachen.",
-          "pt": "Acorde nas horas tranquilas antes do início do dia (de preferência das 5h00 às 6h00). Não ligue a tela do smartphone ou luzes artificiais imediatamente, deixando o cérebro acordar suavemente.",
-          "id": "Bangunlah pada jam-jam tenang sebelum hari dimulai sepenuhnya (sebaiknya pukul 05.00 hingga 06.00). Jangan langsung menyalakan layar smartphone atau lampu buatan, biarkan otak terbangun dengan lembut."
+          "ko": "하루가 완전히 깨어나기 전의 고요한 시간(가급적 아침 5시~6시)에 일어납니다. 절대 스마트폰 화면이나 조명을 바로 켜지 않고 가만히 뇌를 깨웁니다."
         }
       },
       {
         "name": {
-          "ko": "따뜻한 음료와 5분 여명 관찰",
-          "en": "Warm Drink and 5-Minute Light Observation",
-          "ja": "温かい飲み物と5分間の光観察",
-          "zh": "温饮和 5 分钟光照观察",
-          "es": "Bebida caliente y observación de luz de 5 minutos.",
-          "fr": "Boisson chaude et observation de la lumière pendant 5 minutes",
-          "de": "Warmes Getränk und 5-minütige Lichtbeobachtung",
-          "pt": "Bebida quente e observação de luz por 5 minutos",
-          "id": "Minuman Hangat dan Observasi Cahaya 5 Menit"
+          "ko": "따뜻한 음료와 5분 여명 관찰"
         },
         "text": {
-          "ko": "따뜻한 커피나 차 한 잔을 내린 뒤, 서재나 거실 창가로 다가갑니다. 양손으로 잔의 따뜻함을 느끼며 외부 하늘의 푸르스름한 새벽빛과 여명이 드는 풍경을 5분간 온전히 응시합니다.",
-          "en": "Brew a warm cup of coffee or tea, and approach the window. Feeling the warmth of the mug with both hands, stare at the bluish pre-dawn sky and the landscape lighting up for 5 minutes.",
-          "ja": "温かいコーヒーか紅茶を淹れて、窓に近づいてください。マグカップの温もりを両手で感じながら、夜明け前の青みがかった空とライトアップされる風景を5分間見つめる。",
-          "zh": "泡一杯热咖啡或茶，然后走到窗户边。用双手感受杯子的温暖，凝视黎明前的蓝色天空和亮起的风景 5 分钟。",
-          "es": "Prepare una taza de café o té caliente y acérquese a la ventana. Sintiendo el calor de la taza con ambas manos, contempla el cielo azulado antes del amanecer y el paisaje iluminándose durante 5 minutos.",
-          "fr": "Préparez une tasse de café ou de thé chaud et approchez-vous de la fenêtre. En sentant la chaleur de la tasse avec les deux mains, regardez le ciel bleuâtre avant l'aube et le paysage s'illuminer pendant 5 minutes.",
-          "de": "Bereiten Sie eine warme Tasse Kaffee oder Tee zu und gehen Sie ans Fenster. Spüren Sie die Wärme der Tasse mit beiden Händen und starren Sie 5 Minuten lang auf den bläulichen Himmel vor der Morgendämmerung und die erleuchtete Landschaft.",
-          "pt": "Prepare uma xícara de café ou chá quente e aproxime-se da janela. Sentindo o calor da caneca com as duas mãos, observe o céu azulado da madrugada e a paisagem iluminada por 5 minutos.",
-          "id": "Seduh secangkir kopi atau teh hangat, dan dekati jendela. Rasakan hangatnya cangkir dengan kedua tangan, tataplah langit menjelang fajar yang kebiruan dan pemandangan alam yang menyala selama 5 menit."
+          "ko": "따뜻한 커피나 차 한 잔을 내린 뒤, 서재나 거실 창가로 다가갑니다. 양손으로 잔의 따뜻함을 느끼며 외부 하늘의 푸르스름한 새벽빛과 여명이 드는 풍경을 5분간 온전히 응시합니다."
         }
       },
       {
         "name": {
-          "ko": "스마트폰 없는 창의 아웃풋 실행",
-          "en": "Screen-Free Creative Output Execution",
-          "ja": "スクリーンフリーのクリエイティブ出力の実行",
-          "zh": "无屏幕创意输出执行",
-          "es": "Ejecución de resultados creativos sin pantalla",
-          "fr": "Exécution de sorties créatives sans écran",
-          "de": "Bildschirmfreie kreative Ausgabeausführung",
-          "pt": "Execução de saída criativa sem tela",
-          "id": "Eksekusi Output Kreatif Tanpa Layar"
+          "ko": "스마트폰 없는 창의 아웃풋 실행"
         },
         "text": {
-          "ko": "여명의 의식을 통해 주의력이 평화롭게 정돈되면 즉시 노트나 기획 서류를 열고 30분간 방해 없이 첫 번째 창의적 작업이나 일기 쓰기를 실행합니다.",
-          "en": "Once your attention is peacefully aligned through the dawn ritual, immediately open your notebook or planning documents and execute your first creative task or journaling for 30 minutes without distraction.",
-          "ja": "夜明けの儀式を通じて注意が穏やかに整ったら、すぐにノートブックや計画文書を開いて、最初の創造的なタスクや日記を 30 分間、気を散らすことなく実行してください。",
-          "zh": "一旦你的注意力通过黎明仪式平静地集中起来，立即打开你的笔记本或计划文件，并心无旁骛地执行你的第一个创造性任务或日记 30 分钟。",
-          "es": "Una vez que su atención esté alineada pacíficamente a través del ritual del amanecer, abra inmediatamente su cuaderno o documentos de planificación y ejecute su primera tarea creativa o escriba un diario durante 30 minutos sin distracciones.",
-          "fr": "Une fois que votre attention est paisiblement alignée sur le rituel de l'aube, ouvrez immédiatement votre cahier ou vos documents de planification et exécutez votre première tâche créative ou votre premier journal pendant 30 minutes sans distraction.",
-          "de": "Sobald Ihre Aufmerksamkeit durch das Morgenritual friedlich ausgerichtet ist, öffnen Sie sofort Ihr Notizbuch oder Ihre Planungsdokumente und führen Sie 30 Minuten lang ohne Ablenkung Ihre erste kreative Aufgabe oder Ihr Tagebuch aus.",
-          "pt": "Assim que sua atenção estiver pacificamente alinhada durante o ritual do amanhecer, abra imediatamente seu caderno ou documentos de planejamento e execute sua primeira tarefa criativa ou registro no diário por 30 minutos sem distração.",
-          "id": "Setelah perhatian Anda selaras dengan damai melalui ritual fajar, segera buka buku catatan atau dokumen perencanaan Anda dan jalankan tugas kreatif atau penjurnalan pertama Anda selama 30 menit tanpa gangguan."
+          "ko": "여명의 의식을 통해 주의력이 평화롭게 정돈되면 즉시 노트나 기획 서류를 열고 30분간 방해 없이 첫 번째 창의적 작업이나 일기 쓰기를 실행합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "해뜨는 시간이 계절에 따라 다른데 기상 시간을 조정해야 하나요?",
-          "en": "Should I adjust my waking time since sunrise changes with the seasons?",
-          "ja": "季節によって日の出が変わるので、起床時間を調整したほうがよいでしょうか？",
-          "zh": "由于日出随季节变化，我应该调整起床时间吗？",
-          "es": "¿Debo ajustar mi tiempo de vigilia ya que el amanecer cambia con las estaciones?",
-          "fr": "Dois-je ajuster mon heure de réveil puisque le lever du soleil change avec les saisons ?",
-          "de": "Sollte ich meine Wachzeit anpassen, da sich der Sonnenaufgang mit den Jahreszeiten ändert?",
-          "pt": "Devo ajustar meu horário de despertar, já que o nascer do sol muda com as estações?",
-          "id": "Haruskah saya menyesuaikan waktu bangun saya karena matahari terbit berubah seiring musim?"
+          "ko": "해뜨는 시간이 계절에 따라 다른데 기상 시간을 조정해야 하나요?"
         },
         "answer": {
-          "ko": "꼭 완벽히 해가 뜨는 순간에 맞출 필요는 없습니다. 계절에 관계없이 해가 뜨기 직전의 어스름하고 고요한 공기가 충만한 시점(통상 오전 5시~6시 사이)이면 충분한 뇌의 인지 리셋 효과를 얻을 수 있습니다.",
-          "en": "You do not have to align it perfectly with the exact minute of sunrise. Regardless of the season, waking up during the dim and quiet period right before sunrise (usually between 5:00 a.m. and 6:00 a.m.) is enough to gain the cognitive benefits.",
-          "ja": "日の出の正確な時刻に完全に合わせる必要はありません。季節に関係なく、日の出直前の薄暗く静かな時間帯（通常は午前5時から午前6時の間）に起きるだけで、認知的効果を得るのに十分です。",
-          "zh": "您不必将其与日出的确切分钟完美对齐。无论什么季节，在日出前昏暗安静的时段（通常在凌晨 5:00 至 6:00 之间）醒来就足以获得认知益处。",
-          "es": "No es necesario que lo alinees perfectamente con el minuto exacto de la salida del sol. Independientemente de la estación, despertarse durante el período de oscuridad y tranquilidad justo antes del amanecer (generalmente entre las 5:00 a. m. y las 6:00 a. m.) es suficiente para obtener los beneficios cognitivos.",
-          "fr": "Vous n’êtes pas obligé de l’aligner parfaitement avec la minute exacte du lever du soleil. Quelle que soit la saison, il suffit de se réveiller pendant la période sombre et calme juste avant le lever du soleil (généralement entre 5h00 et 6h00) pour bénéficier des bienfaits cognitifs.",
-          "de": "Sie müssen es nicht perfekt auf die genaue Minute des Sonnenaufgangs ausrichten. Unabhängig von der Jahreszeit reicht es aus, in der dämmrigen und ruhigen Zeit kurz vor Sonnenaufgang (normalerweise zwischen 5:00 und 6:00 Uhr) aufzuwachen, um die kognitiven Vorteile zu erzielen.",
-          "pt": "Você não precisa alinhá-lo perfeitamente com o minuto exato do nascer do sol. Independentemente da estação, acordar durante o período escuro e tranquilo logo antes do nascer do sol (geralmente entre 5h e 6h) é suficiente para obter os benefícios cognitivos.",
-          "id": "Anda tidak harus menyelaraskannya dengan tepat dengan menit terbitnya matahari. Terlepas dari musim apa pun, bangun selama periode redup dan tenang tepat sebelum matahari terbit (biasanya antara pukul 05.00 dan 06.00) sudah cukup untuk mendapatkan manfaat kognitif."
+          "ko": "꼭 완벽히 해가 뜨는 순간에 맞출 필요는 없습니다. 계절에 관계없이 해가 뜨기 직전의 어스름하고 고요한 공기가 충만한 시점(통상 오전 5시~6시 사이)이면 충분한 뇌의 인지 리셋 효과를 얻을 수 있습니다."
         }
       },
       {
         "question": {
-          "ko": "아침형 인간이 아니라서 새벽에 일어나면 너무 피곤한데 어떻게 하죠?",
-          "en": "I am not a morning person and feel too tired waking up early. What should I do?",
-          "ja": "私は朝型人間ではないので、早く起きると疲れを感じます。どうすればいいですか？",
-          "zh": "我不是一个早起的人，早起感觉太累了。我应该怎么办？",
-          "es": "No soy una persona mañanera y me siento demasiado cansado al levantarme temprano. ¿Qué tengo que hacer?",
-          "fr": "Je ne suis pas du genre matinal et je me sens trop fatigué en me réveillant tôt. Que dois-je faire?",
-          "de": "Ich bin kein Morgenmensch und fühle mich zu müde, wenn ich früh aufstehe. Was soll ich tun?",
-          "pt": "Não sou uma pessoa matutina e me sinto muito cansada ao acordar cedo. O que devo fazer?",
-          "id": "Saya bukan orang yang suka bangun pagi dan merasa terlalu lelah untuk bangun pagi. Apa yang harus saya lakukan?"
+          "ko": "아침형 인간이 아니라서 새벽에 일어나면 너무 피곤한데 어떻게 하죠?"
         },
         "answer": {
-          "ko": "처음에는 무리해서 5시 기상을 시도하기보다, 본인의 평균 기상 시간에서 20분만 앞당겨 실행해 봅니다. 일어나서 스마트폰을 바로 보지 않고 창밖을 보며 따뜻한 차를 마시는 5분의 정돈 의식 자체가 핵심입니다.",
-          "en": "Instead of forcing a 5:00 a.m. wakeup, start by shifting your normal waking time forward by just 20 minutes. The core of this routine is the 5-minute quiet ritual of looking out the window with a warm drink instead of checking your phone.",
-          "ja": "無理に午前5時に起床するのではなく、通常の起床時間を20分だけ早めることから始めましょう。このルーチンの核心は、携帯電話をチェックする代わりに、温かい飲み物を飲みながら窓の外を眺める5分間の静かな儀式です。",
-          "zh": "与其强迫早上 5:00 起床，不如先将正常起床时间提前 20 分钟。这个例程的核心是 5 分钟的安静仪式，一边喝着热饮，一边看着窗外，而不是看手机。",
-          "es": "En lugar de forzar un despertar a las 5:00 a. m., comience adelantando su hora normal de despertar solo 20 minutos. El núcleo de esta rutina es el ritual tranquilo de 5 minutos de mirar por la ventana con una bebida caliente en lugar de revisar el teléfono.",
-          "fr": "Au lieu de forcer un réveil à 5 heures du matin, commencez par avancer votre heure de réveil normale de 20 minutes seulement. Le cœur de cette routine est le rituel tranquille de 5 minutes consistant à regarder par la fenêtre avec une boisson chaude au lieu de vérifier votre téléphone.",
-          "de": "Anstatt ein Aufwachen um 5:00 Uhr zu erzwingen, beginnen Sie damit, Ihre normale Weckzeit um nur 20 Minuten nach vorne zu verschieben. Der Kern dieser Routine ist das 5-minütige ruhige Ritual, bei dem man mit einem warmen Getränk aus dem Fenster schaut, anstatt auf sein Telefon zu schauen.",
-          "pt": "Em vez de forçar o despertar às 5h, comece adiantando seu horário normal de despertar em apenas 20 minutos. O núcleo dessa rotina é o ritual tranquilo de 5 minutos de olhar pela janela com uma bebida quente em vez de verificar o telefone.",
-          "id": "Daripada memaksakan bangun jam 5 pagi, mulailah dengan memajukan waktu bangun normal Anda hanya 20 menit. Inti dari rutinitas ini adalah ritual tenang selama 5 menit dengan memandang ke luar jendela sambil membawa minuman hangat alih-alih memeriksa ponsel."
+          "ko": "처음에는 무리해서 5시 기상을 시도하기보다, 본인의 평균 기상 시간에서 20분만 앞당겨 실행해 봅니다. 일어나서 스마트폰을 바로 보지 않고 창밖을 보며 따뜻한 차를 마시는 5분의 정돈 의식 자체가 핵심입니다."
         }
       }
-    ],
-    "stepImages": [
-      "",
-      "",
-      ""
-    ],
-    "pubDate": "2026-02-27",
-    "updatedDate": "2026-02-27"
+    ]
   }
 }

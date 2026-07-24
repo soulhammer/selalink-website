@@ -16,23 +16,23 @@ faqs:
     answer: "Una pérdida repentina del apetito o heces diminutas son signos tempranos de estasis gastrointestinal. Dado que el detenimiento del intestino de un conejo puede ser fatal rápidamente, comuníquese con un veterinario de animales exóticos de inmediato."
 ---
 
-Con orejas diminutas y un cuerpo redondo y compacto, el conejo enano de Holanda es adorado en todo el mundo. Sin embargo, su pequeño tamaño los hace asustarse fácilmente, y son altamente propensos a problemas potencialmente mortales como la estasis gastrointestinal (GI Stasis) si la ingesta de fibra es insuficiente. Cuando están ansiosos, golpean el suelo con sus patas traseras como una fuerte señal de warning. Hoy, PetSelf analiza estos comportamientos de golpes de patas y comparte una rutina de cuidado en el hogar de 3 pasos para la salud digestiva y la seguridad de las uñas.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Evidencia Veterinaria y Comportamental
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Directrices Médicas de la House Rabbit Society y Estándares Veterinarios de Animales Pequeños</strong>.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Conejo Enano de Holanda (Netherland Dwarf Rabbit) Perfil principal
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil media</span><span class="font-bold text-slate-800 dark:text-slate-200">8 ~ 12 años</span></div>
@@ -43,7 +43,7 @@ Con orejas diminutas y un cuerpo redondo y compacto, el conejo enano de Holanda 
 
 ## 1. Expresión emocional del conejo enano: golpes de patas y chirrido de dientes
 
-Los conejos enanos de Holanda golpean sus patas traseras con fuerza contra el suelo 'Golpes de patas traseras (Thumping)' para advertir de un peligro o expresar frustración profunda. Por el contrario, cuando están relajados y felices, frotan ligeramente sus dientes para producir un suave sonido de clic llamado 'Chirrido de dientes (Teeth Purring)'. Reconocer estas señales asegura un vínculo feliz y saludable.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Los conejos enanos de Holanda golpean sus patas traseras con fuerza contra el su
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Suministro de heno Timothy alto en fibra y agua fresca</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Para el desgaste de los dientes y una digestión activa, llene el comedero con heno Timothy fresco y libre de polvo, y limpie el tazón de agua.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Los conejos enanos de Holanda golpean sus patas traseras con fuerza contra el su
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Limpieza de la caja de arena e inspección de pododermatitis</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Limpie la caja de arena para mantener la higiene, y verifique sus almohadillas para prevenir la pododermatitis (sore hocks) causada por pisos resbaladizos o duros.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Los conejos enanos de Holanda golpean sus patas traseras con fuerza contra el su
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Revisión de juguetes para masticar y corte regular de uñas</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Proporcione ramas frescas de manzano para satisfacer su instinto de masticación y verifique el largo de las uñas para evitar enganches o heridas.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Los conejos enanos de Holanda golpean sus patas traseras con fuerza contra el su
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Embora o tratamento veterinário é importante, proporcionar um ambiente seguro (rampas, espaços verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Los conejos enanos de Holanda golpean sus patas traseras con fuerza contra el su
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      No. Los conejos tienen la piel muy delgada y mojarse puede causar hipotermia severa o shock fatal. Se limpian solos mediante el acicalamiento. Solo limpie las áreas sucias localizadas suavemente con una toalla húmeda.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Los conejos enanos de Holanda golpean sus patas traseras con fuerza contra el su
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Una pérdida repentina del apetito o heces diminutas son signos tempranos de estasis gastrointestinal. Dado que el detenimiento del intestino de un conejo puede ser fatal rápidamente, comuníquese con un veterinario de animales exóticos de inmediato.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </details>
 </div>

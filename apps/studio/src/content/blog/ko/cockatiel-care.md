@@ -18,17 +18,7 @@ faqs:
 
 노란 뺨과 머리 위 우아한 벼슬(우관)이 특징인 왕관앵무(Cockatiel)는 전 세계 반려조류 집사들에게 가장 사랑받는 소형 앵무새 품종입니다. 사람과의 강한 유대감을 형성하고 멜로디 휘파람을 즐기지만, 야생에서의 천적 경계 본능이 남아있어 밤중에 작은 빛이나 소음에도 크게 놀라 새장 속에서 날뛰는 '나이트 파닉(Night Fright)'을 겪기 쉽습니다. 조류 수의사 협회(AAV)의 지침을 바탕으로, 왕관앵무의 감정 시그널을 읽고 건강한 조류 생활을 돕는 루틴을 안내합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      수의학적 & 행동학적 근거
-    </h5>
-    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Association of Avian Veterinarians (AAV) & Avian Behavior Advisory Standards</strong>에 기반하고 있습니다.
-    </p>
-  </div>
-</div>
+이러한 규칙적인 습관과 몰입 루틴은 뇌의 전두엽 및 신경 가소성을 활성화하여 일상의 집중력과 뇌 피로 회복을 극대화합니다.
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">

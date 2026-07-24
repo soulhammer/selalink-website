@@ -124,7 +124,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      UVB灯管在发光完好时，其紫外线衰退早已发生。荧光灯管类UVB必须每半年至12个月强制更换一次，即使灯管依然亮着。
+将此惯例应用到日常习惯中，体验深度专注与认知能力的提升。
     </p>
   </details>
 

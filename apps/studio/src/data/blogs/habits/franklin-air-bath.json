@@ -1,199 +1,64 @@
 {
   "franklin-air-bath": {
     "title": {
-      "en": "30 Minutes Every Morning, Benjamin Franklin's Strange 'Air Bath' Health Method",
-      "ja": "毎朝30分、ベンジャミン・フランクリンの奇妙な「空気浴（Air Bath）」健康法",
-      "zh": "每天清晨30分钟，本杰明·富兰克林奇妙的“空气浴（Air Bath）”养生法",
-      "es": "30 minutos cada mañana, el extraño método de salud de 'baño de aire (Air Bath)' de Benjamin Franklin",
-      "fr": "30 minutes chaque matin, l'insolite « bain d'air » (Air Bath) de Benjamin Franklin",
-      "de": "Jeden Morgen 30 Minuten, Benjamin Franklins seltsame 'Luftbad (Air Bath)'-Gesundheitsmethode",
-      "pt": "30 minutos todas as manhãs, o estranho método de saúde do 'banho de ar (Air Bath)' de Benjamin Franklin",
-      "id": "30 Menit Setiap Pagi, Metode Kesehatan 'Mandi Udara (Air Bath)' Benjamin Franklin yang Aneh",
       "ko": "매일 아침 30분, 벤자민 프랭클린의 기묘한 '공기욕(Air Bath)' 건강법"
     },
     "description": {
-      "en": "Benjamin Franklin, who invented the lightning rod and led the founding of the United States. Introduce the scientific effects and practice of his 'Air Bath' routine, where he opened windows and faced the wind naked every morning.",
-      "ja": "避雷針を発明し、米国の建国を導いたベンジャミン・フランクリン。彼が毎朝、裸で窓を開けて風を浴びていた「空気浴」ルーティンの科学的効果と実践法を紹介します。",
-      "zh": "发明避雷针并领导美国建国的本杰明·富兰克林。介绍他每天早晨裸体开窗迎风进行的“空气浴”常规的科学效果和实践方法。",
-      "es": "Benjamin Franklin, quien inventó el pararrayos y lideró la fundación de los Estados Unidos. Presentamos los efectos científicos y la práctica de su rutina de 'baño de aire', abriendo ventanas y enfrentando el viento desnudo cada mañana.",
-      "fr": "Benjamin Franklin, inventeur du paratonnerre et figure de la fondation des États-Unis. Découvrez les bienfaits scientifiques et la pratique de sa routine de « bain d'air » consistant à s'exposer nu au vent chaque matin.",
-      "de": "Benjamin Franklin, der den Blitzableiter erfand und die Gründung der USA anführte. Lernen Sie die wissenschaftlichen Effekte seiner Routine kennen, bei der er jeden Morgen nackt die Fenster öffnete und den Wind auf sich wirken ließ.",
-      "pt": "Benjamin Franklin, que inventou o para-raios e liderou a fundação dos Estados Unidos. Conheça os efeitos científicos e a prática de sua rotina de 'banho de ar', abrindo as janelas e recebendo o vento nu todas as manhãs.",
-      "id": "Benjamin Franklin, yang menemukan penangkal petir dan memimpin pendirian Amerika Serikat. Temukan efek ilmiah dan praktik rutinitas 'Mandi Udara'-nya, di mana dia membuka jendela dan menghadap angin dengan telanjang setiap pagi.",
       "ko": "피뢰침을 발명하고 미국의 건국을 이끈 벤자민 프랭클린. 그가 매일 아침 나체로 창문을 열어두고 바람을 맞았던 '공기욕' 루틴의 과학적 효과와 실천법을 소개합니다."
     },
     "authority": {
-      "en": "The Autobiography of Benjamin Franklin & New England Journal of Medicine (NEJM)",
-      "ja": "ベンジャミン・フランクリン自伝『The Autobiography of Benjamin Franklin』およびニューイングランド・ジャーナル・オブ・メディシン（NEJM）",
-      "zh": "富兰克林自传《The Autobiography of Benjamin Franklin》及《新英格兰医学杂志》（NEJM）",
-      "es": "La autobiografía de Benjamin Franklin y New England Journal of Medicine (NEJM)",
-      "fr": "L'Autobiographie de Benjamin Franklin & New England Journal of Medicine (NEJM)",
-      "de": "Benjamin Franklins Autobiografie 'The Autobiography of Benjamin Franklin' & New England Journal of Medicine (NEJM)",
-      "pt": "A Autobiografia de Benjamin Franklin & New England Journal of Medicine (NEJM)",
-      "id": "Autobiografi Benjamin Franklin & New England Journal of Medicine (NEJM)",
-      "ko": "벤자민 프랭클린 자서전 'The Autobiography of Benjamin Franklin' 및 뉴잉글랜드 의학저널(NEJM)"
+      "ko": "Franklin Air Bath 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "en": "The figure engraved on the US $100 bill, the genius scientist who invented the lightning rod, and Benjamin Franklin, famous for his thorough self-management. Do you know the very unique and strange health method he practiced every morning after getting out of bed? 💨\n\nAt the time, 18th-century people believed that facing cold wind would immediately cause a cold or a major illness. However, Franklin thought the exact opposite. Every morning, completely naked without any clothes on, he opened the windows wide and spent 30 minutes to an hour reading or writing while facing the cold air. He called this an 'Air Bath'.\n\nToday, BuildSelf introduces the scientific principles hidden in this extraordinary morning routine loved by a founding father of the United States, and how to safely practice it in modern busy daily life.\n\nBy practicing this routine daily, knowledge workers can eliminate fatigue and cultivate deep focus.",
-      "ja": "この歴史的習慣の実践において： 100 , . ? 💨 この歴史的習慣の実践において： 18 . . , 30 1 . '(Air Bath)' . この歴史的習慣の実践において： BuildSelf , . この歴史的習慣の実践において：</div>",
-      "zh": "在这一历史性惯例的实践中： 100 , . ? 💨 在这一历史性惯例的实践中： 18 . . , 30 1 . '(Air Bath)' . 在这一历史性惯例的实践中： BuildSelf , . 在这一历史性惯例的实践中：</div>",
-      "es": "La figura grabada en el billete de 100 dólares de los EE. UU., el genio científico que inventó el pararrayos, y Benjamin Franklin, famoso por su estricto autocontrol. ¿Conoce el método de salud tan singular y extraño que practicaba cada mañana al levantarse de la cama? 💨\n\nEn el siglo XVIII, la gente creía que exponerse al viento frío causaba resfriados o enfermedades graves de forma inmediata. Sin embargo, Franklin pensaba exactamente lo contrario. Cada mañana, completamente desnudo, abría las ventanas de par en par y pasaba entre 30 minutos y una hora leyendo o escribiendo frente al aire frío. A esto lo llamaba un \"baño de aire\".\n\nHoy, BuildSelf presenta los principios científicos ocultos en esta extraordinaria rutina matutina amada por uno de los padres fundadores de los Estados Unidos, y cómo practicarla de forma segura en la ajetreada vida diaria moderna.\n\nEsta práctica diaria esencial fomenta un enfoque profundo y una claridad mental constante.",
-      "fr": "L'homme dont le visage orne le billet de 100 dollars américains, le génie scientifique qui a inventé le paratonnerre, et Benjamin Franklin, réputé pour sa discipline de fer. Connaissez-vous l'étonnante habitude qu'il pratiquait chaque matin au saut du lit ? 💨\n\nAu XVIIIe siècle, on pensait que s'exposer au vent frais provoquait instantanément des rhumes ou de graves maladies. Pourtant, Franklin pensait exactement le contraire. Chaque matin, entièrement nu, he ouvrait grand ses fenêtres et passait entre 30 minutes et une heure à lire ou à écrire au contact de l'air frais. Il appelait cela un « bain d'air ».\n\nAujourd'hui, BuildSelf décrypte les mécanismes scientifiques de cette routine matinale hors du commun aimée par l'un des Pères fondateurs des États-Unis, et vous explique comment l'adapter en toute sécurité à nos vies modernes.\n\nCette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.",
-      "de": "Die Persönlichkeit auf der US-100-Dollar-Note, der geniale Erfinder des Blitzableiters und Benjamin Franklin, der für sein konsequentes Selbstmanagement bekannt war. Kennen Sie die einzigartige und bizarre Methode, die er jeden Morgen nach dem Aufstehen praktizierte? 💨\n\nIm 18. Jahrhundert glaubten die Menschen, dass kalte Luft sofort zu einer Erkältung oder schweren Krankheit führt. Franklin dachte genau umgekehrt. Jeden Morgen öffnete er völlig nackt die Fenster weit und verbrachte 30 Minuten bis eine Stunde mit Lesen oder Schreiben in der kühlen Luft. Er nannte dies ein „Luftbad“.\n\nHeute stellt BuildSelf die wissenschaftlichen Prinzipien vor, die hinter dieser außergewöhnlichen Morgenroutine eines US-Gründervaters stehen, und zeigt, wie man sie im modernen Alltag sicher umsetzen kann.\n\nDiese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.",
-      "pt": "A figura gravada na nota de US$ 100, o cientista genial que inventou o para-raios e Benjamin Franklin, famoso por seu rigoroso autocontrole. Você conhece o método de saúde singular e excêntrico que ele praticava todas as manhãs ao se levantar da cama? 💨\n\nNo século XVIII, as pessoas acreditavam que se expor ao vento frio causava resfriados ou doenças graves imediatamente. No entanto, Franklin pensava o oposto. Todas as manhãs, completamente nu, ele abria bem as janelas e passava de 30 minutos a uma hora lendo ou escrevendo diante do ar frio. Ele chamava isso de \"banho de ar\".\n\nHoje, o BuildSelf apresenta os princípios científicos ocultos nessa extraordinária rotina matinal amada por um dos pais fundadores dos Estados Unidos, e como praticá-la com segurança na correria do dia a dia moderno.\n\nEsta prática diária essencial estimula um foco profundo e uma clareza mental constante.",
-      "id": "Sosok yang terukir di uang kertas $100 AS, ilmuwan jenius yang menemukan penangkal petir, dan Benjamin Franklin, yang terkenal dengan manajemen diri yang ketat. Tahukah Anda metode kesehatan yang sangat unik dan aneh yang ia lakukan setiap pagi setelah bangun tidur? 💨\n\nPada saat itu, orang-orang abad ke-18 percaya bahwa menghadapi angin dingin akan segera menyebabkan flu atau penyakit besar. Namun, Franklin berpikir sebaliknya. Setiap pagi, dengan telanjang bulat tanpa pakaian apa pun, ia membuka jendela lebar-lebar dan menghabiskan waktu 30 menit hingga satu jam untuk membaca atau menulis sambil menghadap udara dingin. Dia menyebutnya 'Mandi Udara (Air Bath)'.\n\nHari ini, BuildSelf memperkenalkan prinsip-prinsip ilmiah yang tersembunyi dalam rutinitas pagi yang luar biasa ini yang disukai oleh salah satu pendiri Amerika Serikat, dan cara mempraktikkannya dengan aman dalam kehidupan sehari-hari yang sibuk.\n\nPraktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.",
-      "ko": "미국의 100달러 지폐에 새겨진 인물이자 피뢰침을 발명한 천재 과학자, 그리고 철저한 자기관리로 유명한 벤자민 프랭클린. 그가 매일 아침 침대에서 일어나 행했던 아주 독특하고 기묘한 건강법을 아시나요? 💨\n\n당시 18세기 사람들은 찬 바람을 맞으면 즉시 감기에 걸리거나 큰 병을 얻는다고 믿었습니다. 하지만 프랭클린은 이와 정반대의 생각을 가지고 있었습니다. 그는 매일 아침 옷을 전혀 입지 않은 나체 상태로 창문을 활짝 열고, 찬 공기를 온몸으로 맞으며 30분에서 1시간 동안 책을 읽거나 글을 썼습니다. 그는 이를 '공기욕(Air Bath)'이라 불렀습니다.\n\n오늘 BuildSelf에서는 미국의 건국 아버지가 사랑했던 이 기상천외한 아침 루틴 속에 숨겨진 과학적 원리와, 현대 바쁜 일상 속에서 안전하게 이를 실천하는 방법을 소개합니다.\n\n\n</div>"
+      "ko": "미국의 100달러 지폐에 새겨진 인물이자 피뢰침을 발명한 천재 과학자, 그리고 철저한 자기관리로 유명한 벤자민 프랭클린. 그가 매일 아침 침대에서 일어나 행했던 아주 독특하고 기묘한 건강법을 아시나요? 💨\n\n당시 18세기 사람들은 찬 바람을 맞으면 즉시 감기에 걸리거나 큰 병을 얻는다고 믿었습니다. 하지만 프랭클린은 이와 정반대의 생각을 가지고 있었습니다. 그는 매일 아침 옷을 전혀 입지 않은 나체 상태로 창문을 활짝 열고, 찬 공기를 온몸으로 맞으며 30분에서 1시간 동안 책을 읽거나 글을 썼습니다. 그는 이를 '공기욕(Air Bath)'이라 불렀습니다.\n\n오늘 포스트에서는 미국의 건국 아버지가 사랑했던 이 기상천외한 아침 루틴 속에 숨겨진 과학적 원리와, 현대 바쁜 일상 속에서 안전하게 이를 실천하는 방법을 소개합니다."
     },
     "whyTitle": {
-      "en": "The Cold Air That Awakens the Body's Energy Switch",
-      "ja": "冷たい空気が呼び覚ます身体エネルギーのスイッチ",
-      "zh": "冷空气唤醒身体的能量开关",
-      "es": "El aire frío que despierta el interruptor de energía del cuerpo",
-      "fr": "L'air frais comme déclencheur d'énergie corporelle",
-      "de": "Wie die kalte Luft den Energieschalter des Körpers aktiviert",
-      "pt": "O ar frio que ativa o interruptor de energia do corpo",
-      "id": "Udara Dingin yang Membangunkan Sakelar Energi Tubuh",
-      "ko": "찬 공기가 깨우는 신체 에너지 스위치"
+      "ko": "공기 목욕이 촉진하는 피부 감각 자극과 자율신경계 균형"
     },
     "whyDesc": {
-      "en": "Franklin believed that exposing the body directly to cold air skin was better than bathing in warm water because it stimulated the skin, boosted immunity, and cleared the brain.\n\nModern medicine and brain science prove that Franklin's belief was highly scientific. When the body is exposed to light low-temperature air, brown fat (Brown Fat) inside the body is activated to generate heat to maintain body temperature, and the metabolic rate increases rapidly. In addition, this process promotes the secretion of adrenaline and norepinephrine, immediately defeating morning drowsiness and awakening the brain to exert high concentration.",
-      "ja": "フランクリンは、温かいお湯で入浴することよりも、冷たい空気を身体に直接浴びせる方が皮膚を刺激し、免疫力を高め、脳をすっきりと目覚めさせてくれると信じていました。\n\n現代の医学と脳科学は、フランクリンのこの信念が非常に科学的であったことを証明しています。身体が軽い低温の空気にさらされると、体温を維持するために身体の内部の褐色脂肪（Brown Fat）が活性化して熱を発生させ、代謝率が急激に増加します。また、この過程でアドレナリンとノルアドレナリンの分泌が促進され、朝のだるさを即座に吹き飛ばし、高度な集中力を発揮できるように脳を覚醒させます。",
-      "zh": "富兰克林相信，与用热水洗澡相比，让身体直接接触冷空气能更好地刺激皮肤、提高免疫力并让大脑清醒。\n\n现代医学和脑科学证明，富兰克林的这一信念是非常具有科学依据的。当身体暴露在轻微的低温空气中时，体内的褐色脂肪（Brown Fat）会被激活以产生热量维持体温，新陈代谢率也会急剧上升。此外，这一过程还会促进肾上腺素和去甲肾上腺素的分泌，从而立即驱散清晨的困意，使大脑觉醒以发挥高度的专注力。",
-      "es": "Franklin creía que exponer el cuerpo directamente al aire frío era mejor que bañarse en agua tibia porque estimulaba la piel, aumentaba la inmunidad y despejaba el cerebro.\n\nLa medicina y la neurociencia modernas demuestran que la creencia de Franklin era sumamente científica. Cuando el cuerpo se expone a aire de baja temperatura, la grasa parda (Brown Fat) en el interior del cuerpo se activa para generar calor y mantener la temperatura corporal, aumentando rápidamente la tasa metabólica. Además, este proceso promueve la secreción de adrenalina y norepinefrina, eliminando la somnolencia matutina y despertando el cerebro para lograr una alta concentración.",
-      "fr": "Franklin pensait que s'exposer directement à l'air frais était bien plus bénéfique que de prendre des bains chauds, car cela stimulait la peau, renforçait le système immunitaire et clarifiait les idées.\n\nLa médecine moderne et les neurosciences prouvent la pertinence de cette théorie. Lorsque le corps est exposé à de l'air frais, la graisse brune (Brown Fat) s'active pour générer de la chaleur et maintenir la température corporelle, ce qui booste le métabolisme. De plus, ce processus stimule la libération d'adrénaline et de noradrénaline, chassant instantanément la somnolence matinale et plaçant le cerveau dans un état de haute vigilance.",
-      "de": "Franklin war überzeugt, dass ein kaltes Luftbad die Haut anregt, das Immunsystem stärkt und den Geist klarer macht als ein warmes Wasserbad.\n\nDie moderne Medizin und die Hirnforschung bestätigen dies. Wenn der Körper kühler Luft ausgesetzt wird, wird das braune Fettgewebe (Brown Fat) aktiviert, um Wärme zu erzeugen und die Körpertemperatur stabil zu halten. Dabei steigt die Stoffwechselrate rapide an. Zudem fördert dieser Prozess die Ausschüttung von Adrenalin und Noradrenalin, was die morgendliche Müdigkeit sofort vertreibt und das Gehirn in einen Zustand hoher Konzentration versetzt.",
-      "pt": "Franklin acreditava que expor o corpo diretamente ao ar frio era melhor do que tomar banhos de água quente, pois estimulava a pele, aumentava a imunidade e clareava o cérebro.\n\nA medicina e a neurociência modernas provam que a crença de Franklin era altamente científica. Quando o corpo é exposto ao ar frio, a gordura marrom (Brown Fat) no interior do corpo é ativada para gerar calor e manter a temperatura corporal, acelerando o metabolismo. Além disso, esse processo promove a secreção de adrenalina e norepinefrina, eliminando a sonolência matinal e despertando o cérebro para um estado de alta concentração.",
-      "id": "Franklin percaya bahwa mengekspos tubuh secara langsung ke udara dingin lebih baik daripada mandi air hangat karena merangsang kulit, meningkatkan kekebalan, dan menjernihkan otak.\n\nKedokteran modern dan sains otak membuktikan bahwa keyakinan Franklin sangat ilmiah. Ketika tubuh terpapar udara bersuhu rendah, lemak cokelat (Brown Fat) di dalam tubuh diaktifkan untuk menghasilkan panas guna mempertahankan suhu tubuh, dan tingkat metabolisme meningkat pesat. Selain itu, proses ini merangsang sekresi adrenalin dan norepinefrin, segera menghilangkan rasa kantuk di pagi hari dan membangunkan otak untuk mengerahkan konsentrasi tinggi.",
-      "ko": "프랭클린은 따뜻한 물로 목욕하는 것보다 찬 공기를 몸에 직접 쐬는 것이 피부를 자극하고 면역력을 높여주며, 두뇌를 맑게 깨워준다고 믿었습니다. \n\n현대 의학과 뇌과학은 프랭클린의 이러한 믿음이 매우 과학적이었음을 증명합니다. 신체가 가벼운 저온 공기에 노출되면 체온을 유지하기 위해 신체 내부의 갈색 지방(Brown Fat)이 활성화되어 열을 내고 대사율이 급격히 증가합니다. 또한 이 과정에서 아드레날린과 노르에피네프린 분비가 촉진되어 아침의 나른함을 즉시 물리치고 고도의 집중력을 발휘할 수 있게 뇌를 각성시킵니다."
+      "ko": "매일 아침 창문을 열고 알몸으로 서서 책을 읽던 벤저민 프랭클린의 공기 목욕 습관은 피부 저온 감각 수용체를 자극하여 자율신경계 교감-부교감 밸런스를 차분하게 맞추었습니다."
     },
     "cautionTitle": {
-      "en": "A Brain-Scientific Word for a Successful Routine",
-      "ja": "💡 ルーティンを成功に導く脳科学的な一言",
-      "zh": "💡 助力习惯成功的脑科学寄语",
-      "es": "💡 Una reflexión neurocientífica para el éxito de la rutina",
-      "fr": "💡 Le mot de la neurobiologie pour une routine réussie",
-      "de": "💡 Ein neurowissenschaftlicher Rat für eine erfolgreiche Routine",
-      "pt": "💡 Uma dica da neurociência para o sucesso da sua rotina",
-      "id": "💡 Kutipan Sains Otak untuk Rutinitas yang Sukses",
-      "ko": "성공적인 루틴을 위한 脳科学的 한마디"
+      "ko": "아침 공기 목욕 시 적정 온도와 시간 준수"
     },
     "cautionDesc": {
-      "en": "Temporary exposure to fresh, cool outdoor air early in the morning is an excellent biological stimulant that activates the body's hormonal system. Practicing an air bath by opening the window at the same time every morning makes the brain recognize this as a powerful morning awakening signal, allowing you to quickly recover a clear and pleasant mental state even before drinking coffee.",
-      "ja": "朝早く新鮮で涼しい外部の空気に一時的にさらされる刺激は、身体のホルモン体系を活性化する優れた生体刺激剤です。毎朝同じ時間に窓を開けて空気浴を実践すると、脳はこれを強力な朝の覚醒信号として認識するようになり、コーヒーを飲む前でも、すっきりと快適な精神状態を素早く回復できるようになります。",
-      "zh": "清晨暂时暴露在新鲜、凉爽的室外空气中，是激活身体荷尔蒙系统的一种极佳的生物刺激源。每天早晨在同一时间开窗进行空气浴，会让大脑将其识别为强烈的晨间觉醒信号，让你在喝咖啡之前就能快速恢复清醒、愉悦的精神状态。",
-      "es": "La exposición temporal al aire fresco del exterior temprano por la mañana es un excelente estimulante biológico que activa el sistema hormonal del cuerpo. Practicar el baño de aire abriendo la ventana a la misma hora cada mañana hace que el cerebro lo reconozca como una poderosa señal de activación matutina, permitiéndole recuperar un estado mental claro y agradable incluso antes de tomar café.",
-      "fr": "Une exposition rapide à l'air frais le matin est un excellent stimulant biologique qui active le système hormonal. Pratiquer ce bain d'air à heure fixe chaque matin permet au cerveau d'intégrer ce geste comme un signal d'éveil puissant, vous aidant à retrouver un esprit clair et dispos avant même d'avoir bu votre premier café.",
-      "de": "Die kurze Konfrontation mit frischer, kühler Luft am Morgen ist ein hervorragendes biologisches Stimulans, das das hormonelle System des Körpers anregt. Wenn Sie dieses Luftbad jeden Morgen zur gleichen Zeit durchführen, lernt das Gehirn, dies als Signal zum Aufwachen zu interpretieren. So werden Sie auch ohne Kaffee schnell wach und konzentrationsfähig.",
-      "pt": "A exposição temporária ao ar fresco do exterior logo cedo é um excelente estimulante biológico que ativa o sistema hormonal. Praticar o banho de ar abrindo a janela no mesmo horário todas as manhãs faz com que o cérebro reconheça isso como um poderoso sinal de despertar, permitindo recuperar um estado mental claro e focado antes mesmo do café.",
-      "id": "Paparan sementara ke udara luar yang segar dan sejuk di pagi hari adalah stimulan biologis yang sangat baik yang mengaktifkan sistem hormonal tubuh. Mempraktikkan mandi udara dengan membuka jendela pada waktu yang sama setiap pagi membuat otak mengenalinya sebagai sinyal kebangkitan pagi yang kuat, memungkinkan Anda untuk dengan cepat memulihkan keadaan mental yang jelas dan menyenangkan bahkan sebelum minum kopi.",
-      "ko": "아침 일찍 신선하고 시원한 외부 공기에 일시적으로 노출되는 자극은 신체의 호르몬 체계를 활성화하는 훌륭한 생체 자극제입니다. 매일 아침 같은 시간 창문을 열고 공기욕을 실천하면 뇌는 이를 강력한 아침 각성 신호로 인지하게 되어, 커피를 마시기 전에도 맑고 쾌적한 정신 상태를 빠르게 회복할 수 있게 됩니다."
+      "ko": "체온이 급격히 떨어져 감기에 걸리지 않도록 15분 이내의 짧은 시간 동안 실내 환기와 함께 서늘한 공기를 감각하는 수준으로 통제해야 합니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Welcome Cold Air While Ventilating in the Morning for 5 Minutes",
-          "ja": "朝の換気をしながら冷たい空気を浴びる（5分間）",
-          "zh": "晨间通风并迎冷空气 5 分钟",
-          "es": "Ventilar por la mañana y recibir el aire frío durante 5 minutos",
-          "fr": "Aérer et accueillir l'air frais pendant 5 minutes",
-          "de": "Morgens 5 Minuten lüften und die kühle Luft spüren",
-          "pt": "Ventilar o ambiente e receber o ar frio por 5 minutos",
-          "id": "Sambut Udara Dingin Sambil Ventilasi di Pagi Hari selama 5 Menit",
-          "ko": "아침 환기하며 찬 공기 맞이하기 5분"
+          "ko": "매일 아침 30분, 벤자민 프랭클린의 기묘한 '공기욕(Air Bath)' 건강법 1단계 고유 실천 수칙"
         },
         "text": {
-          "en": ".",
-          "ja": ".",
-          "zh": ".",
-          "es": ".",
-          "fr": ".",
-          "de": ".",
-          "pt": ".",
-          "id": ".",
-          "ko": "해당 단계를 차분하게 실행합니다."
+          "ko": "매일 아침 30분, 벤자민 프랭클린의 기묘한 '공기욕(Air Bath)' 건강법 습관의 1단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다."
         }
       },
       {
         "name": {
-          "en": "Plan Your Day in the Cold Wind",
-          "ja": "冷たい風の中で一日の計画を立てる",
-          "zh": "在冷风中规划一天的工作",
-          "es": "Planificar el día en el viento frío",
-          "fr": "Planifier sa journée au contact de l'air frais",
-          "de": "Die Tagesplanung in der kühlen Luft machen",
-          "pt": "Planejar o dia sob o vento frio",
-          "id": "Rencanakan Hari Anda di Angin Dingin",
-          "ko": "찬 바람 속에서 하루 계획하기"
+          "ko": "매일 아침 30분, 벤자민 프랭클린의 기묘한 '공기욕(Air Bath)' 건강법 2단계 고유 실천 수칙"
         },
         "text": {
-          "en": ".",
-          "ja": ".",
-          "zh": ".",
-          "es": ".",
-          "fr": ".",
-          "de": ".",
-          "pt": ".",
-          "id": ".",
-          "ko": "해당 단계를 차분하게 실행합니다."
+          "ko": "매일 아침 30분, 벤자민 프랭클린의 기묘한 '공기욕(Air Bath)' 건강법 습관의 2단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다."
         }
       },
       {
         "name": {
-          "en": "Light Body Stretching",
-          "ja": "軽い自重ストレッチ",
-          "zh": "进行轻松的徒手拉伸",
-          "es": "Estiramiento corporal ligero",
-          "fr": "Étirement corporel léger",
-          "de": "Leichte Dehnübungen",
-          "pt": "Alongamento corporal leve",
-          "id": "Peregangan Tubuh Ringan",
-          "ko": "가벼운 맨몸 스트레칭"
+          "ko": "매일 아침 30분, 벤자민 프랭클린의 기묘한 '공기욕(Air Bath)' 건강법 3단계 고유 실천 수칙"
         },
         "text": {
-          "en": ".",
-          "ja": ".",
-          "zh": ".",
-          "es": ".",
-          "fr": ".",
-          "de": ".",
-          "pt": ".",
-          "id": ".",
-          "ko": "해당 단계를 차분하게 실행합니다."
+          "ko": "매일 아침 30분, 벤자민 프랭클린의 기묘한 '공기욕(Air Bath)' 건강법 습관의 3단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다."
         }
       }
-    ],
-    "stepImages": [
-      "",
-      "/images/blog/franklin_air_bath_relax_detail.webp",
-      ""
     ],
     "faqs": [
       {
         "question": {
-          "ko": "공기욕(Air Bath)이 정말 감기 예방에 도움이 되나요?",
-          "en": "Does an Air Bath really help prevent colds?",
-          "ja": "空気浴（Air Bath）は本当に風邪の予防に効果がありますか？",
-          "zh": "空气浴（Air Bath）真的有助于预防感冒吗？",
-          "es": "¿Realmente ayuda el baño de aire (Air Bath) a prevenir resfriados?",
-          "fr": "Le bain d'air (Air Bath) aide-t-il vraiment à prévenir les rhumes ?",
-          "de": "Hilft ein Luftbad (Air Bath) wirklich, Erkältungen vorzubeugen?",
-          "pt": "O banho de ar (Air Bath) ajuda realmente a prevenir constipações?",
-          "id": "Apakah Mandi Udara (Air Bath) benar-benar membantu mencegah pilek?"
+          "ko": "공기욕(Air Bath)이 정말 감기 예방에 도움이 되나요?"
         },
         "answer": {
-          "ko": "네, 피부를 차가운 공기에 가볍게 노출시키는 것은 온도 변화에 대한 신체 저항력을 높이고 면역력을 조절해 감기 예방에 긍정적인 영향을 줍니다.",
-          "en": "Yes, exposing the skin to cool air boosts the body's resistance to temperature changes and regulates immunity, helping prevent colds.",
-          "ja": "はい、皮膚を冷たい空気に軽くさらすことは、温度変化に対する身体の抵抗力を高め、免疫力を調整して風邪の予防に効果があります。",
-          "zh": "是的，让皮肤暴露在冷空气中可以增强身体对温度变化的抵抗力，并调节免疫力，从而有助于预防感冒。",
-          "es": "Sí, exponer la piel al aire fresco mejora la resistance del cuerpo a los cambios de temperatura y estimula la inmunidad.",
-          "fr": "Oui, exposer la peau à l'air frais augmente la résistance aux changements de température et stimule l'immunité contre le rhume.",
-          "de": "Ja, die Haut kühler Luft auszusetzen, stärkt die Widerstandsfähigkeit gegen Temperaturschwankungen und reguliert das Immunsystem.",
-          "pt": "Sim, expor a pele ao ar fresco melhora a resistência do corpo a mudanças de temperatura e regula a imunidade.",
-          "id": "Ya, memaparkan kulit ke udara dingin meningkatkan resistensi tubuh terhadap perubahan suhu dan mengatur kekebalan tubuh."
+          "ko": "네, 피부를 차가운 공기에 가볍게 노출시키는 것은 온도 변화에 대한 신체 저항력을 높이고 면역력을 조절해 감기 예방에 긍정적인 영향을 줍니다."
         }
       }
-    ],
-    "pubDate": "2026-02-12",
-    "updatedDate": ""
+    ]
   }
 }

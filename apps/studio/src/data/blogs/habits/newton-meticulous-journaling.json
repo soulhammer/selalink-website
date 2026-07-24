@@ -1,190 +1,62 @@
 {
   "newton-meticulous-journaling": {
     "title": {
-      "ko": "혼란 속에서 질서를 기록하다? 아이작 뉴턴의 연구 일지 기록 습관",
-      "en": "Isaac Newton's Waste Book: Organizing Chaos Through Meticulous Journaling",
-      "ja": "混乱の中で秩序を記録する？アイザック・ニュートンの研究日誌記録習慣",
-      "zh": "在混乱中记录秩序？艾萨克·牛顿的科研日志记录惯例",
-      "es": "El Waste Book de Isaac Newton: organizar el caos a través del registro meticuloso",
-      "fr": "Le Waste Book d'Isaac Newton : organiser le chaos par une prise de notes méticuleuse",
-      "de": "Isaac Newtons Waste Book: Chaos durch akribische Aufzeichnungen ordnen",
-      "pt": "O Waste Book de Isaac Newton: organizando o caos através do registro meticuloso",
-      "id": "Waste Book Isaac Newton: Mengatur Kekacauan Melalui Pencatatan yang Meticulous"
+      "ko": "혼란 속에서 질서를 기록하다? 아이작 뉴턴의 연구 일지 기록 습관"
     },
     "description": {
-      "ko": "인류 최고의 과학자 아이작 뉴턴. 평생 거대한 가죽 노트에 모든 통찰과 계산을 정밀하게 기록했던 그의 습관과 손으로 직접 쓰고 정리하는 행위가 주는 脳科学的 원리를 분석합니다.",
-      "en": "Isaac Newton, the greatest scientist in history. Analyze his lifelong routine of recording all insights and calculations in a large leather notebook, and the cognitive benefits of writing by hand.",
-      "ja": "人類最高の科学者アイザック・ニュートン。生涯にわたり巨大な革のノートにすべての洞察と計算を精密に記録した彼の習慣と、手で直接書いて整理する行為がもたらす脳科学的な原理を分析します。",
-      "zh": "人类历史上最伟大的科学家艾萨克·牛顿。分析他一生在巨大皮革笔记本中精准记录所有感悟与计算的习惯，以及亲手书写整理所带来的脑科学原理。",
-      "es": "Isaac Newton, el mayor científico de la historia. Analice su rutina de registrar todas sus ideas y cálculos en un cuaderno de cuero, y los beneficios cognitivos de escribir a mano.",
-      "fr": "Isaac Newton, le plus grand scientifique de l'histoire. Découvrez sa routine consistant à noter calculs et idées dans un grand carnet en cuir, et les bienfaits de l'écriture manuscrite.",
-      "de": "Isaac Newton, der größte Wissenschaftler der Geschichte. Analysieren Sie seine Routine, alle Erkenntnisse und Berechnungen in einem Lederbuch festzuhalten, und die kognitiven Vorteile des handschriftlichen Schreibens.",
-      "pt": "Isaac Newton, o maior cientista da história. Analise a sua rotina de registar todos os insights e cálculos num grande caderno de couro, e os benefícios da escrita à mão para o cérebro.",
-      "id": "Isaac Newton, ilmuwan terbesar dalam sejarah. Analisis rutinitasnya mencatat semua wawasan dan perhitungan dalam buku kulit besar, dan manfaat kognitif dari menulis dengan tangan."
+      "ko": "인류 최고의 과학자 아이작 뉴턴. 평생 거대한 가죽 노트에 모든 통찰과 계산을 정밀하게 기록했던 그의 습관과 손으로 직접 쓰고 정리하는 행위가 주는 뇌과학적 원리를 분석합니다."
     },
     "authority": {
-      "ko": "아이작 뉴턴의 가죽 노트 'The Waste Book' 필사본 및 Psychological Science",
-      "en": "Isaac Newton's Manuscript 'The Waste Book' & Psychological Science Journal",
-      "ja": "アイザック・ニュートンの手稿「The Waste Book」および学術誌「Psychological Science」",
-      "zh": "艾萨克·牛顿手稿《The Waste Book》与学术期刊《Psychological Science》",
-      "es": "Manuscrito de Isaac Newton 'The Waste Book' y revista Psychological Science",
-      "fr": "Manuscrit d'Isaac Newton 'The Waste Book' & revue Psychological Science",
-      "de": "Isaac Newtons Manuskript 'The Waste Book' & Fachzeitschrift Psychological Science",
-      "pt": "Manuscrito de Isaac Newton 'The Waste Book' & revista Psychological Science",
-      "id": "Manuskrip Isaac Newton 'The Waste Book' & Jurnal Psychological Science"
+      "ko": "아이작 뉴턴 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "만유인력의 법칙을 발견하고 미적분학을 정립하여 현대 물리학의 거대한 기틀을 놓은 역사상 가장 위대한 과학자, 아이작 뉴턴. 과학과 수학, 연금술, 신학에 이르기까지 그가 다룬 방대하고 복잡한 지식 체계는 과연 어떻게 한 사람의 머릿속에 정리될 수 있었을까요? 그 열쇠는 그가 청년 시절부터 평생을 고수해 온 철저하고 정교한 '기록 습관'에 있었습니다.\\n\\n뉴턴은 가죽으로 제본된 커다란 무지 노트(당시 'Waste Book' 또는 'Notebook'으로 불림)를 평생 곁에 두고, 떠오르는 기발한 통찰과 복잡한 미적분 공식, 관찰 일지 등을 날짜별로 정밀하게 채워 나갔습니다. 그는 생각의 흐름을 글로 적는 데 그치지 않고, 정교한 다이어그램과 도표를 그려 생각을 시각적으로 구조화했습니다. 오늘 BuildSelf에서는 뉴턴이 고수했던 'Waste Book' 일지 루틴의 脳科学的 원리와 현대인들이 복잡한 정보 과부하 속에서 아이디어를 구체화하기 위해 이를 어떻게 응용할 수 있는지 알아봅니다.",
-      "en": "Isaac Newton, the greatest scientist in history who discovered the law of universal gravitation, established calculus, and laid the foundations of modern physics. How could the vast and complex system of knowledge spanning physics, mathematics, alchemy, and theology be organized inside one person's head? The key lay in the thorough and elaborate 'writing habit' he strictly adhered to from his youth.\\n\\nNewton kept a large, leather-bound blank notebook (referred to as the 'Waste Book' or 'Notebook' at the time) by his side throughout his life, precisely filling it with brilliant insights, complex calculus formulas, and observation logs by date. He did not stop at putting his thoughts into words but drew elaborate diagrams and charts to visually structure his thinking. Today, BuildSelf introduces the neurological principles behind Newton's 'Waste Book' journaling routine and how modern people can apply it to conceptualize ideas amidst complex information overload.",
-      "ja": "この歴史的習慣の実践において： , . , , ? ' ' .\\n\\n ( 'Waste Book' 'Notebook' ) , , . , . BuildSelf 'Waste Book' 脳科学的 .",
-      "zh": "在这一历史性惯例的实践中： , . , , ? ' ' .\\n\\n ( 'Waste Book' 'Notebook' ) , , . , . BuildSelf 'Waste Book' 脳科学的 .",
-      "es": "Isaac Newton, el mayor científico de la historia que descubrió la gravedad, estableció el cálculo y sentó las bases de la física moderna. ¿Cómo pudo organizarse en la cabeza de una persona un sistema de conocimientos tan vasto y complejo? La clave residía en el minucioso 'hábito de escribir' que mantuvo desde su juventud.\\n\\nNewton conservó a su lado toda la vida un gran cuaderno en blanco encuadernado en cuero (llamado 'Waste Book'), llenándolo de brillantes ideas, complejas fórmulas de cálculo y registros de observación. No se limitaba a escribir, sino que dibujaba diagramas para estructurar visualmente sus pensamientos. Hoy, BuildSelf presenta los principios neurológicos detrás de la rutina de diario del 'Waste Book' de Newton y cómo aplicarla ante la sobrecarga de información.",
-      "fr": "Isaac Newton, le plus grand scientifique de l'histoire, a découvert la loi de la gravitation universelle, fondé le calcul infinitésimal et posé les bases de la physique moderne. Comment un système de connaissances aussi vaste et complexe a-t-il pu s'organiser dans la tête d'un seul homme ? La clé réside dans sa rigoureuse 'habitude d'écrire' adoptée dès sa jeunesse.\\n\\nNewton a gardé toute sa vie à ses côtés un grand carnet en cuir vierge (alors appelé 'Waste Book'), le remplissant de ses calculs et observations par ordre chronologique. Il ne se contentait pas d'écrire, mais dessinait des diagrammes complexes pour structurer visuellement ses idées. Aujourd'hui, BuildSelf présente les principes neurologiques de la routine du 'Waste Book' de Newton et comment l'appliquer pour structurer ses idées face à la surcharge d'informations.",
-      "de": "Isaac Newton, der größte Wissenschaftler der Geschichte, entdeckte das Gesetz der universellen Gravitation, begründete die Infinitesimalrechnung und legte das Fundament der modernen Physik. Wie konnte ein so komplexes Wissenssystem aus Physik, Mathematik, Alchemie und Theologie im Kopf eines Menschen geordnet werden? Der Schlüssel lag in der akribischen Schreibgewohnheit, die er seit seiner Jugend pflegte.\\n\\nNewton führte zeit seines Lebens ein großes, ledergebundenes Notizbuch (damals als 'Waste Book' bezeichnet) mit sich und füllte es präzise mit genialen Ideen, mathematischen Formeln und Beobachtungsprotokollen. Er beließ es nicht bei Worten, sondern zeichnete Diagramme, um sein Denken visuell zu strukturieren. Heute stellt BuildSelf die neurologischen Prinzipien hinter Newtons Routine vor und zeigt, wie man Ideen inmitten von Informationsüberflutung strukturieren kann.",
-      "pt": "Isaac Newton, o maior cientista da história, descobriu a lei da gravitação universal, fundou o cálculo e lançou as bases da física moderna. Como pôde organizar na cabeça um sistema de conhecimento tão vasto que abrangia física, matemática, alquimia e teologia? O segredo estava no rigoroso 'hábito de escrever' que manteve desde a juventude.\\n\\nNewton manteve a seu lado a vida toda um grande caderno encadernado em couro (chamado 'Waste Book'), preenchendo-o com insights brilhantes, equações complexas e diários de observação. Ele não apenas escrevia, mas desenhava diagramas para estruturar visualmente seus pensamentos. Hoje, o BuildSelf apresenta os princípios neurologológicos da rotina de diário do 'Waste Book' de Newton e como as pessoas modernas podem usá-la para organizar ideias diante do excesso de informações.",
-      "id": "Isaac Newton, ilmuwan terbesar dalam sejarah yang menemukan hukum gravitasi universal, menetapkan kalkulus, dan meletakkan dasar-dasar fisika modern. Bagaimana sistem pengetahuan yang luas dan kompleks yang mencakup fisika, matematika, alkimia, dan teologi dapat diatur di dalam kepala satu orang? Kuncinya terletak pada 'kebiasaan menulis' yang menyeluruh dan rumit yang ia patuhi sejak masa mudanya.\\n\\nNewton menyimpan buku catatan kosong bersampul kulit yang besar (disebut 'Waste Book' pada saat itu) di sisinya sepanjang hidupnya, dengan tepat mengisinya dengan wawasan cemerlang, rumus kalkulus yang rumit, dan catatan pengamatan berdasarkan tanggal. Dia tidak berhenti pada menuangkan pikirannya ke dalam kata-kata tetapi menggambar diagram dan grafik yang rumit untuk menyusun pemikirannya secara visual."
+      "ko": "\"기록되지 않은 지식은 모래 위의 성과 같아 쉽게 흩어지고 잊힌다.\" 📓\n\n만유인력의 법칙을 발견하고 미적분학을 정립하여 현대 물리학의 거대한 기틀을 놓은 역사상 가장 위대한 과학자, 아이작 뉴턴. 과학과 수학, 연금술, 신학에 이르기까지 그가 다룬 방대하고 복잡한 지식 체계는 과연 어떻게 한 사람의 머릿속에 정리될 수 있었을까요? 그 열쇠는 그가 청년 시절부터 평생을 고수해 온 철저하고 정교한 '기록 습관'에 있었습니다.\n\n뉴턴은 가죽으로 제본된 커다란 무지 노트(당시 'Waste Book' 또는 'Notebook'으로 불림)를 평생 곁에 두고, 떠오르는 기발한 통찰과 복잡한 미적분 공식, 관찰 일지 등을 날짜별로 정밀하게 채워 나갔습니다. 그는 생각의 흐름을 글로 적는 데 그치지 않고, 정교한 다이어그램과 도표를 그려 생각을 시각적으로 구조화했습니다. 오늘 포스트에서는 뉴턴이 고수했던 'Waste Book' 일지 루틴의 뇌과학적 원리와 현대인들이 복잡한 정보 과부하 속에서 아이디어를 구체화하기 위해 이를 어떻게 응용할 수 있는지 알아봅니다."
     },
     "whyTitle": {
-      "ko": "뇌의 작업 기억 과부하를 비워주는 '인지적 외재화'",
-      "en": "'Cognitive Offloading' to Free the Brain's Working Memory Overload",
-      "ja": "脳のワーキングメモリーの過負荷を空にする「認知的外在化」",
-      "zh": "释放大脑工作记忆过载的“认知外在化”",
-      "es": "'Descarga Cognitiva' para Liberar la Sobrecarga de la Memoria de Trabajo",
-      "fr": "La 'Décharge Cognitive' pour Libérer la Surcharge de la Mémoire de Travail",
-      "de": "'Kognitive Entlastung' zur Befreiung des Arbeitsgedächtnisses von Überlastung",
-      "pt": "'Descarga Cognitiva' para Liberar a Sobrecarga da Memória de Trabalho",
-      "id": "'Offloading Kognitif' untuk Membebaskan Kelebihan Beban Memori Kerja Otak"
+      "ko": "뇌의 작업 기억 과부하를 비워주는 '인지적 외재화'"
     },
     "whyDesc": {
-      "ko": "우리의 단기 기억을 담당하는 '작업 기억(Working Memory)'의 용량은 매우 제한적입니다. 머릿속으로 수많은 연산과 통찰을 복잡하게 굴리다 보면 뇌는 인지 과부하 상태에 빠져 창의적 사고를 정지합니다. 뉴턴이 노트에 세밀하게 손글씨를 적고 시각화한 것은 대뇌의 <strong>'인지적 외재화(Cognitive Offloading)'</strong> 메커니즘을 작동시킨 것입니다.\\n\\n생각을 노트라는 물리적 매체에 안전하게 백업해 둠으로써, 작업 기억 영역은 정보 유지라는 무거운 짐을 벗고 한층 더 정교하고 자유로운 연산과 논리적 추론에 집중할 수 있게 됩니다. 또한, 손을 움직여 事物이나 도표를 그리며 기록하는 촉각 행위는 장기 기억을 조율하는 <strong>해마(Hippocampus)</strong>를 자극하고, 주의력을 담당하는 <strong>망상활성계(RAS)</strong>를 정렬해 뇌가 더 중요한 아이디어를 오랫동안 간직할 수 있도록 돕습니다.",
-      "en": "The capacity of 'Working Memory' in charge of our short-term memory is very limited. When running numerous calculations and insights in the head, the brain falls into cognitive overload and stops creative thinking. Newton's meticulous handwriting and visualization in the notebook activated the brain's <strong>'Cognitive Offloading'</strong> mechanism.\\n\\nBy safely backing up thoughts on the physical medium of the notebook, the working memory area sheds the heavy burden of information maintenance and focuses on more elaborate, free operations and logical reasoning. In addition, the tactile act of writing by moving hands to draw objects or charts stimulates the <strong>hippocampus</strong> that regulates long-term memory, and aligns the <strong>reticular activating system (RAS)</strong> in charge of attention to help the brain preserve important ideas for a long time.",
-      "ja": "私たちの短期記憶を担当する「ワーキングメモリー（Working Memory）」の容量は非常に限られています。頭の中で数多くの計算や洞察を複雑に巡らせていると、脳は認知過負荷状態に陥り、創造的思考を停止します。ニュートンがノートに精密に手書きし、視覚化したことは、大脳の<strong>「認知的外在化（Cognitive Offloading）」</strong>メカニズムを作動させたのです。\\n\\n考えをノートという物理的な媒体に安全にバックアップしておくことで、ワーキングメモリー領域は情報維持という重い荷を下ろし、より精緻で自由な演算と論理的推論に集中できるようになります。また、手を動かして図表を描きながら記録する触覚的行為は、長期記憶を司る<strong>海馬（Hippocampus）</strong>を刺激し、注意力を担当する<strong>網様体賦活系（RAS）</strong>を整えて、脳がより重要なアイデアを長く保持できるように助けます。",
-      "zh": "我们负责短期记忆的“工作记忆（Working Memory）”容量非常有限。如果在大脑中复杂地运转无数的计算和感悟，大脑就会陷入认知过载状态，停止创造性思维。牛顿在笔记本上精准地书写和视觉化，正是启动了大脑的<strong>“认知外在化（Cognitive Offloading）”</strong>机制。\\n\\n通过将思维安全地备份在笔记本这一物理介质上，工作记忆区域便卸下了维持信息的重担，能够专注于更加精细、自由的计算和逻辑推理。此外，通过活动双手绘制物体或图表来进行记录的触觉行为，会刺激调节长期记忆的<strong>海马体（Hippocampus）</strong>，并调整负责注意力的<strong>网状激活系统（RAS）</strong>，帮助大脑长期保留更重要的创意。",
-      "es": "La capacidad de la 'Memoria de Trabajo' es muy limitada. Intentar retener numerosos cálculos e ideas en la cabeza lleva a una sobrecarga cognitiva. Anotarlo a mano como hacía Newton activa el mecanismo de <strong>'Descarga Cognitiva (Cognitive Offloading)'</strong>.\\n\\nAl respaldar los pensamientos en el soporte físico del papel, la memoria de trabajo se libera de la carga de retención y puede concentrarse en operaciones más complejas. Escribir y dibujar estimula el <strong>hipocampo</strong>, que regula la memoria a largo plazo, y el <strong>sistema de activación reticular (SAR)</strong>, lo que ayuda a retener mejor las ideas importantes.",
-      "fr": "La capacité de la 'Mémoire de Travail' à court terme est très limitée. Retenir de nombreux calculs et idées dans la tête conduit à une surcharge cognitive. Le fait d'écrire à la main comme Newton active le mécanisme de <strong>'Décharge Cognitive (Cognitive Offloading)'</strong>.\\n\\nEn sauvegardant ses pensées sur papier, la mémoire de travail se libère du stockage pour se concentrer sur des raisonnements plus complexes. Écrire et dessiner stimule l'<strong>hippocampe</strong>, régulateur de la mémoire à long terme, et le <strong>système d'activation réticulaire (SAR)</strong>, aidant le cerveau à ancrer durablement les idées clés.",
-      "de": "Die Kapazität des Arbeitsgedächtnisses ist stark begrenzt. Das Jonglieren mit Berechnungen im Kopf führt zu kognitiver Überlastung. Handschriftliche Aufzeichnungen wie bei Newton aktivieren den Mechanismus der <strong>'Kognitiven Entlastung (Cognitive Offloading)'</strong>.\\n\\nDurch das Sichern von Gedanken auf Papier wird das Arbeitsgedächtnis entlastet und kann sich auf komplexere Berechnungen konzentrieren. Das Schreiben und Zeichnen stimuliert den <strong>Hippocampus</strong>, der das Langzeitgedächtnis regelt, und das <strong>Retikuläre Aktivierungssystem (RAS)</strong>, was hilft, wichtige Ideen dauerhaft zu bewahren.",
-      "pt": "A capacidade da 'Memória de Trabalho' a curto prazo é muito limitada. Tentar guardar equações e insights na mente causa sobrecarga cognitiva. Anotar à mão como Newton ativava o mecanismo de <strong>'Descarga Cognitiva (Cognitive Offloading)'</strong>.\\n\\nAo salvar ideias no papel, a memória de trabalho se liberta da tarefa de armazenar dados e foca em raciocínios mais complexos. Escrever e desenhar diagramas estimula o <strong>hipocampo</strong>, que regula a memória a prazo, e o <strong>sistema de ativação reticular (SAR)</strong>, ajudando a guardar ideias críticas por mais tempo.",
-      "id": "Kapasitas 'Memori Kerja' yang bertanggung jawab atas memori jangka pendek kita sangat terbatas. Ketika menjalankan banyak perhitungan dan wawasan di kepala, otak jatuh ke dalam kelebihan beban kognitif. Tulisan tangan dan visualisasi Newton yang cermat mengaktifkan mekanisme <strong>'Offloading Kognitif (Cognitive Offloading)'</strong> otak.\\n\\nDengan mencadangkan pikiran secara aman pada media fisik buku catatan, area memori kerja melepaskan beban berat pemeliharaan informasi dan berfokus pada operasi serta penalaran logis yang lebih rumit. Selain itu, tindakan taktil menulis dengan menggerakkan tangan untuk menggambar grafik merangsang <strong>hipokampus</strong> yang mengatur memori jangka panjang, dan menyelaraskan <strong>sistem aktivasi retikuler (RAS)</strong> yang bertanggung jawab atas perhatian."
+      "ko": "우리의 단기 기억을 담당하는 '작업 기억(Working Memory)'의 용량은 매우 제한적입니다. 머릿속으로 수많은 연산과 통찰을 복잡하게 굴리다 보면 뇌는 인지 과부하 상태에 빠져 창의적 사고를 정지합니다. 뉴턴이 노트에 세밀하게 손글씨를 적고 시각화한 것은 대뇌의 <strong>'인지적 외재화(Cognitive Offloading)'</strong> 메커니즘을 작동시킨 것입니다.\\n\\n생각을 노트라는 물리적 매체에 안전하게 백업해 둠으로써, 작업 기억 영역은 정보 유지라는 무거운 짐을 벗고 한층 더 정교하고 자유로운 연산과 논리적 추론에 집중할 수 있게 됩니다. 또한, 손을 움직여 이나 도표를 그리며 기록하는 촉각 행위는 장기 기억을 조율하는 <strong>해마(Hippocampus)</strong>를 자극하고, 주의력을 담당하는 <strong>망상활성계(RAS)</strong>를 정렬해 뇌가 더 중요한 아이디어를 오랫동안 간직할 수 있도록 돕습니다."
     },
     "cautionTitle": {
-      "ko": "단순 메모가 아닌 시각 구조화 훈련을 하세요",
-      "en": "Perform Visual Structuring Training, Not Simple Memo Taking",
-      "ja": "単なるメモではなく、視覚的構造化トレーニングを行ってください",
-      "zh": "进行视觉结构化训练，而非简单做笔记",
-      "es": "Realice un Entrenamiento de Estructuración Visual, No un Simple Apunte",
-      "fr": "Entraînez-vous à la Structuration Visuelle, pas à la Simple Prise de Notes",
-      "de": "Führen Sie visuelle Strukturierungsübungen durch, keine einfachen Notizen",
-      "pt": "Pratique a Estruturação Visual, Não Apenas Anotações Simples",
-      "id": "Lakukan Pelatihan Penataan Visual, Bukan Sekadar Membuat Catatan"
+      "ko": "단순 메모가 아닌 시각 구조화 훈련을 하세요"
     },
     "cautionDesc": {
-      "ko": "스마트폰이나 디지털 메모장에 텍스트를 기계적으로 입력하는 것은 뇌의 촉각 자극이 덜하고 기억 강화 효과가 약합니다. 핵심은 펜을 잡고 뇌에 아날로그 피드백을 전달하는 것과, 화살표, 다이어그램, 도표 등을 활용하여 생각을 시각적으로 엮는 것입니다. 만약 디지털 노트를 쓰더라도 스타일러스 펜을 사용하여 직접 그리고 연결 고리를 표시하는 시각화 훈련을 병행하세요.",
-      "en": "Typing text mechanically on a smartphone or digital memo has less tactile stimulation and weaker memory consolidation. The key is holding a pen to deliver analog feedback to the brain, and visually weaving thoughts using arrows, diagrams, and charts. If you write digital notes, use a stylus pen to draw and mark connection links to train visual structuring.",
-      "ja": "スマートフォンやデジタルメモ帳にテキストを機械的入力... -> スマートフォンやデジタルメモ帳にテキストを機械的に入力することは、脳への触覚刺激が少なく、記憶の定着効果も弱いです。重要なのは、ペンを握って脳にアナログなフィードバックを伝えることと、矢印や図、表などを活用して思考を視覚的に結びつけることです。デジタルノートを使用する場合でも、スタイラスペンを使って直接描き、繋がりの線を引く視覚化のトレーニングを並行してください。",
-      "zh": "在手机或电子备忘录上机械地输入文字，对大脑的触觉刺激较少，记忆巩固效果也较弱。关键在于动双手绘制物体或图表来进行记录的触觉行为，并利用箭头、示意图和图表将思维视觉化地织在一起。如果使用电子笔记，请配合使用手写笔，通过绘制和标记连接线来进行视觉结构化训练。",
-      "es": "Escribir mecánicamente en un móvil ofrece menos estimulación y peor memoria. La clave está en sostener un lápiz para dar retroalimentación analógica al cerebro, y estructurar visualmente con flechas y esquemas. Si usa notas digitales, emplee un lápiz óptico para dibujar y conectar ideas.",
-      "fr": "Saisir du texte sur un smartphone offre moins de stimulation et ancre moins la mémoire. L'important est d'utiliser un stylet ou un stylo pour donner un retour analogique au cerveau, et de structurer visuellement avec des flèches et des schémas. Si vous écrivez sur tablette, dessinez les liens de connexion.",
-      "de": "Das mechanische Tippen auf einem Smartphone bietet weniger taktile Stimulation und verankert Informationen schlechter. Der Schlüssel liegt darin, einen Stift zu halten, um dem Gehirn analoges Feedback zu geben, und visuell mit Pfeilen und Tabellen zu strukturieren. Nutzen Sie bei digitalen Notizen einen Eingabestift.",
-      "pt": "Digitar texto no celular oferece menos estímulo tátil e ativa menos o córtex cerebral do que a escrita manual, que ativa o hipocampo. Além disso, permite desenhar esquemas e símbolos com liberdade, sem as travas da escrita digital.",
-      "id": "Mengetik teks secara mekanis pada ponsel memiliki rangsangan taktil yang lebih sedikit dan konsolidasi memori yang lebih lemah. Kuncinya adalah memegang pena untuk memberikan umpan balik analog ke otak, dan menenun pikiran secara visual menggunakan panah, diagram, dan grafik. Jika Anda menulis catatan digital, gunakan pena stylus."
+      "ko": "스마트폰이나 디지털 메모장에 텍스트를 기계적으로 입력하는 것은 뇌의 촉각 자극이 덜하고 기억 강화 효과가 약합니다. 핵심은 펜을 잡고 뇌에 아날로그 피드백을 전달하는 것과, 화살표, 다이어그램, 도표 등을 활용하여 생각을 시각적으로 엮는 것입니다. 만약 디지털 노트를 쓰더라도 스타일러스 펜을 사용하여 직접 그리고 연결 고리를 표시하는 시각화 훈련을 병행하세요."
     },
     "steps": [
       {
         "name": {
-          "ko": "나만의 '아이디어 일지' 마련",
-          "en": "Prepare Your Own 'Idea Journal' (Waste Book)",
-          "ja": "自分だけの「アイデア日誌」の準備",
-          "zh": "准备专属的“创意日志”",
-          "es": "Preparar Su Propio 'Diario de Ideas' (Waste Book)",
-          "fr": "Préparer Votre 'Journal d'Idées' (Waste Book)",
-          "de": "Eigenes 'Ideenjournal' (Waste Book) bereitlegen",
-          "pt": "Preparar o Seu 'Diário de Insights' (Waste Book)",
-          "id": "Siapkan 'Jurnal Ide' (Waste Book) Anda Sendiri"
+          "ko": "나만의 '아이디어 일지' 마련"
         },
         "text": {
-          "ko": "아이디어가 날아가지 않도록 안전하게 가둘 가죽 노트나 바인더 형태의 오프라인 저널을 항상 책상이나 일하는 공간 근처에 배치해 둡니다.",
-          "en": "Keep an offline journal, such as a leather notebook or binder, always on your desk or near your working space so that ideas do not fly away.",
-          "ja": "アイデアが逃げてしまわないよう、安全に留めておく革のノートやバインダー形式のオフライン日誌を、常に机や作業スペースの近くに置いておきます。",
-          "zh": "在书桌或工作空间附近放置一本皮革笔记本或活页夹形式的离线日志，以便将创意安全地锁住不流失。",
-          "es": "Conserve un cuaderno o carpeta analógica siempre en su escritorio o cerca de su espacio de trabajo para registrar las ideas al instante.",
-          "fr": "Conservez un carnet ou classeur physique toujours sur bureau ou près de votre espace de travail pour noter instantanément vos idées.",
-          "de": "Legen Sie ein physisches Journal (z. B. ein Notizbuch) auf Ihren Schreibtisch oder in die Nähe Ihres Arbeitsplatzes, um Ideen sofort festzuhalten.",
-          "pt": "Mantenha um caderno físico de qualidade sempre na escrivaninha ou perto de seu espaço de trabalho para salvar ideias antes que sumam.",
-          "id": "Simpan jurnal offline, seperti buku catatan kulit atau binder, selalu di meja atau dekat ruang kerja agar ide tidak hilang."
+          "ko": "아이디어가 날아가지 않도록 안전하게 가둘 가죽 노트나 바인더 형태의 오프라인 저널을 항상 책상이나 일하는 공간 근처에 배치해 둡니다."
         }
       },
       {
         "name": {
-          "ko": "생각 및 통찰의 즉각적인 아날로그 수필 기록",
-          "en": "Immediate Analog Handwriting of Thoughts and Insights",
-          "ja": "思考や洞察の即座のアナログ手書き記録",
-          "zh": "立即用手写笔迹记录思考与感悟",
-          "es": "Escritura Analógica Inmediata de Pensamientos y Visiones",
-          "fr": "Prise de Notes Manuscrite Immédiate des Idées",
-          "de": "Sofortiges handschriftliches Aufschreiben von Gedanken",
-          "pt": "Escrita Manual Imediata de Ideias e Insights",
-          "id": "Pencatatan Tulisan Tangan Analog Segera atas Pikiran"
+          "ko": "생각 및 통찰의 즉각적인 아날로그 수필 기록"
         },
         "text": {
-          "ko": "기획안 구상, 학습 중 떠오른 통찰 등을 즉각 펜을 쥐고 손글씨로 적습니다. 철저히 날짜와 핵심 화두를 적어 기록의 맥락을 확보합니다.",
-          "en": "Immediately grab a pen and write down insights that arise during planning or study in handwriting. Record the date and core topic thoroughly to secure the context of writing.",
-          "ja": "企画の構想、学習中に浮かんだ洞察などを、すぐにペンを握って手書きで書き留めます。必ず日付と核心のテーマを書き、記録の文脈を確保します。",
-          "zh": "立即握笔将企划创意、学习中闪现的领悟等用手写记录下来。务必写明日期和核心主题，以确保记录的上下文背景。",
-          "es": "Tome un lápiz y escriba a mano las ideas que surjan durante su planificación o estudio. Registre la fecha y el tema para no perder el contexto.",
-          "fr": "Prenez un stylo et notez à la main les idées issues de votre planification ou étude. Indiquez la date et le sujet pour garder le contexte.",
-          "de": "Schreiben Sie Gedanken, die bei der Planung oder beim Lernen entstehen, sofort handschriftlich auf. Notieren Sie Datum und Thema, um den Kontext zu wahren.",
-          "pt": "Pegue a caneta e anote manualmente os insights que surgem durante estudos ou planejamentos. Registre a data e o tema central para manter o contexto.",
-          "id": "Segera ambil pena dan tuliskan wawasan yang muncul selama perencanaan atau studi dalam tulisan tangan. Catat tanggal dan topik utama."
+          "ko": "기획안 구상, 학습 중 떠오른 통찰 등을 즉각 펜을 쥐고 손글씨로 적습니다. 철저히 날짜와 핵심 화두를 적어 기록의 맥락을 확보합니다."
         }
       },
       {
         "name": {
-          "ko": "다이어그램을 활용한 시각적 구조화",
-          "en": "Visual Structuring Utilizing Diagrams",
-          "ja": "ダイアグラムを活用した視覚的構造化",
-          "zh": "利用图表进行视觉结构化",
-          "es": "Estructuración Visual utilizando Diagramas",
-          "fr": "Structuration Visuelle à l'aide de Diagrammes",
-          "de": "Visuelle Strukturierung mithilfe von Diagrammen",
-          "pt": "Estruturação Visual usando Diagramas",
-          "id": "Penataan Visual Menggunakan Diagram"
+          "ko": "다이어그램을 활용한 시각적 구조화"
         },
         "text": {
-          "ko": "생각을 문장으로만 적는 데 머물지 않고 화살표로 아이디어를 연결하고, 간단한 흐름도나 개념 다이어그램, 테이블 등을 손으로 직접 그려 복잡한 논리를 시각적으로 엮어 정리합니다.",
-          "en": "Do not just write thoughts in sentences; connect ideas with arrows, draw simple flowcharts, conceptual diagrams, or tables by hand to visually weave complex logic.",
-          "ja": "思考を文章として書くだけにとどまらず、矢印でアイデアを繋ぎ、簡単なフローチャートや概念ダイアグラム、表などを手で直接描き、複雑な論理を視覚的に結びつけて整理します。",
-          "zh": "不仅用句子记录思维，还要用箭头连接创意，亲手绘制简单的流程图、概念图或表格，将复杂的逻辑关系视觉化地梳理清楚。",
-          "es": "No se limite a escribir frases; conecte ideas con flechas, dibuje diagramas de flujo sencillos, mapas conceptuales o tablas para estructurar la lógica.",
-          "fr": "Ne vous contentez pas d'écrire des phrases : reliez les idées avec des flèches, dessinez des schémas ou des tableaux pour structurer la logique.",
-          "de": "Schreiben Sie nicht nur Sätze; verbinden Sie Ideen mit Pfeilen, zeichnen Sie einfache Flussdiagramme oder Tabellen, um die Logik visuell darzustellen.",
-          "pt": "Não escreva apenas frases: conecte ideias com setas, crie fluxogramas ou tabelas para desenhar e organizar raciocínios complexos.",
-          "id": "Jangan hanya menulis pikiran dalam kalimat; hubungkan ide dengan panah, gambar bagan alur sederhana, diagram konseptual, atau tabel secara manual."
+          "ko": "생각을 문장으로만 적는 데 머물지 않고 화살표로 아이디어를 연결하고, 간단한 흐름도나 개념 다이어그램, 테이블 등을 손으로 직접 그려 복잡한 논리를 시각적으로 엮어 정리합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "요즘 같은 디지털 시대에 꼭 아날로그 종이 노트를 써야 하는 이유가 있나요?",
-          "en": "Is there a reason to use an analog paper notebook in today's digital age?",
-          "ja": "現代のようなデジタル時代に、あえてアナログな紙のノートを使うべき理由はありますか？",
-          "zh": "在当今数字化时代，难道一定要使用模拟纸质笔记本吗？",
-          "es": "¿Hay alguna razón para usar cuadernos analógicos en la era digital?",
-          "fr": "Y a-t-il une raison d'utiliser un carnet en papier à l'ère du numérique ?",
-          "de": "Gibt es einen Grund, in der digitalen Ära ein analoges Papiernotizbuch zu verwenden?",
-          "pt": "Existe alguma razão para usar cadernos analógicos de papel na era digital?",
-          "id": "Apakah ada alasan untuk menggunakan buku catatan kertas analog di era digital saat ini?"
+          "ko": "요즘 같은 디지털 시대에 꼭 아날로그 종이 노트를 써야 하는 이유가 있나요?"
         },
         "answer": {
-          "ko": "네, 脳科学的으로 키보드 타이핑은 손끝 촉각 자극이 단순하여 대뇌피질을 적게 활성화합니다. 반면, 펜으로 직접 종이에 쓰는 행위는 뇌의 해마(장기기억 주관)를 직접적으로 깨웁니다. 또한, 텍스트의 정형화된 입력 방식에서 탈피해 자유로운 형태의 그림이나 기호로 아이디어를 즉시 도해화할 수 있다는 강력한 인지적 장점이 있습니다.",
-          "en": "Yes, neuroscientifically, keyboard typing has simple tactile stimulation and activates the cerebral cortex less. Conversely, writing on paper with a pen directly wakes up the brain's hippocampus. Also, there is a strong cognitive benefit of being able to immediately diagram ideas into free-form drawings or symbols, departing from standardized text input.",
-          "ja": "はい、脳科学的にキーボードタイピングは指先の触覚刺激が単純で、大脳皮質の活性化が低くなります。一方、ペンで直接紙に書く行為は、脳の海馬（長期記憶を司る）を直接呼び覚まします。また、定型化されたテキスト入力から脱却し、自由な形の図形や記号でアイデアを即座に図解化できるという強力な認知的なメリットがあります。",
-          "zh": "是的。在脑科学上，键盘打字的手指触觉刺激过于单一，对大脑皮层的激活程度较低。相反，用笔直接在纸上书写能直接唤醒大脑的海马体（负责长期记忆）。此外，它还具有强大的认知优势，即能够摆脱标准化的文本输入限制，立即将创意图解为自由形式的图形或符号。",
-          "es": "Sí. Escribir a mano activa más la corteza cerebral que el teclado y estimula el hipocampo. Además, permite diagramar ideas libremente mediante esquemas o símbolos sin las restricciones de la escritura digital.",
-          "fr": "Oui. L'écriture manuscrite active davantage le cortex que le clavier et stimule l'hippocampe. De plus, elle offre l'avantage de pouvoir schématiser librement ses idées avec des symboles sans les contraintes du texte numérique.",
-          "de": "Ja. Das Tippen bietet weniger taktile Stimulation als das Schreiben mit der Hand, welches den Hippocampus anregt. Zudem können Ideen so frei durch Symbole oder Skizzen skizziert werden, ohne an Textformate gebunden zu sein.",
-          "pt": "Sim. A digitação oferece menos estímulo tátil e ativa menos o córtex cerebral do que a escrita manual, que ativa o hipocampo. Além disso, permite desenhar esquemas e símbolos com liberdade, sem as travas da escrita digital.",
-          "id": "Ya, secara neurosains, mengetik pada keyboard memiliki stimulasi taktil yang sederhana dan kurang mengaktifkan korteks serebral. Sebaliknya, menulis di kertas dengan pena langsung membangunkan hipokampus otak."
+          "ko": "네, 뇌과학적으로 키보드 타이핑은 손끝 촉각 자극이 단순하여 대뇌피질을 적게 활성화합니다. 반면, 펜으로 직접 종이에 쓰는 행위는 뇌의 해마(장기기억 주관)를 직접적으로 깨웁니다. 또한, 텍스트의 정형화된 입력 방식에서 탈피해 자유로운 형태의 그림이나 기호로 아이디어를 즉시 도해화할 수 있다는 강력한 인지적 장점이 있습니다."
         }
       }
     ]

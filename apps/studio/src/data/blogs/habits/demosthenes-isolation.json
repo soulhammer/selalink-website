@@ -1,199 +1,64 @@
 {
   "demosthenes-isolation": {
     "title": {
-      "en": "The Orator Who Shaved Half His Head? Demosthenes' Law of Extreme Environmental Control",
-      "ja": "頭の半分を剃り落とした雄弁家？デモステネスの極限環境コントロールの法則",
-      "zh": "剃掉半边头发的演说家？德摩斯梯尼的极限环境控制法则",
-      "es": "¿El orador que se afeitó la mitad de la cabeza? La ley de control ambiental extremo de Demóstenes",
-      "fr": "L'orateur qui s'est rasé la moitié de la tête ? La loi de Démosthène sur le contrôle de l'environnement",
-      "de": "Der Redner, der sich die halbe Haarseite rasierte? Demosthenes' Gesetz der extremen Umweltkontrolle",
-      "pt": "O orador que raspou metade da cabeça? A lei do controle ambiental extremo de Demóstenes",
-      "id": "Orator yang Mencukur Setengah Rambutnya? Hukum Kontrol Lingkungan Ekstrem Demosthenes",
       "ko": "머리 반쪽을 밀어버린 웅변가? 데모스테네스의 극한 환경 통제 법칙"
     },
     "description": {
-      "en": "Demosthenes overcame congenital physical limitations to become the greatest orator of ancient Greece. Introduce his environmental control routine of shaving half his head and entering a cave to block out temptations.",
-      "ja": "先天的身体限界を克服し、古代ギリシャ最高の雄弁家となったデモステネス。誘惑を遮断するために自ら頭の半分を剃り上げ、洞窟に入った彼の環境管理ルーティンを紹介します。",
-      "zh": "德摩斯梯尼克服了先天的身体缺陷，成为古希腊最伟大的演说家。介绍他为了阻断诱惑，自己剃掉半边头发并进入山洞闭关的环境控制常规。",
-      "es": "Demóstenes superó limitaciones físicas congénitas para convertirse en el mejor orador de la antigua Grecia. Conozca su rutina de control ambiental de afeitarse la mitad de la cabeza y encerrarse en una cueva para evitar distracciones.",
-      "fr": "Démosthène a surmonté des limites physiques congénitales pour devenir le plus grand orateur de la Grèce antique. Découvrez sa routine consistant à se raser la moitié de la tête pour s'isoler dans une grotte afin de fuir les tentations.",
-      "de": "Demosthenes überwand angeborene körperliche Einschränkungen, um der größte Redner des antiken Griechenlands zu werden. Lernen Sie seine Routine kennen, bei der er sich die halbe Haarseite rasierte und in eine Höhle zog, um Ablenkungen zu vermeiden.",
-      "pt": "Demóstenes superou limitações físicas congênitas para se tornar o maior orador da Grécia Antiga. Conheça sua rotina de controle ambiental de raspar metade da cabeça e isolar-se em uma caverna para evitar distrações.",
-      "id": "Demosthenes mengatasi keterbatasan fisik bawaan untuk menjadi orator terhebat di Yunani kuno. Temukan rutinitas kontrol lingkungannya dengan mencukur setengah kepalanya dan memasuki gua untuk memblokir godaan.",
       "ko": "선천적 신체 한계를 극복하고 고대 그리스 최고의 웅변가가 된 데모스테네스. 유혹을 차단하기 위해 스스로 머리 반쪽을 삭발하고 동굴로 들어갔던 그의 환경 통제 루틴을 소개합니다."
     },
     "authority": {
-      "en": "Plutarch's 'Lives: Life of Demosthenes' & APA Environmental Control Research",
-      "ja": "プルタルコス英雄伝『デモステネス伝』および米国心理学会（APA）の環境管理研究",
-      "zh": "普鲁塔克《希腊罗马名人传》之《德摩斯梯尼传》及美国心理学会（APA）环境控制研究",
-      "es": "Vidas paralelas 'Vida de Demóstenes' de Plutarco e investigación sobre control ambiental de la APA",
-      "fr": "Plutarque, 'Vies parallèles : Vie de Démosthène' & Recherches sur le contrôle des stimuli de l'APA",
-      "de": "Plutarchs 'Biografien: Demosthenes' & Forschungen zur Reizkontrolle der APA",
-      "pt": "Vidas Paralelas 'Vida de Demóstenes' de Plutarco e pesquisas sobre controle de estímulos da APA",
-      "id": "Karya Sejarah Plutarch 'Lives: Life of Demosthenes' & Penelitian Kontrol Lingkungan APA",
-      "ko": "플루타르코스 영웅전 '데모스테네스전' 및 미국심리학회(APA) 환경 통제 연구"
+      "ko": "데모스테네스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "en": "A man who overcame a congenital stutter, a weak physique, and physical limitations such as shortness of breath that prevented him from speaking for long periods, to become the greatest statesman of ancient Athens and the greatest orator in Greek history. That man was Demosthenes. 🏛️\n\nIn his youth, he chose an extraordinary method to completely control his extremely weak willpower and the temptations of the world. He shaved half of his head.\n\nForced to stay indoors because he was too embarrassed to go out in public with his ridiculous and hideous haircut, he went into an underground cave. There, for months, he refined his voice in front of a mirror and practiced his oratorical posture while looking at a blade.\n\nToday, BuildSelf explores the secret of Demosthenes, who designed an extreme environment for himself to overcome human weakness, and how to apply this to the modern smartphone era.\n\nBy practicing this routine daily, knowledge workers can eliminate fatigue and cultivate deep focus.",
-      "ja": "この歴史的習慣の実践において： , , . . 🏛️ この歴史的習慣の実践において： , . . この歴史的習慣の実践において： , . この歴史的習慣の実践において： BuildSelf , . この歴史的習慣の実践において：</div>",
-      "zh": "在这一历史性惯例的实践中： , , . . 🏛️ 在这一历史性惯例的实践中： , . . 在这一历史性惯例的实践中： , . 在这一历史性惯例的实践中： BuildSelf , . 在这一历史性惯例的实践中：</div>",
-      "es": "Un hombre que superó una tartamudez congénita, un físico débil y limitaciones como la falta de aire que le impedía hablar durante largos períodos de tiempo, para convertirse en el mayor estadista de la antigua Atenas y en el orador más grande de la historia de Grecia. Ese hombre fue Demóstenes. 🏛️\n\nEn su juventud, eligió un método extraordinario para controlar por completo su extremadamente débil fuerza de voluntad y las tentaciones del mundo. Se afeitó la mitad de la cabeza.\n\nObligado a quedarse en casa porque le daba demasiada vergüenza salir en público con su ridículo y espantoso corte de pelo, se retiró a una cueva subterránea. Allí, durante meses, pulió su voz frente a un espejo y practicó su postura de oratoria mientras miraba una espada.\n\nHoy, BuildSelf explora el secreto de Demóstenes, quien diseñó un entorno extremo para superar la debilidad humana, y cómo aplicar esto en la era moderna de los teléfonos inteligentes.\n\nEsta práctica diaria esencial fomenta un enfoque profundo y una claridad mental constante.",
-      "fr": "Un homme qui a surmonté un bégaiement congénital, une constitution fragile et un essoufflement chronique l'empêchant de parler longtemps, pour devenir le plus grand homme d'État de l'Athènes antique et le plus grand orateur de l'histoire grecque. Cet homme, c'est Démosthène. 🏛️\n\nDans sa jeunesse, il a choisi une méthode extraordinaire pour dompter sa volonté défaillante et résister aux distractions du monde. Il s'est rasé la moitié de la tête.\n\nForcé de rester cloîtré chez lui car trop honteux de se montrer en public avec cette coiffure ridicule et hideuse, il s'est retiré dans une grotte souterraine. Là, pendant des mois, il a travaillé sa voix face à un miroir et a corrigé sa posture d'orateur face à une lame de fer.\n\nAujourd'hui, BuildSelf explore le secret de Démosthène, qui a conçu un environnement extrême pour vaincre la faiblesse humaine, et comment appliquer cette méthode à l'ère du smartphone.\n\nCette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.",
-      "de": "Ein Mann, der ein angeborenes Stottern, einen schwachen Körperbau und die Kurzatmigkeit, die ihn an langen Reden hinderte, überwand, um der größte Staatsmann des antiken Athen und der berühmteste Redner der griechischen Geschichte zu werden. Dieser Mann war Demosthenes. 🏛️\n\nIn seiner Jugend wählte er eine außergewöhnliche Methode, um seine willensschwache Natur und die Verlockungen der Welt zu kontrollieren: Er rasierte sich die halbe Haarseite.\n\nDa er sich mit diesem lächerlichen Aussehen nicht unter die Menschen traute, zwang er sich zum Bleiben im Haus und zog sich in eine unterirdische Höhle zurück. Dort trainierte er monatelang seine Stimme vor einem Spiegel und übte seine Haltung beim Reden, während er auf eine Klinge blickte.\n\nHeute untersucht BuildSelf das Geheimnis von Demosthenes, der sich eine extreme Umgebung schuf, um die menschliche Schwäche zu überwinden, und wie wir dieses Prinzip im Zeitalter des Smartphones anwenden können.\n\nDiese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.",
-      "pt": "Um homem que superou a gagueira congênita, um físico frágil e a falta de ar que o impedia de falar por longos períodos para se tornar o maior estadista da Atenas Antiga e o maior orador da história grega. Esse homem foi Demóstenes. 🏛️\n\nEm sua juventude, ele escolheu um método extraordinário para controlar sua força de vontade enfraquecida e as tentações do mundo exterior. Ele raspou metade da cabeça.\n\nForçado a ficar em casa porque tinha vergonha de aparecer em público com aquele corte de cabelo ridículo e horroroso, ele se retirou para uma caverna subterrânea. Lá, durante meses, ele calibrou sua voz diante de um espelho e praticou sua postura de oratória enquanto olhava para uma lâmina de espada.\n\nHoje, o BuildSelf explora o segredo de Demóstenes, que desenhou um ambiente extremo para superar a fraqueza humana, e como aplicar essa lógica na era moderna dos smartphones.\n\nEsta prática diária essencial estimula um foco profundo e uma clareza mental constante.",
-      "id": "Seorang pria yang mengatasi gagap bawaan, fisik yang lemah, dan keterbatasan fisik berupa napas pendek yang membuatnya tidak bisa berbicara dalam waktu lama, menjadi negarawan terbesar Athena kuno dan orator terhebat dalam sejarah Yunani. Pria itu adalah Demosthenes. 🏛️\n\nDi masa mudanya, ia memilih metode yang luar biasa untuk sepenuhnya mengendalikan kemauannya yang sangat lemah dan godaan dunia. Dia mencukur setengah dari rambut kepalanya.\n\nDipaksa untuk tinggal di dalam ruangan karena dia terlalu malu untuk keluar di depan umum dengan potongan rambutnya yang konyol dan mengerikan, dia masuk ke dalam gua bawah tanah. Di sana, selama berbulan-bulan, ia melatih suaranya di depan cermin dan melatih postur oratornya sambil menatap bilah pisau.\n\nHari ini, BuildSelf mengupas rahasia Demosthenes, yang merancang lingkungan ekstrem bagi dirinya sendiri untuk mengatasi kelemahan manusia, dan bagaimana menerapkan hal ini di era smartphone modern.\n\nPraktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.",
-      "ko": "선천적인 말더듬이와 나약한 체격, 그리고 숨이 짧아 웅변을 오래 이어나가지 못하는 신체적 치명상을 모두 이겨내고, 고대 아테네 최고의 정치가이자 그리스 역사상 가장 위대한 웅변가가 된 사나이. 바로 데모스테네스입니다. 🏛️\n\n그가 젊은 시절, 자신의 극도로 약한 의지력과 세상의 유혹을 완벽하게 통제하기 위해 선택한 기상천외한 방법이 있었습니다. 바로 자신의 머리 반쪽을 완전히 밀어버린 것이었습니다. \n\n우습고 흉측하게 변한 머리 모양 때문에 남들의 눈이 부끄러워 밖으로 나갈 엄두조차 내지 못하게 자신을 강제한 뒤, 지하 동굴로 들어가 수개월 동안 거울을 보며 목소리를 가다듬고 칼날을 바라보며 올바른 웅변 자세를 연습했습니다.\n\n오늘 BuildSelf에서는 나약한 인간의 의지를 극복하기 위해 스스로 극한의 환경을 설계했던 데모스테네스의 비결과, 이를 현대 스마트폰 시대에 유용하게 적용할 수 있는 방법을 알아봅니다.\n\n\n</div>"
+      "ko": "선천적인 말더듬이와 나약한 체격, 그리고 숨이 짧아 웅변을 오래 이어나가지 못하는 신체적 치명상을 모두 이겨내고, 고대 아테네 최고의 정치가이자 그리스 역사상 가장 위대한 웅변가가 된 사나이. 바로 데모스테네스입니다. 🏛️\n\n그가 젊은 시절, 자신의 극도로 약한 의지력과 세상의 유혹을 완벽하게 통제하기 위해 선택한 기상천외한 방법이 있었습니다. 바로 자신의 머리 반쪽을 완전히 밀어버린 것이었습니다.\n\n우습고 흉측하게 변한 머리 모양 때문에 남들의 눈이 부끄러워 밖으로 나갈 엄두조차 내지 못하게 자신을 강제한 뒤, 지하 동굴로 들어가 수개월 동안 거울을 보며 목소리를 가다듬고 칼날을 바라보며 올바른 웅변 자세를 연습했습니다.\n\n오늘 포스트에서는 나약한 인간의 의지를 극복하기 위해 스스로 극한의 환경을 설계했던 데모스테네스의 비결과, 이를 현대 스마트폰 시대에 유용하게 적용할 수 있는 방법을 알아봅니다."
     },
     "whyTitle": {
-      "en": "Do Not Trust Willpower; Design an Environment Free of Temptations",
-      "ja": "意志力を信じるな、誘惑のない環境を設計せよ",
-      "zh": "别太高估意志力，去设计一个没有诱惑的环境",
-      "es": "No confíe en la fuerza de voluntad; diseñe un entorno libre de tentaciones",
-      "fr": "Ne comptez pas sur votre volonté ; créez un espace sans distraction",
-      "de": "Vertrauen Sie nicht auf Willenskraft; schaffen Sie eine ablenkungsfreie Umgebung",
-      "pt": "Não confie na força de vontade; desenhe um ambiente livre de tentações",
-      "id": "Jangan Percaya pada Kemauan; Rancang Lingkungan yang Bebas dari Godaan",
-      "ko": "의지력을 믿지 말고, 유혹이 없는 환경을 설계하라"
+      "ko": "반쪽 삭발이 강제하는 완벽한 고립과 전두엽 집행 기능"
     },
     "whyDesc": {
-      "en": "Demosthenes believed that human willpower is not something to be trusted, and that complete immersion is only possible when a physical environment that forces action is established.\n\nIn modern psychology, this is also treated as a very important law. Willpower is a limited resource, like a battery that drains as it is used. Instead of constantly wasting brain energy on resisting temptations, implementing 'Stimulus Control'—physically isolating the temptation itself—allows the brain to immediately enter a state of deep work with minimal fatigue.",
-      "ja": "デモステネスは、人間の弱い意志力は信用に値するものではなく、行動を強制する物理的な環境を構築して初めて、完全な没頭が可能になると考えました。\n\n現代心理学でも、これは非常に重要な法則として扱われています。人間の意志力（Willpower）は、使うほど消耗するバッテリーのような限られた資源です。誘惑を耐えることに脳のエネルギーを絶えず浪費する代わりに、誘惑そのものを物理的に隔離する「刺激統制（Stimulus Control）」を実行することで、脳は最小限の疲労で即座に深い没頭（Deep Work）状態に入ることができます。",
-      "zh": "德摩斯梯尼认为，人类脆弱的意志力并不值得信赖，只有构建一个强迫行为的物理环境，才能实现彻底的专注。\n\n在现代心理学中，这也被视为一条非常重要的法则。人类的意志力（Willpower）就像电池一样，是一种越用越少的有限资源。与其不断浪费大脑能量去抵制诱惑，不如实行“刺激控制（Stimulus Control）”——将诱惑源进行物理隔离，这样大脑就能以最小的疲劳度立即进入深度工作（Deep Work）状态。",
-      "es": "Demóstenes creía que la fuerza de voluntad humana no es algo en lo que se deba confiar, y que la inmersión completa solo es posible cuando se establece un entorno físico que obligue a la acción.\n\nEn la psicología moderna, esto también se trata como una ley muy importante. La fuerza de voluntad (Willpower) es un recurso limitado, como una batería que se agota a medida que se usa. En lugar de gastar energía cerebral constantemente en resistir las tentaciones, implementar el 'Control de Estímulos' (Stimulus Control), es decir, aislar físicamente la tentación misma, permite que el cerebro entre inmediatamente en un estado de trabajo profundo (Deep Work) con el mínimo cansancio.",
-      "fr": "Démosthène était convaincu que la volonté humaine est trop fragile pour qu'on s'y fie, et qu'une concentration totale n'est possible qu'en créant un cadre physique qui contraint à l'action.\n\nEn psychologie moderne, il s'agit d'un principe fondamental. La volonté (Willpower) est une ressource limitée, comparable à une batterie qui s'épuise au fil de la journée. Plutôt que de gaspiller l'énergie de votre cerveau à résister aux tentations, appliquer le « contrôle des stimuli » (Stimulus Control) en isolant physiquement les distractions permet de plonger immédiatement dans un travail profond (Deep Work) tout en limitant la fatigue cognitive.",
-      "de": "Demosthenes war überzeugt, dass man der menschlichen Willenskraft nicht trauen kann und dass eine tiefe Konzentration nur möglich ist, wenn eine physische Umgebung geschaffen wird, die das gewünschte Verhalten erzwingt.\n\nIn der modernen Psychologie ist dies ein zentrales Prinzip. Die Willenskraft (Willpower) ist eine begrenzte Ressource, ähnlich einer Batterie, die sich bei Gebrauch entlädt. Anstatt ständig Energie darauf zu verwenden, Ablenkungen zu widerstehen, sorgt die „Reizkontrolle“ (Stimulus Control) – also das physische Entfernen der Ablenkung – dafür, dass das Gehirn ohne Ermüdung sofort in einen Zustand des Deep Work eintauchen kann.",
-      "pt": "Demóstenes acreditava que a força de vontade humana não é confiável e que o foco total só é alcançado quando se estabelece um ambiente físico que force a ação.\n\nNa psicologia moderna, esse conceito é considerado uma lei de extrema importância. A força de vontade (Willpower) é um recurso limitado, como uma bateria que se esgota com o uso. Em vez de gastar energia cerebral constantemente resistindo a tentações, implementar o 'Controle de Estímulos' (Stimulus Control) – ou seja, isolar fisicamente a distração – permite que o cérebro entre imediatamente em um estado de trabalho profundo (Deep Work) com o mínimo de cansaço.",
-      "id": "Demosthenes percaya bahwa kemauan manusia bukanlah sesuatu yang bisa dipercaya, dan fokus penuh hanya mungkin terjadi jika lingkungan fisik yang memaksa tindakan itu dibuat.\n\nDalam psikologi modern, ini juga diperlakukan sebagai hukum yang sangat penting. Kemauan (Willpower) adalah sumber daya yang terbatas, seperti baterai yang habis saat digunakan. Daripada terus-menerus membuang energi otak untuk menolak godaan, menerapkan 'Kontrol Stimulus' (Stimulus Control)—mengisolasi godaan itu secara fisik—memungkinkan otak untuk segera memasuki keadaan fokus mendalam (Deep Work) dengan kelelahan minimal.",
-      "ko": "데모스테네스는 인간의 나약한 의지력은 스스로 믿을 대상이 못 되며, 오직 행동을 강제하는 물리적 환경을 구축해야만 비로소 완전한 몰입이 가능하다고 보았습니다. \n\n현대 심리학에서도 이는 매우 중요한 법칙으로 다루어집니다. 인간의 의지력(Willpower)은 쓸수록 소모되는 배터리와 같은 제한적 자원입니다. 유혹을 참는 데 뇌 에너지를 끊임없이 낭비하는 대신, 유혹거리 자체를 물리적으로 격리하는 '자극 통제(Stimulus Control)'를 실행할 때 두뇌는 최소한의 피로도로 즉각적인 깊은 몰입(Deep Work) 상태에 진입할 수 있습니다."
+      "ko": "자신의 외출복을 하인에게 감추게 하고 머리와 수염을 반쪽만 삭발하는 데모스테네스의 강제 고립 행동은 외부의 유혹 자극을 물리적으로 차단하여 전두엽의 자기통제력을 최고치로 끌어올렸습니다."
     },
     "cautionTitle": {
-      "en": "💡 A Brain-Scientific Word for a Successful Routine",
-      "ja": "💡 ルーティンを成功に導く脳科学的な一言",
-      "zh": "💡 助力习惯成功的脑科学寄语",
-      "es": "💡 Una reflexión neurocientífica para el éxito de la rutina",
-      "fr": "💡 Le mot de la neurobiologie pour une routine réussie",
-      "de": "💡 Ein neurowissenschaftlicher Rat für eine erfolgreiche Routine",
-      "pt": "💡 Uma dica da neurociência para o sucesso da sua rotina",
-      "id": "💡 Kutipan Sains Otak untuk Rutinitas yang Sukses",
-      "ko": "성공적인 루틴을 위한 脳科学的 한마디"
+      "ko": "외적 동기 차단 장치를 통한 자기통제 조언"
     },
     "cautionDesc": {
-      "en": "Just having a smartphone on your desk consumes energy because your brain is subconsciously suppressing the temptation to look at it. Physically isolating the temptation so that it is not visible at all blocks unnecessary willpower depletion, making it a scientific winning strategy to focus all available brain capacity only on high-level cognitive and creative work.",
-      "ja": "スマートフォンがデスクの上にあるだけでも、私たちの脳は「スマートフォンを見たい」という無意識の誘惑を抑えるためにエネルギーを消耗しています。誘惑が最初から目に入らないように物理的に隔離することは、不要な意志力の消耗を遮断し、脳のすべてのリソースを高度な認知的・創造的業務だけに集中させるための科学的な必勝法です。",
-      "zh": "仅仅把智能手机放在桌上，我们的大脑就在消耗能量以抑制“想看手机”的无意识诱惑。将诱惑物理隔离到视线之外，能从源头上阻断无谓的意志力消耗，这是一种科学的必胜法，让大脑将所有可用容量百分之百地投入到高难度的认知创意工作中。",
-      "es": "Tener el teléfono móvil sobre el escritorio ya consume energía, porque su cerebro está reprimiendo inconscientemente el deseo de mirarlo. Aislar físicamente la tentación para que no sea visible evita el desgaste innecesario de la fuerza de voluntad, permitiendo destinar toda la capacidad del cerebro a tareas cognitivas y creativas de alta dificultad.",
-      "fr": "La simple présence de votre smartphone sur votre bureau consomme de l'énergie, car votre cerveau doit lutter inconsciemment contre l'envie de le regarder. Isoler physiquement la source de distraction afin qu'elle ne soit plus visible évite de gaspiller votre volonté, vous permettant de mobiliser toutes vos ressources cognitives pour les tâches complexes et créatives.",
-      "de": "Schon die bloße Präsenz eines Smartphones auf dem Schreibtisch verbraucht Energie, da das Gehirn unbewusst den Impuls unterdrücken muss, danach zu greifen. Die physische Isolation der Ablenkungsquelle verhindert diesen unnötigen Verschleiß an Willenskraft. So bleibt die gesamte Kapazität des Gehirns für anspruchsvolle kognitive Aufgaben erhalten.",
-      "pt": "O simples fato de ter o smartphone sobre a mesa consome energia mental, pois o cérebro precisa reprimir ativamente o impulso de olhar para ele. Isolar fisicamente a tentação evita o desgaste desnecessário da força de vontade, permitindo direcionar toda a capacidade do cérebro para tarefas intelectuais de alta complexidade.",
-      "id": "Hanya dengan meletakkan smartphone di meja Anda sudah menghabiskan energi karena otak Anda secara tidak sadar menekan godaan untuk melihatnya. Mengisolasi godaan secara fisik sehingga tidak terlihat sama sekali menghalangi habisnya kemauan yang tidak perlu, menjadikannya strategi kemenangan ilmiah untuk memfokuskan semua kapasitas otak yang tersedia hanya pada pekerjaan kognitif dan kreatif tingkat tinggi.",
-      "ko": "스마트폰이 책상 위에 놓여 있는 것만으로도, 우리의 뇌는 '스마트폰을 보고 싶다'는 무의식적인 유혹을 억제하기 위해 에너지를 소모하고 있습니다. 유혹이 아예 눈에 보이지 않도록 물리적으로 격리하는 것은 불필요한 의지력 소모를 차단하여, 뇌의 모든 가용 용량을 오직 고난이도의 인지적 창의 업무에 집중시킬 수 있게 만드는 과학적 필승법입니다."
+      "ko": "의지력에만 의존하는 미루기 극복은 실패하기 쉽습니다. 밖으로 나갈 수 없는 환경적 배수진(Hard Commitment Device)을 미리 설치하는 것이 성공률을 높입니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Physically Isolate Your Smartphone",
-          "ja": "スマートフォンを物理的に隔離する",
-          "zh": "物理隔离智能手机",
-          "es": "Aislar físicamente el teléfono móvil",
-          "fr": "Isoler physiquement le smartphone",
-          "de": "Das Smartphone physisch isolieren",
-          "pt": "Isolar fisicamente o smartphone",
-          "id": "Isolasi Smartphone Anda Secara Fisik",
-          "ko": "스마트폰 물리적 격리하기"
+          "ko": "머리 반쪽을 밀어버린 웅변가? 데모스테네스의 극한 환경 통제 법칙 1단계 고유 실천 수칙"
         },
         "text": {
-          "en": ".",
-          "ja": ".",
-          "zh": ".",
-          "es": ".",
-          "fr": ".",
-          "de": ".",
-          "pt": ".",
-          "id": ".",
-          "ko": "해당 단계를 차분하게 실행합니다."
+          "ko": "머리 반쪽을 밀어버린 웅변가? 데모스테네스의 극한 환경 통제 법칙 습관의 1단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다."
         }
       },
       {
         "name": {
-          "en": "Set a Pomodoro Timer and Immerse Yourself",
-          "ja": "ポモドーロタイマーを設定して没頭する",
-          "zh": "设定番茄钟并进入专注状态",
-          "es": "Establecer un temporizador Pomodoro y concentrarse",
-          "fr": "Lancer un minuteur Pomodoro et s'immerger",
-          "de": "Einen Pomodoro-Timer stellen und fokussieren",
-          "pt": "Definir um temporizador Pomodoro e focar",
-          "id": "Setel Pomodoro Timer dan Fokus",
-          "ko": "뽀모도로 타이머 설정 및 몰입"
+          "ko": "머리 반쪽을 밀어버린 웅변가? 데모스테네스의 극한 환경 통제 법칙 2단계 고유 실천 수칙"
         },
         "text": {
-          "en": ".",
-          "ja": ".",
-          "zh": ".",
-          "es": ".",
-          "fr": ".",
-          "de": ".",
-          "pt": ".",
-          "id": ".",
-          "ko": "해당 단계를 차분하게 실행합니다."
+          "ko": "머리 반쪽을 밀어버린 웅변가? 데모스테네스의 극한 환경 통제 법칙 습관의 2단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다."
         }
       },
       {
         "name": {
-          "en": "Take a Complete Offline Break",
-          "ja": "完全なオフラインの休息を取る",
-          "zh": "进行彻底的离线休息",
-          "es": "Tomar un descanso analógico completo",
-          "fr": "S'accorder une vraie pause déconnectée",
-          "de": "Eine echte Offline-Pause machen",
-          "pt": "Fazer uma pausa offline completa",
-          "id": "Lakukan Istirahat Offline Sepenuhnya",
-          "ko": "완벽한 오프라인 휴식 취하기"
+          "ko": "머리 반쪽을 밀어버린 웅변가? 데모스테네스의 극한 환경 통제 법칙 3단계 고유 실천 수칙"
         },
         "text": {
-          "en": ".",
-          "ja": ".",
-          "zh": ".",
-          "es": ".",
-          "fr": ".",
-          "de": ".",
-          "pt": ".",
-          "id": ".",
-          "ko": "해당 단계를 차분하게 실행합니다."
+          "ko": "머리 반쪽을 밀어버린 웅변가? 데모스테네스의 극한 환경 통제 법칙 습관의 3단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다."
         }
       }
-    ],
-    "stepImages": [
-      "",
-      "/images/blog/demosthenes_isolation_relax_detail.webp",
-      ""
     ],
     "faqs": [
       {
         "question": {
-          "ko": "지하 독방에서 머리 반쪽을 깎은 이유는 무엇인가요?",
-          "en": "Why did Demosthenes shave half of his head?",
-          "ja": "なぜデモステネスは頭の半分を剃ったのですか？",
-          "zh": "德摩斯梯尼为什么要剃掉半边头发？",
-          "es": "¿Por qué Demóstenes se afeitó la mitad de la cabeza?",
-          "fr": "Pourquoi Démosthène s'est-il rasé la moitié de la tête ?",
-          "de": "Warum rasierte sich Demosthenes die Hälfte seines Kopfes?",
-          "pt": "Porque é que Demóstenes rapou metade da cabeça?",
-          "id": "Mengapa Demosthenes mencukur setengah kepalanya?"
+          "ko": "지하 독방에서 머리 반쪽을 깎은 이유는 무엇인가요?"
         },
         "answer": {
-          "ko": "외모가 우스꽝스러워져 사람들 앞에 나설 수 없게 함으로써, 유혹을 이겨내고 오직 연습실에만 갇혀 수련에 몰두하도록 강제하기 위한 장치였습니다.",
-          "en": "By making his appearance ridiculous, he prevented himself from going outside, forcing himself to overcome temptation and stay in his study to practice.",
-          "ja": "滑稽な姿になることで人前に出ることを防ぎ、誘惑に打ち勝って練習部屋にこもり、修練に集中せざるを得ないようにするための仕掛けでした。",
-          "zh": "通过让自己的外表变得滑稽，他阻止了自己外出，从而强迫自己战胜诱惑，留在书房里专心练习。",
-          "es": "Al ridiculizar su aspecto, se impidió salir a la calle, obligándose a superar la tentación y quedarse en su estudio para practicar la oratoria.",
-          "fr": "En se rendant ridicule, il s'est empêché de sortir, se forçant à surmonter la tentation et à rester dans son étude pour s'entraîner.",
-          "de": "Durch sein lächerliches Aussehen hinderte er sich selbst daran, nach draußen zu gehen, um sich auf das Redetraining zu konzentrieren.",
-          "pt": "Ao ridicularizar a sua aparência, impediu-se de sair à rua, forçando-se a superar a tentação e a ficar no seu estúdio a praticar.",
-          "id": "Dengan membuat penampilannya konyol, ia mencegah dirinya pergi ke luar, memaksa dirinya mengatasi godaan dan tetap berlatih."
+          "ko": "외모가 우스꽝스러워져 사람들 앞에 나설 수 없게 함으로써, 유혹을 이겨내고 오직 연습실에만 갇혀 수련에 몰두하도록 강제하기 위한 장치였습니다."
         }
       }
-    ],
-    "pubDate": "2026-01-28",
-    "updatedDate": ""
+    ]
   }
 }

@@ -1,194 +1,64 @@
 {
   "lincoln-reading-aloud": {
     "title": {
-      "ko": "책을 소리 내어 크게 읽은 대통령? 링컨의 전두엽 활성 독서 습관",
-      "en": "The President Who Read Books Aloud? Lincoln's Prefrontal Cortex Activation Reading Habit",
-      "ja": "本を声に出して読んだ大統領？リンカーンの前頭葉活性化読書習慣",
-      "zh": "大声朗读图书的总统？林肯的前额叶激活阅读习惯",
-      "es": "¿El presidente que leía libros en voz alta? El hábito de lectura de Lincoln para activar la corteza prefrontal",
-      "fr": "Le président qui lisait des livres à haute voix ? L'habitude de lecture de Lincoln pour activer le cortex préfrontal",
-      "de": "Der Präsident, der Bücher laut vorlas? Lincolns Lesegewohnheit zur Aktivierung des präfrontalen Cortex",
-      "pt": "O presidente que lia livros em voz alta? O hábito de leitura de Lincoln para ativar o córtex pré-frontal",
-      "id": "Presiden yang Membaca Buku dengan Keras? Kebiasaan Membaca Lincoln yang Mengaktifkan Korteks Prefrontal"
+      "ko": "책을 소리 내어 크게 읽은 대통령? 링컨의 전두엽 활성 독서 습관"
     },
     "description": {
-      "ko": "눈과 귀를 동시에 사용하여 기억력을 극대화한 에이브러햄 링컨. 낭독을 통해 뇌의 연결망을 강화하고 정보 기억도를 향상시킨 과학적 효과와 5분 낭독 실천법을 공개합니다.",
-      "en": "Abraham Lincoln maximized memory by using eyes and ears together. Learn the scientific effects of reading aloud to strengthen brain networks and improve information retention, plus a 5-minute practice guide.",
-      "ja": "目と耳を同時に使って記憶力を極大化したエイブラハム・リンカーン。音読を通じて脳のネットワークを強化し、情報の保持力を高めた科学的効果と5分間の音読実践法を公開します。",
-      "zh": "亚伯拉罕·林肯通过同时使用眼睛和耳朵最大化了记忆力。了解大声朗读以增强大脑网络并提高信息保留度的科学效果，以及5分钟朗读的实践指南。",
-      "es": "Abraham Lincoln maximizó la memoria utilizando los ojos y los oídos al mismo tiempo. Descubra los efectos científicos de la lectura en voz alta para fortalecer las redes cerebrales y mejorar la retención de información.",
-      "fr": "Abraham Lincoln a maximisé sa mémoire en utilisant simultanément les yeux et les oreilles. Découvrez les effets scientifiques de la lecture à haute voix pour renforcer les connexions cérébrales et améliorer la mémorisation.",
-      "de": "Abraham Lincoln maximierte sein Gedächtnis, indem er Augen und Ohren gleichzeitig nutzte. Erfahren Sie mehr über die wissenschaftlichen Effekte des lauten Vorlesens zur Stärkung der Gehirnnetzwerke und wie Sie es praktizieren.",
-      "pt": "Abraham Lincoln maximizou a memória ao usar os olhos e os ouvidos ao mesmo tempo. Conheça os efeitos científicos da leitura em voz alta para fortalecer as conexões cerebrais e melhorar a retenção de informações.",
-      "id": "Abraham Lincoln memaksimalkan ingatan dengan menggunakan mata & telinga bersama-sama. Pelajari efek ilmiah membaca keras untuk memperkuat jaringan otak & meningkatkan retensi informasi."
+      "ko": "눈과 귀를 동시에 사용하여 기억력을 극대화한 에이브러햄 링컨. 낭독을 통해 뇌의 연결망을 강화하고 정보 기억도를 향상시킨 과학적 효과와 5분 낭독 실천법을 공개합니다."
     },
     "authority": {
-      "ko": "윌리엄 헌돈 저 '링컨의 생애' 및 인지심리학 연구(MacLeod et al., 2010)",
-      "en": "William Herndon's 'Life of Lincoln' & Cognitive Psychology Research (MacLeod et al., 2010)",
-      "ja": "ウィリアム・ハーンデン 著『リンカーンの生涯』＆ 認知心理学研究(MacLeod et al., 2010)",
-      "zh": "威廉·赫恩登著《林肯的一生》及认知心理学研究(MacLeod et al., 2010)",
-      "es": "Obra de William Herndon 'Life of Lincoln' y estudios de psicología cognitiva (MacLeod et al., 2010)",
-      "fr": "L'ouvrage de William Herndon 'Vie de Lincoln' et les recherches en psychologie cognitive (MacLeod et al., 2010)",
-      "de": "William Herndons 'Life of Lincoln' & Kognitionspsychologische Forschung (MacLeod et al., 2010)",
-      "pt": "Obra de William Herndon 'Life of Lincoln' e pesquisas de psicologia cognitiva (MacLeod et al., 2010)",
-      "id": "Buku William Herndon 'Life of Lincoln' & Penelitian Psikologi Kognitif (MacLeod et al., 2010)"
+      "ko": "링컨 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "남북전쟁의 거대한 포화 속에서 분열 위기에 처한 미국을 통합하고 인류사적인 이정표인 노예 해방을 이룩한 제16대 미국 대통령, 에이브러햄 링컨. 그는 정식 교육을 거의 받지 못했음에도 뛰어난 연설과 논리, 대인 관계 통찰력으로 명성을 떨쳤습니다. 링컨의 놀라운 어휘력과 뛰어난 정보 습득력의 배경에는 매일 아침 그가 집무실에서 빼놓지 않고 실천했던 독특한 독서 리추얼이 있었습니다. 📖\\n\\n그것은 바로 책이나 신문을 집무실이 떠나가라 큰 소리로 낭독하는 것이었습니다. 그의 법률 파트너였던 윌리엄 헌돈은 '링컨은 아침마다 책을 소리 내어 읽어서 그의 목소리가 방 밖 복도에까지 웅웅 울릴 정도였다'고 증언했습니다. 주변 동료 변호사들이 굳이 소리를 내어 시끄럽고 느리게 읽는 이유를 묻자, 링컨은 다음과 같이 미소를 지으며 대답했습니다. '나는 눈으로 글자를 보며 뇌에 기억을 새기고, 동시에 내가 내는 목소리를 귀로 들으며 또다시 뇌에 소리 기억을 각인시킵니다. 두 감각을 모두 쓰면 기억이 복제되어 훨씬 오래 머무르지요.'\\n\\n오늘 BuildSelf에서는 링컨의 기묘한 낭독 습관에 숨겨진 脳科学的 진실과 기억력 및 이해도를 즉각적으로 끌어올리는 현대적 낭독 리추얼의 설계법을 알아봅니다.\\n\\n\\n\\n\\n---",
-      "en": "Abraham Lincoln, the 16th President of the United States, who united a country on the brink of division and achieved the historic milestone of the abolition of slavery. Despite receiving almost no formal education, he was renowned for his brilliant speeches and logical insights. Behind Lincoln's incredible vocabulary and information processing was a unique reading ritual he practiced in his office every morning. It was reading books or newspapers aloud so that his voice filled the office. His law partner, William Herndon, testified that Lincoln read aloud every morning so that his voice echoed out into the hallway. When asked why he read so slowly and loudly, Lincoln smiled and said, 'I see the words with my eyes to imprint them on my brain, and at the same time, I hear my own voice with my ears to imprint them again. Using both senses doubles the memory.' Today, BuildSelf shares the brain-scientific truth behind Lincoln's reading aloud habit and how to design a modern reading ritual to boost your memory and comprehension.",
-      "ja": "この歴史的習慣の実践において： 16 , . , . . 📖\\n\\n . ' ' . , . ' , . .'\\n\\n BuildSelf 脳科学的 .\\n\\n\\n\\n\\n---",
-      "zh": "在这一历史性惯例的实践中： 16 , . , . . 📖\\n\\n . ' ' . , . ' , . .'\\n\\n BuildSelf 脳科学的 .\\n\\n\\n\\n\\n---",
-      "es": "Abraham Lincoln, el 16º presidente de los Estados Unidos, que unificó un país al borde de la división y logró el hito histórico de la abolición de la esclavitud. Detrás del increíble vocabulario de Lincoln se escondía un ritual de lectura único que practicaba cada mañana en su oficina. Consistía en leer libros o periódicos en voz alta para que su voz llenara el lugar. Su socio William Herndon testificó que la voz de Lincoln resonaba en el pasillo. Cuando le preguntaron por qué leía así, Lincoln sonrió y dijo: 'Veo las palabras con los ojos para grabarlas en mi cerebro, y al mismo tiempo escucho mi voz con los oídos. Usar ambos sentidos duplica la memoria'. Hoy, BuildSelf comparte el secreto de este ritual para mejorar tu enfoque.",
-      "fr": "Abraham Lincoln, le 16e président des États-Unis, qui a unifié un pays au bord de la division et aboli l'esclavage. Derrière l'incroyable vocabulaire de Lincoln se cachait un rituel de lecture unique pratiqué chaque matin dans son bureau. Il consistait à lire des livres ou des journaux à haute voix pour que sa voix résonne dans la pièce. Son associé William Herndon a témoigné que sa voix s'entendait dans le couloir. Quand on lui demandait pourquoi il lisait ainsi, Lincoln souriait et disait : 'Je vois les mots avec les yeux pour les imprimer dans mon cerveau, et j'écoute ma voix avec les oreilles. Utiliser les deux sens double la mémoire'. Aujourd'hui, BuildSelf partage le secret de ce rituel pour améliorer votre concentration.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora: 16 , . , . . 📖\\n\\n . ' ' . , . ' , . .'\\n\\n BuildSelf .\\n\\n\\n\\n\\n--- Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável. Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "남북전쟁의 거대한 포화 속에서 분열 위기에 처한 미국을 통합하고 인류사적인 이정표인 노예 해방을 이룩한 제16대 미국 대통령, 에이브러햄 링컨. 그는 정식 교육을 거의 받지 못했음에도 뛰어난 연설과 논리, 대인 관계 통찰력으로 명성을 떨쳤습니다. 링컨의 놀라운 어휘력과 뛰어난 정보 습득력의 배경에는 매일 아침 그가 집무실에서 빼놓지 않고 실천했던 독특한 독서 리추얼이 있었습니다. 📖\n\n그것은 바로 책이나 신문을 집무실이 떠나가라 큰 소리로 낭독하는 것이었습니다. 그의 법률 파트너였던 윌리엄 헌돈은 '링컨은 아침마다 책을 소리 내어 읽어서 그의 목소리가 방 밖 복도에까지 웅웅 울릴 정도였다'고 증언했습니다. 주변 동료 변호사들이 굳이 소리를 내어 시끄럽고 느리게 읽는 이유를 묻자, 링컨은 다음과 같이 미소를 지으며 대답했습니다. '나는 눈으로 글자를 보며 뇌에 기억을 새기고, 동시에 내가 내는 목소리를 귀로 들으며 또다시 뇌에 소리 기억을 각인시킵니다. 두 감각을 모두 쓰면 기억이 복제되어 훨씬 오래 머무르지요.'\n\n오늘 포스트에서는 링컨의 기묘한 낭독 습관에 숨겨진 뇌과학적 진실과 기억력 및 이해도를 즉각적으로 끌어올리는 현대적 낭독 리추얼의 설계법을 알아봅니다."
     },
     "whyTitle": {
-      "ko": "시각과 청각의 동기화, '생산 효과'",
-      "en": "Synchronization of Vision and Hearing, the 'Production Effect'",
-      "ja": "視覚と聴覚の同期、「生産効果」",
-      "zh": "视觉与听觉的同步，“生产效果”",
-      "es": "Sincronización de vista y oído, el 'efecto de producción'",
-      "fr": "Synchronisation de la vue et de l'ouïe, l'« effet de production »",
-      "de": "Synchronisation von Sehen und Hören, der 'Produktionseffekt'",
-      "pt": "Sincronização de visão e audição, o 'efeito de produção'",
-      "id": "Sinkronisasi Penglihatan dan Pendengaran, 'Efek Produksi'"
+      "ko": "시각과 청각의 동기화, '생산 효과'"
     },
     "whyDesc": {
-      "ko": "글을 단순히 눈으로 훑는 행위는 뇌의 인지 구조에서 정보 처리 단계를 최소화하는 수동적인 독서입니다. 반면, 텍스트를 성대로 발음하고 자신의 귀로 다시 받아들이는 정교한 과정은 뇌과학에서 '생산 효과(Production Effect)'로 불리는 강력한 기억 보강 메커니즘을 작동시킵니다. \\n\\n소리 내어 읽는 순간, 뇌는 단순히 시각 피질만을 쓰지 않고 브로카 영역(Broca's area, 언어 처리)과 운동 피질(성대 제어), 그리고 청각 피질을 동시에 가동하여 시냅스 간의 연결망을 다각도로 활성화합니다. 이는 뇌의 전두엽에 있는 작업 기억 영역(Working Memory)에 강인한 이중 표상(Dual Representation)을 형성하여 정보가 장기 기억(LTM)으로 넘어가는 문턱을 크게 낮춥니다. 아침에 낭독 리추얼을 진행하면 뇌의 연합 영역이 빠르게 동기화되어 주의 몰입력이 급상승합니다.",
-      "en": "Merely scanning text with eyes is a passive reading that minimizes information processing. In contrast, pronouncing text and receiving it through ears triggers a powerful memory reinforcement mechanism called the 'Production Effect' in neuroscience. When reading aloud, the brain does not just use the visual cortex but also activates Broca's area (language processing), the motor cortex (vocal control), and the auditory cortex simultaneously. This forms a strong 'Dual Representation' in the working memory of the prefrontal cortex, lowering the threshold for information to transition into long-term memory. A morning reading ritual rapidly synchronizes brain association areas, skyrocketing your focus.",
-      "ja": "文章を単に目で追う行為は、情報の処理段階を最小限に抑える受動的な読書です。一方、テキストを発音して自分の耳で受け入れる過程は、脳科学で「生産効果（Production Effect）」と呼ばれる強力な記憶補強メカニズムを作動させます。声を出して読む瞬間、脳は単に視覚野だけを使うのではなく、ブローカ野（言語処理）や運動野（発声制御）、そして聴覚野を同時に稼働させ、シナプス間の接続ネットワークを多角的に活性化します。これにより脳の前頭葉にあるワーキングメモリ領域に強力な「二重表象」を形成し、長期記憶に移行しやすくします。朝の音読リチュアルは、脳を素早く同期させ、注意力を引き上げます。",
-      "zh": "单纯用眼睛浏览文字是信息处理阶段极小化的被动阅读。相反，将文字用声带发音并用自己的耳朵重新接收的精细过程，触发了脑科学中被称为“生产效果（Production Effect）”的强力记忆巩固机制。在大声朗读的瞬间，大脑不仅使用视觉皮层，还会同时启动布罗卡区（语言处理）、运动皮层（声带控制）以及听觉皮层，从而多角度地激活突触间的连接网络。这在大脑前额叶的工作记忆（Working Memory）区域中形成了强固的双重表征（Dual Representation），大大降低了信息转化为长期记忆的门槛。清晨的朗读仪式能使大脑联络区域快速同步，使注意力急剧上升。",
-      "es": "Escanear el texto pasivamente minimiza el procesamiento de información. En cambio, pronunciar el texto y recibirlo activa el 'Efecto de Producción' en la neurociencia. Al leer en voz alta, el cerebro no solo usa la corteza visual sino que activa simultáneamente el área de Broca (procesamiento del lenguaje), la corteza motora (control vocal) y la corteza auditiva. Esto forma una fuerte 'Representación Dual' en la memoria de trabajo de la corteza prefrontal, facilitando el paso a la memoria a largo plazo. Un ritual matutino de lectura sincroniza las áreas cerebrales rápidamente y eleva tu concentración.",
-      "fr": "Parcourir passivement le texte minimise le traitement des informations. En revanche, prononcer le texte et l'entendre active l'« Effet de Production ». En lisant à haute voix, le cerveau n'utilise pas seulement le cortex visuel, il active simultanément l'aire de Broca (langage), le cortex moteur (voix) et le cortex auditif. Cela crée une forte « Représentation double » dans la mémoire de travail du cortex préfrontal, facilitant le passage vers la mémoire à long terme. Un rituel matinal de lecture synchronise rapidement les zones cérébrales et déploie votre attention.",
-      "de": "Das passive Lesen von Text minimiert die kognitive Verarbeitung. Das laute Aussprechen und Hören des Textes aktiviert hingegen den 'Produktionseffekt' in der Neurowissenschaft. Beim lauten Vorlesen nutzt das Gehirn nicht nur die visuelle Rinde, sondern aktiviert gleichzeitig das Broca-Areal (Sprachverarbeitung), die motorische Rinde und die Hörrinde. Dies bildet eine starke duale Repräsentation im Arbeitsgedächtnis des präfrontalen Cortex und erleichtert die Überführung in das Langzeitgedächtnis. Ein morgendliches Leseritual synchronisiert das Gehirn schnell.",
-      "pt": "Escanear o texto passivamente minimiza o processamento de informação. Em contrapartida, pronunciar o texto e ouvi-lo ativa o 'Efeito de Produção'. Ao ler em voz alta, o cérebro não usa apenas o córtex visual, ativa simultaneamente a área de Broca (linguagem), o córtex motor (voz) e o córtex auditivo. Isto cria uma forte 'Representação Dupla' na memória de trabalho do córtex pré-frontal, facilitando a transição para a memória a longo prazo. Um ritual matinal de leitura sincroniza as áreas cerebrais rapidamente e eleva a sua concentração.",
-      "id": "Memindai teks secara pasif meminimalkan pemrosesan informasi. Sebaliknya, mengucapkan teks & menerimanya melalui telinga memicu 'Efek Produksi' dalam ilmu saraf. Saat membaca keras, otak tidak hanya menggunakan korteks visual tetapi juga mengaktifkan area Broca (pemrosesan bahasa), korteks motorik (kontrol vokal), & korteks pendengaran secara bersamaan. Ini membentuk 'Representasi Ganda' yang kuat pada memori kerja korteks prefrontal, menurunkan ambang batas informasi untuk beralih ke memori jangka panjang."
+      "ko": "글을 단순히 눈으로 훑는 행위는 뇌의 인지 구조에서 정보 처리 단계를 최소화하는 수동적인 독서입니다. 반면, 텍스트를 성대로 발음하고 자신의 귀로 다시 받아들이는 정교한 과정은 뇌과학에서 '생산 효과(Production Effect)'로 불리는 강력한 기억 보강 메커니즘을 작동시킵니다. \\n\\n소리 내어 읽는 순간, 뇌는 단순히 시각 피질만을 쓰지 않고 브로카 영역(Broca's area, 언어 처리)과 운동 피질(성대 제어), 그리고 청각 피질을 동시에 가동하여 시냅스 간의 연결망을 다각도로 활성화합니다. 이는 뇌의 전두엽에 있는 작업 기억 영역(Working Memory)에 강인한 이중 표상(Dual Representation)을 형성하여 정보가 장기 기억(LTM)으로 넘어가는 문턱을 크게 낮춥니다. 아침에 낭독 리추얼을 진행하면 뇌의 연합 영역이 빠르게 동기화되어 주의 몰입력이 급상승합니다."
+    },
+    "cautionTitle": {
+      "ko": "성공적인 루틴을 위한 뇌과학적 한마디"
+    },
+    "cautionDesc": {
+      "ko": "<strong>낭독은 뇌의 잠든 회로를 한 번에 깨웁니다</strong>\\n\\n단순히 눈으로만 읽는 독서는 잠을 쫓아내지 못하고 뇌를 나른하게 만들기 쉽습니다. 하지만 아침 5분의 낭독은 성대를 긴장시키고, 자신의 목소리를 듣는 역피드백 과정을 일으켜 잠자는 연합 영역의 활성도를 즉각적으로 끌어올립니다. 몰입이 필요한 지적인 작업을 수행하기 전, 링컨처럼 소리 내어 뇌를 깨우는 예열 시간을 가져보세요."
     },
     "steps": [
       {
         "name": {
-          "en": "Select a highly dense text and space",
-          "ja": "密度の高いテキストと空間を選択する",
-          "zh": "选择高密度的文字和合适空间",
-          "es": "Seleccionar un texto denso y un espacio adecuado",
-          "fr": "Sélectionner un texte dense et un espace adéquat",
-          "de": "Einen dichten Text und Raum auswählen",
-          "pt": "Selecionar um texto denso e um espaço adequado",
-          "id": "Pilih teks yang padat dan ruang yang tepat",
           "ko": "Select a highly dense text and space"
         },
         "text": {
-          "en": "Prepare an informative book or a report paragraph to read in the morning. Choose a quiet space like a study or a room where you can raise your voice without disturbing others.",
-          "ja": "朝に読むための密度の高い知的な書籍や、仕事の重要な報告書などを1〜2段落準備します。他の人に迷惑をかけずに自分の声を適度に出せる、個室や書斎のような独立した空間を選択します。",
-          "zh": "准备一两段早晨阅读所需的高密度知识性书籍或工作中的重要报告。选择书房或独立房间等在发出声音时不会打扰到他人的空间。",
-          "es": "Prepara un libro informativo o un párrafo de informe para leer por la mañana. Elige un espacio tranquilo donde puedas alzar la voz sin molestar a los demás.",
-          "fr": "Préparez un livre informatif ou un paragraphe de rapport à lire le matin. Choisissez un espace calme où vous pouvez élever la voix sans déranger autrui.",
-          "de": "Bereiten Sie ein informatives Buch oder einen Bericht vor. Wählen Sie einen ruhigen Raum, in dem Sie laut sprechen können, ohne andere zu stören.",
-          "pt": "Prepare um livro informativo ou um parágrafo de relatório para ler de manhã. Escolha um espaço tranquilo onde possa falar em voz alta sem incomodar os outros.",
-          "id": "Siapkan buku informatif atau paragraf laporan untuk dibaca di pagi hari. Pilih ruang yang tenang di mana Anda dapat mengeraskan suara tanpa mengganggu orang lain.",
           "ko": "Prepare an informative book or a report paragraph to read in the morning. Choose a quiet space like a study or a room where you can raise your voice without disturbing others."
         }
       },
       {
         "name": {
-          "en": "Read aloud slowly with clear pronunciation for 5 minutes",
-          "ja": "正確な発音でゆっくり5分間音読する",
-          "zh": "以准确的发音缓慢朗读5分钟",
-          "es": "Leer en voz alta lentamente con pronunciación clara por 5 minutos",
-          "fr": "Lire à haute voix lentement avec une prononciation claire pendant 5 minutes",
-          "de": "5 Minuten lang langsam und deutlich laut vorlesen",
-          "pt": "Ler em voz alta lentamente com pronúncia clara por 5 minutos",
-          "id": "Membaca keras dengan perlahan dengan pelafalan yang jelas selama 5 menit",
           "ko": "Read aloud slowly with clear pronunciation for 5 minutes"
         },
         "text": {
-          "en": "Do not rush. Pronounce every syllable clearly. Focus on the vibration of your throat, the sound entering your ears, and your chest movements as you read slowly for 5 minutes.",
-          "ja": "焦らずに、すべてのシラブルを正確に発音します. 喉の震え、耳に入ってくる自分の声の音色、呼吸に伴う胸の動きを繊細に感じながら、約5分間ゆっくりと読み進めます。",
-          "zh": "不要急躁，准确地发好每一个音节。细细感受喉咙的震动、传入耳中的自身声音以及伴随呼吸起伏的胸膛，以缓慢的速度朗读约5分钟。",
-          "es": "No te apresures. Pronuncia cada sílaba claramente. Concéntrate en la vibración de tu garganta, el sonido en tus oídos y los movimientos del pecho durante 5 minutos.",
-          "fr": "Ne vous pressez pas. Prononcez chaque syllabe clairement. Concentrez-vous sur la vibration de la gorge, le son dans vos oreilles et les mouvements du thorax pendant 5 minutes.",
-          "de": "Überstürzen Sie nichts. Sprechen Sie jede Silbe deutlich aus. Konzentrieren Sie sich 5 Minuten lang auf die Vibrationen der Kehle und das Einströmen des Schalls in Ihre Ohren.",
-          "pt": "Não tenha pressa. Pronuncie cada sílaba claramente. Concentre-se na vibração da garganta, no som nos seus ouvidos e nos movimentos do peito durante 5 minutos.",
-          "id": "Jangan terburu-buru. Lafalkan setiap suku kata dengan jelas. Fokus pada getaran tenggorokan Anda, suara yang masuk ke telinga Anda, & gerakan dada Anda selama 5 menit.",
           "ko": "Do not rush. Pronounce every syllable clearly. Focus on the vibration of your throat, the sound entering your ears, and your chest movements as you read slowly for 5 minutes."
         }
       },
       {
         "name": {
-          "en": "Synchronize with active focus immediately",
-          "ja": "読書後の活性化された状態で即座に没頭に入る",
-          "zh": "在朗读后的活跃状态下即刻投入工作",
-          "es": "Sincronizar con el enfoque activo de inmediato",
-          "fr": "Synchroniser avec la concentration active immédiatement",
-          "de": "Sofort in den aktiven Fokusmodus wechseln",
-          "pt": "Sincronizar com o foco ativo imediatamente",
-          "id": "Sinkronkan dengan fokus aktif segera",
           "ko": "Synchronize with active focus immediately"
         },
         "text": {
-          "en": "Right after reading, enter your first important work or study. The brain, awakened by visual and auditory stimulation, will process difficult concepts and maintain concentration much more effectively.",
-          "ja": "音読が終わったらすぐに、今日最も難しい最初の知的作業を開始します。視覚と聴覚の同時刺激で目覚めた脳は、難解な概念の処理や集中力の維持をはるかに容易にしてくれます。",
-          "zh": "朗读结束后，立即开始今天最困难的第一项智力工作。在视觉和听觉同时激活的状态下，大脑处理复杂概念和保持专注会变得容易得多。",
-          "es": "Justo después de leer, comienza tu primer trabajo o estudio importante. El cerebro, despertado por el estímulo visual y auditivo, procesará conceptos difíciles de manera mucho más eficaz.",
-          "fr": "Juste après la lecture, commencez votre tâche la plus difficile. Le cerveau, stimulé par la vue et l'ouïe, traitera les concepts complexes bien plus efficacement.",
-          "de": "Beginnen Sie direkt nach dem Lesen mit Ihrer wichtigsten Aufgabe. Das durch Sehen und Hören aktivierte Gehirn verarbeitet komplexe Konzepte und hält die Konzentration viel effektiver.",
-          "pt": "Logo após a leitura, comece o seu primeiro trabalho ou estudo importante. O cérebro, estimulado pela visão e audição, processará conceitos complexos de forma muito mais eficaz.",
-          "id": "Segera setelah membaca, lakukan pekerjaan atau studi penting pertama Anda. Otak yang terbangun oleh rangsangan visual & pendengaran akan memproses konsep yang sulit secara efektif.",
           "ko": "Right after reading, enter your first important work or study. The brain, awakened by visual and auditory stimulation, will process difficult concepts and maintain concentration much more effectively."
         }
       }
     ],
-    "cautionTitle": {
-      "ko": "성공적인 루틴을 위한 脳科学的 한마디",
-      "en": "A brain-scientific word for a successful routine",
-      "ja": "効果的なルーティンのための脳科学的な一言",
-      "zh": "成功惯例的脑科学建议",
-      "es": "Un consejo neurocientífico para una rutina exitosa",
-      "fr": "Un conseil neuroscientifique pour une routine réussie",
-      "de": "Ein gehirnwissenschaftlicher Ratschlag für eine erfolgreiche Routine",
-      "pt": "Um conselho neurocientífico para uma rotina de sucesso",
-      "id": "Saran ilmiah saraf untuk rutinitas yang sukses"
-    },
-    "cautionDesc": {
-      "ko": "<strong>낭독은 뇌의 잠든 회로를 한 번에 깨웁니다</strong>\\n\\n단순히 눈으로만 읽는 독서는 잠을 쫓아내지 못하고 뇌를 나른하게 만들기 쉽습니다. 하지만 아침 5분의 낭독은 성대를 긴장시키고, 자신의 목소리를 듣는 역피드백 과정을 일으켜 잠자는 연합 영역의 활성도를 즉각적으로 끌어올립니다. 몰입이 필요한 지적인 작업을 수행하기 전, 링컨처럼 소리 내어 뇌를 깨우는 예열 시간을 가져보세요.",
-      "en": "Reading only with your eyes can make your brain feel drowsy. However, 5 minutes of reading aloud in the morning tenses the vocal cords and causes a reverse feedback process of hearing your own voice, immediately waking up the association areas of the brain. Before starting intellectual work that requires deep focus, wake up your brain by reading aloud like Lincoln.",
-      "ja": "単に目で追う読書は、眠気を追い払えず脳を怠惰にしがちです。しかし、朝5分間の音読は、声帯を緊張させ、自分の声を聞くリバースフィードバックプロセスを起こして、休んでいる連合野の活性度を直ちに引き上げます。没頭が必要な知的な作業をする前に、リンカーンのように声を出して脳を目覚めさせる予熱時間を作ってみてください。",
-      "zh": "单纯用眼睛看的阅读很难赶走困意，反而容易让大脑变得懒散。然而，早晨5分钟的朗读可以使声带产生紧张感，并引发聆听自身声音的逆向反馈过程，从而即刻拉高处于休眠状态的联络区域的活跃度。在进行需要深度专注的智力工作前，像林肯那样通过发出声音来为大脑提供一段预热时间吧。",
-      "es": "Leer solo con los ojos puede adormecer el cerebro. Sin embargo, 5 minutos de lectura en voz alta matutina tensan las cuerdas vocales y provocan un proceso de retroalimentación de tu propia voz, despertando las áreas cerebrales. Antes de comenzar un trabajo intelectual, dale a tu cerebro un tiempo de calentamiento leyendo en voz alta.",
-      "fr": "Lire seulement avec les yeux peut engourdir le cerveau. Cependant, 5 minutes de lecture à haute voix le matin tendent les cordes vocales et déclenchent un processus de rétroaction de votre propre voix, éveillant les zones cérébrales. Avant de commencer un travail intellectuel, donnez à votre cerveau un temps de préchauffage.",
-      "de": "Das reine stille Lesen kann das Gehirn träge machen. 5 Minuten lautes Vorlesen am Morgen spannen jedoch die Stimmbänder an und lösen einen Rückkopplungsprozess aus, der das Gehirn sofort aufweckt. Gönnen Sie Ihrem Gehirn vor intellektuellen Aufgaben eine Aufwärmzeit durch lautes Vorlesen.",
-      "pt": "Ler apenas com os olhos pode entorpecer o cérebro. No entanto, 5 minutos de leitura em voz alta matinal tensionam as cordas vocais e provocam um processo de feedback da sua própria voz, despertando as áreas cerebrais. Antes de começar um trabalho intelectual, dê ao seu cérebro um tempo de aquecimento lendo em voz alta.",
-      "id": "Membaca hanya dengan mata dapat membuat otak terasa mengantuk. Namun, 5 menit membaca keras di pagi hari menegangkan pita suara & memicu proses umpan balik mendengar suara Anda sendiri, segera membangunkan area asosiasi otak. Sebelum memulai pekerjaan intelektual, bangunkan otak Anda dengan membaca keras."
-    },
     "faqs": [
       {
         "question": {
-          "ko": "어떤 책을 낭독하는 것이 효과적인가요?",
-          "en": "What kind of book is effective to read aloud?",
-          "ja": "どのような本を音読するのが効果的ですか？",
-          "zh": "朗读什么样的书籍比较有效？",
-          "es": "¿Qué tipo de libro es más efectivo para leer en voz alta?",
-          "fr": "Quel type de livre est le plus efficace à lire à haute voix ?",
-          "de": "Welche Art von Buch eignet sich am besten zum lauten Vorlesen?",
-          "pt": "Que tipo de livro é mais eficaz para ler em voz alta?",
-          "id": "Buku seperti apa yang efektif dibaca dengan keras?"
+          "ko": "어떤 책을 낭독하는 것이 효과적인가요?"
         },
         "answer": {
-          "ko": "소설이나 에세이보다는 문장이 정밀하고 논리적 농도가 높은 인문학적 텍스트, 혹은 전공 서적이나 업무용 보고서 일부를 낭독하는 것이 전두엽 가소성 향상에 가장 효과적입니다.",
-          "en": "Rather than novels or essays, reading humanities texts with dense, logical sentences, textbooks, or report excerpts is most effective for improving prefrontal plasticity.",
-          "ja": "小説やエッセイよりも、文章が精密で論理的密度の高い人文書のテキスト、または専門書や業務報告書の一部を音読することが、前頭葉の可塑性向上に最も効果的です。",
-          "zh": "比起小说或随笔，朗读句子精细、逻辑密度高的人文类文字，或者专业书籍、工作报告的一部分，对于提升前额叶塑性最为有效。",
-          "es": "En lugar de novelas o ensayos, leer textos humanísticos con oraciones densas y lógicas, libros de texto o extractos de informes es más efectivo para mejorar la plasticidad prefrontal.",
-          "fr": "Plutôt que des romans ou des essais, lire des textes humanistes aux phrases denses et logiques, des manuels ou des extraits de rapports est le plus efficace pour stimuler la plasticité préfrontale.",
-          "de": "Anstelle von Romanen eignen sich geisteswissenschaftliche Texte mit dichten, logischen Sätzen, Lehrbücher oder Berichte am besten zur Verbesserung der präfrontalen Plastizität.",
-          "pt": "Em vez de romances ou ensaios, ler textos humanísticos com frases densas e lógicas, manuais ou extratos de relatórios é mais eficaz para melhorar a plasticidade pré-frontal.",
-          "id": "Daripada novel atau esai, membaca teks humaniora dengan kalimat yang padat & logis, buku pelajaran, atau kutipan laporan adalah yang paling efektif untuk meningkatkan plastisitas prefrontal."
+          "ko": "소설이나 에세이보다는 문장이 정밀하고 논리적 농도가 높은 인문학적 텍스트, 혹은 전공 서적이나 업무용 보고서 일부를 낭독하는 것이 전두엽 가소성 향상에 가장 효과적입니다."
         }
       }
-    ],
-    "pubDate": "2026-04-26",
-    "updatedDate": "2026-04-26"
+    ]
   }
 }

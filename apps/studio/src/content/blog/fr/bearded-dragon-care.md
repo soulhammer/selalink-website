@@ -16,23 +16,23 @@ faqs:
     answer: "Une mâchoire inférieure molle, des membres enflés, des tremblements musculaires ou des difficultés à se soulever. Si ces signes apparaissent, consultez un vétérinaire."
 ---
 
-Le dragon barbu (ou Pogona) compte parmi les reptiles les plus appréciés pour sa docilité. Toutefois, ce lézard à sang froid dépend entièrement de son environnement pour sa thermorégulation et de l'exposition aux UVB pour synthétiser le calcium. Sans un gradient thermique adapté et de bons néons UVB, il risque l'ostéodystrophie nutritionnelle (MBD), une maladie déformant ses os. Aujourd'hui, PetSelf étudie leurs codes sociaux et présente une routine en 3 étapes pour optimiser le chauffage et l'apport en calcium.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Preuves Vétérinaires et Comportementales
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Lignes directrices d'élevage de l'ARAV (Association of Reptilian and Amphibian Veterinarians) et médecine herpétologique</strong>.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Dragon Barbu (Pogona) Profil principal
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">10 ~ 15 ans</span></div>
@@ -43,7 +43,7 @@ Le dragon barbu (ou Pogona) compte parmi les reptiles les plus appréciés pour 
 
 ## 1. Codes sociaux du dragon barbu : hochements de tête et moulinets de patte
 
-Les dragons barbus communiquent par des gestes très identifiables. Les hochements de tête rapides ('head bobbing') servent à asseoir leur dominance. À l'inverse, faire de grands cercles lents avec une patte avant ('arm waving') est un geste de soumission pour apaiser les tensions.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Les dragons barbus communiquent par des gestes très identifiables. Les hochemen
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Démarrage du chauffage et des UVB</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Allumez la lampe chauffante et le néon UVB. Le point chaud doit atteindre 35-40 °C pour lui permettre de s'activer et de digérer.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Les dragons barbus communiquent par des gestes très identifiables. Les hochemen
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi : Nourrissage et saupoudrage de calcium</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Donnez-lui des insectes préalablement nourris et saupoudrés de calcium (avec D3 en intérieur). Offrez-lui des légumes verts frais.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Les dragons barbus communiquent par des gestes très identifiables. Les hochemen
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir : Extinction des feux et fraîcheur nocturne</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Éteignez toutes les lampes. Laissez la température baisser la nuit, mais veillez à ce qu'elle ne descende pas sous 18 °C.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Les dragons barbus communiquent par des gestes très identifiables. Les hochemen
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Les dragons barbus communiquent par des gestes très identifiables. Les hochemen
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Les néons et ampoules UVB perdent leur efficacité bien avant de griller. Il est nécessaire de les remplacer tous les 6 à 12 mois, même s'ils éclairent encore.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Les dragons barbus communiquent par des gestes très identifiables. Les hochemen
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Une mâchoire inférieure molle, des membres enflés, des tremblements musculaires ou des difficultés à se soulever. Si ces signes apparaissent, consultez un vétérinaire.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </details>
 </div>

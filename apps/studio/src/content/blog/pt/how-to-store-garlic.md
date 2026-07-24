@@ -23,16 +23,16 @@ faqs:
     answer: "Whole garlic heads sprout or rot quickly in the damp fridge. It is best to store them in a mesh bag in a cool, well-ventilated, shady area at room temperature."
 ---
 
-Você já descascou muito alho para economizar tempo e viu ele amolecer e mofar em poucos dias? Hoje, o FreshSnap compartilha técnicas de controle de umidade para manter o alho fresco por muito mais tempo.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Autoridade Científica Verificada
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este guia de conservação segue as diretrizes oficiais de: <strong>RDA & MFDS & USDA</strong>.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
@@ -41,7 +41,7 @@ Você já descascou muito alho para economizar tempo e viu ele amolecer e mofar 
 
 ## 1. Por que armazenar assim? Fatos científicos
 
-Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 ---
 
@@ -53,7 +53,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Espalhe açúcar e papel-toalha no fundo do pote — Armazenamento Refrigerado (14Dias) 🪙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Espalhe uma camada de 1 cm de açúcar no fundo do pote hermético, cubra com 2 a 3 folhas de papel-toalha e coloque o alho descascado. O açúcar atua como dessecante natural, retendo a umidade.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -63,7 +63,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pendure o alho inteiro em uma rede — Conservação em Temp. Ambiente (30Dias)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Refrigerar cabeças de alho inteiras faz com que brotem e apodreçam rápido devido à umidade. O método correto é colocá-las em um saco de rede e pendurar em local fresco, escuro e ventilado (10-15 °C).
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -73,7 +73,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Congele o alho picado em fôrmas de silicone — Armazenamento Congelado (180Dias)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Para grandes quantidades, triture o alho e espalhe em um saco plástico com marcações em grade, ou congele em fôrmas de silicone para gelo. Retire uma porção a cada receita para evitar a perda de nutrientes.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -86,7 +86,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Separe os dentes de alho machucados ou brotados</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Dentes machucados ou brotados liberam mais umidade e gases de decomposição, estragando os dentes saudáveis ao redor.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
@@ -96,7 +96,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Não ignore o mofo nos alhos estragados</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Se surgir mofo azul ou preto, não lave para cozinhar. As esporas já se espalharam por dentro; descarte o alho.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
@@ -111,7 +111,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Peeled garlic lacks its protective skin, making it highly vulnerable to humidity. Excess moisture triggers rapid mold growth; keep them dry using sugar and paper towels.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 
@@ -121,7 +121,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Whole garlic heads sprout or rot quickly in the damp fridge. It is best to store them in a mesh bag in a cool, well-ventilated, shady area at room temperature.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 </div>

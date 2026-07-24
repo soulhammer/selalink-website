@@ -1,14 +1,14 @@
 ---
-formatVersion: 4
 title: "자는 동안 뇌가 기획안을 풀어낸다? 조앤 디디온의 원고 동침 수면법"
 description: "미국의 전설적인 작가이자 저널리스트 조앤 디디온. 막힌 글을 풀기 위해 원고를 침실에 두고 동침 수면했던 그녀의 영감 포획 수면 과학과 실천법을 알아봅니다."
-pubDate: "2026-06-02"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
-heroImage: "/images/blog/didion_manuscript_sleeping.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/didion_manuscript_sleeping.png"
 app: "buildself"
-authority: "파리 리뷰 예술론 'Joan Didion Interview' 및 트렌드 인 인지과학 수면 인지 연구"
-updatedDate: "2026-06-02"
+formatVersion: 4
+authority: "조앤 디디온 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "해결이 필요한 기획이나 과제 선정"
     text: "구조화하기 힘든 기획 문서, 작성 중인 글, 혹은 결정을 내리기 어려운 큰 고민 하나를 타겟으로 지정합니다."
@@ -21,6 +21,7 @@ faqs:
     answer: "그럴 위험이 있습니다. 따라서 억지로 \"풀어야 한다\"고 뇌에 압박을 주며 걱정하는 방식이 아닌, 그저 가볍게 종이 문서를 동화책 읽듯이 눈으로 스캔하고 \"자는 동안 뇌가 알아서 해결해 주겠지\"라며 무의식에 아웃소싱을 맡기는 편안한 마음가짐이 핵심입니다."
   - question: "아침에 깨어났을 때 바로 아이디어가 안 떠오르면 실패한 건가요?"
     answer: "실패가 아닙니다. 잠에서 깬 직후 바로 생각나지 않더라도 아침 샤워를 하거나 커피를 마시는 이완된 시각에 갑자기 번뜩하고 해답이 떠오르는 경우가 많습니다. 뇌의 무의식적 연산이 작동한 뒤 결과물이 의식의 표면으로 밀려 올라오는 데는 약간의 시간적 딜레이가 있을 수 있습니다."
+
 ---
 
 "우리는 스스로 살아가기 위해 스스로에게 이야기를 들려준다." 🚶‍♂️
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 파리 리뷰 예술론 'Joan Didion Interview' 및 트렌드 인 인지과학 수면 인지 연구 및 관련 인지과학/생리학 연구 결과를 기반으로 작성되었습니다.
+      본 콘텐츠는 <strong>조앤 디디온 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 didion-manuscript-sleeping 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 렘(REM) 수면의 정보 통합 기능과 인지적 프라이밍
+## 렘(REM) 수면의 정보 통합 기능과 인지적 프라이밍
 
 뇌는 깨어 있는 동안은 논리적이고 합리적인 전두엽 통제 시스템을 기용해 기존의 도식대로만 생각하려 합니다. 이 의식 상태가 너무 강하면 새롭고 도발적인 연상이나 창의적인 결합이 일어나기 어렵습니다.
 
@@ -53,8 +54,9 @@ faqs:
 
 ---
 
-## 2. 실천 가이드: 현대인을 위한 3단계 루틴
+## 태블릿이나 스마트폰 화면으로 읽는 것은 수면의 질을 파괴합니다
 
+침대에 누워 스마트폰의 블루라이트를 쬐며 문서를 검토하면, 뇌는 낮이라고 판단하여 수면 호르몬인 멜라토닌 분비를 억제하고 수면의 단계 자체를 교란합니다. 프라이밍 훈련을 진행할 때는 반드시 종이에 인쇄된 아날로그 문서나 노트를 사용하거나, 눈을 감고 머릿속으로 이미지화하며 생각을 정리한 뒤 숙면에 들어야만 렘수면 효과를 온전히 누릴 수 있습니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -66,7 +68,6 @@ faqs:
   </p>
 </div>
 
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
@@ -76,7 +77,6 @@ faqs:
     스마트폰을 완전히 끄고, 준비한 종이 원고나 노트의 내용을 5분 동안 천천히 훑어보며 해결하고 싶은 화두를 뇌리에 평화롭게 연상시킵니다.
   </p>
 </div>
-
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -88,27 +88,13 @@ faqs:
   </p>
 </div>
 
-
----
-
-## 3. 태블릿이나 스마트폰 화면으로 읽는 것은 수면의 질을 파괴합니다
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      침대에 누워 스마트폰의 블루라이트를 쬐며 문서를 검토하면, 뇌는 낮이라고 판단하여 수면 호르몬인 멜라토닌 분비를 억제하고 수면의 단계 자체를 교란합니다. 프라이밍 훈련을 진행할 때는 반드시 종이에 인쇄된 아날로그 문서나 노트를 사용하거나, 눈을 감고 머릿속으로 이미지화하며 생각을 정리한 뒤 숙면에 들어야만 렘수면 효과를 온전히 누릴 수 있습니다.
-    </p>
-  </div>
-</div>
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>자기 전에 고민을 하면 오히려 불면증이 오거나 잠을 설치지 않을까요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -116,10 +102,9 @@ faqs:
       그럴 위험이 있습니다. 따라서 억지로 "풀어야 한다"고 뇌에 압박을 주며 걱정하는 방식이 아닌, 그저 가볍게 종이 문서를 동화책 읽듯이 눈으로 스캔하고 "자는 동안 뇌가 알아서 해결해 주겠지"라며 무의식에 아웃소싱을 맡기는 편안한 마음가짐이 핵심입니다.
     </p>
   </details>
-  
-
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>아침에 깨어났을 때 바로 아이디어가 안 떠오르면 실패한 건가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -127,5 +112,4 @@ faqs:
       실패가 아닙니다. 잠에서 깬 직후 바로 생각나지 않더라도 아침 샤워를 하거나 커피를 마시는 이완된 시각에 갑자기 번뜩하고 해답이 떠오르는 경우가 많습니다. 뇌의 무의식적 연산이 작동한 뒤 결과물이 의식의 표면으로 밀려 올라오는 데는 약간의 시간적 딜레이가 있을 수 있습니다.
     </p>
   </details>
-  
 </div>

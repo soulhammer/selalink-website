@@ -1,223 +1,72 @@
 {
   "schiller-rotten-apple": {
     "title": {
-      "ko": "서랍 속 썩은 사과 냄새로 영감을 얻은 극작가? 프리드리히 실러의 기이한 몰입 루틴",
-      "en": "The Playwright Inspired by Rotten Apples in His Drawer? Friedrich Schiller's Strange Immersion Routine",
-      "ja": "引き出しの中の腐ったリンゴの臭いから霊感を得た劇作家？フリードリヒ・シラーの奇妙な没頭ルーティン",
-      "zh": "从抽屉里烂苹果味中获得灵感的剧作家？弗里德里希·席勒的奇特专注惯例",
-      "es": "¿El dramaturgo inspirado por el olor de las manzanas podridas en su cajón? La extraña rutina de inmersión de Friedrich Schiller",
-      "fr": "Le dramaturge inspiré par l'odeur des pommes pourries dans son tiroir ? L'étrange routine d'immersion de Friedrich Schiller",
-      "de": "Der Dramatiker, der sich vom Geruch verfaulender Äpfel inspirieren ließ? Friedrich Schillers seltsame Fokus-Routine",
-      "pt": "O dramaturgo inspirado pelo cheiro de maçãs podres na gaveta? A estranha rotina de imersão de Friedrich Schiller",
-      "id": "Dramawan yang Terinspirasi oleh Bau Apel Busuk di Lacinya? Rutinitas Imersi Aneh Friedrich Schiller"
+      "ko": "서랍 속 썩은 사과 냄새로 영감을 얻은 극작가? 프리드리히 실러의 기이한 몰입 루틴"
     },
     "description": {
-      "ko": "독일의 대문호 프리드리히 실러는 서랍 속 썩은 사과의 자극적인 향을 맡으며 창작에 몰입했습니다. 후각 자극이 어떻게 뇌를 각성시키고 몰입을 돕는지 과학적 원리와 현대적 아로마 앵커링 실천법을 알아봅니다.",
-      "en": "German literary giant Friedrich Schiller immersed himself in creation by inhaling the pungent scent of rotten apples in his drawer. Explore how olfactory stimulation awakens the brain and a modern aroma anchoring practice.",
-      "ja": "ドイツの大文豪フリードリヒ・シラーは、引き出しの中の腐ったリンゴの刺激的な臭いを嗅ぎながら創作に没頭しました。嗅覚刺激が脳を覚醒させ没頭を助ける科学的原理と、現代のアロマアンカー実践法を紹介します。",
-      "zh": "德国大文豪弗里德里希·席勒通过嗅闻抽屉里烂苹果的刺激性气味来沉浸于创作。探索嗅觉刺激如何唤醒大脑并帮助专注，以及现代香氛锚定实践指南。",
-      "es": "El gran escritor alemán Friedrich Schiller se sumergía en la creación inhalando el penetrante olor de las manzanas podridas en su cajón. Descubra cómo la estimulación olfativa despierta el cerebro y una práctica moderna de anclaje aromático.",
-      "fr": "Le grand écrivain allemand Friedrich Schiller se plongeait dans la création en respirant l'odeur piquante de pommes pourries. Découvrez comment la stimulation olfactive éveille le cerveau et une technique d'ancrage olfactif moderne.",
-      "de": "Der deutsche Dichterfürst Friedrich Schiller vertiefte sich in seine Arbeit, indem er den stechenden Geruch verfaulender Äpfel in seiner Schublade einatmete. Erfahren Sie, wie Gerüche das Gehirn aktivieren und wie Sie einen Aroma-Anker setzen.",
-      "pt": "O grande escritor alemão Friedrich Schiller mergulhava na criação inalando o cheiro pungente de maçãs podres em sua gaveta. Descubra como a estimulação olfativa desperta o cérebro e uma prática moderna de ancoragem aromática.",
-      "id": "Sastrawan besar Jerman Friedrich Schiller membenamkan diri dalam karya dengan menghirup bau menyengat dari apel busuk di lacinya. Temukan bagaimana stimulasi penciuman membangunkan otak dan praktik penjangkaran aroma modern."
+      "ko": "독일의 대문호 프리드리히 실러는 서랍 속 썩은 사과의 자극적인 향을 맡으며 창작에 몰입했습니다. 후각 자극이 어떻게 뇌를 각성시키고 몰입을 돕는지 과학적 원리와 현대적 아로마 앵커링 실천법을 알아봅니다."
     },
     "authority": {
-      "ko": "요한 페터 에커만의 '괴테와의 대화' 및 화학적 감각(Chemical Senses) 학술 연구",
-      "en": "Johann Peter Eckermann's 'Conversations with Goethe' & 'Chemical Senses' Research Study",
-      "ja": "ヨハン・ペーター・エッカーマン「ゲーテとの対話」および学術研究「Chemical Senses」",
-      "zh": "艾克曼《歌德谈话录》与《化学感官(Chemical Senses)》学术研究",
-      "es": "Conversaciones con Goethe de Johann Peter Eckermann y estudio de investigación de Chemical Senses",
-      "fr": "Conversations avec Goethe de Johann Peter Eckermann & étude scientifique de 'Chemical Senses'",
-      "de": "Johann Peter Eckermanns 'Gespräche mit Goethe' & wissenschaftliche Studie in 'Chemical Senses'",
-      "pt": "Conversas com Goethe de Johann Peter Eckermann & estudo científico da Chemical Senses",
-      "id": "Percakapan dengan Goethe oleh Johann Peter Eckermann & Studi Penelitian 'Chemical Senses'"
+      "ko": "프리드리히 실러 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "요한 볼프강 폰 괴테와 함께 독일 고전주의 문학의 황금기를 이끌었던 위대한 시인이자 극작가 프리드리히 실러. 그의 희곡 '군도'와 '빌헬름 텔'은 인류 역사에 깊은 발자취를 남겼습니다. 그러나 이 위대한 걸작들이 탄생한 집필실의 책상 서랍 속에는 아주 기괴하고 고약한 비밀이 숨겨져 있었습니다. 🍎\n\n하루는 절친한 동료였던 괴테가 실러의 집을 방문했다가 그가 부재중이어서 그의 서재에서 기다리게 되었습니다. 책상에 앉은 괴테는 곧 코를 찌르는 강렬하고 이상한 냄새에 어지러움을 느끼고 냄새의 원인을 찾아 서랍을 열었습니다. 그 안에는 놀랍게도 썩은 사과들이 가득 들어있었습니다. 실러의 아내에 따르면, 실러는 썩은 사과가 뿜어내는 특유의 강렬한 발효 향을 맡지 않으면 정신이 집중되지 않고 창작의 영감이 떠오르지 않아 일부러 서랍에 썩은 사과를 채워두었다고 합니다.\n\n오늘 BuildSelf에서는 실러의 이 독특한 '후각 리셋' 루틴의 과학적 근거와, 이를 안전하고 세련되게 현대적으로 해석한 '아로마 앵커링' 습관을 소개합니다.",
-      "en": "Friedrich Schiller, the great poet and playwright who led the golden age of German classical literature along with Johann Wolfgang von Goethe. His plays 'The Robbers' and 'William Tell' left deep footprints in history. However, there was a very strange and pungent secret hidden inside the drawer of the writing desk where these masterpieces were born. 🍎\n\nOne day, his close colleague Goethe visited Schiller's house and waited in his study because Schiller was out. Sitting at the desk, Goethe soon felt dizzy from a strong and strange smell and opened the drawer to find its source. To his surprise, the drawer was full of rotten apples. According to Schiller's wife, Schiller could not concentrate and could not get creative inspiration unless he inhaled the unique, pungent fermented scent of rotten apples, so he deliberately kept them in his drawer.\n\nToday, BuildSelf introduces the scientific basis of Schiller's unique 'olfactory reset' routine and a modern, safe, and elegant interpretation called 'aroma anchoring.'",
-      "ja": "ヨハン・ヴォルフガング・フォン・ゲーテと共にドイツ古典主義文学の黄金期を築いた偉大な詩人であり劇作家、フリードリヒ・シラー。彼の戯曲「群盗」や「ウィリアム・テル」は歴史に深い足跡を残しました。しかし、これらの偉大な傑作が誕生した執筆室の引き出しには、極めて奇妙で悪臭を放つ秘密が隠されていました。 🍎\n\nある日、親しい同僚であったゲーテがシラーの家を訪ね、彼が留守だったため書斎で待つことになりました。机に座ったゲーテは、すぐに鼻をつく強烈で異様な臭いにめまいを覚え、臭いの元を探して引き出しを開けました。そこには驚くべきことに、腐ったリンゴがぎっしりと入っていました。シラーの妻によると、シラーは腐ったリンゴが放つ独特の強烈な発酵臭を嗅がないと精神が集中せず、創作のインスピレーションが湧かないため、わざと引き出しに腐ったリンゴを入れさせていたそうです。\n\n今日のBuildSelfでは、シラーのこの独特な「嗅覚リセット」ルーティンの科学的根拠と、これを安全かつスマートに現代解釈した「アロマアンカー」習慣を紹介します。",
-      "zh": "在这一历史性惯例的实践中： . '' ' ' . . 🍎 在这一历史性惯例的实践中： . . . , . 在这一历史性惯例的实践中： BuildSelf ' ' , ' ' .",
-      "es": "Friedrich Schiller, el gran poeta y dramaturgo que lideró la edad de oro de la literatura clásica alemana junto a Johann Wolfgang von Goethe. Sus obras 'Los ladrones' y 'Guillermo Tell' dejaron una profunda huella en la historia. Sin embargo, en el cajón del escritorio donde nacieron estas obras maestras se ocultaba un secreto muy extraño y penetrante. 🍎\n\nUn día, su colega cercano Goethe visitó la casa de Schiller y esperó en su estudio porque Schiller no estaba. Sentado al escritorio, Goethe sintió mareos por un olor fuerte y extraño, y abrió el cajón para buscar el origen. Para su sorpresa, el cajón estaba lleno de manzanas podridas. Según la esposa de Schiller, él no podía concentrarse ni obtener inspiración creativa a menos que inhalara el aroma fermentado único de las manzanas podridas, por lo que las guardaba allí deliberadamente.\n\nHoy, BuildSelf presenta los fundamentos científicos de la rutina de 'reinicio olfativo' de Schiller y una interpretación moderna, segura y elegante llamada 'anclaje aromático'.",
-      "fr": "Friedrich Schiller, le grand poète et dramaturge qui a mené l'âge d'or de la littérature classique allemande aux côtés de Johann Wolfgang von Goethe. Ses pièces 'Les Brigands' et 'Guillaume Tell' ont marqué l'histoire. Pourtant, un secret très étrange et nauséabond se cachait dans le tiroir du bureau où sont nés ces chefs-d'œuvre. 🍎\n\nUn jour, son proche collègue Goethe est venu lui rendre visite et l'a attendu dans son cabinet de travail. Installé au bureau, Goethe a rapidement été pris de vertiges à cause d'une odeur forte et bizarre. En ouvrant le tiroir, il a découvert avec stupeur qu'il était rempli de pommes pourries. Selon l'épouse de Schiller, l'écrivain ne parvenait pas à se concentrer ni à trouver l'inspiration s'il ne respirait pas cette odeur de fermentation caractéristique, d'où cette étrange manie.\n\nAujourd'hui, BuildSelf présente les fondements scientifiques de l'étonnante routine olfactive de Schiller, et vous propose une adaptation moderne, saine et raffinée appelée 'ancrage aromatique'.",
-      "de": "Friedrich Schiller, der große Dichter und Dramatiker, der gemeinsam mit Johann Wolfgang von Goethe die Blütezeit der Weimarer Klassik prägte. Seine Stücke 'Die Räuber' und 'Wilhelm Tell' gingen in die Weltliteratur ein. Doch in der Schreibtischschublade, an der diese Meisterwerke entstanden, verbarg sich ein seltsames, stechendes Geheimnis. 🍎\n\nEines Tages besuchte sein enger Freund Goethe Schillers Haus. Da dieser nicht da war, wartete Goethe in dessen Arbeitszimmer. Am Schreibtisch sitzend spürte Goethe bald einen Schwindel durch einen intensiven, fauligen Geruch. Er öffnete die Schublade und fand verfaulende Äpfel. Schillers Ehefrau erklärte, Schiller könne sich ohne das intensive Fermentationsaroma verfaulender Äpfel nicht konzentrieren und keine kreative Inspiration finden, weshalb er sie bewusst dort aufbewahrte.\n\nHeute stellt BuildSelf die wissenschaftliche Basis von Schillers einzigartiger 'Riech-Reset'-Routine vor und zeigt eine moderne, sichere Version: das 'Aroma-Anchoring'.",
-      "pt": "Friedrich Schiller, o grande poeta e dramaturgo que liderou a era de ouro da literatura clássica alemã junto com Johann Wolfgang von Goethe. Suas peças 'Os Salteadores' e 'Guilherme Tell' deixaram marcas profundas na história. No entanto, na gaveta da mesa onde essas obras-primas nasceram, escondia-se um segredo muito estranho e forte. 🍎\n\nUm dia, seu colega Goethe visitou a casa de Schiller e esperou em seu escritório porque ele havia saído. Sentado à mesa, Goethe logo sentiu tontura por causa de um cheiro forte e estranho, e abriu a gaveta para buscar a origem. Para sua surpresa, estava cheia de maçãs podres. Segundo a esposa de Schiller, ele não conseguia se concentrar ou ter inspiração criativa a menos que inalasse o aroma fermentado único das maçãs podres, por isso as mantinha ali.\n\nHoje, o BuildSelf apresenta os fundamentos científicos da rotina de 'reinicio olfativo' de Schiller e uma interpretação moderna, segura e elegante chamada 'ancoragem aromática'.",
-      "id": "Friedrich Schiller, penyair dan dramawan besar yang memimpin era keemasan sastra klasik Jerman bersama Johann Wolfgang von Goethe. Karya-karyanya seperti 'The Robbers' dan 'William Tell' meninggalkan jejak mendalam dalam sejarah. Namun, di dalam laci meja tulis tempat mahakarya tersebut lahir, tersembunyi sebuah rahasia yang sangat aneh dan menyengat. 🍎\n\nSuatu hari, rekan dekatnya Goethe mengunjungi rumah Schiller dan menunggunya di ruang kerja karena Schiller sedang pergi. Duduk di meja, Goethe segera merasa pusing karena bau menyengat yang aneh dan membuka laci untuk mencari sumbernya. Yang mengejutkan, laci itu penuh dengan apel busuk. Menurut istri Schiller, Schiller tidak bisa berkonsentrasi dan tidak mendapatkan inspirasi kreatif kecuali dia menghirup aroma fermentasi khas yang menyengat dari apel busuk, sehingga dia sengaja menyimpannya di laci.\n\nHari ini, BuildSelf menyajikan dasar ilmiah dari rutinitas 'reset penciuman' unik Schiller dan interpretasi modern yang aman serta elegan yang disebut 'penjangkaran aroma'."
+      "ko": "요한 볼프강 폰 괴테와 함께 독일 고전주의 문학의 황금기를 이끌었던 위대한 시인이자 극작가 프리드리히 실러. 그의 희곡 '군도'와 '빌헬름 텔'은 인류 역사에 깊은 발자취를 남겼습니다. 그러나 이 위대한 걸작들이 탄생한 집필실의 책상 서랍 속에는 아주 기괴하고 고약한 비밀이 숨겨져 있었습니다. 🍎\n\n하루는 절친한 동료였던 괴테가 실러의 집을 방문했다가 그가 부재중이어서 그의 서재에서 기다리게 되었습니다. 책상에 앉은 괴테는 곧 코를 찌르는 강렬하고 이상한 냄새에 어지러움을 느끼고 냄새의 원인을 찾아 서랍을 열었습니다. 그 안에는 놀랍게도 썩은 사과들이 가득 들어있었습니다. 실러의 아내에 따르면, 실러는 썩은 사과가 뿜어내는 특유의 강렬한 발효 향을 맡지 않으면 정신이 집중되지 않고 창작의 영감이 떠오르지 않아 일부러 서랍에 썩은 사과를 채워두었다고 합니다.\n\n오늘 포스트에서는 실러의 이 독특한 '후각 리셋' 루틴의 과학적 근거와, 이를 안전하고 세련되게 현대적으로 해석한 '아로마 앵커링' 습관을 소개합니다."
     },
     "whyTitle": {
-      "ko": "후각과 인지 각성의 신경학적 연결",
-      "en": "Neurological Connection Between Smell and Cognitive Awakening",
-      "ja": "嗅覚と認知覚醒の神経学的つながり",
-      "zh": "嗅觉与认知唤醒的的神经学关联",
-      "es": "Conexión Neurológica Entre el Olfato y el Despertar Cognitivo",
-      "fr": "Lien Neurologique Entre l'Odorat et l'Éveil Cognitif",
-      "de": "Neurologische Verbindung zwischen Geruchssinn und kognitiver Aktivierung",
-      "pt": "Conexão Neurológica Entre o Olfato e o Despertar Cognitivo",
-      "id": "Hubungan Neurologis Antara Penciuman dan Kebangkitan Kognitif"
+      "ko": "후각과 인지 각성의 신경학적 연결"
     },
     "whyDesc": {
-      "ko": "인간의 모든 감각 중 후각은 유일하게 뇌의 필터 역할을 하는 '시상(Thalamus)'을 거치지 않고, 감정 및 기억을 주관하는 '변연계(Limbic System)'의 편도체와 해마로 직접 도달합니다. 이 때문에 냄새는 인지 상태를 변화시키는 가장 빠른 지름길입니다. \n\n실러가 맡았던 썩은 사과의 발효 가스(아세트알데히드 및 에탄올 등)는 미량 흡입 시 중추신경계를 순간적으로 각성시키고 혈류량을 증가시키는 생리적 자극제 역할을 했습니다. 또한, 특정 향기를 맡았을 때 집입 및 몰입 상태로 유도하는 심리학적 <strong>'조건형성(Classical Conditioning)'</strong>이 작용했습니다. 즉, 뇌에 '썩은 사과 냄새 = 강도 높은 창작 시간'이라는 신경학적 닻(Anchor)을 형성하여, 냄새를 맡는 즉시 산만했던 뇌가 고집중 상태로 직행하도록 훈련된 것입니다.",
-      "en": "Among all human senses, smell is the only one that bypasses the 'thalamus', which acts as the brain's filter, and directly reaches the amygdala and hippocampus in the 'limbic system' that governs emotions and memories. Because of this, scent is the fastest shortcut to altering cognitive states.\n\nThe fermented gases of rotten apples that Schiller inhaled (such as acetaldehyde and ethanol) acted as physiological stimulants that temporarily awakened the central nervous system and increased blood flow when inhaled in tiny amounts. In addition, psychological <strong>'classical conditioning'</strong> played a role, inducing an entry and immersion state when smelling a specific scent. In other words, a neurological anchor was formed in the brain: 'rotten apple scent = high-intensity creation time', training the distracted brain to go straight into a high-focus state as soon as it smelled the scent.",
-      "ja": "人間のあらゆる感覚の中で、嗅覚は唯一、脳のフィルターの役割をする「視床（Thalamus）」を経由せず、感情と記憶を司る「辺縁系（Limbic System）」の扁桃体や海馬に直接届きます。そのため、臭いは認知状態を変化させる最も素早い近道なのです。\n\nシラーが嗅いだ腐ったリンゴの発酵ガス（アセトアルデヒドやエタノールなど）は、微量吸入された際に中枢神経系を一時的に覚醒させ、血流量を増加させる生理的刺激剤の役割を果たしました。また、特定の臭いを嗅いだときに執筆・没頭状態へと導く心理学的な<strong>「条件づけ（Classical Conditioning）」</strong>が作用しました。つまり、脳に「腐ったリンゴの臭い＝高強度の創作時間」という神経学的な錨（アンカー）を形成し、臭いを嗅いだ瞬間に散漫だった脳が高度な集中状態へ直行するように訓練されたのです。",
-      "zh": "在人类所有的感觉中，嗅觉是唯一不经过起大脑过滤作用的“丘脑(Thalamus)”，而是直接到达主导情感与记忆的“边缘系统(Limbic System)”（杏仁核和海马体）的感觉。因此，气味是改变认知状态的最快捷径。\n\n席勒所吸入的烂苹果发酵气体（如乙醛和乙醇等），在微量吸入时起到了瞬间唤醒中枢神经系统并增加血流量的生理刺激剂作用。此外，心理学上的<strong>“经典条件反射(Classical Conditioning)”</strong>也发挥了作用，即在嗅到特定气味时诱导大脑进入创作与专注状态。也就是说，大脑中形成了一个神经学锚点（Anchor）：“烂苹果味 = 高强度创作时间”，从而训练分散的大脑在闻到气味的瞬间直接进入高度专注状态。",
-      "es": "De todos los sentidos humanos, el olfato es el único que no pasa por el 'tálamo', que actúa como filtro del cerebro, sino que llega directamente a la amígdala y al hipocampo en el 'sistema límbico' que rige las emociones y la memoria. Por ello, el olor es el atajo más rápido para alterar los estados cognitivos.\n\nLos gases de fermentación de las manzanas podridas que inhalaba Schiller (como el acetaldehído y el etanol) actuaban como estimulantes fisiológicos que despertaban temporalmente el sistema nervioso central e incrementaban el flujo sanguíneo en cantidades ínfimas. Además, existía un <strong>'condicionamiento clásico'</strong> psicológico que inducía un estado de inmersión al oler un aroma específico. Es decir, se formó un anclaje neurológico: 'olor a manzana podrida = tiempo de creación intensa', entrenando al cerebro distraído para entrar en foco inmediato.",
-      "fr": "De tous les sens, l'odorat est le seul à contourner le 'thalamus', le filtre du cerveau, pour atteindre directement l'amygdale et l'hippocampe dans le 'système limbique', siège des émotions et des souvenirs. L'odeur est donc le raccourci le plus rapide pour modifier l'état cognitif.\n\nLes gaz de fermentation des pommes pourries inhalés par Schiller (acétaldéhyde et éthanol) agissaient comme des stimulants physiologiques, éveillant temporairement le système nerveux central. De plus, un <strong>'conditionnement classique'</strong> psychologique entrait en jeu, induisant l'état d'immersion à la perception de l'odeur. En clair, le cerveau de Schiller avait créé une ancre neurologique : 'odeur de pomme pourrie = session d'écriture intense', entraînant le cerveau à se concentrer instantanément.",
-      "de": "Unter allen menschlichen Sinnen ist der Geruchssinn der einzige, der den 'Thalamus' – den Filter des Gehirns – umgeht und direkt die Amygdala und den Hippocampus im 'limbischen System' erreicht, das Emotionen und Erinnerungen steuert. Gerüche sind die schnellste Abkürzung zur Veränderung unseres kognitiven Zustands.\n\nDie Gase verfaulender Äpfel, die Schiller einatmete (wie Acetaldehyd und Ethanol), wirkten in minimaler Dosis als physiologische Stimulanzien, die das Zentralnervensystem aktivierten. Zudem wirkte eine psychologische <strong>'klassische Konditionierung'</strong>. Es bildete sich ein neurologischer Anker im Gehirn: 'Geruch verfaulender Äpfel = Phase hochkonzentrierten Schaffens', was das abgelenkte Gehirn trainierte, beim Riechen sofort in den Fokus-Modus zu schalten.",
-      "pt": "De todos os sentidos humanos, o olfato é o único que não passa pelo 'tálamo', que atua como filtro do cérebro, mas chega diretamente à amígdala e ao hipocampo no 'sistema límbico', que rege emoções e memórias. Por isso, o cheiro é o atalho mais rápido para alterar os estados cognitivos.\n\nOs gases de fermentação das maçãs podres que Schiller inalava (como acetaldeído e etanol) agiam como estimulantes fisiológicos que despertavam temporariamente o sistema nervoso central e aumentavam o fluxo sanguíneo. Além disso, havia um <strong>'condicionamento clássico'</strong> psicológico que induzia um estado de imersão ao sentir o cheiro específico. Ou seja, formou-se uma âncora neurológica: 'cheiro de maçã podre = tempo de criação intensa', treinando o cérebro para focar instantaneamente.",
-      "id": "Di antara semua indra manusia, penciuman adalah satu-satunya yang melewati 'talamus', yang bertindak sebagai filter otak, dan langsung mencapai amigdala dan hipokampus di 'sistem limbik' yang mengatur emosi dan memori. Karena itu, aroma adalah jalan pintas tercepat untuk mengubah kondisi kognitif.\n\nGas fermentasi apel busuk yang dihirup Schiller (seperti asetaldehida dan etanol) bertindak sebagai stimulan fisiologis yang merangsang sistem saraf pusat dan meningkatkan aliran darah ketika dihirup dalam jumlah kecil. Selain itu, <strong>'penondisian klasik'</strong> psikologis berperan, memicu keadaan fokus ketika mencium aroma tertentu. Dengan kata lain, jangkar neurologis terbentuk di otak: 'aroma apel busuk = waktu kreasi intensitas tinggi', melatih otak yang terganggu untuk langsung fokus saat mencium aroma tersebut."
+      "ko": "인간의 모든 감각 중 후각은 유일하게 뇌의 필터 역할을 하는 '시상(Thalamus)'을 거치지 않고, 감정 및 기억을 주관하는 '변연계(Limbic System)'의 편도체와 해마로 직접 도달합니다. 이 때문에 냄새는 인지 상태를 변화시키는 가장 빠른 지름길입니다. \n\n실러가 맡았던 썩은 사과의 발효 가스(아세트알데히드 및 에탄올 등)는 미량 흡입 시 중추신경계를 순간적으로 각성시키고 혈류량을 증가시키는 생리적 자극제 역할을 했습니다. 또한, 특정 향기를 맡았을 때 집입 및 몰입 상태로 유도하는 심리학적 <strong>'조건형성(Classical Conditioning)'</strong>이 작용했습니다. 즉, 뇌에 '썩은 사과 냄새 = 강도 높은 창작 시간'이라는 신경학적 닻(Anchor)을 형성하여, 냄새를 맡는 즉시 산만했던 뇌가 고집중 상태로 직행하도록 훈련된 것입니다."
     },
     "cautionTitle": {
-      "ko": "안전하고 효과적인 현대적 후각 앵커링",
-      "en": "Safe and Effective Modern Olfactory Anchoring",
-      "ja": "安全で効果的な現代的嗅覚アンカーリング",
-      "zh": "安全且高效的的现代嗅觉锚定",
-      "es": "Anclaje Olfativo Moderno Seguro y Eficaz",
-      "fr": "Un Ancrage Olfactif Moderne, Sain et Efficace",
-      "de": "Sicheres und effektives modernes Aroma-Anchoring",
-      "pt": "Ancoragem Olfativa Moderna Segura e Eficaz",
-      "id": "Penjangkaran Aroma Modern yang Aman dan Efektif"
+      "ko": "안전하고 효과적인 현대적 후각 앵커링"
     },
     "cautionDesc": {
-      "ko": "실러의 썩은 사과 요법은 이산화탄소와 아세트알데히드 독성으로 인해 두통을 유발할 수 있어 현대인이 그대로 따라 해서는 안 되는 위험한 방법입니다. 대신 인체에 무해하면서 집중을 유도하는 검증된 천연 아로마 오일(로즈마리, 페퍼민트)을 집필이나 공부 시작 전에만 의도적으로 사용하는 현대적 앵커링을 통해 안전하게 집중력을 각성시키세요.",
-      "en": "Schiller's rotten apple method can cause headaches due to carbon dioxide and acetaldehyde toxicity, so it is a dangerous method that modern people should not follow. Instead, use safe, modern anchoring by using proven natural essential oils (rosemary, peppermint) that induce concentration only before starting work or study.",
-      "ja": "シラーの腐ったリンゴ療法は、二酸化炭素やアセトアルデヒドの毒性により頭痛を引き起こす可能性があり、現代人がそのまま真似するには危険な方法です。代わりに、人体に無害でありながら集中を促す検証済み天然アロマオイル（ローズマリー、ペパーミント）を、執筆や勉強を始める直前のみ意図的に使用する現代的アンカーリングで安全に集中力を覚醒させてください。",
-      "zh": "席勒的烂苹果疗法可能会因二氧化碳和乙醛毒性而导致头痛，因此是现代人不宜模仿的危险方法。相反，请使用现代锚定法：在开始写作或学习前，有意识地仅使用经过验证的、能引导专心的天然香氛精油（如迷迭香、薄荷），安全地激活专注力。",
-      "es": "El método de la manzana podrida de Schiller puede provocar dolor de cabeza debido a la toxicidad del dióxido de carbono y el acetaldehído, por lo que es un método peligroso que no debe imitarse. En su lugar, utilice un anclaje moderno y seguro con aceites esenciales naturales probados (romero, menta) solo antes de empezar a trabajar o estudiar.",
-      "fr": "La méthode de la pomme pourrie de Schiller peut provoquer des maux de tête en raison de la toxicité du dioxyde de carbone et de l'acétaldéhyde, et ne doit pas être imitée. Utilisez plutôt un ancrage moderne et sain en diffusant des huiles essentielles naturelles reconnues (romarin, menthe poivrée) uniquement au début de vos sessions.",
-      "de": "Schillers Methode mit verfaulenden Äpfeln kann aufgrund von Kohlendioxid- und Acetaldehydtoxizität Kopfschmerzen verursachen und sollte nicht nachgeahmt werden. Nutzen Sie stattdessen sicheres Aroma-Anchoring mit bewährten natürlichen Ölen (Rosmarin, Pfefferminze) nur unmittelbar vor Arbeitsbeginn.",
-      "pt": "O método de maçã podre de Schiller pode causar dores de cabeça devido à toxicidade do dióxido de carbono e acetaldeído, sendo perigoso imitá-lo. Em vez disso, utilize uma ancoragem moderna e segura com óleos essenciais naturais comprovados (alecrim, hortelã-pimenta) apenas antes de começar a trabalhar ou estudar.",
-      "id": "Metode apel busuk Schiller dapat menyebabkan sakit kepala karena racun karbon dioksida dan asetaldehida, sehingga berbahaya untuk ditiru. Sebagai gantinya, gunakan penjangkaran modern yang aman dengan minyak esensial alami terbukti (rosemary, peppermint) hanya sebelum mulai bekerja atau belajar."
+      "ko": "실러의 썩은 사과 요법은 이산화탄소와 아세트알데히드 독성으로 인해 두통을 유발할 수 있어 현대인이 그대로 따라 해서는 안 되는 위험한 방법입니다. 대신 인체에 무해하면서 집중을 유도하는 검증된 천연 아로마 오일(로즈마리, 페퍼민트)을 집필이나 공부 시작 전에만 의도적으로 사용하는 현대적 앵커링을 통해 안전하게 집중력을 각성시키세요."
     },
     "steps": [
       {
         "name": {
-          "ko": "주의를 분산시키는 주변 냄새 환기",
-          "en": "Ventilating Distracting Surrounding Odors",
-          "ja": "注意を散らす周囲の臭いの換気",
-          "zh": "通风以清除分心的周围气味",
-          "es": "Ventilar los Olores Distractores del Entorno",
-          "fr": "Ventilation des Odeurs Perturbatrices",
-          "de": "Lüften ablenkender Gerüche",
-          "pt": "Ventilar Odores Distratores do Ambiente",
-          "id": "Ventilasi Bau Sekitar yang Mengganggu"
+          "ko": "주의를 분산시키는 주변 냄새 환기"
         },
         "text": {
-          "ko": "집중력을 모으기 전에 집필 공간을 충분히 환기하여 요리 냄새나 악취 등 주의력을 흩트러뜨릴 수 있는 미세한 잔류 냄새를 완전히 배출시킵니다.",
-          "en": "Before focusing, sufficiently ventilate the working space to completely discharge any fine residual odors, such as cooking smells or musty odors, that can distract attention.",
-          "ja": "集中する前に執筆空間を十分に換気し、料理の臭いや悪臭など、注意力を散らす原因となる微細な残留臭を完全に排出させます。",
-          "zh": "在集中注意力之前，充分通风工作空间，彻底清除可能分散注意力的微细残留气味（如料理味、霉味）。",
-          "es": "Antes de concentrarse, ventile bien el espacio de trabajo para eliminar por completo cualquier olor residual fino, como comida o humedad, que pueda distraer su atención.",
-          "fr": "Avant de commencer, aérez bien la pièce pour éliminer les odeurs résiduelles (cuisine, renfermé) qui pourraient perturber votre attention.",
-          "de": "Lüften Sie Ihren Arbeitsbereich vor dem Fokussieren gründlich, um Restgerüche (Essen, Muff) zu beseitigen, die Ihre Aufmerksamkeit stören könnten.",
-          "pt": "Antes de se concentrar, ventile bem o espaço de trabalho para eliminar qualquer odor residual fino, como comida ou mofo, que possa distrair sua atenção.",
-          "id": "Sebelum fokus, lakukan ventilasi ruang kerja untuk menghilangkan bau sisa seperti masakan atau bau apek yang dapat mengganggu konsentrasi."
+          "ko": "집중력을 모으기 전에 집필 공간을 충분히 환기하여 요리 냄새나 악취 등 주의력을 흩트러뜨릴 수 있는 미세한 잔류 냄새를 완전히 배출시킵니다."
         }
       },
       {
         "name": {
-          "ko": "고유한 몰입 전용 향기 지정 및 배치",
-          "en": "Designating and Placing a Unique Focus Scent",
-          "ja": "固有の没頭専用アロマの指定と配置",
-          "zh": "指定并放置专属的专注香氛",
-          "es": "Designar y Colocar un Aroma Exclusivo para Enfocarse",
-          "fr": "Choix et Placement d'une Odeur de Focus",
-          "de": "Zuweisung eines speziellen Fokus-Dufts",
-          "pt": "Designar e Posicionar um Aroma Exclusivo de Foco",
-          "id": "Menentukan dan Menempatkan Aroma Khusus Fokus"
+          "ko": "고유한 몰입 전용 향기 지정 및 배치"
         },
         "text": {
-          "ko": "평상시에 일상적으로 사용하지 않고, 오직 '고집중 작업 시간'에만 사용할 특정 천연 오일(예: 로즈마리, 페퍼민트)을 정해 책상 한구석에 배치합니다. 일상 향기와 구분되는 것이 중요합니다.",
-          "en": "Select a specific natural essential oil (e.g., rosemary, peppermint) that you do not use daily, but only use during 'high-focus work time', and place it on a corner of your desk. Distinguishing it from everyday scents is crucial.",
-          "ja": "普段日常的には使用せず、唯一「高度に集中して作業する時間」にのみ使用する特定の天然オイル（例：ローズマリー、ペパーミント）を決め、机の隅に配置します。日常の香りと区別することが重要です。",
-          "zh": "选择一种平日不用、仅在“高度专注工作时间”使用的特定天然精油（如迷迭香、薄荷），放在书桌角上。与日常气味区分开来至关重要。",
-          "es": "Elija un aceite natural específico (ej. romero, menta) que no use a diario, sino solo durante el 'tiempo de trabajo de alta concentración', y colóquelo en una esquina del escritorio. Es clave diferenciarlo de los aromas cotidianos.",
-          "fr": "Choisissez une huile essentielle naturelle spécifique (ex: romarin, menthe poivrée) que vous n'utilisez pas au quotidien, réservée au 'travail de haute concentration', et placez-la sur un coin du bureau. La distinction est capitale.",
-          "de": "Wählen Sie ein natürliches Öl (z. B. Rosmarin, Pfefferminze), das Sie im Alltag nicht verwenden, sondern ausschließlich für 'Fokus-Phasen' reservieren, und platzieren Sie es auf dem Schreibtisch. Die Abgrenzung zum Alltag ist wichtig.",
-          "pt": "Escolha um óleo natural específico (ex: alecrim, hortelã-pimenta) que você não usa diariamente, mas apenas durante o 'trabalho de alta concentração', e posicione-o no canto da mesa. É crucial diferenciá-lo dos aromas cotidianos.",
-          "id": "Pilih minyak alami tertentu (misalnya rosemary, peppermint) yang tidak Anda gunakan sehari-hari, tetapi hanya digunakan selama 'waktu kerja fokus tinggi', dan letakkan di sudut meja. Penting untuk membedakannya dari aroma sehari-hari."
+          "ko": "평상시에 일상적으로 사용하지 않고, 오직 '고집중 작업 시간'에만 사용할 특정 천연 오일(예: 로즈마리, 페퍼민트)을 정해 책상 한구석에 배치합니다. 일상 향기와 구분되는 것이 중요합니다."
         }
       },
       {
         "name": {
-          "ko": "10초 후각 흡입을 통한 인지 스위칭",
-          "en": "Cognitive Switching via 10-Second Olfactory Inhalation",
-          "ja": "10秒間の嗅覚吸入による認知スイッチング",
-          "zh": "通过10秒嗅觉吸入进行认知切换",
-          "es": "Cambio Cognitivo Mediante Inhalación Olfativa de 10 Segundos",
-          "fr": "Bascule Cognitive par Inspiration Olfactive de 10 s",
-          "de": "Kognitives Umschalten durch 10-sekündiges Einatmen",
-          "pt": "Mudança Cognitiva por Inalação Olfativa de 10 Segundos",
-          "id": "Peralihan Kognitif Melalui Penghirupan Aroma 10 Detik"
+          "ko": "10초 후각 흡입을 통한 인지 스위칭"
         },
         "text": {
-          "ko": "작업 시작 직전, 오일 병을 열어 코끝에 대고 10초간 깊게 숨을 들이마십니다. 이 향기와 함께 즉시 화면에 몰두하며 뇌의 고집중 회로를 켜는 조건화 훈련을 누적해 나갑니다.",
-          "en": "Right before starting work, open the oil bottle, hold it near your nose, and inhale deeply for 10 seconds. Immediately immerse yourself in the work, accumulating conditioning training that turns on the brain's focus circuit with this scent.",
-          "ja": "作業を開始する直前、オイルのボトルを開けて鼻先に近づけ、10秒間深く呼吸を吸い込みます。この香りと共にすぐに作業へ没頭し、脳の集中回路を稼働させる条件づけトレーニングを積み重ねていきます。",
-          "zh": "在开始工作前，打开精油瓶，凑近鼻尖深吸气10秒。伴随着这种香气，立即投入工作中，以此积累开启大脑专注回路的条件反射训练。",
-          "es": "Justo antes de empezar, abra el frasco de aceite, acérquelo a la nariz e inhale profundamente durante 10 segundos. Sumérjase de inmediato en la tarea, acumulando un entrenamiento que active el circuito de enfoque cerebral con este aroma.",
-          "fr": "Juste avant de démarrer, ouvrez le flacon, approchez-le du nez et inspirez profondément pendant 10 secondes. Plongez aussitôt dans votre travail pour ancrer ce signal d'attention dans votre cerveau.",
-          "de": "Öffnen Sie kurz vor dem Start das Ölfläschchen, halten Sie es unter die Nase und atmen Sie 10 Sekunden lang tief ein. Beginnen Sie sofort mit der Arbeit, um die Verknüpfung 'Duft = Fokus' im Gehirn zu festigen.",
-          "pt": "Antes de começar, abra o frasco de óleo, aproxime-o do nariz e inspire profundamente por 10 segundos. Entregue-se imediatamente à tarefa, acumulando um treino que ative o circuito de foco com esse aroma.",
-          "id": "Tepat sebelum mulai bekerja, buka botol minyak, dekatkan ke hidung, dan hirup dalam-dalam selama 10 detik. Segera mulai bekerja untuk melatih otak mengaktifkan sirkuit fokus dengan aroma tersebut."
+          "ko": "작업 시작 직전, 오일 병을 열어 코끝에 대고 10초간 깊게 숨을 들이마십니다. 이 향기와 함께 즉시 화면에 몰두하며 뇌의 고집중 회로를 켜는 조건화 훈련을 누적해 나갑니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "실러의 썩은 사과 냄새가 정말 뇌 자극 효과가 있었나요?",
-          "en": "Did the smell of Schiller's rotten apples really have a brain-stimulating effect?",
-          "ja": "シラーの腐ったリンゴの臭いは、本当に脳を刺激する効果があったのですか？",
-          "zh": "席勒的烂苹果味真的有刺激大脑的效果吗？",
-          "es": "¿Realmente tenía un efecto estimulante el olor de las manzanas podridas de Schiller?",
-          "fr": "L'odeur des pommes pourries de Schiller avait-elle un réel effet stimulant ?",
-          "de": "Hatte der Geruch von Schillers verfaulenden Äpfeln wirklich eine stimulierende Wirkung?",
-          "pt": "O cheiro de maçãs podres de Schiller realmente tinha um efeito estimulante?",
-          "id": "Apakah bau apel busuk Schiller benar-benar memiliki efek merangsang otak?"
+          "ko": "실러의 썩은 사과 냄새가 정말 뇌 자극 효과가 있었나요?"
         },
         "answer": {
-          "ko": "네, 발효되면서 방출되는 아세트알데히드는 순간적으로 산소 농도를 일시 저하시키고 호흡을 변화시켜 이색적인 자극을 주며, 후각 신호는 감정과 기억을 조절하는 뇌 변연계에 즉각 각성 신호를 주었을 것입니다.",
-          "en": "Yes, acetaldehyde released during fermentation temporarily alters respiration and gives a unique stimulus, and the olfactory signal would have immediately sent an awakening signal to the limbic system that controls emotions and memory.",
-          "ja": "はい、発酵時に放出されるアセトアルデヒドは一時的に酸素濃度を下げ、呼吸を変化させることで独特の刺激を与え、嗅覚信号は感情や記憶を司る脳の辺縁系に即座に覚醒信号を送ったと考えられます。",
-          "zh": "是的，发酵释放的乙醛会暂时降低局部氧气浓度并改变呼吸，带来独特的刺激；同时嗅觉信号会直接向控制情感与记忆的脑边缘系统发送觉醒信号。",
-          "es": "Sí, el acetaldehído liberado al fermentar reduce temporalmente el nivel de oxígeno y altera la respiración, dando un estímulo inusual; y la señal olfativa habría enviado un aviso de activación inmediato al sistema límbico.",
-          "fr": "Oui, l'acétaldéhyde libéré par la fermentation modifie temporairement la respiration et procure un stimulus particulier, tandis que le signal olfactif envoie un message d'éveil immédiat au système limbique.",
-          "de": "Ja, das freigesetzte Acetaldehyd beeinflusst kurzfristig den Sauerstoffgehalt und die Atmung, was einen Reiz darstellt. Zudem aktivierte das Geruchssignal direkt das limbische System.",
-          "pt": "Sim, o acetaldeído liberado na fermentação reduz temporariamente o nível de oxigênio e altera a respiração, proporcionando um estímulo incomum, e o sinal olfativo enviava um alerta imediato ao sistema límbico.",
-          "id": "Ya, asetaldehida yang dilepaskan selama fermentasi untuk sementara menurunkan kadar oksigen dan mengubah pernapasan, memberikan rangsangan unik; dan sinyal penciuman akan segera mengirimkan sinyal kebangkitan ke sistem limbik."
+          "ko": "네, 발효되면서 방출되는 아세트알데히드는 순간적으로 산소 농도를 일시 저하시키고 호흡을 변화시켜 이색적인 자극을 주며, 후각 신호는 감정과 기억을 조절하는 뇌 변연계에 즉각 각성 신호를 주었을 것입니다."
         }
       },
       {
         "question": {
-          "ko": "현대적 아로마 앵커링 시 권장되는 향기는 무엇인가요?",
-          "en": "What scents are recommended for modern aroma anchoring?",
-          "ja": "現代のアロマアンカーリングで推奨される香りは何ですか？",
-          "zh": "现代香氛锚定推荐使用什么香气？",
-          "es": "¿Qué aromas se recomiendan para el anclaje aromático moderno?",
-          "fr": "Quelles odeurs sont recommandées pour l'ancrage olfactif moderne ?",
-          "de": "Welche Düfte werden für das moderne Aroma-Anchoring empfohlen?",
-          "pt": "Quais aromas são recomendados para a ancoragem aromática moderna?",
-          "id": "Aroma apa yang direkomendasikan untuk penjangkaran aroma modern?"
+          "ko": "현대적 아로마 앵커링 시 권장되는 향기는 무엇인가요?"
         },
         "answer": {
-          "ko": "학술적으로 뇌의 집중력과 각성을 돕는 로즈마리, 혹은 피로를 해소하고 주의력을 깨워주는 페퍼민트, 유칼립투스 향이 가장 권장되며 시트러스 계열의 레몬 향도 긍정적 효과가 입증되어 있습니다.",
-          "en": "Rosemary, which scientifically helps brain concentration and alertness, or peppermint and eucalyptus, which relieve fatigue and wake up attention, are highly recommended. Citrus scents like lemon also have proven positive effects.",
-          "ja": "学術的に脳の集中力と覚醒を助けるローズマリー、あるいは疲労を回復し注意力を高めるペパーミントやユーカリの香りが最も推奨されます。シトラス系のレモンも、ポジティブな効果が実証されています。",
-          "zh": "学术上，最推荐能帮助大脑专注和觉醒的迷迭香，或者能缓解疲劳并唤醒注意力的薄荷、尤加利香。柑橘系的柠檬香也被证实有积极效果。",
-          "es": "Se recomienda el romero, que ayuda científicamente a la concentración y el estado de alerta; o la menta y el eucalipto, que alivian la fatiga cerebral. Los cítricos como el limón también han demostrado efectos positivos.",
-          "fr": "Le romarin, qui favorise la concentration et la vigilance, ou la menthe poivrée et l'eucalyptus, qui luttent contre la fatigue, sont recommandés. Les agrumes (citron) ont également des effets positifs prouvés.",
-          "de": "Rosmarin, das nachweislich die Konzentration fördert, oder Pfefferminze und Eukalyptus zur Verringerung von Müdigkeit werden am meisten empfohlen. Zitrone hat ebenfalls positive Effekte gezeigt.",
-          "pt": "Recomenda-se o alecrim, que ajuda cientificamente na concentração e alerta, ou hortelã-pimenta e eucalipto, que aliviam a fadiga. Aromas cítricos como limão também têm efeitos positivos comprovados.",
-          "id": "Rosemary, yang secara ilmiah membantu konsentrasi dan kewaspadaan otak, atau peppermint dan eucalyptus, yang meredakan kelelahan dan membangunkan perhatian, sangat direkomendasikan. Aroma sitrus seperti lemon juga terbukti memiliki efek positif."
+          "ko": "학술적으로 뇌의 집중력과 각성을 돕는 로즈마리, 혹은 피로를 해소하고 주의력을 깨워주는 페퍼민트, 유칼립투스 향이 가장 권장되며 시트러스 계열의 레몬 향도 긍정적 효과가 입증되어 있습니다."
         }
       }
-    ],
-    "stepImages": [
-      "",
-      "",
-      ""
-    ],
-    "pubDate": "2026-05-05",
-    "updatedDate": "2026-05-05"
+    ]
   }
 }

@@ -1,19 +1,27 @@
 ---
-formatVersion: 4
 title: "조지 워싱턴의 '영농 일지': 초대 대통령의 행정력을 낳은 새벽 순찰과 기록"
 description: "새벽 4시 기상 후 직접 마운트 버넌 농장을 돌며 기후와 농작물 수치를 정밀 기록했던 조지 워싱턴. 국가 행정의 뼈대가 된 메타 인지 습관을 탐구합니다."
-pubDate: "2026-07-04"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["위인 습관", "조지 워싱턴", "행정력", "영농 일지", "메타 인지"]
-heroImage: "/images/blog/george_washington_morning_rounds.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/george_washington_morning_rounds.png"
 app: "buildself"
-authority: "조지 워싱턴의 서명 영농 일지(Diaries of George Washington) 원본"
-updatedDate: "2026-07-04"
+formatVersion: 4
+authority: "George Washington Morning Rounds 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+steps:
+  - name: "매일 측정할 핵심 운영 수치 선정"
+    text: "기상 시간, 독서량(페이지), 코딩/업무 몰입 시간 등 내 하루 생산성을 가늠할 수 있는 2~3개의 객관적 항목을 규정합니다."
+  - name: "현장 진찰 또는 중간 점검"
+    text: "하루의 중간 지점인 오후나 일과 직전, 설정한 핵심 수치의 중간 진척 상황을 감정에 치우치지 않고 직관적으로 파악합니다."
+  - name: "일일 영농 일지(Logbook) 작성"
+    text: "일과 종료 직후, 공책이나 기록 툴을 열고 측정된 실측 수치를 있는 그대로 꼼꼼히 기록하고, 일주일 단위의 평균값 추이를 관찰해 비효율을 진단합니다."
 faqs:
   - question: "수치가 좋지 않게 측정된 날에는 일지를 쓰기가 싫어집니다. 이럴 때는 어떻게 하나요?"
     answer: "메타 인지 활성화의 핵심은 '성공'이 아니라 '정확한 모니터링'에 있습니다. 목표를 성취하지 못한 날의 낮은 수치를 정직하게 대면하여 적어 나가는 행동이 왜곡된 인지적 착각을 걷어내고 내일의 전략을 설계할 회복력을 키워 줍니다."
   - question: "모든 지표를 노션이나 엑셀로만 관리해도 되나요?"
     answer: "디지털 기기는 기록 도중에 SNS나 메일 알림 등의 유혹이 큽니다. 가급적 조지 워싱턴처럼 종이 일지와 아날로그 펜을 사용하여 하루 지표를 수작업으로 적는 시간이 두뇌 인지 정화와 깊은 통찰 형성에 훨씬 강력한 몰입을 보장합니다."
+
 ---
 
 "글을 남기는 습관은 생각의 불완전함을 바로잡아 주는 가장 정직한 거울이다." ☀️
@@ -28,27 +36,27 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 조지 워싱턴의 자필 마운트 버넌 일기 기록 자료군 <strong>&lt;Diaries of George Washington&gt;</strong> 및 실측 수치 기반의 메타 인지 피드백 훈련이 대뇌 전전두엽 주의 조절망 발달과 합리적 판단 유발에 미치는 행동 의학 분석을 바탕으로 제작되었습니다.
+      본 콘텐츠는 <strong>George Washington Morning Rounds 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 george-washington-morning-rounds 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 정교한 수치 기록이 메타 인지를 깨우는 원리
+## 정교한 수치 기록이 메타 인지를 깨우는 원리
 
 뇌의 메타 인지(Metacognition)는 '내가 아는 것과 모르는 것을 정확하게 판별하는 인지 능력'입니다. 메타 인지가 약하면 자신이 처한 비효율성이나 리스크를 제대로 자각하지 못한 채 피상적인 감각에 의존해 오판을 내리게 됩니다.
 
-조지 워싱턴처럼 매일 기후 조건이나 작물 상태 같은 복잡한 실측 수치를 직접 수작업으로 꼼꼼히 기록하는 행동은 뇌의 외측 전전두엽 피질과 하전두엽의 모니터링 영역을 강력하게 활성화합니다. 모호한 가설을 버리고 실측값에만 뇌를 정조준함으로써, 인지적 착각(Cognitive Illusion)을 걷어내고 가장 객관적인 팩트를 인지하여 신속하고 오차 없는 자원 분배 의사결정을 내릴 수 있게 이끕니다.
+조지 워싱턴처럼 매일 기후 조건이나 작물 상태 같은 복잡한 실측 수치를 직접 수작업으로 꼼꼼히 기록하는 행동은 뇌의 외측 전전두엽 피질과 하전두엽의  영역을 강력하게 활성화합니다. 모호한 가설을 버리고 실측값에만 뇌를 정조준함으로써, 인지적 착각(Cognitive Illusion)을 걷어내고 가장 객관적인 팩트를 인지하여 신속하고 오차 없는 자원 분배 의사결정을 내릴 수 있게 이끕니다.
 
 ---
 
-## 2. 현대인을 위한 워킹 레코드 루틴 3단계
+## 단순한 기분 기록은 일지가 아닙니다
 
-감정에 휘둘리지 않고 하루의 실적을 가장 정밀하게 데이터베이스화하는 아침-저녁 지표 통제 가이드입니다.
+'오늘 기분이 피곤했다' 같은 단순한 감정 기록은 메타 인지를 활성화하지 못합니다. 조지 워싱턴의 일지처럼 기상 시간, 공부 페이지 수, 작업 시간, 운동 세트 수처럼 객관적인 '수치'를 직접 기입할 때만 인지 회로가 활성화되고 비효율을 고칠 수 있는 통제력이 생겨납니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -56,7 +64,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">매일 측정할 핵심 운영 수치 선정</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    기상 시간, 독서량(페이지), 코딩/업무 몰입 시간 등 내 하루 생산성을 가늠할 수 있는 -개의 객관적 항목을 규정합니다.
+    기상 시간, 독서량(페이지), 코딩/업무 몰입 시간 등 내 하루 생산성을 가늠할 수 있는 2~3개의 객관적 항목을 규정합니다.
   </p>
 </div>
 
@@ -80,28 +88,13 @@ faqs:
   </p>
 </div>
 
----
-
-## 3. 성공적인 루틴을 위한 뇌과학적 한마디
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">단순한 기분 기록은 일지가 아닙니다</strong>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      '오늘 기분이 피곤했다' 같은 단순한 감정 기록은 메타 인지를 활성화하지 못합니다. 조지 워싱턴의 일지처럼 기상 시간, 공부 페이지 수, 작업 시간, 운동 세트 수처럼 객관적인 '수치'를 직접 기입할 때만 인지 회로가 활성화되고 비효율을 고칠 수 있는 통제력이 생겨납니다.
-    </p>
-  </div>
-</div>
-
----
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>수치가 좋지 않게 측정된 날에는 일지를 쓰기가 싫어집니다. 이럴 때는 어떻게 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -109,9 +102,9 @@ faqs:
       메타 인지 활성화의 핵심은 '성공'이 아니라 '정확한 모니터링'에 있습니다. 목표를 성취하지 못한 날의 낮은 수치를 정직하게 대면하여 적어 나가는 행동이 왜곡된 인지적 착각을 걷어내고 내일의 전략을 설계할 회복력을 키워 줍니다.
     </p>
   </details>
-
+  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>모든 지표를 노션이나 엑셀로만 관리해도 되나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

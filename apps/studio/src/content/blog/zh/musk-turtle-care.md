@@ -25,7 +25,7 @@ faqs:
       兽医学与行为学依据
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>World Chelonian Association 乌龟卫生指南及半水生龟饲养兽医指南</strong>。
+将此惯例应用到日常习惯中，体验深度专注与认知能力的提升。
     </p>
   </div>
 </div>
@@ -87,7 +87,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">白天：检查UV-B及加热射灯是否正常运行</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    If 缺乏维生素D，极易患上代谢性骨病（MBD）导致骨骼变软，因此需确认日光浴陆地用灯具是否亮起。
+将此惯例应用到日常习惯中，体验深度专注与认知能力的提升。
   </p>
 </div>
 

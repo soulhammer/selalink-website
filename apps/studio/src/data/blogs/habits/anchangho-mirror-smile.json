@@ -1,194 +1,64 @@
 {
   "anchangho-mirror-smile": {
     "title": {
-      "ko": "긍정적 뇌 회로를 깨우는 힘: 도산 안창호의 거울 미소와 청결 루틴",
-      "en": "Awakening the Positive Brain Loop: Ahn Chang-ho's Mirror Smile and Cleaning Routine",
-      "ja": "ポジティブな脳内回路を目覚めさせる力：安昌浩の鏡の笑顔と清掃ルーティン",
-      "zh": "唤醒积极的大脑回路：安昌浩的镜前微笑与清扫惯例",
-      "es": "Despertar el Bucle Cerebral Positivo: La Rutina de Sonrisa en el Espejo y Limpieza de Ahn Chang-ho",
-      "fr": "Éveiller la boucle cérébrale positive : la routine de sourire au miroir et de nettoyage d'Ahn Chang-ho",
-      "de": "Aktivierung der positiven Gehirnschleife: Ahn Chang-hos Routine von Lächeln im Spiegel und Reinigung",
-      "pt": "Despertar o Circuito Cerebral Positivo: A Rotina de Sorriso no Espelho e Limpeza de Ahn Chang-ho",
-      "id": "Membangun Putaran Otak Positif: Rutinitas Senyum Cermin dan Pembersihan Ahn Chang-ho"
+      "ko": "긍정적 뇌 회로를 깨우는 힘: 도산 안창호의 거울 미소와 청결 루틴"
     },
     "description": {
-      "ko": "독립운동가 도산 안창호가 강조한 '미소'와 '청결'의 힘. 억지 미소가 뇌의 세로토닌을 분비하고 정돈된 공간이 시각적 인지 부하를 줄여주는 과학적 이유를 알아봅니다.",
-      "en": "The power of 'smile' and 'cleanliness' emphasized by independence activist Ahn Chang-ho. Explore the scientific reasons why forced smiles release serotonin and organized spaces reduce cognitive load.",
-      "ja": "独立運動家・安昌浩が強調した「笑顔」と「清掃」の力。作り笑顔が脳のセロトニンを分泌させ、整った空間が視覚的認知負荷を減らす科学的な理由を調べます。",
-      "zh": "独立运动家安昌浩所强调的“微笑”与“清扫”的力量。探讨做出勉强微笑可以促进大脑分泌血清素、整洁的空间可以减轻视觉认知负荷的科学原因。",
-      "es": "El poder de la sonrisa y la limpieza destacado por el activista Ahn Chang-ho. Descubra por qué las sonrisas forzadas liberan serotonina y los espacios ordenados reducen la carga cognitiva.",
-      "fr": "Le pouvoir du sourire et de la propreté prôné par Ahn Chang-ho. Découvrez pourquoi un sourire forcé libère de la sérotonine et comment un espace ordonné réduit la charge cognitive.",
-      "de": "Die Kraft des Lächelns und der Sauberkeit, betont vom Unabhängigkeitsaktivisten Ahn Chang-ho. Erfahren Sie, warum erzwungenes Lächeln Serotonin freisetzt und geordnete Räume die kognitive Belastung reduzieren.",
-      "pt": "O poder do sorriso e da limpeza enfatizado pelo ativista Ahn Chang-ho. Descubra os motivos científicos pelos quais sorrisos forçados liberam serotonina e espaços ordenados reduzem a carga cognitiva.",
-      "id": "Kekuatan senyuman dan kebersihan yang ditekankan oleh aktivis Ahn Chang-ho. Temukan alasan ilmiah mengapa senyuman paksa melepaskan serotonin dan ruang yang rapi mengurangi beban kognitif."
+      "ko": "독립운동가 도산 안창호가 강조한 '미소'와 '청결'의 힘. 억지 미소가 뇌의 세로토닌을 분비하고 정돈된 공간이 시각적 인지 부하를 줄여주는 과학적 이유를 알아봅니다."
     },
     "authority": {
-      "ko": "도산 안창호의 흥사단(興士團) 강론 기록 및 안면 피드백 가설(Facial Feedback Hypothesis) 생리학 연구",
-      "en": "Ahn Chang-ho's Young Korean Academy lectures & Physiological Research on the Facial Feedback Hypothesis",
-      "ja": "安昌浩の興士団での講論記録および顔面フィードバック仮説（Facial Feedback Hypothesis）に関する生理学研究",
-      "zh": "安昌浩在兴士团的讲论记载与关于面部反馈假说（Facial Feedback Hypothesis）的生理学研究",
-      "es": "Conferencias de Ahn Chang-ho e investigación sobre la hipótesis de retroalimentación facial",
-      "fr": "Conférences d'Ahn Chang-ho & recherche sur l'hypothèse de rétroaction faciale",
-      "de": "Ahn Chang-hos Vorträge & Physiologische Forschung zur Facial-Feedback-Hypothese",
-      "pt": "Palestras de Ahn Chang-ho e pesquisas sobre a hipótese de feedback facial",
-      "id": "Kuliah Ahn Chang-ho & Penelitian Fisiologis tentang Hipotesis Umpan Balik Wajah"
+      "ko": "Anchangho Mirror Smile 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "대한민국의 독립운동가이자 위대한 교육적 지도자인 도산 안창호. 그는 무장 투쟁만큼이나 우리 민족 개개인의 도덕성과 지적 실력, 그리고 일상의 품격을 길러야 독립을 이룰 수 있다고 믿었습니다. 그는 단원들에게 늘 '빙그레' 웃는 낯으로 서로를 대하고, 머무는 모든 공간을 깨끗하게 청소하며 질서를 세울 것을 엄격히 가르쳤습니다. 🧹\n\n안창호는 스스로 거울을 보며 미소 짓는 연습을 하고, 아침에 일어나 방을 깨끗이 정돈하는 솔선수범의 자세를 평생 유지했습니다. 이는 脳科学的으로 편도체 불안을 진정시키고 주의 집중력을 높이는 훌륭한 인지 정화 의식입니다.\n\n오늘 BuildSelf에서는 도산 안창호가 실천한 거울 미소와 청결 루틴 속에 내포된 안면 피드백 및 환경 심리학의 원리를 탐구하고, 현대인이 일상의 활력과 집중력을 깨우는 3단계 실천 방안을 제시합니다.",
-      "en": "Ahn Chang-ho, the great educational leader and independence activist of Korea, believed that building individual morality, intelligence, and daily dignity was as crucial as armed struggle for independence. He strictly taught his members to treat each other with a smiling face and keep all spaces clean to establish order. 🧹\n\nHe practiced smiling in front of the mirror and kept his room pristine. In brain science, this is an excellent cognitive purification ritual that soothes amygdala anxiety and sharpens focus.\n\nToday, BuildSelf explores the facial feedback and environmental psychology principles in Ahn Chang-ho's mirror smile and cleanliness routine, offering a 3-step action plan to awaken daily vitality and focus.",
-      "ja": "大韓民国の独立運動家であり偉大な教育的指導者である安昌浩。彼は武装闘争と同じくらい、我が民族個人の道徳性と知的な実力、そして日常の品格を養ってこそ独立を達成できると信じていました。彼は団員たちにいつも笑顔でお互いに接し、滞在するすべての空間を綺麗に掃除して秩序を立てるよう厳しく教えました。🧹\n\n安昌浩は自ら鏡を見て笑顔の練習をし、朝起きて部屋を綺麗に整頓する率先垂範の姿勢を生涯維持しました。これは脳科学的に扁桃体の不安を和らげ、注意集中力を高める優れた認知浄化の儀式です。\n\n本日、BuildSelfでは安昌浩が実践した鏡の笑顔と清掃ルーティンに秘められた顔面フィードバックおよび環境心理学の原理を探究し、現代人が日常の活力と集中力を呼び覚ます3ステップの実践方案を提示します。",
-      "zh": "在这一历史性惯例的实践中： . , . '' , . 🧹 在这一历史性惯例的实践中： , . 脳科学的 . 在这一历史性惯例的实践中： BuildSelf , 3 .",
-      "es": "Ahn Chang-ho, el gran líder educativo y activista por la independencia de Corea, creía que cultivar la moralidad individual, la inteligencia y la dignidad diaria era tan crucial para la independencia como la lucha armada. Enseñó estrictamente a sus miembros a tratarse con una sonrisa y a mantener limpios todos los espacios para establecer el orden. 🧹\n\nÉl mismo practicaba sonreír frente al espejo y mantenía su habitación impecable. En la ciencia cerebral, este es un excelente ritual de purificación cognitiva que calma la ansiedad de la amígdala y agudiza el enfoque.\n\nHoy, BuildSelf explora los principios de retroalimentación facial y psicología ambiental de la rutina de Ahn Chang-ho, ofreciendo un plan de 3 pasos para despertar la vitalidad diaria.",
-      "fr": "Ahn Chang-ho, grand leader de l'éducation et activiste pour l'indépendance de la Corée, pensait que développer la moralité individuelle, l'intelligence et la dignité quotidienne était aussi crucial pour l'indépendance que la lutte armée. Il enseignait à ses membres de s'adresser aux autres avec un sourire et de garder les espaces propres pour instaurer l'ordre. 🧹\n\nIl s'exerçait lui-même à sourire devant le miroir et gardait sa chambre propre. En sciences cognitives, c'est un excellent rituel de purification mentale qui apaise l'amygdale et aiguise la concentration.\n\nAujourd'hui, BuildSelf explore les principes de rétroaction faciale et de psychologie environnementale d'Ahn Chang-ho, proposant un plan en 3 étapes pour réveiller la vitalité quotidienne.",
-      "de": "Ahn Chang-ho, der große Bildungsführer und Unabhängigkeitsaktivist Koreas, glaubte, dass der Aufbau individueller Moral, Intelligenz und Würde ebenso wichtig für die Unabhängigkeit war wie der bewaffnete Kampf. Er lehrte seine Mitglieder streng, sich mit einem Lächeln zu begegnen und alle Räume sauber zu halten, um Ordnung zu schaffen. 🧹\n\nEr übte selbst das Lächeln vor dem Spiegel und hielt sein Zimmer makellos. In der Hirnforschung ist dies ein hervorragendes kognitives Reinigungsritual, das die Angst der Amygdala lindert und den Fokus schärft.\n\nHeute untersucht BuildSelf die Prinzipien des Facial-Feedback und der Umweltpsychologie in Ahn Chang-hos Routine und bietet einen 3-Schritte-Aktionsplan zur Aktivierung der täglichen Vitalität.",
-      "pt": "Ahn Chang-ho, o grande líder educacional e ativista da independência da Coreia, acreditava que cultivar a moralidade individual, a inteligência e a dignidade diária era tão crucial para a independência quanto a luta armada. Ele ensinou rigorosamente seus membros a se tratarem com um sorriso e a manterem limpos todos os espaços para estabelecer a ordem. 🧹\n\nEle mesmo praticava sorrir em frente ao espelho e mantinha seu quarto impecável. Na ciência cerebral, esse é um excelente ritual de purificação cognitiva que acalma a ansiedade da amígdala e aguça o foco.\n\nHoje, o BuildSelf explora os princípios de feedback facial e psicologia ambiental na rotina de Ahn Chang-ho, oferecendo um plano de 3 passos para despertar a vitalidade diária.",
-      "id": "Ahn Chang-ho, pemimpin pendidikan dan aktivis kemerdekaan Korea, percaya bahwa membangun moralitas individu, kecerdasan, dan martabat harian sama pentingnya dengan perjuangan bersenjata demi kemerdekaan. Ia mengajarkan anggotanya untuk saling memperlakukan dengan senyuman dan menjaga kebersihan semua ruang untuk membangun ketertiban. 🧹\n\nIa berlatih tersenyum di depan cermin dan menjaga kamarnya tetap bersih. Dalam ilmu otak, ini adalah ritual pembersihan kognitif yang meredakan kecemasan amigdala dan menajamkan fokus.\n\nHari ini, BuildSelf mengeksplorasi prinsip umpan balik wajah dan psikologi lingkungan dalam rutinitas Ahn Chang-ho, menawarkan panduan 3 langkah untuk membangkitkan vitalitas harian."
+      "ko": "\"기뻐서 웃는 것이 아니라 웃기 때문에 기쁜 것이다. 아침마다 거울 앞에서 웃는 낯을 연습하고 주변을 깨끗이 쓸어라.\" 🧹\n\n대한민국의 독립운동가이자 위대한 교육적 지도자인 도산 안창호. 그는 총칼을 든 무장 투쟁만큼이나 우리 민족 개개인의 도덕성과 지적 실력, 그리고 일상의 품격을 길러야 독립을 이룰 수 있다고 믿었습니다. 그는 단원들에게 늘 '빙그레' 웃는 낯으로 서로를 대하고, 자신이 머무는 모든 공간을 깨끗하게 청소하며 마음의 무질서를 바로잡을 것을 강조했습니다. 안창호는 스스로 거울을 보며 미소 짓는 연습을 하고, 아침에 일어나 방을 깨끗이 쓸고 정돈하는 솔선수범의 자세를 평생 유지했습니다.\n\n많은 현대인들이 복잡한 생각과 아침의 무기력함에 짓눌려 하루를 시작하곤 합니다. 하지만 거울 앞에서 인위적으로라도 미소를 짓는 것과 주변 환경을 시각적으로 정돈하는 일은 인지과학적으로 뇌에 강력한 리프레시 자극을 주는 검증된 행동 요법입니다. 뇌는 표정 근육의 긴장을 통해 감정을 역추적하며, 깨끗한 환경은 뇌가 정보 처리에 소모하는 인지적 에너지를 절약해 줍니다.\n\n오늘 포스트에서는 도산 안창호가 평생 실천한 거울 미소와 청결 루틴 속에 내포된 안면 피드백 이론과 공간 심리학의 원리를 분석하고, 현대인이 매일 아침 인지적 각성과 삶의 에너지를 회복하는 3단계 실천 방안을 제시합니다."
     },
     "whyTitle": {
-      "ko": "안면 피드백 가설과 물리 공간 정돈의 인지 치료 효과",
-      "en": "Facial Feedback Hypothesis and Cognitive Benefits of Physical Tidiness",
-      "ja": "顔面フィードバック仮説と物理空間整頓の認知治療効果",
-      "zh": "面部反馈假说与物理空间整理的认知治疗效果",
-      "es": "Hipótesis de Retroalimentación Facial y Beneficios Cognitivos del Orden Físico",
-      "fr": "L'hypothèse de rétroaction faciale et les bienfaits cognitifs de l'ordre physique",
-      "de": "Facial-Feedback-Hypothese und Kognitive Vorteile Physischer Ordnung",
-      "pt": "Hipótese de Feedback Facial e Benefícios Cognitivos do Ordenamento Físico",
-      "id": "Hipotesis Umpan Balik Wajah dan Manfaat Kognitif dari Kerapian Fisik"
+      "ko": "안면 피드백 가설과 물리 공간 정돈의 인지 치료 효과"
     },
     "whyDesc": {
-      "ko": "생리학의 안면 피드백 가설(Facial Feedback Hypothesis)에 따르면, 뇌는 단순히 감정에 따라 안면 근육을 움직이는 것뿐만 아니라 역으로 안면 근육의 수축 상태를 감지하여 현재의 감정을 판별합니다. 아침에 억지로 웃는 표정을 짓는 것만으로도 뇌는 기쁨의 자극으로 인지하여 세로토닌과 도파민 같은 긍정적 신경전달물질의 분비를 촉진하고, 스트레스 호르몬인 코르티솔의 양을 떨어뜨립니다.\n\n또한, 주변 공간을 청소하고 정돈하는 행위는 뇌의 시각 피질이 받아들이는 불필요한 시각 자극(Visual Noise)을 대폭 차단합니다. 뇌는 시각적 난잡함을 위협 요소나 미완결 과제로 해석해 스트레스를 받는데, 공간이 정돈되면 뇌의 작동 에너지가 회복되어 메인 과업에 즉시 집중할 수 있는 상태로 세팅됩니다.",
-      "en": "According to the Facial Feedback Hypothesis, the brain senses facial muscle contractions to determine emotional state. Simply making a smiling expression in the morning prompts the brain to recognize joy, encouraging the release of serotonin and dopamine while reducing cortisol.\n\nAdditionally, cleaning and organizing your surroundings blocks unnecessary visual noise that floods the visual cortex. The brain interprets visual clutter as a threat or unfinished task, inducing stress. When tidied, the brain's cognitive energy is restored, setting it up for immediate focus on core tasks.",
-      "ja": "生理学の顔面フィードバック仮説（Facial Feedback Hypothesis）によると、脳は単に感情に従って表情筋を動かすだけでなく、逆に表情筋の収縮状態を検知して現在の感情を判別します。朝、作り笑顔を作るだけでも、脳はそれを喜びの刺激と認識し、セロトニンやドーパミンなどの肯定的な神経伝達物質の分泌を促し、ストレスホルモンであるコルチゾールの量を下げます。\n\nまた、周辺空間を掃除して整頓する行為は、脳の視覚皮質が受け取る不必要な視覚刺激（Visual Noise）を大幅に遮断します。脳は視覚的な乱雑さを脅威要素や未完成の課題と解釈してストレスを感じますが、空間が整頓されると脳の作動エネルギーが回復し、メインのタスクに即座に集中できる状態にセットされます。",
-      "zh": "生理学中的面部反馈假说（Facial Feedback Hypothesis）表明，大脑不仅简单地根据情绪来移动面部肌肉，反过来也会感知表情肌的收缩状态来判断当下的情绪。清晨仅是做出微笑的表情，大脑也会将其认知为快乐的刺激，从而促进血清素和多巴胺等积极神经递质的分泌，降低压力激素皮质醇的含量。\n\n此外，清扫并整理周围空间的行为可以大幅遮断大脑视觉皮层接收到的无用视觉刺激（Visual Noise）。大脑会将视觉上的杂乱解读为威胁要素或未完成的任务，从而产生压力；当空间被整理干净时，大脑的运转能量得以恢复，直接被设定为可以立即专注于主要任务的状态。",
-      "es": "Según la Hipótesis de Retroalimentación Facial, el cerebro detecta las contracciones musculares para evaluar el estado emocional. Sonreír por la mañana hace que el cerebro reconozca alegría, liberando serotonina y dopamina, y reduciendo el cortisol.\n\nAdemás, limpiar y organizar su entorno bloquea el ruido visual innecesario en la corteza visual. El cerebro interpreta el desorden como una amenaza o tarea incompleta, lo que induce estrés. Al ordenar, la energía del cerebro se restablece, preparándolo para concentrarse en las tareas principales.",
-      "fr": "Selon l'hypothèse de rétroaction faciale, le cerveau interprète la contraction des muscles du visage pour évaluer l'état émotionnel. Le simple fait de sourire le matin incite l'esprit à ressentir de la joie, libérant de la sérotonine et de la dopamine tout en diminuant le cortisol.\n\nDe plus, nettoyer et ranger son espace de vie élimine la pollution visuelle inutile qui encombre le cortex visuel. Le cerveau perçoit le désordre comme une menace ou une tâche inachevée, provoquant du stress. Une fois rangé, l'esprit retrouve sa sérénité et sa capacité à se concentrer.",
-      "de": "Nach der Facial-Feedback-Hypothese erkennt das Gehirn Muskelkontraktionen zur Bewertung des emotionalen Zustands. Einfaches Lächeln am Morgen veranlasst das Gehirn, Freude zu erkennen, was die Freisetzung von Serotonin und Dopamin fördert und Cortisol reduziert.\n\nZudem blockiert das Aufräumen der Umgebung unnötiges visuelles Rauschen in der Sehrinde. Das Gehirn interpretiert Unordnung als Bedrohung oder unfertige Aufgabe, was Stress induziert. Durch Ordnung wird die kognitive Energie des Gehirns wiederhergestellt und auf Fokus vorbereitet.",
-      "pt": "De acordo com a Hipótese de Feedback Facial, o cérebro detecta contrações musculares para avaliar o estado emocional. Sorrir pela manhã faz com que o cérebro reconheça a alegria, liberando serotonina e dopamina, e reduzindo o cortisol.\n\nAlém disso, limpar e organizar seu ambiente bloqueia o ruído visual desnecessário no córtex visual. O cérebro interpreta a desorganização como uma ameaça ou tarefa inacabada, o que induz o estresse. Ao organizar, a energia do cérebro é restaurada, preparando-o para se concentrar nas principais tarefas.",
-      "id": "Menurut Hipotesis Umpan Balik Wajah, otak mendeteksi kontraksi otot wajah untuk menilai kondisi emosional. Tersenyum di pagi hari memicu otak mengenali kegembiraan, memicu pelepasan serotonin dan dopamin serta menurunkan kortisol.\n\nSelain itu, membersihkan dan merapikan lingkungan memblokir kebisingan visual yang membanjiri korteks visual. Otak menafsirkan kekacauan visual sebagai ancaman atau tugas yang belum selesai, memicu stres. Ketika rapi, energi kognitif otak pulih, menyiapkannya untuk fokus pada tugas utama."
+      "ko": "생리학의 안면 피드백 가설(Facial Feedback Hypothesis)에 따르면, 뇌는 단순히 감정에 따라 안면 근육을 움직이는 것뿐만 아니라 역으로 안면 근육의 수축 상태를 감지하여 현재의 감정을 판별합니다. 아침에 억지로 웃는 표정을 짓는 것만으로도 뇌는 기쁨의 자극으로 인지하여 세로토닌과 도파민 같은 긍정적 신경전달물질의 분비를 촉진하고, 스트레스 호르몬인 코르티솔의 양을 떨어뜨립니다.\n\n또한, 주변 공간을 청소하고 정돈하는 행위는 뇌의 시각 피질이 받아들이는 불필요한 시각 자극(Visual Noise)을 대폭 차단합니다. 뇌는 시각적 난잡함을 위협 요소나 미완결 과제로 해석해 스트레스를 받는데, 공간이 정돈되면 뇌의 작동 에너지가 회복되어 메인 과업에 즉시 집중할 수 있는 상태로 세팅됩니다."
     },
     "cautionTitle": {
-      "ko": "정신과 공간의 정돈을 위한 도산의 한마디",
-      "en": "Ahn's Word for Tidying Mind and Space",
-      "ja": "精神と空間を整えるための安昌浩の教え",
-      "zh": "安昌浩关于整顿精神与空间的寄语",
-      "es": "Un Mensaje de Ahn para Ordenar la Mente y el Espacio",
-      "fr": "Un Mot d'Ahn pour Ranger l'Esprit et l'Espace",
-      "de": "Ahns Rat zur Ordnung von Geist und Raum",
-      "pt": "Um Conselho de Ahn para Organizar a Mente e o Espaço",
-      "id": "Nasihat Ahn untuk Merapikan Pikiran dan Ruang"
+      "ko": "정신과 공간의 정돈을 위한 도산의 한마디"
     },
     "cautionDesc": {
-      "ko": "마음이 흐트러졌을 때는 억지로 생각을 다잡으려 애쓰기보다, 먼저 거울 속 나에게 미소를 보내고 눈앞의 휴지 하나를 줍는 것에서 시작하세요. 미소는 내면의 어둠을 걷어내고, 청결은 외부의 무질서를 바로잡아 나를 바른길로 인도해 줍니다.",
-      "en": "When your mind is messy, rather than forcing thoughts together, start by smiling at yourself in the mirror and picking up a piece of trash. A smile clears inner darkness, and cleanliness corrects outer disorder to guide you.",
-      "ja": "心が乱れた時は、無理に考えをまとめようとするのではなく、まず鏡の中の自分に笑顔を送り、目の前のごみを一つ拾うことから始めてください。笑顔は内面の闇を払い、清掃は外部の無秩序を正して、自分を正しい方向へ導いてくれます。",
-      "zh": "精神散乱之时，与其勉强自己去整顿思绪，不如先试着向镜子里的自己投去微笑，并捡起眼前的一片碎屑。微笑可以驱散内心的阴霾，清扫则能纠正外部的无序，指引我们走向正轨。",
-      "es": "Cuando su mente esté desordenada, en lugar de forzar sus pensamientos, empiece por sonreírse en el espejo y recoger un papel del suelo. La sonrisa despeja la oscuridad interior y la limpieza corrige el desorden exterior.",
-      "fr": "Lorsque votre esprit est encombré, plutôt que de vous forcer à réfléchir, commencez par vous sourire dans le miroir et ramasser un déchet. Un sourire dissipe l'obscurité intérieure, et la propreté corrige le désordre extérieur.",
-      "de": "Wenn Ihr Geist unruhig ist, zwingen Sie sich nicht zu Gedanken, sondern lächeln Sie sich im Spiegel an und heben Sie ein Stück Müll auf. Ein Lächeln vertreibt die innere Dunkelheit, Sauberkeit korrigiert die äußere Unordnung.",
-      "pt": "Quando sua mente estiver desorganizada, em vez de forçar seus pensamentos, comece sorrindo para si mesmo no espelho e recolhendo um pedaço de lixo. O sorriso afasta a escuridão interior e a limpeza corrige a desordem exterior.",
-      "id": "Ketika pikiran Anda kacau, alih-alih memaksakan diri berpikir jernih, mulailah dengan tersenyum pada diri sendiri di cermin dan mengambil selembar sampah. Senyuman menghapus kegelapan dalam diri, dan kebersihan memperbaiki kekacauan di luar."
+      "ko": "마음이 흐트러졌을 때는 억지로 생각을 다잡으려 애쓰기보다, 먼저 거울 속 나에게 미소를 보내고 눈앞의 휴지 하나를 줍는 것에서 시작하세요. 미소는 내면의 어둠을 걷어내고, 청결은 외부의 무질서를 바로잡아 나를 바른길로 인도해 줍니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "기상 직후 거울 앞 30초 미소 짓기",
-          "en": "Smiling for 30 Seconds in Front of the Mirror Right After Waking Up",
-          "ja": "起床直後の鏡の前での30秒間の笑顔作り",
-          "zh": "起床后在镜子前微笑30秒",
-          "es": "Sonreír 30 Segundos Frente al Espejo al Despertarse",
-          "fr": "Sourire Pendant 30 Secondes Devant le Miroir au Réveil",
-          "de": "30 Sekunden Lächeln vor dem Spiegel direkt nach dem Aufwachen",
-          "pt": "Sorrir por 30 Segundos em Frente ao Espelho ao Acordar",
-          "id": "Tersenyum Selama 30 Detik di Depan Cermin Tepat Setelah Bangun"
+          "ko": "기상 직후 거울 앞 30초 미소 짓기"
         },
         "text": {
-          "ko": "아침에 잠에서 깨어나 화장실로 향한 직후, 거울 속 나의 눈을 똑바로 응시하며 의도적으로 30초 동안 밝게 미소를 짓는 안면 근육 의식을 치릅니다.",
-          "en": "Immediately after waking up and heading to the bathroom, stare into your eyes in the mirror and intentionally smile brightly for 30 seconds to perform the facial muscle ritual.",
-          "ja": "朝起きて洗面所に向かった直後、鏡の中の自分の目をしっかりと見つめ、意図的に30秒間明るい笑顔を作る表情筋の儀式を行います。",
-          "zh": "早晨起床洗漱时，注视着镜中自己的眼睛，刻意保持30秒灿烂微笑，以此完成这套面部肌肉仪式。",
-          "es": "Inmediatamente después de despertarse e ir al baño, mírese a los ojos en el espejo e intencionadamente sonría con brillo durante 30 segundos como un ritual.",
-          "fr": "Dès le réveil en allant à la salle de bain, fixez vos yeux dans le miroir et forcez-vous à sourire franchement pendant 30 secondes pour stimuler vos muscles faciaux.",
-          "de": "Gleich nach dem Aufwachen im Badezimmer blicken Sie sich im Spiegel direkt in die Augen und lächeln Sie absichtlich 30 Sekunden lang breit für das Muskelritual.",
-          "pt": "Imediatamente após acordar e ir ao banheiro, olhe nos seus olhos no espelho e sorria intencionalmente de forma brilhante por 30 segundos para realizar o ritual muscular.",
-          "id": "Segera setelah bangun dan pergi ke kamar mandi, tatap mata Anda di cermin dan tersenyumlah lebar secara sengaja selama 30 detik untuk melatih otot wajah."
+          "ko": "아침에 잠에서 깨어나 화장실로 향한 직후, 거울 속 나의 눈을 똑바로 응시하며 의도적으로 30초 동안 밝게 미소를 짓는 안면 근육 의식을 치릅니다."
         }
       },
       {
         "name": {
-          "ko": "눈앞의 쓰레기와 잡동사니 즉각 정돈",
-          "en": "Immediate Tidying of Surrounding Clutter and Trash",
-          "ja": "目の前のごみや雑多な物の即座の整理",
-          "zh": "立即整理眼前的垃圾与杂物",
-          "es": "Orden Inmediato del Desorden y la Basura de Su Entorno",
-          "fr": "Rangement Immédiat du Désordre et des Déchets Autour de Soi",
-          "de": "Sofortiges Aufräumen von Unordnung und Müll in der Nähe",
-          "pt": "Organização Imediata da Bagunça e do Lixo ao Seu Redor",
-          "id": "Segera Rapikan Sampah dan Barang Berserakan di Sekitar Anda"
+          "ko": "눈앞의 쓰레기와 잡동사니 즉각 정돈"
         },
         "text": {
-          "ko": "자신의 책상이나 침대 주변을 살피고 버려진 종이, 쓰레기를 줍거나 흩어진 물건을 즉시 제자리에 두는 3분 청소를 매일 아침 기계적으로 실천합니다.",
-          "en": "Check around your desk or bed and perform a mechanical 3-minute cleanup every morning, picking up discarded paper or trash and returning scattered items to their places.",
-          "ja": "自分のデスクやベッドの周りを見渡し、放置された紙くずやゴミを拾ったり、散らかった物を元の場所に戻す3分間掃除を毎朝機械的に実践します。",
-          "zh": "查看自己书桌或床铺的周围，捡起废纸、垃圾，或立刻将散落的物品归位，每天清晨机械地进行3分钟清扫。",
-          "es": "Revise su escritorio o cama y realice una limpieza mecánica de 3 minutos cada mañana, tirando papeles o basura y devolviendo cada cosa a su lugar.",
-          "fr": "Inspectez votre bureau ou votre lit et effectuez un nettoyage de 3 minutes chaque matin, en jetant les papiers ou déchets et en remettant les objets à leur place.",
-          "de": "Überprüfen Sie Ihren Schreibtisch oder Ihr Bett und führen Sie jeden Morgen eine mechanische 3-Minuten-Reinigung durch, räumen Sie Müll weg und sortieren Sie Dinge.",
-          "pt": "Verifique sua mesa ou cama e realize uma limpeza mecânica de 3 minutos todas as manhãs, recolhendo papéis ou lixo e devolvendo itens espalhados aos seus devidos lugares.",
-          "id": "Periksa sekitar meja atau tempat tidur Anda dan lakukan pembersihan mekanis selama 3 menit setiap pagi, membuang kertas/sampah dan mengembalikan barang ke tempatnya."
+          "ko": "자신의 책상이나 침대 주변을 살피고 버려진 종이, 쓰레기를 줍거나 흩어진 물건을 즉시 제자리에 두는 3분 청소를 매일 아침 기계적으로 실천합니다."
         }
       },
       {
         "name": {
-          "ko": "외모와 옷차림의 단정함 유지",
-          "en": "Maintaining Neatness in Appearance and Attire",
-          "ja": "容姿と服装の端正さの維持",
-          "zh": "保持仪表与衣装整洁",
-          "es": "Mantener la Pulcritud en la Apariencia y la Vestimenta",
-          "fr": "Maintenir un Aspect Propre sur Soi et des Vêtements Soignés",
-          "de": "Aufrechterhaltung von Ordentlichkeit bei Aussehen und Kleidung",
-          "pt": "Manter a Aparência e as Roupas Alinhadas",
-          "id": "Menjaga Kerapian Penampilan dan Pakaian"
+          "ko": "외모와 옷차림의 단정함 유지"
         },
         "text": {
-          "ko": "집 밖으로 나가지 않더라도 세수를 하고 머리를 단정히 빗으며, 구겨지거나 더러운 옷을 피해 나만의 단정한 외모 격식을 갖춰 인지적 긴장감을 부여합니다.",
-          "en": "Even if not going outside, wash your face, comb your hair, and avoid wrinkled or dirty clothes to establish a neat appearance format and foster cognitive alertness.",
-          "ja": "外出する予定がなくても、顔を洗い髪を端正に整え、しわのある服や汚れた服を避けて端正な容姿を維持することで、認知的な緊張感を与えます。",
-          "zh": "即使不出门，也要洗脸、将头发梳理整齐，避免穿着褶皱或脏污的衣服，保持得体的仪容仪表，以此赋予大脑适度的认知紧张感。",
-          "es": "Aunque no vaya a salir, lávese la cara, péinese y evite la ropa arrugada o sucia para establecer una apariencia limpia que fomente el estado de alerta cognitivo.",
-          "fr": "Même si vous restez chez vous, lavez-vous le visage, coiffez-vous et évitez les vêtements froissés ou sales pour soigner votre apparence et stimuler votre esprit.",
-          "de": "Auch wenn Sie nicht ausgehen, waschen Sie Ihr Gesicht, kämmen Sie Ihr Haar und vermeiden Sie zerknitterte oder schmutzige Kleidung für eine kognitive Wachsamkeit.",
-          "pt": "Mesmo se não for sair, lave o rosto, penteie o cabelo e evite roupas amassadas ou sujas para estabelecer uma aparência alinhada e promover o alerta cognitivo.",
-          "id": "Bahkan jika tidak pergi ke luar, basuh wajah Anda, sisir rambut Anda, dan hindari pakaian kusut/kotor untuk menata penampilan dan memicu kewaspadaan kognitif."
+          "ko": "집 밖으로 나가지 않더라도 세수를 하고 머리를 단정히 빗으며, 구겨지거나 더러운 옷을 피해 나만의 단정한 외모 격식을 갖춰 인지적 긴장감을 부여합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "거울 앞에서 억지로 웃는 것이 정말 효과가 있나요?",
-          "en": "Does forcing a smile in front of the mirror really work?",
-          "ja": "鏡の前で作り笑顔をすることが本当に効果的ですか？",
-          "zh": "在镜子前勉强微笑真的有用吗？",
-          "es": "¿Realmente funciona forzar una sonrisa frente al espejo?",
-          "fr": "Est-ce que se forcer à sourire devant un miroir fonctionne vraiment ?",
-          "de": "Hilft ein erzwungenes Lächeln vor dem Spiegel wirklich?",
-          "pt": "Forçar um sorriso em frente ao espelho realmente funciona?",
-          "id": "Apakah memaksakan senyum di depan cermin benar-benar berhasil?"
+          "ko": "거울 앞에서 억지로 웃는 것이 정말 효과가 있나요?"
         },
         "answer": {
-          "ko": "네, 안면 피드백 효과에 의해 뇌는 안면 표정 근육의 움직임을 감지하여 실제 즐거운 상태인 것으로 판단하고 행복 물질을 분비합니다.",
-          "en": "Yes, through the facial feedback effect, the brain senses the movement of facial muscles and recognizes it as a happy state, prompting the release of happiness substances.",
-          "ja": "はい、顔面フィードバック効果によって、脳は表情筋の動きを検知し、実際に楽しい状態であると判断して幸福物質を分泌します。",
-          "zh": "是的。受面部反馈效应的影响，大脑能够感知表情肌的运动并将其判定为真实的快乐状态，进而促进幸福物质的分泌。",
-          "es": "Sí, a través de la retroalimentación facial, el cerebro detecta el movimiento muscular y lo reconoce como un estado alegre, estimulando la liberación de endorfinas.",
-          "fr": "Oui, par l'effet de rétroaction faciale, le cerveau capte le mouvement des muscles du visage et en déduit un état de joie, libérant ainsi des hormones du bonheur.",
-          "de": "Ja, durch den Facial-Feedback-Effekt erkennt das Gehirn die Muskelbewegung und stuft dies als glücklichen Zustand ein, was Glücksstoffe freisetzt.",
-          "pt": "Sim, por meio do efeito de feedback facial, o cérebro detecta o movimento dos músculos faciais e o reconhece como um estado feliz, estimulando a liberação de endorfinas.",
-          "id": "Ya, melalui efek umpan balik wajah, otak mendeteksi gerakan otot wajah dan menganggapnya sebagai kondisi bahagia, memicu pelepasan zat bahagia."
+          "ko": "네, 안면 피드백 효과에 의해 뇌는 안면 표정 근육의 움직임을 감지하여 실제 즐거운 상태인 것으로 판단하고 행복 물질을 분비합니다."
         }
       }
-    ],
-    "pubDate": "2026-01-19",
-    "updatedDate": "2026-01-19"
+    ]
   }
 }

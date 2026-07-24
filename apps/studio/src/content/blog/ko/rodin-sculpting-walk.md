@@ -1,14 +1,14 @@
 ---
 title: "'생각하는 사람'의 거장? 오귀스트 로댕의 아침 찰흙 감각 산책 루틴"
 description: "근대 조각의 거장 오귀스트 로댕. 매일 아침 손에 찰흙을 쥐고 걸으며 촉각적 영감을 깨웠던 그의 독창적 센서리 루틴과 3단계 실천법을 공개합니다."
-pubDate: "2026-01-10"
-updatedDate: "2026-01-10"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/rodin_sculpting_walk.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/rodin_sculpting_walk.png"
 app: "buildself"
 formatVersion: 4
-authority: "전기 'Auguste Rodin: Art and Life' 및 로댕 미술관(Musée Rodin) 보관 사료"
+authority: "오귀스트 로댕 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "손 안의 촉각 도구 준비 및 디지털 차단"
     text: "손에 쏙 들어오는 소형 찰흙, 스트레스 볼, 혹은 탄성 있는 오브제를 준비합니다. 휴식 시 화면을 끄고 손에 도구를 쥡니다."
@@ -21,6 +21,7 @@ faqs:
     answer: "실리콘 스트레스 볼, 핑거 피젯 큐브, 미니 칼림바, 혹은 부드러운 원목 매끄러운 돌맹이 등 촉각 자극이 풍부한 모든 소품이 훌륭한 대안입니다."
   - question: "손가락 촉각 자극이 어떻게 창의성을 높이나요?"
     answer: "손은 뇌의 운동/감각 피질에서 가장 넓은 면적을 차지합니다. 손가락을 정교하게 자극하면 평소 쓰지 않던 뇌 신경 회로가 활성화되어 아이디어 연상이 촉진됩니다."
+
 ---
 
 '생각하는 사람', '지옥의 문'을 창작하여 단단하고 차가운 돌과 청동에 타오르는 생명력과 우수의 감정을 불어넣은 근대 조각의 거장, 오귀스트 로댕. 인류 예술사에 획을 그은 그의 압도적 입체감과 영감은 어디서 유래했을까요? 🗿
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 전기 'Auguste Rodin: Art and Life' 및 로댕 미술관(Musée Rodin) 보관 사료 정보를 기반으로 작성되었습니다.
+      본 콘텐츠는 <strong>오귀스트 로댕 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 rodin-sculpting-walk 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 체감각 피질 자극을 통한 뇌의 촉각적 입체 활성화
+## 체감각 피질 자극을 통한 뇌의 촉각적 입체 활성화
 
 현대인들은 정보의 90% 이상을 모니터나 스마트폰 화면 같은 평면적 시각 자극에만 의존합니다. 그 결과 뇌의 입체적 공간 감각과 정교한 인지 유연성이 손상되기 쉽습니다.
 
@@ -51,8 +52,9 @@ faqs:
 
 ---
 
-## 2. 실천을 위한 3단계 세부 행동 가이드
+## 시각을 끄고 손끝의 주관적 촉각에 몰입하세요
 
+로댕에게 찰흙은 완성품을 만드는 재료이기 전에 손끝의 미세한 감각을 일깨우는 안테나였습니다. 모양을 정교하게 다듬으려 애쓰지 말고, 손끝에 느껴지는 질감과 탄성에 온전히 주의를 집중하세요.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,25 +86,13 @@ faqs:
   </p>
 </div>
 
----
-
-## 3. 시각을 끄고 손끝의 주관적 촉각에 몰입하세요
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      로댕에게 찰흙은 완성품을 만드는 재료이기 전에 손끝의 미세한 감각을 일깨우는 안테나였습니다. 모양을 정교하게 다듬으려 애쓰지 말고, 손끝에 느껴지는 질감과 탄성에 온전히 주의를 집중하세요.
-    </p>
-  </div>
-</div>
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>찰흙 대신 사용할 수 있는 현대적 오브제는 무엇인가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -110,9 +100,9 @@ faqs:
       실리콘 스트레스 볼, 핑거 피젯 큐브, 미니 칼림바, 혹은 부드러운 원목 매끄러운 돌맹이 등 촉각 자극이 풍부한 모든 소품이 훌륭한 대안입니다.
     </p>
   </details>
-
+  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>손가락 촉각 자극이 어떻게 창의성을 높이나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

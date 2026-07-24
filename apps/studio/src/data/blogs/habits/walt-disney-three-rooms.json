@@ -1,218 +1,72 @@
 {
   "walt-disney-three-rooms": {
     "title": {
-      "ko": "월트 디즈니의 '세 개의 방' 루틴: 상상하고, 실행하고, 비판하라",
-      "en": "Walt Disney's 'Three Rooms' Routine: Dream, Execute, and Critique",
-      "ja": "ウォルト・ディズニーの「3つの部屋」ルーティン：想像し、実行し、批評せよ",
-      "zh": "华特·迪士尼的“三间房”惯例：梦想、执行与批判",
-      "es": "La rutina de las 'Tres Habitaciones' de Walt Disney: sueña, ejecuta y critica",
-      "fr": "La routine des 'Trois Pièces' de Walt Disney : rêver, exécuter et critiquer",
-      "de": "Walt Disneys 'Drei Räume'-Routine: Träumen, Ausführen und Kritisieren",
-      "pt": "A rotina das 'Três Salas' de Walt Disney: sonhar, executar e criticar",
-      "id": "Rutinitas ‘Tiga Ruangan’ Walt Disney: Bermimpi, Mengeksekusi, dan Mengkritik"
+      "ko": "월트 디즈니의 '세 개의 방' 루틴: 상상하고, 실행하고, 비판하라"
     },
     "description": {
-      "ko": "창의적인 공상을 거대한 비즈니스로 실현시킨 월트 디즈니. 몽상가, 현실주의자, 비평가로 생각을 명확히 분리하여 아이디어를 정교화하는 '세 개의 방' 루틴을 소개합니다.",
-      "en": "Discover Walt Disney's creative routine that turned wild dreams into a global business. Learn to separate your thinking into Dreamer, Realist, and Critic.",
-      "ja": "創造的な空想を巨大なビジネスに昇華させたウォルト・ディズニー。夢想家、現実主義者、批評家に思考を明確に分離してアイデアを精緻化する「3つの部屋」ルーティンを紹介します。",
-      "zh": "华特·迪士尼如何将创造性幻想转化为巨大的商业帝国。介绍他将思维明确划分为梦想家、现实主义者和批评家的“三间房”惯例。",
-      "es": "Descubra la rutina creativa de Walt Disney que convirtió los sueños en un negocio global. Aprenda a separar su pensamiento en Soñador, Realista y Crítico.",
-      "fr": "Découvrez la routine créative de Walt Disney que a transformé les rêves en entreprise globale. Apprenez à séparer votre pensée en Rêveur, Réaliste et Critique.",
-      "de": "Entdecken Sie Walt Disneys kreative Routine, die Träume in ein globales Unternehmen verwandelte. Lernen Sie, Ihr Denken in Träumer, Realist und Kritiker zu unterteilen.",
-      "pt": "Descubra a rotina criativa de Walt Disney que transformou sonhos em um império global. Aprenda a separar suas ideias em Sonhador, Realista e Crítico.",
-      "id": "Temukan rutinitas kreatif Walt Disney yang mengubah mimpi menjadi bisnis global. Pelajari cara memisahkan pemikiran menjadi Pemimpi, Realis, dan Kritikus."
+      "ko": "창의적인 공상을 거대한 비즈니스로 실현시킨 월트 디즈니. 몽상가, 현실주의자, 비평가로 생각을 명확히 분리하여 아이디어를 정교화하는 '세 개의 방' 루틴을 소개합니다."
     },
     "authority": {
-      "ko": "로버트 딜츠의 천재들의 전략(Strategies of Genius)",
-      "en": "Robert Dilts' Strategies of Genius",
-      "ja": "ロバート・ディルツ「天才たちの戦略（Strategies of Genius）」",
-      "zh": "罗伯特·迪尔茨的《天才的策略》",
-      "es": "Estrategias de genio de Robert Dilts",
-      "fr": "Stratégies de génie de Robert Dilts",
-      "de": "Robert Dilts' Strategies of Genius",
-      "pt": "Estratégias de Gênio de Robert Dilts",
-      "id": "Strategies of Genius karya Robert Dilts"
+      "ko": "Walt Disney Three Rooms 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "미키 마우스부터 디즈니랜드까지, 전 세계 아이들과 어른들에게 꿈과 환상을 선물하며 애니메이션 제국을 건설한 월트 디즈니. 그의 엄청난 창의력과 기획력은 단순한 영감의 산물이 아니었습니다. 그는 터무니없어 보이는 상상을 냉철하게 다듬어 대중이 소비할 수 있는 완벽한 현실로 이끌어내는 고유한 사고 체계를 가지고 있었습니다.\n\n그는 한 프로젝트의 아이디어를 다듬을 때 '세 개의 방'을 이동하며 회의를 진행했습니다. 첫 번째는 한계 없이 모든 종류의 기발한 상상을 펼치는 몽상가(Dreamer)의 방, 두 번째는 그 상상을 실제 기술과 예산으로 구현하기 위한 현실주의자(Realist)의 방, 세 번째는 기획안의 허점을 날카롭게 분석하는 비평가(Critic)의 방이었습니다. 디즈니는 이 세 가지 역할을 철저히 고립하여 교차 검증함으로써 혁신적인 명작들을 빚어냈습니다.\n\n오늘 BuildSelf에서는 디즈니의 생각을 구현하는 '세 개의 방' 루틴의 과학적 근거와 현대 기획 업무에서 이를 활용하는 방법을 살펴봅니다.",
-      "en": "Walt Disney built an animation empire by gifting dreams to children and adults alike. His creativity was not just a product of inspiration. He had a unique system of thinking that refined seemingly absurd imaginations into perfect reality.\n\nWhen refining a project, he moved between three rooms. The first was the Dreamer's room, where all kinds of imaginative ideas were presented without limitations. The second was the Realist's room, where those ideas were realized with practical technology and budget. The third was the Critic's room, which analyzed the flaws of the proposals. Disney generated innovative masterpieces by strictly isolating and cross-checking these three roles.\n\nToday, BuildSelf looks at the science behind Disney's 'Three Rooms' routine and how to use it in modern planning work.",
-      "ja": "ミッキーマウスからディズニーランドまで、世界中の人々に夢とファンタジーを届け、アニメーション帝国を築いたウォルト・ディズニー。彼の優れた創造力は、単なるインスピレーションの産物ではありませんでした。彼は、一見不条理に見える空想を冷徹に磨き上げ、完璧な現実へと導く独自の思考体系を持っていました。\n\n彼はプロジェクトを練る際、「3つの部屋」を移動しながら会議を行いました。1つ目は限界を設けずにあらゆる空想を広げる「夢想家」の部屋、2つ目はその空想を現実の技術や予算で実装するための「現実主義者」の部屋、3つ目は企画の欠陥を鋭く分析する「批評家」の部屋でした。ディズニーはこれら3つの役割を徹底的に分離してクロスチェックすることで、革新的な名作を生み出しました。\n\n今日のBuildSelfでは、ディズニーの思考を具現化する「3つの部屋」ルーティンの科学的根拠と、現代の企画業務でこれを活用する方法を探ります。",
-      "zh": "在这一历史性惯例的实践中： , . . . 在这一历史性惯例的实践中： ' ' . (Dreamer) , (Realist) , (Critic) . . 在这一历史性惯例的实践中： BuildSelf ' ' .",
-      "es": "Walt Disney construyó un imperio de la animación regalando sueños a niños y adultos por igual. Su creatividad no era sólo producto de la inspiración. Tenía un sistema de pensamiento único que refinaba imaginaciones aparentemente absurdas en una realidad perfecta.\n\nAl perfeccionar un proyecto, se movía entre tres habitaciones. La primera era la del Soñador, donde se presentaban ideas sin limitaciones. La segunda era la del Realista, donde esas ideas se realizaban con tecnología y presupuesto prácticos. La tercera era la del Crítico, que analizaba los fallos. Disney generó obras maestras aislándolas estrictamente.\n\nHoy, BuildSelf analiza la ciencia que subyace a la rutina de las 'Tres Habitaciones' de Disney.",
-      "fr": "Walt Disney a construit un empire de l'animation en offrant des rêves aux enfants et aux adultes. Sa créativité n'était pas seulement le produit de l'inspiration. Il avait un système de pensée unique qui affinait des imaginations absurdes en une réalité parfaite.\n\nPour affiner un projet, il se déplaçait entre trois pièces. La première était celle du Rêveur, sans limites. La deuxième était celle du Réaliste, avec une technologie et un budget pratiques. La troisième était celle du Critique, qui analysait les failles.\n\nAujourd'hui, BuildSelf analyse la routine des 'Trois Pièces' de Disney.",
-      "de": "Walt Disney baute ein Imperium auf, indem er Träume verschenkte. Seine Kreativität war ein Produkt eines klaren Systems. Er verfeinerte scheinbar absurde Ideen in eine perfekte Realität.\n\nEr bewegte sich zwischen drei Räumen. Der erste war der Raum des Träumers, in dem völlig frei Ideen gesammelt wurden. Der zweite war der Raum des Realisten, um Pläne mit Technik und Budget zu entwerfen. Der dritte war der Raum des Kritikers, um Fehler zu finden. Durch diese Trennung schuf er Meisterwerke.\n\nHeute stellt BuildSelf die Wissenschaft hinter Disneys 'Drei Räume'-Routine vor.",
-      "pt": "Walt Disney construiu um império da animação transformando sonhos em realidade. Sua criatividade vinha de um sistema único de pensamento, refinando fantasias em projetos reais.\n\nAo elaborar um projeto, ele dividia o pensamento em três salas: a do Sonhador (ideias livres de barreiras), a do Realista (planejamento prático de execução) e a do Crítico (análise fria de riscos). Essa divisão era a chave para suas criações de sucesso.\n\nHoje, o BuildSelf apresenta a ciência por trás da rotina das 'Três Salas' de Disney e como utilizá-la.",
-      "id": "Walt Disney membangun kerajaan animasi dengan membagikan mimpi kepada anak-anak dan orang dewasa. Kreativitasnya adalah hasil dari sistem berpikir unik yang menyempurnakan imajinasi menjadi kenyataan.\n\nSaat merancang proyek, ia berpindah di antara tiga ruangan. Pertama, ruangan Pemimpi untuk mengumpulkan ide tanpa batasan. Kedua, ruangan Realis untuk merancang rencana praktis dan anggaran. Ketiga, ruangan Kritikus untuk menemukan kelemahan. Pemisahan peran ini melahirkan karya-karya besar.\n\nHari ini, BuildSelf mengulas sains di balik rutinitas ‘Tiga Ruangan’ Disney."
+      "ko": "\"꿈을 꿀 수 있다면, 그것을 이룰 수도 있다.\" 🏰\n\n미키 마우스부터 디즈니랜드까지, 전 세계 아이들과 어른들에게 꿈과 환상을 선물하며 애니메이션 제국을 건설한 월트 디즈니. 그의 엄청난 창의력과 기획력은 단순한 영감의 산물이 아니었습니다. 그는 터무니없어 보이는 상상을 냉철하게 다듬어 대중이 소비할 수 있는 완벽한 현실로 이끌어내는 고유한 사고 체계를 가지고 있었습니다.\n\n그는 한 프로젝트의 아이디어를 다듬을 때 '세 개의 방'을 이동하며 회의를 진행했습니다. 첫 번째는 한계 없이 모든 종류의 기발한 상상을 펼치는 몽상가(Dreamer)의 방, 두 번째는 그 상상을 실제 기술과 예산으로 구현하기 위한 현실주의자(Realist)의 방, 세 번째는 기획안의 허점을 날카롭게 분석하는 비평가(Critic)의 방이었습니다. 디즈니는 이 세 가지 역할을 철저히 고립하여 교차 검증함으로써 혁신적인 명작들을 빚어냈습니다.\n\n오늘 포스트에서는 디즈니의 생각을 구현하는 '세 개의 방' 루틴의 과학적 근거와 현대 기획 업무에서 이를 활용하는 방법을 살펴봅니다."
     },
     "whyTitle": {
-      "ko": "주의 집중과 비판의 분리가 주는 인지적 효과",
-      "en": "Cognitive Effects of Separating Focus and Criticism",
-      "ja": "集中と批判の分離が もたらす認知的効果",
-      "zh": "隔离专心与批判的认知效果",
-      "es": "Efectos cognitivos de separar la concentración y la crítica",
-      "fr": "Effets cognitifs de la séparation de la concentration et de la critique",
-      "de": "Kognitive Effekte der Trennung von Fokus und Kritik",
-      "pt": "Efeitos cognitivos de separar a criação e a crítica",
-      "id": "Efek Kognitif dari Pemisahan Fokus dan Kritik"
+      "ko": "주의 집중과 비판의 분리가 주는 인지적 효과"
     },
     "whyDesc": {
-      "ko": "우리가 새로운 계획을 세울 때 흔히 범하는 실수는 아이디어를 구상하는 도중에 '이건 불가능해', '비용이 너무 많이 들어'라며 동시에 검토하고 비판하는 것입니다. 脳科学的으로 이러한 동시 처리는 발산을 담당하는 전두엽의 기능과 수렴을 담당하는 평가 영역을 동시에 충돌하게 만들어 생각의 흐름을 방해하고 기획을 지연시킵니다.\n\n월트 디즈니의 루틴은 이 두 가지 인지 상태를 철저히 고립시켰습니다. 몽상가의 단계에서는 모든 브레이크를 풀고 생각의 발산을 극대화하여 도파민적 몰입을 유도합니다. 그 후 현실주의 단계로 접어들면 실행 계획의 설계를 자극하고, 최종 비비평가의 방에서만 비판적 분석을 적용하여 아이디어의 날개를 훼손하지 않으면서도 완벽하게 조율된 솔루션을 생산해냅니다.",
-      "en": "A common mistake when making plans is to critique ideas simultaneously by thinking 'This is impossible' or 'It costs too much.' Brain science shows that this simultaneous processing causes the frontal lobe (responsible for divergence) and evaluation areas (responsible for convergence) to conflict, disrupting the flow of thought.\n\nDisney's routine strictly isolated these two cognitive states. In the Dreamer phase, all brakes are released to maximize cognitive divergence, inducing dopaminergic focus. Entering the Realist phase stimulates the design of execution plans, and only in the Critic phase is critique applied, yielding polished solutions without damaging the original ideas.",
-      "ja": "私たちが新しい計画を立てる際によく犯す過ちは、アイデアを構想する途中で「これは不可能だ」「コストがかかりすぎる」と同時に批判検討することです。脳科学的にこのような同時処理は、発散を担当する前頭葉の機能と収束を担当する評価領域を同時に衝突させ、思考の流れを妨げてしまいます。\n\nディズニーのルーティンは、これら2つの認知状態を徹底的に分離しました。夢想家の段階ではブレーキを外して思考の発散を最大化し、ドーパミン的な没頭を促します。その後、現実主義の段階で実行計画の設計を刺激し、最後の批評家の部屋でのみ批判的分析を適用することで、アイデアの翼を損なうことなく、完璧に調整されたソリューションを生み出します。",
-      "zh": "在制定计划时，最常见的错误是在构思构想的同时进行批判，认为“这不可能”或“成本太高”。脑科学表明，这种同步处理会使负责发散的前额叶和负责收敛的评估区发生冲突，干扰思维流动。\n\n迪士尼的惯例严格隔离了这两种认知状态。在梦想家阶段，释放所有刹车以最大化认知发散，诱发多巴胺沉进。进入现实主义阶段后，设计具体执行计划，最后在批评家阶段应用分析批判，从而在不损害原始想法的前提下产生完美的解决方案。",
-      "es": "Criticar las ideas al mismo tiempo que se crean es un error común. La rutina de Disney aisló estos dos estados: el Soñador fomenta la divergencia, el Realista estructura el plan, y el Crítico pule el resultado sin dañar la idea original.",
-      "fr": "Critiquer les idées au moment même de leur création est une erreur courante. La routine de Disney a isolé ces états : le Rêveur libère l'imagination, le Réaliste planifie et le Critique évalue sans endommager l'idée.",
-      "de": "Ein häufiger Fehler bei Plänen ist das gleichzeitige Kritisieren. Disneys Routine trennte diese Zustände: Der Träumer sammelt frei Ideen, der Realist entwirft den Plan und der Kritiker bewertet ihn sachlich, ohne die Idee zu zerstören.",
-      "pt": "Um erro comum é criticar ideias no momento em que são criadas. A rotina de Disney separou os estados cognitivos: o Sonhador cria livremente, o Realista estrutura a execução, e o Crítico aponta falhas de forma isolada.",
-      "id": "Kesalahan umum adalah mengkritik ide saat baru dibuat. Rutinitas Disney memisahkan kondisi kognitif ini: Pemimpi membebaskan kreativitas, Realis menyusun rencana, dan Kritikus mengevaluasi tanpa merusak ide awal."
+      "ko": "우리가 새로운 계획을 세울 때 흔히 범하는 실수는 아이디어를 구상하는 도중에 '이건 불가능해', '비용이 너무 많이 들어'라며 동시에 검토하고 비판하는 것입니다. 뇌과학적으로 이러한 동시 처리는 발산을 담당하는 전두엽의 기능과 수렴을 담당하는 평가 영역을 동시에 충돌하게 만들어 생각의 흐름을 방해하고 기획을 지연시킵니다.\n\n월트 디즈니의 루틴은 이 두 가지 인지 상태를 철저히 고립시켰습니다. 몽상가의 단계에서는 모든 브레이크를 풀고 생각의 발산을 극대화하여 도파민적 몰입을 유도합니다. 그 후 현실주의 단계로 접어들면 실행 계획의 설계를 자극하고, 최종 비비평가의 방에서만 비판적 분석을 적용하여 아이디어의 날개를 훼손하지 않으면서도 완벽하게 조율된 솔루션을 생산해냅니다."
     },
     "cautionTitle": {
-      "ko": "상상과 비판의 분리가 핵심입니다",
-      "en": "Separation of imagination and criticism is key",
-      "ja": "想像と批判の分離が核心です",
-      "zh": "想象与批判的隔离是核心",
-      "es": "La clave es separar la imaginación de la crítica",
-      "fr": "La clé est de séparer l'imagination de la critique",
-      "de": "Die Trennung von Vorstellung und Kritik ist der Schlüssel",
-      "pt": "A chave é separar a imaginação da crítica",
-      "id": "Kunci utamanya adalah memisahkan imajinasi dan kritik"
+      "ko": "상상과 비판의 분리가 핵심입니다"
     },
     "cautionDesc": {
-      "ko": "창의적인 사고는 언제나 비판적인 사고보다 먼저 일어나야 합니다. 월트 디즈니처럼 생각을 기획할 때 스스로의 역할을 명확히 규정하고 순서대로 적용해 보세요. 아직 만들어지지도 않은 아이디어에 조기 비판을 가해 날개를 꺾어버리는 인지적 실수를 미연에 방지할 수 있습니다.",
-      "en": "Creative thinking must always precede critical thinking. Like Walt Disney, clearly define your roles when planning and apply them in sequence. This prevents the cognitive mistake of executing early criticism that breaks the wings of ideas before they are fully formed.",
-      "ja": "創造的な思考は、常に批判的な思考よりも先に行われなければなりません。ウォルト・ディズニーのように、思考を企画する際は自分自身の役割を明確に規定し、順番に適用してみてください。まだ形になっていないアイデアに早期の批判を加えて台無しにしてしまう認知的な過ちを防ぐことができます。",
-      "zh": "创造性思维必须始终先于批判性思维。像华特·迪士尼一样，在规划时明确定义自己的角色并按顺序应用。这可以防止在想法尚未成型之前就过早地进行批判，折断想法翅膀的认知错误。",
-      "es": "El pensamiento creativo debe preceder al crítico. Defina claramente sus funciones al planificar y aplíquelas en orden para evitar destruir las ideas antes de que maduren.",
-      "fr": "La clé est de séparer l'imagination de la critique. Définissez vos rôles lors de la planification et appliquez-les dans l'ordre pour éviter de détruire les idées prématurément.",
-      "de": "Kreatives Denken muss dem kritischen Denken vorausgehen. Definieren Sie beim Planen klare Rollen und wenden Sie diese nacheinander an, um Ideen nicht vorzeitig zu zerstören.",
-      "pt": "O pensamento criativo deve anteceder o crítico. Defina papéis claros ao planejar para evitar matar ideias antes mesmo que elas possam ser devidamente estruturadas.",
-      "id": "Berpikir kreatif harus selalu mendahului berpikir kritis. Tentukan peran Anda secara jelas saat merancang sesuatu untuk menghindari rusaknya ide sebelum matang."
+      "ko": "창의적인 사고는 언제나 비판적인 사고보다 먼저 일어나야 합니다. 월트 디즈니처럼 생각을 기획할 때 스스로의 역할을 명확히 규정하고 순서대로 적용해 보세요. 아직 만들어지지도 않은 아이디어에 조기 비판을 가해 날개를 꺾어버리는 인지적 실수를 미연에 방지할 수 있습니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "제약 없는 브레인스토밍 (몽상가)",
-          "en": "Unconstrained Brainstorming (Dreamer)",
-          "ja": "制約のないブレインストーミング（夢想家）",
-          "zh": "无约束脑力激荡（梦想家）",
-          "es": "Lluvia de ideas sin restricciones (Soñador)",
-          "fr": "Brainstorming sans contraintes (Rêveur)",
-          "de": "Grenzenloses Brainstorming (Träumer)",
-          "pt": "Brainstorming sem barreiras (Sonhador)",
-          "id": "Brainstorming Tanpa Batasan (Pemimpi)"
+          "ko": "제약 없는 브레인스토밍 (몽상가)"
         },
         "text": {
-          "ko": "해결하고자 하는 주제에 대해 실현 가능성, 예산, 기술적 한계를 완전히 차단하고 생각나는 모든 독창적 아이디어를 쏟아냅니다. 이 단계에서는 어떠한 자기 비판도 금지됩니다.",
-          "en": "Pour out all original ideas regarding the theme you want to solve, completely blocking feasibility, budget, and technical limitations. Any self-criticism is prohibited at this stage.",
-          "ja": "解決しようとするテーマについて、実現可能性、予算、技術的な限界を完全に排除し、思い浮かぶすべての独創的なアイデアを吐き出しします。この段階では、いかなる自己批判も禁止されます。",
-          "zh": "针对想要解决的主题，彻底抛开可行性、预算和技术限制，倾泻出所有原创想法。在此阶段，禁止进行任何自我批评。",
-          "es": "Proponga ideas sin pensar en presupuestos o viabilidad técnica. Toda autocrítica está prohibida en esta etapa.",
-          "fr": "Proposez des idées sans penser aux budgets ou à la faisabilité technique. Toute autocritique est interdite à cette étape.",
-          "de": "Sammeln Sie alle Ideen ohne Rücksicht auf Machbarkeit, Budget oder technische Grenzen. Selbstkritik ist in dieser Phase streng verboten.",
-          "pt": "Crie ideias sem pensar em orçamento ou limitações técnicas. Qualquer tipo de autocrítica é proibida nessa fase inicial.",
-          "id": "Tuangkan semua ide tanpa memikirkan kelayakan, anggaran, dan batasan teknis. Kritik terhadap diri sendiri dilarang pada tahap ini."
+          "ko": "해결하고자 하는 주제에 대해 실현 가능성, 예산, 기술적 한계를 완전히 차단하고 생각나는 모든 독창적 아이디어를 쏟아냅니다. 이 단계에서는 어떠한 자기 비판도 금지됩니다."
         }
       },
       {
         "name": {
-          "ko": "실행 타임라인 및 로드맵 기획 (현실주의자)",
-          "en": "Plan Execution Timeline and Roadmap (Realist)",
-          "ja": "実行タイムラインとロードマップの企画（現実主義者）",
-          "zh": "规划执行时间线与路线图（现实主义者）",
-          "es": "Planificación y hoja de ruta (Realista)",
-          "fr": "Planification et feuille de route (Réaliste)",
-          "de": "Planung der Ausführung und Roadmap (Realist)",
-          "pt": "Planejamento e cronograma (Realista)",
-          "id": "Merancang Rencana dan Anggaran (Realis)"
+          "ko": "실행 타임라인 및 로드맵 기획 (현실주의자)"
         },
         "text": {
-          "ko": "나열된 몽상가의 아이디어 중 유의미한 것을 선택하여, 이를 현실화하는 데 필요한 구체적 일정, 예산, 기술 수준 및 현실적인 설계 로드맵을 체계적으로 구조화합니다.",
-          "en": "Select meaningful ones from the listed Dreamer's ideas and systematically structure specific schedules, budgets, technical levels, and realistic design roadmaps needed to realize them.",
-          "ja": "夢想家がリストアップしたアイデアの中から有意義なものを選択し、それを具現化するために必要な具体的なスケジュール、予算、技術レベル、および現実的なロードマップを体系的に構築します。",
-          "zh": "从梦想家列出的想法中筛选出有意义的项，系统地构建实现这些想法的具体时间表、预算、技术水平和切实可行的路线图。",
-          "es": "Seleccione las mejores ideas del Soñador y estructure un calendario, presupuesto y recursos para llevarlas a cabo.",
-          "fr": "Sélectionnez les meilleures idées du Rêveur et structurez un calendrier, budget et ressources pour les réaliser.",
-          "de": "Wählen Sie die besten Ideen aus und strukturieren Sie Zeitpläne, Budgets und erforderliche Schritte zu deren Umsetzung.",
-          "pt": "Selecione as melhores ideias do Sonhador e defina cronogramas, custos e recursos práticos para a execução.",
-          "id": "Pilih ide-ide terbaik dari Pemimpi lalu susun jadwal, anggaran, dan langkah praktis untuk merealisasikannya."
+          "ko": "나열된 몽상가의 아이디어 중 유의미한 것을 선택하여, 이를 현실화하는 데 필요한 구체적 일정, 예산, 기술 수준 및 현실적인 설계 로드맵을 체계적으로 구조화합니다."
         }
       },
       {
         "name": {
-          "ko": "취약점 평가 및 보완 (비평가)",
-          "en": "Evaluate Vulnerabilities and Supplement (Critic)",
-          "ja": "脆弱性の評価と補完（批評家）",
-          "zh": "评估漏洞并完善（批评家）",
-          "es": "Evaluación de vulnerabilidades y mejoras (Crítico)",
-          "fr": "Évaluation des vulnérabilités et améliorations (Critique)",
-          "de": "Schwachstellen bewerten und verbessern (Kritiker)",
-          "pt": "Avaliação de riscos e melhorias (Crítico)",
-          "id": "Evaluasi Risiko dan Kelemahan (Kritikus)"
+          "ko": "취약점 평가 및 보완 (비평가)"
         },
         "text": {
-          "ko": "설계된 로드맵을 제3자의 눈으로 날카롭게 뜯어보며 발생 가능한 변수, 오류, 극복해야 할 리스크를 식별하고, 이를 바탕으로 기획안을 최종 보완합니다.",
-          "en": "Examine the designed roadmap with the eyes of a third party, identify potential variables, errors, and risks to overcome, and finalize the planning proposal based on them.",
-          "ja": "設計されたロードマップを第三者の視点から厳しく検証し、発生し得る変数、エラー、克服すべきリスクを特定し、それらに基づいて企画案を最終調整します。",
-          "zh": "以第三方的视角审视路线图，识别潜在的变量、错误和需要克服的风险，并据此对方案进行最终的完善。",
-          "es": "Analice el plan final con ojo crítico. Identifique posibles riesgos, errores y puntos de mejora antes de ejecutar.",
-          "fr": "Analysez le plan final avec un œil critique. Identifiez les risques et erreurs potentiels pour améliorer le projet.",
-          "de": "Analysieren Sie den Plan kritisch. Identifizieren Sie Risiken und Fehler, um das Projekt vor dem Start zu verbessern.",
-          "pt": "Analise o plano final com foco em riscos. Identifique potenciais falhas para aprimorar o projeto antes do início.",
-          "id": "Evaluasi rencana secara kritis. Cari celah risiko dan kesalahan untuk menyempurnakan rancangan sebelum dijalankan."
+          "ko": "설계된 로드맵을 제3자의 눈으로 날카롭게 뜯어보며 발생 가능한 변수, 오류, 극복해야 할 리스크를 식별하고, 이를 바탕으로 기획안을 최종 보완합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "한 회의실에서 세 단계를 모두 진행해도 괜찮은가요?",
-          "en": "Is it okay to proceed with all three steps in one conference room?",
-          "ja": "一つの会議室で3つの段階をすべて進めても大丈夫ですか？",
-          "zh": "可以在同一个会议室里进行所有三个步骤吗？",
-          "es": "¿Puedo realizar las tres etapas en una misma sala?",
-          "fr": "Puis-je faire les trois étapes dans la même pièce?",
-          "de": "Kann ich alle drei Schritte in einem einzigen Raum durchführen?",
-          "pt": "Posso realizar as três etapas na mesma sala?",
-          "id": "Apakah boleh melakukan ketiga tahapan di satu ruangan yang sama?"
+          "ko": "한 회의실에서 세 단계를 모두 진행해도 괜찮은가요?"
         },
         "answer": {
-          "ko": "물리적 공간을 다르게 하여 환기를 유도하는 것이 효과적입니다. 만약 여건상 하나의 공간을 사용해야 한다면 칠판 색상을 바꾸거나, 자리를 아예 재배치하거나, 필기구 종류를 다르게(예: 몽상가 단계는 화려한 색연필, 비평가 단계는 검은색 볼펜) 하여 뇌에 인지적 구분을 제공해 주는 것이 좋습니다.",
-          "en": "It is effective to use different physical spaces to induce cognitive shift. If you must use one space, it is recommended to change the blackboard color, rearrange seats, or use different writing instruments to provide cognitive boundaries for the brain.",
-          "ja": "物理的な空間を変えて気分転換を促すことが効果的です。もし条件により一つの空間を使わなければならない場合は、黒板の色を変えたり、座席を再配置したり、筆記用具の種類を変えたりすることで、脳に認知的な区別を与えるのが望ましいです。",
-          "zh": "改变物理空间以引发认知转换是有效的。如果受条件限制必须使用同一个空间，建议通过更改黑板颜色、重新调整座位或使用不同的书写工具，为大脑提供认知边界。",
-          "es": "Es mejor cambiar de espacio. Si no es posible, cambie la disposición de la mesa, el color de la pizarra o las herramientas de escritura para marcar la frontera cognitiva.",
-          "fr": "Il est préférable de changer d'espace. Si ce n'est pas possible, changez la disposition des sièges, la couleur du tableau ou vos outils d'écriture.",
-          "de": "Ein Ortswechsel wird empfohlen. Ist dies nicht möglich, ändern Sie die Sitzordnung oder nutzen Sie andere Stifte, um dem Gehirn einen klaren Wechsel zu signalisieren.",
-          "pt": "Mudar de ambiente físico ajuda a clarear o foco. Se não for possível, mude a disposição das cadeiras ou use canetas de cores diferentes para indicar a mudança de fase ao cérebro.",
-          "id": "Mengubah ruangan fisik sangat efektif. Jika terpaksa di satu ruangan, ubah posisi duduk atau warna papan tulis untuk memberi batasan kognitif pada otak."
+          "ko": "물리적 공간을 다르게 하여 환기를 유도하는 것이 효과적입니다. 만약 여건상 하나의 공간을 사용해야 한다면 칠판 색상을 바꾸거나, 자리를 아예 재배치하거나, 필기구 종류를 다르게(예: 몽상가 단계는 화려한 색연필, 비평가 단계는 검은색 볼펜) 하여 뇌에 인지적 구분을 제공해 주는 것이 좋습니다."
         }
       },
       {
         "question": {
-          "ko": "비평가 단계에서 비판이 너무 지나쳐 아이디어가 완전히 무산될 때는 어떻게 해야 하나요?",
-          "en": "What should I do if the critique is so severe in the Critic stage that the idea is completely scrapped?",
-          "ja": "批評家の段階で批判が行き過ぎて、アイデアが完全にボツになってしまう場合はどうすればよいですか？",
-          "zh": "如果批评家阶段的批评过于严苛导致想法被完全否决，该怎么办？",
-          "es": "¿Qué pasa si las críticas son tan duras que destruyen la idea?",
-          "fr": "Que faire si les critiques sont si sévères qu'elles détruisent l'idée?",
-          "de": "Was soll ich tun, wenn die Kritik die Idee komplett zerstört?",
-          "pt": "O que fazer se a crítica for muito dura e anular a ideia?",
-          "id": "Bagaimana jika kritik terlalu tajam hingga membatalkan ide awal?"
+          "ko": "비평가 단계에서 비판이 너무 지나쳐 아이디어가 완전히 무산될 때는 어떻게 해야 하나요?"
         },
         "answer": {
-          "ko": "비평가는 아이디어의 폐기가 아니라 '보완과 개선'을 목적으로 해야 합니다. 비평 단계에서 '이 아이디어는 불가능하다'로 끝내서는 안 되며, '이 아이디어를 작동하게 만들기 위해 어떤 위험 요소를 수정해야 하는가?'로 접근하여 현실적 대안을 덧붙여 나가는 건설적 조율을 거쳐야 합니다.",
-          "en": "The Critic should aim for 'improvement and supplementation', not the discarding of ideas. Do not end with 'This idea is impossible' in the critique phase, but approach it by asking 'What risk factors must be modified to make this idea work?' to build constructive adjustments.",
-          "ja": "批評家はアイデアの破棄ではなく、「補完と改善」を目的とすべきです。批評の段階で「このアイデアは不可能だ」で終わらせるのではなく、「このアイデアを機能させるために、どのようなリスク要素を修正すべきか？」というアプローチで、現実的な代替案を追加していく建設的な調整を行う必要があります。",
-          "zh": "批评家的目的应当是“改善与完善”，而不是“否定想法”。在批判阶段，不要以“这个想法不可能”结束，而应该通过询问“需要修改哪些风险因素才能使该想法发挥作用”来提供建设性调整。",
-          "es": "El Crítico debe buscar mejorar, no desechar. Pregúntese: '¿Qué cambios harían viable esta idea?' en lugar de concluir que es imposible.",
-          "fr": "Le Critique doit viser l'amélioration, non l'abandon. Demandez-vous : 'Quelles modifications rendraient ce projet viable ?' plutôt que de conclure à l'impossibilité.",
-          "de": "Kritik soll den Plan verbessern, nicht zerstören. Fragen Sie nicht, warum die Idee scheitert, sondern was geändert werden muss, damit sie funktioniert.",
-          "pt": "O Crítico deve buscar melhorias e correções, e não descartar o projeto. Foque em resolver os riscos apontados para tornar a ideia viável.",
-          "id": "Kritikus harus bertujuan memperbaiki rancangan, bukan membatalkan ide. Fokus pada cara mengatasi risiko agar ide tersebut dapat dijalankan."
+          "ko": "비평가는 아이디어의 폐기가 아니라 '보완과 개선'을 목적으로 해야 합니다. 비평 단계에서 '이 아이디어는 불가능하다'로 끝내서는 안 되며, '이 아이디어를 작동하게 만들기 위해 어떤 위험 요소를 수정해야 하는가?'로 접근하여 현실적 대안을 덧붙여 나가는 건설적 조율을 거쳐야 합니다."
         }
       }
-    ],
-    "pubDate": "2026-04-16",
-    "updatedDate": "2026-04-16"
+    ]
   }
 }

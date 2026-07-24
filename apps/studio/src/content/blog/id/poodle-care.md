@@ -16,16 +16,16 @@ faqs:
     answer: "Poodle sering menggigit karena bosan akibat kurangnya stimulasi mental. Alih-alih mainan kunyah biasa, perkenalkan teka-teki dan permainan interaktif untuk melatih mental mereka."
 ---
 
-Poodle secara luas diakui sebagai salah satu ras anjing paling cerdas di dunia. Meskipun mereka sangat mudah dilatih dan peka terhadap emosi pemiliknya, mereka dapat dengan mudah bosan dan stres karena pikiran mereka yang aktif. 🐩 Selain itu, karena telinga mereka yang terkulai menutupi saluran telinga, mereka sangat rentan terhadap infeksi telinga kronis (otitis) akibat ventilasi yang buruk. Hari ini, PetSelf membagikan tips untuk menjaga Poodle cerdas Anda terstimulasi secara mental dan memperkenalkan rutinitas perawatan 3 langkah untuk menjaga telinga mereka tetap bersih dan sehat.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Bukti Dokter Hewan & Perilaku
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC</strong>.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </div>
 </div>
@@ -43,7 +43,7 @@ Poodle secara luas diakui sebagai salah satu ras anjing paling cerdas di dunia. 
 
 ## 1. Bahasa Tubuh Poodle: Membedakan Permintaan dengan Stres
 
-Karena kecerdasan mereka, Poodle aktif berkomunikasi menggunakan bahasa tubuh. Sinyal yang khas meliputi 'mengangkat kaki depan' dan 'berkedip'. Saat Poodle mengangkat kaki depan, itu terlihat seperti meminta bersalaman, tetapi sering kali merupakan pesan yang mengatakan 'beri aku perhatian' atau sinyal penenang yang berarti 'aku agak tegang, harap lembut.' Menatap lembut dan berkedip perlahan adalah cara mereka menunjukkan kepercayaan dan kasih sayang.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Karena kecerdasan mereka, Poodle aktif berkomunikasi menggunakan bahasa tubuh. S
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Peredaan Kognitif dengan Mainan Otak</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Selain jalan-jalan fisik, gunakan mangkuk labirin atau alas pengendus untuk merangsang pikiran aktif mereka, membantu mengarahkan kelebihan energi mereka.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Karena kecerdasan mereka, Poodle aktif berkomunikasi menggunakan bahasa tubuh. S
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Pemeriksaan Telinga dan Pijat Pembersihan Lembut</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Teteskan 2-3 tetes pembersih telinga ke dalam saluran telinga, pijat perlahan pangkal telinga, dan seka kotoran yang larut dengan kapas untuk mencegah otitis.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Karena kecerdasan mereka, Poodle aktif berkomunikasi menggunakan bahasa tubuh. S
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Menyikat Bulu untuk Mencegah Kusut pada Kulit</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Karena bulu Poodle yang keriting mudah kusut, sikatlah setiap hari dengan sikat slicker untuk merontokkan bulu mati dan melancarkan sirkulasi udara pada kulit.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Karena kecerdasan mereka, Poodle aktif berkomunikasi menggunakan bahasa tubuh. S
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Karena kecerdasan mereka, Poodle aktif berkomunikasi menggunakan bahasa tubuh. S
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ya, itu adalah reaksi pembersihan diri yang normal. Ini membantu mengeluarkan pembersih beserta kotoran dari dalam telinga. Cukup seka daun telinga bagian luar secara perlahan.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Karena kecerdasan mereka, Poodle aktif berkomunikasi menggunakan bahasa tubuh. S
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Poodle sering menggigit karena bosan akibat kurangnya stimulasi mental. Alih-alih mainan kunyah biasa, perkenalkan teka-teki dan permainan interaktif untuk melatih mental mereka.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </details>
 </div>

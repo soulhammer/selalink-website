@@ -1,194 +1,64 @@
 {
   "alcott-mood-ribbon": {
     "title": {
-      "ko": "검은 리본이 걸리면 방해 금지: 루이자 메이 올컷의 몰입 신호",
-      "en": "No Distractions When the Black Ribbon is Tied: Louisa May Alcott's Focus Signal",
-      "ja": "黒いリボンがかかったら邪魔禁止：ルイザ・メイ・オルコットの没頭シグナル",
-      "zh": "系上黑丝带时请勿打扰：路易莎·梅·奥尔科特的专注信号",
-      "es": "No molestar cuando la cinta negra esté atada: la señal de concentración de Louisa May Alcott",
-      "fr": "Ne pas déranger lorsque le ruban noir est attaché : le signal de concentration de Louisa May Alcott",
-      "de": "Bitte nicht stören, wenn das schwarze Band gebunden ist: Louisa May Alcotts Fokussignal",
-      "pt": "Não perturbe quando a fita preta estiver amarrada: o sinal de foco de Louisa May Alcott",
-      "id": "Jangan Diganggu Saat Pita Hitam Terikat: Sinyal Fokus dari Louisa May Alcott"
+      "ko": "검은 리본이 걸리면 방해 금지: 루이자 메이 올컷의 몰입 신호"
     },
     "description": {
-      "ko": "'작은 아씨들'의 저자 루이자 메이 올컷의 몰입 신호 '무드 리본'을 소개합니다. 집주변 방해 요소를 차단하여 인지 전환 비용을 줄이는 3단계 가이드를 만나보세요.",
-      "en": "Discover the 'Mood Ribbon' focus routine of Louisa May Alcott, author of 'Little Women'. Learn how to shield distraction and minimize cognitive task-switching costs.",
-      "ja": "「若草物語」の著者ルイザ・メイ・オルコットの没頭シグナル「ムードリボン」を紹介します。周囲の邪魔を遮断して認知の切り替えコストを削減する3ステップガイドです。",
-      "zh": "介绍《小妇人》作者路易莎·梅·奥尔科特的专注信号“情绪丝带”。开启减少认知切换成本的三步指南，阻断干扰。",
-      "es": "Descubra la rutina de concentración de la 'cinta de estado de ánimo' de Louisa May Alcott, autora de 'Mujercitas'. Aprenda a evitar distracciones y a minimizar los costes cognitivos.",
-      "fr": "Découvrez la routine de concentration du 'ruban d'humeur' de Louisa May Alcott, auteure de 'Les Quatre Filles du docteur March'. Apprenez à bloquer les distractions.",
-      "de": "Entdecken Sie die Fokussierungsroutine von Louisa May Alcott, der Autorin von 'Little Women'. Erfahren Sie, wie Sie Ablenkungen ausblenden und kognitive Kosten minimieren.",
-      "pt": "Descubra a rotina de foco da 'fita de humor' de Louisa May Alcott, autora de 'Mulherzinhas'. Aprenda a bloquear distrações e minimizar os custos de mudança cognitiva.",
-      "id": "Temukan rutinitas fokus 'Pita Suasana Hati' dari Louisa May Alcott, penulis 'Little Women'. Pelajari cara memblokir gangguan dan meminimalkan biaya pengalihan kognitif."
+      "ko": "'작은 아씨들'의 저자 루이자 메이 올컷의 몰입 신호 '무드 리본'을 소개합니다. 집주변 방해 요소를 차단하여 인지 전환 비용을 줄이는 3단계 가이드를 만나보세요."
     },
     "authority": {
-      "ko": "올컷의 전기 'Louisa May Alcott: Her Life, Letters, and Journals' 및 인지 심리학 연구",
-      "en": "Alcott's biography 'Louisa May Alcott: Her Life, Letters, and Journals' & Cognitive Psychology Research",
-      "ja": "オルコットの伝記「Louisa May Alcott: Her Life, Letters, and Journals」および認知心理学研究",
-      "zh": "奥尔科特传记《Louisa May Alcott: Her Life, Letters, and Journals》与认知心理学研究",
-      "es": "Biografía de Alcott 'Louisa May Alcott: Her Life, Letters, and Journals' e investigación en psicología cognitiva",
-      "fr": "Biographie d'Alcott 'Louisa May Alcott: Her Life, Letters, and Journals' & recherche en psychologie cognitive",
-      "de": "Alcotts Biografie 'Louisa May Alcott: Her Life, Letters, and Journals' & kognitionspsychologische Forschung",
-      "pt": "Biografia de Alcott 'Louisa May Alcott: Her Life, Letters, and Journals' & pesquisa em psicologia cognitiva",
-      "id": "Biografi Alcott 'Louisa May Alcott: Her Life, Letters, and Journals' & Penelitian Psikologi Kognitif"
+      "ko": "Louisa May Alcott, *Her Life, Letters, and Journals* (1889) & *Journal of Personality and Social Psychology*"
     },
     "intro": {
-      "ko": "세계적인 고전 소설 『작은 아씨들』을 집필하며 수많은 독자들에게 감동을 선사한 미국의 위대한 여성 소설가 루이자 메이 올컷. 온 가족이 한 집에서 번잡하게 모여 살던 시기, 그녀는 어떻게 방해 없이 소설 집필에 몰입할 수 있었을까요? 🎀\\n\\n올컷은 글을 쓰기 시작할 때, 방 문고리나 책상 한구석에 특별한 검은색 벨벳 리본을 매달아 두었습니다. 이 리본은 올컷이 고도의 몰입 상태에 돌입했으니 방해하지 말라는 가족들을 향한 무언의 약속이자 시각적 신호인 '무드 리본(Mood Ribbon)'이었습니다. 올컷이 집중을 끝마쳤을 때는 리본을 떼어놓거나 밝은 색 리본으로 교체하여 자연스러운 대화와 방문이 가능함을 넌지시 알렸습니다. 이러한 똑똑한 경계 설정을 통해 올컷은 혼란스러운 가사 속에서도 고유한 창조적 시공간을 사수하며 불후의 걸작들을 탄생시켰습니다.",
-      "en": "Louisa May Alcott, the great American novelist who touched countless readers by writing the global classic novel 'Little Women'. How did she focus on writing without being disturbed when her large family lived together in a bustling house? 🎀\\n\\nWhenever Alcott started writing, she tied a special black velvet ribbon to the doorknob or a corner of her desk. This ribbon was a silent promise and visual signal to her family, called the 'Mood Ribbon', meaning she was in a state of high concentration and should not be disturbed. When she finished focusing, she removed the ribbon or replaced it with a bright ribbon, gently signaling that visitors and conversation were welcome. Through this clever boundary setting, Alcott protected her creative space and created immortal masterpieces.",
-      "ja": "世界的な古典小説『若草物語』を執筆し、数多くの読者に感動を与えたアメリカの偉大な女性小説家ルイザ・メイ・オルコット. 大家族が賑やかな家で共に暮らしていた時代、彼女はどのようにして邪魔されることなく小説の執筆に没頭できたのでしょうか？ 🎀\\n\\nオルコットは執筆を始める際、部屋のドアノブや机の片隅に特別な黒いベルベットのリボンを結びつけておきました. このリボンは、オルコットが高度な没頭状態に入ったため邪魔をしないでほしいという家族への無言の約束であり、視覚的なシグナルである「ムードリボン（Mood Ribbon）」でした. 没頭が終わると、彼女はリボンを取り外すか、明るい色のリボンに交換して、自然な会話や訪問が歓迎されることをさりげなく知らせました. このスマートな境界設定を通じて、オルコットは騒々しい家事の中でも独自の創造的時空間を守り抜き、不朽の名作を誕生させました.",
-      "zh": "在这一历史性惯例的实践中： 『 』 . , ? 🎀\\n\\n , . ' (Mood Ribbon)'. . .",
-      "es": "Louisa May Alcott, la gran novelista estadounidense que conmovió a innumerables lectores escribiendo la novela clásica mundial 'Mujercitas'. ¿Cómo lograba concentrarse en la escritura sin ser molestada cuando su numerosa familia vivía junta en una bulliciosa casa? 🎀\\n\\nCada vez que Alcott empezaba a escribir, ataba una cinta especial de terciopelo negro al pomo de la puerta o a una esquina de su escritorio. Esta cinta era una promesa silenciosa y una señal visual para su familia, llamada 'cinta de estado de ánimo', que significaba que estaba en un estado de alta concentración y no debía ser molestada. Cuando terminaba de concentrarse, retiraba la cinta o la sustituía por otra brillante, señalando suavemente que las visitas y la conversación eran bienvenidas. A través de este inteligente establecimiento de límites, Alcott protegió su espacio creativo y creó obras maestras inmortales.",
-      "fr": "Louisa May Alcott, la grande romancière américaine qui a touché d'innombrables lecteurs en écrivant le classique mondial 'Les Quatre Filles du docteur March'. Comment parvenait-elle à se concentrer sur l'écriture sans être dérangée alors que sa famille nombreuse vivait dans une maison animée ? 🎀\\n\\nChaque fois qu'Alcott commençait à écrire, elle attachait un ruban de velours noir spécial à la poignée de la porte ou à un coin de son bureau. Ce ruban était une promesse silencieuse et un signal visuel pour sa famille, appelé le 'ruban d'humeur', signifiant qu'elle était dans un état de haute concentration et ne devait pas être dérangée. Lorsqu'elle avait fini, elle retirait le ruban ou le remplaçait par un ruban brillant, signalant gentiment que les visites et les conversations étaient les bienvenues. Grâce à cette délimitation intelligente, Alcott a protégé son espace créatif et a créé des chefs-d'œuvre immortels.",
-      "de": "Louisa May Alcott, die große amerikanische Schriftstellerin, die mit ihrem Klassiker 'Little Women' unzählige Leser berührte. Wie schaffte sie es, sich ohne Störung auf das Schreiben zu konzentrieren, während ihre große Familie in einem geschäftigen Haus zusammenlebte? 🎀\\n\\nWann immer Alcott mit dem Schreiben begann, band sie ein spezielles schwarzes Samtband an die Türklinke oder eine Ecke ihres Schreibtischs. Dieses Band war ein stilles Versprechen und ein visuelles Signal für ihre Familie, das 'Stimmungsband' genannt wurde. Es bedeutete, dass sie sich in einem Zustand hoher Konzentration befand und nicht gestört werden sollte. Wenn sie ihre Arbeit beendet hatte, entfernte sie das Band oder ersetzte es durch ein helles Band, um zu signalisieren, dass Besucher und Gespräche willkommen waren. Durch diese kluge Grenzziehung schützte Alcott ihren kreativen Raum und schuf unvergessliche Meisterwerke.",
-      "pt": "Louisa May Alcott, a grande romancista americana que emocionou inúmeros leitores com o clássico 'Mulherzinhas'. Como ela conseguia focar na escrita sem ser perturbada enquanto sua numerosa família morava junta em uma casa movimentada? 🎀\\n\\nSempre que Alcott começava a escrever, amarrava uma fita especial de veludo preto na maçaneta da porta ou em um canto de sua escrivaninha. Essa fita era uma promessa silenciosa e um sinal visual para sua família, chamada 'fita de humor', indicando que estava em estado de alta concentração e não deveria ser incomodada. Quando terminava, retirava a fita ou a substituía por uma fita brilhante, sinalizando que visitas e conversas eram bem-vindas. Através desse inteligente estabelecimento de limites, Alcott protegeu seu espaço criativo e criou obras-primas imortais.",
-      "id": "Louisa May Alcott, novelis Amerika hebat yang menyentuh hati banyak pembaca dengan menulis novel klasik global 'Little Women'. Bagaimana dia fokus menulis tanpa terganggu ketika keluarga besarnya tinggal bersama di rumah yang sibuk? 🎀\\n\\nSetiap kali Alcott mulai menulis, dia mengikatkan pita beludru hitam khusus pada gagang pintu atau sudut mejanya. Pita ini adalah janji bisu dan sinyal visual untuk keluarganya, yang disebut 'Pita Suasana Hati', yang berarti dia sedang dalam konsentrasi tinggi dan tidak boleh diganggu. Ketika dia selesai fokus, dia melepas pita itu atau menggantinya dengan pita yang cerah, menandakan bahwa kunjungan dan percakapan disambut baik. Melalui pembatasan yang cerdas ini, Alcott melindungi ruang kreatifnya dan melahirkan mahakarya abadi."
+      "ko": "\"폭풍우가 몰아칠 때 나는 비로소 내 배를 어떻게 조종해야 하는지 배운다.\" 🎀\n\n세계적인 고전 소설 『작은 아씨들』을 집필하며 수많은 독자들에게 감동을 선사한 미국의 위대한 여성 소설가 루이자 메이 올컷. 온 가족이 한 집에서 번잡하게 모여 살던 시기, 그녀는 어떻게 방해 없이 소설 집필에 몰입할 수 있었을까요?\n\n올컷은 글을 쓰기 시작할 때, 방 문고리나 책상 한구석에 특별한 검은색 벨벳 리본을 매달아 두었습니다. 이 리본은 올컷이 고도의 몰입 상태에 돌입했으니 방해하지 말라는 가족들을 향한 무언의 약속이자 시각적 신호인 '무드 리본(Mood Ribbon)'이었습니다. 올컷이 집중을 끝마쳤을 때는 리본을 떼어놓거나 밝은 색 리본으로 교체하여 자연스러운 대화와 방문이 가능함을 넌지시 알렸습니다. 이러한 똑똑한 경계 설정을 통해 올컷은 혼란스러운 가사 속에서도 고유한 창조적 시공간을 사수하며 불후의 걸작들을 탄생시켰습니다.\n\n오늘 포스트에서는 올컷이 실천했던 집중 신호 루틴의 인지적 작동 원리와 현대인들이 몰입 환경 구축을 위해 이를 어떻게 응용할 수 있는지 알아봅니다."
     },
     "whyTitle": {
-      "ko": "인지 재부팅의 낭비를 없애는 '주의 분산 차단'",
-      "en": "Distraction Shielding to Eliminate Cognitive Reboot Waste",
-      "ja": "認知の再起動の無駄をなくす「注意散漫の遮断」",
-      "zh": "消除认知重启消耗的“干扰屏蔽”",
-      "es": "Evitar distracciones para eliminar el desperdicio del reinicio cognitivo",
-      "fr": "Le blocage des distractions pour éliminer le gaspillage du redémarrage cognitif",
-      "de": "Ablenkungen ausblenden, um kognitiven Neustart-Verlust zu eliminieren",
-      "pt": "Bloqueio de distrações para eliminar o desperdício de reinicialização cognitiva",
-      "id": "Pemblokiran Gangguan untuk Menghilangkan Pemborosan Reboot Kognitif"
+      "ko": "인지 재부팅의 낭비를 없애는 '주의 분산 차단'"
     },
     "whyDesc": {
-      "ko": "고도의 집중 상태에서 외부 소음이나 누군가의 질문으로 흐름이 끊기면, 뇌는 즉시 멀티태스킹 모드로 전향하며 막대한 에너지를 소모합니다. 뇌과학에서는 이를 <strong>'작업 전환 비용(Task-Switching Cost)'</strong>이라고 부르며, 한 번 흐트러진 주의력을 원래 상태로 재부팅하는 데 평균 23분의 시간이 걸린다고 보고합니다. 올컷이 사용한 검은 리본은 주변 환경에 집중 불가능 신호를 먼저 보내 주의 분산 자극을 사전에 제거하는 완벽한 <strong>'주의 분산 차단(Distraction Shielding)'</strong>이었습니다. 이 시각적 알림은 주변 사람들과의 마찰 없이 업무 흐름을 사수하고, 작업 기억 장치(Working Memory)의 인지 자원을 한 곳에만 온전히 사용하게 돕습니다.",
-      "en": "When the flow is interrupted by external noise or someone's question in a state of high concentration, the brain immediately switches to multitasking mode and consumes huge energy. Cognitive science calls this <strong>'task-switching cost'</strong> and reports that it takes an average of 23 minutes to reboot distracted attention back to its original state. The black ribbon Alcott used was a perfect <strong>'distraction shielding'</strong> that removed distraction stimuli in advance by sending a focus signal to the surrounding environment. This visual reminder helps secure the workflow without friction with surrounding people and allows the cognitive resources of the working memory to be used entirely in one place.",
-      "ja": "高度な集中状態において、外部の騒音や誰かの質問によってフローが途切れると、脳は即座にマルチタスクモードに移行し、莫大なエネルギーを消耗します. 脳科学ではこれを<strong>「タスク切り替えコスト（Task-Switching Cost）」</strong>と呼び、一度乱れた注意力を元の状態に再起動するのに平均23分かかると報告しています. オルコットが使用した黒いリボンは、周囲に没頭シグナルを送り、注意散漫の刺激を事前に排除する完璧な<strong>「注意散漫の遮断（Distraction Shielding）」</strong>でした. この視覚的なリマインダーは、周囲の人々との摩擦なしにワークフローを守り、ワーキングメモリ（Working Memory）の認知資源を1箇所だけに集中させます.",
-      "zh": "在高度专心的状态下，如果思绪被外部噪音或他人的提问打断，大脑会立即转向多任务模式，并消耗巨大的能量。认知科学将此称为<strong>“任务切换成本（Task-Switching Cost）”</strong>，并指出将分散的注意力重新启动到原状态平均需要23分钟。奥尔科特使用的黑丝带是一种完美的<strong>“干扰屏蔽（Distraction Shielding）”</strong>，通过向周围环境发送专注信号，提前消除了干扰刺激。这种视觉提示有助于在不与周围人产生冲突的情况下坚守工作流，让工作记忆（Working Memory）的认知资源完全倾注在一个地方。",
-      "es": "Cuando el flujo se interrumpe por el ruido externo o la pregunta de alguien en un estado de alta concentración, el cerebro cambia inmediatamente al modo multitarea y consume una enorme energía. La ciencia cognitiva denomina a esto <strong>'coste de cambio de tarea (Task-Switching Cost)'</strong> y señala que se tarda una media de 23 minutos en reiniciar la atención distraída para volver a su estado original. La cinta negra que utilizaba Alcott era una perfecta <strong>'evitación de distracciones (Distraction Shielding)'</strong> que eliminaba de antemano los estímulos de distracción enviando una señal de concentración al entorno. Este recordatorio visual ayuda a asegurar el flujo de trabajo sin fricciones con las personas circundantes y permite que los recursos cognitivos de la memoria de trabajo se utilizicen por completo en un solo lugar.",
-      "fr": "Lorsque le flux est interrompu par un bruit extérieur ou la question de quelqu'un dans un état de haute concentration, le cerveau passe immédiatement en mode multitâche et consomme une énergie énorme. La science cognitive appelle cela le <strong>'coût de changement de tâche (Task-Switching Cost)'</strong> et rapporte qu'il faut en moyenne 23 minutes pour rediriger l'attention distraite vers son état d'origine. Le ruban noir utilisé par Alcott était un parfait <strong>'blocage des distractions (Distraction Shielding)'</strong> qui supprimait à l'avance les stimuli perturbateurs en envoyant un signal de concentration à l'entourage. Ce rappel visuel aide à sécuriser le flux de travail sans friction et permet d'utiliser pleinement les ressources cognitives de la mémoire de travail.",
-      "de": "Wenn der Fluss in einem Zustand hoher Konzentration durch äußeren Lärm oder die Frage von jemandem unterbrochen wird, schaltet das Gehirn sofort in den Multitasking-Modus und verbraucht enorm viel Energie. Die Kognitionswissenschaft nennt dies <strong>'Aufgabenwechselkosten (Task-Switching Cost)'</strong> und berichtet, dass es durchschnittlich 23 Minuten dauert, um die abgelenkte Aufmerksamkeit wieder in den Originalzustand zu versetzen. Das schwarze Band, das Alcott benutzte, war ein perfektes <strong>'Ablenkungs-Shielding'</strong>, das Ablenkungsreize im Voraus eliminierte, indem es ein Fokussignal an die Umgebung sendete. Diese visuelle Erinnerung hilft, den Arbeitsfluss ohne Reibung mit Mitmenschen zu sichern, und ermöglicht es, die kognitiven Ressourcen des Arbeitsgedächtnisses ganz auf einen Ort zu konzentrieren.",
-      "pt": "Quando o fluxo é interrompido por ruído externo ou pela pergunta de alguém em estado de alta concentração, o cérebro muda imediatamente para o modo multitarefa e consome uma energia enorme. A ciência cognitiva chama isso de <strong>'custo de mudança de tarefa (Task-Switching Cost)'</strong> e relata que leva em média 23 minutos para reiniciar a atenção distraída de volta ao seu estado original. A fita preta que Alcott usou foi um perfeito <strong>'bloqueio de distrações (Distraction Shielding)'</strong> que removeu os estímulos de distração com antecedência ao enviar um sinal de foco ao ambiente. Esse lembrete visual ajuda a garantir o fluxo de trabalho sem atritos com as pessoas ao redor e permite que os recursos cognitivos da memória de trabalho sejam usados inteiramente em um só lugar.",
-      "id": "Ketika aliran konsentrasi terputus oleh suara luar atau pertanyaan seseorang saat konsentrasi tinggi, otak langsung beralih ke mode multitasking dan menghabiskan energi yang sangat besar. Sains kognitif menyebutnya sebagai <strong>'biaya pengalihan tugas (Task-Switching Cost)'</strong> dan melaporkan bahwa dibutuhkan waktu rata-rata 23 menit untuk me-reboot perhatian yang terganggu kembali ke kondisi semula. Pita hitam yang digunakan Alcott adalah <strong>'pemblokiran gangguan (Distraction Shielding)'</strong> yang sempurna, yang menghilangkan rangsangan gangguan terlebih dahulu dengan mengirimkan sinyal fokus ke lingkungan sekitar. Pengingat visual ini membantu mengamankan alur kerja tanpa gesekan dengan orang-orang di sekitar dan memungkinkan sumber daya kognitif memori kerja digunakan sepenuhnya di satu tempat."
+      "ko": "고도의 집중 상태에서 외부 소음이나 누군가의 질문으로 흐름이 끊기면, 뇌는 즉시 멀티태스킹 모드로 전향하며 막대한 에너지를 소모합니다. 뇌과학에서는 이를 <strong>'작업 전환 비용(Task-Switching Cost)'</strong>이라고 부르며, 한 번 흐트러진 주의력을 원래 상태로 재부팅하는 데 평균 23분의 시간이 걸린다고 보고합니다. 올컷이 사용한 검은 리본은 주변 환경에 집중 불가능 신호를 먼저 보내 주의 분산 자극을 사전에 제거하는 완벽한 <strong>'주의 분산 차단(Distraction Shielding)'</strong>이었습니다. 이 시각적 알림은 주변 사람들과의 마찰 없이 업무 흐름을 사수하고, 작업 기억 장치(Working Memory)의 인지 자원을 한 곳에만 온전히 사용하게 돕습니다."
     },
     "cautionTitle": {
-      "ko": "상호 존중을 바탕으로 약속된 몰입 신호 만들기",
-      "en": "Creating an Agreed Focus Signal Based on Mutual Respect",
-      "ja": "相互尊重に基づき約束された没頭シグナルを作る",
-      "zh": "在相互尊重的基础上制定约定的专注信号",
-      "es": "Crear una señal de concentración acordada basada en el respeto mutuo",
-      "fr": "Créer un signal de concentration convenu basé sur le respect mutuel",
-      "de": "Ein vereinbartes Fokussignal basierend auf gegenseitigem Respekt schaffen",
-      "pt": "Criando um sinal de foco acordado com base no respeito mútuo",
-      "id": "Membuat Sinyal Fokus yang Disepakati Berdasarkan Saling Menghormati"
+      "ko": "상호 존중을 바탕으로 약속된 몰입 신호 만들기"
     },
     "cautionDesc": {
-      "ko": "집중 신호 표시물을 이용할 때 가장 중요한 것은 가족이나 동료들과의 사전 합의입니다. 사전 약속 없이 갑자기 불통의 문을 닫아걸면 타인에게 거부감을 줄 수 있습니다. '이 표시물이 노출된 1시간 동안만 긴급 연락을 보류해 달라'는 명확한 룰을 상호 간에 인지하고, 약속된 시간이 끝나면 즉시 표시물을 비활성화하여 소통 상태를 회복해야 긍정적인 루틴으로 자리 잡습니다.",
-      "en": "The most important thing when using a focus signal indicator is prior agreement with family or colleagues. If you suddenly close the door of communication without prior promise, it can make others uncomfortable. Make sure you mutually agree on a clear rule: 'Please hold emergency contact only for 1 hour when this indicator is displayed,' and immediately deactivate the indicator when the time is up to restore communication.",
-      "ja": "没頭シグナルを利用する際に最も重要なのは、家族や同僚との事前の合意です. 事前の約束なしに突然コミュニケーションの扉を閉ざすと、他人に拒否感を与える可能性があります. 「このマークが表示されている1時間だけ緊急連絡を保留してほしい」という明確なルールを相互に認知し、約束の時間が終わればすぐにマークを非活性化してコミュニケーション状態を回復することが、肯定的なルーティンとして定着する秘訣です.",
-      "zh": "使用专注信号最重要的一点是与家人或同事提前达成共识。在没有提前约定的情况下，突然关闭沟通之门可能会让其他人感到被排斥。确保双方明确知晓一条规则：“在此提示物展示的1小时内，请暂缓紧急联系”，并在约定时间结束后立即撤下提示物以恢复沟通，这样才能使其成为良性的习惯。",
-      "es": "Lo más importante al utilizar un indicador de señal de concentración es el acuerdo previo con los familiares o colegas. Si cierra de repente la puerta de la comunicación sin una promesa previa, puede incomodar a los demás. Asegúrese de acordar mutuamente una regla clara: 'Por favor, mantenga el contacto de emergencia sólo durante 1 hora cuando se muestre este indicador', y desactívelo inmediatamente cuando termine el tiempo para restaurar la comunicación.",
-      "fr": "Le plus important lors de l'utilisation d'un signal de concentration est d'en convenir au préalable avec votre famille ou vos collègues. Si vous fermez soudainement la porte de la communication sans explication, cela peut créer des tensions. Convenez d'une règle claire : 'Merci de ne me déranger qu'en cas d'urgence absolue pendant l'heure où ce signal est affiché', et désactivez-le dès que possible pour vous rendre disponible.",
-      "de": "Das Wichtigste bei der Verwendung eines Fokussignals ist die vorherige Absprache mit der Familie oder den Kollegen. Wenn Sie die Tür zur Kommunikation ohne Vorankündigung schließen, kann das andere vor den Kopf stoßen. Stellen Sie sicher, dass Sie sich gegenseitig auf eine klare Regel einigen: 'Bitte halten Sie dringende Anliegen für nur 1 Stunde zurück, wenn dieses Signal aktiv ist', und deaktivieren Sie das Signal sofort nach Ablauf der Zeit, um wieder erreichbar zu sein.",
-      "pt": "O mais importante ao usar um sinal de foco é o acordo prévio com familiares ou colegas. Se você fechar a porta de comunicação de repente, sem aviso prévio, pode causar desconforto aos outros. Certifique-se de concordar mutuamente com uma regra clara: 'Por favor, aguarde o contato de emergência por apenas 1 hora enquanto este sinal estiver ativo', e desative o sinal imediatamente após o tempo expirar.",
-      "id": "Hal terpenting saat menggunakan indikator sinyal fokus adalah kesepakatan sebelumnya dengan keluarga atau rekan kerja. Jika Anda tiba-tiba menutup pintu komunikasi tanpa pemberitahuan sebelumnya, hal itu dapat membuat orang lain tidak nyaman. Pastikan Anda menyepakati aturan yang jelas: 'Harap tunda kontak darurat hanya selama 1 jam saat indikator ini ditampilkan,' dan segera nonaktifkan indikator ketika waktu habis untuk memulihkan komunikasi."
+      "ko": "집중 신호 표시물을 이용할 때 가장 중요한 것은 가족이나 동료들과의 사전 합의입니다. 사전 약속 없이 갑자기 불통의 문을 닫아걸면 타인에게 거부감을 줄 수 있습니다. '이 표시물이 노출된 1시간 동안만 긴급 연락을 보류해 달라'는 명확한 룰을 상호 간에 인지하고, 약속된 시간이 끝나면 즉시 표시물을 비활성화하여 소통 상태를 회복해야 긍정적인 루틴으로 자리 잡습니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "자신만의 시각 몰입 신호물 선정",
-          "en": "Selecting Your Own Visual Focus Indicator",
-          "ja": "自分だけの視覚的な没頭マークの選定",
-          "zh": "选择专属的视觉专注提示物",
-          "es": "Seleccionar su propio indicador visual de concentración",
-          "fr": "Sélectionner son propre signal visuel de concentration",
-          "de": "Auswahl Ihres eigenen visuellen Fokussignals",
-          "pt": "Selecionando seu próprio indicador visual de foco",
-          "id": "Memilih Indikator Fokus Visual Anda Sendiri"
+          "ko": "자신만의 시각 몰입 신호물 선정"
         },
         "text": {
-          "ko": "가족이나 동료들이 한눈에 알아볼 수 있는 명확한 시각적 도구(문고리 걸이, 모니터 상단의 빨간 인형, 노란 조명 등)를 정합니다. 이 신호물의 의미를 주변 사람들에게 미리 설명하고 약속합니다.",
-          "en": "Choose a clear visual tool (a doorknob hanger, a red doll on top of the monitor, a yellow light, etc.) that family or colleagues can recognize at a glance. Explain the meaning of this indicator to them in advance.",
-          "ja": "家族や同僚が一目でわかる明確な視覚的ツール（ドアノブ掛け、モニターの上の赤い人形、黄色いライトなど）を決めます. このマークの意味を周囲の人々に事前に説明し、約束しておきます.",
-          "zh": "选择一个家人或同事能一目了然的视觉工具（门把手挂牌、显示器顶部的红色玩偶、黄色小灯等）。提前向身边的人说明此提示物的含义并做好约定。",
-          "es": "Elija una herramienta visual clara (un colgador para el pomo de la puerta, un muñeco rojo encima del monitor, una luz amarilla, etc.) que los familiares o compañeros puedan reconocer de un vistazo. Explíqueles de antemano el significado de este indicador.",
-          "fr": "Choisissez un outil visuel clair (un panneau de porte, une figurine rouge sur le moniteur, une lumière jaune, etc.) que vos proches ou collègues reconnaîtront d'un coup d'œil. Expliquez-leur la signification de ce signal à l'avance.",
-          "de": "Wählen Sie ein klares visuelles Werkzeug (einen Türklinkenhänger, eine rote Puppe auf dem Monitor, ein gelbes Licht usw.), das Familie oder Kollegen auf einen Blick erkennen können. Erklären Sie ihnen die Bedeutung dieses Signals im Voraus.",
-          "pt": "Escolha uma ferramenta visual clara (um cabide de maçaneta, um boneco vermelho no topo do monitor, uma luz amarela, etc.) que familiares ou colegas possam reconhecer à primeira vista. Explique o significado deste indicador para eles com antecedência.",
-          "id": "Pilih alat visual yang jelas (gantungan gagang pintu, boneka merah di atas monitor, lampu kuning, dll.) yang dapat dikenali oleh keluarga atau rekan kerja dalam sekali tatap. Jelaskan arti indikator ini kepada mereka sebelumnya."
+          "ko": "가족이나 동료들이 한눈에 알아볼 수 있는 명확한 시각적 도구(문고리 걸이, 모니터 상단의 빨간 인형, 노란 조명 등)를 정합니다. 이 신호물의 의미를 주변 사람들에게 미리 설명하고 약속합니다."
         }
       },
       {
         "name": {
-          "ko": "디지털 차단망 설정과 신호 개시",
-          "en": "Setting Digital Block and Initiating Signal",
-          "ja": "デジタル遮断の設定とシグナル開始",
-          "zh": "设置数字隔离网并启动信号",
-          "es": "Establecer bloqueo digital e iniciar la señal",
-          "fr": "Activer le blocage numérique et lancer le signal",
-          "de": "Digitalen Block einrichten und Signal starten",
-          "pt": "Configurando o bloqueio digital e iniciando o sinal",
-          "id": "Mengatur Pemblokiran Digital dan Memulai Sinyal"
+          "ko": "디지털 차단망 설정과 신호 개시"
         },
         "text": {
-          "ko": "집중 시간(예: 50분)을 설정한 뒤, 기기를 방해 금지 모드로 바꾸고 스마트폰을 가방이나 서랍에 넣습니다. 준비가 끝나면 정해둔 시각 신호물을 활성화(문고리에 거는 등)하고 작업을 개시합니다.",
-          "en": "Set a focus time (e.g., 50 minutes), switch your devices to do-not-disturb mode, and put your smartphone in a bag or drawer. Once ready, activate the chosen visual indicator (such as hanging it on the doorknob) and start work.",
-          "ja": "集中時間（例：50分）を設定した後、機器をマナーモードにし、スマートフォンをバッグや引き出しに入れます. 準備ができたら、決めておいた没頭マークを活性化（ドアノブに掛けるなど）し、作業を開始します.",
-          "zh": "设定专注时间（如50分钟），将设备切换至免打扰模式，把手机放进包里或抽屉里。准备就绪后，展示选定的视觉提示物（如挂在门把手上）并开始工作。",
-          "es": "Establezca un tiempo de concentración (por ejemplo, 50 minutos), cambie sus dispositivos al modo no molestar y guarde su smartphone en una bolsa o cajón. Una vez listo, active el indicador visual elegido (como colgarlo en el pomo de la puerta) y empiece a trabajar.",
-          "fr": "Réglez un temps de concentration (ex. 50 minutes), passez vos appareils en mode ne pas déranger et rangez votre smartphone dans un sac ou un tiroir. Une fois prêt, activez le signal visuel choisi et commencez à travailler.",
-          "de": "Stellen Sie eine Fokuszeit ein (z. B. 50 Minuten), schalten Sie Ihre Geräte in den Bitte-nicht-stören-Modus und legen Sie Ihr Smartphone in eine Tasche oder Schublade. Aktivieren Sie dann das gewählte visuelle Signal (z. B. an die Türklinke hängen) und beginnen Sie mit der Arbeit.",
-          "pt": "Defina um tempo de foco (por exemplo, 50 minutos), coloque seus dispositivos no modo não perturbe e guarde o smartphone em uma bolsa ou gaveta. Quando estiver pronto, ative o indicador visual escolhido (como pendurar na maçaneta) e comece o trabalho.",
-          "id": "Atur waktu fokus (misalnya, 50 menit), alihkan perangkat Anda ke mode jangan ganggu, dan masukkan ponsel Anda ke dalam tas atau laci. Setelah siap, aktifkan indikator visual yang dipilih (seperti menggantungnya di gagang pintu) dan mulailah bekerja."
+          "ko": "집중 시간(예: 50분)을 설정한 뒤, 기기를 방해 금지 모드로 바꾸고 스마트폰을 가방이나 서랍에 넣습니다. 준비가 끝나면 정해둔 시각 신호물을 활성화(문고리에 거는 등)하고 작업을 개시합니다."
         }
       },
       {
         "name": {
-          "ko": "신호 해제와 관계 회복",
-          "en": "Deactivating Signal and Restoring Contact",
-          "ja": "シグナル解除と関係の回復",
-          "zh": "撤下信号并恢复沟通",
-          "es": "Desactivar la señal y restaurar el contacto",
-          "fr": "Désactiver le signal et rétablir le contact",
-          "de": "Signal deaktivieren und Kontakt wiederherstellen",
-          "pt": "Desativando o sinal e restaurando o contato",
-          "id": "Menonaktifkan Sinyal dan Memulihkan Kontak"
+          "ko": "신호 해제와 관계 회복"
         },
         "text": {
-          "ko": "타이머가 울리면 작업을 멈추고 신호물을 즉시 제거하거나 녹색/안전 신호로 교체합니다. 닫혔던 소통망을 열고, 기다려준 사람들과 가벼운 눈인사나 피드백을 나누며 소통을 회복합니다.",
-          "en": "When the timer rings, stop work and immediately remove the indicator or replace it with a green/safe signal. Open the closed communication channel, share a light greeting or feedback with people who waited, and restore contact.",
-          "ja": "タイマーが鳴ったら作業を止め、マークをすぐに取り外すか、緑色の安全マークに交換します. コミュニケーションを再開し、待ってくれた人々と軽く挨拶や会話を交わします.",
-          "zh": "当计时器响起时，停止工作并立即撤下提示物或换成绿色/安全信号。打开关闭的的沟通渠道，与等待你的人打个招呼，恢复正常交流。",
-          "es": "Cuando suene el temporizador, detenga el trabajo y retire inmediatamente el indicador o sustitúyalo por una señal verde/de seguridad. Abra el canal de comunicación cerrado, comparta un saludo ligero con las personas que esperaban y restaure el contacto.",
-          "fr": "Lorsque le minuteur sonne, arrêtez le travail et retirez immédiatement le signal ou remplacez-le par un signal vert de sécurité. Ouvrez le canal de communication, partagez un salut amical avec ceux qui ont attendu et rétablissez le contact.",
-          "de": "Wenn der Timer klingelt, beenden Sie die Arbeit und entfernen Sie das Signal sofort oder ersetzen Sie es durch ein grünes Signal. Öffnen Sie den Kommunikationskanal wieder, grüßen Sie diejenigen, die gewartet haben, und stellen Sie den Kontakt wieder her.",
-          "pt": "Quando o cronômetro tocar, pare o trabalho e remova imediatamente o indicador ou substitua-o por um sinal verde. Abra o canal de comunicação, compartilhe um cumprimento leve com quem esperou e restaure o contato.",
-          "id": "Ketika pengukur waktu berdering, hentikan pekerjaan dan segera lepaskan indikator atau ganti dengan sinyal hijau. Buka saluran komunikasi yang tertutup, bagikan sapaan ringan dengan orang-orang yang telah menunggu, dan pulihkan kontak."
+          "ko": "타이머가 울리면 작업을 멈추고 신호물을 즉시 제거하거나 녹색/안전 신호로 교체합니다. 닫혔던 소통망을 열고, 기다려준 사람들과 가벼운 눈인사나 피드백을 나누며 소통을 회복합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "소통에 방해된다고 주변 사람들이 이 리본 루틴을 싫어하면 어떻게 해야 하나요?",
-          "en": "What should I do if surrounding people dislike this ribbon routine, feeling it hinders communication?",
-          "ja": "コミュニケーションの妨げになると周囲の人々がこのリボンルーティンを嫌がったらどうすればいいですか？",
-          "zh": "如果身边的人觉得情绪丝带阻碍交流而反感该怎么办？",
-          "es": "¿Qué debo hacer si a las personas circundantes les disgusta esta rutina de la cinta, sintiendo que obstaculiza la comunicación?",
-          "fr": "Que faire si mon entourage n'apprécie pas cette routine, estimant qu'elle nuit à la communication ?",
-          "de": "Was soll ich tun, wenn Mitmenschen diese Band-Routine ablehnen, weil sie sich in der Kommunikation behindert fühlen?",
-          "pt": "O que devo fazer se as pessoas ao redor não gostarem desta rotina, sentindo que ela prejudica a comunicação?",
-          "id": "Apa yang harus saya lakukan jika orang-orang di sekitar tidak menyukai rutinitas pita ini, karena merasa hal itu menghambat komunikasi?"
+          "ko": "소통에 방해된다고 주변 사람들이 이 리본 루틴을 싫어하면 어떻게 해야 하나요?"
         },
         "answer": {
-          "ko": "지나치게 긴 시간 동안 차단 신호를 켜두는 것은 피해야 합니다. 집중 시간을 최대 50분~1시간으로 제한하고, 그 외의 시간에는 언제든 대화가 가능하다는 점을 적극적으로 실천해 신뢰를 주는 것이 중요합니다.",
-          "en": "Avoid keeping the block signal active for excessively long hours. It is important to limit focus time to a maximum of 50-60 minutes, and actively build trust by showing you are welcome to talk at other times.",
-          "ja": "過度に長い時間、遮断マークを掲げ続けることは避けるべきです. 集中時間を最大50分〜1時間に制限し、それ以外の時間にはいつでも会話が可能であるという信頼感を与えることが重要です.",
-          "zh": "避免长时间开启隔离信号。建议将专注时间限制在最多50分钟至1小时内，并在其他时间积极展现出随时欢迎交流的态度以建立信任，这一点非常重要。",
-          "es": "Evite mantener activa la señal de bloqueo durante horas excesivamente largas. Es importante limitar el tiempo de concentración a un máximo de 50-60 minutos, y construir activamente la confianza mostrando que es bienvenido a hablar en otros momentos.",
-          "fr": "Évitez de garder le signal de blocage actif pendant de trop longues heures. Il est important de limiter le temps de concentration à un maximum de 50 à 60 minutes, et de montrer que vous êtes disponible le reste du temps.",
-          "de": "Vermeiden Sie es, das Signal übermäßig lange aktiv zu halten. Es ist wichtig, die Fokuszeit auf maximal 50-60 Minuten zu beschränken und aktiv Vertrauen aufzubauen, indem Sie zeigen, dass Sie zu anderen Zeiten ansprechbar sind.",
-          "pt": "Evite manter o sinal ativo por horas excessivamente longas. É importante limitar o tempo de foco a no máximo 50-60 minutos, e construir confiança ativamente ao mostrar que você está disponível para conversar em outros momentos.",
-          "id": "Hindari mengaktifkan sinyal pemblokiran selama berjam-jam secara berlebihan. Penting untuk membatasi waktu fokus maksimal 50-60 menit, dan secara aktif membangun kepercayaan dengan menunjukkan bahwa Anda senang berbicara di lain waktu."
+          "ko": "지나치게 긴 시간 동안 차단 신호를 켜두는 것은 피해야 합니다. 집중 시간을 최대 50분~1시간으로 제한하고, 그 외의 시간에는 언제든 대화가 가능하다는 점을 적극적으로 실천해 신뢰를 주는 것이 중요합니다."
         }
       }
-    ],
-    "pubDate": "2026-01-01",
-    "updatedDate": "2026-01-01"
+    ]
   }
 }

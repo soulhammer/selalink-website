@@ -1,218 +1,72 @@
 {
   "chekhov": {
     "title": {
-      "en": "Chekhov's micro-observation routine that scrapes down the fluff from the collars of passers-by and the twitching of their eyes.",
-      "ko": "행인의 옷깃 보풀과 눈동자 떨림까지 스크랩한 체호프의 미세 관찰 루틴",
-      "ja": "通行人の首輪の綿毛や目のけいれんをこそぎ落とすチェーホフの微細観察ルーチン。",
-      "zh": "契诃夫的微观观察程序，刮掉路人衣领上的绒毛和他们眼睛的抽动。",
-      "es": "La rutina de microobservación de Chéjov que raspa la pelusa de los cuellos de los transeúntes y los tics de sus ojos.",
-      "fr": "La routine de micro-observation de Tchekhov qui gratte les peluches des cols des passants et les contractions de leurs yeux.",
-      "de": "Tschechows Mikrobeobachtungsroutine, die den Flaum von den Kragen der Passanten kratzt und das Zucken ihrer Augen.",
-      "pt": "A rotina de microobservação de Chekhov que raspa a penugem dos colarinhos dos transeuntes e o tremor dos olhos.",
-      "id": "Rutinitas observasi mikro Chekhov yang menghilangkan bulu dari kerah orang yang lewat dan kedutan mata mereka."
+      "ko": "행인의 옷깃 보풀과 눈동자 떨림까지 스크랩한 체호프의 미세 관찰 루틴"
     },
     "description": {
-      "en": "A Russian writer and doctor who is a master of modern short stories, he sat in the corner of an outdoor cafe or waiting room and precisely collected the details in front of his eyes.",
-      "ko": "근대 단편 소설의 거장인 러시아 작가이자 의사로, 야외 카페나 대합실 모퉁이에 앉아 눈앞의 디테일을 정밀 수집했습니다.",
-      "ja": "ロシアの作家であり医師であり、現代短編小説の名手である彼は、屋外のカフェや待合室の隅に座り、目の前の細部を正確に収集しました。",
-      "zh": "一位俄罗斯作家、医生，现代短篇小说大师，他坐在露天咖啡馆或候诊室的角落里，精确地收集着眼前的细节。",
-      "es": "Escritor y médico ruso, maestro de los cuentos modernos, se sentaba en un rincón de un café al aire libre o de una sala de espera y recogía con precisión los detalles ante sus ojos.",
-      "fr": "Écrivain et médecin russe passé maître dans les nouvelles modernes, il s'est assis dans le coin d'une terrasse de café ou d'une salle d'attente et a collecté avec précision les détails sous ses yeux.",
-      "de": "Als russischer Schriftsteller und Arzt, der ein Meister moderner Kurzgeschichten ist, saß er in der Ecke eines Straßencafés oder Wartezimmers und sammelte die Details genau vor seinen Augen.",
-      "pt": "Escritor e médico russo mestre em contos modernos, ele se sentou no canto de um café ao ar livre ou sala de espera e coletou com precisão os detalhes diante de seus olhos.",
-      "id": "Seorang penulis dan dokter Rusia yang ahli dalam cerita pendek modern, dia duduk di sudut kafe luar ruangan atau ruang tunggu dan dengan tepat mengumpulkan detail di depan matanya."
+      "ko": "근대 단편 소설의 거장인 러시아 작가이자 의사로, 야외 카페나 대합실 모퉁이에 앉아 눈앞의 디테일을 정밀 수집했습니다."
     },
     "authority": {
-      "en": "Donald Rayfield, *Anton Chekhov: A Life* (1997) & Cognitive Neuroscientific Studies",
-      "ko": "Donald Rayfield, *Anton Chekhov: A Life* (1997)",
-      "ja": "ドナルド・レイフィールド、*アントン・チェーホフ: 人生* (1997) & 認知神経科学研究",
-      "zh": "唐纳德·雷菲尔德，*安东·契诃夫：一生* (1997) 和认知神经科学研究",
-      "es": "Donald Rayfield, *Anton Chekhov: Una vida* (1997) y estudios neurocientíficos cognitivos",
-      "fr": "Donald Rayfield, *Anton Chekhov : A Life* (1997) & Cognitive Neuroscientific Studies",
-      "de": "Donald Rayfield, *Anton Chekhov: A Life* (1997) & Cognitive Neuroscientific Studies",
-      "pt": "Donald Rayfield, *Anton Chekhov: A Life* (1997) & Cognitive Neuroscientific Studies",
-      "id": "Donald Rayfield, *Anton Chekhov: A Life* (1997) & Studi Ilmu Saraf Kognitif"
+      "ko": "Chekhov 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "en": "Anton Chekhov, the pinnacle of Russian realist literature and a great playwright who completed the foundation of the modern short story, captured the minute conflicts, hypocrisy, and emotional turmoil of ordinary people in everyday life in the most caring and sharp way and turned them into plays. He sat quietly on a bench in a train waiting room or in a corner of an outdoor cafe and observed people passing by. He wrote down extremely specific characteristics of the person in a notebook in his coat pocket, such as an invisible fluff mark on the collar of a suit, the hem of a suit with a button ripped off, and the slight twitching of a passerby's eye when he or she is nervous. This collection of extremely fine details was the foundation for building realistic, three-dimensional characters in his novels.\n\nToday on BuildSelf, we introduce the cognitive scientific principles of his habit of ‘sitting on a bench in the train waiting room and filling in the sleeve collars and fine details of people’ and a 3-step guide that modern people can easily practice in their daily lives.",
-      "ko": "러시아 사실주의 문학의 최고봉이자 근대 단편소설의 기틀을 완성한 위대한 극작가로, 일상 속 평범한 인물들의 극미세한 갈등과 위선, 감정의 엇갈림을 가장 자상하고 날카롭게 포착해 희곡으로 빚어낸 안톤 체호프. 그는 기차 대합실 벤치나 야외 노천카페 구석 자리에 조용히 앉아 스쳐 지나가는 사람들을 관찰했습니다. 그는 양복 깃에 묻은 보이지 않을 듯한 보풀 자국, 단추가 뜯겨 나간 옷 자락, 긴장할 때 미세하게 씰룩이는 행인의 눈동자 등 지극히 구체적인 인물의 특이점을 외투 주머니 속 수첩에 기입했습니다. 이 극미세 디테일 수집은 현실적인 그의 소설 속 입체적 인물 구축의 밑거름이었습니다.\n\n오늘 BuildSelf에서는 그가 고수한 '기차 대합실 벤치에 앉아 인물들의 소매 깃과 미세 디테일 기입하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다.",
-      "ja": "この歴史的習慣の実践において： , , . . , , . . この歴史的習慣の実践において： BuildSelf ' ' 3 .",
-      "zh": "在这一历史性惯例的实践中： , , . . , , . . 在这一历史性惯例的实践中： BuildSelf ' ' 3 .",
-      "es": "Antón Chéjov, el pináculo de la literatura realista rusa y un gran dramaturgo que completó los cimientos del cuento moderno, capturó los conflictos minúsculos, la hipocresía y la agitación emocional de la gente común en la vida cotidiana de la manera más atenta y aguda y los convirtió en obras de teatro. Se sentaba tranquilamente en un banco de la sala de espera de un tren o en un rincón de un café al aire libre y observaba a la gente que pasaba. En un cuaderno que llevaba en el bolsillo de su abrigo anotaba características muy concretas de cada persona, como por ejemplo una pelusa invisible en el cuello de un traje, un botón arrancado en el dobladillo de un traje y el ligero movimiento de los ojos de un transeúnte cuando está nervioso. Esta colección de detalles extremadamente finos fue la base para construir personajes realistas y tridimensionales en sus novelas.\n\nHoy en BuildSelf, presentamos los principios científicos cognitivos de su hábito de \"sentarse en un banco en la sala de espera del tren y completar los cuellos de las mangas y los detalles finos de las personas\" y una guía de 3 pasos que la gente moderna puede practicar fácilmente en su vida diaria.",
-      "fr": "Anton Tchekhov, le summum de la littérature réaliste russe et un grand dramaturge qui a jeté les bases de la nouvelle moderne, a capturé les conflits infimes, l'hypocrisie et les troubles émotionnels des gens ordinaires dans la vie quotidienne de la manière la plus attentionnée et la plus précise et les a transformés en pièces de théâtre. Il s'asseyait tranquillement sur un banc dans une salle d'attente de train ou dans un coin d'une terrasse de café et observait les gens qui passaient. Il a noté des caractéristiques extrêmement spécifiques de la personne dans un cahier placé dans la poche de son manteau, comme une marque de peluche invisible sur le col d'un costume, l'ourlet d'un costume avec un bouton arraché et le léger tic de l'œil d'un passant lorsqu'il est nerveux. Cette collection de détails extrêmement fins a servi de base à la construction de personnages réalistes et tridimensionnels dans ses romans.\n\nAujourd'hui sur BuildSelf, nous présentons les principes scientifiques cognitifs de son habitude de « s'asseoir sur un banc dans la salle d'attente du train et de remplir les cols des manches et les détails fins des gens » ainsi qu'un guide en 3 étapes que les gens modernes peuvent facilement mettre en pratique dans leur vie quotidienne.",
-      "de": "Anton Tschechow, der Höhepunkt der russischen realistischen Literatur und ein großer Dramatiker, der die Grundlagen der modernen Kurzgeschichte legte, fing die winzigen Konflikte, Heuchelei und emotionalen Turbulenzen gewöhnlicher Menschen im Alltag auf die einfühlsamste und scharfsinnigste Art und Weise ein und verwandelte sie in Theaterstücke. Er saß still auf einer Bank im Warteraum eines Zuges oder in einer Ecke eines Straßencafés und beobachtete die vorbeigehenden Menschen. In einem Notizbuch in seiner Manteltasche notierte er äußerst spezifische Merkmale der Person, etwa einen unsichtbaren Fusselfleck am Kragen eines Anzugs, den Saum eines Anzugs mit abgerissenem Knopf und das leichte Zucken der Augen eines Passanten, wenn er oder sie nervös ist. Diese Sammlung äußerst feiner Details bildete die Grundlage für die Konstruktion realistischer, dreidimensionaler Charaktere in seinen Romanen.\n\nHeute stellen wir auf BuildSelf die kognitionswissenschaftlichen Prinzipien seiner Angewohnheit vor, „im Wartezimmer des Zuges auf einer Bank zu sitzen und die Ärmelkrägen und feinen Details von Menschen auszufüllen“, sowie eine dreistufige Anleitung, die moderne Menschen problemlos in ihrem täglichen Leben anwenden können.",
-      "pt": "Anton Chekhov, o auge da literatura realista russa e um grande dramaturgo que completou a base do conto moderno, capturou os conflitos minuciosos, a hipocrisia e a turbulência emocional das pessoas comuns na vida cotidiana da maneira mais cuidadosa e contundente e os transformou em peças. Ele sentou-se calmamente num banco na sala de espera de um trem ou no canto de um café ao ar livre e observou as pessoas passando. Ele anotou características extremamente específicas da pessoa em um caderno no bolso do casaco, como uma marca invisível de penugem na gola de um terno, a bainha de um terno com um botão arrancado e o leve tremor nos olhos de um transeunte quando ele ou ela está nervoso. Essa coleção de detalhes extremamente finos foi a base para a construção de personagens tridimensionais e realistas em seus romances.\n\nHoje, no BuildSelf, apresentamos os princípios científicos cognitivos de seu hábito de 'sentar em um banco na sala de espera do trem e preencher as golas das mangas e detalhes finos das pessoas' e um guia de 3 passos que as pessoas modernas podem praticar facilmente em suas vidas diárias.",
-      "id": "Anton Chekhov, puncak sastra realis Rusia dan penulis drama hebat yang menyelesaikan fondasi cerita pendek modern, menangkap konflik kecil, kemunafikan, dan gejolak emosi orang-orang biasa dalam kehidupan sehari-hari dengan cara yang paling penuh perhatian dan tajam dan mengubahnya menjadi drama. Dia duduk dengan tenang di bangku ruang tunggu kereta atau di sudut kafe luar ruangan dan mengamati orang-orang yang lewat. Dia menuliskan ciri-ciri yang sangat spesifik dari orang tersebut di buku catatan di saku jasnya, seperti tanda bulu yang tidak terlihat di kerah jas, ujung jas dengan kancing yang robek, dan sedikit kedutan pada mata orang yang lewat ketika dia gugup. Kumpulan detail yang sangat halus ini menjadi dasar untuk membangun karakter tiga dimensi yang realistis dalam novelnya.\n\nHari ini di BuildSelf, kami memperkenalkan prinsip-prinsip ilmiah kognitif dari kebiasaannya 'duduk di bangku di ruang tunggu kereta dan mengisi kerah lengan dan detail halus orang' dan panduan 3 langkah yang dapat dengan mudah dipraktikkan oleh orang modern dalam kehidupan sehari-hari."
+      "ko": "러시아 사실주의 문학의 최고봉이자 근대 단편소설의 기틀을 완성한 위대한 극작가로, 일상 속 평범한 인물들의 극미세한 갈등과 위선, 감정의 엇갈림을 가장 자상하고 날카롭게 포착해 희곡으로 빚어낸 안톤 체호프. 그는 기차 대합실 벤치나 야외 노천카페 구석 자리에 조용히 앉아 스쳐 지나가는 사람들을 관찰했습니다. 그는 양복 깃에 묻은 보이지 않을 듯한 보풀 자국, 단추가 뜯겨 나간 옷 자락, 긴장할 때 미세하게 씰룩이는 행인의 눈동자 등 지극히 구체적인 인물의 특이점을 외투 주머니 속 수첩에 기입했습니다. 이 극미세 디테일 수집은 현실적인 그의 소설 속 입체적 인물 구축의 밑거름이었습니다.\n\n오늘 포스트에서는 그가 고수한 '기차 대합실 벤치에 앉아 인물들의 소매 깃과 미세 디테일 기입하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다."
     },
     "whyTitle": {
-      "en": "Analysis of brain science principles that lead to success",
-      "ko": "성공을 자아내는 脳科学的 원리 분석",
-      "ja": "成功に導く脳科学原理の分析",
-      "zh": "分析导致成功的脑科学原理",
-      "es": "Análisis de los principios de las ciencias del cerebro que conducen al éxito.",
-      "fr": "Analyse des principes de la science du cerveau qui mènent au succès",
-      "de": "Analyse gehirnwissenschaftlicher Prinzipien, die zum Erfolg führen",
-      "pt": "Análise dos princípios da ciência do cérebro que levam ao sucesso",
-      "id": "Analisis prinsip-prinsip ilmu otak yang mengarah pada kesuksesan"
+      "ko": "성공을 자아내는 뇌과학적 원리 분석"
     },
     "whyDesc": {
-      "en": "'Micro Selective Attention', which fixes attention only on the extremely trivial 1% of singular points among external stimulus information, increases the arousal of the lateral prefrontal cortex of the brain and strongly fixes sensory short-term memory into long-term memory circuit. This training promotes metacognitive cognitive resolution, which allows the brain to filter out noise (meaningless background) and detect meaningful patterns in everyday environments.",
-      "ko": "외부 자극 정보 중에서 지극히 사소한 1%의 특이점에만 주의력을 고정하는 '미세 선택적 주의집중(Micro Selective Attention)'은 뇌의 외측전두엽 각성을 증가시켜 감각 단기 기억을 장기 기억 회로로 강력하게 고정합니다. 이 훈련은 뇌가 일상적인 환경에서 노이즈(의미 없는 배경)를 필터링하고 유의미한 패턴을 감지하는 메타 인지적 인지 분해능을 증진시킵니다.",
-      "ja": "外部刺激情報のうち、極めて些細な1%の特異点のみに注意を向ける「マイクロ選択的注意」は、脳の外側前頭前野の覚醒を高め、感覚的な短期記憶を長期記憶回路に強力に固定します。このトレーニングはメタ認知的な認知解像度を促進し、脳がノイズ (意味のない背景) を除去し、日常環境で意味のあるパターンを検出できるようにします。",
-      "zh": "“微选择性注意力”仅将注意力集中在外部刺激信息中极其微不足道的1%奇点上，提高大脑外侧前额叶皮层的唤醒度，将感觉短期记忆牢固地固定在长期记忆回路中。这种训练可以促进元认知认知分辨率，使大脑能够过滤掉噪音（无意义的背景）并检测日常环境中有意义的模式。",
-      "es": "La 'Micro Atención Selectiva', que fija la atención sólo en el extremadamente trivial 1% de los puntos singulares entre la información de estímulo externo, aumenta la activación de la corteza prefrontal lateral del cerebro y fija fuertemente la memoria sensorial a corto plazo en el circuito de la memoria a largo plazo. Este entrenamiento promueve la resolución cognitiva metacognitiva, que permite al cerebro filtrar el ruido (fondo sin sentido) y detectar patrones significativos en entornos cotidianos.",
-      "fr": "« L'attention micro-sélective », qui fixe l'attention uniquement sur les 1 % extrêmement insignifiants de points singuliers parmi les informations de stimulus externes, augmente l'éveil du cortex préfrontal latéral du cerveau et fixe fortement la mémoire sensorielle à court terme dans le circuit de la mémoire à long terme. Cet entraînement favorise la résolution cognitive métacognitive, qui permet au cerveau de filtrer le bruit (arrière-plan dénué de sens) et de détecter des modèles significatifs dans les environnements quotidiens.",
-      "de": "„Mikroselektive Aufmerksamkeit“, die die Aufmerksamkeit nur auf die äußerst trivialen 1 % der einzelnen Punkte unter externen Reizinformationen richtet, erhöht die Erregung des lateralen präfrontalen Kortex des Gehirns und fixiert das sensorische Kurzzeitgedächtnis stark im Langzeitgedächtniskreislauf. Dieses Training fördert die metakognitive kognitive Auflösung, die es dem Gehirn ermöglicht, Geräusche (bedeutungslosen Hintergrund) herauszufiltern und bedeutungsvolle Muster in alltäglichen Umgebungen zu erkennen.",
-      "pt": "A 'Micro Atenção Seletiva', que fixa a atenção apenas no extremamente trivial 1% dos pontos singulares entre as informações de estímulos externos, aumenta a excitação do córtex pré-frontal lateral do cérebro e fixa fortemente a memória sensorial de curto prazo no circuito de memória de longo prazo. Este treinamento promove a resolução cognitiva metacognitiva, que permite ao cérebro filtrar ruídos (fundo sem sentido) e detectar padrões significativos em ambientes cotidianos.",
-      "id": "'Perhatian Selektif Mikro', yang memusatkan perhatian hanya pada 1% titik tunggal yang sangat sepele di antara informasi stimulus eksternal, meningkatkan gairah korteks prefrontal lateral otak dan dengan kuat memperbaiki memori sensorik jangka pendek ke dalam sirkuit memori jangka panjang. Pelatihan ini mendorong resolusi kognitif metakognitif, yang memungkinkan otak menyaring kebisingan (latar belakang yang tidak berarti) dan mendeteksi pola yang bermakna dalam lingkungan sehari-hari."
+      "ko": "외부 자극 정보 중에서 지극히 사소한 1%의 특이점에만 주의력을 고정하는 '미세 선택적 주의집중(Micro Selective Attention)'은 뇌의 외측전두엽 각성을 증가시켜 감각 단기 기억을 장기 기억 회로로 강력하게 고정합니다. 이 훈련은 뇌가 일상적인 환경에서 노이즈(의미 없는 배경)를 필터링하고 유의미한 패턴을 감지하는 메타 인지적 인지 분해능을 증진시킵니다."
     },
     "cautionTitle": {
-      "en": "Behavioral science advice for successful settlement",
-      "ko": "성공적인 안착을 위한 행동과학 조언",
-      "ja": "解決を成功させるための行動科学的アドバイス",
-      "zh": "成功解决问题的行为科学建议",
-      "es": "Consejos de ciencias del comportamiento para un acuerdo exitoso",
-      "fr": "Conseils en sciences comportementales pour une installation réussie",
-      "de": "Verhaltenswissenschaftliche Ratschläge für eine erfolgreiche Eingewöhnung",
-      "pt": "Conselhos de ciência comportamental para uma liquidação bem-sucedida",
-      "id": "Nasihat ilmu perilaku untuk penyelesaian yang sukses"
+      "ko": "성공적인 안착을 위한 행동과학 조언"
     },
     "cautionDesc": {
-      "en": "Don't put too much strain on your body by trying to perfect your habits. The key is to practice lightly and comfortably for 3 minutes every day to slowly pave the way for your muscles and neurons to remember.",
-      "ko": "습관을 너무 완벽하게 하려고 몸에 무리를 주지 마세요. 가볍고 편안하게 매일 3분간 실천하여 근육과 뉴런이 천천히 기억하도록 길을 뚫어 주는 것이 핵심입니다.",
-      "ja": "習慣を完璧にしようとして体に負担をかけすぎないようにしてください。重要なのは、毎日 3 分間軽く快適に練習して、ゆっくりと筋肉とニューロンに記憶させる道を切り開くことです。",
-      "zh": "不要试图完善你的习惯，给你的身体带来太大的压力。关键是每天轻松舒适地练习3分钟，慢慢为你的肌肉和神经元的记忆铺平道路。",
-      "es": "No ejerzas demasiada presión sobre tu cuerpo tratando de perfeccionar tus hábitos. La clave es practicar de forma ligera y cómoda durante 3 minutos todos los días para allanar lentamente el camino para que tus músculos y neuronas recuerden.",
-      "fr": "Ne mettez pas trop de pression sur votre corps en essayant de perfectionner vos habitudes. La clé est de pratiquer légèrement et confortablement pendant 3 minutes chaque jour pour ouvrir lentement la voie à la mémoire de vos muscles et de vos neurones.",
-      "de": "Belasten Sie Ihren Körper nicht zu sehr, indem Sie versuchen, Ihre Gewohnheiten zu perfektionieren. Der Schlüssel besteht darin, jeden Tag drei Minuten lang leicht und bequem zu üben, um Ihren Muskeln und Neuronen langsam den Weg zu ebnen, sich daran zu erinnern.",
-      "pt": "Não coloque muita pressão sobre seu corpo tentando aperfeiçoar seus hábitos. O segredo é praticar de maneira leve e confortável por 3 minutos todos os dias para preparar lentamente o caminho para que seus músculos e neurônios se lembrem.",
-      "id": "Jangan terlalu membebani tubuh Anda dengan mencoba menyempurnakan kebiasaan Anda. Kuncinya adalah berlatih dengan ringan dan nyaman selama 3 menit setiap hari untuk secara perlahan membuka jalan bagi otot dan neuron Anda untuk mengingat."
+      "ko": "습관을 너무 완벽하게 하려고 몸에 무리를 주지 마세요. 가볍고 편안하게 매일 3분간 실천하여 근육과 뉴런이 천천히 기억하도록 길을 뚫어 주는 것이 핵심입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Step 1: Environment settings and tool settings",
-          "ko": "1단계: 환경 설정 및 도구 세팅",
-          "ja": "ステップ1：環境設定とツール設定",
-          "zh": "第1步：环境设置和工具设置",
-          "es": "Paso 1: configuración del entorno y configuración de herramientas",
-          "fr": "Étape 1 : Paramètres de l'environnement et paramètres des outils",
-          "de": "Schritt 1: Umgebungseinstellungen und Werkzeugeinstellungen",
-          "pt": "Etapa 1: configurações de ambiente e configurações de ferramentas",
-          "id": "Langkah 1: Pengaturan lingkungan dan pengaturan alat"
+          "ko": "1단계: 환경 설정 및 도구 세팅"
         },
         "text": {
-          "en": "When going out, prepare a palm-sized pocket notebook (or a one-line text memo app on your smartphone) and randomly select the person in front of you.",
-          "ko": "외출 시 손바닥 크기의 포켓 수첩(또는 스마트폰의 텍스트 한 줄 메모 앱)을 준비하고 눈앞의 인물을 무작위 선별합니다.",
-          "ja": "外出するときは、手のひらサイズの手帳（またはスマートフォンの一行テキストメモアプリ）を用意し、目の前の人をランダムに選択します。",
-          "zh": "外出时，准备一本手掌大小的袖珍笔记本（或智能手机上的一行文本备忘录应用程序），然后随机选择面前的人。",
-          "es": "Al salir, prepare una libreta de bolsillo del tamaño de la palma de la mano (o una aplicación de notas de texto de una línea en su teléfono inteligente) y seleccione al azar a la persona que tiene delante.",
-          "fr": "Lorsque vous sortez, préparez un cahier de poche de la taille d'une paume (ou une application de mémo texte d'une ligne sur votre smartphone) et sélectionnez au hasard la personne en face de vous.",
-          "de": "Wenn Sie ausgehen, bereiten Sie ein handtellergroßes Taschennotizbuch (oder eine einzeilige Textnotiz-App auf Ihrem Smartphone) vor und wählen Sie zufällig die Person vor Ihnen aus.",
-          "pt": "Ao sair, prepare um caderno de bolso do tamanho da palma da mão (ou um aplicativo de memorando de texto de uma linha em seu smartphone) e selecione aleatoriamente a pessoa à sua frente.",
-          "id": "Saat keluar, siapkan buku catatan saku seukuran telapak tangan (atau aplikasi memo teks satu baris di ponsel cerdas Anda) dan pilih orang di depan Anda secara acak."
+          "ko": "외출 시 손바닥 크기의 포켓 수첩(또는 스마트폰의 텍스트 한 줄 메모 앱)을 준비하고 눈앞의 인물을 무작위 선별합니다."
         }
       },
       {
         "name": {
-          "en": "Step 2: Full sense projection and practice",
-          "ko": "2단계: 온전한 감각 투사와 실천",
-          "ja": "ステップ 2: 完全な感覚の投影と実践",
-          "zh": "第二步：全感官投射和练习",
-          "es": "Paso 2: Proyección y práctica de todos los sentidos.",
-          "fr": "Étape 2 : Projection plein sens et pratique",
-          "de": "Schritt 2: Vollständige Sinnesprojektion und Übung",
-          "pt": "Passo 2: Projeção e prática do sentido pleno",
-          "id": "Langkah 2: Proyeksi dan latihan indra penuh"
+          "ko": "2단계: 온전한 감각 투사와 실천"
         },
         "text": {
-          "en": "Select and write down three unique features (fine finger characteristics, wrinkles in clothing, color contrast, etc.) that stand out in a specific space or in a person you meet in front of you in a cafe or conference room.",
-          "ko": "카페나 회의실에서 눈앞에 마주친 상대방이나 특정 공간에서 두드러지는 특이점 3가지(미세한 손가락의 특징, 의상 주름, 색상 대조 등)를 골라 기입합니다.",
-          "ja": "カフェや会議室など、特定の空間や目の前で出会った人の中で目立つ特徴（指の細さ、衣服のしわ、色のコントラストなど）を 3 つ選択して書き留めます。",
-          "zh": "选择并写下在特定空间或在咖啡馆或会议室中遇到的人中突出的三个独特特征（精细的手指特征、衣服上的皱纹、颜色对比等）。",
-          "es": "Seleccione y anote tres características únicas (características de los dedos finos, arrugas en la ropa, contraste de color, etc.) que se destacan en un espacio específico o en una persona que conoce frente a usted en una cafetería o sala de conferencias.",
-          "fr": "Sélectionnez et notez trois caractéristiques uniques (caractéristiques fines des doigts, rides des vêtements, contraste des couleurs, etc.) qui se démarquent dans un espace spécifique ou chez une personne que vous rencontrez devant vous dans un café ou une salle de conférence.",
-          "de": "Wählen Sie drei einzigartige Merkmale aus und notieren Sie sie (feine Fingermerkmale, Falten in der Kleidung, Farbkontrast usw.), die in einem bestimmten Raum oder bei einer Person, die Sie in einem Café oder Konferenzraum treffen, auffallen.",
-          "pt": "Selecione e anote três características únicas (características finas dos dedos, rugas nas roupas, contraste de cores, etc.) que se destacam em um espaço específico ou em uma pessoa que você encontra na sua frente em um café ou sala de conferências.",
-          "id": "Pilih dan tuliskan tiga ciri unik (ciri-ciri jari halus, kerutan pada pakaian, kontras warna, dll.) yang menonjol pada ruang tertentu atau pada orang yang Anda temui di depan Anda di kafe atau ruang konferensi."
+          "ko": "카페나 회의실에서 눈앞에 마주친 상대방이나 특정 공간에서 두드러지는 특이점 3가지(미세한 손가락의 특징, 의상 주름, 색상 대조 등)를 골라 기입합니다."
         }
       },
       {
         "name": {
-          "en": "Step 3: Objective gaze and meta-organization",
-          "ko": "3단계: 객관적 응시 및 메타 정리",
-          "ja": "ステップ3：客観的な視線とメタ組織化",
-          "zh": "第三步：客观审视和元组织",
-          "es": "Paso 3: Mirada objetiva y metaorganización",
-          "fr": "Étape 3 : Regard objectif et méta-organisation",
-          "de": "Schritt 3: Objektiver Blick und Metaorganisation",
-          "pt": "Etapa 3: Olhar objetivo e metaorganização",
-          "id": "Langkah 3: Pandangan objektif dan meta-organisasi"
+          "ko": "3단계: 객관적 응시 및 메타 정리"
         },
         "text": {
-          "en": "We preserve records by practicing for one minute to infer and analyze the other person's occupation, inclination, and atmosphere of the space that these details may contain.",
-          "ko": "이 디테일들이 내포하고 있을 상대의 직업, 성향, 공간의 분위기 등을 1분간 유추 분석하는 훈련을 하며 기록을 보존합니다.",
-          "ja": "私たちは、相手の職業、傾向、その詳細に含まれる空間の雰囲気を推測し、分析する練習を 1 分間行い、記録を保存します。",
-          "zh": "我们通过练习一分钟来推断和分析对方的职业、倾向以及这些细节可能包含的空间氛围来保存记录。",
-          "es": "Conservamos registros practicando durante un minuto para inferir y analizar la ocupación, la inclinación y la atmósfera de la otra persona en el espacio que estos detalles pueden contener.",
-          "fr": "Nous préservons les enregistrements en nous entraînant pendant une minute pour déduire et analyser l'occupation, l'inclinaison et l'atmosphère de l'autre personne dans l'espace que ces détails peuvent contenir.",
-          "de": "Wir bewahren Aufzeichnungen auf, indem wir eine Minute lang üben, den Beruf, die Neigung und die Atmosphäre des Raums, den diese Details möglicherweise enthalten, durch die andere Person abzuleiten und zu analysieren.",
-          "pt": "Preservamos os registros praticando por um minuto para inferir e analisar a ocupação, inclinação e atmosfera da outra pessoa no espaço que esses detalhes podem conter.",
-          "id": "Kami menyimpan catatan dengan berlatih selama satu menit untuk menyimpulkan dan menganalisis pekerjaan orang lain, kecenderungan, dan suasana ruang yang mungkin terdapat dalam detail ini."
+          "ko": "이 디테일들이 내포하고 있을 상대의 직업, 성향, 공간의 분위기 등을 1분간 유추 분석하는 훈련을 하며 기록을 보존합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "매일 똑같은 시간에 이 루틴을 수행해야 하나요?",
-          "en": "Should I perform this routine at the exact same time every day?",
-          "ja": "毎日同じ時間にこのルーティンを行うべきですか？",
-          "zh": "每天都需要在完全相同的时间进行这个规程吗？",
-          "es": "¿Debo realizar esta rutina a la misma hora exacta todos los días?",
-          "fr": "Dois-je faire cette routine à la même heure chaque jour ?",
-          "de": "Sollte ich diese Routine jeden Tag zur genau gleichen Zeit durchführen?",
-          "pt": "Devo realizar esta rotina no mesmo horário todos os dias?",
-          "id": "Haruskah saya melakukan rutinitas ini pada waktu yang sama setiap hari?"
+          "ko": "매일 똑같은 시간에 이 루틴을 수행해야 하나요?"
         },
         "answer": {
-          "ko": "네, 체호프는 오후 3시경 격무 후 차를 마시는 고요한 의식을 통해 인지 부하를 줄이고 생각을 가다듬었습니다.",
-          "en": "Yes, Chekhov reduced cognitive load and organized his thoughts through a quiet ritual of tea drinking after hard work around 3 PM.",
-          "ja": "はい、チェーホフは午後3時頃の激務の後、お茶を飲む静かな儀式を通じて認知負荷を減らし、考えを整えました。",
-          "zh": "是的，契诃夫会在下午3点左右结束繁重工作后，通过安静饮茶的仪式来减轻认知负荷、梳理思绪。",
-          "es": "Sí, Chéjov reducía la carga cognitiva y organizaba sus pensamientos mediante un ritual tranquilo de té después del trabajo a las 3 PM.",
-          "fr": "Oui, Tchekhov réduisait sa charge cognitive en buvant du thé lors d'un rituel calme après le travail vers 15 heures.",
-          "de": "Ja, Tschechow baute mentale Belastung ab, indem er nach harter Arbeit gegen 15 Uhr rituell Tee trank.",
-          "pt": "Sim, Tchekhov reduzia a carga cognitiva e organizava seus pensamentos por meio de um ritual tranquilo de chá após o trabalho às 15h.",
-          "id": "Ya, Chekhov mengurangi beban kognitif dan menata pikirannya melalui ritual minum teh yang tenang setelah bekerja sekitar jam 3 sore."
+          "ko": "네, 체호프는 오후 3시경 격무 후 차를 마시는 고요한 의식을 통해 인지 부하를 줄이고 생각을 가다듬었습니다."
         }
       },
       {
         "question": {
-          "ko": "찻잔 세트가 없으면 어떻게 대체하나요?",
-          "en": "How can I substitute if I don't have a tea set?",
-          "ja": "ティーセットがない場合はどうすればいいですか？",
-          "zh": "没有茶具套装时该如何替代？",
-          "es": "¿Cómo puedo sustituir este hábito si no tengo un juego de té?",
-          "fr": "Comment puis-je remplacer le service à thé si je n'en ai pas ?",
-          "de": "Wie kann ich das Teeservice ersetzen, wenn ich keins habe?",
-          "pt": "Como posso substituir se não tiver um jogo de chá?",
-          "id": "Bagaimana cara menggantinya jika saya tidak memiliki set cangkir teh?"
+          "ko": "찻잔 세트가 없으면 어떻게 대체하나요?"
         },
         "answer": {
-          "ko": "정교한 다기 세트가 없더라도 따뜻한 온수나 티백 허브차 한 잔을 마시며 감각에 5분간 집중하는 것으로 충분히 대체 가능합니다.",
-          "en": "Even without a fancy tea set, sipping a warm cup of water or herbal tea bag while focusing on the physical senses for 5 minutes is a sufficient substitute.",
-          "ja": "精巧な茶器セットがなくても、温かいお湯やティーバッグのハーブティーを一杯飲みながら、感覚に5分間集中することで十分に代替可能です。",
-          "zh": "即使没有精致的茶具，喝一杯温水或袋泡花草茶，并将注意力集中在感官上5分钟，也完全可以替代。",
-          "es": "Incluso sin un juego de té elegante, tomar una taza de agua tibia o té de hierbas concentrándose en los sentidos por 5 minutos es suficiente.",
-          "fr": "Même sans service à thé, boire une tasse d'eau chaude ou d'infusion en vous concentrant sur vos sens pendant 5 minutes suffit.",
-          "de": "Auch ohne Teeservice reicht es, eine Tasse warmes Wasser oder Kräutertee zu trinken und sich 5 Minuten auf die Sinne zu konzentrieren.",
-          "pt": "Mesmo sem um jogo de chá elegante, tomar uma xícara de água morna ou chá de ervas concentrando-se nos sentidos por 5 minutos é suficiente.",
-          "id": "Meskipun tanpa set cangkir teh, meminum secangkir air hangat atau teh herbal sambil fokus pada indra selama 5 menit sudah cukup."
+          "ko": "정교한 다기 세트가 없더라도 따뜻한 온수나 티백 허브차 한 잔을 마시며 감각에 5분간 집중하는 것으로 충분히 대체 가능합니다."
         }
       }
-    ],
-    "pubDate": "2026-01-12",
-    "updatedDate": "2026-01-12"
+    ]
   }
 }

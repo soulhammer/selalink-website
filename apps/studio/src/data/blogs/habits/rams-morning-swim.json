@@ -1,218 +1,72 @@
 {
   "rams-morning-swim": {
     "title": {
-      "ko": "더 적게, 하지만 더 좋게? 디터 람스의 아침 수영과 관찰 루틴",
-      "en": "Less, But Better? Dieter Rams' Morning Swim and Observation Routine",
-      "ja": "より少なく、しかしより良く？ディーター・ラムスの朝の水泳と観察ルーティン",
-      "zh": "更少，但更好？迪特·拉姆斯的小早游泳与观察常规",
-      "es": "¿Menos, pero mejor? La rutina de natación matutina y observación de Dieter Rams",
-      "fr": "Moins, mais mieux ? La routine de natation matinale et d'observation de Dieter Rams",
-      "de": "Weniger, aber besser? Dieter Rams' morgendliches Schwimmen und seine Beobachtungsroutine",
-      "pt": "Menos, mas melhor? A rotina de natação matinal e observação de Dieter Rams",
-      "id": "Lebih Sedikit, Tetapi Lebih Baik? Rutinitas Berenang Pagi dan Observasi Dieter Rams"
+      "ko": "더 적게, 하지만 더 좋게? 디터 람스의 아침 수영과 관찰 루틴"
     },
     "description": {
-      "ko": "미니멀리즘 디자인의 전설 디터 람스. 매일 아침 수영을 마친 후 정원을 가꾸며 뇌를 깨운 그의 습관과 현대인을 위한 아침 주의력 회복법을 소개합니다.",
-      "en": "Dieter Rams, the legend of minimalist design. Introduce his habit of waking up the brain by gardening after swimming every morning, and a morning attention restoration method for modern people.",
-      "ja": "ミニマリズムデザインの伝説ディーター・ラムス。毎朝水泳を終えた後、庭を整えながら脳を呼び覚ました彼の習慣と、現代人のための朝の注意力回復法を紹介します。",
-      "zh": "极简主义设计传奇人物迪特·拉姆斯。介绍他每天早上游泳后通过整理花园唤醒大脑的习惯，以及现代人的早晨注意力恢复方法。",
-      "es": "Dieter Rams, leyenda del diseño minimalista. Conozca su hábito de despertar el cerebro cuidando el jardín después de nadar cada mañana, y un método de restauración de la atención para personas modernas.",
-      "fr": "Dieter Rams, légende du design minimaliste. Découvrez son habitude de réveiller son cerveau en jardinant après sa natation matinale, et une méthode de restauration de l'attention pour les actifs.",
-      "de": "Dieter Rams, die Legende des minimalistischen Designs. Erfahren Sie mehr über seine Gewohnheit, das Gehirn nach dem morgendlichen Schwimmen durch Gartenarbeit zu wecken, und eine Methode zur Aufmerksamkeitserholung.",
-      "pt": "Dieter Rams, lenda do design minimalista. Conheça seu hábito de despertar o cérebro cuidando do jardim depois de nadar todas as manhãs, e um método de restauração da atenção para pessoas modernas.",
-      "id": "Dieter Rams, legenda desain minimalis. Kenalkan kebiasaannya membangunkan otak dengan berkebun setelah berenang setiap pagi, dan metode pemulihan perhatian pagi untuk manusia modern."
+      "ko": "미니멀리즘 디자인의 전설 디터 람스. 매일 아침 수영을 마친 후 정원을 가꾸며 뇌를 깨운 그의 습관과 현대인을 위한 아침 주의력 회복법을 소개합니다."
     },
     "authority": {
-      "ko": "디터 람스 디자인 전기 'As Little Design as Possible' 및 주의력 회복 이론(ART) 연구",
-      "en": "Dieter Rams' Biography 'As Little Design as Possible' & Attention Restoration Theory Studies",
-      "ja": "ディーター・ラムスのデザイン伝記「As Little Design as Possible」および注意力回復理論（ART）研究",
-      "zh": "迪特·拉姆斯设计传记《As Little Design as Possible》与注意力恢复理论 (ART) 研究",
-      "es": "Biografía de Dieter Rams 'As Little Design as Possible' y estudios de la teoría de restauración de la atención",
-      "fr": "Biographie de Dieter Rams 'As Little Design as Possible' & études de la théorie de la restauration de l'attention",
-      "de": "Dieter Rams' Biografie 'As Little Design as Possible' & Studien zur Aufmerksamkeitserholungstheorie",
-      "pt": "Biografia de Dieter Rams 'As Little Design as Possible' & estudos da teoria de restauração da atenção",
-      "id": "Biografi Dieter Rams 'As Little Design as Possible' & Studi Teori Pemulihan Perhatian"
+      "ko": "디터 람스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "\"더 적게, 하지만 더 좋게(Less, but better).\" 브라운(Braun)의 수석 디자이너로서 20세기 산업 디자인의 패러다임을 혁신하고 애플의 조나단 아이브를 비롯한 수많은 거장에게 영감을 준 디자인의 살아있는 전설, 디터 람스. 복잡한 세상을 단순하고 실용적인 제품으로 시각화한 그의 천재적인 아이디어들은 아침의 어떤 행동에서 비롯되었을까요? 🏊‍♂️\n\n디터 람스는 평생 매일 아침 수영을 하며 뇌를 물리적으로 깨우고 전신 근육을 이완하는 것으로 하루를 시작했습니다. 수영을 마친 뒤에는 자신의 고요한 정원으로 돌아와 분재를 다듬고 나무와 식물을 가꾸었습니다. 그는 복잡한 기획이나 인위적인 형상에 갇히기보다, 정원의 식물들이 자라나는 유기적이고 본질적인 구조를 지그시 바라보며 '불필요한 요소를 배제하는' 미니멀리즘의 핵심 영감을 정립했습니다.\n\n오늘 BuildSelf에서는 디터 람스의 '아침 수영과 관찰' 루틴이 뇌의 주의력 복구에 미치는 인지과학적 영향과 현대인들이 종일 집중력을 유지하기 위해 이를 어떻게 응용할 수 있는지 알아봅니다.",
-      "en": "\"Less, but better.\" Dieter Rams, the living legend of design who revolutionized the paradigm of 20th-century industrial design as the chief designer of Braun and inspired countless masters including Apple's Jony Ive. Where did his genius ideas of visualizing a complex world into simple and practical products come from? 🏊‍♂️\n\nDieter Rams started his day by swimming every morning to physically wake up his brain and relax his body. After swimming, he returned to his quiet garden to trim bonsai and meticulously care for the trees. Rather than being trapped in complex planning or artificial shapes, he looked at the organic and essential structure of the plants in his garden and established the core inspiration of minimalism: 'excluding unnecessary elements.'\n\nToday, BuildSelf introduces the cognitive effects of Dieter Rams' 'morning swim and observation' routine on the brain's attention recovery and how modern people can apply it to maintain focus throughout the day.",
-      "ja": "「より少なく、しかしより良く（Less, but better）」。ブラウン（Braun）のチーフデザイナーとして20世紀の工業デザインのパラダイムを革新し、アップルのジョナサン・アイブをはじめとする多くの巨匠に影響を与えたデザインの生ける伝説、ディーター・ラムス。複雑な世界をシンプルで実用的な製品として視覚化した彼の天才的なアイデアは、朝のどのような行動から生まれたのでしょうか？ 🏊‍♂️\n\nディーター・ラムスは生涯、毎朝水泳をすることで脳を物理的に呼び覚まし、全身の筋肉をリラックスさせることから一日を始めました。水泳を終えた後は、静かな自宅の庭に戻り、盆栽を整え、木や植物の世話をしました。彼は複雑な企画や人工的な形状にとらわれるよりも、庭の植物が育つ有機的で本質的な構造をじっと見つめることで、「不要な要素を排除する」ミニマリズムの核となるインスピレーションを確立しました。\n\n本日、BuildSelfではディーター・ラムスの「朝の水泳と観察」ルーティンが脳の注意力回復に与える認知科学的影響と、現代人が一日中集中力を維持するためにこれをどのように応用できるかを紹介します。",
-      "zh": "在这一历史性惯例的实践中：\" , (Less, but better).\" (Braun) 20 , . ? 🏊‍♂️ 在这一历史性惯例的实践中： . . , ' ' . 在这一历史性惯例的实践中： BuildSelf ' ' .",
-      "es": "\"Menos, pero mejor\". Dieter Rams, la leyenda viva del diseño que revolucionó el diseño industrial del siglo XX como director de Braun e inspiró a maestros como Jony Ive de Apple. ¿De dónde surgieron sus ideas geniales para simplificar el mundo? 🏊‍♂️\n\nDieter Rams empezaba el día nadando cada mañana para despertar el cerebro e relajar el cuerpo. Tras nadar, regresaba a su jardín para cuidar sus bonsáis y plantas. En lugar de dejarse atrapar por planes complejos, contemplaba la estructura orgánica de las plantas y estableció la inspiración del minimalismo: 'excluir lo innecesario'.\n\nHoy, BuildSelf presenta los efectos cognitivos de la rutina de natación y observación de Dieter Rams en la recuperación de la atención y cómo aplicarla hoy.",
-      "fr": "\"Moins, mais mieux.\" Dieter Rams, la légende vivante du design qui a révolutionné le design industriel du XXe siècle en tant que chef du design chez Braun et a inspiré des maîtres comme Jony Ive d'Apple. D'où venaient ses idées de génie pour simplifier le monde ? 🏊‍♂️\n\nRams commençait sa journée par faire de la natation chaque matin pour réveiller son cerveau et détendre son corps. Après cela, il retournait dans son jardin pour tailler ses bonsaïs et s'occuper des arbres. Au lieu de se laisser piéger par des plans complexes, il contemplait la structure organique des plantes et a établi l'inspiration du minimalisme : 'exclure l'inutile'.\n\nAujourd'hui, BuildSelf présente les effets cognitifs de la routine de natation et d'observation de Dieter Rams sur la restauration de l'attention et comment l'appliquer aujourd'hui.",
-      "de": "\"Weniger, aber besser.\" Dieter Rams, die lebende Legende des Designs, der als Chefdesigner von Braun das Paradigma des Industriedesigns des 20. Jahrhunderts revolutionierte und unzählige Meister wie Jony Ive von Apple inspirierte. Woher stammten seine genialen Ideen zur Vereinfachung der Welt? 🏊‍♂️\n\nRams begann seinen Tag jeden Morgen mit Schwimmen, um sein Gehirn zu wecken und seinen Körper zu entspannen. Danach kehrte er in seinen Garten zurück, um Bonsais zu schneiden und die Bäume zu pflegen. Anstatt sich in komplexen Planungen zu verlieren, betrachtete er die organische Struktur der Pflanzen und begründete die Inspiration des Minimalismus: 'das Überflüssige ausschließen'.\n\nHeute stellt BuildSelf die kognitiven Effekte der Schwimm- und Beobachtungsroutine von Dieter Rams vor und zeigt, wie man sie heute anwendet.",
-      "pt": "\"Menos, mas melhor\". Dieter Rams, a lenda viva do design que revolucionou o design industrial do século XX como diretor da Braun e inspirou mestres como Jony Ive da Apple. De onde surgiram suas ideias geniais para simplificar o mundo? 🏊‍♂️\n\nDieter Rams começava o dia nadando todas as manhãs para despertar o cérebro e relaxar o corpo. Depois de nadar, ele retornava ao seu jardim para cuidar de seus bonsais e plantas. Em vez de se deixar prender por planos complexos, contemplava a estrutura orgânica das plantas e estabeleceu a inspiração do minimalismo: 'excluir o desnecessário'.\n\nHoje, o BuildSelf apresenta os efeitos cognitivos da rotina de natação e observação de Dieter Rams na recuperação da atenção e como aplicá-la hoje.",
-      "id": "\"Lebih sedikit, tetapi lebih baik.\" Dieter Rams, legenda desain hidup yang merevolusi paradigma desain industri abad ke-20 sebagai kepala desainer Braun dan menginspirasi banyak master termasuk Jony Ive dari Apple. Dari mana datangnya ide geniusnya untuk menyederhanakan dunia? 🏊‍♂️\n\nRams memulai harinya dengan berenang setiap pagi untuk membangunkan otak dan merilekskan tubuhnya. Setelah berenang, ia kembali ke kebunnya untuk merawat bonsai dan tanaman. Alih-alih terjebak dalam perencanaan yang rumit, ia memandang struktur organik tanaman dan menetapkan inspirasi minimalisme: 'menyingkirkan hal yang tidak perlu'.\n\nHari ini, BuildSelf memperkenalkan efek kognitif dari rutinitas berenang dan observasi pagi Dieter Rams pada pemulihan perhatian dan cara menerapkannya hari ini."
+      "ko": "\"디자인의 질을 높이기 위해서는 사물을 단순화하고 관찰하는 침묵의 시간이 필요하다.\" 🏊‍♂️\n\n\"더 적게, 하지만 더 좋게(Less, but better).\" 브라운(Braun)의 수석 디자이너로서 20세기 산업 디자인의 패러다임을 혁신하고 애플의 조나단 아이브를 비롯한 수많은 거장에게 영감을 준 디자인의 살아있는 전설, 디터 람스. 복잡한 세상을 단순하고 실용적인 제품으로 시각화한 그의 천재적인 아이디어들은 아침의 어떤 행동에서 비롯되었을까요?\n\n디터 람스는 평생 매일 아침 수영을 하며 뇌를 물리적으로 깨우고 전신 근육을 이완하는 것으로 하루를 시작했습니다. 수영을 마친 뒤에는 자신의 고요한 정원으로 돌아와 분재를 다듬고 나무들을 세심하게 가꾸었습니다. 그는 복잡한 기획이나 인위적인 형상에 갇히기보다, 정원의 식물들이 자라나는 유기적이고 본질적인 구조를 지그시 바라보며 '불필요한 요소를 배제하는' 미니멀리즘의 핵심 영감을 정립했습니다.\n\n오늘 포스트에서는 디터 람스의 '아침 수영과 관찰' 루틴이 뇌의 주의력 복구에 미치는 인지과학적 영향과 현대인들이 종일 집중력을 유지하기 위해 이를 어떻게 응용할 수 있는지 알아봅니다."
     },
     "whyTitle": {
-      "ko": "시각 피질을 정화하는 '주의력 회복 이론'",
-      "en": "'Attention Restoration Theory' to Purify the Visual Cortex",
-      "ja": "視覚野を浄化する「注意力回復理論」",
-      "zh": "净化视觉皮层的“注意力恢复理论”",
-      "es": "'Teoría de Restauración de la Atención' para purificar la corteza visual",
-      "fr": "La 'théorie de la restauration de l'attention' pour purifier le cortex visuel",
-      "de": "Die 'Aufmerksamkeitserholungstheorie' zur Reinigung des visuellen Cortex",
-      "pt": "'Teoria de Restauração da Atenção' para purificar o córtex visual",
-      "id": "'Teori Pemulihan Perhatian' untuk Memurnikan Korteks Visual"
+      "ko": "시각 피질을 정화하는 '주의력 회복 이론'"
     },
     "whyDesc": {
-      "ko": "현대인은 아침에 눈을 뜨자마자 스마트폰의 텍스트, 메신저 알림, 출근길의 복잡한 이정표 등 인위적인 시각 자극에 대량 노출됩니다. 이는 전두엽의 계획적이고 의도적인 주의집중(Directed Attention) 능력을 순식간에 방전시켜, 정오가 되기도 전에 강한 인지 피로를 겪게 만듭니다. \n\n디터 람스의 아침 루틴은 유산소 운동으로 뇌 혈류량을 공급한 뒤, 자연물 관찰을 통해 <strong>'주의력 회복 이론(Attention Restoration Theory, ART)'</strong>을 실천하는 지혜였습니다. 식물의 잎맥 구조, 가지의 뻗음과 같은 자연의 미묘한 패턴을 관찰할 때, 뇌는 긴장이나 에너지를 요구하지 않는 '정적인 주의(Soft Fascination)' 상태에 들어갑니다. 이 과정에서 의도적 집중을 담당하던 뇌 영역은 휴식을 취하며 피로를 극적으로 회복하고, 시각적 감각령을 정화하여 하루 동안 마주할 고도의 설계 작업에 필요한 인지적 체력을 탄탄하게 완충합니다.",
-      "en": "Modern people are exposed to a large amount of artificial visual stimuli such as smartphone texts, messenger notifications, and complex signs on the way to work as soon as they open their eyes in the morning. This quickly drains the frontal lobe's capacity for Directed Attention, leading to severe cognitive fatigue before noon.\n\nDieter Rams' morning routine was the wisdom of practicing <strong>'Attention Restoration Theory (ART)'</strong> through natural observation after supplying brain blood flow with aerobic exercise. When observing subtle natural patterns such as the vein structure of leaves or the extension of branches, the brain enters a state of 'Soft Fascination' that requires no tension or energy. During this process, the brain areas responsible for directed attention take a rest and dramatically recover, purifying the visual sensory areas and buffering the cognitive stamina needed for high-level design work.",
-      "ja": "現代人は朝起きるとすぐに、スマートフォンのテキスト、メッセンジャーの通知、通勤途中の複雑な標識など、人工的な視覚刺激に大量にさらされます。これは前頭葉の計画的かつ意図的な注意力（Directed Attention）の能力を瞬時に放電させ、正午になる前に激しい認知疲労を引き起こします。\n\nディーター・ラムスの朝のルーティンは、有酸素運動で脳の血流量を供給した後、自然物を観察することで<strong>「注意力回復理論（Attention Restoration Theory, ART）」</strong>を実践する知恵でした。植物の葉脈の構造や枝の伸び方といった自然の微妙なパターンを観察するとき、脳は緊張やエネルギーを必要としない「ソフトな魅了（Soft Fascination）」の状態に入ります。この過程で、意図的な集中を担当していた脳の領域は休息をとり、疲労を劇的に回復させ、視覚的な感覚野を浄化し、一日の中で直面する高度な設計作業に必要な認知的体力をしっかりと満たします。",
-      "zh": "现代人早上睁开眼睛，就会暴露在大量人工视觉刺激中，例如智能手机文本、社交软件通知以及上班路上复杂的标志。这会迅速耗尽前额叶的有意识注意力 (Directed Attention) 能力，导致在中午之前就产生严重的认知疲劳。\n\n迪特·拉姆斯的早晨常规是利用有酸素运动为大脑提供血流量，然后通过观察自然物来实践<strong>“注意力恢复理论 (Attention Restoration Theory, ART)”</strong>的智慧。在观察植物的叶脉结构、树枝的延伸等大自然的微妙图案时，大脑会进入不需要紧张或能量的“轻度迷恋 (Soft Fascination)”状态。在此过程中，负责有意识集中的大脑区域会得到休息，从而使疲劳得到显著恢复，并净化视觉感觉区，为一天中面临的高难度设计工作储备充足的认知体力。",
-      "es": "Los humanos modernos están expuestos a grandes cantidades de estímulos visuales artificiales nada más despertarse. Esto agota rápidamente la capacidad de Atención Dirigida del lóbulo frontal, provocando fatiga antes del mediodía.\n\nLa rutina de Dieter Rams era una forma de practicar la <strong>'Teoría de Restauración de la Atención (TRA)'</strong> observando la naturaleza tras hacer ejercicio aeróbico. Al observar patrones naturales, el cerebro entra en un estado de 'Atracción Suave' que no requiere esfuerzo. Así, las áreas de atención dirigida descansan y se recuperan, preparando la mente para el trabajo de diseño de alta exigencia.",
-      "fr": "L'homme moderne est exposé à de grandes quantités de stimuli visuels artificiels dès son réveil. Cela épuise rapidement la capacité d'Attention Dirigée du lobe frontal, provoquant une fatigue avant midi.\n\nLa routine de Dieter Rams était une manière de pratiquer la <strong>'théorie de la restauration de l'attention (TRA)'</strong> en observant la nature après un exercice aérobie. Lors de l'observation de motifs naturels, le cerveau entre dans un état de 'fascination douce' qui ne demande aucun effort. Ainsi, les zones d'attention dirigée se reposent et se rétablissent, préparant le cerveau au travail de conception exigeant.",
-      "de": "Moderne Menschen sind gleich nach dem Aufwachen einer Vielzahl künstlicher visueller Reize ausgesetzt. Dies erschöpft schnell die Fähigkeit des Stirnlappens zur gezielten Aufmerksamkeit und führt noch vor dem Mittag zu Ermüdung.\n\nDieter Rams' Routine war eine Möglichkeit, die <strong>'Aufmerksamkeitserholungstheorie (ART)'</strong> durch Naturbeobachtung nach aerobem Training anzuwenden. Bei der Betrachtung natürlicher Muster tritt das Gehirn in einen Zustand der 'sanften Faszination' ein, der keine Mühe erfordert. Dadurch ruhen sich die Bereiche für gezielte Aufmerksamkeit aus und erholen sich, was den Geist auf anspruchsvolle Designarbeiten vorbereitet.",
-      "pt": "Os humanos modernos estão expostos a grandes quantidades de estímulos visuais artificiais logo ao acordar. Isso esgota rapidamente a capacidade de Atenção Dirigida do lobo frontal, causando fadiga antes do meio-dia.\n\nA rotina de Dieter Rams era uma forma de praticar a <strong>'Teoria de Restauração da Atenção (TRA)'</strong> observando a natureza após exercícios aeróbicos. Ao observar padrões naturais, o cérebro entra em um estado de 'Fascinação Suave' que não requer esforço. Assim, as áreas de atenção dirigida descansam e se recuperam, preparando a mente para o trabalho de design de alta exigência.",
-      "id": "Manusia modern terpapar stimulus visual buatan dalam jumlah besar segera setelah bangun tidur. Hal ini menguras kapasitas Perhatian Terarah pada lobus frontal dengan cepat, menyebabkan kelelahan sebelum tengah hari.\n\nRutinitas Dieter Rams adalah cara mempraktikkan <strong>'Teori Pemulihan Perhatian (ART)'</strong> dengan mengamati alam setelah latihan aerobik. Saat mengamati pola-pola alami, otak memasuki kondisi 'Keterpukauan Lembut' yang tidak membutuhkan usaha. Dengan demikian, area perhatian terarah beristirahat dan pulih, mempersiapkan pikiran untuk pekerjaan desain dengan tingkat kesulitan tinggi."
+      "ko": "현대인은 아침에 눈을 뜨자마자 스마트폰의 텍스트, 메신저 알림, 출근길의 복잡한 이정표 등 인위적인 시각 자극에 대량 노출됩니다. 이는 전두엽의 계획적이고 의도적인 주의집중(Directed Attention) 능력을 순식간에 방전시켜, 정오가 되기도 전에 강한 인지 피로를 겪게 만듭니다. \n\n디터 람스의 아침 루틴은 유산소 운동으로 뇌 혈류량을 공급한 뒤, 자연물 관찰을 통해 <strong>'주의력 회복 이론(Attention Restoration Theory, ART)'</strong>을 실천하는 지혜였습니다. 식물의 잎맥 구조, 가지의 뻗음과 같은 자연의 미묘한 패턴을 관찰할 때, 뇌는 긴장이나 에너지를 요구하지 않는 '정적인 주의(Soft Fascination)' 상태에 들어갑니다. 이 과정에서 의도적 집중을 담당하던 뇌 영역은 휴식을 취하며 피로를 극적으로 회복하고, 시각적 감각령을 정화하여 하루 동안 마주할 고도의 설계 작업에 필요한 인지적 체력을 탄탄하게 완충합니다."
     },
     "cautionTitle": {
-      "ko": "인위적인 시각적 비우기가 아이디어를 채웁니다",
-      "en": "Artificial Visual Emptying Fills Ideas",
-      "ja": "人工的な視覚のクレンジングがアイデアを満たします",
-      "zh": "人为的视觉空白会填补创意",
-      "es": "El vaciado visual artificial llena las ideas",
-      "fr": "Le vide visuel artificiel remplit les idées",
-      "de": "Künstliche visuelle Entleerung füllt Ideen",
-      "pt": "O esvaziamento visual artificial preenche as ideias",
-      "id": "Pengosongan Visual Buatan Mengisi Ide"
+      "ko": "인위적인 시각적 비우기가 아이디어를 채웁니다"
     },
     "cautionDesc": {
-      "ko": "좋은 디자인이란 불필요한 것들을 모두 덜어낸 본질적인 상태를 뜻합니다. 디터 람스가 매일 아침 분재를 다듬고 자연을 관찰했던 것은 뇌에 인위적인 자극을 비워내고 가장 본질적인 생각의 공간을 만들기 위함이었습니다. 아침의 짧은 자연 관찰을 통해 당신의 주의력 필터를 새롭게 세척해 보세요.",
-      "en": "Good design means an essential state in which all unnecessary things are removed. Dieter Rams trimmed bonsai and observed nature every morning to empty the brain of artificial stimuli and create space for the most essential thoughts. Wash your attention filter clean with a short morning observation of nature.",
-      "ja": "優れたデザインとは、不要なものをすべて削ぎ落とした本質な状態を意味します。ディーター・ラムスが毎朝盆栽を整え、自然を観察したのは、脳内の人工的な刺激を空にし、最も本質的な思考の空間を作るためでした。朝の短い自然観察を通じて、あなたの注意力フィルターを新しくクレンジングしてみてください。",
-      "zh": "好的设计意味着去除了所有不必要东西的本质状态。迪特·拉姆斯每天早上修剪盆景、观察自然，是为了排空大脑中的人为刺激，创造出最本质的思考空间。试着在早晨进行短暂的自然观察，重新清洗你的注意力过滤器。",
-      "es": "El buen diseño significa un estado esencial en el que se elimina todo lo innecesario. Dieter Rams cuidaba bonsáis y observaba la naturaleza cada mañana para vaciar el cerebro de estímulos artificiales y crear espacio para los pensamientos esenciales. Limpie su filtro de atención observando la naturaleza por la mañana.",
-      "fr": "Un bon design signifie un état essentiel où tout l'inutile est supprimé. Dieter Rams taillait ses bonsaïs et observait la nature chaque matin pour vider son cerveau des stimuli artificiels et créer de l'espace pour les pensées essentielles. Nettoyez votre filtre d'attention en observant la nature le matin.",
-      "de": "Gutes Design bedeutet einen essenziellen Zustand, in dem alles Überflüssige entfernt ist. Dieter Rams pflegte Bonsais und beobachtete jeden Morgen die Natur, um sein Gehirn von künstlichen Reizen zu befreien und Raum für essenzielle Gedanken zu schaffen. Reinigen Sie Ihren Aufmerksamkeitsfilter morgens durch Naturbeobachtung.",
-      "pt": "O bom design significa um estado essencial no qual tudo o que é desnecessário é removido. Dieter Rams cuidava de bonsais e observava a natureza todas as manhãs para esvaziar o cérebro de estímulos artificiais e criar espaço para os pensamentos essenciais. Limpe seu filtro de atenção observando a natureza pela manhã.",
-      "id": "Desain yang baik berarti kondisi esensial di mana semua hal yang tidak perlu disingkirkan. Dieter Rams merawat bonsai dan mengamati alam setiap pagi untuk mengosongkan otak dari rangsangan buatan dan menciptakan ruang bagi pikiran-pikiran esensial. Bersihkan filter perhatian Anda dengan pengamatan alam yang singkat di pagi hari."
+      "ko": "좋은 디자인이란 불필요한 것들을 모두 덜어낸 본질적인 상태를 뜻합니다. 디터 람스가 매일 아침 분재를 다듬고 자연을 관찰했던 것은 뇌에 인위적인 자극을 비워내고 가장 본질적인 생각의 공간을 만들기 위함이었습니다. 아침의 짧은 자연 관찰을 통해 당신의 주의력 필터를 새롭게 세척해 보세요."
     },
     "steps": [
       {
         "name": {
-          "ko": "아침 신체 순환 활성화 루틴",
-          "en": "Morning Physical Circulation Activation Routine",
-          "ja": "朝の身体循環活性化ルーティン",
-          "zh": "早晨身体循环激活常规",
-          "es": "Rutina de activación de la circulación corporal por la mañana",
-          "fr": "Routine d'activation de la circulation corporelle matinale",
-          "de": "Morgendliche Routine zur Aktivierung des Körperkreislaufs",
-          "pt": "Rotina de ativação da circulação corporal pela manhã",
-          "id": "Rutinitas Aktivasi Sirkulasi Fisik Pagi"
+          "ko": "아침 신체 순환 활성화 루틴"
         },
         "text": {
-          "ko": "아침에 기상한 후 가벼운 스트레칭이나 맨몸 체조, 또는 가벼운 샤워를 통해 밤새 정체되어 있던 온몸의 혈액 순환을 촉진하고 전두엽에 신선한 혈류를 공급합니다.",
-          "en": "After waking up in the morning, promote blood circulation throughout the body that was stagnant overnight and supply fresh blood flow to the frontal lobe through light stretching, calisthenics, or a warm shower.",
-          "ja": "朝起床した後、軽いストレッチや自重体操、あるいは軽いシャワーを通じて、一晩中滞っていた全身の血液循環を促進し、前頭葉に新鮮な血流を供給します。",
-          "zh": "早晨起床后，通过轻微的伸展运动、体操或淋浴，促进夜间停滞的全身血液循环，为前额叶提供新鲜血流。",
-          "es": "Tras despertarse, active la circulación de todo el cuerpo mediante estiramientos ligeros, calistenia o una ducha templada, suministrando flujo de sangre al lóbulo frontal.",
-          "fr": "Après le réveil, activez la circulation de tout le corps par des étirements légers, de la gymnastique ou une douche tiède, fournissant ainsi un flux sanguin au lobe frontal.",
-          "de": "Aktivieren Sie nach dem Aufwachen den Kreislauf durch leichtes Dehnen, Gymnastik oder eine Dusche, um den Stirnlappen mit frischem Blut zu versorgen.",
-          "pt": "Após acordar, ative a circulação de todo o corpo através de alongamentos leves, calistenia ou um banho morno, fornecendo fluxo sanguíneo ao lobo frontal.",
-          "id": "Setelah bangun tidur di pagi hari, tingkatkan sirkulasi darah ke seluruh tubuh yang tersumbat semalaman dan suplai aliran darah segar ke lobus frontal melalui peregangan ringan, senam, atau mandi air hangat."
+          "ko": "아침에 기상한 후 가벼운 스트레칭이나 맨몸 체조, 또는 가벼운 샤워를 통해 밤새 정체되어 있던 온몸의 혈액 순환을 촉진하고 전두엽에 신선한 혈류를 공급합니다."
         }
       },
       {
         "name": {
-          "ko": "5분간의 자연물 시각 집중",
-          "en": "5-Minute Visual Focus on Natural Objects",
-          "ja": "5分間の自然物への視覚集中",
-          "zh": "5分钟的自然物视觉集中",
-          "es": "Foco visual de 5 minutos en objetos naturales",
-          "fr": "Focus visuel de 5 minutes sur des éléments naturels",
-          "de": "5-minütige visuelle Fokussierung auf Naturobjekte",
-          "pt": "Foco visual de 5 minutos em objetos naturais",
-          "id": "Fokus Visual 5 Menit pada Objek Alami"
+          "ko": "5분간의 자연물 시각 집중"
         },
         "text": {
-          "ko": "베란다의 화분, 정원의 나무, 창밖의 자연경관, 혹은 출근길의 작은 공원에 있는 식물 중 하나를 선택하고, 스마트폰을 주머니에 넣은 채 5분 동안 그 자연물을 가만히 응시합니다.",
-          "en": "Choose one of the plants in your veranda pot, garden trees, natural scenery outside the window, or a small park on the way to work, and stare at the natural object for 5 minutes with your smartphone in your pocket.",
-          "ja": "ベランダの鉢植え、庭の木、窓の外の自然景観、あるいは通勤途中の小さな公園にある植物のいずれかを選択し、スマートフォンをポケットに入れたまま、5分間その自然物を静かに見つめます。",
-          "zh": "选择阳台上的花盆、花园里的树木、窗外的自然风光或上班路上的小公园里的植物之一，将智能手机放入口袋中，静静注视该自然物5分钟。",
-          "es": "Elija una planta en su ventana, los árboles del jardín o una planta en un parque de camino al trabajo, y mire fijamente el elemento natural durante 5 minutos con el teléfono guardado.",
-          "fr": "Choisissez une plante sur votre balcon, les arbres du jardin ou une plante dans un parc sur le chemin du travail, et fixez l'élément naturel pendant 5 minutes avec le téléphone dans la poche.",
-          "de": "Wählen Sie eine Pflanze auf Ihrem Balkon, die Bäume im Garten oder eine Pflanze in einem Park auf dem Weg zur Arbeit und betrachten Sie das Naturobjekt 5 Minuten lang mit dem Handy in der Tasche.",
-          "pt": "Escolha uma planta na sua janela, as árvores do jardim ou uma planta em um parque no caminho para o trabalho, e olhe fixamente para o elemento natural por 5 minutos com o celular guardado.",
-          "id": "Pilih salah satu tanaman di pot veranda Anda, pohon kebun, pemandangan alam di luar jendela, atau taman kecil dalam perjalanan ke tempat kerja, dan tatap objek alami tersebut selama 5 menit dengan ponsel disimpan di saku."
+          "ko": "베란다의 화분, 정원의 나무, 창밖의 자연경관, 혹은 출근길의 작은 공원에 있는 식물 중 하나를 선택하고, 스마트폰을 주머니에 넣은 채 5분 동안 그 자연물을 가만히 응시합니다."
         }
       },
       {
         "name": {
-          "ko": "구조적 단순함의 묵묵한 관찰",
-          "en": "Silent Observation of Structural Simplicity",
-          "ja": "構造的シンプルさの黙々とした観察",
-          "zh": "对结构简单性的默默观察",
-          "es": "Observación silenciosa de la simplicidad estructural",
-          "fr": "Observation silencieuse de la simplicité structurelle",
-          "de": "Stille Beobachtung der strukturellen Einfachheit",
-          "pt": "Observação silenciosa da simplicidade estrutural",
-          "id": "Observasi Hening tentang Kesederhanaan Struktural"
+          "ko": "구조적 단순함의 묵묵한 관찰"
         },
         "text": {
-          "ko": "자연물이 지닌 불규칙하지만 조화로운 구조, 본질적인 색상, 군더더기 없는 형태에 깊이 몰입하며 인위적인 가공물로부터 시각 피질을 해방하고 뇌를 차분하게 정돈합니다.",
-          "en": "Immerse yourself deeply in the irregular yet harmonious structure, essential colors, and clutter-free forms of natural objects, releasing the visual cortex from artificial artifacts and calming the brain.",
-          "ja": "自然物が持つ不規則ながらも調和のとれた構造、本質的な色、無駄のない形状に深く没頭し、人工的な加工物から視覚野を解放して、脳を落ち着かせます。",
-          "zh": "深切沉浸在自然物所具有的无规则但和谐的结构、本质色彩和无赘余的形态中，将视觉皮层从人造加工物中解放出来，使大脑平静下来。",
-          "es": "Sumérjase en la estructura irregular pero armoniosa y las formas sin adornos de los objetos naturales, liberando la corteza visual de los artefactos y calmando el cerebro.",
-          "fr": "Plongez-vous dans la structure irrégulière mais harmonieuse et les formes simples des éléments naturels, libérant ainsi le cortex visuel des artifices et calmant le cerveau.",
-          "de": "Tauchen Sie tief in die unregelmäßige, aber harmonische Struktur und die schnörkellosen Formen von Naturobjekten ein, um den visuellen Cortex von Artefakten zu befreien und das Gehirn zu beruhigen.",
-          "pt": "Mergulhe na estrutura irregular mas harmoniosa e nas formas simples dos objetos naturais, libertando o córtex visual dos artefatos e acalmando o cérebro.",
-          "id": "Benamkan diri Anda secara mendalam dalam struktur objek alami yang tidak beraturan tetapi harmonis, warna-warna esensial, dan bentuk yang bebas dari kekacauan, membebaskan korteks visual dari artefak buatan dan menenangkan otak."
+          "ko": "자연물이 지닌 불규칙하지만 조화로운 구조, 본질적인 색상, 군더더기 없는 형태에 깊이 몰입하며 인위적인 가공물로부터 시각 피질을 해방하고 뇌를 차분하게 정돈합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "꼭 아침 수영을 직접 해야 효과가 있나요?",
-          "en": "Do I have to swim in the morning to get the effect?",
-          "ja": "必ず朝の水泳を直接しなければ効果はありませんか？",
-          "zh": "必须亲自早起游泳才有效果吗？",
-          "es": "¿Tengo que nadar por la mañana para obtener el efecto?",
-          "fr": "Dois-je nager le matin pour obtenir l'effet ?",
-          "de": "Muss ich morgens schwimmen, um den Effekt zu erzielen?",
-          "pt": "Preciso nadar de manhã para obter o efeito?",
-          "id": "Apakah saya harus berenang di pagi hari untuk mendapatkan efeknya?"
+          "ko": "꼭 아침 수영을 직접 해야 효과가 있나요?"
         },
         "answer": {
-          "ko": "아닙니다. 수영은 디터 람스가 애용한 최상의 유산소 운동이었을 뿐입니다. 가벼운 실내 조깅이나 스트레칭, 10분 정도의 빠른 걷기 등으로 뇌혈류를 깨워주는 유산소 운동이면 무엇이든 무방합니다.",
-          "en": "No. Swimming was just the ideal aerobic exercise preferred by Dieter Rams. Any aerobic exercise that wakes up brain blood flow, such as light indoor jogging, stretching, or 10 minutes of brisk walking, is fine.",
-          "ja": "いいえ。水泳はディーター・ラムスが愛用した最高の有酸素運動に過ぎませんでした。軽い室内ジョギングやストレッチ、10分ほどの速歩きなど、脳の血流を呼び覚ます有酸素運動であれば何でも構いません。",
-          "zh": "不是的。游泳只是迪特·拉姆斯喜欢的最好的有氧运动。任何可以通过轻微的室内慢跑、拉伸、快走10分钟左右等来唤醒脑血流的有氧运动都可以。",
-          "es": "No. Nadar era solo el ejercicio favorito de Rams. Sirve cualquier ejercicio aeróbico que active el flujo sanguíneo cerebral, como trotar, estirarse o caminar a paso ligero durante 10 minutos.",
-          "fr": "Non. La natation était juste l'exercice préféré de Rams. Tout exercice aérobie qui active le flux sanguin cérébral convient, comme le jogging, les étirements ou la marche rapide pendant 10 minutes.",
-          "de": "Nein. Schwimmen war nur Rams' bevorzugte Übung. Jedes aerobe Training, das den Blutfluss im Gehirn anregt, wie leichtes Joggen, Dehnen oder 10 Minuten zügiges Gehen, ist in Ordnung.",
-          "pt": "Não. Nadar era apenas o exercício favorito de Rams. Serve qualquer exercício aeróbico que ative o fluxo sanguíneo cerebral, como caminhar, alongar-se ou caminhar rápido por 10 minutos.",
-          "id": "Tidak. Berenang hanyalah olahraga aerobik ideal yang disukai oleh Dieter Rams. Olahraga aerobik apa pun yang memicu aliran darah otak, seperti joging dalam ruangan yang ringan, peregangan, atau jalan cepat selama 10 menit, tidak masalah."
+          "ko": "아닙니다. 수영은 디터 람스가 애용한 최상의 유산소 운동이었을 뿐입니다. 가벼운 실내 조깅이나 스트레칭, 10분 정도의 빠른 걷기 등으로 뇌혈류를 깨워주는 유산소 운동이면 무엇이든 무방합니다."
         }
       },
       {
         "question": {
-          "ko": "자연물 대신 도심의 건물이나 세련된 인테리어를 관찰하면 안 되나요?",
-          "en": "Can't I observe urban buildings or sophisticated interiors instead of natural objects?",
-          "ja": "自然物の代わりに都市の建物や洗練されたインテリアを観察してはだめですか？",
-          "zh": "不能观察城市建筑或时尚的室内设计来代替自然物吗？",
-          "es": "¿No puedo observar edificios urbanos o interiores en lugar de la naturaleza?",
-          "fr": "Ne puis-je pas observer des bâtiments urbains ou des intérieurs au lieu de la nature ?",
-          "de": "Kann ich nicht auch Gebäude oder Innenräume anstelle der Natur beobachten?",
-          "pt": "Não posso observar edifícios urbanos ou interiores em vez da natureza?",
-          "id": "Bisakah saya mengamati bangunan perkotaan atau interior yang canggih sebagai ganti objek alami?"
+          "ko": "자연물 대신 도심의 건물이나 세련된 인테리어를 관찰하면 안 되나요?"
         },
         "answer": {
-          "ko": "인위적으로 가공된 인테리어가 기하학적인 도심 건물은 뇌에 '왜 저렇게 만들었지?', '저건 무엇이지?'라는 분석적 해석(의도적 주의)을 은연중에 요구합니다. 인지적 피로를 회복하기 위해서는 해석이 필요 없는 유기적 자연물을 바라보는 것이 가장 이상적입니다.",
-          "en": "Artificially crafted interiors or geometric city buildings implicitly demand analytical interpretations (directed attention) from the brain, like 'Why did they make it that way?' or 'What is that?' To restore cognitive fatigue, looking at organic natural objects that require no interpretation is ideal.",
-          "ja": "人工的に加工されたインテリアや幾何学的な都市の建物は、脳に「なぜあのように作ったのだろう？」「あれは何だろう？」という分析的な解釈（意図的な注意）を暗黙のうちに要求します。認知的な疲労を回復するためには、解釈を必要としない有機的な自然物を見つめることが最も理想的です。",
-          "zh": "人工设计的室内装潢或几何形状的城市建筑会在无形中要求大脑进行分析性解释（主动注意），例如“为什么要建造成那样？”、“那是做什么用的？”。为了恢复认知疲劳，凝视不需要任何解释的有机自然物是最理想的。",
-          "es": "Los interiores de diseño o los edificios geométricos exigen interpretaciones analíticas del cerebro (atención dirigida). Para recuperar la fatiga cognitiva, es ideal contemplar objetos naturales que no requieran análisis.",
-          "fr": "Les intérieurs design ou les bâtiments géométriques exigent des interprétations analytiques du cerveau (attention dirigée). Pour récupérer de la fatigue cognitive, il est idéal de contempler des éléments naturels qui ne demandent aucune analyse.",
-          "de": "Künstliche Innenräume oder geometrische Gebäude erfordern unbewusst analytische Interpretationen des Gehirns (gerichtete Aufmerksamkeit). Zur Erholung der kognitiven Müdigkeit ist es ideal, Naturobjekte zu betrachten, die keine Analyse erfordern.",
-          "pt": "Interiores de design ou edifícios geométricos exigem interpretações analíticas do cérebro (atenção dirigida). Para recuperar a fadiga cognitiva, é ideal contemplar objetos naturais que não exijam análises.",
-          "id": "Interior buatan atau bangunan kota yang geometris secara implisit menuntut interpretasi analitis (perhatian terarah) dari otak, seperti 'Mengapa mereka membuatnya seperti itu?' atau 'Apa itu?' Untuk memulihkan kelelahan kognitif, memandang objek alami organik yang tidak memerlukan interpretasi adalah hal yang paling ideal."
+          "ko": "인위적으로 가공된 인테리어가 기하학적인 도심 건물은 뇌에 '왜 저렇게 만들었지?', '저건 무엇이지?'라는 분석적 해석(의도적 주의)을 은연중에 요구합니다. 인지적 피로를 회복하기 위해서는 해석이 필요 없는 유기적 자연물을 바라보는 것이 가장 이상적입니다."
         }
       }
-    ],
-    "pubDate": "2026-05-20",
-    "updatedDate": "2026-05-20"
+    ]
   }
 }

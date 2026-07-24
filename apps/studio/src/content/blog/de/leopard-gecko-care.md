@@ -16,23 +16,23 @@ faqs:
     answer: "Der Schwanz speichert Fettreserven. Rascher Gewichtsverlust deutet auf Anorexie, Stress oder Parasitenbefall hin und erfordert einen Tierarztbesuch."
 ---
 
-Der Leopardgecko ist das beliebteste Heimreptil. Gemäß ARAV-Richtlinien sind ein klares Temperaturgefälle (Warmzone 30°C ~ 32°C / Kaltzone 24°C ~ 26°C) und eine feuchte Häutungshöhle (Wet Cave) lebenswichtig für diese wechselwarmen Tiere. Die Bereitstellung einer konsistenten täglichen Gesundheitspflege und einer sicheren Umgebung sichert das Wohlbefinden Ihres Haustieres.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Veterinärmedizinische & verhaltensbedingte Nachweise
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Inhalt basiert auf <strong>Association of Reptilian and Amphibian Veterinarians (ARAV)</strong>.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Leopardgecko (Leopard Gecko) Rasseprofil
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Lebenserwartung</span><span class="font-bold text-slate-800 dark:text-slate-200">15 - 20 Jahre</span></div>
@@ -43,7 +43,7 @@ Der Leopardgecko ist das beliebteste Heimreptil. Gemäß ARAV-Richtlinien sind e
 
 ## 1. Körpersprache: Schwanzwedeln & Häutungssignale Verstehen
 
-Der dicke Schwanz dient als Fett-Speicher und Kommunikationsmittel. Unterscheiden Sie langsames Abwehr-Wedeln von freudigem Wackeln bei der Jagd.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Der dicke Schwanz dient als Fett-Speicher und Kommunikationsmittel. Unterscheide
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Temperaturkontrolle & Höhle Befeuchten</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Wärmematte (30°C ~ 32°C) prüfen und das Substrat der Feuchthöhle besprühen.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Der dicke Schwanz dient als Fett-Speicher und Kommunikationsmittel. Unterscheide
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Ungestörte Tagruhe im Dunkeln Gewährleisten</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Direktes Sonnenlicht und Vibrationen vermeiden, um den Schlaf nicht zu stören.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Der dicke Schwanz dient als Fett-Speicher und Kommunikationsmittel. Unterscheide
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Kalziumfütterung mit der Pinzette & Kot Entfernen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Bestäubte Insekten per Pinzette füttern und Kotreste sofort aus dem Substrat entfernen.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Der dicke Schwanz dient als Fett-Speicher und Kommunikationsmittel. Unterscheide
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Der dicke Schwanz dient als Fett-Speicher und Kommunikationsmittel. Unterscheide
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Hautreste können die Blutzufuhr abschnüren und zum Absterben der Zehen führen. Ein 5-minütiges warmes Fußbad (30°C) machen und die Haut mit feuchtem Wattestäbchen abrollen.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Der dicke Schwanz dient als Fett-Speicher und Kommunikationsmittel. Unterscheide
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Der Schwanz speichert Fettreserven. Rascher Gewichtsverlust deutet auf Anorexie, Stress oder Parasitenbefall hin und erfordert einen Tierarztbesuch.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </details>
 </div>

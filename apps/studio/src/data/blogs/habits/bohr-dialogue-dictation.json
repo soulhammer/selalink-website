@@ -1,218 +1,72 @@
 {
   "bohr-dialogue-dictation": {
     "title": {
-      "ko": "물리학을 직조한 대화: 닐스 보어의 구술 토론 습관",
-      "en": "Dialogue That Wove Physics: Niels Bohr's Dictation and Debate Habit",
-      "ja": "物理学を織りなした対話：ニールス・ボーアの口述討論習慣",
-      "zh": "编织物理学的对话：尼尔斯·玻尔的口述讨论习惯",
-      "es": "El diálogo que tejió la física: El hábito de dictado y debate de Niels Bohr",
-      "fr": "Le dialogue qui tissa la physique : L'habitude de dictée et de débat de Niels Bohr",
-      "de": "Der Dialog, der die Physik prägte: Niels Bohrs Gewohnheit des Diktats und Debattierens",
-      "pt": "O diálogo que teceu a física: O hábito de ditado e debate de Niels Bohr",
-      "id": "Dialog yang Merajut Fisika: Kebiasaan Dikte dan Diskusi Niels Bohr"
+      "ko": "물리학을 직조한 대화: 닐스 보어의 구술 토론 습관"
     },
     "description": {
-      "ko": "글을 혼자 쓰는 대신 타인과의 끊임없는 구술 토론을 통해 양자역학 논문을 완성했던 닐스 보어. 말하기가 내면의 생각을 외적 언어로 객관화하여 상위 인지를 깨우는 원리를 규명합니다.",
-      "en": "Niels Bohr, who completed quantum mechanics papers through constant verbal debates rather than writing alone. Learn how externalizing thoughts through dialogue awakens metacognition.",
-      "ja": "一人で執筆する代わりに、他者との絶え間ない口述討論を通じて量子力学の論文を完成させたニールス・ボーア。発話が内面の思考を外的言語へと客観化し、メタ認知を呼び覚ます原理を究明します。",
-      "zh": "并非独自闭门写作、而是通过与他人不断的口述讨论完成量子力学论文的尼尔斯·玻尔。从科学角度阐明将内心思维外化为外部语言如何唤醒元认知能力的原理。",
-      "es": "Niels Bohr completaba sus artículos de física cuántica debatiendo verbalmente en lugar de escribir solo. Descubra cómo exteriorizar las ideas mediante el diálogo despierta la metacognición.",
-      "fr": "Niels Bohr rédigeait ses articles de physique quantique en débattant à voix haute plutôt qu'en écrivant seul. Découvrez comment extérioriser ses pensées par le dialogue éveille la métacognition.",
-      "de": "Niels Bohr verfasste seine quantenmechanischen Arbeiten durch lautstarke Debatten statt in einsamer Schreibarbeit. Erfahren Sie, wie das Sprechen Gedanken objektiviert und Metakognition weckt.",
-      "pt": "Niels Bohr completava os seus artigos de física quântica debatendo verbalmente em vez de escrever sozinho. Descubra como exteriorizar as ideias mediante o diálogo desperta a metacognição.",
-      "id": "Niels Bohr, yang menyelesaikan makalah mekanika kuantum melalui diskusi lisan konstan alih-alih menulis sendirian. Pelajari bagaimana verbalisasi membangun metakognisi."
+      "ko": "글을 혼자 쓰는 대신 타인과의 끊임없는 구술 토론을 통해 양자역학 논문을 완성했던 닐스 보어. 말하기가 내면의 생각을 외적 언어로 객관화하여 상위 인지를 깨우는 원리를 규명합니다."
     },
     "authority": {
-      "ko": "루스 무어 저 『닐스 보어(Niels Bohr)』 일대기 역사적 고증 및 레프 비고츠키의 외적 언어(External Speech) 인지발달 신경심리학 연구",
-      "en": "Ruth Moore's 'Niels Bohr: The Man, His Science, and the World' and Lev Vygotsky's Research on External Speech and Cognitive Metacognition",
-      "ja": "ルース・ムーア著『ニールス・ボーア』伝記の歴史的考証およびレフ・ヴィゴツキーの外的言語（External Speech）認知発達神経心理学研究",
-      "zh": "露丝·摩尔著《尼尔斯·玻尔传》历史考证及列夫·维果茨基外部语言(External Speech)认知发展神经心理学研究",
-      "es": "Autenticación de la biografía de Niels Bohr por Ruth Moore e investigaciones sobre el habla externa y la metacognición cognitiva de Lev Vygotsky",
-      "fr": "Récit de la biographie de Niels Bohr par Ruth Moore et travaux de Lev Vygotsky sur le langage externe et la métacognition",
-      "de": "Historische Belege aus Ruth Moores Biografie 'Niels Bohr' und Lew Wygotskis Forschung zur externen Sprache und kognitiven Metakognition",
-      "pt": "Autenticação da biografia de Niels Bohr por Ruth Moore e pesquisas sobre a fala externa e a metacognição cognitiva de Lev Vygotsky",
-      "id": "Buku biografi 'Niels Bohr' oleh Ruth Moore dan Penelitian Lev Vygotsky tentang Bicara Eksternal dan Metakognisi"
+      "ko": "Bohr Dialogue Dictation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "현대 물리학의 가장 큰 기둥인 양자역학을 정립하고 원자 구조의 비밀을 밝혀 노벨 물리학상을 수상한 거장 닐스 보어. 역사상 가장 위대한 과학적 직관을 가졌던 보어였지만, 그는 의외로 혼자 책상에 조용히 앉아 논문을 쓰거나 복잡한 아이디어를 문장으로 정리하는 데 큰 곤란을 겪었습니다. 보어에게는 생각을 현실화하기 위한 특유의 의식이 있었습니다. 그는 아내 마르그레테나 제자인 하이젠베르크, 디랙 등을 항상 자신의 방 칠판 앞에 세워 두고, 끊임없이 혼잣말처럼 설명하거나 격렬한 토론을 펼치며 자신의 말을 받아적게 했습니다. 머릿속의 흐릿한 아이디어를 타인과의 대화라는 스파크를 통해 명확한 지식으로 도출한 보어의 구술 사색 원리를 해부합니다.",
-      "en": "Niels Bohr established quantum mechanics, the greatest pillar of modern physics, and won the Nobel Prize. Although Bohr had some of the greatest scientific intuition in history, he paradoxically struggled with sitting quietly at his desk to write papers or compile complex ideas. Bohr had a unique ritual to bring ideas to life. He stood before a blackboard with his wife Margrethe or students like Heisenberg and Dirac, explaining concepts out loud or engaging in intense debates while having them write down his words. We dissect the principles of Bohr's conversational dictation.",
-      "ja": "現代物理学の最大の柱である量子力学を定立し、原子構造の秘密を解き明かしてノーベル物理学賞を受賞した巨匠ニールス・ボーア。歴史上最も偉大な科学的直観を持っていたボーアでしたが、彼は意外にも一人で机に静かに座って論文を書いたり、複雑なアイデアを文章に整理することに大きな困難を抱えていました。ボーアにはアイデアを現実のものにするための特有の儀式がありました。彼は妻のマルグレーテや、弟子のハイゼンベルク、ディラックなどを常に自室の黒板の前に立たせ、絶えず独り言のように説明したり、激しい討論を繰り広げながら自分の言葉を書き留めさせました。頭の中の不鮮明なアイデアを、他者との会話という火花を通じて明確な知識へと導き出したボーアの口述思索の原理を解剖します。",
-      "zh": "通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
-      "es": "Niels Bohr, el premio Nobel que sentó las bases de la física cuántica. A pesar de su genio, sentía una enorme fricción al sentarse a redactar artículos de forma solitaria. Su método consistía en dictar sus pensamientos a su esposa Margrethe o a sus alumnos mientras caminaba y debatía frente a una pizarra. Analicemos cómo la transición del habla interna al habla externa activa la corteza prefrontal, fortaleciendo el filtro de la metacognición.",
-      "fr": "Niels Bohr, le prix Nobel qui posa les bases de la physique quantique. Malgré son génie, il ressentait une grande frustration à rédiger seul ses articles. Sa méthode consistait à dicter ses pensées à son épouse Margrethe ou à ses étudiants tout en arpentant sa pièce et en débattant. Voyons comment la transition du langage interne au langage externe active le cortex préfrontal, renforçant la métacognition.",
-      "de": "Nobelpreisträger Niels Bohr legte das Fundament der Quantenphysik. Trotz seines Genies fiel es ihm schwer, einsam am Schreibtisch zu arbeiten. Sein Ansatz war das Diktieren: Er ging vor einer Tafel auf und ab und debattierte mit seiner Frau Margrethe oder Schülern wie Heisenberg, die seine Worte mitschrieben. Kognitionspsychologisch stärkt diese Überführung von innerer in äußere Sprache die Metakognition.",
-      "pt": "Niels Bohr, o prêmio Nobel que assentou as bases da física quântica. Apesar do seu gênio, sentia uma enorme fricção ao sentar-se a redigir artigos de forma solitária. O seu método consistia em ditar os seus pensamentos à esposa Margrethe ou aos seus alunos enquanto caminhava e debatia frente a uma lousa. Analisemos como o processo ativa o córtex pré-frontal.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "\"우리는 타인에게 내 생각을 가볍게 말하는 과정을 통해서만 비로소 내가 진짜 무슨 생각을 하고 있었는지 발견한다.\" 🗣️\n\n양자역학의 아버지이자 코펜하겐 해석을 확립하여 원자 구조의 비밀을 푼 노벨 물리학상 수상자 닐스 보어. 20세기 최고의 과학적 영감을 지닌 인물이었지만, 그는 역설적으로 혼자 서재에 앉아 하얀 원고지 위에 조용히 생각을 문장으로 받아적는 행위를 극도로 힘들어했습니다. 보어에게는 자신의 머릿속에 가득 찬 복잡한 이론들을 끄집어내는 독특한 사색 의식이 있었습니다. 그는 항상 아내 마르그레테나 하이젠베르크, 아인슈타인 등 동료와 제자들을 칠판 앞에 세워 두었습니다. 그리고 방 안을 뱅뱅 돌며 중얼중얼 개념을 설명하고 토론을 자극했으며, 상대방이 납득하는 지점의 언어들을 구술하여 받아적게 했습니다. 뇌과학적으로 이 치열한 '대화형 구술'이 뇌 내부의 메타인지 인지 필터를 가동하고 아이디어를 정교하게 다듬은 비결을 해부합니다."
     },
     "whyTitle": {
-      "ko": "내적 언어의 외재화와 메타인지 활성화 효과",
-      "en": "Externalization of Inner Speech and the Effect of Metacognitive Activation",
-      "ja": "内言の外在化とメタ認知活性化効果",
-      "zh": "内语外在化与元认知激活效应",
-      "es": "Externalización del habla interna y activación de la metacognición",
-      "fr": "Extériorisation du langage interne et activation de la métacognition",
-      "de": "Externalisierung der inneren Sprache und Aktivierung der Metakognition",
-      "pt": "Externalização da fala interna e ativação da metacognição",
-      "id": "Eksternalisasi Bicara Internal dan Efek Aktivasi Metakognitif"
+      "ko": "내적 언어의 외재화와 메타인지 활성화 효과"
     },
     "whyDesc": {
-      "ko": "머릿속으로만 생각하는 '내적 언어(Inner Speech)'는 논리적 비약과 모호함으로 가득 차 있어 복잡한 문제를 해결할 때 인지 왜곡을 야기하기 쉽습니다. 이를 소리 내어 밖으로 뱉어내는 '외적 언어(External Speech)'로 치환하는 순간, 뇌는 자신의 아이디어를 마치 제3자의 주장처럼 객관적으로 듣고 분석하는 메타인지(Metacognition) 상태로 돌입합니다. 특히 보어처럼 대화 상대방의 즉각적인 질문과 반응이라는 인지적 자극을 결합하면, 좌우 뇌의 연합 피질이 연쇄 작동하여 흩어져 있던 정보 조각들을 논리적으로 재조합하는 강력한 연결망을 만듭니다.",
-      "en": "Inner speech, processed entirely within the mind, is filled with logical leaps and vagueness, making cognitive distortions highly likely during complex problem solving. The moment you externalize it into spoken words, the brain enters a metacognitive state, analyzing its own ideas objectively as if listening to a third party. Coupling this with cognitive stimulation from a conversation partner's immediate feedback, like Bohr did, causes the association cortexes of both hemispheres to work in tandem, logically assembling scattered information fragments.",
-      "ja": "頭の中だけで考える「内言（Inner Speech）」は、論理的な飛躍や曖昧さに満ちており、複雑な問題を解決する際に認知の歪みを引き起こしがちです。これを声に出して外へ吐き出す「外言（External Speech）」に置き換えた瞬間、脳は自分のアイデアをまるで第三者の主張のように客観的に聞き、分析するメタ認知（Metacognition）の状態に突入します。特にボーアのように、対話相手の即座の質問や反応という認知的刺激を結合すると、左右の脳の連合皮質が連鎖的に作動し、散らばっていた情報の破片を論理的に再編成する強力なネットワークが作られます。",
-      "zh": "仅在大脑中思考的“内语(Inner Speech)”充满了逻辑跳跃与模糊性，在解决复杂问题时极易引发认知扭曲。在将其置换为发出声音说出来的“外语(External Speech)”的瞬间，大脑就会进入像听第三者的主张一样客观倾听并分析自身想法的元认知(Metacognition)状态。特别是像玻尔一样，结合对话伙伴即时的提问与反应这一认知刺激，左右脑的联合皮层就会连锁运转，构建出将散落的信息碎片进行逻辑重组的强有力网络。",
-      "es": "El habla interna está llena de vacíos lógicos y vaguedades. Al exteriorizar los pensamientos con el habla externa, el cerebro activa la metacognición, evaluando sus propias ideas como si las escuchara de otra persona. Al incorporar los comentarios e interrogantes de un interlocutor, se estimula la corteza de asociación, permitiendo estructurar los fragmentos de información caóticos en teorías coherentes.",
-      "fr": "Le langage interne est rempli de raccourcis logiques. En extériorisant ses pensées par le langage externe, le cerveau active la métacognition, évaluant ses propres idées comme s'il écoutait un tiers. En intégrant les réactions d'un partenaire, on stimule les aires d'association, structurant les fragments d'information en théories cohérentes.",
-      "de": "Innere Sprache ist oft lückenhaft und vage. Sobald man Gedanken laut als äußere Sprache formuliert, wechselt das Gehirn in einen metakognitiven Zustand: Es analysiert die eigenen Ideen so objektiv, als kämen sie von Dritten. Die Rückfragen eines Partners regen zudem die Assoziationsareale an, was verstreute Gedankensplitter logisch zusammenfügt.",
-      "pt": "A fala interna está cheia de lacunas lógicas e vaguezas. Ao exteriorizar os pensamentos com a fala externa, o cérebro ativa a metacognição, evaluando suas próprias ideias como se as ouvisse de outra pessoa. Ao incorporar o feedback de um interlocutor, estimula-se o córtex de associação.",
-      "id": "Bicara internal di dalam pikiran sering kali memiliki lompatan logika dan ambiguitas. Begitu dilisankan menjadi bicara eksternal, otak memasuki keadaan metakognisi, menganalisis ide sendiri secara objektif seolah mendengarkan orang lain. Umpan balik dari lawan bicara merangsang korteks asosiasi."
+      "ko": "머릿속으로만 생각하는 '내적 언어(Inner Speech)'는 논리적 비약과 모호함으로 가득 차 있어 복잡한 문제를 해결할 때 인지 왜곡을 야기하기 쉽습니다. 이를 소리 내어 밖으로 뱉어내는 '외적 언어(External Speech)'로 치환하는 순간, 뇌는 자신의 아이디어를 마치 제3자의 주장처럼 객관적으로 듣고 분석하는 메타인지(Metacognition) 상태로 돌입합니다. 특히 보어처럼 대화 상대방의 즉각적인 질문과 반응이라는 인지적 자극을 결합하면, 좌우 뇌의 연합 피질이 연쇄 작동하여 흩어져 있던 정보 조각들을 논리적으로 재조합하는 강력한 연결망을 만듭니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "구술 대화 습관을 적용할 때 주의해야 할 위험 요소는 단순한 사담이나 잡담으로 흘러가 버리는 것입니다. 명확한 문제 중심의 대화 가이드라인 없이 파트너와 대화를 시작하면, 시간만 낭비하고 본래의 아이디어 구체화 목적을 잃어버리기 쉽습니다. 따라서 구술 대화를 시작할 때는 해결하려는 하나의 명확한 질문을 파트너에게 선언한 뒤 논의에 돌입해야 하며, 15분 내외의 집중된 대화 시간 규격을 설정하여 사용하는 것이 좋습니다.",
-      "en": "The trap to watch out for is letting the dialogue drift into casual small talk. Without a clear problem-oriented guideline, you end up wasting time and losing focus. Before starting the dialogue, state one specific question you want to solve, and keep the session tightly focused within 15 minutes.",
-      "ja": "口述対話習慣を適用する際に注意すべき危険因子は、単なる雑談や世間話に流れてしまうことです。明確な問題中心の対話ガイドラインなしにパートナーと対話を始めると、時間だけを浪費し、本来のアイデア具体化の目的を見失いやすくなります。したがって、口述対話を始める時は、解決しようとする一つの明確な問いをパートナーに宣言してから議論に入らなければならず、15分前後の集中した対話時間のルールを設定して使用するのが良いでしょう。",
-      "zh": "应用口述对话习惯时需要警惕的风险因素是，对话容易演变为单纯的私聊或闲侃。如果在缺乏明确的问题导向型对话指南的情况下与伙伴开始交谈，极易浪费时间并失去原有的细化想法的目的。因此，开始口述对话时，应先向伙伴声明一个需要解决的明确问题，然后再投入讨论，建议将对话时间紧凑地限制在15分钟左右。",
-      "es": "El peligro es que el diálogo se desvíe hacia la charla informal y el chisme. Sin un límite claro y una pregunta específica, se perderá el objetivo. Antes de hablar con su colega, declare el problema exacto a resolver y limite el debate estrictamente a 15 minutos para mantener la tensión cognitiva alta.",
-      "fr": "Le danger est que le dialogue dérive vers une simple discussion informelle. Sans cadre précis et question spécifique, vous perdrez votre temps. Avant d'entamer l'échange, définissez clairement le problème à résoudre et limitez la séance à 15 minutes maximum.",
-      "de": "Gefahr besteht darin, dass die Diskussion in belanglosen Smalltalk abgleitet. Ohne klare Fragestellung verpufft der Effekt. Definieren Sie vor dem Gespräch genau ein Problem, das gelöst werden soll, und begrenzen Sie die Debatte konsequent auf 15 Minuten.",
-      "pt": "O perigo é que o diálogo se desvie para a conversa informal. Sem um limite claro e uma pergunta específica, perder-se-á o objetivo. Antes de falar com o seu colega, declare o problema exato a resolver e limite o debate estritamente a 15 minutos para manter o foco.",
-      "id": "Jebakan obrolan santai tanpa arah harus dihindari. Tanpa panduan berorientasi masalah, diskusi hanya akan membuang waktu. Sebelum mulai bicara, nyatakan satu pertanyaan spesifik yang ingin diselesaikan, dan batasi sesi maksimal 15 menit."
+      "ko": "구술 대화 습관을 적용할 때 주의해야 할 위험 요소는 단순한 사담이나 잡담으로 흘러가 버리는 것입니다. 명확한 문제 중심의 대화 가이드라인 없이 파트너와 대화를 시작하면, 시간만 낭비하고 본래의 아이디어 구체화 목적을 잃어버리기 쉽습니다. 따라서 구술 대화를 시작할 때는 해결하려는 하나의 명확한 질문을 파트너에게 선언한 뒤 논의에 돌입해야 하며, 15분 내외의 집중된 대화 시간 규격을 설정하여 사용하는 것이 좋습니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "구술을 위한 러닝 파트너 지정",
-          "en": "Designating a Learning Partner for Dictation",
-          "ja": "口述のためのラーニングパートナーの指定",
-          "zh": "指定口述学习伙伴",
-          "es": "Designar un compañero de aprendizaje",
-          "fr": "Choisir un partenaire de réflexion",
-          "de": "Bestimmen eines Lernpartners",
-          "pt": "Designar um parceiro de aprendizagem",
-          "id": "Menentukan Partner Bicara Lisan"
+          "ko": "구술을 위한 러닝 파트너 지정"
         },
         "text": {
-          "ko": "아이디어를 성실히 들어주고 질문을 던져줄 동료나 러닝 파트너를 지정하거나, 가상의 인공지능 대화형 어시스턴트를 켭니다.",
-          "en": "Designate a colleague or a learning partner who will listen attentively and ask questions, or turn on a virtual AI conversational assistant.",
-          "ja": "アイデアを誠実に聞いて質問を投げかけてくれる同僚やラーニングパートナーを指定するか、仮想の人工知能対話型アシスタントを起動します。",
-          "zh": "指定一位能认真倾听想法并提出疑问的同事或学习伙伴，亦可开启虚拟的人工智能对话助手。",
-          "es": "Seleccione a un colega o compañero de trabajo dispuesto a escuchar y formular preguntas sencillas, o bien inicie un asistente de inteligencia artificial en modo conversación.",
-          "fr": "Sélectionnez un collègue disposé à écouter et poser des questions, ou activez un assistant IA en mode conversationnel.",
-          "de": "Suchen Sie sich einen Kollegen, der Ihnen zuhört und einfache Fragen stellt, oder nutzen Sie einen interaktiven KI-Assistenten.",
-          "pt": "Selecione um colega ou parceiro de trabalho disposto a ouvir e formular perguntas simples, ou então inicie um assistente de inteligência artificial em modo conversação.",
-          "id": "Tentukan rekan kerja atau partner belajar yang bersedia mendengarkan, atau aktifkan asisten AI interaktif."
+          "ko": "아이디어를 성실히 들어주고 질문을 던져줄 동료나 러닝 파트너를 지정하거나, 가상의 인공지능 대화형 어시스턴트를 켭니다."
         }
       },
       {
         "name": {
-          "ko": "핵심 질문 선언 후 설명 개시",
-          "en": "Declaring the Core Question and Initiating Explanation",
-          "ja": "核心的な問いの宣言後の説明開始",
-          "zh": "声明核心问题后开始解释",
-          "es": "Declarar la pregunta central y comenzar a explicar",
-          "fr": "Définir la question centrale et commencer à expliquer",
-          "de": "Fragestellung definieren und Erklärung starten",
-          "pt": "Declarar a pergunta central e começar a explicar",
-          "id": "Menyatakan Pertanyaan Utama dan Mulai Menjelaskan"
+          "ko": "핵심 질문 선언 후 설명 개시"
         },
         "text": {
-          "ko": "해결해야 하는 단 하나의 질문을 파트너에게 선언한 뒤, 가상의 칠판에 그리듯이 자신의 생각을 소리 내어 가볍게 설명하기 시작합니다.",
-          "en": "Declare the single question you need to solve to your partner, and begin explaining your thoughts out loud as if drawing on a virtual blackboard.",
-          "ja": "解決すべき唯一の問いをパートナーに宣言した後、仮想の黒板に描くように、自分の考えを声に出して軽快に説明し始めます。",
-          "zh": "向伙伴声明唯独需要解决的一个问题，然后像在虚拟黑板上画图一样，出声轻松地开始解释自己的想法。",
-          "es": "Declare el problema único a resolver a su compañero e inicie la explicación de sus ideas en voz alta, como si dibujara en una pizarra virtual.",
-          "fr": "Définissez clairement le problème à résoudre et commencez à expliquer vos idées à voix haute, comme si vous dessiniez sur un tableau virtuel.",
-          "de": "Nennen Sie Ihrem Partner die Kernfrage und erklären Sie Ihr Problem laut, als würden Sie es auf einer gedanklichen Tafel skizzieren.",
-          "pt": "Declare o problema único a resolver ao seu parceiro e inicie a explicação das suas ideias em voz alta, como se desenhasse numa lousa virtual.",
-          "id": "Nyatakan masalah yang ingin diselesaikan, lalu mulailah menjelaskan pikiran Anda dengan suara keras seolah menggambar di papan tulis."
+          "ko": "해결해야 하는 단 하나의 질문을 파트너에게 선언한 뒤, 가상의 칠판에 그리듯이 자신의 생각을 소리 내어 가볍게 설명하기 시작합니다."
         }
       },
       {
         "name": {
-          "ko": "질문에 기반한 생각 수정 및 메모",
-          "en": "Revising Thoughts and Taking Notes Based on Questions",
-          "ja": "質問に基づく思考の修正とメモ",
-          "zh": "基于提问修改思路并做笔记",
-          "es": "Ajustar ideas y tomar notas según las preguntas",
-          "fr": "Ajuster les idées et noter les réponses aux questions",
-          "de": "Gedanken anpassen und Notizen machen",
-          "pt": "Ajustar ideias e tomar notas segundo as perguntas",
-          "id": "Merevisi Pemikiran dan Mencatat Umpan Balik"
+          "ko": "질문에 기반한 생각 수정 및 메모"
         },
         "text": {
-          "ko": "파트너의 질문이나 자신의 구술 과정에서 발견된 아이디어의 모순점과 정돈된 해결책의 실마리를 즉시 노구에 기록하여 수집합니다.",
-          "en": "Immediately write down and capture contradictions in your ideas and clues for solutions found through your partner's questions or your own speaking process.",
-          "ja": "パートナーの質問や自らの口述過程で発見されたアイデアの矛盾点、および整理された解決の糸口を即座にノートに記録して収集します。",
-          "zh": "将伙伴提出的问题或在自身口述过程中发现的想法矛盾点、以及理清的解决线索即刻记录在笔记本上，收集起来。",
-          "es": "Registre de inmediato en sus notas las contradicciones de sus ideas o los destellos de solución revelados durante el diálogo y las preguntas.",
-          "fr": "Notez immédiatement les contradictions ou les pistes de solution révélées par l'échange et les questions du partenaire.",
-          "de": "Notieren Sie widersprüchliche Gedanken oder Lösungsansätze, die durch die Rückfragen Ihres Partners oder Ihr eigenes Reden zutage treten.",
-          "pt": "Registre de imediato nas suas notas as contradições das suas ideias ou os lampejos de solução revelados durante o diálogo e as perguntas.",
-          "id": "Segera catat ketidaksesuaian pikiran atau ide solusi yang muncul saat Anda melisankan masalah atau saat menjawab umpan balik partner."
+          "ko": "파트너의 질문이나 자신의 구술 과정에서 발견된 아이디어의 모순점과 정돈된 해결책의 실마리를 즉시 노구에 기록하여 수집합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "대화를 나눌 파트너나 동료가 없는 1인 환경에서는 어떻게 실천하나요?",
-          "en": "How can I practice this in a solo environment without colleagues to discuss with?",
-          "ja": "討論する同僚がいない1人の環境ではどのように実践しますか？",
-          "zh": "在没有同事讨论的单人环境下，该如何实践？",
-          "es": "¿Cómo puedo practicar esto a solas sin colegas con quienes discutir?",
-          "fr": "Comment puis-je pratiquer cela seul sans collègues avec qui discuter ?",
-          "de": "Wie kann ich dies alleine praktizieren, wenn ich keine Kollegen zum Diskutieren habe?",
-          "pt": "Como posso praticar isso sozinho sem colegas com quem discutir?",
-          "id": "Bagaimana saya bisa mempraktikkan ini sendirian tanpa rekan diskusi?"
+          "ko": "대화를 나눌 파트너나 동료가 없는 1인 환경에서는 어떻게 실천하나요?"
         },
         "answer": {
-          "ko": "스마트폰의 음성 메모나 AI 녹음기를 켜놓고 혼잣말로 설명하듯 생각을 읊조리는 것으로 대체할 수 있습니다. 중요한 것은 청자의 존재가 아닌, 생각을 소리 내어 언어로 객관화하는 대뇌 자극 프로세스입니다.",
-          "en": "You can turn on a smartphone voice recorder or AI memo app and talk out loud as if explaining to someone. What matters is not the presence of a listener, but the neural process of externalizing thoughts into spoken language.",
-          "ja": "スマートフォンの音声メモやAIレコーダーをオンにし、独り言で説明するように考えを呟くことで代替できます。重要なのは聞き手の存在ではなく、考えを声に出して言語として客観化する大脳刺激プロセスです。",
-          "zh": "可以打开手机录音机或AI备忘录，像自言自语一样阐述自己的想法。重要的不是听众的存在，而是大声把想法说出来并使其语言化的脑部刺激过程。",
-          "es": "Puedes encender una grabadora de voz en tu móvil o una aplicación de notas y hablar en voz alta como si estuvieras explicándole a alguien. Lo que importa no es la presencia de un oyente, sino el proceso neural de exteriorizar los pensamientos.",
-          "fr": "Vous pouvez allumer un enregistreur vocal ou une application de notes et parler à voix haute comme si vous expliquiez à quelqu'un. Ce qui compte n'est pas la présence d'un auditeur, mais le processus neuronal d'extériorisation des pensées.",
-          "de": "Sie können das Diktiergerät Ihres Smartphones oder eine KI-Notizen-App einschalten und laut sprechen, als würden Sie es jemandem erklären. Wichtig ist nicht der Zuhörer, sondern der Prozess, Gedanken laut in Sprache zu fassen.",
-          "pt": "Você pode ligar o gravador de voz do smartphone ou um aplicativo de notas e falar em voz alta como se estivesse explicando para alguém. O que importa não é o ouvinte, mas o processo neural de exteriorizar os pensamentos.",
-          "id": "Anda dapat mengaktifkan perekam suara ponsel atau aplikasi memo AI dan berbicara keras seolah-olah sedang menjelaskan kepada seseorang. Yang penting bukan kehadiran pendengar, tetapi proses saraf melisankan pikiran."
+          "ko": "스마트폰의 음성 메모나 AI 녹음기를 켜놓고 혼잣말로 설명하듯 생각을 읊조리는 것으로 대체할 수 있습니다. 중요한 것은 청자의 존재가 아닌, 생각을 소리 내어 언어로 객관화하는 대뇌 자극 프로세스입니다."
         }
       },
       {
         "question": {
-          "ko": "구술 토론 중 나온 내용을 어떻게 생산적인 결과물로 연결하나요?",
-          "en": "How do I connect the spoken contents into productive outcomes?",
-          "ja": "口述討論中に出た内容をどのように生産的な成果物につなげますか？",
-          "zh": "如何将口述讨论中产生的内容转化为有成效的结果？",
-          "es": "¿Cómo conecto los contenidos hablados con resultados productivos?",
-          "fr": "Comment puis-je transformer les paroles prononcées en résultats productifs ?",
-          "de": "Wie wandle ich das Gesprochene in produktive Ergebnisse um?",
-          "pt": "Como conecto os conteúdos falados a resultados produtivos?",
-          "id": "Bagaimana cara menghubungkan konten yang diucapkan menjadi hasil yang produktif?"
+          "ko": "구술 토론 중 나온 내용을 어떻게 생산적인 결과물로 연결하나요?"
         },
         "answer": {
-          "ko": "말하는 도중 얻은 깨달음을 즉시 수첩에 간단히 적어두거나, AI 음성 인식(STT) 변환 결과를 나중에 문서로 저장하여 핵심 아이디어 노드로 정리하면 좋습니다.",
-          "en": "You can briefly write down insights on a notepad while speaking, or save the STT (Speech-to-Text) conversion logs to organize into key idea nodes later.",
-          "ja": "話している最中に得た気づきをすぐに手帳に簡単に書き留めたり、AI音声認識（STT）変換の結果を後で文書として保存して、核心的なアイデアのノードとして整理すると良いでしょう。",
-          "zh": "可以在说话过程中将灵感简单记录在笔记本上，或者稍后将AI语音转文字（STT）的结果保存为文档，整理成核心想法大纲。",
-          "es": "Puedes anotar ideas breves en un cuaderno mientras hablas, o guardar los registros de conversión de voz a texto (STT) para organizarlos en nodos de ideas clave más tarde.",
-          "fr": "Vous pouvez noter brièvement vos idées sur un carnet pendant que vous parlez, ou enregistrer les transcriptions voix-texte (STT) pour les organiser en idées clés plus tard.",
-          "de": "Sie können während des Sprechens kurze Erkenntnisse notieren oder die Speech-to-Text (STT) Protokolle speichern, um sie später zu strukturieren.",
-          "pt": "Você pode anotar ideias breves em um caderno enquanto fala, ou salvar os registros de conversão de voz para texto (STT) para organizá-los em nós de ideias-chave mais tarde.",
-          "id": "Anda dapat mencatat poin-poin penting di buku catatan saat berbicara, atau menyimpan hasil konversi STT (Speech-to-Text) untuk disusun menjadi peta ide nanti."
+          "ko": "말하는 도중 얻은 깨달음을 즉시 수첩에 간단히 적어두거나, AI 음성 인식(STT) 변환 결과를 나중에 문서로 저장하여 핵심 아이디어 노드로 정리하면 좋습니다."
         }
       }
-    ],
-    "pubDate": "2026-01-19",
-    "updatedDate": "2026-01-19"
+    ]
   }
 }

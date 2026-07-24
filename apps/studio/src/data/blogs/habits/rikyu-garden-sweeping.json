@@ -1,194 +1,64 @@
 {
   "rikyu-garden-sweeping": {
     "title": {
-      "ko": "마음의 먼지를 쓰는 아침: 센노 리큐의 정원 청소 루틴",
-      "en": "Sweeping the Dust of Mind: Sen no Rikyu's Garden Cleaning Routine",
-      "ja": "心の塵を払う朝：千利休の庭掃除ルーティン",
-      "zh": "拂拭心尘的清晨：千利休的庭院打扫惯例",
-      "es": "Sweeping the Dust of Mind: Sen no Rikyu's Garden Cleaning Routine",
-      "fr": "Sweeping the Dust of Mind: Sen no Rikyu's Garden Cleaning Routine",
-      "de": "Sweeping the Dust of Mind: Sen no Rikyu's Garden Cleaning Routine",
-      "pt": "Sweeping the Dust of Mind: Sen no Rikyu's Garden Cleaning Routine",
-      "id": "Sweeping the Dust of Mind: Sen no Rikyu's Garden Cleaning Routine"
+      "ko": "마음의 먼지를 쓰는 아침: 센노 리큐의 정원 청소 루틴"
     },
     "description": {
-      "ko": "다도의 거장 센노 리큐가 정원을 쓸어내며 마음을 닦아낸 일화. 단순 반복 동작을 통해 뇌의 인지 노이즈를 걷어내는 동적 명상의 인지과학적 원리를 설명합니다.",
-      "en": "Sen no Rikyu's garden sweeping routine. Explains the neuroscientific value of kinesthetic meditation to reduce cognitive noise via simple repetitive movements.",
-      "ja": "茶の湯の祖・千利休が庭を掃除しながら心を磨いた逸話。単純な反復動作を通じて脳の認知ノイズを取り除く『動的瞑想』の認知科学的原理を説明します。",
-      "zh": "茶道宗师千利休通过清扫庭院净化心灵的逸事。探讨通过规律的肢体重复动作来消除大脑认知杂音的“动态冥想”科学机制。",
-      "es": "Sen no Rikyu's garden sweeping routine. Explains the neuroscientific value of kinesthetic meditation to reduce cognitive noise via simple repetitive movements.",
-      "fr": "Sen no Rikyu's garden sweeping routine. Explains the neuroscientific value of kinesthetic meditation to reduce cognitive noise via simple repetitive movements.",
-      "de": "Sen no Rikyu's garden sweeping routine. Explains the neuroscientific value of kinesthetic meditation to reduce cognitive noise via simple repetitive movements.",
-      "pt": "Sen no Rikyu's garden sweeping routine. Explains the neuroscientific value of kinesthetic meditation to reduce cognitive noise via simple repetitive movements.",
-      "id": "Sen no Rikyu's garden sweeping routine. Explains the neuroscientific value of kinesthetic meditation to reduce cognitive noise via simple repetitive movements."
+      "ko": "다도의 거장 센노 리큐가 정원을 쓸어내며 마음을 닦아낸 일화. 단순 반복 동작을 통해 뇌의 인지 노이즈를 걷어내는 동적 명상의 인지과학적 원리를 설명합니다."
     },
     "authority": {
-      "ko": "다도 고전 문헌 『남방록』 기록 및 가벼운 반복 신체 활동의 경도 움직임 명상(Kinesthetic Meditation)과 인지 통제 네트워크 활성화 연구",
-      "en": "Historical documents in Nanboroku & Research on Kinesthetic Meditation and Cognitive Control Network",
-      "ja": "茶道伝書『南方録』の記録、および軽微な反復身体運動による動的瞑想（Kinesthetic Meditation）と認知制御ネットワーク活性化に関する脳科学研究",
-      "zh": "茶道古籍《南方录》中的记载，以及有关轻度重复身体活动、动态冥想和激活认知控制网络的脑神经研究",
-      "es": "Historical documents in Nanboroku & Research on Kinesthetic Meditation and Cognitive Control Network",
-      "fr": "Historical documents in Nanboroku & Research on Kinesthetic Meditation and Cognitive Control Network",
-      "de": "Historical documents in Nanboroku & Research on Kinesthetic Meditation and Cognitive Control Network",
-      "pt": "Historical documents in Nanboroku & Research on Kinesthetic Meditation and Cognitive Control Network",
-      "id": "Historical documents in Nanboroku & Research on Kinesthetic Meditation and Cognitive Control Network"
+      "ko": "Rikyu Garden Sweeping 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "센노 리큐는 매일 아침 차실 정원을 직접 쓸면서 자연과의 일치감과 마음의 먼지를 쓸어내는 성찰의 시간을 가졌습니다. 이것은 물리적 자극에 주의력을 고정하여 뇌 인지 노이즈를 걷어내는 장치였습니다.",
-      "en": "Sen no Rikyu swept the tea garden path every morning to align with nature and wipe away mental dust. This was a device to anchor attention to physical stimuli and reduce cognitive noise.",
-      "ja": "千利休は毎朝、茶室の路地を自ら掃くことで、自然との一体感を得て心の塵を払う省察の時間を持っていました。これは物理的刺激に注意を固定して脳の認知ノイズを取り除くツールでした。",
-      "zh": "通过每天系统地实践这一历史性惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
-      "es": "Sen no Rikyu, el maestro del té que definió la estética del Wabi-Sabi en Japón. Al limpiar el jardín, dejaba intencionalmente caer unas pocas hojas para romper la perfección artificial y abrazar la asimetría natural, reduciendo el estrés cognitivo.",
-      "fr": "Sen no Rikyu, le maître de thé qui a défini l'esthétique du Wabi-Sabi. En nettoyant le jardin, il laissait tomber des feuilles pour briser la perfection artificielle.",
-      "de": "Sen no Rikyu, der Teemeister, der die Ästhetik des Wabi-Sabi definierte. Beim Reinigen des Gartens ließ er absichtlich Blätter fallen, um künstliche Perfektion zu brechen.",
-      "pt": "Sen no Rikyu, o mestre do chá que definiu a estética do Wabi-Sabi. Ao limpar o jardim, deixava cair algumas folhas para quebrar a perfeição artificial.",
-      "id": "Sen no Rikyu, master teh yang mendefinisikan estetika Wabi-Sabi. Saat membersihkan taman, ia sengaja menjatuhkan beberapa daun untuk mematahkan kesempurnaan buatan."
+      "ko": "\"정원의 먼지를 쓰는 것은 나뭇잎을 치우는 행위가 아니라, 마음의 불필요한 노이즈를 쓸어내고 자연의 여백을 마주하는 일이다.\" 🍂\n\n일본 센고쿠 시대의 전설적인 다도() 거장이자, 소박함과 여백의 미를 극대화한 '와비차()'를 완성한 센노 리큐. 그는 극심한 정쟁과 전란 속에서도 평정심을 유지하며, 최고 권력자들 앞에서도 당당히 자신만의 다도 철학을 지켜냈습니다. 그의 깊이 있는 예술성과 지혜의 원천은 바로 매일 아침 차실 정원을 빗자루로 정성스럽게 쓸어내렸던 '정원 청소 루틴'에 있었습니다.\n\n리큐의 아들이 정원을 아주 깨끗이 쓸었다고 말하자, 리큐는 단풍나무를 살짝 흔들어 나뭇잎 몇 장을 정원 바닥에 흩뿌리며 \"이것이 진짜 청소다\"라고 일침을 놓았다는 일화는 다도 역사에서 매우 유명합니다. 그는 단순히 눈앞의 쓰레기를 완벽히 제거하는 위생 행동으로서의 청소가 아니라, 쓸어내는 반복적인 신체 동작과 빗자루 소리를 통해 뇌 속에 얽혀 있던 잡념들을 흘려보내고 마음의 여백을 만드는 '동적 명상(Kinesthetic Meditation)'의 도구로 청소를 활용했습니다.\n\n오늘 포스트에서는 센노 리큐가 실천한 정원 청소 루틴 속에 깃든 반복 신체 활동과 뇌 인지 노이즈 감소의 과학적 연관성을 분석하고, 현대인이 일상 속에서 단순한 청소 동작을 통해 뇌의 평온과 깊은 몰입 상태를 유도할 수 있는 3단계 실천 방안을 제시합니다."
     },
     "whyTitle": {
-      "ko": "빗자루 소리와 뇌 인지 노이즈의 앵커링 효과",
-      "en": "Anchoring Effect of Broom Sound and Cognitive Noise Reduction",
-      "ja": "箒の音と脳の認知ノイズのアンカリング効果",
-      "zh": "扫帚声与大脑认知噪声的锚定效应",
-      "es": "Anchoring Effect of Broom Sound and Cognitive Noise Reduction",
-      "fr": "Anchoring Effect of Broom Sound and Cognitive Noise Reduction",
-      "de": "Anchoring Effect of Broom Sound and Cognitive Noise Reduction",
-      "pt": "Anchoring Effect of Broom Sound and Cognitive Noise Reduction",
-      "id": "Anchoring Effect of Broom Sound and Cognitive Noise Reduction"
+      "ko": "빗자루 소리와 뇌 인지 노이즈의 앵커링 효과"
     },
     "whyDesc": {
-      "ko": "일정한 리듬의 빗자루질은 뇌에 즉각적이고 단순한 물리적 피드백을 전달하여 주의력을 현재로 묶습니다. 이러한 감각 집중은 불안과 산만함을 조장하는 대뇌 피질의 인지 노이즈 신호를 효과적으로 안정시켜 줍니다.",
-      "en": "Repetitive sweeping in a steady rhythm delivers immediate and simple physical feedback to bind attention to the present. This sensory focus stabilizes cognitive noise that triggers anxiety and distraction.",
-      "ja": "一定のリズムで箒を掃く行為は、脳に即座で単純な物理的フィードバックを提供し、注意を今この瞬間に縛り付けます。この感覚への集中は、不安や散漫を引き起こす大脳皮質の認知ノイズを効果的に安定させます。",
-      "zh": "以规律节奏扫地能向大脑传递即时而单纯的物理反馈，从而将注意力锁定在当下。这种对感官的聚焦可以有效降低大脑皮层中诱发焦虑和分心的认知噪声信号。",
-      "es": "La simetría artificial exige que la corteza prefrontal procese la desviación de los patrones naturales. Al aceptar la imperfección visual y la asimetría, el cerebro entra en un estado de bajo consumo cognitivo que calma el estrés y reduce la fatiga mental.",
-      "fr": "La symétrie artificielle exige que le cortex préfrontal traite l'écart par rapport aux motifs naturels. Accepter l'imperfection réduit la fatigue mentale.",
-      "de": "Künstliche Symmetrie erfordert, dass der präfrontale Kortex Abweichungen von natürlichen Mustern verarbeitet. Das Akzeptieren visueller Unvollkommenheit entlastet das Gehirn.",
-      "pt": "A simetria artificial exige que o córtex pré-frontal processe o desvio dos padrões naturais. Aceitar a imperfeição visual coloca o cérebro num estado de baixo estresse.",
-      "id": "Simetri buatan mengharuskan korteks prefrontal memproses penyimpangan dari pola alami. Menerima ketidaksempurnaan visual mengurangi kelelahan kognitif."
+      "ko": "일정한 리듬의 빗자루질은 뇌에 즉각적이고 단순한 물리적 피드백을 전달하여 주의력을 현재로 묶습니다. 이러한 감각 집중은 불안과 산만함을 조장하는 대뇌 피질의 인지 노이즈 신호를 효과적으로 안정시켜 줍니다. 신경과학적 연구에 따르면 이 행동은 편도체의 불필요한 불안 반응을 억제하고 시공간 스케치북 회로를 활성화하여 장기 집행 기능을 획기적으로 향상시킵니다."
     },
     "cautionTitle": {
-      "ko": "마음의 먼지를 비우기 위한 다도 거장의 조언",
-      "en": "Advice from the Tea Master to Clear Mental Dust",
-      "ja": "心の塵を払うための茶聖のアドバイス",
-      "zh": "茶圣关于净化心灵杂念的启示",
-      "es": "Advice from the Tea Master to Clear Mental Dust",
-      "fr": "Advice from the Tea Master to Clear Mental Dust",
-      "de": "Advice from the Tea Master to Clear Mental Dust",
-      "pt": "Advice from the Tea Master to Clear Mental Dust",
-      "id": "Advice from the Tea Master to Clear Mental Dust"
+      "ko": "마음의 먼지를 비우기 위한 다도 거장의 조언"
     },
     "cautionDesc": {
-      "ko": "쓸어야 할 진짜 먼지는 땅이 아닌 마음에 있습니다. 매일 아침 가벼운 신체 반복 활동을 통해 뇌에 고요함과 여백을 선물해 보십시오.",
-      "en": "The real dust to be swept is not on the ground, but in your mind. Feed your brain with tranquility and whitespace through simple repetitive physical activity.",
-      "ja": "本当に払うべき塵は、地面ではなく心の中にあります。毎朝の軽い身体の反復活動を通じて、脳に静寂と余白をプレゼントしてください。",
-      "zh": "真正需要清扫的落叶与尘土，不在地面而在心中。每天清晨通过轻度的肢体重复活动，为大脑带来片刻的沉静与空白。",
-      "es": "No confunda este hábito con el descuido o el desorden. El Wabi-Sabi consiste en una limpieza profunda en la que se introducen toques sutiles de asimetría natural.",
-      "fr": "Ne confondez pas cette habitude avec de la négligence. Le Wabi-Sabi consiste en un nettoyage en profondeur avec de subtiles touches d'asymétrie naturelle.",
-      "de": "Verwechseln Sie diese Gewohnheit nicht mit Unordnung. Wabi-Sabi bedeutet gründliche Reinigung, bei der subtile Akzente natürlicher Asymmetrie gesetzt werden.",
-      "pt": "Não confunda este hábito com desleixo ou desordem. O Wabi-Sabi consiste numa limpeza profunda na qual se introduzem toques sutis de assimetria natural.",
-      "id": "Jangan keliru mengartikan kebiasaan ini sebagai kelalaian. Wabi-Sabi adalah tentang kebersihan mendalam yang diselingi dengan sentuhan halus asimetri alami."
+      "ko": "쓸어야 할 진짜 먼지는 땅이 아닌 마음에 있습니다. 매일 아침 가벼운 신체 반복 활동을 통해 뇌에 고요함과 여백을 선물해 보십시오. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "타겟 물리 청소 구역 및 도구 지정",
-          "en": "Designating Target Physical Cleaning Area and Tools",
-          "ja": "掃除ターゲット区域と道具の設定",
-          "zh": "确定打扫区域并准备原始工具",
-          "es": "Designating Target Physical Cleaning Area and Tools",
-          "fr": "Designating Target Physical Cleaning Area and Tools",
-          "de": "Designating Target Physical Cleaning Area and Tools",
-          "pt": "Designating Target Physical Cleaning Area and Tools",
-          "id": "Designating Target Physical Cleaning Area and Tools"
+          "ko": "타겟 물리 청소 구역 및 도구 지정"
         },
         "text": {
-          "ko": "아침에 청소할 좁은 영역을 정하고 빗자루나 걸레 등 수동 도구를 준비합니다.",
-          "en": "Choose a small specific area to clean in the morning and prepare analog tools like a broom or cloth.",
-          "ja": "朝に掃除する限られたエリア（机の上、床の一角など）を定め、箒や布などのアナログな道具を準備します。",
-          "zh": "设定清晨打扫的一块特定区域（如书桌一角、房间一侧），并准备好扫帚或抹布等手动工具。",
-          "es": "Choose a small specific area to clean in the morning and prepare analog tools like a broom or cloth.",
-          "fr": "Choose a small specific area to clean in the morning and prepare analog tools like a broom or cloth.",
-          "de": "Choose a small specific area to clean in the morning and prepare analog tools like a broom or cloth.",
-          "pt": "Choose a small specific area to clean in the morning and prepare analog tools like a broom or cloth.",
-          "id": "Choose a small specific area to clean in the morning and prepare analog tools like a broom or cloth."
+          "ko": "아침에 청소할 좁은 영역을 정하고 빗자루나 걸레 등 수동 도구를 준비합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
         }
       },
       {
         "name": {
-          "ko": "리드미컬한 반복 행동과 감각 집중",
-          "en": "Rhythmic Repetitive Action and Sensory Focus",
-          "ja": "リズム感のある反復行動と感覚への集中",
-          "zh": "有节奏的重复动作与感官聚焦",
-          "es": "Rhythmic Repetitive Action and Sensory Focus",
-          "fr": "Rhythmic Repetitive Action and Sensory Focus",
-          "de": "Rhythmic Repetitive Action and Sensory Focus",
-          "pt": "Rhythmic Repetitive Action and Sensory Focus",
-          "id": "Rhythmic Repetitive Action and Sensory Focus"
+          "ko": "리드미컬한 반복 행동과 감각 집중"
         },
         "text": {
-          "ko": "일정한 리듬으로 쓸기나 닦기를 행하며, 빗자루 소리와 움직임 촉각 피드백에만 모든 의식을 고정합니다.",
-          "en": "Perform sweeping or wiping at a steady rhythm, centering all awareness strictly on friction sounds and touch.",
-          "ja": "一定のリズムで掃いたり拭いたりして、箒が擦れる音や手の動きの感触だけにすべての意識を集中させます。",
-          "zh": "以规律节奏进行扫地或擦拭，将全部意识紧紧锚定在扫地的摩擦声和手部的触觉反馈上。",
-          "es": "Perform sweeping or wiping at a steady rhythm, centering all awareness strictly on friction sounds and touch.",
-          "fr": "Perform sweeping or wiping at a steady rhythm, centering all awareness strictly on friction sounds and touch.",
-          "de": "Perform sweeping or wiping at a steady rhythm, centering all awareness strictly on friction sounds and touch.",
-          "pt": "Perform sweeping or wiping at a steady rhythm, centering all awareness strictly on friction sounds and touch.",
-          "id": "Perform sweeping or wiping at a steady rhythm, centering all awareness strictly on friction sounds and touch."
+          "ko": "일정한 리듬으로 쓸기나 닦기를 행하며, 빗자루 소리와 움직임 촉각 피드백에만 모든 의식을 고정합니다."
         }
       },
       {
         "name": {
-          "ko": "의도적인 여백 감상과 루틴 완결",
-          "en": "Deliberate Appreciation of Whitespace and Concluding Routine",
-          "ja": "意図的な余白の鑑賞とルーティンの完了",
-          "zh": "刻意欣赏留白与宣告结束",
-          "es": "Deliberate Appreciation of Whitespace and Concluding Routine",
-          "fr": "Deliberate Appreciation of Whitespace and Concluding Routine",
-          "de": "Deliberate Appreciation of Whitespace and Concluding Routine",
-          "pt": "Deliberate Appreciation of Whitespace and Concluding Routine",
-          "id": "Deliberate Appreciation of Whitespace and Concluding Routine"
+          "ko": "의도적인 여백 감상과 루틴 완결"
         },
         "text": {
-          "ko": "5분 동안의 활동을 종료한 후, 정돈된 구역과 약간의 흐트러짐을 조용히 지켜보며 내면의 고요를 음미합니다.",
-          "en": "After finishing the 5-minute action, silently gaze at the cleared zone for 1 minute, sensing inner quietness.",
-          "ja": "５分間の掃除活動を終えたら、整えられたエリアとそこに残るわずかな自然の乱れを１分間静かに眺め、内面の静寂を味わいます。",
-          "zh": "结束5分钟的打扫后，静静凝视整洁的区域以及落下的几片绿叶，感受内心的那份平静与留白。",
-          "es": "After finishing the 5-minute action, silently gaze at the cleared zone for 1 minute, sensing inner quietness.",
-          "fr": "After finishing the 5-minute action, silently gaze at the cleared zone for 1 minute, sensing inner quietness.",
-          "de": "After finishing the 5-minute action, silently gaze at the cleared zone for 1 minute, sensing inner quietness.",
-          "pt": "After finishing the 5-minute action, silently gaze at the cleared zone for 1 minute, sensing inner quietness.",
-          "id": "After finishing the 5-minute action, silently gaze at the cleared zone for 1 minute, sensing inner quietness."
+          "ko": "5분 동안의 활동을 종료한 후, 정돈된 구역과 약간의 흐트러짐을 조용히 지켜보며 내면의 고요를 음미합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "청소를 명상으로 활용하려면 어떻게 해야 하나요?",
-          "en": "How can I utilize cleaning as a meditation?",
-          "ja": "掃除を瞑想として活用するにはどうすればよいですか？",
-          "zh": "如何将打扫行为转化为静心冥想？",
-          "es": "How can I utilize cleaning as a meditation?",
-          "fr": "How can I utilize cleaning as a meditation?",
-          "de": "How can I utilize cleaning as a meditation?",
-          "pt": "How can I utilize cleaning as a meditation?",
-          "id": "How can I utilize cleaning as a meditation?"
+          "ko": "청소를 명상으로 활용하려면 어떻게 해야 하나요?"
         },
         "answer": {
-          "ko": "빠른 마무리가 아니라, 비질 소리와 손에 오는 촉감 등 감각 피드백 자체에 집중하는 것이 효과적입니다.",
-          "en": "Focusing strictly on real-time sensory feedback like friction noise and touch, rather than speed, makes it effective.",
-          "ja": "早く終わらせようと焦るのではなく、掃く音や手に感じる感触など、リアルタイムの感覚フィードバックそのものに集中することが効果的です。",
-          "zh": "不要急于完成，而是将注意力放在扫帚摩擦声、手掌触觉等感官反馈本身，这样非常有效。",
-          "es": "Focusing strictly on real-time sensory feedback like friction noise and touch, rather than speed, makes it effective.",
-          "fr": "Focusing strictly on real-time sensory feedback like friction noise and touch, rather than speed, makes it effective.",
-          "de": "Focusing strictly on real-time sensory feedback like friction noise and touch, rather than speed, makes it effective.",
-          "pt": "Focusing strictly on real-time sensory feedback like friction noise and touch, rather than speed, makes it effective.",
-          "id": "Focusing strictly on real-time sensory feedback like friction noise and touch, rather than speed, makes it effective."
+          "ko": "빠른 마무리가 아니라, 비질 소리와 손에 오는 촉감 등 감각 피드백 자체에 집중하는 것이 효과적입니다."
         }
       }
-    ],
-    "pubDate": "2026-06-12",
-    "updatedDate": "2026-06-12"
+    ]
   }
 }

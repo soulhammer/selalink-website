@@ -16,23 +16,23 @@ faqs:
     answer: "Contrôlez ses portions, évitez les friandises trop caloriques et privilégiez les jouets distributeurs de nourriture pour le faire bouger."
 ---
 
-Reconnaissable à son pelage silver tabby et à son corps musclé, l'American Shorthair est un chat doux et placide. Cependant, son calme naturel peut dériver vers la paresse et l'obésité, menaçant son système cardiovasculaire. Cette race est aussi prédisposée à la cardiomyopathie hypertrophique (CMH). Aujourd'hui, PetSelf décrypte ses signaux cardiaques et présente sa routine en 3 étapes.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Preuves Vétérinaires et Comportementales
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Directives de la CFA et travaux du Cornell Feline Health Center</strong>.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 American Shorthair Profil principal
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">15 ~ 20 ans</span></div>
@@ -43,7 +43,7 @@ Reconnaissable à son pelage silver tabby et à son corps musclé, l'American Sh
 
 ## 1. Langage corporel de l'American Shorthair : surcharge cardiaque et halètement
 
-Un chat ne halète pas comme un chien. Si un American Shorthair a la 'bouche ouverte pour respirer' ou montre une 'fatigue soudaine' pendant le jeu, c'est le signe d'un problème cardiaque majeur. Réagir vite peut lui sauver la vie.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Un chat ne halète pas comme un chien. Si un American Shorthair a la 'bouche ouv
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Rationnement précis de la nourriture pour éviter la prise de poids</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Évitez le libre-service. Divisez sa portion de croquettes quotidienne selon ses besoins caloriques réels pour protéger son cœur.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Un chat ne halète pas comme un chien. Si un American Shorthair a la 'bouche ouv
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi : Jeu interactif de 15 minutes pour brûler les graisses</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Jouez avec lui au moins deux fois par jour pendant 15 minutes (canne à pêche, plumeau) pour stimuler son activité physique.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Un chat ne halète pas comme un chien. Si un American Shorthair a la 'bouche ouv
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir : Brossage hebdomadaire pour éliminer le sous-poil</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Bien qu'à poil court, sa fourrure est dense. Brossez-le une à deux fois par semaine pour prévenir les vomissements de boules de poils.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Un chat ne halète pas comme un chien. Si un American Shorthair a la 'bouche ouv
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Un chat ne halète pas comme un chien. Si un American Shorthair a la 'bouche ouv
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Il s'agit d'une maladie génétique caractérisée par un épaississement du muscle cardiaque qui altère son fonctionnement. Souvent invisible, elle requiert un dépistage régulier par échographie.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Un chat ne halète pas comme un chien. Si un American Shorthair a la 'bouche ouv
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Contrôlez ses portions, évitez les friandises trop caloriques et privilégiez les jouets distributeurs de nourriture pour le faire bouger.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </details>
 </div>

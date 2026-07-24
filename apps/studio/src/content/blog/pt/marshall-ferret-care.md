@@ -16,23 +16,23 @@ faqs:
     answer: "Os furões secretam almíscar desde glândulas na pele. Os banhos frequentes secam a sua pele, o que provoca uma maior produção de sebo e piora o cheiro. Dê banho uma vez por mês e lave as suas mantas semanalmente."
 ---
 
-Com um corpo comprido e flexível e olhos cintilantes, o furão de Marshall é um animal de estimação altamente social que interage estreitamente com os humanos. Requerem tempo de jogo diário fora da gaiola para satisfazer a sua curiosidade e evitar a depressão. Os controlos periódicos dos ouvidos também são essenciais para evitar ácaros. Hoje no PetSelf, cobrimos a dança de guerra do furão, os sons de dooking e uma rotina de 3 passos para as suas aventuras diárias seguras.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Evidência Veterinária e Comportamental
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este conteúdo baseia-se em <strong>Padrões da American Ferret Association e Diretrizes Veterinárias de Animais Exóticos</strong>.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Furão de Marshall (Marshall Ferret) Perfil principal
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">6 ~ 10 anos</span></div>
@@ -43,7 +43,7 @@ Com um corpo comprido e flexível e olhos cintilantes, o furão de Marshall é u
 
 ## 1. Comunicação do furão de Marshall: a dança de guerra e o dooking
 
-Os furões de Marshall mostram alegria inflando a cauda, arqueando as costas e rebotando de lado, um comportamento conhecido como 'Danse de guerra do furão (Weasel War Dance)'. Também emitem um suave som de cloque de garganta chamado 'Dooking' quando exploram com entusiasmo. Compreender estes sinais ajuda a maximizar a sua experiência de jogo.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Os furões de Marshall mostram alegria inflando a cauda, arqueando as costas e r
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Dieta carnívora alta em proteínas e recarga de água</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Os furões têm um trato digestivo curto. Rellene comida à base de carne e livre de grãos, e reveja a sua garrafa de água.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Os furões de Marshall mostram alegria inflando a cauda, arqueando as costas e r
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Tempo de jogo seguro fora da gaiola por pelo menos 4 horas</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Evite a depressão libertando-os no quarto. Assegure-se de que todos os pequenos buracos debaixo dos móveis estão selados.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Os furões de Marshall mostram alegria inflando a cauda, arqueando as costas e r
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Limpeza de redes de descanso e inspeção da saúde do ouvido</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Os furões não podem suar. Lave as suas redes de descanso de feltro e reveja os seus ouvidos para detetar secreções escuras de ácaros.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Os furões de Marshall mostram alegria inflando a cauda, arqueando as costas e r
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Os furões de Marshall mostram alegria inflando a cauda, arqueando as costas e r
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Isto é conhecido como 'Sono profundo do furão (Ferret Dead Sleep)'. Dormem tão profundamente que parecem flácidos. Se o seu corpo estiver morno e a respiração for constante, deixe-o dormir; é um comportamento normal.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Os furões de Marshall mostram alegria inflando a cauda, arqueando as costas e r
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Os furões secretam almíscar desde glândulas na pele. Os banhos frequentes secam a sua pele, o que provoca uma maior produção de sebo e piora o cheiro. Dê banho uma vez por mês e lave as suas mantas semanalmente.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 </div>

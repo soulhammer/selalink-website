@@ -16,23 +16,23 @@ faqs:
     answer: "Rendahkan postur Anda dan hindari kontak mata langsung, yang dianggap kucing sebagai ancaman. Biarkan mereka mengendus jari Anda terlebih dahulu."
 ---
 
-Russian Blue adalah kucing menawan yang terkenal dengan bulu biru keperakan pendek dan mata hijau mereka. Meskipun pendiam, lembut, mereka secara genetik pemalu dan sangat sensitif terhadap kebisingan. 🐱 Inilah mengapa mereka cepat bersembunyi saat ada tamu berkunjung atau penyedot debu menyala. Memaksa mereka keluar hanya menyebabkan kepanikan. Hari ini, PetSelf memperkenalkan rutinitas 3 langkah.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Bukti Dokter Hewan & Perilaku
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>Panduan Ras Cat Fanciers' Association (CFA) & Cornell Feline Health Center</strong>.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Russian Blue Profil Utama
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Rata-rata Umur</span><span class="font-bold text-slate-800 dark:text-slate-200">15 ~ 20 tahun</span></div>
@@ -43,7 +43,7 @@ Russian Blue adalah kucing menawan yang terkenal dengan bulu biru keperakan pend
 
 ## 1. Bahasa Tubuh Russian Blue: Membaca Tanda Peringatan Kepanikan
 
-Karena sifat mereka yang lembut, Russian Blue menunjukkan sinyal peringatan dengan tenang. Sinyal kepanikan utama meliputi 'pupil melebar' dan 'merunduk' (crouching). Ketika mendengar suara tiba-tiba, pupil mereka akan melebar. Jika mereka menekan tubuh ke lantai dan meratakan telinga, mereka bersiap untuk melarikan diri.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Karena sifat mereka yang lembut, Russian Blue menunjukkan sinyal peringatan deng
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Rutinitas Keamanan Kotak Pasir dan Area Makan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Bersihkan kotak pasir lebih awal. Pastikan mangkuk makanan dan air diletakkan di sudut yang tenang jauh dari lalu lintas orang.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Karena sifat mereka yang lembut, Russian Blue menunjukkan sinyal peringatan deng
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Perawatan Tempat Berlindung yang Tinggi dan Tenang</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Pastikan kondo pohon kucing yang tertutup selalu dapat diakses. Ini memberi mereka tempat pelarian pribadi yang tinggi.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Karena sifat mereka yang lembut, Russian Blue menunjukkan sinyal peringatan deng
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Mengendus Tangan Tanpa Paksaan dan Ikatan Lembut</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Alih-alih mendekati mereka untuk langsung menggendong, ulurkan jari telunjuk Anda dengan tenang. Biarkan mereka mengendus tangan Anda terlebih dahulu.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Karena sifat mereka yang lembut, Russian Blue menunjukkan sinyal peringatan deng
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Karena sifat mereka yang lembut, Russian Blue menunjukkan sinyal peringatan deng
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sama sekali tidak. Memaksa mereka keluar dari zona aman akan memicu kepanikan dan merusak kepercayaan mereka pada Anda. Biarkan mereka bersembunyi sampai tamu pergi.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Karena sifat mereka yang lembut, Russian Blue menunjukkan sinyal peringatan deng
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Rendahkan postur Anda dan hindari kontak mata langsung, yang dianggap kucing sebagai ancaman. Biarkan mereka mengendus jari Anda terlebih dahulu.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </details>
 </div>

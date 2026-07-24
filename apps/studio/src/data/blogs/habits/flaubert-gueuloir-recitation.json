@@ -1,194 +1,64 @@
 {
   "flaubert-gueuloir-recitation": {
     "title": {
-      "ko": "완벽한 문장을 낳는 소리: 귀스타브 플로베르의 '포효실' 문장 낭독 습관",
-      "en": "The Sound of Perfect Sentences: Gustave Flaubert's 'Gueuloir' Recitation Habit",
-      "ja": "完璧な文章を生む声：ギュスターヴ・フローベールの「咆哮室」文章朗読習慣",
-      "zh": "催生完美句子的声音：居斯塔夫·福楼拜的“咆哮室”诵读习惯",
-      "es": "El sonido de las frases perfectas: el hábito de recitación del 'Gueuloir' de Gustave Flaubert",
-      "fr": "Le son des phrases parfaites : l'habitude de récitation du « Gueuloir » de Gustave Flaubert",
-      "de": "Der Klang perfekter Sätze: Gustave Flauberts „Gueuloir“-Rezitationsgewohnheit",
-      "pt": "O som das frases perfeitas: o hábito de recitação do 'Gueuloir' de Gustave Flaubert",
-      "id": "Suara Kalimat yang Sempurna: Kebiasaan Resitasi 'Gueuloir' Gustave Flaubert"
+      "ko": "완벽한 문장을 낳는 소리: 귀스타브 플로베르의 '포효실' 문장 낭독 습관"
     },
     "description": {
-      "ko": "일물일어설을 지향하며 단어 하나도 허투루 쓰지 않았던 소설가 플로베르. 뇌의 운동 피질과 청각적 피드백을 활용하여 문장의 논리성과 운율을 극한으로 높였던 그의 '포효실' 낭독 비밀을 소개합니다.",
-      "en": "Gustave Flaubert, who pursued absolute precision in diction, read his works aloud to perfect them. Explore the science of his 'Gueuloir' routine utilizing auditory feedback and motor cortex integration.",
-      "ja": "一物一語説を志向し、単語一つも疎かにしなかった小説家フローベール。脳の運動野と聴覚的フィードバックを活用して文章の論理性と韻律を極限まで高めた彼の「咆哮室」朗読の秘密を紹介します。",
-      "zh": "追求“一物一词”说、连一个字都不肯放过的作家福楼拜。介绍他利用大脑的运动皮层和听觉反馈，将句子的逻辑性与节奏韵律提升到极致的“咆哮室”诵读秘诀。",
-      "es": "Gustave Flaubert, que buscaba la precisión absoluta en la dicción, leía sus obras en voz alta para perfeccionarlas. Explore la ciencia de su rutina 'Gueuloir' utilizando la retroalimentación auditiva y la integración de la corteza motora.",
-      "fr": "Gustave Flaubert, qui recherchait une précision absolue dans la diction, lisait ses œuvres à haute voix pour les perfectionner. Découvrez la science de sa routine du « Gueuloir » utilisant le retour auditif et la motricité.",
-      "de": "Gustave Flaubert, der ein Wort für eine Sache anstrebte, las seine Werke laut vor, um sie zu perfektionieren. Entdecken Sie die Wissenschaft seiner „Gueuloir“-Routine unter Nutzung von auditivem Feedback.",
-      "pt": "Gustave Flaubert, que buscava a precisão absoluta na dicção, lia as suas obras em voz alta para as aperfeiçoar. Explore a ciência da sua rotina 'Gueuloir' utilizando feedback auditivo e integração do córtex motor.",
-      "id": "Gustave Flaubert, yang mengejar ketepatan mutlak dalam diksi, membaca karyanya dengan keras untuk menyempurnakannya. Jelajahi sains dari rutinitas 'Gueuloir' miliknya menggunakan umpan balik pendengaran."
+      "ko": "일물일어설을 지향하며 단어 하나도 허투루 쓰지 않았던 소설가 플로베르. 뇌의 운동 피질과 청각적 피드백을 활용하여 문장의 논리성과 운율을 극한으로 높였던 그의 '포효실' 낭독 비밀을 소개합니다."
     },
     "authority": {
-      "ko": "플로베르 서한집 고증 및 언어심리학 분야의 이중 부호화 이론(Dual-Coding Theory)과 청각 피드백 루프의 오류 수정 메커니즘 분석 자료",
-      "en": "Flaubert's Collected Correspondence and Psycholinguistic Studies on Dual-Coding Theory and Auditory Feedback Loop Error Detection",
-      "ja": "フローベール書簡集の考証、および言語心理学分野における二重符号化理論（Dual-Coding Theory）と聴覚フィードバックループの誤り修正メカニズム分析資料",
-      "zh": "福楼拜书信集考证及语言心理学领域的双重编码理论（Dual-Coding Theory）与听觉反馈环路错误修正机制分析资料",
-      "es": "Correspondencia recopilada de Flaubert y estudios psicolingüísticos sobre la teoría de la codificación dual y la detección de errores en el bucle de retroalimentación auditiva",
-      "fr": "Correspondance de Flaubert et études psycholinguistiques sur la théorie du double codage et la détection d'erreurs par boucle de rétroaction auditive",
-      "de": "Flauberts gesammelte Korrespondenz und psycholinguistische Studien zur dualen Kodierungstheorie und zur Fehlererkennung in auditiven Feedbackschleifen",
-      "pt": "Correspondência de Flaubert e estudos psicolinguísticos sobre a Teoria da Dupla Codificação e deteção de erros por feedback auditivo",
-      "id": "Korespondensi Terkumpul Flaubert dan Studi Psikolinguistik tentang Teori Pengkodean Ganda dan Deteksi Kesalahan Loop Umpan Balik Pendengaran"
+      "ko": "Flaubert Gueuloir Recitation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "19세기 프랑스 사실주의 문학의 찬란한 이정표인 『마담 보바리』의 저자 귀스타브 플로베르. 그는 하나의 대상에 어울리는 올바른 단어는 단 하나뿐이라는 '일물일어설'을 신봉하며, 평생 완벽한 글을 위해 뼈를 깎는 노력을 기울였습니다. 그는 마음에 드는 단 한 문장을 완성하기 위해 며칠 밤을 새우기도 했습니다. 그런 그가 집필실에서 문장의 최종 합격을 판정할 때 썼던 가장 기이하고 위대한 습관은 밤마다 자신이 쓴 글을 가슴이 터질 듯 큰 소리로 질러대며 낭독하는 것이었습니다. 그는 이 혹독한 낭독 과정을 'Gueuloir(포효실)'라 불렀습니다. 낭독을 통해 뇌의 모든 감각을 깨워 논리적, 예술적 완결성에 도달하는 플로베르의 언어 조율 비법을 과학적으로 규명합니다.",
-      "en": "Gustave Flaubert, author of Madame Bovary, championed the idea that there is only one perfect word (le mot juste) for any concept. He spent days refining single sentences. To test the final version of his prose, he engaged in a dramatic ritual: reading his work aloud at the top of his lungs in his study, a process he called 'Gueuloir' (the shouting room). Discover the scientific secret of how shouting and listening activates multiple sensory areas in the brain to achieve absolute semantic and rhythmic clarity.",
-      "ja": "19世紀フランス写実主義文学の輝かしい道標である『マダム・ボヴァリー』の著者ギュスタヴ・フローベール。彼は一つの対象にふさわしい正しい言葉はただ一つだけであるという「一物一語説」を信奉し、生涯にわたり完璧な文章のために身を削る努力を傾けました。彼は気に入ったただ一文を完成させるために、何日も夜を明かすこともありました。そんな彼が執筆室で文章の最終合格を判定する際に用いた最も奇妙で偉大な習慣は、夜な夜な自分が書いた文章を胸が張り裂けんばかりの大声で叫びながら朗読することでした。彼はこの過酷な朗読プロセスを「Gueuloir（咆哮室）」と呼びました。朗読を通じて脳のすべての感覚を呼び覚まし、論理的・芸術的完成度に到達するフローベールの言語調律の秘訣を科学的に究明します。",
-      "zh": "居斯塔夫·福楼拜是19世纪法国现实主义文学里程碑《包法利夫人》的作者。他坚信对于任何概念都只有唯一一个完美的词（即“一物一词”说），一生都在为了完美的写作而付出艰苦的努力。为了完成一个满意的句子，他有时会熬上好几个晚上。当他在工作室里对句子的最终效果进行评判时，他所使用的最奇特也最伟大的习惯，就是每天晚上用撕心裂肺的大声朗读自己写下的文字。他把这种严酷的朗读过程称为“Gueuloir”（咆哮室）。我们将从科学角度解析福楼拜如何通过诵读唤醒大脑的所有感官，从而达到逻辑与艺术的完美融合。",
-      "es": "Gustave Flaubert, autor de Madame Bovary, defendía la idea de que solo hay una palabra perfecta (le mot juste) para cualquier concepto. Pasaba días perfeccionando frases individuales. Para probar la versión final de su prosa, se involucraba en un ritual dramático: leer su obra en voz alta a pleno pulmón en su estudio, un proceso que llamó 'Gueuloir' (la sala de gritos). Descubra el secreto científico de cómo gritar y escuchar activa múltiples áreas sensoriales en el cerebro para lograr una claridad semántica y rítmica absoluta.",
-      "fr": "Gustave Flaubert, auteur de Madame Bovary, défendait l'idée qu'il n'y a qu'un seul mot parfait (le mot juste) pour chaque concept. Il passait des jours à peaufiner des phrases uniques. Pour tester la version finale de sa prose, il se livrait à un rituel dramatique : lire son œuvre à haute voix à tue-tête dans son bureau, un processus qu'il appelait « Gueuloir ». Découvrez le secret scientifique de la façon dont crier et écouter active plusieurs zones sensorielles du cerveau pour atteindre une clarté sémantique et rythmique absolue.",
-      "de": "Gustave Flaubert, Autor von Madame Bovary, vertrat die Idee, dass es für jedes Konzept nur ein perfektes Wort (le mot juste) gibt. Er verbrachte Tage damit, einzelne Sätze zu verfeinern. Um die endgültige Version seiner Prosa zu testen, führte er ein dramatisches Ritual durch: Er las seine Arbeit in seinem Arbeitszimmer lautstark vor, ein Prozess, den er „Gueuloir“ (das Schreizimmer) nannte. Entdecken Sie das wissenschaftliche Geheimnis, wie Schreien und Zuhören mehrere sensorische Bereiche im Gehirn aktiviert, um absolute semantische und rhythmische Klarheit zu erreichen.",
-      "pt": "Gustave Flaubert, autor de Madame Bovary, defendia a ideia de que existe apenas uma palavra perfeita (le mot juste) para qualquer conceito. Ele passava dias a refinar frases únicas. Para testar a versão final da sua prosa, ele envolvia-se num ritual dramático: ler o seu trabalho em voz alta no seu estúdio, um processo que chamou de 'Gueuloir' (a sala de gritos). Descubra o segredo científico de como gritar e ouvir ativa múltiplas áreas sensoriais no cérebro para alcançar clareza semântica e rítmica absoluta.",
-      "id": "Gustave Flaubert, penulis Madame Bovary, mempercayai gagasan bahwa hanya ada satu kata yang sempurna (le mot juste) untuk konsep apa pun. Dia menghabiskan waktu berhari-hari menyempurnakan satu kalimat. Untuk menguji versi akhir prosanya, ia terlibat dalam ritual dramatis: membaca karyanya dengan keras sekuat tenaga di ruang kerjanya, sebuah proses yang ia sebut 'Gueuloir' (ruang berteriak). Temukan rahasia ilmiah bagaimana berteriak dan mendengarkan mengaktifkan beberapa area sensorik di otak untuk mencapai kejelasan semantik dan ritmis yang mutlak."
+      "ko": "\"문장의 음악적 리듬감이 완성되지 않았다면, 그 문장의 생각 역시 제대로 서지 않은 것이다. 좋은 산문은 훌륭한 시처럼 운율이 흐르고 조화를 이루어야 한다.\" ✍️\n\n19세기 프랑스 사실주의 문학의 찬란한 이정표인 『마담 보바리』의 저자 귀스타브 플로베르. 그는 하나의 대상에 어울리는 올바른 단어는 단 하나뿐이라는 '일물일어설'을 신봉하며, 평생 완벽한 글을 위해 뼈를 깎는 노력을 기울였습니다. 그는 마음에 드는 단 한 문장을 완성하기 위해 며칠 밤을 새우기도 했습니다. 그런 그가 집필실에서 문장의 최종 합격을 판정할 때 썼던 가장 기이하고 위대한 습관은 밤마다 자신이 쓴 글을 가슴이 터질 듯 큰 소리로 질러대며 낭독하는 것이었습니다. 그는 이 혹독한 낭독 과정을 'Gueuloir(포효실)'라 불렀습니다. 낭독을 통해 뇌의 모든 감각을 깨워 논리적, 예술적 완결성에 도달하는 플로베르의 언어 조율 비법을 과학적으로 규명합니다."
     },
     "whyTitle": {
-      "ko": "이중 부호화와 청각 피드백 루프의 신경과학",
-      "en": "Neuroscience of Dual-Coding and Auditory Feedback Loops",
-      "ja": "二重符号化と聴覚フィードバックループの神経科学",
-      "zh": "双重编码与听觉反馈环路的神经科学",
-      "es": "Neurociencia de la codificación dual y los bucles de retroalimentación auditiva",
-      "fr": "Neurosciences du double codage et des boucles de rétroaction auditive",
-      "de": "Neurowissenschaft der dualen Kodierung und auditiven Feedbackschleifen",
-      "pt": "Neurociência da Dupla Codificação e Loops de Feedback Auditivo",
-      "id": "Neurosains Pengkodean Ganda dan Loop Umpan Balik Pendengaran"
+      "ko": "이중 부호화와 청각 피드백 루프의 신경과학"
     },
     "whyDesc": {
-      "ko": "눈으로 글을 읽을 때는 시각 피질만 일부 작용하지만, 혀와 목소리를 활용해 소리 내어 낭독하면 운동 피질과 인지 모니터링 시스템이 긴밀하게 협력합니다. 특히 인지심리학의 이중 부호화 이론에 따르면 정보가 시각과 청각이라는 두 경로로 동시 입력될 때 뇌의 기억 인지 대역폭이 크게 늘어납니다. 또한 자신이 발음한 소리를 귀로 듣는 청각 피드백 루프는 뇌가 문장의 문법적 결함이나 어색한 비문, 호흡의 늘어짐을 순식간에 발견해내도록 유도합니다. 이 때문에 글을 직접 소리 내어 읽을 때 글의 논리성과 리듬감이 극대화됩니다.",
-      "en": "Reading silently engages only the visual cortex, whereas reading aloud activates the motor cortex, vocal tract, and auditory system in unison. According to the Dual-Coding Theory, processing information through both visual and auditory channels increases cognitive bandwidth. The auditory feedback loop acts as a real-time error monitor, allowing the brain to instantly register syntactic flaws, awkward transitions, and structural imbalance that silent reading misses. This produces prose of superior flow and logic.",
-      "ja": "目で文章を読むときは視覚野だけが部分的に作用しますが、舌と声を利用して声に出して朗読すると、運動野と認知モニタリングシステムが緊密に協力します。特に認知心理学の二重符号化理論によれば、情報が視覚と聴覚という2つの経路で同時に入力されるとき、脳の記憶認知帯域幅が大きく増加します。また、自分が発音した音を耳で聴く聴覚フィードバックループは、脳が文章の文法的な欠陥や不自然な悪文、呼吸の乱れを瞬時に発見するように導きます。このため、文章を直接声に出して読むとき、文章の論理性とリズム感が極限まで高まります。",
-      "zh": "默默默读时，主要只有视觉皮层在起作用；而利用舌头和声音出声朗读时，运动皮层和认知监控系统会紧密合作。特别是根据认知心理学的双重编码理论，当信息通过视觉和听觉两条途径同时输入时，大脑的记忆认知带宽会大幅增加。此外，耳朵听到自己发出的声音这一听觉反馈环路，会引导大脑瞬间发现句子的语法缺陷、别扭的错句以及呼吸节奏的拖沓。因此，亲自动口朗读时，文章的逻辑性和节奏感都会得到极大的提升。",
-      "es": "Leer en silencio involucra solo la corteza visual, mientras que leer en voz alta activa la corteza motora, el tracto vocal y el sistema auditivo al unísono. Según la Teoría de la Codificación Dual, procesar información a través de canales visuales y auditivos aumenta el ancho de banda cognitivo. El bucle de retroalimentación auditiva actúa como un monitor de errores en tiempo real, lo que permite al cerebro registrar instantáneamente fallas sintácticas, transiciones incómodas y desequilibrios estructurales que la lectura silenciosa pasa por alto. Esto produce una prosa con mejor flujo y lógica.",
-      "fr": "La lecture silencieuse n'engage que le cortex visuel, tandis que la lecture à haute voix active simultanément le cortex moteur, les cordes vocales et le système auditif. Selon la théorie du double codage, le traitement des informations par les canaux visuels et auditifs augmente la bande passante cognitive. Le retour auditif agit comme un détecteur d'erreurs en temps réel, permettant au cerveau d'enregistrer instantanément les défauts syntaxiques et les déséquilibres que la lecture silencieuse ne détecte pas. Cela produit une prose d'une fluidité supérieure.",
-      "de": "Stilles Lesen beansprucht nur den visuellen Kortex, während das laute Vorlesen den motorischen Kortex, den Stimmkanal und das Hörsystem im Einklang aktiviert. Gemäß der Dualen Kodierungstheorie erhöht die Verarbeitung von Informationen über visuelle und auditive Kanäle die kognitive Bandbreite. Die auditive Feedbackschleife fungiert als Echtzeit-Fehlermonitor, der es dem Gehirn ermöglicht, syntaktische Fehler, unangenehme Übergänge und strukturelle Ungleichgewichte, die beim stillen Lesen übersehen werden, sofort zu registrieren. Dies führt zu Prosa mit besserem Fluss und besserer Logik.",
-      "pt": "Ler silenciosamente envolve apenas o córtex visual, ao passo que ler em voz alta ativa o córtex motor, o trato vocal e o sistema auditivo em uníssono. De acordo com a Teoria da Dupla Codificação, processar informação através de canais visuais e auditivos aumenta a largura de banda cognitiva. O loop de feedback auditivo atua como um monitor de erros em tempo real, permitindo ao cérebro registar instantaneamente falhas sintáticas, transições estranhas e desequilíbrios estruturais que a leitura silenciosa perde. Isto produz uma prosa com melhor fluxo e lógica.",
-      "id": "Membaca dalam hati hanya melibatkan korteks visual, sedangkan membaca keras mengaktifkan korteks motorik, saluran suara, dan sistem pendengaran secara serentak. Menurut Teori Pengkodean Ganda, memproses informasi melalui saluran visual dan pendengaran meningkatkan bandwidth kognitif. Loop umpan balik pendengaran bertindak sebagai pemantau kesalahan waktu nyata, memungkinkan otak secara instan mendeteksi cacat sintaksis dan ketidakseimbangan struktural yang terlewatkan saat membaca dalam hati."
+      "ko": "눈으로 글을 읽을 때는 시각 피질만 일부 작용하지만, 혀와 목소리를 활용해 소리 내어 낭독하면 운동 피질과 인지 모니터링 시스템이 긴밀하게 협력합니다. 특히 인지심리학의 이중 부호화 이론에 따르면 정보가 시각과 청각이라는 두 경로로 동시 입력될 때 뇌의 기억 인지 대역폭이 크게 늘어납니다. 또한 자신이 발음한 소리를 귀로 듣는 청각 피드백 루프는 뇌가 문장의 문법적 결함이나 어색한 비문, 호흡의 늘어짐을 순식간에 발견해내도록 유도합니다. 이 때문에 글을 직접 소리 내어 읽을 때 글의 논리성과 리듬감이 극대화됩니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "낭독 퇴고 습관을 가질 때 피해야 할 것은 너무 빠르게 대충 훑어 읽는 것입니다. 뇌가 이미 눈으로 익숙해진 글을 속독하듯이 낭독해버리면, 잘못된 단어 배열이나 어휘 오류를 대뇌가 무의식중에 상상으로 채워 정상 문장으로 오인하는 인지 왜곡이 일어납니다. 따라서 낭독할 때는 한 자 한 자 눈으로 손끝을 짚어가며 짚어 읽듯 느리게 발음해야 합니다. 특히 문장의 마침표와 쉼표를 과장되게 길게 쉬어가며 읽어야 문장 간의 호흡 길이와 운율적 완성도를 객관적인 지각 데이터로 뇌에 공급할 수 있습니다.",
-      "en": "When reading aloud for self-correction, avoid rushing. Speeding through text allows the brain to anticipate what is written, leading to confirmation bias where typos and logical gaps are unconsciously overlooked. Instead, read slowly and deliberately, finger-pointing at each word if necessary. Emphasize commas and periods with exaggerated pauses to verify the natural breath rhythm and cadences of your writing.",
-      "ja": "朗読校正の習慣を取り入れる際に避けるべきなのは、速く大雑把に読み流すことです。すでに目で見て慣れている文章を速読するように朗読してしまうと、誤った単語の配列や語彙の誤りを、大脳が無意識のうちに想像で補って正常な文章と誤認する認知バイアスが発生します。したがって、朗読するときは一字一字、目で追いかけたり指先で指し示したりしながら、ゆっくりと発声する必要があります。特に文章の句点（。）や読点（、）では大袈裟なほど長めに間を置いて読むことで、文章間の呼吸の長さと韻律の完成度を客観的な知覚データとして脳に供給することができます。",
-      "zh": "进行朗读退稿时，最应避免的是过于快速地敷衍阅读。如果像速读一样朗读大脑已经看习惯的文字，大脑就会无意识地用想象填补错误的词序或词汇漏洞，产生将错误句子误认为正常句子的认知偏差。因此，朗读时应当用手指着字，一个字一个字缓慢地发音。特别是句号和逗号处，应当做夸张的长久停顿，这样才能将句子间的呼吸长度和节奏完整度作为客观的知觉数据提供给大脑。",
-      "es": "Al leer en voz alta para autocorregirse, evite apresurarse. Acelerar el texto permite que el cerebro anticipe lo escrito, lo que lleva a un sesgo de confirmación donde los errores tipográficos y los vacíos lógicos se pasan por alto inconscientemente. En su lugar, lea lenta y deliberadamente, señalando cada palabra con el dedo si es necesario. Enfatice las comas y los puntos con pausas exageradas para verificar el ritmo respiratorio natural y las cadencias de su escritura.",
-      "fr": "Lors de la lecture à haute voix pour autocorrection, évitez de vous précipiter. Parcourir le texte trop rapidement permet au cerveau d'anticiper ce qui est écrit, ce qui conduit à un biais de confirmation où les fautes et les lacunes logiques sont inconsciemment ignorées. Au lieu de cela, lisez lentement et délibérément, en pointant chaque mot du doigt si nécessaire. Marquez les virgules et les points par des pauses exagérées pour vérifier le rythme respiratoire.",
-      "de": "Vermeiden Sie beim lauten Vorlesen zur Selbstkorrektur Eile. Schnelles Durchgehen des Textes ermöglicht es dem Gehirn, das Geschriebene vorwegzunehmen, was zu einem Bestätigungsfehler führt, bei dem Tippfehler und logische Lücken unbewusst übersehen werden. Lesen Sie stattdessen langsam und bewusst und zeigen Sie bei Bedarf mit dem Finger auf jedes Wort. Heben Sie Kommata und Punkte mit übertriebenen Pausen hervor, um den natürlichen Atemrhythmus zu überprüfen.",
-      "pt": "Ao ler em voz alta para autocorreção, evite pressas. Ler o texto rapidamente permite que o cérebro antecipe o que está escrito, levando a um viés de confirmação onde erros de digitação e lacunas lógicas são inconscientemente ignorados. Em vez disso, leia lenta e deliberadamente, apontando para cada palavra com o dedo, se necessário. Enfatize vírgulas e pontos com pausas exageradas para verificar o ritmo respiratório.",
-      "id": "Saat membaca keras untuk koreksi mandiri, hindari terburu-buru. Membaca terlalu cepat membuat otak mengantisipasi apa yang tertulis, menyebabkan bias konfirmasi di mana salah ketik dan celah logika terabaikan secara tidak sadar. Sebaliknya, bacalah secara perlahan dan sengaja, menunjuk setiap kata jika perlu. Tekankan koma dan titik dengan jeda yang dilebih-lebihkan untuk memverifikasi ritme napas."
+      "ko": "낭독 퇴고 습관을 가질 때 피해야 할 것은 너무 빠르게 대충 훑어 읽는 것입니다. 뇌가 이미 눈으로 익숙해진 글을 속독하듯이 낭독해버리면, 잘못된 단어 배열이나 어휘 오류를 대뇌가 무의식중에 상상으로 채워 정상 문장으로 오인하는 인지 왜곡이 일어납니다. 따라서 낭독할 때는 한 자 한 자 눈으로 손끝을 짚어가며 짚어 읽듯 느리게 발음해야 합니다. 특히 문장의 마침표와 쉼표를 과장되게 길게 쉬어가며 읽어야 문장 간의 호흡 길이와 운율적 완성도를 객관적인 지각 데이터로 뇌에 공급할 수 있습니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "집필 완료된 초본 확보와 서서 읽기 준비",
-          "en": "Securing Draft and Preparing to Stand",
-          "ja": "執筆完了した草稿の準備と起立",
-          "zh": "准备好写完的初稿并站立",
-          "es": "Asegurar el borrador y prepararse para ponerse de pie",
-          "fr": "Sécuriser le brouillon et se préparer à se lever",
-          "de": "Entwurf sichern und zum Aufstehen bereitmachen",
-          "pt": "Garantir o Rascunho e Preparar para Ficar de Pé",
-          "id": "Menyiapkan Draf dan Bersiap Berdiri"
+          "ko": "집필 완료된 초본 확보와 서서 읽기 준비"
         },
         "text": {
-          "ko": "퇴고가 필요한 기획안이나 원고를 출력하거나 모니터 화면을 마주합니다. 의자에 앉아 있으면 폐의 가스 교환 능력이 떨어져 소리를 내기 어려우므로, 상체를 곧게 펴고 일어서서 낭독할 자세를 잡습니다.",
-          "en": "Secure a printed copy of your draft or position your monitor at eye level. Stand up straight and expand your chest; sitting down restricts lung capacity and limits the vocal energy needed to project your words.",
-          "ja": "推敲が必要な企画書や原稿を印刷するか、モニター画面に向き合います。椅子に座っていると肺のガス交換能力が低下し、声を出しにくくなるため、上体をまっすぐ伸ばして立ち上がり、朗読する姿勢を整えます。",
-          "zh": "打印出需要修改的企划案或稿件，或者面对显示器屏幕。坐在椅子上时，肺部的气体交换能力会下降，导致难以发声，因此应当挺直上身站立起来，摆好朗读的姿势。",
-          "es": "Asegure una copia impresa de su borrador o coloque su monitor a la altura de los ojos. Póngase de pie con la espalda recta y expanda el pecho; sentarse restringe la capacidad pulmonar y limita la energía vocal necesaria para proyectar sus palabras.",
-          "fr": "Munissez-vous d'une copie imprimée de votre brouillon ou positionnez votre écran à hauteur des yeux. Tenez-vous droit et ouvrez la poitrine ; être assis limite la capacité pulmonaire et restreint l'énergie vocale nécessaire pour projeter vos mots.",
-          "de": "Sichern Sie sich einen Ausdruck Ihres Entwurfs oder positionieren Sie Ihren Monitor auf Augenhöhe. Stellen Sie sich aufrecht hin und weiten Sie Ihre Brust; Sitzen schränkt das Lungenvolumen ein und begrenzt die für die Stimmprojektion erforderliche Energie.",
-          "pt": "Garanta uma cópia impressa do seu rascunho ou posicione o seu monitor ao nível dos olhos. Fique de pé com a postura correta e expanda o peito; sentar restringe a capacidade pulmonar e limita a energia vocal necessária para projetar as suas palavras.",
-          "id": "Siapkan salinan cetak dari draf Anda atau posisikan monitor sejajar mata. Berdirilah tegak dan busungkan dada; duduk membatasi kapasitas paru-paru dan membatasi energi vokal yang dibutuhkan untuk memproyeksikan kata-kata Anda."
+          "ko": "퇴고가 필요한 기획안이나 원고를 출력하거나 모니터 화면을 마주합니다. 의자에 앉아 있으면 폐의 가스 교환 능력이 떨어져 소리를 내기 어려우므로, 상체를 곧게 펴고 일어서서 낭독할 자세를 잡습니다."
         }
       },
       {
         "name": {
-          "ko": "인위적 이스케이프 없는 정밀 낭독",
-          "en": "Precision Reading Without Omissions",
-          "ja": "人為的省略のない精密な朗読",
-          "zh": "无遗漏的精确朗读",
-          "es": "Lectura de precisión sin omisiones",
-          "fr": "Lecture de précision sans omissions",
-          "de": "Präzises Vorlesen ohne Auslassungen",
-          "pt": "Leitura de Precisão sem Omissões",
-          "id": "Membaca Presisi Tanpa Kelonggaran"
+          "ko": "인위적 이스케이프 없는 정밀 낭독"
         },
         "text": {
-          "ko": "글을 속으로 채워 읽지 말고, 실제 귀에 소리가 쟁쟁하게 울릴 만큼의 음량으로 한 줄씩 또박또박 낭독합니다. 쉼표(,)에서는 한 박자, 마침표(.)에서는 두 박자를 완전히 쉬어가며 읽어야 흐름의 어긋남을 쉽게 잡아낼 수 있습니다.",
-          "en": "Read each sentence slowly and clearly at a volume that echoes in the room. Pause deliberately for one beat at commas and two beats at periods to physically measure the respiratory flow of the prose.",
-          "ja": "文章を頭の中だけで補完して読まず、実際に耳に声が響くほどの音量で一行ずつはっきりと朗読します。読点（、）では1拍、句点（。）では2拍完全に休んで読むことで、流れの不自然さを容易に見つけ出すことができます。",
-          "zh": "不要在脑海中默念补充阅读，而要以让耳朵能清晰听到声音的音量，逐行字正腔圆地朗读。在逗号（,）处停顿一拍，在句号（.）处完整停顿两拍，这样才能轻易发现语流的不连贯之处。",
-          "es": "Lea cada frase de forma lenta y clara a un volumen que resuene en la habitación. Pause deliberadamente un tiempo en las comas y dos tiempos en los puntos para medir físicamente el flujo respiratorio de la prosa.",
-          "fr": "Lisez chaque phrase lentement et distinctement à un volume suffisant. Marquez une pause délibérée d'un temps aux virgules et de deux temps aux points pour mesurer physiquement le flux respiratoire de la prose.",
-          "de": "Lesen Sie jeden Satz langsam und deutlich in einer Lautstärke vor, die im Raum hallt. Machen Sie bei Kommata bewusst eine Pause von einem Schlag und bei Punkten von zwei Schlägen, um den Atemfluss der Prosa physisch zu messen.",
-          "pt": "Leia cada frase lenta e claramente num volume que ecoe na sala. Faça uma pausa deliberada de um tempo nas vírgulas e dois tempos nos pontos para medir fisicamente o fluxo respiratório da prosa.",
-          "id": "Bacalah setiap kalimat secara perlahan dan jelas dengan volume suara yang bergema di dalam ruangan. Jeda dengan sengaja satu ketukan pada koma dan dua ketukan pada titik untuk mengukur aliran napas prosa secara fisik."
+          "ko": "글을 속으로 채워 읽지 말고, 실제 귀에 소리가 쟁쟁하게 울릴 만큼의 음량으로 한 줄씩 또박또박 낭독합니다. 쉼표(,)에서는 한 박자, 마침표(.)에서는 두 박자를 완전히 쉬어가며 읽어야 흐름의 어긋남을 쉽게 잡아낼 수 있습니다."
         }
       },
       {
         "name": {
-          "ko": "호흡 병목 지점의 청각적 감지와 즉각적 교정",
-          "en": "Auditory Detection and Immediate Edit",
-          "ja": "呼吸のボトルネック箇所の聴覚的感知と即時修正",
-          "zh": "听觉发现呼吸瓶颈并立即修改",
-          "es": "Detección auditiva y edición inmediata",
-          "fr": "Détection auditive et correction immédiate",
-          "de": "Auditive Erkennung und sofortige Bearbeitung",
-          "pt": "Deteção Auditiva e Edição Imediata",
-          "id": "Deteksi Pendengaran dan Koreksi Segera"
+          "ko": "호흡 병목 지점의 청각적 감지와 즉각적 교정"
         },
         "text": {
-          "ko": "낭독 중 혀가 꼬이거나, 숨이 부족하여 목소리가 갈라지거나, 혹은 귀로 들었을 때 논리가 매끄럽지 않은 병목 지점을 찾습니다. 해당 문장은 뇌의 처리 부하가 높다는 증거이므로, 단어를 교체하거나 긴 문장을 두 개로 쪼개어 단순화합니다.",
-          "en": "Mark any spot where you stumble, lose breath, or feel the phrasing sounds unnatural. These bottleneck areas indicate high cognitive processing loads for the reader. Simplify them immediately by splitting long sentences or choosing precise verbs.",
-          "ja": "朗読中に舌がもつれたり、息切れして声がかすれたり、あるいは耳で聴いたときに論理がスムーズでないボトルネック箇所を探します。該当する文章は脳の処理負荷が高い証拠であるため、言葉を入れ替えたり、長い文章を2つに分割して単純化します。",
-          "zh": "找出朗读过程中舌头打结、因气短导致声音沙哑，或耳朵听起来逻辑不通顺的瓶颈地带。这些句子表明大脑的处理负荷过高，因此应当通过更换词汇或将长句拆分为两个来简化它们。",
-          "es": "Marque cualquier punto donde tropiece, pierda el aliento o sienta que la redacción suena poco natural. Estas áreas de cuello de botella indican altas cargas de procesamiento cognitivo para el lector. Simplifíquelas inmediatamente dividiendo las oraciones largas o eligiendo verbos precisos.",
-          "fr": "Notez tout passage où vous trébuchez, manquez de souffle ou trouvez la formulation peu naturelle. Ces goulots d'étranglement indiquent une charge cognitive élevée. Simplifiez-les immédiatement en divisant les longues phrases.",
-          "de": "Markieren Sie jede Stelle, an der Sie stolpern, Ihnen der Atem ausgeht oder sich die Formulierung unnatürlich anfühlt. Diese Engpässe weisen auf eine hohe kognitive Belastung des Lesers hin. Vereinfachen Sie sie sofort, indem Sie lange Sätze aufteilen.",
-          "pt": "Marque qualquer ponto onde tropece, perca o fôlego ou sinta que a frase soa pouco natural. Estas áreas de estrangulamento indicam elevadas cargas de processamento cognitivo para o leitor. Simplifique-as imediatamente dividindo frases longas.",
-          "id": "Tandai bagian mana pun di mana Anda tersandung, kehilangan napas, o merasa kalimatnya terdengar tidak alami. Area hambatan ini menunjukkan beban pemrosesan kognitif yang tinggi bagi pembaca. Sederhanakan segera dengan memecah kalimat panjang."
+          "ko": "낭독 중 혀가 꼬이거나, 숨이 부족하여 목소리가 갈라지거나, 혹은 귀로 들었을 때 논리가 매끄럽지 않은 병목 지점을 찾습니다. 해당 문장은 뇌의 처리 부하가 높다는 증거이므로, 단어를 교체하거나 긴 문장을 두 개로 쪼개어 단순화합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "조용한 사무실이나 카페에서 작업할 때도 소리 내어 읽어야 하나요?",
-          "en": "How can I practice this in a quiet office or public cafe?",
-          "ja": "静かなオフィスやカフェで作業するときも声に出して読まなければなりませんか？",
-          "zh": "在安静 convened 的办公室或咖啡厅工作时，也必须出声朗读吗？",
-          "es": "¿Cómo puedo practicar esto en una oficina silenciosa o en un café público?",
-          "fr": "Comment puis-je pratiquer cela dans un bureau calme ou un café public ?",
-          "de": "Wie kann ich das in einem ruhigen Büro oder einem öffentlichen Café praktizieren?",
-          "pt": "Como posso praticar isto num escritório silencioso ou num café público?",
-          "id": "Bagaimana saya bisa mempraktikkan ini di kantor yang sepi atau kafe umum?"
+          "ko": "조용한 사무실이나 카페에서 작업할 때도 소리 내어 읽어야 하나요?"
         },
         "answer": {
-          "ko": "공공장소에서 크게 말하는 것은 곤란하므로, 그럴 때는 들릴락 말락 한 작은 속삭임(Sub-whisper)으로 웅얼거리며 입술과 혀의 물리적 운동을 가동하십시오. 입모양과 조음 기관을 직접 움직이는 것만으로도 단순 묵독에 비해 뇌의 운동 피질 자극을 이끌어내어 오류 감지 성능을 어느 정도 얻을 수 있습니다.",
-          "en": "If you cannot speak loudly, whisper softly under your breath, deliberately moving your lips and tongue. Engaging the vocal motor system, even silently, activates the motor cortex and aids error-monitoring far better than purely silent reading.",
-          "ja": "公共の場所で大声を出すのは難しいため、そのようなときは聞こえるか聞こえないか程度の微小な囁き（Sub-whisper）で呟き、唇と舌の物理的な運動を稼働させてください。口の形と構音器官を直接動かすだけでも、単なる黙読に比べて脳の運動野の刺激を引き出し、エラー検出能力をある程度得ることができます。",
-          "zh": "在公共场所大声说话确实不便，此时请以几乎听不见的细微耳语（Sub-whisper）进行喃喃自语，启动嘴唇和舌头的物理运动。仅仅直接移动嘴型和发音器官，与单纯的默读相比，也能够引发生命运动皮层的刺激，从而在一定程度上获得错误感知的效果。",
-          "es": "Si no puede hablar en voz alta, susurre suavemente en voz baja, moviendo deliberadamente los labios y la lengua. Involucrar el sistema motor vocal, incluso en silencio, activa la corteza motora y ayuda a monitorear los errores mucho mejor que la lectura puramente silenciosa.",
-          "fr": "Si vous ne pouvez pas parler fort, chuchotez doucement, en bougeant délibérément vos lèvres et votre langue. Stimuler le système moteur vocal, même silencieusement, active le cortex moteur et aide à la détection d'erreurs.",
-          "de": "Wenn Sie nicht laut sprechen können, flüstern Sie leise vor sich hin und bewegen Sie bewusst Lippen und Zunge. Die Einbindung des stimmlichen Motorsystems, selbst im Stillen, aktiviert den motorischen Kortex und hilft bei der Fehlerüberwachung.",
-          "pt": "Se não puder falar alto, sussurre suavemente, movendo deliberadamente os lábios e a língua. Envolver o sistema motor vocal, mesmo em silêncio, ativa o córtex motor e ajuda na monitorização de erros muito melhor do que a leitura puramente silenciosa.",
-          "id": "Jika Anda tidak dapat berbicara keras, berbisiklah dengan lembut, gerakkan bibir dan lidah Anda dengan sengaja. Melibatkan sistem motorik vokal, bahkan dalam diam, mengaktifkan korteks motorik dan membantu pemantauan kesalahan jauh lebih baik daripada membaca dalam hati."
+          "ko": "공공장소에서 크게 말하는 것은 곤란하므로, 그럴 때는 들릴락 말락 한 작은 속삭임(Sub-whisper)으로 웅얼거리며 입술과 혀의 물리적 운동을 가동하십시오. 입모양과 조음 기관을 직접 움직이는 것만으로도 단순 묵독에 비해 뇌의 운동 피질 자극을 이끌어내어 오류 감지 성능을 어느 정도 얻을 수 있습니다."
         }
       }
-    ],
-    "pubDate": "2026-01-20",
-    "updatedDate": "2026-01-20"
+    ]
   }
 }

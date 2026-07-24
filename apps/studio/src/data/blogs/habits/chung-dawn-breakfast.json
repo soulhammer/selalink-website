@@ -1,190 +1,62 @@
 {
   "chung-dawn-breakfast": {
     "title": {
-      "ko": "새벽을 여는 설렘: 정주영 회장의 5시 가족 조식과 도보 루틴",
-      "en": "Excitement Opening the Dawn: Chairman Chung Ju-yung's 5 AM Family Breakfast and Walking Routine",
-      "ja": "夜明けを開くときめき：鄭周永会長の5時家族朝食と徒歩ルーティン",
-      "zh": "开启黎明的向往：郑周永会长的五点家庭早餐与步行惯例",
-      "es": "La emoción de abrir el amanecer: El desayuno familiar de las 5 a. m. y la rutina de caminar del presidente Chung Ju-yung",
-      "fr": "L'excitation d'ouvrir l'aube : Le petit-déjeuner familial de 5h et la routine de marche du président Chung Ju-yung",
-      "de": "Die Vorfreude auf den Morgengrauen: Präsident Chung Ju-yungs Familienfrühstück um 5 Uhr und seine Gehroutine",
-      "pt": "A emoção de abrir o amanhecer: O café da manhã em família às 5h e a rotina de caminhada do presidente Chung Ju-yung",
-      "id": "Semangat Menyambut Fajar: Rutinitas Sarapan Keluarga Jam 5 Pagi dan Jalan Kaki Ketua Chung Ju-yung"
+      "ko": "새벽을 여는 설렘: 정주영 회장의 5시 가족 조식과 도보 루틴"
     },
     "description": {
-      "ko": "현대그룹 창업주 정주영 회장이 평생 지켜온 매일 새벽 4시 기상과 아침 가족 소통. 아침 유산소 운동과 정서적 교류가 하루의 코르티솔 분비를 안정시키고 활력을 주는 원리를 알아봅니다.",
-      "en": "The daily 4 AM wake-up and family morning communication Chairman Chung Ju-yung kept for life. Learn how morning exercise and emotional connection stabilize cortisol.",
-      "ja": "現代グループ創業者・鄭周永会長が生涯守ってきた毎日午前4時起床と朝の家族疎通。朝の有酸素運動と情緒的交流が、一日のコルチゾール分泌を安定させ活力を与える原理を探ります。",
-      "zh": "现代集团创始人郑周永会长终生坚守的每天清晨四点起床与晨间家庭沟通。了解晨间有氧运动和情感交流如何稳定一天的皮质醇分泌并注入活力。",
-      "es": "El despertar diario a las 4 a. m. y la comunicación familiar matutina que el presidente Chung Ju-yung mantuvo de por vida. Aprenda cómo el ejercicio matutino y la conexión emocional estabilizan el cortisol.",
-      "fr": "Le réveil quotidien à 4h et la communication familiale matinale que le président Chung Ju-yung a gardés toute sa vie. Apprenez comment le sport matinal stabilise le cortisol.",
-      "de": "Das tägliche Aufstehen um 4 Uhr morgens und der familiäre Austausch, den Präsident Chung Ju-yung ein Leben lang pflegte. Erfahren Sie, wie morgendlicher Sport und emotionale Nähe Cortisol regulieren.",
-      "pt": "O despertar diário às 4h e a comunicação familiar matinal que o presidente Chung Ju-yung manteve por toda a vida. Aprenda como o exercício matinal e a conexão emocional estabilizam o cortisol.",
-      "id": "Rutinitas bangun jam 4 pagi dan komunikasi keluarga yang dijaga Ketua Chung Ju-yung seumur hidup. Pelajari bagaimana olahraga pagi dan koneksi emosional menstabilkan kortisol."
+      "ko": "현대그룹 창업주 정주영 회장이 평생 지켜온 매일 새벽 4시 기상과 아침 가족 소통. 아침 유산소 운동과 정서적 교류가 하루의 코르티솔 분비를 안정시키고 활력을 주는 원리를 알아봅니다."
     },
     "authority": {
-      "ko": "정주영 회장 자서전 『이 아침에도 설레이며』 고증 및 하버드 의과대학(Harvard Medical School) 수면 및 생체 주기 연구",
-      "en": "Chairman Chung's Autobiography and Harvard Medical School Research on Sleep and Circadian Rhythm",
-      "ja": "鄭周永会長自伝『この朝にもときめいて』考証およびハーバード医科大学（Harvard Medical School）の睡眠＆生体周期研究",
-      "zh": "郑周永会长自传《在此清晨亦向往》考证及哈佛医学院(Harvard Medical School)关于睡眠与昼夜节律的研究",
-      "es": "Autobiografía del presidente Chung e investigación de la Facultad de Medicina de Harvard (Harvard Medical School) sobre el sueño y el ritmo circadiano",
-      "fr": "Autobiographie du président Chung et recherche de la Harvard Medical School sur le sommeil et le rythme circadien",
-      "de": "Präsident Chungs Autobiografie und Forschung der Harvard Medical School über Schlaf und zirkadianen Rhythmus",
-      "pt": "Autobiografia do presidente Chung e pesquisa da Harvard Medical School sobre sono e ritmo circadiano",
-      "id": "Autobiografi Ketua Chung dan Penelitian Harvard Medical School tentang Tidur dan Ritme Sirkadian"
+      "ko": "Chung Dawn Breakfast 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "대한민국 경제 고속 성장 신화의 상징이자 현대그룹의 창업주인 아산 정주영 회장. 거대한 중공업과 건설 프로젝트를 진두지휘하며 수많은 불가능을 가능으로 바꿨던 그에게는 평생 지켜온 독특한 아침 루틴이 있었습니다. 매일 새벽 4시 이전에 기상하여 청운동 자택에 새벽 5시 모든 식구들과 아침 식사를 나누며 소통하고, 그 후 계동 사옥까지 활기차게 도보로 출근했던 것입니다. 새벽의 고요와 활력이 준 인지적 보상을 알아봅니다.",
-      "en": "Chairman Chung Ju-yung, the founder of Hyundai Group and symbol of South Korea's high economic growth. He had a unique morning routine he kept for life: waking up before 4 AM daily, having breakfast with all family members at 5 AM, and walking to the office in Gaedong. Explore the cognitive rewards offered by the quiet and vitality of dawn.",
-      "ja": "大韓民国経済の高度成長神話の象徴であり、現代グループの創業者である峨山・鄭周永会長。巨大な重工業と建設プロジェクトを陣頭指揮し、数々の不可能を可能に変えた彼には、生涯守り続けたユニークな朝のルーティンがありました。毎日午前4時前に起床し、清雲洞の自宅で午前5時にすべての家族と朝食を共にし、その後桂洞の社屋まで活発に歩いて出勤したのです。夜明けの静けさと活力が与えた認知的補償を探ります。",
-      "zh": "通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
-      "es": "El presidente Chung Ju-yung, fundador del Grupo Hyundai. Tenía una rutina matutina única: despertarse antes de las 4 a. m., desayunar con su familia a las 5 a. m. y caminar a la oficina en Gaedong. Explore las recompensas cognitivas del amanecer.",
-      "fr": "Le président Chung Ju-yung, fondateur du groupe Hyundai. Il suivait une routine matinale unique : réveil avant 4h, petit-déjeuner en famille à 5h et marche jusqu'au bureau à Gaedong. Découvrez les bienfaits de l'aube.",
-      "de": "Präsident Chung Ju-yung, Gründer der Hyundai Group. Er hatte eine einzigartige Morgenroutine: Aufstehen vor 4 Uhr morgens, Familienfrühstück um 5 Uhr und Fußmarsch ins Büro in Gaedong. Erfahren Sie mehr über die kognitiven Vorteile dieser Gewohnheit.",
-      "pt": "O presidente Chung Ju-yung, fundador do Grupo Hyundai. Ele tinha uma rotina matinal única: acordar antes das 4h diariamente, tomar café da manhã com a família às 5h e caminhar até o escritório em Gaedong. Explore as recompensas cognitivas do amanhecer.",
-      "id": "Ketua Chung Ju-yung, pendiri Hyundai Group dan simbol pertumbuhan ekonomi tinggi Korea Selatan. Dia memiliki rutinitas pagi unik seumur hidup: bangun sebelum jam 4 pagi, sarapan bersama keluarga jam 5 pagi, dan berjalan kaki ke kantor di Gaedong. Temukan manfaat kognitif dari fajar."
+      "ko": "\"새벽에 일어날 때의 설렘이 하루의 성공을 결정한다.\" ☀️\n\n대한민국 경제 고속 성장 신화의 상징이자 현대그룹의 창업주인 아산 정주영 회장. 거대한 중공업과 건설 프로젝트를 진두지휘하며 수많은 불가능을 가능으로 바꿨던 그에게는 평생 지켜온 독특한 아침 루틴이 있었습니다. 매일 새벽 4시 이전에 기상하여 청운동 자택에 새벽 5시 모든 식구들과 아침 식사를 나누며 소통하고, 그 후 계동 사옥까지 활기차게 도보로 출근했던 것입니다. 새벽의 고요와 활력이 준 인지적 보상을 알아봅니다.\n\n많은 사람이 하루의 스트레스에 억눌린 채 무거운 마음으로 아침 늦게 일어나 허겁지겁 출근길에 오르곤 합니다. 하지만 정주영 회장은 저서에서 \"매일 아침 눈을 뜰 때 오늘은 또 무슨 즐거운 일을 할까 하는 설렘에 새벽 일찍 일어났다\"고 술회했습니다. 그에게 아침 식사 테이블은 단순한 식사 공간을 넘어 대가족의 끈끈한 유대 속에서 안정을 확인하는 멘탈의 요람이었고, 조용한 도보는 뇌를 활성화하는 완벽한 인지 예열 코스였습니다.\n\n오늘 포스트에서는 정주영 회장의 '새벽 기상과 도보 루틴'이 가지는 신경생리학적 효과를 밝히고, 현대인들이 피로에 찌든 아침을 탈피하고 가장 긍정적이고 지적인 주도성 속에서 하루를 개시하기 위한 3단계 실천 방안을 제시합니다."
     },
     "whyTitle": {
-      "ko": "새벽 빛과 아침 움직임이 뇌를 깨우는 신경생리학",
-      "en": "Neurophysiology of Dawn Light and Morning Movement Waking the Brain",
-      "ja": "夜明けの光と朝の動きが脳を呼び起こす神経生理学",
-      "zh": "清晨光线与晨间运动唤醒大脑的神经生理学",
-      "es": "Neurofisiología de la luz del amanecer y el movimiento matutino que despiertan el cerebro",
-      "fr": "La neurophysiologie de la lumire de l'aube et du mouvement matinal",
-      "de": "Neurophysiologie des Morgenlichts und der Bewegung beim Aufwachen",
-      "pt": "Neurofisiologia da luz do amanhecer e movimento matinal despertando o cérebro",
-      "id": "Neurofisiologi Cahaya Fajar dan Gerakan Pagi yang Membangunkan Otak"
+      "ko": "새벽 빛과 아침 움직임이 뇌를 깨우는 신경생리학"
     },
     "whyDesc": {
-      "ko": "일정한 아침 기상 후 야외에서 햇빛을 마주하며 걷는 행위는 뇌의 <strong>멜라토닌(Melatonin)</strong> 분비를 완전히 차단하고, 각성과 활력을 돋우는 세로토닌과 코르티솔 분비를 정상화합니다. 또한 이른 아침 가족들과 대화를 나누는 정서적 안정 의식은 불안을 조절하고 두뇌 회전을 신속하게 가속하여, 복잡한 업무가 시작되기 전 하루에 사용할 최상의 인지적 인프라를 신속하게 설계해 줍니다.",
-      "en": "The act of facing sunlight outdoors and walking after waking up at a set time completely stops the brain's <strong>melatonin</strong> secretion, normalizing serotonin and cortisol. The emotional stability from morning family conversations lowers anxiety and accelerates brain rotation, setting up the best cognitive infrastructure.",
-      "ja": "一定の朝の起床後、屋外で太陽光を浴びながら歩く行為は、脳の<strong>メラトニン（Melatonin）</strong>分泌を完全に遮断し、覚醒と活力を高めるセロトニンとコルチゾールの分泌を正常化します。また、早朝に家族と対話をする情緒的安定の儀式は不安を調節し、頭の回転を急速に加速させ、複雑な業務が始まる前に一日に使用する最上の認知的インフラを迅速に設計してくれます。",
-      "zh": "在固定的晨间起床后，在室外迎着阳光步行的行为会完全阻断大脑的<strong>褪黑素（Melatonin）</strong>分泌，使促进觉醒和活力的血清素与皮质醇分泌正常化。此外，清晨与家人交流的情感稳定仪式能调节焦虑，迅速加速大脑运转，在复杂工作开始前，快速构建起一天所需的最佳认知基础。",
-      "es": "Caminar bajo la luz del sol después de despertarse detiene la secreción de <strong>melatonina</strong> del cerebro, normalizando la serotonina y el cortisol. La estabilidad de las conversaciones matutinas reduce la ansiedad y acelera el cerebro.",
-      "fr": "Marcher sous le soleil après le réveil bloque la sécrétion de <strong>mélatonine</strong>, normalisant la sérotonine et le cortisol. La stabilité des conversations matinales réduit l'anxiété et active le cerveau.",
-      "de": "Das Spazierengehen im Morgenlicht nach dem Aufstehen stoppt die <strong>Melatoninausschüttung</strong> des Gehirns und reguliert Serotonin und Cortisol. Familiäre Gespräche am Morgen bauen Angst ab und aktivieren den Geist.",
-      "pt": "Caminhar sob a luz do sol após acordar interrompe a secreção de <strong>melatonina</strong> do cérebro, normalizando a serotonina e o cortisol. A estabilidade das conversas matinais reduz a ansiedade e acelera o cérebro.",
-      "id": "Berjalan di bawah sinar matahari setelah bangun tidur menghentikan sekresi <strong>melatonin</strong> otak, menormalkan serotonin dan kortisol. Stabilitas emosional dari obrolan pagi menurunkan kecemasan dan mempercepat kerja otak."
+      "ko": "일정한 아침 기상 후 야외에서 햇빛을 마주하며 걷는 행위는 뇌의 <strong>멜라토닌(Melatonin)</strong> 분비를 완전히 차단하고, 각성과 활력을 돋우는 세로토닌과 코르티솔 분비를 정상화합니다. 또한 이른 아침 가족들과 대화를 나누는 정서적 안정 의식은 불안을 조절하고 두뇌 회전을 신속하게 가속하여, 복잡한 업무가 시작되기 전 하루에 사용할 최상의 인지적 인프라를 신속하게 설계해 줍니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions & Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen & Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan & Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "강박적인 새벽 기상이 성공을 보장하는 것은 아니며, 충분한 전체 수명 및 수면 시간이 보장되지 않은 무리한 조기 기상은 되려 만성 피로와 인지 저하를 가져옵니다. 따라서 기상 시간을 무조건 일찍 앞당기기 전에, 전날 밤 <strong>일정한 아침 취침 시간</strong>을 통제하여 7시간 내외의 수면을 선제적으로 지켜내는 지혜가 동반되어야 합니다.",
-      "en": "Compulsive dawn rising does not guarantee success. Excessive early rising without guaranteed total sleep duration brings chronic fatigue and cognitive decline. Therefore, before advancing wake-up time, you must control <strong>a set bedtime</strong> the night before to preserve around 7 hours of sleep.",
-      "ja": "強迫的な早朝起床が成功を保証するわけではなく、十分な全体的な睡眠時間が保障されない無理な早期起床は、かえって慢性疲労と認知低下をもたらします。そのため、起床時間を無条件に早く繰り上げる前に、前夜の<strong>一定の就寝時間</strong>をコントロールし、7時間前後の睡眠を先制的に守り抜く知恵が伴わなければなりません。",
-      "zh": "强迫性的清晨起床并不能保证成功，在没有保障充足总睡眠时间的情况下勉强早起，反而会导致慢性疲劳和认知功能下降。因此，在无条件提早起床时间前，必须配合前一晚控制<strong>固定的就寝时间</strong>，以主动保障7小时左右睡眠的智慧。",
-      "es": "Madrugar de forma compulsiva no garantiza el éxito. El madrugar en exceso sin dormir lo suficiente provoca fatiga crónica. Por lo tanto, antes de adelantar la hora de despertarse, debe controlar <strong>una hora fija para acostarse</strong>.",
-      "fr": "Se lever tôt de manière compulsive ne garantit pas le succès. Un réveil trop matinal sans sommeil suffisant entraîne une fatigue chronique. Avant d'avancer le réveil, contrôlez <strong>une heure de coucher fixe</strong>.",
-      "de": "Zwanghaftes Frühaustehen garantiert keinen Erfolg. Schlafmangel führt zu chronischer Müdigkeit. Kontrollieren Sie daher Ihre <strong>Schlafenszeit</strong> am Vorabend, um etwa 7 Stunden Schlaf zu sichern, bevor Sie früher aufstehen.",
-      "pt": "Acordar cedo de forma compulsiva não garante o sucesso. O despertar precoce sem sono suficiente causa fadiga crônica. Portanto, antes de adiantar a hora de acordar, você deve controlar <strong>uma hora de dormir fixa</strong>.",
-      "id": "Bangun pagi secara obsesif tidak menjamin kesuksesan. Bangun terlalu pagi tanpa waktu tidur yang cukup memicu kelelahan kronis. Oleh karena itu, sebelum memajukan waktu bangun, Anda harus mengontrol <strong>waktu tidur yang konsisten</strong>."
+      "ko": "강박적인 새벽 기상이 성공을 보장하는 것은 아니며, 충분한 전체 수명 및 수면 시간이 보장되지 않은 무리한 조기 기상은 되려 만성 피로와 인지 저하를 가져옵니다. 따라서 기상 시간을 무조건 일찍 앞당기기 전에, 전날 밤 <strong>일정한 아침 취침 시간</strong>을 통제하여 7시간 내외의 수면을 선제적으로 지켜내는 지혜가 동반되어야 합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "규칙적인 초아침 기상 시간의 세팅",
-          "en": "Setting a Regular Early Dawn Wake-Up Time",
-          "ja": "規則的な早朝起床時間の設定",
-          "zh": "设定规律的清晨起床时间",
-          "es": "Establecer una hora regular para despertarse temprano al amanecer",
-          "fr": "Dfinir une heure de rveil matinale rgulire",
-          "de": "Festlegung einer regelmäßigen frühen Aufstehzeit",
-          "pt": "Configurando uma hora regular de despertar de manhã cedo",
-          "id": "Menetapkan Waktu Bangun Pagi yang Teratur"
+          "ko": "규칙적인 초아침 기상 시간의 세팅"
         },
         "text": {
-          "ko": "일과 시작 시간의 구속 없이 매일 일정한 이른 아침 시간(예: 오전 5시~6시)에 일어나는 기상 리듬을 고정합니다.",
-          "en": "Fix a waking rhythm where you rise at a set early morning time (e.g., 5 AM to 6 AM) daily, regardless of work start time constraints.",
-          "ja": "一日の開始時間に拘束されず、毎日一定の早朝の時間（例：午前5時〜6時）に起きる起床リズムを固定します。",
-          "zh": "不受工作开始时间的约束，固定每天在清晨特定时间（例如：早上5点至6点）起床的作息节律。",
-          "es": "Fije un ritmo de vigilia en el que se levante a una hora fija de la mañana (por ejemplo, de 5 a. m. a 6 a. m.) todos los días.",
-          "fr": "Fixez un rythme de réveil régulier (ex: entre 5h et 6h) chaque jour, indépendamment de vos horaires de travail.",
-          "de": "Etablieren Sie einen festen Aufsteh-Rhythmus am frühen Morgen (z. B. 5 bis 6 Uhr), unabhängig von Arbeitszeiten.",
-          "pt": "Fixe um ritmo de despertar em que se levante a uma hora definida de manhã cedo (por exemplo, 5h às 6h) todos os dias.",
-          "id": "Tetapkan ritme bangun pagi di mana Anda bangun pada waktu yang sama (misalnya, jam 5 hingga 6 pagi) setiap hari."
+          "ko": "일과 시작 시간의 구속 없이 매일 일정한 이른 아침 시간(예: 오전 5시~6시)에 일어나는 기상 리듬을 고정합니다."
         }
       },
       {
         "name": {
-          "ko": "간단한 대화 조식 및 감정 교류 실행",
-          "en": "Running a Simple Breakfast Conversation and Emotional Exchange",
-          "ja": "簡単な朝食対話と感情交流の実行",
-          "zh": "进行简单的早餐对话与情感交流",
-          "es": "Conversación simple en el desayuno e intercambio emocional",
-          "fr": "Petit-djeuner simple, conversation et change motionnel",
-          "de": "Gemeinsames einfaches Frühstück und emotionaler Austausch",
-          "pt": "Conversa simples no café da manhã e troca emocional",
-          "id": "Melakukan Percakapan Sarapan Sederhana dan Pertukaran Emosional"
+          "ko": "간단한 대화 조식 및 감정 교류 실행"
         },
         "text": {
-          "ko": "기상 직후 간단하게 과일이나 아침 식사를 준비하여 가족들과 눈을 맞추고 짧은 긍정적 안부 대화를 나누며 뇌를 깨웁니다.",
-          "en": "Prepare a light breakfast or fruit right after waking, make eye contact with family, and have a short positive conversation to wake the brain.",
-          "ja": "起床直後に簡単な果物や朝食を準備し、家族と目を合わせて短い肯定的な挨拶の対話を交わすことで脳を目覚めさせます。",
-          "zh": "起床后立即准备简单的水果或早餐，与家人进行眼神交流并进行简短的积极问候，以此唤醒大脑。",
-          "es": "Prepare un desayuno ligero justo después de despertarse, haga contacto visual con su familia y tenga una breve conversación.",
-          "fr": "Préparez un petit-déjeuner léger après le réveil, établissez un contact visuel avec votre famille et discutez brièvement.",
-          "de": "Bereiten Sie direkt nach dem Aufstehen ein leichtes Frühstück zu, suchen Sie den Kontakt zur Familie und führen Sie ein kurzes Gespräch.",
-          "pt": "Prepare um café da manhã leve logo após acordar, faça contato visual com a família e tenha uma breve conversa positiva.",
-          "id": "Siapkan sarapan ringan atau buah tepat setelah bangun tidur, lakukan kontak mata dengan keluarga, dan lakukan percakapan singkat."
+          "ko": "기상 직후 간단하게 과일이나 아침 식사를 준비하여 가족들과 눈을 맞추고 짧은 긍정적 안부 대화를 나누며 뇌를 깨웁니다."
         }
       },
       {
         "name": {
-          "ko": "빛이 있는 야외 도보 출근 혹은 산책",
-          "en": "Outdoor Walk or Commute Under Daylight",
-          "ja": "光のある屋外の徒歩出勤または散歩",
-          "zh": "在有光线的户外步行通勤或散步",
-          "es": "Caminata al aire libre o viaje diario bajo la luz del día",
-          "fr": "Marche ou trajet extrieur sous la lumire du jour",
-          "de": "Gehen zur Arbeit oder Spaziergang im Tageslicht",
-          "pt": "Caminhada ao ar livre ou trajeto diário sob a luz do dia",
-          "id": "Jalan Kaki atau Perjalanan Luar Ruangan di bawah Sinar Matahari"
+          "ko": "빛이 있는 야외 도보 출근 혹은 산책"
         },
         "text": {
-          "ko": "집을 나서서 15~30분간 야외 햇빛을 섭취하며 가볍게 걸어서 출근하거나 공원을 걸어 활성 호르몬 세팅을 완료합니다.",
-          "en": "Leave the house and walk lightly for 15 to 30 minutes under outdoor sunlight to commute or walk in a park, completing hormone setting.",
-          "ja": "家を出て15〜30分間屋外の太陽光を浴びながら軽く歩いて出勤するか、公園を歩くことで活性ホルモンの設定を完了します。",
-          "zh": "走出家门，在户外阳光下轻轻步行15至30分钟通勤或在公园散步，以此完成活性激素的设定。",
-          "es": "Salga de casa y camine ligeramente durante 15 a 30 minutos bajo la luz del sol para ir al trabajo o caminar por un parque.",
-          "fr": "Sortez et marchez 15 à 30 minutes sous le soleil pour aller au travail ou vous promener dans un parc pour stimuler vos hormones.",
-          "de": "Gehen Sie nach draußen und spazieren Sie 15 bis 30 Minuten im Tageslicht zur Arbeit, um die Hormoneinstellung abzuschließen.",
-          "pt": "Saia de casa e caminhe levemente por 15 a 30 minutos sob a luz do sol para ir ao trabalho ou caminhar em um parque.",
-          "id": "Keluar rumah dan berjalan santai selama 15 hingga 30 menit di bawah sinar matahari untuk berangkat kerja atau berjalan di taman."
+          "ko": "집을 나서서 15~30분간 야외 햇빛을 섭취하며 가볍게 걸어서 출근하거나 공원을 걸어 활성 호르몬 세팅을 완료합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "꼭 새벽 4시에 일어나야 하나요? 저는 저녁형 인간인데요.",
-          "en": "Do I have to wake up at 4 AM? I'm a night person.",
-          "ja": "必ず午前4時に起きなければなりませんか？私は夜型の人間なのですが。",
-          "zh": "一定要清晨四点起床吗？我是夜型人怎么办？",
-          "es": "¿Tengo que despertarme a las 4 a. m.? Soy una persona nocturna.",
-          "fr": "Dois-je me lever à 4h ? Je suis du soir.",
-          "de": "Muss ich unbedingt um 4 Uhr aufstehen? Ich bin ein Nachtmensch.",
-          "pt": "Preciso acordar às 4h? Sou uma pessoa noturna.",
-          "id": "Apakah saya harus bangun jam 4 pagi? Saya tipe orang malam."
+          "ko": "꼭 새벽 4시에 일어나야 하나요? 저는 저녁형 인간인데요."
         },
         "answer": {
-          "ko": "아닙니다. 핵심은 4시라는 절대 시간이 아니라, 기상 후 인지 부하 차단, 아침 소통, 햇빛 도보의 유기적 3단계 메커니즘을 자신의 일정에 맞춰 일관되게 적용하는 데 있습니다.",
-          "en": "No. The core is not the absolute time of 4 AM, but consistently applying the organic 3-step mechanism of blocking cognitive load, morning communication, and daylight walking to your schedule.",
-          "ja": "いいえ。核心は4時という絶対的な時間ではなく、起床後の認知負荷遮断、朝の疎通、太陽光を浴びた歩行の有機的な3段階メカニズムを、自身のスケジュールに合わせて一貫して適用することにあります。",
-          "zh": "不需要。核心不在于四点这个绝对时间，而在于根据自己的时间安排，一致性地应用“起床后阻断认知负荷、晨间沟通、阳光下步行”这三个有机构建的步骤。",
-          "es": "No. Lo fundamental no es la hora absoluta de las 4 a. m., sino aplicar de manera constante el mecanismo de 3 pasos (bloquear carga, comunicación y caminata) a su horario.",
-          "fr": "Non. L'essentiel n'est pas l'heure de 4h, mais l'application régulière du mécanisme en 3 étapes (arrêt cognitif, discussion et marche) à votre rythme.",
-          "de": "Nein. Es geht nicht um die Uhrzeit, sondern darum, die 3 Schritte (Abschalten, Kommunikation, Lichtspaziergang) konsequent in Ihren eigenen Zeitplan zu integrieren.",
-          "pt": "Não. O fundamental não é a hora absoluta das 4h, mas sim aplicar de forma consistente o mecanismo de 3 etapas (bloquear carga, comunicação e caminhada) ao seu cronograma.",
-          "id": "Tidak. Kuncinya bukan jam 4 pagi, melainkan menerapkan mekanisme 3 langkah (memblokir beban kognitif, komunikasi pagi, dan jalan kaki) secara konsisten ke jadwal Anda."
+          "ko": "아닙니다. 핵심은 4시라는 절대 시간이 아니라, 기상 후 인지 부하 차단, 아침 소통, 햇빛 도보의 유기적 3단계 메커니즘을 자신의 일정에 맞춰 일관되게 적용하는 데 있습니다."
         }
       }
     ]

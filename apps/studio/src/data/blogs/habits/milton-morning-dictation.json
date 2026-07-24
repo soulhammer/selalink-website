@@ -1,163 +1,51 @@
 {
   "milton-morning-dictation": {
     "title": {
-      "en": "The Blind Poet Who Dictated Paradise Lost at 4 AM: John Milton's Quiet Morning Meditation",
-      "ja": "午前4時に『失楽園』を口述した盲目の詩人：ジョン・ミルトンの静かな朝の瞑想",
-      "zh": "凌晨4点口述《失乐园》的盲人诗人：约翰·弥尔顿的寂静晨间冥想",
-      "es": "El poeta ciego que dictó El paraíso perdido a las 4 a.m.: La meditación matutina de John Milton",
-      "fr": "Le poète aveugle qui dictait Le Paradis Perdu à 4h : La méditation matinale de John Milton",
-      "de": "Der blinde Dichter, der das Verlorene Paradies um 4 Uhr morgens diktierte: John Miltons Morgenmeditation",
-      "pt": "O poeta cego que ditou O Paraíso Perdido às 4h: A meditação matinal de John Milton",
-      "id": "Penyair Buta yang Mendiktekan Paradise Lost Jam 4 Pagi: Meditasi Pagi Sunyi John Milton",
       "ko": "새벽 4시, 눈먼 시인이 《실낙원》을 구술한 비결: 존 밀턴의 고요한 아침 명상"
     },
     "description": {
-      "en": "Discover John Milton's morning routine of waking up at 4 AM to compose poems in his head before dictating. Learn the science of visual deprivation and auditory memory.",
-      "ja": "失明の中でも大叙事詩を残したジョン・ミルトンの朝4時瞑想ルーティンを紹介します。視覚遮断が作業記憶と認知力を極大化する科学的原理を解説します。",
-      "zh": "介绍约翰·弥尔顿在失明状态下写出伟大史诗的凌晨4点冥想惯例。探索视觉剥夺如何最大化工作记忆和语言重组的认知能力。",
-      "es": "Descubra la rutina de John Milton de despertar a las 4 a.m. para componer poemas en su mente antes de dictarlos. La ciencia de la privación visual.",
-      "fr": "Découvrez la routine matinale de John Milton : se réveiller à 4 heures pour composer de tête. La science de la privation visuelle et de la mémoire.",
-      "de": "Erfahren Sie mehr über John Miltons Morgenroutine um 4 Uhr, um Gedichte im Kopf zu verfassen. Die Wissenschaft der visuellen Deprivation.",
-      "pt": "Descubra a rotina matinal de John Milton de acordar às 4h para compor poemas mentalmente antes de ditar. A ciência da privação visual e memória.",
-      "id": "Temukan rutinitas pagi John Milton bangun jam 4 pagi untuk menyusun puisi di kepalanya sebelum mendiktekan. Pelajari sains tentang memori auditori.",
       "ko": "실명 속에서도 대서사시를 남긴 존 밀턴의 새벽 4시 명상 루틴을 소개합니다. 시각 차단이 어떻게 작업 기억과 언어 조립 뇌 인지력을 극대화하는지 확인하세요."
     },
     "authority": {
-      "en": "John Aubrey's Brief Lives & Cognitive Studies on Visual Deprivation",
-      "ja": "ジョン・オーブリーの伝記記録および視覚遮断と作業記憶に関する認知神経学研究",
-      "zh": "约翰·奥布里的传记记录及关于视觉剥夺与工作记忆的认知神经学研究",
-      "es": "Biografía de John Aubrey y estudios cognitivos sobre la privación visual",
-      "fr": "Biographie de John Aubrey et études cognitives sur la privation visuelle",
-      "de": "John Aubreys Biografie & kognitive Studien zur visuellen Deprivation",
-      "pt": "Biografia de John Aubrey & estudos cognitivos sobre a privação visual",
-      "id": "Biografi John Aubrey & Studi Kognitif tentang Deprivasi Visual",
-      "ko": "존 오브리의 전기 기록 및 시각 차단과 작업 기억력 관련 인지신경학 연구"
+      "ko": "Milton Morning Dictation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "en": "John Milton, the legendary English poet and intellectual who wrote the masterpiece *Paradise Lost* completely blind. How did he write an epic of over 10,000 lines without being able to see a single letter? The secret lies in his 4 AM morning routine. Milton woke up before dawn and meditated in silence to shape verses in his mind. The moment his assistant arrived at 7 AM, he poured out his mental composition. Let's look into the science of his quiet focus and how you can apply it.\n\nBy practicing this routine daily, knowledge workers can eliminate fatigue and cultivate deep focus.",
-      "ja": "完全な失明の中でも文学史上の傑作である大叙事詩『失楽園』を完成させたイギリスの詩人、ジョン・ミルトン。文字を全く見ることができなかった彼が、どのようにして1万行を超える膨大な詩を執筆できたのでしょうか？その秘訣は彼の午前4時のルーティンにありました。ミルトンは夜明け前に起きて沈黙の中で瞑想し、詩句を頭の中で組み立てました。そして午前7時に助手が到着すると、覚えていた詩を一気に口述したのです。彼の静かな集中法の背後にある脳科学的秘密を解き明かします。\n\nこの歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持持続可能な深い集中力を養うことができます。",
-      "zh": "在这一历史性惯例的实践中： 《》 , . 1 ? 4 . . 7 . 脳科学的 . 在这一历史性惯例的实践中：</div>",
-      "es": "John Milton, el legendario poeta inglés que escribió la obra maestra *El paraíso perdido* completamente ciego. ¿Cómo pudo escribir una epopeya de más de 10.000 líneas sin ver una sola letra? El secreto está en su rutina de las 4 a.m. Milton se despertaba antes del amanecer y meditaba en silencio para dar forma a los versos en su mente. Al llegar su asistente a las 7 a.m., dictaba su composición. Conozcamos la ciencia detrás de su enfoque.\n\nEsta práctica diaria esencial fomenta un enfoque profundo y una claridad mental constante.",
-      "fr": "John Milton, le légendaire poète anglais qui a écrit le chef-d'œuvre *Le Paradis Perdu* complètement aveugle. Comment a-t-il pu composer une épopée de plus de 10 000 vers sans voir une seule lettre ? Le secret réside dans sa routine de 4 heures du matin. Milton se réveillait avant l'aube et méditait en silence pour façonner ses vers de tête. Dès que son assistant arrivait à 7h, il dictait sa composition. Découvrez la science de sa concentration.\n\nCette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.",
-      "de": "John Milton, der legendäre englische Dichter, der sein Meisterwerk *Das verlorene Paradies* völlig blind verfasste. Wie konnte er ein Epos von über 10.000 Zeilen schreiben, ohne einen einzigen Buchstaben zu sehen? Das Geheimnis lag in seiner Routine um 4 Uhr morgens. Milton wachte vor der Dämmerung auf und meditierte schweigend, um Verse im Geist zu formen. Sobald sein Assistent um 7 Uhr eintraf, diktierte er das Werk. Entdecken Sie die Wissenschaft dahinter.\n\nDiese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.",
-      "pt": "John Milton, o lendário poeta inglês que escreveu a obra-prima *O Paraíso Perdido* totalmente cego. Como ele pôde escrever uma epopeia de mais de 10.000 versos sem ver uma única letra? O segredo estava em sua rotina das 4h. Milton acordava antes do amanhecer e meditava em silêncio para moldar os versos em sua mente. Quando seu assistente chegava às 7h, ele ditava a composição. Conheça a ciência por trás desse foco.\n\nEsta prática diária essencial estimula um foco profundo e uma clareza mental constante.",
-      "id": "John Milton, penyair legendaris Inggris yang menulis mahakarya *Paradise Lost* dalam keadaan buta total. Bagaimana ia menulis epos lebih dari 10.000 baris tanpa bisa melihat satu huruf pun? Rahasianya ada pada rutinitas jam 4 pagi. Milton bangun sebelum subuh dan bermeditasi dalam sunyi untuk menyusun bait di otaknya. Begitu asistennya tiba jam 7 pagi, ia mendiktekan semuanya. Mari kita pelajari sains di balik fokus tenangnya.\n\nPraktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.",
-      "ko": "완전한 실명 속에서도 인류 문화사의 걸작인 대서사시 《실낙원》을 남긴 영국의 천재 시인이자 사상가, 존 밀턴. 글자 한 자조차 직접 볼 수 없었던 그가 1만 행이 넘는 방대한 서사시를 집필할 수 있었던 비결은 무엇일까요? 바로 그의 새벽 4시 아침 루틴에 있었습니다. 밀턴은 동이 트기 전 일어나 침묵 속에 사색하며 시구를 머릿속으로 조각했습니다. 그리고 아침 7시 비서가 도착하자마자 외워둔 구상을 쏟아냈습니다. 그의 고요한 집중법 뒤에 숨겨진 脳科学的 비밀을 알아봅니다.\n\n</div>"
+      "ko": "\"정신은 그 자체가 하나의 세계이며, 지옥을 천국으로 만들 수도, 천국을 지옥으로 만들 수도 있다.\" 🚶‍♂️\n\n완전한 실명 속에서도 인류 문화사의 걸작인 대서사시 《실낙원》을 남긴 영국의 천재 시인이자 사상가, 존 밀턴. 글자 한 자조차 직접 볼 수 없었던 그가 1만 행이 넘는 방대한 서사시를 집필할 수 있었던 비결은 무엇일까요? 바로 그의 새벽 4시 아침 루틴에 있었습니다. 밀턴은 동이 트기 전 일어나 침묵 속에 사색하며 시구를 머릿속으로 조각했습니다. 그리고 아침 7시 비서가 도착하자마자 외워둔 구상을 쏟아냈습니다. 그의 고요한 집중법 뒤에 숨겨진 뇌과학적 비밀을 알아봅니다."
     },
     "whyTitle": {
-      "en": "Cognitive Power of Quiet Focus: Activating Brain Capacity through Visual Blockage",
-      "ja": "静かな集中の認知力：視覚遮断による脳容量の極大化",
-      "zh": "寂静专注的认知力量：通过阻断视觉刺激最大化大脑容量",
-      "es": "Poder cognitivo del enfoque silencioso: Activar el cerebro mediante el bloqueo visual",
-      "fr": "Pouvoir cognitif de la concentration : Activer le cerveau par le blocage visuel",
-      "de": "Kognitive Kraft des stillen Fokus: Aktivierung des Gehirns durch visuelle Blockade",
-      "pt": "Poder cognitivo do foco silencioso: Ativar o cérebro através do bloqueio visual",
-      "id": "Kekuatan Kognitif Fokus Sunyi: Mengaktifkan Otak Melalui Hambatan Visual",
       "ko": "고요한 집중의 인지력: 시각 차단을 통한 두뇌 용량의 극대화"
     },
     "whyDesc": {
-      "en": "Scientific research shows that visual inputs consume more than 50% of the brain's sensory processing resources. When visual input is completely blocked, the brain redirects these neural resources to memory retrieval, language production, and auditory processing. Milton's routine of preparing verses in total darkness allowed him to optimize his working memory to arrange complex metaphors and hold dozens of lines in his mind easily.",
-      "ja": "脳科学の研究によると、視覚情報の処理は脳の感覚処理資源の50%以上を消費します。視覚情報が遮断されると、脳は記憶の引き出し、言語生成、聴覚処理へと神経資源を振り向けます。ミルトンが暗闇の中で詩を準備したルーティンは、複雑な比喩を構築し、多くの詩句を簡単に暗記できるように作業記憶を最適化するのを助けました。",
-      "zh": "脑科学研究表明，视觉信息处理占用了大脑50%以上的感官处理资源。当视觉输入被完全阻断时，大脑会将这些神经资源重新分配给记忆提取、语言生成和听觉处理。弥尔顿在黑暗中构思诗句的惯例，使他能够优化工作记忆，从而轻松组织复杂的隐喻并记住数十行诗句。",
-      "es": "Estudios científicos demuestran que la visión consume más del 50% de los recursos sensoriales del cerebro. Al bloquear la entrada visual, el cerebro redirige estos recursos a la memoria, el lenguaje y el procesamiento auditivo. La rutina de Milton en la oscuridad le permitió optimizar su memoria de trabajo para estructurar metáforas complejas.",
-      "fr": "Les études scientifiques montrent que la vision consomme plus de 50 % des ressources sensorielles du cerveau. En bloquant les signaux visuels, le cerveau redirige ces ressources vers la mémoire, le langage et l'audition. La routine de Milton dans l'obscurité lui a permis d'optimiser sa mémoire de travail pour structurer des métaphores complexes.",
-      "de": "Wissenschaftliche Untersuchungen zeigen, dass visuelle Reize über 50 % der sensorischen Ressourcen des Gehirns beanspruchen. Wird die visuelle Zufuhr blockiert, lenkt das Gehirn diese Ressourcen auf Gedächtnis, Sprache und Gehör. Miltons Routine im Dunkeln ermöglichte es ihm, sein Arbeitsgedächtnis zu optimieren, um komplexe Metaphern im Geist zu ordnen.",
-      "pt": "Pesquisas científicas mostram que a visão consome mais de 50% dos recursos sensoriais do cérebro. Ao bloquear a entrada visual, o cérebro redireciona esses recursos para a memória, linguagem e processamento auditivo. A rotina de Milton na escuridão permitiu-lhe otimizar a sua memória de trabalho para estruturar metáforas complexas.",
-      "id": "Penelitian ilmiah menunjukkan bahwa input visual mengonsumsi lebih dari 50% sumber daya otak. Ketika input visual diblokir, otak mengalihkan sumber daya ini untuk memanggil memori, produksi bahasa, dan pemrosesan auditori. Rutinitas Milton memungkinkannya mengoptimalkan memori kerja untuk menyusun metafora rumit.",
       "ko": "뇌과학 연구에 따르면 시각 정보 처리는 뇌 감각 자원의 50% 이상을 점유합니다. 시각 자극이 완전히 차단되면, 뇌는 이 미사용 신경망을 단기 기억 회상 및 언어 조립 영역으로 재배치합니다. 어두운 새벽녘 침대에 누워 머릿속으로 시구를 완성하던 밀턴의 루틴은 전두엽의 작업 기억 장치를 극대화하여 복잡한 은유와 긴 문장들을 기억의 왜곡 없이 고정하는 데 완벽한 환경을 제공했습니다."
     },
     "cautionTitle": {
-      "en": "Keep the Morning Input-Free for Deep Work",
-      "ja": "深い集中のために朝の外部刺激をコントロールする",
-      "zh": "控制晨间外部刺激以获得深度专注",
-      "es": "Controlar los estímulos matutinos para un enfoque profundo",
-      "fr": "Contrôler les stimuli matinaux pour une concentration profonde",
-      "de": "Morgendliche Reize kontrollieren für tiefen Fokus",
-      "pt": "Controlar os estímulos matinais para um foco profundo",
-      "id": "Kendalikan Stimulus Pagi untuk Fokus yang Mendalam",
       "ko": "깊은 몰입을 위해 아침의 외부 자극을 통제하기"
     },
     "cautionDesc": {
-      "en": "For John Milton, the darkness of early morning was not a limitation but a sacred canvas. By delaying external tasks and focusing entirely on his inner voice, he created a monumental masterpiece. Try keeping your morning free from digital noise like emails and social media. Let your brain think deeply before reacting to the world.",
-      "ja": "ジョン・ミルトンにとって、早朝の暗闇は限界ではなく、創造のための神聖なキャンバスでした。外部の雑務を後回しにし、内なる声だけに耳を傾けることで、彼は歴史に残る傑作を書くことができました. 朝起きてすぐにスマホを確認する代わりに, 深く考えるための静かな時間を脳にプレゼントしましょう.",
-      "zh": "对约翰·弥尔顿而言，清晨的黑暗并不是限制，而是创作的神圣画布。通过推迟处理外部事务，完全专注于内心的声音，他写下了留名青史的伟大著作。试着在早晨避免接收电子邮件或社交媒体等数字噪音，在对世界做出反应之前，给大脑一段深度思考的静谧时光。",
-      "es": "Para John Milton, la oscuridad de la mañana no era un límite, sino un lienzo de creación. Al retrasar los estímulos externos y enfocarse en su voz interior, creó una obra maestra. Intente evitar el ruido digital por la mañana. Deje que su cerebro piense antes de reaccionar.",
-      "fr": "Pour John Milton, l'obscurité matinale n'était pas une limite, mais une toile de création. En retardant les stimuli externes pour écouter sa voix intérieure, il a écrit son chef-d'œuvre. Évitez les bruits numériques le matin et laissez votre cerveau réfléchir avant de réagir.",
-      "de": "Für John Milton war die Dunkelheit des frühen Morgens keine Einschränkung, sondern eine Leinwand für Kreativität. Indem er äußere Reize ausschloss und sich auf seine innere Stimme konzentrierte, schuf er ein Meisterwerk. Meiden Sie morgens digitalen Lärm und lassen Sie Ihr Gehirn tief nachdenken, bevor Sie auf die Welt reagieren.",
-      "pt": "Para John Milton, a escuridão da manhã não era uma limitação, mas uma tela para criação. Ao adiar os estímulos externos e focar na sua voz interior, ele escreveu sua obra-prima. Evite o ruído digital logo de manhã. Permita que seu cérebro pense antes de reagir ao mundo.",
-      "id": "Bagi John Milton, kegelapan pagi bukanlah batasan, melainkan kanvas untuk berkreasi. Dengan menunda urusan luar dan fokus pada suara batin, ia menulis karya besarnya. Hindari kebisingan digital di pagi hari dan biarkan otak Anda berpikir mendalam sebelum bereaksi.",
       "ko": "존 밀턴에게 새벽의 어둠은 한계가 아닌, 창조를 위한 거룩한 도화지였습니다. 외부의 자극과 잡무를 미루고 오직 내면의 목소리에 집중함으로써 그는 인류 역사에 남을 불후의 대작을 쓸 수 있었습니다. 아침에 눈을 뜨자마자 이메일이나 소셜 미디어를 확인하는 대신, 당신의 뇌가 깊이 생각할 수 있는 고요한 시간을 먼저 선물해 보세요."
     },
     "steps": [
       {
         "name": {
-          "en": "A silent 20-minute sensory deprivation period right after waking up",
-          "ja": "朝の起床直後の20分間の外部感覚遮断",
-          "zh": "起床后立即进行20分钟的外部感官剥夺",
-          "es": "20 minutos de privación sensorial tras despertar",
-          "fr": "20 minutes de privation sensorielle au réveil",
-          "de": "20 Minuten sensorische Deprivation nach dem Aufwachen",
-          "pt": "20 minutos de privação sensorial após acordar",
-          "id": "20 menit deprivasi sensorik setelah bangun tidur",
           "ko": "아침 기상 직후 20분간 외부 감각 차단하기"
         },
         "text": {
-          "en": "Keep your eyes closed or stay in a dark, quiet room. Do not check your phone or turn on bright lights immediately. Give your brain a transition window.",
-          "ja": "目を閉じたまま暗い部屋に横になるか座ります。スマホを見たり明るい電気をつけたりせず、脳の認知リソースを空にして静けさを維持します。",
-          "zh": "闭上眼睛躺在或坐在黑暗的房间里。不要查看手机或打开明亮的灯，保持大脑的认知资源完全放空，维持静谧的状态。",
-          "es": "Quédese con los ojos cerrados en una habitación oscura y silenciosa. No mire el móvil ni encienda luces fuertes de inmediato. Dé un tiempo de transición al cerebro.",
-          "fr": "Gardez les yeux fermés dans une pièce sombre et calme. Ne regardez pas votre téléphone et n'allumez pas de lumière vive immédiatement pour laisser le cerveau s'éveiller.",
-          "de": "Bleiben Sie mit geschlossenen Augen im dunklen, ruhigen Raum. Checken Sie nicht sofort das Handy und schalten Sie kein grelles Licht ein. Gönnen Sie dem Gehirn eine Pause.",
-          "pt": "Mantenha os olhos fechados num quarto escuro e calmo. Não olhe para o telemóvel nem acenda luzes fortes imediatamente. Dê ao cérebro um tempo de transição.",
-          "id": "Pejamkan mata di ruangan yang gelap dan tenang. Jangan langsung memeriksa ponsel atau menyalakan lampu terang untuk memberi waktu transisi bagi otak.",
           "ko": "눈을 감은 채로 어두운 방에서 차분히 누워있거나 앉아있습니다. 스마트폰을 보거나 밝은 불을 켜지 않고 뇌의 인지 리소스를 온전히 비워두어 고요함을 유지합니다."
         }
       },
       {
         "name": {
-          "en": "Mental assembly of today's key logic and expression",
-          "ja": "今日の主要な論理と文章の頭の中での一時組み立て",
-          "zh": "在大脑中初步构建当天的核心逻辑和语句",
-          "es": "Estructurar la lógica y frases clave en la mente",
-          "fr": "Structurer la logique et les phrases clés de tête",
-          "de": "Gedankliche Strukturierung der heutigen Kernlogik und Sätze",
-          "pt": "Estruturar a lógica e as frases principais na mente",
-          "id": "Menyusun logika dan kalimat kunci di dalam kepala",
           "ko": "오늘의 핵심 논리와 핵심 문장의 머릿속 1차 조립"
         },
         "text": {
-          "en": "Formulate the outline of your most important task, article, or presentation in your head. Recite the key arguments to yourself to lock them in working memory.",
-          "ja": "今日解決すべき最も重要な課題や書くべき文章の輪郭を頭の中で視覚化し、言葉で静かに唱えながら認知的に組み立ててみます。",
-          "zh": "在大脑中先将当天需要解决的最重要课题或需要撰写的文章大纲进行可视化，并在心中默默吟诵，进行认知上的构建。",
-          "es": "Visualice el esquema de su tarea, artículo o presentación más importante. Repita los puntos clave para sí mismo para fijarlos en la memoria de trabajo.",
-          "fr": "Visualisez le plan de votre tâche, article ou présentation le plus important. Répétez-vous les arguments clés pour les ancrer dans la mémoire de travail.",
-          "de": "Visualisieren Sie den Entwurf Ihrer wichtigsten Aufgabe oder Ihres Textes im Kopf. Sagen Sie sich die Argumente auf, um sie im Arbeitsgedächtnis zu verankern.",
-          "pt": "Visualize o esboço da sua tarefa, artigo ou apresentação mais importante. Repita os argumentos principais para si mesmo para fixá-los na memória de trabalho.",
-          "id": "Visualisasikan tugas atau tulisan terpenting hari ini di kepala, lalu lafalkan dengan lirih agar tersusun dengan baik di dalam ingatan.",
           "ko": "오늘 해결해야 하는 가장 중요한 과제나 작성해야 할 글의 개요를 머릿속으로 먼저 시각화하고 말로 나직하게 읊어보며 인지적으로 조립해 봅니다."
         }
       },
       {
         "name": {
-          "en": "Unleashing the mental draft onto a notebook or voice recorder",
-          "ja": "整理された頭の中の下書きをノートや音声メモに書き出す",
-          "zh": "将整理好的脑海草稿倾泻到笔记本或语音备忘录中",
-          "es": "Volcar el borrador mental en un cuaderno o grabadora",
-          "fr": "Transcrire le brouillon mental sur un carnet ou dictaphone",
-          "de": "Übertragen des gedanklichen Entwurfs auf Notizen oder Sprachmemo",
-          "pt": "Transcrever o rascunho mental num caderno ou gravador",
-          "id": "Tulis draf pikiran ke buku catatan atau perekam suara",
           "ko": "정리된 머릿속 초안을 노트나 음성 메모에 쏟아내기"
         },
         "text": {
-          "en": "Once the structure is clear, write it down immediately on paper or dictate it into a recording app. Get it out of your head so you can free up memory space.",
-          "ja": "組み立てが終わり次第、すぐにペンを取って書き留めるか、音声録音機能を使って言葉にし、テキストに変換します。頭の中のアイデアを物理媒体に移して記憶領域を開放します。",
-          "zh": "构思一旦完成，立即动笔记录或使用语音输入将其转化为文字。将大脑中的创意转移到物理介质上，以此释放记忆空间。",
-          "es": "En cuanto el esquema esté claro, escríbalo en papel o díctelo en una app. Sáquelo de su cabeza para liberar espacio en la memoria.",
-          "fr": "Dès que le plan est clair, écrivez-le sur papier ou dictez-le dans une application. Sortez-le de votre tête pour libérer de l'espace mémoire.",
-          "de": "Sobald die Struktur steht, schreiben Sie sie auf Papier oder diktieren Sie sie. Befreien Sie Ihren Kopf, um Speicherplatz im Gedächtnis freizugeben.",
-          "pt": "Assim que o esboço estiver claro, escreva-o no papel ou dite-o numa app. Tire-o da cabeça para libertar espaço na memória.",
-          "id": "Begitu strukturnya jelas, segera tulis di kertas atau rekam di aplikasi. Keluarkan dari kepala Anda untuk membebaskan ruang memori.",
           "ko": "구상이 끝나는 즉시 펜을 들고 받아적거나 음성 녹음 기능으로 말해 텍스트로 전환합니다. 머릿속의 아이디어를 물리적 매체로 옮겨 기억 공간을 비웁니다."
         }
       }
@@ -165,30 +53,12 @@
     "faqs": [
       {
         "question": {
-          "en": "How did Milton memorize lines before the scribe arrived?",
-          "ja": "ミルトンは助手が来る前にどのように詩をすべて覚えていたのですか？",
-          "zh": "弥尔顿在助理到来之前是如何记住所有诗句的？",
-          "es": "¿Cómo memorizaba Milton los versos antes de que llegara el transcriptor?",
-          "fr": "Comment Milton mémorisait-il les vers avant l'arrivée de son secrétaire ?",
-          "de": "Wie merkte sich Milton die Verse, bevor der Schreiber eintraf?",
-          "pt": "Como Milton memorizava os versos antes do transcritor chegar?",
-          "id": "Bagaimana Milton menghafal bait sebelum juru tulis datang?",
           "ko": "밀턴은 비서가 오기 전에 시구를 어떻게 다 외우고 있었나요?"
         },
         "answer": {
-          "en": "Milton repeated the verses to himself like a rhythmic song. Since he was blind, he developed a sharp auditory working memory, structuring the words chronologically and using the physical meter of the poem as a memory anchor.",
-          "ja": "ミルトンは詩を歌のメロディーのようにリズムに乗せて繰り返し唱えました。失明によって発達した聴覚的作業記憶力と、詩特有の韻律（無韻詩）を記憶のアンカー（錨）として活用し、暗記していました。",
-          "zh": "弥尔顿像吟唱富有节奏的歌曲一样，反复默念诗句。失明后他培养了敏锐的听觉工作记忆，将词汇按时间顺序结构化，并把诗歌的物理格律作为记忆的锚点进行背诵。",
-          "es": "Milton repetía los versos para sí mismo como una canción rítmica. Al ser ciego, desarrolló una aguda memoria auditiva, usando la métrica del poema como ancla.",
-          "fr": "Milton se répétait les vers comme une chanson rythmée. Devenu aveugle, il avait développé une mémoire auditive vive, utilisant le mètre poétique comme ancrage.",
-          "de": "Milton wiederholte die Verse wie ein rhythmisches Lied. Durch seine Erblindung schulte er sein auditves Gedächtnis und nutzte das Metrum als Gedächtnisstütze.",
-          "pt": "Milton repetia os versos para si mesmo como uma música rítmica. Sendo cego, desenvolveu uma memória auditiva aguçada, usando a métrica do poema como âncora.",
-          "id": "Milton mengulangi bait-bait tersebut di kepalanya seperti lagu yang ritmis. Karena buta, ia melatih memori kerja auditori dan menggunakan ritme puisi sebagai jangkar memori.",
           "ko": "밀턴은 시를 노래의 운율처럼 리드미컬하게 반복하며 암송했습니다. 실명 이후 발달한 청각 작업 기억력과 시의 독특한 운율(Blank Verse)을 일종의 기억 닻(Memory Anchor)으로 삼아 암기했습니다."
         }
       }
-    ],
-    "pubDate": "2026-04-09",
-    "updatedDate": "2026-04-09"
+    ]
   }
 }

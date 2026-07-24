@@ -1,216 +1,70 @@
 {
   "elon-musk-time-blocking": {
     "title": {
-      "ko": "일론 머スク의 '5분 타임 블록': 시간의 초집중 밀도를 만드는 마이ク로 계획법",
-      "en": "Elon Musk's '5-Minute Time Blocking': Micro Planning Method That Creates Ultra-Focus Time Density",
-      "ja": "イーロン・マスクの「5分タイムブロック」：超集中の時間密度を生み出すマイクロ計画法",
-      "zh": "埃隆·马斯克的“五分钟时间块”：造就超高专注时间密度的微型计划法",
-      "es": "El 'bloqueo de 5 minutos' de Elon Musk: método de microplanificación",
-      "fr": "Le 'blocage de 5 minutes' d'Elon Musk : méthode de microplanification",
-      "de": "Elon Musk: Die '5-Minuten-Zeitblock'-Routine für unbändige Produktivität",
-      "pt": "O 'bloqueio de 5 minutos' de Elon Musk: método de microplanejamento",
-      "id": "Time Blocking 5 Menit Elon Musk: Metode Perencanaan Mikro demi Fokus Ekstrem"
+      "ko": "일론 머의 '5분 타임 블록': 시간의 초집중 밀도를 만드는 마이로 계획법"
     },
     "description": {
-      "ko": "주 90시간의 격무를 처리하기 위해 하루 일정을 5분 단위의 블록으로 쪼개 집중하는 일론 머スク. 뇌의 몰입도를 극대화하는 시간 관리 습관을 분석합니다.",
-      "en": "How Elon Musk schedules his day in 5-minute blocks to manage 90-hour workweeks. Learn the brain science of time blocking that triggers the tutoring effect for high focus.",
-      "ja": "週90時間の激務を処理するために、一日のスケジュールを5分単位のブロックに割いて集中するイーロン・マスク。脳の没頭度を極大化する時間管理習慣を分析します。",
-      "zh": "埃隆·马斯克如何将日程细分为五分钟的微型时间块，以此应对每周九十小时的高压工作。剖析极大化大脑沉浸度的这套时间管理惯例。",
-      "es": "Cómo Elon Musk divide su día en bloques de 5 minutos. Descubra la ciencia del cerebro del bloqueo de tiempo que maximiza la concentración.",
-      "fr": "Comment Elon Musk divise sa journée en blocs de 5 minutes. Découvrez la science qui maximise la concentration.",
-      "de": "Wie Elon Musk seinen Tag in 5-Minuten-Blöcken plant, um 90 Wochenstunden zu bewältigen. Nutzen Sie Parkinsons Gesetz für Ihren Erfolg.",
-      "pt": "Como Elon Musk gerencia suas empresas dividindo a rotina em blocos de 5 minutos. Conheça a neurociência por trás do microplanejamento de tempo.",
-      "id": "Bagaimana Elon Musk membagi harinya dalam blok 5 menit. Pelajari sains manajemen waktu yang memicu fokus tingkat tinggi."
+      "ko": "주 90시간의 격무를 처리하기 위해 하루 일정을 5분 단위의 블록으로 쪼개 집중하는 일론 머. 뇌의 몰입도를 극대화하는 시간 관리 습관을 분석합니다."
     },
     "authority": {
-      "ko": "애슐리 반ス의 일론 머スク 전기 및 월터 아이작슨의 일론 머スク",
-      "en": "Ashlee Vance's Elon Musk & Walter Isaacson's Elon Musk Biography",
-      "ja": "アシュリー・バンス「イーロン・マスク」伝記およびウォルター・アイザックソン「イーロン・マスク」",
-      "zh": "阿什利·万斯的《埃隆·马斯克传》与沃尔特·艾萨克森的《埃隆·马斯克传》",
-      "es": "Elon Musk de Ashlee Vance y Biografía de Elon Musk de Walter Isaacson",
-      "fr": "Elon Musk d'Ashlee Vance & Biographie d'Elon Musk de Walter Isaacson",
-      "de": "Biografien über Elon Musk von Ashlee Vance & Walter Isaacson",
-      "pt": "Elon Musk de Ashlee Vance & Biografia de Elon Musk por Walter Isaacson",
-      "id": "Elon Musk karya Ashlee Vance & Biografi Elon Musk karya Walter Isaacson"
+      "ko": "Elon Musk Time Blocking 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "전기자동차 혁명을 이끄는 테슬라부터 인류의 화성 이주를 꿈꾸는 ス페이スX, 뇌-컴퓨터 인터페이ス를 개발하는 뉴럴링ク까지 글로벌 혁신 기업들을 동시에 격렬하게 이끄는 기술 기업가 일론 머スク. 그는 매주 80~100시간에 달하는 살인적인 격무를 견디며 수없이 많고 거대한 의사결정을 실시간으로 내리는 것으로 악명 높습니다. 🚀\n\n그가 이 기적 같은 ス케줄을 정상적으로 감당해 내는 핵심 비결은 하루의 일정을 극단적인 최소 단위인 '5분 단위 블록(5-Minute Time Blocking)'으로 나누어 설계하는 그의 플래닝 루틴에 있습니다. 머スク는 아침에 캘린더 앱을 열고 식사 시간, 이메일 확인, 엔지니어 미팅, 심지어 짧은 휴식까지 모든 종류의 행위를 5분에서 15분 단위의 마이ク로 블록으로 조각내어 캘린더에 빈틈없이 채워 넣습니다. 그리고 각 블록에 도달하면 모든 외부 소음과 메시지 알림을 차단한 채 오직 해당 과제에만 뇌 에너지를 100% 쏟아붓습니다.\n\n오늘 BuildSelf에서는 머スク가 고수하는 '5분 타임 블록' 루틴 속에 들어 있는 脳科学的 집중 유도 원리와 시간 낭비를 완벽하게 몰아낼 현대인용 실천 플래닝 기법을 해부합니다.",
-      "en": "In this transformative routine: X, - . 80~100 . 🚀 In this transformative routine: '5 (5-Minute Time Blocking)' . , , , 5 15 . 100% . In this transformative routine: BuildSelf '5 ' . By practicing this systematic routine every day, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus. By practicing this systematic routine every day, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus.",
-      "ja": "電気自動車革命を牽引するテスラから、火星移住を夢見るスペースX、脳・コンピュータインターフェースを開発するニューラリンクまで、グローバル革新企業を同時に激しく牽引するイーロン・マスク。彼は毎週80〜100時間に達する過酷な激務をこなし、リアルタイムで膨大な意思決定を下すことで有名です。 🚀\n\n彼がこの奇跡的なスケジュールをこなせる核心的な秘密は、一日の予定を極限の最小単位である「5分単位のブロック（5-Minute Time Blocking）」に分けて設計するプランニングルーティンにあります。マスクは朝、カレンダーを開き、食事、メール確認、エンジニアとの会議、さらには短い休息に至るまで、すべての行動を5分から15分単位のマイクロブロックに細分化して詰め込みます。そして各ブロックの時間に入ると、外部のあらゆる雑音をシャットアウトし、その課題だけに脳のエネルギーを100%注ぎ込みます。\n\n今日のBuildSelfでは、マスクが固執する「5分タイムブロック」ルーティンに含まれる脳科学的集中誘導原理と、時間の無駄を完全に排除する現代人向けの実践プランニング手法を分析します。",
-      "zh": "埃隆·马斯克，同时执掌特斯拉、太空探索技术公司（SpaceX）以及Neuralink等多家全球前沿创新企业的科技创业家。他因每周承受高达八十至一百小时的杀手级工作量，且实时做出海量重大决策而广为人知。 🚀\n\n他得以正常应对这奇迹般日程的核心秘诀，在于将一天的日程划分为极端最小单元——“五分钟时间块（5-Minute Time Blocking）”的计划惯例。马斯克在清晨打开日程软件，将就餐、处理邮件、对接工程师以及片刻休息等所有行为，都切割为五至十五分钟的微型时间块，塞满日程表。每当进入特定时间块，他便隔绝所有外部干扰，将百分之百的大脑能量倾注于该任务之上。\n\n今天，BuildSelf 将为您深度解构马斯克所固守的“五分钟时间块”惯例中蕴含的脑科学专注引导原理，以及能彻底驱逐时间浪费的现代实用日程规划技术。",
-      "es": "En la práctica de esta rutina transformadora: X, - . 80~100 . 🚀 En la práctica de esta rutina transformadora: '5 (5-Minute Time Blocking)' . , , , 5 15 . 100% . En la práctica de esta rutina transformadora: BuildSelf '5 ' . Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo. Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora: X, - . 80~100 . 🚀 Na prática desta rotina transformadora: '5 (5-Minute Time Blocking)' . , , , 5 15 . 100% . Na prática desta rotina transformadora: BuildSelf '5 ' . Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável. Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "\"당신의 시간이 한정되어 있다면, 당신의 초집중력은 그것에 비례하여 상승해야 한다.\" 🚀\n\n전기자동차 혁명을 이끄는 테슬라부터 인류의 화성 이주를 꿈꾸는 스페이스X, 뇌-컴퓨터 인터페이스를 개발하는 뉴럴링크까지 글로벌 혁신 기업들을 동시에 격렬하게 이끄는 기술 기업가 일론 머스크. 그는 매주 -시간에 달하는 살인적인 격무를 견디며 수없이 많고 거대한 의사결정을 실시간으로 내리는 것으로 악명 높습니다.\n\n그가 이 기적 같은 스케줄을 정상적으로 감당해 내는 핵심 비결은 하루의 일정을 극단적인 최소 단위인 '5분 단위 블록(5-Minute Time Blocking)'으로 나누어 설계하는 그의 플래닝 루틴에 있습니다. 머스크는 아침에 캘린더 앱을 열고 식사 시간, 이메일 확인, 엔지니어 미팅, 심지어 짧은 휴식까지 모든 종류의 행위를 5분에서 15분 단위의 마이크로 블록으로 조각내어 캘린더에 빈틈없이 채워 넣습니다. 그리고 각 블록에 도달하면 모든 외부 소음과 메시지 알림을 차단한 채 오직 해당 과제에만 뇌 에너지를 100% 쏟아붓습니다.\n\n오늘 포스트에서는 머스크가 고수하는 '5분 타임 블록' 루틴 속에 들어 있는 뇌과학적 집중 유도 원리와 시간 낭비를 완벽하게 몰아낼 현대인용 실천 플래닝 기법을 해부합니다."
     },
     "whyTitle": {
-      "ko": "파킨슨의 법칙과 뇌의 초집중 터널링 기작",
-      "en": "Parkinson's Law and the Brain's Tunneling Mechanism",
-      "ja": "パーキンソンの法則と脳の超集中トンネリング機序",
-      "zh": "帕金森定律与大脑的超专注隧道效应机制",
-      "es": "La ley de Parkinson y el efecto túnel del cerebro",
-      "fr": "La loi de Parkinson et l'effet tunnel du cerveau",
-      "de": "Parkinsons Gesetz und der Fokus-Tunnel-Effekt",
-      "pt": "A Lei de Parkinson e o efeito túnel de foco cerebral",
-      "id": "Hukum Parkinson dan Mekanisme Fokus Terowongan Otak"
+      "ko": "파킨슨의 법칙과 뇌의 초집중 터널링 기작"
     },
     "whyDesc": {
-      "ko": "파킨슨의 법칙(Parkinson's Law)에 따르면, 어떤 업무에 주어지는 시간의 ク기가 팽창하면 인지적 강도도 느슨해져 결국 해당 시간을 모두 소모하게 됩니다. 반면 시간을 극한으로 작게 조여 놓으면 뇌는 위기 상태로 인지하고 아드레날린과 도파민 분비를 촉진해 주의 분산을 원천적으로 차단하는 '터널링 효과(Tunneling Effect)'를 유발합니다.\n\n일론 머スク의 5분 단위 시간 블로킹은 뇌가 각 짧은 블록의 마감 시간에 집중하게 유도하여, 한 과제에 온전히 에너지를 퍼붓는 극도의 몰입 상태를 유발합니다. 또한 멀티태ス킹의 인지 잔류를 방지하고 한 번에 단 하나의 목표만을 격렬하게 처리함으로써 의사결정의 지연(Decision Fatigue)을 막고 시간당 인지적 생산 밀도를 한계점까지 끌어올립니다.",
-      "en": "According to Parkinson's Law, if the time given for a task expands, the cognitive intensity loosens, consuming all the given time. Restricting time extremely triggers the 'tunneling effect' that blocks distractions by releasing adrenaline and dopamine. Musk's micro-blocking guides the brain to focus on the deadline of each short block, preventing decision fatigue and raising cognitive production density per hour to the limit.",
-      "ja": "パーキンソンの法則（Parkinson's Law）によると、あるタスクに与えられる時間が膨張すると、認知的な強度も緩み、結局はその時間をすべて使い果たしてしまいます。逆に時間を極限までタイトにしておくと、脳は危機状況として認識し、アドレナリンとドーパミンの分泌を刺激して、注意散漫を源泉から防ぐ「トンネリング効果（Tunneling Effect）」を引き起こします。\n\nイーロン・マスクの5分単位のタイムブロッキングは、各短いブロックの締め切り時間に集中させ、一つの課題に完全にエネルギーを投入する極限の没頭状態を作り出します。これにより、決定疲労（Decision Fatigue）を防ぎ、時間当たりの認知の生産密度を限界値まで引き上げます。",
-      "zh": "根据帕金森定律（Parkinson's Law），如果一项任务被分配了过多的时间，认知强度就会松懈，最终会耗尽这所有的分配时间。相反，如果把时间限制在极小的限度内，大脑就会将其判定为危机状态，促进肾上腺素和多巴胺的分泌，从而引发从源头上阻止注意力分散的“隧道效应（Tunneling Effect）”。\n\n埃隆·马斯克的五分钟时间块，引导大脑紧盯每个微型时间块的截止时间，诱发将能量完全倾注于单一任务的极度专注状态。这能防止决策疲劳（Decision Fatigue），将每小时的认知生产密度提升至极限。",
-      "es": "La ley de Parkinson dice que una tarea se expande hasta ocupar todo el tiempo asignado. Reducir el tiempo al mínimo provoca el 'efecto túnel' en el cerebro, liberando adrenalina y dopamina. Bloquear el tiempo en fracciones de 5 minutos evita la fatiga por toma de decisiones y eleva la eficiencia al límite.",
-      "fr": "La loi de Parkinson dit qu'une tâche s'étend pour occuper tout le temps alloué. Réduire le temps au minimum provoque l'effet tunnel, libérant de l'adrénaline. Cela évite la fatigue décisionnelle et élève l'efficacité au maximum.",
-      "de": "Nach Parkinsons Gesetz dehnt sich Arbeit in dem Maß aus, wie Zeit für ihre Erledigung zur Verfügung steht. Ein extrem enges Zeitfenster erzeugt den 'Tunnel-Effekt', der Ablenkungen unterdrückt. Dies verhindert Entscheidungsermüdung.",
-      "pt": "A Lei de Parkinson afirma que uma tarefa se expande para preencher todo o tempo disponível. Limitar o tempo ao mínimo gera o 'efeito túnel' de superconcentração, liberando adrenalina e dopamina. Dividir a agenda em blocos de 5 minutos evita a fadiga de decisão e maximiza o rendimento por hora.",
-      "id": "Hukum Parkinson menyatakan bahwa pekerjaan akan melar sesuai waktu yang disediakan. Membatasi waktu memicu ‘fokus terowongan’ (tunneling effect) dengan memicu adrenalin dan dopamin. Time blocking 5 menit mencegah lelah mengambil keputusan."
+      "ko": "파킨슨의 법칙(Parkinson's Law)에 따르면, 어떤 업무에 주어지는 시간의 기가 팽창하면 인지적 강도도 느슨해져 결국 해당 시간을 모두 소모하게 됩니다. 반면 시간을 극한으로 작게 조여 놓으면 뇌는 위기 상태로 인지하고 아드레날린과 도파민 분비를 촉진해 주의 분산을 원천적으로 차단하는 '터널링 효과(Tunneling Effect)'를 유발합니다.\n\n일론 머의 5분 단위 시간 블로킹은 뇌가 각 짧은 블록의 마감 시간에 집중하게 유도하여, 한 과제에 온전히 에너지를 퍼붓는 극도의 몰입 상태를 유발합니다. 또한 멀티태킹의 인지 잔류를 방지하고 한 번에 단 하나의 목표만을 격렬하게 처리함으로써 의사결정의 지연(Decision Fatigue)을 막고 시간당 인지적 생산 밀도를 한계점까지 끌어올립니다."
     },
     "cautionTitle": {
-      "ko": "철저한 시간 엄수와 단일 집중이 필수입니다",
-      "en": "Strict punctuality and single focus are essential",
-      "ja": "徹底した時間厳守とシングルタスクが必須です",
-      "zh": "必须严格守时并保持单一聚焦",
-      "es": "Es clave respetar los tiempos y enfocarse en una sola cosa",
-      "fr": "Il est essentiel de respecter les temps et de rester concentré",
-      "de": "Pünktlichkeit und Monotasking sind zwingend erforderlich",
-      "pt": "Pontualidade rígida e monotarefa são fundamentais",
-      "id": "Kedisiplinan Waktu dan Fokus Tunggal Sangat Wajib"
+      "ko": "철저한 시간 엄수와 단일 집중이 필수입니다"
     },
     "cautionDesc": {
-      "ko": "이 방식은 하루 종일 빡빡하게 바쁘게 지내는 것과는 다릅니다. 블록이 지정된 시간 동안은 다른 창을 열거나 ス마트폰 알림에 반응하는 등 인지 분산을 차단하고, 타겟으로 삼은 단 하나의 작업에만 집중해야 효과가 있습니다. 시간이 종료되면 미련 없이 다음 블록으로 넘어가야 시간의 밀도가 유지됩니다.",
-      "en": "This method is not just about being busy all day. During the blocked time, you must block cognitive dispersion, such as opening other windows or responding to notifications, and focus entirely on the single targeted task. When the block ends, move to the next block without hesitation.",
-      "ja": "この手法は、一日中ただ忙しく過ごすこととは異なります。ブロックされた時間内は、他のウィンドウを開いたりスマートフォンの通知に反応したりするなどの認知の分散を防ぎ、ターゲットにした唯一のタスクだけに集中する必要があります。時間が終了したら、思い切りよく次のブロックに移行することで時間密度が維持されます。",
-      "zh": "该方法并不等同于让自己整天都处于忙碌紧绷的状态。在锁定的时间块内，必须杜绝一切认知分散行为（如打开其他网页、回复手机消息），完全专注于锁定的唯一任务。时间一到，必须毫不留恋地转入下一个时间块，才能维持高时间密度。",
-      "es": "No se trata de estar estresado todo el día. Durante el bloque de tiempo asignado, evite abrir otras ventanas o responder notificaciones, enfocándose al 100% en la tarea. Cuando suene el temporizador, cambie de bloque inmediatamente.",
-      "fr": "Il ne s'agit pas d'être stressé toute la journée. Pendant le bloc de temps alloué, évitez d'ouvrir d'autres fenêtres, en vous concentrant à 100%. Quand le temps est fini, changez immédiatement.",
-      "de": "Dies bedeutet nicht, den ganzen Tag im Stress zu sein. Blenden Sie während eines Blocks alle Ablenkungen aus. Wechseln Sie konsequent zur nächsten Aufgabe, sobald die Zeit abgelaufen ist, um die Zeitdichte zu wahren.",
-      "pt": "Este método não serve para aumentar o estresse. Durante o bloco programado, silencie qualquer alerta ou aba paralela, focando apenas no objetivo. Ao soar o alarme, mude imediatamente para o próximo bloco.",
-      "id": "Metode ini bukan untuk menambah stres harian. Selama blok waktu berjalan, jangan membuka tab lain atau membalas pesan, fokuslah penuh pada tugas. Pindah ke blok berikutnya begitu waktu habis."
+      "ko": "이 방식은 하루 종일 빡빡하게 바쁘게 지내는 것과는 다릅니다. 블록이 지정된 시간 동안은 다른 창을 열거나 마트폰 알림에 반응하는 등 인지 분산을 차단하고, 타겟으로 삼은 단 하나의 작업에만 집중해야 효과가 있습니다. 시간이 종료되면 미련 없이 다음 블록으로 넘어가야 시간의 밀도가 유지됩니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "1일 과제 세분화 리ス트 작성",
-          "en": "Write Granular Daily Task List",
-          "ja": "一日のタスク細分化リストの作成",
-          "zh": "列出每日任务细分清单",
-          "es": "Dividir la lista de tareas del día",
-          "fr": "Diviser la liste de tâches du jour",
-          "de": "Aufgabenliste kleinteilig aufschreiben",
-          "pt": "Desmembrar a lista de tarefas do dia",
-          "id": "Tulis Daftar Tugas Harian Secara Rinci"
+          "ko": "1일 과제 세분화 리트 작성"
         },
         "text": {
-          "ko": "오늘 해결해야 할 과제들을 '이메일 확인 및 답장 5개', '기획서 1단락 작성', '개발 설계안 검토' 등 5분에서 30분 내로 처리할 수 있도록 최대한 쪼개어 나열합니다.",
-          "en": "List tasks to solve today, splitting them as much as possible so they can be processed within 5 to 30 minutes, such as 'replying to 5 emails', 'writing 1 paragraph of planning', or 'reviewing coding architecture'.",
-          "ja": "今日解決すべき課題を、「メール確認および返信5通」、「企画書の1段落作成」、「開発設計案の検討」など、5分から30分以内で処理できるように最大限に分割して列挙します。",
-          "zh": "将今天需要解决的任务分割到极致，列成可在五到三十分钟内完成的小任务，如“回复五封邮件”、“写好策划书第一段”、“审查开发设计方案”等。",
-          "es": "Desglose las tareas del día en acciones que lleven entre 5 y 30 minutos (por ejemplo: 'responder 3 correos', 'escribir la introducción del informe', etc.).",
-          "fr": "Divisez les tâches du jour en actions de 5 à 30 minutes (par exemple : 'répondre à 3 courriels', 'rédiger l'intro du rapport').",
-          "de": "Teilen Sie die Aufgaben des Tages in kleine Einheiten (5 bis 30 Minuten), z. B. '3 E-Mails beantworten', 'Einleitung Entwurf schreiben'.",
-          "pt": "Divida as pendências do dia em subtarefas de 5 a 30 minutos (ex: 'responder 3 e-mails urgentes', 'redigir a introdução do relatório', etc.).",
-          "id": "Bagi tugas harian menjadi sub-tugas berdurasi 5-30 menit (misal: 'membalas 5 surel', 'menulis paragraf pembuka esai')."
+          "ko": "오늘 해결해야 할 과제들을 '이메일 확인 및 답장 5개', '기획서 1단락 작성', '개발 설계안 검토' 등 5분에서 30분 내로 처리할 수 있도록 최대한 쪼개어 나열합니다."
         }
       },
       {
         "name": {
-          "ko": "마이ク로 시간 블록 배치",
-          "en": "Micro Time Block Allocation",
-          "ja": "マイクロタイムブロックの配置",
-          "zh": "分配微型时间块",
-          "es": "Asignar bloques de tiempo micro",
-          "fr": "Allouer des micro-blocs de temps",
-          "de": "Mikro-Zeitblöcke zuteilen",
-          "pt": "Distribuir as subtarefas em microblocos",
-          "id": "Alokasikan Blok Waktu Mikro"
+          "ko": "마이로 시간 블록 배치"
         },
         "text": {
-          "ko": "캘린더나 플래너의 오늘 하루 시간표를 펼치고, 세분화된 일들을 5분, 15분, 30분 단위의 블록 형태로 빈틈없이 강제로 욱여넣어 배치합니다.",
-          "en": "Open today's schedule on a calendar or planner, and allocate the granular tasks tightly into blocks of 5, 15, or 30 minutes without gaps.",
-          "ja": "カレンダーやプランナーの一日の時間割を開き、細分化したタスクを5分、15分、30分単位のブロックの形で隙間なく強制的に詰め込んで配置します。",
-          "zh": "打开日程表，将细分的任务以五分钟、十五分钟、三十分钟为单位，毫无间隙地强行填入日程框架中进行分配。",
-          "es": "Abra su agenda y distribuya de manera estricta y sin huecos las tareas en bloques de 5, 15 o 30 minutos.",
-          "fr": "Ouvrez votre agenda et distribuez strictement les tâches en blocs de 5, 15 ou 30 minutes.",
-          "de": "Tragen Sie die kleinen Aufgaben lückenlos in Blöcken von 5, 15 oder 30 Minuten in Ihren Kalender ein.",
-          "pt": "Abra sua agenda e encaixe as subtarefas em blocos rígidos de 5, 15 ou 30 minutos, sem deixar espaços vazios.",
-          "id": "Buka kalender harian Anda dan masukkan sub-tugas tadi dalam blok durasi 5, 15, atau 30 menit secara padat tanpa celah."
+          "ko": "캘린더나 플래너의 오늘 하루 시간표를 펼치고, 세분화된 일들을 5분, 15분, 30분 단위의 블록 형태로 빈틈없이 강제로 욱여넣어 배치합니다."
         }
       },
       {
         "name": {
-          "ko": "타이머 연동 초집중 실행",
-          "en": "Timer-Linked Ultra-Focus Execution",
-          "ja": "タイマー連動の超集中実行",
-          "zh": "计时器联动超专注执行",
-          "es": "Ejecución hiperfocada con temporizador",
-          "fr": "Exécution hyper-focalisée avec minuteur",
-          "de": "Hyperfokussierte Ausführung mit Timer",
-          "pt": "Execução hiperfocada com cronômetro",
-          "id": "Eksekusi Fokus Tinggi dengan Timer"
+          "ko": "타이머 연동 초집중 실행"
         },
         "text": {
-          "ko": "캘린더 블록의 타이머를 맞추고 ス마트폰과 브라우저 차단 툴을 활성화한 후, 마감 직전의 에너지를 의도적으로 쓰며 해당 시간 동안 한 과제를 격렬하게 끝내고 넘어갑니다.",
-          "en": "Set the calendar block's timer, activate smartphone and browser blocking tools, and execute one task intensely during the time, utilizing deadline energy, then move on.",
-          "ja": "カレンダーブロックのタイマーをセットし、スマートフォンやブラウザの遮断ツールを有効にした後、締め切り直前のエネルギーを意図的に使いながら、その時間内に一つの課題を猛烈に終わらせて次へ進みます。",
-          "zh": "启动与时间块相配的计时器，激活手机和浏览器屏蔽插件，有意利用临近截止的紧迫感，在此期间猛烈执行完特定任务后立即转入下一步。",
-          "es": "Active el temporizador, bloquee las notificaciones y trabaje con la máxima intensidad en esa única tarea hasta que suene la alarma, cambiando de inmediato.",
-          "fr": "Activez le minuteur, bloquez les notifications et travaillez à intensité maximale sur cette seule tâche, puis passez à la suite.",
-          "de": "Aktivieren Sie den Timer und blockieren Sie alle Benachrichtigungen. Arbeiten Sie mit maximaler Intensität an dieser einen Aufgabe, bis die Zeit abläuft.",
-          "pt": "Ligue o cronômetro, bloqueie alertas e trabalhe com intensidade máxima na subtarefa até o alarme tocar, mudando de atividade em seguida.",
-          "id": "Nyalakan timer, aktifkan pemblokir notifikasi, dan kerjakan satu tugas tersebut dengan kecepatan tinggi hingga timer berbunyi, lalu segera berpindah tugas."
+          "ko": "캘린더 블록의 타이머를 맞추고 마트폰과 브라우저 차단 툴을 활성화한 후, 마감 직전의 에너지를 의도적으로 쓰며 해당 시간 동안 한 과제를 격렬하게 끝내고 넘어갑니다."
         }
       }
     ],
-    "pubDate": "2026-06-15",
-    "updatedDate": "2026-06-15",
     "faqs": [
       {
         "question": {
-          "ko": "5분 단위로 스케줄을 잡으면 하루 종일 큰 스트레스를 받지 않나요?",
-          "en": "Doesn't scheduling in 5-minute blocks cause heavy stress all day?",
-          "ja": "5分単位でスケジュールを立てると、一日中強いストレスを感じませんか？",
-          "zh": "以五分钟为单位安排日程，难道不会整天都感到压力巨大吗？",
-          "es": "¿No causa mucho estrés organizar el día en bloques de 5 minutos?",
-          "fr": "Le fait de planifier sa journée en blocs de 5 minutes ne cause-t-il pas un stress important ?",
-          "de": "Verursacht die Planung in 5-Minuten-Blöcken nicht den ganzen Tag über extremen Stress?",
-          "pt": "Organizar a agenda em blocos de 5 minutos não causa estresse excessivo?",
-          "id": "Apakah menjadwalkan dalam blok 5 menit tidak menyebabkan stres berat sepanjang hari?"
+          "ko": "5분 단위로 스케줄을 잡으면 하루 종일 큰 스트레스를 받지 않나요?"
         },
         "answer": {
-          "ko": "초보자가 매일 모든 시간표를 5분 단위로 채우는 것은 당연히 강한 인지적 과부하를 줍니다. 처음에는 하루 중 1~2시간만 집중 시간대로 설정하여 15분 또는 30분 단위의 시간 블록을 지정해 몰입력을 기르는 훈련을 먼저 시작해 보시는 것이 좋습니다.",
-          "en": "For beginners, filling the entire schedule with 5-minute blocks causes cognitive overload. It is recommended to start by scheduling 15 or 30-minute blocks for just 1 or 2 focus hours a day.",
-          "ja": "初心者が毎日すべての時間割を5分単位で埋めるのは、当然強い認知的な過負荷を与えます。最初は一日のうち1〜2時間だけを集中時間帯に設定し、15分または30分単位の時間ブロックを指定して没頭力を養う訓練から始めることをお勧めします。",
-          "zh": "对于初学者来说，每天把所有时间表都填满五分钟的时间块，自然会带来强烈的认知过载。建议一开始每天只设立一到两小时的专注时间，划分成十五分钟或三十分钟的时间块来锻炼沉浸力。",
-          "es": "Para principiantes, llenar toda la agenda con bloques de 5 minutos provoca sobrecarga cognitiva. Se recomienda empezar con bloques de 15 o 30 minutos solo para 1 o 2 horas de enfoque al día.",
-          "fr": "Pour les débutants, remplir tout l'agenda avec des blocs de 5 minutes provoque une surcharge cognitive. Il est conseillé de commencer par des blocs de 15 ou 30 minutes pour seulement 1 ou 2 heures de concentration par jour.",
-          "de": "Beginnen Sie mit 15- oder 30-Minuten-Blöcken für 1 oder 2 Fokus-Stunden pro Tag. Eine vollständige Umstellung führt anfangs zu Überlastung.",
-          "pt": "Para iniciantes, preencher todo o cronograma com blocos de 5 minutos gera sobrecarga cognitiva. Recomenda-se começar com blocos de 15 ou 30 minutos para apenas 1 ou 2 horas de foco por dia.",
-          "id": "Bagi pemula, mengisi seluruh jadwal dengan blok 5 menit tentu menyebabkan beban kognitif berlebih. Disarankan mulai menjadwalkan blok 15 atau 30 menit selama 1 atau 2 jam fokus saja sehari."
+          "ko": "초보자가 매일 모든 시간표를 5분 단위로 채우는 것은 당연히 강한 인지적 과부하를 줍니다. 처음에는 하루 중 1~2시간만 집중 시간대로 설정하여 15분 또는 30분 단위의 시간 블록을 지정해 몰입력을 기르는 훈련을 먼저 시작해 보시는 것이 좋습니다."
         }
       },
       {
         "question": {
-          "ko": "만약 블록으로 지정한 시간 내에 일을 다 끝내지 못했을 때는 어떻게 하나요?",
-          "en": "What if I can't finish the task within the allocated time block?",
-          "ja": "もしブロックで指定した時間内に仕事を終えられなかった場合はどうしますか？",
-          "zh": "如果在规定的时间块内没有完成工作该怎么办？",
-          "es": "¿Qué pasa si no termino el trabalho dentro del bloque asignado?",
-          "fr": "Que se passe-t-il si je ne termine pas le travail dans le bloc de temps alloué ?",
-          "de": "Was mache ich, wenn ich eine Aufgabe nicht im zugewiesenen Block schaffe?",
-          "pt": "E se eu não conseguir terminar a tarefa dentro do bloco alocado?",
-          "id": "Bagaimana jika saya tidak dapat menyelesaikan pekerjaan dalam blok waktu yang dialokasikan?"
+          "ko": "만약 블록으로 지정한 시간 내에 일을 다 끝내지 못했을 때는 어떻게 하나요?"
         },
         "answer": {
-          "ko": "지정된 시간이 다 되면 일단 다음 계획된 블록으로 무조건 넘어갑니다. 끝내지 못한 일은 오후 늦게 별도로 마련해 둔 '여유 시간(Buffer Block)'에 할당하여 처리합니다. 이렇게 해야 한 과제가 지연되어 전체 하루 일정이 도미노처럼 붕괴하는 것을 막고 시간의 통제권을 지킬 수 있습니다.",
-          "en": "Move to the next block immediately. Assign unfinished work to a dedicated 'Buffer Block' late in the afternoon to prevent a single delay from ruining the whole day.",
-          "ja": "指定された時間が来たら、まずは次の予定されたブロックへ無条件に移行します。終えられなかった仕事は、午後の遅い時間に別途設けておいた「バッファブロック（Buffer Block）」に割り当てて処理します。これにより、一つの課題の遅れが一日全体の予定をドミノ倒しのように崩壊させるのを防ぎ、時間のコントロールを守ることができます。",
-          "zh": "时间一到，无论如何请先转入下一个既定的时间块。未完成的工作会被分配到下午晚些时候专门留出的“缓冲时间块（Buffer Block）”中处理。这样能防止一个任务拖延导致全天日程像多米诺骨牌一样崩溃，确保掌握时间的主动权。",
-          "es": "Pase al siguiente bloque de inmediato. Asigne el trabalho pendiente a un 'bloque de reserva' (Buffer Block) al final de la tarde, evitando que un retraso arruine todo el día.",
-          "fr": "Passez immédiatement au bloc suivant. Allouez le travail restant à un 'bloc tampon' (Buffer Block) en fin d'après-midi, pour éviter qu'un retard ne gâche toute la journée.",
-          "de": "Wechseln Sie sofort zum nächsten Block. Verschieben Sie Unerledigtes auf einen speziellen Puffer-Block (Buffer Block) am Spätnachmittag, damit kein Domino-Effekt entsteht.",
-          "pt": "Mude para o próximo bloco imediatamente. Aloque o trabalho pendente em um 'bloco de folga' (Buffer Block) no final da tarde, evitando que um atraso estrague todo o dia.",
-          "id": "Segera pindah ke blok berikutnya. Alokasikan pekerjaan yang belum selesai ke 'Buffer Block' khusus di sore hari untuk mencegah satu penundaan merusak seluruh hari."
+          "ko": "지정된 시간이 다 되면 일단 다음 계획된 블록으로 무조건 넘어갑니다. 끝내지 못한 일은 오후 늦게 별도로 마련해 둔 '여유 시간(Buffer Block)'에 할당하여 처리합니다. 이렇게 해야 한 과제가 지연되어 전체 하루 일정이 도미노처럼 붕괴하는 것을 막고 시간의 통제권을 지킬 수 있습니다."
         }
       }
     ]

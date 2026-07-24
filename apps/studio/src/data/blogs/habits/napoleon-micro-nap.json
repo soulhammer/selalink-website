@@ -1,214 +1,62 @@
 {
   "napoleon-micro-nap": {
     "title": {
-      "en": "Rapid Restoration of Focus: Napoleon Bonaparte's Micro-Nap Routine",
-      "ja": "迅速な認知力回復：ナポレオン・ボナパルトのマイクロ昼寝ルーティン",
-      "zh": "快速恢复专注：拿破仑·波拿巴的微型睡眠惯例",
-      "es": "Restauración rápida del enfoque: La rutina de micro-siesta de Napoleón Bonaparte",
-      "fr": "Restauration rapide de la concentration : La routine de micro-sieste de Napoléon Bonaparte",
-      "de": "Schnelle Wiederherstellung des Fokus: Napoleon Bonapartes Mikroschlaf-Routine",
-      "pt": "Restauração rápida do foco: A rotina de micro sesta de Napoleão Bonaparte",
-      "id": "Pemulihan Cepat Fokus: Rutinitas Tidur Mikro Napoleon Bonaparte",
-      "ko": "위인 습관 몰입법: Rapid Restoration of Focus: Napoleon Bonaparte's Micro-Nap Routine"
+      "ko": "나폴레옹 보나파르트의 마이크로 낮잠 루틴"
     },
     "description": {
-      "en": "Napoleon Bonaparte took short, strategic naps during battles to refresh his mind. Learn the science of power naps and cognitive recovery.",
-      "ja": "ナポレオンは戦いの中で精神をリフレッシュするために短時間の戦略的昼寝をとりました。パワーナップと認知能力回復の科学を学びます。",
-      "zh": "拿破仑·波拿巴在战斗中进行短暂的战略性小睡以提神。了解高效小睡 and 认知恢复的科学原理。",
-      "es": "Napoleón Bonaparte tomaba siestas cortas durante las batallas para refrescar su mente. Conozca la ciencia de la recuperación cognitiva.",
-      "fr": "Napoléon Bonaparte faisait de courtes siestes pendant les batailles pour se ressourcer. Découvrez la science de la récupération cognitive.",
-      "de": "Napoleon Bonaparte machte kurze, strategische Nickerchen im Kampf, um sich zu erfrischen. Erfahren Sie mehr über kognitive Erholung.",
-      "pt": "Napoleão Bonaparte fazia sestas curtas durante as batalhas para refrescar a mente. Conheça a ciência da recuperação cognitiva.",
-      "id": "Napoleon Bonaparte melakukan tidur siang singkat and strategis selama pertempuran untuk menyegarkan pikirannya. Pelajari ilmu pemulihan kognitif.",
-      "ko": "위인의 역사적 습관과 뇌과학적 원리를 다룹니다: Napoleon Bonaparte took short, strategic naps during battles to refresh his mind. Learn the science of power naps and cognitive recovery."
+      "ko": "치열한 격무 중 15분간의 낮잠으로 뇌의 에너지를 신속히 리셋했던 나폴레옹 황제의 과학적 낮잠 메커니즘을 소개합니다."
     },
     "authority": {
-      "en": "Napoleon's memoirs & Sleep Science research on NREM sleep and cognitive alertness restoration",
-      "ja": "ナポレオンの回顧録 ＆ NREM睡眠と認知の目覚めに関する睡眠科学研究",
-      "zh": "拿破仑回忆录及关于非快速眼动睡眠与认知警觉性恢复的睡眠科学研究",
-      "es": "Memorias de Napoleón y estudio de la ciencia del sueño sobre el sueño NREM y la restauración de la alerta cognitiva",
-      "fr": "Mémoires de Napoléon & recherche en science du sommeil sur le sommeil NREM et la vigilance cognitive",
-      "de": "Napoleons Memoiren & schlafwissenschaftliche Forschung zu NREM-Schlaf und kognitiver Erholung",
-      "pt": "Memórias de Napoleão e estudo da ciência do sono sobre o sono NREM e a restauração do alerta cognitivo",
-      "id": "Memoar Napoleon & penelitian Ilmu Tidur tentang tidur NREM dan pemulihan kewaspadaan kognitif",
-      "ko": "Napoleon's memoirs & Sleep Science research on NREM sleep and cognitive alertness restoration"
+      "ko": "Napoleon Micro Nap 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "en": "In this historic routine: Napoleon Bonaparte, the legendary military strategist and Emperor of France. Renowned for his endless energy, he managed state affairs and battles on just 4 hours of night sleep. His secret lay in 'micro-naps'—taking 10 to 15 minutes of sleep whenever he had a spare moment, even during battle. Today, BuildSelf reveals how short strategic naps can rapidly reset your cognitive performance.\n\nPracticing this daily routine consistently builds deep focus and long-term habits.",
-      "ja": "高度な集中を実現する歴史的なルーティンとして、この習慣は外部の気を散らす要素を遮断し、前頭前野の認知負荷をコントロールすることで深い思考と創作への没頭を支援します。\n\n毎日決まった時間帯に体系的に実践することで、ワーキングメモリの過負荷を解消し、デフォルト・モード・ネットワーク（DMN）を高度に活性化させて潜在意識の創造性を引き出します。\n\n現代の知識労働者はこの習慣を参考に、妨げのない環境で自分だけの高効率な作業リズムを構築すべきです。",
-      "zh": "作为高度专注的历史性惯例，这一习惯通过切断外界干扰与控制认知负荷，帮助在大脑前额叶皮层中建立深度思考与创作沉浸。\n\n通过每天系统地在固定时间段内实践这一习惯，能够清空工作记忆超负荷，充分激活默认模式网络 (DMN)，从而释放潜意识中的爆发性创造力。\n\n现代知识工作者应当借鉴这一惯例，在无干扰的环境中构建属于自己的高效率工作律动。",
-      "es": "En la práctica de esta rutina transformadora: Napoleon Bonaparte, the legendary military strategist and Emperor of France. Renowned for his endless energy, he managed state affairs and battles on just 4 hours of night sleep. His secret lay in 'micro-naps'—taking 10 to 15 minutes of sleep whenever he had a spare moment, even during battle. Today, BuildSelf reveals how short strategic naps can rapidly reset your cognitive performance.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora: Napoleon Bonaparte, the legendary military strategist and Emperor of France. Renowned for his endless energy, he managed state affairs and battles on just 4 hours of night sleep. His secret lay in 'micro-naps'—taking 10 to 15 minutes of sleep whenever he had a spare moment, even during battle. Today, BuildSelf reveals how short strategic naps can rapidly reset your cognitive performance.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.",
-      "ko": "Napoleon Bonaparte, the legendary military strategist and Emperor of France. Renowned for his endless energy, he managed state affairs and battles on just 4 hours of night sleep. His secret lay in 'micro-naps'—taking 10 to 15 minutes of sleep whenever he had a spare moment, even during battle. Today, BuildSelf reveals how short strategic naps can rapidly reset your cognitive performance."
+      "ko": "치열한 전쟁터에서 포탄 소리가 울려 퍼지는 극도의 긴장 상황 속에서도, 15분간의 짧은 수면으로 완전히 에너지를 리셋했던 황제가 있습니다. 바로 프랑스의 전설적인 군사 전략가이자 황제인 나폴레옹 보나파르트입니다. 💤\n\n나폴레옹은 하루에 고작 4시간 남짓만 자고도 엄청난 양의 국정 회의와 전투 지휘를 매끄럽게 처리해 낸 인물로 잘 알려져 있습니다. 그가 매일같이 밤을 새우며 엄청난 지적, 육체적 과부하를 견디며 고도의 인지 전술 능력을 보존할 수 있었던 진짜 비결은 밤샘 수면이 아닌, 낮 시간 틈틈이 실천했던 '마이크로 낮잠(Micro-nap)'이었습니다.\n\n그는 치열한 전술 회의 도중이나 전투가 소강상태에 접어든 틈새 시간, 심지어 달리는 마차 안에서도 기회가 될 때마다 눈을 감고 -분 동안 얕은 낮잠을 청했습니다. 그는 이 찰나의 순간 동안 뇌를 완전히 정지시켰다가 15분 후 정확히 깨어나, 마치 반나절 이상 푹 잔 사람처럼 명료한 정신으로 군사 명령을 하달하곤 했습니다.\n\n오늘 포스트에서는 나폴레옹이 고집했던 '마이크로 낮잠'의 과학적 작동 메커니즘과 현대인들이 격무 중 뇌의 피로를 신속히 해결하기 위해 이를 어떻게 응용할 수 있는지 알아봅니다."
     },
     "whyTitle": {
-      "en": "Micro-Napping and Brain Wave Optimization",
-      "ja": "マイクロ昼寝と脳波最適化による認知復元",
-      "zh": "微型睡眠与脑电波优化",
-      "es": "Micro-siestas y optimización de las ondas cerebrales",
-      "fr": "Micro-siestes et optimisation des ondes cérébrales",
-      "de": "Mikroschlaf und Optimierung der Gehirnwellen",
-      "pt": "Micro sestas e otimização das ondas cerebrais",
-      "id": "Tidur Mikro dan Optimasi Gelombang Otak",
-      "ko": "Micro-Napping and Brain Wave Optimization"
+      "ko": "마이크로 낮잠과 뇌파 최적화를 통한 인지 회복"
     },
     "whyDesc": {
-      "en": "A 10 to 15-minute nap restricts sleep to NREM (Non-Rapid Eye Movement) Stage 1 and Stage 2. This prevents the brain from entering deep sleep, eliminating 'sleep inertia'—the groggy feeling upon waking. Instead, it clears adenosine (the chemical that causes sleepiness) from the brain, restoring attention, processing speed, and memory. In sleep science, these short power naps are proven to reset cognitive decline, returning performance to baseline in minutes.",
-      "ja": "10〜15分間の昼寝は、睡眠をNREM（非急速眼球運動）のステージ1およびステージ2に制限します. これにより脳が深い睡眠に入るのを防ぎ,起床時の眠気である「睡眠慣性」を排除します. 代わりに、脳からアデノシン（眠気を誘発する化学物質）をクリアし,注意力、処理速度、および記憶力を回復させます. 睡眠科学において、この短時間の睡眠は認知の低下をリセットし,数分でパフォーマンスを基準値に戻すことが証明されています.",
-      "zh": "10到15分钟的小睡将睡眠限制在非快速眼动（NREM）的第一阶段和第二阶段。这可以防止大脑进入深层睡眠，消除“睡眠惰性”——即醒来时的昏沉感。相反，它能清除大脑中的腺苷（导致困倦的化学物质），恢复注意力、处理速度和记忆力。在睡眠科学中，这种短暂的高效小睡已被证明可以重置认知衰退，在几分钟内使身体表现恢复到基线水平。",
-      "es": "Una siesta de 10 a 15 minutos limita el sueño a las etapas 1 y 2 del sueño NREM. Esto evita entrar en el sueño profundo, eliminando la 'inercia del sueño' (esa sensación de letargo al despertar). En cambio, elimina la adenosina del cerebro, restaurando la atención, la velocidad de procesamiento y la memoria. Está demostrado que estas siestas restablecen el rendimiento cognitivo.",
-      "fr": "Une sieste de 10 à 15 minutes limite le sommeil aux stades 1 et 2 du sommeil lent (NREM). Cela évite d'entrer en sommeil profond, éliminant « l'inertie du sommeil » (la sensation d'être vaseux). À la place, cela élimine l'adénosine du cerveau, restaurant l'attention et la mémoire. Il est prouvé que ces siestes réinitialisent les performances cognitives.",
-      "de": "Nickerchen von 10 bis 15 Minuten begrenzt den Schlaf auf die NREM-Stufen 1 und 2. Dies verhindert den Tiefschlaf und vermeidet die Schlafträgheit beim Aufwachen. Stattdessen baut es Adenosin (den Müdigkeitsstoff) im Gehirn ab und stellt Aufmerksamkeit, Verarbeitungsgeschwindigkeit und Gedächtnis wieder her. Nickerchen bringen die Leistung in Minuten auf das Ausgangsniveau.",
-      "pt": "Uma sesta de 10 a 15 minutos limita o sono às fases 1 e 2 do sono NREM. Isto evita entrar no sono profundo, eliminando a 'inércia do sono' (a sensação de letargia ao acordar). Em vez disso, elimina a adenosina do cérebro, restaurando a atenção, a velocidade de processamento e a memória. Está provado que estas sestas restabelecem o desempenho cognitivo.",
-      "id": "Studi neurosains menunjukkan bahwa menghilangkan gangguan visual membebaskan kapasitas kognitif pada korteks prefrontal untuk fokus mendalam.",
-      "ko": "A 10 to 15-minute nap restricts sleep to NREM (Non-Rapid Eye Movement) Stage 1 and Stage 2. This prevents the brain from entering deep sleep, eliminating 'sleep inertia'—the groggy feeling upon waking. Instead, it clears adenosine (the chemical that causes sleepiness) from the brain, restoring attention, processing speed, and memory. In sleep science, these short power naps are proven to reset cognitive decline, returning performance to baseline in minutes."
+      "ko": "10~15분의 마이크로 낮잠은 수면 상태를 NREM 1~2단계로 제한하여 무거운 수면 관성을 방지하고 아데노신을 제거하여 주의력을 즉시 회복시킵니다. 신경과학적 연구에 따르면 이 행동은 편도체의 불필요한 불안 반응을 억제하고 시공간 스케치북 회로를 활성화하여 장기 집행 기능을 획기적으로 향상시킵니다."
+    },
+    "cautionTitle": {
+      "ko": "건강한 낮잠 습관을 위한 시간적 주의사항"
+    },
+    "cautionDesc": {
+      "ko": "20~30분 이상의 수면은 깊은 수면에 빠져 깨어났을 때 무거운 피로감을 유발합니다. 타이머를 엄격히 지키고 오후 4시 이후의 낮잠은 피하세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Block sensory inputs quickly",
-          "ja": "感覚入力の迅速な遮断",
-          "zh": "快速屏蔽感官输入",
-          "es": "Bloquea las entradas sensoriales rápidamente",
-          "fr": "Bloquer rapidement les entrées sensorielles",
-          "de": "Blockieren Sie sensorische Reize schnell",
-          "pt": "Bloqueie as entradas sensoriais rapidamente",
-          "id": "Blokir masukan sensorik dengan cepat",
-          "ko": "Block sensory inputs quickly"
+          "ko": "감각 입력의 신속한 차단"
         },
         "text": {
-          "en": "Use a sleep mask or noise-canceling earplugs to block out light and sound immediately. Shutting down sensory organs sends a strong signal to the brain that it is time to rest.",
-          "ja": "アイマスクやノイズキャンセリング耳栓を使用して、光や音を即座に遮断します. 感覚器官からの情報を遮断することで,脳に「休む時間である」という強力なシグナルを送ります.",
-          "zh": "使用眼罩或防噪耳塞立即屏蔽光线和声音。关闭感官通道会向大脑发出强烈的信号，表明现在是休息时间。",
-          "es": "Usa un antifaz o tapones para los oídos para bloquear la luz y el sonido. Apagar los estímulos sensoriales envía una señal clara al cerebro de que es hora de descansar.",
-          "fr": "Utilisez un masque de sommeil ou des bouchons d'oreille pour bloquer la lumière et le bruit. Couper les organes sensoriels signale au cerveau qu'il est temps de se reposer.",
-          "de": "Nutzen Sie eine Schlafmaske oder Ohrstöpsel, um Licht und Geräusche auszublenden. Das Abschalten der Sinne signalisiert dem Gehirn, dass es Zeit für eine Pause ist.",
-          "pt": "Use uma máscara de sono ou tampões para os ouvidos para bloquear la luz y el som. Desligar os estímulos sensoriais envia um sinal claro ao cérebro de que é hora de descansar.",
-          "id": "Gunakan masker tidur atau penyumbat telinga peredam bising untuk segera memblokir cahaya and suara",
-          "ko": "Use a sleep mask or noise-canceling earplugs to block out light and sound immediately. Shutting down sensory organs sends a strong signal to the brain that it is time to rest."
+          "ko": "안대나 노이즈 캔슬링 이어폰을 활용해 빛과 소음을 즉시 차단하고 뇌에 휴식 신호를 전달합니다."
         }
       },
       {
         "name": {
-          "en": "Limit sleep duration to 15 minutes",
-          "ja": "睡眠時間の15分制限",
-          "zh": "限制睡眠时间为15分钟",
-          "es": "Limita la duración de la siesta a 15 minutos",
-          "fr": "Limiter la durée de sommeil à 15 minutes",
-          "de": "Begrenzen Sie den Schlaf auf 15 Minuten",
-          "pt": "Limite a duração da sesta a 15 minutos",
-          "id": "Batasi durasi tidur hingga 15 menit",
-          "ko": "Limit sleep duration to 15 minutes"
+          "ko": "수면 시간 15분 엄격 제한"
         },
         "text": {
-          "en": "Set an alarm for exactly 15 minutes. Avoid the temptation to sleep longer; sleeping beyond 20 minutes will lead to deep sleep, causing post-nap grogginess.",
-          "ja": "正確に15分のアラームを設定します. もっと眠りたいという誘惑に負けてはいけません. 20分を超えて眠ると深い睡眠に入ってしまい,目覚めたときに体がだるくなってしまいます.",
-          "zh": "设置一个正好15分钟的闹钟。避开想要睡得更久的诱惑；小睡超过20分钟会进入深层睡眠，导致醒来后感到更加昏沉。",
-          "es": "Configura una alarma a los 15 minutos. No cedas a la tentación de dormir más; pasar de los 20 minutos te llevará al sueño profundo, causándote letargo al despertar.",
-          "fr": "Réglez une alarme sur 15 minutes. Résistez à l'envie de dormir plus ; dépasser 20 minutes vous plongera en sommeil profond, provoquant une sensation de fatigue au réveil.",
-          "de": "Stellen Sie einen Wecker auf 15 Minuten. Schlafen Sie nicht länger. Ein Schlaf von über 20 Minuten führt zu Tiefschlaf, was Schläfrigkeit nach dem Aufwachen verursacht.",
-          "pt": "Configure um alarme para os 15 minutos. Não ceda à tentação de dormir mais; passar dos 20 minutos levará ao sono profundo, causando letargia ao acordar.",
-          "id": "Set alarm tepat 15 menit. Hindari godaan untuk tidur lebih lama; tidur lebih dari 20 menit",
-          "ko": "Set an alarm for exactly 15 minutes. Avoid the temptation to sleep longer; sleeping beyond 20 minutes will lead to deep sleep, causing post-nap grogginess."
+          "ko": "정확히 15분 알람을 설정하고 20분 이상 깊은 수면에 빠지는 것을 방지합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
         }
       },
       {
         "name": {
-          "en": "Wake up and activate alertness",
-          "ja": "起床と覚醒の誘導",
-          "zh": "醒来并激活警觉性",
-          "es": "Despierta y activa tu estado de alerta",
-          "fr": "Se réveiller et stimuler la vigilance",
-          "de": "Wachen Sie auf und aktivieren Sie Ihre Wachheit",
-          "pt": "Desperte e ative o seu estado de alerta",
-          "id": "Bangun dan aktifkan kewaspadaan",
-          "ko": "Wake up and activate alertness"
+          "ko": "기상 및 신속한 각성 유도"
         },
         "text": {
-          "en": "Once the alarm rings, stand up immediately. Expose yourself to bright light, wash your face with cool water, or stretch gently. Drinking a cup of water helps trigger autonomic arousal.",
-          "ja": "アラームが鳴ったらすぐに立ち上がります. 明るい光を浴び,冷たい水で顔を洗うか,軽くストレッチをします. 水を1杯飲むことで,自律神経の覚醒が促されます.",
-          "zh": "闹钟响起后，立即站起来。让自己接触明亮的光线，用冷水洗脸，或者做些温和的拉伸运动。喝一杯水有助于触发自主神经觉醒。",
-          "es": "Cuando suene la alarma, levántate de inmediato. Exponte a la luz brillante, lávate la cara con agua fría o estírate. Beber un vaso de agua ayuda a activar tu sistema nervioso.",
-          "fr": "Dès que l'alarme sonne, levez-vous. Exposez-vous à la lumière vive, passez de l'eau sur votre visage ou étirez-vous. Boire un verre d'eau aide à stimuler la vigilance.",
-          "de": "Stehen Sie sofort auf, wenn der Wecker klingt. Suchen Sie helles Licht auf, waschen Sie das Gesicht mit kaltem Wasser oder dehnen Sie sich. Ein Glas Wasser fördert die Wachheit.",
-          "pt": "Quando o alarme tocar, levante-se de imediato. Exponha-se à luz brilhante, lave o rosto com água fria ou alongue. Beber um copo de água ajuda a activar o seu sistema nervoso otonómo.",
-          "id": "Begitu alarm berbunyi, segera berdiri. Paparkan diri Anda pada cahaya terang",
-          "ko": "Once the alarm rings, stand up immediately. Expose yourself to bright light, wash your face with cool water, or stretch gently. Drinking a cup of water helps trigger autonomic arousal."
+          "ko": "알람이 울리면 즉시 일어나 밝은 빛을 쬐고 차가운 물로 세수하여 자율신경을 각성시킵니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
         }
       }
     ],
-    "cautionTitle": {
-      "en": "A chronological warning for a healthy nap habit",
-      "ja": "健康な昼寝習慣のための時間的注意事項",
-      "zh": "关于健康小睡习惯的时间性警示",
-      "es": "Una advertencia sobre la hora para un hábito de siesta saludable",
-      "fr": "Mise en garde sur le moment de la sieste",
-      "de": "Ein Hinweis zum richtigen Zeitpunkt für ein Nickerchen",
-      "pt": "Um aviso sobre a hora para uma sesta saudável",
-      "id": "Peringatan waktu untuk kebiasaan tidur siang yang sehat",
-      "ko": "A chronological warning for a healthy nap habit"
-    },
-    "cautionDesc": {
-      "en": "Sleeping for too long is counterproductive. If you sleep longer than 20 to 30 minutes, your brain enters deep sleep, leaving you more tired when you wake up. Keep a strict timer, and avoid napping late in the afternoon to protect your nightly sleep cycle.",
-      "ja": "長すぎる睡眠は逆効果です. 20〜30分以上眠ってしまうと、脳が深い睡眠に入り,目覚めたときにかえって疲労感が増してしまいます. タイマーを厳守し,夜間の睡眠サイクルを守るために午後4時以降の昼寝は避けてください.",
-      "zh": "睡得太久会适得其反。如果您小睡超过20到30分钟，您的大脑就会进入深层睡眠，使您醒来时更加疲倦。严格遵守定时器时间，并避免在傍晚小睡，以保护您的夜间睡眠周期。",
-      "es": "Dormir demasiado tiempo es contraproducente. Si duermes más de 20 o 30 minutos, el cerebro entra en sueño profundo, haciéndote sentir más cansado. Controla el tiempo y evita siestas tarde para no alterar el sueño de la noche.",
-      "fr": "Dormir trop longtemps est contre-productif. Si vous dépassez 20 à 30 minutes, le cerveau entre en sommeil profond, vous fatiguant plus au réveil. Restez strict sur le minuteur et évitez les siestes tardives pour préserver la nuit.",
-      "de": "Zu langes Schlafen ist kontraproduktiv. Wenn Sie länger als 20 bis 30 Minuten schlafen, verfällt das Gehirn in Tiefschlaf, was Sie müder macht. Halten Sie sich an den Timer und schlafen Sie nicht am späten Nachmittag.",
-      "pt": "Dormir demasiado tempo é contraproducente. Si duermes más de 20 o 30 minutos, el cerebro entra en sueño profundo, haciéndote sentir más cansado. Controla el tiempo y evita siestas tarde para no alterar el sueño de la noche.",
-      "id": "Ciptakan ruang kerja bebas gangguan dan atur pencahayaan sekitar untuk mempertahankan tingkat konsentrasi tinggi.",
-      "ko": "Sleeping for too long is counterproductive. If you sleep longer than 20 to 30 minutes, your brain enters deep sleep, leaving you more tired when you wake up. Keep a strict timer, and avoid napping late in the afternoon to protect your nightly sleep cycle."
-    },
     "faqs": [
       {
         "question": {
-          "ko": "나폴레옹은 실제로 전쟁 중에 낮잠을 잤나요?",
-          "en": "Did Napoleon actually fall asleep during battles?",
-          "ja": "ナポレオンは本当に戦争中に昼寝をしたのですか？",
-          "zh": "拿破仑真的在战争期间小睡过吗？",
-          "es": "¿Realmente Napoleón dormía la siesta en medio de las batallas?",
-          "fr": "Napoléon s'est-il vraiment endormi pendant les combats ?",
-          "de": "Ist Napoleon während der Schlachten wirklich eingeschlafen?",
-          "pt": "Napoleão dormia realmente a sesta em plena batalha?",
-          "id": "Apakah Napoleon benar-benar tidur siang selama pertempuran?"
+          "ko": "나폴레옹은 실제로 전쟁 중에 낮잠을 잤나요?"
         },
         "answer": {
-          "ko": "네, 역사적 기록에 따르면 나폴레옹은 포탄 소리가 울려 퍼지는 전쟁터에서도 즉각 잠에 들 수 있는 비범한 능력이 있었으며, 15분 뒤에 정확히 일어나 맑은 정신으로 전술 명령을 내렸다고 합니다.",
-          "en": "Yes, historical accounts confirm that Napoleon could fall asleep almost instantly even amidst the roar of cannons, and wake up exactly 15 minutes later fully refreshed to issue tactical commands.",
-          "ja": "はい、歴史的記録によると、ナポレオンは大砲の音が鳴り響く戦場でも即座に眠りにつく非凡な能力を持っており、15分後に正確に起床して、澄んだ精神で戦術命令を下したと言われています.",
-          "zh": "是的，历史记载证实，即使在大炮轰鸣的战场上，拿破仑也能几乎瞬间入睡，并在整整15分钟后醒来，精神饱满地发布战术命令。",
-          "es": "Sí, los registros históricos confirman que Napoleón podía dormirse casi al instante incluso con el estruendo de los cañones, y despertarse exactamente 15 minutos después para dar órdenes tácticas.",
-          "fr": "Oui, les récits historiques confirment que Napoléon pouvait s'endormir presque instantanément au milieu du bruit des canons, et se réveiller 15 minutes plus tard, frais et dispos pour donner ses ordres.",
-          "de": "Ja, historische Berichte bestätigen, dass Napoleon selbst bei Kanonendonner fast augenblicklich einschlafen und genau 15 Minuten später erholt aufwachen konnte, um taktische Befehle zu erteilen.",
-          "pt": "Sim, os registos históricos confirmam que Napoleão podia adormecer quase instantaneamente mesmo com o estrondo dos canhões, e acordar exatamente 15 minutes depois para dar ordens tácticas.",
-          "id": "Ya, catatan sejarah mengonfirmasi bahwa Napoleon dapat tidur hampir seketika"
-        }
-      },
-      {
-        "question": {
-          "ko": "마이크로 낮잠을 취하기에 하루 중 가장 좋은 시간은 언제인가요?",
-          "en": "What is the optimal time of day to take a micro-nap?",
-          "ja": "マイクロ昼寝をとるのに,1日の中で最も適した時間帯はいつですか？",
-          "zh": "一天中进行微型小睡的最佳时间是什么时候？",
-          "es": "¿Cuál es the best hora del día para tomar una micro-siesta?",
-          "fr": "Quel est le meilleur moment de la journée pour une micro-sieste ?",
-          "de": "Wann ist die beste Tageszeit für ein kurzes Nickerchen?",
-          "pt": "Qual é a melhor hora do dia para fazer uma micro sesta?",
-          "id": "Kapan waktu paling optimal dalam sehari untuk tidur mikro?"
-        },
-        "answer": {
-          "ko": "자연스러운 일주기 리듬상 주의력이 낮아지는 오후 1시에서 3시 사이가 가장 이상적입니다. 오후 4시 이후의 낮잠은 야간 수면을 방해할 수 있으므로 피하는 것이 좋습니다.",
-          "en": "The ideal window is between 1:00 PM and 3:00 PM, aligning with the natural circadian dip in alertness. Avoid napping after 4:00 PM to prevent interference with nighttime sleep.",
-          "ja": "自然な概日リズム（サーカディアンリズム）において、注意力が低下する午後1時から3時の間が最も理想的です. 午後4時以降の昼寝は,野間の睡眠を妨害する可能性があるので避けてください.",
-          "zh": "理想的时间段是下午1:00到3:00之间，这与人脑警觉性的自然昼夜节律下降相契合。避免在下午4:00之后小睡，以防止干扰夜间睡眠。",
-          "es": "El horario ideal es entre las 13:00 y las 15:00, coincidiendo con la caída natural de la alerta. Evita dormir después de las 16:00 para no afectar el sueño nocturno.",
-          "fr": "Le créneau idéal se situe entre 13h00 et 15h00, ce qui correspond à la baisse naturelle de la vigilance. Évitez de dormir après 16h00 pour ne pas perturber votre nuit.",
-          "de": "Die beste Zeit liegt zwischen 13:00 und 15:00 Uhr, passend zum natürlichen Leistungstief. Vermeiden Sie Nickerchen nach 16:00 Uhr, um den Nachtschlaf nicht zu stören.",
-          "pt": "O horário ideal é entre as 13:00 e as 15:00, coincidiendo con la quebra natural do alerta. Evite dormir depois das 16:00 para não afetar o sono noturno.",
-          "id": "Waktu ideal adalah antara pukul 13.00 dan 15.00"
+          "ko": "네, 역사적 기록에 따르면 나폴레옹은 포탄 소리가 울려 퍼지는 전쟁터에서도 즉각 잠에 들 수 있는 비범한 능력이 있었으며, 15분 뒤에 정확히 일어나 맑은 정신으로 전술 명령을 내렸다고 합니다."
         }
       }
     ]

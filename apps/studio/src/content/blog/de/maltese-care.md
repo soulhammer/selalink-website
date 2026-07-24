@@ -15,21 +15,16 @@ faqs:
   - question: "Können Sicherheitstreppen eine Patellaluxation vollständig verhindern?"
     answer: "Treppen reduzieren zwar die Stoßbelastung, aber rutschige Böden und langes Pfotenfell spielen ebenfalls eine Rolle. Das Kürzen des Pfotenfells und das Auslegen von Antirutschmatten sind notwendig."
 ---
-
-Malteser sind mit ihrem weißen, seidigen Fell und den drei schwarzen Punkten (Augen und Nase) weltweit beliebte Begleithunde. Sie sind zwar lebhaft und anhänglich, drücken aber ihre Grenzen klar aus, was ihnen den Ruf einträgt, temperamentvoll zu sein. 🐕
-
-Malteser-Besitzer sorgen sich jedoch oft um zwei genetische Probleme: Patellaluxation (ausgekugelte Kniescheiben) und Tränenflecken, die rote Streifen und mögliche Hautinfektionen verursachen. Tägliche Anpassungen des Lebensstils sind entscheidend für den Umgang mit diesen Beschwerden.
-
-Heute befasst sich PetSelf mit der Körpersprache des Maltesers und stellt eine sichere, tägliche 3-Schritte-Pflegeroutine zum Schutz seiner Gelenke und Augen vor.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Veterinärmedizinische & verhaltensbedingte Nachweise
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Inhalt basiert auf <strong>Offizieller Rasseführer des American Kennel Clubs (AKC) und IAABC-Verhaltensprotokolle</strong>.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </div>
 </div>
@@ -47,7 +42,7 @@ Heute befasst sich PetSelf mit der Körpersprache des Maltesers und stellt eine 
 
 ## 1. Körpersprache des Maltesers: Signale von Stress und Komfort
 
-Da sie sehr auf ihre Besitzer fixiert sind, zeigen Malteser ihren psychischen Zustand lautlos durch Körpergesten. Typische Beschwichtigungssignale (Calming Signals) sind 'Nasenlecken' und 'Gähnen'. In einer angespannten oder ungewohnten Umgebung ist das Lecken der Nase oder das Gähnen nicht auf Müdigkeit zurückzuführen; es ist eine friedliche Botschaft, um sich selbst zu beruhigen und andere aufzufordern, sie nicht zu bedrohen. Wenn Besitzer in dieser Zeit übermäßigen Konakt fortsetzen, steigt der Stress. Am besten ist es, einen Schritt zurückzutreten und ihnen Freiraum zu geben.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -81,7 +76,7 @@ Da sie sehr auf ihre Besitzer fixiert sind, zeigen Malteser ihren psychischen Zu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Rutschschutzprüfung und Gelenkdehnbewegung</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Überprüfen Sie den Halt der Matten. Massieren Sie morgens beim Dehnen sanft die Hintergelenke, um Muskeln zu lockern. Kürzen Sie das Fell an den Pfotenballen.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   </p>
 </div>
 
@@ -91,7 +86,7 @@ Da sie sehr auf ihre Besitzer fixiert sind, zeigen Malteser ihren psychischen Zu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Augenhygiene und Bürstenpflege</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Reinigen Sie einmal täglich die Augenpartie mit feinen Kämmen und Pflegelösungen. Nasses Fell führt zu roten Flecken und Infektionen; tupfen Sie es trocken.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   </p>
 </div>
 
@@ -101,7 +96,7 @@ Da sie sehr auf ihre Besitzer fixiert sind, zeigen Malteser ihren psychischen Zu
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Gelenk-Nahrungsergänzung und Pfotendesensibilisierung</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Geben Sie Gelenkpräparate. Berühren Sie die Pfoten sanft und belohnen Sie sofort. Dies beugt Abwehrreaktionen beim Krallenschneiden oder bei Untersuchungen vor.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   </p>
 </div>
 
@@ -110,7 +105,7 @@ Da sie sehr auf ihre Besitzer fixiert sind, zeigen Malteser ihren psychischen Zu
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </div>
 </div>
@@ -128,7 +123,7 @@ Da sie sehr auf ihre Besitzer fixiert sind, zeigen Malteser ihren psychischen Zu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Malteser sind Zwerghunde mit hochentwickelten sensorischen Nerven in den Pfoten, weshalb sie Berührungen instinktiv meiden. Ein Desensibilisierungstraining (sanftes Berühren der Pfoten mit anschließender Belohnung) wird empfohlen.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </details>
 
@@ -138,7 +133,7 @@ Da sie sehr auf ihre Besitzer fixiert sind, zeigen Malteser ihren psychischen Zu
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Treppen reduzieren zwar die Stoßbelastung, aber rutschige Böden und langes Pfotenfell spielen ebenfalls eine Rolle. Das Kürzen des Pfotenfells und das Auslegen von Antirutschmatten sind notwendig.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </details>
 </div>

@@ -15,24 +15,23 @@ faqs:
   - question: "Apakah normal jika kelinci sering menggelengkan kepala dan menggaruk telinga?"
     answer: "Tidak normal. Telinga menggantung mudah lembap dan terinfeksi tungau atau jamur. Jika ada kotoran hitam atau garukan hebat, segera konsultasikan ke dokter hewan."
 ---
-
-Holland Lop sangat disukai karena wajah bulat dan telinganya yang menggantung. Menurut standar House Rabbit Society (HRS), bentuk telinga menggantung butuh pemeriksaan rutin agar tidak infeksi otitis, serta rumput Timothy tak terbatas 24 jam untuk mencegah GI Stasis yang mematikan.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Bukti Dokter Hewan & Perilaku
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>House Rabbit Society (HRS) & Standar Dokter Hewan AEMV</strong>.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Kelinci Holland Lop Profil Utama
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Rata-rata Umur</span><span class="font-bold text-slate-800 dark:text-slate-200">8 - 12 Tahun</span></div>
@@ -43,7 +42,7 @@ Holland Lop sangat disukai karena wajah bulat dan telinganya yang menggantung. M
 
 ## 1. Komunikasi Holland Lop: Tarian Binky & Menghentakkan Kaki Belakang
 
-Lompatan berputar di udara (Binky) adalah ungkapan kebahagiaan tertinggi. Menghentakkan kaki belakang (Thumping) menandakan kewaspadaan atau rasa tidak suka.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +76,7 @@ Lompatan berputar di udara (Binky) adalah ungkapan kebahagiaan tertinggi. Menghe
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Isi Rumput Timothy Tanpa Batas & Ganti Air Minum</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Isi tempat rumput dengan rumput Timothy segar pemotongan pertama untuk usus.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -87,7 +86,7 @@ Lompatan berputar di udara (Binky) adalah ungkapan kebahagiaan tertinggi. Menghe
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Cek Kebersihan Telinga Menggantung & Tidur Siang</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Buka telinganya perlahan untuk mengecek kemerahan atau kotoran.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -97,7 +96,7 @@ Lompatan berputar di udara (Binky) adalah ungkapan kebahagiaan tertinggi. Menghe
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Bermain Terowongan & Menyikat Bulu</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Buka kandang untuk berlari dan sikat bulunya agar tidak tertelan (hairball).
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
   </p>
 </div>
 
@@ -106,7 +105,7 @@ Lompatan berputar di udara (Binky) adalah ungkapan kebahagiaan tertinggi. Menghe
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </div>
 </div>
@@ -124,7 +123,7 @@ Lompatan berputar di udara (Binky) adalah ungkapan kebahagiaan tertinggi. Menghe
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ini adalah GI Stasis (Stasis Pencernaan), kondisi darurat yang mengancam jiwa dalam 12 jam. Segera bawa ke dokter hewan spesialis eksotis.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </details>
 
@@ -134,7 +133,7 @@ Lompatan berputar di udara (Binky) adalah ungkapan kebahagiaan tertinggi. Menghe
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Tidak normal. Telinga menggantung mudah lembap dan terinfeksi tungau atau jamur. Jika ada kotoran hitam atau garukan hebat, segera konsultasikan ke dokter hewan.
+Terapkan rutinitas ini dalam kebiasaan harian Anda untuk merasakan fokus yang mendalam.
     </p>
   </details>
 </div>

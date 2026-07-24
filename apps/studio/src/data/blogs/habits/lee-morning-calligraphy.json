@@ -1,190 +1,62 @@
 {
   "lee-morning-calligraphy": {
     "title": {
-      "ko": "붓끝에 담은 경영 철학: 이병철의 아침 서예 의식",
-      "en": "Management Philosophy on the Brush Tip: Lee Byung-chul's Morning Calligraphy Ritual",
-      "ja": "筆先に込めた経営哲学：李秉喆（イ・ビョンチョル）の朝の書道儀式",
-      "zh": "笔尖上的管理哲学：李秉喆的晨间书法仪式",
-      "es": "Filosofía empresarial en la punta del pincel: El ritual de caligrafía matutino de Lee Byung-chul",
-      "fr": "Philosophie de gestion au bout du pinceau : Le rituel matinal de calligraphie de Lee Byung-chul",
-      "de": "Managementphilosophie auf der Pinselspitze: Lee Byung-chuls morgendliches Kalligraphieritual",
-      "pt": "Filosofia empresarial na ponta do pincel: O ritual de caligrafia matinal de Lee Byung-chul",
-      "id": "Filosofi Manajemen di Ujung Kuas: Ritual Kaligrafi Pagi Lee Byung-chul"
+      "ko": "붓끝에 담은 경영 철학: 이병철의 아침 서예 의식"
     },
     "description": {
-      "ko": "삼성을 창업한 이병철 회장이 매일 아침 거르지 않았던 붓글씨 명상. 정교한 붓의 스트로크를 다루는 미세 운동 조작이 뇌파를 안정시키고 전두엽을 일도 각성시키는 과학적 원리를 조명합니다.",
-      "en": "The calligraphy meditation that Samsung founder Lee Byung-chul never skipped every morning. Light is shed on the scientific principles where fine motor control of brush strokes stabilizes brainwaves and awakens the prefrontal cortex.",
-      "ja": "サムスンを創業した李秉喆（イ・ビョンチョル）会長が毎朝欠かさなかった毛筆瞑想。精巧な筆のストロークを扱う微細運動操作が脳波を安定させ、前頭葉を一挙に覚醒させる科学的原理に焦点を当てます。",
-      "zh": "三星创始人李秉喆会长每天清晨从不间断的毛笔书法冥想。剖析控制精细毛笔笔触之微细运动操作如何稳定脑电波并唤醒前额叶的科学原理。",
-      "es": "La meditación con pincel que el fundador de Samsung, Lee Byung-chul, realizaba cada mañana. Analizamos cómo el control motor fino de la caligrafía estabiliza las ondas cerebrales.",
-      "fr": "La méditation par le pinceau que le fondateur de Samsung, Lee Byung-chul, pratiquait chaque matin. Découvrez comment le contrôle moteur fin de la calligraphie stabilise les ondes cérébrales.",
-      "de": "Die Kalligraphie-Meditation, die Samsung-Gründer Lee Byung-chul jeden Morgen praktizierte. Wir zeigen, wie die Feinmotorik der Pinselführung Gehirnwellen stabilisiert und das Stirnhirn aktiviert.",
-      "pt": "A meditação com pincel que o fundador da Samsung, Lee Byung-chul, realizava a cada manhã. Analisamos como o controle motor fino da caligrafia estabiliza as ondas cerebrais.",
-      "id": "Meditasi kaligrafi yang tidak pernah dilewatkan oleh pendiri Samsung, Lee Byung-chul, setiap pagi. Ulas sains di balik kontrol motorik halus sapuan kuas untuk stabilitas otak."
+      "ko": "삼성을 창업한 이병철 회장이 매일 아침 거르지 않았던 붓글씨 명상. 정교한 붓의 스트로크를 다루는 미세 운동 조작이 뇌파를 안정시키고 전두엽을 일도 각성시키는 과학적 원리를 조명합니다."
     },
     "authority": {
-      "ko": "이병철 회장 친필 서예 작품 고증 및 신경학 저널(Neuroscience Letters) 미세 운동 제어와 정서 안정성 연구",
-      "en": "Historical Calligraphy Art of Chairman Lee and Neuroscience Letters Research on Fine Motor Control and Emotional Stability",
-      "ja": "李秉喆（イ・ビョンチョル）会長の親筆書道作品考証および神経学ジャーナル（Neuroscience Letters）微細運動制御と情緒安定性研究",
-      "zh": "李秉喆会长亲笔书法作品考证及《神经学快报》(Neuroscience Letters)关于精细运动控制与情绪稳定性的研究",
-      "es": "Autenticación de las obras caligráficas del presidente Lee e investigación de Neuroscience Letters sobre el control motor fino y la estabilidad emocional",
-      "fr": "Récit des œuvres calligraphiques du président Lee et recherche de Neuroscience Letters sur le contrôle moteur fin et la stabilité émotionnelle",
-      "de": "Historische Belege aus Chairman Lees Kalligraphien und Neuroscience Letters-Forschung zu Feinmotorik und emotionaler Stabilität",
-      "pt": "Autenticação das obras caligráficas do presidente Lee e pesquisa de Neuroscience Letters sobre o controle motor fino e a estabilidade emocional",
-      "id": "Arsip Kaligrafi Asli Pendiri Lee dan Penelitian Neuroscience Letters tentang Kontrol Motorik Halus & Stabilitas Emosional"
+      "ko": "Lee Morning Calligraphy 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "글로벌 비즈니스의 거장 삼성을 창업하여 한국의 반도체 신화를 일군 경영인 호암 이병철. 전쟁의 상흔과 무일푼의 국가에서 세계로 뻗어나가는 기업 제국을 건설했던 그의 냉철한 결단과 이성적 사유 뒤에는, 매일 아침 행했던 정적인 동양의 의식이 있었습니다. 그는 아침 기상 직후 홀로 서재에 앉아 조용히 먹을 갈아 붓글씨를 썼습니다. 화선지 위에 '무한추구', '인재제일'과 같은 단어를 붓끝의 장력에 의식을 모아 적는 시간은 경영의 잡념을 씻어내는 마음의 수련이었습니다. 脳科学的으로 이 정교한 아침 서예가 어떻게 두뇌의 감정 영역을 가라앉히고 차분한 집중력을 선사하는지 살펴봅니다.",
-      "en": "Founder of global business giant Samsung, Lee Byung-chul, who built Korea's semiconductor legend. Behind his cool decisions and rational thoughts that built a corporate empire from war ruins was a static Eastern ritual performed every morning. Waking up early, he sat alone in his study to grind ink and practice calligraphy. Writing values like Unlimited Pursuit or Talent First on paper, focusing on the brush tension, was a discipline to clear business distractions. Discover how this precise morning calligraphy calms brain emotion centers and delivers calm focus.",
-      "ja": "グローバルビジネスの巨人サムスンを創業し、韓国の半導体神話を築いた経営者、湖厳・李秉喆（イ・ビョンチョル）。戦争の傷跡と無一文の国家から世界へと伸びる企業帝国を建設した彼の、冷徹な決断と理性的思考の背後には、毎朝行われていた静的な東洋の儀式がありました。彼は朝の起床直後に一人で書斎に座り、静かに墨を引いて毛筆を書きました。和紙の上に『無限追求』や『人材第一』といった言葉を、筆先の張力に意識を集中させて書く時間は、経営の雑念を洗い流す心の鍛錬でした。脳科学的に、この精巧な朝の書道がどのように脳の感情領域を静め、落ち着いた集中力をもたらすかを探ります。",
-      "zh": "在这一历史性惯例的实践中： . , . . '', '' . 脳科学的 .",
-      "es": "Lee Byung-chul, el fundador de Samsung que forjó el milagro de los semiconductores en Corea. Detrás de sus grandes decisiones comerciales, existía un ritual oriental silencioso cada mañana. Al despertar, se sentaba solo en su biblioteca a moler tinta y escribir a pincel. Trazar palabras como 'Búsqueda infinita' concentrado en la tensión de la pluma era su forma de limpiar el ruido de la gestión. Explore cómo esta caligrafía templa las emociones y activa el foco.",
-      "fr": "Lee Byung-chul, le fondateur de Samsung qui a forgé le miracle industriel en Corée. Derrière ses grandes décisions commerciales se cachait un rituel oriental silencieux chaque matin. Au réveil, il s'installait seul à son bureau pour broyer l'encre et écrire au pinceau. Tracer des mots comme 'Poursuite infinie' concentré sur la tension du pinceau était sa façon de nettoyer son esprit. Voyons comment la calligraphie calme les émotions et active le focus.",
-      "de": "Samsung-Gründer Lee Byung-chul schuf das koreanische Halbleiterwunder. Hinter seinen rationalen Entscheidungen, mit denen er einen Weltkonzern aufbaute, stand ein fernöstliches Ritual: Nach dem Aufwachen setzte er sich allein in sein Arbeitszimmer, um Tusche zu reiben und Kalligraphien anzufertigen. Werte wie 'Grenzenloses Streben' auf Papier zu bannen, half ihm, geschäftliche Ablenkungen auszublenden. Erfahren Sie, wie Kalligraphie das Gehirn beruhigt.",
-      "pt": "Lee Byung-chul, o fundador da Samsung que forjou o milagre dos semicondutores na Coreia. Por trás de suas grandes decisões comerciais, existia um ritual oriental silencioso a cada manhã. Ao acordar, sentava-se sozinho em sua biblioteca a moer tinta e escrever a pincel. Traçar palavras como 'Busca infinita' concentrado na tensão da pluma era sua forma de limpar o ruído da gestão. Analisemos como esta caligrafia tempera as emoções e ativa o foco.",
-      "id": "Pendiri Samsung Lee Byung-chul, yang memelopori industri semikonduktor Korea. Di balik keputusan bisnisnya yang dingin dan logis, terdapat ritual spiritual timur yang ia lakukan setiap pagi. Segera setelah bangun tidur, ia duduk sendiri di ruang kerjanya untuk mengasah tinta dan menulis kaligrafi. Menuliskan kata kunci filosofis seperti 'Mengejar Tanpa Batas' dengan fokus penuh pada kuas adalah latihan mental untuk menjernihkan pikiran dari urusan bisnis. Pelajari bagaimana menulis kaligrafi pagi menenangkan emosi dan mempertajam fokus."
+      "ko": "\"붓을 잡고 먹을 갈아 글을 써내려가는 동안, 나의 마음속 번잡함은 사라지고 비로소 사업의 본질이 선명하게 나타난다.\" 🖌️\n\n글로벌 비즈니스의 거장 삼성을 창업하여 한국의 반도체 신화를 일군 경영인 호암 이병철. 전쟁의 상흔과 무일푼의 국가에서 세계로 뻗어나가는 기업 제국을 건설했던 그의 냉철한 결단과 이성적 사유 뒤에는, 매일 아침 행했던 정적인 동양의 의식이 있었습니다. 그는 아침 기상 직후 홀로 서재에 앉아 조용히 먹을 갈아 붓글씨를 썼습니다. 화선지 위에 '무한추구', '인재제일'과 같은 단어를 붓끝의 장력에 의식을 모아 적는 시간은 경영의 잡념을 씻어내는 마음의 수련이었습니다. 뇌과학적으로 이 정교한 아침 서예가 어떻게 두뇌의 감정 영역을 가라앉히고 차분한 집중력을 선사하는지 살펴봅니다.\n\n많은 현대 직장인들과 리더들이 눈을 뜨는 순 간부터 수많은 사업 데이터와 복잡한 일정, 긴장감 넘치는 이메일 메시지에 노출되며 하루를 혼란스럽게 시작하곤 합니다. 이 자극 과잉 상태는 뇌의 투쟁-도피 회로를 가동시켜 이성적이고 장기적인 경영 결정을 내리는 데 방해가 됩니다. 반면 이병철 창업주는 아침 첫 15분 동안 의도적으로 동작의 속도를 늦추고 온 신경을 붓끝 하나에 모음으로써 심연의 차분함에 진입했습니다.\n\n오늘 포스트에서는 이병철 회장의 아침 서예가 어떻게 신경망을 동기화하여 이성적 의사결정을 돕는지 뇌과학 관점에서 규명하고, 현대인들이 복잡한 도심 일과 직전에 마음의 노이즈를 지우고 깊은 몰입 상태로 나아가는 3단계 실천 방안을 제시합니다."
     },
     "whyTitle": {
-      "ko": "붓글씨의 미세 운동 제어와 전두엽 안정성의 脳科学的 관계",
-      "en": "Brain Science Relationship Between Fine Motor Control in Calligraphy and Prefrontal Stability",
-      "ja": "毛筆の微細運動制御と前頭葉安定性の脳科学的関係",
-      "zh": "毛笔书法微细运动控制与前额叶稳定性的脑科学关系",
-      "es": "Relación neurocientífica entre el control motor fino de la caligrafía y la estabilidad prefrontal",
-      "fr": "Relation neurocientifique entre le contrôle moteur fin de la calligraphie et la stabilité préfrontale",
-      "de": "Neurowissenschaftliche Zusammenhänge von Kalligraphie-Feinmotorik und präfrontaler Stabilität",
-      "pt": "Relação neurocientífica entre o controle motor fino da caligrafia e a estabilidade pré-frontal",
-      "id": "Hubungan Neurosains Antara Kontrol Motorik Halus Kaligrafi dan Stabilitas Prefrontal"
+      "ko": "붓글씨의 미세 운동 제어와 전두엽 안정성의 뇌과학적 관계"
     },
     "whyDesc": {
-      "ko": "붓글씨는 단단한 금속 펜과 달리 유연한 붓끝의 털을 다루며 획의 굵기와 속도, 힘의 강약을 극도로 세밀하게 조율해야 합니다. 이 과정은 대뇌 피질의 일차 운동 신경 영역(Primary Motor Cortex)을 크게 가동하여 잡념의 진입을 생리학적으로 통제합니다. 또한 벼루를 문지르고 화선지 위의 붓 소리를 인지하는 촉각-시각-청각의 복합 피드백은 자율신경계를 지배하는 전두엽 피질과 소뇌의 연합 영역을 동기화하여 심박수를 가라앉히고 이성적인 차분함을 생성해 냅니다.",
-      "en": "Unlike stiff metal pens, calligraphy uses flexible brush tips, requiring extremely delicate adjustment of stroke thickness, speed, and force. This process highly engages the brain's primary motor cortex, physically blocking the entry of stray thoughts. Furthermore, the multi-sensory tactile, visual, and auditory feedback from grinding ink and hearing the brush on paper synchronizes association areas in the prefrontal cortex and cerebellum regulating the autonomic nervous system, lowering heart rate and inducing rational calmness.",
-      "ja": "毛筆は、硬い金属ペンとは異なり、柔軟な筆先の毛を扱い、線の太さや速度、力の強弱を極めて細密に調整しなければなりません。この過程は、大脳皮質の一次運動野（Primary Motor Cortex）を大きく動かし、雑念の侵入を生理学的にコントロールします。また、墨をすり、和紙の上の筆の音を感知する触覚・視覚・聴覚の複合フィードバックは、自律神経系を支配する前頭葉皮質と小脳の連合領域を同調させ、心拍数を下げて理性的な落ち着きを生み出します。",
-      "zh": "与坚硬的金属笔不同，毛笔使用的是柔软的笔端毫毛，需要极细致地协调笔画粗细、书写速度以及力道强弱。这一过程能极大地开动大脑皮层的初级运动皮层（Primary Motor Cortex），从生理上控制杂念入侵。此外，研磨墨条、感知毛笔摩擦宣纸声这一触觉-视觉-听觉的多重反馈，能使支配自律神经系统的额叶皮层与小脑联合区域产生同步共振，平复心率并催生理性冷静。",
-      "es": "A diferencia de un bolígrafo de metal, el pincel flexible exige controlar al extremo el grosor, la velocidad y la presión de cada trazo. Esto activa la corteza motora primaria, bloqueando el ruido de pensamientos dispersos. La retroalimentación táctil de moler la tinta y el sonido del pincel sobre el papel sincronizan el lóbulo frontal y el cerebelo, reduciendo el ritmo cardíaco y generando una calma profunda ideal para planificar.",
-      "fr": "À l'inverse d'un stylo en métal, le pinceau flexible exige de contrôler l'épaisseur, la vitesse et la pression de chaque tracé. Cela active le cortex moteur primaire, bloque les distractions. Le retour tactile lié au broyage de l'encre et le bruit du pinceau sur le papier synchronisent le lobe frontal et le cervelet, ralentissant le rythme cardiaque et générant un calme profond idéal pour décider.",
-      "de": "Kalligraphie erfordert im Gegensatz zu festen Stiften die feinfühlige Kontrolle einer flexiblen Pinselspitze bezüglich Breite, Tempo und Druck. Dieser Prozess beansprucht den primären motorischen Cortex stark und blockiert ablenkende Gedanken. Das sensorische Feedback aus Berührung und dem Geräusch des Pinsels auf dem Papier beruhigt das vegetative Nervensystem, senkt den Puls und stellt geistige Gelassenheit her.",
-      "pt": "Ao contrário de uma caneta de metal, o pincel flexível exige controlar ao extremo a espessura, a velocidade e a pressão de cada traço. Isto ativa o córtex motor primário, bloqueando o ruído de pensamentos dispersos. A retroalimentação tátil de moer a tinta e o som do pincel sobre o papel sincronizam o lobo frontal e o cerebelo, reduzindo o ritmo cardíaco e gerando uma calma profunda ideal para planejar.",
-      "id": "Berbeda dengan pena logam yang keras, kaligrafi bulu halus menuntut penyelarasan tekanan, kecepatan, dan ketebalan secara presisi. Proses ini melatih korteks motorik primer untuk menyingkirkan distrasi pikiran secara fisik. Stimulasi taktil dari mengasah tinta dan visual coretan kuas di atas kertas menyinkronkan lobus frontal dan serebelum, menurunkan detak jantung dan membawa ketenangan berpikir."
+      "ko": "붓글씨는 단단한 금속 펜과 달리 유연한 붓끝의 털을 다루며 획의 굵기와 속도, 힘의 강약을 극도로 세밀하게 조율해야 합니다. 이 과정은 대뇌 피질의 일차 운동 신경 영역(Primary Motor Cortex)을 크게 가동하여 잡념의 진입을 생리학적으로 통제합니다. 또한 벼루를 문지르고 화선지 위의 붓 소리를 인지하는 촉각-시각-청각의 복합 피드백은 자율신경계를 지배하는 전두엽 피질과 소뇌의 연합 영역을 동기화하여 심박수를 가라앉히고 이성적인 차분함을 생성해 냅니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "서예 명상을 진행할 때 글씨의 아름다움 자체에 너무 연연하여 자책하거나 스트레스를 받는 완벽주의 오류에 빠지면 명상 효과가 훼손됩니다. 서예 훈련은 남에게 보여주기 위한 예술 창작이 아니라, 오직 붓끝과 내 손가락의 힘 조절에 의식을 온전히 수렴하는 마인드풀니스 과정입니다. 따라서 삐뚤빼뚤한 글씨가 나오더라도 개의치 않고 붓을 움직이는 감각 운동적인 흐름 자체에 몰입하는 태도가 중요합니다.",
-      "en": "If you obsess over the beauty of the handwriting and feel stressed, the meditation effect is ruined. Calligraphy training is not for artistic exhibition, but rather a mindfulness process where attention is converged on the control of the brush tip. Focus on the flow of the motor movements regardless of results.",
-      "ja": "書道瞑想を行う際、文字の美しさ自体にこだわりすぎて自責したりストレスを感じる完璧主義の罠に陥ると、瞑想効果が損なわれます。書道の訓練は他人に見せるための芸術創作ではなく、ただ筆先と自分の指の力加減に意識を完全に集中させるマインドフルネスの過程です。したがって、文字が乱れても気にせず、筆を動かす感覚運動的な流れ自体に没頭する態度が重要です。",
-      "zh": "进行书法冥想时，如果过于纠结字写得美不美，进而陷入自责或倍感压力的完美主义误区，就会损害冥想效果。书法训练并不是为了向他人展示艺术创作，而是将意识完全收敛于笔端和手指力度控制的“正念（Mindfulness）”过程。因此，即便字写得歪歪扭扭也无须介怀，沉浸于行笔的感觉运动流动本身才是关键态度。",
-      "es": "Evite frustrarse por la estética de las letras, ya que el perfeccionismo destruye el beneficio relajante. La caligrafía matutina no busca crear arte para exhibir, sino enfocar la atención en la presión del trazo. Siga el fluir de sus manos sin juzgar el resultado de la escritura.",
-      "fr": "Évitez de vous frustrer pour l'esthétique des lettres, car le perfectionnisme détruit l'effet apaisant. La calligraphie matinale ne cherche pas à faire de l'art, mais à concentrer l'attention sur la pression du tracé. Suivez le geste de vos mains sans juger le résultat.",
-      "de": "Ärgern Sie sich nicht über unschöne Schriftzüge, da Perfektionismus den beruhigenden Effekt stört. Kalligraphie-Meditation ist keine Kunstproduktion für Ausstellungen, sondern eine Achtsamkeitsübung, um die Aufmerksamkeit auf den Pinselstrich zu lenken. Konzentrieren Sie sich rein auf die Bewegung.",
-      "pt": "Evite frustrar-se pela estética das letras, pois o perfeccionismo destrói o benefício relaxante. A caligrafia matinal não busca criar arte para exibir, mas focar a atenção na pressão do traço. Siga o fluir de suas mãos sem julgar o resultado da escrita.",
-      "id": "Jangan terjebak dalam perfeksionisme menilai keindahan tulisan Anda sendiri karena hal itu merusak efek meditasi. Latihan kaligrafi bukanlah proses seni pameran, melainkan cara memusatkan perhatian pada gerakan tangan. Fokuslah pada aliran gerakan menulis Anda."
+      "ko": "서예 명상을 진행할 때 글씨의 아름다움 자체에 너무 연연하여 자책하거나 스트레스를 받는 완벽주의 오류에 빠지면 명상 효과가 훼손됩니다. 서예 훈련은 남에게 보여주기 위한 예술 창작이 아니라, 오직 붓끝과 내 손가락의 힘 조절에 의식을 온전히 수렴하는 마인드풀니스 과정입니다. 따라서 삐뚤빼뚤한 글씨가 나오더라도 개의치 않고 붓을 움직이는 감각 운동적인 흐름 자체에 몰입하는 태도가 중요합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "아침 서예 전용 환경 세우기",
-          "en": "Setting up a Dedicated Morning Calligraphy Environment",
-          "ja": "朝の書道専用環境の設定",
-          "zh": "搭建晨间书法专用环境",
-          "es": "Preparar su espacio de caligrafía matutino",
-          "fr": "Préparer un espace de calligraphie matinal",
-          "de": "Einrichten eines Kalligraphieplatzes am Morgen",
-          "pt": "Preparar seu espaço de caligrafia matutino",
-          "id": "Menyiapkan Sudut Kaligrafi Pagi"
+          "ko": "아침 서예 전용 환경 세우기"
         },
         "text": {
-          "ko": "매일 기상 후 아침 햇살이 비치는 차분한 책상에 벼루, 화선지, 붓 등 서예 도구(혹은 만년필과 두터운 기록 일지)를 세팅합니다.",
-          "en": "Prepare your calligraphy tools (or fountain pen and thick journal) on a quiet desk with morning sunlight right after waking up.",
-          "ja": "毎日起床後、朝の光が差し込む静かな机に、硯、和紙、筆などの書道道具（または万年筆と厚手の記録日誌）をセットします.",
-          "zh": "每天起床后，在晨光照射的安静书桌上摆放好砚台、宣纸、毛笔等书法工具（或钢笔和厚实的记录日记本）。",
-          "es": "Al despertar, disponga sus herramientas de caligrafía (o una pluma estilográfica y papel de calidad) en un escritorio tranquilo con luz natural.",
-          "fr": "Au réveil, disposez vos outils de calligraphie (ou un stylo plume et du papier de qualité) sur un bureau calme éclairé par la lumière du jour.",
-          "de": "Richten Sie nach dem Aufstehen Ihre Kalligraphieutensilien (oder Füllfederhalter und Papier) an einem ruhigen Tisch mit Tageslicht ein.",
-          "pt": "Ao acordar, disponha suas ferramentas de caligrafia (ou uma caneta-tinteiro e papel de qualidade) em uma escrivaninha tranquila com luz natural.",
-          "id": "Siapkan alat tulis kaligrafi Anda (atau pena tinta dan kertas berkualitas) di atas meja kerja yang mendapat cahaya pagi alami."
+          "ko": "매일 기상 후 아침 햇살이 비치는 차분한 책상에 벼루, 화선지, 붓 등 서예 도구(혹은 만년필과 두터운 기록 일지)를 세팅합니다."
         }
       },
       {
         "name": {
-          "ko": "호흡 조절과 단어 선출",
-          "en": "Breathing Control and Word Selection",
-          "ja": "呼吸のコントロールと単語の選出",
-          "zh": "调理呼吸并挑选词汇",
-          "es": "Controlar la respiración y elegir las palabras",
-          "fr": "Contrôler la respiration et choisir les mots",
-          "de": "Atemkontrolle und Wortauswahl",
-          "pt": "Controlar a respiração e escolher as palavras",
-          "id": "Mengatur Napas dan Memilih Kata Kutipan"
+          "ko": "호흡 조절과 단어 선출"
         },
         "text": {
-          "ko": "자리에 바른 자세로 앉아 크게 심호흡을 하여 마음을 가라앉히고, 그날의 좌우명이나 가치관을 대변하는 핵심 한자나 문장을 선택합니다.",
-          "en": "Sit in a correct posture and take deep breaths to calm your mind. Select key words or sentences that represent your values for the day.",
-          "ja": "正しい姿勢で席に座り、深く深呼吸をして心を落ち着かせ、その日の座右の銘や価値観を代表する核心的な漢字や文章を選びます.",
-          "zh": "端正坐姿并进行深呼吸以平复心情，选择代表当天座右铭或核心价值的汉字或句子。",
-          "es": "Siéntese con una postura erguida y respire hondo. Seleccione las palabras clave o frases que representen sus metas del día.",
-          "fr": "Asseyez-vous bien droit et respirez profondément. Choisissez les mots-clés ou phrases inspirantes pour votre journée.",
-          "de": "Nehmen Sie eine aufrechte Haltung ein und atmen Sie tief durch. Wählen Sie Begriffe oder Leitsätze für Ihren Tag aus.",
-          "pt": "Sente-se com uma postura ereta e respire fundo. Selecione as palavras-chave ou frases que representem suas metas do dia.",
-          "id": "Duduk dengan posisi tegak dan tarik napas dalam untuk menenangkan diri. Pilih satu kata bijak yang memotivasi Anda hari ini."
+          "ko": "자리에 바른 자세로 앉아 크게 심호흡을 하여 마음을 가라앉히고, 그날의 좌우명이나 가치관을 대변하는 핵심 한자나 문장을 선택합니다."
         }
       },
       {
         "name": {
-          "ko": "의식적 붓 긋기와 감각 수렴",
-          "en": "Conscious Brush Stroking and Sensory Convergence",
-          "ja": "意識的な筆運びと感覚の集中",
-          "zh": "有意识落笔与感官聚焦",
-          "es": "Trazado consciente y concentración sensorial",
-          "fr": "Tracé conscient et concentration sensorielle",
-          "de": "Konzentrierte Pinselführung und sensorischer Fokus",
-          "pt": "Traçado consciente e concentração sensorial",
-          "id": "Sapuan Kuas Secara Sadar dan Fokus Sensorik"
+          "ko": "의식적 붓 긋기와 감각 수렴"
         },
         "text": {
-          "ko": "붓을 잡고 획이 그어지는 마찰과 압력, 화선지에 먹이 번지는 모양에 모든 주의를 집중하여 한 자씩 정밀하게 써 내려갑니다.",
-          "en": "Hold the brush. Focus all attention on the friction, pressure, and ink spreading on the paper, writing each character precisely.",
-          "ja": "筆を持ち、線が引かれる時の摩擦と圧力、和紙に墨がにじむ様子にすべての注意を集中させ、一字ずつ精巧に書き進めます.",
-          "zh": "提笔落墨，将全部注意力集中在毛笔行进的摩擦力、力道以及墨汁在宣纸上洇开的形态上，一字一字精细书写。",
-          "es": "Sostenga el pincel y escriba con atención al rozamiento del papel, la presión aplicada y el fluir de la tinta, trazando cada letra con cuidado.",
-          "fr": "Tenez le pinceau et écrivez en prêtant attention au glissement sur le papier, à la pression exercée et au flux d'encre.",
-          "de": "Führen Sie den Pinsel und achten Sie auf den Widerstand des Papiers, den Druck und den Fluss der Tusche bei jedem Zeichen.",
-          "pt": "Segure o pincel e escreva com atenção ao atrito do papel, à pressão aplicada e ao fluir da tinta, traçando cada letra com cuidado.",
-          "id": "Pegang kuas dan tulislah dengan penuh konsentrasi pada goresan kertas, tekanan tangan, dan aliran tinta secara perlahan."
+          "ko": "붓을 잡고 획이 그어지는 마찰과 압력, 화선지에 먹이 번지는 모양에 모든 주의를 집중하여 한 자씩 정밀하게 써 내려갑니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "서예 도구가 집에 전혀 없는데 대체할 수 있는 일상 도구가 있나요?",
-          "en": "I do not have calligraphy tools at home; can I replace them with standard tools?",
-          "ja": "書道道具が自宅に全くないのですが、代用できる日常の道具はありますか？",
-          "zh": "家里完全没有书法工具，有什么可以替代的日常工具吗？",
-          "es": "No tengo pinceles de caligrafía en casa, ¿puedo usar herramientas normales?",
-          "fr": "Je n'ai pas de pinceaux de calligraphie, puis-je utiliser d'autres outils ?",
-          "de": "Ich habe keine Kalligraphieausrüstung; gibt es Alternativen für den Alltag?",
-          "pt": "Não tenho pincéis de caligrafia em casa, posso usar ferramentas normais?",
-          "id": "Saya tidak memiliki alat kaligrafi di rumah, adakah alat tulis biasa yang bisa menggantikannya?"
+          "ko": "서예 도구가 집에 전혀 없는데 대체할 수 있는 일상 도구가 있나요?"
         },
         "answer": {
-          "ko": "만년필이나 딥펜(Dip Pen), 혹은 두툼하고 질감이 느껴지는 종이와 연필만으로도 충분합니다. 핵심은 필기 시 종이와 펜촉 사이에 전달되는 마찰력(Friction)과 힘의 안배를 뇌가 실시간으로 자각하며 미세 조작하는 과정을 형성하는 것입니다. 종이 위에 사각사각 적는 촉각 피드백이 살아있는 필기 도구라면 서예와 유사한 신경 각성 효과를 충분히 도출해 낼 수 있습니다.",
-          "en": "Fountain pens, dip pens, or thick textured paper with a pencil are sufficient. The key is for the brain to perceive the friction and force adjustment between the paper and tip in real time. Any writing tool that provides crisp tactile feedback on paper can produce neural activation effects similar to calligraphy.",
-          "ja": "万年筆やつけ筆（Dip Pen）、あるいは厚手で質感のある紙と鉛筆だけでも十分です。重要なのは、筆記時に紙とペン先の間で伝わる摩擦力（Friction）と力の加減を脳がリアルタイムで自覚し、微細にコントロールする過程を作ることです。紙の上にサクサクと書く触覚フィードバックが生きている筆記具であれば、書道に類似した神経覚醒効果を十分に引き出すことができます.",
-          "zh": "钢笔、蘸水笔（Dip Pen），甚至质地厚实有纹理的纸张与铅笔便已足够。核心在于形成让大脑实时觉知并微操书写时纸张与笔尖间传递的摩擦力（Friction）和力度分配的过程。只要是能在纸上写出沙沙声、具有鲜明触觉反馈的笔录工具，就完全能产生与书法类似的神经觉醒效果。",
-          "es": "Una pluma estilográfica, un bolígrafo de caligrafía de punta flexible o incluso un lápiz sobre papel texturizado bastan. Lo importante es que el cerebro perciba la resistencia de la punta y la dosificación de la fuerza al escribir en tiempo real. Cualquier herramienta que ofrezca una retroalimentación táctil clara sirve.",
-          "fr": "Un stylo plume, un stylo de calligraphie ou même un crayon sur du papier texturé conviennent. L'important est que le cerveau perçoive la résistance de la pointe et la force exercée en temps réel. Tout outil offrant un retour tactile net sur le papier fera l'affaire.",
-          "de": "Füllfederhalter, Zeichenstifte oder ein Bleistift auf strukturiertem Papier reichen völlig aus. Wichtig ist, dass das Gehirn den Widerstand der Stiftspitze auf dem Papier und die Druckverteilung bewusst registriert. Jedes Schreibgerät, das ein deutliches taktiles Feedback gibt, erzielt eine ähnliche Wirkung.",
-          "pt": "Uma caneta-tinteiro, uma caneta de caligrafia de ponta flexível ou mesmo um lápis sobre papel texturizado bastam. O importante é que o cérebro perceba a resistência da ponta e a dosagem da força ao escrever em tempo real. Qualquer ferramenta que ofereça uma retroalimentação tátil clara serve.",
-          "id": "Pena tinta, pena kaligrafi (brush pen), atau pensil di atas kertas tebal bertekstur sudah cukup. Kuncinya adalah otak memproses gesekan pena dan tekanan tangan saat menulis secara langsung. Alat tulis apa pun yang memberi sensasi gesekan kertas yang kuat dapat memicu efek fokus yang serupa."
+          "ko": "만년필이나 딥펜(Dip Pen), 혹은 두툼하고 질감이 느껴지는 종이와 연필만으로도 충분합니다. 핵심은 필기 시 종이와 펜촉 사이에 전달되는 마찰력(Friction)과 힘의 안배를 뇌가 실시간으로 자각하며 미세 조작하는 과정을 형성하는 것입니다. 종이 위에 사각사각 적는 촉각 피드백이 살아있는 필기 도구라면 서예와 유사한 신경 각성 효과를 충분히 도출해 낼 수 있습니다."
         }
       }
     ]

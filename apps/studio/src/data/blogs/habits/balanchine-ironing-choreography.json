@@ -1,190 +1,62 @@
 {
   "balanchine-ironing-choreography": {
     "title": {
-      "ko": "무의식의 댄스: 조지 발란신의 단순 가사 노동 안무법",
-      "en": "Dance of the Subconscious: George Balanchine's Ironing Choreography Method",
-      "ja": "無意識のダンス：ジョージ・バランシンの単純家事労働振付法",
-      "zh": "无意识之舞：乔治·巴兰钦的简单家务编舞法",
-      "es": "Danza del subconsciente: el método de coreografía de planchado de George Balanchine",
-      "fr": "Danse du subconscient : la méthode de chorégraphie en repassant de George Balanchine",
-      "de": "Tanz des Unterbewusstseins: George Balanchines Bügel-Choreografiemethode",
-      "pt": "Dança do subconsciente: o método de coreografia de passar roupa de George Balanchine",
-      "id": "Tarian Bawah Sadar: Metode Pembuatan Koreografi Sambil Menyetrika George Balanchine"
+      "ko": "무의식의 댄스: 조지 발란신의 단순 가사 노동 안무법"
     },
     "description": {
-      "ko": "안무 영감이 막힐 때 다림질이나 빨래 등 단순 반복 가사를 수행하며 아이디어를 구상했던 안무가 조지 발란신. 단순 신체 활동이 전두엽의 검열을 끄고 디폴트 모드 네트워크를 깨우는 신경 메커니즘을 밝힙니다.",
-      "en": "Choreographer George Balanchine, who ironed or swept the floor when blocked for inspiration. Discover the neural pathways of DMN activation through low-cognitive manual repetition.",
-      "ja": "振付のインスピレーションが詰まった時、アイロンがけや洗濯など単純な反復家事を行いながらアイデアを構想した振付師ジョージ・バランシン。単純な身体活動が前頭葉の検閲をオフにし、デフォルトモードネットワークを目覚めさせる神経メカニズムを明らかにします。",
-      "zh": "编舞家乔治·巴兰钦在缺乏灵感时，会通过熨衣服或扫地来激发创意。发现通过低认知手动重复激活DMN的神经通路。",
-      "es": "El coreógrafo George Balanchine, quien planchaba o barría el suelo cuando se bloqueaba su inspiración. Descubra las vías neuronales de activación de la DMN a través de la repetición manual de baja cognición.",
-      "fr": "Le chorégraphe George Balanchine, qui repassait ou balayait le sol en panne d'inspiration. Découvrez les voies neuronales de l'activation du DMN grâce à la répétition manuelle à faible charge cognitive.",
-      "de": "Choreograf George Balanchine, der bügelte oder den Boden fegte, wenn ihm die Inspiration fehlte. Entdecken Sie die neuronalen Wege der DMN-Aktivierung durch manuelle Wiederholungen mit geringer kognitiver Belastung.",
-      "pt": "O coreógrafo George Balanchine, que passava roupa ou varria o chão quando bloqueado por inspiração. Descubra os caminhos neurais de ativação da DMN através da repetição manual de baixa cognição.",
-      "id": "Koreografer George Balanchine, yang menyetrika pakaian atau menyapu lantai saat kehabisan inspirasi. Pelajari jalur saraf aktivasi DMN melalui repetisi."
+      "ko": "안무 영감이 막힐 때 다림질이나 빨래 등 단순 반복 가사를 수행하며 아이디어를 구상했던 안무가 조지 발란신. 단순 신체 활동이 전두엽의 검열을 끄고 디폴트 모드 네트워크를 깨우는 신경 메커니즘을 밝힙니다."
     },
     "authority": {
-      "ko": "조지 발란신 전기 『발란신』 및 신경과학계의 단순 운동(Monotonous Motor Task)과 디폴트 모드 네트워크(DMN) 활성화에 기반한 창의적 부화 연구",
-      "en": "George Balanchine's biography 'Balanchine' and neuroscientific research on Monotonous Motor Tasks and DMN activation for creative incubation",
-      "ja": "ジョージ・バランシン伝記『バランシン』考証および脳科学分野の単純運動とデフォルトモードネットワーク（DMN）活性化に基づく創造的インキュベーションの研究",
-      "zh": "乔治·巴兰钦传记《巴兰钦》及关于单调运动任务与DMN激活促进创意孵化的神经科学研究",
-      "es": "Biografía de George Balanchine 'Balanchine' e investigación neurocientífica sobre tareas motoras monótonas y activación de la DMN para la incubación creativa",
-      "fr": "Biographie de George Balanchine 'Balanchine' et recherche neuroscientifique sur les tâches motrices monotones et l'activation du DMN pour l'incubation créative",
-      "de": "George Balanchines Biografie ‚Balanchine‘ und neurowissenschaftliche Forschung zu monotonen motorischen Aufgaben und DMN-Aktivierung zur kreativen Inkubation",
-      "pt": "Biografia de George Balanchine 'Balanchine' e pesquisa neurocientífica sobre tarefas motoras monótonas e ativação da DMN para incubação criativa",
-      "id": "Biografi George Balanchine 'Balanchine' dan penelitian neurosains tentang Tugas Motorik Monoton dan aktivasi DMN untuk inkubasi kreatif"
+      "ko": "Balanchine Ironing Choreography 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "뉴욕 시티 발레단(NYCB)의 수장으로서 모던 발레의 토대를 닦고 기하학적이고 혁신적인 안무들로 20세기 공연예술을 평정했던 안무가 조지 발란신. 상상력의 한계를 시험하는 발레 동선을 끝없이 만들어내야 했던 그에게도 어김없이 아이디어가 완전히 메말라 버리는 창작의 정체기가 찾아오곤 했습니다. 하지만 발란신은 골방에 앉아 머리를 싸매지 않았습니다. 그는 안무가 막힐 때면 벌떡 일어나 다리미와 다림판을 펴고 단정하게 셔츠를 다리거나, 물걸레를 빨아 바닥을 닦습니다. 脳科学的으로 이 평범하고 단순한 집안일 루틴이 어떻게 뇌의 창의성 퓨즈를 다시 켜고 번뜩이는 예술적 해답을 안겨주는지 추적합니다.",
-      "en": "George Balanchine, the legendary choreographer who revolutionized 20th-century ballet. Faced with the pressure of producing geometric and innovative movements, he too encountered mental blocks. However, Balanchine didn't force himself to sit and think. Instead, he stood up, set up an ironing board, and ironed shirts or mopped floors. We analyze how this mundane household chore routine rewires the brain's creative pathways to deliver artistic breakthroughs.",
-      "ja": "ニューヨーク・シティ・バレエ団（NYCB）のリーダーとしてモダン・バレエの土台を築き、幾何学的で革新的な振付で20世紀の舞台芸術を平定した振付師ジョージ・バランシン。想像力の限界を試すバレエの動線を絶え間なく生み出さなければならなかった彼にも、例外なくアイデアが完全に枯渇してしまう創作の停滞期が訪れました。しかし、バランシンは小部屋に座って頭を抱えたりしませんでした。彼は振付が詰まると、勢いよく起き上がってアイロンとアイロン台を広げて端正にシャツにアイロンをかけたり、モップを洗って床を拭いたりしました。脳科学的にこの平凡で単純な家事ルーティンが、どのように脳の創造性のフューズを再びオンにし、きらめく芸術的回答をもたらすのかを追跡します。",
-      "zh": "在这一历史性惯例的实践中： (NYCB) 20 . . . , . 脳科学的 .",
-      "es": "George Balanchine, el legendario coreógrafo que revolucionó el ballet del siglo XX. Ante la presión de producir movimientos geométricos e innovadores, él también encontró bloqueos mentales. Sin embargo, Balanchine no se obligaba a sentarse y pensar. En su lugar, se levantaba, preparaba una tabla de planchar y planchaba camisas o fregaba suelos. Analizamos cómo esta mundana rutina de quehaceres domésticos reconecta las vías creativas del cerebro para ofrecer avances artísticos.",
-      "fr": "George Balanchine, le légendaire chorégraphe qui a révolutionné le ballet du XXe siècle. Face à la pression de produire des mouvements géométriques et innovants, il a lui aussi rencontré des blocages mentaux. Cependant, Balanchine ne se forçait pas à s'asseoir pour réfléchir. Au lieu de cela, il se levait, installait une planche à repasser et repassait des chemises ou lavait le sol. Nous analysons comment cette routine de tâches ménagères banales recâble les voies créatives du cerveau pour offrir des percées artistiques.",
-      "de": "George Balanchine, der legendäre Choreograf, der das Ballett des 20. Jahrhunderts revolutionierte. Angesichts des Drucks, geometrische und innovative Bewegungen zu schaffen, stieß auch er auf mentale Blockaden. Balanchine zwang sich jedoch nicht, dazusitzen und nachzudenken. Stattdessen stand er auf, stellte ein Bügelbrett auf und bügelte Hemden oder wischte Böden. Wir analysieren, wie diese alltägliche Hausarbeitsroutine die kreativen Wege des Gehirns neu verdrahtet, um künstlerische Durchbrüche zu erzielen.",
-      "pt": "George Balanchine, o lendário coreógrafo que revolucionou o balé do século XX. Diante da pressão de produzir movimentos geométricos e inovadores, ele também encontrou bloqueios mentais. No entanto, Balanchine não se forçava a sentar e pensar. Em vez disso, ele se levantava, montava uma tábua de passar e passava camisas ou esfregava o chão. Analisamos como essa rotina corriqueira de tarefas domésticas reconecta os caminhos criativos do cérebro para entregar avanços artísticos.",
-      "id": "George Balanchine, koreografer legendaris yang merevolusi balet abad ke-20. Dihadapkan pada tekanan menghasilkan gerakan geometris dan inovatif, dia juga menghadapi kemacetan mental. Namun, Balanchine tidak memaksa diri duduk berpikir. Sebaliknya, dia menyetrika kemeja atau mengepel lantai. Kami menganalisis bagaimana pekerjaan rumah tangga ini membantu kreativitas."
+      "ko": "\"나는 안무를 짜려고 억지로 앉아 있지 않는다. 다림질을 하거나 방을 쓸 때, 발레리나들의 춤이 비로소 내 눈앞에서 흐르기 시작한다.\" 🧺\n\n뉴욕 시티 발레단(NYCB)의 수장으로서 모던 발레의 토대를 닦고 기하학적이고 혁신적인 안무들로 20세기 공연예술을 평정했던 안무가 조지 발란신. 상상력의 한계를 시험하는 발레 동선을 끝없이 만들어내야 했던 그에게도 어김없이 아이디어가 완전히 메말라 버리는 창작의 정체기가 찾아오곤 했습니다. 하지만 발란신은 골방에 앉아 머리를 싸매지 않았습니다. 그는 안무가 막힐 때면 벌떡 일어나 다리미와 다림판을 펴고 단정하게 셔츠를 다리거나, 물걸레를 빨아 바닥을 닦았습니다. 뇌과학적으로 이 평범하고 단순한 집안일 루틴이 어떻게 뇌의 창의성 퓨즈를 다시 켜고 번뜩이는 예술적 해답을 안겨주는지 추적합니다.\n\n우리는 어려운 난제에 가로막히거나 중요한 기획서의 첫 장을 넘기지 못할 때, 책상 앞에 꼼짝없이 앉아 모니터만 노려보며 뇌에 억지 압박을 가하곤 합니다. 하지만 이 강박적인 몰두는 역효과를 냅니다. 생각을 강요당한 뇌는 극심한 스트레스를 느끼며 시야를 좁히고, 익숙하고 평범한 대안만을 제시하려 듭니다. 창조성이 필요한 순간일수록 전두엽의 억센 움켜짐을 놔줄 돌파구가 필요합니다.\n\n오늘 포스트에서는 조지 발란신의 단순 노동 구상법이 뇌의 분석 영역을 어떻게 이완시키는가 규명하고, 현대인들이 아이디어 교착 상태를 탈출해 뇌의 무의식적 통찰을 이끌어내는 3단계 실천 방안을 제시합니다."
     },
     "whyTitle": {
-      "ko": "전두엽 검열의 완화와 DMN 연합 회로의 점화",
-      "en": "Deactivating Prefrontal Censorship and Igniting DMN Association Networks",
-      "ja": "前頭葉検閲の緩和とDMN連合回路の点火",
-      "zh": "停用前额叶审查并激活DMN关联网络",
-      "es": "Desactivar la censura prefrontal e encender las redes de asociación DMN",
-      "fr": "Désactiver la censure préfrontale et allumer les réseaux d'association du DMN",
-      "de": "Deaktivierung der präfrontalen Zensur und Zündung von DMN-Assoziationsnetzwerken",
-      "pt": "Desativar a censura pré-frontal e acender as redes de associação DMN",
-      "id": "Menonaktifkan Sensor Prefrontal dan Menyalakan Jaringan Asosiasi DMN"
+      "ko": "전두엽 검열의 완화와 DMN 연합 회로의 점화"
     },
     "whyDesc": {
-      "ko": "우리가 문제를 억지로 해결하려고 집중할 때, 뇌의 전두엽은 분석적인 하향식 제어(Top-down Control) 회로를 강하게 활성화하여 논리에 맞지 않는 사소한 아이디어를 가차 없이 걸러냅니다. 이 '전두엽의 검열' 상태는 창의성을 가둡니다. 반면, 다림질이나 청소처럼 뇌가 거의 고민할 필요가 없는 단순 반복성 운동(Monotonous Motor Task)을 수행하면 전두엽의 과활동이 느슨해집니다. 이 틈을 타 뇌의 '디폴트 모드 네트워크(DMN)'가 켜지며, 무의식의 영역에 흩어져 있던 다채로운 기억 조각들이 자유롭고 엉뚱하게 결합(Combinatorial Play)하기 시작합니다. 그 결과, 다리미의 반복적 리듬 속에서 막혔던 안무 동선이 자연스럽게 연상되며 밖으로 도출됩니다.",
-      "en": "When forcing ourselves to solve a problem, the prefrontal cortex initiates tight top-down control, filtering out unconventional or illogical fragments. This mental censorship stifles creativity. In contrast, performing monotonous motor tasks like ironing relaxes this cognitive grip. With analytical filters down, the Default Mode Network (DMN) steps in, facilitating 'combinatorial play' among distant memory nodes. Through the repeating rhythm of the iron, choreographic lines connect effortlessly.",
-      "ja": "私たちが問題を無理に解決しようと集中する時、脳の前頭葉は分析的な下向性制御（Top-down Control）回路を強く活性化し、論理に合わない些細なアイデアを容赦なくフィルタリングします。この「前頭葉の検閲」状態は創造性を閉じ込めます。一方、アイロンがけや掃除のように、脳がほとんど悩む必要のない単純反復運動（Monotonous Motor Task）を行うと、前頭葉の過活動が緩みます。この隙に脳の「デフォルトモードネットワーク（DMN）」がオンになり、無意識の領域に散らばっていた多彩な記憶の断片が自由で意外な結合（Combinatorial Play）を開始します。その結果、アイロンの反復的なリズムの中で詰まっていた振付の動線が自然と連想され、外部へと導出されます。",
-      "zh": "当我们强迫自己解决问题时，前额叶皮层会启动严格的自上而下的控制，过滤掉非常规或不合逻辑的碎片。这种精神审查扼杀了创造力。相反，执行像熨衣这样单调的运动任务可以放松这种认知束缚。随着分析过滤器的关闭，默认模式网络（DMN）介入，促进遥远记忆节点之间的“组合玩耍”。通过熨斗重复的节奏，编舞线条毫不费力地连接起来。",
-      "es": "Al obligarnos a resolver un problema, la corteza prefrontal inicia un estricto control vertical, filtrando fragmentos no convencionales o ilógicos. Esta censura mental sofoca la creatividad. En cambio, realizar tareas motoras monótonas como planchar relaja este agarre cognitivo. Con los filtros analíticos desactivados, la red neuronal por defecto (DMN) interviene, facilitando el 'juego combinatorio' entre nodos de memoria distantes. A través del ritmo repetitivo de la plancha, las líneas coreográficas se conectan sin esfuerzo.",
-      "fr": "Lorsque nous nous forçons à résoudre un problème, le cortex préfrontal initie un contrôle descendant strict, filtrant les fragments non conventionnels ou illogiques. Cette censure mentale étouffe la créativité. En revanche, effectuer des tâches motrices monotones comme le repassage relâche cette emprise cognitive. Une fois les filtres analytiques désactivés, le mode par défaut (DMN) intervient, facilitant le « jeu combinatoire » entre des nœuds de mémoire distants. Grâce au rythme répétitif du fer, les lignes chorégraphiques se connectent sans effort.",
-      "de": "Wenn wir uns zwingen, ein Problem zu lösen, leitet der präfrontale Cortex eine strenge Top-down-Kontrolle ein und filtert unkonventionelle oder unlogische Fragmente heraus. Diese geistige Zensur erstickt die Kreativität. Im Gegensatz dazu entspannt das Ausführen eintöniger motorischer Aufgaben wie Bügeln diesen kognitiven Griff. Wenn die analytischen Filter heruntergefahren sind, tritt das Ruhezustandsnetzwerk (DMN) in Aktion und erleichtert das ‚kombinatorische Spiel‘ zwischen entfernten Gedächtnisknoten. Durch den sich wiederholenden Rhythmus des Bügeleisens verbinden sich choreografische Linien mühelos.",
-      "pt": "Ao nos forçarmos a resolver um problema, o córtex pré-frontal inicia um controle rígido de cima para baixo, filtrando fragmentos não convencionais ou ilógicos. Esta censura mental sufoca a criatividade. Em contraste, realizar tarefas motoras monótonas como passar roupa relaxa essa fixação cognitiva. Com os filtros analíticos desativados, a rede de modo padrão (DMN) entra em ação, facilitando o 'jogo combinatório' entre nós de memória distantes. Através do ritmo repetitivo do ferro, as linhas coreográficas conectam-se sem esforço.",
-      "id": "Saat memaksa diri memecahkan masalah, korteks prefrontal memulai kontrol top-down yang ketat, menyaring fragmen yang tidak konvensional. Sensor mental ini menghambat kreativitas. Sebaliknya, melakukan tugas motorik monoton seperti menyetrika merelaksasi cengkeraman kognitif ini. Saat filter analitis turun, DMN mengambil alih."
+      "ko": "우리가 문제를 억지로 해결하려고 집중할 때, 뇌의 전두엽은 분석적인 하향식 제어(Top-down Control) 회로를 강하게 활성화하여 논리에 맞지 않는 사소한 아이디어를 가차 없이 걸러냅니다. 이 '전두엽의 검열' 상태는 창의성을 가둡니다. 반면, 다림질이나 청소처럼 뇌가 거의 고민할 필요가 없는 단순 반복성 운동(Monotonous Motor Task)을 수행하면 전두엽의 과활동이 느슨해집니다. 이 틈을 타 뇌의 '디폴트 모드 네트워크(DMN)'가 켜지며, 무의식의 영역에 흩어져 있던 다채로운 기억 조각들이 자유롭고 엉뚱하게 결합(Combinatorial Play)하기 시작합니다. 그 결과, 다리미의 반복적 리듬 속에서 막혔던 안무 동선이 자연스럽게 연상되며 밖으로 도출됩니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "가벼운 가사 노동이나 신체 동작을 활용해 머리를 식힐 때, 주의를 과하게 요구하거나 인지 능력을 써야 하는 행동은 금물입니다. 예컨대 영감을 얻겠다고 복잡한 레시피의 요리를 요리하거나, 청소를 하며 동시에 경제 뉴스를 듣는 등 '멀티태스킹'을 하면 뇌는 결코 DMN 상태로 진입하지 못하고 인지 피로만 늘어납니다. 오롯이 손끝의 감각과 몸의 일정한 리듬에만 주의를 대략적으로 던져두고 머릿속을 방목하는 느슨함이 핵심입니다.",
-      "en": "When using manual work to trigger inspiration, avoid tasks demanding high cognitive attention or problem-solving. Cooking complex recipes or listening to intellectual podcasts while cleaning acts as multi-tasking, preventing DMN access and multiplying mental fatigue. Anchor your mind loosely to the tactile sensations and kinetic feedback of the physical activity, leaving your thoughts to roam.",
-      "ja": "軽い家事労働や身体の動きを活用して頭を冷やす際、注意を過剰に要求したり認知能力を使用しなければならない行動は禁物です。例えば、インスピレーションを得ようと複雑なレシピの料理を作ったり、掃除をしながら同時に経済ニュースを聞くなど、「マルチタスク」を行うと、脳は決してDMN状態に入ることができず、認知疲労だけが増えます。ひたすら指先の感覚や身体の一定のリズムにだけ注意をおおよそ投げておき、頭の中を放牧する緩さがポイントです。",
-      "zh": "使用体力劳动激发灵感时，避免需要高度认知注意力或解决任务。清洁时烹饪复杂的食谱或收听智力播客属于多任务处理，会阻止DMN的使用并成倍增加精神疲劳。将心思松散地锚定在体力活动的触觉和运动反馈上，让思想漫游。",
-      "es": "Al usar el trabajo manual para activar la inspiración, evite tareas que exijan una gran atención cognitiva o resolución de problemas. Cocinar recetas complejas o escuchar podcasts intelectuales mientras limpia actúa como una multitarea, lo que impide el acceso a la DMN y multiplica la fatiga mental. Ancle su mente libremente a las sensaciones táctiles y la retroalimentación cinética de la actividad física, dejando que sus pensamientos deambulen.",
-      "fr": "Lorsque vous utilisez le travail manuel pour susciter l'inspiration, évitez les tâches exigeant une attention cognitive élevée ou la résolution de problèmes. Cuisiner des recettes complexes ou écouter des podcasts intellectuels tout en faisant le ménage agit comme du multitâche, empêchant l'accès au DMN et multipliant la fatigue mentale. Ancrez votre esprit lâchement aux sensations tactiles et aux retours cinétiques de l'activité physique, laissant libre cours à vos pensées.",
-      "de": "Vermeiden Sie bei der Nutzung manueller Arbeit zur Inspirationsgewinnung Aufgaben, die eine hohe kognitive Aufmerksamkeit oder Problemlösung erfordern. Das Kochen komplexer Rezepte oder das Hören anspruchsvoller Podcasts beim Putzen wirkt wie Multitasking, verhindert den DMN-Zugriff und vervielfacht die geistige Erschöpfung. Verankern Sie Ihren Geist locker in den taktilen Empfindungen und dem kinetischen Feedback der körperlichen Aktivität und lassen Sie Ihren Gedanken freien Lauf.",
-      "pt": "Ao usar o trabalho manual para desencadear a inspiração, evite tarefas que exijam alta atenção cognitiva ou resolução de problemas. Cozinhar receitas complexas ou ouvir podcasts intelectuais enquanto limpa funciona como multitarefa, impedindo o acesso à DMN e multiplicando a fadiga mental. Ancore sua mente vagamente nas sensações táteis e no feedback cinético da atividade física, deixando seus pensamentos vagarem.",
-      "id": "Saat menggunakan pekerjaan manual untuk memicu inspirasi, hindari tugas yang menuntut perhatian kognitif tinggi. Memasak resep rumit atau mendengarkan podcast intelektual saat membersihkan rumah bertindak sebagai multi-tasking yang mencegah akses DMN dan menambah kelelahan."
+      "ko": "가벼운 가사 노동이나 신체 동작을 활용해 머리를 식힐 때, 주의를 과하게 요구하거나 인지 능력을 써야 하는 행동은 금물입니다. 예컨대 영감을 얻겠다고 복잡한 레시피의 요리를 요리하거나, 청소를 하며 동시에 경제 뉴스를 듣는 등 '멀티태스킹'을 하면 뇌는 결코 DMN 상태로 진입하지 못하고 인지 피로만 늘어납니다. 오롯이 손끝의 감각과 몸의 일정한 리듬에만 주의를 대략적으로 던져두고 머릿속을 방목하는 느슨함이 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "인지 소모 없는 단순 반복 가사 준비",
-          "en": "Preparing a Low-Cognitive Repetitive Task",
-          "ja": "認知消耗のない単純反復家事の用意",
-          "zh": "准备低认知的重复性任务",
-          "es": "Preparar una tarea repetitiva de baja cognición",
-          "fr": "Préparer une tâche répétitive à faible charge cognitive",
-          "de": "Vorbereitung einer sich wiederholenden Aufgabe mit geringer kognitiver Belastung",
-          "pt": "Preparar uma tarefa repetitiva de baixa cognição",
-          "id": "Menyiapkan Tugas Repetitif Kognitif Rendah"
+          "ko": "인지 소모 없는 단순 반복 가사 준비"
         },
         "text": {
-          "ko": "설거지, 다림질, 가벼운 옷가지 정리, 창문 닦기 등 뇌가 매뉴얼을 생각하지 않고도 반사적으로 수행할 수 있는 활동을 지정합니다.",
-          "en": "Identify a simple task that requires zero active calculation, such as washing dishes, sweeping, dusting, or organizing a shelf.",
-          "ja": "皿洗い、アイロンがけ、軽い衣類の整理、窓拭きなど、脳がマニュアルを考えなくても反射的に実行できる活動を指定します。",
-          "zh": "确定一项不需要主动计算的简单任务，例如洗碗、扫地、除尘或整理架子。",
-          "es": "Identifique una tarea simple que requiera cero cálculo activo, como lavar platos, barrer, quitar el polvo o clasificar un estante.",
-          "fr": "Identifiez une tâche simple qui ne nécessite aucun calcul actif, comme faire la vaisselle, balayer, dépoussiérer ou ranger une étagère.",
-          "de": "Identifizieren Sie eine einfache Aufgabe, die keinerlei aktives Denken erfordert, wie z. B. Geschirrspülen, Fegen, Staubwischen oder das Aufräumen eines Regals.",
-          "pt": "Identifique uma tarefa simples que exija cálculo zero ativo, como lavar a louça, varrer, tirar o pó ou organizar uma prateleira.",
-          "id": "Identifikasi tugas sederhana yang tidak memerlukan kalkulasi aktif, seperti mencuci piring, menyapu, atau merapikan rak."
+          "ko": "설거지, 다림질, 가벼운 옷가지 정리, 창문 닦기 등 뇌가 매뉴얼을 생각하지 않고도 반사적으로 수행할 수 있는 활동을 지정합니다."
         }
       },
       {
         "name": {
-          "ko": "15분간의 신체 리듬 몰입 및 방목",
-          "en": "Engaging in 15 Minutes of Physical Rhythm",
-          "ja": "15分間の身体リズムへの没入と放牧",
-          "zh": "进行15分钟的身体节奏运动",
-          "es": "Participar en 15 minutos de ritmo físico",
-          "fr": "Pratiquer 15 minutes de rythme physique",
-          "de": "Aktivierung von 15 Minuten körperlichem Rhythmus",
-          "pt": "Engajar-se em 15 minutos de ritmo físico",
-          "id": "Melibatkan Diri dalam Ritme Fisik Selama 15 Menit"
+          "ko": "15분간의 신체 리듬 몰입 및 방목"
         },
         "text": {
-          "ko": "스마트폰과 모든 소리를 끄고, 다리미나 빗자루의 일정한 리듬과 몸의 물리적 동작에 15분간 오롯이 초점을 맞춘 채 사유를 내버려 둡니다.",
-          "en": "Turn off all devices. Immerse yourself for 15 minutes in the steady rhythm of physical movements, letting your thoughts drift without active guidance.",
-          "ja": "スマートフォンとすべての音を消し、アイロンやほうきの一定のリズムと身体の物理的な動作に15分間完全に焦点を合わせたまま、思索を放っておきます。",
-          "zh": "关闭所有设备。让自己沉浸在15分钟稳定的身体动作节奏中，让您的思想在没有主动引导的情况下漂流。",
-          "es": "Apague todos los dispositivos. Sumérjase durante 15 minutos en el ritmo constante de los movimientos físicos, dejando que sus pensamientos fluyan sin una guía activa.",
-          "fr": "Éteignez tous vos appareils. Immergez-vous pendant 15 minutes dans le rythme régulier de vos mouvements physiques, en laissant vos pensées dériver sans guide actif.",
-          "de": "Schalten Sie alle Geräte aus. Tauchen Sie 15 Minuten lang in den stetigen Rhythmus körperlicher Bewegungen ein und lassen Sie Ihren Gedanken ohne aktive Führung freien Lauf.",
-          "pt": "Desligue todos os dispositivos. Mergulhe por 15 minutos no ritmo constante dos movimentos físicos, deixando seus pensamentos fluírem sem uma orientação ativa.",
-          "id": "Matikan semua perangkat. Benamkan diri Anda selama 15 menit dalam ritme gerakan fisik yang stabil, biarkan pikiran melayang."
+          "ko": "스마트폰과 모든 소리를 끄고, 다리미나 빗자루의 일정한 리듬과 몸의 물리적 동작에 15분간 오롯이 초점을 맞춘 채 사유를 내버려 둡니다."
         }
       },
       {
         "name": {
-          "ko": "아이디어 포착과 즉각 본 업무 이행",
-          "en": "Capturing Insights and Resuming Core Work",
-          "ja": "アイデアの捕捉と即座の本業務移行",
-          "zh": "捕获灵感并恢复核心工作",
-          "es": "Capturar ideas y reanudar el trabajo principal",
-          "fr": "Capturer les idées et reprendre le travail essentiel",
-          "de": "Erkenntnisse festhalten und die Hauptarbeit wieder aufnehmen",
-          "pt": "Capturar insights e retomar o trabalho principal",
-          "id": "Menangkap Wawasan dan Melanjutkan Pekerjaan Utama"
+          "ko": "아이디어 포착과 즉각 본 업무 이행"
         },
         "text": {
-          "ko": "단순 노동 중 무의식의 틈에서 불현듯 떠오른 기획이나 핵심 단어를 잊지 않게 메모하고, 즉시 본래 업무 책상으로 돌아와 기세를 이어갑니다.",
-          "en": "As soon as a subconscious idea or solution bubbles to the surface, note it down quickly, drop the chore, and immediately return to your workspace.",
-          "ja": "単純労働の最中、無意識の隙間からふと浮かんだ企画やキーワードを忘れないようにメモし、すぐに本来の業務机に戻って勢いを持続させます。",
-          "zh": "一旦潜意识的想法或解决方案浮出水面，迅速记下来，放下家务，立即返回您的工作区。",
-          "es": "Tan pronto como una idea o solución subconsciente salga a la superficie, anótela rápidamente, deje la tarea y regrese de inmediato a su espacio de trabajo.",
-          "fr": "Dès qu'une idée ou une solution subconsciente surgit, notez-la rapidement, laissez tomber la corvée et retournez immédiatement à votre espace de travail.",
-          "de": "Sobald eine unterbewusste Idee oder Lösung an die Oberfläche sprudelt, notieren Sie sie schnell, lassen Sie die Hausarbeit stehen und kehren Sie sofort an Ihren Arbeitsplatz zurück.",
-          "pt": "Assim que uma ideia ou solução subconsciente surgir, anote-a rapidamente, deixe a tarefa de lado e retorne imediatamente ao seu espaço de trabalho.",
-          "id": "Begitu ide atau solusi bawah sadar muncul ke permukaan, catat dengan cepat, tinggalkan pekerjaan rumah, dan segera kembali ke meja."
+          "ko": "단순 노동 중 무의식의 틈에서 불현듯 떠오른 기획이나 핵심 단어를 잊지 않게 메모하고, 즉시 본래 업무 책상으로 돌아와 기세를 이어갑니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "다림질이나 설거지 같은 가사 노동 외에, 산책도 비슷한 DMN 활성화 효과를 주나요?",
-          "en": "Does walking offer a similar DMN activation effect as domestic chores?",
-          "ja": "アイロンがけや皿洗いのような家事労働の他に、散歩も同様のDMN活性化効果を与えますか？",
-          "zh": "除了熨衣或洗碗等家务劳动外，散步是否也能提供类似的 DMN 激活效果？",
-          "es": "¿Caminar ofrece un efecto de activación de la DMN similar al de los quehaceres domésticos?",
-          "fr": "La marche offre-t-elle un effet d'activation du DMN similaire à celui des tâches ménagères ?",
-          "de": "Bietet Gehen einen ähnlichen DMN-Aktivierungseffekt wie Hausarbeit?",
-          "pt": "Caminhar oferece um efeito de ativação da DMN semelhante ao das tarefas domésticas?",
-          "id": "Apakah jalan kaki menawarkan efek aktivasi DMN yang sama seperti pekerjaan rumah tangga?"
+          "ko": "다림질이나 설거지 같은 가사 노동 외에, 산책도 비슷한 DMN 활성화 효과를 주나요?"
         },
         "answer": {
-          "ko": "네, 산책 역시 훌륭한 창조성 촉진 도구입니다. 단, 산책할 때는 뇌가 주변 지리를 탐색하거나 인파를 피하는 데 일정 수준의 시각적, 인지적 주의력을 지속적으로 소모해야 합니다. 반면, 다림질이나 설거지는 익숙한 실내 환경에서 완벽히 통제된 한정적 물리 행동만을 수행하므로 전두엽의 인지 소모율이 산책보다 훨씬 낮아 고요한 명상 상태(DMN 기동)를 더 안정적으로 유도할 수 있는 고유한 장점이 있습니다.",
-          "en": "Yes, walking is a powerful creative facilitator. However, walking outside requires navigating terrain, avoiding obstacles, and processing changing environments. Domestic chores like ironing take place in a controlled room, depending on fully automated motor memory. This minimizes prefrontal intervention even further than walking, inducing a deeply stable DMN state.",
-          "ja": "はい、散歩も優れた創造性促進ツールです。ただ、散歩をする時は脳が周辺の地理を探索したり、人混みを避けるために一定水準の視覚的、認知的注意力を継続的に消耗しなければなりません。一方、アイロンがけや皿洗いは使い慣れた室内環境で完全にコントロールされた限定的な物理行動のみを行うため、前頭葉の認知消耗率が散歩よりはるかに低く、静かな瞑想状態（DMN起動）をより安定して誘導できる独自の長所があります。",
-          "zh": "是的，散步也是一个强大的创意促进方式。然而，在户外散步需要规划路线、避开障碍物并处理不断变化的环境。像熨衣这样的家务劳动发生在受控的房间里，依赖于完全自动化的运动记忆。这比散步更进一步减少了前额叶的干预，从而引导出深度稳定的 DMN 状态。",
-          "es": "Sí, caminar es un poderoso facilitador creativo. Sin embargo, caminar al aire libre requiere navegar por el terreno, evitar obstáculos y procesar entornos cambiantes. Los quehaceres domésticos como planchar se realizan en una habitación controlada, dependiendo de la memoria motora completamente automatizada. Esto minimiza la intervención prefrontal aún más que caminar, induciendo un estado de la DMN profundamente estable.",
-          "fr": "Oui, la marche est un puissant catalyseur de créativité. Cependant, marcher à l'extérieur nécessite de s'orienter, d'éviter les obstacles et de traiter des environnements changeants. Les tâches ménagères comme le repassage se déroulent dans une pièce contrôlée, s'appuyant sur une mémoire motrice entièrement automatisée. Cela minimise l'intervention préfrontale encore plus que la marche, induisant un état du DMN profondément stable.",
-          "de": "Ja, Gehen ist ein starker kreativer Vermittler. Das Gehen im Freien erfordert jedoch das Navigieren im Gelände, das Ausweichen von Hindernissen und das Verarbeiten wechselnder Umgebungen. Hausarbeiten wie Bügeln finden in einem kontrollierten Raum statt und hängen vom vollautomatischen Bewegungsgedächtnis ab. Dies minimiert die präfrontale Beteiligung noch stärker als Gehen und induziert einen tief stabilen DMN-Zustand.",
-          "pt": "Sim, caminhar é um poderoso facilitador criativo. No entanto, caminhar ao ar livre requer navegar pelo terreno, evitar obstáculos e processar ambientes em mudança. As tarefas domésticas, como passar roupa, ocorrem em uma sala controlada, dependendo da memória motora totalmente automatizada. Isso minimiza a intervenção pré-frontal ainda mais do que caminhar, induzindo um estado de DMN profundamente estável.",
-          "id": "Ya, jalan kaki adalah fasilitator kreatif yang kuat. Namun, jalan kaki di luar ruangan memerlukan navigasi medan dan pemrosesan lingkungan. Pekerjaan rumah tangga seperti menyetrika terjadi di ruang terkontrol, bergantung pada memori motorik otomatis. Ini meminimalkan intervensi prefrontal lebih jauh daripada jalan kaki."
+          "ko": "네, 산책 역시 훌륭한 창조성 촉진 도구입니다. 단, 산책할 때는 뇌가 주변 지리를 탐색하거나 인파를 피하는 데 일정 수준의 시각적, 인지적 주의력을 지속적으로 소모해야 합니다. 반면, 다림질이나 설거지는 익숙한 실내 환경에서 완벽히 통제된 한정적 물리 행동만을 수행하므로 전두엽의 인지 소모율이 산책보다 훨씬 낮아 고요한 명상 상태(DMN 기동)를 더 안정적으로 유도할 수 있는 고유한 장점이 있습니다."
         }
       }
     ]

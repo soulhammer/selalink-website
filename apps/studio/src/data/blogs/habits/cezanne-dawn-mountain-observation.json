@@ -1,194 +1,64 @@
 {
   "cezanne-dawn-mountain-observation": {
     "title": {
-      "ko": "빛의 기하학을 감각하다: 폴 세잔의 아침 자연광 관찰 습관",
-      "en": "Sensing the Geometry of Light: Paul Cezanne's Dawn Light Observation Habit",
-      "ja": "光の幾何学を感知する：ポール・セザンヌの朝の自然光観察習慣",
-      "zh": "感悟光的几何学：保罗·塞尚的晨光观察习惯",
-      "es": "Sintiendo la geometría de la luz: el hábito de observación de la luz del amanecer de Paul Cezanne",
-      "fr": "Ressentir la géométrie de la lumière : l'habitude d'observation de la lumière de l'aube de Paul Cezanne",
-      "de": "Die Geometrie des Lichts spüren: Paul Cezannes Gewohnheit der Beobachtung des Morgenlichts",
-      "pt": "Sentir a geometria da luz: o hábito de observação da luz do amanhecer de Paul Cezanne",
-      "id": "Merasakan Geometri Cahaya: Kebiasaan Observasi Cahaya Fajar Paul Cezanne"
+      "ko": "빛의 기하학을 감각하다: 폴 세잔의 아침 자연광 관찰 습관"
     },
     "description": {
-      "ko": "매일 새벽 6시 생트빅투아르 산을 향해 걸으며 빛의 변화를 예리하게 지각했던 현대 미술의 아버지 폴 세잔. 아침 야외 자연광 노출이 뇌를 각성시키고 창의적 지각을 확장하는 신경 과학적 원리를 규명합니다.",
-      "en": "Paul Cezanne, the father of modern art, walked towards Mont Sainte-Victoire at 6 AM daily to observe daylight changes. Discover how dawn light exposure primes the brain and elevates visual intuition.",
-      "ja": "毎朝6時にサント＝ヴィクトワール山に向かって歩き、光の変化を鋭く知覚した現代美術の父ポール・セザンヌ。朝の屋外自然光への露出が脳を覚醒させ、創造的な知覚を拡張する神経科学的原理を究明します。",
-      "zh": "每天清晨6点走向圣维克多山，敏锐感知光线变化的现代艺术之父保罗·塞尚。探讨清晨户外自然光暴露如何唤醒大脑、拓展创造性知觉的神经科学原理。",
-      "es": "Paul Cezanne, el padre del arte moderno, caminaba hacia el Mont Sainte-Victoire a las 6 a.m. todos los días para observar los cambios de luz. Descubra cómo la exposición a la luz del amanecer prepara el cerebro y eleva la intuición visual.",
-      "fr": "Paul Cezanne, le père de l'art moderne, marchait vers la montagne Sainte-Victoire à 6 heures du matin tous les jours pour observer les changements de lumière. Découvrez comment l'exposition à la lumière de l'aube stimule le cerveau.",
-      "de": "Paul Cezanne, der Vater der modernen Kunst, ging täglich um 6 Uhr morgens auf den Mont Sainte-Victoire zu, um Lichtveränderungen zu beobachten. Erfahren Sie, wie die Morgenlichtexposition das Gehirn stimuliert.",
-      "pt": "Paul Cezanne, o pai da arte moderna, caminhava em direção ao Mont Sainte-Victoire às 6h da manhã diariamente para observar as mudanças da luz do dia. Descubra como a exposição à luz do amanhecer prepara o cérebro.",
-      "id": "Paul Cezanne, bapak seni modern, berjalan menuju Mont Sainte-Victoire pada jam 6 pagi setiap hari untuk mengamati perubahan cahaya matahari. Temukan bagaimana paparan fajar mempersiapkan otak."
+      "ko": "매일 새벽 6시 생트빅투아르 산을 향해 걸으며 빛의 변화를 예리하게 지각했던 현대 미술의 아버지 폴 세잔. 아침 야외 자연광 노출이 뇌를 각성시키고 창의적 지각을 확장하는 신경 과학적 원리를 규명합니다."
     },
     "authority": {
-      "ko": "요아킴 가스케의 회고록 『세잔 평전』 고증 및 아침 블루라이트 노출이 대뇌 교차상핵(SCN) 각성 및 인지 활성에 미치는 영향 연구 자료",
-      "en": "Joachim Gasquet's Cezanne: A Memoir and Environmental Physiology Studies on Morning Blue-Light Exposure, Suprachiasmatic Nucleus Activation, and Visual Attention Tuning",
-      "ja": "ジョアシャン・ガスケの回顧録『セザンヌ評伝』の考証、および朝のブルーライト露出が大脳交差上核（SCN）の覚醒と認知活性に及ぼす影響に関する環境生理学の研究資料",
-      "zh": "若阿希姆·加斯凯的日记回忆录《塞尚》考证及清晨蓝光暴露对大脑视交叉上核（SCN）觉醒与认知活化影响的环境生理学研究资料",
-      "es": "Cezanne: A Memoir de Joachim Gasquet y estudios de fisiología ambiental sobre la exposición a la luz azul de la mañana, la activación del núcleo supraquiasmático y el ajuste de la atención visual",
-      "fr": "Cezanne : A Memoir de Joachim Gasquet et études de physiologie environnementale sur l'exposition à la lumière bleue matinale, l'activation du noyau suprachiasmatique et le réglage de l'attention visuelle",
-      "de": "Joachim Gasquets Biografie „Cezanne: A Memoir“ und umweltphysiologische Studien zur morgendlichen Blaulichtexposition, Aktivierung des suprachiasmatischen Nukleus und visuellen Aufmerksamkeitssteuerung",
-      "pt": "Cezanne: A Memoir de Joachim Gasquet e estudos de fisiologia ambiental sobre a exposição à luz azul matinal, ativação do núcleo supraquiasmático e sintonia da atenção visual",
-      "id": "Cezanne: A Memoir karya Joachim Gasquet dan Studi Fisiologi Lingkungan tentang Paparan Cahaya Biru Pagi, Aktivasi Nukleus Suprachiasmatic, dan Penyetelan Perhatian Visual"
+      "ko": "Cezanne Dawn Mountain Observation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "피카소와 마티스로부터 '우리 모두의 아버지'라 추앙받으며 현대 추상 미술과 입체파의 기틀을 닦은 위대한 화가 폴 세잔. 그의 그림들은 단순한 모방을 넘어 事物이 가진 영원한 구조와 형태를 포착해 냅니다. 세잔이 남긴 독보적인 입체감의 원천은 매일 아침 새벽 6시에 시작된 그의 야외 관찰 루틴이었습니다. 그는 이른 아침 이젤을 짊어지고 프랑스 남부 프로방스의 산길을 걸어 올라갔습니다. 그리고 해가 떠오름에 따라 빛의 각도와 事物의 색채가 미세하게 변해가는 양상을 집요하게 시각적으로 사색했습니다. 뇌의 지각 피질을 자연의 빛으로 점화했던 세잔의 감각 습관을 과학적으로 분석합니다.",
-      "en": "Paul Cezanne, praised by Picasso and Matisse as the father of us all, laid the foundation for 20th-century cubism and abstraction. His works capture the eternal geometric structures of nature. The source of his unique vision was his early morning routine. Waking at 6 AM, he carried his easel to walk the trails of Aix-en-Provence. As the sun rose over Mont Sainte-Victoire, he stood and meditated on the shifting angles of light and transmuting colors. We explore how exposing the visual cortex to dawn sunlight sharpens focus and enhances creative intuition.",
-      "ja": "ピカソやマティスから「私たちのすべての父親」と崇められ、現代抽象美術と立方派（キュビスム）の基礎を築いた偉大な画家ポール・セザンヌ。彼の絵画は単なる模倣を超えて、事物が持つ永遠の構造と形態を捉えています。セザンヌが残した独歩的な立体感の源泉は、毎朝6時に始まった彼の屋外観察ルーティンでした。彼は早朝、イーゼルを背負ってフランス南部プロヴァンスの山道を歩き登りました。そして太陽が昇るにつれて、光の角度や事物の色彩が微細に変化していく様子を執拗に視覚的に思索しました。脳の知覚皮質を自然の光でプライミングしたセザンヌの感覚習慣を科学的に分析します。",
-      "zh": "在这一历史性惯例的实践中： ' ' . 事物 . 6 . . 事物 . .",
-      "es": "Paul Cezanne, elogiado por Picasso y Matisse como el padre de todos nosotros, sentó las bases del cubismo y la abstracción del siglo XX. Sus obras capturan las eternas estructuras geométricas de la naturaleza. La fuente de su visión única era su rutina matutina. Al despertarse a las 6 a.m., cargaba su caballete para recorrer los senderos de Aix-en-Provence. Mientras el sol salía sobre el Mont Sainte-Victoire, se paraba a meditar sobre los ángulos cambiantes de la luz y la transmutación de los colores. Exploramos cómo exponer la corteza visual a la luz solar del amanecer agudiza la concentración y mejora la intuición creativa.",
-      "fr": "Paul Cezanne, salué par Picasso et Matisse comme le père de nous tous, a jeté les bases du cubisme et de l'abstraction du XXe siècle. Ses œuvres capturent les structures géométriques éternelles de la nature. La source de sa vision unique était sa routine matinale. Se réveillant à 6 heures du matin, il portait son chevalet pour parcourir les sentiers d'Aix-en-Provence. Alors que le soleil se levait sur la montagne Sainte-Victoire, il méditait sur les changements d'angles de la lumière. Nous explorons comment l'exposition à la lumière de l'aube aiguise la concentration.",
-      "de": "Paul Cezanne, der von Picasso und Matisse als unser aller Vater gepriesen wurde, legte den Grundstein für den Kubismus und die Abstraktion des 20. Jahrhunderts. Seine Werke fangen die ewigen geometrischen Strukturen der Natur ein. Die Quelle seiner einzigartigen Vision war seine Routine am frühen Morgen. Er wachte um 6 Uhr morgens auf, trug seine Staffelei und ging auf den Wegen von Aix-en-Provence wandern. Als die Sonne über dem Mont Sainte-Victoire aufging, stand er da und meditierte über die wechselnden Lichtwinkel und die sich verändernden Farben. Wir untersuchen, wie die Konfrontation der Sehrinde mit dem Morgenlicht den Fokus schärft.",
-      "pt": "Paul Cezanne, elogiado por Picasso e Matisse como o pai de todos nós, lançou as bases para o cubismo e a abstração do século XX. As suas obras capturam as eternas estruturas geométricas da natureza. A fonte da sua visão única era a sua rotina matinal. Ao acordar às 6h, carregava o seu cavalete para caminhar pelos trilhos de Aix-en-Provence. Enquanto o sol nascia sobre o Mont Sainte-Victoire, permanecia de pé e meditava sobre os ângulos mutáveis da luz e a transmutação das cores. Exploramos como expor o córtex visual à luz solar do amanhecer agça o foco.",
-      "id": "Paul Cezanne, dipuji oleh Picasso dan Matisse sebagai bapak kita semua, meletakkan dasar bagi kubisme dan abstraksi abad ke-20. Karya-karyanya menangkap struktur geometris alam yang abadi. Sumber dari visinya yang unik adalah rutinitas pagi harinya. Bangun jam 6 pagi, ia membawa kanvasnya untuk menyusuri jalan setapak di Aix-en-Provence. Saat matahari terbit di atas Mont Sainte-Victoire, ia berdiri dan merenungkan pergeseran sudut cahaya dan perubahan warna. Kami mengeksplorasi bagaimana memaparkan korteks visual ke cahaya matahari fajar mempertajam fokus."
+      "ko": "\"화가는 사물을 단순히 바라보는 것이 아니라, 그것을 온몸으로 감각하고 뇌 속에서 다시 재구성하여 캔버스에 구현해야 한다.\" 🎨\n\n인상주의를 넘어 20세기 입체파 문을 연 현대 미술의 아버지로, 사물의 본질적인 기하학적 형태를 탐구한 화가 폴 세잔. 그의 그림들은 단순한 모방을 넘어 사물이 가진 영원한 구조와 형태를 포착해 냅니다. 세잔이 남긴 독보적인 입체감의 원천은 매일 아침 새벽 6시에 시작된 그의 야외 관찰 루틴이었습니다. 그는 이른 아침 이젤을 짊어지고 프랑스 남부 프로방스의 산길을 걸어 올라갔습니다. 그리고 해가 떠오름에 따라 빛의 각도와 사물의 색채가 미세하게 변해가는 양상을 집요하게 시각적으로 사색했습니다. 뇌의 지각 피질을 자연의 빛으로 점화했던 세잔의 감각 습관을 과학적으로 분석합니다."
     },
     "whyTitle": {
-      "ko": "아침 햇빛과 교차상핵(SCN) 활성화의 환경신경학",
-      "en": "Dawn Sunlight and Suprachiasmatic Nucleus (SCN) Activation",
-      "ja": "朝の日光と視交叉上核（SCN）活性化の環境神経学",
-      "zh": "清晨阳光与视交叉上核（SCN）激活的环境神经学",
-      "es": "Luz solar del amanecer y activación del núcleo supraquiasmático (SCN)",
-      "fr": "Lumière du soleil de l'aube et activation du noyau suprachiasmatique (NSC)",
-      "de": "Morgenlicht und Aktivierung des suprachiasmatischen Nukleus (SCN)",
-      "pt": "Luz Solar do Amanhecer e Ativação do Núcleo Supraquiasmático (SCN)",
-      "id": "Cahaya Matahari Fajar dan Aktivasi Nukleus Suprachiasmatic (SCN)"
+      "ko": "아침 햇빛과 교차상핵(SCN) 활성화의 환경신경학"
     },
     "whyDesc": {
-      "ko": "아침 6시에서 8시 사이에 방출되는 자연광은 파란색 파장 대역(Blue-Light)이 풍부하여, 망막의 특수 광수용체 세포를 자극합니다. 이 자극은 대뇌의 생체 시계인 교차상핵(SCN)으로 즉각 전달되어 수면 호르몬인 멜라토닌 분비가 억제되고 활력 호르몬인 코르티솔 분비가 촉진해 뇌를 온전히 깨웁니다. 더욱이 자연의 기하학적 형태와 미세한 명도 대비를 집요하게 응시하는 걷기 동작은 시각 피질(Visual Cortex)의 뉴런들을 정교하게 활성화합니다. 이 시각적 각성 상태는 인지적 피로를 해소하고 대상을 관찰하는 인지 민감도(Perceptual Sensitivity)를 극대화해 창조적 아이디어 결합을 돕습니다.",
-      "en": "Daylight between 6 AM and 8 AM is rich in short-wavelength blue light, which activates melanopsin-containing ganglion cells in the retina. This signal travels directly to the suprachiasmatic nucleus (SCN), the brain's circadian pacemaker, shutting down melatonin and boosting cortisol to trigger high alertness. Furthermore, actively scanning natural landscapes and color contrasts during walking triggers broad neural synchronization across the visual cortex. This state of visual wakefulness clears cognitive fatigue and enhances perceptual sensitivity, preparing the brain for creative problem-solving.",
-      "ja": "朝6時から8時の間に放出される自然光は青色波長帯（ブルーライト）が豊富で、網膜の特殊な光受容体細胞を刺激します。この刺激は大脳の体内時計である視交叉上核（SCN）に即座に伝達され、睡眠ホルモンであるメラトニンの分泌を抑制し、活力ホルモンであるコルチゾールの分泌を促進して脳を完全に目覚めさせます。さらに、自然の幾何学的な形態や微細な明度対比を執拗に見つめながら歩く動作は、視覚野（Visual Cortex）のニューロンを精巧に活性化します。この視覚的覚醒状態は、認知的疲労を解消し、対象を観察する認知感受性（Perceptual Sensitivity）を最大化して、創造的なアイデアの結合を助けます。",
-      "zh": "清晨6点到8点之间释放的自然光富含蓝色波长段（蓝光），可以刺激视网膜的特殊光感受器细胞。这种刺激被立即传导至作为大脑生物钟的视交叉上核（SCN），抑制睡眠激素褪黑素的分泌，促进活力激素皮质醇的分泌，从而使大脑完全觉醒。此外，在行走过程中执着凝视大自然的几何形态与微细明暗对比的动作，精细地激活了视觉皮层（Visual Cortex）的神经元。这种视觉觉醒状态能消除认知疲劳，将观察对象的认知敏感度（Perceptual Sensitivity）提升至极限，从而助力创造性创意的结合。",
-      "es": "La luz del día entre las 6 a.m. y las 8 a.m. es rica en luz azul de longitud de onda corta, que activa las células ganglionares que contienen melanopsina en la retina. Esta señal viaja directamente al núcleo supraquiasmático (SCN), el marcapasos circadiano del cerebro, apagando la melatonina y aumentando el cortisol para desencadenar un estado de alerta elevado. Además, el escaneo activo de paisajes naturales y contrastes de color durante la caminata desencadena una amplia sincronización neuronal en toda la corteza visual. Este estado de vigilia visual disipa la fatiga cognitiva y mejora la sensibilidad perceptiva, preparando al cerebro para la resolución creativa de problemas.",
-      "fr": "La lumière du jour entre 6h et 8h du matin est riche en lumière bleue à courte longueur d'onde, qui active les cellules ganglionnaires de la rétine. Ce signal se propage directement vers le noyau suprachiasmatique (NSC), le régulateur circadien du cerveau, bloquant la mélatonine et augmentant le cortisol pour déclencher une vigilance élevée. De plus, le balayage actif des paysages naturels et des contrastes de couleurs déclenche une synchronisation neuronale dans le cortex visuel, dissipant la fatigue cognitive.",
-      "de": "Das Tageslicht zwischen 6 und 8 Uhr morgens ist reich an kurzwelligem blauem Licht, das melanopsinhaltige Ganglienzellen in der Netzhaut aktiviert. Dieses Signal wandert direkt zum suprachiasmatischen Nukleus (SCN), dem circadianen Schrittmacher des Gehirns, stoppt Melatonin und kurbelt Cortisol an, um eine hohe Wachsamkeit auszulösen. Darüber hinaus löst das aktive Scannen natürlicher Landschaften und Farbkontraste beim Gehen eine breite neuronale Synchronisation im gesamten visuellen Kortex aus, was kognitive Müdigkeit beseitigt.",
-      "pt": "A luz do dia entre as 6h e as 8h é rica em luz azul de comprimento de onda curto, que ativa as células ganglionares que contêm melanopsina na retina. Este sinal viaja diretamente para o núcleo supraquiasmático (SCN), o pacemaker circadiano do cérebro, desligando a melatonina e aumentando o cortisol para desencadear um estado de alerta elevado. Além disso, a digitalização ativa de paisagens naturais e contrastes de cores durante a caminhada desencadeia uma ampla sincronização neuronal em todo o córtex visual, eliminando a fadiga cognitiva.",
-      "id": "Cahaya matahari antara jam 6 pagi dan 8 pagi kaya akan cahaya biru panjang gelombang pendek, yang mengaktifkan sel-sel ganglion yang mengandung melanopsin di retina. Sinyal ini merambat langsung ke nukleus suprachiasmatic (SCN), alat pacu jantung sirkadian otak, mematikan melatonin dan meningkatkan kortisol untuk memicu kewaspadaan tinggi. Selain itu, memindai pemandangan alam secara aktif memicu sinkronisasi saraf yang luas di seluruh korteks visual."
+      "ko": "아침 6시에서 8시 사이에 방출되는 자연광은 파란색 파장 대역(Blue-Light)이 풍부하여, 망막의 특수 광수용체 세포를 자극합니다. 이 자극은 대뇌의 생체 시계인 교차상핵(SCN)으로 즉각 전달되어 수면 호르몬인 멜라토닌 분비가 억제되고 활력 호르몬인 코르티솔 분비가 촉진해 뇌를 온전히 깨웁니다. 더욱이 자연의 기하학적 형태와 미세한 명도 대비를 집요하게 응시하는 걷기 동작은 시각 피질(Visual Cortex)의 뉴런들을 정교하게 활성화합니다. 이 시각적 각성 상태는 인지적 피로를 해소하고 대상을 관찰하는 인지 민감도(Perceptual Sensitivity)를 극대화해 창조적 아이디어 결합을 돕습니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "이 관찰 습관을 수행할 때 피해야 할 것은 선글라스를 착용하거나 스마트폰 화면을 보며 걷는 것입니다. 선글라스 렌즈는 망막으로 유입되는 특정 파장의 광선을 차단하여 대뇌 교차상핵의 자연스러운 생체 리듬 리셋 작용을 억제합니다. 또한 걷는 도중 스마트폰 화면의 인공적 빛과 산만한 정보에 시선을 빼앗기면 시각 피질이 좁은 영역에 갇히는 인지 터널링 현상이 일어나 자연 관찰을 통한 이완 각성 효과가 소실됩니다. 따라서 아침 관찰을 할 때는 맨눈으로 넓은 자연 시야를 응시하고 광수용체에 자연의 순수한 빛을 직접 도달시켜야 뇌가 최적의 각성 모드로 진입합니다.",
-      "en": "When practicing dawn light observation, avoid wearing sunglasses or staring at your phone. Sunglasses block the specific wavelengths of solar radiation required to trigger the SCN's circadian reset. Likewise, checking your phone screen narrows your focus, causing cognitive tunneling that cancels the restorative benefits of scenic scanning. Keep your eyes uncovered, scan the wide natural horizon, and let the pure ambient light reach your retinas to allow the brain to synchronize its cognitive and energetic networks.",
-      "ja": "この観察習慣を実践する際に避けるべきなのは、サングラスを着用したり、スマートフォンの画面を見ながら歩くことです。サングラスのレンズは網膜に流入する特定の波長の光線を遮断し、大脳視交叉上核の自然な生体リズムリセット作用を抑制します。また、歩行中にスマホ画面の人工的な光や散漫な情報に視線を奪われると、視覚野が狭い領域に閉じ込められる認知トンネル現象が起こり、自然観察によるリラクゼーション覚醒効果が失われます。したがって、朝の観察を行うときは裸眼で広い自然の視野を見つめ、光受容体に自然の純粋な光を直接到達させてこそ、脳が最適な覚醒モードに入ることができます。",
-      "zh": "进行这一观察习惯时，最需要避免的是佩戴太阳镜或看着智能手机屏幕行走。太阳镜镜片会阻挡流入视网膜的特定波长光线，从而抑制大脑视交叉上核自然的生物钟重置作用。此外，在行走过程中如果目光被手机屏幕的人造光和杂乱信息夺走，就会产生视觉皮层被禁锢在狭窄区域内的认知隧道现象，导致通过观察自然获得的放松觉醒效果消失。因此，在清晨进行观察时，应当用肉眼凝视宽阔的自然视野，让自然纯净的光线直接到达光感受器，大脑才能进入最佳觉醒状态。",
-      "es": "Cuando practique la observación de la luz del amanecer, evite usar anteojos de sol o mirar su teléfono. Los anteojos de sol bloquean las longitudes de onda específicas de la radiación solar requeridas para desencadenar el reinicio circadiano del SCN. Del mismo modo, mirar la pantalla de su teléfono estrecha su enfoque, lo que provoca un túnel cognitivo que cancela los beneficios restauradores del escaneo escénico. Mantenga los ojos descubiertos, escanee el amplio horizonte natural y deje que la luz ambiental pura llegue a sus retinas para permitir que el cerebro sincronice sus redes cognitivas y energéticas.",
-      "fr": "Lors de la pratique de l'observation de la lumière de l'aube, évitez de porter des lunettes de soleil ou de regarder votre téléphone. Les lunettes de soleil bloquent les longueurs d'onde nécessaires au cycle circadien. De même, regarder votre écran réduit votre attention. Gardez les yeux dégagés, observez le large horizon et laissez la lumière atteindre vos rétines pour permettre au cerveau de se synchroniser.",
-      "de": "Vermeiden Sie es beim Beobachten des Morgenlichts, eine Sonnenbrille zu tragen oder auf Ihr Telefon zu schauen. Sonnenbrillen blockieren die spezifischen Wellenlängen der Sonnenstrahlung, die für den circadianen Reset des SCN erforderlich sind. Ebenso schränkt der Blick auf das Telefon den Fokus ein und führt zu einem kognitiven Tunnelblick, der die erholsame Wirkung des Scannens der Landschaft aufhebt. Lassen Sie die Augen unbedeckt, scannen Sie den weiten Horizont und lassen Sie das Morgenlicht auf Ihre Netzhaut treffen.",
-      "pt": "Ao praticar a observação da luz do amanhecer, evite usar óculos de sol ou olhar para o telemóvel. Os óculos de sol bloqueiam os comprimentos de onda específicos da radiação solar necessários para desencadear o reinício circadiano do SCN. Da mesma forma, olhar para o ecrã do telemóvel estreita o seu foco, causando um afunilamento cognitivo que anula os benefícios restauradores da observação da paisagem. Mantenha os olhos descobertos, observe o amplo horizonte natural e deixe que a luz ambiente pura chegue às suas retinas.",
-      "id": "Saat melatih observasi cahaya fajar, hindari mengenakan kacamata hitam atau menatap ponsel Anda. Kacamata hitam memblokir panjang gelombang radiasi matahari tertentu yang diperlukan untuk memicu reset sirkadian SCN. Demikian pula, memeriksa layar ponsel Anda mempersempit fokus Anda, menyebabkan tunneling kognitif yang membatalkan manfaat pemulihan dari pemindaian pemandangan."
+      "ko": "이 관찰 습관을 수행할 때 피해야 할 것은 선글라스를 착용하거나 스마트폰 화면을 보며 걷는 것입니다. 선글라스 렌즈는 망막으로 유입되는 특정 파장의 광선을 차단하여 대뇌 교차상핵의 자연스러운 생체 리듬 리셋 작용을 억제합니다. 또한 걷는 도중 스마트폰 화면의 인공적 빛과 산만한 정보에 시선을 빼앗기면 시각 피질이 좁은 영역에 갇히는 인지 터널링 현상이 일어나 자연 관찰을 통한 이완 각성 효과가 소실됩니다. 따라서 아침 관찰을 할 때는 맨눈으로 넓은 자연 시야를 응시하고 광수용체에 자연의 순수한 빛을 직접 도달시켜야 뇌가 최적의 각성 모드로 진입합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "새벽 6시 야외 진입과 걷기",
-          "en": "Stepping Outside at 6 AM to Walk",
-          "ja": "早朝6時の屋外進出と歩行",
-          "zh": "清晨6点走向户外并步行",
-          "es": "Salir al aire libre a las 6 a.m. para caminar",
-          "fr": "Sortir dehors à 6h du matin pour marcher",
-          "de": "Um 6 Uhr morgens nach draußen gehen, um zu wandern",
-          "pt": "Sair de Casa às 6h para Caminhar",
-          "id": "Melangkah Keluar pada Jam 6 Pagi untuk Berjalan"
+          "ko": "새벽 6시 야외 진입과 걷기"
         },
         "text": {
-          "ko": "매일 아침 일찍 가벼운 옷차림으로 밖으로 나가 자연으로 이동합니다. 15~20분간 산책로를 걸으며 아침 공기를 마시고 온몸의 감각을 깨워 혈류 순환을 촉진합니다.",
-          "en": "Head outside early in the morning in comfortable activewear. Spend 15 to 20 minutes walking along a trail or path, breathing the cool morning air to stimulate systemic circulation and wake your body.",
-          "ja": "毎朝早く、軽い身支度で外に出て自然の中へ移動します。15〜20分間、散歩道を歩きながら朝の空気を吸い、全身の感覚を呼び覚まして血流循環を促進します。",
-          "zh": "每天清晨穿着轻便服装走到室外，前往自然环境中。在步道上行走15~20分钟，呼吸清晨的空气，唤醒全身感官，促进血液循环。",
-          "es": "Salga temprano en la mañana con ropa deportiva cómoda. Camine de 15 a 20 minutos por un sendero o camino, respirando el aire fresco de la mañana para estimular la circulación sistémica y despertar su cuerpo.",
-          "fr": "Sortez tôt le matin dans une tenue confortable. Marchez pendant 15 à 20 minutes sur un sentier, en respirant l'air frais du matin pour stimuler la circulation générale et réveiller votre corps.",
-          "de": "Gehen Sie frühmorgens in bequemer Sportkleidung nach draußen. Gehen Sie 15 bis 20 Minuten lang auf einem Weg oder Pfad spazieren und atmen Sie die kühle Morgenluft ein, um den Kreislauf anzuregen und Ihren Körper aufzuwecken.",
-          "pt": "Saia de casa cedo de manhã com roupa desportiva confortável. Caminhe 15 a 20 minutos ao longo de um trilho ou caminho, respirando o ar fresco da manhã para estimular a circulação sistémica e acordar o seu corpo.",
-          "id": "Keluarlah pagi-pagi sekali dengan pakaian aktif yang nyaman. Habiskan 15 hingga 20 menit berjalan di sepanjang jalan setapak, menghirup udara pagi yang sejuk untuk merangsang sirkulasi sistemik."
+          "ko": "매일 아침 일찍 가벼운 옷차림으로 밖으로 나가 자연으로 이동합니다. 15~20분간 산책로를 걸으며 아침 공기를 마시고 온몸의 감각을 깨워 혈류 순환을 촉진합니다."
         }
       },
       {
         "name": {
-          "ko": "시각적 주의집중과 명도 대비 응시",
-          "en": "Focusing Attention and Scanning Contrasts",
-          "ja": "視覚的注意集中と明度対比の凝視",
-          "zh": "视觉注意力集中与明度对比凝视",
-          "es": "Enfocar la atención y escanear los contrastes",
-          "fr": "Concentrer l'attention et balayer les contrastes",
-          "de": "Aufmerksamkeit fokussieren und Kontraste scannen",
-          "pt": "Focar a Atenção e Observar Contrastes",
-          "id": "Memfokuskan Perhatian dan Memindai Kontras"
+          "ko": "시각적 주의집중과 명도 대비 응시"
         },
         "text": {
-          "ko": "걸음을 멈추거나 서서히 걸으며 주변의 나무, 事物, 하늘을 바라봅니다. 아침 햇빛이 닿아 만들어내는 밝은 면과 어두운 그림자의 경계선, 색채의 온도 차이를 눈으로 쫓으며 의식적으로 응시합니다.",
-          "en": "Pause occasionally to examine trees, buildings, or the horizon. Track the boundary lines between sunlight and shadow, noting how color temperatures shift between cold and warm tones.",
-          "ja": "足を止めたりゆっくり歩いたりしながら、周囲の木々、物、空を眺めます。朝の日光が当たって作り出す明るい面と暗い影の境界線、色彩の温度差を目で追いながら、意識的に見つめます。",
-          "zh": "停下脚步或缓缓行走，观察周围的树木、事物和天空。用目光追踪清晨阳光照射所产生的明亮面与黑暗阴影的交界线、色彩的温度差，有意识地进行凝视。",
-          "es": "Haga una pausa ocasional para observar los árboles, los edificios o el horizonte. Siga las líneas divisorias entre la luz solar y la sombra, observando cómo cambian las temperaturas de color entre tonos fríos y cálidos.",
-          "fr": "Arrêtez-vous de temps en temps pour observer les arbres, les bâtiments ou l'horizon. Suivez les lignes de démarcation entre la lumière et l'ombre, en notant les variations de température de couleur.",
-          "de": "Halten Sie gelegentlich an, um Bäume, Gebäude oder den Horizont zu betrachten. Verfolgen Sie die Grenzlinien zwischen Sonnenlicht und Schatten und achten Sie darauf, wie sich die Farbtemperaturen verschieben.",
-          "pt": "Faça pausas ocasionais para examinar árvores, edifícios ou o horizonte. Siga as linhas divisórias entre a luz solar e a sombra, observando como as temperaturas de cor variam entre tons frios e quentes.",
-          "id": "Berhentilah sesekali untuk memeriksa pohon, bangunan, atau ufuk. Lacak garis batas antara sinar matahari dan bayangan, perhatikan bagaimana suhu warna bergeser antara nada dingin dan hangat."
+          "ko": "걸음을 멈추거나 서서히 걸으며 주변의 나무, , 하늘을 바라봅니다. 아침 햇빛이 닿아 만들어내는 밝은 면과 어두운 그림자의 경계선, 색채의 온도 차이를 눈으로 쫓으며 의식적으로 응시합니다."
         }
       },
       {
         "name": {
-          "ko": "시각 자극의 정신적 내면화",
-          "en": "Mental Internalization of Visual Stimuli",
-          "ja": "視覚刺激の精神的内面化",
-          "zh": "视觉刺激的精神内面化",
-          "es": "Internalización mental de los estímulos visuales",
-          "fr": "Internalisation mentale des stimuli visuels",
-          "de": "Mentale Verinnerlichung visueller Reize",
-          "pt": "Mentalização de Estímulos Visuais",
-          "id": "Internalisasi Mental dari Stimulus Visual"
+          "ko": "시각 자극의 정신적 내면화"
         },
         "text": {
-          "ko": "관찰한 풍경의 형태와 빛의 각도를 머릿속으로 사진을 찍듯 3초간 기억해 봅니다. 이 시각적 감각 데이터를 지각 필터로 뇌에 각인시킨 뒤, 서재로 돌아와 즉각적인 스케치나 기획 작업을 실행합니다.",
-          "en": "Take a mental snapshot of the observed geometry and light angle for 3 seconds. Internalize this perceptual data in your mind, then return to your desk to begin sketching or brainstorming immediately.",
-          "ja": "観察した風景の形や光の角度を、頭の中で写真を撮るように3秒間記憶します。この視覚的な感覚データを近くのフィルターとして脳に刻み込んだ後、書斎に戻って即座にスケッチや企画の作業を実行します。",
-          "zh": "将观察到的风景形态和光线角度在大脑中如拍照般记忆3秒钟。将这种视觉感官数据作为知觉过滤器刻印在大脑中，随后返回书房，立刻执行素描草图或企划工作。",
-          "es": "Tome una instantánea mental de la geometría observada y el ángulo de luz durante 3 segundos. Internalice estos datos perceptivos en su mente, luego regrese a su escritorio para comenzar a dibujar o generar ideas de inmediato.",
-          "fr": "Prenez une photo mentale de la géométrie et de l'angle de lumière observés pendant 3 secondes. Intériorisez ces données dans votre esprit, puis retournez à votre bureau pour commencer à travailler immédiatement.",
-          "de": "Machen Sie 3 Sekunden lang eine mentale Momentaufnahme der beobachteten Geometrie und des Lichtwinkels. Verinnerlichen Sie diese Wahrnehmungsdaten und kehren Sie sofort an Ihren Schreibtisch zurück, um zu skizzieren.",
-          "pt": "Tire uma fotografia mental da geometria observada e do ângulo de luz durante 3 segundos. Mentalize este dado percetivo na sua mente e, em seguida, regresse à secretária para começar a desenhar ou a planear imediatamente.",
-          "id": "Ambil snapshot mental dari geometri yang diamati dan sudut cahaya selama 3 detik. Internalisasikan data persepsi ini dalam pikiran Anda, lalu kembali ke meja Anda untuk segera mulai membuat sketsa atau bertukar ide."
+          "ko": "관찰한 풍경의 형태와 빛의 각도를 머릿속으로 사진을 찍듯 3초간 기억해 봅니다. 이 시각적 감각 데이터를 지각 필터로 뇌에 각인시킨 뒤, 서재로 돌아와 즉각적인 스케치나 기획 작업을 실행합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "미세먼지가 심하거나 비가 와서 흐린 날에도 밖으로 나가 관찰해야 하나요?",
-          "en": "Should I go outside even on cloudy or rainy days?",
-          "ja": "微小粒子状物質（PM2.5）がひどかったり、雨が降って曇った日でも外に出て観察しなければなりませんか？",
-          "zh": "在沙尘PM2.5严重或下雨阴天的时候，也必须出去观察吗？",
-          "es": "¿Debo salir al aire libre incluso en días nublados o lluviosos?",
-          "fr": "Dois-je sortir même par temps nuageux ou pluvieux ?",
-          "de": "Sollte ich auch an bewölkten oder regnerischen Tagen nach draußen gehen?",
-          "pt": "Devo sair de casa mesmo em dias nublados ou chuvosos?",
-          "id": "Apakah saya harus pergi keluar bahkan pada hari mendung atau hujan?"
+          "ko": "미세먼지가 심하거나 비가 와서 흐린 날에도 밖으로 나가 관찰해야 하나요?"
         },
         "answer": {
-          "ko": "흐린 날에도 야외 광량은 평균 1,000~2,000럭스(lux) 이상으로, 일반 실내 조명(300~500럭스)보다 훨씬 밝습니다. 따라서 흐린 날에도 선글라스 없이 밖을 걷는 것만으로도 멜라토닌 차단과 각성 효과를 충분히 얻을 수 있습니다. 다만, 미세먼지가 극도로 심할 때는 야외 산책 대신 베란다나 큰 창문 바로 앞에 서서 밖을 응시하는 창가 관찰로 대체하십시오.",
-          "en": "Yes. Even on cloudy days, outdoor light levels range from 1,000 to 2,000 lux, which is far brighter than typical indoor lighting (300 to 500 lux). You will still receive the biological benefits of circadian reset. However, if air quality is poor, substitute the outdoor walk by standing directly in front of a large window for 10 minutes.",
-          "ja": "曇りの日でも屋外の光量は平均1,000〜2,000ルクス（lux）以上あり、一般的な室内の照明（300〜500ルクス）よりはるかに明るいです。したがって、曇りの日でもサングラスなしで外を歩くだけで、メラトニンの遮断と覚醒効果を十分に得ることができます。ただし、PM2.5が極端にひどい時は、屋外の散歩の代わりにベランダや大きな窓のすぐ前に立って外を見つめる窓際観察に代替してください。",
-          "zh": "即使在阴天，室外的光照强度平均也在1,000~2,000勒克斯（lux）以上，远比一般的室内照明（300~500勒克斯）要亮。因此，在阴天里只要不戴太阳镜在室外行走，同样能获得充分的阻断褪黑素和觉醒效果。不过，在空气质量极差时，可用站在阳台或大窗户正前方凝视室外的“窗前观察”代替室外散步。",
-          "es": "Sí. Incluso en días nublados, los niveles de luz al aire libre oscilan entre 1.000 y 2.000 lux, que es mucho más brillante que la iluminación interior típica (300 a 500 lux). Seguirá recibiendo los beneficios biológicos del reinicio circadiano. Sin embargo, si la calidad del aire es mala, sustituya la caminata al aire libre parándose directamente frente a una ventana grande durante 10 minutos.",
-          "fr": "Oui. Même par temps nuageux, l'intensité lumineuse extérieure varie de 1 000 à 2 000 lux, ce qui est beaucoup plus lumineux que l'éclairage intérieur (300 à 500 lux). Vous bénéficierez toujours des bienfaits du cycle circadien. Si l'air est pollué, restez à l'intérieur devant une grande fenêtre.",
-          "de": "Ja. Selbst an bewölkten Tagen liegt die Lichtstärke im Freien zwischen 1.000 und 2.000 Lux, was weitaus heller ist als eine typische Innenbeleuchtung (300 bis 500 Lux). Sie profitieren weiterhin von der biologischen Wirkung des circadianen Resets. Wenn die Luftqualität jedoch schlecht ist, stellen Sie sich stattdessen an ein großes Fenster.",
-          "pt": "Sim. Mesmo em dias nublados, os níveis de luz no exterior variam entre 1.000 e 2.000 lux, o que é muito mais brilhante do que a iluminação interior típica (300 a 500 lux). Continuará a receber os benefícios biológicos do reinício circadiano. Contudo, se a qualidade do ar for má, substitua a caminhada ao ar livre por ficar em frente a uma janela grande por 10 minutos.",
-          "id": "Ya. Bahkan pada hari mendung, tingkat cahaya luar ruangan berkisar antara 1.000 hingga 2.000 lux, jauh lebih terang daripada pencahayaan dalam ruangan biasa (300 hingga 500 lux). Anda masih akan menerima manfaat biologis. Namun, jika kualitas udara buruk, ganti jalan-jalan di luar dengan berdiri di depan jendela besar."
+          "ko": "흐린 날에도 야외 광량은 평균 1,000~2,000럭스(lux) 이상으로, 일반 실내 조명(300~500럭스)보다 훨씬 밝습니다. 따라서 흐린 날에도 선글라스 없이 밖을 걷는 것만으로도 멜라토닌 차단과 각성 효과를 충분히 얻을 수 있습니다. 다만, 미세먼지가 극도로 심할 때는 야외 산책 대신 베란다나 큰 창문 바로 앞에 서서 밖을 응시하는 창가 관찰로 대체하십시오."
         }
       }
-    ],
-    "pubDate": "2026-04-06",
-    "updatedDate": "2026-04-06"
+    ]
   }
 }

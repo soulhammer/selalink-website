@@ -16,16 +16,16 @@ faqs:
     answer: "Achten Sie auf ein gesundes Gewicht. Vermeiden Sie Überfütterung im Wachstum und Sprünge auf glatten Böden."
 ---
 
-Berühmt für ihr weißes, flauschiges Fell und das 'Samojeden-Lächeln' sind Samojeden sanfte und aktive Hunde. Ihr sibirischer Doppelmantel schützt vor Kälte, staut aber in warmen Regionen Feuchtigkeit, was zu Hautpilz führt. Zudem sind sie anfällig für Hüftdysplasie. Heute stellt PetSelf Gelenkwarnsignale vor und bietet eine 3-Schritte-Routine.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Veterinärmedizinische & verhaltensbedingte Nachweise
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Inhalt basiert auf <strong>AKC-Rassestandard für Samojeden & Richtlinien der OFA</strong>.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </div>
 </div>
@@ -43,7 +43,7 @@ Berühmt für ihr weißes, flauschiges Fell und das 'Samojeden-Lächeln' sind Sa
 
 ## 1. Körpersprache des Samojeden: Kühlverhalten und Gelenkschmerzanzeichen
 
-Bei Hitze legen sich Samojeden flach hin, ein Verhalten namens 'Splooting', um den Bauch auf kühle Böden zu drücken. Das 'Hasen-Hopping' (Hinterbeine bewegen sich synchron) ist ein Zeichen für Hüftschmerzen. Ein frühes Erkennen schützt die Gelenke.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Bei Hitze legen sich Samojeden flach hin, ein Verhalten namens 'Splooting', um d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Zupfbürste für die Belüftung des Doppelmantels</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Bürsten Sie das dichte Fell täglich mit einer Zupfbürste und einem Metallkamm, um die Unterwolle zu lüften.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Bei Hitze legen sich Samojeden flach hin, ein Verhalten namens 'Splooting', um d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Gelenkschutz & rutschfeste Matten</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Legen Sie rutschfeste Matten auf glatte Böden und füttern Sie Gelenkzusätze zur Vorbeugung.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Bei Hitze legen sich Samojeden flach hin, ein Verhalten namens 'Splooting', um d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Pfotenwäsche und gründliches Trockenföhnen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Waschen Sie nach dem Auslauf die Pfoten. Föhnen Sie das nasse Fell zwischen den Ballen gut trocken, um Pilz zu verhindern.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Bei Hitze legen sich Samojeden flach hin, ein Verhalten namens 'Splooting', um d
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Bei Hitze legen sich Samojeden flach hin, ein Verhalten namens 'Splooting', um d
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Nein. Das Fell schützt vor Sonne und isoliert gegen Hitze. Scheren beschädigt die Haarstruktur und begünstigt Sonnenbrand.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Bei Hitze legen sich Samojeden flach hin, ein Verhalten namens 'Splooting', um d
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Achten Sie auf ein gesundes Gewicht. Vermeiden Sie Überfütterung im Wachstum und Sprünge auf glatten Böden.
+Wenden Sie diese Routine in Ihrem Alltag an, um tiefen Fokus zu erleben.
     </p>
   </details>
 </div>

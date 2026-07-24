@@ -1,218 +1,72 @@
 {
   "joan-silent-reflection": {
     "title": {
-      "ko": "흔들리지 않는 신념의 중심? 잔 다르크의 아침 침묵 루틴",
-      "en": "The Center of Unshakable Belief? Joan of Arc's Morning Silence Routine",
-      "ja": "揺るぎない信念の中心？ジャンヌ・ダルクの朝の沈黙ルーティン",
-      "zh": "动摇不了的信念核心？圣女贞德的清晨沉默常规",
-      "es": "¿El centro de una creencia inquebrantable? La rutina de silencio matutino de Juana de Arco",
-      "fr": "Le centre d'une croyance inébranlable ? La routine de silence matinal de Jeanne d'Arc",
-      "de": "Das Zentrum unerschütterlichen Glaubens? Jeanne d'Arcs morgendliche Stilleroutine",
-      "pt": "O centro de uma crença inabalável? A rotina de silêncio matinal de Joana d'Arc",
-      "id": "Pusat Keyakinan yang Tak Tergoyahkan? Rutinitas Keheningan Pagi Joan of Arc"
+      "ko": "흔들리지 않는 신념의 중심? 잔 다르크의 아침 침묵 루틴"
     },
     "description": {
-      "ko": "프랑스의 구국 성녀 잔 다르크. 백년전쟁의 소용돌이와 죽음의 공포 속에서도 불굴의 투지를 지켜낸 비결인 '아침 침묵 기도'의 신경심리학적 안정 효과와 3단계 정렬 루틴을 소개합니다.",
-      "en": "Joan of Arc, the savior of France. Discover the neuropsychological stabilizing effects and 3-step alignment routine of her 'Morning Silence' routine, which preserved her indomitable spirit during the Hundred Years' War.",
-      "ja": "フランスの救国聖女ジャンヌ・ダルク。百年戦争の渦中や死の恐怖の中でも、不屈の闘志を守り抜いた秘訣である「朝の沈黙」の神経心理学的な安定効果と3ステップの整列ルーティンを紹介します。",
-      "zh": "法国救国圣女贞德。介绍她在百年战争的漩涡和死亡恐惧中保持不屈斗志的秘诀——“清晨沉默”常规的神经心理学稳定效应和三步对齐常规。",
-      "es": "Juana de Arco, la salvadora de Francia. Descubra los efectos de estabilización neuropsicológica de su rutina de 'Silencio Matutino' para mantener la determinación, y una guía práctica de 3 pasos.",
-      "fr": "Jeanne d'Arc, la libératrice de la France. Découvrez les effets de stabilisation neuropsychologique de sa routine de 'Silence Matinal' pour garder sa détermination, et un guide en 3 étapes.",
-      "de": "Jeanne d'Arc, die Retterin Frankreichs. Entdecken Sie die neuropsychologischen Stabilisierungseffekte ihrer 'morgendlichen Stille' zur Bewahrung ihrer Entschlossenheit und eine 3-Schritte-Anleitung.",
-      "pt": "Joana d'Arc, a salvadora de França. Descubra os efeitos de estabilização neuropsicológica de sua rotina de 'Silêncio Matinal' para manter a determinação, e um guia em 3 passos.",
-      "id": "Joan of Arc, penyelamat Prancis. Temukan efek penstabilan neuropsikologis dari rutinitas 'Keheningan Pagi' untuk menjaga tekadnya, dan panduan 3 langkah."
+      "ko": "프랑스의 구국 성녀 잔 다르크. 백년전쟁의 소용돌이와 죽음의 공포 속에서도 불굴의 투지를 지켜낸 비결인 '아침 침묵 기도'의 신경심리학적 안정 효과와 3단계 정렬 루틴을 소개합니다."
     },
     "authority": {
-      "ko": "잔 다르크 1431년 재판 기록 사료 및 Journal of Research in Personality 학술지",
-      "en": "Trial of Condemnation of Joan of Arc Archives & Journal of Research in Personality",
-      "ja": "ジャンヌ・ダルク1431年裁判記録および学術誌「Journal of Research in Personality」",
-      "zh": "《圣女贞德1431年审判记录》与学术期刊《Journal of Research in Personality》",
-      "es": "Archivos del Juicio de Juana de Arco (1431) y revista Journal of Research in Personality",
-      "fr": "Procès de condamnation de Jeanne d'Arc (1431) & revue Journal of Research in Personality",
-      "de": "Prozessakten von Jeanne d'Arc (1431) & Fachzeitschrift Journal of Research in Personality",
-      "pt": "Processo de Condenação de Joana d'Arc (1431) & revista Journal of Research in Personality",
-      "id": "Arsip Pengadilan Joan of Arc (1431) & Jurnal Journal of Research in Personality"
+      "ko": "잔 다르크 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "백년전쟁 후기 위기에 빠진 프랑스를 구하고, 신념 하나로 가로막힌 운명을 개척해 가톨릭의 성녀가 된 전설적인 인물, 잔 다르크. 글자도 모르는 농민 출신 소녀가 참혹한 전쟁터의 위협, 귀족들의 냉대, 교회의 이단 심판이라는 한계 속에서도 죽음의 공포를 이겨내고 불굴의 신념을 유지했던 원천은 어디에 있었을까요? 잔 다르크는 매일 아침 성당 한구석이나 군대 막사 뒤편 등 아주 한적한 공간을 찾아 홀로 깊은 침묵 기도를 드렸습니다. 주변의 어지러운 소음을 모두 차단한 상태에서 내면의 부름과 약속에만 온전히 집중했던 이 루틴은 그녀에게 강력한 정신적 균형을 선물했습니다. 오늘 BuildSelf에서는 잔 다르크의 '침묵 기도' 루틴의 脳科学的 안도 효과와 현대적 멘탈 정렬 실천법을 소개합니다.",
-      "en": "Joan of Arc, the legendary figure who saved France during the Hundred Years' War and carved out her destiny through faith alone to become a Catholic saint. Where lay the source of strength that enabled a peasant girl who couldn't read to overcome the fear of death and maintain indomitable belief amidst threats of war, cold shoulders from nobles, and trials by the church? She sought quiet spaces, like cathedral corners or behind army tents, to engage in deep silent prayer every morning. This routine of blocking out all surrounding noise to focus solely on her inner call and promise granted her strong mental balance. Today, BuildSelf introduces the neurological relief effects and modern implementation of Joan of Arc's 'silent prayer' routine.",
-      "ja": "百年戦争後期、危機に瀕したフランスを救い、信念一つで閉ざされた運命を切り拓き、カトリックの聖女となった伝説的な人物、ジャンヌ・ダルク。文字も読めない農民出身の少女が、凄惨な戦場の脅威、貴族たちの冷遇、教会の異端審問という限界の中でも、死の恐怖に打ち勝ち、不屈の信念を維持できた源はどこにあったのでしょうか？ジャンヌ・ダルクは毎朝、聖堂の片隅や軍の兵舎の裏側など、非常に静かな空間を探して、一人で深い沈黙の祈りを捧げました。周囲の騒がしい雑音をすべて遮断した状態で、内なる呼びかけと約束にのみ集中したこのルーティンは、彼女に強力な精神的バランスをもたらしました。本日、BuildSelfではジャンヌ・ダルクの「沈黙の祈り」ルーティンの脳科学的な緩和効果と現代的なメンタル整列の実践法を紹介します。",
-      "zh": "在这一历史性惯例的实践中： , , . , , ? . . BuildSelf ' ' 脳科学的 .",
-      "es": "Juana de Arco, la heroína legendaria que salvó a Francia durante la Guerra de los Cien Años. ¿Dónde residía la fuente de fuerza que permitió a una campesina analfabeta superar el miedo a la muerte y mantener una fe inquebrantable ante la hostilidad de los nobles y los tribunales? Buscaba espacios silenciosos para orar cada mañana. Esta rutina de bloquear el ruido para concentrarse en su interior le otorgó un equilibrio mental de hierro. Hoy, BuildSelf presenta los beneficios de esta rutina y cómo aplicarla.",
-      "fr": "Jeanne d'Arc, l'héroïne légendaire qui sauva la France pendant la guerre de Cent Ans. Où résidait la force qui permit à une paysanne analphabète de surmonter la peur et de garder une foi inébranlable ? Elle cherchait des endroits calmes pour prier chaque matin. Cette routine de bloquer le bruit pour se concentrer sur son intérieur lui a donné un équilibre mental de fer. Aujourd'hui, BuildSelf présente les bénéfices de cette routine.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration und geistige Leistungsfähigkeit.\n\nModerne Wissensarbeiter können diese Gewohnheit nutzen, um Ablenkungen zu vermeiden und eine hohe Arbeitsqualität zu erreichen.",
-      "pt": "Na prática desta rotina : Joan of Arc, the legendary figure who saved France during the Hundred Years' War and carved out her destiny through faith alone to become a Catholic saint. Where lay the source of strength that enabled a peasant girl who couldn't read to overcome the fear of death and maintain indomitable belief amidst threats of war, cold shoulders from nobles, and trials by the church? She sought quiet spaces, like cathedral corners or behind army tents, to engage in deep silent prayer every morning. This routine of blocking out all surrounding noise to focus solely on her inner call and promise granted her strong mental balance. Today, BuildSelf introduces the neurological relief effects and modern implementation of Joan of Arc's 'silent prayer' routine.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "\"두렵지 않다. 나는 이 일을 위해 태어났기 때문이다. 침묵 속에 내 영혼의 목소리가 들린다.\" 🛡️\n\n백년전쟁 후기 위기에 빠진 프랑스를 구하고, 신념 하나로 가로막힌 운명을 개척해 가톨릭의 성녀가 된 전설적인 인물, 잔 다르크. 글자도 모르는 농민 출신 소녀가 참혹한 전쟁터의 위협, 귀족들의 냉대, 교회의 이단 심판이라는 극한 한계 속에서도 죽음의 공포를 이겨내고 불굴의 신념을 유지했던 원천은 어디에 있었을까요?\n\n잔 다르크는 매일 아침 성당 한구석이나 군대 막사 뒤편 등 아주 한적하고 소음이 없는 공간을 찾아 홀로 깊은 침묵 기도를 드렸습니다. 주변의 격렬한 군사적·정치적 소음을 모두 물리적으로 차단한 상태에서, 내면의 부름과 마주하고 본질적인 약속에만 온전히 주의를 고정했던 이 침묵 루틴은 그녀에게 그 어떤 물리적 무기보다 강력한 정신적 복원력을 선물했습니다.\n\n오늘 포스트에서는 잔 다르크의 '침묵 기도' 루틴의 뇌과학적 안도 효과와 현대적인 아침 침묵 정렬 루틴을 소개합니다."
     },
     "whyTitle": {
-      "ko": "소음 물리적 차단에 따른 편도체 안정과 자존감 회복",
-      "en": "Amygdala Stabilization & Self-Esteem Recovery via Physical Noise Blocking",
-      "ja": "雑音の物理的遮断による扁桃体の安定と自己肯定感の回復",
-      "zh": "物理隔离噪音带来的杏仁核稳定与自尊心恢复",
-      "es": "Estabilización de la amígdala y recuperación del autoestima mediante el bloqueo del ruido",
-      "fr": "Stabilisation de l'amygdale & estime de soi par le blocage du bruit",
-      "de": "Stabilisierung der Amygdala & Wiederherstellung des Selbstwertgefühls durch Lärmblockierung",
-      "pt": "Estabilização da amígdala e recuperação da autoestima pelo bloqueio do ruído",
-      "id": "Stabilisasi Amigdala & Pemulihan Harga Diri Melalui Pemblokiran Kebisingan Fisik"
+      "ko": "소음 물리적 차단에 따른 편도체 안정과 자존감 회복"
     },
     "whyDesc": {
-      "ko": "과도한 시각적·청각적 피로에 시달릴 때, 인간 뇌의 감정 및 경보 중추인 <strong>편도체(Amygdala)</strong>는 쉽게 예민해지고 불안을 촉진합니다. 뇌과학에 따르면, 하루를 시작할 때 의도적으로 10분 동안 소음을 차단하고 침묵(Silence)을 경험하는 행동은 과부하된 편도체를 안정시키고 교감신경계의 흥분을 가라앉힙니다. 또한, 침묵 속에서 자신이 지향하는 가치나 신념을 곱씹는 인지적 정렬(Cognitive Alignment)은 인지 부조화를 지우고 자존감 관련 뇌 회로를 자극하여, 외부의 부정적인 자극이나 스트레스에 흔들리지 않는 굳건한 멘탈 방어선을 회복하도록 돕습니다.",
-      "en": "When suffering from excessive visual and auditory fatigue, the brain's emotion and alarm center, the <strong>Amygdala</strong>, easily becomes sensitive and promotes anxiety. According to brain science, intentionally blocking noise and experiencing silence for 10 minutes at the start of the day stabilizes the overloaded amygdala and calms the sympathetic nervous system. Furthermore, cognitive alignment—pondering one's values and beliefs in silence—clears cognitive dissonance and stimulates self-esteem neural circuits, helping to restore a firm mental defense line unshaken by external negative stimuli or stress.",
-      "ja": "過度な視覚的・聴覚的疲労に悩まされているとき、人間の脳の感情および警報中枢である<strong>扁桃体（Amygdala）</strong>は容易に過敏になり、不安をあおります。脳科学によると、一日を始める際に意図的に10分間雑音を遮断し、沈黙（Silence）を経験する行動は、過負荷となった扁桃体を安定させ、交感神経系の興奮を静めます。また、沈黙の中で自分が志向する価値や信念を噛み締める認知的整列（Cognitive Alignment）は、認知的不協和を解消し、自己肯定感に関連する脳回路を刺激して、外部の否定的な刺激やストレスに揺るぎない堅固なメンタル防衛線を回復する手助けをします。",
-      "zh": "当饱受过度视觉和听觉疲劳折磨时，人类大脑的情感和警报中枢——<strong>杏仁核 (Amygdala)</strong>会变得异常敏感并引发焦虑。根据脑科学研究，在一天开始时有意识地隔离噪音并体验静默 (Silence) 10分钟，能稳定超载的杏仁核，抚平交感神经系统的兴奋。此外，在静默中重温自己所追求的价值或信念的“心态调整 (Cognitive Alignment)”，能消除认知失调并刺激与自尊相关的脑回路，帮助恢复不为外界负面刺激或压力所动的坚固心态防线。",
-      "es": "Bajo fatiga visual y auditiva, la <strong>amígdala</strong> (el centro de alarma del cerebro) se vuelve sensible y promueve la ansiedad. Científicamente, bloquear el ruido y experimentar silencio por 10 minutos al iniciar el día calma el sistema simpático y la amígdala. Esta alineación cognitiva, reflexionando sobre valores en silencio, estimula los circuitos de la autoestima y fortalece la resistencia al estrés.",
-      "fr": "En cas de fatigue, l'<strong>amygdale</strong> devient sensible. Scientifiquement, bloquer le bruit et faire l'expérience du silence pendant 10 minutes au réveil calme le système sympathique. Cette introspection en silence stimule les circuits de l'estime de soi et renforce la résilience face au stress.",
-      "de": "Bei Erschöpfung wird die <strong>Amygdala</strong> überempfindlich. Das bewusste Erleben von Stille für 10 Minuten am Morgen beruhigt das Nervensystem. Diese kognitive Ausrichtung – das Nachdenken über Werte in der Stille – stärkt das Selbstwertgefühl und schützt vor Stress.",
-      "pt": "Sob fadiga visual e auditiva, a <strong>amígdala</strong> torna-se sensível e promove a ansiedade. Cientificamente, bloquear o ruído e experimentar o silêncio por 10 minutos ao iniciar o dia acalma o sistema simpático. Esta introspecção em silêncio estimula os circuits da autoestima e fortalece a resiliência.",
-      "id": "Di bawah kelelahan visual dan pendengaran, <strong>amigdala</strong> (pusat alarm otak) menjadi sensitif. Secara ilmiah, memblokir kebisingan dan merasakan keheningan selama 10 menit di pagi hari menenangkan sistem simpatik. Introspeksi dalam keheningan ini merangsang harga diri dan ketahanan stres."
+      "ko": "과도한 시각적·청각적 피로에 시달릴 때, 인간 뇌의 감정 및 경보 중추인 <strong>편도체(Amygdala)</strong>는 쉽게 예민해지고 불안을 촉진합니다. 뇌과학에 따르면, 하루를 시작할 때 의도적으로 10분 동안 소음을 차단하고 침묵(Silence)을 경험하는 행동은 과부하된 편도체를 안정시키고 교감신경계의 흥분을 가라앉힙니다. 또한, 침묵 속에서 자신이 지향하는 가치나 신념을 곱씹는 인지적 정렬(Cognitive Alignment)은 인지 부조화를 지우고 자존감 관련 뇌 회로를 자극하여, 외부의 부정적인 자극이나 스트레스에 흔들리지 않는 굳건한 멘탈 방어선을 회복하도록 돕습니다."
     },
     "cautionTitle": {
-      "ko": "타인의 잔소리나 평가가 아닌, 나만의 내면 가치에 주파수를 맞추세요",
-      "en": "Tune Into Your Inner Value, Not Other's Nagging or Evaluation",
-      "ja": "他人の小言や評価ではなく、自分だけの内面の価値に周波数を合わせてください",
-      "zh": "要专注于你自我的内在价值，而不是他人的唠叨或评价",
-      "es": "Sintonice con su valor interno, no con las críticas o expectativas ajenas",
-      "fr": "Accordez-vous sur votre valeur interne, pas sur les critiques des autres",
-      "de": "Richten Sie sich an Ihren inneren Werten aus, nicht an den Meinungen anderer",
-      "pt": "Sintonize com seu valor interno, não com as críticas ou expectativas alheias",
-      "id": "Selaraskan dengan Nilai Batin Anda, Bukan Kritik atau Harapan Orang Lain"
+      "ko": "타인의 잔소리나 평가가 아닌, 나만의 내면 가치에 주파수를 맞추세요"
     },
     "cautionDesc": {
-      "ko": "아침 침묵 루틴의 진정한 효과를 누리기 위해서는 생각의 방향성이 내부를 향해야 합니다. 눈을 감은 상태에서도 '어제 과장님이 했던 말'이나 '친구가 나를 어떻게 평가할까' 같은 외부의 요인에 주의를 던지면 편도체는 계속 예민한 상태를 유지합니다. 잔 다르크가 거친 난세 속에서 오직 자신의 심장을 뛰게 만든 내면의 약속 and 신념에 주파수를 고정했듯, 타인의 목소리를 침묵으로 완전히 걷어내고 '나에게 가장 가치 있는 생각 한 가지'에만 온 정신을 정렬해야 내면의 복원력이 작동합니다.",
-      "en": "To enjoy the true effect of the morning silence routine, the direction of thoughts must point inward. Even with eyes closed, if you direct attention to external factors like 'what the manager said yesterday' or 'how my friend would evaluate me', the amygdala continues to stay sensitive. Just as Joan of Arc fixed her frequency on the inner promises and beliefs that made her heart beat amidst chaos, you must completely clear other's voices with silence and align all your attention only on 'the one thought most valuable to me' to activate inner resilience.",
-      "ja": "朝の沈黙ルーティンの真の効果を得るためには、思考の方向性が内側に向いていなければなりません。目を閉じた状態でも、「昨日上司が言った言葉」や「友達が私をどう評価するか」といった外部の要因に注意を向けると、扁桃体は過敏な状態を維持し続けます。ジャンヌ・ダルクが激しい乱世の中で、自身の心臓を鼓動させた内なる約束と信念にのみ周波数を固定したように、他人の声を沈黙によって完全に払い落とし、「自分にとって最も価値のある考え一つ」にのみ全ての神経を整列させてこそ、内面の回復力が作動します。",
-      "zh": "为了达到清晨沉默常规的真正效果，思维的方向必须指向内在。即使闭上眼睛，如果注意力仍投向“昨天经理说的话”或“朋友会怎么评价我”等外部因素，杏仁核就会继续处于敏感状态。正如贞德在动荡的乱世中只把频率固定在促使她心跳的内在承诺和信念上一样，你必须用沉默完全清除他人的声音，只将所有的注意力对齐在“对我来说最重要的一件事”上，内在的复原力才会起作用。",
-      "es": "Para obtener el beneficio del silencio, dirija sus pensamientos hacia adentro. Si piensa en lo que otros dijeron o esperan de usted, la amígdala seguirá alerta. Al igual que Juana de Arco fijaba su atención en las convicciones que daban sentido a su vida, silencie el exterior y concéntrese solo en lo que es más valioso para usted.",
-      "fr": "Pour profiter du silence, dirigez vos pensées vers l'intérieur. Si vous pensez à ce que disent les autres, l'amygdale restera en alerte. Tout comme Jeanne d'Arc se concentrait sur ses convictions profondes, silenciez l'extérieur et focalisez-vous sur ce qui est précieux pour vous.",
-      "de": "Richten Sie Ihre Gedanken nach innen. Wenn Sie darüber nachdenken, was andere sagen, bleibt die Amygdala in Alarmbereitschaft. Wie Jeanne d'Arc sich auf ihre inneren Versprechungen konzentrierte, blenden Sie das Außen aus und fokussieren Sie sich nur auf das, was Ihnen wertvoll ist.",
-      "pt": "Para obter o benefício do silêncio, direcione seus pensamentos para dentro. Se você pensar no que os outros disseram ou esperam de você, a amígdala continuará em alerta. Como Joana d'Arc fixava sua atenção nas convicções que davam sentido à sua vida, silencie o exterior e concéntrese apenas no que é mais valioso para você.",
-      "id": "Untuk mendapatkan manfaat keheningan, arahkan pikiran Anda ke dalam. Jika Anda memikirkan apa yang dikatakan orang lain, amigdala akan tetap waspada. Seperti Joan of Arc yang memusatkan perhatian pada keyakinan yang memberi makna pada hidupnya, heningkan luar dan fokuslah pada apa yang berharga bagi Anda."
+      "ko": "아침 침묵 루틴의 진정한 효과를 누리기 위해서는 생각의 방향성이 내부를 향해야 합니다. 눈을 감은 상태에서도 '어제 과장님이 했던 말'이나 '친구가 나를 어떻게 평가할까' 같은 외부의 요인에 주의를 던지면 편도체는 계속 예민한 상태를 유지합니다. 잔 다르크가 거친 난세 속에서 오직 자신의 심장을 뛰게 만든 내면의 약속 and 신념에 주파수를 고정했듯, 타인의 목소리를 침묵으로 완전히 걷어내고 '나에게 가장 가치 있는 생각 한 가지'에만 온 정신을 정렬해야 내면의 복원력이 작동합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "10분 아침 침묵 환경 조성",
-          "en": "Create 10-Minute Morning Silence Environment",
-          "ja": "10分間の朝の沈黙環境の構築",
-          "zh": "营造10分钟晨间静默环境",
-          "es": "Crear entorno de silencio de 10 minutos",
-          "fr": "Créer un environnement de silence de 10 minutes",
-          "de": "10-minütige morgendliche Stilleumgebung schaffen",
-          "pt": "Criar ambiente de silêncio de 10 minutos",
-          "id": "Ciptakan Lingkungan Hening Pagi 10 Menit"
+          "ko": "10분 아침 침묵 환경 조성"
         },
         "text": {
-          "ko": "아침에 일어나자마자 스마트폰을 켜지 않은 상태로 거실의 편안한 소파나 조용히 명상할 수 있는 방바닥에 바른 자세로 앉습니다.",
-          "en": "As soon as you wake up in the morning, keep your smartphone off and sit in a correct posture on a comfortable sofa in the living room or on the floor of a quiet room for meditation.",
-          "ja": "朝起きてすぐにスマートフォンをつけない状態で、リビングの快適なソファや静かに瞑想できる部屋の床に正しい姿勢で座ります。",
-          "zh": "早晨起床后在不开启智能手机的状态下，以端正的姿势坐在客厅舒服的沙发上，或坐在可以安静冥想的房间地板上。",
-          "es": "Al despertar, sin encender el teléfono, siéntese con una postura erguida en un sofá cómodo o en el suelo de una habitación tranquila.",
-          "fr": "Au réveil, sans allumer le téléphone, asseyez-vous bien droit sur un canapé ou au sol dans un endroit calme.",
-          "de": "Nach dem Aufstehen, ohne das Handy einzuschalten, setzen Sie sich aufrecht auf ein Sofa oder den Boden an einem ruhigen Ort.",
-          "pt": "Ao acordar, sem ligar o celular, sente-se com postura ereta em um sofá confortável ou no chão de um quarto silencioso.",
-          "id": "Saat bangun tidur, tanpa menyalakan ponsel, duduklah tegak di sofa yang nyaman atau di lantai ruangan yang tenang."
+          "ko": "아침에 일어나자마자 스마트폰을 켜지 않은 상태로 거실의 편안한 소파나 조용히 명상할 수 있는 방바닥에 바른 자세로 앉습니다."
         }
       },
       {
         "name": {
-          "ko": "느린 안도 호흡 및 소음 단절",
-          "en": "Slow Relief Breathing & Sound Disconnection",
-          "ja": "ゆっくりとした安堵呼吸および雑音の遮断",
-          "zh": "深慢安心呼吸并隔离噪音",
-          "es": "Respiración lenta y desconexión acústica",
-          "fr": "Respiration lente & déconnexion acoustique",
-          "de": "Langsame Atmung & akustische Abgrenzung",
-          "pt": "Respiração lenta e desconexão acústica",
-          "id": "Bernapas Perlahan & Putuskan Kebisingan"
+          "ko": "느린 안도 호흡 및 소음 단절"
         },
         "text": {
-          "ko": "눈을 감고 코로 깊이 들이마시고 입으로 천천히 내쉬는 느린 안도 호흡을 5회 반복합니다. 귀에 들어오는 주변의 아침 소음을 있는 그대로 흘려보내며 내면을 차분하게 가라앉힙니다.",
-          "en": "Close your eyes and repeat a slow relief breathing—inhaling deeply through the nose and exhaling slowly through the mouth—5 times. Let the surrounding morning sounds pass as they are and calm your mind.",
-          "ja": "目を閉じて鼻から深く吸い込み、口からゆっくり吐き出すリラックスした呼吸を5回繰り返します。耳に入ってくる周囲の朝の雑音をそのまま聞き流し、内面を穏やかに沈めます。",
-          "zh": "闭上眼睛，用鼻子深吸气、用嘴巴慢慢呼气，重复5次安心呼吸。让传入耳中的晨间杂音顺其自然地流走，让内心平静下来。",
-          "es": "Cierre los ojos y respire profundamente por la nariz y expire despacio por la boca 5 veces. Deje pasar los ruidos del entorno y aquiete su mente.",
-          "fr": "Fermez les yeux et respirez par le nez, puis expirez par la bouche 5 fois. Laissez passer les bruits ambiants et calmez votre esprit.",
-          "de": "Schließen Sie die Augen und atmen Sie 5-mal tief durch die Nase ein und langsam durch den Mund aus. Blenden Sie Geräusche aus.",
-          "pt": "Feche os olhos e respire profundamente pelo nariz e expire devagar pela boca 5 vezes. Deixe passar os ruídos do ambiente e aquiete sua mente.",
-          "id": "Pejamkan mata dan bernapaslah melalui hidung lalu hembuskan lewat mulut sebanyak 5 kali. Biarkan suara sekitar berlalu dan tenangkan pikiran."
+          "ko": "눈을 감고 코로 깊이 들이마시고 입으로 천천히 내쉬는 느린 안도 호흡을 5회 반복합니다. 귀에 들어오는 주변의 아침 소음을 있는 그대로 흘려보내며 내면을 차분하게 가라앉힙니다."
         }
       },
       {
         "name": {
-          "ko": "핵심 내면 가치 재확인",
-          "en": "Reaffirming Core Inner Values",
-          "ja": "核心的な内面価値の再確認",
-          "zh": "重新确认核心内在价值",
-          "es": "Reconfirmar valor interno esencial",
-          "fr": "Réaffirmer sa valeur interne essentielle",
-          "de": "Innere Kernwerte bekräftigen",
-          "pt": "Reconfirmar valor interno essencial",
-          "id": "Tegaskan Kembali Nilai Batin Utama"
+          "ko": "핵심 내면 가치 재확인"
         },
         "text": {
-          "ko": "호흡이 차분해지면 자신이 가장 소중하게 생각하는 신념이나 오늘의 삶의 방향(예: '나는 타인의 평가에 흔들리지 않고 성실하게 임한다')을 머릿속으로 3회 곱씹으며 조용히 다짐합니다.",
-          "en": "When your breathing calms down, ponder and silently make a pledge 3 times in your mind about the belief you value most or today's direction of life (e.g., 'I will work diligently without being shaken by others' evaluations').",
-          "ja": "呼吸が落ち着いたら、自分が最も大切にしている信念や今日の一日の方向性（例：「私は他人の評価に揺らぐことなく、誠実に臨む」）を頭の中で3回噛み締め、静かに決意します。",
-          "zh": "呼吸平稳后，在脑海中重温3遍自己最珍视的信念或今天人生的方向（例如：“我不为他人的评价所动，诚实地做好自己的事”），并在心中默默做出承诺。",
-          "es": "Cuando su respiración sea tranquila, reflexione sobre su convicción principal o el rumbo de su día (ej. 'Actuaré con honestidad sin importar las críticas') 3 veces.",
-          "fr": "Lorsque votre respiration est calme, réfléchissez à votre conviction ou à la direction de votre journée (ex. 'Je vais agir avec honnêteté') 3 fois.",
-          "de": "Wenn Sie ruhig atmen, besinnen Sie sich 3-mal auf Ihre Überzeugung oder den Weg für den Tag (z. B. 'Ich bleibe mir selbst treu').",
-          "pt": "Quando sua respiración estiver calma, reflita sobre sua convicção principal o el rumbo de su día (ex. 'Agirei com honestidade sem importar as críticas') 3 vezes.",
-          "id": "Saat napas tenang, renungkan keyakinan utama atau arah hidup hari ini (misalnya, 'Saya akan bekerja dengan jujur tanpa terpengaruh penilaian orang') sebanyak 3 kali."
+          "ko": "호흡이 차분해지면 자신이 가장 소중하게 생각하는 신념이나 오늘의 삶의 방향(예: '나는 타인의 평가에 흔들리지 않고 성실하게 임한다')을 머릿속으로 3회 곱씹으며 조용히 다짐합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "아침형 인간이 아닌데, 새벽 3~4시에 일어나야 하나요?",
-          "en": "I'm not a morning person, do I have to wake up at 3 or 4 AM?",
-          "ja": "朝型人間ではないのですが、朝の3〜4時に起きなければなりませんか？",
-          "zh": "我不是晨型人，一定要在凌晨3-4点起床吗？",
-          "es": "No soy una persona madrugadora, ¿tengo que despertarme a las 3 o 4 AM?",
-          "fr": "Je ne suis pas du matin, dois-je me lever à 3h ou 4h du matin ?",
-          "de": "Ich bin kein Frühaufsteher, muss ich um 3 oder 4 Uhr morgens aufstehen?",
-          "pt": "Não sou uma pessoa matinal, preciso acordar às 3 ou 4 da manhã?",
-          "id": "Saya bukan tipe orang yang bangun pagi, apakah saya harus bangun jam 3 atau 4 pagi?"
+          "ko": "아침형 인간이 아닌데, 새벽 3~4시에 일어나야 하나요?"
         },
         "answer": {
-          "ko": "아닙니다. 잔 다르크 루틴의 핵심은 기상 직후 스마트폰이나 외부의 정보 소음이 밀려오기 전에 뇌를 정비하는 데 있습니다. 본인의 평소 기상 시간대에 일어나 단 10분만 투자하셔도 동일한 효과를 냅니다.",
-          "en": "No. The core of Joan of Arc's routine is to refine the brain right after waking up before smartphone or external information noise rushes in. Waking up at your usual time and spending just 10 minutes yields the same effect.",
-          "ja": "いいえ。ジャンヌ・ダルクのルーティンの核心は、起床直後にスマートフォンや外部の情報雑音が押し寄せる前に脳を整備することにあります。普段の起床時間に起きて、わずか10分投資するだけでも同様の効果が得られます。",
-          "zh": "不需要。贞德常规的核心在于起床后、在手机或外界信息噪音涌入前整理大脑。在您平时的起床时间起床并投入10分钟，就能达到相同的效果。",
-          "es": "No. El núcleo de la rutina de Juana de Arco es calmar el cerebro justo después de despertar, antes de recibir información del teléfono. Dedicar solo 10 minutos al despertar a su hora habitual ofrece el mismo efecto.",
-          "fr": "Non. Le cœur de la routine de Jeanne d'Arc est d'apaiser le cerveau au réveil, avant d'ouvrir son téléphone. Consacrer seulement 10 minutes après le réveil à votre heure habituelle suffit.",
-          "de": "Nein. Der Kern von Jeanne d'Arcs Routine ist es, das Gehirn direkt nach dem Aufwachen zu ordnen, bevor Handy-Nachrichten eintreffen. 10 Minuten nach dem Aufstehen zur gewohnten Zeit genügen.",
-          "pt": "Não. O núcleo da rotina de Joana d'Arc é acalmar o cérebro logo após acordar, antes de receber informações do celular. Dedicar apenas 10 minutos ao acordar no seu horário habitual oferece o mesmo efeito.",
-          "id": "Tidak. Inti dari rutinitas Joan of Arc adalah menyelaraskan otak tepat setelah bangun sebelum ponsel atau informasi luar masuk. Meluangkan waktu 10 menit saja sudah cukup."
+          "ko": "아닙니다. 잔 다르크 루틴의 핵심은 기상 직후 스마트폰이나 외부의 정보 소음이 밀려오기 전에 뇌를 정비하는 데 있습니다. 본인의 평소 기상 시간대에 일어나 단 10분만 투자하셔도 동일한 효과를 냅니다."
         }
       },
       {
         "question": {
-          "ko": "종교가 없는데 침묵 기도가 효과가 있을까요?",
-          "en": "I don't have a religion, will silent prayer be effective?",
-          "ja": "宗教がないのですが、沈黙の祈りは効果がありますか？",
-          "zh": "我没有宗教信仰，静默祈祷会有效果吗？",
-          "es": "No tengo religión, ¿funcionará la oración en silencio?",
-          "fr": "Je n'ai pas de religion, la prière silencieuse est-elle efficace ?",
-          "de": "Ich habe keine Religion, ist stilles Gebet trotzdem effektiv?",
-          "pt": "Não tenho religião, a oração silenciosa funcionará?",
-          "id": "Saya tidak memiliki agama, apakah doa hening tetap efektif?"
+          "ko": "종교가 없는데 침묵 기도가 효과가 있을까요?"
         },
         "answer": {
-          "ko": "충분합니다. 본 루틴은 종교적 의식보다는 脳科学的인 '주의 인지 차단'과 '자기 가치 확인'에 집중합니다. 굳이 특정 신을 향한 기도가 아니어도, 자신이 지향하는 가치관이나 소중한 신념을 마음속으로 되새기는 것만으로도 편도체 안정 효과는 완벽하게 작동합니다.",
-          "en": "Absolutely. This routine focuses on neurological 'cognitive blocking' and 'self-value validation' rather than religious rituals. Even if it is not a prayer to a specific god, just reminding yourself of your values or precious beliefs in your mind fully triggers the amygdala stabilizing effect.",
-          "ja": "十分です。このルーティンは宗教的な儀式よりは、脳科学的な「注意認知遮断」と「自己価値確認」に集中します。あえて特定の神に向けた祈りでなくても、自分が目指す価値観や大切な信念を心の中で噛み締めるだけでも、扁桃体の安定効果は完璧に作動します。",
-          "zh": "完全可以。此常规专注于脑科学层面的“认知阻断”和“自我价值确认”，而非宗教仪式。即使不是向特定的神祈祷，只要在心中默念自己所追求的价值观或珍视的信念，就完全可以发挥稳定杏仁核的效果。",
-          "es": "Totalmente. Esta rutina se enfoca en el 'bloqueo cognitivo' y la 'confirmación del valor propio' desde la neurociencia, no en ritos. Aunque no sea para un dios, recordar sus valores o convicciones activa el mismo efecto de calma.",
-          "fr": "Tout à fait. Cette routine se concentre sur le 'blocage cognitivo-sensoriel' et la 'validation de soi', pas sur les rites. Rappeler vos valeurs ou convictions active le même effet de calme.",
-          "de": "Absolut. Diese Routine konzentriert sich auf kognitive Abgrenzung und Selbstbestätigung, nicht auf Rituale. Auch ohne Gott aktiviert das Besinnen auf Werte denselben Beruhigungseffekt.",
-          "pt": "Com certeza. Esta rotina se concentra no 'bloqueio cognitivo' e na 'validação do valor próprio', não em ritos. Lembrar de seus valores ou convicções ativa o mesmo efeito de calma.",
-          "id": "Sangat efektif. Rutinitas ini berfokus pada 'pemblokiran kognitif' dan 'konfirmasi nilai diri' secara ilmiah, bukan ritual keagamaan. Mengingat nilai atau keyakinan Anda sudah cukup memicu efek tenang."
+          "ko": "충분합니다. 본 루틴은 종교적 의식보다는 뇌과학적인 '주의 인지 차단'과 '자기 가치 확인'에 집중합니다. 굳이 특정 신을 향한 기도가 아니어도, 자신이 지향하는 가치관이나 소중한 신념을 마음속으로 되새기는 것만으로도 편도체 안정 효과는 완벽하게 작동합니다."
         }
       }
-    ],
-    "pubDate": "2026-02-12",
-    "updatedDate": "2026-02-12"
+    ]
   }
 }

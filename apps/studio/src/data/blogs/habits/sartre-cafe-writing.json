@@ -1,239 +1,72 @@
 {
   "sartre-cafe-writing": {
     "title": {
-      "ko": "카페 소음 속의 철학? 사르트르의 지정석 집중과 시간 분할 루틴",
-      "en": "Philosophy in Cafe Noise? Sartre's Dedicated Seat and Time-Blocking Routine",
-      "ja": "カフェの騒音の中の哲学？サルトルの指定席集中と時間分割ルーティン",
-      "zh": "咖啡馆噪音中的哲学？萨特指定席专注与时间分割惯例",
-      "es": "¿Filosofía en el ruido del café? La rutina de asiento y bloques de Sartre",
-      "fr": "La philosophie dans le bruit du café ? La routine de Sartre",
-      "de": "Philosophieren im Café-Lärm? Sartres Zonen- und Zeitblock-Routine",
-      "pt": "Filosofia no ruído do café? A rotina de assento e blocos de Sartre",
-      "id": "Filsafat di Tengah Kebisingan Kafe? Rutinitas Tempat Duduk Khusus dan Pemisahan Waktu Sartre"
+      "ko": "카페 소음 속의 철학? 사르트르의 지정석 집중과 시간 분할 루틴"
     },
     "description": {
-      "ko": "프랑스의 실존주의 철학자 장 폴 사르트르는 소란스러운 파리의 카페 지정석에서 아침과 오후 시간을 철저히 분할해 집필했습니다. 환경적 인지 앵커링 효과를 알아봅니다.",
-      "en": "French philosopher Jean-Paul Sartre blocked morning and afternoon sessions to write in a noisy cafe. Learn environmental cognitive anchoring.",
-      "ja": "フランスの実存主義哲学者ジャン＝ポール・サルトルは、騒がしいパリのカフェの指定席で、午前と午後の時間を徹底的に分割して執筆しました。環境的な認知アンカー効果を紹介します。",
-      "zh": "法国存在主义哲学家让-保罗·萨特在巴黎喧闹的咖啡馆指定座位上，彻底分割上午和下午的时间进行写作。让我们来了解一下环境认知锚定效应。",
-      "es": "El filósofo Jean-Paul Sartre dividía sus sesiones para escribir en un café. Conozca el andamiaje ambiental y el anclaje cognitivo.",
-      "fr": "Le philosophe Jean-Paul Sartre découpait ses journées pour écrire dans un café bruyant. Découvrez l'ancrage cognitif environnemental.",
-      "de": "Philosoph Jean-Paul Sartre blockte feste Zeiten im Café, um konzentriert zu schreiben. Lernen Sie die Effekte der räumlichen Verankerung.",
-      "pt": "O filósofo Jean-Paul Sartre dividia suas sessões para escrever em um café barulhento. Conheça o andaime ambiental e ancoragem cognitiva.",
-      "id": "Filsuf eksistensialisme Prancis Jean-Paul Sartre membagi waktu pagi dan sore hari secara ketat untuk menulis di tempat duduk khusus kafe. Pelajari alih kognitif lingkungan."
+      "ko": "프랑스의 실존주의 철학자 장 폴 사르트르는 소란스러운 파리의 카페 지정석에서 아침과 오후 시간을 철저히 분할해 집필했습니다. 환경적 인지 앵커링 효과를 알아봅니다."
     },
     "authority": {
-      "ko": "사르트르 평전 'Sartre: A Life' 및 작업 환경 심리학 학술지 연구 결과",
-      "en": "Sartre's Biography 'Sartre: A Life' & Environmental Psychology Research",
-      "ja": "サルトル伝記「Sartre: A Life」および作業環境心理学の学術研究",
-      "zh": "萨特传记《Sartre: A Life》与工作环境心理学学术期刊研究成果",
-      "es": "Biografía de Sartre 'Sartre: A Life' y estudios de psicología ambiental",
-      "fr": "Biographie de Sartre 'Sartre: A Life' & recherches en psychologie environnementale",
-      "de": "Sartres Biografie 'Sartre: A Life' & umweltpsychologische Forschung",
-      "pt": "Biografia de Sartre 'Sartre: A Life' & pesquisas em psicologia ambiental",
-      "id": "Biografi Sartre 'Sartre: A Life' & Penelitian Psikologi Lingkungan Kerja"
+      "ko": "사르트르 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "<존재와 무>를 집필하고 실존주의 철학을 전파한 프랑스의 사상가, 장폴 사르트르(Jean-Paul Sartre). 그의 창작 공간은 어디였을까요? ☕\n\n사르트르는 매일 아침 파리 카페 드 플로르의 지정 좌석에 앉아 은은한 백색 소음과 커피 향 속에서 집필했습니다. 적당한 사람들의 온기와 소음이 존재하는 환경이 그의 창작 각성도를 최상으로 유지해 주었습니다.\n\n오늘 BuildSelf에서는 사르트르의 카페 백색 소음 집필 루틴에 담긴 창의적 인지 자극 매커니즘을 소개합니다.",
-      "en": "Existentialist philosopher Jean-Paul Sartre wrote masterpieces like *Being and Nothingness* in Paris cafes. How did public spaces spark his intellect? ☕\n\nSartre spent mornings at Cafe de Flore surrounded by gentle ambient chatter. Moderate white noise (around 70 dB) stimulates abstract thinking and breaks cognitive rigidity.\n\nToday, BuildSelf examines Jean-Paul Sartre's cafe writing routine and ambient focus.",
-      "ja": "この歴史的習慣の実践において：< > , (Jean-Paul Sartre). ? ☕ この歴史的習慣の実践において： . . この歴史的習慣の実践において： BuildSelf .",
-      "zh": "存在主义哲学大师让-保罗·萨特（Sartre）习惯在咖啡馆写作。适度的环境白噪音激发了他的抽象思维。 ☕ 今天 BuildSelf 将为您剖析萨特的咖啡馆写作习惯。\n\n存在主义哲学大师让-保罗·萨特（Sartre）习惯在咖啡馆写作。适度的环境白噪音激发了他的抽象思维。 ☕ 今天 BuildSelf 将为您剖析萨特的咖啡馆写作习惯。\n\n存在主义哲学大师让-保罗·萨特（Sartre）习惯在咖啡馆写作。适度的环境白噪音激发了他的抽象思维。 ☕ 今天 BuildSelf 将为您剖析萨特的咖啡馆写作习惯。",
-      "es": "Esta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.\n\nEsta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.\n\nEsta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide. < >      ,  (Jean-Paul Sartre).    ? ☕\n\nCette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.                 .            .\n\nCette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.  BuildSelf            .",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration und geistige Leistungsfähigkeit.\n\nModerne Wissensarbeiter können diese Gewohnheit nutzen, um Ablenkungen zu vermeiden und eine hohe Arbeitsqualität zu erreichen.",
-      "pt": "Esta prática diária essencial estimula um foco profundo e reduz a fadiga cognitiva.\n\nEsta prática diária essencial estimula um foco profundo e reduz a fadiga cognitiva.\n\nEsta prática diária essencial estimula um foco profundo e reduz a fadiga cognitiva.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan mengurangi kelelahan kognitif.\n\nPraktik harian esensial ini mendorong fokus mendalam dan mengurangi kelelahan kognitif.\n\nPraktik harian esensial ini mendorong fokus mendalam dan mengurangi kelelahan kognitif."
+      "ko": "사르트르는 매일 아침 파리 카페 드 플로르의 지정 좌석에 앉아 은은한 백색 소음과 커피 향 속에서 집필했습니다. 적당한 사람들의 온기와 소음이 존재하는 환경이 그의 창작 각성도를 최상으로 유지해 주었습니다.\n\n오늘 포스트에서는 사르트르의 카페 백색 소음 집필 루틴에 담긴 창의적 인지 자극 매커니즘을 소개합니다."
     },
     "whyTitle": {
-      "ko": "공간 인지 앵커링과 집중 유도 조건 반사",
-      "en": "Spatial Cognitive Anchoring and Focus Conditioning",
-      "ja": "空間の認知アンカーリングと集中誘導の条件反射",
-      "zh": "空间认知锚定与诱导专注的条件反射",
-      "es": "Anclaje cognitivo espacial y condicionamiento de enfoque",
-      "fr": "L'ancrage cognitif spatial et le conditionnement d'attention",
-      "de": "Wie räumliche Verankerung Fokus-Konditionierung erzeugt",
-      "pt": "Ancoragem cognitiva espacial e condicionamento de foco",
-      "id": "Contextual Cognitive Anchoring dan Refleks Kondisi Fokus"
+      "ko": "공간 인지 앵커링과 집중 유도 조건 반사"
     },
     "whyDesc": {
-      "ko": "우리의 뇌는 특정 공간과 그 공간에서 주로 행해지는 행동을 연결하여 기억하는 강력한 맥락 가소성을 가집니다. 침대에서는 수면을, 식탁에서는 식사를 연합하는 것이 대표적입니다. \n\n사르트르가 특정 카페의 특정 좌석에서 오직 독서와 집필만을 고수한 것은 뇌의 전두엽에 <strong>'공간 인지 앵커링(Cognitive Anchoring)'</strong>을 각인시킨 것입니다. 해당 좌석에 앉는 자극만으로 뇌는 예열 없이 자동적으로 '집중 모드'를 활성화하는 조건 반사를 가동합니다. 여기에 오전과 오후 집중 시간을 명확히 제한하는 시간 블록화가 더해지면 집중력의 피크 효율이 유지됩니다.",
-      "en": "The brain has a strong context plasticity that links specific places with behaviors. E.g., linking beds with sleep, and tables with meals.\n\nSartre sitting at a dedicated seat to write engraved a <strong>'Cognitive Anchoring'</strong> in his frontal lobe. Simply sitting there activated a conditioning response for immediate focus. Combined with strict time-blocking, it keeps concentration peak efficiency.",
-      "ja": "私たちの脳は、特定の空間とその空間で主に行われる行動を紐づけて記憶する強力な文脈可塑性を持っています。ベッドでは睡眠を、食卓では食事を関連づけるのが代表的です。\n\nサルトルが特定のカフェの特定の座席で読書と執筆だけを徹底したのは、脳の前頭葉に<strong>「空間の認知アンカーリング（Cognitive Anchoring）」</strong>を焼き付けたのです。その座席に座るという刺激だけで、脳は予熱なしに自動的に「集中モード」を活性化する条件反射を作動させます。これに午前と午後の集中時間を明確に制限する時間ブロック化が加わると、集中力のピーク効率が維持されます。",
-      "zh": "我们的大脑拥有一种强大的情境可塑性，能将特定空间与在该空间内主要进行的活动连接起来记忆。例如在床上联想到睡眠、在餐桌上联想到用餐。\n\n萨特在特定咖啡馆的特定座位上仅仅进行阅读与写作，是将<strong>“空间认知锚定（Cognitive Anchoring）”</strong>烙印在额叶中。仅凭坐在该座位上的刺激，大脑就能免去预热，自动激活“专注模式”的条件反射。若配合上明确划分上午和下午专注时段的时间块方法，就能持续维持专注力的高效运转。",
-      "es": "El cerebro asocia espacios con comportamientos debido a la plasticidad del contexto. Anclar un asiento al trabajo graba un <strong>'anclaje cognitivo'</strong> en el lóbulo frontal.\n\nSentarse allí activa un condicionamiento para enfocar de inmediato sin preámbulos. Sumado al bloqueo del tiempo, mantiene el máximo rendimiento.",
-      "fr": "Le cerveau associe les lieux aux habitudes grâce à sa plasticité contextuelle. Utiliser un bureau uniquement pour travailler crée un <strong>ancrage cognitif</strong>.\n\nS'y installer suffit à basculer l'esprit en mode attentionnel. Combiné au découpage du temps, cela maintient l'efficacité au plus haut.",
-      "de": "Das Gehirn verknüpft Räume mit Handlungen. Sartres fester Tisch programmierte ein <strong>kognitives Anker-System</strong> im Frontallappen.\n\nSchon das Platznehmen startete automatisch den Arbeitsmodus. Die zeitliche Blockierung verhinderte zudem Ermüdung.",
-      "pt": "O cérebro associa espaços com comportamentos devido à plasticidade do contexto. Ancorar um assento ao trabalho grava uma <strong>'ancoragem cognitiva'</strong> no lobo frontal.\n\nSentar-se ali ativa um condicionamento para focar de imediato. Somado aos blocos de tempo, mantém o rendimento máximo.",
-      "id": "Otak kita memiliki plastisitas kontekstual yang kuat untuk menghubungkan tempat tertentu dengan aktivitas yang dilakukan di sana. Misalnya, menghubungkan tempat tidur dengan tidur, meja makan dengan makan.\n\nSartre yang bersikeras hanya membaca dan menulis di kursi khusus kafe menanamkan <strong>'Cognitive Anchoring'</strong> di lobus frontalnya. Cukup dengan duduk di sana, refleks kondisi diaktifkan untuk segera fokus tanpa pemanasan."
+      "ko": "우리의 뇌는 특정 공간과 그 공간에서 주로 행해지는 행동을 연결하여 기억하는 강력한 맥락 가소성을 가집니다. 침대에서는 수면을, 식탁에서는 식사를 연합하는 것이 대표적입니다. \n\n사르트르가 특정 카페의 특정 좌석에서 오직 독서와 집필만을 고수한 것은 뇌의 전두엽에 <strong>'공간 인지 앵커링(Cognitive Anchoring)'</strong>을 각인시킨 것입니다. 해당 좌석에 앉는 자극만으로 뇌는 예열 없이 자동적으로 '집중 모드'를 활성화하는 조건 반사를 가동합니다. 여기에 오전과 오후 집중 시간을 명확히 제한하는 시간 블록화가 더해지면 집중력의 피크 효율이 유지됩니다."
     },
     "cautionTitle": {
-      "ko": "스마트폰 확인이나 오락 등 他の行動の侵入を遮断してください",
-      "en": "Block other behaviors like checking phones or gaming in the seat",
-      "ja": "スマートフォンチェックやゲームなど、他の行動の侵入を遮断してください",
-      "zh": "请阻断查看手机或进行娱乐等其他行为的入侵",
-      "es": "Evite usar el celular o entretenerse en el asiento de trabajo",
-      "fr": "Interdisez-vous d'utiliser votre téléphone à cette table",
-      "de": "Vermeiden Sie Ablenkungen wie Handyspiele am Arbeitsplatz",
-      "pt": "Evite usar o celular ou se distrair no assento de trabalho",
-      "id": "Blokir perilaku lain seperti memeriksa ponsel atau bermain game di kursi fokus"
+      "ko": "스마트폰 확인이나 오락 등 "
     },
     "cautionDesc": {
-      "ko": "공간 인지 앵커링이 힘을 발휘하려면, 그 지정 공간에서는 '오직 목표 행동(공부, 글쓰기)만 수행한다'는 철칙이 유지되어야 합니다. 지정석에 앉아 웹서핑을 하거나 전화를 받고 오락을 한다면 뇌의 공간-행동 연결 고리가 약화되어 앵커링 효과가 깨집니다. 쉴 때는 반드시 자리에서 일어나 다른 곳에서 쉬어야 합니다.",
-      "en": "For cognitive anchoring to work, maintaining the rule 'only perform the target behavior in this space' is vital. Browsing or gaming at the seat breaks the anchor. When resting, leave the seat immediately.",
-      "ja": "空間の認知アンカーリングが力を発揮するためには、その指定空間では「目標行動（勉強、執筆）のみを行う」という鉄則が維持されなければなりません。指定席に座ってウェブサーフィンをしたり、電話を受けたり、ゲームをしたりすると、脳の空間と行動の紐づけが弱まり、アンカーリング効果が壊れます。休む時は必ず席を立ち、別の場所で休まなければなりません。",
-      "zh": "为了让空间认知锚定发挥威力，必须坚守在该指定空间内“仅仅执行目标行为（学习、写作）”的铁律。如果在指定座位上进行网络冲浪、接听电话或打游戏，大脑的空间-行为连接锁链就会被削弱，锚定效应将土崩瓦解。休息时请务必起身离开座位，去其他地方休息。",
-      "es": "Para que el anclaje funcione, la regla de 'solo trabajar en este espacio' debe respetarse. El ocio en ese asiento debilita la asociación. Si descansa, levántese y cambie de lugar.",
-      "fr": "Pour que l'ancrage fonctionne, la règle 'seul le travail est autorisé à cette table' est primordiale. Utiliser son téléphone brise l'association. Si vous faites une pause, quittez la table.",
-      "de": "Der Raum-Anker funktioniert nur, wenn die Regel 'hier wird nur gearbeitet' eisern bleibt. Ablenkungen am Tisch brechen die Konditionierung. Machen Sie Pausen stets an einem anderen Ort.",
-      "pt": "Para que o ancoragem funcione, a regra de 'apenas trabalhar neste espaço' deve ser respeitada. O lazer nesse assento enfraquece a associação. Se descansar, levante-se do local.",
-      "id": "Agar cognitive anchoring bekerja, aturan ketat 'hanya lakukan aktivitas target di ruang ini' harus dipertahankan. Berselancar web atau bermain game di kursi tersebut melemahkan hubungan ruang-aktivitas. Saat beristirahat, segeralah tinggalkan kursi."
+      "ko": "공간 인지 앵커링이 힘을 발휘하려면, 그 지정 공간에서는 '오직 목표 행동(공부, 글쓰기)만 수행한다'는 철칙이 유지되어야 합니다. 지정석에 앉아 웹서핑을 하거나 전화를 받고 오락을 한다면 뇌의 공간-행동 연결 고리가 약화되어 앵커링 효과가 깨집니다. 쉴 때는 반드시 자리에서 일어나 다른 곳에서 쉬어야 합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "집중 전용 지정 좌석의 설정",
-          "en": "Set Up a Dedicated Focus Seat",
-          "ja": "集中専用指定座席の設定",
-          "zh": "设定专注专用指定座位",
-          "es": "Establecer un asiento dedicado al enfoque",
-          "fr": "Définir une place réservée au travail",
-          "de": "Arbeitsplatz festlegen",
-          "pt": "Estabelecer um assento de foco dedicado",
-          "id": "Menentukan Kursi Khusus Fokus"
+          "ko": "집중 전용 지정 좌석의 설정"
         },
         "text": {
-          "ko": "집이나 도서관, 단골 카페 등에서 공부나 글쓰기 등 생산적 인지 노동만 수행할 '나만의 지정석'을 한 곳 지정합니다.",
-          "en": "Designate a single 'private dedicated seat' at home, library, or cafe where you will only perform productive cognitive work.",
-          "ja": "自宅や図書館、お気に入りのカフェなどで、勉強や執筆など生産的な認知労働のみを行う「自分だけの指定席」を1箇所決めます。",
-          "zh": "在家中、图书馆或常去的咖啡馆中，选定一个仅仅进行学习、写作等生产性认知劳动的“专属座位”。",
-          "es": "Elija un 'asiento privado' en su casa, biblioteca o cafetería que use únicamente para el trabajo productivo.",
-          "fr": "Choisissez un bureau chez vous, à la bibliothèque ou dans un café, dédié exclusivement à vos tâches productives.",
-          "de": "Bestimmen Sie einen festen Platz zu Hause oder in der Bibliothek, an dem Sie ausschließlich arbeiten oder lernen.",
-          "pt": "Escolha um 'assento privado' em casa, biblioteca ou café que use exclusivamente para trabalho produtivo.",
-          "id": "Tentukan satu 'kursi khusus' di rumah, perpustakaan, atau kafe tempat Anda hanya akan melakukan kerja kognitif produktif."
+          "ko": "집이나 도서관, 단골 카페 등에서 공부나 글쓰기 등 생산적 인지 노동만 수행할 '나만의 지정석'을 한 곳 지정합니다."
         }
       },
       {
         "name": {
-          "ko": "집중 타임 블록 배정",
-          "en": "Assign a Concentration Time Block",
-          "ja": "集中タイムブロックの配分",
-          "zh": "分配专注时间块",
-          "es": "Asignar un bloque de tiempo de enfoque",
-          "fr": "Bloquer un créneau horaire fixe",
-          "de": "Zeitblock reservieren",
-          "pt": "Reservar um bloco de tempo de foco",
-          "id": "Mengalokasikan Blok Waktu Konsentrasi"
+          "ko": "집중 타임 블록 배정"
         },
         "text": {
-          "ko": "매일 일정한 시간대(예: 오전 9~12시)를 정해 나만의 집중 시간 블록을 할당하고, 이 시간에는 타인과 전자기기의 연락을 차단합니다.",
-          "en": "Set a regular daily time block (e.g., 9-12 AM). Mute messages and social alerts during this period.",
-          "ja": "毎日一定の時間帯（例：午前9〜12時）を決め、自分だけの集中時間ブロックを割り当て、この時間には他者や電子的デバイスからの連絡を遮断します。",
-          "zh": "每天规划出固定的时间段（例如上午9~12点）分配为专属专注时间块，在该时间段内阻断他人联系及电子设备通知。",
-          "es": "Establezca un bloque de tiempo fijo al día (p. ej., 9-12 AM). Silencie notificaciones y mensajes durante este lapso.",
-          "fr": "Déterminez un créneau quotidien régulier (ex. 9h-12h). Mettez en veille tous vos messages et alertes durant cette période.",
-          "de": "Reservieren Sie täglich ein festes Zeitfenster (z. B. 9–12 Uhr). Schalten Sie alle Benachrichtigungen in dieser Zeit stumm.",
-          "pt": "Estabeleça um bloco de tempo fixo por dia (ex: 9-12h). Silencie notificações e mensagens durante o período.",
-          "id": "Tetapkan blok waktu harian yang teratur (misalnya, jam 9-12 siang). Matikan semua pesan dan notifikasi media sosial selama waktu ini."
+          "ko": "매일 일정한 시간대(예: 오전 9~12시)를 정해 나만의 집중 시간 블록을 할당하고, 이 시간에는 타인과 전자기기의 연락을 차단합니다."
         }
       },
       {
         "name": {
-          "ko": "목표 외 행동 즉각 탈출",
-          "en": "Instantly Evacuate on Distraction",
-          "ja": "目標外行動からの即時脱出",
-          "zh": "立即逃离非目标行为",
-          "es": "Evacuar el asiento al distraerse",
-          "fr": "Quitter la table en cas de pause",
-          "de": "Den Platz bei Ablenkung verlassen",
-          "pt": "Sair do assento ao se distrair",
-          "id": "Segera Keluar dari Kursi Saat Terdistraksi"
+          "ko": "목표 외 행동 즉각 탈출"
         },
         "text": {
-          "ko": "좌석에 앉았을 때는 철저히 학습/작업만 진행하며, 졸음이 오거나 폰을 확인하고 싶을 때는 즉시 자리에서 일어나 밖으로 나가 쉽니다.",
-          "en": "While sitting at the seat, perform only learning/work. If you feel sleepy or want to check your phone, stand up and rest elsewhere.",
-          "ja": "座席に座っているときは徹底的に学習や作業だけを進め、眠気が襲ってきたりスマートフォンを確認したくなったりした場合は、すぐに席を立って外に出て休みます。",
-          "zh": "在座位上坐着时，严格做到仅仅进行学习/工作；如果感到困倦或想查看手机，必须立即离开座位，去外面休息。",
-          "es": "Cuando esté en el asiento, trabaje exclusivamente. Si le da sueño o quiere usar el teléfono, levántese de inmediato para descansar fuera.",
-          "fr": "Tant que vous êtes assis, travaillez. Si vous avez sommeil ou voulez regarder votre téléphone, levez-vous et allez faire votre pause ailleurs.",
-          "de": "Arbeiten Sie nur, solange Sie am Tisch sitzen. Wenn Sie müde werden oder das Handy nutzen wollen, stehen Sie sofort auf und machen Sie woanders Pause.",
-          "pt": "Enquanto estiver no assento, trabalhe exclusivamente. Se sentir sono ou quiser olhar o celular, levante-se imediatamente para descansar fora.",
-          "id": "Saat duduk di kursi, lakukan hanya belajar/bekerja. Jika Anda mengantuk atau ingin memeriksa ponsel, segeralah berdiri dan beristirahat di luar."
+          "ko": "좌석에 앉았을 때는 철저히 학습/작업만 진행하며, 졸음이 오거나 폰을 확인하고 싶을 때는 즉시 자리에서 일어나 밖으로 나가 쉽니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "카페처럼 주변이 백색 소음이 있는 곳이 독서실처럼 아주 조용한 곳보다 집중에 유리한가요?",
-          "en": "Is a place with white noise like a cafe better for focus than a library?",
-          "ja": "カフェのように周囲にホワイトノイズがある場所の方が、読書室のように非常に静かな場所よりも集中に有利ですか？",
-          "zh": "像咖啡馆这样伴随白噪音的环境，真的比自习室等极静环境更有利于专注吗？",
-          "es": "¿Es mejor un café con ruido blanco que una biblioteca silenciosa?",
-          "fr": "Un café avec un bruit de fond est-il préférable à une bibliothèque ?",
-          "de": "Ist ein Café mit weißem Rauschen besser für den Fokus als Stille?",
-          "pt": "Um café com ruído branco é melhor para o foco do que uma biblioteca silenciosa?",
-          "id": "Apakah tempat dengan white noise seperti kafe lebih baik untuk fokus daripada perpustakaan yang tenang?"
+          "ko": "카페처럼 주변이 백색 소음이 있는 곳이 독서실처럼 아주 조용한 곳보다 집중에 유리한가요?"
         },
         "answer": {
-          "ko": "개인차가 있습니다. 일부 연구에 따르면 약 50~70dB의 적절한 백색 소음은 뇌의 청각 주의를 분산시켜 역설적으로 창의적인 문제 해결 능력을 자극하기도 합니다. 그러나 가장 본질적인 것은 조용함의 여부보다 '매일 같은 자리에서 같은 행동을 개시한다'는 인지적 규칙과 앵커링 효과의 확립입니다.",
-          "en": "It varies. Research suggests a moderate white noise of 50-70 dB can stimulate creativity. However, the most critical factor is establishing the cognitive routine and anchoring effect of starting the same behavior at the same seat daily.",
-          "ja": "個人差があります。一部の研究によると、約50〜70dBの適度なホワイトノイズは脳の聴覚的注意を分散させ、逆説的に創造的な問題解決能力を刺激することもあります。しかし、最も本質的なのは静かさの有無よりも「毎日同じ席で同じ行動を開始する」という認知的な規則とアンカーリング効果の確立です。",
-          "zh": "因人而异。部分研究表明，50~70分贝左右适度的白噪音能温和分散大脑的听觉注意力，反过来刺激创造性解决问题的能力。然而最本质的关键并非环境是否绝对安静，而是确立“每天在相同的座位开始相同行为”这一认知规则与锚定效应。",
-          "es": "Depende. El ruido blanco de 50-70 dB puede estimular la creatividad. Sin embargo, el factor clave es establecer la rutina y el anclaje cognitivo en el mismo asiento.",
-          "fr": "Cela dépend des personnes. Un bruit de fond de 50 à 70 dB peut stimuler la créativité. L'essentiel reste l'ancrage cognitif lié à l'habitude d'utiliser la même place.",
-          "de": "Das ist individuell. Ein weißes Rauschen von 50–70 dB kann die Kreativität fördern. Wichtiger ist jedoch die Konditionierung durch den festen Platz.",
-          "pt": "Depende. O ruído branco de 50-70 dB pode estimular a criatividade. No entanto, o fator essencial é estabelecer o ancoragem cognitiva no mesmo local.",
-          "id": "Ada perbedaan individu. Beberapa penelitian menunjukkan bahwa tingkat white noise sedang (sekitar 50-70 dB) secara paradoks merangsang kreativitas. Namun, faktor terpenting adalah pembentukan rutinitas kognitif dan efek anchoring di tempat yang sama setiap hari."
+          "ko": "개인차가 있습니다. 일부 연구에 따르면 약 50~70dB의 적절한 백색 소음은 뇌의 청각 주의를 분산시켜 역설적으로 창의적인 문제 해결 능력을 자극하기도 합니다. 그러나 가장 본질적인 것은 조용함의 여부보다 '매일 같은 자리에서 같은 행동을 개시한다'는 인지적 규칙과 앵커링 효과의 확립입니다."
         }
       },
       {
         "question": {
-          "ko": "지정석을 매일 바꾸거나 주기적으로 변경해주면 뇌 자극에 더 좋지 않나요?",
-          "en": "Isn't changing my seat periodically better for brain stimulation?",
-          "ja": "指定席を毎日変えたり、周期的に変更したりする方が脳の刺激に良いのではないでしょうか？",
-          "zh": "每天更换或定期改变指定座位，会不会对大脑产生更好的刺激？",
-          "es": "¿No es mejor para el cerebro cambiar de asiento periódicamente?",
-          "fr": "N'est-il pas préférable de changer de place régulièrement ?",
-          "de": "Ist es nicht besser für das Gehirn, den Platz ab und zu zu wechseln?",
-          "pt": "Não é melhor para o cérebro mudar de lugar periodicamente?",
-          "id": "Bukankah mengganti kursi khusus secara berkala lebih baik untuk stimulasi otak?"
+          "ko": "지정석을 매일 바꾸거나 주기적으로 변경해주면 뇌 자극에 더 좋지 않나요?"
         },
         "answer": {
-          "ko": "창의적인 브레인스토밍 단계에서는 새로운 환경이 신선한 자극(도파민 방출)을 줍니다. 그러나 이미 방향이 정해진 글을 완성하거나 고강도의 학습을 밀어붙이는 집중 단계에서는, 불필요한 탐색 에너지를 줄이고 반사적으로 몰입에 도달하는 사르트르식 지정석 앵커링이 훨씬 뛰어난 효율을 냅니다.",
-          "en": "A new environment helps in creative brainstorming. However, in the execution phase (writing, studying) where high-density focus is needed, Sartre's dedicated seat is much more efficient because it reduces visual searching energy and starts focus reflexively.",
-          "ja": "創造的なブレインストーミングの段階では、新しい環境が新鮮な刺激（ドーパミンの放出）を与えます。しかし、すでに方向性が決まった文章を完成させたり、高強度の学習を押し進めたりする集中段階では、不要な探索エネルギーを減らし、反射的に没頭に達するサルトル式の指定席アンカーリングの方がはるかに優れた効率を発揮します。",
-          "zh": "在创意头脑风暴阶段，新环境能提供新鲜刺激（释放多巴胺）。但在需要攻克既定写作或进行高强度学习的执行专注阶段，萨特式的指定席锚定法则由于免去了不必要的探索耗能并能反射性切入专注状态，效率要高得多。",
-          "es": "Un nuevo espacio ayuda en la lluvia de ideas. Pero en la fase de ejecución y estudio, el asiento fijo de Sartre es más eficaz porque evita que el cerebro consuma energía adaptándose.",
-          "fr": "Changer de lieu aide à trouver des idées. Mais pour la phase d'exécution (étude, rédaction), le bureau fixe est bien plus efficace car il évite au cerveau de devoir s'adapter.",
-          "de": "Neue Orte helfen beim Brainstorming. In der Umsetzungsphase (Schreiben, Lernen) ist Sartres Zonen-Anker jedoch effizienter, da er Suchprozesse im Gehirn minimiert.",
-          "pt": "Um novo espaço ajuda no brainstorming. Mas na fase de execução e estudo, o assento fixo de Sartre é mais eficaz porque evita o consumo de energia de adaptação.",
-          "id": "Pada tahap brainstorming kreatif, lingkungan baru memberikan stimulasi segar. Namun, pada tahap eksekusi (menulis, belajar) yang membutuhkan fokus intens, anchoring kursi khusus gaya Sartre jauh lebih efisien karena mengurangi energi pencarian visual dan memulai fokus secara refleks."
+          "ko": "창의적인 브레인스토밍 단계에서는 새로운 환경이 신선한 자극(도파민 방출)을 줍니다. 그러나 이미 방향이 정해진 글을 완성하거나 고강도의 학습을 밀어붙이는 집중 단계에서는, 불필요한 탐색 에너지를 줄이고 반사적으로 몰입에 도달하는 사르트르식 지정석 앵커링이 훨씬 뛰어난 효율을 냅니다."
         }
       }
-    ],
-    "stepImages": [
-      "",
-      "/images/blog/sartre_cafe_writing_relax.webp",
-      ""
-    ],
-    "blog": {
-      "whyDesc": {
-        "ja": "私たちの脳は、特定の空間とその空間で主に行われる行動を紐づけて記憶する強力な文脈可塑性を持っています。ベッドでは睡眠を、食卓では食事を関連づけるのが代表的です。\n\nサルトルが特定のカフェの特定の座席で読書と執筆だけを徹底したのは、脳の前頭葉に<strong>「空間の認知アンカーリング（Cognitive Anchoring）」</strong>を焼き付けたのです。その座席に座るという刺激だけで、脳은(は) 自動的に「集中モード」を活性化する条件反射を作動させます。これに午前と午後の集中時間を明確に制限する時間ブロック化が加わると、集中力のピーク効率が維持されます。"
-      },
-      "cautionTitle": {
-        "ja": "スマートフォンチェックやゲームなど、他の行動の侵入を遮断してください"
-      },
-      "faqs": [
-        null,
-        {
-          "answer": {
-            "ja": "創造的なブレインストーミングの段階では、新しい環境が新鮮な刺激（ドーパミンの放出）を与えます。しかし、すでに方向性が決まった文章を完成させたり、高強度の学習を押し進めたりする集中段階では、不要な探索エネルギーを減らし、反射的に没頭に達するサルトル式の指定席アンカーリングの方がはるかに優れた効率を発揮します。"
-          }
-        }
-      ]
-    },
-    "pubDate": "2026-06-02",
-    "updatedDate": "2026-06-02"
+    ]
   }
 }

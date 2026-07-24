@@ -1,216 +1,70 @@
 {
   "elizabeth-classical-translation": {
     "title": {
-      "ko": "엘리자베스 1세의 '고전 번역': 통치자의 논리적 뇌를 벼려낸 아침 습관",
-      "en": "Elizabeth I's 'Classical Translation': Morning Routine That Sharpened the Monarch's Logical Brain",
-      "ja": "エリザベス1世の「古典翻訳」：君主の論理的思考を鍛え上げた朝の習慣",
-      "zh": "伊丽莎白一世的“古典翻译”：锻造统治者逻辑大脑的清晨惯例",
-      "es": "La 'traducción clásica' de Isabel I: rutina para agudizar el cerebro lógico",
-      "fr": "La 'traduction classique' d'Élisabeth I : routine pour aiguiser le cerveau logique",
-      "de": "Elisabeth I.: Die 'Latein-Übersetzungs'-Routine für strategischen Verstand",
-      "pt": "A 'tradução clássica' de Elizabeth I: rotina para afiar a mente lógica",
-      "id": "Menerjemahkan Teks Klasik Elizabeth I: Mengasah Otak Logis Sebelum Mulai Bekerja"
+      "ko": "엘리자베스 1세의 '고전 번역': 통치자의 논리적 뇌를 벼려낸 아침 습관"
     },
     "description": {
-      "ko": "매일 아침 라틴어 고전을 영어로 번역하며 강인한 이성과 논리력을 길렀던 엘리자베스 1세 여왕. 고차원적 인지 능력을 활성화하는 번역 루틴의 과학을 알아봅니다.",
-      "en": "How Queen Elizabeth I trained her logical mind by translating Latin classics every morning. Discover the science of translation routine that activates high-level cognitive power.",
-      "ja": "毎朝ラテン語の古典を英語に翻訳し、強靭な理性と論理力を培ったエリザベス1世女王。高次元の認知能力を呼び覚ます翻訳ルーティンの科学を紹介します。",
-      "zh": "伊丽莎白一世女王如何每天早晨将拉丁语古典名著翻译成英语，以此培养坚韧的理性与逻辑能力。剖析能激活高维度认知能力的翻译惯例的科学性。",
-      "es": "Cómo la reina Isabel I entrenaba su mente traduciendo clásicos de mañana. Conheça la ciencia que activa la función cognitiva alta.",
-      "fr": "Comment la reine Élisabeth I entraînait son esprit en traduisant des classiques le matin. Découvrez la science qui active la fonction cognitive.",
-      "de": "Wie Königin Elisabeth I. durch die Übersetzung lateinischer Texte strategischen Verstand erlangte. Erfahren Sie, wie Übersetzung das Gehirn stärkt.",
-      "pt": "Como a rainha Elizabeth I afiava seu raciocínio lógico traduzindo clássicos latinos todas as manhãs. Conheça a neurobiologia por trás desse hábito.",
-      "id": "Bagaimana Ratu Elizabeth I melatih logika dengan menerjemahkan teks Latin klasik setiap pagi. Pelajari sains otonomi otak dari menerjemahkan."
+      "ko": "매일 아침 라틴어 고전을 영어로 번역하며 강인한 이성과 논리력을 길렀던 엘리자베스 1세 여왕. 고차원적 인지 능력을 활성화하는 번역 루틴의 과학을 알아봅니다."
     },
     "authority": {
-      "ko": "엘리자베스 1세 아카이브 자료 및 로저 애스컴의 가정교사 기록(The Scholemaster)",
-      "en": "Elizabeth I Archives and Roger Ascham's 'The Scholemaster'",
-      "ja": "エリザベス1世アーカイブ資料およびロジャー・アスカムの家庭教師記録（The Scholemaster）",
-      "zh": "伊丽莎白一世档案馆资料与罗杰·阿斯卡姆的家庭教师记录",
-      "es": "Archivos de Isabel I y registros de Roger Ascham",
-      "fr": "Archives d'Élisabeth I & écrits de Roger Ascham",
-      "de": "Aufzeichnungen von Roger Ascham & Archivmaterial zu Elisabeth I.",
-      "pt": "Arquivos de Elizabeth I & escritos de Roger Ascham",
-      "id": "Arsip Elizabeth I & tulisan Roger Ascham"
+      "ko": "Elizabeth Classical Translation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "16세기 영국의 사상 가장 빛나는 황금기인 '엘리자베스 시대'를 이끌며 약소국이었던 잉글랜드를 전 세계 해상의 강대국으로 거듭나게 만든 영국의 위대한 여왕 엘리자베스 1세. 그녀는 잉글랜드 국왕으로서 끊임없는 반란 음모와 종교 분쟁, 스페인 무적함대와의 전쟁이라는 거대한 국정 압박 속에 살았습니다. 👑\n\n그가 이 격변하는 역사 속에서 감정에 치우치지 않고 냉철한 논리력과 통치력을 지켜낼 수 있었던 최고의 비결은 다름 아닌 매일 아침 집무를 시작하기 전 첫 1시간 동안 실천했던 라틴어 고전 번역 루틴이었습니다. 그녀는 매일 아침 일찍 일어나 세네카나 키케로의 조밀하고 난해한 라틴어 및 그리스어 철학 철판 서적을 직접 영어로 번역했습니다. 복잡한 고전 외국어의 문법을 분석하고 최적의 자국어로 재배치하는 행위는 그녀의 뇌를 지적으로 벼려내어, 가장 논리적인 눈으로 복잡한 정세를 판별하게 도왔습니다.\n\n오늘 BuildSelf에서는 엘리자베스 1세의 '고전 번역' 루틴 속에 얽힌 脳科学的 원리와 바쁜 아침 논리적 사고력을 완전히 가동하는 현대적 낭독 및 번역 습관을 제시합니다.",
-      "en": "Elizabeth I, the great Queen of England who led the Golden Age in the 16th century. She faced national rebellions and wars under enormous political pressure. 👑\n\nThe secret to guarding her logical mind was none other than translating Latin classics for the first 1 hour before morning duties. Waking up early, she translated the dense and difficult Latin philosophy texts of Seneca and Cicero into English. This parallel mapping of grammar sharpened her brain, helping her distinguish complex political situations with a logical eye.\n\nToday, BuildSelf looks at the brain science behind Elizabeth I's 'classical translation' routine and how to fully activate logical thinking in the busy morning.",
-      "ja": "16世紀イングランドの輝かしい黄金期を導き、弱小国であったイングランドを世界の海洋大国へと生まれ変わらせたエリザベス1世女王。彼女は常に反乱の陰謀や宗教紛争、スペイン無敵艦隊との戦争という重圧の中に生きていました。 👑\n\n彼女がこの激動の歴史の中で感情に流されず、冷徹な論理力と統治力を維持できた秘訣は、毎朝執務を開始する前の1時間に行っていたラテン語古典の翻訳ルーティンでした。彼女は毎朝早く起き、セネカやキケロの難解なラテン語哲学書を自ら英語に翻訳しました。複雑な古典の文法を解読し、最適な英語に再配置する作業は、彼女の脳を論理的に鍛え上げ、複雑な情勢を鋭く見抜く力を与えました。\n\n今日のBuildSelfでは、エリザベス1世の「古典翻訳」ルーティンに隠された脳科学的原理と、忙しい朝に論理的思考力をフル稼働させる現代的な翻訳習慣を提案します。",
-      "zh": "在这一历史性惯例的实践中：16 ' ' 1. , . 👑 在这一历史性惯例的实践中： 1 . . , . 在这一历史性惯例的实践中： BuildSelf 1 ' ' 脳科学的 .",
-      "es": "En la práctica de esta rutina transformadora: 16 ' ' 1. , . 👑 En la práctica de esta rutina transformadora: 1 . . , . En la práctica de esta rutina transformadora: BuildSelf 1 ' ' . Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo. Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora: 16 ' ' 1. , . 👑 Na prática desta rotina transformadora: 1 . . , . Na prática desta rotina transformadora: BuildSelf 1 ' ' . Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável. Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "\"나는 사자의 가슴과 위장을 가졌으며, 이는 잉글랜드 국왕의 것이다.\" 👑\n\n16세기 영국의 사상 가장 빛나는 황금기인 '엘리자베스 시대'를 이끌며 약소국이었던 잉글랜드를 전 세계 해상의 강대국으로 거듭나게 만든 영국의 위대한 여왕 엘리자베스 1세. 그녀는 잉글랜드 국왕으로서 끊임없는 반란 음모와 종교 분쟁, 스페인 무적함대와의 전쟁이라는 거대한 국정 압박 속에 살았습니다.\n\n그가 이 격변하는 역사 속에서 감정에 치우치지 않고 냉철한 논리력과 통치력을 지켜낼 수 있었던 최고의 비결은 다름 아닌 매일 아침 집무를 시작하기 전 첫 1시간 동안 실천했던 라틴어 고전 번역 루틴이었습니다. 그녀는 매일 아침 일찍 일어나 세네카나 키케로의 조밀하고 난해한 라틴어 및 그리스어 철학 철판 서적을 직접 영어로 번역했습니다. 복잡한 고전 외국어의 문법을 분석하고 최적의 자국어로 재배치하는 행위는 그녀의 뇌를 지적으로 벼려내어, 가장 논리적인 눈으로 복잡한 정세를 판별하게 도왔습니다.\n\n오늘 포스트에서는 엘리자베스 1세의 '고전 번역' 루틴 속에 얽힌 뇌과학적 원리와 바쁜 아침 논리적 사고력을 완전히 가동하는 현대적 낭독 및 번역 습관을 제시합니다."
     },
     "whyTitle": {
-      "ko": "번역 작업이 두뇌 전두엽 피질에 미치는 효과",
-      "en": "Effect of Translation Work on the Brain's Frontal Cortex",
-      "ja": "翻訳作業が脳の前頭葉皮質に与える効果",
-      "zh": "翻译工作对大脑前额叶皮层的作用",
-      "es": "Efecto del trabajo de traducción en la corteza frontal",
-      "fr": "Effet de la traduction sur le cortex frontal",
-      "de": "Wie Übersetzungstraining den präfrontalen Kortex schärft",
-      "pt": "Como o esforço de tradução estimula o córtex frontal",
-      "id": "Efek Kegiatan Menerjemahkan pada Korteks Frontal Otak"
+      "ko": "번역 작업이 두뇌 전두엽 피질에 미치는 효과"
     },
     "whyDesc": {
-      "ko": "번역은 뇌의 시각적 문자 인지 영역뿐만 아니라 고도의 논리적 규칙 전환을 담당하는 배외측 전전두엽 피질(dlPFC)을 전방위적으로 활성화합니다. 단순히 글을 읽는 독서와 달리, 한 언어의 의미와 맥락을 분해하여 다른 언어의 정확한 단어 구조로 치환하는 작업은 컴퓨터의 프로세서가 100% 가동하는 것과 같은 극도의 인지 제어(Cognitive Control) 훈련입니다.\n\n이를 통해 뇌는 단어 간의 개념적 깊이를 이해하고, 복잡한 인과 관계 속에서 오류를 식별하는 분석 능력을 비약적으로 발달시킵니다. 엘리자베스 1세가 매일 수행했던 라틴어 번역은 감정적 노이즈를 필터링하고 차분하게 본질에 집중하게 만드는 강력한 인지적 해독제였습니다.",
-      "en": "Translation activates not only the visual character recognition area but also the dorsolateral prefrontal cortex (dlPFC) responsible for high-level logical rule switching. Dissimilar to reading, translating is a cognitive control training where the processor runs at 100% capacity. This develops the ability to understand conceptual depth and identify errors in complex causal relations.",
-      "ja": "翻訳は、脳の視覚的な文字認知領域だけでなく、高度な論理的ルールの切り替えを担う背外側前頭前野（dlPFC）を全般的に活性化します。単に文章を読む読書とは異なり、一つの言語の意味と文脈を分解して別の言語の正確な単語構造に置き換える作業は、コンピュータのプロセッサが100％稼働するような、極限の認知制御（Cognitive Control）訓練です。\n\nこれにより脳は単語間の概念的な深さを理解し、複雑な因果関係の中でエラーを識別する分析能力を飛躍的に発達させます。",
-      "zh": "翻译不仅能激活大脑的视觉文字认知区域，还能全方位激活负责高度逻辑规则切换的背外侧前额叶皮层（dlPFC）。与单纯阅读不同，分解一种语言的含义和语境并将其替换为另一种语言的精确词汇结构，是类似于电脑处理器100%运行的极端认知控制（Cognitive Control）训练。\n\n由此，大脑能深刻理解词语间的概念深度，极大地发展了在复杂因果关系中识别错误的分析能力。",
-      "es": "Traducir activa la corteza prefrontal dorsolateral (dlPFC), encargada del control cognitivo alto. Es como forzar al procesador del cerebro a trabajar al 100%. Esto mejora la capacidad de análisis de relaciones complejas causa-efecto y filtra el ruido emocional.",
-      "fr": "La traduction active le cortex préfrontal dorsolatéral (dlPFC). C'est comme forcer le processeur du cerveau à travailler à 100%. Cela améliore la capacité d'analyse et filtre le bruit émotionnel.",
-      "de": "Übersetzungstraining aktiviert den dorsolateralen präfrontalen Kortex (dlPFC). Es erfordert höchste Konzentration, da Grammatik und Bedeutung zweier Sprachen gleichzeitig abgeglichen werden müssen. Dies trainiert die Problemlösungskompetenz.",
-      "pt": "Traduzir ativa o córtex pré-frontal dorsolateral (dlPFC). É um exercício que exige 100% de esforço de controle cognitivo, pois desmonta uma estrutura e a remonta em outra língua. Isso aprimora a análise lógica e acalma as emoções.",
-      "id": "Menerjemahkan mengaktifkan korteks prefrontal dorsolateral (dlPFC) yang mengatur kendali kognitif tinggi. Proses ini memaksakan otak bekerja 100% untuk membongkar dan merakit bahasa, mengasah kemampuan analisis logika."
+      "ko": "번역은 뇌의 시각적 문자 인지 영역뿐만 아니라 고도의 논리적 규칙 전환을 담당하는 배외측 전전두엽 피질(dlPFC)을 전방위적으로 활성화합니다. 단순히 글을 읽는 독서와 달리, 한 언어의 의미와 맥락을 분해하여 다른 언어의 정확한 단어 구조로 치환하는 작업은 컴퓨터의 프로세서가 100% 가동하는 것과 같은 극도의 인지 제어(Cognitive Control) 훈련입니다.\n\n이를 통해 뇌는 단어 간의 개념적 깊이를 이해하고, 복잡한 인과 관계 속에서 오류를 식별하는 분석 능력을 비약적으로 발달시킵니다. 엘리자베스 1세가 매일 수행했던 라틴어 번역은 감정적 노이즈를 필터링하고 차분하게 본질에 집중하게 만드는 강력한 인지적 해독제였습니다."
     },
     "cautionTitle": {
-      "ko": "기계적 자동화 번역은 효과가 없습니다",
-      "en": "Mechanical automated translation has no effect",
-      "ja": "機械的な自動翻訳は効果がありません",
-      "zh": "机械式自动翻译毫无效果",
-      "es": "Los traductores automáticos no entrenan el cerebro",
-      "fr": "Les traducteurs automatiques n'entraînent pas le cerveau",
-      "de": "Automatische Übersetzungs-Tools trainieren das Gehirn nicht",
-      "pt": "Tradutores automáticos anulam o benefício do hábito",
-      "id": "Penerjemahan Otomatis Tidak Melatih Otak"
+      "ko": "기계적 자동화 번역은 효과가 없습니다"
     },
     "cautionDesc": {
-      "ko": "인공지능 번역기나 사전 앱의 버튼 하나만으로 텍스트를 바로 확인하는 행동은 뇌의 전두엽 회로를 자극하지 않습니다. 속도가 조금 느리더라도 스스로 단어를 찾고 문장을 수작업으로 재구축하며 머리를 쥐어짜는 과정 속에서만 전두엽 시냅스의 연결이 비약적으로 성장합니다.",
-      "en": "Checking text instantly with AI translators or dictionary apps does not stimulate the brain's frontal lobe. Only through the process of searching words and manually rebuilding sentences yourself does the prefrontal connection grow.",
-      "ja": "人工知能の翻訳機や辞書アプリのボタン一つでテキストをすぐに確認する行動は、脳の前頭葉回路を刺激しません。速度が少し遅くても、自分で単語を探し、文章を手作業で再構築して頭を悩ませる過程の中でこそ、前頭葉のシナプスの接続が飛躍的に成長します。",
-      "zh": "仅凭人工智能翻译机或词典软件的一键翻译，无法刺激大脑的前额叶回路。即使速度慢一点，也必须经历亲自查找单词、手动重构句子的“绞尽脑汁”的过程，前额叶突触连接才会实现飞跃式成长。",
-      "es": "Ver la traducción instantánea con IA no estimula la corteza frontal. Solo el esfuerzo manual de buscar palabras y descifrar la estructura lógica gramatical genera el desarrollo de las conexiones neuronales.",
-      "fr": "Regarder une traduction automatique n'entraîne pas le cerveau. Seul l'effort manuel de chercher les mots et de rebâtir la phrase génère des connexions.",
-      "de": "Das bloße Ablesen einer KI-Übersetzung fordert das Gehirn nicht. Nur durch eigenes Suchen von Begriffen und manuelles Zusammensetzen der Sätze wächst die neuronale Struktur im Gehirn.",
-      "pt": "Usar ferramentas de tradução por IA não ativa a mente. Apenas o esforço manual de pesquisar palavras e construir a estrutura lógica da frase por conta própria gera novas sinapses cerebrais.",
-      "id": "Membaca terjemahan instan dari AI tidak melatih korteks frontal. Hanya usaha manual mencari kata dan menyusun struktur kalimat yang membangun sinapsis baru."
+      "ko": "인공지능 번역기나 사전 앱의 버튼 하나만으로 텍스트를 바로 확인하는 행동은 뇌의 전두엽 회로를 자극하지 않습니다. 속도가 조금 느리더라도 스스로 단어를 찾고 문장을 수작업으로 재구축하며 머리를 쥐어짜는 과정 속에서만 전두엽 시냅스의 연결이 비약적으로 성장합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "라틴어 또는 타겟 고전 텍스트 선정",
-          "en": "Select Latin or Target Classical Text",
-          "ja": "ラテン語またはターゲット古典テキストの選定",
-          "zh": "挑选拉丁语或目标古典文本",
-          "es": "Elegir texto clásico o idioma objetivo",
-          "fr": "Choisir un texte classique ou la langue cible",
-          "de": "Lateinische oder anspruchsvolle Texte wählen",
-          "pt": "Escolher um texto clássico ou desafiador",
-          "id": "Pilih Teks Klasik Bahasa Asing"
+          "ko": "라틴어 또는 타겟 고전 텍스트 선정"
         },
         "text": {
-          "ko": "단순히 회화를 넘어서, 문장 구조가 정밀하고 복잡한 철학서, 명언집, 영문 명문 등 3~4문장의 실물 자료를 선정하여 아침 책상에 올려둡니다.",
-          "en": "Select 3 or 4 sentences from materials with precise and complex structures (philosophy books, quote books, classic essays) and place them on the morning desk.",
-          "ja": "単なる日常会話を超えて、文章構造が精密で複雑な哲学書、名言集、英文の名文など3〜4文の実物資料を選定し、朝の机の上に置いておきます。",
-          "zh": "超越简单口语，挑选句子结构严谨复杂的哲学书、名言集或经典英语散文等三四个句子的纸质资料，摆在清晨的书桌上。",
-          "es": "Seleccione de 3 a 4 frases de un texto con estructura gramatical compleja (ensayos, filosofía, discursos clásicos) y déjelas en la mesa.",
-          "fr": "Sélectionnez 3 ou 4 phrases d'un texte à structure complexe (philosophie, essais classiques) et posez-les sur le bureau.",
-          "de": "Wählen Sie 3 bis 4 Sätze aus einem komplexen Text (Philosophie, klassische Abhandlungen) und legen Sie diese morgens bereit.",
-          "pt": "Selecione de 3 a 4 frases de um texto com estrutura complexa (filosofia, ensaios clássicos ou discursos antigos) e deixe-as prontas na mesa.",
-          "id": "Pilih 3-4 kalimat dari teks bahasa asing yang berstruktur kompleks (filosofi, esai klasik) dan siapkan di meja pagi hari."
+          "ko": "단순히 회화를 넘어서, 문장 구조가 정밀하고 복잡한 철학서, 명언집, 영문 명문 등 3~4문장의 실물 자료를 선정하여 아침 책상에 올려둡니다."
         }
       },
       {
         "name": {
-          "ko": "30분간의 아날로그 직접 번역",
-          "en": "30 Minutes of Analog Manual Translation",
-          "ja": "30分間のアナログ手書き翻訳",
-          "zh": "30分钟模拟式手动翻译",
-          "es": "30 minutos de traducción manual analógica",
-          "fr": "30 minutes de traduction manuelle analogique",
-          "de": "30 Minuten manuelles Übersetzen",
-          "pt": "30 minutos de tradução manual analógica",
-          "id": "Menerjemahkan Manual 30 Menit"
+          "ko": "30분간의 아날로그 직접 번역"
         },
         "text": {
-          "ko": "인터넷 번역기를 일절 끄고, 종이 사전이나 전자단어장만 사용하여 단어의 기원을 파악하며 공책에 직접 손으로 문장을 번역해 나갑니다.",
-          "en": "Turn off internet translators, use only paper dictionaries or simple word books, discover the origins of words, and manually translate sentences in a notebook.",
-          "ja": "インターネット翻訳機を一切オフにし、紙の辞書や電子辞書だけを使用して単語の語源を確認しながら、ノートに直接手書きで文章を翻訳していきます。",
-          "zh": "完全关闭网络翻译器，仅凭纸质词典或单子表查找词源，在笔记本上亲自动手翻译句子。",
-          "es": "Apague el traductor de internet. Use un diccionario físico o app básica de vocabulario, busque el origen de las palabras y traduzca a mano en un cuaderno.",
-          "fr": "Éteignez le traducteur internet. Utilisez un dictionnaire, cherchez l'origine des mots et traduisez à la main dans un carnet.",
-          "de": "Schalten Sie Online-Übersetzer aus. Nutzen Sie nur ein Wörterbuch, suchen Sie nach den Wortursprüngen und übersetzen Sie die Sätze per Hand.",
-          "pt": "Desligue a internet. Use apenas um dicionário físico, pesquise a origem dos termos e escreva a tradução à mão em um caderno.",
-          "id": "Matikan penerjemah internet. Gunakan kamus fisik, cari asal-usul kata, dan tulis terjemahannya di buku catatan secara manual."
+          "ko": "인터넷 번역기를 일절 끄고, 종이 사전이나 전자단어장만 사용하여 단어의 기원을 파악하며 공책에 직접 손으로 문장을 번역해 나갑니다."
         }
       },
       {
         "name": {
-          "ko": "논리 비교 및 퇴고",
-          "en": "Logic Comparison and Polishing",
-          "ja": "論理の比較と推敲",
-          "zh": "逻辑对比与润色",
-          "es": "Comparación lógica y revisión",
-          "fr": "Comparaison logique et révision",
-          "de": "Logik abgleichen und verfeinern",
-          "pt": "Comparação lógica e revisão",
-          "id": "Bandingkan Logika dan Sempurnakan"
+          "ko": "논리 비교 및 퇴고"
         },
         "text": {
-          "ko": "번역이 끝난 문장을 읽어보며 원래 텍스트의 논리 구조가 온전히 한글 문맥으로 연결되는지 비교하고, 문맥을 가장 자연스럽고 단단하게 다듬는 교정 작업을 거쳐 아침의 분석적 뇌 활성화를 마칩니다.",
-          "en": "Read the translated sentences, compare if the logic of the original text is fully connected to the context, and polish it to be natural. This completes the morning analytical brain activation.",
-          "ja": "翻訳し終えた文章を読み返しながら、元のテキストの論理構造が完全に翻訳先の言語の文脈としてつながっているかを比較し、最も自然で強固な文脈に整える校正作業を行い、朝の分析脳の活性化を完了します。",
-          "zh": "通读翻译好的句子，对比原句逻辑是否完美地转为流畅的译文，进行自然润色，以此完成对清晨逻辑大脑的唤醒。",
-          "es": "Compare el resultado con el original. Asegúrese de que la lógica gramatical fluye de forma natural en su idioma, puliendo la redacción final.",
-          "fr": "Comparez le résultat avec l'original. Assurez-vous que la logique de la phrase est respectée et polissez le texte.",
-          "de": "Vergleichen Sie Ihre Übersetzung mit dem Originaltext. Prüfen Sie, ob der logische Gehalt korrekt und der Satzfluss natürlich ist.",
-          "pt": "Leia a tradução finalizada. Verifique se o sentido lógico original foi mantido de forma clara e natural no português, lapidando as frases.",
-          "id": "Baca terjemahan Anda, bandingkan apakah alur logikanya sudah sesuai dengan teks asli, lalu poles menjadi bahasa yang luwes."
+          "ko": "번역이 끝난 문장을 읽어보며 원래 텍스트의 논리 구조가 온전히 한글 문맥으로 연결되는지 비교하고, 문맥을 가장 자연스럽고 단단하게 다듬는 교정 작업을 거쳐 아침의 분석적 뇌 활성화를 마칩니다."
         }
       }
     ],
-    "pubDate": "2026-01-09",
-    "updatedDate": "2026-01-09",
     "faqs": [
       {
         "question": {
-          "ko": "인공지능 번역기를 사용하여 텍스트를 바로 맞춰보는 것은 효과가 없나요?",
-          "en": "Is there no benefit in matching text immediately using AI translators?",
-          "ja": "人工知能翻訳機を使ってテキストをすぐに合わせることは効果がありませんか？",
-          "zh": "直接使用 AI 翻译工具对齐文本是否毫无效果？",
-          "es": "¿No hay beneficio en comparar texto de inmediato usando traductores de IA?",
-          "fr": "N'y a-t-il aucun intérêt à traduire immédiatement le texte à l'aide de traducteurs IA ?",
-          "de": "Gibt es keinen Nutzen, wenn man Texte sofort mit KI-Übersetzern abgleicht?",
-          "pt": "Não há benefício em traduzir textos imediatamente usando tradutores de IA?",
-          "id": "Apakah tidak ada manfaat membandingkan teks langsung menggunakan penerjemah AI?"
+          "ko": "인공지능 번역기를 사용하여 텍스트를 바로 맞춰보는 것은 효과가 없나요?"
         },
         "answer": {
-          "ko": "네, 버튼 하나로 결과를 얻는 것은 뇌의 인지 연결망을 자극하지 못합니다. 다소 번거롭고 느리더라도 사전을 직접 뒤적이며 문장의 뼈대를 맞추는 '머리를 쓰는 저항 과정'을 거칠 때에만 전두엽 피질의 시냅스가 활발히 발달합니다.",
-          "en": "Yes, obtaining results with a single click does not stimulate the brain's cognitive networks. Synapses in the prefrontal cortex develop actively only when you go through the 'resistance process of using the brain,' such as directly looking up dictionaries and arranging the sentence structure.",
-          "ja": "はい、ボタン一つで結果を得ることは、脳の認知ネットワークを刺激しません。多少手間がかかり遅くても、辞書を直接引いて文章の骨組みを合わせる「頭を使う抵抗プロセス」を経て初めて、前頭葉皮質のシナプスが活発に発達します。",
-          "zh": "是的，一键获得现成结果无法刺激大脑的认知网络。只有经历哪怕繁琐缓慢，也要亲自翻阅词典来拼接句子主干的“用脑抗阻过程”，前额叶皮层的突触才会开始活跃发育。",
-          "es": "Sí, obtener resultados con un solo clic no estimula las redes cognitivas. Las sinapsis en la corteza frontal se desarrollan activamente solo cuando pasa por el 'proceso de resistencia cerebral', como buscar diccionarios y armar la oración.",
-          "fr": "Oui, obtenir des résultats en un clic ne stimule pas les réseaux cognitifs. Les synapses du cortex préfrontal ne se développent activement que lorsque vous passez par le 'processus de résistance cérébrale', en cherchant dans des dictionnaires et en structurant les phrases.",
-          "de": "Ja, Ergebnisse per Knopfdruck stimulieren das Gehirn nicht. Synapsen im Kortex entwickeln sich nur, wenn Sie den „Widerstandsprozess des Denkens“ durchlaufen, also selbst im Wörterbuch suchen und Sätze bauen.",
-          "pt": "Sim, obter resultados com um clique não estimula as redes cognitivas. As sinapses no córtex frontal se desenvolvem apenas quando você passa pelo 'processus de resistência mental', como buscar dicionários e montar a oração manualmente.",
-          "id": "Ya, mendapatkan hasil dengan satu klik tidak menstimulasi jaringan kognitif otak. Sinapsis di korteks prefrontal berkembang aktif hanya ketika Anda melalui 'proses resistensi otak', seperti mencari kamus dan menyusun struktur kalimat."
+          "ko": "네, 버튼 하나로 결과를 얻는 것은 뇌의 인지 연결망을 자극하지 못합니다. 다소 번거롭고 느리더라도 사전을 직접 뒤적이며 문장의 뼈대를 맞추는 '머리를 쓰는 저항 과정'을 거칠 때에만 전두엽 피질의 시냅스가 활발히 발달합니다."
         }
       },
       {
         "question": {
-          "ko": "그리스어와 라틴어 같은 고전어만 공부해야 효과가 있나요?",
-          "en": "Is the effect limited only to studying classical languages like Greek and Latin?",
-          "ja": "ギリシャ語やラテン語のような古典語だけを勉強しなければ効果はありませんか？",
-          "zh": "是否必须学习希腊语、拉丁语等古典语言才有效？",
-          "es": "¿El effecto se limita solo a estudiar idiomas clásicos como el griego y el latín?",
-          "fr": "L'effet est-il limité à l'étude des langues classiques comme le grec et le latin ?",
-          "de": "Tritt der Effekt nur beim Erlernen klassischer Sprachen wie Griechisch und Latein ein?",
-          "pt": "O efeito limita-se apenas a estudar línguas clássicas como grego e latim?",
-          "id": "Apakah efeknya terbatas hanya pada mempelajari bahasa klasik seperti Yunani dan Latin?"
+          "ko": "그리스어와 라틴어 같은 고전어만 공부해야 효과가 있나요?"
         },
         "answer": {
-          "ko": "아닙니다. 영어, 중국어, 독일어 등 문장 구성의 논리 체계가 한국어와 다른 모든 종류의 현대 외국어 텍스트도 훌륭한 훈련 도구가 됩니다. 중요한 것은 일상적인 대화체가 아닌 밀도 높고 격식 있는 철학이나 칼럼 등의 텍스트를 정밀하게 직조하듯 번역해 내는 것입니다.",
-          "en": "No. Modern foreign language texts (English, Chinese, German, etc.) with different logical sentence structures also serve as excellent training tools. The key is to translate dense and formal texts like philosophy or columns, rather than casual dialogue, as if weaving them precisely.",
-          "ja": "いいえ。英語、中国語、ドイツ語など、文章構成の論理体系が異なるあらゆる種類の現代外国語のテキストも素晴らしい訓練ツールになります。重要なのは、日常の会話体ではなく、密度の高い格調ある哲学やコラムなどのテキストを精密に織るように翻訳することです。",
-          "zh": "不是的。所有句子逻辑结构与母语不同的现代外语（如英语、中文、德语等）都是绝佳的训练工具。重点在于精细翻译具有深度和正式文体性质的哲学、专栏等文本，而非日常口语对话。",
-          "es": "No. Los textos de idiomas extranjeros modernos (inglés, chino, alemán, etc.) con diferentes estructuras lógicas sirven como excelentes herramientas. La clave es traducir textos densos y formales como filosofía o columnas, no diálogos casuales.",
-          "fr": "Non. Les textes de langues étrangères modernes (anglais, chinois, allemand, etc.) avec des structures logiques différentes conviennent également. La clé est de traduire des textes denses et formels comme de la philosophie ou des colonnes, et non des dialogues simples.",
-          "de": "Nein. Moderne Fremdsprachen (Englisch, Chinesisch, Deutsch usw.) mit anderen Satzstrukturen eignen sich ebenso. Wichtig ist, dichte und formelle Texte wie Philosophie oder Kolumnen präzise zu übersetzen, nicht Umgangssprache.",
-          "pt": "Não. Textos de línguas estrangeiras modernas (inglês, chinês, alemão, etc.) com diferentes estruturas lógicas são excelentes ferramentas. O segredo é traduzir textos densos e formais como filosofia ou colunas, em vez de diálogos casuais.",
-          "id": "Tidak. Teks bahasa asing modern (Inggris, Mandarin, Jerman, dll.) dengan struktur kalimat logis yang berbeda juga berfungsi sebagai sarana latihan yang luar biasa. Kuncinya adalah menerjemahkan teks formal dan padat seperti filsafat atau kolom, bukan dialog santai."
+          "ko": "아닙니다. 영어, 중국어, 독일어 등 문장 구성의 논리 체계가 한국어와 다른 모든 종류의 현대 외국어 텍스트도 훌륭한 훈련 도구가 됩니다. 중요한 것은 일상적인 대화체가 아닌 밀도 높고 격식 있는 철학이나 칼럼 등의 텍스트를 정밀하게 직조하듯 번역해 내는 것입니다."
         }
       }
     ]

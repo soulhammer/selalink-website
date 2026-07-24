@@ -1,223 +1,72 @@
 {
   "wordsworth-outdoor-recitation": {
     "title": {
-      "ko": "산길을 걸으며 큰 소리로 시를 외친 시인? 윌리엄 워즈워스의 보행 작시법",
-      "en": "The Poet Who Shouted Poems Aloud While Walking Mountain Paths? William Wordsworth's Walking Composition Method",
-      "ja": "山道を歩きながら大声で詩を叫んだ詩人？ウィリアム・ワーズワースの歩行作詩法",
-      "zh": "漫步山路大声朗诵诗歌的诗人？威廉·华兹华斯的步履作诗法",
-      "es": "¿El poeta que declamaba versos en voz alta por el monte? El método de composición al caminar de William Wordsworth",
-      "fr": "Le poète qui déclamait ses vers à voix haute sur les sentiers ? La méthode de création en marchant de William Wordsworth",
-      "de": "Der Dichter, der beim Wandern laut Gedichte deklamierte? William Wordsworths Geh-Dichtmethode",
-      "pt": "O poeta que declamava versos em voz alta pela montanha? O método de composição ao caminhar de William Wordsworth",
-      "id": "Penyair yang Meneriakkan Puisi dengan Keras Sambil Berjalan di Jalur Gunung? Metode Komposisi Berjalan William Wordsworth"
+      "ko": "산길을 걸으며 큰 소리로 시를 외친 시인? 윌리엄 워즈워스의 보행 작시법"
     },
     "description": {
-      "ko": "낭만주의 시인 윌리엄 워즈워스는 야외를 걸으며 발걸음 속도에 문장의 호흡을 맞춰 시를 완성했습니다. 리듬 운동과 소뇌 활성화가 언어 감각을 깨우는 과학적 원리를 알아봅니다.",
-      "en": "Romantic poet William Wordsworth composed poetry by matching the breath of sentences with his steps while walking outdoors. Learn the scientific principles of rhythmic movement.",
-      "ja": "浪漫主義の詩人ウィリアム・ワーズワースは、野外を歩きながら歩行のテンポに文章の呼吸を合わせて詩を完成させました。リズム運動と小脳活性化が言語感覚を呼び覚ます科学的原理を紹介します。",
-      "zh": "浪漫主义诗人威廉·华兹华斯在户外漫步，将文章的呼吸与步频相匹配来完成诗作。探索律动以及小脑激活唤醒语言感官的科学原理。",
-      "es": "El poeta romántico William Wordsworth componía adaptando el ritmo de los versos a sus pasos al aire libre. Analizamos cómo el movimiento rítmico activa el área del lenguaje.",
-      "fr": "Le poète romantique William Wordsworth composait en calquant le rythme de ses vers sur ses pas en plein air. Découvrez comment le mouvement stimule les zones du langage.",
-      "de": "Der Romantiker William Wordsworth dichtete, indem er das Tempo seiner Schritte auf seine Texte übertrug. Erfahren Sie, wie Rhythmus das Gehirn aktiviert.",
-      "pt": "O poeta romântico William Wordsworth compunha adaptando o ritmo dos versos aos seus passos ao ar livre. Analisamos como o movimento rítmico ativa a área da linguagem.",
-      "id": "Penyair romantis William Wordsworth menulis puisi dengan menyamakan napas kalimat dengan langkahnya saat berjalan. Pelajari prinsip ilmiah dari gerakan ritmis."
+      "ko": "낭만주의 시인 윌리엄 워즈워스는 야외를 걸으며 발걸음 속도에 문장의 호흡을 맞춰 시를 완성했습니다. 리듬 운동과 소뇌 활성화가 언어 감각을 깨우는 과학적 원리를 알아봅니다."
     },
     "authority": {
-      "ko": "헌터 데이비스의 '윌리엄 워즈워스 평전' 및 인지뇌연구(Cognitive Brain Research) 학술지",
-      "en": "Hunter Davies's 'William Wordsworth: A Biography' & 'Cognitive Brain Research' Journal",
-      "ja": "ハンター・デイヴィス「ウィリアム・ワーズワース評伝」および学術誌「Cognitive Brain Research」",
-      "zh": "戴维斯《威廉·华兹华斯传》与《认知脑研究(Cognitive Brain Research)》期刊",
-      "es": "Biografía de William Wordsworth de Hunter Davies y revista Cognitive Brain Research",
-      "fr": "Biographie de William Wordsworth par Hunter Davies & revue Cognitive Brain Research",
-      "de": "Hunter Davies' 'William Wordsworth: A Biography' & Fachzeitschrift Cognitive Brain Research",
-      "pt": "Biografia de William Wordsworth de Hunter Davies & revista Cognitive Brain Research",
-      "id": "Biografi William Wordsworth oleh Hunter Davies & Jurnal 'Cognitive Brain Research'"
+      "ko": "윌리엄 워즈워스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "'무지개'와 '수선화' 등의 시를 발표하여 영국의 대자연이 품은 서정적인 숨결을 극대화했던 낭만주의 문학의 거장 윌리엄 워즈워스. 영문학 역사상 가장 선율적이고 부드러운 운율을 자랑하는 그의 아름다운 영작들은 놀랍게도 어두운 방안의 종이 위가 아닌, 숲길의 땅바닥을 디디는 발소리 속에서 조율되었습니다. 🚶‍♂️\n\n워즈워스는 시를 쓸 때 서재 책상에 앉아 골몰하는 법이 거의 없었습니다. 그는 시를 지어야 할 때 언제나 안개 낀 영국의 아름다운 '레이크 디스트릭트(Lake District)'로 나가 몇 시간이고 걸었습니다. 그는 걸어 다니는 동안 단순히 생각에 잠긴 것이 아니라, 떠오르는 시구들을 주변 숲과 바람을 향해 아주 큰 소리로 외치듯 읊조렸습니다. 일정한 템포로 걷는 그의 발자국 소리는 시의 규칙적인 율격(Meter)이 되었고, 한 걸음의 리듬에 맞춰 가사와 운율을 정교하게 다듬었습니다. 그의 누이 도로시 워즈워스는 그가 밖에서 걷는 소리만 듣고도 '오빠가 시의 마디를 조율하고 있구나'라며 방해하지 않았다고 기록했습니다.\n\n오늘 BuildSelf에서는 윌리엄 워즈워스가 평생 유지했던 '보행 낭독' 습관의 신경학적 작동 원리를 살펴보고, 현대인들이 자연스러운 문장 작성을 위해 발걸음의 박자를 이용하는 방법을 다룹니다.",
-      "en": "William Wordsworth, a giant of Romantic literature who maximized the lyrical breath of British nature by publishing poems such as 'Rainbow' and 'Daffodils.' His beautiful poems, which boast the most melodic and soft rhymes in the history of English literature, were surprisingly tuned not on paper in a dark room, but in the sound of stepping on the ground of the forest paths. 🚶‍♂️\n\nWordsworth rarely sat at a desk in his study when writing poetry. Whenever he had to write a poem, he always went out to the beautiful, foggy Lake District of England and walked for hours. While walking, he did not simply dwell in thought, but chanted the rising verses aloud towards the surrounding forest and wind. The sound of his footsteps walking at a constant tempo became the regular meter of the poem, and he delicately refined the lyrics and rhyme to the rhythm of one step. His sister Dorothy Wordsworth recorded that just by hearing him walking outside, she thought, 'My brother is tuning the measure of the poem' and did not disturb him.\n\nToday, BuildSelf looks into the neurological working principles of the 'walking recitation' habit that William Wordsworth maintained throughout his life, and covers how modern people can use the tempo of steps for natural writing.",
-      "ja": "この歴史的習慣の実践において：'' '' . , . 🚶‍♂️ この歴史的習慣の実践において： . ' (Lake District)' . , . (Meter) , . ' ' . この歴史的習慣の実践において： BuildSelf ' ' , .",
-      "zh": "在这一历史性惯例的实践中：'' '' . , . 🚶‍♂️ 在这一历史性惯例的实践中： . ' (Lake District)' . , . (Meter) , . ' ' . 在这一历史性惯例的实践中： BuildSelf ' ' , .",
-      "es": "William Wordsworth, exponente del Romanticismo inglés célebre por 'El arco iris' y 'Los narcisos'. Su poesía, una de las más rítmicas de la literatura anglosajona, no se concibió con pluma y papel en una habitación silenciosa, sino al compás de sus pisadas por los bosques de Lake District. 🚶‍♂️\n\nWordsworth apenas se sentaba al escritorio. Si quería escribir, salía a caminar durante horas por los valles ingleses. Al andar, no meditaba en silencio; declamaba los versos con fuerza hacia el bosque. El ritmo regular de sus pasos marcaba la métrica de los poemas (Meter), acomodando las palabras al compás de su marcha. Su hermana Dorothy anotó que, con solo oír el ritmo de sus pasos desde casa, sabía si estaba componiendo y evitaba interrumpirle.\n\nHoy, BuildSelf detalla la neurociencia del 'canto al caminar' de William Wordsworth y cómo las personas modernas pueden usar su ritmo de andar para mejorar el estilo de sus textos.",
-      "fr": "William Wordsworth, figure du romantisme anglais célèbre pour 'L'Arc-en-ciel' et 'Les Narcisses'. Sa poésie, l'une des plus mélodieuses de la langue anglaise, ne s'est pas construite sur le papier d'un cabinet sombre, mais au rythme de ses pas sur les sentiers du Lake District. 🚶‍♂️\n\nWordsworth s'asseyait rarement à sa table. S'il devait composer, il partait marcher des heures dans les vallons anglais. Durant sa marche, il ne méditait pas en silence : il déclamait ses vers à voix haute pour les arbres et le vent. Le tempo régulier de sa marche dictait la métrique de ses poèmes (Meter), adaptant ses mots au rythme de ses pas. Sa sœur Dorothy a écrit qu'en entendant le rythme de sa marche, elle savait qu'il composait et veillait à ne pas le déranger.\n\nAujourd'hui, BuildSelf analyse la stimulation neurologique induite par cette routine de création ambulante, et montre comment utiliser le rythme de la marche pour améliorer l'harmonie de vos rédactions.",
-      "de": "William Wordsworth, der Dichter der Romantik, der mit 'Der Regenbogen' und 'Die Narzissen' die Natur besang. Seine melodischen Gedichte entstanden nicht am Schreibtisch, sondern im Takt seiner Schritte auf den Wegen des Lake District. 🚶‍♂️\n\nWordsworth saß beim Dichten fast nie am Tisch. Er wanderte stundenlang durch den Lake District. Dabei dachte er nicht nur nach, sondern deklamierte die Verse laut in den Wald hinein. Der Takt seiner Schritte bildete das Metrum des Gedichts. Seine Schwester Dorothy notierte, dass sie an seinen Schritten hörte, wenn er dichtete, und ihn dann nicht störte.\n\nHeute zeigt BuildSelf die neurologische Wirkung der Geh-Dichtmethode von William Wordsworth und wie man den Gehrhythmus für flüssiges Formulieren nutzt.",
-      "pt": "William Wordsworth, expoente do Romantismo inglês célebre por 'O Arco-Íris' e 'Os Narcisos'. Sua poesia lírica não foi concebida com pena e papel em uma sala fechada, mas no compasso de suas pisadas pelos bosques de Lake District. 🚶‍♂️\n\nWordsworth raramente sentava-se à escrivaninha. Se queria escrever, saía para caminhar por horas. Ao andar, não meditava em silêncio: declamava os versos em voz alta. O ritmo regular de seus passos marcava a métrica dos poemas (Meter), acomodando as palavras ao compasso da marcha. Sua irmã Dorothy anotou que, só de ouvir o ritmo de seus passos, sabia que estava compondo e evitava interrompê-lo.\n\nHojes, o BuildSelf detalha a neurobiologia por trás do hábito de caminhar e falar de William Wordsworth e como as pessoas modernas podem usar o ritmo da caminhada para melhorar seus textos.",
-      "id": "William Wordsworth, penyair besar sastra Romantis yang memaksimalkan napas liris alam Inggris dengan menerbitkan puisi seperti 'Rainbow' dan 'Daffodils.' Puisi indahnya, disetel bukan di atas kertas di ruangan gelap, tetapi dalam suara langkah kaki di jalur hutan. 🚶‍♂️\n\nWordsworth jarang duduk di meja di ruang kerjanya saat menulis puisi. Setiap kali dia harus menulis puisi, dia selalu pergi ke Lake District yang indah dan berkabut dan berjalan selama berjam-jam. Sembari berjalan, ia tidak hanya merenung, tetapi melafalkan bait-bait dengan suara keras. Suara langkah kakinya yang berjalan dengan tempo konstan menjadi meteran teratur puisi itu. Saudara perempuannya Dorothy Wordsworth mencatat bahwa hanya dengan mendengarnya berjalan di luar, dia tahu kakaknya sedang menulis puisi.\n\nHari ini, BuildSelf membahas prinsip kerja neurologis dari rutinitas 'membaca sambil berjalan' (jalan sambil membaca) yang dipertahankan William Wordsworth."
+      "ko": "'무지개'와 '수선화' 등의 시를 발표하여 영국의 대자연이 품은 서정적인 숨결을 극대화했던 낭만주의 문학의 거장 윌리엄 워즈워스. 영문학 역사상 가장 선율적이고 부드러운 운율을 자랑하는 그의 아름다운 영작들은 놀랍게도 어두운 방안의 종이 위가 아닌, 숲길의 땅바닥을 디디는 발소리 속에서 조율되었습니다. 🚶‍♂️\n\n워즈워스는 시를 쓸 때 서재 책상에 앉아 골몰하는 법이 거의 없었습니다. 그는 시를 지어야 할 때 언제나 안개 낀 영국의 아름다운 '레이크 디스트릭트(Lake District)'로 나가 몇 시간이고 걸었습니다. 그는 걸어 다니는 동안 단순히 생각에 잠긴 것이 아니라, 떠오르는 시구들을 주변 숲과 바람을 향해 아주 큰 소리로 외치듯 읊조렸습니다. 일정한 템포로 걷는 그의 발자국 소리는 시의 규칙적인 율격(Meter)이 되었고, 한 걸음의 리듬에 맞춰 가사와 운율을 정교하게 다듬었습니다. 그의 누이 도로시 워즈워스는 그가 밖에서 걷는 소리만 듣고도 '오빠가 시의 마디를 조율하고 있구나'라며 방해하지 않았다고 기록했습니다.\n\n오늘 포스트에서는 윌리엄 워즈워스가 평생 유지했던 '보행 낭독' 습관의 신경학적 작동 원리를 살펴보고, 현대인들이 자연스러운 문장 작성을 위해 발걸음의 박자를 이용하는 방법을 다룹니다."
     },
     "whyTitle": {
-      "ko": "리듬 보행과 조음 청각 루프의 시너지",
-      "en": "Synergy of Rhythmic Walking and Auditory Articulation Loop",
-      "ja": "リズム歩行と調音聴覚ループのシナジー",
-      "zh": "律动步行与发音听觉环路的协同效应",
-      "es": "Sinergia de la Marcha Rítmica y el Bucle Auditivo",
-      "fr": "Synergie de la Marche Rítmique et de la Boucle Auditive",
-      "de": "Synergie von rhythmischem Gehen und dem auditiven Pfad",
-      "pt": "Sinergia da Caminhada Rítmica e do Bloop Auditivo",
-      "id": "Sinergi Berjalan Ritmis dan Putaran Artikulasi Auditori"
+      "ko": "리듬 보행과 조음 청각 루프의 시너지"
     },
     "whyDesc": {
-      "ko": "걷기 운동 시 발바닥 접촉에 의해 발생하는 규칙적인 움직임 신호는 뇌의 모터 루프이자 주기를 다루는 <strong>'소뇌(Cerebellum)'</strong>를 강력하게 활성화합니다. 이 소뇌의 운동 리듬 신호는 대뇌 피질의 언어 연상 영역과 즉각 동기화하여 문장의 운율(Prosody)과 말의 강약을 다루는 조음 처리 능력을 물리적으로 조율합니다.\n\n또한, 생각한 바를 직접 입으로 소리 내어 뱉어내는 낭독(Recitation) 행위는 뇌의 <strong>'청각적 루프(Phonological/Auditory Loop)'</strong>를 작동시킵니다. 자신이 뱉은 소리가 귀를 통해 실시간 피드백으로 수용되면, 뇌는 문맥의 부자연스러움이나 어조의 어긋남을 감각 수준에서 빠르게 탐지합니다. 이 덕분에 워즈워스는 손으로 종이에 쓰며 논리적 좌뇌를 소모하는 대신, 뇌의 청각-운동 결합 영역을 활용하여 가장 유연하고 선율적인 명시를 구성할 수 있었습니다.",
-      "en": "The regular movement signals generated by sole contact during walking strongly activate the <strong>'cerebellum'</strong>, which is the motor loop of the brain and deals with cycle periods. This motor rhythm signal of the cerebellum immediately synchronizes with the language association area of the cerebral cortex to physically coordinate the articulation processing ability that deals with the prosody of sentences and the strength of speech.\n\nIn addition, the act of recitation, which speaks thoughts directly with the mouth, activates the brain's <strong>'auditory/phonological loop'</strong>. When one's own voice is received as real-time feedback through the ears, the brain quickly detects unnaturalness of context or mismatch of tone at a sensory level. Thanks to this, instead of consuming the logical left brain while writing on paper by hand, Wordsworth utilized the auditory-motor combined area of the brain to compose the most flexible and melodic masterpieces.",
-      "ja": "歩行時に足の裏の接触によって発生する規則的な運動信号は、脳の運動ループであり周期性を処理する「小脳（Cerebellum）」を強力に活性化させます。この小脳の運動リズム信号は、大脳皮質の言語連想領域と即座に同期し、文章の韻律（Prosody）や言葉の強弱を処理する調音処理能力を物理的に調律します。\n\nまた、考えたことを自ら口に出して発声する朗読（Recitation）行為は、脳の<strong>「音韻・聴覚ループ（Phonological/Auditory Loop）」</strong>を作動させます。自分の発した声が耳を通じてリアルタイムのフィードバックとして受け取られると、脳は文脈の不自然さや語調の乱れを感覚レベルで素早く検知します。これにより、ワーズワースは手で紙に書いて論理的な左脳を消耗する代わりに、脳の聴覚・運動結合領域を活用し、最も流麗で旋律的な名詩を紡ぎ出すことができたのです。",
-      "zh": "散步时通过脚底接触产生的规律性运动信号，会强烈激活大脑的运动反馈环路、也是负责节奏周期的<strong>“小脑(Cerebellum)”</strong>。小脑的这一运动节律信号会立即与大脑皮层的语言联想区域同步，物理性地调谐处理句子韵律（Prosody）和语气强弱的发音处理能力。\n\n此外，直接用口将所想之事朗诵（Recitation）出来的行为，会启动大脑的<strong>“语音/听觉环路(Phonological/Auditory Loop)”</strong>。自己发出的声音通过耳朵作为实时反馈被重新接收后，大脑就能在感觉层面上迅速捕捉到语境的不自然或语调的偏差。得益于此，华兹华斯无需在用手落笔纸面时耗费逻辑左脑，而是利用大脑的听觉-运动接合区，构思出了最柔和且富有旋律感的名诗。",
-      "es": "Los impulsos rítmicos al pisar el suelo al caminar activan con fuerza el <strong>'cerebelo (Cerebellum)'</strong>, centro de coordinación y tempo del cerebro. Este ritmo motor se sincroniza con el área del lenguaje de la corteza, coordinando la entonación y la fluidez del habla de forma natural.\n\nAdemás, declamar las ideas en voz alta (Recitation) activa el <strong>'bucle fonológico/auditivo'</strong> del cerebro. Al oír su propia voz como feedback al instante, el cerebro capta cacofonías o fallas de fluidez de manera intuitiva. Así, en lugar de cansar su hemisferio izquierdo escribiendo con esfuerzo, Wordsworth usó esta conexión auditivo-motora para dar con los versos más fluidos.",
-      "fr": "Les impulsions rythmiques de la marche activent fortement le <strong>'cervelet (Cerebellum)'</strong>, centre de coordination et du tempo. Ce rythme moteur se synchronise avec les aires du langage du cortex, coordonnant la prosodie et le débit de la parole de manière naturelle.\n\nDe plus, déclamer ses idées à voix haute (Recitation) active la <strong>'boucle phonologique/auditive'</strong> du cerveau. En entendant sa propre voix en feedback instantané, le cerveau capte les failles de style ou de rythme de manière intuitive. Ainsi, plutôt que de fatiguer son hémisphère gauche à écrire, Wordsworth a utilisé cette connexion auditivo-motrice pour forger ses plus beaux vers.",
-      "de": "Die beim Gehen erzeugten Bewegungsimpulse aktivieren das Kleinhirn (<strong>'Cerebellum'</strong>), das für Takt und Rhythmus zuständig ist. Dieser Bewegungstakt synchronisiert sich mit den Sprachzentren der Großhirnrinde und steuert den Rhythmus und die Betonung des Textes.\n\nDas laute Aussprechen aktiviert zudem die <strong>'auditive Schleife'</strong> im Gehirn. Durch das Hören der eigenen Stimme bemerkt das Gehirn Holprigkeiten im Text sofort auf Gefühlsebene. Statt die linke Gehirnhälfte durch das Schreiben anzustrengen, nutzte Wordsworth diese Verknüpfung für flüssigere Verse.",
-      "pt": "Os impulsos rítmicos ao pisar o solo na caminhada ativam fortemente o <strong>'cerebelo (Cerebellum)'</strong>, centro de coordenação do cérebro. Esse ritmo motor sincroniza-se com a área de linguagem do córtex, coordenando a entonação da fala de forma natural.\n\nDeclamar as ideias em voz alta (Recitation) ativa o <strong>'bloop fonológico/auditivo'</strong>. Ao ouvir a própria voz em feedback instantâneo, o cérebro capta falhas de ritmo de maneira intuitiva. Em vez de cansar o hemisfério esquerdo escrevendo, Wordsworth usou essa conexão auditivo-motora para obter os versos mais fluidos.",
-      "id": "Sinyal gerakan teratur yang dihasilkan oleh kontak telapak kaki saat berjalan mengaktifkan <strong>'otak kecil'</strong> (Cerebellum), yang merupakan putaran motorik otak. Sinyal ritme motorik otak kecil ini segera menyinkronkan dengan area bahasa korteks serebral.\n\nSelain itu, tindakan melafalkan mengaktifkan <strong>'putaran auditori/fonologis'</strong> otak. Ketika suara sendiri diterima sebagai umpan balik waktu nyata melalui telinga, otak mendeteksi ketidakwajaran konteks. Wordsworth memanfaatkan area gabungan pendengaran-motorik otak untuk menulis puisi."
+      "ko": "걷기 운동 시 발바닥 접촉에 의해 발생하는 규칙적인 움직임 신호는 뇌의 모터 루프이자 주기를 다루는 <strong>'소뇌(Cerebellum)'</strong>를 강력하게 활성화합니다. 이 소뇌의 운동 리듬 신호는 대뇌 피질의 언어 연상 영역과 즉각 동기화하여 문장의 운율(Prosody)과 말의 강약을 다루는 조음 처리 능력을 물리적으로 조율합니다.\n\n또한, 생각한 바를 직접 입으로 소리 내어 뱉어내는 낭독(Recitation) 행위는 뇌의 <strong>'청각적 루프(Phonological/Auditory Loop)'</strong>를 작동시킵니다. 자신이 뱉은 소리가 귀를 통해 실시간 피드백으로 수용되면, 뇌는 문맥의 부자연스러움이나 어조의 어긋남을 감각 수준에서 빠르게 탐지합니다. 이 덕분에 워즈워스는 손으로 종이에 쓰며 논리적 좌뇌를 소모하는 대신, 뇌의 청각-운동 결합 영역을 활용하여 가장 유연하고 선율적인 명시를 구성할 수 있었습니다."
     },
     "cautionTitle": {
-      "ko": "소리 내어 읽기의 힘",
-      "en": "The Power of Reading Aloud",
-      "ja": "音読の力",
-      "zh": "大声朗读的力量",
-      "es": "El Poder de Leer en Voz Alta",
-      "fr": "Le Pouvoir de la Lecture à Voix Haute",
-      "de": "Die Kraft des laut Vorlesens",
-      "pt": "O Poder de Ler em Voz Alta",
-      "id": "Kekuatan Membaca dengan Keras"
+      "ko": "소리 내어 읽기의 힘"
     },
     "cautionDesc": {
-      "ko": "눈으로만 글을 쓰는 습관은 작성된 글이 독자에게 어떻게 읽힐지(조음적 리듬)를 온전히 파악하지 못하게 만들어 문장을 건조하고 딱딱하게 만듭니다. 특히 기획서의 스피치 대본이나 면접 답변서 등을 작성할 때는 조용한 곳에서 발걸음을 떼며 큰 소리로 직접 읊조려 가며 교정해야 문장의 뇌 전달력이 극대화됩니다.",
-      "en": "The habit of writing only with your eyes makes the text dry and stiff because you cannot fully grasp how it will be read (articulatory rhythm) by the reader. Especially when writing speech scripts or interview answers, you must walk and read aloud in a quiet place to maximize the message delivery power of sentences.",
-      "ja": "目だけで文章を書く習慣は、書かれた文章が読者にどのように読まれるか（調音的なリズム）を十分に把握できず、文章を乾燥した堅いものにしてしまいます。特に企画書のスピーチ原稿や面接の回答書などを作成する際は、静かな場所で歩きながら大きな声で実際に朗読しつつ推敲することで、文章の脳への伝達力が最大化されます。",
-      "zh": "仅用眼睛写文章的习惯会导致无法完全掌握所写文字在读者读来时的效果（发音节奏），从而使句子显得干瘪、生硬。尤其在撰写策划案的演讲稿或面试小样时，在安静的地方迈开步伐、大声朗诵并进行修改，才能最大化句子的脑部传达力。",
-      "es": "Escribir solo con los ojos genera frases rígidas y ásperas porque no percibimos la musicalidad del texto (ritmo articulatorio). Al redactar discursos, presentaciones o respuestas para entrevistas, camine despacio por un cuarto y léalos en voz alta: es la mejor forma de pulirlos.",
-      "fr": "Écrire uniquement avec les yeux produit des phrases rigides car on ne perçoit pas la musicalité du texte (rythme d'élocution). Pour rédiger des discours, présentations ou réponses d'entretien, marchez lentement et lisez à voix haute : c'est le meilleur moyen de les polir.",
-      "de": "Das rein stumme Schreiben am Bildschirm macht Texte oft trocken und sperrig, da das Gefühl für den Lesefluss fehlt. Lesen Sie wichtige Vorträge oder Texte beim Gehen laut vor – das verbessert die Verständlichkeit deutlich.",
-      "pt": "Escrever apenas com os olhos gera frases rígidas porque não percebemos a musicalidade do texto. Ao redigir discursos ou apresentações, caminhe devagar e leia em voz alta para lapidar o ritmo do texto.",
-      "id": "Kebiasaan menulis hanya dengan mata membuat teks menjadi kering karena Anda tidak dapat sepenuhnya memahami bagaimana teks itu akan dibaca. Saat menulis naskah pidato, Anda harus berjalan dan membaca keras-keras untuk memaksimalkan penyampaian pesan."
+      "ko": "눈으로만 글을 쓰는 습관은 작성된 글이 독자에게 어떻게 읽힐지(조음적 리듬)를 온전히 파악하지 못하게 만들어 문장을 건조하고 딱딱하게 만듭니다. 특히 기획서의 스피치 대본이나 면접 답변서 등을 작성할 때는 조용한 곳에서 발걸음을 떼며 큰 소리로 직접 읊조려 가며 교정해야 문장의 뇌 전달력이 극대화됩니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "문장 핵심 맥락 로딩 및 공간 이동",
-          "en": "Loading Sentence Core Context and Moving Space",
-          "ja": "文章の核心文脈のロードと空間移動",
-          "zh": "导入句子核心脉络并转移空间",
-          "es": "Cargar el Tema en la Mente y Moverse",
-          "fr": "Charger le Sujet en Mémoire et Bouger",
-          "de": "Textthema verinnerlichen und Gehen",
-          "pt": "Carregar o Tema na Mente e Mover-se",
-          "id": "Memuat Konteks Inti Kalimat dan Berpindah Ruang"
+          "ko": "문장 핵심 맥락 로딩 및 공간 이동"
         },
         "text": {
-          "ko": "작성하고자 하는 기획의 주요 논리나 다듬어야 할 딱딱한 문장 초안 1~2개를 가볍게 암기하거나 스마트폰 화면에 띄운 뒤, 웅성거림이 적고 걷기 편한 조용한 산책로나 복도로 나갑니다.",
-          "en": "Lightly memorize 1-2 draft sentences or display them on your smartphone screen, and go out to a quiet walkway or hallway where there is little noise and it is easy to walk.",
-          "ja": "書きたい企画の主な論理や、推敲が必要な堅い文章の下書きを1〜2個軽く暗記するかスマートフォンの画面に表示し、人通りが少なく歩きやすい静かな散歩道や廊下へと出ます。",
-          "zh": "将需要撰写的策划核心逻辑或1-2句待修改的生硬句子草稿记在脑海中，或显示在手机屏幕上，随后走向人少、便于行走的安静散步道或走廊。",
-          "es": "Memorice o lleve en la pantalla del móvil 1 o 2 frases rígidas de su borrador y diríjase a un pasillo o sendero tranquilo donde pueda caminar sin interrupciones.",
-          "fr": "Mémorisez ou gardez sur l'écran du téléphone 1 ou 2 phrases rigides de votre brouillon et allez dans un couloir ou sur un chemin tranquille pour marcher.",
-          "de": "Prägen Sie sich ein oder zwei holprige Sätze aus Ihrem Entwurf ein und gehen Sie auf einen ruhigen Weg oder Flur, auf dem Sie ungestört gehen können.",
-          "pt": "Memorize ou leve no celular 1 ou 2 frases do rascunho e vá para um corredor ou caminho tranquilo onde possa caminhar sem interrupções.",
-          "id": "Hafalkan sedikit 1-2 draf kalimat atau tampilkan di layar ponsel Anda, lalu pergilah ke jalan setapak yang tenang dan mudah untuk berjalan."
+          "ko": "작성하고자 하는 기획의 주요 논리나 다듬어야 할 딱딱한 문장 초안 1~2개를 가볍게 암기하거나 스마트폰 화면에 띄운 뒤, 웅성거림이 적고 걷기 편한 조용한 산책로나 복도로 나갑니다."
         }
       },
       {
         "name": {
-          "ko": "일정한 걸음 리듬에 맞춘 보행 낭독",
-          "en": "Walking Recitation Timed to Consistent Footstep Rhythm",
-          "ja": "一定の歩行テンポに合わせた歩行朗読",
-          "zh": "配合恒定步伐节奏的步履朗诵",
-          "es": "Declamar al Compás del Paso Regular",
-          "fr": "Déclamer au Rythme de la Marche",
-          "de": "Deklamieren im Takt der Schritte",
-          "pt": "Declamar ao Compasso do Passo Regular",
-          "id": "Jalan Sambil Melafalkan Sesuai dengan Ritme Langkah Kaki"
+          "ko": "일정한 걸음 리듬에 맞춘 보행 낭독"
         },
         "text": {
-          "ko": "초당 1~1.5보의 일정한 리듬으로 천천히 걸으면서, 준비한 문장을 내 발걸음 박자에 한 글자씩 호흡을 얹어 나지막하지만 선명하게 직접 소리 내어 말해 봅니다.",
-          "en": "While walking slowly at a constant rhythm of 1-1.5 steps per second, speak the prepared sentences out loud, softly but clearly, timing each syllable to your step.",
-          "ja": "1秒間に1〜1.5歩の一定のペースでゆっくり歩きながら、用意した文章を自分の足音の拍子に合わせて一文字ずつ息を載せ、小声ながらもはっきりと実際に発声してみます。",
-          "zh": "以每秒1-1.5步的的恒定步伐缓慢行走，配合步伐的节拍一字一句地换气，小声但清晰地大声说出准备好的句子。",
-          "es": "Camine a un paso constante (1 a 1.5 pasos por segundo) y recite la frase en voz alta, adaptando las sílabas y las pausas para respirar al compás de sus pasos.",
-          "fr": "Marchez à un rythme régulier (1 à 1,5 pas par seconde) et récitez la phrase à voix haute, en adaptant les syllabes et les respirations au tempo de vos pas.",
-          "de": "Gehen Sie in gleichmäßigem Tempo (1 bis 1,5 Schritte pro Sekunde) und sprechen Sie den Text leise, aber deutlich aus, wobei Sie den Takt auf Ihre Schritte übertragen.",
-          "pt": "Caminhe a passos constantes (1 a 1,5 passos por segundo) e recite a frase em voz alta, adaptando as sílabas e as pausas ao compasso da sua marcha.",
-          "id": "Sembari berjalan perlahan dengan ritme konstan 1-1,5 langkah per detik, ucapkan kalimat dengan keras, timing setiap suku kata sesuai langkah Anda."
+          "ko": "초당 1~1.5보의 일정한 리듬으로 천천히 걸으면서, 준비한 문장을 내 발걸음 박자에 한 글자씩 호흡을 얹어 나지막하지만 선명하게 직접 소리 내어 말해 봅니다."
         }
       },
       {
         "name": {
-          "ko": "조음 교정 및 최종 텍스트 입력",
-          "en": "Articulation Correction and Final Text Input",
-          "ja": "調音修正と最終テキスト入力",
-          "zh": "发音修正与最终文本输入",
-          "es": "Ajuste de Fluidez y Escritura Definitiva",
-          "fr": "Correction du Débit et Saisie Définitive",
-          "de": "Korrektur des Leseflusses und Aufschreiben",
-          "pt": "Ajuste de Fluidez e Escrita Definitiva",
-          "id": "Koreksi Artikulasi dan Input Teks Akhir"
+          "ko": "조음 교정 및 최종 텍스트 입력"
         },
         "text": {
-          "ko": "소리 내어 말할 때 발음이 꼬이거나 리듬이 끊기는 구절이 포착되면 걸으면서 더 자연스러운 단어로 교정합니다. 물 흐르듯 선율이 맞춰진 최종 문장을 제자리로 돌아와 문서에 채워 넣습니다.",
-          "en": "If a phrase causes stuttering or cuts the rhythm when spoken aloud, correct it with a more natural word while walking. Return to your place and input the final sentence, which flows like a melody, into the document.",
-          "ja": "声に出したときに発音がもたついたり、リズムが途切れたりする箇所があれば、歩きながらより自然な言葉に修正します。水が流れるように響きが整った最終的な文章を、元の場所に戻ってドキュメントに入力します。",
-          "zh": "如果在朗诵时发现发音绕口或节奏断裂的词组，在行走中修改为更加自然的词汇。回到座位，将如行云流水般优美的最终句子填入文档中。",
-          "es": "Si nota que se traba o que el ritmo se corta al hablar, cambie la palabra por una más sencilla mientras camina. Al volver a la mesa, escriba la frase con la fluidez lograda.",
-          "fr": "Si vous trébuchez sur un mot ou si le rythme achoppe, modifiez la phrase en marchant. De retour au bureau, écrivez la version fluide ainsi obtenue.",
-          "de": "Wenn Sie beim Aussprechen stolpern, ändern Sie die Formulierung im Gehen. Schreiben Sie den nun flüssigen Satz am Schreibtisch auf.",
-          "pt": "Se notar que gagueja ou o ritmo quebra ao falar, mude o termo por um mais simples enquanto caminha. Ao voltar para a mesa, digite a frase com a fluidez alcançada.",
-          "id": "Jika sebuah frasa menyebabkan kegagapan atau memotong ritme saat diucapkan, koreksi dengan kata yang lebih alami. Masukkan kalimat akhir ke dokumen."
+          "ko": "소리 내어 말할 때 발음이 꼬이거나 리듬이 끊기는 구절이 포착되면 걸으면서 더 자연스러운 단어로 교정합니다. 물 흐르듯 선율이 맞춰진 최종 문장을 제자리로 돌아와 문서에 채워 넣습니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "워즈워스의 여동생 도로시는 보행 작시법을 어떻게 기록했나요?",
-          "en": "How did Wordsworth's sister Dorothy record the walking composition method?",
-          "ja": "ワーズワースの妹ドロシーは、歩行作詩法についてどのように記録していますか？",
-          "zh": "华兹华斯的妹妹多萝西是如何记录这种步履作诗法的？",
-          "es": "¿Cómo describió Dorothy Wordsworth el método de composición al caminar?",
-          "fr": "Comment Dorothy Wordsworth a-t-elle décrit la méthode de création de son frère ?",
-          "de": "Wie beschrieb Dorothy Wordsworth das Dichten beim Gehen?",
-          "pt": "Como Dorothy Wordsworth descreveu o método de composição ao caminhar?",
-          "id": "Bagaimana saudara perempuan Wordsworth, Dorothy, mencatat metode komposisi berjalan?"
+          "ko": "워즈워스의 여동생 도로시는 보행 작시법을 어떻게 기록했나요?"
         },
         "answer": {
-          "ko": "그녀는 일기에서 '윌리엄은 오늘 아침 정원 산책로를 수백 번 왕복하며 시를 읊조렸다'며, 그의 보행 속도와 그가 암송하는 소리가 정확히 비례하여 변화했다고 생생하게 묘사했습니다.",
-          "en": "In her diary, she vividly described, 'William went back and forth on the garden path hundreds of times this morning, chanting poems,' and his walking speed and the sound of his recitation changed in exact proportion.",
-          "ja": "彼女は日記の中で「ウィリアムは今朝、庭の小道を何百回も往復しながら詩を朗唱していた」とし、彼の歩く速度と彼が暗唱する声のトーンが正確に比例して変化していたと生々しく描写しています。",
-          "zh": "她在日记中写道，“威廉今天清晨在花园小径上来回走了几百次，朗诵着诗歌”，并生动地描述了他的步行速度与他背诵的声音呈精确的比例变化。",
-          "es": "En sus diarios, anotó que su hermano caminaba de un lado a otro por el sendero del jardín cientos de veces al día murmurando versos, de modo que el compás de sus pasos y el tempo de su declamación variaban a la par.",
-          "fr": "Dans son journal, elle raconte que son frère faisait les cent pas dans le jardin des centaines de fois par jour en murmurant, le tempo de ses pas et de sa déclamation variant de concert.",
-          "de": "In ihrem Tagebuch berichtete sie, dass William morgens den Gartenweg Hunderte Male auf und ab ging, um Verse zu dichten, wobei Schritttempo und Sprechrhythmus genau übereinstimmten.",
-          "pt": "Em seus diários, anotou que seu irmão caminhava de um lado a outro no jardim centenas de vezes murmurando versos, variando o ritmo dos passos e a declamação em perfeita sintonia.",
-          "id": "Dalam buku hariannya, dia menulis, 'William bolak-balik di jalan taman ratusan kali pagi ini, melafalkan puisi,' dan kecepatan jalannya berubah secara proporsional."
+          "ko": "그녀는 일기에서 '윌리엄은 오늘 아침 정원 산책로를 수백 번 왕복하며 시를 읊조렸다'며, 그의 보행 속도와 그가 암송하는 소리가 정확히 비례하여 변화했다고 생생하게 묘사했습니다."
         }
       },
       {
         "question": {
-          "ko": "실내 러닝머신 위를 걸으면서 낭독해도 효과가 있나요?",
-          "en": "Is it effective to recite while walking on an indoor treadmill?",
-          "ja": "室内のランニングマシン（トレッドミル）の上を歩きながら朗読しても効果はありますか？",
-          "zh": "在室内跑步机上行走时朗读也有效果吗？",
-          "es": "¿Funciona igual de bien si declamo caminando sobre una cinta de correr en interior?",
-          "fr": "La méthode fonctionne-t-elle sur un tapis de course en intérieur ?",
-          "de": "Hat das Vorlesen auf dem Laufband denselben Effekt?",
-          "pt": "Funciona se eu declamar caminhando em uma esteira ergométrica?",
-          "id": "Apakah efektif melafalkan sambil berjalan di atas treadmill dalam ruangan?"
+          "ko": "실내 러닝머신 위를 걸으면서 낭독해도 효과가 있나요?"
         },
         "answer": {
-          "ko": "네, 핵심 생리적 작용은 보행에 의한 전신 순환 증가와 소뇌 활성화이기 때문에 러닝머신 위에서 천천히 걸으며 읊조려도 뇌파 동기화와 조음 피드백 효과는 동일하게 작동합니다.",
-          "en": "Yes, because the core physiological action is the increase in systemic circulation and activation of the cerebellum due to walking, reciting while walking slowly on a treadmill works with the same brainwave synchronization and articulatory feedback effects.",
-          "ja": "はい、中心となる生理的要素は歩行による全身の循環の向上と小脳の活性化であるため、ランニングマシンの上でゆっくり歩きながら声に出しても、脳波の同期と調音フィードバックの効果は同様に働きます。",
-          "zh": "有效果。因为核心的生理作用是步行引起的全身循环增加和小脑激活，因此在跑步机上慢速步行并朗读，也能同样产生脑波同步与发音反馈效果。",
-          "es": "Sí. Como el efecto neurofisiológico depende del aumento del flujo sanguíneo y la activación del cerebelo por el movimiento, caminar despacio en una cinta produce el mismo resultado de entonación y feedback.",
-          "fr": "Oui. L'effet reposant sur l'activation du cervelet par le mouvement, marcher lentement sur un tapis de course produit le même résultat de synchronisation cérébrale et de feedback.",
-          "de": "Ja, da der Effekt auf der Durchblutungssteigerung und der Aktivierung des Kleinhirns beruht. Auch das langsame Gehen auf dem Laufband führt zur Taktung des Leseflusses.",
-          "pt": "Sim. Como o efeito neurofisiológico depende da ativação do cerebelo pelo movimento, caminhar devagar em uma esteira produz o mesmo resultado de entonação e feedback.",
-          "id": "Ya, karena tindakan fisiologis intinya adalah peningkatan sirkulasi sistemik dan aktivasi otak kecil akibat berjalan, melafalkan sambil berjalan lambat di atas treadmill bekerja sama baiknya."
+          "ko": "네, 핵심 생리적 작용은 보행에 의한 전신 순환 증가와 소뇌 활성화이기 때문에 러닝머신 위에서 천천히 걸으며 읊조려도 뇌파 동기화와 조음 피드백 효과는 동일하게 작동합니다."
         }
       }
-    ],
-    "stepImages": [
-      "",
-      "",
-      ""
-    ],
-    "pubDate": "2026-02-06",
-    "updatedDate": "2026-02-06"
+    ]
   }
 }

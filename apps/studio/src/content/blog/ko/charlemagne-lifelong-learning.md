@@ -1,17 +1,25 @@
 ---
-formatVersion: 4
 title: "침대 머리맡의 필기판: 샤를마뉴의 수면 기억 통합 설계 루틴"
 description: "서유럽의 개척자 샤를마뉴 대제가 글쓰기를 배우기 위해 침대 머리맡에 필기판을 두었던 평생 공부 습관을 소개합니다. 수면 중 장기 기억 전환을 극대화하는 3단계 환경 설계법."
-pubDate: "2026-01-20"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
-heroImage: "/images/blog/charlemagne_lifelong_learning.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/charlemagne_lifelong_learning.png"
 app: "buildself"
-authority: "에인하르트의 평전 'Life of Charlemagne' 및 해마의 수면 기억 통합(Consolidation) 연구"
-updatedDate: "2026-01-20"
+formatVersion: 4
+authority: "Charlemagne Lifelong Learning 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+steps:
+  - name: "침실 머리맡 아날로그 필기도구 배치"
+    text: "침대에 눕기 전, 머리맡의 협탁이나 손이 닿는 선반 위에 스마트폰을 완전히 치우고 데일리 펜과 종이 메모지 1장만 배치해 접근 장벽을 소거합니다."
+  - name: "취침 전 핵심 1문장 요약 필사"
+    text: "잠자기 직전 2~3분 동안, 오늘 학습한 핵심 개념이나 내일 아침 가장 먼저 기억해야 할 우선 과제 1문장을 손글씨로 짧게 받아 적고 잠듭니다."
+  - name: "기상 직후 또는 야간 잠 깸 시의 복기"
+    text: "아침에 눈을 뜨자마자(혹은 밤에 잠시 깼을 때) 머리맡에 놓인 노트를 즉시 훑어보아 어제 적은 문장을 인출하며 뇌의 해마 장기기억 고정 회로를 최종 완성합니다."
 faqs:
   - question: "베개 밑에 종이를 두면 자는 동안 구겨지거나 펜이 망가지지 않나요?"
     answer: "현대적으로 실천할 때는 구겨지기 쉬운 일반 종이 대신 단단한 하드커버 미니 바인더를 협탁 위에 두거나, 클립이 달린 목재 메모 보드를 머리맡 선반에 고정하여 파손 리스크를 막고 동선만 최단으로 설계하는 방안을 권장합니다."
+
 ---
 
 "지식을 소유하는 것은 좋은 일이지만, 지식을 실천하는 것은 더 위대한 일이다." 👑
@@ -26,25 +34,25 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 황실 사관 에인하르트가 집필한 샤를마뉴 전기 사료 구절 및 현대 수면 뇌과학의 기억 공고화(Consolidation) 연구를 근거로 작성되었습니다.
+      본 콘텐츠는 <strong>Charlemagne Lifelong Learning 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 charlemagne-lifelong-learning 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 수면 중 장기기억 보존을 돕는 '기억 통합 효과'
+## 수면 중 장기기억 보존을 돕는 '기억 통합 효과'
 
-신경생리학적으로 낮 동안 습득한 정보는 뇌의 임시 보관소인 해마(Hippocampus)에 일차 저장됩니다. 이 정보가 영구 보존 지식으로 전환되려면 대뇌피질로 이동하는 기억 통합(Memory Consolidation) 단계를 거쳐야 하는데, 이 과정은 잠자는 동안 활성화되는 서파 수면(Slow-wave Sleep) 상태에서 최대로 가동됩니다.
-
-샤를마뉴처럼 수면 직전이나 수면 중에 단어 학습과 필기를 유도하면, 뇌는 방금 가공한 고농도의 인지 데이터를 수면 기제와 즉시 결합해 장기 기억 회로에 급속 아카이빙합니다. 침실 머리맡에 단어장을 두는 것은 이 자연적 기억 아카이브 엔진을 활용하는 가장 효율적인 인지과학적 장치입니다.
+신경생리학적으로 낮 동안 습득한 정보는 뇌의 임시 보관소인 해마(Hippocampus)에 일차 저장됩니다. 이 정보가 영구 보존 지식으로 전환되려면 대뇌피질로 이동하는 기억 통합(Memory Consolidation) 단계를 거쳐야 하는데, 이 과정은 잠자는 동안 활성화되는 서파 수면(Slow-wave Sleep) 상태에서 최대로 가동됩니다. 샤를마뉴처럼 수면 직전이나 수면 중에 단어 학습과 필기를 유도하면, 뇌는 방금 가공한 고농도의 인지 데이터를 수면 기제와 즉시 결합해 장기 기억 회로에 급속 아카이빙합니다. 침실 머리맡에 단어장을 두는 것은 이 자연적 기억 아카이브 엔진을 활용하는 가장 효율적인 인지과학적 장치입니다.
 
 ---
 
-## 2. 실천 방법
+## IT 디바이스 차단과 수면 품질 위생
+
+침대 주변을 스마트폰이나 기타 빛나는 IT 디바이스 단서와 혼합해 두면 밤 중 수면 유도 멜라토닌 분비가 억제되고 수면 장애를 겪을 수 있습니다. 침상 환경 설계는 오직 '블루라이트 차단 아날로그 지면'으로 제한되어야 합니다. 밤에 일어났을 때 전자기기 화면을 켜고 메모를 작성하는 대신, 부드러운 스탠드 라이트 아래 조용히 연필을 끄적이는 아날로그 룰을 엄수해야 뇌의 도파민 폭주를 유도하지 않고 숙면을 지킬 수 있습니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -62,7 +70,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">취침 전 핵심 1문장 요약 필사</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    잠자기 직전 -분 동안, 오늘 학습한 핵심 개념이나 내일 아침 가장 먼저 기억해야 할 우선 과제 1문장을 손글씨로 짧게 받아 적고 잠듭니다.
+    잠자기 직전 2~3분 동안, 오늘 학습한 핵심 개념이나 내일 아침 가장 먼저 기억해야 할 우선 과제 1문장을 손글씨로 짧게 받아 적고 잠듭니다.
   </p>
 </div>
 
@@ -76,25 +84,13 @@ faqs:
   </p>
 </div>
 
----
-
-## 3. IT 디바이스 차단과 수면 품질 위생
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      침대 주변을 스마트폰이나 기타 빛나는 IT 디바이스 단서와 혼합해 두면 밤 중 수면 유도 멜라토닌 분비가 억제되고 수면 장애를 겪을 수 있습니다. 침상 환경 설계는 오직 '블루라이트 차단 아날로그 지면'으로 제한되어야 합니다. 밤에 일어났을 때 전자기기 화면을 켜고 메모를 작성하는 대신, 부드러운 스탠드 라이트 아래 조용히 연필을 끄적이는 아날로그 룰을 엄수해야 뇌의 도파민 폭주를 유도하지 않고 숙면을 지킬 수 있습니다.
-    </p>
-  </div>
-</div>
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>베개 밑에 종이를 두면 자는 동안 구겨지거나 펜이 망가지지 않나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

@@ -1,218 +1,72 @@
 {
   "shakespeare": {
     "title": {
-      "en": "Shakespeare's listening routine that scrapes other people's language in the corner of the practice room",
-      "ko": "연습실 구석에서 타인의 언어를 스크랩한 셰익스피어의 경청 루틴",
-      "ja": "練習室の隅で他人の言葉をかき集めるシェイクスピアのリスニングルーチン",
-      "zh": "莎士比亚的听力例行公事，在练习室的角落里刮别人的语言",
-      "es": "La rutina de escucha de Shakespeare que raspa el lenguaje de otras personas en un rincón de la sala de práctica.",
-      "fr": "La routine d'écoute de Shakespeare qui gratte le langage des autres dans un coin de la salle de répétition",
-      "de": "Shakespeares Hörroutine, die in der Ecke des Übungsraums die Sprache anderer Leute abkratzt",
-      "pt": "A rotina auditiva de Shakespeare que raspa a linguagem de outras pessoas no canto da sala de prática",
-      "id": "Rutinitas mendengarkan Shakespeare yang menggoreskan bahasa orang lain di sudut ruang latihan"
+      "ko": "연습실 구석에서 타인의 언어를 스크랩한 셰익스피어의 경청 루틴"
     },
     "description": {
-      "en": "As the greatest playwright in the history of world literature, he recited every character's lines directly when writing, maximizing the emotional circuit of mirror neurons.",
-      "ko": "세계 문학사상 최고의 극작가로, 글을 쓸 때 모든 인물의 대사를 직접 입 밖으로 내뱉어 낭독하며 거울 뉴런의 감정 회로를 극대화했습니다.",
-      "ja": "世界文学史上最も偉大な劇作家である彼は、執筆時にすべての登場人物のセリフを直接暗唱し、ミラーニューロンの感情回路を最大限に活用しました。",
-      "zh": "作为世界文学史上最伟大的剧作家，他在写作时直接背诵每个人物的台词，最大化镜像神经元的情感回路。",
-      "es": "Como el mayor dramaturgo de la historia de la literatura mundial, recitó las líneas de cada personaje directamente al escribir, maximizando el circuito emocional de las neuronas espejo.",
-      "fr": "En tant que plus grand dramaturge de l'histoire de la littérature mondiale, il récitait les répliques de chaque personnage directement lors de l'écriture, maximisant ainsi le circuit émotionnel des neurones miroirs.",
-      "de": "Als größter Dramatiker in der Geschichte der Weltliteratur rezitierte er beim Schreiben die Zeilen jeder Figur direkt und maximierte so den emotionalen Schaltkreis der Spiegelneuronen.",
-      "pt": "Como o maior dramaturgo da história da literatura mundial, ele recitava as falas de cada personagem diretamente ao escrever, maximizando o circuito emocional dos neurônios-espelho.",
-      "id": "Sebagai penulis drama terhebat dalam sejarah sastra dunia, ia melafalkan setiap baris karakter secara langsung saat menulis, memaksimalkan sirkuit emosional neuron cermin."
+      "ko": "세계 문학사상 최고의 극작가로, 글을 쓸 때 모든 인물의 대사를 직접 입 밖으로 내뱉어 낭독하며 거울 뉴런의 감정 회로를 극대화했습니다."
     },
     "authority": {
-      "en": "Peter Ackroyd, *Shakespeare: The Biography* (2005) & Cognitive Neuroscientific Studies",
-      "ko": "Peter Ackroyd, *Shakespeare: The Biography* (2005)",
-      "ja": "ピーター・アクロイド、*シェイクスピア: 伝記* (2005) & 認知神経科学研究",
-      "zh": "Peter Ackroyd，*莎士比亚传记* (2005) 和认知神经科学研究",
-      "es": "Peter Ackroyd, *Shakespeare: La biografía* (2005) y estudios neurocientíficos cognitivos",
-      "fr": "Peter Ackroyd, *Shakespeare : The Biography* (2005) & Cognitive Neuroscientific Studies",
-      "de": "Peter Ackroyd, *Shakespeare: The Biography* (2005) & Cognitive Neuroscientific Studies",
-      "pt": "Peter Ackroyd, *Shakespeare: The Biography* (2005) & Cognitive Neuroscientific Studies",
-      "id": "Peter Ackroyd, *Shakespeare: The Biography* (2005) & Studi Ilmu Saraf Kognitif"
+      "ko": "Shakespeare 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "en": "William Shakespeare, the greatest playwright in human history and a great British writer who pioneered the horizons of English literature, created dramatic art with the sharpest and most three-dimensional insight into the abyss and contradictions of human nature, including “Hamlet” and “Macbeth.” He sat in the corner of the practice room behind the dark stage of the theater and wrote down the rhythm of the actors' intonations, the audience's real-time conversational slang, and facial expression changes depending on the situation in a pocket notebook in his coat pocket. He scraped the subtle linguistic patterns of love, jealousy, and anger that ordinary humans experience and transplanted them three-dimensionally into the lines in his tragedies and comedies. This routine of thoroughly imitating others and scraping language was the foundation for plays that have touched the hearts of mankind even 400 years later.\n\nToday on BuildSelf, we introduce the cognitive scientific principles of his habit of ‘sitting in the corner of the theater practice room and scraping the audience’s intonation and body language’ and a 3-step guide that modern people can easily practice in their daily lives.",
-      "ko": "인류 역사상 가장 위대한 희곡작가이자 영문학의 지평을 개척한 영국의 대문호로, 《햄릿》, 《맥베스》 등 인간 본성의 심연과 모순을 가장 날카롭고 입체적으로 통찰하여 극예술로 창조해 낸 윌리엄 셰익스피어. 그는 극장의 어두운 무대 뒤편 연습실 구석에 앉아 배우들의 억양 리듬과 관객들의 실시간 대화 속어, 그리고 상황별 표정 변화를 늘 외투 주머니 속 포켓 수첩에 적었습니다. 그는 평범한 인간 군상이 겪는 사랑, 질투, 분노의 미세한 언어 패턴을 그대로 스크랩하여 자신의 비극과 희극 속 대사에 입체적으로 이식했습니다. 이 철저한 타인 모방과 언어 스크랩 루틴은 400년이 지난 지금까지 인류의 심금을 울리는 희곡들을 낳은 밑거름이었습니다.\n\n오늘 BuildSelf에서는 그가 고수한 '극장 연습실 구석에 앉아 관객의 억양과 신체 언어 스크랩하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다.",
-      "ja": "この歴史的習慣の実践において： , 《》, 《》 . , . , , . 400 . この歴史的習慣の実践において： BuildSelf ' ' 3 .",
-      "zh": "在这一历史性惯例的实践中： , 《》, 《》 . , . , , . 400 . 在这一历史性惯例的实践中： BuildSelf ' ' 3 .",
-      "es": "William Shakespeare, el dramaturgo más importante de la historia de la humanidad y un gran escritor británico que fue pionero en los horizontes de la literatura inglesa, creó un arte dramático con la visión más aguda y tridimensional del abismo y las contradicciones de la naturaleza humana, incluidos \"Hamlet\" y \"Macbeth\". Se sentó en un rincón de la sala de ensayo detrás del escenario oscuro del teatro y anotó el ritmo de las entonaciones de los actores, la jerga conversacional del público en tiempo real y los cambios de expresión facial dependiendo de la situación en una libreta que llevaba en el bolsillo de su abrigo. Eliminó los sutiles patrones lingüísticos de amor, celos e ira que experimentan los humanos comunes y los trasplantó tridimensionalmente a las líneas de sus tragedias y comedias. Esta rutina de imitar minuciosamente a los demás y raspar el lenguaje fue la base de obras de teatro que han tocado los corazones de la humanidad incluso 400 años después.\n\nHoy en BuildSelf, presentamos los principios científicos cognitivos de su hábito de \"sentarse en un rincón de la sala de práctica de teatro y raspar la entonación y el lenguaje corporal del público\" y una guía de 3 pasos que la gente moderna puede practicar fácilmente en su vida diaria.",
-      "fr": "William Shakespeare, le plus grand dramaturge de l'histoire de l'humanité et un grand écrivain britannique qui a ouvert les horizons de la littérature anglaise, a créé un art dramatique avec la vision la plus précise et la plus tridimensionnelle de l'abîme et des contradictions de la nature humaine, notamment « Hamlet » et « Macbeth ». Il s'est assis dans un coin de la salle de répétition derrière la scène sombre du théâtre et a noté le rythme des intonations des acteurs, l'argot conversationnel du public en temps réel et les changements d'expression du visage en fonction de la situation dans un carnet de poche dans la poche de son manteau. Il a récupéré les schémas linguistiques subtils de l'amour, de la jalousie et de la colère que vivent les humains ordinaires et les a transplantés en trois dimensions dans les lignes de ses tragédies et comédies. Cette routine consistant à imiter minutieusement les autres et à gratter le langage a été à la base de pièces de théâtre qui ont touché le cœur de l'humanité même 400 ans plus tard.\n\nAujourd'hui sur BuildSelf, nous présentons les principes scientifiques cognitifs de son habitude de « s'asseoir dans un coin de la salle de répétition de théâtre et d'analyser l'intonation et le langage corporel du public » ainsi qu'un guide en 3 étapes que les gens modernes peuvent facilement mettre en pratique dans leur vie quotidienne.",
-      "de": "William Shakespeare, der größte Dramatiker der Menschheitsgeschichte und ein großer britischer Schriftsteller, der die Horizonte der englischen Literatur bahnte, schuf dramatische Kunst mit der schärfsten und dreidimensionalesten Einsicht in die Abgründe und Widersprüche der menschlichen Natur, darunter „Hamlet“ und „Macbeth“. Er saß in der Ecke des Übungsraums hinter der dunklen Bühne des Theaters und schrieb den Rhythmus der Intonationen der Schauspieler, den Echtzeit-Konversationsslang des Publikums und die Veränderungen des Gesichtsausdrucks je nach Situation in ein Notizbuch in seiner Manteltasche. Er kratzte die subtilen sprachlichen Muster von Liebe, Eifersucht und Wut, die gewöhnliche Menschen erleben, heraus und verpflanzte sie dreidimensional in die Zeilen seiner Tragödien und Komödien. Diese Routine, andere gründlich nachzuahmen und Sprache zu kratzen, war die Grundlage für Theaterstücke, die auch 400 Jahre später die Herzen der Menschheit berührten.\n\nHeute stellen wir auf BuildSelf die kognitionswissenschaftlichen Prinzipien seiner Angewohnheit vor, „in der Ecke des Theaterübungsraums zu sitzen und die Intonation und Körpersprache des Publikums abzutasten“, sowie einen dreistufigen Leitfaden, den moderne Menschen problemlos in ihrem täglichen Leben anwenden können.",
-      "pt": "William Shakespeare, o maior dramaturgo da história da humanidade e um grande escritor britânico que foi pioneiro nos horizontes da literatura inglesa, criou arte dramática com a visão mais nítida e tridimensional do abismo e das contradições da natureza humana, incluindo “Hamlet” e “Macbeth”. Ele sentou-se no canto da sala de prática atrás do palco escuro do teatro e anotou o ritmo das entonações dos atores, as gírias de conversação do público em tempo real e as mudanças de expressão facial dependendo da situação em um caderno no bolso do casaco. Ele eliminou os padrões linguísticos sutis de amor, ciúme e raiva que os humanos comuns experimentam e os transplantou tridimensionalmente nas falas de suas tragédias e comédias. Essa rotina de imitar completamente os outros e de usar a linguagem foi a base para peças que tocaram os corações da humanidade mesmo 400 anos depois.\n\nHoje, no BuildSelf, apresentamos os princípios científicos cognitivos de seu hábito de “sentar no canto da sala de prática teatral e raspar a entonação e a linguagem corporal do público” e um guia de três passos que as pessoas modernas podem praticar facilmente em suas vidas diárias.",
-      "id": "William Shakespeare, penulis drama terhebat dalam sejarah manusia dan penulis besar Inggris yang memelopori cakrawala sastra Inggris, menciptakan seni drama dengan wawasan paling tajam dan tiga dimensi ke dalam jurang dan kontradiksi sifat manusia, termasuk “Hamlet” dan “Macbeth.” Dia duduk di sudut ruang latihan di belakang panggung teater yang gelap dan menuliskan ritme intonasi para aktor, bahasa gaul percakapan penonton secara real-time, dan perubahan ekspresi wajah tergantung situasi di buku catatan saku di saku jasnya. Dia mengikis pola linguistik halus cinta, kecemburuan, dan kemarahan yang dialami manusia biasa dan mentransplantasikannya secara tiga dimensi ke dalam garis tragedi dan komedinya. Rutinitas meniru orang lain secara menyeluruh dan mengoceh bahasa adalah dasar dari drama yang telah menyentuh hati umat manusia bahkan 400 tahun kemudian.\n\nHari ini di BuildSelf, kami memperkenalkan prinsip ilmiah kognitif dari kebiasaannya 'duduk di sudut ruang latihan teater dan mengikis intonasi dan bahasa tubuh penonton' serta panduan 3 langkah yang dapat dengan mudah dipraktikkan oleh orang modern dalam kehidupan sehari-hari."
+      "ko": "인류 역사상 가장 위대한 희곡작가이자 영문학의 지평을 개척한 영국의 대문호로, 《햄릿》, 《맥베스》 등 인간 본성의 심연과 모순을 가장 날카롭고 입체적으로 통찰하여 극예술로 창조해 낸 윌리엄 셰익스피어. 그는 극장의 어두운 무대 뒤편 연습실 구석에 앉아 배우들의 억양 리듬과 관객들의 실시간 대화 속어, 그리고 상황별 표정 변화를 늘 외투 주머니 속 포켓 수첩에 적었습니다. 그는 평범한 인간 군상이 겪는 사랑, 질투, 분노의 미세한 언어 패턴을 그대로 스크랩하여 자신의 비극과 희극 속 대사에 입체적으로 이식했습니다. 이 철저한 타인 모방과 언어 스크랩 루틴은 400년이 지난 지금까지 인류의 심금을 울리는 희곡들을 낳은 밑거름이었습니다.\n\n오늘 포스트에서는 그가 고수한 '극장 연습실 구석에 앉아 관객의 억양과 신체 언어 스크랩하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다."
     },
     "whyTitle": {
-      "en": "Analysis of brain science principles that lead to success",
-      "ko": "성공을 자아내는 脳科学的 원리 분석",
-      "ja": "成功に導く脳科学原理の分析",
-      "zh": "分析导致成功的脑科学原理",
-      "es": "Análisis de los principios de las ciencias del cerebro que conducen al éxito.",
-      "fr": "Analyse des principes de la science du cerveau qui mènent au succès",
-      "de": "Analyse gehirnwissenschaftlicher Prinzipien, die zum Erfolg führen",
-      "pt": "Análise dos princípios da ciência do cérebro que levam ao sucesso",
-      "id": "Analisis prinsip-prinsip ilmu otak yang mengarah pada kesuksesan"
+      "ko": "성공을 자아내는 뇌과학적 원리 분석"
     },
     "whyDesc": {
-      "en": "The training of precisely tracking the language rhythm and emotional state of others and recording them in sentences and dialogue structures maximizes the connection between the language association area of ​​the cerebral cortex and mirror neurons. This operates as a powerful neuroscience mechanism that enhances cognitive attunement, negotiation and communication coordination skills that precisely decompose the cognitive intentions and context hidden behind the other person's actions.",
-      "ko": "타인의 언어 리듬과 감정 상태를 정밀하게 추적하여 문장과 대사 구조로 기록해내는 훈련은 대뇌 피질의 언어 연합 영역과 거울 뉴런(Mirror Neurons) 연계를 극대화로 자극합니다. 이는 상대방의 행동 뒤에 숨어 있는 인지적 의도와 맥락을 정밀하게 분해해내는 인지 동조율과 협상 및 커뮤니케이션 조율 능력을 고조시키는 강력한 脳科学的 메커니즘으로 작동합니다.",
-      "ja": "他者の言語リズムや感情状態を正確に追跡し、文章や対話構造に記録する訓練は、大脳皮質の言語連合野とミラーニューロンのつながりを最大限に高めます。これは、認知的同調、交渉、コミュニケーション調整スキルを強化する強力な神経科学メカニズムとして機能し、相手の行動の背後に隠された認知的意図と状況を正確に分解します。",
-      "zh": "精确追踪他人的语言节奏和情绪状态并记录在句子和对话结构中的训练，最大限度地提高了大脑皮层的语言关联区和镜像神经元之间的联系。这是一种强大的神经科学机制，可以增强认知协调、谈判和沟通协调技能，精确分解隐藏在他人行为背后的认知意图和背景。",
-      "es": "El entrenamiento para rastrear con precisión el ritmo del lenguaje y el estado emocional de los demás y registrarlos en oraciones y estructuras de diálogo maximiza la conexión entre el área de asociación del lenguaje de la corteza cerebral y las neuronas espejo. Esto opera como un poderoso mecanismo de neurociencia que mejora la sintonía cognitiva, las habilidades de negociación y coordinación de la comunicación que descomponen con precisión las intenciones cognitivas y el contexto oculto detrás de las acciones de la otra persona.",
-      "fr": "L'entraînement consistant à suivre avec précision le rythme du langage et l'état émotionnel des autres et à les enregistrer dans des phrases et des structures de dialogue maximise la connexion entre la zone d'association linguistique du cortex cérébral et les neurones miroirs. Cela fonctionne comme un puissant mécanisme neuroscientifique qui améliore les compétences d'harmonisation cognitive, de négociation et de coordination de la communication qui décomposent avec précision les intentions cognitives et le contexte cachés derrière les actions de l'autre personne.",
-      "de": "Das Training, den Sprachrhythmus und den emotionalen Zustand anderer genau zu verfolgen und in Sätzen und Dialogstrukturen festzuhalten, maximiert die Verbindung zwischen dem Sprachassoziationsbereich der Großhirnrinde und Spiegelneuronen. Dabei handelt es sich um einen leistungsstarken neurowissenschaftlichen Mechanismus, der die kognitive Abstimmung sowie die Verhandlungs- und Kommunikationskoordinationsfähigkeiten verbessert und die kognitiven Absichten und den Kontext, die sich hinter den Handlungen der anderen Person verbergen, präzise zerlegt.",
-      "pt": "O treinamento para rastrear com precisão o ritmo da linguagem e o estado emocional de outras pessoas e registrá-los em frases e estruturas de diálogo maximiza a conexão entre a área de associação linguística do córtex cerebral e os neurônios-espelho. Isto funciona como um poderoso mecanismo de neurociência que melhora a sintonia cognitiva, as habilidades de negociação e coordenação de comunicação que decompõem com precisão as intenções cognitivas e o contexto oculto por trás das ações da outra pessoa.",
-      "id": "Pelatihan yang secara tepat melacak ritme bahasa dan keadaan emosi orang lain dan mencatatnya dalam kalimat dan struktur dialog memaksimalkan hubungan antara area asosiasi bahasa di korteks serebral dan neuron cermin. Ini beroperasi sebagai mekanisme ilmu saraf yang kuat yang meningkatkan penyesuaian kognitif, negosiasi, dan keterampilan koordinasi komunikasi yang secara tepat menguraikan maksud kognitif dan konteks yang tersembunyi di balik tindakan orang lain."
+      "ko": "타인의 언어 리듬과 감정 상태를 정밀하게 추적하여 문장과 대사 구조로 기록해내는 훈련은 대뇌 피질의 언어 연합 영역과 거울 뉴런(Mirror Neurons) 연계를 극대화로 자극합니다. 이는 상대방의 행동 뒤에 숨어 있는 인지적 의도와 맥락을 정밀하게 분해해내는 인지 동조율과 협상 및 커뮤니케이션 조율 능력을 고조시키는 강력한 뇌과학적 메커니즘으로 작동합니다."
     },
     "cautionTitle": {
-      "en": "Behavioral science advice for successful settlement",
-      "ko": "성공적인 안착을 위한 행동과학 조언",
-      "ja": "解決を成功させるための行動科学的アドバイス",
-      "zh": "成功解决问题的行为科学建议",
-      "es": "Consejos de ciencias del comportamiento para un acuerdo exitoso",
-      "fr": "Conseils en sciences comportementales pour un établissement réussi",
-      "de": "Verhaltenswissenschaftliche Ratschläge für eine erfolgreiche Einigung",
-      "pt": "Conselhos de ciência comportamental para uma liquidação bem-sucedida",
-      "id": "Nasihat ilmu perilaku untuk penyelesaian yang sukses"
+      "ko": "성공적인 안착을 위한 행동과학 조언"
     },
     "cautionDesc": {
-      "en": "This is not an espionage activity that involves eavesdropping on the conversations of people around you. The key is to look cognitively at the universal patterns of human language expression and social feedback revealed in everyday life.",
-      "ko": "주변인의 대화를 엿듣는 첩보 활동이 아닙니다. 일상에서 드러나는 인간의 언어 표현과 사회적 피드백의 보편적 패턴을 인지과학적으로 응시하는 것이 핵심입니다.",
-      "ja": "これは周囲の人々の会話を盗聴するようなスパイ活動ではありません。重要なのは、日常生活の中で明らかにされる人間の言語表現と社会的フィードバックの普遍的なパターンを認知的に見ることです。",
-      "zh": "这不是涉及窃听周围人谈话的间谍活动。关键是要从认知角度看待日常生活中揭示的人类语言表达和社会反馈的普遍模式。",
-      "es": "Esta no es una actividad de espionaje que implique escuchar a escondidas las conversaciones de las personas que te rodean. La clave es observar cognitivamente los patrones universales de expresión del lenguaje humano y la retroalimentación social que se revelan en la vida cotidiana.",
-      "fr": "Il ne s'agit pas d'une activité d'espionnage qui consiste à écouter aux portes les conversations des personnes autour de vous. La clé est d’examiner de manière cognitive les modèles universels d’expression du langage humain et de rétroaction sociale révélés dans la vie quotidienne.",
-      "de": "Dies ist keine Spionageaktivität, bei der die Gespräche der Menschen in Ihrer Umgebung belauscht werden. Der Schlüssel liegt darin, die universellen Muster des menschlichen Sprachausdrucks und des sozialen Feedbacks, die sich im Alltag zeigen, kognitiv zu betrachten.",
-      "pt": "Esta não é uma atividade de espionagem que envolve escutar conversas de pessoas ao seu redor. A chave é observar cognitivamente os padrões universais de expressão da linguagem humana e o feedback social revelados na vida cotidiana.",
-      "id": "Ini bukan aktivitas spionase yang melibatkan penyadapan percakapan orang-orang di sekitar Anda. Kuncinya adalah melihat secara kognitif pola universal ekspresi bahasa manusia dan umpan balik sosial yang terungkap dalam kehidupan sehari-hari."
+      "ko": "주변인의 대화를 엿듣는 첩보 활동이 아닙니다. 일상에서 드러나는 인간의 언어 표현과 사회적 피드백의 보편적 패턴을 인지과학적으로 응시하는 것이 핵심입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Step 1: Setting up environment and tools",
-          "ko": "1단계: 환경 설정 및 도구 세팅",
-          "ja": "ステップ 1: 環境とツールのセットアップ",
-          "zh": "第1步：搭建环境和工具",
-          "es": "Paso 1: configurar el entorno y las herramientas",
-          "fr": "Étape 1 : Configuration de l'environnement et des outils",
-          "de": "Schritt 1: Umgebung und Tools einrichten",
-          "pt": "Etapa 1: configurar o ambiente e as ferramentas",
-          "id": "Langkah 1: Menyiapkan lingkungan dan alat"
+          "ko": "1단계: 환경 설정 및 도구 세팅"
         },
         "text": {
-          "en": "I spend a certain amount of time every day (on public transportation commuting to work, at a cafe, etc.) to listen carefully to the accents and three unique vocabulary choices in conversations between strangers. Focus only on textual information.",
-          "ko": "매일 일정한 시간(출퇴근 대중교통 안, 카페 등)을 활용해 낯선 이들이 나누는 대화의 억양이나 독특한 어휘 선택 3가지를 귀를 기울여 경청합니다. 텍스트 정보에만 집중합니다.",
-          "ja": "私は毎日一定の時間を費やして（通勤中の公共交通機関やカフェなど）、見知らぬ人同士の会話のアクセントや独特の語彙の 3 つの選択肢を注意深く聞いています。文字情報のみに注目してください。",
-          "zh": "我每天都会花一定的时间（在上下班的公共交通上、在咖啡馆等）仔细聆听陌生人之间谈话中的口音和三种独特的词汇选择。仅关注文本信息。",
-          "es": "Dedico una cierta cantidad de tiempo todos los días (en el transporte público al trabajo, en una cafetería, etc.) para escuchar atentamente los acentos y tres opciones únicas de vocabulario en conversaciones entre extraños. Concéntrese únicamente en la información textual.",
-          "fr": "Je passe un certain temps chaque jour (dans les transports en commun pour me rendre au travail, dans un café, etc.) à écouter attentivement les accents et trois choix de vocabulaire uniques dans les conversations entre inconnus. Concentrez-vous uniquement sur les informations textuelles.",
-          "de": "Ich verbringe jeden Tag eine gewisse Zeit (in öffentlichen Verkehrsmitteln auf dem Weg zur Arbeit, in einem Café usw.), um bei Gesprächen zwischen Fremden genau auf die Akzente und drei einzigartige Vokabeln zu achten. Konzentrieren Sie sich nur auf Textinformationen.",
-          "pt": "Passo um certo tempo todos os dias (no transporte público, indo para o trabalho, em um café, etc.) para ouvir atentamente os sotaques e três escolhas de vocabulário exclusivas em conversas entre estranhos. Concentre-se apenas em informações textuais.",
-          "id": "Saya menghabiskan sejumlah waktu setiap hari (di transportasi umum dalam perjalanan ke kantor, di kafe, dll.) untuk mendengarkan dengan cermat aksen dan tiga pilihan kosakata unik dalam percakapan antara orang asing. Fokus hanya pada informasi tekstual."
+          "ko": "매일 일정한 시간(출퇴근 대중교통 안, 카페 등)을 활용해 낯선 이들이 나누는 대화의 억양이나 독특한 어휘 선택 3가지를 귀를 기울여 경청합니다. 텍스트 정보에만 집중합니다."
         }
       },
       {
         "name": {
-          "en": "Step 2: Full sense projection and practice",
-          "ko": "2단계: 온전한 감각 투사와 실천",
-          "ja": "ステップ 2: 完全な感覚の投影と実践",
-          "zh": "第二步：全感官投射和练习",
-          "es": "Paso 2: Proyección y práctica de todos los sentidos.",
-          "fr": "Étape 2 : Projection et pratique du plein sens",
-          "de": "Schritt 2: Projektion und Übung des vollständigen Sinnes",
-          "pt": "Passo 2: Projeção e prática do sentido pleno",
-          "id": "Langkah 2: Proyeksi dan latihan indra penuh"
+          "ko": "2단계: 온전한 감각 투사와 실천"
         },
         "text": {
-          "en": "Mentally capture and summarize one characteristic of their body language, such as eye contact or hand gestures, that is evident when they are talking.",
-          "ko": "그들이 대화를 나눌 때 드러나는 시선 처리 방식이나 손동작 등 신체 언어의 특징 1가지를 마음속으로 포착해 요약합니다.",
-          "ja": "アイコンタクトや手のジェスチャーなど、会話中に明らかなボディランゲージの 1 つの特徴を頭の中で捉えて要約します。",
-          "zh": "精神上捕捉并总结他们说话时明显的肢体语言的一项特征，例如目光接触或手势。",
-          "es": "Capture y resuma mentalmente una característica de su lenguaje corporal, como el contacto visual o los gestos con las manos, que sea evidente cuando habla.",
-          "fr": "Capturez et résumez mentalement une caractéristique de leur langage corporel, comme le contact visuel ou les gestes de la main, qui est évidente lorsqu'ils parlent.",
-          "de": "Erfassen und fassen Sie im Geiste ein Merkmal ihrer Körpersprache zusammen, z. B. Augenkontakt oder Handgesten, das beim Sprechen deutlich wird.",
-          "pt": "Capture e resuma mentalmente uma característica de sua linguagem corporal, como contato visual ou gestos com as mãos, que fica evidente quando eles estão falando.",
-          "id": "Tangkap secara mental dan rangkum salah satu karakteristik bahasa tubuh mereka, seperti kontak mata atau gerakan tangan, yang terlihat saat mereka berbicara."
+          "ko": "그들이 대화를 나눌 때 드러나는 시선 처리 방식이나 손동작 등 신체 언어의 특징 1가지를 마음속으로 포착해 요약합니다."
         }
       },
       {
         "name": {
-          "en": "Step 3: Objective looking and meta-organizing",
-          "ko": "3단계: 객관적 응시 및 메타 정리",
-          "ja": "ステップ 3: 客観視とメタ整理",
-          "zh": "第三步：客观观察和元组织",
-          "es": "Paso 3: Mirada objetiva y metaorganización",
-          "fr": "Étape 3 : Recherche objective et méta-organisation",
-          "de": "Schritt 3: Objektives Schauen und Meta-Organisieren",
-          "pt": "Etapa 3: Visão objetiva e meta-organização",
-          "id": "Langkah 3: Mencari tujuan dan pengorganisasian meta"
+          "ko": "3단계: 객관적 응시 및 메타 정리"
         },
         "text": {
-          "en": "Based on the captured content, we conduct association training to metacognitively infer the business situation or emotional state that the person may be in for one minute.",
-          "ko": "포착한 내용들을 바탕으로 그 인물이 처해 있을 비즈니스 상황이나 정서 상태를 1분간 메타 인지적으로 유추해보는 연상 훈련을 합니다.",
-          "ja": "キャプチャしたコンテンツに基づいて、その人が1分間に置かれているビジネス状況や感情状態をメタ認知的に推測する連想トレーニングを実施します。",
-          "zh": "根据捕获的内容，我们进行关联训练，以元认知方式推断该人一分钟内可能处于的业务状况或情绪状态。",
-          "es": "Con base en el contenido capturado, llevamos a cabo un entrenamiento de asociación para inferir metacognitivamente la situación comercial o el estado emocional en el que puede encontrarse la persona durante un minuto.",
-          "fr": "Sur la base du contenu capturé, nous effectuons une formation d'association pour déduire de manière métacognitive la situation commerciale ou l'état émotionnel dans lequel la personne peut se trouver pendant une minute.",
-          "de": "Basierend auf den erfassten Inhalten führen wir ein Assoziationstraining durch, um metakognitiv auf die Geschäftssituation oder den emotionalen Zustand zu schließen, in dem sich die Person möglicherweise eine Minute lang befindet.",
-          "pt": "Com base no conteúdo capturado, realizamos treinamento de associação para inferir metacognitivamente a situação empresarial ou o estado emocional em que a pessoa pode se encontrar por um minuto.",
-          "id": "Berdasarkan konten yang diambil, kami melakukan pelatihan asosiasi untuk secara metakognitif menyimpulkan situasi bisnis atau keadaan emosional yang mungkin dialami orang tersebut selama satu menit."
+          "ko": "포착한 내용들을 바탕으로 그 인물이 처해 있을 비즈니스 상황이나 정서 상태를 1분간 메타 인지적으로 유추해보는 연상 훈련을 합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "en": "How do I practice this in an environment where I can't hear other people's conversations?",
-          "ko": "타인의 대화 소리가 잘 안 들리는 환경에서는 어떻게 실천하나요?",
-          "ja": "他の人の会話が聞こえない環境でこれを練習するにはどうすればよいですか?",
-          "zh": "在听不到别人谈话的环境中如何练习？",
-          "es": "¿Cómo practico esto en un entorno donde no puedo escuchar las conversaciones de otras personas?",
-          "fr": "Comment puis-je pratiquer cela dans un environnement où je ne peux pas entendre les conversations des autres ?",
-          "de": "Wie übe ich das in einer Umgebung, in der ich die Gespräche anderer Leute nicht hören kann?",
-          "pt": "Como pratico isso em um ambiente onde não consigo ouvir as conversas de outras pessoas?",
-          "id": "Bagaimana cara mempraktikkannya di lingkungan di mana saya tidak dapat mendengar percakapan orang lain?"
+          "ko": "타인의 대화 소리가 잘 안 들리는 환경에서는 어떻게 실천하나요?"
         },
         "answer": {
-          "en": "Using news reports or interview videos from cultural discussions, breaking down on paper the patterns of adverbs the presenter likes to use, the speed of the voice that speeds up when excited, etc., and scraping them down on paper is also an excellent language synchronization training.",
-          "ko": "뉴스 보도나 교양 토론 인터뷰 영상을 활용하여 발표자가 즐겨 쓰는 부사 패턴, 흥분했을 때 빨라지는 음성 템포 등을 쪼개어 종이에 스크랩하는 것도 훌륭한 언어 동조 훈련이 됩니다.",
-          "ja": "ニュースレポートや文化的な議論のインタビュービデオを使って、発表者が好んで使う副詞のパターンや、興奮すると速くなる声のスピードなどを紙に分解して書き出すことも、優れた言語同調トレーニングになります。",
-          "zh": "利用文化讨论中的新闻报道或采访视频，在纸上分解演讲者喜欢使用的副词模式、兴奋时加快的语速等，并在纸上刮下来，也是一种很好的语言同步训练。",
-          "es": "Usar informes de noticias o videos de entrevistas de debates culturales, desglosar en papel los patrones de adverbios que le gusta usar al presentador, la velocidad de la voz que se acelera cuando está emocionado, etc., y plasmarlos en papel también es un excelente entrenamiento de sincronización del lenguaje.",
-          "fr": "Utiliser des reportages d'actualité ou des vidéos d'interviews de discussions culturelles, décomposer sur papier les modèles d'adverbes que le présentateur aime utiliser, la vitesse de la voix qui s'accélère lorsqu'elle est excitée, etc., et les noter sur papier est également une excellente formation de synchronisation linguistique.",
-          "de": "Die Verwendung von Nachrichtenberichten oder Interviewvideos aus kulturellen Diskussionen, das Aufschlüsseln der Muster von Adverbien, die der Moderator gerne verwendet, auf dem Papier, die Geschwindigkeit der Stimme, die bei Erregung schneller wird usw., und das Niederschreiben dieser Muster auf Papier ist ebenfalls ein hervorragendes Sprachsynchronisationstraining.",
-          "pt": "Usar reportagens ou vídeos de entrevistas de discussões culturais, quebrar no papel os padrões de advérbios que o apresentador gosta de usar, a velocidade da voz que acelera quando está animado, etc., e raspá-los no papel também é um excelente treinamento de sincronização linguística.",
-          "id": "Menggunakan laporan berita atau video wawancara dari diskusi budaya, menguraikan di atas kertas pola kata keterangan yang suka digunakan presenter, kecepatan suara yang semakin cepat saat bersemangat, dll., dan menuliskannya di atas kertas juga merupakan pelatihan sinkronisasi bahasa yang sangat baik."
+          "ko": "뉴스 보도나 교양 토론 인터뷰 영상을 활용하여 발표자가 즐겨 쓰는 부사 패턴, 흥분했을 때 빨라지는 음성 템포 등을 쪼개어 종이에 스크랩하는 것도 훌륭한 언어 동조 훈련이 됩니다."
         }
       },
       {
         "question": {
-          "en": "Does this language scraping exercise translate to business negotiation or proposal writing?",
-          "ko": "이 언어 스크랩 훈련이 비즈니스 협상이나 제안서 작성에도 대입되나요?",
-          "ja": "この言語スクレイピングの練習は、商談や提案書の作成に応用できますか?",
-          "zh": "这种语言抓取练习是否可以转化为商务谈判或提案撰写？",
-          "es": "¿Este ejercicio de raspado de lenguaje se traduce en negociación comercial o redacción de propuestas?",
-          "fr": "Cet exercice de grattage linguistique se traduit-il par des négociations commerciales ou la rédaction de propositions ?",
-          "de": "Lässt sich diese Sprachübung auf Geschäftsverhandlungen oder das Verfassen von Vorschlägen übertragen?",
-          "pt": "Este exercício de raspagem de linguagem se traduz em negociação comercial ou redação de propostas?",
-          "id": "Apakah latihan pengikisan bahasa ini diterjemahkan ke dalam negosiasi bisnis atau penulisan proposal?"
+          "ko": "이 언어 스크랩 훈련이 비즈니스 협상이나 제안서 작성에도 대입되나요?"
         },
         "answer": {
-          "en": "Yes, you can achieve dramatic intimacy and high persuasiveness by scraping in your brain a vocabulary dictionary (lexical pattern) of the words that the other party mainly appeals to, so that you can coordinate your speech with the same vocabulary dictionary during negotiations.",
-          "ko": "네, 상대가 주로 호소하는 단어의 어휘 사전(어휘 패턴)을 내 뇌 속에 스크랩하여 협상 시 동일한 어휘 사전으로 조율해 발언할 수 있으므로 극적인 친밀감과 높은 설득력을 획득할 수 있습니다.",
-          "ja": "そう、相手が主に訴えている言葉の語彙辞書（語彙パターン）を脳内に刻み込み、交渉中に同じ語彙辞書に合わせて話すことで、劇的な親密さと高い説得力を得ることができるのです。",
-          "zh": "是的，你可以通过在大脑中刮取对方主要诉求的词语的词汇词典（词汇模式）来获得戏剧性的亲密感和高度的说服力，以便你在谈判时可以将自己的讲话与同一本词汇词典相协调。",
-          "es": "Sí, puede lograr una intimidad dramática y una alta persuasión al crear en su cerebro un diccionario de vocabulario (patrón léxico) de las palabras a las que la otra parte recurre principalmente, de modo que pueda coordinar su discurso con el mismo diccionario de vocabulario durante las negociaciones.",
-          "fr": "Oui, vous pouvez atteindre une intimité dramatique et un pouvoir de persuasion élevé en gravant dans votre cerveau un dictionnaire de vocabulaire (modèle lexical) des mots auxquels l'autre partie fait principalement appel, afin que vous puissiez coordonner votre discours avec le même dictionnaire de vocabulaire pendant les négociations.",
-          "de": "Ja, Sie können eine dramatische Intimität und eine hohe Überzeugungskraft erreichen, indem Sie in Ihrem Gehirn ein Vokabularwörterbuch (lexikalisches Muster) der Wörter erstellen, die die andere Partei hauptsächlich anspricht, sodass Sie Ihre Rede während der Verhandlungen mit demselben Vokabelwörterbuch koordinieren können.",
-          "pt": "Sim, você pode alcançar uma intimidade dramática e alta persuasão gravando em seu cérebro um dicionário de vocabulário (padrão lexical) das palavras às quais a outra parte recorre principalmente, para que você possa coordenar seu discurso com o mesmo dicionário de vocabulário durante as negociações.",
-          "id": "Ya, Anda dapat mencapai keintiman yang dramatis dan daya persuasif yang tinggi dengan mengumpulkan kamus kosakata (pola leksikal) dari kata-kata yang paling disukai pihak lain di otak Anda, sehingga Anda dapat mengoordinasikan ucapan Anda dengan kamus kosakata yang sama selama negosiasi."
+          "ko": "네, 상대가 주로 호소하는 단어의 어휘 사전(어휘 패턴)을 내 뇌 속에 스크랩하여 협상 시 동일한 어휘 사전으로 조율해 발언할 수 있으므로 극적인 친밀감과 높은 설득력을 획득할 수 있습니다."
         }
       }
-    ],
-    "pubDate": "2026-05-25",
-    "updatedDate": "2026-05-25"
+    ]
   }
 }

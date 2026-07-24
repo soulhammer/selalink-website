@@ -1,218 +1,72 @@
 {
   "oppenheimer-poetry-balance": {
     "title": {
-      "ko": "양자물리학자의 스트레스 해소법? 로버트 오펜하이머의 야간 시 독서 루틴",
-      "en": "Quantum Physicist's Stress Relief? J. Robert Oppenheimer's Night Poetry Routine",
-      "ja": "量子物理学者のストレス解消法？オッペンハイマーの夜の詩読書ルーティン",
-      "zh": "量子物理学家的解压秘诀？奥本海默的夜间诗歌阅读习惯",
-      "es": "¿El alivio de estrés de un físico cuántico? La rutina nocturna de poesía de Oppenheimer",
-      "fr": "Le soulagement du stress d'un physicien ? La routine nocturne de poésie d'Oppenheimer",
-      "de": "Die Stressbewältigung eines Quantenphysikers? Oppenheimers nächtliche Lyrik-Routine",
-      "pt": "O alívio de estresse de um físico quântico? A rotina noturna de poesia de Oppenheimer",
-      "id": "Cara Relaksasi Fisikawan Kuantum? Rutinitas Membaca Puisi Malam Oppenheimer"
+      "ko": "양자물리학자의 스트레스 해소법? 로버트 오펜하이머의 야간 시 독서 루틴"
     },
     "description": {
-      "ko": "맨해튼 프로젝트의 수장 오펜하이머. 극심한 중압감 속에서 산스크리트어 고전시를 읽으며 뇌의 균형을 찾은 인지 이완 루틴과 실천법.",
-      "en": "Discover how Oppenheimer relieved extreme pressure by reading Sanskrit poetry to balance his brain.",
-      "ja": "極度の重圧の中でサンスクリットの古典詩を読み、脳のバランスを保ったオッペンハイマーのリセット法。",
-      "zh": "介绍奥本海默在极大压力下通过阅读梵文古典诗歌保持大脑平衡的认知放松习惯。",
-      "es": "Descubra cómo Oppenheimer aliviaba la presión leyendo poesía en sánscrito para equilibrar su cerebro.",
-      "fr": "Découvrez comment Oppenheimer soulageait la pression en lisant de la poésie pour équilibrer son cerveau.",
-      "de": "Erfahren Sie, wie Oppenheimer extremen Druck durch das Lesen von Poesie ausgleich.",
-      "pt": "Descubra como Oppenheimer aliviava a pressão lendo poesia em sânscrito para equilibrar a mente.",
-      "id": "Temukan cara Oppenheimer meredakan tekanan ekstrem dengan membaca puisi Sanskerta."
+      "ko": "맨해튼 프로젝트의 수장 오펜하이머. 극심한 중압감 속에서 산스크리트어 고전시를 읽으며 뇌의 균형을 찾은 인지 이완 루틴과 실천법."
     },
     "authority": {
-      "ko": "전기 'American Prometheus' 및 미 의회도서관 사료",
-      "en": "Biography 'American Prometheus' & Library of Congress Archives",
-      "ja": "評伝「American Prometheus」および米議会図書館史料",
-      "zh": "传记《American Prometheus》与美国国会图书馆史料",
-      "es": "Biografía 'American Prometheus' y archivos de la Biblioteca del Congreso",
-      "fr": "Biographie 'American Prometheus' & archives de la Bibliothèque du Congrès",
-      "de": "Biografie 'American Prometheus' & Archive der Library of Congress",
-      "pt": "Biografia 'American Prometheus' e arquivos da Biblioteca do Congresso",
-      "id": "Biografi 'American Prometheus' & Arsip Library of Congress"
+      "ko": "로버트 오펜하이머 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "맨해튼 프로젝트를 이끌며 세상을 바꾼 이론 물리학자, J. 로버트 오펜하이머. 인류 역사의 거대한 기로에서 오는 극심한 중압감과 스트레스를 그는 어떻게 이겨냈을까요? 📜\n\n오펜하이머는 밤이 되면 치열한 물리학 방정식 연구를 멈추고 고전 시집이나 산스크리트어 시를 직접 원어로 읽었습니다. 수치적 계산과 이론물리학의 고도의 좌뇌 집착에서 벗어나 시적 아날로그 언어에 몰입하는 시간은 그에게 가장 완벽한 '인지적 균형 스위치'였습니다.\n\n오늘 BuildSelf에서는 오펜하이머의 야간 시 독서 루틴과 뇌 이완의 과학을 소개합니다.",
-      "en": "J. Robert Oppenheimer, the theoretical physicist who led the Manhattan Project. How did he handle extreme pressure? 📜\n\nEvery night, Oppenheimer stepped away from complex physics equations and read Sanskrit poetry in its original language. Immersing himself in poetic analog language served as his ultimate 'cognitive balance switch'.\n\nToday, BuildSelf introduces Oppenheimer's poetry routine.",
-      "ja": "この歴史的習慣の実践において： , J. . ? 📜 この歴史的習慣の実践において： . ' '. この歴史的習慣の実践において： BuildSelf .",
-      "zh": "在这一历史性惯例的实践中： , J. . ? 📜 在这一历史性惯例的实践中： . ' '. 在这一历史性惯例的实践中： BuildSelf .",
-      "es": "Esta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.\n\nEsta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.\n\nEsta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.\n\nCette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.\n\nCette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und reduziert geistige Ermüdung.\n\nDiese wesentliche tägliche Praxis fördert tiefen Fokus und reduziert geistige Ermüdung.\n\nDiese wesentliche tägliche Praxis fördert tiefen Fokus und reduziert geistige Ermüdung.",
-      "pt": "Esta prática diária essencial estimula um foco profundo e reduz a fadiga cognitiva.\n\nEsta prática diária essencial estimula um foco profundo e reduz a fadiga cognitiva.\n\nEsta prática diária essencial estimula um foco profundo e reduz a fadiga cognitiva.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan mengurangi kelelahan kognitif.\n\nPraktik harian esensial ini mendorong fokus mendalam dan mengurangi kelelahan kognitif.\n\nPraktik harian esensial ini mendorong fokus mendalam dan mengurangi kelelahan kognitif."
+      "ko": "맨해튼 프로젝트를 이끌며 세상을 바꾼 이론 물리학자, J. 로버트 오펜하이머. 인류 역사의 거대한 기로에서 오는 극심한 중압감과 스트레스를 그는 어떻게 이겨냈을까요? 📜\n\n오펜하이머는 밤이 되면 치열한 물리학 방정식 연구를 멈추고 고전 시집이나 산스크리트어 시를 직접 원어로 읽었습니다. 수치적 계산과 이론물리학의 고도의 좌뇌 집착에서 벗어나 시적 아날로그 언어에 몰입하는 시간은 그에게 가장 완벽한 '인지적 균형 스위치'였습니다.\n\n오늘 포스트에서는 오펜하이머의 야간 시 독서 루틴과 뇌 이완의 과학을 소개합니다."
     },
     "whyTitle": {
-      "ko": "치열한 수리 인지 후 우뇌 감성 회로를 깨우는 이질적 전환",
-      "en": "Heterogeneous Shift Awaking Right-Brain Emotional Circuits",
-      "ja": "過酷な数理認知の後に右脳の感性回路を呼び覚ます異質切り替え",
-      "zh": "激烈的数理认知后唤醒右脑感性回路的异质转移",
-      "es": "Cambio Heterogéneo para Activar Circuitos Emocionales del Cerebro",
-      "fr": "Basculement Hétérogène Éveillant les Circuits Émotionnels",
-      "de": "Heterogener Wechsel zur Aktivierung emotionaler Gehirnschaltkreise",
-      "pt": "Mudança Heterogênea Ativando Circuitos Emocionais da Mente",
-      "id": "Pergeseran Heterogen Membangkitkan Sirkuit Emosional Otak"
+      "ko": "치열한 수리 인지 후 우뇌 감성 회로를 깨우는 이질적 전환"
     },
     "whyDesc": {
-      "ko": "숫자와 알고리즘에 오랫동안 노출되면 좌뇌의 과부하로 인지 유연성이 크게 저하됩니다.\n\n오펜하이머처럼 완전히 다른 성격의 문학이나 시를 읽으면 뇌는 <strong>'이질적 인지 전환'</strong>을 경험합니다. 수리 피질의 과부하가 멈추고 우뇌 감성 피질이 활성화되면서 스트레스 호르몬 수치가 낮아집니다.",
-      "en": "Prolonged exposure to numbers degrades cognitive flexibility due to left-brain overload.\n\nReading poetry triggers a <strong>'heterogeneous cognitive shift'</strong>, relaxing mathematical cortex overload and lowering stress hormones.",
-      "ja": "数字や数式への長時間露出は、左脳の過負荷を引き起こします。\n\n詩を読むことは<strong>「異質的認知の切り替え」</strong>を引き起こし、脳のストレスを軽減します。",
-      "zh": "长时间接触数字会导致左脑超载、降低认知灵活性。\n\n阅读诗歌能引发<strong>“异质认知转移”</strong>，缓解数理皮层超载并降低压力。",
-      "es": "La exposición a números degrada la flexibilidad cognitiva por sobrecarga del cerebro izquierdo.\n\nLeer poesía desencadena un <strong>'cambio cognitivo heterogéneo'</strong> que alivia la sobrecarga.",
-      "fr": "L'exposition prolongée aux chiffres dégrade la flexibilité cognitive.\n\nLire de la poésie déclenche un <strong>'basculement cognitif hétérogène'</strong> soulageant la surcharge.",
-      "de": "Dauerhafte Beschäftigung mit Zahlen führt zu kognitiver Überlastung.\n\nDas Lesen von Poesie löst einen <strong>'heterogenen kognitiven Wechsel'</strong> aus.",
-      "pt": "A exposição prolongada a números degrada a flexibilidade mental.\n\nLer poesia dispara uma <strong>'mudança cognitiva heterogênea'</strong> que alivia a sobrecarga.",
-      "id": "Paparan terus-menerus pada angka merusak fleksibilitas kognitif.\n\nMembaca puisi memicu <strong>'pergeseran kognitif heterogen'</strong> yang meredakan stres."
+      "ko": "숫자와 알고리즘에 오랫동안 노출되면 좌뇌의 과부하로 인지 유연성이 크게 저하됩니다.\n\n오펜하이머처럼 완전히 다른 성격의 문학이나 시를 읽으면 뇌는 <strong>'이질적 인지 전환'</strong>을 경험합니다. 수리 피질의 과부하가 멈추고 우뇌 감성 피질이 활성화되면서 스트레스 호르몬 수치가 낮아집니다."
     },
     "cautionTitle": {
-      "ko": "분석하려 하지 말고 문장의 시적 감성에 몸을 맡기세요",
-      "en": "Do not analyze; let yourself drift in poetic rhythm",
-      "ja": "分析しようとせず、詩的な感性に身を委ねましょう",
-      "zh": "切勿试图分析，全身心融入诗意韵律",
-      "es": "No intente analizar; déjese llevar por el ritmo poético",
-      "fr": "N'analysez pas ; laissez-vous porter par le rythme poétique",
-      "de": "Analysieren Sie nicht; lassen Sie sich vom Rhythmus tragen",
-      "pt": "Não tente analisar; deixe-se levar pelo ritmo poético",
-      "id": "Jangan menganalisis; biarkan diri Anda larut dalam irama puitis"
+      "ko": "분석하려 하지 말고 문장의 시적 감성에 몸을 맡기세요"
     },
     "cautionDesc": {
-      "ko": "문장의 문법이나 논리를 분석하려 들면 뇌는 다시 분석 모드로 들어갑니다. 이미지와 운율을 조용히 느껴보세요.",
-      "en": "Trying to analyze grammar or logic puts the brain back into analytical mode. Simply feel the images and rhythm.",
-      "ja": "文法や論理を分析しようとすると脳は再び分析モードに入ります。イメージと韻律を感じてみてください。",
-      "zh": "如果试图分析语法或逻辑，大脑会再次进入分析模式。安静感受意象与韵律即可。",
-      "es": "Intentar analizar la lógica vuelve a activar el modo analítico. Simplemente sienta las imágenes.",
-      "fr": "Chercher à analyser la logique réactive le mode analytique. Ressentez simplement les images.",
-      "de": "Der Versuch, Logik zu analysieren, aktiviert den Analysemodus erneut. Fühlen Sie einfach die Bilder.",
-      "pt": "Tentar analisar a lógica reativa o modo analítico. Apenas sinta as imagens e o ritmo.",
-      "id": "Mencoba menganalisis logika mengembalikan otak ke mode analitis. Cukup rasakan gambaran dan iramanya."
+      "ko": "문장의 문법이나 논리를 분석하려 들면 뇌는 다시 분석 모드로 들어갑니다. 이미지와 운율을 조용히 느껴보세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "수리/업무 장비 전원 끄기",
-          "en": "Power Off Work Devices",
-          "ja": "作業機器の電源オフ",
-          "zh": "关闭工作设备",
-          "es": "Apagar Dispositivos de Trabajo",
-          "fr": "Éteindre les Équipements de Travail",
-          "de": "Arbeitsgeräte ausschalten",
-          "pt": "Desligar Dispositivos de Trabalho",
-          "id": "Matikan Perangkat Kerja"
+          "ko": "수리/업무 장비 전원 끄기"
         },
         "text": {
-          "ko": "저녁 업무 완료 후 모니터와 엑셀, 수치 서류를 치우고 책상 환경을 전환합니다.",
-          "en": "After evening work, clear away monitors and spreadsheets to shift your space.",
-          "ja": "作業終了後、モニターや書類を片付けデスク環境を切り替えます。",
-          "zh": "晚间工作结束后，收起显示器与表格，切换书桌环境。",
-          "es": "Tras el trabajo, retire monitores y hojas de cálculo para cambiar el espacio.",
-          "fr": "Après le travail, rangez les écrans et documents pour changer d'espace.",
-          "de": "Räumen Sie nach der Arbeit Bildschirme und Unterlagen weg.",
-          "pt": "Após o trabalho, limpe monitores e documentos para mudar o espaço.",
-          "id": "Setelah bekerja, rapikan layar dan dokumen untuk mengubah suasana."
+          "ko": "저녁 업무 완료 후 모니터와 엑셀, 수치 서류를 치우고 책상 환경을 전환합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
         }
       },
       {
         "name": {
-          "ko": "15분간의 시/고전 문학 음미 독서",
-          "en": "15-Minute Poetic/Classic Reading",
-          "ja": "15分間の詩・古典文学の読書",
-          "zh": "15分钟诗歌/古典文学品读",
-          "es": "15 Minutos de Lectura Poética",
-          "fr": "15 Min de Lecture Poétique",
-          "de": "15-minütiges Lesen von Poesie",
-          "pt": "15 Minutos de Leitura Poética",
-          "id": "15 Menit Membaca Puisi/Sastra Klasik"
+          "ko": "15분간의 시/고전 문학 음미 독서"
         },
         "text": {
-          "ko": "시집이나 서정적 문학 책을 펴고 천천히 속으로 읊조리듯 한 문장씩 독서합니다.",
-          "en": "Open a poetry book and read sentence by sentence slowly as if reciting in your mind.",
-          "ja": "詩集を開き、ゆっくり心の中でつぶやくように1文ずつ読み進めます。",
-          "zh": "翻开诗集，慢条斯理、在心中朗诵般逐句阅读。",
-          "es": "Abra un libro de poesía y lea oración por oración lentamente.",
-          "fr": "Ouvrez un recueil de poésie et lisez lentement phrase par phrase.",
-          "de": "Öffnen Sie ein Gedichtbuch und lesen Sie langsam Satz für Satz.",
-          "pt": "Abra um livro de poesia e leia frase por frase lentamente.",
-          "id": "Buka buku puisi dan baca kalimat demi kalimat secara perlahan."
+          "ko": "시집이나 서정적 문학 책을 펴고 천천히 속으로 읊조리듯 한 문장씩 독서합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
         }
       },
       {
         "name": {
-          "ko": "여운 느끼기와 조용한 침상 이완",
-          "en": "Feeling Reverberation & Bedtime Relaxation",
-          "ja": "余韻の味わいとベッドタイムのリラックス",
-          "zh": "品味余韵与安静入睡",
-          "es": "Sensación de Resonancia y Relajación Nocturna",
-          "fr": "Ressenti des Échos & Relaxation au Lit",
-          "de": "Nachklang spüren & Nachruhe",
-          "pt": "Sentir a Ressonância e Relaxar para Dormir",
-          "id": "Merasakan Resonansi & Relaksasi Tidur"
+          "ko": "여운 느끼기와 조용한 침상 이완"
         },
         "text": {
-          "ko": "책을 덮은 뒤 마음에 남는 한 구절의 이미지를 떠올리며 편안하게 편안한 수면 상태로 넘어갑니다.",
-          "en": "After closing the book, recall a memorable image and transition into sleep comfortably.",
-          "ja": "本を閉じた後、心に残ったフレーズのイメージを思い浮かべながら眠りに入ります。",
-          "zh": "合上书本后，回味令你印象深刻的一句意象，轻松步入梦乡。",
-          "es": "Al cerrar el libro, recuerde una imagen memorable y pase al sueño cómodamente.",
-          "fr": "Après avoir fermé le livre, remémorez-vous une phrase et endormez-vous.",
-          "de": "Rufen Sie sich nach dem Schließen des Buches ein Bild in Erinnerung und schlafen Sie ein.",
-          "pt": "Ao fechar o livro, lembre-se de uma frase marcante e vá dormir com tranquilidade.",
-          "id": "Setelah menutup buku, ingat kembali gambaran yang berkesan dan tidurlah dengan tenang."
+          "ko": "책을 덮은 뒤 마음에 남는 한 구절의 이미지를 떠올리며 편안하게 편안한 수면 상태로 넘어갑니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "시 대신 소설이나 에세이를 읽어도 똑같은 효과가 있나요?",
-          "en": "Does reading novels or essays have the same effect as poetry?",
-          "ja": "詩の代わりに小説やエッセイを読んでも同じ効果がありますか？",
-          "zh": "用小说或随笔替代诗歌也有同样的效果吗？",
-          "es": "¿Leer novelas o ensayos tiene el mismo efecto?",
-          "fr": "Lire des romans ou essais a-t-il le même effet ?",
-          "de": "Hat das Lesen von Romanen denselben Effekt?",
-          "pt": "Ler romances ou ensaios tem o mesmo efeito?",
-          "id": "Apakah membaca novel atau esai memiliki efek yang sama?"
+          "ko": "시 대신 소설이나 에세이를 읽어도 똑같은 효과가 있나요?"
         },
         "answer": {
-          "ko": "네, 줄거리에 치우친 긴 소설보다는 서정성이 강한 짧은 단편이나 시, 에세이가 수치 인지 피로를 이완시키는 데 훨씬 효과적입니다.",
-          "en": "Yes, short lyrical poems or essays work much better for releasing numerical fatigue than long plot-heavy novels.",
-          "ja": "はい、ストーリーを追う長編より、情緒豊かな短い詩やエッセイの方が効果的です。",
-          "zh": "是的，比起情节复杂的长篇小说，抒情色彩浓厚的短诗或随笔在缓解数理疲劳方面要有效得多。",
-          "es": "Sí, las poesías cortas o ensayos líricos funcionan mejor que las novelas largas.",
-          "fr": "Oui, la poésie courte ou les essais lyriques fonctionnent mieux que de longs romans.",
-          "de": "Ja, kurze lyrische Gedichte wirken besser als lange Romane mit komplexer Handlung.",
-          "pt": "Sim, poesias curtas ou ensaios líricos funcionam melhor do que romances longos.",
-          "id": "Ya, puisi pendek atau esai lirik bekerja jauh lebih baik daripada novel panjang."
+          "ko": "네, 줄거리에 치우친 긴 소설보다는 서정성이 강한 짧은 단편이나 시, 에세이가 수치 인지 피로를 이완시키는 데 훨씬 효과적입니다."
         }
       },
       {
         "question": {
-          "ko": "전자책(e-book)으로 읽는 것도 상관없나요?",
-          "en": "Is reading on an e-book reader fine?",
-          "ja": "電子書籍で読んでも問題ありませんか？",
-          "zh": "用电子书阅读也可以吗？",
-          "es": "¿Está bien leer en un libro electrónico?",
-          "fr": "Est-ce bon de lire sur liseuse ?",
-          "de": "Ist das Lesen auf einem E-Reader in Ordnung?",
-          "pt": "Tudo bem ler em um e-reader?",
-          "id": "Bolehkah membaca di e-book reader?"
+          "ko": "전자책(e-book)으로 읽는 것도 상관없나요?"
         },
         "answer": {
-          "ko": "종이책이 가장 좋지만, 프론트라이트 타입의 전자잉크 리더기라면 수면 방해 블루라이트가 적어 활용해도 좋습니다.",
-          "en": "Paper books are best, but front-lit e-ink readers are good alternatives as they emit less blue light.",
-          "ja": "紙の本がベストですが、ブルーライトの少ないE-inkリーダーであれば活用しても良いでしょう。",
-          "zh": "纸质书最好，但如果是发光柔和的电子墨水屏阅读器，蓝光较少也可以使用。",
-          "es": "Los libros de papel son mejores, pero los lectores de tinta electrónica con luz frontal son buenas alternativas.",
-          "fr": "Le papier est idéal, mais une liseuse à encre électronique convient très bien.",
-          "de": "Papierbücher sind am besten, aber E-Ink-Reader sind gute Alternativen.",
-          "pt": "Livros em papel são melhores, mas e-readers de tinta eletrônica são boas alternativas.",
-          "id": "Buku kertas paling baik, namun e-ink reader juga merupakan alternatif yang bagus."
+          "ko": "종이책이 가장 좋지만, 프론트라이트 타입의 전자잉크 리더기라면 수면 방해 블루라이트가 적어 활용해도 좋습니다."
         }
       }
-    ],
-    "pubDate": "2026-03-08",
-    "updatedDate": "2026-03-08"
+    ]
   }
 }

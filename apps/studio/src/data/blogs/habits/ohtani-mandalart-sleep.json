@@ -1,190 +1,62 @@
 {
   "ohtani-mandalart-sleep": {
     "title": {
-      "ko": "목표의 시각화와 깊은 휴식: 오타니의 만다라트와 10시간 수면",
-      "en": "Goal Visualization and Deep Rest: Ohtani's Mandalart and 10-Hour Sleep",
-      "ja": "目標の視覚化と深い休息：大谷のマンダラートと10時間睡眠",
-      "zh": "目标可视化与深层休息：大谷的曼达拉特与10小时睡眠",
-      "es": "Visualización de objetivos y descanso profundo: El Mandalart de Ohtani y el sueño de 10 horas",
-      "fr": "Visualisation des objectifs et repos profond : Le Mandalart d'Ohtani et le sommeil de 10 heures",
-      "de": "Zielvisualisierung und tiefe Erholung: Ohtanis Mandalart und 10-Stunden-Schlaf",
-      "pt": "Visualização de objetivos e descanso profundo: O Mandalart de Ohtani e o sono de 10 horas",
-      "id": "Visualisasi Target dan Istirahat Mendalam: Mandalart dan Tidur 10 Jam Ohtani"
+      "ko": "목표의 시각화와 깊은 휴식: 오타니의 만다라트와 10시간 수면"
     },
     "description": {
-      "ko": "현대 야구의 역사를 새로 쓰는 오타니 쇼헤이. 그가 고교 시절 직접 짰던 81칸 만다라트 계획 기법과 신체 회복을 극대화하기 위한 하루 10시간 수면 루틴의 신경과학적 메커니즘을 밝힙니다.",
-      "en": "Shohei Ohtani, rewriting the history of baseball. Explore the neurological mechanisms of the 81-grid Mandalart planning technique he designed in high school and his 10-hour recovery sleep routine.",
-      "ja": "現代野球の歴史を塗り替える大谷翔平。彼が高校時代に自ら設計した81マスのマンダラート計画法と、身体の回復を極大化するための1日10時間睡眠ルーティンの神経科学的メカニズムを明らかにします。",
-      "zh": "书写现代棒球历史的大谷翔平。揭示他高中时期亲自制定的81格曼达拉特计划法以及旨在最大程度实现身体恢复的每天10小时睡眠规程的神经科学机制。",
-      "es": "La estrella de béisbol Shohei Ohtani. Analizamos la ciencia detrás del método Mandalart de 81 casillas que diseñó en la escuela secundaria y su hábito de dormir 10 horas para recuperarse.",
-      "fr": "La star du baseball Shohei Ohtani. Découvrez la science derrière le tableau Mandalart de 81 cases de son adolescence et son habitude de dormir 10 heures pour récupérer.",
-      "de": "Baseball-Superstar Shohei Ohtani. Wir untersuchen die neurologischen Mechanismen der von ihm in der Schule entworfenen 81-Felder-Mandalart-Methode und seiner 10-Stunden-Schlafroutine zur Regeneration.",
-      "pt": "A estrela do beisebol Shohei Ohtani. Analisamos a ciência por trás do método Mandalart de 81 casas que desenhou na escola secundária e seu hábito de dormir 10 horas para recuperar.",
-      "id": "Bintang bisbol Shohei Ohtani. Ulas mekanisme neurologis dari teknik perencanaan Mandalart 81 kotak yang ia rancang semasa sekolah dan rutinitas tidur pemulihan 10 jam."
+      "ko": "현대 야구의 역사를 새로 쓰는 오타니 쇼헤이. 그가 고교 시절 직접 짰던 81칸 만다라트 계획 기법과 신체 회복을 극대화하기 위한 하루 10시간 수면 루틴의 신경과학적 메커니즘을 밝힙니다."
     },
     "authority": {
-      "ko": "오타니 쇼헤이 실제 고교 만다라트 계획표 대중 공개 고증 및 네이처(Nature) 계열 아카이브의 뇌 글림프 체계 회복 수면 연구",
-      "en": "Public Records of Shohei Ohtani's High School Mandalart and Nature Archive Research on the Brain Glymphatic System and Recovery Sleep",
-      "ja": "大谷翔平の実際の高校時代マンダラート計画表公開考証およびネイチャー（Nature）系列アーカイブの脳のグリンパティックシステム回復睡眠研究",
-      "zh": "大谷翔平实际高中曼达拉特计划表公开考证及《自然》(Nature)旗下刊物的脑部胶质淋巴系统恢复睡眠研究",
-      "es": "Registros públicos del Mandalart de Shohei Ohtani e investigación sobre el sistema glinfático del cerebro de Nature Archive",
-      "fr": "Registres publics du Mandalart de Shohei Ohtani et recherche sur le système glymphatique du cerveau de Nature Archive",
-      "de": "Offizielle Dokumente zu Shohei Ohtanis Schul-Mandalart und Nature-Studien zum glymphatischen System und Erholungsschlaf",
-      "pt": "Registros públicos do Mandalart de Shohei Ohtani e pesquisa sobre o sistema glinfático do cérebro de Nature Archive",
-      "id": "Catatan Publik tentang Mandalart Sekolah Shohei Ohtani dan Penelitian Nature tentang Sistem Glimfatik Otak & Tidur Pemulihan"
+      "ko": "Ohtani Mandalart Sleep 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "현대 야구계의 절대적인 영웅이자 메이저리그를 지배하고 있는 투타 겸업의 천재 오타니 쇼헤이. 그가 매 시즌 압도적인 퍼포먼스를 유지할 수 있는 비결은 놀랍도록 고전적인 두 가지 행동 루틴에 기초합니다. 첫째는 인생의 모든 세부 계획을 81칸 격자로 구조화한 만다라트 목표 기법이고, 둘째는 원정 호텔에서도 자기 전용 베개를 휴대하며 지키는 하루 10시간 이상의 회복 수면 루틴입니다. 이 극단적인 철저함이 어떻게 뇌와 근육을 매일 리셋하여 최상의 집중력 상태를 만드는지 脳科学的 관점에서 분석합니다.",
-      "en": "An absolute hero of baseball who dominates Major League Baseball, two-way genius Shohei Ohtani. The secret why he maintains outstanding performance every season is based on two surprisingly classic routines. First, the Mandalart technique that structures all detailed plans into an 81-grid, and second, a 10-hour recovery sleep routine utilizing his own pillow even in away hotels. Explore how this extreme precision resets the brain and muscles for peak performance.",
-      "ja": "現代野球界の絶対的なヒーローであり、メジャーリーグを支配している「二刀流」の天才、大谷翔平。彼が毎シーズン圧倒的なパフォーマンスを維持できる秘訣は、驚くほど古典的な二つの行動ルーティンにあります。一つ目は人生のすべての詳細な計画を81マスの格子で構造化した「マンダラート目標設定法」であり、二つ目は遠征先のホテルでも自分専用の枕を携帯して死守する「1日10時間以上の回復睡眠ルーティン」です。この極端なまでの徹底ぶりが、どのように脳と筋肉を毎日リセットし、最高の集中状態を作るのかを脳科学的観点から分析します。",
-      "zh": "在这一历史性惯例的实践中： . . 81 , 10 . 脳科学的 .",
-      "es": "La estrella de las Grandes Ligas Shohei Ohtani. El secreto para mantener un nivel de élite se basa en dos rutinas: el plan Mandalart de 81 casillas y su hábito de dormir al menos 10 horas, incluso llevando su propia almohada a los viajes. Analizamos cómo este rigor resetea el cerebro y los músculos.",
-      "fr": "La star de la Ligue majeure de baseball Shohei Ohtani. Le secret pour maintenir son niveau de jeu repose sur deux routines : le plan Mandalart de 81 cases et un sommeil d'au moins 10 heures, pour lequel il voyage avec son propre oreiller. Découvrez comment cette rigueur régénère le cerveau et les muscles.",
-      "de": "Ausnahmetalent Shohei Ohtani dominiert die Major League Baseball. Sein Geheimnis für konstant überragende Leistungen liegt in zwei klassischen Routinen: der Strukturierung aller Pläne mittels einer 81-Felder-Mandalart und einer Schlafroutine von täglich über 10 Stunden, für die er sogar sein eigenes Kissen auf Reisen mitnimmt. Erfahren Sie, wie dies Gehirn und Muskeln regeneriert.",
-      "pt": "A estrela da Major League Baseball Shohei Ohtani. O segredo para manter um nível de elite baseia-se em duas rotinas: o plano Mandalart de 81 casas e seu hábito de dormir pelo menos 10 horas, mesmo levando seu próprio travesseiro nas viagens. Analisamos como este rigor reseta o cérebro e os músculos.",
-      "id": "Pemain bisbol Shohei Ohtani yang mendominasi Major League Baseball. Rahasianya menjaga performa luar biasa setiap musim didasarkan pada dua rutinitas klasik: teknik Mandalart untuk menyusun semua rencana secara terperinci, dan tidur pemulihan minimal 10 jam. Pelajari bagaimana disiplin ini menyegarkan otak dan otot."
+      "ko": "\"목록을 적으면 할 일이 명확해지고, 10시간의 수면을 채우면 몸은 어떤 투구도 맞설 준비를 마친다.\" 💤\n\n현대 야구계의 절대적인 영웅이자 메이저리그를 지배하고 있는 투타 겸업의 천재 오타니 쇼헤이. 그가 매 시즌 압도적인 퍼포먼스를 유지할 수 있는 비결은 놀랍도록 고전적인 두 가지 행동 루틴에 기초합니다. 첫째는 인생의 모든 세부 계획을 81칸 격자로 구조화한 만다라트 목표 기법이고, 둘째는 원정 호텔에서도 자기 전용 베개를 휴대하며 지키는 하루 10시간 이상의 회복 수면 루틴입니다. 이 극단적인 철저함이 어떻게 뇌와 근육을 매일 리셋하여 최상의 집중력 상태를 만드는지 뇌과학적 관점에서 분석합니다.\n\n많은 현대 직업인들이 성공과 성과를 위해 휴식과 수면을 희생하며 야근을 하거나 계획을 머릿속에만 담아두고 스트레스를 받곤 합니다. 그러나 오타니 쇼헤이는 복잡한 목표들을 시각 피질이 한눈에 파악할 수 있도록 만다라트 기법으로 정교화하여 뇌의 마인드 부하를 줄였습니다. 동시에 충분한 시간 동안 숙면을 취해 물리적으로 손상된 근섬유를 치유하고 전두엽의 인지 에너지를 가득 충전했습니다.\n\n오늘 포스트에서는 오타니가 실천하는 목표 설계 기법과 수면 루틴의 신경과학적 메커니즘을 규명하고, 현대인들이 이를 자신의 일상에 적용해 에너지 낭비 없이 뚜렷한 목표 의식과 최고의 신체 회복 상태를 달성하는 3단계 실천 방안을 제시합니다."
     },
     "whyTitle": {
-      "ko": "만다라트의 계획 구체화 효과와 장시간 수면의 신경 과학적 회복 메커니즘",
-      "en": "Target Framing Effect of Mandalart and Neuroscientific Recovery Mechanisms of Long Sleep",
-      "ja": "マンダラートの計画具体化効果と長時間睡眠の神経科学的回復メカニズム",
-      "zh": "曼达拉特计划具体化效果与长时睡眠的神经科学恢复机制",
-      "es": "Efectos del método Mandalart y los mecanismos neurocientíficos de recuperación de un sueño prolongado",
-      "fr": "Effets du tableau Mandalart et mécanismes neuroscientifiques de récupération d'un sommeil prolongé",
-      "de": "Konkretisierungseffekte von Mandalart und neurowissenschaftliche Erholungsmechanismen von langem Schlaf",
-      "pt": "Efeitos do método Mandalart e os mecanismos neurocientíficos de recuperação de um sono prolongado",
-      "id": "Efek Konkretisasi Target Mandalart dan Mekanisme Pemulihan Neurosains dari Tidur Panjang"
+      "ko": "만다라트의 계획 구체화 효과와 장시간 수면의 신경 과학적 회복 메커니즘"
     },
     "whyDesc": {
-      "ko": "추상적인 목표를 구체적 행동으로 쪼개는 만다라트 기법은 인지 부하를 차단하고 뇌의 실천 회로를 자극합니다. 한편으로 오타니의 핵심인 10시간의 충분한 수면 시간은 뇌의 글림프 체계를 촉진합니다. 뇌척수액이 낮 동안 대사 활동으로 쌓인 노폐물을 청소하며 전두엽의 인지 에너지 배터리를 회복시킵니다. 또한 수면은 그날 연습한 신체적 투구와 타격 근육 동작 정보를 소뇌의 장기 운동 기억 저장소에 안전하게 안착시킵니다.",
-      "en": "The Mandalart technique, which breaks abstract goals into concrete actions, blocks cognitive overload and stimulates the brain's execution pathways. Meanwhile, Ohtani's signature 10-hour sleep window activates the brain's glymphatic system. Cerebrospinal fluid clears accumulated metabolic waste, restoring the prefrontal cortex's cognitive energy battery. Additionally, sleep safely registers the motor neural patterns of pitching and batting practiced that day into the cerebellum's long-term motor memory storage.",
-      "ja": "抽象的な目標を具体的な行動に細分化するマンダラート技法は、認知負荷を遮断し、脳の実践回路を刺激します。一方で、大谷の核心である10時間の十分な睡眠時間は、脳のグリンパティックシステムを活性化します。脳脊髄液が日中の代謝活動で蓄積された老廃物を掃除し、前頭葉の認知エネルギーバッテリーを回復させます。また、睡眠は、その日練習した身体的な投球や打撃の筋肉動作情報を、小脳の長期運動記憶貯蔵庫に安全に定着させます。",
-      "zh": "将抽象目标细分为具体行动的曼达拉特方法可以阻断认知负荷，并刺激大脑的实践回路。另一方面，作为大谷核心要诀的10小时充足睡眠时间能够促进大脑的胶质淋巴系统运转。脑脊髓液清除白天代谢活动累积的废物，恢复前额叶的认知能量储备。此外，睡眠还会将当天练习的身体投球和打击肌肉动作信息安全地固化在小脑的长期运动记忆储存库中。",
-      "es": "El método Mandalart reduce la carga cognitiva al dividir objetivos complejos en tareas sencillas. Por otro lado, dormir 10 horas activa el sistema glinfático, permitiendo que el líquido cefalorraquídeo elimine toxinas acumuladas y restaure la energía de la corteza prefrontal. Esto consolida el aprendizaje motor del día en la memoria de largo plazo.",
-      "fr": "La méthode Mandalart réduit la charge cognitive en divisant les objectifs complexes en tâches simples. D'autre part, dormir 10 heures active le système glymphatique, permettant au liquide céphalo-rachidien d'éliminer les toxines et de restaurer l'énergie. Cela consolide l'apprentissage moteur du jour dans la mémoire à long terme.",
-      "de": "Die Mandalart-Methode reduziert die kognitive Belastung, indem sie abstrakte Ziele in konkrete Handlungen zerlegt. Zudem aktiviert die Schlafzeit von 10 Stunden das glymphatische System: Liquor spült Stoffwechselabfälle aus dem Gehirn und lädt den kognitiven Akku auf. Gleichzeitig wird der motorische Lerneffekt des Tages im Langzeitgedächtnis des Kleinhirns verankert.",
-      "pt": "O método Mandalart reduz a carga cognitiva ao dividir objetivos complexos em tarefas simples. Por outro lado, dormir 10 horas ativa o sistema glinfático, permitindo que o líquido cefalorraquidiano elimine toxinas acumuladas e restaure a energia do córtex pré-frontal. Isto consolida o aprendizado motor do dia na memória de longo prazo.",
-      "id": "Teknik Mandalart mengurangi beban kognitif dengan memecah target abstrak menjadi tindakan nyata. Sementara itu, tidur 10 jam mengaktifkan sistem glimfatik otak, di mana cairan serebrospinal membersihkan limbah metabolisme harian dan memulihkan energi korteks prefrontal. Ini juga mengonsolidasikan memori motorik otot."
+      "ko": "추상적인 목표를 구체적 행동으로 쪼개는 만다라트 기법은 인지 부하를 차단하고 뇌의 실천 회로를 자극합니다. 한편으로 오타니의 핵심인 10시간의 충분한 수면 시간은 뇌의 글림프 체계를 촉진합니다. 뇌척수액이 낮 동안 대사 활동으로 쌓인 노폐물을 청소하며 전두엽의 인지 에너지 배터리를 회복시킵니다. 또한 수면은 그날 연습한 신체적 투구와 타격 근육 동작 정보를 소뇌의 장기 운동 기억 저장소에 안전하게 안착시킵니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "갑자기 수면 시간만을 과도하게 늘릴 경우 오히려 몸이 나른해지는 현상이 발생할 수 있습니다. 개인의 신체 대사에 맞춰 7~8시간의 기본 수면량을 점진적으로 늘려가되, 밤 수면 시간 확보가 부족하다면 낮에 20~30분 이내의 짧은 렘수면 단계의 파워 냅을 결합하여 총 회복 시간을 보충하는 방식으로 균형을 잡는 것이 현명합니다.",
-      "en": "Excessively increasing sleep hours all of a sudden can make you feel lethargic. Gradually build up your sleep volume based on your metabolic rate. If night sleep is insufficient, supplement it by combining a power nap of 20 to 30 minutes during the day.",
-      "ja": "急に睡眠時間だけを過度に増やすと、かえって体がだるくなる現象が起きることがあります。個人の身体代謝に合わせて7〜8時間の基本睡眠量を徐々に増やしていき、夜の睡眠時間の確保が足りない場合は、日中に20〜30分以内の短いパワーナップ（昼寝）を組み合わせて総回復時間を補う形でバランスを取るのが賢明です。",
-      "zh": "如果突然过度延长睡眠时间，反而可能会产生身体乏力的现象。应根据个人身体代谢情况循序渐进地增加7至8小时的基础睡眠量。如果夜间睡眠时间不足，建议在白天结合20至30分钟以内的短时强效午睡（Power Nap）来补充总恢复时间，以这种方式保持平衡才是明智之举。",
-      "es": "Aumentar bruscamente las horas de sueño puede causar letargo. Aumente la duración de forma gradual. Si no puede dormir lo suficiente por la noche, complemente con una siesta corta de 20 a 30 minutos durante el día.",
-      "fr": "Augmenter brusquement les heures de sommeil peut provoquer de la léthargie. Augmentez la durée progressivement. Si votre sommeil nocturne est insuffisant, complétez avec une sieste de 20 à 30 minutes dans la journée.",
-      "de": "Eine plötzliche Erhöhung der Schlafdauer kann zu Trägheit führen. Steigern Sie Ihr Schlafvolumen schrittweise. Wenn der Nachtschlaf zu kurz ausfällt, kombinieren Sie ihn mit einem kurzen Mittagsschlaf von 20 bis 30 Minuten, um die Regeneration zu sichern.",
-      "pt": "Aumentar bruscamente as horas de sono pode causar letargia. Aumente a duracão de forma gradual. Se não puder dormir o suficiente à noite, complemente com uma soneca curta de 20 a 30 minutos durante o dia.",
-      "id": "Meningkatkan jam tidur secara drastis secara tiba-tiba justru dapat membuat tubuh terasa lemas. Tingkatkan durasi tidur secara bertahap. Jika tidur malam kurang, lengkapi dengan tidur siang singkat selama 20 hingga 30 menit."
+      "ko": "갑자기 수면 시간만을 과도하게 늘릴 경우 오히려 몸이 나른해지는 현상이 발생할 수 있습니다. 개인의 신체 대사에 맞춰 7~8시간의 기본 수면량을 점진적으로 늘려가되, 밤 수면 시간 확보가 부족하다면 낮에 20~30분 이내의 짧은 렘수면 단계의 파워 냅을 결합하여 총 회복 시간을 보충하는 방식으로 균형을 잡는 것이 현명합니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "만다라트 목표 계획표 설계",
-          "en": "Designing a Mandalart Goal Chart",
-          "ja": "マンダラート目標計画表の設計",
-          "zh": "设计曼达拉特目标计划表",
-          "es": "Diseñar un cuadro de objetivos Mandalart",
-          "fr": "Concevoir un tableau d'objectifs Mandalart",
-          "de": "Entwurf einer Mandalart-Zieltabelle",
-          "pt": "Desenhar um quadro de objetivos Mandalart",
-          "id": "Merancang Bagan Target Mandalart"
+          "ko": "만다라트 목표 계획표 설계"
         },
         "text": {
-          "ko": "종이나 패드에 3x3 격자를 그리고 중앙에 최종 목표를 적은 뒤, 주변 8개 칸에 세부 전략을 구조화하여 즉시 실행할 수 있는 행동 계획을 시각화합니다.",
-          "en": "Draw a 3x3 grid on paper or a tablet, write your ultimate goal in the center, and structure detailed strategies in the surrounding 8 squares to visualize execution.",
-          "ja": "紙やタブレットに3x3の格子を描き、中央に最終目標を書き込みます。その周囲の8つのマスに詳細な戦略を構造化し、即座に実行できる行動計画を視覚化します。",
-          "zh": "在纸张或平板电脑上绘制3x3网格，在中央写下最终目标，并在周围的8个格子中结构化写出细分策略，以此将可即刻执行的行动计划可视化。",
-          "es": "Dibuje una cuadrícula de 3x3 en papel o tableta, escriba su objetivo principal en el centro y estructure estrategias en las casillas periféricas.",
-          "fr": "Dessinez une grille de 3x3 sur papier ou tablette, inscrivez votre objectif principal au centre et détaillez les stratégies dans les cases périphériques.",
-          "de": "Zeichnen Sie ein 3x3-Gitter auf Papier oder Tablet, tragen Sie das Hauptziel in die Mitte ein und strukturieren Sie detaillierte Schritte in den äußeren Feldern.",
-          "pt": "Desenhar uma grade de 3x3 no papel ou tablet, escrever o objetivo principal no centro e estruturar estratégias nas casas periféricas.",
-          "id": "Gambar kisi-kisi 3x3 di kertas atau tablet, tulis target utama di tengah, dan jabarkan strategi detail di 8 kotak sekitarnya."
+          "ko": "종이나 패드에 3x3 격자를 그리고 중앙에 최종 목표를 적은 뒤, 주변 8개 칸에 세부 전략을 구조화하여 즉시 실행할 수 있는 행동 계획을 시각화합니다."
         }
       },
       {
         "name": {
-          "ko": "수면실 암막 및 온도 제어 환경 구축",
-          "en": "Building a Bedroom Darkness and Temperature Control Environment",
-          "ja": "寝室の暗幕と温度制御環境の構築",
-          "zh": "构建卧室遮光与温度控制环境",
-          "es": "Crear un entorno de dormitorio con oscuridad y control de temperatura",
-          "fr": "Créer une chambre sombre avec contrôle de la température",
-          "de": "Schaffung einer dunklen Schlafumgebung mit kontrollierter Temperatur",
-          "pt": "Criar um ambiente de quarto com escuridão e controle de temperatura",
-          "id": "Mengatur Kamar Tidur yang Gelap dan Sejuk"
+          "ko": "수면실 암막 및 온도 제어 환경 구축"
         },
         "text": {
-          "ko": "양질의 깊은 숙면을 위해 암막 커튼을 설치해 조도를 완벽히 낮추고 실내 온도를 서늘한 18도 내외로 쾌적하게 맞춥니다.",
-          "en": "Install blackout curtains to completely block light and set the indoor temperature around a cool 18 degrees Celsius for high-quality deep sleep.",
-          "ja": "質の高い深い睡眠のために遮光カーテンを設置して照度を完全に下げ、室内の温度をやや涼しい18度前後に快適に調整します。",
-          "zh": "为了获得优质的深层睡眠，安装遮光帘彻底降低室内亮度，并将室内温度舒适地调整在18摄氏度左右的凉爽水平。",
-          "es": "Instale cortinas opacas para bloquear la luz y ajuste la temperatura ambiente a unos 18 grados para lograr un descanso de calidad.",
-          "fr": "Installez des rideaux occultants pour bloquer la lumière et réglez la température ambiante à environ 18 degrés pour un sommeil de qualité.",
-          "de": "Bringen Sie Verdunkelungsvorhänge an, um Licht auszusperren, und regeln Sie die Raumtemperatur auf kühle 18 Grad Celsius für guten Tiefschlaf.",
-          "pt": "Instalar cortinas blackout para bloquear a luz e ajustar a temperatura ambiente para cerca de 18 graus para alcançar um descanso de qualidade.",
-          "id": "Pasang tirai gelap untuk menghalangi cahaya sepenuhnya dan atur suhu ruangan sekitar 18 derajat Celsius agar bisa tidur nyenyak."
+          "ko": "양질의 깊은 숙면을 위해 암막 커튼을 설치해 조도를 완벽히 낮추고 실내 온도를 서늘한 18도 내외로 쾌적하게 맞춥니다."
         }
       },
       {
         "name": {
-          "ko": "낮잠 결합을 통한 총 수면 충전",
-          "en": "Supplementing Total Sleep Volume with Power Naps",
-          "ja": "昼寝を組み合わせた総睡眠量のチャージ",
-          "zh": "结合午睡补充总睡眠补给",
-          "es": "Completar el descanso diario total combinando una siesta corta",
-          "fr": "Compléter le repos quotidien total en y associant une sieste",
-          "de": "Auffüllen der Gesamtschlafzeit durch Power Naps",
-          "pt": "Completar o descanso diário total combinando uma soneca curta",
-          "id": "Menambah Durasi Tidur Total dengan Tidur Siang"
+          "ko": "낮잠 결합을 통한 총 수면 충전"
         },
         "text": {
-          "ko": "야간에 8시간 이상 취침하고, 오후 활동 중 집중력이 저하되는 시점에 20~30분 이내의 짧은 낮잠을 결합하여 하루 총 10시간의 신체 충전 시간을 채웁니다.",
-          "en": "Sleep over 8 hours at night and combine a short nap of 20 to 30 minutes in the afternoon to reach a total of 10 hours of body recharge time.",
-          "ja": "夜間に8時間以上就寝し、午後の活動中に集中力が下がるタイミングで20〜30分以内の短い昼寝を組み合わせて、1日の身体充電時間を合計10時間満たします。",
-          "zh": "夜间睡眠保持在8小时以上，并在下午活动中注意力下降的时刻结合20至30分钟以内的短时午睡，填满每天总计10小时的身体充电时间。",
-          "es": "Duerma más de 8 horas por la noche y agregue una siesta corta de 20 a 30 minutos por la tarde para alcanzar 10 horas de recuperación corporal total.",
-          "fr": "Dormez plus de 8 heures par nuit et ajoutez une sieste de 20 à 30 minutes l'après-midi pour atteindre 10 heures de récupération totale.",
-          "de": "Schlafen Sie nachts über 8 Stunden und machen Sie am Nachmittag einen kurzen Nap von 20 bis 30 Minuten, um 10 Stunden Regeneration zu erreichen.",
-          "pt": "Dorma mais de 8 horas à noite e adicione uma soneca curta de 20 a 30 minutos à tarde para alcançar 10 horas de recuperação corporal total.",
-          "id": "Tidur minimal 8 jam di malam hari dan ambil tidur siang singkat selama 20 hingga 30 menit untuk memenuhi total waktu pemulihan."
+          "ko": "야간에 8시간 이상 취침하고, 오후 활동 중 집중력이 저하되는 시점에 20~30분 이내의 짧은 낮잠을 결합하여 하루 총 10시간의 신체 충전 시간을 채웁니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "10시간 수면이 바쁜 현대인에게 비현실적인데 줄여도 되나요?",
-          "en": "Is it okay to shorten the sleep time if 10 hours is unrealistic for busy people?",
-          "ja": "10時間睡眠は忙しい現代人にとって非現実的ですが、減らしても大丈夫ですか？",
-          "zh": "10小时睡眠对忙碌的现代人来说不切实际，可以减少吗？",
-          "es": "¿Puedo reducir las horas de sueño si 10 horas no es realista para mí?",
-          "fr": "Puis-je réduire les heures de sommeil si 10 heures ne sont pas réalistes pour moi ?",
-          "de": "Kann ich die Schlafzeit verkürzen, wenn 10 Stunden unrealistisch sind?",
-          "pt": "Posso reduzir as horas de sono se 10 horas não for realista para mim?",
-          "id": "Bolehkah saya mengurangi jam tidur jika 10 jam tidak realistis bagi saya?"
+          "ko": "10시간 수면이 바쁜 현대인에게 비현실적인데 줄여도 되나요?"
         },
         "answer": {
-          "ko": "10시간은 운동량이 매우 많은 엘리트 선수의 기준이므로, 현대인은 7~8시간의 온전한 수면을 보장하는 것만으로도 충분합니다. 핵심은 시간의 길이에 얽매이기보다 규칙적인 기상 기전과 수면실 환경 제어를 통해 깊은 수면(서파 수면)의 비율을 극대화하는 것입니다.",
-          "en": "The 10-hour standard is for elite athletes with extremely high training volumes; 7 to 8 hours of complete sleep is sufficient for general active people. The key is to maximize the ratio of deep sleep (slow-wave sleep) through sleep environment control rather than obsessing over duration.",
-          "ja": "10時間という基準は運動量が極めて多いエリート選手のものなので、一般の方は7〜8時間のしっかりとした睡眠を確保するだけで十分です。肝心なのは時間の長さに固執することではなく、規則的な起床パターンと寝室環境の制御を通じて、深い睡眠（徐波睡眠）の割合を極大化することです。",
-          "zh": "10小时是运动量极大的精英运动员的标准，因此普通人只需保证7至8小时的完整睡眠便已足够。核心在于比起执着于时长，更应通过规律的作息和卧室环境控制来极大化深层睡眠（慢波睡眠）的比例。",
-          "es": "El estándar de 10 horas es para atletas de alto rendimiento; dormir entre 7 y 8 horas es suficiente para la mayoría de las personas. La clave está en mejorar la calidad y proporción de sueño profundo controlando el ambiente.",
-          "fr": "La norme de 10 heures s'applique aux athlètes de haut niveau ; dormir 7 à 8 heures suffit pour la majorité. La clé est d'optimiser la qualité et la proportion de sommeil profond en contrôlant l'environnement.",
-          "de": "Der 10-Stunden-Standard gilt für Leistungssportler; für aktive Menschen sind 7 bis 8 Stunden ausreichend. Wichtig ist vor allem, die Qualität des Tiefschlafs durch eine optimierte Schlafumgebung zu maximieren.",
-          "pt": "O padrão de 10 horas é para atletas de alto rendimento; dormir entre 7 e 8 horas é suficiente para a maioria das pessoas. A chave está em melhorar a qualidade e proporção de sono profundo controlando o ambiente.",
-          "id": "Standar tidur 10 jam ditujukan untuk atlet elit dengan intensitas latihan tinggi. Untuk masyarakat umum, tidur 7 hingga 8 jam berkualitas sudah sangat cukup. Kuncinya adalah memaksimalkan tidur nyenyak."
+          "ko": "10시간은 운동량이 매우 많은 엘리트 선수의 기준이므로, 현대인은 7~8시간의 온전한 수면을 보장하는 것만으로도 충분합니다. 핵심은 시간의 길이에 얽매이기보다 규칙적인 기상 기전과 수면실 환경 제어를 통해 깊은 수면(서파 수면)의 비율을 극대화하는 것입니다."
         }
       }
     ]

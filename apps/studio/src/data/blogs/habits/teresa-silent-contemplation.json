@@ -1,218 +1,72 @@
 {
   "teresa-silent-contemplation": {
     "title": {
-      "ko": "빈민가의 고통 속에서 평정심을 지켜낸 방패? 마더 테레사의 아침 침묵 루틴",
-      "en": "The Shield That Kept Peace in the Pain of Slums? Mother Teresa's Morning Silence Routine",
-      "ja": "スラム街の苦しみの中で平穏を保ち続けた盾？マザー・テレサの朝の沈黙ルーティン",
-      "zh": "在贫民窟的痛苦中坚守内心平静的安全盾牌？特蕾莎修女的清晨静默常规",
-      "es": "¿El escudo que mantuvo la paz en el dolor de los suburbios? La rutina de silencio matutino de la Madre Teresa",
-      "fr": "Le bouclier qui préservait la paix face à la souffrance des bidonvilles ? La routine de silence matinal de Mère Teresa",
-      "de": "Der Schild, der im Leid der Slums Frieden bewahrte? Mutter Teresas morgendliche Schweigeroutine",
-      "pt": "O escudo que manteve a paz na dor das favelas? A rotina de silêncio matinal da Madre Teresa",
-      "id": "Perisai yang Menjaga Kedamaian di Tengah Penderitaan Kumuh? Rutinitas Hening Pagi Ibu Teresa"
+      "ko": "빈민가의 고통 속에서 평정심을 지켜낸 방패? 마더 테레사의 아침 침묵 루틴"
     },
     "description": {
-      "ko": "인도 캘커타의 빈민가에서 평생 봉사한 마더 테레사. 고통스러운 타인의 감정에 휩쓸리지 않고 뇌의 공감망과 감정 조절력을 예열했던 그녀의 '새벽 4:30 침묵' 루틴의 과학적 효과와 15분 실천 팁을 알아봅니다.",
-      "en": "Mother Teresa, who dedicated her life to the poor. Discover how her daily 4:30 AM silence and meditation routine regulated stress hormones and calibrated emotional control.",
-      "ja": "インドのカルカッタで貧しい人々のために生涯を捧げたマザー・テレサ。他者の苦しみに圧倒されることなく、自らの感情制御機能と共感能力を整えた彼女の「朝4時30分の沈黙」の科学的効果と、15分の実践法を紹介します。",
-      "zh": "一生致力于服务穷苦病患的特蕾莎修女。探索她每天清晨4点30分起床，静坐默思1小时以调节压力激素、预热情绪控制与深度共情脑区的运动科学原理。",
-      "es": "La Madre Teresa, quien dedicó su vida a los pobres. Descubra cómo su rutina diaria de silencio a las 4:30 AM regulaba el estrés y calibraba el control emocional.",
-      "fr": "Mère Teresa, qui a voué sa vie aux plus démunis. Découvrez comment sa routine matinale de silence à 4h30 régulait le stress et calibrait le contrôle émotionnel.",
-      "de": "Mutter Teresa, die ihr Leben den Armen widmete. Erfahren Sie, wie ihre Schweigeroutine um 4:30 Uhr morgens Stresshormone regulierte und das emotionale Gleichgewicht förderte.",
-      "pt": "Madre Teresa, que dedicou a vida aos pobres. Descubra como a sua rotina de silêncio às 4h30 regulava as hormonas de estresse e equilibrava o controle emocional.",
-      "id": "Ibu Teresa, yang membaktikan hidupnya untuk orang miskin. Temukan bagaimana rutinitas hening pukul 04.30 mengatur hormon stres dan melatih kontrol emosinya."
+      "ko": "인도 캘커타의 빈민가에서 평생 봉사한 마더 테레사. 고통스러운 타인의 감정에 휩쓸리지 않고 뇌의 공감망과 감정 조절력을 예열했던 그녀의 '새벽 4:30 침묵' 루틴의 과학적 효과와 15분 실천 팁을 알아봅니다."
     },
     "authority": {
-      "ko": "마더 테레사 사후 서한집 'Come Be My Light' 및 JAMA Psychiatry 학술지",
-      "en": "Mother Teresa's Private Letters 'Come Be My Light' & JAMA Psychiatry Journal",
-      "ja": "マザー・テレサ書簡集「Come Be My Light」および学術誌「JAMA Psychiatry」",
-      "zh": "特蕾莎修女书信集《Come Be My Light》与学术期刊《JAMA Psychiatry》",
-      "es": "Cartas privadas de la Madre Teresa 'Come Be My Light' y revista JAMA Psychiatry",
-      "fr": "Lettres privées de Mère Teresa 'Come Be My Light' & revue JAMA Psychiatry",
-      "de": "Mutter Teresas private Briefe 'Come Be My Light' & Fachzeitschrift JAMA Psychiatry",
-      "pt": "Cartas privadas de Madre Teresa 'Come Be My Light' & revista JAMA Psychiatry",
-      "id": "Kumpulan Surat Ibu Teresa 'Come Be My Light' & Jurnal JAMA Psychiatry"
+      "ko": "마더 테레사 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "가난하고 고통받는 이들을 위해 평생을 헌신하며 사랑을 전파하고 인류 평화에 공헌하여 노벨 평화상을 수상한 마더 테레사 수녀. 인도 캘커타의 빈민가에서 겪어야 했던 형용할 수 없는 슬픔과 정신적 한계를 견뎌내게 한 그녀의 강인한 평정심과 내면의 의지력은 과연 어떤 루틴 속에서 자라났을까요? 🕊️\n\n테레사 수녀는 매일 수백 명의 중환자들과 대면하며 타인의 감정에 고스란히 노출되는 지독한 감정 소모 상태에 놓였습니다. 이로 인한 감정 전이와 인지적 고갈을 해소하기 위해 그녀는 매일 새벽 4시 30분에 일어나는 엄격한 아침 기상 침묵 루틴을 지켰습니다. 그녀는 다른 선교회 단원들과 대화하거나 외부 일정을 시작하기 전, 첫 1시간 동안 무음 상태(Silent Contemplation)로 무릎을 꿇고 눈을 감은 채 성찰 and 평온을 회복하는 시간을 보냈습니다. 테레사 수녀는 이 새벽의 완전한 고요함이야말로 전날의 감정적 찌꺼기들을 말끔히 비워내고 하루를 버틸 방패를 얻는 핵심 시간이라고 기록했습니다.\n\n오늘 BuildSelf에서는 테레사 수녀의 '아침 침묵 명상' 루틴의 脳科学的 혜택과 현대인을 위한 15분 적용 팁을 알아봅니다.",
-      "en": "Mother Teresa, who dedicated her life to helping the poor in Calcutta. How did she endure the mental limits and sorrow of the slums to maintain her emotional peace? 🕊️\n\nEvery day, Mother Teresa faced severe emotional exhaustion from interacting with hundreds of patients. To heal this, she woke up at 4:30 AM to practice silent contemplation before starting her day. Spending the first hour in absolute silence, she observed her thoughts and found inner peace. She wrote that this quiet time was the shield that washed away the emotional stains of yesterday.\n\nToday, BuildSelf looks at the brain science benefits of Mother Teresa's 'morning silence' routine and a 15-minute guide for modern life.",
-      "ja": "貧しい人々や病人のためにカルカッタの街で生涯を捧げ、ノーベル平和賞を受賞したマザー・テレサ。過酷な状況の中で、彼女が感情の平穏と強固な意志を維持し続けることができたのは、どのような習慣のおかげだったのでしょうか。 🕊️\n\nマザー・テレサは毎日、何百人もの病人や貧困層と接し、激しい感情の消耗とストレスにさらされていました。この精神的疲労を解消するため、彼女は毎朝4時30分に起床し、静寂を守る朝の沈黙ルーティンを実行しました。彼女は他の修道女や外部の人と会話をする前に、最初の1時間を完全な静寂（Silent Contemplation）の中で過ごし、祈りと内省を通じて心の平穏を取り戻しました。この静寂こそが、前日の悲しみとストレスの残留物を脳から洗い流し、一日を乗り切る精神的な防護服だったのです。\n\n今日のBuildSelfでは、マザー・テレサの「朝の沈黙」ルーティンがもたらす脳科学的効果と、現代人のための15分の実践法を紹介します。",
-      "zh": "终生在加尔各答服务穷人、并荣获诺贝尔和平奖的伟大修女特蕾莎。在直面地狱般的苦难和人类悲剧的极端环境中，她那不可动摇的慈悲心和坚韧的精神防火墙究竟是如何铸就的？ 🕊️\n\n特蕾莎修女每天都会和数百名濒死重病患打交道，承受着常人难以想象的共情耗竭压力。为了修复被痛苦浸泡的神经元，她一生严守清晨4点30分起床的早起静默常规。在开始一切修会内部杂务和外部救治前，她会留出最初的1小时，在完全静默（Silent Contemplation）中双膝跪地，合眼洗涤灵魂。她写道：唯有清晨这段万籁俱寂的时光，才能过滤掉前一天目睹的所有伤痛残余，赋予她迎接新一天的坚实铠甲。\n\n今天，BuildSelf 将为您讲解特蕾莎修女“清晨静默舒缓”惯例的神经反馈红利及现代人15分钟减压法。",
-      "es": "La Madre Teresa, quien dedicó su vida a ayudar a los pobres en Calcuta. ¿Cómo soportó el dolor de los suburbios para mantener su paz emocional? 🕊️\n\nCada día, la Madre Teresa enfrentaba un agotamiento emocional extremo. Para sanar esto, se despertaba a las 4:30 AM para practicar la contemplación silenciosa antes de empezar el día. Pasar la primera hora en absoluto silencio le permitía limpiar su mente. Escribió que este tiempo era el escudo que borraba las tensiones del ayer.\n\nHoy, BuildSelf analiza los beneficios cerebrales de la rutina de 'silencio matutino' de la Madre Teresa y una guía de 15 minutos.",
-      "fr": "Mère Teresa, qui a consacré sa vie à aider les pauvres à Calcutta. Comment supportait-elle la souffrance des bidonvilles pour préserver sa paix intérieure ? 🕊️\n\nChaque jour, Mère Teresa subissait un épuisement émotionnel intense. Pour y remédier, elle se levait à 4h30 pour pratiquer la contemplation silencieuse. Passer sa première heure dans un silence absolu lui permettait de se ressourcer. Elle écrivait que ce moment de calme était le bouclier qui effaçait les tensions d'hier.\n\nAujourd'hui, BuildSelf analyse les bienfaits cérébraux de la routine de 'silence matinal' de Mère Teresa et propose un guide de 15 minutes.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora: . ? 🕊️ Na prática desta rotina transformadora: . 4 30 . , 1 (Silent Contemplation) and . . Na prática desta rotina transformadora: BuildSelf ' ' 15 . Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "가난하고 고통받는 이들을 위해 평생을 헌신하며 사랑을 전파하고 인류 평화에 공헌하여 노벨 평화상을 수상한 마더 테레사 수녀. 인도 캘커타의 빈민가에서 겪어야 했던 형용할 수 없는 슬픔과 정신적 한계를 견뎌내게 한 그녀의 강인한 평정심과 내면의 의지력은 과연 어떤 루틴 속에서 자라났을까요? 🕊️\n\n테레사 수녀는 매일 수백 명의 중환자들과 대면하며 타인의 감정에 고스란히 노출되는 지독한 감정 소모 상태에 놓였습니다. 이로 인한 감정 전이와 인지적 고갈을 해소하기 위해 그녀는 매일 새벽 4시 30분에 일어나는 엄격한 아침 기상 침묵 루틴을 지켰습니다. 그녀는 다른 선교회 단원들과 대화하거나 외부 일정을 시작하기 전, 첫 1시간 동안 무음 상태(Silent Contemplation)로 무릎을 꿇고 눈을 감은 채 성찰 and 평온을 회복하는 시간을 보냈습니다. 테레사 수녀는 이 새벽의 완전한 고요함이야말로 전날의 감정적 찌꺼기들을 말끔히 비워내고 하루를 버틸 방패를 얻는 핵심 시간이라고 기록했습니다.\n\n오늘 포스트에서는 테레사 수녀의 '아침 침묵 명상' 루틴의 뇌과학적 혜택과 현대인을 위한 15분 적용 팁을 알아봅니다."
     },
     "whyTitle": {
-      "ko": "감정 공감망(Empathy Network) 예열 및 편도체(Amygdala) 활성 억제",
-      "en": "Calibrating the Empathy Network and Inhibiting Amygdala Activation",
-      "ja": "共感ネットワーク（Empathy Network）の調整と扁桃体（Amygdala）活性の抑制",
-      "zh": "共情网络(Empathy Network)预热与扁桃体(Amygdala)过度活跃抑制",
-      "es": "Calibración de la red de empatía e inhibición de la activación de la amígdala",
-      "fr": "Calibrage du réseau d'empathie et inhibition de l'activité de l'amygdale",
-      "de": "Kalibrierung des Empathie-Netzwerks und Hemmung der Amygdala-Aktivierung",
-      "pt": "Calibração da rede de empatia e inibição da ativação da amígdala",
-      "id": "Menyelaraskan Jaringan Empati dan Menekan Aktivasi Amigdala"
+      "ko": "감정 공감망(Empathy Network) 예열 및 편도체(Amygdala) 활성 억제"
     },
     "whyDesc": {
-      "ko": "이른 아침의 침묵 명상(Silent Contemplation)은 교감신경의 과도한 흥분을 누르고 스트레스 호르몬을 조율하는 스트레스 조절 축(HPA 축)을 안정시킵니다. 이는 뇌의 정서 반응을 주관하는 편도체(Amygdala)의 과활성화를 물리적으로 억제하는 결과를 줍니다. 동시에 전두엽 피질과 정서 영역 간의 기능적 연결성을 강화하여, 타인의 슬픔이나 스트레스 상황에 뇌가 압도당하지 않고 평정심을 유지하도록 공감망(Empathy Network)과 감정 통제력을 최상 수준으로 예열해 줍니다.",
-      "en": "Early morning silent contemplation stabilizes the hypothalamus-pituitary-adrenal (HPA) axis, suppressing sympathetic hyperarousal and regulating cortisol. This physically inhibits overactivation of the amygdala. Concurrently, it strengthens the functional connectivity between the prefrontal cortex and emotional centers, calibrating the empathy network to maintain peace without being overwhelmed by others' pain.",
-      "ja": "早朝の沈黙の習慣は、交感神経の興奮を抑え、ストレスホルモンを管理するHPA軸（視床下部・下垂体・副腎軸）を安定させます。これにより、感情反応を司る扁桃体（Amygdala）の過活動を抑制します。同時に、前頭葉皮質と情動領域の接続を強化し、他者の苦しみやストレスに脳が圧倒されることなく心の平穏を維持できるよう、共感ネットワーク（Empathy Network）と自己コントロール力を高めます。",
-      "zh": "清晨静默能平稳交感神经过度兴奋，安定调控压力激素的轴线（HPA轴）。这可以在物理层面上抑制主导情绪反应的扁桃体（Amygdala）过度活跃。同时，它加强了前额叶皮层与情绪中枢之间的功能性联结，预热共情网络（Empathy Network）和情感调控力，使大脑即使面对他人的悲伤和痛苦时，也不至于陷入恐慌，维持清明安定。",
-      "es": "La contemplación silenciosa matutina estabiliza el eje HPA, reduciendo el estrés. Esto inhibe la sobreactivación de la amígdala. Al mismo tiempo, fortalece la conexión entre la corteza frontal y las áreas emocionales, equilibrando la empatía para mantener la paz ante el sufrimiento ajeno.",
-      "fr": "La contemplation silencieuse matinale stabilise l'axe HPA, réduisant le stress. Cela empêche l'hyperactivité de l'amygdale. En parallèle, elle renforce le lien entre le cortex préfrontal et les zones émotionnelles, équilibrant l'empathie pour garder son calme face à autrui.",
-      "de": "Morgendliches Schweigen stabilisiert die HPA-Achse und dämpft das Nervensystem. Dies hemmt die Überaktivierung der Amygdala. Gleichzeitig stärkt es die Verbindung zwischen Stirnhirn und emotionalen Arealen, was die Empathie und emotionale Stabilität fördern dazu beiträgt.",
-      "pt": "A contemplação silenciosa matinal estabiliza o eixo HPA, reduzindo o estresse. Isso inibe a hiperatividade da amígdala. Ao mesmo tempo, fortalece a conexão entre o córtex frontal e áreas emocionais, equilibrando a empatia para manter a paz frente ao sofrimento.",
-      "id": "Keheningan pagi hari menstabilkan sumbu HPA (hipotalamus-hipofisis-adrenal), meredakan stres, dan menghambat hiperaktivitas amigdala. Ini memperkuat hubungan korteks prefrontal dan emosi, mempersiapkan empati Anda."
+      "ko": "이른 아침의 침묵 명상(Silent Contemplation)은 교감신경의 과도한 흥분을 누르고 스트레스 호르몬을 조율하는 스트레스 조절 축(HPA 축)을 안정시킵니다. 이는 뇌의 정서 반응을 주관하는 편도체(Amygdala)의 과활성화를 물리적으로 억제하는 결과를 줍니다. 동시에 전두엽 피질과 정서 영역 간의 기능적 연결성을 강화하여, 타인의 슬픔이나 스트레스 상황에 뇌가 압도당하지 않고 평정심을 유지하도록 공감망(Empathy Network)과 감정 통제력을 최상 수준으로 예열해 줍니다."
     },
     "cautionTitle": {
-      "ko": "침묵 속 생각 억제의 오류와 흘려보내기 팁",
-      "en": "Errors in Suppressing Thoughts and Floating Tips",
-      "ja": "沈黙の中の「思考抑制」の間違いと受け流すヒント",
-      "zh": "静默中强行压制念头的误区与自然流露技巧",
-      "es": "Errores al reprimir pensamientos y consejos para dejarlos fluir",
-      "fr": "Erreurs liées à la répression des pensées et conseils pour lâcher prise",
-      "de": "Fehler beim Unterdrücken von Gedanken und Tipps zum Loslassen",
-      "pt": "Erros ao reprimir pensamentos e dicas para deixá-los fluir",
-      "id": "Kesalahan Menahan Pikiran dan Tips Membiarkannya Mengalir"
+      "ko": "침묵 속 생각 억제의 오류와 흘려보내기 팁"
     },
     "cautionDesc": {
-      "ko": "침묵을 실천할 때 머릿속에 떠오르는 걱정거리나 해야 할 일 목록을 '생각하지 말아야지' 하고 억지로 누르려(Thought Suppression) 하면, 오히려 그 잡념이 더 크게 뇌리를 맴도는 반동 효과(Rebound Effect)가 나타납니다. 따라서 생각이 떠오르면 이를 통제하려 싸우지 말고, 흘러가는 구름을 바라보듯 그저 무심히 의식의 뒤편으로 흘려보내며 호흡의 공기 드나듦에만 의도적으로 집중을 유지하는 것이 생리적 뇌 안정에 좋습니다.",
-      "en": "Trying to force your brain to 'not think' (thought suppression) during silence triggers a rebound effect, making distracting thoughts spin even faster. When thoughts arise, do not fight them. Simply observe them pass like floating clouds, and redirect your focus to the airflow of your breathing to stabilize your brain.",
-      "ja": "沈黙を実践する際、頭に浮かぶ心配事やタスクを「考えてはいけない」と無理に押さえ込もう（Thought Suppression）とすると、かえってその雑念が頭を巡る反動効果（Rebound Effect）が起こります。思考が浮かんできたら戦うのではなく、流れる雲を見るように意識の背後に受け流し、ただ呼吸に集中を戻すのが脳の安定に有効です。",
-      "zh": "在执行静默常规时，如果试图通过“不要去想”来强行压制脑海中浮现的焦虑或日程清单，反而会触发大脑的“反弹效应（Rebound Effect）”，令杂念变本加厉地盘旋。因此，念头浮现时不要去抵制，像看浮云一样任其流过，把专注力引回到每一次呼吸的气息感触上，这能最快帮助大脑平稳下来。",
-      "es": "Intentar forzar al cerebro a 'no pensar' genera un efecto rebote, haciendo que los pensamientos giren más rápido. Cuando surjan, no luche contra ellos. Obsérvelos pasar como nubes y dirija su atención al aire de su respiración para estabilizarse.",
-      "fr": "Forcer l'esprit à « ne pas penser » provoque un effet rebond, accélérant les pensées parasites. Quand elles surgissent, ne luttez pas. Observez-les passer comme des nuages et recentrez-vous sur le flux de la respiration.",
-      "de": "Der Versuch, Gedanken zu unterdrücken, führt zu einem Rebound-Effekt, bei dem die Gedanken noch schneller kreisen. Kämpfen Sie nicht gegen sie an. Lassen Sie sie wie Wolken vorüberziehen und konzentrieren Sie sich auf Ihren Atem.",
-      "pt": "Tentar forçar o cérebro a 'não pensar' gera um efeito rebote, fazendo com que as distrações girem mais rápido. Quando surgirem, não lute contra elas. Observe-as passar como nuvens e foque na respiração para se estabilizar.",
-      "id": "Memaksa pikiran untuk 'tidak berpikir' justru memicu rebound effect, membuat pikiran berputar lebih cepat. Jangan dilawan, biarkan pikiran melintas seperti awan dan kembalikan fokus pada hembusan napas Anda."
+      "ko": "침묵을 실천할 때 머릿속에 떠오르는 걱정거리나 해야 할 일 목록을 '생각하지 말아야지' 하고 억지로 누르려(Thought Suppression) 하면, 오히려 그 잡념이 더 크게 뇌리를 맴도는 반동 효과(Rebound Effect)가 나타납니다. 따라서 생각이 떠오르면 이를 통제하려 싸우지 말고, 흘러가는 구름을 바라보듯 그저 무심히 의식의 뒤편으로 흘려보내며 호흡의 공기 드나듦에만 의도적으로 집중을 유지하는 것이 생리적 뇌 안정에 좋습니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "기상 직후 조용한 명상 공간 확보",
-          "en": "Securing a Quiet Space Immediately Upon Waking",
-          "ja": "起床直後の静かな瞑想スペースの確保",
-          "zh": "起床后建立安静的默思角",
-          "es": "Asegurar un espacio silencioso al despertar",
-          "fr": "Aménagement d'un espace calme dès le réveil",
-          "de": "Einrichten eines ruhigen Raums direkt nach dem Aufstehen",
-          "pt": "Reservar um espaço silencioso ao acordar",
-          "id": "Siapkan Sudut Hening Setelah Bangun Tidur"
+          "ko": "기상 직후 조용한 명상 공간 확보"
         },
         "text": {
-          "ko": "아침에 잠에서 깨어나 스마트폰 화면을 절대 켜지 않고, 집 안에서 가장 소음이 적은 조용한 방이나 구석 자리에 방석을 깔고 허리를 펴고 앉습니다. 뇌에 시각, 디지털 자극을 일절 공급하지 않는 첫 번째 단계입니다.",
-          "en": "Upon waking, do not turn on your smartphone. Sit comfortably with a straight spine in the quietest corner of your house. This is the first step to prevent any visual and digital stimulation from entering your brain.",
-          "ja": "朝起きてすぐスマートフォンの画面を開くのをやめ、家の中で最も静かな部屋の片隅にクッションを敷き、背筋を伸ばして座ります。脳に視覚やデジタルの刺激を一切与えないための最初のステップです。",
-          "zh": "清晨睁眼后绝不看手机屏幕，在室内挑选一处最安静的角落，铺设软垫平稳坐下，挺直脊椎。这是切断一切视觉、数字垃圾信号输入大脑的第一步。",
-          "es": "Al despertar, no encienda el móvil. Siéntese erguido en el rincón más silencioso de la casa. Este es el primer paso para evitar cualquier estímulo visual y digital en el cerebro.",
-          "fr": "Dès le réveil, n'allumez pas votre téléphone. Asseyez-vous bien droit dans le coin le plus calme de votre maison. C'est la première étape pour éviter toute stimulation numérique.",
-          "de": "Schalten Sie nach dem Aufstehen kein Smartphone ein. Setzen Sie sich mit aufrechter Wirbelsäule in die ruhigste Ecke Ihrer Wohnung. Dies verhindert digitale Reize im Gehirn.",
-          "pt": "Ao acordar, no(não) ligue o celular. Sente-se ereto no canto mais silencioso da casa. Este é o primeiro passo para evitar qualquer estímulo visual e digital no cérebro.",
-          "id": "Tepat setelah bangun tidur, jangan buka ponsel. Duduklah tegak di sudut ruangan Anda yang paling tenang. Ini adalah langkah pertama menjauhkan otak dari gangguan layar digital."
+          "ko": "아침에 잠에서 깨어나 스마트폰 화면을 절대 켜지 않고, 집 안에서 가장 소음이 적은 조용한 방이나 구석 자리에 방석을 깔고 허리를 펴고 앉습니다. 뇌에 시각, 디지털 자극을 일절 공급하지 않는 첫 번째 단계입니다."
         }
       },
       {
         "name": {
-          "ko": "15분간의 완전 무음 침묵 브레싱",
-          "en": "15-Minute Absolute Silence Breathing",
-          "ja": "15分間の完全静寂・沈黙呼吸法",
-          "zh": "15分钟的绝对静音深呼吸",
-          "es": "Respiración en silencio absoluto de 15 minutos",
-          "fr": "Respiration dans le silence absolu de 15 minutes",
-          "de": "15-minütiges Atmen in absoluter Stille",
-          "pt": "Respiração em silêncio absoluto de 15 minutos",
-          "id": "Pernapasan Hening Total 15 Menit"
+          "ko": "15분간의 완전 무음 침묵 브레싱"
         },
         "text": {
-          "ko": "음악이나 백색 소음조차 틀지 않은 상태에서 조용히 눈을 감고 15분 동안 침묵합니다. 오직 공기가 코끝을 통해 들어오고 나가는 호흡의 물리적인 흐름과 감각에만 모든 신경을 모릅니다.",
-          "en": "Without playing any music or white noise, close your eyes and remain silent for 15 minutes. Focus all your attention only on the physical sensation of air flowing in and out of your nose.",
-          "ja": "音楽やホワイトノイズさえも流さず、静かに目を閉じて15分間沈黙します。空気が鼻を通り抜けて出入りする呼吸の物理的な感覚だけに、すべての意識を集中させます。",
-          "zh": "在不播放任何音乐或白噪音的绝对安静状态下，缓缓闭合双眼静默15分钟。将所有的注意力纯粹固定在气息进出鼻腔的物理体感与节奏上。",
-          "es": "Sin reproducir música ni ruido blanco, cierre los ojos y permanezca en silencio 15 minutos. Centre su atención solo en la sensación física del aire al respirar por la nariz.",
-          "fr": "Sans musique ni bruit blanc, fermez les yeux et restez en silence pendant 15 minutes. Concentrez votre attention uniquement sur le flux de l'air entrant et sortant de vos narines.",
-          "de": "Schließen Sie ohne Musik oder weißes Rauschen die Augen und bleiben Sie 15 Minuten lang still. Konzentrieren Sie sich nur auf das Gefühl der ein- und ausströmenden Luft.",
-          "pt": "Sem tocar música ou ruído branco, feche os olhos e permaneça em silêncio por 15 minutos. Foque a atenção apenas na sensação física do ar entrando e saindo do nariz.",
-          "id": "Tanpa memutar musik atau white noise, pejamkan mata dan tetap diam selama 15 menit. Pusatkan seluruh perhatian Anda hanya pada udara yang keluar masuk hidung."
+          "ko": "음악이나 백색 소음조차 틀지 않은 상태에서 조용히 눈을 감고 15분 동안 침묵합니다. 오직 공기가 코끝을 통해 들어오고 나가는 호흡의 물리적인 흐름과 감각에만 모든 신경을 모릅니다."
         }
       },
       {
         "name": {
-          "ko": "차분한 감정 방패 작동 후 대면",
-          "en": "Activating the Calm Emotional Shield before Interactions",
-          "ja": "落ち着いた感情の盾を構築した後の他者との対面",
-          "zh": "带着情绪铠甲开始一天的社交",
-          "es": "Activación del escudo emocional antes de interactuar",
-          "fr": "Activation du bouclier émotionnel avant les échanges",
-          "de": "Aktivierung des emotionalen Schutzschilds vor Kontakten",
-          "pt": "Ativação do escudo emocional antes das interações",
-          "id": "Aktifkan Perisai Emosi Sebelum Mulai Berinteraksi"
+          "ko": "차분한 감정 방패 작동 후 대면"
         },
         "text": {
-          "ko": "침묵 시간이 끝난 후 눈을 듭니다. 전두엽과 공감망이 평온하게 예열된 상태에서, 어제 겪었던 갈등이나 오늘의 힘든 만남을 차분한 이성으로 처리할 내면의 마음 방패를 확인하고 가벼운 스트레칭 후 일과를 개시합니다.",
-          "en": "Open your eyes. With your prefrontal cortex and empathy network calibrated, recognize your emotional shield to handle conflicts with calm reasoning, stretch, and start your day.",
-          "ja": "沈黙が終わったらゆっくりと目を開けます。前頭葉と共感能力が落ち着いて整えられた状態で、困難な状況や人間関係にも冷静に対応できる「心の盾」が作られているのを感じ、軽いストレッチをして一日の活動を始めます。",
-          "zh": "静默结束，慢慢睁开眼。在前额叶与共情网络已经安定预热的状态下，在大脑中确认自己已筑起冷静面对今日复杂人际交往的理性盾牌，轻微拉伸后开始工作。",
-          "es": "Abra los ojos. Con la corteza frontal y la empatía activas, reconozca su escudo emocional para manejar conflictos con calma, estírese y comience el día.",
-          "fr": "Ouvrez les yeux. Le cortex préfrontal et l'empathie étant régulés, visualisez votre bouclier pour gérer les tensions avec calme, étirez-vous et commencez la journée.",
-          "de": "Öffnen Sie die Augen. Beginnen Sie Ihren Tag mit einem aufgewärmten präfrontalen Kortex und emotionalen Gleichgewicht, strecken Sie sich und starten Sie gelassen.",
-          "pt": "Abra os olhos. Com o córtex frontal e a empatia equilibrados, reconheça o seu escudo emocional para lidar com conflitos com calma, alongue-se e inicie o dia.",
-          "id": "Buka mata Anda. Dengan prefrontal dan empati yang siap, rasakan perisai emosi Anda untuk menghadapi masalah dengan kepala dingin, regangkan tubuh, dan mulai hari Anda."
+          "ko": "침묵 시간이 끝난 후 눈을 듭니다. 전두엽과 공감망이 평온하게 예열된 상태에서, 어제 겪었던 갈등이나 오늘의 힘든 만남을 차분한 이성으로 처리할 내면의 마음 방패를 확인하고 가벼운 스트레칭 후 일과를 개시합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "명상 중에 오늘 해야 할 일과 걱정거리가 자꾸 떠오를 때는 어떻게 하나요?",
-          "en": "What should I do if worries and tasks keep popping up during silence?",
-          "ja": "沈黙瞑想の最中に、今日の予定や心配事が次々と浮かんでしまう時はどうすればよいですか？",
-          "zh": "在静默过程中, 如果脑海里一直蹦出今天的待办事项和焦虑感该如何是好？",
-          "es": "¿Qué debo hacer si surgen preocupaciones y tareas durante el silencio?",
-          "fr": "Que faire si les soucis et les tâches s'invitent pendant le silence ?",
-          "de": "Was soll ich tun, wenn während des Schweigens Sorgen und Aufgaben auftauchen?",
-          "pt": "O que fazer se surgirem preocupações e tarefas durante o silêncio?",
-          "id": "Bagaimana jika pikiran cemas dan rencana hari ini terus muncul saat hening?"
+          "ko": "명상 중에 오늘 해야 할 일과 걱정거리가 자꾸 떠오를 때는 어떻게 하나요?"
         },
         "answer": {
-          "ko": "그것은 뇌가 완전히 정지하지 못하고 연산 장치를 가동하려는 자연스러운 현상입니다. 생각이 떠오르는 것과 싸우지 말고, '아, 내가 오늘 할 일을 생각하고 있구나' 하고 머릿속 구름이 흐르듯 무심히 한걸음 뒤에서 관조하세요. 그리고 다시 의식을 콧등의 날숨 온도 변화와 들숨의 감각으로 가볍게 밀어 넣는 행위를 반복하는 것이 뇌파 정리에 훌륭한 해법입니다.",
-          "en": "It is natural for the brain to try and run computations. Do not fight these thoughts; instead, acknowledge them like passing clouds, telling yourself 'I am thinking about today's tasks,' and gently bring your attention back to the breath at your nostrils.",
-          "ja": "それは脳が休止状態に入ろうとする際に見られる極めて自然な反応です。考えが浮かび上がってくることに対抗しようとせず、「ああ、今日の仕事を考えているな」と頭の中の雲が流れるように一歩引いて眺めてください。そして、意識を鼻先の空気の流れや呼吸の感覚に再びそっと戻す行為を繰り返すのが、脳内を整理する一番の方法です。",
-          "zh": "这是大脑在尝试进入停息状态时极其自然的生物学反应。请不要与这些杂念对抗，在脑海里默默说一句“啊，我正在想今天的事务呢”，就像看云彩飘过一样后撤一步静观它。然后，再次把注意力带回到呼吸的进出感官上，如此重复是安抚脑电波的极好法门。",
-          "es": "Es natural que el cerebro intente realizar cálculos. No luche contra esos pensamientos; reconózcalos como nubes pasajeras y regrese suavemente su atención a la respiración por la nariz.",
-          "fr": "Il est naturel que le cerveau s'active. Ne luttez pas, observez simplement ces pensées comme des nuages en passant, et ramenez doucement votre attention sur la respiration.",
-          "de": "Es ist normal, dass das Gehirn arbeitet. Kämpfen Sie nicht gegen die Gedanken an; betrachten Sie sie wie vorbeiziehende Wolken und lenken Sie die Aufmerksamkeit wieder auf den Atem.",
-          "pt": "É natural que o cérebro tente trabalhar. Não lute contra os pensamentos; reconheça-os como nuvens passageiras e retorne a atenção para a respiração pelo nariz.",
-          "id": "Sangat wajar jika otak mencoba berpikir. Jangan dilawan, cukup amati pikiran itu seperti awan yang lewat, lalu arahkan kembali perhatian Anda pada napas di hidung."
+          "ko": "그것은 뇌가 완전히 정지하지 못하고 연산 장치를 가동하려는 자연스러운 현상입니다. 생각이 떠오르는 것과 싸우지 말고, '아, 내가 오늘 할 일을 생각하고 있구나' 하고 머릿속 구름이 흐르듯 무심히 한걸음 뒤에서 관조하세요. 그리고 다시 의식을 콧등의 날숨 온도 변화와 들숨의 감각으로 가볍게 밀어 넣는 행위를 반복하는 것이 뇌파 정리에 훌륭한 해법입니다."
         }
       },
       {
         "question": {
-          "ko": "테레사 수녀는 1시간을 했다는데, 10~15분 정도로 줄여서 해도 뇌에 효과가 있나요?",
-          "en": "Mother Teresa did it for an hour. Is 10 to 15 minutes still effective for the brain?",
-          "ja": "マザー・テレサは1時間行ったそうですが、10〜15分に短縮しても効果はありますか？",
-          "zh": "特蕾莎修女坚持了1小时，如果缩短到10-15分钟，对大脑还有调节效果吗？",
-          "es": "La Madre Teresa lo hacía por una hora. ¿Es útil si solo lo hago de 10 a 15 minutos?",
-          "fr": "Mère Teresa le faisait pendant une heure. Est-ce utile si je ne le fais que 10 à 15 minutes ?",
-          "de": "Mutter Teresa tat dies eine Stunde lang. Sind 10 bis 15 Minuten immer noch effektiv?",
-          "pt": "A Madre Teresa fazia por uma hora. Funciona se eu fizer apenas por 10 a 15 minutos?",
-          "id": "Ibu Teresa melakukannya selama 1 jam. Apakah 10-15 menit tetap bermanfaat bagi otak?"
+          "ko": "테레사 수녀는 1시간을 했다는데, 10~15분 정도로 줄여서 해도 뇌에 효과가 있나요?"
         },
         "answer": {
-          "ko": "네, 임상 뇌과학 및 스트레스 연구에 따르면, 완전한 암전/무음 상태에서의 침묵 명상은 단 10분만 고도로 지속하더라도 자율신경계 교감 신경 흥분을 억제하고 코르티솔 분비를 낮추는 유의미한 생리적 이완 효과를 냅니다. 시간이 부족하다면 아침에 단 10분이라도 스마트폰을 완전히 끄고 침묵하는 루틴을 일관되게 매일 실천하는 것이 장기적인 감정 제어력 향상에 큰 도움을 줍니다.",
-          "en": "Yes, clinical research shows that even 10 minutes of complete silence and sensory deprivation significantly lowers sympathetic tone and reduces cortisol. Practicing consistently for 10 minutes daily is highly effective for long-term emotional regulation and brain rewiring.",
-          "ja": "はい、臨床脳科学やストレス研究によると、完全な静寂の中での沈黙は、わずか10分でも自律神経の興奮を抑え、コルチゾール値を下げる十分な効果があることが証明されています。時間が足りない場合は、朝に10分だけでもスマートフォンを完全にオフにして静かに過ごす習慣を毎日続けることが、感情コントロール力の向上に大きく貢献します。",
-          "zh": "是的，运动医学及脑科学临床研究证实，在绝对静音状态下默思, 即便只高度专注地坚持10分钟, 也能在降低交感神经兴奋度及抑制皮质醇分泌方面产生显著的生理松弛效应。如果时间紧迫, 每天早晨抽出10分钟彻底关机静默, 长期持之以恒对提升情绪调控力依然大有脾益。",
-          "es": "Sí, estudios muestran que incluso 10 minutos de silencio absoluto reducen la tensión y el cortisol. Mantener una rutina constante de 10 minutos diarios es muy efectivo para la regulación emocional a largo plazo.",
-          "fr": "Oui, les études montrent que 10 minutes de silence complet suffisent à réduire la tension et le cortisol. Pratiquer régulièrement 10 minutes par jour est très efficace pour la régulation émotionnelle à l'aube.",
-          "de": "Ja, Forschungen zeigen, dass bereits 10 Minuten Stille den Cortisolspiegel senken. Eine tägliche Routine von 10 Minuten ist für die emotionale Regulierung sehr effektiv.",
-          "pt": "Sim, estudos mostram que mesmo 10 minutos de silêncio absoluto reduzem a tensão e o cortisol. Mantener(Manter) uma rotina constante de 10 minutos diários é muito eficaz para a regulação emocional a longo prazo.",
-          "id": "Ya, studi menunjukkan bahwa hening total selama 10 menit saja sudah cukup untuk menurunkan denyut jantung dan meredakan stres. Melakukan hening 10 menit secara konsisten setiap hari melatih kontrol emosi jangka panjang."
+          "ko": "네, 임상 뇌과학 및 스트레스 연구에 따르면, 완전한 암전/무음 상태에서의 침묵 명상은 단 10분만 고도로 지속하더라도 자율신경계 교감 신경 흥분을 억제하고 코르티솔 분비를 낮추는 유의미한 생리적 이완 효과를 냅니다. 시간이 부족하다면 아침에 단 10분이라도 스마트폰을 완전히 끄고 침묵하는 루틴을 일관되게 매일 실천하는 것이 장기적인 감정 제어력 향상에 큰 도움을 줍니다."
         }
       }
-    ],
-    "pubDate": "2026-04-19",
-    "updatedDate": "2026-04-19"
+    ]
   }
 }

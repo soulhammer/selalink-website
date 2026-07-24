@@ -1,218 +1,72 @@
 {
   "marx-reading-room": {
     "title": {
-      "ko": "대영박물관 돔 아래의 10시간? 카를 마르크스의 연합 피질 독서법",
-      "en": "10 Hours Under the British Museum Dome? Karl Marx's Association Cortex Reading Method",
-      "ja": "大英博物館のドームの下での10時間？カール・マルクスの連合野読書法",
-      "zh": "大英博物馆穹顶下的10小时？卡尔·马克思的联合皮层阅读法",
-      "es": "¿10 horas bajo la cúpula del Museo Británico? El método de lectura de la corteza de asociación de Karl Marx",
-      "fr": "10 heures sous le dôme du British Museum ? La méthode de lecture de l'aire d'association de Karl Marx",
-      "de": "10 Stunden unter der Kuppel des British Museum? Karl Marx' Lesemethode zur Aktivierung des Assoziationskortex",
-      "pt": "10 horas sob a cúpula do Museu Britânico? O método de leitura do córtex de associação de Karl Marx",
-      "id": "10 Jam di Bawah Kubah British Museum? Metode Membaca Korteks Asosiasi Karl Marx"
+      "ko": "대영박물관 돔 아래의 10시간? 카를 마르크스의 연합 피질 독서법"
     },
     "description": {
-      "ko": "사회의 감춰진 작동 원리를 경제학적으로 해부했던 카를 마르크스. 런던 망명 시절 대영박물관 열람실에서 매일 10시간씩 방대한 문헌을 읽고 기록한 집요한 독서 습관과 脳科学的 원리를 알아봅니다.",
-      "en": "Karl Marx dissected the hidden principles of society. Discover his routine of studying 10 hours daily at the British Museum Reading Room during his exile and how deep reading stimulates the association cortex.",
-      "ja": "社会の隠された作動原理を経済学的に解剖したカール・マルクス。ロンドン亡命時代、大英博物館の閲覧室で毎日10時間ずつ膨大な文献を読み記録した執拗な読書習慣と、その脳科学的原理を紹介します。",
-      "zh": "从经济学角度解剖社会隐藏运作原理的卡尔·马克思。探寻他在伦敦流亡期间，在大英博物馆阅览室里每天花10小时阅读并记录庞大文献的执着阅读常规，及其脑科学原理。",
-      "es": "Karl Marx diseccionó las leyes ocultas de la sociedad. Conozca su rutina de estudiar 10 horas diarias en el Museo Británico y cómo la lectura profunda estimula la corteza asociativa.",
-      "fr": "Karl Marx a disséqué les rouages cachés de la société. Découvrez sa routine d'étude de 10 heures par jour au British Museum et comment la lecture profonde stimule l'aire d'association.",
-      "de": "Karl Marx analysierte die verborgenen Prinzipien der Gesellschaft. Erfahren Sie, wie seine Routine, täglich 10 Stunden im British Museum zu lesen, sein Gehirn stärkte und den Assoziationskortex stimulierte.",
-      "pt": "Karl Marx analisou as leis ocultas da sociedade. Conheça sua rotina de estudar 10 horas por dia no Museu Britânico e como a leitura profunda estimula o córtex de associação.",
-      "id": "Karl Marx membedah prinsip-prinsip tersembunyi masyarakat. Temukan rutinitasnya belajar 10 jam setiap hari di British Museum dan bagaimana membaca mendalam merangsang korteks asosiasi."
+      "ko": "사회의 감춰진 작동 원리를 경제학적으로 해부했던 카를 마르크스. 런던 망명 시절 대영박물관 열람실에서 매일 10시간씩 방대한 문헌을 읽고 기록한 집요한 독서 습관과 뇌과학적 원리를 알아봅니다."
     },
     "authority": {
-      "ko": "대영도서관 마르크스 열람 아카이브, 프랜시스 윈의 마르크스 평전 'Karl Marx: A Life' 및 Cognitive Psychology 학술지",
-      "en": "British Library Archives, Biography 'Karl Marx: A Life' & Cognitive Psychology",
-      "ja": "大英図書館マルクス閲覧アーカイブ、フランシス・ウィーン著のマルクス評伝「Karl Marx: A Life」および学術誌「Cognitive Psychology」",
-      "zh": "大英图书馆马克思阅览档案馆、弗朗西斯·温所著马克思评传《Karl Marx: A Life》与学术期刊《Cognitive Psychology》",
-      "es": "Archivos de la Biblioteca Británica, Biografía 'Karl Marx: A Life' y revista Cognitive Psychology",
-      "fr": "Archives de la British Library, Biographie 'Karl Marx: A Life' & revue Cognitive Psychology",
-      "de": "Archiv der British Library, Biografie 'Karl Marx: A Life' & Fachzeitschrift Cognitive Psychology",
-      "pt": "Arquivos da British Library, Biografia 'Karl Marx: A Life' & revista Cognitive Psychology",
-      "id": "Arsip British Library, Biografi 'Karl Marx: A Life' & Jurnal Cognitive Psychology"
+      "ko": "카를 마르크스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "철학, 경제학, 역사학의 벽을 허물며 자본주의 사회의 구조와 역사적 모순을 치밀하게 분석한 인류의 위대한 경제 사상가, 카를 마르크스. 인류사의 흐름에 엄청난 지적 파장을 일으킨 그의 저작 《자본론》은 도대체 어떠한 지적 훈련을 통해 탄생할 수 있었을까요? 🏛️\n\n마르크스의 거대한 학문적 인프라가 구축된 장소는 바로 런던에 위치한 '대영박물관 독서실'이었습니다. 그는 런던 망명 시절의 대부분인 약 30년 동안, 매일 아침 9시 독서실이 문을 열 때 입장하여 저녁 7시 문을 닫을 때까지 매일 10시간 이상 책에 파묻혀 살았습니다. 거대한 원형 돔 아래 위치한 자신의 고정 좌석에서 마르크스는 전 세계의 철도 통계 보고서, 농업 생산 장부, 의회 보고서 등 방대한 데이터를 직접 꼼꼼히 읽어 내렸습니다. 그리고 단순히 읽는 것을 넘어, 핵심 자료들을 직접 아날로그 노트에 베껴 쓰고 해설을 덧붙이는 '초록 노트' 집필을 평생 이어갔습니다. 이 끈질기고 구조적인 공부 습관이 인류 사상사에 거대한 족적을 남긴 밑바탕이 되었습니다.\n\n오늘 BuildSelf에서는 카를 마르크스의 대영박물관 독서 루틴이 가진 脳科学的 의미와 현대인들이 정보의 노이즈를 걷어내고 본질을 꿰뚫기 위한 아날로그 딥 리딩(Deep Reading) 실천 루틴을 제안합니다.",
-      "en": "Karl Marx dissected the economic structures of capitalism. How did his masterpiece Das Kapital come to life? 🏛️\n\nThe academic foundation of Marx was the British Museum Reading Room in London. During his exile, for about 30 years, he arrived at 9 AM when the reading room opened and stayed until 7 PM, spending over 10 hours daily immersed in texts. Under the giant dome, at his fixed seat, Marx examined vast data like rail statistics and agricultural ledgers. He copied key parts and added interpretations in his notes. This persistent study routine left a huge footprint on human thought.\n\nToday, BuildSelf explores the neuroscientific meaning of Marx's reading routine and proposes a practical analog deep reading routine for modern people to cut through information noise.",
-      "ja": "哲学、経済学、歴史学の境界を崩し、資本主義社会の構造と歴史的矛盾を緻密に分析した人類の偉大な経済思想家、カール・マルクス。人類史の流れに絶大な知的波紋を起こした彼の著作「資本論」は、一体どのような知的訓練を通じて誕生したのでしょうか？ 🏛️\n\nマルクスの巨大な学術的インフラが構築された場所は、ロンドンにある「大英博物館閲覧室」でした。彼はロンドン亡命時代の大部分にあたる約30年間、毎朝9時の開館と同時に入場し、夜7時の閉館まで毎日10時間以上本に埋もれて生活しました。巨大な円形ドームの下の固定席で、マルクスは世界各国の鉄道統計、農業報告書、議会文書など膨大なデータを読み込みました。そして、ただ読むだけでなく、主要な資料を直接ノートに書き写して解説を加える「抄録ノート」の執筆を生涯続けました。この粘り強く構造的な学習習慣が、人類の思想史に大きな足跡を残す基礎となりました。\n\n本日、BuildSelfではカール・マルクスの大英博物館読書ルーティンが持つ脳科学的意味と、現代人が情報のノイズを取り除き本質を見抜くためのアナログ・ディープリーディングの実践ルーティンを提案します。",
-      "zh": "跨越哲学、经济学和历史学界限，缜密分析了资本主义社会结构和历史矛盾的人类伟大经济思想家卡尔·马克思。在人类史进程中产生巨大智力波澜的著作《资本论》，到底是通过何种智力训练诞生出来的？ 🏛️\n\n马克思庞大学术基建的构建场所，正是位于伦敦的“大英博物馆阅览室”。在他流亡伦敦的大约30年大部分时间里，他每天早上9点阅览室开门时准时入馆，一直呆到晚上7点闭馆，每天超过10小时埋头于书海中。在宏伟圆顶下的固定座位上，马克思仔细阅读了世界铁路统计报告、农业生产台账、议会报告等庞大数据。而且他不仅是阅读，还毕生坚持将核心资料亲自抄写在笔记本上并加上注解的“摘抄笔记”常规。这种坚韧且系统性的学习常规，成为了他在人类思想史上留下巨大足迹的基石。\n\n今天，BuildSelf 向您提出卡尔·马克思大英博物馆阅读常规所蕴含的脑科学意义，以及现代人为了拨开信息噪音、洞察本质的实用模拟深度阅读（Deep Reading）常规。",
-      "es": "En la práctica de esta rutina transformadora: , , , . 《》 ? 🏛️ En la práctica de esta rutina transformadora: ' '. 30 , 9 7 10 . , , . , ' ' . . En la práctica de esta rutina transformadora: BuildSelf (Deep Reading) . Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo. Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora: , , , . 《》 ? 🏛️ Na prática desta rotina transformadora: ' '. 30 , 9 7 10 . , , . , ' ' . . Na prática desta rotina transformadora: BuildSelf (Deep Reading) . Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável. Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "철학, 경제학, 역사학의 벽을 허물며 자본주의 사회의 구조와 역사적 모순을 치밀하게 분석한 인류의 위대한 경제 사상가, 카를 마르크스. 인류사의 흐름에 엄청난 지적 파장을 일으킨 그의 저작 《자본론》은 도대체 어떠한 지적 훈련을 통해 탄생할 수 있었을까요? 🏛️\n\n마르크스의 거대한 학문적 인프라가 구축된 장소는 바로 런던에 위치한 '대영박물관 독서실'이었습니다. 그는 런던 망명 시절의 대부분인 약 30년 동안, 매일 아침 9시 독서실이 문을 열 때 입장하여 저녁 7시 문을 닫을 때까지 매일 10시간 이상 책에 파묻혀 살았습니다. 거대한 원형 돔 아래 위치한 자신의 고정 좌석에서 마르크스는 전 세계의 철도 통계 보고서, 농업 생산 장부, 의회 보고서 등 방대한 데이터를 직접 꼼꼼히 읽어 내렸습니다. 그리고 단순히 읽는 것을 넘어, 핵심 자료들을 직접 아날로그 노트에 베껴 쓰고 해설을 덧붙이는 '초록 노트' 집필을 평생 이어갔습니다. 이 끈질기고 구조적인 공부 습관이 인류 사상사에 거대한 족적을 남긴 밑바탕이 되었습니다.\n\n오늘 포스트에서는 카를 마르크스의 대영박물관 독서 루틴이 가진 뇌과학적 의미와 현대인들이 정보의 노이즈를 걷어내고 본질을 꿰뚫기 위한 아날로그 딥 리딩(Deep Reading) 실천 루틴을 제안합니다."
     },
     "whyTitle": {
-      "ko": "정보의 본질을 연결하는 연합 피질의 구조화",
-      "en": "Structuring the Association Cortex to Connect the Essence of Information",
-      "ja": "情報の本質を繋ぐ連合野の構造化",
-      "zh": "连接信息本质的联合皮层结构化",
-      "es": "Estructuración de la corteza de asociación para conectar la esencia de la información",
-      "fr": "Structuration de l'aire d'association pour connecter l'essence de l'information",
-      "de": "Strukturierung des Assoziationskortex zur Verbindung des Wesentlichen",
-      "pt": "Estruturação do córtex de associação para conectar a essência da informação",
-      "id": "Menstrukturkan Korteks Asosiasi untuk Menghubungkan Esensi Informasi"
+      "ko": "정보의 본질을 연결하는 연합 피질의 구조화"
     },
     "whyDesc": {
-      "ko": "인터넷 기사를 흘리듯 속독하거나 카드 뉴스를 훑는 가벼운 독서는 뇌의 시각 피질만을 자극하고 빠르게 휘발됩니다. 반면 복잡한 텍스트를 장시간 정독하고 데이터를 교차 검증하는 깊이 읽기(Deep Reading)는 뇌의 <strong>연합 피질(Association Cortex)</strong> 영역을 강력하게 자극합니다.\n\n연합 피질은 시각, 언어, 추리적 정보를 유기적으로 종합하여 새로운 개념적 지도(지식 체계)를 구축하는 중추입니다. 마르크스처럼 방대한 도서에서 관련 수치를 찾아 직접 손으로 옮겨 적고 이를 비판적으로 분석하는 과정은 연합 피질 내부의 시냅스 연결망을 극대화합니다. 이 과정에서 뇌는 단편적인 정보에 함몰되지 않고 복잡한 현상의 본질적인 인과적 뼈대를 발견하는 거시적 시스템 사고 역량을 획득하게 됩니다.",
-      "en": "Skimming online articles stimulates only the visual cortex, but deep reading and cross-referencing activate the brain's <strong>association cortex</strong>. The association cortex acts as an integration hub, synthesizing sensory, linguistic, and reasoning inputs into conceptual frameworks. Meticulously extracting data from documents and analyzing it, as Marx did, optimizes synaptic connectivity. This allows the brain to escape fragmented thinking and construct macro-systemic models.",
-      "ja": "インターネットの記事を速読したり、カードニュースを読み流すような軽い読書は、脳の視覚野だけを刺激し、すぐに揮発してしまいます。一方、複雑なテキストを長時間精読し、データを交差検証するディープリーディングは、脳の<strong>連合野（Association Cortex）</strong>領域を強力に刺激します。連合野は視覚、言語、推論的情報を有機的に総合して、新たな概念的構築を行う中枢です。マルクスのように統計データを書き写し批判的に分析するプロセスは、連合野内部の結合を最大化します。",
-      "zh": "粗略浏览网络文章或卡片新闻的轻度阅读，仅会刺激大脑的视觉皮层，并迅速挥发。相反, 长时间精读复杂文本并交叉验证数据的深度阅读（Deep Reading）, 则能强力刺激大脑的<strong>联合皮层（Association Cortex）</strong>区域。联合皮层是有机综合视觉、语言、推理信息，从而构建全新概念地图（知识体系）的中枢。像马克思那样，从庞大图书中寻找相关数值并亲手抄录、进行批判性分析的过程, 能将联合皮层内部的突触连接网络最大化。",
-      "es": "Leer por encima solo activa la corteza visual. La lectura profunda y la correlación activan la <strong>corteza de asociación</strong>, el centro de integración del cerebro para crear marcos conceptuales. Extraer datos meticulosamente, como hacía Marx, mejora la conectividad sináptica, permitiendo al cerebro construir modelos macrosistémicos.",
-      "fr": "La lecture rapide n'active que le cortex visuel. La lecture profonde active l'<strong>aire d'association</strong>, le centre d'intégration cérébrale. Extraire les données méticuleusement permet au cerveau de construire des modèles macrosystémiques.",
-      "de": "Flüchtiges Lesen aktiviert nur die Sehrinde. Deep Reading dagegen regt den <strong>Assoziationskortex</strong> an, der Sinneseindrücke und Logik zu Konzepten verbindet. Das manuelle Herausschreiben von Informationen verbessert die synaptische Verknüpfung und stärkt das systemische Denken.",
-      "pt": "A leitura superficial ativa apenas o córtex visual. A leitura profunda e o cruzamento de dados ativam o <strong>córtex de associação</strong>, o centro de integração do cérebro. Extrair dados meticulosamente ajuda o cérebro a construir modelos macrossistêmicos.",
-      "id": "Membaca cepat hanya merangsang korteks visual. Namun, membaca mendalam dan membandingkan data mengaktifkan <strong>korteks asosiasi</strong>. Korteks asosiasi bertindak sebagai pusat integrasi, menyintesis input sensorik, linguistik, dan penalaran menjadi kerangka konseptual."
+      "ko": "인터넷 기사를 흘리듯 속독하거나 카드 뉴스를 훑는 가벼운 독서는 뇌의 시각 피질만을 자극하고 빠르게 휘발됩니다. 반면 복잡한 텍스트를 장시간 정독하고 데이터를 교차 검증하는 깊이 읽기(Deep Reading)는 뇌의 <strong>연합 피질(Association Cortex)</strong> 영역을 강력하게 자극합니다.\n\n연합 피질은 시각, 언어, 추리적 정보를 유기적으로 종합하여 새로운 개념적 지도(지식 체계)를 구축하는 중추입니다. 마르크스처럼 방대한 도서에서 관련 수치를 찾아 직접 손으로 옮겨 적고 이를 비판적으로 분석하는 과정은 연합 피질 내부의 시냅스 연결망을 극대화합니다. 이 과정에서 뇌는 단편적인 정보에 함몰되지 않고 복잡한 현상의 본질적인 인과적 뼈대를 발견하는 거시적 시스템 사고 역량을 획득하게 됩니다."
     },
     "cautionTitle": {
-      "ko": "디지털 노이즈를 걷어내야 통찰이 깊어집니다",
-      "en": "Deep Insight Requires Stripping Away Digital Noise",
-      "ja": "デジタルのノイズを取り除いてこそ洞察が深まります",
-      "zh": "拨开数字噪音才能深化洞察",
-      "es": "La visión profunda requiere eliminar el ruido digital",
-      "fr": "La clarté intellectuelle exige d'éliminer le bruit numérique",
-      "de": "Tiefe Einsicht erfordert das Abschalten digitaler Störgeräusche",
-      "pt": "A visão profunda exige a eliminação do ruído digital",
-      "id": "Wawasan Mendalam Membutuhkan Pembersihan Noise Digital"
+      "ko": "디지털 노이즈를 걷어내야 통찰이 깊어집니다"
     },
     "cautionDesc": {
-      "ko": "현대인들은 늘 다량의 디지털 알림과 하이퍼링크가 가득한 온라인 화면에 노출되어 있어, 뇌가 한 주제에 정적으로 머무를 여유가 없습니다. 마르크스처럼 스마트폰과 인터넷 연결이 차단된 물리적 공간에서 책을 정밀하게 읽고 손글씨로 옮기는 아날로그식 독서는 뇌의 연합 기능과 사고의 뼈대를 회복하는 강력한 두뇌 리셋 과정입니다.",
-      "en": "Modern screen environments filled with hyperlinks make it hard for the brain to dwell on one topic. Meticulous reading and writing in an analog environment, as Marx did, resets the brain's integrative functions. Take time to step away from digital noise.",
-      "ja": "現代人は常に多くのデジタル通知やハイパーリンクが溢れるオンライン画面にさらされており、脳が一つの主題に静的に留まる余裕がありません。マルクスのようにスマホやネット接続が遮断された物理的な空間で、本を精密に読み手書きで書き写すアナログ式読書は、脳の連合機能と思考の骨組みを回復する強力な脳リセットプロセスです。",
-      "zh": "现代人总是暴露在充斥着大量数字通知和超链接的在线屏幕中, 大脑很难有从容停留在单一主题上的余地。像马克思那样，在关闭手机和网络连接的物理空间里，精确阅读书籍并手写记录的模拟式阅读，是恢复大脑联合功能和思考脉络的强效脑部重置过程。",
-      "es": "Los entornos de pantalla llenos de hipervínculos dificultan que el cerebro se concentre. La lectura y escritura meticulosas en un entorno analógico restauran las funciones integradoras. Aléjese del ruido digital.",
-      "fr": "Les écrans et les hyperliens empêchent le cerveau de se concentrer. Lire et écrire dans un environnement analogique restaure les fonctions cognitives. Éloignez-vous du bruit.",
-      "de": "Digitale Ablenkungen erschweren es dem Gehirn, sich auf ein Thema zu konzentrieren. Analoges Lesen und Schreiben ohne Internetverbindung regenerieren die geistige Leistungsfähigkeit.",
-      "pt": "As telas cheias de links dificultam a concentração do cérebro. Ler e escrever de forma meticulosa em um ambiente analógico restaura as funções integrativas. Afaste-se do ruído digital.",
-      "id": "Lingkungan layar modern yang penuh tautan membuat otak sulit fokus pada satu topik. Membaca dan menulis secara cermat di lingkungan analog menyetel ulang fungsi integratif otak. Bebaskan diri dari noise digital."
+      "ko": "현대인들은 늘 다량의 디지털 알림과 하이퍼링크가 가득한 온라인 화면에 노출되어 있어, 뇌가 한 주제에 정적으로 머무를 여유가 없습니다. 마르크스처럼 스마트폰과 인터넷 연결이 차단된 물리적 공간에서 책을 정밀하게 읽고 손글씨로 옮기는 아날로그식 독서는 뇌의 연합 기능과 사고의 뼈대를 회복하는 강력한 두뇌 리셋 과정입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "아날로그 딥 리딩 환경 구축",
-          "en": "Set Up an Analog Deep Reading Environment",
-          "ja": "アナログディープリーディング環境の構築",
-          "zh": "构建模拟深度阅读环境",
-          "es": "Establezca un entorno de lectura analógica profunda",
-          "fr": "Établir un environnement de lecture analogique profonde",
-          "de": "Schaffen Sie eine analoge Deep-Reading-Umgebung",
-          "pt": "Estabeleça um ambiente de leitura analógica profunda",
-          "id": "Siapkan Lingkungan Membaca Mendalam Analog"
+          "ko": "아날로그 딥 리딩 환경 구축"
         },
         "text": {
-          "ko": "도서관의 조용한 구역이나 스마트폰 수신이 제한된 방을 선택합니다. 모든 알림을 끄고 전자기기를 시야 밖으로 완전히 치워 뇌에 들어오는 불필요한 노이즈를 사전에 방어합니다.",
-          "en": "Select a quiet spot in a library or a screen-free room. Turn off all notifications and put away devices to prevent unnecessary digital noise from reaching your brain.",
-          "ja": "図書館の静かなエリアや、スマホの電波が届きにくい部屋を選びます。すべての通知をオフにし、電子機器を視界から完全に排除して、脳に入り込む不要なノイズを事前に防御します。",
-          "zh": "选择图书馆的安静区域或手机信号受限的房间。关闭所有通知，将电子设备完全移出视线之外, 提前防御进入大脑的无用噪音。",
-          "es": "Elija un lugar silencioso en una biblioteca o una habitación sin pantallas. Apague las notificaciones y guarde sus dispositivos para evitar el ruido digital.",
-          "fr": "Choisissez un endroit silencieux dans une bibliothèque ou une pièce sans écran. Éteignez les notifications et rangez vos appareils pour éviter le bruit.",
-          "de": "Wählen Sie eine ruhige Ecke in der Bibliothek oder ein handyfreies Zimmer. Schalten Sie alle Benachrichtigungen aus und legen Sie Geräte außer Sichtweite.",
-          "pt": "Escolha um local silencioso na biblioteca ou um quarto sem telas. Desligue as notificações e guarde seus dispositivos para evitar o ruído digital.",
-          "id": "Pilih area tenang di perpustakaan atau ruangan bebas layar. Matikan semua notifikasi dan singkirkan perangkat elektronik agar tidak mengganggu otak Anda."
+          "ko": "도서관의 조용한 구역이나 스마트폰 수신이 제한된 방을 선택합니다. 모든 알림을 끄고 전자기기를 시야 밖으로 완전히 치워 뇌에 들어오는 불필요한 노이즈를 사전에 방어합니다."
         }
       },
       {
         "name": {
-          "ko": "수기 초록 및 발췌 노트 작성",
-          "en": "Write Excerpts Manually in a Notebook",
-          "ja": "手書きの抄録および引用ノートの作成",
-          "zh": "手写摘抄与发掘笔记",
-          "es": "Escriba extractos a mano en un cuaderno",
-          "fr": "Écrire les extraits à la main dans un carnet",
-          "de": "Schreiben Sie Auszüge manuell in ein Notizbuch",
-          "pt": "Escreva trechos à mão em um caderno",
-          "id": "Tulis Kutipan Secara Manual di Buku Catatan"
+          "ko": "수기 초록 및 발췌 노트 작성"
         },
         "text": {
-          "ko": "준비한 책이나 연구 자료를 읽으며, 뇌가 깊이 소화해야 할 핵심 사실, 통계 데이터, 혹은 주요 문구를 아날로그 공책에 펜으로 정성을 들여 한 줄 한 줄 직접 손으로 옮겨 적습니다.",
-          "en": "While reading your books or research materials, write down key facts, statistics, or major concepts in your notebook. Do this manually to help your brain absorb the information.",
-          "ja": "用意した本や研究資料を読みながら、脳で深く消化すべき核心的な事実、統計データ、または主要な文章をアナログのノートにペンで丁寧に一文字ずつ直接書き写します。",
-          "zh": "阅读准备好的书籍或研究资料, 将大脑需要深度消化的核心事实、统计数据或主要语句, 用钢笔一字一句、认认真真地手写抄录在纸质笔记本上。",
-          "es": "Al leer libros o investigaciones, anote los datos clave, estadísticas o conceptos en su cuaderno. Hágalo a mano para ayudar a su cerebro a absorber los datos.",
-          "fr": "En lisant, notez les faits clés, statistiques ou concepts dans votre carnet. Faites-le à la main pour aider votre cerveau à assimiler les données.",
-          "de": "Schreiben Sie beim Lesen wichtige Fakten, Zahlen oder Textstellen von Hand heraus. Das manuelle Aufschreiben hilft dem Gehirn, die Daten zu verarbeiten.",
-          "pt": "Ao ler livros ou pesquisas, anote os dados principais, estatísticas ou conceitos no seu caderno. Faça isso à mão para ajudar seu cérebro a absorver as informações.",
-          "id": "Saat membaca buku atau bahan riset, tuliskan fakta kunci, statistik, atau konsep utama di buku catatan Anda. Lakukan secara manual untuk membantu otak menyerapnya."
+          "ko": "준비한 책이나 연구 자료를 읽으며, 뇌가 깊이 소화해야 할 핵심 사실, 통계 데이터, 혹은 주요 문구를 아날로그 공책에 펜으로 정성을 들여 한 줄 한 줄 직접 손으로 옮겨 적습니다."
         }
       },
       {
         "name": {
-          "ko": "비판적 연합 해설 덧붙이기",
-          "en": "Add Critical Interpretations",
-          "ja": "批判的な連合解説の追加",
-          "zh": "添加批判性联合解析",
-          "es": "Añada interpretaciones críticas",
-          "fr": "Ajouter des interprétations critiques",
-          "de": "Fügen Sie kritische Kommentare hinzu",
-          "pt": "Adicione interpretações críticas",
-          "id": "Tambahkan Interpretasi Kritis"
+          "ko": "비판적 연합 해설 덧붙이기"
         },
         "text": {
-          "ko": "발췌한 문구 바로 밑에 '이 수치는 원래 주장과 어떻게 연결되는가?' 또는 '내 업무나 연구에 어떻게 적용될 수 있는가?' 등 자신의 해석과 질문을 2~3줄 적어 연합 피질의 구조적 사고를 연결합니다.",
-          "en": "Directly below the excerpt, write 2 to 3 lines of your own analysis or questions (e.g., 'How does this connect to my project?'). This triggers the association cortex's integrative thinking.",
-          "ja": "引用した文章のすぐ下に「この数値は元の主張とどう繋がっているか？」または「自分の仕事や研究にどう適用できるか？」など、自身の解釈や疑問を2〜3行書き、連合野の構造的思考を結びつけます。",
-          "zh": "在抄录好的语句正下方, 写下 2 到 3 行自己的分析或疑问（如“这个数值如何与我的项目相关联？”）, 借此激活联合皮层的整合思维。",
-          "es": "Debajo del extracto, escriba 2 o 3 líneas de su propio análisis o preguntas (por ejemplo, '¿cómo se conecta esto con mi trabajo?'). Esto activa el pensamiento integrador.",
-          "fr": "Sous l'extrait, écrivez 2 ou 3 lignes de votre propre analyse (par exemple, 'comment cela s'applique-t-il à mon travail ?'). Cela stimule la pensée intégrative.",
-          "de": "Schreiben Sie unter den Auszug 2 bis 3 Zeilen mit eigenen Analysen oder Fragen (z. B. 'Wie lässt sich das auf meine Arbeit übertragen?'). Dies fördert das systemische Denken.",
-          "pt": "Abaixo do trecho, escreva 2 ou 3 linhas da sua própria análise ou perguntas (por exemplo, 'como isso se conecta com meu trabalho?'). Isso ativa o pensamento integrador.",
-          "id": "Tepat di bawah kutipan, tulis 2 hingga 3 baris analisis atau pertanyaan Anda sendiri (misalnya, 'Bagaimana ini berhubungan dengan proyek saya?'). Ini memicu pemikiran integratif."
+          "ko": "발췌한 문구 바로 밑에 '이 수치는 원래 주장과 어떻게 연결되는가?' 또는 '내 업무나 연구에 어떻게 적용될 수 있는가?' 등 자신의 해석과 질문을 2~3줄 적어 연합 피질의 구조적 사고를 연결합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "타이핑하여 디지털 파일로 정리하는 독서 노트는 효과가 떨어지나요?",
-          "en": "Is a digital reading note kept by typing less effective?",
-          "ja": "タイピングしてデジタルファイルに整理する読書ノートは効果が落ちますか？",
-          "zh": "通过打字整理成电子文件的阅读笔记效果会打折扣吗？",
-          "es": "¿Es menos efectiva una nota de lectura digital guardada al escribir en teclado?",
-          "fr": "Prendre des notes de lecture sur ordinateur est-il moins efficace ?",
-          "de": "Sind digitale Lesezeichen oder Notizen auf dem Computer weniger effektiv?",
-          "pt": "Um bloco de notas de leitura digital mantido por digitação é menos eficaz?",
-          "id": "Apakah catatan bacaan digital yang diketik kurang efektif?"
+          "ko": "타이핑하여 디지털 파일로 정리하는 독서 노트는 효과가 떨어지나요?"
         },
         "answer": {
-          "ko": "디지털 타이핑은 손가락 움직임이 반복적이고 마찰력이 적어 뇌의 인지 자극 강도가 낮습니다. 특히 모니터 화면의 다른 창이나 링크로 인한 주의 분산 확률이 비약적으로 증가하므로, 정보의 심층적 연결을 만들고 뇌를 구조화하려면 아날로그 독서와 필사가 훨씬 이상적입니다.",
-          "en": "Typing is repetitive and offers minimal tactile stimulation. Crucially, computer screens have multitasking distractions. For deep information mapping and brain restructuring, analog reading and hand-writing are much more ideal.",
-          "ja": "デジタルタイピングは指の動きが反復的で摩擦が少ないため、脳の認知刺激の強度が低めです。特にモニター画面の他のウィンドウやリンクによる注意散漫の確率が飛躍的に高まるため、情報の深層的な繋がりを作り脳を構造化するには、アナログ読書と筆写がはるかに理想的です。",
-          "zh": "电子打字的手指动作重复性强且摩擦力小, 因而大脑的认知刺激强度较低。特别地, 显示器屏幕上的其他窗口或链接导致注意力分散的概率会急剧增加, 因而为了建立信息的深层联系并结构化大脑, 模拟式阅读和抄写要理想得多。",
-          "es": "Escribir en teclado es repetitivo y ofrece poca estimulación táctil. Las pantallas tienen distracciones de multitarea. Para un mapeo profundo y reestructuración mental, la lectura y escritura analógicas son ideales.",
-          "fr": "Taper sur un clavier est répétitif et offre peu de stimulation tactile. Les écrans apportent des distractions. Pour une assimilation profonde, l'écriture analogique est idéale.",
-          "de": "Tippen ist ein eintöniger Prozess mit geringem Reiz. Zudem lenken Bildschirme ab. Für eine tiefe Informationsverarbeitung sind das Lesen von Büchern und das Schreiben von Hand weitaus besser geeignet.",
-          "pt": "Digitar é repetitivo e oferece pouca estimulação tátil. As telas trazem distrações. Para um mapeamento profundo e reestruturação mental, a leitura e a escrita analógicas são ideais.",
-          "id": "Mengetik bersifat repetitif dan menawarkan stimulasi taktil yang minim. Selain itu, layar komputer memicu gangguan multitasking. Untuk pemetaan informasi mendalam, membaca analog dan menulis tangan jauh lebih ideal."
+          "ko": "디지털 타이핑은 손가락 움직임이 반복적이고 마찰력이 적어 뇌의 인지 자극 강도가 낮습니다. 특히 모니터 화면의 다른 창이나 링크로 인한 주의 분산 확률이 비약적으로 증가하므로, 정보의 심층적 연결을 만들고 뇌를 구조화하려면 아날로그 독서와 필사가 훨씬 이상적입니다."
         }
       },
       {
         "question": {
-          "ko": "매일 10시간씩 독서할 여유가 없는 현대인들은 어떻게 해야 하나요?",
-          "en": "What should modern people do if they don't have time to read for 10 hours daily?",
-          "ja": "毎日10時間ずつ読書する余裕のない現代人はどうすれば良いですか？",
-          "zh": "没有时间每天阅读10小时的 现代人该怎么做？",
-          "es": "¿Qué deben hacer las personas de hoy si no tienen tiempo para leer 10 horas al día?",
-          "fr": "Que doivent faire les gens s'ils n'ont pas le temps de lire 10 heures par jour ?",
-          "de": "Was sollten vielbeschäftigte Menschen tun, die keine 10 Stunden täglich lesen können?",
-          "pt": "O que as pessoas devem fazer se não tiverem tempo para ler 10 horas por dia?",
-          "id": "Apa yang harus dilakukan manusia modern jika tidak memiliki waktu membaca 10 jam sehari?"
+          "ko": "매일 10시간씩 독서할 여유가 없는 현대인들은 어떻게 해야 하나요?"
         },
         "answer": {
-          "ko": "시간의 양보다 중요한 것은 '완벽히 차단된 몰입의 경험'입니다. 하루에 단 30분이라도 전자기기를 끄고 하나의 장벽이 높은 텍스트를 정독하며 1~2페이지 분량의 수기 노트를 적는 훈련을 지속하는 것만으로도 연합 피질 활성화의 훌륭한 효과를 거둘 수 있습니다.",
-          "en": "The quality of screen-free focus matters more than the quantity of time. Even just 30 minutes a day of screen-free, focused reading and writing 1 or 2 pages of notes is enough to stimulate the association cortex and improve system thinking.",
-          "ja": "時間の量よりも重要なのは「完全に遮断された没頭の経験」です。一日にわずか30分でも電子機器をオフにし、一つの難易度の高いテキストを精読して1〜2ページ分の手書きノートを書く訓練を続けるだけでも、連合野活性化の素晴らしい効果を得られます。",
-          "zh": "相比时间的多少, 更重要的是“完全隔离的沉浸体验”。每天哪怕只有30分钟关闭电子设备, 精读一篇高门槛的文本并坚持写下1到2页的手写笔记训练, 也足以取得激活联合皮层的极佳效果。",
-          "es": "La calidad de la concentración sin pantallas importa más que la cantidad de tiempo. Incluso solo 30 minutos al día de lectura concentrada y escribir 1 o 2 páginas de notas es suficiente para estimular la corteza asociativa.",
-          "fr": "La qualité de la concentration sans écran importe plus que la quantité de temps. Même 30 minutes par jour de lecture concentrée et de prise de notes suffisent à stimuler l'aire d'association.",
-          "de": "Die Qualität der bildschirmfreien Konzentration ist wichtiger als die Zeitdauer. Schon 30 Minuten tägliches Deep Reading und das Schreiben kurzer Notizen reichen aus, um den Assoziationskortex zu stimulierte.",
-          "pt": "A qualidade da concentração sem telas importa mais do que a quantidade de tempo. Apenas 30 minutos por dia de leitura concentrada e escrita de 1 ou 2 páginas de notas já são suficientes para estimular o córtex de associação.",
-          "id": "Kualitas fokus bebas layar lebih penting daripada kuantitas waktu. Bahkan hanya 30 menit sehari membaca fokus bebas layar dan menulis 1-2 halaman catatan sudah cukup untuk merangsang korteks asosiasi."
+          "ko": "시간의 양보다 중요한 것은 '완벽히 차단된 몰입의 경험'입니다. 하루에 단 30분이라도 전자기기를 끄고 하나의 장벽이 높은 텍스트를 정독하며 1~2페이지 분량의 수기 노트를 적는 훈련을 지속하는 것만으로도 연합 피질 활성화의 훌륭한 효과를 거둘 수 있습니다."
         }
       }
-    ],
-    "pubDate": "2026-03-17",
-    "updatedDate": "2026-03-17"
+    ]
   }
 }

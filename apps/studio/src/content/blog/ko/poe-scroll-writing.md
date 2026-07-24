@@ -1,14 +1,14 @@
 ---
 title: "원고를 두루마리로 이어 붙여 쓴 추리 소설가? 에드거 앨런 포의 초집중 필기법"
 description: "근대 추리 소설의 시조 에드거 앨런 포는 좁은 종이 띠에 글을 쓰고 계속 이어 붙여 두루마리로 제작했습니다. 시선 좌우 유입을 차단하여 인지 터널링 효과를 내는 뇌 과학적 원리를 규명합니다."
-pubDate: "2026-01-03"
-updatedDate: "2026-01-03"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["원고를 두루마리로 ","Routine"]
-heroImage: "/images/blog/poe_scroll_writing.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/poe_scroll_writing.png"
 app: "buildself"
 formatVersion: 4
-authority: "제프리 마이어스의 '에드거 앨런 포 평전' 및 응용인지심리학(Applied Cognitive Psychology) 연구"
+authority: "에드거 앨런 포 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "집필 공간의 시각적 축소"
     text: "모니터 화면에 불필요한 레이아웃을 모두 끄고 텍스트 에디터 창의 가로 폭을 최대한 좁게 조절하여 시선이 좌우로 흐트러지지 않게 터널처럼 고정합니다."
@@ -21,6 +21,7 @@ faqs:
     answer: "네, 그가 쓴 일부 원고(예: '벨라 도나' 등의 비평이나 단편)들은 실제 그가 풀로 이어 붙인 좁은 두루마리 형태로 미국의 필라델피아 프리 라이브러리(Free Library of Philadelphia) 등 박물관에 보존되어 있습니다."
   - question: "디지털 화면에서 '글 고치기 버릇'을 막는 프로그램이 있나요?"
     answer: "네, 입력 도중 백스페이스를 누르거나 멈추면 원고가 지워지기 시작하는 등 뒤로 돌아갈 수 없게 강제하는 초안 전문 앱(예: The Most Dangerous Writing App)이나 타자기 모드를 지원하는 에디터들이 효과적입니다."
+
 ---
 
 '까마귀'와 '검은 고양이' 등 기괴하고 서늘한 공포 문학의 선구자이자 근대 추리 소설의 창시자로 추앙받는 거장 에드거 앨런 포. 인간 내면의 심리적 불안과 완벽하게 짜인 논리적 미스터리를 자아냈던 그의 천재적인 원고는 과연 어떤 도구 위에서 탄생했을까요? 📜
@@ -33,29 +34,31 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>제프리 마이어스의 '에드거 앨런 포 평전' 및 응용인지심리학(Applied Cognitive Psychology) 연구</strong>에 기반하고 있습니다.
+      본 콘텐츠는 <strong>에드거 앨런 포 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 poe-scroll-writing 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 인지적 터널링과 자기 감시 회로 억제
+## 인지적 터널링과 자기 감시 회로 억제
 
-시야 폭을 극도로 좁은 띠 형태로 제어하면 뇌의 불필요한 시선 탐색 추적(Saccadic movement)이 감소하여 전두엽의 시각 주의력 낭비가 획기적으로 차단됩니다. 뇌 과학에서는 이 상태를 시각 정보의 유입 폭을 강제 제한하여 몰입을 돕는 '인지적 터널링(Cognitive Tunneling)'이라고 칭합니다.
+시야 폭을 극도로 좁은 띠 형태로 제어하면 뇌의 불필요한 시선 탐색 추적(Saccadic movement)이 감소하여 전두엽의 시각 주의력 낭비가 획기적으로 차단됩니다. 뇌 과학에서는 이 상태를 시각 정보의 유입 폭을 강제 제한하여 몰입을 돕는 <strong>'인지적 터널링(Cognitive Tunneling)'</strong>이라고 칭합니다.
 
-동시에, 끝없이 아래로만 이어지는 물리적 스크롤 구조는 작가들이 흔히 겪는 파괴적 버릇, 즉 '방금 쓴 문장을 다시 읽고 고치려는 행동'을 억제합니다. 문장을 즉각 평가하려는 뇌의 '자기 감시(Self-monitoring)' 회로가 차단되면, 뇌는 정제되지 않은 잠재의식 속 생각의 유기적 흐름인 '자유 연상'을 방해받지 않고 끝까지 유지할 수 있게 되어 독창적이고 유창한 집필이 가능해집니다.
+동시에, 끝없이 아래로만 이어지는 물리적 스크롤 구조는 작가들이 흔히 겪는 파괴적 버릇, 즉 '방금 쓴 문장을 다시 읽고 고치려는 행동'을 억제합니다. 문장을 즉각 평가하려는 뇌의 <strong>'자기 감시(Self-monitoring)'</strong> 회로가 차단되면, 뇌는 정제되지 않은 잠재의식 속 생각의 유기적 흐름인 '자유 연상'을 방해받지 않고 끝까지 유지할 수 있게 되어 독창적이고 유창한 집필이 가능해집니다.
 
 ---
 
-## 2. 현대인을 위한 3단계 실천 루틴
+## 자기 편집(Editing)과의 격리
+
+글을 쓸 때 한 문장 단위로 고치는 버릇은 우뇌의 창의적 회로와 좌뇌의 비판적 회로를 끊임없이 충돌하게 만들어 뇌에 심각한 피로를 줍니다. 포가 스크롤을 끝없이 아래로 이어 쓴 것처럼, 집필 단계에서는 비판적인 편집 회로를 강제로 끄고 오직 아이디어를 쏟아내는 것에만 뇌 에너지를 사용한 뒤, 수정은 완전히 나중에 실행하는 것이 원칙입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">단계 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">집필 공간의 시각적 축소</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -65,7 +68,7 @@ faqs:
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">단계 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">자기 비판 잠금 및 스크롤 고수</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -75,7 +78,7 @@ faqs:
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">단계 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">창작-편집 인지 모드 완벽 분리</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -83,24 +86,13 @@ faqs:
   </p>
 </div>
 
----
-
-## 3. 자기 편집(Editing)과의 격리
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      글을 쓸 때 한 문장 단위로 고치는 버릇은 우뇌의 창의적 회로와 좌뇌의 비판적 회로를 끊임없이 충돌하게 만들어 뇌에 심각한 피로를 줍니다. 포가 스크롤을 끝없이 아래로 이어 쓴 것처럼, 집필 단계에서는 비판적인 편집 회로를 강제로 끄고 오직 아이디어를 쏟아내는 것에만 뇌 에너지를 사용한 뒤, 수정은 완전히 나중에 실행하는 것이 원칙입니다.
-    </p>
-  </div>
-</div>
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>에드거 앨런 포의 두루마리 원고가 오늘날에도 존재하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -108,9 +100,9 @@ faqs:
       네, 그가 쓴 일부 원고(예: '벨라 도나' 등의 비평이나 단편)들은 실제 그가 풀로 이어 붙인 좁은 두루마리 형태로 미국의 필라델피아 프리 라이브러리(Free Library of Philadelphia) 등 박물관에 보존되어 있습니다.
     </p>
   </details>
-
+  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>디지털 화면에서 '글 고치기 버릇'을 막는 프로그램이 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

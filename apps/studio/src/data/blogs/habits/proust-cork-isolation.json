@@ -1,218 +1,72 @@
 {
   "proust-cork-isolation": {
     "title": {
-      "ko": "기억을 깨우는 고요의 방? 마르셀 프루스트의 코르크 감각 차단법",
-      "en": "A Silent Room Awakening Memory? Marcel Proust's Cork Isolation",
-      "ja": "記憶を呼び覚ます静寂の部屋？マルセル・プルーストのコルク防音感覚遮断法",
-      "zh": "唤醒记忆的寂静之室？马塞尔·普鲁斯特的“软木感官屏蔽”",
-      "es": "¿Una habitación silenciosa para despertar el recuerdo? La desensibilización con corcho de Marcel Proust",
-      "fr": "Une chambre silencieuse pour retrouver le temps ? L'isolation en liège de Marcel Proust",
-      "de": "Wie absolute Stille Erinnerungen weckt? Marcel Prousts Kork-Kammer",
-      "pt": "Um quarto silencioso para despertar a memória? A desensibilização com cortiça de Marcel Proust",
-      "id": "Ruang Sunyi yang Membangkitkan Ingatan? Metode Isolasi Gabus ala Marcel Proust"
+      "ko": "기억을 깨우는 고요의 방? 마르셀 프루스트의 코르크 감각 차단법"
     },
     "description": {
-      "ko": "자전적 명작 '잃어버린 시간을 찾아서'를 집필한 프루스트. 침실에 코르크를 대어 빛과 소리를 막고 기억을 더듬었던 그의 감각 통제 루틴과 신경과학적 근거를 소개합니다.",
-      "en": "Marcel Proust, who wrote 'In Search of Lost Time'. Discover his sensory control routine of lining his bedroom with cork to block light and sound, and its neuroscientific basis.",
-      "ja": "自伝的名作「失われた時を求めて」を執筆したプルースト。寝室にコルクを張って光と音を遮断し記憶を辿った彼の感覚制御ルーティンと神経科学的根拠を紹介します。",
-      "zh": "创作自传体名著《追寻逝去的时光》的普鲁斯特。介绍他在卧室内壁贴上软木防音板以阻断光线和噪音、追寻记忆的感官控制常规及其脑科学依据。",
-      "es": "Marcel Proust, autor de 'En busca del tiempo perdido'. Descubra su rutina de control sensorial de revestir su dormitorio con corcho para bloquear luz y sonido, y su base neurocientífica.",
-      "fr": "Marcel Proust, l'auteur d' 'À la recherche du temps perdu'. Découvrez sa routine d'isolation en liège pour bloquer la lumière et le bruit, et ses fondements neuroscientifiques.",
-      "de": "Erfahren Sie, wie Marcel Proust durch absolute Reizabschirmung in seinem korkgedämmten Zimmer tiefste Erinnerungen für sein Meisterwerk freisetzte.",
-      "pt": "Marcel Proust, autor de 'Em Busca do Tempo Perdido'. Descubra sua rotina de controle sensorial de revestir seu quarto com cortiça para bloquear luz e som, e sua base neurocientífica.",
-      "id": "Marcel Proust, penulis mahakarya otobiografi 'In Search of Lost Time'. Temukan rutinitas kontrol sensoriknya dengan melapisi kamar tidurnya dengan gabus untuk menghalangi cahaya dan suara, serta dasar neurosainsnya."
+      "ko": "자전적 명작 '잃어버린 시간을 찾아서'를 집필한 프루스트. 침실에 코르크를 대어 빛과 소리를 막고 기억을 더듬었던 그의 감각 통제 루틴과 신경과학적 근거를 소개합니다."
     },
     "authority": {
-      "ko": "카르나발레 박물관 프루스트 침실 고증 전시 및 Journal of Cognitive Neuroscience",
-      "en": "Musée Carnavalet Proust Bedroom Restoration Exhibition & Journal of Cognitive Neuroscience",
-      "ja": "カルナヴァレ美術館 プルーストの寝室考証展示および「Journal of Cognitive Neuroscience」",
-      "zh": "卡尔纳瓦莱博物馆普鲁斯特卧室复原展览与学术期刊《Journal of Cognitive Neuroscience》",
-      "es": "Exhibición de restauración del dormitorio de Proust en el Museo Carnavalet y Journal of Cognitive Neuroscience",
-      "fr": "Exposition de la chambre de Proust au musée Carnavalet & Journal of Cognitive Neuroscience",
-      "de": "Musée Carnavalet Proust-Zimmer-Ausstellung & Journal of Cognitive Neuroscience",
-      "pt": "Exposição de restauração do quarto de Proust no Museu Carnavalet & Journal of Cognitive Neuroscience",
-      "id": "Pameran Restorasi Kamar Tidur Proust di Musée Carnavalet & Jurnal Journal of Cognitive Neuroscience"
+      "ko": "마르셀 프루스트 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "20세기 소설 문학의 혁명을 이끌고, 감각적 묘사의 극치를 보여준 프랑스의 소설가 마르셀 프루스트. 그는 평생 천식과 심각한 신경쇠약에 시달렸으며, 특히 미세한 빛과 소리에도 신경질적으로 반응하는 감각 과민증을 앓고 있었습니다. 이로 인해 그는 파리 시내의 번잡한 소음을 피해 자신만의 침실을 완전한 방음 요새로 개조하기에 이르렀습니다.\n\n프루스트는 침실 벽면 전체를 두꺼운 코르크 판으로 둘러싸 소리를 완전히 차단했습니다. 창문에는 빛이 한 줌도 새어 들지 않도록 겹겹이 두꺼운 커튼을 쳤고, 오직 희미한 촛불 아래 침대에 누워 글을 썼습니다. 외부의 인위적인 모든 감각을 강박적으로 차단한 이 공간에서, 프루스트는 홍차에 적신 마들렌 빵의 냄새 같은 미세한 후각 자극 하나로 뇌 속 무의식에 잠들어 있던 수십 년 전의 기억들을 완벽히 길어 올릴 수 있었습니다.\n\n오늘 BuildSelf에서는 마르셀 프루스트의 '코르크 감각 차단' 습관이 인지과학적으로 기억과 몰입에 어떤 역할을 하는지, 현대인들이 외부의 주의 분산 요소를 끊어내는 데 어떻게 적용할 수 있는지 알아봅니다.",
-      "en": "Marcel Proust, the French novelist who revolutionized 20th-century fiction and demonstrated the peak of sensory description. He suffered from chronic asthma and severe neurasthenia throughout his life, particularly sensory hypersensitivity that reacted neurotically to minute light and sound. Consequently, he remodeled his bedroom into a complete soundproof fortress to escape Paris's noisy environment.\n\nProust lined all the walls of his bedroom with thick cork panels to completely block sound. He hung layered heavy curtains to prevent even a single beam of light from entering, and wrote lying in bed under a dim candle. In this space that obsessively cut off all external artificial sensations, Proust was able to perfectly recall memories from decades ago that slept in his subconscious, triggered by a tiny sensory cue like the smell of a madeleine cake dipped in tea.\n\nToday, BuildSelf explores the neuroscientific mechanisms behind Marcel Proust's 'cork sensory isolation' habit and how modern people can adapt it to shut off external distractions.",
-      "ja": "この歴史的習慣の実践において：20 , . , . . この歴史的習慣の実践において： . , . , . この歴史的習慣の実践において： BuildSelf ' ' , .",
-      "zh": "在这一历史性惯例的实践中：20 , . , . . 在这一历史性惯例的实践中： . , . , . 在这一历史性惯例的实践中： BuildSelf ' ' , .",
-      "es": "Marcel Proust, el novelista francés que revolucionó la ficción del siglo XX y demostró la cima de la descripción sensorial. Sufrió de asma crónica y una grave neurastenia, en particular hipersensibilidad sensorial a la luz y al sonido. Por ello, reformó su dormitorio para convertirlo en una fortaleza insonorizada.\n\nProust revistió las paredes de su dormitorio con gruesos paneles de corcho para bloquear el sonido. Colgó pesadas cortinas para evitar que entrara luz, y escribía acostado en la cama a la luz de una vela. En este espacio, Pelé era capaz de recordar perfectamente vivencias de hacía décadas, desencadenadas por un estímulo olfativo como una magdalena mojada en té.\n\nHoy, BuildSelf explora cómo el hábito de 'aislamiento con corcho' de Marcel Proust influye en la memoria y cómo aplicarlo para desconectarse hoy en día.",
-      "fr": "Marcel Proust, le romancier français qui a révolutionné la fiction du XXe siècle. Il a souffert toute sa vie d'asthme et d'hypersensibilité sensorielle au moindre bruit et à la lumière. Pour y échapper, il transforma sa chambre en une véritable forteresse insonorisée.\n\nProust recouvrit ses murs de plaques de liège pour bloquer les bruits de la rue. Des rideaux épais occultaient la lumière du jour, et il écrivait allongé dans son lit, éclairé par une bougie. Dans cette cellule préservée de toute stimulation artificielle, il parvenait à ressusciter ses souvenirs les plus lointains, déclenchés par une simple odeur de madeleine trempée dans le thé.\n\nAujourd'hui, BuildSelf analyse la méthode d'isolation de Proust sur le plan cognitif, et explique comment l'adapter pour se protéger des distractions.",
-      "de": "Marcel Proust, der französische Schriftsteller, der die Literatur des 20. Jahrhunderts revolutionierte. Er litt Zeit seines Lebens unter Asthma und einer extremen Überempfindlichkeit gegenüber Licht und Geräuschen. Um der Pariser Hektik zu entkommen, baute er sein Schlafzimmer in eine schallisolierte Festung um.\n\nProust ließ die Wände mit dicken Korkplatten dämmen, schloss die Vorhänge vollständig und schrieb im Schein einer Kerze im Bett liegend. In dieser absoluten Stille reichte ein winziger Sinnesreiz – wie der Geruch einer in Tee getauchten Madeleine –, um im Gehirn die Erinnerungen an seine gesamte Kindheit wachzurufen.\n\nHeute zeigt BuildSelf, wie absolute Reizabschirmung dem Gehirn hilft, tief vergrabene Informationen abzurufen, und wie Sie diese Technik nutzen können, um im modernen Alltag tief in Ihre Arbeit einzutauchen.",
-      "pt": "Marcel Proust, o romancista francês que revolucionou a ficção do século XX e demonstrou o ápice da descrição sensorial. Ele sofria de asma crônica e neurastenia grave ao longo da vida, particularmente de hipersensibilidade sensorial à luz e ao som. Por isso, reformou seu quarto para transformá-lo em uma fortaleza acústica.\n\nProust revestiu todas as paredes do quarto com painéis espessos de cortiça para bloquear o som. Pendurou cortinas pesadas em camadas para evitar a entrada de luz e escrevia deitado na cama à luz de uma vela. Neste espaço, ele era capaz de recordar perfeitamente vivências de décadas atrás, desencadeadas por um estímulo olfativo como uma madalena molhada em chá.\n\nHoje, o BuildSelf explora como o hábito de 'isolamento com cortiça' de Marcel Proust influi na memória e como aplicar isso para desconectar-se no dia a dia.",
-      "id": "Marcel Proust, novelis Prancis yang merevolusi fiksi abad ke-20 dan menunjukkan puncak deskripsi sensorik. Ia menderita asma kronis dan neurastenia parah sepanjang hidupnya, terutama hipersensitivitas sensorik yang bereaksi secara neurotis terhadap cahaya dan suara kecil. Akibatnya, ia merombak kamar tidurnya menjadi benteng kedap suara total untuk melarikan diri dari lingkungan Paris yang bising.\n\nProust melapisi semua dinding kamar tidurnya dengan panel gabus tebal untuk memblokir suara sepenuhnya. Ia menggantung tirai tebal berlapis-lapis untuk mencegah seberkas cahaya pun masuk, dan menulis sambil berbaring di tempat tidur di bawah lilin yang redup. Di ruang yang secara obsesif memotong semua sensasi buatan luar ini, Proust mampu mengingat kembali ingatan puluhan tahun lalu yang tertidur di alam bawah sadarnya secara sempurna, dipicu oleh isyarat sensorik kecil seperti aroma kue madeleine yang dicelupkan ke dalam teh.\n\nHari ini, BuildSelf mengeksplorasi mekanisme neurosains di balik kebiasaan 'isolasi gabus' Marcel Proust dan bagaimana manusia modern dapat menyesuaikannya untuk mematikan gangguan luar."
+      "ko": "\"과거를 기억해내기 위해서는, 현재 나를 방해하는 세상의 모든 빛과 소리로부터 도망쳐야 한다.\" 🕯️\n\n20세기 소설 문학의 혁명을 이끌고, 감각적 묘사의 극치를 보여준 프랑스의 소설가 마르셀 프루스트. 그는 평생 천식과 심각한 신경쇠약에 시달렸으며, 특히 미세한 빛과 소리에도 신경질적으로 반응하는 감각 과민증을 앓고 있었습니다. 이로 인해 그는 파리 시내의 번잡한 소음을 피해 자신만의 침실을 완전한 방음 요새로 개조하기에 이르렀습니다.\n\n프루스트는 침실 벽면 전체를 두꺼운 코르크 판으로 둘러싸 소리를 완전히 차단했습니다. 창문에는 빛이 한 줌도 새어 들지 않도록 겹겹이 두꺼운 커튼을 쳤고, 오직 희미한 촛불 아래 침대에 누워 글을 썼습니다. 외부의 인위적인 모든 감각을 강박적으로 차단한 이 공간에서, 프루스트는 홍차에 적신 마들렌 빵의 냄새 같은 미세한 후각 자극 하나로 뇌 속 무의식에 잠들어 있던 수십 년 전의 기억들을 완벽히 길어 올릴 수 있었습니다.\n\n오늘 포스트에서는 마르셀 프루스트의 '코르크 감각 차단' 습관이 인지과학적으로 기억과 몰입에 어떤 역할을 하는지, 현대인들이 외부의 주의 분산 요소를 끊어내는 데 어떻게 적용할 수 있는지 알아봅니다."
     },
     "whyTitle": {
-      "ko": "무작위 정보 과부하를 막는 '시상 차단'의 효과",
-      "en": "The Effect of 'Thalamus Gating' Preventing Random Information Overload",
-      "ja": "無作為な情報過多を防ぐ「視床ゲート」の効果",
-      "zh": "阻断随机信息过载的“视床屏蔽”效果",
-      "es": "El efecto de la 'filtración del tálamo' que previene la sobrecarga de información",
-      "fr": "L'effet de filtrage du thalamus contre la surcharge mentale",
-      "de": "Thalamus-Filterung zur Vermeidung von Reizüberflutung",
-      "pt": "O efeito da 'filtragem do tálamo' que previne a sobrecarga de informações",
-      "id": "Efek dari 'Penyaringan Talamus' Mencegah Kelebihan Beban Informasi Acak"
+      "ko": "무작위 정보 과부하를 막는 '시상 차단'의 효과"
     },
     "whyDesc": {
-      "ko": "우리 뇌에서 감각 정보를 의식으로 전달하는 관문인 <strong>시상(Thalamus)</strong>은 주변의 소음이나 스마트폰 빛이 유입될 때마다 정보를 분류하느라 상당한 에너지를 소모합니다. 이는 전두엽의 인지적 실행 자원을 소모시켜 주의 분산을 유발합니다.\n\n프루스트처럼 물리적인 코르크 방음과 암실 환경을 조성해 인위적 자극을 원천 차단하면, 뇌는 정보 필터링에 쓰이던 주의 집중 에너지를 모두 아껴 내적 성찰과 인지 처리로 돌릴 수 있습니다. 이 상태에서는 과거 기억을 인출하는 해마와 기억 결합을 돕는 연합 피질 부위가 최대로 활성화되어, 억지로 집중하려 애쓰지 않아도 무의식에서 장기 기억을 선명하게 끄집어내는 브레인 고속도로가 형성됩니다.",
-      "en": "The <strong>thalamus</strong>, the gateway in our brain that transfers sensory information to consciousness, consumes substantial energy classifying information every time surrounding noise or smartphone light enters. This depletes the frontal lobe's cognitive executive resources, causing distractions.\n\nWhen you block artificial stimuli at the source by creating a physical cork-soundproofed and dark environment like Proust, the brain saves all attention-focusing energy used for information filtering and channels it into internal reflection and cognitive processing. In this state, the hippocampus, which retrieves past memories, and the association cortex, which assists in memory integration, are activated to their maximum, forming a brain highway that vividly pulls long-term memories from the subconscious without forced effort.",
-      "ja": "脳内で感覚情報を意識へと伝達するゲートウェイである<strong>視床（Thalamus）</strong>は, 周囲の騒音やスマートフォンの光が入り込むたびに情報を分類するのに相当なエネルギーを消費します. これは前頭葉の認知的な実行リソースを消耗させ, 注意散漫を引き起こします.\n\nプルーストのように物理的なコルク防音と暗室環境を作って人工的な刺激を元から遮断すると, 脳は情報のフィルタリングに使われていた注意集中エネルギーをすべて節約し, 内省や認知的処理へ回すことができます. この状態では, 過去の記憶を取り出す海馬と記憶の統合を助ける連合野の部分が最大に活性化され, 無理に集中しようと努めなくても, 無意識から長期記憶を鮮明に引き出す脳の高速道路が形成されます.",
-      "zh": "<strong>视丘 (Thalamus)</strong>是连接我们大脑感觉信息与意识的通道，每当周围的噪音或手机的光线输入时，它都会为了对信息进行分类而消耗大量能量。这会耗尽前额叶的认知执行资源，从而导致注意力分散。\n\n如果像普鲁斯特那样，通过物理性的软木防音和暗室环境从源头上阻断人为刺激，大脑就能将用于信息过滤的所有专注能量节省下来，转向内心反思和认知处理。在这种状态下，提取过去记忆的海马体和帮助记忆结合的联合皮层区域会被最大程度地激活，从而形成一条无需强迫自己专注、就能从潜意识中清晰拉出长期记忆的大脑高速路。",
-      "es": "El <strong>tálamo</strong>, la puerta que filtra la información sensorial hacia la conciencia, consume energía clasificando datos cada vez que entra un ruido o la luz de una pantalla. Esto agota los recursos ejecutivos del lóbulo frontal, provocando dispersión.\n\nAl bloquear los estímulos con un aislamiento físico como el de Proust, el cerebro ahorra la energía del filtro sensorial y la canaliza a la reflexión. En este estado, el hipocampo (memoria) y la corteza asociativa se activan al máximo, facilitando la recuperación de recuerdos profundos sin esfuerzo.",
-      "fr": "Le <strong>thalamus</strong>, filtre sensoriel du cerveau, consomme de l'énergie pour analyser les bruits ambiants et la lumière des écrans. Cela épuise les ressources du lobe frontal.\n\nEn coupant les stimuli avec une isolation physique comme celle de Proust, le cerveau économise cette énergie de filtrage pour la rediriger vers la réflexion interne. L'hippocampe (mémoire) et le cortex associatif s'activent alors pleinement, permettant d'accéder sans effort aux souvenirs enfouis.",
-      "de": "Der <strong>Thalamus</strong> ist das „Tor zum Bewusstsein“ im Gehirn. Jedes Hintergrundgeräusch und jedes Display-Aufleuchten zwingt ihn, diese Daten zu filtern. Das kostet das Gehirn wertvolle Energie und stört die Konzentration.\n\nFällt diese Filterarbeit durch absolute Reizabschirmung weg, kann das Gehirn die gesparte Energie für tiefes Nachdenken nutzen. Der Hippocampus (der Erinnerungsspeicher) arbeitet dann auf Hochtouren, wodurch tief vergrabene Informationen spielend leicht ins Bewusstsein gelangen.",
-      "pt": "O <strong>tálamo</strong>, o portal no nosso cérebro que transfere informações sensoriais para a consciência, consome energia substancial classificando informações cada vez que ruídos ao redor ou a luz do celular entram. Isso esgota os recursos executivos cognitivos do lobo frontal, causando dispersão.\n\nAo bloquear estímulos artificiais na fonte, criando um isolamento físico com cortiça e um ambiente escuro como Proust, o cérebro economiza a energia do filtro sensorial e a canaliza para a reflexão interna. Nesse estado, o hipocampo (memória) e o córtex associativo ativam-se ao máximo, facilitando a recuperação de memórias profundas sem esforço.",
-      "id": "<strong>Talamus</strong>, pintu gerbang di otak kita yang mentransfer informasi sensorik ke kesadaran, mengonsumsi energi yang besar untuk mengklasifikasikan informasi setiap kali kebisingan sekitar atau cahaya ponsel masuk. Ini menghabiskan sumber daya eksekutif kognitif lobus frontal, menyebabkan gangguan perhatian.\n\nKetika Anda memblokir rangsangan buatan pada sumbernya dengan menciptakan kedap suara gabus fisik dan lingkungan gelap seperti Proust, otak menghemat semua energi pemfokusan perhatian yang digunakan untuk penyaringan informasi dan menyalurkannya ke refleksi internal dan pemrosesan kognitif. Dalam kondisi ini, hipokampus, yang mengambil memori masa lalu, dan korteks asosiasi, yang membantu integrasi memori, diaktifkan secara maksimal, membentuk jalur otak yang secara jelas menarik memori jangka panjang dari alam bawah sadar tanpa upaya paksa."
+      "ko": "우리 뇌에서 감각 정보를 의식으로 전달하는 관문인 <strong>시상(Thalamus)</strong>은 주변의 소음이나 스마트폰 빛이 유입될 때마다 정보를 분류하느라 상당한 에너지를 소모합니다. 이는 전두엽의 인지적 실행 자원을 소모시켜 주의 분산을 유발합니다.\n\n프루스트처럼 물리적인 코르크 방음과 암실 환경을 조성해 인위적 자극을 원천 차단하면, 뇌는 정보 필터링에 쓰이던 주의 집중 에너지를 모두 아껴 내적 성찰과 인지 처리로 돌릴 수 있습니다. 이 상태에서는 과거 기억을 인출하는 해마와 기억 결합을 돕는 연합 피질 부위가 최대로 활성화되어, 억지로 집중하려 애쓰지 않아도 무의식에서 장기 기억을 선명하게 끄집어내는 브레인 고속도로가 형성됩니다."
     },
     "cautionTitle": {
-      "ko": "완벽한 고립이 주는 몰입도 상승의 비밀",
-      "en": "The Secret of Increased Immersion from Perfect Isolation",
-      "ja": "完全な孤立がもたらす没頭度上昇の秘密",
-      "zh": "完全孤立带来专注度提升的奥秘",
-      "es": "El secreto de la inmersión profunda mediante el aislamiento absoluto",
-      "fr": "Le secret d'une immersion décuplée par l'isolement absolu",
-      "de": "Das Geheimnis des tiefen Fokus durch Abschirmung",
-      "pt": "O segredo da imersão profunda mediante o isolamento absoluto",
-      "id": "Rahasia Peningkatan Imersi dari Isolasi yang Sempurna"
+      "ko": "완벽한 고립이 주는 몰입도 상승의 비밀"
     },
     "cautionDesc": {
-      "ko": "프루스트의 감각 통제 루틴의 핵심은 '방해 요소가 원천적으로 불가능한 환경을 강제하는 것'입니다. 카페나 열린 거실처럼 사소한 소음이나 지나가는 사람의 움직임에 노출되는 환경에서는, 뇌가 무의식적으로 감각 정보를 처리하느라 에너지를 지속 소모합니다. 소음차단 헤드폰을 쓰거나 방의 불을 낮춰 인지적 유입 정보를 원천 봉쇄해야 깊은 기억 인출이 가능해집니다.",
-      "en": "The key detail in Proust's sensory control routine is 'forcing an environment where distractions are inherently impossible.' In environments exposed to slight noises or passing people, like cafes or open living rooms, the brain continuously consumes energy processing sensory information subconsciously. You must block cognitive inputs at the source using noise-canceling headphones or lowering room lights to enable deep memory retrieval.",
-      "ja": "プルーストの感覚制御ルーティンの核心は、「邪魔要素がそもそも入り込めない環境を強制すること」です. カフェや開かれたリビングのように, 些細な騒音や通り過ぎる人の動きにさらされる環境では、脳が無意識的に感覚情報を処理するためエネルギーを消費し続けます. ノイズキャンセリングヘッドホンを使ったり、部屋の明かりを落として認知的情報入力を遮断してこそ, 深い記憶の呼び出しが可能になります.",
-      "zh": "普鲁斯特感官控制常规的关键在于“强加一个从根本上杜绝干扰因素的环境”。在咖啡馆或开放的客厅等暴露于细微噪音或路人活动的活动环境中，大脑为了潜意识处理感官信息会持续消耗能量。您必须使用降噪耳机或调暗房间灯光，从源头上阻断认知信息的输入，才能实现深度的记忆提取。",
-      "es": "La clave de la rutina de control sensorial de Proust es 'forzar un entorno donde las distracciones sean imposibles'. En sitios expuestos al ruido o al paso de gente, el cerebro sigue gastando energía procesando datos de forma subconsciente. Usa auriculares de cancelación de ruido o atenúa la luz para forzar la inmersión.",
-      "fr": "L'essence de la routine de Proust est d'exclure physiquement les distractions. Dans un lieu exposé aux bruits ou aux mouvements, le cerveau dépense de l'énergie à filtrer ces données. Utilisez un casque antibruit ou tamisez la lumière pour forcer le cerveau à se focaliser.",
-      "de": "Prousts Dämmung zeigt: Wir müssen Ablenkungen physisch ausschließen, statt nur gegen sie anzukämpfen. In lauten Umgebungen verarbeitet das Gehirn ständig Reize im Hintergrund. Nutzen Sie Kopfhörer mit aktiver Geräuschunterdrückung und dimmen Sie das Licht, um die Reizflut zu stoppen.",
-      "pt": "A essência da rotina de controle sensorial de Proust é 'forçar um ambiente onde as distrações sejam impossíveis'. Em locais expostos ao ruído ou à passagem de pessoas, o cérebro continua gastando energia processando dados de forma subconsciente. Use fones de ouvido com cancelamento de ruído ou atenue a luz para forçar a imersão.",
-      "id": "Detail penting dalam rutinitas kontrol sensorik Proust adalah 'memaksakan lingkungan di mana gangguan secara inheren tidak mungkin terjadi.' Di lingkungan yang terpapar suara-suara kecil atau orang lewat, seperti kafe atau ruang tamu terbuka, otak terus-menerus mengonsumsi energi untuk memproses informasi sensorik secara bawah sadar. Anda harus memblokir masukan kognitif pada sumbernya menggunakan headphone peredam bising atau meredupkan lampu ruangan untuk mengaktifkan pengambilan memori yang mendalam."
+      "ko": "프루스트의 감각 통제 루틴의 핵심은 '방해 요소가 원천적으로 불가능한 환경을 강제하는 것'입니다. 카페나 열린 거실처럼 사소한 소음이나 지나가는 사람의 움직임에 노출되는 환경에서는, 뇌가 무의식적으로 감각 정보를 처리하느라 에너지를 지속 소모합니다. 소음차단 헤드폰을 쓰거나 방의 불을 낮춰 인지적 유입 정보를 원천 봉쇄해야 깊은 기억 인출이 가능해집니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 노이즈 캔슬링을 활용한 청각 격리",
-          "en": "Step 1: Auditory Isolation Using Noise-Canceling Devices",
-          "ja": "ステップ1：ノイズキャンセリングを活用した聴覚隔離",
-          "zh": "第一步：利用降噪设备隔离听觉刺激",
-          "es": "Paso 1: Aislamiento auditivo con tecnología de cancelación de ruido",
-          "fr": "Étape 1 : Isolation auditive au casque",
-          "de": "Schritt 1: Gehörschutz oder ANC-Kopfhörer aufsetzen",
-          "pt": "Passo 1: Aislamiento auditivo com tecnologia de cancelamento de ruído",
-          "id": "Langkah 1: Isolasi Pendengaran Menggunakan Perangkat Peredam Bising"
+          "ko": "1단계: 노이즈 캔슬링을 활용한 청각 격리"
         },
         "text": {
-          "ko": "집필이나 고도의 기획 작업을 시작하기 전, 노이즈 캔슬링 헤드폰을 착용하거나 이어플러그를 깊이 꽂아 주변 소음을 차단하고, 스마트폰은 다른 방에 둡니다.",
-          "en": "Before starting writing or high-level planning, wear noise-canceling headphones or insert earplugs to block surrounding noise, and place your smartphone in another room.",
-          "ja": "執筆や高度な企画作業を開始する前に, ノイズキャンセリングヘッドホンを着用するか耳栓を深く差し込んで周囲の騒音を遮断し, スマホは別の部屋に置きます.",
-          "zh": "在开始写作或高水平策划工作前，戴上降噪耳机或塞紧耳塞以阻断周围噪音，并将手机放在另一个房间。",
-          "es": "Antes de comenzar a trabajar, use auriculares con cancelación de activo de ruido o tapones, y deje su teléfono en otra habitación.",
-          "fr": "Avant de lancer votre travail, mettez un casque antibruit ou des bouchons d'oreilles, et placez votre téléphone dans une autre pièce.",
-          "de": "Setzen Sie vor der Arbeit Kopfhörer mit Geräuschunterdrückung auf und verbannen Sie das Smartphone aus dem Zimmer.",
-          "pt": "Antes de começar a trabalhar, use fones de ouvido com cancelamento de ruído ou protetores auriculares, e deixe o celular em outro cômodo.",
-          "id": "Sebelum memulai menulis atau perencanaan tingkat tinggi, kenakan headphone peredam bising atau pasang penyumbat telinga untuk memblokir kebisingan sekitar, dan letakkan ponsel Anda di ruangan lain."
+          "ko": "집필이나 고도의 기획 작업을 시작하기 전, 노이즈 캔슬링 헤드폰을 착용하거나 이어플러그를 깊이 꽂아 주변 소음을 차단하고, 스마트폰은 다른 방에 둡니다."
         }
       },
       {
         "name": {
-          "ko": "2단계: 조명 조율을 통한 시각 정보 차단",
-          "en": "Step 2: Blocking Visual Information via Lighting Adjustment",
-          "ja": "ステップ2：照明調整による視覚情報の遮断",
-          "zh": "第二步：通过调整照明阻断视觉信息输入",
-          "es": "Paso 2: Atenuación de luces para reducir estímulos visuales",
-          "fr": "Étape 2 : Tamiser la lumière pour calmer la vue",
-          "de": "Schritt 2: Licht dimmen und Blickfeld reduzieren",
-          "pt": "Passo 2: Atenuação de luzes para reduzir estímulos visuais",
-          "id": "Langkah 2: Memblokir Informasi Visual melalui Pengaturan Cahaya"
+          "ko": "2단계: 조명 조율을 통한 시각 정보 차단"
         },
         "text": {
-          "ko": "커튼을 쳐서 밝은 외부 직사광선을 피하고, 데스크 스탠드 조명 하나만 켜두는 등 시야에 들어오는 視覚的刺激의 양을 최소화하여 인지 자원을 절약합니다.",
-          "en": "Draw curtains to block bright outdoor direct sunlight, and leave only a desk lamp on, minimizing the amount of visual stimuli entering your field of vision to conserve cognitive resources.",
-          "ja": "カーテンを閉めて屋外の明るい直射日光を避け, デスクライト一つだけを点灯するなど, 視野に入る視覚的刺激の量を最小限に抑えて認知リソースを節約します.",
-          "zh": "拉上窗帘以避免明亮的室外直射光，仅开一盏台灯，将视线内的视觉刺激量降到最低，以节省认知资源。",
-          "es": "Cierre las cortinas para evitar la luz solar directa y use solo una lámpara de escritorio, reduciendo los estímulos en su campo visual.",
-          "fr": "Fermez les rideaux pour éviter la lumière directe et n'allumez qu'une lampe de bureau pour limiter les stimuli visuels.",
-          "de": "Schließen Sie die Vorhänge und nutzen Sie nur eine Schreibtischlampe, um visuelle Reize in Ihrem Blickfeld zu minimieren.",
-          "pt": "Feche as cortinas para evitar a luz solar direta e use apenas uma luminária de mesa, reduzindo os estímulos no seu campo visual.",
-          "id": "Tutup tirai untuk menghalangi sinar matahari langsung yang terang dari luar, dan nyalakan hanya satu lampu meja, meminimalkan jumlah rangsangan visual yang masuk ke bidang pandang Anda untuk menghemat sumber daya kognitif."
+          "ko": "커튼을 쳐서 밝은 외부 직사광선을 피하고, 데스크 스탠드 조명 하나만 켜두는 등 시야에 들어오는 시각적 자극의 양을 최소화하여 인지 자원을 절약합니다."
         }
       },
       {
         "name": {
-          "ko": "3단계: 1시간 연속 단일 과업 초집중",
-          "en": "Step 3: Super-Focus on a Single Task for 1 Hour",
-          "ja": "ステップ3：1時間連続での単一ワークへの超集中",
-          "zh": "第三步：连续1小时超专注于单项工作",
-          "es": "Paso 3: Concentración profunda en una sola tarea durante 1 hora",
-          "fr": "Étape 3 : Une heure de travail ininterrompu sur une tâche",
-          "de": "Schritt 3: 60 Minuten ungestörte Arbeit an einer Aufgabe",
-          "pt": "Passo 3: Concentração profunda em uma única tarefa por 1 hora",
-          "id": "Langkah 3: Fokus Super pada Satu Tugas Selama 1 Jam"
+          "ko": "3단계: 1시간 연속 단일 과업 초집중"
         },
         "text": {
-          "ko": "감각 정보가 차단된 고요한 상태에서 다른 브라우저 탭을 열거나 작업을 바꾸지 않고, 오직 단 하나의 핵심 과업에만 1시간 동안 연속으로 깊게 침잠하여 몰입합니다.",
-          "en": "In a quiet state free from sensory inputs, deeply immerse yourself and concentrate on a single key task for 1 hour straight without switching tasks or opening other browser tabs.",
-          "ja": "感覚情報が遮断された静かな状態で, 他のブラウザタブを開いたりワークを切り替えたりせず, ただ一つの核心課題だけに1時間連続で深く没頭します.",
-          "zh": "在屏蔽了感官信息的寂静状态下，不要打开其他浏览器标签或切换任务，只在整整1小时内连续深入浸沉于单项核心工作中。",
-          "es": "Sin abrir pestañas del navegador ni cambiar de actividad, concéntrese solo en una tarea clave durante 1 hora continua en este estado de silencio.",
-          "fr": "Sans changer d'onglet ni d'activité, plongez-vous dans votre tâche principale pendant une heure complète dans ce cocon de silence.",
-          "de": "Arbeiten Sie 60 Minuten lang fokussiert an einer einzigen Aufgabe, ohne andere Tabs zu öffnen oder das Thema zu wechseln.",
-          "pt": "Sem abrir abas do navegador ou mudar de atividade, concentre-se apenas em uma tarefa principal por 1 hora contínua nesse estado de silêncio.",
-          "id": "Dalam kondisi sunyi yang bebas dari masukan sensorik, benamkan diri Anda secara mendalam dan konsentrasilah pada satu tugas utama selama 1 jam berturut-turut tanpa beralih tugas atau membuka tab browser lain."
+          "ko": "감각 정보가 차단된 고요한 상태에서 다른 브라우저 탭을 열거나 작업을 바꾸지 않고, 오직 단 하나의 핵심 과업에만 1시간 동안 연속으로 깊게 침잠하여 몰입합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "완벽한 소음 차단이 오히려 심리적 불안을 유발하지는 않나요?",
-          "en": "Doesn't perfect silence cause psychological anxiety instead?",
-          "ja": "完璧な騒音遮断は, かえって心理的な不安を引き起こしませんか？",
-          "zh": "完全隔绝噪音难道不会反而引起心理焦虑吗？",
-          "es": "¿El silencio absoluto no puede causar ansiedad en algunas personas?",
-          "fr": "Le silence absolu ne peut-il pas provoquer de l'anxiété ?",
-          "de": "Kann absolute Stille nicht auch Angstzustände auslösen?",
-          "pt": "O silêncio absoluto não pode causar ansiedade em algumas pessoas?",
-          "id": "Bukankah keheningan total justru memicu kecemasan psikologis?"
+          "ko": "완벽한 소음 차단이 오히려 심리적 불안을 유발하지는 않나요?"
         },
         "answer": {
-          "ko": "개인 성향에 따라 적막감이 차단된 뇌에 이명이나 불안을 유발할 수 있습니다. 이럴 때는 무소음 대신 빗소리나 나뭇잎 흔들리는 소리 같은 자연의 백색소음(Pink noise)을 작게 틀어두는 것이 좋습니다. 인위적 의미가 배제된 자연의 소리는 시상의 주의력을 뺏지 않으면서도 편안한 이완 효과를 줍니다.",
-          "en": "Depending on personality, complete silence can trigger tinnitus or anxiety in a sensory-deprived brain. In such cases, playing low-volume natural white noise (or pink noise), like rain or rustling leaves, is recommended. Meaningless natural sounds do not capture the thalamus's attention but still provide a comforting, relaxed effect.",
-          "ja": "個人の傾向によっては、静寂が脳に耳鳴りや不安を引き起こすことがあります. そのような場合は, 完全な無音の代わりに雨の音や葉が揺れる音などの自然の白色雑音（ピンクノイズ）を小さく流しておくのがおすすめです. 人工的な意味が排除された自然の音は、視床の注意を奪うことなく、心地よいリラックス効果を与えます.",
-          "zh": "根据个人性格，完全的寂静可能会在失去感官刺激的大脑中引起耳鸣或焦虑。在这种情况下，建议小音量播放雨声或树叶沙沙声等大自然的白噪音（或粉红噪音）。排除了人为意义的自然之声不会夺走视丘的注意力，同时又能提供舒适的放松效果。",
-          "es": "Según el perfil de la persona, el vacío sonoro puede generar zumbidos o incomodidad. Si te ocurre, reproduce a bajo volumen un sonido blanco natural como la lluvia. Los sonidos de la naturaleza no distraen al tálamo y dan confort.",
-          "fr": "Selon la sensibilité de chacun, le silence complet peut générer des acouphènes ou de l'inconfort. Si c'est votre cas, utilisez un bruit blanc naturel à faible volume (pluie, vent). Ces sons neutres ne captent pas l'attention du thalamus et apportent un confort apaisant.",
-          "de": "Bei manchen Menschen kann absolute Stille Tinnitus oder Unruhe verstärken. In diesem Fall hilft es, leise Naturgeräusche wie Regen oder Meeresrauschen abzuspielen. Diese gleichmäßigen Geräusche belasten den Thalamus nicht, wirken aber beruhigend.",
-          "pt": "Dependendo do perfil da pessoa, o vazio sonoro pode gerar zumbidos ou desconforto. Se for o seu caso, reproduza em volume baixo um som branco natural como chuva. Os sons da natureza não distraem o tálamo e trazem conforto.",
-          "id": "Tergantung pada kepribadian, keheningan total dapat memicu tinitus atau kecemasan pada otak yang mengalami deprivasi sensorik. Dalam kasus seperti itu, memutar white noise alami dengan volume rendah (atau pink noise), seperti suara hujan atau dedaunan yang berguguran, sangat disarankan. Suara alam tanpa makna buatan tidak akan menyita perhatian talamus tetapi tetap memberikan efek relaksasi yang nyaman."
+          "ko": "개인 성향에 따라 적막감이 차단된 뇌에 이명이나 불안을 유발할 수 있습니다. 이럴 때는 무소음 대신 빗소리나 나뭇잎 흔들리는 소리 같은 자연의 백색소음(Pink noise)을 작게 틀어두는 것이 좋습니다. 인위적 의미가 배제된 자연의 소리는 시상의 주의력을 뺏지 않으면서도 편안한 이완 효과를 줍니다."
         }
       },
       {
         "question": {
-          "ko": "침대에 누워서 일하는 것도 집중이 잘 되나요?",
-          "en": "Can working lying down in bed also lead to good focus?",
-          "ja": "ベッドに横になって仕事をすることも集中できますか？",
-          "zh": "躺在床上工作也能保持良好专注吗？",
-          "es": "¿Trabajar acostado en la cama es recomendable para concentrarse?",
-          "fr": "Travailler allongé dans son lit est-il bon pour la concentration ?",
-          "de": "Ist das Arbeiten im Liegen wirklich empfehlenswert?",
-          "pt": "Trabalhar deitado na cama é recomendável para se concentrar?",
-          "id": "Apakah bekerja sambil berbaring di tempat tidur juga bisa membuat fokus tetap baik?"
+          "ko": "침대에 누워서 일하는 것도 집중이 잘 되나요?"
         },
         "answer": {
-          "ko": "프루스트는 평생의 질병(천식)으로 인해 누워 일하는 것이 불가피했습니다. 일반적인 현대인들에게 침대는 뇌가 '잠자는 공간'으로 인지하므로 누워 일할 시 졸음과 이완을 촉진합니다. 업무 몰입을 원한다면 척추를 세운 바른 자세의 책상을 사용하되, 감각을 차단하는 기제(조명 조율, 소음 격리)만 적용하는 것이 인지 효율에 훨씬 효과적입니다.",
-          "en": "Proust was forced to work lying down due to his chronic illness (asthma). For most modern people, the brain perceives the bed as a 'sleeping space,' promoting drowsiness when working there. To focus on work, it is much more effective for cognitive efficiency to use a desk with an upright posture, applying only the sensory isolation techniques (lighting, noise block).",
-          "ja": "プルーストは生涯の病気（喘息）により、横になって働くことが不可避でした. 一般的な現代人にとって、ベッドは脳が「眠る場所」と認識しているため、横になって仕事をすると眠気や弛緩が促されます. ワークに没頭したい場合は, 背筋を 伸ばした正しい姿勢でデスクを使用し、感覚を遮断するギミック（照明調整、騒音隔離）だけを適用する方が, 認知効率にはるかに効果的です.",
-          "zh": "普鲁斯特由于终生的疾病（哮喘）而不得不躺着工作。对于普通的现代人来说，大脑将床感知为“睡觉空间”，因此躺着工作会促进困意和松懈。如果您想专注于工作，使用挺直脊柱的正确坐姿的书桌，同时仅应用阻断感官的机制（调整照明、隔离噪音），对认知效率要有效得多。",
-          "es": "Proust no tenía alternativa debido a su asma crónico. Para la mayoría, el cerebro asocia la cama con el sueño, induciendo somnolencia. Use un escritorio con postura firme, aplicando solo el bloqueo de luz y ruido para la eficiencia cognitiva.",
-          "fr": "Proust y était contraint par sa maladie. Pour la plupart des gens, le cerveau associe le lit au sommeil, ce qui favorise la somnolence. Pour travailler, préférez un bureau avec une bonne posture, en appliquant simplement l'isolation sensorielle.",
-          "de": "Proust musste krankheitsbedingt im Liegen arbeiten. Für gesunde Menschen ist das Bett jedoch ein Ort des Schlafs; dort zu arbeiten fördert Müdigkeit. Nutzen Sie einen Schreibtisch für die Arbeit, aber übernehmen Sie Prousts Methode der Reizabschirmung.",
-          "pt": "Proust não tinha alternativa devido à sua asma crônica. Para a maioria das pessoas, o cérebro associa a cama ao sono, induzindo sonolência. Use uma mesa com postura firme, aplicando apenas o bloqueio de luz e ruído para eficiência cognitiva.",
-          "id": "Proust terpaksa bekerja sambil berbaring karena penyakit kronisnya (asma). Bagi kebanyakan manusia modern, otak menganggap tempat tidur sebagai 'ruang tidur,' sehingga memicu rasa kantuk saat bekerja di sana. Untuk fokus bekerja, jauh lebih efektif bagi efisiensi kognitif untuk menggunakan meja dengan postur tegak, dengan hanya menerapkan teknik isolasi sensorik (pencahayaan, pemblokiran bising)."
+          "ko": "프루스트는 평생의 질병(천식)으로 인해 누워 일하는 것이 불가피했습니다. 일반적인 현대인들에게 침대는 뇌가 '잠자는 공간'으로 인지하므로 누워 일할 시 졸음과 이완을 촉진합니다. 업무 몰입을 원한다면 척추를 세운 바른 자세의 책상을 사용하되, 감각을 차단하는 기제(조명 조율, 소음 격리)만 적용하는 것이 인지 효율에 훨씬 효과적입니다."
         }
       }
-    ],
-    "pubDate": "2026-01-29",
-    "updatedDate": "2026-01-29"
+    ]
   }
 }

@@ -16,23 +16,23 @@ faqs:
     answer: "Os Corgis têm pelagem dupla com forte queda de pelos. Escove diariamente com rasqueadeira e pente de subpelo para remover pelos mortos e evitar dermatites."
 ---
 
-O Welsh Corgi é uma raça muito amada por suas patas curtas e traseiro arredondado. Como antigos cães pastores, são inteligentes, ativos e leais. No entanto, seu dorso longo e patas curtas sobrecarregam a coluna e as articulações. A obesidade aumenta o risco de problemas discais. Hoje, o PetSelf explora sua linguagem corporal e apresenta uma rotina de 3 passos para proteger a coluna e as patelas.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Evidência Veterinária e Comportamental
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este conteúdo baseia-se em <strong>Guia oficial do Pembroke Welsh Corgi Club of America e diretrizes de saúde do AKC</strong>.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Welsh Corgi Perfil principal
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 anos</span></div>
@@ -43,7 +43,7 @@ O Welsh Corgi é uma raça muito amada por suas patas curtas e traseiro arredond
 
 ## 1. Linguagem corporal do Corgi: sinais de dorso e emoção
 
-Como os Corgis têm caudas muito curtas, usam todo o corpo e quadris para expressar emoções. Sinais típicos incluem o 'rebolado de quadril' quando felizes e o 'splooting' (deitar com as patas traseiras esticadas) quando relaxados. Essas expressões físicas indicam o conforto das articulações e a regulação térmica. Os donos podem monitorar isso para avaliar o estresse.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Como os Corgis têm caudas muito curtas, usam todo o corpo e quadris para expres
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Verificação de tapetes antiderrapantes e alongamento das patas traseiras</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Como o dorso longo os torna propensos a problemas discais, fixe os tapetes antiderrapantes perto do sofá e faça um alongamento suave nas patas traseiras por 2 minutos.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Como os Corgis têm caudas muito curtas, usam todo o corpo e quadris para expres
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Caminhada de 30 minutos em terreno plano com peitoral e nosework</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Use peitoral em vez de coleira para reduzir a tensão espinhal. Caminhe em terreno plano, evitando rampas e escadas, permitindo 30 minutos de farejamento.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Como os Corgis têm caudas muito curtas, usam todo o corpo e quadris para expres
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Escovação da pelagem dupla e massagem de relaxamento espinal</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Escove a pelagem dupla para remover pelos mortos e massageie suavemente os músculos ao longo da coluna para aliviar a fadiga.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Como os Corgis têm caudas muito curtas, usam todo o corpo e quadris para expres
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Como os Corgis têm caudas muito curtas, usam todo o corpo e quadris para expres
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Devido ao dorso longo e patas curtas, a aterrissagem exerce um impacto três vezes maior na coluna e joelhos, causando problemas discais. Instalar escadas para cães é essencial.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Como os Corgis têm caudas muito curtas, usam todo o corpo e quadris para expres
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Os Corgis têm pelagem dupla com forte queda de pelos. Escove diariamente com rasqueadeira e pente de subpelo para remover pelos mortos e evitar dermatites.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 </div>

@@ -1,14 +1,25 @@
 ---
-formatVersion: 4
 title: "작곡이 막힐 때 당구를 친 천재? 모차르트의 디폴트 모드 활성 습관"
 description: "악상이 떠오르지 않을 때 당구를 치며 무의식 뇌(DMN)를 가동한 볼프강 아마데우스 모차르트. 인지 휴식이 창의적 돌파구를 만들어내는 과학적 비밀과 15분 시공간 놀이법을 소개합니다."
-pubDate: "2026-05-01"
-updatedDate: "2026-05-01"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["위인 습관", "모차르트", "당구", "무의식", "창의성"]
-heroImage: "/images/blog/mozart_billiard_ideation.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/mozart_billiard_ideation.png"
 app: "buildself"
-authority: "콘스탄체 모차르트 서한집 및 산타바바라 캘리포니아 대학(UCSB) DMN 연구(2012)"
+formatVersion: 4
+authority: "모차르트 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+steps:
+  - name: "Stop work when thoughts freeze"
+    text: "When you have thought for over an hour and cannot proceed, immediately push your keyboard away and stand up."
+  - name: "Immerse in a spatial physics game for 10 minutes"
+    text: "Find a physical pool table, darts, or a physics puzzle game. Focus completely on the geometric path of the target for 10 minutes, letting your prefrontal control rest."
+  - name: "Return and capture the insights"
+    text: "Sit back down and look at the project. Often, a new path or a creative breakthrough synthesized during the rest will naturally surface in your conscious mind."
+faqs:
+  - question: "스마트폰 일반 게임도 동일한 전환 효과를 주나요?"
+    answer: "소셜 미디어나 강한 텍스트 및 자극이 동반되는 모바일 게임은 전두엽의 다른 영역을 과도하게 긴장시켜 오히려 뇌의 피로(Cognitive Load)를 가중시킵니다. DMN 효과를 얻기 위해서는 단순하고 기하학적인 궤적을 보며 머리를 식히는 물리 시뮬레이션 게임이나 아날로그 놀이가 훨씬 효과적입니다."
+
 ---
 
 클래식 음악 역사상 전무후무한 천재이자, 악보를 단 한 번에 고쳐 쓰지도 않고 완벽한 교향곡과 오페라를 물 흐르듯 써 내려간 작곡가, 볼프강 아마데우스 모차르트. 인류 최고의 영감을 자랑하는 그의 기적 같은 창의성 밑바탕에는 복잡한 예술적 강박으로부터 뇌를 완전히 탈출시켰던 독특한 일상 습관이 깃들어 있었습니다. 🎱
@@ -21,81 +32,67 @@ authority: "콘스탄체 모차르트 서한집 및 산타바바라 캘리포니
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 모차르트의 사후 아내 콘스탄체 모차르트가 기술한 서한 기록물 <strong>&lt;Letters and Memorials&gt;</strong> 및 산타바바라 캘리포니아 대학(UC Santa Barbara) 인지과학 연구팀이 규명한 디폴트 모드 네트워크(DMN)의 무의식 연상 작용 기제를 기반으로 작성되었습니다.
+      본 콘텐츠는 <strong>모차르트 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 mozart-billiard-ideation 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 무의식의 뇌와 '디폴트 모드 네트워크'
+## 무의식의 뇌와 '디폴트 모드 네트워크'
 
-풀리지 않는 어려운 문제를 해결하기 위해 오랫동안 모니터 화면만 째려보는 행동은 전두엽의 작업 기억을 과포화시켜 뇌를 기능 정체(Mental Stagnation) 상태에 빠트립니다. 반면, 주의를 완전히 다른 곳으로 돌리고 당구와 같이 시공간적 궤적 예측이 동반되는 가벼운 신체 놀이에 몰입할 때, 뇌는 '디폴트 모드 네트워크(DMN, Default Mode Network)'를 구동시킵니다.
+풀리지 않는 어려운 문제를 해결하기 위해 오랫동안 모니터 화면만 째려보는 행동은 전두엽의 작업 기억을 과포화시켜 뇌를 기능 정체(Mental Stagnation) 상태에 빠트립니다. 반면, 주의를 완전히 다른 곳으로 돌리고 당구와 같이 시공간적 궤적 예측이 동반되는 가벼운 신체 놀이에 몰입할 때, 뇌는 '디폴트 모드 네트워크(DMN, Default Mode Network)'를 구동시킵니다. 
 
 DMN은 뇌가 쉴 때 작동하는 무의식적 연동 메커니즘으로, 이 과정에서 뇌는 전두엽의 통제 아래 숨겨져 있던 서로 동떨어진 정보 조각들과 장기 기억들을 무작위로 결합합니다. 당구공이 이리저리 부딪쳐 이동하는 기하학적 움직임에 의식을 맡기면 시공간 지각 영역인 두정엽이 가동되며 언어적 기능이 휴식을 취하게 되고, DMN의 작용으로 엉켜있던 문제의 논리 실타래가 무의식중에 스르륵 풀려나오는 연상적 돌파구(Aha! Moment)를 만나게 됩니다.
 
 ---
 
-## 2. 현대인을 위한 모차르트 시공간 전환 3단계
+## 성공적인 루틴을 위한 뇌과학적 한마디
 
-과포화된 전두엽을 휴식시키고 무의식의 창의성을 여는 15분 놀이 루틴을 제한합니다.
+<strong>창의력은 억지 집중이 아니라 교대에서 나옵니다</strong>
+
+한 아이디어에 집착하는 뇌는 터널 시야(Tunnel Vision)에 갇혀 새로운 연결을 차단합니다. 뇌가 지쳤을 때 강제로 앉아있는 것은 인지 에너지를 좀먹는 행위일 뿐입니다. 모차르트가 당구대 옆에서 무의식의 뇌를 활성화시켜 불멸의 음악적 궤적을 뽑아냈던 것처럼, 머리가 막히면 즉시 일어나 가벼운 시공간 놀이로 DMN을 기동해 보세요.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">생각이 동결되는 시점에서 즉시 자리를 떠나기</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Stop work when thoughts freeze</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    난해한 업무나 복잡한 기획안 앞에서 1시간 이상 머리를 부여잡고 있어도 진전이 없다면, 즉시 모니터를 끄고 자리에서 일어납니다. 이는 전두엽 주의력이 고갈되었다는 강력한 뇌 신호입니다.
+    When you have thought for over an hour and cannot proceed, immediately push your keyboard away and stand up.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">기하학적 궤적을 쫓는 10분 놀이 몰입</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Immerse in a spatial physics game for 10 minutes</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    미니 당구대, 다트판, 혹은 모바일 화면 속 2D/3D 기하학 물리 엔진 공간 퍼즐 게임 등을 가동합니다. 10분 동안 공의 도달 궤적이나 물리학적 작용선 예측에만 조용히 온 정신을 몰입시킵니다.
+    Find a physical pool table, darts, or a physics puzzle game. Focus completely on the geometric path of the target for 10 minutes, letting your prefrontal control rest.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">다시 업무에 복귀하여 떠오른 직관 캐치하기</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Return and capture the insights</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    가볍게 전두엽 언어 논리를 쉬게 한 후, 다시 자리로 돌아와 문서를 봅니다. 뇌의 무의식적 DMN 가동 기간 동안 자연스럽게 완성된 새로운 융합 아이디어나 돌파구가 불쑥 떠오르는 것을 경험할 수 있습니다.
+    Sit back down and look at the project. Often, a new path or a creative breakthrough synthesized during the rest will naturally surface in your conscious mind.
   </p>
 </div>
 
----
-
-## 3. 성공적인 루틴을 위한 뇌과학적 한마디
-
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">창의력은 억지 집중이 아니라 교대에서 나옵니다</strong>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      한 아이디어에 집착하는 뇌는 터널 시야(Tunnel Vision)에 갇혀 새로운 연결을 차단합니다. 뇌가 지쳤을 때 강제로 앉아있는 것은 인지 에너지를 좀먹는 행위일 뿐입니다. 모차르트가 당구대 옆에서 무의식의 뇌를 활성화시켜 불멸의 음악적 궤적을 뽑아냈던 것처럼, 머리가 막히면 즉시 일어나 가벼운 시공간 놀이로 DMN을 기동해 보세요.
-    </p>
-  </div>
-</div>
-
----
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📍</span> 자주 묻는 질문 (FAQ)
+    <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>스마트폰 일반 게임도 동일한 전환 효과를 주나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

@@ -1,223 +1,72 @@
 {
   "camus-football-reset": {
     "title": {
-      "ko": "번아웃과 실존적 우울을 날리는 원초적 방법? 알베르 카뮈의 축구 리셋 습관",
-      "en": "The Raw Cure for Burnout and Existential Dread? Albert Camus' Football Reset Habit",
-      "ja": "燃え尽き症候群と生存恐怖の根本的な治療法?アルベール・カミュのサッカーリセット習慣",
-      "zh": "倦怠和存在恐惧的原始治疗方法？阿尔贝·加缪的足球习惯重置",
-      "es": "¿La cruda cura para el agotamiento y el temor existencial? El hábito del reinicio del fútbol de Albert Camus",
-      "fr": "Le remède brut contre l’épuisement professionnel et la peur existentielle ? L'habitude de réinitialiser le football d'Albert Camus",
-      "de": "Das rohe Heilmittel gegen Burnout und Existenzangst? Albert Camus‘ Fußball-Reset-Gewohnheit",
-      "pt": "A cura crua para o esgotamento e o medo existencial? Hábito de reinicialização do futebol de Albert Camus",
-      "id": "Obat Mentah untuk Kelelahan dan Ketakutan Eksistensial? Kebiasaan Reset Sepak Bola Albert Camus"
+      "ko": "번아웃과 실존적 우울을 날리는 원초적 방법? 알베르 카뮈의 축구 리셋 습관"
     },
     "description": {
-      "ko": "프랑스의 노벨 문학상 작가이자 철학자 알베르 카뮈. 글쓰기가 꽉 막힐 때마다 그라운드로 나가 골키퍼로 몸을 던진 신체 몰입의 뇌과학과 3단계 현대인 적용 가이드를 나눕니다.",
-      "en": "Discover Albert Camus' soccer goalkeeper routine. Learn how immediate response sports quiet prefrontal thinking and rejuvenate exhausted cognitive networks.",
-      "ja": "アルベール・カミュのサッカーゴールキーパーのルーティンを発見してください。即時対応がどのように前頭前野の思考を静め、疲弊した認知ネットワークを活性化するかを学びましょう。",
-      "zh": "探索阿尔贝·加缪的足球守门员动作。了解即时反应如何促进安静的前额思维并恢复疲惫的认知网络。",
-      "es": "Descubre la rutina del portero de fútbol de Albert Camus. Descubra cómo la respuesta inmediata estimula el pensamiento prefrontal y rejuvenece las redes cognitivas agotadas.",
-      "fr": "Découvrez la routine du gardien de but de football d'Albert Camus. Découvrez comment une réponse immédiate permet de calmer la pensée préfrontale et de rajeunir les réseaux cognitifs épuisés.",
-      "de": "Entdecken Sie die Fußball-Torwartroutine von Albert Camus. Erfahren Sie, wie die unmittelbare Reaktion das präfrontale Denken beruhigt und erschöpfte kognitive Netzwerke regeneriert.",
-      "pt": "Descubra a rotina do goleiro de futebol de Albert Camus. Aprenda como a resposta imediata acalma o pensamento pré-frontal e rejuvenesce redes cognitivas exaustas.",
-      "id": "Temukan rutinitas kiper sepak bola Albert Camus. Pelajari bagaimana respons langsung menenangkan pemikiran prefrontal dan meremajakan jaringan kognitif yang lelah."
+      "ko": "프랑스의 노벨 문학상 작가이자 철학자 알베르 카뮈. 글쓰기가 꽉 막힐 때마다 그라운드로 나가 골키퍼로 몸을 던진 신체 몰입의 뇌과학과 3단계 현대인 적용 가이드를 나눕니다."
     },
     "authority": {
-      "ko": "카뮈 평전 'Albert Camus' 및 신경생리학 저널 뇌 피로 회복 학술 자료",
-      "en": "Biography 'Albert Camus: A Biography' & Neurobiology of Learning and Memory",
-      "ja": "伝記「アルベール・カミュ：伝記」と学習と記憶の神経生物学",
-      "zh": "传记“阿尔伯特·加缪：传记”与学习和记忆的神经生物学",
-      "es": "Biografía 'Albert Camus: una biografía' y neurobiología del aprendizaje y la memoria",
-      "fr": "Biographie 'Albert Camus : Une Biographie' et Neurobiologie de l'Apprentissage et de la Mémoire",
-      "de": "Biografie „Albert Camus: Eine Biografie“ und Neurobiologie von Lernen und Gedächtnis",
-      "pt": "Biografia 'Albert Camus: Uma Biografia' e Neurobiologia da Aprendizagem e Memória",
-      "id": "Biografi 'Albert Camus: Biografi' & Neurobiologi Pembelajaran dan Memori"
+      "ko": "알베르 카뮈 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "우주의 무심함과 삶의 허무를 포착한 '부조리' 철학을 제시하여 전 세계 청년들의 지적 심장을 뛰게 만들고, 소설 '이방인'과 '페스트'로 노벨 문학상을 수상한 철학 작가, 알베르 카뮈. 평생 폐결핵을 앓으며 삶의 유한함과 극심한 글쓰기 슬럼프에 시달렸던 그가 정신적 고통의 구렁텅이에서 빠져나와 창작을 지속할 수 있었던 힘은 거친 흙바닥 위에서 나왔습니다. ⚽\n\n카뮈는 어린 시절부터 알제리의 가난한 동네 골목길에서 축구를 했고, 대학 시절에는 대학 축구팀의 주전 골키퍼로 맹활약했습니다. 그는 작가로서 대성한 이후에도 \"내가 도덕과 인간의 책무에 대해 배운 유일한 것은 축구에서였다\"라고 선언하며, 글을 쓰다가 영감이 고갈되거나 실존적 우울증이 찾아오면 만년필을 내려놓고 운동장으로 달려가 골문 앞에 섰습니다. 날아오는 공을 막기 위해 온몸을 던지고 먼지를 뒤집어쓰며 소리 지르는 격렬한 신체 활동을 통해, 카뮈는 과부하가 걸려 비명을 지르던 뇌의 전두엽을 강제로 잠재우고 삶을 긍정할 수 있는 생명력을 리셋했습니다.\n\n오늘 BuildSelf에서는 실존주의의 대가가 실천한 스포츠 리셋 루틴의 신경과학적 이점을 탐구하고, 현대인들이 번아웃 상태를 즉각 탈출할 수 있는 동적 신체 집중 가이드를 소개합니다.",
-      "en": "Albert Camus, the novelist who won the Nobel Prize for 'The Stranger' and 'The Plague.' Where did he find the energy to escape mental suffering and continue writing while battling chronic tuberculosis and writer's block? It came from the muddy playing fields. ⚽\n\nCamus played soccer in the poor alleys of Algiers in his youth, later starring as the main goalkeeper for his university team. Even after achieving fame as a writer, he famously declared, \"All that I know most surely about morality and obligations, I owe to football.\" Whenever writer's block or existential dread hit, he dropped his pen and stood in front of the goalposts. Throwing his body to block fast-flying balls and getting covered in dust forced his overloaded frontal lobe to quiet down, recharging his life energy.\n\nToday, BuildSelf explores the neurological benefits of Camus' soccer reset habit and introduces a dynamic body-focus guide for modern people to immediately escape burnout.",
-      "ja": "『異邦人』と『ペスト』でノーベル賞を受賞した小説家、アルベール・カミュ。慢性結核やライターズブロックと闘いながら、精神的苦痛から逃れ、執筆を続けるエネルギーをどこで見つけたのでしょうか？それは泥だらけの運動場からやって来た。 ⚽\n\nカミュは若い頃、アルジェの貧しい路地でサッカーをし、後に大学チームの主力ゴールキーパーとして活躍しました。作家として名声を博した後も、「道徳と義務について私が最も確かに知っていることはすべて、フットボールのおかげだ」と宣言したのは有名だ。作家の行き詰まりや実存的な恐怖に見舞われるたびに、彼はペンを落としてゴールポストの前に立った。速く飛んでくるボールを体を投げ出してブロックしたり、砂埃にまみれたりすることで、過負荷になっていた前頭葉が静まり、生命エネルギーが充電された。\n\n今日、BuildSelf は、カミュのサッカーリセット習慣の神経学的利点を調査し、現代人が燃え尽き症候群からすぐに脱出するためのダイナミックなボディフォーカスガイドを紹介します。",
-      "zh": "在这一历史性惯例的实践中： '' , '' '' , . . ⚽ 在这一历史性惯例的实践中： , . \" \" , . , . 在这一历史性惯例的实践中： BuildSelf , .",
-      "es": "Albert Camus, el novelista que ganó el Premio Nobel por 'El extranjero' y 'La peste'. ¿Dónde encontró la energía para escapar del sufrimiento mental y seguir escribiendo mientras luchaba contra la tuberculosis crónica y el bloqueo del escritor? Provenía de los campos de juego embarrados. ⚽\n\nCamus jugó al fútbol en los callejones pobres de Argel en su juventud y luego fue el principal portero de su equipo universitario. Incluso después de alcanzar fama como escritor, declaró: \"Todo lo que sé sobre moralidad y obligaciones se lo debo al fútbol\". Cada vez que le llegaba el bloqueo del escritor o el temor existencial, dejaba caer el bolígrafo y se paraba frente a los postes de la portería. Lanzar su cuerpo para bloquear bolas que vuelan rápidamente y cubrirse de polvo obligó a su sobrecargado lóbulo frontal a calmarse, recargando su energía vital.\n\nHoy, BuildSelf explora los beneficios neurológicos del hábito de reinicio del fútbol de Camus e introduce una guía dinámica de enfoque corporal para que la gente moderna escape inmediatamente del agotamiento.",
-      "fr": "Albert Camus, le romancier qui a remporté le prix Nobel pour « L'Étranger » et « La Peste ». Où a-t-il trouvé l'énergie nécessaire pour échapper à la souffrance mentale et continuer à écrire tout en luttant contre la tuberculose chronique et le blocage de l'écrivain ? Cela venait des terrains de jeu boueux. ⚽\n\nCamus a joué au football dans les ruelles pauvres d'Alger dans sa jeunesse, avant de devenir le gardien principal de son équipe universitaire. Même après être devenu célèbre en tant qu'écrivain, il a déclaré : « Tout ce que je sais le plus sûrement sur la moralité et les obligations, je le dois au football. » Chaque fois que le blocage de l'écrivain ou la peur existentielle le frappaient, il laissait tomber son stylo et se tenait devant les poteaux de but. Lancer son corps pour bloquer les balles volant rapidement et se couvrir de poussière a forcé son lobe frontal surchargé à se calmer, rechargeant ainsi son énergie vitale.\n\nAujourd'hui, BuildSelf explore les avantages neurologiques de l'habitude de Camus de réinitialiser le football et présente un guide dynamique de concentration sur le corps permettant aux personnes modernes d'échapper immédiatement à l'épuisement professionnel.",
-      "de": "Albert Camus, der Romanautor, der für „Der Fremde“ und „Die Pest“ den Nobelpreis gewann. Woher nahm er die Energie, dem seelischen Leiden zu entfliehen und weiter zu schreiben, während er gegen chronische Tuberkulose und Schreibblockaden kämpfte? Es kam von den schlammigen Spielfeldern. ⚽\n\nCamus spielte in seiner Jugend Fußball in den armen Gassen von Algier und spielte später die Hauptrolle als Haupttorhüter seiner Universitätsmannschaft. Selbst nachdem er als Schriftsteller Berühmtheit erlangt hatte, erklärte er bekanntlich: „Alles, was ich mit Sicherheit über Moral und Pflichten weiß, verdanke ich dem Fußball.“ Wann immer eine Schreibblockade oder existenzielle Angst ihn traf, ließ er seinen Stift fallen und stellte sich vor die Torpfosten. Das Werfen seines Körpers, um schnell fliegende Bälle abzuwehren, und die Staubbedeckung zwangen seinen überlasteten Frontallappen, sich zu beruhigen und seine Lebensenergie wieder aufzuladen.\n\nHeute untersucht BuildSelf die neurologischen Vorteile von Camus‘ Fußball-Reset-Gewohnheit und stellt einen dynamischen Leitfaden zur Körperfokussierung für moderne Menschen vor, um einem Burnout sofort zu entkommen.",
-      "pt": "Albert Camus, o romancista que ganhou o Prêmio Nobel por 'O Estrangeiro' e 'A Peste'. Onde ele encontrou energia para escapar do sofrimento mental e continuar escrevendo enquanto lutava contra a tuberculose crônica e o bloqueio criativo? Veio dos campos lamacentos. ⚽\n\nCamus jogou futebol nos becos pobres de Argel em sua juventude, mais tarde atuando como goleiro principal de seu time universitário. Mesmo depois de alcançar a fama como escritor, ele declarou a famosa frase: \"Tudo o que sei com mais certeza sobre moralidade e obrigações devo ao futebol\". Sempre que ocorria um bloqueio de escritor ou pavor existencial, ele largava a caneta e ficava na frente das traves. Jogar seu corpo para bloquear bolas que voavam rapidamente e ficar coberto de poeira forçou seu sobrecarregado lobo frontal a se acalmar, recarregando sua energia vital.\n\nHoje, BuildSelf explora os benefícios neurológicos do hábito de reiniciar o futebol de Camus e apresenta um guia dinâmico de foco no corpo para que as pessoas modernas escapem imediatamente do esgotamento.",
-      "id": "Albert Camus, novelis yang memenangkan Hadiah Nobel untuk 'The Stranger' dan 'The Plague.' Di mana dia menemukan energi untuk melepaskan diri dari penderitaan mental dan terus menulis sambil berjuang melawan tuberkulosis kronis dan hambatan menulis? Itu berasal dari lapangan bermain yang berlumpur. ⚽\n\nCamus bermain sepak bola di gang-gang miskin Aljir di masa mudanya, kemudian berperan sebagai penjaga gawang utama untuk tim universitasnya. Bahkan setelah mencapai ketenaran sebagai penulis, ia dengan terkenal menyatakan, \"Semua yang saya tahu pasti tentang moralitas dan kewajiban, saya berhutang pada sepak bola.\" Setiap kali hambatan penulis atau ketakutan eksistensial melanda, dia menjatuhkan penanya dan berdiri di depan tiang gawang. Melemparkan tubuhnya untuk memblokir bola yang terbang cepat dan tertutup debu memaksa lobus depannya yang kelebihan beban menjadi tenang, mengisi ulang energi hidupnya.\n\nHari ini, BuildSelf mengeksplorasi manfaat neurologis dari kebiasaan mengatur ulang sepak bola Camus dan memperkenalkan panduan fokus tubuh dinamis bagi orang-orang modern untuk segera menghindari kelelahan."
+      "ko": "\"삶이 무의미하다면, 우리는 그것에 의미를 불어넣어야 한다.\" 🚶‍♂️\n\n우주의 무심함과 삶의 허무를 포착한 '부조리' 철학을 제시하여 전 세계 청년들의 지적 심장을 뛰게 만들고, 소설 '이방인'과 '페스트'로 노벨 문학상을 수상한 철학 작가, 알베르 카뮈. 평생 폐결핵을 앓으며 삶의 유한함과 극심한 글쓰기 슬럼프에 시달렸던 그가 정신적 고통의 구렁텅이에서 빠져나와 창작을 지속할 수 있었던 힘은 거친 흙바닥 위에서 나왔습니다. ⚽\n\n카뮈는 어린 시절부터 알제리의 가난한 동네 골목길에서 축구를 했고, 대학 시절에는 대학 축구팀의 주전 골키퍼로 맹활약했습니다. 그는 작가로서 대성한 이후에도 \"내가 도덕과 인간의 책무에 대해 배운 유일한 것은 축구에서였다\"라고 선언하며, 글을 쓰다가 영감이 고갈되거나 실존적 우울증이 찾아오면 만년필을 내려놓고 운동장으로 달려가 골문 앞에 섰습니다. 날아오는 공을 막기 위해 온몸을 던지고 먼지를 뒤집어쓰며 소리 지르는 격렬한 신체 활동을 통해, 카뮈는 과부하가 걸려 비명을 지르던 뇌의 전두엽을 강제로 잠재우고 삶을 긍정할 수 있는 생명력을 리셋했습니다.\n\n오늘 포스트에서는 실존주의의 대가가 실천한 스포츠 리셋 루틴의 신경과학적 이점을 탐구하고, 현대인들이 번아웃 상태를 즉각 탈출할 수 있는 동적 신체 집중 가이드를 소개합니다."
     },
     "whyTitle": {
-      "ko": "전두엽의 강제 오프라인과 소뇌 인지 스위칭",
-      "en": "Forced Frontal Lobe Offline and Cerebellum Cognitive Switching",
-      "ja": "前頭葉の強制オフラインと小脳の認知スイッチング",
-      "zh": "强迫额叶离线和小脑认知转换",
-      "es": "Cambio cognitivo forzado del lóbulo frontal fuera de línea y del cerebelo",
-      "fr": "Hors ligne forcé du lobe frontal et commutation cognitive du cervelet",
-      "de": "Erzwungener Offline-Frontallappen-Offline- und Kleinhirn-kognitiver Wechsel",
-      "pt": "Lobo frontal forçado off-line e comutação cognitiva do cerebelo",
-      "id": "Offline Lobus Frontal Paksa dan Peralihan Kognitif Otak Kecil"
+      "ko": "전두엽의 강제 오프라인과 소뇌 인지 스위칭"
     },
     "whyDesc": {
-      "ko": "사색, 글쓰기, 비즈니스 기획 등 복잡한 고도의 지적 작업은 뇌의 전두엽(Prefrontal Cortex) 영역을 지독하게 마마시킵니다. 전두엽 에너지가 고갈되면 우리는 결정을 내리지 못하고 우울과 만성 피로(번아웃)를 겪게 됩니다.\n\n알베르 카뮈가 골키퍼를 하며 날아오는 공을 막아내는 행동은 전두엽의 사색 회로를 강제 오프라인(Forced Offline) 상태로 만듭니다. 반사 신경와 신체 조절을 맡는 <strong>'소뇌(Cerebellum)'</strong>와 운동 피질로 뇌의 인지 활성 영역을 순식간에 전환하기 때문입니다. 이러한 급격한 인지적 스위칭은 지친 전두엽에 생리학적 휴식 시간을 선물하여, 스트레스 호르몬인 코르티솔 수치를 즉각 낮추고 새로운 인지적 에너지를 회복시켜 다시 책상에 앉았을 때 신선한 영감을 도출할 수 있게 돕습니다.",
-      "en": "Complex intellectual tasks like writing, planning, or accounting severely wear down the prefrontal cortex. When prefrontal energy is depleted, we suffer from indecision, anxiety, and chronic fatigue (burnout).\n\nAlbert Camus' goalkeeper action of blocking fast-flying balls puts the prefrontal reflection circuitry completely offline. This is because it instantly switches the brain's active regions to the <strong>'cerebellum'</strong> and motor cortex, which manage reflexes and body coordination. This rapid cognitive switching grants physiological rest to the exhausted frontal lobe, dropping cortisol levels and restoring mental energy so you can find fresh inspiration when returning to the desk.",
-      "ja": "執筆、計画、会計などの複雑な知的作業は、前頭前野を著しく消耗させます。前頭前野のエネルギーが枯渇すると、優柔不断、不安、慢性疲労（燃え尽き症候群）に悩まされます。\n\nアルベール・カミュのゴールキーパーの高速飛行ボールをブロックするアクションは、前頭前反射回路を完全にオフラインにします。これは、脳の活動領域を、 反射と体の調整を管理する<strong>「小脳」 と</strong>運動皮質に瞬時に切り替えるためです。この急速な認知の切り替えにより、疲れ切った前頭葉に生理的な休息が与えられ、コルチゾールのレベルが低下し、精神的エネルギーが回復するため、デスクに戻るときに新鮮なインスピレーションを得ることができます。",
-      "zh": "写作、计划或会计等复杂的智力任务会严重消耗前额叶皮层。当前额叶能量耗尽时，我们会犹豫不决、焦虑和慢性疲劳（倦怠）。\n\n阿尔伯特·加缪（Albert Camus）的守门员阻挡快速飞行的球的动作使前额反射电路完全离线。这是因为它会立即将大脑的活跃区域切换到<strong>“小脑”</strong>和运动皮层，这些区域负责管理反射和身体协调。这种快速的认知转换可以让疲惫的额叶得到生理上的休息，降低皮质醇水平，恢复精神能量，这样你回到办公桌后就能找到新的灵感。",
-      "es": "Las tareas intelectuales complejas como escribir, planificar o llevar la contabilidad desgastan gravemente la corteza prefrontal. Cuando la energía prefrontal se agota, sufrimos indecisión, ansiedad y fatiga crónica (burnout).\n\nLa acción del portero de Albert Camus al bloquear balones que vuelan rápido desconecta completamente el circuito de reflexión prefrontal. Esto se debe a que cambia instantáneamente las regiones activas del cerebro al <strong>'cerebelo'</strong> y la corteza motora, que gestionan los reflejos y la coordinación corporal. Este rápido cambio cognitivo otorga descanso fisiológico al lóbulo frontal agotado, lo que reduce los niveles de cortisol y restaura la energía mental para que pueda encontrar nueva inspiración cuando regrese al escritorio.",
-      "fr": "Les tâches intellectuelles complexes comme l’écriture, la planification ou la comptabilité épuisent gravement le cortex préfrontal. Lorsque l’énergie préfrontale est épuisée, nous souffrons d’indécision, d’anxiété et de fatigue chronique (épuisement professionnel).\n\nL'action du gardien de but d'Albert Camus consistant à bloquer les ballons volant rapidement met le circuit de réflexion préfrontal complètement hors ligne. En effet, il bascule instantanément les régions actives du cerveau vers le <strong>« cervelet »</strong> et le cortex moteur, qui gèrent les réflexes et la coordination corporelle. Cette commutation cognitive rapide accorde un repos physiologique au lobe frontal épuisé, réduisant les niveaux de cortisol et rétablissant l'énergie mentale afin que vous puissiez trouver une nouvelle inspiration lorsque vous retournez au bureau.",
-      "de": "Komplexe intellektuelle Aufgaben wie Schreiben, Planen oder Buchen beanspruchen den präfrontalen Kortex stark. Wenn die präfrontale Energie erschöpft ist, leiden wir unter Unentschlossenheit, Angstzuständen und chronischer Müdigkeit (Burnout).\n\nAlbert Camus‘ Torwartaktion, schnell fliegende Bälle abzuwehren, setzt den präfrontalen Reflexionsschaltkreis komplett außer Betrieb. Dies liegt daran, dass die aktiven Regionen des Gehirns sofort auf das <strong>Kleinhirn</strong> und den motorischen Kortex umgeschaltet werden, die für die Reflexe und die Körperkoordination zuständig sind. Dieser schnelle kognitive Wechsel verschafft dem erschöpften Frontallappen physiologische Ruhe, senkt den Cortisolspiegel und stellt die geistige Energie wieder her, sodass Sie bei der Rückkehr an den Schreibtisch neue Inspiration finden können.",
-      "pt": "Tarefas intelectuais complexas, como escrever, planejar ou contar, desgastam gravemente o córtex pré-frontal. Quando a energia pré-frontal se esgota, sofremos de indecisão, ansiedade e fadiga crónica (burnout).\n\nA ação do goleiro de Albert Camus de bloquear bolas que voam rapidamente coloca o circuito de reflexão pré-frontal completamente offline. Isso ocorre porque ele muda instantaneamente as regiões ativas do cérebro para o <strong>'cerebelo'</strong> e o córtex motor, que gerenciam os reflexos e a coordenação corporal. Esta rápida mudança cognitiva proporciona descanso fisiológico ao exausto lobo frontal, diminuindo os níveis de cortisol e restaurando a energia mental para que possa encontrar nova inspiração quando regressar à secretária.",
-      "id": "Tugas intelektual yang kompleks seperti menulis, merencanakan, atau menghitung sangat melemahkan korteks prefrontal. Ketika energi prefrontal habis, kita menderita keragu-raguan, kecemasan, dan kelelahan kronis (burnout).\n\nTindakan kiper Albert Camus dalam memblok bola yang terbang cepat membuat sirkuit refleksi prefrontal benar-benar offline. Hal ini karena secara instan mengalihkan wilayah aktif otak ke <strong>'cerebellum'</strong> dan korteks motorik, yang mengatur refleks dan koordinasi tubuh. Peralihan kognitif yang cepat ini memberikan istirahat fisiologis pada lobus frontal yang kelelahan, menurunkan kadar kortisol, dan memulihkan energi mental sehingga Anda dapat menemukan inspirasi segar saat kembali bekerja."
+      "ko": "사색, 글쓰기, 비즈니스 기획 등 복잡한 고도의 지적 작업은 뇌의 전두엽(Prefrontal Cortex) 영역을 지독하게 마마시킵니다. 전두엽 에너지가 고갈되면 우리는 결정을 내리지 못하고 우울과 만성 피로(번아웃)를 겪게 됩니다.\n\n알베르 카뮈가 골키퍼를 하며 날아오는 공을 막아내는 행동은 전두엽의 사색 회로를 강제 오프라인(Forced Offline) 상태로 만듭니다. 반사 신경와 신체 조절을 맡는 <strong>'소뇌(Cerebellum)'</strong>와 운동 피질로 뇌의 인지 활성 영역을 순식간에 전환하기 때문입니다. 이러한 급격한 인지적 스위칭은 지친 전두엽에 생리학적 휴식 시간을 선물하여, 스트레스 호르몬인 코르티솔 수치를 즉각 낮추고 새로운 인지적 에너지를 회복시켜 다시 책상에 앉았을 때 신선한 영감을 도출할 수 있게 돕습니다."
     },
     "cautionTitle": {
-      "ko": "복잡한 점수 경쟁이나 두뇌 싸움이 들어간 게임은 피하십시오",
-      "en": "Avoid games that involve complex scoring competition or heavy strategy",
-      "ja": "複雑な得点競争や激しい戦略を伴うゲームは避ける",
-      "zh": "避免涉及复杂计分竞赛或繁重策略的游戏",
-      "es": "Evite juegos que impliquen una competencia de puntuación compleja o una estrategia intensa.",
-      "fr": "Évitez les jeux qui impliquent une compétition de notation complexe ou une stratégie lourde",
-      "de": "Vermeiden Sie Spiele, die einen komplexen Punktewettbewerb oder eine schwere Strategie beinhalten",
-      "pt": "Evite jogos que envolvam competição de pontuação complexa ou estratégia pesada",
-      "id": "Hindari permainan yang melibatkan kompetisi penilaian yang rumit atau strategi yang berat"
+      "ko": "복잡한 점수 경쟁이나 두뇌 싸움이 들어간 게임은 피하십시오"
     },
     "cautionDesc": {
-      "ko": "이 루틴의 목적은 뇌의 휴식입니다. 만약 동호회에 나가 극단적인 승패 경쟁을 하거나, 과도하게 전략을 짜며 스트레스를 받는 스포츠 게임에 몰입하면 뇌는 휴식을 취하지 못하고 전두엽에 2차 과부하가 걸립니다. 가볍게 공을 쫓아 뛰거나, 승패와 무관하게 신체의 반사 능력에 오롯이 몸을 던질 수 있는 편안한 야외 스포츠 활동이 추천됩니다.",
-      "en": "The purpose of this routine is brain rest. If you join competitive leagues where winning is everything, or engage in strategic games that cause additional stress, the brain will not rest. Choose casual sports where you run after a ball or enjoy reflex movements without stressing about the score.",
-      "ja": "このルーチンの目的は脳を休めることです。勝つことがすべてである競争力のあるリーグに参加したり、さらなるストレスを引き起こす戦略的なゲームに参加したりすると、脳は休まりません。スコアを気にせずにボールを追いかけたり、反射神経を楽しむカジュアルなスポーツを選びましょう。",
-      "zh": "这个程序的目的是让大脑休息。如果你加入以胜利为重的竞争性联赛，或者参与会带来额外压力的战略游戏，大脑就不会休息。选择休闲运动，追球奔跑或享受反射运动，而不用担心得分。",
-      "es": "El objetivo de esta rutina es el descanso cerebral. Si te unes a ligas competitivas donde ganar lo es todo, o participas en juegos estratégicos que causan estrés adicional, el cerebro no descansará. Elige deportes casuales en los que corras detrás de una pelota o disfrutes de movimientos reflejos sin preocuparte por el resultado.",
-      "fr": "Le but de cette routine est le repos du cerveau. Si vous rejoignez des ligues compétitives où la victoire est primordiale, ou si vous vous engagez dans des jeux stratégiques qui provoquent un stress supplémentaire, le cerveau ne se reposera pas. Choisissez des sports décontractés où vous courez après un ballon ou profitez de mouvements réflexes sans vous soucier du score.",
-      "de": "Der Zweck dieser Routine ist die Gehirnruhe. Wenn Sie sich kompetitiven Ligen anschließen, in denen das Gewinnen alles ist, oder sich an strategischen Spielen beteiligen, die zusätzlichen Stress verursachen, kommt das Gehirn nicht zur Ruhe. Wählen Sie Gelegenheitssportarten, bei denen Sie einem Ball hinterherlaufen oder sich an Reflexbewegungen erfreuen, ohne sich Gedanken über den Punktestand machen zu müssen.",
-      "pt": "O objetivo desta rotina é o descanso cerebral. Se você ingressar em ligas competitivas onde vencer é tudo, ou se envolver em jogos estratégicos que causam estresse adicional, o cérebro não descansará. Escolha esportes casuais onde você corre atrás de uma bola ou desfrute de movimentos reflexos sem se preocupar com o placar.",
-      "id": "Tujuan dari rutinitas ini adalah istirahat otak. Jika Anda bergabung dengan liga kompetitif di mana kemenangan adalah segalanya, atau terlibat dalam permainan strategis yang menambah stres, otak tidak akan beristirahat. Pilih olahraga kasual di mana Anda berlari mengejar bola atau menikmati gerakan refleks tanpa memikirkan skor."
+      "ko": "이 루틴의 목적은 뇌의 휴식입니다. 만약 동호회에 나가 극단적인 승패 경쟁을 하거나, 과도하게 전략을 짜며 스트레스를 받는 스포츠 게임에 몰입하면 뇌는 휴식을 취하지 못하고 전두엽에 2차 과부하가 걸립니다. 가볍게 공을 쫓아 뛰거나, 승패와 무관하게 신체의 반사 능력에 오롯이 몸을 던질 수 있는 편안한 야외 스포츠 활동이 추천됩니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "업무 공간 이탈 및 기기 차단",
-          "en": "Leaving the Workspace & Device Shutdown",
-          "ja": "ワークスペースからの退出とデバイスのシャットダウン",
-          "zh": "离开工作区并关闭设备",
-          "es": "Salir del espacio de trabajo y apagar el dispositivo",
-          "fr": "Quitter l'espace de travail et arrêter l'appareil",
-          "de": "Verlassen des Arbeitsbereichs und Herunterfahren des Geräts",
-          "pt": "Saindo do espaço de trabalho e desligamento do dispositivo",
-          "id": "Meninggalkan Ruang Kerja & Shutdown Perangkat"
+          "ko": "업무 공간 이탈 및 기기 차단"
         },
         "text": {
-          "ko": "두뇌 회로에 번아웃 경고등이 켜지면 즉시 의자에서 일어나 스마트폰이나 모니터에서 멀어집니다. 신체 활동을 위한 운동복으로 갈아입습니다.",
-          "en": "The moment a burnout warning turns on in your brain, stand up from your chair, move away from monitors, and change into athletic wear.",
-          "ja": "脳内で燃え尽き症候群の警告がオンになった瞬間、椅子から立ち上がってモニターから離れ、運動着に着替えてください。",
-          "zh": "当你的大脑中出现倦怠警告时，从椅子上站起来，远离显示器，换上运动服。",
-          "es": "En el momento en que se active una advertencia de agotamiento en su cerebro, levántese de la silla, aléjese de los monitores y póngase ropa deportiva.",
-          "fr": "Dès qu’un avertissement d’épuisement professionnel s’affiche dans votre cerveau, levez-vous de votre chaise, éloignez-vous des moniteurs et enfilez des vêtements de sport.",
-          "de": "Sobald in Ihrem Gehirn eine Burnout-Warnung aufleuchtet, stehen Sie von Ihrem Stuhl auf, entfernen Sie sich von Monitoren und ziehen Sie Sportkleidung an.",
-          "pt": "No momento em que um aviso de esgotamento for ativado em seu cérebro, levante-se da cadeira, afaste-se dos monitores e vista roupas esportivas.",
-          "id": "Saat peringatan kelelahan muncul di otak Anda, berdirilah dari kursi Anda, menjauhlah dari monitor, dan ganti pakaian atletik."
+          "ko": "두뇌 회로에 번아웃 경고등이 켜지면 즉시 의자에서 일어나 스마트폰이나 모니터에서 멀어집니다. 신체 활동을 위한 운동복으로 갈아입습니다."
         }
       },
       {
         "name": {
-          "ko": "30분간의 반사 신경 스포츠 돌입",
-          "en": "Entering a 30-Minute Reflex Sport",
-          "ja": "30 分間の反射神経スポーツに参加する",
-          "zh": "进入 30 分钟反射运动",
-          "es": "Entrar en un deporte reflejo de 30 minutos",
-          "fr": "Participer à un sport réflexe de 30 minutes",
-          "de": "Teilnahme an einem 30-minütigen Reflexsport",
-          "pt": "Entrando em um esporte reflexo de 30 minutos",
-          "id": "Memasuki Olahraga Refleks 30 Menit"
+          "ko": "30분간의 반사 신경 스포츠 돌입"
         },
         "text": {
-          "ko": "야외로 나가 축구공 리프팅이나 패스, 배드민턴 셔틀콕 주고받기 등 빠르게 움직이는 대상(공)을 시각적으로 추적하며 반사적으로 몸을 던지는 동적 운동에 30분간 참여합니다.",
-          "en": "Go outside and engage in 30 minutes of dynamic movement tracking a fast-moving object (ball, shuttlecock), such as soccer passing, badmintons, or table tennis.",
-          "ja": "外に出て、サッカーのパス、バドミントン、卓球など、高速で動く物体 (ボール、シャトル) を追跡するダイナミックな動きを 30 分間行います。",
-          "zh": "到户外进行 30 分钟的动态运动，追踪快速移动的物体（球、羽毛球），例如足球传球、羽毛球或乒乓球。",
-          "es": "Salga y realice 30 minutos de movimiento dinámico siguiendo un objeto que se mueve rápidamente (pelota, volante), como pases de fútbol, bádminton o tenis de mesa.",
-          "fr": "Sortez et participez à 30 minutes de mouvements dynamiques en suivant un objet en mouvement rapide (ballon, volant), comme une passe de football, un badminton ou un tennis de table.",
-          "de": "Gehen Sie nach draußen und üben Sie 30 Minuten lang dynamische Bewegungen aus, indem Sie ein sich schnell bewegendes Objekt (Ball, Federball) verfolgen, z. B. beim Passen von Fußball, Badminton oder Tischtennis.",
-          "pt": "Saia e pratique 30 minutos de movimentos dinâmicos rastreando um objeto em movimento rápido (bola, peteca), como passes de futebol, badmintons ou tênis de mesa.",
-          "id": "Pergilah ke luar dan lakukan gerakan dinamis selama 30 menit dengan melacak objek yang bergerak cepat (bola, shuttlecock), seperti passing sepak bola, bulu tangkis, atau tenis meja."
+          "ko": "야외로 나가 축구공 리프팅이나 패스, 배드민턴 셔틀콕 주고받기 등 빠르게 움직이는 대상(공)을 시각적으로 추적하며 반사적으로 몸을 던지는 동적 운동에 30분간 참여합니다."
         }
       },
       {
         "name": {
-          "ko": "충분한 수분 공급과 호흡 정돈",
-          "en": "Sufficient Hydration & Breath Regulation",
-          "ja": "十分な水分補給と呼吸の調節",
-          "zh": "充足的水分和呼吸调节",
-          "es": "Hidratación suficiente y regulación de la respiración",
-          "fr": "Hydratation suffisante et régulation de la respiration",
-          "de": "Ausreichende Flüssigkeitszufuhr und Atemregulierung",
-          "pt": "Hidratação Suficiente e Regulação Respiratória",
-          "id": "Regulasi Hidrasi & Nafas yang Cukup"
+          "ko": "충분한 수분 공급과 호흡 정돈"
         },
         "text": {
-          "ko": "운동을 마친 뒤 시원한 물을 마시며 심박수가 정상 범주로 돌아올 때까지 깊은 호흡으로 이완 상태를 누립니다. 전두엽이 완벽히 새로 고침되었음을 느껴 봅니다.",
-          "en": "After working out, drink cool water and breathe deeply until your heart rate returns to normal. Feel the prefrontal cortex fully refreshed.",
-          "ja": "運動後は、心拍数が正常に戻るまで冷たい水を飲み、深呼吸してください。前頭前野が完全にリフレッシュされたのを感じてください。",
-          "zh": "锻炼后，喝凉水并深呼吸，直到心率恢复正常。感觉前额皮质完全焕然一新。",
-          "es": "Después de hacer ejercicio, beba agua fría y respire profundamente hasta que su frecuencia cardíaca vuelva a la normalidad. Siente la corteza prefrontal completamente renovada.",
-          "fr": "Après l'entraînement, buvez de l'eau fraîche et respirez profondément jusqu'à ce que votre fréquence cardiaque redevienne normale. Sentez le cortex préfrontal entièrement rafraîchi.",
-          "de": "Trinken Sie nach dem Training kühles Wasser und atmen Sie tief durch, bis sich Ihre Herzfrequenz wieder normalisiert. Spüren Sie, wie der präfrontale Kortex völlig erfrischt ist.",
-          "pt": "Após o treino, beba água fria e respire profundamente até que a frequência cardíaca volte ao normal. Sinta o córtex pré-frontal totalmente renovado.",
-          "id": "Setelah berolahraga, minumlah air dingin dan bernapaslah dalam-dalam hingga detak jantung Anda kembali normal. Rasakan korteks prefrontal segar sepenuhnya."
+          "ko": "운동을 마친 뒤 시원한 물을 마시며 심박수가 정상 범주로 돌아올 때까지 깊은 호흡으로 이완 상태를 누립니다. 전두엽이 완벽히 새로 고침되었음을 느껴 봅니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "혼자서 할 수 있는 대체 신체 활동이 있나요?",
-          "en": "Is there a solo physical activity alternative?",
-          "ja": "一人での身体活動の代替手段はありますか?",
-          "zh": "有单独的体育活动替代方案吗？",
-          "es": "¿Existe una alternativa de actividad física en solitario?",
-          "fr": "Existe-t-il une alternative à l’activité physique en solo ?",
-          "de": "Gibt es eine Alternative zur alleinigen körperlichen Aktivität?",
-          "pt": "Existe uma alternativa de atividade física solo?",
-          "id": "Apakah ada alternatif aktivitas fisik solo?"
+          "ko": "혼자서 할 수 있는 대체 신체 활동이 있나요?"
         },
         "answer": {
-          "ko": "있습니다. 벽에 스쿼시나 테니스 공을 대고 튀겨진 공을 반사적으로 잡아내는 벽치기 훈련, 또는 복싱 샌드백을 치거나 권투 동작을 연습하는 등의 순발력 트레이닝만으로도 소뇌를 자극하여 전두엽을 성공적으로 오프라인 상태로 만들 수 있습니다.",
-          "en": "Yes. Rebounding a tennis ball against a wall and catching it, punching a speed bag, or doing shadow boxing reflex training are excellent ways to stimulate the cerebellum and take the prefrontal cortex offline.",
-          "ja": "はい。テニスボールを壁に跳ね返させてキャッチしたり、スピードバッグでパンチしたり、シャドーボクシングの反射トレーニングをしたりすることは、小脳を刺激して前頭前野をオフラインにする優れた方法です。",
-          "zh": "是的。将网球弹到墙上并接住它、击打速度袋或进行太极拳反射训练都是刺激小脑和使前额叶皮层离线的极好方法。",
-          "es": "Sí. Hacer rebotar una pelota de tenis contra una pared y atraparla, golpear una bolsa de velocidad o realizar un entrenamiento de reflejos de boxeo en la sombra son formas excelentes de estimular el cerebelo y desconectar la corteza prefrontal.",
-          "fr": "Oui. Faire rebondir une balle de tennis contre un mur et l'attraper, frapper un sac de vitesse ou faire un entraînement réflexe de shadow boxing sont d'excellents moyens de stimuler le cervelet et de mettre le cortex préfrontal hors ligne.",
-          "de": "Ja. Das Abprallen eines Tennisballs gegen eine Wand und das Auffangen, das Schlagen eines Speedbags oder das Reflextraining im Schattenboxen sind hervorragende Möglichkeiten, das Kleinhirn zu stimulieren und den präfrontalen Kortex offline zu schalten.",
-          "pt": "Sim. Rebater uma bola de tênis contra a parede e pegá-la, socar um saco de velocidade ou fazer um treinamento de reflexo de boxe nas sombras são maneiras excelentes de estimular o cerebelo e desligar o córtex pré-frontal.",
-          "id": "Ya. Memantulkan bola tenis ke dinding dan menangkapnya, meninju speed bag, atau melakukan latihan refleks tinju bayangan adalah cara terbaik untuk menstimulasi otak kecil dan membuat korteks prefrontal offline."
+          "ko": "있습니다. 벽에 스쿼시나 테니스 공을 대고 튀겨진 공을 반사적으로 잡아내는 벽치기 훈련, 또는 복싱 샌드백을 치거나 권투 동작을 연습하는 등의 순발력 트레이닝만으로도 소뇌를 자극하여 전두엽을 성공적으로 오프라인 상태로 만들 수 있습니다."
         }
       },
       {
         "question": {
-          "ko": "피로도가 높은 날에 30분 운동을 하면 오히려 더 지치지 않을까요?",
-          "en": "Will a 30-minute workout make me more tired on days when fatigue is already high?",
-          "ja": "すでに疲労が溜まっている日に 30 分間のトレーニングでさらに疲れてしまいますか?",
-          "zh": "在已经很疲劳的日子里，30 分钟的锻炼会让我更加疲劳吗？",
-          "es": "¿Un entrenamiento de 30 minutos me cansará más en los días en que la fatiga ya es alta?",
-          "fr": "Est-ce qu'une séance d'entraînement de 30 minutes me fatiguera davantage les jours où la fatigue est déjà élevée ?",
-          "de": "Macht mich ein 30-minütiges Training an Tagen, an denen die Müdigkeit bereits hoch ist, noch müder?",
-          "pt": "Um treino de 30 minutos me deixará mais cansado nos dias em que a fadiga já estiver alta?",
-          "id": "Akankah olahraga 30 menit membuat saya semakin lelah di hari-hari ketika rasa lelah sudah tinggi?"
+          "ko": "피로도가 높은 날에 30분 운동을 하면 오히려 더 지치지 않을까요?"
         },
         "answer": {
-          "ko": "정신적인 피로(뇌 피로)와 육체적인 피로는 다릅니다. 책상에 종일 앉아 머리만 써서 피곤한 상태는 뇌의 피로 물질이 쌓인 것이므로, 몸을 살짝 움직여서 혈류를 순환시키고 전두엽을 휴식시키는 동적 휴식을 취해주어야만 오히려 몸 전체의 피로감이 해소됩니다.",
-          "en": "Mental fatigue (brain fatigue) and physical fatigue are different. When you are tired from sitting at a desk, it is a state of brain fatigue. Moving your body slightly to circulate blood and rest the prefrontal cortex will actually relieve the overall fatigue.",
-          "ja": "精神的な疲労（脳の疲労）と肉体的な疲労は異なります。机に座っていて疲れているとき、それは脳が疲労している状態です。体を少し動かして血液を循環させ、前頭前野を休めると、全体的な疲労が軽減されます。",
-          "zh": "精神疲劳（大脑疲劳）和身体疲劳是不同的。当你坐在办公桌前感到疲倦时，这是一种大脑疲劳的状态。稍微活动一下身体，促进血液循环，让前额皮质得到休息，实际上会缓解整体疲劳。",
-          "es": "La fatiga mental (fatiga cerebral) y la fatiga física son diferentes. Cuando estás cansado por estar sentado en un escritorio, es un estado de fatiga cerebral. Mover ligeramente el cuerpo para hacer circular la sangre y descansar la corteza prefrontal aliviará la fatiga general.",
-          "fr": "La fatigue mentale (fatigue cérébrale) et la fatigue physique sont différentes. Lorsque vous êtes fatigué d’être assis à un bureau, c’est un état de fatigue cérébrale. Bouger légèrement votre corps pour faire circuler le sang et reposer le cortex préfrontal soulagera en fait la fatigue globale.",
-          "de": "Geistige Erschöpfung (Gehirnermüdung) und körperliche Ermüdung sind unterschiedlich. Wenn Sie vom Sitzen am Schreibtisch müde sind, handelt es sich um einen Zustand der Gehirnermüdung. Wenn Sie Ihren Körper leicht bewegen, um die Durchblutung anzuregen und den präfrontalen Kortex auszuruhen, wird die allgemeine Müdigkeit tatsächlich gelindert.",
-          "pt": "A fadiga mental (fadiga cerebral) e a fadiga física são diferentes. Quando você está cansado de ficar sentado em uma mesa, é um estado de fadiga cerebral. Mover ligeiramente o corpo para circular o sangue e descansar o córtex pré-frontal irá, na verdade, aliviar a fadiga geral.",
-          "id": "Kelelahan mental (kelelahan otak) dan kelelahan fisik itu berbeda. Ketika Anda lelah karena duduk di depan meja, itu adalah kondisi otak lelah. Menggerakan tubuh sedikit untuk mengedarkan darah dan mengistirahatkan korteks prefrontal sebenarnya akan menghilangkan rasa lelah secara keseluruhan."
+          "ko": "정신적인 피로(뇌 피로)와 육체적인 피로는 다릅니다. 책상에 종일 앉아 머리만 써서 피곤한 상태는 뇌의 피로 물질이 쌓인 것이므로, 몸을 살짝 움직여서 혈류를 순환시키고 전두엽을 휴식시키는 동적 휴식을 취해주어야만 오히려 몸 전체의 피로감이 해소됩니다."
         }
       }
-    ],
-    "stepImages": [
-      "",
-      "",
-      ""
-    ],
-    "pubDate": "2026-06-21",
-    "updatedDate": "2026-06-21"
+    ]
   }
 }

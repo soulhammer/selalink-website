@@ -1,223 +1,72 @@
 {
   "mann-strict-schedule": {
     "title": {
-      "ko": "매일 오전 4시간 동안 가족도 접근을 금지한 소설가? 토마스 만의 환경 통제 몰입법",
-      "en": "The Novelist Who Banned Family Access for 4 Hours Every Morning? Thomas Mann's Environmental Control Immersion Method",
-      "ja": "毎朝4時間、家族のアクセスすら禁止した小説家？トーマス・マンの環境管理没頭法",
-      "zh": "每天清晨连家人也被禁入4小时的小说家？托马斯·曼的境控制专注法",
-      "es": "¿El novelista que prohibía el acceso a su familia durante 4 horas cada mañana? El método de inmersión por control ambiental de Thomas Mann",
-      "fr": "Le romancier qui interdisait l'accès à sa famille 4h par jour ? La méthode d'isolation de Thomas Mann",
-      "de": "Der Schriftsteller, der seiner Familie den Zutritt verbot? Thomas Manns Methode zur Reizabschirmung",
-      "pt": "O romancista que proibia o acesso da família por 4 horas todas as manhãs? O método de imersão por controle ambiental de Thomas Mann",
-      "id": "Novelis yang Melarang Akses Keluarga Selama 4 Jam Setiap Pagi? Metode Imersi Kontrol Lingkungan Thomas Mann"
+      "ko": "매일 오전 4시간 동안 가족도 접근을 금지한 소설가? 토마스 만의 환경 통제 몰입법"
     },
     "description": {
-      "ko": "독일의 노벨 문학상 수상 작가 토마스 만은 매일 아침 9시부터 1시까지 외부 자극과 완전히 단절된 채 집필했습니다. 전두엽의 인지 에너지 고갈을 방지하는 환경 통제 원리와 현대적 무자극 몰입법을 알아봅니다.",
-      "en": "Thomas Mann, German Nobel laureate, wrote every morning from 9 AM to 1 PM completely cut off from external stimuli. Discover how this protects frontal lobe energy.",
-      "ja": "ドイツのノーベル文学賞受賞作家トーマス・マンは、毎朝9時から1時まで外部の刺激と完全に断絶した状態で執筆しました。前頭葉の認知エネルギー枯渇を防ぐ環境管理の原理と、現代的な無刺激没頭法を紹介します。",
-      "zh": "德国诺贝尔文学奖得主托马斯·曼每天清晨9点至下午1点在与外界刺激完全隔离的状态下写作。介绍防止前额叶认知能量耗尽的环境控制原理及现代无刺激专注法。",
-      "es": "El Nobel de Literatura alemán Thomas Hobbes (perdón, Thomas Mann) escribía de 9 AM a 1 PM desconectado de estímulos externos. Analizamos cómo protege la energía del lóbulo frontal.",
-      "fr": "Le Nobel de littérature allemand Thomas Mann écrivait de 9h à 13h coupé du monde. Découvrez comment cette habitude préserve les ressources cognitives du cortex frontal.",
-      "de": "Der Literaturnobelpreisträger Thomas Mann arbeitete von 9 bis 13 Uhr völlig abgeschirmt von der Außenwelt. Erfahren Sie, wie dies die Energie des Frontalhirns schont.",
-      "pt": "O Nobel de Literatura alemão Thomas Mann escrevia das 9h às 13h desconectado de estímulos externos. Analisamos como esse hábito protege a energia do lobo frontal.",
-      "id": "Pemenang Nobel Sastra Jerman Thomas Mann menulis setiap pagi dari jam 9 pagi sampai jam 1 siang terputus dari rangsangan luar. Pelajari bagaimana hal ini melindungi energi lobus frontal."
+      "ko": "독일의 노벨 문학상 수상 작가 토마스 만은 매일 아침 9시부터 1시까지 외부 자극과 완전히 단절된 채 집필했습니다. 전두엽의 인지 에너지 고갈을 방지하는 환경 통제 원리와 현대적 무자극 몰입법을 알아봅니다."
     },
     "authority": {
-      "ko": "도널드 프레이터의 '토마스 만 전기' 및 칼 뉴포트의 '딥 워크(Deep Work)'",
-      "en": "Donald Prater's 'Thomas Mann: A Life' & Cal Newport's 'Deep Work'",
-      "ja": "ドナルド・プレイター「トーマス・マン評伝」およびカル・ニューポート「ディープワーク（Deep Work）」",
-      "zh": "普拉特《托马斯·曼的一生》与卡尔·纽波特《深度工作(Deep Work)》",
-      "es": "Thomas Mann: A Life de Donald Prater y Deep Work de Cal Newport",
-      "fr": "Thomas Mann: A Life de Donald Prater & 'Deep Work' de Cal Newport",
-      "de": "Donald Praters 'Thomas Mann: A Life' & Cal Newports 'Deep Work'",
-      "pt": "Thomas Mann: A Life de Donald Prater & Deep Work de Cal Newport",
-      "id": "Thomas Mann: A Life oleh Donald Prater & 'Deep Work' oleh Cal Newport"
+      "ko": "토마스 만 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "'마의 산'과 '부덴브로크가의 사람들'을 집필하며 독일 지성사를 대표하는 소설가로 우뚝 선 노벨 문학상 수상 작가 토마스 만. 매번 철학적 깊이를 자랑하는 그의 방대하고 촘촘한 서사들은 영감이 번뜩이는 우연한 순간이 아닌, 마치 기계 태엽처럼 한 치의 오차도 없이 작동했던 시간 통제 속에서 탄생했습니다. 🕰️\n\n토마스 만은 영감이 찾아올 때까지 기다렸다가 즉흥적으로 글을 쓰는 방식을 대단히 혐오했습니다. 그는 매일 아침 정확히 9시가 되면 서재로 들어가 안에서 문을 잠갔습니다. 그리고 오후 1시까지 집중적으로 글을 썼습니다. 이 4시간의 '집필 차단 시간' 동안은 그의 아내와 아이들을 포함한 세상의 누구도 그의 서재 근처에 가거나 문을 두드릴 수 없었습니다. 그는 아무런 문장도 떠오르지 않아 고통받는 날조차도 1시가 될 때까지 절대 서재 밖으로 나오지 않았습니다. 그리고 1시가 되는 순간, 마치 공장 퇴근 벨이 울린 것처럼 펜을 완벽히 내려놓았습니다.\n\n오늘 BuildSelf에서는 토마스 만이 집착적으로 유지했던 '환경 통제 차단' 루틴의 뇌 과학적 원리와, 끊임없는 디지털 방해 속에서 살아가야 하는 현대인을 위한 무자극 집중 프로토콜을 제시합니다.",
-      "en": "Thomas Mann, a Nobel Prize-winning writer who stood tall as a novelist representing German intellectual history by writing 'The Magic Mountain' and 'Buddenbrooks.' His vast and dense narratives, which boast philosophical depth every time, were born not in accidental moments of flashing inspiration, but in time control that operated like a machine clockwork without any error. 🕰️\n\nThomas Mann greatly hated waiting for inspiration to come and writing spontaneously. Every morning at exactly 9 AM, he entered his study and locked the door from the inside. He then wrote intensively until 1 PM. During this 4-hour 'writing block time,' no one in the world, including his wife and children, could go near his study or knock on the door. Even on days when he suffered because no sentence came to mind, he never came out of his study until 1 PM. And the moment it became 1 PM, he completely put down his pen as if a factory finish bell had rung.\n\nToday, BuildSelf presents the brain science principles of the 'environmental control blocking' routine that Thomas Mann obsessively maintained, and a non-stimulating concentration protocol for modern people who must live in the midst of constant digital distractions.",
-      "ja": "この歴史的習慣の実践において：' ' ' ' . , . 🕰️ この歴史的習慣の実践において： . 9 . 1 . 4 ' ' . 1 . 1 , . この歴史的習慣の実践において： BuildSelf ' ' , .",
-      "zh": "在这一历史性惯例的实践中：' ' ' ' . , . 🕰️ 在这一历史性惯例的实践中： . 9 . 1 . 4 ' ' . 1 . 1 , . 在这一历史性惯例的实践中： BuildSelf ' ' , .",
-      "es": "Thomas Mann, Nobel de Literatura y referente de la intelectualidad alemana gracias a 'La montaña mágica' y 'Los Buddenbrook'. Su prosa densa y profunda no nació de arranques de genio espontáneos, sino de un férreo control del tiempo que funcionaba con la precisión de un reloj de cuerda. 🕰️\n\nMann detestaba esperar a las musas para escribir de improviso. Cada mañana a las 9:00 en punto se encerraba en su estudio bajo llave. Escribía sin pausa hasta las 13:00. Durante esas cuatro horas de 'bloqueo creativo', nadie (ni su esposa ni sus hijos) podía acercarse al cuarto ni llamar a la puerta. Incluso en días de sequía mental, no salía hasta la hora fijada, momento en el que soltaba la pluma como si sonara la bocina de salida de una fábrica.\n\nHoy, BuildSelf expone la neurobiología de este hábito de 'aislamiento y control del entorno' de Thomas Mann y presenta un protocolo de foco libre de estímulos para la vida digital moderna.",
-      "fr": "Thomas Mann, prix Nobel de littérature et géant des lettres allemandes avec 'La Montagne magique' et 'Les Buddenbrook'. Son œuvre monumentale, réputée pour sa profondeur philosophique, n'est pas née d'inspirations fortuites, mais d'une discipline horaire d'une précision d'horlogerie. 🕰️\n\nThomas Mann détestait attendre l'inspiration pour écrire de manière improvisée. Chaque matin à 9h précises, il s'enfermait à clé dans son bureau et écrivait jusqu'à 13h. Pendant ces quatre heures d'isolement absolu, personne (pas même sa femme ou ses enfants) n'avait le droit de l'approcher ni de frapper à sa porte. Même en cas de panne d'inspiration, il restait assis jusqu'à 13h, heure à laquelle il posait son stylo comme à la sonnerie d'une usine.\n\nAujourd'hui, BuildSelf décrypte la neurobiologie de cet 'isolement environnemental' que s'imposait Thomas Mann, et propose un protocole de concentration sans stimuli pour le quotidien connecté actuel.",
-      "de": "Thomas Mann, der Literaturnobelpreisträger, der mit 'Der Zauberberg' und 'Die Buddenbrooks' die deutsche Literatur prägte. Seine tiefgründigen Werke entstanden nicht durch spontane Eingebungen, sondern durch eine Zeitplanung, die wie ein Uhrwerk funktionierte. 🕰️\n\nThomas Mann verabscheute es, auf Inspiration zu warten und spontan zu schreiben. Jeden Morgen um Punkt 9 Uhr schloss er sich in seinem Arbeitszimmer ein und schrieb bis 13 Uhr. Während dieser vier Stunden durfte niemand – auch nicht Frau oder Kinder – stören oder anklopfen. Selbst an Tagen, an denen ihm nichts einfiel, blieb er im Zimmer. Um 13 Uhr legte er den Stift sofort weg, als gäbe es ein Werkssignal.\n\nHeute stellt BuildSelf die wissenschaftliche Basis von Manns reizgeschützter Routine vor und zeigt eine moderne Version zur Vermeidung digitaler Ablenkungen.",
-      "pt": "Thomas Mann, vencedor do Nobel de Literatura e referência intelectual alemã graças a 'A Montanha Mágica' e 'Os Buddenbrook'. Sua prosa densa não nasceu de lampejos espontâneos, mas de um rígido controle do tempo que funcionava com a precisão de um relógio. 🕰️\n\nMann detestava esperar a inspiração para escrever de improviso. Todas as manhãs às 9h em ponto trancava-se sob chave em seu escritório e escrevia até as 13h. Durante essas quatro horas de 'bloqueio criativo', ninguém (nem esposa ou filhos) podia aproximar-se ou bater na porta. Mesmo em dias sem criatividade, não saía até o meio-dia, momento em que largava a caneta como se tocasse o sinal de saída de uma fábrica.\n\nHoje, o BuildSelf explica os princípios de 'controle do ambiente' desse hábito de Thomas Mann e apresenta um protocolo de foco livre de estímulos para a vida digital contemporânea.",
-      "id": "Thomas Mann, pemenang Hadiah Nobel Sastra yang berdiri tegak sebagai novelis yang mewakili sejarah intelektual Jerman dengan menulis 'The Magic Mountain' dan 'Buddenbrooks.' Narasi-narasinya yang luas, lahir bukan dalam momen inspirasi yang tidak disengaja, melainkan dalam kontrol waktu yang beroperasi seperti roda gigi mesin. 🕰️\n\nThomas Mann sangat benci menunggu inspirasi datang dan menulis secara spontan. Setiap pagi tepat jam 9 pagi, ia memasuki ruang kerjanya dan mengunci pintu dari dalam. Dia kemudian menulis secara intensif sampai jam 1 siang. Selama 4 jam 'waktu blok penulisan' ini, tidak ada seorang pun di dunia ini, termasuk istri dan anak-anaknya, yang bisa mendekati ruang kerjanya atau mengetuk pintu. Bahkan pada hari-hari ketika ia menderita karena tidak ada kalimat yang muncul di benaknya, ia tidak pernah keluar dari ruang kerjanya sampai jam 1 siang. Dan saat jam 1 siang, dia benar-benar meletakkan penanya.\n\nHari ini, BuildSelf menyajikan prinsip-prinsip sains otak dari rutinitas 'pemblokiran kontrol lingkungan' yang dipertahankan Thomas Mann secara obsesif."
+      "ko": "'마의 산'과 '부덴브로크가의 사람들'을 집필하며 독일 지성사를 대표하는 소설가로 우뚝 선 노벨 문학상 수상 작가 토마스 만. 매번 철학적 깊이를 자랑하는 그의 방대하고 촘촘한 서사들은 영감이 번뜩이는 우연한 순간이 아닌, 마치 기계 태엽처럼 한 치의 오차도 없이 작동했던 시간 통제 속에서 탄생했습니다. 🕰️\n\n토마스 만은 영감이 찾아올 때까지 기다렸다가 즉흥적으로 글을 쓰는 방식을 대단히 혐오했습니다. 그는 매일 아침 정확히 9시가 되면 서재로 들어가 안에서 문을 잠갔습니다. 그리고 오후 1시까지 집중적으로 글을 썼습니다. 이 4시간의 '집필 차단 시간' 동안은 그의 아내와 아이들을 포함한 세상의 누구도 그의 서재 근처에 가거나 문을 두드릴 수 없었습니다. 그는 아무런 문장도 떠오르지 않아 고통받는 날조차도 1시가 될 때까지 절대 서재 밖으로 나오지 않았습니다. 그리고 1시가 되는 순간, 마치 공장 퇴근 벨이 울린 것처럼 펜을 완벽히 내려놓았습니다.\n\n오늘 포스트에서는 토마스 만이 집착적으로 유지했던 '환경 통제 차단' 루틴의 뇌 과학적 원리와, 끊임없는 디지털 방해 속에서 살아가야 하는 현대인을 위한 무자극 집중 프로토콜을 제시합니다."
     },
     "whyTitle": {
-      "ko": "환경 제어와 대뇌 피질의 인지 피로 예방",
-      "en": "Environmental Control and Prevention of Cognitive Fatigue in the Cerebral Cortex",
-      "ja": "環境管理と大脳皮質の認知疲労防止",
-      "zh": "环境控制与预防大脑皮层的认知疲劳",
-      "es": "Control Ambiental y Prevención de Fatiga Cognitiva en la Corteza Cerebral",
-      "fr": "Isolation Environnementale et Protection du Cortex Frontal",
-      "de": "Reizabschirmung und Vermeidung von kognitiver Erschöpfung",
-      "pt": "Controle Ambiental e Prevenção da Fadiga Cognitiva na Córtex Cerebral",
-      "id": "Kontrol Lingkungan dan Pencegahan Kelelahan Kognitif di Korteks Serebral"
+      "ko": "환경 제어와 대뇌 피질의 인지 피로 예방"
     },
     "whyDesc": {
-      "ko": "뇌의 의지력과 복잡한 문제 해결을 조율하는 전두엽 피질(Prefrontal Cortex)의 인지적 에너지(글루코스 및 에너자이저 성분)는 아침 시간에 가장 높지만, 그 한계 용량은 대단히 유한합니다. 스마트폰 메신저나 SNS, 잡담 등 사소하게 주의를 끄는 방해 자극(Micro-distraction)은 뇌의 에너지를 매우 빠른 속도로 소모시킵니다. \n\n집중하는 대상이 바뀔 때 발생하는 <strong>'주의력 잔류(Attention Residue)'</strong> 현상 때문에, 방해를 받은 뇌가 다시 원래 작업의 몰입 수준으로 돌아가는 데는 최대 20분 이상의 시간과 상당한 에너지가 낭비됩니다. 토마스 만의 서재 잠금 루틴은 뇌를 외부 자극 유입으로부터 원천 격리하여, 한정된 뇌의 인지 자원을 단 하나의 고난도 과제에 100% 밀도 있게 쏟아부을 수 있게 만든 극도의 효율적인 뇌 보호 전략이었습니다.",
-      "en": "The cognitive energy of the prefrontal cortex, which coordinates willpower and complex problem solving, is highest in the morning, but its capacity is highly finite. Micro-distractions, such as smartphone messengers, social media, and small talk, deplete the brain's energy very quickly.\n\nDue to the <strong>'attention residue'</strong> phenomenon that occurs when the focus of attention changes, it takes up to 20 minutes and wastes significant energy for a distracted brain to return to the immersion level of the original work. Thomas Mann's study-locking routine was an extremely efficient brain protection strategy that isolated the brain from external stimuli, allowing finite cognitive resources to be poured 100% into a single high-difficulty task.",
-      "ja": "脳の意志力や複雑な問題解決を調整する前頭葉皮質（Prefrontal Cortex）の認知的エネルギーは、午前中の時間に最も高くなりますが、その容量は極めて有限です。スマートフォンのメッセンジャーやSNS、雑談などの些細な妨害刺激（Micro-distraction）は、脳のエネルギーを非常に早い速度で消費させます。\n\n集中する対象が変わる際に発生する<strong>「注意の残留（Attention Residue）」</strong>現象のため、邪魔が入った脳が再び元の作業の没頭レベルに戻るには、最大で20分以上の時間と相当なエネルギーが無駄になります。トーマス・マンの書斎鍵かけルーティンは、脳を外部の刺激流入から完全に遮断することで、限られた脳の認知資源をたった一つの高難度な課題に100％の密度で注ぎ込むことができるようにした、極めて効率的な脳保護戦略だったのです。",
-      "zh": "负责协调意志力与复杂问题解决的大脑前额叶皮层（Prefrontal Cortex）其认知能量在上午时段最高，但它的容量也是非常有限的。智能手机社群软件、社交媒体或闲聊等微小的分心刺激（Micro-distraction），会以极快的速度消耗大脑的能量。\n\n由于在切换专注目标时会产生<strong>“注意力残留(Attention Residue)”</strong>现象，被干扰的大脑要重新回到原本工作的专注水平，最多需要浪费20分钟以上的时间和相当大的能量。托马斯·曼的反锁书房惯例，是一种将大脑与外界刺激输入源头隔离的极其高效的大脑保护策略，这使得有限的大脑认知资源能够以100%的密度完全倾注在单一的高难度任务上。",
-      "es": "La energía cognitiva del lóbulo frontal (Prefrontal Cortex), que regula la voluntad y el razonamiento complejo, está a su nivel máximo por la mañana, pero es muy limitada. Las microdistracciones (mensajes en el móvil, redes o charlas) agotan esa energía rápido.\n\nDebido al fenómeno del <strong>'residuo de atención (Attention Residue)'</strong> al cambiar de tarea, el cerebro distraído tarda hasta 20 minutos en recuperar el nivel de inmersión original, perdiendo valiosos recursos. El encierro de Thomas Mann era una barrera física que aislaba el cerebro de interferencias, permitiendo enfocar el 100% de la energía en una sola tarea exigente.",
-      "fr": "Les ressources cognitives du cortex préfrontal, qui orchestrent la volonté et la résolution de problèmes complexes, sont au plus haut le matin, mais restent limitées. Les micro-distractions (notifications de messageries, réseaux sociaux) vident ces ressources en un temps record.\n\nEn raison du phénomène de <strong>'résidu d'attention (Attention Residue)'</strong> lors d'un changement de tâche, un cerveau distrait met jusqu'à 20 minutes pour retrouver son niveau d'immersion initial, gaspillant une énergie précieuse. Le verrouillage de bureau imposé par Thomas Mann était une barrière physique qui protégeait le cerveau des distractions, lui permettant d'injecter 100 % de son énergie dans une seule tâche complexe.",
-      "de": "Die kognitive Energie des präfrontalen Kortex, die für Willenskraft und Problemlösung zuständig ist, ist morgens am höchsten, aber stark begrenzt. Mikrostörungen wie Handy-Nachrichten oder Social Media verbrauchen diese Energie rasant.\n\nDurch das Phänomen des <strong>'Aufmerksamkeitsrückstands (Attention Residue)'</strong> beim Aufgabenwechsel benötigt das Gehirn nach einer Ablenkung bis zu 20 Minuten, um das ursprüngliche Fokus-Niveau wieder zu erreichen. Manns Isolation schirmte das Gehirn ab, sodass die begrenzte Energie zu 100 % in eine einzige komplexe Aufgabe fließen konnte.",
-      "pt": "A energia cognitiva do córtex pré-frontal, que regula a vontade e raciocínio complexo, está no auge pela manhã, mas é muito limitada. As microdistrações (mensagens de celular, redes sociais) esgotam essa energia rapidamente.\n\nDevido ao fenômeno do <strong>'resíduo de atenção (Attention Residue)'</strong> ao mudar de foco, o cérebro distraído leva até 20 minutos para recuperar o nível de imersão original. O isolamento de Thomas Mann era uma barreira física que protegia o cérebro de interferências, permitindo canalizar 100% da energia em uma única tarefa complexa.",
-      "id": "Energi kognitif korteks prefrontal, yang mengoordinasikan tekad dan pemecahan masalah rumit, paling tinggi di pagi hari, tetapi kapasitasnya sangat terbatas. Distraksi mikro, seperti pesan ponsel dan media sosial, menghabiskan energi otak dengan cepat.\n\nKarena fenomena <strong>'residu perhatian'</strong> yang terjadi ketika fokus perhatian berubah, dibutuhkan waktu hingga 20 menit bagi otak yang terganggu untuk kembali ke tingkat fokus semula. Rutinitas penguncian ruang kerja Thomas Mann adalah strategi perlindungan otak yang sangat efisien yang mengisolasi otak dari rangsangan luar."
+      "ko": "뇌의 의지력과 복잡한 문제 해결을 조율하는 전두엽 피질(Prefrontal Cortex)의 인지적 에너지(글루코스 및 에너자이저 성분)는 아침 시간에 가장 높지만, 그 한계 용량은 대단히 유한합니다. 스마트폰 메신저나 SNS, 잡담 등 사소하게 주의를 끄는 방해 자극(Micro-distraction)은 뇌의 에너지를 매우 빠른 속도로 소모시킵니다. \n\n집중하는 대상이 바뀔 때 발생하는 <strong>'주의력 잔류(Attention Residue)'</strong> 현상 때문에, 방해를 받은 뇌가 다시 원래 작업의 몰입 수준으로 돌아가는 데는 최대 20분 이상의 시간과 상당한 에너지가 낭비됩니다. 토마스 만의 서재 잠금 루틴은 뇌를 외부 자극 유입으로부터 원천 격리하여, 한정된 뇌의 인지 자원을 단 하나의 고난도 과제에 100% 밀도 있게 쏟아부을 수 있게 만든 극도의 효율적인 뇌 보호 전략이었습니다."
     },
     "cautionTitle": {
-      "ko": "얕은 업무(Shallow Work)의 함정",
-      "en": "The Trap of Shallow Work",
-      "ja": "浅い仕事（Shallow Work）の罠",
-      "zh": "浅度工作(Shallow Work)的陷阱",
-      "es": "La Trampa del Trabajo Superficial (Shallow Work)",
-      "fr": "Le Piège du Travail Superficiel (Shallow Work)",
-      "de": "Die Falle der oberflächlichen Arbeit (Shallow Work)",
-      "pt": "A Armadilha do Trabalho Superficial (Shallow Work)",
-      "id": "Jebakan Shallow Work"
+      "ko": "얕은 업무(Shallow Work)의 함정"
     },
     "cautionDesc": {
-      "ko": "메일 확인, 메신저 즉각 답변, 사소한 웹 서핑 등은 뇌에게 바쁘게 움직인다는 가짜 생산성 위안을 주지만, 실질적인 인지적 발전을 이끌어내지 못하는 '얕은 업무(Shallow Work)'입니다. 토마스 만처럼 집중 시간을 고정하고, 그 시간 동안만큼은 얕은 업무를 전면 금지하고 무자극 상태에서 뇌를 깊은 사고(Deep Work) 상태에 강제로 배치해야 고효율의 아웃풋이 도출됩니다.",
-      "en": "Checking emails, responding instantly to messengers, and casual web surfing give a false sense of productivity, but they are 'Shallow Work' that does not lead to real cognitive growth. You must fix focus time like Thomas Mann and force the brain into Deep Work under non-stimulating conditions to produce high-efficiency outputs.",
-      "ja": "メールの確認、メッセンジャーへの即座の返信、些細なウェブサーフィンなどは、脳に「忙しく動いている」という偽の生産性の慰めを与えますが、実質的な認知的発展をもたらさない「浅い仕事（Shallow Work）」です。トーマス・マンのように集中時間を固定し、その時間だけは浅い仕事を全面的に禁止し、無刺激状態で脳を深い思考（Deep Work）状態に強制配置して初めて、高効率のアウトプットが導き出されます。",
-      "zh": "检查邮件、立即回复信息、无谓的网页浏览等，会给大脑产生一种正在忙碌运转的虚假生产力慰藉，但这些都是无法带来实质性认知提升的“浅度工作(Shallow Work)”。只有像托马斯·曼那样固定专注时间，在此期间全面禁止浅度工作，强制大脑在无刺激状态下进行深度工作(Deep Work)，才能产出高效率的结果。",
-      "es": "Revisar correos, responder chats al instante o navegar por la web distraídamente dan una falsa sensación de productividad. Es lo que se llama 'trabajo superficial (Shallow Work)'. Para lograr un rendimiento alto, fije bloques de tiempo prohibiendo estas tareas secundarias y fuerce al cerebro a pensar en profundidad.",
-      "fr": "Consulter ses e-mails, répondre aux chats ou surfer sur le web donne l'illusion d'être productif. C'est ce qu'on appelle le 'travail superficiel (Shallow Work)'. Pour obtenir des résultats de haute qualité, fixez des blocs de temps sans ces tâches secondaires pour contraindre le cerveau à penser en profondeur.",
-      "de": "E-Mails checken, sofort auf Chats antworten oder Surfen geben ein falsches Gefühl von Produktivität. Dies ist oberflächliche Arbeit ('Shallow Work'). Feste Fokus-Zeiten, in denen diese Aufgaben verboten sind, zwingen das Gehirn zu tiefer Arbeit ('Deep Work') und führen zu besseren Ergebnissen.",
-      "pt": "Verificar e-mails, responder a chats na hora ou navegar na web de forma dispersa dão uma falsa sensação de produtividade. É o chamado 'trabalho superficial (Shallow Work)'. Para obter alta performance, reserve blocos de foco proibindo essas tarefas secundárias.",
-      "id": "Memeriksa email, membalas pesan instan, dan menjelajahi web secara kasual memberikan rasa produktivitas palsu, tetapi itu adalah 'Shallow Work' yang tidak mengarah pada pertumbuhan kognitif nyata. Anda harus menetapkan waktu fokus seperti Thomas Mann."
+      "ko": "메일 확인, 메신저 즉각 답변, 사소한 웹 서핑 등은 뇌에게 바쁘게 움직인다는 가짜 생산성 위안을 주지만, 실질적인 인지적 발전을 이끌어내지 못하는 '얕은 업무(Shallow Work)'입니다. 토마스 만처럼 집중 시간을 고정하고, 그 시간 동안만큼은 얕은 업무를 전면 금지하고 무자극 상태에서 뇌를 깊은 사고(Deep Work) 상태에 강제로 배치해야 고효율의 아웃풋이 도출됩니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "오전 시간 중 2시간 몰입 약속",
-          "en": "Promising a 2-Hour Focus During the Morning",
-          "ja": "午前中の時間内に2時間の没頭を約束",
-          "zh": "预设上午2小时的专注承诺",
-          "es": "Reservar 2 Horas de Foco por la Mañana",
-          "fr": "Bloquer 2h de Focus dans la Matinée",
-          "de": "Zweistündige Fokusphase am Morgen festlegen",
-          "pt": "Reservar 2 Horas de Foco pela Manhã",
-          "id": "Menetapkan 2 Jam Fokus Selama Pagi Hari"
+          "ko": "오전 시간 중 2시간 몰입 약속"
         },
         "text": {
-          "ko": "하루 중 뇌 에너지가 가장 맑고 충만한 오전 시간대에, 방해받지 않고 오직 중요한 프로젝트나 기획에만 전념할 2시간의 '딥 워크(Deep Work) 시간'을 설정합니다.",
-          "en": "During the morning hours, when brain energy is clearest and fullest, set a 2-hour 'Deep Work time' to dedicate solely to important projects or planning without distractions.",
-          "ja": "一日の中で脳のエネルギーが最も澄んで満ちている午前中の時間帯に、邪魔されず重要なプロジェクトや企画のみに専念する2時間の「ディープワーク（Deep Work）時間」を設定します。",
-          "zh": "在一天中脑部能量最清亮、最充沛的上午时段，设定一个2小时的“深度工作(Deep Work)时间”，在此期间心无旁骛地专注于核心项目或策划。",
-          "es": "Establezca un bloque de 2 horas de 'trabajo profundo (Deep Work)' por la mañana, cuando la energía mental está al máximo, dedicado solo a sus proyectos clave.",
-          "fr": "Fixez un bloc de 2h de 'travail profond (Deep Work)' dans la matinée, au moment où votre énergie mentale est maximale, dédié uniquement à vos projets clés.",
-          "de": "Legen Sie in den Morgenstunden, wenn Ihre Energie am höchsten ist, eine zweistündige Phase für wichtige Projekte ohne jegliche Ablenkung fest.",
-          "pt": "Defina um bloco de 2 horas de 'trabalho profundo (Deep Work)' pela manhã, quando a energia mental está no auge, dedicado apenas aos seus projetos principais.",
-          "id": "Selama jam-jam pagi, ketika energi otak paling jernih dan penuh, tetapkan 'waktu Kerja Mendalam' selama 2 jam untuk mendedikasikan diri hanya pada proyek penting."
+          "ko": "하루 중 뇌 에너지가 가장 맑고 충만한 오전 시간대에, 방해받지 않고 오직 중요한 프로젝트나 기획에만 전념할 2시간의 '딥 워크(Deep Work) 시간'을 설정합니다."
         }
       },
       {
         "name": {
-          "ko": "물리적 공간 격리 및 비주얼 클렌징",
-          "en": "Physical Space Isolation and Visual Cleansing",
-          "ja": "物理的空間の隔離とビジュアルクレンジング",
-          "zh": "物理空间隔离与视觉净化",
-          "es": "Aislamiento Físico y Limpieza Visual",
-          "fr": "Isolation Physique et Nettoyage Visuel",
-          "de": "Physische Isolation und Schreibtischreinigung",
-          "pt": "Isolamento Físico e Limpeza Visual",
-          "id": "Isolasi Ruang Fisik dan Pembersihan Visual"
+          "ko": "물리적 공간 격리 및 비주얼 클렌징"
         },
         "text": {
-          "ko": "방 문을 닫거나 조용한 회의실 등으로 이동합니다. 스마트폰은 화면이 보이지 않게 뒤집어 가방 안이나 다른 방으로 옮겨 視覚的刺激을 원천 제거하고 책상 위를 단순하게 정돈합니다.",
-          "en": "Close the room door or move to a quiet conference room. Turn your smartphone face down or move it to a bag or another room to completely remove visual stimulation and tidy up your desk.",
-          "ja": "部屋のドアを閉めるか,静かな会議室などに移動します。スマートフォンは画面が見えないように裏返し、バッグの中や別の部屋に移して視覚的刺激を元から取り除き、机の上をシンプルに片付けます。",
-          "zh": "关闭房间门或移步到安静的会议室中。将手机屏幕朝下放置，或移入包内/另一个房间，彻底清除视觉刺激源，并将书桌整理得井井有条。",
-          "es": "Cierre la puerta de la habitación o muévase a una sala tranquila. Coloque el móvil boca abajo o déjelo en otra habitación para eliminar tentaciones visuales, y despeje su mesa.",
-          "fr": "Fermez la porte de la pièce ou installez-vous dans une salle calme. Posez votre téléphone face cachée ou rangez-le dans un sac pour éliminer toute tentation visuelle, et videz le bureau.",
-          "de": "Schließen Sie die Tür oder nutzen Sie einen ruhigen Raum. Legen Sie das Handy weg oder in die Tasche, um visuelle Reize auszuschließen, und räumen Sie den Schreibtisch auf.",
-          "pt": "Feche a porta da sala ou vá para um local silencioso. Coloque o celular virado para baixo ou leve para outro cômodo para afastar tentações visuais, e limpe a mesa.",
-          "id": "Tutup pintu kamar atau pindah ke ruang konferensi yang tenang. Balikkan ponsel Anda atau pindahkan ke tas atau ruangan lain untuk menghilangkan stimulasi visual."
+          "ko": "방 문을 닫거나 조용한 회의실 등으로 이동합니다. 스마트폰은 화면이 보이지 않게 뒤집어 가방 안이나 다른 방으로 옮겨 시각적 자극을 원천 제거하고 책상 위를 단순하게 정돈합니다."
         }
       },
       {
         "name": {
-          "ko": "메신저 방해금지 및 단일 창 고정",
-          "en": "Messenger Do-Not-Disturb and Single Window Fixing",
-          "ja": "メッセンジャー通知オフと単一ウィンドウ固定",
-          "zh": "免打扰设置与固定单一工作窗口",
-          "es": "Activar el Modo No Molestar y Fijar una Sola Ventana",
-          "fr": "Activer le Mode Ne Pas Déranger et Fixer une Fenêtre",
-          "de": "Bitte-nicht-stören-Modus und Fokus auf ein Fenster",
-          "pt": "Ativar Modo Não Perturbe e Fixar Janela Única",
-          "id": "Aktifkan Jangan Ganggu dan Tetapkan Satu Jendela Kerja"
+          "ko": "메신저 방해금지 및 단일 창 고정"
         },
         "text": {
-          "ko": "모든 메신저와 알림 앱을 '방해금지'로 설정합니다. 웹 브라우저 창은 오직 현재 작업 중인 단 하나의 창만 띄우고 전체 화면으로 고정한 뒤, 2시간 동안 얕은 업무에 탈주하지 않고 유지합니다.",
-          "en": "Set all messengers and notification apps to 'Do Not Disturb.' Display only the single window currently in work on the web browser, fix it in full screen, and maintain it without escaping to shallow work for 2 hours.",
-          "ja": "すべてのメッセンジャーと通知アプリを「取り込み中（通知オフ）」に設定します。ウェブブラウザのウィンドウは現在作業中の1つだけを開いて全画面表示で固定し、2時間の間、浅い仕事へエスケープせずに維持します。",
-          "zh": "将所有社交软件和通知应用设置为“免打扰”。网页浏览器中仅保留当前正在进行的工作窗口，并设置为全屏显示，在2小时内不脱离出来去处理浅度工作。",
-          "es": "Active el modo 'no molestar' en sus apps de chat. Abra solo la ventana del navegador necesaria para la tarea, póngala en pantalla completa y evite desviar la atención durante las 2 horas.",
-          "fr": "Activez le mode 'ne pas déranger' sur vos messageries. N'ouvrez que l'onglet nécessaire à votre tâche, passez en plein écran et évitez toute autre distraction pendant les 2h.",
-          "de": "Schalten Sie alle Chats und Mitteilungen stumm. Öffnen Sie im Browser nur das Fenster, das Sie für die Arbeit brauchen, nutzen Sie den Vollbildmodus und arbeiten Sie zwei Stunden durch.",
-          "pt": "Ative o modo 'não perturbe' nos seus chats. Mantenha aberta apenas a aba necessária para a tarefa em tela cheia e evite dispersar a atenção durante as 2 horas.",
-          "id": "Atur semua pesan dan aplikasi notifikasi ke 'Jangan Ganggu.' Tampilkan hanya satu jendela kerja di browser web, tetapkan dalam layar penuh, dan pertahankan selama 2 jam."
+          "ko": "모든 메신저와 알림 앱을 '방해금지'로 설정합니다. 웹 브라우저 창은 오직 현재 작업 중인 단 하나의 창만 띄우고 전체 화면으로 고정한 뒤, 2시간 동안 얕은 업무에 탈주하지 않고 유지합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "토마스 만은 정말 1시가 되면 글쓰기를 완전히 멈추었나요?",
-          "en": "Did Thomas Mann really stop writing completely at 1 PM?",
-          "ja": "トーマス・マンは本当に1時になると執筆を完全にやめたのですか？",
-          "zh": "托马斯·曼真的会在1点钟完全停止写作吗？",
-          "es": "¿Realmente dejaba de escribir Thomas Mann a la 1:00 en punto?",
-          "fr": "Thomas Mann s'arrêtait-il vraiment d'écrire à 13h pile ?",
-          "de": "Hörte Thomas Mann um 13 Uhr wirklich komplett auf zu schreiben?",
-          "pt": "Thomas Mann realmente parava de escrever às 13h em ponto?",
-          "id": "Apakah Thomas Mann benar-benar berhenti menulis sepenuhnya pada jam 1 siang?"
+          "ko": "토마스 만은 정말 1시가 되면 글쓰기를 완전히 멈추었나요?"
         },
         "answer": {
-          "ko": "네, 그는 오전에 뇌를 100% 쏟았기 때문에 1시 이후에는 인지 능력이 소진됨을 인지했습니다. 1시 이후의 글쓰기는 품질이 저하된다고 생각하여, 오후에는 독서, 산책, 편집 등 상대적으로 뇌 에너지가 적게 드는 가벼운 업무만 처리했습니다.",
-          "en": "Yes, because he poured 100% of his brain energy in the morning, he recognized that his cognitive ability was exhausted after 1 PM. Believing that writing after 1 PM degraded quality, he only handled light work that required relatively less brain energy, such as reading, walking, and editing in the afternoon.",
-          "ja": "はい、彼は午前中に脳エネルギーを100％注ぎ込んだため、1時以降は認知能力が消耗することを自覚していました。1時以降の執筆は品質が低下すると考え、午後には読書、散歩、編集など、比較的脳のエネルギーを消費しない軽い作業のみを行いました。",
-          "zh": "是的，因为他在上午倾注了100%的大脑精力，他深知1点之后自己的认知能力已耗尽。他认为1点之后的写作产出会降低质量，因此下午仅处理阅读、散步、修改等相对不太消耗脑力的轻度事务。",
-          "es": "Sí, al haber exprimido su mente al máximo por la mañana, sabía que su rendimiento decaía tras la 1:00. Pensaba que escribir por la tarde bajaba la calidad, por lo que reservaba esas horas para pasear, leer o editar.",
-          "fr": "Oui, sachant qu'il avait sollicité son cerveau à 100 % le matin, il savait que son efficacité déclinait après 13h. Pensant qu'écrire l'après-midi réduisait la qualité, il réservait ces heures à la marche, la lecture ou la relecture.",
-          "de": "Ja, da er morgens mit voller Energie arbeitete, wusste er, dass seine Konzentration nach 13 Uhr nachließ. Er glaubte, dass späteres Schreiben die Qualität mindere, und widmete den Nachmittag dem Gehen, Lesen oder Redigieren.",
-          "pt": "Sim, tendo esgotado a mente pela manhã, ele sabia que o rendimento caía após as 13h. Acreditava que escrever à tarde prejudicava a qualidade, reservando o período para ler, caminhar ou editar.",
-          "id": "Ya, karena dia mencurahkan 100% energi otaknya di pagi hari, dia menyadari bahwa kemampuan kognitifnya habis setelah jam 1 siang. Dia hanya menangani pekerjaan ringan seperti membaca dan jalan-jalan di sore hari."
+          "ko": "네, 그는 오전에 뇌를 100% 쏟았기 때문에 1시 이후에는 인지 능력이 소진됨을 인지했습니다. 1시 이후의 글쓰기는 품질이 저하된다고 생각하여, 오후에는 독서, 산책, 편집 등 상대적으로 뇌 에너지가 적게 드는 가벼운 업무만 처리했습니다."
         }
       },
       {
         "question": {
-          "ko": "오전 시간이 아닌 밤 시간대에 딥 워크를 수행해도 되나요?",
-          "en": "Can I perform Deep Work during night hours instead of morning hours?",
-          "ja": "午前中ではなく夜の時間帯にディープワークを行ってもいいですか？",
-          "zh": "可以在夜间而非上午进行深度工作吗？",
-          "es": "¿Se puede hacer trabajo profundo por la noche en lugar de por la mañana?",
-          "fr": "Peut-on faire du travail profond le soir plutôt que le matin ?",
-          "de": "Kann ich die Fokusphase auch in die Abendstunden legen?",
-          "pt": "Posso fazer o trabalho profundo à noite em vez de pela manhã?",
-          "id": "Bisakah saya melakukan Kerja Mendalam pada malam hari, bukan pagi hari?"
+          "ko": "오전 시간이 아닌 밤 시간대에 딥 워크를 수행해도 되나요?"
         },
         "answer": {
-          "ko": "개인의 생체 시계(올빼미형)에 따라 밤 시간대가 최고 효율인 사람도 있습니다. 핵심 원리는 시간의 절대적인 시간대가 아니라, 외부 자극이 차단되고 뇌 에너지가 가장 충만한 연속된 2시간 이상을 확보해 돌입하는 것에 있습니다.",
-          "en": "Depending on an individual's biological clock (night owl type), some people have peak efficiency during night hours. The core principle is not the absolute time of day, but securing and entering a continuous period of 2 hours or more when external stimuli are blocked and brain energy is fullest.",
-          "ja": "個人の体内時計（夜型）によっては、夜の時間帯に最高効率を発揮する人もいます。核心的な原理は、絶対的な時間帯ではなく、外部の刺激が遮断され、脳のエネルギーが最も充満した連続する2時間以上を確保して没頭することにあります。",
-          "zh": "根据个人的生物钟（如夜猫子型），有些人在夜间的效率最高。核心原则不在于绝对的早晚时段，而是在于确保一段不受外界干扰、大脑精力最充沛的连续2小时以上的时间并投入其中。",
-          "es": "Sí, depende del reloj biológico de cada uno (perfiles nocturnos). La clave no es la hora exacta, sino conseguir un bloque de al menos 2 horas seguidas libre de interrupciones con la mente fresca.",
-          "fr": "Oui, selon votre chronotype (couche-tard). La clé n'est pas l'heure exacte, mais le fait de réserver un bloc d'au moins 2h consécutives libre d'interruptions avec un esprit dispos.",
-          "de": "Ja, je nach biologischer Uhr (Nachteule). Wichtig ist nicht die Uhrzeit, sondern eine ungestörte Phase von mindestens zwei Stunden mit frischem Kopf.",
-          "pt": "Sim, depende do relógio biológico de cada um (perfil noturno). A chave não é a hora em si, mas conseguir um bloco de pelo menos 2 horas seguidas livre de interrupções com a mente descansada.",
-          "id": "Tergantung pada jam biologis individu (tipe burung hantu malam), beberapa orang memiliki efisiensi puncak pada malam hari. Prinsip utamanya adalah mengamankan waktu terus menerus selama 2 jam atau lebih saat rangsangan luar diblokir."
+          "ko": "개인의 생체 시계(올빼미형)에 따라 밤 시간대가 최고 효율인 사람도 있습니다. 핵심 원리는 시간의 절대적인 시간대가 아니라, 외부 자극이 차단되고 뇌 에너지가 가장 충만한 연속된 2시간 이상을 확보해 돌입하는 것에 있습니다."
         }
       }
-    ],
-    "stepImages": [
-      "",
-      "",
-      ""
-    ],
-    "pubDate": "2026-01-24",
-    "updatedDate": "2026-01-24"
+    ]
   }
 }

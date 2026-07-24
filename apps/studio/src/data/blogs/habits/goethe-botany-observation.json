@@ -1,194 +1,64 @@
 {
   "goethe-botany-observation": {
     "title": {
-      "ko": "정원을 걸으며 씨앗을 모은 대문호? 괴테의 아침 관찰 습관",
-      "en": "The Great Writer Who Collected Seeds While Walking in the Garden? Goethe's Morning Observation Habit",
-      "ja": "庭を歩きながら種を集めた大文豪？ゲーテの朝の観察習慣",
-      "zh": "在花园里散步并收集种子的文学泰斗？歌德的清晨观察习惯",
-      "es": "¿El gran escritor que recolectaba semillas paseando por el jardín? El hábito de observación matutina de Goethe",
-      "fr": "Le grand écrivain qui récoltait des graines en marchant dans le jardin ? L'habitude d'observation matinale de Goethe",
-      "de": "Der große Dichter, der beim Spaziergang Samen sammelte? Goethes morgendliche Beobachtungsgewohnheit",
-      "pt": "O grande escritor que recolhia sementes passeando pelo jardim? O hábito de observação matinal de Goethe",
-      "id": "Sastrawan Besar yang Mengumpulkan Biji Sambil Berjalan di Taman? Kebiasaan Mengamati Pagi Goethe"
+      "ko": "정원을 걸으며 씨앗을 모은 대문호? 괴테의 아침 관찰 습관"
     },
     "description": {
-      "ko": "매일 아침 돋보기로 식물을 정밀 관찰하며 자연의 영감을 얻은 요한 볼프강 폰 괴테. 자연 노출이 인지 피로를 급격히 낮추는 '주의 회복 이론'의 비밀과 괴테의 아침 관찰 산책법을 제시합니다.",
-      "en": "Johann Wolfgang von Goethe gathered natural inspiration by closely observing plants with a magnifying glass every morning. Discover the secrets of 'Attention Restoration Theory' and how to practice Goethe's morning observation walk.",
-      "ja": "毎朝拡大鏡で植物を精密に観察し、自然のインスピレーションを得たヨハン・ヴォルフガング・フォン・ゲーテ。自然への露出が認知疲労を劇的に下げる「注意回復理論」の秘密とゲーテの朝の観察散歩法を紹介します。",
-      "zh": "每天清晨用放大镜精细观察植物、从而获取自然灵感的约翰·沃尔夫冈·冯·歌德。为您呈献大自然接触能够急剧降低认知疲劳的“注意力恢复理论”之奥秘以及歌德的晨间观察散步法。",
-      "es": "Johann Wolfgang von Goethe obtenía inspiración observando plantas con lupa cada mañana. Descubra los secretos de la 'Teoría de la Restauración de la Atención' y cómo practicar la caminata de observación matutina de Goethe.",
-      "fr": "Johann Wolfgang von Goethe puisait son inspiration en observant les plantes à la loupe chaque matin. Découvrez la « Théorie de la restauration de l'attention » et comment pratiquer cette marche d'observation matinale.",
-      "de": "Johann Wolfgang von Goethe sammelte Inspiration, indem er jeden Morgen Pflanzen mit einer Lupe beobachtete. Erfahren Sie mehr über die 'Attention Restoration Theory' und wie Sie Goethes Beobachtungsspaziergang praktizieren.",
-      "pt": "Johann Wolfgang von Goethe obtinha inspiração observando plantas com lupa todas as manhãs. Descubra os segredos da 'Teoria da Restauração da Atenção' e como praticar a caminhada de observação matinal de Goethe.",
-      "id": "Johann Wolfgang von Goethe mengumpulkan inspirasi alam dengan mengamati tanaman secara dekat dengan kaca pembesar setiap pagi. Pelajari rahasia 'Teori Pemulihan Perhatian'."
+      "ko": "매일 아침 돋보기로 식물을 정밀 관찰하며 자연의 영감을 얻은 요한 볼프강 폰 괴테. 자연 노출이 인지 피로를 급격히 낮추는 '주의 회복 이론'의 비밀과 괴테의 아침 관찰 산책법을 제시합니다."
     },
     "authority": {
-      "ko": "괴테 저 '식물 변형론' 및 환경심리학의 주의 회복 이론(Kaplan, 1995)",
-      "en": "Goethe's 'Metamorphosis of Plants' & Environmental Psychology's Attention Restoration Theory (Kaplan, 1995)",
-      "ja": "ゲーテ 著『植物変態論』＆ 環境心理学の注意回復理論(Kaplan, 1995)",
-      "zh": "歌德著《植物变形记》及环境心理学的注意力恢复理论(Kaplan, 1995)",
-      "es": "Obra de Goethe 'La metamorfosis de las plantas' y Teoría de la restauración de la atención (Kaplan, 1995)",
-      "fr": "L'ouvrage de Goethe 'La métamorphose des plantes' et la théorie de la restauration de l'attention (Kaplan, 1995)",
-      "de": "Goethes 'Die Metamorphose der Pflanzen' & Attention Restoration Theory der Umweltpsychologie (Kaplan, 1995)",
-      "pt": "Obra de Goethe 'A metamorfose das plantas' e Teoria da restauração da atenção (Kaplan, 1995)",
-      "id": "Buku Goethe 'Metamorphosis of Plants' & Teori Pemulihan Perhatian Psikologi Lingkungan (Kaplan, 1995)"
+      "ko": "괴테 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "독일 문학의 정점이자 세계 문학사의 위대한 대작 《파우스트》와 소설 《젊은 베르테르의 슬픔》을 탄생시킨 요한 볼프강 폰 괴테. 그는 문학가일 뿐만 아니라 식물학, 색채학, 해부학을 깊이 탐구하며 식물 관찰 논문 《식물 변형론》까지 저술한 만능 지식인이었습니다. 과학과 문학의 경계를 넘나들던 그의 창조적인 아이디어 배후에는 매일 아침 집무를 시작하기 전 실천했던 놀라운 아침 의식이 있었습니다. 🌱\\n\\n그것은 바로 정원을 산책하며 야생 식물을 정교하게 들여다보고 씨앗을 채집하는 '정원 관찰 산책 습관'이었습니다. 그는 매일 아침 바이마르의 자택 정원과 숲길을 느린 걸음으로 걸었습니다. 괴테는 단순한 산책에 그치지 않고 채집용 봉투와 돋보기를 늘 챙겨 다녔습니다. 돋보기를 들고 꽃잎의 무늬, 이파리의 성장선, 씨앗의 나선 패턴 등을 마치 현미경을 보듯 극도로 정밀하게 관찰했고 맘에 드는 씨앗은 소중하게 봉투에 모았습니다. 괴테에게 이 시간은 집무의 압박에서 벗어나 자연의 디자인 법칙을 시각화하고, 뇌의 피로를 씻어내어 맑은 사유를 기동하는 인지 충전소였습니다.\\n\\n오늘 BuildSelf에서는 괴테의 아침 관찰 산책 속에 깃든 환경심리학적 원리와 인지적 주의력을 회복하고 하루의 통찰력을 높이는 현대적 15분 아침 관찰법을 공유합니다.\\n\\n\\n\\n\\n---",
-      "en": "Johann Wolfgang von Goethe, who created the great masterpiece 'Faust' and the novel 'The Sorrows of Young Werther'. He was not only a writer but also a polymath who deeply explored botany, color theory, and anatomy, writing the botanical paper 'The Metamorphosis of Plants.' Behind his creative ideas crossing science and literature was an amazing morning ritual he practiced every morning. It was the 'garden observation walk habit' of walking in the garden, looking closely at wild plants, and collecting seeds. Every morning, he walked slowly in his Weimar garden. He always carried collection envelopes and a magnifying glass. He observed petal patterns, leaf growth lines, and spiral seed patterns under a magnifying glass, collecting seeds in envelopes. For Goethe, this time was a cognitive recharging station that freed him from the pressure of desk work, visualized the design laws of nature, and washed away brain fatigue. Today, BuildSelf shares the environmental psychology principles behind Goethe's morning observation walk and a modern 15-minute morning observation method to restore cognitive attention and increase daily insights.",
-      "ja": "この歴史的習慣の実践において： 《》 《 》 . , , 《 》 . . 🌱\\n\\n ' '. . . , , . , .\\n\\n BuildSelf 15 .\\n\\n\\n\\n\\n---",
-      "zh": "在这一历史性惯例的实践中： 《》 《 》 . , , 《 》 . . 🌱\\n\\n ' '. . . , , . , .\\n\\n BuildSelf 15 .\\n\\n\\n\\n\\n---",
-      "es": "En la práctica de esta rutina transformadora:        《》  《  》     .     , ,       《 》   .                  . 🌱\\n\\n          '   '.          .           .    ,  ,                .          ,        .\\n\\n BuildSelf                15   .\\n\\n\\n\\n\\n---\n\nAl practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.\n\nAl practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora:        《》  《  》     .     , ,       《 》   .                  . 🌱\\n\\n          '   '.          .           .    ,  ,                .          ,        .\\n\\n BuildSelf                15   .\\n\\n\\n\\n\\n---\n\nAo praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.\n\nAo praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "독일 문학의 정점이자 세계 문학사의 위대한 대작 《파우스트》와 소설 《젊은 베르테르의 슬픔》을 탄생시킨 요한 볼프강 폰 괴테. 그는 문학가일 뿐만 아니라 식물학, 색채학, 해부학을 깊이 탐구하며 식물 관찰 논문 《식물 변형론》까지 저술한 만능 지식인이었습니다. 과학과 문학의 경계를 넘나들던 그의 창조적인 아이디어 배후에는 매일 아침 집무를 시작하기 전 실천했던 놀라운 아침 의식이 있었습니다. 🌱\n\n그것은 바로 정원을 산책하며 야생 식물을 정교하게 들여다보고 씨앗을 채집하는 '정원 관찰 산책 습관'이었습니다. 그는 매일 아침 바이마르의 자택 정원과 숲길을 느린 걸음으로 걸었습니다. 괴테는 단순한 산책에 그치지 않고 채집용 봉투와 돋보기를 늘 챙겨 다녔습니다. 돋보기를 들고 꽃잎의 무늬, 이파리의 성장선, 씨앗의 나선 패턴 등을 마치 현미경을 보듯 극도로 정밀하게 관찰했고 맘에 드는 씨앗은 소중하게 봉투에 모았습니다. 괴테에게 이 시간은 집무의 압박에서 벗어나 자연의 디자인 법칙을 시각화하고, 뇌의 피로를 씻어내어 맑은 사유를 기동하는 인지 충전소였습니다.\n\n오늘 포스트에서는 괴테의 아침 관찰 산책 속에 깃든 환경심리학적 원리와 인지적 주의력을 회복하고 하루의 통찰력을 높이는 현대적 15분 아침 관찰법을 공유합니다."
     },
     "whyTitle": {
-      "ko": "자연 노출과 '주의 회복 이론(ART)'",
-      "en": "Nature Exposure and 'Attention Restoration Theory' (ART)",
-      "ja": "自然への露出と「注意回復理論（ART）」",
-      "zh": "大自然接触与“注意力恢复理论（ART）”",
-      "es": "Exposición a la naturaleza y 'Teoría de la Restauración de la Atención' (ART)",
-      "fr": "Exposition à la nature et « Théorie de la restauration de l'attention » (ART)",
-      "de": "Naturkontakt und 'Attention Restoration Theory' (ART)",
-      "pt": "Exposição à natureza e 'Teoria da Restauração da Atenção' (ART)",
-      "id": "Paparan Alam dan 'Teori Pemulihan Perhatian' (ART)"
+      "ko": "자연 노출과 '주의 회복 이론(ART)'"
     },
     "whyDesc": {
-      "ko": "컴퓨터 화면의 데이터 분석, 조밀한 글자 쓰기, 복잡한 업무 기획 등은 뇌 전두엽의 계획 영역이 끊임없이 인지적 에너지를 소모하는 '의도적 주의 집중(Directed Attention)' 상태를 유발합니다. 이 상태가 지속되면 뇌는 집중 피로(Directed Attention Fatigue)를 겪으며 주의력과 창의력이 급감합니다. \\n\\n환경심리학자인 스티븐 카플란이 제안한 '주의 회복 이론(Attention Restoration Theory)'에 따르면, 식물의 프랙탈 구조, 흩날리는 잎사귀, 씨앗 무늬와 같이 인위적인 노력이 필요 없는 자연물의 비의도적 주의집중 대상을 관찰할 때 뇌의 의도적 주의 회복 스위치가 켜집니다. 아침에 정원을 정밀하게 관찰하며 15분간 느리게 산책하는 리추얼은 뇌에 강력한 주의 회복(Restorative) 환경을 제공하여 스트레스 호르몬인 코르티솔 수치를 즉각 떨어뜨리고, 전두엽의 인지 피로를 완전히 해소하여 하루의 직관과 통찰의 깊이를 늘려 줍니다.",
-      "en": "Data analysis, typing dense letters, and complex planning cause 'Directed Attention' that drains the prefrontal cortex. If continued, the brain suffers Directed Attention Fatigue, dropping focus. According to Stephen Kaplan's Attention Restoration Theory (ART), observing natural objects that require no effort—like fractal structures of plants, fluttering leaves, or seed patterns—activates the attention restoration switch. A morning ritual of walk-and-observe for 15 minutes provides a powerful restorative environment, lowering cortisol levels, clearing prefrontal cognitive fatigue, and deepening daily insights.",
-      "ja": "データ分析や複雑な業務企画などは、脳の前頭葉が絶えずエネルギーを消耗する「意図的な注意集中」状態を引き起こします。これが持続すると、脳は集中疲労（Directed Attention Fatigue）を経験し、注意力が急減します。環境心理学者スティーブン・カプランが提案した「注意回復理論（Attention Restoration Theory）」によると、植物のフラクタル構造、風に揺れる葉、種のパターンなど、意図的な努力を必要としない自然物を観察する時、脳の注意回復スイッチがオンになります。朝15分間の観察散歩は、脳に強力な回復環境を提供し、ストレスを軽減させ、注意力を高めます。",
-      "zh": "分析屏幕数据、撰写紧凑文字、策划复杂业务等，会导致前额叶计划区域持续消耗认知能量的“有意注意力集中（Directed Attention）”状态。该状态如果持续，大脑就会经历注意力疲劳（Directed Attention Fatigue），导致专注力和创造力急剧下降。根据环境心理学家史蒂芬·卡普兰提出的“注意力恢复理论（Attention Restoration Theory）”，在观察植物的分形结构、随风摇曳的叶片、种子纹理等不需要人为付出努力的自然事物的无意注意力集中对象时，大脑的有意注意力恢复开关就会被开启。早晨精准观察植物并漫步15分钟的仪式，为大脑提供了强力的注意力恢复（Restorative）环境，能即刻拉低压力激素皮质醇的数值，完全消除前额叶的认知疲劳，增加一天中直觉与洞察的深度。",
-      "es": "El trabajo complejo causa 'Atención Dirigida' que agota la corteza prefrontal y disminuye el enfoque. Según la Teoría de la Restauración de la Atención (ART), observar objetos naturales que no requieren esfuerzo—como las estructuras fractales de las plantas o el viento en las hojas—activa el interruptor de restauración de la atención. Caminar por 15 minutos en el jardín reduce el cortisol y despeja la fatiga mental.",
-      "fr": "Les tâches complexes causent une « Attention Dirigée » qui épuise le cortex préfrontal. Selon la Théorie de la restauration de l'attention (ART), observer des éléments de la nature n'exigeant aucun effort (structures fractales, vent dans les feuilles) active le bouton de restauration. Se promener pendant 15 minutes dans un jardin abaisse le taux de cortisol et dissipe la fatigue intellectuelle.",
-      "de": "Komplexes Arbeiten erfordert 'gerichtete Aufmerksamkeit', was den präfrontalen Cortex ermüdet. Nach der Attention Restoration Theory (ART) aktiviert das Betrachten von Naturgegenständen, die keine Anstrengung erfordern, die Erholung der Aufmerksamkeit. Ein 15-minütiger Spaziergang senkt das Stresshormon Cortisol und baut kognitive Müdigkeit ab.",
-      "pt": "O trabalho complexo causa 'Atenção Dirigida' que esgota o córtex pré-frontal e diminui o foco. Segundo a Teoria da Restauração da Atenção (ART), observar objetos naturais que não exigem esforço—como as estruturas fractais das plantas ou o vento nas folhas—ativa o interruptor de restauração da atenção. Caminhar por 15 minutos no jardim reduz o cortisol e limpa a fadiga mental.",
-      "id": "Pekerjaan rumit menyebabkan 'Perhatian Terarah' yang menguras korteks prefrontal. Menurut Teori Pemulihan Perhatian (ART), mengamati objek alam yang tidak memerlukan usaha—seperti struktur fraktal tanaman—mengaktifkan sakelar pemulihan perhatian. Berjalan di taman selama 15 menit menurunkan kadar kortisol & menghilangkan kelelahan mental."
+      "ko": "컴퓨터 화면의 데이터 분석, 조밀한 글자 쓰기, 복잡한 업무 기획 등은 뇌 전두엽의 계획 영역이 끊임없이 인지적 에너지를 소모하는 '의도적 주의 집중(Directed Attention)' 상태를 유발합니다. 이 상태가 지속되면 뇌는 집중 피로(Directed Attention Fatigue)를 겪으며 주의력과 창의력이 급감합니다. \\n\\n환경심리학자인 스티븐 카플란이 제안한 '주의 회복 이론(Attention Restoration Theory)'에 따르면, 식물의 프랙탈 구조, 흩날리는 잎사귀, 씨앗 무늬와 같이 인위적인 노력이 필요 없는 자연물의 비의도적 주의집중 대상을 관찰할 때 뇌의 의도적 주의 회복 스위치가 켜집니다. 아침에 정원을 정밀하게 관찰하며 15분간 느리게 산책하는 리추얼은 뇌에 강력한 주의 회복(Restorative) 환경을 제공하여 스트레스 호르몬인 코르티솔 수치를 즉각 떨어뜨리고, 전두엽의 인지 피로를 완전히 해소하여 하루의 직관과 통찰의 깊이를 늘려 줍니다."
+    },
+    "cautionTitle": {
+      "ko": "성공적인 루틴을 위한 뇌과학적 한마디"
+    },
+    "cautionDesc": {
+      "ko": "<strong>뇌는 가끔 인위적 자극이 없는 대상을 보며 쉬어야 합니다</strong>\\n\\n모니터 속 문자나 인포그래픽은 뇌에 주의집중을 강요하는 대상들입니다. 주의력이 한계에 다다르면 업무 효율은 바닥을 치게 됩니다. 괴테가 돋보기로 정원 식물을 세밀하게 들여다보며 《식물 변형론》과 《파우스트》의 영감을 정제했던 것처럼, 아침에 15분만 뇌를 자연에 노출시키고 돋보기로 식물을 보듯 정밀 관찰해 보세요. 뇌의 연합 영역이 차분하게 회복되면서 하루 종일 흔들리지 않는 최상의 주의 집중력을 발휘하게 될 것입니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Find a natural green space nearby",
-          "ja": "近くの自然の緑地空間を見つける",
-          "zh": "寻找附近的自然绿地空间",
-          "es": "Buscar un espacio verde natural cercano",
-          "fr": "Trouver un espace vert naturel à proximité",
-          "de": "Einen grünen Ort in der Nähe finden",
-          "pt": "Procurar um espaço verde natural próximo",
-          "id": "Cari ruang hijau alami terdekat",
           "ko": "Find a natural green space nearby"
         },
         "text": {
-          "en": "Look for a place where plants grow, such as a garden, a quiet park, or a nearby green pathway. Leave digital devices behind to focus completely on nature.",
-          "ja": "アパートの植栽、近くの小さな公園、書斎のベランダ花壇など、自然の植物が生い茂る空間を選定します。デジタル機器はオフィスに置いて、身軽にして出かけます。",
-          "zh": "选择公寓绿化带、附近的小公园, 或是书房阳台花坛等生长着自然植物的空间。将数字化设备留在办公室，空着手出门。",
-          "es": "Busca un lugar con plantas, como un jardín, un parque tranquilo o un sendero verde. Deja atrás los dispositivos digitales para concentrarte en la naturaleza.",
-          "fr": "Trouvez un endroit avec des plantes (jardin, parc calme, sentier vert). Laissez les appareils numériques de côté pour vous concentrer sur la nature.",
-          "de": "Suchen Sie einen Ort mit Pflanzen, z. B. einen Garten oder Park. Lassen Sie elektronische Geräte zurück, um sich auf die Natur zu konzentrieren.",
-          "pt": "Procure um local com plantas, como um jardim, um parque tranquilo ou um trilho verde. Deixe os dispositivos digitais para se concentrar na natureza.",
-          "id": "Cari tempat di mana tanaman tumbuh, seperti taman, taman yang tenang, atau jalur hijau terdekat. Tinggalkan perangkat digital Anda.",
           "ko": "Look for a place where plants grow, such as a garden, a quiet park, or a nearby green pathway. Leave digital devices behind to focus completely on nature."
         }
       },
       {
         "name": {
-          "en": "Observe plant patterns closely for 10 seconds",
-          "ja": "植物の微細なパターンを10秒間精密に凝視する",
-          "zh": "精密凝视植物的微细结构10秒钟",
-          "es": "Observar de cerca los patrones de las plantas por 10 segundos",
-          "fr": "Observer de près les détails des plantes pendant 10 secondes",
-          "de": "Pflanzenstrukturen 10 Sekunden lang genau betrachten",
-          "pt": "Observar de perto os padrões das plantas por 10 segundos",
-          "id": "Amati pola tanaman secara dekat selama 10 detik",
           "ko": "Observe plant patterns closely for 10 seconds"
         },
         "text": {
-          "en": "Stand in front of a leaf or a flower. Focus on its veins, texture, and color transitions for 10 seconds, letting your visual cortex process the natural fractals.",
-          "ja": "道端に咲く野花や花壇の葉の前で立ち止まります。葉のしわ、葉脈の分岐、花びらのグラデーションなどを、拡大鏡で見るように10秒間すべての意識を集中して凝視します。",
-          "zh": "在路边的野花或花坛的树叶前停下脚步。将全部意识集中在叶片的皱褶、叶脉的分支、花瓣的色彩渐变等细节上，凝视10秒钟，仿佛在使用放大镜一样。",
-          "es": "Párate frente a una hoja o flor. Concéntrate en sus venas, textura y color durante 10 segundos, permitiendo que la corteza visual procese los fractales naturales.",
-          "fr": "Arrêtez-vous devant une feuille ou une fleur. Concentrez-vous sur les nervures, la texture et la couleur pendant 10 secondes, permettant au cortex visuel d'intégrer les fractals naturels.",
-          "de": "Stellen Sie sich vor ein Blatt oder eine Blüte. Konzentrieren Sie sich 10 Sekunden lang auf die Adern und Farben, um die natürlichen Strukturen aufzunehmen.",
-          "pt": "Pare diante de uma folha ou flor. Concentre-se nas suas nervuras, textura e cor durante 10 segundos, permitindo que o córtex visual processe os fractais naturais.",
-          "id": "Berdirilah di depan daun atau bunga. Fokus pada urat-uratnya, tekstur, & transisi warna selama 10 detik.",
           "ko": "Stand in front of a leaf or a flower. Focus on its veins, texture, and color transitions for 10 seconds, letting your visual cortex process the natural fractals."
         }
       },
       {
         "name": {
-          "en": "Walk slowly and restore attention for 5 minutes",
-          "ja": "ゆっくり歩きながら注意力を5分間回復させる",
-          "zh": "缓慢步行5分钟以恢复注意力",
-          "es": "Caminar lentamente y restaurar la atención por 5 minutos",
-          "fr": "Marcher lentement et restaurer l'attention pendant 5 minutes",
-          "de": "5 Minuten lang langsam gehen und die Aufmerksamkeit regenerieren",
-          "pt": "Caminhar lentamente e restaurar a atenção por 5 minutos",
-          "id": "Berjalan perlahan dan pulihkan perhatian selama 5 menit",
           "ko": "Walk slowly and restore attention for 5 minutes"
         },
         "text": {
-          "en": "Walk slowly for another 5 minutes. Let your eyes capture the trees and the sky naturally. The attention switch will be restored, and you will return to work with a cleared prefrontal cortex.",
-          "ja": "観察を終えた後、再び5分間ゆっくりとしたテンポで歩きます。目の前に映る自然 of 姿を負担なく快適に脳に満たします。整えられた脳の状態で業務に戻ります。",
-          "zh": "观察结束后，再次以缓慢的节奏行走5分钟。将眼前映出的自然景象轻松舒适地填满大脑。带着整顿好的大脑状态返回工作。",
-          "es": "Camina lentamente durante otros 5 minutos. Deja que tus ojos capturen los árboles y el cielo. El interruptor de atención se restaurará y volverás al trabajo con la mente despejada.",
-          "fr": "Marchez lentement pendant 5 minutes supplémentaires. Laissez vos yeux capter les arbres et le ciel naturellement. L'attention sera restaurée et vous reprendrez le travail l'esprit clair.",
-          "de": "Gehen Sie weitere 5 Minuten langsam. Lassen Sie Ihren Blick auf Bäumen und Himmel ruhen. Die gerichtete Aufmerksamkeit erholt sich, und Sie kehren mit klarem Kopf zur Arbeit zurück.",
-          "pt": "Caminhe lentamente durante mais 5 minutos. Deixe os seus olhos captarem as árvores e o céu naturalmente. O interruptor de atenção será restaurado e voltará ao trabalho com a mente limpa.",
-          "id": "Berjalanlah perlahan selama 5 menit lagi. Biarkan mata Anda menangkap pepohonan & langit secara alami. Sakelar perhatian Anda akan pulih.",
           "ko": "Walk slowly for another 5 minutes. Let your eyes capture the trees and the sky naturally. The attention switch will be restored, and you will return to work with a cleared prefrontal cortex."
         }
       }
     ],
-    "cautionTitle": {
-      "ko": "성공적인 루틴을 위한 脳科学的 한마디",
-      "en": "A brain-scientific word for a successful routine",
-      "ja": "効果的なルーティンのための脳科学的な一言",
-      "zh": "成功惯例的脑科学建议",
-      "es": "Un consejo neurocientífico para una rutina exitosa",
-      "fr": "Un conseil neuroscientifique pour une routine réussie",
-      "de": "Ein gehirnwissenschaftlicher Ratschlag für eine erfolgreiche Routine",
-      "pt": "Um conselho neurocientífico para uma rotina de sucesso",
-      "id": "Saran ilmiah saraf untuk rutinitas yang sukses"
-    },
-    "cautionDesc": {
-      "ko": "<strong>뇌는 가끔 인위적 자극이 없는 대상을 보며 쉬어야 합니다</strong>\\n\\n모니터 속 문자나 인포그래픽은 뇌에 주의집중을 강요하는 대상들입니다. 주의력이 한계에 다다르면 업무 효율은 바닥을 치게 됩니다. 괴테가 돋보기로 정원 식물을 세밀하게 들여다보며 《식물 변형론》과 《파우스트》의 영감을 정제했던 것처럼, 아침에 15분만 뇌를 자연에 노출시키고 돋보기로 식물을 보듯 정밀 관찰해 보세요. 뇌의 연합 영역이 차분하게 회복되면서 하루 종일 흔들리지 않는 최상의 주의 집중력을 발휘하게 될 것입니다.",
-      "en": "Text and infographics on monitors force attention, leading to brain exhaustion. When focus drops, productivity plummets. Just as Goethe refined inspiration for 'Faust' and 'Metamorphosis of Plants' by closely observing garden plants under a magnifying glass, expose your brain to nature for 15 minutes in the morning. Your brain's association areas will calm down, maintaining steady focus all day.",
-      "ja": "モニターの中の文字やグラフィックは、脳に注意集中を強要するものです. 注意力が限界に達すると、業務効率は低下します。ゲーテが拡大鏡で庭の植物を細かく観察し、インスピレーションを精製したように, 朝に15分だけ脳を自然にさらし、植物を精密に観察してみてください. 脳の連合野が穏やかに回復し、一日中ブレない集中力を発揮できるでしょう.",
-      "zh": "屏幕上的字符或信息图表都是强迫大脑集中注意力的对象。当注意力达到极限时，工作效率就会跌入谷底。正如歌德用放大镜精细观察花园植物、从而提炼出《植物变形记》与《浮士德》的灵感一样，清晨让大脑接触自然15分钟，并像用放大镜观察植物那样进行精细观察吧。大脑联络区域会沉静地得到恢复，从而在一天中发挥出稳固的顶级注意力。",
-      "es": "El texto en las pantallas fuerza la atención, causando fatiga. Cuando el enfoque cae, la productividad disminuye. Al igual que Goethe refinaba su inspiración observando las plantas del jardín, expón tu cerebro a la naturaleza por 15 minutos en la mañana. Tu mente se recuperará, manteniendo un enfoque constante todo el día.",
-      "fr": "Les écrans forcent l'attention, causant la fatigue cérébrale. Lorsque la concentration chute, la productivité s'effondre. Tout comme Goethe affinait son inspiration pour « Faust » en observant les plantes, exposez votre cerveau à la nature pendant 15 minutes le matin. Votre esprit se régénérera pour maintenir une attention stable.",
-      "de": "Bildschirme zwingen zur Aufmerksamkeit und führen zur Erschöpfung. Wenn der Fokus nachlässt, sinkt die Produktivität. So wie Goethe Inspirationen sammelte, indem er Pflanzen genau betrachtete, sollten Sie Ihr Gehirn morgens 15 Minuten lang der Natur aussetzen. Die Assoziationsareale erholen sich, was die Konzentration für den Tag sichert.",
-      "pt": "O texto nos ecrãs força a atenção, causando fadiga. Quando o foco cai, a produtividade diminui. Ao mesmo tempo que Goethe refinava a sua inspiração ao observar as plantas do jardim, exponha o seu cérebro à natureza por 15 minutos de manhã. A sua mente recuperar-se-á, mantendo um foco constante todo o dia.",
-      "id": "Teks & infografis di monitor memaksakan perhatian, menyebabkan kelelahan otak. Ketika fokus turun, produktivitas merosot. Seperti Goethe menyaring inspirasi dengan mengamati tanaman taman dengan kaca pembesar, paparkan otak Anda ke alam selama 15 menit di pagi hari. Area asosiasi otak Anda akan tenang."
-    },
     "faqs": [
       {
         "question": {
-          "ko": "집에 있는 반려식물을 관찰하는 것도 도움이 되나요?",
-          "en": "Does observing companion plants at home help?",
-          "ja": "家にある観葉植物を観察することも役に立ちますか？",
-          "zh": "观察家里的伴侣植物（绿植）也有帮助吗？",
-          "es": "¿Ayuda observar las plantas de interior en casa?",
-          "fr": "L'observation des plantes d'intérieur à la maison aide-t-elle ?",
-          "de": "Hilft das Beobachten von Zimmerpflanzen zu Hause?",
-          "pt": "Ajuda observar as plantas de interior em casa?",
-          "id": "Apakah mengamati tanaman pendamping di rumah membantu?"
+          "ko": "집에 있는 반려식물을 관찰하는 것도 도움이 되나요?"
         },
         "answer": {
-          "ko": "네, 실내 화초나 반려식물을 돋보기 등으로 15초 이상 정밀 관찰하는 것도 비의도적 주의를 자극하여 전두엽 피로를 크게 줄여 줍니다. 다만 햇빛(자연광) 노출과 가벼운 보행이 동반되는 야외 관찰이 종합 인지력 향상에 가장 효과적입니다.",
-          "en": "Yes, closely observing indoor plants or foliage for over 15 seconds also stimulates involuntary attention, reducing prefrontal fatigue. However, outdoor observation accompanied by sunlight and light walking is most effective for cognitive enhancement.",
-          "ja": "はい、室内の観葉植物を拡大鏡などで15秒以上精密に観察することも、非意図的な注意を刺激して前頭葉の疲労を大幅に軽減します。ただし、日光（自然光）への露出と軽い歩行を伴う屋外での観察が、総合的な認知能力の向上に最も効果的です。",
-          "zh": "是的，用放大镜等精细观察室内盆栽或伴侣植物15秒钟以上，也能刺激无意注意力，大幅减轻前额叶疲劳。然而，伴随阳光（自然光）接触和轻微步行的室外观察，对于综合认知能力的提升最为有效。",
-          "es": "Sí, observar de cerca las plantas de interior por más de 15 segundos también estimula la atención involuntaria. Sin embargo, la observación al aire libre con luz solar y caminata ligera es la más efectiva para el rendimiento cognitivo.",
-          "fr": "Oui, observer de près les plantes d'intérieur pendant plus de 15 secondes stimule également l'attention involontaire. Cependant, l'observation en plein air avec lumière naturelle et marche est plus efficace pour le rendement cognitif.",
-          "de": "Ja, das genaue Betrachten von Zimmerpflanzen für mehr als 15 Sekunden regt ebenfalls die ungerichtete Aufmerksamkeit an. Am effektivsten ist jedoch die Beobachtung im Freien, die mit Sonnenlicht und Gehen verbunden ist.",
-          "pt": "Sim, observar de perto as plantas de interior por mais de 15 segundos também estimula a atenção involuntária. No entanto, a observação ao ar livre com luz solar e caminhada ligeira é a mais eficaz para o desempenho cognitivo.",
-          "id": "Ya, mengamati tanaman dalam ruangan atau dedaunan selama lebih dari 15 detik juga merangsang perhatian tidak disengaja, mengurangi kelelahan prefrontal. Namun, pengamatan di luar ruangan disertai sinar matahari & berjalan ringan adalah yang paling efektif."
+          "ko": "네, 실내 화초나 반려식물을 돋보기 등으로 15초 이상 정밀 관찰하는 것도 비의도적 주의를 자극하여 전두엽 피로를 크게 줄여 줍니다. 다만 햇빛(자연광) 노출과 가벼운 보행이 동반되는 야외 관찰이 종합 인지력 향상에 가장 효과적입니다."
         }
       }
-    ],
-    "pubDate": "2026-02-24",
-    "updatedDate": "2026-02-24"
+    ]
   }
 }

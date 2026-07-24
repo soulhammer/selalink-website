@@ -1,190 +1,62 @@
 {
   "steinbeck-editor-letter": {
     "title": {
-      "ko": "시작의 두려움 없애기: 스타인벡의 예열 편지 루틴",
-      "en": "Removing the Fear of Starting: Steinbeck's Warm-up Letter Routine",
-      "ja": "開始の恐怖をなくす：スタインベックの予熱手紙ルーティン",
-      "zh": "消除开始的恐惧：斯坦贝克的预热信件规程",
-      "es": "Eliminar el miedo a comenzar: La rutina de cartas de calentamiento de Steinbeck",
-      "fr": "Vaincre la peur de commencer : La routine de lettres d'échauffement de Steinbeck",
-      "de": "Die Angst vor dem Anfang überwinden: Steinbecks Leseroutine zum Aufwärmen",
-      "pt": "Eliminar o medo de começar: A rotina de cartas de aquecimento de Steinbeck",
-      "id": "Menghilangkan Ketakutan Memulai: Rutinitas Surat Pemanasan Steinbeck"
+      "ko": "시작의 두려움 없애기: 스타인벡의 예열 편지 루틴"
     },
     "description": {
-      "ko": "소설 집필 시작의 막연한 저항감을 해소하기 위해 매일 편집자에게 편지를 썼던 소설가 존 스타인벡. 가벼운 자유 글쓰기가 뇌의 언어 운동 피질을 활성화하고 지연 행동을 극복하게 해주는 원리를 연구합니다.",
-      "en": "Novelist John Steinbeck, who wrote letters to his editor daily to overcome the vague resistance of starting writing. Explore how light free-writing activates the language motor cortex and beats procrastination.",
-      "ja": "小説執筆開始の漠然とした抵抗感を解消するために、毎日編集者に手紙を書いた小説家ジョン・スタインベック。軽い自由な執筆が脳の言語運動皮質を活性化し、先延ばし癖を克服させる原理を探ります。",
-      "zh": "为了消除小说写作伊始的茫然阻力、每天给编辑写信的小说家约翰·斯坦贝克。探讨轻度自由写作如何激活大脑语言运动皮层并克服拖延行为的原理。",
-      "es": "El novelista John Steinbeck escribía cartas a su editor para vencer el bloqueo del escritor. Descubra cómo la escritura libre activa la corteza motora del lenguaje y supera la procrastinación.",
-      "fr": "Le romancier John Steinbeck écrivait à son éditeur pour vaincre la peur de la page blanche. Découvrez comment l'écriture libre active le cortex moteur du langage et bat la procrastination.",
-      "de": "Schriftsteller John Steinbeck schrieb täglich Briefe an seinen Herausgeber, um die Angst vor der leeren Seite zu überwinden. Erfahren Sie, wie freies Schreiben den motorischen Cortex aktiviert und Aufschiebeverhalten stoppt.",
-      "pt": "O romancista John Steinbeck escrevia cartas ao seu editor para vencer o bloqueio do escritor. Descubra como a escrita livre ativa o córtex motor da linguagem e supera a procrastinação.",
-      "id": "Novelis John Steinbeck, yang menulis surat kepada editornya setiap hari untuk mengatasi kebiasaan menunda menulis. Ulas bagaimana menulis bebas mengaktifkan korteks motorik bahasa."
+      "ko": "소설 집필 시작의 막연한 저항감을 해소하기 위해 매일 편집자에게 편지를 썼던 소설가 존 스타인벡. 가벼운 자유 글쓰기가 뇌의 언어 운동 피질을 활성화하고 지연 행동을 극복하게 해주는 원리를 연구합니다."
     },
     "authority": {
-      "ko": "존 스타인벡 서한집 『Journal of a Novel』 역사적 고증 및 인지심리학(Cognitive Psychology) 완벽주의와 지연 행동(Procrastination) 극복 연구",
-      "en": "John Steinbeck's 'Journal of a Novel' and Cognitive Psychology Research on Perfectionism & Procrastination",
-      "ja": "ジョン・スタインベック書簡集『Journal of a Novel』歴史的考証および認知心理学（Cognitive Psychology）完璧主義と先延ばし（Procrastination）克服研究",
-      "zh": "约翰·斯坦贝克书信集《Journal of a Novel》历史考证及《认知心理学》(Cognitive Psychology)关于完美主义与拖延行为(Procrastination)克服的研究",
-      "es": "Autenticación del epistolario de John Steinbeck 'Journal of a Novel' e investigaciones de psicología cognitiva sobre el perfeccionismo y la procrastinación",
-      "fr": "Récit de la correspondance de John Steinbeck 'Journal of a Novel' et recherches de psychologie cognitive sur le perfectionnisme et la procrastination",
-      "de": "Historische Belege aus John Steinbecks Briefwechsel in 'Journal of a Novel' und kognitionspsychologische Forschung zu Perfektionismus und Procrastination",
-      "pt": "Autenticação do epistolário de John Steinbeck 'Journal of a Novel' e pesquisas de psicologia cognitiva sobre o perfeccionismo e a procrastinação",
-      "id": "Kumpulan Surat John Steinbeck 'Journal of a Novel' dan Penelitian Psikologi Kognitif tentang Perfeksionisme & Prokrastinasi"
+      "ko": "John Steinbeck, *Journal of a Novel: The East of Eden Letters* (1969) & *Cognitive Psychology Journal*"
     },
     "intro": {
-      "ko": "분노의 포도, 에덴의 동쪽 등 기념비적인 명작들을 낳은 노벨 문학상 수상 작가 존 스타인벡. 전 세계적으로 추앙받는 거장 소설가였던 그조차도 매일 아침 빈 원고지 앞에 설 때면 심리적 저항감과 시작의 두려움에 짓눌리곤 했습니다. 스타인벡이 이 창작의 공포를 무력화하기 위해 고안한 독특한 워밍업 의식이 있었습니다. 그는 본문 집필에 들어가기 전, 친구이자 편집자인 파스칼 코비치에게 어제 먹은 음식, 기상 상태, 류머티즘 통증 등 아주 시시콜콜한 일상 편지를 먼저 보냈습니다. 脳科学的으로 이 사소한 예열 작업이 완벽주의의 감옥에서 뇌를 구출하는 원리를 파헤칩니다.",
-      "en": "Nobel Prize-winning author of landmark masterpieces like The Grapes of Wrath and East of Eden, John Steinbeck. Even as a world-renowned master, he was weighed down by psychological resistance and the fear of starting whenever he stood before a blank paper every morning. To neutralize this fear, Steinbeck devised a unique warm-up ritual. Before writing the novel, he wrote letters about weather, yesterday's fatigue, or minor rheumatoid pain to his friend and editor Pascal Covici. Explore how this simple warm-up rescues the brain from the trap of perfectionism.",
-      "ja": "『怒りの葡萄』や『エデンの東』など、記念碑的な名作を生み出したノーベル文学賞受賞作家ジョン・スタインベック。世界的に尊敬される巨匠小説家であった彼でさえ、毎朝白い原稿用紙の前に立つと、心理的な抵抗感と開始の恐怖に押しつぶされそうになりました。スタインベックがこの創作の恐怖を無効化するために考案した、独特なウォーミングアップの儀式がありました。彼は本文の執筆に入る前、友人であり編集者でもあったパスカル・コヴィチに、昨日食べた食べ物、目覚めの状態、風邪の痛みなど、ごく些細な日常の手紙を先に送りました。脳科学的に、この些細な予熱作業が完璧主義の監獄から脳を救い出す原理を解明します。",
-      "zh": "在这一历史性惯例的实践中： , . . . , , , . 脳科学的 .",
-      "es": "John Steinbeck, el premio Nobel de Literatura autor de Las uvas de la ira. Incluso siendo un escritor consagrado, sentía el bloqueo de la página en blanco cada mañana. Para superar esta parálisis, ideó un ritual de calentamiento: antes de comenzar la novela, escribía una carta a su amigo y editor Pascal Covici sobre el clima, su fatiga o sus dolencias. Analicemos cómo la escritura informal y sin presiones apaga la alarma de la amígdala.",
-      "fr": "John Steinbeck, prix Nobel de Littérature et auteur des Raisins de la colère. Même au sommet de sa gloire, il redoutait la page blanche chaque matin. Pour vaincre ce blocage, il a conçu un rituel d'échauffement : avant d'entamer son roman, il écrivait une lettre à son éditeur Pascal Covici sur le temps, sa fatigue ou ses rhumatismes. Voyons comment l'écriture informelle désactive l'anxiété de l'amygdale.",
-      "de": "Literaturnobelpreisträger John Steinbeck schuf Meisterwerke wie Früchte des Zorns. Doch selbst ihm graute es morgens vor der leeren Seite. Um diese Schreibblockade zu lösen, entwickelte er eine Routine: Vor dem eigentlichen Schreiben schickte er Briefe an seinen Freund und Lektor Pascal Covici. Darin plauderte er über das Wetter oder seine Gelenkschmerzen. Erfahren Sie, wie dieses Aufwärmen Versagensängste blockiert.",
-      "pt": "John Steinbeck, o prêmio Nobel de Literatura autor de As Vinhas da Ira. Mesmo sendo um escritor consagrado, sentia o bloqueio da página em branco cada manhã. Para superar esta parálise, idealizou um ritual de aquecimento: antes de começar o romance, escrevia uma carta ao seu amigo e editor Pascal Covici sobre o clima, sua fadiga ou suas dores. Analisemos como a escrita informal e sem pressões apaga o alarme da amígdala.",
-      "id": "Penulis peraih Nobel kesusastraan John Steinbeck, pencipta karya legendaris seperti The Grapes of Wrath. Bahkan sebagai maestro dunia, ia kerap kali lumpuh karena ketakutan saat menatap kertas kosong setiap pagi. Untuk mengatasi blokade menulis ini, ia merancang ritual pemanasan: menulis surat santai kepada sahabat sekaligus editornya Pascal Covici tentang cuaca atau rasa lelahnya. Pelajari bagaimana menulis tanpa beban membebaskan otak dari belenggu perfeksionisme."
+      "ko": "\"매일 아침 편지를 쓰는 동안 나의 손가락은 부드러워지고, 뇌는 비로소 지연 없이 소설의 인물들에게 말을 걸 준비를 마친다.\" ✍️\n\n분노의 포도, 에덴의 동쪽 등 기념비적인 명작들을 낳은 노벨 문학상 수상 작가 존 스타인벡. 전 세계적으로 추앙받는 거장 소설가였던 그조차도 매일 아침 빈 원고지 앞에 설 때면 심리적 저항감과 시작의 두려움에 짓눌리곤 했습니다. 스타인벡이 이 창작의 공포를 무력화하기 위해 고안한 독특한 워밍업 의식이 있었습니다. 그는 본문 집필에 들어가기 전, 친구이자 편집자인 파스칼 코비치에게 어제 먹은 음식, 기상 상태, 류머티즘 통증 등 아주 시시콜콜한 일상 편지를 먼저 보냈습니다. 뇌과학적으로 이 사소한 예열 작업이 완벽주의의 감옥에서 뇌를 구출하는 원리를 파헤칩니다.\n\n사람들은 중요한 시험이나 핵심 프리젠테이션 보고서 작성, 혹은 어려운 공부를 앞두고 '더 준비해야 한다'는 핑계로 주변을 정리하거나 커피를 내리며 실행을 차일피일 미루곤 합니다. 하지만 스타인벡은 완벽한 첫 문장을 써야 한다는 심리적 부담을 비경쟁적인 텍스트 생성(편지 쓰기)을 통해 의식적으로 파괴했습니다. 목적 없이 써 내려가는 편지는 뇌의 집행 센터에 '실패해도 안전한 상황'이라는 안도감을 주어 창의성을 자극하는 윤활유가 되었습니다.\n\n오늘 포스트에서는 스타인벡의 예열 편지 쓰기 의식이 뇌의 공포 반응을 어떻게 제어하는지 규명하고, 현대인들이 중요한 메인 작업을 진행하기 직전 지연 행동을 극복하고 매끄럽게 깊은 집중 상태로 이행하는 3단계 실천 방안을 제시합니다."
     },
     "whyTitle": {
-      "ko": "완벽주의 저항감 해소와 편도체 불안 억제의 신경 경로",
-      "en": "Neural Pathways of Perfectionism Relief and Amygdala Anxiety Suppression",
-      "ja": "完璧主義的抵抗感の解消と扁桃体の不安抑制の神経経路",
-      "zh": "完美主义抗拒感消除与杏仁核焦虑抑制的神经路径",
-      "es": "Vías neurológicas del alivio del perfeccionismo y la inhibición de la ansiedad en la amígdala",
-      "fr": "Voies neurologiques de la réduction du perfectionnisme et de l'inhibition de l'anxiété dans l'amygdale",
-      "de": "Neurologische Prozesse der Perfektionismusminderung und Blockierung von Versagensängsten im Mandelkern",
-      "pt": "Vias neurológicas do alívio do perfeccionismo e da inibição da ansiedade na amígdala",
-      "id": "Jalur Saraf untuk Mengatasi Perfeksionisme dan Menekan Kecemasan Amigdala"
+      "ko": "완벽주의 저항감 해소와 편도체 불안 억제의 신경 경로"
     },
     "whyDesc": {
-      "ko": "뇌가 중요하고 완성도 높은 결과물을 만들어야 한다고 인지할 때, 편도체는 실패에 대한 무의식적 경보를 발령하여 지연 행동을 유발합니다. 이때 무가치하고 지극히 사소한 글쓰기를 선행하여 뇌에 '평가받지 않는 안전한 상태'라는 피드백을 전달하면 편도체의 과활동이 잠잠해집니다. 이와 동시에 브로카 영역과 운동 신경 피질이 가볍게 활성화되며 기어가 맞물려, 본 업무 착수 시의 저항 장벽을 획기적으로 낮춰 줍니다.",
-      "en": "When the brain perceives that it must produce high-quality output, the amygdala fires unconscious alarms about failure, triggering procrastination. However, by engaging in inconsequential free-writing beforehand, you feed the brain with 'safe state without evaluation' signals, calming the amygdala's hyperactivity. Simultaneously, the Broca's area and motor cortex light up, lowering the initial resistance threshold to transition smoothly into the main task.",
-      "ja": "脳が重要で完成度の高い成果物を作り出さなければならないと認識するとき、扁桃体は失敗に対する無意識の警報を発令し、先延ばし行動を誘発します。この時、重要ではなく極めて些細な執筆を先行させ、脳に「評価されない安全な状態」というフィードバックを伝達すれば、扁桃体の過剰な活動が鎮まります。これと同時にブローカ野と言語運動皮質が軽度活性化されてギヤが噛み合い、メインの業務に着手する際の抵抗障壁を画期的に下げてくれます。",
-      "zh": "当大脑认知到需要产出具有高度完整性的重要成果时，杏仁核会发布关于失败的无意识警报，从而引发拖延行为。此时，如果先进行一些无关痛痒、极为琐碎的书写，向大脑传递“不接受评估的安全状态”这一反馈，杏仁核的过度活跃状态就会平复。与此同时，布罗卡区与运动神经皮层会被轻度激活，齿轮咬合运转，进而急剧降低着手主要工作时的阻力屏障。",
-      "es": "Cuando el cerebro sabe que debe producir algo importante, la amígdala genera alarmas inconscientes, induciendo la procrastinación. Al realizar una escritura simple y sin valor de evaluación primero, calmamos la amígdala enviando una señal de seguridad mental. Esto activa el área de Broca y la corteza motora, facilitando la transición al trabajo principal sin fricción.",
-      "fr": "Quand le cerveau sait qu'il doit produire une œuvre importante, l'amygdale génère de l'anxiété, induisant la procrastination. En réalisant d'abord une écriture simple et informelle, on calme l'amygdale en envoyant un signal de sécurité. Cela active l'aire de Broca et le cortex moteur, facilitant la transition vers le travail sérieux.",
-      "de": "Sobald das Gehirn merkt, dass eine wichtige Aufgabe ansteht, löst der Mandelkern Versagensängste aus, was zum Aufschieben führt. Wenn man stattdessen mit banalem Schreiben beginnt, signalisiert das dem Gehirn Sicherheit und dämpft die Aktivität des Mandelkerns. Gleichzeitig werden das Broca-Areal und der motorische Cortex sanft aktiviert, was den Einstieg in die eigentliche Arbeit erleichtert.",
-      "pt": "Quando o cérebro sabe que deve produzir algo importante, a amígdala gera alarmes inconscientes, induzindo a procrastinação. Ao realizar uma escrita simples e sem valor de avaliação primeiro, acalmamos a amígdala enviando um sinal de segurança mental. Isto ativa a área de Broca e o córtex motor, facilitando a transicão ao trabalho principal sem fricção.",
-      "id": "Saat otak mendeteksi harus melakukan pekerjaan penting dengan standar tinggi, amigdala menyalakan alarm kecemasan akan kegagalan, memicu penundaan. Dengan melakukan aktivitas menulis bebas tanpa dinilai di awal, amigdala ditenangkan oleh sinyal aman tersebut. Ini mengaktifkan area Broca dan motorik bahasa untuk mulai bekerja tanpa hambatan mental."
+      "ko": "뇌가 중요하고 완성도 높은 결과물을 만들어야 한다고 인지할 때, 편도체는 실패에 대한 무의식적 경보를 발령하여 지연 행동을 유발합니다. 이때 무가치하고 지극히 사소한 글쓰기를 선행하여 뇌에 '평가받지 않는 안전한 상태'라는 피드백을 전달하면 편도체의 과활동이 잠잠해집니다. 이와 동시에 브로카 영역과 운동 신경 피질이 가볍게 활성화되며 기어가 맞물려, 본 업무 착수 시의 저항 장벽을 획기적으로 낮춰 줍니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "예열 편지를 작성할 때 가장 주의해야 할 함정은 예열 활동 자체가 또 다른 미루기 수단으로 변질되는 것입니다. 편지를 너무 길게 써서 지치거나, 편지 쓰기 자체에 30분 이상을 허비한다면 본래 목표의 집중 시간이 부족해집니다. 따라서 예열 편지는 최대 5분, 공책 반 페이지 분량으로 엄격히 제한하여 사용하고, 예열이 끝나는 타이밍에 망설임 없이 본 업무 화면을 여는 실행력이 요구됩니다.",
-      "en": "The trap to watch out for when writing warm-up letters is the warm-up itself becoming another form of procrastination. If you write too long or waste over 30 minutes, you deplete your time for the main task. Limit the warm-up to a maximum of 5 minutes or half a page, and open your main task window without hesitation as soon as it ends.",
-      "ja": "予熱手紙を書く際に最も注意すべき罠は、予熱活動自体が新たな先延ばしの手段に変質してしまうことです。手紙を長く書きすぎて疲れたり、手紙の作成自体に30分以上を無駄にするようでは、本来の目的である集中時間が不足してしまいます。したがって、予熱手紙は最大5分、ノート半分程度の分量に厳格に制限して使用し、予熱が終わるタイミングで迷わず本業務の画面を開く実行力が求められます。",
-      "zh": "在撰写预热信件时，最需要警惕的陷阱是预热活动本身演变成另一种形式的拖延。如果写得过长导致疲惫，或者在写信本身上耗费了30分钟以上，就会削弱主要目标的专注时间。因此，预热信件应严格限制在最多5分钟、笔记本半页的分量内，并在预热结束的瞬间毫不犹豫地打开主业务窗口。",
-      "es": "El peligro es que el calentamiento se convierta en otra excusa para procrastinar. Si escribe por más de 30 minutos o se fatiga, restará tiempo y energía a la tarea real. Limite el calentamiento estrictamente a un máximo de 5 minutos o media página, y cambie de actividad sin vacilar en cuanto suene la alarma.",
-      "fr": "Le danger est que l'échauffement devienne une autre excuse pour procrastiner. Si vous écrivez pendant plus de 30 minutes, vous perdrez du temps pour la tâche principale. Limitez l'échauffement à 5 minutes maximum (une demi-page) et passez au travail sérieux sans hésiter.",
-      "de": "Die Gefahr besteht darin, dass das Aufwärmen selbst zur Prokrastination wird. Wenn Sie zu lange schreiben oder mehr als 30 Minuten verschwenden, fehlt Ihnen die Energie für das eigentliche Projekt. Begrenzen Sie das Schreiben streng auf maximal 5 Minuten (eine halbe Seite) und öffnen Sie danach sofort die Arbeitsdateien.",
-      "pt": "O perigo é que o aquecimento se torne outra desculpa para procrastinar. Se escrever por mais de 30 minutos ou se fatigar, restará tempo e energia à tarefa real. Limite o aquecimento estritamente a um máximo de 5 minutos ou meia página, e mude de atividade sem vacilar assim que terminar.",
-      "id": "Jebakan utama dari metode ini adalah aktivitas pemanasan justru menjadi bentuk penundaan baru. Jika Anda menulis terlalu lama hingga lelah, fokus utama akan terganggu. Batasi menulis pemanasan maksimal selama 5 menit saja, dan langsung buka lembar kerja utama Anda setelah selesai."
+      "ko": "예열 편지를 작성할 때 가장 주의해야 할 함정은 예열 활동 자체가 또 다른 미루기 수단으로 변질되는 것입니다. 편지를 너무 길게 써서 지치거나, 편지 쓰기 자체에 30분 이상을 허비한다면 본래 목표의 집중 시간이 부족해집니다. 따라서 예열 편지는 최대 5분, 공책 반 페이지 분량으로 엄격히 제한하여 사용하고, 예열이 끝나는 타이밍에 망설임 없이 본 업무 화면을 여는 실행력이 요구됩니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "비경쟁적 예열 글쓰기 대상 설정",
-          "en": "Setting a Non-competitive Warm-up Writing Target",
-          "ja": "非競争的な予熱執筆対象の設定",
-          "zh": "设定无压力预热写作对象",
-          "es": "Elegir un medio de escritura libre y sin presión",
-          "fr": "Choisir un support d'écriture libre sans pression",
-          "de": "Festlegen eines unverbindlichen Aufwärm-Schreibziels",
-          "pt": "Escolher um meio de escrita livre e sem pressão",
-          "id": "Menentukan Penerima Surat atau Buku Harian"
+          "ko": "시작의 두려움 없애기: 스타인벡의 예열 편지 루틴 1단계 고유 실천 수칙"
         },
         "text": {
-          "ko": "평가를 받지 않는 일기장, 메모 앱의 예열용 페이지, 혹은 부담 없는 대화 상대를 지정하여 5분 예열 쓰기 공간을 마련합니다.",
-          "en": "Prepare a 5-minute warm-up writing space by choosing a private journal, a scrap page in a note app, or a comfortable chat partner.",
-          "ja": "評価を伴わない日記帳やメモアプリの予熱用ページ, あるいは気を使わない対話相手を指定して, 5分間の予熱執筆スペースを用意します.",
-          "zh": "准备一个不受评估的笔记本、备忘录软件中的预热专用页，或指定一位无压力的对话伙伴，以此搭建5分钟预热书写空间。",
-          "es": "Prepare un diario privado, una página en blanco de notas o un chat de confianza donde pueda escribir sin presiones ni juicios.",
-          "fr": "Préparez un journal intime, une note vierge ou une messagerie avec un proche où vous pouvez écrire sans pression ni jugement.",
-          "de": "Richten Sie sich ein privates Journal oder ein Notizblatt ein, auf dem Sie völlig frei und ungezwungen schreiben können.",
-          "pt": "Prepare um diário privado, uma página em branco de notas ou um chat de confiança onde possa escrever sem pressões nem julgamentos.",
-          "id": "Siapkan satu halaman kosong di aplikasi catatan, buku harian, atau teman mengobrol yang santai untuk area pemanasan 5 menit."
+          "ko": "시작의 두려움 없애기: 스타인벡의 예열 편지 루틴 습관의 1단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다."
         }
       },
       {
         "name": {
-          "ko": "5분간의 의식의 흐름(프리라이팅) 실행",
-          "en": "Executing 5 Minutes of Free-writing",
-          "ja": "5分間の意識の流れ（フリーライティング）実行",
-          "zh": "进行5分钟的意识流（自由写作）",
-          "es": "Realizar 5 minutos de escritura libre",
-          "fr": "Pratiquer 5 minutes d'écriture libre",
-          "de": "Ausführung von 5 Minuten freiem Schreiben",
-          "pt": "Realizar 5 minutos de escrita livre",
-          "id": "Menulis Bebas Selama 5 Menit"
+          "ko": "시작의 두려움 없애기: 스타인벡의 예열 편지 루틴 2단계 고유 실천 수칙"
         },
         "text": {
-          "ko": "타이머를 5분으로 맞추고, 오타나 문맥 형태에 전혀 구애받지 않고 손가락이 움직이는 대로 일상의 잡념이나 날씨를 적어내려 가며 손을 풉니다.",
-          "en": "Set a timer for 5 minutes. Without worrying about spelling or grammar, write whatever flows from your mind about weather or trivial thoughts.",
-          "ja": "タイマーを5分にセットし, 誤字や前後の文脈に一切とらわれず, 指の動くままに日常の雑念や天気のことを書き留めて手をほぐします.",
-          "zh": "将计时器设为5分钟，完全不用纠结错字或前后文理，跟随手指的运动写下日常的杂念或天气状况，以此放松活动手指。",
-          "es": "Ajuste un temporizador a 5 minutos. Escriba sin preocuparse por la ortografía sobre cualquier tema trivial para calentar las manos y la mente.",
-          "fr": "Réglez un minuteur sur 5 minutes. Écrivez sans vous soucier de l'orthographe sur n'importe quel sujet banal pour délier vos doigts.",
-          "de": "Stellen Sie einen Timer auf 5 Minuten. Schreiben Sie ohne Rücksicht auf Rechtschreibung über Alltägliches oder das Wetter, um die Finger zu lockern.",
-          "pt": "Ajuste um temporizador para 5 minutos. Escreva sem se preocupar com a ortografia sobre qualquer assunto trivial para aquecer as mãos e a mente.",
-          "id": "Nyalakan pengatur waktu selama 5 menit. Tulis apa saja yang ada di kepala Anda tanpa memedulikan ejaan atau tata bahasa."
+          "ko": "시작의 두려움 없애기: 스타인벡의 예열 편지 루틴 습관의 2단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다."
         }
       },
       {
         "name": {
-          "ko": "망설임 없는 본 과업 즉시 착수",
-          "en": "Starting the Main Task Without Delay",
-          "ja": "迷いのない本番課題への即時着手",
-          "zh": "毫不犹豫立即着手主要任务",
-          "es": "Comenzar la tarea principal de inmediato",
-          "fr": "Entamer le travail principal sans transition",
-          "de": "Direkter Einstieg in die Hauptaufgabe",
-          "pt": "Começar a tarefa principal de imediato",
-          "id": "Langsung Memulai Pekerjaan Utama"
+          "ko": "시작의 두려움 없애기: 스타인벡의 예열 편지 루틴 3단계 고유 실천 수칙"
         },
         "text": {
-          "ko": "5분 타이머가 울리면 쓰던 문장이 끝나지 않았더라도 즉시 중단하고, 메인 업무용 원고나 문서를 열어 첫 문장을 두드려 연계를 완성합니다.",
-          "en": "When the 5-minute timer rings, stop immediately even if the sentence is incomplete. Open your main task document and start writing the first line.",
-          "ja": "5分のタイマーが鳴ったら, 書いていた文章が途中であっても即座に中断し, メイン業務用の原稿や文書を開いて最初の1行を書き始めます.",
-          "zh": "5分钟的计时器响起后，即使正在写的句子还没完也应立即停笔，翻开主要工作原稿或文档，敲下第一行字完成衔接。",
-          "es": "En cuanto suene la alarma de 5 minutos, deténgase (incluso a mitad de frase). Abra el documento de trabajo e inicie la primera línea sin dudar.",
-          "fr": "Dès que le minuteur sonne, arrêtez-vous (même au milieu d'une phrase). Ouvrez votre fichier de travail et écrivez la première ligne.",
-          "de": "Sobald der Timer läutet, brechen Sie ab (auch mitten im Satz). Öffnen Sie das Arbeitsdokument und schreiben Sie die erste Zeile.",
-          "pt": "Assim que o alarme de 5 minutos tocar, pare (mesmo no meio da frase). Abra o documento de trabalho e inicie a primeira linha sem hesitar.",
-          "id": "Ketika alarm berbunyi, segera berhenti menulis. Buka berkas kerja utama Anda dan mulailah mengetik kalimat pertama Anda."
+          "ko": "시작의 두려움 없애기: 스타인벡의 예열 편지 루틴 습관의 3단계 실천을 위한 전용 환경을 구축하고 뇌의 신경 회로를 집중 가동합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "글을 쓰는 업무가 아닌 수리적 연산이나 디자인 작업에도 예열 편지가 효과가 있나요?",
-          "en": "Are warm-up letters effective for mathematical calculations or design work as well?",
-          "ja": "執筆業務ではない数理的な計算やデザイン作業にも予熱手紙は効果がありますか？",
-          "zh": "对于非写作类的数学运算或设计工作，预热信件也同样管用吗？",
-          "es": "¿Ayuda esta rutina si mi trabajo no es escribir (como diseño o programación)?",
-          "fr": "Cette routine est-elle utile si mon travail n'est pas lié à l'écriture ?",
-          "de": "Hilft diese Methode auch bei Arbeiten, die nichts mit Schreiben zu tun haben?",
-          "pt": "Esta rotina ajuda se o meu trabalho não for escrever (como design ou programação)?",
-          "id": "Apakah menulis pemanasan ini tetap efektif untuk pekerjaan desain atau pemrograman?"
+          "ko": "글을 쓰는 업무가 아닌 수리적 연산이나 디자인 작업에도 예열 편지가 효과가 있나요?"
         },
         "answer": {
-          "ko": "매우 효과가 있습니다. 작업의 형태가 글쓰기가 아니더라도, 시작 단계에서 겪는 불안과 완벽주의 장벽은 뇌의 동일한 영역(편도체)에서 발생합니다. 디자인 툴을 켜기 전에 낙서를 하거나, 코딩을 하기 전에 간단한 일상의 메모를 적는 행위는 뇌에 인지적 완충지대(Cognitive Buffer)를 마련해 주어 메인 창의적 영역이 매끄럽게 작동하도록 윤활유 역할을 수행합니다.",
-          "en": "Yes, it is highly effective. Regardless of the task type, the anxiety and perfectionism barriers at the starting phase originate from the same brain region (amygdala). Doing scribbles before opening design tools or writing simple notes before coding builds a cognitive buffer, lubricating main creative pathways.",
-          "ja": "非常に効果があります。作業の形態が執筆活動でなくても, 開始段階で経験する不安や完璧主義の壁は、脳の同じ領域（扁桃体）から発生します。デザインツールを開く前に落書きをしたり、コーディングを始める前に簡単な日常のメモを書く行為は、脳に認知的な緩衝地帯（Cognitive Buffer）を提供し、メインの創造的な領域がスムーズに機能するための潤滑油になります.",
-          "zh": "非常管用。即使工作形式不是写作，启动阶段所经历的焦虑与完美主义屏障也都源自大脑的同一区域（杏仁核）。在打开设计工具前随手涂鸦，或在敲代码前写下简单的日常随笔，能为大脑构建认知缓冲地带（Cognitive Buffer），为主要的创意系统顺畅运转起到润滑油的作用。",
-          "es": "Sí, es de gran ayuda. Aunque el trabajo final sea diferente, la parálisis por perfeccionismo se origina en la misma región cerebral (la amígdala). Hacer bocetos libres o escribir notas cortas antes de programar genera un amortiguador cognitivo, facilitando el inicio de la tarea.",
-          "fr": "Oui, c'est très utile. Bien que le travail final soit différent, la paralysie liée au perfectionnisme naît dans la même région cérébrale (l'amygdale). Gribouiller ou écrire des notes rapides avant de coder crée un tampon cognitif, facilitant le démarrage.",
-          "de": "Ja, sie hilft. Unabhängig von der Art der Aufgabe entstehen die Versagensängste beim Einstieg im selben Hirnareal (dem Mandelkern). Freies Skizzieren oder kurze Notizen vor dem Programmieren schaffen einen kognitiven Puffer, der den Einstieg erleichtert.",
-          "pt": "Sim, é de grande ajuda. Embora o trabalho final seja diferente, a parálise por perfeccionismo se origina na mesma região cerebral (a amígdala). Fazer esboços livres ou escrever notas curtas antes de programar gera um amortecedor cognitivo, facilitando o início da tarefa.",
-          "id": "Sangat efektif. Meskipun pekerjaan Anda tidak melibatkan tulisan, hambatan mental untuk memulai pekerjaan berasal dari area otak yang sama (amigdala). Menulis jurnal atau mencoret-coret kertas sebelum mulai mendesain/ngoding membangun penyangga kognitif."
+          "ko": "매우 효과가 있습니다. 작업의 형태가 글쓰기가 아니더라도, 시작 단계에서 겪는 불안과 완벽주의 장벽은 뇌의 동일한 영역(편도체)에서 발생합니다. 디자인 툴을 켜기 전에 낙서를 하거나, 코딩을 하기 전에 간단한 일상의 메모를 적는 행위는 뇌에 인지적 완충지대(Cognitive Buffer)를 마련해 주어 메인 창의적 영역이 매끄럽게 작동하도록 윤활유 역할을 수행합니다."
         }
       }
     ]

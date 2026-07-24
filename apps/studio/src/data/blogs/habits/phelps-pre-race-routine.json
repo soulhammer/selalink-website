@@ -1,190 +1,62 @@
 {
   "phelps-pre-race-routine": {
     "title": {
-      "ko": "압박감을 지우는 법: 마이클 펠프스의 2시간 전 초인지 루틴",
-      "en": "How to Erase Pressure: Michael Phelps's 2-Hour Pre-Race Metacognitive Routine",
-      "ja": "圧迫感を消す方法：マイケル・フェルプスの2時間前の超認知ルーティン",
-      "zh": "消除压迫感的方法：迈克尔·菲尔普斯赛前两小时的超认知常规",
-      "es": "Cómo borrar la presión: La rutina metacognitiva de 2 horas antes de la carrera de Michael Phelps",
-      "fr": "Comment effacer la pression : La routine métacognitive de 2 heures avant la course de Michael Phelps",
-      "de": "Wie man Leistungsdruck abbaut: Michael Phelps' 2-stündige metakognitive Routine vor dem Start",
-      "pt": "Como apagar a pressão: A rotina metacognitiva de 2 horas antes da corrida de Michael Phelps",
-      "id": "Cara Menghilangkan Tekanan: Rutinitas Metakognitif 2 Jam Sebelum Lomba Michael Phelps"
+      "ko": "압박감을 지우는 법: 마이클 펠프스의 2시간 전 초인지 루틴"
     },
     "description": {
-      "ko": "올림픽 최다 금메달리스트 마이클 펠프스가 시합 직전 수행한 초정밀 행동 루틴. 완벽히 통제된 절차가 뇌의 극단적인 긴장과 불안을 예방하는 과학적 원리를 다룹니다.",
-      "en": "The high-precision behavioral routine performed by Olympic gold medalist Michael Phelps right before races. Explore how controlled steps block extreme brain anxiety.",
-      "ja": "オリンピック最多金メダリストのマイケル・フェルプスが試合直前に行った超精密行動ルーティン。完全にコントロールされた手続きが脳の極端な緊張と不安を予防する科学的原理を扱います。",
-      "zh": "奥运会金牌得主迈克尔·菲尔普斯在赛前执行的超精密行为惯例。探讨完全受控的步骤如何预防大脑极度紧张和焦虑的科学原理。",
-      "es": "La rutina de comportamiento de alta precisión realizada por Michael Phelps justo antes de las carreras. Explore cómo los pasos controlados bloquean la ansiedad cerebral extrema.",
-      "fr": "La routine comportementale de haute précision effectuée par Michael Phelps juste avant les courses. Découvrez comment les étapes contrôlées bloquent l'anxiété.",
-      "de": "Die hochpräzise Routine, die der Olympiasieger Michael Phelps kurz vor dem Start durchführte. Erfahren Sie, wie strukturierte Schritte extreme Angst blockieren.",
-      "pt": "A rotina comportamental de alta precisão realizada por Michael Phelps logo antes das corridas. Explore como os passos controlados bloqueiam a ansiedade cerebral extrema.",
-      "id": "Rutinitas perilaku presisi tinggi yang dilakukan oleh peraih medali emas Olimpiade Michael Phelps tepat sebelum lomba. Pelajari bagaimana langkah-langkah terkontrol memblokir kecemasan."
+      "ko": "올림픽 최다 금메달리스트 마이클 펠프스가 시합 직전 수행한 초정밀 행동 루틴. 완벽히 통제된 절차가 뇌의 극단적인 긴장과 불안을 예방하는 과학적 원리를 다룹니다."
     },
     "authority": {
-      "ko": "펠프스 자서전 『No Limits』 및 국제스포츠심리학회지(IJSP) 루틴 수행 연구",
-      "en": "Phelps's Autobiography and International Journal of Sport Psychology (IJSP) Research on Routines",
-      "ja": "フェルプス自伝および国際スポーツ心理学会誌（IJSP）のルーティン遂行研究",
-      "zh": "菲尔普斯自传及《国际运动心理学杂志》(IJSP)关于常规执行的研究",
-      "es": "Autobiografía de Phelps e investigación sobre rutinas del International Journal of Sport Psychology (IJSP)",
-      "fr": "Autobiographie de Phelps et recherche sur les routines de l'International Journal of Sport Psychology (IJSP)",
-      "de": "Phelps' Autobiografie und Forschung zu Routinen aus dem International Journal of Sport Psychology (IJSP)",
-      "pt": "Autobiografia de Phelps e pesquisa sobre rotinas do International Journal of Sport Psychology (IJSP)",
-      "id": "Autobiografi Phelps dan Penelitian IJSP tentang Pelaksanaan Rutinitas"
+      "ko": "Phelps Pre Race Routine 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "올림픽 역사상 전무후무한 28개의 메달(금메달 23개)을 목에 걸며 수영의 신화가 된 마이클 펠프스. 세계적인 거포들이 모이는 긴박한 메인 스타트대 앞에서도 그는 놀라울 정도로 차분하고 차가운 이성을 유지했습니다. 그의 완벽한 멘탈 통제력 뒤에는 경기 시작 정확히 2시간 전부터 오차 없이 흘러가는 초정밀 행동 루틴이 있었습니다. 그가 실천했던 분 단위 마인드 세팅의 이면을 들여다봅니다.",
-      "en": "Michael Phelps, a legend in swimming history, winning 28 Olympic medals. Even in front of the tense start blocks, he maintained a remarkably calm and cool mind. Behind his perfect mental control was a high-precision routine running with no errors exactly 2 hours before the race starts. Explore the minute-by-minute mind setting he practiced.",
-      "ja": "オリンピックの歴史上空前絶後の28個のメダル（金メダル23個）を獲得し、水泳の神話となったマイケル・フェルプス。世界的な強豪が集まる緊迫したメインスタート台の前でも、彼は驚くほど落ち着いた冷静な理性を維持しました。彼の完璧なメンタルコントロールの裏には、競技開始正確に2時間前から狂いなく流れる超精密行動ルーティンがありました。",
-      "zh": "通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
-      "es": "Michael Phelps, una leyenda de la natación con 28 medallas olímpicas. Incluso frente a los bloques de salida tensos, mantuvo una mente notablemente tranquila. Detrás de su control mental estaba una rutina de alta precisión que se ejecutaba sin errores exactamente 2 horas antes de la carrera.",
-      "fr": "Michael Phelps, légende de la natation avec 28 médailles olympiques. Même devant les blocs de départ, il conservait un esprit remarquablement calme. Derrière ce contrôle mental se cachait une routine de haute précision exécutée sans erreur exactement 2 heures avant la course.",
-      "de": "Michael Phelps, eine Legende der Schwimmgeschichte mit 28 olympischen Medaillen. Selbst vor den Startblöcken bewahrte er einen bemerkenswert ruhigen Geist. Hinter seiner mentalen Stärke stand eine hochpräzise Routine, die exakt 2 Stunden vor dem Start fehlerfrei ablief.",
-      "pt": "Michael Phelps, uma lenda da natação com 28 medalhas olímpicas. Mesmo diante dos blocos de partida tensos, ele manteve uma mente notavelmente calma. Por trás de seu controle mental estava uma rotina de alta precisão executada sem erros exatamente 2 horas antes da corrida.",
-      "id": "Michael Phelps, legenda dalam sejarah renang, memenangkan 28 medali Olimpiade. Bahkan di depan balok start yang tegang, dia mempertahankan pikiran yang luar biasa tenang. Di balik kontrol mentalnya yang sempurna adalah rutinitas presisi tinggi yang berjalan tanpa kesalahan tepat 2 jam sebelum perlombaan dimulai."
+      "ko": "\"나는 물속에 들어가기 전, 이미 머릿속으로 수없이 완벽한 경기를 치렀다.\" 🏊‍♂️\n\n올림픽 역사상 전무후무한 28개의 메달(금메달 23개)을 목에 걸며 수영의 신화가 된 마이클 펠프스. 세계적인 거포들이 모이는 긴박한 메인 스타트대 앞에서도 그는 놀라울 정도로 차분하고 차가운 이성을 유지했습니다. 그의 완벽한 멘탈 통제력 뒤에는 경기 시작 정확히 2시간 전부터 오차 없이 흘러가는 초정밀 행동 루틴이 있었습니다. 그가 실천했던 분 단위 마인드 세팅의 이면을 들여다봅니다.\n\n펠프스는 경기 시작 2시간 전 경기장에 도착하면 항상 똑같은 메이커의 헤드폰을 귀에 얹고 음악을 듣기 시작합니다. 그 후 45분간 웜업 수영을 정확히 마친 다음 물 밖으로 나와 다시 똑같은 스트레칭을 하고, 똑같은 브랜드의 수영복을 입고 똑같은 각도로 스타트대를 딛고 올랐습니다. 1초의 시간 오차나 행동 차이도 용납되지 않는 초정밀 세팅이었습니다.\n\n오늘 포스트에서는 마이클 펠프스가 실천했던 '초인지 사전 준비 루틴'의 작동 원리와 현대인들이 중대한 실전, 중요한 프레젠테이션, 또는 큰 긴장을 동반하는 업무를 시작하기 전 불안과 스트레스를 완전히 잠재울 수 있는 3단계 실천 루틴을 소개합니다."
     },
     "whyTitle": {
-      "ko": "초정밀 사전 루틴이 두뇌 불안을 잠재우는 과학",
-      "en": "Science of How High-Precision Pre-Routines Calm Brain Anxiety",
-      "ja": "超精密事前ルーティンが脳の不安を静める科学",
-      "zh": "超精密预设惯例平息大脑焦虑的科学",
-      "es": "Ciencia de cómo las rutinas previas de alta precisión calman la ansiedad cerebral",
-      "fr": "La science de la routine pr-course pour calmer l'anxit",
-      "de": "Die Wissenschaft hinter der angstlindernden Wirkung von Routinen",
-      "pt": "Ciência de como rotinas prévias de alta precisão acalmam a ansiedade cerebral",
-      "id": "Sains tentang Bagaimana Rutinitas Awal Presisi Tinggi Menenangkan Kecemasan Otak"
+      "ko": "초정밀 사전 루틴이 두뇌 불안을 잠재우는 과학"
     },
     "whyDesc": {
-      "ko": "시합이나 발표 전, 뇌가 처할 수 있는 가장 위험한 상태는 '불확실성'과 이에 따른 불안입니다. 예측 불가능한 환경에 처할 때 두뇌의 감정 및 경계 센터인 <strong>편도체(Amygdala)</strong>는 과열되어 스트레스 호르몬을 대량 방출합니다. 하지만 이미 백 번 이상 반복되어 완벽하게 조절 가능한 육체적 행동 세트를 가동하면, 뇌는 상황을 통제하고 있다고 판단해 편도체 활성을 낮추고 아드레날린 분비를 최적화합니다.",
-      "en": "The most dangerous state the brain can face before a race or presentation is 'uncertainty' and resulting anxiety. In an unpredictable environment, the brain's emotion and alarm center, the <strong>prefrontal cortex</strong> (Wait, should be prefrontal cortex or amygdala? Let's use amygdala), the <strong>amygdala</strong>, overheats and releases stress hormones. However, activating a perfectly controllable physical behavior set reduces amygdala activity, optimizing adrenaline.",
-      "ja": "試合や発表の前、脳が置かれうる最も危険な状態は「不確実性」とそれに伴う不安です。予測不可能な環境に置かれる時、脳の感情および警戒センターである<strong>扁桃体（Amygdala）</strong>は過熱し、ストレスホルモンを大量に放出します。しかし、既に何百回も繰り返され完全に制御可能な身体的行動セットを稼働させると、脳は状況を制御していると判断して扁桃体の活性を下げ、アドレナリンの分泌を最適化します。",
-      "zh": "在比赛或演说前，大脑可能处于的最危险状态是“不确定性”以及由此产生的焦虑。面对不可预测的环境时，大脑的情感和警戒中心——<strong>杏仁核（Amygdala）</strong>会过热并释放大量压力激素。但是，若启动一套已重复上百次、完全可控的肢体行为，大脑就会判断局势处于控制之中，从而降低杏仁核的活性，使肾上腺素的分泌达到最佳状态。",
-      "es": "El estado más peligroso antes de una carrera o presentación es la 'incertidumbre'. En un entorno impredecible, la <strong>amígdala</strong>, el centro de alarma del cerebro, se sobrecalienta. Activar un conjunto de comportamientos físicos perfectamente controlables reduce la actividad de la amígdala, optimizando la adrenalina.",
-      "fr": "L'état le plus dangereux avant une course ou une présentation est l'incertitude. Dans un environnement imprévisible, l'<strong>amygdale</strong>, le centre d'alerte du cerveau, s'emballe. Activer un ensemble d'actions physiques parfaitement contrôlables réduit l'activité de l'amygdale.",
-      "de": "Der gefährlichste Zustand vor einem Wettkampf ist die Unsicherheit. In einer unvorhersehbaren Umgebung läuft die <strong>Amygdala</strong>, das Alarmzentrum des Gehirns, heiß. Die Durchführung perfekt kontrollierbarer körperlicher Abläufe senkt die Aktivität der Amygdala und optimiert den Adrenalinspiegel.",
-      "pt": "O estado mais perigoso antes de uma corrida ou apresentação é a 'incerteza'. Em um ambiente imprevisível, a <strong>amígdala</strong>, o centro de alerta do cérebro, superaquece. Ativar um conjunto de comportamentos físicos perfeitamente controláveis reduz a atividade da amígdala.",
-      "id": "Kondisi paling berbahaya sebelum perlombaan atau presentasi adalah 'ketidakpastian'. Dalam lingkungan yang tidak terprediksi, <strong>amigdala</strong>, pusat alarm otak, menjadi terlalu aktif. Mengaktifkan serangkaian perilaku fisik yang terkontrol mengurangi aktivitas amigdala."
+      "ko": "시합이나 발표 전, 뇌가 처할 수 있는 가장 위험한 상태는 '불확실성'과 이에 따른 불안입니다. 예측 불가능한 환경에 처할 때 두뇌의 감정 및 경계 센터인 <strong>편도체(Amygdala)</strong>는 과열되어 스트레스 호르몬을 대량 방출합니다. 하지만 이미 백 번 이상 반복되어 완벽하게 조절 가능한 육체적 행동 세트를 가동하면, 뇌는 상황을 통제하고 있다고 판단해 편도체 활성을 낮추고 아드레날린 분비를 최적화합니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions & Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen & Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan & Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "주의해야 할 부분은 이 루틴이 단순한 미신이나 마법적인 부적이 아니라는 점입니다. 마이클 펠프스 역시 오랜 <strong>기계적인 훈련과 반복</strong>을 통해 루틴과 신체 이완 간의 단단한 시냅스 연결을 구축했습니다. 따라서 초기에 실패하더라도 조급해하지 말고 꾸준히 자신의 루틴을 굳혀 나가는 훈련이 필수적입니다.",
-      "en": "The caution is that this routine is not a simple superstition or magical charm. Michael Phelps also built a strong synaptic connection between the routine and physical relaxation through long <strong>mechanical training and repetition</strong>. Therefore, even if you fail at first, do not rush and keep consolidating your routine.",
-      "ja": "注意すべき点は、このルーティンが単なる迷信や魔法のようなお守りではないということです。マイケル・フェルプスもまた、長年の<strong>機械的な訓練と反復</strong>を通じてルーティンと身体の弛緩との間の強固なシナプス結合を構築しました。そのため、初期に失敗しても焦らず、着実に自身のルーティンを固めていく訓練が不可欠です。",
-      "zh": "需要注意的是，这种常规并非简单的迷信或魔术护身符。麦克·菲尔普斯也是通过长期<strong>机能性训练和重复</strong>，在惯例与身体放松之间建立了牢固的突触连接。因此，即使初期遇到失败也无需急躁，坚持固化自己的惯例训练至关重要。",
-      "es": "La precaución es que esta rutina no es una simple superstición. Michael Phelps también construyó una fuerte conexión sináptica entre la rutina y la relajación física a través de un largo <strong>entrenamiento mecánico y repetición</strong>. Por lo tanto, no se apresure si falla al principio.",
-      "fr": "Sachez que cette routine n'est pas une simple superstition. Michael Phelps a construit une connexion synaptique forte entre la routine et la détente physique grâce à un long <strong>entraînement mécanique et à la répétition</strong>. Ne vous précipitez pas si vous échouez au début.",
-      "de": "Wichtig ist, dass diese Routine kein Aberglaube ist. Michael Phelps baute die Verbindung zwischen Routine und Entspannung durch jahrelanges <strong>mechanisches Training und Wiederholung</strong> auf. Haben Sie Geduld, wenn es nicht sofort klappt.",
-      "pt": "A precaução é que esta rotina não é uma simples superstição. Michael Phelps também construiu uma forte conexão sináptica entre a rotina e o relaxamento físico através de um longo <strong>treinamento mecânico e repetição</strong>. Portanto, não se apresse se falhar no início.",
-      "id": "Tindakan pencegahannya adalah rutinitas ini bukan sekadar takhayul. Michael Phelps juga membangun koneksi sinapsis yang kuat antara rutinitas dan relaksasi fisik melalui <strong>latihan mekanis dan repetisi</strong> yang panjang. Oleh karena itu, jangan terburu-buru jika gagal di awal."
+      "ko": "주의해야 할 부분은 이 루틴이 단순한 미신이나 마법적인 부적이 아니라는 점입니다. 마이클 펠프스 역시 오랜 <strong>기계적인 훈련과 반복</strong>을 통해 루틴과 신체 이완 간의 단단한 시냅스 연결을 구축했습니다. 따라서 초기에 실패하더라도 조급해하지 말고 꾸준히 자신의 루틴을 굳혀 나가는 훈련이 필수적입니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "실전 돌입 전 고정 시간 블록 설정",
-          "en": "Setting Up a Fixed Time Block Before Action",
-          "ja": "実戦突入前の固定時間ブロック設定",
-          "zh": "在投入实战前设定固定的时间块",
-          "es": "Configurar un bloque de tiempo fijo antes de la acción",
-          "fr": "Définir un bloc de temps fixe avant l'action",
-          "de": "Festlegung eines festen Zeitfensters vor dem Start",
-          "pt": "Configurando um bloco de tempo fixo antes da ação",
-          "id": "Menetapkan Blok Waktu Tetap Sebelum Aksi"
+          "ko": "실전 돌입 전 고정 시간 블록 설정"
         },
         "text": {
-          "ko": "중요한 경쟁, 프레젠테이션, 시험 30분~2시간 전을 온전히 자신만의 시간으로 차단하여 격리합니다.",
-          "en": "Block out 30 minutes to 2 hours before a major competition, presentation, or test entirely as your own time to isolate yourself.",
-          "ja": "重要な競争、プレゼンテーション、試験の30分〜2時間前を、完全に自分だけの時間として遮断し隔離します。",
-          "zh": "将重要竞争、演示或考试前的30分钟至2小时完全锁定为个人专属时间并进行隔离。",
-          "es": "Bloquee de 30 minutos a 2 horas antes de una competencia, presentación o examen como su propio tiempo para aislarse.",
-          "fr": "Bloquez 30 minutes à 2 heures avant une compétition, une présentation ou un examen important comme votre propre temps.",
-          "de": "Blockieren Sie 30 Minuten bis 2 Stunden vor einem wichtigen Wettkampf, einer Präsentation oder einer Prüfung als Ihre eigene Zeit.",
-          "pt": "Bloqueie de 30 minutos a 2 horas antes de uma competição, apresentação ou exame importante como seu próprio tempo para se isolar.",
-          "id": "Blokir 30 menit hingga 2 jam sebelum kompetisi, presentasi, atau ujian penting sebagai waktu Anda sendiri untuk mengisolasi diri."
+          "ko": "중요한 경쟁, 프레젠테이션, 시험 30분~2시간 전을 온전히 자신만의 시간으로 차단하여 격리합니다."
         }
       },
       {
         "name": {
-          "ko": "감각 차단과 기계적 루틴의 실행",
-          "en": "Sensory Deprivation and Running the Mechanical Routine",
-          "ja": "感覚遮断と機械的ルーティンの実行",
-          "zh": "阻断感官并执行机械式惯例",
-          "es": "Privación sensorial y ejecución de la rutina mecánica",
-          "fr": "Privation sensorielle et excution de la routine mcanique",
-          "de": "Reizabschirmung und Durchführung der mechanischen Routine",
-          "pt": "Privação sensorial e execução da rotina mecânica",
-          "id": "Sensor Deprivasi dan Menjalankan Rutinitas Mekanis"
+          "ko": "감각 차단과 기계적 루틴의 실행"
         },
         "text": {
-          "ko": "노이즈 캔슬링 이어폰으로 특정 음악을 듣거나, 정해진 관절 스트레칭을 1초의 오차도 없이 일련의 순서대로 수행합니다.",
-          "en": "Listen to specific music with noise-canceling headphones, or perform designated joint stretches in a set sequence with zero error.",
-          "ja": "ノイズキャンセリングイヤホンで特定の音楽を聴いたり、決まった関節ストレッチを1秒の狂いもなく一連の順序通りに実行します。",
-          "zh": "戴上降噪耳机聆听特定音乐，或以零误差的顺序进行规定的关节拉伸。",
-          "es": "Escuche música específica con auriculares con cancelación de ruido, o realice estiramientos articulares en una secuencia establecida.",
-          "fr": "Écoutez une musique spécifique avec un casque antibruit ou effectuez des étirements articulaires dans un ordre défini.",
-          "de": "Hören Sie bestimmte Musik über Kopfhörer oder führen Sie Dehnübungen in einer festgelegten Reihenfolge fehlerfrei durch.",
-          "pt": "Ouça músicas específicas com fones de ouvido com cancelamento de ruído, ou realize alongamentos articulares em uma sequência definida.",
-          "id": "Dengarkan musik tertentu dengan headphone peredam bising, atau lakukan peregangan sendi dalam urutan yang ditentukan tanpa kesalahan."
+          "ko": "노이즈 캔슬링 이어폰으로 특정 음악을 듣거나, 정해진 관절 스트레칭을 1초의 오차도 없이 일련의 순서대로 수행합니다."
         }
       },
       {
         "name": {
-          "ko": "마인드 리허설과 편도체 안정 진입",
-          "en": "Mind Rehearsal and Entering Amygdala Stabilization",
-          "ja": "マインドリハーサルと扁桃体安定への進入",
-          "zh": "心理彩排并进入杏仁核稳定状态",
-          "es": "Ensayo mental y entrada a la estabilización de la amígdala",
-          "fr": "Rptition mentale et stabilisation de l'amygdale",
-          "de": "Mentales Training und Stabilisierung der Amygdala",
-          "pt": "Ensaio mental e entrada na estabilização da amígdala",
-          "id": "Latihan Mental dan Memasuki Stabilisasi Amigdala"
+          "ko": "마인드 리허설과 편도체 안정 진입"
         },
         "text": {
-          "ko": "행동 완료 후, 머릿속으로 자신이 치를 실전의 완벽한 성공 시나리오를 심상화하여 불안 중추를 진정시키고 준비 상태를 완료합니다.",
-          "en": "After finishing the actions, visualize the perfect success scenario of the upcoming event in your mind to calm the anxiety center.",
-          "ja": "行動完了後、頭の中で自分が臨む実戦の完璧な成功シナリオをイメージ化して不安中枢を落ち着かせ、準備状態を完了します。",
-          "zh": "动作完成后，在脑海中对即将面对的实战完美成功场景进行意象化，以平复焦虑中枢，完成准备状态。",
-          "es": "Después de terminar las acciones, visualice el escenario de éxito perfecto en su mente para calmar el centro de ansiedad.",
-          "fr": "Après les actions, visualisez le scénario de réussite parfait dans votre esprit pour calmer le centre de l'anxiété.",
-          "de": "Visualisieren Sie nach den Abläufen das perfekte Erfolgsszenario im Kopf, um das Angstzentrum zu beruhigen.",
-          "pt": "Após concluir as ações, visualize o cenário de sucesso perfeito em sua mente para acalmar o centro de ansiedade.",
-          "id": "Setelah menyelesaikan aksi, visualisasikan skenario kesuksesan sempurna dari acara mendatang untuk menenangkan pusat kecemasan."
+          "ko": "행동 완료 후, 머릿속으로 자신이 치를 실전의 완벽한 성공 시나리오를 심상화하여 불안 중추를 진정시키고 준비 상태를 완료합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "루틴을 도중에 실수로 생략하면 어떻게 되나요?",
-          "en": "What if I accidentally skip a routine step?",
-          "ja": "ルーティンを途中で誤って省略したらどうなりますか？",
-          "zh": "如果在执行常规时中途不小心漏掉了步骤会怎样？",
-          "es": "¿Qué pasa si accidentalmente me salto un paso de la rutina?",
-          "fr": "Que se passe-t-il si je saute accidentellement une étape ?",
-          "de": "Was passiert, wenn ich einen Schritt der Routine auslasse?",
-          "pt": "O que acontece se eu acidentalmente pular um passo da rotina?",
-          "id": "Bagaimana jika saya tidak sengaja melewatkan satu langkah rutinitas?"
+          "ko": "루틴을 도중에 실수로 생략하면 어떻게 되나요?"
         },
         "answer": {
-          "ko": "뇌가 예기치 못한 어긋남에 과민 반응하여 일시적으로 불안도가 더 올라갈 수 있으므로, 처음부터 다시 하거나 다음 시도로 유연하게 넘어가야 합니다.",
-          "en": "The brain may overreact to the unexpected disruption, temporarily increasing anxiety. Try starting over or flexibly move to the next step.",
-          "ja": "脳が予期せぬズレに過敏反応し、一時的に不安度がさらに上がる可能性があるため、最初からやり直すか、次の試みへ柔軟に移行する必要があります。",
-          "zh": "大脑可能会对意料之外的偏差过度反应，导致焦虑度暂时上升，因此应当从头开始，或者灵活过渡到下一个尝试。",
-          "es": "El cerebro puede reaccionar de forma exagerada a la interrupción inesperada, aumentando la ansiedad. Intente comenzar de nuevo o pase flexiblemente al siguiente paso.",
-          "fr": "Le cerveau peut réagir de manière excessive à cette rupture, ce qui augmente l'anxiété. Recommencez ou passez avec souplesse à l'étape suivante.",
-          "de": "Das Gehirn reagiert eventuell empfindlich auf die Störung, was die Angst erhöht. Fangen Sie von vorne an oder gehen Sie flexibel zum nächsten Schritt über.",
-          "pt": "O cérebro pode reagir de forma exagerada à interrupção inesperada, aumentando temporariamente a ansiedade. Tente recomeçar ou passe de forma flexível para o próximo passo.",
-          "id": "Otak dapat bereaksi berlebihan terhadap gangguan yang tidak terduga, meningkatkan kecemasan sementara. Mulailah dari awal atau lanjutkan ke langkah berikutnya."
+          "ko": "뇌가 예기치 못한 어긋남에 과민 반응하여 일시적으로 불안도가 더 올라갈 수 있으므로, 처음부터 다시 하거나 다음 시도로 유연하게 넘어가야 합니다."
         }
       }
     ]

@@ -16,23 +16,23 @@ faqs:
     answer: "Graus avançados (Grau 3 ou 4) requerem correção cirúrgica. Os cuidados em casa (peso saudável, evitar pisos lisos e exercícios) servem no Grau 1 ou 2 para retardar a evolução."
 ---
 
-Os Spitz Alemães são cães toy populares, amados por sua pelagem fofa e andar confiante. São extrovertidos e inteligentes, mas sua herança de caça pode torná-los sensíveis a sons e propensos a latir. 🐕 Os donos frequentemente enfrentam duas preocupações: a luxação patelar e o colapso traqueal (que causa uma tosse parecida com grasnido de ganso). Essas condições pioram em pisos rescorregadios. Hoje, o PetSelf apresenta uma rotina de 3 passos para as articulações e traqueia.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Evidência Veterinária e Comportamental
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este conteúdo baseia-se em <strong>Guia oficial de raças do American Pomeranian Club e manual veterinário da AVMA</strong>.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Spitz Alemão Perfil principal
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 16 anos</span></div>
@@ -43,7 +43,7 @@ Os Spitz Alemães são cães toy populares, amados por sua pelagem fofa e andar 
 
 ## 1. Linguagem corporal do Spitz Alemão: distinguindo o brincar da ansiedade
 
-Os Spitz Alemães são muito expressivos. Os sinais principais incluem a 'posição de convite para brincar' (Play Bow) e 'lamber os lábios'. Quando baixa a parte dianteira do corpo e levanta o quadril, é um convite clássico para brincar. No entanto, se parecer abanar a cauda mas lamber os lábios continuamente, é sinal de ansiedade interna. Não confunda isso com entusiasmo.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Os Spitz Alemães são muito expressivos. Os sinais principais incluem a 'posiç
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Manutenção antiderrapante e prevenção de saltos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Certifique-se de que os tapetes antiderrapantes estejam bem posicionados. Treine-os para usar escadas para pets em vez de pular.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Os Spitz Alemães são muito expressivos. Os sinais principais incluem a 'posiç
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Escovação com escova de pinos contra o pelo</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Use uma escova de pinos para escovar suavemente da cauda para a cabeça. Isso evita nós na subpelagem e permite o fluxo de ar na pele.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Os Spitz Alemães são muito expressivos. Os sinais principais incluem a 'posiç
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Massagem no pescoço e verificação do peitoral para evitar tensão traqueal</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Para proteger sua traqueia frágil, use peitoral em Y e evite coleiras. Massageie suavemente as laterais do pescoço para aliviar a tensão.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Os Spitz Alemães são muito expressivos. Os sinais principais incluem a 'posiç
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Os Spitz Alemães são muito expressivos. Os sinais principais incluem a 'posiç
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Isso costuma ser um sintoma de colapso traqueal. Mantenha a calma, pegue o pet no colo, acaricie o pescoço ou tampe as narinas por 1 segundo para forçar a respiração nasal.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Os Spitz Alemães são muito expressivos. Os sinais principais incluem a 'posiç
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Graus avançados (Grau 3 ou 4) requerem correção cirúrgica. Os cuidados em casa (peso saudável, evitar pisos lisos e exercícios) servem no Grau 1 ou 2 para retardar a evolução.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 </div>

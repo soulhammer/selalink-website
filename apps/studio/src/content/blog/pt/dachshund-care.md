@@ -16,23 +16,23 @@ faqs:
     answer: "Sustente todo o corpo dele. Coloque uma mão por baixo do peito e a outra por baixo do quadril/traseira, mantendo a coluna na horizontal."
 ---
 
-Os salsichas (Teckel) são muito queridos devido à sua silhueta única e temperamento corajoso. No entanto, o seu corpo longo e patas curtas tornam-nos extremamente propensos à doença do disco intervertebral (IVDD). Saltar de sofás ou usar escadas pode sobrecarregar severamente a sua coluna. Hoje, o PetSelf decodifica os sinais de dor nas costas do Teckel e partilha uma rotina de 3 passos para proteger a coluna e fortalecer o core do seu cão.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Evidência Veterinária e Comportamental
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este conteúdo baseia-se em <strong>Diretrizes de Saúde do Dachshund do American Kennel Club e Padrões da Associação Veterinária da Coluna</strong>.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Teckel (Dachshund) Perfil principal
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 16 anos</span></div>
@@ -43,7 +43,7 @@ Os salsichas (Teckel) são muito queridos devido à sua silhueta única e temper
 
 ## 1. Sinais de alerta na coluna do Teckel: sentar de pé e postura curvada
 
-Devido à sua coluna longa, os Teckels demonstram desconforto espinhal através de sinais discretos. Ficar de pé nas patas traseiras ('posição de pedir') coloca um peso excessivo na coluna lombar. Da mesma forma, arquear as costas ou esticar o pescoço de forma rígida são sinais de dor que requerem atenção médica.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Devido à sua coluna longa, os Teckels demonstram desconforto espinhal através 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Inspeção de mobilidade e massagem suave</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Antes de iniciar as brincadeiras, veja se ele caminha com rigidez. Faça uma massagem leve ao longo da coluna para avaliar dor.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Devido à sua coluna longa, os Teckels demonstram desconforto espinhal através 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Adequação de um espaço seguro para a coluna</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Certifique-se de que as rampas estão posicionadas junto à cama ou sofá e bloqueie escadas com grades protetoras.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Devido à sua coluna longa, os Teckels demonstram desconforto espinhal através 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Fortalecimento do core abdominal e peso ideal</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Paseie com o cão devagar em solo plano para desenvolver os músculos abdominais. Controle rigorosamente a ração diária.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Devido à sua coluna longa, os Teckels demonstram desconforto espinhal através 
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Devido à sua coluna longa, os Teckels demonstram desconforto espinhal através 
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Subir escadas gera impactos repetitivos e severos na longa coluna do Teckel. É altamente recomendado bloquear as escadas e carregá-lo no colo.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Devido à sua coluna longa, os Teckels demonstram desconforto espinhal através 
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sustente todo o corpo dele. Coloque uma mão por baixo do peito e a outra por baixo do quadril/traseira, mantendo a coluna na horizontal.
+Aplique esta rotina às suas atividades diárias para experimentar um foco profundo.
     </p>
   </details>
 </div>

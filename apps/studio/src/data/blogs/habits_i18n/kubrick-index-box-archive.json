@@ -1,0 +1,245 @@
+{
+  "slug": "kubrick-index-box-archive",
+  "translations": {
+    "en": {
+      "title": "Perfection Engineered via Second Brain: Stanley Kubrick's Index Card Archiving Habit",
+      "description": "Renowned for meticulous historical detail and flawless execution, film director Stanley Kubrick offloaded thousands of research fragments into physical index card boxes. Discover the cognitive neuroscience of working memory offloading and info chunking.",
+      "authority": "Stanley Kubrick Historical Biography, Archive Records & Cognitive Neuroscience Studies",
+      "intro": "\"Recording and organizing ideas isn't merely storing information; it is the only way to link isolated facts into a grand narrative.\" 🗃️\n\nStanley Kubrick, the legendary perfectionist director behind cinematic milestones such as *2001: A Space Odyssey*, *A Clockwork Orange*, and *The Shining*, transformed modern film aesthetics and storytelling. His masterpieces are celebrated for zero logical flaws, philosophical depth, and immaculate visual compositions. The true secret behind orchestrating these massive worldviews and extreme directorial details lay in his unique organizational habit. Throughout his life, Kubrick recorded research fragments, character dialogue, and camera angles onto 3x5-inch blue index cards using a pen, categorizing and storing them in custom wooden boxes inside his dedicated cabin. Discover the scientific mechanisms of Kubrick's archiving system, which liberated conscious mental space by externalizing knowledge outside the brain.",
+      "whyTitle": "Externalization of Working Memory and Information Chunking",
+      "whyDesc": "Cognitive science shows that human working memory can only hold 4 to 7 chunks of information simultaneously. Forcing the prefrontal cortex to retain excessive project data triggers Cognitive Overload, suppressing creative problem-solving and novel synthesis. Kubrick's index card system represents a textbook example of Cognitive Offloading. Externalizing structured information onto physical cards liberated his brain from memory stress, allowing neural circuits to focus exclusively on discovering unexpected connections and synthesizing high-level creative logic.",
+      "cautionTitle": "Avoid Information Hoarding Without Personal Reinterpretation",
+      "cautionDesc": "A common mistake when starting an archive is copying raw information without personal synthesis. Simply listing unrefined original text creates a meta-cognitive illusion of learning. Enforce the 'One Card, One Idea' rule: summarize each concept in your own words in 2 sentences or less. Maintaining high visual density allows the brain to perform associative synthesis agilely.",
+      "steps": [
+        {
+          "name": "Recording Atomic Ideas on Small Index Cards",
+          "text": "When encountering key facts or insights during research, record them on a small physical card. Write a clear tag at the top and summarize the core concept in your own words in 2 sentences or less."
+        },
+        {
+          "name": "Categorical Box Storage and Division",
+          "text": "File written cards mechanically into labeled storage boxes (e.g., Ideas, Research, Logic, Execution). Maintain broad categories until you accumulate at least 50 cards before adding complexity."
+        },
+        {
+          "name": "Random Shuffling and Associative Synthesis",
+          "text": "Once a week, draw 3-5 cards at random from different categories. Lay them out on your desk and intentionally fuse unrelated concepts to generate novel project ideas or writing themes."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can I use smartphone apps or digital notes instead of paper cards?",
+          "answer": "Yes. Digital second brain tools like Notion or Obsidian work exceptionally well. The essential principle is not the physical medium, but adhering to the 'Modular Rule' (one idea per note) and actively shuffling notes rather than letting them rot in static folders."
+        }
+      ]
+    },
+    "ja": {
+      "title": "外部の脳（Second Brain）で描く完璧主義：スタンリー・キューブリックのインデックスカード・アーカイブ習慣",
+      "description": "緻密な時代考証と完璧な演出を誇った映画監督スタンリー・キューブリック。前頭葉の記憶負荷を減らし、数万の情報を連合させて傑作を創造したアーカイブの秘訣を解説します。",
+      "authority": "スタンリー・キューブリック歴史的評伝・アーカイブ記録考証＆ Cognitive Neuroscience（認知神経科学）研究",
+      "intro": "「アイデアを記録し分類することは単なる保管ではない。それは孤立した事実を結びつけ、巨大な物語を構造化する唯一の道だ。」 🗃️\n\n『2001年宇宙の旅』『時計じかけのオレンジ』『シャイニング』などを監督し、現代映画界の視覚芸術と内面描写に金字塔を打ち立てた完璧主義の巨匠スタンリー・キューブリック。彼の作品は美学的にも哲学的に一分の隙もない設計を誇ります。彼がこの膨大な世界観と極限の演出ディテールを調律できた真の秘訣は、彼の特別な整理習慣にありました。彼は生涯、縦3インチ・横5インチの青いインデックスカードに映画のリサーチ情報、キャラクターのセリフ、視覚的構図をペンで書き留め、専用の小屋や木箱にカテゴリ別で厳格に収納していました。知識を脳の外へ排出して意識の余白を確保したキューブリックのアーカイブシステムの科学的効果を深層分析します。",
+      "whyTitle": "作業記憶（Working Memory）の外在化と情報チャンキング",
+      "whyDesc": "認知科学によると、人間が一時的に維持できる作業記憶（Working Memory）の容量はわずか4〜7個の領域に限られます。脳に過度な企画やデータを溜め込もうとすると Cognitive Overload（認知過負荷）が起き、新しいアイデアを生み出す機能が低下します。キューブリックのカード作成は記憶を外部物理媒体へ外在化（Cognitive Offloading）した代表例です。情報を小さな断片（Chunk）にして脳外に整理すれば、大脳皮質は暗記ストレスから解放され、カード間の予期せぬ結合を発見する創造的演算に専念できます。",
+      "cautionTitle": "情報を処理せずに収集するメタ認知エラーに注意",
+      "cautionDesc": "アーカイブを始める際の失敗は、収集した情報を自分の言葉に加工せずカードに転記することです。1枚のカードには必ず「1つの概念（One Card, One Idea）」のみを収め、自分の言葉で2文以内に要約することが鉄則です。視覚的に構造が一目で入る高密度のカード形態を維持してこそ、脳が連合的認知を気敏に遂行できます。",
+      "steps": [
+        {
+          "name": "単位アイデアのカード記入",
+          "text": "リサーチ中や読書中に重要なファクトやインスピレーションを得たら、小型カードにペンで手書きします。上部にタグを書き、2文以内で要約します。"
+        },
+        {
+          "name": "カテゴリ別ボックス収納",
+          "text": "作成したカードを分類された収納ボックス（アイデア、資料、論理、実行）に機械的に収納します。50枚以上溜まるまでは大分類を維持します。"
+        },
+        {
+          "name": "ランダムシャッフルと創造的結合",
+          "text": "週に1回、ボックスから無作為に3〜5枚のカードを取り出し、無関係な概念同士を融合させて新しい企画アイデアを導出します。"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "紙のカードの代わりにスマホアプリやPCメモ帳を使ってもいいですか？",
+          "answer": "はい。NotionやObsidianなどのデジタルツールでも素晴らしいセカンドブレインを構築できます。重要なのは媒体ではなく「1ページに1つの思考」というモジュール性原則と情報のリミックス習慣です。"
+        }
+      ]
+    },
+    "zh": {
+      "title": "以“外部大脑”雕琢完美：斯坦利·库布里克的索引卡片盒归档习惯",
+      "description": "以严谨考据与完美执导闻名的名导斯坦利·库布里克。探索将前额叶记忆负荷外置、整合数万碎片信息创造杰作的归档秘诀。",
+      "authority": "斯坦利·库布里克历史评传、归档记录考证与 Cognitive Neuroscience（认知神经科学）研究",
+      "intro": "“记录与分类创意绝不仅仅是保存；这是将孤立的事实连接成宏大叙事的唯一途径。” 🗃️\n\n执导《2001太空漫游》《A Clockwork Orange》《闪灵》等经典名作的完美主义巨匠斯坦利·库布里克。他的作品在美学与哲学上均展现出无可挑剔的极致设计。他调控如此庞大复杂的世界观与极端导演细节的真正秘密，就在于他独特的整理习惯。他终生习惯将所有电影调研、角色台词与镜头构图记录在3x5英寸的蓝色索引卡片上，并严格分门别类收纳于专用木盒中。通过将知识排空至大脑之外以保留意识余白，库布里的归档系统展现出极高的科学效应。",
+      "whyTitle": "工作记忆外在化与信息块化（Chunking）",
+      "whyDesc": "认知科学研究表明，人类工作记忆（Working Memory）容量一次仅能保留4-7个信息块。将过多数据强行留在脑中会导致 Cognitive Overload（认知过载）。库布里克的索引卡片是将记忆外在化（Cognitive Offloading）的典范。将信息模块化清理至脑外后，大脑皮层得以从记忆压力中解放，专注于发现卡片间的意外联系与高阶创造性运算。",
+      "cautionTitle": "警惕不加加工的信息囤积陷阱与元认知误区",
+      "cautionDesc": "归档时最常见的误区是不加加工地搬运原始信息。原则上，一张卡片只应包含“一个概念（One Card, One Idea）”，且必须用自己的语言压缩在2句话以内。保持极高密度的卡片形式，大脑才能敏捷地完成联想认知。",
+      "steps": [
+        {
+          "name": "在小卡片上记录原子创意",
+          "text": "在调研中获得重要事实或灵感时，手写于小卡片上。顶部写明标签，正文用自己的话总结在2句以内。"
+        },
+        {
+          "name": "按类别归档入盒",
+          "text": "将写好的卡片机械化地归档至预先分类的收纳盒（创意、资料、逻辑、执行）中。在积攒满50张前保持大类划分。"
+        },
+        {
+          "name": "随机重组与创造性联想",
+          "text": "每周一次从盒中随机抽取3-5张卡片，强行将无关的概念融合，碰撞出全新的项目创意与写作主题。"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "可以用Notion等数字笔记软件代替纸质卡片吗？",
+          "answer": "完全可以。使用Notion或Obsidian等数字工具同样能打造优秀的大脑。核心不在于介质，而在于坚持“单页单概念”的模块化原则与信息混合重组原则。"
+        }
+      ]
+    },
+    "es": {
+      "title": "Perfección Diseñada mediante un Segundo Cerebro: El Hábito de Archivo de Stanley Kubrick",
+      "description": "El afamado director Stanley Kubrick transfirió miles de fragmentos de investigación a tarjetas físicas, reduciendo la carga del lóbulo frontal. Descubre la neurociencia del archivo espacial y el fragmentado de información.",
+      "authority": "Biografía Histórica de Stanley Kubrick, Registros de Archivo y Estudios en Cognitive Neuroscience",
+      "intro": "\"Registrar e ideas no es solo almacenar; es la única forma de conectar hechos aislados en una gran narrativa.\" 🗃️\n\nStanley Kubrick, el legendario director perfeccionista detrás de hitos cinematográficos como *2001: Odisea del Espacio*, *La Naranja Mecánica* y *El Resplandor*, transformó la estética y la narrativa del cine moderno. Sus obras maestras son celebradas por su profundidad filosófica y composiciones visuales inmaculadas. El verdadero secreto detrás de la orquestación de estas cosmovisiones masivas residía en su hábito de organización único. A lo largo de su vida, Kubrick registró fragmentos de investigación, diálogos de personajes y ángulos de cámara en tarjetas azules de 3x5 pulgadas, categorizándolas en cajas de madera. Descubre los mecanismos científicos de este sistema que liberó espacio mental consciente.",
+      "whyTitle": "Externalización de la Memoria de Trabajo y Fragmentado de Información",
+      "whyDesc": "La ciencia cognitiva demuestra que la memoria de trabajo humana solo puede retener entre 4 y 7 datos a la vez. Forzar al cerebro a retener datos masivos causa Cognitive Overload. El sistema de tarjetas de Kubrick representa una descarga cognitiva (Cognitive Offloading) perfecta. Al estructurar la información en pequeños fragmentos fuera del cerebro, la corteza cerebral se libera del estrés del almacenamiento, permitiendo que las redes neuronales se concentren en descubrir conexiones inesperadas.",
+      "cautionTitle": "Evita la Acumulación de Información sin Reinterpretación Personal",
+      "cautionDesc": "Un error común al iniciar un archivo es copiar información sin síntesis personal. Copiar texto crudo crea una ilusión metacognitiva de aprendizaje. Aplica la regla 'Una Tarjeta, Una Idea': resume cada concepto en tus propias palabras en 2 oraciones o menos. Mantener una alta densidad visual permite al cerebro realizar síntesis asociativas con agilidad.",
+      "steps": [
+        {
+          "name": "Registrar Ideas Atómicas en Tarjetas Pequeñas",
+          "text": "Al encontrar hechos o ideas clave durante la investigación, regístralos en una tarjeta pequeña. Escribe una etiqueta clara arriba y resume el concepto en 2 oraciones o menos."
+        },
+        {
+          "name": "Almacenamiento y División por Categorías",
+          "text": "Archiva las tarjetas de forma mecánica en cajas etiquetadas (p. ej., Ideas, Investigación, Lógica, Ejecución). Mantén categorías amplias hasta acumular al menos 50 tarjetas."
+        },
+        {
+          "name": "Mezcla Aleatoria y Síntesis Creativa",
+          "text": "Una vez a la semana, saca 3-5 tarjetas al azar de diferentes categorías. Extiéndelas en tu escritorio y fusiona conceptos no relacionados para generar nuevas ideas de proyectos."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "¿Puedo usar aplicaciones o notas digitales en lugar de tarjetas de papel?",
+          "answer": "Sí. Las herramientas digitales de 'segundo cerebro' como Notion u Obsidian funcionan excepcionalmente bien. El principio esencial no es el medio físico, sino mantener la regla modular de una idea por nota y mezclar activamente la información."
+        }
+      ]
+    },
+    "de": {
+      "title": "Perfektion durch ein zweites Gehirn: Stanley Kubricks Karteikarten-Archivierungsroutine",
+      "description": "Regisseur Stanley Kubrick lagerte Tausende Recherche-Fragmente auf physische Karteikarten aus, um die präfrontale Belastung zu reduzieren. Erkunden Sie die Kognitionspsychologie der Entlastung des Arbeitsgedächtnisses.",
+      "authority": "Historische Biografie Stanley Kubricks, Archivaufzeichnungen & Cognitive Neuroscience-Studien",
+      "intro": "„Das Aufzeichnen und Organisieren von Ideen ist kein bloßes Speichern; es ist der einzige Weg, isolierte Fakten zu verbinden.“ 🗃️\n\nStanley Kubrick, der legendäre Perfektionist hinter Filmmeilensteinen wie *2001: Odyssee im Weltraum*, *Uhrwerk Orange* und *Shining*, revolutionierte die moderne Filmästhetik. Seine Meisterwerke werden für ihre philosophische Tiefe und makellosen visuellen Kompositionen gefeiert. Das wahre Geheimnis hinter der Inszenierung dieser gewaltigen Weltbilder lag in seiner einzigartigen Organisationsgewohnheit. Lebenslang hielt Kubrick Recherchefragmente, Dialoge und Kameraeinstellungen auf 3x5-Zoll-Karteikarten fest und ordnete sie in Holzkisten ein. Erfahren Sie mehr über die wissenschaftlichen Mechanismen dieses Systems.",
+      "whyTitle": "Externalisierung des Arbeitsgedächtnisses und Informations-Chunking",
+      "whyDesc": "Das menschliche Arbeitsgedächtnis kann nur 4 bis 7 Informationseinheiten gleichzeitig halten. Das Erzwingen massiver Datenspeicherung führt zu Cognitive Overload. Kubricks System war ein Lehrbuchbeispiel für Cognitive Offloading. Durch die Strukturierung von Informationen außerhalb des Gehirns wird der kortikale Stress reduziert, sodass sich das Gehirn auf das Entdecken unerwarteter Verbindungen konzentrieren kann.",
+      "cautionTitle": "Vermeiden Sie bloße Informationsansammlung ohne Reinterpretation",
+      "cautionDesc": "Ein häufiger Fehler ist das Kopieren von Rohdaten ohne eigene Synthese. Wendet man die Regel 'Eine Karte, eine Idee' an und fasst alles in 2 Sätzen zusammen, entsteht ein klar strukturierter visueller Anker, der agile Assoziationen ermöglicht.",
+      "steps": [
+        {
+          "name": "Erfassen von atomaren Ideen auf kleinen Karten",
+          "text": "Schreiben Sie wichtige Fakten auf kleine Karten, versehen Sie sie mit einem Tag und fassen Sie sie in 2 Sätzen in eigenen Worten zusammen."
+        },
+        {
+          "name": "Kategorisierte Archivierung in Kisten",
+          "text": "Ordnen Sie die Karten mechanisch in beschriftete Kisten ein (z. B. Ideen, Recherche, Logik, Ausführung)."
+        },
+        {
+          "name": "Zufälliges Mischen und kreative Synthese",
+          "text": "Ziehen Sie wöchentlich 3-5 Karten zufällig aus verschiedenen Kisten, um ungleiche Konzepte zu neuartigen Projektideen zu verknüpfen."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Kann ich digitale Notizen statt Papierkarten nutzen?",
+          "answer": "Ja. Digitale Second-Brain-Tools wie Notion oder Obsidian funktionieren hervorragend. Entscheidend ist das modulare Prinzip einer Idee pro Notiz."
+        }
+      ]
+    },
+    "fr": {
+      "title": "La perfection par le second cerveau : La routine d'archivage sur fiches de Stanley Kubrick",
+      "description": "Le réalisateur Stanley Kubrick archivait des milliers de fiches de recherche pour maîtriser des univers complexes et libérer la mémoire de travail. Découvrez la neurocognitive de l'archivage.",
+      "authority": "Biographie historique de Stanley Kubrick, Archives et Études en Cognitive Neuroscience",
+      "intro": "« Enregistrer et organiser des idées n'est pas un simple stockage ; c'est le seul moyen de lier des faits isolés en un grand récit. » 🗃️\n\nStanley Kubrick, le réalisateur perfectionniste derrière des chefs-d'œuvre tels que *2001, l'Odyssée de l'espace*, *Orange mécanique* et *Shining*, gérait ses recherches titanesques grâce à des fiches de 3x5 pouces répertoriées dans des boîtes en bois. Découvrez comment ce système d'archivage libère la mémoire de travail et stimule la créativité.",
+      "whyTitle": "Externalisation de la mémoire de travail et découpage de l'information",
+      "whyDesc": "La mémoire de travail ne peut retenir que 4 à 7 informations à la fois. Le système de Kubrick est un exemple parfait d'externalisation cognitive (Cognitive Offloading) libérant le cortex préfrontal du stress de mémorisation pour se concentrer sur les associations d'idées de haut niveau.",
+      "cautionTitle": "Éviter l'accumulation d'informations sans synthèse personnelle",
+      "cautionDesc": "Une erreur fréquente est de copier des données sans réinterprétation. Appliquez la règle 'Une fiche, Une idée' en résumant chaque concept en 2 phrases maximum pour maintenir une haute densité visuelle.",
+      "steps": [
+        {
+          "name": "Capturer des idées atomiques sur de petites fiches",
+          "text": "Notez les faits clés sur une petite fiche, ajoutez un tag et résumez l'idée en 2 phrases avec vos propres mots."
+        },
+        {
+          "name": "Archivage catégoriel et rangement",
+          "text": "Classez mécaniquement les fiches dans des boîtes répertoriées (ex. Idées, Recherche, Logique, Exécution)."
+        },
+        {
+          "name": "Mélange aléatoire et synthèse créative",
+          "text": "Tirez 3 à 5 fiches au hasard chaque semaine pour croiser des concepts inédits et générer de nouveaux projets."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Puis-je utiliser des applications digitales au lieu de fiches papier ?",
+          "answer": "Oui. Les outils digitaux comme Notion ou Obsidian fonctionnent très bien. L'essentiel est le principe modulaire d'une idée par note et le brassage régulier des informations."
+        }
+      ]
+    },
+    "pt": {
+      "title": "Perfeição Projetada via Segundo Cérebro: O Hábito de Arquivamento de Stanley Kubrick",
+      "description": "Stanley Kubrick transferiu milhares de fragmentos de pesquisa para fichas físicas, liberando a carga do córtex pré-frontal. Descubra a neurociência do arquivamento espacial.",
+      "authority": "Biografia Histórica de Stanley Kubrick, Registros de Arquivo e Estudos em Cognitive Neuroscience",
+      "intro": "\"Registrar ideias é a única maneira de conectar fatos isolados em uma grande narrativa.\" 🗃️\n\nStanley Kubrick, diretor perfeccionista de obras-primas como *2001: Uma Odisséia no Espaço*, gerenciava suas pesquisas gigantescas organizando ideias em fichas azuis de 3x5 polegadas. Descubra como essa externalização da memória amplia a capacidade criativa do cérebro.",
+      "whyTitle": "Externalização da Memória de Trabalho e Fragmentação de Informação",
+      "whyDesc": "A memória de trabalho humana retém apenas de 4 a 7 dados simultaneamente. O sistema de Kubrick representa uma Cognitive Offloading ideal, liberando o córtex pré-frontal para focar em sínteses criativas.",
+      "cautionTitle": "Evite Acumular Informação sem Síntese Pessoal",
+      "cautionDesc": "Siga a regra 'Um Cartão, Uma Ideia', resumindo em suas próprias palavras em até 2 frases para manter uma estrutura visual fácil de assimilar.",
+      "steps": [
+        {
+          "name": "Capturar Ideias em Fichas Pequenas",
+          "text": "Registre fatos essenciais em fichas pequenas e resuma em 2 frases."
+        },
+        {
+          "name": "Arquivamento Categorizado em Caixas",
+          "text": "Organize as fichas em caixas de armazenamento rotuladas (ex: Ideias, Pesquisa, Lógica, Execução)."
+        },
+        {
+          "name": "Combinação Aleatória e Síntese Criativa",
+          "text": "Retire de 3 a 5 fichas aleatoriamente por semana para criar novas conexões e ideias de projetos."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Posso usar aplicativos digitais em vez de fichas de papel?",
+          "answer": "Sim. Ferramentas digitais como Notion ou Obsidian funcionam muito bem. O essencial é manter o princípio modular de uma ideia por nota."
+        }
+      ]
+    },
+    "id": {
+      "title": "Kesempurnaan Melalui Otak Kedua: Kebiasaan Pengarsipan Kartu Indeks Stanley Kubrick",
+      "description": "Sutradara Stanley Kubrick memindahkan ribuan riset ke kartu indeks fisik untuk mengurangi beban memori kerja. Jelajahi neurosains dari pengarsipan kognitif.",
+      "authority": "Biografi Historis Stanley Kubrick, Catatan Arsip & Studi Cognitive Neuroscience",
+      "intro": "\"Mencatat dan mengorganisir ide adalah satu-satunya cara untuk menghubungkan fakta terisolasi menjadi narasi besar.\" 🗃️\n\nStanley Kubrick, sutradara perfeksionis di balik mahakarya *2001: A Space Odyssey*, mengelola riset raksasa dengan mencatat ide di kartu indeks 3x5 inci. Pelajari mekanisme ilmiah dari eksternalisasi memori ini.",
+      "whyTitle": "Eksternalisasi Memori Kerja dan Fragmentasi Informasi",
+      "whyDesc": "Memori kerja manusia hanya dapat menampung 4 hingga 7 informasi sekaligus. Sistem Kubrick adalah contoh Cognitive Offloading yang membebaskan otak dari stres penyimpanan untuk fokus pada sintesis tingkat tinggi.",
+      "cautionTitle": "Hindari Penumpukan Informasi Tanpa Sintesis Pribadi",
+      "cautionDesc": "Gunakan aturan 'Satu Kartu, Satu Ide' dengan merangkum dalam 2 kalimat saja untuk menjaga kerapatan visual yang mudah diproses otak.",
+      "steps": [
+        {
+          "name": "Mencatat Ide Atomik pada Kartu Kecil",
+          "text": "Catat fakta penting pada kartu kecil dan rangkum dalam 2 kalimat dengan bahasa Anda sendiri."
+        },
+        {
+          "name": "Pengarsipan Kategori dalam Kotak",
+          "text": "Simpan kartu secara mekanis ke dalam kotak penyimpanan berlabel (Ide, Riset, Logika, Eksekusi)."
+        },
+        {
+          "name": "Pengacakan dan Sintesis Kreatif",
+          "text": "Ambil 3-5 kartu secara acak setiap minggu untuk menggabungkan ide-ide baru dan topik penulisan."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Bisakah saya menggunakan aplikasi digital sebagai pengganti kartu kertas?",
+          "answer": "Bisa. Alat digital seperti Notion atau Obsidian bekerja sangat baik. Yang terpenting adalah prinsip modular satu ide per catatan."
+        }
+      ]
+    }
+  }
+}

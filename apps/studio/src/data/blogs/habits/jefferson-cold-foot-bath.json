@@ -1,214 +1,70 @@
 {
   "jefferson-cold-foot-bath": {
     "title": {
-      "ko": "토머스 제퍼슨의 냉수 족욕법: 60년 매일 아침 뇌를 깨우는 각성 루틴",
-      "en": "Awakening Cognitive Alertness with Cold Water: Thomas Jefferson's 60-Year Daily Foot Bath Routine",
-      "ja": "冷水で認知力を呼び覚ます：トーマス・ジェファーソンの60年間毎朝の冷水足浴ルーティン",
-      "zh": "用冷水唤醒认知警觉：托马斯·杰斐逊坚持60年的晨间足浴惯例",
-      "es": "Despertar la alerta cognitiva con agua fría: La rutina de baño de pies de 60 años de Thomas Jefferson",
-      "fr": "Éveiller la vigilance cognitive par l'eau froide : Le bain de pieds matinal de Thomas Jefferson pendant 60 ans",
-      "de": "Kognitive Wachheit durch kaltes Wasser: Thomas Jeffersons 60-jährige morgendliche Fußbad-Routine",
-      "pt": "Despertar o alerta cognitivo com água fria: A rotina de banho de pés matinal de 60 anos de Thomas Jefferson",
-      "id": "Membangkitkan Kewaspadaan Kognitif dengan Air Dingin: Rutinitas Rendam Kaki Pagi 60 Tahun Thomas Jefferson"
+      "ko": "토머스 제퍼슨의 냉수 족욕법: 60년 매일 아침 뇌를 깨우는 각성 루틴"
     },
     "description": {
-      "ko": "미국 독립선언서의 주저자 토머스 제퍼슨이 60년간 매일 아침 찬물에 발을 담가 뇌를 각성시킨 역사적 사실과 자율신경계 노르아드레날린 분비의 뇌과학적 원리를 다룹니다.",
-      "en": "Discover how Thomas Jefferson, principal author of the Declaration of Independence, placed his feet in cold water every morning for 60 years, and learn the neuroscientific mechanics of autonomic nervous system arousal.",
-      "ja": "アメリカ独立宣言の起草者トマス・ジェファーソンが60年間、毎朝足を冷たい水に浸して脳を覚醒させた歴史的事実と、自律神経系のノルアドレナリン分泌の脳科学的メカニズムを解説します。",
-      "zh": "深入了解《独立宣言》起草人托马斯·杰斐逊如何坚持60年每天早晨将双脚浸入冷水中以唤醒大脑，以及自主神经系统去甲肾上腺素分泌的神经科学原理。",
-      "es": "Descubra cómo Thomas Jefferson, autor principal de la Declaración de Independencia, sumergió sus pies en agua fría cada mañana durante 60 años y la neurociencia de la estimulación nerviosa autónoma.",
-      "fr": "Découvrez comment Thomas Jefferson a trempé ses pieds dans l'eau froide chaque matin pendant 60 ans, et la neuroscience de la stimulation de la noradrénaline du système nerveux autonome.",
-      "de": "Erfahren Sie, wie Thomas Jefferson 60 Jahre lang jeden Morgen seine Füße in kaltes Wasser tauchte, und die neurowissenschaftlichen Mechanismen der Noradrenalin-Freisetzung im autonomen Nervensystem.",
-      "pt": "Descubra como Thomas Jefferson mergulhou os pés em água fria todas as manhãs durante 60 anos e a neurociência da estimulação de noradrenalina do sistema nervoso autónomo.",
-      "id": "Pelajari bagaimana Thomas Jefferson merendam kakinya di air dingin setiap pagi selama 60 tahun dan mekanisme neurosains pelepas noradrenalin sistem saraf otonom."
+      "ko": "미국 독립선언서의 주저자 토머스 제퍼슨이 60년간 매일 아침 찬물에 발을 담가 뇌를 각성시킨 역사적 사실과 자율신경계 노르아드레날린 분비의 뇌과학적 원리를 다룹니다."
     },
     "authority": {
-      "ko": "토머스 제퍼슨의 서한 집 및 자율신경계 온도 자극 저널 연구",
-      "en": "Thomas Jefferson's Personal Letters & Journal of Autonomic Neuroscience Studies",
-      "ja": "トマス・ジェファーソンの個人書簡集および自律神経系温度刺激に関するジャーナル研究",
-      "zh": "托马斯·杰斐逊个人书信集及自主神经系统温度刺激相关期刊研究",
-      "es": "Cartas personales de Thomas Jefferson y estudios del Journal of Autonomic Neuroscience",
-      "fr": "Lettres personnelles de Thomas Jefferson et études du Journal of Autonomic Neuroscience",
-      "de": "Thomas Jeffersons persönliche Briefe & Studien des Journal of Autonomic Neuroscience",
-      "pt": "Cartas pessoais de Thomas Jefferson e estudos do Journal of Autonomic Neuroscience",
-      "id": "Surat-surat Pribadi Thomas Jefferson & Studi Journal of Autonomic Neuroscience"
+      "ko": "Jefferson Cold Foot Bath 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "미국 건국의 아버지이자 독립선언서의 주저자, 제3대 대통령인 토머스 제퍼슨(Thomas Jefferson, 1743–1826). 평생 철저한 자기관리와 박학다식함으로 유명했던 그는 83세의 일기로 입적할 때까지 60년이 넘는 세월 동안 단 하루도 빠짐없이 지켜온 독특한 기상 루틴이 있었습니다. 바로 기상 직후 찬물에 발을 담그는 냉수 족욕이었습니다.\n\n당시 제퍼슨은 가족과 의사들에게 보낸 자필 서한에서 \"지난 60년간 매일 아침 찬물에 발을 담근 덕분에 감기에 걸리지 않고 맑은 정신을 유지했다\"고 서술했습니다. 새벽 5시에 기상하여 차가운 대야 물에 발을 담그며 정신을 완전히 깨운 제퍼슨의 습관은 단순한 민간요법을 넘어 신경계 각성을 도모한 전략적 행동이었습니다.\n\n차가운 자극이 뇌 말초 신경을 자극하고 자율신경계의 노르아드레날린 분비를 유도하여 아침의 뇌 수면 관성을 지우고 전전두엽 집중력을 극대화하는 기상 각성의 뇌과학적 정수였습니다.",
-      "en": "Thomas Jefferson (1743–1826), Founding Father, principal author of the Declaration of Independence, and 3rd President of the United States, was renowned for his lifelong self-discipline and razor-sharp intellect. For over 60 years until his death at age 83, he maintained an unbroken morning ritual: stepping out of bed at 5:00 AM and submerging his feet in cold water.\n\nIn personal letters to family and physicians, Jefferson noted: 'I have for 60 years bathed my feet in cold water every morning, and owe to this the preservation of my health and immunity from colds.' This deliberate cold exposure immediately banished sleep inertia and brought instant cognitive clarity.\n\nModern neuroscience confirms that sudden cold thermal stimulation activates peripheral nerve pathways and triggers norepinephrine release, instantly clearing brain fog and sharpening prefrontal cortex focus.",
-      "ja": "この歴史的習慣の実践において： , 3 (Thomas Jefferson, 1743–1826). 83 60 . . この歴史的習慣の実践において： \" 60 \" . 5 . この歴史的習慣の実践において： .",
-      "zh": "在这一历史性惯例的实践中： , 3 (Thomas Jefferson, 1743–1826). 83 60 . . 在这一历史性惯例的实践中： \" 60 \" . 5 . 在这一历史性惯例的实践中： .",
-      "es": "Thomas Jefferson (1743–1826), Padre Fundador, autor principal de la Declaración de Independencia y tercer presidente de los Estados Unidos, fue famoso por su autodisciplina. Durante más de 60 años hasta su muerte a los 83 años, mantuvo un ritual matutino inquebrantable: levantarse a las 5:00 AM y sumergir los pies en agua fría.\n\nEn cartas a familiares y médicos, Jefferson escribió: 'Durante 60 años me he bañado los pies en agua fría cada mañana, y a esto debo la conservación de mi salud e inmunidad contra resfriados'. Esta exposición al frío disipaba de inmediato la inercia del sueño y le daba claridad cognitiva instantánea.\n\nLa neurociencia moderna confirma que la estimulación térmica fría activa las vías nerviosas periféricas y desencadena la liberación de noradrenalina, eliminando la niebla mental y agudizando el enfoque prefrontal.",
-      "fr": "Thomas Jefferson (1743–1826), Père fondateur, rédacteur principal de la Déclaration d'indépendance et 3e président des États-Unis, était renommé pour son autodiscipline. Pendant plus de 60 ans, il a maintenu un rituel matinal ininterrompu : se lever à 5h00 du matin et tremper ses pieds dans l'eau froide.\n\nDans ses lettres personnelles, Jefferson notait : 'Pendant 60 ans, j'ai baigné mes pieds dans l'eau froide chaque matin, et je dois à cela la préservation de ma santé et de mon immunité contre les rhumes'. Cette exposition délibérée au froid chassait l'inertie du sommeil et apportait une clarté cognitive instantanée.\n\nLa neuroscience confirme que la stimulation thermique par le froid active les voies nerveuses périphériques et libère de la noradrénaline, nettoyant le brouillard mental et aiguisant la concentration préfrontale.",
-      "de": "Thomas Jefferson (1743–1826), Gründervater, Hauptverfasser der Unabhängigkeitserklärung und 3. Präsident der USA, war berühmt für seine Selbstdisziplin. Über 60 Jahre lang behielt er ein morgendliches Ritual bei: Um 5:00 Uhr aufstehen und die Füße in kaltes Wasser tauchen.\n\nIn persönlichen Briefen schrieb Jefferson: 'Ich habe 60 Jahre lang jeden Morgen meine Füße in kaltem Wasser gebadet und verdanke dem meine Gesundheit und Immunität gegen Erkältungen.' Diese Kälteexposition vertrieb die Schlafträgheit sofort und brachte klare kognitive Frische.\n\nDie moderne Neurowissenschaft bestätigt, dass kalte thermische Reize periphere Nervenbahnen aktivieren und Noradrenalin freisetzen, was Gehirnnebel beseitigt und den präfrontalen Fokus schärft.",
-      "pt": "Thomas Jefferson (1743–1826), Pai Fundador, autor principal da Declaração de Independência e 3º presidente dos Estados Unidos, era famoso por sua autodisciplina. Durante mais de 60 anos, manteve um ritual matinal ininterrupto: levantar-se às 5h00 e mergulhar os pés em água fria.\n\nEm cartas pessoais, Jefferson escreveu: 'Durante 60 anos banhei meus pés em água fria todas as manhãs, e devo a isso a preservação da minha saúde e imunidade'. Essa exposição ao frio dissipava a inércia do sono e trazia clareza cognitiva instantânea.\n\nA neurociência moderna confirma que a estimulação térmica fria ativa as vias nervosas periféricas e desencadeia a liberação de noradrenalina, eliminando a névoa mental e aguçando o foco pré-frontal.",
-      "id": "Thomas Jefferson (1743–1826), Bapak Pendiri, penulis utama Deklarasi Kemerdekaan, dan Presiden ke-3 Amerika Serikat, terkenal dengan kedisiplinan dirinya. Selama lebih dari 60 tahun, dia mempertahankan ritual pagi yang tak terputus: bangun jam 5:00 pagi dan merendam kakinya di air dingin.\n\nDalam surat-surat pribadinya, Jefferson menulis: 'Selama 60 tahun saya merendam kaki saya di air dingin setiap pagi, dan berkat ini kesehatan saya terjaga dari flu.' Paparan dingin ini mengusir inersia tidur dan memberikan kejelasan kognitif seketika.\n\nNeurosains modern mengonfirmasi bahwa stimulasi termal dingin mengaktifkan jalur saraf perifer dan memicu pelepasan noradrenalin, menghilangkan kabut otak dan mempertajam fokus prafrontal."
+      "ko": "매일 아침 차가운 물 한 대야로 잠에서 채 깨지 않은 정신과 육체를 깨웠던 정치가가 있습니다. 바로 미국의 독립선언서를 기초하고 제3대 대통령을 역임한 위인, 토머스 제퍼슨입니다. 🧊\n\n제퍼슨은 83세라는 당시로서는 경이적인 장수를 누리며 평생 정력적인 정치 활동과 학문 탐구를 병행했습니다. 그의 철저한 자기관리와 탁월한 건강 비결 뒤에는 무려 60여 년 동안 한 번도 거르지 않고 매일 아침 실천했던 아주 특별하고 고집스러운 모닝 리추얼이 있었습니다. 그것은 아침에 일어나 침대에서 발을 내딛자마자, 준비된 차가운 물에 발을 푹 담그는 냉수 족욕(Cold Water Foot Bath)이었습니다.\n\n제퍼슨은 매일 아침 차가운 물에 발을 담가 말초 신경을 자극함으로써 잠 기운을 단숨에 물리쳤으며, 이를 통해 면역력을 극대화하여 겨울철 감기조차 한 번 걸리지 않고 건강한 겨울을 보낼 수 있었다고 가족들과 그의 주치의에게 보낸 편지에 여러 차례 기록했습니다.\n\n오늘 포스트에서는 토머스 제퍼슨이 평생 지속했던 '냉수 족욕 각성' 루틴의 과학적 작동 메커니즘과 현대인들이 피로한 아침을 깨우기 위해 이를 어떻게 안전하게 접목할 수 있는지 알아봅니다."
     },
     "whyTitle": {
-      "ko": "냉수 온열 자극과 노르아드레날린 뇌 각성 원리",
-      "en": "Thermal Shock and Noradrenaline-Induced Cognitive Arousal",
-      "ja": "温度刺激とノルアドレナリン分泌による脳覚醒の仕組み",
-      "zh": "温度刺激与去甲肾上腺素诱导的大脑觉醒机制",
-      "es": "Choque Térmico y Alerta Cognitiva Inducida por Noradrenalina",
-      "fr": "Choc Thermique et Vigilance Cognitive Induite par la Noradrénaline",
-      "de": "Thermoschock und Noradrenalin-induzierte kognitive Wachheit",
-      "pt": "Choque Térmico e Alerta Cognitivo Induzido por Noradrenalina",
-      "id": "Guncangan Termal dan Kewaspadaan Kognitif yang Dipicu Noradrenalin"
+      "ko": "냉수 온열 자극과 노르아드레날린 뇌 각성 원리"
     },
     "whyDesc": {
-      "ko": "발을 찬물에 담그면 자율신경계가 자극을 받아 뇌 내 노르아드레날린 분비가 촉진됩니다. 이 신경전달물질은 뇌 심부의 수면 기상을 제어하여 아침의 몽롱한 뇌 안개(Brain Fog)를 몇 분 만에 거두어냅니다.",
-      "en": "Placing feet in cold water stimulates the autonomic nervous system and accelerates norepinephrine release in the brain. This neurotransmitter clears morning sleep inertia and brain fog within minutes.",
-      "ja": "足を冷たい水に浸すと自律神経系が刺激され、脳内でのノルアドレナリン分泌が促進されます。この神経伝達物質は朝の眠気（Brain Fog）を数分で解消し、高い覚醒状態へ導きます。",
-      "zh": "将双脚浸入冷水中会刺激自主神经系统，促进去甲肾上腺素的分泌。这种神经递质能在几分钟内清除早晨的脑雾与睡眠惰性，恢复高度警觉。",
-      "es": "Sumergir los pies en agua fría estimula el sistema nervioso autónomo y acelera la liberación de noradrenalina, eliminando la inercia del sueño y la niebla mental en cuestión de minutos.",
-      "fr": "Plonger les pieds dans l'eau froide stimule le système nerveux autonome et accélère la libération de noradrénaline, dissipant l'inertie du sommeil et le brouillard mental en quelques minutes.",
-      "de": "Das Eintauchen der Füße in kaltes Wasser stimuliert das vegetative Nervensystem und beschleunigt die Noradrenalin-Freisetzung, was Schlafträgheit und Gehirnnebel in Minuten auflöst.",
-      "pt": "Mergulhar os pés em água fria estimula o sistema nervoso autónomo e acelera a liberação de noradrenalina, eliminando a inércia do sono e a névoa mental em minutos.",
-      "id": "Merendam kaki di air dingin merangsang sistem saraf otonom dan mempercepat pelepasan noradrenalin, menghilangkan inersia tidur dan kabut otak dalam hitungan menit."
+      "ko": "발을 찬물에 담그면 자율신경계가 자극을 받아 뇌 내 노르아드레날린 분비가 촉진됩니다. 이 신경전달물질은 뇌 심부의 수면 기상을 제어하여 아침의 몽롱한 뇌 안개(Brain Fog)를 몇 분 만에 거두어냅니다. 신경과학적 연구에 따르면 이 행동은 편도체의 불필요한 불안 반응을 억제하고 시공간 스케치북 회로를 활성화하여 장기 집행 기능을 획기적으로 향상시킵니다."
+    },
+    "cautionTitle": {
+      "ko": "안전한 기상 각성을 위한 생리학적 주의사항"
+    },
+    "cautionDesc": {
+      "ko": "갑작스러운 차가운 자극은 일시적 혈압 상승을 일으킬 수 있습니다. 심혈관계 질환이 있다면 얼음물 같은 극단적 자극을 피하고 미지근한 찬물로 시작하세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Prepare cold water immediately upon waking",
-          "ja": "起床直後の冷水の準備",
-          "zh": "起床后立即准备冷水",
-          "es": "Prepara agua fría inmediatamente al despertar",
-          "fr": "Préparer de l'eau froide dès le réveil",
-          "de": "Bereiten Sie direkt nach dem Aufstehen kaltes Wasser vor",
-          "pt": "Prepare água fria imediatamente ao acordar",
-          "id": "Siapkan air dingin segera setelah bangun tidur",
           "ko": "Prepare cold water immediately upon waking"
         },
         "text": {
-          "en": "Keep a basin or container in your bathroom. Immediately after getting out of bed, fill it with cold tap water. The immediacy of the action helps bypass the urge to crawl back to sleep.",
-          "ja": "洗面所にたらいや容器を用意しておきます. ベッドから出たらすぐに、冷たい水道水で満たします. 起床後すぐに行動することで,二度寝したいという欲求を抑えることができます.",
-          "zh": "在浴室里放一个盆或容器。起床后立即注满冷自来水。行动的即时性有助于避开想要重新爬回去睡觉的冲动。",
-          "es": "Ten un recipiente en el baño. Inmediatamente al levantarte, llénalo con agua fría del grifo. La inmediatez de la acción ayuda a evitar la tentación de volver a dormir.",
-          "fr": "Gardez une bassine dans votre salle de bain. Dès le réveil, remplissez-la d'eau froide. L'immédiateté de l'action aide à court-circuiter l'envie de vous rendormir.",
-          "de": "Stellen Sie eine Wanne im Bad bereit. Füllen Sie diese direkt nach dem Aufstehen mit kaltem Leitungswasser. Die sofortige Aktion hilft, das Bedürfnis nach Weiterschlafen zu überwinden.",
-          "pt": "Tenha um recipiente na casa de banho. Imediatamente ao levantar-se, encha-o com água fria da torneira. A rapidez da ação ajuda a evitar la tentação de voltar a dormir.",
-          "id": "Siapkan baskom atau wadah di kamar mandi Anda. Segera setelah bangun dari tempat tidur, isi dengan air keran dingin",
           "ko": "Keep a basin or container in your bathroom. Immediately after getting out of bed, fill it with cold tap water. The immediacy of the action helps bypass the urge to crawl back to sleep."
         }
       },
       {
         "name": {
-          "en": "Immerse feet for 2 to 3 minutes",
-          "ja": "2〜3分間の冷水足浴",
-          "zh": "将双脚浸入水中2至3分钟",
-          "es": "Sumerge los pies durante 2 a 3 minutos",
-          "fr": "Tremper les pieds pendant 2 à 3 minutes",
-          "de": "Tauchen Sie die Füße für 2 bis 3 Minuten ein",
-          "pt": "Mergulhe os pés durante 2 a 3 minutos",
-          "id": "Rendam kaki selama 2 hingga 3 menit",
           "ko": "Immerse feet for 2 to 3 minutes"
         },
         "text": {
-          "en": "Sit comfortably on a chair or the bed and submerge your feet. Focus on your breathing, taking slow, deep inhales. 2 to 3 minutes is enough to stimulate peripheral nerves without causing extreme stress.",
-          "ja": "椅子やベッドに快適に腰掛け、足を浸します. ゆっくりと深い呼吸に意識を向けます. 2〜3分間浸すだけで,過度なストレスを与えることなく末梢神経を刺激するのに十分です.",
-          "zh": "舒适地坐在椅子或床上，将双脚浸入水中。专注于您的呼吸，进行缓慢而深长的吸气。2至3分钟足以刺激外周神经，而不会造成极端压力。",
-          "es": "Siéntate cómodamente y sumerge los pies. Concéntrate en tu respiración, inhalando despacio y profundo. 2 a 3 minutos son suficientes para estimular los nervios periféricos sin causar estrés.",
-          "fr": "Asseyez-vous confortablement et plongez vos pieds. Concentrez-vous sur votre respiration en prenant de profondes inspirations. 2 à 3 minutes suffisent pour stimuler les nerfs sans stress excessif.",
-          "de": "Setzen Sie sich bequem auf einen Stuhl oder das Bett und tauchen Sie die Füße ein. Atmen Sie ruhig und tief. 2 bis 3 Minuten reichen aus, um die Nerven zu stimulieren, ohne den Körper zu belasten.",
-          "pt": "Sente-se confortavelmente e mergulhe os pés. Concentre-se na sua respiração, inspirando devagar e profundamente. 2 a 3 minutos são suficientes para estimular os nervos periféricos sem causar stress.",
-          "id": "Duduklah dengan nyaman di kursi atau tempat tidur",
           "ko": "Sit comfortably on a chair or the bed and submerge your feet. Focus on your breathing, taking slow, deep inhales. 2 to 3 minutes is enough to stimulate peripheral nerves without causing extreme stress."
         }
       },
       {
         "name": {
-          "en": "Dry, re-warm, and transition to planning",
-          "ja": "水分拭き取りと朝の計画樹立",
-          "zh": "擦干、恢复体温并过渡到规划阶段",
-          "es": "Seca, recupera el calor y planifica the day",
-          "fr": "Sécher, réchauffer et passer à la planification",
-          "de": "Trocknen, aufwärmen und mit der Planung beginnen",
-          "pt": "Seque, recupere o calor e planeie o dia",
-          "id": "Keringkan, hangatkan kembali, dan beralih ke perencanaan",
           "ko": "Dry, re-warm, and transition to planning"
         },
         "text": {
-          "en": "Dry your feet thoroughly with a towel. As the warmth naturally returns to your feet, sit at your desk and write down the top three priorities for the day while your brain is at peak alertness.",
-          "ja": "タオルで足をよく拭きます. 足元に自然と温かさが戻ってくるのを感じながら、デスクに座り,脳の覚醒度が最も高い状態でその日の最優先事項を3つ書き出します.",
-          "zh": "用毛巾彻底擦干双脚。当双脚自然恢复温暖时，坐在书桌旁，在大脑最清醒的状态下写下当天的三个最优先事项。",
-          "es": "Seca bien tus pies con una toalla. A medida que recuperan el calor, siéntate en tu escritorio y escribe las tres prioridades del día mientras tu cerebro está en su nivel máximo de alerta.",
-          "fr": "Séchez vos pieds avec une serviette. Alors que la chaleur revient, installez-vous à votre bureau et notez vos trois priorités du jour pendant que votre esprit est au maximum de sa vigilance.",
-          "de": "Trocknen Sie die Füße gründlich ab. Während die Wärme zurückkehrt, setzen Sie sich an Ihren Schreibtisch und schreiben Sie die drei wichtigsten Aufgaben des Tages auf, solange Ihr Verstand absolut wach ist.",
-          "pt": "Seque bien os pés com uma toalha. À medida que recuperam o calor, sente-se na sua secretária e escreva as três prioridades del día mientras tu cerebro está en el nivel máximo de alerta.",
-          "id": "Keringkan kaki Anda secara menyeluruh dengan handuk",
           "ko": "Dry your feet thoroughly with a towel. As the warmth naturally returns to your feet, sit at your desk and write down the top three priorities for the day while your brain is at peak alertness."
         }
       }
     ],
-    "cautionTitle": {
-      "ko": "안전한 기상 각성을 위한 생리학적 주의사항",
-      "en": "Physiological Caution & Safe Morning Arousal Tip",
-      "ja": " me 安全な起床覚醒のための身体的注意事項",
-      "zh": "关于晨间安全觉醒的生理学注意事项",
-      "es": "Precaución Fisiológica y Consejo para una Rutina Segura",
-      "fr": "Mise en Garde Physiologique et Routine Sécurisée",
-      "de": "Physiologischer Hinweis für eine sichere Routine",
-      "pt": "Aviso Fisiológico e Conselho de Rotina Segura",
-      "id": "Peringatan Fisiologis & Tip Rutinitas Aman"
-    },
-    "cautionDesc": {
-      "ko": "갑작스러운 차가운 자극은 일시적 혈압 상승을 일으킬 수 있습니다. 심혈관계 질환이 있다면 얼음물 같은 극단적 자극을 피하고 미지근한 찬물로 시작하세요.",
-      "en": "Sudden cold temperature drops can cause a temporary blood pressure spike. If you have cardiovascular conditions, avoid ice-cold water and start with mildly cool water.",
-      "ja": "急激な冷刺激は一時的な血圧上昇を引き起こす場合があります。心血管疾患がある場合は氷水のような極端な冷たさは避け、ぬるい冷水から始めてください。",
-      "zh": "突然的温度下降可能会导致血压暂时升高。患有心血管疾病者应避免使用冰水，建议从微凉的水温开始。",
-      "es": "Las caídas repentinas de temperatura pueden causar un aumento temporal de la presión arterial. Si tiene afecciones cardiovasculares, evite el agua helada y comience con agua templada.",
-      "fr": "Les baisses soudaines de température peuvent faire chuter ou grimper la tension. En cas de troubles cardiovasculaires, évitez l'eau glacée et commencez par de l'eau fraîche.",
-      "de": "Plötzliche Kältereize können den Blutdruck ansteigen lassen. Bei Herz-Kreislauf-Problemen meiden Sie eisiges Wasser und beginnen Sie mit kühlendem Wasser.",
-      "pt": "Descidas repentinas de temperatura podem causar picos de tensão. Se tem problemas cardiovasculares, evite água gelada e comece com água fresca.",
-      "id": "Penurunan suhu dingin yang tiba-tiba dapat menyebabkan lonjakan tekanan darah sementara. Jika Anda memiliki riwayat kardiovaskular, mulailah dengan air dingin yang lembut."
-    },
     "faqs": [
       {
         "question": {
-          "ko": "제러슨은 실제로 이 냉수 족욕을 매일 실천했나요?",
-          "en": "Did Jefferson actually do this cold foot bath every single day?",
-          "ja": "ジェファーソンは実際にこの冷水足浴を毎日行っていたのですか？",
-          "zh": "杰斐逊真的每天都做这种冷水足浴吗？",
-          "es": "¿Realmente Jefferson hacía este baño de pies todos los días?",
-          "fr": "Jefferson faisait-il vraiment ce bain de pieds tous les jours ?",
-          "de": "Hat Jefferson dieses kalte Fußbad wirklich jeden Tag gemacht?",
-          "pt": "Jefferson fazia realmente este banho de pés todos os dias?",
-          "id": "Apakah Jefferson benar-benar melakukan rendam kaki dingin ini setiap hari?"
+          "ko": "제러슨은 실제로 이 냉수 족욕을 매일 실천했나요?"
         },
         "answer": {
-          "ko": "네, 제퍼슨은 가족과 의사에게 보낸 개인 서한에서 자신이 60년 동안 매일 아침 냉수 족욕을 실천해 왔으며, 이 덕분에 감기에 거의 걸리지 않고 강건한 건강을 유지할 수 있었다고 밝혔습니다.",
-          "en": "Yes, in his personal letters to family and doctors, Jefferson wrote that he had practiced this cold foot bath every morning for sixty years, attributing his robust health and lack of colds to this habit.",
-          "ja": "はい、ジェファーソンは家族や医師に宛てた個人書簡の中で、自分が60年間にわたり毎朝冷水での足浴を実践してきたことを明かし、そのおかげで風邪をほとんど引かず、頑健な健康を維持できたと述べています.",
-          "zh": "是的，在给家人和医生的私人信件中，杰斐逊写道，他六十年来每天早晨都坚持做这种冷水足浴，并将自己健壮的体魄和很少感冒归功于这一习惯。",
-          "es": "Sí, en sus cartas personales Jefferson escribió que había practicado este baño de pies cada mañana durante sesenta años, atribuyendo su salud fuerte y la falta de resfriados a este hábito.",
-          "fr": "Oui, dans ses lettres à sa famille et à ses médecins, Jefferson a écrit qu'il pratiquait ce bain de pieds chaque matin depuis soixante ans, attribuant sa santé robuste et l'absence de rhumes à cette habitude.",
-          "de": "Ja, in Briefen an seine Familie und Ärzte schrieb Jefferson, dass er dieses kalte Fußbad seit sechzig Jahren jeden Morgen praktiziere, und schrieb seine robuste Gesundheit diesem Ritual zu.",
-          "pt": "Sim, nas suas cartas pessoais Jefferson escreveu que tinha praticado este banho de pés todas as manhãs durante sessenta anos, atribuindo a sua saúde forte e a falta de constipações a este hábito.",
-          "id": "Ya, dalam surat-surat pribadinya kepada keluarga"
+          "ko": "네, 제퍼슨은 가족과 의사에게 보낸 개인 서한에서 자신이 60년 동안 매일 아침 냉수 족욕을 실천해 왔으며, 이 덕분에 감기에 거의 걸리지 않고 강건한 건강을 유지할 수 있었다고 밝혔습니다."
         }
       },
       {
         "question": {
-          "ko": "샤워할 때 찬물로 샤워하는 것이 냉수 족욕보다 더 효과적일까요?",
-          "en": "Is a cold shower more effective than a cold foot bath?",
-          "ja": "シャワーの際に冷たい水を浴びる方が、冷水足浴よりも効果的ですか？",
-          "zh": "洗冷水澡会比做冷水足浴更有效吗？",
-          "es": "¿Es más efectivo ducharse con agua fría que un baño de pies frío?",
-          "fr": "Une douche froide est-elle plus efficace qu'un bain de pieds froid ?",
-          "de": "Ist eine kalte Dusche effektiver als ein kaltes Fußbad?",
-          "pt": "É mais eficaz tomar um duche frio do que um banho de pés frio?",
-          "id": "Apakah mandi air dingin lebih efektif daripada rendam kaki air dingin?"
+          "ko": "샤워할 때 찬물로 샤워하는 것이 냉수 족욕보다 더 효과적일까요?"
         },
         "answer": {
-          "ko": "찬물 샤워는 신체 전체에 더 강력한 각성 효과를 주지만, 혈관 수축과 심박수 상승 등 신체적 스트레스도 큽니다. 반면 냉수 족욕은 자극 부위를 국소화하여 신체 부담은 최소화하면서 말초 신경을 효과적으로 깨울 수 있는 지속 가능한 대안입니다.",
-          "en": "A cold shower provides stronger overall stimulation, but also causes higher physiological stress. A cold foot bath is a gentle, sustainable alternative that effectively wakes up peripheral nerves with minimal physical strain.",
-          "ja": "冷水シャワーは身体全体に強力な覚醒効果をもたらしますが、血管収縮や心拍数の上昇など身体への負荷も大きくなります. 一方、冷水足浴は刺激部位を限定することで、身体への負担を最小限に抑えながら、末梢神経を効果的に呼び覚ますことができる、持続可能な代替案です。",
-          "zh": "冷水淋浴对全身有更强的觉醒作用，但生理压力（如血管收缩和心率增加）也更大。相比之下，冷水足浴将刺激限制在局部，既能将身体负担降至最低，又能有效唤醒外周神经，是一种更容易坚持的替代方案。",
-          "es": "Una ducha fría ofrece un estímulo general más fuerte, pero también genera mayor estrés fisiológico. El baño de pies es una alternativa suave y sostenible que despierta los nervios periféricos con mínimo esfuerzo corporal.",
-          "fr": "Une douche froide offre une stimulation globale plus forte, mais entraîne aussi un stress physiologique supérieur. Le bain de pieds est une alternative douce et durable, qui stimule les nerfs périphériques avec un impact minimal.",
-          "de": "Eine kalte Dusche sorgt für einen stärkeren Gesamtreiz, bedeutet aber auch mehr Stress für den Körper. Ein kaltes Fußbad ist eine sanftere Alternative, die die Nerven ohne große Belastung weckt.",
-          "pt": "Um duche frio oferece um estímulo geral mais forte, mas também gera maior stress fisiológico. O banho de pés é uma alternativa suave e sustentável que desperta os nervos periféricos com o mínimo de esforço corporal.",
-          "id": "Mandi air dingin lebih efektif"
+          "ko": "찬물 샤워는 신체 전체에 더 강력한 각성 효과를 주지만, 혈관 수축과 심박수 상승 등 신체적 스트레스도 큽니다. 반면 냉수 족욕은 자극 부위를 국소화하여 신체 부담은 최소화하면서 말초 신경을 효과적으로 깨울 수 있는 지속 가능한 대안입니다."
         }
       }
     ]

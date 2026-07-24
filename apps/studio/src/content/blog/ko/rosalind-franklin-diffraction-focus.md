@@ -1,14 +1,14 @@
 ---
 title: "DNA 구조 비밀을 밝힌 여성 과학자? 로잘린드 프랭클린의 0.1도 정밀 검수 루틴"
 description: "DNA 이중나선 사진 'Photo 51'을 완성한 로잘린드 프랭클린의 타협 없는 0.1도 미세 오차 검수 습관과 현대인을 위한 정밀성 강화 가이드."
-pubDate: "2026-02-24"
-updatedDate: "2026-02-24"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
-heroImage: "/images/blog/rosalind_franklin_diffraction_focus.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/rosalind_franklin_diffraction_focus.png"
 app: "buildself"
 formatVersion: 4
-authority: "브렌다 매독스 전기 'Rosalind Franklin: The Dark Lady of DNA' 및 킹스 콜리지 아카이브"
+authority: "로잘린드 프랭클린 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "10분 정밀 검수 골든 타임 확보"
     text: "보고서 제출, 코드 배포, 기획안 완결 직전 10분을 오직 오류 검수만을 위한 전용 시간으로 확보합니다."
@@ -21,6 +21,7 @@ faqs:
     answer: "나중에 오타나 숫자가 틀려 수정하고 사과하고 재작업하는 데 드는 시간이 10배 더 큽니다. 사전 10분 검수가 결국 가장 빠른 길입니다."
   - question: "텍스트나 일반 직무에서도 정량 대조를 쓸 수 있나요?"
     answer: "네! 날짜, 맞춤법, 첨부파일 링크, 고객명 등 오류가 나기 쉬운 핵심 요소 3가지를 정량적 체크리스트로 만들어 동일하게 적용할 수 있습니다."
+
 ---
 
 20세기 생명과학 역사상 가장 위대한 발견으로 손꼽히는 DNA 이중선구조 해독의 결정적 열쇠인 '51번 사진(Photo 51)'을 촬영하고 탄소 및 바이러스 결정학의 새 지평을 연 영국의 여성 물리화학자, 로잘린드 프랭클린(Rosalind Franklin). 수많은 편견과 척박한 연구 환경 속에서도 그녀가 도출해낸 실험 데이터들은 단 0.01%의 오차도 허용하지 않는 완벽함 그 자체였습니다. 🧬
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 브렌다 매독스 전기 'Rosalind Franklin: The Dark Lady of DNA' 및 킹스 콜리지 아카이브 정보를 기반으로 작성되었습니다.
+      본 콘텐츠는 <strong>로잘린드 프랭클린 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 rosalind-franklin-diffraction-focus 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 두정엽 공간 수치 대조를 통한 인지 오류 차단과 품질 극대화
+## 두정엽 공간 수치 대조를 통한 인지 오류 차단과 품질 극대화
 
 뇌는 익숙한 작업을 할 때 '대략 맞겠지'라는 휴리스틱(Heuristics) 착각에 빠져 치명적 오탈자나 수치 오류를 지나치기 쉽습니다.
 
@@ -51,8 +52,9 @@ faqs:
 
 ---
 
-## 2. 실천을 위한 3단계 세부 행동 가이드
+## 마무리 단계에서 속도보다 확실성을 우선하세요
 
+마지막 순간 서두르면 사소한 오탈자나 계산 실수가 전체 결과물의 신뢰도를 망칩니다. 검수 10분 동안만큼은 속도를 낮추고 꼼꼼함에 온전히 집중하세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,25 +86,13 @@ faqs:
   </p>
 </div>
 
----
-
-## 3. 마무리 단계에서 속도보다 확실성을 우선하세요
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      마지막 순간 서두르면 사소한 오탈자나 계산 실수가 전체 결과물의 신뢰도를 망칩니다. 검수 10분 동안만큼은 속도를 낮추고 꼼꼼함에 온전히 집중하세요.
-    </p>
-  </div>
-</div>
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>매번 꼼꼼히 검수하는 데 시간이 너무 많이 걸리지 않나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -110,9 +100,9 @@ faqs:
       나중에 오타나 숫자가 틀려 수정하고 사과하고 재작업하는 데 드는 시간이 10배 더 큽니다. 사전 10분 검수가 결국 가장 빠른 길입니다.
     </p>
   </details>
-
+  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>텍스트나 일반 직무에서도 정량 대조를 쓸 수 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

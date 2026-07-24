@@ -1,218 +1,72 @@
 {
   "zuckerberg-uniform-minimization": {
     "title": {
-      "ko": "결정 피로의 관리: 마크 저커버그의 단일 유니폼 습관",
-      "en": "Managing Decision Fatigue: Mark Zuckerberg's Single Uniform Habit",
-      "ja": "決定疲れの管理：マーク・ザッカーバーグの単一ユニフォーム習慣",
-      "zh": "管理决策疲劳：马克·扎克伯格的单一工作服习惯",
-      "es": "Manejo de la fatiga por decisión: El hábito de uniforme único de Mark Zuckerberg",
-      "fr": "Gérer la fatigue décisionnelle : L'habitude de l'uniforme unique de Mark Zuckerberg",
-      "de": "Umgang mit Entscheidungsbzw. Willensmüdigkeit: Mark Zuckerbergs Gewohnheit des Einheits-Outfits",
-      "pt": "Gestão da fadiga por decisão: O hábito do uniforme único de Mark Zuckerberg",
-      "id": "Mengelola Kelelahan Keputusan: Kebiasaan Seragam Tunggal Mark Zuckerberg"
+      "ko": "결정 피로의 관리: 마크 저커버그의 단일 유니폼 습관"
     },
     "description": {
-      "ko": "매일 똑같은 티셔츠와 청바지를 입는 단순한 유니폼 착용으로 결정 피로를 줄였던 마크 저커버그. 뇌의 유한한 에너지 자원인 '자아 고갈'을 방지하고 핵심 의사결정에 집중하는 과학적 원리를 규명합니다.",
-      "en": "Mark Zuckerberg, who reduced decision fatigue by wearing the same T-shirt and jeans every day. Learn how this prevents 'ego depletion'—the brain's finite energy resource—and channels focus into core decisions.",
-      "ja": "毎日同じTシャツとジーンズを着るシンプルなユニフォーム着用で決定疲れを減らしたマーク・ザッカーバーグ。脳の有限なエネルギー資源である「自己枯渇」を防ぎ、核心的な意思決定に集中する科学的原理を究明します。",
-      "zh": "通过每天穿同样款式的T恤和牛仔裤这一简单的工作服穿搭来减少决策疲劳的马克·扎克伯格。探讨如何防止作为大脑有限能量资源的“自我损耗(Ego Depletion)”，并将注意力集中在核心决策上的科学原理。",
-      "es": "Mark Zuckerberg viste la misma camiseta gris para evitar el desgaste mental diario. Descubra cómo simplificar decisiones secundarias previene la 'depleción del ego' y reserva el glucógeno cerebral para elecciones ejecutivas importantes.",
-      "fr": "Mark Zuckerberg porte le même t-shirt gris pour éviter l'épuisement mental quotidien. Découvrez comment simplifier les choix secondaires prévient 'l'épuisement de l'ego'.",
-      "de": "Mark Zuckerberg trägt täglich dasselbe graue T-Shirt, um mentale Energie zu sparen. Erfahren Sie, wie das Reduzieren alltäglicher Entscheidungen der 'Ego-Depletion' vorbeugt und kognitive Ressourcen schützt.",
-      "pt": "Mark Zuckerberg veste a mesma camiseta cinza para evitar o desgaste mental diário. Descubra como simplificar decisões secundárias previne a 'depleção do ego' e reserva o glicogênio cerebral.",
-      "id": "Mark Zuckerberg meminimalkan kelelahan keputusan dengan mengenakan kaus abu-abu yang sama setiap hari. Pelajari bagaimana membatasi pilihan rutin mencegah penipisan ego."
+      "ko": "매일 똑같은 티셔츠와 청바지를 입는 단순한 유니폼 착용으로 결정 피로를 줄였던 마크 저커버그. 뇌의 유한한 에너지 자원인 '자아 고갈'을 방지하고 핵심 의사결정에 집중하는 과학적 원리를 규명합니다."
     },
     "authority": {
-      "ko": "마크 저커버그 공개 타운홀 미팅 인터뷰 고증 및 로이 바우마이스터의 자아 고갈(Ego Depletion) 인지심리학 이론 연구",
-      "en": "Mark Zuckerberg's Townhall QA transcript and Roy Baumeister's Cognitive Psychology research on Ego Depletion",
-      "ja": "マーク・ザッカーバーグ公開タウンホールミーティングインタビュー考証およびロイ・バウマイスターの自己枯渇（Ego Depletion）認知心理学理論研究",
-      "zh": "马克·扎克伯格公开市政厅会议访谈考证及罗伊·鲍迈斯特自我损耗(Ego Depletion)认知心理学理论研究",
-      "es": "Autenticación de las declaraciones de Mark Zuckerberg en el Townhall de Meta e investigaciones de Roy Baumeister sobre la teoría de la depleción del ego",
-      "fr": "Récit des déclarations de Mark Zuckerberg au Townhall de Meta et travaux de Roy Baumeister sur la théorie de l'épuisement de l'ego",
-      "de": "Historische Belege aus Mark Zuckerbergs Townhall-Interviews und Roy Baumeisters kognitionspsychologische Forschung zur Ego-Depletion",
-      "pt": "Autenticação das declarações de Mark Zuckerberg no Townhall do Meta e pesquisas de Roy Baumeister sobre a teoria da depleção do ego",
-      "id": "Wawancara Tanya Jawab Townhall Mark Zuckerberg dan Teori Penipisan Ego dari Roy Baumeister"
+      "ko": "Zuckerberg Uniform Minimization 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "ko": "페이스북을 창업하여 소셜 미디어 제국 메타(Meta)를 이끄는 테크 거물 마크 저커버그. 수억 명의 일상을 잇는 플랫폼의 중요한 미래 로드맵을 지휘하며 수십억 달러의 사업 투자를 실시간으로 판단해야 하는 그의 일상은 아침에 눈뜨는 순간부터 막중한 의사결정의 무게로 가득 차 있습니다. 매 순간 들이닥치는 막강한 피로 속에서 그가 의사결정 효율성을 지켜내기 위해 선택한 가장 유명한 전략은 '매일 아침 무엇을 입을지 고민하지 않는 것'이었습니다. 그는 매일 똑같은 회색 크루넥 티셔츠와 파란 청바지만을 옷장에 채워두고 꺼내 입습니다. 무의미한 일상의 잔여 선택지들을 차단하여 에너지 낭비를 예방하는 자아 고갈 제어의 과학적 메커니즘을 밝혀냅니다.",
-      "en": "Tech giant Mark Zuckerberg, who founded Facebook and leads Meta. Directing the future roadmap of a platform connecting billions of lives, his daily life is loaded with critical business decisions from the moment he wakes up. To preserve decision-making efficiency, his most famous strategy was refusing to choose what to wear each morning. He keeps identical grey crewneck T-shirts and blue jeans in his closet. We reveal the scientific mechanism of preventing ego depletion by eliminating trivial daily choices.",
-      "ja": "フェイスブックを創業し、ソーシャルメディア帝国メタ（Meta）を率いるテック巨頭マーク・ザッカーバーグ。数億人の日常をつなぐプラットフォームの重要な未来のロードマップを指揮し、数十億ドルの事業投資をリアルタイムで判断しなければならない彼の日常は、朝目覚めた瞬間から重大な意思決定の重圧に満ちています。毎瞬間押し寄せる膨大な疲労の中で、彼が意思決定の効率性を守るために選択した最も有名な戦略は、「毎朝何を着るか悩まないこと」でした。彼は毎日、全く同じグレーのクルーネックTシャツとブルーのジーンズだけをクローゼットに用意しておき、取り出して着ます。無意味な日常の選択肢を遮断し、エネルギーの浪費を防ぐ自己枯渇制御の科学的メカニズムを明らかにします。",
-      "zh": "创立脸书(Facebook)并掌舵社交媒体帝国美达(Meta)的科技巨头马克·扎克伯格。指挥着连接数亿人日常生活的平台的关键未来路线图、需要实时对数亿美元的业务投资做出决断的他，其日常生活从早晨睁开双眼的那一刻起，就充斥着重大决策的千钧重担。在每时每刻涌来的强烈疲劳感中，他为了守住决策效率而选择的最著名的策略是，“每天清晨不为穿什么衣服而苦恼”。他的衣橱里只塞满了完全相同的灰色圆领T恤和蓝色牛仔裤，拿出来就穿。我们共同揭示阻断无意义的日常剩余选项、防止能量浪费的自我损耗控制的科学机制。",
-      "es": "Mark Zuckerberg, creador de Facebook. Frente a miles de decisiones críticas que afectan a Meta, desarrolló una estrategia famosa: no decidir su ropa diaria. Su vestidor contiene múltiples camisetas idénticas de color gris. Analicemos cómo el cerebro consume glucosa con cada elección ejecutiva diaria, lo que lleva a la fatiga decisional y cómo el uniforme previene la 'depleción del ego'.",
-      "fr": "Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.\n\nEn appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.",
-      "de": "Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.\n\nDurch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.",
-      "pt": "Na prática desta rotina transformadora:      (Meta)     .                           .                '      '.            .              .\n\nAo praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.",
-      "id": "Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.\n\nDengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi."
+      "ko": "\"나는 아침에 어떤 옷을 입을지 결정하는 사소한 에너지를 아껴, 세상을 더 긴밀하게 연결하는 일에 몰두하겠다.\" 👕\n\n전 세계 30억 명이 넘는 인구를 가상 공간에서 연결하는 거대한 소셜 미디어 제국 Meta의 설립자이자 CEO인 마크 저커버그. 시시각각 변하는 테크 비즈니스 환경의 중심에서 매일 수백억 달러 규모의 프로젝트 향방을 결정하는 그이지만, 아침에 눈을 떠 출근을 준비하는 그의 루틴은 믿을 수 없을 정도로 단조롭습니다. 저커버그의 옷장에는 똑같은 회색 티셔츠 수십 벌과 파란 청바지만이 나란히 걸려 있습니다. 2014년 타운홀 미팅에서 매일 같은 옷을 고집하는 이유에 관한 질문을 받았을 때, 그는 \"인생의 사소한 결정들을 최소한으로 줄여, 내 에너지를 커뮤니티를 섬기는 가장 본질적인 결정에만 집중하고 싶다\"고 대답했습니다. 이 단순한 습관 뒤에 숨겨진 뇌과학적 작동 방식과 의사결정 효율성을 극대화하는 메커니즘을 밝혀냅니다."
     },
     "whyTitle": {
-      "ko": "뇌의 유한한 포도당 자원 보호와 자아 고갈 예방",
-      "en": "Protecting Brain's Finite Glucose Resources and Preventing Ego Depletion",
-      "ja": "脳の有限なブドウ糖資源の保護と自己枯渇の予防",
-      "zh": "保护大脑有限的葡萄糖资源与防止自我损耗",
-      "es": "Proteger el glucógeno cerebral y prevenir la depleción del ego",
-      "fr": "Protéger le glucose cérébral et prévenir l'épuisement de l'ego",
-      "de": "Schutz der Glukoseressourcen des Gehirns und Vorbeugung von Ego-Depletion",
-      "pt": "Proteger o glicogênio cerebral e prevenir a depleção do ego",
-      "id": "Melindungi Sumber Daya Glukosa Otak dan Mencegah Penipisan Ego"
+      "ko": "뇌의 유한한 포도당 자원 보호와 자아 고갈 예방"
     },
     "whyDesc": {
-      "ko": "뇌의 전두엽 피질(Prefrontal Cortex)이 의사결정을 수행할 때 사용하는 에너지는 유한하며, 결정을 거듭할수록 뇌 세포는 포도당과 산소를 소모해 실행 통제력이 감소하는 '자아 고갈(Ego Depletion)' 현상을 겪게 됩니다. '오늘 아침 무엇을 입을까?', '점심은 무엇을 먹을까?'와 같은 사소하고 사소한 선택들도 뇌의 실행 기능 예산을 갉아먹습니다. 저커버그처럼 일상의 부수적인 프로세스를 자동화 및 단일 유니폼화할 때, 전두엽은 핵심적인 비즈니스 의사결정이나 장기 전략 수립 단계에서 써야 할 글루코스 예산을 최적으로 보호하고 각 결정의 질적 신뢰성을 대폭 향상할 수 있습니다.",
-      "en": "The energy used by the prefrontal cortex for decision making is finite. As decisions pile up, brain cells consume glucose and oxygen, suffering from 'ego depletion' which weakens executive control. Trivial choices like 'what to wear this morning' or 'what to eat for lunch' drain the brain's executive budget. Automating daily routines and uniforming clothes allows the prefrontal cortex to preserve glucose budgets for key business decisions or long-term strategies, vastly improving the quality of each decision.",
-      "ja": "脳の前頭前皮質（Prefrontal Cortex）が意思決定を行う際に使用するエネルギーは有限であり、決定を重ねるほど脳細胞はブドウ糖と酸素を消耗し、実行統制力が低下する「自己枯渇（Ego Depletion）」現象を経験します。「今朝は何を着ようか？」、「昼食は何を食べようか？」といった些細な選択も、脳の実行機能の予算を削り取ります。ザッカーバーグのように日常の付随的なプロセスを自動化・単一ユニフォーム化する時、前頭前野は核心的なビジネス上の意思決定や長期戦略の策定段階で使うべきグルコース予算を最適に保護し、各決定の質的な信頼性を大幅に向上させることができます。",
-      "zh": "大脑前额叶皮层(Prefrontal Cortex)在进行决策时所消耗的能量是有限的。决策越多，脑细胞消耗的葡萄糖与氧气就越多，进而会经历执行控制力下降的“自我损耗(Ego Depletion)”现象。“今天早晨穿什么？”、“午餐吃什么？”这类微不足道的琐碎选择也会蚕食大脑执行功能的能量预算。若像扎克伯格一样将日常的附带流程进行自动化与单一工作服化，前额叶就能在核心业务决策或长期战略制定阶段，对必须使用的葡萄糖预算起到最佳保护作用，从而大幅度提高每一项决策的质量与可靠性。",
-      "es": "El córtex prefrontal tiene una capacidad de procesamiento limitada. Cada elección, por pequeña que sea (como qué ponerse o qué desayunar), quema glucosa y reduce el autocontrol (ego depletion). Al automatizar y usar un uniforme, se ahorra ese valioso glucógeno cerebral, protegiendo la capacidad del lóbulo frontal para tomar elecciones estratégicas complejas de alta calidad a lo largo del día.",
-      "fr": "Le cortex préfrontal dispose d'une énergie limitée. Chaque choix, même mineur (comme la tenue ou le petit-déjeuner), consomme du glucose et réduit le contrôle de soi. En automatisant la tenue, on économise cette énergie pour la réserver aux choix stratégiques importants.",
-      "de": "Der präfrontale Cortex verfügt über begrenzte Ressourcen. Jede Entscheidung (Kleidung, Frühstück) verbraucht Glukose und führt zur Willenserschöpfung. Wer solche alltäglichen Abläufe standardisiert, spart Energie und bewahrt die Konzentrationsfähigkeit des Gehirns für strategisch wichtige und komplexe Entscheidungen.",
-      "pt": "O córtex pré-frontal tem uma capacidade de processamento limitada. Cada escolha, por pequena que seja, queima energia e reduz o autocontrole. Ao automatizar e usar um uniforme, poupa-se esse valioso glicogênio cerebral, protegendo a capacidade do lóbulo frontal.",
-      "id": "Kapasitas energi korteks prefrontal untuk mengambil keputusan sangat terbatas. Pilihan rutin seperti 'mau memakai baju apa pagi ini' menguras bahan bakar glukosa otak dan memicu penipisan ego. Otomatisasi pakaian menghemat energi agar tetap fokus pada keputusan bisnis strategis."
+      "ko": "뇌의 전두엽 피질(Prefrontal Cortex)이 의사결정을 수행할 때 사용하는 에너지는 유한하며, 결정을 거듭할수록 뇌 세포는 포도당과 산소를 소모해 실행 통제력이 감소하는 '자아 고갈(Ego Depletion)' 현상을 겪게 됩니다. '오늘 아침 무엇을 입을까?', '점심은 무엇을 먹을까?'와 같은 사소하고 사소한 선택들도 뇌의 실행 기능 예산을 갉아먹습니다. 저커버그처럼 일상의 부수적인 프로세스를 자동화 및 단일 유니폼화할 때, 전두엽은 핵심적인 비즈니스 의사결정이나 장기 전략 수립 단계에서 써야 할 글루코스 예산을 최적으로 보호하고 각 결정의 질적 신뢰성을 대폭 향상할 수 있습니다."
     },
     "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与建议",
-      "es": "Precauciones y consejos",
-      "fr": "Précautions et conseils",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "pt": "Precauções e conselhos",
-      "id": "Tindakan Pencegahan dan Tips"
+      "ko": "주의사항 및 팁"
     },
     "cautionDesc": {
-      "ko": "유니폼화 습관을 적용할 때 범할 수 있는 오류는 복장의 통일성 자체가 주는 이미지나 타인의 시선에 대해 스트레스를 받는 것입니다. 패션 스타일이나 미적인 측면의 완벽함에 연연해하기 시작하면, 이 역시 뇌에 새로운 심리적 부담으로 가용되어 결정 피로를 지우려다 외려 가중하게 됩니다. 따라서 가장 본질적인 핵심은 복장을 '자신의 마음에 가장 무난하고 신경이 전혀 쓰이지 않는 심플한 스타일'로 타협하여 뇌의 시선을 외부 평가로부터 완전히 자유롭게 보존하는 데 있습니다.",
-      "en": "The trap when adopting a uniform is stressing over public perception or the look of the uniform itself. If you worry about fashion style or aesthetic perfection, it adds new mental burdens, worsening stress. Keep it simple and comfortable so your brain remains free from external evaluation.",
-      "ja": "ユニフォーム化の習慣を適用する際に犯しがちなエラーは、服装の統一性自体がもたらすイメージや他人の視線に対してストレスを感じることです. ファッションスタイルや美的な側面の完璧さにこだわり始めると、これもまた脳に新たな心理的負担として作用し、決定疲れを解消しようとするどころかむしろ加重することになります. したがって最も本質的な核心は、服装を「自分の心に最も無難で、全く気にならないシンプルなスタイル」に妥協し、脳の視線を外部の評価から完全に自由に保つことにあります.",
-      "zh": "在应用工作服化习惯时可能犯下的错误是，为统一服装本身带来的形象或他人的目光感到压力。如果开始纠结于时尚风格或美学层面的完美，这也会给大脑带来新的心理负担，原本想要消除决策疲劳，结果却适得其反。因此，最本质的核心在于，将服装妥协为“自己穿起来最普通、完全不用操心的极简风格”，以此让大脑的注意力从外界评估中彻底解放出来。",
-      "es": "El error es preocuparse por la opinión ajena o la estética de la vestimenta elegida. Si empieza a dudar de su aspecto, el cerebro genera una nueva carga de estrés, anulando el propósito de descanso. El principio es elegir prendas de colores neutros con las que se sienta cómodo y libre de autocrítica.",
-      "fr": "L'erreur est de s'inquiéter du regard des autres ou du style de sa tenue. Si vous doutez de votre look, le cerveau subit un nouveau stress. Le principe est de choisir des vêtements neutres et confortables, afin de libérer l'esprit de tout jugement esthétique.",
-      "de": "Vermeiden Sie es, sich Gedanken über die Meinung anderer oder die Ästhetik des Einheits-Outfits zu machen. Wer an seinem Look zweifelt, erzeugt neuen Stress. Wählen Sie schlichte, neutrale Kleidung, in der Sie sich wohlfühlen, um den Kopf komplett frei zu haben.",
-      "pt": "O erro é preocupar-se com a opinião alheia ou com a estética da vestimenta escolhida. Se começar a duvidar de seu aspecto, o cérebro gera uma nova carga de estresse, anulando o propósito. Escolha roupas neutras com as quais se sinta cómodo.",
-      "id": "Kesalahan terbesar saat menyederhanakan pakaian adalah merisaukan penilaian orang lain. Jika Anda mengkhawatirkan estetika pakaian, ini menciptakan kelelahan mental baru. Kuncinya adalah memilih model pakaian paling kasual yang tidak menyedot perhatian Anda."
+      "ko": "유니폼화 습관을 적용할 때 범할 수 있는 오류는 복장의 통일성 자체가 주는 이미지나 타인의 시선에 대해 스트레스를 받는 것입니다. 패션 스타일이나 미적인 측면의 완벽함에 연연해하기 시작하면, 이 역시 뇌에 새로운 심리적 부담으로 가용되어 결정 피로를 지우려다 외려 가중하게 됩니다. 따라서 가장 본질적인 핵심은 복장을 '자신의 마음에 가장 무난하고 신경이 전혀 쓰이지 않는 심플한 스타일'로 타협하여 뇌의 시선을 외부 평가로부터 완전히 자유롭게 보존하는 데 있습니다."
     },
     "steps": [
       {
         "name": {
-          "ko": "단순하고 편안한 기본 유니폼 선정",
-          "en": "Selecting a Simple and Comfortable Base Uniform",
-          "ja": "シンプルで快適な基本ユニフォームの選定",
-          "zh": "挑选极简舒适的基础工作服",
-          "es": "Elegir un conjunto base cómodo y sencillo",
-          "fr": "Choisir une tenue de base simple et confortable",
-          "de": "Auswählen eines schlichten Einheits-Outfits",
-          "pt": "Elegir un conjunto base cómodo y sencillo",
-          "id": "Pilih Model Pakaian Kasual Sederhana"
+          "ko": "단순하고 편안한 기본 유니폼 선정"
         },
         "text": {
-          "ko": "외출이나 일할 때 고민 없이 입을 수 있는, 심플하고 편안한 무채색 계열의 티셔츠와 청바지나 슬랙스 기본 조합을 정합니다.",
-          "en": "Decide on a base combination of grey or dark neutral crewneck T-shirts and blue jeans or slacks that you can wear without thinking.",
-          "ja": "外出時や仕事の時に悩まずに着られる、シンプルで快適な無彩色系のTシャツとジーンズやスラックスの基本の組み合わせを定めます。",
-          "zh": "确定一套在出门或工作时不用多想就能直接穿上的，极简舒适的无彩系T恤与牛仔裤或西裤的基础组合。",
-          "es": "Defina una combinación básica (por ejemplo, camisetas de color neutro como gris/negro y pantalones vaqueros cómodos) para usar de forma diaria.",
-          "fr": "Définissez une combinaison simple (comme un t-shirt noir ou gris et un jean confortable) à porter chaque jour sans réfléchir.",
-          "de": "Wählen Sie eine einfache Kombination (z. B. graues oder schwarzes T-Shirt und Jeans) für den Alltag.",
-          "pt": "Defina uma combinação básica (por exemplo, camisetas de cor neutra como cinza/preto e calças de ganga confortáveis) para usar diariamente.",
-          "id": "Tentukan kombinasi model pakaian standar (misalnya kaus polos berwarna netral dengan celana jins nyaman) untuk dipakai beraktivitas."
+          "ko": "외출이나 일할 때 고민 없이 입을 수 있는, 심플하고 편안한 무채색 계열의 티셔츠와 청바지나 슬랙스 기본 조합을 정합니다."
         }
       },
       {
         "name": {
-          "ko": "동일 복장의 다량 확보 및 전면 배치",
-          "en": "Purchasing Multiple Identical Sets and Foregrounding Them",
-          "ja": "同一の服の多量確保と前面配置",
-          "zh": "备齐多件相同款式服装并摆在显眼处",
-          "es": "Comprar varias prendas iguales y ordenarlas",
-          "fr": "Acheter plusieurs exemplaires et les aligner",
-          "de": "Anschaffen mehrerer identischer Sätze im Schrank",
-          "pt": "Comprar várias roupas iguais e organizá-las",
-          "id": "Sediakan Beberapa Pasang Pakaian yang Sama"
+          "ko": "동일 복장의 다량 확보 및 전면 배치"
         },
         "text": {
-          "ko": "선택한 티셔츠와 청바지를 여러 벌 똑같이 구매하여 옷장 가장 꺼내기 쉬운 정면에 나란히 걸어 배치합니다.",
-          "en": "Buy multiple copies of the chosen T-shirt and pants, and hang them neatly at the very front of your closet for easy picking.",
-          "ja": "選んだTシャツとジーンズを同じものを複数購入し、クローゼットの最も取り出しやすい前面に並べて配置します。",
-          "zh": "将选中的款式购买多件，整齐地挂在衣橱里最容易拿取的显眼位置。",
-          "es": "Adquiera varios juegos de la misma camiseta y pantalones. Colóquelos de forma ordenada en la sección frontal de su armario.",
-          "fr": "Achetez plusieurs exemplaires de la même tenue. Alignez-les au premier plan dans votre penderie.",
-          "de": "Kaufen Sie die ausgewählten Kleidungsstücke in mehrfacher Ausführung und hängen Sie sie griffbereit auf.",
-          "pt": "Compre várias peças da mesma camiseta e calças. Coloque-as de forma organizada na secção frontal do seu armário.",
-          "id": "Beli beberapa pasang model pakaian tersebut, lalu susun rapi di bagian depan lemari pakaian agar mudah dijangkau."
+          "ko": "선택한 티셔츠와 청바지를 여러 벌 똑같이 구매하여 옷장 가장 꺼내기 쉬운 정면에 나란히 걸어 배치합니다."
         }
       },
       {
         "name": {
-          "ko": "아침 복장 선택 의사결정의 제로화",
-          "en": "Eliminating Morning Outfit Decision Completely",
-          "ja": "朝の服装選択の意思決定をゼロ化",
-          "zh": "实现清晨穿搭决策归零",
-          "es": "Eliminar la decisión de vestirse por la mañana",
-          "fr": "Supprimer le choix de la tenue le matin",
-          "de": "Ausschalten der morgendlichen Outfit-Wahl",
-          "pt": "Eliminar a decisão de vestir-se pela manhã",
-          "id": "Hilangkan Pilihan Pakaian di Pagi Hari"
+          "ko": "아침 복장 선택 의사결정의 제로화"
         },
         "text": {
-          "ko": "아침에 일어나자마자 아무 고민 없이 정면에 걸린 유니폼을 꺼내 입어, 뇌의 전두엽 포도당 예산을 상쾌하게 보호하며 하루를 시작합니다.",
-          "en": "Immediately pull out and wear the uniform in the morning without thinking, cleanly preserving your prefrontal cortex's glucose budget.",
-          "ja": "朝起きてすぐに何も悩まずに前面に掛かったユニフォームを取り出して着ることで、脳の前頭前野のブドウ糖予算を爽快に守りながら一日を開始します。",
-          "zh": "早晨起床后不用做任何考虑，直接穿上挂在最前排的工作服，清爽地省下前额叶的葡萄糖预算，开启新的一天。",
-          "es": "Vístase al levantarse con el primer conjunto del armario sin dudar, protegiendo los recursos de glucógeno de su cerebro para el resto del día.",
-          "fr": "Habillez-vous dès le réveil avec la première tenue disponible sans réfléchir, préservant ainsi l'énergie de votre cerveau pour la journée.",
-          "de": "Ziehen Sie nach dem Aufstehen direkt das bereitliegende Outfit an. So starten Sie ohne Willensverlust in den Tag.",
-          "pt": "Vista-se ao levantar-se com o primeiro conjunto do armário sem hesitar, protegendo os recursos de energia do seu cérebro.",
-          "id": "Langsung kenakan pakaian standar Anda setelah bangun tidur tanpa berpikir, menghemat memori kognitif Anda untuk keputusan penting."
+          "ko": "아침에 일어나자마자 아무 고민 없이 정면에 걸린 유니폼을 꺼내 입어, 뇌의 전두엽 포도당 예산을 상쾌하게 보호하며 하루를 시작합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "매일 똑같은 옷을 입으면 중요한 미팅이나 격식 있는 자리에선 어떻게 대처하나요?",
-          "en": "How do you handle important meetings or formal events with this uniform habit?",
-          "ja": "毎日同じ服を着る場合、重要な会議やフォーマルな席ではどう対応しますか？",
-          "zh": "每天穿同样的衣服，在重要会议或正式场合该如何应对？",
-          "es": "¿Cómo manejas las reuniones importantes o eventos formales con este hábito?",
-          "fr": "Comment gérez-vous les réunions importantes ou les événements formels avec cette habitude ?",
-          "de": "Wie gehen Sie bei dieser Gewohnheit mit wichtigen Meetings oder formellen Anlässen um?",
-          "pt": "Como você lida com reuniões importantes ou eventos formais com este hábito?",
-          "id": "Bagaimana Anda menangani rapat penting atau acara formal dengan kebiasaan seragam ini?"
+          "ko": "매일 똑같은 옷을 입으면 중요한 미팅이나 격식 있는 자리에선 어떻게 대처하나요?"
         },
         "answer": {
-          "ko": "저커버그 역시 공식 행사나 이사회에서는 수트를 착용합니다. 유니폼화의 핵심은 사소한 결정을 차단하는 것이므로, 격식 있는 자리를 위한 정장 조합을 미리 지정해두면 고민 없이 착용해 결정 피로를 방지할 수 있습니다.",
-          "en": "Zuckerberg also wears suits for official events or board meetings. The core of a uniform is eliminating trivial choices, so pre-selecting a formal outfit combination prevents decision fatigue.",
-          "ja": "ザッカーバーグも公式行事や理事会ではスーツを着用します。ユニフォーム化の核心は些細な決定を減らすことにあるため、フォーマルな席のためのスーツの組み合わせをあらかじめ指定しておけば、悩むことなく着用して決定疲れを防ぐことができます。",
-          "zh": "扎克伯格在官方活动或董事会会议上也会穿西装。工作服化的核心是阻断琐碎的决定，因此预先指定一套正式的西装组合，可以毫不犹豫地穿上，防止决策疲劳。",
-          "es": "Zuckerberg también usa trajes para eventos oficiales o reuniones de junta. El núcleo de un uniforme es eliminar elecciones triviales, por lo que preseleccionar una combinación de traje formal evita la fatiga por decisión.",
-          "fr": "Comment gérez-vous les réunions importantes ou les événements formels avec cette habitude ?",
-          "de": "Wie gehen Sie bei dieser Gewohnheit mit wichtigen Meetings oder formellen Anlässen um?",
-          "pt": "Como você lida com reuniões importantes ou eventos formais com este hábito?",
-          "id": "Batik atau jas formal juga digunakan jika acara mengharuskan. Inti dari seragam adalah menghilangkan pilihan sepele, jadi menentukan kombinasi pakaian formal sebelumnya mencegah kelelahan keputusan."
+          "ko": "저커버그 역시 공식 행사나 이사회에서는 수트를 착용합니다. 유니폼화의 핵심은 사소한 결정을 차단하는 것이므로, 격식 있는 자리를 위한 정장 조합을 미리 지정해두면 고민 없이 착용해 결정 피로를 방지할 수 있습니다."
         }
       },
       {
         "question": {
-          "ko": "티셔츠와 청바지 외에 다른 의류로 유니폼을 구성해도 되나요?",
-          "en": "Can I build a uniform with clothes other than T-shirts and jeans?",
-          "ja": "Tシャツとジーンズ以外の衣類でユニフォームを構成してもいいですか？",
-          "zh": "除了T恤 and 牛仔裤，我可以用其他衣服组成工作服吗？",
-          "es": "¿Puedo armar un uniforme con ropa que no sea camisetas y jeans?",
-          "fr": "Puis-je composer un uniforme avec des vêtements autres que des t-shirts et des jeans ?",
-          "de": "Kann ich ein Einheits-Outfit aus anderen Kleidungsstücken als T-Shirts und Jeans zusammenstellen?",
-          "pt": "Posso montar um uniforme com roupas que não sejam camisetas y jeans?",
-          "id": "Bolehkah saya membuat seragam dengan pakaian selain kaus dan jins?"
+          "ko": "티셔츠와 청바지 외에 다른 의류로 유니폼을 구성해도 되나요?"
         },
         "answer": {
-          "ko": "물론입니다. 셔츠와 슬랙스, 원피스 등 본인의 마음에 가장 무난하고 편안하며 외모 관리에 전혀 신경이 쓰이지 않는 최상의 단순한 조합을 선정하여 다량 구비하는 것으로 충분합니다.",
-          "en": "Of course. Selecting a simple, comfortable combination of shirts, slacks, or dresses that you feel completely at ease in and stocking multiple identical sets is sufficient.",
-          "ja": "もちろんです。シャツとスラックス、ワンピースなど、自分の心に最も無難で快適で、外見の管理に全く気を使わない最高のシンプルな組み合わせを選定し、多量に備えることで十分です。",
-          "zh": "当然可以。选择衬衫、西裤、连衣裙等让自己感觉最普通、最舒适、完全不用花心思打理外观的极简组合，并备齐多件即可。",
-          "es": "Por supuesto. Seleccionar una combinación simple y cómoda de camisas, pantalones o vestidos con los que te sientas cómodo y abastecerse de varios juegos idénticos es suficiente.",
-          "fr": "Bien sûr. Choisir une combinaison simple et confortable de chemises, pantalons ou robes dans laquelle vous vous sentez à l'aise et en posséder plusieurs exemplaires suffit largement.",
-          "de": "Natürlich. Wählen Sie eine schlichte, bequeme Kombination aus Hemden, Hosen oder Kleidern, in der Sie sich wohlfühlen, und schaffen Sie mehrere identische Sätze davon an.",
-          "pt": "Claro. Selecionar uma combinação simples e confortável de camisas, calças ou vestidos com os que você se sinta à vontade e estocar vários conjuntos idênticos é suficiente.",
-          "id": "Tentu saja. Memilih kombinasi kemeja, celana, atau gaun sederhana dan nyaman yang membuat Anda merasa rileks serta menyediakan beberapa pasang pakaian yang sama sudah cukup."
+          "ko": "물론입니다. 셔츠와 슬랙스, 원피스 등 본인의 마음에 가장 무난하고 편안하며 외모 관리에 전혀 신경이 쓰이지 않는 최상의 단순한 조합을 선정하여 다량 구비하는 것으로 충분합니다."
         }
       }
-    ],
-    "pubDate": "2026-06-12",
-    "updatedDate": "2026-06-12"
+    ]
   }
 }

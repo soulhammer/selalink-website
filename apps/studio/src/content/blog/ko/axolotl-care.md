@@ -18,17 +18,7 @@ faqs:
 
 웃는 표정과 분홍빛 깃털 아가미로 사랑받는 우파루파(Axolotl/아홀로틀)는 신체 재생 능력을 가진 희귀 양서류 반려동물입니다. 국제 양서류 보전 수의학 프로토콜(Amphibian Ark)에 따르면, 우파루파는 피부 흡입 호흡을 하며 20°C 이상의 고수온에 극도로 취약합니다. 수온을 16°C ~ 18°C로 서늘하게 유지하고, 입에 삼킬 수 있는 작은 자갈 바닥재를 배제하는 것이 건강 관리의 핵심입니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      수의학적 & 행동학적 근거
-    </h5>
-    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>International Amphibian Husbandry & Amphibian Ark Veterinary Care Protocol</strong>에 기반하고 있습니다.
-    </p>
-  </div>
-</div>
+이러한 규칙적인 습관과 몰입 루틴은 뇌의 전두엽 및 신경 가소성을 활성화하여 일상의 집중력과 뇌 피로 회복을 극대화합니다.
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">

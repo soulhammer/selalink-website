@@ -1,218 +1,72 @@
 {
   "neruda-green-ink-flow": {
     "title": {
-      "en": "Pablo Neruda's Green Ink Routine: How Color Wavelengths Unlock Creative Flow",
-      "ko": "파블로 네루다의 초록색 잉크 필기법: 색상 파장으로 뇌의 창의적 몰입(Flow)을 깨우는 법",
-      "ja": "パブロ・ネルーダの緑のインク執筆術：色彩波長で 脳の創造的没頭（Flow）を 呼び覚ます Super Routine",
-      "zh": "巴勃罗·聂鲁达的绿色墨水写作习惯：色彩波长如何激发大脑的创造力",
-      "es": "El Hábito de la Tinta Verde de Pablo Neruda: Cómo las Longitudes de Onda de Color Liberan el Flujo Creativo",
-      "fr": "La Routine de l'Encre Verte de Pablo Neruda : Comment la longueur d'onde des couleurs libère le flux créatif",
-      "de": "Pablo Nerudas grüne Tinte-Routine: Wie Farbwellenlängen kreativen Flow freisetzen",
-      "pt": "O Hábito da Tinta Verde de Pablo Neruda: Como as Ondas de Cor Desbloqueiam o Fluxo Criativo",
-      "id": "Rutinitas Tinta Hijau Pablo Neruda: Cara Panjang Gelombang Warna Membuka Aliran Kreatif"
+      "ko": "파블로 네루다의 초록색 잉크 필기법: 색상 파장으로 뇌의 창의적 몰입(Flow)을 깨우는 법"
     },
     "description": {
-      "en": "Discover why Nobel laureate Pablo Neruda exclusively wrote in green ink, and how green light wavelengths induce alpha brain waves for effortless creative writing.",
-      "ko": "노벨문학상 수상자 파블로 네루다가 평생 오직 초록색 잉크로만 시를 쓴 이유와 녹색 파장이 뇌의 알파파(Alpha Waves)를 유도하는 인지색채학적 원리를 다룹니다.",
-      "ja": "ノーベル文学賞受賞者のパブロ・ネルーダが生涯緑のインクだけで 詩を書き続けた理由と、緑色の波長が脳のアルファ波を誘導する色彩心理学を解説します。",
-      "zh": "探索诺贝尔奖得主巴勃罗·聂鲁达为何坚持用绿色墨水写作，以及绿色光波如何诱发α脑波促进创意流淌。",
-      "es": "Descubra por qué el premio Nobel Pablo Neruda escribía exclusivamente con tinta verde y cómo la longitud de onda verde induce ondas alfa en el cerebro.",
-      "fr": "Découvrez pourquoi le prix Nobel Pablo Neruda écrivait exclusivement à l'encre verte.",
-      "de": "Erfahren Sie, warum der Nobelpreisträger Pablo Neruda ausschließlich mit grüner Tinte schrieb und wie grüne Lichtwellen Alpha-Gehirnwellen induzieren.",
-      "pt": "Descubra por que o prêmio Nobel Pablo Neruda escrevia exclusivamente com tinta verde.",
-      "id": "Pelajari mengapa peraih Nobel Pablo Neruda selalu menulis dengan tinta hijau dan bagaimana gelombang warna hijau menginduksi gelombang otak alfa."
+      "ko": "노벨문학상 수상자 파블로 네루다가 평생 오직 초록색 잉크로만 시를 쓴 이유와 녹색 파장이 뇌의 알파파(Alpha Waves)를 유도하는 인지색채학적 원리를 다룹니다."
     },
     "authority": {
-      "en": "Pablo Neruda's Memoirs (1974) & Frontiers in Psychology Color Vision Research",
-      "ko": "파블로 네루다의 자서전 《살며 사랑하며 배우며》(1974) 및 Frontiers in Psychology 인지색채학 연구",
-      "ja": "ネルーダの回想録『わが人生の告白』(1974) および『Frontiers in Psychology』",
-      "zh": "聂鲁达自传《我坦言我曾生活过》(1974)及《Frontiers in Psychology》色彩认知研究",
-      "es": "Confieso que he vivido de Pablo Neruda (1974) y revista Frontiers in Psychology",
-      "fr": "J'avoue que j'ai vécu de Pablo Neruda (1974) et journal Frontiers in Psychology",
-      "de": "Ich bekenne, ich habe gelebt von Pablo Neruda (1974) & Frontiers in Psychology",
-      "pt": "Confesso que vivi de Pablo Neruda (1974) e revista Frontiers in Psychology",
-      "id": "Memoar Pablo Neruda (1974) & Frontiers in Psychology Color Vision Research"
+      "ko": "Neruda Green Ink Flow 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
     },
     "intro": {
-      "en": "1971 Nobel laureate in Literature Pablo Neruda (1904–1973), hailed as one of the greatest poets of the 20th century, captivated readers worldwide with works like 'Twenty Love Poems and a Song of Despair'. Writing from his coastal home in Isla Negra, Chile, Neruda produced an enormous body of passionate literature.\n\nThroughout his life, Neruda maintained an obsessive writing habit: he wrote all of his poems, memoirs, and letters exclusively in green ink. To Neruda, black ink felt cold, formal, and dead—evoking legal sentences or rigid bureaucracy. Green ink, by contrast, represented hope, nature, and the lush vegetation of his homeland.\n\nWhen green ink flowed onto paper, Neruda felt his visual fatigue melt away and poetic intuition spring forth freely. Modern cognitive color science confirms that green wavelengths (520–550nm) put minimal strain on the visual cortex, triggering alpha brain waves and inducing an effortless State of Flow.",
-      "ko": "1971년 노벨문학상 수상자이자 \"20세기 모든 언어를 통틀어 가장 위대한 시인\"이라 찬사받은 칠레의 국보급 시인 파블로 네루다(Pablo Neruda, 1904–1973). 그는 19세에 발표한 《스무 편의 사랑의 시와 한 편의 절망의 노래》로 전 세계 독자들의 거문고를 울렸으며, 칠레 남부 이슬라 네그라(Isla Negra)의 바닷가 오두막에서 자연과 사랑, 민중을 노래했습니다.\n\n네루다는 평생 자신의 모든 시, 자서전 원고, 외교관 서한, 친필 편지를 오직 '초록색 잉크(Green Ink)'만으로 작성하는 강박적일 만큼 특별한 필기 습관을 유지했습니다. 그에게 검은색 잉크는 사망 판정문이나 공문서처럼 차갑고 경직된 억압의 색이었습니다. 반면 초록색은 태평양 연안의 숲과 이끼, 희망과 자연의 생명력을 상징하는 영혼의 색이었습니다.\n\n초록색 잉크가 백지 위에 선명히 스며들 때 네루다는 뇌의 시각 피질 긴장이 이완되고 억눌린 영감이 샘물처럼 솟구쳐 나오는 시상(Poetic Flow)을 경험했습니다. 뇌과학적으로 녹색 광선 파장(520–550nm)은 시망막과 뇌 피질에 가장 부드러운 자연 자극을 전달하여 뇌파를 알파파(Alpha Waves) 상태로 전환함으로써, 긴장 없는 고도 몰입(Flow State)을 일으키는 인지색채학의 정수였습니다.",
-      "ja": "1971年のノーベル文学賞受賞者であり、「20世紀のあらゆる言語を通じて最も偉大な詩人」と称えられたチリの国宝級詩人パブロ・ネルーダ（1904〜1973）。彼は19歳で発表した『20の愛の詩とひとつの絶望の歌』で世界中の読者を魅了し、チリ南部のイスラ・ネグラの海辺の小屋で自然と愛を歌いました。\n\nネルーダは生涯、自身のすべての詩や回想録、手紙を「緑のインク（Green Ink）」のみで執筆する特別な習慣を守り続けました。彼にとって黒いインクは公文書のように冷たく硬直した色の象徴であり、緑色は太平洋沿岸の森やコケ、希望と生命力を象徴する魂の色でした。\n\n緑のインクが白紙の上に鮮やかに染み込む時、ネルーダは脳の視覚野の緊張が解け、インスピレーションが湧き上がる体験をしました。脳科学的にも緑色の波長（520〜550nm）は網膜や脳皮質に最も刺激が少ない自然な色であり、脳波をアルファ波（Alpha Waves）状態に変換して無駄な緊張のない没頭（Flow State）を引き起こします。",
-      "zh": "在这一历史性惯例的实践中：1971 \"20 \" (Pablo Neruda, 1904–1973). 19 《 》 , (Isla Negra) , . 在这一历史性惯例的实践中： , , , ' (Green Ink)' . . , . 在这一历史性惯例的实践中： (Poetic Flow) . (520–550nm) (Alpha Waves) , (Flow State) .",
-      "es": "El poeta chileno del siglo XX, Premio Nobel de Literatura de 1971 y una de las figuras poéticas más importantes de la literatura hispanoamericana Pablo Neruda (1904–1973) cautivó al mundo a los 19 años con su célebre libro 'Veinte poemas de amor y una canción desesperada'. Escribiendo desde su legendaria casa frente al océano en Isla Negra, creó una vasta obra poética inmortal.\n\nDurante toda su vida, Neruda mantuvo un hábito de escritura único y casi obsesivo: escribía todos sus manuscritos poéticos, memorias, cartas diplomáticas y correspondencia personal exclusivamente en 'Tinta verde'. Para él, la tinta negra resultaba fría, burocrática y mortecina como un informe oficial, mientras que el color verde representaba la vegetación de las selvas de Chile, el musgo costero, la esperanza y la vitalidad sin fin.\n\nCuando la tinta verde fluía suavemente sobre el papel blanco, Neruda sentía que la fatiga y la tensión de su corteza visual desaparecían instantáneamente, permitiendo que las metáforas y la intuición brotaran libremente. La ciencia del color moderna confirma que las longitudes de onda del verde (520–550 nm) provocan la menor estimulación de estrés en la retina y la corteza cerebral, induciendo ondas alfa que deslizan al cerebro hacia un estado de flujo profundo.",
-      "fr": "Le poète chilien du XXe siècle, prix Nobel de littérature 1971 et figure majeure de la poésie mondiale Pablo Neruda (1904–1973) a captivé le monde dès l'âge de 19 ans avec son célèbre recueil 'Vingt poèmes d'amour et une chanson désespérée'. Écrivant depuis sa maison légendaire face à l'océan à Isla Negra, il a bâti une œuvre immortelle.\n\nToute sa vie, Neruda a conservé une habitude d'écriture unique et presque obsessive : rédiger tous ses manuscrits, mémoires et correspondances exclusivement à l'encre verte. Pour lui, l'encre noire apparaissait froide, bureaucratique et mortelle comme un rapport officiel, tandis que le vert symbolisait la végétation luxuriante du Chili, la mousse côtière et la vitalité infinie.\n\nLorsque l'encre verte s'écoulait de sa plume sur le papier blanc, Neruda ressentait une dissipation immédiate de la fatigue visuelle, laissant émerger les métaphores et la poésie en toute liberté. La science moderne des couleurs confirme que les longueurs d'onde du vert (520–550 nm) provoquent la plus faible stimulation de stress sur la rétine et le cortex visuel, stimulant les ondes alfa pour glisser vers un état de flux créatif.",
-      "de": "Der chilenische Dichter des 20. Jahrhunderts, Nobelpreisträger für Literatur 1971 und eine der bedeutendsten Stimmen der Weltliteratur Pablo Neruda (1904–1973) verzauberte die Welt bereits im Alter von 19 Jahren mit seinem Werk 'Zwanzig Liebesgedichte und ein Lied der Verzweiflung'. Von seinem Haus am Ozean auf Isla Negra aus schuf er ein unsterbliches poetisches Lebenswerk.\n\nZeit seines Lebens pflegte Neruda eine einzigartige und fast obsessive Schreibgewohnheit: Er verfasste all seine Gedichtmanuskripte, Memoiren und privaten Briefe ausnahmslos mit 'grüner Tinte'. Für ihn schien schwarze Tinte kalt, bürokratisch und starr wie ein amtlicher Bericht, während Grün für die Wälder Chiles, das Küstenmoos, unendliche Hoffnung und Lebenskraft stand.\n\nWenn grüne Tinte sanft über das weiße Papier floss, spürte Neruda, wie die Belastung seines visuellen Kortex schwand und Metaphern wie eine natürliche Quelle sprudelten. Die Farbpsychologie bestätigt, dass grüne Lichtwellenlängen (520–550 nm) die geringste Stressstimulation auf Auge und Gehirn ausüben und Alpha-Wellen anregen, die das Gehirn in einen tiefen Flow versetzen.",
-      "pt": "O poeta chileno do século XX, Prêmio Nobel de Literatura de 1971 e uma das maiores vozes da poesia mundial Pablo Neruda (1904–1973) encantou o mundo aos 19 anos com seu célebre livro 'Vinte Poemas de Amor e uma Canção Desesperada'. Escrevendo de sua casa à beira do oceano em Isla Negra, ele construiu uma obra imortal.\n\nDurante toda a sua vida, Neruda manteve um hábito de escrita único e quase obsessivo: escrever todos os seus manuscritos poéticos, memórias e correspondências exclusivamente em 'Tinta verde'. Para ele, a tinta preta parecia fria, burocrática e morta como um relatório oficial, enquanto o verde representava a vegetação do Chile, o musgo costeiro e a vitalidade infinita.\n\nQuando a tinta verde fluía suavemente sobre o papel branco, Neruda sentia a fadiga do seu córtex visual desaparecer instantaneamente, permitindo que metáforas e poesias brotassem livremente. A ciência das cores confirma que os comprimentos de onda verdes (520–550 nm) causam a menor estimulação de estresse no cérebro, induzindo ondas alfa que levam a um estado de fluxo profundo.",
-      "id": "Penyair Chili abad ke-20, peraih Nobel Sastra 1971, dan salah satu tokoh puisi dunia Pablo Neruda (1904–1973) memikat dunia pada usia 19 tahun dengan bukunya yang terkenal 'Dua Puluh Puisi Cinta dan Satu Lagu Keputusasaan'. Dari rumahnya di tepi samudra di Isla Negra, ia menciptakan mahakarya abadi.\n\nSeumur hidupnya, Neruda mempertahankan kebiasaan menulis yang unik dan hampir obsesif: menulis semua naskah puisi, memoar, dan surat pribadinya secara eksklusif dengan 'Tinta Hijau'. Baginya, tinta hitam terasa dingin, birokratis, dan mati seperti laporan resmi, sementara warna hijau mewakili vegetasi hutan Chili, lumut pantai, dan vitalidad abadi.\n\nSaat tinta hijau mengalir dengan lancar di atas kertas putih, Neruda merasakan kelelahan dan ketegangan korteks visualnya sirna seketika, memungkinkan metafora dan puisi mengalir bebas. Sains warna modern mengonfirmasi bahwa panjang gelombang hijau (520–550 nm) memberikan stimulasi stres paling rendah pada otak, menginduksi gelombang otak alfa untuk membawa pikiran ke dalam aliran (flow) yang mendalam."
+      "ko": "\"초록색은 희망의 색이자 내 시가 숨 쉬는 자연의 색이다.\" ✒️\n\n1971년 노벨문학상 수상자이자 \"20세기 모든 언어를 통틀어 가장 위대한 시인\"이라 찬사받은 칠레의 국보급 시인 파블로 네루다(Pablo Neruda, 1904–1973). 그는 19세에 발표한 《스무 편의 사랑의 시와 한 편의 절망의 노래》로 전 세계 독자들의 거문고를 울렸으며, 칠레 남부 이슬라 네그라(Isla Negra)의 바닷가 오두막에서 자연과 사랑, 민중을 노래했습니다.\n\n네루다는 평생 자신의 모든 시, 자서전 원고, 외교관 서한, 친필 편지를 오직 '초록색 잉크(Green Ink)'만으로 작성하는 강박적일 만큼 특별한 필기 습관을 유지했습니다. 그에게 검은색 잉크는 사망 판정문이나 공문서처럼 차갑고 경직된 억압의 색이었습니다. 반면 초록색은 태평양 연안의 숲과 이끼, 희망과 자연의 생명력을 상징하는 영혼의 색이었습니다.\n\n초록색 잉크가 백지 위에 선명히 스며들 때 네루다는 뇌의 시각 피질 긴장이 이완되고 억눌린 영감이 샘물처럼 솟구쳐 나오는 시상(Poetic Flow)을 경험했습니다. 뇌과학적으로 녹색 광선 파장(520–550nm)은 시망막과 뇌 피질에 가장 부드러운 자연 자극을 전달하여 뇌파를 알파파(Alpha Waves) 상태로 전환함으로써, 긴장 없는 고도 몰입(Flow State)을 일으키는 인지색채학의 정수였습니다."
     },
     "whyTitle": {
-      "en": "Why Green Wavelengths Relieve Visual Strain & Induce Alpha Waves",
-      "ko": "녹색 파장이 뇌의 시각적 피로를 낮추고 알파파(Alpha Waves)를 자극하는 이유",
-      "ja": "緑色の波長が脳の視覚的疲労を軽減しアルファ波を刺激する理由",
-      "zh": "绿色光波如何降低视觉疲劳并诱发α脑波",
-      "es": "Por qué la Longitud de Onda Verde Alivia la Fatiga Visual e Induce Ondas Alfa",
-      "fr": "Pourquoi la Longueur d'Onde Verte Soulage la Fatigue Visuelle et Stimule les Ondes Alfa",
-      "de": "Warum grüne Wellenlängen visuelle Belastung reduzieren und Alpha-Wellen anregen",
-      "pt": "Por que a Onda Verde Alivia a Fadiga Visual e Induz Ondas Alfa",
-      "id": "Mengapa Gelombang Warna Hijau Meringankan Ketegangan Visual & Menginduksi Gelombang Alfa"
+      "ko": "녹색 파장이 뇌의 시각적 피로를 낮추고 알파파(Alpha Waves)를 자극하는 이유"
     },
     "whyDesc": {
-      "en": "Cognitive color science shows that the green light spectrum (520 - 550nm) places minimal stress on the retina and visual cortex. This visual ease stimulates alpha brain waves, transitioning the brain into a relaxed yet highly focused Flow State.",
-      "ko": "인지색채학 및 뇌과학 연구에 따르면 녹색 광선 파장(520 - 550nm)은 시망막과 뇌의 시각 피질(Visual Cortex)에 자극이 가장 적은 자연 색상 영역대입니다. 이 시각적 편안함은 뇌의 알파파(Alpha Waves)를 유도하여 긴장 없이 고도로 몰입하는 몰입(Flow State) 상태를 가동합니다.",
-      "ja": "認知色彩学および脳科学の研究によると、緑色の光線波長（520 - 550nm）は網膜や脳の視覚野への負担が最も少ない自然の色域です。この視覚的快適さは脳のアルファ波を誘導し、リラックスした高度の没頭（Flow State）へと導きます。",
-      "zh": "认知色彩学与脑科学研究指出，绿色光波长(520 - 550nm)是对视网膜与视觉皮层刺激最小的自然光域。这种视觉上的舒缓能诱发大脑产生α波(Alpha Waves)，使大脑无缝滑入松弛而高专的流心状态(Flow State)。",
-      "es": "La ciencia del color muestra que el espectro verde (520 - 550nm) causa un estrés mínimo en la retina y la corteza visual. Esta comodidad estimula las ondas cerebrales alfa, llevando al cerebro a un Estado de Flujo.",
-      "fr": "La science de la couleur montre que le spectre vert (520 - 550nm) exerce un stress minimal sur la rétine et le cortex visuel. Cette aisance stimule les ondes cérébrales alfa, conduisant à un État de Flux.",
-      "de": "Farbkognition zeigt, dass grünes Licht (520 - 550nm) Sehnetzhaut und Kortex am wenigsten belastet. Diese Entlastung stimuliert Alpha-Wellen für einen entspannten Flow-Zustand.",
-      "pt": "A ciência do cor mostra que o espectro verde (520 - 550nm) causa mínimo estresse na retina e no córtex visual. Esse conforto estimula as ondas alfa, levando ao Estado de Fluxo.",
-      "id": "Sains warna kognitif menunjukkan bahwa spektrum hijau (520 - 550nm) memberikan stres minimal pada retina dan korteks visual. Ini menstimulasi gelombang alfa otak."
+      "ko": "인지색채학 및 뇌과학 연구에 따르면 녹색 광선 파장(520 - 550nm)은 시망막과 뇌의 시각 피질(Visual Cortex)에 자극이 가장 적은 자연 색상 영역대입니다. 이 시각적 편안함은 뇌의 알파파(Alpha Waves)를 유도하여 긴장 없이 고도로 몰입하는 몰입(Flow State) 상태를 가동합니다."
     },
     "cautionTitle": {
-      "en": "Caution & Neruda's Color Tip",
-      "ko": "네루다 습관 주의사항 및 몰입 팁",
-      "ja": "ネルーダ習慣の注意点とヒント",
-      "zh": "聂鲁达习惯的注意事项与沉浸技巧",
-      "es": "Precaución y Consejo de Color de Neruda",
-      "fr": "Précaution et Conseil de Couleur de Neruda",
-      "de": "Vorsicht & Nerudas Farbtipp",
-      "pt": "Precaução e Dica de Cor de Neruda",
-      "id": "Peringatan & Tip Warna Neruda"
+      "ko": "네루다 습관 주의사항 및 몰입 팁"
     },
     "cautionDesc": {
-      "en": "Do not get obsessed with perfect grammar during your green ink flow. Let thoughts spill onto paper continuously for 10 minutes without stopping.",
-      "ko": "초록색 잉크 필기를 가동할 때 맞춤법이나 완벽한 문장 구조에 연연해하지 마세요. 10분 동안 뇌의 영감이 흐르는 대로 끊김 없이 손을 움직여 적는 것이 중요합니다.",
-      "ja": "緑のインクでの筆記時、文法や完璧な文章構造に拘らないでください。10分間、脳のインスピレーションが流れるままに手を止めずに書き綴ることが重要です。",
-      "zh": "在使用绿色墨水书写时，切勿执着于完美的语法或句法结构。重要的是在10分钟内顺应大脑灵感的涌动，毫不间断地挥笔疾书。",
-      "es": "No se obsesione con la gramática perfecta durante su flujo de tinta verde. Deje que los pensamientos fluyan en el papel durante 10 minutos sin parar.",
-      "fr": "Ne vous observez pas avec la grammaire pendant le flux d'encre verte. Laissez les pensées se déverser sur le papier pendant 10 minutes sans vous arrêter.",
-      "de": "Kommen Sie während des Schreibens mit grüner Tinte nicht in Versuchung, Grammatik zu korrigieren. Lassen Sie Gedanken 10 Minuten fließen.",
-      "pt": "Não se preocupe com a gramática perfeita durante o fluxo de tinta verde. Deixe os pensamentos fluírem no papel por 10 minutos sem parar.",
-      "id": "Jangan terobsesi dengan tata bahasa yang sempurna saat menulis dengan tinta hijau. Biarkan pemikiran mengalir di atas kertas selama 10 menit."
+      "ko": "초록색 잉크 필기를 가동할 때 맞춤법이나 완벽한 문장 구조에 연연해하지 마세요. 10분 동안 뇌의 영감이 흐르는 대로 끊김 없이 손을 움직여 적는 것이 중요합니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
     },
     "steps": [
       {
         "name": {
-          "en": "Switch to Green Visual Cues",
-          "ko": "초록색 시각 환경으로 전환하기",
-          "ja": "緑色の視覚環境への切り替え",
-          "zh": "切换至绿色视觉环境",
-          "es": "Cambiar a Señales Visuales Verdes",
-          "fr": "Passer à un Environnement Visuel Vert",
-          "de": "Zu grünen visuellen Signalen wechseln",
-          "pt": "Mudar para Estímulos Visuais Verdes",
-          "id": "Beralih ke Lingkungan Visual Hijau"
+          "ko": "초록색 시각 환경으로 전환하기"
         },
         "text": {
-          "en": "Use a green ink pen or switch your digital document font color to a soothing forest green.",
-          "ko": "초록색 만년필을 준비하거나 디지털 에디터의 폰트 및 배경 색상을 눈이 편안한 녹색 톤으로 전환합니다.",
-          "ja": "緑の万年筆を用意するか、デジタルエディタのフォントや背景色を目に優しいグリーン系に切り替えます。",
-          "zh": "准备支绿色万年笔，或将数字文本编辑器的字体/背景颜色调整为舒缓眼部的森林绿。",
-          "es": "Use un bolígrafo de tinta verde o cambie el color de fuente de su editor a un verde bosque relajante.",
-          "fr": "Utilisez un stylo vert ou changez la couleur de police de votre éditeur en vert forêt apaisant.",
-          "de": "Nutzen Sie einen grünen Stift oder stellen Sie Ihre Schriftfarbe auf ein beruhigendes Waldgrün um.",
-          "pt": "Use uma caneta de tinta verde ou mude a cor da fonte do seu editor para um verde floresta relaxante.",
-          "id": "Gunakan pena tinta hijau atau ubah warna font dokumen digital Anda menjadi hijau hutan yang menenangkan."
+          "ko": "초록색 만년필을 준비하거나 디지털 에디터의 폰트 및 배경 색상을 눈이 편안한 녹색 톤으로 전환합니다."
         }
       },
       {
         "name": {
-          "en": "Induce Alpha Waves",
-          "ko": "10초간 시각적 이완 알파파 유도",
-          "ja": "10秒間の視覚的リラックス（アルファ波誘導）",
-          "zh": "凝视10秒诱发视觉α波",
-          "es": "Inducir Ondas Alfa por 10 Segundos",
-          "fr": "Induire des Ondes Alfa pendant 10 Secondes",
-          "de": "Alpha-Wellen für 10 Sekunden anregen",
-          "pt": "Induzir Ondas Alfa por 10 Segundos",
-          "id": "Induksi Gelombang Alfa Selama 10 Detik"
+          "ko": "10초간 시각적 이완 알파파 유도"
         },
         "text": {
-          "en": "Gaze at the green ink or a nearby plant for 10 seconds to ease visual cortex tension.",
-          "ko": "초록색 잉크 자국이나 주변의 식물 잎사귀를 10초간 가만히 응시하며 시각 피질의 긴장을 풀어줍니다.",
-          "ja": "緑のインクの跡や周囲の観葉植物の葉を10秒間見つめ、視覚野の緊張をほぐします。",
-          "zh": "凝视书写的绿色痕迹或身边的绿植叶片10秒钟，舒缓视觉皮层的紧张度。",
-          "es": "Contemple la tinta verde o una planta cercana durante 10 segundos para relajar la corteza visual.",
-          "fr": "Regardez l'encre verte ou une plante voisine pendant 10 secondes pour détendre le cortex visuel.",
-          "de": "Betrachten Sie 10 Sekunden lang die grüne Tinte oder eine Pflanze, um den Sehkortex zu entspannen.",
-          "pt": "Contemple a tinta verde ou uma planta próxima por 10 segundos para relaxar o córtex visual.",
-          "id": "Tatap tinta hijau atau tanaman terdekat selama 10 detik untuk meredakan ketegangan korteks visual."
+          "ko": "초록색 잉크 자국이나 주변의 식물 잎사귀를 10초간 가만히 응시하며 시각 피질의 긴장을 풀어줍니다."
         }
       },
       {
         "name": {
-          "en": "Execute the Green Flow Sprint",
-          "ko": "10분 녹색 영감 쏟아내기 스프린트",
-          "ja": "10分間の緑のインスピレーションスプリント",
-          "zh": "执行10分钟绿色灵感倾泻冲刺",
-          "es": "Ejecutar el Sprint de Flujo Verde",
-          "fr": "Exécuter le Sprint de Flux Vert",
-          "de": "Grünen Flow-Sprint ausführen",
-          "pt": "Executar o Sprint de Fluxo Verde",
-          "id": "Jalankan Sprint Aliran Hijau 10 Menit"
+          "ko": "10분 녹색 영감 쏟아내기 스프린트"
         },
         "text": {
-          "en": "Write down ideas and creative sentences continuously for 10 minutes without judging your draft.",
-          "ko": "완성도를 평가하지 않고 뇌에서 흘러나오는 생각과 문장을 10분간 초록색 잉크로 쏟아내며 몰입합니다.",
-          "ja": "完成度を評価せず、脳からあふれ出る考えや文章を10分間緑のインクで一気に書き綴ります。",
-          "zh": "无须评判完成度，将大脑中倾泻而出的构想与句子用绿色墨水持续书写10分钟。",
-          "es": "Escriba ideas y frases creativas continuamente durante 10 minutos sin juzgar su borrador.",
-          "fr": "Écrivez des idées et phrases créatives en continu pendant 10 minutes sans juger votre premier jet.",
-          "de": "Schreiben Sie 10 Minuten ununterbrochen kreative Sätze auf, ohne Ihren Entwurf zu bewerten.",
-          "pt": "Escreva ideias e frases criativas continuamente por 10 minutos sem julgar seu rascunho.",
-          "id": "Tuliskan ide dan kalimat kreatif secara terus menerus selama 10 menit tanpa menilai draf Anda."
+          "ko": "완성도를 평가하지 않고 뇌에서 흘러나오는 생각과 문장을 10분간 초록색 잉크로 쏟아내며 몰입합니다."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "en": "Can I use digital green themes instead of physical green ink?",
-          "ko": "종이 필기 대신 디지털 에디터의 녹색 테마를 사용해도 동일한 효과가 있나요?",
-          "ja": "紙への筆記の代わりにデジタルエディタのグリーンテーマを使っても同様の効果がありますか？",
-          "zh": "使用数字编辑器的绿色主题代替纸质书写也有同样效果吗？",
-          "es": "¿Puedo usar temas verdes digitales en lugar de tinta verde física?",
-          "fr": "Puis-je utiliser un thème vert numérique plutôt que de l'encre verte ?",
-          "de": "Kann ich digitale grüne Themes anstelle von grüner Tinte nutzen?",
-          "pt": "Posso usar temas verdes digitais em vez de tinta verde física?",
-          "id": "Bisakah saya menggunakan tema hijau digital alih-alih tinta hijau fisik?"
+          "ko": "종이 필기 대신 디지털 에디터의 녹색 테마를 사용해도 동일한 효과가 있나요?"
         },
         "answer": {
-          "en": "Yes. The visual cortex responds to the green color wavelength regardless of whether it originates from ink or a digital screen.",
-          "ko": "네, 그렇습니다. 시각 피질은 파장을 감지하므로 아날로그 잉크뿐만 아니라 디지털 스크린의 차분한 딥 그린 테마에서도 동일한 알파파 유도 효과가 나타납니다.",
-          "ja": "はい。視覚野は波長を感知するため、アナログインクだけでなく、デジタルスクリーンの落ち着いたディープグリーンテーマでも同様のアルファ波誘導効果が得られます。",
-          "zh": "是的。视觉皮层对波长做出反应，因此无论是实体墨水还是屏幕上平缓的墨绿配色主题，均能诱发相同的α波效果。",
-          "es": "Sí. La corteza visual responde a la longitud de onda del color verde ya sea de tinta o de una pantalla.",
-          "fr": "Oui. Le cortex visuel répond à la longueur d'onde du vert, qu'elle provienne d'encre ou d'un écran.",
-          "de": "Ja. Der Sehkortex reagiert auf die grüne Farbwellenlänge unabhängig davon, ob sie von Tinte oder einem Bildschirm stammt.",
-          "pt": "Sim. O córtex visual responde à onda de cor verde, seja de tinta ou de uma tela digital.",
-          "id": "Ya. Korteks visual merespons panjang gelombang warna hijau baik berasal dari tinta atau layar digital."
+          "ko": "네, 그렇습니다. 시각 피질은 파장을 감지하므로 아날로그 잉크뿐만 아니라 디지털 스크린의 차분한 딥 그린 테마에서도 동일한 알파파 유도 효과가 나타납니다."
         }
       },
       {
         "question": {
-          "en": "Why does black ink sometimes cause creative block?",
-          "ko": "왜 검은색 잉크나 흑백 화면이 때때로 창작의 막힘을 유발하나요?",
-          "ja": "なぜ黒のインクや白黒の画面が時に創作の行き詰まりを引き起こすのですか？",
-          "zh": "为什么黑色墨水或黑白屏幕有时会引发创作卡顿？",
-          "es": "¿Por qué la tinta negra a veces causa bloqueo creativo?",
-          "fr": "Pourquoi l'encre noire provoque-t-elle parfois un blocage créatif ?",
-          "de": "Warum verursacht schwarze Tinte manchmal Schreibblockaden?",
-          "pt": "Por que a tinta preta às vezes causa bloqueio criativo?",
-          "id": "Mengapa tinta hitam terkadang menyebabkan hambatan kreatif?"
+          "ko": "왜 검은색 잉크나 흑백 화면이 때때로 창작의 막힘을 유발하나요?"
         },
         "answer": {
-          "en": "High contrast black text can evoke a subconscious feeling of formality and test-like judgment, increasing cognitive tension.",
-          "ko": "대비가 강한 검은색 텍스트는 뇌에 공적인 문서나 시험 평가라는 무의식적 긴장감을 주어 아이디어 발산을 억제할 수 있습니다.",
-          "ja": "コントラストの強い黒いテキストは、公的な文書や試験評価という無意識の緊張感を脳に与え、アイデアの発散を抑制することがあります。",
-          "zh": "高对比度的黑字容易给大脑带来一种源自公文或考试评估的潜意识紧张感，从而抑制创意的自由萌发。",
-          "es": "El texto negro de alto contraste puede evocar una sensación inconsciente de formalidad y juicio, aumentando la tensión.",
-          "fr": "Le texte noir à haut contraste peut évoquer inconsciemment une impression de formalité et d'évaluation, ce qui bloque l'esprit.",
-          "de": "Hoher Kontrast bei schwarzem Text erzeugt unterbewusst ein Gefühl von Formalität und Bewertung, was Blockaden fördert.",
-          "pt": "O texto preto de alto contraste pode evocar uma sensação subconsciente de formalidade e avaliação, aumentando a tensão.",
-          "id": "Teks hitam kontras tinggi dapat membangkitkan rasa formalitas subkesadaran dan penilaian seperti ujian, meningkatkan ketegangan."
+          "ko": "대비가 강한 검은색 텍스트는 뇌에 공적인 문서나 시험 평가라는 무의식적 긴장감을 주어 아이디어 발산을 억제할 수 있습니다."
         }
       }
-    ],
-    "pubDate": "2026-05-16",
-    "updatedDate": "2026-05-16"
+    ]
   }
 }

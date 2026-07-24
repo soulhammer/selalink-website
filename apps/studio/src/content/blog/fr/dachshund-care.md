@@ -16,23 +16,23 @@ faqs:
     answer: "Soutenez toujours l'ensemble de son corps. Placez une main sous sa poitrine et l'autre sous son arrière-train, en gardant son dos bien droit et horizontal."
 ---
 
-Les Teckels sont célèbres dans le monde entier pour leur silhouette unique et leur tempérament audacieux. Cependant, leur morphologie allongée aux pattes courtes les prédispose fortement à la hernie discale (IVDD). Sauter du canapé ou monter les escaliers peut causer de graves microtraumatismes au niveau du dos. Aujourd'hui, PetSelf décrypte le langage corporel lié au mal de dos du Teckel et propose une routine en 3 étapes pour sécuriser leur colonne et renforcer les muscles du tronc.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Preuves Vétérinaires et Comportementales
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Guide de santé du Teckel de l'American Kennel Club et Directives de l'Association Vétérinaire de la Colonne</strong>.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Teckel (Dachshund) Profil principal
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 16 ans</span></div>
@@ -43,7 +43,7 @@ Les Teckels sont célèbres dans le monde entier pour leur silhouette unique et 
 
 ## 1. Signaux d'alerte dorsale chez le Teckel : position de prière et dos rond
 
-Les Teckels manifestent leur inconfort au niveau du dos par des postures spécifiques. Se tenir sur les pattes arrière (faire le beau) applique une pression excessive sur les vertèbres lombaires. De même, un dos arqué ou un cou étiré de manière rigide sont des indices de douleur précoce à surveiller de près.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Les Teckels manifestent leur inconfort au niveau du dos par des postures spécif
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Examen de la mobilité du dos et massage doux</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Avant l'effort, observez s'il marche de façon rigide. Palpez doucement sa colonne vertébrale pour détecter d'éventuelles douleurs.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Les Teckels manifestent leur inconfort au niveau du dos par des postures spécif
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi : Examen de l'environnement de vie</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Vérifiez la stabilité des rampes près du canapé et du lit. Bloquez l'accès aux escaliers à l'aide d'une barrière de sécurité.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Les Teckels manifestent leur inconfort au niveau du dos par des postures spécif
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir : Renforcement musculaire et contrôle du poids</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Marchez lentement sur un sol plat et herbeux pour muscler les abdominaux qui soutiennent le dos. Pesez ses croquettes avec précision.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Les Teckels manifestent leur inconfort au niveau du dos par des postures spécif
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Les Teckels manifestent leur inconfort au niveau du dos par des postures spécif
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      La montée et la descente d'escaliers génèrent des chocs verticaux violents pour leur colonne. Il est fortement recommandé d'interdire les escaliers et de les porter.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Les Teckels manifestent leur inconfort au niveau du dos par des postures spécif
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Soutenez toujours l'ensemble de son corps. Placez une main sous sa poitrine et l'autre sous son arrière-train, en gardant son dos bien droit et horizontal.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </details>
 </div>

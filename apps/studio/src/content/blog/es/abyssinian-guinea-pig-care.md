@@ -16,23 +16,23 @@ faqs:
     answer: "No. Las cobayas son animales de manada muy sociales. Vivir solas les genera gran tristeza y estrés. Deben mantenerse en parejas del mismo sexo."
 ---
 
-Las cobayas abisinias son queridas por sus rosetas de pelo y carácter enérgico. Al ser roedores, su organismo no puede sintetizar la vitamina C. Su deficiencia provoca escorbuto, dolor articular y defensas bajas. Además, su sistema respiratorio es muy sensible, por lo que el control del polvo en el heno es fundamental. Hoy, PetSelf analiza su lenguaje corporal y comparte una rutina de 3 pasos para asegurar su vitamina C y salud respiratoria.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Evidencia Veterinaria y Comportamental
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Directrices de Cuidado de Roedores de la RSPCA y Estándares de Veterinarios de Animales Exóticos</strong>.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Cobaya Abisinia Perfil principal
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil media</span><span class="font-bold text-slate-800 dark:text-slate-200">5 ~ 7 años</span></div>
@@ -43,7 +43,7 @@ Las cobayas abisinias son queridas por sus rosetas de pelo y carácter enérgico
 
 ## 1. Comunicación de la cobaya: wheeking y popcorning
 
-Las cobayas son animales muy expresivos. Emiten un chillido agudo llamado 'wheeking' cuando piden comida. Por otro lado, cuando están desbordantes de felicidad y se sienten seguras, dan saltos rápidos y repentinos en el aire, un comportamiento conocido como 'popcorning'.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Las cobayas son animales muy expresivos. Emiten un chillido agudo llamado 'wheek
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Suplementación de vitamina C y heno Timothy</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Déle el suplemento de vitamina C directamente en la boca (no en el agua). Rellene el comedero con heno fresco.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Las cobayas son animales muy expresivos. Emiten un chillido agudo llamado 'wheek
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Limpieza de la jaula y control de polvo</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Retire el sustrato húmedo. Sacuda el heno antes de introducirlo para minimizar el polvo respirable.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Las cobayas son animales muy expresivos. Emiten un chillido agudo llamado 'wheek
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Examen de salud y socialización</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Revise que no tenga mucosidad en la nariz (síntoma de resfriado) y cepille sus rosetas de pelo. Dedíquele tiempo.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Las cobayas son animales muy expresivos. Emiten un chillido agudo llamado 'wheek
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Embora o tratamento veterinário é importante, proporcionar um ambiente seguro (rampas, espaços verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Las cobayas son animales muy expresivos. Emiten un chillido agudo llamado 'wheek
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Las frutas cítricas tienen demasiado azúcar y acidez, lo que puede causar llagas en la boca. Es mejor usar pimiento verde o suplementos específicos para cobayas.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Las cobayas son animales muy expresivos. Emiten un chillido agudo llamado 'wheek
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      No. Las cobayas son animales de manada muy sociales. Vivir solas les genera gran tristeza y estrés. Deben mantenerse en parejas del mismo sexo.
+Aplique esta rutina histórica a sus hábitos diarios para experimentar un enfoque profundo.
     </p>
   </details>
 </div>

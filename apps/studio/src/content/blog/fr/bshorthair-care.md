@@ -16,23 +16,23 @@ faqs:
     answer: "Ils aiment leur indépendance et paniquent lorsque leurs pattes quittent le sol. Le porter de force peut détériorer le lien de confiance."
 ---
 
-Avec leur face ronde et leur corps musclé, les British Shorthair sont de doux géants. Cependant, leur squelette robuste fait que l'obésité pèse sur leurs articulations. Ils sont de plus sujets à la Cardiomyopathie Hypertrophique (CMH), aggravée par le surpoids. Aujourd'hui, PetSelf propose une routine en 3 étapes.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Preuves Vétérinaires et Comportementales
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Normes de la GCCF pour le British Shorthair et directives sur l'obésité de l'AAFP</strong>.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </div>
 </div>
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 British Shorthair Profil principal
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </h3>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 ans</span></div>
@@ -43,7 +43,7 @@ Avec leur face ronde et leur corps musclé, les British Shorthair sont de doux g
 
 ## 1. Langage corporel du British Shorthair : regard distant et mouvements de queue
 
-Les British Shorthairs n'aiment pas être contraints et montrent leur confiance par un 'regard doux' à distance. En revanche, lorsqu'ils sont agacés, ils montrent des 'mouvements de queue'. Le porter à ce moment créera du stress.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -77,7 +77,7 @@ Les British Shorthairs n'aiment pas être contraints et montrent leur confiance 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Mesure stricte des portions avec une balance de cuisine</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Pour prévenir la cardiomyopathie hypertrophique (CMH) due à l'obésité, pesez les croquettes sur une balance.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -87,7 +87,7 @@ Les British Shorthairs n'aiment pas être contraints et montrent leur confiance 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi : Brossage du sous-poil avec une brosse en caoutchouc</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Bien que de poil court, leur pelage est dense. Brossez 5 min avec une brosse en caoutchouc pour ramasser le poil mort.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Les British Shorthairs n'aiment pas être contraints et montrent leur confiance 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir : Mesure du rythme respiratoire pour la CMH et jeu calme</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Vérifiez que son rythme respiratoire au repos est inférieur à 30 mouvements par minute, et jouez calmement avec des balles en laine.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Les British Shorthairs n'aiment pas être contraints et montrent leur confiance 
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </div>
 </div>
@@ -124,7 +124,7 @@ Les British Shorthairs n'aiment pas être contraints et montrent leur confiance 
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Le British Shorthair a une carrure lourde et est sujet à la CMH. L'obésité oblige le cœur à travailler plus, augmentant les risques d'insuffisance.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </details>
 
@@ -134,7 +134,7 @@ Les British Shorthairs n'aiment pas être contraints et montrent leur confiance 
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ils aiment leur indépendance et paniquent lorsque leurs pattes quittent le sol. Le porter de force peut détériorer le lien de confiance.
+Appliquez cette routine à vos habitudes quotidiennes pour faire l'expérience d'une concentration profonde.
     </p>
   </details>
 </div>

@@ -1,17 +1,25 @@
 ---
-formatVersion: 4
 title: "IBM을 만든 한 단어: 토마스 왓슨의 15분 침묵 사색 루틴"
 description: "사무실마다 'THINK' 팻말을 걸고 하루 15분 조용히 생각에 빠진 IBM 창업자 토마스 왓슨의 사색법. 의도적인 단절이 뇌의 장기 기억을 정리하는 원리를 설명합니다."
-pubDate: "2026-04-19"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["위인 습관", "토마스 왓슨", "사색", "의사결정", "단순화"]
-heroImage: "/images/blog/watson_think_sign.webp"
+tags: ["위습관","루틴"]
+heroImage: "/images/blog/watson_think_sign.png"
 app: "buildself"
-authority: "IBM 기업 박물관 역사 고증서 및 런던 대학교(UCL) 신경학 사색 메커니즘 연구"
-updatedDate: "2026-04-19"
+formatVersion: 4
+authority: "Watson Think Sign 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+steps:
+  - name: "업무 공간 내 '생각' 팻말의 설치"
+    text: "모니터 프레임이나 책상 위 잘 보이는 위치에 오직 'THINK' 혹은 '생각' 한 단어만 명료하게 적힌 종이나 카드를 부착합니다."
+  - name: "오전 시간 중의 15분 완전 격리 예약"
+    text: "매일 아침 일찍 스마트폰, PC 등 모든 전자기기의 알림과 디스플레이를 전면 차단하고 15분간 사색에만 임할 타이머를 가동합니다."
+  - name: "단 하나의 핵심 고민과 생각의 정돈"
+    text: "필기도구를 쓰지 않고 머릿속으로만 오늘 해결할 가장 어렵고 영향력 있는 문제에 주의를 수렴해 철저하게 사색합니다."
 faqs:
   - question: "생각만 하니까 자꾸 딴생각이나 잡념으로 흘러가는데 어떻게 하죠?"
     answer: "초기 뇌 훈련 단계에서 자연스러운 현상이므로, 잡념이 떠오르면 억누르지 말고 팻말의 'THINK' 단어를 한번 응시하며 원래 해결 주제로 생각을 부드럽게 되돌리면 됩니다."
+
 ---
 
 "우리가 겪는 모든 문제는 생각하지 않으려는 게으름에서 비롯된다." 💡
@@ -26,27 +34,25 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 & 학술적 근거
+      역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 IBM의 발전 역사 고증 데이터와 토마스 왓슨의 연설문 내용 및 외부 감각 입력을 배제한 채 순수 사색에 전념할 때 활성화되는 대뇌 신경 세포의 런던 대학교(UCL) 신경생리학 및 인지 메커니즘 연구를 기반으로 작성되었습니다.
+      본 콘텐츠는 <strong>Watson Think Sign 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 watson-think-sign 루틴을 다룹니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. 아무것도 하지 않는 단절이 왜 지력을 높이는가
+## 아무것도 하지 않는 단절이 왜 지력을 높이는가
 
 뇌가 쉴 새 없이 몰려드는 자극(이메일, 알림 등)에 반응할 때는 기억 정리와 장기적인 가치 기획을 수행할 여유가 없습니다. 모든 입력을 완전히 단절한 채 생각에 몰두할 때, 뇌는 중요 정보를 선별하는 <strong>살리언스 네트워크(Salience Network)</strong>를 안정화하고 디폴트 모드 네트워크와 유기적으로 정보를 교환하여 복잡했던 뇌 세포망의 교통정리를 실행하고 해법을 찾아냅니다.
 
-또한 아무런 자극 없이 하나의 대상을 집중하여 곱씹는 과정은 단기 작업 기억 영역(Working Memory)에 누적되어 있던 노이즈 데이터들을 걸러내어, 장기 기억 장치와의 새로운 연합을 공고히 다져줌으로써 혁신적인 비즈니스 아이디어를 만들어냅니다.
-
 ---
 
-## 2. 현대인을 위한 3단계 실천 루틴
+## 주의사항 및 팁
 
-지적 성장과 명쾌한 두뇌 판단 상태를 회복하는 왓슨식 3단계 의도적 사색법을 제안합니다.
+이 사색 훈련이 성공하려면 눈에 잘 보이는 물리적 표지인 <strong>시각적 프롬프트</strong>가 사무 공간 내에 있어야 합니다. 문구가 보이지 않으면 우리의 뇌는 다시 관성에 젖어 메일을 열고 인터넷 서핑을 하는 즉각적 반응 행동을 수행하므로, 눈앞에 확실한 팻말을 두어 의식의 흐름을 주기적으로 끊어주는 제어 장치를 유지해야 합니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,29 +84,13 @@ faqs:
   </p>
 </div>
 
----
-
-## 3. 성공적인 루틴 정착을 위한 실천 가이드
-
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">명시적인 신호로 뇌를 일깨우세요</strong>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      이 사색 훈련이 성공하려면 눈에 잘 보이는 물리적 표지인 <strong>시각적 프롬프트</strong>가 사무 공간 내에 있어야 합니다. 문구가 보이지 않으면 우리의 뇌는 다시 관성에 젖어 메일을 열고 인터넷 서핑을 하는 즉각적 반응 행동을 수행하므로, 눈앞에 확실한 팻말을 두어 의식의 흐름을 주기적으로 끊어주는 제어 장치를 유지해야 합니다.
-    </p>
-  </div>
-</div>
-
----
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📍</span> 자주 묻는 질문 (FAQ)
+    <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>생각만 하니까 자꾸 딴생각이나 잡념으로 흘러가는데 어떻게 하죠?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
