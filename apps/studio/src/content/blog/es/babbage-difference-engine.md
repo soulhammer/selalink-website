@@ -1,8 +1,8 @@
 ---
 title: "La Lógica de la Máquina Diferencial de Charles Babbage: Cómo la Descomposición Modular Elimina Errores"
 description: "Descubra cómo el padre de la computación del siglo XIX Charles Babbage eliminó los errores de cálculo al diseñar módulos mecánicos."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-01-10"
+updatedDate: "2026-01-10"
 category: "BuildSelf"
 tags: ["La Lógica ","Routine"]
 heroImage: "/images/blog/babbage_difference_engine.png"

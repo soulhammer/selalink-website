@@ -1,8 +1,8 @@
 ---
 title: "カール・セーガンの宇宙的視点：『淡い青い点』習慣で 日常の不安とストレスを リセットする Super Routine"
 description: "天文学者カール・セーガンが3分間の宇宙的視点（ズームアウト）で日常の不安を払拭した歴史的事実と、『畏敬の念効果（Awe Effect）』の脳科学的仕組みを解説します。"
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-06-27"
+updatedDate: "2026-06-27"
 category: "BuildSelf"
 tags: ["カール・セーガンの宇","Routine"]
 heroImage: "/images/blog/sagan_cosmic_perspective.png"

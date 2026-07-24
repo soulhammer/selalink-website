@@ -1,8 +1,8 @@
 ---
 title: "O Polimento de Lentes Esféricas de Antonie van Leeuwenhoek: Como Perfurar a Essência com Micro-Paciência e Observação Microscópica"
 description: "Descubra como Antonie van Leeuwenhoek, o pai da microbiologia, poliu manualmente lentes de 500x para descobrir bactérias, e a neurociência da imersão tátil-visual que acalma o cerebelo e os gânglios da base."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["O Poliment","Routine"]
 heroImage: "/images/blog/leeuwenhoek_lens_grinding.png"

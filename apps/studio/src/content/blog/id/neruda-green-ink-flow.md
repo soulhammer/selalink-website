@@ -1,8 +1,8 @@
 ---
 title: "Rutinitas Tinta Hijau Pablo Neruda: Cara Panjang Gelombang Warna Membuka Aliran Kreatif"
 description: "Pelajari mengapa peraih Nobel Pablo Neruda selalu menulis dengan tinta hijau dan bagaimana gelombang warna hijau menginduksi gelombang otak alfa."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-05-16"
+updatedDate: "2026-05-16"
 category: "BuildSelf"
 tags: ["Rutinitas ","Routine"]
 heroImage: "/images/blog/neruda_green_ink_flow.png"

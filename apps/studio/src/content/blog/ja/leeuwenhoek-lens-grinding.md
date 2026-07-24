@@ -1,8 +1,8 @@
 ---
 title: "レーウェンフックの球状レンズ研磨術：極上の忍耐と微小観察で本質を見抜く方法"
 description: "微生物学の父レーウェンフックが500倍率の球状レンズを自ら研磨し、世界で初めて細菌や微生物を発見した歴史的事実と、触覚・視覚没頭の脳科学を解説します。"
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["レーウェンフックの球","Routine"]
 heroImage: "/images/blog/leeuwenhoek_lens_grinding.png"

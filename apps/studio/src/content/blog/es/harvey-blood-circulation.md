@@ -1,8 +1,8 @@
 ---
 title: "La Prueba Cuantitativa de William Harvey: Cómo los Datos Empíricos Derriban Creencias Ciegas"
 description: "Descubra cómo el médico del siglo XVII William Harvey demostró la circulación sanguínea mediante matemáticas cuantitativas."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["La Prueba ","Routine"]
 heroImage: "/images/blog/harvey_blood_circulation.png"

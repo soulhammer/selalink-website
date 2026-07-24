@@ -1,8 +1,8 @@
 ---
 title: "列文虎克微型球形透镜磨制法：用极致耐心与微观观察解构未知本质"
 description: "深入探索微生物学之父列文虎克如何手工打磨500倍微型透镜首次发现细菌与微观生命，以及触觉-视觉精细结合放松小脑与基底核的脑科学原理。"
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["列文虎克微型球形透镜","Routine"]
 heroImage: "/images/blog/leeuwenhoek_lens_grinding.png"

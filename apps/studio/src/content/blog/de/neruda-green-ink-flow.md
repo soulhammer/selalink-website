@@ -1,8 +1,8 @@
 ---
 title: "Pablo Nerudas grüne Tinte-Routine: Wie Farbwellenlängen kreativen Flow freisetzen"
 description: "Erfahren Sie, warum der Nobelpreisträger Pablo Neruda ausschließlich mit grüner Tinte schrieb und wie grüne Lichtwellen Alpha-Gehirnwellen induzieren."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-05-16"
+updatedDate: "2026-05-16"
 category: "BuildSelf"
 tags: ["Pablo Neru","Routine"]
 heroImage: "/images/blog/neruda_green_ink_flow.png"

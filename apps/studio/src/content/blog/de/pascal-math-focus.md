@@ -1,8 +1,8 @@
 ---
 title: "Blaise Pascals Geometrie-Fokus: Wie hochkognitive Aufgaben Schmerz und Stress im Gehirn ausschalten"
 description: "Entdecken Sie, wie der Universalgelehrte Blaise Pascal im 17. Jahrhundert komplexe Mathematik nutzte, um Schmerzen und Stress zu blockieren."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-06-06"
+updatedDate: "2026-06-06"
 category: "BuildSelf"
 tags: ["Blaise Pas","Routine"]
 heroImage: "/images/blog/pascal_math_focus.png"

@@ -1,8 +1,8 @@
 ---
 title: "Carl Sagans kosmische Perspektive: Wie der blasse blaue Punkt Stress und Angst auflöst"
 description: "Erfahren Sie, wie der Astronom Carl Sagan mit einem 3-minütigen kosmischen Zoom-Out Angst überwand und wie der Awe-Effekt den Amygdala-Stress reduziert."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-06-27"
+updatedDate: "2026-06-27"
 category: "BuildSelf"
 tags: ["Carl Sagan","Routine"]
 heroImage: "/images/blog/sagan_cosmic_perspective.png"

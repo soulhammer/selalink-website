@@ -1,8 +1,8 @@
 ---
 title: "Louis Daguerres augenblickliche Fixierung: Wie Belichtungsgewohnheiten Inspiration einfrieren"
 description: "Erfahren Sie, wie Louis Daguerre im 19. Jahrhundert die Fotografie durch Silberplatten-Belichtung revolutionierte."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
 tags: ["Louis Dagu","Routine"]
 heroImage: "/images/blog/daguerre_silver_plate.png"

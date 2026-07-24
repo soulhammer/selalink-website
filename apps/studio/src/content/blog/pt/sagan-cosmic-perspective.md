@@ -1,8 +1,8 @@
 ---
 title: "A Perspectiva Cósmica de Carl Sagan: Como o Hábito do Pálido Ponto Azul Reseta o Estresse"
 description: "Aprenda como o astrônomo Carl Sagan usou um zoom-out cósmico de 3 minutos para vencer a ansiedade."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-06-27"
+updatedDate: "2026-06-27"
 category: "BuildSelf"
 tags: ["A Perspect","Routine"]
 heroImage: "/images/blog/sagan_cosmic_perspective.png"

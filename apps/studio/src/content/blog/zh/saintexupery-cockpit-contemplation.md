@@ -1,8 +1,8 @@
 ---
 title: "圣埃克苏佩里的驾驶舱冥想法：如何在极致孤独与删繁就简中提炼本质"
 description: "探索飞行员作家圣埃克苏佩里如何在大气层高空的孤独中沉思，并用精简法则创作出《小王子》等不朽名著。"
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-07-18"
+updatedDate: "2026-07-18"
 category: "BuildSelf"
 tags: ["圣埃克苏佩里的驾驶舱","Routine"]
 heroImage: "/images/blog/saintexupery_cockpit_contemplation.png"

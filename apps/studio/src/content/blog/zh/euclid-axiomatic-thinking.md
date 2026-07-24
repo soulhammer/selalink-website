@@ -1,8 +1,8 @@
 ---
 title: "欧几里得的公理化思考：如何用第一性原理解构复杂决策与打破困局"
 description: "探索古希腊数学家欧几里得如何将复杂问题解构为无可争议的公理，建立现代第一性原理思考的蓝图。"
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-02-21"
+updatedDate: "2026-02-21"
 category: "BuildSelf"
 tags: ["欧几里得的公理化思考","Routine"]
 heroImage: "/images/blog/euclid_axiomatic_thinking.png"

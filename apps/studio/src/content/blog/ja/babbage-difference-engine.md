@@ -1,8 +1,8 @@
 ---
 title: "チャールズ・バベッジの階差機関分解術：機械的歯車の モジュール化で 誤差とミスを 0%にする Super Routine"
 description: "19世紀のコンピュータの父チャールズ・バベッジが、精密な歯車モジュール化で誤差ゼロの計算機を設計した歴史的事実と、システムモジュール化の脳科学を解説します。"
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-01-10"
+updatedDate: "2026-01-10"
 category: "BuildSelf"
 tags: ["チャールズ・バベッジ","Routine"]
 heroImage: "/images/blog/babbage_difference_engine.png"

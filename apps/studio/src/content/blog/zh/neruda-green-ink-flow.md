@@ -1,8 +1,8 @@
 ---
 title: "巴勃罗·聂鲁达的绿色墨水写作习惯：色彩波长如何激发大脑的创造力"
 description: "探索诺贝尔奖得主巴勃罗·聂鲁达为何坚持用绿色墨水写作，以及绿色光波如何诱发α脑波促进创意流淌。"
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-05-16"
+updatedDate: "2026-05-16"
 category: "BuildSelf"
 tags: ["巴勃罗·聂鲁达的绿色","Routine"]
 heroImage: "/images/blog/neruda_green_ink_flow.png"

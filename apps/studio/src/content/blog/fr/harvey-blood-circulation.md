@@ -1,8 +1,8 @@
 ---
 title: "La Preuve Quantitative de William Harvey : Comment les données empiriques renversent les fausses croyances"
 description: "Découvrez comment le médecin du XVIIe siècle William Harvey a prouvé la circulation sanguine grâce aux mathématiques."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["La Preuve ","Routine"]
 heroImage: "/images/blog/harvey_blood_circulation.png"

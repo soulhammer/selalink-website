@@ -1,8 +1,8 @@
 ---
 title: "La Contemplación en Cabina de Saint-Exupéry: Cómo la Soledad y la Edición Revelan la Perfección"
 description: "Descubra cómo el aviador y autor Antoine de Saint-Exupéry utilizó la soledad a gran altitud para escribir literatura atemporal como El Principito."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-07-18"
+updatedDate: "2026-07-18"
 category: "BuildSelf"
 tags: ["La Contemp","Routine"]
 heroImage: "/images/blog/saintexupery_cockpit_contemplation.png"

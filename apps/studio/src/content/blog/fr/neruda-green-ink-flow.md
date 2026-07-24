@@ -1,8 +1,8 @@
 ---
 title: "La Routine de l'Encre Verte de Pablo Neruda : Comment la longueur d'onde des couleurs libère le flux créatif"
 description: "Découvrez pourquoi le prix Nobel Pablo Neruda écrivait exclusivement à l'encre verte."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-05-16"
+updatedDate: "2026-05-16"
 category: "BuildSelf"
 tags: ["La Routine","Routine"]
 heroImage: "/images/blog/neruda_green_ink_flow.png"

@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "생텍쥐페리의 조종석 메모법: 고도의 고독과 군더더기 정제로 본질을 뽑아내는 법"
 description: "《어린 왕자》의 저자이자 비행사인 생텍쥐페리가 상공 조종석의 고독 속에서 구상하고 불필요한 미사여구를 깎아내며 본질에 도달한 글쓰기 습관을 살펴봅니다."
-pubDate: "2026-07-24"
+pubDate: "2026-07-18"
 category: "BuildSelf"
 tags: ["글쓰기", "창의성", "사색", "본질"]
 heroImage: "/images/blog/saintexupery_cockpit_contemplation.webp"
 app: "buildself"
 authority: "앙투안 드 생텍쥐페리의 《인간의 대지》(1939) 및 Human Brain Mapping 저널 뇌과학 연구"
-updatedDate: "2026-07-24"
+updatedDate: "2026-07-18"
 faqs:
   - question: "이 뺄셈 법칙을 업무 보고서나 기획안 작성에도 적용할 수 있나요?"
     answer: "네! 초안을 솔직하게 자유롭게 쓴 후, 두 번째 검토에서 불필요한 수식어, 전문 용어, 늘어지는 문장을 과감히 깎아내면 전달력이 2배 높아집니다."

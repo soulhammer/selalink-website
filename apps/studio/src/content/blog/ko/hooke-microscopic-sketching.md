@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "로버트 훅의 미시 스케치법: 0.01mm 미세 관찰로 전전두엽 초집중을 깨우는 법"
 description: "17세기 영국의 천재 과학자 로버트 훅이 현미경 정밀 스케치로 최초의 세포(Cell)를 발견한 역사적 사실과 손-눈 동기화 관찰의 뇌과학적 원리를 다룹니다."
-pubDate: "2026-07-24"
+pubDate: "2026-04-04"
 category: "BuildSelf"
 tags: ["집중", "관찰", "연구", "세포"]
 heroImage: "/images/blog/hooke_microscopic_sketching.webp"
 app: "buildself"
 authority: "로버트 훅의 《마이크로그라피아》(1665) 및 실험심리학 저널(Journal of Experimental Psychology)"
-updatedDate: "2026-07-24"
+updatedDate: "2026-04-04"
 faqs:
   - question: "종이 스케치 대신 디지털 마인드맵이나 수공 에디터를 사용해도 되나요?"
     answer: "네! 매체가 종이든 태블릿 펜이든 손과 눈의 미세한 운동 자극을 동기화하여 구조를 그려낸다면 동일한 뇌 집중 효과를 얻습니다."

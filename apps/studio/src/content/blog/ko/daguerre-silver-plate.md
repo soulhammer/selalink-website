@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "루이 다게르의 은판 노출법: 찰나의 순간을 영원히 고정시켜 최고의 영감을 보존하는 법"
 description: "19세기 프랑스의 발명가 루이 다게르가 은판 화학 반응 노출법으로 인류 최초의 실용 사진을 발명한 역사적 사실과 순간 시각 고정의 뇌과학적 원리를 알아봅니다."
-pubDate: "2026-07-24"
+pubDate: "2026-01-31"
 category: "BuildSelf"
 tags: ["찰나", "사진", "화학", "기록"]
 heroImage: "/images/blog/daguerre_silver_plate.webp"
 app: "buildself"
 authority: "루이 다게르의 저서 《다게레오타입의 역사와 기술 서술》(1839) 및 시각문화연구 저널"
-updatedDate: "2026-07-24"
+updatedDate: "2026-01-31"
 faqs:
   - question: "일반적인 메모 작성과 다게르의 시각 노출 고정법은 무엇이 다른가요?"
     answer: "일반 메모는 단어를 수동적으로 적지만, 다게르 방식은 3초간 뇌 속에서 이미지를 강하게 감광(노출)시킨 뒤 기록하므로 훗날 메모를 볼 때 영감의 생생한 문맥이 그대로 재구성됩니다."

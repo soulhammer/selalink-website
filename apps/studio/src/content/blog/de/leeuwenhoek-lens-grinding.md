@@ -1,8 +1,8 @@
 ---
 title: "Antonie van Leeuwenhoeks Kugellinsenschleifen: Wie Sie das Wesen der Dinge durch Mikrogeduld und mikroskopische Beobachtung durchdringen"
 description: "Erfahren Sie, wie Antonie van Leeuwenhoek, der Vater der Mikrobiologie, 500-fach vergrößernde Linsen von Hand schleifte, um Bakterien zu entdecken, und die Neurowissenschaft der taktil-visuellen Vertiefung, die Kleinhirn und Basalganglien beruhigt."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Antonie va","Routine"]
 heroImage: "/images/blog/leeuwenhoek_lens_grinding.png"

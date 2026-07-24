@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "칼 세이건의 우주적 관점: '창백한 푸른 점' 루틴으로 일상의 불안과 스트레스를 리셋하는 법"
 description: "천문학자 칼 세이건이 3분간의 우주적 부감(Zoom-out)으로 일상의 불안을 털어낸 역사적 사실과 '경외감 효과(Awe Effect)'의 뇌과학적 원리를 다룹니다."
-pubDate: "2026-07-24"
+pubDate: "2026-06-27"
 category: "BuildSelf"
 tags: ["성찰", "마음", "스트레스 해소", "본질"]
 heroImage: "/images/blog/sagan_cosmic_perspective.webp"
 app: "buildself"
 authority: "칼 세이건의 《창백한 푸른 점》(1994), 《코스모스》(1980) 및 성격·사회심리학 저널 연구"
-updatedDate: "2026-07-24"
+updatedDate: "2026-06-27"
 faqs:
   - question: "발표나 중요한 미팅 전에 불안할 때도 이 루틴이 효과가 있나요?"
     answer: "네! 1분간 우주적 줌아웃을 떠올리면 심박수가 안정되고 무대 공포증이나 수행 불안이 현저히 낮아집니다."

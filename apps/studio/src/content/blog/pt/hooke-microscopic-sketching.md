@@ -1,8 +1,8 @@
 ---
 title: "O Desenho Microscópico de Robert Hooke: Como a Observação Detalhada Desbloqueia o Foco Profundo"
 description: "Descubra como o polímata do século XVII Robert Hooke descobriu as células através do desenho microscópico."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
 tags: ["O Desenho ","Routine"]
 heroImage: "/images/blog/hooke_microscopic_sketching.png"

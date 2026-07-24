@@ -1,8 +1,8 @@
 ---
 title: "サン＝テグジュペリの操縦席メモ術：孤高の孤独と 削ぎ落としで 本質を抽出する Super Routine"
 description: "『星の王子さま』の著者で飛行士のサン＝テグジュペリが、上空の操縦席という孤独の中でアイデアを温め、贅肉を削ぎ落として本質に到達した執筆習慣を解説します。"
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-07-18"
+updatedDate: "2026-07-18"
 category: "BuildSelf"
 tags: ["サン＝テグジュペリの","Routine"]
 heroImage: "/images/blog/saintexupery_cockpit_contemplation.png"

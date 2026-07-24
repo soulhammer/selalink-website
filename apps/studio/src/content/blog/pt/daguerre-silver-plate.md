@@ -1,8 +1,8 @@
 ---
 title: "A Fixação Instantânea de Louis Daguerre: Como Hábitos de Exposição Congelam Grandes Insights"
 description: "Descubra como o inventor do século XIX Louis Daguerre revolucionou a fotografia através da fixação em placas de prata."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
 tags: ["A Fixação ","Routine"]
 heroImage: "/images/blog/daguerre_silver_plate.png"

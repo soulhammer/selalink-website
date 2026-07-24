@@ -1,8 +1,8 @@
 ---
 title: "Saint-Exupérys Cockpit-Kontemplation: Wie Einsamkeit und Radierung von Ablenkung Perfektion enthüllen"
 description: "Entdecken Sie, wie der Flieger und Autor Antoine de Saint-Exupéry die Einsamkeit in großer Höhe nutzte, um zeitlose Literatur wie Der kleine Prinz zu schreiben."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-07-18"
+updatedDate: "2026-07-18"
 category: "BuildSelf"
 tags: ["Saint-Exup","Routine"]
 heroImage: "/images/blog/saintexupery_cockpit_contemplation.png"

@@ -1,8 +1,8 @@
 ---
 title: "Blaise Pascal's Geometry Focus: How High-Cognition Tasks Overcome Pain & Stress"
 description: "Discover how 17th-century polymath Blaise Pascal used intense mathematical problem-solving to block chronic pain, and how attentional gating theory validates his routine."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-06-06"
+updatedDate: "2026-06-06"
 category: "BuildSelf"
 tags: ["Great Habits","pascal","Routine","Stamina"]
 heroImage: "/images/blog/pascal_math_focus.png"

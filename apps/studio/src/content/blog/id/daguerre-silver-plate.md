@@ -1,8 +1,8 @@
 ---
 title: "Fiksasi Instant Louis Daguerre: Cara Kebiasaan Paparan Membekukan Wawasan Terbaik"
 description: "Pelajari bagaimana penemu abad ke-19 Louis Daguerre merevolusi fotografi melalui kebiasaan paparan pelat perak."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
 tags: ["Fiksasi In","Routine"]
 heroImage: "/images/blog/daguerre_silver_plate.png"

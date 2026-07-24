@@ -1,8 +1,8 @@
 ---
 title: "A Contemplação na Cabine de Saint-Exupéry: Como a Solidão e a Edição Revelam a Perfeição"
 description: "Descubra como o aviador e autor Antoine de Saint-Exupéry usou a solidão em grande altitude para escrever obras como O Pequeno Príncipe."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-07-18"
+updatedDate: "2026-07-18"
 category: "BuildSelf"
 tags: ["A Contempl","Routine"]
 heroImage: "/images/blog/saintexupery_cockpit_contemplation.png"

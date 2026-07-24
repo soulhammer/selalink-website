@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "윌리엄 하비의 혈액 순환 정량 검증법: 객관적 수치 계산으로 맹목적 편견을 부수는 법"
 description: "17세기 영국의 의사 윌리엄 하비가 심장 박동량의 수학적 정량 계산으로 2000년간 서양을 지배한 맹목적 통념을 깨뜨린 역사적 사실과 수치 검증의 뇌과학을 다룹니다."
-pubDate: "2026-07-24"
+pubDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["수치", "검증", "순환", "의학"]
 heroImage: "/images/blog/harvey_blood_circulation.webp"
 app: "buildself"
 authority: "윌리엄 하비의 저서 《심장과 혈액의 운동에 관하여》(1628) 및 Physiological Reviews 저널 연구"
-updatedDate: "2026-07-24"
+updatedDate: "2026-03-14"
 faqs:
   - question: "비즈니스 지표 분석이나 기획 의사결정에 어떻게 적용하나요?"
     answer: "'사용자가 좋아한다'는 모호한 표현 대신, 사용자 유입량, 머무른 시간, 이탈률이라는 닫힌 정량 수치 순환 고리로 검증하세요."

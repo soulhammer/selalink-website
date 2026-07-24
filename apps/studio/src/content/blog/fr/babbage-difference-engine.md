@@ -1,8 +1,8 @@
 ---
 title: "La Logique de la Machine Différentielle de Charles Babbage : Comment la décomposition modulaire élimine les erreurs"
 description: "Découvrez comment le père de l'informatique du XIXe siècle Charles Babbage a éliminé les erreurs de calcul."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-01-10"
+updatedDate: "2026-01-10"
 category: "BuildSelf"
 tags: ["La Logique","Routine"]
 heroImage: "/images/blog/babbage_difference_engine.png"

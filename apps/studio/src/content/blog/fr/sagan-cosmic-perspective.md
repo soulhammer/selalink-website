@@ -1,8 +1,8 @@
 ---
 title: "La Perspective Cosmique de Carl Sagan : Comment le réflexe du point bleu pâle réinitialise le stress"
 description: "Découvrez comment l'astronome Carl Sagan a utilisé un zoom arrière cosmique de 3 minutes pour surmonter l'anxiété."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-06-27"
+updatedDate: "2026-06-27"
 category: "BuildSelf"
 tags: ["La Perspec","Routine"]
 heroImage: "/images/blog/sagan_cosmic_perspective.png"

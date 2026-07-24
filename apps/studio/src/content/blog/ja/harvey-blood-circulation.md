@@ -1,8 +1,8 @@
 ---
 title: "ウィリアム・ハーヴィーの血液循環定量検証術：客観的数値計算で 盲目的な偏見を 打ち破る Super Routine"
 description: "17世紀イギリスの医師ウィリアム・ハーヴィーが、心臓拍出量の数学的定量計算により2000年間支配した通説を打ち破った歴史的事実と数値検証の脳科学を解説します。"
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["ウィリアム・ハーヴィ","Routine"]
 heroImage: "/images/blog/harvey_blood_circulation.png"

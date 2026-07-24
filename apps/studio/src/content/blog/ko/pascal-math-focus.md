@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "블레즈 파스칼의 기하학 몰입: 고난도 과제로 통증과 스트레스를 뇌에서 지우는 법"
 description: "17세기 천재 블레즈 파스칼이 극심한 치통과 두통을 고난도 수학 몰입으로 극복한 역사적 사실과 주의 전환 통제(Attentional Gating)의 과학적 원리를 알아봅니다."
-pubDate: "2026-07-24"
+pubDate: "2026-06-06"
 category: "BuildSelf"
 tags: ["집중", "몰입", "생산성", "스트레스 해소"]
 heroImage: "/images/blog/pascal_math_focus.webp"
 app: "buildself"
 authority: "블레즈 파스칼의 《팡세》(1670), 《사이클로이드 논고》(1658) 및 인지신경과학 저널 연구"
-updatedDate: "2026-07-24"
+updatedDate: "2026-06-06"
 faqs:
   - question: "이 방법이 일상적인 업무 스트레스나 불안감에도 효과가 있나요?"
     answer: "네, 그렇습니다. 뇌 시상(Thalamus)의 게이팅 메커니즘은 신체적 통증뿐만 아니라 심리적 불안과 스트레스 신호도 동일하게 차단해 줍니다."

@@ -1,8 +1,8 @@
 ---
 title: "William Harveys quantitativer Beweis: Wie empirische Daten blinde Überzeugungen stürzen"
 description: "Erfahren Sie, wie William Harvey im 17. Jahrhundert den Blutkreislauf mathematisch bewies und alte Dogmen stürzte."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["William Ha","Routine"]
 heroImage: "/images/blog/harvey_blood_circulation.png"

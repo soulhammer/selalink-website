@@ -1,8 +1,8 @@
 ---
 title: "O Hábito da Tinta Verde de Pablo Neruda: Como as Ondas de Cor Desbloqueiam o Fluxo Criativo"
 description: "Descubra por que o prêmio Nobel Pablo Neruda escrevia exclusivamente com tinta verde."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-05-16"
+updatedDate: "2026-05-16"
 category: "BuildSelf"
 tags: ["O Hábito d","Routine"]
 heroImage: "/images/blog/neruda_green_ink_flow.png"

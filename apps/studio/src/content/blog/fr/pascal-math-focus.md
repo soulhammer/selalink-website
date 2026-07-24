@@ -1,8 +1,8 @@
 ---
 title: "La Focalisation Géométrique de Blaise Pascal : Comment surmonter la douleur et le stress par la haute cognition"
 description: "Découvrez comment le polymathe du XVIIe siècle Blaise Pascal a utilisé la résolution de problèmes mathématiques pour bloquer la douleur chronique."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-06-06"
+updatedDate: "2026-06-06"
 category: "BuildSelf"
 tags: ["La Focalis","Routine"]
 heroImage: "/images/blog/pascal_math_focus.png"

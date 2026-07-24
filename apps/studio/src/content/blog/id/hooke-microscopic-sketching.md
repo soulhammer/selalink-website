@@ -1,8 +1,8 @@
 ---
 title: "Sketsa Mikroskopis Robert Hooke: Cara Observasi Halus Membuka Fokus Mendalam"
 description: "Pelajari bagaimana Robert Hooke menemukan sel melalui sketsa mikroskopis dan bagaimana observasi tangan-mata memperkuat fokus."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
 tags: ["Sketsa Mik","Routine"]
 heroImage: "/images/blog/hooke_microscopic_sketching.png"

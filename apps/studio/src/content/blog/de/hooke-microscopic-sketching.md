@@ -1,8 +1,8 @@
 ---
 title: "Robert Hookes mikroskopisches Skizzieren: Wie feine Beobachtung tiefen Fokus freisetzt"
 description: "Erfahren Sie, wie Robert Hooke im 17. Jahrhundert Zellen durch mikroskopisches Skizzieren entdeckte und wie Hand-Auge-Beobachtung den Fokus stärkt."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
 tags: ["Robert Hoo","Routine"]
 heroImage: "/images/blog/hooke_microscopic_sketching.png"

@@ -1,8 +1,8 @@
 ---
 title: "Saint-Exupéry's Cockpit Contemplation: How Solitude & Editing Reveal Perfection"
 description: "Discover how aviator-author Antoine de Saint-Exupéry used high-altitude solitude and relentless subtraction to write timeless literature like The Little Prince."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-07-18"
+updatedDate: "2026-07-18"
 category: "BuildSelf"
 tags: ["Great Habits","saintexupery","Routine","Stamina"]
 heroImage: "/images/blog/saintexupery_cockpit_contemplation.png"

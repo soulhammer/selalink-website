@@ -1,8 +1,8 @@
 ---
 title: "威廉·哈维血液循环定量验证法：用客观计算破除盲从成见"
 description: "探索17世纪英国医师威廉·哈维如何通过心输出量的数学定量计算，破除统治西方两千年的盲从成见，建立现代生理学基石。"
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["威廉·哈维血液循环定","Routine"]
 heroImage: "/images/blog/harvey_blood_circulation.png"

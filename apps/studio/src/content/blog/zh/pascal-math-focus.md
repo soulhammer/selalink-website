@@ -1,8 +1,8 @@
 ---
 title: "布莱士·帕斯卡的高难几何专注法：用深度认知重塑大脑与抗击压力"
 description: "探索17世纪博学者布莱士·帕斯卡如何利用高难度数学解题阻断慢性疼痛，以及注意力门控理论的科学依据。"
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-06-06"
+updatedDate: "2026-06-06"
 category: "BuildSelf"
 tags: ["布莱士·帕斯卡的高难","Routine"]
 heroImage: "/images/blog/pascal_math_focus.png"

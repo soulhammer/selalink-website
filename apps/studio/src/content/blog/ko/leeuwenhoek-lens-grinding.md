@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "안토니 판 레이우엔후크의 구형 렌즈 연마법: 지독한 인내와 미시 관찰로 본질을 꿰뚫는 법"
 description: "미생물학의 아버지 판 레이우엔후크가 500배율 구형 렌즈를 직접 연마하여 최초로 박테리아와 미생물을 발견한 역사적 사실과 촉각-시각 몰입의 뇌과학을 다룹니다."
-pubDate: "2026-07-24"
+pubDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["집중", "미생물", "인내", "관찰"]
 heroImage: "/images/blog/leeuwenhoek_lens_grinding.webp"
 app: "buildself"
 authority: "안토니 판 레이우엔후크의 영국 왕립학회 서한 서집(1673–1723) 및 Nature Microbiology 저널 연구"
-updatedDate: "2026-07-24"
+updatedDate: "2026-04-25"
 faqs:
   - question: "불안감이 높거나 집중력이 자주 산만해지는 사람에게도 효과가 있나요?"
     answer: "네! 섬세한 수공 정밀 동작과 시각 자극의 동기화는 과활성화된 뇌 신경망에 안정을 주어 불안감과 산만함을 효과적으로 잡아줍니다."

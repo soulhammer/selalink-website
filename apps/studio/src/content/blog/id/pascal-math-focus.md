@@ -1,8 +1,8 @@
 ---
 title: "Fokus Geometri Blaise Pascal: Cara Tugas Kognitif Tinggi Mengatasi Nyeri dan Stres"
 description: "Pelajari bagaimana Blaise Pascal menggunakan pemecahan masalah matematika tingkat tinggi untuk memblokir rasa sakit kronis dan stres."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-06-06"
+updatedDate: "2026-06-06"
 category: "BuildSelf"
 tags: ["Fokus Geom","Routine"]
 heroImage: "/images/blog/pascal_math_focus.png"

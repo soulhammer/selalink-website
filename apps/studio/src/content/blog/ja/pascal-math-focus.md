@@ -1,8 +1,8 @@
 ---
 title: "ブレーズ・パスカルの幾何学集中：高難度タスクで 痛みとストレスを脳から 消し去る Super Routine"
 description: "17世紀の天才ブレーズ・パスカルが激しい 歯痛や頭痛を幾何学の集中で 克服した歴史的事実と、注意ゲイン制御の科学的仕組みを解説します。"
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-06-06"
+updatedDate: "2026-06-06"
 category: "BuildSelf"
 tags: ["ブレーズ・パスカルの","Routine"]
 heroImage: "/images/blog/pascal_math_focus.png"

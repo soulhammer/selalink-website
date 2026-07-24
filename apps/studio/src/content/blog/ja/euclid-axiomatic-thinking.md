@@ -1,8 +1,8 @@
 ---
 title: "ユークリッドの公理的思考：第一原理の論理連鎖で 複雑な意思決定の麻痺を 破る Super Routine"
 description: "古代ギリシャの数学者ユークリッドが、複雑な課題を疑う余地のない公理（Axiom）へと解体して解決した、第一原理思考の歴史と脳科学を解説します。"
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-02-21"
+updatedDate: "2026-02-21"
 category: "BuildSelf"
 tags: ["ユークリッドの公理的","Routine"]
 heroImage: "/images/blog/euclid_axiomatic_thinking.png"

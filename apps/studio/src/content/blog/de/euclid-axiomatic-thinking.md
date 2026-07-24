@@ -1,8 +1,8 @@
 ---
 title: "Euklids axiomatisches Denken: Wie die Logik der ersten Prinzipien Entscheidungsparalyse auflöst"
 description: "Erfahren Sie, wie der antike Mathematiker Euklid komplexe Probleme in unbestreitbare Axiome zerlegte und damit die Grundlage für modernes Denken schuf."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-02-21"
+updatedDate: "2026-02-21"
 category: "BuildSelf"
 tags: ["Euklids ax","Routine"]
 heroImage: "/images/blog/euclid_axiomatic_thinking.png"

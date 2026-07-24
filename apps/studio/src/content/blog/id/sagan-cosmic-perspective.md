@@ -1,8 +1,8 @@
 ---
 title: "Perspektif Kosmik Carl Sagan: Cara Rutinitas Titik Biru Pucat Mengatasi Stres dan Kecemasan"
 description: "Pelajari bagaimana astronom Carl Sagan menggunakan zoom-out kosmik 3 menit untuk mengalahkan kecemasan."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-06-27"
+updatedDate: "2026-06-27"
 category: "BuildSelf"
 tags: ["Perspektif","Routine"]
 heroImage: "/images/blog/sagan_cosmic_perspective.png"

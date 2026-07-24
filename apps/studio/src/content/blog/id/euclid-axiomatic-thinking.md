@@ -1,8 +1,8 @@
 ---
 title: "Pemikiran Aksiomatis Euklides: Cara Logika Prinsip Pertama Menghilangkan Paralisis Keputusan"
 description: "Jelajahi bagaimana matematikawan kuno Euklides mengurai masalah kompleks menjadi aksioma yang tidak dapat disangkal."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-02-21"
+updatedDate: "2026-02-21"
 category: "BuildSelf"
 tags: ["Pemikiran ","Routine"]
 heroImage: "/images/blog/euclid_axiomatic_thinking.png"

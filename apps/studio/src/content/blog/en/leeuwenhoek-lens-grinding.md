@@ -1,8 +1,8 @@
 ---
 title: "Antonie van Leeuwenhoek's Lens Grinding: Piercing the Invisible World through Micro-Patience and Microscopic Observation"
 description: "Discover the historical account of how Antonie van Leeuwenhoek, the father of microbiology, hand-ground 500x spherical lenses to discover bacteria for the first time, and the brain science of tactile-visual immersion that calms the cerebellum and basal ganglia."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Great Habits","leeuwenhoek","Routine","Stamina"]
 heroImage: "/images/blog/leeuwenhoek_lens_grinding.png"

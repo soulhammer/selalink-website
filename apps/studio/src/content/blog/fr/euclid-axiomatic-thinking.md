@@ -1,8 +1,8 @@
 ---
 title: "La Pensée Axiomatique d'Euclide : Comment la logique des premiers principes élimine la paralysie décisionnelle"
 description: "Découvrez comment le mathématicien antique Euclide a décomposé des problèmes complexes en axiomes indiscutables."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-02-21"
+updatedDate: "2026-02-21"
 category: "BuildSelf"
 tags: ["La Pensée ","Routine"]
 heroImage: "/images/blog/euclid_axiomatic_thinking.png"

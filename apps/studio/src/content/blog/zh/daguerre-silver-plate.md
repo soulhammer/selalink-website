@@ -1,8 +1,8 @@
 ---
 title: "路易·达盖尔银版定格法：在曝光瞬间捕捉闪耀灵感与建立永恒记录"
 description: "探索19世纪法国发明家路易·达盖尔如何通过银版显影曝光习惯发明划时代的实用摄影术，以及视觉定格强化大脑记忆的科学依据。"
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
 tags: ["路易·达盖尔银版定格","Routine"]
 heroImage: "/images/blog/daguerre_silver_plate.png"

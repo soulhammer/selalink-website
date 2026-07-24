@@ -1,8 +1,8 @@
 ---
 title: "ロバート・フックの顕微鏡スケッチ術：0.01mmの微細観察で 前頭前野の超集中を 引き出す Super Routine"
 description: "17世紀の天才科学者ロバート・フックが顕微鏡スケッチで細胞（Cell）を発見した歴史的事実と、手と目の同期観察の脳科学的仕組みを解説します。"
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
 tags: ["ロバート・フックの顕","Routine"]
 heroImage: "/images/blog/hooke_microscopic_sketching.png"

@@ -1,8 +1,8 @@
 ---
 title: "查尔斯·巴贝奇差分机逻辑解构习惯：用齿轮模块化彻底消除人工误差"
 description: "探索19世纪计算机之父查尔斯·巴贝奇如何通过机械齿轮模块化消除计算误差，以及系统模块化降低大脑认知负荷的科学依据。"
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-01-10"
+updatedDate: "2026-01-10"
 category: "BuildSelf"
 tags: ["查尔斯·巴贝奇差分机","Routine"]
 heroImage: "/images/blog/babbage_difference_engine.png"

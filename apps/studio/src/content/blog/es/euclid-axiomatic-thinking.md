@@ -1,8 +1,8 @@
 ---
 title: "El Pensamiento Axiomático de Euclides: Cómo la Lógica de Primeros Principios Elimina la Parálisis de Decisión"
 description: "Explore cómo el antiguo matemático Euclides descompuso problemas complejos en axiomas indiscutibles, estableciendo el diseño para el pensamiento moderno."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-02-21"
+updatedDate: "2026-02-21"
 category: "BuildSelf"
 tags: ["El Pensami","Routine"]
 heroImage: "/images/blog/euclid_axiomatic_thinking.png"

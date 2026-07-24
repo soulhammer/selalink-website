@@ -1,8 +1,8 @@
 ---
 title: "Kontemplasi Kokpit Saint-Exupéry: Cara Kesendirian dan Penyuntingan Menemukan Kesempurnaan"
 description: "Pelajari bagaimana aviator dan penulis Antoine de Saint-Exupéry menggunakan kesendirian di ketinggian untuk menulis karya legendaris."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-07-18"
+updatedDate: "2026-07-18"
 category: "BuildSelf"
 tags: ["Kontemplas","Routine"]
 heroImage: "/images/blog/saintexupery_cockpit_contemplation.png"

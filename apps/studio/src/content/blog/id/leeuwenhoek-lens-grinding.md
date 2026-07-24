@@ -1,8 +1,8 @@
 ---
 title: "Pengasahan Lensa Spherical Antonie van Leeuwenhoek: Cara Menembus Esensi Realitas melalui Mikro-Kesabaran dan Observasi Mikroskopis"
 description: "Pelajari bagaimana Antonie van Leeuwenhoek, bapak mikrobiologi, mengasah lensa 500x dengan tangan untuk menemukan bakteri pertama kali, serta neurosains peredaman serebelum dan ganglia basalis melalui immersi taktil-visual."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Pengasahan","Routine"]
 heroImage: "/images/blog/leeuwenhoek_lens_grinding.png"

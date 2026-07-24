@@ -1,8 +1,8 @@
 ---
 title: "卡尔·萨根的宇宙视角：如何用“暗淡蓝点”习惯消除日常焦虑与重塑心态"
 description: "学习知名天文学家卡尔·萨根如何通过3分钟宇宙缩放视角战胜焦虑，以及“敬畏效应”缓解大脑杏仁核压力的原理。"
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-06-27"
+updatedDate: "2026-06-27"
 category: "BuildSelf"
 tags: ["卡尔·萨根的宇宙视角","Routine"]
 heroImage: "/images/blog/sagan_cosmic_perspective.png"

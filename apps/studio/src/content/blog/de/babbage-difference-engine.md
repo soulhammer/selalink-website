@@ -1,8 +1,8 @@
 ---
 title: "Charles Babbages Differenzmaschinen-Logik: Wie modulare Zerlegung Fehler eliminiert"
 description: "Erfahren Sie, wie der Vater des Computers Charles Babbage im 19. Jahrhundert Rechenfehler durch mechanische Module eliminierte."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-01-10"
+updatedDate: "2026-01-10"
 category: "BuildSelf"
 tags: ["Charles Ba","Routine"]
 heroImage: "/images/blog/babbage_difference_engine.png"

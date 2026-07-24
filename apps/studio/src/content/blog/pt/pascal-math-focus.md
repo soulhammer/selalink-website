@@ -1,8 +1,8 @@
 ---
 title: "O Foco Geométrico de Blaise Pascal: Como Tarefas de Alta Cognição Eliminam a Dor e o Estresse"
 description: "Descubra como o polímata do século XVII Blaise Pascal usou a resolução de problemas matemáticos intensos para bloquear a dor crônica."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-06-06"
+updatedDate: "2026-06-06"
 category: "BuildSelf"
 tags: ["O Foco Geo","Routine"]
 heroImage: "/images/blog/pascal_math_focus.png"

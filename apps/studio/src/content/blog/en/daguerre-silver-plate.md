@@ -1,8 +1,8 @@
 ---
 title: "Louis Daguerre's Instant Fixation: How Light-Exposure Habits Freeze Peak Insights"
 description: "Discover how 19th-century inventor Louis Daguerre revolutionized photography through silver-plate exposure habits, and how visual capture anchors memory in the brain."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
 tags: ["Great Habits","daguerre","Routine","Stamina"]
 heroImage: "/images/blog/daguerre_silver_plate.png"

@@ -1,8 +1,8 @@
 ---
 title: "La Fixation Instantanée de Louis Daguerre : Comment l'exposition fige les meilleures idées"
 description: "Découvrez comment l'inventeur du XIXe siècle Louis Daguerre a révolutionné la photographie grâce à la fixation sur plaque d'argent."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
 tags: ["La Fixatio","Routine"]
 heroImage: "/images/blog/daguerre_silver_plate.png"

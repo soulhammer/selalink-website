@@ -1,8 +1,8 @@
 ---
 title: "La Perspectiva Cósmica de Carl Sagan: Cómo el Hábito del Pálido Punto Azul Reinicia el Estrés"
 description: "Aprenda cómo el astrónomo Carl Sagan utilizó un alejamiento cósmico de 3 minutos para conquistar la ansiedad y cómo el Efecto de Asombro reduce el estrés."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-06-27"
+updatedDate: "2026-06-27"
 category: "BuildSelf"
 tags: ["La Perspec","Routine"]
 heroImage: "/images/blog/sagan_cosmic_perspective.png"

@@ -1,8 +1,8 @@
 ---
 title: "El Pulido de Lentes Esféricas de Antonie van Leeuwenhoek: Cómo Penetrar la Esencia de la Realidad con Micro-Paciencia y Observación Microscópica"
 description: "Descubra cómo Antonie van Leeuwenhoek, el padre de la microbiología, pulió a mano lentes de 500x para descubrir bacterias por primera vez, y la neurociencia de la inmersión táctil-visual que relaja el cerebelo y los ganglios basales."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["El Pulido ","Routine"]
 heroImage: "/images/blog/leeuwenhoek_lens_grinding.png"

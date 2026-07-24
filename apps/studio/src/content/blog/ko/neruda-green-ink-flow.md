@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "파블로 네루다의 초록색 잉크 필기법: 색상 파장으로 뇌의 창의적 몰입(Flow)을 깨우는 법"
 description: "노벨문학상 수상자 파블로 네루다가 평생 오직 초록색 잉크로만 시를 쓴 이유와 녹색 파장이 뇌의 알파파(Alpha Waves)를 유도하는 인지색채학적 원리를 다룹니다."
-pubDate: "2026-07-24"
+pubDate: "2026-05-16"
 category: "BuildSelf"
 tags: ["창의력", "아이디어", "글쓰기", "영감"]
 heroImage: "/images/blog/neruda_green_ink_flow.webp"
 app: "buildself"
 authority: "파블로 네루다의 자서전 《살며 사랑하며 배우며》(1974) 및 Frontiers in Psychology 인지색채학 연구"
-updatedDate: "2026-07-24"
+updatedDate: "2026-05-16"
 faqs:
   - question: "종이 필기 대신 디지털 에디터의 녹색 테마를 사용해도 동일한 효과가 있나요?"
     answer: "네, 그렇습니다. 시각 피질은 파장을 감지하므로 아날로그 잉크뿐만 아니라 디지털 스크린의 차분한 딥 그린 테마에서도 동일한 알파파 유도 효과가 나타납니다."

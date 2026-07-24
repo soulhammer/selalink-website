@@ -1,8 +1,8 @@
 ---
 title: "ルイ・ダゲールの銀板露出術：刹那の瞬間を 永久に固定し 最上のインスピレーションを 保存する Super Routine"
 description: "19世紀のオランダの発明家ルイ・ダゲールが、銀板露出法により人類史上初の直感的な写真を開発した歴史的事実と、瞬間視覚固定の脳科学を解説します。"
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-01-31"
+updatedDate: "2026-01-31"
 category: "BuildSelf"
 tags: ["ルイ・ダゲールの銀板","Routine"]
 heroImage: "/images/blog/daguerre_silver_plate.png"

@@ -1,8 +1,8 @@
 ---
 title: "El Dibujo Microscópico de Robert Hooke: Cómo la Observación Fina Libera un Enfoque Profundo"
 description: "Descubra cómo el polímata del siglo XVII Robert Hooke descubrió las células a través del dibujo microscópico y su validación neurocientífica."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
 tags: ["El Dibujo ","Routine"]
 heroImage: "/images/blog/hooke_microscopic_sketching.png"

@@ -1,8 +1,8 @@
 ---
 title: "Le Polissage de Lentilles Sphériques d'Antonie van Leeuwenhoek : Percer l'essence du monde par la micro-patience et l'observation microscopique"
 description: "Découvrez comment Antonie van Leeuwenhoek, le père de la microbiologie, a poli des lentilles 500x à la main pour découvrir les bactéries, et la neuroscience de l'immersion tactile-visuelle qui apaise le cervelet et les ganglions de la base."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Le Polissa","Routine"]
 heroImage: "/images/blog/leeuwenhoek_lens_grinding.png"

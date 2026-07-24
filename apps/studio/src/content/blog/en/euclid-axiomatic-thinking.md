@@ -1,8 +1,8 @@
 ---
 title: "Euclid's Axiomatic Thinking: How First-Principles Logic Eliminates Decision Paralysis"
 description: "Explore how ancient mathematician Euclid deconstructed complex problems into indisputable axioms, establishing the blueprint for modern first-principles thinking."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-02-21"
+updatedDate: "2026-02-21"
 category: "BuildSelf"
 tags: ["Great Habits","euclid","Routine","Stamina"]
 heroImage: "/images/blog/euclid_axiomatic_thinking.png"

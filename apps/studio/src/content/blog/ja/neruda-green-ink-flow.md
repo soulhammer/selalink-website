@@ -1,8 +1,8 @@
 ---
 title: "パブロ・ネルーダの緑のインク執筆術：色彩波長で 脳の創造的没頭（Flow）を 呼び覚ます Super Routine"
 description: "ノーベル文学賞受賞者のパブロ・ネルーダが生涯緑のインクだけで 詩を書き続けた理由と、緑色の波長が脳のアルファ波を誘導する色彩心理学を解説します。"
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-05-16"
+updatedDate: "2026-05-16"
 category: "BuildSelf"
 tags: ["パブロ・ネルーダの緑","Routine"]
 heroImage: "/images/blog/neruda_green_ink_flow.png"

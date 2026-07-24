@@ -1,8 +1,8 @@
 ---
 title: "Le Dessin Microscopique de Robert Hooke : Comment l'observation fine libère une concentration profonde"
 description: "Découvrez comment le polymathe du XVIIe siècle Robert Hooke a découvert les cellules grâce au dessin microscopique."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
 tags: ["Le Dessin ","Routine"]
 heroImage: "/images/blog/hooke_microscopic_sketching.png"

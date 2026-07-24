@@ -1,8 +1,8 @@
 ---
 title: "罗伯特·胡克显微精准描摹习惯：用微观细节观察开启深度专注力"
 description: "探索17世纪英国科学家罗伯特·胡克如何通过显微手绘发现细胞，以及手眼同步观察增强大脑空间专注力的科学依据。"
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
 tags: ["罗伯特·胡克显微精准","Routine"]
 heroImage: "/images/blog/hooke_microscopic_sketching.png"

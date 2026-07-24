@@ -1,8 +1,8 @@
 ---
 title: "El Hábito de la Tinta Verde de Pablo Neruda: Cómo las Longitudes de Onda de Color Liberan el Flujo Creativo"
 description: "Descubra por qué el premio Nobel Pablo Neruda escribía exclusivamente con tinta verde y cómo la longitud de onda verde induce ondas alfa en el cerebro."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-05-16"
+updatedDate: "2026-05-16"
 category: "BuildSelf"
 tags: ["El Hábito ","Routine"]
 heroImage: "/images/blog/neruda_green_ink_flow.png"

@@ -1,8 +1,8 @@
 ---
 title: "Carl Sagan's Cosmic Perspective: How the Pale Blue Dot Habit Resets Stress & Anxiety"
 description: "Learn how renowned astronomer Carl Sagan used a 3-minute cosmic zoom-out to conquer anxiety, and how the Awe Effect reduces amygdala stress in the brain."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-06-27"
+updatedDate: "2026-06-27"
 category: "BuildSelf"
 tags: ["Great Habits","sagan","Routine","Stamina"]
 heroImage: "/images/blog/sagan_cosmic_perspective.png"

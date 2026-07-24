@@ -1,8 +1,8 @@
 ---
 title: "William Harvey's Quantitative Proof: How Empirical Data Overturns Blind Beliefs"
 description: "Discover how 17th-century physician William Harvey proved blood circulation using quantitative math, shattering 2,000 years of Galenic dogma."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Great Habits","harvey","Routine","Stamina"]
 heroImage: "/images/blog/harvey_blood_circulation.png"

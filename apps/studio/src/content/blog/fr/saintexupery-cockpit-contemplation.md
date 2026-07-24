@@ -1,8 +1,8 @@
 ---
 title: "La Contemplation en Cockpit de Saint-Exupéry : Comment la solitude et l'édition révèlent la perfection"
 description: "Découvrez comment l'aviateur et auteur Antoine de Saint-Exupéry a utilisé la solitude en haute altitude pour écrire Le Petit Prince."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-07-18"
+updatedDate: "2026-07-18"
 category: "BuildSelf"
 tags: ["La Contemp","Routine"]
 heroImage: "/images/blog/saintexupery_cockpit_contemplation.png"

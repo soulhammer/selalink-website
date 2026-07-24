@@ -1,8 +1,8 @@
 ---
 title: "El Enfoque Geométrico de Blaise Pascal: Cómo las Tareas de Alta Cognición Eliminan el Estrés y el Dolor"
 description: "Descubra cómo el polímata del siglo XVII Blaise Pascal utilizó la resolución de problemas matemáticos intensos para bloquear el dolor crónico y su validación científica."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-06-06"
+updatedDate: "2026-06-06"
 category: "BuildSelf"
 tags: ["El Enfoque","Routine"]
 heroImage: "/images/blog/pascal_math_focus.png"

@@ -1,8 +1,8 @@
 ---
 title: "Pablo Neruda's Green Ink Routine: How Color Wavelengths Unlock Creative Flow"
 description: "Discover why Nobel laureate Pablo Neruda exclusively wrote in green ink, and how green light wavelengths induce alpha brain waves for effortless creative writing."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-05-16"
+updatedDate: "2026-05-16"
 category: "BuildSelf"
 tags: ["Great Habits","neruda","Routine","Stamina"]
 heroImage: "/images/blog/neruda_green_ink_flow.png"

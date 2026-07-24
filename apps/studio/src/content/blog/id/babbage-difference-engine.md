@@ -1,8 +1,8 @@
 ---
 title: "Logika Mesin Diferensial Charles Babbage: Cara Dekomposisi Modular Menghilangkan Kesalahan"
 description: "Pelajari bagaimana bapak komputasi abad ke-19 Charles Babbage menghilangkan kesalahan kalkulasi dengan merancang modul mekanis."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-01-10"
+updatedDate: "2026-01-10"
 category: "BuildSelf"
 tags: ["Logika Mes","Routine"]
 heroImage: "/images/blog/babbage_difference_engine.png"

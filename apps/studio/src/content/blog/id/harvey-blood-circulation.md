@@ -1,8 +1,8 @@
 ---
 title: "Bukti Kuantitatif William Harvey: Cara Data Empiris Mengatur Ulang Kepercayaan Buta"
 description: "Pelajari bagaimana dokter abad ke-17 William Harvey membuktikan sirkulasi darah menggunakan matematika kuantitatif."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Bukti Kuan","Routine"]
 heroImage: "/images/blog/harvey_blood_circulation.png"

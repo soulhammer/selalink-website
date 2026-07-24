@@ -1,8 +1,8 @@
 ---
 title: "Robert Hooke's Microscopic Sketching: How Fine Observation Unlocks Deep Focus"
 description: "Discover how 17th-century polymath Robert Hooke discovered cells through fine microscopic sketching, and how hand-eye observation strengthens spatial focus in the brain."
-pubDate: "2026-07-24"
-updatedDate: "2026-07-24"
+pubDate: "2026-04-04"
+updatedDate: "2026-04-04"
 category: "BuildSelf"
 tags: ["Great Habits","hooke","Routine","Stamina"]
 heroImage: "/images/blog/hooke_microscopic_sketching.png"
