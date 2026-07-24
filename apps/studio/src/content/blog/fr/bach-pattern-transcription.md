@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Jean-Sébastien Bach, appelé le « Père de la musique » pour avoir parachevé le contrepoint baroque. Sa logique de génie est née d'un rituel intellectuel quotidien : l'habitude de recopier les partitions des grands maîtres de son époque, ligne par ligne à la plume chaque nuit. Enfant, il dérobait des partitions dans le cabinet de son frère pour les copier sous la lumière de la lune. Pour Bach, copier n'était pas une lecture passive. C'était un rituel d'impression cérébrale qui gravait les arrangements mathématiques des notes grâce à la motricité fine. Aujourd'hui, BuildSelf partage le secret de ce rituel pour maximiser votre logique.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

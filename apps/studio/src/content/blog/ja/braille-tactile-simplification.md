@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-視覚障害者に読み書きの自由を贈ったルイ・ブライユ。彼が6点点字を創案できた秘密は何でしょうか？ ⠃
-
-ブライユは12点軍用文字が指先で一度に認識するには大きすぎることに気づきました。毎日触覚を検証し、最適な6点システムへとシンプル化しました。
-
-今日のBuildSelfではブライユの6点シンプル化ルーティンを紹介します。
+この歴史的習慣の実践において： , . 6 ? ⠃ この歴史的習慣の実践において： 12 . , '6 ' . . この歴史的習慣の実践において： BuildSelf 6 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

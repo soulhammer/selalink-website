@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Presiden John F. Kennedy memimpin Amerika selama momen-momen paling menegangkan. Meskipun tampak bersemangat, ia menderita sakit punggung kronis yang parah akibat cedera perang. 🪑
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
-Solusi datang dari dokter ortopedinya, Dr. Janet Travell, yang meresepkan kursi goyang kayu di Ruang Oval. Kennedy bergoyang lembut saat membaca dokumen atau rapat. Kebiasaan ini meredakan ketegangan punggung dan menjadi tempat perlindungan untuk tetap tenang.
-
-Hari ini, BuildSelf menjelajahi mekanisme penenangan neurosains dari kursi goyang JFK.
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

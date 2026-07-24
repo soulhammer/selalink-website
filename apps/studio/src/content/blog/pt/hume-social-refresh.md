@@ -24,11 +24,13 @@ faqs:
 
 ---
 
-Pilar do empirismo ocidental, David Hume inspirou grandes pensadores. Como ele evitava o esgotamento mental? 🎱
+Na prática desta rotina transformadora:      ' '       ,  (David Hume).                   ? 🎱
 
-Todas as tardes após o estudo, Hume jogava bilhar e jantava com amigos. Afastar-se da reflexão abstrata renovava sua energia mental.
+Na prática desta rotina transformadora:                 .           .                     .
 
-Hoje BuildSelf revela a ciência por trás da rotina de reconexão social de David Hume.
+Na prática desta rotina transformadora:  BuildSelf             ·      .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

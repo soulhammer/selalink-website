@@ -16,6 +16,9 @@ steps:
     text: "Schreiben Sie das Zitat auf eine Karte und kleben Sie sie an eine hohe Stelle, z. B. auf den oberen Monitorrand. Ziel ist es, den Blick nach oben zu lenken."
   - name: "Blicken Sie auf und kalibrieren Sie neu"
     text: "Wenn Sie blockiert sind, lehnen Sie sich zurück, heben Sie den Kopf und lesen Sie das Zitat für 15 Sekunden. Lassen Sie Ihr Gehirn kurz abschalten, um die Logik neu zu kalibrieren."
+faqs:
+  - question: "Sollte ich diese Gewohnheit täglich praktizieren?"
+    answer: "Ja, tägliche Praxis zur gleichen Zeit maximiert die Neuroplastizität."
 
 ---
 
@@ -83,4 +86,19 @@ Die Konfrontation mit visuellen Reizen nutzt das visuelle Priming, um unbewusste
       Wenn ein Zitat immer am selben Ort bleibt, gewöhnt sich das Gehirn daran und ignoriert es. Um diesen Gewöhnungseffekt zu vermeiden, ändern Sie den Ort oder das Zitat alle paar Monate. Die Neuheit des Reizes hält die Metakognition wach.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>Sollte ich diese Gewohnheit täglich praktizieren?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Ja, tägliche Praxis zur gleichen Zeit maximiert die Neuroplastizität.
+    </p>
+  </details>
 </div>

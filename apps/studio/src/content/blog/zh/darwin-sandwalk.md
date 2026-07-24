@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-查尔斯·达尔文撰写了《物种起源》，以自然选择学说解释生物进化，为人类历史上的科学思维带来了最大变革。改变人类范式的伟大进化论灵感究竟源自何处？达尔文在伦敦近郊安静的唐恩村（Down House）度过了他专注于研究的一生。他每天上午和下午都会绕着自己亲手在房子周围铺设的沙石小路——“沙路（Sandwalk）”散步。他将这条路称为“思索之路”，在开始散步时，他会在拐角处堆放5到6块小石头，每走完一圈就用脚踢开一块，以此记录自己走了多少圈。今天，BuildSelf将带您探索达尔文每天坚持的“沙路”思索惯例的科学原理，以及现代人如何应用它来激发创造力。
+在这一历史性惯例的实践中：Charles Darwin, the man who brought the greatest revolution to scientific thinking in human history by writing 'The Origin of Species' explaining the evolution of organisms based on natural selection. Where did the great evolutionary inspirations that changed the paradigm of humanity come from? Darwin spent his life researching at Down House, a quiet village near London. Every morning and afternoon, he walked the 'Sandwalk,' a gravel and dirt path he built around his house. He called this path the 'Thinking Path,' and at the start of his walk, he stacked 5 or 6 small stones at the corner, kicking one away each time he completed a lap to keep track of how many laps he had walked. Today, BuildSelf explores the scientific principles of Darwin's 'Sandwalk' routine and how modern people can apply it to boost creativity.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

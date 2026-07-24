@@ -1,0 +1,216 @@
+{
+  "babbage-difference-engine": {
+    "title": {
+      "en": "Charles Babbage's Difference Engine Logic: How Modular Breakdown Eliminates Errors",
+      "ko": "찰스 배비지의 차분기관 분해법: 기계적 톱니바퀴 모듈화로 오차와 실수를 0%로 만드는 법",
+      "ja": "チャールズ・バベッジの階差機関分解術：機械的歯車の モジュール化で 誤差とミスを 0%にする Super Routine",
+      "zh": "查尔斯·巴贝奇差分机逻辑解构习惯：用齿轮模块化彻底消除人工误差",
+      "es": "La Lógica de la Máquina Diferencial de Charles Babbage: Cómo la Descomposición Modular Elimina Errores",
+      "fr": "La Logique de la Machine Différentielle de Charles Babbage : Comment la décomposition modulaire élimine les erreurs",
+      "de": "Charles Babbages Differenzmaschinen-Logik: Wie modulare Zerlegung Fehler eliminiert",
+      "pt": "A Lógica da Máquina Diferencial de Charles Babbage: Como a Decomposição Modular Elimina Erros",
+      "id": "Logika Mesin Diferensial Charles Babbage: Cara Dekomposisi Modular Menghilangkan Kesalahan"
+    },
+    "description": {
+      "en": "Discover how 19th-century computing father Charles Babbage eliminated calculation errors by designing mechanical cog modules, and how system modularity lowers cognitive load.",
+      "ko": "19세기 컴퓨터의 아버지 찰스 배비지가 정밀 톱니바퀴 모듈화로 오차 없는 세계 최초 기계식 계산기를 설계한 역사적 사실과 시스템 모듈화의 뇌과학적 원리를 알아봅니다.",
+      "ja": "19世紀のコンピュータの父チャールズ・バベッジが、精密な歯車モジュール化で誤差ゼロの計算機を設計した歴史的事実と、システムモジュール化の脳科学を解説します。",
+      "zh": "探索19世纪计算机之父查尔斯·巴贝奇如何通过机械齿轮模块化消除计算误差，以及系统模块化降低大脑认知负荷的科学依据。",
+      "es": "Descubra cómo el padre de la computación del siglo XIX Charles Babbage eliminó los errores de cálculo al diseñar módulos mecánicos.",
+      "fr": "Découvrez comment le père de l'informatique du XIXe siècle Charles Babbage a éliminé les erreurs de calcul.",
+      "de": "Erfahren Sie, wie der Vater des Computers Charles Babbage im 19. Jahrhundert Rechenfehler durch mechanische Module eliminierte.",
+      "pt": "Descubra como o pai da computação do século XIX Charles Babbage eliminou erros de cálculo ao projetar módulos mecânicos.",
+      "id": "Pelajari bagaimana bapak komputasi abad ke-19 Charles Babbage menghilangkan kesalahan kalkulasi dengan merancang modul mekanis."
+    },
+    "authority": {
+      "en": "Charles Babbage's Passages from the Life of a Philosopher (1864) & Cognitive Science Journal",
+      "ko": "찰스 배비지의 자서전 《철학자의 삶에서 따온 한 대목들》(1864) 및 Cognitive Science 저널 연구",
+      "ja": "バベッジの回想録『ある哲学者の一生』(1864) および『Cognitive Science』ジャーナル",
+      "zh": "查尔斯·巴贝奇自传《哲学家一生轶事》(1864)及《认知科学杂志》",
+      "es": "Pasajes de la vida de un filósofo de Charles Babbage (1864) y revista Cognitive Science",
+      "fr": "Passages de la vie d'un philosophe de Charles Babbage (1864) et Cognitive Science",
+      "de": "Passagen aus dem Leben eines Philosophen von Charles Babbage (1864) & Cognitive Science",
+      "pt": "Passagens da Vida de um Filósofo de Charles Babbage (1864) e revista Cognitive Science",
+      "id": "Passages from the Life of a Philosopher Charles Babbage (1864) & Cognitive Science"
+    },
+    "intro": {
+      "en": "19th-century English mathematician, mechanical engineer, and polymath Charles Babbage (1791–1871) is celebrated worldwide as the 'Father of the Computer'. Babbage conceived the Difference Engine and Analytical Engine—the grand mechanical forebears of modern programmable computers.\n\nIn the 1820s, while examining official Royal Astronomical Society navigation tables, Babbage was horrified to find countless human calculation errors that led to deadly shipwrecks. Sitting over blue engineering blueprints, Babbage formed an unyielding cognitive habit: breaking down massive mathematical equations into hundreds of independent, mechanical cog-and-gear modules. 'I wish to God these calculations had been executed by steam!' he famously exclaimed.\n\nBy designing each brass cog to perform only one elementary addition or carry-over, Babbage proved that any complex system can achieve 0% error if decomposed into deterministic modules. Modern cognitive science confirms that modular breakdown dramatically reduces prefrontal working memory load and prevents decision paralysis.",
+      "ko": "19세기 영국의 위대한 수학자이자 기계공학자, 현대 컴퓨터의 아버지로 불리는 찰스 배비지(Charles Babbage, 1791–1871). 그는 세계 최초의 자동 기계식 계산기인 차분기관(Difference Engine)과 현대 프로그래밍 컴퓨터의 시초가 된 해석기관(Analytical Engine)을 청사진으로 설계한 정보 혁명의 선구자였습니다.\n\n1820년대, 영국 왕립천문학회의 항해 수치 표를 검토하던 배비지는 인간 계산원들의 수많은 오차와 실수로 인해 선박들이 좌초되는 비극을 목격했습니다. 이 문제를 접한 배비지는 복잡하고 방대한 연산 청사진을 수백 개의 독립된 톱니바퀴(Cogs & Gears) 기계 모듈로 하나씩 분해하는 독보적인 사고 습관을 정립했습니다. \"이 모든 연산이 인간의 감정이 아닌 증기와 기계 톱니바퀴에 의해 오차 없이 수행되기를 바란다!\"는 그의 외침은 현실이 되었습니다.\n\n거대한 난제를 더 이상 오차가 발생할 수 없는 최소 단위 톱니바퀴 모듈로 해체하여 입출력 인과관계를 차례대로 정렬하는 습관은 뇌의 작업 기억 과부하를 막고 시스템적 오차를 0%로 다듬는 정보학 및 뇌과학의 정수였습니다.",
+      "ja": "この歴史的習慣の実践において：19 , (Charles Babbage, 1791–1871). (Difference Engine) (Analytical Engine) . この歴史的習慣の実践において：1820, . (Cogs & Gears) . \" !\" . この歴史的習慣の実践において： 0% .",
+      "zh": "在这一历史性惯例的实践中：19 , (Charles Babbage, 1791–1871). (Difference Engine) (Analytical Engine) . 在这一历史性惯例的实践中：1820, . (Cogs & Gears) . \" !\" . 在这一历史性惯例的实践中： 0% .",
+      "es": "El matemático, ingeniero mecánico y polímata británico del siglo XIX Charles Babbage (1791–1871) es aclamado universalmente como el 'Padre de la Computación'. Babbage concibió la Máquina Diferencial y la Máquina Analítica, los grandes antepasados mecánicos de las computadoras programables modernas.\n\nEn la década de 1820, mientras examinaba las tablas de navegación oficiales de la Real Sociedad Astronómica, Babbage se horrorizó al encontrar innumerables errores de cálculo humano que provocaban naufragios mortales. Sentado sobre planos de ingeniería azules, Babbage formó un hábito cognitivo inquebrantable: descomponer ecuaciones matemáticas masivas en cientos de módulos independientes de engranajes mecánicos. '¡Ojalá a Dios estos cálculos se hubieran ejecutado a vapor!', exclamó en su famosa frase.\n\nAl diseñar cada engranaje de latón para realizar solo una adición elemental o acarreo, Babbage demostró que cualquier sistema complejo puede lograr un 0% de error si se descompone en módulos deterministas. La ciencia cognitiva moderna confirma que la descomposición modular reduce drásticamente la carga de la memoria de trabajo prefrontal y previene la parálisis de decisión.",
+      "fr": "Le mathématicien, ingénieur mécanique et polymathe britannique du XIXe siècle Charles Babbage (1791–1871) est universellement célébré comme le 'Père de l'Informatique'. Babbage a conçu la Machine Différentielle et la Machine Analytique, les grands ancêtres mécaniques des ordinateurs programmables modernes.\n\nDans les années 1820, en examinant les tables de navigation officielles de la Royal Astronomical Society, Babbage fut horrifié de découvrir d'innombrables erreurs de calcul humain ayant entraîné des naufragages mortels. Penché sur ses bleus d'ingénierie, Babbage développa una habitude cognitive inébranlable : décomposer de gigantesques équations mathématiques en centaines de modules d'engrenages mécaniques indépendants. 'Plût à Dieu que ces calculs eussent été exécutés par la vapeur !', s'exclama-t-il.\n\nEn concevant chaque engrenage en laiton pour n'effectuer qu'une seule addition élémentaire ou retenue, Babbage a prouvé que tout système complexe peut atteindre 0 % d'erreur s'il est décomposé en modules déterministes. La science cognitive moderne confirme que la décomposition modulaire réduit considérablement la charge de la mémoire de travail préfrontale et prévient la paralysie décisionnelle.",
+      "de": "Der britische Mathematiker, Maschinenbauingenieur und Universalgelehrte des 19. Jahrhunderts Charles Babbage (1791–1871) wird weltweit als 'Vater des Computers' gefeiert. Babbage erfand die Differenzmaschine und die Analytische Maschine – die großen mechanischen Vorläufer moderner programmierbarer Computer.\n\nIn den 1820er Jahren untersuchte Babbage die offiziellen Navigationstabellen der Royal Astronomical Society und war entsetzt über unzählige menschliche Rechenfehler, die zu tödlichen Schiffbrüchen führten. Über blauen Ingenieurblaupausen entwickelte Babbage eine unerschütterliche kognitive Gewohnheit: Er zerlegte riesige mathematische Gleichungen in Hunderte von unabhängigen mechanischen Zahnrad-Modulen. 'Wollte Gott, diese Berechnungen wären durch Dampf ausgeführt worden!', rief er berühmt aus.\n\nIndem er jedes Messingzahnrad so konstruierte, dass es nur eine elementare Addition oder einen Übertrag ausführte, bewies Babbage, dass jedes komplexe System 0 % Fehler erreichen kann, wenn es in deterministische Module zerlegt wird. Die moderne Kognitionswissenschaft bestätigt, dass die modulare Zerlegung die Belastung des präfrontalen Arbeitsgedächtnisses drastisch senkt und Entscheidungsparalyse verhindert.",
+      "pt": "O matemático, engenheiro mecânico e polímata inglês do século XIX Charles Babbage (1791–1871) é universalmente celebrado como o 'Pai do Computador'. Babbage concebeu a Máquina Diferencial e a Máquina Analítica — os grandes antepassados mecânicos dos computadores programáveis modernos.\n\nNos anos 1820, ao examinar as tabelas de navegação oficiais da Royal Astronomical Society, Babbage ficou horrorizado ao encontrar incontáveis erros de cálculo humano que levavam a naufrágios mortais. Debruçado sobre plantas azuis de engenharia, Babbage formou um hábito cognitivo inabalável: decompor equações matemáticas maciças em centenas de módulos independentes de engrenagens mecânicas. 'Prouvera a Deus que esses cálculos tivessem sido executados a vapor!', exclamou ele em sua famosa frase.\n\nAo projetar cada engrenagem de latão para realizar apenas uma adição elementar ou transporte, Babbage provou que qualquer sistema complexo pode atingir 0% de erro se for decomposto em módulos determinísticos. A ciência cognitiva moderna confirma que a decomposição modular reduz drasticamente a carga da memória de trabalho pré-frontal e evita a paralisia de decisão.",
+      "id": "Matematikawan, insinyur mekanik, dan polimata Inggris abad ke-19 Charles Babbage (1791–1871) diakui secara universal sebagai 'Bapak Komputasi'. Babbage merancang Mesin Diferensial dan Mesin Analitis—leluhur mekanis megah dari komputer terprogram modern.\n\nPada tahun 1820-an, saat memeriksa tabel navigasi resmi Royal Astronomical Society, Babbage terkejut mendapati kesalahan kalkulasi manusia yang tak terhitung jumlahnya yang menyebabkan kapal karam yang mematikan. Duduk di atas cetak biru teknik, Babbage membentuk kebiasaan kognitif yang teguh: mengurai persamaan matematika raksasa menjadi ratusan modul roda gigi mekanis yang independen. 'Demi Tuhan, saya berharap kalkulasi ini dieksekusi oleh uap!' serunya yang terkenal.\n\nDengan merancang setiap roda gigi kuningan untuk hanya melakukan satu penjumlahan elemental atau pembawaan, Babbage membuktikan bahwa sistem kompleks apa pun dapat mencapai kesalahan 0% jika didekomposisi menjadi modul-modul deterministik. Sains kognitif modern mengonfirmasi bahwa dekomposisi modular secara drastis mengurangi beban memori kerja prefrontal dan mencegah paralisis keputusan."
+    },
+    "whyTitle": {
+      "en": "Why System Modularity Lowers Prefrontal Working Memory Load",
+      "ko": "시스템 모듈화가 전전두엽 작업 기억 과부하를 없애는 이유",
+      "ja": "システムモジュール化が前頭前野の作業記憶過負荷を無くす理由",
+      "zh": "系统模块化如何降低前额叶工作记忆负荷",
+      "es": "Por qué la Modularidad del Sistema Reduce la Carga de la Memoria de Trabajo",
+      "fr": "Pourquoi la Modularité du Système Réduit la Charge de la Mémoire de Travail",
+      "de": "Warum Systemmodularität die Arbeitsgedächtnisbelastung senkt",
+      "pt": "Por que a Modularidade do Sistema Reduz a Carga da Memória de Trabalho",
+      "id": "Mengapa Modularitas Sistem Mengurangi Beban Memori Kerja Prefrontal"
+    },
+    "whyDesc": {
+      "en": "Cognitive science shows that human working memory can hold only 4 to 7 chunks of information at once. Deconstructing complex tasks into deterministic modules allows the brain to process each step effortlessly without error.",
+      "ko": "인지과학 연구에 따르면 인간의 작업 기억(Working Memory)은 한 번에 4 - 7개의 정보 청크만 처리할 수 있습니다. 난제를 독립적 톱니바퀴 모듈로 분해하면 전전두엽 과부하와 피로를 방지하고 오차를 0%에 가깝게 통제할 수 있습니다.",
+      "ja": "認知科学の研究によると、人間の作業記憶（Working Memory）は一度に4〜7個の情報チャンクしか処理できません。難題を独立した歯車モジュールに分解すると、前頭前野の過負荷と疲労を防ぎ、エラーを0%近くにコントロールできます。",
+      "zh": "认知科学研究表明，人类工作记忆一次只能容纳4 - 7个信息块。将复杂任务拆解为确定性的模块，可使大脑轻松逐个处理，彻底消除过载与失误。",
+      "es": "La ciencia cognitiva muestra que la memoria de trabajo humana solo puede contener de 4 a 7 fragmentos a la vez. Descomponer tareas en módulos permite procesar cada paso sin esfuerzo.",
+      "fr": "La science cognitive montre que la mémoire de travail ne peut contenir que 4 à 7 éléments à la fois. Décomposer les tâches en modules permet de les traiter sans effort.",
+      "de": "Die Kognitionswissenschaft zeigt, dass das Arbeitsgedächtnis nur 4 bis 7 Informationseinheiten gleichzeitig halten kann. Modulare Zerlegung ermöglicht fehlerfreies Verarbeiten.",
+      "pt": "A ciência cognitiva mostra que a memória de trabalho só suporta de 4 a 7 blocos por vez. Decompor tarefas em módulos permite processar cada passo sem esforço.",
+      "id": "Sains kognitif menunjukkan bahwa memori kerja manusia hanya dapat menampung 4 hingga 7 blok informasi sekaligus."
+    },
+    "cautionTitle": {
+      "en": "Caution & Babbage's Modularity Tip",
+      "ko": "찰스 배비지 모듈화 주의사항 및 팁",
+      "ja": "チャールズ・バベッジのモジュール化の注意点とヒント",
+      "zh": "巴贝奇模块化习惯的注意事项与技巧",
+      "es": "Precaución y Consejo de Modularidad de Babbage",
+      "fr": "Précaution et Conseil de Modularité de Babbage",
+      "de": "Vorsicht & Babbages Modularitätstipp",
+      "pt": "Precaução e Dica de Modularidade de Babbage",
+      "id": "Peringatan & Tip Modularitas Babbage"
+    },
+    "cautionDesc": {
+      "en": "Do not execute module steps out of order. Ensure clear input-output relationships between each component before proceeding.",
+      "ko": "분해된 모듈의 순서를 무작위로 섞어 실행하지 마세요. 반드시 앞 모듈의 출력이 다음 모듈의 입력으로 매끄럽게 연결되도록 인과관계를 정렬해야 합니다.",
+      "ja": "分解されたモジュールの順序をランダムに混ぜて実行しないでください。必ず前のモジュールの出力が次のモジュールの入力へとスムーズに繋がるよう因果関係を整えてください。",
+      "zh": "切勿打乱已拆解模块的执行顺序。在前推下一步之前，必须确保各模块间的输入-输出逻辑因果清晰无误。",
+      "es": "No ejecute los pasos del módulo fuera de orden. Asegúrese de que haya relaciones claras de entrada y salida entre componentes.",
+      "fr": "N'exécutez pas les étapes dans le désordre. Assurez-vous d'avoir des relations claires entre chaque composant.",
+      "de": "Führen Sie Modulschritte nicht in falscher Reihenfolge aus. Stellen Sie klare Beziehungen sicher.",
+      "pt": "Não execute os passos fora de ordem. Garanta relações claras de entrada e saída entre componentes.",
+      "id": "Jangan menjalankan langkah-langkah modul di luar urutan. Pastikan hubungan masukan-keluaran yang jelas."
+    },
+    "steps": [
+      {
+        "name": {
+          "en": "Identify Massive Complex Project",
+          "ko": "방대하고 복잡한 과제 정의하기",
+          "ja": "巨大で複雑な課題の定義",
+          "zh": "明确复杂庞大的核心项目目标",
+          "es": "Identificar el Proyecto Complejo",
+          "fr": "Identifier un Projet Complexe",
+          "de": "Komplexes Projekt identifizieren",
+          "pt": "Identificar o Projeto Complexo",
+          "id": "Identifikasi Proyek Kompleks"
+        },
+        "text": {
+          "en": "Select a large project or complex problem that feels overwhelming or prone to human error.",
+          "ko": "오차가 자주 발생하거나 한눈에 파악하기 힘든 거대 프로젝트나 복잡한 난제를 선정합니다.",
+          "ja": "エラーが頻発したり、一目で把握しづらい巨大プロジェクトや複雑な難題を選定します。",
+          "zh": "选择一项易发生失误、难以一眼掌控的复杂大项目或难题。",
+          "es": "Seleccione un proyecto grande o un problema complejo que parezca abrumador.",
+          "fr": "Sélectionnez un projet complexe qui semble accablant.",
+          "de": "Wählen Sie ein großes Projekt, das überwältigend wirkt.",
+          "pt": "Selecione um projeto grande que pareça abrumador.",
+          "id": "Pilih proyek besar atau masalah kompleks yang terasa membingungkan."
+        }
+      },
+      {
+        "name": {
+          "en": "Breakdown into Cog Modules",
+          "ko": "독립적 톱니바퀴 모듈로 분해하기",
+          "ja": "独立した歯車モジュールへの分解",
+          "zh": "拆解为独立的齿轮模块(Modules)",
+          "es": "Descomponer en Módulos de Engranajes",
+          "fr": "Décomposer en Modules d'Engrenages",
+          "de": "In Zahnrad-Module zerlegen",
+          "pt": "Decompor em Módulos de Engrenagens",
+          "id": "Dekomposisi Menjadi Modul Roda Gigi"
+        },
+        "text": {
+          "en": "Deconstruct the whole process into 3 to 5 independent, minimal action modules.",
+          "ko": "전체 프로세스를 3 - 5개의 독립된 최소 단위 톱니바퀴 모듈로 해체하고 청사진을 작성합니다.",
+          "ja": "プロセス全体を3〜5個の独立した最小単位の歯車モジュールに解体し、青写真を記述します。",
+          "zh": "将整体流程解构为3 - 5个独立的最小动作齿轮模块，并绘制清晰流程图。",
+          "es": "Descomponga todo el proceso en 3 a 5 módulos de acción independientes.",
+          "fr": "Décomposez l'ensemble du processus en 3 à 5 modules indépendants.",
+          "de": "Zerlegen Sie den Gesamtprozess in 3 bis 5 unabhängige Aktionsmodule.",
+          "pt": "Decomponha o processo em 3 a 5 módulos de ação independentes.",
+          "id": "Urai seluruh proses menjadi 3 hingga 5 modul tindakan independen."
+        }
+      },
+      {
+        "name": {
+          "en": "Execute Sequential Precision Sprint",
+          "ko": "순차적 톱니바퀴 연쇄 완성 스프린트",
+          "ja": "順次歯車連鎖完成スプリント",
+          "zh": "执行顺序齿轮连动精确完成冲刺",
+          "es": "Ejecutar Sprint de Precisión Secuencial",
+          "fr": "Exécuter un Sprint de Précision",
+          "de": "Sequenziellen Präzisions-Sprint ausführen",
+          "pt": "Executar Sprint de Precisão Sequencial",
+          "id": "Jalankan Sprint Presisi Sekuensial"
+        },
+        "text": {
+          "en": "Complete each single module meticulously before connecting it to the next step, ensuring zero error.",
+          "ko": "첫 번째 모듈부터 오차 없이 완벽하게 완성한 후 다음 모듈로 넘어가 연결합니다.",
+          "ja": "最初のモジュールからエラーなく完璧に完成させた後、次のモジュールへと繋げていきます。",
+          "zh": "从第一个模块开始无误完成，随后逐个与下一步链接，实现全流程0%失误。",
+          "es": "Complete cada módulo meticulosamente antes de conectarlo al siguiente paso.",
+          "fr": "Complétez chaque module méticuleusement avant de passer à la suite.",
+          "de": "Schließen Sie jedes Modul präzise ab, bevor Sie das nächste verbinden.",
+          "pt": "Conclua cada módulo meticulosamente antes de conectar ao próximo.",
+          "id": "Selesaikan setiap modul secara teliti sebelum menghubungkannya ke langkah berikutnya."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "en": "Can I use this modular breakdown method for software coding?",
+          "ko": "이 모듈화 분해법을 소프트웨어 코딩이나 업무 설계에도 적용할 수 있나요?",
+          "ja": "このモジュール化分解法をソフトウェアコーディングや業務設計にも適用できますか？",
+          "zh": "这种模块化拆解习惯能应用于软件编程或日常业务设计中吗？",
+          "es": "¿Puedo usar este método para la programación de software?",
+          "fr": "Puis-je utiliser cette méthode pour le codage informatique ?",
+          "de": "Kann ich diese Methode für Software-Codierung nutzen?",
+          "pt": "Posso usar este método para programação de software?",
+          "id": "Bisakah saya menggunakan metode dekomposisi ini untuk pengkodean perangkat lunak?"
+        },
+        "answer": {
+          "en": "Yes. Modern software architecture principles like microservices and modular programming are direct descendants of Babbage's Difference Engine logic.",
+          "ko": "네! 현대 마이크로서비스 및 모듈러 프로그래밍의 핵심 개념이 바로 찰스 배비지의 차분기관 톱니바퀴 모듈화 논리에서 직접 유래한 것입니다.",
+          "ja": "はい！現代のマイクロサービスやモジュールプログラミングのコア概念は、正にバベッジの階差機関の歯車モジュール論理から直接由来したものです。",
+          "zh": "当然可以！现代软件架构中的微服务与模块化编程的核心思想，正是源于巴贝奇差分机的齿轮模块化逻辑。",
+          "es": "Sí. Los principios de la arquitectura de software moderna provienen directamente de la lógica de la Máquina Diferencial.",
+          "fr": "Oui. Les principes de l'architecture logicielle moderne sont les descendants directs de la logique de Babbage.",
+          "de": "Ja. Moderne Softwarearchitektur-Prinzipien wie modulare Programmierung stammen direkt von Babbages Logik ab.",
+          "pt": "Sim. Os princípios da arquitetura de software moderna descendem diretamente da lógica de Babbage.",
+          "id": "Ya. Prinsip arsitektur perangkat lunak modern berasal dari logika Mesin Diferensial Babbage."
+        }
+      },
+      {
+        "question": {
+          "en": "What should I do if a specific module fails?",
+          "ko": "특정 모듈에서 오류가 발생하면 어떻게 해야 하나요?",
+          "ja": "特定のモジュールでエラーが発生した場合はどうすればよいですか？",
+          "zh": "如果某一特定模块出现失误或瓶颈该怎么办？",
+          "es": "¿Qué debo hacer si falla un módulo específico?",
+          "fr": "Que faire si un module spécifique échoue ?",
+          "de": "Was tun, wenn ein bestimmtes Modul fehlschlägt?",
+          "pt": "O que devo fazer se um módulo específico falhar?",
+          "id": "Apa yang harus saya lakukan jika modul tertentu gagal?"
+        },
+        "answer": {
+          "en": "Isolate the failing module entirely from the system, repair its internal logic, and reattach it seamlessly.",
+          "ko": "전체 시스템을 건드리지 말고 해당 결함 모듈만 떼어내어 내부 인과관계를 디버깅(수리)한 뒤 다시 연결하세요.",
+          "ja": "システム全体をいじらず、該当する不具合モジュールだけを取り外して内部の因果関係をデバッグ（修理）した後に再結合してください。",
+          "zh": "无需动摇整体系统，只需将该故障模块单独隔离，对其内部输入-输出因果进行调试(Debug)后重新拼接即可。",
+          "es": "Aísle el módulo fallido por completo, repare su lógica interna y vuelva a conectarlo.",
+          "fr": "Isolez complètement le module défaillant, réparez sa logique et réattachez-le.",
+          "de": "Isolieren Sie das fehlerhafte Modul, reparieren Sie dessen Logik und fügen Sie es wieder ein.",
+          "pt": "Isole o módulo com falha, repare sua lógica interna e conecte-o novamente.",
+          "id": "Isolasi modul yang gagal secara total, perbaiki logika internalnya, dan hubungkan kembali."
+        }
+      }
+    ]
+  }
+}

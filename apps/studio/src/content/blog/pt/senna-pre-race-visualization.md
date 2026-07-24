@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Ayrton Senna, um dos maiores pilotos de F1 da história, tinha uma intensa rotina mental ao lado do treinamento físico. Minutos antes de uma corrida, sentava-se no cockpit com o capacete, olhos fechados, completamente imóvel. Em sua mente, a corrida já havia começado, simulando cada curva, troca de marcha e ponto de frenagem.
+Na prática desta rotina transformadora:  (F1)        .     300km                ' ' .      ,             .           ,  ,    3D  .            .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

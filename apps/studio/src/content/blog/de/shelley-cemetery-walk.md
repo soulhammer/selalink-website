@@ -24,7 +24,7 @@ faqs:
 
 Mary Shelley war die englische Schriftstellerin, die das Science-Fiction-Genre mit *Frankenstein* begründete. Seit ihrer Kindheit besuchte sie das Grab ihrer Mutter, um zu lesen und nachzudenken. Friedhöfe und Ruinen waren für sie Orte des Friedens und des Studiums von Leben und Tod. Erfahren Sie, wie feierliche Umgebungen ehrfürchtige und kreative Netzwerke aktivieren.
 
-</div>
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

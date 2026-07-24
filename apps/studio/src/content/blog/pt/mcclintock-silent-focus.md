@@ -24,11 +24,13 @@ faqs:
 
 ---
 
-Prêmio Nobel por descobrir os "genes saltadores", Barbara McClintock revolucionou a genética. Como ela mantinha tal intuição? 🌽
+Na prática desta rotina transformadora:       ' (Transposon,   )'         ,  (Barbara McClintock). 1940              ? 🌽
 
-Todas as manhãs, ela caminhava sozinha pelos milharais observando micro-variações em silêncio absoluto.
+Na prática desta rotina transformadora:          .                   .                      .
 
-Hoje BuildSelf revela a ciência por trás da rotina de foco silencioso de Barbara McClintock.
+Na prática desta rotina transformadora:  BuildSelf                .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

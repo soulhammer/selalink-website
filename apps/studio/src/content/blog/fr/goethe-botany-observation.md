@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Johann Wolfgang von Goethe, auteur du chef-d'œuvre « Faust ». Il n'était pas seulement un écrivain, mais un polymathe qui a exploré la botanique, la théorie des couleurs et l'anatomie. Derrière ses idées créatrices se cachait un rituel : l'habitude de se promener dans son jardin, d'observer de près les plantes et de récolter des graines. Chaque matin, il marchait lentement dans son jardin à Weimar. Il portait toujours des enveloppes et une loupe pour étudier les feuilles et collecter des graines. Pour Goethe, ce moment était une recharge cognitive qui le libérait du travail de bureau. Aujourd'hui, BuildSelf partage le secret de ce rituel.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "La autobiografía de Benjamin Franklin y New England Journal of Medicine (NEJM)"
 steps:
   - name: "Ventilar por la mañana y recibir el aire frío durante 5 minutos"
-    text: ""
+    text: "."
   - name: "Planificar el día en el viento frío"
-    text: ""
+    text: "."
   - name: "Estiramiento corporal ligero"
-    text: ""
+    text: "."
 faqs:
   - question: "¿Realmente ayuda el baño de aire (Air Bath) a prevenir resfriados?"
     answer: "Sí, exponer la piel al aire fresco mejora la resistance del cuerpo a los cambios de temperatura y estimula la inmunidad."
@@ -27,8 +27,7 @@ En el siglo XVIII, la gente creía que exponerse al viento frío causaba resfria
 
 Hoy, BuildSelf presenta los principios científicos ocultos en esta extraordinaria rutina matutina amada por uno de los padres fundadores de los Estados Unidos, y cómo practicarla de forma segura en la ajetreada vida diaria moderna.
 
-
-</div>
+Esta práctica diaria esencial fomenta un enfoque profundo y una claridad mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +59,7 @@ La medicina y la neurociencia modernas demuestran que la creencia de Franklin er
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ventilar por la mañana y recibir el aire frío durante 5 minutos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +69,7 @@ La medicina y la neurociencia modernas demuestran que la creencia de Franklin er
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Planificar el día en el viento frío</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +79,7 @@ La medicina y la neurociencia modernas demuestran que la creencia de Franklin er
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Estiramiento corporal ligero</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

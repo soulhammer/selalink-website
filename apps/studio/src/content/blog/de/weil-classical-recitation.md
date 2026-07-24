@@ -24,7 +24,7 @@ faqs:
 
 Simone Weil, die französische Philosophin, die ihr Leben der Wahrheit widmete. Sie glaubte, Aufmerksamkeit sei das edelste Werkzeug des Geistes. Um sie zu schulen, praktizierte sie eine Morgenroutine: Sie rezitierte das Vaterunser auf Altgriechisch oder Plato-Passagen. Diese Rezitation beschrieb sie als geistigen Hausputz. Entdecken Sie die neurokognitiven Vorteile des Vorlesens.
 
-</div>
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,7 +24,11 @@ faqs:
 
 ---
 
-Antoni Gaudí caminhava diariamente por Barcelona ao pôr do sol para observar os padrões geométricos na natureza. Essa imersão inspirou seus projetos arquitetônicos e aliviou sua fadiga.
+Na prática desta rotina : Columns mimicking tree trunks, curved apartment facades like rolling waves. Antoni Gaudí, the Spanish genius architect who created the most original architecture in human history by transplanting nature's shapes and organic structures into buildings. Where did his multidimensional and marvelous inspirations, which have astonished people for over a century, come from? ⛪
+
+Na prática desta rotina : Gaudí maintained a very strict walking habit of walking at least 4km through the streets of Barcelona every afternoon. During his walks, he closely observed natural patterns such as the twisting of street trees, the movement of clouds, the veins of leaves, and even insect wings and animal skeletons. The physical stimulation of walking, combined with the organic structures unfolding in front of him, formed the backbone of Gaudí's unique curved architectural engineering.
+
+Na prática desta rotina : Today, BuildSelf introduces the scientific principles behind Gaudí's '4km organic walk' routine and how modern people can apply it to generate creative ideas.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

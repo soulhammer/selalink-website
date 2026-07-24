@@ -16,7 +16,7 @@ faqs:
     answer: "Al menos 2 horas de ejercicio diario divididas entre mañana y noche."
 ---
 
-El Border Collie es conocido como el perro más inteligente del mundo. Su estilo de carrera rápida e intensos giros desgastan sus articulaciones. Hoy en PetSelf compartimos una rutina para estimular su cerebro y proteger articulaciones.
+El Border Collie es conocido como el perro más inteligente del mundo. Su estilo de carrera rápida e intensos giros desgastan sus articulaciones. Hoy en PetSelf compartimos una rutina para estimular su cerebro y proteger articulaciones. Brindar atención médica diaria constante y un entorno seguro garantiza el bienestar a largo plazo de su mascota.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-好莱坞永恒的时尚偶像，晚年作为致力于慈善的联合国儿童基金会大使为全球受苦儿童工作的奥黛丽·赫本。在极度的媒体曝光、外貌评价以及晚年抗癌的日常生活中，抚平她内心伤痛并保持优雅的力量源泉是什么？奥黛丽·赫本每天下午都专注于在瑞士托洛舍纳兹的乡村住宅花园里摸土、种花和水果。今天，BuildSelf 向您介绍奥黛丽·赫本“园艺”常规的认知恢复原理和现代情感疗愈常规。
+在这一历史性惯例的实践中： . , ? . BuildSelf ' ' .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

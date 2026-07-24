@@ -24,7 +24,11 @@ faqs:
 
 ---
 
-Werner Heisenberg, o físico do princípio da incerteza. Em 1925, bloqueado pelas equações do átomo, viajou sozinho para os Alpes bávaros para caminhar dias inteiros. Encontrou o caminho em meio aos bosques. Analisemos como la caminada natural reduce la fatiga atencional (teoría de restauración de atención).
+Na prática desta rotina transformadora:  ' '            .                          .             . 1925 ,                    .         .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

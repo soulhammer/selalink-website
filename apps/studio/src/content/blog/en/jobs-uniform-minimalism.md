@@ -11,11 +11,11 @@ formatVersion: 4
 authority: "Steve Jobs' Biography by Walter Isaacson & JPSP Decision Fatigue Research"
 steps:
   - name: "Pre-Setting Clothing and Belongings the Night Before"
-    text: ""
+    text: "."
   - name: "Building Your Own 'Basic Template (Uniform)'"
-    text: ""
+    text: "."
   - name: "Processing Important Decisions with the Clearest Brain"
-    text: ""
+    text: "."
 faqs:
   - question: "Why did Steve Jobs wear the exact same clothes every day?"
     answer: "He wanted to save prefrontal brain energy consumed by minor fashion choices in the morning, focusing 100% of his power on critical business and product decisions."
@@ -28,8 +28,7 @@ Many people think of his uniform fashion as a simple expression of personality o
 
 Today, BuildSelf introduces the scientific principles behind Steve Jobs' 'clothing minimalism' routine and how modern people can reduce decision fatigue in the morning to maximize productivity.
 
-
-</div>
+By practicing this routine daily, knowledge workers can eliminate fatigue and cultivate deep focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -61,7 +60,7 @@ When decision fatigue accumulates, our brain loses its rational judgment ability
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pre-Setting Clothing and Belongings the Night Before</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -71,7 +70,7 @@ When decision fatigue accumulates, our brain loses its rational judgment ability
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Building Your Own 'Basic Template (Uniform)'</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -81,7 +80,7 @@ When decision fatigue accumulates, our brain loses its rational judgment ability
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Processing Important Decisions with the Clearest Brain</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

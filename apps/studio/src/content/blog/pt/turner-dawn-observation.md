@@ -24,9 +24,11 @@ faqs:
 
 ---
 
-J.M.W. Turner observava o amanhecer diariamente para capturar a luz. 🌅
+Na prática desta rotina : Britain's greatest landscape painter J.M.W. Turner mastered light and atmospheric drama. How did he capture such sublime natural gradients? 🌅
 
-Hoje BuildSelf revela a ciência por trás da rotina de Turner.
+Na prática desta rotina : Every dawn, Turner observed sunrise light over Thames or ocean cliffs. Exposure to morning sunlight resets circadian rhythms and boosts serotonin.
+
+Na prática desta rotina : Today, BuildSelf explores J.M.W. Turner's dawn observation routine.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -22,9 +22,7 @@ faqs:
 
 ---
 
-玛丽·雪莱，以其哥特式杰作《科学怪人》开创了科幻小说先河的英国杰出女作家。从孩提时代起，玛丽就有一个独特的习惯：去她母亲安葬的公墓看书和思考。对她而言，公墓或历史遗迹是研究生命、死亡和历史的宁静圣所。让我们一起来探讨严肃的环境是如何激发敬畏感并激活大脑深层创意网络的。
-
-</div>
+在这一历史性惯例的实践中： SF 《》 , . . , . . 在这一历史性惯例的实践中：</div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -11,11 +11,11 @@ formatVersion: 4
 authority: "Biographie de René Descartes 'La Vie de Monsieur Descartes' & revue Psychophysiology"
 steps:
   - name: "Garder la Posture et Bloquer le Smartphone Après l'Alarme"
-    text: ""
+    text: "."
   - name: "Respiration Relaxante et Balayage Corporel"
-    text: ""
+    text: "."
   - name: "Définir la 'Question Clé' de la Journée"
-    text: ""
+    text: "."
 faqs:
   - question: "La méditation matinale au lit est-elle vraiment efficace pour le cerveau ?"
     answer: "Oui, la position allongée après le réveil guide les ondes cérébrales en état alpha, ce qui stabilise le système nerveux et stimule la créativité."
@@ -28,8 +28,7 @@ Descartes était de constitution très fragile depuis son enfance, ce qui lui re
 
 Aujourd'hui, BuildSelf présente les fondements scientifiques de la routine de méditation au lit de Descartes et comment les personnes actives peuvent l'appliquer le matin.
 
-
-</div>
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -61,7 +60,7 @@ De nombreux actifs se lèvent en sursaut au son de l'alarme, le cœur battant, v
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Garder la Posture et Bloquer le Smartphone Après l'Alarme</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -71,7 +70,7 @@ De nombreux actifs se lèvent en sursaut au son de l'alarme, le cœur battant, v
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Respiration Relaxante et Balayage Corporel</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -81,7 +80,7 @@ De nombreux actifs se lèvent en sursaut au son de l'alarme, le cœur battant, v
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Définir la 'Question Clé' de la Journée</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

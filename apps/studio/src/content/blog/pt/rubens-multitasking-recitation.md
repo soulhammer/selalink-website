@@ -24,9 +24,11 @@ faqs:
 
 ---
 
-Mestre barroco, Peter Paul Rubens ouvia leituras clássicas enquanto pintava. Essa dupla estimulação elevava seu foco. 🎨
+Na prática desta rotina : Baroque master painter and diplomat Peter Paul Rubens achieved staggering productivity while running a legendary Antwerp workshop. How did he maintain immense creative output without fatigue? 🎨
 
-Hoje BuildSelf revela a ciência por trás da rotina de Peter Paul Rubens.
+Na prática desta rotina : While painting large canvases, Rubens hired readers to recite classical literature and philosophy aloud. Engaging his visual-motor cortex with painting while occupying his auditory cortex with poetry prevented mental boredom and triggered elevated flow states.
+
+Na prática desta rotina : Today, BuildSelf explores Peter Paul Rubens' classical recitation routine, demonstrating how dual-sensory stimulation elevates deep focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-El presidente John F. Kennedy lideró a EE. UU. durante los momentos más tensos de la historia. Aunque parecía vibrante, sufría de un dolor de espalda crónico debido a una lesión de guerra. 🪑
-
-La solución provino de su ortopedista, la Dra. Janet Travell, quien prescribió colocar una mecedora de madera en el Despacho Oval. Kennedy se mecía suavemente mientras leía documentos o mantenía reuniones. Este hábito alivió la tensión espinal y sirvió como un santuario para mantener la compostura.
-
-Hoy, BuildSelf explora el mecanismo neurocientífico de relajación de la mecedora de JFK y cómo aplicarlo hoy.
+En la práctica de esta rutina transformadora: , 35 F. . , 2 . 🪑 En la práctica de esta rutina transformadora: . (Oval Office) . , . , . En la práctica de esta rutina transformadora: BuildSelf F. . Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

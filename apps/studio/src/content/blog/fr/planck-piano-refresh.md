@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Max Planck, le père de la physique quantique. Pour surmonter la fatigue de ses calculs, il pratiquait un rituel : jouer du piano sans partition. Il accompagnait souvent Albert Einstein au violon. Voyons comment l'improvisation artistique active l'hémisphère droit et met au repos les réseaux logiques de l'hémisphère gauche.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

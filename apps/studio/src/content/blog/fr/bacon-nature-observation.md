@@ -16,6 +16,9 @@ steps:
     text: "Marchez lentement et observez consciemment les formes, sons, textures et odeurs de votre environnement. Cela ancre le cerveau dans le moment présent."
   - name: "Récolter les idées au retour"
     text: "De retour à votre bureau, notez immédiatement les idées ou solutions apparues pendant la marche. Un cortex préfrontal reposé exécute les tâches avec plus de clarté."
+faqs:
+  - question: "Dois-je pratiquer cette habitude tous les jours ?"
+    answer: "Oui, pratiquer à une heure fixe chaque jour maximise la neuroplasticité cérébrale."
 
 ---
 
@@ -83,4 +86,19 @@ Le travail moderne exige une 'attention dirigée', ce qui fatigue le cortex pré
       Si vous prenez des photos ou écoutez des podcasts en marchant, vous consommez toujours de l'attention dirigée. Pour bénéficier de la restauration cognitive, gardez le téléphone dans votre poche et concentrez-vous sur la nature.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>Dois-je pratiquer cette habitude tous les jours ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Oui, pratiquer à une heure fixe chaque jour maximise la neuroplasticité cérébrale.
+    </p>
+  </details>
 </div>

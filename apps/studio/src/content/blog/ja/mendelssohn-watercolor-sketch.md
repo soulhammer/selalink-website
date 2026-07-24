@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-『真夏の夜の夢』などを作曲した天才音楽家フェリックス・メンデルスゾーン（Felix Mendelssohn）。多忙な演奏会の中で彼はいかにして溢れ出るインスピレーションを維持したのでしょうか？ 🎨
-
-オーケストラの合間に、メンデルスゾーンは水彩絵の具を携えて散歩に出て風景をスケッチしました。聴覚から視覚へと感覚チャンネルを切り替えるこのルーティンが脳をリフレッシュさせました。
-
-今日のBuildSelfでは、メンデルスゾーンの感覚切り替えルーティンに潜む脳科学を紹介します。
+この歴史的習慣の実践において：< >, < > 19 , (Felix Mendelssohn). ? 🎨 この歴史的習慣の実践において： , . . . この歴史的習慣の実践において： BuildSelf (Cross-Sensory Shifting) .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

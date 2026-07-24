@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-穆罕默德·阿里曾蝉联奥运会金牌和世界重量级冠军，是20世纪体育史上最伟大的偶像。在步入数万名观众和残暴对手等待的拳击台之前，他是如何控制极端恐惧和表现焦虑的？阿里每天早上对着镜子大声喊道“我是最伟大的”，甚至在训练期间对着记者的镜头也这样喊。这并不是简单的炫耀，而是一种自我肯定常规，将胜利的心态深深烙印在他的大脑和下意识中。今天，BuildSelf 向您介绍穆罕默德·阿里“自我肯定”常规的体育心理学原理和现代心态常规。
+在这一历史性惯例的实践中： 20 . , ? , " (I am the greatest)" . , (Affirmation) . BuildSelf ' ' .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

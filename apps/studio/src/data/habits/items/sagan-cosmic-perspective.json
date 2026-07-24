@@ -1,0 +1,30 @@
+{
+  "id": "sagan-cosmic-perspective",
+  "name": "칼 세이건",
+  "gender": "male",
+  "era": "20세기 (현대)",
+  "location": "미국 (USA)",
+  "lifespan": "1934 - 1996",
+  "birthYear": 1934,
+  "bio": "미국의 세계적인 천문학자, 대중 과학자이자 작가로, 퓰리처상 수상작 《코스모스》와 《창백한 푸른 점》을 통해 인류에게 우주적 관점의 중요성을 전파했습니다.",
+  "habitName": "우주적 관점 조망으로 일상의 스트레스를 리셋하는 3분 관점 전환 루틴",
+  "tags": ["#성찰", "#마음", "#스트레스 해소", "#본질"],
+  "timeOfDay": "morning",
+  "requiredItems": ["우주 사진 또는 창백한 푸른 점 이미지"],
+  "frequency": "daily",
+  "historicalStory": "칼 세이건은 매일 중요한 학술 연구나 저술 활동에 착수하기 전, 보이저 1호가 촬영한 '창백한 푸른 점(Pale Blue Dot)' 사진을 바라보며 스스로의 관점을 우주적 시각으로 부감(Zoom-out)하는 3분 성찰 루틴을 가졌습니다. 광대한 우주 공간 속에 떠 있는 아주 작은 광점(지구)과 그 안에서 일어나는 인간의 사소한 갈등과 불안을 시각화함으로써, 자신을 괴롭히던 스트레스를 순식간에 털어내고 인간과 과학의 본질에 초집중하는 정신적 자유를 얻었습니다.",
+  "sciencePrinciples": "심리학과 뇌과학에서는 이를 '경외감 효과(The Awe Effect)' 및 '작은 자 효과(Small-Self Effect)'로 설명합니다. 인간이 광활한 우주나 대자연의 경외감을 조망할 때 뇌의 뇌도(Insula) 및 편도체(Amygdala)의 과도한 자아 스트레스 신호가 진정되고, 시야를 넓히며 긍정적이고 객관적인 인지 재구조화(Cognitive Reframing)가 이루어집니다.",
+  "quote": "우리가 아는 모든 이들이 살았던 곳은 오직 저 아득한 빛의 한 점, 창백한 푸른 점뿐이다.",
+  "trigger": "사소한 갈등이나 업무 실패로 마음이 좁아지고 불안해질 때",
+  "modernGuide": [
+    "우주 이미지나 창백한 푸른 점 사진을 30초간 가만히 마주합니다.",
+    "자신이 겪고 있는 고민과 스트레스를 우주 전체의 크기와 비교하며 Zoom-out합니다.",
+    "자아의 사소한 스트레스를 털어내고 오늘 하루의 본질적인 과제 1가지에 몰입합니다."
+  ],
+  "actionName": "칼 세이건 3분 줌아웃 리셋 루틴",
+  "sources": [
+    "Carl Sagan's Pale Blue Dot: A Vision of the Human Future in Space (1994)",
+    "Carl Sagan's Cosmos (1980)",
+    "Awe and the Small-Self Effect (Journal of Personality and Social Psychology)"
+  ]
+}

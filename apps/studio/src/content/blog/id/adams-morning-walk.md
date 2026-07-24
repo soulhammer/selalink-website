@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Presiden AS ke-6 John Quincy Adams mempertahankan stamina intelektual dan ingatan tajam hingga usia 80-an. Bagaimana ia melindungi otaknya dari penuaan dini? 🏊‍♂️
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
-Setiap pagi sebelum fajar, Adams melakukan jalan cepat 8 km atau berenang di sungai Potomac, dilanjutkan dengan menulis diari pada malam hari. Sinergi ini memperkuat ketahanan otaknya.
-
-Hari ini BuildSelf mengungkap sains kognitif di balik rutinitas jalan cepat dan refleksi malam John Quincy Adams.
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

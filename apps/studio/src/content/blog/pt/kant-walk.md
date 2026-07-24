@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Biografia 'Kant' de Manfred Kuehn & Journal of Neurobiology of Learning and Memory (JN)"
 steps:
   - name: "Definir um alarme às 15h30"
-    text: ""
+    text: "."
   - name: "Caminhada silenciosa de 15 minutos sem smartphone"
-    text: ""
+    text: "."
   - name: "Regular a respiração e retornar"
-    text: ""
+    text: "."
 faqs:
   - question: "Porque é que Immanuel Kant ia passear exatamente às 15:30 todos os dias?"
     answer: "Era um ritual rigoroso para manter o seu ritmo circadiano e sustentar a investigação filosófica abstrata por décadas, protegendo a saúde."
@@ -27,8 +27,7 @@ O horário de sua caminhada era tão exato que os moradores de Königsberg ajust
 
 Hoje, o BuildSelf explora os benefícios médicos e a prática moderna do rigoroso estilo de vida do filósofo, que caminhava diariamente sem falhar.
 
-
-</div>
+Esta prática diária essencial estimula um foco profundo e uma clareza mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +59,7 @@ A neurociência moderna concorda com essa visão. Caminhar regularmente (exercí
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Definir um alarme às 15h30</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +69,7 @@ A neurociência moderna concorda com essa visão. Caminhar regularmente (exercí
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Caminhada silenciosa de 15 minutos sem smartphone</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +79,7 @@ A neurociência moderna concorda com essa visão. Caminhar regularmente (exercí
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Regular a respiração e retornar</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

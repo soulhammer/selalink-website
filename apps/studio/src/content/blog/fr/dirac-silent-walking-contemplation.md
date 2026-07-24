@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Paul Dirac, prix Nobel ayant prédit l'antimatière. D'où venaient ses équations ? 🌌
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
-Dirac marchait en silence en forêt le dimanche sans dire un mot. Arrêter le bruit verbal affinait ses mathématiques.
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
-Aujourd'hui, BuildSelf présente la routine de 'marche silencieuse' de Paul Dirac.
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

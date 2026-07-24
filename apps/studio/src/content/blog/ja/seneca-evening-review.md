@@ -16,10 +16,13 @@ steps:
     text: "目を閉じ、朝起きた瞬間から現在までのタイムラインを頭の中で逆追跡します。自分が直面した状況の中で、自らの感情状態や行動パターンがどうであったかを、第三者の視点から静かに見つめます。"
   - name: "ステップ3：核心的教訓の導出と妨害の遮断"
     text: "今日犯した最も反省すべき行動を一つ選び、明日同じ状況になったらどのように正しく行動するか、具体的な改善案を一つ確定します。改善策を立てたら、「今日すべきことはこれで完了した」と心の中で宣言し、すべての思考を断ち切ります。"
+faqs:
+  - question: "この習慣を毎日実践すべきですか？"
+    answer: "はい、毎日決まった時間に実践することで脳の神経可塑性が極大化します。"
 
 ---
 
-「部屋の灯りが完全に消え、妻が沈黙に沈んだとき、私は自分の生の一日全体を検査し始める。」ローマを代表するストア哲学者セネカは、夜な夜な自分を起訴し判決を下す魂の法廷を開きました。暗闇の中で自分の言動を厳格かつ優しく評価するこの習慣は、昼の間に積もった感情的な疲労と不要な執着を完全に削ぎ落とす時間でした。
+この歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持持続可能な深い集中力を養うことができます。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -83,4 +86,19 @@ steps:
       夜の省察の本質は理性的な改善策の模索であり、感情的な自責や自虐ではありません。自分の過ちや弱い行動に直面したとき、感情的に自分を責めることは睡眠をさらに妨げます。「失敗したが原因は分かったので明日は正そう」と自分を許してください。裁判官のように客観的で淡々とした分析であるべきです。
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>この習慣を毎日実践すべきですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      はい、毎日決まった時間に実践することで脳の神経可塑性が極大化します。
+    </p>
+  </details>
 </div>

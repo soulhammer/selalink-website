@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "A Autobiografia de Benjamin Franklin & New England Journal of Medicine (NEJM)"
 steps:
   - name: "Ventilar o ambiente e receber o ar frio por 5 minutos"
-    text: ""
+    text: "."
   - name: "Planejar o dia sob o vento frio"
-    text: ""
+    text: "."
   - name: "Alongamento corporal leve"
-    text: ""
+    text: "."
 faqs:
   - question: "O banho de ar (Air Bath) ajuda realmente a prevenir constipações?"
     answer: "Sim, expor a pele ao ar fresco melhora a resistência do corpo a mudanças de temperatura e regula a imunidade."
@@ -27,8 +27,7 @@ No século XVIII, as pessoas acreditavam que se expor ao vento frio causava resf
 
 Hoje, o BuildSelf apresenta os princípios científicos ocultos nessa extraordinária rotina matinal amada por um dos pais fundadores dos Estados Unidos, e como praticá-la com segurança na correria do dia a dia moderno.
 
-
-</div>
+Esta prática diária essencial estimula um foco profundo e uma clareza mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +59,7 @@ A medicina e a neurociência modernas provam que a crença de Franklin era altam
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ventilar o ambiente e receber o ar frio por 5 minutos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +69,7 @@ A medicina e a neurociência modernas provam que a crença de Franklin era altam
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Planejar o dia sob o vento frio</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +79,7 @@ A medicina e a neurociência modernas provam que a crença de Franklin era altam
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Alongamento corporal leve</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

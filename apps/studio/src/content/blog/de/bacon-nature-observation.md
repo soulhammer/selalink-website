@@ -16,6 +16,9 @@ steps:
     text: "Gehen Sie langsam und nehmen Sie Formen, Geräusche, Texturen und Düfte in Ihrer Umgebung bewusst wahr. Dies verankert das Gehirn im Moment."
   - name: "Halten Sie die gewonnenen Erkenntnisse fest"
     text: "Notieren Sie nach der Rückkehr an Ihren Schreibtisch sofort die Ideen, die Ihnen beim Gehen kamen. Ein erholter präfrontaler Kortex arbeitet mit überlegener Klarheit."
+faqs:
+  - question: "Sollte ich diese Gewohnheit täglich praktizieren?"
+    answer: "Ja, tägliche Praxis zur gleichen Zeit maximiert die Neuroplastizität."
 
 ---
 
@@ -83,4 +86,19 @@ Moderne Arbeit erfordert "gerichtete Aufmerksamkeit", was den präfrontalen Kort
       Wenn Sie beim Gehen Fotos machen oder Podcasts hören, verbrauchen Sie weiterhin gerichtete Aufmerksamkeit. Um den Erholungseffekt zu erzielen, lassen Sie das Handy in der Tasche. Konzentrieren Sie sich nur auf die Umgebung.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>Sollte ich diese Gewohnheit täglich praktizieren?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Ja, tägliche Praxis zur gleichen Zeit maximiert die Neuroplastizität.
+    </p>
+  </details>
 </div>

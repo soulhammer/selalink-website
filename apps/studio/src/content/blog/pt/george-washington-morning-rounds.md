@@ -24,9 +24,15 @@ faqs:
 
 ---
 
-George Washington governou a nascente nação americana sob enorme responsabilidade. Seu esteio analítico vinha do hábito de acordar às 4h da manhã para inspecionar Mount Vernon a cavalo. Ele registrava vento, temperatura e experimentos agrícolas em uma caderneta de couro manualmente. Isso moldou sua gestão de precisão.
+Na prática desta rotina transformadora:                .           .                        . ☀️
 
-Hoje, o BuildSelf detalha o hábito do diário de Washington e como usar a metacognição para gerir a rotina.
+Na prática desta rotina transformadora:        4 .                 .       , ,   ,       (Logbook)           .                    .
+
+Na prática desta rotina transformadora:  BuildSelf   '    '               .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

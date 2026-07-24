@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Zaha Hadid, die erste Pritzker-Preisträgerin. Wie entstanden ihre futuristischen Bauten? 🏛️
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und reduziert geistige Ermüdung.
 
-Hadid legte starrre Raster ab und zeichnete flüssige Kurven mit Tinte auf große Blöcke. Die Handbewegung stimulierte das räumliche 3D-Denken im Gehirn.
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und reduziert geistige Ermüdung.
 
-Heute untersucht BuildSelf Zaha Hadids 'flüssige Skizzen'-Routine.
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und reduziert geistige Ermüdung.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

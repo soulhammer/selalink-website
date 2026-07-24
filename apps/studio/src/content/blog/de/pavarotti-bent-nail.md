@@ -22,9 +22,7 @@ faqs:
 
 ---
 
-Luciano Pavarotti, einer der größten Tenöre aller Zeiten, der die Oper populär machte. Trotz Auftritten vor Massen litt er unter extremem Lampenfieber. Dagegen hatte er ein Ritual: Er suchte in den Kulissen nach einem krummen Nagel. Nach italienischem Glauben bringt dieser Glück. Erfahren Sie, wie dieses Ritual seine Amygdala beruhigte und Aufmerksamkeit fokussierte.
-
-</div>
+Luciano Pavarotti, einer der größten Tenöre aller Zeiten, der die Oper populär machte. Trotz Auftritten vor Massen litt er unter extremem Lampenfieber. Dagegen hatte er ein Ritual: Er suchte in den Kulissen nach einem krummen Nagel. Nach italienischem Glauben bringt dieser Glück. Erfahren Sie, wie dieses Ritual seine Amygdala beruhigte und Aufmerksamkeit fokussierte. </div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

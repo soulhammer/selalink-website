@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Johann Wolfgang von Goethe, yang menciptakan mahakarya 'Faust' & novel 'The Sorrows of Young Werther'. Ia bukan hanya seorang penulis melainkan seorang polimatik yang menjelajahi botani, teori warna, & anatomi. Di balik ide-ide kreatifnya, ada ritual pagi yang menakjubkan: kebiasaan berjalan di taman, mengamati tanaman liar secara dekat, & mengumpulkan biji-bijian. Setiap pagi ia berjalan perlahan di tamannya di Weimar. Baginya, waktu ini adalah stasiun pengisian kognitif yang membebaskannya dari tekanan pekerjaan meja.
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
+
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

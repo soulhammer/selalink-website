@@ -11,11 +11,11 @@ formatVersion: 4
 authority: "René Descartes' Biografie 'La Vie de Monsieur Descartes' & Fachzeitschrift Psychophysiology"
 steps:
   - name: "Liegen bleiben und Smartphone nach dem Wecken blockieren"
-    text: ""
+    text: "."
   - name: "Entspannungsatmung und Body-Scan"
-    text: ""
+    text: "."
   - name: "Festlegen der 'Kernfrage' des Tages"
-    text: ""
+    text: "."
 faqs:
   - question: "Ist morgendliche Meditation im Bett wissenschaftlich wirksam?"
     answer: "Ja, die flache Haltung direkt nach dem Aufwachen führt zu Alpha-Wellen im Gehirn, was das Nervensystem beruhigt und die Kreativität steigert."
@@ -28,8 +28,7 @@ Descartes war seit seiner Kindheit sehr schwach, weshalb es ihm schwerfiel, frü
 
 Heute stellt BuildSelf die wissenschaftliche Basis von Descartes' 'Bett-Meditation' vor und zeigt, wie vielbeschäftigte Menschen sie am Morgen nutzen können.
 
-
-</div>
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -61,7 +60,7 @@ Das Beibehalten einer horizontalen, bequemen Liegeposition nach dem Aufwachen wi
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Liegen bleiben und Smartphone nach dem Wecken blockieren</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -71,7 +70,7 @@ Das Beibehalten einer horizontalen, bequemen Liegeposition nach dem Aufwachen wi
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Entspannungsatmung und Body-Scan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -81,7 +80,7 @@ Das Beibehalten einer horizontalen, bequemen Liegeposition nach dem Aufwachen wi
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Festlegen der 'Kernfrage' des Tages</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

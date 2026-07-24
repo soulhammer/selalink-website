@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-『ダロウェイ夫人』や『灯台へ』などの傑作を残し、20世紀モダニズム文学の先駆者と評価される小説家ヴァージニア・ウルフ。彼女の驚くべき集中力の裏には、非常に独特な作業習慣がありました。ウルフは毎朝、高さが1メートルを超える傾斜したスタンディングデスクの前に立って、小説の原稿を執筆しました。本日BuildSelfでは、ウルフの立位執筆ルーティンの科学的根拠と集中力を高める実践法をお伝えします。
+この歴史的習慣の実践において：Virginia Woolf, evaluated as a pioneer of 20th-century modernist literature, leaving behind masterpieces such as 'Mrs. Dalloway' and 'To the Lighthouse.' How was she able to realize such intimate inner worlds and complex psychology with such persistent and sophisticated sentences? Behind her amazing concentration was a very unique working habit. Every morning, Woolf stood in front of a tilted standing desk over a meter high to write. This writing routine was inspired by the working method of her sister, Vanessa Bell, an outstanding painter. Fascinated by the way her sister stood in front of the easel, using her whole body to paint, Woolf thought that she too had to stand to write in order to perceive the sentences and the overall structure of the novel in a three-dimensional and balanced way. Today, BuildSelf shares the scientific benefits of Woolf's standing writing routine and concentration-boosting practices.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

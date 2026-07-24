@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Ludwig van Beethoven, salah satu komposer terbesar dalam sejarah musik Barat yang mengatasi cobaan mematikan berupa kehilangan pendengaran dan menciptakan melodi terbesar dalam sejarah manusia seperti 'Simfoni Takdir' dan 'Simfoni Paduan Suara.' Tahukah Anda ritual unik yang dilakukannya setiap pagi sebelum mulai menggubah lagu? Itu adalah ritual kopi yang tepat dengan menghitung tepat '60 biji.' Beethoven sangat sensitif terhadap rasa & aroma kopi.
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
+
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

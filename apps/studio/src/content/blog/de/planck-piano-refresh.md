@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Max Planck legte das Fundament der Quantenphysik. Um die geistige Erschöpfung durch komplexe Berechnungen abzubauen, nutzte er das freie Klavierspiel. Er musizierte auch oft im Duo mit Albert Einstein. Kognitionspsychologisch entlastet der Wechsel von mathematischer Logik zu kreativer Improvisation das Gehirn und fördert die Regeneration.
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
+
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

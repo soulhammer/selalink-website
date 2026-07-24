@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Facebook-Gründer Mark Zuckerberg. Um bei kritischen Entscheidungen für Meta voll fokussiert zu sein, reduzierte er alltägliche Entscheidungen: Er wählt keine Kleidung aus. Seine Garderobe besteht aus identischen grauen T-Shirts. Kognitionspsychologisch verbraucht jede Wahl Willenskraft, was zur Erschöpfung führt.
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
+
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

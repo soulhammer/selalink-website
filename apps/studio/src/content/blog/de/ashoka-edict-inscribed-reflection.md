@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-König Ashoka, der Indien einte und sich nach dem Kalinga-Krieg dem Frieden verschrieb. Sein Geheimnis? 🏛️
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
-Ashoka meißelte seine Werte in Felsen und nutzte sie täglich als visuelle Anker zur Überprüfung seines Strebens.
-
-Heute untersucht BuildSelf König Ashokas Ethik-Routine.
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

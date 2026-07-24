@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-创作出《月光》的法国音乐巨匠德彪西。他独创的和声源于何处？ 🌊
-
-每当缺乏灵感时，德彪西都会在清晨走向自然。在没有人工噪音的自然中静静倾听风声与鸟鸣是他最好的“感官倾听习惯”。
-
-今天，BuildSelf 将介绍德彪西的自然之声聆听习惯。
+在这一历史性惯例的实践中：'', '' , . ? 🌊 在这一历史性惯例的实践中： . , , . . 在这一历史性惯例的实践中： BuildSelf .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

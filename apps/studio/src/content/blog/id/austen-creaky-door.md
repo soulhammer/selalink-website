@@ -11,20 +11,22 @@ formatVersion: 4
 authority: "Biografi Jane Austen & penelitian Psikologi Kognitif tentang biaya pengalihan tugas"
 steps:
   - name: "Tetapkan batas fokus fisik yang jelas"
-    text: "Pilih ruang tertentu dan tutup pintunya, atau gunakan indikator visual seperti mengenakan headphone over-ear untuk menandakan bahwa Anda sedang bekerja mendalam..."
+    text: "Pilih ruang tertentu dan tutup pintunya, atau gunakan indikator visual seperti mengenakan headphone over-ear untuk menandakan bahwa Anda sedang bekerja mendalam"
   - name: "Komunikasikan jam fokus Anda terlebih dahulu"
-    text: "Informasikan kepada anggota keluarga atau kolega tentang blok kerja mendalam Anda. Beritahu mereka bahwa selama waktu-waktu ini..."
+    text: "Informasikan kepada anggota keluarga atau kolega tentang blok kerja mendalam Anda. Beritahu mereka bahwa selama waktu-waktu ini"
   - name: "Siapkan sistem pemberitahuan peringatan dini"
-    text: "Gunakan pemberitahuan atau alarm yang disesuaikan untuk bertransisi masuk..."
+    text: "Gunakan pemberitahuan atau alarm yang disesuaikan untuk bertransisi masuk"
 faqs:
   - question: "Mengapa Jane Austen menulis di ruang tamu bersama dengan pintu berderit, bukan di ruang kerja pribadi?"
-    answer: "Di Inggris abad ke-19, sangat jarang bagi penulis wanita memiliki ruang kerja pribadi..."
+    answer: "Di Inggris abad ke-19, sangat jarang bagi penulis wanita memiliki ruang kerja pribadi"
   - question: "Bagaimana cara menerapkan aturan pintu berderit ini di lingkungan digital modern?"
-    answer: "Anda dapat memblokir pemberitahuan masuk dengan menyetel status obrolan ke 'Jangan Ganggu'..."
+    answer: "Anda dapat memblokir pemberitahuan masuk dengan menyetel status obrolan ke 'Jangan Ganggu'"
 
 ---
 
-Jane Austen, novelis legendaris Inggris yang menciptakan mahakarya seperti 'Pride and Prejudice.' Bekerja di ruang keluarga bersama, ia harus mempertahankan fokusnya dari gangguan terus-menerus. Bukannya memperbaiki pintunya yang berderit, ia membiarkannya rusak untuk berfungsi as sistem peringatan alami. Hari ini, BuildSelf mengungkapkan bagaimana menetapkan batas fokus sensorik dapat melindungi kerja mendalam Anda.
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
+
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -54,7 +56,7 @@ Setiap gangguan selama fokus mendalam memicu 'biaya peralihan kognitif.' Ketika 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tetapkan batas fokus fisik yang jelas</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Pilih ruang tertentu dan tutup pintunya, atau gunakan indikator visual seperti mengenakan headphone over-ear untuk menandakan bahwa Anda sedang bekerja mendalam...
+    Pilih ruang tertentu dan tutup pintunya, atau gunakan indikator visual seperti mengenakan headphone over-ear untuk menandakan bahwa Anda sedang bekerja mendalam
   </p>
 </div>
 
@@ -64,7 +66,7 @@ Setiap gangguan selama fokus mendalam memicu 'biaya peralihan kognitif.' Ketika 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Komunikasikan jam fokus Anda terlebih dahulu</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Informasikan kepada anggota keluarga atau kolega tentang blok kerja mendalam Anda. Beritahu mereka bahwa selama waktu-waktu ini...
+    Informasikan kepada anggota keluarga atau kolega tentang blok kerja mendalam Anda. Beritahu mereka bahwa selama waktu-waktu ini
   </p>
 </div>
 
@@ -74,7 +76,7 @@ Setiap gangguan selama fokus mendalam memicu 'biaya peralihan kognitif.' Ketika 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siapkan sistem pemberitahuan peringatan dini</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Gunakan pemberitahuan atau alarm yang disesuaikan untuk bertransisi masuk...
+    Gunakan pemberitahuan atau alarm yang disesuaikan untuk bertransisi masuk
   </p>
 </div>
 
@@ -85,7 +87,7 @@ Setiap gangguan selama fokus mendalam memicu 'biaya peralihan kognitif.' Ketika 
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Mengandalkan tekad untuk mengabaikan gangguan adalah strategi yang kalah. Efisiensi kognitif dicapai...
+      Mengandalkan tekad untuk mengabaikan gangguan adalah strategi yang kalah. Efisiensi kognitif dicapai
     </p>
   </div>
 </div>
@@ -100,7 +102,7 @@ Setiap gangguan selama fokus mendalam memicu 'biaya peralihan kognitif.' Ketika 
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Di Inggris abad ke-19, sangat jarang bagi penulis wanita memiliki ruang kerja pribadi...
+      Di Inggris abad ke-19, sangat jarang bagi penulis wanita memiliki ruang kerja pribadi
     </p>
   </details>
 
@@ -110,7 +112,7 @@ Setiap gangguan selama fokus mendalam memicu 'biaya peralihan kognitif.' Ketika 
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Anda dapat memblokir pemberitahuan masuk dengan menyetel status obrolan ke 'Jangan Ganggu'...
+      Anda dapat memblokir pemberitahuan masuk dengan menyetel status obrolan ke 'Jangan Ganggu'
     </p>
   </details>
 </div>

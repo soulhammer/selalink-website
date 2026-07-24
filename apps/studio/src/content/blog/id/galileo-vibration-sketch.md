@@ -16,6 +16,9 @@ steps:
     text: "Hubungkan elemen-elemen tersebut dengan anak panah. Ketebalan garis mewakili tingkat kepentingan, sedangkan arah panah menunjukkan hubungan sebab-akibat."
   - name: "Langkah 3: Analisis dan Sederhanakan Model"
     text: "Periksa sketsa yang sudah jadi. Temukan area di mana alur saling bertabrakan atau terlalu rumit, lalu gambar ulang dengan menyederhanakan elemennya."
+faqs:
+  - question: "Apakah saya harus mempraktikkan kebiasaan ini setiap hari?"
+    answer: "Ya, berlatih pada waktu yang sama setiap hari memaksimalkan neuroplastisitas."
 
 ---
 
@@ -83,4 +86,19 @@ Menerjemahkan ide abstrak menjadi sketsa geometris akan melibatkan pusat pemrose
       Jangan membuang waktu untuk menggambar detail yang estetik. Tujuan sketsa ini adalah penggambaran struktur abstrak. Gunakan lingkaran, persegi, dan anak panah sederhana untuk merancang alur logika atau bobot hubungan antar konsep.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>Apakah saya harus mempraktikkan kebiasaan ini setiap hari?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Ya, berlatih pada waktu yang sama setiap hari memaksimalkan neuroplastisitas.
+    </p>
+  </details>
 </div>

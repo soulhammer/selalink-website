@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-约瑟夫·熊彼特，定义了创新和“创造性破坏”的奥地利经济学家。为了保持他密集的学术研究和写作产出，他实践了一种冷静、系统的自我反省习惯。每天晚上，他都会打开日记，记录用于研究、阅读 and 写作的时间，并对自己的表现进行A到F的评分。我们研究了这种每日评分规程对执行功能和自我调节的神经科学影响。
+在这一历史性惯例的实践中： ' ' . . , , , A, B, C, D, F . 脳科学的 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

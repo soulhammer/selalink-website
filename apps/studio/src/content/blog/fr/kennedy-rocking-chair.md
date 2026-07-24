@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Le président John F. Kennedy a dirigé l'Amérique lors des moments les plus tendus. Bien qu'il paraisse dynamique, il souffrait d'un mal de dos chronique dû à une blessure de guerre. 🪑
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-La solution est venue de son orthopédiste, le Dr Janet Travell, qui a prescrit un rocking-chair en bois dans le Bureau ovale. Kennedy se balançait doucement en lisant des documents ou lors de réunions. Cette habitude a soulagé la tension et a servi de sanctuaire pour rester calme.
-
-Aujourd'hui, BuildSelf explore le mécanisme neuroscientifique de relaxation du rocking-chair de JFK.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

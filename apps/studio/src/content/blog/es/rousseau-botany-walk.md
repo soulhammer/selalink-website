@@ -22,9 +22,7 @@ faqs:
 
 ---
 
-Jean-Jacques Rousseau, el gran filósofo francés cuyas ideas inspiraron la Revolución Francesa. En sus últimos años, acosado por la ansiedad, halló alivio en la botánica y el paseo. Cada tarde salía a recolectar plantas silvestres y escribía sus pensamientos en el reverso de cartas de juego. Estas notas formaron su obra *Las ensoñaciones del paseante solitario*. Conozcamos los efectos de esta rutina.
-
-</div>
+Jean-Jacques Rousseau, el gran filósofo francés cuyas ideas inspiraron la Revolución Francesa. En sus últimos años, acosado por la ansiedad, halló alivio en la botánica y el paseo. Cada tarde salía a recolectar plantas silvestres y escribía sus pensamientos en el reverso de cartas de juego. Estas notas formaron su obra *Las ensoñaciones del paseante solitario*. Conozcamos los efectos de esta rutina. </div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

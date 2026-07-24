@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Maître de l'idéalisme allemand, Hegel a façonné la philosophie moderne. Comment organisait-il une pensée si vaste ? 🗃️
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Hegel notait chaque idée sur des fiches individuelles classées dans des boîtes. En écrivant, il les étalait sur sa table pour les combiner.
-
-Aujourd'hui, BuildSelf vous présente la science derrière la routine de fiches de Hegel.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

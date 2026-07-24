@@ -21,7 +21,7 @@ faqs:
 
 ---
 
-彼得·伊里奇·柴可夫斯基是传奇作曲家，凭借《天鹅湖》、《胡桃夹子》和《悲怆交响曲》等杰作将俄罗斯浪漫主义音乐提升至世界级水平。他维持着极其严格的时间表，将他的创作分成上午和下午两部分。特别的是，他每天下午都会准时出门散步整整两小时。他对这一惯例深信不疑，以至于担心如果缩短几分钟就会导致身体生病或使音乐灵感枯竭。散步时脑海中浮现的音乐主题会被立即记录在他随身携带在口袋里的一个小笔记本上。今天，BuildSelf将为您分享每日散步如何能激发您的创造性思维。
+在这一历史性惯例的实践中：Pyotr Ilyich Tchaikovsky, the legendary composer who elevated Russian romantic music to a world-class level with masterpieces like 'Swan Lake,' 'The Nutcracker,' and the 'Pathétique Symphony.' He maintained an incredibly strict schedule, separating his composing sessions into morning and afternoon. Especially, he went out for a walk for exactly two hours every single afternoon. He believed so strongly in this routine that he feared cutting it short by even a few minutes would cause physical illness or exhaust his musical inspiration. The musical themes that came to him during these walks were immediately written down in a small notebook he always carried in his pocket. Today, BuildSelf shares how a daily walk can spark your creative thoughts.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

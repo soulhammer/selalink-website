@@ -22,9 +22,7 @@ faqs:
 
 ---
 
-Luciano Pavarotti, one of the greatest tenors of all time who popularized classical opera worldwide. Despite singing in front of tens of thousands of people, Pavarotti suffered from severe stage fright. To conquer this anxiety, he had a backstage routine: finding a bent nail on the stage floor. In Italian folklore, a bent nail brings good luck. Let's study how this superstition acted as a powerful cognitive trick to calm his amygdala and refocus his attention.
-
-</div>
+Luciano Pavarotti, one of the greatest tenors of all time who popularized classical opera worldwide. Despite singing in front of tens of thousands of people, Pavarotti suffered from severe stage fright. To conquer this anxiety, he had a backstage routine: finding a bent nail on the stage floor. In Italian folklore, a bent nail brings good luck. Let's study how this superstition acted as a powerful cognitive trick to calm his amygdala and refocus his attention. </div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

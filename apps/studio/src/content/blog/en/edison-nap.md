@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Edison's Diary and Sundry Observations (1948) & Paris Brain Institute Research"
 steps:
   - name: "Prepare a Heavy Object and a Dropping Surface"
-    text: ""
+    text: "."
   - name: "Take a Light Semi-Sleep in an Armchair"
-    text: ""
+    text: "."
   - name: "Take Notes Immediately Upon Waking Up to the Dropping Sound"
-    text: ""
+    text: "."
 faqs:
   - question: "Why did Edison hold steel balls in his hands during naps?"
     answer: "The moment he fell asleep and his muscles relaxed, the sound of dropping balls woke him up, allowing him to record ideas from the boundary of sleep and waking (hypnagogia) immediately."
@@ -29,8 +29,7 @@ The moment he began to fall asleep and the muscles of his entire body relaxed, t
 
 Today, BuildSelf explores the semi-sleep routine that was a genius inventor's secret to creativity, along with a modern guide.
 
-
-</div>
+By practicing this routine daily, knowledge workers can eliminate fatigue and cultivate deep focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +61,7 @@ Modern brain science calls this state 'Hypnagogia' (the transitional state enter
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Prepare a Heavy Object and a Dropping Surface</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +71,7 @@ Modern brain science calls this state 'Hypnagogia' (the transitional state enter
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Take a Light Semi-Sleep in an Armchair</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +81,7 @@ Modern brain science calls this state 'Hypnagogia' (the transitional state enter
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Take Notes Immediately Upon Waking Up to the Dropping Sound</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

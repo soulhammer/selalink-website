@@ -22,9 +22,7 @@ faqs:
 
 ---
 
-Luciano Pavarotti, l'un des plus grands ténors de l'histoire. Malgré son immense succès, Pavarotti souffrait d'un trac terrible. Pour vaincre son angoisse, il suivait un rituel : chercher un clou tordu sur le sol des coulisses. En Italie, un clou tordu porte bonheur. Découvrez comment ce rituel agissait sur son amygdale pour calmer son anxiété.
-
-</div>
+Luciano Pavarotti, l'un des plus grands ténors de l'histoire. Malgré son immense succès, Pavarotti souffrait d'un trac terrible. Pour vaincre son angoisse, il suivait un rituel : chercher un clou tordu sur le sol des coulisses. En Italie, un clou tordu porte bonheur. Découvrez comment ce rituel agissait sur son amygdale pour calmer son anxiété. </div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

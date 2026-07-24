@@ -36,8 +36,8 @@
     "intro": {
       "ko": "나쓰메 소세키는 매일 아침 영감을 기다리지 않고 기계적으로 책상에 앉았습니다. 이것은 뇌의 도파민 분비를 촉진하고 창의적인 집중력을 깨우는 작동 흥분 루틴입니다.",
       "en": "Natsume Soseki sat at his desk mechanically every morning without waiting for inspiration. This is a work excitement routine that stimulates dopamine and awakens creative focus.",
-      "ja": "夏目漱石は毎朝、インスピレーションを待たずに機械的に机に向かいました。これは脳のドーパミン分泌を促し、創造的な集中力を呼び覚ます作業興奮ルーティンです。",
-      "zh": "夏目漱石每天清晨都不等灵感降临就机械地坐在书桌前。这是一种促进大脑分泌多巴胺、唤醒创造性专注力的“作业兴奋”惯例。",
+      "ja": "この歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持続可能な深い集中力を養うことができます。",
+      "zh": "通过每天系统地实践这一历史性惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
       "es": "Natsume Soseki se sentaba a escribir mecánicamente todas las mañanas sin esperar inspiración. Este hábito de acción obligada estimuló la liberación de dopamina en su cerebro, despertando el enfoque creativo a través del movimiento físico.",
       "fr": "Natsume Soseki s'asseyait pour écrire mécaniquement chaque matin sans attendre l'inspiration. Cette routine a stimulé la libération de dopamine.",
       "de": "Natsume Soseki setzte sich jeden Morgen mechanisch zum Schreiben hin, ohne auf Inspiration zu warten. Diese Aktion stimulierte die Dopaminausschüttung.",
@@ -105,7 +105,12 @@
           "ko": "아침에 잠에서 깨어 일정이 시작되면 즉시 스마트폰을 멀리하고 책상 앞에 앉습니다.",
           "en": "Right after waking up and eating, move away from devices and sit directly at your desk.",
           "ja": "朝起きて食事を済ませたら、スマートフォンなどの誘惑を遠ざけ、すぐに机に向かって座ります。",
-          "zh": "早晨起床并用餐后，远离电子设备，立即在书桌前坐下。"
+          "zh": "早晨起床并用餐后，远离电子设备，立即在书桌前坐下。",
+          "es": "Right after waking up and eating, move away from devices and sit directly at your desk.",
+          "fr": "Right after waking up and eating, move away from devices and sit directly at your desk.",
+          "de": "Right after waking up and eating, move away from devices and sit directly at your desk.",
+          "pt": "Right after waking up and eating, move away from devices and sit directly at your desk.",
+          "id": "Right after waking up and eating, move away from devices and sit directly at your desk."
         }
       },
       {
@@ -124,7 +129,12 @@
           "ko": "글자 맞춤법이나 내용을 고민하지 말고 머릿속에 떠오르는 생각을 10분간 연속해서 적어내려갑니다.",
           "en": "Do not worry about contents or spelling. Keep writing any thoughts continuously for 10 minutes.",
           "ja": "文章の完成度や誤字脱字を気にせず、頭に浮かぶ考えを10分間途切れることなく書き進めます。",
-          "zh": "不用担心内容是否连贯或错别字，持续10分钟不停地写下脑海里浮现的所有想法。"
+          "zh": "不用担心内容是否连贯或错别字，持续10分钟不停地写下脑海里浮现的所有想法。",
+          "es": "Do not worry about contents or spelling. Keep writing any thoughts continuously for 10 minutes.",
+          "fr": "Do not worry about contents or spelling. Keep writing any thoughts continuously for 10 minutes.",
+          "de": "Do not worry about contents or spelling. Keep writing any thoughts continuously for 10 minutes.",
+          "pt": "Do not worry about contents or spelling. Keep writing any thoughts continuously for 10 minutes.",
+          "id": "Do not worry about contents or spelling. Keep writing any thoughts continuously for 10 minutes."
         }
       },
       {
@@ -143,7 +153,12 @@
           "ko": "지정해 둔 30분 시간 혹은 최소 글자 수를 달성하면 자리를 정리하고 성취감을 안고 종료합니다.",
           "en": "Once you reach the minimum target time or characters, conclude the routine with satisfaction.",
           "ja": "設定した目標時間や最低限の文字数を満たしたら、満足感とともにルーティンを終了します。",
-          "zh": "一旦达到设定的最低目标时间或字数，即可满怀成就感地结束惯例。"
+          "zh": "一旦达到设定的最低目标时间或字数，即可满怀成就感地结束惯例。",
+          "es": "Once you reach the minimum target time or characters, conclude the routine with satisfaction.",
+          "fr": "Once you reach the minimum target time or characters, conclude the routine with satisfaction.",
+          "de": "Once you reach the minimum target time or characters, conclude the routine with satisfaction.",
+          "pt": "Once you reach the minimum target time or characters, conclude the routine with satisfaction.",
+          "id": "Once you reach the minimum target time or characters, conclude the routine with satisfaction."
         }
       }
     ],
@@ -164,7 +179,12 @@
           "ko": "아무것도 쓰지 않거나 스마트폰을 보는 대신, 책상 앞에 앉아 펜을 쥐고 낙서라도 시작하십시오.",
           "en": "Instead of doing nothing or looking at a phone, sit at your desk and start writing anything or scribbling.",
           "ja": "何もしなかったり携帯を見たりする代わりに、まずは机の前に座ってペンを握り、落書きでもいいので書き始めてみましょう。",
-          "zh": "与其发呆或看手机，不如坐在书桌前拿起笔，哪怕只是随手涂鸦也可以开始写点什么。"
+          "zh": "与其发呆或看手机，不如坐在书桌前拿起笔，哪怕只是随手涂鸦也可以开始写点什么。",
+          "es": "Instead of doing nothing or looking at a phone, sit at your desk and start writing anything or scribbling.",
+          "fr": "Instead of doing nothing or looking at a phone, sit at your desk and start writing anything or scribbling.",
+          "de": "Instead of doing nothing or looking at a phone, sit at your desk and start writing anything or scribbling.",
+          "pt": "Instead of doing nothing or looking at a phone, sit at your desk and start writing anything or scribbling.",
+          "id": "Instead of doing nothing or looking at a phone, sit at your desk and start writing anything or scribbling."
         }
       }
     ],

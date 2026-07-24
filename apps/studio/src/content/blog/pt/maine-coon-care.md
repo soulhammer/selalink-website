@@ -20,7 +20,7 @@ Os Maine Coons são os 'gigantes gentis' do mundo felino. Conhecidos pela juba d
 
 No entanto, pesando de 8 a 12 kg, suas articulações sofrem muito estresse. Também são propensos a Cardiomiopatia Hipertrófica (HCM). Monitorar sua respiração em repouso e amortecer seus saltos é fundamental.
 
-Hoje, o PetSelf decodifica a linguagem corporal do Maine Coon e apresenta uma rotina de cuidados de 3 passos para a saúde cardíaca e pelagem.
+Hoje, o PetSelf decodifica a linguagem corporal do Maine Coon e apresenta uma rotina de cuidados de 3 passos para a saúde cardíaca e pelagem. Oferecer cuidados de saúde diários constantes e um ambiente seguro garante o bem-estar a longo prazo do seu animal.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

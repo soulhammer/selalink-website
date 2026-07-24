@@ -16,6 +16,9 @@ steps:
     text: "Pejamkan mata dan bayangkan kembali aktivitas Anda sejak bangun tidur secara berurutan. Periksa tindakan dan reaksi Anda tanpa menghakimi, cukup amati."
   - name: "Langkah 3: Ambil Pelajaran dan Relakan Pikiran"
     text: "Temukan satu pelajaran atau kesalahan utama hari ini. Tentukan satu tindakan konkret untuk memperbaikinya besok. Begitu rencana dibuat, tutup hari ini dan relakan semua beban."
+faqs:
+  - question: "Apakah saya harus mempraktikkan kebiasaan ini setiap hari?"
+    answer: "Ya, berlatih pada waktu yang sama setiap hari memaksimalkan neuroplastisitas."
 
 ---
 
@@ -83,4 +86,19 @@ Tidur dengan membawa stres akan menjaga saraf simpatik tetap aktif, mengakibatka
       Tujuan refleksi malam adalah perbaikan yang rasional, bukan hukuman emosional untuk diri sendiri. Jika Anda melakukan kesalahan, akui hal itu, rencanakan cara menghindarinya besok, dan maafkan diri Anda.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>Apakah saya harus mempraktikkan kebiasaan ini setiap hari?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Ya, berlatih pada waktu yang sama setiap hari memaksimalkan neuroplastisitas.
+    </p>
+  </details>
 </div>

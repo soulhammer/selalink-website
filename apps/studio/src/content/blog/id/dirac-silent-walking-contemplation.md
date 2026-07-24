@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Pemenang Nobel Paul Dirac. Dari mana datangnya persamaan matematikanya? 🌌
+Praktik harian esensial ini mendorong fokus mendalam dan mengurangi kelelahan kognitif.
 
-Dirac berjalan hening di hutan hari Minggu tanpa mengucap sepatah kata pun. Menghentikan kebisingan verbal mengasah matematikanya.
+Praktik harian esensial ini mendorong fokus mendalam dan mengurangi kelelahan kognitif.
 
-Hari ini, BuildSelf menyajikan rutinitas 'jalan hening' Paul Dirac.
+Praktik harian esensial ini mendorong fokus mendalam dan mengurangi kelelahan kognitif.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

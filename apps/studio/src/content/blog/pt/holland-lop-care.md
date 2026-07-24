@@ -16,7 +16,7 @@ faqs:
     answer: "Não. Orelhas caídas acumulam umidade e ácaros. Se houver cera escura ou coceira, consulte um veterinário."
 ---
 
-O Holland Lop é muito querido por suas orelhas caídas. Conforme a House Rabbit Society (HRS), suas orelhas necessitam de atenção para evitar otite e feno constante 24/7 contra estase intestinal vital.
+O Holland Lop é muito querido por suas orelhas caídas. Conforme a House Rabbit Society (HRS), suas orelhas necessitam de atenção para evitar otite e feno constante 24/7 contra estase intestinal vital. Oferecer cuidados de saúde diários constantes e um ambiente seguro garante o bem-estar a longo prazo do seu animal.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

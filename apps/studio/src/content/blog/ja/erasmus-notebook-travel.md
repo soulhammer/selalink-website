@@ -16,6 +16,9 @@ steps:
     text: "窓の外を素早く通り過ぎていく外の風景をリラックスして見つめます。視線の力を抜き、流れていく物体の動きを観察しながら、脳が自然な白昼夢（Daydream）状態に入るようにします。"
   - name: "ステップ3：ひらめいたアイデアの即時獲得"
     text: "頭の中に奇抜な比喩や解決策がよぎった瞬間、すぐにポケット手帳を開いて核心的なキーワードを書き留めます。目的地に到着してから書こうとすると、すでにアイデアが揮発して消えてしまうため、その場で即座に記録する必要があります。"
+faqs:
+  - question: "この習慣を毎日実践すべきですか？"
+    answer: "はい、毎日決まった時間に実践することで脳の神経可塑性が極大化します。"
 
 ---
 
@@ -83,4 +86,19 @@ steps:
       移動時間中にソーシャルメディアを見たり、モバイルゲームに時間を奪われる行為は、脳の創造的な発酵の機会を完全に破壊します。高刺激なデジタル入力は、アルファ波状態を即座に無力化します。モビリティ思考を活性化するには、時折窓の外の流れる風景をぼんやりと見つめ、思考が自由に漂うに任せ、手帳を手に持って待機してください。
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>この習慣を毎日実践すべきですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      はい、毎日決まった時間に実践することで脳の神経可塑性が極大化します。
+    </p>
+  </details>
 </div>

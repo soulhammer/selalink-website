@@ -24,7 +24,7 @@ faqs:
 
 Henry David Thoreau, o ensaísta americano que viveu de forma autossuficiente no lago Walden, autor do clássico *Walden*. Por trás de suas ideias profundas estava uma rotina de tarde rígida: caminhar 4 horas diárias na floresta de Concord. Não era apenas exercício: ele contemplava a natureza e anotava insights em seu bloco. Saiba como caminhar na natureza restaura o cérebro.
 
-</div>
+Esta prática diária essencial estimula um foco profundo e uma clareza mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -21,7 +21,9 @@ faqs:
 
 ---
 
-Ernest Hemingway, un maître de la littérature américaine moderne qui a remporté le prix Nobel et le prix Pulitzer. Connu pour son style d'écriture minimaliste et hard-boiled, sa discipline quotidienne était tout aussi légendaire. Il commençait à écrire tôt le matin et, à la fin de chaque séance, comptait et enregistrait son nombre de mots sur un grand tableau au mur. Aujourd'hui, BuildSelf explore les raisons scientifiques de ce suivi et comment appliquer l'autosurveillance.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

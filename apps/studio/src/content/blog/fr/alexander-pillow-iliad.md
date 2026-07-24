@@ -24,9 +24,9 @@ faqs:
 
 ---
 
-Alexandre le Grand, couronné à 20 ans, conquit un vaste empire. Le secret de son courage était sous son oreiller : il dormait avec l'Iliade d'Homère et une dague. Lire sur des héros dissipait ses peurs nocturnes.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Aujourd'hui, BuildSelf analyse la science de la routine de l'Iliade sous l'oreiller d'Alexandre.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

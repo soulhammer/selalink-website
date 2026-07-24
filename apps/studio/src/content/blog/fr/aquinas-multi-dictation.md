@@ -16,6 +16,9 @@ steps:
     text: "Consacrez 15 à 20 minutes au premier projet. Concentrez 100 % de votre énergie sur cette seule tâche, en évitant toute autre distraction."
   - name: "Faire un changement propre de contexte"
     text: "À la fin du bloc, fermez le premier projet et ouvrez le second. Respirez profondément trois fois pour vider la mémoire de travail active et plongez à 100 % dans le second projet."
+faqs:
+  - question: "Dois-je pratiquer cette habitude tous les jours ?"
+    answer: "Oui, pratiquer à une heure fixe chaque jour maximise la neuroplasticité cérébrale."
 
 ---
 
@@ -83,4 +86,19 @@ Gérer plusieurs tâches complexes à la fois provoque généralement des interf
       Ne confondez pas cette méthode avec le multitâche distrait moderne (comme répondre à ses e-mails en codant). Cela divise l'attention et baisse la productivité. La méthode d'Aquin consiste à exécuter de manière séquentielle des tâches de haute concentration, en y consacrant 100 % d'attention avant de changer.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>Dois-je pratiquer cette habitude tous les jours ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Oui, pratiquer à une heure fixe chaque jour maximise la neuroplasticité cérébrale.
+    </p>
+  </details>
 </div>

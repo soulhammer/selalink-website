@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-儒家学派的创始人，两千多年来一直主导东亚思想体系的历史上最伟大的哲学家孔子。在周游列国、遭受威胁和迫害的14年艰难流亡生涯中，他始终不失道德尊严和精神平静的秘诀是什么？孔子在流亡期间也一直随身携带古琴，每天弹奏并吟诗。对他来说，音乐不是消遣，而是一种高雅的修养方法，就像微调琴弦一样调节着内心的情绪。今天，BuildSelf 向您介绍孔子“古琴微调”常规的音乐治疗原理和现代情感调节常规。
+在这一历史性惯例的实践中： 2 , . 14 ? (Guqin) . , . BuildSelf ' ' .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

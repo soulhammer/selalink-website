@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Eve Curie's 'Madame Curie' & Harvard Health Publishing Exercise Research"
 steps:
   - name: "Set an Outdoor Riding Course 1-2 Times a Week"
-    text: ""
+    text: "."
   - name: "Ride for 30 Minutes focusing on Senses without Earphones"
-    text: ""
+    text: "."
   - name: "Light Thigh Muscle Stretching"
-    text: ""
+    text: "."
 faqs:
   - question: "Why did the Curies request bicycles as wedding gifts?"
     answer: "Instead of a lavish wedding, they wanted a practical tool to travel through the French countryside, meditate, and focus on research away from daily distractions."
@@ -29,8 +29,7 @@ The answer was the daily evening bicycle rides she took with her husband, Pierre
 
 Today, BuildSelf explores the scientific basis and daily practice guide for the outdoor cycling routine that helped a Nobel laureate overcome stress.
 
-
-</div>
+By practicing this routine daily, knowledge workers can eliminate fatigue and cultivate deep focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +61,7 @@ Modern cognitive psychology and exercise physiology explain that aerobic lower-b
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Set an Outdoor Riding Course 1-2 Times a Week</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +71,7 @@ Modern cognitive psychology and exercise physiology explain that aerobic lower-b
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ride for 30 Minutes focusing on Senses without Earphones</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +81,7 @@ Modern cognitive psychology and exercise physiology explain that aerobic lower-b
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Light Thigh Muscle Stretching</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

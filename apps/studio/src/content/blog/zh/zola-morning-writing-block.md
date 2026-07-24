@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-19世纪法国自然主义文学巨匠埃米尔·左拉（Émile Zola），不仅创作了《萌芽》、《娜娜》等脍炙人口的名著，更在德雷福斯事件中发表了震惊世界的公开信《我控诉...！》（J'Accuse...!）。一生笔耕不辍、出版数十部巨著的他，究竟如何保持如此惊人的创作爆发力？ ✒️
-
-左拉在书桌前赫然刻下古罗马名言“不可一日无一行”（Nulla dies sine linea）。每天早晨9点，他都会进行长达3小时的无干扰专注写作。在此期间，谢绝一切访客、信件与外界杂音。即使灵感匮乏，他也决不离开书桌，强健大脑对特定时段写作模式的反射。这种极具毅力的时空隔离成为了他爆发文思的核心引擎。
-
-今天 BuildSelf 将为您剖析埃米尔·左拉晨间时间块专注习惯背后的神经科学，带您了解环境隔离如何消除决策疲劳、激发深度专注。
+在这一历史性惯例的实践中：19 · <>, <>, < (J'Accuse...!)> , (Émile Zola). ? ✒️ 在这一历史性惯例的实践中： " (Nulla dies sine linea)" 3 . 9 , . 3 . 在这一历史性惯例的实践中： BuildSelf (Ego Depletion) 3 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

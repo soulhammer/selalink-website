@@ -20,7 +20,7 @@ Maine Coons sind die „sanften Riesen“ der Katzenwelt. Bekannt für ihre Mäh
 
 Da sie 8 bis 12 kg wiegen, sind ihre Gelenke hoher Belastung ausgesetzt. Zudem sind sie genetisch anfällig für Hypertrophe Kardiomyopathie (HCM). Die Überwachung der Atemfrequenz und der Schutz der Gelenke sind entscheidend.
 
-Heute entschlüsselt PetSelf die Körpersprache der Maine Coon und stellt eine 3-Schritte-Routine vor, um ihr Herz zu schützen und das Fell zu pflegen.
+Heute entschlüsselt PetSelf die Körpersprache der Maine Coon und stellt eine 3-Schritte-Routine vor, um ihr Herz zu schützen und das Fell zu pflegen. Die Bereitstellung einer konsistenten täglichen Gesundheitspflege und einer sicheren Umgebung sichert das Wohlbefinden Ihres Haustieres.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

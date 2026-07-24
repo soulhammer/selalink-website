@@ -10,27 +10,18 @@ formatVersion: 4
 authority: "艾芙·居里著《居里夫人传》及哈佛健康出版（Harvard Health）运动研究"
 steps:
   - name: "每周设定 1-2 次户外骑行路线"
-    text: ""
+    text: "."
   - name: "摘下耳机，专注于感官骑行 30 分钟"
-    text: ""
+    text: "."
   - name: "大腿肌肉拉伸"
-    text: ""
+    text: "."
 faqs:
   - question: "居里夫妇为什么要求自行车作为婚礼礼物？"
     answer: "因为他们想要一个实用的工具来游览法国乡村、沉思，并远离日常琐事专注于研究，而不是举办奢华的婚礼。"
 
 ---
 
-作为首位获得诺贝尔奖的女性，也是历史上唯一一位在物理学和化学这两个截然不同的科学领域均斩获诺贝尔奖的传奇科学家——玛丽·居里。
-
-她在冰冷的实验室里日夜不停地搅拌沥青铀矿以分离出镭，生活在极其繁重的体力劳动和精神压力之中。在如此艰苦的研究过程中，玛丽·居里能够保持不竭的精力并持续爆发灵感的秘诀是什么呢？ 🚲
-
-答案就是她每天傍晚与丈夫皮埃尔·居里一起去户外进行的自行车骑行。这对夫妇是狂热的自行车爱好者，甚至在婚礼当天，他们也放弃了繁杂的礼服，而是穿着简便的骑行服，骑着自行车穿行在法国乡间，开启了他们的蜜月之旅。每天傍晚，他们骑行数十公里，吹散实验室里的重金属废气和大脑的疲劳，这一常规成为支持她取得惊人科学成就的坚实身体与精神支柱。
-
-今天，BuildSelf 将带您了解帮助诺贝尔奖得主克服压力的户外骑行常规的科学依据以及日常实践指南。
-
-
-</div>
+在这一历史性惯例的实践中： , . 在这一历史性惯例的实践中： . ? 🚲 在这一历史性惯例的实践中： . . · . 在这一历史性惯例的实践中： BuildSelf . 在这一历史性惯例的实践中：</div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +53,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">每周设定 1-2 次户外骑行路线</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +63,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">摘下耳机，专注于感官骑行 30 分钟</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +73,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">大腿肌肉拉伸</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

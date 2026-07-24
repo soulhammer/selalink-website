@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Criadora de *A História de Pedro Coelho*, Beatrix Potter foi também uma ilustradora científica pioneira. Como ela cultivava essa precisão? 🐰
+Na prática desta rotina : Creator of the beloved classic *The Tale of Peter Rabbit* which has sold over 300 million copies worldwide, Beatrix Potter was also a pioneering natural scientific illustrator and mycologist. Living in Victorian England, how did she cultivate such extraordinary imaginative depth and scientific precision? 🐰
 
-Todas as manhãs, Potter saía com uma lupa e caderneta. Observava cogumelos, musgos e coelhos selvagens por horas. Essa micro-observação trazia foco profundo.
+Na prática desta rotina : Every morning in the lush Lake District countryside, Potter stepped into fields with a magnifying glass and sketchbook. She spent undisturbed hours observing microscopic moss structures, fungi spores, and wild rabbit movements, capturing them in delicate watercolors. This tactile, hyper-focused micro-observation routine detached her mind from social anxieties and activated deep right-hemisphere spatial flow.
 
-Hoje BuildSelf revela a ciência cognitiva por trás da rotina de ilustração de Beatrix Potter.
+Na prática desta rotina : Today, BuildSelf explores the cognitive science behind Beatrix Potter's botanical sketching routine, demonstrating how micro-nature observation triggers deep focus and sensory restoration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -91,7 +91,7 @@ Fixar a visão em micro padrões via <strong>'Foco Micro'</strong> silencia o ru
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      A chave não é desenhar perfeitamente. É a micro exploração de uma veia de folha que cura o cérebro.
+      Crie um ambiente de trabalho sem distrações e ajuste a iluminação para manter um alto nível de imersão.
     </p>
   </div>
 </div>

@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-创作出《思考者》《地狱之门》的现代雕塑巨匠奥古斯特·罗丹。他无与伦比的空间直觉与灵感究竟源自何处？ 🗿
-
-每天早晨散步时，罗丹口袋里总放着一小块黏土。他不仅仅依赖视觉，而是在行走时用手指按压捏捏黏土，通过触觉去感知自然的曲线与纹理。
-
-今天，BuildSelf 将介绍罗丹“触觉黏土散步”习惯背后的神经科学原理。
+在这一历史性惯例的实践中：' ', ' ' , . ? 🗿 在这一历史性惯例的实践中： . , . . 在这一历史性惯例的实践中： BuildSelf ' ' .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

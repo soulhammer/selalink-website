@@ -22,7 +22,16 @@ faqs:
 
 ---
 
-Søren Kierkegaard, pionero del existencialismo danés del siglo XIX. Los aforismos y escritos que dejó se completaron en varios escritorios de pie ubicados en su casa. Kierkegaard era un caminante que paseaba por Copenhague. Temía que las inspiraciones obtenidas en la calle se desvanecieran al organizar su abrigo y quitarse los zapatos al entrar. Por ello, al abrir la puerta, se dirigía directamente al escritorio vistiendo abrigo y sombrero. Hoy, BuildSelf comparte los principios neurocientíficos de la rutina de Kierkegaard.
+En la práctica de esta rutina transformadora: 19 . . 🎩
+
+ . . . . .
+
+ BuildSelf .
+
+
+
+
+--- Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo. Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

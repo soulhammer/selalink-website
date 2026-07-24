@@ -24,11 +24,13 @@ faqs:
 
 ---
 
-A brilhante físico-química britânica cuja "Foto 51" forneceu a chave para desvendar a estrutura do DNA, Rosalind Franklin transformou a biologia molecular. Seus dados experimentais eram admirados por sua precisão absoluta. 🧬
+Na prática desta rotina transformadora: 20       DNA     '51 (Photo 51)'           ,  (Rosalind Franklin).            0.01%      . 🧬
 
-Nos laboratórios do King's College de Londres, Franklin passava centenas de horas ajustando câmeras de raios X em incrementos de 0,1 grau. Ela verificava minuciosamente cada coordenada à mão.
+Na prática desta rotina transformadora:         X    0.1          .              1:1  .     ,                 .
 
-Hoje no BuildSelf, revelamos a ciência cognitiva por trás da rotina de verificação de precisão de Rosalind Franklin e o segredo do trabalho sem erros.
+Na prática desta rotina transformadora:  BuildSelf    0.1               100%   .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

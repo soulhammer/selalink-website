@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Wolfgang Amadeus Mozart, un génie qui composait des symphonies parfaites du premier coup. Derrière sa créativité se cachait une routine unique : jouer au billar chaque fois qu'il bloquait en composant. Il avait installé un billard coûteux chez lui, à côté de son bureau. Son épouse a témoigné que Mozart se levait soudainement pour jouer avant de revenir écrire. Observer la trajectoire des billes n'était pas un loisir, mais un refuge qui induisait l'esprit dans un état inconscient (DMN) pour stimuler de nouvelles connexions. Aujourd'hui, BuildSelf partage le secret de ce rituel.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

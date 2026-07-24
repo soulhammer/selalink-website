@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Martinho Lutero desafiou o poder da Igreja católica. Enfrentando perigos de morte, a sua saúde mental e digestiva sofria um grande estresse. O seu método era tocar o alaúde (Lute) cada manhã após as suas orações. Analisemos como o processo estimula o nervo vago e ativa o sistema parassimpático.
+Na prática desta rotina transformadora:          95        .         ,    ,  ,           .                    '(Lute)'    .              .          .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

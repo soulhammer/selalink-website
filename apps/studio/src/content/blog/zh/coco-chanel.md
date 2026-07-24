@@ -24,9 +24,7 @@ faqs:
 
 ---
 
-可可·香奈儿（Coco Chanel）是一位法国时装设计师，领导了20世纪时装设计革命，将女性从紧身胸衣的压迫中解放出来，也是香奈儿品牌的创始人。可可·香奈儿 (Coco Chanel) 通过黑色和简约之美（Simple is best）呈现了女装本质上的自由。站在工作室里，她直接穿过模特身上的布料，手里只拿着一把剪刀，毫不留情地剪掉了19世纪繁琐厚重的紧身胸衣、厚重的衣领和不必要的蕾丝。她没有用笔擦除线条，而是感受织物的张力并将其剪掉，创造出一种极简主义的简化，让女性可以自由走动并锻炼身体意识。
-
-今天在BuildSelf上，我们为大家介绍他“将厚重的布料放在模特身上，然后用剪刀剪开”的习惯的认知科学原理，以及现代人在日常生活中可以轻松练习的三步指南。
+在这一历史性惯例的实践中：20 , (Simple is best) . 19 , , . , . 在这一历史性惯例的实践中： BuildSelf ' ' 3 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

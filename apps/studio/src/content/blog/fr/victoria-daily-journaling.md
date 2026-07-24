@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-La reine Victoria dirigea l'Empire britannique. Pour surmonter le poids de la couronne et le deuil de son époux, elle pratiquait un rituel : tenir un journal manuscrit. Elle en rédigea 122 volumes. Voyons comment l'écriture manuelle stimule le cortex préfrontal, régulant l'amygdale pour calmer le stress.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

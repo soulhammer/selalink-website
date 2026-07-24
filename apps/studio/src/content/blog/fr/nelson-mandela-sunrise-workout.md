@@ -24,9 +24,9 @@ faqs:
 
 ---
 
-Nelson Mandela, premier président noir d'Afrique du Sud, a passé 27 ans en prison. Son rituel de survie dans sa cellule était l'exercice physique à 5h00 du matin, faisant du surplace et des abdominaux. Cette routine préservait son estime de soi.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Aujourd'hui, BuildSelf présente les preuves scientifiques de la routine matinale de Mandela.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

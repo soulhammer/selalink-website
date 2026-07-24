@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-被称为法国短篇小说最高巨匠的莫泊桑。在要求极度精细与灵感的创作之后，他是如何克服极其剧烈的大脑疲劳的？ 🚣
-
-在酣畅淋漓地写作后，莫泊桑在下午会毫不犹豫地走到塞纳河旁划船或游泳。动用全身肌肉的划船运动将充斥在大脑中的血液分散至全身，使大脑得到完全重置。
-
-今天，BuildSelf 将介绍莫泊桑的划船有氧重置习惯。
+在这一历史性惯例的实践中：' ', ' ' . ? 🚣 在这一历史性惯例的实践中： (Seine River) . . 在这一历史性惯例的实践中： BuildSelf BDNF() .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

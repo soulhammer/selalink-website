@@ -16,7 +16,7 @@ faqs:
     answer: "A cada 1 ou 2 semanas com xampu de pH neutro."
 ---
 
-O Sphynx é uma raça única sem pelo. Como não possuem pelos, o sebo acumula-se. Hoje na PetSelf, mostramos uma rotina para limpeza de pele.
+O Sphynx é uma raça única sem pelo. Como não possuem pelos, o sebo acumula-se. Hoje na PetSelf, mostramos uma rotina para limpeza de pele. Oferecer cuidados de saúde diários constantes e um ambiente seguro garante o bem-estar a longo prazo do seu animal. Oferecer cuidados de saúde diários constantes e um ambiente seguro garante o bem-estar a longo prazo do seu animal.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

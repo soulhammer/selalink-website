@@ -10,27 +10,18 @@ formatVersion: 4
 authority: "エディソンの日記および観察録（1948）およびフランス・パリ脳研究所（Paris Brain Institute）の研究"
 steps:
   - name: "重い物体と落下面の準備"
-    text: ""
+    text: "."
   - name: "安楽椅子で軽い半睡眠を取る"
-    text: ""
+    text: "."
   - name: "落下音で目覚めた直後にメモする"
-    text: ""
+    text: "."
 faqs:
   - question: "なぜエジソンは昼寝中に鉄球を手にしたのですか？"
     answer: "眠りに入った瞬間に筋肉が弛緩し、鉄球が落ちる音で目覚めることで、夢と覚醒の境界（半睡眠）で閃いたアイデアを即座に書き留めるためでした。"
 
 ---
 
-白熱電球、蓄音機、映写機など、人類の日常の歴史的パラダイムを変えた1,000以上の特許を登録した発明王、トーマス・エディソン. 彼が高度な知的難題やアイデアの壁にぶつかったときに活用した、非常に有名で独特な昼寝のリチュアルをご存知ですか？ 💤
-
-エディソンは安楽椅子に深く腰掛け、両手に重い鉄球（または金属製の鍵の束）を握りました。そして、椅子の真下の床には金属製の皿やトレイを置いておきました。
-
-昼寝が徐々に始まり、全身の筋肉が緩んだ瞬間、エディソンが握っていた鉄球は手から滑り落ち、床の金属皿に当たって「カーン！」と鋭い音を立てました。エディソンはこの突然の音に驚いて目を覚まし、その直後に頭の中にひらめいた神秘的で奇抜なインスピレーションを、傍らに置いたメモ帳に猛烈に記録しました。
-
-本日、BuildSelfでは、天才発明家の創造性の秘密である半睡眠ルーティンと、その現代的なガイドを深く掘り下げて紹介します。
-
-
-</div>
+この歴史的習慣の実践において：, , 1,000 . ? 💤 この歴史的習慣の実践において： , ( ) . . この歴史的習慣の実践において： , '!' . , . この歴史的習慣の実践において： BuildSelf . この歴史的習慣の実践において：</div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +53,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">重い物体と落下面の準備</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +63,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">安楽椅子で軽い半睡眠を取る</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +73,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">落下音で目覚めた直後にメモする</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

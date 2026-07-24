@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-韩国经济高速增长神话的象征、现代集团创始人峨山郑周永会长。在指挥庞大重工业和建设项目的过程中，他将无数不可能变为可能，他有一套终生坚守的独特晨间惯例。每天清晨四点前起床，五点在听云洞家中与所有家庭成员共进早餐进行沟通，之后精神抖擞地步行前往桂洞总部大楼。我们来探索清晨的寂静与活力所带来的认知奖赏。
+通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

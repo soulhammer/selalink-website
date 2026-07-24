@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-作为15世纪活字印刷术的发明者，约翰尼斯·谷登堡（Johannes Gutenberg）破除了知识垄断，掀起了欧洲文艺复兴与科学革命。印刷著名的《42行圣书》需要铸造并组装数万个金属活字，容不得半点误差。 🔠
-
-每天清晨，在美因茨工作坊的灯光下，谷登堡都会挨个检查铅合金活字块。他用指尖触感与放大镜核对0.1毫米的字高对齐度与边缘清晰度。这种用感官微观核对替代大脑主观推测的习惯，打造出了零错误的印刷传奇。
-
-今天 BuildSelf 将为您剖析谷登堡0.1毫米活字检视习惯背后的神经科学，带您了解感官双重对比如何抑制启发式偏见、提升精准交付能力。
+在这一历史性惯例的实践中：15 , (Johannes Gutenberg). 42 . 🔠 在这一历史性惯例的实践中： , . 0.1mm , . (Heuristics) . 在这一历史性惯例的实践中： BuildSelf 0.1mm - .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

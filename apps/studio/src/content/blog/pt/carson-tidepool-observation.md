@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-O clássico Primavera Silenciosa alertou sobre o abuso de pesticidas. Sua autora, Rachel Carson, enfrentou intimidação de corporações e o câncer. 🐚
-
-O que a sustentou foi uma piscina natural na costa do Maine. Carson caminhava até as rochas na maré baixa. Ajoelhada, passava horas observando estrelas do mar ou águas-vivas, desenhando e escrevendo em um caderno impermeável. Era seu santuário de restauração mental.
-
-Hoje, o BuildSelf explora os princípios de cura por trás da rotina de Rachel Carson.
+Na prática desta rotina transformadora: 《 》. ? 🐚 Na prática desta rotina transformadora: 《 》 , . . . , , . . Na prática desta rotina transformadora: BuildSelf . Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

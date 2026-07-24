@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Dr. Albert Schweitzer, Friedensnobelpreisträger und Arzt. Wie überwand er die extreme Erschöpfung im afrikanischen Dschungel? 🎹
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
-Jeden Abend setzte sich Dr. Schweitzer ans Klavier und spielte Bach. Diese Melodien dienten ihm als 'Nervensystem-Reset'.
-
-Heute zeigt BuildSelf die Wissenschaft hinter Dr. Schweitzers nächtlicher Routine.
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

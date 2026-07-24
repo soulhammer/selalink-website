@@ -11,11 +11,11 @@ formatVersion: 4
 authority: "Biografia de Steve Jobs por Walter Isaacson & revista JPSP"
 steps:
   - name: "Preparar a Roupa e os Objetos na Noite Anterior"
-    text: ""
+    text: "."
   - name: "Definir seu 'Uniforme Padrão' (Template)"
-    text: ""
+    text: "."
   - name: "Tomar as Decisões Importantes com a Mente Descansada"
-    text: ""
+    text: "."
 faqs:
   - question: "Porque é que Steve Jobs usava a mesma roupa todos os dias?"
     answer: "Para economizar a energia pré-frontal consumida por escolhas de roupa triviais de manhã, focando 100% da sua capacidade em decisões de negócios cruciais."
@@ -28,8 +28,7 @@ Muitos pensam em seu uniforme como uma simples expressão de personalidade ou es
 
 Hoje, o BuildSelf apresenta os princípios científicos por trás da rotina de 'minimalismo no vestuário' de Steve Jobs e como as pessoas modernas podem reduzir a fadiga de decisão pela manhã para maximizar a produtividade.
 
-
-</div>
+Esta prática diária essencial estimula um foco profundo e uma clareza mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -61,7 +60,7 @@ Com o acúmulo dessa fadiga, o cérebro perde a capacidade de julgamento raciona
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Preparar a Roupa e os Objetos na Noite Anterior</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -71,7 +70,7 @@ Com o acúmulo dessa fadiga, o cérebro perde a capacidade de julgamento raciona
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Definir seu 'Uniforme Padrão' (Template)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -81,7 +80,7 @@ Com o acúmulo dessa fadiga, o cérebro perde a capacidade de julgamento raciona
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tomar as Decisões Importantes com a Mente Descansada</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

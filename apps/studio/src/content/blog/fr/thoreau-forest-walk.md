@@ -24,7 +24,7 @@ faqs:
 
 Henry David Thoreau, l'essayiste américain qui a vécu en autarcie près du lac Walden. Auteur du classique *Walden*. Derrière sa profonde philosophie se cachait une habitude immuable l'après-midi : marcher 4 heures par jour dans les bois de Concord. Il n'en faisait pas qu'un exercice physique, il observait la nature et notait ses idées sur un carnet. Découvrez l'impact de la marche sur le cerveau.
 
-</div>
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

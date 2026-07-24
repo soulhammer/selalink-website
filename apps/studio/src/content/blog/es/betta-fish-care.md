@@ -16,7 +16,7 @@ faqs:
     answer: "Aunque respiran aire, las peceras pequeñas sin filtro acumulan amoníaco rápidamente. Se recomienda un acuario de al menos 15 litros con filtro de esponja."
 ---
 
-Con sus espectaculares aletas, el Betta es un pez fascinante. Según la WSAVA, su órgano laberinto le permite respirar aire de la superficie. Requiere agua tibia (24°C ~ 26°C), corriente suave y plantas flotantes para evitar la podredumbre de aletas.
+Con sus espectaculares aletas, el Betta es un pez fascinante. Según la WSAVA, su órgano laberinto le permite respirar aire de la superficie. Requiere agua tibia (24°C ~ 26°C), corriente suave y plantas flotantes para evitar la podredumbre de aletas. Brindar atención médica diaria constante y un entorno seguro garantiza el bienestar a largo plazo de su mascota.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

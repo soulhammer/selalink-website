@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-日本の戦国時代を統一した徳川家康。彼が激動期の中で長寿を全うし江戸幕府を開くことができた秘訣は、毎日自らすり鉢で生薬を挽いて調剤するルーティンにありました。
+この歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持続可能な深い集中力を養うことができます。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

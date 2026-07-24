@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Johann Wolfgang von Goethe, Schöpfer von 'Faust' und 'Die Leiden des jungen Werther'. Er war nicht nur ein Dichter, sondern auch ein Naturforscher. Hinter seinen Ideen stand ein tägliches Ritual: das Spazierengehen im Garten, um Pflanzen zu beobachten und Samen zu sammeln. Er ging jeden Morgen in seinem Garten in Weimar spazieren. Er hatte stets eine Lupe dabei, um Blätter und Blüten genau zu studieren. Das Betrachten der Natur war für ihn eine kognitive Erholungsquelle. Heute zeigt BuildSelf, wie Sie durch ein 15-minütiges Beobachtungsritual Ihre Aufmerksamkeit regenerieren.
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
+
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

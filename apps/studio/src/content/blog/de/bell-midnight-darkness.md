@@ -24,9 +24,11 @@ faqs:
 
 ---
 
-Alexander Graham Bell, der große Erfinder, der mit der Erfindung des ersten Telefons die menschliche Kommunikation revolutionierte. Woher stammten seine kreativen Inspirationen? 🌌
+Alexander Graham Bell, der große Erfinder, der mit der Erfindung des ersten Telefons die menschliche Kommunikation revolutionierte. Woher stammten seine kreativen Inspirationen?
 
-Tagsüber war Bell durch seine Arbeit für Gehörlose und geschäftliche Verträge starker kognitiver Überlastung ausgesetzt. Um dies zu überwinden, nutzte er die Zeit von 22 Uhr bis 2 Uhr morgens für seine 'Dunkelheits-Deep-Work'. Er löschte alle Kerzen, um absolute Stille und Dunkelheit zu schaffen, und visualisierte komplexe Strukturen in seinem Geist. Diese sensorische Deprivation war die Quelle seiner Erfindungen.
+🌌 Tagsüber war Bell durch seine Arbeit für Gehörlose und geschäftliche Verträge starker kognitiver Überlastung ausgesetzt. Um dies zu überwinden, nutzte er die Zeit von 22 Uhr bis 2 Uhr morgens für seine 'Dunkelheits-Deep-Work'.
+
+Er löschte alle Kerzen, um absolute Stille und Dunkelheit zu schaffen, und visualisierte komplexe Strukturen in seinem Geist. Diese sensorische Deprivation war die Quelle seiner Erfindungen.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

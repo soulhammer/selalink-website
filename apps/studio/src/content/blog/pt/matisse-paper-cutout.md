@@ -24,11 +24,15 @@ faqs:
 
 ---
 
-Henri Matisse libertou as cores intensas. Mas ao final da vida, sofreu de dor física e não podia pintar. ✂️
+Na prática desta rotina transformadora:       , 20        .         ,          . ✂️
 
-Confinado a uma cadeira de rodas devido ao câncer, começou a fazer recortes de papel ('Découpage'). Cortava figuras com tesouras longas, o que bloqueou as vias da dor no cérebro e estimulou a dopamina.
+Na prática desta rotina transformadora:                              .     ,            ' (, Découpage)'  .    , , ,           (Cut-outs)  .                    .
 
-Hoje, o BuildSelf explora a neurociência por trás da rotina de Matisse.
+Na prática desta rotina transformadora:  BuildSelf      -  ,        .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

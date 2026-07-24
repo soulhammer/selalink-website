@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-奴隷の身分から完璧な心の calm を得たストア派の巨匠エピクテトス。彼の心の平穏の秘密は何でしょうか？ 📜
-
-エピクテトスは毎日夜、出来事を「自分の権限内（自分の意志）」と「権限外（他人の評価や結果）」の2つに厳格に分類しました。権限外の心配を捨てることで、内面の選択に集中しました。
-
-今日のBuildSelfでは、エピクテトスの「統制二分法リフレクション」を紹介します。
+この歴史的習慣の実践において： , , (Epictetus). (Ataraxia) ? 📜 この歴史的習慣の実践において： . ' , , (Up to Us)', ' , , , (Not Up to Us)'. , . この歴史的習慣の実践において： BuildSelf ' ' 3 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

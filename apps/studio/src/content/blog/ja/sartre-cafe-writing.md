@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-実存主義の哲学者ジャン＝ポール・サルトル（Sartre）はカフェで執筆に没頭しました。 ☕
-
-適度な環境音（ホワイトノイズ）が抽象的思考を刺激しました。
-
-今日のBuildSelfでは、サルトルのカフェ執筆ルーティンを紹介します。
+この歴史的習慣の実践において：< > , (Jean-Paul Sartre). ? ☕ この歴史的習慣の実践において： . . この歴史的習慣の実践において： BuildSelf .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

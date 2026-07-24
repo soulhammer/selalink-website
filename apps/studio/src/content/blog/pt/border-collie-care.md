@@ -16,7 +16,7 @@ faqs:
     answer: "Pelo menos 2 horas de exercício diário, dividido entre manhã e noite."
 ---
 
-O Border Collie é conhecido como o cão mais inteligente do mundo. Corridas rápidas e curvas fechadas sobrecarregam suas articulações. Hoje na PetSelf, trazemos uma rotina de 3 passos.
+O Border Collie é conhecido como o cão mais inteligente do mundo. Corridas rápidas e curvas fechadas sobrecarregam suas articulações. Hoje na PetSelf, trazemos uma rotina de 3 passos. Oferecer cuidados de saúde diários constantes e um ambiente seguro garante o bem-estar a longo prazo do seu animal.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

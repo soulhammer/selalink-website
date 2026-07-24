@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Charles Darwin, l'homme qui a apporté la plus grande révelation à la pensée scientifique de l'histoire humaine en écrivant « L'Origine des espèces », expliquant l'évolution des organismes basée sur la sélection naturelle. D'où venaient les grandes inspirations de Darwin ? Il a passé sa vie à Down House, un village tranquille près de Londres. Chaque matin et après-midi, il parcourait le « Sandwalk », un sentier de gravier et de terre qu'il avait aménagé autour de sa maison. Il appelait ce sentier le « Sentier de la Réflexion » et, au début de sa marche, il empilait 5 ou 6 petites pierres dans un coin, en jetant une à chaque tour pour savoir combien de tours il avait faits. Aujourd'hui, BuildSelf explore les principes scientifiques de la routine « Sandwalk » de Darwin et comment l'appliquer pour stimuler la créativité.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

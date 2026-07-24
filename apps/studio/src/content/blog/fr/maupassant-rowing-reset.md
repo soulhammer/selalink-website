@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Guy de Maupassant, le maître français de la nouvelle. Comment surmontait-il la fatigue mentale ? 🚣
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
-Après avoir écrit, Maupassant s'en allait sur la Seine pour ramer ou nager. Mobiliser tout son corps réinitialisait son cerveau.
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
-Aujourd'hui, BuildSelf vous présente sa routine d'aviron réinitialisante.
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -22,7 +22,16 @@ faqs:
 
 ---
 
-Johann Sebastian Bach, llamado el 'Padre de la Música' por completar el contrapunto barroco. Su lógica genial nació de un ritual intelectual de toda la vida: el hábito de copiar partituras escritas por los grandes maestros de su época, línea por línea con pluma cada noche. De niño, robaba partituras de la oficina de su hermano para copiarlas toda la noche bajo la luz de la luna. Para Bach, copiar no era lectura pasiva. Era un ritual de impresión cerebral que grababa arreglos matemáticos de notas usando las habilidades motoras finas. Hoy, BuildSelf comparte el secreto de este ritual para maximizar tu lógica y aprendizaje.
+En la práctica de esta rutina transformadora: , ' ' . . . ✍️
+
+ ' (Transcription) '. 10 , . . , . .
+
+ BuildSelf .
+
+
+
+
+--- Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo. Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

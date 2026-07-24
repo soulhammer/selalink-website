@@ -16,10 +16,13 @@ steps:
     text: "立刻离开显示器，开始进行事先准备好的纯手工劳动（如：洗碗、手写抄书、拼接小模型等）。将神经完全专注在指尖的触感与肌肉位移上，持续15分钟。"
   - name: "第三步：以清爽的状态回归理性工作"
     text: "结束15分钟的手工放松后，回到工作位上继续原来的企划或开发工作。由于缓存已被清空并得以休养，你将能进行更加清晰、高效的决策分析。"
+faqs:
+  - question: "建议每天实践这一习惯吗？"
+    answer: "是的，在每天固定时间实践能最大化大脑的神经可塑性。"
 
 ---
 
-“理性的思考必须晶莹剔透，而这剔透感需要在指尖进行研磨。”将上帝定义为大自然的荷兰哲学家巴鲁赫·斯宾诺莎，为了捍卫学术独立毅然谢绝了优渥的资助，靠亲手打磨眼镜和显微镜镜片来维持生计。在一张落满玻璃碎屑的磨镜台前，用手指去感受微小弧度的重复性体力劳动，恰好让那颗因《伦理学》庞大的几何学式求证而过度透支的大脑，得以在专注的放松中找回澄明。
+通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -83,4 +86,19 @@ steps:
       为了获得这种放松效果，必须完全脱离智能手机或电脑键盘的操作。操作电子设备依然会强迫大脑进行逻辑运算与信号分类，无法缓解认知疲劳。请选择洗碗、纸笔抄写、手工艺拼装等仅需要触觉反馈和空间协调的纯粹实体劳动。
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>建议每天实践这一习惯吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      是的，在每天固定时间实践能最大化大脑的神经可塑性。
+    </p>
+  </details>
 </div>

@@ -11,21 +11,26 @@ formatVersion: 4
 authority: "Autobiografía de Salvador Dalí 'La vida secreta de Salvador Dalí' y Journal of Frontiers in Human Neuroscience"
 steps:
   - name: "Adopta una postura semi-reclinada"
-    text: ""
+    text: "."
   - name: "Establece un temporizador corto o mecanismo de caída"
-    text: ""
+    text: "."
   - name: "Externaliza el subconsciente de inmediato"
-    text: ""
+    text: "."
 faqs:
   - question: "¿Por qué Dalí sostenía una cuchara durante las siestas?"
     answer: "Al relajarse sus músculos al dormir, la cuchara caía sobre un plato, despertándolo para capturar de inmediato inspiraciones surrealistas."
 
 ---
 
-Salvador Dalí, un gigante del arte surrealista y una de las mentes creativas más grandes del siglo XX. ¿De dónde venía la inspiración tan extraña y caprichosa de sus obras? Cuando Dalí se enfrentaba a bloqueos creativos o fatiga mental, se sentaba cómodamente en una silla de madera y sostenía ligeramente una cuchara de metal en una mano, colocando un plato de metal directamente en el suelo debajo. Hoy, BuildSelf analiza la ciencia detrás de la siesta de la cuchara.
+En la práctica de esta rutina transformadora:   20      .  ,             ? 🎨
 
+En la práctica de esta rutina transformadora:            ,          .        .       ,           . "!"       ,                 .
 
-</div>
+En la práctica de esta rutina transformadora:  BuildSelf    ' '              .
+
+En la práctica de esta rutina transformadora: </div>
+
+Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -55,7 +60,7 @@ La fase de transición al sueño activa la 'Hipnagogia', un estado rico en ondas
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Adopta una postura semi-reclinada</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -65,7 +70,7 @@ La fase de transición al sueño activa la 'Hipnagogia', un estado rico en ondas
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Establece un temporizador corto o mecanismo de caída</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -75,7 +80,7 @@ La fase de transición al sueño activa la 'Hipnagogia', un estado rico en ondas
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Externaliza el subconsciente de inmediato</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

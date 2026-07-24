@@ -24,7 +24,13 @@ faqs:
 
 ---
 
-Ada Lovelace traduziu conceitos matemáticos abstratos em diagramas visuais. Esse hábito espacial permitiu que ela concebesse o primeiro algoritmo do mundo.
+Na prática desta rotina : "I face the true beauty of mathematics when I visually project the hidden organic connections of relationships." 📊
+
+Na prática desta rotina : In the 19th century, when only mechanical gears turned, Ada Lovelace analyzed Charles Babbage's Analytical Engine, declaring the birth of software algorithms. Where did her creative foresight, which laid the foundation of the digital age, come from?
+
+Na prática desta rotina : When studying the complex operations of the Analytical Engine and Bernoulli number calculations, Lovelace did not limit herself to text or equations. She mapped how information flowed through the gears and how operations repeated onto large sheets of paper using geometric diagrams and tables (Visual Mapping). This conceptualizing habit allowed her to visualize the abstract flow of information processing and write the first computer program.
+
+Na prática desta rotina : Today, BuildSelf introduces the cognitive principles behind Ada Lovelace's 'visual mapping' routine and how modern people can apply it to clarify complex planning or learning.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-Andy Warhol, o rei do pop art. Rodeado da agitação do seu estúdio 'The Factory', as suas despesas e os seus contatos, idealizou um ritual diário: o ditado telefónico. Cada manhã ligava para a sua secretária Pat Hackett e narrava ao detalhe a sua jornada anterior. Analisemos como este processo liberta espaço na memória.
+Na prática desta rotina transformadora: , . '(Factory)' , , . 1976 1987 , . . Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

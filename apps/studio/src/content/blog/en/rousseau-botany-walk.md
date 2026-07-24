@@ -22,9 +22,7 @@ faqs:
 
 ---
 
-Jean-Jacques Rousseau, the pioneering French philosopher and writer whose ideas laid the political foundation for the French Revolution. In his later years, facing persecution and severe anxiety, he found solace in a unique combination of botany and walking. Every afternoon, he walked to collect wild plants and recorded thoughts on the back of playing cards he kept in his pocket. These card notes became his final masterpiece, *Reveries of a Solitary Walker*. Let's study how this foraging attention routine restores our mind.
-
-</div>
+Jean-Jacques Rousseau, the pioneering French philosopher and writer whose ideas laid the political foundation for the French Revolution. In his later years, facing persecution and severe anxiety, he found solace in a unique combination of botany and walking. Every afternoon, he walked to collect wild plants and recorded thoughts on the back of playing cards he kept in his pocket. These card notes became his final masterpiece, *Reveries of a Solitary Walker*. Let's study how this foraging attention routine restores our mind. </div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Abraham Lincoln, der 16. Präsident der USA, der das Land einte und die historische Abschaffung der Sklaverei erreichte. Trotz mangelnder formaler Bildung war er für seine Reden bekannt. Hinter Lincolns Wortschatz steckte ein Leseritual, das er jeden Morgen praktizierte: Er las Bücher laut vor. Sein Partner William Herndon berichtete, dass Lincolns Stimme durch den Flur hallte. Lincoln erklärte: 'Ich sehe die Worte mit den Augen und höre meine eigene Stimme mit den Ohren. Die Nutzung beider Sinne verdoppelt das Gedächtnis.' Heute zeigt BuildSelf die wissenschaftliche Wahrheit hinter diesem Ritual.
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
+
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

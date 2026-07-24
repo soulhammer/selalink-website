@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Zaha Hadid, primera mujer en ganar el Premio Pritzker. ¿Cómo concibió sus edificios futuristas? 🏛️
+Esta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.
 
-Hadid dejó las cuadrículas rígidas y dibujó curvas fluidas a tinta en blocs grandes. Capturar pistas espaciales en trazos libres estimuló sus circuitos 3D.
+Esta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.
 
-Hoy, BuildSelf explora la rutina de 'bocetos fluidos' de Zaha Hadid.
+Esta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

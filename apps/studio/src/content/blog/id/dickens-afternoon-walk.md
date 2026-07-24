@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Charles Dickens, secara luas dianggap sebagai novelis terbesar di era Victoria dengan karya-karya besar seperti 'Oliver Twist,' 'Great Expectations,' dan 'A Christmas Carol.' Tahukah Anda di mana karakter menawan dan alur cerita rumit dalam novelnya lahir? Rahasianya terletak pada rutinitas 'jalan kaki 3 jam' yang dilakukannya setiap sore. Setelah menulis dari jam 9 pagi sampai jam 2 siang, ia pergi keluar. Ia berjalan sekitar 16-19 km dengan sangat cepat selama tepat 3 jam.
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
+
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -21,7 +21,9 @@ faqs:
 
 ---
 
-Maya Angelou, poétesse, mémorialiste et militante des droits civiques américaine légendaire, autrice de l'autobiographie « Je sais pourquoi chante l'oiseau en cage ». Pour se concentrer profondément, elle s'installait dans une chambre d'hôtel chaque matin à 6h30. Elle demandait au personnel de retirer tous les tableaux et décorations, ne gardant qu'une Bible, un dictionnaire, un jeu de cartes et une bouteille de sherry. Aujourd'hui, BuildSelf montre comment un environnement épuré améliore le rendement.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

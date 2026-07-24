@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-トランスポゾン（可動性遺伝要素）を発見し、ノーベル生理学・医学賞を受賞した遺伝学者バーバラ・マクリントック（Barbara McClintock）。学界の懐疑に直面しながらも革新的な真実を解き明かした原動力とは？ 🌽
-
-マクリントックは毎朝トウモロコシ畑へ歩み出で、微小な色の変化を黙々と観察しました。静寂の中で対象に深く没頭するルーティンが彼女の集中力を研ぎ澄ませました。
-
-今日のBuildSelfでは、バーバラ・マクリントック博士の静寂の没頭ルーティンを紹介します。
+この歴史的習慣の実践において： ' (Transposon, )' , (Barbara McClintock). 1940 ? 🌽 この歴史的習慣の実践において： . . . この歴史的習慣の実践において： BuildSelf .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

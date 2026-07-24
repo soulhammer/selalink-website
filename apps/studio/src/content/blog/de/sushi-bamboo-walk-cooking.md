@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Berühmter Dichter der Song-Dynastie, Su Shi (Su Dongpo), bewahrte im politischen Exil eine legendäre Seelenruhe. Wie verwandelte er Leid in Kunst? 🎋
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
-Jeden Morgen spazierte Su Shi durch Hainbuchen und kochte Gerichte stundenlang auf kleiner Flamme. Diese Sinneswahrnehmung stellte sein Nervensystem wieder her.
-
-Heute untersucht BuildSelf die Neurowissenschaft hinter Su Shis Routine.
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -91,7 +89,7 @@ Den Groll nur gedanklich zu verdrängen aktiviert die Amygdala immer wieder.
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Die Essenz von Su Shis Kochen ist gelassenes Warten. Genießen Sie Düfte und die Zeit.
+      Gestalten Sie Ihren Arbeitsbereich frei von Ablenkungen und passen Sie das Umgebungslicht an, um maximale Konzentration zu erreichen.
     </p>
   </div>
 </div>

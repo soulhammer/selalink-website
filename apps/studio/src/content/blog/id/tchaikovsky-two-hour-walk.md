@@ -21,7 +21,9 @@ faqs:
 
 ---
 
-Pyotr Ilyich Tchaikovsky, komposer legendaris yang mengangkat musik romantis Rusia ke tingkat kelas dunia dengan mahakarya seperti 'Swan Lake,' 'The Nutcracker,' dan 'Pathétique Symphony.' Dia mempertahankan jadwal yang sangat ketat, membagi sesi menggubah lagunya menjadi pagi dan sore. Khususnya, dia pergi berjalan-jalan selama tepat dua jam setiap sore. Dia sangat percaya pada rutinitas ini sehingga dia takut jika menguranginya beberapa menit saja akan menyebabkan penyakit fisik atau menghabiskan inspirasi musiknya. Tema musik yang muncul di kepalanya selama berjalan-jalan ini segera ditulis di buku catatan kecil yang selalu dibawanya di saku. Hari ini, BuildSelf membagikan bagaimana jalan kaki harian dapat memicu pemikiran kreatif Anda.
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
+
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Richard Feynman, ein Riese der modernen Physik, der für seine Arbeit in der Quantenelektrodynamik den Nobelpreis für Physik erhielt. Er war ein hervorragender Pädagoge, der komplexe Physik so erklärte, dass jeder sie verstehen konnte. Das Geheimnis lag in seiner Gewohnheit zu 'lehren'. Wann immer Feynman etwas Neues lernte, öffnete er ein leeres Notizbuch und tat so, als säße ein 10-jähriges Kind vor ihm. Er schrieb das Konzept einfach auf. Wenn er ins Stocken geriet, kehrte er zur Quelle zurück. Heute stellt BuildSelf die neurowissenschaftliche Wahrheit hinter Feynmans Lernmethode vor.
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
+
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

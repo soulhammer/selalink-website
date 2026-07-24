@@ -37,7 +37,7 @@
       "ko": "센노 리큐는 매일 아침 차실 정원을 직접 쓸면서 자연과의 일치감과 마음의 먼지를 쓸어내는 성찰의 시간을 가졌습니다. 이것은 물리적 자극에 주의력을 고정하여 뇌 인지 노이즈를 걷어내는 장치였습니다.",
       "en": "Sen no Rikyu swept the tea garden path every morning to align with nature and wipe away mental dust. This was a device to anchor attention to physical stimuli and reduce cognitive noise.",
       "ja": "千利休は毎朝、茶室の路地を自ら掃くことで、自然との一体感を得て心の塵を払う省察の時間を持っていました。これは物理的刺激に注意を固定して脳の認知ノイズを取り除くツールでした。",
-      "zh": "千利休每天清晨亲手打扫茶室外的庭院小路，以此获得与自然的融合并拂去心中的杂念。这是一种将注意力锚定在物理刺激上、从而消除大脑认知噪声的有效方法。",
+      "zh": "通过每天系统地实践这一历史性惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
       "es": "Sen no Rikyu, el maestro del té que definió la estética del Wabi-Sabi en Japón. Al limpiar el jardín, dejaba intencionalmente caer unas pocas hojas para romper la perfección artificial y abrazar la asimetría natural, reduciendo el estrés cognitivo.",
       "fr": "Sen no Rikyu, le maître de thé qui a défini l'esthétique du Wabi-Sabi. En nettoyant le jardin, il laissait tomber des feuilles pour briser la perfection artificielle.",
       "de": "Sen no Rikyu, der Teemeister, der die Ästhetik des Wabi-Sabi definierte. Beim Reinigen des Gartens ließ er absichtlich Blätter fallen, um künstliche Perfektion zu brechen.",
@@ -105,7 +105,12 @@
           "ko": "아침에 청소할 좁은 영역을 정하고 빗자루나 걸레 등 수동 도구를 준비합니다.",
           "en": "Choose a small specific area to clean in the morning and prepare analog tools like a broom or cloth.",
           "ja": "朝に掃除する限られたエリア（机の上、床の一角など）を定め、箒や布などのアナログな道具を準備します。",
-          "zh": "设定清晨打扫的一块特定区域（如书桌一角、房间一侧），并准备好扫帚或抹布等手动工具。"
+          "zh": "设定清晨打扫的一块特定区域（如书桌一角、房间一侧），并准备好扫帚或抹布等手动工具。",
+          "es": "Choose a small specific area to clean in the morning and prepare analog tools like a broom or cloth.",
+          "fr": "Choose a small specific area to clean in the morning and prepare analog tools like a broom or cloth.",
+          "de": "Choose a small specific area to clean in the morning and prepare analog tools like a broom or cloth.",
+          "pt": "Choose a small specific area to clean in the morning and prepare analog tools like a broom or cloth.",
+          "id": "Choose a small specific area to clean in the morning and prepare analog tools like a broom or cloth."
         }
       },
       {
@@ -124,7 +129,12 @@
           "ko": "일정한 리듬으로 쓸기나 닦기를 행하며, 빗자루 소리와 움직임 촉각 피드백에만 모든 의식을 고정합니다.",
           "en": "Perform sweeping or wiping at a steady rhythm, centering all awareness strictly on friction sounds and touch.",
           "ja": "一定のリズムで掃いたり拭いたりして、箒が擦れる音や手の動きの感触だけにすべての意識を集中させます。",
-          "zh": "以规律节奏进行扫地或擦拭，将全部意识紧紧锚定在扫地的摩擦声和手部的触觉反馈上。"
+          "zh": "以规律节奏进行扫地或擦拭，将全部意识紧紧锚定在扫地的摩擦声和手部的触觉反馈上。",
+          "es": "Perform sweeping or wiping at a steady rhythm, centering all awareness strictly on friction sounds and touch.",
+          "fr": "Perform sweeping or wiping at a steady rhythm, centering all awareness strictly on friction sounds and touch.",
+          "de": "Perform sweeping or wiping at a steady rhythm, centering all awareness strictly on friction sounds and touch.",
+          "pt": "Perform sweeping or wiping at a steady rhythm, centering all awareness strictly on friction sounds and touch.",
+          "id": "Perform sweeping or wiping at a steady rhythm, centering all awareness strictly on friction sounds and touch."
         }
       },
       {
@@ -143,7 +153,12 @@
           "ko": "5분 동안의 활동을 종료한 후, 정돈된 구역과 약간의 흐트러짐을 조용히 지켜보며 내면의 고요를 음미합니다.",
           "en": "After finishing the 5-minute action, silently gaze at the cleared zone for 1 minute, sensing inner quietness.",
           "ja": "５分間の掃除活動を終えたら、整えられたエリアとそこに残るわずかな自然の乱れを１分間静かに眺め、内面の静寂を味わいます。",
-          "zh": "结束5分钟的打扫后，静静凝视整洁的区域以及落下的几片绿叶，感受内心的那份平静与留白。"
+          "zh": "结束5分钟的打扫后，静静凝视整洁的区域以及落下的几片绿叶，感受内心的那份平静与留白。",
+          "es": "After finishing the 5-minute action, silently gaze at the cleared zone for 1 minute, sensing inner quietness.",
+          "fr": "After finishing the 5-minute action, silently gaze at the cleared zone for 1 minute, sensing inner quietness.",
+          "de": "After finishing the 5-minute action, silently gaze at the cleared zone for 1 minute, sensing inner quietness.",
+          "pt": "After finishing the 5-minute action, silently gaze at the cleared zone for 1 minute, sensing inner quietness.",
+          "id": "After finishing the 5-minute action, silently gaze at the cleared zone for 1 minute, sensing inner quietness."
         }
       }
     ],
@@ -164,7 +179,12 @@
           "ko": "빠른 마무리가 아니라, 비질 소리와 손에 오는 촉감 등 감각 피드백 자체에 집중하는 것이 효과적입니다.",
           "en": "Focusing strictly on real-time sensory feedback like friction noise and touch, rather than speed, makes it effective.",
           "ja": "早く終わらせようと焦るのではなく、掃く音や手に感じる感触など、リアルタイムの感覚フィードバックそのものに集中することが効果的です。",
-          "zh": "不要急于完成，而是将注意力放在扫帚摩擦声、手掌触觉等感官反馈本身，这样非常有效。"
+          "zh": "不要急于完成，而是将注意力放在扫帚摩擦声、手掌触觉等感官反馈本身，这样非常有效。",
+          "es": "Focusing strictly on real-time sensory feedback like friction noise and touch, rather than speed, makes it effective.",
+          "fr": "Focusing strictly on real-time sensory feedback like friction noise and touch, rather than speed, makes it effective.",
+          "de": "Focusing strictly on real-time sensory feedback like friction noise and touch, rather than speed, makes it effective.",
+          "pt": "Focusing strictly on real-time sensory feedback like friction noise and touch, rather than speed, makes it effective.",
+          "id": "Focusing strictly on real-time sensory feedback like friction noise and touch, rather than speed, makes it effective."
         }
       }
     ],

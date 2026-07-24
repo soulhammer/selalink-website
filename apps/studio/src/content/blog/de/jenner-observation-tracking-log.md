@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Der Landarzt, der die Pocken ausrottete und den ersten Impfstoff erfand, Edward Jenner, rettete Millionen Menschenleben. Wie gelang ihm dieser Durchbruch? 🩺
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
-Jenner ignorierte nicht die Berichte über immunisierte Milchmädchen. Jahre lang dokumentierte er Symptome akribisch in einem Beobachtungsbuch.
-
-Heute untersucht BuildSelf die Neurowissenschaft hinter Edward Jenners Beobachtungs-Routine.
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

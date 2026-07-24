@@ -22,9 +22,9 @@ faqs:
 
 ---
 
-B. F. 斯金纳是美国天才心理学家，他提出人类的自由意志是行为塑造的产物，从而树立了行为主义心理学的范式。作为一名研究改变他人行为机制的科学家，他究竟是如何管理自己的创造性生产力的？ 📈
+在这一历史性惯例的实践中： , B. F. . , ? 📈
 
-斯金纳每天坐在书桌前，用秒表精确测量自己纯粹专注于写作（创作作品及学术写作）的时间。专注结束后，他会立即在记录板上写下当天撰写的单词数量（Word Count）和净专注时间。斯金纳不仅仅停留在收集这些数据，他还每天将这些数字绘制成折线图，贴在书桌前的墙壁上。他完美地在自己身上实验并证实了“自我强化（Self-Reinforcement）”的机制，即当行为结果以数据的形式直观呈现在眼前时，会主动激发行动者的内在动机。
+ ( ) . , (Word Count) . . ' (Self-Reinforcement)' .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

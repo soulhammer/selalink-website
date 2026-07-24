@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-バロック美術の巨匠ペテル・パウル・ルーベンス（Peter Paul Rubens）。彼は絵画制作中に古典文学の朗読を聴く習慣を持っていました。 🎨
-
-キャンバスに向かいながら古典の朗読を聴くことで、聴覚と視覚の双方を刺激し、インスピレーションを高めました。
-
-今日のBuildSelfでは、ルーベンスの感覚相互作用ルーティンを紹介します。
+この歴史的習慣の実践において：<>, < > 17 , (Peter Paul Rubens). ? 🎨 この歴史的習慣の実践において： , . , . . この歴史的習慣の実践において： BuildSelf & .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

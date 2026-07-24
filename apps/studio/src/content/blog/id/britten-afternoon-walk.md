@@ -24,9 +24,11 @@ faqs:
 
 ---
 
-Benjamin Britten, seorang maestro yang memimpin lompatan besar dalam musik Inggris abad ke-20 dengan menggubah opera 'Peter Grimes' dan 'The Young Person's Guide to the Orchestra.' Benang harmonis musik modernnya yang kompleks dan intelektual terurai bukan di depan lembaran musik, melainkan di jalan setapak pantai Aldeburgh di Suffolk tempat angin laut berhembus kencang. 🌊
+Benjamin Britten, seorang maestro yang memimpin lompatan besar dalam musik Inggris abad ke-20 dengan menggubah opera 'Peter Grimes' dan 'The Young Person's Guide to the Orchestra.' Benang harmonis musik modernnya yang kompleks dan intelektual terurai bukan di depan lembaran musik, melainkan di jalan setapak pantai Aldeburgh di Suffolk tempat angin laut berhembus kencang. 🌊 Britten, yang menjaga aturan ketat seperti Brahms, menggubah musik dari jam 8 pagi sampai jam 1 siang setiap hari, and kemudian berjalan keluar rumah, meninggalkan penanya di meja.
 
-Britten, yang menjaga aturan ketat seperti Brahms, menggubah musik dari jam 8 pagi sampai jam 1 siang setiap hari, and kemudian berjalan keluar rumah, meninggalkan penanya di meja. Dia berjalan di sepanjang pantai kerikil setiap hari dengan rute yang konstan. Sembari berjalan, ia menyempurnakan melodi dan struktur harmonik yang ditulis di pagi hari sesuai suara ombak. He berulang kali mendengarkan pertunjukan orkestra virtual otaknya di jalur ini, menghapus kekurangan pada melodi dan membangun struktur logis secara penuh. Britten wrote tentang berjalan, 'Selama berjalan, saya menyelesaikan semua tantangan musik saya yang paling merepotkan & sulit.'
+Dia berjalan di sepanjang pantai kerikil setiap hari dengan rute yang konstan. Sembari berjalan, ia menyempurnakan melodi dan struktur harmonik yang ditulis di pagi hari sesuai suara ombak.
+
+He berulang kali mendengarkan pertunjukan orkestra virtual otaknya di jalur ini, menghapus kekurangan pada melodi dan membangun struktur logis secara penuh. Britten wrote tentang berjalan, 'Selama berjalan, saya menyelesaikan semua tantangan musik saya yang paling merepotkan & sulit.'
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

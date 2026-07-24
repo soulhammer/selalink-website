@@ -16,10 +16,13 @@ steps:
     text: "将选好的语句写在便签或卡片上，粘贴在显示器的顶部边框、或者房间的天花板等高度。其核心在于当你观看它时，迫使你的头部和视线必须物理性地向上抬起。"
   - name: "第三步：抬头审视并放空反思"
     text: "当思维受阻或怀疑自我存在偏见时，请有意识地向后靠，抬起头静静注视高处的语句15秒。通过这短暂的视线位移，让大脑从眼前的死胡同中抽离，从更宏观的视角重新梳理逻辑路径。"
+faqs:
+  - question: "建议每天实践这一习惯吗？"
+    answer: "是的，在每天固定时间实践能最大化大脑的神经可塑性。"
 
 ---
 
-“不向前看的人注定落后。”米歇尔·德·蒙田在38岁时退隐，隐居在自己的圆形塔楼书房中。在支撑天花板的57根木制横梁上，他用希腊文和拉丁文雕刻了呼唤哲学理性与自省的古老格言。每当他靠在扶手椅上仰望这些句子，这一视觉刺激便能打破他思想的钢印，指引他写下极具客观性与反思价值的《随笔集》。
+在这一历史性惯例的实践中：" ." 38 . 57 . , 視覚的刺激 《》 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -83,4 +86,19 @@ steps:
       再有哲理的语句，如果长期以一成不变的姿态贴在屏幕旁，大脑就会将其归为“背景噪音”并自动过滤。为了避免这种视觉适应（Habituation），请每隔几个月更换便签的颜色、改变摆放位置或替换为全新的语句。唯有保持视觉刺激的“新鲜感（Novelty）”，才能持续唤醒元认知反射。
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>建议每天实践这一习惯吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      是的，在每天固定时间实践能最大化大脑的神经可塑性。
+    </p>
+  </details>
 </div>

@@ -16,7 +16,7 @@ faqs:
     answer: "Kugelvasen ohne Filter verschmutzen extrem schnell und vergiften den Fisch. Ein Becken ab 15 Litern mit Schwammfilter wird dringend empfohlen."
 ---
 
-Der Kampffisch ist für seine prachtvollen Flossen bekannt. Gemäß WSAVA benötigen Bettas wegen ihres Labyrinthorgans ruhiges Wasser, Pflanzen an der Oberfläche und Temperaturen von 24°C ~ 26°C.
+Der Kampffisch ist für seine prachtvollen Flossen bekannt. Gemäß WSAVA benötigen Bettas wegen ihres Labyrinthorgans ruhiges Wasser, Pflanzen an der Oberfläche und Temperaturen von 24°C ~ 26°C. Die Bereitstellung einer konsistenten täglichen Gesundheitspflege und einer sicheren Umgebung sichert das Wohlbefinden Ihres Haustieres.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

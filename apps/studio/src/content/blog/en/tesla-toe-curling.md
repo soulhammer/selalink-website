@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Nikola Tesla's Autobiography 'My Inventions' & Journal of Physical Therapy Science (JPTS)"
 steps:
   - name: "Digital Detox in Bed"
-    text: ""
+    text: "."
   - name: "50-Times Toe Curling Ritual"
-    text: ""
+    text: "."
   - name: "Relax Your Brain with Deep Breathing"
-    text: ""
+    text: "."
 faqs:
   - question: "Does curling toes really help activate the brain?"
     answer: "Yes, the toe region is located in the somatosensory cortex mapping near the center of the brain. Stimulating toe micro-muscles sends electrical signals to active the prefrontal cortex."
@@ -27,8 +27,7 @@ Tesla maintained an extreme sleep pattern of sleeping only 2 hours a day, yet he
 
 Today, BuildSelf introduces the scientific principles behind the extraordinary habit of a historical genius, and how to apply it to our daily lives.
 
-
-</div>
+By practicing this routine daily, knowledge workers can eliminate fatigue and cultivate deep focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +59,7 @@ In fact, the area occupied by the feet and toes in the somatosensory cortex of t
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Digital Detox in Bed</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +69,7 @@ In fact, the area occupied by the feet and toes in the somatosensory cortex of t
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">50-Times Toe Curling Ritual</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +79,7 @@ In fact, the area occupied by the feet and toes in the somatosensory cortex of t
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Relax Your Brain with Deep Breathing</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

@@ -16,6 +16,9 @@ steps:
     text: "Olhe pela janela para a paisagem que passa. Deixe que seus olhos capturem o fluxo óptico sem focar em nada em particular, permitindo ao cérebro entrar em devaneio."
   - name: "Capturar a centelha de lucidez"
     text: "No momento em que surgir uma ideia ou solução em sua mente, anote imediatamente as palavras-chave em seu caderno. Não espere chegar ao destino, pois essas ideias desaparecem rapidamente."
+faqs:
+  - question: "Devo praticar este hábito diariamente?"
+    answer: "Sim, praticar a uma hora fixa diariamente maximiza a neuroplasticidade."
 
 ---
 
@@ -83,4 +86,19 @@ Estar em movimento altera o fluxo visual, estimulando a neuroplasticidade. Além
       Se passar o tempo de viagem nas redes sociais, destruirá a incubação criativa. Seu cérebro será inundado de estímulos que bloqueiam as ondas alfa. Para ativar a criatividade, olhe para fora e deixe seus pensamentos fluírem com o bloco de notas pronto.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>Devo praticar este hábito diariamente?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Sim, praticar a uma hora fixa diariamente maximiza a neuroplasticidade.
+    </p>
+  </details>
 </div>

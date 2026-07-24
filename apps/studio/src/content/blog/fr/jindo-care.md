@@ -16,7 +16,7 @@ faqs:
     answer: "Oui, ils sont indépendants par nature. Visez la neutralité sociale."
 ---
 
-Le Jindo est un trésor national de la Corée. Bien qu'il ait un lien fort avec son propriétaire, sa méfiance naturelle exige une socialisation précoce. Aujourd'hui chez PetSelf, nous partageons des conseils de socialisation.
+Le Jindo est un trésor national de la Corée. Bien qu'il ait un lien fort avec son propriétaire, sa méfiance naturelle exige une socialisation précoce. Aujourd'hui chez PetSelf, nous partageons des conseils de socialisation. Offrir des soins de santé quotidiens constants et un environnement sûr garantit le bien-être à long terme de votre animal.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Richard Feynman, un géant de la physique moderne qui a remporté le prix Nobel pour ses travaux en électrodynamique quantique. C'était un éducateur exceptionnel qui expliquait les recherches complexes de manière simple. Le secret résidait dans son habitude d'« enseigner » sur son carnet. En apprenant quelque chose de nouveau, il ouvrait un cahier et supposait qu'un enfant de 10 ans était en face. Il écrivait le concept simplement. S'il bloquait, il savait qu'il y avait une lacune et retournait au matériel original. Aujourd'hui, BuildSelf partage la vérité neuroscientifique de Feynman.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

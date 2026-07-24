@@ -24,9 +24,11 @@ faqs:
 
 ---
 
-存在主义哲学大师让-保罗·萨特（Sartre）习惯在咖啡馆写作。适度的环境白噪音激发了他的抽象思维。 ☕
+存在主义哲学大师让-保罗·萨特（Sartre）习惯在咖啡馆写作。适度的环境白噪音激发了他的抽象思维。 ☕ 今天 BuildSelf 将为您剖析萨特的咖啡馆写作习惯。
 
-今天 BuildSelf 将为您剖析萨特的咖啡馆写作习惯。
+存在主义哲学大师让-保罗·萨特（Sartre）习惯在咖啡馆写作。适度的环境白噪音激发了他的抽象思维。 ☕ 今天 BuildSelf 将为您剖析萨特的咖啡馆写作习惯。
+
+存在主义哲学大师让-保罗·萨特（Sartre）习惯在咖啡馆写作。适度的环境白噪音激发了他的抽象思维。 ☕ 今天 BuildSelf 将为您剖析萨特的咖啡馆写作习惯。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

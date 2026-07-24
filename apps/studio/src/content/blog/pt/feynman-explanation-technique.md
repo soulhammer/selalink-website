@@ -22,7 +22,16 @@ faqs:
 
 ---
 
-Richard Feynman, um gigante da física moderna que ganhou o Prémio Nobel da Física pelo seu trabalho em eletrodinâmica quântica. Era um educador excepcional que explicava investigações complexas de forma simples. O segredo estava no seu hábito de 'ensinar' no seu caderno. Ao aprender algo novo, abria um caderno e assumia que uma criança de 10 anos estava à sua frente. Escrevia o conceito com termos simples. Se hesitasse, sabia que havia uma falha na sua compreensão e voltava ao material original. Hoje, o BuildSelf partilha a verdade neurocientífica por trás do método de Feynman.
+Na prática desta rotina transformadora: 20 , . , . 📝
+
+ '' . 10 . . , . , .
+
+ BuildSelf .
+
+
+
+
+--- Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável. Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

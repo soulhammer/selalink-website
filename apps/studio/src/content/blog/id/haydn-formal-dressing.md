@@ -24,7 +24,7 @@ faqs:
 
 Joseph Haydn, 'Bapak Simfoni' yang meletakkan dasar bagi gaya musik klasik. Ia menggubah lebih dari 100 simfoni dalam hidupnya. Menariknya, ia memiliki kebiasaan unik: ia selalu mengenakan jas formal, wig, dan cincin favoritnya sebelum menulis musik. Meskipun bekerja sendiri di ruang kerjanya, ia percaya bahwa keteraturan kreatif hanya bisa lahir dari keteraturan fisik. Mari kita pelajari sains 'Kognisi Berbusana'.
 
-</div>
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-领导曼哈顿计划的理论物理学家奥本海默。他是如何应对极大压力的？ 📜
-
-每到夜晚，奥本海默都会放下复杂的物理公式，阅读梵文诗歌。沉浸在诗意语言中是他重获平衡的“认知开关”。
-
-今天，BuildSelf 将介绍奥本海默的夜间诗歌阅读习惯。
+在这一历史性惯例的实践中： , J. . ? 📜 在这一历史性惯例的实践中： . ' '. 在这一历史性惯例的实践中： BuildSelf .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,11 +24,13 @@ faqs:
 
 ---
 
-Epictetus, born a slave, achieved absolute mental freedom through Stoic reasoning. What was his key to unwavering tranquility? 📜
+In this historic routine:          ,             , (Epictetus).           (Ataraxia)     ? 📜
 
-Every evening, Epictetus strictly divided events into two categories: things within his control (internal choices and reactions) versus things outside his control (outcomes and other people's opinions). By relinquishing anxiety over the uncontrollable, he focused 100% of his energy on internal choices.
+In this historic routine:              .  ' , ,      (Up to Us)',  ' , , ,      (Not Up to Us)'.              ,         .
 
-Today, BuildSelf reveals the science behind Epictetus' 'Dichotomy of Control' evening routine and a 3-step action guide.
+In this historic routine:  BuildSelf  '   '         3   .
+
+Practicing this daily routine consistently builds deep focus and long-term habits. By systematically applying this historic routine daily, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus. By systematically applying this historic routine daily, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

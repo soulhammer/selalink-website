@@ -11,11 +11,11 @@ formatVersion: 4
 authority: "Biografi René Descartes 'La Vie de Monsieur Descartes' & Jurnal Psychophysiology"
 steps:
   - name: "Jaga Posisi dan Hindari Ponsel Begitu Alarm Berbunyi"
-    text: ""
+    text: "."
   - name: "Pernapasan Rileks dan Pemindaian Tubuh"
-    text: ""
+    text: "."
   - name: "Tentukan 'Fokus Utama' Hari Ini"
-    text: ""
+    text: "."
 faqs:
   - question: "Apakah meditasi pagi di tempat tidur benar-benar efektif bagi otak?"
     answer: "Ya, posisi berbaring setelah bangun mengarahkan gelombang otak ke keadaan alfa, menstabilkan sistem saraf otonom."
@@ -28,8 +28,7 @@ Descartes bertubuh sangat lemah sejak kecil, sehingga ia kesulitan bangun pagi. 
 
 Hari ini, BuildSelf menyajikan landasan ilmiah dari rutinitas meditasi 'kasur' Descartes dan bagaimana orang sibuk dapat menerapkannya di pagi hari.
 
-
-</div>
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -61,7 +60,7 @@ Sebaliknya, menjaga posisi berbaring horizontal yang nyaman beberapa saat setela
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Jaga Posisi dan Hindari Ponsel Begitu Alarm Berbunyi</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -71,7 +70,7 @@ Sebaliknya, menjaga posisi berbaring horizontal yang nyaman beberapa saat setela
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pernapasan Rileks dan Pemindaian Tubuh</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -81,7 +80,7 @@ Sebaliknya, menjaga posisi berbaring horizontal yang nyaman beberapa saat setela
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tentukan 'Fokus Utama' Hari Ini</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

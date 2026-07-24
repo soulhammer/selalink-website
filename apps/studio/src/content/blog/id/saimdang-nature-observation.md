@@ -22,9 +22,9 @@ faqs:
 
 ---
 
-Shin Saimdang, seniman wanita terkemuka Joseon dan ibu dari Yulgok Yi I, meninggalkan lukisan lanskap dan serangga-bunga (Chochungdo) yang dipuji karena kehalusannya. Rahasia kedalaman kreatif Saimdang adalah kebiasaan hariannya melangkah ke kebun untuk mengamati rumput dan serangga. 🌿
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
-Setiap pagi, ia memperhatikan daun yang berembun, kumbang, dan kupu-kupu. Secara ilmu otak, pengamatan presisi ini adalah rutinitas pemulihan perhatian yang mengatur ulang perhatian terarah otak yang lelah.
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

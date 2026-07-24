@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Ayrton Senna, one of the greatest F1 drivers in history, had an intense mental routine alongside physical training. Minutes before a race, he sat in his cockpit with his helmet on, eyes closed, completely still. Inside his mind, the race had already begun, simulating every turn, gear shift, and braking point. We analyze the mechanism of Ayrton Senna's mental rehearsal.
+In this historic routine:  (F1)        .     300km                ' ' .      ,             .           ,  ,    3D  .            .
+
+Practicing this daily routine consistently builds deep focus and long-term habits. By systematically applying this historic routine daily, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus. By systematically applying this historic routine daily, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

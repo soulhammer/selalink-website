@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-Charles de Gaulle liderou a 'França Livre' e fundou a França moderna. Sob constante pressão, como gerenciava o estresse? 🃏
-
-Seu segredo era o 'Paciência'. Tarde da noite, ordenava cartas sob luz de velas, em silêncio. Este jogo simples desligava o filtro de decisões, ajudando-o a recuperar a lógica.
-
-Hoge, o BuildSelf explora a neurociência por trás da rotina de de Gaulle.
+Na prática desta rotina transformadora: 2 ' ' , . . 🃏 Na prática desta rotina transformadora: . 1 , '(Solitaire)'. , . , . , . Na prática desta rotina transformadora: BuildSelf . Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

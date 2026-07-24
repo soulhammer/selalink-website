@@ -37,7 +37,7 @@
       "en": "\"Logic needs clarity, and clarity is polished by hand.\" Baruch Spinoza, the Dutch philosopher who defined God as nature, refused wealthy patronages to preserve his intellectual independence. Instead, he made a living by grinding lenses for spectacles and microscopes. While sitting at his work table covered in glass dust, the repetitive, precise physical movements allowed his analytical mind to rest and process complex philosophical geometry.",
       "ko": "\"이성적 사고는 투명해야 하며, 그 투명함은 손끝에서 연마된다.\" 신을 곧 자연이라 정의한 네덜란드의 철학자 바루흐 스피노자는 사상의 자유를 지키기 위해 후원마저 거절하고, 안경과 현미경용 유리 렌즈를 깎는 세공인으로 생계를 꾸렸습니다. 유리 가루가 날리는 작업대 앞에 앉아 미세한 렌즈 표면을 문지르는 반복적인 물리적 손동작은, 에티카의 거대한 기하학적 증명으로 과부하에 걸렸던 그의 두뇌가 잠시 쉬어가며 평정을 되찾을 수 있는 최고의 휴식이었습니다.",
       "ja": "「理性的思考は透明でなければならず、その透明さは指先で磨かれる。」神をすなわち自然と定義したオランダの哲学者バルーヒ・スピノザは、思想の自由を守るために後援さえ断り、眼鏡や顕微鏡用のガラスレンズを磨く細工師として生計を立てました。ガラスの粉が舞う作業台の前に座り、微細なレンズの表面を磨く反復的な物理的動作は、『エチカ』の巨大な幾何学的証明によって過負荷に陥っていた彼の頭脳が、一時休息して平静を取り戻すための最高の休息でした。",
-      "zh": "“理性的思考必须晶莹剔透，而这剔透感需要在指尖进行研磨。”将上帝定义为大自然的荷兰哲学家巴鲁赫·斯宾诺莎，为了捍卫学术独立毅然谢绝了优渥的资助，靠亲手打磨眼镜和显微镜镜片来维持生计。在一张落满玻璃碎屑的磨镜台前，用手指去感受微小弧度的重复性体力劳动，恰好让那颗因《伦理学》庞大的几何学式求证而过度透支的大脑，得以在专注的放松中找回澄明。",
+      "zh": "通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
       "es": "\"La lógica necesita claridad, y la claridad se pule a mano.\" Baruch Spinoza, el filósofo holandés que definió a Dios como la naturaleza, rechazó el patrocinio para mantener su libertad. En su lugar, se ganaba la vida tallando lentes. Mientras trabajaba en su mesa de tallado, los movimientos repetitivos y precisos permitían que su mente descansara y procesara geometrías filosóficas.",
       "fr": "\"La logique a besoin de clarté, et la clarté se polit à la main.\" Baruch Spinoza, le philosophe hollandais qui définissait Dieu comme la nature, refusa les mécénats pour rester indépendant. Il gagnait sa vie en polissant des lentilles. Les mouvements répétitifs de ce travail permettaient à son esprit analytique de se reposer.",
       "de": "\"Logik braucht Klarheit, und Klarheit wird von Hand poliert.\" Baruch Spinoza, der niederländische Philosoph, der Gott als Natur definierte, lehnte wohlhabende Gönner ab, um seine Unabhängigkeit zu bewahren. Er verdiente seinen Lebensunterhalt mit dem Schleifen von Linsen. Diese repetitive, präzise Arbeit bot seinem Geist die nötige Pause.",
@@ -163,6 +163,32 @@
       }
     ],
     "pubDate": "2026-04-25",
-    "updatedDate": "2026-04-25"
+    "updatedDate": "2026-04-25",
+    "faqs": [
+      {
+        "question": {
+          "ko": "이 습관을 매일 실천해야 하나요?",
+          "en": "Should I practice this habit daily?",
+          "ja": "この習慣を毎日実践すべきですか？",
+          "zh": "建议每天实践这一习惯吗？",
+          "es": "¿Debo practicar este hábito a diario?",
+          "fr": "Dois-je pratiquer cette habitude tous les jours ?",
+          "de": "Sollte ich diese Gewohnheit täglich praktizieren?",
+          "pt": "Devo praticar este hábito diariamente?",
+          "id": "Apakah saya harus mempraktikkan kebiasaan ini setiap hari?"
+        },
+        "answer": {
+          "ko": "네, 매일 일정한 시간에 실천할 때 뇌의 신경 가소성이 극대화됩니다.",
+          "en": "Yes, practicing at a set time daily maximizes brain neuroplasticity.",
+          "ja": "はい、毎日決まった時間に実践することで脳の神経可塑性が極大化します。",
+          "zh": "是的，在每天固定时间实践能最大化大脑的神经可塑性。",
+          "es": "Sí, practicar a una hora fija diariamente maximiza la neuroplasticidad cerebral.",
+          "fr": "Oui, pratiquer à une heure fixe chaque jour maximise la neuroplasticité cérébrale.",
+          "de": "Ja, tägliche Praxis zur gleichen Zeit maximiert die Neuroplastizität.",
+          "pt": "Sim, praticar a uma hora fixa diariamente maximiza a neuroplasticidade.",
+          "id": "Ya, berlatih pada waktu yang sama setiap hari memaksimalkan neuroplastisitas."
+        }
+      }
+    ]
   }
 }

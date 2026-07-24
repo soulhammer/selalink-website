@@ -24,9 +24,11 @@ faqs:
 
 ---
 
-Jean-Paul Sartre écrivait ses chefs-d'œuvre dans les cafés parisiens. Le bruit ambiant stimulait sa créativité. ☕
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide. < >      ,  (Jean-Paul Sartre).    ? ☕
 
-Aujourd'hui, BuildSelf vous présente la routine de Jean-Paul Sartre.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.                 .            .
+
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.  BuildSelf            .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

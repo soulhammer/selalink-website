@@ -11,11 +11,11 @@ formatVersion: 4
 authority: "Steve Jobs' Biografie von Walter Isaacson & Fachzeitschrift JPSP"
 steps:
   - name: "Bereitlegen von Kleidung und Gegenständen am Vorabend"
-    text: ""
+    text: "."
   - name: "Aufbau einer eigenen 'Basis-Uniform (Template)'"
-    text: ""
+    text: "."
   - name: "Wichtige Entscheidungen mit frischem Geist treffen"
-    text: ""
+    text: "."
 faqs:
   - question: "Warum trug Steve Jobs jeden Tag die gleiche Kleidung?"
     answer: "Um Energie zu sparen, die morgens durch triviale Kleidungsentscheidungen verbraucht wird, und sich voll auf kritische Geschäftsentscheidungen zu konzentrieren."
@@ -28,8 +28,7 @@ Viele halten seine Uniform-Mode für einen einfachen Ausdruck von Persönlichkei
 
 Heute stellt BuildSelf die wissenschaftlichen Prinzipien hinter Steve Jobs' 'Kleidungs-Minimalismus' vor und zeigt, wie man morgendliche Entscheidungsermüdung reduziert, um die Produktivität zu maximieren.
 
-
-</div>
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -61,7 +60,7 @@ Bei fortschreitender Ermüdung verliert das Gehirn seine rationale Urteilskraft,
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bereitlegen von Kleidung und Gegenständen am Vorabend</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -71,7 +70,7 @@ Bei fortschreitender Ermüdung verliert das Gehirn seine rationale Urteilskraft,
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Aufbau einer eigenen 'Basis-Uniform (Template)'</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -81,7 +80,7 @@ Bei fortschreitender Ermüdung verliert das Gehirn seine rationale Urteilskraft,
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wichtige Entscheidungen mit frischem Geist treffen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

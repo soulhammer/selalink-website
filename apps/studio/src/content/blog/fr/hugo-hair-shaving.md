@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Victor Hugo, le grand écrivain français auteur de « Les Misérables » et de « Notre-Dame de Paris ». Face à un délai de rendu très serré, il prit une décision radicale : se raser la moitié des cheveux et de la barbe et s'enfermer dans son bureau. Incapable de sortir à cause de son look, il finit son livre à temps. Aujourd'hui, BuildSelf montre comment l'engagement physique force la concentration.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

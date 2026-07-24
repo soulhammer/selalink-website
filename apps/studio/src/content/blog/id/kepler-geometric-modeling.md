@@ -24,7 +24,7 @@ faqs:
 
 Johannes Kepler, astronom dan matematikawan terkenal yang menemukan hukum gerakan planet. Di era tanpa komputer, Kepler harus menghitung rumus rumit. Ketika buntu, ia merutinkan mengukir model geometris 3D dari kayu, kertas, atau tanah liat. Sentuhan fisik membantunya memvisualisasikan orbit kosmis. Mari kita ulas sains manipulasi spasial haptik.
 
-</div>
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

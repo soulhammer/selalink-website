@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Poeta e estadista da Dinastia Song, Su Shi (Su Dongpo) manteve resiliência mental no exílio. Como ele superou a adversidade? 🎋
+Na prática desta rotina : Renowned Song Dynasty poet, statesman, and culinary icon, Su Shi (Su Dongpo) authored immortal literary masterpieces like *Former Ode on the Red Cliff*. Exiled to remote provinces due to political factionalism, how did he maintain legendary emotional resilience and artistic vitality under extreme hardship? 🎋
 
-Todas as manhãs, Su Shi caminhava em bambuzais e cozinhava a fogo lento por horas. Essa imersão sensorial restaurou seu sistema nervoso.
+Na prática desta rotina : Every morning in exile, Su Shi took slow walks through misty bamboo groves, breathing in natural phytoncides. Afterward, he prepared slow-simmered dishes (the origin of *Dongpo Pork*) on a clay stove, watching tea and broth boil over hours. Immersing his senses in nature's sounds and slow culinary preparation restored his parasympathetic nervous system and transformed emotional trauma into timeless art.
 
-Hoje BuildSelf revela a ciência por trás da rotina de Su Shi.
+Na prática desta rotina : Today, BuildSelf explores the neuroscience behind Su Shi's bamboo walking and slow-cooking routine, showing how somatic resets and sensory mindfulness restore emotional balance.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -91,7 +91,7 @@ A <strong>'Rotina Somática Manual'</strong> ao cozinhar ativa o córtex sensori
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      A essência da culinária de Su Shi é esperar com serenidade. Saboreie os aromas e o ritmo.
+      Crie um ambiente de trabalho sem distrações e ajuste a iluminação para manter um alto nível de imersão.
     </p>
   </div>
 </div>

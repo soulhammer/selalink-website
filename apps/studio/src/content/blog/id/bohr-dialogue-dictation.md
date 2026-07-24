@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Niels Bohr mendirikan dasar mekanika kuantum dan memenangkan Hadiah Nobel. Meskipun memiliki intuisi ilmiah luar biasa, ia kesulitan menulis makalah secara pasif di mejanya. Bohr lebih memilih berdiri di depan papan tulis bersama istrinya Margrethe atau muridnya seperti Heisenberg untuk berdiskusi lisan. Pelajari efek kognitif dari bicara eksternal.
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
+
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

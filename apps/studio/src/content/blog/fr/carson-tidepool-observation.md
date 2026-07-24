@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Le classique Printemps silencieux a mis en garde contre l'abus de pesticides. Son auteur, Rachel Carson, a fait face aux intimidations et au cancer en écrivant. 🐚
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Ce qui l'a soutenue était une flaque de marée sur la côte du Maine. Carson s'y rendait à marée basse. À genoux, elle passait des heures à observer les étoiles de mer, dessinant et écrivant dans un carnet étanche.
-
-Aujourd'hui, BuildSelf explore les principes de guérison de Rachel Carson.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

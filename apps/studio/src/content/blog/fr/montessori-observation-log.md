@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Le Dr Maria Montessori, première femme médecin d'Italie. Comment a-t-elle découvert le potentiel humain ? 📝
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
-Montessori observait les enfants sans aucun préjugé, consignant rigoureusement les faits.
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
-Aujourd'hui, BuildSelf vous présente sa routine d'observation objective.
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

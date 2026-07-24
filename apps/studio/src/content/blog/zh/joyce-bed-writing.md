@@ -22,9 +22,7 @@ faqs:
 
 ---
 
-詹姆斯·乔伊斯，20世纪最具影响力的作家之一，以其意识流代表作《尤利西斯》开创了现代主义文学的先河。乔伊斯一生饱受严重眼疾折磨，经历了大大小小20多次手术。为了在如此痛苦的身体状况下坚持创作，他采用了独特的惯例：身穿白色大衣，趴在床上，用粗大的蓝色色笔在白纸上写字。让我们一起来探讨这种身体姿态和视觉优化是如何减轻认知负荷与感官疲劳 carbon 的。
-
-</div>
+在这一历史性惯例的实践中： 20 . . . . 在这一历史性惯例的实践中：</div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -16,7 +16,7 @@ faqs:
     answer: "Der Schwanz speichert Fettreserven. Rascher Gewichtsverlust deutet auf Anorexie, Stress oder Parasitenbefall hin und erfordert einen Tierarztbesuch."
 ---
 
-Der Leopardgecko ist das beliebteste Heimreptil. Gemäß ARAV-Richtlinien sind ein klares Temperaturgefälle (Warmzone 30°C ~ 32°C / Kaltzone 24°C ~ 26°C) und eine feuchte Häutungshöhle (Wet Cave) lebenswichtig für diese wechselwarmen Tiere.
+Der Leopardgecko ist das beliebteste Heimreptil. Gemäß ARAV-Richtlinien sind ein klares Temperaturgefälle (Warmzone 30°C ~ 32°C / Kaltzone 24°C ~ 26°C) und eine feuchte Häutungshöhle (Wet Cave) lebenswichtig für diese wechselwarmen Tiere. Die Bereitstellung einer konsistenten täglichen Gesundheitspflege und einer sicheren Umgebung sichert das Wohlbefinden Ihres Haustieres.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

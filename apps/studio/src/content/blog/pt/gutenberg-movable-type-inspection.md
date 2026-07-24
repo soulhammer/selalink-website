@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Inventor da imprensa de tipos móveis no século XV, Johannes Gutenberg democratizou o conhecimento. Imprimir a Bíblia de 42 linhas exigia precisão absoluta. 🔠
+Na prática desta rotina : Inventor of the movable type printing press in the 15th century, Johannes Gutenberg democratized knowledge and ignited the Renaissance and Scientific Revolution. Printing his famed 42-Line Bible required crafting and assembling tens of thousands of individual metal type pieces with zero margin for error. 🔠
 
-Todas as manhãs, Gutenberg inspecionava cada tipo de metal, verificando alinhamentos de 0,1 mm ao toque e com lupa.
+Na prática desta rotina : Every morning in his Mainz workshop under lantern light, Gutenberg individually inspected metal type blocks cast from lead and tin alloys. He used his fingertips and magnifying lenses to check for 0.1mm height alignment and edge crispness. By replacing mental assumptions with physical micro-inspection, he built a sensory quality control routine that delivered flawless printed text.
 
-Hoje BuildSelf revela a ciência por trás da rotina de inspeção de Gutenberg.
+Na prática desta rotina : Today, BuildSelf analyzes Johannes Gutenberg's 0.1mm type inspection routine, showing how sensory cross-checking suppresses heuristic bias and boosts precision.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -91,7 +91,7 @@ Deixar pequenos erros sem correção causa falhas em todo o sistema.
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Achar que 'Está bom o suficiente' causa erros graves. Consolide a inspeção de 5 minutos como regra.
+      Crie um ambiente de trabalho sem distrações e ajuste a iluminação para manter um alto nível de imersão.
     </p>
   </div>
 </div>

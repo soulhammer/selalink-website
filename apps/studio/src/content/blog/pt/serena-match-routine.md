@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Serena Williams, a rainha do tênis. No meio da pressão da quadra, a sua arma secreta eram as suas rotinas estritas. Antes de jogar, ouvia música com os mesmos fones de ouvido e quicava a bola 5 vezes antes de seu primeiro saque. Analisemos como a rotina pré-jogo ajuda a acalmar a amígdala.
+Na prática desta rotina transformadora:   23 ,      .                  20            .         ,      5 .           .                 .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

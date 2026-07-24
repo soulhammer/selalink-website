@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Biographie 'Kant' de Manfred Kuehn & Journal of Neurobiology of Learning and Memory (JN)"
 steps:
   - name: "Programmer une alerte à 15h30"
-    text: ""
+    text: "."
   - name: "Marcher 15 minutes en silence et sans smartphone"
-    text: ""
+    text: "."
   - name: "Prendre de grandes inspirations avant le retour"
-    text: ""
+    text: "."
 faqs:
   - question: "Pourquoi Emmanuel Kant se promenait-il à 15h30 précises chaque jour ?"
     answer: "C'était un rituel pour maintenir son rythme circadien afin de soutenir des recherches philosophiques abstraites, préservant sa santé."
@@ -27,8 +27,7 @@ Sa promenade était si régulière que les habitants de Königsberg réglaient, 
 
 Aujourd'hui, BuildSelf explore les vertus médicales de ce mode de vie rigoureux et vous propose une méthode pour l'appliquer au quotidien.
 
-
-</div>
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +59,7 @@ Les neurosciences valident cette intuition. La marche régulière (effort aérob
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Programmer une alerte à 15h30</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +69,7 @@ Les neurosciences valident cette intuition. La marche régulière (effort aérob
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Marcher 15 minutes en silence et sans smartphone</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +79,7 @@ Les neurosciences valident cette intuition. La marche régulière (effort aérob
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Prendre de grandes inspirations avant le retour</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

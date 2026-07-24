@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-ダイナマイトを発明しノーベル賞を創設したノーベル。355の発明の秘密は何だったのでしょうか？ 🧪
-
-過酷な実験の後、ノーベルは毎夜書斎に戻り、多言語で実験記録を復習しました。これが彼の最高のメタ認知訓練でした。
-
-今日のBuildSelfではノーベルの夜の復習ルーティンを紹介します。
+この歴史的習慣の実践において： , . 355 ? 🧪 この歴史的習慣の実践において： , . , , , , . 15 . この歴史的習慣の実践において： BuildSelf .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

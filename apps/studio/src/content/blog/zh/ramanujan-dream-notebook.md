@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-在数论与无穷级数领域推导出3900多个独创公式的印度天才数学家斯里尼瓦瑟·拉马努金。他那惊人的直觉灵感究竟源自何处？ 📐
-
-拉马努金经常在梦中梦见女神向他展示复杂公式。醒来后在大脑处于α波状态的最初几分钟内，他会立即在床头笔记本上记下这些公式。
-
-今天，BuildSelf 将带您探究拉马努金“醒后直觉笔记”惯例的科学原理及实践指南。
+在这一历史性惯例的实践中： 3,900 , . , ? 📐 在这一历史性惯例的实践中： , (Namagiri) . , . (Alpha Wave) , () . 在这一历史性惯例的实践中： BuildSelf ' ' .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

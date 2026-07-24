@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Manfred Kuehns Biografie 'Kant' & Journal of Neurobiology of Learning and Memory (JN)"
 steps:
   - name: "Einen Wecker auf 15:30 Uhr stellen"
-    text: ""
+    text: "."
   - name: "15 Minuten schweigsam gehen – ohne Smartphone"
-    text: ""
+    text: "."
   - name: "Tief durchatmen und zurückkehren"
-    text: ""
+    text: "."
 faqs:
   - question: "Warum ging Immanuel Kant jeden Tag um Punkt 15:30 Uhr spazieren?"
     answer: "Es war ein strenges Ritual, um den biologischen Rhythmus aufrechtzuerhalten, um jahrzehntelang abstrakte philosophische Forschung zu betreiben."
@@ -27,8 +27,7 @@ Sein Spaziergang war so pünktlich, dass die Bürger von Königsberg angeblich i
 
 Heute untersucht BuildSelf die medizinischen Vorteile dieser strengen Lebensweise und zeigt eine praktische Umsetzung für den modernen Alltag.
 
-
-</div>
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +59,7 @@ Die moderne Hirnforschung stimmt dem zu. Regelmäßiges Gehen verbessert die Dur
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Einen Wecker auf 15:30 Uhr stellen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +69,7 @@ Die moderne Hirnforschung stimmt dem zu. Regelmäßiges Gehen verbessert die Dur
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">15 Minuten schweigsam gehen – ohne Smartphone</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +79,7 @@ Die moderne Hirnforschung stimmt dem zu. Regelmäßiges Gehen verbessert die Dur
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tief durchatmen und zurückkehren</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

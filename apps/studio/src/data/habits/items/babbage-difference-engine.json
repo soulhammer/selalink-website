@@ -1,0 +1,38 @@
+{
+  "id": "babbage-difference-engine",
+  "name": "찰스 배비지",
+  "gender": "male",
+  "era": "근대",
+  "location": "영국",
+  "lifespan": "1791~1871",
+  "birthYear": 1791,
+  "bio": "19세기 영국의 수학자이자 현대 컴퓨터의 아버지. 세계 최초의 기계식 계산기인 차분기관(Difference Engine)과 해석기관(Analytical Engine)을 설계하여 정보 혁명의 기틀을 마련했습니다.",
+  "habitName": "기계적 톱니바퀴 연산 모듈화 분해 습관",
+  "tags": [
+    "#몰입",
+    "#단순",
+    "#논리",
+    "#컴퓨터"
+  ],
+  "timeOfDay": "morning",
+  "requiredItems": [
+    "정밀 도면 수첩",
+    "콤파스",
+    "자"
+  ],
+  "frequency": "매일 아침 3시간",
+  "historicalStory": "당대 천문 항해표에 수많은 인간 계산 수치 오류가 존재하는 것을 목격한 배비지는 '이 모든 연산을 정밀한 기계 톱니바퀴 시스템으로 분해할 수 있다면 오차를 0%로 만들 수 있다'는 신념으로 매일 아침 복잡한 연산 과정을 수백 개의 독립 모듈로 나눈 청사진을 그려냈습니다.",
+  "sciencePrinciples": "거대한 난제를 독립적인 최소 단위 모듈로 분해하여 연쇄 구조화하는 습관은 전전두엽의 논리 연산 부담을 비약적으로 줄여주며, 의사결정 마비 현상(Analysis Paralysis)을 예방합니다.",
+  "quote": "오차는 인간의 감정에서 나오고, 진리는 기계적 정밀함에서 완성된다.",
+  "trigger": "복잡하고 거대한 프로젝트나 많은 데이터 연산 과제를 마주했을 때",
+  "modernGuide": [
+    "복잡한 프로젝트를 더 이상 쪼갤 수 없는 최소 작업 단위(Module)로 분해합니다.",
+    "각 모듈 간의 입출력 인과관계를 차례대로 정렬합니다.",
+    "첫 번째 최소 모듈부터 하나씩 결함 없이 완성해 나갑니다."
+  ],
+  "actionName": "톱니바퀴 모듈화 연산 분해",
+  "sources": [
+    "Charles Babbage, Passages from the Life of a Philosopher (1864)",
+    "Cognitive Science Journal"
+  ]
+}

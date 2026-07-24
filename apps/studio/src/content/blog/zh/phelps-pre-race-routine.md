@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-在奥运史上获得前无古人后无来者的28枚奖牌（23枚金牌）并成为游泳神话的迈克尔·菲尔普斯。在强手云集的紧迫起跳台前，他却保持着惊人的冷静与理智。在他完美的精神控制力背后，是一套在比赛开始前整整两小时无差错运行的超精密行为惯例。
+通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

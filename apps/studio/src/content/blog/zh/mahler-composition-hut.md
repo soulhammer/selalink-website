@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-古斯塔夫·马勒，这位奥地利大师创作了包含庞大管弦乐编制的不朽交响曲。在他繁忙的指挥生涯中，他必须在有限的夏季度假期间倾注全部的音乐能量。为了实现这一目标，马勒在阿尔卑斯深林中建造了一座小巧的“作曲小屋”。每天清晨6点，早餐被放在门口后，马勒就会将自己锁在里面直到中午。我们探讨了这种绝对的孤立规程如何引导大脑进入巅峰创意表现。
+在这一历史性惯例的实践中： . . ' (Composition Hut)'. 6, , . 脳科学的 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

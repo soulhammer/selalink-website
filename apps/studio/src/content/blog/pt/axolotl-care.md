@@ -16,7 +16,7 @@ faqs:
     answer: "Indica danos por calor ou infecção fúngica (Saprolegnia). Baixe a temperatura para 16°C e aumente as trocas de água."
 ---
 
-O Axolote é um anfíbio aquático incrível com capacidade de regeneração. Conforme a Amphibian Ark, a água deve ser mantida fria (16°C ~ 18°C) e sem pedras pequenas no fundo para evitar engolimento fatal.
+O Axolote é um anfíbio aquático incrível com capacidade de regeneração. Conforme a Amphibian Ark, a água deve ser mantida fria (16°C ~ 18°C) e sem pedras pequenas no fundo para evitar engolimento fatal. Oferecer cuidados de saúde diários constantes e um ambiente seguro garante o bem-estar a longo prazo do seu animal.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

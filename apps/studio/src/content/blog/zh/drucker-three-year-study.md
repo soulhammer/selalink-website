@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-奠定现代管理学基础并展现商业地平线的学者彼得·德鲁克。他是如何在90多岁的高龄依然保持年轻人般清晰的头脑和敏锐的洞察力，并留下无数著作的？秘密就在于他独特的智力常规——三年学习周期。
+通过每天系统地实践这一历史性惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

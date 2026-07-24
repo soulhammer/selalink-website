@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-千利休每天清晨亲手打扫茶室外的庭院小路，以此获得与自然的融合并拂去心中的杂念。这是一种将注意力锚定在物理刺激上、从而消除大脑认知噪声的有效方法。
+通过每天系统地实践这一历史性惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -16,7 +16,7 @@ faqs:
     answer: "Sim, Jindos são independentes e territoriais. Busque a neutralidade social."
 ---
 
-O cão Jindo é um tesouro nacional da Coreia. Embora criem um laço forte com o dono, sua natureza cautelosa exige socialização precoce. Hoje na PetSelf, compartilhamos dicas de socialização.
+O cão Jindo é um tesouro nacional da Coreia. Embora criem um laço forte com o dono, sua natureza cautelosa exige socialização precoce. Hoje na PetSelf, compartilhamos dicas de socialização. Oferecer cuidados de saúde diários constantes e um ambiente seguro garante o bem-estar a longo prazo do seu animal.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

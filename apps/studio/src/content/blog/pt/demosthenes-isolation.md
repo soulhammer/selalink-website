@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Vidas Paralelas 'Vida de Demóstenes' de Plutarco e pesquisas sobre controle de estímulos da APA"
 steps:
   - name: "Isolar fisicamente o smartphone"
-    text: ""
+    text: "."
   - name: "Definir um temporizador Pomodoro e focar"
-    text: ""
+    text: "."
   - name: "Fazer uma pausa offline completa"
-    text: ""
+    text: "."
 faqs:
   - question: "Porque é que Demóstenes rapou metade da cabeça?"
     answer: "Ao ridicularizar a sua aparência, impediu-se de sair à rua, forçando-se a superar a tentação e a ficar no seu estúdio a praticar."
@@ -29,8 +29,7 @@ Forçado a ficar em casa porque tinha vergonha de aparecer em público com aquel
 
 Hoje, o BuildSelf explora o segredo de Demóstenes, que desenhou um ambiente extremo para superar a fraqueza humana, e como aplicar essa lógica na era moderna dos smartphones.
 
-
-</div>
+Esta prática diária essencial estimula um foco profundo e uma clareza mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +61,7 @@ Na psicologia moderna, esse conceito é considerado uma lei de extrema importân
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Isolar fisicamente o smartphone</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +71,7 @@ Na psicologia moderna, esse conceito é considerado uma lei de extrema importân
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Definir um temporizador Pomodoro e focar</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +81,7 @@ Na psicologia moderna, esse conceito é considerado uma lei de extrema importân
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Fazer uma pausa offline completa</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

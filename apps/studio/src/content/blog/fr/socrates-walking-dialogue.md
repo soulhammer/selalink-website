@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Socrate, le sage d'Athènes qui a posé las bases de la philosophie occidentale. Les écrits de Platon décrivent une habitude quotidienne unique : marcher sans cesse sur la place publique ou en forêt, posant des questions et débattant avec autrui. Socrate marchait pieds nus, même en hiver, sous l'ombre des arbres de l'Agora. Pour lui, la marche n'était pas un simple exercice physique, mais un laboratoire de sagesse qui synchronisait le mouvement corporel avec la plasticité cérébrale. Aujourd'hui, BuildSelf partage les secrets de cette marche réflexive.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

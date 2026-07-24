@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-夏目漱石は毎朝、インスピレーションを待たずに機械的に机に向かいました。これは脳のドーパミン分泌を促し、創造的な集中力を呼び覚ます作業興奮ルーティンです。
+この歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持続可能な深い集中力を養うことができます。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

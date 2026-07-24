@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-创造韩文、繁荣科学和文化的朝鲜历史上最伟大的圣君世宗大王。他在繁重的公务和疾病缠身的情况下，能够做出令人惊叹的创意和英明决定的秘诀是什么？世宗大王每天凌晨3-4点左右最先起床，在烛光下看书开始新的一天。在这安静的时间里，他集中精力阅读历史书和经典，为一早与臣子们进行的政策辩论“经筵”做准备。今天，BuildSelf 向您介绍世宗大王“拂晓阅读”常规的脑科学原理和现代实践方法。
+在这一历史性惯例的实践中： , . ? 3~4 . '' . BuildSelf ' ' 脳科学的 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

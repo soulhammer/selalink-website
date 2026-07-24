@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Socrates, orang bijak Athena yang mendirikan akar filsafat Barat. Catatan Plato menjelaskan kebiasaan sehari-hari yang unik: berjalan tanpa henti di alun-alun atau hutan, mengajukan pertanyaan & berdebat dengan orang lain. Socrates berjalan perlahan di bawah rindangnya pepohonan Agora, bertelanjang kaki bahkan di musim dingin. Baginya, berjalan bukan sekadar kebugaran, melainkan laboratorium kebijaksanaan yang menyelaraskan gerakan fisik dengan plastisitas otaknya. Hari ini, BuildSelf membagikan kebenaran ilmiah di balik kebiasaan ini.
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
+
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

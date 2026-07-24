@@ -13534,5 +13534,475 @@
       "habitName": "Mood Ribbon for Focus Signal",
       "quote": "Set visual Do-Not-Disturb signal"
     }
+  },
+  "euclid-axiomatic-thinking": {
+    "ko": {
+      "name": "유클리드",
+      "habitName": "공리(Axiom)부터 쌓아 올리는 제1원리 연쇄 사고 루틴",
+      "quote": "기하학에는 왕도가 없다."
+    },
+    "en": {
+      "name": "How First-Principles Logic Eliminates Decision Paralysis",
+      "habitName": "Euclid's Axiomatic Thinking",
+      "quote": "Explore how ancient mathematician Euclid deconstructed complex problems into indisputable axioms, establishing the blueprint for modern first-principles thinking."
+    },
+    "ja": {
+      "name": "ユークリッド",
+      "habitName": "公理的思考：第一原理の論理連鎖で 複雑な意思決定の麻痺を 破る Super Routine",
+      "quote": "古代ギリシャの数学者ユークリッドが、複雑な課題を疑う余地のない公理（Axiom）へと解体して解決した、第一原理思考の歴史と脳科学を解説します。"
+    },
+    "zh": {
+      "name": "欧几里得",
+      "habitName": "公理化思考：如何用第一性原理解构复杂决策与打破困局",
+      "quote": "探索古希腊数学家欧几里得如何将复杂问题解构为无可争议的公理，建立现代第一性原理思考的蓝图。"
+    },
+    "es": {
+      "name": "Cómo la Lógica de Primeros Principios Elimina la Parálisis de Decisión",
+      "habitName": "El Pensamiento Axiomático de Euclides",
+      "quote": "Explore cómo el antiguo matemático Euclides descompuso problemas complejos en axiomas indiscutibles, estableciendo el diseño para el pensamiento moderno."
+    },
+    "fr": {
+      "name": "Comment la logique des premiers principes élimine la paralysie décisionnelle",
+      "habitName": "La Pensée Axiomatique d'Euclide",
+      "quote": "Découvrez comment le mathématicien antique Euclide a décomposé des problèmes complexes en axiomes indiscutables."
+    },
+    "de": {
+      "name": "Wie die Logik der ersten Prinzipien Entscheidungsparalyse auflöst",
+      "habitName": "Euklids axiomatisches Denken",
+      "quote": "Erfahren Sie, wie der antike Mathematiker Euklid komplexe Probleme in unbestreitbare Axiome zerlegte und damit die Grundlage für modernes Denken schuf."
+    },
+    "pt": {
+      "name": "Como a Lógica de Primeiros Princípios Elimina a Paralisia de Decisão",
+      "habitName": "O Pensamento Axiomático de Euclides",
+      "quote": "Explore como o antigo matemático Euclides descompôs problemas complexos em axiomas indiscutíveis."
+    },
+    "id": {
+      "name": "Cara Logika Prinsip Pertama Menghilangkan Paralisis Keputusan",
+      "habitName": "Pemikiran Aksiomatis Euklides",
+      "quote": "Jelajahi bagaimana matematikawan kuno Euklides mengurai masalah kompleks menjadi aksioma yang tidak dapat disangkal."
+    }
+  },
+  "neruda-green-ink-flow": {
+    "ko": {
+      "name": "파블로 네루다",
+      "habitName": "초록색 잉크와 시각적 파장으로 창의적 몰입을 유도하는 시각 리프레시 루틴",
+      "quote": "초록색은 희망의 색이자 내 시가 숨 쉬는 자연의 색이다."
+    },
+    "en": {
+      "name": "How Color Wavelengths Unlock Creative Flow",
+      "habitName": "Pablo Neruda's Green Ink Routine",
+      "quote": "Discover why Nobel laureate Pablo Neruda exclusively wrote in green ink, and how green light wavelengths induce alpha brain waves for effortless creative writing."
+    },
+    "ja": {
+      "name": "パブロ・ネルーダの緑",
+      "habitName": "インク執筆術：色彩波長で 脳の創造的没頭（Flow）を 呼び覚ます Super Routine",
+      "quote": "ノーベル文学賞受賞者のパブロ・ネルーダが生涯緑のインクだけで 詩を書き続けた理由と、緑色の波長が脳のアルファ波を誘導する色彩心理学を解説します。"
+    },
+    "zh": {
+      "name": "巴勃罗·聂鲁达",
+      "habitName": "绿色墨水写作习惯：色彩波长如何激发大脑的创造力",
+      "quote": "探索诺贝尔奖得主巴勃罗·聂鲁达为何坚持用绿色墨水写作，以及绿色光波如何诱发α脑波促进创意流淌。"
+    },
+    "es": {
+      "name": "Cómo las Longitudes de Onda de Color Liberan el Flujo Creativo",
+      "habitName": "El Hábito de la Tinta Verde de Pablo Neruda",
+      "quote": "Descubra por qué el premio Nobel Pablo Neruda escribía exclusivamente con tinta verde y cómo la longitud de onda verde induce ondas alfa en el cerebro."
+    },
+    "fr": {
+      "name": "Comment la longueur d'onde des couleurs libère le flux créatif",
+      "habitName": "La Routine de l'Encre Verte de Pablo Neruda",
+      "quote": "Découvrez pourquoi le prix Nobel Pablo Neruda écrivait exclusivement à l'encre verte."
+    },
+    "de": {
+      "name": "Wie Farbwellenlängen kreativen Flow freisetzen",
+      "habitName": "Pablo Nerudas grüne Tinte-Routine",
+      "quote": "Erfahren Sie, warum der Nobelpreisträger Pablo Neruda ausschließlich mit grüner Tinte schrieb und wie grüne Lichtwellen Alpha-Gehirnwellen induzieren."
+    },
+    "pt": {
+      "name": "Como as Ondas de Cor Desbloqueiam o Fluxo Criativo",
+      "habitName": "O Hábito da Tinta Verde de Pablo Neruda",
+      "quote": "Descubra por que o prêmio Nobel Pablo Neruda escrevia exclusivamente com tinta verde."
+    },
+    "id": {
+      "name": "Cara Panjang Gelombang Warna Membuka Aliran Kreatif",
+      "habitName": "Rutinitas Tinta Hijau Pablo Neruda",
+      "quote": "Pelajari mengapa peraih Nobel Pablo Neruda selalu menulis dengan tinta hijau dan bagaimana gelombang warna hijau menginduksi gelombang otak alfa."
+    }
+  },
+  "pascal-math-focus": {
+    "ko": {
+      "name": "블레즈 파스칼",
+      "habitName": "고난도 수학 몰입을 통한 뇌 감각 전환 루틴",
+      "quote": "인간의 모든 문제는 방 안에 홀로 조용히 앉아 있지 못하는 데서 비롯된다."
+    },
+    "en": {
+      "name": "How High-Cognition Tasks Overcome Pain & Stress",
+      "habitName": "Blaise Pascal's Geometry Focus",
+      "quote": "Discover how 17th-century polymath Blaise Pascal used intense mathematical problem-solving to block chronic pain, and how attentional gating theory validates his routine."
+    },
+    "ja": {
+      "name": "ブレーズ・パスカル",
+      "habitName": "幾何学集中：高難度タスクで 痛みとストレスを脳から 消し去る Super Routine",
+      "quote": "17世紀の天才ブレーズ・パスカルが激しい 歯痛や頭痛を幾何学の集中で 克服した歴史的事実と、注意ゲイン制御の科学的仕組みを解説します。"
+    },
+    "zh": {
+      "name": "布莱士·帕斯卡",
+      "habitName": "高难几何专注法：用深度认知重塑大脑与抗击压力",
+      "quote": "探索17世纪博学者布莱士·帕斯卡如何利用高难度数学解题阻断慢性疼痛，以及注意力门控理论的科学依据。"
+    },
+    "es": {
+      "name": "Cómo las Tareas de Alta Cognición Eliminan el Estrés y el Dolor",
+      "habitName": "El Enfoque Geométrico de Blaise Pascal",
+      "quote": "Descubra cómo el polímata del siglo XVII Blaise Pascal utilizó la resolución de problemas matemáticos intensos para bloquear el dolor crónico y su validación científica."
+    },
+    "fr": {
+      "name": "Comment surmonter la douleur et le stress par la haute cognition",
+      "habitName": "La Focalisation Géométrique de Blaise Pascal",
+      "quote": "Découvrez comment le polymathe du XVIIe siècle Blaise Pascal a utilisé la résolution de problèmes mathématiques pour bloquer la douleur chronique."
+    },
+    "de": {
+      "name": "Wie hochkognitive Aufgaben Schmerz und Stress im Gehirn ausschalten",
+      "habitName": "Blaise Pascals Geometrie-Fokus",
+      "quote": "Entdecken Sie, wie der Universalgelehrte Blaise Pascal im 17. Jahrhundert komplexe Mathematik nutzte, um Schmerzen und Stress zu blockieren."
+    },
+    "pt": {
+      "name": "Como Tarefas de Alta Cognição Eliminam a Dor e o Estresse",
+      "habitName": "O Foco Geométrico de Blaise Pascal",
+      "quote": "Descubra como o polímata do século XVII Blaise Pascal usou a resolução de problemas matemáticos intensos para bloquear a dor crônica."
+    },
+    "id": {
+      "name": "Cara Tugas Kognitif Tinggi Mengatasi Nyeri dan Stres",
+      "habitName": "Fokus Geometri Blaise Pascal",
+      "quote": "Pelajari bagaimana Blaise Pascal menggunakan pemecahan masalah matematika tingkat tinggi untuk memblokir rasa sakit kronis dan stres."
+    }
+  },
+  "sagan-cosmic-perspective": {
+    "ko": {
+      "name": "칼 세이건",
+      "habitName": "우주적 관점 조망으로 일상의 스트레스를 리셋하는 3분 관점 전환 루틴",
+      "quote": "우리가 아는 모든 이들이 살았던 곳은 오직 저 아득한 빛의 한 점, 창백한 푸른 점뿐이다."
+    },
+    "en": {
+      "name": "How the Pale Blue Dot Habit Resets Stress & Anxiety",
+      "habitName": "Carl Sagan's Cosmic Perspective",
+      "quote": "Learn how renowned astronomer Carl Sagan used a 3-minute cosmic zoom-out to conquer anxiety, and how the Awe Effect reduces amygdala stress in the brain."
+    },
+    "ja": {
+      "name": "カール・セーガン",
+      "habitName": "宇宙的視点：『淡い青い点』習慣で 日常の不安とストレスを リセットする Super Routine",
+      "quote": "天文学者カール・セーガンが3分間の宇宙的視点（ズームアウト）で日常の不安を払拭した歴史的事実と、『畏敬の念効果（Awe Effect）』の脳科学的仕組みを解説します。"
+    },
+    "zh": {
+      "name": "卡尔·萨根",
+      "habitName": "宇宙视角：如何用“暗淡蓝点”习惯消除日常焦虑与重塑心态",
+      "quote": "学习知名天文学家卡尔·萨根如何通过3分钟宇宙缩放视角战胜焦虑，以及“敬畏效应”缓解大脑杏仁核压力的原理。"
+    },
+    "es": {
+      "name": "Cómo el Hábito del Pálido Punto Azul Reinicia el Estrés",
+      "habitName": "La Perspectiva Cósmica de Carl Sagan",
+      "quote": "Aprenda cómo el astrónomo Carl Sagan utilizó un alejamiento cósmico de 3 minutos para conquistar la ansiedad y cómo el Efecto de Asombro reduce el estrés."
+    },
+    "fr": {
+      "name": "Comment le réflexe du point bleu pâle réinitialise le stress",
+      "habitName": "La Perspective Cosmique de Carl Sagan",
+      "quote": "Découvrez comment l'astronome Carl Sagan a utilisé un zoom arrière cosmique de 3 minutes pour surmonter l'anxiété."
+    },
+    "de": {
+      "name": "Wie der blasse blaue Punkt Stress und Angst auflöst",
+      "habitName": "Carl Sagans kosmische Perspektive",
+      "quote": "Erfahren Sie, wie der Astronom Carl Sagan mit einem 3-minütigen kosmischen Zoom-Out Angst überwand und wie der Awe-Effekt den Amygdala-Stress reduziert."
+    },
+    "pt": {
+      "name": "Como o Hábito do Pálido Ponto Azul Reseta o Estresse",
+      "habitName": "A Perspectiva Cósmica de Carl Sagan",
+      "quote": "Aprenda como o astrônomo Carl Sagan usou um zoom-out cósmico de 3 minutos para vencer a ansiedade."
+    },
+    "id": {
+      "name": "Cara Rutinitas Titik Biru Pucat Mengatasi Stres dan Kecemasan",
+      "habitName": "Perspektif Kosmik Carl Sagan",
+      "quote": "Pelajari bagaimana astronom Carl Sagan menggunakan zoom-out kosmik 3 menit untuk mengalahkan kecemasan."
+    }
+  },
+  "saintexupery-cockpit-contemplation": {
+    "ko": {
+      "name": "앙투안 드 생텍쥐페리",
+      "habitName": "고도의 고독 속 메모와 군더더기 깎아내기 루틴",
+      "quote": "완벽함이란 더 이상 보탤 것이 없을 때가 아니라, 더 이상 뺄 것이 없을 때 완성된다."
+    },
+    "en": {
+      "name": "How Solitude & Editing Reveal Perfection",
+      "habitName": "Saint-Exupéry's Cockpit Contemplation",
+      "quote": "Discover how aviator-author Antoine de Saint-Exupéry used high-altitude solitude and relentless subtraction to write timeless literature like The Little Prince."
+    },
+    "ja": {
+      "name": "サン＝テグジュペリ",
+      "habitName": "操縦席メモ術：孤高の孤独と 削ぎ落としで 本質を抽出する Super Routine",
+      "quote": "『星の王子さま』の著者で飛行士のサン＝テグジュペリが、上空の操縦席という孤独の中でアイデアを温め、贅肉を削ぎ落として本質に到達した執筆習慣を解説します。"
+    },
+    "zh": {
+      "name": "圣埃克苏佩里",
+      "habitName": "驾驶舱冥想法：如何在极致孤独与删繁就简中提炼本质",
+      "quote": "探索飞行员作家圣埃克苏佩里如何在大气层高空的孤独中沉思，并用精简法则创作出《小王子》等不朽名著。"
+    },
+    "es": {
+      "name": "Cómo la Soledad y la Edición Revelan la Perfección",
+      "habitName": "La Contemplación en Cabina de Saint-Exupéry",
+      "quote": "Descubra cómo el aviador y autor Antoine de Saint-Exupéry utilizó la soledad a gran altitud para escribir literatura atemporal como El Principito."
+    },
+    "fr": {
+      "name": "Comment la solitude et l'édition révèlent la perfection",
+      "habitName": "La Contemplation en Cockpit de Saint-Exupéry",
+      "quote": "Découvrez comment l'aviateur et auteur Antoine de Saint-Exupéry a utilisé la solitude en haute altitude pour écrire Le Petit Prince."
+    },
+    "de": {
+      "name": "Wie Einsamkeit und Radierung von Ablenkung Perfektion enthüllen",
+      "habitName": "Saint-Exupérys Cockpit-Kontemplation",
+      "quote": "Entdecken Sie, wie der Flieger und Autor Antoine de Saint-Exupéry die Einsamkeit in großer Höhe nutzte, um zeitlose Literatur wie Der kleine Prinz zu schreiben."
+    },
+    "pt": {
+      "name": "Como a Solidão e a Edição Revelam a Perfeição",
+      "habitName": "A Contemplação na Cabine de Saint-Exupéry",
+      "quote": "Descubra como o aviador e autor Antoine de Saint-Exupéry usou a solidão em grande altitude para escrever obras como O Pequeno Príncipe."
+    },
+    "id": {
+      "name": "Cara Kesendirian dan Penyuntingan Menemukan Kesempurnaan",
+      "habitName": "Kontemplasi Kokpit Saint-Exupéry",
+      "quote": "Pelajari bagaimana aviator dan penulis Antoine de Saint-Exupéry menggunakan kesendirian di ketinggian untuk menulis karya legendaris."
+    }
+  },
+  "babbage-difference-engine": {
+    "ko": {
+      "name": "찰스 배비지",
+      "habitName": "기계적 톱니바퀴 연산 모듈화 분해 습관",
+      "quote": "오차는 인간의 감정에서 나오고, 진리는 기계적 정밀함에서 완성된다."
+    },
+    "en": {
+      "name": "How Modular Breakdown Eliminates Errors",
+      "habitName": "Charles Babbage's Difference Engine Logic",
+      "quote": "Discover how 19th-century computing father Charles Babbage eliminated calculation errors by designing mechanical cog modules, and how system modularity lowers cognitive load."
+    },
+    "ja": {
+      "name": "チャールズ・バベッジ",
+      "habitName": "階差機関分解術：機械的歯車の モジュール化で 誤差とミスを 0%にする Super Routine",
+      "quote": "19世紀のコンピュータの父チャールズ・バベッジが、精密な歯車モジュール化で誤差ゼロの計算機を設計した歴史的事実と、システムモジュール化の脳科学を解説します。"
+    },
+    "zh": {
+      "name": "用齿轮模块化彻底消除人工误差",
+      "habitName": "查尔斯·巴贝奇差分机逻辑解构习惯",
+      "quote": "探索19世纪计算机之父查尔斯·巴贝奇如何通过机械齿轮模块化消除计算误差，以及系统模块化降低大脑认知负荷的科学依据。"
+    },
+    "es": {
+      "name": "Cómo la Descomposición Modular Elimina Errores",
+      "habitName": "La Lógica de la Máquina Diferencial de Charles Babbage",
+      "quote": "Descubra cómo el padre de la computación del siglo XIX Charles Babbage eliminó los errores de cálculo al diseñar módulos mecánicos."
+    },
+    "fr": {
+      "name": "Comment la décomposition modulaire élimine les erreurs",
+      "habitName": "La Logique de la Machine Différentielle de Charles Babbage",
+      "quote": "Découvrez comment le père de l'informatique du XIXe siècle Charles Babbage a éliminé les erreurs de calcul."
+    },
+    "de": {
+      "name": "Wie modulare Zerlegung Fehler eliminiert",
+      "habitName": "Charles Babbages Differenzmaschinen-Logik",
+      "quote": "Erfahren Sie, wie der Vater des Computers Charles Babbage im 19. Jahrhundert Rechenfehler durch mechanische Module eliminierte."
+    },
+    "pt": {
+      "name": "Como a Decomposição Modular Elimina Erros",
+      "habitName": "A Lógica da Máquina Diferencial de Charles Babbage",
+      "quote": "Descubra como o pai da computação do século XIX Charles Babbage eliminou erros de cálculo ao projetar módulos mecânicos."
+    },
+    "id": {
+      "name": "Cara Dekomposisi Modular Menghilangkan Kesalahan",
+      "habitName": "Logika Mesin Diferensial Charles Babbage",
+      "quote": "Pelajari bagaimana bapak komputasi abad ke-19 Charles Babbage menghilangkan kesalahan kalkulasi dengan merancang modul mekanis."
+    }
+  },
+  "daguerre-silver-plate": {
+    "ko": {
+      "name": "루이 다게르",
+      "habitName": "은판 노출 시간 측정 및 순간 시각 고정 습관",
+      "quote": "빛은 그림을 그리는 붓이고, 은판은 그 순간을 담는 영원한 그릇이다."
+    },
+    "en": {
+      "name": "How Light-Exposure Habits Freeze Peak Insights",
+      "habitName": "Louis Daguerre's Instant Fixation",
+      "quote": "Discover how 19th-century inventor Louis Daguerre revolutionized photography through silver-plate exposure habits, and how visual capture anchors memory in the brain."
+    },
+    "ja": {
+      "name": "ルイ・ダゲール",
+      "habitName": "銀板露出術：刹那の瞬間を 永久に固定し 最上のインスピレーションを 保存する Super Routine",
+      "quote": "19世紀のオランダの発明家ルイ・ダゲールが、銀板露出法により人類史上初の直感的な写真を開発した歴史的事実と、瞬間視覚固定の脳科学を解説します。"
+    },
+    "zh": {
+      "name": "在曝光瞬间捕捉闪耀灵感与建立永恒记录",
+      "habitName": "路易·达盖尔银版定格法",
+      "quote": "探索19世纪法国发明家路易·达盖尔如何通过银版显影曝光习惯发明划时代的实用摄影术，以及视觉定格强化大脑记忆的科学依据。"
+    },
+    "es": {
+      "name": "Cómo los Hábitos de Exposición Congelan las Mejores Ideas",
+      "habitName": "La Fijación Instantánea de Louis Daguerre",
+      "quote": "Descubra cómo el inventor del siglo XIX Louis Daguerre revolucionó la fotografía a través del hábito de exposición en placa de plata."
+    },
+    "fr": {
+      "name": "Comment l'exposition fige les meilleures idées",
+      "habitName": "La Fixation Instantanée de Louis Daguerre",
+      "quote": "Découvrez comment l'inventeur du XIXe siècle Louis Daguerre a révolutionné la photographie grâce à la fixation sur plaque d'argent."
+    },
+    "de": {
+      "name": "Wie Belichtungsgewohnheiten Inspiration einfrieren",
+      "habitName": "Louis Daguerres augenblickliche Fixierung",
+      "quote": "Erfahren Sie, wie Louis Daguerre im 19. Jahrhundert die Fotografie durch Silberplatten-Belichtung revolutionierte."
+    },
+    "pt": {
+      "name": "Como Hábitos de Exposição Congelam Grandes Insights",
+      "habitName": "A Fixação Instantânea de Louis Daguerre",
+      "quote": "Descubra como o inventor do século XIX Louis Daguerre revolucionou a fotografia através da fixação em placas de prata."
+    },
+    "id": {
+      "name": "Cara Kebiasaan Paparan Membekukan Wawasan Terbaik",
+      "habitName": "Fiksasi Instant Louis Daguerre",
+      "quote": "Pelajari bagaimana penemu abad ke-19 Louis Daguerre merevolusi fotografi melalui kebiasaan paparan pelat perak."
+    }
+  },
+  "harvey-blood-circulation": {
+    "ko": {
+      "name": "윌리엄 하비",
+      "habitName": "실험적 정량 수치 계산 및 혈액 순환 검증 습관",
+      "quote": "진리는 교과서의 전통에 있지 않고, 오직 객관적으로 측정된 자연의 수치 속에 존재한다."
+    },
+    "en": {
+      "name": "How Empirical Data Overturns Blind Beliefs",
+      "habitName": "William Harvey's Quantitative Proof",
+      "quote": "Discover how 17th-century physician William Harvey proved blood circulation using quantitative math, shattering 2,000 years of Galenic dogma."
+    },
+    "ja": {
+      "name": "ウィリアム・ハーヴィー",
+      "habitName": "血液循環定量検証術：客観的数値計算で 盲目的な偏見を 打ち破る Super Routine",
+      "quote": "17世紀イギリスの医師ウィリアム・ハーヴィーが、心臓拍出量の数学的定量計算により2000年間支配した通説を打ち破った歴史的事実と数値検証の脳科学を解説します。"
+    },
+    "zh": {
+      "name": "用客观计算破除盲从成见",
+      "habitName": "威廉·哈维血液循环定量验证法",
+      "quote": "探索17世纪英国医师威廉·哈维如何通过心输出量的数学定量计算，破除统治西方两千年的盲从成见，建立现代生理学基石。"
+    },
+    "es": {
+      "name": "Cómo los Datos Empíricos Derriban Creencias Ciegas",
+      "habitName": "La Prueba Cuantitativa de William Harvey",
+      "quote": "Descubra cómo el médico del siglo XVII William Harvey demostró la circulación sanguínea mediante matemáticas cuantitativas."
+    },
+    "fr": {
+      "name": "Comment les données empiriques renversent les fausses croyances",
+      "habitName": "La Preuve Quantitative de William Harvey",
+      "quote": "Découvrez comment le médecin du XVIIe siècle William Harvey a prouvé la circulation sanguine grâce aux mathématiques."
+    },
+    "de": {
+      "name": "Wie empirische Daten blinde Überzeugungen stürzen",
+      "habitName": "William Harveys quantitativer Beweis",
+      "quote": "Erfahren Sie, wie William Harvey im 17. Jahrhundert den Blutkreislauf mathematisch bewies und alte Dogmen stürzte."
+    },
+    "pt": {
+      "name": "Como Dados Empíricos Derrubam Crenças Cegas",
+      "habitName": "A Prova Quantitativa de William Harvey",
+      "quote": "Descubra como o médico do século XVII William Harvey provou a circulação sanguínea usando matemática quantitativa."
+    },
+    "id": {
+      "name": "Cara Data Empiris Mengatur Ulang Kepercayaan Buta",
+      "habitName": "Bukti Kuantitatif William Harvey",
+      "quote": "Pelajari bagaimana dokter abad ke-17 William Harvey membuktikan sirkulasi darah menggunakan matematika kuantitatif."
+    }
+  },
+  "hooke-microscopic-sketching": {
+    "ko": {
+      "name": "로버트 훅",
+      "habitName": "미시 세계 현미경 정밀 스케치 및 세포 관찰 습관",
+      "quote": "자연의 가장 작은 구조 속에 인류가 아직 보지 못한 가장 거대한 질서가 숨어 있다."
+    },
+    "en": {
+      "name": "How Fine Observation Unlocks Deep Focus",
+      "habitName": "Robert Hooke's Microscopic Sketching",
+      "quote": "Discover how 17th-century polymath Robert Hooke discovered cells through fine microscopic sketching, and how hand-eye observation strengthens spatial focus in the brain."
+    },
+    "ja": {
+      "name": "ロバート・フック",
+      "habitName": "顕微鏡スケッチ術：0.01mmの微細観察で 前頭前野の超集中を 引き出す Super Routine",
+      "quote": "17世紀の天才科学者ロバート・フックが顕微鏡スケッチで細胞（Cell）を発見した歴史的事実と、手と目の同期観察の脳科学的仕組みを解説します。"
+    },
+    "zh": {
+      "name": "用微观细节观察开启深度专注力",
+      "habitName": "罗伯特·胡克显微精准描摹习惯",
+      "quote": "探索17世纪英国科学家罗伯特·胡克如何通过显微手绘发现细胞，以及手眼同步观察增强大脑空间专注力的科学依据。"
+    },
+    "es": {
+      "name": "Cómo la Observación Fina Libera un Enfoque Profundo",
+      "habitName": "El Dibujo Microscópico de Robert Hooke",
+      "quote": "Descubra cómo el polímata del siglo XVII Robert Hooke descubrió las células a través del dibujo microscópico y su validación neurocientífica."
+    },
+    "fr": {
+      "name": "Comment l'observation fine libère une concentration profonde",
+      "habitName": "Le Dessin Microscopique de Robert Hooke",
+      "quote": "Découvrez comment le polymathe du XVIIe siècle Robert Hooke a découvert les cellules grâce au dessin microscopique."
+    },
+    "de": {
+      "name": "Wie feine Beobachtung tiefen Fokus freisetzt",
+      "habitName": "Robert Hookes mikroskopisches Skizzieren",
+      "quote": "Erfahren Sie, wie Robert Hooke im 17. Jahrhundert Zellen durch mikroskopisches Skizzieren entdeckte und wie Hand-Auge-Beobachtung den Fokus stärkt."
+    },
+    "pt": {
+      "name": "Como a Observação Detalhada Desbloqueia o Foco Profundo",
+      "habitName": "O Desenho Microscópico de Robert Hooke",
+      "quote": "Descubra como o polímata do século XVII Robert Hooke descobriu as células através do desenho microscópico."
+    },
+    "id": {
+      "name": "Cara Observasi Halus Membuka Fokus Mendalam",
+      "habitName": "Sketsa Mikroskopis Robert Hooke",
+      "quote": "Pelajari bagaimana Robert Hooke menemukan sel melalui sketsa mikroskopis dan bagaimana observasi tangan-mata memperkuat fokus."
+    }
+  },
+  "leeuwenhoek-lens-grinding": {
+    "ko": {
+      "name": "안토니 판 레이우엔후크",
+      "habitName": "구형 렌즈 직접 연마 및 미생물 관찰 습관",
+      "quote": "나의 작업은 명예나 부를 위한 것이 아니라, 오직 하나님이 창조하신 미시 세계의 신비를 확인하고 싶은 열망 때문이었다."
+    },
+    "en": {
+      "name": "How Micro-Patience Reveals Hidden Realities",
+      "habitName": "Leeuwenhoek's Lens Grinding",
+      "quote": "Explore how 17th-century pioneer Antonie van Leeuwenhoek hand-ground 500x lenses to discover bacteria, and how tactile-visual precision induces cerebellar relaxation."
+    },
+    "ja": {
+      "name": "レーウェンフック",
+      "habitName": "球状レンズ研磨術：極上の忍耐と 微小観察で 本質を見抜く Super Routine",
+      "quote": "微生物学の父レーウェンフックが500倍率の球状レンズを自ら研磨し、世界で初めて細菌や微生物を発見した歴史的事実と、触覚・視覚の没頭の脳科学を解説します。"
+    },
+    "zh": {
+      "name": "用极致耐心解构微观未知世界",
+      "habitName": "列文虎克微型透镜磨制习惯",
+      "quote": "探索微生物学之父列文虎克如何手工打磨500倍微型透镜发现细菌，以及触觉-视觉精细结合放松小脑与提升专注力的科学原理。"
+    },
+    "es": {
+      "name": "Cómo la Micro-Paciencia Revela Realidades Ocultas",
+      "habitName": "El Pulido de Lentes de Leeuwenhoek",
+      "quote": "Explore cómo el pionero del siglo XVII Antonie van Leeuwenhoek pulió a mano lentes de 500x para descubrir bacterias."
+    },
+    "fr": {
+      "name": "Comment la micro-patience révèle des réalités cachées",
+      "habitName": "Le Polissage de Lentilles de Leeuwenhoek",
+      "quote": "Découvrez comment le pionnier du XVIIe siècle Antonie van Leeuwenhoek a poli des lentilles 500x à la main pour découvrir les bactéries."
+    },
+    "de": {
+      "name": "Wie Mikrogeduld verborgene Realitäten enthüllt",
+      "habitName": "Leeuwenhoeks Linsenschleifen",
+      "quote": "Erfahren Sie, wie Antonie van Leeuwenhoek im 17. Jahrhundert Linsen von Hand schleifte, um Bakterien zu entdecken."
+    },
+    "pt": {
+      "name": "Como a Micro-Paciência Revela Realidades Ocultas",
+      "habitName": "O Polimento de Lentes de Leeuwenhoek",
+      "quote": "Explore como o pioneiro do século XVII Antonie van Leeuwenhoek poliu manualmente lentes de 500x para descobrir bactérias."
+    },
+    "id": {
+      "name": "Cara Mikro-Kesabaran Mengungkap Realitas Tersembunyi",
+      "habitName": "Pengasahan Lensa Leeuwenhoek",
+      "quote": "Jelajahi bagaimana pelopor abad ke-17 Antonie van Leeuwenhoek mengasah lensa 500x dengan tangan untuk menemukan bakteri."
+    }
   }
 }

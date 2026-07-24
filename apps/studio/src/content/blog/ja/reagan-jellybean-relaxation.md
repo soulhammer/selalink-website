@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-第40代米大統領として冷戦終結を導いたロナルド・レーガン（Ronald Reagan）。緊張感あふれるホワイトハウスの会議で、彼はどのように重圧を和らげたのでしょうか？ 🍬
-
-執務室のデスクには常に「ジェリービーン」の瓶が置かれていました。難航する交渉中、レーガンは静かに一粒のキャンディを噛み締めました。この小休止が脳に糖分を補給し、緊張をほぐしました。
-
-今日のBuildSelfでは、レーガン大統領のジェリービーン・リフレッシュルーティンを紹介します。
+この歴史的習慣の実践において： 40 , (Ronald Reagan). ? 🍬 この歴史的習慣の実践において： '(Jelly Belly)' . - , . . この歴史的習慣の実践において： BuildSelf .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

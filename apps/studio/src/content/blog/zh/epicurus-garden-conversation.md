@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-伊壁鸠鲁，常被误解为享乐主义者，实际上通过自律的生活追求内心的宁静或“ataraxia”。他避开雅典的政治混乱，在郊区建造了“花园”。在这里，他抛开社会地位和性别，与朋友们共享面包、水和奶酪的简朴餐食，进行智力对话。他认为，物质贪婪会引发渴望，而深厚的信任和友谊才能治愈灵魂。我们探索伊壁鸠鲁花园习惯的神经生物学。
+在这一历史性惯例的实践中： , '(Ataraxia)' . , '(The Garden)' . , , , . , . 2500 ' ' .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

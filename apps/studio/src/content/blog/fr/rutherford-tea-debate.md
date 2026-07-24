@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Ernest Rutherford, le père de la physique nucléaire. D'où venaient les percées de son équipe ? ☕
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
-Chaque après-midi à 16h, Rutherford réunissait ses chercheurs autour d'un thé. Ce cadre informel a favorisé les plus grandes découvertes.
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
-Aujourd'hui, BuildSelf vous présente sa routine du thé de 16h.
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

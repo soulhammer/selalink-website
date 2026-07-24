@@ -24,7 +24,11 @@ faqs:
 
 ---
 
-Andrew Carnegie, o magnata do aço que construiu a base industrial americana. Ele lidou com uma imensa carga de trabalho concentrando-se numa tarefa principal pela manhã.
+Na prática desta rotina : Andrew Carnegie, the steel king who consolidated America's vast steel industry, accumulated colossal wealth, and became one of history's greatest philanthropists alongside Rockefeller. What was the secret of his business productivity and decision-making? 🏗️
+
+Na prática desta rotina : Every morning at the start of business, Carnegie organized the priorities of the tasks he had to achieve. He then selected the core task that was most crucial for success, yet at the same time most difficult, complex, and dreaded, placing it at the very top of his list. For the first 1-2 golden hours of the morning, when his frontal lobe's energy and rational control were at their peak, Carnegie turned away all emails and meeting requests, pouring all his energy into completing that single heaviest task.
+
+Na prática desta rotina : Today, BuildSelf reveals the scientific mechanism of Andrew Carnegie's 'do the hardest task first' routine in conserving the brain's limited willpower, and introduces practical methods for modern workers to maximize efficiency.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

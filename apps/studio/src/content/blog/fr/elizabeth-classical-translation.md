@@ -24,9 +24,9 @@ faqs:
 
 ---
 
-Élisabeth I, reine d'Angleterre, a mené le pays sous de grandes tensions. Son secret était de se lever tôt pour traduire Cicéron ou Sénèque du latin à l'anglais pendant une heure. Ce déchiffrement aiguisait son esprit pour décider sur les affaires d'État.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Aujourd'hui, BuildSelf analyse la science de la routine de traduction d'Élisabeth I.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -16,7 +16,7 @@ faqs:
     answer: "虽然斗鱼可以呼吸水面空气，但无过滤的小缸缺乏有益硝化细菌，水质会急速恶化。强烈建议使用至少15升的水槽与低水流水绵过滤器。"
 ---
 
-拥有如礼服般飘逸鳍条的斗鱼（Betta Fish）是观赏鱼界的璀璨明珠。遵照WSAVA水生动物标准，斗鱼拥有可直接呼吸空气的‘迷鳃器官’，水面需提供休憩水草床，并保持微弱水流与稳定水温（24°C ~ 26°C）以预防烂鳍病（Fin Rot）。
+拥有如礼服般飘逸鳍条的斗鱼（Betta Fish）是观赏鱼界的璀璨明珠。遵照WSAVA水生动物标准，斗鱼拥有可直接呼吸空气的‘迷鳃器官’，水面需提供休憩水草床，并保持微弱水流与稳定水温（24°C ~ 26°C）以预防烂鳍病（Fin Rot）。 提供持续的日常健康护理与安全的生活环境，可确保您的宠物长期保持健康快乐。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

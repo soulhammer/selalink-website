@@ -21,7 +21,7 @@ faqs:
 
 ---
 
-马雅·安杰卢是美国传奇诗人、自传作家和民权活动家，著有开创性的自传《我知道笼中鸟为何歌唱》。为了深度专注，她每天早晨6:30都会入住当地的一家旅馆房间。她要求旅馆工作人员移走墙上的所有画作、照片和装饰品，房间里只留下一本圣书、一本词典、一副扑克牌和一瓶雪利酒。今天，BuildSelf将为您分享创造一个空无一物、毫无干扰的环境如何能大幅提升您的认知产出。
+在这一历史性惯例的实践中：Maya Angelou, an legendary American poet, memoirist, and civil rights activist who wrote the groundbreaking autobiography 'I Know Why the Caged Bird Sings.' To focus deeply, she checked into a local hotel room every morning at 6:30 AM. She requested the hotel staff to remove all paintings, photos, and decorations from the walls, leaving only a Bible, a dictionary, a deck of cards, and a bottle of sherry. Today, BuildSelf shares how creating an empty, distraction-free environment can drastically improve your cognitive output.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

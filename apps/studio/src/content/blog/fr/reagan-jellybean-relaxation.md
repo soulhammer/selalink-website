@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Le 40e président américain Ronald Reagan était célèbre pour son calme. Comment gérait-il la pression ? 🍬
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Sur son bureau se trouvait un bocal de bonbons Jelly Belly. Lors de réunions tendues, il faisait une pause pour en savourer un. Cela apportait du glucose à son cerveau.
-
-Aujourd'hui, BuildSelf vous présente la science derrière la routine de Ronald Reagan.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

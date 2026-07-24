@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Maître de l'Âge d'or néerlandais, Johannes Vermeer a émerveillé le monde avec *La Jeune Fille à la perle*. Comment capturait-il cette lumière féerique et ce calme absolu ? 🎨
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Près de la fenêtre de son atelier se trouvait une *chambre noire*. Avant de peindre, Vermeer observait en silence la lumière diffusée sur les murs. Cette observation apaisante calmait le bavardage mental.
-
-Aujourd'hui, BuildSelf vous présente la science cognitive derrière la routine d'observation de la lumière de Johannes Vermeer.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

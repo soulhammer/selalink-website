@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-El clásico Silent Spring advirtió sobre el abuso de pesticidas. Su autora, Rachel Carson, enfrentó intimidación corporativa y cáncer mientras escribía. 🐚
-
-Lo que la sostuvo fue una mecedora costera en Maine. Carson caminaba a las piscinas de marea. Arrodillada, pasaba horas observando estrellas de mar o medusas, dibujando y escribiendo en un cuaderno impermeable. Este era su santuario de restauración mental.
-
-Hoy, BuildSelf explora los principios de la rutina de Rachel Carson y cómo llevar un diario al aire libre.
+En la práctica de esta rutina transformadora: 《 》. ? 🐚 En la práctica de esta rutina transformadora: 《 》 , . . . , , . . En la práctica de esta rutina transformadora: BuildSelf . Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo. Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

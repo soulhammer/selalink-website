@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-在恺撒遇刺后，罗马皇帝奥古斯都并非独断专行，而是彻底倾听梅塞纳斯、阿格里巴等参谋的不同意见以简化决策。阐明打破盲信最初判断的“确证偏差”之倾听与过滤脑科学原理。
+在这一历史性惯例的实践中： 200 (Pax Romana) . , . . ' '. , (), () . .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -22,9 +22,7 @@ faqs:
 
 ---
 
-Jean-Jacques Rousseau, le grand philosophe français dont les idées ont inspiré la Révolution. À la fin de sa vie, en proie à l'anxiété, il a trouvé le salut dans l'herborisation et la marche. Chaque après-midi, il marchait pour collecter des plantes et notait ses idées sur des cartes à jouer. Ces notes ont donné *Les Rêveries du promeneur solitaire*. Découvrez les bienfaits de cette herborisation.
-
-</div>
+Jean-Jacques Rousseau, le grand philosophe français dont les idées ont inspiré la Révolution. À la fin de sa vie, en proie à l'anxiété, il a trouvé le salut dans l'herborisation et la marche. Chaque après-midi, il marchait pour collecter des plantes et notait ses idées sur des cartes à jouer. Ces notes ont donné *Les Rêveries du promeneur solitaire*. Découvrez les bienfaits de cette herborisation. </div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

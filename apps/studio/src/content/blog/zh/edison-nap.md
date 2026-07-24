@@ -10,27 +10,18 @@ formatVersion: 4
 authority: "爱迪生日记与杂记（1948）及法国巴黎脑研究所（Paris Brain Institute）研究"
 steps:
   - name: "准备沉重物体和跌落表面"
-    text: ""
+    text: "."
   - name: "在扶手椅上进行轻度半入睡"
-    text: ""
+    text: "."
   - name: "被跌落声惊醒后立即记录"
-    text: ""
+    text: "."
 faqs:
   - question: "爱迪生为什么要在昼寝时手里握着铁球？"
     answer: "在入睡肌肉放松、铁球落地的瞬间被声音唤醒，以便能够立即记录在梦境与醒来的边界（半醒状态）掠过的创意。"
 
 ---
 
-托马斯·爱迪生，这位登记了 1,000 多项专利、改变了人类日常生活历史范式的发明大王。你是否知道，每当他遇到高难度的智力难题或创意瓶颈时，他就会使用一种非常著名且独特的午睡仪式？ 💤
-
-爱迪生舒适地靠在扶手椅上，双手各握一个沉重的铁球（或一串金属钥匙）。在椅子正下方的地板上，他会放置一个金属盘子或托盘。
-
-当他渐渐入睡，全身肌肉放松的那一刻，他手中握着的铁球就会滑落，精准地砸在地板上的金属盘上，发出“当”的一声清脆巨响。爱迪生会被这突如其来的声音惊醒，并立即将脑海中闪过的那些神秘而奇特的灵感记录在身旁的笔记本上。
-
-今天，BuildSelf 将带您深入了解这位天才发明家创造力背后的秘密——半入睡常规，以及现代实践指南。
-
-
-</div>
+在这一历史性惯例的实践中：, , 1,000 . ? 💤 在这一历史性惯例的实践中： , ( ) . . 在这一历史性惯例的实践中： , '!' . , . 在这一历史性惯例的实践中： BuildSelf . 在这一历史性惯例的实践中：</div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +53,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">准备沉重物体和跌落表面</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +63,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">在扶手椅上进行轻度半入睡</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +73,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">被跌落声惊醒后立即记录</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

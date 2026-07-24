@@ -24,11 +24,13 @@ faqs:
 
 ---
 
-O médico rural que erradicou a varíola e inventou a primeira vacina, Edward Jenner salvou milhões de vidas. Como ele alcançou esse avanço? 🩺
+Na prática desta rotina transformadora:      (Smallpox)      ' '         ,  (Edward Jenner).            ? 🩺
 
-Jenner registrou sistematicamente sintomas de pacientes em uma caderneta de observação por anos. Esse rastreamento de dados criou a base para a vacina.
+Na prática desta rotina transformadora:     '         '     .                '   (Observation Log)'  .         .
 
-Hoje BuildSelf revela a ciência por trás da rotina de observação de Edward Jenner.
+Na prática desta rotina transformadora:  BuildSelf            (Grit)   .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

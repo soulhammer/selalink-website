@@ -22,9 +22,7 @@ faqs:
 
 ---
 
-Sir Arthur Conan Doyle, o médico e escritor que criou o detetive mais famoso da história, Sherlock Holmes. Enquanto desenhava a mente lógica de Sherlock, Doyle mantinha o seu corpo muito ativo. Era um excelente atleta que praticava boxe, críquete e futebol. Acreditava que se o corpo ficasse dormente, o cérebro estagnava. Saiba como o desporto estimula o BDNF.
-
-</div>
+Sir Arthur Conan Doyle, o médico e escritor que criou o detetive mais famoso da história, Sherlock Holmes. Enquanto desenhava a mente lógica de Sherlock, Doyle mantinha o seu corpo muito ativo. Era um excelente atleta que praticava boxe, críquete e futebol. Acreditava que se o corpo ficasse dormente, o cérebro estagnava. Saiba como o desporto estimula o BDNF. </div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

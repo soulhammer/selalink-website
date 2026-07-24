@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Pada tahun 1492, memimpin tiga kapal melintasi Atlantik yang tak terpetakan, Christopher Columbus membuka era baru eksplorasi. Di tengah ancaman pemberontakan, bagaimana ia menjaga ketenangan? ⛵
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
-Setiap malam dengan cahaya lilin, Columbus mencatat data kuantitatif di buku lognya: koordinat, angin, dan bintang. Mengubah ketakutan menjadi angka menenangkan amygdala-nya.
-
-Hari ini BuildSelf mengungkap sains saraf di balik rutinitas buku log Christopher Columbus.
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

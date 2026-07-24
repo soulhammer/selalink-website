@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-弗拉基米尔·纳博科夫以《洛丽塔》等作品展现了20世纪英文文学的巅峰。令人惊讶的是，他写小说时并没有按时间顺序来写。相反，他在3x5英寸的索引卡上写下对话、描述和情节碎片。纳博科夫将这些卡片铺在桌子上，自由地重新排列，甚至在车里或收集蝴蝶时也随身携带。我们探讨了为什么这种模块化写作方法是复杂项目和写作的强大认知策略。
+在这一历史性惯例的实践中：《》 《 》 20 . . 3x5 , , . , . 脳科学的 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

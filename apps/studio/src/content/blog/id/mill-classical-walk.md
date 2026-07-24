@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-John Stuart Mill menulis On Liberty. Bagaimana tokoh intelek ini mengembangkan kapasitas kognitifnya? 🚶
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
-Jawabannya ada pada rutinitas 'jalan dan diskusi' sejak kecil. Ayahnya mengajak berjalan di jalur hutan setiap pagi. Selama berjalan, Mill melafalkan sastra klasik dan ayahnya melontarkan pertanyaan kritis. Kombinasi gerak fisik, membaca mendalam, dan diskusi merangsang otaknya secara maksimal.
-
-Hari ini, BuildSelf menjelajahi neurosains di balik rutinitas John Stuart Mill.
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-作为17世纪荷兰黄金时代最伟大的画家之一，约翰尼斯·维米尔（Johannes Vermeer）凭借《戴珍珠耳环的少女》、《倒牛奶的女仆》等杰作闻名于世。他画作中如宝石般璀璨的日光、以及令人屏息凝神的宁静氛围，究竟是如何炼成的？ 🎨
-
-在维米尔的工作室窗前，放置着一台当时最先进的“暗箱”（Camera Obscura）光学设备。在动笔作画前，他总会静静地凝视透过镜头投射在墙面与画布上的光斑与柔和影迹。这种不带语言评价、纯粹观照光影微粒的习惯，成功停止了大脑内部的言语杂念（Mental Chatter），使其进入极度专注而宁静的认知状态。
-
-今天 BuildSelf 将为您揭秘维米尔暗箱光影观照习惯背后的神经科学，带您了解视觉静心如何镇定大脑预设模式网络（DMN）、重塑思维清晰度。
+在这一历史性惯例的实践中：< >, < > 17 , (Johannes Vermeer). ? 🎨 在这一历史性惯例的实践中： ' (Camera Obscura)' . , . (Mental Chatter) . 在这一历史性惯例的实践中： BuildSelf (DMN) .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

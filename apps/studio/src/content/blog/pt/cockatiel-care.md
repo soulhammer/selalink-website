@@ -16,7 +16,7 @@ faqs:
     answer: "Sim, elas produzem penas de pó (Powder Down) naturalmente. Use um purificador de ar HEPA e ofereça banhos de borrifador 2 - 3 vezes por semana."
 ---
 
-Famosa pelas bochechas laranjas e crista graciosa, a Calopsita é uma ave inteligente e afetuosa. Contudo, seu instinto de presa a torna propensa ao 'pânico noturno' (Night Frights). Com base nos padrões da AAV, aprenda a decodificar seus sinais.
+Famosa pelas bochechas laranjas e crista graciosa, a Calopsita é uma ave inteligente e afetuosa. Contudo, seu instinto de presa a torna propensa ao 'pânico noturno' (Night Frights). Com base nos padrões da AAV, aprenda a decodificar seus sinais. Oferecer cuidados de saúde diários constantes e um ambiente seguro garante o bem-estar a longo prazo do seu animal.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

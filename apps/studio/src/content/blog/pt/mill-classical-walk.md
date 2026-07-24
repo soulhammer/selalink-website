@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-John Stuart Mill escreveu Sobre a Liberdade. Como desenvolveu sua imensa capacidade cognitiva? 🚶
-
-A resposta está na sua rotina de 'caminar e conversar' desde a infância. Seu pai, James Mill, o levava para caminhar cedo todas as manhãs. Mill resumia clássicos enquanto seu pai fazia perguntas. Fundir movimento, leitura e debate estimulou seu cérebro de forma profunda.
-
-Hoje, o BuildSelf explora os princípios por trás da rotina de Mill.
+Na prática desta rotina transformadora: 《》 19 , . ? 🚶 Na prática desta rotina transformadora: ' ' . . , / , . , / , 10 . Na prática desta rotina transformadora: BuildSelf . Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável. Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

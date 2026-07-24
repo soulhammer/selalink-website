@@ -24,7 +24,7 @@ faqs:
 
 James Joyce, uno de los escritores más influyentes del siglo XX, pionero de la literatura modernista con su obra *Ulises*. A lo largo de su vida, sufrió graves problemas de visión y más de 20 cirugías. Para escribir en tales condiciones físicas, adoptó un hábito inusual: acostado en la cama, con una bata blanca, escribiendo con un lápiz azul en papel blanco. Conozcamos cómo este arreglo redujo su fatiga sensorial.
 
-</div>
+Esta práctica diaria esencial fomenta un enfoque profundo y una claridad mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Biographie 'Madame Curie' d'Ève Curie et recherches sur l'exercice de Harvard Health Publishing"
 steps:
   - name: "Planifier une sortie en plein air 1 à 2 fois par semaine"
-    text: ""
+    text: "."
   - name: "Rouler pendant 30 minutes sans écouteurs en se focalisant sur les sens"
-    text: ""
+    text: "."
   - name: "Étirement léger des cuisses"
-    text: ""
+    text: "."
 faqs:
   - question: "Pourquoi les Curie ont-ils demandé des vélos comme cadeaux de mariage ?"
     answer: "Plutôt qu'un mariage fastueux, ils voulaient un outil pratique pour voyager dans la campagne française, méditer et se concentrer sur leurs recherches."
@@ -29,8 +29,7 @@ La réponse réside dans les promenades quotidiennes à vélo qu'elle faisait ch
 
 Aujourd'hui, BuildSelf explore les bases scientifiques et vous propose un guide pratique de cette routine de cyclisme en plein air.
 
-
-</div>
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +61,7 @@ La psychologie cognitive et la physiologie de l'exercice modernes confirment que
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Planifier une sortie en plein air 1 à 2 fois par semaine</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +71,7 @@ La psychologie cognitive et la physiologie de l'exercice modernes confirment que
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Rouler pendant 30 minutes sans écouteurs en se focalisant sur les sens</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +81,7 @@ La psychologie cognitive et la physiologie de l'exercice modernes confirment que
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Étirement léger des cuisses</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

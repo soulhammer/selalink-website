@@ -16,6 +16,9 @@ steps:
     text: "Escriba la frase en una tarjeta y péguela en un lugar alto, como el marco superior de su monitor o el techo. El objetivo es forzar una mirada hacia arriba al leerla."
   - name: "Mirar hacia arriba y reflexionar 15 segundos"
     text: "Cuando se sienta bloqueado, reclínese, levante la cabeza y lea la frase durante 15 segundos. Permita que su cerebro se desconecte del problema inmediato para calibrar la lógica desde la distancia."
+faqs:
+  - question: "¿Debo practicar este hábito a diario?"
+    answer: "Sí, practicar a una hora fija diariamente maximiza la neuroplasticidad cerebral."
 
 ---
 
@@ -83,4 +86,19 @@ Exponerse a señales visuales filosóficas utiliza la 'facilitación visual', qu
       Si una frase permanece en el mismo sitio para siempre, el cerebro se adapta y empieza a ignorarla. Para evitar la habituación visual, cambie la ubicación o el contenido de las frases cada pocos meses. La novedad del estímulo es clave para mantener la metacognición activa.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>¿Debo practicar este hábito a diario?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Sí, practicar a una hora fija diariamente maximiza la neuroplasticidad cerebral.
+    </p>
+  </details>
 </div>

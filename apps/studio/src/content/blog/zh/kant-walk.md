@@ -10,25 +10,18 @@ formatVersion: 4
 authority: "曼弗雷德·库恩《康德传》及《学习与记忆神经生物学》期刊（JN）"
 steps:
   - name: "设定下午 3 点 30 分的舒缓闹钟"
-    text: ""
+    text: "."
   - name: "不带手机，进行 15 分钟的静默散步"
-    text: ""
+    text: "."
   - name: "调整呼吸并回归工作"
-    text: ""
+    text: "."
 faqs:
   - question: "康德为什么每天下午3点30分准时出门散步？"
     answer: "这是一项严格的仪式，通过将身体的生物钟维持得像时钟一样规律，以支持数十年来高度抽象的哲学研究，从而保护健康与心理平静。"
 
 ---
 
-人类历史上最伟大的认识论哲学家、现代德国唯心主义奠基人——伊曼纽尔·康德。每天下午 3 点 30 分，他都会准时穿上同一件大衣出门，沿着固定的路线散步。 🚶‍♂️
-
-他的散步时间极其精准，据说哥尼斯堡的居民们甚至看着康德经过的身影来校对自己的怀表。康德一生中除了有一次因沉迷于阅读卢梭的教育学名著《爱弥儿》而漏掉散步外，无论风雨交加还是大雪纷飞，他都严苛地坚守着这一静默的散步常规。
-
-今天，BuildSelf 将带您了解这位大师数十年如一日的严苛生活方式背后隐藏的医学功效以及现代实践方法。
-
-
-</div>
+在这一历史性惯例的实践中： , . 3 30 . 🚶‍♂️ 在这一历史性惯例的实践中： , . , &lt;&gt; . 在这一历史性惯例的实践中： BuildSelf . 在这一历史性惯例的实践中：</div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +53,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">设定下午 3 点 30 分的舒缓闹钟</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +63,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">不带手机，进行 15 分钟的静默散步</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +73,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">调整呼吸并回归工作</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-勒内·马格里特，这位比利时超现实主义大师用“这不是一个烟斗”挑战了人们的感知。与其古怪的艺术相反， his 日常生活异常有秩序。与其他在混乱画室里工作的画家不同，马格里特每天早晨穿上整洁的西装，戴上圆顶礼帽，站在客厅一角的画架前画画。他画画时非常克制，从不在衣服或地毯上滴一滴颜料。我们分析了服装如何激发大脑进入巅峰专注状态的认知机制。
+在这一历史性惯例的实践中： ' ' . , . , (Suit) . . 脳科学的 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

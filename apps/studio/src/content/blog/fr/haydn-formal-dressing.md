@@ -24,7 +24,7 @@ faqs:
 
 Joseph Haydn, le 'Père de la Symphonie' qui a posé les bases du style classique. Il a composé plus de 100 symphonies. Il avait une habitude unique : il portait toujours un costume formel, sa perruque et sa bague préférée avant de composer. Même seul dans son cabinet, il pensait que l'ordre créatif découlait de l'ordre extérieur. Découvrez la science de la 'cognition habillée'.
 
-</div>
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

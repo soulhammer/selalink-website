@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Pitágoras, o gigante da matemática e da geometria, liderou uma escola que buscava a harmonia e o autocontrole. Sua regra central era o autoexame vespertino. Nos 'Versos de Ouro', eles faziam três perguntas antes de dormir: 'O que eu fiz de errado?', 'Que bem eu fiz?' e 'O que eu omiti?'. Analisamos sua rotina.
+Na prática desta rotina transformadora:             .           .              .   『』 ,         . '   ?', '    ?', '     ?'.         .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

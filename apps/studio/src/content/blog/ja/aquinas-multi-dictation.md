@@ -16,10 +16,13 @@ steps:
     text: "最初のプロジェクトメモを有効にし、15〜20分のタイムブロックの間、この業務だけに集中してアイデアや内容を手で書くか入力します。途中で注意を削がれるすべての通知を切る必要があります。"
   - name: "ステップ3：脳をリセットするように別の業務に切り替える"
     text: "時間が終了したら直ちに最初のタスクを閉じ、二番目のタスクを開きます。深呼吸を三回行い、前の思考が脳に残り火として残らないようバッファをクリアにした後、100％の集中力で二番目のタスクに取り組みます。"
+faqs:
+  - question: "この習慣を毎日実践すべきですか？"
+    answer: "はい、毎日決まった時間に実践することで脳の神経可塑性が極大化します。"
 
 ---
 
-「信仰と理性は決して衝突せず、理性は信仰を証明する強力な武器である。」中世スコラ哲学の巨頭トマス・アクィナスは、思考の展開速度が執筆速度をはるかに凌駕していました。彼は頭の中のアイデアを完全に記録するため、複数の秘書を同行させて同時口述筆記を進めました。部屋を歩きながら一人の秘書に神学的な仮説を口述し、間髪入れずに次の秘書へと切り替えて、物理的な論証を正確に続けました。
+この歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持持続可能な深い集中力を養うことができます。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -83,4 +86,19 @@ steps:
       この習慣を、現代の注意力が散漫になるマルチタスク（例：Eメールを読みながらコーディングする）と混同してはなりません。単純な注意散漫は、作業の品質と速度を著しく低下させます。アクィナスの方式は、高い集中状態にある個別の業務をパーティションに分け、順次実行（Sequential Execution）する方式です。つまり、一つの対象を処理するときは、100％の脳のリソースを注がなければなりません。
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>この習慣を毎日実践すべきですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      はい、毎日決まった時間に実践することで脳の神経可塑性が極大化します。
+    </p>
+  </details>
 </div>

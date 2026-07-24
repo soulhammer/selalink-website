@@ -11,25 +11,18 @@ formatVersion: 4
 authority: "デカルト伝記「La Vie de Monsieur Descartes」および学術誌「Psychophysiology」"
 steps:
   - name: "アラーム直後の姿勢維持とスマートフォンの遮断"
-    text: ""
+    text: "."
   - name: "リラックス呼吸とボディスキャン"
-    text: ""
+    text: "."
   - name: "今日の「中心テーマ」の設定"
-    text: ""
+    text: "."
 faqs:
   - question: "朝のベッドの上の瞑想は脳科学的に本当に効果がありますか？"
     answer: "はい、覚醒直後の水平な姿勢は脳波をアルファ波へと导き、自律神経系を安定させ、創造性と情緒の安定を高めます。"
 
 ---
 
-「我思う、故に我あり」という哲学史上最も有名な命題を残して近代哲学の土台を築き、座標系を導入して解析幾何学を創始した天才数学者であり哲学者、ルネ・デカルト。この偉大な知性の巨人が、毎朝実践していた極めて快適でユニークなルーティンをご存知ですか？ 🛏️
-
-デカルトは幼少期から体が非常に弱く、朝早く起きることがとても苦手でした。幸いにも、彼が通っていた王立学校の校長神父は、彼が朝遅くまでベッドの中で思索することを特別に許可してくれました。この習慣は、大人になり軍隊に志願した後も、生涯にわたって続けられました。彼は毎日正午になるまでベッドから出ず、横になった状態で考えにふけったり、本を読んだり、原稿を書いたりしました。彼は、身体が完全に横になってリラックスしている時こそ、精神が肉体の疲労に邪魔されず、最も創造的かつ透明に働くことができると固く信じていました。
-
-今日のBuildSelfでは、デカルトが固守した「ベッド思索」瞑想ルーティンの科学的根拠と、忙しい現代人が朝の時間にこれを賢く活用する方法を紹介します。
-
-
-</div>
+この歴史的習慣の実践において：" , (Cogito, ergo sum)" , , . ? 🛏️ この歴史的習慣の実践において： . . . , . . この歴史的習慣の実践において： BuildSelf ' ' . この歴史的習慣の実践において：</div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -61,7 +54,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">アラーム直後の姿勢維持とスマートフォンの遮断</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -71,7 +64,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">リラックス呼吸とボディスキャン</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -81,7 +74,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">今日の「中心テーマ」の設定</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

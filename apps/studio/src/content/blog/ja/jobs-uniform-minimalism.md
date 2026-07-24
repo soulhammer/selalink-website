@@ -11,11 +11,11 @@ formatVersion: 4
 authority: "スティーブ・ジョブズ公式伝記「Steve Jobs」および学術誌「JPSP」意思決定疲労研究"
 steps:
   - name: "前日の夜の衣服と持ち物の事前準備"
-    text: ""
+    text: "."
   - name: "自分だけの「基本テンプレート（Uniform）」公式の構築"
-    text: ""
+    text: "."
   - name: "最もクリアな頭脳状態で重要意思決定を処理する"
-    text: ""
+    text: "."
 faqs:
   - question: "スティーブ・ジョブズはなぜ毎日同じ服ばかり着ていたのですか？"
     answer: "朝の洋服選びという些細な意思決定で消費される前頭葉のエネルギーを節約し、アップルの経営や製品開発という本質的な決定に100％集中するためでした。"
@@ -28,8 +28,7 @@ faqs:
 
 今日のBuildSelfでは、スティーブ・ジョブズが終生実践した「衣類のミニマリズム」ルーティンの科学的原理と、現代人が朝の時間に発生する決断疲れを減らし生産性を最大化する方法を紹介します。
 
-
-</div>
+この歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持持続可能な深い集中力を養うことができます。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -61,7 +60,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">前日の夜の衣服と持ち物の事前準備</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -71,7 +70,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">自分だけの「基本テンプレート（Uniform）」公式の構築</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -81,7 +80,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">最もクリアな頭脳状態で重要意思決定を処理する</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

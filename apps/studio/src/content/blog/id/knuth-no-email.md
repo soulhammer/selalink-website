@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Donald Knuth, pionir ilmu komputer yang menulis The Art of Computer Programming. Meskipun berada di pusat revolusi komputer, dia membuat keputusan radikal pada tahun 1990: dia benar-benar berhenti menggunakan email. Dia menyatakan perannya adalah mendalami masalah. Sebaliknya, dia menerima pertanyaan melalui surat fisik atau faks.
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
+
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -22,9 +22,7 @@ faqs:
 
 ---
 
-卢奇亚诺·帕瓦罗蒂，有史以来最伟大的男高音之一，在世界范围内推广了古典歌剧。尽管经常在成千上万的人面前演唱，但帕瓦罗蒂在登台前依然会饱受严重舞台恐惧的折磨。为了战胜这种焦虑，他坚持着一项后台惯例：在舞台地板上寻找一颗弯曲的铁钉。在意大利民俗中，弯铁钉会带来好运。让我们一起来探讨这种迷信是如何作为一种强大的认知技巧来抚平他的杏仁核并重构专注力的。
-
-</div>
+在这一历史性惯例的实践中： , . , . (Performance Anxiety) (Bent Nail) . .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

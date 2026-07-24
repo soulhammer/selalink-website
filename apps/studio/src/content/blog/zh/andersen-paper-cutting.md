@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-创作了《人鱼公主》、《丑小鸭》、《卖火柴的小女孩》等给全世界儿童和成人带来梦想和眼泪的童话之父汉斯·克里斯蒂安·安徒生。一生饱受严重的外貌自卑、极度抑郁和遗弃焦虑折磨的他，在冰冷的现实之墙前依然保持美丽的童话想象力并获得心灵安慰的秘诀是什么？安徒生在构思童话灵感时，总是会从口袋里拿出一张纸和一把剪刀。他一边构思并口述即兴童话，一边用手折叠纸张并精确地进行剪纸。今天，BuildSelf 向您介绍安徒生“剪纸”常规的精神病学疗愈益处和现代手工作业常规。
+在这一历史性惯例的实践中：, , , . , , ? . (Paper Cutting) . , . BuildSelf ' ' .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

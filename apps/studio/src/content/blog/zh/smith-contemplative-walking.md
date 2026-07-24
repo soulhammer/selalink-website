@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-亚当·斯密，奠定了现代经济学理论基础并阐明了自由市场经济“看不见的手”的哲学家，有着独特的终生习惯。在构建复杂的想法时，斯密会在花园或安静的小径上迈无目的地行走。一天早上，他深陷沉思，竟走了15英里到邻镇，完全忘记了自己还穿着睡衣。直到听到教堂的钟声，他才清醒过来。我们剖析亚当·斯密思索性步行的机制，这种步行阻碍了记忆的扭曲，激活了默认模式网络。
+在这一历史性惯例的实践中： . . . , (Nightgown) 15( 24km) . . .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

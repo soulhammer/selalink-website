@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Honoré de Balzac, géant de la littérature réaliste française du XIXe siècle, a posé les bases du roman moderne avec « La Comédie humaine ». La force motrice de sa création était sa routine d'« hyperfocus » consistant à se réveiller à minuit et à écrire pendant 12 heures. Se réveillant à minuit quand le monde se taisait, Balzac revêtait une robe blanche et n'allumait que deux bougies, éliminant toute distraction. Il écrivait pendant 12 à 15 heures, utilisant du café pour rester éveillé. Aujourd'hui, BuildSelf partage les principes neuroscientifiques derrière la routine de Balzac.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

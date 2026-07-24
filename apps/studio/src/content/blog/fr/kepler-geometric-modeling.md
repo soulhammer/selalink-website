@@ -24,7 +24,7 @@ faqs:
 
 Johannes Kepler, le célèbre astronome et mathématicien qui a découvert les lois du mouvement des planètes. À une époque sans ordinateurs, Kepler traitait des montagnes de calculs. Face à un obstacle, il sculptait des modèles géométriques 3D du cosmos. En touchant les proportions réelles, il trouvait des solutions. Découvrez les bienfaits de la manipulation haptique.
 
-</div>
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

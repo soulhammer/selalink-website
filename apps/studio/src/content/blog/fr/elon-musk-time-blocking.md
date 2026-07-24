@@ -24,9 +24,9 @@ faqs:
 
 ---
 
-Elon Musk dirige Tesla et SpaceX en travaillant jusqu'à 100 heures par semaine. Son secret est de planifier sa journée en blocs de 5 minutes. Au moment de commencer un bloc, il coupe tout avertissement et concentre 100% de son énergie.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Aujourd'hui, BuildSelf analyse la science de la routine d'Elon Musk.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

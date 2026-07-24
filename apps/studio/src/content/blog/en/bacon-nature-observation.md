@@ -16,6 +16,9 @@ steps:
     text: "Walk slowly and consciously notice five shapes, four sounds, three textures, and two scents in your natural surroundings. This anchors your brain in the present moment."
   - name: "Harvest the Rested Insight"
     text: "Once back at your desk, immediately jot down the creative connections or solutions that surfaced during the walk. A rested prefrontal cortex executes tasks with superior clarity."
+faqs:
+  - question: "Should I practice this habit daily?"
+    answer: "Yes, practicing at a set time daily maximizes brain neuroplasticity."
 
 ---
 
@@ -83,4 +86,19 @@ Modern work demands 'directed attention,' which tires the prefrontal cortex and 
       If you take photos, reply to messages, or listen to educational podcasts while walking, you are still consuming directed attention. To gain the cognitive restoration benefits, keep your phone in your pocket. Focus purely on environmental, non-digital inputs.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>Should I practice this habit daily?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Yes, practicing at a set time daily maximizes brain neuroplasticity.
+    </p>
+  </details>
 </div>

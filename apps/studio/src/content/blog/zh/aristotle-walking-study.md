@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-“真理与理性并非在静坐中产生，而是在一步步的迈进中臻于完美。”亚里士多德在雅典建立吕克昂学园后，常常在绿树成荫的林荫道（Peripatos）上漫步，与弟子们探讨深奥的哲学。身体的有节奏运动能唤醒大脑，磨砺理性，这一信念正是他们被称为“逍遥学派（漫步之人）”的起源。
+在这一历史性惯例的实践中：" , ." , (Peripatos) . , ' ( )' .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

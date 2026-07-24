@@ -22,9 +22,9 @@ faqs:
 
 ---
 
-Lee Jung-seob, pelukis barat modern legendaris Korea, menderita kemiskinan saat perang. Tanpa uang untuk kanvas, ia mengumpulkan kertas timah rokok bekas untuk digambar. 🐂
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
-Menggores permukaan aluminium dengan alat tajam untuk mengukir garis dan menggosokkan jelaga ke celahnya. Secara neurosains, sensasi taktil saat menggores logam memblokir gangguan dan mengamankan fokus di saat ini.
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

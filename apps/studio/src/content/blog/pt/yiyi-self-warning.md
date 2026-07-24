@@ -22,7 +22,11 @@ faqs:
 
 ---
 
-Yi I escreveu 11 regras de advertência pessoal e as lia todas as manhãs para regular seu comportamento. Este hábito diário fortaleceu o autocontrole.
+Na prática desta rotina : Yi I, the great Neo-Confucian scholar and politician of mid-Joseon, passed all nine state exams with top honors, earning him the title 'Gudojangwongong.' Behind his stellar achievements was the 'Jakyungmun' (Self-Warning Letter), a guide he wrote at age 20 to end his wandering after the death of his mother, Shin Saimdang. 📜
+
+Na prática desta rotina : Through Jakyungmun, Yi I structured his day, set principles for relationships and emotional control, and read it aloud every morning. This is a neuroscientific mechanism to enhance goal-directed attention control.
+
+Na prática desta rotina : Today, BuildSelf uncovers the cognitive science value of Yi I's morning self-warning routine and proposes a 3-step action guide for modern people to maintain autonomy and practice daily goals.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

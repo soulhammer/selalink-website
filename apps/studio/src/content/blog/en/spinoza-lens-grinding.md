@@ -16,6 +16,9 @@ steps:
     text: "Leave your desk and start a physical, non-digital task for 15 minutes. Ensure the activity requires precise control of your fingers and moderate attention (like washing dishes or peeling fruit)."
   - name: "Re-enter the Cognitive Workspace"
     text: "After the break, return to your original work. You will find that your prefrontal cortex has replenished its executive neurotransmitters, allowing you to solve logical problems with ease."
+faqs:
+  - question: "Should I practice this habit daily?"
+    answer: "Yes, practicing at a set time daily maximizes brain neuroplasticity."
 
 ---
 
@@ -83,4 +86,19 @@ High-level logical and philosophical thinking constantly exhausts the prefrontal
       To gain this benefit, the task must be purely analog and require moderate hand-eye coordination. Doing digital tasks or scrolling through feeds does not count, as it continues to consume the prefrontal cortex's executive energy. Choose activities like washing dishes, writing letters, or assembling small crafts.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>Should I practice this habit daily?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Yes, practicing at a set time daily maximizes brain neuroplasticity.
+    </p>
+  </details>
 </div>

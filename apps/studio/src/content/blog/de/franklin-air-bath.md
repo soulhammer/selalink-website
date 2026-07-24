@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Benjamin Franklins Autobiografie 'The Autobiography of Benjamin Franklin' & New England Journal of Medicine (NEJM)"
 steps:
   - name: "Morgens 5 Minuten lüften und die kühle Luft spüren"
-    text: ""
+    text: "."
   - name: "Die Tagesplanung in der kühlen Luft machen"
-    text: ""
+    text: "."
   - name: "Leichte Dehnübungen"
-    text: ""
+    text: "."
 faqs:
   - question: "Hilft ein Luftbad (Air Bath) wirklich, Erkältungen vorzubeugen?"
     answer: "Ja, die Haut kühler Luft auszusetzen, stärkt die Widerstandsfähigkeit gegen Temperaturschwankungen und reguliert das Immunsystem."
@@ -27,8 +27,7 @@ Im 18. Jahrhundert glaubten die Menschen, dass kalte Luft sofort zu einer Erkäl
 
 Heute stellt BuildSelf die wissenschaftlichen Prinzipien vor, die hinter dieser außergewöhnlichen Morgenroutine eines US-Gründervaters stehen, und zeigt, wie man sie im modernen Alltag sicher umsetzen kann.
 
-
-</div>
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +59,7 @@ Die moderne Medizin und die Hirnforschung bestätigen dies. Wenn der Körper kü
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgens 5 Minuten lüften und die kühle Luft spüren</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +69,7 @@ Die moderne Medizin und die Hirnforschung bestätigen dies. Wenn der Körper kü
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Die Tagesplanung in der kühlen Luft machen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +79,7 @@ Die moderne Medizin und die Hirnforschung bestätigen dies. Wenn der Körper kü
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Leichte Dehnübungen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

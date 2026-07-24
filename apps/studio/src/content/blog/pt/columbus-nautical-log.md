@@ -24,11 +24,13 @@ faqs:
 
 ---
 
-Em 1492, liderando três caravelas pelo Atlântico desconhecido, Cristóvão Colombo abriu uma nova era de exploração. Enfrentando motins e o medo do oceano, como ele mantinha a calma? ⛵
+Na prática desta rotina transformadora: 1492, 3   ··             ,  (Christopher Columbus).      '   '           ? ⛵
 
-Todas as noites à luz de velas, Colombo registrava dados quantitativos em seu diário de bordo: coordenadas, ventos e estrelas. Converter medo em números acalmou sua amígdala.
+Na prática desta rotina transformadora:            (Astrolabe)     ,    ' (Nautical Log)'  .                            .
 
-Hoje BuildSelf analisa a neurociência por trás da rotina do diário de bordo de Cristóvão Colombo.
+Na prática desta rotina transformadora:  BuildSelf                3    .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

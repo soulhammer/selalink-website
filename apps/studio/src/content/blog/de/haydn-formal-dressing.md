@@ -24,7 +24,7 @@ faqs:
 
 Joseph Haydn, der „Vater der Sinfonie“, prägte die klassische Musik und komponierte über 100 Sinfonien. Er hatte eine besondere Angewohnheit: Vor dem Komponieren legte er stets formelle Kleidung, Perücke und seinen Lieblingsring an. Obwohl er allein im Arbeitszimmer saß, glaubte er, dass geistige Ordnung aus äußerer Ordnung entspringt. Entdecken Sie die Wissenschaft der „bekleideten Kognition“.
 
-</div>
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

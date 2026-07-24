@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-Pablo Casals, the Spanish cello legend who resurrected Bach's Cello Suites. Until he passed away at 96, he maintained a unique morning routine for over 80 years. After a light morning walk, he sat at the piano to play two Bach preludes. He called this a blessing rather than practice. We explore the cognitive effects of this morning music ritual on brain synchronization and emotional regulation.
+In this historic routine: 20 , 《 》 . 96 80 . , 《 》 . . . Practicing this daily routine consistently builds deep focus and long-term habits. By systematically applying this historic routine daily, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus. By systematically applying this historic routine daily, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

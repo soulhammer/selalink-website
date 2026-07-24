@@ -24,9 +24,11 @@ faqs:
 
 ---
 
-J.M.W. Turner mengamati fajar setiap hari untuk menangkap cahaya alami. 🌅
+Dengan menerapkan metode ini, Anda mengembangkan kejelasan mental yang konstan.
 
-Hari ini BuildSelf mengungkap sains di balik rutinitas Turner.
+Dengan menerapkan metode ini, Anda mengembangkan kejelasan mental yang konstan.
+
+Dengan menerapkan metode ini, Anda mengembangkan kejelasan mental yang konstan.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

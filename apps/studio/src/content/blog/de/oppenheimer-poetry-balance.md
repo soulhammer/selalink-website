@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-J. Robert Oppenheimer, der Physiker des Manhattan-Projekts. Wie ging er mit Druck um? 📜
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und reduziert geistige Ermüdung.
 
-Jeden Abend las Oppenheimer Poesie auf Sanskrit. Das Eintauchen in die Poesie war sein 'kognitiver Gleichgewichtsschalter'.
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und reduziert geistige Ermüdung.
 
-Heute stellt BuildSelf Oppenheimers Lyrik-Routine vor.
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und reduziert geistige Ermüdung.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

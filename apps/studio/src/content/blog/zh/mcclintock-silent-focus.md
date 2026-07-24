@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-发现“跳跃基因”（转座子）并荣获诺贝尔奖的女性遗传学家芭芭拉·麦克林托克（Barbara McClintock）。在面对学术界长达数十年怀疑时，她是如何保持敏锐直觉的？ 🌽
-
-每天早晨，麦克林托克都会独步行走在玉米田间，静静观察玉米粒的微小变异。这种极致沉静的感官吸收让她突破了教条。
-
-今天 BuildSelf 将为您揭秘麦克林托克沉静专注习惯背后的神经科学。
+在这一历史性惯例的实践中： ' (Transposon, )' , (Barbara McClintock). 1940 ? 🌽 在这一历史性惯例的实践中： . . . 在这一历史性惯例的实践中： BuildSelf .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

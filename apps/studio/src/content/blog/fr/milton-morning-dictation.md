@@ -24,7 +24,7 @@ faqs:
 
 John Milton, le légendaire poète anglais qui a écrit le chef-d'œuvre *Le Paradis Perdu* complètement aveugle. Comment a-t-il pu composer une épopée de plus de 10 000 vers sans voir une seule lettre ? Le secret réside dans sa routine de 4 heures du matin. Milton se réveillait avant l'aube et méditait en silence pour façonner ses vers de tête. Dès que son assistant arrivait à 7h, il dictait sa composition. Découvrez la science de sa concentration.
 
-</div>
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

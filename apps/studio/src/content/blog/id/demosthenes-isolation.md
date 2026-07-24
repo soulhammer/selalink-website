@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Karya Sejarah Plutarch 'Lives: Life of Demosthenes' & Penelitian Kontrol Lingkungan APA"
 steps:
   - name: "Isolasi Smartphone Anda Secara Fisik"
-    text: ""
+    text: "."
   - name: "Setel Pomodoro Timer dan Fokus"
-    text: ""
+    text: "."
   - name: "Lakukan Istirahat Offline Sepenuhnya"
-    text: ""
+    text: "."
 faqs:
   - question: "Mengapa Demosthenes mencukur setengah kepalanya?"
     answer: "Dengan membuat penampilannya konyol, ia mencegah dirinya pergi ke luar, memaksa dirinya mengatasi godaan dan tetap berlatih."
@@ -29,8 +29,7 @@ Dipaksa untuk tinggal di dalam ruangan karena dia terlalu malu untuk keluar di d
 
 Hari ini, BuildSelf mengupas rahasia Demosthenes, yang merancang lingkungan ekstrem bagi dirinya sendiri untuk mengatasi kelemahan manusia, dan bagaimana menerapkan hal ini di era smartphone modern.
 
-
-</div>
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +61,7 @@ Dalam psikologi modern, ini juga diperlakukan sebagai hukum yang sangat penting.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Isolasi Smartphone Anda Secara Fisik</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +71,7 @@ Dalam psikologi modern, ini juga diperlakukan sebagai hukum yang sangat penting.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Setel Pomodoro Timer dan Fokus</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +81,7 @@ Dalam psikologi modern, ini juga diperlakukan sebagai hukum yang sangat penting.
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lakukan Istirahat Offline Sepenuhnya</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

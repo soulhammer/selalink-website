@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Claude Monet se réveillait avant l'aube pour peindre la même scène sous la lumière changeante du matin. Cette routine a aiguisé sa sensibilité aux variations subtiles de l'éclairage.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

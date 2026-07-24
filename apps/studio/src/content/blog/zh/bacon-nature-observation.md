@@ -16,10 +16,13 @@ steps:
     text: "慢速行走，有意识地去寻找并感知周围自然环境中的叶片颜色变化、树枝生长纹路、鸟鸣声、以及泥土的气味。摆脱人造信息的纠缠，拥抱自然感官输入。"
   - name: "第三步：返回后迅速捕捉并整理想法"
     text: "结束散步返回工作台后，立刻记录下在大脑放松状态下自然浮现的创意点子或问题解决方案。得到充分充电的前额叶皮层能提供更清晰的逻辑执行力。"
+faqs:
+  - question: "建议每天实践这一习惯吗？"
+    answer: "是的，在每天固定时间实践能最大化大脑的神经可塑性。"
 
 ---
 
-“想要支配自然，就必须先服从自然。”现代科学方法论的奠基人弗朗西斯·培根同时也是一位狂热的花园爱好者。他每天早晨在庄园花园里漫步，细致观察天气、植物生长和土壤的变化，并让助手记录他口授的规律。对培根而言，观察自然既是科学实验的工具，也是给大脑进行感官排毒的绝佳方式。
+通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -83,4 +86,19 @@ steps:
       散步时如果用手机拍照、回复微信或收听知识类播客，大脑依然在持续消耗“主动注意力”。若想获得认知修复效果，必须将手机调至无音并放入兜内。将注意力完全聚焦于线下自然环境的感官输入。
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>建议每天实践这一习惯吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      是的，在每天固定时间实践能最大化大脑的神经可塑性。
+    </p>
+  </details>
 </div>

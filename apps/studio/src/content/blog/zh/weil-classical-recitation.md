@@ -22,9 +22,7 @@ faqs:
 
 ---
 
-西蒙娜·薇依，将短暂的一生致力于探索真理和人类苦难的法国杰出哲学家。她认为“专注力”是智力和精神最神圣的工具。为了培养这种专注力，她坚持一项晨间惯例：用古希腊语背诵主祷文或柏拉图的段落。她将这种发声过程描述为调整大脑认知频率的“精神清扫”。让我们一起来探索背诵和朗读的神经认知益处。
-
-</div>
+在这一历史性惯例的实践中： , . '(Attention)' . . 脳科学的 . 在这一历史性惯例的实践中：</div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

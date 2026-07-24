@@ -16,10 +16,13 @@ steps:
     text: "在图形之间绘制箭头，标出彼此的关联与因果导向。对于影响显著的关系，可以用粗线绘制，或用波浪线示意波动的强弱，使结构关联一目了然。"
   - name: "第三步：精炼合并以简化逻辑模型"
     text: "将绘制完毕的画稿拿远审视。如果发现线段交织过于繁杂或有冲突冲突的地方，尝试合并同类项或删除无用连接，直至逻辑演变出最和谐、最精简的终版示意图。"
+faqs:
+  - question: "建议每天实践这一习惯吗？"
+    answer: "是的，在每天固定时间实践能最大化大脑的神经可塑性。"
 
 ---
 
-“大自然这本巨著是用几何学的语言写成的。”观测天文学之父伽利略有一项伴随一生的习惯。在比萨大教堂里用脉搏测量摇曳的青铜吊灯时，他的手也在纸上勾勒着吊灯摆动的弧线。水面的涟漪、绳索的颤动，自然界中一切的波动都被他以精准的几何图稿记录在册。对他而言，画稿是强行将抽象物理定律转化为直观视觉现实的最有效媒介。
+通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -83,4 +86,19 @@ steps:
       请千万不要把时间浪费在追求画面的精美与细节描绘上。素描复盘的初衷是抽象的“结构表达”。专注于使用最基础的圆圈、方框、直线和箭头来快速勾勒逻辑链路或权重比例。如果在作画技巧上纠缠不清，反而会耗尽本该用于理清逻辑的大脑能量。
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>建议每天实践这一习惯吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      是的，在每天固定时间实践能最大化大脑的神经可塑性。
+    </p>
+  </details>
 </div>

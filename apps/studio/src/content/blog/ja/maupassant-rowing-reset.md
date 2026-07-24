@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-フランス短編小説の巨匠、ギ・ド・モーパッサン。執筆作業の後に訪れる激しい精神的疲労を、彼はどう克服したのでしょうか？ 🚣
-
-小説を執筆した後、モーパッサンはセーヌ川へ出かけ、ボートを漕ぎ水泳を楽しみました。全身を動かすボート漕ぎは脳を完璧にリセットしました。
-
-今日のBuildSelfではモーパッサンのボート漕ぎリセットルーティンを紹介します。
+この歴史的習慣の実践において：' ', ' ' . ? 🚣 この歴史的習慣の実践において： (Seine River) . . この歴史的習慣の実践において： BuildSelf BDNF() .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

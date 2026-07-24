@@ -24,11 +24,13 @@ faqs:
 
 ---
 
-El médico rural que erradicó la viruela e inventó la primera vacuna del mundo, Edward Jenner salvó millones de vidas. ¿Cómo logró este avance médico? 🩺
+En la práctica de esta rutina transformadora:      (Smallpox)      ' '         ,  (Edward Jenner).            ? 🩺
 
-Jenner no ignoró el folclore sobre las ordeñadoras inmunes. Durante años, visitó granjas a diario y registró síntomas en su diario de observación. Este seguimiento de datos a largo plazo creó la base científica de la vacuna.
+En la práctica de esta rutina transformadora:     '         '     .                '   (Observation Log)'  .         .
 
-Hoy BuildSelf explora la neurociencia tras la rutina del diario de observación de Edward Jenner.
+En la práctica de esta rutina transformadora:  BuildSelf            (Grit)   .
+
+Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

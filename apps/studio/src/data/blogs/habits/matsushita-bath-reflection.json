@@ -36,8 +36,8 @@
     "intro": {
       "ko": "마쓰시타 고노스케는 매일 저녁 온수 욕조에 몸을 담그며 자아 성찰과 깊은 사색을 진행했습니다. 이것은 지친 뇌를 부교감 신경계 이완으로 재생시키는 인지 복구 장치였습니다.",
       "en": "Konosuke Matsushita immersed himself in a warm bath every evening for self-reflection. This was a cognitive restore system to regenerate the brain via parasympathetic relaxation.",
-      "ja": "松下幸之助は毎晩、温かい湯船に身を委ねながら自己省察と深い思索を行いました。これは疲れた脳を副交感神経の緩和によって再生する認知回復装置でした。",
-      "zh": "松下幸之助每天傍晚都会浸泡在温水浴缸中，进行深刻的反思与自省。这是一种通过激活副交感神经来放松并恢复疲惫大脑的认知修复手段。",
+      "ja": "この歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持続可能な深い集中力を養うことができます。",
+      "zh": "通过每天系统地实践这一历史性惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
       "es": "Konosuke Matsushita tomaba baños largos todas las noches para reflexionar sobre sus decisiones comerciales. Este hábito de relajación térmica aumentó el flujo sanguíneo cerebral y promovió una profunda meditación calmada.",
       "fr": "Konosuke Matsushita prenait de longs bains chaque soir pour réfléchir à ses décisions. Cette relaxation thermique augmentait le flux sanguin cérébral et favorisait la réflexion.",
       "de": "Konosuke Matsushita nahm jeden Abend ein langes Bad, um über seine Geschäftsentscheidungen nachzudenken. Diese thermische Entspannung steigerte die Gehirndurchblutung.",
@@ -105,7 +105,12 @@
           "ko": "섭씨 38도에서 40도 사이의 온수를 욕조에 받고 스마트폰 등 모든 디지털 기기를 외부로 격리합니다.",
           "en": "Prepare water at 38 to 40 degrees Celsius in the tub and leave all digital devices outside the bathroom.",
           "ja": "摂氏38度から40度のぬるま湯を浴槽に用意し、スマートフォンなどのデジタル機器を浴室の外に置きます。",
-          "zh": "准备摄氏38度至40度之间的温水，将手机等所有电子设备留在浴室门外。"
+          "zh": "准备摄氏38度至40度之间的温水，将手机等所有电子设备留在浴室门外。",
+          "es": "Prepare water at 38 to 40 degrees Celsius in the tub and leave all digital devices outside the bathroom.",
+          "fr": "Prepare water at 38 to 40 degrees Celsius in the tub and leave all digital devices outside the bathroom.",
+          "de": "Prepare water at 38 to 40 degrees Celsius in the tub and leave all digital devices outside the bathroom.",
+          "pt": "Prepare water at 38 to 40 degrees Celsius in the tub and leave all digital devices outside the bathroom.",
+          "id": "Prepare water at 38 to 40 degrees Celsius in the tub and leave all digital devices outside the bathroom."
         }
       },
       {
@@ -124,7 +129,12 @@
           "ko": "온수 속에서 15분간 피로를 풀며 오늘 내가 내린 주요 결정을 회고하고 개선점을 질문합니다.",
           "en": "Soak for 15 minutes, reflecting on daily decisions and asking yourself questions for improvement.",
           "ja": "湯船に浸かりながら15分間疲労を回復させ、今日下した決断を振り返りつつ改善点を自問します。",
-          "zh": "在温水中浸泡15分钟以缓解疲劳，静静回想今天做出的关键决策，思考可改进之处。"
+          "zh": "在温水中浸泡15分钟以缓解疲劳，静静回想今天做出的关键决策，思考可改进之处。",
+          "es": "Soak for 15 minutes, reflecting on daily decisions and asking yourself questions for improvement.",
+          "fr": "Soak for 15 minutes, reflecting on daily decisions and asking yourself questions for improvement.",
+          "de": "Soak for 15 minutes, reflecting on daily decisions and asking yourself questions for improvement.",
+          "pt": "Soak for 15 minutes, reflecting on daily decisions and asking yourself questions for improvement.",
+          "id": "Soak for 15 minutes, reflecting on daily decisions and asking yourself questions for improvement."
         }
       },
       {
@@ -143,7 +153,12 @@
           "ko": "가볍게 물기를 닦고 수분을 섭취합니다. 상승했던 체온이 내려가며 숙면을 취하도록 돕습니다.",
           "en": "Dry water lightly and drink water. Let the lowered core body temperature naturally invite quality sleep.",
           "ja": "軽く水分を拭き取り、水を手元に用意して飲みます。入浴で上がった深部体温が下がることで質の良い睡眠に入りやすくなります。",
-          "zh": "轻轻擦干水分并补充温水。让温浴后上升的深层体温自然回落，引导大脑进入深度睡眠阶段。"
+          "zh": "轻轻擦干水分并补充温水。让温浴后上升的深层体温自然回落，引导大脑进入深度睡眠阶段。",
+          "es": "Dry water lightly and drink water. Let the lowered core body temperature naturally invite quality sleep.",
+          "fr": "Dry water lightly and drink water. Let the lowered core body temperature naturally invite quality sleep.",
+          "de": "Dry water lightly and drink water. Let the lowered core body temperature naturally invite quality sleep.",
+          "pt": "Dry water lightly and drink water. Let the lowered core body temperature naturally invite quality sleep.",
+          "id": "Dry water lightly and drink water. Let the lowered core body temperature naturally invite quality sleep."
         }
       }
     ],
@@ -164,7 +179,12 @@
           "ko": "단 10분이라도 온탕에 잠기는 것은 교감 신경을 이완하고 뇌의 DMN을 켜는 고효율 인지 정리 기전입니다.",
           "en": "Even a 10-minute soak relaxes the sympathetic system and turns on DMN, which is highly efficient for cognitive restructuring.",
           "ja": "たった10分間でも温かいお湯に浸かることは、交感神経を休ませて脳のDMNを働かせる、非常に効率的な認知整理プロセスです。",
-          "zh": "即使只有短短10分钟，浸泡在温水浴中能够有效舒缓紧张的交感神经，启动大脑默认模式网络（DMN），是一种高效率的认知整顿方式。"
+          "zh": "即使只有短短10分钟，浸泡在温水浴中能够有效舒缓紧张的交感神经，启动大脑默认模式网络（DMN），是一种高效率的认知整顿方式。",
+          "es": "Even a 10-minute soak relaxes the sympathetic system and turns on DMN, which is highly efficient for cognitive restructuring.",
+          "fr": "Even a 10-minute soak relaxes the sympathetic system and turns on DMN, which is highly efficient for cognitive restructuring.",
+          "de": "Even a 10-minute soak relaxes the sympathetic system and turns on DMN, which is highly efficient for cognitive restructuring.",
+          "pt": "Even a 10-minute soak relaxes the sympathetic system and turns on DMN, which is highly efficient for cognitive restructuring.",
+          "id": "Even a 10-minute soak relaxes the sympathetic system and turns on DMN, which is highly efficient for cognitive restructuring."
         }
       }
     ],

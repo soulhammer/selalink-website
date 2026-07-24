@@ -24,9 +24,13 @@ faqs:
 
 ---
 
-Júlio César, líder militar e político romano, viajava sempre acompanhado de 3 ou 4 secretários. Ele ditava mensagens de temas totalmente distintos ao mesmo tempo, alternando as frases entre eles. Essa velocidade era a base de sua gestão.
+Na prática desta rotina transformadora:               .           .  24               .
 
-Hoje, o BuildSelf mostra a neurociência por trás do 'ditado simultâneo' de César e como utilizá-lo.
+Na prática desta rotina transformadora:            3~4  .        ,  ,     (Dictation).                   .         .
+
+Na prática desta rotina transformadora:  BuildSelf   ' (Simultaneous Dictation)'               .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

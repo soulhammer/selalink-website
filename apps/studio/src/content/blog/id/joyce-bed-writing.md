@@ -24,7 +24,7 @@ faqs:
 
 James Joyce, salah satu penulis paling berpengaruh di abad ke-20 yang memelopori aliran kesadaran melalui epos *Ulysses*. Sepanjang hidupnya, ia menderita penyakit mata parah. Agar tetap bisa menulis dalam kondisi fisik lemah, ia merutinkan menulis di ranjang mengenakan mantel putih dan krayon biru di atas kertas putih. Mari kita pelajari sains di balik rutinitasnya.
 
-</div>
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

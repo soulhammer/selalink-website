@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-アマゾンやアンデス山脈を探検し、現代生態学の基礎を築いたアレクサンダー・フォン・フンボルト。彼の統合的洞察は即座の記録から生まれました。🌿
-
-フンボルトは過酷な探検中も、観測した瞬間にノートを取り出し正確な数値とスケッチを記録しました。タイムラグを失くすことで普遍的パターンを発見しました。
-
-今日のBuildSelfでは、フンボルトの「即座観察記録」ルーティンを紹介します。
+この歴史的習慣の実践において： (Chimborazo) , . ' ' ? 🌿 この歴史的習慣の実践において： , , , . , ' (Cosmos)' . この歴史的習慣の実践において： BuildSelf ' ' 3 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

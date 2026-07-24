@@ -36,8 +36,8 @@
     "intro": {
       "ko": "일본 전국시대의 혼란을 통일한 도쿠가와 이에야스. 그가 격변기 속에서 74세까지 장수하며 에도 막부의 시대를 열 수 있었던 건강과 감정 조절의 비결은 매일 직접 생약을 갈아 처방하던 루틴이었습니다.",
       "en": "Tokugawa Ieyasu unified the Warring States period of Japan. His secret to longevity and founding the Edo Shogunate was his daily routine of grinding and prescribing herbs himself.",
-      "ja": "日本の戦国時代を統一した徳川家康。彼が激動期の中で長寿を全うし江戸幕府を開くことができた秘訣は、毎日自らすり鉢で生薬を挽いて調剤するルーティンにありました。",
-      "zh": "统一日本战国时代的德川家康。他在动荡时期得以长寿并开创江户幕府的秘诀，在于每日亲自在药钵中研磨配制生药的惯例。",
+      "ja": "この歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持続可能な深い集中力を養うことができます。",
+      "zh": "通过每天系统地实践这一历史性惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
       "es": "Tokugawa Ieyasu preparaba sus propias medicinas moliendo hierbas en un mortero. Este hábito manual le proporcionó una estimulación táctil que calmó su sistema nervioso y agudizó su enfoque estratégico durante momentos de alta tensión política.",
       "fr": "Tokugawa Ieyasu préparait ses propres remèdes en broyant des herbes. Ce travail manuel lui apportait une stimulation tactile qui calmait son système nerveux lors des tensions politiques.",
       "de": "Tokugawa Ieyasu stellte seine eigenen Medikamente her, indem er Kräuter in einem Mörser zerrieb. Diese manuelle Arbeit verschaffte ihm eine taktile Stimulation, die sein Nervensystem beruhigte.",
@@ -105,7 +105,12 @@
           "ko": "매일 오전, 차로 우려 마실 말린 찻잎이나 한약재 등을 사발에 정돈하여 준비합니다.",
           "en": "Every morning, prepare dried tea leaves or herbs in a scale or bowl.",
           "ja": "毎日午前中、お茶にして飲むための乾燥茶葉や漢方薬材を器に準備します。",
-          "zh": "每天上午，准备适量用于泡茶的干燥茶叶或养生草药并放入药钵中。"
+          "zh": "每天上午，准备适量用于泡茶的干燥茶叶或养生草药并放入药钵中。",
+          "es": "Every morning, prepare dried tea leaves or herbs in a scale or bowl.",
+          "fr": "Every morning, prepare dried tea leaves or herbs in a scale or bowl.",
+          "de": "Every morning, prepare dried tea leaves or herbs in a scale or bowl.",
+          "pt": "Every morning, prepare dried tea leaves or herbs in a scale or bowl.",
+          "id": "Every morning, prepare dried tea leaves or herbs in a scale or bowl."
         }
       },
       {
@@ -124,7 +129,12 @@
           "ko": "일정하고 부드럽게 누르며 5분 동안 약재를 곱게 갈아내며 원형 운동에만 집중합니다.",
           "en": "Grind the herbs clockwise gently for 5 minutes, focusing entirely on the circular motion.",
           "ja": "時計回りに円を描くように一定のペースで優しく5分間すり潰し、その円運動にのみ集中します。",
-          "zh": "顺时针画圆，以均匀的力量温柔地磨碎药材，持续5分钟，专注于指尖感受的阻力。"
+          "zh": "顺时针画圆，以均匀的力量温柔地磨碎药材，持续5分钟，专注于指尖感受的阻力。",
+          "es": "Grind the herbs clockwise gently for 5 minutes, focusing entirely on the circular motion.",
+          "fr": "Grind the herbs clockwise gently for 5 minutes, focusing entirely on the circular motion.",
+          "de": "Grind the herbs clockwise gently for 5 minutes, focusing entirely on the circular motion.",
+          "pt": "Grind the herbs clockwise gently for 5 minutes, focusing entirely on the circular motion.",
+          "id": "Grind the herbs clockwise gently for 5 minutes, focusing entirely on the circular motion."
         }
       },
       {
@@ -143,7 +153,12 @@
           "ko": "따뜻한 물을 부어 우려낸 후, 천천히 냄새를 맡고 음미하며 마십니다.",
           "en": "Pour warm water over the ground herbs or tea leaves, and sip slowly while regulating breathing.",
           "ja": "温かいお湯を注いで淹れた後、ゆっくりと香りを味わいながら飲み、呼吸を整えます。",
-          "zh": "在研磨好的茶叶中冲入温水，慢慢闻香并细细品饮，调匀呼吸。"
+          "zh": "在研磨好的茶叶中冲入温水，慢慢闻香并细细品饮，调匀呼吸。",
+          "es": "Pour warm water over the ground herbs or tea leaves, and sip slowly while regulating breathing.",
+          "fr": "Pour warm water over the ground herbs or tea leaves, and sip slowly while regulating breathing.",
+          "de": "Pour warm water over the ground herbs or tea leaves, and sip slowly while regulating breathing.",
+          "pt": "Pour warm water over the ground herbs or tea leaves, and sip slowly while regulating breathing.",
+          "id": "Pour warm water over the ground herbs or tea leaves, and sip slowly while regulating breathing."
         }
       }
     ],
@@ -164,7 +179,12 @@
           "ko": "일정한 속도로 반복되는 움직임은 세로토닌 시스템을 활성화하고 인지적 몰입을 유도하여 불안감을 차단하기 때문입니다.",
           "en": "Repeated movement with steady speed activates the brain's serotonin system, improving mood and blocking anxiety about the future.",
           "ja": "一定の速度で繰り返される動きは、脳のセロトニンシステムを活性化して気分を改善し、未来に対する不安感を遮断するためです。",
-          "zh": "因为以规律速度重复进行的动作能激活大脑的血清素系统，改善情绪并阻断对未来的焦虑感。"
+          "zh": "因为以规律速度重复进行的动作能激活大脑的血清素系统，改善情绪并阻断对未来的焦虑感。",
+          "es": "Repeated movement with steady speed activates the brain's serotonin system, improving mood and blocking anxiety about the future.",
+          "fr": "Repeated movement with steady speed activates the brain's serotonin system, improving mood and blocking anxiety about the future.",
+          "de": "Repeated movement with steady speed activates the brain's serotonin system, improving mood and blocking anxiety about the future.",
+          "pt": "Repeated movement with steady speed activates the brain's serotonin system, improving mood and blocking anxiety about the future.",
+          "id": "Repeated movement with steady speed activates the brain's serotonin system, improving mood and blocking anxiety about the future."
         }
       }
     ],

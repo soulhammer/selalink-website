@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-Victor Hugo, o monumental escritor francês que escreveu 'Os Miseráveis' e 'Nossa Senhora de Paris'. Diante de um prazo de entrega muito apertado, recorreu a uma medida extrema: rapou metade do cabelo e da barba e fechou-se no seu escritório. Incapaz de sair devido à sua aparência, terminou a obra a tempo. Hoje, o BuildSelf analisa como os dispositivos de compromisso físico forçam o foco.
+Na prática desta rotina transformadora: Victor Hugo, the monumental French writer who authored 'Les Misérables' and 'The Hunchback of Notre-Dame.' Facing an incredibly tight deadline for Notre-Dame, he resorted to an extreme measure: he shaved half of his hair and beard and locked himself in his study. Unable to go outside due to his appearance, he finished the masterpiece on time. Today, BuildSelf discusses how physical commitment devices can enforce deep creative focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-阿加莎·克里斯蒂，赫尔克里·波洛和马普尔小姐的创作者，历史上最畅销的小说家。她那些错综复杂的谋杀情节和不在场证明是如何诞生的？与把自己关在书房里强行写作不同，克里斯蒂认为当她浸在温暖的浴缸中时，她的思维运转得最好。今天，BuildSelf将带您探索阿加莎·克里斯蒂“洗澡与苹果”惯例背后的行为科学，以及您如何应用它来解决每日的复杂问题。
+在这一历史性惯例的实践中： , . 80 ? , clawfoot . BuildSelf ' ' .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

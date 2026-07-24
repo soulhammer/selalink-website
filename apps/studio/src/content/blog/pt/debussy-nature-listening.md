@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Claude Debussy, o mestre francês criador de 'Clair de Lune'. De onde vinham suas harmonias? 🌊
+Esta prática diária essencial estimula um foco profundo e reduz a fadiga cognitiva.
 
-Quando travava, Debussy ia para a natureza ao amanhecer para ouvir o vento e os pássaros.
+Esta prática diária essencial estimula um foco profundo e reduz a fadiga cognitiva.
 
-Hoje, o BuildSelf apresenta a rotina de escuta da natureza de Debussy.
+Esta prática diária essencial estimula um foco profundo e reduz a fadiga cognitiva.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

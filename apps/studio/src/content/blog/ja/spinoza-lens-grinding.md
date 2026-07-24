@@ -16,6 +16,9 @@ steps:
     text: "モニターの前から即座に離れ、あらかじめ用意しておいたアナログな手作業（例：皿洗い、紙の筆写、ミニモデルの組み立て）を始めます。指先の感触と動きだけに神経を集中させて15分間行います。"
   - name: "ステップ3：すっきりした脳で演算業務に復帰する"
     text: "15分間の手仕事を終えた後、再びパソコンの前に戻り、本来の企画や開発業務を再開します。脳の休息エリアが復元され、はるかに明瞭で効率的な意思決定が可能になるはずです。"
+faqs:
+  - question: "この習慣を毎日実践すべきですか？"
+    answer: "はい、毎日決まった時間に実践することで脳の神経可塑性が極大化します。"
 
 ---
 
@@ -83,4 +86,19 @@ steps:
       このような弛緩効果を得るためには、スマホやキーボードを扱う作業から完全に離れなければなりません。電子機器の操作は脳に依然として高度な論理演算を要求するため、認知的な疲労を和らげることができません。皿洗い、手書きの筆写、手芸やプラモデルの組み立てなど、ただ触覚的な情報と時空間の制御のみが必要な単純な身体活動を選択してください。
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>この習慣を毎日実践すべきですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      はい、毎日決まった時間に実践することで脳の神経可塑性が極大化します。
+    </p>
+  </details>
 </div>

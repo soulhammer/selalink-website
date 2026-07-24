@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Raja Ashoka, yang menyatukan India dan berubah menjadi raja perdamaian pasca Perang Kalinga. Rahasianya? 🏛️
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
-Ashoka mengukir nilai-nilai moralnya di pilar batu sebagai jangkar visual harian untuk mengevaluasi tindakannya.
-
-Hari ini, BuildSelf menjelajahi rutinitas refleksi ukiran batu Raja Ashoka.
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

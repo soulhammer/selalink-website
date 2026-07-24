@@ -22,9 +22,7 @@ faqs:
 
 ---
 
-Jean-Jacques Rousseau war der französische Denker, der den Weg für die Französische Revolution ebnete. In seinen späten Jahren, geplagt von Verfolgung und Ängsten, fand er Trost im Pflanzensammeln beim Gehen. Jeden Nachmittag sammelte er Wildpflanzen und schrieb Einfälle auf die Rückseite von Spielkarten. Diese Notizen wurden zu *Träumereien eines einsamen Spaziergängers*. Entdecken Sie die heilsame Wirkung.
-
-</div>
+Jean-Jacques Rousseau war der französische Denker, der den Weg für die Französische Revolution ebnete. In seinen späten Jahren, geplagt von Verfolgung und Ängsten, fand er Trost im Pflanzensammeln beim Gehen. Jeden Nachmittag sammelte er Wildpflanzen und schrieb Einfälle auf die Rückseite von Spielkarten. Diese Notizen wurden zu *Träumereien eines einsamen Spaziergängers*. Entdecken Sie die heilsame Wirkung. </div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

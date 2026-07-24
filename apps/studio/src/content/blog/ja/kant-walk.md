@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "マンフレート・クーン著『カント伝』および神経科学・学習記憶ジャーナル（JN）"
 steps:
   - name: "午後3時30分のリフレッシュアラーム"
-    text: ""
+    text: "."
   - name: "スマートフォンを持たない15分間の沈黙散歩"
-    text: ""
+    text: "."
   - name: "呼吸を整えて復帰する"
-    text: ""
+    text: "."
 faqs:
   - question: "カントはなぜ毎日午後3時30分きっかりに散歩に出かけたのですか？"
     answer: "高度な哲学研究を長期にわたって維持するため、身体のバイオリズムを時計のように規則正しく管理し、健康と精神の平穏を守るための厳格な儀式でした。"
@@ -27,8 +27,7 @@ faqs:
 
 本日、BuildSelfでは、一日も欠かさず歩みを運んだ巨匠の厳格なライフスタイルに隠された医学的効能と、現代的な実践法を紹介します。
 
-
-</div>
+この歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持持続可能な深い集中力を養うことができます。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +59,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">午後3時30分のリフレッシュアラーム</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +69,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">スマートフォンを持たない15分間の沈黙散歩</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +79,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">呼吸を整えて復帰する</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

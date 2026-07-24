@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Paul Dirac, premio Nobel que predijo la antimateria. ¿De dónde surgieron sus ecuaciones? 🌌
+Esta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.
 
-Dirac caminaba en silencio por el bosque los domingos sin pronunciar palabra. Detener el ruido verbal pulió sus matemáticas.
+Esta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.
 
-Hoy, BuildSelf presenta la rutina de 'caminata silenciosa' de Paul Dirac.
+Esta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

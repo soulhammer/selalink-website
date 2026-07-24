@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-“清晨当你难以起床时，告诉自己：我是为了履行一个人的天职而醒来。”罗马哲人皇帝马可·奥勒留在沙场征战中也从未中断过这一习惯。在拂晓前的寂静军帐中，他提笔疾书，不是为了流芳百世，而仅仅是为了驯服自己的灵魂，在帝国危机与战乱中守住内心的安宁。
+通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

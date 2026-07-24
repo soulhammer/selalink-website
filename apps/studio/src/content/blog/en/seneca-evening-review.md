@@ -16,6 +16,9 @@ steps:
     text: "Close your eyes and mentally walk through your day from the moment you woke up. Examine your actions, choices, and interactions without judging or defending yourself, just observing."
   - name: "Reconvene & Re-engineer"
     text: "Identify one key lesson or mistake you made. Plan one concrete adjustment you will make tomorrow to handle it better. Once the plan is set, mentally close the day and release all worries."
+faqs:
+  - question: "Should I practice this habit daily?"
+    answer: "Yes, practicing at a set time daily maximizes brain neuroplasticity."
 
 ---
 
@@ -83,4 +86,19 @@ Going to bed with unresolved stresses keeps the sympathetic nervous system activ
       The goal of evening review is rational correction, not emotional self-punishment. If you made a mistake, acknowledge it, plan how to avoid it tomorrow, and forgive yourself. Stoic reflection is about calm self-examination, like a judge seeking justice rather than execution.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>Should I practice this habit daily?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Yes, practicing at a set time daily maximizes brain neuroplasticity.
+    </p>
+  </details>
 </div>

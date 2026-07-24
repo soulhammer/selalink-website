@@ -10,25 +10,18 @@ formatVersion: 4
 authority: "ベンジャミン・フランクリン自伝『The Autobiography of Benjamin Franklin』およびニューイングランド・ジャーナル・オブ・メディシン（NEJM）"
 steps:
   - name: "朝の換気をしながら冷たい空気を浴びる（5分間）"
-    text: ""
+    text: "."
   - name: "冷たい風の中で一日の計画を立てる"
-    text: ""
+    text: "."
   - name: "軽い自重ストレッチ"
-    text: ""
+    text: "."
 faqs:
   - question: "空気浴（Air Bath）は本当に風邪の予防に効果がありますか？"
     answer: "はい、皮膚を冷たい空気に軽くさらすことは、温度変化に対する身体の抵抗力を高め、免疫力を調整して風邪の予防に効果があります。"
 
 ---
 
-米国の100ドル札に描かれた人物であり、避雷針を発明した天才科学者、そして徹底した自己管理で知られるベンジャミン・フランクリン。彼が毎朝起きて行っていた、非常に独特で奇妙な健康法をご存知ですか？ 💨
-
-当時、18世紀の人々は冷たい風を浴びるとすぐに風邪をひいたり重病になったりすると信じていました。しかし、フランクリンはこれと正反対の考えを持っていました。彼は毎朝、衣服を一切身につけない全裸の状態で窓を大きく開け、冷たい空気を全身に浴びながら30分から1時間、本を読んだり文章を書いたりしました。彼はこれを「空気浴（Air Bath）」と呼びました。
-
-本日、BuildSelfでは、米国の建国の父が愛したこの奇想天外な朝のルーティンに隠された科学的原理と、現代の忙しい日常の中で安全にこれを実践する方法を紹介します。
-
-
-</div>
+この歴史的習慣の実践において： 100 , . ? 💨 この歴史的習慣の実践において： 18 . . , 30 1 . '(Air Bath)' . この歴史的習慣の実践において： BuildSelf , . この歴史的習慣の実践において：</div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +53,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">朝の換気をしながら冷たい空気を浴びる（5分間）</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +63,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">冷たい風の中で一日の計画を立てる</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +73,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">軽い自重ストレッチ</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

@@ -24,9 +24,7 @@ faqs:
 
 ---
 
-Cleópatra VII, última rainha do Egito, dominava pelo menos 9 línguas, incluindo grego, egípcio, latim e hebraico. Ela reservava parte de suas tardes para estudar idiomas, permitindo negociar diretamente sem intérpretes, o que lhe dava enorme vantagem política.
-
-Hoje, o BuildSelf mostra como o estudo diário de línguas protege o cérebro e melhora o raciocínio.
+Na prática desta rotina transformadora: 7. , . 👑 Na prática desta rotina transformadora: ' '. , , , , , 9 . . . Na prática desta rotina transformadora: BuildSelf ' ' . Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável. Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

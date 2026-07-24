@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Napoléon Bonaparte, légendaire stratège militaire et empereur de France. Réputé pour son énergie débordante, il gérait l'État et les batailles avec 4 heures de sommeil par nuit. Son secret résidait dans les « micro-siestes » de 10 à 15 minutes dès qu'il avait un moment libre, même au combat. Aujourd'hui, BuildSelf montre comment ces siestes réinitialisent vos capacités.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

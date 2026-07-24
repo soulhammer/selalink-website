@@ -10,25 +10,18 @@ formatVersion: 4
 authority: "尼古拉·特斯拉自传《My Inventions》及《物理治疗科学杂志》（JPTS）"
 steps:
   - name: "床上的数字化排毒"
-    text: ""
+    text: "."
   - name: "双脚蜷缩 50 次的仪式"
-    text: ""
+    text: "."
   - name: "配合呼吸放松大脑"
-    text: ""
+    text: "."
 faqs:
   - question: "活动脚趾真的有助于激活大脑吗？"
     answer: "是的，脚趾区域位于大脑皮层躯体感觉映射的中心附近。刺激脚趾微肌肉能通过外周神经微刺激前额叶皮层。"
 
 ---
 
-与爱迪生一起照亮世界的天才科学家、奠定现代电力文明基石的尼古拉·特斯拉。你是否知道，他每天晚上躺在床上都会重复一个非常奇特的动作？ ⚡
-
-特斯拉平时保持着每天仅睡 2 小时的极端睡眠模式，却依然能不知疲倦地进行无数发明。他的秘诀之一，就是每天晚上躺在床上，将双脚脚趾各紧握再松开 100 次的独特睡眠仪式。
-
-今天，BuildSelf 将为您介绍这位历史天才奇特习惯中蕴含的科学原理，以及如何将其应用到我们的日常生活中。
-
-
-</div>
+在这一历史性惯例的实践中： , . ? ⚡ 在这一历史性惯例的实践中： 2 . 100 . 在这一历史性惯例的实践中： BuildSelf , . 在这一历史性惯例的实践中：</div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +53,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">床上的数字化排毒</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +63,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">双脚蜷缩 50 次的仪式</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +73,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">配合呼吸放松大脑</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

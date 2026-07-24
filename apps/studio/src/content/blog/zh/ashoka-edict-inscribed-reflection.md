@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-统一古印度半岛、并在看见卡林加战争惨状后自省成为和平守护者的阿育王。他在余生中恪守道德自治的秘诀是什么？ 🏛️
-
-阿育王将自己的道德价值观刻在巨型石柱上。除了诏告臣民，他每天也用这些碑文审视自己的决定。坚硬石柱上的文字成为了防范情绪动摇的视觉锚点。
-
-今天，BuildSelf 将带您探究阿育王“价值观铭文反思”惯例指南。
+在这一历史性惯例的实践中： , (Ashoka the Great). (Kalinga) , ? 🏛️ 在这一历史性惯例的实践中： , (Dharma) . , . (Visual Anchor) . 在这一历史性惯例的实践中： BuildSelf ' ' 3 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

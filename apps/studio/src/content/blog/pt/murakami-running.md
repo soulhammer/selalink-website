@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-O romancista de renome mundial Haruki Murakami. Descubra a neurociência por trás de sua corrida diária de 10 km e um guia de 3 passos para profissionais modernos. Hoje, o BuildSelf explora as razões científicas por trás da corrida de Murakami e como você pode construir sua própria rotina de resistência.
+Na prática desta rotina : Haruki Murakami, a giant of modern Japanese literature who creates a global sensation with every work he publishes. He is not only a novelist but also a passionate runner who has completed a full marathon every year for over 40 years. When he became a full-time writer in 1982, he experienced a decline in stamina and weight gain from sitting and writing all day. He realized that to sustain creative activities in the long run, a novelist needs not just talent, but strong physical stamina to maintain high concentration. He quit smoking and started a routine of running 10km or swimming 1,500m every morning, which he maintains wherever he goes. Today, BuildSelf explores the scientific reasons behind Murakami's running and how you can build your own stamina routine.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

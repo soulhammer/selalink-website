@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Srinivasa Ramanujan, genius matematika India yang mempublikasikan lebih dari 3.900 teorema. Dari mana datangnya inspirasi intuitifnya? 📐
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
-Ramanujan sering bermimpi tentang formula. Saat bangun tidur dalam kondisi gelombang alfa, ia segera mencatat persamaan tersebut.
-
-Hari ini, BuildSelf menjelajahi prinsip ilmiah di balik rutinitas catatan pagi Ramanujan.
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

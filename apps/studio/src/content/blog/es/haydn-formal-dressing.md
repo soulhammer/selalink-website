@@ -24,7 +24,7 @@ faqs:
 
 Joseph Haydn, el 'Padre de la Sinfonía' que sentó las bases del estilo clásico. Compuso más de 100 sinfonías en su vida. Curiosamente, tenía un hábito único: siempre vestía de gala, con peluca y su anillo preferido antes de escribir música. Aunque trabajaba solo en su estudio, creía que el orden mental nacía del orden exterior. Conozcamos la ciencia de la 'cognición revestida'.
 
-</div>
+Esta práctica diaria esencial fomenta un enfoque profundo y una claridad mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

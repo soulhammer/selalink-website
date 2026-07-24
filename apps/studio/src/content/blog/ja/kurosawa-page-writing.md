@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-黒澤明監督は、撮影期間中であっても毎日シナリオを2ページ書くという質素な原則を守り続けました。これは扁桃体を刺激せずに脳の行動力を引き出す知恵です。
+この歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持続可能な深い集中力を養うことができます。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

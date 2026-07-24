@@ -11,11 +11,11 @@ formatVersion: 4
 authority: "René Descartes' Biography 'La Vie de Monsieur Descartes' & Psychophysiology Journal"
 steps:
   - name: "Maintain Posture and Block Smartphones Immediately After Alarm"
-    text: ""
+    text: "."
   - name: "Relaxing Breathing and Body Scan"
-    text: ""
+    text: "."
   - name: "Setting Today's 'Core Question'"
-    text: ""
+    text: "."
 faqs:
   - question: "Is morning meditation in bed really effective for the brain?"
     answer: "Yes, a horizontal posture right after waking guides brainwaves into an alpha state, stabilizing the autonomic nervous system and boosting creativity and emotional stability."
@@ -28,8 +28,7 @@ Descartes was very weak since childhood, so it was very difficult for him to get
 
 Today, BuildSelf introduces the scientific basis of Descartes' 'bed thinking' meditation routine and how busy modern people can use it in the morning.
 
-
-</div>
+By practicing this routine daily, knowledge workers can eliminate fatigue and cultivate deep focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -61,7 +60,7 @@ On the other hand, maintaining a horizontal, comfortable lying posture for a whi
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Maintain Posture and Block Smartphones Immediately After Alarm</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -71,7 +70,7 @@ On the other hand, maintaining a horizontal, comfortable lying posture for a whi
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Relaxing Breathing and Body Scan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -81,7 +80,7 @@ On the other hand, maintaining a horizontal, comfortable lying posture for a whi
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Setting Today's 'Core Question'</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

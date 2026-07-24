@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-浪漫主义天才作曲家费利克斯·门德尔松（Felix Mendelssohn）创作了《仲夏夜之梦》等惊世之作。在繁忙的指挥与创作间，他如何保持源源不断的灵感？ 🎨
-
-排练间隙，门德尔松会带着便携水彩画具漫步写生。将大脑从听觉模式切换至视觉空间模式，成功激活了他的右脑创想。
-
-今天 BuildSelf 将为您剖析门德尔松水彩写生习惯背后的神经科学。
+在这一历史性惯例的实践中：< >, < > 19 , (Felix Mendelssohn). ? 🎨 在这一历史性惯例的实践中： , . . . 在这一历史性惯例的实践中： BuildSelf (Cross-Sensory Shifting) .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

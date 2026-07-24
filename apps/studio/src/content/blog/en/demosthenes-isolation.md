@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Plutarch's 'Lives: Life of Demosthenes' & APA Environmental Control Research"
 steps:
   - name: "Physically Isolate Your Smartphone"
-    text: ""
+    text: "."
   - name: "Set a Pomodoro Timer and Immerse Yourself"
-    text: ""
+    text: "."
   - name: "Take a Complete Offline Break"
-    text: ""
+    text: "."
 faqs:
   - question: "Why did Demosthenes shave half of his head?"
     answer: "By making his appearance ridiculous, he prevented himself from going outside, forcing himself to overcome temptation and stay in his study to practice."
@@ -29,8 +29,7 @@ Forced to stay indoors because he was too embarrassed to go out in public with h
 
 Today, BuildSelf explores the secret of Demosthenes, who designed an extreme environment for himself to overcome human weakness, and how to apply this to the modern smartphone era.
 
-
-</div>
+By practicing this routine daily, knowledge workers can eliminate fatigue and cultivate deep focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +61,7 @@ In modern psychology, this is also treated as a very important law. Willpower is
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Physically Isolate Your Smartphone</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +71,7 @@ In modern psychology, this is also treated as a very important law. Willpower is
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Set a Pomodoro Timer and Immerse Yourself</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +81,7 @@ In modern psychology, this is also treated as a very important law. Willpower is
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Take a Complete Offline Break</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

@@ -22,7 +22,16 @@ faqs:
 
 ---
 
-Charles Dickens, amplamente considerado o maior romancista da era vitoriana, com obras-primas como 'Oliver Twist', 'Grandes Esperanças' e 'Um Conto de Natal'. Sabe onde nasceram os personagens encantadores e os enredos complexos dos seus romances? O segredo está na sua rotina de 'caminhada de 3 horas' todas as tardes. Depois de escrever das 9 AM às 2 PM, Dickens ia para a rua. Caminhava cerca de 16-19 km a um ritmo rápido durante exatamente três horas. Hoje, o BuildSelf partilha os princípios neurocientíficos por trás da rotina de caminhada de Dickens.
+Na prática desta rotina transformadora: 《 》, 《 》, 《 》 . ? 🚶‍♂️
+
+ '3 ' . 9 2 , . 3 10~12(16~19km) . , . , .
+
+ BuildSelf 3 .
+
+
+
+
+--- Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável. Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

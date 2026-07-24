@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-作为第40任美国总统，罗纳德·里根（Ronald Reagan）主导了冷战外交。在面对白宫高压决策时，他是如何化解精神紧张的？ 🍬
-
-在椭圆形办公室的书桌上，总是摆放着一罐色彩斑斓的软糖（Jelly Belly）。在紧张谈判中，里根会停顿下来品尝一颗软糖。这微小的暂停为前额叶补充了能量。
-
-今天 BuildSelf 将为您揭秘里根软糖放松习惯背后的神经科学。
+在这一历史性惯例的实践中： 40 , (Ronald Reagan). ? 🍬 在这一历史性惯例的实践中： '(Jelly Belly)' . - , . . 在这一历史性惯例的实践中： BuildSelf .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

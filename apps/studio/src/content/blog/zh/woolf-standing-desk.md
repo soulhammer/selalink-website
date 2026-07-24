@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-弗吉尼亚·伍尔夫创作了《达洛维夫人》、《到灯塔去》等载入英美文学史的杰作，被誉为20世纪现代主义文学的先驱。她是如何用如此细腻而洗练的文字，展现人物隐秘的内心世界和复杂的心理活动呢？在她惊人的专注力背后，有着一种非常独特的创作习惯。伍尔夫每天早晨都会站在一张高度超过1米、倾斜的站立式书桌前挥毫泼墨。这种站立写作的惯例，灵感源自她当时身为杰出画家的妹妹瓦妮莎·贝尔（Vanessa Bell）的工作方式。今天，BuildSelf将为您介绍伍尔夫站立写作习惯背后的科学益处，以及适合现代人的专注力提升方法。
+在这一历史性惯例的实践中：Virginia Woolf, evaluated as a pioneer of 20th-century modernist literature, leaving behind masterpieces such as 'Mrs. Dalloway' and 'To the Lighthouse.' How was she able to realize such intimate inner worlds and complex psychology with such persistent and sophisticated sentences? Behind her amazing concentration was a very unique working habit. Every morning, Woolf stood in front of a tilted standing desk over a meter high to write. This writing routine was inspired by the working method of her sister, Vanessa Bell, an outstanding painter. Fascinated by the way her sister stood in front of the easel, using her whole body to paint, Woolf thought that she too had to stand to write in order to perceive the sentences and the overall structure of the novel in a three-dimensional and balanced way. Today, BuildSelf shares the scientific benefits of Woolf's standing writing routine and concentration-boosting practices.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

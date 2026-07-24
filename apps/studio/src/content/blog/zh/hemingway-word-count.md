@@ -21,7 +21,16 @@ faqs:
 
 ---
 
-欧内斯特·海明威是现代美国文学大师，曾荣获诺贝尔文学奖和普利策奖。他以极简、硬汉风格的文风闻名，而他每日的自律同样堪称传奇。他每天清晨便开始写作，在每次结束时，都会数出当天写作的字数，并记录在墙上的一张大图表上。今天，BuildSelf将带您探索海明威追踪进度背后的科学原理，以及您如何应用自我监控来保持每日的动力。
+在这一历史性惯例的实践中：《 》, 《 》 . . 📝
+
+ , (Progress Chart) . , . , .
+
+ BuildSelf .
+
+
+
+
+---
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

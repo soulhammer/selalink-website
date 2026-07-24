@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-伦勃朗·凡·莱因，17世纪荷兰黄金时代的不朽大师。虽然他早期获得了巨大的财富和名声，但晚年却以破产和孤独为标志。然而，他从未停止画自画像，在40年里留下了80多幅作品。这是一个视觉反省的过程，毫无扭曲地凝视着镜中自己衰老的脸。我们研究伦勃朗如何通过凝视镜子来保持韧性。
+通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

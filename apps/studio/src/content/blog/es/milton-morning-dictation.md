@@ -24,7 +24,7 @@ faqs:
 
 John Milton, el legendario poeta inglés que escribió la obra maestra *El paraíso perdido* completamente ciego. ¿Cómo pudo escribir una epopeya de más de 10.000 líneas sin ver una sola letra? El secreto está en su rutina de las 4 a.m. Milton se despertaba antes del amanecer y meditaba en silencio para dar forma a los versos en su mente. Al llegar su asistente a las 7 a.m., dictaba su composición. Conozcamos la ciencia detrás de su enfoque.
 
-</div>
+Esta práctica diaria esencial fomenta un enfoque profundo y una claridad mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

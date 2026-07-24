@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-Appleを率いるCEOティム・クック。彼の意思決定の秘密は何でしょうか？ ⌚
-
-クックは毎朝3時45分に起き、1時間顧客メールを読んだ後、5時にジムで汗を流します。外部の邪魔が入らないこの時間こそ、一日の主導権を握るゾーンです。
-
-今日のBuildSelfでは、ティム・クックの「早起きコントロール」ルーティンを紹介します。
+この歴史的習慣の実践において： IT (Apple) CEO , (Tim Cook). , ? ⌚ この歴史的習慣の実践において： 3 45 . 1 70~100 . 5 1 . , ' '. この歴史的習慣の実践において： BuildSelf ' ' 3 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

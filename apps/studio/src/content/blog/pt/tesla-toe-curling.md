@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "A Autobiografia de Nikola Tesla 'My Inventions' & Journal of Physical Therapy Science (JPTS)"
 steps:
   - name: "Detox digital na cama"
-    text: ""
+    text: "."
   - name: "Ritual de contração dos dedos 50 vezes"
-    text: ""
+    text: "."
   - name: "Relaxar o cérebro com respiração profunda"
-    text: ""
+    text: "."
 faqs:
   - question: "O movimento dos dedos do pé ajuda realmente a ativar o cérebro?"
     answer: "Sim, a região dos dedos do pé está localizada no córtex somatossensorial perto do centro cerebral. Estimular esses micromúsculos ativa o córtex pré-frontal."
@@ -27,8 +27,7 @@ Tesla mantinha um padrão de sono extremo, dormindo apenas 2 horas por dia, e me
 
 Hoje, o BuildSelf apresenta os princípios científicos por trás do hábito extraordinário desse gênio histórico, e como aplicá-lo ao nosso dia a dia.
 
-
-</div>
+Esta prática diária essencial estimula um foco profundo e uma clareza mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +59,7 @@ De fato, a área dedicada aos pés e dedos no córtex somatossensorial do céreb
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Detox digital na cama</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +69,7 @@ De fato, a área dedicada aos pés e dedos no córtex somatossensorial do céreb
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ritual de contração dos dedos 50 vezes</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +79,7 @@ De fato, a área dedicada aos pés e dedos no córtex somatossensorial do céreb
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Relaxar o cérebro com respiração profunda</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

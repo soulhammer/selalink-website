@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-Yi I escribió 11 reglas de advertencia personal (Self-warning) y las leyó todas las mañanas para regular su comportamiento. Este hábito diario reactivó su corteza prefrontal, fortaleciendo el autocontrol y previniendo la deriva de metas cognitivas.
+En la práctica de esta rutina transformadora: . '' , . , 20 '()' . 📜 En la práctica de esta rutina transformadora: , . . En la práctica de esta rutina transformadora: BuildSelf , 3 . Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

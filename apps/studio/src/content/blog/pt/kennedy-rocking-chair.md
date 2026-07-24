@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-O presidente John F. Kennedy liderou a América durante os momentos mais tensos. Embora parecesse dinâmico, sofria de dor crônica nas costas devido a uma lesão de guerra. 🪑
-
-A solução veio de sua ortopedista, Dra. Janet Travell, que receitou uma cadeira de balanço no Salão Oval. Kennedy balançava suavemente enquanto lia documentos ou participava de reuniões. Esse hábito aliviou a tensão na coluna e serviu como um santuário para manter a calma.
-
-Hoje, o BuildSelf explora o mecanismo neurocientífico de relaxamento da cadeira de balanço de JFK.
+Na prática desta rotina transformadora: , 35 F. . , 2 . 🪑 Na prática desta rotina transformadora: . (Oval Office) . , . , . Na prática desta rotina transformadora: BuildSelf F. . Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

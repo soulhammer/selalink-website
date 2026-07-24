@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-乔治·巴兰钦，这位彻底改变了20世纪芭蕾舞的传奇编舞家。面对创造几何图形和创新动作的压力，他也遇到了思维障碍。然而，巴兰钦并没有强迫自己坐下来思考。相反，他站起来，支起熨衣板，熨衣服或拖地。我们分析了这种平凡的家务日常如何重塑大脑的创意通路，从而带来艺术上的突破。
+在这一历史性惯例的实践中： (NYCB) 20 . . . , . 脳科学的 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

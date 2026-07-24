@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Tim Cook, PDG d'Apple. Quel est son secret pour prendre le contrôle de sa journée avant le bruit extérieur ? ⌚
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Chaque jour à 3h45, Cook lit 100 e-mails clients et à 5h00 il s'entraîne en salle. Ce calme lui permet de maîtriser ses priorités.
-
-Aujourd'hui, BuildSelf explore la routine matinale de contrôle de Tim Cook.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

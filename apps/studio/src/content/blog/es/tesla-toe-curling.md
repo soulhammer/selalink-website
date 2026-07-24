@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "La autobiografía de Nikola Tesla 'My Inventions' y Journal of Physical Therapy Science (JPTS)"
 steps:
   - name: "Desintoxicación digital en la cama"
-    text: ""
+    text: "."
   - name: "Ritual de encoger los pies 50 veces"
-    text: ""
+    text: "."
   - name: "Relajar el cerebro con respiración profunda"
-    text: ""
+    text: "."
 faqs:
   - question: "¿Realmente ayuda a activar el cerebro el movement de los dedos del pie?"
     answer: "Sí, la región de los dedos del pie está ubicada en la corteza somatosensorial cerca del centro cerebral. Estimular estos micromúsculos activa la corteza prefrontal."
@@ -27,8 +27,7 @@ Tesla mantenía un patrón de sueño extremo, durmiendo solo 2 horas al día, y 
 
 Hoy, BuildSelf presenta los principios científicos detrás del extraordinario hábito de un genio histórico, y cómo aplicarlo a nuestra vida diaria.
 
-
-</div>
+Esta práctica diaria esencial fomenta un enfoque profundo y una claridad mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +59,7 @@ De hecho, el área que ocupan los pies y los dedos en la corteza somatosensorial
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Desintoxicación digital en la cama</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +69,7 @@ De hecho, el área que ocupan los pies y los dedos en la corteza somatosensorial
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ritual de encoger los pies 50 veces</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +79,7 @@ De hecho, el área que ocupan los pies y los dedos en la corteza somatosensorial
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Relajar el cerebro con respiración profunda</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

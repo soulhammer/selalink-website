@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-凭借《百年孤独》获得诺贝尔文学奖并创立魔幻现实主义文学巅峰的加布里埃尔·加西亚·马尔克斯。他的文学想象力源泉之一，正是每天放在书桌上的一朵黄玫瑰。如果桌上没有黄玫瑰，他就会视其为霉运，在打字机前一个字也不写。这只是简单的执念，还是刺激大脑的科学道理？
+通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -16,6 +16,9 @@ steps:
     text: "Deixe sua mesa e inicie uma tarefa manual por 15 minutos. Garanta que a atividade exija controle preciso dos dedos e certa atenção (como lavar a louça)."
   - name: "Retornar ao trabalho cognitivo"
     text: "Após o descanso, retorne ao trabalho original. Você notará que seu córtex pré-frontal recuperou sua energia, facilitando a resolução de problemas."
+faqs:
+  - question: "Devo praticar este hábito diariamente?"
+    answer: "Sim, praticar a uma hora fixa diariamente maximiza a neuroplasticidade."
 
 ---
 
@@ -83,4 +86,19 @@ O pensamento lógico e filosófico de alto nível esgota constantemente o córte
       Para obter esse benefício, a tarefa deve ser totalmente analógica e exigir alguma coordenação olho-mão. Usar telas não conta, pois continua consumindo energia da corteza pré-frontal. Escolha lavar a louça, escrever cartas ou montar maquetes.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>Devo praticar este hábito diariamente?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Sim, praticar a uma hora fixa diariamente maximiza a neuroplasticidade.
+    </p>
+  </details>
 </div>

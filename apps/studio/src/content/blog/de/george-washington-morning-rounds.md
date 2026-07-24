@@ -24,9 +24,9 @@ faqs:
 
 ---
 
-George Washington wachte fast sein ganzes Leben lang um 4:00 Uhr morgens auf. Er ritt über seine Ländereien in Mount Vernon, prüfte den Zustand der Felder und notierte die Daten in einem Logbuch. Diese zahlenbasierte Arbeitsweise übertrug er später auf die Staatsverwaltung.
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
-Heute stellt BuildSelf die kognitionswissenschaftliche Funktion von Washingtons Morgenroutine vor und zeigt, wie man Metakognition zur Kontrolle von Zielen einsetzt.
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

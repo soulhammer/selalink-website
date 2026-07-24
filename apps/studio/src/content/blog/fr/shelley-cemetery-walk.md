@@ -24,7 +24,7 @@ faqs:
 
 Mary Shelley, la romancière anglaise qui a inventé la science-fiction avec *Frankenstein*. Depuis l'enfance, Mary lisait et méditait dans le cimetière où reposait sa mère. Pour elle, ces lieux historiques étaient des sanctuaires paisibles pour penser à la vie et la mort. Découvrez comment la solennité libère la créativité.
 
-</div>
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

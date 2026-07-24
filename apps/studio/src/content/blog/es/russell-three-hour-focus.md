@@ -24,7 +24,11 @@ faqs:
 
 ---
 
-Bertrand Russell limitaba su trabajo intelectual intenso a exactamente 3 horas al día. Este límite estricto de tiempo previno el agotamiento cognitivo y le permitió mantener una alta producción intelectual durante toda su vida.
+En la práctica de esta rutina : Bertrand Russell, one of the greatest minds of the 20th century, who built academic monuments in mathematical logic, history of western philosophy, and social activism, and won the Nobel Prize in Literature. What was the secret of his tireless focus and vast writing productivity? ☕
+
+En la práctica de esta rutina : Every morning, after a cup of tea, Russell wrote and researched mathematics for exactly three hours. During these three hours, no interruption was permitted, and he poured all his nervous system into deep work (Deep Work) on the logical problem in front of him. Surprisingly, the moment the timer marked the end of three hours, he put down his pen without hesitation, spending the rest of the day in relaxing walks, reading, and contemplation. This strictly timeboxed routine protected him from burnout and maintained his writing efficiency.
+
+En la práctica de esta rutina : Today, BuildSelf illuminates the scientific principles of Bertrand Russell's '3-hour focus' routine in maximizing the brain's concentration limit, and presents practical deep work strategies for modern knowledge workers.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

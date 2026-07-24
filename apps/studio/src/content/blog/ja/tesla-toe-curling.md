@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "ニコラ・テスラ自伝『My Inventions』および理学療法科学学会誌（JPTS）"
 steps:
   - name: "ベッドの上でのデジタルデトックス"
-    text: ""
+    text: "."
   - name: "両足50回すぼめ運動のリチュアル"
-    text: ""
+    text: "."
   - name: "呼吸と共に脳をリラックスさせる"
-    text: ""
+    text: "."
 faqs:
   - question: "足の指を動かす行為は本当に脳の活性化に効果がありますか？"
     answer: "はい、足の指の領域は脳の体性感覚野の中心部近くに位置しており、足の指の微細な筋肉を刺激することは、末梢神経を通じて前頭葉を刺激する効果があります。"
@@ -27,8 +27,7 @@ faqs:
 
 本日、BuildSelfでは、歴史的な天才の奇想天外な習慣の中に込められた科学的原理と、これを私たちの日常生活に適用する方法を紹介します。
 
-
-</div>
+この歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持持続可能な深い集中力を養うことができます。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +59,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ベッドの上でのデジタルデトックス</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +69,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">両足50回すぼめ運動のリチュアル</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +79,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">呼吸と共に脳をリラックスさせる</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

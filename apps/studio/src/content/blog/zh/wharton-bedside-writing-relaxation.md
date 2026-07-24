@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-首位荣获小说类普利策奖的女作家大师伊迪丝·华顿。揭秘她清晨起床后不离开床铺、与宠物狗们趴在一起放松写作的神经生理学舒缓写作秘诀。
+通过每天系统地实践这一历史性惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

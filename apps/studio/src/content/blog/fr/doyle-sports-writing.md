@@ -22,9 +22,7 @@ faqs:
 
 ---
 
-Sir Arthur Conan Doyle, le médecin et écrivain qui a créé le détective le plus célèbre de l'histoire, Sherlock Holmes. Tout en concevant l'esprit vif de Sherlock, Doyle restait très actif. C'était un athlète accompli qui boxait, jouait au cricket et au football. Il pensait que si le corps ralentissait, l'esprit stagnait. Découvrez comment le sport stimule le BDNF.
-
-</div>
+Sir Arthur Conan Doyle, le médecin et écrivain qui a créé le détective le plus célèbre de l'histoire, Sherlock Holmes. Tout en concevant l'esprit vif de Sherlock, Doyle restait très actif. C'était un athlète accompli qui boxait, jouait au cricket et au football. Il pensait que si le corps ralentissait, l'esprit stagnait. Découvrez comment le sport stimule le BDNF. </div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -16,7 +16,7 @@ faqs:
     answer: "Ladran por su instinto guardián. Premia los momentos de silencio."
 ---
 
-El Yorkshire Terrier, o 'Yorkie', tiene una personalidad audaz. Su pelo largo es muy similar al cabello humano. Además, son propensos a la luxación de rótula. Hoy en PetSelf mostramos cómo proteger sus rodillas.
+El Yorkshire Terrier, o 'Yorkie', tiene una personalidad audaz. Su pelo largo es muy similar al cabello humano. Además, son propensos a la luxación de rótula. Hoy en PetSelf mostramos cómo proteger sus rodillas. Brindar atención médica diaria constante y un entorno seguro garantiza el bienestar a largo plazo de su mascota.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

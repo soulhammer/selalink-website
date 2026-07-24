@@ -10,25 +10,18 @@ formatVersion: 4
 authority: "富兰克林自传《The Autobiography of Benjamin Franklin》及《新英格兰医学杂志》（NEJM）"
 steps:
   - name: "晨间通风并迎冷空气 5 分钟"
-    text: ""
+    text: "."
   - name: "在冷风中规划一天的工作"
-    text: ""
+    text: "."
   - name: "进行轻松的徒手拉伸"
-    text: ""
+    text: "."
 faqs:
   - question: "空气浴（Air Bath）真的有助于预防感冒吗？"
     answer: "是的，让皮肤暴露在冷空气中可以增强身体对温度变化的抵抗力，并调节免疫力，从而有助于预防感冒。"
 
 ---
 
-印在美国百元美钞上的铺像人物、发明避雷针的天才科学家，以及以极其严苛的自我管理而闻名的本杰明·富兰克林。你是否知道他每天早晨起床后进行的一项非常独特且奇妙的养生法？ 💨
-
-在 18 世纪，人们普遍认为吹冷风会立刻感冒或染上重病。然而，富兰克林的看法却恰恰相反。他每天早晨起床后，一丝不挂地将窗户开得大大的，让冷空气直接接触身体，并在窗前看书或写作 30 分钟到一个小时。他将这称为“空气浴（Air Bath）”。
-
-今天，BuildSelf 将为您介绍这位美国国父所钟爱的奇特晨间常规背后隐藏的科学原理，以及在现代忙碌的生活中如何安全地实践这一方法。
-
-
-</div>
+在这一历史性惯例的实践中： 100 , . ? 💨 在这一历史性惯例的实践中： 18 . . , 30 1 . '(Air Bath)' . 在这一历史性惯例的实践中： BuildSelf , . 在这一历史性惯例的实践中：</div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +53,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">晨间通风并迎冷空气 5 分钟</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +63,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">在冷风中规划一天的工作</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +73,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">进行轻松的徒手拉伸</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Vidas paralelas 'Vida de Demóstenes' de Plutarco e investigación sobre control ambiental de la APA"
 steps:
   - name: "Aislar físicamente el teléfono móvil"
-    text: ""
+    text: "."
   - name: "Establecer un temporizador Pomodoro y concentrarse"
-    text: ""
+    text: "."
   - name: "Tomar un descanso analógico completo"
-    text: ""
+    text: "."
 faqs:
   - question: "¿Por qué Demóstenes se afeitó la mitad de la cabeza?"
     answer: "Al ridiculizar su aspecto, se impidió salir a la calle, obligándose a superar la tentación y quedarse en su estudio para practicar la oratoria."
@@ -29,8 +29,7 @@ Obligado a quedarse en casa porque le daba demasiada vergüenza salir en públic
 
 Hoy, BuildSelf explora el secreto de Demóstenes, quien diseñó un entorno extremo para superar la debilidad humana, y cómo aplicar esto en la era moderna de los teléfonos inteligentes.
 
-
-</div>
+Esta práctica diaria esencial fomenta un enfoque profundo y una claridad mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +61,7 @@ En la psicología moderna, esto también se trata como una ley muy importante. L
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Aislar físicamente el teléfono móvil</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +71,7 @@ En la psicología moderna, esto también se trata como una ley muy importante. L
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Establecer un temporizador Pomodoro y concentrarse</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +81,7 @@ En la psicología moderna, esto también se trata como una ley muy importante. L
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tomar un descanso analógico completo</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

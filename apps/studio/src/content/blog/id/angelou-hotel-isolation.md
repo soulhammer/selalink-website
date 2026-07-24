@@ -21,7 +21,9 @@ faqs:
 
 ---
 
-Maya Angelou, penyair legendaris Amerika, penulis memoar, dan aktivis hak-hak sipil yang menulis otobiografi terobosan 'I Know Why the Caged Bird Sings.' Untuk fokus secara mendalam, dia check-in ke kamar hotel setempat setiap pagi pukul 06.30. Dia meminta staf hotel untuk menghapus semua lukisan, foto, dan dekorasi dari dinding, hanya menyisakan sebuah Alkitab, kamus, dek kartu, dan sebotol sherry. Hari ini, BuildSelf membagikan bagaimana menciptakan lingkungan kosong dapat meningkatkan hasil kognitif Anda.
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
+
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

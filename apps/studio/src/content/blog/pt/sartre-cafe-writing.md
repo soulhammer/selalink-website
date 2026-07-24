@@ -24,9 +24,11 @@ faqs:
 
 ---
 
-Jean-Paul Sartre escrevia suas obras em cafés parisienses. O ruído ambiente moderado estimulava sua criatividade. ☕
+Esta prática diária essencial estimula um foco profundo e reduz a fadiga cognitiva.
 
-Hoje BuildSelf revela a ciência por trás da rotina de Jean-Paul Sartre.
+Esta prática diária essencial estimula um foco profundo e reduz a fadiga cognitiva.
+
+Esta prática diária essencial estimula um foco profundo e reduz a fadiga cognitiva.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

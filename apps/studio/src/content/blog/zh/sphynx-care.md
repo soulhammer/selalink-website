@@ -16,7 +16,7 @@ faqs:
     answer: "一般1到2周一次。平时每日擦拭能有效延长洗澡间隔。"
 ---
 
-斯芬克斯猫因突变而没有传统被毛。由于没有毛发吸收皮脂，油脂会堆积在表面。今天PetSelf带来皮肤清洁与防寒保暖常规。
+斯芬克斯猫因突变而没有传统被毛。由于没有毛发吸收皮脂，油脂会堆积在表面。今天PetSelf带来皮肤清洁与防寒保暖常规。 提供持续的日常健康护理与安全的生活环境，可确保您的宠物长期保持健康快乐。 提供持续的日常健康护理与安全的生活环境，可确保您的宠物长期保持健康快乐。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

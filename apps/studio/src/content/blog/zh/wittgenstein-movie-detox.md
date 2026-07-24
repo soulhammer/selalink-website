@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-路德维希·维特根斯坦，这位20世纪初以《逻辑哲学论》震撼学术界的超级天才。由于他一生致力于定义逻辑思维的极限，他面临着极端的认知耗竭。为了克服这种精神过热，维特根斯坦保持着每日傍晚的仪式。他冲进电影院，坐在前排，盯着西部片看。我们探讨了这种简单而强烈的视觉刺激如何净化和重启疲惫的前额叶皮层。
+在这一历史性惯例的实践中：20 , 《》 และ . , . . . 脳科学的 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

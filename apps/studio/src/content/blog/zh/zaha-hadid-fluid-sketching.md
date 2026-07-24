@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-首位获得普利兹克建筑奖的女性扎哈·哈迪德。她那未来感十足的流线型建筑是如何构想出来的？ 🏛️
-
-哈迪德放下网格规矩，在大本子上手绘流动曲线与非定型线条。在徒手线条的抓取中，刺激了三维空间构想的大脑回路。
-
-今天，BuildSelf 将带您探究扎哈·哈迪德“自由曲线素描”惯例。
+在这一历史性惯例的实践中： . (DDP) ? 🏛️ 在这一历史性惯例的实践中： · . 3 . 在这一历史性惯例的实践中： BuildSelf ' ' 3 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

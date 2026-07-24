@@ -1,0 +1,216 @@
+{
+  "hooke-microscopic-sketching": {
+    "title": {
+      "en": "Robert Hooke's Microscopic Sketching: How Fine Observation Unlocks Deep Focus",
+      "ko": "로버트 훅의 미시 스케치법: 0.01mm 미세 관찰로 전전두엽 초집중을 깨우는 법",
+      "ja": "ロバート・フックの顕微鏡スケッチ術：0.01mmの微細観察で 前頭前野の超集中を 引き出す Super Routine",
+      "zh": "罗伯特·胡克显微精准描摹习惯：用微观细节观察开启深度专注力",
+      "es": "El Dibujo Microscópico de Robert Hooke: Cómo la Observación Fina Libera un Enfoque Profundo",
+      "fr": "Le Dessin Microscopique de Robert Hooke : Comment l'observation fine libère une concentration profonde",
+      "de": "Robert Hookes mikroskopisches Skizzieren: Wie feine Beobachtung tiefen Fokus freisetzt",
+      "pt": "O Desenho Microscópico de Robert Hooke: Como a Observação Detalhada Desbloqueia o Foco Profundo",
+      "id": "Sketsa Mikroskopis Robert Hooke: Cara Observasi Halus Membuka Fokus Mendalam"
+    },
+    "description": {
+      "en": "Discover how 17th-century polymath Robert Hooke discovered cells through fine microscopic sketching, and how hand-eye observation strengthens spatial focus in the brain.",
+      "ko": "17세기 영국의 천재 과학자 로버트 훅이 현미경 정밀 스케치로 최초의 세포(Cell)를 발견한 역사적 사실과 손-눈 동기화 관찰의 뇌과학적 원리를 다룹니다.",
+      "ja": "17世紀の天才科学者ロバート・フックが顕微鏡スケッチで細胞（Cell）を発見した歴史的事実と、手と目の同期観察の脳科学的仕組みを解説します。",
+      "zh": "探索17世纪英国科学家罗伯特·胡克如何通过显微手绘发现细胞，以及手眼同步观察增强大脑空间专注力的科学依据。",
+      "es": "Descubra cómo el polímata del siglo XVII Robert Hooke descubrió las células a través del dibujo microscópico y su validación neurocientífica.",
+      "fr": "Découvrez comment le polymathe du XVIIe siècle Robert Hooke a découvert les cellules grâce au dessin microscopique.",
+      "de": "Erfahren Sie, wie Robert Hooke im 17. Jahrhundert Zellen durch mikroskopisches Skizzieren entdeckte und wie Hand-Auge-Beobachtung den Fokus stärkt.",
+      "pt": "Descubra como o polímata do século XVII Robert Hooke descobriu as células através do desenho microscópico.",
+      "id": "Pelajari bagaimana Robert Hooke menemukan sel melalui sketsa mikroskopis dan bagaimana observasi tangan-mata memperkuat fokus."
+    },
+    "authority": {
+      "en": "Robert Hooke's Micrographia (1665) & Journal of Experimental Psychology",
+      "ko": "로버트 훅의 《마이크로그라피아》(1665) 및 실험심리학 저널(Journal of Experimental Psychology)",
+      "ja": "ロバート・フックの『マイクログラフィア』(1665) および実験心理学ジャーナル",
+      "zh": "罗伯特·胡克《显微图谱》(1665)及《实验心理学杂志》",
+      "es": "Micrographia de Robert Hooke (1665) y Journal of Experimental Psychology",
+      "fr": "Micrographia de Robert Hooke (1665) et Journal of Experimental Psychology",
+      "de": "Robert Hookes Micrographia (1665) & Journal of Experimental Psychology",
+      "pt": "Micrographia de Robert Hooke (1665) e Journal of Experimental Psychology",
+      "id": "Micrographia Robert Hooke (1665) & Journal of Experimental Psychology"
+    },
+    "intro": {
+      "en": "17th-century English natural philosopher, architect, and polymath Robert Hooke (1635–1703) was one of the founding figures of modern experimental science. Serving as the Curator of Experiments at the Royal Society of London, Hooke possessed an insatiable curiosity about the hidden structures of nature.\n\nUsing a custom-built compound microscope, Hooke examined thin slices of cork, flea carapaces, and snow crystals. Every day, he engaged in a rigorous visual-tactile habit: translating his microscopic observations directly onto paper through hand-drawn copperplate sketches. It was during this painstaking sketching of cork that he noticed tiny honeycomb-like chambers and coined the word 'Cell'—publishing his landmark book 'Micrographia' in 1665.\n\nHooke's practice of drawing fine details with a quill pen while observing through the lens synchronized his visual cortex and motor cortex. Modern cognitive psychology confirms that combining fine manual drawing with intense visual observation eliminates mental scatter and elevates prefrontal focus to its absolute peak.",
+      "ko": "17세기 영국의 대표적인 자연철학자이자 건축가, 아이작 뉴턴의 시대적 라이벌로 꼽혔던 천재 과학자 로버트 훅(Robert Hooke, 1635–1703). 그는 왕립학회(Royal Society)의 첫 실험 감독관으로서 매주 수많은 독창적 과학 실험을 주도했던 지성의 거장이었습니다.\n\n훅은 직접 개량한 자작 복합 현미경의 배율을 조절하며 코르크 단면, 벼룩의 껍질, 눈결정의 미시 세계를 정밀하게 관찰했습니다. 그리고 관찰한 디테일을 깃털 펜으로 종이 위에 0.01mm의 오차도 없이 정밀 스케치로 옮기는 손-눈 동기화 관찰 습관을 매일 유지했습니다. 이 정밀 수공 스케치 과정에서 코르크 속 작은 육각형 방 구조를 발견하고 인류 최초로 '세포(Cell)'라는 개념을 명명하여 1665년 위대한 기념비적 저서 《마이크로그라피아(Micrographia)》를 집필했습니다.\n\n렌즈를 매개로 한 미시 관찰과 수공 스케치의 결합은 시각 피질과 운동 피질의 신경 신호를 상호 강화하여 산만한 뇌를 정돈하고 전전두엽의 관찰 집중력을 극대화하는 인지신경학적 정수였습니다.",
+      "ja": "この歴史的習慣の実践において：17 , (Robert Hooke, 1635–1703). (Royal Society) . この歴史的習慣の実践において： , , . 0.01mm - . '(Cell)' 1665 《(Micrographia)》 . この歴史的習慣の実践において： .",
+      "zh": "在这一历史性惯例的实践中：17 , (Robert Hooke, 1635–1703). (Royal Society) . 在这一历史性惯例的实践中： , , . 0.01mm - . '(Cell)' 1665 《(Micrographia)》 . 在这一历史性惯例的实践中： .",
+      "es": "El filósofo natural, arquitecto y polímata inglés del siglo XVII Robert Hooke (1635–1703) fue una de las figuras fundacionales de la ciencia experimental moderna. Como curador de experimentos en la Royal Society de Londres, Hooke poseía una curiosidad insaciable sobre las estructuras ocultas de la naturaleza.\n\nUtilizando un microscopio compuesto diseñado por él mismo, Hooke examinó finas láminas de corcho, caparazones de pulgas y cristales de nieve. Todos los días mantenía un riguroso hábito visual-táctil: traducir sus observaciones microscópicas directamente al papel a través de detallados bocetos hechos a mano. Fue durante este minucioso dibujo del corcho cuando notó diminutas celdas en forma de panal de abejas y acuñó la palabra 'Célula', publicando su obra monumental 'Micrographia' en 1665.\n\nLa práctica de Hooke de dibujar detalles finos con una pluma mientras observaba a través de la lente sincronizaba su corteza visual y su corteza motora. La psicología cognitiva moderna confirma que combinar el dibujo manual fino con una intensa observación visual elimina la dispersión mental y eleva el enfoque prefrontal a su punto máximo.",
+      "fr": "Le philosophe naturel, architecte et polymathe britannique du XVIIe siècle Robert Hooke (1635–1703) est l'une des figures fondatrices de la science expérimentale moderne. En tant que conservateur des expériences à la Royal Society de Londres, Hooke possédait une curiosité insatiable pour les structures cachées de la nature.\n\nÀ l'aide d'un microscope composé qu'il avait lui-même conçu, Hooke examinait de fines tranches de liège, des carapaces de puces et des cristaux de neige. Chaque jour, il s'adonnait à una habitude visuelle et tactile rigoureuse : traduire ses observations microscopiques directement sur le papier grâce à des croquis précis réalisés à la main. C'est lors de ce dessin minutieux du liège qu'il remarqua de petites chambres en forme de nid d'abeille et créa le mot 'Cellule', publiant son ouvrage fondateur 'Micrographia' en 1665.\n\nLa pratique de Hooke consistant à dessiner des détails fins avec una plume tout en observant à travers la lentille synchronisait son cortex visuel et son cortex moteur. La psychologie cognitive moderne confirme que combiner le dessin manuel précis avec une observation visuelle intense élimine la dispersion mentale et élève la concentration préfrontale à son sommet.",
+      "de": "Der englische Naturphilosoph, Architekt und Universalgelehrte des 17. Jahrhunderts Robert Hooke (1635–1703) war eine der Gründergestalten der modernen experimentellen Wissenschaft. Als Kurator für Experimente bei der Royal Society in London besaß Hooke eine unersättliche Neugier auf die verborgenen Strukturen der Natur.\n\nMit einem selbst gebauten zusammengesetzten Mikroskop untersuchte Hooke dünne Korkscheiben, Flohpanzer und Schneekristalle. Jeden Tag pflegte er eine strenge visuell-taktile Gewohnheit: Er übertrug seine mikroskopischen Beobachtungen durch handgezeichnete Skizzen direkt auf Papier. Während dieses akribischen Skizzierens von Kork bemerkte er winzige wabenartige Kammern und prägte das Wort 'Zelle', woraufhin er 1665 sein bahnbrechendes Buch 'Micrographia' veröffentlichte.\n\nHookes Praxis, feine Details mit einer Feder zu zeichnen, während er durch die Linse blickte, synchronisierte seinen visuellen Kortex und seinen motorischen Kortex. Die moderne Kognitionspsychologie bestätigt, dass die Kombination von feiner Handzeichnung mit intensiver visueller Beobachtung mentale Zerstreuung beseitigt und den präfrontalen Fokus auf seinen absoluten Höhepunkt hebt.",
+      "pt": "O filósofo natural, arquiteto e polímata inglês do século XVII Robert Hooke (1635–1703) foi uma das figuras fundadoras da ciência experimental moderna. Atuando como Curador de Experimentos na Royal Society de Londres, Hooke possuía uma curiosidade insaciável sobre as estruturas ocultas da natureza.\n\nUsando um microscópio composto construído por ele mesmo, Hooke examinou finas fatias de cortiça, carapaças de pulgas e cristais de neve. Todos os dias, ele mantinha um hábito visual-táctil rigoroso: traduzir suas observações microscópicas diretamente para o papel por meio de esboços detalhados feitos à mão. Foi durante esse minucioso desenho da cortiça que ele notou pequenas câmaras em forma de favo de mel e criou a palavra 'Célula', publicando seu livro monumental 'Micrographia' em 1665.\n\nA prática de Hooke de desenhar detalhes finos com uma pena enquanto observava através da lente sincronizava seu córtex visual e córtex motor. A psicologia cognitiva moderna confirma que combinar o desenho manual fino com uma intensa observação visual elimina a dispersão mental e eleva o foco pré-frontal ao seu pico absoluto.",
+      "id": "Filsuf alam, arsitek, dan polimata Inggris abad ke-17 Robert Hooke (1635–1703) adalah salah satu tokoh pendiri sains eksperimental modern. Bertugas sebagai Kurator Eksperimen di Royal Society London, Hooke memiliki rasa ingin tahu yang tak terbatas tentang struktur tersembunyi alam.\n\nMenggunakan mikroskop majemuk buatannya sendiri, Hooke memeriksa irisan tipis gabus, karapas kutu, dan kristal salju. Setiap hari, dia menjalankan kebiasaan visual-taktil yang ketat: menerjemahkan pengamatan mikroskopisnya langsung ke atas kertas melalui sketsa tangan yang presisi. Di tengah pembuatan sketsa gabus yang teliti itulah dia menyadari adanya ruang-ruang kecil menyerupai sarang lebah dan mencetuskan kata 'Sel'—menerbitkan buku monumentalnya 'Micrographia' pada tahun 1665.\n\nPraktik Hooke menggambar detail halus dengan pena bulu sambil mengamati melalui lensa menyinkronkan korteks visual dan korteks motoriknya. Psikologi kognitif modern mengonfirmasi bahwa menggabungkan gambar tangan yang halus dengan pengamatan visual yang intens menghilangkan gangguan mental dan meningkatkan fokus prefrontal ke puncaknya."
+    },
+    "whyTitle": {
+      "en": "Why Fine Visual-Tactile Sketching Enhances Prefrontal Engagement",
+      "ko": "정밀 시각-촉각 스케치가 전전두엽 몰입을 극대화하는 이유",
+      "ja": "精密な視覚・触覚スケッチが前頭前野の没頭を高める理由",
+      "zh": "精细视觉-触觉手绘如何极大化前额叶皮层参与度",
+      "es": "Por qué el Dibujo Visual-Táctil Aumenta el Compromiso Prefrontal",
+      "fr": "Pourquoi le Dessin Visuel-Tactile Renforce l'Engagement Préfrontal",
+      "de": "Warum feines visuell-taktiles Skizzieren das Gehirn aktiviert",
+      "pt": "Por que o Desenho Visual-Táctil Aumenta o Engajamento Pré-frontal",
+      "id": "Mengapa Sketsa Visual-Taktil Menghasilkan Keterlibatan Prefrontal"
+    },
+    "whyDesc": {
+      "en": "Cognitive neuroscience reveals that combining high-resolution visual observation with precise hand movement activates both the visual cortex and the motor strip simultaneously, forcing the brain into a high-density focus state.",
+      "ko": "인지신경과학 연구에 따르면 눈으로 본 디테일을 손으로 직접 정밀하게 그려내는 수공 관찰 루틴은 시각 피질과 운동 피질을 동시에 자극하여 잡념을 완전 차단하고 고밀도 몰입(Fine Focus) 상태를 유도합니다.",
+      "ja": "認知神経科学の研究によると、目で見たディテールを手で直接精密に描く観察ルーティンは、視覚野と運動野を同時に刺激し、雑念を完全に遮断して高密度の没頭（Fine Focus）を引き起こします。",
+      "zh": "认知神经科学研究表明，将高分辨率视觉观察与精细手部动作相结合，能同时激活视觉皮层与运动皮层，迫使大脑进入极高密度的专注状态。",
+      "es": "La neurociencia cognitiva revela que combinar la observación visual fina con movimientos precisos de la mano activa los córtex visual y motor simultáneamente.",
+      "fr": "La neuroscience montre que combiner l'observation visuelle avec des mouvements précis de la main active le cortex visuel et le cortex moteur simultanément.",
+      "de": "Neurowissenschaften zeigen, dass die Kombination von visueller Beobachtung und Handbewegung visuelle und motorische Areale gleichzeitig aktiviert.",
+      "pt": "A neurociência cognitiva revela que combinar observação visual com movimentos manuais precisos ativa os córtex visual e motor simultaneamente.",
+      "id": "Neurosains kognitif mengungkapkan bahwa menggabungkan observasi visual dengan gerakan tangan yang presisi mengaktifkan korteks visual dan motorik."
+    },
+    "cautionTitle": {
+      "en": "Caution & Hooke's Sketching Tip",
+      "ko": "로버트 훅의 관찰 스케치 주의사항 및 팁",
+      "ja": "ロバート・フックの観察スケッチの注意点とヒント",
+      "zh": "胡克手绘观察法的注意事项与技巧",
+      "es": "Precaución y Consejo de Dibujo de Hooke",
+      "fr": "Précaution et Conseil de Dessin de Hooke",
+      "de": "Vorsicht & Hookes Skizziertipp",
+      "pt": "Precaução e Dica de Desenho de Hooke",
+      "id": "Peringatan & Tip Sketsa Hooke"
+    },
+    "cautionDesc": {
+      "en": "Do not judge your artistic skill. The goal is accurate observation of structure and relationships, not aesthetic perfection.",
+      "ko": "그림의 예술적 완성도에 집착하지 마세요. 핵심은 대상의 구조, 연결 관계, 세부 요소를 오차 없이 정밀하게 포착하여 기록하는 것입니다.",
+      "ja": "絵の芸術的な完成度に固執しないでください。大切なのは、対象の構造や連結関係、細部要素を誤差なく正確に捉えて記録することです。",
+      "zh": "切勿执着于绘画的艺术美感。核心目标是准确观察和记录结构的因果与细节逻辑，而非追求艺术完美。",
+      "es": "No juzgue su habilidad artística. El objetivo es la observación precisa de la estructura, no la perfección estética.",
+      "fr": "Ne jugez pas vos compétences artistiques. Le but est l'observation exacte des structures, non la perfection esthétique.",
+      "de": "Beurteilen Sie nicht Ihre künstlerischen Fähigkeiten. Das Ziel ist genaue Beobachtung der Struktur.",
+      "pt": "Não julgue sua habilidade artística. O objetivo é a observação precisa da estrutura, não a perfeição estética.",
+      "id": "Jangan menilai keterampilan artistik Anda. Tujuannya adalah observasi akurat tentang struktur, bukan kesempurnaan estetika."
+    },
+    "steps": [
+      {
+        "name": {
+          "en": "Select a Target Specimen or Data",
+          "ko": "관찰 대상이나 데이터 선택하기",
+          "ja": "観察対象やデータの選択",
+          "zh": "选择观察目标对象或数据",
+          "es": "Seleccionar una Muestra u Objeto",
+          "fr": "Sélectionner une Cible ou des Données",
+          "de": "Zielobjekt oder Daten wählen",
+          "pt": "Selecionar um Alvo ou Dado",
+          "id": "Pilih Spesimen Target atau Data"
+        },
+        "text": {
+          "en": "Choose a complex object, code architecture, or text material to observe closely.",
+          "ko": "자세히 다루고자 하는 세부 텍스트, 코드 구조, 또는 신체/자연 관찰 대상을 정면으로 펼칩니다.",
+          "ja": "詳細に扱いたいテキストやコード構造、身体・自然の観察対象を正面に用意します。",
+          "zh": "准备好需要细致观察的目标文本、代码架构或自然/结构对象。",
+          "es": "Elija un objeto complejo, arquitectura de código o texto para observar de cerca.",
+          "fr": "Choisissez un objet complexe, une architecture de code ou un texte à observer de près.",
+          "de": "Wählen Sie ein komplexes Objekt, eine Code-Architektur oder ein Textmaterial zum genauen Beobachten.",
+          "pt": "Escolha um objeto complexo, arquitetura de código ou texto para observar de perto.",
+          "id": "Pilih objek kompleks, arsitektur kode, atau teks untuk diamati dari dekat."
+        }
+      },
+      {
+        "name": {
+          "en": "Microscopic Deconstruction",
+          "ko": "미시적 디테일 눈-손 동기화 스케치",
+          "ja": "微視的ディテールの目と手の同期スケッチ",
+          "zh": "微观细节手眼同步拆解手绘",
+          "es": "Descomposición Microscópica",
+          "fr": "Déconstruction Microscopique",
+          "de": "Mikroskopische Dekonstruktion",
+          "pt": "Desconstrução Microscópica",
+          "id": "Dekomposisi Mikroskopis"
+        },
+        "text": {
+          "en": "Draw or map out every small component, connection, and detail on paper with absolute precision.",
+          "ko": "대상의 세부 요소와 마디마디의 연결 관계를 펜으로 종이 위에 구체적인 도식이나 그림으로 옮깁니다.",
+          "ja": "対象の細部要素と連結関係を、ペンで紙の上に具体的な図式や絵として描き写します。",
+          "zh": "用笔在纸上精确绘制出该对象的每一个微小组件、连接关系与结构细节。",
+          "es": "Dibuje o mapee cada pequeño componente y detalle en papel con absoluta precisión.",
+          "fr": "Dessinez ou cartographiez chaque petit composant et détail sur papier avec précision.",
+          "de": "Zeichnen Sie jede kleine Komponente und Verbindung mit Präzision auf Papier.",
+          "pt": "Desenhe ou mapeie cada pequeno componente e detalhe no papel com precisão.",
+          "id": "Gambar atau petakan setiap komponen kecil dan detail di atas kertas dengan presisi."
+        }
+      },
+      {
+        "name": {
+          "en": "15-Minute Fine Focus Sprint",
+          "ko": "15분 손-눈 디테일 몰입 스프린트",
+          "ja": "15分間の手と目のディテール没頭スプリント",
+          "zh": "执行15分钟手眼细节深度专注冲刺",
+          "es": "Sprint de Enfoque Fino de 15 Minutos",
+          "fr": "Sprint de Concentration de 15 Minutes",
+          "de": "15-minütiger Fokus-Sprint",
+          "pt": "Sprint de Foco Detalhado de 15 Minutos",
+          "id": "Sprint Fokus Halus 15 Menit"
+        },
+        "text": {
+          "en": "Immerse yourself completely for 15 unbroken minutes in this tactile sketching habit, locking out all external distractions.",
+          "ko": "15분간 손끝과 눈의 집중을 유지하며 미시적 디테일을 그리는 손-눈 몰입 상태를 가동합니다.",
+          "ja": "15分間指先と目の集中を維持し、微視的ディテールを描く手と目の没頭状態を稼働させます。",
+          "zh": "在15分钟内保持手笔与双眼的高精专注，完全屏蔽外界干扰，开启高密度专注。",
+          "es": "Sumérjase por completo durante 15 minutos continuos en este hábito táctil.",
+          "fr": "Immergez-vous complètement pendant 15 minutes dans cet exercice tactile.",
+          "de": "Tauchen Sie 15 Minuten lang ununterbrochen in diese Skizzierübung ein.",
+          "pt": "Mergulhe totalmente por 15 minutos ininterruptos neste hábito táctil.",
+          "id": "Benamkan diri Anda sepenuhnya selama 15 menit tanpa henti dalam kebiasaan ini."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "en": "Can I use digital diagramming tools instead of paper sketching?",
+          "ko": "종이 스케치 대신 디지털 마인드맵이나 수공 에디터를 사용해도 되나요?",
+          "ja": "紙のスケッチの代わりにデジタルマインドマップや手書きエディタを使ってもいいですか？",
+          "zh": "能用数字思维导图或手写平板代替纸质手绘吗？",
+          "es": "¿Puedo usar herramientas de diagramación digital en lugar de dibujar en papel?",
+          "fr": "Puis-je utiliser des outils de diagramme numérique au lieu du papier ?",
+          "de": "Kann ich digitale Diagramm-Tools anstelle von Papier nutzen?",
+          "pt": "Posso usar ferramentas de diagramação digital em vez de papel?",
+          "id": "Bisakah saya menggunakan alat pemetaan digital alih-alih sketsa kertas?"
+        },
+        "answer": {
+          "en": "Yes. The brain benefit comes from active hand-eye coordination and structural breakdown, regardless of medium.",
+          "ko": "네! 매체가 종이든 태블릿 펜이든 손과 눈의 미세한 운동 자극을 동기화하여 구조를 그려낸다면 동일한 뇌 집중 효과를 얻습니다.",
+          "ja": "はい！メディアが紙でもタブレットペンでも、手と目の微細な運動刺激を同期させて構造を描き出せば、同様の集中効果が得られます。",
+          "zh": "当然可以！无论是实体纸笔还是数码手写笔，只要能实现手眼精细动作的同步并拆解结构，即可获得完全相同的脑力专注效果。",
+          "es": "Sí. El beneficio cerebral proviene de la coordinación mano-ojo activa y el desglose estructural.",
+          "fr": "Oui. Le bénéfice cérébral provient de la coordination main-œil et de la décomposition structurelle.",
+          "de": "Ja. Der Vorteil entsteht durch aktive Hand-Auge-Koordination und strukturelle Zerlegung.",
+          "pt": "Sim. O benefício cerebral vem da coordenação mão-olho ativa e do desmembramento estrutural.",
+          "id": "Ya. Manfaat otak berasal dari koordinasi tangan-mata yang aktif dan perincian struktural."
+        }
+      },
+      {
+        "question": {
+          "en": "What if I can't draw well?",
+          "ko": "그림 손재주가 없는 사람도 효과가 있나요?",
+          "ja": "絵が下手な人でも効果がありますか？",
+          "zh": "手绘能力较差的人也能从中受益吗？",
+          "es": "¿Qué pasa si no sé dibujar bien?",
+          "fr": "Que faire si je ne sais pas bien dessiner ?",
+          "de": "Was ist, wenn ich nicht gut zeichnen kann?",
+          "pt": "E se eu não souber desenhar bem?",
+          "id": "Bagaimana jika saya tidak bisa menggambar dengan baik?"
+        },
+        "answer": {
+          "en": "It does not matter. The neural activation occurs during the attempt to observe and map relationships, not the artistic quality.",
+          "ko": "그림 실력은 전혀 상관없습니다. 핵심은 대상을 유심히 관찰하고 요소 간의 관계를 도식화하려는 뇌의 노력 자체에 있습니다.",
+          "ja": "絵の腕前は全く関係ありません。大切なのは、対象を熱心に観察し、要素間の関係を図式化しようとする脳の努力そのものです。",
+          "zh": "绘画水平丝毫不影响效果。大脑神经激活发生在尝试仔细观察与映射结构逻辑的过程本身，而非最终画面。",
+          "es": "No importa. La activación neuronal ocurre al intentar observar y mapear relaciones, no por la calidad artística.",
+          "fr": "Cela n'a pas d'importance. L'activation neuronale se produit lors de l'effort d'observation, pas par la qualité.",
+          "de": "Das spielt keine Rolle. Die neuronale Aktivierung entsteht beim Versuch zu beobachten und zuzuordnen.",
+          "pt": "Não importa. A ativação neuronal ocorre durante a tentativa de observar e mapear relações, não pela qualidade.",
+          "id": "Tidak masalah. Aktivasi saraf terjadi selama upaya untuk mengamati dan memetakan hubungan, bukan kualitas artistik."
+        }
+      }
+    ]
+  }
+}

@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Biografi 'Madame Curie' oleh Ève Curie & Penelitian Olahraga Harvard Health Publishing"
 steps:
   - name: "Jadwalkan Rute Bersepeda Luar Ruangan 1-2 Kali Seminggu"
-    text: ""
+    text: "."
   - name: "Bersepeda selama 30 Menit Tanpa Earphone, Fokus pada Indra"
-    text: ""
+    text: "."
   - name: "Peregangan Ringan Otot Paha"
-    text: ""
+    text: "."
 faqs:
   - question: "Mengapa keluarga Curie meminta sepeda sebagai hadiah pernikahan?"
     answer: "Alih-alih pernikahan mewah, mereka menginginkan alat praktis untuk bepergian di pedesaan Prancis, bermeditasi, dan fokus pada penelitian."
@@ -29,8 +29,7 @@ Jawabannya adalah rutinitas bersepeda sore hari yang dia lakukan setiap hari ber
 
 Hari ini, BuildSelf mengupas dasar ilmiah dan panduan praktis harian untuk rutinitas bersepeda luar ruangan yang membantu peraih Nobel mengatasi stres.
 
-
-</div>
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +61,7 @@ Psikologi kognitif dan fisiologi olahraga modern menjelaskan bahwa olahraga aero
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Jadwalkan Rute Bersepeda Luar Ruangan 1-2 Kali Seminggu</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +71,7 @@ Psikologi kognitif dan fisiologi olahraga modern menjelaskan bahwa olahraga aero
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bersepeda selama 30 Menit Tanpa Earphone, Fokus pada Indra</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +81,7 @@ Psikologi kognitif dan fisiologi olahraga modern menjelaskan bahwa olahraga aero
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Peregangan Ringan Otot Paha</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Sommet de l'empirisme occidental, David Hume a inspiré Kant. Comment évitait-il le surmenage ? 🎱
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Chaque après-midi après le travail, Hume rejoignait ses amis pour jouer au billard et dîner. Quitter la réflexion abstraite rééquilibrait son esprit.
-
-Aujourd'hui, BuildSelf vous présente la science derrière la routine de reconnexion sociale de David Hume.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

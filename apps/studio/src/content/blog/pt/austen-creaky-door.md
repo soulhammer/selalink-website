@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-Jane Austen, a lendária romancista inglesa que criou obras-primas como 'Orgulho e Preconceito'. Trabalhando numa sala familiar partilhada, tinha de defender o seu foco das interrupções constantes. Em vez de reparar a porta rangente, deixou-a assim para servir como sistema de alerta natural. Hoje, o BuildSelf revela como estabelecer limites de foco pode proteger o seu trabalho.
+Na prática desta rotina transformadora: Jane Austen, the legendary English novelist who created masterpieces like 'Pride and Prejudice.' Working in a shared family room, she had to defend her fragile focus from constant interruptions. Instead of fixing her squeaky door, she left it broken to serve as a natural alert system. Today, BuildSelf reveals how establishing sensory focus boundaries can shield your deep work.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-「月の光」を作曲したドビュッシー。彼の独創的な和音はどこから来たのでしょうか？ 🌊
-
-アイデアが行き詰まると、ドビュッシーは早朝の自然の中へ出かけました。風の音や鳥の声に静かに耳を傾けることが彼のセンサリールーティンでした。
-
-今日のBuildSelfではドビュッシーの自然音リスニングルーティンを紹介します。
+この歴史的習慣の実践において：'', '' , . ? 🌊 この歴史的習慣の実践において： . , , . . この歴史的習慣の実践において： BuildSelf .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

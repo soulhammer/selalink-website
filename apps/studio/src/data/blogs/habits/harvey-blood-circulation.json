@@ -1,0 +1,216 @@
+{
+  "harvey-blood-circulation": {
+    "title": {
+      "en": "William Harvey's Quantitative Proof: How Empirical Data Overturns Blind Beliefs",
+      "ko": "윌리엄 하비의 혈액 순환 정량 검증법: 객관적 수치 계산으로 맹목적 편견을 부수는 법",
+      "ja": "ウィリアム・ハーヴィーの血液循環定量検証術：客観的数値計算で 盲目的な偏見を 打ち破る Super Routine",
+      "zh": "威廉·哈维血液循环定量验证法：用客观计算破除盲从成见",
+      "es": "La Prueba Cuantitativa de William Harvey: Cómo los Datos Empíricos Derriban Creencias Ciegas",
+      "fr": "La Preuve Quantitative de William Harvey : Comment les données empiriques renversent les fausses croyances",
+      "de": "William Harveys quantitativer Beweis: Wie empirische Daten blinde Überzeugungen stürzen",
+      "pt": "A Prova Quantitativa de William Harvey: Como Dados Empíricos Derrubam Crenças Cegas",
+      "id": "Bukti Kuantitatif William Harvey: Cara Data Empiris Mengatur Ulang Kepercayaan Buta"
+    },
+    "description": {
+      "en": "Discover how 17th-century physician William Harvey proved blood circulation using quantitative math, shattering 2,000 years of Galenic dogma.",
+      "ko": "17세기 영국의 의사 윌리엄 하비가 심장 박동량의 수학적 정량 계산으로 2000년간 서양을 지배한 맹목적 통념을 깨뜨린 역사적 사실과 수치 검증의 뇌과학을 다룹니다.",
+      "ja": "17世紀イギリスの医師ウィリアム・ハーヴィーが、心臓拍出量の数学的定量計算により2000年間支配した通説を打ち破った歴史的事実と数値検証の脳科学を解説します。",
+      "zh": "探索17世纪英国医师威廉·哈维如何通过心输出量的数学定量计算，破除统治西方两千年的盲从成见，建立现代生理学基石。",
+      "es": "Descubra cómo el médico del siglo XVII William Harvey demostró la circulación sanguínea mediante matemáticas cuantitativas.",
+      "fr": "Découvrez comment le médecin du XVIIe siècle William Harvey a prouvé la circulation sanguine grâce aux mathématiques.",
+      "de": "Erfahren Sie, wie William Harvey im 17. Jahrhundert den Blutkreislauf mathematisch bewies und alte Dogmen stürzte.",
+      "pt": "Descubra como o médico do século XVII William Harvey provou a circulação sanguínea usando matemática quantitativa.",
+      "id": "Pelajari bagaimana dokter abad ke-17 William Harvey membuktikan sirkulasi darah menggunakan matematika kuantitatif."
+    },
+    "authority": {
+      "en": "William Harvey's De Motu Cordis (1628) & Physiological Reviews Journal",
+      "ko": "윌리엄 하비의 저서 《심장과 혈액의 운동에 관하여》(1628) 및 Physiological Reviews 저널 연구",
+      "ja": "ハーヴィーの『心臓と血液の運動に関する解剖学的研究』(1628) および『Physiological Reviews』",
+      "zh": "威廉·哈维《心血运动论》(1628)及《生理学评论》",
+      "es": "De Motu Cordis de William Harvey (1628) y revista Physiological Reviews",
+      "fr": "De Motu Cordis de William Harvey (1628) et journal Physiological Reviews",
+      "de": "William Harveys De Motu Cordis (1628) & Physiological Reviews",
+      "pt": "De Motu Cordis de William Harvey (1628) e revista Physiological Reviews",
+      "id": "De Motu Cordis William Harvey (1628) & Physiological Reviews"
+    },
+    "intro": {
+      "en": "17th-century English physician and Royal Court doctor William Harvey (1578–1657) revolutionized medicine by discovering the systemic circulation of blood pumped through the body by the heart. Published in his 1628 landmark treatise 'De Motu Cordis', Harvey's discovery is regarded as the birth of modern physiology.\n\nFor nearly 2,000 years, Western medicine was dominated by Galen's dogma—the unproven belief that blood was continuously manufactured in the liver and consumed by tissues. Instead of accepting traditional textbooks on faith, Harvey adopted a rigorous habit: calculating exact quantitative volumes of heart stroke volume and blood flow.\n\nHarvey mathematically demonstrated that in just one hour, the heart pumps more blood than the entire weight of a human body. Since the liver could not possibly manufacture such immense quantities of blood every hour, he deduced that blood must flow in a continuous closed circuit. This habit of calculating hard quantitative numbers dissolved centuries of dogma and sharpened left-brain analytic clarity.",
+      "ko": "17세기 영국의 국왕 전의이자 근대 생리학의 아버지로 칭송받는 윌리엄 하비(William Harvey, 1578–1657). 그는 심장을 중심으로 인체 혈액이 폐쇄된 수송로를 따라 끊임없이 순환한다는 '혈액 순환 이론'을 최초로 입증하여 의학사와 인류 지성사에 거대한 혁명을 불러온 거장이었습니다.\n\n당대 서구 의학계는 무려 2,000년 동안 '혈액은 간에서 지속적으로 생겨나 몸의 조직으로 보내져 소모된다'는 갈레노스(Galen)의 맹목적인 권위와 통념에 지배당하고 있었습니다. 하비는 교과서의 전통을 맹신하지 않고, 심장이 1분간 뿜어내는 혈액의 양을 수학적으로 정량 계산하는 독보적인 실증 관찰 습관을 가졌습니다.\n\n하비는 수학적 정량 계산을 통해 심장이 단 1시간 동안 펌프질하는 혈액의 양이 인체 체중의 3배가 넘는다는 사실을 증명했습니다. 간이 1시간 만에 이 엄청난 양의 피를 새로 만들어내는 것은 물리적으로 불가능하므로, 혈액은 간에서 소비되는 것이 아니라 닫힌 관을 따라 순환해야 한다는 결론을 유도해 냈습니다. 이 수치 검증 습관은 맹목적 고정관념을 부수고 좌뇌 분석 능력을 극대화하는 인지신경학적 정수였습니다.",
+      "ja": "この歴史的習慣の実践において：17 (William Harvey, 1578–1657). ' ' . この歴史的習慣の実践において： 2,000 ' ' (Galen) . , 1 . この歴史的習慣の実践において： 1 3 . 1 , . .",
+      "zh": "在这一历史性惯例的实践中：17 (William Harvey, 1578–1657). ' ' . 在这一历史性惯例的实践中： 2,000 ' ' (Galen) . , 1 . 在这一历史性惯例的实践中： 1 3 . 1 , . .",
+      "es": "El médico inglés del siglo XVII y doctor de la Corte Real William Harvey (1578–1657) revolucionó la medicina al descubrir la circulación sistémica de la sangre bombeada a través del cuerpo por el corazón. Publicado en su tratado monumental de 1628 'De Motu Cordis', el descubrimiento de Harvey se considera el nacimiento de la fisiología moderna.\n\nDurante casi 2,000 años, la medicina occidental estuvo dominada por el dogma de Galeno: la creencia no probada de que la sangre se fabricaba continuamente en el hígado y era consumida por los tejidos. En lugar de aceptar los libros de texto tradicionales por fe, Harvey adoptó un hábito riguroso: calcular volúmenes cuantitativos exactos de volumen sistólico cardíaco y flujo sanguíneo.\n\nHarvey demostró matemáticamente que en solo una hora, el corazón bombea más sangre que el peso total de un cuerpo humano. Dado que era físicamente imposible que el hígado fabricara tan inmensas cantidades de sangre cada hora, dedujo que la sangre debía circular en un circuito cerrado continuo. Este hábito de calcular números cuantitativos precisos disolvió siglos de dogma y afiló la claridad analítica del hemisferio izquierdo.",
+      "fr": "Le médecin britannique du XVIIe siècle et médecin de la Cour Royale William Harvey (1578–1657) a révolutionné la médecine en découvrant la circulation systémique du sang pompé à travers le corps par le cœur. Publiée dans son traité fondateur de 1628 'De Motu Cordis', la découverte de Harvey est considérée comme la naissance de la physiologie moderne.\n\nPendant près de 2 000 ans, la médecine occidentale a été dominée par le dogme de Galien : la croyance non prouvée selon laquelle le sang était continuellement fabriqué par le foie et consommé par les tissus. Au lieu d'accepter les manuels traditionnels par foi, Harvey adopta una habitude rigoureuse : calculer des volumes quantitatifs exacts du débit cardiaque et du flux sanguin.\n\nHarvey démontra mathématiquement qu'en une heure seulement, le cœur pompe plus de sang que le poids total d'un corps humain. Comme le foie ne pouvait pas fabriquer de telles quantités de sang chaque heure, il en déduisit que le sang devait circuler dans un circuit fermé continu. Cette habitude de calculer des chiffres quantitatifs précis dissolvit des siècles de dogme et affûta la clarté analytique du cerveau gauche.",
+      "de": "Der englische Arzt des 17. Jahrhunderts und königliche Hofarzt William Harvey (1578–1657) revolutionierte die Medizin durch die Entdeckung des Körperblutkreislaufs, der vom Herzen durch den Körper gepumpt wird. Seine Entdeckung, die 1628 in seiner bahnbrechenden Abhandlung 'De Motu Cordis' veröffentlicht wurde, gilt als Geburt der modernen Physiologie.\n\nFast 2.000 Jahre lang wurde die westliche Medizin von Galens Dogma beherrscht – dem unbewiesenen Glauben, dass Blut kontinuierlich in der Leber erzeugt und vom Gewebe verbraucht werde. Anstatt traditionelle Lehrbücher gläubig zu akzeptieren, entwickelte Harvey eine strenge Gewohnheit: Die Berechnung exakter quantitativer Volumina des Herzschlagvolumens und des Blutflusses.\n\nHarvey bewies mathematisch, dass das Herz in nur einer Stunde mehr Blut pumpt als das gesamte Körpergewicht eines Menschen beträgt. Da die Leber unmöglich jede Stunde solche gewaltigen Mengen Blut herstellen konnte, folgerte er, dass das Blut in einem kontinuierlichen geschlossenen Kreislauf fließen müsse. Diese Gewohnheit, harte quantitative Zahlen zu berechnen, löste Jahrhunderte von Dogmen auf und schärfte die analytische Klarheit der linken Gehirnhälfte.",
+      "pt": "O médico inglês do século XVII e médico da Corte Real William Harvey (1578–1657) revolucionou a medicina ao descobrir a circulação sistêmica do sangue bombeado pelo corpo através do coração. Publicado em seu tratado monumental de 1628 'De Motu Cordis', o descobrimento de Harvey é considerado o nascimento da fisiologia moderna.\n\nPor quase 2.000 anos, a medicina ocidental foi dominada pelo dogma de Galeno — a crença não provada de que o sangue era continuamente fabricado no fígado e consumido pelos tecidos. Em vez de aceitar livros manuais tradicionais por fé, Harvey adotou um hábito rigoroso: calcular volumes quantitativos exatos do débito cardíaco e fluxo sanguíneo.\n\nHarvey demonstrou matematicamente que em apenas uma hora o coração bombeia mais sangue do que o peso total de um corpo humano. Como era fisicamente impossível para o fígado fabricar imensas quantidades de sangue a cada hora, ele deduziu que o sangue deveria circular em um circuito fechado contínuo. Esse hábito de calcular números quantitativos precisos dissolveu séculos de dogma e afiou a clareza analítica do cérebro esquerdo.",
+      "id": "Dokter Inggris abad ke-17 dan dokter Istana Kerajaan William Harvey (1578–1657) merevolusi dunia medis dengan menemukan sirkulasi sistemik darah yang dipompa ke seluruh tubuh oleh jantung. Diterbitkan dalam risalah monumentalnya tahun 1628 'De Motu Cordis', penemuan Harvey dianggap sebagai lahirnya fisiologi modern.\n\nSelama hampir 2.000 tahun, kedokteran Barat didominasi oleh dogma Galen—keyakinan yang belum terbukti bahwa darah terus-menerus diproduksi di hati dan dikonsumsi oleh jaringan. Alih-alih menerima buku teks tradisional berdasarkan keyakinan buta, Harvey mengadopsi kebiasaan yang ketat: menghitung volume kuantitatif persis dari volume sekuncup jantung dan aliran darah.\n\nHarvey membuktikan secara matematis bahwa hanya dalam satu jam, jantung memompa lebih banyak darah daripada berat total tubuh manusia. Karena hati tidak mungkin memproduksi darah dalam jumlah yang sangat besar setiap jam, ia menyimpulkan bahwa darah harus mengalir dalam sirkuit tertutup yang berkelanjutan. Kebiasaan menghitung angka-angka kuantitatif yang pasti ini melenyapkan dogma berabad-abad dan mempertajam kejelasan analitis otak kiri."
+    },
+    "whyTitle": {
+      "en": "Why Quantitative Math sharpens Left-Brain Logical Control",
+      "ko": "정량 수치 계산이 좌뇌의 논리적 통제력을 강화하는 이유",
+      "ja": "定量数値計算が左脳の論理的統制力を強化する理由",
+      "zh": "定量数学计算如何强化左脑逻辑控制力",
+      "es": "Por qué las Matemáticas Cuantitativas Refuerzan el Control Lógico del Hemisferio Izquierdo",
+      "fr": "Pourquoi les Mathématiques Quantitatives Renforcent le Contrôle Logique",
+      "de": "Warum quantitatives Rechnen die linke Gehirnhälfte stärkt",
+      "pt": "Por que a Matemática Quantitativa Reforça o Controle Lógico",
+      "id": "Mengapa Matematika Kuantitatif Mempertajam Kontrol Logis Otak Kiri"
+    },
+    "whyDesc": {
+      "en": "Neuroscience shows that calculating quantitative numbers engages the left parietal cortex and prefrontal circuits, cutting through emotional biases and subjective dogmas to reveal objective truth.",
+      "ko": "신경과학 연구에 따르면 막연한 감정이 아닌 구체적인 수치 데이터와 양적 계산을 다루는 습관은 좌측 두정엽 및 전전두엽 인과 회로를 강하게 자극하여 주관적 편견과 모호함을 단번에 부숴줍니다.",
+      "ja": "神経科学の研究によると、曖昧な感情ではなく具体的な数値データと量的計算を扱う習慣は、左頂頭葉および前頭前野の因果回路を強く刺激し、主観的偏見や曖昧さを一発で打ち破ります。",
+      "zh": "神经科学研究表明，处理具体的量化数据与数学计算能强效激活左顶叶与前额叶因果回路，果断切碎主观偏见与模糊假定，展现客观真理。",
+      "es": "La neurociencia muestra que calcular números cuantitativos compromete la corteza parietal izquierda y circuitos prefrontales, eliminando sesgos emocionales.",
+      "fr": "La neuroscience montre que le calcul quantitatif engage le cortex pariétal gauche, éliminant les préjugés émotionnels.",
+      "de": "Neurowissenschaften zeigen, dass quantitatives Rechnen den linken Parietalkortex aktiviert und subjektive Vorurteile abbaut.",
+      "pt": "A neurociência mostra que calcular números quantitativos engaja o córtex parietal esquerdo e circuitos pré-frontais, eliminando preconceitos.",
+      "id": "Neurosains menunjukkan bahwa menghitung angka kuantitatif melibatkan korteks parietal kiri dan sirkuit prefrontal."
+    },
+    "cautionTitle": {
+      "en": "Caution & Harvey's Proof Tip",
+      "ko": "윌리엄 하비의 검증 습관 주의사항 및 팁",
+      "ja": "ウィリアム・ハーヴィーの検証習慣の注意点とヒント",
+      "zh": "威廉·哈维量化验证习惯的注意事项与技巧",
+      "es": "Precaución y Consejo de Prueba de Harvey",
+      "fr": "Précaution et Conseil de Preuve de Harvey",
+      "de": "Vorsicht & Harveys Beweistipp",
+      "pt": "Precaução e Dica de Prova de Harvey",
+      "id": "Peringatan & Tip Bukti Harvey"
+    },
+    "cautionDesc": {
+      "en": "Do not accept traditional rules without measurement. Always convert vague assumptions into measurable, numeric variables.",
+      "ko": "권위나 통념이라는 이유로 검증 없이 수용하지 마세요. 모호한 가설을 숫자와 측정 가능한 정량 수치 단위로 전환하는 것이 핵심입니다.",
+      "ja": "権威や通説だからといって検証なしに受け入れないでください。曖昧な仮説を数字と測定可能な定量数値単位へと変換することが大切です。",
+      "zh": "切勿因权威或惯例而未经验证即行接纳。核心是将含糊的假定转化为可测量的数字变量。",
+      "es": "No acepte reglas tradicionales sin mediciones. Convierta suposiciones vagas en variables numéricas medibles.",
+      "fr": "N'acceptez pas les règles traditionnelles sans mesure. Convertissez les hypothèses floues en variables mesurables.",
+      "de": "Akzeptieren Sie Traditionen nicht ohne Messung. Wandeln Sie vage Annahmen in messbare Zahlen um.",
+      "pt": "Não aceite regras tradicionais sem medição. Converta suposições vagas em variáveis numéricas mensuráveis.",
+      "id": "Jangan menerima aturan tradisional tanpa pengukuran. Selalu ubah asumsi samar menjadi variabel terukur."
+    },
+    "steps": [
+      {
+        "name": {
+          "en": "Challenge Vague Hypotheses",
+          "ko": "모호한 고정관념이나 가설에 이의 제기",
+          "ja": "曖昧な固定観念や仮説への異議申し立て",
+          "zh": "对含糊成见或既有假设提出怀疑",
+          "es": "Desafiar Hipótesis Vagas",
+          "fr": "Contester les Hypothèses Floues",
+          "de": "Vage Hypothesen hinterfragen",
+          "pt": "Desafiar Hipóteses Vagas",
+          "id": "Tantang Hipotesis Samarf"
+        },
+        "text": {
+          "en": "Identify a widely accepted belief or work process that lacks empirical data.",
+          "ko": "당연하게 여겨지지만 객관적 수치 데이터가 부재한 통념이나 기존 업무 방식을 식별합니다.",
+          "ja": "当たり前とされているが、客観的な数値データが存在しない通説や既存の業務方法を特定します。",
+          "zh": "识别某项被广泛接纳、但缺乏客观量化数据支撑的成见或传统工作流程。",
+          "es": "Identifique una creencia ampliamente aceptada o proceso de trabajo que carezca de datos empíricos.",
+          "fr": "Identifiez une croyance largement acceptée qui manque de données empiriques.",
+          "de": "Identifizieren Sie eine akzeptierte Überzeugung, der empirische Daten fehlen.",
+          "pt": "Identifique uma crença amplamente aceite que careça de dados empíricos.",
+          "id": "Identifikasi keyakinan yang diterima secara luas yang tidak memiliki data empiris."
+        }
+      },
+      {
+        "name": {
+          "en": "Convert to Numeric Variables",
+          "ko": "핵심 요소를 정량적 수치 단위로 전환",
+          "ja": "核心要素を定量的数値単位へ変換",
+          "zh": "将核心要素转化为可量化的数字单位",
+          "es": "Convertir a Variables Numéricas",
+          "fr": "Convertir en Variables Numériques",
+          "de": "In numerische Variablen umwandeln",
+          "pt": "Converter em Variáveis Numéricas",
+          "id": "Ubah menjadi Variabel Numerik"
+        },
+        "text": {
+          "en": "Translate the core components into measurable rates, volumes, or times.",
+          "ko": "핵심 변수들의 양, 속도, 시간, 비율을 명확한 정량 수치 단위로 치환하여 노트에 정렬합니다.",
+          "ja": "核心変数の量、速度、時間、割合を明確な定量数値単位に置き換えてノートに整理します。",
+          "zh": "将核心组件的变动量、速率、耗费时间或转化率转化为清晰的数字单位并记录。",
+          "es": "Traduzca los componentes clave a tasas, volúmenes o tiempos medibles.",
+          "fr": "Traduisez les composants clés en débits, volumes ou temps mesurables.",
+          "de": "Übersetzen Sie Kernkomponenten in messbare Raten, Volumina oder Zeiten.",
+          "pt": "Traduza os componentes principais em taxas, volumes ou tempos mensuráveis.",
+          "id": "Terjemahkan komponen inti menjadi tingkat, volume, atau waktu yang terukur."
+        }
+      },
+      {
+        "name": {
+          "en": "Mathematical Verification Sprint",
+          "ko": "15분 수학적 정량 순환 검증 스프린트",
+          "ja": "15分間の数学的定量循環検証スプリント",
+          "zh": "执行15分钟数学定量闭环验证冲刺",
+          "es": "Sprint de Verificación Matemática",
+          "fr": "Sprint de Vérification Mathématique",
+          "de": "Mathematischer Verifikations-Sprint",
+          "pt": "Sprint de Verificação Matemática",
+          "id": "Sprint Verifikasi Matematika 15 Menit"
+        },
+        "text": {
+          "en": "Perform rigorous calculations to verify input-output cycles, revealing the undeniable truth.",
+          "ko": "15분간 연산과 수치 비교를 통해 시스템의 입출력 순환이 모순 없이 들어맞는지 엄밀히 검증합니다.",
+          "ja": "15分間演算と数値比較を通じて、システムの入出力循環が矛盾なく合致するか厳密に検証します。",
+          "zh": "在15分钟内通过精准计算与数值对比，严格验证系统闭环的逻辑自洽性，揭示真理。",
+          "es": "Realice cálculos rigurosos para verificar los ciclos de entrada y salida.",
+          "fr": "Effectuez des calculs rigoureux pour vérifier les cycles d'entrée et de sortie.",
+          "de": "Führen Sie mathematische Berechnungen durch, um Zyklen zu verifizieren.",
+          "pt": "Realize cálculos rigorosos para verificar os ciclos de entrada e saída.",
+          "id": "Lakukan kalkulasi ketat untuk memverifikasi siklus masukan-keluaran."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "en": "How can I apply this Harvey proof routine to business decision making?",
+          "ko": "비즈니스 지표 분석이나 기획 의사결정에 어떻게 적용하나요?",
+          "ja": "ビジネス指標の分析や企画の意思決定にどのように適用しますか？",
+          "zh": "如何将哈维的量化验证习惯应用于商业指标分析或策划决策？",
+          "es": "¿Cómo puedo aplicar esta rutina de prueba a las decisiones de negocios?",
+          "fr": "Comment puis-je appliquer cette routine aux décisions d'affaires ?",
+          "de": "Wie kann ich diese Beweis-Routine auf Geschäftsentscheidungen anwenden?",
+          "pt": "Como posso aplicar esta rotina de prova a decisões de negócios?",
+          "id": "Bagaimana saya dapat menerapkan rutinitas bukti Harvey ini?"
+        },
+        "answer": {
+          "en": "Replace vague statements like 'users like this feature' with hard funnel numbers and conversion rates.",
+          "ko": "'사용자가 좋아한다'는 모호한 표현 대신, 사용자 유입량, 머무른 시간, 이탈률이라는 닫힌 정량 수치 순환 고리로 검증하세요.",
+          "ja": "「ユーザーがこれを好む」という曖昧な表現の代わりに、ユーザー inflow、滞在時間、離脱率という閉じた定量数値の循環ループで検証してください。",
+          "zh": "切勿使用“用户喜欢该功能”等含糊表述，请使用转化漏斗数字、留存率与流失率构成的闭环定量数据进行客观验证。",
+          "es": "Reemplace afirmaciones vagas como 'a los usuarios les gusta esta función' con números reales de embudo.",
+          "fr": "Remplacez les expressions floues par des chiffres de conversion et des métriques précises.",
+          "de": "Ersetzen Sie vage Aussagen durch konkrete Zahlen und Konversionsraten.",
+          "pt": "Substitua afirmações vagas por números reais de funil e taxas de conversão.",
+          "id": "Ganti pernyataan samar seperti 'pengguna menyukai fitur ini' dengan angka corong nyata."
+        }
+      },
+      {
+        "question": {
+          "en": "What if quantitative data contradicts my intuition?",
+          "ko": "정량적 수치가 내 직관이나 기존 지식과 상충하면 어떻게 하나요?",
+          "ja": "定量的な数値が自分の直感や既存の知識と相違した場合はどうすればいいですか？",
+          "zh": "如果定量数据与我的主观直觉相冲突怎么办？",
+          "es": "¿Qué pasa si los datos cuantitativos contradicen mi intuición?",
+          "fr": "Que faire si les données contradisent mon intuition ?",
+          "de": "Was ist, wenn quantitative Daten meiner Intuition widersprechen?",
+          "pt": "E se os dados quantitativos contradizerem minha intuição?",
+          "id": "Bagaimana jika data kuantitatif bertentangan dengan intuisi saya?"
+        },
+        "answer": {
+          "en": "Trust the measured numbers over intuition. History shows that intuition often defends outdated dogmas.",
+          "ko": "직관보다 측정된 객관적 숫자를 신뢰해야 합니다. 역사적으로 직관은 종종 시대에 뒤떨어진 고정관념을 방어하려는 뇌의 착각이었습니다.",
+          "ja": "直感よりも測定された客観的な数字を信頼すべきです。歴史的に直感は、時代遅れの固定観念を防衛しようとする脳の錯覚であることが多々ありました。",
+          "zh": "请果断选择相信精准测得的客观数字而非直觉。历史上直觉往往只是大脑为了维护落后成见而产生的错觉。",
+          "es": "Confíe en los números medidos sobre la intuición. La historia muestra que la intuición a menudo defiende dogmas obsoletos.",
+          "fr": "Faites confiance aux chiffres mesurés plutôt qu'à l'intuition.",
+          "de": "Vertrauen Sie den gemessenen Zahlen mehr als der Intuition.",
+          "pt": "Confie nos números medidos em vez da intuição.",
+          "id": "Percayalah pada angka terukur daripada intuisi."
+        }
+      }
+    ]
+  }
+}

@@ -36,8 +36,8 @@
     "intro": {
       "en": "\"When the light has been removed and my wife has fallen silent, I examine my entire day.\" Seneca, the Roman Stoic philosopher, believed in holding a trial for himself every night. By analyzing his actions objectively in the dark, he stripped daily events of their emotional charge, allowing him to sleep with a clear, peaceful conscience.",
       "ko": "\"방안의 불빛이 완전히 꺼지고 아내가 침묵에 잠겼을 때, 나는 나의 하루 전체를 검사하기 시작한다.\" 로마의 대표적인 스토아 철학자 세네카는 밤마다 스스로를 기소하고 판결을 내리는 영혼의 법정을 열었습니다. 어둠 속에서 자신의 말과 행동을 엄격하면서도 부드럽게 평가하는 이 습관은, 낮 동안 쌓인 감정적 피로와 불필요한 집착을 완전히 비워내는 시간이었습니다.",
-      "ja": "「部屋の灯りが完全に消え、妻が沈黙に沈んだとき、私は自分の生の一日全体を検査し始める。」ローマを代表するストア哲学者セネカは、夜な夜な自分を起訴し判決を下す魂の法廷を開きました。暗闇の中で自分の言動を厳格かつ優しく評価するこの習慣は、昼の間に積もった感情的な疲労と不要な執着を完全に削ぎ落とす時間でした。",
-      "zh": "“当灯火熄灭，妻子也陷入沉静时，我开始审视自己一整天的言行。”罗马著名的斯多葛哲学家塞涅卡坚持在每晚为自己举行一场“灵魂的法庭”。在黑暗中，以严苛却又不失宽容的态度审视自己的过失，这种反省能够彻底清空白天积累的负面情绪与焦虑，让他拥有安详的睡眠。",
+      "ja": "この歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持持続可能な深い集中力を養うことができます。",
+      "zh": "通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
       "es": "\"Cuando la luz se ha apagado y mi esposa ha guardado silencio, examino todo mi día.\" Séneca creía en celebrar un juicio para sí mismo cada noche. Al analizar objetivamente sus acciones en la oscuridad, eliminaba la carga emocional, permitiéndose dormir con una conciencia clara.",
       "fr": "\"Quand la lumière est éteinte et que ma femme s'est tue, j'examine ma journée entière.\" Sénèque tenait un procès avec lui-même chaque soir. En analysant ses actions objectivement dans le noir, il libérait les tensions émotionnelles, s'assurant un sommeil paisible.",
       "de": "\"Wenn das Licht gelöscht ist und meine Frau verstummt ist, prüfe ich meinen ganzen Tag.\" Seneca hielt jede Nacht Gericht über sich selbst. Indem er seine Handlungen in der Dunkelheit objektiv analysierte, befreite er sie von emotionaler Last, was ihm einen ruhigen Schlaf bescherte.",
@@ -163,6 +163,32 @@
       }
     ],
     "pubDate": "2026-02-04",
-    "updatedDate": "2026-02-04"
+    "updatedDate": "2026-02-04",
+    "faqs": [
+      {
+        "question": {
+          "ko": "이 습관을 매일 실천해야 하나요?",
+          "en": "Should I practice this habit daily?",
+          "ja": "この習慣を毎日実践すべきですか？",
+          "zh": "建议每天实践这一习惯吗？",
+          "es": "¿Debo practicar este hábito a diario?",
+          "fr": "Dois-je pratiquer cette habitude tous les jours ?",
+          "de": "Sollte ich diese Gewohnheit täglich praktizieren?",
+          "pt": "Devo praticar este hábito diariamente?",
+          "id": "Apakah saya harus mempraktikkan kebiasaan ini setiap hari?"
+        },
+        "answer": {
+          "ko": "네, 매일 일정한 시간에 실천할 때 뇌의 신경 가소성이 극대화됩니다.",
+          "en": "Yes, practicing at a set time daily maximizes brain neuroplasticity.",
+          "ja": "はい、毎日決まった時間に実践することで脳の神経可塑性が極大化します。",
+          "zh": "是的，在每天固定时间实践能最大化大脑的神经可塑性。",
+          "es": "Sí, practicar a una hora fija diariamente maximiza la neuroplasticidad cerebral.",
+          "fr": "Oui, pratiquer à une heure fixe chaque jour maximise la neuroplasticité cérébrale.",
+          "de": "Ja, tägliche Praxis zur gleichen Zeit maximiert die Neuroplastizität.",
+          "pt": "Sim, praticar a uma hora fixa diariamente maximiza a neuroplasticidade.",
+          "id": "Ya, berlatih pada waktu yang sama setiap hari memaksimalkan neuroplastisitas."
+        }
+      }
+    ]
   }
 }

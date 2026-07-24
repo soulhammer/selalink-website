@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Mary Shelley, novelis Inggris terkenal yang memelopori genre fiksi ilmiah melalui mahakaryanya *Frankenstein*. Sejak kecil, Mary terbiasa mengunjungi makam ibunya untuk membaca dan berpikir. Bagi dirinya, pemakaman atau reruntuhan sejarah adalah tempat yang tenang untuk merenungi hidup. Ulas sains di balik lingkungan khidmat.
+Mary Shelley, novelis Inggris terkenal yang memelopori genre fiksi ilmiah melalui mahakaryanya *Frankenstein*. Sejak kecil, Mary terbiasa mengunjungi makam ibunya untuk membaca dan berpikir.
+
+Bagi dirinya, pemakaman atau reruntuhan sejarah adalah tempat yang tenang untuk merenungi hidup. Ulas sains di balik lingkungan khidmat.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

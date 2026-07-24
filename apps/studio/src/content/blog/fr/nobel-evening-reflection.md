@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Alfred Nobel, le chimiste inventeur de la dynamite. D'où venaient ses 355 brevets ? 🧪
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
-Après les expériences, Nobel rentrait dans son bureau chaque soir pour réviser ses notes en 5 langues.
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
-Aujourd'hui, BuildSelf vous présente la routine de réflexion du soir de Nobel.
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

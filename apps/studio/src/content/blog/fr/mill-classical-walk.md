@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-John Stuart Mill a écrit De la liberté. Comment a-t-il développé cette immense capacité cognitive ? 🚶
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-La réponse réside dans sa routine de 'marche et discussion' depuis l'enfance. Son père l'emmenait marcher tôt chaque matin. Mill résumait des classiques en marchant, tandis que son père l'interrogeait. Combiner marche, lecture et débat a stimulé son cerveau.
-
-Aujourd'hui, BuildSelf explore les bienfaits de la routine de Mill.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-首次揭示原子核存在、获得诺贝尔化学奖的物理学巨匠欧内斯特·卢瑟福。他带领团队做出重大发现的秘诀是什么？ ☕
-
-每天下午4点，卢瑟福都会同研究人员聚在一起享用红茶与饼干。在这种非正式场合，人人皆可自由辩论。这种打破阶级的自由讨论习惯孕育了伟大的发现。
-
-今天，BuildSelf 将介绍卢瑟福的下午4点茶会讨论习惯。
+在这一历史性惯例的实践中： ' ' , . ? ☕ 在这一历史性惯例的实践中： 4 . . . 在这一历史性惯例的实践中： BuildSelf 4 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

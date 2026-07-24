@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Auguste Rodin, master patung modern pencipta 'The Thinker'. Dari mana datangnya intuisi spasialnya? 🗿
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
-Setiap pagi saat berjalan-jalan, Rodin membawa sebongkah tanah liat di saku. Ia meremas dan membentuknya dengan jari, merasakan tekstur secara taktil.
-
-Hari ini, BuildSelf menyajikan sains di balik rutinitas jalan taktil Rodin.
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

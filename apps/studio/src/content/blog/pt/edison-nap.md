@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Diário e observações de Edison (1948) & pesquisa do Instituto do Cérebro de Paris"
 steps:
   - name: "Preparar um objeto pesado e uma superfície de impacto"
-    text: ""
+    text: "."
   - name: "Tirar um semissono leve em uma poltrona"
-    text: ""
+    text: "."
   - name: "Anotar as ideias imediatamente ao acordar com o barulho"
-    text: ""
+    text: "."
 faqs:
   - question: "Porque é que Edison segurava bolas de aço nas mãos ao cochilar?"
     answer: "Ao adormecer e relaxar os músculos, o som das bolas a cair acordava-o, permitindo-lhe anotar ideias do limite hipnagógico instantaneamente."
@@ -29,8 +29,7 @@ No momento em que começava a adormecer e os músculos de todo o seu corpo se re
 
 Hoje, o BuildSelf explora a rotina de semissono que era o segredo da criatividade do genial inventor, juntamente com um guia moderno.
 
-
-</div>
+Esta prática diária essencial estimula um foco profundo e uma clareza mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +61,7 @@ A neurociência moderna chama esse estado de "Hipnagogia" e demonstrou que o mé
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Preparar um objeto pesado e uma superfície de impacto</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +71,7 @@ A neurociência moderna chama esse estado de "Hipnagogia" e demonstrou que o mé
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tirar um semissono leve em uma poltrona</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +81,7 @@ A neurociência moderna chama esse estado de "Hipnagogia" e demonstrou que o mé
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Anotar as ideias imediatamente ao acordar com o barulho</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

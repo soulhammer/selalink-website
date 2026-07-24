@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-Gregor Mendel, o pai da genética. Em um mosteiro do século XIX sem equipamentos de laboratório, como descobriu as leis da hereditariedade? 🫛
-
-O segredo estava no seu 'diário de estatísticas de ervilhas' por 8 anos. Mendel examinava 7 características e registrava os dados sem erros. Observou 29.000 plantas. Esse rastreamento analógico lançou as bases da genética.
-
-Hoje, o BuildSelf apresenta a ciência por trás da rotina de Mendel.
+Na prática desta rotina transformadora: , . 19 ' ' ? 🫛 Na prática desta rotina transformadora: 8 ' ' . , , , , 7 . . 29,000 . . Na prática desta rotina transformadora: BuildSelf . Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

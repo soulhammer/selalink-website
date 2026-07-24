@@ -16,10 +16,13 @@ steps:
     text: "打开第一个项目的草稿，在15-20分钟的时间块内，全身心地投入这一项工作中，记录或录下你的想法。在此期间必须屏蔽所有可能干扰注意力的电子提示音。"
   - name: "第三步：如同清空缓存般干脆转换至下个课题"
     text: "当预设的时长截止，立刻关掉当前的文件并点开第二个项目。做三次深呼吸，彻底清空前一个项目在大脑中留下的工作缓存，接着倾注100%的专注力进入下一项任务，绝不瞻前顾后。"
+faqs:
+  - question: "建议每天实践这一习惯吗？"
+    answer: "是的，在每天固定时间实践能最大化大脑的神经可塑性。"
 
 ---
 
-“理性与信仰决不冲突，理性是确证信仰的强有力武器。”中世纪经院哲学大师托马斯·阿奎那的思维运转速度远远超出了他的书写速度。为了记录下澎湃的灵感，他采取了同时向多名助手口授的方式进行创作。他在房间里踱步，向这名助手阐述神学假说，转头便向另一名助手推导物理学论证，中途毫无停顿，逻辑链条严丝合缝。
+通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -83,4 +86,19 @@ steps:
       请千万不要将这种训练与现代人注意力分散的“多任务切换”（例如边写代码边查收邮件）相混淆。普通的注意力分散会急剧拉低工作的质量与速率。阿奎那的模式是“分区顺序执行”高专注度的独立工作。也就是说，在处理某一个具体问题时，你依然必须倾注100%的大脑精力，然后清晰地转换到下一个课题的100%状态。
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>建议每天实践这一习惯吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      是的，在每天固定时间实践能最大化大脑的神经可塑性。
+    </p>
+  </details>
 </div>

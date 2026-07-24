@@ -24,9 +24,13 @@ faqs:
 
 ---
 
-Julio César, héroe de la República romana, tenía un secreto sobrehumano para ahorrar tiempo: dictaba cartas y órdenes militares a 3 o 4 escribas a la vez mientras cabalgaba. Esta capacidad de procesamiento paralelo era la fuente de su gran administración.
+En la práctica de esta rutina transformadora:               .           .  24               .
 
-Hoy, BuildSelf analiza los principios cognitivos del 'dictado simultáneo' de César.
+En la práctica de esta rutina transformadora:            3~4  .        ,  ,     (Dictation).                   .         .
+
+En la práctica de esta rutina transformadora:  BuildSelf   ' (Simultaneous Dictation)'               .
+
+Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

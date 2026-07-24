@@ -16,7 +16,7 @@ faqs:
     answer: "Meist alle 1 bis 2 Wochen mit mildem Tiershampoo."
 ---
 
-Die Sphynx-Katze ist eine hauchzarte Rasse ohne Fell. Da sie keine Haare besitzen, lagert sich Talg ab. Zudem sind sie extrem kälteempfindlich. Heute bei PetSelf zeigen wir Hautreinigung.
+Die Sphynx-Katze ist eine hauchzarte Rasse ohne Fell. Da sie keine Haare besitzen, lagert sich Talg ab. Zudem sind sie extrem kälteempfindlich. Heute bei PetSelf zeigen wir Hautreinigung. Die Bereitstellung einer konsistenten täglichen Gesundheitspflege und einer sicheren Umgebung sichert das Wohlbefinden Ihres Haustieres.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

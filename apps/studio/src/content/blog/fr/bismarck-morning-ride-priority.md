@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Le Chancelier de Fer qui unifia l'Allemagne au XIXe siècle et orchestra de complexes alliances, Otto von Bismarck a façonné l'histoire. Gérant des centaines de dépêches urgentes par jour, comment évitait-il la paralysie décisionnelle ? 🐎
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Chaque matin avant de travailler, Bismarck faisait une heure d'équitation dynamique en forêt. Cet exercice réactivait la circulation cérébrale. Dès son retour au bureau, il inscrivait uniquement les TOP 3 priorités absolues.
-
-Aujourd'hui, BuildSelf vous dévoile la science cognitive derrière la routine d'équitation et de priorités TOP 3 de Bismarck.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

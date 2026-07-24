@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Plutarchs 'Biografien: Demosthenes' & Forschungen zur Reizkontrolle der APA"
 steps:
   - name: "Das Smartphone physisch isolieren"
-    text: ""
+    text: "."
   - name: "Einen Pomodoro-Timer stellen und fokussieren"
-    text: ""
+    text: "."
   - name: "Eine echte Offline-Pause machen"
-    text: ""
+    text: "."
 faqs:
   - question: "Warum rasierte sich Demosthenes die Hälfte seines Kopfes?"
     answer: "Durch sein lächerliches Aussehen hinderte er sich selbst daran, nach draußen zu gehen, um sich auf das Redetraining zu konzentrieren."
@@ -29,8 +29,7 @@ Da er sich mit diesem lächerlichen Aussehen nicht unter die Menschen traute, zw
 
 Heute untersucht BuildSelf das Geheimnis von Demosthenes, der sich eine extreme Umgebung schuf, um die menschliche Schwäche zu überwinden, und wie wir dieses Prinzip im Zeitalter des Smartphones anwenden können.
 
-
-</div>
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +61,7 @@ In der modernen Psychologie ist dies ein zentrales Prinzip. Die Willenskraft (Wi
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Das Smartphone physisch isolieren</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +71,7 @@ In der modernen Psychologie ist dies ein zentrales Prinzip. Die Willenskraft (Wi
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Einen Pomodoro-Timer stellen und fokussieren</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +81,7 @@ In der modernen Psychologie ist dies ein zentrales Prinzip. Die Willenskraft (Wi
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Eine echte Offline-Pause machen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

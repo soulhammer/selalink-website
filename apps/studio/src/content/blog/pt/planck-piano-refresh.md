@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Max Planck, o pai da física quântica. Para tolerar a imensa fadiga de calcular as leis do cosmos, realizava um ritual de descanso: tocava piano sem partitura. Acompanhava o violino do seu colega Albert Einstein. Analisemos como a improvisação artística activa o hemisfério direito e relaxa as redes lógicas.
+Na prática desta rotina transformadora:                    .                     .      ,             .                    .        .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

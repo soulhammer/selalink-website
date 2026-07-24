@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-皮耶塔、大卫以及西斯廷教堂天顶画。米开朗基罗·博那罗蒂创作了艺术史上一些最伟大的杰作。在他历史性天才的背后，隐藏着一种对极端专注的执着习惯。根据同时代传记作家乔尔乔·瓦萨里的记录，当米开朗基罗致力于一个项目时，他会数周穿着衣服和靴子睡觉。今天，BuildSelf将带您探索米开朗基罗“防线最小化”背后的认知科学，以及您如何减少决策疲劳以最大化专注力。
+在这一历史性惯例的实践中：, , . . (Flow) . , . BuildSelf ' ' , .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

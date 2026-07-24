@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-反物質を予測したノーベル賞物理学者ポール・ディラック。彼の美しい数式はどこから生まれたのでしょうか？ 🌌
-
-ディラックは毎週日曜日、一言も発さず森を何時間も歩きました。言語ノイズを止めることで数式の対称性を研ぎ澄ませました。
-
-今日のBuildSelfでは、ディラックの「沈黙散歩」ルーティンを紹介します。
+この歴史的習慣の実践において： , . ? 🌌 この歴史的習慣の実践において： . , 3 . この歴史的習慣の実践において： BuildSelf ' ' 3 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

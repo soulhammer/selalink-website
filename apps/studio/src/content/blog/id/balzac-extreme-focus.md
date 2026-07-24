@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Honoré de Balzac, raksasa mutlak sastra realis Prancis abad ke-19, meletakkan dasar bagi novel modern dengan 'Komedi Manusia.' Kekuatan pendorong di balik karya kreatifnya adalah rutinitas 'hiperfokus' ekstrem bangun tengah malam & menulis selama 12 jam. Bangun tengah malam saat dunia sunyi, Balzac menyalakan 2 lilin saja & menghapus semua gangguan. Ia menulis selama 12-15 jam & meminum kopi hitam agar otak tetap waspada.
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
+
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

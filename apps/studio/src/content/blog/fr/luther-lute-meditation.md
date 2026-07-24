@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Martin Luther défia le pouvoir de l'Église catholique. Faisant face à des menaces de mort, sa santé mentale et physique en souffrait. Son moyen de recentrer son esprit était de jouer du luth (Lute) chaque matin après ses prières. Voyons comment la musique stimule le nerf vague et active le système parasympathique.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

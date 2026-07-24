@@ -24,9 +24,9 @@ faqs:
 
 ---
 
-Julius Cäsar reiste stets mit 3 oder 4 Schreibern und diktierte ihnen gleichzeitig Briefe, militärische Befehle und Notizen zu völlig unterschiedlichen Themen. Dieses parallele Arbeiten ermöglichte ihm eine enorme Effizienz.
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
-Heute stellt BuildSelf die kognitiven Prinzipien hinter Cäsars 'simultaner Diktat'-Methode vor und zeigt, wie man sie heute nutzen kann.
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

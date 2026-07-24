@@ -22,9 +22,7 @@ faqs:
 
 ---
 
-约翰·弥尔顿，在完全失明状态下完成了文学杰作《失乐园》的英国传奇诗人。一个字也看不见的他，是如何写出超过一万行的宏大史诗的？秘诀就在他凌晨4点的晨间惯例中。弥尔顿在天亮前起床，在寂静中冥想，在脑海中雕琢诗句。早上7点助理一到，他就将记在脑海中的诗句倾泻而出。让我们一起来探索他安静专注背后的脑科学秘密。
-
-</div>
+在这一历史性惯例的实践中： 《》 , . 1 ? 4 . . 7 . 脳科学的 . 在这一历史性惯例的实践中：</div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

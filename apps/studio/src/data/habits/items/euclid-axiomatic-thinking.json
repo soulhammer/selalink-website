@@ -1,0 +1,30 @@
+{
+  "id": "euclid-axiomatic-thinking",
+  "name": "유클리드",
+  "gender": "male",
+  "era": "기원전 3세기 (고대)",
+  "location": "고대 그리스 / 이집트 알렉산드리아",
+  "lifespan": "BC 325 - BC 265",
+  "birthYear": -325,
+  "bio": "고대 그리스의 대수학자이자 기하학의 아버지로, 인류 역사상 가장 영향력 있는 수학 고전인 《원론(Elements)》 13권을 집필하여 논리적 연역 체계를 완성했습니다.",
+  "habitName": "공리(Axiom)부터 쌓아 올리는 제1원리 연쇄 사고 루틴",
+  "tags": ["#의사결정", "#본질", "#집중", "#생산성"],
+  "timeOfDay": "morning",
+  "requiredItems": ["마블 태블릿 또는 양초와 양피지", "5가지 기본 원칙"],
+  "frequency": "daily",
+  "historicalStory": "유클리드는 복잡한 기하학적 난제나 학문적 분쟁을 맞닥뜨렸을 때, 결코 자신의 직관이나 사람들의 편견을 근거로 삼지 않았습니다. 대신 그는 질문을 가장 기본적인 5가지 자명한 공리(Axiom, 더 이상 증명할 필요 없는 근본 진리) 수준으로 완전히 해체한 뒤, 하나의 오차도 없이 한 단계씩 논리적 결론을 유도해 내는 연쇄 사고 루틴을 매일 아침 유지했습니다. 이 습관으로 완성된 《원론》은 2000년 동안 인류 지성사에서 논리와 사고의 교과서가 되었습니다.",
+  "sciencePrinciples": "현대 인지심리학과 경영학에서는 이를 '제1원리 사고법(First-Principles Thinking)'이라고 부릅니다. 기존 뇌의 고정관념이나 귀납적 편향(Heuristics)에 의존하지 않고, 문제를 가장 작은 요소로 분해한 뒤(Deconstruction) 근본 진리로부터 재조합(Reconstruction)함으로써 기존에 없던 독창적이고 정확한 솔루션을 도출하는 고차원 인지 루틴입니다.",
+  "quote": "기하학에는 왕도가 없다.",
+  "trigger": "복잡한 난제나 감정적 편향으로 의사결정이 마비될 때",
+  "modernGuide": [
+    "직면한 복잡한 문제에서 타인의 의견이나 막연한 고정관념을 완전히 벗겨냅니다.",
+    "의심할 수 없는 가장 명백한 사실(공리) 3가지를 노트에 적습니다.",
+    "그 3가지 사실로부터 논리적 인과관계에 따라 다음 판단을 한 단계씩 쌓아 올립니다."
+  ],
+  "actionName": "유클리드 제1원리 3단계 해체 루틴",
+  "sources": [
+    "Euclid's Elements (Books I-XIII, c. 300 BC)",
+    "Proclus' Commentary on the First Book of Euclid's Elements",
+    "Cognitive Psychology of First-Principles Reasoning (Nature Human Behaviour)"
+  ]
+}

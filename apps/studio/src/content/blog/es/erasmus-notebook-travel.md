@@ -16,6 +16,9 @@ steps:
     text: "Mire por la ventana el paisaje que pasa. Deje que sus ojos capturen el flujo óptico sin enfocarse en nada en particular, permitiendo que el cerebro entre en un estado de ensueño."
   - name: "Capturar el destello de lucidez"
     text: "En el momento en que surja una idea o solución en su mente, anote de inmediato las palabras clave en su cuaderno. No espere a llegar a su destino, ya que estas ideas se desvanecen rápido."
+faqs:
+  - question: "¿Debo practicar este hábito a diario?"
+    answer: "Sí, practicar a una hora fija diariamente maximiza la neuroplasticidad cerebral."
 
 ---
 
@@ -83,4 +86,19 @@ Estar en movimiento cambia el flujo visual, activando la neuroplasticidad. Adem�
       Si pasa el tiempo de viaje revisando redes sociales, destruirá la incubación creativa. Su cerebro se inunda de estímulos que bloquean las ondas alfa. Para activar la creatividad, mire hacia afuera y deje que sus pensamientos fluyan, con el bloc de notas listo.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>¿Debo practicar este hábito a diario?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Sí, practicar a una hora fija diariamente maximiza la neuroplasticidad cerebral.
+    </p>
+  </details>
 </div>

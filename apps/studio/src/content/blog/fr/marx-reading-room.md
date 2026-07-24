@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Karl Marx a analysé les structures du capitalisme. Comment son chef-d'œuvre Das Kapital est-il né ? 🏛️
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Sa base d'étude était la salle de lecture du British Museum. Pendant 30 ans d'exil, Marx y passait 10 heures par jour. Sous la coupole, il analysait les données et notait les faits marquants. Cette routine a forgé sa pensée.
-
-Aujourd'hui, BuildSelf explore les principes de la routine de Marx.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

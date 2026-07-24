@@ -16,7 +16,7 @@ faqs:
     answer: "Mindestens 2 Stunden täglich inklusive geistiger Kopfarbeit."
 ---
 
-Der Border Collie ist als klügster Hund der Welt bekannt. Schnelles Rennen und Haken schlagen belasten Bänder. Heute zeigt PetSelf eine Routine für Gehirntraining und Gelenkschutz.
+Der Border Collie ist als klügster Hund der Welt bekannt. Schnelles Rennen und Haken schlagen belasten Bänder. Heute zeigt PetSelf eine Routine für Gehirntraining und Gelenkschutz. Die Bereitstellung einer konsistenten täglichen Gesundheitspflege und einer sicheren Umgebung sichert das Wohlbefinden Ihres Haustieres.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

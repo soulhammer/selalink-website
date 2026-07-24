@@ -16,10 +16,13 @@ steps:
     text: "闭上眼睛，在脑海中像放电影般回放从清晨醒来到当下的时间线。像一个毫无偏见的旁观者，默默审视自己在关键节点上的情绪反应和行为表现。"
   - name: "第三步：提炼明日方案并释怀放下"
     text: "选出今天做得最不妥帖的一件事，并为明天制定一个具体可行的改进方案。方案一旦确立，请对自己说“今天的所有课题至此完结”，然后切断所有胡思乱想，坦然入睡。"
+faqs:
+  - question: "建议每天实践这一习惯吗？"
+    answer: "是的，在每天固定时间实践能最大化大脑的神经可塑性。"
 
 ---
 
-“当灯火熄灭，妻子也陷入沉静时，我开始审视自己一整天的言行。”罗马著名的斯多葛哲学家塞涅卡坚持在每晚为自己举行一场“灵魂的法庭”。在黑暗中，以严苛却又不失宽容的态度审视自己的过失，这种反省能够彻底清空白天积累的负面情绪与焦虑，让他拥有安详的睡眠。
+通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -83,4 +86,19 @@ steps:
       睡前反思的核心在于理性地寻求改进方案，而非情绪化的自责与自我折磨。面对自己的失误或懈怠，如果陷入情绪化的否定和内疚，反而会加剧睡眠障碍。请对自己说：“虽然出了差错，但我找到了原因，明天我会改正。”像一位公正的法官般进行客观、温和的质询，然后平静地原谅自己。
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>建议每天实践这一习惯吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      是的，在每天固定时间实践能最大化大脑的神经可塑性。
+    </p>
+  </details>
 </div>

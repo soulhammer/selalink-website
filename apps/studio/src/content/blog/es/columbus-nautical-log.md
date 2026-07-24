@@ -24,11 +24,13 @@ faqs:
 
 ---
 
-En 1492, liderando tres carabelas a través del Atlántico desconocido, Cristóbal Colón abrió una nueva era de exploración. Enfrentando motines y el miedo al oceano infinito, ¿cómo mantenía la calma? ⛵
+En la práctica de esta rutina transformadora: 1492, 3   ··             ,  (Christopher Columbus).      '   '           ? ⛵
 
-Cada noche a la luz de las velas, Colón registraba datos cuantitativos en su diario de a bordo: coordenadas, viento y estrellas. Convertir el miedo subjetivo en números objetivos calmó su amígdala.
+En la práctica de esta rutina transformadora:            (Astrolabe)     ,    ' (Nautical Log)'  .                            .
 
-Hoy BuildSelf analiza la neurociencia tras la rutina del diario de a bordo de Cristóbal Colón.
+En la práctica de esta rutina transformadora:  BuildSelf                3    .
+
+Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

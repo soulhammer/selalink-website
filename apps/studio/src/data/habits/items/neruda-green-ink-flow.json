@@ -1,0 +1,30 @@
+{
+  "id": "neruda-green-ink-flow",
+  "name": "파블로 네루다",
+  "gender": "male",
+  "era": "20세기 (현대)",
+  "location": "칠레 (Chile)",
+  "lifespan": "1904 - 1973",
+  "birthYear": 1904,
+  "bio": "칠레의 전설적인 시인이자 1971년 노벨문학상 수상자로, 《스무 편의 사랑의 시와 한 편의 절망의 노래》로 전 세계 문학계에 깊은 감동을 안겼습니다.",
+  "habitName": "초록색 잉크와 시각적 파장으로 창의적 몰입을 유도하는 시각 리프레시 루틴",
+  "tags": ["#창의력", "#아이디어", "#글쓰기", "#영감"],
+  "timeOfDay": "morning",
+  "requiredItems": ["초록색 잉크 만년필", "노트"],
+  "frequency": "daily",
+  "historicalStory": "파블로 네루다는 평생 자신의 모든 시와 원고, 친필 편지를 오직 '초록색 잉크(Green Ink)'로만 작성하는 독특하고 고집스러운 습관을 유지했습니다. 네루다에게 초록색은 희망과 자연의 생명력을 뜻하는 본질적 색상이었습니다. 검은색 잉크의 차갑고 경직된 자극 대신, 초록색 잉크가 선명하게 종이 위를 흐를 때 뇌의 시각적 긴장이 풀리고 시상(Poetic Intuition)이 거침없이 샘솟는 효과를 경험했습니다.",
+  "sciencePrinciples": "인지색채학과 신경과학 연구에 의하면 녹색 광선 파장(520 - 550nm)은 인간의 눈과 뇌의 시각 피질(Visual Cortex)에 가장 부담이 적은 자연 파장입니다. 녹색 시각 자극은 뇌의 알파파(Alpha Waves)를 유도하여 이완된 상태에서의 고도 집중(Flow State)을 촉진하며, 시각적 피로도를 현저히 낮춰 창의적 영감을 자극합니다.",
+  "quote": "초록색은 희망의 색이자 내 시가 숨 쉬는 자연의 색이다.",
+  "trigger": "창작이나 아이디어 구상 중 뇌가 피로하고 글이 막힐 때",
+  "modernGuide": [
+    "검은색 글자 대신 필기구나 에디터 포인트를 숲을 연상시키는 녹색 톤으로 전환합니다.",
+    "창밖의 식물이나 녹색 잉크 필기 흔적을 10초간 응시하며 알파파를 유도합니다.",
+    "형식이나 완성도에 얽매이지 않고 10분간 생각의 흐름을 녹색 잉크로 쏟아냅니다."
+  ],
+  "actionName": "네루다 초록색 영감 플로우 3단계 루틴",
+  "sources": [
+    "Pablo Neruda's Memoirs: I Confess I Have Lived (1974)",
+    "Pablo Neruda Foundation Archive (Isla Negra, Chile)",
+    "Impact of Green Wavelengths on Visual Cortex & Alpha Waves (Frontiers in Psychology)"
+  ]
+}

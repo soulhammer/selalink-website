@@ -16,7 +16,7 @@ faqs:
     answer: "At least 2 hours of daily exercise including training."
 ---
 
-The Border Collie is widely known as the smartest dog breed in the world. Their explosive running style and quick turns put high stress on their joints. Today at PetSelf, we present a 3-step homecare routine designed to challenge their brain and maintain joint health.
+The Border Collie is widely known as the smartest dog breed in the world. Their explosive running style and quick turns put high stress on their joints. Today at PetSelf, we present a 3-step homecare routine designed to challenge their brain and maintain joint health. Providing consistent daily health care and a safe home environment ensures your pet's long-term wellness.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

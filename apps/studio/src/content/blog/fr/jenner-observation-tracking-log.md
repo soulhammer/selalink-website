@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Le médecin rural qui a éradiqué la variole et inventé le premier vaccin, Edward Jenner a sauvé des millions de vies. Comment a-t-il accompli cette percée ? 🩺
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Jenner a pris au sérieux le folklore sur les fermières immunisées. Pendant des années, il a consigné les symptômes dans un carnet d'observation. Cette collecte rigoureuse a permis de créer le vaccin.
-
-Aujourd'hui, BuildSelf vous présente la science derrière la routine d'observation d'Edward Jenner.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

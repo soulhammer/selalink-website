@@ -24,7 +24,7 @@ faqs:
 
 Mary Shelley, la novelista inglesa que fue pionera en la ciencia ficción con *Frankenstein*. Desde niña, visitaba el cementerio donde yacía su madre para leer y pensar. Para ella, los cementerios eran santuarios tranquilos sobre la vida y la muerte. Conozcamos cómo la solemne atmósfera activa redes creativas en el cerebro.
 
-</div>
+Esta práctica diaria esencial fomenta un enfoque profundo y una claridad mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

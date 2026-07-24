@@ -22,9 +22,7 @@ faqs:
 
 ---
 
-亚瑟·柯南·道尔爵士，创造了历史上最著名侦探夏洛克·福尔摩斯的医生和作家。在构思福尔摩斯那敏锐、逻辑清晰的大脑时，道尔自己却保持着高度活跃的身体状态。他是一位出色的运动员，打拳击、板球，还踢足球。他认为，当身体行动迟缓时，大脑就会停滞不前。让我们一起来探讨体育锻炼是如何刺激BDNF并最大化认知能力的神经科学原理。
-
-</div>
+通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

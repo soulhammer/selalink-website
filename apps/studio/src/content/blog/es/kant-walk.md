@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Biografía 'Kant' de Manfred Kuehn y Journal of Neurobiology of Learning and Memory (JN)"
 steps:
   - name: "Establecer una alarma de reactivación a las 3:30 PM"
-    text: ""
+    text: "."
   - name: "Caminata silenciosa de 15 minutos sin teléfono móvil"
-    text: ""
+    text: "."
   - name: "Regular la respiración y regresar"
-    text: ""
+    text: "."
 faqs:
   - question: "¿Por qué Immanuel Kant salía a pasear exactamente a las 3:30 PM todos los días?"
     answer: "Era un ritual estricto para mantener su ritmo circadiano y sostener la investigación filosófica abstracta durante décadas, protegiendo su salud."
@@ -27,8 +27,7 @@ Su hora de caminata era tan exacta que los ciudadanos de Königsberg ajustaban l
 
 Hoy, BuildSelf explora los beneficios médicos y la práctica moderna del estricto estilo de vida del maestro, quien caminó día tras día sin falta.
 
-
-</div>
+Esta práctica diaria esencial fomenta un enfoque profundo y una claridad mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +59,7 @@ La neurociencia moderna coincide con esto. Caminar con regularidad (ejercicio ae
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Establecer una alarma de reactivación a las 3:30 PM</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +69,7 @@ La neurociencia moderna coincide con esto. Caminar con regularidad (ejercicio ae
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Caminata silenciosa de 15 minutos sin teléfono móvil</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +79,7 @@ La neurociencia moderna coincide con esto. Caminar con regularidad (ejercicio ae
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Regular la respiración y regresar</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

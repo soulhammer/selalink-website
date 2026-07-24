@@ -24,9 +24,9 @@ faqs:
 
 ---
 
-Julius Caesar, panglima besar Romawi, memiliki rahasia menghemat waktu yang luar biasa. Saat bepergian, ia membawa 3 atau 4 juru tulis dan mendiktekan surat serta perintah perang secara bergantian. Metode ini adalah kunci efisiensinya.
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
-Hari ini, BuildSelf mengulas prinsip kognitif di balik dikte simultan Caesar.
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

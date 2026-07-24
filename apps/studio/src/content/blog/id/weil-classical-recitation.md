@@ -24,7 +24,7 @@ faqs:
 
 Simone Weil, filsuf Prancis terkemuka yang mendedikasikan hidupnya untuk kebenaran. Ia percaya bahwa 'perhatian' adalah alat paling suci dari intelektual. Untuk melatihnya, ia merutinkan membaca teks Yunani kuno atau filsafat Plato setiap pagi. Ia menyebutnya sebagai pembersihan mental. Mari kita ulas manfaat membaca nyaring secara neurokognitif.
 
-</div>
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

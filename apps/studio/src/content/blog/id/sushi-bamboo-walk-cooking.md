@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Penyair abad Song yang terkenal, Su Shi (Su Dongpo) menjaga ketahanan emosional legendaris saat diasingkan. Bagaimana ia mengubah kesulitan menjadi seni? 🎋
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
-Setiap pagi, Su Shi berjalan di rumpun bambu dan memasak dengan api kecil selama berjam-jam. Perendaman sensorik ini memulihkan sistem sarafnya.
-
-Hari ini BuildSelf mengungkap sains di balik rutinitas Su Shi.
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -91,7 +89,7 @@ Memaksa pikiran melupakan kekecewaan justru memicu pengulangan amigdala.
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Inti masakan Su Shi adalah menunggu dengan hati tenang. Nikmati aroma dan kehangatannya.
+      Ciptakan ruang kerja bebas gangguan dan atur pencahayaan sekitar untuk mempertahankan tingkat konsentrasi tinggi.
     </p>
   </div>
 </div>

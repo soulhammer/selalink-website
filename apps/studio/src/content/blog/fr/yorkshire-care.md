@@ -16,7 +16,7 @@ faqs:
     answer: "L'aboiement est instinct de gardien. Récompensez le silence."
 ---
 
-Le Yorkshire Terrier, ou 'Yorkie', cache un caractère audacieux. Son poil long est similaire aux cheveux humains. De plus, ils sont sensibles à la luxation de la rotule. Aujourd'hui chez PetSelf, nous expliquons comment protéger ses rotules.
+Le Yorkshire Terrier, ou 'Yorkie', cache un caractère audacieux. Son poil long est similaire aux cheveux humains. De plus, ils sont sensibles à la luxation de la rotule. Aujourd'hui chez PetSelf, nous expliquons comment protéger ses rotules. Offrir des soins de santé quotidiens constants et un environnement sûr garantit le bien-être à long terme de votre animal.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

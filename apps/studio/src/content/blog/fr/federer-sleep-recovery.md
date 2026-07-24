@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Roger Federer, légende du tennis. Quel était son secret pour maintenir des performances au-delà de 40 ans ? 🎾
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Federer disait que s'il ne dormait pas 11 à 12 heures, il ne pouvait pas performer. Il combinait 10h de nuit et des siestes.
-
-Aujourd'hui, BuildSelf explore la routine de récupération par le sommeil de Federer.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

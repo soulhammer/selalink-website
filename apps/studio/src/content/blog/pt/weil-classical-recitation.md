@@ -24,7 +24,7 @@ faqs:
 
 Simone Weil, a brilhante filósofa francesa que dedicou a sua vida à verdade. Acreditava que a 'atenção' é a ferramenta mais sagrada do intelecto. Para cultivá-la, recitava o Pai Nosso em grego antigo ou passagens de Platão de manhã. Descrevia esta vocalização como uma limpeza mental para sintonizar a mente. Conheça a ciência da recitação vocal.
 
-</div>
+Esta prática diária essencial estimula um foco profundo e uma clareza mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-マンハッタン計画を率いた理論物理学者オッペンハイマー。極度の重圧を彼はどう乗り越えたのでしょうか？ 📜
-
-夜になるとオッペンハイマーは数式から離れ、サンスクリット語の古典詩を読みました。詩的な言語に没頭する時間は彼の「認知バランススイッチ」でした。
-
-今日のBuildSelfではオッペンハイマーの詩読書ルーティンを紹介します。
+この歴史的習慣の実践において： , J. . ? 📜 この歴史的習慣の実践において： . ' '. この歴史的習慣の実践において： BuildSelf .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

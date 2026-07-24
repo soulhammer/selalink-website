@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-テニス界の皇帝ロジャー・フェデラー。40歳を超えてもトップで活躍し続けた秘密は何でしょうか？ 🎾
-
-フェデラーは「11〜12時間眠らなければ、コート上で最高のプレーはできない」と語りました。彼は10時間の夜間睡眠と昼寝を組み合わせて回復を極めました。
-
-今日のBuildSelfでは、フェdererの「12時間睡眠回復」ルーティンを紹介します。
+この歴史的習慣の実践において： 20 , 310 1, 40 , (Roger Federer). 20 · ? 🎾 この歴史的習慣の実践において： ' 50% ' . 10 1~2 11~12 . (Neuroplasticity) . この歴史的習慣の実践において： BuildSelf '12 ' 3 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

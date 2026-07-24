@@ -24,7 +24,7 @@ faqs:
 
 Henry David Thoreau, esais Amerika yang hidup mandiri di dekat Kolam Walden dan menulis buku legendaris *Walden*. Di balik wawasannya yang mendalam, ia memiliki kebiasaan sore hari yang disiplin: berjalan kaki selama 4 jam di hutan Concord. Ia mengamati alam secara mendalam dan mencatat ide di buku sakunya. Mari kita bahas bagaimana berjalan di alam memulihkan otak kita.
 
-</div>
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

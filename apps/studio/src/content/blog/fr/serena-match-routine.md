@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Serena Williams, la reine du tennis. Face à la pression du court, son arme secrète résidait dans des routines strictes. Avant de jouer, elle écoutait de la musique avec les mêmes écouteurs et faisait rebondir la balle 5 fois avant son premier service. Voyons comment la routine de pré-performance (PPR) aide à apaiser l'amygdale.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

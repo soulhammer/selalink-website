@@ -22,9 +22,7 @@ faqs:
 
 ---
 
-Sir Arthur Conan Doyle, Arzt und Schöpfer von Sherlock Holmes, hielt seinen eigenen Körper stets aktiv. Er war ein hervorragender Sportler, der boxte, Cricket und Fußball spielte. Er war überzeugt: Wird der Körper träge, stagniert der Geist. Erfahren Sie, wie Sport die BDNF-Ausschüttung anregt und kognitive Fähigkeiten maximiert.
-
-</div>
+Sir Arthur Conan Doyle, Arzt und Schöpfer von Sherlock Holmes, hielt seinen eigenen Körper stets aktiv. Er war ein hervorragender Sportler, der boxte, Cricket und Fußball spielte. Er war überzeugt: Wird der Körper träge, stagniert der Geist. Erfahren Sie, wie Sport die BDNF-Ausschüttung anregt und kognitive Fähigkeiten maximiert. </div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -10,27 +10,18 @@ formatVersion: 4
 authority: "プルタルコス英雄伝『デモステネス伝』および米国心理学会（APA）の環境管理研究"
 steps:
   - name: "スマートフォンを物理的に隔離する"
-    text: ""
+    text: "."
   - name: "ポモドーロタイマーを設定して没頭する"
-    text: ""
+    text: "."
   - name: "完全なオフラインの休息を取る"
-    text: ""
+    text: "."
 faqs:
   - question: "なぜデモステネスは頭の半分を剃ったのですか？"
     answer: "滑稽な姿になることで人前に出ることを防ぎ、誘惑に打ち勝って練習部屋にこもり、修練に集中せざるを得ないようにするための仕掛けでした。"
 
 ---
 
-先天的な吃音と虚弱な体格、そして息が短く雄弁を長く続けられないという身体的致命傷をすべて克服し、古代アテネ最高の政治家でありギリシャ史上最も偉大な雄弁家となった男。それがデモステネスです。 🏛️
-
-彼が若い頃、自身の極めて弱い意志力と世の中の誘惑を完璧にコントロールするために選んだ奇想天外な方法がありました。それは、自分の頭の半分を完全に剃り落とすことでした。
-
-滑稽で醜くなった髪型のせいで、他人の目が恥ずかしくて外に出る気すら起きないように自分を強制し、地下の洞窟に入って数ヶ月間、鏡を見ながら声を整え、刃物を見つめながら正しい雄弁の姿勢を練習しました。
-
-本日、BuildSelfでは、弱い人間の意志を克服するために自ら極限の環境を設計したデモステネスの秘訣と、これを現代のスマートフォン時代に役立つ形で適用する方法を紹介します。
-
-
-</div>
+この歴史的習慣の実践において： , , . . 🏛️ この歴史的習慣の実践において： , . . この歴史的習慣の実践において： , . この歴史的習慣の実践において： BuildSelf , . この歴史的習慣の実践において：</div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +53,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">スマートフォンを物理的に隔離する</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +63,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ポモドーロタイマーを設定して没頭する</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +73,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">完全なオフラインの休息を取る</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

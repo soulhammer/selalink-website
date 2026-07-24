@@ -11,11 +11,11 @@ formatVersion: 4
 authority: "Biografia de René Descartes 'La Vie de Monsieur Descartes' & revista Psychophysiology"
 steps:
   - name: "Manter a Postura e Evitar o Celular Logo Após o Alarme"
-    text: ""
+    text: "."
   - name: "Respiração Relaxante e Escaneamento Corporal"
-    text: ""
+    text: "."
   - name: "Definir o 'Foco Principal' do Dia"
-    text: ""
+    text: "."
 faqs:
   - question: "A meditação matinal na cama é realmente eficaz para o cérebro?"
     answer: "Sim, a postura horizontal ao acordar induz as ondas cerebrais ao estado alfa, estabilizando o sistema nervoso autónomo e melhorando a criatividade."
@@ -28,8 +28,7 @@ Descartes era muito frágil desde a infância, por isso tinha dificuldades para 
 
 Hoje, o BuildSelf apresenta as bases científicas da rotina de 'meditação na cama' de Descartes e como as pessoas ocupadas podem aplicá-la pela manhã.
 
-
-</div>
+Esta prática diária essencial estimula um foco profundo e uma clareza mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -61,7 +60,7 @@ Por outro lado, manter-se deitado de forma confortável por um tempo após acord
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manter a Postura e Evitar o Celular Logo Após o Alarme</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -71,7 +70,7 @@ Por outro lado, manter-se deitado de forma confortável por um tempo após acord
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Respiração Relaxante e Escaneamento Corporal</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -81,7 +80,7 @@ Por outro lado, manter-se deitado de forma confortável por um tempo após acord
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Definir o 'Foco Principal' do Dia</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

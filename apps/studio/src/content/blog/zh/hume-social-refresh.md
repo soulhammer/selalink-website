@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-作为西方经验主义的高峰，戴维·休谟（David Hume）唤醒了康德，奠定了现代认知科学的基础。他在沉浸于极度严密而深刻的哲学怀疑论时，是如何避免精神倦怠的？ 🎱
-
-每天下午结束高强度的研究后，休谟都会关上书房门，与朋友打台球、聚餐、轻松交谈。从抽象推演中抽身享受人际温暖，成功修复了他的大脑精力。
-
-今天 BuildSelf 将为您剖析休谟社交复位习惯背后的神经科学。
+在这一历史性惯例的实践中： ' ' , (David Hume). ? 🎱 在这一历史性惯例的实践中： . . . 在这一历史性惯例的实践中： BuildSelf · .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

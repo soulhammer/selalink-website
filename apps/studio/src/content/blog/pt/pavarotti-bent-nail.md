@@ -22,9 +22,7 @@ faqs:
 
 ---
 
-Luciano Pavarotti, um dos maiores tenores de sempre que popularizou a ópera. Apesar de cantar para multidões, Pavarotti sofria de um medo do palco terrível. Para dominar a ansiedade, cumpria um ritual no backstage: procurar um prego torto no chão. Em Itália, isto dá sorte. Saiba como este hábito acalmava a sua amígdala e focava a sua mente.
-
-</div>
+Luciano Pavarotti, um dos maiores tenores de sempre que popularizou a ópera. Apesar de cantar para multidões, Pavarotti sofria de um medo do palco terrível. Para dominar a ansiedade, cumpria um ritual no backstage: procurar um prego torto no chão. Em Itália, isto dá sorte. Saiba como este hábito acalmava a sua amígdala e focava a sua mente. </div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

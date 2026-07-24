@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Autobiografi Nikola Tesla 'My Inventions' & Journal of Physical Therapy Science (JPTS)"
 steps:
   - name: "Detoks Digital di Tempat Tidur"
-    text: ""
+    text: "."
   - name: "Ritual Mengerutkan Jari Kaki 50 Kali"
-    text: ""
+    text: "."
   - name: "Rilekskan Otak Anda dengan Napas Dalam"
-    text: ""
+    text: "."
 faqs:
   - question: "Apakah meremas jari kaki benar-benar membantu mengaktifkan otak?"
     answer: "Ya, area jari kaki terletak di korteks somatosensorik dekat pusat otak. Merangsang otot mikro mengirimkan sinyal ke otak."
@@ -27,8 +27,7 @@ Tesla mempertahankan pola tidur ekstrem dengan hanya tidur 2 jam sehari, namun i
 
 Hari ini, BuildSelf memperkenalkan prinsip-prinsip ilmiah di balik kebiasaan luar biasa dari seorang jenius sejarah, dan bagaimana menerapkannya dalam kehidupan sehari-hari kita.
 
-
-</div>
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +59,7 @@ Faktanya, area yang ditempati oleh kaki dan jari kaki di korteks somatosensorik 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Detoks Digital di Tempat Tidur</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +69,7 @@ Faktanya, area yang ditempati oleh kaki dan jari kaki di korteks somatosensorik 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ritual Mengerutkan Jari Kaki 50 Kali</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +79,7 @@ Faktanya, area yang ditempati oleh kaki dan jari kaki di korteks somatosensorik 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Rilekskan Otak Anda dengan Napas Dalam</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

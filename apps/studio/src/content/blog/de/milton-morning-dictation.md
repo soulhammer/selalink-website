@@ -24,7 +24,7 @@ faqs:
 
 John Milton, der legendäre englische Dichter, der sein Meisterwerk *Das verlorene Paradies* völlig blind verfasste. Wie konnte er ein Epos von über 10.000 Zeilen schreiben, ohne einen einzigen Buchstaben zu sehen? Das Geheimnis lag in seiner Routine um 4 Uhr morgens. Milton wachte vor der Dämmerung auf und meditierte schweigend, um Verse im Geist zu formen. Sobald sein Assistent um 7 Uhr eintraf, diktierte er das Werk. Entdecken Sie die Wissenschaft dahinter.
 
-</div>
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

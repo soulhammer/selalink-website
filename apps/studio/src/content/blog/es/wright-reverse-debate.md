@@ -24,7 +24,11 @@ faqs:
 
 ---
 
-Wilbur y Orville Wright debatían intercambiando sus roles de opinión todas las noches. Este hábito de debate inverso les ayudó a romper el sesgo de confirmación y a evaluar los problemas del diseño de vuelo de forma racional y sin ego.
+En la práctica de esta rutina : Wilbur and Orville Wright, the brothers who successfully achieved the first controlled, powered flight through fierce winds, sparking the aviation revolution. What drove these ordinary brothers, who ran a bicycle repair shop, to conquer the sky ahead of the world's leading scholars? ✈️
+
+En la práctica de esta rutina : Whenever they encountered complex engineering obstacles such as wing design or aerodynamic balance, the Wright Brothers engaged in intense debates all night in the back room of their shop. When the debate reached a deadlock, they executed a peculiar rule: 'swap positions and debate again.' Wilbur defended Orville's theory, while Orville vigorously criticized his own previous theory from Wilbur's perspective. Through this reverse debate routine, the brothers diagnosed and corrected critical flaws in their design.
+
+En la práctica de esta rutina : Today, BuildSelf identifies the cognitive science principles behind the Wright Brothers' 'reverse debate' routine and proposes practical ways for modern people to make the best decisions.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

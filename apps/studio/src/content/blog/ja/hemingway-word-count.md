@@ -21,7 +21,16 @@ faqs:
 
 ---
 
-ノーベル賞とピューリッツァー賞を同時に受賞した、現代アメリカ文学の巨匠アーネスト・ヘミングウェイ。極限まで無駄を削ぎ落とした「ハードボイルド」な作風で知られる彼の、毎日の規律もまた伝説的でした。彼は早朝から執筆を始め、作業が終わるたびにその日書いた単語数を数え、壁に掛けた大きな表に記録しました。本日、BuildSelfではヘミングウェイの記録習慣の科学的根拠と、日常で自己監視を応用する方法を調べます。
+この歴史的習慣の実践において：《 》, 《 》 . . 📝
+
+ , (Progress Chart) . , . , .
+
+ BuildSelf .
+
+
+
+
+---
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

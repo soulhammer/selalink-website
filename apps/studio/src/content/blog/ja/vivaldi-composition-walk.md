@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-「四季」など500以上の協奏曲を生み出したバロック音楽の巨匠ヴィヴァルディ。彼の無限のひらめきの秘密は何でしょうか？ 🎻
-
-ヴィヴァルディは毎朝、ヴェネツィアの運ハを歩き、水音や風の刺激から浮かんだメロディを、作業場に戻るやいなや電光石火のスピードで楽譜に書き留めました。
-
-今日のBuildSelfでは、ヴィヴァルディの「楽想即座記録」ルーティンを紹介します。
+この歴史的習慣の実践において： '(The Four Seasons)' 500 40 , (Antonio Vivaldi). ? 🎻 この歴史的習慣の実践において： . , , . ' ' (Speed of Capture) . この歴史的習慣の実践において： BuildSelf ' ' 100% 3 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-大型IT巨头IBM的首任董事长托马斯·沃森。他强制在公司各处的角落，包括工厂、实验室乃至会议桌，都贴上只赫然写着“THINK”这一单词的卡片和标牌。他本人也在每天上午留出至少15分钟，不带任何文件或笔，静静坐着陷入思考。我们来探究一下这块百年前拉动IBM腾飞的简单标牌及其思考习惯的功效。
+在这一历史性惯例的实践中： IT IBM . , 'THINK' . 15 . 100 IBM .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

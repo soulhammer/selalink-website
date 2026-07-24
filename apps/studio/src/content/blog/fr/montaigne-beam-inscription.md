@@ -16,6 +16,9 @@ steps:
     text: "Écrivez la phrase sur un carton et collez-la en hauteur, comme sur le haut de votre écran ou au plafond. Le but est de forcer votre regard vers le haut."
   - name: "Regarder vers le haut et réfléchir 15 secondes"
     text: "Lorsque vous vous sentez bloqué, inclinez-vous, levez la tête et lisez la phrase pendant 15 secondes. Laissez votre cerveau se détacher du problème pour calibrer votre logique."
+faqs:
+  - question: "Dois-je pratiquer cette habitude tous les jours ?"
+    answer: "Oui, pratiquer à une heure fixe chaque jour maximise la neuroplasticité cérébrale."
 
 ---
 
@@ -83,4 +86,19 @@ L'exposition à des rappels visuels utilise l'amorçage visuel pour activer inco
       Si une citation reste au même endroit trop longtemps, le cerveau s'habitue et l'ignore. Pour éviter cette accoutumance visuelle, modifiez l'emplacement ou le contenu des phrases régulièrement. La nouveauté du stimulus est essentielle.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>Dois-je pratiquer cette habitude tous les jours ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Oui, pratiquer à une heure fixe chaque jour maximise la neuroplasticité cérébrale.
+    </p>
+  </details>
 </div>

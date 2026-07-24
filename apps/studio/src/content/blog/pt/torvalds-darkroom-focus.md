@@ -24,7 +24,11 @@ faqs:
 
 ---
 
-Linus Torvalds programava o Linux num quarto escuro e silencioso. Este ambiente de estímulo mínimo permitiu que ele dedicasse toda a energia pré-frontal ao desenvolvimento.
+Na prática desta rotina : Linus Torvalds, the computer engineering icon who created the Linux kernel running inside billions of devices and designed Git. What drove his explosive concentration, allowing him to sculpt complex open-source operating systems line by line? 💻
+
+Na prática desta rotina : Linus Torvalds placed his computer in a corner of his home's laundry room, shut the door, and coded in darkness, blocking all sunlight and artificial lighting. There were no books, frames, or decorative gadgets on his desk—only a single monitor. By reducing surrounding visual distractions to zero, Torvalds freed his visual cortex, letting him invest 100% of his cognitive resources into the logical world inside the monitor. This dark and quiet laundry room was the workspace that enabled him to trace operating system flaws.
+
+Na prática desta rotina : Today, BuildSelf reveals the cognitive principles of Linus Torvalds' 'darkroom focus' routine and introduces how modern knowledge workers can apply it to defeat distraction.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

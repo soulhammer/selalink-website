@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Diario y observaciones de Edison (1948) e investigación del Instituto del Cerebro de París"
 steps:
   - name: "Preparar un objeto pesado y una superficie de impacto"
-    text: ""
+    text: "."
   - name: "Tomar un semisueño ligero en un sillón"
-    text: ""
+    text: "."
   - name: "Anotar las ideas inmediatamente al despertarse con el sonido de la caída"
-    text: ""
+    text: "."
 faqs:
   - question: "¿Por qué Edison sostenera bolas de acero en sus manos al dormir?"
     answer: "Al quedarse dormido y relajarse sus músculos, el sonido de las bolas al caer lo despertaba, permitiéndole anotar ideas del límite hipnagógico al instante."
@@ -29,8 +29,7 @@ En el momento en que empezaba a quedarse dormido y los músculos de todo su cuer
 
 Hoy, BuildSelf explora esta rutina de semisueño que era el secreto de la creatividad de un genio de la invención, junto con una guía moderna.
 
-
-</div>
+Esta práctica diaria esencial fomenta un enfoque profundo y una claridad mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +61,7 @@ La neurociencia moderna llama a este estado "Hipnagogia" (el estado de transici�
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Preparar un objeto pesado y una superficie de impacto</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +71,7 @@ La neurociencia moderna llama a este estado "Hipnagogia" (el estado de transici�
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tomar un semisueño ligero en un sillón</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +81,7 @@ La neurociencia moderna llama a este estado "Hipnagogia" (el estado de transici�
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Anotar las ideas inmediatamente al despertarse con el sonido de la caída</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

@@ -24,7 +24,11 @@ faqs:
 
 ---
 
-Alexandre Dumas escribía novelas en papel azul, poesía en papel amarillo y artículos de no ficción en papel rosa. Este hábito de alternar colores evitó el aburrimiento mental y mantuvo su cortex visual estimulado durante largas jornadas de escritura.
+En la práctica de esta rutina : Alexandre Dumas, the master of French literature who captured the hearts of readers worldwide with monumental historical adventure works such as The Three Musketeers and The Count of Monte Cristo. What was the secret of his superhuman productivity and creative energy, which continuously published hundreds of books in vast fields throughout his life? ✍️
+
+En la práctica de esta rutina : Dumas established a unique physical rule to prevent burnout under the harsh environment of constantly switching between imagination and logical brain circuits every day. It was 'using different colored manuscript pages depending on the writing genre.' He strictly insisted on writing adventure novels only on clear blue paper, poetry on bright yellow paper, and newspaper articles or non-fiction columns on light pink (rose) paper. By visually separating page colors, Dumas created an incredible system that helped his brain immediately enter the cognitive state of each genre without confusion or wasted energy.
+
+En la práctica de esta rutina : Today, BuildSelf introduces the scientific principles behind Alexandre Dumas' 'color switching' routine and how modern people can use it to increase focus in a complex multitasking environment.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

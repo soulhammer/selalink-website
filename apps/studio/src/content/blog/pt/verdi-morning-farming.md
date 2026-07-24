@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Giuseppe Verdi, o gigante da ópera do século XIX, chamava a si mesmo de 'simples fazendeiro' mesmo quando os teatros de todo o mundo se enchiam com o seu nome. Ao acordar às 5h em sua fazenda em Sant'Agata, vestia roupas rústicas para cultivar campos e cuidar das plantações por 2 horas antes de se sentar ao piano.
+Na prática desta rotina transformadora: 19   『 』, 『』, 『』        .          ' '   .    ' '      5      .         2         .                 .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

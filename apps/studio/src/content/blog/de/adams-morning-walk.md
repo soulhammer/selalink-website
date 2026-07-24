@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Der 6. US-Präsident John Quincy Adams bewahrte bis ins hohe Alter von über 80 Jahren seine geistige Schärfe. Wie schützte er seine kognitiven Fähigkeiten vor Stress? 🏊‍♂️
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
-Jeden Morgen vor Sonnenaufgang unternahm Adams einen 8 km langen strammen Marsch oder schwamm im kalten Fluss Potomac, gefolgt von einer abendlichen Tagebuchreflexion. Diese Kombination stärkte sein Gehirn nachhaltig.
-
-Heute untersucht BuildSelf die kognitive Wissenschaft hinter John Quincy Adams' Marsch- und Tagebuch-Routine.
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

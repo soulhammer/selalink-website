@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-被誉为史上最强高尔夫冠军和心理运动之皇的老虎伍兹。他在大满贯赛事紧张刺激的最后一洞中也展现出了钢铁般的意志力。他这种动摇不改的心态，源自他在训练前极其严格执行的“连续推杆成功100次规则”。即使成功了99次，只要有1次失败就必须从头开始，我们来分析一下这套可怕仪式的原理。
+通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

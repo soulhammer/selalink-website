@@ -24,7 +24,7 @@ faqs:
 
 James Joyce, one of the most influential writers of the 20th century who pioneered modernist literature with his stream of consciousness masterpiece *Ulysses*. Throughout his life, Joyce suffered from severe eye illnesses and underwent over 20 surgeries. To write in such excruciating physical conditions, he adopted an unusual habit: lying in bed, wearing a white coat, and writing with a huge blue pencil on white paper. Let's study how this physical setup reduced his cognitive load and sensory fatigue.
 
-</div>
+By practicing this routine daily, knowledge workers can eliminate fatigue and cultivate deep focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

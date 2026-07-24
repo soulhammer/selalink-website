@@ -11,11 +11,11 @@ formatVersion: 4
 authority: "Biografía de Steve Jobs por Walter Isaacson y revista JPSP sobre la fatiga por decisión"
 steps:
   - name: "Preparar la Ropa y los Objetos Personales la Noche Anterior"
-    text: ""
+    text: "."
   - name: "Crear su Propia 'Plantilla Básica (Uniforme)'"
-    text: ""
+    text: "."
   - name: "Tomar Decisiones Importantes con el Cerebro Despejado"
-    text: ""
+    text: "."
 faqs:
   - question: "¿Por qué Steve Jobs vestía la misma ropa todos los días?"
     answer: "Para ahorrar la energía prefrontal consumida por elecciones triviales de ropa, enfocando el 100% de su capacidad en decisiones clave de negocio."
@@ -28,8 +28,7 @@ Mucha gente piensa en su uniforme como una simple expresión de personalidad o e
 
 Hoy, BuildSelf presenta los principios científicos de la rutina de 'minimalismo de vestuario' de Steve Jobs y cómo las personas modernas pueden reducir la fatiga por toma de decisiones por la mañana para maximizar la productividad.
 
-
-</div>
+Esta práctica diaria esencial fomenta un enfoque profundo y una claridad mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -61,7 +60,7 @@ Cuando la fatiga se acumula, nuestro cerebro pierde su capacidad de juicio racio
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Preparar la Ropa y los Objetos Personales la Noche Anterior</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -71,7 +70,7 @@ Cuando la fatiga se acumula, nuestro cerebro pierde su capacidad de juicio racio
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Crear su Propia 'Plantilla Básica (Uniforme)'</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -81,7 +80,7 @@ Cuando la fatiga se acumula, nuestro cerebro pierde su capacidad de juicio racio
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tomar Decisiones Importantes con el Cerebro Despejado</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

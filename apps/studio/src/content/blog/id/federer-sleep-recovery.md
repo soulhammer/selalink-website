@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Roger Federer, legenda tenis. Apa rahasianya menjaga performa puncak hingga usia 40-an? 🎾
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
-Federer menyatakan bahwa jika ia tidak tidur 11-12 jam, ia tidak bisa bertanding maksimal. Ia memadukan 10 jam tidur malam dan tidur siang.
-
-Hari ini, BuildSelf menjelajahi rutinitas pemulihan tidur Federer.
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

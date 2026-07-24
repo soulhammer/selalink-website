@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Søren Kierkegaard, ein Pionier der Existenzphilosophie aus dem Dänemark des 19. Jahrhunderts. Seine scharfen, originellen Aphorismen und Schriften entstanden an mehreren Stehschreibtischen in seinem Haus. Kierkegaard war ein Spaziergänger, der täglich durch Kopenhagen streifte. Er befürchtete, dass Ideen beim Ausziehen des Mantels und Aufräumen verfliegen würden. Sobald er die Tür öffnete, ging er mit Hut und Mantel direkt an den Stehschreibtisch. Heute stellt BuildSelf die neurologische Wirkung von Kierkegaards Stehroutine vor.
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
+
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

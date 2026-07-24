@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-意大利首位女性医师、蒙台梭利教育法创始人玛丽亚·蒙台梭利。她洞察力的秘诀是什么？ 📝
-
-蒙台梭利在观察儿童时彻底排除了主观偏见。她以医学观察者的视角只记录客观事实，这成了她发现事物本质的认知工具。
-
-今天，BuildSelf 将介绍蒙台梭利博士的客观观察习惯。
+在这一历史性惯例的实践中： . ? 📝 在这一历史性惯例的实践中： ' ' . . . 在这一历史性惯例的实践中： BuildSelf .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

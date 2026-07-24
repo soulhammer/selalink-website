@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-尤利乌斯·凯撒，在罗马共和国末期极大扩张领土并奠定帝国基础的英雄。他拥有自己超凡的时间节省秘诀。
-
-在骑马或坐马车移动时，他身边总是带两三名书吏。他同时向不同的书吏口述不同主题的信件、军事指令和历史记录。这是一种在向一位书吏念句子时，大脑迅速切换到另一个主题，接着向下一位书吏继续口述的并行工作流。这种并行的处理正是他压倒性行政能力的源泉。
-
-今天，BuildSelf 将带您了解凯撒“同时口述（Simultaneous Dictation）”的认知原理，以及现代商务人士如何借鉴它来极大化任务切换速度。
+在这一历史性惯例的实践中： . . 24 . 在这一历史性惯例的实践中： 3~4 . , , (Dictation). . . 在这一历史性惯例的实践中： BuildSelf ' (Simultaneous Dictation)' .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

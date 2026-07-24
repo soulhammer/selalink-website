@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-约翰·梅纳德·凯恩斯，20世纪经济学巨人，奠定了宏观经济学的框架，并提供了克服大萧条的钥匙。作为学者、官员与投资家，他曾处理过极重的工作表，是拥有惊人生产力的人物。然而，防范了工作效率的流失。我们分析了凯恩斯清晨卧床工作常规的神经生物学原理。
+在这一历史性惯例的实践中：20 , . , . . . 8 , 2 . 脳科学的 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

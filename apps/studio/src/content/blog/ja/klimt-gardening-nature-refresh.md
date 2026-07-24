@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-「接吻」などで知られるウィーン分離派の巨匠グスタフ・クリムト。彼の燦然たる視覚的エネルギーの補給源は何でしょうか？ 🎨
-
-クリムトは毎朝、青いローブを着てアッター湖畔のバラが咲き誇る庭園を静かに歩きました。花びらのパターンや光の反射を深く観察することで、脳の疲労を完全にリセットしました。
-
-今日のBuildSelfでは、クリムトの「朝の庭園観察」ルーティンを紹介します。
+この歴史的習慣の実践において：'(The Kiss)', '(Judith)' , (Gustav Klimt). ? 🎨 この歴史的習慣の実践において： (Smock) (Attersee) . , . (Attention Fatigue) . この歴史的習慣の実践において： BuildSelf ' ' 3 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,7 +24,11 @@ faqs:
 
 ---
 
-Antoni Gaudí marchait chaque jour à Barcelone au coucher du soleil pour observer les formes géométriques de la nature. Cette immersion a inspiré ses créations et soulagé sa fatigue.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.     ,     .                 ,  .     100             ? ⛪
+
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.        4km       .     ,   ,  ,          .      ,                .
+
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.  BuildSelf  '4km  '               .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

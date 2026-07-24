@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Ève Curies Biografie 'Madame Curie' & Sportstudien von Harvard Health Publishing"
 steps:
   - name: "1-2 Mal pro Woche eine Route im Freien festlegen"
-    text: ""
+    text: "."
   - name: "30 Minuten ohne Kopfhörer fahren und sich auf die Sinne konzentrieren"
-    text: ""
+    text: "."
   - name: "Leichtes Dehnen der Oberschenkelmuskulatur"
-    text: ""
+    text: "."
 faqs:
   - question: "Warum wünschten sich die Curies Fahrräder zur Hochzeit?"
     answer: "Anstelle einer wissenschaftlichen Hochzeit wollten sie ein praktisches Werkzeug, um die französische Landschaft zu bereisen und in Ruhe zu forschen."
@@ -29,8 +29,7 @@ Die Antwort war die tägliche abendliche Fahrradtour mit ihrem Ehemann Pierre Cu
 
 Heute untersucht BuildSelf die wissenschaftliche Basis und gibt eine Anleitung für die Radfahr-Routine im Freien, die einer Nobelpreisträgerin half, Stress abzubauen.
 
-
-</div>
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +61,7 @@ Die moderne Kognitionspsychologie und Sportphysiologie erklären, dass aerobes T
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1-2 Mal pro Woche eine Route im Freien festlegen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +71,7 @@ Die moderne Kognitionspsychologie und Sportphysiologie erklären, dass aerobes T
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">30 Minuten ohne Kopfhörer fahren und sich auf die Sinne konzentrieren</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +81,7 @@ Die moderne Kognitionspsychologie und Sportphysiologie erklären, dass aerobes T
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Leichtes Dehnen der Oberschenkelmuskulatur</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

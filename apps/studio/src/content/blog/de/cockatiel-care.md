@@ -16,7 +16,7 @@ faqs:
     answer: "Ja, Nymphensittiche produzieren Puderdunen zur Gefiederpflege. Ein Luftreiniger und Duschen mit der Sprühflasche 2 - 3 Mal pro Woche helfen."
 ---
 
-Der Nymphensittich mit seinen roten Bäckchen und der eleganten Haube gehört zu den beliebtesten Heimvögeln. Trotz ihrer Verschmustheit neigen sie wegen ihres Fluchtinstinkts zu nächtlicher Panik ('Night Frights'). Gemäß AAV-Standards lernen Sie hier ihre Sprache kennen.
+Der Nymphensittich mit seinen roten Bäckchen und der eleganten Haube gehört zu den beliebtesten Heimvögeln. Trotz ihrer Verschmustheit neigen sie wegen ihres Fluchtinstinkts zu nächtlicher Panik ('Night Frights'). Gemäß AAV-Standards lernen Sie hier ihre Sprache kennen. Die Bereitstellung einer konsistenten täglichen Gesundheitspflege und einer sicheren Umgebung sichert das Wohlbefinden Ihres Haustieres.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

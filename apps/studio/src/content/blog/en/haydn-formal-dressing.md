@@ -24,7 +24,7 @@ faqs:
 
 Joseph Haydn, the 'Father of the Symphony' who laid the foundation for classical style music. He composed over 100 symphonies in his lifetime. Interestingly, he had a unique habit: he always wore formal suits, a wig, and his favorite ring before sitting down to write music. Even though he worked alone in his study, he believed that creative order could only come from physical order. Let's look into the science of 'Enclothed Cognition' and how clothes shape our brain power.
 
-</div>
+By practicing this routine daily, knowledge workers can eliminate fatigue and cultivate deep focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

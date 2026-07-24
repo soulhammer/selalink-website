@@ -11,20 +11,22 @@ formatVersion: 4
 authority: "Memoar Napoleon & penelitian Ilmu Tidur tentang tidur NREM dan pemulihan kewaspadaan kognitif"
 steps:
   - name: "Blokir masukan sensorik dengan cepat"
-    text: "Gunakan masker tidur atau penyumbat telinga peredam bising untuk segera memblokir cahaya and suara..."
+    text: "Gunakan masker tidur atau penyumbat telinga peredam bising untuk segera memblokir cahaya and suara"
   - name: "Batasi durasi tidur hingga 15 menit"
-    text: "Set alarm tepat 15 menit. Hindari godaan untuk tidur lebih lama; tidur lebih dari 20 menit..."
+    text: "Set alarm tepat 15 menit. Hindari godaan untuk tidur lebih lama; tidur lebih dari 20 menit"
   - name: "Bangun dan aktifkan kewaspadaan"
-    text: "Begitu alarm berbunyi, segera berdiri. Paparkan diri Anda pada cahaya terang..."
+    text: "Begitu alarm berbunyi, segera berdiri. Paparkan diri Anda pada cahaya terang"
 faqs:
   - question: "Apakah Napoleon benar-benar tidur siang selama pertempuran?"
-    answer: "Ya, catatan sejarah mengonfirmasi bahwa Napoleon dapat tidur hampir seketika..."
+    answer: "Ya, catatan sejarah mengonfirmasi bahwa Napoleon dapat tidur hampir seketika"
   - question: "Kapan waktu paling optimal dalam sehari untuk tidur mikro?"
-    answer: "Waktu ideal adalah antara pukul 13.00 dan 15.00..."
+    answer: "Waktu ideal adalah antara pukul 13.00 dan 15.00"
 
 ---
 
-Napoleon Bonaparte, ahli strategi militer legendaris and Kaiser Prancis...
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
+
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -42,7 +44,7 @@ Napoleon Bonaparte, ahli strategi militer legendaris and Kaiser Prancis...
 
 ## 1. Tidur Mikro dan Optimasi Gelombang Otak
 
-Tidur siang 10 hingga 15 menit membatasi tidur pada Tahap 1 and Tahap 2 NREM...
+Studi neurosains menunjukkan bahwa menghilangkan gangguan visual membebaskan kapasitas kognitif pada korteks prefrontal untuk fokus mendalam.
 
 ---
 
@@ -54,7 +56,7 @@ Tidur siang 10 hingga 15 menit membatasi tidur pada Tahap 1 and Tahap 2 NREM...
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Blokir masukan sensorik dengan cepat</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Gunakan masker tidur atau penyumbat telinga peredam bising untuk segera memblokir cahaya and suara...
+    Gunakan masker tidur atau penyumbat telinga peredam bising untuk segera memblokir cahaya and suara
   </p>
 </div>
 
@@ -64,7 +66,7 @@ Tidur siang 10 hingga 15 menit membatasi tidur pada Tahap 1 and Tahap 2 NREM...
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Batasi durasi tidur hingga 15 menit</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Set alarm tepat 15 menit. Hindari godaan untuk tidur lebih lama; tidur lebih dari 20 menit...
+    Set alarm tepat 15 menit. Hindari godaan untuk tidur lebih lama; tidur lebih dari 20 menit
   </p>
 </div>
 
@@ -74,7 +76,7 @@ Tidur siang 10 hingga 15 menit membatasi tidur pada Tahap 1 and Tahap 2 NREM...
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bangun dan aktifkan kewaspadaan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Begitu alarm berbunyi, segera berdiri. Paparkan diri Anda pada cahaya terang...
+    Begitu alarm berbunyi, segera berdiri. Paparkan diri Anda pada cahaya terang
   </p>
 </div>
 
@@ -85,7 +87,7 @@ Tidur siang 10 hingga 15 menit membatasi tidur pada Tahap 1 and Tahap 2 NREM...
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Tidurnya terlalu lama justru kontraproduktif. Jika Anda tidur lebih dari 20 hingga 30 menit...
+      Ciptakan ruang kerja bebas gangguan dan atur pencahayaan sekitar untuk mempertahankan tingkat konsentrasi tinggi.
     </p>
   </div>
 </div>
@@ -100,7 +102,7 @@ Tidur siang 10 hingga 15 menit membatasi tidur pada Tahap 1 and Tahap 2 NREM...
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ya, catatan sejarah mengonfirmasi bahwa Napoleon dapat tidur hampir seketika...
+      Ya, catatan sejarah mengonfirmasi bahwa Napoleon dapat tidur hampir seketika
     </p>
   </details>
 
@@ -110,7 +112,7 @@ Tidur siang 10 hingga 15 menit membatasi tidur pada Tahap 1 and Tahap 2 NREM...
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Waktu ideal adalah antara pukul 13.00 dan 15.00...
+      Waktu ideal adalah antara pukul 13.00 dan 15.00
     </p>
   </details>
 </div>

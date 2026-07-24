@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Biografía 'Madame Curie' de Ève Curie e investigación sobre ejercicio de Harvard Health Publishing"
 steps:
   - name: "Establecer una ruta al aire libre de 1 o 2 veces por semana"
-    text: ""
+    text: "."
   - name: "Pedalear durante 30 minutos sin auriculares, concentrándose en los sentidos"
-    text: ""
+    text: "."
   - name: "Estiramiento ligero de los músculos del muslo"
-    text: ""
+    text: "."
 faqs:
   - question: "¿Por qué los Curie pidieron bicicletas como regalo de bodas?"
     answer: "En lugar de una boda lujosa, querían una herramienta práctica para viajar por el campo francés, meditar y concentrarse en la investigación sin distracciones."
@@ -29,8 +29,7 @@ La respuesta fue el paseo diario en bicicleta que daba cada tarde con su esposo,
 
 Hoy, BuildSelf explora la base científica y la guía práctica diaria de la rutina de ciclismo al aire libre que ayudó a una ganadora del Nobel a superar el estrés.
 
-
-</div>
+Esta práctica diaria esencial fomenta un enfoque profundo y una claridad mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +61,7 @@ La psicología cognitiva y la fisiología del ejercicio modernas explican que el
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Establecer una ruta al aire libre de 1 o 2 veces por semana</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +71,7 @@ La psicología cognitiva y la fisiología del ejercicio modernas explican que el
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pedalear durante 30 minutos sin auriculares, concentrándose en los sentidos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +81,7 @@ La psicología cognitiva y la fisiología del ejercicio modernas explican que el
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Estiramiento ligero de los músculos del muslo</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

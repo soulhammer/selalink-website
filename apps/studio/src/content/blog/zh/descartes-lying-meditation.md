@@ -11,25 +11,18 @@ formatVersion: 4
 authority: "传记《La Vie de Monsieur Descartes》与学术期刊《Psychophysiology》"
 steps:
   - name: "关闭闹钟后保持姿势并屏蔽手机"
-    text: ""
+    text: "."
   - name: "放松呼吸与身体扫描"
-    text: ""
+    text: "."
   - name: "设定今天的“核心命题”"
-    text: ""
+    text: "."
 faqs:
   - question: "清晨在床上的冥想真的对大脑有科学效果吗？"
     answer: "是的，醒来后的卧姿能引导脑波进入阿尔法（Alpha）状态，稳定自主神经系统，并提升创造力与情绪稳定性。"
 
 ---
 
-勒内·笛卡尔，通过“我思故我在”这一命题确立了现代哲学起点，并创立了解析几何的现代哲学之父。您知道这位智慧巨匠每天早晨都保持着一个非常舒适却又独特的惯例吗？ 🛏️
-
-笛卡尔自幼体弱多病，因此每天早晨很难早起。幸运的是，他所就读的皇家学校的校长特别允许他每天早晨可以在床上睡懒觉并进行思考。这一习惯在他成年并志愿参军后仍伴随他一生。他每天直到中午才起床，舒服地躺着思考、阅读和写作。他坚信，只有在身体完全平躺放松时，精神才能不受肉体疲劳的干扰，处于最富创造力且清澈的状态下运转。
-
-今天，BuildSelf 将带您了解笛卡尔“床上思考”冥想惯例的科学依据，以及忙碌的现代人如何在早晨智慧地利用它。
-
-
-</div>
+在这一历史性惯例的实践中：" , (Cogito, ergo sum)" , , . ? 🛏️ 在这一历史性惯例的实践中： . . . , . . 在这一历史性惯例的实践中： BuildSelf ' ' . 在这一历史性惯例的实践中：</div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -61,7 +54,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">关闭闹钟后保持姿势并屏蔽手机</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -71,7 +64,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">放松呼吸与身体扫描</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -81,7 +74,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">设定今天的“核心命题”</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

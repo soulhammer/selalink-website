@@ -16,7 +16,7 @@ faqs:
     answer: "Eles latem para barulhos. Ignore o latido e recompense-o no silêncio."
 ---
 
-O Yorkshire Terrier, ou 'Yorkie', tem uma personalidade corajosa. Seu pelo longo e fino assemelha-se ao cabelo humano. Além disso, são propensos à luxação patelar. Hoje na PetSelf mostramos rotina de joelho.
+O Yorkshire Terrier, ou 'Yorkie', tem uma personalidade corajosa. Seu pelo longo e fino assemelha-se ao cabelo humano. Além disso, são propensos à luxação patelar. Hoje na PetSelf mostramos rotina de joelho. Oferecer cuidados de saúde diários constantes e um ambiente seguro garante o bem-estar a longo prazo do seu animal.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

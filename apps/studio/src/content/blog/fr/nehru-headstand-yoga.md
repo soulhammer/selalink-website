@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Jawaharlal Nehru a lutté pour l'indépendance de l'Inde. Il a passé 9 ans en prison. 🧘
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.                 .                    . 🧘
 
-Dans ces cellules, sa santé était menacée. Il se levait en faisant le poirier sur le sol. Ce geste a amélioré son irrigation cérébrale.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.      9   9       .              .    ,           ' (, Sirsasana)'   .          ,                .
 
-Aujourd'hui, BuildSelf explore la neurobiologie du poirier de Nehru.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.  BuildSelf               ,       .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

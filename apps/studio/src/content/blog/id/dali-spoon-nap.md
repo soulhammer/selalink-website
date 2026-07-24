@@ -11,21 +11,20 @@ formatVersion: 4
 authority: "Autobiografi Salvador Dalí 'The Secret Life of Salvador Dalí' & Jurnal Frontiers in Human Neuroscience"
 steps:
   - name: "Atur posisi semi-bersandar"
-    text: ""
+    text: "."
   - name: "Atur timer pendek atau mekanisme jatuh"
-    text: ""
+    text: "."
   - name: "Eksternalisasikan alam bawah sadar segera"
-    text: ""
+    text: "."
 faqs:
   - question: "Mengapa Dali memegang sendok saat tidur siang?"
     answer: "Saat ia tertidur dan ototnya rileks, sendok jatuh ke piring di lantai, membangunkannya untuk menangkap inspirasi surealis."
 
 ---
 
-Salvador Dalí, raksasa seni surealis dan salah satu pikiran kreatif terbesar di abad ke-20. Dari mana inspirasi aneh dalam karya-karyanya berasal? Ketika Dalí menghadapi hambatan kreatif, ia tidur dengan pakaian dan sepatu botnya selama berminggu-minggu. Hari ini, BuildSelf mengeksplorasi ilmu kognitif di balik ini.
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
-
-</div>
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -55,7 +54,7 @@ Memasuki fase transisi ke tidur memicu 'Hypnagogia', keadaan yang kaya akan gelo
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Atur posisi semi-bersandar</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -65,7 +64,7 @@ Memasuki fase transisi ke tidur memicu 'Hypnagogia', keadaan yang kaya akan gelo
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Atur timer pendek atau mekanisme jatuh</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -75,7 +74,7 @@ Memasuki fase transisi ke tidur memicu 'Hypnagogia', keadaan yang kaya akan gelo
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Eksternalisasikan alam bawah sadar segera</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-ピエタ、ダビデ、そしてシスティーナ礼拝堂の天井画。芸術史に名を残す傑作を生み出した天才ミケランジェロ。彼の偉業の背景には、極限の集中（フロー）習慣がありました。伝記作家ヴァザーリによると、ミケランジェロは創作に没頭すると数週間ブーツも脱がずに服を着たままアトリエの隅でうたた寝をしました。本日BuildSelfでは、ミケランジェロの「日常決定の最小化」習慣と認知科学の関連性を調べます。
+この歴史的習慣の実践において：, , . . (Flow) . , . BuildSelf ' ' , .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -22,9 +22,7 @@ faqs:
 
 ---
 
-Luciano Pavarotti, uno de los tenores más grandes de la historia que popularizó la ópera en todo el mundo. A pesar de cantar ante miles de personas, Pavarotti sufría un pánico escénico tremendo. Para superarlo, hacía una rutina en el backstage: buscar un clavo doblado en el suelo. En Italia, esto da suerte. Conozcamos cómo este hábito calmaba su amígdala y enfocaba su mente.
-
-</div>
+Luciano Pavarotti, uno de los tenores más grandes de la historia que popularizó la ópera en todo el mundo. A pesar de cantar ante miles de personas, Pavarotti sufría un pánico escénico tremendo. Para superarlo, hacía una rutina en el backstage: buscar un clavo doblado en el suelo. En Italia, esto da suerte. Conozcamos cómo este hábito calmaba su amígdala y enfocaba su mente. </div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

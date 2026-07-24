@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-Famoso poeta y estadista de la Dinastía Song, Su Shi (Su Dongpo) mantuvo una legendaria resiliencia emocional durante su exilio político. ¿Cómo transformó la adversidad en arte? 🎋
-
-Cada mañana, Su Shi paseaba por bambuzales y preparaba platos a fuego lento durante horas. Sumergir sus sentidos en la naturaleza y la cocina lenta restauró su sistema parasimpático.
-
-Hoy BuildSelf explora la ciencia detrás de la rutina de Su Shi.
+En la práctica de esta rutina transformadora: <()> , (, ). () ? 🎋 En la práctica de esta rutina transformadora: . . . En la práctica de esta rutina transformadora: BuildSelf . Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

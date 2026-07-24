@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "L'Autobiographie de Nikola Tesla 'My Inventions' & Journal of Physical Therapy Science (JPTS)"
 steps:
   - name: "Détox digitale au lit"
-    text: ""
+    text: "."
   - name: "Le rituel des 50 contractions d'orteils"
-    text: ""
+    text: "."
   - name: "Apaiser son cerveau par la respiration"
-    text: ""
+    text: "."
 faqs:
   - question: "Le fait de plier les orteils aide-t-il vraiment à activer le cerveau ?"
     answer: "Oui, la zone des orteils est située dans le cortex somatosensoriel près du centre du cerveau. Stimuler ces micro-muscles active le cortex préfrontal."
@@ -27,8 +27,7 @@ Tesla suivait un rythme de sommeil extrêmement court, ne dormant que 2 heures p
 
 Aujourd'hui, BuildSelf décrypte les mécanismes scientifiques de cette habitude insolite et vous explique comment l'intégrer à votre quotidien.
 
-
-</div>
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +59,7 @@ En effet, dans le cortex somatosensoriel du cerveau, la zone dédiée aux pieds 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Détox digitale au lit</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +69,7 @@ En effet, dans le cortex somatosensoriel du cerveau, la zone dédiée aux pieds 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Le rituel des 50 contractions d'orteils</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +79,7 @@ En effet, dans le cortex somatosensoriel du cerveau, la zone dédiée aux pieds 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Apaiser son cerveau par la respiration</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

@@ -24,11 +24,15 @@ faqs:
 
 ---
 
-A penicilina, o primeiro antibiótico que salvou milhões de vidas. Nasceu em um laboratório de alta tecnologia? 🧫
+Na prática desta rotina transformadora:              , . 20              ? 🧫
 
-Na verdade, foi fruto de um 'erro' no desordenado laboratório de Alexander Fleming. Ao retornar das férias, Fleming deteve-se diante de uma placa contaminada que outros teriam lavado. Seu hábito de examinar cada detalhe levou à maior serendipidade médica.
+Na prática desta rotina transformadora:          '' .             .        ,               .           .                '  '       .
 
-Hoje, o BuildSelf analisa como a rotina de Fleming ajustou o filtro mental para ativar a criatividade.
+Na prática desta rotina transformadora:  BuildSelf             ,        .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

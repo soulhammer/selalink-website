@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-名探偵エルキュール・ポアロやミス・マープルの生みの親アガサ・クリスティ。80作を超える精緻なトリックはどのように生まれたのでしょうか？クリスティは机に向かって頭を抱えるより、温かいお湯が入った浴槽に身を委ねている時こそ脳が活性化すると信じていました。本日BuildSelfでは、「温水入浴とリンゴ」の科学的根拠を調べます。
+この歴史的習慣の実践において： , . 80 ? , clawfoot . BuildSelf ' ' .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

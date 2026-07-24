@@ -24,11 +24,15 @@ faqs:
 
 ---
 
-Srinivasa Ramanujan, el genio matemático indio que publicó más de 3,900 teoremas. ¿De dónde provenía su inspiración intuitiva? 📐
+En la práctica de esta rutina transformadora:     3,900                  ,  .      ,               ? 📐
 
-Ramanujan soñaba con fórmulas complejas presentadas por la diosa Namagiri. Al despertar, mientras su cerebro aún estaba en estado alfa, anotaba inmediatamente las ecuaciones en su libreta de noche.
+En la práctica de esta rutina transformadora:          ,   (Namagiri)             .       ,          .      (Alpha Wave)    ,         ()    .
 
-Hoy, BuildSelf explora los principios científicos de la rutina de notas al despertar de Ramanujan y su aplicación moderna.
+En la práctica de esta rutina transformadora:  BuildSelf    '   '                .
+
+Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
+
+Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

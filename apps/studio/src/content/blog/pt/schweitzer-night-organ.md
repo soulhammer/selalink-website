@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-O Dr. Albert Schweitzer, Prêmio Nobel da Paz e médico. Como ele superou a extrema fadiga na selva africana? 🎹
+Esta prática diária essencial estimula um foco profundo e reduz a fadiga cognitiva.
 
-Todas as noites, o Dr. Schweitzer tocava Bach no piano. Essa imersão era sua rotina de 'reinicio do sistema nervoso'.
+Esta prática diária essencial estimula um foco profundo e reduz a fadiga cognitiva.
 
-Hoje, o BuildSelf apresenta a ciência por trás da rotina do Dr. Schweitzer.
+Esta prática diária essencial estimula um foco profundo e reduz a fadiga cognitiva.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

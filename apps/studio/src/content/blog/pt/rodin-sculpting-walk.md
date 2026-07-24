@@ -24,11 +24,13 @@ faqs:
 
 ---
 
-Auguste Rodin, o mestre da escultura moderna criador de 'O Pensador'. De onde vinha sua incrível intuição espacial? 🗿
+Na prática desta rotina transformadora: ' ', ' '             ,  .          ? 🗿
 
-Todas as manhãs em suas caminhadas, Rodin levava um pedaço de argila no bolso. Ele a moldava com os dedos, sentindo curvas e texturas pelo tato.
+Na prática desta rotina transformadora:                 .      ,            .              .
 
-Hoje, o BuildSelf apresenta a neurociência por trás da caminhada tátil de Rodin.
+Na prática desta rotina transformadora:  BuildSelf   '  '                .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

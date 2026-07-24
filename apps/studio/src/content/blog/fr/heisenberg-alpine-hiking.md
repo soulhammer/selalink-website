@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Werner Heisenberg, le physicien de l'incertitude. En 1925, bloqué par les équations de l'atome, il s'est retiré dans les Alpes bavaroises pour marcher pendant des jours. Il a trouvé la clé au milieu des forêts. Voyons comment la marche en pleine nature restaure l'attention.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

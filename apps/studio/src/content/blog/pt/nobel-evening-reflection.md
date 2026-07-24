@@ -24,11 +24,13 @@ faqs:
 
 ---
 
-Alfred Nobel, o químico que inventou a dinamite. De onde vieram suas 355 patentes? 🧪
+Na prática desta rotina transformadora:            ,  .  355          ? 🧪
 
-Após os experimentos, Nobel voltava ao escritório todas as noites para revisar seus registros em 5 idiomas.
+Na prática desta rotina transformadora:          ,         .  , , , ,           .   15      .
 
-Hoje, o BuildSelf apresenta a rotina de reflexão noturna de Nobel.
+Na prática desta rotina transformadora:  BuildSelf          .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

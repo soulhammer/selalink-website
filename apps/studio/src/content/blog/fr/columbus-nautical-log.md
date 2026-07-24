@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-En 1492, guidant trois navires à travers l'Atlantique inconnu, Christophe Colomb a ouvert l'ère des Grandes Découvertes. Face aux mutineries et à la peur de l'inconnu, comment restait-il calme ? ⛵
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Chaque nuit à la bougie, Colomb consignait des données quantitatives dans son journal de bord : coordonnées, astres, vents. Transformer la peur en chiffres a apaisé son amygdale.
-
-Aujourd'hui, BuildSelf vous présente la science cognitive derrière la routine du journal de bord de Christophe Colomb.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

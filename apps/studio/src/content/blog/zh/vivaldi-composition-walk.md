@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-创作了名曲《四季》等500多首协奏曲的巴洛克音乐大师维瓦尔第。他那源源不断的音乐灵感究竟是如何在纸上迅速呈现的？ 🎻
-
-维瓦尔第每天清晨独自漫步在威尼斯大雾弥漫的运河桥上。水声与清晨空气带来的感觉刺激在大脑中激发管弦乐旋律，回到案前他便以闪电般的速度将音乐抄写在总谱纸上。
-
-今天，BuildSelf 将带您探究维瓦尔第“极速灵感捕获”惯例指南。
+在这一历史性惯例的实践中： '(The Four Seasons)' 500 40 , (Antonio Vivaldi). ? 🎻 在这一历史性惯例的实践中： . , , . ' ' (Speed of Capture) . 在这一历史性惯例的实践中： BuildSelf ' ' 100% 3 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,9 +24,7 @@ faqs:
 
 ---
 
-Cleopatra VII, reina de Egipto, no era solo una belleza. Fue una gran estratega que hablaba al menos 9 idiomas (griego, egipcio, latín, hebreo, etc.) sin usar intérpretes. Estudiaba cada tarde para comunicarse directamente con los embajadores.
-
-Hoy, BuildSelf analiza la ciencia de la rutina de 'estudio multilingüe' de Cleopatra.
+En la práctica de esta rutina transformadora: 7. , . 👑 En la práctica de esta rutina transformadora: ' '. , , , , , 9 . . . En la práctica de esta rutina transformadora: BuildSelf ' ' . Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo. Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

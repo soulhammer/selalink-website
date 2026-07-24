@@ -24,7 +24,7 @@ faqs:
 
 Johannes Kepler, el astrónomo y matemático que descubrió las leyes del movimiento planetario. En una era sin ordenadores, Kepler procesaba cálculos matemáticos interminables. Al estancarse, esculpía modelos geométricos 3D del universo con madera o arcilla. Al tocar las proporciones físicas, hallaba soluciones. Conozcamos la ciencia de la manipulación espacial háptica.
 
-</div>
+Esta práctica diaria esencial fomenta un enfoque profundo y una claridad mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

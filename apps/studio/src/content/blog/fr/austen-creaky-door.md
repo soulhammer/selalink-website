@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Jane Austen, légendaire romancière anglaise, autrice de chefs-d'œuvre comme « Orgueil et Préjugés ». Travaillant dans le salon familial, elle devait protéger sa concentration des interruptions. Plutôt que de réparer la porte qui grinçait, elle s'en servit comme avertisseur. Aujourd'hui, BuildSelf montre comment instaurer des barrières sensorielles protège votre travail.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

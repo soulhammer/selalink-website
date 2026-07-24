@@ -16,6 +16,9 @@ steps:
     text: "Reliez les éléments avec des flèches. L'épaisseur représente l'importance et la direction montre la cause et l'effet, créant un système dynamique."
   - name: "Analyser et simplifier le modèle"
     text: "Examinez le croquis. Repérez les zones de chevauchement ou de complexité, et redessinez le diagramme en réduisant les éléments jusqu'à ce que la solution apparaisse."
+faqs:
+  - question: "Dois-je pratiquer cette habitude tous les jours ?"
+    answer: "Oui, pratiquer à une heure fixe chaque jour maximise la neuroplasticité cérébrale."
 
 ---
 
@@ -83,4 +86,19 @@ Traduire des concepts en croquis géométriques active le traitement visuospatia
       Ne perdez pas de temps avec des détails artistiques. Le but du croquis est la représentation structurelle. Utilisez des cercles et des lignes simples pour modéliser les relations. Si vous cherchez le beau, vous consumerez l'énergie nécessaire à la logique.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>Dois-je pratiquer cette habitude tous les jours ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Oui, pratiquer à une heure fixe chaque jour maximise la neuroplasticité cérébrale.
+    </p>
+  </details>
 </div>

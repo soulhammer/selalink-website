@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Pop-Art-Ikone Andy Warhol. Um inmitten des Trubels in der 'Factory' fokussiert zu bleiben, nutzte er ein tägliches Ritual: das Diktat am Telefon. Jeden Morgen rief er seine Sekretärin Pat Hackett an, um ihr seinen Vortag zu diktieren. Kognitionspsychologisch entlastet diese verbale Strukturierung das Arbeitsgedächtnis (Cognitive Offloading).
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
+
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

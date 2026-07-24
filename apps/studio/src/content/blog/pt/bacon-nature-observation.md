@@ -16,6 +16,9 @@ steps:
     text: "Caminhe devagar e preste atenção consciente a formas, sons, texturas e aromas ao seu redor. Isso ancora o cérebro no momento presente."
   - name: "Coletar as ideias ao voltar"
     text: "Ao retornar à sua mesa, anote imediatamente as soluções ou ideias criativas que surgiram durante a caminhada. Um córtex pré-frontal descansado executará as tarefas com maior clareza."
+faqs:
+  - question: "Devo praticar este hábito diariamente?"
+    answer: "Sim, praticar a uma hora fixa diariamente maximiza a neuroplasticidade."
 
 ---
 
@@ -83,4 +86,19 @@ O trabalho moderno exige 'atenção dirigida', o que esgota o córtex pré-front
       Se tirar fotos, responder mensagens ou ouvir podcasts enquanto caminha, continuará consumindo atenção dirigida. Para obter a restauração cognitiva, guarde o celular. Concentre-se puramente nos estímulos ambientais.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>Devo praticar este hábito diariamente?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Sim, praticar a uma hora fixa diariamente maximiza a neuroplasticidade.
+    </p>
+  </details>
 </div>

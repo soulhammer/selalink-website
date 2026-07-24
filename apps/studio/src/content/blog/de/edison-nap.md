@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Edisons Tagebücher (1948) & Forschungen des Pariser Hirninstituts (Paris Brain Institute)"
 steps:
   - name: "Ein schweres Objekt und eine metallische Unterlage vorbereiten"
-    text: ""
+    text: "."
   - name: "Im Sessel leicht einnicken"
-    text: ""
+    text: "."
   - name: "Beim Aufwachen durch das Geräusch sofort Notizen machen"
-    text: ""
+    text: "."
 faqs:
   - question: "Warum hielt Edison während des Schlafs Stahlkugeln in den Händen?"
     answer: "Sobald er einschlief und die Muskeln locker ließen, weckte ihn das Geräusch der fallenden Kugeln, um Ideen aus dem Übergangszustand festzuhalten."
@@ -29,8 +29,7 @@ Sobald er einschlief und sich seine Muskeln entspannten, glitt die Kugel aus sei
 
 Heute untersucht BuildSelf diese Halbschlaf-Routine, die das Kreativitätsgeheimnis des genialen Erfinders war, und bietet eine moderne Anleitung.
 
-
-</div>
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +61,7 @@ Die moderne Hirnforschung nennt diesen Zustand „Hypnagogia“ und bestätigt, 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ein schweres Objekt und eine metallische Unterlage vorbereiten</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +71,7 @@ Die moderne Hirnforschung nennt diesen Zustand „Hypnagogia“ und bestätigt, 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Im Sessel leicht einnicken</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +81,7 @@ Die moderne Hirnforschung nennt diesen Zustand „Hypnagogia“ und bestätigt, 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Beim Aufwachen durch das Geräusch sofort Notizen machen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

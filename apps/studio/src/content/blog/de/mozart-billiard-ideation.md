@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Wolfgang Amadeus Mozart war ein Genie, das perfekte Symphonien ohne Korrekturen schrieb. Hinter seiner Kreativität stand eine Routine: Billard spielen, wenn er müde war. Er stellte einen Billardtisch neben sein Arbeitszimmer. Seine Frau berichtete, dass Mozart oft aufstand, um ein paar Bälle zu spielen. Das Beobachten der Kugeln war keine bloße Unterhaltung, sondern brachte sein Gehirn in den Ruhezustand (DMN), in dem unbewusste Verbindungen geknüpft werden. Heute zeigt BuildSelf, wie Sie durch ein 15-minütiges Spiel neue Ideen wecken.
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
+
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

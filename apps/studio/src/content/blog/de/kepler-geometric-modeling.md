@@ -24,7 +24,7 @@ faqs:
 
 Johannes Kepler, der Astronom und Mathematiker, entdeckte die Gesetze der Planetenbewegung. Ohne Computer musste er gigantische Berechnungen anstellen. Stieß er an Grenzen, schnitzte er 3D-Modelle des Universums aus Holz oder Ton. Durch das Tasten nach Proportionen fand er astronomische Antworten. Entdecken Sie die Vorteile haptischer Raummanipulation.
 
-</div>
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

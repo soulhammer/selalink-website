@@ -22,9 +22,7 @@ faqs:
 
 ---
 
-Sir Arthur Conan Doyle, the medical doctor and writer who created the most famous detective in history, Sherlock Holmes. While designing Sherlock's sharp and logical mind, Doyle kept his own body highly active. He was an excellent athlete who boxed, played cricket, and played soccer. He believed that when the body slows down, the brain stagnates. Let's study the neuroscience of how physical exercise stimulates BDNF and maximizes cognitive abilities.
-
-</div>
+Sir Arthur Conan Doyle, the medical doctor and writer who created the most famous detective in history, Sherlock Holmes. While designing Sherlock's sharp and logical mind, Doyle kept his own body highly active. He was an excellent athlete who boxed, played cricket, and played soccer. He believed that when the body slows down, the brain stagnates. Let's study the neuroscience of how physical exercise stimulates BDNF and maximizes cognitive abilities. </div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

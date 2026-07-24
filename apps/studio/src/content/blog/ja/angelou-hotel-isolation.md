@@ -21,7 +21,7 @@ faqs:
 
 ---
 
-名著『歌え、翔べない鳥たちよ』で知られる伝説的なアメリカの詩人、自叙伝作家、そして人権活動家であるマヤ・アンジェロウ。彼女は深い没頭のために、毎朝6時30分に近くのホテルの部屋にチェックインしました。彼女はホテルのスタッフに、壁の絵画や写真、装飾品をすべて取り外すよう依頼し、聖書、辞書、トランプ一組、そしてシェリー酒のボトル一本だけを部屋に残しました。本日、BuildSelfでは、障害物のない空の環境を作ることが、いかに認知能力を劇的に向上させるかを紹介します。
+この歴史的習慣の実践において：Maya Angelou, an legendary American poet, memoirist, and civil rights activist who wrote the groundbreaking autobiography 'I Know Why the Caged Bird Sings.' To focus deeply, she checked into a local hotel room every morning at 6:30 AM. She requested the hotel staff to remove all paintings, photos, and decorations from the walls, leaving only a Bible, a dictionary, a deck of cards, and a bottle of sherry. Today, BuildSelf shares how creating an empty, distraction-free environment can drastically improve your cognitive output.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

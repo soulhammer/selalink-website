@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Le Roi Ashoka, qui a unifié l'Inde et s'est transformé en souverain de paix après la guerre du Kalinga. Son secret ? 🏛️
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Ashoka a gravé ses valeurs morales sur des piliers en roche pour évaluer chaque jour ses actions comme des ancres visuelles.
-
-Aujourd'hui, BuildSelf explore la routine de réflexion gravée du Roi Ashoka.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

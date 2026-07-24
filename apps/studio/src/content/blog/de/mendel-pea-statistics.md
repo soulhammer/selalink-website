@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Gregor Mendel, der Vater der Genetik. Wie entdeckte er in einem Kloster des 19. Jahrhunderts ohne Laborgeräte die Vererbungselemente? 🫛
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
-Das Geheimnis lag in seinem 'Erbsen-Statistik-Tagebuch', das er 8 Jahre lang führte. Mendel untersuchte 7 Merkmale und trug die Werte fehlerfrei ein. Er beobachtete 29.000 Pflanzen. Dieses Tracking legte den Grundstein für die Genetik.
-
-Heute stellt BuildSelf die Wissenschaft hinter Mendels Datenerfassung vor.
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

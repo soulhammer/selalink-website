@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-埃尔顿·塞纳，F1历史上最伟大的天才车手之一，除了身体训练外，还有着极其紧张的心理常规。在比赛前几分钟，他戴着头盔坐在驾驶舱里，闭上眼睛，完全静止。在他的脑海中，比赛已经开始，模拟着每一次转弯、换挡和刹车点。我们分析埃尔顿·塞纳心理演练的机制。
+在这一历史性惯例的实践中： (F1) . 300km ' ' . , . , , 3D . .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

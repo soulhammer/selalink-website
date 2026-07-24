@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-John Stuart Mill escribió Sobre la libertad. ¿Cómo desarrolló su inmensa capacidad cognitiva? 🚶
-
-La respuesta está en su rutina de 'caminar y hablar' desde niño. Su padre, James Mill, lo llevaba a caminar temprano cada mañana. Mill resumía clásicos mientras su padre hacía preguntas críticas. Combinar movimiento, lectura y debate estimuló su cerebro para estructurar sus ideas en la adolescencia.
-
-Hoy, BuildSelf explora los principios de la rutina de Mill y propone una práctica rutina matutina para la mente.
+En la práctica de esta rutina transformadora: 《》 19 , . ? 🚶 En la práctica de esta rutina transformadora: ' ' . . , / , . , / , 10 . En la práctica de esta rutina transformadora: BuildSelf . Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo. Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -16,6 +16,9 @@ steps:
     text: "Allocate 15-20 minutes to the first project. Focus 100% of your cognitive energy on this single task. Refrain from checking any other inputs during this block."
   - name: "Perform a Clean Context Shift"
     text: "When the block ends, close the first file and open the second. Take 3 deep breaths to flush the immediate working memory, then dive with 100% focus into the second task without looking back."
+faqs:
+  - question: "Should I practice this habit daily?"
+    answer: "Yes, practicing at a set time daily maximizes brain neuroplasticity."
 
 ---
 
@@ -83,4 +86,19 @@ Handling multiple complex tasks simultaneously usually causes cognitive interfer
       Do not confuse this method with modern distracted multitasking (like checking emails while coding). Distracted multitasking divides attention shallowly, lowering productivity. Aquinas' method involves sequentially executing high-focus tasks by partitioning them, meaning you focus 100% on one topic before cleanly shifting to 100% on another.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>Should I practice this habit daily?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Yes, practicing at a set time daily maximizes brain neuroplasticity.
+    </p>
+  </details>
 </div>

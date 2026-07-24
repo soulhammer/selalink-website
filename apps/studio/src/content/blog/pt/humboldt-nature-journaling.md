@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Alexander von Humboldt, que lançou as bases da ecologia moderna. De onde vinha sua visão holística? 🌿
+Na prática desta rotina : Alexander von Humboldt, the great German explorer and scientist who laid the foundation for modern ecology by climbing Mount Chimborazo in the Andes. Where did his holistic insight come from? 🌿
 
-Humboldt tirava seu bloco de notas instantaneamente. Ao eliminar o atraso, descobriu padrões orgânicos.
+Na prática desta rotina : Even amidst freezing winds and altitude sickness, Humboldt immediately pulled out his field notebook to record barometer readings, temperatures, and plant drawings right on the spot. By completely eliminating the delay between observation and recording, he prevented memory distortion and synthesized the revolutionary concept that Earth is a single living organism.
 
-Hoje, o BuildSelf revela os princípios da rotina de anotações de campo de Humboldt.
+Na prática desta rotina : Today, BuildSelf reveals the science behind Humboldt's 'real-time field journaling' routine and a 3-step precision cognition guide.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-成吉思汗是一位传奇的战略家，他将分散交战的游牧部落统一起来，建立了人类历史上最大的版图帝国。在不断的暗杀威胁、背叛和庞大的敌军对峙下，他是从哪里获得大胆的意志力和精确的规划来保持动摇的？每当面临关键决定时，他都会独自攀登蒙古人的圣山“不儿罕合勒敦”。在山顶祈祷并构想三天的宏伟蓝图是他获得战略突破的心理常规。今天，BuildSelf 向您介绍成吉思汗“山顶视觉”常规的神经学益处和现代实践方法。
+在这一历史性惯例的实践中： , , . , , ? ' ' . (Visual Meditation) . BuildSelf ' ' 脳科学的 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

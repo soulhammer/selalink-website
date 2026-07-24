@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-“世上没有任何一本书是如此糟糕，以至于连一点可取之处都没有。”罗马行政官兼作家老普林尼认为，不花在学习上的时间都是虚度。在进餐、沐浴和出行时，他都安排奴隶在身旁朗读，并由另一人记录口授。他读书必定要做摘要，这种持续不断的知识输入与整理，最终孕育出古代世界最庞大的百科全书《自然史》。
+通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

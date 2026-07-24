@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Jane Austen, the legendary English novelist who created masterpieces like 'Pride and Prejudice.' Working in a shared family room, she had to defend her fragile focus from constant interruptions. Instead of fixing her squeaky door, she left it broken to serve as a natural alert system. Today, BuildSelf reveals how establishing sensory focus boundaries can shield your deep work.
+In this historic routine: Jane Austen, the legendary English novelist who created masterpieces like 'Pride and Prejudice.' Working in a shared family room, she had to defend her fragile focus from constant interruptions. Instead of fixing her squeaky door, she left it broken to serve as a natural alert system. Today, BuildSelf reveals how establishing sensory focus boundaries can shield your deep work.
+
+Practicing this daily routine consistently builds deep focus and long-term habits.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

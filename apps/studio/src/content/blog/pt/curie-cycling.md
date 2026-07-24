@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Biografia 'Madame Curie' de Ève Curie e estudos sobre exercícios da Harvard Health Publishing"
 steps:
   - name: "Definir uma rota ao ar livre de 1 a 2 vezes por semana"
-    text: ""
+    text: "."
   - name: "Pedalar por 30 minutos sem fones de ouvido, focando nos sentidos"
-    text: ""
+    text: "."
   - name: "Alongamento leve dos músculos da coxa"
-    text: ""
+    text: "."
 faqs:
   - question: "Porque é que os Curie pediram bicicletas como prenda de casamento?"
     answer: "Em vez de um casamento luxuoso, queriam uma ferramenta prática para viajar pelo campo francês, meditar e concentrar-se na investigação."
@@ -29,8 +29,7 @@ A resposta estava nos passeios diários de bicicleta que fazia ao anoitecer com 
 
 Hoje, o BuildSelf explora a base científica e o guia prático diário da rotina de ciclismo ao ar livre que ajudou uma vencedora do Nobel a vencer o estresse.
 
-
-</div>
+Esta prática diária essencial estimula um foco profundo e uma clareza mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +61,7 @@ A psicologia cognitiva e a fisiologia do exercício modernas explicam que o exer
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Definir uma rota ao ar livre de 1 a 2 vezes por semana</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +71,7 @@ A psicologia cognitiva e a fisiologia do exercício modernas explicam que o exer
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pedalar por 30 minutos sem fones de ouvido, focando nos sentidos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +81,7 @@ A psicologia cognitiva e a fisiologia do exercício modernas explicam que o exer
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Alongamento leve dos músculos da coxa</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

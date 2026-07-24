@@ -24,7 +24,7 @@ faqs:
 
 Mary Shelley, the brilliant English novelist who pioneered the science fiction genre with her gothic masterpiece *Frankenstein*. Since childhood, Mary had a unique habit: she visited the cemetery where her mother was buried to read books and contemplate. For her, a cemetery or historic ruin was a peaceful sanctuary to study life, death, and history. Let's study how a solemn environment triggers awe and activates deep creative networks in the brain.
 
-</div>
+By practicing this routine daily, knowledge workers can eliminate fatigue and cultivate deep focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

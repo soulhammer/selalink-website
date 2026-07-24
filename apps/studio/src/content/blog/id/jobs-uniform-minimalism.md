@@ -11,11 +11,11 @@ formatVersion: 4
 authority: "Biografi Steve Jobs oleh Walter Isaacson & Jurnal JPSP"
 steps:
   - name: "Siapkan Pakaian dan Barang Bawaan Sejak Malam Hari"
-    text: ""
+    text: "."
   - name: "Buat 'Template Dasar (Seragam)' Milik Anda"
-    text: ""
+    text: "."
   - name: "Ambil Keputusan Penting dengan Pikiran Paling Segar"
-    text: ""
+    text: "."
 faqs:
   - question: "Mengapa Steve Jobs memakai pakaian yang sama setiap hari?"
     answer: "Untuk menghemat energi otak prefrontal yang dikonsumsi oleh pilihan pakaian sepele, memfokuskan 100% kekuatannya pada keputusan bisnis."
@@ -28,8 +28,7 @@ Banyak orang mengira seragamnya hanyalah ungkapan gaya atau kepribadian. Padahal
 
 Hari ini, BuildSelf mengupas prinsip ilmiah di balik rutinitas 'minimalis pakaian' Steve Jobs dan bagaimana manusia modern dapat mengurangi keletihan keputusan di pagi hari demi produktivitas maksimal.
 
-
-</div>
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -61,7 +60,7 @@ Saat keletihan keputusan menumpuk, otak kehilangan kemampuan penilaian rasional,
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siapkan Pakaian dan Barang Bawaan Sejak Malam Hari</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -71,7 +70,7 @@ Saat keletihan keputusan menumpuk, otak kehilangan kemampuan penilaian rasional,
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Buat 'Template Dasar (Seragam)' Milik Anda</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -81,7 +80,7 @@ Saat keletihan keputusan menumpuk, otak kehilangan kemampuan penilaian rasional,
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ambil Keputusan Penting dengan Pikiran Paling Segar</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

@@ -354,7 +354,7 @@
           "sleep_pattern": "10 - 12 Stunden (Ruht in Höhlen)",
           "temperament": "Friedlich, ruhig, einzelgängerisch, sensibel"
         },
-        "intro": "Der Axolotl ist ein einzigartiger Schwanzlurch mit erstaunlicher Regenerationsfähigkeit. Gemäß Amphibian Ark-Standards verträgt er keine Wassertemperaturen über 20°C. Kaltes Wasser (16°C ~ 18°C) und ein bodenfreies Aquarium sind Pflicht.",
+        "intro": "Der Axolotl ist ein einzigartiger Schwanzlurch mit erstaunlicher Regenerationsfähigkeit. Gemäß Amphibian Ark-Standards verträgt er keine Wassertemperaturen über 20°C. Kaltes Wasser (16°C ~ 18°C) und ein bodenfreies Aquarium sind Pflicht. Die Bereitstellung einer konsistenten täglichen Gesundheitspflege und einer sicheren Umgebung sichert das Wohlbefinden Ihres Haustieres.",
         "whyTitle": "Körpersprache des Axolotls: Kiemenkrümmung & Futtersuche",
         "whyDesc": "Die feinen Kiemenäste zeigen Stress an. Nach vorne gekrümmte Kiemen weisen auf Hitzestress oder schlechte Wasserwerte hin.",
         "body_signals": [
@@ -410,7 +410,7 @@
           "sleep_pattern": "10 - 12 horas (Descanso aquático em toca)",
           "temperament": "Pacífico, calmo, solitário, sensível"
         },
-        "intro": "O Axolote é um anfíbio aquático incrível com capacidade de regeneração. Conforme a Amphibian Ark, a água deve ser mantida fria (16°C ~ 18°C) e sem pedras pequenas no fundo para evitar engolimento fatal.",
+        "intro": "O Axolote é um anfíbio aquático incrível com capacidade de regeneração. Conforme a Amphibian Ark, a água deve ser mantida fria (16°C ~ 18°C) e sem pedras pequenas no fundo para evitar engolimento fatal. Oferecer cuidados de saúde diários constantes e um ambiente seguro garante o bem-estar a longo prazo do seu animal.",
         "whyTitle": "Comunicação do Axolote: Curvatura das Brânquias e Abertura da Boca",
         "whyDesc": "As brânquias ramificadas indicam a qualidade da água. Se curvadas para a frente, o axolote está estressado com a temperatura.",
         "body_signals": [

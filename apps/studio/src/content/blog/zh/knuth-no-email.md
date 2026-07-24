@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-唐纳德·克努斯，撰写了《计算机程序设计艺术》的计算机科学先驱。尽管处于计算机革命的中心，他在1990年做出了一个激进的选择：完全停用电子邮件。他表示，自己的角色不是随时掌握最新动态，而是刨根问底。相反，他通过实体邮件或传真接收查询，并每隔几个月进行一次批处理。我们探讨了这种极端离线规程在保护专注力方面的认知价值。
+在这一历史性惯例的实践中： 《 (The Art of Computer Programming)》 . 1990 1 1 . ' ' ' ' . . 脳科学的 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

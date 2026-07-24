@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Giuseppe Verdi, raksasa opera abad ke-19, menyebut dirinya sebagai 'petani sederhana' bahkan ketika teater di seluruh dunia dipenuhi dengan namanya. Bangun jam 5 pagi di pertanian Sant'Agata miliknya, ia mengenakan pakaian kasar untuk mengolah ladang dan merawat tanaman selama 2 jam sebelum duduk di depan piano.
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
+
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

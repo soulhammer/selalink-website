@@ -21,7 +21,7 @@ faqs:
 
 ---
 
-Maya Angelou, a lendária poetisa, memorialista e ativista dos direitos civis americana que escreveu a autobiografia inovadora 'Sei por que o pássaro canta na gaiola'. Para se concentrar profundamente, ela hospedava-se num quarto de hotel local todas as manhãs às 6h30. Pedia à equipa do hotel para remover todos os quadros, fotos e decorações das paredes, deixando apenas uma Bíblia, um dicionário, um baralho de cartas e uma garrafa de xerez. Hoje, o BuildSelf partilha como a criação de um ambiente vazio melhora a produção.
+Na prática desta rotina transformadora: Maya Angelou, an legendary American poet, memoirist, and civil rights activist who wrote the groundbreaking autobiography 'I Know Why the Caged Bird Sings.' To focus deeply, she checked into a local hotel room every morning at 6:30 AM. She requested the hotel staff to remove all paintings, photos, and decorations from the walls, leaving only a Bible, a dictionary, a deck of cards, and a bottle of sherry. Today, BuildSelf shares how creating an empty, distraction-free environment can drastically improve your cognitive output.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

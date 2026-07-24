@@ -24,11 +24,13 @@ faqs:
 
 ---
 
-Mestre do idealismo alemão, Hegel construiu um legado intelectual monumental. Como ele organizava suas ideias? 🗃️
+Na prática desta rotina transformadora:        , ,         ,    (G. W. F. Hegel).               ? 🗃️
 
-Hegel anotava cada conceito em fichas individuais e as organizava em caixas. Ao escrever, ele as reorganizava na mesa para criar conexões dialéticas.
+Na prática desta rotina transformadora:                 .      ,        .                      .
 
-Hoje BuildSelf revela a ciência por trás da rotina de fichas de Hegel.
+Na prática desta rotina transformadora:  BuildSelf        (Cognitive Scaffolding)     .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

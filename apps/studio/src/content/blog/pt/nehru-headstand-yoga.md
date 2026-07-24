@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Jawaharlal Nehru lutou pela independência indiana. Passou 9 anos na prisão. 🧘
+Na prática desta rotina : Jawaharlal Nehru led the non-violent struggle for Indian independence and served as the first Prime Minister. Behind his elegant white attire lay long, painful years spent in cold prison cells. 🧘
 
-Foi preso 9 vezes. Nas celas, sua saúde corria perigo. Mas ele começava o dia plantando bananeira (Sirsasana). Esse hábito equilibrou sua mente e melhorou o fluxo sanguíneo no cérebro.
+Na prática desta rotina : Nehru was arrested 9 times and spent 9 years in solitary confinement. In those small cells, his physical and mental health were pushed to the limit. However, instead of breaking down, he greeted every morning by performing a headstand (Sirsasana) on the cold floor. This habit restored his balance amidst loneliness. It became his brain activation routine to manage complex international diplomacy with logic.
 
-Hoje, o BuildSelf explora a neurociência por trás da bananeira de Nehru.
+Na prática desta rotina : Today, BuildSelf explores the science of cerebral blood flow behind Nehru's headstand habit and introduces a practical calming routine using inverted gravity for modern people.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

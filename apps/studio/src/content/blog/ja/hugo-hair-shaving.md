@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-『レ・ミゼラブル』や『ノートルダム・ド・パリ』を執筆したフランスの巨匠、ヴィクトル・ユーゴー. 恐ろしいほどの執筆締め切りに直面した彼は、ある極端な手段を取りました. 自分の髪と髭を半分剃り落とし、書斎に閉じこもったのです. その容姿のせいで外出できなくなった彼は、期日通りに名作を書き上げました. 本日、BuildSelfでは、物理的な「自己拘束デバイス」がどのように深い創造的集中を強制するかを紐解きます.
+この歴史的習慣の実践において：Victor Hugo, the monumental French writer who authored 'Les Misérables' and 'The Hunchback of Notre-Dame.' Facing an incredibly tight deadline for Notre-Dame, he resorted to an extreme measure: he shaved half of his hair and beard and locked himself in his study. Unable to go outside due to his appearance, he finished the masterpiece on time. Today, BuildSelf discusses how physical commitment devices can enforce deep creative focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -21,7 +21,20 @@ faqs:
 
 ---
 
-Ernest Hemingway, um mestre da literatura americana moderna que ganhou o Prémio Nobel e o Prémio Pulitzer. Conhecido pelo seu estilo de escrita minimalista, a sua disciplina diária era igualmente lendária. Começava a escrever de manhã cedo e, no final de cada sessão, contava e registava a sua contagem de palavras diária num gráfico na parede. Hoje, o BuildSelf explora as razões científicas por trás do rastreamento de progresso e como aplicar o automonitoramento.
+Na prática desta rotina transformadora: 《 》, 《  》           .              . 📝
+
+     ,               (Progress Chart) .    ,               .      ,             .
+
+ BuildSelf               .
+
+
+
+
+---
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

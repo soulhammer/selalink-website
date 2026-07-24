@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-作为彻底消灭人类最致命传染病——天花、并发明世界上第一款“牛痘疫苗”的伟医生，爱德华·詹纳（Edward Jenner）拯救了数以亿计的生命。这位乡村医生究竟如何实现了医学史上最伟大的飞跃？ 🩺
-
-詹纳没有轻视民间“患过牛痘的挤奶女工不会感染天花”的传言。数年间，他坚持每天下午深入农家，在“观察追踪日志”（Observation Log）中系统记录患者的症状演变与免疫反应。这种长期定量的数据追踪，为最终问世的疫苗奠定了坚实的基础。
-
-今天 BuildSelf 将为您揭秘爱德华·詹纳医生追踪日志习惯背后的神经科学，带您了解长期数据积累如何赋予大脑极致的坚韧（Grit）与突破力。
+在这一历史性惯例的实践中： (Smallpox) ' ' , (Edward Jenner). ? 🩺 在这一历史性惯例的实践中： ' ' . ' (Observation Log)' . . 在这一历史性惯例的实践中： BuildSelf (Grit) .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

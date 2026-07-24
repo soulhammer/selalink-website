@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Claude Debussy, maestro Prancis pencipta 'Clair de Lune'. Dari mana harmoni indahnya berasal? 🌊
+Praktik harian esensial ini mendorong fokus mendalam dan mengurangi kelelahan kognitif.
 
-Setiap kali buntu, Debussy berjalan ke alam di saat fajar untuk mendengarkan angin dan burung.
+Praktik harian esensial ini mendorong fokus mendalam dan mengurangi kelelahan kognitif.
 
-Hari ini, BuildSelf menyajikan rutinitas mendengar alam Debussy.
+Praktik harian esensial ini mendorong fokus mendalam dan mengurangi kelelahan kognitif.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

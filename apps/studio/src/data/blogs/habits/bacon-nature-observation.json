@@ -36,8 +36,8 @@
     "intro": {
       "en": "\"Nature, to be commanded, must be obeyed.\" Francis Bacon, the pioneer of modern scientific inquiry, was an avid gardener. Every morning, he walked slowly through his estate gardens, closely observing changes in weather, plants, and soil. Scribes followed him, writing down the philosophical principles he dictated. For Bacon, observing nature was both a scientific tool and a sensory detox for the mind.",
       "ko": "\"자연을 지배하려면 먼저 자연에 귀를 기울여야 한다.\" 근대 과학적 방법론의 토대를 닦은 프란시스 베이컨은 열렬한 정원 애호가였습니다. 그는 매일 아침 정원을 산책하며 날씨, 식물의 발육, 흙의 변화를 세심하게 기록하고 비서에게 받아적게 했습니다. 자연 속에서의 아침 관찰은 그에게 단순한 학술 도구가 아니라, 복잡한 인지 부하를 해소하는 두뇌 디톡스 시간이었습니다.",
-      "ja": "「自然を支配するには、まず自然に耳を傾けなければならない。」近代科学的方法論の基礎を築いたフランシス・ベーコンは、熱烈な庭園愛好家でした。彼は毎朝庭を散歩しながら、天気、植物の発育、土壌の変化を綿密に記録し、秘書に口述筆記させました。自然の中での朝の観察は、彼にとって単なる学術的な道具ではなく、複雑な認知負荷を解消する脳のデトックス時間でした。",
-      "zh": "“想要支配自然，就必须先服从自然。”现代科学方法论的奠基人弗朗西斯·培根同时也是一位狂热的花园爱好者。他每天早晨在庄园花园里漫步，细致观察天气、植物生长和土壤的变化，并让助手记录他口授的规律。对培根而言，观察自然既是科学实验的工具，也是给大脑进行感官排毒的绝佳方式。",
+      "ja": "この歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持持続可能な深い集中力を養うことができます。",
+      "zh": "通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。",
       "es": "\"Para dominar la naturaleza, debemos obedecerla.\" Francis Bacon, el pionero del método científico, era un ávido jardinero. Cada mañana caminaba por sus jardines observando los cambios en las plantas. Sus escribas lo seguían anotando las ideas que dictaba. Para Bacon, esto era tanto una herramienta científica como una desintoxicación mental.",
       "fr": "\"Pour commander à la nature, il faut lui obéir.\" Francis Bacon, pionnier de la méthode scientifique, était un jardinier passionné. Chaque matin, il marchait dans ses jardins pour observer la nature. Ses scribes le suivaient pour noter ses idées. C'était pour lui un outil scientifique et une détoxification sensorielle.",
       "de": "\"Die Natur besiegt man nur, indem man sich ihr unterwirft.\" Francis Bacon, der Pionier der modernen Wissenschaftsmethode, war ein begeisterter Gärtner. Jeden Morgen ging er durch seine Gärten und beobachtete die Natur. Schreiber folgten ihm und notierten seine Gedanken. Für Bacon war dies eine sensorische Entgiftung.",
@@ -163,6 +163,32 @@
       }
     ],
     "pubDate": "2026-01-04",
-    "updatedDate": "2026-01-04"
+    "updatedDate": "2026-01-04",
+    "faqs": [
+      {
+        "question": {
+          "ko": "이 습관을 매일 실천해야 하나요?",
+          "en": "Should I practice this habit daily?",
+          "ja": "この習慣を毎日実践すべきですか？",
+          "zh": "建议每天实践这一习惯吗？",
+          "es": "¿Debo practicar este hábito a diario?",
+          "fr": "Dois-je pratiquer cette habitude tous les jours ?",
+          "de": "Sollte ich diese Gewohnheit täglich praktizieren?",
+          "pt": "Devo praticar este hábito diariamente?",
+          "id": "Apakah saya harus mempraktikkan kebiasaan ini setiap hari?"
+        },
+        "answer": {
+          "ko": "네, 매일 일정한 시간에 실천할 때 뇌의 신경 가소성이 극대화됩니다.",
+          "en": "Yes, practicing at a set time daily maximizes brain neuroplasticity.",
+          "ja": "はい、毎日決まった時間に実践することで脳の神経可塑性が極大化します。",
+          "zh": "是的，在每天固定时间实践能最大化大脑的神经可塑性。",
+          "es": "Sí, practicar a una hora fija diariamente maximiza la neuroplasticidad cerebral.",
+          "fr": "Oui, pratiquer à une heure fixe chaque jour maximise la neuroplasticité cérébrale.",
+          "de": "Ja, tägliche Praxis zur gleichen Zeit maximiert die Neuroplastizität.",
+          "pt": "Sim, praticar a uma hora fixa diariamente maximiza a neuroplasticidade.",
+          "id": "Ya, berlatih pada waktu yang sama setiap hari memaksimalkan neuroplastisitas."
+        }
+      }
+    ]
   }
 }

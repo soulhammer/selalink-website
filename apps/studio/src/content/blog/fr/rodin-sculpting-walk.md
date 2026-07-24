@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Auguste Rodin, le maître de la sculpture moderne créateur du 'Penseur'. D'où lui venait cette intuition spatiale ? 🗿
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Chaque matin lors de ses marches, Rodin gardait un morceau d'argile en poche. Il le pétrissait sous ses doigts pour ressentir les formes et les textures.
-
-Aujourd'hui, BuildSelf vous présente les principes neuroscientifiques de cette routine tactile.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

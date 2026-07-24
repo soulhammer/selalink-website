@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Le Dr Albert Schweitzer, Prix Nobel de la Paix et médecin. Comment surmontait-il l'épuisement dans la jungle africaine ? 🎹
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
-Chaque nuit, le Dr Schweitzer jouait du Bach au piano. Cette immersion était sa routine ultime de réinitialisation nerveuse.
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
-Aujourd'hui, BuildSelf vous dévoile la science de cette relaxation nocturne.
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

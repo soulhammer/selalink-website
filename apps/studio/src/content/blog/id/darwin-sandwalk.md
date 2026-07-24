@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Charles Darwin, pria yang membawa revolusi terbesar dalam pemikiran ilmiah dalam sejarah manusia dengan menulis 'The Origin of Species' yang menjelaskan evolusi organisme berdasarkan seleksi alam. Dari mana datangnya inspirasi evolusioner hebat yang mengubah paradigma umat manusia? Darwin menghabiskan hidupnya meneliti di Down House, sebuah desa sunyi dekat London. Setiap pagi & sore, dia berjalan di 'Sandwalk,' jalan kerikil dan tanah yang dia bangun di sekitar rumahnya. Dia menyebut jalan ini 'Jalan Berpikir,' & di awal perjalanannya, dia menumpuk 5 atau 6 batu kecil di sudut, menendang satu batu setiap kali dia menyelesaikan satu putaran untuk melacak berapa banyak putaran yang telah dia lalui. Hari ini, BuildSelf mengeksplorasi prinsip-prinsip ilmiah dari rutinitas 'Sandwalk' Darwin dan bagaimana manusia modern dapat menerapkannya untuk meningkatkan kreativitas.
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
+
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

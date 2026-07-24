@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Prix Nobel pour la découverte des "gènes sauteurs", Barbara McClintock a révolutionné la génétique. Comment maintenait-elle une telle intuition ? 🌽
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Chaque matin, elle marchait seule dans les champs de maïs, observant les variations en silence. Cette immersion stimulait sa concentration.
-
-Aujourd'hui, BuildSelf vous présente la science derrière la routine d'observation de Barbara McClintock.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,7 +24,7 @@ faqs:
 
 James Joyce, l'un des écrivains les plus influents du XXe siècle, pionnier de la littérature moderniste avec son chef-d'œuvre *Ulysse*. Tout au long de sa vie, Joyce a souffert de graves maladies oculaires. Pour écrire dans de telles conditions, il a adopté une habitude insolite : allongé dans son lit, vêtu d'un manteau blanc, écrivant au crayon bleu. Découvrez comment cette installation a réduit sa fatigue.
 
-</div>
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

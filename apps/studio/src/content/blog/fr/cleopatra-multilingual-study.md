@@ -24,9 +24,9 @@ faqs:
 
 ---
 
-Cléopâtre VII, reine d'Égypte, n'était pas seulement une beauté. Elle était une grande stratège qui parlait au moins 9 langues (grec, égyptien, latin, hébreu, etc.) sans interprètes. Elle étudiait chaque après-midi pour négocier directement.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Aujourd'hui, BuildSelf analyse la science de la routine d'étude multilingue de Cléopâtre.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

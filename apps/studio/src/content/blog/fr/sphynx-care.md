@@ -16,7 +16,7 @@ faqs:
     answer: "Toutes les 1-2 semaines avec shampoing doux à pH neutre."
 ---
 
-Le Sphynx est une race unique nue. Sans poils, il est vulnérable au froid et aux coups de soleil. Aujourd'hui chez PetSelf, nous présentons une routine pour nettoyer sa peau.
+Le Sphynx est une race unique nue. Sans poils, il est vulnérable au froid et aux coups de soleil. Aujourd'hui chez PetSelf, nous présentons une routine pour nettoyer sa peau. Offrir des soins de santé quotidiens constants et un environnement sûr garantit le bien-être à long terme de votre animal.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

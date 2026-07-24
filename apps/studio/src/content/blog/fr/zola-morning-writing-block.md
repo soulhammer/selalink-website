@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Géant de la littérature française du XIXe siècle, Émile Zola a écrit des chefs-d'œuvre comme *Germinal* et le manifeste *J'Accuse...!*. Comment maintenait-il un tel rythme d'écriture ? ✒️
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Au-dessus de son bureau figurait la devise *Nulla dies sine linea* ("Pas un jour sans une ligne"). Chaque matin à 9h, Zola bloquait 3 heures ininterrompues. Sans aucune distraction, il entraînait son cerveau à un niveau de concentration maximal.
-
-Aujourd'hui, BuildSelf examine la neurosciences derrière la routine de blocage de temps d'Émile Zola, montrant comment l'isolement environnemental élimine la fatigue décisionnelle.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

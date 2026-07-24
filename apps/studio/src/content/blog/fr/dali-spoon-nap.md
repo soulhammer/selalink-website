@@ -11,21 +11,24 @@ formatVersion: 4
 authority: "L'autobiographie de Salvador Dalí 'La Vie secrète de Salvador Dalí' & Journal of Frontiers in Human Neuroscience"
 steps:
   - name: "Adopter une posture semi-inclinée"
-    text: ""
+    text: "."
   - name: "Régler un minuteur ou un mécanisme de chute"
-    text: ""
+    text: "."
   - name: "Extérioriser le subconscient immédiatement"
-    text: ""
+    text: "."
 faqs:
   - question: "Pourquoi Dali tenait-il une cuillère pendant ses siestes ?"
     answer: "Dès qu'il s'endormait, ses muscles se relâchaient et la cuillère tombait sur une assiette, le réveillant pour capturer des images surréalistes."
 
 ---
 
-Salvador Dalí, géant de l'art surréaliste et l'un des plus grands esprits créatifs du XXe siècle. D'où venaient les inspirations bizarres de ses œuvres ? Face aux blocages créatifs, Dalí s'asseyait dans un fauteuil en bois, tenait une cuillère en métal au-dessus d'une assiette posée au sol. Aujourd'hui, BuildSelf explore la science de la sieste à la cuillère.
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
-</div>
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
+
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -55,7 +58,7 @@ La phase de transition vers le sommeil déclenche l'« Hypnagogie », un état r
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Adopter une posture semi-inclinée</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -65,7 +68,7 @@ La phase de transition vers le sommeil déclenche l'« Hypnagogie », un état r
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Régler un minuteur ou un mécanisme de chute</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -75,7 +78,7 @@ La phase de transition vers le sommeil déclenche l'« Hypnagogie », un état r
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Extérioriser le subconscient immédiatement</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

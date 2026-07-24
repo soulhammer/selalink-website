@@ -24,7 +24,11 @@ faqs:
 
 ---
 
-Bertrand Russell limitait son travail intellectuel intense à exactement 3 heures par jour. Cette limite a évité l'épuisement cognitif et maintenu sa productivité.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide. ,  ,               20   ,  .       70            ? ☕
+
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.          ,     3     .  3      ,           (Deep Work) .   3       ,      ,  ,     .    3                .
+
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.  BuildSelf   '3  '          ,           .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

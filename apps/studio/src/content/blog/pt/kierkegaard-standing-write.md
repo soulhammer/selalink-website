@@ -22,7 +22,16 @@ faqs:
 
 ---
 
-Søren Kierkegaard, pioneiro do existencialismo dinamarquês do século XIX. Os aforismos e escritos que deixou foram concluídos em várias secretárias de pé localizadas na sua casa. Kierkegaard era um caminhante que passeava por Copenhague. Receava que as inspirações obtidas na rua se dissipassem ao arrumar o casaco e descalçar os sapatos ao entrar. Por isso, ao abrir a porta, dirigia-se diretamente à secretária vestindo casaco e chapéu. Hoje, o BuildSelf partilha os princípios neurocientíficos por trás da rotina de Kierkegaard.
+Na prática desta rotina transformadora: 19 . . 🎩
+
+ . . . . .
+
+ BuildSelf .
+
+
+
+
+--- Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável. Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

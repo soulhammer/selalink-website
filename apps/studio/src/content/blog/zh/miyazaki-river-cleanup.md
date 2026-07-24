@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-凭借《龙猫》、《千与千寻》等杰作闻名于世、成为动画史神话的导演宫崎骏。作为吉卜力工作室的核心人物，他几十年来每天清晨都有一个独特的惯例：穿着围裙在社区河流和散步道上散步，捡拾被遗弃的垃圾和易拉罐。大师每天清晨亲自动手捡垃圾的秘密是什么？
+通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

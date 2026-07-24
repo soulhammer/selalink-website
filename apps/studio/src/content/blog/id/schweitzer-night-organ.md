@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Dr. Albert Schweitzer, peraih Nobel Perdamaian dan dokter. Bagaimana ia mengatasi kelelahan ekstrem di hutan Afrika? 🎹
+Praktik harian esensial ini mendorong fokus mendalam dan mengurangi kelelahan kognitif.
 
-Setiap malam, Dr. Schweitzer memainkan musik Bach di piano. Membenamkan diri dalam melodi adalah rutinitas 'reset sistem saraf'.
+Praktik harian esensial ini mendorong fokus mendalam dan mengurangi kelelahan kognitif.
 
-Hari ini, BuildSelf menyajikan sains relaksasi di balik rutinitas Dr. Schweitzer.
+Praktik harian esensial ini mendorong fokus mendalam dan mengurangi kelelahan kognitif.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

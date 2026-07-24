@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-给全球视障人士带来阅读与书写自由的路易·布莱叶。他能创制出完美六点盲文的秘诀是什么？ ⠃
-
-布莱叶发现12点军用文字太大，指尖无法一次感知。他每天测试触觉，将不必要的点砍掉，直至得出最完美的6点系统。
-
-今天，BuildSelf 将介绍布莱叶的六点简化习惯。
+在这一历史性惯例的实践中： , . 6 ? ⠃ 在这一历史性惯例的实践中： 12 . , '6 ' . . 在这一历史性惯例的实践中： BuildSelf 6 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

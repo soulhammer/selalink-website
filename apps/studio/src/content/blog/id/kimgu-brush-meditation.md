@@ -22,9 +22,9 @@ faqs:
 
 ---
 
-Kim Gu, yang menjabat sebagai pemimpin Pemerintahan Sementara Republik Korea, hidup di bawah ancaman penangkapan dan ketakutan akan pembunuhan. Di tengah stres tinggi ini, ia mempertahankan latihan spiritual: kaligrafi. 🖌
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
-Dengan tenang menggiling tinta dan menggerakkan kuasnya di atas kertas, Kim Gu mengumpulkan pikirannya yang gelisah. Secara neurosains, kaligrafi adalah meditasi bergerak yang menenangkan amigdala menggunakan kontrol motorik halus.
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

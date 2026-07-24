@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Le 6e président américain John Quincy Adams a conservé une agilité mentale exceptionnelle passé 80 ans. Face aux tensions politiques, comment protégeait-il son cerveau ? 🏊‍♂️
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Chaque matin avant le lever du soleil, Adams effectuait une marche rapide de 8 km ou nageait dans la rivière Potomac, puis tenait un journal le soir. Cette synergie d'effort physique et d'introspection a fortifié ses capacités.
-
-Aujourd'hui, BuildSelf vous présente la science cognitive derrière la routine de marche et de réflexion de John Quincy Adams.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,9 +24,9 @@ faqs:
 
 ---
 
-Jules César, héros de la République romaine, avait un secret pour gagner du temps : il dictait des lettres et des ordres militaires à 3 ou 4 secrétaires à la fois. Ce traitement parallèle était la source de sa grande administration.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Aujourd'hui, BuildSelf analyse les principes cognitifs de la 'dictée simultanée' de César.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

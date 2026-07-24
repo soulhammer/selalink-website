@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-宣称地球围绕太阳公转的日心说、引发人类史上最伟大科学革命的尼古拉·哥白尼。他能够揭示宇宙巨大秘密的研究基地，正是位于波兰弗隆堡大教堂那座陈旧狭窄的西北侧石制观测塔。数十年来，他从未更换过观测仪器和观测地点，只在这座固定的塔内彻夜记录星空。我们从脑科学角度揭示这种彻底空间隔离所带来的神奇专注力机制。
+在这一历史性惯例的实践中： . stone . . 脳科学的 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

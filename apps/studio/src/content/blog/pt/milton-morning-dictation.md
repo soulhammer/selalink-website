@@ -24,7 +24,7 @@ faqs:
 
 John Milton, o lendário poeta inglês que escreveu a obra-prima *O Paraíso Perdido* totalmente cego. Como ele pôde escrever uma epopeia de mais de 10.000 versos sem ver uma única letra? O segredo estava em sua rotina das 4h. Milton acordava antes do amanhecer e meditava em silêncio para moldar os versos em sua mente. Quando seu assistente chegava às 7h, ele ditava a composição. Conheça a ciência por trás desse foco.
 
-</div>
+Esta prática diária essencial estimula um foco profundo e uma clareza mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

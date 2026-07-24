@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-24年間にわたりアジア全域を旅し「東方見聞録」を遺したマルコ・ポーロ。彼の生々しい記憶の秘密は何だったのでしょうか？ 🐪
-
-毎夜、異国の地でもメモ帳を広げ、目撃した景色や匂いを細かく記録しました。この習慣が圧倒的な記憶の保管庫を構築しました。
-
-今日のBuildSelfではマルコ・ポーロの夜の感覚日記ルーティンを紹介します。
+この歴史的習慣の実践において： 24 '' , . , , ? 🐪 この歴史的習慣の実践において： , , . . この歴史的習慣の実践において： BuildSelf .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

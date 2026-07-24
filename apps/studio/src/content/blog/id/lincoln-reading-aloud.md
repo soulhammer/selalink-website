@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Abraham Lincoln, Presiden ke-16 Amerika Serikat yang mempersatukan negara di ambang perpecahan & menghapuskan perbudakan. Di balik kosa kata Lincoln yang luar biasa, ada ritual membaca unik yang dilakukannya di kantor setiap pagi: membaca buku dengan keras hingga suaranya memenuhi ruangan. Rekannya William Herndon bersaksi bahwa suaranya menggema ke lorong. Lincoln berkata, 'Saya melihat kata-kata dengan mata untuk mencapnya di otak, dan mendengar suara saya dengan telinga untuk mencapnya lagi. Menggunakan kedua indra melipatgandakan ingatan.' Hari ini, BuildSelf membagikan kebenaran ilmiah di balik kebiasaan ini.
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
+
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

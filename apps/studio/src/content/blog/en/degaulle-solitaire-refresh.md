@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-Charles de Gaulle led 'Free France' during WWII and established modern France. Under constant cold war pressure, how did he handle stress? 🃏
-
-His secret sanctuary was 'Solitaire,' a single-player card game. Late at night after intense meetings, under candlelight, he arranged trump cards smoothly. According to secretaries, he remained silent, focusing on aligning cards. This seemingly simple game turned off the decision-making filter of his brain, helping him recover logic.
-
-Today, BuildSelf explores the cognitive science of de Gaulle's routine and a practical analog matching ritual for modern decision fatigue.
+In this transformative routine: 2 ' ' , . . 🃏 In this transformative routine: . 1 , '(Solitaire)'. , . , . , . In this transformative routine: BuildSelf . By practicing this systematic routine every day, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus. By practicing this systematic routine every day, modern knowledge workers can eliminate fatigue and cultivate sustainable, deep focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

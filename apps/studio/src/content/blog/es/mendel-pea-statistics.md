@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-Gregor Mendel, el padre de la genética. En un monasterio del siglo XIX sin equipo de laboratorio, ¿cómo descubrió las leyes de la herencia? 🫛
-
-El secreto estaba en su 'diario de estadísticas de guisantes' durante 8 años. Mendel examinaba 7 rasgos y registraba los datos en un libro sin errores. Observó 29,000 plantas. Este seguimiento analógico sentó las bases de la genética.
-
-Hoy, BuildSelf presenta la ciencia de la rutina de Mendel y cómo el seguimiento de datos personales mejora la memoria de trabajo.
+En la práctica de esta rutina transformadora: , . 19 ' ' ? 🫛 En la práctica de esta rutina transformadora: 8 ' ' . , , , , 7 . . 29,000 . . En la práctica de esta rutina transformadora: BuildSelf . Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

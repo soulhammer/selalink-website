@@ -37,7 +37,7 @@
       "en": "\"He who does not look ahead remains behind.\" Michel de Montaigne retired at age 38 to his round tower library. On the wooden beams supporting his ceiling, he carved 57 Greek and Latin maxims, representing key philosophical questions. Sitting in his armchair, he looked up at these phrases to break his own rigid assumptions, which allowed him to write his highly objective, self-reflective Essays.",
       "ko": "\"앞을 내다보지 않는 자는 이미 뒤처진 자다.\" 미셸 드 몽테뉴는 38세에 은퇴를 선언하고 자신의 원형 탑 서재에 틀어박혔습니다. 그는 서재를 떠받치는 57개의 목재 대들보에 그리스어와 라틴어로 철학적 회의와 이성을 촉구하는 고대 격언들을 새겨 넣었습니다. 그는 안락의자에 기대어 누워 이 구절들을 올려다보았고, 이 視覚的刺激은 그가 자신만의 독선에서 벗어나 날카로운 통찰을 담은 《수상록》을 쓸 수 있게 한 근간이었습니다.",
       "ja": "「前を見ようとしない者はすでに遅れをとっている。」ミシェル・ド・モンテーニュは38歳で隠居を宣言し、自身の円形塔の書斎にこもりました。彼は書斎を支える57本の木製の梁に、ギリシャ語とラテン語で哲学的な懐疑と理性を促す古代の格言を刻み込みました。安楽椅子に深く腰掛け、これらの文句を見上げる視覚的刺激は、彼が自己の独善から脱し、鋭い洞察に満ちた『エセー』を執筆できた源でした。",
-      "zh": "“不向前看的人注定落后。”米歇尔·德·蒙田在38岁时退隐，隐居在自己的圆形塔楼书房中。在支撑天花板的57根木制横梁上，他用希腊文和拉丁文雕刻了呼唤哲学理性与自省的古老格言。每当他靠在扶手椅上仰望这些句子，这一视觉刺激便能打破他思想的钢印，指引他写下极具客观性与反思价值的《随笔集》。",
+      "zh": "在这一历史性惯例的实践中：\" .\" 38 . 57 . , 視覚的刺激 《》 .",
       "es": "\"El que no mira hacia adelante se queda atrás.\" Michel de Montaigne se retiró a los 38 años a la biblioteca de su torre. En las vigas de madera talló 57 máximas griegas y latinas. Sentado en su sillón, miraba estas frases para romper sus prejuicios, lo que le permitió escribir sus Ensayos.",
       "fr": "\"Celui qui ne regarde pas en avant reste en arrière.\" Michel de Montaigne s'est retiré à 38 ans dans sa bibliothèque. Sur les poutres en bois, il a gravé 57 maximes grecques et latines. Assis dans son fauteuil, il regardait ces phrases pour briser ses préjugés, ce qui lui a permis d'écrire ses Essais.",
       "de": "\"Wer nicht vorausblickt, bleibt zurück.\" Michel de Montaigne zog sich mit 38 Jahren in die Bibliothek seines Turms zurück. In die Holzbalken schnitzte er 57 griechische und lateinische Maximen. Im Sessel sitzend blickte er auf diese Sätze, um seine Vorurteile abzubauen, was es ihm ermöglichte, seine Essays zu schreiben.",
@@ -163,6 +163,32 @@
       }
     ],
     "pubDate": "2026-03-10",
-    "updatedDate": "2026-03-10"
+    "updatedDate": "2026-03-10",
+    "faqs": [
+      {
+        "question": {
+          "ko": "이 습관을 매일 실천해야 하나요?",
+          "en": "Should I practice this habit daily?",
+          "ja": "この習慣を毎日実践すべきですか？",
+          "zh": "建议每天实践这一习惯吗？",
+          "es": "¿Debo practicar este hábito a diario?",
+          "fr": "Dois-je pratiquer cette habitude tous les jours ?",
+          "de": "Sollte ich diese Gewohnheit täglich praktizieren?",
+          "pt": "Devo praticar este hábito diariamente?",
+          "id": "Apakah saya harus mempraktikkan kebiasaan ini setiap hari?"
+        },
+        "answer": {
+          "ko": "네, 매일 일정한 시간에 실천할 때 뇌의 신경 가소성이 극대화됩니다.",
+          "en": "Yes, practicing at a set time daily maximizes brain neuroplasticity.",
+          "ja": "はい、毎日決まった時間に実践することで脳の神経可塑性が極大化します。",
+          "zh": "是的，在每天固定时间实践能最大化大脑的神经可塑性。",
+          "es": "Sí, practicar a una hora fija diariamente maximiza la neuroplasticidad cerebral.",
+          "fr": "Oui, pratiquer à une heure fixe chaque jour maximise la neuroplasticité cérébrale.",
+          "de": "Ja, tägliche Praxis zur gleichen Zeit maximiert die Neuroplastizität.",
+          "pt": "Sim, praticar a uma hora fixa diariamente maximiza a neuroplasticidade.",
+          "id": "Ya, berlatih pada waktu yang sama setiap hari memaksimalkan neuroplastisitas."
+        }
+      }
+    ]
   }
 }

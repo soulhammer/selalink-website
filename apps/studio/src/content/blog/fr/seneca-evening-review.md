@@ -16,6 +16,9 @@ steps:
     text: "Fermez les yeux et revivez votre journée depuis le matin. Observez vos actions et décisions sans vous juger ni vous justifier, simplement en analysant."
   - name: "Tirer des leçons et lâcher prise"
     text: "Identifiez une leçon clé de la journée. Planifiez une correction concrète pour le lendemain. Une fois le plan établi, fermez le chapitre de la journée et libérez votre esprit."
+faqs:
+  - question: "Dois-je pratiquer cette habitude tous les jours ?"
+    answer: "Oui, pratiquer à une heure fixe chaque jour maximise la neuroplasticité cérébrale."
 
 ---
 
@@ -83,4 +86,19 @@ Se coucher stressé maintient le système sympathique actif, provoquant un somme
       Le but de l'examen du soir est la correction rationnelle, pas l'auto-punition émotionnelle. Si vous avez fait une erreur, admettez-la, planifiez comment l'éviter demain et pardonnez-vous. La réflexion stoïcienne doit être une analyse calme.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>Dois-je pratiquer cette habitude tous les jours ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Oui, pratiquer à une heure fixe chaque jour maximise la neuroplasticité cérébrale.
+    </p>
+  </details>
 </div>

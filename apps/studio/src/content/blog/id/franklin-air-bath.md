@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Autobiografi Benjamin Franklin & New England Journal of Medicine (NEJM)"
 steps:
   - name: "Sambut Udara Dingin Sambil Ventilasi di Pagi Hari selama 5 Menit"
-    text: ""
+    text: "."
   - name: "Rencanakan Hari Anda di Angin Dingin"
-    text: ""
+    text: "."
   - name: "Peregangan Tubuh Ringan"
-    text: ""
+    text: "."
 faqs:
   - question: "Apakah Mandi Udara (Air Bath) benar-benar membantu mencegah pilek?"
     answer: "Ya, memaparkan kulit ke udara dingin meningkatkan resistensi tubuh terhadap perubahan suhu dan mengatur kekebalan tubuh."
@@ -27,8 +27,7 @@ Pada saat itu, orang-orang abad ke-18 percaya bahwa menghadapi angin dingin akan
 
 Hari ini, BuildSelf memperkenalkan prinsip-prinsip ilmiah yang tersembunyi dalam rutinitas pagi yang luar biasa ini yang disukai oleh salah satu pendiri Amerika Serikat, dan cara mempraktikkannya dengan aman dalam kehidupan sehari-hari yang sibuk.
 
-
-</div>
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +59,7 @@ Kedokteran modern dan sains otak membuktikan bahwa keyakinan Franklin sangat ilm
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sambut Udara Dingin Sambil Ventilasi di Pagi Hari selama 5 Menit</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +69,7 @@ Kedokteran modern dan sains otak membuktikan bahwa keyakinan Franklin sangat ilm
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Rencanakan Hari Anda di Angin Dingin</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +79,7 @@ Kedokteran modern dan sains otak membuktikan bahwa keyakinan Franklin sangat ilm
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Peregangan Tubuh Ringan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-イタリア初の女性医師であり、モンテッソーリ教育法を確立したマリア・モンテッソーリ。彼女の洞察の秘密は何だったのでしょうか？ 📝
-
-モンテッソーリは子どもたちを観察する際、感情的な偏見を徹底的に排除しました。医学的観察者として事実だけを厳密に記録したのです。
-
-今日のBuildSelfでは、マリア・モンテッソーリの客観的観察ルーティンを紹介します。
+この歴史的習慣の実践において： . ? 📝 この歴史的習慣の実践において： ' ' . . . この歴史的習慣の実践において： BuildSelf .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

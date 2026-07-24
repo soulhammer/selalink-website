@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-世界最大电子商务和云服务企业亚马逊的创始人杰夫·贝佐斯。他在重要会议中禁止使用满是项目符号的PPT幻灯片，并规定必须使用长文叙述形式的6页报告。会议开始后，与会者不会说一句话，而是静静阅读这份报告30分钟。他们为什么要保持这种严格的沉默规则？
+在这一历史性惯例的实践中： . PPT , 6 . 30 . ?
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-预测反物质的诺奖物理学家保罗·狄拉克。他那优美的方程式源自何处？ 🌌
-
-狄拉克每周日都会一言不发地在森林里散步数小时。消除言语噪音让他的大脑得以磨炼方程式的对称美。
-
-今天，BuildSelf 将带您了解狄拉克“沉默散步”惯例。
+在这一历史性惯例的实践中： , . ? 🌌 在这一历史性惯例的实践中： . , 3 . 在这一历史性惯例的实践中： BuildSelf ' ' 3 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

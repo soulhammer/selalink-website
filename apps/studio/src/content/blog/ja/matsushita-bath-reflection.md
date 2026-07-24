@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-松下幸之助は毎晩、温かい湯船に身を委ねながら自己省察と深い思索を行いました。これは疲れた脳を副交感神経の緩和によって再生する認知回復装置でした。
+この歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持続可能な深い集中力を養うことができます。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

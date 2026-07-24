@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Nikola Teslas Autobiografie 'My Inventions' & Journal of Physical Therapy Science (JPTS)"
 steps:
   - name: "Digital Detox im Bett"
-    text: ""
+    text: "."
   - name: "50-maliges Zehenkrallen als Ritual"
-    text: ""
+    text: "."
   - name: "Das Gehirn durch tiefes Atmen entspannen"
-    text: ""
+    text: "."
 faqs:
   - question: "Hilft das Zehenkrümmen wirklich, das Gehirn zu aktivieren?"
     answer: "Ja, die Zehenregion liegt im somatosensorischen Kortex nahe der Hirnmitte. Die Stimulierung der Muskeln sendet Signale zur Aktivierung des Gehirns."
@@ -27,8 +27,7 @@ Tesla war bekannt für seinen extremen Schlafrhythmus von nur zwei Stunden pro T
 
 Heute untersucht BuildSelf die wissenschaftlichen Hintergründe dieser ungewöhnlichen Gewohnheit und zeigt, wie wir sie in unseren Alltag integrieren können.
 
-
-</div>
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +59,7 @@ Tatsächlich nehmen Füße und Zehen im somatosensorischen Kortex des Gehirns ei
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Digital Detox im Bett</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +69,7 @@ Tatsächlich nehmen Füße und Zehen im somatosensorischen Kortex des Gehirns ei
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">50-maliges Zehenkrallen als Ritual</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +79,7 @@ Tatsächlich nehmen Füße und Zehen im somatosensorischen Kortex des Gehirns ei
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Das Gehirn durch tiefes Atmen entspannen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

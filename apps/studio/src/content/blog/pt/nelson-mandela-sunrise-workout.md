@@ -24,9 +24,11 @@ faqs:
 
 ---
 
-Nelson Mandela passou 27 anos na prisão. Seu refúgio contra o desespero foi o treino às 5h da manhã: corrida no lugar, flexões e abdominais diariamente. Essa rotina mantinha sua mente sã e fortalecida.
+Na prática desta rotina : Nelson Mandela dedicated his life to human dignity and equality, becoming the first black president of South Africa. He was arrested and imprisoned for 27 years. However, Mandela did not break down in despair and finally won freedom. ☀️
 
-Hoje, o BuildSelf apresenta os benefícios científicos do treino matinal de Mandela e como adotar esse hábito.
+Na prática desta rotina : Mandela's lifeline in the cold and narrow cell of Robben Island was early morning exercise. He woke up at 5:00 AM without an alarm, jogged in place for 45 minutes on the narrow floor, and did 100 push-ups and 200 sit-ups every day. This sunrise routine was a noble promise to guard his self-esteem and soul.
+
+Na prática desta rotina : Today, BuildSelf introduces the scientific evidence behind Mandela's 'sunrise bodyweight exercise' routine and how modern people can awaken their morning energy.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

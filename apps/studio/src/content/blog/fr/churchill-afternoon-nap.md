@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Winston Churchill, le Premier ministre britannique pendant la Seconde Guerre mondiale qui a mené la lutte contre l'Allemagne pour assurer la victoire finale des Alliés. Comment était-il capable de maintenir sa vigilance mentale maximale sans s'épuiser sous les tâches étatiques de plus de 18 heures par jour ? Le secret résidait dans une routine de sieste très singulière qu'il faisait chaque après-midi. Chaque après-midi, entre 14h00 et 14h30, Churchill interrompait tous les rapports et allait dans sa chambre, se déshabillait complètement et faisait une sieste profonde de 1 à 2 heures. Aujourd'hui, BuildSelf partage la vérité neuroscientifique derrière la sieste de Churchill.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

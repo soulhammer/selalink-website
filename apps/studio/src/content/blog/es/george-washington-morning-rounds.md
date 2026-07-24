@@ -24,9 +24,15 @@ faqs:
 
 ---
 
-George Washington, primer presidente de EE. UU., sufría gran presión. Su secreto era levantarse a las 4 AM para patrullar Mount Vernon. Al volver a su estudio, anotaba el clima, temperatura y abonos en un diario de cuero a mano. Esta toma de decisiones basada en datos fue su base administrativa.
+En la práctica de esta rutina transformadora:                .           .                        . ☀️
 
-Hoy, BuildSelf analiza la rutina del 'diario agrícola' de George Washington.
+En la práctica de esta rutina transformadora:        4 .                 .       , ,   ,       (Logbook)           .                    .
+
+En la práctica de esta rutina transformadora:  BuildSelf   '    '               .
+
+Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
+
+Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

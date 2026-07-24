@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Gregor Mendel, le père de la génétique. Dans un monastère du XIXe siècle sans équipement de laboratoire, comment a-t-il découvert les lois de l'hérédité ? 🫛
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Le secret résidait dans son habitude de tenir un 'journal de données sur les pois' pendant 8 ans. Mendel examinait 7 traits et notait les chiffres. Il a observé 29 000 plants. Ce suivi a jeté les bases de la génétique.
-
-Aujourd'hui, BuildSelf présente la science de la routine de Mendel.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

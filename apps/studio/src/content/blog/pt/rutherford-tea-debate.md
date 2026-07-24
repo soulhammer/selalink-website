@@ -24,11 +24,13 @@ faqs:
 
 ---
 
-Ernest Rutherford, o pai da física nuclear. De onde vinham as descobertas de sua equipe? ☕
+Na prática desta rotina transformadora:        ' '    ,  .            ? ☕
 
-Todas as tardes às 16h, Rutherford se reunia com pesquisadores para tomar chá. Essa rotina informal promoveu grandes descobertas.
+Na prática desta rotina transformadora:        4             .          .             .
 
-Hoje, o BuildSelf apresenta a rotina de chá às 16h de Rutherford.
+Na prática desta rotina transformadora:  BuildSelf    4        .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

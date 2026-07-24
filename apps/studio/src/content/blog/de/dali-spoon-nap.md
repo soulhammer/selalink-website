@@ -11,21 +11,20 @@ formatVersion: 4
 authority: "Salvador Dalís Autobiografie „Das geheime Leben des Salvador Dalí“ & Journal of Frontiers in Human Neuroscience"
 steps:
   - name: "Nehmen Sie eine halb zurückgelehnte Haltung ein"
-    text: ""
+    text: "."
   - name: "Stellen Sie einen kurzen Timer oder Fall-Mechanismus ein"
-    text: ""
+    text: "."
   - name: "Halten Sie das Unterbewusstsein sofort fest"
-    text: ""
+    text: "."
 faqs:
   - question: "Warum hielt Dali während des Mittagsschlafs einen Löffel?"
     answer: "Sobald er einschlief und die Muskeln locker ließen, fiel der Löffel auf einen teller, um surreale Inspirationen festzuhalten."
 
 ---
 
-Salvador Dalí, ein Gigant der surrealistischen Kunst und einer der kreativsten Köpfe des 20. Jahrhunderts. Woher stammten die bizarren Inspirationen in seinen Werken? Wenn Dalí vor kreativen Blockaden oder geistiger Erschöpfung stand, setzte er sich bequem in einen Holzstuhl und hielt einen Metalllöffel locker in einer Hand, während er einen Metallteller auf den Boden stellte. Heute untersucht BuildSelf die Wissenschaft hinter Dalís Mittagsschlaf.
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
-
-</div>
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -55,7 +54,7 @@ Die Übergangsphase zum Schlaf löst die „Hypnagogie“ aus, einen Zustand vol
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nehmen Sie eine halb zurückgelehnte Haltung ein</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -65,7 +64,7 @@ Die Übergangsphase zum Schlaf löst die „Hypnagogie“ aus, einen Zustand vol
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Stellen Sie einen kurzen Timer oder Fall-Mechanismus ein</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -75,7 +74,7 @@ Die Übergangsphase zum Schlaf löst die „Hypnagogie“ aus, einen Zustand vol
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Halten Sie das Unterbewusstsein sofort fest</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

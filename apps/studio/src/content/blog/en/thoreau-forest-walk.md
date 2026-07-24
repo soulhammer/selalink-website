@@ -24,7 +24,7 @@ faqs:
 
 Henry David Thoreau, the American essayist and transcendentalist who lived self-sufficiently by Walden Pond. He wrote the environmental classic *Walden*. Behind his profound insights lay an uncompromising afternoon habit: walking 4 hours daily in the woods of Concord. He wasn't just exercising; he was observing nature microscopically and recording sudden insights in his pocket notebook. Let's study how a walk in nature restores our brain power and triggers creative breakthroughs.
 
-</div>
+By practicing this routine daily, knowledge workers can eliminate fatigue and cultivate deep focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-J. Robert Oppenheimer, o físico do Projeto Manhattan. Como ele lidava com a pressão? 📜
+Esta prática diária essencial estimula um foco profundo e reduz a fadiga cognitiva.
 
-Todas as noites, Oppenheimer lia poesia em sânscrito. Imergir na linguagem poética era seu 'interruptor de equilíbrio'.
+Esta prática diária essencial estimula um foco profundo e reduz a fadiga cognitiva.
 
-Hoje, o BuildSelf apresenta a rotina de poesia de Oppenheimer.
+Esta prática diária essencial estimula um foco profundo e reduz a fadiga cognitiva.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

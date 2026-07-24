@@ -24,11 +24,13 @@ faqs:
 
 ---
 
-Louis Braille, o inventor que revolucionou a alfabetização. Como ele criou o sistema de 6 pontos? ⠃
+Na prática desta rotina transformadora:               ,  .        6      ? ⠃
 
-Braille percebeu que o código de 12 pontos era grande demais. Testando o tato diariamente, simplificou até o sistema de 6 pontos.
+Na prática desta rotina transformadora:    12             .     ,          '6 '    .        .
 
-Hojo, o BuildSelf apresenta a rotina de simplificação de Braille.
+Na prática desta rotina transformadora:  BuildSelf   6       .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

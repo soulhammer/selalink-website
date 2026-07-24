@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Plutarque, 'Vies parallèles : Vie de Démosthène' & Recherches sur le contrôle des stimuli de l'APA"
 steps:
   - name: "Isoler physiquement le smartphone"
-    text: ""
+    text: "."
   - name: "Lancer un minuteur Pomodoro et s'immerger"
-    text: ""
+    text: "."
   - name: "S'accorder une vraie pause déconnectée"
-    text: ""
+    text: "."
 faqs:
   - question: "Pourquoi Démosthène s'est-il rasé la moitié de la tête ?"
     answer: "En se rendant ridicule, il s'est empêché de sortir, se forçant à surmonter la tentation et à rester dans son étude pour s'entraîner."
@@ -29,8 +29,7 @@ Forcé de rester cloîtré chez lui car trop honteux de se montrer en public ave
 
 Aujourd'hui, BuildSelf explore le secret de Démosthène, qui a conçu un environnement extrême pour vaincre la faiblesse humaine, et comment appliquer cette méthode à l'ère du smartphone.
 
-
-</div>
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +61,7 @@ En psychologie moderne, il s'agit d'un principe fondamental. La volonté (Willpo
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Isoler physiquement le smartphone</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +71,7 @@ En psychologie moderne, il s'agit d'un principe fondamental. La volonté (Willpo
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lancer un minuteur Pomodoro et s'immerger</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +81,7 @@ En psychologie moderne, il s'agit d'un principe fondamental. La volonté (Willpo
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">S'accorder une vraie pause déconnectée</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

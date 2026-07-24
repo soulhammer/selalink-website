@@ -24,9 +24,7 @@ faqs:
 
 ---
 
-Franklin D. Roosevelt liderou os EUA durante a Grande Depressão e a Segunda Guerra. Para suportar o estresse, ele se dedicava a organizar selos por 30 minutos antes de dormir, proibindo qualquer interrupção. Isso limpava sua mente do ruído da guerra.
-
-Hoje, o BuildSelf explica a neurociência por trás do hobby de Roosevelt e como usá-lo para relaxar.
+Na prática desta rotina transformadora: 4 2 D. . . ✉️ Na prática desta rotina transformadora: , . ' 30 ' . , . Na prática desta rotina transformadora: BuildSelf ' ' . Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

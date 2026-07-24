@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Martín Lutero desafió el poder de la Iglesia católica. Enfrentando peligros de muerte, su salud mental y digestiva sufría un gran estrés. Su método para centrar su mente era tocar el laúd (Lute) cada mañana tras sus oraciones. Analicemos cómo la música estimula el nervio vago y activa el sistema parasimpático, bloqueando los niveles de cortisol.
+En la práctica de esta rutina transformadora:          95        .         ,    ,  ,           .                    '(Lute)'    .              .          .
+
+Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

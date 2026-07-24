@@ -16,6 +16,9 @@ steps:
     text: "選択した文章をポストイットやカードに書き、モニターの上部フレームや部屋の天井など、頭を上に持ち上げなければ見つめられない高い空間に貼り付けます。"
   - name: "ステップ3：頭を上げて15秒間思考する"
     text: "思考プロセスが行き詰まったり、固定観念が疑われるとき、意識的に頭を後ろに反らし、天井の文句を15秒間黙読します。一時的な視線の切り替えを通じて、問題を遠くから広く俯瞰するメタ認知をオンにします。"
+faqs:
+  - question: "この習慣を毎日実践すべきですか？"
+    answer: "はい、毎日決まった時間に実践することで脳の神経可塑性が極大化します。"
 
 ---
 
@@ -83,4 +86,19 @@ steps:
       どれほど素晴らしい文句であっても、天井やモニターの横に長期間同じ状態で放置されると、脳はそれを単なる背景要素として扱い、無視し始めます。このような視覚的順化（Habituation）を防ぐためには、数ヶ月に一度ポストイットの色や文章の位置を変えたり、新しい言葉に交換したりする必要があります。脳に与える「新しさ（Novelty）」が維持されて初めて、メタ認知反射が活性化します。
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>この習慣を毎日実践すべきですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      はい、毎日決まった時間に実践することで脳の神経可塑性が極大化します。
+    </p>
+  </details>
 </div>

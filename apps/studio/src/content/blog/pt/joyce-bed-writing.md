@@ -24,7 +24,7 @@ faqs:
 
 James Joyce, um dos escritores mais influentes do século XX, pioneiro da literatura moderna com a sua obra *Ulisses*. Joyce sofreu de graves problemas oculares ao longo da vida. Para conseguir escrever em tais condições físicas, adotou um hábito incomum: deitado na cama, com casaco branco, escrevendo com lápis azul em papel branco. Saiba como esta configuração reduziu a fadiga sensorial.
 
-</div>
+Esta prática diária essencial estimula um foco profundo e uma clareza mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

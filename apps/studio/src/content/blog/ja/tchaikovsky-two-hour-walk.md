@@ -21,7 +21,7 @@ faqs:
 
 ---
 
-『白鳥の湖』、『くるみ割り人形』、交響曲第6番『悲愴』などの名作でロシア・ロマン派音楽を世界的なレベルに引き上げた伝説的な作曲家、ピョートル・イリイチ・チャイコフスキー。彼は朝と午後に作曲セッションを分けるなど、非常に厳格なスケジュールを維持しました。特に、彼は毎日午後になるとお決まりのように外出して正確に2時間散歩をしました。彼はこのルーティンを非常に重んじており、数分でも短くなると身体的な病気にかかったり、音楽的なインスピレーションが枯渇したりすることを恐れていました。散歩の最中に浮かんだ音楽のテーマは、彼が常にポケットに入れていた小さな手帳にすぐに書き留められました。本日、BuildSelfでは、毎日の散歩がどのように創造的な思考を引き出すかを紹介します。
+この歴史的習慣の実践において：Pyotr Ilyich Tchaikovsky, the legendary composer who elevated Russian romantic music to a world-class level with masterpieces like 'Swan Lake,' 'The Nutcracker,' and the 'Pathétique Symphony.' He maintained an incredibly strict schedule, separating his composing sessions into morning and afternoon. Especially, he went out for a walk for exactly two hours every single afternoon. He believed so strongly in this routine that he feared cutting it short by even a few minutes would cause physical illness or exhaust his musical inspiration. The musical themes that came to him during these walks were immediately written down in a small notebook he always carried in his pocket. Today, BuildSelf shares how a daily walk can spark your creative thoughts.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

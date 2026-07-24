@@ -24,7 +24,7 @@ faqs:
 
 Simone Weil, the brilliant French philosopher and mystic who dedicated her short life to exploring truth and human suffering. She believed that 'attention' is the most sacred tool of the intellect and spirit. To cultivate this attention, she practiced a morning routine: reciting the Lord's Prayer in ancient Greek or passages from Plato. She described this vocalization as a mental cleanup to align her cognitive frequency. Let's explore the neurocognitive benefits of vocal recitation.
 
-</div>
+By practicing this routine daily, knowledge workers can eliminate fatigue and cultivate deep focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

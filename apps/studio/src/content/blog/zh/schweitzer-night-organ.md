@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-诺贝尔和平奖得主、大夫、哲学家阿尔贝特·施韦泽博士。在非洲炎热的丛林中，他是如何克服极度疲劳的？ 🎹
-
-每当工作结束后，施韦泽博士都会坐在弹奏巴赫的乐曲。沉浸在秩序井然的旋律中，成为了他稳定身心的“神经系统重置习惯”。
-
-今天，BuildSelf 将为您介绍施韦泽博士夜间风琴习惯背后的科学。
+在这一历史性惯例的实践中： , , . , ? 🎹 在这一历史性惯例的实践中： . ' '. 在这一历史性惯例的实践中： BuildSelf .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-女性として初めてプリツカー賞を受賞した建築家ザハ・ハディド。彼女の流線型建築はどう誕生したのでしょうか？ 🏛️
-
-ハディドは格子枠を捨て、大きなスケッチブックに墨とペンで流れるような曲線を無限に手描しました。手の動きの中で掴んだ空間のヒントが、3次元構想の脳回路を刺激しました。
-
-今日のBuildSelfでは、ザハ・ハディドの「自由曲線スケッチ」ルーティンを紹介します。
+この歴史的習慣の実践において： . (DDP) ? 🏛️ この歴史的習慣の実践において： · . 3 . この歴史的習慣の実践において： BuildSelf ' ' 3 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -10,27 +10,18 @@ formatVersion: 4
 authority: "普鲁塔克《希腊罗马名人传》之《德摩斯梯尼传》及美国心理学会（APA）环境控制研究"
 steps:
   - name: "物理隔离智能手机"
-    text: ""
+    text: "."
   - name: "设定番茄钟并进入专注状态"
-    text: ""
+    text: "."
   - name: "进行彻底的离线休息"
-    text: ""
+    text: "."
 faqs:
   - question: "德摩斯梯尼为什么要剃掉半边头发？"
     answer: "通过让自己的外表变得滑稽，他阻止了自己外出，从而强迫自己战胜诱惑，留在书房里专心练习。"
 
 ---
 
-一个克服了先天口吃、体质虚弱，以及因气短而无法长时间演说的身体致命缺陷，最终成为古雅典最伟大的政治家和希腊历史上最伟大的演说家的男人。他就是德摩斯梯尼。 🏛️
-
-在他年轻时，为了彻底控制自己极其薄弱的意志力和世俗的诱惑，他选择了一个令人匪夷所思的奇招——剃掉了自己的半边头发。
-
-因为滑稽丑陋的发型让他羞于见人、不敢出门，他以此强迫自己留在家中，并隐居在地下室里。几个月来，他对着镜子老实矫音，看着刀刃练习正确的演说姿势。
-
-今天，BuildSelf 将带您探寻这位为了克服人性弱点而为自己设计极限环境的伟人秘诀，以及如何在如今的智能手机时代有效地应用这一方法。
-
-
-</div>
+在这一历史性惯例的实践中： , , . . 🏛️ 在这一历史性惯例的实践中： , . . 在这一历史性惯例的实践中： , . 在这一历史性惯例的实践中： BuildSelf , . 在这一历史性惯例的实践中：</div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +53,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">物理隔离智能手机</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +63,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">设定番茄钟并进入专注状态</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +73,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">进行彻底的离线休息</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

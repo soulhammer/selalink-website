@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-朱塞佩·威尔第，19世纪歌剧巨匠，即便在全世界的剧院都充斥着他的名字时，也自称为“简单的农民”并执着于泥土。清晨5点在圣阿加塔农场起床，他会换上粗布衣服，下田耕作、照料作物2小时，然后才坐在钢琴前。我们探讨威尔第的体力劳动如何激发了音乐灵感。
+通过每天系统地实践这一惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

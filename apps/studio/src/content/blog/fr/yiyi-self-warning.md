@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Yi I a écrit 11 règles d'avertissement personnel et les lisait chaque matin pour réguler son comportement. Cette routine a renforcé son autocontrôle.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

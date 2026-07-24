@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "L'Autobiographie de Benjamin Franklin & New England Journal of Medicine (NEJM)"
 steps:
   - name: "Aérer et accueillir l'air frais pendant 5 minutes"
-    text: ""
+    text: "."
   - name: "Planifier sa journée au contact de l'air frais"
-    text: ""
+    text: "."
   - name: "Étirement corporel léger"
-    text: ""
+    text: "."
 faqs:
   - question: "Le bain d'air (Air Bath) aide-t-il vraiment à prévenir les rhumes ?"
     answer: "Oui, exposer la peau à l'air frais augmente la résistance aux changements de température et stimule l'immunité contre le rhume."
@@ -27,8 +27,7 @@ Au XVIIIe siècle, on pensait que s'exposer au vent frais provoquait instantané
 
 Aujourd'hui, BuildSelf décrypte les mécanismes scientifiques de cette routine matinale hors du commun aimée par l'un des Pères fondateurs des États-Unis, et vous explique comment l'adapter en toute sécurité à nos vies modernes.
 
-
-</div>
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +59,7 @@ La médecine moderne et les neurosciences prouvent la pertinence de cette théor
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Aérer et accueillir l'air frais pendant 5 minutes</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +69,7 @@ La médecine moderne et les neurosciences prouvent la pertinence de cette théor
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Planifier sa journée au contact de l'air frais</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +79,7 @@ La médecine moderne et les neurosciences prouvent la pertinence de cette théor
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Étirement corporel léger</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

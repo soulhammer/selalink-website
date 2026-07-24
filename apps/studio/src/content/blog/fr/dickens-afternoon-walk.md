@@ -22,7 +22,9 @@ faqs:
 
 ---
 
-Charles Dickens, considéré comme le plus grand romancier de l'époque victorienne avec des chefs-d'œuvre tels que 'Oliver Twist', 'Les Grandes Espérances' et 'Un chant de Noël'. Savez-vous où sont nés les personnages charmants et les intrigues complexes de ses romans ? Le secret réside dans sa routine de 'marche de 3 heures' chaque après-midi. Après avoir écrit de 9h à 14h, Dickens sortait. Il marchait environ 16 à 19 km à un pas très rapide pendant exactement trois heures. Aujourd'hui, BuildSelf partage les principes neuroscientifiques derrière la routine de marche de Dickens.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

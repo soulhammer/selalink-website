@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Ernest Rutherford, der Vater der Kernphysik. Woher stammten die Durchbrüche seines Teams? ☕
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
-Jeden Nachmittag um 16 Uhr traf sich Rutherford mit seinen Forschern zum Tee. Diese informelle Routine förderte die Gruppenkreativität.
-
-Heute stellt BuildSelf Rutherfords 16-Uhr-Tee-Routine vor.
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

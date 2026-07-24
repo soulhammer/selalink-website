@@ -16,6 +16,9 @@ steps:
     text: "Write the phrase on a card or post-it and paste it on a high spot, like the ceiling or the top frame of your monitor. The goal is to physically force an upward gaze when viewing it."
   - name: "Exert Upward Gaze & Recalibrate"
     text: "When blocked or biased, lean back, raise your head, read the quote, and pause for 15 seconds. Let your brain detach from the immediate stressor to calibrate the logic path from a distance."
+faqs:
+  - question: "Should I practice this habit daily?"
+    answer: "Yes, practicing at a set time daily maximizes brain neuroplasticity."
 
 ---
 
@@ -83,4 +86,19 @@ Exposing yourself to visual philosophical cues utilizes 'visual priming,' which 
       If a quote remains in the same spot forever, the brain adapts and starts ignoring it. To prevent this visual habituation, change the locations or the content of the quotes every few months. The key is the novelty of the stimulus to keep the metacognitive reflex active.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>Should I practice this habit daily?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Yes, practicing at a set time daily maximizes brain neuroplasticity.
+    </p>
+  </details>
 </div>

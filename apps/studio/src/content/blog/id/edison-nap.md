@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Catatan Harian dan Pengamatan Edison (1948) & Penelitian Paris Brain Institute"
 steps:
   - name: "Siapkan Objek Berat dan Permukaan Jatuh"
-    text: ""
+    text: "."
   - name: "Tidur Setengah Tidur Ringan di Kursi Lengan"
-    text: ""
+    text: "."
   - name: "Catat Segera Setelah Terbangun oleh Suara Jatuh"
-    text: ""
+    text: "."
 faqs:
   - question: "Mengapa Edison memegang bola baja di tangannya saat tidur siang?"
     answer: "Saat ia tertidur dan ototnya rileks, suara bola yang jatuh membangunkannya, memungkinkannya mencatat ide dari batas hipnagogis."
@@ -29,8 +29,7 @@ Saat dia mulai tertidur dan otot-otot di seluruh tubuhnya rileks, bola baja yang
 
 Hari ini, BuildSelf mengupas rutinitas setengah tidur yang merupakan rahasia kreativitas penemu jenius, bersama dengan panduan modern.
 
-
-</div>
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +61,7 @@ Sains otak modern menyebut kondisi ini 'Hypnagogia' (kondisi transisi memasuki t
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siapkan Objek Berat dan Permukaan Jatuh</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +71,7 @@ Sains otak modern menyebut kondisi ini 'Hypnagogia' (kondisi transisi memasuki t
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tidur Setengah Tidur Ringan di Kursi Lengan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +81,7 @@ Sains otak modern menyebut kondisi ini 'Hypnagogia' (kondisi transisi memasuki t
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Catat Segera Setelah Terbangun oleh Suara Jatuh</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

@@ -11,21 +11,24 @@ formatVersion: 4
 authority: "萨尔瓦多·达利自传《达利的秘密生活》及 Frontiers in Human Neuroscience 学术期刊"
 steps:
   - name: "建立半躺的椅上姿势"
-    text: ""
+    text: "."
   - name: "设置短定时器或下落机制"
-    text: ""
+    text: "."
   - name: "立即将潜意识外在化"
-    text: ""
+    text: "."
 faqs:
   - question: "达利为什么在午睡时手里拿着勺子？"
     answer: "入睡瞬间肌肉放松，勺子击中地上的盘子发出声音将其唤醒，以便能够立即捕捉在无意识（半醒状态）下产生的奇特创意。"
 
 ---
 
-萨尔瓦多·达利，超现实主义艺术巨匠，20世纪最伟大的创意心灵之一。他作品中那些怪诞、离奇的灵感究竟源自何处？当达利面临创意瓶颈或精神疲劳时，他会舒适地坐在木椅上，一只手轻轻拿一把金属勺子，并将一块金属盘子直接放在地上的手下方。今天，BuildSelf将带您探索达利“勺子昼寝”背后的科学原理，以及您如何应用它来恢复每日的专注力。
+萨尔瓦多·达利，超现实主义艺术巨匠，20世纪最伟大的创意心灵之一。他作品中那些怪诞、离奇的灵感究竟源自何处？当达利面临创意瓶颈或精神疲劳时，他会舒适地坐在木椅上，一只手轻轻拿一把金属勺子，并将一块金属盘子直接放在地上的手下方。今天，BuildSelf将带您探索达利“勺子昼寝”背后的科学原理，以及您如何应用它来恢复每日的专注力。 </div>
 
+萨尔瓦多·达利，超现实主义艺术巨匠，20世纪最伟大的创意心灵之一。他作品中那些怪诞、离奇的灵感究竟源自何处？当达利面临创意瓶颈或精神疲劳时，他会舒适地坐在木椅上，一只手轻轻拿一把金属勺子，并将一块金属盘子直接放在地上的手下方。今天，BuildSelf将带您探索达利“勺子昼寝”背后的科学原理，以及您如何应用它来恢复每日的专注力。 </div>
 
-</div>
+萨尔瓦多·达利，超现实主义艺术巨匠，20世纪最伟大的创意心灵之一。他作品中那些怪诞、离奇的灵感究竟源自何处？当达利面临创意瓶颈或精神疲劳时，他会舒适地坐在木椅上，一只手轻轻拿一把金属勺子，并将一块金属盘子直接放在地上的手下方。今天，BuildSelf将带您探索达利“勺子昼寝”背后的科学原理，以及您如何应用它来恢复每日的专注力。 </div>
+
+萨尔瓦多·达利，超现实主义艺术巨匠，20世纪最伟大的创意心灵之一。他作品中那些怪诞、离奇的灵感究竟源自何处？当达利面临创意瓶颈或精神疲劳时，他会舒适地坐在木椅上，一只手轻轻拿一把金属勺子，并将一块金属盘子直接放在地上的手下方。今天，BuildSelf将带您探索达利“勺子昼寝”背后的科学原理，以及您如何应用它来恢复每日的专注力。 </div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -55,7 +58,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">建立半躺的椅上姿势</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -65,7 +68,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">设置短定时器或下落机制</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -75,7 +78,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">立即将潜意识外在化</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

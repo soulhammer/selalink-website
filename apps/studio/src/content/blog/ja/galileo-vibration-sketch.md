@@ -16,6 +16,9 @@ steps:
     text: "図形同士の間に矢印を描き、関係や因果の方向を表示します。影響力が大きい関係は線を太く描いたり、波線で波の強さを描写して構造的な緊密さを可視化します。"
   - name: "ステップ3：図式的単純性の最適化"
     text: "完成したスケッチを少し離れて見つめます。流れが複雑に絡み合ったり衝突したりする箇所が目についたら、該当部分を結合するか不要なリンクを削除し、最も調和のとれたシンプルな最終ダイアグラムに最適化します。"
+faqs:
+  - question: "この習慣を毎日実践すべきですか？"
+    answer: "はい、毎日決まった時間に実践することで脳の神経可塑性が極大化します。"
 
 ---
 
@@ -83,4 +86,19 @@ steps:
       絵を華やかで精密に描く芸術的な描写に時間を浪費してはなりません。ガリレオのスケッチのように本質的な「構造の表現」に忠実であるべきです。単純な円、長方形、線、矢印を使用して、流れや相関関係を迅速に図式化することに焦点を当ててください。きれいに描こうとすると、論理に使うべきエネルギーが消耗されます。
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>この習慣を毎日実践すべきですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      はい、毎日決まった時間に実践することで脳の神経可塑性が極大化します。
+    </p>
+  </details>
 </div>

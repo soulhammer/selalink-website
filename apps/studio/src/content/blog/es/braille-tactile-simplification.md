@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Louis Braille, el inventor que revolucionó la alfabetización. ¿Cómo creó el sistema de 6 puntos? ⠃
+Esta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.
 
-Braille se dio cuenta de que el código militar de 12 puntos era demasiado grande. Probando sensaciones a diario, simplificó al sistema ideal de 6 puntos.
+Esta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.
 
-Hoy, BuildSelf presenta la rutina de simplificación de Braille.
+Esta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

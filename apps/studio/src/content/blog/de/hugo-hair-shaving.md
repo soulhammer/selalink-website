@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Victor Hugo, der berühmte französische Schriftsteller, der „Les Misérables“ und „Der Glöckner von Notre-Dame“ verfasste. Als er vor einer extremen Frist stand, griff er zu einer drastischen Maßnahme: Er rasierte sich die Hälfte seiner Haare und seines Bartes ab und schloss sich ein. Aufgrund seines Aussehens konnte er nicht ausgehen und beendete das Werk rechtzeitig. Heute zeigt BuildSelf, wie physische Schranken den Fokus erzwingen.
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
+
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

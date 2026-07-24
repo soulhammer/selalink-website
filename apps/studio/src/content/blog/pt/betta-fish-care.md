@@ -16,7 +16,7 @@ faqs:
     answer: "Embora respirem ar, aquários sem filtro acumulam amônia rapidamente. Recomenda-se um aquário de pelo menos 15 litros com filtro."
 ---
 
-Famoso por suas nadadeiras exuberantes, o Betta possui um órgão labirinto para respirar ar atmosférico. Conforme a WSAVA, mantenha água morna (24°C ~ 26°C), fluxo suave e folhas de descanso.
+Famoso por suas nadadeiras exuberantes, o Betta possui um órgão labirinto para respirar ar atmosférico. Conforme a WSAVA, mantenha água morna (24°C ~ 26°C), fluxo suave e folhas de descanso. Oferecer cuidados de saúde diários constantes e um ambiente seguro garante o bem-estar a longo prazo do seu animal.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

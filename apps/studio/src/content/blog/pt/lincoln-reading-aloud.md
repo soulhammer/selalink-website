@@ -22,7 +22,16 @@ faqs:
 
 ---
 
-Abraham Lincoln, o 16º presidente dos Estados Unidos, que unificou um país à beira da divisão e aboliu a escravatura. Por trás do incrível vocabulário de Lincoln escondia-se um ritual de leitura único que praticava todas as manhãs no seu escritório. Consistia em ler livros ou jornais em voz alta para que a sua voz ecoasse pelo corredor. Quando lhe perguntaram por que lia assim, Lincoln sorriu e disse: 'Vejo as palavras com os olhos para gravá-las no cérebro, e ao mesmo tempo oiço a minha voz. Usar ambos os sentidos duplica a memória'. Hoje, o BuildSelf partilha o segredo deste ritual para melhorar o seu foco.
+Na prática desta rotina transformadora: 16 , . , . . 📖
+
+ . ' ' . , . ' , . .'
+
+ BuildSelf .
+
+
+
+
+--- Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável. Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

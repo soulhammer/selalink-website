@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Inventeur de l'imprimerie à caractères mobiles au XVe siècle, Johannes Gutenberg a démocratisé le savoir. Imprimer la Bible à 42 lignes exigait une précision chirurgicale. 🔠
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Chaque matin, Gutenberg inspectait chaque caractère en métal, vérifiant des alignements de 0,1 mm au toucher et à la loupe.
-
-Aujourd'hui, BuildSelf vous présente la science derrière la routine d'inspection de Gutenberg.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

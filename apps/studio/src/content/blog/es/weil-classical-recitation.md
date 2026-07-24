@@ -24,7 +24,7 @@ faqs:
 
 Simone Weil, la brillante filósofa francesa que dedicó su vida a buscar la verdad. Creía que la 'atención' es la herramienta más sagrada del intelecto. Para cultivarla, practicaba una rutina: recitar la oración del Señor en griego antiguo o pasajes de Platón. Describía esta vocalización como una limpieza mental para alinear su frecuencia cognitiva. Conozcamos la ciencia de la recitación vocal.
 
-</div>
+Esta práctica diaria esencial fomenta un enfoque profundo y una claridad mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

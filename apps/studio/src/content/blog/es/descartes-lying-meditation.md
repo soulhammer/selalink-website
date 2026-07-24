@@ -11,11 +11,11 @@ formatVersion: 4
 authority: "Biografía de René Descartes 'La Vie de Monsieur Descartes' y revista Psychophysiology"
 steps:
   - name: "Mantener la Postura y Bloquear el Móvil tras la Alarma"
-    text: ""
+    text: "."
   - name: "Respiración Relajante y Escáner Corporal"
-    text: ""
+    text: "."
   - name: "Establecer la 'Pregunta Clave' del Día"
-    text: ""
+    text: "."
 faqs:
   - question: "¿Es la meditación matutina en la cama realmente eficaz para el cerebro?"
     answer: "Sí, la postura horizontal al despertar induce las ondas cerebrales al estado alfa, estabilizando el sistema nervioso autónomo y mejorando la creatividad."
@@ -28,8 +28,7 @@ Descartes era muy débil desde la infancia, por lo que le resultaba muy difícil
 
 Hoy, BuildSelf presenta la base científica de la rutina de meditación en la cama de Descartes y cómo las personas ocupadas de hoy en día pueden utilizarla por la mañana.
 
-
-</div>
+Esta práctica diaria esencial fomenta un enfoque profundo y una claridad mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -61,7 +60,7 @@ Por otro lado, mantener una postura tumbada horizontal y cómoda durante un rato
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mantener la Postura y Bloquear el Móvil tras la Alarma</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -71,7 +70,7 @@ Por otro lado, mantener una postura tumbada horizontal y cómoda durante un rato
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Respiración Relajante y Escáner Corporal</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -81,7 +80,7 @@ Por otro lado, mantener una postura tumbada horizontal y cómoda durante un rato
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Establecer la 'Pregunta Clave' del Día</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

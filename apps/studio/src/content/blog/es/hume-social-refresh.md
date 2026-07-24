@@ -24,11 +24,13 @@ faqs:
 
 ---
 
-Pilar del empirismo occidental, David Hume sentó las bases de la ciencia cognitiva. ¿Cómo evitaba el agotamiento mental? 🎱
+En la práctica de esta rutina transformadora:      ' '       ,  (David Hume).                   ? 🎱
 
-Cada tarde tras estudiar, Hume cerraba su despacho para jugar al billar y cenar con amigos. Alejarse de la especulación abstracta restauraba su energía mental.
+En la práctica de esta rutina transformadora:                 .           .                     .
 
-Hoy BuildSelf examina la rutina de reconexión social de David Hume.
+En la práctica de esta rutina transformadora:  BuildSelf             ·      .
+
+Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

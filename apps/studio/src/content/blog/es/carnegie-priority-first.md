@@ -24,7 +24,11 @@ faqs:
 
 ---
 
-Andrew Carnegie, el magnate del acero que construyó la base industrial de Estados Unidos. Tenía una inmensa carga de trabajo, pero la manejó enfocándose estrictamente en una tarea clave a la mañana antes de que comenzaran otras distracciones.
+En la práctica de esta rutina : Andrew Carnegie, the steel king who consolidated America's vast steel industry, accumulated colossal wealth, and became one of history's greatest philanthropists alongside Rockefeller. What was the secret of his business productivity and decision-making? 🏗️
+
+En la práctica de esta rutina : Every morning at the start of business, Carnegie organized the priorities of the tasks he had to achieve. He then selected the core task that was most crucial for success, yet at the same time most difficult, complex, and dreaded, placing it at the very top of his list. For the first 1-2 golden hours of the morning, when his frontal lobe's energy and rational control were at their peak, Carnegie turned away all emails and meeting requests, pouring all his energy into completing that single heaviest task.
+
+En la práctica de esta rutina : Today, BuildSelf reveals the scientific mechanism of Andrew Carnegie's 'do the hardest task first' routine in conserving the brain's limited willpower, and introduces practical methods for modern workers to maximize efficiency.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

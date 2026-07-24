@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-出身奴隶却凭借理智获得内心绝对自由的斯多葛派大师爱比克泰德。他在残酷环境中保持内心安宁的秘诀是什么？ 📜
-
-爱比克泰德每天晚上都会将遭遇的事件划分为两个类别：属于自己掌控的事（内在意志）与不属于自己掌控的事（外部结果与他人评价）。放弃对不可控事物的焦虑，将100%精力投入内在选择。
-
-今天，BuildSelf 将带您探究爱比克泰德“掌控二分法反思”惯例指南。
+在这一历史性惯例的实践中： , , (Epictetus). (Ataraxia) ? 📜 在这一历史性惯例的实践中： . ' , , (Up to Us)', ' , , , (Not Up to Us)'. , . 在这一历史性惯例的实践中： BuildSelf ' ' 3 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

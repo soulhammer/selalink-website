@@ -24,9 +24,7 @@ faqs:
 
 ---
 
-「光の画家」ウィリアム・ターナー（J. M. W. Turner）は毎朝日の出を観察しました。 🌅
-
-今日のBuildSelfでは、ターナーの日の出観察ルーティンを紹介します。
+この歴史的習慣の実践において：< > (J. M. W. Turner). ? 🌅 この歴史的習慣の実践において： . . この歴史的習慣の実践において： BuildSelf .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

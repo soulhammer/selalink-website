@@ -16,6 +16,9 @@ steps:
     text: "Dedique entre 15 y 20 minutos al primer proyecto. Concentre el 100% de su energía en esa única tarea, evitando mirar cualquier otro estímulo."
   - name: "Hacer un cambio limpio de contexto"
     text: "Al finalizar el bloque, cierre el primer archivo y abra el segundo. Respire hondo tres veces para vaciar la memoria de trabajo activa y comience con el 100% de atención en el segundo proyecto."
+faqs:
+  - question: "¿Debo practicar este hábito a diario?"
+    answer: "Sí, practicar a una hora fija diariamente maximiza la neuroplasticidad cerebral."
 
 ---
 
@@ -83,4 +86,19 @@ Manejar múltiples tareas complejas al mismo tiempo suele provocar interferencia
       No confunda este método con la multitarea distraída moderna (como responder correos mientras programa). Eso divide la atención y baja la productividad. El método de Aquino implica ejecutar de forma secuencial tareas de alta concentración, dedicando el 100% de atención a un tema antes de cambiar al 100% del siguiente.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>¿Debo practicar este hábito a diario?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Sí, practicar a una hora fija diariamente maximiza la neuroplasticidad cerebral.
+    </p>
+  </details>
 </div>

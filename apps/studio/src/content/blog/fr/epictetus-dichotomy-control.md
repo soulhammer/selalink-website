@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Épictète, maître stoïcien né esclave. Quel était son secret pour une sérénité inébranlable ? 📜
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Chaque soir, Épictète séparait les événements en deux : ce qui dépend de lui et ce qui n'en dépend pas. En lâchant l'incontrôlable, il restait libre.
-
-Aujourd'hui, BuildSelf explore la routine de dichotomie du contrôle d'Épictète.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

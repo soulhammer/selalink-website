@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-松下幸之助每天傍晚都会浸泡在温水浴缸中，进行深刻的反思与自省。这是一种通过激活副交感神经来放松并恢复疲惫大脑的认知修复手段。
+通过每天系统地实践这一历史性惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

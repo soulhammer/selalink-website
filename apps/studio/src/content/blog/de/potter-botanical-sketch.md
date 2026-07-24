@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Schöpferin von *Peter Hase*, Beatrix Potter war auch eine Pionierin der wissenschaftlichen Illustration. Wie kultivierte sie diese Präzision? 🐰
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
-Jeden Morgen ging Potter mit Lupe und Skizzenbuch in die Natur. Sie beobachtete stundenlang Pilze, Moos und Kaninchen. Diese Mikrobeobachtung förderte tiefen Fokus.
-
-Heute untersucht BuildSelf die Neurowissenschaft hinter Beatrix Potters Skizzen-Routine.
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

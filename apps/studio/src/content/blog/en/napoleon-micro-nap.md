@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Napoleon Bonaparte, the legendary military strategist and Emperor of France. Renowned for his endless energy, he managed state affairs and battles on just 4 hours of night sleep. His secret lay in 'micro-naps'—taking 10 to 15 minutes of sleep whenever he had a spare moment, even during battle. Today, BuildSelf reveals how short strategic naps can rapidly reset your cognitive performance.
+In this historic routine: Napoleon Bonaparte, the legendary military strategist and Emperor of France. Renowned for his endless energy, he managed state affairs and battles on just 4 hours of night sleep. His secret lay in 'micro-naps'—taking 10 to 15 minutes of sleep whenever he had a spare moment, even during battle. Today, BuildSelf reveals how short strategic naps can rapidly reset your cognitive performance.
+
+Practicing this daily routine consistently builds deep focus and long-term habits.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

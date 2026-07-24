@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-统一日本战国时代的德川家康。他在动荡时期得以长寿并开创江户幕府的秘诀，在于每日亲自在药钵中研磨配制生药的惯例。
+通过每天系统地实践这一历史性惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

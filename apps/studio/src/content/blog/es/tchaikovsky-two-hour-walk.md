@@ -21,7 +21,7 @@ faqs:
 
 ---
 
-Pyotr Ilyich Tchaikovsky, el legendario compositor que elevó la música romántica rusa a un nivel mundial con obras maestras como 'El lago de los cisnes', 'El cascanueces' y la 'Sinfonía Patética'. Mantenía un horario increíblemente estricto, dividiendo sus sesiones de composición en mañana y tarde. En particular, salía a caminar exactamente dos horas todas las tardes. Creía tan firmemente en esta rutina que temía que acortarla aunque fuera unos minutos le causaría una enfermedad física o agotaría su inspiración musical. Los temas musicales que se le ocurrían durante estas caminatas se anotaban inmediatamente en un pequeño cuaderno que siempre llevaba en el bolsillo. Hoy, BuildSelf comparte cómo una caminata diaria puede despertar tus ideas creativas.
+En la práctica de esta rutina transformadora: Pyotr Ilyich Tchaikovsky, the legendary composer who elevated Russian romantic music to a world-class level with masterpieces like 'Swan Lake,' 'The Nutcracker,' and the 'Pathétique Symphony.' He maintained an incredibly strict schedule, separating his composing sessions into morning and afternoon. Especially, he went out for a walk for exactly two hours every single afternoon. He believed so strongly in this routine that he feared cutting it short by even a few minutes would cause physical illness or exhaust his musical inspiration. The musical themes that came to him during these walks were immediately written down in a small notebook he always carried in his pocket. Today, BuildSelf shares how a daily walk can spark your creative thoughts.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

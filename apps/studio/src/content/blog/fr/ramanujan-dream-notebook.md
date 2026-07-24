@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Srinivasa Ramanujan, le génie mathématique indien ayant publié plus de 3 900 théorèmes. D'où lui venait son inspiration ? 📐
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Ramanujan rêvait de formules complexes. Dès le réveil, pendant que son cerveau était en ondes alpha, il notait immédiatement les équations.
-
-Aujourd'hui, BuildSelf explore les principes scientifiques de la routine de notes au réveil de Ramanujan.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

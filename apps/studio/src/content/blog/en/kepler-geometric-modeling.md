@@ -24,7 +24,7 @@ faqs:
 
 Johannes Kepler, the famous astronomer and mathematician who discovered the laws of planetary motion, laying the cornerstone for Newton's gravity theory. In an era without computers, Kepler had to process mountains of mathematical calculations. When he hit a wall, he carved 3D geometric models of the universe out of wood, paper, or clay. By touching the physical proportions, he found breakthroughs in cosmic orbits. Let's study the cognitive benefits of haptic space manipulation.
 
-</div>
+By practicing this routine daily, knowledge workers can eliminate fatigue and cultivate deep focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

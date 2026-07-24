@@ -22,7 +22,16 @@ faqs:
 
 ---
 
-Charles Dickens, considerado el más grande novelista de la era victoriana con obras maestras como 'Oliver Twist', 'Grandes Esperanzas' y 'Un Cuento de Navidad'. ¿Sabes dónde nacieron los cientos de personajes encantadores y tramas intrincadas de sus novelas? El secreto reside en su rutina de 'caminar 3 horas' cada tarde. Después de escribir de 9 AM a 2 PM, Dickens salía al exterior. Caminaba unas 10-12 millas (16-19 km) a paso rápido durante exactamente tres horas. Caminando por los callejones de Londres o los senderos de Kent, organizaba los diálogos y personajes. Hoy, BuildSelf comparte los principios neurocientíficos de la rutina de Dickens.
+En la práctica de esta rutina transformadora: 《 》, 《 》, 《 》 . ? 🚶‍♂️
+
+ '3 ' . 9 2 , . 3 10~12(16~19km) . , . , .
+
+ BuildSelf 3 .
+
+
+
+
+--- Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo. Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

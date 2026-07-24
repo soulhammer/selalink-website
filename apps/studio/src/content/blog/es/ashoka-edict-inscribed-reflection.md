@@ -24,11 +24,13 @@ faqs:
 
 ---
 
-El Rey Ashoka, quien unificó India y se transformó en un gobernante de paz tras la guerra de Kalinga. ¿Su secreto? 🏛️
+En la práctica de esta rutina transformadora:          ,         (Ashoka the Great).   (Kalinga)     ,              ? 🏛️
 
-Ashoka inscribió sus valores morales en pilares de piedra por su imperio, revisando a diario sus acciones frente a ellos como anclas visuales.
+En la práctica de esta rutina transformadora:     ,       (Dharma)         .      ,             .            (Visual Anchor)  .
 
-Hoy, BuildSelf explora la rutina de reflexión en edictos del Rey Ashoka.
+En la práctica de esta rutina transformadora:  BuildSelf   '  '           3   .
+
+Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

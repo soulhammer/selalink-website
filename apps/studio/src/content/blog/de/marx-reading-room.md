@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Karl Marx analysierte die ökonomischen Strukturen des Kapitalismus. Wie entstand Das Kapital? 🏛️
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
-Sein Arbeitsplatz war der Lesesaal des British Museum in London. 30 Jahre lang las er dort täglich von 9 bis 19 Uhr Berichte und Statistiken. Er kopierte Daten und fügte eigene Kommentare hinzu. Diese Struktur prägte sein Denken.
-
-Heute stellt BuildSelf die Wissenschaft hinter Marx' Lesemethode vor.
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

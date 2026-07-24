@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-巴勃罗·卡萨尔斯，这位西班牙大提琴传奇人物复活了巴赫的《无伴奏大提琴组曲》。直到他96岁去世，他都保持着一个独特的晨间规程，坚持了80多年。在清晨散步后，他坐在钢琴前弹奏两首巴赫前奏曲。他称这是一种祝福，而不是练习。我们探讨了这种晨间音乐仪式对大脑同步 and 情绪调节的影响。
+在这一历史性惯例的实践中：20 , 《 》 . 96 80 . , 《 》 . . 脳科学的 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

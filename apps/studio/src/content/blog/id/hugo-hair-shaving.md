@@ -11,20 +11,22 @@ formatVersion: 4
 authority: "Catatan biografi Victor Hugo & penelitian Psikologi Kognitif tentang batasan lingkungan dan perangkat komitmen"
 steps:
   - name: "Rancang batasan fisik yang mencegah pelarian"
-    text: "Ciptakan situasi di mana memilih gangguan berbiaya sangat tinggi..."
+    text: "Ciptakan situasi di mana memilih gangguan berbiaya sangat tinggi"
   - name: "Kunci alat dan opsi alternatif"
-    text: "If you are writing, use a dedicated text editor with no web browser access..."
+    text: "If you are writing, use a dedicated text editor with no web browser access"
   - name: "Terima batasan dan mulai fokus"
-    text: "Once escape routes are blocked, accept the isolation..."
+    text: "Once escape routes are blocked, accept the isolation"
 faqs:
   - question: "Apakah Victor Hugo benar-benar mencukur rambutnya hanya untuk menulis buku?"
-    answer: "Yes, in 1830, facing an urgent publisher deadline..."
+    answer: "Yes, in 1830, facing an urgent publisher deadline"
   - question: "Apa saja perangkat komitmen modern yang dapat saya gunakan tanpa mencukur rambut?"
-    answer: "You can use a time-locking safe container..."
+    answer: "You can use a time-locking safe container"
 
 ---
 
-Victor Hugo, penulis legendaris Prancis yang menulis 'Les Misérables'...
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
+
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -42,7 +44,7 @@ Victor Hugo, penulis legendaris Prancis yang menulis 'Les Misérables'...
 
 ## 1. Perangkat Komitmen dan Psikologi Batasan Lingkungan
 
-Mengandalkan tekad murni untuk menolak godaan sangat tidak efisien...
+Studi neurosains menunjukkan bahwa menghilangkan gangguan visual membebaskan kapasitas kognitif pada korteks prefrontal untuk fokus mendalam.
 
 ---
 
@@ -54,7 +56,7 @@ Mengandalkan tekad murni untuk menolak godaan sangat tidak efisien...
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Rancang batasan fisik yang mencegah pelarian</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Ciptakan situasi di mana memilih gangguan berbiaya sangat tinggi...
+    Ciptakan situasi di mana memilih gangguan berbiaya sangat tinggi
   </p>
 </div>
 
@@ -64,7 +66,7 @@ Mengandalkan tekad murni untuk menolak godaan sangat tidak efisien...
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Kunci alat dan opsi alternatif</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    If you are writing, use a dedicated text editor with no web browser access...
+    If you are writing, use a dedicated text editor with no web browser access
   </p>
 </div>
 
@@ -74,7 +76,7 @@ Mengandalkan tekad murni untuk menolak godaan sangat tidak efisien...
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Terima batasan dan mulai fokus</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Once escape routes are blocked, accept the isolation...
+    Once escape routes are blocked, accept the isolation
   </p>
 </div>
 
@@ -85,7 +87,7 @@ Mengandalkan tekad murni untuk menolak godaan sangat tidak efisien...
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      While commitment devices are highly effective...
+      Ciptakan ruang kerja bebas gangguan dan atur pencahayaan sekitar untuk mempertahankan tingkat konsentrasi tinggi.
     </p>
   </div>
 </div>
@@ -100,7 +102,7 @@ Mengandalkan tekad murni untuk menolak godaan sangat tidak efisien...
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Yes, in 1830, facing an urgent publisher deadline...
+      Yes, in 1830, facing an urgent publisher deadline
     </p>
   </details>
 
@@ -110,7 +112,7 @@ Mengandalkan tekad murni untuk menolak godaan sangat tidak efisien...
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      You can use a time-locking safe container...
+      You can use a time-locking safe container
     </p>
   </details>
 </div>

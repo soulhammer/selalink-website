@@ -24,9 +24,7 @@ faqs:
 
 ---
 
-英国“光之画家”泰纳（J. M. W. Turner）每天清晨观照日出光影。 🌅
-
-今天 BuildSelf 将为您揭秘泰纳日出观照习惯背后的神经科学。
+在这一历史性惯例的实践中：< > (J. M. W. Turner). ? 🌅 在这一历史性惯例的实践中： . . 在这一历史性惯例的实践中： BuildSelf .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

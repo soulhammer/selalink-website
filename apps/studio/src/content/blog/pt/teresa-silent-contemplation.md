@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-Madre Teresa, que dedicou a vida a ajudar os pobres em Calcutá. Como suportava a dor das favelas para manter a sua paz emocional? 🕊️
-
-Todos os dias, a Madre Teresa enfrentava um esgotamento emocional extremo. Para curar isso, acordava às 4h30 para pracitcar(praticar) a contemplação silenciosa. Passar a primeira hora em absoluto silêncio permitia-lhe limpar a mente. Ela escreveu que esse silêncio era o escudo que limpava as tensões da véspera.
-
-Hoje, o BuildSelf analisa os benefícios cerebrais da rotina de 'silêncio matinal' da Madre Teresa e uma prática de 15 minutos.
+Na prática desta rotina transformadora: . ? 🕊️ Na prática desta rotina transformadora: . 4 30 . , 1 (Silent Contemplation) and . . Na prática desta rotina transformadora: BuildSelf ' ' 15 . Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

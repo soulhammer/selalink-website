@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Alexander von Humboldt, le géant scientifique qui a posé les bases de l'écologie. D'où lui venait sa vision holistique ? 🌿
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Humboldt sortait son carnet à l'instant même lors de ses expéditions. En éliminant le délai, il a découvert des schémas organiques.
-
-Aujourd'hui, BuildSelf révèle les principes de la routine de carnet de terrain d'Humboldt.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

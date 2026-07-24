@@ -22,7 +22,7 @@ faqs:
 
 ---
 
-夏目漱石每天清晨都不等灵感降临就机械地坐在书桌前。这是一种促进大脑分泌多巴胺、唤醒创造性专注力的“作业兴奋”惯例。
+通过每天系统地实践这一历史性惯例，现代知识工作者可以消除疲劳并培养可持续的高度专注。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

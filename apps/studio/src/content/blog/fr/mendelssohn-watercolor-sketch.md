@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Génie romantique, Felix Mendelssohn a composé des chefs-d'œuvre. Comment renouvelait-il sa créativité ? 🎨
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-Entre les répétitions, Mendelssohn emportait de l'aquarelle pour peindre. Passer du canal auditif au canal visuel régénérait son esprit.
-
-Aujourd'hui, BuildSelf vous présente la science derrière la routine d'aquarelle de Felix Mendelssohn.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

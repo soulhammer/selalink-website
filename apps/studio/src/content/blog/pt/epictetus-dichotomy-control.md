@@ -24,11 +24,13 @@ faqs:
 
 ---
 
-Epicteto, mestre estoico nascido escravo. Qual era o seu segredo para a tranquilidade inabalável? 📜
+Na prática desta rotina transformadora:          ,             , (Epictetus).           (Ataraxia)     ? 📜
 
-Todas as noites, Epicteto dividia os fatos entre o que dependia dele e o que não dependia. Ao soltar o incontrolável, encontrava paz.
+Na prática desta rotina transformadora:              .  ' , ,      (Up to Us)',  ' , , ,      (Not Up to Us)'.              ,         .
 
-Hoje, o BuildSelf explora a rotina de dicotomia do controle de Epicteto.
+Na prática desta rotina transformadora:  BuildSelf  '   '         3   .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

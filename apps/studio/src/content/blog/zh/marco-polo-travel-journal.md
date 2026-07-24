@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-离开威尼斯、历时24年游历亚洲全境并留下《东方见闻录》的探险家马可·波罗。他在数十年后仍能如数家珍般生动回忆异域细节的秘诀是什么？ 🐪
-
-即使在艰苦的探险途中，马可·波罗每晚都会展开便签，详细记录当天目睹的异域风光、风味与语言。每晚记录五感细节的习惯为他构建了强大的情景记忆库。
-
-今天，BuildSelf 将介绍马可·波罗的夜间现场感官日志习惯。
+在这一历史性惯例的实践中： 24 '' , . , , ? 🐪 在这一历史性惯例的实践中： , , . . 在这一历史性惯例的实践中： BuildSelf .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

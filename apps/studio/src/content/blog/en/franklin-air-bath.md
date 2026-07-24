@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "The Autobiography of Benjamin Franklin & New England Journal of Medicine (NEJM)"
 steps:
   - name: "Welcome Cold Air While Ventilating in the Morning for 5 Minutes"
-    text: ""
+    text: "."
   - name: "Plan Your Day in the Cold Wind"
-    text: ""
+    text: "."
   - name: "Light Body Stretching"
-    text: ""
+    text: "."
 faqs:
   - question: "Does an Air Bath really help prevent colds?"
     answer: "Yes, exposing the skin to cool air boosts the body's resistance to temperature changes and regulates immunity, helping prevent colds."
@@ -27,8 +27,7 @@ At the time, 18th-century people believed that facing cold wind would immediatel
 
 Today, BuildSelf introduces the scientific principles hidden in this extraordinary morning routine loved by a founding father of the United States, and how to safely practice it in modern busy daily life.
 
-
-</div>
+By practicing this routine daily, knowledge workers can eliminate fatigue and cultivate deep focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +59,7 @@ Modern medicine and brain science prove that Franklin's belief was highly scient
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Welcome Cold Air While Ventilating in the Morning for 5 Minutes</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +69,7 @@ Modern medicine and brain science prove that Franklin's belief was highly scient
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Plan Your Day in the Cold Wind</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +79,7 @@ Modern medicine and brain science prove that Franklin's belief was highly scient
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Light Body Stretching</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

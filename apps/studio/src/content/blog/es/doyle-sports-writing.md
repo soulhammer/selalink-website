@@ -22,9 +22,7 @@ faqs:
 
 ---
 
-Sir Arthur Conan Doyle, el médico y escritor que creó al detective más famoso de la historia, Sherlock Holmes. Mientras diseñaba la mente fría de Sherlock, Doyle mantenía su cuerpo muy activo. Era un deportista excelente que practicaba boxeo, críquet y fútbol. Creía que si el cuerpo se adormecía, el cerebro se estancaba. Conozcamos la ciencia de cómo el ejercicio físico estimula el BDNF.
-
-</div>
+Sir Arthur Conan Doyle, el médico y escritor que creó al detective más famoso de la historia, Sherlock Holmes. Mientras diseñaba la mente fría de Sherlock, Doyle mantenía su cuerpo muy activo. Era un deportista excelente que practicaba boxeo, críquet y fútbol. Creía que si el cuerpo se adormecía, el cerebro se estancaba. Conozcamos la ciencia de cómo el ejercicio físico estimula el BDNF. </div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

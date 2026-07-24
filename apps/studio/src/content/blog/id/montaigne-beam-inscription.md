@@ -16,6 +16,9 @@ steps:
     text: "Tulis kutipan di kartu pos atau kertas tempel dan letakkan di area yang tinggi seperti bingkai atas monitor komputer atau langit-langit kamar agar Anda harus mendongak untuk melihatnya."
   - name: "Langkah 3: Dongakkan Kepala dan Renungkan 15 Detik"
     text: "Saat fokus Anda buntu atau menghadapi bias, condongkan tubuh ke belakang, dongakkan kepala, baca kutipan tersebut, dan renungkan selama 15 detik untuk memutus kepenatan kognitif."
+faqs:
+  - question: "Apakah saya harus mempraktikkan kebiasaan ini setiap hari?"
+    answer: "Ya, berlatih pada waktu yang sama setiap hari memaksimalkan neuroplastisitas."
 
 ---
 
@@ -83,4 +86,19 @@ Membiasakan mata melihat kalimat bijak menggunakan teknik 'visual priming' yang 
       Jika sebuah tulisan dibiarkan di posisi yang sama selamanya, otak akan terbiasa dan mulai mengabaikannya. Untuk mencegah kejenuhan visual, ganti kutipan atau posisi peletakannya beberapa bulan sekali. Rasa baru adalah kunci stimulasi otak.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>Apakah saya harus mempraktikkan kebiasaan ini setiap hari?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Ya, berlatih pada waktu yang sama setiap hari memaksimalkan neuroplastisitas.
+    </p>
+  </details>
 </div>

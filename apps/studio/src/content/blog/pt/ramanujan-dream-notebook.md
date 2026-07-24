@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Srinivasa Ramanujan, o gênio matemático indiano que publicou mais de 3.900 teoremas. De onde vinha sua inspiração intuitiva? 📐
+Na prática desta rotina : Srinivasa Ramanujan, the legendary Indian mathematical genius who published over 3,900 original theorems in number theory and infinite series. Where did his unprecedented intuitive inspiration come from? 📐
 
-Ramanujan frequentemente sonhava com fórmulas. Ao acordar, em estado alfa, ele anotava imediatamente as equações.
+Na prática desta rotina : Ramanujan frequently experienced dreams where the Hindu goddess Namagiri presented complex mathematical formulas written in red ink. For Ramanujan, sleep was a subconscious laboratory where unconstrained geometric ideas merged freely. Upon waking, while his brain remained in an alpha wave state, he immediately wrote down every formula on his bedside slate and notebook before the vivid impressions evaporated.
 
-Hoje, o BuildSelf explora os princípios científicos da rotina de anotações ao acordar de Ramanujan.
+Na prática desta rotina : Today, BuildSelf explores the scientific mechanism behind Ramanujan's 'morning intuition note' routine and how modern creative thinkers can leverage it.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

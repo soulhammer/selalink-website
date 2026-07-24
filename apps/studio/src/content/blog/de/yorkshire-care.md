@@ -16,7 +16,7 @@ faqs:
     answer: "Sie bellen instinktiv. Ignorieren Sie das Kläffen und belohnen Sie Stille."
 ---
 
-Der Yorkshire Terrier, oder 'Yorkie', besitzt ein mutiges Wesen. Sein feines Fell ähnelt menschlichem Haar. Zudem sind Kleinsthunde anfällig für Patellaluxation. Heute bei PetSelf zeigen wir Ihnen Kniegelenksschutz.
+Der Yorkshire Terrier, oder 'Yorkie', besitzt ein mutiges Wesen. Sein feines Fell ähnelt menschlichem Haar. Zudem sind Kleinsthunde anfällig für Patellaluxation. Heute bei PetSelf zeigen wir Ihnen Kniegelenksschutz. Die Bereitstellung einer konsistenten täglichen Gesundheitspflege und einer sicheren Umgebung sichert das Wohlbefinden Ihres Haustieres.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

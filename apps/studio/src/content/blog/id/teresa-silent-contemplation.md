@@ -24,9 +24,9 @@ faqs:
 
 ---
 
-Ibu Teresa, yang membaktikan hidupnya membantu orang miskin di Kalkuta. Bagaimana ia bertahan dari batas mental dan kesedihan daerah kumuh untuk menjaga emosinya? 🕊️
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
-Setiap hari, Ibu Teresa menghadapi kelelahan emosional yang berat. Untuk mengatasinya, ia bangun pukul 04.30 untuk melatih keheningan sebelum memulai hari. Meluangkan jam pertama dalam keheningan total membantunya menenangkan pikiran. Ia menulis bahwa waktu hening ini adalah perisai pelindung jiwanya.
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

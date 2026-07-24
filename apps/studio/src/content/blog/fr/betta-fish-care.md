@@ -16,7 +16,7 @@ faqs:
     answer: "Bien qu'il respire en surface, un bocal sans filtre s'empoisonne très vite. Un bac d'au moins 15L avec filtre éponge est vivement conseillé."
 ---
 
-Prisé pour ses nageoires spectaculaires, le Betta possède un organe labyrinthe lui permettant de respirer en surface. Selon la WSAVA, un faible courant d'eau et une température constante (24°C ~ 26°C) sont requis pour prévenir la pourriture des nageoires.
+Prisé pour ses nageoires spectaculaires, le Betta possède un organe labyrinthe lui permettant de respirer en surface. Selon la WSAVA, un faible courant d'eau et une température constante (24°C ~ 26°C) sont requis pour prévenir la pourriture des nageoires. Offrir des soins de santé quotidiens constants et un environnement sûr garantit le bien-être à long terme de votre animal.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

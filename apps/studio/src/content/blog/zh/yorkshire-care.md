@@ -16,7 +16,7 @@ faqs:
     answer: "警惕性高而对声音敏感。吠叫时不要理会，在它们安静时及时给予奖励。"
 ---
 
-约克夏梗在娇小像洋娃娃一样的身体里蕴藏着梗犬特有的勇敢性格。它们拥有一层极像人类头发的细软单层毛，容易打结折断。另外，小型玩具犬易患髌骨脱位。今天PetSelf介绍被毛保养与关节健康。
+约克夏梗在娇小像洋娃娃一样的身体里蕴藏着梗犬特有的勇敢性格。它们拥有一层极像人类头发的细软单层毛，容易打结折断。另外，小型玩具犬易患髌骨脱位。今天PetSelf介绍被毛保养与关节健康。 提供持续的日常健康护理与安全的生活环境，可确保您的宠物长期保持健康快乐。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

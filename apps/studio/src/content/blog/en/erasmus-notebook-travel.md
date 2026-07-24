@@ -16,6 +16,9 @@ steps:
     text: "Look out the window at the passing scenery. Let your eyes capture the natural optical flow without trying to focus on any single object, allowing your brain to enter a daydream state."
   - name: "Seize the Flash of Insight"
     text: "The moment a unique analogy or solution flashes in your mind, immediately jot down keywords in your pocket notebook. Do not wait until you arrive, as travel insights fade rapidly once the journey ends."
+faqs:
+  - question: "Should I practice this habit daily?"
+    answer: "Yes, practicing at a set time daily maximizes brain neuroplasticity."
 
 ---
 
@@ -83,4 +86,19 @@ Being in motion changes your visual flow, which triggers neuroplasticity. Furthe
       If you spend travel time checking social media or playing mobile games, you destroy the opportunity for creative incubation. Your brain is immediately flooded with high-stimulation inputs, blocking the alpha-state. To activate the travel epiphany, choose to look outside and let your thoughts drift freely, keeping your notepad ready.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>Should I practice this habit daily?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Yes, practicing at a set time daily maximizes brain neuroplasticity.
+    </p>
+  </details>
 </div>

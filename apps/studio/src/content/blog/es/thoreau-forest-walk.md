@@ -24,7 +24,7 @@ faqs:
 
 Henry David Thoreau, el ensayista estadounidense que vivió de forma autosuficiente en el lago Walden, autor de la obra clásica *Walden*. Detrás de sus ideas profundas había un hábito de la tarde: pasear 4 horas al día por el bosque de Concord. No era ejercicio físico: era contemplar la naturaleza y anotar reflexiones en su libreta. Conozcamos cómo pasear en la naturaleza restaura el cerebro.
 
-</div>
+Esta práctica diaria esencial fomenta un enfoque profundo y una claridad mental constante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

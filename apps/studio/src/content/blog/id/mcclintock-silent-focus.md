@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Peraih Nobel Barbara McClintock merevolusi genetika dengan menemukan "gen melompat". Bagaimana ia menjaga intuisi yang luar biasa? 🌽
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
-Setiap pagi, ia berjalan sendirian di ladang jagung mengamati variasi mikroskopis dalam hening.
-
-Hari ini BuildSelf mengungkap sains kognitif di balik rutinitas fokus hening Barbara McClintock.
+Dengan menerapkan metode ini secara teratur, seseorang dapat mengembangkan perhatian berkelanjutan dan produktivitas tinggi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

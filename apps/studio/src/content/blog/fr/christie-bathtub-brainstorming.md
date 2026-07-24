@@ -24,7 +24,9 @@ faqs:
 
 ---
 
-Agatha Christie, créatrice d'Hercule Poirot et de Miss Marple, romancière la plus vendue de l'histoire. Comment naissaient ses intrigues complexes ? Plutôt que de s'enfermer dans un bureau, Christie pensait que son esprit fonctionnait mieux dans un bain chaud. Aujourd'hui, BuildSelf explore les bases de cette routine.
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
+
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

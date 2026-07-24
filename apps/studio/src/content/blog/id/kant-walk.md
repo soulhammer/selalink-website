@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Biografi 'Kant' oleh Manfred Kuehn & Journal of Neurobiology of Learning and Memory (JN)"
 steps:
   - name: "Setel Alarm Penyegaran pada Pukul 15.30"
-    text: ""
+    text: "."
   - name: "Jalan Kaki Tanpa Suara Selama 15 Menit Tanpa Smartphone"
-    text: ""
+    text: "."
   - name: "Atur Pernapasan Anda dan Kembali"
-    text: ""
+    text: "."
 faqs:
   - question: "Mengapa Immanuel Kant berjalan-jalan tepat jam 15.30 setiap hari?"
     answer: "Itu adalah ritual ketat untuk menjaga ritme sirkadian tubuhnya guna mempertahankan penelitian filsafat abstrak yang tinggi selama beberapa dekade."
@@ -27,8 +27,7 @@ Waktu jalannya sangat akurat sehingga warga Königsberg dilaporkan mencocokkan j
 
 Hari ini, BuildSelf mengeksplorasi manfaat medis dan praktik modern dari gaya hidup master yang ketat, di mana dia melangkah hari demi hari tanpa gagal.
 
-
-</div>
+Praktik harian esensial ini mendorong fokus mendalam dan kejelasan mental yang konstan.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +59,7 @@ Sains otak modern juga setuju dengan hal ini. Jalan kaki teratur (olahraga aerob
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Setel Alarm Penyegaran pada Pukul 15.30</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +69,7 @@ Sains otak modern juga setuju dengan hal ini. Jalan kaki teratur (olahraga aerob
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Jalan Kaki Tanpa Suara Selama 15 Menit Tanpa Smartphone</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +79,7 @@ Sains otak modern juga setuju dengan hal ini. Jalan kaki teratur (olahraga aerob
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Atur Pernapasan Anda dan Kembali</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

@@ -11,11 +11,11 @@ formatVersion: 4
 authority: "Biographie de Steve Jobs par Walter Isaacson & revue JPSP"
 steps:
   - name: "Préparer ses Affaires la Veille au Soir"
-    text: ""
+    text: "."
   - name: "Définir sa Propre 'Tenue Standard (Uniforme)'"
-    text: ""
+    text: "."
   - name: "Prendre les Décisions Importantes avec un Esprit Frais"
-    text: ""
+    text: "."
 faqs:
   - question: "Pourquoi Steve Jobs portait-il toujours les mêmes vêtements ?"
     answer: "Pour préserver l'attention consommée par des choix triviaux le matin, afin de se concentrer à 100 % sur les choix stratégiques d'Apple."
@@ -28,8 +28,7 @@ Beaucoup voient dans son uniforme une simple signature stylistique ou une excent
 
 Aujourd'hui, BuildSelf présente les principes scientifiques de la routine de 'minimalisme vestimentaire' de Steve Jobs et comment réduire la fatigue décisionnelle le matin pour maximiser sa productivité.
 
-
-</div>
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -61,7 +60,7 @@ Quand cette fatigue s'accumule, le cerveau perd sa capacité de jugement rationn
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Préparer ses Affaires la Veille au Soir</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -71,7 +70,7 @@ Quand cette fatigue s'accumule, le cerveau perd sa capacité de jugement rationn
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Définir sa Propre 'Tenue Standard (Uniforme)'</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -81,7 +80,7 @@ Quand cette fatigue s'accumule, le cerveau perd sa capacité de jugement rationn
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Prendre les Décisions Importantes avec un Esprit Frais</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

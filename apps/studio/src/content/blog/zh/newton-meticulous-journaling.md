@@ -22,9 +22,9 @@ faqs:
 
 ---
 
-艾萨克·牛顿发现了万有引力定律，创立了微积分，为现代物理学奠定了宏伟的基石，是历史上最伟大的科学家。涵盖物理、数学、炼金术和神学的庞大而复杂的知识体系，究竟是如何在一个人的大脑中梳理清楚的？关键就在于他自青年时代起便一生坚持的彻底且严谨的“记录习惯”。
+在这一历史性惯例的实践中： , . , , ? ' ' .
 
-牛顿一生都将一本厚皮装订的空白大笔记本（当时被称为“Waste Book” or “Notebook”）带在身边，按日期精准地记录下闪现的灵感、复杂的微积分公式以及观察日志。他不仅仅是用文字记录思维，还会绘制精细的图表和示意图，将思考过程视觉化。今天，BuildSelf 将带您了解牛顿“科研日志”惯例的脑科学原理，以及现代人如何在复杂的信息过载中利用它来使创意具体化。
+ ( 'Waste Book' 'Notebook' ) , , . , . BuildSelf 'Waste Book' 脳科学的 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,7 +24,7 @@ faqs:
 
 John Milton, the legendary English poet and intellectual who wrote the masterpiece *Paradise Lost* completely blind. How did he write an epic of over 10,000 lines without being able to see a single letter? The secret lies in his 4 AM morning routine. Milton woke up before dawn and meditated in silence to shape verses in his mind. The moment his assistant arrived at 7 AM, he poured out his mental composition. Let's look into the science of his quiet focus and how you can apply it.
 
-</div>
+By practicing this routine daily, knowledge workers can eliminate fatigue and cultivate deep focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

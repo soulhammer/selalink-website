@@ -16,6 +16,9 @@ steps:
     text: "Escreva a frase em um cartão e cole em um local alto, como a moldura superior de seu monitor ou o teto. O objetivo é forçar o olhar para cima ao lê-la."
   - name: "Olhar para cima e refletir por 15 segundos"
     text: "Quando se sentir bloqueado, incline-se, levante a cabeça e leia a frase por 15 segundos. Permita que seu cérebro se desconecte do problema imediato para calibrar a lógica à distância."
+faqs:
+  - question: "Devo praticar este hábito diariamente?"
+    answer: "Sim, praticar a uma hora fixa diariamente maximiza a neuroplasticidade."
 
 ---
 
@@ -83,4 +86,19 @@ A exposição a lembretes visuais utiliza a ativação visual para ativar incons
       Se uma frase permanecer no mesmo local para sempre, o cérebro se adapta e começa a ignorá-la. Para evitar a habituação visual, mude a localização ou o conteúdo das frases a cada poucos meses. A novidade do estímulo é crucial.
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>Devo praticar este hábito diariamente?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Sim, praticar a uma hora fixa diariamente maximiza a neuroplasticidade.
+    </p>
+  </details>
 </div>

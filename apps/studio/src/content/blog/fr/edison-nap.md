@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Journal intime et observations d'Edison (1948) & Recherches de l'Institut du Cerveau de Paris"
 steps:
   - name: "Préparer un objet lourd et une surface sonore"
-    text: ""
+    text: "."
   - name: "S'endormir légèrement dans le fauteuil"
-    text: ""
+    text: "."
   - name: "Noter ses idées dès le réveil provoqué par la chute"
-    text: ""
+    text: "."
 faqs:
   - question: "Pourquoi Edison tenait-il des billes d'acier pendant ses siestes ?"
     answer: "Au moment où il s'endormait, ses muscles se relâchaient et le bruit de la chute des billes le réveillait, lui permettant de noter les idées hypnagogiques."
@@ -29,8 +29,7 @@ Au moment où il commençait à s'endormir et que les muscles de son corps se re
 
 Aujourd'hui, BuildSelf décrypte cette routine de semi-sommeil, secret de créativité du célèbre inventeur, et vous propose une version moderne.
 
-
-</div>
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -62,7 +61,7 @@ La recherche en neurosciences qualifie cet état d'« hypnagogie » (la phase de
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Préparer un objet lourd et une surface sonore</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -72,7 +71,7 @@ La recherche en neurosciences qualifie cet état d'« hypnagogie » (la phase de
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">S'endormir légèrement dans le fauteuil</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -82,7 +81,7 @@ La recherche en neurosciences qualifie cet état d'« hypnagogie » (la phase de
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noter ses idées dès le réveil provoqué par la chute</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

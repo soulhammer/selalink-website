@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-创立微软并引领技术创新的比尔·盖茨。在巨大的动荡与竞争中，他总能在恰当的时机调整公司巨大的舵轮，开启全新范式。而他能够捕获决定性未来愿景的秘诀，正是他的小屋孤立惯例。 🌲
-
-在微软任职期间，他每年两次彻底切断与外界的联系，前往安静的森林小屋，手里拿着大量的技术提案、论文和书籍。整整一周，在不与包括家人在内的任何人接触的情况下，他只专注于阅读和思考。标志着网页浏览器大战开始的著名“互联网潮汐（Internet Tidal Wave）”备忘录，便是在这种孤立惯例中规划出来的。
-
-今天，BuildSelf 将带您了解比尔·盖茨“思考周（Think Week）”惯例背后的科学依据，以及现代人如何利用它在复杂的 digital 时代实现生产力最大化。
+在这一历史性惯例的实践中： . . . 🌲 在这一历史性惯例的实践中： . , , . . ' (Internet Tidal Wave)' . 在这一历史性惯例的实践中： BuildSelf ' (Think Week)' .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

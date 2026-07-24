@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-Joana d'Arc, a salvadora de França. Descubra os efeitos de estabilização neuropsicológica de sua rotina de 'Silêncio Matinal' para manter a determinação, e um guia em 3 passos.
+Na prática desta rotina : Joan of Arc, the legendary figure who saved France during the Hundred Years' War and carved out her destiny through faith alone to become a Catholic saint. Where lay the source of strength that enabled a peasant girl who couldn't read to overcome the fear of death and maintain indomitable belief amidst threats of war, cold shoulders from nobles, and trials by the church? She sought quiet spaces, like cathedral corners or behind army tents, to engage in deep silent prayer every morning. This routine of blocking out all surrounding noise to focus solely on her inner call and promise granted her strong mental balance. Today, BuildSelf introduces the neurological relief effects and modern implementation of Joan of Arc's 'silent prayer' routine.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

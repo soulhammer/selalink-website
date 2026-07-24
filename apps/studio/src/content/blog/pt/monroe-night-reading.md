@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-Marilyn Monroe, o ícone do cinema de Hollywood. Atrás de sua imagem glamorosa, sofria o assédio constante da imprensa. A sua forma de proteger a identidade era un ritual noctuarno: lia clássicos como James Joyce e escrevia poemas. Analisemos como la escrita expresiva reduz o impacto do cortisol.
+Na prática desta rotina transformadora: 20 . , , , . 400 . , . . Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

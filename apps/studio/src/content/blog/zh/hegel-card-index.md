@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-作为德国观念论的集大成者，格奥尔格·威廉·弗里德里希·黑格尔（Hegel）建立的辩证法体系深刻影响了后世思想。他是如何梳理如此庞大而复杂的哲学体系的？ 🗃️
-
-黑格尔将每一个独立的概念记录在单张卡片上，并将数万张卡片分类收纳在木箱中。写作时，他会将卡片铺开在桌上重新组合，通过物理重排引发思想的辩证碰撞。
-
-今天 BuildSelf 将为您揭秘黑格尔卡片索引习惯背后的认知构架原理。
+在这一历史性惯例的实践中： , , , (G. W. F. Hegel). ? 🗃️ 在这一历史性惯例的实践中： . , . . 在这一历史性惯例的实践中： BuildSelf (Cognitive Scaffolding) .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

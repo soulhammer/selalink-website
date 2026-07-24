@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-1492年，哥伦布（Christopher Columbus）率领圣玛利亚号等三艘小型木船，横渡从未有人涉足的浩瀚大西洋。面对无边无际的海洋、以及水手们因恐惧而爆发的兵变危机，他是如何保持钢铁般的冷静指挥力的？ ⛵
-
-每天深夜，在暗淡的船舱烛光下，哥伦布都会将用象限仪测得的星体高度、风向变化以及磁偏角数据，严谨地记录在“航海日志”（Nautical Log）中。每当主观恐惧与焦虑袭来，这种将情绪转化为客观数据与地理坐标的记录习惯，成功平息了大脑杏仁核的恐慌反应，为远航注入了定海神针般的意志。
-
-今天 BuildSelf 将为您揭秘哥伦布航海日志习惯背后的神经科学，带您了解定量数据记录如何中和焦虑、增强高压下的专注韧性。
+在这一历史性惯例的实践中：1492, 3 ·· , (Christopher Columbus). ' ' ? ⛵ 在这一历史性惯例的实践中： (Astrolabe) , ' (Nautical Log)' . . 在这一历史性惯例的实践中： BuildSelf 3 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -16,10 +16,13 @@ steps:
     text: "ゆっくりと歩きながら、周囲の木の葉の色の変化、枝のパターン、鳥の声、土の香りなど、人工的な情報の代わりに自然が与える感覚的な刺激に意識的に注意を向けます。"
   - name: "ステップ3：復帰後のアイデア収穫"
     text: "散歩を終えてワークスペースに戻り、脳の休息によって新しく調整された考えや問題の解決策を記録します。完全に充電された前頭前野は、より明快な答えを導き出すでしょう。"
+faqs:
+  - question: "この習慣を毎日実践すべきですか？"
+    answer: "はい、毎日決まった時間に実践することで脳の神経可塑性が極大化します。"
 
 ---
 
-「自然を支配するには、まず自然に耳を傾けなければならない。」近代科学的方法論の基礎を築いたフランシス・ベーコンは、熱烈な庭園愛好家でした。彼は毎朝庭を散歩しながら、天気、植物の発育、土壌の変化を綿密に記録し、秘書に口述筆記させました。自然の中での朝の観察は、彼にとって単なる学術的な道具ではなく、複雑な認知負荷を解消する脳のデトックス時間でした。
+この歴史的なルーティンを毎日体系的に実践することで、現代の知識労働者は疲労を解消し、持持続可能な深い集中力を養うことができます。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -83,4 +86,19 @@ steps:
       散歩しながらスマホで写真を撮ったり、テキストメッセージに返信したり、教育的なポッドキャストを聞く行為は、脳の意図的注意力を使い続けさせます。注意回復効果を得るには、スマホを無音にして完全に遠ざける必要があります。ただオフラインの感覚的刺激だけに没頭してください。
     </p>
   </div>
+</div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>この習慣を毎日実践すべきですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      はい、毎日決まった時間に実践することで脳の神経可塑性が極大化します。
+    </p>
+  </details>
 </div>

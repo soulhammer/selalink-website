@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-La pénicilline, le premier antibiotique qui a sauvé des millions de vies. Est-elle née dans un laboratoire de haute technologie ? 🧫
+Cette pratique quotidienne essentielle favorise une concentration profonde et un ancrage solide.
 
-En fait, elle a été le produit d'une 'erreur' dans le laboratoire de Fleming. À son retour de vacances, Fleming s'est arrêté devant une boîte contaminée que d'autres auraient jetée. Son habitude d'examiner chaque détail a conduit à cette découverte.
-
-Aujourd'hui, BuildSelf analyse la routine de Fleming.
+En appliquant cette méthode avec régularité, vous développez un esprit clair et une grande capacité de création.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

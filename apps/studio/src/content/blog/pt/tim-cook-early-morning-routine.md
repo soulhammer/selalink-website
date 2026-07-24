@@ -24,11 +24,13 @@ faqs:
 
 ---
 
-Tim Cook, CEO da Apple. Qual é o seu segredo para assumir o controle do dia antes do ruído externo? ⌚
+Na prática desta rotina transformadora:  IT  (Apple) CEO           ,  (Tim Cook).       ,            ? ⌚
 
-Todos os dias às 3:45 da manhã, Cook lê e-mails de clientes e às 5:00 treina na academia. Essa quietude lhe dá controle total.
+Na prática desta rotina transformadora:    3 45     .    1      70~100           .   5      1       .           ,      '  '.
 
-Hoje, o BuildSelf explora os princípios da rotina matinal de Tim Cook.
+Na prática desta rotina transformadora:  BuildSelf   '  '          3  .
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

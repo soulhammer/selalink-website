@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-发明炸药、设立诺贝尔奖的阿弗雷德·诺贝尔。他拥有355项专利的秘诀是什么？ 🧪
-
-在白天的化学实验结束后，诺贝尔每晚都会回到书房，用5种语言复盘当天的日志。这成为了他提升元认知能力的最佳训练。
-
-今天，BuildSelf 将介绍诺贝尔的晚间复盘日志习惯。
+在这一历史性惯例的实践中： , . 355 ? 🧪 在这一历史性惯例的实践中： , . , , , , . 15 . 在这一历史性惯例的实践中： BuildSelf .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

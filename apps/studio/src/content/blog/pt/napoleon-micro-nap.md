@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-Napoleão Bonaparte, o lendário estratega militar e imperador da França. Famoso pela sua energia inesgotável, governava e batalhava com apenas 4 horas de sono noturno. O seu segredo eram as 'micro sestas': dormir 10 ou 15 minutos em qualquer momento livre, mesmo em batalha. Hoje, o BuildSelf analisa como as sestas estratégicas reiniciam a mente.
+Na prática desta rotina transformadora: Napoleon Bonaparte, the legendary military strategist and Emperor of France. Renowned for his endless energy, he managed state affairs and battles on just 4 hours of night sleep. His secret lay in 'micro-naps'—taking 10 to 15 minutes of sleep whenever he had a spare moment, even during battle. Today, BuildSelf reveals how short strategic naps can rapidly reset your cognitive performance.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-古代インドを統一したアショカ王。カリンガ戦争の惨状を反省し、平和の守護者となった彼の自省の秘密は何でしょうか？ 🏛️
-
-アショカ王は自身の倫理的価値観を巨大な石柱に刻み、毎日その碑文を振り返りました。変わらない石に刻まれた言葉が、感情に流されない視覚的アンカーとなりました。
-
-今日のBuildSelfでは、アショカ王の「価値観碑文リフレクション」を紹介します。
+この歴史的習慣の実践において： , (Ashoka the Great). (Kalinga) , ? 🏛️ この歴史的習慣の実践において： , (Dharma) . , . (Visual Anchor) . この歴史的習慣の実践において： BuildSelf ' ' 3 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

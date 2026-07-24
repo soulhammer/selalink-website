@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Roger Federer, Tennislegende. Was war sein Geheimnis für Höchstleistungen bis in die 40er? 🎾
+Diese wesentliche tägliche Praxis fördert tiefen Fokus und nachhaltige Klarheit.
 
-Federer betonte, dass er ohne 11-12 Stunden Schlaf nicht performen könne. Er kombinierte 10 Stunden Nachtschlaf mit Nickerchen.
-
-Heute untersucht BuildSelf Federers 12-Stunden-Schlafroutine.
+Durch die konsequente Umsetzung dieser Methode entwickeln Sie eine starke Konzentration.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

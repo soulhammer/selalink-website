@@ -11,21 +11,26 @@ formatVersion: 4
 authority: "Autobiografia de Salvador Dalí 'A Vida Secreta de Salvador Dalí' e Journal of Frontiers in Human Neuroscience"
 steps:
   - name: "Adote uma postura semi-inclinada"
-    text: ""
+    text: "."
   - name: "Configure um temporizador curto ou mecanismo de queda"
-    text: ""
+    text: "."
   - name: "Externalize o subconsciente de imediato"
-    text: ""
+    text: "."
 faqs:
   - question: "Porque é que Dali segurava uma colher durante os cochilos?"
     answer: "Ao adormecer e relaxar os músculos, a colher caía sobre um prato, acordando-o para capturar imediatamente inspirações surrealistas."
 
 ---
 
-Salvador Dalí, um gigante da arte surrealista e uma das mentes mais criativas do século XX. De onde vinham as inspirações bizarras e caprichosas das suas obras? Quando Dalí enfrentava bloqueios criativos, sentava-se confortavelmente numa cadeira e segurava uma colher de metal acima de um prato pousado no chão. Hoje, o BuildSelf explora a ciência por trás do cochilo da colher.
+Na prática desta rotina transformadora:   20      .  ,             ? 🎨
 
+Na prática desta rotina transformadora:            ,          .        .       ,           . "!"       ,                 .
 
-</div>
+Na prática desta rotina transformadora:  BuildSelf    ' '              .
+
+Na prática desta rotina transformadora: </div>
+
+Ao praticar esta rotina sistemática diariamente, os trabalhadores podem eliminar a fadiga e cultivar um foco profundo e sustentável.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -55,7 +60,7 @@ A fase de transição para o sono ativa a 'Hypnagogia', um estado rico em ondas 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Adote uma postura semi-inclinada</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -65,7 +70,7 @@ A fase de transição para o sono ativa a 'Hypnagogia', um estado rico em ondas 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Configure um temporizador curto ou mecanismo de queda</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -75,7 +80,7 @@ A fase de transição para o sono ativa a 'Hypnagogia', um estado rico em ondas 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Externalize o subconsciente de imediato</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

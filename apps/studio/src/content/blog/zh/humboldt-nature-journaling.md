@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-在亚马逊与安第斯山脉探险并奠定现代地理学与生态学基础的大探险家洪堡。他那整体性的洞察力源自现场即时笔记。🌿
-
-洪堡在严酷的探险现场，每当测量到数据时都会立即拿出笔记本精确记录。通过消除时间差，他发现了自然界的联系。
-
-今天，BuildSelf 将揭示洪堡“即时野外观察笔记”惯例的指南。
+在这一历史性惯例的实践中： (Chimborazo) , . ' ' ? 🌿 在这一历史性惯例的实践中： , , , . , ' (Cosmos)' . 在这一历史性惯例的实践中： BuildSelf ' ' 3 .
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

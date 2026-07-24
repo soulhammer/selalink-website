@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Louis Braille, l'inventeur qui a révolutionné la lecture pour tous. Comment a-t-il créé le système à 6 points ? ⠃
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
-Braille a compris que le code à 12 points était trop grand. En testant le toucher au quotidien, il a simplifié le système jusqu'à 6 points.
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
-Aujourd'hui, BuildSelf vous présente la routine de simplification de Braille.
+Cette pratique quotidienne essentielle favorise une concentration profonde et réduit la fatigue cognitive.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

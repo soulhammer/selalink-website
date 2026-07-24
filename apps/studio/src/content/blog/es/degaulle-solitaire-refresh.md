@@ -24,11 +24,7 @@ faqs:
 
 ---
 
-Charles de Gaulle lideró a 'Francia Libre' y fundó la Francia moderna. Bajo constante presión, ¿cómo manejaba el estrés? 🃏
-
-Su secreto era el 'Solitario'. Tarde en la noche, ordenaba cartas bajo la luz de velas. De acuerdo con secretarios, permanecía en silencio. Este simple juego apagaba el filtro de decisiones para recuperar su energía.
-
-Hoy, BuildSelf explora los principios de la mecedora de de Gaulle y propone una rutina de juego analógico.
+En la práctica de esta rutina transformadora: 2 ' ' , . . 🃏 En la práctica de esta rutina transformadora: . 1 , '(Solitaire)'. , . , . , . En la práctica de esta rutina transformadora: BuildSelf . Al practicar esta rutina sistemática a diario, los trabajadores del conocimiento pueden eliminar la fatiga y cultivar un enfoque profundo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

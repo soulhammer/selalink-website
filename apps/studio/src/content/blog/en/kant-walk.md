@@ -10,11 +10,11 @@ formatVersion: 4
 authority: "Manfred Kuehn's 'Kant: A Biography' & Journal of Neurobiology of Learning and Memory (JN)"
 steps:
   - name: "Set a Refresh Alarm at 3:30 PM"
-    text: ""
+    text: "."
   - name: "15-Minute Silent Walk Without a Smartphone"
-    text: ""
+    text: "."
   - name: "Regulate Your Breathing and Return"
-    text: ""
+    text: "."
 faqs:
   - question: "Why did Immanuel Kant go for a walk at exactly 3:30 PM every day?"
     answer: "It was a strict ritual to maintain his body's circadian rhythm to sustain high-level abstract philosophical research over decades, protecting his health and mental peace."
@@ -27,8 +27,7 @@ His walking time was so accurate that the citizens of Königsberg reportedly set
 
 Today, BuildSelf explores the medical benefits and modern practice of the master's strict lifestyle, where he took steps day after day without fail.
 
-
-</div>
+By practicing this routine daily, knowledge workers can eliminate fatigue and cultivate deep focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -60,7 +59,7 @@ Modern brain science also agrees with this. Regular walking (aerobic exercise) i
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Set a Refresh Alarm at 3:30 PM</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -70,7 +69,7 @@ Modern brain science also agrees with this. Regular walking (aerobic exercise) i
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">15-Minute Silent Walk Without a Smartphone</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 
@@ -80,7 +79,7 @@ Modern brain science also agrees with this. Regular walking (aerobic exercise) i
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Regulate Your Breathing and Return</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    .
   </p>
 </div>
 

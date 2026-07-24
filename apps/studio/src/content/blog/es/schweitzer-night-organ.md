@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-El Dr. Albert Schweitzer, Premio Nobel de la Paz, médico y filósofo. ¿Cómo superó el agotamiento físico en la selva africana? 🎹
+Esta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.
 
-Cada noche, el Dr. Schweitzer se sentaba al piano y tocaba a Bach. Sumergirse en esas melodías era su rutina de 'reinicio del sistema nervioso'.
+Esta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.
 
-Hoy, BuildSelf presenta la ciencia tras la rutina del Dr. Schweitzer.
+Esta práctica diaria esencial fomenta un enfoque profundo y reduce la fatiga cognitiva.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
