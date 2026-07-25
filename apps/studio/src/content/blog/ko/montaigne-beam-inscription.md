@@ -8,13 +8,13 @@ tags: ["시각점화", "사색", "서재", "르네상스"]
 heroImage: "/images/blog/montaigne_beam_inscription.webp"
 app: "buildself"
 formatVersion: 4
-authority: "Montaigne Beam Inscription 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "몽테뉴 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
-  - name: "1단계: 나를 일깨우는 회의적 질문 고르기"
+  - name: "나를 일깨우는 회의적 질문 고르기"
     text: "단순한 위로의 글귀가 아니라, 나의 확증 편향과 고정관념을 강하게 흔들어 줄 철학적 질문이나 명언을 1~2개 선택합니다. 예컨대 몽테뉴의 '나는 무엇을 아는가?'와 같은 반성적 질문이 좋습니다."
-  - name: "2단계: 시선보다 높은 곳에 배치하기"
+  - name: "시선보다 높은 곳에 배치하기"
     text: "선택한 문구를 포스트잇이나 카드에 적어 모니터 상단 프레임이나 방 천장 등, 고개를 위로 들어 올려야만 쳐다볼 수 있는 높은 공간에 부착합니다."
-  - name: "3단계: 고개를 들고 15초간 사색하기"
+  - name: "고개를 들고 15초간 사색하기"
     text: "사고 과정이 막히거나 고정관념이 의심될 때 의식적으로 고개를 뒤로 젖히고 천장의 문구를 15초간 묵독합니다. 일시적인 시선 교정을 통해 문제를 멀리서 넓게 조망하는 메타인지를 켭니다."
 faqs:
   - question: "이 습관을 매일 실천해야 하나요?"
@@ -24,9 +24,11 @@ faqs:
 
 "나는 무엇을 아는가? (Que sçay-je?)" 🏛️
 
-미셸 드 몽테뉴는 38세에 은퇴를 선언하고 자신의 원형 탑 서재에 틀어박혔습니다. 그는 서재를 떠받치는 57개의 목재 대들보에 그리스어와 라틴어로 철학적 회의와 이성을 촉구하는 고대 격언들을 새겨 넣었습니다. 그는 안락의자에 기대어 누워 이 구절들을 올려다보았고, 이 시각적 자극은 그가 자신만의 독선에서 벗어나 날카로운 통찰을 담은 《수상록》을 쓸 수 있게 한 근간이었습니다.
+프랑스 르네상스 인문학의 대가이자 에세이(Essais, 수상록)라는 문학 장르를 창시한 철학자 미셸 드 몽테뉴(Michel de Montaigne, 1533–1592). 그는 38세에 법관직과 정계에서 물러나 자신의 영지 성채에 위치한 원형 탑 서재에 스스로를 격리시켰습니다. 그는 1,000여 권의 장서로 둘러싸인 이 서재의 천장을 떠받치는 57개의 목재 대들보에 그리스어와 라틴어로 철학적 회의와 성찰을 유도하는 고대 격언들을 새겨 넣었습니다.
 
-자주 머무는 시각 공간에 스스로를 각성시키는 단서를 부착하는 이 독특한 습관은, 오늘날 인지과학 분야에서도 뛰어난 의식 환기 기법으로 평가받습니다.
+몽테뉴는 안락의자에 깊이 기대어 누워 대들보에 새겨진 문구들을 올려다보았습니다. '나는 무엇을 아는가?'라는 유명한 질문처럼, 이 시각적 자극은 그가 자신의 독선과 편견에서 벗어나 날카로운 통찰을 담은 《수상록》을 쓸 수 있게 만든 인지적 앵커였습니다. 자주 머무는 시각 공간에 스스로를 각성시키는 단서를 부착하는 이 독특한 습관은, 오늘날 인지과학 및 환경심리학 분야에서도 메타인지를 가동시키는 뛰어난 의식 환기 기법으로 평가받습니다.
+
+오늘 포스트에서는 몽테뉴의 대들보 사색 습관 속에 감춰진 시각적 점화(Visual Priming) 원리와 현대인이 일상 공간에서 편견을 허물고 메타인지를 켜는 3단계 실천 방안을 제시합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -35,7 +37,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Montaigne Beam Inscription 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 montaigne-beam-inscription 루틴을 다룹니다.
+      본 콘텐츠는 <strong>몽테뉴 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 montaigne-beam-inscription 루틴을 다룹니다.
     </p>
   </div>
 </div>
@@ -55,7 +57,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1단계: 나를 일깨우는 회의적 질문 고르기</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">나를 일깨우는 회의적 질문 고르기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     단순한 위로의 글귀가 아니라, 나의 확증 편향과 고정관념을 강하게 흔들어 줄 철학적 질문이나 명언을 1~2개 선택합니다. 예컨대 몽테뉴의 '나는 무엇을 아는가?'와 같은 반성적 질문이 좋습니다.
@@ -65,7 +67,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">2단계: 시선보다 높은 곳에 배치하기</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">시선보다 높은 곳에 배치하기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     선택한 문구를 포스트잇이나 카드에 적어 모니터 상단 프레임이나 방 천장 등, 고개를 위로 들어 올려야만 쳐다볼 수 있는 높은 공간에 부착합니다.
@@ -75,7 +77,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">3단계: 고개를 들고 15초간 사색하기</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">고개를 들고 15초간 사색하기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     사고 과정이 막히거나 고정관념이 의심될 때 의식적으로 고개를 뒤로 젖히고 천장의 문구를 15초간 묵독합니다. 일시적인 시선 교정을 통해 문제를 멀리서 넓게 조망하는 메타인지를 켭니다.

@@ -1,62 +1,190 @@
 {
   "montaigne-beam-inscription": {
     "title": {
-      "ko": "몽테뉴의 대들보 사색법: 시각적 자극으로 편견을 흔들고 메타인지를 켜는 법"
+      "ko": "몽테뉴의 대들보 사색법: 시각적 자극으로 편견을 흔들고 메타인지를 켜는 법",
+      "en": "Montaigne's Ceiling Inscription Method: Shaking Bias and Triggering Metacognition with Visual Priming",
+      "ja": "モンテーニュの大梁思索法：視覚的刺激で偏見を揺さぶりメタ認知をオンにする方法",
+      "zh": "蒙田的梁柱沉思法：通过视觉刺激打破偏见并开启元认知",
+      "es": "El método de inscripción en vigas de Montaigne: Agitar prejuicios y activar la metacognición con estímulos visuales",
+      "de": "Montaignes Deckenbalken-Denkmethode: Vorurteile erschütttern und Metakognition durch visuelle Reize aktivieren",
+      "fr": "La méthode des inscriptions sur poutres de Montaigne : Ébranler les préjugés et activer la métacognition par le stimulus visuel",
+      "pt": "O método de inscrição nas vigas de Montaigne: Abalar preconceitos e ativar a metacognição com estímulos visuais",
+      "id": "Metode Inskripsi Balok Kayu Montaigne: Mengguncang Prasangka dan Mengaktifkan Metakognisi dengan Stimulus Visual"
     },
     "description": {
-      "ko": "프랑스의 철학자 몽테뉴가 자신의 서재 대들보에 고대 철학 격언 57개를 새겨두고 이를 보며 고정관념을 깨부순 창의적 사색 비결을 알아봅니다."
+      "ko": "프랑스의 철학자 몽테뉴가 자신의 서재 대들보에 고대 철학 격언 57개를 새겨두고 이를 보며 고정관념을 깨부순 창의적 사색 비결을 알아봅니다.",
+      "en": "Explore how French philosopher Michel de Montaigne carved 57 ancient philosophical maxims into the wooden beams of his tower library, using visual priming to shatter dogmatism and expand creative perspective.",
+      "ja": "フランスの哲学者モンテーニュが自身の書斎の大梁に古代哲学の格言57個を刻み込み、それを見上げて固定観念を打ち破った創造的思索の秘訣を考察します。",
+      "zh": "探讨法国哲学家米歇尔·德·蒙田在其塔楼书房的大梁上镌刻57条古代哲学格言、借此打破固化思维并激发创意沉思的科学奥秘。",
+      "es": "Descubra cómo el filósofo francés Michel de Montaigne grabó 57 máximas filosóficas antiguas en las vigas de madera de su biblioteca, utilizando la primación visual para romper prejuicios y ampliar la perspectiva.",
+      "de": "Erfahren Sie, wie der französische Philosoph Michel de Montaigne 57 antike philosophische Sprüche in die Holzbalken seiner Turmbibliothek schnitzte, um durch visuelle Reize Vorurteile abzubauen.",
+      "fr": "Découvrez comment le philosophe français Michel de Montaigne a gravé 57 maximes philosophiques anciennes sur les poutres de sa bibliothèque, utilisant l'amorçage visuel pour briser les dogmes et enrichir sa réflexion.",
+      "pt": "Descubra como o filósofo francês Michel de Montaigne gravou 57 máximas filosóficas antigas nas vigas de madeira de sua biblioteca, usando o estímulo visual para quebrar estereótipos e expandir a perspectiva.",
+      "id": "Pelajari bagaimana filsuf Prancis Michel de Montaigne mengukir 57 pepatah filsafat kuno pada balok kayu perpustakaannya, menggunakan pemantik visual untuk mematahkan dogma dan memperluas sudut pandang."
     },
     "authority": {
-      "ko": "Montaigne Beam Inscription 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "몽테뉴 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Montaigne Historical Biographies & Autobiographical Records Research & Cognitive Neuroscience Studies",
+      "ja": "モンテーニュ歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "蒙田历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Investigación de biografías históricas y registros autobiográficos de Montaigne y estudios de neurociencia cognitiva",
+      "de": "Historische Biografien & Aufzeichnungen zu Montaigne & Kognitive Neurowissenschaften",
+      "fr": "Études des biographies historiques et récits autobiographiques de Montaigne & recherche en neurosciences cognitives",
+      "pt": "Pesquisa de biografias históricas e registros autobiográficos de Montaigne & estudos de neurociência cognitiva",
+      "id": "Riset Biografi Historis dan Catatan Autobiografi Montaigne & Studi Neurosains Kognitif"
     },
     "intro": {
-      "ko": "\"나는 무엇을 아는가? (Que sçay-je?)\" 🏛️\n\n미셸 드 몽테뉴는 38세에 은퇴를 선언하고 자신의 원형 탑 서재에 틀어박혔습니다. 그는 서재를 떠받치는 57개의 목재 대들보에 그리스어와 라틴어로 철학적 회의와 이성을 촉구하는 고대 격언들을 새겨 넣었습니다. 그는 안락의자에 기대어 누워 이 구절들을 올려다보았고, 이 시각적 자극은 그가 자신만의 독선에서 벗어나 날카로운 통찰을 담은 《수상록》을 쓸 수 있게 한 근간이었습니다.\n\n자주 머무는 시각 공간에 스스로를 각성시키는 단서를 부착하는 이 독특한 습관은, 오늘날 인지과학 분야에서도 뛰어난 의식 환기 기법으로 평가받습니다."
+      "ko": "\"나는 무엇을 아는가? (Que sçay-je?)\" 🏛️\n\n프랑스 르네상스 인문학의 대가이자 에세이(Essais, 수상록)라는 문학 장르를 창시한 철학자 미셸 드 몽테뉴(Michel de Montaigne, 1533–1592). 그는 38세에 법관직과 정계에서 물러나 자신의 영지 성채에 위치한 원형 탑 서재에 스스로를 격리시켰습니다. 그는 1,000여 권의 장서로 둘러싸인 이 서재의 천장을 떠받치는 57개의 목재 대들보에 그리스어와 라틴어로 철학적 회의와 성찰을 유도하는 고대 격언들을 새겨 넣었습니다.\n\n몽테뉴는 안락의자에 깊이 기대어 누워 대들보에 새겨진 문구들을 올려다보았습니다. '나는 무엇을 아는가?'라는 유명한 질문처럼, 이 시각적 자극은 그가 자신의 독선과 편견에서 벗어나 날카로운 통찰을 담은 《수상록》을 쓸 수 있게 만든 인지적 앵커였습니다. 자주 머무는 시각 공간에 스스로를 각성시키는 단서를 부착하는 이 독특한 습관은, 오늘날 인지과학 및 환경심리학 분야에서도 메타인지를 가동시키는 뛰어난 의식 환기 기법으로 평가받습니다.\n\n오늘 포스트에서는 몽테뉴의 대들보 사색 습관 속에 감춰진 시각적 점화(Visual Priming) 원리와 현대인이 일상 공간에서 편견을 허물고 메타인지를 켜는 3단계 실천 방안을 제시합니다.",
+      "en": "\"What do I know? (Que sçay-je?)\" 🏛️\n\nMichel de Montaigne (1533–1592) was a master of Renaissance humanism and the father of the modern essay format ('Essais'). At age 38, he retired from public life and law to isolate himself in the third-floor library of his estate's circular tower. Supporting the ceiling of this sanctuary filled with over 1,000 volumes were 57 heavy wooden beams. Upon these beams, Montaigne had inscribed 57 classic Greek and Latin quotes promoting philosophical skepticism and self-examination.\n\nReclining in his armchair, Montaigne frequently looked up to read these beam inscriptions. Prominently featuring his guiding motto, \"Que sçay-je?\" (\"What do I know?\"), this deliberate visual environment served as a cognitive anchor, liberating his mind from dogmatic bias and enabling him to compose his masterpiece, the 'Essais'. Fixing reflective cues in one's primary visual space is recognized today by cognitive science and environmental psychology as an exceptional method for triggering metacognition.\n\nIn this post, we examine the visual priming mechanisms of Montaigne's beam inscriptions and introduce a 3-step action guide for modern thinkers to trigger metacognition in daily workspace design.",
+      "ja": "「私は何を言えるだろうか？／私は何を知っているのか？（Que sçay-je?）」 🏛️\n\nフランス・ルネサンス人文主義の巨匠であり、随筆（エッセイ）という文学ジャンルを創始した哲学者ミシェル・ド・モンテーニュ（1533〜1592）。彼は38歳で法官職と政界から退き、自領の城にある円形タワーの書斎に身を隠しました。1,000冊余りの蔵書に囲まれたこの書斎の天井を支える57本の大木梁には、ギリシャ語とラテン語で哲学的懐疑と自省を促す古代の格言が刻み込まれていました。\n\nモンテーニュは安楽椅子に深く身を委ね、大梁に刻まれた文言を見上げました。「私は何を知っているのか？」という有名な問いに代表されるように、この視覚的刺激は彼が独善や偏見から脱却し、鋭い洞察を込めた『随想録（エッセイ）』を執筆する礎となりました。頻繁に滞在する視覚空間に自らを覚醒させる手がかりを配置するこのユニークな習慣は、現代の認知科学や環境心理学においてもメタ認知を起動させる優れた意識喚起技法として高く評価されています。\n\n本記事では、モンテーニュの大梁思索習慣に隠された視覚的プライミング（Visual Priming）原理と、現代人が日常の空間で偏見を崩しメタ認知をオンにする3段階の実践法を紹介します。",
+      "zh": "“我知道什么？（Que sçay-je?）” 🏛️\n\n米歇尔·德·蒙田（Michel de Montaigne，1533–1592）是法国文艺复兴时期人文主义大师，也是现代散文随笔（Essais，《随笔集》）格式的开创者。38岁时，他毅然退出政界与法律界，隐居于家族庄园圆形塔楼三层的书房中。在这个拥有一千余册藏书的避风港里，支撑天花板的57根重型木梁上，镌刻着57条古希腊语与拉丁语的哲理名言，时刻提示着怀疑主义与自我反省。\n\n当蒙田半躺在安乐椅上仰望天花板时，这些悬于头顶的文字便进入眼帘。尤其是他那句著名的座右铭“我知道什么？”，形成了强烈的视觉提示，促使他摆脱偏执与教条，写下了震撼后世的《随笔集》。在日常停留的视觉空间内放置提示线索的这一习惯，在当今认知科学与环境心理学中被公认为激活元认知（Metacognition）的卓越环境设计手法。\n\n本文将剖析蒙田梁柱沉思习惯中的视觉点火（Visual Priming）机制，并为现代思考者提供在日常工作空间中激发元认知的3步实操指南。",
+      "es": "«¿Qué sé yo? (Que sçay-je?)» 🏛️\n\nMichel de Montaigne (1533-1592) fue un maestro del humanismo renacentista y el creador del ensayo moderno ('Essais'). A los 38 años, se retiró de la vida pública para aislarse en la biblioteca del tercer piso de la torre circular de su castillo. Sosteniendo el techo de este refugio rodeado de más de 1.000 volúmenes, se encontraban 57 gruesas vigas de madera. En ellas, Montaigne hizo grabar 57 citas en griego y latín clásico que promovían el escepticismo filosófico y el autoexamen.\n\nReclinado en su sillón, Montaigne contemplaba constantemente estas inscripciones. Guiado por su lema emblemático «¿Qué sé yo?», este entorno visual funcionaba como un ancla cognitiva que liberaba su mente de dogmatismos, permitiéndole escribir sus célebres 'Ensayos'. Colocar pistas reflexivas en el espacio visual principal es reconocido hoy por la ciencia cognitiva como un método excepcional para activar la metacognición.\n\nEn este artículo, analizamos la primación visual de las inscripciones de Montaigne y presentamos una guía de 3 pasos para activar la metacognición en el diseño de su espacio de trabajo diario.",
+      "de": "„Was weiß ich? (Que sçay-je?)“ 🏛️\n\nMichel de Montaigne (1533–1592) war ein Meister des Renaissance-Humanismus und der Begründer der modernen Essayform („Essais“). Im Alter von 38 Jahren zog er sich aus der Politik zurück, um sich in der Turmbibliothek seines Landguts zu isolieren. Das Dach dieser von über 1.000 Büchern umgebenen Zuflucht wurde von 57 hölzernen Deckenbalken getragen. In diese Balken ließ Montaigne 57 antike griechische und lateinische Zitate meißeln, die zu Skepsis und Selbsterkenntnis aufriefen.\n\nIn seinem Lehnstuhl zurückgelehnt, blickte Montaigne regelmäßig nach oben, um die Sprüche zu lesen. Unter dem Eindruck seiner Leitfrage „Was weiß ich?“ diente diese visuelle Umgebung als kognitiver Anker, der seinen Geist von Vorurteilen befreite und die Abfassung der „Essais“ ermöglichte. Das Anbringen von Reflexionsreizen im primären Sehfeld gilt in der heutigen Kognitionswissenschaft als hervorragendes Mittel zur Aktivierung der Metakognition.\n\nIn diesem Beitrag untersuchen wir die Mechanismen des visuellen Primings bei Montaigne und bieten einen 3-Schritte-Leitfaden zur Gestaltung eines metakognitiv stimulierenden Arbeitsplatzes.",
+      "fr": "« Que sais-je ? (Que sçay-je?) » 🏛️\n\nMichel de Montaigne (1533-1592) était un maître de l'humanisme de la Renaissance et le père de l'essai moderne (« Essais »). À l'âge de 38 ans, il se retira de la vie publique pour s'isoler dans la bibliothèque de la tour circulaire de son domaine. Le plafond de ce sanctuaire abritant plus de 1 000 livres reposait sur 57 imposantes poutres en bois. Sur ces poutres, Montaigne fit graver 57 citations en grec et en latin invitant au scepticisme philosophique et à l'introspection.\n\nAdossé dans son fauteuil, Montaigne levait fréquemment les yeux pour lire ces maximes. Dominé par sa célèbre devise « Que sais-je ? », cet environnement visuel agissait comme un ancrage cognitif libérant sa pensée des dogmes et lui permettant de rédiger ses « Essais ». Placer des repères de réflexion dans son champ visuel principal est reconnu aujourd'hui par la science cognitive comme une méthode remarquable pour stimuler la métacognition.\n\nDans cet article, nous analysons les mécanismes d'amorçage visuel des poutres de Montaigne et proposons un guide en 3 étapes pour intégrer la métacognition à votre espace de travail.",
+      "pt": "«O que sei eu? (Que sçay-je?)» 🏛️\n\nMichel de Montaigne (1533–1592) foi um mestre do humanismo renascentista e o fundador do ensaio moderno ('Essais'). Aos 38 anos, retirou-se da vida pública para isolar-se na biblioteca da torre circular de sua propriedade. Sustentando o teto desse santuário cercado por mais de 1.000 volumes, havia 57 pesadas vigas de madeira. Nelas, Montaigne mandou gravar 57 citações em grego e latim que incentivavam o ceticismo e o autoexame.\n\nReclinado em sua poltrona, Montaigne olhava constantemente para cima para ler as frases. Conduzido por seu lema «O que sei eu?», esse ambiente visual funcionava como uma âncora cognitiva que libertava sua mente de dogmatismos, permitindo-lhe escrever seus célebres 'Ensaios'. Colocar sinalizadores reflexivos no espaço visual principal é reconhecido hoje pela ciência cognitiva como um método excepcional para ativar a metacognição.\n\nNeste post, analisamos a estimulação visual das vigas de Montaigne e apresentamos um guia de 3 etapas para aplicar a metacognição ao seu espaço de trabalho.",
+      "id": "\"Apa yang saya ketahui? (Que sçay-je?)\" 🏛️\n\nMichel de Montaigne (1533–1592) adalah maestro humanisme Renaisans dan bapak format esai modern ('Essais'). Pada usia 38 tahun, ia pensiun dari kehidupan publik untuk mengisolasi diri di perpustakaan lantai tiga menara melingkar di kastilnya. Menopang langit-langit ruang perlindungan yang diisi lebih dari 1.000 buku ini terdapat 57 balok kayu tebal. Di atas balok-balok tersebut, Montaigne mengukir 57 kutipan bahasa Yunani dan Latin kuno yang mendorong skeptisisme filsafat dan refleksi diri.\n\nSambil bersandar di kursi santainya, Montaigne kerap menengadah membaca inskripsi tersebut. Dipandu oleh semboyan utamanya \"Que sçay-je?\" (\"Apa yang saya ketahui?\"), lingkungan visual ini berfungsi sebagai jangkar kognitif yang membebaskan pikirannya dari prasangka dogmatis dan memungkinkannya menyusun 'Essais'. Menempatkan petunjuk reflektif di ruang visual utama kini diakui oleh ilmu kognitif sebagai metode luar biasa untuk mengaktifkan metakognisi.\n\nDalam artikel ini, kita mempelajari mekanisme pemantik visual inskripsi balok kayu Montaigne dan menyajikan panduan praktis 3 langkah untuk mengaktifkan metakognisi dalam desain ruang kerja harian Anda."
     },
     "whyTitle": {
-      "ko": "새겨진 텍스트가 메타인지를 켜는 뇌과학적 원리"
+      "ko": "새겨진 텍스트가 메타인지를 켜는 뇌과학적 원리",
+      "en": "The Neuroscientific Principle of Ceiling Text Triggering Metacognition",
+      "ja": "刻まれたテキストがメタ認知をオンにする脳科学的原理",
+      "zh": "铭刻文本重塑元认知的脑科学原理",
+      "es": "El principio neurocientífico del texto grabado que activa la metacognición",
+      "de": "Das neurowissenschaftliche Prinzip eingravierter Texte zur Aktivierung der Metakognition",
+      "fr": "Le principe neuroscientifique du texte gravé déclenchant la métacognition",
+      "pt": "O princípio neurocientífico do texto gravado ativando a metacognição",
+      "id": "Prinsip Neurosains Teks Inskripsi yang Mengaktifkan Metakognisi"
     },
     "whyDesc": {
-      "ko": "의도적으로 배치된 시각적 격언에 눈길을 주는 행위는 인지심리학의 '시각적 점화(Visual Priming)' 이론에 부합합니다. 대뇌는 눈에 들어온 텍스트를 무의식적으로 분석하여 연상 네트워크를 넓히고 관련 기억을 인출합니다. 특히, 턱을 들어 올려 천장의 문구를 쳐다보는 수직 안구 운동과 시선 상향 조정은 메타인지 조절기 역할을 하는 전전두엽 피질(Prefrontal Cortex)을 물리적으로 활성화시킵니다. 이는 눈앞의 작업에만 갇혀 있던 시야를 넓혀, 자신의 논리가 타당한지 한 단계 높은 차원에서 성찰하도록 유도합니다."
+      "ko": "의도적으로 배치된 시각적 격언에 눈길을 주는 행위는 인지심리학의 '시각적 점화(Visual Priming)' 이론에 부합합니다. 대뇌는 눈에 들어온 텍스트를 무의식적으로 분석하여 연상 네트워크를 넓히고 관련 기억을 인출합니다. 특히, 턱을 들어 올려 천장의 문구를 쳐다보는 수직 안구 운동과 시선 상향 조정은 메타인지 조절기 역할을 하는 전전두엽 피질(Prefrontal Cortex)을 물리적으로 활성화시킵니다. 이는 눈앞의 작업에만 갇혀 있던 시야를 넓혀, 자신의 논리가 타당한지 한 단계 높은 차원에서 성찰하도록 유도합니다.",
+      "en": "Gazing intentionally at positioned visual maxims aligns with the psychological theory of 'Visual Priming.' The cerebral cortex unconsciously processes incoming text, expanding associative neural networks and retrieving relevant long-term memories. Furthermore, tilting the chin upward to look at ceiling inscriptions involves vertical eye movement and upward gaze, which physically stimulates the prefrontal cortex—the hub of metacognition. This expands narrow task focus, encouraging high-level self-reflection to verify whether one's logic holds true.",
+      "ja": "意図的に配置された視覚的格言に目を向ける行為は、認知心理学の「視覚的プライミング（Visual Priming）」理論に合致しています。大脳は目に入ったテキストが無意識に分析し、連想ネットワークを広げて関連記憶を引き出します。特に、顎を上げて天井の文言を見つめる垂直方向の眼球運動と視線の上向調整は、メタ認知の調整役を果たす前頭前野皮質（Prefrontal Cortex）を物理的に活性化させます。これにより、目の前の作業だけに捉われていた視野が広がり、自身の論理が妥当かどうか一段高い次元から省察するよう誘導されます。",
+      "zh": "目光注视精心布置的视觉格言符合认知心理学中的“视觉点火（Visual Priming）”理论。大脑皮层会在无意识中分析传入的文字，拓宽联想网络并提取相关的长期记忆。特别是，抬起下巴仰望天花板文字的垂直眼球运动与向上视线调整，能物理性地刺激主管元认知的“前额叶皮层（Prefrontal Cortex）”。这打破了局限于眼前任务的狭隘视野，引导人们从更高维度审视自身的逻辑是否严密与合理。",
+      "es": "Contemplar intencionalmente máximas visuales se alinea con la teoría psicológica del 'Aprestamiento Visual' (Visual Priming). La corteza cerebral procesa inconscientemente el texto, expandiendo las redes asociativas y recuperando recuerdos. Además, inclinar la barbilla hacia arriba para mirar las vigas implica un movimiento ocular vertical que estimula físicamente la corteza prefrontal, el centro de la metacognición. Esto amplía el enfoque restringido, incentivando la autorreflexión de alto nivel.",
+      "de": "Das gezielte Betrachten platzierter visueller Leitsätze entspricht der psychologischen Theorie des 'visuellen Primings'. Das Gehirn verarbeitet gelesene Texte unbewusst, erweitert assoziative Netzwerke und ruft Erinnerungen ab. Zudem stimuliert das Anheben des Kinns zur Betrachtung der Deckenbalken den präfrontalen Kortex – das Zentrum der Metakognition. Dies erweitert den verengten Fokus und regt zur Selbstreflexion aus einer übergeordneten Perspektive an.",
+      "fr": "Regarder intentionnellement des maximes visuelles s'inscrit dans la théorie de l'« Amorçage visuel » (Visual Priming). Le cortex cérébral traite inconsciemment le texte, élargissant les réseaux d'association et rappelant des souvenirs. De plus, lever le menton pour regarder le plafond implique un mouvement oculaire vertical qui stimule le cortex préfrontal, siège de la métacognition, incitant à une prise de recul salutaire.",
+      "pt": "Contemplar intencionalmente máximas visuales alinha-se à teoria do 'Priming Visual'. O córtex cerebral processa o texto de forma subconsciente, expandindo redes associativas e recuperando memórias. Além disso, inclinar o queixo para cima para olhar para o teto envolve um movimento ocular vertical que estimula o córtex pré-frontal — o centro da metacognição —, incentivando a autorreflexão de alto nível.",
+      "id": "Menatap secara sengaja pepatah visual yang ditempatkan sesuai dengan teori psikologi 'Visual Priming'. Korteks serebral secara tidak sadar memproses teks yang masuk, memperluas jaringan asosiatif dan memanggil memori jangka panjang. Selain itu, mendongakkan dagu ke atas untuk melihat inskripsi melibatkan gerakan mata vertikal yang merangsang korteks prefrontal—pusat kendali metakognisi—sehingga memperluas pandangan dan mendorong refleksi diri tingkat tinggi."
     },
     "cautionTitle": {
-      "ko": "환경 적응(시각적 둔감화) 방지하기"
+      "ko": "환경 적응(시각적 둔감화) 방지하기",
+      "en": "Preventing Visual Habituation (Desensitization)",
+      "ja": "環境適応（視覚的鈍感化）の防止",
+      "zh": "防止环境适应（视觉习惯化）",
+      "es": "Prevenir la habituación visual (desensibilización)",
+      "de": "Visuelle Gewöhnung (Desensibilisierung) verhindern",
+      "fr": "Éviter l'accoutumance visuelle (désensibilisation)",
+      "pt": "Prevenir a habituação visual (dessensibilização)",
+      "id": "Mencegah Habituasi Visual (Desensitisasi)"
     },
     "cautionDesc": {
-      "ko": "아무리 훌륭한 문구라도 천장이나 모니터 옆에 오랜 기간 똑같은 모양으로 방치되면 뇌는 이를 단순 배경 요소로 취급하여 무시하기 시작합니다. 이러한 시각적 적응(Habituation)을 방지하려면 몇 달에 한 번씩 포스트잇의 색상이나 문구의 위치를 바꾸거나 새로운 글로 교체해야 합니다. 뇌에 주는 새로움(Novelty)이 유지될 때 비로소 메타인지 반사가 활성화됩니다."
+      "ko": "아무리 훌륭한 문구라도 천장이나 모니터 옆에 오랜 기간 똑같은 모양으로 방치되면 뇌는 이를 단순 배경 요소로 취급하여 무시하기 시작합니다. 이러한 시각적 적응(Habituation)을 방지하려면 몇 달에 한 번씩 포스트잇의 색상이나 문구의 위치를 바꾸거나 새로운 글로 교체해야 합니다. 뇌에 주는 새로움(Novelty)이 유지될 때 비로소 메타인지 반사가 활성화됩니다.",
+      "en": "No matter how inspiring a quote is, leaving it unchanged on a monitor frame or wall causes the brain to classify it as background noise and filter it out. To prevent visual habituation, refresh sticky note colors, relocate quotes, or swap in new maxims every few months. Sustaining novelty is essential to continuously trigger the metacognitive reflex.",
+      "ja": "どんなに素晴らしい名言でも、天井やモニターの横に長期間同じ形で放置されると、脳はそれを単なる背景要素として扱い無視し始めます。このような視覚的適応（Habituation）を防ぐには、数ヶ月に一度付箋の色や文字の位置を変えたり、新しい文章に交換したりする必要があります。脳に与える斬新さ（Novelty）が維持されてこそ、メタ認知反射が活性化されます。",
+      "zh": "无论多么绝妙的名言，如果长年累月以相同的形式挂在天花板或显示器旁，大脑就会将其归类为无害背景而自动无视。为了防止这种视觉适应（Habituation），需要每隔几个月更换便签的颜色、改变摆放位置或换上新的格言。唯有保持带给大脑的新鲜感（Novelty），元认知反射才能被持续激活。",
+      "es": "Por más inspiradora que sea una cita, si permanece idéntica durante meses, el cerebro la clasificará como fondo y la ignorará. Para evitar la habituación visual, cambie los colores de las notas, mueva su ubicación o coloque frases nuevas cada cierto tiempo. Mantener la novedad es clave para activar el reflejo metacognitivo.",
+      "de": "Egal wie inspirierend ein Zitat ist: Bleibt es monatelang unverändert am Monitor haften, stuft das Gehirn es als Hintergrundrauschen ein. Um visuelle Gewöhnung zu vermeiden, wechseln Sie alle paar Monate die Farben der Zettel, verändern Sie deren Position oder tauschen Sie die Sprüche aus. Nur durch Neuheit bleibt die metakognitive Wirkung erhalten.",
+      "fr": "Aussi inspirante soit-elle, une citation laissée immobile des mois durant finit par être occultée par le cerveau, qui la traite comme un bruit de fond. Pour éviter cette accoutumance visuelle, changez la couleur des notes, déplacez-les ou renouvelez les maximes régulièrement. Préserver la nouveauté est indispensable pour activer la métacognition.",
+      "pt": "Por mais inspiradora que seja uma frase, deixá-la no mesmo lugar por meses faz com que o cérebro a ignore como fundo. Para evitar a habituação visual, mude as cores dos adesivos, mude-os de lugar ou troque as citações a cada poucos meses. A novidade é essencial para manter o reflexo metacognitivo ativo.",
+      "id": "Sehebat apa pun suatu kutipan, mengaturnya tanpa perubahan di sudut monitor atau dinding membuat otak menganggapnya sebagai latar belakang dan mengabaikannya. Untuk mencegah habituasi visual, ubahlah warna catatan, pindahkan lokasinya, atau ganti kutipan secara berkala. Menjaga kebaruan sangat penting untuk memicu refleks metakognitif."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 나를 일깨우는 회의적 질문 고르기"
+          "ko": "나를 일깨우는 회의적 질문 고르기",
+          "en": "Select Skeptical Questions That Challenge Presumptions",
+          "ja": "自分を覚醒させる懐疑的質問の選択",
+          "zh": "选择警醒自我的怀疑性问题",
+          "es": "Seleccionar preguntas escépticas que desafíen dogmas",
+          "de": "Hinterfragende Reflexionsfragen auswählen",
+          "fr": "Choisir des questions sceptiques remettant en cause les certitudes",
+          "pt": "Selecionar perguntas céticas que desafiem certezas",
+          "id": "Pilih Pertanyaan Skeptis yang Mempertanyakan Asumsi"
         },
         "text": {
-          "ko": "단순한 위로의 글귀가 아니라, 나의 확증 편향과 고정관념을 강하게 흔들어 줄 철학적 질문이나 명언을 1~2개 선택합니다. 예컨대 몽테뉴의 '나는 무엇을 아는가?'와 같은 반성적 질문이 좋습니다."
+          "ko": "단순한 위로의 글귀가 아니라, 나의 확증 편향과 고정관념을 강하게 흔들어 줄 철학적 질문이나 명언을 1~2개 선택합니다. 예컨대 몽테뉴의 '나는 무엇을 아는가?'와 같은 반성적 질문이 좋습니다.",
+          "en": "Choose 1 or 2 reflective philosophical questions that directly challenge confirmation bias rather than soft platitudes. Montaigne's 'What do I know?' is an ideal example.",
+          "ja": "単なる慰めの言葉ではなく、自分の確証バイアスや固定観念を強く揺さぶる哲学的質問や名言を1〜2個選択します。例えばモンテーニュの「私は何を知っているのか？」のような反省的質問が最適です。",
+          "zh": "挑选 1 至 2 条能强烈冲击个人确认偏误与思维定势的哲学提问或名言，而非单纯的安慰语。例如蒙田的“我知道什么？”就是极佳的批判性提问。",
+          "es": "Elija 1 o 2 preguntas filosóficas que desafíen directamente el sesgo de confirmación en lugar de frases motivacionales simples. «¿Qué sé yo?» de Montaigne es un ejemplo ideal.",
+          "de": "Wählen Sie 1–2 philosophische Fragen, die Ihre Bestätigungsfehler und festgefahrenen Denkmuster erschüttern. Montaignes 'Was weiß ich?' ist ein hervorragendes Beispiel.",
+          "fr": "Choisissez 1 ou 2 questions philosophiques qui bousculent le biais de confirmation plutôt que de simples phrases réconfortantes. « Que sais-je ? » de Montaigne est l'exemple parfait.",
+          "pt": "Escolha 1 ou 2 perguntas filosóficas que desafiem diretamente o viés de confirmação em vez de frases motivacionais simples. «O que sei eu?» de Montaigne é um exemplo ideal.",
+          "id": "Pilih 1 atau 2 pertanyaan filsafat reflektif yang secara langsung menantang bias konfirmasi Anda, bukan sekadar kata mutiara hiburan. Pertanyaan Montaigne \"Apa yang saya ketahui?\" adalah contoh ideal."
         }
       },
       {
         "name": {
-          "ko": "2단계: 시선보다 높은 곳에 배치하기"
+          "ko": "시선보다 높은 곳에 배치하기",
+          "en": "Position Prominently Above Eye Level",
+          "ja": "目線より高い位置への配置",
+          "zh": "放置于视线上方的位置",
+          "es": "Colocar por encima del nivel de la vista",
+          "de": "Oberhalb der Augenhöhe platzieren",
+          "fr": "Placer au-dessus du niveau des yeux",
+          "pt": "Posicionar acima do nível dos olhos",
+          "id": "Posisikan di Atas Tingkat Pandangan Mata"
         },
         "text": {
-          "ko": "선택한 문구를 포스트잇이나 카드에 적어 모니터 상단 프레임이나 방 천장 등, 고개를 위로 들어 올려야만 쳐다볼 수 있는 높은 공간에 부착합니다."
+          "ko": "선택한 문구를 포스트잇이나 카드에 적어 모니터 상단 프레임이나 방 천장 등, 고개를 위로 들어 올려야만 쳐다볼 수 있는 높은 공간에 부착합니다.",
+          "en": "Write the selected text on an index card or sticky note and attach it above your eye line—such as the top frame of your monitor or ceiling—requiring an upward head tilt to read.",
+          "ja": "選択した文章を付箋やカードに書き、モニターの上部フレームや部屋の天井など、首を上へ持ち上げて初めて視線が入る高い場所に貼り付けます。",
+          "zh": "将选好的文字写在便签或卡片上，贴在电脑显示器顶部边框或天花板等位置，使其必须微抬下巴才能注视到。",
+          "es": "Escriba el texto en una nota y colóquela por encima de la línea de visión —como el marco superior del monitor— obligando a inclinar levemente la cabeza hacia arriba.",
+          "de": "Schreiben Sie den Satz auf einen Zettel und bringen Sie ihn oberhalb Ihrer Blicklinie an (z. B. am oberen Monitorrand), sodass Sie den Kopf leicht heben müssen.",
+          "fr": "Inscrivez le texte sur une note et fixez-la au-dessus de votre ligne de vision (comme le haut du moniteur), exigeant un léger redressement de la tête pour être lue.",
+          "pt": "Escreva o texto em um cartão e fixe-o acima da linha dos olhos — como na borda superior do monitor —, exigindo inclinar levemente a cabeça para cima.",
+          "id": "Tuliskan teks pada catatan dan tempelkan di atas garis pandangan mata Anda—seperti di bingkai atas monitor—sehingga memerlukan sedikit mendongakkan kepala."
         }
       },
       {
         "name": {
-          "ko": "3단계: 고개를 들고 15초간 사색하기"
+          "ko": "고개를 들고 15초간 사색하기",
+          "en": "Tilt Head Up and Reflect for 15 Seconds",
+          "ja": "頭を上げて15秒間思索する",
+          "zh": "抬头冷静沉思 15 秒",
+          "es": "Inclinar la cabeza y reflexionar durante 15 segundos",
+          "de": "Kopf heben und 15 Sekunden lang innehalten",
+          "fr": "Lever la tête et méditer pendant 15 secondes",
+          "pt": "Elevar a cabeça e refletir por 15 segundos",
+          "id": "Mendongak dan Merenung Selama 15 Detik"
         },
         "text": {
-          "ko": "사고 과정이 막히거나 고정관념이 의심될 때 의식적으로 고개를 뒤로 젖히고 천장의 문구를 15초간 묵독합니다. 일시적인 시선 교정을 통해 문제를 멀리서 넓게 조망하는 메타인지를 켭니다."
+          "ko": "사고 과정이 막히거나 고정관념이 의심될 때 의식적으로 고개를 뒤로 젖히고 천장의 문구를 15초간 묵독합니다. 일시적인 시선 교정을 통해 문제를 멀리서 넓게 조망하는 메타인지를 켭니다.",
+          "en": "When stuck in thinking or doubting a premise, tilt your head up and read the text silently for 15 seconds. Reorienting your gaze upward prompts the prefrontal cortex to activate metacognitive perspective.",
+          "ja": "思考が行き詰まったり固執が疑われたりした時、意識的に頭を後ろへ傾け、天井の文言を15秒間黙読します。一時的な視線調整を通じて問題を遠くから俯瞰するメタ認知を入れます。",
+          "zh": "当思路陷入僵局或怀疑假设前提时，有意识地抬头仰望悬挂的字句静默阅读15秒。通过暂时的视角重置，促使前额叶皮层从宏观维度开启元认知。",
+          "es": "Cuando se atasque en sus pensamientos, incline la cabeza hacia arriba y lea en silencio la frase durante 15 segundos. Reorientar la mirada hacia arriba ayuda a activar la perspectiva metacognitiva.",
+          "de": "Wenn Sie nicht weiterkommen, heben Sie bewusst den Kopf und lesen Sie den Spruch 15 Sekunden lang still. Der Blick nach oben aktiviert den präfrontalen Kortex für einen Perspektivwechsel.",
+          "fr": "En cas de blocage ou de doute, levez la tête et relisez silencieusement le texte pendant 15 secondes. Réorienter le regard vers le haut stimule la métacognition et offre une vue d'ensemble.",
+          "pt": "Quando se sentir travado, incline a cabeça para cima e leia em silêncio a frase por 15 segundos. Reorientar o olhar para cima ativa a perspectiva metacognitiva no córtex pré-frontal.",
+          "id": "Saat buntu atau meragukan suatu asumsi, dongakkan kepala Anda dan baca teks secara senyap selama 15 detik. Memindahkan pandangan ke atas mengaktifkan perspektif metakognitif."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "이 습관을 매일 실천해야 하나요?"
+          "ko": "이 습관을 매일 실천해야 하나요?",
+          "en": "Should this routine be practiced every single day?",
+          "ja": "この習慣は毎日実践すべきですか？",
+          "zh": "这个习惯需要每天坚持践行吗？",
+          "es": "¿Se debe practicar esta rutina todos los días?",
+          "de": "Sollte diese Routine jeden Tag praktiziert werden?",
+          "fr": "Faut-il pratiquer cette routine quotidiennement ?",
+          "pt": "Essa rotina deve ser praticada todos os dias?",
+          "id": "Apakah rutinitas ini harus dipraktikkan setiap hari?"
         },
         "answer": {
-          "ko": "네, 매일 일정한 시간에 실천할 때 뇌의 신경 가소성이 극대화됩니다. 일정한 시각과 장소에서 매일 지속적으로 실행하여 뇌의 신경 가소성(Neuroplasticity) 회로를 강화하는 것이 가장 확실한 성공 열쇠입니다."
+          "ko": "네, 매일 일정한 시간에 실천할 때 뇌의 신경 가소성이 극대화됩니다. 일정한 시각과 장소에서 매일 지속적으로 실행하여 뇌의 신경 가소성(Neuroplasticity) 회로를 강화하는 것이 가장 확실한 성공 열쇠입니다.",
+          "en": "Yes, consistent practice at set times maximizes neural plasticity. Consistently executing this routine in the same workspace builds strong neuroplastic pathways in the prefrontal cortex.",
+          "ja": "はい、毎日決まった時間に実践する時に脳の神経可塑性が極大化されます。一定の時間と場所で毎日継続して実行し、脳の神経可塑性（Neuroplasticity）回路を強化することが確実な鍵です。",
+          "zh": "是的，每天在固定时间练习能够最大化促进大脑的神经可塑性。在固定的空间内持续践行，是强化前额叶皮层神经可塑性（Neuroplasticity）回路的最扎实钥匙。",
+          "es": "Sí, la práctica constante a horas fijas maximiza la neuroplasticidad cerebral. La ejecución diaria en el mismo lugar fortalece los circuitos prefrontales de autorreflexión.",
+          "de": "Ja, die tägliche Praxis zu festen Zeiten maximiert die neuronale Plastizität. Regelmäßige Wiederholung am selben Platz festigt die metakognitiven Schaltkreise im Gehirn.",
+          "fr": "Oui, une pratique quotidienne à heure fixe optimise la plasticité neuronale. Exécuter ce rituel régulièrement renforce durablement les circuits métacognitifs du cortex préfrontal.",
+          "pt": "Sim, a prática diária em horários fixos maximiza a neuroplasticidade. Executar essa rotina no mesmo ambiente fortalece os circuitos pré-frontais de autorreflexão.",
+          "id": "Ya, praktik konsisten pada waktu tetap memaksimalkan neuroplastisitas otak. Menjalankan rutinitas ini secara berkelanjutan memperkuat sirkuit metakognitif di korteks prefrontal."
         }
       }
     ]

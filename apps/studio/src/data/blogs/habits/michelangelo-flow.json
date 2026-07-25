@@ -1,70 +1,214 @@
 {
   "michelangelo-flow": {
     "title": {
-      "ko": "몇 주 동안 옷을 벗지 않은 조각가? 미켈란젤로의 초몰입(Flow) 극대화 습관"
+      "ko": "몇 주 동안 옷을 벗지 않은 조각가? 미켈란젤로의 초몰입(Flow) 극대화 습관",
+      "en": "The Sculptor Who Didn't Take Off His Clothes for Weeks? Michelangelo's Extreme Flow Habit",
+      "ja": "何週間も服を脱がなかった彫刻家？ミケランジェロの超没頭（Flow）極大化習慣",
+      "zh": "数周不脱衣鞋的雕塑家？米开朗基罗的极致沉浸（Flow）习惯",
+      "es": "¿El escultor que no se quitó la ropa durante semanas? El hábito de súper inmersión (Flow) de Miguel Ángel",
+      "de": "Der Bildhauer, der wochenlang seine Kleidung nicht auszog? Michelangelos extremes Flow-Gewohnheit",
+      "fr": "Le sculpteur qui gardait ses vêtements pendant des semaines ? L'habitude d'hyper-immersion (Flow) de Michel-Ange",
+      "pt": "O escultor que não tirava as roupas por semanas? O hábito de hiperfoco (Flow) de Michelangelo",
+      "id": "Pematung yang Tidak Melepas Pakaian Selama Berminggu-minggu? Kebiasaan Imersi Ekstrem (Flow) Michelangelo"
     },
     "description": {
-      "ko": "르네상스 최고의 거장 미켈란젤로 부오나로티. 시스티나 천장화와 다비드상을 조각할 때 옷과 장화를 벗지 않은 채 쪽잠을 자며 일했던 그의 인지 에너지 최소화 습관과 현대인을 위한 초몰입 설계법을 탐구합니다."
+      "ko": "르네상스 최고의 거장 미켈란젤로 부오나로티. 시스티나 천장화와 다비드상을 조각할 때 옷과 장화를 벗지 않은 채 쪽잠을 자며 일했던 그의 인지 에너지 최소화 습관과 현대인을 위한 초몰입 설계법을 탐구합니다.",
+      "en": "Michelangelo Buonarroti, the supreme master of the Renaissance. Discover his cognitive energy preservation habit of sleeping briefly in his clothes and boots while sculpting David and painting the Sistine Chapel ceiling, and how modern professionals can design extreme flow.",
+      "ja": "ルネサンス最高の巨匠ミケランジェロ・ブオナローティ。システィーナ礼拝堂天井画やダビデ像を彫刻する際、服や靴を脱がずに仮眠を取りながら作業した彼の認知エネルギー最小化習慣と超没頭設計法を紐解きます。",
+      "zh": "文艺复兴时期最高的大师米开朗基罗·博那罗蒂。探讨他在创作西斯廷教堂天顶画和大卫像时，不脱靴服、仅靠短憩工作的认知能量极小化习惯，以及现代人的极致专注设计法。",
+      "es": "Miguel Ángel Buonarroti, el supremo maestro del Renacimiento. Descubra su hábito de preservación de energía cognitiva de dormir brevemente con ropa y botas al esculpir el David y pintar la Capilla Sixtina, y cómo diseñar un estado de flujo extremo.",
+      "de": "Michelangelo Buonarroti, der höchste Meister der Renaissance. Entdecken Sie seine kognitive Gewohnheit der Energieersparnis, beim Meißeln des David und der Sixtinischen Decke in Kleidung und Stiefeln zu schlafen, und lernen Sie moderne Methoden für tiefen Flow.",
+      "fr": "Michel-Ange Buonarroti, le maître incontesté de la Renaissance. Découvrez son habitude d'économie d'énergie cognitive consistant à dormir par courtes siestes habillé et botté lors de la sculpture du David et des fresques de la Sixtine, et comment concevoir un état de Flow extrême.",
+      "pt": "Michelangelo Buonarroti, o supremo mestre do Renascimento. Descubra seu hábito de preservação de energia cognitiva de dormir brevemente vestido e calçado ao esculpir o David e pintar o teto da Capela Sistina, e como projetar o hiperfoco.",
+      "id": "Michelangelo Buonarroti, maestro tertinggi Renaisans. Pelajari kebiasaan penghematan energi kognitifnya dengan tidur sejenak tetap berpakaian dan sepatu bot saat memahat David dan langit-langit Kapel Sistina, serta cara merancang fokus ekstrem."
     },
     "authority": {
-      "ko": "미켈란젤로 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "미켈란젤로 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Michelangelo Historical Biographies & Autobiographical Records Research & Cognitive Neuroscience Studies",
+      "ja": "ミケランジェロ歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "米开朗基罗历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Investigación de biografías históricas y registros autobiográficos de Miguel Ángel y estudios de neurociencia cognitiva",
+      "de": "Historische Biografien & Aufzeichnungen zu Michelangelo & Kognitive Neurowissenschaften",
+      "fr": "Études des biographies historiques et récits autobiographiques de Michel-Ange & recherche en neurosciences cognitives",
+      "pt": "Pesquisa de biografias históricas e registros autobiográficos de Michelangelo & estudos de neurociência cognitiva",
+      "id": "Riset Biografi Historis dan Catatan Autobiografi Michelangelo & Studi Neurosains Kognitif"
     },
     "intro": {
-      "ko": "피에타, 다비드, 그리고 바티칸 시스티나 예배당의 천장화. 인류 예술사에서 전무후무한 불후의 걸작들을 탄생시킨 천재 조각가 미켈란젤로 부오나로티. 그의 위대한 걸작들 이면에는 괴팍할 정도로 철저했던 초몰입(Flow)의 습관이 숨겨져 있었습니다. 🏛️\n\n동시대 기록자 조르조 바사리에 따르면, 미켈란젤로는 작품에 돌입하면 몇 주 동안 작업 장화를 벗지 않고 옷을 입은 채 작업실 구석에서 빵 몇 조각으로 끼니를 때우며 쪽잠을 잤습니다. 훗날 장화를 벗기려 하자 살점이 함께 묻어 나올 정도로 가혹한 상태였지만, 그는 오로지 돌덩이 속에 갇힌 형상을 해방시키는 조각 작업 하나에만 자신의 모든 인지적 자원과 정신 에너지를 쏟아부었습니다.\n\n오늘 포스트에서는 미켈란젤로가 고집했던 '일상 리추얼 최소화'와 초몰입 습관의 인지 과학적 원리, 그리고 현대인들이 핵심 업무에 집중력을 모으기 위해 의사결정 피로를 통제하는 방법을 알아봅니다."
+      "ko": "피에타, 다비드, 그리고 바티칸 시스티나 예배당의 천장화. 인류 예술사에서 전무후무한 불후의 걸작들을 탄생시킨 천재 조각가 미켈란젤로 부오나로티(Michelangelo Buonarroti, 1475–1564). 그의 위대한 걸작들 이면에는 괴팍할 정도로 철저했던 초몰입(Flow)의 습관이 숨겨져 있었습니다. 🏛️\n\n동시대 기록자 조르조 바사리에 따르면, 미켈란젤로는 작품에 돌입하면 몇 주 동안 작업 장화를 벗지 않고 옷을 입은 채 작업실 구석에서 빵 몇 조각으로 끼니를 때우며 쪽잠을 잤습니다. 훗날 장화를 벗기려 하자 살점이 함께 묻어 나올 정도로 가혹한 상태였지만, 그는 오로지 돌덩이 속에 갇힌 형상을 해방시키는 조각 작업 하나에만 자신의 모든 인지적 자원과 정신 에너지를 쏟아부었습니다.\n\n오늘 포스트에서는 미켈란젤로가 고집했던 '일상 리추얼 최소화'와 초몰입 습관의 인지 과학적 원리, 그리고 현대인들이 핵심 업무에 집중력을 모으기 위해 의사결정 피로를 통제하는 방법을 알아봅니다.",
+      "en": "The Pietà, David, and the ceiling of the Sistine Chapel in the Vatican—masterpieces that stand immortal in human artistic history were created by the Renaissance genius sculptor Michelangelo Buonarroti (1475–1564). Behind these monumental works lay an obsessively intense habit of flow. 🏛️\n\nAccording to contemporary biographer Giorgio Vasari, when Michelangelo immersed himself in a work, he would not take off his riding boots or clothes for weeks at a time, sleeping in brief naps in the corner of his workshop while surviving on a few crusts of bread. In later years, when he finally pulled off his boots, skin came off with them; yet he channeled 100% of his cognitive resources into a single endeavor: liberating the living form trapped within the marble block.\n\nIn this article, we examine the cognitive science behind Michelangelo's minimization of daily rituals and extreme flow habit, offering practical ways for modern professionals to master decision fatigue and direct maximum focus toward their core objectives.",
+      "ja": "ピエタ、ダビデ像、そしてヴァチカン・システィーナ礼拝堂の天井画。人類の芸術史に不滅の傑作を刻んだ天才彫刻家ミケランジェロ・ブオナローティ（1475〜1564）。彼の偉大な傑作の裏には、偏執的なまでに徹底された超没頭（Flow）の習慣が隠されていました。 🏛️\n\n同時代の記録者ジョルジョ・ヴァザーリによれば、ミケランジェロは作品に入り込むと何週間も作業ブーツや服を脱がず、アトリエの隅でパンの切れ端をかじりながら仮眠を取って作業を続けました。後年、ブーツを脱ごうとすると皮膚まで剥がれ落ちるほど過酷な状態でしたが、彼は大理石の中に閉じ込められた形体を解放する彫刻作業だけに、己のすべての認知的資源と精神エネルギーを注ぎ込んだのです。\n\n本記事では、ミケランジェロが貫いた「日常リチュアルの最小化」と超没頭習慣の認知科学的原理、そして現代人が重要業務に集中力を結集するために意思決定疲労をコントロールする方法を紐解きます。",
+      "zh": "《哀悼基督》、《大卫》以及梵蒂冈西斯廷教堂的天顶画——在人类艺术史上留下一系列不朽杰作的天才雕塑家米开朗基罗·博那罗蒂（Michelangelo Buonarroti，1475–1564）。在他那些伟大的名作背后，隐藏着一种严苛到近乎怪异的极致沉浸（Flow）习惯。 🏛️\n\n据同时代传记作家乔尔乔·瓦萨里记载，米开朗基罗一旦投入创作，就会连续几周不脱长靴和衣服，在画室角落吃几块干面包、打个盹便继续工作。以至于后来脱靴子时连带撕下了皮肉。尽管状况极其酷烈，但他却将自己100%的认知资源与精神能量完全倾注于唯一的使命上：将囚禁在大理石块内部的生动形象解放出来。\n\n本文将探讨米开朗基罗所坚持的“极小化日常琐事”与极致沉浸习惯的认知科学原理，并为现代人提供掌控决策疲劳、将注意力高度聚焦于核心任务的实操指南。",
+      "es": "La Piedad, el David y el techo de la Capilla Sixtina en el Vaticano: obras maestras inmortales de la historia del arte creadas por el genio escultor del Renacimiento Miguel Ángel Buonarroti (1475-1564). Detrás de estas monumentales creaciones se escondía un hábito obsesivo de flujo extremo. 🏛️\n\nSegún el biógrafo de la época Giorgio Vasari, cuando Miguel Ángel se sumergía en un proyecto, pasaba semanas sin quitarse las botas ni la ropa, durmiendo breves siestas en un rincón de su taller mientras subsistía con unos trozos de pan. En años posteriores, al descalzarse, la piel se desprendía junta a las botas; sin embargo, canalizó el 100% de sus recursos cognitivos en un solo esfuerzo: liberar la forma viva atrapada en el mármol.\n\nEn este artículo, analizamos la ciencia cognitiva tras la minimización de rituales diarios de Miguel Ángel y su flujo extremo, ofreciendo pautas prácticas para controlar la fatiga por decisión y concentrar la atención en metas esenciales.",
+      "de": "Die Pietà, der David und die Decke der Sixtinischen Kapelle im Vatikan – unsterbliche Meisterwerke der Kunstgeschichte, geschaffen von dem Renaissance-Genie Michelangelo Buonarroti (1475–1564). Hinter diesen monumentalen Werken verbarg sich eine obsessive Gewohnheit extremen Flow-Zustands. 🏛️\n\nLaut dem zeitgenössischen Biografen Giorgio Vasari zog Michelangelo bei der Arbeit an einem Werk wochenlang weder Stiefel noch Kleidung aus. Er schlief in kurzen Nickerchen in der Ecke seiner Werkstatt und ernährte sich von ein paar Brotkrumen. Als er sich später die Stiefel ausziehen wollte, löste sich die Haut mit ihnen ab; dennoch bündelte er 100 % seiner kognitiven Ressourcen auf ein einziges Ziel: die Befreiung der im Marmorblock gefangenen lebendigen Form.\n\nIn diesem Beitrag untersuchen wir die kognitionswissenschaftlichen Prinzipien hinter Michelangelos Minimierung von Alltagsroutinen und seinem extremen Flow und bieten moderne Ansätze gegen Entscheidungsmüdigkeit.",
+      "fr": "La Pietà, le David et le plafond de la Chapelle Sixtine au Vatican — des chefs-d'œuvre immortels de l'histoire de l'art créés par le sculpteur de génie de la Renaissance Michel-Ange Buonarroti (1475-1564). Derrière ces créations colossales se cachait un habituel état d'immersion extrême (Flow). 🏛️\n\nSelon le biographe de l'époque Giorgio Vasari, lorsque Michel-Ange travaillait à une œuvre, il restait des semaines sans ôter ses bottes ni ses vêtements, dormant par courtes siestes au coin de son atelier en se nourrissant de quelques croûtes de pain. Plus tard, lorsqu'il retirait ses bottes, sa peau s'arrachait avec le cuir. Et pourtant, il consacrait 100 % de ses ressources cognitives à une unique quête : libérer la forme vivante captive du bloc de marbre.\n\nCet article analyse la science cognitive qui sous-tend la minimisation des tâches quotidiennes de Michel-Ange et son état de Flow extrême, proposant des méthodes modernes pour surmonter la fatigue décisionnelle.",
+      "pt": "A Pietà, o David e o teto da Capela Sistina no Vaticano — obras-primas imortais da história da arte criadas pelo gênio escultor do Renascimento Michelangelo Buonarroti (1475–1564). Por trás dessas obras monumentais existia um hábito obsessivo de hiperfoco (Flow). 🏛️\n\nSegundo o biógrafo contemporâneo Giorgio Vasari, quando Michelangelo mergulhava em uma obra, passava semanas sem tirar as botas ou as roupas, dormindo breves cochilos no canto do estúdio e subsistindo com pedaços de pão. Anos mais tarde, ao tirar as botas, a pele saía junto; contudo, ele direcionava 100% de seus recursos cognitivos a um único propósito: libertar a forma viva presa no bloco de mármore.\n\nNeste artigo, examinamos a ciência cognitiva por trás da minimização de rituais diários de Michelangelo e seu fluxo extremo, oferecendo estratégias práticas para controlar a fadiga de decisão e concentrar o foco total no essencial.",
+      "id": "Pietà, David, dan langit-langit Kapel Sistina di Vatikan—karya besar abadi dalam sejarah seni manusia yang diciptakan oleh pematung jenius Renaisans Michelangelo Buonarroti (1475–1564). Di balik karya-karya monumental ini, tersembunyi kebiasaan fokus ekstrem (Flow) yang luar biasa ketat. 🏛️\n\nMenurut biografer sezaman Giorgio Vasari, ketika Michelangelo mendalami suatu karya, ia tidak melepas sepatu bot atau pakaiannya selama berminggu-minggu, tidur sejenak di sudut bengkel kerjanya sambil bertahan hidup dengan beberapa potong roti. Di kemudian hari, saat melepas sepatu botnya, kulitnya ikut terkelupas; namun ia menyalurkan 100% sumber daya kognitifnya pada satu upaya: membebaskan wujud hidup yang terperangkap di dalam bongkahan marmer.\n\nDalam artikel ini, kita mempelajari ilmu kognitif di balik minimisasi ritual harian Michelangelo dan kebiasaan fokus ekstremnya, serta menyajikan panduan praktis untuk mengendalikan kelelahan keputusan."
     },
     "whyTitle": {
-      "ko": "의사결정 피로의 최소화와 인지 자원 보존"
+      "ko": "의사결정 피로의 최소화와 인지 자원 보존",
+      "en": "Minimizing Decision Fatigue and Preserving Cognitive Resources",
+      "ja": "意思決定疲労の最小化と認知資源の保存",
+      "zh": "极小化决策疲劳与保存认知资源",
+      "es": "Minimizar la fatiga de decisión y preservar los recursos cognitivos",
+      "de": "Entscheidungsmüdigkeit minimieren und kognitive Ressourcen schonen",
+      "fr": "Minimiser la fatigue décisionnelle et préserver les ressources cognitives",
+      "pt": "Minimizar a fadiga de decisão e preservar recursos cognitivos",
+      "id": "Meminimalkan Kelelahan Keputusan dan Menjaga Sumber Daya Kognitif"
     },
     "whyDesc": {
-      "ko": "현대 행동과학에서는 일상의 사소한 선택들이 뇌의 자기 조절 에너지를 갉아먹는 현상을 '자아 고갈(Ego Depletion)' 또는 '의사결정 피로(Decision Fatigue)'라고 부릅니다. 아침에 무엇을 입을지, 무엇을 먹을지 정하는 행위 자체가 뇌의 분석적 실행 영역을 피로하게 만듭니다. 미켈란젤로는 스스로를 고도로 격리하고 의식주에 들어가는 자잘한 두뇌 결정을 최소화함으로써, 그의 천재적 에너지를 100% 온전히 예술적 행위에만 보존하여 엄청난 속도의 생산성을 유지했던 것입니다."
+      "ko": "현대 행동과학에서는 일상의 사소한 선택들이 뇌의 자기 조절 에너지를 갉아먹는 현상을 '자아 고갈(Ego Depletion)' 또는 '의사결정 피로(Decision Fatigue)'라고 부릅니다. 아침에 무엇을 입을지, 무엇을 먹을지 정하는 행위 자체가 뇌의 분석적 실행 영역을 피로하게 만듭니다. 미켈란젤로는 스스로를 고도로 격리하고 의식주에 들어가는 자잘한 두뇌 결정을 최소화함으로써, 그의 천재적 에너지를 100% 온전히 예술적 행위에만 보존하여 엄청난 속도의 생산성을 유지했던 것입니다.",
+      "en": "Modern behavioral science defines the exhaustion of self-regulatory mental energy caused by trivial daily choices as 'Ego Depletion' or 'Decision Fatigue.' Deciding what to wear or eat each morning fatigues the brain's executive control center. By isolating himself and minimizing mundane decisions regarding clothing and meals, Michelangelo preserved 100% of his mental energy exclusively for creation, sustaining unprecedented artistic productivity.",
+      "ja": "現代の行動科学では、日常の些細な選択が脳の自己調節エネルギーを削り取る現象を「自己枯渇（Ego Depletion）」または「意思決定疲労（Decision Fatigue）」と呼びます。朝何を着るか、何を食べるかを決める行為自体が、脳の分析的実行領域を疲弊させます。ミケランジェロは自らを高度に隔離し、衣食住にかかる些細な頭脳決定を最小化することで、天性のエネルギーを100%芸術的行為だけに保存し、圧倒的な生産性を維持していたのです。",
+      "zh": "现代行为科学将日常微小选择消耗大脑自我调节能量的现象称为“自我损耗（Ego Depletion）”或“决策疲劳（Decision Fatigue）”。每天早晨选择穿什么、吃什么的决定本身就会让大脑的前额叶皮层产生疲劳。米开朗基罗通过高度自我隔离、极小化衣食住行上的琐碎决定，将其天才能量100%完整保存于艺术创作中，从而维持了惊人的生产力。",
+      "es": "La ciencia del comportamiento moderna define el agotamiento de la energía mental autorreguladora causado por elecciones triviales como 'Agotamiento del Ego' o 'Fatiga de Decisión'. Decidir qué vestir o qué comer cada mañana fatiga el centro de control ejecutivo. Al aislarse y minimizar las decisiones rutinarias sobre ropa y comida, Miguel Ángel preservó el 100% de su energía mental exclusivamente para la creación artística.",
+      "de": "Die moderne Verhaltenswissenschaft beschreibt die Erschöpfung der mentalen Selbstregulierungsenergie durch alltägliche Bagatellentscheidungen als 'Ego Depletion' oder 'Entscheidungsmüdigkeit'. Das morgendliche Auswählen von Kleidung oder Essen ermüdet das exekutive Kontrollzentrum des Gehirns. Indem Michelangelo sich isolierte und alltägliche Entscheidungen minimierte, bewahrte er seine geistige Energie vollkommen für das künstlerische Schaffen.",
+      "fr": "La science du comportement moderne qualifie l'épuisement de l'énergie mentale d'autorégulation par de grands choix futiles d'« Épuisement de l'ego » (Ego Depletion) ou de « Fatigue décisionnelle ». Choisir quoi porter ou quoi manger chaque matin fatigue le centre de contrôle exécutif du cerveau. En s'isolant et en réduisant les décisions banales, Michel-Ange a préservé 100 % de son énergie intellectuelle pour l'art.",
+      "pt": "A ciência comportamental moderna define o esgotamento da energia mental autorreguladora provocado por escolhas fúteis como 'Esgotamento do Ego' ou 'Fadiga de Decisão'. Decidir o que vestir ou comer a cada manhã fatiga o centro de controle executivo. Ao isolar-se e minimizar decisões triviais, Michelangelo preservou 100% de sua energia mental exclusivamente para a criação artística.",
+      "id": "Ilmu perilaku modern mendefinisikan habisnya energi mental kendali diri akibat pilihan harian sepele sebagai 'Ego Depletion' atau 'Kelelahan Keputusan' (Decision Fatigue). Memutuskan apa yang akan dikenakan atau dimakan setiap pagi menguras pusat kendali eksekutif otak. Dengan mengisolasi diri dan meminimalkan keputusan sepele, Michelangelo menjaga 100% energi mentalnya khusus untuk penciptaan karya."
     },
     "cautionTitle": {
-      "ko": "핵심에만 힘을 모을 때 천재성이 폭발합니다"
+      "ko": "핵심에만 힘을 모을 때 천재성이 폭발합니다",
+      "en": "Genius Explodes When Energy Focuses Solely on the Core",
+      "ja": "核心にのみ力を集める時に天才性が爆発します",
+      "zh": "唯有聚焦核心，天才之光才会爆发",
+      "es": "El genio se desata cuando la energía se enfoca únicamente en lo esencial",
+      "de": "Genialität entfaltet sich, wenn die Energie ganz auf das Wesentliche gerichtet ist",
+      "fr": "Le génie s'exprime lorsque toute l'énergie se concentre sur l'essentiel",
+      "pt": "O gênio se manifesta quando a energia se concentra apenas no essencial",
+      "id": "Kejeniusan Memuncak Saat Energi Terfokus Hanya pada Hal Inti"
     },
     "cautionDesc": {
-      "ko": "미켈란젤로는 조각 작업이 끝날 때까지 뇌의 흐름을 멈추지 않으려 자신을 극단으로 몰아붙였습니다. 현대 정보 과부하의 시대 속에서, 매일 매시간 수많은 정보와 선택에 뇌를 소진시키기보다, 가장 중요한 과제 하나를 위해 인지 에너지의 방벽을 쌓아주세요."
+      "ko": "미켈란젤로는 조각 작업이 끝날 때까지 뇌의 흐름을 멈추지 않으려 자신을 극단으로 몰아붙였습니다. 현대 정보 과부하의 시대 속에서, 매일 매시간 수많은 정보와 선택에 뇌를 소진시키기보다, 가장 중요한 과제 하나를 위해 인지 에너지의 방벽을 쌓아주세요.",
+      "en": "Michelangelo pushed himself to the extreme to keep his momentum uninterrupted until his sculpting was complete. In today's era of information overload, rather than draining your brain on endless choices and content, build cognitive walls to protect your highest priority task.",
+      "ja": "ミケランジェロは彫刻作業が終わるまで脳の流（Flow）を止めないよう、自らを極限まで追い込みました。現代の情報過多の時代の中で、毎日毎時間多くの情報と選択で脳を消耗させるのではなく、最も重要な一つの課題のために認知エネルギーの防壁を築いてください。",
+      "zh": "米开朗基罗为了在雕刻完成前不打断大脑的专注流（Flow），甚至将自己推向了极致。在当今信息过载的时代，与其将大脑白白耗费于无休止的选择与琐碎信息中，不如为最重要的单一核心任务筑起一道认知能量防线。",
+      "es": "Miguel Ángel se llevó al límite para evitar interrumpir su flujo mental hasta completar la escultura. En la era actual de sobrecarga de información, en lugar de agotar su cerebro en decisiones y estímulos constantes, construya murallas cognitivas para proteger su tarea más importante.",
+      "de": "Michelangelo trieb sich an die Grenzen, um seinen geistigen Schwung bis zur Vollendung der Skulptur aufrechtzuerhalten. Bauen Sie in der heutigen Informationsflut kognitive Schutzwälle auf, um Ihre Energie auf die wichtigste Aufgabe zu bündeln, anstatt sie in unzähligen Alltagsentscheidungen zu vergeuden.",
+      "fr": "Michel-Ange poussait son engagement à l'extrême pour préserver son élan jusqu'à l'achèvement de sa sculpture. Dans l'ère actuelle de surinformation, plutôt que d'épuiser votre esprit en choix superficiels, érigez des remparts cognitifs pour préserver votre priorité absolue.",
+      "pt": "Michelangelo levou-se ao limite para evitar interromper seu fluxo mental até concluir a escultura. Na era da sobrecarga de informação, em vez de esgotar o cérebro em escolhas constantes, construa barreiras cognitivas para proteger sua tarefa mais relevante.",
+      "id": "Michelangelo mendorong dirinya hingga batas ekstrem agar alur fokusnya tidak terputus hingga pemahatan selesai. Di era kelebihan informasi saat ini, daripada menghabiskan energi otak untuk pilihan tak berujung, bangunlah benteng kognitif untuk melindungi tugas terpenting Anda."
     },
     "steps": [
       {
         "name": {
-          "ko": "사소한 의사결정의 자동화 및 규격화"
+          "ko": "사소한 의사결정의 자동화 및 규격화",
+          "en": "Automate and Standardize Trivial Decisions",
+          "ja": "些細な意思決定の自動化と規格化",
+          "zh": "琐碎决策的自动化与标准化",
+          "es": "Automatizar y estandarizar decisiones triviales",
+          "de": "Unwichtige Entscheidungen automatisieren und standardisieren",
+          "fr": "Automatiser et standardiser les décisions futiles",
+          "pt": "Automatizar e padronizar decisões triviais",
+          "id": "Otomatisasi dan Standardisasi Keputusan Sepele"
         },
         "text": {
-          "ko": "주요 작업을 수행하기 전, 아침 의상이나 식단 메뉴 등 불필요한 일상의 자잘한 결정을 사전에 루틴화하여 뇌의 인지 자원 소모를 차단합니다. (예: 스티브 잡스의 단일 유니폼 셋업 등)"
+          "ko": "주요 작업을 수행하기 전, 아침 의상이나 식단 메뉴 등 불필요한 일상의 자잘한 결정을 사전에 루틴화하여 뇌의 인지 자원 소모를 차단합니다. (예: 스티브 잡스의 단일 유니폼 셋업 등)",
+          "en": "Standardize non-essential daily choices like morning attire or meal plans into fixed routines before tackling core work, preserving cognitive capacity (e.g., Steve Jobs' capsule wardrobe).",
+          "ja": "主要作業を行う前に、朝の衣装や食事メニューなど不必要な日常の些細な決定をあらかじめルーティン化し、脳の認知資源の消耗を遮断します。（例：スティーブ・ジョブズのユニフォーム化など）",
+          "zh": "在执行核心任务前，将晨间穿搭、饮食选择等不必要的日常琐碎选择预先例行程序化，阻断大脑认知资源的无谓消耗。（例如：斯蒂夫·乔布斯的固定服装等）",
+          "es": "Estandarice elecciones fútiles como atuendos o menús matutinos en rutinas fijas antes de iniciar su trabajo clave, preservando la capacidad cognitiva (ej. el vestuario uniforme de Steve Jobs).",
+          "de": "Standardisieren Sie vor wichtigen Aufgaben alltägliche Entscheidungen wie Kleidung oder Mahlzeiten in festen Routinen, um kognitive Kapazitäten zu schonen (z. B. Steve Jobs' Einheitskleidung).",
+          "fr": "Standardisez les choix futiles comme la tenue matinale ou les repas en routines fixes avant le travail essentiel pour préserver votre capital cognitif (ex. la garde-robe capsule de Steve Jobs).",
+          "pt": "Padronize escolhas diárias secundárias como vestuário ou refeições matinais em rotinas fixas antes de iniciar o trabalho principal, preservando a capacidade cognitiva (ex.: o uniforme de Steve Jobs).",
+          "id": "Standardisasi pilihan harian sepele seperti pakaian pagi atau menu makanan menjadi rutinitas tetap sebelum memulai pekerjaan utama untuk menghemat kapasitas kognitif (misal: gaya busana tetap Steve Jobs)."
         }
       },
       {
         "name": {
-          "ko": "인지적 유입 자극의 차단(Deep Focus Zone)"
+          "ko": "인지적 유입 자극의 차단(Deep Focus Zone)",
+          "en": "Block External Sensory Inputs (Deep Focus Zone)",
+          "ja": "認知的流入刺激の遮断（Deep Focus Zone）",
+          "zh": "阻断外部认知刺激（Deep Focus Zone）",
+          "es": "Bloquear estímulos externos (Zona de Enfoque Profundo)",
+          "de": "Kognitive Störreize ausblenden (Deep Focus Zone)",
+          "fr": "Bloquer les stimulations extérieures (Zone de Concentration Profonde)",
+          "pt": "Bloquear estímulos sensoriais externos (Zona de Foco Profundo)",
+          "id": "Blokir Stimulasi Sensorik Luar (Zona Fokus Mendalam)"
         },
         "text": {
-          "ko": "작업 환경에서 스마트폰 알림, 웹 서핑 브라우저 탭, 소음 등 주의를 분산시키는 외부의 자극 요소를 물리적으로 완전 격리합니다. 뇌가 오직 하나의 대상에만 연산 능력을 가둘 수 있게 집중 방을 세팅합니다."
+          "ko": "작업 환경에서 스마트폰 알림, 웹 서핑 브라우저 탭, 소음 등 주의를 분산시키는 외부의 자극 요소를 물리적으로 완전 격리합니다. 뇌가 오직 하나의 대상에만 연산 능력을 가둘 수 있게 집중 방을 세팅합니다.",
+          "en": "Physically isolate distracting stimuli like phone alerts, open browser tabs, or background noise. Set up your environment so your brain focuses 100% of its computing power on a single task.",
+          "ja": "作業環境からスマホの通知、ブラウザのタブ、騒音など注意を散漫にする外部の刺激要素を物理的に完全隔離します。脳がただ一つの対象にのみ演算能力を絞れるよう集中環境を整えます。",
+          "zh": "在工作环境中物理隔离手机通知、网页标签页、噪音等干扰注意力的外部因素。搭建能让大脑将全部算力集中于单一对象的深度专注空间。",
+          "es": "Aísle físicamente factores de distracción como notificaciones del teléfono, pestañas abiertas o ruido ambiental. Configure su entorno para que el cerebro dedique toda su potencia a un solo objetivo.",
+          "de": "Isolieren Sie störende Reize wie Smartphone-Mitteilungen, Browser-Tabs oder Lärm physisch. Richten Sie Ihre Umgebung so ein, dass Ihr Gehirn seine gesamte Rechenleistung auf eine Aufgabe bündelt.",
+          "fr": "Isolez physiquement les éléments perturbateurs tels que les notifications, les onglets inutiles ou le bruit. Aménagez votre espace pour que votre cerveau consacre toute sa puissance à un seul sujet.",
+          "pt": "Isole fisicamente distrações como notificações de celular, guias abertas de navegadores ou ruídos. Prepare seu ambiente para que o cérebro dedique todo o processamento a uma única tarefa.",
+          "id": "Isolasi secara fisik elemen pengganggu seperti notifikasi ponsel, tab peramban berlebih, atau kebisingan. Atur lingkungan Anda agar otak dapat memusatkan seluruh daya pemrosesan pada satu tugas."
         }
       },
       {
         "name": {
-          "ko": "작업 완료 전 짧고 단순한 휴식 연동"
+          "ko": "작업 완료 전 짧고 단순한 휴식 연동",
+          "en": "Utilize Short, Simple Micro-Rests During Flow",
+          "ja": "作業完了前の短く simple な休息の連動",
+          "zh": "完工前结合短暂简单的微休息",
+          "es": "Utilizar microdescansos breves y simples durante el flujo",
+          "de": "Kurze, einfache Mikropausen während des Flow nutzen",
+          "fr": "Utiliser de courtes pauses simples durant l'immersion",
+          "pt": "Utilizar microdescansos curtos e simples durante o fluxo",
+          "id": "Gunakan Istirahat Mikro Singkat dan Sederhana Selama Sesi Fokus"
         },
         "text": {
-          "ko": "몰입 상태에 접어들었다면 긴 휴식을 취하기보다, 작업 공간 내에서 10분~15분 동안 의자 뒤로 편히 기댄 채 눈만 붙이는 얕은 휴식을 활용해 몰입의 관성(Momentum)을 이어나갑니다."
+          "ko": "몰입 상태에 접어들었다면 긴 휴식을 취하기보다, 작업 공간 내에서 10분~15분 동안 의자 뒤로 편히 기댄 채 눈만 붙이는 얕은 휴식을 활용해 몰입의 관성(Momentum)을 이어나갑니다.",
+          "en": "Once in a state of flow, rather than taking long disengaging breaks, lean back in your chair for 10–15 minutes with closed eyes to rest your mind while sustaining momentum.",
+          "ja": "没頭状態に入った後は、長い休息を取るよりも、作業空間内で10分〜15分ほど椅子の背もたれに深く寄りかかり、目を閉じる浅い休息を活用して没頭の慣性（Momentum）を維持します。",
+          "zh": "一旦进入沉浸状态，与其进行长时间的分心休息，不如在工作区靠在椅子上闭目养神 10 至 15 分钟，利用浅度休息维持专注惯性（Momentum）。",
+          "es": "Una vez en estado de flujo, en lugar de tomar descansos prolongados, reclínese en su silla durante 10-15 minutos con los ojos cerrados para mantener el impulso mientras descansa.",
+          "de": "Anstatt bei tiefem Flow lange Pausen zu machen, lehnen Sie sich für 10–15 Minuten mit geschlossenen Augen auf Ihrem Stuhl zurück, um die Dynamik aufrechtzuerhalten.",
+          "fr": "Une fois plongé dans l'action, plutôt que de prendre de longues pauses déconnectantes, adossez-vous 10 à 15 minutes les yeux clos pour maintenir votre élan tout en reposant vos yeux.",
+          "pt": "Ao entrar em estado de fluxo, em vez de pausas longas, recline-se na cadeira por 10 a 15 minutos com os olhos fechados para descansar mantendo o ritmo.",
+          "id": "Setelah berada dalam alur fokus, daripada mengambil istirahat panjang yang memutus konsentrasi, bersandarlah di kursi selama 10–15 menit dengan mata terpejam untuk mempertahankan momentum."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "미켈란젤로는 왜 옷과 신발도 벗지 않고 잤나요?"
+          "ko": "미켈란젤로는 왜 옷과 신발도 벗지 않고 잤나요?",
+          "en": "Why did Michelangelo sleep without taking off his clothes or boots?",
+          "ja": "ミケランジェロはなぜ服や靴も脱がずに寝たのですか？",
+          "zh": "米开朗基罗为什么连衣服和鞋子都不脱就睡觉？",
+          "es": "¿Por qué Miguel Ángel dormía sin quitarse la ropa ni las botas?",
+          "de": "Warum schlief Michelangelo, ohne Kleidung oder Stiefel auszuziehen?",
+          "fr": "Pourquoi Michel-Ange dormait-il sans enlever ses vêtements ni ses bottes ?",
+          "pt": "Por que Michelangelo dormia sem tirar as roupas ou as botas?",
+          "id": "Mengapa Michelangelo tidur tanpa melepas pakaian atau sepatu botnya?"
         },
         "answer": {
-          "ko": "그는 극단적으로 예민한 몰입 상태를 깨뜨리고 싶지 않았기 때문입니다. 일상의 일화(옷 갈아입기, 샤워하기, 긴 잠을 청하기 등)를 전면 거부함으로써, 자신의 뇌에 흐르는 예술적 몰입의 흐름(Flow)을 중단 없이 조각상에 온전히 쏟아부었습니다."
+          "ko": "그는 극단적으로 예민한 몰입 상태를 깨뜨리고 싶지 않았기 때문입니다. 일상의 일화(옷 갈아입기, 샤워하기, 긴 잠을 청하기 등)를 전면 거부함으로써, 자신의 뇌에 흐르는 예술적 몰입의 흐름(Flow)을 중단 없이 조각상에 온전히 쏟아부었습니다.",
+          "en": "Because he refused to break his highly sensitive state of flow. By completely eliminating mundane transitions (changing clothes, showering, long sleeps), he poured the continuous current of artistic flow directly into his sculptures without disruption.",
+          "ja": "彼は極度に繊細な没頭状態を断ち切りたくなかったからです。衣服の着替えやシャワー、長時間の睡眠といった日常の切り替え動作を拒絶することで、脳に流れる芸術的没頭の波（Flow）を途切れることなく彫刻に注ぎ込みました。",
+          "zh": "因为他不想打破极度敏感的沉浸状态。通过拒绝换衣服、冲凉、长睡等日常转换行为，他得以将大脑中涌动的艺术灵感流（Flow）毫无间断地倾注于雕塑之上。",
+          "es": "Porque se negaba a interrumpir su delicado estado de flujo. Al eliminar las transiciones cotidianas (cambiarse de ropa, ducharse, dormir largos periodos), canalizó la corriente continua de inspiración artística directamente a sus esculturas.",
+          "de": "Weil er seinen hochsensiblen Flow-Zustand nicht unterbrechen wollte. Durch das Vermeiden alltäglicher Übergänge (Umziehen, Duschen, langer Schlaf) lenkte er den kontinuierlichen Fluss seiner künstlerischen Eingebung ohne Unterbrechung in die Skulpturen.",
+          "fr": "Parce qu'il refusait de briser son état de concentration extrême. En éliminant les transitions quotidiennes (se changer, se doucher, dormir longtemps), il canalisait le flux continu de sa création directement dans ses œuvres.",
+          "pt": "Porque ele se recusava a interromper seu delicado estado de fluxo. Ao eliminar transições diárias (trocar de roupa, tomar banho, dormir muito), canalizou o fluxo contínuo de inspiração diretamente para suas esculturas.",
+          "id": "Karena ia menolak memutus kondisi fokusnya yang sangat sensitif. Dengan menghilangkan transisi harian sepele (berganti pakaian, mandi, tidur lama), ia menyalurkan alur fokus kreatifnya secara terus-menerus langsung ke pahatannya."
         }
       },
       {
         "question": {
-          "ko": "현대 일상에서 의사결정 피로를 줄이는 구체적 팁은 무엇인가요?"
+          "ko": "현대 일상에서 의사결정 피로를 줄이는 구체적 팁은 무엇인가요?",
+          "en": "What are practical ways to reduce decision fatigue in modern daily life?",
+          "ja": "現代の日常で意思決定疲労を減らす具体的なヒントは何ですか？",
+          "zh": "在现代日常生活中减少决策疲劳的具体技巧是什么？",
+          "es": "¿Cuáles son consejos prácticos para reducir la fatiga de decisión en el día a día moderno?",
+          "de": "Was sind praktische Tipps zur Reduzierung von Entscheidungsmüdigkeit im modernen Alltag?",
+          "fr": "Quels sont les conseils pratiques pour réduire la fatigue décisionnelle au quotidien ?",
+          "pt": "Quais são as dicas práticas para reduzir a fadiga de decisão no dia a dia moderno?",
+          "id": "Apa saja tips praktis untuk mengurangi kelelahan keputusan dalam kehidupan sehari-hari modern?"
         },
         "answer": {
-          "ko": "스티브 잡스의 단일 유니폼 습관처럼 사소한 선택(무엇을 입을지, 무엇을 먹을지 등)을 미리 규격화해 두거나, 작업 공간의 주변 자극을 원천 차단하여 인지적 에너지의 쓸데없는 소모를 차단하는 것입니다."
+          "ko": "스티브 잡스의 단일 유니폼 습관처럼 사소한 선택(무엇을 입을지, 무엇을 먹을지 등)을 미리 규격화해 두거나, 작업 공간의 주변 자극을 원천 차단하여 인지적 에너지의 쓸데없는 소모를 차단하는 것입니다.",
+          "en": "Pre-plan minor choices like meals and attire using a set schedule or uniform approach (like Steve Jobs), and eliminate peripheral clutter in your workspace to prevent wasting cognitive energy.",
+          "ja": "スティーブ・ジョブズの単一ユニフォーム習慣のように、些細な選択（着る服、食べるもの等）をあらかじめ規格化しておいたり、作業空間の周囲の刺激を遮断して認知エネルギーの無駄遣いを防ぐことです。",
+          "zh": "像史蒂夫·乔布斯的固定穿搭习惯一样，将日常小选择（穿什么、吃什么等）预先标准化，或彻底切断工作空间周边的次要干扰，以防止认知能量的浪费。",
+          "es": "Planifique previamente selecciones secundarias como la vestimenta o la comida mediante una rutina fija (al estilo Steve Jobs) y elimine las distracciones periféricas en su espacio de trabajo para evitar gastar energía cognitiva.",
+          "de": "Planen Sie kleine Entscheidungen wie Kleidung oder Mahlzeiten durch feste Routinen vor (wie Steve Jobs) und entfernen Sie Ablenkungen am Arbeitsplatz, um kognitive Energie zu sparen.",
+          "fr": "Prédéterminez les choix secondaires (tenue, repas) grâce à une routine définie (comme Steve Jobs) et éliminez le désordre visuel de votre bureau pour préserver votre énergie mentale.",
+          "pt": "Predefina escolhas secundárias como roupas e refeições por meio de uma rotina fixa (como Steve Jobs) e elimine distrações ao redor da sua mesa para evitar o desperdício de energia cognitiva.",
+          "id": "Rencanakan sebelumnya pilihan sekunder seperti pakaian atau makanan melalui rutinitas tetap (seperti gaya Steve Jobs) dan hilangkan gangguan di sekitar meja kerja untuk mencegah pemborosan energi kognitif."
         }
       }
     ]

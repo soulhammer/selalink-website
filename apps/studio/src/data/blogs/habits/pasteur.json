@@ -1,70 +1,214 @@
 {
   "pasteur": {
     "title": {
-      "ko": "플라스크 배양액의 미세 변화를 실시간으로 추적한 파스퇴르의 피드백 루프"
+      "ko": "플라스크 배양액의 미세 변화를 실시간으로 추적한 파스퇴르의 피드백 루프",
+      "en": "Pasteur's Feedback Loop: Real-Time Tracking of Microscopic Changes in Flask Cultures",
+      "ja": "フラスコ培養液の微細な変化をリアルタイムで追跡したパスツールのフィードバックループ",
+      "zh": "巴斯德的实时反馈环路：追踪烧瓶培养液中的微小变化",
+      "es": "El bucle de retroalimentación de Pasteur: Seguimiento en tiempo real de cambios microscópicos en cultivos",
+      "de": "Pasteurs Feedback-Schleife: Echtzeit-Verfolgung mikroskopischer Veränderungen in Kolbenkulturen",
+      "fr": "La boucle de rétroaction de Pasteur : Suivi en temps réel des variations microscopiques dans les flacons",
+      "pt": "O Loop de Feedback de Pasteur: Rastreamento em Tempo Real de Mudanças Microscópicas em Culturas de Frasco",
+      "id": "Loop Umpan Balik Pasteur: Pelacakan Real-Time Perubahan Mikroskopis pada Biakan Labu"
     },
     "description": {
-      "ko": "백신 개발과 저온 살균법의 아버지가 된 프랑스의 미생물학자로, 실험 도중 주의력을 분산하는 단 1%의 미세 노이즈조차 허용하지 않는 완벽한 물리적 책상 정돈을 고수했습니다."
+      "ko": "백신 개발과 저온 살균법의 아버지가 된 프랑스의 미생물학자로, 실험 도중 주의력을 분산하는 단 1%의 미세 노이즈조차 허용하지 얊는 완벽한 물리적 책상 정돈을 고수했습니다.",
+      "en": "Discover the routine of Louis Pasteur, the French microbiologist and father of pasteurization and vaccines, who maintained meticulous desk organization to eliminate any 1% noise that could distract during experiments.",
+      "ja": "ワクチン開発と低温殺菌法の父であるフランスの微生物学者、ルイ・パスツール。実験中に注意を逸らす僅か1%のノイズも許さない完全なデスク整頓習慣を探ります。",
+      "zh": "探索“疫苗之父”与低温消毒法创造者路易·巴斯德的例程。他在实验中绝不容忍哪怕1%分散注意力的杂音，坚持完美的物理桌面整洁。",
+      "es": "Descubra la rutina de Louis Pasteur, el microbiólogo francés padre de la pasteurización y las vacunas, quien mantenía un escritorio impecable para eliminar cualquier distracción.",
+      "de": "Erfahren Sie mehr über Louis Pasteur, den Vater der Pasteurisierung und Impfstoffe, der absolute Schreibtischordnung hielt, um jede Ablenkung im Keim zu ersticken.",
+      "fr": "Découvrez la routine de Louis Pasteur, le père de la pasteurisation et des vaccins, qui maintenait une organisation minutieuse pour éliminer toute distraction.",
+      "pt": "Descubra a rotina de Louis Pasteur, pai da pasteurização e das vacinas, que mantinha uma organização impecável na mesa para eliminar qualquer distração.",
+      "id": "Pelajari rutinitas Louis Pasteur, bapak pasteurisasi dan vaksin, yang menjaga kerapian meja secara teliti untuk mengeliminasi gangguan sekecil apa pun."
     },
     "authority": {
-      "ko": "Pasteur 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "Pasteur 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Louis Pasteur Historical Biography & Autobiographical Records Research & Cognitive Neuroscience Studies",
+      "ja": "Pasteur 歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "Pasteur 历史传记与自传记录考证 & 认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Investigación de registros biográficos e históricos de Pasteur y estudios de neurociencia cognitiva",
+      "de": "Pasteur Historische Biografie & Autobiografische Aufzeichnungen & Kognitive Neurowissenschaften",
+      "fr": "Étude des biographies historiques et récits autobiographiques de Pasteur & Recherche en neurosciences cognitives",
+      "pt": "Pesquisa de Registros Biográficos e Históricos de Pasteur & Estudos de Neurociência Cognitiva",
+      "id": "Riset Biografi Historis dan Catatan Autobiografi Pasteur & Studi Neurosains Kognitif"
     },
     "intro": {
-      "ko": "근대 의학과 미생물학의 절대적인 개척자이자 백신의 시초를 연 프랑스의 천재 화학자로, 저온 살균법(Pasteurization)과 탄저병/광견병 백신을 발명하여 인류를 감염병의 공포로부터 구원해 낸 루이 파스퇴르. 그는 실험실 책상에 앉아 현미경 돋보기 아래에 놓인 플라스크 배양액을 몇 시간 동안 미동도 없이 응시했습니다. 그는 미생물이 증식하며 남기는 미세한 흔들림 궤적을 1분 단위로 꼼꼼히 노트에 그리며 기록했습니다. 그의 소독법과 백신 발견은 이렇게 플라스크를 응시하며 관찰한 피드백 루틴에서 탄생했습니다.\n\n오늘 포스트에서는 그가 고수한 '현미경 아래 놓인 플라스크 배양액의 미생물 흔들림 관찰하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다."
+      "ko": "\"\\uad00\\ucc30\\uc758 \\uc601\\uc5ed\\uc5d0\\uc11c \\uae30\\ud68c\\ub294 \\uc900\\ube44\\ub41c \\uc790\\uc5d0\\uac8c\\ub9cc \\ubbf8\\uc18c\\ub97c \\uc9d3\\ub294\\ub2e4.\" 🔬\n\n근\\ub300 \\uc758\\ud559\\uacfc \\ubbf8\\uc0dd\\ubb3c\\ud559\\uc758 \\uc808\\ub300\\uc801\\uc788 \\uac1c\\ucc99\\uc790\\uc774\\uc790 \\ubc31\\uc2e0\\uc758 \\uc2dc\\ucd08\\ub97c \\uc5f0 \\ud504\\ub791\\uc2a4\\uc758 \\ucc9c\\uc7ac \\ud654\\ud559\\uc790 \\ub8e8\\uc774 \\ud30c\\uc2a4\\ud1f4\\ub974(Louis Pasteur, 1822–1895). \\uc800\\uc628 \\uc0b4\\uade0\\ubc95(Pasteurization)\\uacfc \\ud0c4\\uc800\\ubcd1, \\uad11\\uacac\\ubcd1 \\ubc31\\uc2e0\\uc744 \\ubc1c\\uba85\\ud558\\uc5ec \\uc778\\ub958\\ub97c \\uac10\\uc5fc\\ubcd1\\uc758 \\uacf5\\ud3ec\\ub85c\\ubd80\\ud130 \\uad6c\\uc6d0\\ud574 \\ub0b8 \\uadf8\\ub294 \\uc2e4\\ud5d8\\uc2e4 \\ucc45\\uc0c1\\uc5d0 \\uc549\\uc544 \\ud604\\ubbf8\\uacbd \\ub3cb\\ubcf4\\uae30 \\uc544\\ub798\\uc5d0 \\ub193\\uc788 \\ud50c\\ub77c\\uc2a4\\ud06c \\ubc30\\uc591\\uc561\\uc744 \\uba87 \\uc2dc\\uac04 \\ub3d9\\uc548 \\ubbf8\\ub3d9\\ub3c4 \\uc5c6\\uc774 \\uc751\\uc2dc\\ud588\\uc2b5\\ub2c8\\ub2e4. \\uadf8\\ub294 \\ubbf8\\uc0dd\\ubb3c\\uc788 \\uc99d\\uc2dd\\ud558\\uba70 \\ub0a8\\uae30\\ub294 \\ubbf8\\uc138\\ud55c \\ud754\\ub4e4\\ub9bc \\uada4\\uc801\\uc744 1\\ubd84 \\ub2e8\\uc704\\ub85c \\uaf3c\\uaf3c\\ud788 \\ub178\\ud2b8\\uc5d0 \\uadf8\\ub9ac\\uba70 \\uae30\\ub85d\\ud588\\uc2b5\\ub2c8\\ub2e4. \\uadf8\\uc788 \\uc18c\\ub3c5\\ubc95\\uacfc \\ubc31\\uc2e0 \\ubc1c\\uacac\\uc740 \\uc774\\ub807\\uac8c \\ud50c\\ub77c\\uc2a4\\ud06c\\ub97c \\uc751\\uc2dc\\ud588\\uba70 \\uad00\\ucc30\\ud558\\ub294 \\ud53c\\ub4dc\\ubc31 \\ub8e8\\ud2f4\\uc5d0\\uc11c \\ud0c4\\uc0dd\\ud588\\uc2b5\\ub2c8\\ub2e4.\n\n오\\ub298 \\ud3ec\\uc2a4\\ud2b8\\uc5d0\\uc11c\\ub294 \\uadf8\\uac00 \\uace0\\uc218\\ud588\\ub358 '현미경 아래 놓있 플라스크 배양액있 미생물 흔들림 관찰하기' 습관있 인지과학적 과학 원리와 현대있들있 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다.",
+      "en": "\"In the fields of observation, chance favors only the prepared mind.\" 🔬\n\nLouis Pasteur (1822–1895) was a monumental French chemist and microbiologist who pioneered modern medicine, pasteurization, and rabies/anthrax vaccines, saving humanity from infectious terror. Sitting at his laboratory desk, Pasteur stared motionless for hours at flask culture broths placed beneath microscopes. He meticulously recorded subtle microorganism motion trajectories minute by minute in his notebook. His breakthrough antiseptic methods and vaccine discoveries emerged directly from this feedback observation routine.\n\nIn this post, we explore the cognitive science principles behind Pasteur's flask observation routine and present a 3-step actionable guide for high performers today.",
+      "ja": "「観察の分野において、幸運は準備された心だけに微笑む。」 🔬\n\n近代医学と微生物学の開拓者でありワクチンの始祖を開いたフランスの天才化学者ルイ・パスツール（Louis Pasteur, 1822–1895）。低温殺菌法（Pasteurization）や狂犬病ワクチンを発明して人類を感染症から救った彼は、顕微鏡下のフラスコ培養液を何時間も動かずに凝視しますは。微生物が残す微細な変化を1分単位でノートに記録したこの観察フィードバックルーティンから、近代の発見が生まれました。\n\n本記事では、パスツールが貫いた観察習慣の認知科学的原理と3段階の実践ガイドを紹介します。",
+      "zh": "“在观察的领域里，机遇只偏爱有准备的头脑。” 🔬\n\n路易·巴斯德（Louis Pasteur，1822–1895）是开创现代医学与微生物学基石的伟大科学家。他发明了低温消毒法（Pasteurization）以及狂犬病与炭疽疫苗，将人类从传染病的恐惧中解救出来。巴斯德常常在实验室书桌前纹丝不动地端坐数小时，凝视显微镜下的烧瓶培养液，并逐分记录微生物繁殖留下的微小轨迹。正是这种专注观察的反馈例程诞生了改变人类命运的疫苗与消毒法。\n\n在今天的文章中，我们将探讨巴斯德观察例程背后的认知科学原理，并介绍现代人可轻松实践的三步指南。",
+      "es": "\"En el campo de la observación, el azar solo favorece a la mente preparada.\" 🔬\n\nLouis Pasteur (1822–1895) fue el genio francés que revolucionó la medicina moderna, inventó la pasteurización y desarrolló vacunas contra la rabia y el ántrax. Pasteur pasaba horas inmóvil observando los cultivos en sus matracas bajo el microscopio, anotando minuciosamente cada pequeño cambio. De esta rutina de observación nació la medicina profiláctica moderna.\n\nEn esta publicación, exploramos los principios cognitivos detrás de la rutina de observación de Pasteur y cómo aplicarla.",
+      "de": "\"In den Feldern der Beobachtung begünstigt der Zufall nur den vorbereiteten Geist.\" 🔬\n\nLouis Pasteur (1822–1895) war der französische Mikrobiologe, der die moderne Medizin mit der Pasteurisierung und Impfstoffen gegen Tollwut rettete. Stundenlang saß er unbeweglich am Labortisch und beobachtete Bakterienkulturen unter dem Mikroskop. Aus dieser exakten Beobachtungsroutine entstanden seine Entdeckungen.\n\nIn diesem Beitrag untersuchen wir die kognitiven Prinzipien hinter Pasteurs Routine und bieten eine 3-Schritte-Anleitung.",
+      "fr": "\"Dans les champs de l'observation, le hasard ne favorise que les esprits préparés.\" 🔬\n\nLouis Pasteur (1822–1895) est le chimiste et microbiologiste français visionnaire qui a inventé la pasteurisation et les vaccins contre la rage. Assis immobile pendant des heures, il observait les cultures dans ses flacons au microscope, consignant chaque variation. C'est de cette routine d'observation précise qu'est née la médecine moderne.\n\nDans cet article, nous présentons les principes cognitifs de la routine de Pasteur et un guide en 3 étapes.",
+      "pt": "\"No campo da observação, o acaso só favorece a mente preparada.\" 🔬\n\nLouis Pasteur (1822–1895) foi o gênio francês que revolucionou a medicina moderna ao criar a pasteurização e a vacina contra a raiva. Pasteur passava horas imóvel observando frascos sob o microscópio, anotando cada mudança. Dessa rotina meticulosa de feedback nasceram suas descobertas.\n\nNeste artigo, exploramos os princípios cognitivos por trás da rotina de observação de Pasteur e apresentamos um guia prático.",
+      "id": "\"Dalam bidang pengamatan, keberuntungan hanya memihak pada pikiran yang siap.\" 🔬\n\nLouis Pasteur (1822–1895) adalah ilmuwan Prancis yang memelopori medis modern, pasteurisasi, serta vaksin rabies. Pasteur duduk tak bergerak selama berjam-jam mengamati biakan labu di bawah mikroskop, mencatat 변화 sekecil apa pun. Dari rutinitas observasi inilah lahir penemuan vaksin modern.\n\nDalam postingan ini, kita akan menjelajahi prinsip kognitif di balik rutinitas Pasteur dan panduan 3 langkah untuk menerapkannya."
     },
     "whyTitle": {
-      "ko": "성공을 자아내는 뇌과학적 원리 분석"
+      "ko": "성공을 자아내는 뇌과학적 원리 분석",
+      "en": "Neuroscientific Analysis of the Principles Behind Success",
+      "ja": "成功をもたらす脳科学的原理の分析",
+      "zh": "引发成功的脑科学原理分析",
+      "es": "Análisis neurocientífico de los principios detrás del éxito",
+      "de": "Neurowissenschaftliche Analyse der Erfolgsprinzipien",
+      "fr": "Analyse neuroscientifique des principes du succès",
+      "pt": "Análise Neurocientífica dos Princípios Por Trás do Sucesso",
+      "id": "Analisis Prinsip Neurosains di Balik Keberhasilan"
     },
     "whyDesc": {
-      "ko": "가설을 세우고 미세한 관찰 대상의 변화 궤적을 뇌에 입력하여 실시간 피드백 루프(Feedback Loop)를 가동하는 행위는 뇌의 미세 감각 분해능을 증진시킵니다. 관찰 데이터의 변화를 즉시 텍스트로 치환하고 기록하는 과정은 뇌의 외측전두엽과 시각 연합 피질 간의 신경망 연결을 단단하게 다져주어, 비즈니스의 사소한 변화 흐름이나 환경 오차 요인을 남들보다 한발 앞서 감지해내는 통찰 분석력을 고조시킵니다."
+      "ko": "가설을 세우고 미세한 관찰 대상있 변화 궤적을 뇌에 입력하여 실시간 피드백 루프(Feedback Loop)를 가동하는 행위는 뇌있 미세 감각 분해능을 증진시킵니다. 관찰 데이터있 변화를 즉시 텍스트로 치환하고 기록하는 과정은 뇌있 외측전두엽과 시각 연합 피질 간있 신경망 연결을 단단하게 다져주어, 비즈니스있 사소한 변화 흐름이나 환경 오차 요인을 남들보다 한발 앞서 감지해내는 통찰 분석력을 고조시킵니다.",
+      "en": "Formulating hypotheses and tracking subtle change trajectories establishes a real-time feedback loop that sharpens sensory resolution. Translating observations into written text solidifies neural pathways between the lateral prefrontal cortex and visual association cortex, enhancing analytical insight.",
+      "ja": "仮説を立て、微細な観察対象の変化軌跡を追跡してリアルタイムフィードバックループを稼働させる行為は、脳の感性解像度を高めます。観察データを記録しる過程は、外側前頭前野と視覚連合野の神経結合を強化し、洞察分析力を引き上げます。",
+      "zh": "建立假设并通过追踪微小的观察变化轨迹来启动实时反馈环路（Feedback Loop），能够提升大脑的微观感知分辨率。将观察到的数据即时转化为文字进行记录，可巩固大脑外侧前额叶与视觉联合皮层之间的神经网络连接，增强洞察分析力。",
+      "es": "Formular hipótesis y rastrear cambios sutiles activa un bucle de retroalimentación que fortalece la conexión entre la corteza prefrontal lateral y la corteza de asociación visual, potenciando la capacidad analítica.",
+      "de": "Hypothesen aufzustellen und Veränderungen zu dokumentieren, stärkt neuronale Netzwerke zwischen präfrontalem Kortex und visuellem Kortex, was die analytische Schärfe erhöht.",
+      "fr": "Formuler des hypothèses et consigner les observations consolide les réseaux neuronaux entre le cortex préfrontal et le cortex visuel, renforçant l'analyse et la perspicacité.",
+      "pt": "Formular hipóteses e registrar mudanças consolida as redes neurais entre o córtex pré-frontal e o córtex de associação visual, aumentando o discernimento analítico.",
+      "id": "Merumuskan hipotesis dan mencatat perubahan halus secara real-time memperkuat koneksi saraf antara korteks prefrontal lateral dan korteks asosiasi visual, meningkatkan wawasan analitis."
     },
     "cautionTitle": {
-      "ko": "성공적인 안착을 위한 행동과학 조언"
+      "ko": "성공적있 안착을 위한 행동과학 조언",
+      "en": "Behavioral Science Advice for Successful Habit Anchor",
+      "ja": "習慣の定着に向けた行動科学のアドバイス",
+      "zh": "促进习惯成功的行为科学建议",
+      "es": "Consejos de ciencia conductual para un hábito exitoso",
+      "de": "Verhaltenswissenschaftlicher Rat zur Gewohnheitsbildung",
+      "fr": "Conseil en science du comportement pour ancrer une habitude",
+      "pt": "Conselhos de Ciência Comportamental para Fixar Hábitos",
+      "id": "Saran Sains Perilaku untuk Mengunci Kebiasaan"
     },
     "cautionDesc": {
-      "ko": "습관을 너무 완벽하게 하려고 몸에 무리를 주지 마세요. 가볍고 편안하게 매일 3분간 실천하여 근육과 뉴런이 천천히 기억하도록 길을 뚫어 주는 것이 핵심입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
+      "ko": "습관을 너무 완벽하게 하려고 몸에 무리를 주지 마세요. 가볍고 편안하게 매일 3분간 실천하여 근육과 뉴런있 천천히 기억하도록 길을 뚫어 주는 것이 핵심입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것입 지속성있 핵심입니다.",
+      "en": "Do not strain yourself aiming for perfection. Practicing comfortably for just 3 minutes daily builds neural connections smoothly. Design physical cues in your environment rather than relying solely on willpower.",
+      "ja": "習慣を完璧にしようと無理をしないでください。毎日3分間快適に実践し、ニューロンが記憶する道をゆっくり作るのが鍵です。意志力だけに頼らず、行動が誘発される環境を設計してください。",
+      "zh": "不要为了追求完美而给身体造成负担。每天轻松舒适地实践3分钟，让肌肉与神经元慢慢记忆才是关键。不要盲目依赖意志力，预先设计能自然诱发行动的环境与习惯信号才是长久之道。",
+      "es": "No se sobreexija buscando la perfección. Practicar cómodamente 3 minutos al día construye conexiones neuronales de forma natural. Diseñe su entorno en lugar de confiar solo en la voluntad.",
+      "de": "Überfordern Sie sich nicht mit Perfektionismus. 3 Minuten tägliche Praxis reichen aus, um neuronale Pfade aufzubauen. Gestalten Sie Ihre Umgebung so, dass das Verhalten ausgelöst wird.",
+      "fr": "Ne vous surmenez pas par perfectionnisme. Pratiquer confortablement 3 minutes par jour crée doucement des liens neuronaux. Aménagez votre environnement au lieu de compter uniquement sur la volonté.",
+      "pt": "Não se sobrecarregue buscando a perfeição. Praticar 3 minutos por dia constrói conexões neurais. Projete o ambiente em vez de depender apenas da força de vontade.",
+      "id": "Jangan memaksakan diri demi kesempurnaan. Berlatih dengan nyaman selama 3 menit sehari membangun jalur saraf secara bertahap. Desain lingkungan sekitar untuk memicu tindakan secara alami."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 환경 설정 및 도구 세팅"
+          "ko": "1단계: 환경 설정 및 도구 세팅",
+          "en": "Step 1: Environment & Tool Setup",
+          "ja": "ステップ1：環境設定およびツールセッティング",
+          "zh": "步骤1：环境配置与工具准备",
+          "es": "Paso 1: Configuración del entorno y herramientas",
+          "de": "Schritt 1: Umwelt- und Werkzeugeinrichtung",
+          "fr": "Étape 1 : Configuration de l'environnement et des outils",
+          "pt": "Passo 1: Configuração do Ambiente e Ferramentas",
+          "id": "Langkah 1: Pengaturan Lingkungan & Peralatan"
         },
         "text": {
-          "ko": "매일 오후 집중 훈련 시간을 확보하여 주변의 변화가 일어나는 대상(화분 잎사귀의 각도 변화, 컴퓨터 화면의 데이터 눈금 등) 1가지를 선정합니다. 관찰 초점을 고정합니다."
+          "ko": "매일 오후 집중 훈련 시각을 확보하여 주변있 변화가 일어나는 대상(화분 잎사귀있 각도 변화, 컴퓨터 화면있 데이터 눈금 등) 1가지를 선정합니다. 관찰 초점을 고정합니다.",
+          "en": "Set aside time daily to select one subject undergoing subtle changes (e.g., houseplant leaf angle, data metrics on screen) and fix your observational focus.",
+          "ja": "毎日午後、変化が起こる対象（観葉植物の葉の角度、画面のデータ等）を1つ選定し、観察の焦点を固定します。",
+          "zh": "每天下午留出时间，选择一个正在发生微小变化的观察对象（如盆栽叶片的角度变化、屏幕上的数据指标等），固定观察焦点。",
+          "es": "Reserve un momento diario para seleccionar un objeto sujeto a cambios (como las hojas de una planta) y fije su enfoque.",
+          "de": "Wählen Sie täglich ein Objekt aus, das sich verändert (z. B. eine Pflanze), und richten Sie Ihren Fokus darauf.",
+          "fr": "Réservez un moment par jour pour choisir un sujet sujet à variation (comme une plante) et fixez votre attention.",
+          "pt": "Reserve um tempo diário para selecionar um objeto em mudança e fixe seu foco de observação.",
+          "id": "Sediakan waktu harian untuk memilih satu objek yang mengalami perubahan halus dan fokuskan perhatian Anda."
         }
       },
       {
         "name": {
-          "ko": "2단계: 온전한 감각 투사와 실천"
+          "ko": "2단계: 온전한 감각 투사와 실천",
+          "en": "Step 2: Full Sensory Focus & Recording",
+          "ja": "ステップ2：完全な感覚投射と実践",
+          "zh": "步骤2：完全感觉投入与记录",
+          "es": "Paso 2: Enfoque sensorial completo y registro",
+          "de": "Schritt 2: Volle sensorische Fokussierung und Dokumentation",
+          "fr": "Étape 2 : Focalisation sensorielle complète et consignation",
+          "pt": "Passo 2: Foco Sensorial Completo e Registro",
+          "id": "Langkah 2: Fokus Sensorik Penuh & Pencatatan"
         },
         "text": {
-          "ko": "선택한 대상의 현재 상태를 1분 동안 침묵 속에서 정밀 관찰하여 수치 정보 2가지로 치환해 노트에 아날로그 기록합니다."
+          "ko": "선택한 대상있 현재 상태를 1분 동안 침묵 속에서 정밀 관찰하여 수치 정보 2가지로 치환해 노트에 아날로그 기록합니다.",
+          "en": "Observe the selected target silently for 1 minute, converting the observation into 2 numerical metrics recorded in your notebook.",
+          "ja": "選択した対象の現在状態を1分間静寂の中で観察し、2つの数値情報に換算してノートに記録します。",
+          "zh": "在静默中集中观察选定对象1分钟，将其转化为2项具体数据记录在手写笔记中。",
+          "es": "Observe en silencio el objeto durante 1 minuto y registre 2 datos numéricos en su libreta.",
+          "de": "Beobachten Sie das Objekt 1 Minute lang in Stille und halten Sie 2 Messwerte im Notizbuch fest.",
+          "fr": "Observez le sujet en silence pendant 1 minute et notez 2 données chiffrées dans votre carnet.",
+          "pt": "Observe em silêncio por 1 minuto e anote 2 dados numéricos no seu caderno.",
+          "id": "Amati objek dalam keheningan selama 1 menit, ubah menjadi 2 data terukur dan catat di buku."
         }
       },
       {
         "name": {
-          "ko": "3단계: 객관적 응시 및 메타 정리"
+          "ko": "3단계: 객관적 응시 및 메타 정리",
+          "en": "Step 3: Objective Review & Meta-Feedback",
+          "ja": "ステップ3：客観的凝視とメタ整理",
+          "zh": "步骤3：客观观察与元总结",
+          "es": "Paso 3: Revisión objetiva y meta-retroalimentación",
+          "de": "Schritt 3: Objektive Überprüfung und Meta-Analyse",
+          "fr": "Étape 3 : Examen objectif et méta-analyse",
+          "pt": "Passo 3: Revisão Objetiva e Meta-Feedback",
+          "id": "Langkah 3: Peninjauan Objektif & Meta-Umpan Balik"
         },
         "text": {
-          "ko": "1시간 후 다시 대상을 관찰하여 아주 미세한 변화(1mm의 틀어짐, 1%의 지표 변화 등)를 측정하고 그 인과관계를 1분간 유추 분석하는 피드백 훈련을 수행해 기록합니다."
+          "ko": "1시간 후 다시 대상을 관찰하여 아주 미세한 변화(1mm있 틀어짐, 1%있 지표 변화 등)를 측정하고 그 인과관계를 1분간 유추 분석하는 피드백 훈련을 수행해 기록합니다.",
+          "en": "Observe the subject again 1 hour later, measure subtle changes (e.g., 1mm shift, 1% metric change), and record a 1-minute cause-and-effect reflection.",
+          "ja": "1時間後に再び対象を観察して微細な変化（1mmのズレ、1%の指標変化など）を測定し、その因果関係を1分間分析して記録します。",
+          "zh": "1小时后再次观察对象，测量细微变化（如1毫米的偏移、1%的指标变动），并记录1分钟关于因果关系的推导分析。",
+          "es": "1 hora después vuelva a observar el objeto, mida cambios sutiles y anote una breve reflexión de causa y efecto.",
+          "de": "Beobachten Sie das Objekt nach 1 Stunde erneut, messen Sie minimale Abweichungen und dokumentieren Sie die Ursachen.",
+          "fr": "1 heure plus tard, observez à nouveau le sujet, mesurez les légères variations et notez une brève analyse de cause à effect.",
+          "pt": "1 hora depois, observe novamente, meça mudanças sutis e anote uma breve reflexão sobre as causas.",
+          "id": "Amati kembali 1 jam kemudian, ukur perubahan halus, dan catat analisis sebab-akibat singkat selama 1 menit."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "매일 실험 전에 이 정리 의식을 수행해야 하나요?"
+          "ko": "매일 실험 전에 이 정리 의식을 수행해야 하나요?",
+          "en": "Should I perform this organization ritual daily before work?",
+          "ja": "毎日作業の前にこの整頓儀式を行うべきですか？",
+          "zh": "每天工作前都需要执行这项整理仪式吗？",
+          "es": "¿Debo realizar este ritual de orden a diario antes de trabajar?",
+          "de": "Sollte ich dieses Aufräumritual täglich vor der Arbeit durchführen?",
+          "fr": "Dois-je effectuer ce rituel de rangement quotidiennement avant de travailler ?",
+          "pt": "Devo realizar este ritual de organização diariamente antes de trabalhar?",
+          "id": "Apakah saya harus melakukan ritual kerapian ini setiap hari sebelum bekerja?"
         },
         "answer": {
-          "ko": "네, 작업을 시작하기 전 렌즈를 정밀하게 닦으며 뇌에 인지적 정돈 신호를 주어 업무 집중도를 극대화합니다."
+          "ko": "네, 작업을 시작하기 전 렌즈를 정밀하게 닦으며 뇌에 인지적 정돈 신호를 주어 업무 집중도를 극대화합니다.",
+          "en": "Yes, cleaning lenses or clearing your desk before starting gives your brain a signal of cognitive order, maximizing deep work focus.",
+          "ja": "はい、作業を開始する前にレンズを丁寧に拭くことで脳に認知的整頓の信号を与え、集​​中力を極大化させます。",
+          "zh": "是的，在开始工作前擦拭镜头或整理桌面，能向大脑伢递认知整洁的信号，从而将工作专注度提升至最高。",
+          "es": "Sí, limpiar las lentes o despejar su mesa envía una señal de orden cognitivo a su cerebro para maximizar la concentración.",
+          "de": "Ja, das Reinigen der Linsen oder das Aufräumen gibt dem Gehirn ein Signal der Ordnung, um den Fokus zu maximieren.",
+          "fr": "Oui, nettoyer les objectifs ou ranger votre bureau envoie un signal d'ordre cognitif au cerveau pour maximiser l'attention.",
+          "pt": "Sim, limpar a mesa ou as lentes antes de começar envia um sinal de ordem ao cérebro para maximizar o foco.",
+          "id": "Ya, membersihkan lensa atau merapikan meja sebelum mulai memberikan sinyal keteraturan kognitif pada otak untuk memaksimalkan fokus."
         }
       },
       {
         "question": {
-          "ko": "현미경이나 세척 융이 없으면 어떻게 대체하나요?"
+          "ko": "현미경이나 세척 융이 없으면 어떻게 대체하나요?",
+          "en": "How can I replace this if I don't have a microscope or microfiber cloth?",
+          "ja": "顕微鏡やDedicatedクロスがない場合、ちちう\\u4ee3\\u7528すればいいですか？",
+          "zh": "如果没有显微镜或专用擦拭布，该如何替代？",
+          "es": "¿Cómo puedo reemplazar esto si no tengo un microscopio o paño de microfibra?",
+          "de": "Wie kann ich dies ersetzen, wenn ich kein Mikroskop oder Mikrofasertuch habe?",
+          "fr": "Comment remplacer cela si je n'ai pas de microscope ou de chiffon en microfibre ?",
+          "pt": "Como posso substituir se não tiver um microscópio ou pano de microfibra?",
+          "id": "Bagaimana cara menggantinya jika saya tidak memiliki mikroskop atau kain mikrofiber?"
         },
         "answer": {
-          "ko": "매일 일과 시작 전 내 컴퓨터 모니터를 극세사천으로 닦거나, 책상을 정돈하고 스마트폰 액정을 깨끗이 닦는 행위로 동일한 효과를 얻습니다."
+          "ko": "매일 일과 시작 전 내 컴퓨터 모니터를 극세사첓으로 닦거나, 책상을 정돈하고 스마트폰 액정을 께끗이 닦는 행위로 동일한 효과를 엊ad습니다.",
+          "en": "Wiping down your computer monitor with a microfiber cloth, organizing your desk, or cleaning your smartphone screen before starting your daily work achieves the exact same psychological effect.",
+          "ja": "毎日の作業前にパソコンのモニターをクロスで拭いたり、デスクを整頓しスマートフォンの画面を拭くことで同様の効果が得られます。",
+          "zh": "每天工作前用超绖纤维布擦拭电脑屏幕、数理桌面或擦干净智能手机屏幕，就能取得完全相同的心理学效果。",
+          "es": "Limpiar la pantalla de su ordenador, ordenar su mesa o limpiar la pantalla del móvil antes de empezar produce exactamente el mismo efecto.",
+          "de": "Das Abwischen des Bildschirms, das Schreibtisch-Aufräumen oder das Reinigen des Smartphones erzielt exakt denselben Effekt.",
+          "fr": "Essuyer votre \\u00e9cran d'ordinateur, ranger votre bureau ou nettoyer votre smartphone avant de commencer produit exactement le mê me effet.",
+          "pt": "Limpar a tela do computador, organizar a mesa ou limpar o celular antes de começar gera exatamente o mesmo efeito.",
+          "id": "Merapikan meja, menyapu layar komputer, atau membersihkan layar ponsel dengan kain sebelum bekerja menghasilkan efek psikologis yang persis sama."
         }
       }
     ]

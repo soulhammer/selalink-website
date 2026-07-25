@@ -10,19 +10,19 @@ app: "buildself"
 formatVersion: 4
 authority: "모차르트 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
-  - name: "Stop work when thoughts freeze"
-    text: "When you have thought for over an hour and cannot proceed, immediately push your keyboard away and stand up."
-  - name: "Immerse in a spatial physics game for 10 minutes"
-    text: "Find a physical pool table, darts, or a physics puzzle game. Focus completely on the geometric path of the target for 10 minutes, letting your prefrontal control rest."
-  - name: "Return and capture the insights"
-    text: "Sit back down and look at the project. Often, a new path or a creative breakthrough synthesized during the rest will naturally surface in your conscious mind."
+  - name: "생각이 멈출 때 즉시 작업 중단"
+    text: "한 시간 이상 고민해도 더 이상 진전이 없을 때, 즉시 키보드나 펜을 밀어두고 자리에서 일어납니다."
+  - name: "10분간 시공간 물리 게임 몰입"
+    text: "실제 당구, 다트, 혹은 공간 궤적과 물리적 예측이 필요한 게임에 10분간 온전히 몰입하며 전두엽의 통제를 휴식시킵니다."
+  - name: "복귀 후 떠오른 통찰 포착"
+    text: "다시 책상에 앉아 과제를 바라봅니다. 휴식 중 무의식에서 합성된 새로운 아이전이나 창의적 돌파구가 자연스럽게 의식 표면으로 올라옵니다."
 faqs:
   - question: "스마트폰 일반 게임도 동일한 전환 효과를 주나요?"
     answer: "소셜 미디어나 강한 텍스트 및 자극이 동반되는 모바일 게임은 전두엽의 다른 영역을 과도하게 긴장시켜 오히려 뇌의 피로(Cognitive Load)를 가중시킵니다. DMN 효과를 얻기 위해서는 단순하고 기하학적인 궤적을 보며 머리를 식히는 물리 시뮬레이션 게임이나 아날로그 놀이가 훨씬 효과적입니다."
 
 ---
 
-클래식 음악 역사상 전무후무한 천재이자, 악보를 단 한 번에 고쳐 쓰지도 않고 완벽한 교향곡과 오페라를 물 흐르듯 써 내려간 작곡가, 볼프강 아마데우스 모차르트. 인류 최고의 영감을 자랑하는 그의 기적 같은 창의성 밑바탕에는 복잡한 예술적 강박으로부터 뇌를 완전히 탈출시켰던 독특한 일상 습관이 깃들어 있었습니다. 🎱
+클래식 음악 역사상 전무후무한 천재이자, 악보를 단 한 번에 고쳐 쓰지도 않고 완벽한 교향곡과 오페라를 물 흐르듯 써 내려간 작곡가, 볼프강 아마데우스 모차르트(Wolfgang Amadeus Mozart, 1756–1791). 인류 최고의 영감을 자랑하는 그의 기적 같은 창의성 밑바탕에는 복잡한 예술적 강박으로부터 뇌를 완전히 탈출시켰던 독특한 일상 습관이 깃들어 있었습니다. 🎱
 
 그것은 바로 작곡을 하던 도중 머리가 지치거나 다음 소절의 악상이 막힐 때, 큐를 들고 당구공을 치는 '당구 전환 습관'이었습니다. 그는 빈에 있는 자택에 당시로서는 매우 고가였던 고급 당구대를 마련해 놓았으며, 작곡 방 바로 옆에 배치했습니다. 부인 콘스탄체의 증언에 따르면, 모차르트는 한참을 오선지 앞에서 골몰하다가도 불쑥 일어나 옆방으로 가서는 혼자 당구공을 몇 개 쳐서 맞춘 뒤 다시 오선지로 돌아와 선율을 마저 적곤 했습니다. 당구대 위에서 충돌하는 공의 기하학적 궤적을 멍하니 바라보는 시간은 그에게 단순한 유희가 아니었습니다. 한 문제에 집착하여 과열된 뇌를 무의식 모드로 유도해 새로운 연상과 아이디어가 솟구치게 만드는 훌륭한 인지적 쉼터였습니다.
 
@@ -44,7 +44,7 @@ faqs:
 
 ## 무의식의 뇌와 '디폴트 모드 네트워크'
 
-풀리지 않는 어려운 문제를 해결하기 위해 오랫동안 모니터 화면만 째려보는 행동은 전두엽의 작업 기억을 과포화시켜 뇌를 기능 정체(Mental Stagnation) 상태에 빠트립니다. 반면, 주의를 완전히 다른 곳으로 돌리고 당구와 같이 시공간적 궤적 예측이 동반되는 가벼운 신체 놀이에 몰입할 때, 뇌는 '디폴트 모드 네트워크(DMN, Default Mode Network)'를 구동시킵니다. 
+풀리지 않는 어려운 문제를 해결하기 위해 오랫동안 모니터 화면만 째려보는 행동은 전두엽의 작업 기억을 과포화시켜 뇌를 기능 정체(Mental Stagnation) 상태에 빠트립니다. 반면, 주의를 완전히 다른 곳으로 돌리고 당구와 같이 시공간적 궤적 예측이 동반되는 가벼운 신체 놀이에 몰입할 때, 뇌는 '디폴트 모드 네트워크(DMN, Default Mode Network)'를 구동시킵니다.
 
 DMN은 뇌가 쉴 때 작동하는 무의식적 연동 메커니즘으로, 이 과정에서 뇌는 전두엽의 통제 아래 숨겨져 있던 서로 동떨어진 정보 조각들과 장기 기억들을 무작위로 결합합니다. 당구공이 이리저리 부딪쳐 이동하는 기하학적 움직임에 의식을 맡기면 시공간 지각 영역인 두정엽이 가동되며 언어적 기능이 휴식을 취하게 되고, DMN의 작용으로 엉켜있던 문제의 논리 실타래가 무의식중에 스르륵 풀려나오는 연상적 돌파구(Aha! Moment)를 만나게 됩니다.
 
@@ -59,30 +59,30 @@ DMN은 뇌가 쉴 때 작동하는 무의식적 연동 메커니즘으로, 이 �
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Stop work when thoughts freeze</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">생각이 멈출 때 즉시 작업 중단</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    When you have thought for over an hour and cannot proceed, immediately push your keyboard away and stand up.
+    한 시간 이상 고민해도 더 이상 진전이 없을 때, 즉시 키보드나 펜을 밀어두고 자리에서 일어납니다.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Immerse in a spatial physics game for 10 minutes</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">10분간 시공간 물리 게임 몰입</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Find a physical pool table, darts, or a physics puzzle game. Focus completely on the geometric path of the target for 10 minutes, letting your prefrontal control rest.
+    실제 당구, 다트, 혹은 공간 궤적과 물리적 예측이 필요한 게임에 10분간 온전히 몰입하며 전두엽의 통제를 휴식시킵니다.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Return and capture the insights</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">복귀 후 떠오른 통찰 포착</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Sit back down and look at the project. Often, a new path or a creative breakthrough synthesized during the rest will naturally surface in your conscious mind.
+    다시 책상에 앉아 과제를 바라봅니다. 휴식 중 무의식에서 합성된 새로운 아이전이나 창의적 돌파구가 자연스럽게 의식 표면으로 올라옵니다.
   </p>
 </div>
 
