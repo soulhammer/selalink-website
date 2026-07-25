@@ -4,11 +4,25 @@ title: "American Shorthair Heart & Weight Care: A 3-Step Daily Routine for HCM P
 description: "American Shorthairs are robust cats but prone to obesity and Hypertrophic Cardiomyopathy (HCM). Learn a 3-step routine to manage diet, play, and heart health."
 pubDate: "2026-03-02"
 updatedDate: "2026-03-02"
+category: "FreshSelf"
+tags: ["PetCare","PetHealth","American Shorthair"]
 heroImage: "/images/blog/american_shorthair_care.png"
-authority: "Cat Fanciers' Association (CFA) & Cornell Feline Health Center"
 app: "petself"
 formatVersion: 4
-tags: ["American Shorthair","HCM Prevention","Obesity Control","Heart Care"]
+authority: "Cat Fanciers' Association (CFA) & Cornell Feline Health Center"
+steps:
+  - name: "American Shorthair Body Language: Heart Strain and Open-Mouth Breathing"
+    text: "Unlike dogs, cats rarely pant. If an American Shorthair exhibits 'open-mouth breathing' or gets 'easily fatigued' during brief play, it is a major warning of cardiovascular distress. Recognizing these signs early can save their lives."
+  - name: "American Shorthair's Body Language & Signals"
+    text: "* Open-Mouth Breathing: Breathing with the mouth open and tongue slightly out, indicating severe oxygen deficiency or lung/heart overload. (Minimize stress immediately and take the cat to an emergency veterinary clinic for oxygen therapy.)
+
+* Quick Fatigue & Lying Down: Stopping play and lying flat on the side within minutes due to reduced cardiac output. (Stop play immediately. Consult a vet for a cardiac ultrasound screening to check for HCM.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Morning: Measured Portion Feeding to Prevent Obesity: Avoid free-feeding. Divide their daily caloric requirement into measured portions to prevent weight gain and joint pressure.
+
+* STEP 2. Afternoon: Interactive Play & Calorie-Burning Session: Conduct at least two 15-minute play sessions using feather toys or laser pointers to stimulate hunting instincts and burn fat.
+
+* STEP 3. Evening: Weekly Brushing and Hairball Prevention: Although short-haired, brush their dense coat once or twice a week to remove dead hairs and prevent hairball vomiting."
 faqs:
   - question: "What is Hypertrophic Cardiomyopathy (HCM) in cats?"
     answer: "It is a genetic condition where the heart muscle thickens, reducing its pumping efficiency. Since it is often asymptomatic early on, annual heart ultrasounds are recommended."
@@ -30,50 +44,42 @@ Known for their beautiful silver tabby pattern and muscular bodies, American Sho
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 American Shorthair Core Profile
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Lifespan</span><span class="font-bold text-slate-800 dark:text-slate-200">15 ~ 20 years</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Sleep Pattern</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 16 hours (prefers sunny window spots)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperament</span><span class="font-bold text-slate-800 dark:text-slate-200">Gentle, Smart, Quiet, Independent</span></div>
-  </div>
-</div>
+---
 
 ## 1. American Shorthair Body Language: Heart Strain and Open-Mouth Breathing
 
-Unlike dogs, cats rarely pant. If an American Shorthair exhibits 'open-mouth breathing' or gets 'easily fatigued' during brief play, it is a major warning of cardiovascular distress. Recognizing these signs early can save their lives.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Open-Mouth Breathing</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">American Shorthair Body Language: Heart Strain and Open-Mouth Breathing</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Meaning:</strong> Breathing with the mouth open and tongue slightly out, indicating severe oxygen deficiency or lung/heart overload.<br/>
-    <strong>• Correct Action:</strong> Minimize stress immediately and take the cat to an emergency veterinary clinic for oxygen therapy.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Quick Fatigue & Lying Down</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Meaning:</strong> Stopping play and lying flat on the side within minutes due to reduced cardiac output.<br/>
-    <strong>• Correct Action:</strong> Stop play immediately. Consult a vet for a cardiac ultrasound screening to check for HCM.
+    Unlike dogs, cats rarely pant. If an American Shorthair exhibits 'open-mouth breathing' or gets 'easily fatigued' during brief play, it is a major warning of cardiovascular distress. Recognizing these signs early can save their lives.
   </p>
 </div>
 
 ---
 
-## 2. Custom Daily Care Routine
+## 2. American Shorthair's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Body Signal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Open-Mouth Breathing</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Meaning:</strong> Breathing with the mouth open and tongue slightly out, indicating severe oxygen deficiency or lung/heart overload.<br/>
+    <strong>• Response:</strong> Minimize stress immediately and take the cat to an emergency veterinary clinic for oxygen therapy.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morning: Measured Portion Feeding to Prevent Obesity</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Unlike dogs, cats rarely pant. If an American Shorthair exhibits 'open-mouth bre
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Afternoon: Interactive Play & Calorie-Burning Session</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Conduct at least two 15-minute play sessions using feather toys or laser pointers to stimulate hunting instincts and burn fat.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Evening: Weekly Brushing and Hairball Prevention</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Although short-haired, brush their dense coat once or twice a week to remove dead hairs and prevent hairball vomiting.
-  </p>
-</div>
-
-## 3. Summary and Precautions
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Simply observing your pet's calming signals can prevent major behavioral issues and stress-induced illnesses. While veterinary treatment is important, providing a safe environment (steps, vertical spaces, multiple water sources) is the strongest shield supporting their lifetime happiness.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

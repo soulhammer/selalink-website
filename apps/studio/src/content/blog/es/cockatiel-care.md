@@ -4,11 +4,25 @@ title: "Comunicación de la Cresta de la Ninfa y Rutina de 3 Pasos para Prevenir
 description: "Guía completa de cuidado para la ninfa (Cockatiel). Descifra su lenguaje corporal, previene sustos nocturnos y aplica la rutina diaria avalada por la AAV."
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
+category: "FreshSelf"
+tags: ["CuidadoMascotas","SaludMascotas","Ninfa / Carolina (Cockatiel)"]
 heroImage: "/images/blog/cockatiel_care.png"
-authority: "Asociación de Veterinarios de Aves (AAV) & Normas de Comportamiento Aviar"
 app: "petself"
 formatVersion: 4
-tags: ["Ninfa","Carolina","Cuidado de Aves","Susto Nocturno","Normas AAV"]
+authority: "Asociación de Veterinarios de Aves (AAV) & Normas de Comportamiento Aviar"
+steps:
+  - name: "Lenguaje de la Ninfa: Significado de la Cresta y Cabeza Agachada"
+    text: "La cresta de la ninfa actúa como una antena emocional. Una cresta completamente erguida transmite alerta o curiosidad, mientras que agachar la cabeza es una petición directa de caricias."
+  - name: "Ninfa / Carolina (Cockatiel)'s Body Language & Signals"
+    text: "* Cresta Totalmente Erguida (Fully Erect Crest): Alerta máxima o curiosidad intensa ante un sonido u objeto desconocido en la estancia. (Evita movimientos bruscos. Háblale con voz suave y permite que evalúe su entorno con calma.)
+
+* Cabeza Agachada y Cuello Extendido (Head Lowering): Muestra de gran confianza solicitando rascados en la nuca y las mejillas. (Rasca suavemente la zona de la cresta y mejillas a contrapelo con la yema del dedo.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Mañana: Ventilación, Inspección y Pienso Fresco: Destapa la jaula, renueva el pienso extruido y el agua limpia, y observa su agilidad de vuelo.
+
+* STEP 2. Tarde: Vuelo Libre Seguro y Juguetes de Forrajeo: Permite 1 - 2 horas de vuelo supervisado en una habitación segura con juguetes de búsqueda de comida.
+
+* STEP 3. Noche: Limpieza de Plumón y Luz Nocturna Anti-Sustos: Limpia el polvo de plumas y deja una pequeña luz nocturna encendida antes de cubrir la jaula."
 faqs:
   - question: "¿Qué hacer ante un episodio de pánico nocturno (Night Fright)?"
     answer: "Enciende la luz de inmediato, háblale con calma y revisa sus alas por si hay plumas sangrantes. Dejar una luz de noche encendida previene nuevos sustos."
@@ -30,50 +44,42 @@ Conocida por sus mejillas anaranjadas y su elegante cresta, la ninfa (Cockatiel)
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Ninfa / Carolina (Cockatiel) Perfil principal
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil media</span><span class="font-bold text-slate-800 dark:text-slate-200">15 - 20 años</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Patrón de sueño</span><span class="font-bold text-slate-800 dark:text-slate-200">10 - 12 horas (Sueño estricto en oscuridad y silencio)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamento</span><span class="font-bold text-slate-800 dark:text-slate-200">Muy sociable, curiosa, melódica, sensible</span></div>
-  </div>
-</div>
+---
 
 ## 1. Lenguaje de la Ninfa: Significado de la Cresta y Cabeza Agachada
 
-La cresta de la ninfa actúa como una antena emocional. Una cresta completamente erguida transmite alerta o curiosidad, mientras que agachar la cabeza es una petición directa de caricias.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cresta Totalmente Erguida (Fully Erect Crest)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lenguaje de la Ninfa: Significado de la Cresta y Cabeza Agachada</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Alerta máxima o curiosidad intensa ante un sonido u objeto desconocido en la estancia.<br/>
-    <strong>• Acción correcta:</strong> Evita movimientos bruscos. Háblale con voz suave y permite que evalúe su entorno con calma.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cabeza Agachada y Cuello Extendido (Head Lowering)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Muestra de gran confianza solicitando rascados en la nuca y las mejillas.<br/>
-    <strong>• Acción correcta:</strong> Rasca suavemente la zona de la cresta y mejillas a contrapelo con la yema del dedo.
+    La cresta de la ninfa actúa como una antena emocional. Una cresta completamente erguida transmite alerta o curiosidad, mientras que agachar la cabeza es una petición directa de caricias.
   </p>
 </div>
 
 ---
 
-## 2. Rutina de cuidado diario personalizada
+## 2. Ninfa / Carolina (Cockatiel)'s Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Señal Corporal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cresta Totalmente Erguida (Fully Erect Crest)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Significado:</strong> Alerta máxima o curiosidad intensa ante un sonido u objeto desconocido en la estancia.<br/>
+    <strong>• Respuesta:</strong> Evita movimientos bruscos. Háblale con voz suave y permite que evalúe su entorno con calma.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Ventilación, Inspección y Pienso Fresco</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ La cresta de la ninfa actúa como una antena emocional. Una cresta completamente
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Vuelo Libre Seguro y Juguetes de Forrajeo</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Permite 1 - 2 horas de vuelo supervisado en una habitación segura con juguetes de búsqueda de comida.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Limpieza de Plumón y Luz Nocturna Anti-Sustos</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Limpia el polvo de plumas y deja una pequeña luz nocturna encendida antes de cubrir la jaula.
-  </p>
-</div>
-
-## 3. Resumen y precauciones
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Embora o tratamento veterinário é importante, proporcionar um ambiente seguro (rampas, espaços verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

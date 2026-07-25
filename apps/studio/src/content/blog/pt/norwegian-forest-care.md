@@ -4,11 +4,25 @@ title: "Atividades de escalada e cuidados com o pelo triplo do gato Bosque da No
 description: "Instinto de escalada do gato Bosque da Noruega e cuidados com pelo triplo."
 pubDate: "2026-04-08"
 updatedDate: "2026-04-08"
+category: "FreshSelf"
+tags: ["CuidadoPets","SaudePets","Gato Bosque da Noruega (Norwegian Forest Cat)"]
 heroImage: "/images/blog/norwegian_forest_care.png"
-authority: "Diretrizes da Associação Internacional de Gatos (TICA) e comportamento felino"
 app: "petself"
 formatVersion: 4
-tags: ["Bosque da Noruega","Pelo triplo","Arranhador","Gatos"]
+authority: "Diretrizes da Associação Internacional de Gatos (TICA) e comportamento felino"
+steps:
+  - name: "Linguagem corporal do Bosque da Noruega: Confiança"
+    text: "Uma aproximação lenta com a cauda erguida e ponta curvada indica confiança."
+  - name: "Gato Bosque da Noruega (Norwegian Forest Cat)'s Body Language & Signals"
+    text: "* Cauda erguida com ponta curvada: Amigável, relaxado e pronto para interagir. (Responda com voz suave e acaricie bochechas ou queixo.)
+
+* Pupilas dilatadas e orelhas planas: Tensão ou medo devido a barulhos altos. (Evite contato visual. Deixe o gato se retirar para lugar alto.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Manhã: Brincadeira de varinha vertical no arranhador: Mova um brinquedo de varinha para cima e para baixo no arranhador.
+
+* STEP 2. Tarde: Escovação profunda do pelo triplo para remover fios mortos: Escove as zonas com tendência a nós, usando rasqueadeira e pente de metal.
+
+* STEP 3. Noite: Amortecimento de impacto no chão e corte de unhas: Coloque tapetes acolchados sob arranhadores altos e corte as unhas."
 faqs:
   - question: "Eles soltam mais pelo do que outros gatos?"
     answer: "Sim. O pelo triplo espesso solta muito na primavera. A escovação é obrigatória."
@@ -30,50 +44,42 @@ O gato Bosque da Noruega adaptou-se aos invernos escandinavos rígidos com pelo 
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Gato Bosque da Noruega (Norwegian Forest Cat) Perfil principal
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 16 anos</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Padrão de sono</span><span class="font-bold text-slate-800 dark:text-slate-200">14 ~ 16 horas (Perfil de escalada)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamento</span><span class="font-bold text-slate-800 dark:text-slate-200">Inteligente, dócil, corajoso, amante da natureza</span></div>
-  </div>
-</div>
+---
 
 ## 1. Linguagem corporal do Bosque da Noruega: Confiança
 
-Uma aproximação lenta com a cauda erguida e ponta curvada indica confiança.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cauda erguida com ponta curvada</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Linguagem corporal do Bosque da Noruega: Confiança</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Amigável, relaxado e pronto para interagir.<br/>
-    <strong>• Ação correta:</strong> Responda com voz suave e acaricie bochechas ou queixo.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pupilas dilatadas e orelhas planas</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Tensão ou medo devido a barulhos altos.<br/>
-    <strong>• Ação correta:</strong> Evite contato visual. Deixe o gato se retirar para lugar alto.
+    Uma aproximação lenta com a cauda erguida e ponta curvada indica confiança.
   </p>
 </div>
 
 ---
 
-## 2. Rotina de cuidados diários personalizada
+## 2. Gato Bosque da Noruega (Norwegian Forest Cat)'s Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cauda erguida com ponta curvada</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Significado:</strong> Amigável, relaxado e pronto para interagir.<br/>
+    <strong>• Resposta:</strong> Responda com voz suave e acaricie bochechas ou queixo.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Brincadeira de varinha vertical no arranhador</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Uma aproximação lenta com a cauda erguida e ponta curvada indica confiança.
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Escovação profunda do pelo triplo para remover fios mortos</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Escove as zonas com tendência a nós, usando rasqueadeira e pente de metal.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Amortecimento de impacto no chão e corte de unhas</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Coloque tapetes acolchados sob arranhadores altos e corte as unhas.
-  </p>
-</div>
-
-## 3. Resumo e precauções
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -4,11 +4,25 @@ title: "마샬 페럿의 전쟁 댄스와 사냥 탐색 극대화 3단계 루틴
 description: "장난기 많고 유연한 육식 소동물 마샬 페럿. 기쁨을 표현하는 위즐 워 댄스 대처법과 특유의 호기심 충족 및 귀 위생을 돕는 3단계 케어 가이드를 확인해 보세요."
 pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
+category: "FreshSelf"
+tags: ["반려동물","펫케어","마샬 페럿 (Marshall Ferret)"]
 heroImage: "/images/blog/marshall_ferret_care.png"
-authority: "American Ferret Association 페럿 행동 표준 및 소동물 수의 행동의학 가이드"
 app: "petself"
 formatVersion: 4
-tags: ["마샬페럿","위즐워댄스","페럿방목주의","페럿데드슬립"]
+authority: "American Ferret Association 페럿 행동 표준 및 소동물 수의 행동의학 가이드"
+steps:
+  - name: "마샬 페럿의 놀이 의사소통: 페럿 댄스와 슉슉 소리"
+    text: "마샬 페럿은 흥분이 극에 달하면 입을 크게 벌리고 등을 동그랗게 구부린 채 이리저리 부딪치며 춤을 추는 '페럿 댄스(Weasel War Dance)' 행동으로 압도적인 기쁨을 드러냅니다. 또한 신나게 냄새를 추적할 때는 목구멍으로 '슉슉거리는 소리(Dooking)'를 냄으로써 보호자에게 재미있는 상태임을 끊임없이 전달합니다."
+  - name: "마샬 페럿 (Marshall Ferret)의 몸짓 언어와 바디 시그널"
+    text: "* 페럿 댄스 (Weasel War Dance): 위협적으로 보이지만 사실은 에너지가 폭발해 주체할 수 없을 만큼 행복하고 신난 놀이 권장 의사표현입니다. (가구 틈새 등에 부딪쳐 골절되지 않도록 미끄럼 방지 장치가 있는 탁 트인 공간에서 공을 굴려주며 함께 놉니다.)
+
+* 낮은 슉슉 소리 (Dooking): 새로운 냄새나 장난감 미로를 마주하여 높은 호기심과 즐거움을 표현하고 있는 안전한 감정 상태입니다. (바스락거리는 비닐 터널이나 종이 상자를 제공해 페럿의 굴 파기 사냥 본능을 깊이 자극해 줍니다.)"
+  - name: "마샬 페럿 (Marshall Ferret) 맞춤형 3단계 홈케어 루틴"
+    text: "* STEP 1. 아침: 육식 전용 고단백 식사 및 식수 공급 상태 점검: 장이 매우 짧아 수시로 사료를 먹어야 하므로 탄수화물이나 곡물이 배제된 육류 위주의 전용 사료를 넉넉하게 리필합니다.
+
+* STEP 2. 낮: 최소 4시간 이상 거실 안전 구역 자유 방목 놀이: 케이지에 장시간 방치하면 심한 무기력증에 빠지므로, 끼일 수 있는 좁은 배수구나 가구 틈을 원천 봉쇄한 후 거실에 자유롭게 풀어 둡니다.
+
+* STEP 3. 저녁: 해먹 침구 상태 점검 및 귀 청결 건조 확인: 땀샘이 없어 온도에 예민한 페럿의 침구를 매일 털어주고, 귀 내부에 진드기가 번식하지 않았는지 갈색 삼출물을 점검합니다."
 faqs:
   - question: "페럿이 갑자기 기절한 것처럼 흔들어도 자고 있는데 큰 병인가요?"
     answer: "페럿은 잠을 잘 때 주변 소음이나 진동에도 전혀 깨지 않고 온몸이 축 늘어지는 '페럿 데드 슬립(Ferret Dead Sleep)'을 흔하게 겪습니다. 체온이 따뜻하고 숨을 평온하게 쉬고 있다면 자궁이나 질병이 아닌 깊은 꿈을 꾸고 있는 것이니 깨우지 말고 자도록 둡니다."
@@ -30,50 +44,42 @@ faqs:
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 마샬 페럿 (Marshall Ferret) 핵심 프로필 (Profile)
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">평균 수명</span><span class="font-bold text-slate-800 dark:text-slate-200">6 ~ 10년</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">수면 패턴</span><span class="font-bold text-slate-800 dark:text-slate-200">18 ~ 20시간 (깊고 무기력한 수면 패턴)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">성격 키워드</span><span class="font-bold text-slate-800 dark:text-slate-200">장난기 넘침, 에너제틱, 사교적, 호기심 많음</span></div>
-  </div>
-</div>
+---
 
 ## 1. 마샬 페럿의 놀이 의사소통: 페럿 댄스와 슉슉 소리
 
-마샬 페럿은 흥분이 극에 달하면 입을 크게 벌리고 등을 동그랗게 구부린 채 이리저리 부딪치며 춤을 추는 '페럿 댄스(Weasel War Dance)' 행동으로 압도적인 기쁨을 드러냅니다. 또한 신나게 냄새를 추적할 때는 목구멍으로 '슉슉거리는 소리(Dooking)'를 냄으로써 보호자에게 재미있는 상태임을 끊임없이 전달합니다.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">페럿 댄스 (Weasel War Dance)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">마샬 페럿의 놀이 의사소통: 페럿 댄스와 슉슉 소리</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 의미:</strong> 위협적으로 보이지만 사실은 에너지가 폭발해 주체할 수 없을 만큼 행복하고 신난 놀이 권장 의사표현입니다.<br/>
-    <strong>• 올바른 대처:</strong> 가구 틈새 등에 부딪쳐 골절되지 않도록 미끄럼 방지 장치가 있는 탁 트인 공간에서 공을 굴려주며 함께 놉니다.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">낮은 슉슉 소리 (Dooking)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 의미:</strong> 새로운 냄새나 장난감 미로를 마주하여 높은 호기심과 즐거움을 표현하고 있는 안전한 감정 상태입니다.<br/>
-    <strong>• 올바른 대처:</strong> 바스락거리는 비닐 터널이나 종이 상자를 제공해 페럿의 굴 파기 사냥 본능을 깊이 자극해 줍니다.
+    마샬 페럿은 흥분이 극에 달하면 입을 크게 벌리고 등을 동그랗게 구부린 채 이리저리 부딪치며 춤을 추는 '페럿 댄스(Weasel War Dance)' 행동으로 압도적인 기쁨을 드러냅니다. 또한 신나게 냄새를 추적할 때는 목구멍으로 '슉슉거리는 소리(Dooking)'를 냄으로써 보호자에게 재미있는 상태임을 끊임없이 전달합니다.
   </p>
 </div>
 
 ---
 
-## 2. 맞춤형 홈케어 루틴
+## 2. 마샬 페럿 (Marshall Ferret)의 몸짓 언어와 바디 시그널
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">바디 시그널 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">페럿 댄스 (Weasel War Dance)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 의미:</strong> 위협적으로 보이지만 사실은 에너지가 폭발해 주체할 수 없을 만큼 행복하고 신난 놀이 권장 의사표현입니다.<br/>
+    <strong>• 대처법:</strong> 가구 틈새 등에 부딪쳐 골절되지 않도록 미끄럼 방지 장치가 있는 탁 트인 공간에서 공을 굴려주며 함께 놉니다.
+  </p>
+</div>
+
+---
+
+## 3. 마샬 페럿 (Marshall Ferret) 맞춤형 3단계 홈케어 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아침: 육식 전용 고단백 식사 및 식수 공급 상태 점검</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ faqs:
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">낮: 최소 4시간 이상 거실 안전 구역 자유 방목 놀이</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    케이지에 장시간 방치하면 심한 무기력증에 빠지므로, 끼일 수 있는 좁은 배수구나 가구 틈을 원천 봉쇄한 후 거실에 자유롭게 풀어 둡니다.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">저녁: 해먹 침구 상태 점검 및 귀 청결 건조 확인</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    땀샘이 없어 온도에 예민한 페럿의 침구를 매일 털어주고, 귀 내부에 진드기가 번식하지 않았는지 갈색 삼출물을 점검합니다.
-  </p>
-</div>
-
-## 3. 요약 및 주의사항
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      반려동물의 언어(카밍 시그널)를 세심하게 관찰하는 것만으로도 대부분의 행동 발달 및 스트레스성 질환을 사전에 예방할 수 있습니다. 수의학적 치료도 중요하지만, 집안 환경(안전 발판, 수직 공간 확보, 신선한 다각적 물 공급)을 안전하게 관리하는 것이 평생 동반자로서의 행복을 지탱하는 가장 강력한 보호막입니다.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

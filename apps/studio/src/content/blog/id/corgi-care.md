@@ -4,11 +4,25 @@ title: "Perawatan Welsh Corgi: Rutinitas 3 Langkah untuk Kesehatan Tulang Belaka
 description: "Welsh Corgi terkenal dengan bagian belakangnya yang lucu dan kakinya yang pendek. Temukan rutinitas harian 3 langkah untuk mencegah masalah tulang belakang dan luksasi patela."
 pubDate: "2026-04-12"
 updatedDate: "2026-04-14"
+category: "FreshSelf"
+tags: ["PerawatanHewan","KesehatanHewan","Welsh Corgi"]
 heroImage: "/images/blog/corgi_care.png"
-authority: "Panduan Resmi Pembroke Welsh Corgi Club of America & Pedoman Kesehatan AKC"
 app: "petself"
 formatVersion: 4
-tags: ["Welsh Corgi","Perawatan Patela","Kesehatan Tulang Belakang","Bulu Ganda"]
+authority: "Panduan Resmi Pembroke Welsh Corgi Club of America & Pedoman Kesehatan AKC"
+steps:
+  - name: "Bahasa Tubuh Corgi: Sinyal Tulang Belakang dan Emosi"
+    text: "Karena Corgi memiliki ekor yang sangat pendek, mereka menggunakan seluruh tubuh dan pinggul untuk mengekspresikan emosi. Sinyal khas termasuk 'goyangan bokong' saat senang dan 'splooting' (meregangkan kaki belakang ke belakang) saat santai. Ekspresi fisik ini merupakan indikator kenyamanan sendi dan regulasi suhu. Pemilik dapat memantau tanda-tanda ini untuk mengevaluasi stres."
+  - name: "Welsh Corgi's Body Language & Signals"
+    text: "* Goyangan Bokong: Keadaan sangat gembira dan kegembiraan positif yang diungkapkan oleh Corgi berekor pendek. (Sambut mereka dengan penuh kasih sayang dan tenangkan mereka agar tidak melompat ke sofa karena gembira.)
+
+* Splooting: Sinyal relaksasi untuk mendinginkan suhu tubuh di lantai yang dingin dan meredakan ketegangan sendi. (Mereka sedang beristirahat dengan nyaman. Jangan ganggu mereka dan pastikan lingkungan yang tenang.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Pagi: Pemeriksaan Keamanan Keset Antiselip dan Peregangan Kaki Belakang: Karena punggung yang panjang membuat mereka rentan terhadap masalah cakram tulang belakang, amankan keset lantai dan lakukan peregangan kaki belakang dengan lembut.
+
+* STEP 2. Siang: Jalan kaki 30 Menit di Medan Datar dengan Harness dan Nosework: Gunakan harness tubuh, bukan kalung leher untuk mengurangi ketegangan tulang belakang. Berjalanlah di tanah datar untuk menghindari tanjakan dan tangga.
+
+* STEP 3. Malam: Menyikat Bulu Mati dan Pijat Relaksasi Tulang Belakang: Sikat bulu ganda mereka untuk mengangkat bulu mati, dan pijat lembut otot-otot di sepanjang tulang belakang mereka untuk meredakan kelelahan."
 faqs:
   - question: "Mengapa Corgi tidak boleh melompat dari tempat tidur atau sofa?"
     answer: "Karena punggung yang panjang dan kaki yang pendek, pendaratan memberi dampak tiga kali lebih besar pada tulang belakang dan lutut mereka, yang menyebabkan masalah cakram. Memasang tangga hewan sangat penting."
@@ -30,50 +44,42 @@ Welsh Corgi adalah ras yang sangat dicintai karena kakinya yang pendek dan bagia
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Welsh Corgi Profil Utama
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Rata-rata Umur</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 tahun</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Pola Tidur</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 14 jam (menyukai lantai)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamen</span><span class="font-bold text-slate-800 dark:text-slate-200">Pintar, Ceria, Berani, Setia</span></div>
-  </div>
-</div>
+---
 
 ## 1. Bahasa Tubuh Corgi: Sinyal Tulang Belakang dan Emosi
 
-Karena Corgi memiliki ekor yang sangat pendek, mereka menggunakan seluruh tubuh dan pinggul untuk mengekspresikan emosi. Sinyal khas termasuk 'goyangan bokong' saat senang dan 'splooting' (meregangkan kaki belakang ke belakang) saat santai. Ekspresi fisik ini merupakan indikator kenyamanan sendi dan regulasi suhu. Pemilik dapat memantau tanda-tanda ini untuk mengevaluasi stres.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Goyangan Bokong</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bahasa Tubuh Corgi: Sinyal Tulang Belakang dan Emosi</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Keadaan sangat gembira dan kegembiraan positif yang diungkapkan oleh Corgi berekor pendek.<br/>
-    <strong>• Tindakan yang Benar:</strong> Sambut mereka dengan penuh kasih sayang dan tenangkan mereka agar tidak melompat ke sofa karena gembira.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Splooting</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Sinyal relaksasi untuk mendinginkan suhu tubuh di lantai yang dingin dan meredakan ketegangan sendi.<br/>
-    <strong>• Tindakan yang Benar:</strong> Mereka sedang beristirahat dengan nyaman. Jangan ganggu mereka dan pastikan lingkungan yang tenang.
+    Karena Corgi memiliki ekor yang sangat pendek, mereka menggunakan seluruh tubuh dan pinggul untuk mengekspresikan emosi. Sinyal khas termasuk 'goyangan bokong' saat senang dan 'splooting' (meregangkan kaki belakang ke belakang) saat santai. Ekspresi fisik ini merupakan indikator kenyamanan sendi dan regulasi suhu. Pemilik dapat memantau tanda-tanda ini untuk mengevaluasi stres.
   </p>
 </div>
 
 ---
 
-## 2. Rutinitas Perawatan Harian Kustom
+## 2. Welsh Corgi's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Goyangan Bokong</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Arti:</strong> Keadaan sangat gembira dan kegembiraan positif yang diungkapkan oleh Corgi berekor pendek.<br/>
+    <strong>• Tindakan:</strong> Sambut mereka dengan penuh kasih sayang dan tenangkan mereka agar tidak melompat ke sofa karena gembira.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Pemeriksaan Keamanan Keset Antiselip dan Peregangan Kaki Belakang</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Karena Corgi memiliki ekor yang sangat pendek, mereka menggunakan seluruh tubuh 
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Jalan kaki 30 Menit di Medan Datar dengan Harness dan Nosework</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Gunakan harness tubuh, bukan kalung leher untuk mengurangi ketegangan tulang belakang. Berjalanlah di tanah datar untuk menghindari tanjakan dan tangga.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Menyikat Bulu Mati dan Pijat Relaksasi Tulang Belakang</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Sikat bulu ganda mereka untuk mengangkat bulu mati, dan pijat lembut otot-otot di sepanjang tulang belakang mereka untuk meredakan kelelahan.
-  </p>
-</div>
-
-## 3. Ringkasan dan Tindakan Pencegahan
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

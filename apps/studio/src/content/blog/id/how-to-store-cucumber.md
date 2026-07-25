@@ -3,107 +3,80 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cara Menyimpan Timun agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Timun berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-01-22"
+updatedDate: "2026-01-22"
 category: "FreshSnap"
-tags: ["Timun","Panduan Penyimpanan yang Terbukti Secara Ilmiah","vegetable"]
+tags: ["PenyimpananMakanan","PenyimpananSegar","cucumber"]
 heroImage: "/images/blog/cucumber_storage_hack.png"
 app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"
 steps:
-  - name: "Cuci dan keringkan permukaan 🥒"
-    text: "Bersihkan timun dan keringkan sepenuhnya agar tidak menjadi lembek."
-  - name: "Bungkus satu per satu 📰"
-    text: "Bungkus setiap timun dengan tisu dapur untuk melindungi dari suhu dingin."
-  - name: "Simpan secara tegak ❄️"
-    text: "Simpan secara tegak di laci sayur untuk mencegah pelunakan akibat gravitasi."
+  - name: ""
+    text: ""
+  - name: ""
+    text: ""
+  - name: ""
+    text: ""
 faqs:
   - question: "Haruskah mencuci bahan makanan sebelum dimasukkan ke kulkas?"
     answer: "Tidak, mencuci sebelum disimpan menjebak kelembapan berlebih dan memicu bakteri. Lap dengan kain kering dan cuci sebelum dimakan."
   - question: "Bagaimana cara menangani dan menyimpan bagian yang memar?"
     answer: "Bagian yang rusak mempercepat pembusukan. Potong segera dan konsumsi terlebih dahulu agar tidak merusak bahan makanan lainnya."
-
 ---
 
 Pernahkah Anda menyimpan timun di kulkas lalu menjadi lembek dan berlendir? Hari ini, FreshSnap membagikan tips penyimpanan agar timun tetap renyah.
 
-<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Reliability
-    </h5>
-    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Based on official storage standards. <strong>RDA & MFDS</strong>.
-    </p>
-  </div>
-</div>
-
 ---
 
-## 1. Mengapa disimpan seperti ini? Fakta ilmiah
-
-Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.
-
----
-
-## 2. Panduan Penyimpanan yang Terbukti Secara Ilmiah
+## 1. 3-Step Storage Method
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cuci dan keringkan permukaan 🥒</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Bersihkan timun dan keringkan sepenuhnya agar tidak menjadi lembek.
+    
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bungkus satu per satu 📰</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Bungkus setiap timun dengan tisu dapur untuk melindungi dari suhu dingin.
+    
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Simpan secara tegak ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Simpan secara tegak di laci sayur untuk mencegah pelunakan akibat gravitasi.
+    
   </p>
 </div>
 
 ---
 
-## 3. Aturan Penting dan Peringatan
+## 2. Aturan Penting dan Peringatan
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Hindari penyimpanan di bawah 7°C ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Aturan Penting dan Peringatan</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Timun sangat sensitif terhadap dingin. Menyimpannya di tempat yang terlalu dingin akan menyebabkan cedera dingin, memicu pembusukan.
+      
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
-  <span class="text-xl">⚠️</span>
-  <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Jaga tetap kering dan pisahkan yang rusak 🥒</strong>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Kelembapan berlebih memicu jamur. Timun yang rusak akan membusuk lebih cepat dan merusak timun di sekitarnya.
-    </p>
-  </div>
-</div>
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📍</span> Pertanyaan Sering Diajukan (FAQ)
+    <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>

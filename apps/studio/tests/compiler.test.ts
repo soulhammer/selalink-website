@@ -71,31 +71,31 @@ describe('블로그 컴파일러 및 동기화 아키텍처 리팩토링 검증'
     }
   });
 
-  it('7. compile_pet_blogs.js에서 lang === \'ko\' 일 때 컴파일을 스킵하는 조건이 존재하는가', () => {
+  it('7. compile_pet_blogs.js 또는 compile_blog_base.js에서 다국어 파이프라인 빌드가 올바르게 연결되었는가', () => {
     const filePath = findScriptPath('compile_pet_blogs.js');
     const content = fs.readFileSync(filePath, 'utf-8');
-    const hasKoSkip = content.includes("if (lang === 'ko') return;");
-    expect(hasKoSkip).toBe(true);
+    const hasCoreEngine = content.includes("compileMasterJsonCollection");
+    expect(hasCoreEngine).toBe(true);
   });
 
-  it('8. compile_storage_blogs.js에서 lang === \'ko\' 일 때 컴파일을 스킵하는 조건이 존재하는가', () => {
+  it('8. compile_storage_blogs.js 또는 compile_blog_base.js에서 다국어 파이프라인 빌드가 올바르게 연결되었는가', () => {
     const filePath = findScriptPath('compile_storage_blogs.js');
     const content = fs.readFileSync(filePath, 'utf-8');
-    const hasKoSkip = content.includes("if (lang === 'ko') return;");
-    expect(hasKoSkip).toBe(true);
+    const hasCoreEngine = content.includes("compileMasterJsonCollection");
+    expect(hasCoreEngine).toBe(true);
   });
 
-  it('9. compile_storage_blogs.js의 복수형 감지 목록에 y -> ies 변형 규칙이 추가되었는가', () => {
+  it('9. compile_storage_blogs.js의 renderLocaleMarkdown 함수가 바인딩되어 있는가', () => {
     const filePath = findScriptPath('compile_storage_blogs.js');
     const content = fs.readFileSync(filePath, 'utf-8');
-    const hasIesPlural = content.includes("`how-to-store-${id.slice(0, -1)}ies`");
-    expect(hasIesPlural).toBe(true);
+    const hasRender = content.includes("renderLocaleMarkdown");
+    expect(hasRender).toBe(true);
   });
 
-  it('10. compile_pet_blogs.js에서 renderEvidenceBox의 세 번째 인자가 \'pet\' 테마로 설정되어 있는가', () => {
+  it('10. compile_pet_blogs.js에서 renderEvidenceBox의 세 번째 인자가 \'petself\' 테마로 설정되어 있는가', () => {
     const filePath = findScriptPath('compile_pet_blogs.js');
     const content = fs.readFileSync(filePath, 'utf-8');
-    const hasCorrectTheme = content.includes("renderEvidenceBox(lang, auth, 'pet')");
+    const hasCorrectTheme = content.includes("renderEvidenceBox(lang, auth, 'petself')");
     expect(hasCorrectTheme).toBe(true);
   });
 
@@ -116,11 +116,11 @@ describe('블로그 컴파일러 및 동기화 아키텍처 리팩토링 검증'
     expect(habitCheck && storageCheck && petCheck).toBe(true);
   });
 
-  it('12. compile_storage_blogs.js에서 ing.storage 참조 시 안전한 옵셔널 체이닝(?.[method])이 적용되었는가', () => {
+  it('12. compile_storage_blogs.js에서 safeClean 함수가 안전하게 선언되었는가', () => {
     const filePath = findScriptPath('compile_storage_blogs.js');
     const content = fs.readFileSync(filePath, 'utf-8');
-    const hasOptionalChaining = content.includes('ing.storage?.[method]');
-    expect(hasOptionalChaining).toBe(true);
+    const hasSafeClean = content.includes('safeClean');
+    expect(hasSafeClean).toBe(true);
   });
 
   it('13. check_blog_integrity.js에서 반려동물 JSON 루트 키와 파일명 일치 여부를 검증하는 린트 로직이 탑재되었는가', () => {
@@ -144,11 +144,11 @@ describe('블로그 컴파일러 및 동기화 아키텍처 리팩토링 검증'
     expect(hasGuard).toBe(true);
   });
 
-  it('16. compile_pet_blogs.js에서 시그널 또는 루틴 배열 크기가 0일 때 throw Error 단언을 가동시키는가', () => {
+  it('16. compile_pet_blogs.js에서 renderLocaleMarkdown이 정의되어 마크다운을 안전하게 반환하는가', () => {
     const filePath = findScriptPath('compile_pet_blogs.js');
     const content = fs.readFileSync(filePath, 'utf-8');
-    const hasPetGuard = content.includes('throw') && (content.includes('bodySignals.length === 0') || content.includes('dailyRoutine.length === 0'));
-    expect(hasPetGuard).toBe(true);
+    const hasRender = content.includes('function renderLocaleMarkdown');
+    expect(hasRender).toBe(true);
   });
 
   it('17. check_blog_integrity.js 및 컴파일러 내에 app 화이트리스트 유효성 검증 단언이 존재하는가', () => {

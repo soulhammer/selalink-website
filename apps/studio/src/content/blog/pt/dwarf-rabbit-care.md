@@ -4,11 +4,25 @@ title: "Sinais de pancadas de patas do coelho anão de Holanda e rotina de 3 pas
 description: "Cuidado da raça de coelho mais pequena, o anão de Holanda. Aprenda a responder às pancadas de aviso com as patas e apoie o seu sensível sistema digestivo com uma rotina de 3 passos de feno alto em fibra."
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
+category: "FreshSelf"
+tags: ["CuidadoPets","SaudePets","Coelho Anão de Holanda (Netherland Dwarf Rabbit)"]
 heroImage: "/images/blog/dwarf_rabbit_care.png"
-authority: "Diretrizes Médicas da House Rabbit Society e Padrões Veterinários de Pequenos Animais"
 app: "petself"
 formatVersion: 4
-tags: ["Coelho Anão","Pancadas de Patas","Feno Timothy","Prevenção de Estase GI"]
+authority: "Diretrizes Médicas da House Rabbit Society e Padrões Veterinários de Pequenos Animais"
+steps:
+  - name: "Expressão emocional do coelho anão: pancadas de patas e ranger de dentes"
+    text: "Os coelhos anões de Holanda batem as suas patas traseiras com força contra o chão 'Pancadas de patas traseiras (Thumping)' para advertir de um perigo ou expressar frustração profunda. Pelo contrário, quando estão relaxados e felizes, rangem ligeiramente os dentes para produzir um suave som de clique chamado 'Ranger de dentes (Teeth Purring)'. Reconhecer estes sinais assegura uma ligação feliz e saudável."
+  - name: "Coelho Anão de Holanda (Netherland Dwarf Rabbit)'s Body Language & Signals"
+    text: "* Pancadas de patas traseiras (Thumping): Uma advertência firme para notificar perigo a outros ou expressar raiva e stresse severos. (Identifique o fator de stresse, bloqueie ruídos repentinos ou outros animais de estimação, e observe a partir de uma distância até que se sintam seguros.)
+
+* Ranger de dentes (Teeth Purring): Um sinal de alegria e segurança, semelhante ao ronronar de um gato, que muitas vezes se sente durante as carícias. (Massageie suavemente a testa e a base das orelhas para aprofundar a ligação emocional.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Manhã: Fornecimento de feno Timothy alto em fibra e água fresca: Para o desgaste dos dentes e uma digestão ativa, encha o comedouro com feno Timothy fresco e livre de pó, e limpe a taça de água.
+
+* STEP 2. Tarde: Limpeza da caixa de areia e inspeção de pododermatite: Limpe a caixa de areia para manter a higiene, e verifique as suas almofadinhas para prevenir a pododermatite (sore hocks) causada por pisos escorregadios ou duros.
+
+* STEP 3. Noite: Revisão de brinquedos para mastigar e corte regular de unhas: Proporcione ramos frescos de macieira para satisfazer o seu instinto de mastigação e verifique o comprimento das unhas para evitar cortes ou feridas."
 faqs:
   - question: "¿Deveria dar banho ao meu coelho com água?"
     answer: "Não. Os coelhos têm a pele muito fina e molhar-se pode causar hipotermia severa ou choque fatal. Limpam-se sozinhos através da sua própria higiene. Limpe apenas as áreas sujas localizadas suavemente com uma toalha húmida."
@@ -30,50 +44,42 @@ Com orelhas minúsculas e um corpo redondo e compacto, o coelho anão de Holanda
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Coelho Anão de Holanda (Netherland Dwarf Rabbit) Perfil principal
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">8 ~ 12 anos</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Padrão de sono</span><span class="font-bold text-slate-800 dark:text-slate-200">8 ~ 10 horas (crepuscular: ativo pelas manhãs e noites)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamento</span><span class="font-bold text-slate-800 dark:text-slate-200">Gentil, sensível, curioso, afetuoso</span></div>
-  </div>
-</div>
+---
 
 ## 1. Expressão emocional do coelho anão: pancadas de patas e ranger de dentes
 
-Os coelhos anões de Holanda batem as suas patas traseiras com força contra o chão 'Pancadas de patas traseiras (Thumping)' para advertir de um perigo ou expressar frustração profunda. Pelo contrário, quando estão relaxados e felizes, rangem ligeiramente os dentes para produzir um suave som de clique chamado 'Ranger de dentes (Teeth Purring)'. Reconhecer estes sinais assegura uma ligação feliz e saudável.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pancadas de patas traseiras (Thumping)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Expressão emocional do coelho anão: pancadas de patas e ranger de dentes</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Uma advertência firme para notificar perigo a outros ou expressar raiva e stresse severos.<br/>
-    <strong>• Ação correta:</strong> Identifique o fator de stresse, bloqueie ruídos repentinos ou outros animais de estimação, e observe a partir de uma distância até que se sintam seguros.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ranger de dentes (Teeth Purring)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Um sinal de alegria e segurança, semelhante ao ronronar de um gato, que muitas vezes se sente durante as carícias.<br/>
-    <strong>• Ação correta:</strong> Massageie suavemente a testa e a base das orelhas para aprofundar a ligação emocional.
+    Os coelhos anões de Holanda batem as suas patas traseiras com força contra o chão 'Pancadas de patas traseiras (Thumping)' para advertir de um perigo ou expressar frustração profunda. Pelo contrário, quando estão relaxados e felizes, rangem ligeiramente os dentes para produzir um suave som de clique chamado 'Ranger de dentes (Teeth Purring)'. Reconhecer estes sinais assegura uma ligação feliz e saudável.
   </p>
 </div>
 
 ---
 
-## 2. Rotina de cuidados diários personalizada
+## 2. Coelho Anão de Holanda (Netherland Dwarf Rabbit)'s Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pancadas de patas traseiras (Thumping)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Significado:</strong> Uma advertência firme para notificar perigo a outros ou expressar raiva e stresse severos.<br/>
+    <strong>• Resposta:</strong> Identifique o fator de stresse, bloqueie ruídos repentinos ou outros animais de estimação, e observe a partir de uma distância até que se sintam seguros.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Fornecimento de feno Timothy alto em fibra e água fresca</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Os coelhos anões de Holanda batem as suas patas traseiras com força contra o c
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Limpeza da caixa de areia e inspeção de pododermatite</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Limpe a caixa de areia para manter a higiene, e verifique as suas almofadinhas para prevenir a pododermatite (sore hocks) causada por pisos escorregadios ou duros.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Revisão de brinquedos para mastigar e corte regular de unhas</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Proporcione ramos frescos de macieira para satisfazer o seu instinto de mastigação e verifique o comprimento das unhas para evitar cortes ou feridas.
-  </p>
-</div>
-
-## 3. Resumo e precauções
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -4,11 +4,25 @@ title: "Munchkin-Katzen Gelenkschutz-Leitfaden und 3-Schritt-Niederflurroutine"
 description: "Pflege für die kurzbeinige Munchkin-Katze. Lernen Sie, Anzeichen von Gelenkbeschwerden zu erkennen und ihre Mobilität zu erhalten."
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
+category: "FreshSelf"
+tags: ["Haustierpflege","Haustiergesundheit","Munchkin-Katze"]
 heroImage: "/images/blog/munchkin_care.png"
-authority: "Munchkin-Rassenstandards der Cat Fanciers' Association (CFA) und Richtlinien der Tierärztlichen Orthopädie"
 app: "petself"
 formatVersion: 4
-tags: ["Munchkin","Katzen-Gelenkpflege","Rückenschutz","Bodenspiel"]
+authority: "Munchkin-Rassenstandards der Cat Fanciers' Association (CFA) und Richtlinien der Tierärztlichen Orthopädie"
+steps:
+  - name: "Munchkin-Körpersprache: Känguru-Stand und Zögern vor Sprüngen"
+    text: "Aufgrund ihrer kurzen Beine zeigen Munchkins ein besonderes Verhalten. Um eine bessere Aussicht zu haben, richten sie sich oft auf den Hinterbeinen auf ('Känguru-Stand'). Das Zögern oder die Weigerung, auf niedrige Möbel zu springen, ist jedoch ein ernstes Warnzeichen für Gelenkschmerzen."
+  - name: "Munchkin-Katze's Body Language & Signals"
+    text: "* Känguru-Stand: Aufrechtes Sitzen auf den Hinterbeinen. Ein natürliches Verhalten, um die geringe Körperhöhe beim Umschauen auszugleichen. (Sichern Sie den Boden mit rutschfesten Matten, damit die Katze beim Sitzen nicht wegrutscht und die Hüfte belastet.)
+
+* Zögern vor Sprüngen: Wiederholtes Hin- und Herlaufen oder langes Hinaufsehen vor einem Sprung deutet auf Gelenkschmerzen hin. (Zwingen Sie die Katze nicht zum Springen. Stellen Sie Tiertreppen auf und lassen Sie die Gelenke tierärztlich untersuchen.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Morgen: Gangbild- und Mobilitätskontrolle: Beobachten Sie das Dehnungsverhalten nach dem Aufstehen. Achten Sie auf steifen Gang oder Schonen eines Beins.
+
+* STEP 2. Nachmittag: Gelenkschonendes Bodenspiel: Spielen Sie flach auf dem Boden mit Bällen. Vermeiden Sie Spielzeug in der Luft, das hohe Sprünge oder harte Landungen provoziert.
+
+* STEP 3. Abend: Fellpflege & Gelenknährstoffe: Bürsten Sie den Rücken, da die Katze ihn wegen der kurzen Beine schwer erreicht. Geben Sie Gelenkergänzungsfuttermittel."
 faqs:
   - question: "Können Munchkin-Katzen normal springen?"
     answer: "Sie können auf Stühle und Sofas springen, erreichen aber keine großen Höhen wie Kühlschränke. Große Sprünge sollten verhindert werden, da der Landestau Aufprallschäden an den Gelenken verursachen kann."
@@ -30,50 +44,42 @@ Munchkin-Katzen sind berühmt für ihr liebenswertes Wesen und ihre kurzen Beine
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Munchkin-Katze Rasseprofil
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Lebenserwartung</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 Jahre</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Schlafmuster</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 14 Stunden (polyphasisch - mehrere kurze Schläfchen)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperament</span><span class="font-bold text-slate-800 dark:text-slate-200">Liebenswert, kontaktfreudig, verspielt, sanft, flink</span></div>
-  </div>
-</div>
+---
 
 ## 1. Munchkin-Körpersprache: Känguru-Stand und Zögern vor Sprüngen
 
-Aufgrund ihrer kurzen Beine zeigen Munchkins ein besonderes Verhalten. Um eine bessere Aussicht zu haben, richten sie sich oft auf den Hinterbeinen auf ('Känguru-Stand'). Das Zögern oder die Weigerung, auf niedrige Möbel zu springen, ist jedoch ein ernstes Warnzeichen für Gelenkschmerzen.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Känguru-Stand</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Munchkin-Körpersprache: Känguru-Stand und Zögern vor Sprüngen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Aufrechtes Sitzen auf den Hinterbeinen. Ein natürliches Verhalten, um die geringe Körperhöhe beim Umschauen auszugleichen.<br/>
-    <strong>• Richtige Reaktion:</strong> Sichern Sie den Boden mit rutschfesten Matten, damit die Katze beim Sitzen nicht wegrutscht und die Hüfte belastet.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Zögern vor Sprüngen</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Wiederholtes Hin- und Herlaufen oder langes Hinaufsehen vor einem Sprung deutet auf Gelenkschmerzen hin.<br/>
-    <strong>• Richtige Reaktion:</strong> Zwingen Sie die Katze nicht zum Springen. Stellen Sie Tiertreppen auf und lassen Sie die Gelenke tierärztlich untersuchen.
+    Aufgrund ihrer kurzen Beine zeigen Munchkins ein besonderes Verhalten. Um eine bessere Aussicht zu haben, richten sie sich oft auf den Hinterbeinen auf ('Känguru-Stand'). Das Zögern oder die Weigerung, auf niedrige Möbel zu springen, ist jedoch ein ernstes Warnzeichen für Gelenkschmerzen.
   </p>
 </div>
 
 ---
 
-## 2. Individuelle häusliche Pflegeroutine
+## 2. Munchkin-Katze's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Känguru-Stand</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Bedeutung:</strong> Aufrechtes Sitzen auf den Hinterbeinen. Ein natürliches Verhalten, um die geringe Körperhöhe beim Umschauen auszugleichen.<br/>
+    <strong>• Reaktion:</strong> Sichern Sie den Boden mit rutschfesten Matten, damit die Katze beim Sitzen nicht wegrutscht und die Hüfte belastet.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Gangbild- und Mobilitätskontrolle</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Aufgrund ihrer kurzen Beine zeigen Munchkins ein besonderes Verhalten. Um eine b
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Gelenkschonendes Bodenspiel</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Spielen Sie flach auf dem Boden mit Bällen. Vermeiden Sie Spielzeug in der Luft, das hohe Sprünge oder harte Landungen provoziert.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Fellpflege & Gelenknährstoffe</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Bürsten Sie den Rücken, da die Katze ihn wegen der kurzen Beine schwer erreicht. Geben Sie Gelenkergänzungsfuttermittel.
-  </p>
-</div>
-
-## 3. Zusammenfassung und Vorsichtsmaßnahmen
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

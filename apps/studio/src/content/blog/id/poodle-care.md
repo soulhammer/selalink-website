@@ -4,11 +4,25 @@ title: "Permainan Otak dan Perawatan Telinga: Rutinitas 3 Langkah untuk Poodle y
 description: "Temukan cara mengatasi kebosanan pada Poodle yang cerdas dengan permainan otak dan mencegah infeksi telinga menggunakan rutinitas 3 langkah."
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
+category: "FreshSelf"
+tags: ["PerawatanHewan","KesehatanHewan","Poodle"]
 heroImage: "/images/blog/poodle_care.png"
-authority: "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC"
 app: "petself"
 formatVersion: 4
-tags: ["Poodle","Permainan Otak","Perawatan Telinga","Perawatan Anjing"]
+authority: "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC"
+steps:
+  - name: "Bahasa Tubuh Poodle: Membedakan Permintaan dengan Stres"
+    text: "Karena kecerdasan mereka, Poodle aktif berkomunikasi menggunakan bahasa tubuh. Sinyal yang khas meliputi 'mengangkat kaki depan' dan 'berkedip'. Saat Poodle mengangkat kaki depan, itu terlihat seperti meminta bersalaman, tetapi sering kali merupakan pesan yang mengatakan 'beri aku perhatian' atau sinyal penenang yang berarti 'aku agak tegang, harap lembut.' Menatap lembut dan berkedip perlahan adalah cara mereka menunjukkan kepercayaan dan kasih sayang."
+  - name: "Poodle's Body Language & Signals"
+    text: "* Mengangkat Kaki Depan: Ekspresi mencari perhatian atau mencoba menenangkan ketegangan atau kecemasan ringan. (Jika terlihat, hindari memberikan perintah yang memaksa. Bicaralah dengan nada tenang dan belai dengan lembut.)
+
+* Berkedip Lembut: Tanda kepercayaan dan kasih sayang yang mendalam, menegaskan bahwa mereka merasa aman dengan Anda. (Saat mata saling bertatapan, berkedip kembalilah perlahan untuk membagikan perasaan tenang tersebut.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Pagi: Peredaan Kognitif dengan Mainan Otak: Selain jalan-jalan fisik, gunakan mangkuk labirin atau alas pengendus untuk merangsang pikiran aktif mereka, membantu mengarahkan kelebihan energi mereka.
+
+* STEP 2. Siang: Pemeriksaan Telinga dan Pijat Pembersihan Lembut: Teteskan 2-3 tetes pembersih telinga ke dalam saluran telinga, pijat perlahan pangkal telinga, dan seka kotoran yang larut dengan kapas untuk mencegah otitis.
+
+* STEP 3. Malam: Menyikat Bulu untuk Mencegah Kusut pada Kulit: Karena bulu Poodle yang keriting mudah kusut, sikatlah setiap hari dengan sikat slicker untuk merontokkan bulu mati dan melancarkan sirkulasi udara pada kulit."
 faqs:
   - question: "Apakah normal bagi Poodle saya menggelengkan kepalanya dengan kuat setelah pembersihan telinga?"
     answer: "Ya, itu adalah reaksi pembersihan diri yang normal. Ini membantu mengeluarkan pembersih beserta kotoran dari dalam telinga. Cukup seka daun telinga bagian luar secara perlahan."
@@ -30,50 +44,42 @@ Poodle secara luas diakui sebagai salah satu ras anjing paling cerdas di dunia. 
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Poodle Profil Utama
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Rata-rata Umur</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 tahun</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Pola Tidur</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 14 jam (sinkron dengan pemilik)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamen</span><span class="font-bold text-slate-800 dark:text-slate-200">Sangat Cerdas, Aktif, Ramah</span></div>
-  </div>
-</div>
+---
 
 ## 1. Bahasa Tubuh Poodle: Membedakan Permintaan dengan Stres
 
-Karena kecerdasan mereka, Poodle aktif berkomunikasi menggunakan bahasa tubuh. Sinyal yang khas meliputi 'mengangkat kaki depan' dan 'berkedip'. Saat Poodle mengangkat kaki depan, itu terlihat seperti meminta bersalaman, tetapi sering kali merupakan pesan yang mengatakan 'beri aku perhatian' atau sinyal penenang yang berarti 'aku agak tegang, harap lembut.' Menatap lembut dan berkedip perlahan adalah cara mereka menunjukkan kepercayaan dan kasih sayang.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mengangkat Kaki Depan</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bahasa Tubuh Poodle: Membedakan Permintaan dengan Stres</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Ekspresi mencari perhatian atau mencoba menenangkan ketegangan atau kecemasan ringan.<br/>
-    <strong>• Tindakan yang Benar:</strong> Jika terlihat, hindari memberikan perintah yang memaksa. Bicaralah dengan nada tenang dan belai dengan lembut.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Berkedip Lembut</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Tanda kepercayaan dan kasih sayang yang mendalam, menegaskan bahwa mereka merasa aman dengan Anda.<br/>
-    <strong>• Tindakan yang Benar:</strong> Saat mata saling bertatapan, berkedip kembalilah perlahan untuk membagikan perasaan tenang tersebut.
+    Karena kecerdasan mereka, Poodle aktif berkomunikasi menggunakan bahasa tubuh. Sinyal yang khas meliputi 'mengangkat kaki depan' dan 'berkedip'. Saat Poodle mengangkat kaki depan, itu terlihat seperti meminta bersalaman, tetapi sering kali merupakan pesan yang mengatakan 'beri aku perhatian' atau sinyal penenang yang berarti 'aku agak tegang, harap lembut.' Menatap lembut dan berkedip perlahan adalah cara mereka menunjukkan kepercayaan dan kasih sayang.
   </p>
 </div>
 
 ---
 
-## 2. Rutinitas Perawatan Harian Kustom
+## 2. Poodle's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mengangkat Kaki Depan</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Arti:</strong> Ekspresi mencari perhatian atau mencoba menenangkan ketegangan atau kecemasan ringan.<br/>
+    <strong>• Tindakan:</strong> Jika terlihat, hindari memberikan perintah yang memaksa. Bicaralah dengan nada tenang dan belai dengan lembut.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Peredaan Kognitif dengan Mainan Otak</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Karena kecerdasan mereka, Poodle aktif berkomunikasi menggunakan bahasa tubuh. S
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Pemeriksaan Telinga dan Pijat Pembersihan Lembut</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Teteskan 2-3 tetes pembersih telinga ke dalam saluran telinga, pijat perlahan pangkal telinga, dan seka kotoran yang larut dengan kapas untuk mencegah otitis.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Menyikat Bulu untuk Mencegah Kusut pada Kulit</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Karena bulu Poodle yang keriting mudah kusut, sikatlah setiap hari dengan sikat slicker untuk merontokkan bulu mati dan melancarkan sirkulasi udara pada kulit.
-  </p>
-</div>
-
-## 3. Ringkasan dan Tindakan Pencegahan
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

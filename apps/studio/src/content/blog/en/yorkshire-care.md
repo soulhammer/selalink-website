@@ -4,11 +4,25 @@ title: "Yorkshire Terrier Coat Maintenance and Patella Subluxation 3-Step Homeca
 description: "Discover grooming secrets to keep your Yorkie silky and prevent patellar dislocation."
 pubDate: "2026-01-02"
 updatedDate: "2026-01-02"
+category: "FreshSelf"
+tags: ["PetCare","PetHealth","Yorkshire Terrier"]
 heroImage: "/images/blog/yorkshire_care.png"
-authority: "Yorkshire Terrier Club (YTC) Grooming Guide & Veterinary Orthopedics Guidelines"
 app: "petself"
 formatVersion: 4
-tags: ["Yorkshire Terrier","Coat Grooming","Patella Care","Barking Training"]
+authority: "Yorkshire Terrier Club (YTC) Grooming Guide & Veterinary Orthopedics Guidelines"
+steps:
+  - name: "Yorkshire Terrier Body Language: Tiny Hunter Alerts"
+    text: "Yorkies have strong guarding and hunting drives. Pulling ears flat back indicates alertness."
+  - name: "Yorkshire Terrier's Body Language & Signals"
+    text: "* Pinned Ears & Rigid Tail: Tense and alert in response to external noises. (Speak in a warm tone and redirect their attention with treats.)
+
+* Belly Show & Air Paddling: Feeling completely safe, showing submissive trust. (Rub their belly softly to foster a warm bond.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Morning: Moisturizing Mist and Pin Brushing: Spray conditioning mist and brush with a pin brush gently.
+
+* STEP 2. Afternoon: Pad Shaving and Non-slip Floor Check: Trim paw pad hair to prevent slipping on indoor floors.
+
+* STEP 3. Evening: Low-Impact Indoor Obstacle Steps: Guide them to step over low cushions to build thigh muscles."
 faqs:
   - question: "Do Yorkies shed a lot?"
     answer: "No, they have single coat. However, daily brushing is needed."
@@ -30,50 +44,42 @@ The Yorkshire Terrier, or 'Yorkie', packs a bold personality. They possess a lon
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Yorkshire Terrier Core Profile
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Lifespan</span><span class="font-bold text-slate-800 dark:text-slate-200">13 ~ 16 Years</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Sleep Pattern</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 14 Hours (Indoor Active)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperament</span><span class="font-bold text-slate-800 dark:text-slate-200">Brave, Smart, Highly Energetic, Affectionate</span></div>
-  </div>
-</div>
+---
 
 ## 1. Yorkshire Terrier Body Language: Tiny Hunter Alerts
 
-Yorkies have strong guarding and hunting drives. Pulling ears flat back indicates alertness.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pinned Ears & Rigid Tail</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Yorkshire Terrier Body Language: Tiny Hunter Alerts</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Meaning:</strong> Tense and alert in response to external noises.<br/>
-    <strong>• Correct Action:</strong> Speak in a warm tone and redirect their attention with treats.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Belly Show & Air Paddling</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Meaning:</strong> Feeling completely safe, showing submissive trust.<br/>
-    <strong>• Correct Action:</strong> Rub their belly softly to foster a warm bond.
+    Yorkies have strong guarding and hunting drives. Pulling ears flat back indicates alertness.
   </p>
 </div>
 
 ---
 
-## 2. Custom Daily Care Routine
+## 2. Yorkshire Terrier's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Body Signal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pinned Ears & Rigid Tail</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Meaning:</strong> Tense and alert in response to external noises.<br/>
+    <strong>• Response:</strong> Speak in a warm tone and redirect their attention with treats.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morning: Moisturizing Mist and Pin Brushing</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Yorkies have strong guarding and hunting drives. Pulling ears flat back indicate
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Afternoon: Pad Shaving and Non-slip Floor Check</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Trim paw pad hair to prevent slipping on indoor floors.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Evening: Low-Impact Indoor Obstacle Steps</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Guide them to step over low cushions to build thigh muscles.
-  </p>
-</div>
-
-## 3. Summary and Precautions
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Simply observing your pet's calming signals can prevent major behavioral issues and stress-induced illnesses. While veterinary treatment is important, providing a safe environment (steps, vertical spaces, multiple water sources) is the strongest shield supporting their lifetime happiness.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -4,11 +4,25 @@ title: "Proteção de articulações e vias respiratórias do Spitz Alemão: rot
 description: "Os Spitz Alemães são propensos à luxação patelar e ao colapso traqueal. Descubra dicas para evitar lesões articulares e aliviar problemas respiratórios."
 pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
+category: "FreshSelf"
+tags: ["CuidadoPets","SaudePets","Spitz Alemão"]
 heroImage: "/images/blog/pomeranian_care.png"
-authority: "Guia oficial de raças do American Pomeranian Club e manual veterinário da AVMA"
 app: "petself"
 formatVersion: 4
-tags: ["Spitz Alemão","Cuidado Patelar","Colapso Traqueal","Escovação de Pelagem"]
+authority: "Guia oficial de raças do American Pomeranian Club e manual veterinário da AVMA"
+steps:
+  - name: "Linguagem corporal do Spitz Alemão: distinguindo o brincar da ansiedade"
+    text: "Os Spitz Alemães são muito expressivos. Os sinais principais incluem a 'posição de convite para brincar' (Play Bow) e 'lamber os lábios'. Quando baixa a parte dianteira do corpo e levanta o quadril, é um convite clássico para brincar. No entanto, se parecer abanar a cauda mas lamber os lábios continuamente, é sinal de ansiedade interna. Não confunda isso com entusiasmo."
+  - name: "Spitz Alemão's Body Language & Signals"
+    text: "* Convite para brincar: Abaixar a parte dianteira e levantar o quadril, representando um convite feliz para brincar. (Responda alegremente jogando um brinquedo ou começando uma brincadeira de perseguição leve.)
+
+* Lamber os lábios: Não é expectativa de comida; é um sinal de calma usado para controlar a ansiedade ou o estresse. (Se ver isso durante os passeios, afaste-o do estímulo para garantir sua tranquilidade.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Manhã: Manutenção antiderrapante e prevenção de saltos: Certifique-se de que os tapetes antiderrapantes estejam bem posicionados. Treine-os para usar escadas para pets em vez de pular.
+
+* STEP 2. Tarde: Escovação com escova de pinos contra o pelo: Use uma escova de pinos para escovar suavemente da cauda para a cabeça. Isso evita nós na subpelagem e permite o fluxo de ar na pele.
+
+* STEP 3. Noite: Massagem no pescoço e verificação do peitoral para evitar tensão traqueal: Para proteger sua traqueia frágil, use peitoral em Y e evite coleiras. Massageie suavemente as laterais do pescoço para aliviar a tensão."
 faqs:
   - question: "O que devo fazer quando o meu Spitz Alemão faz um grasnido de ganso?"
     answer: "Isso costuma ser um sintoma de colapso traqueal. Mantenha a calma, pegue o pet no colo, acaricie o pescoço ou tampe as narinas por 1 segundo para forçar a respiração nasal."
@@ -30,50 +44,42 @@ Os Spitz Alemães são cães toy populares, amados por sua pelagem fofa e andar 
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Spitz Alemão Perfil principal
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 16 anos</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Padrão de sono</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 14 horas (prefere dormir perto do travesseiro do dono)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamento</span><span class="font-bold text-slate-800 dark:text-slate-200">Extrovertido, Inteligente, Vivaz</span></div>
-  </div>
-</div>
+---
 
 ## 1. Linguagem corporal do Spitz Alemão: distinguindo o brincar da ansiedade
 
-Os Spitz Alemães são muito expressivos. Os sinais principais incluem a 'posição de convite para brincar' (Play Bow) e 'lamber os lábios'. Quando baixa a parte dianteira do corpo e levanta o quadril, é um convite clássico para brincar. No entanto, se parecer abanar a cauda mas lamber os lábios continuamente, é sinal de ansiedade interna. Não confunda isso com entusiasmo.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Convite para brincar</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Linguagem corporal do Spitz Alemão: distinguindo o brincar da ansiedade</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Abaixar a parte dianteira e levantar o quadril, representando um convite feliz para brincar.<br/>
-    <strong>• Ação correta:</strong> Responda alegremente jogando um brinquedo ou começando uma brincadeira de perseguição leve.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lamber os lábios</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Não é expectativa de comida; é um sinal de calma usado para controlar a ansiedade ou o estresse.<br/>
-    <strong>• Ação correta:</strong> Se ver isso durante os passeios, afaste-o do estímulo para garantir sua tranquilidade.
+    Os Spitz Alemães são muito expressivos. Os sinais principais incluem a 'posição de convite para brincar' (Play Bow) e 'lamber os lábios'. Quando baixa a parte dianteira do corpo e levanta o quadril, é um convite clássico para brincar. No entanto, se parecer abanar a cauda mas lamber os lábios continuamente, é sinal de ansiedade interna. Não confunda isso com entusiasmo.
   </p>
 </div>
 
 ---
 
-## 2. Rotina de cuidados diários personalizada
+## 2. Spitz Alemão's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Convite para brincar</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Significado:</strong> Abaixar a parte dianteira e levantar o quadril, representando um convite feliz para brincar.<br/>
+    <strong>• Resposta:</strong> Responda alegremente jogando um brinquedo ou começando uma brincadeira de perseguição leve.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Manutenção antiderrapante e prevenção de saltos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Os Spitz Alemães são muito expressivos. Os sinais principais incluem a 'posiç
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Escovação com escova de pinos contra o pelo</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Use uma escova de pinos para escovar suavemente da cauda para a cabeça. Isso evita nós na subpelagem e permite o fluxo de ar na pele.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Massagem no pescoço e verificação do peitoral para evitar tensão traqueal</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Para proteger sua traqueia frágil, use peitoral em Y e evite coleiras. Massageie suavemente as laterais do pescoço para aliviar a tensão.
-  </p>
-</div>
-
-## 3. Resumo e precauções
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

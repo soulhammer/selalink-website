@@ -4,11 +4,25 @@ title: "Die genetische Bürde hinter der Niedlichkeit: Scottish Fold Gelenk- und
 description: "Scottish Folds, bekannt für ihre Faltohren. Sie sind anfällig für genetisch bedingte Gelenkschmerzen und Ohrentzündungen. Erfahren Sie eine 3-Schritte-Routine zur Gelenkschutz- und Ohrenpflege."
 pubDate: "2026-02-10"
 updatedDate: "2026-02-12"
+category: "FreshSelf"
+tags: ["Haustierpflege","Haustiergesundheit","Scottish Fold"]
 heroImage: "/images/blog/scottish_fold_care.png"
-authority: "Hereditäres Knorpelprotokoll der ISFM (International Society of Feline Medicine) und GCCF-Richtlinien"
 app: "petself"
 formatVersion: 4
-tags: ["Scottish Fold","Osteochondrodysplasie","Ohrenreinigung","Gelenke"]
+authority: "Hereditäres Knorpelprotokoll der ISFM (International Society of Feline Medicine) und GCCF-Richtlinien"
+steps:
+  - name: "Körpersprache der Fold: Buddha-Stellung und Schwanz einklemmen"
+    text: "Scottish Folds nehmen einzigartige Haltungen ein, um Gelenkschmerzen zu lindern. Zu den Anzeichen gehören die Buddha-Stellung und das Schwanz einklemmen. Das Sitzen mit ausgestreckten Beinen dient dazu, den Gewichtsdruck von Wirbelsäule und Beinen zu nehmen. Das Einklemmen des Schwanzes deutet auf Schmerzen hin. Vermeiden Sie Berührungen am Schwanz."
+  - name: "Scottish Fold's Body Language & Signals"
+    text: "* Buddha-Stellung: Eine instinktive Haltung, um den Gewichtsdruck zu verteilen und Knorpelschmerzen zu lindern. (Zwingen Sie sie nicht, die Haltung zu ändern. Legen Sie ein weiches Kissen hinter den Rücken.)
+
+* Schwanz einklemmen: Ein Abwehrsignal, das zeigt, dass der Schwanz steif oder schmerzhaft ist. (Hören Sie sofort auf, den Schwanz zu berühren, und führen Sie sie zu einem bequemen Liegeplatz.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Morgen: Ganganalyse und Nahrungsergänzung für Knorpel: Beobachten Sie den Gang nach dem Aufwachen für 30 Sekunden auf Lahmheit. Verabreichen Sie Knorpel-Nahrungsergänzungsmittel mit dem Futter.
+
+* STEP 2. Nachmittag: Gehörgangskontrolle und wöchentliche Belüftungsreinigung: Faltohren stauen Feuchtigkeit. Keine Wattestäbchen verwenden. Ohrreiniger einträufeln, massieren und austretenden Schmutz abwischen.
+
+* STEP 3. Abend: Stoßdämpfende Matten unter Kratzbäumen und kontrolliertes Spiel: Herabspringen belastet die Knorpel. Legen Sie stoßdämpfende Matten aus und spielen Sie auf dem Boden, um Sprünge und Drehungen zu vermeiden."
 faqs:
   - question: "Ist die 'Buddha-Stellung' der Scottish Fold ein Zeichen von Schmerzen?"
     answer: "Ja. Das Sitzen auf dem Gesäß mit ausgestreckten Beinen ist eine instinktive Haltung, um das Gewicht zu verteilen und den Druck von den schmerzenden Gelenken zu nehmen."
@@ -34,50 +48,42 @@ Heute entschlüsselt PetSelf die Schmerzsignale der Scottish Fold und stellt ein
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Scottish Fold Rasseprofil
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Lebenserwartung</span><span class="font-bold text-slate-800 dark:text-slate-200">11 ~ 15 Jahre</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Schlafmuster</span><span class="font-bold text-slate-800 dark:text-slate-200">15 ~ 18 Stunden (gepolsterte Betten bevorzugt)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperament</span><span class="font-bold text-slate-800 dark:text-slate-200">Gelassen, Süß, Liebevoll</span></div>
-  </div>
-</div>
+---
 
 ## 1. Körpersprache der Fold: Buddha-Stellung und Schwanz einklemmen
 
-Scottish Folds nehmen einzigartige Haltungen ein, um Gelenkschmerzen zu lindern. Zu den Anzeichen gehören die Buddha-Stellung und das Schwanz einklemmen. Das Sitzen mit ausgestreckten Beinen dient dazu, den Gewichtsdruck von Wirbelsäule und Beinen zu nehmen. Das Einklemmen des Schwanzes deutet auf Schmerzen hin. Vermeiden Sie Berührungen am Schwanz.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Buddha-Stellung</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Körpersprache der Fold: Buddha-Stellung und Schwanz einklemmen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Eine instinktive Haltung, um den Gewichtsdruck zu verteilen und Knorpelschmerzen zu lindern.<br/>
-    <strong>• Richtige Reaktion:</strong> Zwingen Sie sie nicht, die Haltung zu ändern. Legen Sie ein weiches Kissen hinter den Rücken.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Schwanz einklemmen</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Ein Abwehrsignal, das zeigt, dass der Schwanz steif oder schmerzhaft ist.<br/>
-    <strong>• Richtige Reaktion:</strong> Hören Sie sofort auf, den Schwanz zu berühren, und führen Sie sie zu einem bequemen Liegeplatz.
+    Scottish Folds nehmen einzigartige Haltungen ein, um Gelenkschmerzen zu lindern. Zu den Anzeichen gehören die Buddha-Stellung und das Schwanz einklemmen. Das Sitzen mit ausgestreckten Beinen dient dazu, den Gewichtsdruck von Wirbelsäule und Beinen zu nehmen. Das Einklemmen des Schwanzes deutet auf Schmerzen hin. Vermeiden Sie Berührungen am Schwanz.
   </p>
 </div>
 
 ---
 
-## 2. Individuelle häusliche Pflegeroutine
+## 2. Scottish Fold's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Buddha-Stellung</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Bedeutung:</strong> Eine instinktive Haltung, um den Gewichtsdruck zu verteilen und Knorpelschmerzen zu lindern.<br/>
+    <strong>• Reaktion:</strong> Zwingen Sie sie nicht, die Haltung zu ändern. Legen Sie ein weiches Kissen hinter den Rücken.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Ganganalyse und Nahrungsergänzung für Knorpel</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -85,37 +91,16 @@ Scottish Folds nehmen einzigartige Haltungen ein, um Gelenkschmerzen zu lindern.
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Gehörgangskontrolle und wöchentliche Belüftungsreinigung</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Faltohren stauen Feuchtigkeit. Keine Wattestäbchen verwenden. Ohrreiniger einträufeln, massieren und austretenden Schmutz abwischen.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Stoßdämpfende Matten unter Kratzbäumen und kontrolliertes Spiel</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Herabspringen belastet die Knorpel. Legen Sie stoßdämpfende Matten aus und spielen Sie auf dem Boden, um Sprünge und Drehungen zu vermeiden.
-  </p>
-</div>
-
-## 3. Zusammenfassung und Vorsichtsmaßnahmen
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

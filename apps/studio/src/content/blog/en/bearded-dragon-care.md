@@ -4,11 +4,25 @@ title: "Bearded Dragon Basking Guide and 3-Step Calcium-UVB Daily Routine"
 description: "Caring for the docile Bearded Dragon lizard. Learn how to interpret territorial head bobbing and prevent Metabolic Bone Disease (MBD) with a 3-step lighting and calcium routine."
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
+category: "FreshSelf"
+tags: ["PetCare","PetHealth","Bearded Dragon"]
 heroImage: "/images/blog/bearded_dragon_care.png"
-authority: "Association of Reptilian and Amphibian Veterinarians (ARAV) Husbandry Guidelines and herpetological standards"
 app: "petself"
 formatVersion: 4
-tags: ["Bearded Dragon","Reptile Calcium","UVB Lighting","MBD Prevention"]
+authority: "Association of Reptilian and Amphibian Veterinarians (ARAV) Husbandry Guidelines and herpetological standards"
+steps:
+  - name: "Bearded Dragon Social Signs: Head Bobbing and Arm Waving"
+    text: "Bearded dragons use unique body language to establish hierarchy and communicate. They perform rapid 'head bobbing' up and down to display dominance or claim territory. On the other hand, they slowly wave their front legs in a circular motion ('arm waving') to signal submission or acknowledge your presence."
+  - name: "Bearded Dragon's Body Language & Signals"
+    text: "* Head Bobbing (Rapid): An assertion of dominance, territorial claim, or a sign of alertness, common during mating season or when seeing other reptiles. (Ensure they are housed alone (cohabitation causes severe stress) and block reflections in the glass enclosure.)
+
+* Arm Waving (Slow Motion): A gesture of submission, pacification, or friendly acknowledgment showing 'I am no threat' to humans or larger reptiles. (Approach them gently at eye level, speak in a calm voice, and reward them with a treat to build trust.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Morning: Basking Heat & UVB Lamp Activation: Turn on basking and UVB lamps. Ensure the basking spot reaches 95-105°F (35-40°C) so they can raise their body temperature for digestion.
+
+* STEP 2. Afternoon: Gut-Loaded Insect & Calcium-Dusted Feeding: Feed insects dusted with calcium powder (with D3 if indoors). Offer fresh greens like collard greens or mustard greens.
+
+* STEP 3. Evening: Temperature Drop Check & Sleep Lighting: Turn off all lights. Ensure the night temperature drops naturally but stays above 65°F (18°C) to allow proper metabolic rest."
 faqs:
   - question: "How often should I replace my bearded dragon's UVB bulb?"
     answer: "UVB bulbs stop emitting effective UV rays long before they burn out. Fluorescent tube UVB bulbs must be replaced every 6 to 12 months, even if they still emit visible light."
@@ -30,50 +44,42 @@ Bearded dragons are among the most popular reptile companions due to their gentl
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Bearded Dragon Core Profile
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Lifespan</span><span class="font-bold text-slate-800 dark:text-slate-200">10 - 15 Years</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Sleep Pattern</span><span class="font-bold text-slate-800 dark:text-slate-200">10 - 12 Hours (Diurnal - Active During Day)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperament</span><span class="font-bold text-slate-800 dark:text-slate-200">Docile, Calm, Inquisitive, Friendly, Observant</span></div>
-  </div>
-</div>
+---
 
 ## 1. Bearded Dragon Social Signs: Head Bobbing and Arm Waving
 
-Bearded dragons use unique body language to establish hierarchy and communicate. They perform rapid 'head bobbing' up and down to display dominance or claim territory. On the other hand, they slowly wave their front legs in a circular motion ('arm waving') to signal submission or acknowledge your presence.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Head Bobbing (Rapid)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bearded Dragon Social Signs: Head Bobbing and Arm Waving</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Meaning:</strong> An assertion of dominance, territorial claim, or a sign of alertness, common during mating season or when seeing other reptiles.<br/>
-    <strong>• Correct Action:</strong> Ensure they are housed alone (cohabitation causes severe stress) and block reflections in the glass enclosure.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Arm Waving (Slow Motion)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Meaning:</strong> A gesture of submission, pacification, or friendly acknowledgment showing 'I am no threat' to humans or larger reptiles.<br/>
-    <strong>• Correct Action:</strong> Approach them gently at eye level, speak in a calm voice, and reward them with a treat to build trust.
+    Bearded dragons use unique body language to establish hierarchy and communicate. They perform rapid 'head bobbing' up and down to display dominance or claim territory. On the other hand, they slowly wave their front legs in a circular motion ('arm waving') to signal submission or acknowledge your presence.
   </p>
 </div>
 
 ---
 
-## 2. Custom Daily Care Routine
+## 2. Bearded Dragon's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Body Signal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Head Bobbing (Rapid)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Meaning:</strong> An assertion of dominance, territorial claim, or a sign of alertness, common during mating season or when seeing other reptiles.<br/>
+    <strong>• Response:</strong> Ensure they are housed alone (cohabitation causes severe stress) and block reflections in the glass enclosure.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morning: Basking Heat & UVB Lamp Activation</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Bearded dragons use unique body language to establish hierarchy and communicate.
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Afternoon: Gut-Loaded Insect & Calcium-Dusted Feeding</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Feed insects dusted with calcium powder (with D3 if indoors). Offer fresh greens like collard greens or mustard greens.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Evening: Temperature Drop Check & Sleep Lighting</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Turn off all lights. Ensure the night temperature drops naturally but stays above 65°F (18°C) to allow proper metabolic rest.
-  </p>
-</div>
-
-## 3. Summary and Precautions
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Simply observing your pet's calming signals can prevent major behavioral issues and stress-induced illnesses. While veterinary treatment is important, providing a safe environment (steps, vertical spaces, multiple water sources) is the strongest shield supporting their lifetime happiness.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

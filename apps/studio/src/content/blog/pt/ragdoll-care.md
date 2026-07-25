@@ -4,11 +4,25 @@ title: "Um gato que se abraça como um boneco? Rotina de 3 passos de colo seguro
 description: "Ragdolls, os gatos gigantes que relaxam como bonecos ao colo. Descubra dicas para proteger suas articulações e uma rotina de 3 passos de colo seguro."
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
+category: "FreshSelf"
+tags: ["CuidadoPets","SaudePets","Ragdoll"]
 heroImage: "/images/blog/ragdoll_care.png"
-authority: "Guia de raças da Cat Fanciers' Association (CFA) e diretrizes de prática amigável com gatos da AAFP"
 app: "petself"
 formatVersion: 4
-tags: ["Ragdoll","Colo Seguro","Cuidado Articular","Cuidado de Gatos"]
+authority: "Guia de raças da Cat Fanciers' Association (CFA) e diretrizes de prática amigável com gatos da AAFP"
+steps:
+  - name: "Sinais de calma do Ragdoll: Piscadas lentas e dedos relaxados"
+    text: "Os Ragdolls expressam sua confiança não apenas relaxando, mas também por gestos com olhos e patas. Os sinais incluem 'piscadas lentas' e 'dedos relaxados'. Olhar e piscar lentamente é uma mensagem de afeto. Quando se sentem extremamente felizes, abrem os dedos como um leque. Acariciar sob o queixo maximiza sua segurança."
+  - name: "Ragdoll's Body Language & Signals"
+    text: "* Piscada lenta: Um sinal de afeto, mostrando que confiam em você e se sentem seguros. (Responda piscando de volta lentamente para fortalecer seu vínculo e confiança.)
+
+* Dedos abertos: Indica conforto extremo, lembrando a memória de amamentação quando filhote. (Continue acariciando sob o queixo para mantê-los relaxados.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Manhã: Alongamento leve para a saúde esquelética: Por ser uma raça grande, o cansaço acumula nas articulações. Antes de se moverem, alongue suavemente as patas traseiras.
+
+* STEP 2. Tarde: Escovação com escova de pinos para evitar nós: O subpelo é muito macio e propenso a nós. Escove com escova de pinos arredondados para ventilar a pelagem e evitar dermatite.
+
+* STEP 3. Noite: Técnica de colo seguro com suporte nos quadris: Levantar apenas a parte superior do corpo torce a coluna. Apoie sempre o peito com uma mão e os quadris com a outra."
 faqs:
   - question: "O Ragdoll ficar mole ao colo significa que tem ossos fracos?"
     answer: "Não. Este é um traço genético único do Ragdoll, no qual relaxam seus músculos quando se sentem seguros e confiam em quem os segura. Não é um defeito físico."
@@ -34,50 +48,42 @@ Hoje, o PetSelf decodifica a linguagem corporal do Ragdoll e apresenta uma rotin
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Ragdoll Perfil principal
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 17 anos</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Padrão de sono</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 14 horas (alta confiança no dono)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamento</span><span class="font-bold text-slate-800 dark:text-slate-200">Dócil, Calmo, Muito Social</span></div>
-  </div>
-</div>
+---
 
 ## 1. Sinais de calma do Ragdoll: Piscadas lentas e dedos relaxados
 
-Os Ragdolls expressam sua confiança não apenas relaxando, mas também por gestos com olhos e patas. Os sinais incluem 'piscadas lentas' e 'dedos relaxados'. Olhar e piscar lentamente é uma mensagem de afeto. Quando se sentem extremamente felizes, abrem os dedos como um leque. Acariciar sob o queixo maximiza sua segurança.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Piscada lenta</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sinais de calma do Ragdoll: Piscadas lentas e dedos relaxados</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Um sinal de afeto, mostrando que confiam em você e se sentem seguros.<br/>
-    <strong>• Ação correta:</strong> Responda piscando de volta lentamente para fortalecer seu vínculo e confiança.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Dedos abertos</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Indica conforto extremo, lembrando a memória de amamentação quando filhote.<br/>
-    <strong>• Ação correta:</strong> Continue acariciando sob o queixo para mantê-los relaxados.
+    Os Ragdolls expressam sua confiança não apenas relaxando, mas também por gestos com olhos e patas. Os sinais incluem 'piscadas lentas' e 'dedos relaxados'. Olhar e piscar lentamente é uma mensagem de afeto. Quando se sentem extremamente felizes, abrem os dedos como um leque. Acariciar sob o queixo maximiza sua segurança.
   </p>
 </div>
 
 ---
 
-## 2. Rotina de cuidados diários personalizada
+## 2. Ragdoll's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Piscada lenta</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Significado:</strong> Um sinal de afeto, mostrando que confiam em você e se sentem seguros.<br/>
+    <strong>• Resposta:</strong> Responda piscando de volta lentamente para fortalecer seu vínculo e confiança.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Alongamento leve para a saúde esquelética</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -85,37 +91,16 @@ Os Ragdolls expressam sua confiança não apenas relaxando, mas também por gest
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Escovação com escova de pinos para evitar nós</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    O subpelo é muito macio e propenso a nós. Escove com escova de pinos arredondados para ventilar a pelagem e evitar dermatite.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Técnica de colo seguro com suporte nos quadris</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Levantar apenas a parte superior do corpo torce a coluna. Apoie sempre o peito com uma mão e os quadris com a outra.
-  </p>
-</div>
-
-## 3. Resumo e precauções
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -4,11 +4,25 @@ title: "Cuidado Respiratório e de Temperatura do Bulldog Francês: Rotina de 3 
 description: "Bulldogs Franceses são propensos a desconforto respiratório e choque térmico devido à face achatada. Aprenda a rotina para cuidar de suas rugas, respiração e articulações."
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
+category: "FreshSelf"
+tags: ["CuidadoPets","SaudePets","Bulldog Francês"]
 heroImage: "/images/blog/french_bulldog_care.png"
-authority: "Manual oficial de cuidados com o Bulldog Francês do AKC"
 app: "petself"
 formatVersion: 4
-tags: ["Bulldog Frances","Braquicefalo","Choque Termico","Rugas Faciais"]
+authority: "Manual oficial de cuidados com o Bulldog Francês do AKC"
+steps:
+  - name: "Linguagem corporal do Bulldog Francês: ruídos respiratórios e sinais de calor"
+    text: "Quando o fluxo de ar está ruim, eles emitem um 'estridor ou estertor'. Se esticarem o pescoço ao ofegar, é um sinal de alerta de calor severo. Reconhecer estes sinais previne choque térmico letal."
+  - name: "Bulldog Francês's Body Language & Signals"
+    text: "* Estridor e Estertor: Ruídos de sopro ou ronco indicando vias aéreas estreitas e aumento da temperatura. (Leve o cão imediatamente para uma área fresca com ar condicionado e ofereça água fresca.)
+
+* Ofegar com Pescoço Esticado: Sinal crítico onde o cão estica o pescoço para inalar oxigênio sob calor extremo. (Mantenha a temperatura da casa em 22-24°C e limpe as almofadas das patas com panos úmidos frios.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Manhã: Limpeza e secagem das rugas faciais: Limpe os pliqueques faciais com lenço sem álcool e seque bem para evitar infecções fúngicas.
+
+* STEP 2. Tarde: Caminhada leve de 15 minutos em terreno plano sem calor: Evite as horas mais quentes. Faça caminhadas curtas de 15 minutos em plano no início da manhã ou noite.
+
+* STEP 3. Noite: Alimentação elevada e observação pós-refeição: Posicione o comedouro elevado para facilitar a deglutição e observe a respiração por 30 minutos após comer."
 faqs:
   - question: "Por que o Bulldog Francês sofre tanto com o calor?"
     answer: "O focinho curto limita a troca de calor através do processo de ofegar. O calor acumula-se no corpo rapidamente."
@@ -30,50 +44,42 @@ Com suas orelhas de morcego e focinho achatado, o Bulldog Francês é um companh
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Bulldog Francês Perfil principal
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">10 ~ 14 anos</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Padrão de sono</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 14 horas (sono profundo com ronco)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamento</span><span class="font-bold text-slate-800 dark:text-slate-200">Brincalhão, Inteligente, Adaptável, Sociável</span></div>
-  </div>
-</div>
+---
 
 ## 1. Linguagem corporal do Bulldog Francês: ruídos respiratórios e sinais de calor
 
-Quando o fluxo de ar está ruim, eles emitem um 'estridor ou estertor'. Se esticarem o pescoço ao ofegar, é um sinal de alerta de calor severo. Reconhecer estes sinais previne choque térmico letal.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Estridor e Estertor</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Linguagem corporal do Bulldog Francês: ruídos respiratórios e sinais de calor</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Ruídos de sopro ou ronco indicando vias aéreas estreitas e aumento da temperatura.<br/>
-    <strong>• Ação correta:</strong> Leve o cão imediatamente para uma área fresca com ar condicionado e ofereça água fresca.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ofegar com Pescoço Esticado</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Sinal crítico onde o cão estica o pescoço para inalar oxigênio sob calor extremo.<br/>
-    <strong>• Ação correta:</strong> Mantenha a temperatura da casa em 22-24°C e limpe as almofadas das patas com panos úmidos frios.
+    Quando o fluxo de ar está ruim, eles emitem um 'estridor ou estertor'. Se esticarem o pescoço ao ofegar, é um sinal de alerta de calor severo. Reconhecer estes sinais previne choque térmico letal.
   </p>
 </div>
 
 ---
 
-## 2. Rotina de cuidados diários personalizada
+## 2. Bulldog Francês's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Estridor e Estertor</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Significado:</strong> Ruídos de sopro ou ronco indicando vias aéreas estreitas e aumento da temperatura.<br/>
+    <strong>• Resposta:</strong> Leve o cão imediatamente para uma área fresca com ar condicionado e ofereça água fresca.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Limpeza e secagem das rugas faciais</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Quando o fluxo de ar está ruim, eles emitem um 'estridor ou estertor'. Se estic
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Caminhada leve de 15 minutos em terreno plano sem calor</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Evite as horas mais quentes. Faça caminhadas curtas de 15 minutos em plano no início da manhã ou noite.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Alimentação elevada e observação pós-refeição</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Posicione o comedouro elevado para facilitar a deglutição e observe a respiração por 30 minutos após comer.
-  </p>
-</div>
-
-## 3. Resumo e precauções
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

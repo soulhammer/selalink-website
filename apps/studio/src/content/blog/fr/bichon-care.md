@@ -4,11 +4,25 @@ title: "Soins du Bichon Frisé à poil frisé : Routine en 3 étapes pour le dé
 description: "Célèbre pour son aspect de houppette, le Bichon Frisé est très amical. Découvrez une routine pour gérer son poil frisé et gérer en sécurité son quart d'heure de folie."
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
+category: "FreshSelf"
+tags: ["SoinAnimaux","SanteAnimaux","Bichon Frisé"]
 heroImage: "/images/blog/bichon_care.png"
-authority: "Normes du Bichon Frise Club of America et directives de santé de l'AVMA"
 app: "petself"
 formatVersion: 4
-tags: ["Bichon Frisé","FRAPs","Nœuds de Poils","Dermatite"]
+authority: "Normes du Bichon Frise Club of America et directives de santé de l'AVMA"
+steps:
+  - name: "Langage corporel du Bichon Frisé : quart d'heure de folie et recherche d'attention"
+    text: "Lorsqu'il est excité, le Bichon montre son 'Bichon Blitz' (courir follement) pour brûler de l'énergie. De plus, tapoter le bras de son maître ('tapotement de patte') est un signal affectueux pour demander de l'attention."
+  - name: "Bichon Frisé's Body Language & Signals"
+    text: "* Quart d'heure de folie: Un comportement naturel visant à brûler l'énergie accumulée par une activité physique intense. (Dégagez les obstacles de sa trajectoire, fixez les tapis et laissez-le s'arrêter naturellement.)
+
+* Tapotement de patte: Une manière amicale et pacifique de demander de l'attention et du contact, typique du Bichon. (Faites un contact visuel, caressez-le, ou faites une séance d'obéissance rapide pour le stimuler.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Matin : Jeu de rapport de jouet et traction douce: Pour éviter les collisions avec les meubles, faites un jeu de traction douce le matin pour brûler de l'énergie.
+
+* STEP 2. Après-midi : 10 minutes de brossage avec carde et peigne en métal: Vaporisez d'abord un spray de brossage, puis brossez le ventre et l'intérieur des pattes avec la carde. Suivez avec le peigne en métal.
+
+* STEP 3. Soir : Brossage du contour des yeux et séchage des larmes: Peignez doucement le poil autour des yeux avec un peigne facial fin et séchez l'excès de larmes avec un coton."
 faqs:
   - question: "Comment calmer un Bichon pendant son quart d'heure de folie ?"
     answer: "Le Bichon Blitz est une libération émotionnelle normale. Ne l'attrapez pas et ne criez pas, cela l'exciterait. Fixez les tapis pour éviter les glissades et attendez."
@@ -30,50 +44,42 @@ Le Bichon Frisé est célèbre pour son aspect cotonneux et sa joie de vivre. Ce
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Bichon Frisé Profil principal
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 ans</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Mode de sommeil</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 14 heures (dort aux pieds de son maître)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Tempérament</span><span class="font-bold text-slate-800 dark:text-slate-200">Gai, Joueur, Affectueux, Sociable</span></div>
-  </div>
-</div>
+---
 
 ## 1. Langage corporel du Bichon Frisé : quart d'heure de folie et recherche d'attention
 
-Lorsqu'il est excité, le Bichon montre son 'Bichon Blitz' (courir follement) pour brûler de l'énergie. De plus, tapoter le bras de son maître ('tapotement de patte') est un signal affectueux pour demander de l'attention.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Quart d'heure de folie</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Langage corporel du Bichon Frisé : quart d'heure de folie et recherche d'attention</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Signification:</strong> Un comportement naturel visant à brûler l'énergie accumulée par une activité physique intense.<br/>
-    <strong>• Action correcte:</strong> Dégagez les obstacles de sa trajectoire, fixez les tapis et laissez-le s'arrêter naturellement.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tapotement de patte</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Signification:</strong> Une manière amicale et pacifique de demander de l'attention et du contact, typique du Bichon.<br/>
-    <strong>• Action correcte:</strong> Faites un contact visuel, caressez-le, ou faites une séance d'obéissance rapide pour le stimuler.
+    Lorsqu'il est excité, le Bichon montre son 'Bichon Blitz' (courir follement) pour brûler de l'énergie. De plus, tapoter le bras de son maître ('tapotement de patte') est un signal affectueux pour demander de l'attention.
   </p>
 </div>
 
 ---
 
-## 2. Routine de soins quotidiens personnalisée
+## 2. Bichon Frisé's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Signal Corporel 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Quart d'heure de folie</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Signification:</strong> Un comportement naturel visant à brûler l'énergie accumulée par une activité physique intense.<br/>
+    <strong>• Reponse:</strong> Dégagez les obstacles de sa trajectoire, fixez les tapis et laissez-le s'arrêter naturellement.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Jeu de rapport de jouet et traction douce</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Lorsqu'il est excité, le Bichon montre son 'Bichon Blitz' (courir follement) po
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi : 10 minutes de brossage avec carde et peigne en métal</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Vaporisez d'abord un spray de brossage, puis brossez le ventre et l'intérieur des pattes avec la carde. Suivez avec le peigne en métal.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir : Brossage du contour des yeux et séchage des larmes</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Peignez doucement le poil autour des yeux avec un peigne facial fin et séchez l'excès de larmes avec un coton.
-  </p>
-</div>
-
-## 3. Résumé et précautions
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

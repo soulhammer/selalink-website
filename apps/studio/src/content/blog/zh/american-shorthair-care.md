@@ -4,11 +4,25 @@ title: "美短心脑血管与体重护理：预防肥大性心肌病(HCM)及控�
 description: "美国短毛猫身体强健，但极易发生肥胖并具有肥大性心肌病(HCM)的遗传倾向。通过日常3步护理惯例科学管理饮食、运动与心脏健康。"
 pubDate: "2026-03-02"
 updatedDate: "2026-03-02"
+category: "FreshSelf"
+tags: ["宠物护理","宠物健康","美国短毛猫"]
 heroImage: "/images/blog/american_shorthair_care.png"
-authority: "CFA 美国短毛猫标准与康奈尔猫科健康中心研究数据"
 app: "petself"
 formatVersion: 4
-tags: ["美国短毛猫","HCM筛查","猫咪减肥","心脏彩超"]
+authority: "CFA 美国短毛猫标准与康奈尔猫科健康中心研究数据"
+steps:
+  - name: "美国短毛猫的身体语言：心脏超负荷与张口呼吸的警示"
+    text: "猫咪极少通过呼吸来散热，如果美短在日常中出现“张口呼吸（Open-mouth Breathing）”或在玩耍中“极易疲劳趴下”，这可能是心血管疾病的强烈警告，必须高度重视。"
+  - name: "美国短毛猫's Body Language & Signals"
+    text: "* 张口呼吸: 张开嘴喘气、舌头微吐的异常状态，说明肺部和心脏负荷过重，处于严重缺氧或极度焦虑状态。 (保持环境绝对安静以降低应激，立即用航空箱送往24小时宠物医院进行吸氧急救。)
+
+* 玩耍中迅速疲劳趴卧: 进行羽毛棒逗弄等轻度活动数分钟后，便侧卧不起并张口喘气，这代表心脏泵血功能严重不足。 (立刻停止互动。建议每年进行一次proBNP心脏指标筛查或心脏彩色超声检查以排查HCM。)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. 早晨：定时定量喂食，科学防肥胖: 切忌无限制自助喂食。应根据其每日所需热量定时定量给食，从而控制体重以减轻心脏和关节负担。
+
+* STEP 2. 中午：进行15分钟的高强度捕猎互动游戏: 使用逗猫棒等玩具，每日带其进行至少2次、每次15分钟的主动奔跑游戏，帮助消耗脂肪。
+
+* STEP 3. 晚上：梳理底绒，预防毛球症: 美短毛发短而浓密，每周应用排梳和橡胶刷梳理1-2次，以减少死毛脱落并降低吐毛球引发的肠胃应激。"
 faqs:
   - question: "什么是猫的肥大性心肌病（HCM）？"
     answer: "这是一种心肌（特别是左心室壁）异常增厚，导致心脏容积减小、泵血量不足的严重遗传性疾病。初期往往无任何症状，容易发生突发性猝死，因此定期心超是唯一有效的监测手段。"
@@ -30,50 +44,42 @@ faqs:
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 美国短毛猫 核心档案
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">平均寿命</span><span class="font-bold text-slate-800 dark:text-slate-200">15 ~ 20年</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">睡眠习惯</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 16小时（偏爱向阳的窗台）</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">性格特点</span><span class="font-bold text-slate-800 dark:text-slate-200">温和、聪明、安静、独立</span></div>
-  </div>
-</div>
+---
 
 ## 1. 美国短毛猫的身体语言：心脏超负荷与张口呼吸的警示
 
-猫咪极少通过呼吸来散热，如果美短在日常中出现“张口呼吸（Open-mouth Breathing）”或在玩耍中“极易疲劳趴下”，这可能是心血管疾病的强烈警告，必须高度重视。
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">张口呼吸</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">美国短毛猫的身体语言：心脏超负荷与张口呼吸的警示</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意义:</strong> 张开嘴喘气、舌头微吐的异常状态，说明肺部和心脏负荷过重，处于严重缺氧或极度焦虑状态。<br/>
-    <strong>• 正确应对:</strong> 保持环境绝对安静以降低应激，立即用航空箱送往24小时宠物医院进行吸氧急救。
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">玩耍中迅速疲劳趴卧</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意义:</strong> 进行羽毛棒逗弄等轻度活动数分钟后，便侧卧不起并张口喘气，这代表心脏泵血功能严重不足。<br/>
-    <strong>• 正确应对:</strong> 立刻停止互动。建议每年进行一次proBNP心脏指标筛查或心脏彩色超声检查以排查HCM。
+    猫咪极少通过呼吸来散热，如果美短在日常中出现“张口呼吸（Open-mouth Breathing）”或在玩耍中“极易疲劳趴下”，这可能是心血管疾病的强烈警告，必须高度重视。
   </p>
 </div>
 
 ---
 
-## 2. 定制化日常护理惯例
+## 2. 美国短毛猫's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">肢体信号 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">张口呼吸</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 含义:</strong> 张开嘴喘气、舌头微吐的异常状态，说明肺部和心脏负荷过重，处于严重缺氧或极度焦虑状态。<br/>
+    <strong>•  national:</strong> 保持环境绝对安静以降低应激，立即用航空箱送往24小时宠物医院进行吸氧急救。
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">早晨：定时定量喂食，科学防肥胖</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ faqs:
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">中午：进行15分钟的高强度捕猎互动游戏</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    使用逗猫棒等玩具，每日带其进行至少2次、每次15分钟的主动奔跑游戏，帮助消耗脂肪。
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">晚上：梳理底绒，预防毛球症</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    美短毛发短而浓密，每周应用排梳和橡胶刷梳理1-2次，以减少死毛脱落并降低吐毛球引发的肠胃应激。
-  </p>
-</div>
-
-## 3. 总结与注意事项
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      仅仅通过仔细观察宠物的身体语言（安定信号），就可以预防大部分行为问题和压力引起的疾病。虽然兽医治疗很重要，但安全管理家庭环境（安全台阶、垂直空间保障、新鲜的多角度饮水）是保障它们一生幸福的最强护盾。
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

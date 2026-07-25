@@ -4,11 +4,25 @@ title: "Maltese yang Pemberani? Rutinitas Perlindungan 3 Langkah untuk Kesehatan
 description: "Maltese, anjing yang paling dicintai. Temukan tips untuk mencegah luksasi patela secara genetik dan rutinitas harian 3 langkah untuk mengatasi noda air mata."
 pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
+category: "FreshSelf"
+tags: ["PerawatanHewan","KesehatanHewan","Maltese"]
 heroImage: "/images/blog/maltese_care.png"
-authority: "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC"
 app: "petself"
 formatVersion: 4
-tags: ["Maltese","Luksasi Patela","Noda Air Mata","Perawatan Anjing"]
+authority: "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC"
+steps:
+  - name: "Bahasa Tubuh Maltese: Sinyal Stres dan Kenyamanan"
+    text: "Sebagai anjing dengan ketergantungan tinggi pada pemiliknya, Maltese secara diam-diam menunjukkan keadaan psikologis mereka melalui gerakan tubuh. Sinyal penenang yang khas termasuk 'menjilat hidung' and 'menguap'. Saat menghadapi lingkungan yang tegang atau asing, menjilat hidung atau menguap bukan karena mengantuk; itu adalah pesan damai untuk menenangkan diri dan meminta orang lain untuk tidak mengancam mereka. Jika pemilik terus melakukan kontak berlebihan selama waktu ini, stres mereka akan meningkat. Yang terbaik adalah mundur selangkah dan memberi mereka ruang."
+  - name: "Maltese's Body Language & Signals"
+    text: "* Menguap: Bukan karena mengantuk; ini adalah sinyal 'tolong tenang' untuk menenangkan diri mereka sendiri dan orang lain. (Jika mereka menguap selama pelatihan atau perawatan, segera hentikan dan berikan ruang yang tenang.)
+
+* Menjilat Hidung: Ekspresi menenangkan diri ketika mereka merasa canggung atau cemas dengan situasi saat ini. (Jika terlihat saat dipeluk atau didekati orang asing, hentikan kontak fisik dan beri mereka ruang.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Pagi: Pemeriksaan Antiselip dan Peregangan Sendi: Periksa apakah keset antislip terpasang kuat. Saat Maltese meregangkan tubuh di pagi hari, pijat lembut sendi kaki belakang mereka untuk melemaskan otot yang kaku. Pastikan bulu bantalan cakar dicukur.
+
+* STEP 2. Siang/Sore: Kebersihan Mata dan Rutinitas Penyisiran 1:1: Sekali sehari, sisir area mata dengan sisir bergigi rapat dan cairan pembersih. Bulu yang basah menyebabkan noda merah dan infeksi, jadi seka kelembapan dengan kapas hingga kering.
+
+* STEP 3. Malam: Pemberian Suplemen Sendi dan Desensitisasi Sentuhan: Berikan suplemen sendi. Sentuh cakar mereka dengan lembut dan segera beri hadiah berupa camilan. Desensitisasi ini mencegah reaksi agresif saat memotong kuku atau pemeriksaan fisik."
 faqs:
   - question: "Mengapa Maltese tidak suka kaki mereka disentuh?"
     answer: "Maltese adalah anjing kecil dengan saraf sensorik yang sangat berkembang di cakar mereka, membuat mereka secara naluriah menghindari sentuhan. Latihan desensitisasi, menyentuh kaki dengan lembut dan memberi hadiah, sangat disarankan."
@@ -34,50 +48,42 @@ Hari ini, PetSelf mengeksplorasi bahasa tubuh Maltese dan memperkenalkan rutinit
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Maltese Profil Utama
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Rata-rata Umur</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 tahun</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Pola Tidur</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 14 jam (melekat pada pemilik)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamen</span><span class="font-bold text-slate-800 dark:text-slate-200">Lincah, Penuh Kasih Sayang, Berani</span></div>
-  </div>
-</div>
+---
 
 ## 1. Bahasa Tubuh Maltese: Sinyal Stres dan Kenyamanan
 
-Sebagai anjing dengan ketergantungan tinggi pada pemiliknya, Maltese secara diam-diam menunjukkan keadaan psikologis mereka melalui gerakan tubuh. Sinyal penenang yang khas termasuk 'menjilat hidung' and 'menguap'. Saat menghadapi lingkungan yang tegang atau asing, menjilat hidung atau menguap bukan karena mengantuk; itu adalah pesan damai untuk menenangkan diri dan meminta orang lain untuk tidak mengancam mereka. Jika pemilik terus melakukan kontak berlebihan selama waktu ini, stres mereka akan meningkat. Yang terbaik adalah mundur selangkah dan memberi mereka ruang.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Menguap</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bahasa Tubuh Maltese: Sinyal Stres dan Kenyamanan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Bukan karena mengantuk; ini adalah sinyal 'tolong tenang' untuk menenangkan diri mereka sendiri dan orang lain.<br/>
-    <strong>• Tindakan yang Benar:</strong> Jika mereka menguap selama pelatihan atau perawatan, segera hentikan dan berikan ruang yang tenang.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Menjilat Hidung</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Ekspresi menenangkan diri ketika mereka merasa canggung atau cemas dengan situasi saat ini.<br/>
-    <strong>• Tindakan yang Benar:</strong> Jika terlihat saat dipeluk atau didekati orang asing, hentikan kontak fisik dan beri mereka ruang.
+    Sebagai anjing dengan ketergantungan tinggi pada pemiliknya, Maltese secara diam-diam menunjukkan keadaan psikologis mereka melalui gerakan tubuh. Sinyal penenang yang khas termasuk 'menjilat hidung' and 'menguap'. Saat menghadapi lingkungan yang tegang atau asing, menjilat hidung atau menguap bukan karena mengantuk; itu adalah pesan damai untuk menenangkan diri dan meminta orang lain untuk tidak mengancam mereka. Jika pemilik terus melakukan kontak berlebihan selama waktu ini, stres mereka akan meningkat. Yang terbaik adalah mundur selangkah dan memberi mereka ruang.
   </p>
 </div>
 
 ---
 
-## 2. Rutinitas Perawatan Harian Kustom
+## 2. Maltese's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Menguap</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Arti:</strong> Bukan karena mengantuk; ini adalah sinyal 'tolong tenang' untuk menenangkan diri mereka sendiri dan orang lain.<br/>
+    <strong>• Tindakan:</strong> Jika mereka menguap selama pelatihan atau perawatan, segera hentikan dan berikan ruang yang tenang.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Pemeriksaan Antiselip dan Peregangan Sendi</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -85,37 +91,16 @@ Sebagai anjing dengan ketergantungan tinggi pada pemiliknya, Maltese secara diam
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang/Sore: Kebersihan Mata dan Rutinitas Penyisiran 1:1</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Sekali sehari, sisir area mata dengan sisir bergigi rapat dan cairan pembersih. Bulu yang basah menyebabkan noda merah dan infeksi, jadi seka kelembapan dengan kapas hingga kering.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Pemberian Suplemen Sendi dan Desensitisasi Sentuhan</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Berikan suplemen sendi. Sentuh cakar mereka dengan lembut dan segera beri hadiah berupa camilan. Desensitisasi ini mencegah reaksi agresif saat memotong kuku atau pemeriksaan fisik.
-  </p>
-</div>
-
-## 3. Ringkasan dan Tindakan Pencegahan
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

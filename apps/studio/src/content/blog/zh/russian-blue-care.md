@@ -4,11 +4,25 @@ title: "为胆小内向的俄罗斯蓝猫提供避风港：日常3步信任建�
 description: "俄罗斯蓝猫天生胆小，对噪音极度敏感。介绍如何为其打造无压力的安全区域，以及日常3步建立信任的触碰惯例。"
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
+category: "FreshSelf"
+tags: ["宠物护理","宠物健康","俄罗斯蓝猫"]
 heroImage: "/images/blog/russian_blue_care.png"
-authority: "爱猫者协会 (CFA) 培育标准与康奈尔猫科健康中心"
 app: "petself"
 formatVersion: 4
-tags: ["俄罗斯蓝猫","胆小性格","安全隐蔽处","猫咪家庭护理"]
+authority: "爱猫者协会 (CFA) 培育标准与康奈尔猫科健康中心"
+steps:
+  - name: "俄罗斯蓝猫的身体语言：解读恐慌的预警信号"
+    text: "由于性格温和，俄罗斯蓝猫在做出反应前会静静地发出警告信号。关键的恐慌信号包括“瞳孔放大”和“身体低伏”。当听到突然的噪音或有陌生人靠近时，它们的瞳孔会放大，变得又大又圆，表明压力系统已激活。如果它们将身体平贴在地面上，并向两侧展平耳朵，说明它们正在经历极度的恐惧，正准备逃跑或自卫。"
+  - name: "俄罗斯蓝猫's Body Language & Signals"
+    text: "* 瞳孔放大 (Dilated Pupils): 表明感应到了周围的威胁，压力荷尔蒙已激活，正处于高度警惕与紧张的状态。 (调暗光线，并立即关闭带来刺激的源头（如吸尘器或吹风机等电器噪音）。)
+
+* 身体低伏 (Crouching): 表示在防御性恐慌中感到了无助、害怕，或是感觉被逼入死角。 (切勿强行抱起它们。允许它们退避到安静的房间或柜子等隐蔽处。)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. 早晨：猫砂盆与喂食区域的安全维护: 清扫猫砂盆。确保它们的食物和水盆放置在远离日常走动和噪音的安静角落中，以此建立安全感。
+
+* STEP 2. 下午：高耸安静的安全避难所维护: 确认位于卧室角落的、封闭式的猫爬架猫窝始终敞开并可供使用。这能为其提供一个远离突发噪音或访客的高处私密避难所。
+
+* STEP 3. 晚上：无侵入性的指尖嗅闻与渐进式亲密建立: 晚上回家后，切勿直接走过去抱它们，而是应该在它们高度静静地伸出食指指尖。让它们先嗅闻您的手指，以此开启友好的接触。"
 faqs:
   - question: "当有客人来访时，我应该把躲起来的俄罗斯蓝猫拖出来吗？"
     answer: "绝对不要强行拖出。强迫它们脱离安全区域会引发恐慌，并破坏它们对您的信任。请允许它们留在隐蔽处，直到客人离开。"
@@ -30,50 +44,42 @@ faqs:
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 俄罗斯蓝猫 核心档案
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">平均寿命</span><span class="font-bold text-slate-800 dark:text-slate-200">15 ~ 20年</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">睡眠习惯</span><span class="font-bold text-slate-800 dark:text-slate-200">15 ~ 18小时（寻求安静且高处的藏身所型）</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">性格特点</span><span class="font-bold text-slate-800 dark:text-slate-200">内敛、温和、非常安静</span></div>
-  </div>
-</div>
+---
 
 ## 1. 俄罗斯蓝猫的身体语言：解读恐慌的预警信号
 
-由于性格温和，俄罗斯蓝猫在做出反应前会静静地发出警告信号。关键的恐慌信号包括“瞳孔放大”和“身体低伏”。当听到突然的噪音或有陌生人靠近时，它们的瞳孔会放大，变得又大又圆，表明压力系统已激活。如果它们将身体平贴在地面上，并向两侧展平耳朵，说明它们正在经历极度的恐惧，正准备逃跑或自卫。
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">瞳孔放大 (Dilated Pupils)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">俄罗斯蓝猫的身体语言：解读恐慌的预警信号</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意义:</strong> 表明感应到了周围的威胁，压力荷尔蒙已激活，正处于高度警惕与紧张的状态。<br/>
-    <strong>• 正确应对:</strong> 调暗光线，并立即关闭带来刺激的源头（如吸尘器或吹风机等电器噪音）。
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">身体低伏 (Crouching)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意义:</strong> 表示在防御性恐慌中感到了无助、害怕，或是感觉被逼入死角。<br/>
-    <strong>• 正确应对:</strong> 切勿强行抱起它们。允许它们退避到安静的房间或柜子等隐蔽处。
+    由于性格温和，俄罗斯蓝猫在做出反应前会静静地发出警告信号。关键的恐慌信号包括“瞳孔放大”和“身体低伏”。当听到突然的噪音或有陌生人靠近时，它们的瞳孔会放大，变得又大又圆，表明压力系统已激活。如果它们将身体平贴在地面上，并向两侧展平耳朵，说明它们正在经历极度的恐惧，正准备逃跑或自卫。
   </p>
 </div>
 
 ---
 
-## 2. 定制化日常护理惯例
+## 2. 俄罗斯蓝猫's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">肢体信号 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">瞳孔放大 (Dilated Pupils)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 含义:</strong> 表明感应到了周围的威胁，压力荷尔蒙已激活，正处于高度警惕与紧张的状态。<br/>
+    <strong>•  national:</strong> 调暗光线，并立即关闭带来刺激的源头（如吸尘器或吹风机等电器噪音）。
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">早晨：猫砂盆与喂食区域的安全维护</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ faqs:
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">下午：高耸安静的安全避难所维护</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    确认位于卧室角落的、封闭式的猫爬架猫窝始终敞开并可供使用。这能为其提供一个远离突发噪音或访客的高处私密避难所。
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">晚上：无侵入性的指尖嗅闻与渐进式亲密建立</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    晚上回家后，切勿直接走过去抱它们，而是应该在它们高度静静地伸出食指指尖。让它们先嗅闻您的手指，以此开启友好的接触。
-  </p>
-</div>
-
-## 3. 总结与注意事项
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      仅仅通过仔细观察宠物的身体语言（安定信号），就可以预防大部分行为问题和压力引起的疾病。虽然兽医治疗很重要，但安全管理家庭环境（安全台阶、垂直空间保障、新鲜的多角度饮水）是保障它们一生幸福的最强护盾。
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

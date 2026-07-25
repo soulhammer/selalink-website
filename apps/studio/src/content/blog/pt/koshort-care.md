@@ -4,11 +4,25 @@ title: "Um instinto indomável? Uma rotina de 3 passos para o território e hidr
 description: "O shorthair coreano, com fortes instintos de caça. Conheça os métodos de hidratação adequados para prevenir la cistitis felina e uma rotina diária de 3 passos para o conforto territorial."
 pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
+category: "FreshSelf"
+tags: ["CuidadoPets","SaudePets","Shorthair coreano"]
 heroImage: "/images/blog/koshort_care.png"
-authority: "Guia de comportamento do Cornell Feline Health Center e manual de cuidados do NIAS"
 app: "petself"
 formatVersion: 4
-tags: ["Pelo Curto Coreano","FLUTD","Cuidado de Hidratación","Cuidado de Gatos"]
+authority: "Guia de comportamento do Cornell Feline Health Center e manual de cuidados do NIAS"
+steps:
+  - name: "Linguagem corporal felina: a expressão máxima de confiança"
+    text: "Uma das maiores expressões de confiança de um gato para com o seu dono é a 'cauda erguida na vertical' e o 'ronrono'. Aproximar-se com a cauda erguida é um sinal amistoso de comunicação. Além disso, o ronrono acalma sua mente. Note que o ronrono também pode ser um sinal de autocura por dor. Se o gato se esconder num local escuro e ronronar com expressão triste, controle sua saúde."
+  - name: "Shorthair coreano's Body Language & Signals"
+    text: "* Cauda erguida: Uma expressão de forte amizade, comunicação positiva e alegria em relação ao dono. (Responda com um contato visual suave ou um carinho no queixo para fortalecer o vínculo.)
+
+* Ronrono: Geralmente emitido quando felizes, mas também pode ser um sinal de autocura para aliviar a dor. (Se ronronarem enquanto se escondem em cantos escuros, verifique se não estão doentes ou feridos.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Manhã: Inspeção de espaço vertical e visualização de janelas: Com a ventilação matinal, abra as persianas perto das torres para gatos nas janelas. Garantir o espaço vertical e permitir-lhes ver o exterior (Cat TV) fornece estimulação mental e reduz o estresse por confinamento.
+
+* STEP 2. Tarde: Rotina de jogo de caça simulada de 15 minutos: Realize um jogo de caça simulado com brinquedos de varinha por 15 minutos uma vez ao dia. Dado que os gatos são predadores naturais, perseguir brinquedos e experimentar a captura previne a frustração e aumenta a atividade física.
+
+* STEP 3. Noite: Controle de hidratação e escovação de relaxamento: Substitua a água das tigelas e mantenha pelo menos três pontos de hidratação na casa. Antes de dormir, escove suavemente as áreas das glândulas aromáticas, como as bochechas e o queixo."
 faqs:
   - question: "Por que os gatos sempre sobem para espaços altos e estreitos?"
     answer: "Os gatos sentem-se instintivamente seguros e dominantes ao vigiar o seu território a partir de locais altos. A falta de espaço vertical causa estresse territorial."
@@ -34,50 +48,42 @@ Hoje, o PetSelf explora o linguagem corporal desses felinos e compartilha uma ro
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Shorthair coreano Perfil principal
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">13 ~ 15 anos</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Padrão de sono</span><span class="font-bold text-slate-800 dark:text-slate-200">15 ~ 18 horas (vertical e noturno)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamento</span><span class="font-bold text-slate-800 dark:text-slate-200">Independente, Forte instinto de caça, Curioso</span></div>
-  </div>
-</div>
+---
 
 ## 1. Linguagem corporal felina: a expressão máxima de confiança
 
-Uma das maiores expressões de confiança de um gato para com o seu dono é a 'cauda erguida na vertical' e o 'ronrono'. Aproximar-se com a cauda erguida é um sinal amistoso de comunicação. Além disso, o ronrono acalma sua mente. Note que o ronrono também pode ser um sinal de autocura por dor. Se o gato se esconder num local escuro e ronronar com expressão triste, controle sua saúde.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cauda erguida</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Linguagem corporal felina: a expressão máxima de confiança</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Uma expressão de forte amizade, comunicação positiva e alegria em relação ao dono.<br/>
-    <strong>• Ação correta:</strong> Responda com um contato visual suave ou um carinho no queixo para fortalecer o vínculo.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ronrono</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Geralmente emitido quando felizes, mas também pode ser um sinal de autocura para aliviar a dor.<br/>
-    <strong>• Ação correta:</strong> Se ronronarem enquanto se escondem em cantos escuros, verifique se não estão doentes ou feridos.
+    Uma das maiores expressões de confiança de um gato para com o seu dono é a 'cauda erguida na vertical' e o 'ronrono'. Aproximar-se com a cauda erguida é um sinal amistoso de comunicação. Além disso, o ronrono acalma sua mente. Note que o ronrono também pode ser um sinal de autocura por dor. Se o gato se esconder num local escuro e ronronar com expressão triste, controle sua saúde.
   </p>
 </div>
 
 ---
 
-## 2. Rotina de cuidados diários personalizada
+## 2. Shorthair coreano's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cauda erguida</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Significado:</strong> Uma expressão de forte amizade, comunicação positiva e alegria em relação ao dono.<br/>
+    <strong>• Resposta:</strong> Responda com um contato visual suave ou um carinho no queixo para fortalecer o vínculo.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Inspeção de espaço vertical e visualização de janelas</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -85,37 +91,16 @@ Uma das maiores expressões de confiança de um gato para com o seu dono é a 'c
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Rotina de jogo de caça simulada de 15 minutos</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Realize um jogo de caça simulado com brinquedos de varinha por 15 minutos uma vez ao dia. Dado que os gatos são predadores naturais, perseguir brinquedos e experimentar a captura previne a frustração e aumenta a atividade física.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Controle de hidratação e escovação de relaxamento</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Substitua a água das tigelas e mantenha pelo menos três pontos de hidratação na casa. Antes de dormir, escove suavemente as áreas das glândulas aromáticas, como as bochechas e o queixo.
-  </p>
-</div>
-
-## 3. Resumo e precauções
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

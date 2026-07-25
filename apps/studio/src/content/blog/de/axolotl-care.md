@@ -4,11 +4,25 @@ title: "Axolotl-Kiemensignale und 3-Schritte-Routine für Kaltwasserpflege"
 description: "Pflegeanleitung für Axolotl. Kiemenkrümmung verstehen, Kaltwassertemperaturen (16°C ~ 18°C) sichern und Darmverschluss vermeiden."
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
+category: "FreshSelf"
+tags: ["Haustierpflege","Haustiergesundheit","Axolotl (Mexikanischer Schwanzlurch)"]
 heroImage: "/images/blog/axolotl_care.png"
-authority: "Amphibian Ark Veterinary Care Protocols"
 app: "petself"
 formatVersion: 4
-tags: ["Axolotl","Kaltwasseraquaristik","Amphibienpflege","Amphibian Ark"]
+authority: "Amphibian Ark Veterinary Care Protocols"
+steps:
+  - name: "Körpersprache des Axolotls: Kiemenkrümmung & Futtersuche"
+    text: "Die feinen Kiemenäste zeigen Stress an. Nach vorne gekrümmte Kiemen weisen auf Hitzestress oder schlechte Wasserwerte hin."
+  - name: "Axolotl (Mexikanischer Schwanzlurch)'s Body Language & Signals"
+    text: "* Nach vorne gekrümmte Kiemenäste (Gill Curling Forward): Starker Stress durch zu hohes Wassertemperatur (>20°C) oder Ammoniak. (Kühlung aktivieren (16°C ~ 18°C Ziel) und 20% Wasser wechseln.)
+
+* Blick nach unten & Schnappen (Bottom Gaping): Natürliches Futter Suchverhalten am Beckenboden. (Futter vorsichtig mit einer langen Pinzette vor das Maul legen.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Morgen: Temperaturkontrolle (16°C ~ 18°C) & Kühlung: Kühler prüfen, damit das Wasser nie über 18°C steigt.
+
+* STEP 2. Nachmittag: Kot absaugen & Schattendunkelheit: Das Becken abgedunkelt halten und Abfälle absaugen.
+
+* STEP 3. Abend: Pinzettenfütterung & Kiemenblutfluss prüfen: Sinkpellets füttern und die rote Farbe der Kiemen prüfen."
 faqs:
   - question: "Darf kleiner Kies als Bodengrund verwendet werden?"
     answer: "Nein! Axolotl saugen ihr Futter ein und verschlucken Kies, was zu tödlichem Darmverschluss führt. Ein fester Glasboden ist ideal."
@@ -30,50 +44,42 @@ Der Axolotl ist ein einzigartiger Schwanzlurch mit erstaunlicher Regenerationsf�
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Axolotl (Mexikanischer Schwanzlurch) Rasseprofil
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Lebenserwartung</span><span class="font-bold text-slate-800 dark:text-slate-200">10 - 15 Jahre</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Schlafmuster</span><span class="font-bold text-slate-800 dark:text-slate-200">10 - 12 Stunden (Ruht in Höhlen)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperament</span><span class="font-bold text-slate-800 dark:text-slate-200">Friedlich, ruhig, einzelgängerisch, sensibel</span></div>
-  </div>
-</div>
+---
 
 ## 1. Körpersprache des Axolotls: Kiemenkrümmung & Futtersuche
 
-Die feinen Kiemenäste zeigen Stress an. Nach vorne gekrümmte Kiemen weisen auf Hitzestress oder schlechte Wasserwerte hin.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nach vorne gekrümmte Kiemenäste (Gill Curling Forward)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Körpersprache des Axolotls: Kiemenkrümmung & Futtersuche</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Starker Stress durch zu hohes Wassertemperatur (>20°C) oder Ammoniak.<br/>
-    <strong>• Richtige Reaktion:</strong> Kühlung aktivieren (16°C ~ 18°C Ziel) und 20% Wasser wechseln.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Blick nach unten & Schnappen (Bottom Gaping)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Natürliches Futter Suchverhalten am Beckenboden.<br/>
-    <strong>• Richtige Reaktion:</strong> Futter vorsichtig mit einer langen Pinzette vor das Maul legen.
+    Die feinen Kiemenäste zeigen Stress an. Nach vorne gekrümmte Kiemen weisen auf Hitzestress oder schlechte Wasserwerte hin.
   </p>
 </div>
 
 ---
 
-## 2. Individuelle häusliche Pflegeroutine
+## 2. Axolotl (Mexikanischer Schwanzlurch)'s Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nach vorne gekrümmte Kiemenäste (Gill Curling Forward)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Bedeutung:</strong> Starker Stress durch zu hohes Wassertemperatur (>20°C) oder Ammoniak.<br/>
+    <strong>• Reaktion:</strong> Kühlung aktivieren (16°C ~ 18°C Ziel) und 20% Wasser wechseln.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Temperaturkontrolle (16°C ~ 18°C) & Kühlung</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Die feinen Kiemenäste zeigen Stress an. Nach vorne gekrümmte Kiemen weisen auf
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Kot absaugen & Schattendunkelheit</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Das Becken abgedunkelt halten und Abfälle absaugen.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Pinzettenfütterung & Kiemenblutfluss prüfen</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Sinkpellets füttern und die rote Farbe der Kiemen prüfen.
-  </p>
-</div>
-
-## 3. Zusammenfassung und Vorsichtsmaßnahmen
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

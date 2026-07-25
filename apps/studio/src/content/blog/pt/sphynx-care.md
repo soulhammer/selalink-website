@@ -4,11 +4,25 @@ title: "Cuidados com o sebo da pele e controle de calor na gata Sphynx"
 description: "Limpe excesso de sebo nas gatas Sphynx e proteja-as do frio."
 pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
+category: "FreshSelf"
+tags: ["CuidadoPets","SaudePets","Gato Sphynx (Sphynx Cat)"]
 heroImage: "/images/blog/sphynx_care.png"
-authority: "Diretrizes da Sociedade Internacional de Medicina Felina (ISFM)"
 app: "petself"
 formatVersion: 4
-tags: ["Sphynx","Pele sem pelo","Calor","Banho"]
+authority: "Diretrizes da Sociedade Internacional de Medicina Felina (ISFM)"
+steps:
+  - name: "Linguagem corporal del Sphynx: Busca por calor"
+    text: "Encostar na sua pele ou blankets é sinal de busca por calor."
+  - name: "Gato Sphynx (Sphynx Cat)'s Body Language & Signals"
+    text: "* Busca por calor: O gato sente frio e busca fontes de calor para se aquecer. (Vista-o com roupa de algodão macio ou use manta térmica.)
+
+* Olhos semicerrados e ronrono: Bem-estar térmico, relaxamento e confiança profunda. (Massageie o corpo quente dele suavemente e deixe-o dormir perto.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Manhã: Limpeza suave das dobras da pele com toalha morna: Limpe o sebo marrom acumulado com pano úmido e morno.
+
+* STEP 2. Tarde: Proteção solar para evitar queimaduras: Use cortinas para bloquear o sol direto na pele sensível.
+
+* STEP 3. Noite: Troca de roupa de algodão e cama quente: Vista-o com camiseta limpa para evitar acúmulo de sebo."
 faqs:
   - question: "Os gatos Sphynx são totalmente hipoalergênicos?"
     answer: "Não. Alergias são causadas por saliva e descamação, não no pelo."
@@ -30,50 +44,42 @@ O Sphynx é uma raça única sem pelo. Como não possuem pelos, o sebo acumula-s
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Gato Sphynx (Sphynx Cat) Perfil principal
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 anos</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Padrão de sono</span><span class="font-bold text-slate-800 dark:text-slate-200">14 ~ 16 hours (Busca por calor)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamento</span><span class="font-bold text-slate-800 dark:text-slate-200">Muito apegado, ativo, sociável, inteligente</span></div>
-  </div>
-</div>
+---
 
 ## 1. Linguagem corporal del Sphynx: Busca por calor
 
-Encostar na sua pele ou blankets é sinal de busca por calor.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Busca por calor</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Linguagem corporal del Sphynx: Busca por calor</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> O gato sente frio e busca fontes de calor para se aquecer.<br/>
-    <strong>• Ação correta:</strong> Vista-o com roupa de algodão macio ou use manta térmica.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Olhos semicerrados e ronrono</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Bem-estar térmico, relaxamento e confiança profunda.<br/>
-    <strong>• Ação correta:</strong> Massageie o corpo quente dele suavemente e deixe-o dormir perto.
+    Encostar na sua pele ou blankets é sinal de busca por calor.
   </p>
 </div>
 
 ---
 
-## 2. Rotina de cuidados diários personalizada
+## 2. Gato Sphynx (Sphynx Cat)'s Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Busca por calor</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Significado:</strong> O gato sente frio e busca fontes de calor para se aquecer.<br/>
+    <strong>• Resposta:</strong> Vista-o com roupa de algodão macio ou use manta térmica.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Limpeza suave das dobras da pele com toalha morna</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Encostar na sua pele ou blankets é sinal de busca por calor.
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Proteção solar para evitar queimaduras</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Use cortinas para bloquear o sol direto na pele sensível.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Troca de roupa de algodão e cama quente</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Vista-o com camiseta limpa para evitar acúmulo de sebo.
-  </p>
-</div>
-
-## 3. Resumo e precauções
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

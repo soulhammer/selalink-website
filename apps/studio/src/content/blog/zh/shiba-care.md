@@ -4,11 +4,25 @@ title: "柴犬的独立性格与双层毛梳理：日常3步触碰惯例"
 description: "柴犬性格独立且对触碰较为敏感。介绍预防双层毛脱落的正确梳理方法，以及减少抵触感的日常3步触碰惯例。"
 pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
+category: "FreshSelf"
+tags: ["宠物护理","宠物健康","柴犬"]
 heroImage: "/images/blog/shiba_care.png"
-authority: "美国国家柴犬俱乐部 (NSCA) 与 IAABC 行为矫正指南"
 app: "petself"
 formatVersion: 4
-tags: ["柴犬","双层毛护理","触碰训练","犬类护理"]
+authority: "美国国家柴犬俱乐部 (NSCA) 与 IAABC 行为矫正指南"
+steps:
+  - name: "柴犬的身体语言：压力与释放压力的信号"
+    text: "柴犬在个人空间受到侵犯时，会静静地表达抗拒。关键动作是“避开视线（扭头）”和“抖身体”。当有人伸手想摸它，它避开头或扭过脸时，并不是在开玩笑，而是在委婉地请求“请现在不要碰我”。同样，在经历压力事件（如剪指甲或打针）后，它们大幅度抖动全身，是一种本能的调节机制，用以释放身体紧张并调整心理状态。"
+  - name: "柴犬's Body Language & Signals"
+    text: "* 避开视线 (Looking Away): 表示家长的接近带来了压力，恳请家长停止靠近或触碰的礼貌请求。 (如果看到这个动作，请停止抚摸，收回手并给它们留出空间。)
+
+* 抖落压力 (Shake Off): 用以抖落刚刚在某种环境中积累的压力或身体紧张的调节行为。 (如果在梳毛等活动过程中它们抖动身体，说明正在释放压力。请立即停止并让它们休息。)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. 早晨：敏感部位触碰脱敏训练: 轻轻触碰柴犬不喜被触碰的爪子或臀部1秒钟，然后立即奖励高价值零食。重复此过程以对触碰建立积极的联想。
+
+* STEP 2. 下午：低压力的双层毛专用梳理: 使用针梳或开结梳顺着毛发生长方向轻轻梳理。如果它们表现出任何不适或发出低吼，请立即停止以避免压力累积。
+
+* STEP 3. 晚上：尊重独立的安全区域（犬舍）: 当柴犬退到犬舍或安全角落休息时，请勿强迫它们出来或抚摸它们。让它们在完全安静的环境中独处以恢复精力。"
 faqs:
   - question: "为什么我的柴犬在理毛时会尖叫？"
     answer: "这被称为“柴犬尖叫”。这是它们感到真正恐惧和压力的表达，而非单纯的无理取闹。请立即停止，并从基础脱敏训练重新开始，例如仅仅让它们看着梳子就给予奖励。"
@@ -30,50 +44,42 @@ faqs:
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 柴犬 核心档案
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">平均寿命</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15年</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">睡眠习惯</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 14小时（注重个人空间型）</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">性格特点</span><span class="font-bold text-slate-800 dark:text-slate-200">独立、警惕、大胆</span></div>
-  </div>
-</div>
+---
 
 ## 1. 柴犬的身体语言：压力与释放压力的信号
 
-柴犬在个人空间受到侵犯时，会静静地表达抗拒。关键动作是“避开视线（扭头）”和“抖身体”。当有人伸手想摸它，它避开头或扭过脸时，并不是在开玩笑，而是在委婉地请求“请现在不要碰我”。同样，在经历压力事件（如剪指甲或打针）后，它们大幅度抖动全身，是一种本能的调节机制，用以释放身体紧张并调整心理状态。
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">避开视线 (Looking Away)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">柴犬的身体语言：压力与释放压力的信号</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意义:</strong> 表示家长的接近带来了压力，恳请家长停止靠近或触碰的礼貌请求。<br/>
-    <strong>• 正确应对:</strong> 如果看到这个动作，请停止抚摸，收回手并给它们留出空间。
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">抖落压力 (Shake Off)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意义:</strong> 用以抖落刚刚在某种环境中积累的压力或身体紧张的调节行为。<br/>
-    <strong>• 正确应对:</strong> 如果在梳毛等活动过程中它们抖动身体，说明正在释放压力。请立即停止并让它们休息。
+    柴犬在个人空间受到侵犯时，会静静地表达抗拒。关键动作是“避开视线（扭头）”和“抖身体”。当有人伸手想摸它，它避开头或扭过脸时，并不是在开玩笑，而是在委婉地请求“请现在不要碰我”。同样，在经历压力事件（如剪指甲或打针）后，它们大幅度抖动全身，是一种本能的调节机制，用以释放身体紧张并调整心理状态。
   </p>
 </div>
 
 ---
 
-## 2. 定制化日常护理惯例
+## 2. 柴犬's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">肢体信号 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">避开视线 (Looking Away)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 含义:</strong> 表示家长的接近带来了压力，恳请家长停止靠近或触碰的礼貌请求。<br/>
+    <strong>•  national:</strong> 如果看到这个动作，请停止抚摸，收回手并给它们留出空间。
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">早晨：敏感部位触碰脱敏训练</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ faqs:
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">下午：低压力的双层毛专用梳理</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    使用针梳或开结梳顺着毛发生长方向轻轻梳理。如果它们表现出任何不适或发出低吼，请立即停止以避免压力累积。
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">晚上：尊重独立的安全区域（犬舍）</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    当柴犬退到犬舍或安全角落休息时，请勿强迫它们出来或抚摸它们。让它们在完全安静的环境中独处以恢复精力。
-  </p>
-</div>
-
-## 3. 总结与注意事项
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      仅仅通过仔细观察宠物的身体语言（安定信号），就可以预防大部分行为问题和压力引起的疾病。虽然兽医治疗很重要，但安全管理家庭环境（安全台阶、垂直空间保障、新鲜的多角度饮水）是保障它们一生幸福的最强护盾。
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

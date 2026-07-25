@@ -4,11 +4,25 @@ title: "스핑크스 피부 피지 케어 및 체온 보존"
 description: "털 없는 스핑크스 고양이를 위한 피부 유분 케어와 체온 조절 3단계 루틴"
 pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
+category: "FreshSelf"
+tags: ["반려동물","펫케어","스핑크스 (Sphynx Cat)"]
 heroImage: "/images/blog/sphynx_care.png"
-authority: "고양이의학협회(ISFM) 스핑크스 가이드 및 피모 관리 수의 지침"
 app: "petself"
 formatVersion: 4
-tags: ["스핑크스고양이","무모종 피부케어","고양이 체온 조절","개냥이"]
+authority: "고양이의학협회(ISFM) 스핑크스 가이드 및 피모 관리 수의 지침"
+steps:
+  - name: "스핑크스의 바디 랭귀지: 온기 추구와 감정 공유"
+    text: "스핑크스 고양이는 추위를 잘 타기 때문에 보호자의 목덜미나 품에 밀착하여 체온을 나누려는 성향이 강합니다. 보호자의 팔에 몸을 강하게 비비거나 무릎 위에 올라와 골골송을 부르는 것은 단순히 애교를 부리는 것뿐만 아니라 온기를 찾는 실용적인 신호이기도 합니다."
+  - name: "스핑크스 (Sphynx Cat)의 몸짓 언어와 바디 시그널"
+    text: "* 보호자의 맨살이나 가전제품 주변에 몸을 바짝 밀착함: 현재 주변 공기가 차갑고 체온이 떨어져 따뜻한 온기 공급을 요청하는 시그널입니다. (실내 온도를 점검하고, 부드러운 고양이 전용 옷을 입히거나 따뜻한 담요가 있는 온열 매트를 켜주십시오.)
+
+* 꼬리를 느슨하게 흔들며 눈을 반쯤 감고 바라봄: 신체적으로 편안하고 심리적으로 깊은 유대감และ 애정을 느끼는 상태입니다. (고양이의 체온이 전달되는 따뜻한 몸통을 부드럽게 쓸어주며 함께 휴식을 취합니다.)"
+  - name: "스핑크스 (Sphynx Cat) 맞춤형 3단계 홈케어 루틴"
+    text: "* STEP 1. 아침: 저자극 물티슈나 따뜻한 수건을 이용한 전신 유분 닦기: 피부 주름 사이에 쌓인 갈색 피지를 따뜻한 젖은 타월로 자극 없이 부드럽게 닦아내어 피부 트러블을 차단합니다.
+
+* STEP 2. 오후: 자외선으로부터 무방비한 피부를 보호하기 위한 일조량 조절: 직사광선에 노출되면 햇볕 화상을 입을 수 있으므로, 커튼을 조절하여 실내 햇빛의 세기를 완충해 줍니다.
+
+* STEP 3. 저녁: 체온 보존을 위한 맞춤 옷 세탁 및 따뜻한 잠자리 구축: 유분이 묻은 고양이 옷을 매일 청결한 새 옷으로 갈아입히고, 밤사이 체온 저하를 막기 위해 아늑하고 따뜻한 돔형 하우스를 점검합니다."
 faqs:
   - question: "털이 안 빠지니 알레르기가 전혀 없나요?"
     answer: "고양이 알레르기는 털 자체보다 침, 비듬, 피지선에서 나오는 단백질이 주원인입니다. 스핑크스는 오히려 알레르기를 유발할 수 있으므로 분양 전 알레르기 반응을 미리 확인해야 합니다."
@@ -30,50 +44,42 @@ faqs:
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 스핑크스 (Sphynx Cat) 핵심 프로필 (Profile)
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">평균 수명</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15년</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">수면 패턴</span><span class="font-bold text-slate-800 dark:text-slate-200">14 ~ 16시간 (체온 보존 추구형)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">성격 키워드</span><span class="font-bold text-slate-800 dark:text-slate-200">개냥이의 정석, 극도로 다정함, 지능적이고 사교적임</span></div>
-  </div>
-</div>
+---
 
 ## 1. 스핑크스의 바디 랭귀지: 온기 추구와 감정 공유
 
-스핑크스 고양이는 추위를 잘 타기 때문에 보호자의 목덜미나 품에 밀착하여 체온을 나누려는 성향이 강합니다. 보호자의 팔에 몸을 강하게 비비거나 무릎 위에 올라와 골골송을 부르는 것은 단순히 애교를 부리는 것뿐만 아니라 온기를 찾는 실용적인 신호이기도 합니다.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">보호자의 맨살이나 가전제품 주변에 몸을 바짝 밀착함</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">스핑크스의 바디 랭귀지: 온기 추구와 감정 공유</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 의미:</strong> 현재 주변 공기가 차갑고 체온이 떨어져 따뜻한 온기 공급을 요청하는 시그널입니다.<br/>
-    <strong>• 올바른 대처:</strong> 실내 온도를 점검하고, 부드러운 고양이 전용 옷을 입히거나 따뜻한 담요가 있는 온열 매트를 켜주십시오.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">꼬리를 느슨하게 흔들며 눈을 반쯤 감고 바라봄</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 의미:</strong> 신체적으로 편안하고 심리적으로 깊은 유대감และ 애정을 느끼는 상태입니다.<br/>
-    <strong>• 올바른 대처:</strong> 고양이의 체온이 전달되는 따뜻한 몸통을 부드럽게 쓸어주며 함께 휴식을 취합니다.
+    스핑크스 고양이는 추위를 잘 타기 때문에 보호자의 목덜미나 품에 밀착하여 체온을 나누려는 성향이 강합니다. 보호자의 팔에 몸을 강하게 비비거나 무릎 위에 올라와 골골송을 부르는 것은 단순히 애교를 부리는 것뿐만 아니라 온기를 찾는 실용적인 신호이기도 합니다.
   </p>
 </div>
 
 ---
 
-## 2. 맞춤형 홈케어 루틴
+## 2. 스핑크스 (Sphynx Cat)의 몸짓 언어와 바디 시그널
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">바디 시그널 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">보호자의 맨살이나 가전제품 주변에 몸을 바짝 밀착함</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 의미:</strong> 현재 주변 공기가 차갑고 체온이 떨어져 따뜻한 온기 공급을 요청하는 시그널입니다.<br/>
+    <strong>• 대처법:</strong> 실내 온도를 점검하고, 부드러운 고양이 전용 옷을 입히거나 따뜻한 담요가 있는 온열 매트를 켜주십시오.
+  </p>
+</div>
+
+---
+
+## 3. 스핑크스 (Sphynx Cat) 맞춤형 3단계 홈케어 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아침: 저자극 물티슈나 따뜻한 수건을 이용한 전신 유분 닦기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ faqs:
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">오후: 자외선으로부터 무방비한 피부를 보호하기 위한 일조량 조절</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    직사광선에 노출되면 햇볕 화상을 입을 수 있으므로, 커튼을 조절하여 실내 햇빛의 세기를 완충해 줍니다.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">저녁: 체온 보존을 위한 맞춤 옷 세탁 및 따뜻한 잠자리 구축</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    유분이 묻은 고양이 옷을 매일 청결한 새 옷으로 갈아입히고, 밤사이 체온 저하를 막기 위해 아늑하고 따뜻한 돔형 하우스를 점검합니다.
-  </p>
-</div>
-
-## 3. 요약 및 주의사항
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      반려동물의 언어(카밍 시그널)를 세심하게 관찰하는 것만으로도 대부분의 행동 발달 및 스트레스성 질환을 사전에 예방할 수 있습니다. 수의학적 치료도 중요하지만, 집안 환경(안전 발판, 수직 공간 확보, 신선한 다각적 물 공급)을 안전하게 관리하는 것이 평생 동반자로서의 행복을 지탱하는 가장 강력한 보호막입니다.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

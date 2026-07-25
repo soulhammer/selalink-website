@@ -4,11 +4,25 @@ title: "ブリティッシュ・ショートヘアの体重ケア：HCMと肥満
 description: "がっしりした体格と大きな顔が特徴のブリティッシュ・ショートヘア。心臓と関節に負担をかける肥満の予防と、遺伝病の心筋症（HCM）対策の3段階ルーティンを紹介します."
 pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
+category: "FreshSelf"
+tags: ["ペットケア","ペット健康","ブリティッシュ・ショートヘア"]
 heroImage: "/images/blog/bshorthair_care.png"
-authority: "GCCFブリティッシュ・ショートヘア基準＆AAFP猫肥満指針"
 app: "petself"
 formatVersion: 4
-tags: ["ブリティッシュ・ショートヘア","肥大性心筋症","体重管理","肥満"]
+authority: "GCCFブリティッシュ・ショートヘア基準＆AAFP猫肥満指針"
+steps:
+  - name: "ブリティッシュ・ショートヘアのボディランゲージ：遠くからの目線と尻尾のサイン"
+    text: "ブリティッシュは無理な抱っこを嫌い、一定の距離から見つめる「視線のサイン」で信頼を示します。これは適度な距離を保ちつつも信頼しているという意味です。一方、不快な時は寝そべったまま尻尾の先で床を叩く「尻尾振り」をします. この時に抱き上げるとストレスが高まります."
+  - name: "ブリティッシュ・ショートヘア's Body Language & Signals"
+    text: "* 視線のサイン (Soft Staring): 同じ部屋にいるだけで幸せと安心感を感じているという、独立して落ち着いた愛情の表現です. (ゆっくり瞬きをして応え、無理に近づいて抱き上げず、静かに見守ってあげてください.)
+
+* 尻尾振り (Tail Swishing): しつこい接触や触り方にストレスを感じており、「やめて」と要求する拒否のサインです. (すぐに触るのをやめ, 猫が一人で落ち着けるよう刺激を避けてください.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. 朝：精密デジタルスケールを使用したフード量の管理: 肥満による心筋症（HCM）を防ぐため, デジタルスケールで1日の必要摂取カロリーを正確に測って給与します.
+
+* STEP 2. 昼：短毛種用ラバーブラシによる抜け毛処理: 短毛ですが密度の高い毛質なため、皮膚に負担の少ないラバーブラシで5分間ブラッシングし、死毛を取り除きます.
+
+* STEP 3. 夜：HCM予防のための呼吸数測定と穏やかな遊び: 睡眠時の1分間の呼吸数が30回未満か確認して心臓の状態を監視し、羊毛ボールなどを使用した軽い遊びをさせます."
 faqs:
   - question: "ブリティッシュ・ショートヘアが肥満になると他の猫より危険なのはなぜですか？"
     answer: "がっしりした体格のブリティッシュは、遺伝的に肥大性心筋症（HCM）の発生率が高い種です。肥満になると心臓の負担が急増し, 急死などのリスクが高まります."
@@ -30,50 +44,42 @@ faqs:
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 ブリティッシュ・ショートヘア コアプロフィール
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">平均寿命</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15年</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">睡眠パターン</span><span class="font-bold text-slate-800 dark:text-slate-200">14 ~ 16時間（涼しく平らな床を好む）</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">性格キーワード</span><span class="font-bold text-slate-800 dark:text-slate-200">落ち着いた、独立心、忠実、我慢強い</span></div>
-  </div>
-</div>
+---
 
 ## 1. ブリティッシュ・ショートヘアのボディランゲージ：遠くからの目線と尻尾のサイン
 
-ブリティッシュは無理な抱っこを嫌い、一定の距離から見つめる「視線のサイン」で信頼を示します。これは適度な距離を保ちつつも信頼しているという意味です。一方、不快な時は寝そべったまま尻尾の先で床を叩く「尻尾振り」をします. この時に抱き上げるとストレスが高まります.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">視線のサイン (Soft Staring)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ブリティッシュ・ショートヘアのボディランゲージ：遠くからの目線と尻尾のサイン</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 同じ部屋にいるだけで幸せと安心感を感じているという、独立して落ち着いた愛情の表現です.<br/>
-    <strong>• 正しい対処:</strong> ゆっくり瞬きをして応え、無理に近づいて抱き上げず、静かに見守ってあげてください.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">尻尾振り (Tail Swishing)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> しつこい接触や触り方にストレスを感じており、「やめて」と要求する拒否のサインです.<br/>
-    <strong>• 正しい対処:</strong> すぐに触るのをやめ, 猫が一人で落ち着けるよう刺激を避けてください.
+    ブリティッシュは無理な抱っこを嫌い、一定の距離から見つめる「視線のサイン」で信頼を示します。これは適度な距離を保ちつつも信頼しているという意味です。一方、不快な時は寝そべったまま尻尾の先で床を叩く「尻尾振り」をします. この時に抱き上げるとストレスが高まります.
   </p>
 </div>
 
 ---
 
-## 2. カスタマイズされたホームケアルーティン
+## 2. ブリティッシュ・ショートヘア's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">ボディシグナル 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">視線のサイン (Soft Staring)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 意味:</strong> 同じ部屋にいるだけで幸せと安心感を感じているという、独立して落ち着いた愛情の表現です.<br/>
+    <strong>• 対処法:</strong> ゆっくり瞬きをして応え、無理に近づいて抱き上げず、静かに見守ってあげてください.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">朝：精密デジタルスケールを使用したフード量の管理</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ faqs:
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">昼：短毛種用ラバーブラシによる抜け毛処理</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    短毛ですが密度の高い毛質なため、皮膚に負担の少ないラバーブラシで5分間ブラッシングし、死毛を取り除きます.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">夜：HCM予防のための呼吸数測定と穏やかな遊び</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    睡眠時の1分間の呼吸数が30回未満か確認して心臓の状態を監視し、羊毛ボールなどを使用した軽い遊びをさせます.
-  </p>
-</div>
-
-## 3. 要約と注意事項
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      ペットの合図（カーミングシグナル）を細かく観察するだけでも、ほとんどの行動問題やストレス性疾患を事前に予防できます。獣医学的な治療も重要ですが、家庭環境（滑り止めステップ、垂直空間の確保、新鮮な複数箇所での給水）を安全に管理することが、生涯の伴侶としての幸せを支える最も強力な盾となります。
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

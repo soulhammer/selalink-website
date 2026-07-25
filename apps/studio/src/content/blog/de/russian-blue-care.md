@@ -4,11 +4,25 @@ title: "Sicherer Hafen und Vertrauensbildung: Eine 3-Schritte-Routine für Russi
 description: "Russisch Blau Katzen sind von Natur aus scheu und geräuschempfindlich. Erfahren Sie, wie Sie eine stressfreie Schutzzone schaffen und Vertrauen aufbauen."
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
+category: "FreshSelf"
+tags: ["Haustierpflege","Haustiergesundheit","Russisch Blau"]
 heroImage: "/images/blog/russian_blue_care.png"
-authority: "Rasseführer der Cat Fanciers' Association (CFA) & Cornell Feline Health Center"
 app: "petself"
 formatVersion: 4
-tags: ["Russisch Blau","Scheues Temperament","Sichere Verstecke","Katzenpflege"]
+authority: "Rasseführer der Cat Fanciers' Association (CFA) & Cornell Feline Health Center"
+steps:
+  - name: "Körpersprache der Russisch Blau: Warnzeichen von Panik lesen"
+    text: "Aufgrund ihres sanften Wesens zeigen Russisch Blau Warnsignale sehr leise. Wichtige Paniksignale sind 'erweiterte Pupillen' und 'Ducken'. Bei plötzlichen Geräuschen erweitern sich die Pupillen. Wenn sie sich flach an den Boden pressen und die Ohren anlegen, haben sie extreme Angst und bereiten sich auf die Flucht vor."
+  - name: "Russisch Blau's Body Language & Signals"
+    text: "* Erweiterte Pupillen: Eine physische Reaktion, die zeigt, dass sie hochalarmiert, angespannt oder verängstigt sind. (Dimmen Sie das Licht und schalten Sie die Störquelle (wie Staubsauger oder Mixer) sofort aus.)
+
+* Ducken: Ein Zeichen von defensiver Panik, das zeigt, dass sie sich in die Enge getrieben fühlen. (Zwingen Sie sie nicht zum Kontakt. Lassen Sie sie in einen ruhigen Raum oder Schrank flüchten.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Morgen: Pflege von Katzenklo und Futterplatz zur Beruhigung: Reinigen Sie das Katzenklo früh. Stellen Sie sicher, dass Futter- und Wassernapf in einer ruhigen Ecke ohne Laufverkehr stehen.
+
+* STEP 2. Nachmittag: Pflege des erhöhten Aussichtsplatzes: Stellen Sie sicher, dass ihre gemütliche Katzenhöhle immer zugänglich ist. Dies bietet ihnen einen privaten Rückzugsort bei plötzlichem Lärm.
+
+* STEP 3. Abend: Berührungsfreie Geruchsprobe und sanfte Annäherung: Anstatt direkt auf sie zuzugehen, halten Sie ihnen ruhig einen Zeigefinger hin. Lassen Sie sie zuerst schnuppern, um den Kontakt aufzunehmen."
 faqs:
   - question: "Sollte ich meine Russisch Blau aus dem Versteck holen, wenn Gäste kommen?"
     answer: "Auf keinen Fall. Sie aus ihrer Schutzzone zu zwingen, erzeugt Panik und beschädigt ihr Vertrauen in Sie. Lassen Sie sie im Versteck, bis die Gäste wieder weg sind."
@@ -30,50 +44,42 @@ Russisch Blau Katzen haben ein silbrig-blaues Fell und grüne Augen. Sie sind ru
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Russisch Blau Rasseprofil
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Lebenserwartung</span><span class="font-bold text-slate-800 dark:text-slate-200">15 ~ 20 Jahre</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Schlafmuster</span><span class="font-bold text-slate-800 dark:text-slate-200">15 ~ 18 Stunden (sucht ruhige, erhöhte Verstecke)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperament</span><span class="font-bold text-slate-800 dark:text-slate-200">Zurückhaltend, Sanft, Sehr ruhig</span></div>
-  </div>
-</div>
+---
 
 ## 1. Körpersprache der Russisch Blau: Warnzeichen von Panik lesen
 
-Aufgrund ihres sanften Wesens zeigen Russisch Blau Warnsignale sehr leise. Wichtige Paniksignale sind 'erweiterte Pupillen' und 'Ducken'. Bei plötzlichen Geräuschen erweitern sich die Pupillen. Wenn sie sich flach an den Boden pressen und die Ohren anlegen, haben sie extreme Angst und bereiten sich auf die Flucht vor.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Erweiterte Pupillen</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Körpersprache der Russisch Blau: Warnzeichen von Panik lesen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Eine physische Reaktion, die zeigt, dass sie hochalarmiert, angespannt oder verängstigt sind.<br/>
-    <strong>• Richtige Reaktion:</strong> Dimmen Sie das Licht und schalten Sie die Störquelle (wie Staubsauger oder Mixer) sofort aus.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ducken</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Ein Zeichen von defensiver Panik, das zeigt, dass sie sich in die Enge getrieben fühlen.<br/>
-    <strong>• Richtige Reaktion:</strong> Zwingen Sie sie nicht zum Kontakt. Lassen Sie sie in einen ruhigen Raum oder Schrank flüchten.
+    Aufgrund ihres sanften Wesens zeigen Russisch Blau Warnsignale sehr leise. Wichtige Paniksignale sind 'erweiterte Pupillen' und 'Ducken'. Bei plötzlichen Geräuschen erweitern sich die Pupillen. Wenn sie sich flach an den Boden pressen und die Ohren anlegen, haben sie extreme Angst und bereiten sich auf die Flucht vor.
   </p>
 </div>
 
 ---
 
-## 2. Individuelle häusliche Pflegeroutine
+## 2. Russisch Blau's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Erweiterte Pupillen</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Bedeutung:</strong> Eine physische Reaktion, die zeigt, dass sie hochalarmiert, angespannt oder verängstigt sind.<br/>
+    <strong>• Reaktion:</strong> Dimmen Sie das Licht und schalten Sie die Störquelle (wie Staubsauger oder Mixer) sofort aus.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Pflege von Katzenklo und Futterplatz zur Beruhigung</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Aufgrund ihres sanften Wesens zeigen Russisch Blau Warnsignale sehr leise. Wicht
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Pflege des erhöhten Aussichtsplatzes</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Stellen Sie sicher, dass ihre gemütliche Katzenhöhle immer zugänglich ist. Dies bietet ihnen einen privaten Rückzugsort bei plötzlichem Lärm.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Berührungsfreie Geruchsprobe und sanfte Annäherung</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Anstatt direkt auf sie zuzugehen, halten Sie ihnen ruhig einen Zeigefinger hin. Lassen Sie sie zuerst schnuppern, um den Kontakt aufzunehmen.
-  </p>
-</div>
-
-## 3. Zusammenfassung und Vorsichtsmaßnahmen
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -4,11 +4,25 @@ title: "Jeux cérébraux et soin des oreilles : routine en 3 étapes pour le can
 description: "Découvrez comment soulager l'ennui des caniches intelligents avec des jeux cérébraux et prévenir les otites grâce à une routine en 3 étapes."
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
+category: "FreshSelf"
+tags: ["SoinAnimaux","SanteAnimaux","Caniche"]
 heroImage: "/images/blog/poodle_care.png"
-authority: "Guide officiel des races de l'American Kennel Club (AKC) et protocoles comportementaux de l'IAABC"
 app: "petself"
 formatVersion: 4
-tags: ["Caniche","Jeux Cérébraux","Soin des Oreilles","Soins Canins"]
+authority: "Guide officiel des races de l'American Kennel Club (AKC) et protocoles comportementaux de l'IAABC"
+steps:
+  - name: "Langage corporel du caniche : distinguer la demande du stress"
+    text: "En raison de leur intelligence, les caniches communiquent activement par le langage corporel. Les signaux typiques incluent lever la patte et cligner des yeux. Lorsqu'un caniche lève une patte avant, cela ressemble à une demande de poignée de main, mais c'est souvent un message disant 'occupe-toi de moi' ou un signal d'apaisement signifiant 'je suis un peu tendu, sois doux'. Regarder doucement et cligner lentement des yeux est leur façon de montrer de l'affection."
+  - name: "Caniche's Body Language & Signals"
+    text: "* Lever la patte: Une expression pour demander de l'attention ou tenter de calmer une légère tension. (Si vous le remarquez, évitez de donner des ordres stricts. Parlez calmement et caressez-le doucement.)
+
+* Cligner doucement des yeux: Un signe de confiance profonde et d'affection, confirmant qu'il se sent en sécurité avec vous. (Quand vos regards se croisent, clignez des yeux lentement pour partager ce sentiment de paix.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Matin : Stimulation cognitive avec des jeux d'intelligence: En plus des promenades physiques, utilisez des gamelles anti-glouton ou des tapis de fouille pour stimuler leur esprit vif, les aidant à canaliser leur trop-plein d'énergie.
+
+* STEP 2. Après-midi : Contrôle des oreilles et massage de nettoyage doux: Versez 2 à 3 gouttes de nettoyant auriculaire dans le conduit, massez doucement la base de l'oreille et essuyez le cérumen dissous avec un coton pour prévenir les otites.
+
+* STEP 3. Soir : Brossage carde pour éviter les nœuds et dermatites: Le pelage frisé du caniche s'emmêlant facilement, brossez-le quotidiennement avec une carde pour retirer les poils morts et aérer la peau."
 faqs:
   - question: "Est-il normal que mon caniche secoue la tête vigoureusement après le nettoyage des oreilles ?"
     answer: "Oui, c'est une réaction normale d'auto-nettoyage. Cela aide à expulser le nettoyant et les débris dissous. Essuyez simplement l'extérieur du pavillon de l'oreille."
@@ -30,50 +44,42 @@ Les caniches sont reconnus comme l'une des races de chiens les plus intelligente
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Caniche Profil principal
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 ans</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Mode de sommeil</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 14 heures (synchronisé avec le maître)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Tempérament</span><span class="font-bold text-slate-800 dark:text-slate-200">Très Intelligent, Actif, Amical</span></div>
-  </div>
-</div>
+---
 
 ## 1. Langage corporel du caniche : distinguer la demande du stress
 
-En raison de leur intelligence, les caniches communiquent activement par le langage corporel. Les signaux typiques incluent lever la patte et cligner des yeux. Lorsqu'un caniche lève une patte avant, cela ressemble à une demande de poignée de main, mais c'est souvent un message disant 'occupe-toi de moi' ou un signal d'apaisement signifiant 'je suis un peu tendu, sois doux'. Regarder doucement et cligner lentement des yeux est leur façon de montrer de l'affection.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lever la patte</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Langage corporel du caniche : distinguer la demande du stress</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Signification:</strong> Une expression pour demander de l'attention ou tenter de calmer une légère tension.<br/>
-    <strong>• Action correcte:</strong> Si vous le remarquez, évitez de donner des ordres stricts. Parlez calmement et caressez-le doucement.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cligner doucement des yeux</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Signification:</strong> Un signe de confiance profonde et d'affection, confirmant qu'il se sent en sécurité avec vous.<br/>
-    <strong>• Action correcte:</strong> Quand vos regards se croisent, clignez des yeux lentement pour partager ce sentiment de paix.
+    En raison de leur intelligence, les caniches communiquent activement par le langage corporel. Les signaux typiques incluent lever la patte et cligner des yeux. Lorsqu'un caniche lève une patte avant, cela ressemble à une demande de poignée de main, mais c'est souvent un message disant 'occupe-toi de moi' ou un signal d'apaisement signifiant 'je suis un peu tendu, sois doux'. Regarder doucement et cligner lentement des yeux est leur façon de montrer de l'affection.
   </p>
 </div>
 
 ---
 
-## 2. Routine de soins quotidiens personnalisée
+## 2. Caniche's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Signal Corporel 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lever la patte</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Signification:</strong> Une expression pour demander de l'attention ou tenter de calmer une légère tension.<br/>
+    <strong>• Reponse:</strong> Si vous le remarquez, évitez de donner des ordres stricts. Parlez calmement et caressez-le doucement.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Stimulation cognitive avec des jeux d'intelligence</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ En raison de leur intelligence, les caniches communiquent activement par le lang
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi : Contrôle des oreilles et massage de nettoyage doux</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Versez 2 à 3 gouttes de nettoyant auriculaire dans le conduit, massez doucement la base de l'oreille et essuyez le cérumen dissous avec un coton pour prévenir les otites.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir : Brossage carde pour éviter les nœuds et dermatites</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Le pelage frisé du caniche s'emmêlant facilement, brossez-le quotidiennement avec une carde pour retirer les poils morts et aérer la peau.
-  </p>
-</div>
-
-## 3. Résumé et précautions
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

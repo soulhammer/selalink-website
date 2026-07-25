@@ -4,11 +4,25 @@ title: "Brain Play and Ear Care: A 3-Step Routine for the Intelligent Poodle"
 description: "Discover how to relieve boredom in highly intelligent Poodles with brain games and prevent genetically vulnerable ear infections using a 3-step routine."
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
+category: "FreshSelf"
+tags: ["PetCare","PetHealth","Poodle"]
 heroImage: "/images/blog/poodle_care.png"
-authority: "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral Protocols"
 app: "petself"
 formatVersion: 4
-tags: ["Poodle","Brain Games","Ear Care","Dog Home Care"]
+authority: "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral Protocols"
+steps:
+  - name: "Poodle Body Language: Distinguishing Demand from Stress"
+    text: "Because of their intelligence, Poodles actively communicate using body language. Typical signals include 'paw raising' and 'blinking'. When a Poodle raises a front paw, it looks like a request for a trick, but it is often a message saying 'give me attention' or a calming signal meaning 'I'm slightly tense, please be gentle.' Staring softly and blinking slowly is their way of showing trust and affection, assuring you that they have no hostile intentions."
+  - name: "Poodle's Body Language & Signals"
+    text: "* Paw Raising: An expression seeking attention or attempting to soothe minor tension or anxiety. (If noticed, avoid giving forceful commands. Speak in a calm tone and pet them gently.)
+
+* Soft Blinking: A sign of deep trust and affection, confirming they feel safe and friendly with you. (When you lock eyes, blink back slowly to share and reinforce that sense of peace.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Morning: Cognitive Relief with Brain Toys: In addition to physical walks, use maze bowls or nosework mats to stimulate their highly active mind, helping them direct their excess energy productively.
+
+* STEP 2. Afternoon: Ear Check and Gentle Cleaning Massage: Place 2-3 drops of ear cleanser into the ear canal, gently massage the base of the ear, and wipe away any dissolved wax with a cotton pad to prevent otitis.
+
+* STEP 3. Evening: Slicker Brushing to Prevent Skin Matting: Since curly Poodle coats mat easily, brush daily with a slicker brush to remove dead hair, detangle, and allow proper air circulation to the skin."
 faqs:
   - question: "Is it normal for my Poodle to shake its head vigorously after ear cleaning?"
     answer: "Yes, this is a normal self-cleaning reaction. It helps shake out the cleanser along with dissolved debris from deep inside the ear. Just wipe the outer ear flap gently."
@@ -30,50 +44,42 @@ Poodles are widely recognized as one of the most intelligent dog breeds in the w
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Poodle Core Profile
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Lifespan</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 years</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Sleep Pattern</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 14 hours (synchronized with owner)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperament</span><span class="font-bold text-slate-800 dark:text-slate-200">Highly Intelligent, Active, Friendly</span></div>
-  </div>
-</div>
+---
 
 ## 1. Poodle Body Language: Distinguishing Demand from Stress
 
-Because of their intelligence, Poodles actively communicate using body language. Typical signals include 'paw raising' and 'blinking'. When a Poodle raises a front paw, it looks like a request for a trick, but it is often a message saying 'give me attention' or a calming signal meaning 'I'm slightly tense, please be gentle.' Staring softly and blinking slowly is their way of showing trust and affection, assuring you that they have no hostile intentions.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Paw Raising</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Poodle Body Language: Distinguishing Demand from Stress</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Meaning:</strong> An expression seeking attention or attempting to soothe minor tension or anxiety.<br/>
-    <strong>• Correct Action:</strong> If noticed, avoid giving forceful commands. Speak in a calm tone and pet them gently.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soft Blinking</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Meaning:</strong> A sign of deep trust and affection, confirming they feel safe and friendly with you.<br/>
-    <strong>• Correct Action:</strong> When you lock eyes, blink back slowly to share and reinforce that sense of peace.
+    Because of their intelligence, Poodles actively communicate using body language. Typical signals include 'paw raising' and 'blinking'. When a Poodle raises a front paw, it looks like a request for a trick, but it is often a message saying 'give me attention' or a calming signal meaning 'I'm slightly tense, please be gentle.' Staring softly and blinking slowly is their way of showing trust and affection, assuring you that they have no hostile intentions.
   </p>
 </div>
 
 ---
 
-## 2. Custom Daily Care Routine
+## 2. Poodle's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Body Signal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Paw Raising</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Meaning:</strong> An expression seeking attention or attempting to soothe minor tension or anxiety.<br/>
+    <strong>• Response:</strong> If noticed, avoid giving forceful commands. Speak in a calm tone and pet them gently.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morning: Cognitive Relief with Brain Toys</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Because of their intelligence, Poodles actively communicate using body language.
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Afternoon: Ear Check and Gentle Cleaning Massage</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Place 2-3 drops of ear cleanser into the ear canal, gently massage the base of the ear, and wipe away any dissolved wax with a cotton pad to prevent otitis.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Evening: Slicker Brushing to Prevent Skin Matting</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Since curly Poodle coats mat easily, brush daily with a slicker brush to remove dead hair, detangle, and allow proper air circulation to the skin.
-  </p>
-</div>
-
-## 3. Summary and Precautions
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Simply observing your pet's calming signals can prevent major behavioral issues and stress-induced illnesses. While veterinary treatment is important, providing a safe environment (steps, vertical spaces, multiple water sources) is the strongest shield supporting their lifetime happiness.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -7,7 +7,7 @@ export const ALL_LOCALES = ['ko', 'en', 'zh', 'ja', 'es', 'fr', 'de', 'pt', 'id'
 export function buildHistoryMetaMap(masterDir, blogRootDir) {
   const historyMetaMap = {};
   try {
-    const jsonFiles = fs.readdirSync(masterDir).filter(f => f.endsWith('.json'));
+    const jsonFiles = fs.readdirSync(masterDir).filter(f => f.endsWith('.json') && f !== 'meta.json');
     jsonFiles.forEach(file => {
       const slug = file.replace('.json', '');
       const diskKoPath = pathModule.join(blogRootDir, 'ko', `${slug}.md`);
@@ -36,7 +36,7 @@ export function buildHistoryMetaMap(masterDir, blogRootDir) {
 export function compileMasterJsonCollection({ masterDir, blogRootDir, blogTypeName, renderLocaleMarkdown }) {
   console.log(`🚀 [${blogTypeName} 파이프라인] 다국어 마크다운 빌드 가동...\n`);
   const historyMetaMap = buildHistoryMetaMap(masterDir, blogRootDir);
-  const files = fs.readdirSync(masterDir).filter(f => f.endsWith('.json'));
+  const files = fs.readdirSync(masterDir).filter(f => f.endsWith('.json') && f !== 'meta.json');
 
   let totalGenerated = 0;
 
@@ -47,32 +47,23 @@ export function compileMasterJsonCollection({ masterDir, blogRootDir, blogTypeNa
       rawText = Buffer.from(rawText, 'base64').toString('utf-8');
     }
     const rawData = JSON.parse(rawText);
-    const blogSlug = file.replace('.json', '');
-    const data = rawData[blogSlug] || rawData[Object.keys(rawData)[0]];
 
-    if (!data) return;
+    Object.entries(rawData).forEach(([blogSlug, data]) => {
+      if (!data || typeof data !== 'object') return;
+      const histMeta = historyMetaMap[blogSlug] || {};
 
-    const histMeta = historyMetaMap[blogSlug] || {};
+      ALL_LOCALES.forEach(lang => {
+        const langDir = pathModule.join(blogRootDir, lang);
+        ensureDir(langDir);
 
-    ALL_LOCALES.forEach(lang => {
-      const langDir = pathModule.join(blogRootDir, lang);
-      ensureDir(langDir);
+        const markdownContent = renderLocaleMarkdown({ blogSlug, lang, data, histMeta });
+        if (!markdownContent) return;
 
-      const markdownContent = renderLocaleMarkdown({ blogSlug, lang, data, histMeta });
-      const mdPath = pathModule.join(langDir, `${blogSlug}.md`);
+        const mdPath = pathModule.join(langDir, `${blogSlug}.md`);
 
-      let shouldWrite = true;
-      if (fs.existsSync(mdPath)) {
-        const existingContent = fs.readFileSync(mdPath, 'utf-8');
-        if (existingContent === markdownContent) {
-          shouldWrite = false;
-        }
-      }
-
-      if (shouldWrite) {
         fs.writeFileSync(mdPath, markdownContent, 'utf-8');
         totalGenerated++;
-      }
+      });
     });
   });
 

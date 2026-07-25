@@ -4,11 +4,25 @@ title: "Signaux des Branchies de l'Axolotl et Routine en 3 Étapes en Eau Froide
 description: "Guide complet pour l'Axolotl. Décodez la courbure des branchies, maintenez une eau fraîche (16°C ~ 18°C) et évitez le gravier dangereux selon Amphibian Ark."
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
+category: "FreshSelf"
+tags: ["SoinAnimaux","SanteAnimaux","Axolotl (Salamandre Mexicaine)"]
 heroImage: "/images/blog/axolotl_care.png"
-authority: "Protocoles Vétérinaires Amphibian Ark"
 app: "petself"
 formatVersion: 4
-tags: ["Axolotl","Amphibiens","Soins Eau Froide","Amphibian Ark"]
+authority: "Protocoles Vétérinaires Amphibian Ark"
+steps:
+  - name: "Communication de l'Axolotl: Courbure des Branchies et Ouverture de Bouche"
+    text: "Les branchies plumeuses indiquent la qualité de l'eau. Courbées vers l'avant, elles signalent un stress thermique ou une montée d'ammoniaque."
+  - name: "Axolotl (Salamandre Mexicaine)'s Body Language & Signals"
+    text: "* Branchies Courbées vers l'Avant (Gill Curling Forward): Stress environnemental critique dû à une eau trop chaude (>20°C) ou polluée. (Refroidissez l'eau à 16°C ~ 18°C et faites un changement d'eau de 20%.)
+
+* Bouche Entrouverte vers le Sol (Bottom Gaping): Comportement naturel de recherche de nourriture au fond du bac. (Présentez des granulés ou vers à la pince longue.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Matin: Vérification Température Eau Froide (16°C ~ 18°C): Assurez-vous que l'eau reste bien en dessous de 18°C.
+
+* STEP 2. Après-midi: Aspiration des Déchets & Lumière Douce: Évitez la lumière directe et aspirez les déjections au sifon.
+
+* STEP 3. Soir: Repas à la Pince & Contrôle des Branchies: Nourrissez à la pince et observez la rougeur des branchies plumeuses."
 faqs:
   - question: "Peut-on mettre du gravier dans le fond du bac ?"
     answer: "Absolument pas. L'axolotl aspire ses proies et avalera le gravier, causant une occlusion intestinale mortelle. Préférez un fond nu."
@@ -30,50 +44,42 @@ L'Axolotl est une salamandre aquatique fascinante dotée d'une capacité de rég
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Axolotl (Salamandre Mexicaine) Profil principal
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">10 - 15 ans</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Mode de sommeil</span><span class="font-bold text-slate-800 dark:text-slate-200">10 - 12 heures (Repos aquatique en cachette)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Tempérament</span><span class="font-bold text-slate-800 dark:text-slate-200">Paisible, calme, solitaire, sensible</span></div>
-  </div>
-</div>
+---
 
 ## 1. Communication de l'Axolotl: Courbure des Branchies et Ouverture de Bouche
 
-Les branchies plumeuses indiquent la qualité de l'eau. Courbées vers l'avant, elles signalent un stress thermique ou une montée d'ammoniaque.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Branchies Courbées vers l'Avant (Gill Curling Forward)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Communication de l'Axolotl: Courbure des Branchies et Ouverture de Bouche</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Signification:</strong> Stress environnemental critique dû à une eau trop chaude (>20°C) ou polluée.<br/>
-    <strong>• Action correcte:</strong> Refroidissez l'eau à 16°C ~ 18°C et faites un changement d'eau de 20%.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bouche Entrouverte vers le Sol (Bottom Gaping)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Signification:</strong> Comportement naturel de recherche de nourriture au fond du bac.<br/>
-    <strong>• Action correcte:</strong> Présentez des granulés ou vers à la pince longue.
+    Les branchies plumeuses indiquent la qualité de l'eau. Courbées vers l'avant, elles signalent un stress thermique ou une montée d'ammoniaque.
   </p>
 </div>
 
 ---
 
-## 2. Routine de soins quotidiens personnalisée
+## 2. Axolotl (Salamandre Mexicaine)'s Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Signal Corporel 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Branchies Courbées vers l'Avant (Gill Curling Forward)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Signification:</strong> Stress environnemental critique dû à une eau trop chaude (>20°C) ou polluée.<br/>
+    <strong>• Reponse:</strong> Refroidissez l'eau à 16°C ~ 18°C et faites un changement d'eau de 20%.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin: Vérification Température Eau Froide (16°C ~ 18°C)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Les branchies plumeuses indiquent la qualité de l'eau. Courbées vers l'avant, 
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi: Aspiration des Déchets & Lumière Douce</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Évitez la lumière directe et aspirez les déjections au sifon.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir: Repas à la Pince & Contrôle des Branchies</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Nourrissez à la pince et observez la rougeur des branchies plumeuses.
-  </p>
-</div>
-
-## 3. Résumé et précautions
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -4,11 +4,25 @@ title: "Bahasa Insang Axolotl dan Rutinitas 3 Langkah untuk Perawatan Air Dingin
 description: "Panduan lengkap merawat Axolotl (Salamander Meksiko). Pahami arti insang melengkung, jaga suhu dingin (16°C ~ 18°C), dan cegah tersedak kerikil sesuai standar Amphibian Ark."
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
+category: "FreshSelf"
+tags: ["PerawatanHewan","KesehatanHewan","Axolotl (Salamander Meksiko)"]
 heroImage: "/images/blog/axolotl_care.png"
-authority: "Amphibian Ark Veterinary Care Protocol & Standar Pemeliharaan"
 app: "petself"
 formatVersion: 4
-tags: ["Axolotl","Salamander","Perawatan Air Dingin","Standar Amphibian Ark"]
+authority: "Amphibian Ark Veterinary Care Protocol & Standar Pemeliharaan"
+steps:
+  - name: "Komunikasi Axolotl: Insang Melengkung & Perilaku Menganga"
+    text: "Insang bulu merah adalah indikator langsung kualitas air dan suhu. Insang yang melengkung ke depan menandakan stres berat akibat suhu panas atau amonia."
+  - name: "Axolotl (Salamander Meksiko)'s Body Language & Signals"
+    text: "* Insang Bulu Melengkung ke Depan (Gill Curling Forward): Stres lingkungan berat akibat suhu tinggi (>20°C) atau penumpukan amonia beracun. (Nyalakan kipas pendingin hingga suhu 16°C ~ 18°C dan lakukan penggantian air 20% segera.)
+
+* Menatap Dasar & Menganga (Bottom Gaping): Perilaku alami saat mencari makan di dasar akuarium. (Beri makan pelet tenggelam khusus menggunakan pinset panjang di depan mulutnya.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Pagi: Cek Suhu Air Dingin (16°C ~ 18°C) & Pendingin: Pastikan suhu air berada di bawah 18°C dan pendingin bekerja baik.
+
+* STEP 2. Siang: Bersihkan Kotoran & Jaga Penerangan Redup: Jaga akuarium tetap teduh tanpa cahaya silau dan sedot kotoran dengan sifon.
+
+* STEP 3. Malam: Beri Makan dengan Pinset & Cek Insang Bulu: Beri makan pelet tenggelam dan amati warna merah segar insang bulunya."
 faqs:
   - question: "Bolehkah memakai kerikil kecil di dasar akuarium?"
     answer: "Sangat tidak boleh! Axolotl makan dengan cara menyedot air dan akan tertelan kerikil yang berakibat penyumbatan usus mematikan. Gunakan akuarium polos (bare-bottom)."
@@ -30,50 +44,42 @@ Axolotl terkenal dengan wajah tersenyum dan insang bulunya yang unik. Salamander
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Axolotl (Salamander Meksiko) Profil Utama
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Rata-rata Umur</span><span class="font-bold text-slate-800 dark:text-slate-200">10 - 15 Tahun</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Pola Tidur</span><span class="font-bold text-slate-800 dark:text-slate-200">10 - 12 Jam (Tidur di Tempat Sembunyi Gelap)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamen</span><span class="font-bold text-slate-800 dark:text-slate-200">Jinak, Tenang, Soliter, Sensitif Suhu Air</span></div>
-  </div>
-</div>
+---
 
 ## 1. Komunikasi Axolotl: Insang Melengkung & Perilaku Menganga
 
-Insang bulu merah adalah indikator langsung kualitas air dan suhu. Insang yang melengkung ke depan menandakan stres berat akibat suhu panas atau amonia.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Insang Bulu Melengkung ke Depan (Gill Curling Forward)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Komunikasi Axolotl: Insang Melengkung & Perilaku Menganga</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Stres lingkungan berat akibat suhu tinggi (>20°C) atau penumpukan amonia beracun.<br/>
-    <strong>• Tindakan yang Benar:</strong> Nyalakan kipas pendingin hingga suhu 16°C ~ 18°C dan lakukan penggantian air 20% segera.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Menatap Dasar & Menganga (Bottom Gaping)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Perilaku alami saat mencari makan di dasar akuarium.<br/>
-    <strong>• Tindakan yang Benar:</strong> Beri makan pelet tenggelam khusus menggunakan pinset panjang di depan mulutnya.
+    Insang bulu merah adalah indikator langsung kualitas air dan suhu. Insang yang melengkung ke depan menandakan stres berat akibat suhu panas atau amonia.
   </p>
 </div>
 
 ---
 
-## 2. Rutinitas Perawatan Harian Kustom
+## 2. Axolotl (Salamander Meksiko)'s Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Insang Bulu Melengkung ke Depan (Gill Curling Forward)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Arti:</strong> Stres lingkungan berat akibat suhu tinggi (>20°C) atau penumpukan amonia beracun.<br/>
+    <strong>• Tindakan:</strong> Nyalakan kipas pendingin hingga suhu 16°C ~ 18°C dan lakukan penggantian air 20% segera.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Cek Suhu Air Dingin (16°C ~ 18°C) & Pendingin</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Insang bulu merah adalah indikator langsung kualitas air dan suhu. Insang yang m
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Bersihkan Kotoran & Jaga Penerangan Redup</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Jaga akuarium tetap teduh tanpa cahaya silau dan sedot kotoran dengan sifon.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Beri Makan dengan Pinset & Cek Insang Bulu</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Beri makan pelet tenggelam dan amati warna merah segar insang bulunya.
-  </p>
-</div>
-
-## 3. Ringkasan dan Tindakan Pencegahan
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

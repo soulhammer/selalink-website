@@ -4,11 +4,25 @@ title: "실키한 요크셔테리어를 위한 모질 관리법과 슬개골 탈
 description: "비단결 같은 털을 자랑하는 요크셔테리어. 털 엉킴을 막는 섬세한 브러싱 노하우와 유전적으로 취약한 슬개골 탈구를 방지하는 하체 근력 케어 루틴을 소개합니다."
 pubDate: "2026-01-02"
 updatedDate: "2026-01-02"
+category: "FreshSelf"
+tags: ["반려동물","펫케어","요크셔테리어 (Yorkshire Terrier)"]
 heroImage: "/images/blog/yorkshire_care.png"
-authority: "영국 요크셔테리어 클럽(YTC) 공식 피모 가이드 및 수의정형외학 행동 지침"
 app: "petself"
 formatVersion: 4
-tags: ["요크셔테리어","피모 관리","슬개골 예방","소형견 훈련"]
+authority: "영국 요크셔테리어 클럽(YTC) 공식 피모 가이드 및 수의정형외학 행동 지침"
+steps:
+  - name: "요크셔테리어의 바디 랭귀지: 소형 헌터의 경계와 애정"
+    text: "테리어 계열인 요크셔테리어는 작은 체구에도 불구하고 강한 방어 본능이 있어, 귀를 완전히 뒤로 젖히고 꼬리를 수평으로 바짝 들 때는 매우 경계하고 있음을 의미합니다. 반면 배를 보이고 누워 앞발로 공중을 휘젓는 것은 보호자를 향한 무한한 신뢰와 어리광의 시그널입니다."
+  - name: "요크셔테리어 (Yorkshire Terrier)의 몸짓 언어와 바디 시그널"
+    text: "* 귀를 뒤로 밀착하고 꼬리를 수평으로 빳빳하게 듦: 외부의 미세한 자극에 흥분했거나 방어적인 경계 태세를 갖추고 있다는 뜻입니다. (안아 올리는 대신 바닥에서 차분히 이름을 부르며 간식으로 관심을 돌려 흥분을 가라앉힙니다.)
+
+* 배를 뒤집고 누워 앞발을 휘저음: 극도의 심리적 안정감을 느끼며 보호자에게 관심을 요청하는 상태입니다. (가슴과 배 부위를 부드럽게 마사지해주며 깊은 유대감을 형성합니다.)"
+  - name: "요크셔테리어 (Yorkshire Terrier) 맞춤형 3단계 홈케어 루틴"
+    text: "* STEP 1. 아침: 비단결 모발 엉킴 방지를 위한 전용 브러싱 및 미스트: 빗질 전 피모 전용 미스트를 뿌린 후, 핀 브러시로 모근부터 끝까지 부드럽게 빗어 털 엉킴과 손상을 방지합니다.
+
+* STEP 2. 오후: 미끄러운 실내 바닥으로부터 슬개골을 보호하는 발바닥 털 정리: 미용 바리깡으로 발바닥 패드 사이의 털을 다듬고 미끄럼 방지 매트를 점검하여 슬개골을 보호합니다.
+
+* STEP 3. 저녁: 뒷다리 근력 강화를 위한 가벼운 실내 장애물 넘기: 낮은 매트나 쿠션을 살짝 넘어가게 유도하여 슬개골 탈구를 예방할 수 있는 허벅지 근력을 단단히 길러줍니다."
 faqs:
   - question: "요크셔테리어는 털이 많이 빠지나요?"
     answer: "요크셔테리어는 이중모가 아닌 싱글코트로 강아지 중 털 빠짐이 매우 적은 편에 속합니다. 다만 털이 길기 때문에 엉키지 않도록 매일 빗질을 해줘야 합니다."
@@ -30,50 +44,42 @@ faqs:
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 요크셔테리어 (Yorkshire Terrier) 핵심 프로필 (Profile)
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">평균 수명</span><span class="font-bold text-slate-800 dark:text-slate-200">13 ~ 16년</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">수면 패턴</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 14시간 (실내 활발형)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">성격 키워드</span><span class="font-bold text-slate-800 dark:text-slate-200">용감함, 총명함, 활기차고 애교 많음</span></div>
-  </div>
-</div>
+---
 
 ## 1. 요크셔테리어의 바디 랭귀지: 소형 헌터의 경계와 애정
 
-테리어 계열인 요크셔테리어는 작은 체구에도 불구하고 강한 방어 본능이 있어, 귀를 완전히 뒤로 젖히고 꼬리를 수평으로 바짝 들 때는 매우 경계하고 있음을 의미합니다. 반면 배를 보이고 누워 앞발로 공중을 휘젓는 것은 보호자를 향한 무한한 신뢰와 어리광의 시그널입니다.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">귀를 뒤로 밀착하고 꼬리를 수평으로 빳빳하게 듦</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">요크셔테리어의 바디 랭귀지: 소형 헌터의 경계와 애정</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 의미:</strong> 외부의 미세한 자극에 흥분했거나 방어적인 경계 태세를 갖추고 있다는 뜻입니다.<br/>
-    <strong>• 올바른 대처:</strong> 안아 올리는 대신 바닥에서 차분히 이름을 부르며 간식으로 관심을 돌려 흥분을 가라앉힙니다.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">배를 뒤집고 누워 앞발을 휘저음</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 의미:</strong> 극도의 심리적 안정감을 느끼며 보호자에게 관심을 요청하는 상태입니다.<br/>
-    <strong>• 올바른 대처:</strong> 가슴과 배 부위를 부드럽게 마사지해주며 깊은 유대감을 형성합니다.
+    테리어 계열인 요크셔테리어는 작은 체구에도 불구하고 강한 방어 본능이 있어, 귀를 완전히 뒤로 젖히고 꼬리를 수평으로 바짝 들 때는 매우 경계하고 있음을 의미합니다. 반면 배를 보이고 누워 앞발로 공중을 휘젓는 것은 보호자를 향한 무한한 신뢰와 어리광의 시그널입니다.
   </p>
 </div>
 
 ---
 
-## 2. 맞춤형 홈케어 루틴
+## 2. 요크셔테리어 (Yorkshire Terrier)의 몸짓 언어와 바디 시그널
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">바디 시그널 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">귀를 뒤로 밀착하고 꼬리를 수평으로 빳빳하게 듦</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 의미:</strong> 외부의 미세한 자극에 흥분했거나 방어적인 경계 태세를 갖추고 있다는 뜻입니다.<br/>
+    <strong>• 대처법:</strong> 안아 올리는 대신 바닥에서 차분히 이름을 부르며 간식으로 관심을 돌려 흥분을 가라앉힙니다.
+  </p>
+</div>
+
+---
+
+## 3. 요크셔테리어 (Yorkshire Terrier) 맞춤형 3단계 홈케어 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아침: 비단결 모발 엉킴 방지를 위한 전용 브러싱 및 미스트</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ faqs:
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">오후: 미끄러운 실내 바닥으로부터 슬개골을 보호하는 발바닥 털 정리</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    미용 바리깡으로 발바닥 패드 사이의 털을 다듬고 미끄럼 방지 매트를 점검하여 슬개골을 보호합니다.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">저녁: 뒷다리 근력 강화를 위한 가벼운 실내 장애물 넘기</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    낮은 매트나 쿠션을 살짝 넘어가게 유도하여 슬개골 탈구를 예방할 수 있는 허벅지 근력을 단단히 길러줍니다.
-  </p>
-</div>
-
-## 3. 요약 및 주의사항
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      반려동물의 언어(카밍 시그널)를 세심하게 관찰하는 것만으로도 대부분의 행동 발달 및 스트레스성 질환을 사전에 예방할 수 있습니다. 수의학적 치료도 중요하지만, 집안 환경(안전 발판, 수직 공간 확보, 신선한 다각적 물 공급)을 안전하게 관리하는 것이 평생 동반자로서의 행복을 지탱하는 가장 강력한 보호막입니다.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

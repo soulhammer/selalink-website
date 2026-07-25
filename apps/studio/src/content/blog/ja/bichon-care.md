@@ -4,11 +4,25 @@ title: "ビション・フリーゼの巻き毛ケア：もつれ防止とビシ
 description: "アフロヘアーのような頭で人気のビション・フリーゼ。絡まりやすい巻き毛の管理と、突然のエネルギー爆発（ビションタイム）への安全な対処法を紹介します。"
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
+category: "FreshSelf"
+tags: ["ペットケア","ペット健康","ビション・フリーゼ"]
 heroImage: "/images/blog/bichon_care.png"
-authority: "Bichon Frise Club of Americaガイドライン＆AVMA獣医学指針"
 app: "petself"
 formatVersion: 4
-tags: ["ビション・フリーゼ","ビションタイム","毛のもつれ","皮膚炎"]
+authority: "Bichon Frise Club of Americaガイドライン＆AVMA獣医学指針"
+steps:
+  - name: "ビション・フリーゼのボディランゲージ：ビションタイムと関心のサイン"
+    text: "ビションは興奮すると室内を激しく走り回る「ビションタイム（Bichon Blitz）」を行い、エネルギーを消費します。これは自然な本能です。また、飼い主の足や腕を前脚で軽くたたく「前脚タッチ」は、関心を求め遊ぼうと誘うサインです。"
+  - name: "ビション・フリーゼ's Body Language & Signals"
+    text: "* ビションタイム (Bichon Blitz): 体内に溜まったエネルギーを、激しい走りを通じて発散させる本能的な遊び行動です. (走る進路にある障害物を片付け、滑り止めマットの上で自然に止まるまで見守ってください。)
+
+* 前脚タッチ (Paw Tap): 自分に注意を向け、スキンシップを求めるビション特有のフレンドリーなコミュニケーションです. (優しく目を合わせながらなでてあげるか、簡単な芸の練習で脳に刺激を与えてください。)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. 朝：軽いおもちゃ追いかけとターグ遊び: 家具への衝突を防ぐため、朝に柔らかい布製のおもちゃで軽く引っ張り合いをしてエネルギーを消費させます.
+
+* STEP 2. 昼：スリッカーとコームを交差させた10分間ブラシ練習: 縮れた巻き毛が皮膚を引っ張らないよう、スプレーを吹きかけてからお腹や脚の内側をスリッカーでほぐし、コームで確認します.
+
+* STEP 3. 夜：極細コームによる目元の毛梳きと涙やけの乾燥: 白い毛が涙で汚れたり皮膚炎を起こさないよう、目の周りを極細コームで整え、水分をコットンで拭き取ります."
 faqs:
   - question: "ビションタイムにはどうやって落ち着かせればいいですか？"
     answer: "ビションタイムは自然な感情表現です. 無理に捕まえようと叫ぶと、遊びと勘違いしてさらに激しく走ります。滑って怪我をしないようマットを整え、見守ってください."
@@ -30,50 +44,42 @@ faqs:
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 ビション・フリーゼ コアプロフィール
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">平均寿命</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15年</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">睡眠パターン</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 14時間（飼い主の足元で就寝）</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">性格キーワード</span><span class="font-bold text-slate-800 dark:text-slate-200">陽気、活発、甘えん坊、社交的</span></div>
-  </div>
-</div>
+---
 
 ## 1. ビション・フリーゼのボディランゲージ：ビションタイムと関心のサイン
 
-ビションは興奮すると室内を激しく走り回る「ビションタイム（Bichon Blitz）」を行い、エネルギーを消費します。これは自然な本能です。また、飼い主の足や腕を前脚で軽くたたく「前脚タッチ」は、関心を求め遊ぼうと誘うサインです。
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ビションタイム (Bichon Blitz)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ビション・フリーゼのボディランゲージ：ビションタイムと関心のサイン</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 体内に溜まったエネルギーを、激しい走りを通じて発散させる本能的な遊び行動です.<br/>
-    <strong>• 正しい対処:</strong> 走る進路にある障害物を片付け、滑り止めマットの上で自然に止まるまで見守ってください。
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">前脚タッチ (Paw Tap)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 自分に注意を向け、スキンシップを求めるビション特有のフレンドリーなコミュニケーションです.<br/>
-    <strong>• 正しい対処:</strong> 優しく目を合わせながらなでてあげるか、簡単な芸の練習で脳に刺激を与えてください。
+    ビションは興奮すると室内を激しく走り回る「ビションタイム（Bichon Blitz）」を行い、エネルギーを消費します。これは自然な本能です。また、飼い主の足や腕を前脚で軽くたたく「前脚タッチ」は、関心を求め遊ぼうと誘うサインです。
   </p>
 </div>
 
 ---
 
-## 2. カスタマイズされたホームケアルーティン
+## 2. ビション・フリーゼ's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">ボディシグナル 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ビションタイム (Bichon Blitz)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 意味:</strong> 体内に溜まったエネルギーを、激しい走りを通じて発散させる本能的な遊び行動です.<br/>
+    <strong>• 対処法:</strong> 走る進路にある障害物を片付け、滑り止めマットの上で自然に止まるまで見守ってください。
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">朝：軽いおもちゃ追いかけとターグ遊び</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ faqs:
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">昼：スリッカーとコームを交差させた10分間ブラシ練習</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    縮れた巻き毛が皮膚を引っ張らないよう、スプレーを吹きかけてからお腹や脚の内側をスリッカーでほぐし、コームで確認します.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">夜：極細コームによる目元の毛梳きと涙やけの乾燥</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    白い毛が涙で汚れたり皮膚炎を起こさないよう、目の周りを極細コームで整え、水分をコットンで拭き取ります.
-  </p>
-</div>
-
-## 3. 要約と注意事項
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      ペットの合図（カーミングシグナル）を細かく観察するだけでも、ほとんどの行動問題やストレス性疾患を事前に予防できます。獣医学的な治療も重要ですが、家庭環境（滑り止めステップ、垂直空間の確保、新鮮な複数箇所での給水）を安全に管理することが、生涯の伴侶としての幸せを支える最も強力な盾となります。
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

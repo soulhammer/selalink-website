@@ -4,11 +4,25 @@ title: "Panduan Vitamin C Marmut Abyssinian dan Rutinitas 3 Langkah Kesehatan Pe
 description: "Merawat marmut Abyssinian berbulu pusaran (rosettes). Pelajari cara memenuhi kebutuhan vitamin C dan kelola kandang dari debu jerami."
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
+category: "FreshSelf"
+tags: ["PerawatanHewan","KesehatanHewan","Marmut Abyssinian (Guinea Pig)"]
 heroImage: "/images/blog/abyssinian_guinea_pig_care.png"
-authority: "Pedoman Perawatan Hewan Pengerat RSPCA dan Standar Medis Dokter Hewan Eksotis"
 app: "petself"
 formatVersion: 4
-tags: ["Perawatan Marmut","Vitamin C Marmut","Saluran Napas Hewan","Hewan Pengerat"]
+authority: "Pedoman Perawatan Hewan Pengerat RSPCA dan Standar Medis Dokter Hewan Eksotis"
+steps:
+  - name: "Komunikasi Marmut: Wheeking dan Popcorning"
+    text: "Marmut adalah hewan yang vokal dan ekspresif. Mereka mengeluarkan suara cicitan nyaring yang disebut 'wheeking' saat meminta makanan. Di sisi lain, mereka melakukan lompatan mendadak di udara yang disebut 'popcorning' saat merasa sangat gembira dan aman."
+  - name: "Marmut Abyssinian (Guinea Pig)'s Body Language & Signals"
+    text: "* Cicitan Nyaring (Wheeking): Panggilan kegembiraan atau permintaan makan, biasanya terdengar saat mereka mendengar suara kantong sayur dibuka. (Berikan potongan paprika segar atau suplemen vitamin C untuk membangun ikatan persahabatan.)
+
+* Lompatan Popcorn (Popcorning): Melompat tegak ke udara secara mendadak sebagai ekspresi kegembiraan murni dan rasa aman. (Pastikan area bermain bebas dari benda keras tajam agar mereka tidak cedera saat melompat gembira.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Pagi: Suplementasi Vitamin C & Jerami Segar: Berikan suplemen vitamin C khusus secara langsung (hindari mencampur ke air karena cepat rusak). Isi rak dengan jerami Timothy segar.
+
+* STEP 2. Siang: Pembersihan Kandang & Pencegahan Debu: Bersihkan alas kandang yang basah. Kebaskan jerami di luar ruangan sebelum dimasukkan kandang agar debunya berkurang.
+
+* STEP 3. Malam: Pemeriksaan Pernapasan & Sosialisasi: Pastikan hidung tidak berlendir (gejala infeksi paru) dan periksa kulit di sela rosettes bulu. Ajak berinteraksi ramah."
 faqs:
   - question: "Bolehkah saya memberikan buah jeruk kepada marmut untuk vitamin C?"
     answer: "Buah sitrus terlalu asam dan tinggi gula, yang dapat memicu luka mulut dan diare. Paprika hijau atau tablet vitamin C khusus jauh lebih aman."
@@ -30,50 +44,42 @@ Marmut Abyssinian disukai karena pola pusaran bulu ('rosettes') yang unik serta 
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Marmut Abyssinian (Guinea Pig) Profil Utama
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Rata-rata Umur</span><span class="font-bold text-slate-800 dark:text-slate-200">5 ~ 7 tahun</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Pola Tidur</span><span class="font-bold text-slate-800 dark:text-slate-200">4 ~ 6 jam (polifasik - aktivitas menyebar dalam siklus singkat)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamen</span><span class="font-bold text-slate-800 dark:text-slate-200">Sosial, aktif, vokal, penasaran, ramah</span></div>
-  </div>
-</div>
+---
 
 ## 1. Komunikasi Marmut: Wheeking dan Popcorning
 
-Marmut adalah hewan yang vokal dan ekspresif. Mereka mengeluarkan suara cicitan nyaring yang disebut 'wheeking' saat meminta makanan. Di sisi lain, mereka melakukan lompatan mendadak di udara yang disebut 'popcorning' saat merasa sangat gembira dan aman.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cicitan Nyaring (Wheeking)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Komunikasi Marmut: Wheeking dan Popcorning</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Panggilan kegembiraan atau permintaan makan, biasanya terdengar saat mereka mendengar suara kantong sayur dibuka.<br/>
-    <strong>• Tindakan yang Benar:</strong> Berikan potongan paprika segar atau suplemen vitamin C untuk membangun ikatan persahabatan.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lompatan Popcorn (Popcorning)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Melompat tegak ke udara secara mendadak sebagai ekspresi kegembiraan murni dan rasa aman.<br/>
-    <strong>• Tindakan yang Benar:</strong> Pastikan area bermain bebas dari benda keras tajam agar mereka tidak cedera saat melompat gembira.
+    Marmut adalah hewan yang vokal dan ekspresif. Mereka mengeluarkan suara cicitan nyaring yang disebut 'wheeking' saat meminta makanan. Di sisi lain, mereka melakukan lompatan mendadak di udara yang disebut 'popcorning' saat merasa sangat gembira dan aman.
   </p>
 </div>
 
 ---
 
-## 2. Rutinitas Perawatan Harian Kustom
+## 2. Marmut Abyssinian (Guinea Pig)'s Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cicitan Nyaring (Wheeking)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Arti:</strong> Panggilan kegembiraan atau permintaan makan, biasanya terdengar saat mereka mendengar suara kantong sayur dibuka.<br/>
+    <strong>• Tindakan:</strong> Berikan potongan paprika segar atau suplemen vitamin C untuk membangun ikatan persahabatan.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Suplementasi Vitamin C & Jerami Segar</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Marmut adalah hewan yang vokal dan ekspresif. Mereka mengeluarkan suara cicitan 
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Pembersihan Kandang & Pencegahan Debu</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Bersihkan alas kandang yang basah. Kebaskan jerami di luar ruangan sebelum dimasukkan kandang agar debunya berkurang.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Pemeriksaan Pernapasan & Sosialisasi</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Pastikan hidung tidak berlendir (gejala infeksi paru) dan periksa kulit di sela rosettes bulu. Ajak berinteraksi ramah.
-  </p>
-</div>
-
-## 3. Ringkasan dan Tindakan Pencegahan
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

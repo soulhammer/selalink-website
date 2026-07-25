@@ -4,11 +4,25 @@ title: "Comunicação da Crista da Calopsita e Rotina em 3 Passos Contra Sustos 
 description: "Guia completo de cuidados para Calopsita. Entenda a linguagem da crista, previna o pânico noturno e siga uma rotina recomendada pela AAV."
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
+category: "FreshSelf"
+tags: ["CuidadoPets","SaudePets","Calopsita (Cockatiel)"]
 heroImage: "/images/blog/cockatiel_care.png"
-authority: "Associação de Veterinários de Aves (AAV) & Padrões Comportamentais"
 app: "petself"
 formatVersion: 4
-tags: ["Calopsita","Aves de Estimação","Cuidados Avícolas","Pânico Noturno","Padrões AAV"]
+authority: "Associação de Veterinários de Aves (AAV) & Padrões Comportamentais"
+steps:
+  - name: "Comunicação da Calopsita: O Que a Crista e a Cabeça Abaixada Revelam"
+    text: "A crista é uma antena emocional. Erguida verticalmente sinaliza alerta; a cabeça abaixada é um pedido explícito de carinho na nuca."
+  - name: "Calopsita (Cockatiel)'s Body Language & Signals"
+    text: "* Crista Totalmente Erguida (Fully Erect Crest): Alerta máximo ou curiosidade intensa diante de um novo som ou objeto no ambiente. (Fale com voz calma e evite aproximações bruscas com as mãos.)
+
+* Cabeça Abaixada e Pescoço Estendido (Head Lowering): Demonstração de profunda confiança pedindo carinho nas bochechas e nuca. (Coce suavemente as penas da bochecha e base da crista no sentido oposto às penas.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Manhã: Ventilação, Inspeção e Ração Extrusada Fresca: Descubra a gaiola, troque a água e a ração extrusada e observe a agilidade de voo.
+
+* STEP 2. Tarde: Voo Livre Seguro e Brinquedos de Forrageamento: Ofereça 1 - 2 horas de voo em ambiente seguro com brinquedos de busca de alimento.
+
+* STEP 3. Noite: Limpeza de Pó e Luz Noturna Anti-Susto: Limpe o pó de penas e mantenha uma luz noturna fraca acesa perto da gaiola."
 faqs:
   - question: "Como agir durante um episódio de pânico noturno (Night Fright)?"
     answer: "Acenda a luz imediatamente, acalme a ave com voz suave e verifique se há penas sangrando. Deixe sempre uma luz fraca acesa durante a noite."
@@ -30,50 +44,42 @@ Famosa pelas bochechas laranjas e crista graciosa, a Calopsita é uma ave inteli
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Calopsita (Cockatiel) Perfil principal
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">15 - 20 anos</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Padrão de sono</span><span class="font-bold text-slate-800 dark:text-slate-200">10 - 12 horas (Sono escuro e tranquilo obrigatório)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamento</span><span class="font-bold text-slate-800 dark:text-slate-200">Muito sociável, curiosa, melódica, sensível</span></div>
-  </div>
-</div>
+---
 
 ## 1. Comunicação da Calopsita: O Que a Crista e a Cabeça Abaixada Revelam
 
-A crista é uma antena emocional. Erguida verticalmente sinaliza alerta; a cabeça abaixada é um pedido explícito de carinho na nuca.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Crista Totalmente Erguida (Fully Erect Crest)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Comunicação da Calopsita: O Que a Crista e a Cabeça Abaixada Revelam</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Alerta máximo ou curiosidade intensa diante de um novo som ou objeto no ambiente.<br/>
-    <strong>• Ação correta:</strong> Fale com voz calma e evite aproximações bruscas com as mãos.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cabeça Abaixada e Pescoço Estendido (Head Lowering)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Demonstração de profunda confiança pedindo carinho nas bochechas e nuca.<br/>
-    <strong>• Ação correta:</strong> Coce suavemente as penas da bochecha e base da crista no sentido oposto às penas.
+    A crista é uma antena emocional. Erguida verticalmente sinaliza alerta; a cabeça abaixada é um pedido explícito de carinho na nuca.
   </p>
 </div>
 
 ---
 
-## 2. Rotina de cuidados diários personalizada
+## 2. Calopsita (Cockatiel)'s Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Crista Totalmente Erguida (Fully Erect Crest)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Significado:</strong> Alerta máximo ou curiosidade intensa diante de um novo som ou objeto no ambiente.<br/>
+    <strong>• Resposta:</strong> Fale com voz calma e evite aproximações bruscas com as mãos.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Ventilação, Inspeção e Ração Extrusada Fresca</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ A crista é uma antena emocional. Erguida verticalmente sinaliza alerta; a cabe�
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Voo Livre Seguro e Brinquedos de Forrageamento</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Ofereça 1 - 2 horas de voo em ambiente seguro com brinquedos de busca de alimento.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Limpeza de Pó e Luz Noturna Anti-Susto</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Limpe o pó de penas e mantenha uma luz noturna fraca acesa perto da gaiola.
-  </p>
-</div>
-
-## 3. Resumo e precauções
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

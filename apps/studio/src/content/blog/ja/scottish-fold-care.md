@@ -4,11 +4,25 @@ title: "愛らしさの裏に隠された遺伝病、スコティッシュフォ
 description: "折れ耳が愛らしいスコティッシュフォールド。しかし、生涯にわたり遺伝性の軟骨痛と耳の感染症リスクに晒されます。関節保護マットの設定と耳の衛生のための3段階ルーティンを紹介します。"
 pubDate: "2026-02-10"
 updatedDate: "2026-02-12"
+category: "FreshSelf"
+tags: ["ペットケア","ペット健康","スコティッシュフォールド"]
 heroImage: "/images/blog/scottish_fold_care.png"
-authority: "ISFM(国際猫医学会)遺伝性軟骨疾患ガイドライン＆GCCF犬種基準"
 app: "petself"
 formatVersion: 4
-tags: ["スコティッシュフォールド","骨軟骨異形成症","耳掃除","猫の関節"]
+authority: "ISFM(国際猫医学会)遺伝性軟骨疾患ガイドライン＆GCCF犬種基準"
+steps:
+  - name: "フォールドのボディランゲージ：ブッダポーズと尻尾を隠すしぐさ"
+    text: "スコティッシュフォールドは、遺伝的な関節痛に耐えるため、特有の姿勢をします。最も顕著なサインは「ブッダポーズ（お釈迦様座り）」と「尻尾を下げるしぐさ」です。腰を地面につけて背中を丸め、足を前に伸ばして座る姿勢は、可愛さのアピールではなく、脊椎や四肢にかかる体重の圧力を逃がして痛みを和らげるための姿勢です。また、尻尾を低く下げて後ろ足の間に隠す動作は、尻尾の軟骨痛が始まっている合図です。この時は腰周りや尻尾に触れるのを控えましょう。"
+  - name: "スコティッシュフォールド's Body Language & Signals"
+    text: "* ブッダポーズ (Buddha Position): 体重の負荷を分散させ、遺伝性軟骨疾患による関節痛を和らげようとする本能的な姿勢です。 (無理に体勢を変えようとせず、寄りかかっている背後に柔らかいクッションを置いてサポートしてください。)
+
+* 尻尾を下げるしぐさ (Tail Lowering): 尻尾の軟骨が硬直して痛みがあるため、触られるのを嫌がっている防衛シグナルです。 (尻尾や腰付近のタッチをすぐにやめ、リラックスできるクッションへ誘導してください。)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. 朝：歩き方の観察と関節・軟骨の栄養補給: 起床時の歩き方に異常がないか30秒間注意深く観察し、軟骨成分をサポートするサプリメント（グルコサミン、MSM）をフードに混ぜて与えます。
+
+* STEP 2. 昼：折れ耳内部の観察と週1回の耳掃除: 折れ耳の中は湿気がこもりやすいです。綿棒は使わず、専用クリーナーを数滴注入して耳の付け根をマッサージし、浮き出た汚れをコットンで優しく拭き取ります。
+
+* STEP 3. 夜：キャットタワー下の衝撃吸収マット設置と運動管理: キャットタワー等からの着地は、固まった軟骨に痛みを引き起こします。緩衝マットを動線に配置し、おもちゃで遊ぶ際もジャンプをさせない床上の低い位置で遊ばせます。"
 faqs:
   - question: "スコティッシュフォールドの「ブッダポーズ」は痛みのサインなのですか？"
     answer: "はい、その通りです。お尻をつけて足を前に伸ばす姿勢は、脚や四肢の関節にかかる体重の圧力を逃がし、骨軟骨炎による痛みを緩和するために本能的に行うポーズです。"
@@ -34,50 +48,42 @@ faqs:
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 スコティッシュフォールド コアプロフィール
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">平均寿命</span><span class="font-bold text-slate-800 dark:text-slate-200">11 ~ 15年</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">睡眠パターン</span><span class="font-bold text-slate-800 dark:text-slate-200">15 ~ 18時間（クッションマット推奨）</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">性格キーワード</span><span class="font-bold text-slate-800 dark:text-slate-200">のんびり、優しく、甘えん坊</span></div>
-  </div>
-</div>
+---
 
 ## 1. フォールドのボディランゲージ：ブッダポーズと尻尾を隠すしぐさ
 
-スコティッシュフォールドは、遺伝的な関節痛に耐えるため、特有の姿勢をします。最も顕著なサインは「ブッダポーズ（お釈迦様座り）」と「尻尾を下げるしぐさ」です。腰を地面につけて背中を丸め、足を前に伸ばして座る姿勢は、可愛さのアピールではなく、脊椎や四肢にかかる体重の圧力を逃がして痛みを和らげるための姿勢です。また、尻尾を低く下げて後ろ足の間に隠す動作は、尻尾の軟骨痛が始まっている合図です。この時は腰周りや尻尾に触れるのを控えましょう。
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ブッダポーズ (Buddha Position)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">フォールドのボディランゲージ：ブッダポーズと尻尾を隠すしぐさ</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 体重の負荷を分散させ、遺伝性軟骨疾患による関節痛を和らげようとする本能的な姿勢です。<br/>
-    <strong>• 正しい対処:</strong> 無理に体勢を変えようとせず、寄りかかっている背後に柔らかいクッションを置いてサポートしてください。
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">尻尾を下げるしぐさ (Tail Lowering)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 尻尾の軟骨が硬直して痛みがあるため、触られるのを嫌がっている防衛シグナルです。<br/>
-    <strong>• 正しい対処:</strong> 尻尾や腰付近のタッチをすぐにやめ、リラックスできるクッションへ誘導してください。
+    スコティッシュフォールドは、遺伝的な関節痛に耐えるため、特有の姿勢をします。最も顕著なサインは「ブッダポーズ（お釈迦様座り）」と「尻尾を下げるしぐさ」です。腰を地面につけて背中を丸め、足を前に伸ばして座る姿勢は、可愛さのアピールではなく、脊椎や四肢にかかる体重の圧力を逃がして痛みを和らげるための姿勢です。また、尻尾を低く下げて後ろ足の間に隠す動作は、尻尾の軟骨痛が始まっている合図です。この時は腰周りや尻尾に触れるのを控えましょう。
   </p>
 </div>
 
 ---
 
-## 2. カスタマイズされたホームケアルーティン
+## 2. スコティッシュフォールド's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">ボディシグナル 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ブッダポーズ (Buddha Position)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 意味:</strong> 体重の負荷を分散させ、遺伝性軟骨疾患による関節痛を和らげようとする本能的な姿勢です。<br/>
+    <strong>• 対処法:</strong> 無理に体勢を変えようとせず、寄りかかっている背後に柔らかいクッションを置いてサポートしてください。
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">朝：歩き方の観察と関節・軟骨の栄養補給</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -85,37 +91,16 @@ faqs:
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">昼：折れ耳内部の観察と週1回の耳掃除</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    折れ耳の中は湿気がこもりやすいです。綿棒は使わず、専用クリーナーを数滴注入して耳の付け根をマッサージし、浮き出た汚れをコットンで優しく拭き取ります。
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">夜：キャットタワー下の衝撃吸収マット設置と運動管理</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    キャットタワー等からの着地は、固まった軟骨に痛みを引き起こします。緩衝マットを動線に配置し、おもちゃで遊ぶ際もジャンプをさせない床上の低い位置で遊ばせます。
-  </p>
-</div>
-
-## 3. 要約と注意事項
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      ペットの合図（カーミングシグナル）を細かく観察するだけでも、ほとんどの行動問題やストレス性疾患を事前に予防できます。獣医学的な治療も重要ですが、家庭環境（滑り止めステップ、垂直空間の確保、新鮮な複数箇所での給水）を安全に管理することが、生涯の伴侶としての幸せを支える最も強力な盾となります。
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

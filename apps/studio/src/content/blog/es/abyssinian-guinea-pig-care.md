@@ -4,11 +4,25 @@ title: "Guía de vitamina C de la cobaya abisinia y rutina de 3 pasos para la sa
 description: "Cuidado de la cobaya abisinia de pelo con rosetas. Aprenda a cubrir sus necesidades de vitamina C y a mantener su jaula para proteger su respiración."
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
+category: "FreshSelf"
+tags: ["CuidadoMascotas","SaludMascotas","Cobaya Abisinia"]
 heroImage: "/images/blog/abyssinian_guinea_pig_care.png"
-authority: "Directrices de Cuidado de Roedores de la RSPCA y Estándares de Veterinarios de Animales Exóticos"
 app: "petself"
 formatVersion: 4
-tags: ["Cuidado de Cobayas","Vitamina C Cobaya","Salud Respiratoria","Mascotas Exóticas"]
+authority: "Directrices de Cuidado de Roedores de la RSPCA y Estándares de Veterinarios de Animales Exóticos"
+steps:
+  - name: "Comunicación de la cobaya: wheeking y popcorning"
+    text: "Las cobayas son animales muy expresivos. Emiten un chillido agudo llamado 'wheeking' cuando piden comida. Por otro lado, cuando están desbordantes de felicidad y se sienten seguras, dan saltos rápidos y repentinos en el aire, un comportamiento conocido como 'popcorning'."
+  - name: "Cobaya Abisinia's Body Language & Signals"
+    text: "* Wheeking (Chillido agudo): Llamada de emoción o demanda, sobre todo al escuchar comida o ver a su dueño acercarse. (Ofrézcale una pequeña porción de verdura fresca o suplemento y aproveche para ganarse su confianza.)
+
+* Popcorning (Saltos rápidos): Saltos repentinos en el aire que demuestran que la cobaya está sana, activa y muy contenta. (Compruebe que no haya objetos peligrosos en su recinto con los que pueda golpearse al saltar.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Mañana: Suplementación de vitamina C y heno Timothy: Déle el suplemento de vitamina C directamente en la boca (no en el agua). Rellene el comedero con heno fresco.
+
+* STEP 2. Tarde: Limpieza de la jaula y control de polvo: Retire el sustrato húmedo. Sacuda el heno antes de introducirlo para minimizar el polvo respirable.
+
+* STEP 3. Noche: Examen de salud y socialización: Revise que no tenga mucosidad en la nariz (síntoma de resfriado) y cepille sus rosetas de pelo. Dedíquele tiempo."
 faqs:
   - question: "¿Puedo darle naranja a mi cobaya para la vitamina C?"
     answer: "Las frutas cítricas tienen demasiado azúcar y acidez, lo que puede causar llagas en la boca. Es mejor usar pimiento verde o suplementos específicos para cobayas."
@@ -30,50 +44,42 @@ Las cobayas abisinias son queridas por sus rosetas de pelo y carácter enérgico
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Cobaya Abisinia Perfil principal
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil media</span><span class="font-bold text-slate-800 dark:text-slate-200">5 ~ 7 años</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Patrón de sueño</span><span class="font-bold text-slate-800 dark:text-slate-200">4 ~ 6 horas (polifásico: periodos cortos de actividad)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamento</span><span class="font-bold text-slate-800 dark:text-slate-200">Social, enérgica, vocal, curiosa, amistosa</span></div>
-  </div>
-</div>
+---
 
 ## 1. Comunicación de la cobaya: wheeking y popcorning
 
-Las cobayas son animales muy expresivos. Emiten un chillido agudo llamado 'wheeking' cuando piden comida. Por otro lado, cuando están desbordantes de felicidad y se sienten seguras, dan saltos rápidos y repentinos en el aire, un comportamiento conocido como 'popcorning'.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wheeking (Chillido agudo)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Comunicación de la cobaya: wheeking y popcorning</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Llamada de emoción o demanda, sobre todo al escuchar comida o ver a su dueño acercarse.<br/>
-    <strong>• Acción correcta:</strong> Ofrézcale una pequeña porción de verdura fresca o suplemento y aproveche para ganarse su confianza.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Popcorning (Saltos rápidos)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Saltos repentinos en el aire que demuestran que la cobaya está sana, activa y muy contenta.<br/>
-    <strong>• Acción correcta:</strong> Compruebe que no haya objetos peligrosos en su recinto con los que pueda golpearse al saltar.
+    Las cobayas son animales muy expresivos. Emiten un chillido agudo llamado 'wheeking' cuando piden comida. Por otro lado, cuando están desbordantes de felicidad y se sienten seguras, dan saltos rápidos y repentinos en el aire, un comportamiento conocido como 'popcorning'.
   </p>
 </div>
 
 ---
 
-## 2. Rutina de cuidado diario personalizada
+## 2. Cobaya Abisinia's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Señal Corporal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wheeking (Chillido agudo)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Significado:</strong> Llamada de emoción o demanda, sobre todo al escuchar comida o ver a su dueño acercarse.<br/>
+    <strong>• Respuesta:</strong> Ofrézcale una pequeña porción de verdura fresca o suplemento y aproveche para ganarse su confianza.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mañana: Suplementación de vitamina C y heno Timothy</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Las cobayas son animales muy expresivos. Emiten un chillido agudo llamado 'wheek
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Limpieza de la jaula y control de polvo</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Retire el sustrato húmedo. Sacuda el heno antes de introducirlo para minimizar el polvo respirable.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noche: Examen de salud y socialización</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Revise que no tenga mucosidad en la nariz (síntoma de resfriado) y cepille sus rosetas de pelo. Dedíquele tiempo.
-  </p>
-</div>
-
-## 3. Resumen y precauciones
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Embora o tratamento veterinário é importante, proporcionar um ambiente seguro (rampas, espaços verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -4,11 +4,25 @@ title: "アビシニアンギニアピッグのビタミンC管理と呼吸器�
 description: "つむじのある被毛が特徴のアビシニアンギニアピッグ。体内で合成できない必須ビタミンCの与え方と、デリケートな呼吸器を守る3ステップルーチンについて解説します。"
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
+category: "FreshSelf"
+tags: ["ペットケア","ペット健康","アビシニアンギニアピッグ (Abyssinian Guinea Pig)"]
 heroImage: "/images/blog/abyssinian_guinea_pig_care.png"
-authority: "英国王立動物虐待防止協会（RSPCA）げっ歯類飼育基準およびエキゾチック獣医学ガイドライン"
 app: "petself"
 formatVersion: 4
-tags: ["モルモット飼育","ビタミンCサプリ","呼吸器の健康","小動物ライフ"]
+authority: "英国王立動物虐待防止協会（RSPCA）げっ歯類飼育基準およびエキゾチック獣医学ガイドライン"
+steps:
+  - name: "モルモットの感情表現：プイプイ鳴きとポップコーニング"
+    text: "モルモットは声と体を使って感情を豊かに表現します。おやつをねだる時や飼い主に挨拶する時には、高音で「プイプイ（Wheeking）」と大きく鳴きます。また、安全を感じて最高に嬉しい状態の時には、突然その場でピョンピョンと跳ね上がる「ポップコーニング（Popcorning）」という独特なジャンプを見せます。"
+  - name: "アビシニアンギニアピッグ (Abyssinian Guinea Pig)'s Body Language & Signals"
+    text: "* プイプイ鳴き (Wheeking): 興奮や期待を示しており、おやつの袋の音に反応して「野菜をちょうだい」と要求している状態です。 (新鮮な野菜やビタミンCのおやつを与え、信頼関係を築くコミュニケーションの時間にします。)
+
+* ポップコーニング (Popcorning): 突然その場で跳ね上がったり体をひねったりする動作で、嬉しさと安心感が爆発しているサインです。 (跳ねた拍子にケージの角にぶつかって怪我をしないよう、安全なレイアウトにしておきます。)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. 朝：ビタミンCの補給と新鮮なチモシーの補充: 水に溶かすと分解されやすいため、サプリメントやビタミンCを豊富に含む生野菜を直接与えます。新鮮なチモシーを補充します。
+
+* STEP 2. 昼：ケージ内の部分掃除と牧草の粉塵除去: 尿で濡れた床材を部分的に交換します。補充するチモシーはあらかじめ外で軽く振って粉塵を落とし、呼吸器への刺激を減らします。
+
+* STEP 3. 夜：呼吸器のチェックとスキンシップ: 鼻水や目ヤニ（呼吸器感染症の初期症状）がないか確認し、巻き毛の奥の皮膚に異常がないか触って点検します。優しく撫でて交流します。"
 faqs:
   - question: "ビタミンC補給のためにオレンジなどの柑橘類を与えてもいいですか？"
     answer: "柑橘類は糖分と酸が強すぎるため、口内炎や消化不良の原因になります。パプリカなどビタミンCが多く糖分の少ない野菜を与えるか、小動物用のビタミンCサプリメントを与えるのが安全です。"
@@ -30,50 +44,42 @@ faqs:
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 アビシニアンギニアピッグ (Abyssinian Guinea Pig) コアプロフィール
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">平均寿命</span><span class="font-bold text-slate-800 dark:text-slate-200">5 〜 7年</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">睡眠パターン</span><span class="font-bold text-slate-800 dark:text-slate-200">4 〜 6時間 (多相性 - 1日を通して短い活動と睡眠を繰り返す)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">性格キーワード</span><span class="font-bold text-slate-800 dark:text-slate-200">社交的、活発、声が豊か、好奇心旺盛、人懐っこい</span></div>
-  </div>
-</div>
+---
 
 ## 1. モルモットの感情表現：プイプイ鳴きとポップコーニング
 
-モルモットは声と体を使って感情を豊かに表現します。おやつをねだる時や飼い主に挨拶する時には、高音で「プイプイ（Wheeking）」と大きく鳴きます。また、安全を感じて最高に嬉しい状態の時には、突然その場でピョンピョンと跳ね上がる「ポップコーニング（Popcorning）」という独特なジャンプを見せます。
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">プイプイ鳴き (Wheeking)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">モルモットの感情表現：プイプイ鳴きとポップコーニング</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 興奮や期待を示しており、おやつの袋の音に反応して「野菜をちょうだい」と要求している状態です。<br/>
-    <strong>• 正しい対処:</strong> 新鮮な野菜やビタミンCのおやつを与え、信頼関係を築くコミュニケーションの時間にします。
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ポップコーニング (Popcorning)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 突然その場で跳ね上がったり体をひねったりする動作で、嬉しさと安心感が爆発しているサインです。<br/>
-    <strong>• 正しい対処:</strong> 跳ねた拍子にケージの角にぶつかって怪我をしないよう、安全なレイアウトにしておきます。
+    モルモットは声と体を使って感情を豊かに表現します。おやつをねだる時や飼い主に挨拶する時には、高音で「プイプイ（Wheeking）」と大きく鳴きます。また、安全を感じて最高に嬉しい状態の時には、突然その場でピョンピョンと跳ね上がる「ポップコーニング（Popcorning）」という独特なジャンプを見せます。
   </p>
 </div>
 
 ---
 
-## 2. カスタマイズされたホームケアルーティン
+## 2. アビシニアンギニアピッグ (Abyssinian Guinea Pig)'s Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">ボディシグナル 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">プイプイ鳴き (Wheeking)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 意味:</strong> 興奮や期待を示しており、おやつの袋の音に反応して「野菜をちょうだい」と要求している状態です。<br/>
+    <strong>• 対処法:</strong> 新鮮な野菜やビタミンCのおやつを与え、信頼関係を築くコミュニケーションの時間にします。
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">朝：ビタミンCの補給と新鮮なチモシーの補充</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ faqs:
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">昼：ケージ内の部分掃除と牧草の粉塵除去</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    尿で濡れた床材を部分的に交換します。補充するチモシーはあらかじめ外で軽く振って粉塵を落とし、呼吸器への刺激を減らします。
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">夜：呼吸器のチェックとスキンシップ</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    鼻水や目ヤニ（呼吸器感染症の初期症状）がないか確認し、巻き毛の奥の皮膚に異常がないか触って点検します。優しく撫でて交流します。
-  </p>
-</div>
-
-## 3. 要約と注意事項
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      ペットの合図（カーミングシグナル）を細かく観察するだけでも、ほとんどの行動問題やストレス性疾患を事前に予防できます。獣医学的な治療も重要ですが、家庭環境（滑り止めステップ、垂直空間の確保、新鮮な複数箇所での給水）を安全に管理することが、生涯の伴侶としての幸せを支える最も強力な盾となります。
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

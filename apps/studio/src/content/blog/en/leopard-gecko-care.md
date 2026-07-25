@@ -4,11 +4,25 @@ title: "Leopard Gecko Tail Communication and 3-Step Care Routine for Safe Sheddi
 description: "Comprehensive care guide for Leopard Geckos. Learn to decode tail-waving defensive signals, manage humid hides for shedding, and structure ARAV thermal zones."
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
+category: "FreshSelf"
+tags: ["PetCare","PetHealth","Leopard Gecko"]
 heroImage: "/images/blog/leopard_gecko_care.png"
-authority: "Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines"
 app: "petself"
 formatVersion: 4
-tags: ["Leopard Gecko","Reptile Care","Shedding Guide","ARAV Standards","Terrarium Maintenance"]
+authority: "Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines"
+steps:
+  - name: "Leopard Gecko Body Language: Deciphering Tail Movements and Pre-Shedding Clues"
+    text: "A gecko's plump tail is both a vital fat reservoir and a primary communication instrument. Distinguishing between slow, defensive tail waving and joyful tail wiggles during feeding prevents unnecessary handling stress."
+  - name: "Leopard Gecko's Body Language & Signals"
+    text: "* Tail Elevated & Waved Slowly in S-Curves (Slow Tail Waving): A high-alert defensive posture indicating the gecko feels threatened or startled by a predator signal. (Immediately halt handling, withdraw your hand slowly, and allow the gecko to retreat into its shelter undisturbed.)
+
+* Skin Becoming Dull White & Eye Rubbing (Pre-Shedding Signal): The imminent onset of shedding (ecdysis); old keratin layers are loosening and require high humidity. (Generously mist moss or paper towels inside the humid hide with warm water to raise local humidity above 70%.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Morning: Thermal Gradient Inspection & Humid Hide Warm Misting: Verify under-tank heat mat temperatures (30°C ~ 32°C) and mist the humid hide substrate with warm water.
+
+* STEP 2. Afternoon: Daytime Quietness & Shielded Hide Darkness Maintenance: Avoid direct sunlight and loud environmental vibrations to ensure deep, undisturbed nocturnal rest during daylight hours.
+
+* STEP 3. Evening: Tongs Feeding with Dusted Live Insects & Spot Cleaning: Feed gut-loaded crickets or mealworms dusted with calcium (alternating D3 supplements) using tongs, and immediately remove waste from substrate."
 faqs:
   - question: "How should I safely handle stuck shed skin remaining on toe tips?"
     answer: "Retained toe shed can constrict blood circulation and lead to toe necrosis. Soak the feet in a shallow warm water bath (30°C) for 5 minutes, then roll off skin gently using a damp cotton swab."
@@ -30,50 +44,42 @@ With their smiling expressions and distinctive spotted tails, Leopard Geckos are
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Leopard Gecko Core Profile
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Lifespan</span><span class="font-bold text-slate-800 dark:text-slate-200">15 - 20 Years</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Sleep Pattern</span><span class="font-bold text-slate-800 dark:text-slate-200">12 - 14 Hours (Nocturnal Desert Hide Sleep)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperament</span><span class="font-bold text-slate-800 dark:text-slate-200">Docile, Calm, Solitary, Sensitive to Environment</span></div>
-  </div>
-</div>
+---
 
 ## 1. Leopard Gecko Body Language: Deciphering Tail Movements and Pre-Shedding Clues
 
-A gecko's plump tail is both a vital fat reservoir and a primary communication instrument. Distinguishing between slow, defensive tail waving and joyful tail wiggles during feeding prevents unnecessary handling stress.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tail Elevated & Waved Slowly in S-Curves (Slow Tail Waving)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Leopard Gecko Body Language: Deciphering Tail Movements and Pre-Shedding Clues</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Meaning:</strong> A high-alert defensive posture indicating the gecko feels threatened or startled by a predator signal.<br/>
-    <strong>• Correct Action:</strong> Immediately halt handling, withdraw your hand slowly, and allow the gecko to retreat into its shelter undisturbed.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Skin Becoming Dull White & Eye Rubbing (Pre-Shedding Signal)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Meaning:</strong> The imminent onset of shedding (ecdysis); old keratin layers are loosening and require high humidity.<br/>
-    <strong>• Correct Action:</strong> Generously mist moss or paper towels inside the humid hide with warm water to raise local humidity above 70%.
+    A gecko's plump tail is both a vital fat reservoir and a primary communication instrument. Distinguishing between slow, defensive tail waving and joyful tail wiggles during feeding prevents unnecessary handling stress.
   </p>
 </div>
 
 ---
 
-## 2. Custom Daily Care Routine
+## 2. Leopard Gecko's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Body Signal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tail Elevated & Waved Slowly in S-Curves (Slow Tail Waving)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Meaning:</strong> A high-alert defensive posture indicating the gecko feels threatened or startled by a predator signal.<br/>
+    <strong>• Response:</strong> Immediately halt handling, withdraw your hand slowly, and allow the gecko to retreat into its shelter undisturbed.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morning: Thermal Gradient Inspection & Humid Hide Warm Misting</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ A gecko's plump tail is both a vital fat reservoir and a primary communication i
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Afternoon: Daytime Quietness & Shielded Hide Darkness Maintenance</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Avoid direct sunlight and loud environmental vibrations to ensure deep, undisturbed nocturnal rest during daylight hours.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Evening: Tongs Feeding with Dusted Live Insects & Spot Cleaning</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Feed gut-loaded crickets or mealworms dusted with calcium (alternating D3 supplements) using tongs, and immediately remove waste from substrate.
-  </p>
-</div>
-
-## 3. Summary and Precautions
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Simply observing your pet's calming signals can prevent major behavioral issues and stress-induced illnesses. While veterinary treatment is important, providing a safe environment (steps, vertical spaces, multiple water sources) is the strongest shield supporting their lifetime happiness.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

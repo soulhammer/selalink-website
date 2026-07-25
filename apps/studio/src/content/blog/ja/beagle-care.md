@@ -4,11 +4,25 @@ title: "ビーグルの活発なエネルギーケア：分離不安緩和と耳
 description: "狩猟犬の血を引くビーグルは好奇心と運動量が活発です。エネルギーを消費して分離不安を克服し、垂れ耳の衛生を保つ3段階ルーティンを紹介します。"
 pubDate: "2026-02-28"
 updatedDate: "2026-03-01"
+category: "FreshSelf"
+tags: ["ペットケア","ペット健康","ビーグル"]
 heroImage: "/images/blog/beagle_care.png"
-authority: "AKCビーグルガイド＆IAABCノーズワーク行動プロトコル"
 app: "petself"
 formatVersion: 4
-tags: ["ビーグル","分離不安","遠吠え","耳の健康"]
+authority: "AKCビーグルガイド＆IAABCノーズワーク行動プロトコル"
+steps:
+  - name: "ビーグルのボディランゲージ：追跡本能と遠吠えの意味"
+    text: "ビーグルは嗅覚に集中する際、「追跡行動（Tracking）」を行い、周りの音を聞かなくなります。これは本能的な刺激解消のプロセスです。一方、留守中や孤独を感じる時の「遠吠え（Howling）」は、分離不安とストレスの表現です。これらを理解することが健康の秘訣です。"
+  - name: "ビーグル's Body Language & Signals"
+    text: "* 追跡行動 (Tracking): 周囲のにおいを通じて世界を探索し、狩猟本能を解消している正常な興奮状態です。 (散歩中に無理にリードを引っ張らず、においを十分に嗅ぎ探索するのを温かく見守ってください。)
+
+* 遠吠え (Howling): 孤独や退屈、エネルギーが解消されないことによる不安と、気を引くための自己表現です. (遠吠えをした時に怒るのではなく、室内のノーズワークやお散歩を通じてエネルギーを解消してあげてください。)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. 朝：室内のおやつ隠しノーズワーク遊び: 朝食後、ビーグルの嗅覚を満たすために部屋のあちこちにフードやおやつを隠して探させ、本能を満たします。
+
+* STEP 2. 昼：40分以上の十分な屋外におい探索散歩: エネルギー発散のために毎日40分以上外へ連れ出し、においを追う行動を制限せずに自由に嗅がせてあげます.
+
+* STEP 3. 夜：垂れ耳の通気性の確保と週2回の耳掃除: 耳が垂れて中が湿りやすいため、夜は耳を軽くめくって換気し、週2回専用のクリーナーで優しく掃除します。"
 faqs:
   - question: "ビーグルの遠吠えを防ぐにはどうすればいいですか？"
     answer: "遠吠えは主に孤独による不安と、エネルギー過多から発生します. 散歩とノーズワークの時間を増やし、適度な疲労感と安心感を与えることが根本的な解決策です."
@@ -30,50 +44,42 @@ faqs:
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 ビーグル コアプロフィール
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">平均寿命</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15年</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">睡眠パターン</span><span class="font-bold text-slate-800 dark:text-slate-200">10 ~ 12時間（屋外の活動と同調）</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">性格キーワード</span><span class="font-bold text-slate-800 dark:text-slate-200">フレンドリー、好奇心旺盛、頑固、甘えん坊</span></div>
-  </div>
-</div>
+---
 
 ## 1. ビーグルのボディランゲージ：追跡本能と遠吠えの意味
 
-ビーグルは嗅覚に集中する際、「追跡行動（Tracking）」を行い、周りの音を聞かなくなります。これは本能的な刺激解消のプロセスです。一方、留守中や孤独を感じる時の「遠吠え（Howling）」は、分離不安とストレスの表現です。これらを理解することが健康の秘訣です。
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">追跡行動 (Tracking)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ビーグルのボディランゲージ：追跡本能と遠吠えの意味</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 周囲のにおいを通じて世界を探索し、狩猟本能を解消している正常な興奮状態です。<br/>
-    <strong>• 正しい対処:</strong> 散歩中に無理にリードを引っ張らず、においを十分に嗅ぎ探索するのを温かく見守ってください。
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">遠吠え (Howling)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 孤独や退屈、エネルギーが解消されないことによる不安と、気を引くための自己表現です.<br/>
-    <strong>• 正しい対処:</strong> 遠吠えをした時に怒るのではなく、室内のノーズワークやお散歩を通じてエネルギーを解消してあげてください。
+    ビーグルは嗅覚に集中する際、「追跡行動（Tracking）」を行い、周りの音を聞かなくなります。これは本能的な刺激解消のプロセスです。一方、留守中や孤独を感じる時の「遠吠え（Howling）」は、分離不安とストレスの表現です。これらを理解することが健康の秘訣です。
   </p>
 </div>
 
 ---
 
-## 2. カスタマイズされたホームケアルーティン
+## 2. ビーグル's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">ボディシグナル 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">追跡行動 (Tracking)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 意味:</strong> 周囲のにおいを通じて世界を探索し、狩猟本能を解消している正常な興奮状態です。<br/>
+    <strong>• 対処法:</strong> 散歩中に無理にリードを引っ張らず、においを十分に嗅ぎ探索するのを温かく見守ってください。
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">朝：室内のおやつ隠しノーズワーク遊び</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ faqs:
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">昼：40分以上の十分な屋外におい探索散歩</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    エネルギー発散のために毎日40分以上外へ連れ出し、においを追う行動を制限せずに自由に嗅がせてあげます.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">夜：垂れ耳の通気性の確保と週2回の耳掃除</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    耳が垂れて中が湿りやすいため、夜は耳を軽くめくって換気し、週2回専用のクリーナーで優しく掃除します。
-  </p>
-</div>
-
-## 3. 要約と注意事項
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      ペットの合図（カーミングシグナル）を細かく観察するだけでも、ほとんどの行動問題やストレス性疾患を事前に予防できます。獣医学的な治療も重要ですが、家庭環境（滑り止めステップ、垂直空間の確保、新鮮な複数箇所での給水）を安全に管理することが、生涯の伴侶としての幸せを支える最も強力な盾となります。
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

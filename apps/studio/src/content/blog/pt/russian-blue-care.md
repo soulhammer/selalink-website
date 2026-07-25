@@ -4,11 +4,25 @@ title: "Refúgio seguro e geração de confiança: rotina de 3 passos para o Azu
 description: "Os Azuis Rusos são tímidos e sensíveis ao ruído. Aprenda a criar uma zona segura sem estresse e uma rotina de 3 passos para ganhar sua confiança."
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
+category: "FreshSelf"
+tags: ["CuidadoPets","SaudePets","Azul Russo"]
 heroImage: "/images/blog/russian_blue_care.png"
-authority: "Guia de raças da Cat Fanciers' Association (CFA) e Cornell Feline Health Center"
 app: "petself"
 formatVersion: 4
-tags: ["Azul Russo","Temperamento Tímido","Esconderijos Seguros","Cuidado de Cães"]
+authority: "Guia de raças da Cat Fanciers' Association (CFA) e Cornell Feline Health Center"
+steps:
+  - name: "Linguagem corporal do Azul Russo: leitura dos sinais de pânico"
+    text: "Devido à sua natureza gentil, os Azuis Rusos mostram sinais de alerta em silêncio. Os sinais de pânico principais incluem 'pupilas dilatadas' e 'encolher-se' (crouching). Se houver um ruído ou aproximação de estranho, suas pupilas se dilatam. Se achatar o corpo contra o chão e deitar as orelhas para os lados, está com medo extremo."
+  - name: "Azul Russo's Body Language & Signals"
+    text: "* Pupilas dilatadas: Uma resposta física que indica que estão muito alertas, tensos ou assustados. (Diminua as luzes e interrompa imediatamente a fonte de estimulação (ruído de eletrodomésticos).)
+
+* Encolher-se: Um sinal de pânico defensivo, mostrando que se sentem encurralados ou aterrorizados. (Não o force ao contato físico. Permita-lhe retirar-se para um quarto ou armário silencioso.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Manhã: Rotina de segurança no caixote de areia e comedouro: Limpe o caixote de areia cedo. Certifique-se de que os pratos de comida e água estejam em um canto silencioso longe da passagem.
+
+* STEP 2. Tarde: Manutenção do refúgio seguro em locais altos: Confirme que a cabana fechada do arranhador esteja sempre acessível. Isso lhe dá um refúgio elevado diante de ruídos ou visitas.
+
+* STEP 3. Noite: Cheiro de mão não intrusivo e contato suave: Em vez de se aproximar diretamente para pegá-lo, estenda seu dedo indicador ao nível dele. Deixe-o cheirar sua mão primeiro para iniciar o contato."
 faqs:
   - question: "Devo tirar o meu Azul Russo do esconderijo quando as visitas chegarem?"
     answer: "De forma alguma. Forçá-lo a sair da zona de segurança causará pânico e prejudicará a confiança dele em você. Deixe-o escondido até que as visitas vão embora."
@@ -30,50 +44,42 @@ Os Azuis Rusos são felinos conhecidos por sua pelagem azul prateada e olhos ver
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Azul Russo Perfil principal
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">15 ~ 20 anos</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Padrão de sono</span><span class="font-bold text-slate-800 dark:text-slate-200">15 ~ 18 horas (busca esconderijos silenciosos e altos)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamento</span><span class="font-bold text-slate-800 dark:text-slate-200">Reservado, Gentil, Muito Silencioso</span></div>
-  </div>
-</div>
+---
 
 ## 1. Linguagem corporal do Azul Russo: leitura dos sinais de pânico
 
-Devido à sua natureza gentil, os Azuis Rusos mostram sinais de alerta em silêncio. Os sinais de pânico principais incluem 'pupilas dilatadas' e 'encolher-se' (crouching). Se houver um ruído ou aproximação de estranho, suas pupilas se dilatam. Se achatar o corpo contra o chão e deitar as orelhas para os lados, está com medo extremo.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pupilas dilatadas</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Linguagem corporal do Azul Russo: leitura dos sinais de pânico</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Uma resposta física que indica que estão muito alertas, tensos ou assustados.<br/>
-    <strong>• Ação correta:</strong> Diminua as luzes e interrompa imediatamente a fonte de estimulação (ruído de eletrodomésticos).
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Encolher-se</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Um sinal de pânico defensivo, mostrando que se sentem encurralados ou aterrorizados.<br/>
-    <strong>• Ação correta:</strong> Não o force ao contato físico. Permita-lhe retirar-se para um quarto ou armário silencioso.
+    Devido à sua natureza gentil, os Azuis Rusos mostram sinais de alerta em silêncio. Os sinais de pânico principais incluem 'pupilas dilatadas' e 'encolher-se' (crouching). Se houver um ruído ou aproximação de estranho, suas pupilas se dilatam. Se achatar o corpo contra o chão e deitar as orelhas para os lados, está com medo extremo.
   </p>
 </div>
 
 ---
 
-## 2. Rotina de cuidados diários personalizada
+## 2. Azul Russo's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pupilas dilatadas</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Significado:</strong> Uma resposta física que indica que estão muito alertas, tensos ou assustados.<br/>
+    <strong>• Resposta:</strong> Diminua as luzes e interrompa imediatamente a fonte de estimulação (ruído de eletrodomésticos).
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Rotina de segurança no caixote de areia e comedouro</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Devido à sua natureza gentil, os Azuis Rusos mostram sinais de alerta em silên
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Manutenção do refúgio seguro em locais altos</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Confirme que a cabana fechada do arranhador esteja sempre acessível. Isso lhe dá um refúgio elevado diante de ruídos ou visitas.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Cheiro de mão não intrusivo e contato suave</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Em vez de se aproximar diretamente para pegá-lo, estenda seu dedo indicador ao nível dele. Deixe-o cheirar sua mão primeiro para iniciar o contato.
-  </p>
-</div>
-
-## 3. Resumo e precauções
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

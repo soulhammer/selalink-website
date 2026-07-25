@@ -4,11 +4,25 @@ title: "Raksasa yang Lembut Maine Coon: Perawatan 3 Langkah Kesehatan Jantung da
 description: "Raksasa yang lembut Maine Coon. Temukan langkah aman untuk mengelola tekanan sendi akibat berat tubuh besar dan rutinitas 3 langkah untuk kesehatan jantung dan bulu ganda."
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
+category: "FreshSelf"
+tags: ["PerawatanHewan","KesehatanHewan","Maine Coon"]
 heroImage: "/images/blog/maine_coon_care.png"
-authority: "Panduan Resmi Maine Coon Breeders & Fanciers Association (MCBFA) & Protokol Manajemen Kucing Besar AAFP"
 app: "petself"
 formatVersion: 4
-tags: ["Maine Coon","Kucing Raksasa","Pencegahan HCM","Bulu Ganda"]
+authority: "Panduan Resmi Maine Coon Breeders & Fanciers Association (MCBFA) & Protokol Manajemen Kucing Besar AAFP"
+steps:
+  - name: "Bahasa Tubuh Maine Coon: Kicauan Ramah dan Ekor Mengembang Waspada"
+    text: "Maine Coon sangat sosial dan ingin berkomunikasi. Sinyal utama meliputi 'kicauan (trilling)' and 'ekor mengembang'. Kicauan lembut saat mendekat adalah sapaan ramah. Sebaliknya, saat terkejut oleh suara keras, ekor lebat mereka mengembang seperti sikat botol. Berikan mereka waktu tenang."
+  - name: "Maine Coon's Body Language & Signals"
+    text: "* Kicauan (Trilling): Vokalisasi ramah yang menunjukkan kepercayaan dan kasih sayang, meminta perhatian. (Balas dengan nada lembut atau berikan elusan ringan untuk membalas kasih sayang.)
+
+* Ekor Mengembang: Respons takut terhadap stresor visual atau suara mendadak, menunjukkan kewaspadaan tinggi. (Identifikasi dan hilangkan stresor. Jangan paksa kontak fisik; biarkan mereka tenang sendiri.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Pagi: Pengukuran Makanan Ketat untuk Kontrol Berat dan Pencegahan HCM: HCM Maine Coon diperburuk oleh obesitas. Timbang makanan mereka setiap hari untuk kontrol kalori, dan periksa pasokan air.
+
+* STEP 2. Siang: Perawatan Bulu dengan Sisir Besi dan Sikat Slicker: Bulu leher dan ketiak yang tebal mudah kusut, menyebabkan dermatitis. Sisir dalam dengan sisir besi untuk mengurai bulu halus.
+
+* STEP 3. Malam: Pemeriksaan Matras Penyerap Benturan dan Pemantauan Jantung: Berat badan besar meningkatkan dampak pendaratan. Periksa matras di bawah tempat bertengger. Pantau laju pernapasan saat tidur (di bawah 30 napas per menit)."
 faqs:
   - question: "Bagaimana saya harus mengelola risiko tinggi HCM pada Maine Coon?"
     answer: "Pemeriksaan ekokardiogram rutin sangat penting. Di rumah, cegah obesitas melalui kontrol porsi makanan. Jika laju pernapasan tidur melebihi 30 napas per menit, segera periksakan ke dokter."
@@ -34,50 +48,42 @@ Hari ini, PetSelf menguraikan bahasa tubuh Maine Coon dan menjelaskan rutinitas 
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Maine Coon Profil Utama
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Rata-rata Umur</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 tahun</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Pola Tidur</span><span class="font-bold text-slate-800 dark:text-slate-200">14 ~ 16 jam (menyukai ruang terbuka yang luas)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamen</span><span class="font-bold text-slate-800 dark:text-slate-200">Lembut, Sangat Ingin Tahu, Menyukai Air</span></div>
-  </div>
-</div>
+---
 
 ## 1. Bahasa Tubuh Maine Coon: Kicauan Ramah dan Ekor Mengembang Waspada
 
-Maine Coon sangat sosial dan ingin berkomunikasi. Sinyal utama meliputi 'kicauan (trilling)' and 'ekor mengembang'. Kicauan lembut saat mendekat adalah sapaan ramah. Sebaliknya, saat terkejut oleh suara keras, ekor lebat mereka mengembang seperti sikat botol. Berikan mereka waktu tenang.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Kicauan (Trilling)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bahasa Tubuh Maine Coon: Kicauan Ramah dan Ekor Mengembang Waspada</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Vokalisasi ramah yang menunjukkan kepercayaan dan kasih sayang, meminta perhatian.<br/>
-    <strong>• Tindakan yang Benar:</strong> Balas dengan nada lembut atau berikan elusan ringan untuk membalas kasih sayang.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ekor Mengembang</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Respons takut terhadap stresor visual atau suara mendadak, menunjukkan kewaspadaan tinggi.<br/>
-    <strong>• Tindakan yang Benar:</strong> Identifikasi dan hilangkan stresor. Jangan paksa kontak fisik; biarkan mereka tenang sendiri.
+    Maine Coon sangat sosial dan ingin berkomunikasi. Sinyal utama meliputi 'kicauan (trilling)' and 'ekor mengembang'. Kicauan lembut saat mendekat adalah sapaan ramah. Sebaliknya, saat terkejut oleh suara keras, ekor lebat mereka mengembang seperti sikat botol. Berikan mereka waktu tenang.
   </p>
 </div>
 
 ---
 
-## 2. Rutinitas Perawatan Harian Kustom
+## 2. Maine Coon's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Kicauan (Trilling)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Arti:</strong> Vokalisasi ramah yang menunjukkan kepercayaan dan kasih sayang, meminta perhatian.<br/>
+    <strong>• Tindakan:</strong> Balas dengan nada lembut atau berikan elusan ringan untuk membalas kasih sayang.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Pengukuran Makanan Ketat untuk Kontrol Berat dan Pencegahan HCM</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -85,37 +91,16 @@ Maine Coon sangat sosial dan ingin berkomunikasi. Sinyal utama meliputi 'kicauan
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Perawatan Bulu dengan Sisir Besi dan Sikat Slicker</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Bulu leher dan ketiak yang tebal mudah kusut, menyebabkan dermatitis. Sisir dalam dengan sisir besi untuk mengurai bulu halus.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Pemeriksaan Matras Penyerap Benturan dan Pemantauan Jantung</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Berat badan besar meningkatkan dampak pendaratan. Periksa matras di bawah tempat bertengger. Pantau laju pernapasan saat tidur (di bawah 30 napas per menit).
-  </p>
-</div>
-
-## 3. Ringkasan dan Tindakan Pencegahan
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

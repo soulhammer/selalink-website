@@ -4,11 +4,25 @@ title: "닥스훈트 허리 보호 가이드와 코어 근육 강화 3단계 루
 description: "허리가 길고 다리가 짧은 닥스훈트 케어법. 척추 이상 신호를 감지하고 3단계 일상 루틴으로 관절과 디스크를 보호하는 법을 알아봅니다."
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
+category: "FreshSelf"
+tags: ["반려동물","펫케어","닥스훈트 (Dachshund)"]
 heroImage: "/images/blog/dachshund_care.png"
-authority: "미국 캔넬 클럽(AKC) 닥스훈트 건강 가이드 및 수의학 척추 연합 권고사항"
 app: "petself"
 formatVersion: 4
-tags: ["닥스훈트케어","허리디스크예방","강아지척추건강","애견경사로"]
+authority: "미국 캔넬 클럽(AKC) 닥스훈트 건강 가이드 및 수의학 척추 연합 권고사항"
+steps:
+  - name: "닥스훈트 척추 경고 신호: 서 있기와 몸 늘이기"
+    text: "닥스훈트는 척추에 무리가 가거나 통증이 있을 때 미묘한 몸짓으로 표현합니다. 흔히 귀엽다고 생각하는 두 발로 서는 '구걸 자세'는 요추에 엄청난 하중을 싣는 위험한 신호입니다. 또한 등을 둥글게 굽히거나 목을 길게 늘이는 자세는 디스크 초기 통증의 징후일 수 있으므로 빠른 대처가 필요합니다."
+  - name: "닥스훈트 (Dachshund)의 몸짓 언어와 바디 시그널"
+    text: "* 두 발로 서기 (구걸 자세): 허리 척추에 강한 압박을 가하는 자세로, 주로 간식 요구나 보호자 주의를 끌기 위해 행합니다. (해당 자세를 취하지 못하도록 즉시 부드럽게 제지하고, 가구 옆에 전용 경사로를 설치해 점프를 방지합니다.)
+
+* 등을 굽히고 목 늘이기: 척추 통증이나 디스크 초기 신경 압박으로 인해 몸을 웅크리고 통증을 참는 자세입니다. (움직임을 즉시 제한하고, 안아 올릴 때 가슴과 엉덩이를 동시에 받쳐 척추 수평을 유지한 후 병원을 찾습니다.)"
+  - name: "닥스훈트 (Dachshund) 맞춤형 3단계 홈케어 루틴"
+    text: "* STEP 1. 아침: 아침 관절 상태 점검 및 가벼운 마사지: 본격적인 활동 전 걸음걸이의 뻣뻣함을 확인하고, 척추 라인을 따라 가볍게 마사지하여 통증 반응을 확인합니다.
+
+* STEP 2. 낮: 척추 안전 생활 환경 점검 및 수평 유지: 침대나 소파 옆의 반려견용 경사로 각도와 미끄럼 방지 상태를 점검하고, 계단 진입로에 안전문을 설치해 계단 이용을 차단합니다.
+
+* STEP 3. 저녁: 코어 근육 강화를 위한 평지 산책 및 체중 관리: 허리를 받쳐줄 복근 강화를 위해 경사지 대신 평평한 잔디밭을 천천히 산책하고, 디스크 예방을 위해 식사량을 정밀하게 조절하여 비만을 예방합니다."
 faqs:
   - question: "닥스훈트가 계단을 오르내려도 되나요?"
     answer: "짧은 다리와 긴 허리 구조상 계단 이동은 척추에 반복적이고 강한 충격을 줍니다. 안전문으로 계단 출입을 막고 이동 시에는 직접 안아 올려주는 것이 좋습니다."
@@ -30,50 +44,42 @@ faqs:
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 닥스훈트 (Dachshund) 핵심 프로필 (Profile)
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">평균 수명</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 16년</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">수면 패턴</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 14시간 (주간 활동성)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">성격 키워드</span><span class="font-bold text-slate-800 dark:text-slate-200">장난스러움, 영리함, 헌신적임, 활발함, 용맹함</span></div>
-  </div>
-</div>
+---
 
 ## 1. 닥스훈트 척추 경고 신호: 서 있기와 몸 늘이기
 
-닥스훈트는 척추에 무리가 가거나 통증이 있을 때 미묘한 몸짓으로 표현합니다. 흔히 귀엽다고 생각하는 두 발로 서는 '구걸 자세'는 요추에 엄청난 하중을 싣는 위험한 신호입니다. 또한 등을 둥글게 굽히거나 목을 길게 늘이는 자세는 디스크 초기 통증의 징후일 수 있으므로 빠른 대처가 필요합니다.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">두 발로 서기 (구걸 자세)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">닥스훈트 척추 경고 신호: 서 있기와 몸 늘이기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 의미:</strong> 허리 척추에 강한 압박을 가하는 자세로, 주로 간식 요구나 보호자 주의를 끌기 위해 행합니다.<br/>
-    <strong>• 올바른 대처:</strong> 해당 자세를 취하지 못하도록 즉시 부드럽게 제지하고, 가구 옆에 전용 경사로를 설치해 점프를 방지합니다.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">등을 굽히고 목 늘이기</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 의미:</strong> 척추 통증이나 디스크 초기 신경 압박으로 인해 몸을 웅크리고 통증을 참는 자세입니다.<br/>
-    <strong>• 올바른 대처:</strong> 움직임을 즉시 제한하고, 안아 올릴 때 가슴과 엉덩이를 동시에 받쳐 척추 수평을 유지한 후 병원을 찾습니다.
+    닥스훈트는 척추에 무리가 가거나 통증이 있을 때 미묘한 몸짓으로 표현합니다. 흔히 귀엽다고 생각하는 두 발로 서는 '구걸 자세'는 요추에 엄청난 하중을 싣는 위험한 신호입니다. 또한 등을 둥글게 굽히거나 목을 길게 늘이는 자세는 디스크 초기 통증의 징후일 수 있으므로 빠른 대처가 필요합니다.
   </p>
 </div>
 
 ---
 
-## 2. 맞춤형 홈케어 루틴
+## 2. 닥스훈트 (Dachshund)의 몸짓 언어와 바디 시그널
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">바디 시그널 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">두 발로 서기 (구걸 자세)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 의미:</strong> 허리 척추에 강한 압박을 가하는 자세로, 주로 간식 요구나 보호자 주의를 끌기 위해 행합니다.<br/>
+    <strong>• 대처법:</strong> 해당 자세를 취하지 못하도록 즉시 부드럽게 제지하고, 가구 옆에 전용 경사로를 설치해 점프를 방지합니다.
+  </p>
+</div>
+
+---
+
+## 3. 닥스훈트 (Dachshund) 맞춤형 3단계 홈케어 루틴
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아침: 아침 관절 상태 점검 및 가벼운 마사지</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ faqs:
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">낮: 척추 안전 생활 환경 점검 및 수평 유지</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    침대나 소파 옆의 반려견용 경사로 각도와 미끄럼 방지 상태를 점검하고, 계단 진입로에 안전문을 설치해 계단 이용을 차단합니다.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">저녁: 코어 근육 강화를 위한 평지 산책 및 체중 관리</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    허리를 받쳐줄 복근 강화를 위해 경사지 대신 평평한 잔디밭을 천천히 산책하고, 디스크 예방을 위해 식사량을 정밀하게 조절하여 비만을 예방합니다.
-  </p>
-</div>
-
-## 3. 요약 및 주의사항
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      반려동물의 언어(카밍 시그널)를 세심하게 관찰하는 것만으로도 대부분의 행동 발달 및 스트레스성 질환을 사전에 예방할 수 있습니다. 수의학적 치료도 중요하지만, 집안 환경(안전 발판, 수직 공간 확보, 신선한 다각적 물 공급)을 안전하게 관리하는 것이 평생 동반자로서의 행복을 지탱하는 가장 강력한 보호막입니다.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

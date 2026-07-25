@@ -37,7 +37,8 @@ export function renderStepCard(lang, stepIdx, name, text, imageHtml = '') {
 
 // 3. 위인 습관 정보 전용 근거 박스 (인디고 테마)
 export function renderEvidenceBox(lang, authority, domain) {
-  const title = labels.evidenceTitle[domain]?.[lang] || labels.evidenceTitle[domain]?.['en'] || "";
+  const domainKey = (domain === 'petself' || domain === 'pet') ? 'pet' : domain;
+  const title = labels.evidenceTitle[domainKey]?.[lang] || labels.evidenceTitle[domainKey]?.['en'] || "";
   const pattern = labels.evidenceDescPattern[lang] || labels.evidenceDescPattern['en'] || "";
   const desc = pattern.replace('$1', authority);
   
@@ -46,7 +47,7 @@ export function renderEvidenceBox(lang, authority, domain) {
   let titleColorClass = "text-indigo-800 dark:text-indigo-300";
   let descColorClass = "text-indigo-700/80 dark:text-indigo-400/80";
 
-  if (domain === 'pet' || domain === 'ingredients') {
+  if (domainKey === 'pet' || domainKey === 'ingredients') {
     boxColorClass = "border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10";
     titleColorClass = "text-emerald-800 dark:text-emerald-300";
     descColorClass = "text-emerald-700/80 dark:text-emerald-400/80";

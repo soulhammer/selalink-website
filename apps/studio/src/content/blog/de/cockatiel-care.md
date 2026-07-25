@@ -4,11 +4,25 @@ title: "Nymphensittich-Haubensignale und 3-Schritte-Routine gegen nächtliche Pa
 description: "Pflegeanleitung für Nymphensittiche. Haubensprache verstehen, Night Frights vermeiden und eine 3-Schritte-Routine nach AAV-Standards etablieren."
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
+category: "FreshSelf"
+tags: ["Haustierpflege","Haustiergesundheit","Nymphensittich (Cockatiel)"]
 heroImage: "/images/blog/cockatiel_care.png"
-authority: "Association of Avian Veterinarians (AAV) & Verhaltensempfehlungen"
 app: "petself"
 formatVersion: 4
-tags: ["Nymphensittich","Vogelpflege","Night Fright","Vogelverhalten","AAV-Standards"]
+authority: "Association of Avian Veterinarians (AAV) & Verhaltensempfehlungen"
+steps:
+  - name: "Kommunikation des Nymphensittichs: Die Sprache der Haube"
+    text: "Die Haube verrät die Stimmung des Vogels. Steht sie steil aufgerichtet, ist er wachsam; neigt er den Kopf, fordert er Kraulneinheiten ein."
+  - name: "Nymphensittich (Cockatiel)'s Body Language & Signals"
+    text: "* Steil Aufgerichtete Haube (Fully Erect Crest): Hohe Aufmerksamkeit, Neugier oder Skepsis gegenüber neuen Reizen im Raum. (Ruhig sprechen und keine hastigen Bewegungen machen, bis sich der Vogel beruhigt hat.)
+
+* Gesenkter Kopf und Vorgebeugter Nacken (Head Lowering): Großes Vertrauen und die Bitte um Kraulen an den Wangen und am Hinterkopf. (Sanft entgegen der Federrichtung an den Wangenfedern kraulen.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Morgen: Lüften, Gefiedercheck und Frisches Pelletergänzungsfutter: Käfig abdecken, frisches Wasser und Pellets anbieten sowie das Flugverhalten beobachten.
+
+* STEP 2. Nachmittag: Gesicherter Freiflug und Beschäftigungsspielzeug: 1 - 2 Stunden Freiflug im gesicherten Raum ermöglichen und Futtersuch-Spielzeug bereitstellen.
+
+* STEP 3. Abend: Gefiederstaub entfernen und Nachtlicht aktivieren: Staub wischen und ein schwaches Nachtlicht brennen lassen, um Panikattacken zu verhindern."
 faqs:
   - question: "Was tun bei nächtlichen Panikattacken (Night Frights)?"
     answer: "Schalten Sie sofort das Licht ein und beruhigen Sie den Vogel mit sanfter Stimme. Ein kleines Nachtlicht verhindert zukünftige Schreckeinheiten."
@@ -30,50 +44,42 @@ Der Nymphensittich mit seinen roten Bäckchen und der eleganten Haube gehört zu
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Nymphensittich (Cockatiel) Rasseprofil
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Lebenserwartung</span><span class="font-bold text-slate-800 dark:text-slate-200">15 - 20 Jahre</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Schlafmuster</span><span class="font-bold text-slate-800 dark:text-slate-200">10 - 12 Stunden (Dunkle und ruhige Nachtruhe)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperament</span><span class="font-bold text-slate-800 dark:text-slate-200">Gesellig, neugierig, melodisch, sensibel</span></div>
-  </div>
-</div>
+---
 
 ## 1. Kommunikation des Nymphensittichs: Die Sprache der Haube
 
-Die Haube verrät die Stimmung des Vogels. Steht sie steil aufgerichtet, ist er wachsam; neigt er den Kopf, fordert er Kraulneinheiten ein.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Steil Aufgerichtete Haube (Fully Erect Crest)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Kommunikation des Nymphensittichs: Die Sprache der Haube</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Hohe Aufmerksamkeit, Neugier oder Skepsis gegenüber neuen Reizen im Raum.<br/>
-    <strong>• Richtige Reaktion:</strong> Ruhig sprechen und keine hastigen Bewegungen machen, bis sich der Vogel beruhigt hat.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Gesenkter Kopf und Vorgebeugter Nacken (Head Lowering)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Großes Vertrauen und die Bitte um Kraulen an den Wangen und am Hinterkopf.<br/>
-    <strong>• Richtige Reaktion:</strong> Sanft entgegen der Federrichtung an den Wangenfedern kraulen.
+    Die Haube verrät die Stimmung des Vogels. Steht sie steil aufgerichtet, ist er wachsam; neigt er den Kopf, fordert er Kraulneinheiten ein.
   </p>
 </div>
 
 ---
 
-## 2. Individuelle häusliche Pflegeroutine
+## 2. Nymphensittich (Cockatiel)'s Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Steil Aufgerichtete Haube (Fully Erect Crest)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Bedeutung:</strong> Hohe Aufmerksamkeit, Neugier oder Skepsis gegenüber neuen Reizen im Raum.<br/>
+    <strong>• Reaktion:</strong> Ruhig sprechen und keine hastigen Bewegungen machen, bis sich der Vogel beruhigt hat.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Lüften, Gefiedercheck und Frisches Pelletergänzungsfutter</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Die Haube verrät die Stimmung des Vogels. Steht sie steil aufgerichtet, ist er 
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Gesicherter Freiflug und Beschäftigungsspielzeug</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    1 - 2 Stunden Freiflug im gesicherten Raum ermöglichen und Futtersuch-Spielzeug bereitstellen.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Gefiederstaub entfernen und Nachtlicht aktivieren</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Staub wischen und ein schwaches Nachtlicht brennen lassen, um Panikattacken zu verhindern.
-  </p>
-</div>
-
-## 3. Zusammenfassung und Vorsichtsmaßnahmen
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -4,11 +4,25 @@ title: "Comunicação da Cauda do Gecko Leopardo e Rotina em 3 Passos Para Troca
 description: "Guia completo de cuidados para o Gecko Leopardo. Interprete os movimentos defensivos da cauda, cuide da toca úmida e ajuste as zonas de temperatura ARAV."
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
+category: "FreshSelf"
+tags: ["CuidadoPets","SaudePets","Gecko Leopardo (Leopard Gecko)"]
 heroImage: "/images/blog/leopard_gecko_care.png"
-authority: "Associação de Veterinários de Répteis e Anfíbios (ARAV)"
 app: "petself"
 formatVersion: 4
-tags: ["Gecko Leopardo","Répteis","Cuidados com Pet","Troca de Pele","Padrões ARAV"]
+authority: "Associação de Veterinários de Répteis e Anfíbios (ARAV)"
+steps:
+  - name: "Linguagem Corporal: Balanço da Cauda e Mudança de Pele"
+    text: "Sua cauda armazena gordura e serve de comunicação. Diferenciar o balanço lento de defesa do balanço rápido de caça evita estresse."
+  - name: "Gecko Leopardo (Leopard Gecko)'s Body Language & Signals"
+    text: "* Balanço Lento da Cauda em Formato de 'S' (Slow Tail Waving): Sinal de defesa quando se sente ameaçado ou assustado por algum perigo. (Pare o manuseio imediatamente, retire a mão devagar e deixe-o recuar para a toca.)
+
+* Pele Opaca Esbranquiçada e Fricção nos Olhos (Pre-Shedding Signal): Início do processo de troca de pele (muda); exige alta umidade local. (Umedeça a toca úmida com água morna para elevar a umidade acima de 70%.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Manhã: Checagem Térmica e Umedecer Toca: Verifique a temperatura do aquecedor (30°C ~ 32°C) e borrife água na toca úmida.
+
+* STEP 2. Tarde: Ambiente Calmo e Escuro para Descanso: Evite luzes fortes e ruídos à tarde para respeitar o sono noturno.
+
+* STEP 3. Noite: Alimentação com Cálcio via Pinça e Limpeza: Alimente com insetos polvilhados com cálcio e limpe as fezes do substrato."
 faqs:
   - question: "O que fazer com pele presa nas pontas dos dedos?"
     answer: "A pele presa pode causar necrose dos dedos. Faça um banho morno (30°C) por 5 minutos e remova a pele com um cotonete úmido."
@@ -30,50 +44,42 @@ O Gecko Leopardo é o réptil de estimação mais querido do mundo. Conforme a A
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Gecko Leopardo (Leopard Gecko) Perfil principal
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">15 - 20 anos</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Padrão de sono</span><span class="font-bold text-slate-800 dark:text-slate-200">12 - 14 horas (Noturno, sono na toca)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamento</span><span class="font-bold text-slate-800 dark:text-slate-200">Dócil, calmo, solitário, sensível</span></div>
-  </div>
-</div>
+---
 
 ## 1. Linguagem Corporal: Balanço da Cauda e Mudança de Pele
 
-Sua cauda armazena gordura e serve de comunicação. Diferenciar o balanço lento de defesa do balanço rápido de caça evita estresse.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Balanço Lento da Cauda em Formato de 'S' (Slow Tail Waving)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Linguagem Corporal: Balanço da Cauda e Mudança de Pele</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Sinal de defesa quando se sente ameaçado ou assustado por algum perigo.<br/>
-    <strong>• Ação correta:</strong> Pare o manuseio imediatamente, retire a mão devagar e deixe-o recuar para a toca.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pele Opaca Esbranquiçada e Fricção nos Olhos (Pre-Shedding Signal)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Início do processo de troca de pele (muda); exige alta umidade local.<br/>
-    <strong>• Ação correta:</strong> Umedeça a toca úmida com água morna para elevar a umidade acima de 70%.
+    Sua cauda armazena gordura e serve de comunicação. Diferenciar o balanço lento de defesa do balanço rápido de caça evita estresse.
   </p>
 </div>
 
 ---
 
-## 2. Rotina de cuidados diários personalizada
+## 2. Gecko Leopardo (Leopard Gecko)'s Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Balanço Lento da Cauda em Formato de 'S' (Slow Tail Waving)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Significado:</strong> Sinal de defesa quando se sente ameaçado ou assustado por algum perigo.<br/>
+    <strong>• Resposta:</strong> Pare o manuseio imediatamente, retire a mão devagar e deixe-o recuar para a toca.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Checagem Térmica e Umedecer Toca</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Sua cauda armazena gordura e serve de comunicação. Diferenciar o balanço lent
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Ambiente Calmo e Escuro para Descanso</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Evite luzes fortes e ruídos à tarde para respeitar o sono noturno.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Alimentação com Cálcio via Pinça e Limpeza</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Alimente com insetos polvilhados com cálcio e limpe as fezes do substrato.
-  </p>
-</div>
-
-## 3. Resumo e precauções
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

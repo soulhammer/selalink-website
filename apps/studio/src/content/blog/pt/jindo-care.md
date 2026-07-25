@@ -4,11 +4,25 @@ title: "Guia de socialização e rotina de 3 passos para o pelo duplo del fiel c
 description: "Aprenda métodos de socialização para o cão Jindo e cuidados com pelo duplo."
 pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
+category: "FreshSelf"
+tags: ["CuidadoPets","SaudePets","Cão Jindo (Jindo Dog)"]
 heroImage: "/images/blog/jindo_care.png"
-authority: "Diretrizes de Jindo do Instituto Nacional de Ciência Animal da Coreia e KKC"
 app: "petself"
 formatVersion: 4
-tags: ["Jindo","Socialização","Pelo duplo","Cuidados"]
+authority: "Diretrizes de Jindo do Instituto Nacional de Ciência Animal da Coreia e KKC"
+steps:
+  - name: "Linguagem corporal do Jindo: Lealdade e precaução"
+    text: "Os cães Jindo se comunicam através das posições da cauda e das orelhas. Uma cauda erguida indica alerta."
+  - name: "Cão Jindo (Jindo Dog)'s Body Language & Signals"
+    text: "* Cauda erguida e orelhas para a frente: Alerta e concentração em um alvo desconhecido. (Evite contato repentino e acalme-o com voz suave.)
+
+* Cauda baixa e orelhas planas: Obediência profunda, confiança e carinho em relação ao dono. (Acaricie-o suavemente e reforce esse laço de confiança continuamente.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Manhã: Passeio de socialização com foco no olfato: Passeie nas horas calmas da manhã para dessensibilizar o cão ao ambiente.
+
+* STEP 2. Tarde: Escovação da pelagem dupla para remover subpelo morto: Use uma rasqueadeira e um pente metálico para remover o subpelo morto.
+
+* STEP 3. Noite: Treinamento de dessensibilização ao toque: Toque delicadamente em áreas sensíveis como patas e orelhas, premiando com petiscos."
 faqs:
   - question: "É difícil criar um cão Jindo dentro de casa?"
     answer: "Eles se adaptam bem à vida interna, desde que você lide com a queda de pelos. Passeios são obrigatórios."
@@ -30,50 +44,42 @@ O cão Jindo é um tesouro nacional da Coreia. Embora criem um laço forte com o
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Cão Jindo (Jindo Dog) Perfil principal
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 anos</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Padrão de sono</span><span class="font-bold text-slate-800 dark:text-slate-200">10 ~ 12 horas (Guarda externa integrada)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamento</span><span class="font-bold text-slate-800 dark:text-slate-200">Extremamente leal, corajoso, muito alerta</span></div>
-  </div>
-</div>
+---
 
 ## 1. Linguagem corporal do Jindo: Lealdade e precaução
 
-Os cães Jindo se comunicam através das posições da cauda e das orelhas. Uma cauda erguida indica alerta.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cauda erguida e orelhas para a frente</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Linguagem corporal do Jindo: Lealdade e precaução</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Alerta e concentração em um alvo desconhecido.<br/>
-    <strong>• Ação correta:</strong> Evite contato repentino e acalme-o com voz suave.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cauda baixa e orelhas planas</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Obediência profunda, confiança e carinho em relação ao dono.<br/>
-    <strong>• Ação correta:</strong> Acaricie-o suavemente e reforce esse laço de confiança continuamente.
+    Os cães Jindo se comunicam através das posições da cauda e das orelhas. Uma cauda erguida indica alerta.
   </p>
 </div>
 
 ---
 
-## 2. Rotina de cuidados diários personalizada
+## 2. Cão Jindo (Jindo Dog)'s Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cauda erguida e orelhas para a frente</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Significado:</strong> Alerta e concentração em um alvo desconhecido.<br/>
+    <strong>• Resposta:</strong> Evite contato repentino e acalme-o com voz suave.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Passeio de socialização com foco no olfato</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Os cães Jindo se comunicam através das posições da cauda e das orelhas. Uma 
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Escovação da pelagem dupla para remover subpelo morto</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Use uma rasqueadeira e um pente metálico para remover o subpelo morto.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Treinamento de dessensibilização ao toque</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Toque delicadamente em áreas sensíveis como patas e orelhas, premiando com petiscos.
-  </p>
-</div>
-
-## 3. Resumo e precauções
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

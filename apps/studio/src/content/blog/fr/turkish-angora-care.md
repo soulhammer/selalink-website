@@ -4,11 +4,25 @@ title: "Soin de l'Angora Turc (Surdité et Cœur) : Routine en 3 étapes pour ch
 description: "L'Angora Turc blanc aux yeux bleus ou vairons est sujet à la surdité congénitale et à la CMH. Découvrez comment communiquer et soigner son poil."
 pubDate: "2026-04-07"
 updatedDate: "2026-04-07"
+category: "FreshSelf"
+tags: ["SoinAnimaux","SanteAnimaux","Angora Turc"]
 heroImage: "/images/blog/turkish_angora_care.png"
-authority: "Recommandations du CFA Turkish Angora Breed Council"
 app: "petself"
 formatVersion: 4
-tags: ["Angora Turc","Surdite Congenitale","Yeux Vairons","Brossage Chat"]
+authority: "Recommandations du CFA Turkish Angora Breed Council"
+steps:
+  - name: "Langage corporel de l'Angora Turc : signes de surdité et vibrations"
+    text: "Un chat sourd miaule de façon singulière avec des 'vocalisations fortes' car il ne contrôle pas son volume. Il est très sensible aux 'vibrations du sol'. Comprendre cela évite de l'effrayer."
+  - name: "Angora Turc's Body Language & Signals"
+    text: "* Vocalisation Forte: Miaulements forts sans réaction aux appels sonores, dus à l'absence de retour auditif. (Ne l'approchez pas par derrière. Faites des gestes de la main dans son champ de vision pour capter son attention.)
+
+* Sensibilité aux vibrations: Il ressent vos pas et les mouvements grâce aux vibrations transmises par le sol. (Tapotez doucement le sol ou un meuble avant de l'approcher pour lui signaler votre présence sans le surprendre.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Matin : Salutation visuelle et communication par gestes: Dites-lui bonjour par des gestes calmes et des clignotements d'yeux lents pour le rassurer dès le réveil.
+
+* STEP 2. Après-midi : Arbres à chats sécurisés et fixation: Installez des arbres à chats et des étagères murales bien fixés pour limiter le risque de chute dû à un saut mal calibré.
+
+* STEP 3. Soir : Brossage du pelage simple pour éviter les nœuds: Un brossage quotidien avec une brosse à picots est nécessaire. Leurs poils fins s'emmêlent vite et créent des boules de poils."
 faqs:
   - question: "Tous les Angoras Turcs blancs sont-ils sourds ?"
     answer: "Non, mais le gène blanc associé aux yeux bleus donne une forte probabilité de surdité (60-80%). Si le chat a les yeux vairons, la surdité touche souvent le côté de l'œil bleu."
@@ -30,50 +44,42 @@ Doté d'une fourrure soyeuse et d'un regard fascinant, l'Angora Turc est un chat
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Angora Turc Profil principal
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 18 ans</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Mode de sommeil</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 14 heures (dort en hauteur)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Tempérament</span><span class="font-bold text-slate-800 dark:text-slate-200">Actif, Intelligent, Fidèle, Élégant</span></div>
-  </div>
-</div>
+---
 
 ## 1. Langage corporel de l'Angora Turc : signes de surdité et vibrations
 
-Un chat sourd miaule de façon singulière avec des 'vocalisations fortes' car il ne contrôle pas son volume. Il est très sensible aux 'vibrations du sol'. Comprendre cela évite de l'effrayer.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Vocalisation Forte</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Langage corporel de l'Angora Turc : signes de surdité et vibrations</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Signification:</strong> Miaulements forts sans réaction aux appels sonores, dus à l'absence de retour auditif.<br/>
-    <strong>• Action correcte:</strong> Ne l'approchez pas par derrière. Faites des gestes de la main dans son champ de vision pour capter son attention.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sensibilité aux vibrations</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Signification:</strong> Il ressent vos pas et les mouvements grâce aux vibrations transmises par le sol.<br/>
-    <strong>• Action correcte:</strong> Tapotez doucement le sol ou un meuble avant de l'approcher pour lui signaler votre présence sans le surprendre.
+    Un chat sourd miaule de façon singulière avec des 'vocalisations fortes' car il ne contrôle pas son volume. Il est très sensible aux 'vibrations du sol'. Comprendre cela évite de l'effrayer.
   </p>
 </div>
 
 ---
 
-## 2. Routine de soins quotidiens personnalisée
+## 2. Angora Turc's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Signal Corporel 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Vocalisation Forte</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Signification:</strong> Miaulements forts sans réaction aux appels sonores, dus à l'absence de retour auditif.<br/>
+    <strong>• Reponse:</strong> Ne l'approchez pas par derrière. Faites des gestes de la main dans son champ de vision pour capter son attention.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Salutation visuelle et communication par gestes</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Un chat sourd miaule de façon singulière avec des 'vocalisations fortes' car i
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi : Arbres à chats sécurisés et fixation</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Installez des arbres à chats et des étagères murales bien fixés pour limiter le risque de chute dû à un saut mal calibré.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir : Brossage du pelage simple pour éviter les nœuds</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Un brossage quotidien avec une brosse à picots est nécessaire. Leurs poils fins s'emmêlent vite et créent des boules de poils.
-  </p>
-</div>
-
-## 3. Résumé et précautions
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

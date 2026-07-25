@@ -4,11 +4,25 @@ title: "Bichon Frise Lockenfellpflege: 3-Schritte-Routine zum Entwirren und Umga
 description: "Bekannt für seinen weißen Puderquasten-Look ist der Bichon Frise sehr freundlich. Erfahren Sie, wie Sie das lockige Fell pflegen und sicher mit Energieausbrüchen umgehen."
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
+category: "FreshSelf"
+tags: ["Haustierpflege","Haustiergesundheit","Bichon Frise"]
 heroImage: "/images/blog/bichon_care.png"
-authority: "Richtlinien des Bichon Frise Club of America und AVMA-Gesundheitsleitlinien"
 app: "petself"
 formatVersion: 4
-tags: ["Bichon Frise","Bichon Blitz","Fellverfilzung","Hautentzündung"]
+authority: "Richtlinien des Bichon Frise Club of America und AVMA-Gesundheitsleitlinien"
+steps:
+  - name: "Körpersprache des Bichon Frise: Bichon Blitz und Aufmerksamkeitszeichen"
+    text: "Bei Aufregung zeigen Bichons den 'Bichon Blitz' (hektisches Rennen), um Energie abzubauen. Zudem ist das Tippen auf den Arm des Besitzers ('PfotenTipp') ein liebevolles Zeichen, um Aufmerksamkeit oder Spielzeit einzufordern."
+  - name: "Bichon Frise's Body Language & Signals"
+    text: "* Bichon Blitz: Ein natürliches Verhalten, um überschüssige Energie schnell durch intensive körperliche Aktivität abzubauen. (Räumen Sie Hindernisse aus dem Weg, sichern Sie rutschfeste Matten und lassen Sie sie sich natürlich beruhigen.)
+
+* Pfotentipp: Eine friedliche und freundliche Art, um Aufmerksamkeit und Kontakt zu bitten, typisch für Bichons. (Nehmen Sie Blickkontakt auf, streicheln Sie sie oder machen Sie ein kurzes Training (Sitz/Pfote) zur Stimulation.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Morgen: Leichtes Spielzeug-Apportieren und Zerrspiel: Um Zusammenstöße mit Möbeln zu vermeiden, spielen Sie morgens ein leichtes Zerrspiel, um Energie abzubauen.
+
+* STEP 2. Nachmittag: 10 Minuten Fellpflege mit Zupfbürste und Metallkamm: Sprühen Sie Pflegespray auf, bürsten Sie Bauch und Beininnenseiten mit einer Zupfbürste und prüfen Sie verfilzte Stellen mit dem Kamm.
+
+* STEP 3. Abend: Kämmen der Augenpartie und Trocknen von Tränenflecken: Kämmen Sie das Fell um die Augen vorsichtig mit einem feinen Gesichtskamm und tupfen Sie Tränen mit einem Wattepad trocken."
 faqs:
   - question: "Wie kann ich einen Bichon während des Bichon Blitz beruhigen?"
     answer: "Der Bichon Blitz ist ein normaler Gefühlsausdruck. Nicht festhalten oder anschreien, da sie dies als Spiel deuten. Sichern Sie rutschfeste Matten und warten Sie."
@@ -30,50 +44,42 @@ Bichon Frises sind bekannt für ihr weißes, wattebauschartiges Fell und ihr fr�
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Bichon Frise Rasseprofil
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Lebenserwartung</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 Jahre</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Schlafmuster</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 14 Stunden (schläft zu Füßen des Besitzers)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperament</span><span class="font-bold text-slate-800 dark:text-slate-200">Fröhlich, Verspielt, Anhänglich, Aufgeschlossen</span></div>
-  </div>
-</div>
+---
 
 ## 1. Körpersprache des Bichon Frise: Bichon Blitz und Aufmerksamkeitszeichen
 
-Bei Aufregung zeigen Bichons den 'Bichon Blitz' (hektisches Rennen), um Energie abzubauen. Zudem ist das Tippen auf den Arm des Besitzers ('PfotenTipp') ein liebevolles Zeichen, um Aufmerksamkeit oder Spielzeit einzufordern.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bichon Blitz</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Körpersprache des Bichon Frise: Bichon Blitz und Aufmerksamkeitszeichen</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Ein natürliches Verhalten, um überschüssige Energie schnell durch intensive körperliche Aktivität abzubauen.<br/>
-    <strong>• Richtige Reaktion:</strong> Räumen Sie Hindernisse aus dem Weg, sichern Sie rutschfeste Matten und lassen Sie sie sich natürlich beruhigen.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pfotentipp</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Bedeutung:</strong> Eine friedliche und freundliche Art, um Aufmerksamkeit und Kontakt zu bitten, typisch für Bichons.<br/>
-    <strong>• Richtige Reaktion:</strong> Nehmen Sie Blickkontakt auf, streicheln Sie sie oder machen Sie ein kurzes Training (Sitz/Pfote) zur Stimulation.
+    Bei Aufregung zeigen Bichons den 'Bichon Blitz' (hektisches Rennen), um Energie abzubauen. Zudem ist das Tippen auf den Arm des Besitzers ('PfotenTipp') ein liebevolles Zeichen, um Aufmerksamkeit oder Spielzeit einzufordern.
   </p>
 </div>
 
 ---
 
-## 2. Individuelle häusliche Pflegeroutine
+## 2. Bichon Frise's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bichon Blitz</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Bedeutung:</strong> Ein natürliches Verhalten, um überschüssige Energie schnell durch intensive körperliche Aktivität abzubauen.<br/>
+    <strong>• Reaktion:</strong> Räumen Sie Hindernisse aus dem Weg, sichern Sie rutschfeste Matten und lassen Sie sie sich natürlich beruhigen.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Leichtes Spielzeug-Apportieren und Zerrspiel</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Bei Aufregung zeigen Bichons den 'Bichon Blitz' (hektisches Rennen), um Energie 
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: 10 Minuten Fellpflege mit Zupfbürste und Metallkamm</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Sprühen Sie Pflegespray auf, bürsten Sie Bauch und Beininnenseiten mit einer Zupfbürste und prüfen Sie verfilzte Stellen mit dem Kamm.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Kämmen der Augenpartie und Trocknen von Tränenflecken</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Kämmen Sie das Fell um die Augen vorsichtig mit einem feinen Gesichtskamm und tupfen Sie Tränen mit einem Wattepad trocken.
-  </p>
-</div>
-
-## 3. Zusammenfassung und Vorsichtsmaßnahmen
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

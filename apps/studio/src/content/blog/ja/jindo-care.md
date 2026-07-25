@@ -4,11 +4,25 @@ title: "忠実な珍島犬の社会化ガイドとダブルコート管理3ス�
 description: "飼い主には従順ですが警戒心の強い珍島犬（チンドケン）の正しい社会化訓練と、抜け毛の多いダブルコートをケアする3ステップ日常習慣を紹介します。"
 pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
+category: "FreshSelf"
+tags: ["ペットケア","ペット健康","珍島犬 (Jindo Dog)"]
 heroImage: "/images/blog/jindo_care.png"
-authority: "国立畜産科学院珍島犬管理ガイドおよびKKC行動専門家プロトコル"
 app: "petself"
 formatVersion: 4
-tags: ["珍島犬","社会化","ダブルコート","ペットケア"]
+authority: "国立畜産科学院珍島犬管理ガイドおよびKKC行動専門家プロトコル"
+steps:
+  - name: "珍島犬のボディランゲージ：忠誠心と警戒のシグナル"
+    text: "珍島犬は感情表現が控えめであり、尻尾と耳の角度を通じて意思を伝えます。尻尾を真っ直ぐ立てて耳を前方に集めるのは警戒と集中を表し、この時に急に近づくと防衛反応を引き起こす恐れがあります。逆に、尻尾を低くしてゆっくり振り、耳を横に寝かせる行動は、飼い主への順従と安心を意味します。"
+  - name: "珍島犬 (Jindo Dog)'s Body Language & Signals"
+    text: "* 尻尾を立てて耳を前方に集める: 見知らぬ対象を警戒し、緊張が高まっている状態です。 (無理な接触を避け、見知らぬ人には触らないよう頼み、飼い主が静かに落ち着かせます。)
+
+* 尻尾を下げて耳を寝かせて近づく: 飼い主への深い信頼と服従、そして愛情を求めているサインです。 (優しく撫でてあげて、良好な関係をさらに強化しましょう。)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. 朝：ノーズワークを中心とした静かなお散歩による社会化: 刺激の少ない朝の時間帯にお散歩し、十分なノーズワークを通じて外部環境に慣れさせます。
+
+* STEP 2. 午後：ダブルコートのブラッシングによる死毛除去: スリッカーブラシとコームを使用し、皮膚近くの不要な毛を取り除き、皮膚炎を予防します。
+
+* STEP 3. 夜：スキンシップの慣らし訓練とポジティブ強化: 足元や耳などの敏感な部位に優しく触れながらおやつを与え、お手入れに対する安心感を植え付けます。"
 faqs:
   - question: "珍島犬は室内で飼うのは難しいですか？"
     answer: "室内排泄を嫌う傾向と抜け毛対策をクリアできれば、室内でも十分適応します。ただし、毎日の運動と知的な刺激は必須です。"
@@ -30,50 +44,42 @@ faqs:
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 珍島犬 (Jindo Dog) コアプロフィール
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">平均寿命</span><span class="font-bold text-slate-800 dark:text-slate-200">12 〜 15年</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">睡眠パターン</span><span class="font-bold text-slate-800 dark:text-slate-200">10 〜 12時間 (警戒活動連携型)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">性格キーワード</span><span class="font-bold text-slate-800 dark:text-slate-200">極めて忠実、勇敢、強い警戒心</span></div>
-  </div>
-</div>
+---
 
 ## 1. 珍島犬のボディランゲージ：忠誠心と警戒のシグナル
 
-珍島犬は感情表現が控えめであり、尻尾と耳の角度を通じて意思を伝えます。尻尾を真っ直ぐ立てて耳を前方に集めるのは警戒と集中を表し、この時に急に近づくと防衛反応を引き起こす恐れがあります。逆に、尻尾を低くしてゆっくり振り、耳を横に寝かせる行動は、飼い主への順従と安心を意味します。
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">尻尾を立てて耳を前方に集める</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">珍島犬のボディランゲージ：忠誠心と警戒のシグナル</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 見知らぬ対象を警戒し、緊張が高まっている状態です。<br/>
-    <strong>• 正しい対処:</strong> 無理な接触を避け、見知らぬ人には触らないよう頼み、飼い主が静かに落ち着かせます。
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">尻尾を下げて耳を寝かせて近づく</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 飼い主への深い信頼と服従、そして愛情を求めているサインです。<br/>
-    <strong>• 正しい対処:</strong> 優しく撫でてあげて、良好な関係をさらに強化しましょう。
+    珍島犬は感情表現が控えめであり、尻尾と耳の角度を通じて意思を伝えます。尻尾を真っ直ぐ立てて耳を前方に集めるのは警戒と集中を表し、この時に急に近づくと防衛反応を引き起こす恐れがあります。逆に、尻尾を低くしてゆっくり振り、耳を横に寝かせる行動は、飼い主への順従と安心を意味します。
   </p>
 </div>
 
 ---
 
-## 2. カスタマイズされたホームケアルーティン
+## 2. 珍島犬 (Jindo Dog)'s Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">ボディシグナル 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">尻尾を立てて耳を前方に集める</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 意味:</strong> 見知らぬ対象を警戒し、緊張が高まっている状態です。<br/>
+    <strong>• 対処法:</strong> 無理な接触を避け、見知らぬ人には触らないよう頼み、飼い主が静かに落ち着かせます。
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">朝：ノーズワークを中心とした静かなお散歩による社会化</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ faqs:
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">午後：ダブルコートのブラッシングによる死毛除去</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    スリッカーブラシとコームを使用し、皮膚近くの不要な毛を取り除き、皮膚炎を予防します。
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">夜：スキンシップの慣らし訓練とポジティブ強化</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    足元や耳などの敏感な部位に優しく触れながらおやつを与え、お手入れに対する安心感を植え付けます。
-  </p>
-</div>
-
-## 3. 要約と注意事項
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      ペットの合図（カーミングシグナル）を細かく観察するだけでも、ほとんどの行動問題やストレス性疾患を事前に予防できます。獣医学的な治療も重要ですが、家庭環境（滑り止めステップ、垂直空間の確保、新鮮な複数箇所での給水）を安全に管理することが、生涯の伴侶としての幸せを支える最も強力な盾となります。
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

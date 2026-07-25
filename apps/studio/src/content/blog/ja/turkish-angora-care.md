@@ -4,11 +4,25 @@ title: "ターキッシュ・アンゴラの聴覚＆心臓ケア：オッドア
 description: "白い毛で青い目（またはオッドアイ）のターキッシュ・アンゴラは遺伝的に先天性難聴とHCMのリスクがあります。視覚信号の対話と毛並みケアの3段階を紹介します。"
 pubDate: "2026-04-07"
 updatedDate: "2026-04-07"
+category: "FreshSelf"
+tags: ["ペットケア","ペット健康","ターキッシュ・アンゴラ"]
 heroImage: "/images/blog/turkish_angora_care.png"
-authority: "CFAターキッシュ・アンゴラ評議会＆猫の難聴研究基準"
 app: "petself"
 formatVersion: 4
-tags: ["ターキッシュアンゴラ","難聴猫","オッドアイケア","毛玉予防"]
+authority: "CFAターキッシュ・アンゴラ評議会＆猫の難聴研究基準"
+steps:
+  - name: "ターキッシュ・アンゴラのボディランゲージ：大声の鳴き方と振動感知のサイン"
+    text: "聴覚に障害がある猫は、自身の鳴き声の音量が調節できないため「後ろを向かずに大声で鳴く」ことがあります。また、音の代わりに床などの「振動を敏感にキャッチ」して周囲を把握しています。"
+  - name: "ターキッシュ・アンゴラ's Body Language & Signals"
+    text: "* 大きな声での鳴き癖: 声の大きさを自分でモニターできないため、大きなハイトーンの声で呼びかける難聴猫の特徴です。 (後ろから急に触るのではなく、必ず視界に入る位置から手を振るなどして気配を伝えてから近づきます。)
+
+* 床の振動への敏感な反応: 音が聞こえない代わりに、床や家具から伝わる微細な振動を足裏で感知して状況を察知しています。 (近づく前に床をトントンと軽く叩き、振動で接近を知らせることで、驚かせるのを防ぐことができます。)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. 朝：視覚シグナルでの対話とアイコンタクト: 大声で呼ぶのではなく、手の動きやゆっくりした瞬き（キャットアイキス）で目線を合わせて挨拶をします。
+
+* STEP 2. 昼：安全なキャットタワーの設置と耐震固定: 高い場所を好むため、高所の逃げ場を作りますが、聴覚低下で平衡感覚に影響が出る可能性があるため頑丈に固定します。
+
+* STEP 3. 夜：シルキーな長毛のもつれを防ぐピンブラシ掃除: 毛が非常に細く絡まりやすいため、毎日ピンブラシで優しく梳き、毛球症を防止します。"
 faqs:
   - question: "白いターキッシュ・アンゴラはみんな耳が聞こえないのですか？"
     answer: "全てではありませんが、白毛で両目が青い個体は60〜80%という高い確率で難聴になります。オッドアイの場合、青い目のある側の耳だけが聞こえないケースが多いです。"
@@ -30,50 +44,42 @@ faqs:
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 ターキッシュ・アンゴラ コアプロフィール
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">平均寿命</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 18年</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">睡眠パターン</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 14時間（キャットタワー等の高い場所）</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">性格キーワード</span><span class="font-bold text-slate-800 dark:text-slate-200">活動的、スマート、忠実、優雅</span></div>
-  </div>
-</div>
+---
 
 ## 1. ターキッシュ・アンゴラのボディランゲージ：大声の鳴き方と振動感知のサイン
 
-聴覚に障害がある猫は、自身の鳴き声の音量が調節できないため「後ろを向かずに大声で鳴く」ことがあります。また、音の代わりに床などの「振動を敏感にキャッチ」して周囲を把握しています。
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">大きな声での鳴き癖</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ターキッシュ・アンゴラのボディランゲージ：大声の鳴き方と振動感知のサイン</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 声の大きさを自分でモニターできないため、大きなハイトーンの声で呼びかける難聴猫の特徴です。<br/>
-    <strong>• 正しい対処:</strong> 後ろから急に触るのではなく、必ず視界に入る位置から手を振るなどして気配を伝えてから近づきます。
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">床の振動への敏感な反応</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 音が聞こえない代わりに、床や家具から伝わる微細な振動を足裏で感知して状況を察知しています。<br/>
-    <strong>• 正しい対処:</strong> 近づく前に床をトントンと軽く叩き、振動で接近を知らせることで、驚かせるのを防ぐことができます。
+    聴覚に障害がある猫は、自身の鳴き声の音量が調節できないため「後ろを向かずに大声で鳴く」ことがあります。また、音の代わりに床などの「振動を敏感にキャッチ」して周囲を把握しています。
   </p>
 </div>
 
 ---
 
-## 2. カスタマイズされたホームケアルーティン
+## 2. ターキッシュ・アンゴラ's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">ボディシグナル 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">大きな声での鳴き癖</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 意味:</strong> 声の大きさを自分でモニターできないため、大きなハイトーンの声で呼びかける難聴猫の特徴です。<br/>
+    <strong>• 対処法:</strong> 後ろから急に触るのではなく、必ず視界に入る位置から手を振るなどして気配を伝えてから近づきます。
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">朝：視覚シグナルでの対話とアイコンタクト</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ faqs:
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">昼：安全なキャットタワーの設置と耐震固定</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    高い場所を好むため、高所の逃げ場を作りますが、聴覚低下で平衡感覚に影響が出る可能性があるため頑丈に固定します。
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">夜：シルキーな長毛のもつれを防ぐピンブラシ掃除</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    毛が非常に細く絡まりやすいため、毎日ピンブラシで優しく梳き、毛球症を防止します。
-  </p>
-</div>
-
-## 3. 要約と注意事項
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      ペットの合図（カーミングシグナル）を細かく観察するだけでも、ほとんどの行動問題やストレス性疾患を事前に予防できます。獣医学的な治療も重要ですが、家庭環境（滑り止めステップ、垂直空間の確保、新鮮な複数箇所での給水）を安全に管理することが、生涯の伴侶としての幸せを支える最も強力な盾となります。
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

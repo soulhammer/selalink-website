@@ -4,11 +4,25 @@ title: "Jeux de stimulation mentale et soin des articulations du Border Collie"
 description: "Jeux cognitifs et soin des articulations pour le Border Collie."
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
+category: "FreshSelf"
+tags: ["SoinAnimaux","SanteAnimaux","Border Collie (Border Collie)"]
 heroImage: "/images/blog/border_collie_care.png"
-authority: "Guide du Border Collie du Kennel Club (KC) et études cognitives"
 app: "petself"
 formatVersion: 4
-tags: ["Border Collie","Stimulation","Articulations","Adestramento"]
+authority: "Guide du Border Collie du Kennel Club (KC) et études cognitives"
+steps:
+  - name: "Langage corporel du Border Collie : Regard fixe"
+    text: "Les Border Collies ont un instinct unique appelé 'l'œil' – fixer les objets pour les guider."
+  - name: "Border Collie (Border Collie)'s Body Language & Signals"
+    text: "* Corps accroupi et regard fixe: Instinct de troupeau activé par des objets en mouvement. (Rappelez-le par son nom pour capter son regard et offrez une récompense.)
+
+* Bouche ouverte et queue joyeuse: Plein d'énergie et prêt à s'engager dans un jeu. (Démarrez des activités stimulantes comme le frisbee ou l'agility.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Matin : Course fractionnée intégrée à des ordres: Associez les sprints à des ordres pendant la promenade.
+
+* STEP 2. Après-midi : Jeux de réflexion et puzzles: Proposez-lui des puzzles pour obtenir des friandises.
+
+* STEP 3. Soir : Massage musculaire doux et étirement des articulations: Appliquez des compresses tièdes sur les muscles fatigués."
 faqs:
   - question: "Pourquoi mon Border Collie poursuit les vélos ?"
     answer: "C'est l'instinct de troupeau. Apprenez un ordre de recentrage de l'attention."
@@ -30,50 +44,42 @@ Le Border Collie est connu comme le chien le plus intelligent du monde. Leur cou
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Border Collie (Border Collie) Profil principal
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 ans</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Mode de sommeil</span><span class="font-bold text-slate-800 dark:text-slate-200">10 ~ 12 heures (Haute activité physique)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Tempérament</span><span class="font-bold text-slate-800 dark:text-slate-200">Incroyablement intelligent, enthousiaste, endurance infinie</span></div>
-  </div>
-</div>
+---
 
 ## 1. Langage corporel du Border Collie : Regard fixe
 
-Les Border Collies ont un instinct unique appelé 'l'œil' – fixer les objets pour les guider.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Corps accroupi et regard fixe</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Langage corporel du Border Collie : Regard fixe</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Signification:</strong> Instinct de troupeau activé par des objets en mouvement.<br/>
-    <strong>• Action correcte:</strong> Rappelez-le par son nom pour capter son regard et offrez une récompense.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bouche ouverte et queue joyeuse</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Signification:</strong> Plein d'énergie et prêt à s'engager dans un jeu.<br/>
-    <strong>• Action correcte:</strong> Démarrez des activités stimulantes comme le frisbee ou l'agility.
+    Les Border Collies ont un instinct unique appelé 'l'œil' – fixer les objets pour les guider.
   </p>
 </div>
 
 ---
 
-## 2. Routine de soins quotidiens personnalisée
+## 2. Border Collie (Border Collie)'s Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Signal Corporel 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Corps accroupi et regard fixe</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Signification:</strong> Instinct de troupeau activé par des objets en mouvement.<br/>
+    <strong>• Reponse:</strong> Rappelez-le par son nom pour capter son regard et offrez une récompense.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Course fractionnée intégrée à des ordres</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Les Border Collies ont un instinct unique appelé 'l'œil' – fixer les objets 
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi : Jeux de réflexion et puzzles</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Proposez-lui des puzzles pour obtenir des friandises.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir : Massage musculaire doux et étirement des articulations</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Appliquez des compresses tièdes sur les muscles fatigués.
-  </p>
-</div>
-
-## 3. Résumé et précautions
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -4,11 +4,25 @@ title: "Signaux de Flaring du Poisson Betta et Routine en 3 Étapes pour de Bell
 description: "Guide complet pour le Poisson Betta (Combattant). Décodez le parai (flaring), l'organe labyrinthe et appliquez la routine WSAVA."
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
+category: "FreshSelf"
+tags: ["SoinAnimaux","SanteAnimaux","Poisson Betta (Combattant)"]
 heroImage: "/images/blog/betta_fish_care.png"
-authority: "World Small Animal Veterinary Association (WSAVA)"
 app: "petself"
 formatVersion: 4
-tags: ["Poisson Betta","Combattant","Soins Aquariophilie","Normes WSAVA"]
+authority: "World Small Animal Veterinary Association (WSAVA)"
+steps:
+  - name: "Communication du Betta: Parai de Nageoires et Repos en Surface"
+    text: "Le parai (flaring) déploie ses ouïes pour défendre son territoire. 5 minutes par jour d'exercice sont bénéfiques pour stimuler la musculation."
+  - name: "Poisson Betta (Combattant)'s Body Language & Signals"
+    text: "* Déploiement des Ouïes et Nageoires (Flaring): Réaction territoriale face à un miroir ou un rival dans le bac. (Retirez les miroirs pour ne pas l'épuiser au-delà de 5 minutes.)
+
+* Immobile sur une Feuille en Surface (Labyrinth Resting): Sommeil naturel permettant un accès facile à l'air atmosphérique. (Baissez la lumière et réduisez le débit du filtre.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Matin: Contrôle Température (24°C ~ 26°C) & Courant Faible: Vérifiez que l'eau reste à 24°C ~ 26°C et sans fort courant.
+
+* STEP 2. Après-midi: Granulés Spécifiques & Aspiration des Restes: Donnez 3 - 4 granulés pour Betta et aspirez les restes non consommés.
+
+* STEP 3. Soir: Nid de Bulles & 5 min de Miroir: Présentez un miroir 3 - 5 min pour stimuler la tonicité de ses nageoires."
 faqs:
   - question: "Que faire en cas de pourriture des nageoires (Fin Rot) ?"
     answer: "Effectuez un changement d'eau de 25% et vérifiez les paramètres de filtration pour stopper la dégradation."
@@ -30,50 +44,42 @@ Prisé pour ses nageoires spectaculaires, le Betta possède un organe labyrinthe
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Poisson Betta (Combattant) Profil principal
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">3 - 5 ans</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Mode de sommeil</span><span class="font-bold text-slate-800 dark:text-slate-200">8 - 10 heures (Repos sur feuilles en surface)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Tempérament</span><span class="font-bold text-slate-800 dark:text-slate-200">Territorial, élégant, sensible, curieux</span></div>
-  </div>
-</div>
+---
 
 ## 1. Communication du Betta: Parai de Nageoires et Repos en Surface
 
-Le parai (flaring) déploie ses ouïes pour défendre son territoire. 5 minutes par jour d'exercice sont bénéfiques pour stimuler la musculation.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Déploiement des Ouïes et Nageoires (Flaring)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Communication du Betta: Parai de Nageoires et Repos en Surface</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Signification:</strong> Réaction territoriale face à un miroir ou un rival dans le bac.<br/>
-    <strong>• Action correcte:</strong> Retirez les miroirs pour ne pas l'épuiser au-delà de 5 minutes.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Immobile sur une Feuille en Surface (Labyrinth Resting)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Signification:</strong> Sommeil naturel permettant un accès facile à l'air atmosphérique.<br/>
-    <strong>• Action correcte:</strong> Baissez la lumière et réduisez le débit du filtre.
+    Le parai (flaring) déploie ses ouïes pour défendre son territoire. 5 minutes par jour d'exercice sont bénéfiques pour stimuler la musculation.
   </p>
 </div>
 
 ---
 
-## 2. Routine de soins quotidiens personnalisée
+## 2. Poisson Betta (Combattant)'s Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Signal Corporel 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Déploiement des Ouïes et Nageoires (Flaring)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Signification:</strong> Réaction territoriale face à un miroir ou un rival dans le bac.<br/>
+    <strong>• Reponse:</strong> Retirez les miroirs pour ne pas l'épuiser au-delà de 5 minutes.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin: Contrôle Température (24°C ~ 26°C) & Courant Faible</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Le parai (flaring) déploie ses ouïes pour défendre son territoire. 5 minutes 
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi: Granulés Spécifiques & Aspiration des Restes</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Donnez 3 - 4 granulés pour Betta et aspirez les restes non consommés.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir: Nid de Bulles & 5 min de Miroir</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Présentez un miroir 3 - 5 min pour stimuler la tonicité de ses nageoires.
-  </p>
-</div>
-
-## 3. Résumé et précautions
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

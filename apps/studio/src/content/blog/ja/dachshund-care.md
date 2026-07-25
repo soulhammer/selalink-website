@@ -4,11 +4,25 @@ title: "ダックスフントの腰痛警告と体幹強化の3ステップル�
 description: "胴長短足のダックスフント。背骨への負担を示す警告サインと、関節やディスクを保護するための3ステップの日常ルーチンについて解説します。"
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
+category: "FreshSelf"
+tags: ["ペットケア","ペット健康","ダックスフント (Dachshund)"]
 heroImage: "/images/blog/dachshund_care.png"
-authority: "アメリカンケネルクラブ（AKC）ダックスフント健康ガイドおよび獣医脊椎協会ガイドライン"
 app: "petself"
 formatVersion: 4
-tags: ["ダックスフント","ヘルニア予防","犬の脊椎健康","ペットスロープ"]
+authority: "アメリカンケネルクラブ（AKC）ダックスフント健康ガイドおよび獣医脊椎協会ガイドライン"
+steps:
+  - name: "ダックスフントの脊椎警告信号：二本足立ちと姿勢の変化"
+    text: "ダックスフントは背骨に負担がかかったり痛みを感じたりすると、微細なサインでそれを表現します。可愛いと思われがちな「ちょうだい」のポーズ（二本足立ち）は、腰椎に極度な負荷をかける危険な状態です。また、背中を丸めたり首を不自然に伸ばす行動は、ヘルニア初期の痛みを示している可能性があります。"
+  - name: "ダックスフント (Dachshund)'s Body Language & Signals"
+    text: "* 二本足立ち（ちょうだいポーズ）: 腰椎に過度な圧力がかかる姿勢で、おやつのおねだりや飼い主の注意を引く際によく行われます。 (この姿勢をとらないよう優しく制止し、家具の横にはペット専用のスロープを設置してジャンプを防ぎます。)
+
+* 背中を丸める・首を伸ばす: 脊椎の痛みやヘルニア初期の神経圧迫により、体をこわばらせて痛みをこらえているサインです。 (すぐに活動を制限し、抱き上げる際は胸と後肢を同時に支えて背骨を水平に保ち、速やかに獣医師の診察を受けます。)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. 朝：脊椎と関節の動きのチェック: 活動を始める前に歩き方に硬さがないか確認します。背骨に沿って優しくマッサージし、痛がる素振りが無いか確認します。
+
+* STEP 2. 昼：脊椎に安全な生活環境の維持: ベッドやソファーの横に置いたペットスロープの位置や滑り止めが正常か点検します。階段にはゲートを設けて進入を防ぎます。
+
+* STEP 3. 夜：体幹（腹筋）の強化と厳密な体重管理: 背骨を支える腹筋を鍛えるため、傾斜のない平らな芝生の上をゆっくり散歩します。肥満防止のために食事量は正確に管理します。"
 faqs:
   - question: "ダックスフントは階段を上り下りしても大丈夫ですか？"
     answer: "ダックスフントの長い背骨にとって、階段昇降は繰り返しの強い衝撃を与えます。安全ゲートで出入りを防ぎ、移動時には抱っこしてあげるのが理想です。"
@@ -30,50 +44,42 @@ faqs:
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 ダックスフント (Dachshund) コアプロフィール
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">平均寿命</span><span class="font-bold text-slate-800 dark:text-slate-200">12 〜 16年</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">睡眠パターン</span><span class="font-bold text-slate-800 dark:text-slate-200">12 〜 14時間 (昼行性 - 日中に活動)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">性格キーワード</span><span class="font-bold text-slate-800 dark:text-slate-200">遊び好き、賢い、献身的、活発、勇敢</span></div>
-  </div>
-</div>
+---
 
 ## 1. ダックスフントの脊椎警告信号：二本足立ちと姿勢の変化
 
-ダックスフントは背骨に負担がかかったり痛みを感じたりすると、微細なサインでそれを表現します。可愛いと思われがちな「ちょうだい」のポーズ（二本足立ち）は、腰椎に極度な負荷をかける危険な状態です。また、背中を丸めたり首を不自然に伸ばす行動は、ヘルニア初期の痛みを示している可能性があります。
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">二本足立ち（ちょうだいポーズ）</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ダックスフントの脊椎警告信号：二本足立ちと姿勢の変化</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 腰椎に過度な圧力がかかる姿勢で、おやつのおねだりや飼い主の注意を引く際によく行われます。<br/>
-    <strong>• 正しい対処:</strong> この姿勢をとらないよう優しく制止し、家具の横にはペット専用のスロープを設置してジャンプを防ぎます。
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">背中を丸める・首を伸ばす</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 意味:</strong> 脊椎の痛みやヘルニア初期の神経圧迫により、体をこわばらせて痛みをこらえているサインです。<br/>
-    <strong>• 正しい対処:</strong> すぐに活動を制限し、抱き上げる際は胸と後肢を同時に支えて背骨を水平に保ち、速やかに獣医師の診察を受けます。
+    ダックスフントは背骨に負担がかかったり痛みを感じたりすると、微細なサインでそれを表現します。可愛いと思われがちな「ちょうだい」のポーズ（二本足立ち）は、腰椎に極度な負荷をかける危険な状態です。また、背中を丸めたり首を不自然に伸ばす行動は、ヘルニア初期の痛みを示している可能性があります。
   </p>
 </div>
 
 ---
 
-## 2. カスタマイズされたホームケアルーティン
+## 2. ダックスフント (Dachshund)'s Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">ボディシグナル 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">二本足立ち（ちょうだいポーズ）</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 意味:</strong> 腰椎に過度な圧力がかかる姿勢で、おやつのおねだりや飼い主の注意を引く際によく行われます。<br/>
+    <strong>• 対処法:</strong> この姿勢をとらないよう優しく制止し、家具の横にはペット専用のスロープを設置してジャンプを防ぎます。
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">朝：脊椎と関節の動きのチェック</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ faqs:
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">昼：脊椎に安全な生活環境の維持</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    ベッドやソファーの横に置いたペットスロープの位置や滑り止めが正常か点検します。階段にはゲートを設けて進入を防ぎます。
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">夜：体幹（腹筋）の強化と厳密な体重管理</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    背骨を支える腹筋を鍛えるため、傾斜のない平らな芝生の上をゆっくり散歩します。肥満防止のために食事量は正確に管理します。
-  </p>
-</div>
-
-## 3. 要約と注意事項
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      ペットの合図（カーミングシグナル）を細かく観察するだけでも、ほとんどの行動問題やストレス性疾患を事前に予防できます。獣医学的な治療も重要ですが、家庭環境（滑り止めステップ、垂直空間の確保、新鮮な複数箇所での給水）を安全に管理することが、生涯の伴侶としての幸せを支える最も強力な盾となります。
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

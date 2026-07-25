@@ -4,11 +4,25 @@ title: "Kucing yang Memeluk seperti Boneka? Rutinitas 3 Langkah Gendong Aman dan
 description: "Ragdoll, kucing raksasa berbulu halus yang terkulai seperti boneka saat digendong. Pelajari tips melindungi sendi tubuh besar mereka dan rutinitas 3 langkah gendong aman."
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
+category: "FreshSelf"
+tags: ["PerawatanHewan","KesehatanHewan","Ragdoll"]
 heroImage: "/images/blog/ragdoll_care.png"
-authority: "Panduan Ras Resmi Cat Fanciers' Association (CFA) & Pedoman Praktik Ramah Kucing AAFP"
 app: "petself"
 formatVersion: 4
-tags: ["Ragdoll","Gendong Aman","Perawatan Sendi","Perawatan Kucing"]
+authority: "Panduan Ras Resmi Cat Fanciers' Association (CFA) & Pedoman Praktik Ramah Kucing AAFP"
+steps:
+  - name: "Sinyal Penenang Ragdoll: Kedipan Lambat dan Peregangan Cakar yang Rileks"
+    text: "Kucing Ragdoll mengekspresikan kepercayaan mereka yang tinggi tidak hanya dengan terkulai lemas, tetapi juga melalui gerakan mata dan cakar. Sinyal kenyamanan yang utama meliputi 'kedipan lambat' and 'peregangan cakar'. Memandang Anda dan berkedip sangat lambat adalah pesan keamanan dan kasih sayang. Saat merasa sangat senang, mereka meregangkan jari-jari cakar seperti kipas. Mengelus bagian bawah dagu saat ini memaksimalkan perasaan aman mereka."
+  - name: "Ragdoll's Body Language & Signals"
+    text: "* Kedipan Lambat: Tanda kasih sayang, menunjukkan bahwa mereka sepenuhnya mempercayai Anda dan merasa aman. (Balas dengan berkedip perlahan untuk memperkuat ikatan dan saling percaya.)
+
+* Peregangan Cakar: Menunjukkan kenyamanan luar biasa, meniru memori menyusu saat masih kecil. (Lanjutkan mengelus lembut di bawah dagu atau leher agar mereka tetap rileks.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Pagi: Peregangan Fisik Ringan untuk Kesehatan Kerangka: Sebagai ras besar, kelelahan menumpuk di sendi. Sebelum mereka mulai bergerak, regangkan kaki belakang dengan lembut untuk menjaga mobilitas sendi.
+
+* STEP 2. Siang: Menyikat dengan Sisir Jarum untuk Mencegah Kusut: Bulu bagian bawah Ragdoll sangat lembut dan mudah kusut. Sisir searah bulu dengan sisir jarum berujung bulat untuk ventilasi bulu dan mencegah dermatitis.
+
+* STEP 3. Malam: Teknik Menggendong Aman dengan Menopang Pinggul: Mengangkat bagian atas tubuh saja menyebabkan tulang belakang terpelintir. Selalu topang dada dengan satu tangan dan pinggul dengan tangan lainnya."
 faqs:
   - question: "Apakah tubuh Ragdoll yang terkulai saat digendong berarti tulang mereka lemah?"
     answer: "Tidak. Ini adalah sifat perilaku genetik unik dari Ragdoll di mana mereka merilekskan otot sepenuhnya saat merasa aman dan mempercayai penggendongnya. Ini bukan cacat fisik."
@@ -34,50 +48,42 @@ Hari ini, PetSelf menguraikan bahasa tubuh Ragdoll dan memperkenalkan rutinitas 
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Ragdoll Profil Utama
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Rata-rata Umur</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 17 tahun</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Pola Tidur</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 14 jam (kepercayaan tinggi pada pemilik)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamen</span><span class="font-bold text-slate-800 dark:text-slate-200">Penurut, Tenang, Sangat Sosial</span></div>
-  </div>
-</div>
+---
 
 ## 1. Sinyal Penenang Ragdoll: Kedipan Lambat dan Peregangan Cakar yang Rileks
 
-Kucing Ragdoll mengekspresikan kepercayaan mereka yang tinggi tidak hanya dengan terkulai lemas, tetapi juga melalui gerakan mata dan cakar. Sinyal kenyamanan yang utama meliputi 'kedipan lambat' and 'peregangan cakar'. Memandang Anda dan berkedip sangat lambat adalah pesan keamanan dan kasih sayang. Saat merasa sangat senang, mereka meregangkan jari-jari cakar seperti kipas. Mengelus bagian bawah dagu saat ini memaksimalkan perasaan aman mereka.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Kedipan Lambat</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sinyal Penenang Ragdoll: Kedipan Lambat dan Peregangan Cakar yang Rileks</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Tanda kasih sayang, menunjukkan bahwa mereka sepenuhnya mempercayai Anda dan merasa aman.<br/>
-    <strong>• Tindakan yang Benar:</strong> Balas dengan berkedip perlahan untuk memperkuat ikatan dan saling percaya.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Peregangan Cakar</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Menunjukkan kenyamanan luar biasa, meniru memori menyusu saat masih kecil.<br/>
-    <strong>• Tindakan yang Benar:</strong> Lanjutkan mengelus lembut di bawah dagu atau leher agar mereka tetap rileks.
+    Kucing Ragdoll mengekspresikan kepercayaan mereka yang tinggi tidak hanya dengan terkulai lemas, tetapi juga melalui gerakan mata dan cakar. Sinyal kenyamanan yang utama meliputi 'kedipan lambat' and 'peregangan cakar'. Memandang Anda dan berkedip sangat lambat adalah pesan keamanan dan kasih sayang. Saat merasa sangat senang, mereka meregangkan jari-jari cakar seperti kipas. Mengelus bagian bawah dagu saat ini memaksimalkan perasaan aman mereka.
   </p>
 </div>
 
 ---
 
-## 2. Rutinitas Perawatan Harian Kustom
+## 2. Ragdoll's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Kedipan Lambat</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Arti:</strong> Tanda kasih sayang, menunjukkan bahwa mereka sepenuhnya mempercayai Anda dan merasa aman.<br/>
+    <strong>• Tindakan:</strong> Balas dengan berkedip perlahan untuk memperkuat ikatan dan saling percaya.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Peregangan Fisik Ringan untuk Kesehatan Kerangka</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -85,37 +91,16 @@ Kucing Ragdoll mengekspresikan kepercayaan mereka yang tinggi tidak hanya dengan
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Menyikat dengan Sisir Jarum untuk Mencegah Kusut</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Bulu bagian bawah Ragdoll sangat lembut dan mudah kusut. Sisir searah bulu dengan sisir jarum berujung bulat untuk ventilasi bulu dan mencegah dermatitis.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Teknik Menggendong Aman dengan Menopang Pinggul</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Mengangkat bagian atas tubuh saja menyebabkan tulang belakang terpelintir. Selalu topang dada dengan satu tangan dan pinggul dengan tangan lainnya.
-  </p>
-</div>
-
-## 3. Ringkasan dan Tindakan Pencegahan
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

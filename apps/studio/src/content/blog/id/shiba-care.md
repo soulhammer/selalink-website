@@ -4,11 +4,25 @@ title: "Kemandirian Shiba Inu dan Perawatan Bulu Ganda: Rutinitas 3 Langkah"
 description: "Shiba Inu sangat mandiri dan sensitif terhadap sentuhan. Pelajari teknik menyikat bulu ganda mereka dan rutinitas 3 langkah untuk sentuhan tanpa stres."
 pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
+category: "FreshSelf"
+tags: ["PerawatanHewan","KesehatanHewan","Shiba Inu"]
 heroImage: "/images/blog/shiba_care.png"
-authority: "Klub Nasional Shiba Inu Amerika & Pedoman Modifikasi Perilaku IAABC"
 app: "petself"
 formatVersion: 4
-tags: ["Shiba Inu","Bulu Ganda","Sosialisasi","Perawatan Anjing"]
+authority: "Klub Nasional Shiba Inu Amerika & Pedoman Modifikasi Perilaku IAABC"
+steps:
+  - name: "Cara Membaca Isyarat Tubuh dan Tanda Stres pada Anjing Shiba"
+    text: "Shiba Inu mengekspresikan batasan mereka secara jelas dan tenang. Sinyal utama meliputi 'memalingkan muka' dan 'mengibaskan tubuh'. Ketika seseorang mengulurkan tangan untuk menyentuh mereka dan Shiba memalingkan kepala, itu adalah permintaan sopan yang mengatakan 'tolong jangan sentuh aku sekarang.' Mengibaskan tubuh setelah kejadian stres adalah mekanisme naluriah untuk melepaskan ketegangan fisik."
+  - name: "Shiba Inu's Body Language & Signals"
+    text: "* Memalingkan Muka: Permintaan sopan yang meminta orang tersebut berhenti mendekat atau menyentuh, mengekspresikan tekanan. (Jika melihat ini, jangan mencoba menyentuh mereka. Tarik tangan Anda dan beri mereka ruang.)
+
+* Mengibaskan Tubuh: Tindakan yang dimaksudkan untuk melepaskan stres atau ketegangan fisik setelah suatu kejadian. (Jika mereka mengibas selama perawatan, mereka sedang melepaskan ketegangan. Hentikan aktivitas dan biarkan mereka istirahat.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Pagi: Desensitisasi Sentuhan Area Sensitif: Sentuh kaki atau pinggul mereka sebentar selama 1 detik, lalu beri hadiah berupa camilan lezat. Ulangi untuk membangun asosiasi positif dengan sentuhan.
+
+* STEP 2. Siang: Menyikat Bulu Ganda dengan Stres Rendah: Gunakan sikat slicker untuk menyikat lembut searah pertumbuhan bulu. Jika mereka menunjukkan tanda ketidaknyamanan atau menggeram, segera hentikan.
+
+* STEP 3. Malam: Menghormati Zona Aman Mandiri: Ketika Shiba mundur ke kandang atau sudut aman mereka untuk istirahat malam, jangan paksa mereka keluar atau membelainya. Biarkan mereka beristirahat."
 faqs:
   - question: "Mengapa Shiba Inu saya berteriak saat dirawat?"
     answer: "Ini dikenal sebagai 'Shiba Scream.' Ini adalah ekspresi ketakutan dan tekanan yang tulus, bukan sekadar berakting. Hentikan segera dan mulai kembali pelatihan dari tingkat dasar."
@@ -30,50 +44,42 @@ Shiba Inu dicintai secara global karena penampilan mirip rubah dan ekor melingka
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Shiba Inu Profil Utama
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Rata-rata Umur</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 tahun</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Pola Tidur</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 14 jam (berorientasi ruang pribadi)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamen</span><span class="font-bold text-slate-800 dark:text-slate-200">Mandiri, Waspada, Berani</span></div>
-  </div>
-</div>
+---
 
 ## 1. Cara Membaca Isyarat Tubuh dan Tanda Stres pada Anjing Shiba
 
-Shiba Inu mengekspresikan batasan mereka secara jelas dan tenang. Sinyal utama meliputi 'memalingkan muka' dan 'mengibaskan tubuh'. Ketika seseorang mengulurkan tangan untuk menyentuh mereka dan Shiba memalingkan kepala, itu adalah permintaan sopan yang mengatakan 'tolong jangan sentuh aku sekarang.' Mengibaskan tubuh setelah kejadian stres adalah mekanisme naluriah untuk melepaskan ketegangan fisik.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Memalingkan Muka</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cara Membaca Isyarat Tubuh dan Tanda Stres pada Anjing Shiba</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Permintaan sopan yang meminta orang tersebut berhenti mendekat atau menyentuh, mengekspresikan tekanan.<br/>
-    <strong>• Tindakan yang Benar:</strong> Jika melihat ini, jangan mencoba menyentuh mereka. Tarik tangan Anda dan beri mereka ruang.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mengibaskan Tubuh</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Arti:</strong> Tindakan yang dimaksudkan untuk melepaskan stres atau ketegangan fisik setelah suatu kejadian.<br/>
-    <strong>• Tindakan yang Benar:</strong> Jika mereka mengibas selama perawatan, mereka sedang melepaskan ketegangan. Hentikan aktivitas dan biarkan mereka istirahat.
+    Shiba Inu mengekspresikan batasan mereka secara jelas dan tenang. Sinyal utama meliputi 'memalingkan muka' dan 'mengibaskan tubuh'. Ketika seseorang mengulurkan tangan untuk menyentuh mereka dan Shiba memalingkan kepala, itu adalah permintaan sopan yang mengatakan 'tolong jangan sentuh aku sekarang.' Mengibaskan tubuh setelah kejadian stres adalah mekanisme naluriah untuk melepaskan ketegangan fisik.
   </p>
 </div>
 
 ---
 
-## 2. Rutinitas Perawatan Harian Kustom
+## 2. Shiba Inu's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinyal Tubuh 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Memalingkan Muka</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Arti:</strong> Permintaan sopan yang meminta orang tersebut berhenti mendekat atau menyentuh, mengekspresikan tekanan.<br/>
+    <strong>• Tindakan:</strong> Jika melihat ini, jangan mencoba menyentuh mereka. Tarik tangan Anda dan beri mereka ruang.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pagi: Desensitisasi Sentuhan Area Sensitif</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Shiba Inu mengekspresikan batasan mereka secara jelas dan tenang. Sinyal utama m
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Siang: Menyikat Bulu Ganda dengan Stres Rendah</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Gunakan sikat slicker untuk menyikat lembut searah pertumbuhan bulu. Jika mereka menunjukkan tanda ketidaknyamanan atau menggeram, segera hentikan.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Malam: Menghormati Zona Aman Mandiri</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Ketika Shiba mundur ke kandang atau sudut aman mereka untuk istirahat malam, jangan paksa mereka keluar atau membelainya. Biarkan mereka beristirahat.
-  </p>
-</div>
-
-## 3. Ringkasan dan Tindakan Pencegahan
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

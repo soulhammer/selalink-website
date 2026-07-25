@@ -4,11 +4,25 @@ title: "Netherland Dwarf Rabbit Thumping Signals and 3-Step Digestive Health Rou
 description: "Caring for the smallest rabbit breed, the Netherland Dwarf. Learn how to respond to warning thumps and support their sensitive digestive system with a 3-step high-fiber hay routine."
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
+category: "FreshSelf"
+tags: ["PetCare","PetHealth","Netherland Dwarf Rabbit"]
 heroImage: "/images/blog/dwarf_rabbit_care.png"
-authority: "House Rabbit Society Medical Guidelines and Small Animal Veterinary Standards"
 app: "petself"
 formatVersion: 4
-tags: ["Netherland Dwarf","Rabbit Thumping","Timothy Hay","GI Stasis Prevention"]
+authority: "House Rabbit Society Medical Guidelines and Small Animal Veterinary Standards"
+steps:
+  - name: "Dwarf Rabbit Emotional Expression: Thumping and Teeth Purring"
+    text: "Netherland Dwarf Rabbits thump their hind legs loudly to warn of danger or express deep frustration. Conversely, when relaxed and happy, they slide their teeth to produce a soft clicking sound called teeth purring. Recognizing these signals ensures a happy, healthy bond."
+  - name: "Netherland Dwarf Rabbit's Body Language & Signals"
+    text: "* Hind Leg Thumping: A firm warning notifying others of danger or expressing severe anger and stress. (Identify the stressor, block sudden noises or other pets, and observe from a distance until they feel safe.)
+
+* Teeth Purring: A sign of joy and safety, similar to a cat's purring, often felt during petting. (Gently massage the forehead and base of their ears to deepen the emotional connection.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Morning: High-Fiber Timothy Hay & Fresh Water Setup: For teeth wear and active digestion, fill the rack with fresh dust-free Timothy hay, and clean the water bowl.
+
+* STEP 2. Afternoon: Litter Box Cleaning & Sore Hock Inspection: Clean the litter box for hygiene, and check their paw pads to prevent sore hocks caused by slippery or hard floors.
+
+* STEP 3. Evening: Chew Toy Check & Regular Nail Length Trim: Provide fresh apple wood sticks to satisfy their chewing instincts and check nail lengths to prevent snags."
 faqs:
   - question: "Should I bathe my rabbit with water?"
     answer: "No. Rabbits have thin skin, and getting wet can cause extreme hypothermia or fatal shock. They clean themselves via grooming. Only spot-clean soiled areas gently with a damp towel."
@@ -30,50 +44,42 @@ With tiny ears and a compact round body, the Netherland Dwarf Rabbit is globally
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Netherland Dwarf Rabbit Core Profile
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Lifespan</span><span class="font-bold text-slate-800 dark:text-slate-200">8 - 12 Years</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Sleep Pattern</span><span class="font-bold text-slate-800 dark:text-slate-200">8 - 10 Hours (Crepuscular - Active Mornings & Evenings)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperament</span><span class="font-bold text-slate-800 dark:text-slate-200">Gentle, Sensitive, Curious, Affectionate</span></div>
-  </div>
-</div>
+---
 
 ## 1. Dwarf Rabbit Emotional Expression: Thumping and Teeth Purring
 
-Netherland Dwarf Rabbits thump their hind legs loudly to warn of danger or express deep frustration. Conversely, when relaxed and happy, they slide their teeth to produce a soft clicking sound called teeth purring. Recognizing these signals ensures a happy, healthy bond.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Hind Leg Thumping</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Dwarf Rabbit Emotional Expression: Thumping and Teeth Purring</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Meaning:</strong> A firm warning notifying others of danger or expressing severe anger and stress.<br/>
-    <strong>• Correct Action:</strong> Identify the stressor, block sudden noises or other pets, and observe from a distance until they feel safe.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Teeth Purring</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Meaning:</strong> A sign of joy and safety, similar to a cat's purring, often felt during petting.<br/>
-    <strong>• Correct Action:</strong> Gently massage the forehead and base of their ears to deepen the emotional connection.
+    Netherland Dwarf Rabbits thump their hind legs loudly to warn of danger or express deep frustration. Conversely, when relaxed and happy, they slide their teeth to produce a soft clicking sound called teeth purring. Recognizing these signals ensures a happy, healthy bond.
   </p>
 </div>
 
 ---
 
-## 2. Custom Daily Care Routine
+## 2. Netherland Dwarf Rabbit's Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Body Signal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Hind Leg Thumping</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Meaning:</strong> A firm warning notifying others of danger or expressing severe anger and stress.<br/>
+    <strong>• Response:</strong> Identify the stressor, block sudden noises or other pets, and observe from a distance until they feel safe.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morning: High-Fiber Timothy Hay & Fresh Water Setup</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ Netherland Dwarf Rabbits thump their hind legs loudly to warn of danger or expre
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Afternoon: Litter Box Cleaning & Sore Hock Inspection</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Clean the litter box for hygiene, and check their paw pads to prevent sore hocks caused by slippery or hard floors.
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Evening: Chew Toy Check & Regular Nail Length Trim</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Provide fresh apple wood sticks to satisfy their chewing instincts and check nail lengths to prevent snags.
-  </p>
-</div>
-
-## 3. Summary and Precautions
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Simply observing your pet's calming signals can prevent major behavioral issues and stress-induced illnesses. While veterinary treatment is important, providing a safe environment (steps, vertical spaces, multiple water sources) is the strongest shield supporting their lifetime happiness.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

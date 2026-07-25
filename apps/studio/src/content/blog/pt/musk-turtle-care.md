@@ -4,11 +4,25 @@ title: "Alongamento de patas do tigre d'água comum e rotina de filtração de �
 description: "Cuidado do tigre d'água comum (tartaruga almíscar comum). Conheça o significado do alongamento de patas traseiras durante o banho de sol e previna doenças da carapaça com uma rotina de filtração de 3 passos."
 pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
+category: "FreshSelf"
+tags: ["CuidadoPets","SaudePets","Tartaruga Almíscar Comum (Common Musk Turtle)"]
 heroImage: "/images/blog/musk_turtle_care.png"
-authority: "Diretrizes de Banho de Sol da World Chelonian Association e Protocolo de Tartarugas Aquáticas"
 app: "petself"
 formatVersion: 4
-tags: ["Tartaruga Almíscar","Banho de Sol Tartaruga","Qualidade de Água","Muda de Placas"]
+authority: "Diretrizes de Banho de Sol da World Chelonian Association e Protocolo de Tartarugas Aquáticas"
+steps:
+  - name: "Sinais de banho de sol da tartaruga almíscar comum e defesa de retracção da carapaça"
+    text: "As tartarugas almíscar comum esticam as suas patas traseiras para trás enquanto apanham sol 'Alongamento de patas traseiras (Back-Leg Stretching)' para maximizar a absorção de luz. Pelo contrário, ao detetar ameaças ou vibrações, retraem a cabeça e extremidades na carapaça dura 'Retracção da carapaça (Shell Retraction)' para se defenderem."
+  - name: "Tartaruga Almíscar Comum (Common Musk Turtle)'s Body Language & Signals"
+    text: "* Alongamento de patas traseiras (Back-Leg Stretching): Um estado relaxado sob a lâmpada UV, esticando as extremidades para absorver calor e secar a pele. (Evite assustá-las para que não saltem de volta para a água. Monitorize a temperatura da lâmpada a partir de uma distância.)
+
+* Retracção de cabeça e extremidades (Shell Retraction): Um estado de vigilância, sobressaltado por sombras, movimento superior ou vibrações. (Evite movimentos bruscos em frente ao aquário e recue até que se sintam seguras de olhar para fora.)"
+  - name: "Customized 3-Step Home Care Routine"
+    text: "* STEP 1. Manhã: Controlo de temperatura da água e alimentação equilibrada: Verifique o termómetro da água (manter a 25-28 °C) and alimente com ração comercial de alta qualidade adequada para a idade.
+
+* STEP 2. Tarde: Verificação da lâmpada de banho de sol e lâmpadas UV-B: Verifique se as lâmpadas de calor UV-B e de banho de sol funcionam corretamente para evitar a doença metabólica óssea (MBD).
+
+* STEP 3. Noite: Limpeza de restos de comida e trocas de água semanais: Sifoneie os resíduos e as sobras. Realize uma troca de água semanal de 30% utilizando água desclorada."
 faqs:
   - question: "¿É seguro encher o aquário directamente com água da torneira?"
     answer: "Não. O cloro da água da torneira irrita as membranas oculares e a pele sensível da tartaruga, causando secura ou inchaço. Utilize água repousada por 24 horas ou gotas de decloração."
@@ -30,50 +44,42 @@ A tartaruga almíscar comum de tamanho compacto é ideal para principiantes. Emb
   </div>
 </div>
 
-<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
-  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
-    🐾 Tartaruga Almíscar Comum (Common Musk Turtle) Perfil principal
-  </h3>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Vida útil média</span><span class="font-bold text-slate-800 dark:text-slate-200">20 ~ 30 anos</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Padrão de sono</span><span class="font-bold text-slate-800 dark:text-slate-200">8 ~ 10 horas (dorme no fundo do aquário ou plataforma)</span></div>
-    <div class="flex flex-col"><span class="text-xs text-slate-400">Temperamento</span><span class="font-bold text-slate-800 dark:text-slate-200">Silencioso, sedentário, cauteloso, curioso</span></div>
-  </div>
-</div>
+---
 
 ## 1. Sinais de banho de sol da tartaruga almíscar comum e defesa de retracção da carapaça
 
-As tartarugas almíscar comum esticam as suas patas traseiras para trás enquanto apanham sol 'Alongamento de patas traseiras (Back-Leg Stretching)' para maximizar a absorção de luz. Pelo contrário, ao detetar ameaças ou vibrações, retraem a cabeça e extremidades na carapaça dura 'Retracção da carapaça (Shell Retraction)' para se defenderem.
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Alongamento de patas traseiras (Back-Leg Stretching)</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sinais de banho de sol da tartaruga almíscar comum e defesa de retracção da carapaça</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Um estado relaxado sob a lâmpada UV, esticando as extremidades para absorver calor e secar a pele.<br/>
-    <strong>• Ação correta:</strong> Evite assustá-las para que não saltem de volta para a água. Monitorize a temperatura da lâmpada a partir de uma distância.
-  </p>
-</div>
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Retracção de cabeça e extremidades (Shell Retraction)</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Significado:</strong> Um estado de vigilância, sobressaltado por sombras, movimento superior ou vibrações.<br/>
-    <strong>• Ação correta:</strong> Evite movimentos bruscos em frente ao aquário e recue até que se sintam seguras de olhar para fora.
+    As tartarugas almíscar comum esticam as suas patas traseiras para trás enquanto apanham sol 'Alongamento de patas traseiras (Back-Leg Stretching)' para maximizar a absorção de luz. Pelo contrário, ao detetar ameaças ou vibrações, retraem a cabeça e extremidades na carapaça dura 'Retracção da carapaça (Shell Retraction)' para se defenderem.
   </p>
 </div>
 
 ---
 
-## 2. Rotina de cuidados diários personalizada
+## 2. Tartaruga Almíscar Comum (Common Musk Turtle)'s Body Language & Signals
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Sinal Corporal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Alongamento de patas traseiras (Back-Leg Stretching)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Significado:</strong> Um estado relaxado sob a lâmpada UV, esticando as extremidades para absorver calor e secar a pele.<br/>
+    <strong>• Resposta:</strong> Evite assustá-las para que não saltem de volta para a água. Monitorize a temperatura da lâmpada a partir de uma distância.
+  </p>
+</div>
+
+---
+
+## 3. Customized 3-Step Home Care Routine
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Manhã: Controlo de temperatura da água e alimentação equilibrada</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -81,37 +87,16 @@ As tartarugas almíscar comum esticam as suas patas traseiras para trás enquant
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tarde: Verificação da lâmpada de banho de sol e lâmpadas UV-B</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Verifique se as lâmpadas de calor UV-B e de banho de sol funcionam corretamente para evitar a doença metabólica óssea (MBD).
-  </p>
-</div>
+---
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Noite: Limpeza de restos de comida e trocas de água semanais</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Sifoneie os resíduos e as sobras. Realize uma troca de água semanal de 30% utilizando água desclorada.
-  </p>
-</div>
-
-## 3. Resumo e precauções
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.
+      
     </p>
   </div>
 </div>
-
----
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
