@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, absolutamente. Aunque a menor escala, examinar las nervaduras de las hojas, la textura de la tierra o el color del tallo en plantas de interior induce la 'Fascinación Suave', relajando la corteza prefrontal y reduciendo el estrés."
   - question: "¿Está bien si carezco de habilidades de dibujo y no puedo hacer bocetos detallados?"
     answer: "Sí, por supuesto. El boceto es solo una herramienta opcional para estructurar la atención visual. Si no sabe dibujar, describir los colores, texturas y cambios del objeto usando 2 o 3 líneas de texto rico en detalles es suficiente para estimular la restauración cerebral."
-
 ---
 
 "Quienes contemplan la belleza de la tierra encuentran reservas de fuerza que perdurarán mientras dure la vida." 🐚

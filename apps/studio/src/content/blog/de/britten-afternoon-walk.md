@@ -21,7 +21,6 @@ faqs:
     answer: "Aldeburgh an der Ostküste Englands in Suffolk ist ein Kiesstrand aus glatten Kieselsteinen statt Sand. Wenn Wellen über die Kiesel rollen, entsteht ein rhythmischer Klang, während der weite Horizont dem Präfrontalkortex visuelle Befreiung schenkt."
   - question: "Bietet das Gehen in städtischen Umgebungen umgeben von Wolkenkratzern ähnliche Vorteile für die Aufmerksamkeitserholung?"
     answer: "Stadtspaziergänge beinhalten Verkehrslärm, Signale und Neonlichter, die gelenkte Aufmerksamkeit erfordern und den Erholungseffekt verringern. In Städten ist es wichtig, ruhige Grünflächen wie bewaldete Parks oder Flusswege aufzusuchen."
-
 ---
 
 "Auf meinen nachmittäglichen Spaziergängen an der Küste lösen sich alle schwierigen Knoten in meiner Musik, die sich mir am Morgen widersetzten, endlich von selbst auf." 🌊

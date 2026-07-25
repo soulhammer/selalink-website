@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, exzessives Nachtarbeiten schadet der Gesundheit. Der Kern der Methode ist nicht die Nachtstunde selbst, sondern das Erreichen '1 Stunde absoluter Stille' ohne Ablenkungen. Das Nutzen von Noise-Cancelling-Technik oder frühen Morgenstunden bietet dieselben kognitiven Vorteile."
   - question: "Wie lässt sich Kafkas Stille-Routine tagsüber anwenden?"
     answer: "Nutzen Sie tagsüber Ohrstöpsel oder Noise-Cancelling-Kopfhörer, dimmen Sie das Licht oder schließen Sie Vorhänge. Das Verringern visueller und auditiver Reize erzeugt künstlich eine ungestörte 'Stille-Phase' für Ihr Gehirn."
-
 ---
 
 "Die Tür meines Zimmers ist verschlossen, vollkommene Stille umgibt mich, und diese Stille trägt meine Seele. Schreiben ist eine Form des Gebets." 🕯️

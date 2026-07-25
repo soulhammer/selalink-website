@@ -21,7 +21,6 @@ faqs:
     answer: "Il est naturel de se sentir embarrassé au début en raison de la dissonance cognitive (Cognitive Dissonance). L'important n'est pas de vérifier la réalité des faits, mais d'ouvrir de nouvelles possibilités à votre cerveau. Plus vous répétez, plus la neuroplasticité (Neuroplasticity) réorganise les circuits neuronaux, faisant disparaître la gêne pour la transformer en conviction."
   - question: "Est-ce efficace seulement si je le crie à voix haute ?"
     answer: "Le mieux est de percevoir directement la vibration de votre voix par l'ouïe. Cependant, si votre environnement rend difficile le fait de parler fort, chuchoter ou répéter silencieusement chaque mot dans votre esprit avec une forte concentration (Silent Self-talk) fournit également une stimulation positive suffisante pour l'activation cérébrale."
-
 ---
 
 « Je disais que j'étais le plus grand avant même de savoir que je l'étais. On devient ce que l'on pense. » 🥊

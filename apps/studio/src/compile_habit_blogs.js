@@ -243,7 +243,9 @@ function compileBlogs() {
         });
       }
 
-      const stepsYaml = 'steps:\n' + steps.map(s => `  - name: "${s.name.replace(/"/g, '\\"')}"\n    text: "${s.text.replace(/"/g, '\\"')}"`).join('\n');
+      const stepsYaml = steps.length > 0
+        ? 'steps:\n' + steps.map(s => `  - name: "${s.name.replace(/"/g, '\\"')}"\n    text: "${s.text.replace(/"/g, '\\"')}"`).join('\n')
+        : 'steps: []';
 
       const faqItems = [];
       if (data.faqs && Array.isArray(data.faqs)) {
@@ -256,13 +258,13 @@ function compileBlogs() {
 
       const faqSection = renderFaqSection(lang, faqItems);
 
-      let faqsYaml = '';
+      let faqsYaml = 'faqs: []';
       if (data.faqs && data.faqs.length > 0) {
         faqsYaml = 'faqs:\n' + data.faqs.map(faq => {
           const q = faq.question?.[lang] || faq.question?.['en'] || faq.question?.['ko'] || '';
           const a = (faq.answer?.[lang] || faq.answer?.['en'] || faq.answer?.['ko'] || '').replace(/\\n/g, '\n');
           return `  - question: "${q.replace(/"/g, '\\"')}"\n    answer: "${a.replace(/"/g, '\\"')}"`;
-        }).join('\n') + '\n';
+        }).join('\n');
       }
 
       const fileContent = `---

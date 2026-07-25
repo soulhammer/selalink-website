@@ -21,7 +21,6 @@ faqs:
     answer: "Nein, die Wirkung unterscheidet sich deutlich. Tippen beinhaltet leichte, monotone Tastenanschläge mit minimalem sensorischen Input. Das Schreiben mit einem Stift hingegen beansprucht komplexe Assoziationsareale im gesamten Gehirn, was für Gedächtniseinprägung und Aufmerksamkeitsspanne unvergleichlich effektiver ist."
   - question: "Muss ich auf eine schöne Handschrift achten?"
     answer: "Perfekte Kalligrafie ist keineswegs erforderlich. Das Wesen des Trainings liegt darin, dass sich das Gehirn auf den Spürdruck der Stiftspitze und die Strichführung concentrated. Solange es für Sie lesbar ist, erweist sich ein natürlicher Schreibfluss als vorteilhaft."
-
 ---
 
 Malcolm X (1925–1965) war ein charismatischer Redner und Anführer, der während der Bürgerrechtsbewegung in den USA Massen mitriss. Hinter seiner imposanten Erscheinung, die das Publikum mit eloquenter Wortwahl beeindruckte, lag eine schmerzhafte Vergangenheit, in der er kaum einen kohärenten Satz schreiben konnte. 📖

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah berjalan di atas treadmill dalam ruangan memberikan efek yang sama?"
     answer: "Meskipun peningkatan aliran darah aerobik serupa, eksplorasi visual alam terbuka memberikan stimulasi sensorik ruang-visuospasial dan menurunkan kadar hormon stres (kortisol) secaraauh lebih efektif saat berjalan di taman atau alam terbuka."
-
 ---
 
 Socrates (sekitar 470–399 SM) adalah cendekiawan Yunani kuno yang meletakkan dasar filsafat Barat dan mengajarkan manusia untuk merenungkan ketidaktahuannya. Catatan Plato dan Xenophon menggambarkan kebiasaan harian uniknya. 👣

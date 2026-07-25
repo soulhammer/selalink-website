@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak. Musik dengan lirik atau kebisingan berpolabesar (>85 dB) mengganggu memori kerja di lobus frontal, menyebabkan kelelahan. Hanya kebisingan putih lingkungan yang tak terduga yang memicu efek positif."
   - question: "Apakah mendengarkan kebisingan putih lewat earphone di ruang belajar membantu?"
     answer: "Ya. Memutar kebisingan putih di ruangan terisolasi memberi perlindungan dari gangguan. Namun, mengombinasikannya dengan perubahan visual (seperti suasana kafe) semakin menguntungkan kreativitas."
-
 ---
 
 "Suara sedang dan kesendirian di kafe membebaskan otak saya, memungkinkan saya membayangkan dunia penyihir tanpa hambatan." ☕

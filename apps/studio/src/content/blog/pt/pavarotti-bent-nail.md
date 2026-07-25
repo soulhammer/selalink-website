@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Por que Pavarotti procurava especificamente por um prego dobrado?"
     answer: "Na cultura teatral italiana, encontrar um prego dobrado nos bastidores é um antigo presságio de sorte. Ele começou como uma simples superstição, mas evoluiu para uma âncora cognitiva indispensável que o salvava do pavor de palco."
-
 ---
 
 "Eu sempre realizo meu pequeno ritual antes de subir ao palco. É a única maneira de conquistar meu medo." 🚶‍♂️

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Bagaimana Milton menghafal semua bait puisi sebelum asistennya tiba?"
     answer: "Milton mendaraskan bait-bait puisi secara berulang dengan irama yang ritmis bagaikan musik. Ia memanfaatkan memori kerja pendengaran yang berkembang pesat setelah kebutaan dan menggunakan ritme puisi (blank verse) sebagai jangkar memori."
-
 ---
 
 "Pikiran adalah tempatnya sendiri, dan di dalam dirinya dapat membuat Neraka menjadi Surga, atau Surga menjadi Neraka." 🚶‍♂️

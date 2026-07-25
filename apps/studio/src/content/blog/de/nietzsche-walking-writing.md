@@ -21,7 +21,6 @@ faqs:
     answer: "Nietzsche wanderte meist zwischen FrÃ¼hstÃ¼ck und Mittagessen sowie am spÃ¤ten Nachmittag. Er bevorzugte Berg- und Waldwege, um Inspiration aus der Natur zu schÃ¶pfen."
   - question: "Muss man fÃ¼r diese Praxis zwingend im Freien gehen?"
     answer: "SpaziergÃ¤nge im Freien sind ideal. Falls dies nicht mÃ¶glich ist, reicht auch das ruhige Auf- und Abgehen auf Fluren, um die Konzentration zu erfrischen."
-
 ---
 
 "Alle wahrhaft groÃen Gedanken werden im Gehen konzipiert." ð¶ââï¸

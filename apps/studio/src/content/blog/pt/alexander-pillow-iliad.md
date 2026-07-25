@@ -21,7 +21,6 @@ faqs:
     answer: "A ficção leve também oferece um efeito de resfriamento que alivia o estresse cerebral, mas para alcançar um efeito de 'motivação orientada a valores' que alinhe a autoidentidade e inspire a força de vontade de execução como na rotina de Alexandre, é muito melhor escolher epopeias clássicas, livros de filosofia ou biografias que ofereçam ressonância e reflexão internas."
   - question: "É ter problema ler livros usando um leitor de e-book deitado?"
     answer: "As telas de leitores de e-books ou tablets carregam um grande risco de suprimir a secreção de melatonina, pois a emissão de luz faz o cérebro confundir a noite com o dia. Para obter os melhores resultados no alinhamento subconsciente e em um sono profundo, recomenda-se ler um livro de papel físico folheando as páginas diretamente com a mão sob iluminação suave sempre que possível."
-
 ---
 
 "Nada é impossível para aquele que tenta." ⚔️

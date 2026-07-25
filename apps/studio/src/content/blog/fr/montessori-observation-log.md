@@ -21,7 +21,6 @@ faqs:
     answer: "Oui. Lors du suivi de votre temps ou de la rédaction d'un journal de travail, cette méthode s'applique parfaitement en éliminant la culpabilité et en consignant uniquement les données réelles d'exécution."
   - question: "Comment puis-je facilement distinguer les sentiments subjectifs des faits objectifs ?"
     answer: "Appliquez le critère : 'S'agit-il d'une action concrète ou d'une donnée qu'une caméra vidéo pourrait enregistrer ?' Éliminez simplement toutes les pensées ou jugements qui ne seraient pas visibles à l'écran."
-
 ---
 
 "Lorsque nous observons le comportement des enfants tel qu'il est vraiment, c'est alors seulement que le grand potentiel qui est en eux se révèle." 📝

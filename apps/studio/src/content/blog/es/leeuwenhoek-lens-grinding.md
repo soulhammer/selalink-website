@@ -21,7 +21,6 @@ faqs:
     answer: "¡Sí, es sumamente efectiva! Sincronizar el control motor fino con el enfoque visual calma la hiperactividad en la amígdala y las redes de estrés, reduciendo la ansiedad y devolviendo la serenidad al cerebro."
   - question: "¿Con qué frecuencia y en qué momento del día conviene practicar esta rutina de microinmersión?"
     answer: "Practicar una vez al día durante unos 20 minutos es lo ideal. Funciona como un calentamiento cognitivo antes de abordar tareas complejas, o como un restablecimiento prefrontal para recuperar energía tras periodos de estrés o fatiga mental."
-
 ---
 
 "Mi trabajo no fue realizado para obtener elogios o riquezas, sino principalmente por un deseo de conocimiento sobre las creaciones microscópicas." 🔍

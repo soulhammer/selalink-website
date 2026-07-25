@@ -21,7 +21,6 @@ faqs:
     answer: "Comenzar con 500 páginas de inmediato es impracticable. El volumen de Buffett se basa en décadas de adaptación neuroplástica. El objetivo no es la cifra exacta de páginas, sino la consistencia del hábito cognitivo: leer con atención de 20 a 30 páginas al día. Dedicar 30 minutos al despertar o durante los desplazamientos genera una enorme palanca intelectual tras unos años."
   - question: "¿Los libros electrónicos o audiolibros producen el mismo efecto de conocimiento compuesto que los libros de papel?"
     answer: "Los libros electrónicos en e-readers de tinta electrónica son una excelente alternativa para la lectura profunda. Sin embargo, las pantallas de teléfonos o tabletas corren el riesgo de distraer la atención prefrontal mediante notificaciones. Los audiolibros tienden a la recepción pasiva y no estimulan los circuitos analíticos tan fuertemente como la lectura. Para construir esquemas sólidos, priorice la lectura de texto e integre los audiolibros como complemento."
-
 ---
 
 "Lea 500 páginas todos los días. Así es como funciona el conocimiento. Se acumula, como el interés compuesto." 📚

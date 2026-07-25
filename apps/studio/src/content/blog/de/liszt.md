@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut! Das Prinzip gilt für alle Bewegungsabläufe – ob Tastatur-Shortcuts, Golf- oder Tennisschwung oder Gestik bei Präsentationen. Das Verlangsamen zur Fehlervermeidung beschleunigt die Myelinisierung im Kleinhirn und steigert die Präzision beim Temposteigern."
   - question: "Wie lässt sich diese Routine umsetzen, wenn kein Klavier oder Spezialgerät vorhanden ist?"
     answer: "Das Ausführen der Bewegung auf einer Schreibtischplatte oder Tastaturattrappe nach dem Takt einer Metronom-App aktiviert den motorischen Kortex und die Kleinhirnkreise nahezu ebenso stark wie das Spiel auf einem echten Instrument."
-
 ---
 
 "Das Geheimnis virtuoser Klaviertechnik liegt nicht in der Geschwindigkeit. Wenn man das Metronom extrem verlangsamt und fehlerfrei eine Taste pro Sekunde anschlägt, brennt sich der perfekte Bewegungsablauf ins Gehirn ein – erst dann entsteht blitzschnelle Präzision." 🎹

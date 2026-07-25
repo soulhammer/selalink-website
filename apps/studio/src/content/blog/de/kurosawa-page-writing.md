@@ -21,7 +21,6 @@ faqs:
     answer: "Keineswegs. Wenn Ziele zu groß sind, führt die Hürde beim Starten zu Aufschiebeverhalten, sodass oft gar nichts erreicht wird. Ein kleiner täglicher Impuls summiert sich im Jahr auf über 700 Seiten – was zwei bis drei vollständigen Drehbüchern entspricht."
   - question: "Lässt sich diese 2-Seiten-Routine auch auf den Büroalltag, Softwareentwicklung oder Prüfungsvorbereitung anwenden?"
     answer: "Ja, absolut! Entscheidend ist nicht die Zahl '2 Seiten', sondern das Verringern der Aufgabe auf eine Einheit, die dem Gehirn keine Angst macht. Schritte wie '1 Absatz eines Berichts schreiben' oder '2 Seiten im Fachbuch lesen' erzielen dieselbe Wirkung."
-
 ---
 
 "Versuchen Sie nicht, ein großes Meisterwerk auf einmal zu schreiben. Konzentrieren Sie sich nur auf die Regel, jeden Tag 2 Seiten auszufüllen. Wer täglich 2 Seiten schreibt, kommt im Jahr auf über 700 Seiten – genug für zwei bis drei Drehbücher." 🎬

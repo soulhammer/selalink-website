@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Is there a compelling reason to use paper notebooks in today's digital age?"
     answer: "Yes. From a neuroscience perspective, typing on a keyboard offers simple tactile stimulation that less efficiently engages the cerebral cortex. Conversely, writing with a pen directly on paper stimulates the Hippocampus (governing long-term memory). Furthermore, paper frees you from rigid input formats, allowing instant diagramming of concepts with freeform drawings and symbols."
-
 ---
 
 "Unrecorded knowledge is like a castle built on sand, easily scattered and forgotten." 📓

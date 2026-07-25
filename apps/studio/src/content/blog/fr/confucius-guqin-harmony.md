@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait. L'objectif de cette routine n'est pas la virtuosite technique, mais la stabilisation du système nerveux par l'accordage et la résonance. Des instruments simples comme un Kalimba ou un Ukulélé permettent d'accorder et de pincer des notes en 10 minutes pour un apaisement total."
   - question: "Est-il efficace d'utiliser une application d'accordage sur smartphone ?"
     answer: "Oui, à condition de ne pas fixer l'écran. Gardez l'application ouverte comme repère, mais détournez le regard. Concentrer votre attention sur le toucher de la corde et la vibration acoustique plutôt que sur les indicateurs visuels libère le cortex visuel et déclenche la récupération."
-
 ---
 
 « Quand l'esprit n'est pas clair, pincez les cordes. Accorder un instrument, c'est accorder son âme. » 🎼

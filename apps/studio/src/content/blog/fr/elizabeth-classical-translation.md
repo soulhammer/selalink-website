@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait. Obtenir des réponses instantanées ne sollicite pas les réseaux cognitifs. Les connexions synaptiques du cortex préfrontal se renforcent uniquement par la « friction cognitive » : l'effort manuel d'assembler la grammaire soi-même."
   - question: "Cette technique ne fonctionne-t-elle qu'avec des langues classiques comme le latin et le grec ?"
     answer: "Non. Toute langue vivante (anglais, allemand, chinois, etc.) ayant une syntaxe différente de votre langue maternelle constitue un excellent entraînement. L'important est de traduire des textes denses et soutenus (philosophie, essais, éditoriaux) plutôt que des dialogues informels."
-
 ---
 
 « Je sais que j'ai le corps d'une femme faible, mais j'ai le cœur et l'estomac d'un roi, et d'un roi d'Angleterre. » 👑

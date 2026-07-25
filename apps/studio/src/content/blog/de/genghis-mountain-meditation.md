@@ -21,7 +21,6 @@ faqs:
     answer: "Es reicht völlig aus, ein Fenster zu öffnen und mindestens 30 Sekunden lang auf den entferntesten Punkt draußen zu blicken. Entscheidend ist der Wechsel vom 'Tunnelblick' zum 'peripheren Sehen', um Stress abzubauen."
   - question: "Was kann ich tun, wenn ich mir beim Visualisieren keine klaren Bilder vorstellen kann?"
     answer: "Ein hochauflösendes Bild ist nicht erforderlich. Die Kombination aus dem positiven 'Gefühl' des Erfolgs, Umgebungsgeräuschen und inneren Worten ('Ich habe es geschafft') aktiviert dieselben Gehirnareale. Sammeln Sie einfach sensorische Hinweise."
-
 ---
 
 "Ich neige mein Haupt im Gebet zum ewigen Himmel und schärfe nicht die Waffen in meiner Hand, sondern die Absicht in meinem Herzen." 🏹

@@ -21,7 +21,6 @@ faqs:
     answer: "Fiksi ringan juga menawarkan efek mendinginkan yang meredakan stres otak, tetapi untuk mencapai efek 'motivasi berorientasi nilai' yang menyelaraskan identitas diri dan menginspirasi kekuatan kehendak eksekusi seperti rutinitas Alexander, jauh lebih baik memilih epik klasik, buku filsafat, atau biografi tokoh-tokoh besar yang memberikan resonansi dan refleksi mendalam."
   - question: "Apakah boleh membaca buku menggunakan e-book reader sambil berbaring?"
     answer: "Layar e-book reader atau tablet berisiko tinggi menekan sekresi melatonin karena pancaran cahaya membuat otak mengira malam sebagai siang hari. Untuk hasil optimal dalam merangsang penyelarasan alam bawah sadar dan tidur nyenyak, disarankan untuk membaca buku kertas fisik secara langsung dengan membalik halaman pakai tangan di bawah pencahayaan yang lembut jika memungkinkan."
-
 ---
 
 "Tidak ada yang tidak mungkin bagi mereka yang mau berusaha." ⚔️

@@ -21,7 +21,6 @@ faqs:
     answer: "Ja! Es geht nicht um komplizierte Rezepte. Das Aufbrühen von Filterkaffee oder das sorgfältige Braten eines Spiegeleis reicht völlig aus."
   - question: "Reduziert das selbstständige Kochen wirklich Stress?"
     answer: "Untersuchungen der Ergotherapie belegen, dass die Zubereitung von Lebensmitteln mit den Händen depressive Gehirnsignale unterdrückt und das Selbstwertgefühl steigert."
-
 ---
 
 Su Dongpo (Su Shi, 1037–1101), ein Meisterdichter und Staatsmann der Nord-Song-Dynastie. Trotz wiederholter Verbannung in abgelegene Regionen wie Huangzhou und Hainan bezwang er die Verzweiflung durch seinen legendären Optimismus.

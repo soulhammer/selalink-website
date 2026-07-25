@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Bagaimana jika keheningan total justru mengganggu fokus atau menimbulkan kecemasan?"
     answer: "Bagi pemula yang belum terbiasa dengan keheningan total, mulailah dengan memutar white noise (suara hujan, ombak) atau pink noise tanpa lirik agar otak beradaptasi secara bertahap."
-
 ---
 
 "Masa kini adalah hasil dari masa lalu dan penyebab dari masa depan."

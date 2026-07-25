@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Warum trug Barack Obama nur graue und blaue AnzÃ¼ge?"
     answer: "Um prÃ¤frontale Energie fÃ¼r wichtige Staatsentscheidungen zu schonen, strich er alltÃ¤gliche Kleiderentscheidungen, um EntscheidungsmÃ¼digkeit zu vermeiden."
-
 ---
 
 "Ich versuche, keine Entscheidungen darÃ¼ber zu treffen, was ich esse oder trage, weil ich zu viele andere Entscheidungen zu treffen habe." ð

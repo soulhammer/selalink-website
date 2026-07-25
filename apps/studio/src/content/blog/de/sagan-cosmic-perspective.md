@@ -21,7 +21,6 @@ faqs:
     answer: "Ja! Eine 1-minütige kosmische Visualisierung stabilisiert die Herzfrequenz und senkt Lampenfieber oder Leistungsangst spürbar."
   - question: "Was tun, wenn kein Weltraumfoto zur Hand ist?"
     answer: "Schließen Sie einfach die Augen und stellen Sie sich einen kleinen, wunderschönen blauen Punkt im dunklen Weltall vor – das erzielt genau denselben Effekt."
-
 ---
 
 "Jeder, den du liebst, jeder, den du kennst, jeder Mensch, der jemals war, lebte sein Leben auf einem Staubkorn in einem Sonnenstrahl." 🌌

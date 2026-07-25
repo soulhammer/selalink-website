@@ -21,7 +21,6 @@ faqs:
     answer: "Im Großbritannien des 19. Jahrhunderts wurden weiblichen Schriftstellern nur sehr selten unabhängige Arbeitszimmer zur Verfügung gestellt. Auch Austen musste im gemeinsamen Wohnbereich schreiben, weshalb sie die knarrende Tür nutzte, um plötzliche Besuche der Familie wahrzunehmen und Zeit zu gewinnen, ihre Manuskripte zu verstecken."
   - question: "Wie kann diese Methode in einer modernen digitalen Umgebung angewendet werden?"
     answer: "Indem Sie den Messenger-Status auf 'Bitte nicht stören' oder 'In einem Anruf' setzen, um den direkten Zufluss externer Benachrichtigungen zu blockieren, und wichtige Kommunikationstools so einstellen, dass sie nur in festgelegten Zeitabständen benachrichtigen, können Sie unerwartete kognitive Unterbrechungen steuern."
-
 ---
 
 "Das Knarren einer Tür ist der sicherste Alarm, der meinen Fokus schützt." 🚪

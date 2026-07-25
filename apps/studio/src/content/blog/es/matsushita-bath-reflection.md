@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿No es ineficiente tomar un baño todos los días para la gente moderna ocupada?"
     answer: "Sumergirse en agua tibia tan solo 10 minutos es un mecanismo de ajuste cognitivo de alta eficiencia que relaja el sistema simpático y activa la DMN del cerebro."
-
 ---
 
 "Al entregar mi cuerpo al agua tibia, el pesado sentido del deber del día se lava y se abren los ojos de la verdadera sabiduría." 🛀

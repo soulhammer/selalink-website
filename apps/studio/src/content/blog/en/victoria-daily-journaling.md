@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "How should I write a journal on days when I have little to write or nothing special happened?"
     answer: "Maintaining 'consistency of habit' is far more important than filling up pages. On days without special events, simply writing one line expressing gratitude for 'a minor moment that brought comfort today' or noting physical tension is more than enough. The brain derives reassurance from the continuity of daily reflection rather than the length of writing."
-
 ---
 
 "I open my journal every night and bestow tranquility upon my turbulent heart after the day's experiences." ✍️

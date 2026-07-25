@@ -21,7 +21,6 @@ faqs:
     answer: "La musique avec paroles réactive le cortex linguistique, empêchant un repos complet. La musique instrumentale pure (classique, jazz, lo-fi) est bien plus efficace pour la relaxation autonome."
   - question: "Est-il bénéfique de s'endormir en écoutant de la musique ?"
     answer: "Il est préférable de programmer une minuterie de 15 à 30 minutes. Si la musique joue toute la nuit, le cortex auditif ne se reposera pas pleinement pendant le sommeil."
-
 ---
 
 Le Dr Albert Schweitzer était un prix Nobel de la Paix, un médecin dévoué, un philosophe et une autorité mondiale sur Bach. Comment surmontait-il chaque jour l'épuisement physique et mental extrême lié aux soins des malades dans la jungle chaude et humide de Lambaréné, au Gabon ?

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Mengapa Henri Poincaré hanya meneliti selama 4 jam sehari?"
     answer: "Memaksa fokus berlarut-larut mempersempit pandangan kognitif otak dan mengurangi kreativitas. Membatasi kerja sadar 4 jam memungkinkan Poincaré mengaktifkan Mode Menyebar melalui istirahat dan berjalan-jalan untuk memicu inspirasi."
-
 ---
 
 "Pencerahan mendadak adalah tanda nyata dari kerja tak sadar yang panjang sebelumnya." Henri Poincaré, matematikawan Prancis, penyelesai masalah tiga benda dan pelopor teori kaos, adalah salah satu jenius terbesar dalam sejarah. Yang mengejutkan, Poincaré secara ketat membatasi waktu kerjanya hanya 4 jam sehari di meja kerja (pukul 10.00–12.00 dan 17.00–19.00), menghabiskan sisa waktunya dengan berjalan-jalan atau bersantai. Poincaré mengenang bahwa terobosan untuk masalah matematika tersulitnya (seperti fungsi Fuchsian) tidak muncul saat menatap rumus, melainkan mendadak melintas di pikirannya saat ia menaiki pijakan bus omnibus di Coutances. Ia menyadari bahwa usaha sadar yang intensif diikuti oleh istirahat total (fase inkubasi) memungkinkan jaringan otak bawah sadar menghubungkan ide-ide secara kreatif. Artikel ini mengulas interaksi antara mode terfokus dan mode menyebar dalam rutinitas 4 jam Poincaré.

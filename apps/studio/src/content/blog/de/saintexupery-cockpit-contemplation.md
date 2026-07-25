@@ -21,7 +21,6 @@ faqs:
     answer: "Ja! Wenn Sie den Entwurf frei schreiben und beim zweiten Durchsehen unnötige Floskeln, Fachjargon und lange Sätze streichen, verdoppelt sich die Überzeugungskraft."
   - question: "Was ist, wenn durch zu starkes Kürzen der Kontext verloren geht?"
     answer: "Behalten Sie kernrelevante Substantive und Verben bei und kürzen Sie hauptsächlich emotionale Adjektive oder redundante Erklärungen; der wesentliche Kontext wird dadurch deutlicher."
-
 ---
 
 "Perfektion ist nicht dann erreicht, wenn es nichts mehr hinzuzufügen gibt, sondern wenn man nichts mehr wegnehmen kann." ✈️

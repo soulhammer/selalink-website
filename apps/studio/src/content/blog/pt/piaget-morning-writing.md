@@ -21,7 +21,6 @@ faqs:
     answer: "Embora a digitação funcione, escrever à mão estimula a motricidade fina dos dedos, ativando os córtex pré-frontal e somatossensorial com muito mais intensidade. Recomendamos a escrita manual."
   - question: "O que fazer se não houver parques ou ambientes naturais próximos?"
     answer: "Mesmo sem florestas ou lagos, caminhar por calçadas tranquilas, travessas ou corredores em silêncio sem celular produz exatamente os mesmos benefícios cognitivos de ativação da DMN."
-
 ---
 
 "A inteligência não é o que sabemos, mas o que fazemos quando não sabemos." 🚶‍♂️

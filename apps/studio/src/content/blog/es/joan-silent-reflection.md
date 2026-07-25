@@ -21,7 +21,6 @@ faqs:
     answer: "No. La clave de esta rutina es recalibrar su cerebro inmediatamente al despertar, antes de que las notificaciones inunden su mente. Dedicar 10 minutos a su hora habitual de despertar ofrece los mismos beneficios."
   - question: "¿Es efectiva esta rutina para personas no religiosas que no practican la oración formal?"
     answer: "Sí, totalmente. Esta rutina se centra en la 'supresión de ruido sensorial' y el 'refuerzo de valores personales' más que en dogmas religiosos. Reflexionar en silencio sobre sus valores o metas personales activa exactamente la misma calma de la amígdala."
-
 ---
 
 "No tengo miedo; nací para hacer esto. Cuando apago el ruido externo e ingreso en el silencio profundo, escucho la voz de mi alma." 🛡️

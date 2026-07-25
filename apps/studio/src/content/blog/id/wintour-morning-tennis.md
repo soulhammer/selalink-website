@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak ada alasan ilmiah bahwa waktunya harus tepat jam 5 pagi. Poin utamanya adalah bangun setidaknya 1 jam sebelum memulai pekerjaan/rutinitas harian untuk membangunkan otak dengan olahraga fisik. Yang terpenting adalah membuat rutinitas olahraga dalam 30 menit pertama setelah bangun sesuai jadwal Anda."
   - question: "Bagaimana jika olahraga intensitas tinggi terlalu berat karena sendi lemah atau stamina kurang?"
     answer: "Daripada melompat yang memberi benturan berat pada sendi, pilihlah bersepeda statis, jalan cepat, atau jalan menanjak. Asalkan napas Anda cukup terpacu untuk meningkatkan aliran darah ke otak, Anda akan mendapatkan manfaat kognitif yang sama."
-
 ---
 
 "Bahkan jika Anda tidak yakin, pastikan orang lain yakin dengan niat Anda." 🚶‍♂️

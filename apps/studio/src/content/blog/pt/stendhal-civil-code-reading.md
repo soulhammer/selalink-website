@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Ler o Código Civil ajuda ao escrever textos publicitários ou ensaios emocionais?"
     answer: "Quando você precisa escrever textos persuasivos ou emocionais, é melhor usar copys publicitárias atraentes ou ensaios evocativos como texto de priming, em vez de códigos legais. O cerne do hábito de Stendhal é preparar o cérebro com textos adequados ao tom desejado."
-
 ---
 
 "Para formar meu estilo, leio duas ou três páginas do Código Civil todas as manhãs. Porque a linguagem do código não mistura emoção; transmite claramente apenas fatos e definições." 📖

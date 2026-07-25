@@ -21,7 +21,6 @@ faqs:
     answer: "No. From a brain science perspective, when cognitive friction peaks during a standstill, switching to a refreshing task for 20 minutes before returning with a clear mind actually speeds up total completion by over 40%."
   - question: "What is the optimal maximum number of task tracks to design per day?"
     answer: "To protect decision-making brain energy, it is best not to exceed 3 core task categories per day. Designing 4 or more tracks causes excessive switching overhead."
-
 ---
 
 Pablo Picasso (1881–1973), the Spanish artistic genius who transformed 20th-century modern art as the co-founder of Cubism, producing tens of thousands of paintings, sculptures, and ceramics over his prolific career. Across his vast studio, Picasso kept dozens of unfinished canvases on easels and walls simultaneously. When inspiration halted on a Cubist canvas or cognitive fatigue set in, rather than forcing progress, he immediately moved to an adjacent canvas—a still life or portrait—and resumed painting. This flexible task-switching routine was the secret engine driving his immense lifelong productivity.

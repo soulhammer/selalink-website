@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Verwandelt das Arbeiten im Bett das Schlafzimmer nicht in einen stressigen Arbeitsraum und verursacht Schlaflosigkeit?"
     answer: "Diese Grenze ist entscheidend. Vermeiden Sie im Bett stressige Verwaltungsaufgaben oder kritische E-Mails. Nur erfreuliche, reine kreative Entwürfe und Tagebuchschreiben bewahren den Schutzraum-Wert des Schlafzimmers."
-
 ---
 
 „Mein Bett ist mein einziger sicherer Hafen. Wenn ich eingekuschelt in warmen, weichen Decken mit meinen Hunden bin, erwacht meine romanhafte Fantasie am flexibelsten.“ 🛏️

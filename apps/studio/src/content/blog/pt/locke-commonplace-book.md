@@ -21,7 +21,6 @@ faqs:
     answer: "Locke desenhava uma grade combinando as 26 letras do alfabeto com as 5 vogais (a, e, i, o, u) na primeira página. Anotava os números de página na interseção correspondente à primeira letra e primeira vogal da palavra-chave (ex.: 'Epistola' na linha E, coluna i)."
   - question: "Escrever em cadernos físicos é mais vantajoso do que usar ferramentas digitais?"
     answer: "A escrita manual estimula o córtex somatossensorial, o que favorece a codificação inicial, enquanto ferramentas digitais se destacam pela busca rápida e hiperlinks. O modelo ideal é um sistema híbrido: registrar ideias no papel e depois indexá-las em um banco de dados digital."
-
 ---
 
 "Um pensamento não registrado desaparece como a névoa de verão sem deixar vestígios. Apenas símbolos indexados transformam a mente em um repositório imortal." 📖

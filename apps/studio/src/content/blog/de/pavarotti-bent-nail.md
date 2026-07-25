@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Warum suchte Pavarotti speziell nach einem gebogenen Nagel?"
     answer: "In der italienischen Theaterkultur gilt das Finden eines gebogenen Nagels auf der Hinterbühne als alter Glücksbringer. Es begann als Aberglaube, entwickelte sich aber zu einem unverzichtbaren kognitiven Anker, der ihn vor schwerem Lampenfieber bewahrte."
-
 ---
 
 "Ich vollziehe immer mein kleines Ritual, bevor ich die Bühne betrete. Es ist der einzige Weg, meine Angst zu besiegen." 🚶‍♂️

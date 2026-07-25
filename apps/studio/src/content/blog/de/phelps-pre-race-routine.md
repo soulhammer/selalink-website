@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Was passiert, wenn versehentlich ein Schritt der Routine ausgelassen wird?"
     answer: "Das Gehirn kann überempfindlich auf unerwartete Abweichungen reagieren, was die Angst vorübergehend steigern kann. Starten Sie in diesem Fall ruhig von vorn oder gehen Sie flexibel zum nächsten Versuch über."
-
 ---
 
 "Bevor ich ins Wasser stieg, bin ich das perfekte Rennen in meinem Kopf schon unzählige Male geschwommen." 🏊‍♂️

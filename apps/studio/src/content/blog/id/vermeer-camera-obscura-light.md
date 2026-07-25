@@ -21,7 +21,6 @@ faqs:
     answer: "Bahkan cahaya putih susu yang lembut dan samar di hari mendung adalah objek pengamatan pencahayaan yang luar biasa. Anda juga dapat mengamati pembiasan cahaya melalui tetesan air hujan di kaca jendela."
   - question: "Apakah ini efektif bahkan jika saya tidak bekerja di bidang seni atau desain seperti Vermeer?"
     answer: "Ya! Mengamati pencahayaan visual secara tenang adalah metode istirahat fisik tercepat untuk menghentikan celoteh mental yang rumit di dalam otak."
-
 ---
 
 Johannes Vermeer, master lukis Barok Belanda abad ke-17 yang menciptakan mahakarya tenang dan bercahaya seperti 'Gadis dengan Anting Mutiara' dan 'Penuang Susu'. Di dekat jendela studionya di Delft terdapat 'Kamera Oskura (Camera Obscura)', perangkat optik yang memproyeksikan partikel cahaya secara presisi. Sebelum melukis, ia mengamati dalam diam selama puluhan menit sinar matahari yang masuk melalui lensa dan bintik-bintik cahaya perak halus di dinding. Menatap pembiasan cahaya dan bayangan buram secara tenang adalah kebiasaan istirahat otak luar biasa yang menghentikan celoteh mental dan menuntun otak menuju ketenangan ekstrem.

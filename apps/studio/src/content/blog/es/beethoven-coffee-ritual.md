@@ -21,7 +21,6 @@ faqs:
     answer: "La cifra estricta de 60 granos controlaba el sabor del café mediante una cuantificación perfecta, pero el acto de contar números con precisión era en sí mismo un disparador cognitivo que cortaba los pensamientos inútiles y activaba la red de control ejecutivo de alto nivel del cerebro."
   - question: "¿Pueden las personas que no consumen café aplicar esta rutina de mindfulness?"
     answer: "Sí, por supuesto. Cualquier acción que dirija la atención total al tacto y a los movimientos finos —como pesar con precisión hojas de té, limpiar una taza o realizar estiramientos estructurados y meditación— produce los mismos efectos de supresión de la DMN y mejora del enfoque."
-
 ---
 
 "La música debe hacer saltar fuego del alma del hombre y lágrimas de los ojos de la mujer." ☕

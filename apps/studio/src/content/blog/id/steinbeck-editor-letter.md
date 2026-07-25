@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah rutinitas surat pemanasan ini efektif untuk tugas non-penulisan seperti hitungan atau desain?"
     answer: "Sangat efektif! Rasa enggan untuk mulai berasal dari area otak yang sama (amigdala). Corat-coret sebelum membuka software desain atau menulis catatan kecil sebelum koding menciptakan penyangga kognitif yang melumasi kreativitas."
-
 ---
 
 "Dengan menulis surat setiap pagi, jari-jari saya menjadi lemas dan pikiran saya bersiap untuk menyapa karakter novel saya tanpa rasa enggan." ✍️

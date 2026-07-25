@@ -21,7 +21,6 @@ faqs:
     answer: "Kepler esculpiu modelos dos cinco sólidos platônicos (tetraedro, cubo, octaedro, dodecaedro, icosaedro) encaixados dentro de esferas concêntricas que representavam as órbitas planetárias. Esse modelo permitia verificar as proporções espaciais entre os planetas."
   - question: "Como posso praticar essa rotina se não tiver blocos ou modelos 3D?"
     answer: "Basta espalhar blocos de notas ou cartões sobre a mesa e mudo-los de posição com as mãos, ou dobrar e cortar papel para estruturar conceitos. Isso ativa as redes espaciais do lobo parietal, oferecendo os mesmos benefícios hápticos."
-
 ---
 
 "A geometria existia antes da Criação; é coeterna com a mente de Deus... Um modelo físico em 3D esculpido à mão revela verdades espaciais que equações numéricas ocultam." 🚶‍♂️

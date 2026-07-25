@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Is eating the same lunch daily unhealthy? How can we modernize Schulz's habit?"
     answer: "Schulz ate traditional hamburgers, but modern practitioners can substitute balanced 3-meal rotations or healthy salad subscriptions. The core objective is removing 'the decision process of picking what to eat'. Fixing 2 to 3 healthy, rotating menu choices preserves both nutritional health and cognitive energy."
-
 ---
 
 "I sit at my desk at 9 o'clock every morning and pick up my pen. And for lunch, I always eat a hamburger. Simplifying my daily life is the secret to maintaining my creativity." 🍔

@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, utilizar um nível moderado de ruído branco ambiente ou música ajuda a estreitar a amplitude de atenção cognitiva, permitindo entrar em um foco analítico complexo muito mais rapidamente."
   - question: "Como posso substituir geradores de ruído se não tiver equipamento dedicado?"
     answer: "Você pode substituir dispositivos dedicados reproduzindo ruído branco acelerado, áudio ambiente mecânico ou faixas instrumentais através de fones de ouvido comuns para iniciar o foco."
-
 ---
 
 John von Neumann (1903–1957) foi um proeminente matemático, físico, cientista da computação e polímata húngaro-americano do século XX. Considerado uma das inteligências mais extraordinárias da história, estabeleceu a 'arquitetura de Von Neumann' dos computadores modernos, fundou a teoria dos jogos e fez contribuições fundamentais para a mecânica quântica e o Projeto Manhattan.

@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak, orang yang menderita gangguan cakram leher atau tulang belakang harus menghindari headstand tradisional di mana kepala menopang berat badan secara langsung. Sebagai gantinya, Anda bisa mendapatkan efek aliran darah terbalik yang aman tanpa merusak cakram dengan berbaring telentang menempelkan pinggul ke dinding dan mengangkat kaki secara vertikal, atau meletakkan bantal di bawah pinggul sambil mengangkat kaki."
   - question: "Kapan waktu paling tepat dalam sehari untuk melakukan headstand?"
     answer: "Pagi hari saat perut kosong atau tepat sebelum mulai bekerja adalah waktu yang paling ideal. Pose terbalik di pagi hari secara instan memasok oksigen ke sel-sel otak yang tertidur, menyegarkan pikiran dan mengusir rasa kantuk. Namun, hindari melakukannya dalam waktu setidaknya 2 jam setelah makan, karena posisi terbalik setelah makan dapat menyebabkan gangguan pencernaan."
-
 ---
 
 Jawaharlal Nehru (1889–1964), yang memimpin perjuangan kemerdekaan tanpa kekerasan di India bersama Mahatma Gandhi dan menjabat sebagai Perdana Menteri pertama untuk membangun fondasi kokoh India modern. Sebagai ikon pakaian putih yang elegan dan intelektual bermartabat, ia harus menjalani masa-masa penahanan sel isolasi yang dingin sepanjang hidupnya. 🧘

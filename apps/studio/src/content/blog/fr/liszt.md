@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait ! Le principe s'applique à tout mouvement : frappe de raccourcis clavier, swing au golf ou au tennis, ou chorégraphie de gestes lors de prises de parole. Ralentir pour éliminer toute erreur accélère la myélinisation dans le cervelet, renforçant la précision à grande vitesse."
   - question: "Comment appliquer cette routine sans piano ni équipement spécifique sous la main ?"
     answer: "Pratiquer le mouvement sur un bureau ou un clavier factice au rythme d'un métronome stimule le cortex moteur et le cervelet de manière quasi identique à la pratique réelle."
-
 ---
 
 « Le secret de la maîtrise technique au piano n'est pas la vitesse. Lorsque vous ralentissez le tempo du métronome à l'extrême, en frappant une touche par seconde sans la moindre erreur, cette trajectoire parfaite s'imprime dans le cerveau — et c'est alors seulement que jaillit une virtuosité fulgurante. » 🎹

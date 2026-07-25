@@ -21,7 +21,6 @@ faqs:
     answer: "During the severe cold of 1940s Paris, Café de Flore kept its indoor stove warm and offered an artist-friendly atmosphere where intellectuals could stay for hours without pressure, making it an ideal, stable space for creative work."
   - question: "Can I implement a similar Cognitive Script in a home or remote work environment?"
     answer: "Yes, absolutely. You can induce the same cognitive switching effect at home simply by turning on a specific desk lamp in a dedicated corner, using a designated focus mug, and playing 50-60 dB ambient white noise tracks."
-
 ---
 
 "At 10 in the morning, I would go to Café de Flore. On that small table, my thoughts finally began to take shape." ☕

@@ -21,7 +21,6 @@ faqs:
     answer: "Assistir a jornais ou entrevistas e tomar notas sobre os padrões de advérbios ou a aceleração do ritmo de fala serve como um excelente exercício de alinhamento linguístico."
   - question: "Esse exercício pode ser applied a negociações comerciais ou redação de propostas?"
     answer: "Sim, ao registrar os padrões de vocabulário usados pela outra parte, você pode alinhar suas palavras durante negociações, alcançando maior empatia e poder de persuasão."
-
 ---
 
 William Shakespeare (1564–1616) foi o maior dramaturgo da história e um gigante da literatura inglesa que criou obras-primas como 'Hamlet', 'Macbeth', 'Otelo' e 'Rei Lear'. Ele mantinha uma rotina diária única que alimentava seu gênio criativo. 🎭

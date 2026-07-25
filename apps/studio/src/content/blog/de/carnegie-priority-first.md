@@ -21,7 +21,6 @@ faqs:
     answer: "Sofern es sich nicht um eine schwere Krise handelt, können die meisten 'scheinbar dringenden' Nachrichten problemlos 1 bis 2 Stunden warten. Schützen Sie Ihre präfrontalen Ressourcen, indem Sie jeden Morgen mindestens einen 1-stündigen 'Präfrontalen Schutzblock' verteidigen."
   - question: "Wie wende ich diese Routine an, wenn die schwerste Aufgabe zu riesig ist, um an einem einzigen Tag erledigt zu werden?"
     answer: "Wenn ein Projekt zu riesig ist, empfindet das Gehirn Bedrohung und sucht Ausflüchte, bevor es beginnt. Zerlegen Sie das Projekt in 'Teilschritte, die in 1 Morgenstunde erledigt werden können', und packen Sie diese Teileinheit an."
-
 ---
 
 "Erledigen Sie die schwerste Aufgabe des Tages zuerst. Das ist das einzige Gesetz meiner geschäftlichen Produktivität." 🏗️

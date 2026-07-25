@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Belastet körperliches Bewegungstraining am Morgen bei Müdigkeit das Gehirn?"
     answer: "Im Gegenteil: Die Stimulation der Feinmotorik nach dem Aufstehen aktiviert das aufsteigende Retikulärsystem im Hirnstamm und fördert Cortisol und Dopamin, um die Schlafschwere schnell zu vertreiben."
-
 ---
 
 "Ich bin ein Kaiser, aber meine Hände sind noch immer schwielig." ⚓

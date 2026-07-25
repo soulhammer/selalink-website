@@ -21,7 +21,6 @@ faqs:
     answer: "Gehaltvolle Texte mit hoher logischer Dichte (wie Philosophie, Fachliteratur oder Berichte) fördern die präfrontale Plastizität deutlich besser als unterhaltsame Romane oder leichte Essays."
   - question: "Wie lässt sich diese Routine in leisen Umgebungen wie Büros oder Bibliotheken umsetzen?"
     answer: "Leises Flüstern (*Subvokalisierung*) oder das lautlose Bewegen von Lippen und Zunge aktiviert die Sprach- und Motorikzentren im Gehirn ausreichend, um ähnliche Vorteile ohne Ruhestörung zu erzielen."
-
 ---
 
 "Wenn ich laut lese, erfassen zwei Sinne den Gedanken: Erstens sehe ich, was ich lese; zweitens höre ich es, sodass ich es mir besser merken kann. Gedanken, die über zwei Sinne aufgenommen werden, bleiben doppelt so lange im Gehirn." 📖

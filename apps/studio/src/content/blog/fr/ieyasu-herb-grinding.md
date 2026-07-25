@@ -21,7 +21,6 @@ faqs:
     answer: "Un mouvement répétitif exécuté à vitesse constante stimule le système sérotoninergique, apaisant les réactions d'alerte de l'amygdale et restaurant le contrôle rationnel du cortex préfrontal."
   - question: "Comment reproduire cette routine au quotidien si je ne possède pas de mortier ?"
     answer: "Tourner un moulin à café manuel à vitesse constante, écraser des feuilles de thé ou frotter ses paumes a un rythme régulier procure les mêmes bienfaits. L'essentiel est de maintenir un tempo constant."
-
 ---
 
 « La vie humaine est comme un long chemin parcouru avec un lourd fardeau. Ne te presse pas. Broyer des herbes au mortier chaque matin apaise mon souffle et m'inculque la patience nécessaire pour gouverner le royaume. » 🍵

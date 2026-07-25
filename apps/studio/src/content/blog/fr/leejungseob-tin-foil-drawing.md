@@ -21,7 +21,6 @@ faqs:
     answer: "La résistance tactile et le crissement sonore produits lors de la gravure occupent les canaux somatosensoriels du cerveau. Cela réprime les signaux d'anxiété de l'amygdale et interrompt les ruminations, ancrant la concentration dans l'instant présent."
   - question: "Puis-je remplacer le papier aluminium et le clou par du papier classique et un stylo bille ?"
     answer: "Oui, tout à fait ! Exercer una pression ferme avec un stylo bille sur du carton ou du papier à grain crée una résistance tactile marquée lorsque la pointe s'enfonce. Le déclencheur neurobiologique réside dans la fermeté du retour haptique plutôt que dans le matériau."
-
 ---
 
 « Peu importe si je n'ai ni toile ni tubes de peinture coûteux. Dès que je grave une ligne sur le papier aluminium d'un paquet de cigarettes avec un clou, la faim et la tristesse s'éteignent, ne laissant que l'art. » 🐂

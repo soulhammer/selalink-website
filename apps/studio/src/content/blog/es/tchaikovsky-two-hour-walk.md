@@ -18,8 +18,7 @@ steps:
     text: "Complete la rutina completa de caminata de dos horas sin abandonar a la mitad para aumentar el flujo sanguíneo cerebral y relajar el sistema nervioso, luego regrese de inmediato a su escritorio para organizar sus pensamientos."
 faqs:
   - question: "¿Por qué Chaikovski cumplía estrictamente con dos horas de caminata?"
-    answer: "Le ay a controlar la ansiedad psicológica mediante una estricta disciplina, aumentar el flujo sanguíneo cerebral con la caminata continua y relajar su sistema nervioso autónomo para que las melodías fluyeran de forma natural."
-
+    answer: "Le ay� a controlar la ansiedad psicológica mediante una estricta disciplina, aumentar el flujo sanguíneo cerebral con la caminata continua y relajar su sistema nervioso autónomo para que las melodías fluyeran de forma natural."
 ---
 
 Piotr Ilich Chaikovski (1840–1893) fue un maestro de la música romántica rusa que compuso melodías eternas como 'El lago de los cisnes', 'El cascanueces' y la 'Sinfonía Patética'. Luchando constantemente contra la neurastenia y la ansiedad, la fuerza impulsora que sostuvo su vida e impulsó sus ideas musicales fue su hábito diario de caminar exactamente dos horas. 🚶‍♂️
@@ -93,7 +92,7 @@ Al igual que Chaikovski protegía strictly su tiempo de caminata, las distraccio
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Le ay a controlar la ansiedad psicológica mediante una estricta disciplina, aumentar el flujo sanguíneo cerebral con la caminata continua y relajar su sistema nervioso autónomo para que las melodías fluyeran de forma natural.
+      Le ay� a controlar la ansiedad psicológica mediante una estricta disciplina, aumentar el flujo sanguíneo cerebral con la caminata continua y relajar su sistema nervioso autónomo para que las melodías fluyeran de forma natural.
     </p>
   </details>
 </div>

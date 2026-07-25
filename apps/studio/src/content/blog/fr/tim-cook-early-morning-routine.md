@@ -21,7 +21,6 @@ faqs:
     answer: "Si votre chronotype de sommeil est nocturne, vous n'avez pas besoin de vous forcer à vous réveiller à 3h00–4h00. La leçon clé est de 'réserver 1 heure proactive sans interruption', donc la remplacer par 1 heure après le travail produit le même effet."
   - question: "Comment surmonter la fatigue de l'après-midi en se levant tôt le matin ?"
     answer: "Faire une sieste réparatrice de 15 à 20 minutes entre 13h00 et 15h00, arrêter la caféine avant 11h00 et faire des étirements légers réduira considérablement la fatigue."
-
 ---
 
 Tim Cook, le dirigeant qui mène Apple et oriente le quotidien de centaines de millions de personnes et des décisions de milliers de milliards de dollars. Quel est son secret matinal ultime pour garder le contrôle absolu de sa journée avant que les distractions n'arrivent ? ⌚

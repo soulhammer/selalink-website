@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely! The neurobiological mechanism applies universally to all motor tasks—typing keyboard shortcuts, refining a golf or tennis swing, or choreographing speech gestures. Slowing tempos to make zero mistakes accelerates cerebellar myelination, drastically raising execution precision when scaling up speed."
   - question: "How can I practice this routine if I don't have access to a real piano or specialized equipment?"
     answer: "Executing slow mental or tactile rehearsal—tapping your fingers sequentially on a flat desk surface or dummy keyboard to a metronome app's 60 BPM beat—activates motor cortex and cerebellar networks nearly identically to physical performance."
-
 ---
 
 "Speed is not the secret to mastering technique on the piano. When you slow the metronome down to extreme levels, making zero mistakes while striking one key per second, that flawless trajectory locks into the brain—and only then does lightning virtuosity emerge." 🎹

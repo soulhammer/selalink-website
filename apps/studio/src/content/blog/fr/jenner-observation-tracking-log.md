@@ -21,7 +21,6 @@ faqs:
     answer: "Des données sans motif immédiat servent a éliminer le bruit. Une fois les chiffres accumulés sur plus de 30 jours, le cortex préfrontal fait des liens et révèle automatiquement des structures cachées."
   - question: "Les employés de bureau modernes ou non-médicaux peuvent-ils mener des observations de terrain à l'image de Jenner ?"
     answer: "Oui, tout à fait ! Examiner les avis d'utilisateurs, les tickets de support client, les données Google Analytics ou observer les réactions des équipes constituent le « terrain » idéal du travailleur du savoir."
-
 ---
 
 « Une véritable découverte scientifique ne s'épanouit pas dans una intuition soudaine, mais sur un journal d'observation honnête accumulant des faits pendant des années. » 🩺

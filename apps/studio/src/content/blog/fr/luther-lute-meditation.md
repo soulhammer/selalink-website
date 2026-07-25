@@ -21,7 +21,6 @@ faqs:
     answer: "Absolument ! L'essentiel ne réside pas dans la technique, mais dans la 'stimulation tactile fine et la perception de la résonance'. Utiliser un kalimba ou un tambour à langues pendant 5 minutes offre un apaisement identique."
   - question: "L'écoute passive de la musique peut-elle remplacer la pratique active ?"
     answer: "Bien que l'écoute passive détende, le fait d'activer ses doigts pour produire du son et ressentir les vibrations stimule le cortex somatosensoriel et l'attention préfrontale de manière bien plus intense."
-
 ---
 
 "La musique est un don magnifique de Dieu qui chasse toute tristesse et toute tentation." 🎵

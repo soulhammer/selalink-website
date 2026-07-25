@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Pourquoi Isaac Asimov alternait-il entre plusieurs machines à écrire ?"
     answer: "Pour éviter la fatigue cognitive et le stress générés par un blocage sur un sujet unique, il alternait entre des tâches de genres ou de natures totalement différents afin d'éveiller différentes zones du cortex cérébral, obtenant ainsi l'effet de nouveauté."
-
 ---
 
 « Lorsque je bloque en écrivant, je ne cherche pas à forcer. Au lieu de cela, je m'approche d'une autre machine à écrire et je rédige un manuscrit sur un sujet totalement différent. » ⌨️

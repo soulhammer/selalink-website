@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Prendre un bain tous les jours n'est-il pas inefficace pour les personnes actives ?"
     answer: "S'immerger 10 minutes seulement constitue un mécanisme à haute efficacité cognitive pour apaiser le système sympathique et stimuler le DMN."
-
 ---
 
 « Lorsque je confie mon corps à l'eau chaude, le lourd sentiment du devoir de la journée s'efface, et les yeux de la vraie sagesse s'ouvrent. » 🛀

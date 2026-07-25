@@ -21,7 +21,6 @@ faqs:
     answer: "Beim Einschlafen erschlafften seine Muskeln, wodurch die Kugeln fielen und ihn weckten, damit er flüchtige Gedanken des Halbschlafs sofort festhalten konnte."
   - question: "Gibt es Alternativen zu Edisons Technik für Büroumgebungen, in denen Lärm vermieden werden muss?"
     answer: "Ja. Sie können ein Handtuch unterlegen, um das Geräusch zu dämpfen, oder einen Kurz-Timer von 1 bis 3 Minuten auf Ihrem Smartphone stellen, um sanft aus dem N1-Schlaf geweckt zu werden."
-
 ---
 
 "Schlaf ist Zeitverschwendung, aber die Grenze des Unterbewusstseins ist das mächtigste Erfindungswerkzeug des Menschen." 💤

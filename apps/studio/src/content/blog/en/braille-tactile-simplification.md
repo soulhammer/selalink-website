@@ -21,7 +21,6 @@ faqs:
     answer: "Utilize a two-tier strategy: archive secondary information in an 'appendix' or backup folder while exposing only the core 3 to 5 units in your main workspace, which secures cognitive peace of mind."
   - question: "Can this simplification and chunking framework be applied to team workflows?"
     answer: "Yes, immensely. Adopting a 'Rule of 3–5' as a team standard—such as limiting meeting agendas to no more than 3 items or streamlining approval chains to under 3 levels—reduces organizational communication fatigue and accelerates execution speed."
-
 ---
 
 "A character that cannot be comprehended in a single touch without moving the fingertip is not a true letter." ⠃

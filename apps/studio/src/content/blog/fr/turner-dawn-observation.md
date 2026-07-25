@@ -21,7 +21,6 @@ faqs:
     answer: "C'est même encore mieux. Turner préférait observer la lumière atmosphérique diffusée les jours nuageux, neigeux ou brumeux plutôt que les jours ensoleillés. Par temps couvert, on capte beaucoup mieux les transitions d'ombre créées par la lumière et l'humidité."
   - question: "Puis-je observer la lumière pendant la journée s'il m'est difficile de me lever à l'aube ?"
     answer: "La lumière vive du jour est trop intense pour la rétine et peut facilement endommager les yeux, tandis que sa température de couleur constante offre moins de bénéfices. La douce transition du bleu frais à l'orange chaud avant le lever du soleil est la plus sûre et le stimulant le plus efficace."
-
 ---
 
 Joseph Mallord William Turner (1775–1851), éminent peintre romantique britannique du XIXe siècle surnommé le 'Peintre de la Lumière' pour sa capacité à capturer les variations subtiles de la lumière et de l'atmosphère, se levait chaque matin avant les autres pour observer la lumière majestueuse du soleil et la dispersion des nuages au lever du jour. Cette observation de la lumière matinale réinitialisait son rythme circadien et lui apportait une profonde inspiration artistique.

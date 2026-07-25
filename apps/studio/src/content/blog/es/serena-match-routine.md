@@ -21,7 +21,6 @@ faqs:
     answer: "Establecer de 2 a 3 pasos de acciones mecánicas coherentes que pueda controlar por completo, como 'atarse los cordones de los zapatos en un orden específico', 'hacer 3 respiraciones profundas' o 'decir en voz alta una frase de compromiso específica', y repetirlas de forma idéntica le ayudará enormemente a controlar la ansiedad."
   - question: "¿Cómo controlo la ansiedad que surge si me salto o cometo un error en un solo paso de la rutina?"
     answer: "Debe darse cuenta de que una rutina es simplemente un ancla psicológica, no la esencia de sus capacidades o acciones. Cuando ocurre un error, la flexibilidad de reconocer que 'esto también forma parte de la situación' maximiza la eficacia de la rutina."
-
 ---
 
 "Antes de cada partido, repito la misma secuencia de acciones para construir mi propio territorio controlado en la pista." 🎾

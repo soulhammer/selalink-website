@@ -21,7 +21,6 @@ faqs:
     answer: "Increased anxiety happens when the brain fixates on negative scenarios (failing). Stop visualizer practice immediately and perform sensory grounding—focusing on your breathing sound or the physical touch of your palm—followed by light stretching to relax your body first."
   - question: "What is the recommended duration for each mental rehearsal session?"
     answer: "A short, intense session of 3 to 5 minutes is most effective without needing lengthy practice. Working memory resources required for high focus are limited, so simulating only core steps 5 minutes before a speech or meeting is ideal."
-
 ---
 
 "I have already driven through that corner perfectly hundreds of times in my head. My body merely recreates that trajectory."

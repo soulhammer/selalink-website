@@ -21,7 +21,6 @@ faqs:
     answer: "Wenn Sie erzwungen nach einer Lösung suchen, ja. Der Schlüssel liegt im Vermeiden aktiver Sorgen. Lesen Sie die Unterlagen passiv durch und übergeben Sie die Aufgabe an das Unterbewusstsein: 'Mein Gehirn kümmert sich über Nacht darum.' Dies verhindert Anspannung."
   - question: "Ist die Routine gescheitert, wenn beim Aufwachen nicht sofort eine Idee da ist?"
     answer: "Keineswegs. Erkenntnisse aus dem REM-Schlaf zeigen sich oft mit einer kleinen Verzögerung. Die Lösung taucht häufig bei entspannten Morgenaktivitäten auf – wie beim Duschen, Kaffeekochen oder Gehen –, wenn der Präfrontalkortex entspannt ist."
-
 ---
 
 "Wir erzählen uns selbst Geschichten, um zu leben. Der richtige Zusammenhang fügt sich oft nachts in der Stille des Schlafs." 🛏️

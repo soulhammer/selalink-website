@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Jogos comuns de smartphone produzem o mesmo efeito de transição?"
     answer: "Jogos de celular com muito texto, redes sociais ou estímulos fortes sobrecarregam outras áreas do córtex pré-frontal, aumentando a carga cognitiva. Para obter os benefícios da DMN, jogos analógicos simples ou simulações físicas de trajetórias geométricas são muito mais eficazes."
-
 ---
 
 Wolfgang Amadeus Mozart (1756–1791) foi um gênio sem precedentes na história da música clássica, capaz de escrever sinfonias e óperas perfeitas em manuscritos fluidos e sem rasuras. Por trás de sua criatividade miraculosa existia um hábito diário único que libertava seu cérebro da obsessão artística. 🎱

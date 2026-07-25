@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Qué debo hacer si me duelen los pies o la espalda al usar un escritorio de pie?"
     answer: "Coloque una alfombra antifatiga gruesa debajo de sus pies o use zapatillas con amortiguación, y active levemente sus músculos del core para evitar que la columna se arquee en exceso."
-
 ---
 
 "El arte es un paso solitario más allá de uno mismo hacia un mundo más vasto." ✍️

@@ -21,7 +21,6 @@ faqs:
     answer: "Não há necessidade de forçar ideias. O simples fato de anotar uma palavra ou estado de espírito que permaneça em sua mente enquanto estiver sonolento, ou um único problema que deseje resolver hoje, fortalece os circuitos de ondas Alfa e abre gradualmente a porta para o seu subconsciente."
   - question: "Posso usar um aplicativo de anotações ou gravação de voz no smartphone?"
     answer: "No momento em que você liga o smartphone, a luz brilhante da tela e várias notificações carregam um alto risco de mudar rapidamente suas ondas cerebrais para Beta. Recomenda-se fortemente o uso de um caderno de papel e caneta para minimizar a estimulação visual e mudanças bruscas de ondas cerebrais."
-
 ---
 
 Srinivasa Ramanujan foi um lendário matemático gênio da Índia que publicou mais de 3.900 teoremas e fórmulas originais na teoria dos números e séries infinitas, transformando o paradigma da matemática moderna e expandindo o horizonte cognitivo da humanidade. Apesar de não ter formação acadêmica superior formal, de onde se originou sua brilhante inspiração para resolver problemas complexos que os melhores matemáticos do mundo não conseguiram provar por décadas? 📐

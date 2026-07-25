@@ -21,7 +21,6 @@ faqs:
     answer: "No. Observing inanimate geometric shapes and light boundaries—such as telegraph pole shadows cast on a wall or light rays passing through a glass cup on a desk—is equally effective for activating the visual cortex."
   - question: "Is it okay to crop or apply digital filters to the photos after shooting?"
     answer: "Cartier-Bresson strictly avoided cropping and artificial editing. Forcing yourself to perfect composition at the exact moment of shooting is precisely what trains spatial judgment and instantaneous cognition, so preserving untouched raw photos is strongly recommended."
-
 ---
 
 "To take a photograph is to align the head, the eye and the heart along the same line of sight." 📷

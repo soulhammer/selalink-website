@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, com certeza! O objetivo não é criar arte, mas realizar um treino cognitivo para estimular circuitos do lado direito do cérebro. Rabiscos simples funcionam perfeitamente."
   - question: "Usar uma caneta digital em um tablet produz o mesmo efeito?"
     answer: "Sim, é possível. Porém, usar a função 'Desfazer' ou estabilizadores faz o cérebro ficar atento a correções. Desative esses recursos para manter a liberdade total."
-
 ---
 
 "A arquitetura deve ser um espaço onde as pessoas possam respirar e sonhar, nunca presa dentro de uma caixa retangular." 🏛️

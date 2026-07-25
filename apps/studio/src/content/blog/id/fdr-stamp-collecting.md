@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak. Cahaya biru dan algoritma digital yang merangsang mencegah istirahat otak dengan mempertahankan gairah kortikal yang tinggi dan menekan sekresi melatonin. Relaksasi kognitif sejati membutuhkan aktivitas analog yang melibatkan indra peraba."
   - question: "Bagaimana jika meluangkan waktu 30 menit setiap malam terasa terlalu lama atau sulit dijadwalkan?"
     answer: "Memulai hanya dengan 10 menit sudah sangat efektif. Menutup laptop Anda untuk mencoret-coret di buku sketsa atau menulis entri singkat di jurnal analog memberikan 'sinyal keselamatan bahwa hari kerja telah usai' ke otak Anda."
-
 ---
 
 "Saya berhutang kesehatan mental saya pada hobi mengumpulkan prangko." ✉️

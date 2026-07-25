@@ -21,7 +21,6 @@ faqs:
     answer: "Aktivitas fisik seperti menyentuh tanah kebun dan menyiangi bertindak sebagai sinyal sempurna yang memungkinkan korteks prefrontal Anda yang lelah untuk beristirahat dari 'perhatian terarah'. Namun, jika Anda tidak memiliki kebun, berjalan-jalan di jalur hutan dan mendengarkan angin memberikan manfaat relaksasi neurologis yang identik."
   - question: "Bagaimana cara mengganti ini jika saya tinggal di apartemen atau perkotaan tanpa taman atau tanah?"
     answer: "Anda dapat menggantinya dengan merawat tanaman pot dalam ruangan kecil di balkon, merepotting, atau memangkas daun layu. Berjalan melintasi taman kota sambil berfokus pada aroma dedaunan dan tanah juga merupakan metode kontemplasi analog yang luar biasa."
-
 ---
 
 "Merawat kebun adalah ritual analog paling suci untuk mendengar kembali suara besar kehidupan dan menenangkan pergolakan batin." 🌿

@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, limpar a mesa ou as lentes antes de começar envia um sinal de ordem ao cérebro para maximizar o foco."
   - question: "Como posso substituir se não tiver um microscópio ou pano de microfibra?"
     answer: "Limpar a tela do computador, organizar a mesa ou limpar o celular antes de começar gera exatamente o mesmo efeito."
-
 ---
 
 "No campo da observação, o acaso só favorece a mente preparada." 🔬

@@ -21,7 +21,6 @@ faqs:
     answer: "Untuk penyelarasan sirkadian yang optimal, idealnya jaga variasi bangun tidur di akhir pekan dalam rentang 1 jam dari rutinitas hari kerja Anda. Tidur berlebihan di akhir pekan mereset jam internal SCN, memperparah kelelahan di pagi hari kerja. Konsistensi adalah kunci untuk menjaga kesehatan sirkadian."
   - question: "Apakah melakukan tugas-tugas intelektual (pekerjaan, membaca) segera setelah latihan pukul 4 pagi meningkatkan fokus otak?"
     answer: "Ya, ini menciptakan sinergi kognitif yang sangat kuat. Pelepasan BDNF, dopamin, dan norepinefrin tepat setelah olahraga meningkatkan neuroplastisitas sinaptik ke tingkat tertinggi. Melakukan pekerjaan intelektual mendalam atau pembelajaran selama 1 hingga 2 jam setelah berolahraga memaksimalkan retensi kognitif dan memori kerja."
-
 ---
 
 "Ketika saya berlatih dalam keheningan pukul 4 pagi, saya sangat yakin bahwa saya mengambil satu langkah di depan setiap pesaing secara kognitif." 🏀

@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, com certeza. Embora em menor escala, examinar as nervuras das folhas, a textura da terra ou a cor do caule em plantas domésticas induz a 'Fascinação Suave', relaxando o córtex pré-frontal e reduzindo o estresse."
   - question: "Tudo bem se eu não tiver habilidades de desenho e não conseguir fazer esboços detalhados?"
     answer: "Sim, com certeza. O esboço é apenas uma ferramenta opcional para estruturar a atenção visual. Se você não sabe desenhar, descrever as cores, texturas e mudanças do objeto usando 2 a 3 linhas de texto detalhado é totalmente suficiente."
-
 ---
 
 "Aqueles que contemplam a beleza da terra encontram reservas de força que durarão enquanto a vida durar." 🐚

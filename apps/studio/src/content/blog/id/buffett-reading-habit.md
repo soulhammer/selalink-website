@@ -21,7 +21,6 @@ faqs:
     answer: "Memulai dengan 500 halaman sekaligus tidaklah praktis. Volume Buffett dibangun di atas adaptasi neuroplastik bertahun-tahun. Tujuannya bukanlah jumlah halaman mutlak, melainkan konsistensi kebiasaan kognitif—membaca secara mendalam selama 20 hingga 30 halaman setiap hari. Mendedikasikan 30 menit tepat setelah bangun tidur atau selama perjalanan akan melipatgandakan daya kognitif intelektual yang masif setelah beberapa tahun."
   - question: "Apakah e-book atau audiobook memberikan efek bunga berganda pengetahuan yang sama dengan buku kertas fisik?"
     answer: "E-book pada pembaca E-Ink khusus adalah alternatif yang sangat baik untuk membaca mendalam berbasis teks. Namun, layar smartphone atau tablet berisiko mengalihkan perhatian prefrontal melalui notifikasi. Audiobook cenderung pada penerimaan pasif dan tidak melibatkan sirkuit pemrosesan analitis secara kuat seperti membaca mendalam. Untuk membangun skema intelektual yang kokoh, jadikan membaca mendalam berbasis teks sebagai media utama Anda sambil menggunakan audiobook sebagai pelengkap sekunder."
-
 ---
 
 "Bacalah 500 halaman setiap hari. Begitulah cara kerja pengetahuan. Pengetahuan menumpuk, seperti bunga berganda." 📚

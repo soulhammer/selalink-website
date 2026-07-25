@@ -21,7 +21,6 @@ faqs:
     answer: "Sim. Ao realizar o rastreamento do próprio tempo ou escrever um diário de trabalho, ela se aplica perfeitamente ao eliminar sentimentos de culpa e registrar apenas dados reais de execução de tarefas."
   - question: "Como posso diferenciar facilmente entre sentimentos subjetivos e fatos objetivos?"
     answer: "Aplique o critério: 'Esta é uma ação concreta ou uma métrica que a lente de uma câmera poderia gravar?' Simplesmente omita pensamentos ou avaliações que não seriam captados pela câmera."
-
 ---
 
 "Quando observamos o comportamento das crianças como ele realmente é, só então o grande potencial dentro delas se revela." 📝

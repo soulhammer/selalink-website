@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "What happens if a step in the routine is accidentally skipped?"
     answer: "The brain may react hypersensitively to unexpected deviations, temporarily increasing anxiety. In such cases, smoothly restart from the beginning or flexibly move on to the next attempt."
-
 ---
 
 "Before I stepped into the water, I had already swum a flawless race countless times in my mind." 🏊‍♂️

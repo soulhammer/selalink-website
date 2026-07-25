@@ -21,7 +21,6 @@ faqs:
     answer: "Dans la Grande-Bretagne du XIXe siècle, il était très rare que les femmes écrivains disposent d'un bureau indépendant. Austen devait elle aussi écrire dans l'espace partagé du salon ; elle a donc tiré parti de la porte grinçante pour détecter les visites soudaines de sa famille et gagner du temps pour cacher ses manuscrits."
   - question: "Comment appliquer cette méthode dans un environnement numérique moderne ?"
     answer: "En réglant le statut de la messagerie sur 'Ne pas déranger' ou 'En appel' pour bloquer l'afflux direct de notifications externes, et en ajustant les outils de communication essentiels pour qu'ils n'émettent des notifications qu'à des intervalles de temps définis, vous pouvez contrôler les interruptions cognitives inattendues."
-
 ---
 
 « Le grincement d'une porte est l'alarme la plus sûre qui protège mon immersion. » 🚪

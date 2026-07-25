@@ -21,7 +21,6 @@ faqs:
     answer: "Un stylo plume, un porte-plume ou un crayon sur du papier épais constituent d'excellents substituts. L'essentiel réside dans la perception en temps réel du frottement et le dosage de la pression des doigts. Tout instrument offrant un retour tactile net procure des bienfaits identiques."
   - question: "Pourquoi est-il préférable de pratiquer cette routine de calligraphie au réveil plutôt que le soir ?"
     answer: "Au réveil, le cerveau est préservé des stimulations extérieures et du stress de la journée. Consacrer les 15 premières minutes au contrôle moteur fin équilibre le système nerveux autonome tout en éveillant le cortex préfrontal pour abordar la journée avec sérénité."
-
 ---
 
 « En tenant le pinceau, en broyant l'encre et en traçant les caractères, l'agitation mentale se dissipe et l'essence des décisions d'affaires apparaît avec una clarté parfaite. » 🖌️

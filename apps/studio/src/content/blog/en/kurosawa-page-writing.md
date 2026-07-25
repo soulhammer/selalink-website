@@ -21,7 +21,6 @@ faqs:
     answer: "No. When goals are overly ambitious, fear of starting leads to chronic procrastination, often resulting in zero completed work. Starting daily action with an ultra-small goal compound over a year into over 700 pages—yielding two to three complete feature-length screenplays."
   - question: "Can I apply this 2-page routine to general corporate work, software projects, or exam studying?"
     answer: "Yes, absolutely! The core value lies not in the literal '2 pages', but in shrinking a task down to an ultra-small micro-unit that does not trigger amygdala threat alarms. Practicing 'writing 1 paragraph of a report' or 'reading 2 textbook pages' delivers identical amygdala-soothing and prefrontal engagement benefits."
-
 ---
 
 "Don't try to write a grand masterpiece all at once. Focus solely on the modest rule of completing 2 pages every day. If you write 2 pages daily for a year, that totals over 700 pages—enough for two or three full screenplays." 🎬

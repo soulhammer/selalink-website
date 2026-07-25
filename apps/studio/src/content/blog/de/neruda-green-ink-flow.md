@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut. Da der visuelle Kortex Lichtwellenlängen wahrnimmt, rufen beruhigende dunkelgrüne Themes auf digitalen Bildschirmen denselben Alpha-Wellen-Induktionseffekt hervor wie analoge Tinte."
   - question: "Warum führen schwarze Tinte oder kontrastreiche Schwarz-Weiß-Bildschirme manchmal zu Schreibblockaden?"
     answer: "Kontrastreicher schwarzer Text vermittelt dem Gehirn eine unbewusste Anspannung, die mit offiziellen Dokumenten oder Prüfungssituationen assoziiert ist, was das freie Entfalten kreativer Ideen hemmen kann."
-
 ---
 
 „Grün ist die Farbe der Hoffnung und die Farbe der Natur, in der meine Poesie atmet.“ ✒️

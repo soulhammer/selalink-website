@@ -21,7 +21,6 @@ faqs:
     answer: "No. Pop music or random radio broadcasts excite emotions or cause auditory distraction without densely occupying the linguistic channel, and radio ads interrupt focus. Academic recitations or lectures that engage logic and knowledge processing are ideal."
   - question: "What volume is appropriate when following this recitation listening routine?"
     answer: "It should be neither too loud nor too quiet. A moderate volume (around 50–60 dB)—similar to someone reading softly next to you in a room—is best. Using a Bluetooth speaker or open-ear headphones is recommended to reduce ear pressure."
-
 ---
 
 "Passion and intellect become a great canvas only in sensory harmony." 🎨

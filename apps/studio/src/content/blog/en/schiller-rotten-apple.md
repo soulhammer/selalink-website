@@ -21,7 +21,6 @@ faqs:
     answer: "Yes. Acetaldehyde released during fermentation briefly lowers oxygen concentration and alters breathing to deliver a unique physiological jolt, while the olfactory signals sent immediate awakening cues to the brain's limbic system."
   - question: "What scents are recommended for modern aroma anchoring?"
     answer: "Rosemary (proven scientifically to aid focus and arousal), peppermint, or eucalyptus (which relieve fatigue and sharpen alertness) are highly recommended. Citrus scents like lemon also have proven positive effects."
-
 ---
 
 Friedrich Schiller, the great poet and playwright who led the golden age of German Weimar Classicism alongside Johann Wolfgang von Goethe, left an indelible mark on literary history with masterpieces like 'The Robbers' (Die Räuber) and 'William Tell' (Wilhelm Tell). However, inside his study desk drawer lay a bizarre and pungent secret.

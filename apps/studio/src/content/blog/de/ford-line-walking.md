@@ -21,7 +21,6 @@ faqs:
     answer: "Digitale Bildschirme bieten keine spürbare Reibung, was das sensorische Feedback verringert und zu Ablenkungen führt. Echtes Papier erzeugt Stiftwiderstand, der das Gehirn tiefer stimuliert und kognitives Offloading verbessert. Papier wird dringend empfohlen."
   - question: "Ist das Skizzieren im Sitzen genauso effektiv wie beim Gehen?"
     answer: "Das Skizzieren im Sitzen entlastet zwar das Gehirn, aber die Kombination mit Bewegung und visueller Verfolgung verstärkt die Wirkung. Gehen steigert die Durchblutung des Gehirns, während das Verfolgen von Bewegungen die Logikprozesse im Kleinhirn optimiert."
-
 ---
 
 "Um Verschwendung zu reduzieren, muss man zuerst den physischen Fluss visualisieren." 🚗

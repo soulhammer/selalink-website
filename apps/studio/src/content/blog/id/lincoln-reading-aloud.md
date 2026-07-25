@@ -21,7 +21,6 @@ faqs:
     answer: "Prosa berdensitas tinggi dengan struktur logis yang ketat—seperti filsafat klasik, literatur ilmiah khusus, atau laporan strategis yang rumit—jauh lebih efektif untuk plastisitas prefrontal daripada fiksi santai."
   - question: "Bagaimana cara mempraktikkan rutinitas ini di lingkungan yang tenang seperti kantor terbuka atau perpustakaan?"
     answer: "Mempraktikkan bisikan ber-volume rendah (*Subvocalization*) atau menggerakkan bibir dan lidah secara presisi tanpa suara tetap melibatkan umpan balik motorik wajah dan korteks bicara, memberikan manfaat Efek Produksi yang serupa."
-
 ---
 
 "Ketika saya membaca nyaring, dua indera menangkap ide tersebut: pertama, saya melihat apa yang saya baca; kedua, saya mendengarnya, sehingga saya dapat mengingatnya lebih baik. Ide-ide yang disalin melalui dua indera bertahan dua kali lebih lama di dalam otak." 📖

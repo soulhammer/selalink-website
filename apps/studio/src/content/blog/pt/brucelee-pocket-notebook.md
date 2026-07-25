@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, a gravação de voz é um método excelente para descarregar rapidamente a memória de trabalho. No entanto, o formato em texto é superior para a revisão visual e estruturação posterior. Se usar notas de voz, recomendamos combiná-las com a funcionalidade de voz para texto (STT) para arquivá-las como texto."
   - question: "Eu faço anotações, mas frequentemente me esqueço de revisá-las mais tarde. Como posso resolver isso?"
     answer: "Fazer anotações ganha valor quando elas são revisadas e combinadas com a ação. Defina um alarme diário ou vincule uma 'rotina de varredura de 1 minuto' a hábitos existentes — como logo antes do café da manhã —, para revisar as anotações do dia anterior por apenas 60 segundos."
-
 ---
 
 "Saber não é suficiente, devemos aplicar. Querer não é suficiente, devemos fazer." 🚶‍♂️

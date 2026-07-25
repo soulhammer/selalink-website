@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Why does Haruki Murakami run 10km every single day?"
     answer: "To sustain the intense concentration and stamina required for novel writing, running stimulates brain cells via aerobic exercise while building an unshakeable foundation of physical endurance."
-
 ---
 
 "Only an artist who keeps running can continuously draw deep water from the well of creativity." 🏃‍♂️

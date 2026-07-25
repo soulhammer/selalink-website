@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Além de tarefas domésticas como passar roupa ou lavar a louça, caminhar oferece um efeito de ativação da DMN semelhante?"
     answer: "Sim, caminhar também é uma ferramenta maravilhosa para estimular a criatividade. No entanto, ao caminhar, o cérebro precisa consumir continuamente um certo nível de atenção visual e cognitiva para navegar pelos arredores ou evitar multidões. Por outro lado, passar roupa ou lavar a louça envolve ações físicas limitadas e totalmente controladas em um ambiente interno familiar, portanto o consumo cognitivo pré-frontal é muito menor do que durante uma caminhada, oferecendo uma vantagem única para induzir de forma mais estável um estado meditativo silencioso (ativação da DMN)."
-
 ---
 
 "Não me sento para forçar a coreografia. Quando passo roupa ou varro o quarto, é aí que a dança das bailarinas finalmente começa a fluir diante dos meus olhos." 🧺

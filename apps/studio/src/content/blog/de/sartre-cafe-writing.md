@@ -21,7 +21,6 @@ faqs:
     answer: "Das ist individuell verschieden. Studien zeigen, dass moderater Lärm (50–70 dB) die auditive Aufmerksamkeit leicht zerstreut und paradoxerweise die kreative Problemlösung fördert. Entscheidend ist jedoch nicht die Stille, sondern das kognitive Anchoring: 'Jeden Tag am selben Ort dieselbe Handlung beginnen'."
   - question: "Ist es nicht besser für das Gehirn, den Sitzplatz täglich oder regelmäßig zu wechseln?"
     answer: "In kreativen Brainstorming-Phasen bietet eine neue Umgebung frische Reize (Dopaminausschüttung). Beim Ausarbeiten oder intensiven Lernen ist Sartres Sitzplatz-Anchoring jedoch weitaus effizienter, da es unnötige Erkundungsenergie spart und sofortigen Fokus auslöst."
-
 ---
 
 "Der Mensch ist dazu verdammt, frei zu sein." ☕

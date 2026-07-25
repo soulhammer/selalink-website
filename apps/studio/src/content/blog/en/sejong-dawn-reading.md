@@ -21,7 +21,6 @@ faqs:
     answer: "No. The core lesson of King Sejong is securing uninterrupted cognitive focus right after waking. Simply waking up 30 minutes earlier than your usual routine and reading quietly without smartphone distractions yields the exact same benefits."
   - question: "Is it okay to read web novels or social media articles instead?"
     answer: "To properly warm up your morning brain, dense structured paper books with logical narrative development are far superior to highly sensory, bite-sized online content. Literature, philosophy, classics, or history that demand active cognitive reasoning activate brain networks much more effectively."
-
 ---
 
 "Not learning is like sitting in a pitch-black room; reading books is like holding up a lamp."

@@ -21,7 +21,6 @@ faqs:
     answer: "No. La ventana fisiológica óptima ocurre 'inmediatamente cuando el ritmo cardíaco alcanza su pico'. Si el ritmo cardíaco se normaliza mientras se ducha, la transición drástica del estado simpático al parasimpático disminuye, reduciendo la eliminación de cortisol. Debe sentarse justo después de sudar."
   - question: "¿La sesión de meditación es un fracaso si siguen apareciendo pensamientos distractores?"
     answer: "No, en absoluto. La aparición de pensamientos es un proceso neurológico natural. La meditación no consiste en borrar ideas a la fuerza, sino en entrenar el control atencional: notar cuando la mente se distrae y redirigir suavemente el enfoque a la respiración. Cada vez que nota una distracción y vuelve a la respiración, fortalece la corteza prefrontal."
-
 ---
 
 "La fuerza mental domina la física, pero lo que sostiene esa fuerza mental es un entrenamiento diario e inflexible. Cuando tranquilizas tu respiración justo después de sudar, el ruido del trabajo desaparece y surge la mayor claridad." 🇸🇬

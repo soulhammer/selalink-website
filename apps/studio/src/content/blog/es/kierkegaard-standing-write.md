@@ -21,7 +21,6 @@ faqs:
     answer: "Sentarse inmediatamente al llegar a casa provoca una rápida caída en la alerta física, llevando al cerebro a un estado de relajación profunda. Estar de pie mantiene la activación corporal y protege la memoria de trabajo durante esos 10 minutos clave."
   - question: "¿Cómo puedo practicar esta rutina si no tengo un escritorio de pie o barra alta?"
     answer: "Colocar un libro grueso o soporte para portátil sobre una mesa estándar, barra de cocina o cómoda alta es suficiente. El objetivo no es comprar muebles nuevos, sino crear una postura de pie sin fricción para volcar ideas durante 5 a 10 minutos al llegar."
-
 ---
 
 "He encontrado mis mejores pensamientos caminando, y no conozco ningún pensamiento tan pesado como para no poder alejarme de él caminando." 🎩

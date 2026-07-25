@@ -21,7 +21,6 @@ faqs:
     answer: "Sur le plan cognitif, 3 ans représentent la durée idéale pour passer de débutant à la compréhension des fondements d'une discipline sans susciter de fatigue. Ce rythme de 3 ans rompt la routine intellectuelle, stimulant la neuroplasticité synaptique."
   - question: "Si un engagement de 3 ans semble trop long pour des professionnels occupés, par quoi commencer ?"
     answer: "En plus de ses études sur 3 ans, Drucker pratiquait des sessions d'été de 3 mois sur un sujet précis (ex. l'œuvre complète d'un auteur ou l'économie d'un pays). Commencer par un sprint de 3 mois permet de créer un élan cognitif avant de s'engager sur 3 ans."
-
 ---
 
 « La première règle pour se gérer soi-même est de s'engager continuellement dans de nouveaux apprentissages. » 📚

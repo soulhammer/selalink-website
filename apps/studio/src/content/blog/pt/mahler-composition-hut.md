@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "O que os funcionários em escritórios abertos devem fazer se não puderem se isolar fisicamente?"
     answer: "Combine 'isolamento auditivo' e 'isolamento digital'. Fones com cancelamento de ruído com som de chuva simulam uma parede física para o cérebro. Altere o status no chat para 'Não perturbe' e maximize apenas uma janela para criar uma 'mini cabana digital'."
-
 ---
 
 "Apenas na completa solidão e silêncio, os sons mais profundos da natureza podem entrar em minha partitura." 🎼

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Bagaimana jika saya menderita kurang tidur dan merasa sulit bangun di dini hari?"
     answer: "Rutinitas bangun awal di dini hari harus disertai dengan tidur lebih awal agar tidak merusak tubuh. Jika tidur lebih awal tidak memungkinkan karena pulang kerja larut, daripada memaksa bangun jam 4 pagi, gunakan 30 menit pertama dari waktu bangun biasa Anda sebagai 'Waktu Pemutus Digital & Cahiers' untuk menikmati efek penjangkaran kognitif yang sama."
-
 ---
 
 "Fajar adalah waktu sakral saat kesadaranku terbangun dalam kondisi paling jernih dan utuh. Hanya catatan yang ditinggalkan pada jam inilah yang menjadi esensiku." 🌅

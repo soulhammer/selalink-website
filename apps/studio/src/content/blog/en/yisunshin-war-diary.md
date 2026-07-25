@@ -21,7 +21,6 @@ faqs:
     answer: "There is no need to write at length; even just three lines are sufficient. By summarizing 'one thing that exhausted me most today', 'my emotion at that moment', and 'one thing among them I can fix tomorrow', the brain's emotional objectification mechanism works identically."
   - question: "Is typing on a smartphone diary app equally effective?"
     answer: "In principle, analog handwriting pressed directly onto paper with a pen is most effective, as tactile feedback sending fine sensory data from the hand and arm awakens cognitive control in the frontal lobe more clearly. However, if typing while maintaining a focused state with device notifications strictly blocked and writing honestly, you can still experience sufficient emotional regulation benefits."
-
 ---
 
 "Sitting alone under candlelight deep into the night, I write in my diary, worrying about the nation." 🖋️

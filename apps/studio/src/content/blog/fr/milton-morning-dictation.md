@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Comment Milton retenait-il tous les vers avant l'arrivée de son assistant ?"
     answer: "Milton récitait ses vers de façon rythmique à la manière d'un chant. Il s'appuyait sur une mémoire de travail auditive très développée après sa cécité et utilisait la métrique du vers blanc comme un ancrage mnémotechnique."
-
 ---
 
 « L'esprit est à lui-même sa propre demeure, il peut faire en soi un ciel de l'enfer, un enfer du ciel. » 🚶‍♂️

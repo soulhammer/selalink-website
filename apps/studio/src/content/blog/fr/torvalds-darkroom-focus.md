@@ -21,7 +21,6 @@ faqs:
     answer: "Un contraste trop élevé dans l'obscurité totale provoque de la fatigue oculaire. Par conséquent, réduire la luminosité de l'écran pour l'adapter à l'environnement ou installer un rétroéclairage doux (comme des LED indirectes) derrière le moniteur prévient la fatigue du nerf optique tout en maintenant une forte immersion."
   - question: "Que faire si je n'ai pas de buanderie ou de pièce isolée chez moi ?"
     answer: "Il n'est pas nécessaire d'avoir une pièce isolée spécifique. Fermer la porte d'une chambre ordinaire, s'asseoir le dos au mur pour garder un champ de vision dégagé, ou installer une séparation physique pour éliminer tout stimulus visuel autre que votre écran dans un rayon de 1,5 mètre autour du bureau suffit amplement."
-
 ---
 
 « Pour moi, le meilleur espace de travail est totalement silencieux, sombre et monotone, sans aucune décoration ni distraction. » 💻

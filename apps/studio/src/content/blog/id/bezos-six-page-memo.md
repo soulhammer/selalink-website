@@ -21,7 +21,6 @@ faqs:
     answer: "Ketika orang diminta membaca terlebih dahulu, kesibukan jadwal sering kali membuat mereka hanya memindai sepintas atau tidak membacanya sama sekali. Dengan memberlakukan sesi membaca hening selama 30 menit di ruang rapat, Bezos menjamin sinkronisasi kognitif yang lengkap, memastikan setiap peserta memasuki diskusi dengan kedalaman dan konteks yang identik."
   - question: "Apakah menulis memo naratif 6 halaman tidak menyita terlalu banyak waktu dan tenaga?"
     answer: "Ya, ini membutuhkan ketelitian dan usaha kognitif yang jauh lebih besar dari penulis. Namun, proses penulisan itu sendiri berfungsi sebagai audit mandiri yang ketat yang mengungkap kelemahan logika sebelumnya, secara drastis mengurangi rapat lanjutan yang sia-sia dan mempercepat pengambilan keputusan organisasi secara keseluruhan."
-
 ---
 
 "Menulis narasi yang baik adalah bukti pemikiran yang mendalam dan terstruktur. Poin-poin bersusun hanya menyembunyikan pemikiran yang tidak rapi." 📝

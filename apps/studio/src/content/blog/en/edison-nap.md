@@ -21,7 +21,6 @@ faqs:
     answer: "As he fell asleep, muscle relaxation caused the heavy balls to drop, waking him instantly with the clatter so he could capture fleeting insights from the hypnagogic state before drifting into deep sleep."
   - question: "Are there alternatives to Edison's nap technique for office environments where noise is restricted?"
     answer: "Yes. You can place a soft towel underneath to muffle the sound, or set a short 1-to-3 minute smartphone timer alarm to wake you during light N1 sleep before transitioning into deep sleep."
-
 ---
 
 "Sleep is a waste of time, but the boundary of the subconscious is humanity's most powerful tool of invention." 💤

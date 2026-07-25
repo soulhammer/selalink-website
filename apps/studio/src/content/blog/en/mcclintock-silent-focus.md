@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, you should. The core of the silent focus routine is not merely making the external environment quiet, but tuning your mindset by blocking notifications and declaring silence, prompting the brain to pause internal verbal processing and boost visual processing activity."
   - question: "Does internal self-talk in my mind without vocalization interfere with focus during silent blocks?"
     answer: "Yes, it interferes. Internal self-talk is a cognitive behavior that consumes the phonological loop in the working memory of the prefrontal cortex. Rather than forcefully suppressing internal dialogue when it occurs, disperse brain processing into non-verbal areas by counting breaths or focusing on visual perception."
-
 ---
 
 "When I immerse myself deeply in observation without a word, the hidden rules of nature and genes reveal themselves." 🌽

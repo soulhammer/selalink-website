@@ -21,7 +21,6 @@ faqs:
     answer: "Évitez le contact visuel direct. Utilisez la « Vision Périphérique » ou effectuez un balayage d'une seconde sur une zone précise (manches, chaussures, mains) lors d'un mouvement — comme lorsqu'on ajuste un manteau —, puis détournez le regard."
   - question: "Comment ces notes de micro-détails peuvent-elles s'appliquer au travail professionnel ?"
     answer: "Lors de la rédaction de propositions, de la définition de personas ou de rendez-vous clients, vous dépassez les généralités comme « un employé de 30 ans » pour des descriptions vivantes comme « un concepteur qui tapote son stylo lors des négociations ». Cela renforce la pertinence et la persuasion."
-
 ---
 
 « Le rôle de l'artiste est de poser des questions, non d'y répondre. » 📝

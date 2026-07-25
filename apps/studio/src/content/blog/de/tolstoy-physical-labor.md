@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Führt intensives morgendliches Training nicht dazu, dass man sich am Vormittag müde fühlt?"
     answer: "Eine angemessene Dosierung der Intensität ist entscheidend. Anstelle von erschöpfenden Workouts liegt der Schlüssel in kurzen 15- bis 20-minütigen Eigengewichtseinheiten, die Herzfrequenz und Körpertemperatur vorübergehend anheben, um die Blutzirkulation und Wachheit zu stimulieren."
-
 ---
 
 "Körperliche Arbeit ist eine Pflicht und eine Rettung für diejenigen, die geistige Arbeit verrichten. Ein Geist, der den Körper nicht bewegt, rostet ein." 🌾

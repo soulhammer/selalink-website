@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "O que fazer se o silêncio absoluto me distrair ou causar ansiedade?"
     answer: "Se o silêncio total parecer estranho, comece ouvindo ruído branco (chuva, ondas) ou ruído rosa sem letra para ajudar o cérebro a se adaptar gradualmente."
-
 ---
 
 "O presente é o resultado do passado e a causa da criação do futuro."

@@ -21,7 +21,6 @@ faqs:
     answer: "Quando as janelas estão fechadas, os revestimentos dos vidros modernos filtram e refletem até 80% dos comprimentos de onda de luz azul e UV essenciais para a ativação cerebral. Portanto, para estimular totalmente as células ipRGCs na retina e suprimir a melatonina, abrir as janelas completamente para receber luz solar direta oferece benefícios fisiológicos muito superiores."
   - question: "A observação do alvorecer ainda é eficaz em manhãs nubladas ou chuvosas?"
     answer: "Sim. Mesmo em manhãs nubladas ou chuvosas, a luz natural que atravessa as nuvens atinge níveis de iluminação cerca de 10 vezes superiores à iluminação artificial interna. Os comprimentos de onda dispersos na atmosfera estimulam suficientemente as células ganglionares retinianas. Olhar para o céu por 10 minutos em dias nublados oferece os mesmos benefícios de aquecimento cognitivo."
-
 ---
 
 "A luz muda constantemente e revela sua pura beleza apenas para aqueles que a contemplam." 🎨

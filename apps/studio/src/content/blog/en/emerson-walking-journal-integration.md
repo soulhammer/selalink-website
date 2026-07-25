@@ -21,7 +21,6 @@ faqs:
     answer: "Yes. Using a smartphone is a viable alternative if you use an offline note app or voice memo tool with all notifications strictly disabled. The critical factor is not the physical medium, but keeping your brain in an 'input-blocked, Diffuse Mode' while walking, and executing the 'Convergent Mode' transfer to a master notebook that same night."
   - question: "What should I do if a daytime note is too underdeveloped to expand into a full entry during evening journal synthesis?"
     answer: "You do not need to expand every note into a polished essay immediately. For underdeveloped fragments, categorize them under an 'Idea Pool' section in your journal. Leaving them structured as raw keywords allows them to combine organically with future notes and experiences, maturing into profound insights over time."
-
 ---
 
 "When thoughts arise in the woods, if they are not locked into a notebook instantly, they take wing and fly away forever." 📓

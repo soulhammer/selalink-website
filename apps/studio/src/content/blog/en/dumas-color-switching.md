@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely. The underlying mechanism depends on sensory conditioning between visual hue input and specific cognitive states, regardless of paper texture. Setting distinct canvas background themes in tablet apps, customized folder tag colors in Notion, or unique Chrome profile UI themes delivers identical neural priming signals to the prefrontal cortex."
   - question: "Will assigning too many color variations trigger reverse cognitive overload or confusion?"
     answer: "Yes, precisely. For the brain to organically bind a visual hue to a specific cognitive state, repeated and consistent associative learning is required. Using 5 or more complex color categories transforms visual cues into chaotic sensory clutter, destroying the priming effect. Limit your system strictly to 2 or 3 macro domains and keep assigned colors unchanged over time to maximize cognitive benefits."
-
 ---
 
 "The color of the paper is no mere whim. It is the key that guides my imagination directly into a specific genre." ✍️

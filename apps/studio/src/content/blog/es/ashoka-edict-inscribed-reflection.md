@@ -21,7 +21,6 @@ faqs:
     answer: "Se recomienda encarecidamente limitarlo a 3 o menos. Si la cantidad de valores aumenta a 5 o más, la memoria de trabajo (Working Memory) se sobrecarga, debilitando rápidamente el efecto de anclaje."
   - question: "¿Puedo cambiar mis palabras de valores con el tiempo?"
     answer: "¡Sí, por supuesto! Redefinir y actualizar su tarjeta de valores trimestralmente (cada 3 meses) según los cambios en la etapa de su vida y sus metas es un hábito excelente que proporciona un estímulo fresco a la corteza prefrontal."
-
 ---
 
 Ashoka el Grande, el rey sagrado que unificó la mayor parte del antiguo subcontinente indio, inauguró una era de paz y prosperidad para el Imperio Maurya y se transformó de un despiadado monarca conquistador en un guardián de la no violencia y la paz. Tras presenciar la horriblemente trágica Batalla de Kalinga, ¿cuál fue su secreto para controlar su poder y sus deseos a lo largo de su vida y mantener un liderazgo ético intachable? 🏛️

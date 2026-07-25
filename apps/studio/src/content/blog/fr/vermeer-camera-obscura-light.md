@@ -21,7 +21,6 @@ faqs:
     answer: "Même la lumière laiteuse, douce et subtile d'une journée nuageuse est un merveilleux sujet d'observation. Vous pouvez également contempler la réfraction de la lumière à travers les gouttes de pluie sur les vitres."
   - question: "Cela est-il efficace même si je ne travaille pas dans l'art ou le design comme Vermeer ?"
     answer: "Oui ! L'observation silencieuse de la lumière visuelle est la méthode physique de repos la plus rapide pour stopper le bavardage mental complexe du cerveau."
-
 ---
 
 Johannes Vermeer, maître de la peinture baroque nélandaise du XVIIe siècle, créateur de chefs-d'œuvre lumineux et paisibles tels que « La Jeune Fille à la perle » et « La Laitière ». Près de la fenêtre de son atelier à Delft se trouvait une « chambre noire (Camera Obscura) », appareil optique projetant avec précision les particules de lumière. Avant de peindre, il observait silencieusement pendant des dizaines de minutes les rayons du soleil traversant la lentille et les fines taches argentées formées sur le mur. Contempler calmement la réfraction de la lumière et les ombres adoucies était une habitude suprême de repos cérébral qui apaisait le bavardage mental et guidait le cerveau vers une sérénité extrême.

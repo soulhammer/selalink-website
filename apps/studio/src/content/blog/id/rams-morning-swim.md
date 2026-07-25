@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak. Berenang hanyalah olahraga aerobik favorit Dieter Rams. Aktivitas aerobik ringan apa pun yang membangunkan aliran darah otak—seperti jalan cepat 10 menit, peregangan, atau jogging ringan—bisa digunakan."
   - question: "Bolehkah saya mengamati bangunan kota atau desain interior modern alih-alih objek alam?"
     answer: "Interior buatan atau bangunan kota geometris secara tidak langsung menuntut interpretasi analitis dari otak. Untuk memulihkan kelelahan kognitif, mengamati objek alam organik yang tidak memerlukan interpretasi adalah yang paling ideal."
-
 ---
 
 "Untuk meningkatkan kualitas desain, dibutuhkan waktu hening untuk menyederhanakan dan mengamati objek." 🏊‍♂️

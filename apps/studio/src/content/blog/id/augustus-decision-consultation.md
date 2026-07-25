@@ -21,7 +21,6 @@ faqs:
     answer: "Itulah mengapa 'penerimaan tertulis secara tidak langsung' sangat menguntungkan. Dalam pertemuan tatap muka, bujukan emosional mudah terjadi karena otoritas, tekanan konformitas, atau kelancaran berbicara. Anda hanya dapat menilai secara rasional jika mengumpulkan dan menganalisis logika tajam serta data faktual yang ditulis secara individual oleh penasihat Anda secara terpisah."
   - question: "Berapa jumlah anggota tim penasihat yang paling ideal?"
     answer: "Kami sangat merekomendasikan maksimal 3 orang. Seiring bertambahnya jumlah orang, Kelumpuhan Analisis (Analysis Paralysis) terjadi karena kelebihan informasi, yang menghambat pengambilan keputusan. Tempatkan hanya 1 pakar utama yang mewakili setiap bidang (misalnya pemasaran, teknologi, hukum) untuk mengumpulkan konsultasi."
-
 ---
 
 "Bergegaslah dengan perlahan. Keputusan yang tidak dipersiapkan tidak akan mendatangkan kemenangan." 🏛️

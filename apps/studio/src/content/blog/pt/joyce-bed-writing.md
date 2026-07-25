@@ -21,7 +21,6 @@ faqs:
     answer: "O casaco branco funcionava como um refletor natural que projetava a luz ambiente sobre o papel sem causar ofuscamento. Funcionava como uma ferramenta analógica de iluminação que ajudava sua visão debilitada a distinguir as palavras."
   - question: "Trabalhar deitado na cama ou sofá não causa sonolência?"
     answer: "Para evitar o sono, evite ficar completamente plano. Eleve o tronco entre 30 e 45 graus usando almofadas e trabalhe em blocos curtos de 20 minutos seguidos de descansos para regular o alerta cerebral."
-
 ---
 
 "A literatura é uma bela luta para testar os limites da alma e superar as barreiras do corpo." ✍️

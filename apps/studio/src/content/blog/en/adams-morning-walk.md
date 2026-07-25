@@ -21,7 +21,6 @@ faqs:
     answer: "In terms of BDNF release via aerobic exercise, it is effective. However, outdoor walking is strongly recommended because processing outdoor visual stimuli (natural light, seasonal changes, uneven terrain) has a much greater effect on activating the visual cortex, sense of balance, and prefrontal synaptic networks compared to a static indoor environment."
   - question: "Will typing the evening reflection journal into a smartphone memo app have the same effect?"
     answer: "Writing directly by hand is much more effective. Holding a pen and writing stimulates the sensory receptors at the fingertips, precisely activating the brain's somatosensory cortex, which induces focus and multiplies the encoding effect on cognitive circuits. Typing on a smartphone keyboard is mechanical and provides significantly less brain stimulation."
-
 ---
 
 John Quincy Adams, the 6th President of the United States who solidified early American diplomacy and national foundations following George Washington and John Adams, was renowned throughout his life as a symbol of diligence. Facing immense political friction and heavy executive pressure, how did he preserve sharp memory and cognitive vigor past the age of 80? 🏊‍♂️

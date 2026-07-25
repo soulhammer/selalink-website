@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak. Mekanisme utamanya adalah 'memutus hubungan secara fisik dari informasi buatan' dan 'berfokus pada tugas-tugas fisik analog'. Menentukan area bebas ponsel di rumah Anda selama 30 hingga 60 menit memberikan manfaat yang identik."
   - question: "Mengapa kerja fisik sederhana atau pekerjaan rumah tangga mempromosikan kontemplasi mendalam?"
     answer: "Tugas-tugas fisik berulang yang membutuhkan pemrosesan sadar minimal menurunkan beban kognitif eksekutif. Kondisi ini memperlonggar hambatan prefrontal, memungkinkan Default Mode Network secara bebas mengasosiasikan konsep-konsep bawah sadar."
-
 ---
 
 "Di Bollingen saya berada di tengah-tengah kehidupan nyata saya, saya paling menjadi diri saya sendiri... Tidak ada listrik, tidak ada air mengalir, namun jiwa saya memulihkan keutuhan organiknya." 🪵

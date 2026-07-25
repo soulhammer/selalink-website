@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "What should I do if people around me dislike this signal routine because they feel it hinders communication?"
     answer: "You should avoid leaving the blocking signal active for excessively long periods. It is essential to limit your focus sessions to a maximum of 50 minutes to 1 hour, and actively build trust by showing that you are readily available for conversation outside of those set times."
-
 ---
 
 "It's when the storm rages that I learn how to steer my ship." 🎀

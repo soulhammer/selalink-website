@@ -21,7 +21,6 @@ faqs:
     answer: "Si vous forcez une solution sous l'effet du stress, oui. L'essentiel est d'éviter de s'inquiéter. Parcourez passivement les documents papier comme s'il s'agissait d'un conte, puis confiez le travail à votre subconscient : « Mon cerveau s'en chargera cette nuit. » Cela évite l'excitation."
   - question: "La routine est-elle un échec si aucune idée brillante n'émerge immédiatement au réveil ?"
     answer: "Pas du tout. Les résultats du travail pendant le sommeil REM émergent souvent avec un léger décalage cognitif. La solution apparaît fréquemment lors d'activités matinales calmes — comme prendre une douche, préparer du café ou marcher — lorsque les filtres préfrontaux sont relâchés."
-
 ---
 
 « Nous nous racontons des histoires pour vivre. Le bon fil narratif se façonne souvent la nuit, dans le calme du sommeil. » 🛏️

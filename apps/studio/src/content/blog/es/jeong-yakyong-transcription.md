@@ -21,7 +21,6 @@ faqs:
     answer: "No. Escribir a mano con bolígrafo en papel estimula intensamente la corteza somatosensorial, mejorando la codificación cognitiva. Aunque teclear es más rápido, presionar teclas idénticas ofrece una retroalimentación táctil uniforme sin estimulación neural. Para consolidar la memoria a largo plazo, la transcripción manual es mucho más eficaz."
   - question: "¿Explicar conceptos a otros activa los beneficios metacognitivos aunque no sea mediante una carta escrita?"
     answer: "¡Sí, totalmente! Según la pirámide del aprendizaje, enseñar o explicar conceptos a otros ofrece una tasa de retención de hasta el 90%. Más allá de escribir cartas o correos, explicar ideas a colegas en una conversación o hablar frente al espejo activa los mismos beneficios metacognitivos."
-
 ---
 
 "Lectura sin 'Choseo' (transcripción selectiva y anotación a mano) no aporta ningún valor duradero. Los recuerdos se desvanecen sin dejar rastro." 🖋️

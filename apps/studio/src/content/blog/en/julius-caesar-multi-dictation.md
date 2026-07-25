@@ -21,7 +21,6 @@ faqs:
     answer: "Conventional multitasking fractures attention simultaneously across competing streams (e.g., checking messages while drafting emails), causing severe cognitive friction. Simultaneous dictation uses 'Sequential Single-Focus'—allocating 100% attention to one scribe at a time before executing a planned, structured context switch."
   - question: "Can I practice this routine using manual typing instead of voice dictation?"
     answer: "Typing speeds are significantly slower than raw cognitive thought projection, creating motor bottlenecks. Using Speech-to-Text (STT) tools allows thoughts to flow freely at natural speech speed. Rapidly pouring out raw outlines vocally and batch-editing later minimizes working memory overload."
-
 ---
 
 "Veni, vidi, vici. (I came, I saw, I conquered.)" ⚔️

@@ -21,7 +21,6 @@ faqs:
     answer: "Sie können dies problemlos alleine praktizieren. Übungen wie das Werfen und Fangen eines Tennisballs an einer Wand, das Schlagen auf einen Boxsack oder Koordinationsleiter-Übungen stimulieren das Kleinhirn und den motorischen Kortex, um den Präfrontalkortex zu entkoppeln."
   - question: "Akkumuliert körperliches Training an Tagen extremer geistiger Erschöpfung nicht noch mehr Müdigkeit?"
     answer: "Geistige kognitive Erschöpfung und körperliche Muskelermüdung sind physiologisch verschieden. Die Gehirnermüdung durch langwierige intellektuelle Arbeit entsteht durch Stoffwechselstau im Präfrontalkortex. Die Durchführung 'Aktiver Erholung' (Active Recovery) – Bewegung zur Blutzirkulation und Verlagerung der Aktivität aufs Kleinhirn – baut diese Ermüdung ab."
-
 ---
 
 "Alles, was ich über Moral und die Pflichten der Menschen weiß, verdanke ich dem Fußball." ⚽

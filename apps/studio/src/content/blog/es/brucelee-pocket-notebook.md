@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, la grabación de voz es un método excelente para descargar rápidamente la memoria de trabajo. Sin embargo, los formatos de texto son superiores para la revisión visual y la estructuración prefrontal posterior. Si usa notas de voz, recomendamos combinarlas con funciones de voz a texto (STT) para archivarlas como datos de texto."
   - question: "Escribo notas pero a menudo olvido revisarlas más tarde. ¿Cómo puedo solucionar esto?"
     answer: "Tomar notas adquiere valor cuando se revisan y combinan con la acción. Establezca una alarma diaria o ancle una 'rutina de escaneo de 1 minuto' a hábitos existentes —como justo antes del café matutino o de comenzar a trabajar— para revisar mecánicamente las entradas del día anterior durante 60 segundos."
-
 ---
 
 "Saber no es suficiente, debemos aplicar. Querer no es suficiente, debemos hacer." 🚶‍♂️

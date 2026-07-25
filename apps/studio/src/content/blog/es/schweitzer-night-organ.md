@@ -21,7 +21,6 @@ faqs:
     answer: "La música con letra reactiva las áreas del lenguaje del cerebro, dificultando el descanso total. La música instrumental sin letra (clássica, jazz, lo-fi) es mucho más efectiva para la relajación autónoma."
   - question: "¿Ayuda quedarse dormido escuchando música?"
     answer: "Es mejor configurar un temporizador de 15 a 30 minutos. Si la música suena toda la noche, la corteza auditiva del cerebro no descansará por completo durante el sueño."
-
 ---
 
 El Dr. Albert Schweitzer fue galardonado con el Premio Nobel de la Paz, médico abnegado, filósofo y autoridad mundial en el estudio de Johann Sebastian Bach. ¿Cómo superaba cada día el agotamiento físico y mental extremo al atender pacientes en la calurosa y húmeda selva de Lambaréné, Gabón?

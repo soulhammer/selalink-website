@@ -21,7 +21,6 @@ faqs:
     answer: "No. Las aplicaciones móviles emiten luz azul y muestran notificaciones que reclutan continuamente la atención prefrontal. Usar cartas físicas permite involucrar a la corteza somatosensorial mientras se desactivan los filtros ejecutivos prefrontales para lograr una recuperación superior."
   - question: "¿No lograr completar una partida de solitario causa estrés adicional?"
     answer: "El objetivo no es la victoria, sino desactivar los filtros ejecutivos prefrontales mediante el emparejamiento estructurado. Aunque el juego se bloquee, el acto de mover las cartas según las reglas cumple el reinicio cognitivo. Olvídese de ganar o perder; vuelva a mezclar las cartas."
-
 ---
 
 "El deber primordial de un líder es tomar decisiones correctas, y para ello el cerebro debe alejarse del ruido y alcanzar una calma absoluta." 🃏

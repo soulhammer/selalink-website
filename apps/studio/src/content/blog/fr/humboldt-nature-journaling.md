@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait ! Le bénéfice repose non pas sur la beauté de l'écriture, mais sur le « couplage instantané entre l'entrée sensorielle et la mémoire de travail ». La mise au propre peut se faire ultérieurement."
   - question: "Puis-je remplacer la rédaction manuelle par des enregistrements audio numériques ?"
     answer: "Les enregistrements vocaux sont excellents pour consigner des faits, mais manquent de retour graphomoteur. Pour maximiser les bienfaits, associez le vocal à de courtes notes manuscrites et des flèches pour stimuler les circuits moteurs."
-
 ---
 
 « Dans cette grande chaîne de causes et d'effets, aucun fait isolé ne peut être envisagé séparément. La nature est un tout vivant. » 🌿

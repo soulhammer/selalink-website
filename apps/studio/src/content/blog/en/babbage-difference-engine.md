@@ -21,7 +21,6 @@ faqs:
     answer: "Yes! The core concepts of modern microservices and modular programming derive directly from Charles Babbage's Difference Engine cog modularization logic."
   - question: "What should I do if an error occurs in a specific module?"
     answer: "Do not tamper with the entire system; simply detach the defective module, debug (repair) its internal causal relationships, and reconnect it."
-
 ---
 
 "Errors originate from human emotion, and truth is perfected in mechanical precision." ⚙️

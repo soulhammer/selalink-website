@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, voice recording is an excellent method for rapidly offloading working memory. However, text-based formats are far superior for later visual scanning and prefrontal structuring. If using voice memos, we recommend pairing them with automated Speech-to-Text (STT) features to archive notes as searchable text data."
   - question: "I write down notes but often forget to review them later. How can I fix this?"
     answer: "Note-taking achieves value when notes are re-audited and paired with real-world action. Set a recurring smartphone alarm or anchor a '1-minute scan routine' to existing habit triggers—such as right before morning coffee or work start—to mechanically review yesterday's notebook entries for just 60 seconds."
-
 ---
 
 "Knowing is not enough, we must apply. Willing is not enough, we must do." 🚶‍♂️

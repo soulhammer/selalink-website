@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Además de las tareas domésticas como planchar o lavar platos, ¿caminar proporciona un efecto de activación de la DMN similar?"
     answer: "Sí, caminar también es una herramienta maravillosa para estimular la creatividad. Sin embargo, al caminar, el cerebro debe consumir continuamente un cierto nivel de atención visual y cognitiva para navegar por el entorno o evitar multitudes. Por otro lado, planchar o lavar platos implica acciones físicas limitadas y totalmente controladas dentro de un entorno interior familiar, por lo que el consumo cognitivo prefrontal es mucho menor que durante un paseo, ofreciendo una ventaja única para inducir de forma más estable un estado meditativo tranquilo (activación de la DMN)."
-
 ---
 
 "No me siento a forzar la coreografía. Cuando plancho o barro la habitación, es cuando el baile de las ballerinas finalmente comienza a fluir ante mis ojos." 🧺

@@ -21,7 +21,6 @@ faqs:
     answer: "Wenn eine physische Trennung unmöglich ist, nutzen Sie künstliche Signale: Verwenden Sie eine 'spezielle Schreibtischlampe', die nur beim Arbeiten brennt, oder eine 'Schreibtischunterlage', die Sie nur für Fokus-Sitzungen ausrollen. Ein klares visuelles Signal trainiert den Präfrontalkortex ebenso effektiv."
   - question: "Was sollte ich tun, wenn ich am festen Schreibtisch sitze, aber abgelenkt bin und nicht innerhalb von 5 Minuten anfangen kann?"
     answer: "Bleiben Sie nicht sitzen, um sich ablenken zu lassen. Stehen Sie sofort auf und verlassen Sie den Ankerbereich. Machen Sie 3 Minuten Pause zum Dehnen, kehren Sie dann zurück und führen Sie eine kleine Aufgabe aus (z. B. das Eingeben eines Titels)."
-
 ---
 
 "Solange das Universum in Ordnung verharrt, muss auch der Ort, an dem der Mensch nach der Wahrheit sucht, unerschütterlich beständig bleiben." 🔭

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Existe alguma razão para usar cadernos de papel na era digital?"
     answer: "Sim. Sob a perspectiva da neurociência, digitar no teclado oferece menor estimulação tátil. Escrever à mão estimula diretamente o Hipocampo. Além disso, o papel liberta de formatos rígidos, permitindo esquematizar conceitos com desenhos e símbolos."
-
 ---
 
 "O conhecimento não registrado é como um castelo de areia, facilmente disperso e esquecido." 📓

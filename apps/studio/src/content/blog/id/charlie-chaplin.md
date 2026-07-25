@@ -21,7 +21,6 @@ faqs:
     answer: "Hindari kontak mata langsung yang keras. Gunakan kacamata hitam atau pegang minuman untuk mengalihkan pandangan Anda secara alami sambil mempraktikkan pemindaian 'Penglihatan Perifer' yang luas, berfokus secara lembut pada dinamika siluet alih-alih fitur wajah."
   - question: "Apakah peniruan fisik secara nyata meningkatkan kapasitas kita untuk mendekode kondisi emosional orang lain?"
     answer: "Ya, sangat mendalam. Secara neurosains, mereplikasikan postur dan tempo gerakan seseorang menyelaraskan sistem neuron cermin Anda. Ini memungkinkan sistem limbik Anda untuk mendekode penanda emosional non-verbal—seperti stres, kelelahan, atau rasa percaya diri—sebagai data sensorik terembodi."
-
 ---
 
 "Dalam cara seseorang berjalan, seseorang dapat membaca seluruh kisah hidup dan perasaan batin mereka." 🎩

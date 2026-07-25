@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, les nuits blanches excessives nuisent à la santé. L'essentiel ne réside pas dans l'horaire nocturne, mais dans le fait de garantir '1 heure de silence absolu' sans interruption. Y parvenir grâce aux casques anti-bruit ou tôt le matin procure des bénéfices cognitifs identiques."
   - question: "Comment appliquer la routine de silence de Kafka pendant la journée ?"
     answer: "Pendant la journée, portez des bouchons d'oreilles ou un casque anti-bruit, tamisez la lumière ou tirez des rideaux occultants. Réduire les stimulations visuelles et auditives crée artificiellement una 'heure dorée de silence' pour votre cerveau."
-
 ---
 
 « La porte de ma chambre est fermée, un silence absolu m'entoure, et ce calme profond soutient mon âme. Écrire est una forme de prière. » 🕯️

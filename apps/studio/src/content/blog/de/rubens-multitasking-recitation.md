@@ -21,7 +21,6 @@ faqs:
     answer: "Nein. Popmusik oder Radiosender regten nur Gefühle an, ohne das Sprachzentrum dicht auszulasten; Werbung lenkt zudem ab. Geisteswissenschaftliche Vorlesungen oder Hörbücher, die Logik und Wissensverarbeitung fordern, sind ideal."
   - question: "Welche Lautstärke ist bei dieser Vorlese-Routine angemessen?"
     answer: "Die Lautstärke sollte weder zu laut noch zu leise sein. Ein mittlerer Pegel (ca. 50–60 dB), wie wenn jemand leise im Raum vorliest, ist ideal. Die Nutzung von Bluetooth-Lautsprechern wird empfohlen."
-
 ---
 
 "Leidenschaft und Intellekt werden erst in sensorischer Harmonie zu einer großen Leinwand." 🎨

@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, absolument. Votre contrôle s'arrête à votre tentative sincère d'agir ; la réaction de l'autre dépend à 100 % de lui. Accepter cette frontière dissout le stress relationnel."
   - question: "Ne pas se soucier des résultats ne diminue-t-il pas la passion ou la motivation ?"
     answer: "Pas du tout ! C'est l'inverse. En libérant le cerveau de la peur du résultat, vous pouvez consacrer 100 % de votre énergie cognitive à la tâche présente."
-
 ---
 
 « Le moment où nous nous préoccupons de ce qui ne dépend pas de nous, nous devenons esclaves. » 📜

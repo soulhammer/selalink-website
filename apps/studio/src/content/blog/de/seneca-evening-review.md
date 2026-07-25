@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Muss ich diese Gewohnheit jeden Tag praktizieren?"
     answer: "Ja. Die tägliche Praxis zu einer festen Zeit maximiert die Neuroplastizität des Gehirns. Die stetige Durchführung stärkt die neuronalen Schaltkreise nachhaltig."
-
 ---
 
 "Wenn das Licht gelöscht ist und meine Frau schweigt, prüfe ich meinen gesamten Tag. Die Seele ist am ruhigsten und friedvollsten, wenn sie sich selbst untersucht."

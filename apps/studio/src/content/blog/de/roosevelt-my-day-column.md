@@ -21,7 +21,6 @@ faqs:
     answer: "Versuchen Sie auch im Alltag, jeden Tag eine feine Nuance zu erfassen – eine Begegnung, den Geschmack des Essens oder das Wetter. Die Suche nach Unterschieden schärft die Aufmerksamkeit."
   - question: "Ist die Nutzung von digitalen Tagebuch-Apps oder Notion genauso effektiv?"
     answer: "Ja! Digitale Werkzeuge bieten dieselben metakognitiven Vorteile bei der Strukturierung von Gedanken. Entscheidend ist der Prozess, innere Gedanken in Satzstrukturen zu bringen – ob per Hand oder Tastatur."
-
 ---
 
 "Tue jeden Tag eine Sache, die dir Angst macht." 🚶‍♂️

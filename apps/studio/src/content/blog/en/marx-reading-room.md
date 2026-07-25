@@ -9,9 +9,8 @@ heroImage: "/images/blog/marx_reading_room.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historical biographies, autobiographical records of Karl Marx & Cognitive Neuroscience research"
-steps:
-
-
+steps: []
+faqs: []
 ---
 
 Karl Marx (1818–1883) was one of humanity's greatest economic thinkers, breaking down the boundaries of philosophy, economics, and history to rigorously analyze the structural contradictions of capitalist society. How was his monumental masterpiece, 'Das Kapital', which sent intellectual shockwaves through human history, produced through his relentless mental discipline? 🏛️

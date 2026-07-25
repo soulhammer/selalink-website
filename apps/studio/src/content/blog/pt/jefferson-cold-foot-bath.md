@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, com certeza! Em uma carta de março de 1819 ao Dr. Vine Utley, Jefferson escreveu explicitamente que banhava os pés em água fria todas as manhãs há 60 anos, atribuindo sua saúde a esse hábito."
   - question: "Uma ducha fria de corpo inteiro é mais eficaz do que um banho de pés em água fria?"
     answer: "Uma ducha fria completa gera um desperta sistêmico mais forte, mas impõe maior estresse cardiovascular. O banho de pés em água fria isola o estímulo aos nervos periféricos, reduzindo a carga cardiovascular e despertando o cérebro com eficácia."
-
 ---
 
 "Tenho banhado meus pés em água fria todas as manhãs, durante 60 anos, e não adquiri nenhum outro hábito que possa ser chamado de singular..." 🧊

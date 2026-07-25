@@ -21,7 +21,6 @@ faqs:
     answer: "La ansiedad aumenta cuando el cerebro se fija en escenarios negativos (fallos). Detenga la visualización inmediatamente y practique conexión sensorial (Grounding) enfocándose en su respiración o en el tacto físico, e inclúya estiramientos suaves."
   - question: "¿Cuál es la duración adecuada para cada sesión de ensayo mental?"
     answer: "No necesita sesiones largas: un enfoque breve de 3 a 5 minutos es lo más efectivo. Dado que la memoria de trabajo para la concentración alta es limitada, simular solo los pasos clave 5 minutos antes del evento es lo ideal."
-
 ---
 
 "Ya he recorrido esa curva perfectamente cientos de veces en mi cabeza. Mi cuerpo simplemente recrea esa trayectoria."

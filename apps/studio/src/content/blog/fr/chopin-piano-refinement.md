@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, c'est un risque réel. Pour l'éviter, séparez le « temps de rédaction » du « temps de raffinage » et fixez des limites quantitatives — comme limiter la révision à un maximum de 3 heures ou 5 cycles. Appliquer le raffinage dans une fenêtre temporelle définie préserve l'équilibre entre productivité et qualité."
   - question: "À quel moment de la révision itérative faut-il cesser les modifications et finaliser l'œuvre ?"
     answer: "Utilisez le point de rendement décroissant comme seuil — lorsque des modifications supplémentaires n'apportent plus d'amélioration significative par rapport à la version précédente. Lorsque de petites retouches ne modifient plus l'efficacité globale, le signal de l'ACC s'est estompé et finaliser l'œuvre constitue la décision optimale."
-
 ---
 
 « L'inspiration vient en un instant, mais l'exprimer avec une perfection absolue exige d'innombrables nuits douloureuses de répétitions. » 🎹

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "L'entraînement au mouvement physique le matin en cas de fatigue ne surcharge-t-il pas le cerveau ?"
     answer: "Au contraire, stimuler la motricité fine dès le réveil active le système réticulé du tronc cérébral, stimulant le cortisol et la dopamine pour dissiper rapidement l'inertie du sommeil."
-
 ---
 
 "Je suis empereur, mais mes mains sont encore calleuses." ⚓

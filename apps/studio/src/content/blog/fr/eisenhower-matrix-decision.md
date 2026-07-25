@@ -21,7 +21,6 @@ faqs:
     answer: "Si tout paraît urgent, c'est que les exigences extérieures priment sur vos priorités. Mettez en place un créneau strict de « Ne pas déranger » pendant les 30 premières minutes de votre journée, sans consulter vos e-mails, dédié exclusivement au Cadran 2. Réserver ce moment est le catalyseur qui réduira les urgences futures."
   - question: "Quel est le critère objectif pour distinguer les tâches « Importantes » des tâches « Urgentes » ?"
     answer: "Les « tâches urgentes » sont générées par des demandes extérieures exigeant une réaction immédiate (e-mails, notifications, échéances). Les « tâches importantes » contribuent directement à vos objectifs à long terme et compétences clés. Posez-vous la question : « Si je ne traite pas cette tâche, aura-t-elle un impact majeur sur ma vie dans un an ? »"
-
 ---
 
 « J'ai deux sortes de problèmes, les urgents et les importants. Les urgents ne sont pas importants, et les importants ne sont jamais urgents. » 📊

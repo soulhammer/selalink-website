@@ -21,7 +21,6 @@ faqs:
     answer: "Nein. Entscheidend ist das 'physische Abschalten künstlicher Reize' und die 'Konzentration auf analoge Tätigkeiten'. Das Einrichten einer handyfreien Zone in den eigenen vier Wänden für 30 bis 60 Minuten erzielt dieselbe Wirkung."
   - question: "Warum fördern einfache Hausarbeiten oder körperliche Tätigkeiten das Nachdenken?"
     answer: "Einfache Routinearbeiten verringern die kognitive Belastung im Gehirn. Dieser Zustand lockert die Kontrolle des präfrontalen Kortex, sodass das DMN unbewusste Gedanken frei verknüpfen und tiefere Erkenntnisse hervorbringen kann als angestrengtes Nachdenken."
-
 ---
 
 "In Bollingen bin ich mitten in meinem wahren Leben, bin ich ganz ich selbst... Es gibt keinen Strom und kein fließendes Wasser, aber meine Seele gewinnt ihre organische Ganzheit zurück." 🪵

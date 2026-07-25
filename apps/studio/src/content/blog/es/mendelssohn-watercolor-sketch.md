@@ -21,7 +21,6 @@ faqs:
     answer: "Por supuesto. El objetivo no es exhibir destreza artística, sino enviar señales de observación visual y coordinación motora de la mano al cerebro. Incluso si la composición es imperfecta o las líneas son torpes, el estímulo de las áreas cerebrales intermodales y el efecto de relajación ocurren exactamente igual."
   - question: "¿Es suficiente el dibujo a lápiz o bolígrafo para la estimulación intermodal en lugar de la acuarela?"
     answer: "Sí, el uso de lápiz o bolígrafo monocromático involucra la intuición espacial y el control táctil lo suficiente como para activar los circuitos asociativos del cerebro. No obstante, añadir pinturas de colores o lápices de colores estimula además las áreas de percepción del color, ampliando el alcance del estímulo sensorial."
-
 ---
 
 “Pensamientos que se expresan en la música no son demasiado indefinidos para ser puestos en palabras, sino al contrario, demasiado definidos; y los colores en la punta del pincel se convierten en un cómodo refugio para las melodías.” 🎨

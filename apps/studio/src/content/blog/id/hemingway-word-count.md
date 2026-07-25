@@ -21,7 +21,6 @@ faqs:
     answer: "Hemingway melacak hasilnya untuk menghindari pembohongan diri dan memantau kemajuan sejati secara visual, memaksakan ritme terdisiplin. Angka yang dikonfirmasi secara visual mengaktifkan sistem dopaminnya."
   - question: "Apakah rutinitas pencatatan ini efektif untuk tugas bisnis umum atau studi akademik di luar menulis?"
     answer: "Ya, tentu saja! Rutinitas ini berlaku untuk metrik apa pun yang dapat dikuantifikasi—halaman yang dibaca, jam belajar, baris kode yang ditulis, atau repetisi olahraga. Pemantauan diri yang jujur memperkuat pemantauan eksekutif prefrontal."
-
 ---
 
 "Agar tidak membohongi diri sendiri, saya mencatat jumlah kata harian di grafik besar di dinding." 📝

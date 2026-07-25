@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Why did Simone Weil prefer Ancient Greek classical texts for recitation?"
     answer: "She believed that unfamiliar classical foreign languages require deliberate cognitive effort, preventing passive habituation and forcing the brain to dedicate 100% of its conscious attention to every syllable."
-
 ---
 
 "Learning to pay full attention is the true purpose of all study and contemplation." 📖

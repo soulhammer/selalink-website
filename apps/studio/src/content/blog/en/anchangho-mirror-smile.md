@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Does forcing a smile in front of the mirror really work?"
     answer: "Yes, due to the facial feedback effect, the brain detects the movement of facial expression muscles, judges that you are in an actual joyful state, and secretes happiness neurotransmitters."
-
 ---
 
 "We do not smile because we are happy; we are happy because we smile. Practice a smiling face in front of the mirror every morning and sweep your surroundings clean." 🧹

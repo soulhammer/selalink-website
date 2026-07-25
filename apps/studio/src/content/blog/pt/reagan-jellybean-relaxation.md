@@ -21,7 +21,6 @@ faqs:
     answer: "Estudos neurofisiológicos mostram que os níveis de cortisol começam a diminuir e as ondas cerebrais mudam para ondas alfa relaxantes cerca de 2 a 3 minutos após o início da mastigação. Portanto, manter o foco calmo na mastigação por pelo menos 2 a 3 minutos é essencial para obter resultados."
   - question: "Existe realmente um princípio científico pelo qual a mastigação ajuda a suprimir o desejo de fumar ou a compulsão alimentar?"
     answer: "Exatamente. Quando ocorrem impulsos fortes (cigarro, comida), o cérebro busca um rápido suprimento de dopamina. Fornecer um estímulo mastigatório alternativo na boca permite ao cérebro satisfazer parcialmente seu desejo de recompensa (via liberação alternativa de dopamina), ajudando a controlar picos de impulso. A ciência do comportamento chama isso de 'formação de comportamento alternativo'."
-
 ---
 
 Ronald Reagan, o 40º presidente dos Estados Unidos, foi um proeminente líder político que liderou o fim da Guerra Fria, revitalizou a economia americana e demonstrou uma liderança de comunicação clara. Como chefe de uma superpotência global obrigado a carregar o peso imenso de crises nacionais e decisões cruciais, qual era o seu segredo para o relaxamento cognitivo? 🍬

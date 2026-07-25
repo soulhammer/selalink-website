@@ -21,7 +21,6 @@ faqs:
     answer: "Nutzen Sie die Sprache-zu-Text-Funktion Ihres Smartphones oder eine KI-Notiz-App, um 5 Minuten lang ein mündliches 'Brain Dumping' durchzuführen."
   - question: "Welche Themen sollte man ansprechen, um die Produktivität zu steigern?"
     answer: "Es reicht völlig aus, Fakten des Vortags aufzuzählen, Prioritäten für heute zu nennen oder aktuelle Gefühle laut auszusprechen."
-
 ---
 
 "Jeden Morgen räume ich das Gerümpel in meinem Kopf auf, indem ich den gestrigen Tag aufband diktiere und abtippen lasse." 📞

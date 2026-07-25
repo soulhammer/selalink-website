@@ -21,7 +21,6 @@ faqs:
     answer: "Tentu saja. Tidak dibutuhkan mahir bermusik. Cukup putar musik klasik sambil mengontrol napas (5 detik hirup, 5 detik hembuskan) untuk mendapatkan efek reset gelombang Alfa yang sama."
   - question: "Mengapa membasuh wajah dengan air dingin merangsang saraf vagus dan membangunkan otak?"
     answer: "Saat air dingin menyentuh dahi dan pipi, tubuh memicu refleks menyelam, memperlambat detak jantung dan meningkatkan aliran darah kaya oksigen ke otak. Ini merangsang saraf trigeminal dan vagus untuk menghilangkan kantuk pagi."
-
 ---
 
 Arthur Schopenhauer, filsuf besar Jerman penulis *Dunia sebagai Kehendak dan Representasi*. Lewat rutinitas pagi apa karya-karya intelektualnya yang tajam diasah?

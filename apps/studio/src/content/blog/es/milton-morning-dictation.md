@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Cómo memorizaba Milton todos los versos antes de que llegara su asistente?"
     answer: "Milton recitaba versos repetidamente con una cadencia rítmica, como si fuera música. Aprovechó su memoria de trabajo auditiva altamente desarrollada tras la ceguera y usó el verso blanco como un ancla de memoria."
-
 ---
 
 “La mente es su propio lugar, y en sí misma puede hacer un cielo del infierno, o un infierno del cielo.” 🚶‍♂️

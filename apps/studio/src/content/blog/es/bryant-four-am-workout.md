@@ -21,7 +21,6 @@ faqs:
     answer: "Para una alineación circadiana óptima, lo ideal es mantener las variaciones del despertar de fin de semana dentro de 1 hora con respecto a la rutina diaria. Dormir en exceso el fin de semana reinicia el reloj interno del NSQ, aumentando la fatiga matutina en días laborables. La consistencia es clave."
   - question: "¿Realizar tareas intelectuales (trabajo, lectura) inmediatamente después de un entrenamiento a las 4 AM mejora la concentración cerebral?"
     answer: "Sí, crea una poderosa sinergia cognitiva. La oleada de BDNF, dopamina y norepinefrina liberada tras el ejercicio eleva la neuroplasticidad sináptica al máximo. Dedicarse al trabajo intelectual profundo o al aprendizaje durante 1 a 2 horas después del entrenamiento maximiza la retención y la memoria de trabajo."
-
 ---
 
 "Cuando entreno en el silencio de las 4 AM, estoy absolutamente seguro de que voy un paso por delante de cada competidor a nivel cognitivo." 🏀

@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, das ist sie. Der Gating-Mechanismus des Thalamus blockiert nicht nur körperliche Schmerzen, sondern auf genau dieselbe Weise auch psychische Angst- und Stresssignale."
   - question: "Wie lange sollte ein hochkomplexer Immersion-Sprint aufrechterhalten werden?"
     answer: "Ideal sind 15 bis 20 Minuten. Nach intensiver Nutzung der Gehirnressourcen sollten Sie eine kurze Pause einlegen, um geistiger Ermüdung vorzubeugen."
-
 ---
 
 "Alle Probleme der Menschheit stammen davon ab, dass der Mensch nicht still in einem Zimmer sitzen kann." 🧠

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "What if this increases stress and hinders my concentration instead?"
     answer: "That occurs when the task difficulty significantly exceeds your current baseline, triggering stress hormones. Lower the task intensity so your expected success rate is around 70–80%."
-
 ---
 
 "I don't leave the practice green until that 100th putt drops." ⛳

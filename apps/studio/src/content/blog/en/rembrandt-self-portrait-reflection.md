@@ -21,7 +21,6 @@ faqs:
     answer: "Yes. If mood distortion or feelings of depression intensify, you may have fallen into a self-criticism loop, so stop immediately. Instead, detour to training that checks your body grounding (earthing) sensations first by looking at your shoulder line or hand shape rather than your pupils."
   - question: "When is the best time of day to do mirror self-reflection?"
     answer: "A 3-minute routine in front of the bathroom mirror right after finishing a shower is best. In a parasympathetic-dominant state where the body is relaxed, the brain's defense mechanisms soften, making for the most truthful and comfortable self-confrontation."
-
 ---
 
 "The only way to confront one's inner self is to gaze deeply into the pupils reflected in the mirror." 🎨

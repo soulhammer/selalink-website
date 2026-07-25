@@ -21,7 +21,6 @@ faqs:
     answer: "Cognitively, 3 years represents the optimal timeframe to transition from a total novice to grasping a non-native discipline's core framework without causing cognitive strain. This 3-year cadence continuously breaks intellectual inertia, driving synaptic neuroplasticity and enabling cross-domain creative synthesis."
   - question: "If a 3-year commitment feels too long or overwhelming for busy professionals, how should one start?"
     answer: "In addition to his 3-year deep dives, Drucker practiced 3-month summer sprints, selecting a focused micro-topic (e.g., reading a specific author's complete works or studying a single nation's economy) to master over summer breaks. Starting with a 3-month focused sprint builds cognitive momentum before expanding to a full 3-year project."
-
 ---
 
 "The first rule of managing oneself is to continuously engage in new learning." 📚

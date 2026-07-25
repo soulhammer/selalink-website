@@ -21,7 +21,6 @@ faqs:
     answer: "Ne vous souciez pas de la perfection ou des dissonances. Concentrez-vous sur le poids des touches et la résonance du son pour détendre et réinitialiser le réseau attentionnel."
   - question: "Peut-on obtenir une réinitialisation cognitive avec d'autres instruments que le piano ?"
     answer: "Oui, les instruments à cordes ou à clavier comme la guitare ou le ukulélé, sollicitant les sensations des doigts et la résonance, apportent le même effet de bascule attentionnelle."
-
 ---
 
 "Je n'arrête la tension de mon cerveau que lorsque je pose mes doigts sur les touches du piano et m'abandonne à de libres dissonances." Max Planck, le physicien allemand qui a formulé la théorie quantique et découvert la constante de Planck (h). Déchiffrer les lois de l'univers lui causait une grande fatigue cérébrale. Son refuge était son piano. Pianiste émérite, il jouait souvent en duo avec son ami Albert Einstein. Après son travail théorique, il fermait ses partitions et improvisait librement. Cet article étudie le mécanisme neuroscientifique de cette bascule cognitive.

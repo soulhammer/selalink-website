@@ -21,7 +21,6 @@ faqs:
     answer: "Evite o contato visual direto. Use a 'Visão Periférica' ou faça um escaneamento de 1 segundo em uma área específica (mangas, calçados, mãos) durante movimentos dinâmicos — como ao tirar o casaco —, e desvie o olhar com naturalidade."
   - question: "Como essas notas de microdetalhes podem ser aplicadas na prática ao trabalho profissional?"
     answer: "Ao redigir propostas, definir personas de clientes ou realizar reuniões, você vai além de generalizações vagas de 'um funcionário de 30 anos' para descrições vivas como 'um planejador que batuca a caneta durante negociações'. Isso eleva a persuasão e a precisão do contexto."
-
 ---
 
 "O papel do artista é fazer perguntas, não respondê-las." 📝

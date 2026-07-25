@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Tidur 10 jam tampak tidak realistis bagi orang modern yang sibuk; apakah boleh dikurangi?"
     answer: "Patokan 10 jam berlaku untuk atlet profesional berintensitas tinggi; bagi masyarakat umum, memastikan 7 hingga 8 jam tidur berkualitas sudah sangat cukup. Kuncinya bukan terpaku pada durasi, melainkan memaksimalkan proporsi tidur nyenyak (slow-wave sleep) melalui ritme bangun yang teratur dan kontrol lingkungan tidur."
-
 ---
 
 "Menulis daftar membuat tugas menjadi jelas, dan mendapatkan 10 jam tidur menyiapkan tubuh untuk menghadapi lemparan apa pun." 💤

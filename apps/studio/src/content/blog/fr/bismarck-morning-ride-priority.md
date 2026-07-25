@@ -21,7 +21,6 @@ faqs:
     answer: "C'est tout à fait normal. Ce n'est pas un échec, mais la preuve que vous avez concentré votre énergie sur un projet majeur à fort impact. Reportez simplement l'élément non terminé comme tâche n°1 demain matin, lorsque votre cortex préfrontal sera au frais."
   - question: "Quelles sont les alternatives modernes d'exercice à la chevauchée matinale ?"
     answer: "15 minutes de footing, de vélo d'intérieur, de kettlebell swings, d'étirements Tabata ou de marche rapide procurent exactement le même effet neurophysiologique d'augmentation du flux sanguin cérébral et de libération de BDNF et de dopamine."
-
 ---
 
 « La politique est l'art du possible, et pour prendre les meilleures décisions, il faut saisir le moment le plus clair du cerveau. » 🐎

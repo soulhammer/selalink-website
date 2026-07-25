@@ -21,7 +21,6 @@ faqs:
     answer: "Sitting down immediately upon returning home triggers a rapid drop in physical motor tone and autonomic arousal, lulling the brain into deep relaxation. Standing preserves motor engagement and physical alertness, protecting working memory capacity for those critical 10 minutes."
   - question: "How can I practice this routine if I don't own a standing desk or high counter?"
     answer: "Placing a thick book or laptop stand on a standard table, kitchen island, or tall dresser is completely sufficient. The core objective is not purchasing new furniture, but setting up a frictionless standing posture to extract ideas for 5 to 10 minutes right upon entering."
-
 ---
 
 "I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it." 🎩

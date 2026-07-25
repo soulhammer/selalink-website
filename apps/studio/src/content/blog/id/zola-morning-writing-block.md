@@ -21,7 +21,6 @@ faqs:
     answer: "Urusan yang benar-benar mendesak pasti disampaikan lewat telepon langsung. Menunda pemeriksaan email dan pesan hingga selesai 1 jam deep work pagi saja sudah meningkatkan kualitas kerja 10 kali lipat."
   - question: "Bagaimana pekerja kantoran yang tidak punya waktu 3 jam penuh dapat menerapkannya?"
     answer: "Yang lebih penting daripada angka '3 jam' adalah 'keadaan bebas gangguan'. Melakukan deep work terisolasi selama 30 menit sebelum bekerja atau 45 menit setelah bekerja sudah sangat cukup."
-
 ---
 
 Émile Zola, raksasa sastra Prancis abad ke-19 yang memelopori Naturalisme dan Realisme, meninggalkan karya besar seperti 'Nana', 'L'Assommoir', dan manifes sejarah 'J'Accuse...!'. Dari mana datangnya daya kreatif eksplosif seorang penulis yang menerbitkan puluhan karya monumental sepanjang hidupnya? ✒️

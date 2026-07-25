@@ -21,7 +21,6 @@ faqs:
     answer: "Confiar no estado de espírito ou na inspiração gera um rendimento irregular. Fixar uma meta mínima obriga as redes executivas do cérebro a trabalhar de forma constante, evitando bloqueios criativos."
   - question: "Preciso replicar exatamente os gatilhos de Stephen King, como o hard rock ou as vitaminas?"
     answer: "Não. O segredo é a 'consistência', não o tipo específico de gatilho. Selecionar estímulos confortáveis para você (tomar um chá, ouvir ruído branco ou ligar um abajur) e aplicá-los antes de trabalhar garante os mesmos benefícios."
-
 ---
 
 "Eu me apresento na mesma mesa no mesmo horário todas as manhãs para que minha musa saiba exatamente onde me encontrar. Não espere pela inspiração; ela só aparece quando sabe que você está sentado trabalhando." ✍️

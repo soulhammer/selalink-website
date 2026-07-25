@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut. Ihre Kontrolle reicht nur bis zu Ihrem aufrichtigen Versuch zu handeln; wie die andere Person darauf reagiert, liegt zu 100 % in ihrer Macht. Das Akzeptieren dieser Grenze nimmt den Stress."
   - question: "Nimmt die Motivation nicht ab, wenn man sich nicht um das Ergebnis sorgt?"
     answer: "Ganz im Gegenteil! Wenn die Angst vor dem Ergebnis verschwindet, können Sie 100 % Ihrer Energie fokussiert in die eigentliche Handlung im Hier und Jetzt stecken."
-
 ---
 
 "Freiheit ist das einzige würdige Ziel im Leben. Man erlangt sie, indem man Dinge ignoriert, die außerhalb unserer Macht liegen." 📜

@@ -21,7 +21,6 @@ faqs:
     answer: "Es gibt keinen wissenschaftlichen Grund, warum es genau 5 Uhr sein muss. Der Kern liegt darin, mindestens eine Stunde vor Arbeitsbeginn aufzustehen und das Gehirn durch Bewegung zu aktivieren. Wichtig ist, innerhalb der ersten 30 Minuten nach dem Aufstehen eine Routine zu etablieren."
   - question: "Was kann man tun, wenn hochintensives Training wegen schwacher Gelenke oder Kondition zu belastend ist?"
     answer: "Statt gelenkschädigender Sprünge können Sie Heimtrainer-Fahren, zügiges Gehen oder Steigungslaufen wählen. Solange die Atmung ausreichend angeregt wird, um die Durchblutung des Gehirns zu steigern, erzielen Sie dieselben kognitiven Vorteile."
-
 ---
 
 "Auch wenn Sie sich nicht sicher sind, sorgen Sie dafür, dass alle anderen von Ihrer Absicht überzeugt sind." 🚶‍♂️

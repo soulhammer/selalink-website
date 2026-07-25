@@ -21,7 +21,6 @@ faqs:
     answer: "No. The core mechanism is refining expressions into your own clear words in your native tongue. Writing a single sentence in a language you are learning can provide bonus cognitive stimulation."
   - question: "What if I get exhausted writing a daily journal?"
     answer: "Minimize the burden by switching from full prose to a 3-keyword recap to keep friction low."
-
 ---
 
 "When errors and attempts of the day are reviewed through objective records, uncertainty is sublimated into great invention." ð§ª

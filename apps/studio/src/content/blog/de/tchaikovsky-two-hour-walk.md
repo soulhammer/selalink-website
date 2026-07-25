@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Warum hielt Tschaikowski strikt an zwei Stunden Spaziergang fest?"
     answer: "Es half ihm, Ängste durch strenge Disziplin zu kontrollieren, die Gehirndurchblutung durch zweistündiges Gehen zu steigern und sein autonomes Nervensystem zu entspannen, sodass Melodien natürlich fließen konnten."
-
 ---
 
 Pjotr Iljitsch Tschaikowski (1840–1893) war ein Meister der russischen Romantik, der zeitlose Melodien wie „Schwanensee“, „Der Nussknacker“ und die „Symphonie Pathétique“ schuf. Im ständigen Kampf mit Neurasthenie und Ängsten war die Hauptkraft, die sein Leben aufrechterhielt und brillante musikalische Ideen freisetze, seine tägliche Gewohnheit, exakt zwei Stunden spazieren zu gehen. 🚶‍♂️

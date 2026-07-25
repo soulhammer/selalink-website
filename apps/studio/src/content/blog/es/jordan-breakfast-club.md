@@ -21,7 +21,6 @@ faqs:
     answer: "La clave no es la hora exacta de las 6 AM, sino 'completar un entrenamiento exigente inmediatamente al despertar'. Sin importar su hora de levantarse, realizar un entrenamiento intenso justo al despertar ofrece los mismos beneficios hormonales y de confianza."
   - question: "¿El entrenamiento diario de alta intensidad no causa sobreentrenamiento o lesiones?"
     answer: "La rutina de Jordan evolucionó gradualmente. Los principiantes deben comenzar con 3 días a la semana, aumentando progresivamente la intensidad. Alternar entre fuerza intensa y ejercicios de movilidad ligera en días alternos previene el agotamiento físico."
-
 ---
 
 "Puedo aceptar el fracaso, todos fracasan en algo. Pero no puedo aceptar no intentarlo. Mientras mis rivales despiertan a las 8:30 AM, yo ya he trabajado dos horas para derrotarlos." 🏀

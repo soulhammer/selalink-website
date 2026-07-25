@@ -21,7 +21,6 @@ faqs:
     answer: "Sim. Escrever como se estivesse se dirigindo a alguém que ouvirá sem julgamentos, como um Theo imaginário, maximiza a verbalização sincera das emoções e a desintoxicação cerebral."
   - question: "Posso usar um aplicativo de notas digitais em vez de escrever à mão?"
     answer: "Para a purificação emocional, a escrita à mão é muito mais benéfica, pois aumenta o engajamento do córtex somatossensorial e acalma o córtex pré-frontal, sendo fortemente recomendado um caderno analógico."
-
 ---
 
 Vincent van Gogh (1853–1890), um dos maiores pintores da história da arte do final do século XIX e pioneiro do Expressionismo, vendeu apenas uma pintura durante a vida em meio à extrema pobreza e isolamento, mas deixou obras-primas imortais. Como mestre do pós-impressionismo, escreveu mais de 660 cartas para seu irmão Theo ao longo da vida para superar a solidão. Todas as noites, afastando-se da tela, acendia uma vela e derramava seus pensamentos dolorosos em forma epistolar para purificar a mente.

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Why did Virginia Woolf write standing up?"
     answer: "Just as her painter sister stood before a canvas to paint, Woolf favored a standing desk as a physical ritual to preserve artistic equivalence and a state of intense immersion."
-
 ---
 
 Virginia Woolf, the novelist recognized as a pioneer of 20th-century modernist literature through landmark works like 'Mrs Dalloway' and 'To the Lighthouse'. How was she able to realize the secret inner worlds and complex psychology of her characters with such persistent and refined sentences? ✍️

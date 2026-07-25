@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Que faire si je me surprends à être trop indulgent avec mes notes ?"
     answer: "C'est pourquoi il faut établir un barème objectif et chiffré plutôt que se fier à son ressenti. Évaluez si le temps de travail profond mesuré dépasse 3 heures au lieu de vous baser sur un 'sentiment de concentration'. Associer des données réelles élimine la rationalisation."
-
 ---
 
 « Le bulletin de notes quotidien de mon journal est le miroir le plus honnête qui me contrôle. L'effort conscient d'obtenir un 'A' a été le moteur de mes réussites académiques. »

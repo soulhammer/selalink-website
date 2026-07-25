@@ -21,7 +21,6 @@ faqs:
     answer: "Si 2 horas seguidas resulta abrumador, aplique la técnica de '2 Bloques Divididos': 50 minutos de enfoque profundo y 10 minutos de estiramiento. Durante el descanso de 10 minutos, no mire el teléfono; beba agua o camine un poco para mantener el flujo sanguíneo antes del segundo bloque."
   - question: "¿Pueden las personas nocturnas a las que les cuesta madrugar aprovechar esta Hora Dorada Cognitiva?"
     answer: "Sí, totalmente. El mecanismo no depende de la hora exacta (5:30 AM), sino de asignar los recursos prefrontales a su tarea más difícil durante las primeras 2 horas tras despertar, libre de distracciones. Al aislarse de alertas e información al despertar, obtendrá los mismos beneficios."
-
 ---
 
 "La complejidad de un problema se disuelve por completo en la quietud de la mañana. Las horas antes de que nadie despierte son cuando mi cerebro funciona con cristalina claridad." 🧮

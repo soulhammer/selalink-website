@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Pourquoi Tchaïkovski respectait-il strictly deux heures de marche ?"
     answer: "Cela l'aidait à contrôler l'anxiété par une discipline stricte, à augmenter le flux sanguin cérébral par deux heures de marche continue et à détendre son système nerveux autonome pour que les mélodies émergent naturellement."
-
 ---
 
 Piotr Ilitch Tchaïkovski (1840–1893) était un maître de la musique romantique russe ayant composé des mélodies immortelles comme 'Le Lac des cygnes', 'Casse-Noisette' et la 'Symphonie Pathétique'. Luttant constamment contre la neurasthénie et l'anxiété, le moteur essentiel de sa vie et de sa création musicale était son habitude quotidienne de marcher exactement deux heures. 🚶‍♂️

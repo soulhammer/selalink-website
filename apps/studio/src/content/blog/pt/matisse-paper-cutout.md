@@ -21,7 +21,6 @@ faqs:
     answer: "Sim. O resultado artístico é irrelevante. O benefício reside no estímulo tátil de manusear a tesoura e na entrada visual das cores vibrantes. Esse processo desacopla a dor e estimula a neuroplasticidade, independentemente da perfeição das formas."
   - question: "E quanto a usar argila ou um aplicativo de desenho em vez de cortar papel?"
     answer: "Modelar argila é altamente recomendável por oferecer excelente feedback tátil. No entanto, aplicativos de desenho no tablet não são recomendados: a tela lisa e as notificações tiram o foco e impedem o reset mental; prefira ferramentas analógicas."
-
 ---
 
 "Cortar papel com tesoura é como esculpir diretamente na pedra. Permite ir diretamente da cor para a forma." ✂️

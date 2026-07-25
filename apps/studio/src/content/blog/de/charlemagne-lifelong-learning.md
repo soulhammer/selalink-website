@@ -21,7 +21,6 @@ faqs:
     answer: "Verwenden Sie für die moderne Praxis kein dünnes Papier. Legen Sie stattdessen ein festes Hardcover-Mininotizbuch auf den Nachttisch oder befestigen Sie ein Klemmbrett am Bettregal, um Schäden zu vermeiden."
   - question: "Belastet das Schreiben bei gedimmtem Licht beim nächtlichen Erwachen die Augen?"
     answer: "Das nächtliche Schreiben dauert nur 1 bis 2 Minuten, was die Augen kaum belastet. Der Schlüssel ist die Nutzung eines warmen, bernsteinfarbenen Nachtlichts mit geringer Helligkeit, um Wörter zu erkennen, ohne Melatonin zu unterdrücken."
-
 ---
 
 "Wissen zu besitzen ist gut, aber es auszuüben und im Leben zu verankern ist noch viel größer." 👑

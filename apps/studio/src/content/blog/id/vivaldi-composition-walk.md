@@ -21,7 +21,6 @@ faqs:
     answer: "Sangat penting untuk mengulas dan menyempurnakan catatan dalam waktu 1 hingga 2 jam setelah mencatat. Meminimalkan jeda waktu menjaga sisa ingatan sensorik."
   - question: "Apakah ada tips jika merekam memo suara di tempat umum terasa canggung karena dilihat orang?"
     answer: "Gunakan earphone dan bicaralah perlahan seolah sedang bertelpon. Ini membuat Anda dapat merekam inspirasi dengan nyaman tanpa menarik perhatian."
-
 ---
 
 Antonio Vivaldi (1678–1741), komponis Barok Italia dan virtuoso biola yang dijuluki 'Pastor Berambut Merah' (Il Prete Rosso), menciptakan 'The Four Seasons', lebih dari 500 konserto, dan 40 opera. Sebagai direktur musik di Ospedale della Pietà Venesia, bagaimana ia terus mengalirkan ide-ide musik yang megah? 🎻

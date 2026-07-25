@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Ist es ungesund, jeden Tag das gleiche Mittagessen zu essen? Wie können wir Schulz' Gewohnheit modern anwenden?"
     answer: "Schulz aß klassische Hamburger, aber heute kann man dies durch eine Rotation von 3 ausgewogenen Gerichten oder Salat-Abonnements ersetzen. Das Hauptziel ist die Eliminierung des 'Prozesses der Menüauswahl'. Die Festlegung auf 2 bis 3 gesunde Optionen sichert sowohl die Ernährung als auch die geistige Energie."
-
 ---
 
 "Ich sitze jeden Morgen um 9 Uhr an meinem Schreibtisch und greife zur Feder. Und zu Mittag esse ich immer einen Hamburger. Mein Alltagsleben zu vereinfachen, ist das Geheimnis meiner Kreativität." 🍔

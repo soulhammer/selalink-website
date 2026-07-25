@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak. Intinya terletak pada 'memutus masukan informasi luar' dan 'isolasi perhatian', bukan pada lokasinya itu sendiri. Mengunjungi perpustakaan lokal yang tenang di akhir pekan atau menyimpan smartphone Anda di ruangan lain selama satu hari saja sambil berfokus secara eksklusif pada buku fisik dan buku catatan memberikan efek reset otak yang kuat."
   - question: "Apakah boleh menggunakan laptop atau tablet saat membaca materi?"
     answer: "Layar digital pada dasarnya adalah pintu gerbang yang terhubung langsung ke godaan situs web, email, dan notifikasi. Untuk mempertahankan jaringan fokus otak, membaca kertas cetak adalah yang terbaik. Jika penggunaan perangkat tidak dapat dihindari, kami sangat menyarankan untuk menggunakan e-reader khusus atau perangkat offline dengan akses Wi-Fi dan internet yang dinonaktifkan sepenuhnya."
-
 ---
 
 "Think Week adalah hal paling produktif yang pernah saya lakukan di Microsoft. Di sana, Anda dapat berfokus penuh pada masa depan tanpa gangguan." 🌲

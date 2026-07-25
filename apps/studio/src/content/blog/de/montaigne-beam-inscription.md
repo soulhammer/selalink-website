@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Sollte diese Routine jeden Tag praktiziert werden?"
     answer: "Ja, die tägliche Praxis zu festen Zeiten maximiert die neuronale Plastizität. Regelmäßige Wiederholung am selben Platz festigt die metakognitiven Schaltkreise im Gehirn."
-
 ---
 
 „Was weiß ich? (Que sçay-je?)“ 🏛️

@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, absolument. Le mécanisme de filtrage du thalamus bloque non seulement la douleur physique, mais aussi les signaux d'anxiété psychologique et de stress de la même manière."
   - question: "Pendant combien de temps un sprint d'immersion complexe doit-il être maintenu ?"
     answer: "Une durée de 15 à 20 minutes est idéale. Après avoir mobilisé intensivement les ressources cérébrales, prenez un court repos pour prévenir la fatigue mentale."
-
 ---
 
 "Tous les malheurs des hommes viennent d'une seule chose, qui est de ne savoir pas demeurer en repos, dans une chambre." 🧠

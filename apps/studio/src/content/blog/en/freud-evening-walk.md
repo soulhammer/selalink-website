@@ -21,7 +21,6 @@ faqs:
     answer: "Yes. Bilateral stimulation and prefrontal activation occur regardless of the time of day. However, while a morning walk boosts arousal to wake up the brain, Freud's evening walk uniquely flushes out cognitive clutter and emotional tension accumulated from grueling clinical or work demands throughout the day. Choose the timing that aligns best with your personal stress patterns."
   - question: "Can I type my unconscious journal into a smartphone app or keyboard instead of writing by hand?"
     answer: "Typing on digital devices forces the brain back into structured, logical processing mode due to screen visuals and interface mechanics. Conversely, pressing a pen onto physical paper engages fine motor control in fingertips, stimulating the brain's Reticular Activating System (RAS) far more deeply. Handwriting creates a superior physiological environment to draw out suppressed subconscious thoughts intuitively."
-
 ---
 
 "The mind is like an iceberg, it floats with one-seventh of its bulk above water." 🧠

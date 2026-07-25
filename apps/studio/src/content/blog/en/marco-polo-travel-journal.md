@@ -21,7 +21,6 @@ faqs:
     answer: "Minor micro-variations—such as walking down a different alley on your commute home, tasting a new ingredient, or pausing for 5 seconds to smell a seasonal flower along the street—are more than enough to create novel sensory stimuli."
   - question: "Is there a tip to reduce time when writing a journal that tends to become too long?"
     answer: "Instead of worrying about full sentences, list keywords like 'Visual: deep crimson sunset' or 'Auditory: crunch of gravel'. This keyword method lets you capture everything within 3 minutes."
-
 ---
 
 Marco Polo (1254–1324) was an Italian explorer and merchant who departed Venice to traverse Asia for 24 years, producing 'The Travels of Marco Polo' (Il Milione), history's greatest travel literature. Earning the deep trust of Kublai Khan, emperor of the Mongol Yuan Dynasty, he served as a diplomatic envoy for 17 years. Decades later, while imprisoned in Genoa, he dictated vivid accounts of Eastern gastronomy, geography, and culture as if they were right before his eyes. What was his secret? 🐪

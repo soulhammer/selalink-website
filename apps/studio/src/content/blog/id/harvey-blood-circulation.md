@@ -21,7 +21,6 @@ faqs:
     answer: "Ganti klaim samar seperti 'pengguna menyukai fitur ini' dengan metrik sirkulasi kuantitatif yang terukur—seperti volume akuisisi pengguna, durasi sesi rata-rata, dan tingkat rasio pendaftaran."
   - question: "Apa yang harus saya lakukan jika metrik kuantitatif bertentangan dengan intuisi pribadi saya?"
     answer: "Percayalah pada angka-angka objektif yang diukur daripada intuisi. Secara historis, intuisi sering kali merupakan mekanisme pertahanan kognitif yang digunakan otak untuk melindungi dogma yang usang."
-
 ---
 
 "Kebenaran tidak terletak pada tradisi buku teks, melainkan dalam jumlah alam yang diukur secara objektif." 🫀

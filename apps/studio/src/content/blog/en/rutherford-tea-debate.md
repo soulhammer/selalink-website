@@ -21,7 +21,6 @@ faqs:
     answer: "Yes! Enjoy a cup of tea at 4 PM while chatting with peers online or on a 10-minute call, or engage in a self-dialogue by writing critical questions in a notebook."
   - question: "I'm worried that tea time might turn into idle chatter and waste time."
     answer: "Set a timer strictly for 15 minutes. This time limit prevents time waste while providing oxygenation and fresh creative stimulation to the brain."
-
 ---
 
 Ernest Rutherford (1871–1937) was a titan of modern physics, recipient of the Nobel Prize in Chemistry, and known as the 'father of nuclear physics' for discovering the atomic nucleus. What was the secret behind the collaborative atmosphere at his laboratory that unlocked so many groundbreaking discoveries? ☕

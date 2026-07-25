@@ -21,7 +21,6 @@ faqs:
     answer: "Das Lesen gedruckter Bücher anstelle blaues Licht ausstrahlender Smartphones – insbesondere geisteswissenschaftliche Werke, Lyrik oder ruhige Essays unter sanfter indirekter Beleuchtung – erzeugt Alpha-Wellen im Gehirn, die einen tiefen Schlaf fördern."
   - question: "Wie kann ich Lieblingsstellen beim nächtlichen Lesen aufzeichnen, ohne den Schlaf zu stören?"
     answer: "Vermeiden Sie es, vor dem Schlafengehen Computer oder Bildschirme einzuschalten. Bringen Sie stattdessen Haftnotizen an oder knicken Sie Seitenecken um, um die Stellen am nächsten Morgen oder Nachmittag in Ihr digitales Archiv zu übertragen."
-
 ---
 
 "Wenn ich leise die Lampe in meinem Zimmer einschalte und die Klassiker lese, begegne ich erst dann meiner wahren Seele hinter der Leinwand." 📖

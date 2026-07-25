@@ -21,7 +21,6 @@ faqs:
     answer: "El núcleo de la metacognición no es alcanzar la perfección, sino el 'monitoreo preciso'. Enfrentar y registrar honestamente cifras bajas en días malos elimina la negación cognitiva y desarrolla la resiliencia para recalibrar su estrategia."
   - question: "¿Es completamente efectivo gestionar todas las métricas solo con herramientas digitales como Notion o Excel?"
     answer: "Los dispositivos digitales introducen distracciones con las notificaciones. Como hacía Washington, anotar manualmente las métricas diarias en un libro de papel con bolígrafo proporciona una retroalimentación motora fina, promoviendo una reflexión metacognitiva más profunda."
-
 ---
 
 "El hábito de llevar registros es el espejo más honesto para corregir las imperfecciones del pensamiento." ☀️

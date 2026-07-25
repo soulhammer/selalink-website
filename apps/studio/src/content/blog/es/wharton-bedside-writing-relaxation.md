@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿No convertirá trabajar en la cama el dormitorio en un espacio de trabajo estresante y causará insomnio?"
     answer: "Esa frontera es fundamental. Por tanto, en la cama deben bloquearse trabajos estresantes como gestión analítica o correos críticos. Limitar la actividad al borrador creativo o diario reflexivo preserva el valor de refugio del dormitorio."
-
 ---
 
 "Mi cama es mi único refugio seguro. Cuando estoy entre edredones cálidos y suaves con mis perros, mi imaginación novelesca despierta de la forma más flexible." 🛏️

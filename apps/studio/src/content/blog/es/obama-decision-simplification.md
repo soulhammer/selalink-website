@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Â¿Por quÃ© Barack Obama vestÃ­a solo trajes grises y azules?"
     answer: "Para reservar la energÃ­a prefrontal requerida para las decisiones de Estado, eliminÃ³ las elecciones sobre su ropa para evitar la fatiga de decisiÃ³n."
-
 ---
 
 "Intento no tomar decisiones sobre quÃ© comer o quÃ© vestir, porque tengo demasiadas otras decisiones que tomar." ð

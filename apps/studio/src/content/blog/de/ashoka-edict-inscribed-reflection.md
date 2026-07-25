@@ -21,7 +21,6 @@ faqs:
     answer: "Es wird dringend empfohlen, sich auf maximal 3 zu beschränken. Wenn die Anzahl der Werte auf 5 oder mehr steigt, leidet das Arbeitsgedächtnis (Working Memory) unter Überlastung, was den Ankereffekt rasch schwächt."
   - question: "Kann ich meine Wertewörter im Laufe der Zeit ändern?"
     answer: "Ja, absolut! Das vierteljährliche (alle 3 Monate) Neudefinieren und Aktualisieren Ihrer Wertekarte entsprechend den Veränderungen Ihrer Lebensphase und Ziele ist eine hervorragende Gewohnheit, die dem Präfrontalkortex neue Reize liefert."
-
 ---
 
 Ashoka der Große, der heilige König, der den größten Teil des antiken indischen Subkontinents eininte, ein goldenes Zeitalter für das Maurya-Reich einleitete und sich von einem grausamen Eroberer in einen Hüter der Gewaltlosigkeit und des Friedens verwandelte. Was war sein Geheimnis, nachdem er die schreckliche Tragödie der Kalinga-Schlacht miterlebt hatte, seine Macht und Begierden ein Leben lang zu zügeln und an einer gerechten ethischen Führung festzuhalten? 🏛️

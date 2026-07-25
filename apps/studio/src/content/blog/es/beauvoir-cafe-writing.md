@@ -21,7 +21,6 @@ faqs:
     answer: "Durante los crudos inviernos de la década de 1940 en París, el Café de Flore mantenía su estufa cálida y ofrecía un ambiente acogedor para los artistas donde los intelectuales podían quedarse durante horas sin presiones, convirtiéndolo en un espacio ideal para la creación."
   - question: "¿Puedo implementar un Guión Cognitivo similar en un entorno de trabajo desde casa o remoto?"
     answer: "Sí, por supuesto. Puede inducir el mismo efecto de cambio cognitivo en casa simplemente encendiendo una lámpara de escritorio específica en una esquina dedicada, utilizando una taza designada para el enfoque y reproduciendo pistas de ruido blanco de 50 a 60 dB."
-
 ---
 
 "A las 10 de la mañana, me dirigía al Café de Flore. Sobre esa pequeña mesa, mis pensamientos finalmente comenzaban a cobrar forma." ☕

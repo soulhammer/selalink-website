@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut! Entscheidend ist nicht das Können, sondern die feinmotorische Bewegung und das Wahrnehmen des Klangs. Das Spielen einfacher Instrumente wie Kalimba oder Zungentrommel reicht völlig aus."
   - question: "Kann passives Musikhören das aktive Spielen eines Instruments ersetzen?"
     answer: "Passives Hören entspannt zwar, aber das aktive Bewegen der Finger und das Verspüren der Vibrationen aktiviert den somatosensorischen Kortex und die Aufmerksamkeit deutlich stäker."
-
 ---
 
 "Die Musik ist ein schönes, herrliches Geschenk Gottes, das alle Traurigkeit und Herzeleid vertreibt." 🎵

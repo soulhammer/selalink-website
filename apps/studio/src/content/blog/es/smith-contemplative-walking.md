@@ -21,7 +21,6 @@ faqs:
     answer: "No necesita caminar 15 millas como Smith. Las recomendaciones clínicas sugieren de 20 a 40 minutos para mejorar el flujo sanguíneo cerebral y la activación del DMN. Lo más vital es mantener la concentración sin estímulos digitales, no la distancia."
   - question: "¿Puedo caminar en una cinta de correr en interiores si no puedo salir?"
     answer: "Sí. Sin embargo, al caminar en una cinta, evite mirar pantallas de televisión o teléfonos. Mantenga la mirada fija en un punto neutro o en una pared vacía, bloqueando la estimulación visual artificial para concentrarse en el ritmo de sus pasos."
-
 ---
 
 "La contemplación de un académico alcanza su orden más completo a lo largo de un tranquilo camino de caminata." 🚶‍♂️

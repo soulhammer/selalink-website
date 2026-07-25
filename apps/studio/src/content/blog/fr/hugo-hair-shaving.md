@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait. À la fin de l'année 1830, face à un délai serré pour *Notre-Dame de Paris*, Hugo s'est rasé la moitié du crâne et de la barbe et a fait enfermer ses vêtements pour s'imposer un isolement total jusqu'à la fin du roman."
   - question: "Quelles méthodes modernes de pré-engagement puis-je utiliser sans me raser la tête ?"
     answer: "Placer votre téléphone dans une boîte à verrouillage temporel pendant vos séances de travail ou utiliser des bloqueurs de sites web pour couper l'accès aux réseaux sociaux sont d'excellentes stratégies modernes de pré-engagement."
-
 ---
 
 « Quand on s'enferme volontairement, l'imagination découvre enfin la liberté absolue. » 🪒

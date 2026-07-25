@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, that is a real risk. To prevent this, strictly separate 'drafting time' from 'refinement time' and establish quantitative boundaries—such as limiting the revision phase to a maximum of 3 hours or 5 cycles. Applying the refinement process within a bounded time window maintains the balance between productivity and quality."
   - question: "At what point during iterative refinement should one stop modifying and finalize the work?"
     answer: "Use the point of diminishing marginal returns as your threshold—when further edits yield no meaningful improvement in quality or structure compared to the previous iteration. When minor edits no longer alter overall effectiveness or purpose, the ACC's error-detection signal has resolved, and finalizing the work is the optimal decision."
-
 ---
 
 "Inspiration comes instantly, but expressing it with absolute perfection requires countless painful nights of iteration." 🎹

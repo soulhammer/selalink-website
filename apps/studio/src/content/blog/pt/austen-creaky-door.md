@@ -21,7 +21,6 @@ faqs:
     answer: "Na Grã-Bretanha do século XIX, raramente se fornecia um escritório independente para escritoras. Austen também teve que escrever no espaço compartilhado da sala de estar, por isso utilizou a porta rangendo para perceber as visitas repentinas de sua família e ganhar tempo para esconder seus manuscritos."
   - question: "Como este método pode ser aplicado em um ambiente digital moderno?"
     answer: "Definindo o status do mensageiro como 'Não Perturbe' ou 'Em Chamada' para bloquear a entrada direta de notificações externas e ajustando as ferramentas de comunicação essenciais para notificar apenas em intervalos de tempo designados, você pode controlar interrupções cognitivas inesperadas."
-
 ---
 
 "O rangido de uma porta é o alarme mais seguro que protege minha imersão." 🚪

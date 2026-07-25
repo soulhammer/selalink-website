@@ -21,7 +21,6 @@ faqs:
     answer: "Al dormirse, la relajación muscular hacía caer las pesadas bolas, despertándolo al instante para capturar las ideas del estado hipnagógico antes de caer en un sueño profundo."
   - question: "¿Existen alternativas a la técnica de Edison para entornos de oficina donde el ruido está restringido?"
     answer: "Sí. Puede colocar una toalla en el suelo para amortiguar el sonido, o programar una alarma corta de 1 a 3 minutos en su teléfono para despertarse durante el sueño ligero N1."
-
 ---
 
 "El sueño es una pérdida de tiempo, pero el límite del subconsciente es la herramienta de invención más poderosa del ser humano." 💤

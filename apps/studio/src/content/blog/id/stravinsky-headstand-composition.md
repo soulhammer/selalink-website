@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apa yang harus dilakukan pemula yang tidak bisa melakukan handstand sama sekali?"
     answer: "Bahkan jika Anda tidak bisa menyandar ke dinding, Anda cukup melakukan Pose Lumba-Lumba (mengangkat pinggul ke atas matras) atau menaikkan kaki ke kursi sambil membungkukkan badan ke bawah untuk mendapatkan manfaat aliran darah dan rangsangan vestibular yang sama."
-
 ---
 
 "Ketika ide mandek, arahkan kepala Anda ke lantai. Otak Anda akan segera mulai berpikir secara berbeda." 🤸‍♂️

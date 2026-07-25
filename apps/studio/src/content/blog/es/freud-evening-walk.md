@@ -21,7 +21,6 @@ faqs:
     answer: "Sí. La estimulación bilateral ocurre a cualquier hora. Sin embargo, mientras que la caminata matutina aumenta la alerta para despertar, el paseo nocturno de Freud limpia el desorden mental y la tensión acumulada durante la jornada laboral. Elija el horario según sus patrones de estrés."
   - question: "¿Puedo teclear el diario en el teléfono o teclado en lugar de escribir a mano?"
     answer: "Teclear obliga al cerebro a volver al modo de procesamiento lógico estructurado debido a la pantalla. En cambio, presionar un bolígrafo sobre papel activa la motricidad fina de los dedos, estimulando el Sistema de Activación Reticular (SAR) con mayor intensidad. La escritura a mano es muy superior para extraer pensamientos subconscientes."
-
 ---
 
 "La mente es como un iceberg, flota con una séptima parte de su volumen sobre el agua." 🧠

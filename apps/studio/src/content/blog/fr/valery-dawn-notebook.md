@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Que faire si je souffre de manque de sommeil et que me lever à l'aube est difficile ?"
     answer: "La routine du réveil à l'aube doit impérativement s'accompagner d'un coucher précoce pour ne pas nuire à l'organisme. S'il est impossible de se coucher tôt en raison d'un travail tardif, au lieu de vous forcer à vous lever à 4h, utilisez les 30 premières minutes de votre réveil habituel comme « Temps de déconnexion numérique & Cahiers » pour bénéficier du même effet d'ancrage cognitif."
-
 ---
 
 « L'aube est le moment sacré où ma conscience s'éveille dans son état le plus clair et le plus entier. Seules les notes laissées à cette heure constituent mon essence. » 🌅

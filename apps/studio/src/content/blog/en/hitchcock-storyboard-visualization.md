@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely! The core mechanism of storyboarding is not artistic skill, but action structuring and mental simulation. Using tools like Figma, Miro, or simple mind-mapping apps to quickly arrange block shapes and text cards yields identical cognitive psychology benefits."
   - question: "What should I do if unexpected variables arise during execution that deviate from the storyboard?"
     answer: "A storyboard is a flexible map, not a rigid script. When unexpected obstacles emerge, pause briefly, review the contingency alternative noted on that stage's frame, run a 10-second mental simulation of the new path, and adjust your actions adaptively."
-
 ---
 
 "A movie is not made on the set. It is completed 100% on paper and in the mind before shooting even begins. Going to the set is merely the mechanical execution of copying the blueprint." 🎬

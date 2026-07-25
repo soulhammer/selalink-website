@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Comment remplir mon journal les jours où il ne s'est rien passé de particulier ?"
     answer: "Conserver la « régularité de l'habitude » est bien plus important que de remplir des pages. Les jours sans événement particulier, il suffit de rédiger une ligne exprimant de la gratitude pour un petit moment réconfortant."
-
 ---
 
 « J'ouvre mon journal chaque soir et j'accorde la tranquillité à mon cœur tourmenté après les événements de la journée. » ✍️

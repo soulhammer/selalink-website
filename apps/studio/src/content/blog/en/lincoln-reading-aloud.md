@@ -21,7 +21,6 @@ faqs:
     answer: "High-density prose with rigorous logical structure—such as classical philosophy, specialized scientific literature, or complex strategic reports—is far more effective for prefrontal plasticity than casual fiction or light essays."
   - question: "How can I practice this routine in quiet environments like open offices or libraries?"
     answer: "Practicing low-volume whispering (*Subvocalization*) or silently mouthing text with precise lip and tongue movements still engages facial motor feedback and speech cortices, delivering comparable Production Effect benefits without disturbing others."
-
 ---
 
 "When I read aloud, two senses catch the idea: first, I see what I read; second, I hear it, and so I can remember it better. Ideas copied through two senses stay twice as long in the brain." 📖

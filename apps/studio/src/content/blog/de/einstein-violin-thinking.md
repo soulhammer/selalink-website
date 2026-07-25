@@ -21,7 +21,6 @@ faqs:
     answer: "Ja. Einstein ging regelmäßig segeln, um den Wind zu spüren und zu meditieren. Zudem schlief er täglich über 10 Stunden, damit sein Unterbewusstsein komplexe Probleme ordnen konnte."
   - question: "Können auch Personen ohne Musikkenntnisse diese Routine ausführen?"
     answer: "Absolut. Anstatt ein Instrument zu spielen, können Sie klassischer Musik lauschen, den Rhythmus mit den Fingern mitklopfen oder 5 Minuten tief durchatmen, um denselben Effekt zu erzielen."
-
 ---
 
 "Ein Leben ohne Musik ist für mich undenkbar. Ich lebe meine Tagträume in der Musik." 🎻

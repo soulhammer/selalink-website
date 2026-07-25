@@ -21,7 +21,6 @@ faqs:
     answer: "La primera persona es muy superior para simular la corteza motora. La tercera persona ayuda con el posicionamiento general, pero la primera persona ajusta las sensaciones motoras finas."
   - question: "¿Qué hacer si surgen imágenes de errores durante la visualización?"
     answer: "Es un mecanismo natural. Pause y rebobine la escena, luego visualice superando el error y terminando con éxito para reinyectar conexiones positivas."
-
 ---
 
 "Cierro los ojos y me imagino jugando en el campo. En ese momento mi cuerpo se prepara por completo." ⚽

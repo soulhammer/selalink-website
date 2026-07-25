@@ -21,7 +21,6 @@ faqs:
     answer: "Locke traçait en première page una grille combinant les 26 lettres de l'alphabet et les 5 voyelles (a, e, i, o, u). Il inscrivait les numéros de page a l'intersection correspondant a la première lettre et a la première voyelle du mot-clé (ex. : 'Epistola' sous la ligne E, colonne i)."
   - question: "Prendre des notes sur papier est-il plus efficace que d'utiliser des logiciels numériques ?"
     answer: "L'écriture manuscrite stimule le cortex somatosensoriel, favorisant l'encodage initial, tandis que le numérique excelle dans la recherche et les hyperliens. L'approche idéale est un système hybride : noter ses idées sur papier, puis les indexer dans una base de données numérique."
-
 ---
 
 « Une pensée non inscrite s'évapore comme la brume d'été sans laisser de trace. Seuls des symboles méthodiquement indexés métamorphosent l'esprit en un réceptacle immortel. » 📖

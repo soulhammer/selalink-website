@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, tentu saja. Conan Doyle adalah pemain kriket amatir kelas satu yang ulung untuk Marylebone Cricket Club (MCC) dan petinju terampil yang bahkan menjabat sebagai wasit untuk pertandingan kejuaraan. Pengalaman atletisnya memberikan latar belakang yang otentik bagi kemahiran tinju dan seni bela diri Sherlock Holmes."
   - question: "Sangat sulit bagi orang sibuk untuk bermain kriket atau bertinju. Bisakah olahraga rumah singkat mencapai manfaat kognitif yang sama?"
     answer: "Ya, tentu saja. Pemicu fisiologis mendasarnya bukanlah olahraga khusus, melainkan 'meningkatkan denyut jantung secara cepat untuk mendorong perfusi otak'. 10 hingga 15 menit squat, burpee, lari tangga, atau latihan Tabata memicu pelepasan BDNF dan arousal prefrontal yang identik."
-
 ---
 
 "Tubuh yang sehat adalah wadah bagi pikiran yang tajam, dan keringat yang bercucuran memurnikan logika otak." 🥊

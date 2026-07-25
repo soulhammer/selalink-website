@@ -21,7 +21,6 @@ faqs:
     answer: "Nein. Smartphone-Apps senden blaues Licht und Benachrichtigungen aus, die den Präfrontalkortex beanspruchen. Physische Spielkarten bieten taktiles Feedback, das den somatosensorischen Kortex anspricht und Ausführungsfilter zur kognitiven Erholung abschaltet."
   - question: "Führt das Nichtgelingen einer Patience-Partie zu zusätzlichem Stress?"
     answer: "Das Ziel ist nicht der Gewinn, sondern das Deaktivieren präfrontaler Entscheidungsfilter durch strukturiertes Sortieren. Selbst wenn ein Spiel stockt, erfüllt das Auslegen der Karten nach Regeln den Zweck. Ignorieren Sie Sieg oder Niederlage; mischen Sie einfach neu."
-
 ---
 
 "Die wichtigste Aufgabe eines Staatsmannes ist das Treffen weiser Entscheidungen – dafür muss der Geist dem Lärm entkommen und in absolute Stille eintauchen." 🃏

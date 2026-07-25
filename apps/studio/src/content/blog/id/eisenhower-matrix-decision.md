@@ -21,7 +21,6 @@ faqs:
     answer: "Jika segala sesuatu tampak mendesak, itu berarti tuntutan eksternal mengesampingkan prioritas Anda. Buat blok 'Jangan Ganggu' yang ketat selama 30 menit pertama di pagi hari tanpa membuka email atau pesan, dan khususkan waktu tersebut untuk perencanaan Kuadran 2. Amankan blok waktu kecil ini sebagai katalisator untuk mengurangi pekerjaan perbaikan di masa depan."
   - question: "Apa kriteria objektif untuk membedakan antara tugas 'Penting' dan 'Mendesak'?"
     answer: "'Tugas mendesak' didorong oleh tuntutan eksternal yang memerlukan reaksi segera (email, notifikasi pesan, tenggat waktu mendesak). Sebaliknya, 'tugas penting' selaras dengan tujuan jangka panjang dan pengembangan diri Anda. Tanyakan pada diri sendiri: 'Jika saya tidak mengerjakan tugas ini, apakah akan berdampak besar pada hidup saya 1 tahun dari sekarang?'"
-
 ---
 
 "Saya memiliki dua jenis masalah, yang mendesak dan yang penting. Yang mendesak tidak penting, dan yang penting tidak pernah mendesak." 📊

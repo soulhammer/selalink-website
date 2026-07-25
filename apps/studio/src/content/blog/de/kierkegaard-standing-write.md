@@ -21,7 +21,6 @@ faqs:
     answer: "Das sofortige Hinsetzen nach dem Heimkommen lässt die körperliche Anspannung und Wachheit schnell abfallen. Die Stehposition bewahrt die körperliche Aktivierung und schützt das Arbeitsgedächtnis für diese entscheidenden 10 Minuten."
   - question: "Wie lässt sich diese Routine umsetzen, wenn man kein Stehpult besitzt?"
     answer: "Das Auflegen eines dicken Buches oder Laptop-Ständers auf einen normalen Tisch, eine Kücheninsel oder Kommode reicht völlig aus. Entscheidend ist nicht das Möbelstück, sondern das Schaffen einer Stehposition zur schnellen Gedankenerfassung."
-
 ---
 
 "Ich habe mir meine besten Gedanken ergangen, und ich kenne keinen Gedanken, der so schwer wäre, dass man ihn nicht gehend abstreifen könnte." 🎩

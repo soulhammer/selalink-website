@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak. Ketika daftar periksa menjadi terlalu panjang, otak mengalami kelelahan dan memicu perilaku lewati otomatis. Secara neurosains, membatasi daftar periksa secara ketat pada 5 hingga 9 poin pemeriksaan kritis utama adalah hal yang optimal."
   - question: "Jenis tugas apa yang paling diuntungkan dari menerapkan rutinitas eksekusi daftar periksa terstruktur?"
     answer: "Daftar periksa memberikan manfaat bebas kesalahan yang luar biasa pada tugas-tugas prosedural: rutinitas operasional yang berulang, tahap peninjauan akhir sebelum peluncuran proyek publik, evaluasi kontrak, atau pengemasan perjalanan."
-
 ---
 
 "Kualitas tidak pernah terjadi secara kebetulan; itu selalu merupakan hasil dari upaya cerdas. Jangan pernah terlalu percaya pada kapasitas memori manusia. Selembar kertas dapat memisahkan kehidupan dari kematian." ✈️

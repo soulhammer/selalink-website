@@ -21,7 +21,6 @@ faqs:
     answer: "Practicing at the same time daily conditions the brain to recognize that period as a timing for sensory pause and deep work, accelerating cognitive switching. However, even without a fixed schedule, applying it as an emergency brain-rest and conceptual tool during periods of acute stress or cognitive overload yields significant benefits."
   - question: "How should I handle environments where surrounding noise cannot be completely eliminated?"
     answer: "If achieving absolute physical silence is difficult, we recommend a masking technique: play low-volume ambient sound with consistent frequencies, such as lyricless white noise or rain sounds, to cover external noise. This prevents the brain from reacting to real-time changes in external stimuli, producing a comparable sensory isolation effect."
-
 ---
 
 "It is in darkness and quiet that ideas finally begin to take definite shape." 🌌

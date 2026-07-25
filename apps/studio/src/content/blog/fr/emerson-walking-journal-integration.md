@@ -21,7 +21,6 @@ faqs:
     answer: "Oui. Le téléphone est une alternative valable si vous utilisez une application hors ligne sans notifications. L'important n'est pas le support, mais de maintenir votre cerveau en « Mode Diffus » pendant la marche et d'effectuer le transfert le soir même."
   - question: "Que faire si une note de la journée est trop embryonnaire pour être développée le soir même ?"
     answer: "Vous n'avez pas besoin de transformer chaque note en un essai parfait le soir même. Classez les fragments incomplets sous forme de mots-clés dans une section « Réservoir d'idées ». Ils se combineront avec de futures notes pour mûrir avec le temps."
-
 ---
 
 « Quand une pensée surgit en forêt, si elle n'est pas enfermée sur-le-champ dans un carnet, elle prend des ailes et s'envole à jamais. » 📓

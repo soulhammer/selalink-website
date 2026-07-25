@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait ! Remplir de petits pots sur un balcon ou un bureau avec du terreau et y planter de petites herbes procure la même stimulation tactile et exposition bactérienne. L'essentiel est le contact physique avec la terre, quelle que soit la taille de la plante."
   - question: "Y a-t-il des risques d'hygiène ou d'infection à toucher la terre a mains nues ?"
     answer: "Le terreau commercial est stérilisé, ce qui le rend beaucoup plus sûr que la terre sauvage. Les micro-organismes bénéfiques aident en réalité a renforcer l'immunité. Si l'hygiène vous préoccupe, porter des gants de jardinage fins offre un retour tactile suffisant. Un simple lavage des mains à l'eau et au savon élimine tout risque."
-
 ---
 
 « Planter un jardin, c'est croire en demain. Quand je touche la terre, mon âme trouve son calme le plus profond. » 🌿

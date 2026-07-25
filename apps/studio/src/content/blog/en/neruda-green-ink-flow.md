@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, it does. Because the visual cortex detects optical wavelengths, calm deep green themes on digital screens elicit the same Alpha Wave induction effect as analog ink."
   - question: "Why do black ink or high-contrast monochrome screens sometimes trigger creative block?"
     answer: "High-contrast black text conveys an unconscious subconscious strain associated with formal documents or exam evaluations to the brain, inhibiting the free divergence of creative ideas."
-
 ---
 
 "Green is the color of hope and the color of nature where my poetry breathes." ✒️

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Le fait de travailler au lit ne risque-t-il pas de transformer la chambre en espace de travail stressant et de causer des insomnies ?"
     answer: "Cette limite est essentielle. Les tâches stressantes comme la gestion ou les courriels critiques doivent être exclues du lit. Se réserver la création agréable et le journal intime préserve la valeur de refuge du lit."
-
 ---
 
 « Mon lit est mon seul havre de paix. Lorsque je suis emmitouflée dans des couvertures chaudes et douces avec mes chiens, mon imagination romanesque s'éveille avec la plus grande souplesse. » 🛏️

@@ -21,7 +21,6 @@ faqs:
     answer: "Sí. El acto de encender el teléfono expone el cerebro al ruido digital, dispersando la atención al instante. Además, escribir a mano transmite información somatosensorial mucho más fuerte a la corteza cerebral, aumentando al doble la conciencia cognitiva del autocontrol."
   - question: "¿Realmente necesito anotar cada detalle insignificante, como 1 centavo o 1 minuto?"
     answer: "La clave no es el valor monetario, sino entrenar la retroalimentación cognitiva en tiempo real del cerebro. Registrar repetidamente gastos diminutos fortalece la red de control inhibitorio prefrontal, construyendo circuitos cerebrales que resisten la impulsividad durante decisiones importantes."
-
 ---
 
 John D. Rockefeller, el legendario empresario que fundó Standard Oil, construyó una empresa sin precedentes y acumuló la mayor fortuna personal de la historia de la humanidad. ¿De dónde surgieron su impecable planificación y empuje? 📕

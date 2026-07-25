@@ -21,7 +21,6 @@ faqs:
     answer: "Praticar no mesmo horário diariamente condiciona o cérebro a reconhecer esse período como um momento de pausa sensorial e trabalho profundo, acelerando a transição cognitiva. No entanto, mesmo sem um horário fixo, aplicá-la como ferramenta de descanso cerebral de emergência durante momentos de estresse agudo ou sobrecarga sensorial oferece benefícios significativos."
   - question: "Como devo proceder em ambientes onde o ruído ao redor não pode ser completamente eliminado?"
     answer: "Se for difícil obter silêncio físico absoluto, recomendamos uma técnica de mascaramento (Masking): reproduza som ambiental em baixo volume com frequências constantes, como ruído branco sem letra ou som de chuva, para cobrir o ruído externo. Isso evita que o cérebro reaja a mudanças em tempo real nos estímulos externos, produzindo um efeito de deprivação sensorial comparável."
-
 ---
 
 "É na escuridão e no silêncio que as ideias finalmente começam a ganhar uma forma definida." 🌌

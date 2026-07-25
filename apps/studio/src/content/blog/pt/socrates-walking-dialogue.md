@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Caminhar em uma esteira ergométrica produz o mesmo efeito?"
     answer: "Embora o aumento do fluxo sanguíneo seja semelhante, explorar visualmente a natureza ao ar livre fornece estimulação viso-espacial e reduz os níveis de cortisol de forma muito mais eficaz ao caminhar ao ar livre."
-
 ---
 
 Sócrates (c. 470–399 a.C.) foi o sábio da antiga Atenas que lançou as bases da filosofia ocidental. Registros de Platão e Xenofonte descrevem seu hábito diário único. 👣

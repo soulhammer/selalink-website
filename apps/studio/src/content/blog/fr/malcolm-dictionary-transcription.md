@@ -21,7 +21,6 @@ faqs:
     answer: "Non, l'effet est très différent. La saisie au clavier implique des frappes répétitives légères, simplifiant le stimulus sensoriel vers le cortex moteur. À l'inverse, tenir un stylo et tracer chaque ligne sollicite de vastes zones d'association dans tout le cerveau, rendant l'écriture manuscrite incomparablement supérieure pour la mémorisation."
   - question: "Faut-il prêter attention à la beauté de son écriture ?"
     answer: "Une calligraphie parfaite n'est pas nécessaire. L'essence de l'exercice réside dans l'attention portée par le cerveau à la pression tactile du stylo et au tracé. Tant que cela reste lisible pour vous, écrire à un rythme naturel est très bénéfique. Concentrez-vous sur le ressenti tactile plutôt que sur l'esthétique."
-
 ---
 
 Malcolm X (1925–1965) était un leader charismatique et orateur captivant lors de la lutte pour les droits civiques aux États-Unis. Derrière cette figure imposante qui impressionnait par son vocabulaire éloquent, se cachait un passé douloureux où il pouvait à peine rédiger une phrase correcte. 📖

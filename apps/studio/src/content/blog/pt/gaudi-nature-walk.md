@@ -21,7 +21,6 @@ faqs:
     answer: "Embora o ambiente natural seja o mais eficaz para restaurar a atenção, caminhar por alamedas urbanas irregulares ou observar a arquitetura estimula o córtex visual da mesma forma, sendo uma ótima alternativa."
   - question: "Posso substituir a caminhada por corrida rápida ou esteira?"
     answer: "Corridas intensas ou esteiras são ótimas para o condicionamento físico, mas não oferecem o espaço mental necessário para observar e refletir. Para ativar a criatividade, uma caminhada constante de exploração é o ideal."
-
 ---
 
 "A natureza é minha mestra para toda a vida. A linha reta pertence ao homem, a curva a Deus." ⛪

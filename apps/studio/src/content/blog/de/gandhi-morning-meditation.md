@@ -21,7 +21,6 @@ faqs:
     answer: "Jede rhythmische Aktivität mit Feinmotorik eignet sich hervorragend: Schreiben mit dem Füllfederhalter, Stricken, Teezeremonien, Lego- oder Puzzlen bauen sowie Finger-Drumming aktivieren dieselben Serotoninpfade."
   - question: "Was tun, wenn die Gedanken während der haptischen Aktivität abdriften?"
     answer: "Verurteilen Sie sich nicht für Schweifgedanken. Nimm Sie die Ablenkung wertfrei wahr und lenken Sie die Aufmerksamkeit sanft zurück auf die 'Textur unter den Fingerspitzen und den Rhythmus der Bewegung'. Dies stärkt den präfrontalen Kortex."
-
 ---
 
 "Im Drehen des Spinnrades sehe ich den ewigen Frieden des Geistes und die Ordnung des Universums." 🌀

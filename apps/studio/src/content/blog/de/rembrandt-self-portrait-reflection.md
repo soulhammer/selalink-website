@@ -21,7 +21,6 @@ faqs:
     answer: "Ja. Wenn sich Stimmungsverzerrungen oder Depressionen verstärken, sind Sie möglicherweise in eine Selbstkritikschleife geraten; hören Sie sofort auf. Weichen Sie stattdessen auf ein Training aus, das zuerst Ihre körperlichen Erdungsempfindungen überprüft, indem Sie auf Ihre Schulterlinie oder Handform blicken anstatt in die Pupillen."
   - question: "Wann ist die beste Tageszeit für die Spiegel-Selbstreflexion?"
     answer: "Eine 3-minütige Routine vor dem Badezimmerspiegel direkt nach dem Duschen ist am besten. In einem parasympathisch dominanten Zustand, in dem der Körper entspannt ist, lockern sich die Abwehrmechanismen des Gehirns, was eine wahrhaftige und angenehme Selbstbegegnung ermöglicht."
-
 ---
 
 „Der einzige Weg, sich seinem inneren Selbst zu stellen, besteht darin, tief in die im Spiegel reflektierten Pupillen zu blicken.“ 🎨

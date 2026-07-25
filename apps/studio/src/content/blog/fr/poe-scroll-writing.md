@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, certains de ses manuscrits (tels que des essais ou des critiques) sont conservés sous forme de rouleaux étroits collés à la colle dans des institutions comme la Free Library de Philadelphie."
   - question: "Existe-t-il des logiciels empêchant l'habitude de corriger en tapant sur écran ?"
     answer: "Oui, des applications spécialisées dans le premier jet qui empêchent la suppression ou effacent le texte si vous vous arrêtez (comme The Most Dangerous Writing App) ou les éditeurs en mode machine à écrire sont très efficaces."
-
 ---
 
 Edgar Allan Poe (1809–1849), salué comme le pionnier de la littérature gothique macabre avec 'Le Corbeau' et 'Le Chat noir', et fondateur du roman policier moderne. Sur quel support sont nés ses manuscrits géniaux, qui mêlaient l'angoisse psychologique humaine à des mystères d'une logique impeccable ? 📜

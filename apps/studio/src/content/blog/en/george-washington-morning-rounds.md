@@ -21,7 +21,6 @@ faqs:
     answer: "The neuroscientific core of metacognition is not achieving perfection, but practicing 'accurate self-monitoring'. Honestly confronting and logging low numbers on underperforming days dissolves cognitive denial and builds executive resilience to recalibrate tomorrow's strategy."
   - question: "Is it fully effective to manage all metrics exclusively through digital tools like Notion or Excel?"
     answer: "Digital devices expose the brain to notifications, app-switching fatigue, and screen scatter. As George Washington practiced, manually writing daily metrics in a paper logbook with an analog pen engages fine motor feedback, promoting deeper metacognitive reflection and cognitive clarity."
-
 ---
 
 "The habit of record-keeping is the most honest mirror for correcting the imperfections of thought." ☀️

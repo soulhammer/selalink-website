@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely. Conan Doyle was an accomplished first-class amateur cricketer for the Marylebone Cricket Club (MCC) and a skilled boxer who even served as a referee for championship matches. His deep physical intuition and athletic experiences provided the authentic background for Sherlock Holmes's proficiency in boxing and martial arts in his stories."
   - question: "It is difficult for busy people to play cricket or box. Can short home workouts achieve the same cognitive benefits?"
     answer: "Yes, absolutely. The underlying physiological trigger is not the specific sport, but 'rapidly elevating heart rate to boost cerebral perfusion'. 10 to 15 minutes of bodyweight squats, burpees, stair sprinting, or Tabata intervals—sufficient to break a light sweat and increase breathing—triggers identical BDNF release and prefrontal arousal."
-
 ---
 
 "A healthy body is the vessel for a sharp mind, and vigorous sweat purifies the logic of the brain." 🥊

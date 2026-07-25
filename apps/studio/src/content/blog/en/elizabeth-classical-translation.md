@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely. Obtaining instant answers with a single click fails to challenge your brain's cognitive networks. Synaptic connections in the prefrontal cortex strengthen only through 'cognitive friction'—the manual effort of flipping dictionary pages and assembling grammatical frameworks yourself."
   - question: "Does this technique only work with classical languages like Latin and Ancient Greek?"
     answer: "No. Any modern foreign language (such as English, German, French, or Chinese) with logical syntax distinct from your native tongue serves as an excellent training medium. The key is translating dense, formal texts—such as philosophy, essays, or editorials—rather than casual conversational prose."
-
 ---
 
 "I know I have the body of a weak and feeble woman, but I have the heart and stomach of a king, and of a king of England too." 👑

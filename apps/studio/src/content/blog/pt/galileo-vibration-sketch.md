@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, com certeza! Esta técnica não é arte, mas um exercício cognitivo que usa apenas quatro elementos: círculos, retângulos, linhas e setas. Mesmo esboços simples são suficientes para ativar o bloco visoespacial."
   - question: "Desenhar em aplicativos digitais usando tablets oferece os mesmos benefícios cognitivos?"
     answer: "Usar uma caneta digital é uma alternativa viável, mas o papel e a caneta reais continuam sendo superiores. A microfricção do papel gera um feedback somatossensorial nos dedos que alcança um nível mais profundo de externalização."
-
 ---
 
 "O grande livro do universo está escrito na linguagem da matemática, e seus caracteres são triângulos, círculos e outras figuras geométricas." 📐

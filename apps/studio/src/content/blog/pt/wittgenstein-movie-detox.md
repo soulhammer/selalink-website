@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Assistir a vídeos curtos ou Reels no smartphone após o expediente produz o mesmo efeito de reset cerebral?"
     answer: "Não, de forma alguma! Vídeos curtos inundam o cérebro com novos estímulos a cada poucos segundos. Cada gesto força a reinterpretação e gera picos de dopamina, dispersando as ondas cerebrais. O segredo de Wittgenstein é a imersão em estímulos contínuos e tranquilos."
-
 ---
 
 "Quando a pesquisa filosófica me enlouquece, a simplicidade dos faroestes americanos na primeira fileira do cinema é o único elixir que reanima meu cérebro." 🤠

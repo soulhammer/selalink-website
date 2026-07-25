@@ -21,7 +21,6 @@ faqs:
     answer: "Definir 2 a 3 etapas de ações mecânicas consistentes que você possa controlar totalmente — como 'amarrar os cadarços em uma ordem específica', 'dar 3 respirações profundas' ou 'dizer em voz alta uma frase de compromisso específica' — e repeti-las de forma idêntica ajudará enormemente no controle da ansiedade."
   - question: "Como posso controlar a ansiedade que surge se eu esquecer ou errar uma única etapa da rotina?"
     answer: "Você deve perceber que uma rotina é apenas uma âncora psicológica, não a essência da sua capacidade ou das suas ações. Quando ocorre um erro, a flexibilidade de reconhecer que 'isso também faz parte da situação' maximiza a eficácia da rotina."
-
 ---
 
 "Antes de cada partida, repito a mesma sequência de ações para construir meu próprio território controlado na quadra." 🎾

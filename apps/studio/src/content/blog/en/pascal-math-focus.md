@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, it is. The gating mechanism of the thalamus blocks not only physical pain but also psychological anxiety and stress signals in the exact same manner."
   - question: "How long should a high-difficulty immersion sprint be maintained?"
     answer: "Between 15 and 20 minutes is most ideal. After intensively engaging your brain resources, take a brief rest to prevent mental fatigue."
-
 ---
 
 "All of humanity's problems stem from man's inability to sit quietly in a room alone." 🧠

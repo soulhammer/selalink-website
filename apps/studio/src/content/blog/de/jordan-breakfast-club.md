@@ -21,7 +21,6 @@ faqs:
     answer: "Der Kern der Methode liegt nicht in der Uhrzeit 6:00 Uhr, sondern in der 'Grenzüberwindung direkt nach dem Aufstehen'. Unabhängig von Ihrer Aufstehzeit erzielt ein intensives Training direkt nach dem Aufwachen dieselben Hormonschübe und kognitiven Vorteile."
   - question: "Führt tägliches hochintensives Training nicht zu Überlastung oder Verletzungen?"
     answer: "Jordans Routine beruhte auf stufenweiser Anpassung. Anfänger sollten mit 3 Tagen pro Woche beginnen und Intensität sowie Häufigkeit langsam steigern. Das Wechseln zwischen schwerem Krafttraining und leichten Beweglichkeitsübungen schützt vor Erschöpfung."
-
 ---
 
 "Ich kann Niederlagen akzeptieren, jeder scheitert einmal. Aber ich kann nicht akzeptieren, es nicht versucht zu haben. Während meine Gegner um 8:30 Uhr aufstehen, habe ich bereits zwei Stunden gearbeitet, um sie zu besiegen." 🏀

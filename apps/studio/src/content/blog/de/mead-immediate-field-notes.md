@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, das ist möglich. Nutzen Sie jedoch den 'Nicht stören'-Modus oder ein Widget auf dem Startbildschirm, um Ablenkungen durch Nachrichten zu vermeiden und Verzögerungen zu minimieren."
   - question: "Wie wäre es, ein Diktiergerät mitlaufen zu lassen und später alles gesammelt aufzuschreiben?"
     answer: "Eine permanente Aufnahme verhindert Lücken, aber stundenlanges Nachhören überlastet das Gedächtnis. Handschriftliche Notizen von Schlüsselbegriffen in entscheidenden Momenten sind deutlich effektiver."
-
 ---
 
 "Wenn Sie eine beobachtete Tatsache nicht sofort aufschreiben, ist es, als hätte sie nie existiert." 📝

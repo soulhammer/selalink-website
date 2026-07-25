@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak. Inti dari kebiasaan Raja Sejong adalah mengamankan waktu fokus tanpa gangguan setelah bangun. Cukup bangun 30 menit lebih awal dari biasanya dan membaca tanpa ponsel untuk mendapatkan manfaat yang sama."
   - question: "Apakah boleh membaca novel web atau artikel media sosial?"
     answer: "Untuk memanaskan otak, buku fisik berstruktur jauh lebih baik daripada konten daring yang terfragmentasi. Buku filsafat, literatur klasik, atau sejarah yang menuntut pemikiran aktif mengaktifkan sirkuit otak dengan jauh lebih efektif."
-
 ---
 
 "Tidak belajar ibarat duduk di ruangan gelap gulita; membaca buku ibarat memegang pelita."

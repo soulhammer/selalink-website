@@ -21,7 +21,6 @@ faqs:
     answer: "No, las personas que padecen afecciones en los discos cervicales o torácicos deben evitar la postura tradicional sobre la cabeza donde esta soporta directamente el peso corporal. En su lugar, puede obtener un flujo sanguíneo invertido seguro sin dañar los discos acostándose boca arriba con las caderas contra una pared y elevando las piernas verticalmente, o colocando un cojín bajo las caderas mientras eleva las piernas."
   - question: "¿Cuál es el momento del día más adecuado para realizar la postura sobre la cabeza?"
     answer: "Por la mañana con el estómago vacío o justo antes de comenzar a trabajar es lo ideal. La postura invertida matutina suministra oxígeno al instante a las células cerebrales adormecidas, despejando la mente y disipando el sueño. Sin embargo, evite practicar dentro de las 2 horas posteriores a una comida, ya que la inversión tras comer puede causar indigestión."
-
 ---
 
 Jawaharlal Nehru (1889–1964), quien dirigió la lucha por la independencia no violenta de la India junto a Mahatma Gandhi y se convirtió en su primer ministro fundador para construir los sólidos cimientos de la India moderna. Un ícono de elegante vestimenta blanca y digno intelecto, enfrentó sin embargo largos y fríos períodos de confinamiento solitario a lo largo de su vida. 🧘

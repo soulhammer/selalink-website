@@ -21,7 +21,6 @@ faqs:
     answer: "Para iniciantes, agendar o dia todo em blocos de 5 minutos causará sobrecarga cognitiva. Comece aos poucos: defina um 'bloco de foco' de 1 a 2 horas no seu dia, dividindo-o em intervalos de 15 ou 30 minutos para desenvolver sua capacidade de concentração."
   - question: "O que devo fazer se não terminar uma tarefa dentro do bloco atribuído?"
     answer: "Quando o tempo acabar, mude incondicionalmente para o próximo bloco. Aloque o trabalho inacabado em um 'Bloco de Amortecimento (Buffer Block)' reservado no final da tarde. Isso evita que uma tarefa atrasada comprometa toda a sua agenda."
-
 ---
 
 "Se o seu tempo é limitado, seu hiperfoco deve aumentar proporcionalmente." 🚀

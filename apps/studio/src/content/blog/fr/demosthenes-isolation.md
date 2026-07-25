@@ -21,7 +21,6 @@ faqs:
     answer: "Pour créer un obstacle social infranchissable rendant toute sortie en public insupportable en raison de son apparence. Cela a éliminé la dépense d'énergie nécessaire pour résister aux tentations, fixant 100 % de ses ressources exécutives sur l'entraînement."
   - question: "Quels dispositifs d'engagement fort pratiques les individus modernes peuvent-ils utiliser sans se raser la tête ?"
     answer: "Parmi les dispositifs efficaces, on trouve l'utilisation de boîtes coffre-fort à ouverture temporisée pour smartphones, les logiciels de blocage de sites web sur ordinateur, ou les contrats de pénalité financière (ex. s'engager à verser une amende à un proche en cas de non-atteinte de l'objectif)."
-
 ---
 
 « Ne comptez pas sur la volonté para résister à la tentation. Erigez un obstacle infranchissable qui enferme votre concentration dans la tâche. » 🏛️

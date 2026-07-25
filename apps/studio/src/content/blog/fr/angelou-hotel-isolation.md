@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Puis-je obtenir le même effet d'isolement environnemental sans changer physiquement de lieu ?"
     answer: "Oui, c'est possible. En désencombrant totalement votre bureau, en portant un casque à réduction de bruit ou en bloquant les notifications de vos appareils, vous pouvez transmettre à votre cerveau un puissant signal de passage en mode d'immersion sans déménagement physique."
-
 ---
 
 « Un chef-d'œuvre ne naît jamais par hasard. Il ne s'épanouit que grâce à une concentration implacable et une autodiscipline. » 🖋️

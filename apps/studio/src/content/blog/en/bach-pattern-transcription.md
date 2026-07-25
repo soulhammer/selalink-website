@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Is typing transcription also effective?"
     answer: "Typing consists of repeating simple button-press motions equally for all letters, so its degree of parietal lobe stimulation is significantly lower compared to analog handwriting, where you draw letter trajectories by hand and control nib pressure."
-
 ---
 
 Johann Sebastian Bach, called the 'Father of Music', perfected Baroque counterpoint and harmony, becoming a compass for all Western musicians like Beethoven and Mozart. Within his complex, mathematical harmonic interlockings lies an astonishingly intricate logical structure. This genius contrapuntal logic originated not merely from inborn talent, but from a lifelong intellectual routine. ✍️

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Mengapa Isaac Asimov berganti-ganti menggunakan beberapa mesin tik?"
     answer: "Untuk menghindari kelelahan kognitif dan stres yang timbul saat macet dalam menulis satu topik, ia berganti-ganti antara tugas dengan genre atau sifat yang sama sekali berbeda untuk membangunkan area korteks serebral yang berbeda, mendapatkan efek kebaruan."
-
 ---
 
 "Ketika saya macet saat menulis, saya tidak mencoba memaksakannya. Sebaliknya, saya mendatangi mesin tik lain dan menulis naskah tentang topik yang sama sekali berbeda." ⌨️

@@ -21,7 +21,6 @@ faqs:
     answer: "L'essentiel ne réside pas dans l'horaire précis de 6h00, mais dans 'l'effort physique intense accompli dès le réveil'. Quelle que soit votre heure de lever, effectuer un entraînement stimulant au réveil procure des pics hormonaux et des bénéfices psychologiques identiques."
   - question: "Un entraînement quotidien haute intensité ne risque-t-il pas de provoquer un surentraînement ?"
     answer: "La routine de Jordan s'est construite de manière progressive. Les débutants doivent commencer par 3 séances par semaine, en augmentant l'intensité petit à petit. Alterner musculation lourde et mobilité légère prévient la fatigue physique."
-
 ---
 
 « Je peux accepter l'échec, tout le monde échoue parfois. Mais je ne peux pas accepter de ne pas essayer. Quand mes adversaires se réveillent a 8h30, j'ai déjà travaillé deux heures pour les vaincre. » 🏀

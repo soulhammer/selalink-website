@@ -21,7 +21,6 @@ faqs:
     answer: "Selbst an bewölkten Tagen liegt die Lichtstärke im Freien zwischen 1.000 und 2.000 Lux – weit heller als Innenbeleuchtung (300–500 Lux). Das Gehen im Freien unterdrückt also auch bei Bewölkung Melatonin. Bei extremer Luftverschmutzung ersetzen Sie den Spaziergang durch das Blicken aus einem offenen Fenster."
   - question: "Können auch Nicht-Künstler oder Wissensarbeiter von Cézannes Beobachtungsroutine profitieren?"
     answer: "Ja, absolut. Die Ausrichtung der inneren Uhr durch morgendliches Naturlicht baut präfrontale Erschöpfung ab und stärkt exekutive Funktionen in jedem Beruf. Zudem erweitert das bewusste Beobachten geometrischer Formen das visuell-räumliche Arbeitsgedächtnis, was kognitive Vorteile bei der strategischen Planung und Datenanalyse bietet."
-
 ---
 
 "Ein Maler darf Gegenstände nicht einfach nur ansehen; er muss sie mit dem ganzen Körper fühlen, sie im Gehirn rekonstruieren und auf die Leinwand bringen." 🎨

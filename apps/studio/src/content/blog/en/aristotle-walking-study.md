@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Can people who cannot draw at all still utilize this habit?"
     answer: "Yes. Archimedes's sketching habit is not an artistic drawing act, but a cognitive task of placing brain thought structures into external space. Simply drawing circles or placing boxes around text and connecting them with arrows as doodles significantly reduces working memory burden, producing clear effects in enhancing concentration."
-
 ---
 
 "Do not disturb my circles. Do not trample my flow of thought." 📐

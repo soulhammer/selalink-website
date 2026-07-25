@@ -21,7 +21,6 @@ faqs:
     answer: "Em dias de cansaço físico extremo, é muito melhor substituir os treinos pesados por 5 a 10 minutos de alongamentos leves e respiração profunda. A essência da rotina de Mandela não é sobrecarregar o corpo, mas iniciar a autonomia do dia por meio de sua própria vontade consciente."
   - question: "Como iniciantes com pouca resistência física devem começar essa rotina?"
     answer: "Modifique os exercícios para se adequarem ao seu nível de condicionamento: faça flexões na parede ou de joelhos, e substitua agachamentos pelo movimento de levantar da cadeira. Apenas 5 minutos ou uma única série por dia já ativam a rotina cerebral matinal positiva para preservar a autonomia."
-
 ---
 
 "O exercício foi a chave da minha vida. Através do exercício, consegui encontrar paz de espírito mesmo em meio à adversidade extrema." ☀️

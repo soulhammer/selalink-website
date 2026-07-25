@@ -21,7 +21,6 @@ faqs:
     answer: "La investigación neurofisiológica indica que los niveles de cortisol comienzan a disminuir y las ondas cerebrales empiezan a cambiar a ondas alfa (Alpha wave) relajantes unos 2 o 3 minutos después de comenzar a masticar. Por lo tanto, mantener la concentración en masticar durante al menos 2 a 3 minutos es clave para obtener resultados."
   - question: "¿Existe realmente un principio científico por el cual masticar ayuda a suprimir el deseo de fumar o la ingesta compulsiva?"
     answer: "Así es. Cuando se experimentan antojos intensos (tabaco, comida), el cerebro busca un aumento rápido de dopamina. Proporcionar un estímulo masticatorio alternativo en la boca permite que el cerebro satisfaga parcialmente el deseo de recompensa (a través de una liberación alternativa de dopamina), lo que ayuda a controlar los picos de impulso. La ciencia del comportamiento lo denomina 'formación de conducta alternativa'."
-
 ---
 
 Ronald Reagan, el 40.º presidente de los Estados Unidos, fue un destacado líder político que impulsó el fin de la Guerra Fría, revitalizó la economía estadounidense y ejerció un liderazgo de comunicación claro. Como jefe de una superpotencia mundial obligado a soportar el inmenso peso de crisis nacionales y decisiones de gran trascendencia, ¿cuál era su secreto para la relajación cognitiva? 🍬

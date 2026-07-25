@@ -21,7 +21,6 @@ faqs:
     answer: "Since shouting in public is inappropriate, adopt a 'sub-whisper' or mumble, physically articulating words with your lips and tongue. Simply moving your articulatory organs activates the motor cortex compared to silent reading, capturing a significant portion of error-detection benefits."
   - question: "Is the recitation editing habit effective for business proposals or reports rather than literary works?"
     answer: "Yes, extremely effective. Awkward phrasing, misplaced conjunctions, and overly convoluted sentences in business reports cause immediate vocal stumbling and breathlessness during recitation. Recitation serves as a precision filter to refine readability and persuasive logical flow in any document."
-
 ---
 
 "If the musical rhythm of a sentence is unfulfilled, the thought itself has not yet found its footing. Good prose must flow with cadence and harmony just like great poetry." ✍️

@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, Sprachaufnahmen sind eine hervorragende Methode zur schnellen Entlastung des Arbeitsgedächtnisses. Textformate sind jedoch für das spätere visuelle Durchsehen und Strukturieren weitaus besser geeignet. Bei Sprachmemos wird empfohlen, diese mit automatischer Spracherkennung (STT) zu kombinieren."
   - question: "Ich mache mir Notizen, vergesse aber oft, sie später durchzulesen. Wie kann ich das beheben?"
     answer: "Notizen entwickeln ihren Wert erst, wenn sie erneut geprüft und mit Taten verknüpft werden. Richten Sie eine tägliche Erinnerung ein oder koppeln Sie eine '1-Minuten-Scan-Routine' an bestehende Gewohnheiten – wie direkt vor dem Morgenkaffee –, um die Einträge des Vortags für 60 Sekunden zu überfliegen."
-
 ---
 
 "Wissen ist nicht genug, wir müssen es anwenden. Wollen ist nicht genug, wir müssen es tun." 🚶‍♂️

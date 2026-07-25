@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Se debe practicar esta rutina todos los días?"
     answer: "Sí, la práctica constante a horas fijas maximiza la neuroplasticidad cerebral. La ejecución diaria en el mismo lugar fortalece los circuitos prefrontales de autorreflexión."
-
 ---
 
 «¿Qué sé yo? (Que sçay-je?)» 🏛️

@@ -21,7 +21,6 @@ faqs:
     answer: "Non ! Décrire les détails observés par écrit au lieu de les dessiner procure exactement le même effet d'immersion cognitive."
   - question: "Puis-je l'appliquer en intérieur ou au bureau avec des objets artificiels ?"
     answer: "Oui, tout objet manufacturé présentant une texture fine — comme la plume d'un stylo, le grain d'un papier ou les coutures d'un portefeuille — offre un excellent effet."
-
 ---
 
 Beatrix Potter (1866–1943), créatrice du personnage légendaire 'Pierre Lapin' (vendu à plus de 300 millions d'exemplaires dans le monde), illustratrice naturaliste du XIXe siècle et chercheuse en mycologie. Qu'est-ce qui a permis à cette femme victorienne timide de créer à la fois un univers de contes féeriques et des illustrations botaniques de valeur scientifique ? 🐰

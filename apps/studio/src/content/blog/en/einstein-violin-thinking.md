@@ -21,7 +21,6 @@ faqs:
     answer: "Yes. Einstein regularly went sailing on a yacht to feel the wind and meditate during research breaks. He also prioritized sleeping over 10 hours a day to let his subconscious organize and solve complex problems."
   - question: "Can people who do not play any musical instrument practice this routine?"
     answer: "Absolutely. Instead of playing an instrument, listening attentively to classical music while finger-tapping the rhythm or closing your eyes for 5 minutes of deep breathing delivers the exact same cognitive shifting benefits."
-
 ---
 
 "Life without playing music is inconceivable for me. I live my daydreams in music." 🎻

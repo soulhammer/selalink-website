@@ -21,7 +21,6 @@ faqs:
     answer: "Terletak di Suffolk di pantai timur Inggris, Aldeburgh adalah pantai kerikil unik yang terdiri dari batu-batu halus alih-alih pasir. Gelombang yang bergulir di atas kerikil menciptakan suara ritmis yang beresonansi, sementara cakrawala yang luas menawarkan kebebasan visual bagi korteks prefrontal."
   - question: "Apakah berjalan di lingkungan perkotaan yang dikelilingi gedung pencakar langit memberikan manfaat pemulihan perhatian yang serupa?"
     answer: "Berjalan di perkotaan melibatkan kebisingan lalu lintas, sinyal, dan lampu neon yang menuntut perhatian terarah, mengurangi efek pemulihan. Di lingkungan perkotaan, penting untuk mencari ruang hijau yang tenang—seperti taman pepohonan, jalur tepi sungai, atau area pejalan kaki dengan gemericik air."
-
 ---
 
 "Dalam jalan-jalan sore saya di sepanjang pantai, semua simpul rumit dalam musik saya yang menolak saya selama sesi menulis pagi akhirnya terurai dengan sendirinya." 🌊

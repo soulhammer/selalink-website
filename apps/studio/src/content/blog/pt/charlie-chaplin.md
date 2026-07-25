@@ -21,7 +21,6 @@ faqs:
     answer: "Evite o contato visual direto. Use óculos de sol ou segure uma bebida para desviar o olhar naturalmente enquanto pratica o escaneamento por 'Visão Periférica', focando na dinâmica da silhueta."
   - question: "O espelhamento físico realmente melhora nossa capacidade de decifrar os estados emocionais alheios?"
     answer: "Sim, profundamente. Do ponto de vista neurocientífico, replicar a postura e o ritmo de movimento de uma pessoa sincroniza seu sistema de neurônios-espelho. Isso permite que seu sistema límbico decodifique sinais emocionais não verbais como estresse, fadiga ou confiança."
-
 ---
 
 "Na maneira como uma pessoa caminha, pode-se ler toda a sua história de vida e seus sentimentos interiores." 🎩

@@ -21,7 +21,6 @@ faqs:
     answer: "Controversial debates trigger adrenaline and cortisol, causing cognitive fatigue. Establishing a ground rule beforehand—such as 'Today, let's talk about our inner experiences or books we've read rather than current news'—serves as the ultimate shield to protect your group's Ataraxia."
   - question: "What if scheduling weekly face-to-face meetings with friends is too difficult?"
     answer: "Weekly face-to-face gatherings are not strictly required. Meeting once a month in person, or holding a quiet 30-minute bi-weekly phone call to share honest feelings, is fully sufficient to stimulate oxytocin pathways and maintain psychological safety."
-
 ---
 
 "We should look for someone to eat and drink with before we look for something to eat and drink." 🍇

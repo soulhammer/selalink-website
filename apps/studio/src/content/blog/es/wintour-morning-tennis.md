@@ -21,7 +21,6 @@ faqs:
     answer: "No hay una razón científica para que tenga que ser exactamente a las 5 a. m. Lo fundamental es despertarse al menos 1 hora antes de comenzar su jornada laboral para activar el cerebro mediante el ejercicio físico. Lo importante es crear una rutina dentro de los primeros 30 minutos tras despertar según su horario."
   - question: "¿Qué pasa si los entrenamientos de alta intensidad son demasiado pesados por articulaciones débiles o baja condición?"
     answer: "En lugar de saltos con alto impacto en las articulaciones, elija opciones como bicicleta estática, caminata rápida o caminata en inclinación. Con solo elevar adecuadamente su respiración para aumentar el flujo sanguíneo al cerebro, obtendrá los mismos beneficios cognitivos."
-
 ---
 
 "Incluso si no estás seguro, haz que todos los demás estén convencidos de tu intención." 🚶‍♂️

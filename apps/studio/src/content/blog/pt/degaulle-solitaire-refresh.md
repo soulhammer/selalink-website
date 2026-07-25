@@ -21,7 +21,6 @@ faqs:
     answer: "Não. Aplicativos para celular emitem luz azul e notificações que acionam continuamente a atenção pré-frontal. Usar cartas físicas permite engajar o córtex somatossensorial enquanto se desativam os filtros executivos para uma recuperação superior."
   - question: "Não conseguir terminar uma partida de paciência causa estresse adicional?"
     answer: "O objetivo não é a vitória, mas desativar os filtros executivos por meio da correspondência estruturada de padrões. Mesmo que o jogo fique bloqueado, o ato de mover as cartas cumpre o reinício cognitivo. Ignore vencer ou perder; simplesmente embaralhe e comece de novo."
-
 ---
 
 "O dever primordial de um líder é tomar decisões corretas, e para isso o cérebro precisa se afastar do ruído para alcançar uma calma absoluta." 🃏

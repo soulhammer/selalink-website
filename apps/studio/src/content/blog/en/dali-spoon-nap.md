@@ -21,7 +21,6 @@ faqs:
     answer: "Holding a spoon converted the exact physical muscle relaxation of sleep onset into a sound signal that awakened him instantly. This prevented his brain from entering NREM Stage 3 slow-wave sleep—avoiding sleep inertia—while enabling him to harvest uninhibited hypnagogic surrealist imagery."
   - question: "How can I adapt this routine in noise-sensitive environments like offices or libraries?"
     answer: "You can place a folded thick towel or cushion over the plate to dampen the sound into a quiet thud, or set a silent vibration timer for 1 to 2 minutes on your smartphone. This allows you to wake gently during light NREM Stage 1 sleep before descending into deep sleep, achieving identical cognitive benefits."
-
 ---
 
 "The finest inspirations reveal themselves at the precise threshold of awakening, where subconscious fantasy crosses paths with conscious reality." 🎨

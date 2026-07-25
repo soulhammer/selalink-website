@@ -21,7 +21,6 @@ faqs:
     answer: "Rester allongé a plat en penchant le cou vers l'avant provoque una forte tension cervicale. Pour protéger votre colonne, soutenez votre buste à 45 degrés au moins avec des coussins fermes et limitez la séance a 20 ou 30 minutes pour préserver votre santé."
   - question: "Puis-je consulter mes e-mails ou messages pendant seulement 5 minutes au réveil ?"
     answer: "Non. Exposer votre cerveau a des demandes extérieures fragmentées, même pendant 5 minutes, dissipe immédiatement l'énergie générée par la Réponse d'éveil du cortisol (CAR). Pour préserver vos ressources préfrontales, gardez votre téléphone éteint jusqu'à l'aboutissement de votre priorité."
-
 ---
 
 « Mes meilleures théories économiques ont été tissées avant le lever du soleil, adossé à des coussins sous una chaude couette. » 🛏️

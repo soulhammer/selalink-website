@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, tentu saja. Anda dapat menerapkan sistem indeks kartu menggunakan alat digital seperti Notion, Obsidian, atau aplikasi catatan. Secara khusus, memanfaatkan tautan dua arah (Backlink) mereplikasi mekanisme pengaitan ide dialektis Hegel."
   - question: "Mengapa kartu atomic yang ringkas lebih efektif daripada menulis halaman buku catatan yang panjang?"
     answer: "Halaman buku catatan yang panjang mengikat ide-ide pada konteks linier, merusak independensi informasi. Sebaliknya, kartu yang menyimpan satu ide berfungsi sebagai blok bangunan modular, memberikan 'Fleksibilitas Kognitif' yang tinggi."
-
 ---
 
 "Hanya pemikiran yang dicatat dan diatur dalam ruang eksternal yang dapat berkembang menjadi kebijaksanaan dialektis sejati." 🗃️

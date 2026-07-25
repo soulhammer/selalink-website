@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, von George Orwell gesammelte Artikel, Kopien seiner handgeschnittenen Alben und Notizen werden als wertvolles historisches Archiv am University College London (UCL) aufbewahrt."
   - question: "Welche Apps werden empfohlen, um diese Clipping-Routine digital umzusetzen?"
     answer: "Wir empfehlen Notion, Obsidian und Evernote für einfaches Erfassen von Texten, Hervorheben und Notieren sowie spezialisierte Web-Clipping-Apps wie Pocket und Raindrop.io."
-
 ---
 
 "Freiheit ist das Recht, den Leuten das zu sagen, was sie nicht hören wollen." 📰

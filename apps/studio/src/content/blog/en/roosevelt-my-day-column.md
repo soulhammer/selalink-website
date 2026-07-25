@@ -21,7 +21,6 @@ faqs:
     answer: "Even in routine days, try capturing one tiny variation each day—a person encountered, taste of food, or scent of weather. The attempt to find subtle differences itself develops brain attention and trains metacognition."
   - question: "Is it equally effective to use digital journaling apps or Notion?"
     answer: "Yes! Typing tools offer the same metacognitive benefits of organizing and externalizing thoughts. The essential factor is clearly visualizing inner thoughts into sentence structure, whether by hand or keyboard."
-
 ---
 
 "Do one thing every day that scares you." 🚶‍♂️

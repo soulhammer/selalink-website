@@ -21,7 +21,6 @@ faqs:
     answer: "No, es preferible evitar el audio por completo. La entrada auditiva —incluso la música suave— obliga a la corteza auditiva a analizar patrones, inhibiendo la DMN. Para lograr un reinicio cognitivo total, quítese los auriculares y permita que su mente vague entre los sonidos ambientales."
   - question: "Para un profesional moderno es irreal caminara 3 horas diarias como Dickens. ¿Existe una alternativa práctica?"
     answer: "Sí, por supuesto. El mecanismo fundamental no es la duración de 3 horas, sino la 'caminata aeróbica en solitario y sin estímulos'. Caminar a paso ligero solo de 20 a 30 minutos tras el almuerzo o en el trayecto de regreso —sin mirar el teléfono— activa la DMN y libera BDNF."
-
 ---
 
 "Si no pudiera caminar rápido y lejos, simplemente explotaría y perecería." 🚶‍♂️

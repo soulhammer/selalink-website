@@ -21,7 +21,6 @@ faqs:
     answer: "Aerobics and light muscle activation do help, but indoor gym workouts under artificial lighting are less effective at suppressing melatonin. Activity under natural sunlight combined with earthing—touching soil and natural elements directly—is required to achieve powerful neural stability and serotonin activation like Verdi."
   - question: "What should I be careful about when introducing morning physical labor?"
     answer: "You should refrain from high-intensity labor that excessively exhausts the brain. When lactic acid accumulates in the body and severe physical fatigue sets in, glucose and prefrontal energy required for creative work are depleted, harming creativity; thus limit it to light activities around 15 minutes."
-
 ---
 
 "To me, the greatest musical inspiration comes not when holding a pen, but when tilling the soil and sweating in the morning." 🎼

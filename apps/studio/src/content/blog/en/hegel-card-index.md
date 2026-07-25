@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely. You can implement a card-index system using digital tools like Notion, Obsidian, or dedicated PKM apps. In particular, utilizing bidirectional links (Backlinks) replicates and even enhances Hegel's dialectical idea-linking mechanisms."
   - question: "Why are concise atomic cards more effective than writing long continuous notebook pages?"
     answer: "Long continuous notebook pages shackle ideas to linear context, ruining information independence. Conversely, atomic cards storing one idea per slip act as modular building blocks, providing high 'Cognitive Flexibility' to freely recombine and restructure thoughts without structural friction."
-
 ---
 
 "Only thoughts recorded and arranged in external space can evolve into true dialectical wisdom." 🗃️

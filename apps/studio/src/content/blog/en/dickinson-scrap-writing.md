@@ -21,7 +21,6 @@ faqs:
     answer: "While the digital action may seem faster, unlocking a screen, locating an app, and accidentally glimpsing push notifications forces your brain to process new stimuli. This completely overwrites the fragile incubated idea in your working memory, causing it to evaporate. A physical pencil and a scrap of paper create zero cognitive friction, allowing pure, unfiltered translation of thought."
   - question: "Isn't it better for efficiency and creativity to hyper-focus and execute household chores meticulously?"
     answer: "From the perspective of creativity, no. The Incubation Effect is maximized precisely when the prefrontal cortex temporarily suspends logical judgment and slips into a 'mind-wandering, semi-subconscious state' (DMN activation). Therefore, rather than tackling a highly complex recipe requiring intense focus, performing routine, auto-piloted physical chores—like washing dishes or sweeping—yields the highest rate of novel breakthroughs."
-
 ---
 
 "Inspiration is a very fragile guest; if you are not ready to welcome it, it vanishes without a trace." 📝

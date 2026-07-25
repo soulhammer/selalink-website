@@ -21,7 +21,6 @@ faqs:
     answer: "Das Hören eines Hörbuchs ist eine passive Aufnahme, die das 'aktive Abrufen' – bei dem das Gehirn Erinnerungen eigenständig durchsucht – und den inneren Dialog blockiert. Wenn Sie beim Gehen auf Audioreize verzichten und gelesene Inhalte verarbeiten, stärkt das die neuronale Plastizität deutlich effektiver."
   - question: "Beeinflusst das Geh-Tempo die Gehirnstimulation?"
     answer: "Ja, das tut es. Besser als ein sehr langsames Schländern ist ein moderates Tempo (ca. 4–5 km/h) mit angenehmer Atmung. Bei dieser leichten aeroben Intensität erreichen BDNF-Ausschüttung und Durchblutung ideale Werte. Zu schnelles Rennen sollte vermieden werden, da es kognitive Ressourcen auf die Motorik umleitet."
-
 ---
 
 "Der Weg eines geistigen Giganten begann in der morgendlichen Meditation und im tiefen Diskurs auf Waldpfaden an der frischen Morgenluft." 🚶

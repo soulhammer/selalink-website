@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, das hat eine hervorragende Wirkung! Der Druck auf die Fußsohlen sendet dem <strong>somatosensorischen Kortex</strong> das Signal 'Aktivitätsmodus'. Dies hemmt das Bedürfnis, sich aufs Sofa zu legen, und dient als physischer Schalter."
   - question: "Hilft ordentliche Kleidung auch bei kreativen Berufen wie Malerei oder Content Creation?"
     answer: "Ja, absolut! Obwohl man oft glaubt, dass chaotische Kleidung Kreativität fördert, spart eine ordentliche Routine kognitive Ressourcen des präfrontalen Kortex. Dadurch kann sich das Gehirn voll auf tiefere Ideen und assoziatives Denken konzentrieren."
-
 ---
 
 "Ich muss mein Alltagsleben nicht mit Wahnsinn füllen, um Kunst zu schaffen. Wenn mein Alltag extrem einfach und ordentlich ist, gewinnt der Surrealismus auf meiner Leinwand seine scharfe Überzeugungskraft." 🎩

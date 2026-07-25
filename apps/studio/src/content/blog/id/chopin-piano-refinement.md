@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, itu adalah risiko nyata. Untuk mencegah hal ini, pisahkan 'waktu pembuatan draf' dari 'waktu penyempurnaan' secara ketat dan tetapkan batasan kuantitatif—seperti membatasi fase revisi hingga maksimal 3 jam atau 5 siklus. Menerapkan proses penyempurnaan dalam jendela waktu yang terikat menjaga keseimbangan antara produktivitas dan kualitas."
   - question: "Pada titik mana selama penyempurnaan iteratif seseorang harus berhenti memodifikasi dan memfinalisasi karya?"
     answer: "Gunakan titik hasil yang berkurang sebagai ambang batas Anda—ketika suntingan lebih lanjut tidak lagi menghasilkan peningkatan kualitas atau struktur yang bermakna dibandingkan dengan iterasi sebelumnya. Ketika suntingan kecil tidak lagi mengubah efektivitas atau tujuan secara keseluruhan, sinyal deteksi kesalahan ACC telah teratasi, dan memfinalisasi karya adalah keputusan yang optimal."
-
 ---
 
 "Inspirasi datang dalam sekejap, tetapi mengekspresikannya dengan kesempurnaan mutlak membutuhkan malam-malam pengulangan yang menyakitkan yang tak terhitung jumlahnya." 🎹

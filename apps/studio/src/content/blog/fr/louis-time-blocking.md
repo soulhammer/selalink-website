@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait ! Réservez 2 à 3 blocs 'Urgences et Traitement par lots'. Restez concentré pendant vos créneaux de travail profond et gérez les imprévus pendant les blocs dédiés."
   - question: "Comment surmonter la culpabilité en cas de non-respect de l'emploi du temps ?"
     answer: "Le blocage du temps est un guide, pas una prison. Ce qui compte est la concentration sur una seule tâche pendant le bloc. En cas de décalage, faites preuve de Flexibilité Cognitive et passez au bloc suivant sans vous culpabiliser."
-
 ---
 
 "En fixant des heures et des règles pour le travail, on gouverne entièrement sa vie. Avec un almanach et una montre, on pouvait à trois cents lieues dire ce que faisait le roi." 👑

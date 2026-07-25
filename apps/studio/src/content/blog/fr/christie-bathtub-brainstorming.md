@@ -21,7 +21,6 @@ faqs:
     answer: "Le bain chaud ralentit le rythme cardiaque et favorise le système parasympathique pour activer le DMN, tandis que la mastication d'une pomme stimule le cortex préfrontal via le nerf trijumeau, combinant relaxation physique et clarté mentale."
   - question: "Existe-t-il une méthode alternative de relaxation physique pour activer le DMN sans baignoire ?"
     answer: "Oui, tout à fait. Pratiquer un bain de pieds chaud de 15 minutes (environ 40°C) ou appliquer une serviette chaude sur la nuque améliore la circulation. Buvez un thé chaud lentement tout en laissant vagabonder vos pensées pour activer le DMN."
-
 ---
 
 « Le meilleur moment pour concevoir un livre, c'est en faisant la vaisselle ou en se prélassant dans un bain chaud, en croquant une pomme. » 🍏

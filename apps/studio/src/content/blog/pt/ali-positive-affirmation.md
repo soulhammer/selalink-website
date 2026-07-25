@@ -21,7 +21,6 @@ faqs:
     answer: "É natural sentir-se desconfortável no início devido à dissonância cognitiva (Cognitive Dissonance). O importante não é verificar a veracidade dos fatos, mas abrir novas possibilidades para o cérebro. À medida que você repete, a neuroplasticidade (Neuroplasticity) reorganizará os circuitos neurais, fazendo o desconforto desaparecer e se consolidar em uma crença."
   - question: "Só é eficaz se eu gritar em voz alta?"
     answer: "O ideal é perceber diretamente as vibrações da voz através da audição. No entanto, se o seu ambiente dificultar falar em voz alta, sussurrar ou repetir mentalmente cada palavra com forte foco (Silent Self-talk) também fornece estímulos positivos suficientes para a ativação cerebral."
-
 ---
 
 "Eu dizia que era o maior mesmo antes de saber que era. Você se torna o que pensa." 🥊

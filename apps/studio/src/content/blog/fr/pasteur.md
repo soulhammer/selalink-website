@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, nettoyer les objectifs ou ranger votre bureau envoie un signal d'ordre cognitif au cerveau pour maximiser l'attention."
   - question: "Comment remplacer cela si je n'ai pas de microscope ou de chiffon en microfibre ?"
     answer: "Essuyer votre écran d'ordinateur, ranger votre bureau ou nettoyer votre smartphone avant de commencer produit exactement le mê me effet."
-
 ---
 
 "Dans les champs de l'observation, le hasard ne favorise que les esprits préparés." 🔬

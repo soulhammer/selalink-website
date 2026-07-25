@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Realizar un entrenamiento de movimiento físico por la mañana estando cansado no sobrecarga el cerebro?"
     answer: "Al contrario, estimular las habilidades motoras finas al despertar activa el sistema reticular del tronco encefálico, aumentando el cortisol y la dopamina para eliminar rápidamente la inercia del sueño."
-
 ---
 
 "Soy emperador, pero mis manos todavía tienen callos." ⚓

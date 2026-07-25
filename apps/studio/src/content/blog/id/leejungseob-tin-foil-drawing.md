@@ -21,7 +21,6 @@ faqs:
     answer: "Resistensi taktil dan akustik goresan yang dihasilkan saat mengukir foil logam memenuhi penyangga pemrosesan somatosensori di otak. Ini secara fisik menekan sinyal ancaman di amigdala dan mencegah pemikiran negatif."
   - question: "Bisakah saya mengganti kertas timah dan paku dengan kertas standar dan pulpen?"
     answer: "Ya, tentu saja! Memberikan tekanan kuat pada karton tebal atau kertas bertekstur dengan pulpen atau pena dip menciptakan gesekan taktil yang jelas saat ujung pena menekan serat kertas. Pemicu neurobiologisnya terletak pada ketegasan umpan balik haptik."
-
 ---
 
 "Tidak masalah jika saya tidak memiliki kanvas atau cat minyak mahal. Saat saya mengukir garis di atas kertas timah bungkus rokok dengan paku tajam, semua kelaparan dan kesedihan lenyap, menyisakan hanya karya seni." 🐂

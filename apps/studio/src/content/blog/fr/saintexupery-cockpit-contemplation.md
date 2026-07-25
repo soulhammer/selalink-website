@@ -21,7 +21,6 @@ faqs:
     answer: "Oui ! Après avoir rédigé le brouillon librement, coupez audacieusement les qualificatifs inutiles, le jargon et les phrases à rallonge lors de la seconde relecture pour doubler la clarté."
   - question: "Que faire si le contexte est perdu à cause d'un élagage trop important ?"
     answer: "Conservez les noms et verbes clés, et concentrez la coupe sur les adjectifs émotionnels ou les explications redondantes ; le contexte essentiel deviendra plus net."
-
 ---
 
 « La perfection est atteinte, non pas lorsqu'il n'y a plus rien à ajouter, mais lorsqu'il n'y a plus rien à retirer. » ✈️

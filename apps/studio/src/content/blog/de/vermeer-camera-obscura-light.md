@@ -21,7 +21,6 @@ faqs:
     answer: "Selbst das sanfte, milchige Licht eines bewölkten Tages ist ein wunderbares Objekt zur Lichtbeobachtung. Sie können auch die Lichtbrechung durch Regentropfen auf den Fensterscheiben beobachten."
   - question: "Ist das auch wirksam, wenn ich nicht wie Vermeer im Bereich Kunst oder Design arbeite?"
     answer: "Ja! Das ruhige Betrachten visueller Lichtverhältnisse ist die schnellste physische Ruhemethode, um komplexes mentales Plappern im Gehirn zu stoppen."
-
 ---
 
 Johannes Vermeer, ein niederländischer Barockmeister des 17. Jahrhunderts, der stille, lichtdurchflutete Meisterwerke wie 'Das Mädchen mit dem Perlenohrgehänge' und 'Dienstmagd mit Milchkrug' schuf. Am Fenster seines Ateliers in Delft stand eine 'Camera Obscura', ein optisches Gerät, das Lichtpartikel präzise projizierte. Vor dem Malen beobachtete er zig Minuten lang stumm das durch die Linse einfallende Sonnenlicht und die feinen silbernen Lichtpunkte an der Wand. Das ruhige Betrachten der Lichtbrechung und der unscharfen Schatten war eine herausragende Ruhegewohnheit für das Gehirn, die das mentale Plappern abstellte und das Gehirn in extreme Gelassenheit führte.

@@ -21,7 +21,6 @@ faqs:
     answer: "Reemplace afirmaciones vagas como 'a los usuarios les gusta esta función' con métricas cuantitativas cerradas: volumen de captación, tiempo de permanencia y tasa de abandono."
   - question: "¿Qué debo hacer si las métricas cuantitativas contradicen mi intuición personal?"
     answer: "Confíe en los datos objetivos medidos por encima de la intuición. Históricamente, la intuición suele ser un mecanismo de defensa del cerebro para proteger dogmas desfasados."
-
 ---
 
 "La verdad no reside en la tradición de los libros de texto, sino en las cantidades de la naturaleza medidas objetivamente." 🫀

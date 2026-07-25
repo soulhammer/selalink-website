@@ -21,7 +21,6 @@ faqs:
     answer: "La resistencia táctil y el sonido producidos al grabar el metal satisfacen los canales somatosensoriales del cerebro. Esto reduce las señales de amenaza en la amígdala y evita la rumiación emocional, anclando la atención al presente."
   - question: "¿Puedo sustituir el papel de aluminio y el clavo con papel convencional y un bolígrafo?"
     answer: "¡Sí, totalmente! Aplicar una presión firme sobre cartulina o papel rugoso con un bolígrafo genera una clara resistencia táctil a medida que la punta hunde las fibras. La clave neurobiológica es la firmeza de la retroalimentación táctil, no el material específico."
-
 ---
 
 "No importa si no tengo lienzo ni óleos costosos. En el momento en que grabo una línea en el papel de aluminio de un maço de cigarrillos con un clavo, el hambre y la tristeza desaparecen, dejando solo el arte." 🐂

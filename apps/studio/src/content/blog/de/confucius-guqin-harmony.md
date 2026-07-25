@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut. Der Zweck dieser Routine ist nicht das Erlernen von Spieltechniken, sondern die Beruhigung des Nervensystems durch Stimmen und Klangresonanz. Einfache Instrumente wie eine Kalimba oder eine Ukulele reichen aus, um Entspannung zu erzielen."
   - question: "Ist die Nutzung einer Stimm-App auf dem Smartphone für diese Routine geeignet?"
     answer: "Ja, sofern Sie nicht starr auf das Display blicken. Nutzen Sie die App als Referenz, blicken Sie aber zur Seite. Die Konzentration auf das Gefühl in den Fingern und die Schwingungen entlastet den visuellen Kortex und fördert die Erholung."
-
 ---
 
 "Wenn der Geist nicht klar ist, greife in die Saiten. Das Stimmen eines Instruments bedeutet, die eigene Seele zu stimmen." 🎼

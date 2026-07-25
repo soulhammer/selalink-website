@@ -21,7 +21,6 @@ faqs:
     answer: "Abrir una ventana y mirar el punto más lejano visible en el exterior durante más de 30 segundos es totalmente suficiente. El objetivo es cambiar de la 'Visión de Túnel' a la 'Visión Periférica', desactivando el estrés."
   - question: "¿Qué hago si me cuesta construir imágenes mentales nítidas durante la visualización?"
     answer: "No necesita una imagen en alta definición. Combinar la 'sensación' emocional del éxito, los sonidos del entorno y afirmaciones sencillas ('lo logré') activa las mismas redes corticales. Piénselo como reunir pistas sensoriales."
-
 ---
 
 "Inclino mi cabeza hacia el cielo eterno en oración, puliendo no las armas de mi mano, sino el propósito de mi corazón." 🏹

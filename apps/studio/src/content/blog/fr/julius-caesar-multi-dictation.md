@@ -21,7 +21,6 @@ faqs:
     answer: "Le multitasking classique éparpille l'attention sur plusieurs tâches en même temps (ex. : lire ses messages en rédigeant un e-mail). La dictée simultanée repose sur un 'Focus séquentiel unique' : consacrer 100 % de son attention à un seul scribe à la fois avant de passer au sujet suivant."
   - question: "Puis-je pratiquer cette méthode en tapant au clavier plutôt qu'en dictant ?"
     answer: "La vitesse de frappe au clavier est plus lente que le rythme de la pensée, créant des blocages. Utiliser la dictée vocale (STT) permet d'exprimer ses idées à la vitesse de la parole. Rédiger rapidement à voix haute puis relire en bloc réduit la surcharge de la mémoire de travail."
-
 ---
 
 « Veni, vidi, vici. (Je suis venu, j'ai vu, j'ai vaincu.) » ⚔️

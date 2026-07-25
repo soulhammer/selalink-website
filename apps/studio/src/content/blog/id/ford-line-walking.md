@@ -21,7 +21,6 @@ faqs:
     answer: "Layar digital tidak memiliki gesekan fisik, mengurangi umpan balik somatosensori dan menghadirkan gangguan digital. Kertas fisik memberikan resistensi ujung pena yang menstimulasi sirkuit kortikal secara lebih mendalam. Penggunaan kertas nyata sangat direkomendasikan."
   - question: "Apakah menggambar sketsa diagram saat duduk diam sama efektifnya dengan berjalan?"
     answer: "Menggambar sketsa saat duduk tetap memberikan manfaat eksternalisasi kognitif, tetapi memadukannya dengan gerakan fisik dan pelacakan visual secara dramatis meningkatkan hasil. Berjalan meningkatkan aliran darah otak, sementara pelacakan visual mempersiapkan sirkuit otak kecil."
-
 ---
 
 "Untuk mengurangi pemborosan, seseorang harus terlebih dahulu menelusuri alur fisik dengan kejelasan visual." 🚗

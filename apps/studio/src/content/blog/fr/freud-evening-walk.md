@@ -21,7 +21,6 @@ faqs:
     answer: "Oui. La stimulation bilatérale se produit a n'importe quel moment de la journée. Cependant, si la marche matinale stimule l'éveil, la marche nocturne de Freud élimine l'encombrement mental et la tension accumulés au travail. Choisissez le créneau adapté à votre stress."
   - question: "Puis-je taper ce journal sur smartphone ou clavier au lieu de l'écrire à la main ?"
     answer: "Taper sur un écran ramène immédiatement le cerveau en mode de traitement logique et structuré. À l'inverse, presser un stylo sur du papier sollicite la motricité fine des doigts, stimulant le Système Réticulé Activateur (SRA) du cerveau de manière beaucoup plus intense. L'écriture manuscrite est idéale pour extérioriser l'inconscient."
-
 ---
 
 « L'esprit est comme un iceberg, il flotte avec un septième de sa masse au-dessus de l'eau. » 🧠

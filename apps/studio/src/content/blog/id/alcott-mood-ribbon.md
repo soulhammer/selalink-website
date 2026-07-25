@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apa yang harus saya lakukan jika orang-orang di sekitar menyukai/membenci rutinitas sinyal ini karena merasa mengganggu komunikasi?"
     answer: "Hindari membiarkan sinyal blokir aktif dalam jangka waktu yang terlalu lama. Penting untuk membatasi waktu fokus maksimal 50 menit hingga 1 jam, dan secara aktif membangun kepercayaan dengan menunjukkan bahwa Anda siap berdiskusi kapan saja di luar waktu tersebut."
-
 ---
 
 "Saat badai mengamuk, barulah aku belajar cara mengendalikan kapalku." 🎀

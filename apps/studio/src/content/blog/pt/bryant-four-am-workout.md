@@ -21,7 +21,6 @@ faqs:
     answer: "Para um alinhamento circadiano ideal, o recomendável é manter as variações do despertar nos fins de semana em no máximo 1 hora em relação à rotina dos dias úteis. Dormir demais no fim de semana reinicia o relógio interno do NSQ, aumentando a fadiga matinal durante a semana. A consistência é fundamental."
   - question: "Realizar tarefas intelectuais (trabalho, leitura) imediatamente após um treino às 4h melhora a concentração cerebral?"
     answer: "Sim, cria uma poderosa sinergia cognitiva. A onda de BDNF, dopamina e noradrenalina liberada após o exercício eleva a neuroplasticidade sináptica ao nível máximo. Dedicar-se ao trabalho intelectual profundo ou aprendizado por 1 a 2 horas após o treino maximiza a retenção cognitiva e a memória de trabalho."
-
 ---
 
 "Quando me treino no silêncio das 4h da manhã, tenho absoluta certeza de que estou dando um passo à frente de cada concorrente cognitivamente." 🏀

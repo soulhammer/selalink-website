@@ -21,7 +21,6 @@ faqs:
     answer: "Absolument. Le but n'est pas d'étaler un savoir-faire artistique, mais de transmettre au cerveau des signaux d'observation visuelle et de coordination motrice. Même si la composition est imparfaite ou le trait maladroit, la stimulation des zones cérébrales croisées et l'effet de relaxation restent strictly identiques."
   - question: "Le dessin au crayon ou au stylo est-il suffisant pour la stimulation croisée à la place de l'aquarelle ?"
     answer: "Oui, l'utilisation d'un crayon ou d'un stylo monochrome suffit à solliciter l'intuition spatiale et le contrôle tactile pour activer les circuits associés. Cependant, ajouter de la couleur stimule en plus les zones de perception chromatique, élargissant ainsi la palette de stimulation croisée."
-
 ---
 
 « Les pensées exprimées par la musique ne sont pas trop indéfinies pour être traduites en mots, mais au contraire trop définies ; et les couleurs au bout du pinceau offrent un doux refuge aux mélodies. » 🎨

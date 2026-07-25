@@ -21,7 +21,6 @@ faqs:
     answer: "Nein, es ist deutlich besser, Audioquellen komplett zu meiden. Auditive Reize – auch ruhige Musik – zwingen den auditiven Kortex zur Verarbeitung, was die DMN-Aktivierung hemmt. Für eine kognitive Erholung nehmen Sie Kopfhörer ab und lauschen Sie Umgebungsgeräuschen."
   - question: "Für beschäftigte Menschen ist ein 3-stündiger Spaziergang unrealistisch. Gibt es eine praktikable Alternative?"
     answer: "Ja, absolut. Der Schlüssel liegt nicht in den 3 Stunden, sondern im 'reizfreien Gehen in Isolierung'. Ein zügiger Spaziergang von 20 bis 30 Minuten nach dem Mittagessen oder auf dem Heimweg – ohne Blick aufs Smartphone – aktiviert das DMN und schüttet BDNF aus."
-
 ---
 
 "Wenn ich nicht schnell und weit gehen könnte, würde ich einfach explodieren." 🚶‍♂️

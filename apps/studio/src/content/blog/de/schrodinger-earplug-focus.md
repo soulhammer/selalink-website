@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Was tun, wenn absolute Stille ablenkt oder Angstgefühle auslöst?"
     answer: "Für Einsteiger, denen absolute Stille unangenehm ist, empfiehlt sich die Wiedergabe von Weißem oder Rosa Rauschen (Regen, Wellen), damit sich das Gehirn eingewöhnt."
-
 ---
 
 "Die Gegenwart ist das Ergebnis der Vergangenheit und die Ursache der Zukunft."

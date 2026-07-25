@@ -21,7 +21,6 @@ faqs:
     answer: "If physical separation is impossible, establish artificial sensory conditioning triggers: use a 'dedicated desk lamp' turned on strictly during work, or unroll a specific 'desk mat' exclusively for focus sessions. Creating a consistent visual cue effectively trains prefrontal networks to induce focus even on a multi-purpose table."
   - question: "What should I do if I sit at my designated desk but still feel distracted and fail to start within 5 minutes?"
     answer: "Do not remain seated while engaging in distracted behavior. Instantly stand up and step out of the dedicated zone. Take a 3-minute break to stretch, then return to the desk to execute a single micro-task (e.g., typing a document title) to reset spatial focus without corrupting the conditioning."
-
 ---
 
 "As long as the universe operates in order, the place where humans seek truth must remain unshakeably consistent." 🔭

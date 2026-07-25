@@ -21,7 +21,6 @@ faqs:
     answer: "Não há necessidade de escrever longo; apenas três linhas são suficientes. Ao resumir 'uma coisa que mais me esgotou hoje', 'minha emoção naquele momento' e 'uma coisa que posso corrigir amanhã', o mecanismo de objetivação emocional do cérebro funciona da mesma forma."
   - question: "Digitar em um aplicativo de diário no smartphone tem o mesmo efeito?"
     answer: "Em princípio, a escrita manual analógica no papel é a mais eficaz, pois o feedback tátil enviando informações sensoriais finas ao cérebro desperta o controle cognitivo no lobo frontal com mais clareza. Contudo, se você digitar mantendo um estado focado e sem notificações, escrevendo com honestidade, ainda poderá vivenciar os benefícios do controle emocional."
-
 ---
 
 “Sentado sozinho sob a luz de velas tarde da noite, escrevo no meu diário preocupado com a nação.” 🖋️

@@ -21,7 +21,6 @@ faqs:
     answer: "Ein übermäßig hoher Kontrast in absoluter Dunkelheit führt zu Augenermüdung. Daher beugt das Dimmen der Monitorhelligkeit an die dunkle Umgebung oder die Installation einer sanften Hintergrundbeleuchtung (wie indirekte LED-Streifen) hinter dem Monitor einer Überlastung des Sehnervs vor, während eine hohe Immersion erhalten bleibt."
   - question: "Was soll ich tun, wenn ich keinen Waschraum oder isolierten Raum zu Hause habe?"
     answer: "Es muss kein spezieller isolierter Raum sein. Es reicht aus, die Tür eines normalen Zimmers zu schließen, mit dem Rücken zur Wand zu sitzen, um das Sichtfeld ruhig zu halten, oder eine physische Trennwand aufzustellen, sodass sich im Umkreis von 1,5 Metern um den Schreibtisch außer dem Monitor keine visuellen Reize befinden."
-
 ---
 
 „Für mich ist der beste Arbeitsplatz vollkommen ruhig, dunkel und monoton, ohne jegliche Dekoration oder Ablenkung.“ 💻

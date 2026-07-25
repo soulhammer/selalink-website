@@ -21,7 +21,6 @@ faqs:
     answer: "Isso ocorre quando o excesso de esforço faz com que substâncias acumuladoras de fadiga aumentem. Limite estritamente o exercício a um cronômetro de 3 minutos assim que atingir o limite de falta de ar para carregar seu cérebro apenas com dopamina."
   - question: "Como iniciantes com aptidão física muito baixa devem começar?"
     answer: "Qualquer treino aeróbico ou de força — como marchar em ritmo acelerado no lugar ou um trote leve — produzirá benefícios equivalentes, desde que atinja uma intensidade que cause um leve suor."
-
 ---
 
 Theodore Roosevelt, o 26º presidente dos EUA, assumiu o cargo como o presidente mais jovem da história americana, promovendo reformas progressistas e estabelecendo uma liderança global. Para superar a asma infantil grave e a física frágil, ele realizou um treinamento físico intenso todas as manhãs, levantando pesos até o limite. Esse hábito de exercício explosivo transformou um menino frágil em um líder formidável, alimentando sua força de vontade de ferro e alerta cerebral.

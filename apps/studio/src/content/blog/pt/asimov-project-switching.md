@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Por que Isaac Asimov alternava entre várias máquinas de escrever?"
     answer: "Para evitar a fadiga cognitiva e o estresse gerados ao travar ao escrever sobre um único assunto, ele alternava entre tarefas de gêneros ou naturezas totalmente diferentes para despertar diferentes regiões do córtex cerebral, obtendo o efeito de novidade."
-
 ---
 
 "Quando fico bloqueado ao escrever, não tento forçar. Em vez disso, me aproximo de outra máquina de escrever e redijo um manuscrito sobre um assunto totalmente diferente." ⌨️

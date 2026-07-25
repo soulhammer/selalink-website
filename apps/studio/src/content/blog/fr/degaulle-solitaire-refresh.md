@@ -21,7 +21,6 @@ faqs:
     answer: "Non. Les applications pour smartphone émettent de la lumière bleue et des notifications qui sollicitent l'attention préfrontale. L'utilisation de cartes physiques en papier permet d'engager le cortex somatosensoriel tout en mettant au repos les filtres exécutifs."
   - question: "Le fait de ne pas réussir à terminer une partie de patience ne provoque-t-il pas du stress supplémentaire ?"
     answer: "L'objectif n'est pas la victoire, mais la mise en veille des filtres exécutifs par l'association de motifs. Même si une partie bloque, le geste de manipuler les cartes selon les règles remplit sa fonction de repos. Ne vous souciez pas de gagner ; remélangez les cartes."
-
 ---
 
 « Le premier devoir d'un dirigeant est de prendre des décisions justes, ce qui exige de soustraire l'esprit au bruit pour atteindre le calme absolu. » 🃏

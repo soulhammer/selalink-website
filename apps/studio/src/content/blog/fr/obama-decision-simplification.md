@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Pourquoi Barack Obama ne portait-il que des costumes gris ou bleus ?"
     answer: "Pour prÃ©server son Ã©nergie prÃ©frontale pour les choix d'Ãtat, il a Ã©liminÃ© les hÃ©sitations vestimentaires matinales et Ã©vitÃ© la fatigue dÃ©cisionnelle."
-
 ---
 
 Â« J'essaye de ne pas prendre de dÃ©cisions sur ce que je mange ou ce que je porte, parce que j'ai trop d'autres dÃ©cisions Ã  prendre. Â» ð

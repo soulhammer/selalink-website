@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely. Assigning unique entry numbers in a digital environment delivers tremendous benefits. While keyword searching can fail if exact terms are forgotten, a unique ID (e.g., #042) creates an absolute anchor for backlinks, cross-referencing, and effortless knowledge mapping across digital documents."
   - question: "How should I handle numbering when mixing daily journal entries, work projects, and personal inspiration?"
     answer: "Unifying all entries under a single sequential counter (e.g., #1 to #1000) like Faraday works seamlessly. If you prefer domain separation, prefix numbers with project tags (e.g., Work [A-01], Study [B-01]). The critical factor is not complex classification, but the act of anchoring every knowledge fragment to a unique index address."
-
 ---
 
 "Observation is nothing without record. When you make an observation, give it a number instantly." 📝

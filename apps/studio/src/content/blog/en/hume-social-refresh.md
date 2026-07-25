@@ -21,7 +21,6 @@ faqs:
     answer: "Voice calls with close friends or participating in casual online multiplayer games serve as great substitutes. The core requirement is receiving warm, low-stakes social feedback while relaxed. However, passively scrolling through social media feeds should be avoided, as it increases prefrontal fatigue."
   - question: "Is it fine to substitute chess with other board games, cards, or casual play if I don't play chess?"
     answer: "Yes, absolutely! Hume chose backgammon and chess simply because they were popular social games in 18th-century Edinburgh. Any rule-bound game—board games, card games, or dominoes—that allows relaxed focus and shared laughter will deliver identical cognitive relaxation. Prioritize lighthearted play over intense competition."
-
 ---
 
 "I dine, I play a game of backgammon, I converse, and am merry with my friends; and when after three or four hours' amusement, I wou'd return to these speculations, they appear so cold, and strain'd, and ridiculous..." 🎱

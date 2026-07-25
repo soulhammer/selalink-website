@@ -21,7 +21,6 @@ faqs:
     answer: "You do not need to walk 15 miles like Smith. Clinical guidelines recommend 20 to 40 minutes for boosting cerebral blood flow and DMN activation. What matters is the duration of uninterrupted, digital-free focus, not the distance."
   - question: "Can I walk on an indoor treadmill if I cannot go outside?"
     answer: "Yes. However, when walking on a treadmill indoors, avoid watching TV monitors or smartphone screens. Keep your gaze resting on a blank wall or neutral spot, shutting out artificial visual noise to stay fully immersed in the rhythm of your steps."
-
 ---
 
 "A scholar's contemplation attains its most complete order along a quiet walking path." 🚶‍♂️

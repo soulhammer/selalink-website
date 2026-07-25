@@ -21,7 +21,6 @@ faqs:
     answer: "Relying on mood or subjective inspiration creates volatile, unpredictable output. Fixing a strict quantitative minimum forces the brain's executive control networks to operate consistently, shielding the creator from emotional slumps and creative blockades."
   - question: "Must I replicate Stephen King's exact triggers, such as hard rock music or vitamins?"
     answer: "No. The power lies in 'consistency' rather than the specific type of sensory trigger chosen. Selecting sensory inputs comfortable for you—such as drinking green tea, playing white noise, or turning on a warm desk lamp—and pairing them consistently prior to deep work delivers identical neurobiological conditioning benefits."
-
 ---
 
 "I show up at the same table at the same time every morning so my muse knows exactly where to find me. Don't wait for inspiration; it only shows up when it knows you're sitting down to work." ✍️

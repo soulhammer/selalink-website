@@ -21,7 +21,6 @@ faqs:
     answer: "O número estrito de 60 grãos controlava o sabor do café por meio de uma quantificação perfeita, mas o ato de contar com precisão era em si um gatilho cognitivo que cortava pensamentos inúteis e ativava a rede de controle executivo de alto nível do cérebro."
   - question: "Pessoas que não bebem café podem aplicar esta rotina de mindfulness?"
     answer: "Sim, com certeza. Qualquer ação que direcione atenção total ao toque e a movimentos finos — como pesar com precisão folhas de chá, limpar uma xícara ou praticar alongamentos estruturados e meditação — produz os mesmos efeitos de supressão da DMN e aprimoramento do foco."
-
 ---
 
 "A música deve fazer jorrar fogo do coração do homem e lágrimas dos olhos da mulher." ☕

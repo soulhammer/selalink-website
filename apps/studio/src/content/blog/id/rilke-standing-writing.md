@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apa yang harus saya lakukan jika telapak kaki atau pinggang terasa sakit saat menggunakan meja berdiri?"
     answer: "Gunakan matras antilelah yang tebal di bawah kaki atau pakai sandal rumah berperedam, serta kencangkan otot inti secara ringan untuk mencegah pinggang melengkung berlebihan."
-
 ---
 
 "Seni adalah langkah kesendirian melampaui diri menuju dunia yang lebih luas." ✍️

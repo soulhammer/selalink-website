@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, l'utilisation d'un niveau modéré de bruit blanc ambiant ou de musique permet de restreindre le champ attentionnel cognitif et d'entrer plus rapidement dans une concentration complexe."
   - question: "Comment remplacer des générateurs de bruit sans équipement dédié ?"
     answer: "Vous pouvez facilement remplacer les appareils spécialisés en écoutant du bruit blanc rythmé, des sons d'ambiance mécaniques ou de la musique instrumentale avec des écouteurs ordinaires."
-
 ---
 
 John von Neumann (1903–1957) était un éminent mathématicien, physicien, informaticien et polymathe hongrois-américain du XXe siècle. Considéré comme l'une des intelligences les plus remarquables de l'histoire humaine, il a établi l'« architecture de Von Neumann » des ordinateurs modernes, fondé la théorie des jeux et apporté des contributions fondamentales à la mécanique quantique et au projet Manhattan.

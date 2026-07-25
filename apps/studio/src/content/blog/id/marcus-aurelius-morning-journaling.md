@@ -21,7 +21,6 @@ faqs:
     answer: "Sama sekali tidak perlu menyalahkan diri sendiri jika terlewat sehari. Perasaan bersalah adalah penderitaan tak perlu yang dihindari dalam Stoa. Jika waktu sangat terbatas, menulis satu kalimat di ponsel seperti 'Jangan goyah oleh kesulitan hari ini' sudah cukup. Yang terpenting adalah konsistensi pola pikir."
   - question: "Apa bedanya rutinitas ini dengan jurnal rasa syukur atau jurnal pagi biasa?"
     answer: "Jika jurnal rasa syukur berfokus mengumpulkan hal-hal positif, jurnal refleksi Stoa justru mengantisipasi potensi peristiwa negatif atau stres secara proaktif (Visualisasi Negatif - Premeditatio Malorum) untuk menyelaraskan sikap batin. Ini berfungsi sebagai bentuk simulasi mental."
-
 ---
 
 "Saat Anda bangun di pagi hari, pikirkan betapa berharganya hak istimewa untuk hidup, berpikir, menikmati, dan mencintai." 🌅

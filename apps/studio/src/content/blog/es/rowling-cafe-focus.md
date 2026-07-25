@@ -21,7 +21,6 @@ faqs:
     answer: "No. La música con letra o los ruidos fuertes e intensos (>85 dB) invaden la memoria de trabajo en el lóbulo frontal, causando fatiga. Solo el ruido ambiental impredecible y sin letra genera una disfluencia beneficiosa."
   - question: "¿Es útil escuchar ruido blanco con auriculares en una sala de estudio silenciosa?"
     answer: "Sí. Reproducir ruido blanco en una habitación solitaria ayuda a amortiguar distracciones. Sin embargo, combinarlo ocasionalmente con cambios visuales (como la amplitud de un café) beneficia aún más la creatividad."
-
 ---
 
 "El ruido moderado y la soledad de un café liberaron mi cerebro, permitiéndome imaginar el mundo de los magos sin trabas." ☕

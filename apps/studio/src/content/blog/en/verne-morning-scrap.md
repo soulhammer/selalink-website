@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "How does Niklas Luhmann's Zettelkasten note-taking method differ from Jules Verne's index card clipping?"
     answer: "While Zettelkasten focuses on creating an interconnected web of thought through permanent numeric cross-references between cards, Jules Verne's cards focused on systematically accumulating encyclopedic scientific and geographical facts by category to reinforce technical description and narrative plausibility in his novels."
-
 ---
 
 "Anything one man can imagine, other men can make real." 🗺️

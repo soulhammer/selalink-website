@@ -21,7 +21,6 @@ faqs:
     answer: "Normales Notieren erfasst Wörter passiv. Daguerres Methode hingegen 'belichtet' die Idee 3 Sekunden lang im visuellen Kortex vor dem Aufschreiben. Dies erzeugt eine sensorische Momentaufnahme, sodass das spätere Lesen eines Stichworts den gesamten Kontext rekonstruiert."
   - question: "Was sollte ich tun, wenn ich unterwegs bin und nicht sofort schreiben oder skizzieren kann?"
     answer: "Führen Sie zuerst die 3-sekündige visuelle Fixierung durch, um das Bild im Kortex einzuprägen, und nehmen Sie dann eine Sprachnotiz auf Ihrem Smartphone auf. Da die 3-Sekunden-Belichtung abgeschlossen wurde, reicht ein kurzer Audioclip aus."
-
 ---
 
 "Das Licht ist der Pinsel, der malt, und die Silberplatte das ewige Gefäß, das diesen einen Augenblick bewahrt." 📷

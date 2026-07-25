@@ -21,7 +21,6 @@ faqs:
     answer: "Adormecer quando se está exausto é natural. No entanto, sentar-se à mesa e fazer um breve registro de 5 minutos, como quem escreve um diário, em vez de ficar na cama, ajuda a evitar a sonolência prematura e a inércia do sono."
   - question: "O que devo fazer se a autoculpabilização me mantiver acordado à noite?"
     answer: "Interrompa imediatamente o autoquestionamento se a ruminação emocional começar. Em vez disso, pratique concluir a reflexão após anotar uma opção alternativa como 'O que aconteceu não pode ser desfeito, amanhã farei apenas 1 coisa diferente'."
-
 ---
 
 "Não permita que o sono feche seus olhos antes de ter revisado três vezes as ações do dia." 🌙

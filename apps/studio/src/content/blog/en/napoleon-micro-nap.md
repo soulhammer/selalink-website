@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Did Napoleon actually take naps during active battles?"
     answer: "Yes, according to historical accounts, Napoleon possessed the extraordinary ability to fall asleep instantly even on battlefields with artillery fire roaring, waking up exactly 15 minutes later with a clear mind to issue tactical orders."
-
 ---
 
 Even amid the extreme tension of a battlefield echoing with artillery fire, there was an emperor who completely reset his energy with a brief 15-minute sleep: France's legendary military strategist and emperor, Napoléon Bonaparte (1769–1821). 💤

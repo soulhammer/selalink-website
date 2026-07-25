@@ -21,7 +21,6 @@ faqs:
     answer: "Oui. Écrire comme si vous vous adressiez à quelqu'un qui écoute sans jugement, comme un Théo imaginaire, maximisera la verbalisation sincère et la désintoxication du cerveau."
   - question: "Puis-je utiliser une application de notes numériques au lieu de l'écriture manuscrite ?"
     answer: "Pour la purification émotionnelle, l'écriture manuscrite est beaucoup plus bénéfique car elle stimule le cortex somatosensoriel et calme le cortex préfrontal, un carnet analogique est donc recommandé."
-
 ---
 
 Vincent van Gogh (1853–1890), l'un des plus grands peintres de l'histoire de l'art de la fin du XIXe siècle et pionnier de l'expressionnisme, ne vendit qu'un seul tableau de son vivant dans la pauvreté et l'isolement, mais laissa des chefs-d'œuvre immortels. En tant que maître du postimpressionnisme, il écrivit plus de 660 lettres à son frère Théo pour surmonter sa solitude. Chaque nuit, s'éloignant de sa toile, il allumait une bougie et déversait ses pensées douloureuses sous forme épistolaire pour purifier son esprit.

@@ -21,7 +21,6 @@ faqs:
     answer: "No, grand writing is not required daily. Spending 10 to 20 minutes gazing out the window during transit—letting your mind process thoughts and writing down a single passing insight—is more than enough to activate the brain's Default Mode Network (DMN) and alpha waves."
   - question: "Can I replace paper notebooks with smartphone note apps or voice memos if transit shaking makes writing difficult?"
     answer: "Yes, absolutely. The critical factor is not the physical medium, but blocking high-stimulus digital clutter (short-form videos, social media, games) during transit to provide cognitive breathing room. Offline note apps with notifications disabled or voice recorders serve as excellent modern travel notebooks."
-
 ---
 
 "Travel is a true source of wisdom, and a notebook is the map that preserves it." 📓

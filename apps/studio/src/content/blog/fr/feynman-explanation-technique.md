@@ -21,7 +21,6 @@ faqs:
     answer: "Un enfant réel n'est pas nécessaire. Vous pouvez imaginer un collègue, une peluche sur votre bureau ou utiliser un chatbot IA réglé sur le niveau d'un enfant de 10 ans. L'important est le filtrage : éliminer tout jargon."
   - question: "Est-il normal que les phrases deviennent longues et maladroites en supprimant tout le jargon ?"
     answer: "Oui, c'est tout a fait naturel ! Le fait de traduire un concept en mots simples — même si cela rallonge les phrases — est le processus exact qui optimise la métacognition. Une fois le sujet maîtrisé, vos explications deviendront naturellement concises et limpides."
-
 ---
 
 « Si vous ne pouvez pas l'expliquer simplement, c'est que vous ne l'avez pas assez bien compris. » 📝

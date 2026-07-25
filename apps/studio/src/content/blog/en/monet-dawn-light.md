@@ -21,7 +21,6 @@ faqs:
     answer: "When windows are closed, coatings on modern glass filter out and reflect up to 80% of natural blue and UV light wavelengths essential for brain arousal. To fully stimulate ipRGCs in the retina and suppress melatonin, opening windows completely to receive direct natural sunlight provides far superior physiological benefits."
   - question: "Does dawn observation still work on cloudy or rainy mornings?"
     answer: "Yes. Even on overcast or rainy mornings, natural light penetrating through clouds reaches ground lux levels about 10 times higher than typical indoor artificial lighting. Natural light wavelengths scattered through the atmosphere sufficiently stimulate retinal ganglion cells. Gazing at the sky for 10 minutes on cloudy days yields the same cognitive warm-up benefits."
-
 ---
 
 "Light changes constantly, revealing its pure beauty only to those who gaze upon it." 🎨

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Mengapa Pavarotti secara khusus mencari paku bengkok?"
     answer: "Dalam budaya teater Italia, menemukan paku bengkok di belakang panggung adalah pertanda keberuntungan sejak lama. Ia memulainya sebagai mitos sederhana, namun berkembang menjadi jangkar kognitif wajib yang menyelamatkannya dari demam panggung parah."
-
 ---
 
 "Saya selalu melakukan ritual kecil saya sebelum naik ke atas panggung. Itu satu-satunya cara untuk menaklukkan rasa takut saya." 🚶‍♂️

@@ -21,7 +21,6 @@ faqs:
     answer: "Cognitivamente, 3 años representa el marco temporal ideal para pasar de principiante a comprender el marco de una disciplina ajena sin causar fatiga. Este ritmo de 3 años rompe la inercia intelectual, estimulando la neuroplasticidad y permitiendo la síntesis creativa."
   - question: "Si un compromiso de 3 años parece demasiado largo para profesionales ocupados, ¿cómo se debe empezar?"
     answer: "Además de sus estudios de 3 años, Drucker realizaba intensivos de 3 meses durante el verano, eligiendo un microtema (p. ej., las obras completas de un autor o la economía de un país). Comenzar con un proyecto de 3 meses genera impulso cognitivo antes de pasar a un proyecto de 3 años."
-
 ---
 
 "La primera regla para gestionarse a uno mismo es comprometerse continuamente con el aprendizaje." 📚

@@ -21,7 +21,6 @@ faqs:
     answer: "Hinsichtlich der BDNF-Ausschüttung durch Ausdauertraining ist dies wirksam. Dennoch wird das Gehen im Freien dringend empfohlen, da die Verarbeitung von visuellen Reizen im Freien (Naturlicht, jahreszeitliche Veränderungen, unebene Straßen) die Sehrinde und die synaptischen Netzwerke des Präfrontalkortex im Bereich des Gleichgewichtssinns weitaus stärker aktiviert als eine statische Innenraumumgebung."
   - question: "Hat es die gleiche Wirkung, wenn ich das abendliche Reflexionstagebuch in eine Smartphone-Notizen-App schreibe?"
     answer: "Direktes handschriftliches Schreiben ist viel effektiver. Beim Halten eines Stifts und Schreiben stimulieren die Sinnesrezeptoren in den Fingerspitzen präzise den somatosensorischen Kortex (Somatosensory Cortex) des Gehirns, was die Konzentration fördert und den Einprägungseffekt in den kognitiven Schaltkreisen vervielfacht. Das Tippen auf einer Smartphone-Tastatur ist eine mechanische Eingabe, die das Gehirn weniger stimuliert."
-
 ---
 
 John Quincy Adams, der 6. Präsident der Vereinigten Staaten, der im Anschluss an George Washington und John Adams die Diplomatie und die Grundlagen der jungen Nation festigte, galt zeitlebens als Sinnbild für Pflichtbewusstsein. Wie gelang es ihm, trotz extremer politischer Konflikte und der enormen Last der Präsidentschaft bis ins hohe Alter von über 80 Jahren ein messerscharfes Gedächtnis und eine starke kognitive Leistungsfähigkeit zu bewahren? 🏊‍♂️

@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, como ele investia 100% da sua energia mental pela manhã, reconhecia que sua capacidade cognitiva se esgotava após as 13:00. Acreditando que escrever à tarde reduzia a qualidade, ele reservava as tardes para tarefas mais leves, como ler, caminhar e editar."
   - question: "É possível realizar sessões de Trabalho Profundo à noite em vez da manhã?"
     answer: "Dependendo do ritmo circadiano individual (noturnos), a noite pode ser o horário mais produtivo. O princípio fundamental não reside na hora exata, mas em garantir um bloco contínuo de 2 horas ou mais livre de distrações quando sua energia estiver no auge."
-
 ---
 
 Thomas Mann (1875–1955), autor vencedor do Prêmio Nobel de obras-primas como 'A Montanha Mágica' e 'Os Buddenbrook', é um gigante da história intelectual alemã. Suas narrativas profundas e complexas não nasceram de flashes espontâneos de inspiração, mas de um controle de tempo executado com precisão mecânica. 🕰️

@@ -21,7 +21,6 @@ faqs:
     answer: "If you stressfully force a solution, yes. The key is avoiding active worrying. Simply scan paper materials passively as if reading a bedtime story, then consciously delegate the processing to your subconscious: 'My brain will handle the assembly overnight.' This relaxed mindset prevents sympathetic arousal while establishing priming."
   - question: "Is the routine a failure if a breakthrough idea does not appear immediately upon waking?"
     answer: "Not at all. Neural output from REM consolidation often surfaces with a slight cognitive delay. The solution frequently emerges during relaxed morning activities—such as taking a shower, making coffee, or walking—when prefrontal filters remain loose, allowing the subconscious result to float to conscious awareness."
-
 ---
 
 "We tell ourselves stories in order to live. The right sequence often shapes itself at night, within the quiet mechanics of sleep." 🛏️

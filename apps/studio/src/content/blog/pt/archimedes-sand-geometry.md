@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Alguém que não sabe desenhar pode usar este hábito?"
     answer: "Com certeza. O hábito de esboço de Arquimedes não é um ato de desenho artístico, mas um trabalho cognitivo de posicionar as estruturas de pensamento do cérebro no espaço externo. O simples fato de desenhar círculos ou colocar caixas ao redor do texto e conectá-las com setas como um rabisco alivia significativamente a carga da memória de trabalho, gerando um efeito claro na melhoria da concentração."
-
 ---
 
 "Não pise nas minhas figuras. Não esmague o fluxo do meu pensamento." 📐

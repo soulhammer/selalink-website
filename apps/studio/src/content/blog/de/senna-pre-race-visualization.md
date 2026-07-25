@@ -21,7 +21,6 @@ faqs:
     answer: "Erhöhte Angst entsteht, wenn sich das Gehirn auf negative Szenarien fixiert. Stoppen Sie die Simulation sofort und nutzen Sie sensorisches Erdung (Grounding) – etwa den Fokus auf Ihren Atem oder Handkontakt –, kombiniert mit leichtem Dehnen."
   - question: "Was ist die empfohlene Dauer für jede mentale Probeeinheit?"
     answer: "Eine kurze, intensive Einheit von 3 bis 5 Minuten ist am effektivsten. Da das Arbeitsgedächtnis begrenzt ist, reicht es aus, 5 Minuten vor einer Präsentation nur die Kernprozesse zu simulieren."
-
 ---
 
 "Ich bin diese Kurve in meinem Kopf schon hunderte Male perfekt gefahren. Mein Körper rekreiert nur die Flugbahn."

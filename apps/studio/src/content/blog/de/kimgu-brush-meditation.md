@@ -21,7 +21,6 @@ faqs:
     answer: "Das Ausbalancieren von Druck und Ausrichtung des Pinsels erfordert Feinstmotorik, die den somatosensorischen und präfrontalen Kortex aktiviert. Dies Dämpft die Angstsignale der Amygdala."
   - question: "Kann man dieselben Vorteile auch mit einem Füllfederhalter oder normalen Stift erzielen, wenn man keine Kalligrafie-Pinsel besitzt?"
     answer: "Ja, absolut! Entscheidend ist nicht das Werkzeug, sondern die 'feine Druckdosierung und verlangsamte Bewegung'. Das langsame Schreiben mit einem Füllfederhalter oder Bleistift (Slow Writing) bietet dieselbe beruhigende Wirkung auf das Nervensystem."
-
 ---
 
 "Während ich alle Kraft in der Pinselspitze bündele, um einen Strich zu ziehen, weichen störende Gedanken, und nur eine klare Überzeugung bleibt auf dem Papier zurück." 🖌️

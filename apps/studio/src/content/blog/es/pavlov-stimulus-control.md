@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Cómo puedo crear una zona de bloqueo de estímulos si no tengo un estudio o habitación independiente en casa?"
     answer: "Incluso sin una habitación física, colocar un separador de escritorio o usar auriculares con cancelación de ruido crea una barrera virtual suficiente para bloquear distracciones."
-
 ---
 
 "Estudia los hechos, observa los hechos, acumula los hechos." 🔔

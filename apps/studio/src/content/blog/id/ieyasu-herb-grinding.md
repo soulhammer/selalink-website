@@ -21,7 +21,6 @@ faqs:
     answer: "Gerakan berulang yang dilakukan pada kecepatan konstan menstimulasi sistem serotonin otak, menekan respons ancaman berlebihan di amigdala dan memulihkan kontrol eksekutif rasional di korteks prefrontal."
   - question: "Bagaimana cara mereplikasi rutinitas ini dalam kehidupan sehari-hari jika saya tidak memiliki lumpang?"
     answer: "Memutar penggiling kopi manual pada kecepatan konstan, meremukkan daun teh secara lembut, atau menggesekkan telapak tangan dengan irama yang stabil memberikan manfaat aktivasi serotonin yang identik. Kuncinya adalah mempertahankan tempo yang konsisten."
-
 ---
 
 "Kehidupan manusia seperti membawa beban berat di jalan yang panjang. Jangan terburu-buru. Menumbuk obat herbal dengan lumpang setiap pagi menenangkan napas saya dan menanamkan kesabaran yang dibutuhkan untuk memimpin kerajaan." 🍵

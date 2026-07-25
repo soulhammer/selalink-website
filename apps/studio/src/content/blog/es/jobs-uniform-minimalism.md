@@ -21,7 +21,6 @@ faqs:
     answer: "Jobs eliminó la selección de ropa matutina para evitar la Fatiga de Decisión y conservar la energía de su corteza prefrontal, dedicando el 100% de su capacidad a la gestión de Apple."
   - question: "¿Cuál es una alternativa práctica si vestir un outfit idéntico resulta irrealista?"
     answer: "No necesita usar ropa idéntica. Crear un 'Armario Cápsula' —fijando su paleta de colores a tonos neutros (negro, marino, gris) o limitando sus opciones a 3 partes superiores y 2 inferiores— ofrece los mismos beneficios."
-
 ---
 
 "Cada mañana, el simple hecho de abrir el armario y dudar sobre qué ponerse consume una parte valiosa de la fuerza de voluntad del cerebro. Conservo el 100% de mi capacidad mental exclusivamente para decisiones esenciales." 👕

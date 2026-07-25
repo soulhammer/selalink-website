@@ -21,7 +21,6 @@ faqs:
     answer: "El baño caliente reduce el ritmo cardíaco y activa el sistema parasimpático para activar la DMN, mientras que la masticación rítmica de una manzana envía información sensorial a través del nervio trigémino para estimular suavemente la corteza prefrontal, uniendo relajación y claridad."
   - question: "¿Existe un método alternativo de relajación física para activar la DMN si no tengo bañera?"
     answer: "Sí, por supuesto. Realizar un baño de pies de 15 minutos (a unos 40°C) o aplicar una toalla de vapor en la nuca mejora la circulación. Beber té caliente despacio mientras deja volar su mente activa la DMN con la misma eficacia."
-
 ---
 
 "El mejor moment para planificar un libro es mientras lavas los platos o te sumerges en un baño caliente, comiendo una manzana." 🍏

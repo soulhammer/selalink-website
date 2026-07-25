@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, debe hacerlo. El núcleo de la rutina no es solo acallar el entorno, sino afinar su mentalidad bloqueando notificaciones y declarando el silencio, lo que pausa el procesamiento verbal interno e intensifica el procesamiento visual."
   - question: "¿El habla interna sin vocalización interfiere con la concentración durante los bloques de silencio?"
     answer: "Sí, interfiere. El habla interna consume el bucle fonológico en la memoria de trabajo. En lugar de reprimir el diálogo interno, disperse el procesamiento cerebral hacia áreas no verbales contando respiraciones o enfocándose en la percepción visual."
-
 ---
 
 "Cuando me sumerjo profundamente en la observación sin decir una palabra, las reglas ocultas de la naturaleza y los genes se revelan." 🌽

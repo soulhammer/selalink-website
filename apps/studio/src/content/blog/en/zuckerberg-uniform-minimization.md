@@ -21,7 +21,6 @@ faqs:
     answer: "Mark Zuckerberg wears suits for formal events and board meetings. The core of a uniform habit is eliminating trivial choices, so pre-selecting a designated suit combination for formal occasions allows you to wear it effortlessly without decision fatigue."
   - question: "Can I create a uniform using clothing other than t-shirts and jeans?"
     answer: "Absolutely. Shirts with slacks, one-piece dresses, or any simple combination that feels comfortable and requires zero conscious effort is perfectly fine as long as you purchase multiple identical items."
-
 ---
 
 "I really want to clear my life to make it so that I have to make as few decisions as possible about anything except how to best serve this community." 👕

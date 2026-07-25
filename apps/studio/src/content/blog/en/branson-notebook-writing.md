@@ -21,7 +21,6 @@ faqs:
     answer: "Unlocking a smartphone and locating a notepad app exposes you to notifications, messages, and emails that hijack focus, causing fleeting inspirations to evaporate. In contrast, an analog notebook is instant; the tactile friction and pressure of the pen strongly stimulate the somatosensory cortex and activate the brain's RAS filter."
   - question: "Are there real-world examples where a trivial note in Branson's notebook evolved into a major business success?"
     answer: "Yes. Virgin Atlantic Airways was born from a single notebook entry. When a flight to Puerto Rico was abruptly canceled, Branson wrote: 'Possibility of operating a chartered flight for stranded passengers?' He immediately inquired about charter costs, calculated per-seat rates, and sold one-way tickets to stranded passengers on a chalkboard. That single note sparked a global airline."
-
 ---
 
 "No matter how trivial an idea may seem, if you don't write it down on the spot, it disappears forever. My notebook and pen are the greatest tools I possess." 📓

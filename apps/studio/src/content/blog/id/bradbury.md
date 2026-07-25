@@ -21,7 +21,6 @@ faqs:
     answer: "Melakukan asosiasi kata tepat setelah bangun tidur, saat alam bawah sadar sangat aktif, secara neurologis paling efektif. Namun, mempraktikkannya 3 hingga 4 kali seminggu sudah cukup untuk melatih sirkuit berpikir divergen dan membuka wawasan kreatif."
   - question: "Bagaimana cara mengganti rutinitas ini jika saya tidak memiliki kertas atau kartu kata di sekitar?"
     answer: "Anda dapat mencapai efek asosiasi kognitif yang sama persis dengan membuka halaman buku acak dan memilih 3 kata benda pertama yang terlihat oleh mata Anda, atau dengan menggunakan Random Word Generator online atau aplikasi catatan smartphone."
-
 ---
 
 "Kata-kata adalah ember yang diturunkan ke dalam sumur dalam dari alam bawah sadar saya, menarik kenangan dan narasi." 📝

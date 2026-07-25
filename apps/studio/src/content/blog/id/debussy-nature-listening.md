@@ -21,7 +21,6 @@ faqs:
     answer: "Jika akses luar ruangan terbatas, bukalah jendela di pagi hari untuk berfokus pada angin dan kesunyian, atau gunakan headphone untuk memutar audio Pink Noise $1/f$ berkualitas tinggi (suara hujan, hutan, atau laut) selama 5 menit."
   - question: "Apakah rutinitas ini efektif jika dipraktikkan pada siang hari saat bekerja alih-alih fajar?"
     answer: "Ya, tentu saja. Kapan pun Anda mengalami kelelahan pendengaran atau ketegangan kognitif selama bekerja, mengambil jeda 5 menit untuk mematikan perangkat dan membedakan suara alami secara aktif akan meredakan kelelahan prefrontal dan memulihkan efisiensi kognitif."
-
 ---
 
 "Musik tidak hanya ada pada lembaran musik, musik tersembunyi dalam kesunyian di antara nada dan bisikan angin." 🌊

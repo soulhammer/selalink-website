@@ -21,7 +21,6 @@ faqs:
     answer: "Gerade an solchen Tagen ist diese Routine am wichtigsten. Suchen Sie nicht nach großen Dingen; schreiben Sie einfache physische Fakten wie 'Der Tee war warm' oder 'Ich atme ruhig'. Das Notieren kleiner Sicherheitsindikatoren holt das Gehirn aus dem Krisenmodus."
   - question: "Wie wäre es, das Dankbarkeitstagebuch über Smartphone-Apps oder Social-Media-Posts zu führen?"
     answer: "Beiträge in Apps oder sozialen Medien erzeugen durch das Warten auf Likes und Kommentare Unruhe. Zudem bieten Bildschirme keine echten haptischen Reize. Nur das handschriftliche Schreiben auf Papier schirmt das Gehirn von digitalen Vergleichen ab und sorgt für reine Zufriedenheit."
-
 ---
 
 Oprah Winfrey überwand Armut und Kindheitstraumata, um die erfolgreichste Talkshow-Moderatorin der Geschichte zu werden. Woraus schöpfte sie morgens ihre mentale Stärke? 📝

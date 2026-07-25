@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut! Der neurowissenschaftliche Nutzen liegt nicht in schöner Schrift, sondern in der 'unmittelbaren Verknüpfung von Sensorik und Arbeitsgedächtnis'. Die saubere Überarbeitung kann später erfolgen."
   - question: "Kann man die handschriftliche Dokumentation durch digitale Sprachnachrichten ersetzen?"
     answer: "Sprachaufnahmen eignen sich gut zur Datenerfassung, bieten aber kein graphomotorisches Feedback. Um den kognitiven Nutzen zu maximieren, sollten Sie Sprachnachrichten mit kurzen handschriftlichen Stichwörtern und Pfeilen kombinieren."
-
 ---
 
 "In dieser großen Kette von Ursachen und Wirkungen kann kein einziger Fakt isoliert betrachtet werden. Die Natur ist ein lebendiges Ganzes." 🌿

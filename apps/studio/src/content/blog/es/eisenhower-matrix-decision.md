@@ -21,7 +21,6 @@ faqs:
     answer: "Si todo parece urgente, significa que las demandas externas están anulando sus prioridades. Establezca un bloque estricto de 'No Molestar' durante los primeros 30 minutos de su jornada sin abrir el correo o mensajería, dedicándolo exclusivamente al Cuadrante 2. Asegurar este bloque actúa como catalizador para evitar futuras crisis."
   - question: "¿Cuál es el criterio objetivo para distinguir entre tareas 'Importantes' y 'Urgentes'?"
     answer: "Las 'tareas urgentes' son impulsadas por demandas externas que exigen reacción inmediata (correos, notificaciones, plazos). Por el contrario, las 'tareas importantes' contribuyen a sus objetivos a largo plazo y valores principales. Pregúntese: 'Si no realizo esta tarea, ¿tendrá un impacto significativo en mi vida dentro de un año?' Si la respuesta es sí, es Importante."
-
 ---
 
 "Tengo dos tipos de problemas, los urgentes y los importantes. Los urgentes no son importantes, y los importantes nunca son urgentes." 📊

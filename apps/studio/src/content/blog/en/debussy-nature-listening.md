@@ -21,7 +21,6 @@ faqs:
     answer: "If outdoor access is constrained, open an early morning window to focus on wind and ambient quiet, or use noise-canceling headphones to play high-quality $1/f$ Pink Noise audio (rain, forest, or ocean sounds) for 5 minutes of focused sensory listening."
   - question: "Is this routine effective if practiced during afternoon work hours rather than early dawn?"
     answer: "Yes, absolutely. Whenever you experience auditory fatigue or cognitive strain during work, taking a 5-minute break to silence devices and actively differentiate subtle natural sounds instantly resets prefrontal fatigue and restores cognitive processing efficiency."
-
 ---
 
 "Music is the silence between the notes, hidden within the rustle of leaves and the murmur of wind." 🌊

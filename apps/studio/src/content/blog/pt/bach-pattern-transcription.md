@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "A transcrição por digitação também é eficaz?"
     answer: "A digitação consiste em repetir simples movimentos de pressionar botões igualmente para todas as letras, portanto, seu grau de estimulação na região lógica do lobo parietal é significativamente menor em comparação com a escrita à mão analógica, onde você desenha as trajetórias das letras à mão e controla a pressão da caneta."
-
 ---
 
 Johann Sebastian Bach, chamado de 'Pai da Música', aperfeiçoou o contraponto e a harmonia barroca, tornando-se uma bússola para todos os músicos ocidentais como Beethoven e Mozart. Dentro de suas complexas e matemáticas conexões harmônicas jaz uma estrutura lógica surpreendentemente intrincada. Essa genial lógica contrapontística originou-se não apenas do talento inato, mas de uma rotina intelectual mantida ao longo de toda a vida. ✍️

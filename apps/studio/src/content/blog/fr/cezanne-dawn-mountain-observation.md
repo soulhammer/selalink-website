@@ -21,7 +21,6 @@ faqs:
     answer: "Même par temps couvert, l'intensité lumineuse extérieure oscille entre 1 000 et 2 000 lux — bien plus vive que l'éclairage intérieur (300 à 500 lux). Ainsi, marcher dehors par temps gris suffit à réprimer la mélatonine. En cas de forte pollution, remplacez la sortie par une observation depuis une fenêtre."
   - question: "Les travailleurs du savoir non-artistes peuvent-ils bénéficier de la routine d'observation de Cézanne ?"
     answer: "Oui, tout à fait. L'alignement du rythme circadien par la lumière naturelle élimine la fatigue préfrontale et améliore la fonction exécutive, quel que soit le métier. De plus, l'observation intentionnelle des formes géométriques et des contrastes augmente la capacité de la mémoire de travail visuo-spatiale."
-
 ---
 
 « Un peintre ne doit pas simplement regarder les objets ; il doit les ressentir avec son corps tout entier, les reconstruire dans son cerveau et les exprimer sur la toile. » 🎨

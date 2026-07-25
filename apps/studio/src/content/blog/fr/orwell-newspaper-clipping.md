@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, les articles rassemblés par George Orwell, les copies de ses cahiers de coupures et ses notes de travail sont conservés comme précieux archives historiques à l'University College de Londres (UCL)."
   - question: "Quelles applications sont recommandées pour pratiquer cette routine de découpage au format numérique ?"
     answer: "Nous recommandons Notion, Obsidian et Evernote pour capturer le texte, surligner et annoter facilement, ainsi que des applications spécialisées comme Pocket et Raindrop.io."
-
 ---
 
 "Si la liberté veut dire quelque chose, c'est le droit de dire aux gens ce qu'ils n'ont pas envie d'entendre." 📰

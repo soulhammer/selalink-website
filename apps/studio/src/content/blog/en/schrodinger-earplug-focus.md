@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "What if absolute silence actually distracts me or causes anxiety?"
     answer: "For beginners uncomfortable with total silence, start by playing white noise (rain, ocean waves) or simple pink noise without lyrics to help your brain gradually adapt through cognitive framing."
-
 ---
 
 "The present is the outcome of the past, and the cause of the future."

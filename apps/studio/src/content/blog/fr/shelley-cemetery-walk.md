@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Pourquoi Mary Shelley a-t-elle choisi spécifiquement la tombe de sa mère ?"
     answer: "Sa mère est morte juste après lui avoir donné naissance. La tombe était son seul lien physique avec elle. S'y recueillir lui permettait de méditer sur la naissance, la mort et l'identité, thèmes clés de Frankenstein."
-
 ---
 
 "La solitude est ma compagne la plus chère, la matrice secrète où naît l'imagination."

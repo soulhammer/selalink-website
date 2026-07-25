@@ -21,7 +21,6 @@ faqs:
     answer: "Essa é uma reação totalmente natural. Nas primeiras sessões, os instintos de avaliação se ativam facilmente. Em vez de examinar todo o rosto, fixe sua atenção apenas nas pupilas. Concentre-se em conectar com o centro da sua consciência em vez de analisar traços faciais."
   - question: "A observação no espelho é terapeuticamente eficaz mesmo se eu não pintar autorretratos?"
     answer: "Sim, com certeza! Para Frida Kahlo, pintar era uma ferramenta para exteriorizar a auto-observação do espelho. Dedicar 5 minutos por dia a manter um contato visual compassivo com seu reflexo garante os mesmos benefícios de autoaceitação e resiliência sem precisar pintar."
-
 ---
 
 "Pinto a mim mesma porque estou frequentemente sozinha e porque sou a pessoa que melhor conheço." 🎨

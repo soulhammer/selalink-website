@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, tentu saja! Jadwalkan 2 hingga 3 blok khusus 'Penanganan Darurat & Pemrosesan Pesan' di hari Anda. Fokus tanpa gangguan selama blok deep-work, dan selesaikan permintaan mendadak selama blok pemrosesan."
   - question: "Bagaimana cara mengatasi rasa bersalah saat gagal mematuhi jadwal secara ketat?"
     answer: "Pengalokasian waktu adalah peta panduan, bukan penjara yang kaku. Yang terpenting adalah fokus pada tugas tunggal selama blok aktif, bukan eksekusi tanpa cela. Ketika jadwal melenceng, gunakan Fleksibilitas Kognitif."
-
 ---
 
 "Dengan menetapkan jam kerja dan aturan yang pasti, seseorang sepenuhnya menguasai hidupnya. Dengan almanak dan jam, orang di jarak tiga ratus mil dapat mengetahui apa yang sedang dilakukan raja." 👑

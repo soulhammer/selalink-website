@@ -21,7 +21,6 @@ faqs:
     answer: "Os testes automatizados detectam erros lógicos, mas não captam desequilíbrios visuais ou imperfeições de layout. Uma inspeção humana de 5 minutos dá o toque final necessário para a perfeição."
   - question: "O que fazer se as inspeções matinais causarem atrasos no trabalho?"
     answer: "Limite a sessão estritamente a 5 minutos usando um temporizador. Verificar apenas três pontos críticos de alto risco nesses 5 minutos previne mais de 95% dos acidentes graves."
-
 ---
 
 Johannes Gutenberg (c. 1400–1468) foi o ourives e inventor alemão que quebrou o monopólio do conhecimento ao introduzir a imprensa de tipos móveis na Europa. Combinando uma liga de chumbo, estanho e antimônio com tinta à base de óleo e uma prensa de parafuso, Gutenberg imprimiu a histórica Bíblia de 42 Linhas em 1455. Produzir essa obra-prima exigia precisão submilimétrica e extrema concentração sensorial. 🔠

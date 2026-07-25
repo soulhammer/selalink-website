@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, benar sekali. Biografi historis mengonfirmasi bahwa Haydn menolak duduk di keyboard-nya tanpa mengenakan pakaian istana lengkap, wig berbedak, dan cincin kerajaannya. Ia mempertahankan pandangan bahwa pakaian lusuh melahirkan pemikiran musik yang tidak teratur."
   - question: "Apakah pakaian kerja dari rumah harus berupa setelan formal yang kaku, atau apakah pakaian luar yang nyaman juga efektif?"
     answer: "Setelan kaku atau tuksedo tidak diperlukan. Mekanisme utamanya terletak pada memisahkan secara fisik 'pakaian tidur/istirahat' dari 'pakaian kerja'. Cukup berganti ke kemeja rapi atau celana kain sudah cukup untuk mengaktifkan Enclothed Cognition."
-
 ---
 
 "Karya seni mencapai kesempurnaan hanya jika didukung oleh keteraturan dan ketekunan. Pakaian yang berantakan hanya menghasilkan ide-ide musik yang berantakan." 🚶‍♂️

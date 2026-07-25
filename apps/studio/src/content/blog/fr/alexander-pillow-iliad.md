@@ -21,7 +21,6 @@ faqs:
     answer: "La fiction légère offre également un effet de refroidissement qui soulage le stress cérébral, mais pour obtenir un effet de « motivation orientée sur les valeurs » qui aligne l'identité personnelle et stimule la volonté d'exécution comme la routine d'Alexandre, il est bien préférable de choisir des épopées classiques, des livres de philosophie ou des biographies d'illustres personnages qui apportent une résonance et une réflexion intérieures."
   - question: "Est-il possible de lire des livres sur une liseuse numérique en étant allongé ?"
     answer: "Les écrans de liseuses ou de tablettes comportent un risque élevé de réprimer la sécrétion de mélatonine, car les émissions lumineuses amènent le cerveau à confondre la nuit et le jour. Pour des résultats optimaux dans l'alignement subconscient et un sommeil profond, il est recommandé de lire un livre papier physique en tournant directement les pages à la main sous une lumière douce autant que possible."
-
 ---
 
 « Rien n'est impossible à celui qui essaie. » ⚔️

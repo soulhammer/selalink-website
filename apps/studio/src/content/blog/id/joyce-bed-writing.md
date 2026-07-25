@@ -21,7 +21,6 @@ faqs:
     answer: "Jubah putih berfungsi sebagai pemantul cahaya alami, memantulkan cahaya ruangan langsung ke kertas naskahnya tanpa silau yang keras. Ini berfungsi sebagai alat bantu pencahayaan analog yang memungkinkan retinanya melihat kata-kata tertulis dengan jelas."
   - question: "Apakah bekerja sambil berbaring di tempat tidur atau sofa tidak menyebabkan kantuk?"
     answer: "Untuk mencegah tertidur, hindari berbaring terlalu datar. Sandarkan tubuh bagian atas Anda pada sudut 30 hingga 45 derajat menggunakan bantal penopang, dan bekerjalah dalam sesi ideasi singkat selama 20 menit."
-
 ---
 
 "Sastra adalah perjuangan indah untuk menguji batas-batas jiwa dan mengatasi hambatan tubuh." ✍️

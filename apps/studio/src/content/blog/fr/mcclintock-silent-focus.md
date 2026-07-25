@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, c'est indispensable. L'essentiel n'est pas seulement le calme extérieur, mais la préparation mentale en coupant les notifications et en décrétant le silence, ce qui met en pause la zone du langage pour amplifier l'attention visuelle."
   - question: "Un dialogue intérieur sans vocalisation perturbe-t-il la concentration pendant les séances de silence ?"
     answer: "Oui, cela perturbe l'attention. Le dialogue intérieur consomme la boucle phonologique de la mémoire de travail. Plutôt que de le réprimer, réorientez l'activité cérébrale vers des zones non verbales en comptant vos respirations."
-
 ---
 
 « Lorsque je m'immerge profondément dans l'observation sans dire un mot, les règles cachées de la nature et des gènes se révèlent d'elles-mêmes. » 🌽

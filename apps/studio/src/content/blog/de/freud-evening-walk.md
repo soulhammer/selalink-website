@@ -21,7 +21,6 @@ faqs:
     answer: "Ja. Die bilaterale Stimulation tritt zu jeder Tageszeit auf. Während ein Spaziergang am Morgen die Wachheit fördert, baut Freuds abendlicher Spaziergang den über den Tag angesammelten mentalen Ballast und emotionalen Stress ab. Wählen Sie den Zeitpunkt passend zu Ihrem Stressprofil."
   - question: "Kann ich das Unbewusstseins-Journal auch auf dem Smartphone oder der Tastatur tippen?"
     answer: "Das Tippen versetzt das Gehirn durch den Bildschirm sofort wieder in einen logischen Arbeitsmodus. Das Schreiben mit dem Stift auf Papier aktiviert hingegen über die Feinmotorik der Finger das retikuläre Aktivierungssystem (RAS) des Gehirns viel stärker. Handschrift ist ideal, um unbewusste Gedanken hervorzuholen."
-
 ---
 
 "Der Mensch ist wie ein Eisberg; er schwimmt mit einem Siebtel seines Volumens über dem Wasser." 🧠

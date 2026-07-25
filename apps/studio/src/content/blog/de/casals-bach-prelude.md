@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut. Obwohl das Spielen eines Instruments zusätzlich den motorischen Kortex stimuliert, erzeugt aktives Zuhören – Augen schließen und sich den Klangtexturen hingeben – dasselbe Alphawellen-Entrainment. Der Schlüssel liegt darin, Musik nicht als Hintergrundgeräusch zu behandeln, sondern sich 10 Minuten lang vollkommen auf die klanglichen Nuancen zu konzentrieren."
   - question: "Ist das Tragen von Kopfhörern beim morgendlichen Hören klassischer Musik effektiver?"
     answer: "Ja, das Tragen von Kopfhörern bietet eine akustische Isolation, die Umgebungsgeräusche blockiert und dem Gehirn die Konzentration erleichtert. Die direkte Übertragung von Stereosignalen an beide Ohren belegt zudem die Kanäle des auditiven Kortex, verhindert störende Gedanken und beschleunigt den Alphawellen-Zustand."
-
 ---
 
 "Es ist eine Wiederentdeckung der Welt, an der teilzuhaben ich das Glück habe. Es erfüllt mich mit dem Bewusstsein für das Wunder des Lebens." 🎹

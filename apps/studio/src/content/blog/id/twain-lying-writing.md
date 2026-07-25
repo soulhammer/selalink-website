@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah bekerja di tempat tidur tidak membuat mengantuk atau malas?"
     answer: "Bisa saja. Oleh karena itu, rutinitas ini bukan sekadar berbaring, melainkan mempertahankan kondisi 'relaksasi yang terjaga' dengan menopang tubuh bagian atas secara kokoh menggunakan bantal. Selain itu, penting untuk menetapkan waktu kerja terfokus dengan memblokir total gangguan seperti smartphone."
-
 ---
 
 "Bagi saya, tempat tidur adalah laboratorium dan bengkel kreatif terbaik di dunia." 🛌

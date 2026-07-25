@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, passer en revue à voix haute les priorités du planning 30 minutes avant de commencer un travail intense active de manière proactive le contrôle exécutif préfrontal."
   - question: "Comment puis-je le remplacer si je ne dispose pas d'un tableau de notes dédié ?"
     answer: "Il suffit de réciter à voix haute les 3 tâches principales de la journée notées dans votre carnet dans une pièce calme."
-
 ---
 
 Margaret Thatcher, première femme Première ministre de Grande-Bretagne, connue sous le nom de 'Dame de Fer', a mené de fermes réformes conservatrices et une restructuration économique pour sortir le pays de la stagnation. Chaque nuit jusqu'à 2 heures du matin, elle lisait attentivement des centaines de pages de rapports officiels dans son bureau. Munie d'un surligneur jaune, elle ignorait la rhétorique bureaucratique pour se concentrer sur trois axes : la faisabilité, le budget et les aspects juridiques. Cette routine nocturne a forgé son leadership décisionnel.

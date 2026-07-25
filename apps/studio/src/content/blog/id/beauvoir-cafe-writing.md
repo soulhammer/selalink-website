@@ -21,7 +21,6 @@ faqs:
     answer: "Selama cuaca dingin yang parah di Paris tahun 1940-an, Café de Flore menjaga pemanas ruangan tetap hangat dan menawarkan suasana ramah seniman di mana kaum intelektual dapat bertahan berjam-jam tanpa tekanan, menjadikannya ruang kreasi yang ideal."
   - question: "Apakah saya dapat menerapkan Skrip Kognitif yang serupa di lingkungan rumah atau kerja jarak jauh?"
     answer: "Ya, tentu saja. Anda dapat memicu efek pengalihan kognitif yang sama di rumah hanya dengan menyalakan lampu meja khusus di sudut tertentu, menggunakan cangkir khusus fokus, dan memutar trek white noise 50-60 dB."
-
 ---
 
 "Pada pukul 10 pagi, saya akan pergi ke Café de Flore. Di atas meja kecil itu, pikiran saya akhirnya mulai terbentuk." ☕

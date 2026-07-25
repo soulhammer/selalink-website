@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Devo praticar este hábito todos os dias?"
     answer: "Sim, praticar em um horário fixo todos os dias maximiza a neuroplasticidade do cérebro. Executar isso de forma consistente todos os dias em um horário e local fixos para fortalecer os circuitos de neuroplasticidade (Neuroplasticity) do cérebro é a chave mais confiável para o sucesso."
-
 ---
 
 "Para dominar a natureza, é preciso obedecer-lhe." 🌿

@@ -21,7 +21,6 @@ faqs:
     answer: "C'est une réaction tout à fait normale. Ne forcez pas les sphères 3D HD ; commencez par maintenir une forme 2D simple, comme un carré orange ou un triangle blanc, immobile pendant 3 secondes."
   - question: "Le renforcement de cette capacité de calpin mental aide-t-il à organiser des flux de travail complexes et à fixer des priorités ?"
     answer: "Oui ! Vous pouvez projeter mentalement 5 cartes de tâches, les ajuster en taille et couleur selon leur importance et les réorganiser intuitivement, ce qui affine fortement votre intuition organisationnelle."
-
 ---
 
 Stephen Hawking (1942–2018), l'un des plus grands physiciens théoriciens du XXe siècle. Atteint de la maladie de Charcot (SLA) dès sa jeunesse et totalement paralysé, il a néanmoins révolutionné la cosmologie avec la théorie du rayonnement de Hawking.

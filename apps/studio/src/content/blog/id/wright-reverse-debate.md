@@ -21,7 +21,6 @@ faqs:
     answer: "Tentu saja. Tuliskan 'Argumen Saya' di kertas dan jalankan dua peran dengan menulis laporan kritik sebagai 'Devil's Advocate' seolah-olah Anda adalah kompetitor paling ketat bagi diri sendiri."
   - question: "Bagaimana cara melakukan debat terbalik tanpa menyakiti perasaan rekan?"
     answer: "Sebelum mulai, sepakati aturan secara jelas: 'Kita sedang menerapkan Metode Debat Terbalik Wright bersaudara.' Memperjelas bahwa ini adalah latihan terstruktur dan bukan serangan pribadi akan mencegah gesekan emosional."
-
 ---
 
 "Kami berdebat tanpa henti. Dan dengan membalikkan logika satu sama lain secara total, kami akhirnya mencapai solusi." ✈️

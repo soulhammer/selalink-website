@@ -21,7 +21,6 @@ faqs:
     answer: "Yes. Mild cutaneous cold exposure enhances autonomic nervous system flexibility. By triggering norepinephrine release, it eliminates morning brain fog and sharpens prefrontal executive control."
   - question: "How should I safely practice an Air Bath during freezing winter months?"
     answer: "In winter, prolonged nudity near open windows is unsafe. Instead, practice a 'Mini Air Bath': crack windows open for 1 to 2 minutes to circulate fresh air, then close them and enjoy gentle skin exposure in the cooled indoor room for 3 to 5 minutes."
-
 ---
 
 "I rise early almost every morning, and sit in my chamber without any clothes whatever, half an hour or an hour... This I call my Air Bath." 💨

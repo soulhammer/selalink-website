@@ -21,7 +21,6 @@ faqs:
     answer: "Das ist völlig in Ordnung. In diesen 2 Minuten Schreibzeit wurde die Theta-Wellen-Erfassung bereits erfolgreich abgeschlossen. Trinken Sie danach etwas Wasser oder dehnen Sie sich, um dem Gehirn Aufwachsignale zu geben."
   - question: "Was soll ich tun, wenn mir direkt nach dem Aufwachen gar nichts einfällt?"
     answer: "Wenn Ihnen nichts einfällt, schreiben Sie einfach dreimal Wörter wie 'ich bin müde' oder 'keine Gedanken' auf. Es reicht völlig aus, die Startreibung zwischen Stift und Gehirn zu überwinden."
-
 ---
 
 Franz Schubert, der geniale österreichische Komponist der Romantik des 19. Jahrhunderts und als König der Lieder (Liederfürst) verehrt, schuf in seinem kurzen Leben von 31 Jahren über 600 großartige, lyrische Lieder und Symphonien. Jeden Morgen, sobald er die Augen öffnete, ging er mit aufgesetzter Brille direkt an seinen Komponiertisch neben dem Bett und begann, Noten auf das Notenblatt zu schreiben. Um den Faden des musikalischen Unbewussten aus dem Halbschlaf nicht zu verlieren, schlief er sogar mit Brille. Diese Sofort-Schreibroutine, die jegliche Reibung zwischen Aufwachen und Arbeitsbeginn eliminierte, war die Kraft, die ihn zu einem unsterblichen Komponisten machte.

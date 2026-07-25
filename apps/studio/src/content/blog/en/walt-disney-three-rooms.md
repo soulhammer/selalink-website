@@ -21,7 +21,6 @@ faqs:
     answer: "It is most effective to change physical spaces to induce a reset. If circumstances require using a single space, it is good to provide cognitive differentiation to the brain by changing whiteboard marker colors, rearranging seats, or using different writing tools (e.g., colorful colored pencils for the Dreamer stage, black ballpoint pens for the Critic stage)."
   - question: "What should be done if criticism during the Critic stage is so excessive that the idea gets completely discarded?"
     answer: "The Critic's objective must be 'complement and improvement,' not discarding the idea. The critique phase must not end with 'This idea is impossible,' but rather approach with 'What risk factors must be modified to make this idea work?', adding realistic alternatives through constructive tuning."
-
 ---
 
 "If you can dream it, you can do it." 🏰

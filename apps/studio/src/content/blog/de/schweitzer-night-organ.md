@@ -21,7 +21,6 @@ faqs:
     answer: "Musik mit Gesang reaktiviert die Sprachverarbeitungszentren des Gehirns und stört die Erholung. Reine Instrumentalmusik (Klassik, Jazz, Lo-Fi) ist für die vegetative Entspannung viel wirksamer."
   - question: "Hilft es, beim Musik-Hören einzuschlafen?"
     answer: "Stellen Sie am besten einen Timer für 15–30 Minuten ein. Spielt die Musik die ganze Nacht, kann sich die Hörrinde im Schlaf nicht vollständig erholen."
-
 ---
 
 Dr. Albert Schweitzer war Friedensnobelpreisträger, hingebungsvoller Arzt, Philosoph und weltweit anerkannter Bach-Experte. Wie überwand er täglich die extreme körperliche und geistige Erschöpfung bei der Krankenpflege im heißen, feuchten Dschungel von Lambaréné, Gabun?

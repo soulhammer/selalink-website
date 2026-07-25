@@ -21,7 +21,6 @@ faqs:
     answer: "Non, les personnes souffrant de troubles des disques cervicaux ou thoraciques doivent éviter le poirier traditionnel où la tête supporte directement le poids du corps. À la place, vous pouvez obtenir un effet d'inversion sanguine sûr et sans contrainte sur les disques en vous allongeant sur le dos, fesses contre un mur et jambes dressées à la verticale, ou en plaçant un coussin sous votre bassin tout en élevant les jambes."
   - question: "Quel est le moment le plus approprié de la journée pour pratiquer le poirier ?"
     answer: "Le matin à jeun ou juste avant de commencer le travail est le moment idéal. La posture inversée du matin fournit instantanément de l'oxygène aux cellules cérébrales engourdies, clarifiant l'esprit et dissipant le sommeil. Cependant, évitez de la pratiquer dans les 2 heures suivant un repas, car l'inversion après l'ingestion de nourriture peut causer des indigestions."
-
 ---
 
 Jawaharlal Nehru (1889–1964), qui a mené la lutte pour l'indépendance non violente de l'Inde aux côtés de Mahatma Gandhi et fut son premier Premier ministre fondateur pour établir les bases solides de l'Inde moderne. Symbole d'élégance vestimentaire et d'une noble intelligence, il a pourtant traversé de longues et froides périodes d'isolement carcéral tout au long de sa vie. 🧘

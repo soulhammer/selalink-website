@@ -21,7 +21,6 @@ faqs:
     answer: "Dados que não mostram um padrão imediato servem para filtrar o ruído. Quando os dados se acumulam por mais de 30 dias, o córtex pré-frontal sintetiza conexões e revela padrões ocultos automaticamente."
   - question: "Trabalhadores de escritório modernos ou profissionais de outras áreas podem realizar rastreamentos de campo como Jenner?"
     answer: "Sim, com certeza! Analisar avaliações de usuários, chamados de suporte, métricas do Google Analytics ou reações da equipe interna representam o 'campo' ideal para trabalhadores modernos."
-
 ---
 
 "Uma verdadeira descoberta científica não floresce de uma intuição momentânea, mas sobre um diário de observação honesto acumulado ao longo de anos de registro de fatos." 🩺

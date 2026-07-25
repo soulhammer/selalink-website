@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Que faire si mon esprit s'égare vers des pensées parasites pendant la réflexion ?"
     answer: "C'est tout à fait naturel au début de l'entraînement. Lorsque des pensées parasites surviennent, ne les réprimez pas ; fixez le panneau 'THINK' et ramenez doucement votre esprit sur le sujet principal."
-
 ---
 
 « Tous les problèmes du monde pourraient être résolus facilement si les hommes étaient prêts à réfléchir. » 💡

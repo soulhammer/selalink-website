@@ -21,7 +21,6 @@ faqs:
     answer: "De ninguna manera. Cuando las metas son demasiado grandes, el miedo a empezar provoca procrastinación, resultando en cero trabajo. Iniciar la acción diaria con un objetivo ultrapequeño se acumula en un año en más de 700 páginas, logrando de dos a tres guiones completos."
   - question: "¿Puedo aplicar esta rutina de 2 páginas al trabajo de oficina, programación o estudio de exámenes?"
     answer: "¡Sí, totalmente! La clave no es la cifra literal de '2 páginas', sino reducir la tarea a una micro-unidad tan pequeña que no active la alarma de la amígdala. Practicar 'escribir 1 párrafo de un informe' o 'leer 2 páginas de un libro' ofrece los mismos beneficios."
-
 ---
 
 "No intentes escribir una gran obra maestra de golpe. Concéntrate únicamente en la regla de completar 2 páginas cada día. Si escribes 2 páginas diarias durante un año, superarás las 700 páginas, suficiente para dos o tres guiones completos." 🎬

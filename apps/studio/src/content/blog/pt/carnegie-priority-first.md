@@ -21,7 +21,6 @@ faqs:
     answer: "A menos que enfrente uma crise organizacional grave, a maioria das mensagens 'aparentemente urgentes' pode esperar de 1 a 2 horas sem consequências. Para proteger seus recursos pré-frontais, defenda pelo menos um 'Bloco de Fortaleza Pré-Frontal' de 1 hora todas as manhãs."
   - question: "Como aplico esta rotina se a tarefa mais difícil for grande demais para ser concluída em um único dia?"
     answer: "Quando um projeto é muito grande, o cérebro experimenta respostas de ameaça e busca evasão antes de começar. Nesses casos, divida o projeto em 'subunidades executáveis em 1 hora matinal' e enfrente essa subunidade como meta."
-
 ---
 
 "Realize a tarefa mais difícil do dia primeiro. Essa é a única lei da minha produtividade empresarial." 🏗️

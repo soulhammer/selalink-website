@@ -21,7 +21,6 @@ faqs:
     answer: "Attempting to ignore or bury mistakes actually prolongs neural anxiety and discomfort. Conversely, writing down dispassionate factual data regarding why the error occurred signals to the brain that you have regained 'agency and control' over the situation, lowering anxiety and reigniting motivation."
   - question: "Are there specific brain training exercises to better capture serendipitous discoveries?"
     answer: "Introducing subtle micro-variations into your daily routines helps significantly. Taking an unfamiliar path during walks or working in a novel environment injects controlled 'micro-noise' into daily life. This stimulates the Frontoparietal Attention Network, enhancing your ability to notice unexpected connections."
-
 ---
 
 "When chance observation encounters a prepared mind, revolutionary discovery is born." 🧫

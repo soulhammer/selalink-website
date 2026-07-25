@@ -21,7 +21,6 @@ faqs:
     answer: "Informieren Sie Ihr Team über Abwesenheitsnotizen oder Statusmeldungen. Ein deutlicher Hinweis ('Um mich auf Projektarbeiten zu konzentrieren, lese ich E-Mails zweimal täglich um 11:00 und 16:00 Uhr. In dringenden Fällen rufen Sie bitte an') schafft Klarheit und schützt Ihre Arbeitszeit."
   - question: "Lässt sich Knuths E-Mail-Verzicht auch von normalen Angestellten im Berufsalltag umsetzen?"
     answer: "Ja, absolut! Das neurobiologische Prinzip gilt für jeden. Sie müssen E-Mails nicht komplett aufgeben; es reicht aus, täglich 1 bis 2 Stunden im 'Nicht-Stören-Modus' als Deep-Work-Phase zu reservieren, um Kontextwechsel zu reduzieren und die Konzentration zu schützen."
-
 ---
 
 "Ich bin ein glücklicher Mensch, seit ich am 1. Januar 1990 aufgehört habe, E-Mails zu nutzen... Meine Arbeit erfordert stundenlanges Studium und ununterbrochene Konzentration. Meine Aufgabe ist es, ruhig nachzudenken." ✉️

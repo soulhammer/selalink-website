@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Consommer du café tard le soir ou tôt le matin perturbe-t-il le sommeil ?"
     answer: "Oui, cela peut détériorer la qualité du sommeil. Le mode de vie de Balzac consistant à se réveiller à minuit étant inadapté aux individus modernes, si vous êtes sensible à la caféine, remplacez-la par du café décaféiné ou une tisane chaude, et planifiez vos blocs de focalisation juste après le travail ou tôt le matin avant de partir travailler."
-
 ---
 
 « Dès que le café est dans votre estomac, c'est une agitation générale. Les idées commencent à s'ébranler comme les bataillons de la grande armée. » ☕

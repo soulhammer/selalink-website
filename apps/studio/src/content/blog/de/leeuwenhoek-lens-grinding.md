@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, sie ist außerordentlich wirksam! Die Verbindung von feiner Handmotorik und visueller Konzentration beruhigt die Amygdala und Stressnetzwerke, Dämpft Unruhe und stellt die Ausgeglichenheit wieder her."
   - question: "Wie oft und zu welcher Tageszeit sollte man diese Mikro-Fokus-Routine anwenden?"
     answer: "Ideal ist eine tägliche Anwendung von etwa 20 Minuten. Die Routine eignet sich als kognitives Aufwärmen vor anspruchsvollen Aufgaben oder als Reset für den präfrontalen Kortex nach anstrengenden Arbeitsphasen."
-
 ---
 
 "Meine Arbeit diente nicht dem Streben nach Ruhm oder Reichtum, sondern dem Verlangen nach Erkenntnis der mikroskopischen Schöpfung." 🔍

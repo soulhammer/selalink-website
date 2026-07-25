@@ -21,7 +21,6 @@ faqs:
     answer: "Di Inggris abad ke-19, penulis wanita sangat jarang mendapatkan ruang kerja mandiri. Austen juga harus menulis di ruang tamu bersama, sehingga ia memanfaatkan pintu yang berderit untuk menyadari kedatangan keluarga secara mendadak dan mengulur waktu untuk menyembunyikan naskahnya."
   - question: "Bagaimana metode ini dapat diterapkan dalam lingkungan digital modern?"
     answer: "Dengan mengatur status pesan menjadi 'Jangan Ganggu' atau 'Dalam Panggilan' untuk memblokir masuknya notifikasi luar secara langsung, dan menyesuaikan alat komunikasi penting agar memberikan notifikasi hanya pada interval waktu yang ditentukan, Anda dapat mengontrol gangguan kognitif yang tidak terduga."
-
 ---
 
 "Deritan pintu adalah alarm paling pasti yang melindungi fokus saya." 🚪

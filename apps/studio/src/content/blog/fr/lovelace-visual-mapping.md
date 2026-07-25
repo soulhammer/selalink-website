@@ -21,7 +21,6 @@ faqs:
     answer: "Les cartes mentales favorisent le remue-méninges libre. La cartographie de Lovelace modélise la logique opérationnelle : flux de données, boucles de contrôle et liens de cause à effet."
   - question: "Faut-il utiliser des logiciels complexes comme UML ou Figma ?"
     answer: "Non ! Se concentrer sur l'interface d'un logiciel gaspille des ressources cognitives. Le dessin analogique sur papier ou tableau active le double codage bien plus directement."
-
 ---
 
 "C'est en projetant visuellement les liens organiques cachés entre les notions que je contemple la véritable beauté des mathématiques." 📊

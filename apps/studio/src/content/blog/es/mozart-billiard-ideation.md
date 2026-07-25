@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Los juegos habituales de smartphone producen el mismo efecto de cambio?"
     answer: "Los juegos móviles con texto abundante, redes sociales o estímulos intensos sobrecargan otras áreas de la corteza prefrontal, aumentando la fatiga cognitiva. Para obtener los beneficios de la DMN, los juegos analógicos simples o las simulaciones físicas con trayectorias geométricas son mucho más efectivos."
-
 ---
 
 Wolfgang Amadeus Mozart (1756-1791) fue un genio sin precedentes en la historia de la música clásica, capaz de redactar sinfonías y óperas perfectas en manuscritos fluidos sin una sola corrección. Detrás de su milagrosa creatividad residía un hábito diario único que liberaba su cerebro de la obsesión artística. 🎱

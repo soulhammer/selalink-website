@@ -21,7 +21,6 @@ faqs:
     answer: "Absolut. Schreiben Sie Ihre These auf und verfassen Sie in der Rolle des 'Devil's Advocate' einen kritischen Bericht, als wären Sie Ihr eigener schärfster Konkurrent."
   - question: "Wie führt man ein Umkehr-Debattieren durch, ohne die Gefühle des anderen zu verletzen?"
     answer: "Vereinbaren Sie vorab ausdrücklich: 'Wir wenden jetzt das Umkehr-Debattieren der Brüder Wright an.' Das Klarstellen, dass es sich um eine Methode und keinen persönlichen Angriff handelt, verhindert emotionale Konflikte."
-
 ---
 
 "Wir haben endlos debattiert. Und indem wir die Logik des anderen völlig umkehrten, gelangten wir schließlich zur Lösung." ✈️

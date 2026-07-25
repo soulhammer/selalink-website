@@ -21,7 +21,6 @@ faqs:
     answer: "Como hablar alto en público es inconveniente, adopte un 'sub-suspiro' o susurro bajo, articulando las palabras con los labios y la lengua. Mover los órganos de articulación activa la corteza motora en comparación con la lectura silenciosa, detectando errores."
   - question: "¿Es efectiva la recitación para propuestas de negocios o informes no literarios?"
     answer: "Sí, de manera extraordinaria. La sintaxis incómoda, las conjunciones mal ubicadas y las frases largas en informes provocan tropiezos al recitar. La recitación actúa como un filtro de precisión para pulir la legibilidad y la persuasión."
-
 ---
 
 "Si el ritmo musical de una frase no está logrado, la idea en sí aún no se ha asentado. La buena prosa debe fluir con cadencia y armonía como la gran poesía." ✍️

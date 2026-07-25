@@ -21,7 +21,6 @@ faqs:
     answer: "Das ist völlig in Ordnung. Es ist kein Misserfolg, sondern der Beweis, dass Sie Ihre Energie auf ein wirkungsvolles, gewichtiges Projekt konzentriert haben. Übertragen Sie das unerledigte Element einfach als Aufgabe Nr. 1 für morgen früh, wenn Ihr Präfrontalkortex am frischesten ist."
   - question: "Welche modernen Übungsalternativen gibt es zum morgendlichen Reiten?"
     answer: "15 Minuten Joggen, Heimtrainer-Fahren, Kettlebell-Swings, Tabata-Dehnung oder zügiges Gehen bieten genau denselben neurophysiologischen Effekt der Steigerung der Gehirndurchblutung und der Ausschüttung von BDNF und Dopamin."
-
 ---
 
 "Politik ist die Kunst des Möglichen, und um die besten Entscheidungen zu treffen, muss man den klärsten Moment des Gehirns ergreifen." 🐎

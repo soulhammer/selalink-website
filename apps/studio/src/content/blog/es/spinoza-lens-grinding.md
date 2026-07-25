@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Debo practicar este hábito todos los días?"
     answer: "Sí, la neuroplasticidad cerebral se maximiza cuando se practica a una hora diaria constante. Ejecutarlo de forma continua en un momento y lugar fijos fortalece los circuitos de neuroplasticidad."
-
 ---
 
 "La claridad de mi filosofía es como la pureza de la luz que atraviesa una lente de cristal." 🔍

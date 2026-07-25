@@ -21,7 +21,6 @@ faqs:
     answer: "Écrire directement avec un stylet numérique sur une tablette produit des effets très similaires à ceux d'un stylo physique. Cependant, la saisie au clavier est une action d'entrée automatisée qui ne s'accompagne de presque aucun traitement cognitif. La vitesse plus lente de l'écriture manuscrite force le cerveau à résumer et digérer l'information, améliorant considérablement les taux de rétention mémorielle."
   - question: "Existe-t-il un moyen d'organiser les notes d'extraits pour qu'elles ne se perdent pas à mesure qu'elles s'accumulent ?"
     answer: "Nous recommandons la méthode du 'Commonplace Book' de John Locke. Créez une page d'index tout au début ou à la fin de votre carnet et inscrivez les numéros de page rédigés par catégories de connaissances ou par ordre alphabétique. Alternativement, scanner les carnets manuscrits une fois par mois et les catégoriser avec des étiquettes numériques est aussi un bon compromis."
-
 ---
 
 « Il n'y a pas de livre si mauvais qu'on ne puisse en tirer quelque chose de bon, et lire sans prendre de notes n'a aucune valeur. » ✍️

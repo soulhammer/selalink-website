@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Como profissionais ocupados podem encurtar a rotina de Martin se não têm horas para meditar?"
     answer: "Não é necessário meditar por horas. Fazer uma 'Pausa Intencional (Intentional Pause)' de apenas 5 minutos antes de começar o trabalho é suficiente. Ao se sentar na mesa, feche os olhos, respire fundo 3 vezes e pergunte-se: 'Qual é o foco mais essencial para o dia de hoje?'. Isso é suficiente para promover uma calibração metacognitiva e limpar o ruído mental."
-
 ---
 
 "Sento-me na minha cadeira e espero até que minha mente esteja completamente vazia. Somente quando minha mente está totalmente vazia, a forma verdadeira da pintura surge diante dos meus olhos." 🧘‍♀️

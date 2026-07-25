@@ -21,7 +21,6 @@ faqs:
     answer: "Achten Sie nicht auf Perfektion oder Dissonanzen. Konzentrieren Sie sich auf das Tasten-Gefühl und den Klang. Das entspannt und resettet das Aufmerksamkeitsnetzwerk des Gehirns."
   - question: "Kann man einen kognitiven Reset auch mit anderen Instrumenten erreichen?"
     answer: "Ja, Saiten- oder Tasteninstrumente wie Gitarre oder Ukulele, die feine Finger-Sensorik verlangen, bieten den gleichen Effekt zum Wechsel des Aufmerksamkeitsnetzwerks."
-
 ---
 
 "Ich stoppe die Anspannung meines Gehirns erst, wenn ich meine Finger auf die Klaviertasten lege und mich in freie Dissonanzen stürze." Max Planck, der deutsche Physiker, der die Quantentheorie begründete und die Planck-Konstante (h) entdeckte. Die Rekonstruktion der Physik überforderte oft sein Gehirn. Sein Zufluchtsort war das Klavier. Als begabter Pianist spielte er oft Duette mit seinem Freund Albert Einstein. Nach intensiver Arbeit schloss er die Noten und improvisierte frei. Dieser Beitrag untersucht den neurowissenschaftlichen Mechanismus des kognitiven Wechsels.

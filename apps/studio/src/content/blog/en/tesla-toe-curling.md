@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Does wiggling or curling toes really help activate the brain?"
     answer: "Yes! On the somatosensory cortex map of the brain, the toe area is located near the central region. Stimulating the fine muscles of the toes subtly activates the frontal lobe via peripheral nerves."
-
 ---
 
 Did you know that Nikola Tesla (1856–1943), the genius scientist who illuminated the world alongside Edison and laid the foundation for alternating current (AC) power systems and wireless communication, repeated a bizarre ritual every night in bed? ⚡

@@ -21,7 +21,6 @@ faqs:
     answer: "Substitute mountain trails with a 30-minute walk through an urban park, botanical garden, or tree-lined boulevard without your smartphone. Activating visuospatial sensory pathways and boosting cerebral perfusion via light walking remain the core mechanisms."
   - question: "What is the best way to capture ideas that surface during a hike without disrupting focus?"
     answer: "Carry a pocket notebook and pen to jot down key trigger words the moment an idea strikes. Alternatively, use a brief hands-free voice memo recorder so you can record insights instantly without interrupting your walking rhythm."
-
 ---
 
 "Walking through the vast Alpine forest trails, I clear away the residue of complex mathematical formulas and finally contemplate the deep inner reality of nature." 🌲

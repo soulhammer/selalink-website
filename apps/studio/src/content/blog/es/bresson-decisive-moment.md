@@ -21,7 +21,6 @@ faqs:
     answer: "No. Observar formas geométricas inanimadas y límites de luz —como las sombras de los postes de luz proyectadas en una pared o los rayos de luz que traspasan un vaso de vidrio— es igualmente efectivo para activar la corteza visual."
   - question: "¿Se pueden recortar o aplicar filtros digitales a las fotos después de disparar?"
     answer: "Cartier-Bresson evito estrictamente el recorte y la edición artificial. Forzarse a perfeccionar la composición en el momento exacto del disparo es precisamente lo que entrena el juicio espacial y la cognición instantánea, por lo que se recomienda conservar las fotos intactas."
-
 ---
 
 "Fotografiar es poner la cabeza, el ojo y el corazón en el mismo eje de visión." 📷

@@ -21,7 +21,6 @@ faqs:
     answer: "Während der strengen Kälte im Paris der 1940er Jahre hielt das Café de Flore seinen Ofen warm und bot eine künstlerfreundliche Atmosphäre, in der Intellektuelle ohne Druck stundenlang verweilen konnten, was es zu einem idealen Ort für kreatives Schaffen machte."
   - question: "Kann ich ein ähnliches Kognitives Skript in einer Homeoffice-Umgebung umsetzen?"
     answer: "Ja, absolut. Sie können denselben kognitiven Umschalteffekt zu Hause erzielen, indem Sie eine bestimmte Schreibtischlampe in einer dedicated Ecke einschalten, eine spezielle Fokus-Tasse verwenden und weißes Rauschen mit 50-60 dB abspielen."
-
 ---
 
 "Um 10 Uhr morgens ging ich ins Café de Flore. Auf diesem kleinen Tisch begannen meine Gedanken endlich Gestalt anzunehmen." ☕

@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, produz. Como o córtex visual detecta os comprimentos de onda ópticos, temas de verde escuro calmos em telas digitais provocam o mesmo efeito de indução de ondas Alfa que a tinta analógica."
   - question: "Por que a tinta preta ou telas monocromáticas de alto contraste às vezes causam bloqueio criativo?"
     answer: "Texto preto de alto contraste transmite ao cérebro uma tensão subconsciente associada a documentos oficiais ou avaliações de exames, inibindo a livre divergência de ideias criativas."
-
 ---
 
 "Verde é a cor da esperança e a cor da natureza onde minha poesia respira." ✒️

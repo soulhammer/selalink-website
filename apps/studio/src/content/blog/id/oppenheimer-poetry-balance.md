@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, cerita pendek yang sarat nada liris, puisi, atau esai reflektif jauh lebih efektif meredakan kelelahan kognitif numerik dibandingkan novel panjang yang berfokus pada alur cerita."
   - question: "Apakah boleh membaca menggunakan pembaca buku elektronik (e-book)?"
     answer: "Buku kertas fisik adalah yang terbaik, namun pembaca e-ink dengan pencahayaan depan memancarkan sinar biru minimal yang tidak mengganggu tidur sehingga sangat boleh digunakan."
-
 ---
 
 "Ilmu pengetahuan mengajarkan kita apa itu alam semesta, tetapi puisi mengajarkan kita siapa diri kita." 📜

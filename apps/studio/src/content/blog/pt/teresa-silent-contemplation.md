@@ -21,7 +21,6 @@ faqs:
     answer: "É um fenômeno natural do cérebro tentando operar seus processos. Não lute contra os pensamentos; dê um passo atrás e reconheça: 'Ah, estou pensando nas tarefas de hoje', observando-os passar como nuvens. Traga suavemente a consciência de volta à respiração."
   - question: "A Madre Teresa praticava por uma hora; reduzir para 10 a 15 minutos ainda é eficaz para o cérebro?"
     answer: "Sim, de acordo com a neurociência clínica e pesquisas sobre o estresse, praticar meditação silenciosa em completo silêncio por apenas 10 minutos focados produz uma relaxamento fisiológico significativo ao suprimir a excitação simpática e reduzir o cortisol. Se tiver pouco tempo, praticar uma rotina matinal silenciosa de 10 minutos sem telefone melhora o controle emocional."
-
 ---
 
 A Madre Teresa, laureada com o Prêmio Nobel da Paz por dedicar sua vida a servir aos mais pobres e difundir o amor. Que rotina nutria essa equanimidade inabalável e força interior que lhe permitiam suportar a dor indescritível nas favelas de Calcutá? 🕊️

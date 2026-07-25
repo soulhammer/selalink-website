@@ -21,7 +21,6 @@ faqs:
     answer: "Gazing closely for 3 minutes at indoor potted plants, houseplants, street trees outside your window, or drifting clouds delivers identical Attention Restoration Theory (ART) benefits."
   - question: "How can I adapt the garden walk routine on rainy or inclement weather days?"
     answer: "Stand by a window and silently observe raindrops trickling down the glass or the patterns formed by falling rain. The fluid organic geometry of water droplets functions as an exceptional Soft Fascination trigger."
-
 ---
 
 "Whoever wants to know something about me as an artist ought to look carefully at my pictures... But to fuel my artistic soul, I walk quietly among the morning roses." 🎨

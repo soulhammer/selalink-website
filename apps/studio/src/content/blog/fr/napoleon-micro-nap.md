@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Napoléon faisait-il vraiment des siestes pendant les batailles ?"
     answer: "Oui, selon les récits historiques, Napoléon possédait la capacité extraordinaire de s'endormir instantanément même sur des champs de bataille résonnant sous les tirs d'artillerie, se réveillant exactement 15 minutes plus tard l'esprit parfaitement clair pour donner ses ordres tactiques."
-
 ---
 
 Même au milieu de la tension extrême d'un champ de bataille résonnant sous les tirs d'artillerie, un empereur parvenait à réinitialiser totalement son énergie grâce à un court sommeil de 15 minutes : le légendaire stratège militaire et empereur de France, Napoléon Bonaparte (1769–1821). 💤

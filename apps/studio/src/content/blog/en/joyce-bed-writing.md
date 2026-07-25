@@ -21,7 +21,6 @@ faqs:
     answer: "The white coat acted as a natural light reflector, bouncing ambient room light directly onto his manuscript paper without harsh glare. It served as a brilliant analog lighting-assist tool that allowed his severely damaged retinas to perceive written words clearly."
   - question: "Doesn't working while lying in bed or on a sofa induce drowsiness?"
     answer: "To prevent falling asleep, avoid lying completely flat. Prop your upper body up at a 30 to 45-degree angle using supportive wedge cushions, and work in brief 20-minute ideation sprints followed by short horizontal rests to regulate cortical arousal."
-
 ---
 
 "Literature is a beautiful struggle to test the limits of the soul and overcome the boundaries of the body." ✍️

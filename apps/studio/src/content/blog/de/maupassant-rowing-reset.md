@@ -21,7 +21,6 @@ faqs:
     answer: "Jedes Ganzkörper-Ausdauertraining, das Ober- und Unterkörper beansprucht (wie Rudergerät, Heimtrainer, Ellipsentrainer, Intervalllauf oder Burpees), erzielt denselben Effekt."
   - question: "Ist tägliches hochintensives Training nicht zu belastend für den Körper?"
     answer: "Absolvieren Sie 3-mal pro Woche intensives Training und passen Sie die restlichen Tage mit leichten Spaziergängen oder Dehnübungen an."
-
 ---
 
 "Wenn ich meinen Körper kräftig bewege, um über den Fluss zu rudern, verschwinden die mentale Erschöpfung und die Kopfschmerzen spurlos." 🚣

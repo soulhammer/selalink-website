@@ -21,7 +21,6 @@ faqs:
     answer: "Informe claramente seu horário em respostas automáticas de e-mail ou no status do chat. Deixar uma mensagem transparente (ex.: 'Para focar em projetos prioritários, checo e-mails duas vezes ao dia, às 11h e 16h. Para emergências, ligue diretamente') alinha expectativas e cria uma barreira protetora."
   - question: "A rotina de desconexão de Knuth é aplicável a funcionários comuns que não são acadêmicos famosos?"
     answer: "Sim, com certeza! O princípio neurocientífico aplica-se a qualquer pessoa. Não é necessário eliminar o e-mail permanentemente; basta programar de 1 a 2 horas diárias no modo 'Não Perturbe' para reduzir os custos da troca de contexto e proteger sua atenção."
-
 ---
 
 "Sou um homem feliz desde que parei de usar e-mail em 1º de janeiro de 1990... O que faço exige longas horas de estudo e concentração ininterrupta. Meu papel é refletir em silêncio." ✉️

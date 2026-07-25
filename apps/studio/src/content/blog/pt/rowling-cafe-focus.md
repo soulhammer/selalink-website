@@ -21,7 +21,6 @@ faqs:
     answer: "Não. Músicas com letra ou ruídos fortes e ritmados (>85 dB) invadem a memória de trabalho, causando fadiga. Apenas o ruído ambiente imprevisível e sem letra gera a disfluência benéfica."
   - question: "Ouvir ruído branco com fones de ouvido em um quarto silencioso ajuda?"
     answer: "Sim. Ouvir ruído branco em um quarto isolado ajuda a bloquear distrações. Porém, combiná-lo com mudanças visuais (como o espaço aberto de um café) favorece ainda mais a criatividade."
-
 ---
 
 "O ruído moderado e a solidão de um café libertaram meu cérebro, permitindo-me imaginar o mundo dos bruxos sem limites." ☕

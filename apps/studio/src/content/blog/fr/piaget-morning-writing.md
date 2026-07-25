@@ -21,7 +21,6 @@ faqs:
     answer: "Bien que taper à l'ordinateur fonctionne, l'écriture manuscrite stimule la motricité fine des doigts, activant plus fortement les cortex préfrontal et somatosensoriel. L'écriture manuscrite est donc vivement recommandée."
   - question: "Que faire si je n'ai pas de parcs ou d'espaces naturels à proximité ?"
     answer: "Même sans forêt ni lac, marcher sur des trottoirs calmes, dans des ruelles résidentielles ou un couloir sans téléphone apporte exactement les mêmes bienfaits d'activation du DMN."
-
 ---
 
 "L'intelligence, ce n'est pas ce que l'on sait, mais ce que l'on fait quand on ne sait pas." 🚶‍♂️

@@ -21,7 +21,6 @@ faqs:
     answer: "Não. O essencial não é a hora exata das 4h da manhã, mas aplicar a sequência de 3 passos — bloquear a sobrecarga digital ao acordar, ter interações positivas e caminhar sob a luz natural — de forma consistente no seu próprio horário (ex.: 6h00 ou 7h00)."
   - question: "Como posso adaptar esta rotina se eu morar sozinho e não tiver família para tomar café da manhã junto?"
     answer: "Se morar sozinho, você pode obter a mesma liberação de oxitocina e calma emocional tomando um chá com afirmações positivas diante do espelho, cuidando de um pet ou plantas, ou trocando um comprimento amigável com o barista do seu café habitual."
-
 ---
 
 "O entusiasmo ao acordar na alvorada determina o sucesso do dia." ☀️

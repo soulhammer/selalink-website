@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Does doing physical movement training when tired in the morning strain the brain?"
     answer: "On the contrary, stimulating fine motor skills and sensory nerves right after waking up activates the reticular activating system in the brainstem, boosting cortisol and dopamine to rapidly clear sleep inertia and alert the brain."
-
 ---
 
 "I am an emperor, but my hands are still calloused." ⚓

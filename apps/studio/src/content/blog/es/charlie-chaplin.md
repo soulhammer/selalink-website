@@ -21,7 +21,6 @@ faqs:
     answer: "Evite el contacto visual directo. Use gafas de sol o sostenga una bebida para desviar de forma natural su mirada mientras practica el escaneo con 'Visión Periférica', centrándose suavemente en la dinámica de la silueta en lugar de en los rasgos faciales."
   - question: "¿La imitación física realmente mejora nuestra capacidad para descifrar los estados emocionales ajenos?"
     answer: "Sí, profundamente. Neurocientíficamente, replicar la postura y el ritmo de movimiento de una persona sincroniza su sistema de neuronas espejo. Esto permite a su sistema límbico decodificar señales emocionales no verbales —como el estrés, la fatiga o la confianza— como datos sensoriales encarnados."
-
 ---
 
 "En el modo de caminar de una persona se puede leer toda su vida y sus sentimientos interiores." 🎩

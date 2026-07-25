@@ -21,7 +21,6 @@ faqs:
     answer: "Ya. Asetaldehida yang dilepaskan secara singkat mengubah pernapasan dan memberi kejutan fisiologis, sementara sinyal olfaktori mengirimkan sinyal kebangkitan ke sistem limbik."
   - question: "Aroma apa yang direkomendasikan untuk pematrian aroma modern?"
     answer: "Rosemary (terbukti secara ilmiah membantu fokus), peppermint, atau eukaliptus (meredakan lelah dan meningkatkan kewaspadaan) sangat direkomendasikan. Aroma sitrus seperti lemon juga terbukti positif."
-
 ---
 
 Friedrich Schiller, penyair dan dramawan besar yang memimpin era keemasan Klasisisme Weimar Jerman bersama Johann Wolfgang von Goethe, meninggalkan jejak mendalam dalam sejarah sastra melalui karya besar seperti 'Die Räuber' dan 'Wilhelm Tell'. Namun, di dalam laci meja kerjanya tersembunyi rahasia yang unik dan menyengat.

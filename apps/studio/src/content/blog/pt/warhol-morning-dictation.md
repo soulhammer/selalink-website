@@ -21,7 +21,6 @@ faqs:
     answer: "Use a funcionalidade de voz para texto do celular ou um app de notas com IA para fazer um 'brain dump' verbal de 5 minutos sobre os acontecimentos de ontem."
   - question: "Quais tópicos devem ser abordados no ditado para aumentar a produtividade?"
     answer: "Basta listar os fatos de ontem, descarregar as prioridades de trabalho para hoje ou expressar em voz alta seu estado emocional atual."
-
 ---
 
 "Todas as manhãs limpo o entulho da minha cabeça ditando o dia de ontem para que seja datilografado." 📞

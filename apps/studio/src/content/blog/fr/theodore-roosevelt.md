@@ -21,7 +21,6 @@ faqs:
     answer: "Cela se produit lorsque le surmenage entraîne une accumulation de fatigue. Limitez strictement l'exercice à 3 minutes dès que le seuil d'essoufflement est atteint afin que seule la dopamine rafraîchissante charge votre cerveau."
   - question: "Comment les débutants ayant une très faible condition physique doivent-ils commencer ?"
     answer: "Tout entraînement aérobique ou de musculation, comme la marche rapide sur place ou le jogging léger, produira des bénéfices équivalents tant qu'il atteint une intensité provoquant une légère transpiration."
-
 ---
 
 Theodore Roosevelt, 26e président des États-Unis, a pris ses fonctions comme le plus jeune président de l'histoire américaine, menant des réformes progressistes et affirmant un leadership mondial. Pour surmonter un asthme infantile sévère et une physique frêle, il pratiquait un entraînement physique intense chaque matin. Cet exercice matinal explosif a transformé un enfant frêle en un leader redoutable, alimentant sa volonté de fer et sa vivacité d'esprit.

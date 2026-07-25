@@ -21,7 +21,6 @@ faqs:
     answer: "The strict figure of 60 beans controlled coffee taste through perfect quantification, but counting numbers precisely was itself a cognitive trigger that cut off useless wandering thoughts and activated the brain's high-level executive control network."
   - question: "Can non-coffee drinkers apply this mindfulness routine?"
     answer: "Yes, absolutely. Any action that directs full attention to touch and fine movements—such as precisely weighing tea leaves, wiping a teacup, or engaging in structured stretching and meditation—yields the same DMN-suppressing and focus-enhancing effects."
-
 ---
 
 "Music should strike fire from the heart of man, and bring tears to the eyes of woman." ☕

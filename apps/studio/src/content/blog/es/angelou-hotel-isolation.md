@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Puedo lograr el mismo efecto de aislamiento ambiental sin cambiar físicamente de ubicación?"
     answer: "Sí, es posible. Al despejar por completo los objetos de su escritorio, usar auriculares con cancelación de ruido o emitir señales para bloquear notificaciones en dispositivos, puede transmitir una potente señal de transición al modo de inmersión a su cerebro sin necesidad de traslados físicos."
-
 ---
 
 "Una obra maestra nunca nace por accidente. Solo florece a través de una concentración implacable y autodisciplina." 🖋️

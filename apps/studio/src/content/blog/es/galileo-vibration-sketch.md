@@ -21,7 +21,6 @@ faqs:
     answer: "¡Sí, totalmente! Esta técnica no es arte, sino un ejercicio cognitivo estructurado que utiliza solo cuatro elementos: círculos, rectángulos, líneas y flechas. Incluso trazados esquemáticos rápidos son suficientes para activar la memoria visoespacial."
   - question: "¿Dibujar en aplicaciones digitales con tabletas ofrece los mismos beneficios cognitivos?"
     answer: "Utilizar un lápiz óptico es una alternativa funcional, pero el papel y bolígrafo reales siguen siendo superiores. La microfricción del papel genera una retroalimentación somatosensorial en los dedos que logra una mayor externalización cognitiva."
-
 ---
 
 "El grandioso libro del universo está escrito en el lenguaje de las matemáticas, y sus caracteres son triángulos, círculos y otras figuras geométricas." 📐

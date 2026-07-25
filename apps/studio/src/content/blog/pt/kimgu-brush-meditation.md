@@ -21,7 +21,6 @@ faqs:
     answer: "Ajustar a pressão e o ângulo do pincel exige Controle Motor Fino, ativando o córtex somatossensorial e pré-frontal. Esse foco concentrado reduz os sinais de ameaça na amígdala, suprimindo a ansiedade."
   - question: "Posso obter os mesmos benefícios com uma caneta-tinteiro ou caneta comum se não tiver pincéis de caligrafia?"
     answer: "Sim, com certeza! O segredo não é a ferramenta, mas o 'controle da pressão e a redução da velocidade'. Usar uma caneta-tinteiro ou lápis escrevendo devagar (Slow Writing) garante os mesmos benefícios para acalmar o sistema nervoso."
-
 ---
 
 "Enquanto concentro toda a minha força na ponta do pincel para traçar uma linha, os pensamentos confusos se afastam, deixando apenas uma convicção transparente sobre o papel." 🖌️

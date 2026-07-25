@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Por que Barack Obama usava apenas ternos cinzas e azuis?"
     answer: "Para economizar energia prÃ©-frontal necessÃ¡ria para decisÃµes de Estado, ele eliminou as escolhas de roupas matinais para evitar a fadiga de decisÃ£o."
-
 ---
 
 "Procuro nÃ£o tomar decisÃµes sobre o que vestir ou comer, porque tenho muitas outras decisÃµes para tomar." ð

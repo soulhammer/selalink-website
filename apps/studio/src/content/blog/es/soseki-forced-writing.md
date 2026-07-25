@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Qué debo hacer cuando mi mente se queda en blanco y no puedo concentrarme en absoluto?"
     answer: "En lugar de no escribir nada o coger el teléfono, permanezca sentado en su escritorio, tome el bolígrafo y empiece a garabatear."
-
 ---
 
 "Escribir no es un estallido de inspiración, sino un trabajo honesto como el de un agricultor que ara su campo a una hora fija todos los días." 🖋️

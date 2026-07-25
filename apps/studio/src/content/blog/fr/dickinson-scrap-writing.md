@@ -21,7 +21,6 @@ faqs:
     answer: "Bien que l'action numérique semble plus rapide, déverrouiller un écran et apercevoir des notifications force le cerveau à traiter de nouveaux stimuli. Cela écrase l'idée fragile dans votre mémoire de travail, provoquant son évaporation. Un crayon et un bout de papier ne créent aucune friction cognitive."
   - question: "N'est-il pas préférable pour la créativité de se concentrer au maximum et d'exécuter les tâches ménagères minutieusement ?"
     answer: "Du point de vue de la créativité, non. L'Effet d'Incubation est maximisé lorsque le cortex préfrontal suspend le jugement logique et glisse dans un état semi-subconscient. Ainsi, plutôt que de suivre une recette complexe, effectuer des tâches ménagères routinières produit le plus fort taux d'idées nouvelles."
-
 ---
 
 « L'inspiration est un invité très fragile ; si l'on n'est pas prêt à l'accueillir, il disparaît sans laisser de trace. » 📝

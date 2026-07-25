@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Dormir 10 heures semble irréaliste pour les personnes actives ; peut-on réduire cette durée ?"
     answer: "Le repère de 10 heures s'applique aux athlètes de haut niveau ; pour la plupart des gens, assurer 7 à 8 heures de sommeil réparateur est amplement suffisant. L'essentiel n'est pas de s'obséder sur la durée, mais de maximiser la proportion de sommeil profond (sommeil à ondes lentes) grâce à des horaires réguliers et une chambre bien aménagée."
-
 ---
 
 "Rédiger une liste clarifie les tâches, et dormir 10 heures prépare le corps à affronter n'importe quel lancer." 💤

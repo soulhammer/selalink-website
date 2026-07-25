@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, einige seiner erhaltenen Manuskripte (wie Essays und Kritiken) sind in Form schmaler, zusammengeklebter Schriftrollen in Institutionen wie der Free Library of Philadelphia erhalten."
   - question: "Gibt es Programme, die das Korrigieren während des Schreibens am Bildschirm verhindern?"
     answer: "Ja, Entwurfs-Apps, die das Löschen verhindern oder den Text löschen, wenn Sie aufhören zu tippen (wie The Most Dangerous Writing App), sowie Editoren mit Schreibmaschinenmodus sind sehr effektiv."
-
 ---
 
 Edgar Allan Poe (1809–1849), gefeiert als Pionier der unheimlichen Schauerliteratur mit Werken wie 'Der Rabe' und 'Der schwarze Kater' sowie Begründer der modernen Detektivgeschichte. Auf welchem Werkzeug entstanden wohl seine genialen Manuskripte, die menschliche Seelenangst mit perfekt konstruierter Logik verbanden? 📜

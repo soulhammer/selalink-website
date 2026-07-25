@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Forçar um sorriso em frente ao espelho realmente funciona?"
     answer: "Sim, devido ao efeito de feedback facial, o cérebro detecta o movimento dos músculos de expressão facial, julga que você está em um estado realmente alegre e secreta substâncias da felicidade."
-
 ---
 
 "Não sorrimos porque estamos felizes; estamos felizes porque sorrimos. Pratique um rosto sorridente em frente ao espelho todas as manhãs e varra limpo o seu redor." 🧹

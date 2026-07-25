@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Isn't taking a bath every day inefficient for busy modern people?"
     answer: "Soaking in a warm bath for even just 10 minutes is a highly efficient cognitive resetting mechanism that relaxes sympathetic nerves and activates the brain's DMN."
-
 ---
 
 "When I surrender my body to warm water, the heavy sense of duty from the day washes away, and the eyes of true wisdom open." 🛀

@@ -21,7 +21,6 @@ faqs:
     answer: "Ya. Faktor penentunya bukanlah keheningan lingkungan yang mutlak, melainkan memutus masukan linguistik secara total (percakapan, podcast, atau membaca teks). Bahkan di pusat kota yang ramai, menggunakan headphone peredam bising untuk mengurangi kebisingan sekitar sambil berpantang dari konsumsi bahasa memberikan manfaat yang identik."
   - question: "Apakah saya harus berhenti dan merekam pemikiran cemerlang secara langsung saat berjalan?"
     answer: "Hindari memutus irama fisik jalan kaki Anda. Berhenti untuk menulis kalimat yang panjang mengganggu pemrosesan visuospatial parietal dan alur senyap. Jika terobosan muncul, tangkap hanya 1 atau 2 kata kunci utama dalam waktu 2 detik menggunakan buku catatan mini atau perekam suara. Segera kembali ke jalan kaki senyap Anda, lalu kembangkan dan sempurnakan ide-ide tersebut secara sistematis setelah sesi berakhir."
-
 ---
 
 "Kata-kata adalah kebisingan yang mengaburkan keindahan matematis. Hanya ketika berjalan dalam keheningan mutlak, simetri alam semesta mengungkapkan dirinya." 🌌

@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, research on Enclothed Cognition in cognitive psychology strongly proves this. Simply changing from pajamas or loungewear into neat clothing like slacks or a shirt signals the brain to shift its symbolic mode from a 'rest context' to a 'work context,' reducing procrastination and dramatically shortening the initial warm-up time for deep focus."
   - question: "When it is difficult to change into full suits or outdoor clothing, can a single item like glasses or a watch still be effective?"
     answer: "Yes, absolutely! As long as the item is recognized by the brain as a 'symbolic work signal,' single cues like putting on glasses, wearing an analog watch dedicated to focus, or slipping on neat indoor shoes can induce the same conditioning effect. The key is consistently adhering to your own symbolic rule that 'wearing this item triggers immersion mode.'"
-
 ---
 
 "When evening comes, I return home and go into my study. On the threshold, I take off my muddy workday clothes and put on royal and courtly robes. Dressed fittingly, I enter the ancient courts of ancient men." 👑

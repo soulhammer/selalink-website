@@ -21,7 +21,6 @@ faqs:
     answer: "La vue à la première personne est supérieure pour stimuler le cortex moteur. La troisième personne aide pour le placement, mais la première personne affine la motricité fine."
   - question: "Que faire si des pensées d'échec surviennent pendant la visualisation ?"
     answer: "C'est un mécanisme naturel. Mettez en pause et rembobinez la scène, puis visualisez le surmontement de l'erreur pour réussir."
-
 ---
 
 "Je ferme les yeux et je me vois jouer sur le terrain. C'est là que mon corps devient prêt." ⚽

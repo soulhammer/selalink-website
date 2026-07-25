@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, com certeza. Biografias históricas confirmam que Haydn se recusava a sentar ao piano sem vestir trajes de corte, peruca e anel. Ele sustentava que roupas desleixadas geravam ideias caóticas."
   - question: "A roupa para trabalho em casa precisa ser um terno rígido ou roupas casuais arrumadas funcionam?"
     answer: "Não é necessário um terno rígido. O segredo está em separar fisicamente as 'roupas de descanso' das 'roupas de trabalho'. Mudar para uma camisa limpa ou calça alinhada ativa totalmente a Cognição do Vestuário."
-
 ---
 
 "A criação artística se completa apenas quando respaldada pela ordem e perseverança. Vestimentas desleixadas só geram ideias musicais desleixadas." 🚶‍♂️

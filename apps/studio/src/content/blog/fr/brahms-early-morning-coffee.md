@@ -21,7 +21,6 @@ faqs:
     answer: "Brahms était un perfectionniste convaincu que la force du café influençait directement son état d'éveil matinal. La motricité fine consistant à moudre les grains et à préparer le café à la main servait d'ancrage mental puissant (Mental Anchor), focalisant l'attention du cerveau pour la journée."
   - question: "Comment la marche matinale contribue-t-elle spécifiquement à la stimulation cérébrale et à la créativité ?"
     answer: "L'impact rythmique des pieds sur le sol lors de la marche envoie des ondes de pression qui augmentent physiquement le flux sanguin cérébral. De plus, la stimulation aérobique favorise la libération de BDNF, renforçant la plasticité synaptique entre neurones et maximisant la structuration de l'information supérieure ainsi que la résolution créative de problèmes."
-
 ---
 
 « L'arôme riche du café du matin et l'air frais des bois matinaux éveillent enfin les idées musicales dans ma tête. » ☕

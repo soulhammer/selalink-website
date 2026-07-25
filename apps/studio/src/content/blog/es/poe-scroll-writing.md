@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, algunos de sus manuscritos sobrevivientes (como ensayos y críticas) se conservan en forma de pergaminos estrechos unidos con pegamento en instituciones como la Free Library de Filadelfia."
   - question: "¿Existen programas para evitar la costumbre de editar mientras se escribe en pantallas digitales?"
     answer: "Sí, resulta muy eficaz utilizar aplicaciones diseñadas para borradores que impiden borrar o que borran el texto si se detiene (como The Most Dangerous Writing App), o editores con modo de máquina de escribir."
-
 ---
 
 Edgar Allan Poe (1809–1849), aclamado como el pionero de la literatura de terror macabro con obras como 'El cuervo' y 'El gato negro', e inventor de la novela detectivesca moderna. ¿Sobre qué tipo de soporte nacieron sus manuscritos geniales, caracterizados por tejer la ansiedad psicológica humana con misterios lógicos impecables? 📜

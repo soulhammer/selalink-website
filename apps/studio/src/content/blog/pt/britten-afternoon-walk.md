@@ -21,7 +21,6 @@ faqs:
     answer: "Localizada em Suffolk, na costa leste da Inglaterra, Aldeburgh é uma praia de cascalho em vez de areia. As ondas ao rolar sobre os cascalhos criam um som rítmico, enquanto o vasto horizonte oferece libertação visual ao córtex pré-frontal."
   - question: "Caminhar em ambientes urbanos cercados por arranha-céus oferece benefícios semelhantes de restauração da atenção?"
     answer: "Caminhar pela cidade envolve ruído de tráfego, semáforos e luzes que exigem atenção dirigida, reduzindo os efeitos restauradores. Em ambientes urbanos, é essencial buscar espaços verdes e tranquilos, como parques arborizados ou calçadões à beira-rio."
-
 ---
 
 "Nas minhas caminhadas à tarde ao longo da costa, todos os nós difíceis da minha música que me resistiam durante a manhã finalmente se desatam." 🌊

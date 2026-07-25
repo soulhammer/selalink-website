@@ -21,7 +21,6 @@ faqs:
     answer: "Ein reales Kind ist nicht erforderlich. Sie können sich einen Kollegen, ein Stofftier oder einen KI-Chatbot auf dem Niveau eines 10-Jährigen vorstellen. Entscheidend ist der Filterprozess: das Vermeiden von Fachbegriffen."
   - question: "Ist es normal, dass Sätze lang und sperrig werden, wenn man Fachbegriffe weglässt?"
     answer: "Ja, das ist völlig normal! Das Ringen um einfache Worte – auch wenn die Sätze zunächst lang werden – maximiert die Metakognition. Sobald Sie das Konzept voll durchdrungen haben, wird Ihre Erklärung automatisch prägnant und klar."
-
 ---
 
 "Wenn du es nicht einfach erklären kannst, hast du es nicht gut genug verstanden." 📝

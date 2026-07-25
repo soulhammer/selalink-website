@@ -21,7 +21,6 @@ faqs:
     answer: "Ya. Menulis seolah ditujukan kepada seseorang yang mendengarkan tanpa prasangka, seperti Theo imajiner, memaksimalkan verbalisasi emosi yang jujur dan efek detoksifikasi otak."
   - question: "Apakah boleh menggunakan aplikasi catatan digital alih-alih tulisan tangan?"
     answer: "Untuk penyucian emosional, tulisan tangan jauh lebih bermanfaat karena meningkatkan keterlibatan korteks somatosensorik dan menenangkan korteks prefrontal, sehingga buku catatan analog sangat direkomendasikan."
-
 ---
 
 Vincent van Gogh (1853–1890), salah satu pelukis terbesar dalam sejarah seni akhir abad ke-19 dan pelopor Ekspresionisme, hanya menjual satu lukisan sepanjang hidupnya di tengah kemiskinan dan isolasi mental yang parah, namun meninggalkan karya-karya abadi. Sebagai maestro Pos-Impressionisme Prancis, ia menulis lebih dari 660 surat kepada adiknya Theo sepanjang hidupnya untuk mengatasi kesepian. Setiap malam, meninggalkan kanvasnya, ia menyalakan lilin dan mencurahkan pikiran serta inspirasi warnanya dalam bentuk surat untuk menyucikan pikirannya.

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Puede aprovechar este hábito alguien que no sabe dibujar en absoluto?"
     answer: "Por supuesto. El hábito de boceto de Arquímedes no es un acto de dibujo artístico, sino un trabajo cognitivo de situar las estructuras del pensamiento cerebral en el espacio externo. El simple hecho de dibujar círculos o poner cajas alrededor del texto y conectarlas con flechas como un garabato alivia significativamente la carga de la memoria de trabajo, logrando un efecto claro en la mejora de la concentración."
-
 ---
 
 "No pises mis círculos. No aplastes el flujo de mis pensamientos." 📐

@@ -21,7 +21,6 @@ faqs:
     answer: "Wenn Ihr Schlaftyp nachtaktiv ist, müssen Sie sich nicht zwingen, um 3:00–4:00 Uhr aufzustehen. Die Kernlektion lautet '1 ungestörte Stunde für sich zu sichern', sodass 1 Stunde nach der Arbeit oder spät nachts denselben Effekt erzielt."
   - question: "Wie kann ich Nachmittagskrise überwinden, wenn ich früh aufstehe?"
     answer: "Ein kurzes Powernap von 15–20 Minuten zwischen 13:00 und 15:00 Uhr, das Beenden des Koffeinkonsums vor 11:00 Uhr und leichtes Dehnen reduzieren die Ermüdung deutlich."
-
 ---
 
 Tim Cook, der Chef von Apple, der täglich hunderte Millionen Menschen und Entscheidungen in Billionenhöhe lenkt. Was ist sein morgendliches Geheimnis, um den Tag unter seine Kontrolle zu bringen, bevor Ablenkungen hereinbrechen? ⌚

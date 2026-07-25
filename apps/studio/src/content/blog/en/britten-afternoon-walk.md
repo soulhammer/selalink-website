@@ -21,7 +21,6 @@ faqs:
     answer: "Located in Suffolk on England's eastern coast, Aldeburgh is a unique shingle beach composed of smooth pebbles rather than sand. Waves rolling over pebbles create a rhythmic, resonant sound, while the vast horizon offers visual liberation for the prefrontal cortex."
   - question: "Does walking in urban environments surrounded by skyscrapers provide similar attention restoration benefits?"
     answer: "Urban walking involves traffic noise, signals, and neon lights that command directed attention, reducing restoration effects. In urban settings, it is essential to seek out quiet, green spaces—such as wooded parks, riverside trails, or pedestrian zones with water features."
-
 ---
 
 "On my afternoon walks along the coast, all the hard knots in my music that resisted me during the morning writing session finally untangle themselves." 🌊

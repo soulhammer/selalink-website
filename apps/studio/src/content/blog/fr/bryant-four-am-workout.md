@@ -21,7 +21,6 @@ faqs:
     answer: "Pour un alignement circadien optimal, il est idéal de maintenir les variations de réveil du week-end à moins d'une heure d'écart par rapport à la semaine. Un sommeil excessif le week-end réinitialise l'horloge interne du NSQ, ce qui accentue la fatigue le reste de la semaine. La régularité est primordiale."
   - question: "Réaliser des tâches intellectuelles (travail, lecture) immédiatement après un entraînement à 4h améliore-t-il la concentration ?"
     answer: "Oui, cela crée une puissante synergie cognitive. Le pic de BDNF, de dopamine et de noradrénaline libéré juste après l'exercice élève la neuroplasticité synaptique à son niveau maximal. S'adonner à un travail intellectuel profond pendant 1 à 2 heures après l'entraînement séduit une rétention cognitive et une mémoire de travail optimales."
-
 ---
 
 « Quand je m'entraîne dans le silence de 4 heures du matin, je suis absolument certain d'avoir une longueur d'avance cognitive sur tous mes concurrents. » 🏀

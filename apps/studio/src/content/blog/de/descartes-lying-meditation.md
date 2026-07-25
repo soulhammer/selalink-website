@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, die neurophysiologischen Mechanismen sind belegt. Das Liegenbleiben nach dem Aufwachen dämpft Cortisolspitzen und stabilisiert das autonome Nervensystem. Das Bewahren von Alphawellen (8–12 Hz) reduziert Sinnesreize und stärkt die präfrontale Logik."
   - question: "Was kann ich tun, wenn ich bei der Meditation im Bett versehentlich wieder einschlafe?"
     answer: "Um das Einschlafen zu verhindern, stützen Sie Ihren Oberkörper mit Kissen leicht ab (ca. 30-Grad-Winkel) oder lassen Sie die Augen geöffnet. Das Stellen eines sanften Timers auf 8 bis 10 Minuten bietet eine verlässliche Absicherung."
-
 ---
 
 "Ich denke, also bin ich (Cogito, ergo sum). Die höchste geistige Klarheit entsteht, wenn der Körper ruht und der Geist frei schwebt." 🛏️

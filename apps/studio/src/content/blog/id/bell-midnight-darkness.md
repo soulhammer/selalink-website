@@ -21,7 +21,6 @@ faqs:
     answer: "Mempraktikkannya pada waktu yang sama setiap hari mengondisikan otak untuk mengenali periode tersebut sebagai waktu untuk jeda sensorik dan kerja mendalam, mempercepat transisi kognitif. Namun, bahkan tanpa jadwal yang tetap, menerapkannya sebagai alat istirahat otak darurat dan konsepsional selama periode stres akut atau kelebihan beban kognitif memberikan manfaat yang signifikan."
   - question: "Bagaimana cara mengatasi lingkungan di mana kebisingan sekitar tidak dapat dihilangkan secara total?"
     answer: "Jika mencapai keheningan fisik mutlak sulit dilakukan, kami merekomendasikan teknik penyamaran (Masking): putar suara sekitar ber-volume rendah dengan frekuensi konsisten, seperti white noise tanpa lirik atau suara hujan, untuk menutupi kebisingan luar. Ini mencegah otak bereaksi terhadap perubahan stimulus luar secara real-time, memberikan efek isolasi sensorik yang serupa."
-
 ---
 
 "Dalam kegelapan dan keheninganlah ide-ide akhirnya mulai mengambil bentuk yang pasti." 🌌

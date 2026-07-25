@@ -21,7 +21,6 @@ faqs:
     answer: "Zwingen Sie sich nicht zum Schlafen. Wenn Sie nach 20 Minuten wach sind, nutzen Sie die Stimulus-Kontroll-Therapie: Stehen Sie auf, gehen Sie in einen gedimmten Raum, lesen Sie ein Buch und kehren Sie erst ins Bett zurück, wenn Sie müde sind."
   - question: "Warum fühle ich mich nach einem Nickerchen oft gerädert und müde?"
     answer: "Diese Trägheit entsteht durch 'Schlafträgheit' (Sleep Inertia), wenn ein Nickerchen 30 Minuten überschreitet und das Gehirn in den Tiefschlaf fällt. Stellen Sie Ihren Wecker strikt auf 15 bis 20 Minuten."
-
 ---
 
 "Wenn ich nicht 11 bis 12 Stunden am Tag schlafe, kann ich nicht auf höchstem Niveau spielen." 🎾

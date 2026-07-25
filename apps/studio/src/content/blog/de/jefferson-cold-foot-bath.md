@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut! In einem Brief vom März 1819 an Dr. Vine Utley schrieb Jefferson ausdrücklich, dass er seit 60 Jahren jeden Morgen seine Füße in kaltes Wasser tauche und dieser Gewohnheit seine Gesundheit verdanke."
   - question: "Ist eine kalte Ganzkörperdusche effektiver als ein kaltes Fußbad?"
     answer: "Eine kalte Dusche erzeugt einen stärkeren Aktivierungsschub, belastet aber das Herz-Kreislauf-System deutlich mehr. Ein kaltes Fußbad beschränkt den Reiz auf die peripheren Nerven, minimiert die körperliche Belastung und weckt das Gehirn dennoch effektiv."
-
 ---
 
 "Ich habe 60 Jahre lang jeden Morgen meine Füße in kaltem Wasser gebadet und mir keine andere Gewohnheit angeeignet, die man als sonderbar bezeichnen könnte..." 🧊

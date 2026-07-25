@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Mengapa Mary Shelley secara khusus memilih makam ibunya?"
     answer: "Ibunya meninggal tepat setelah melahirkan Mary. Makam tersebut adalah satu-satunya hubungan fisik Mary dengan ibunya. Duduk di sana membantunya merenungkan kelahiran, kematian, dan identitas, topik utama Frankenstein."
-
 ---
 
 "Kenyataan menyendiri adalah teman paling berharga, rahim rahasia tempat imajinasi lahir."

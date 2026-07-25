@@ -21,7 +21,6 @@ faqs:
     answer: "No. The core mechanism is not the absolute number '4 AM', but applying the 3-step sequence—blocking digital overload upon waking, engaging in positive morning interaction, and walking in natural light—consistently according to your own wake-up schedule (e.g., 6:00 AM or 7:00 AM)."
   - question: "How can I adapt this routine if I live alone and have no family to share breakfast with?"
     answer: "For single-person households, you can achieve the same oxytocin release and emotional grounding by enjoying warm tea while offering positive self-affirmations in front of a mirror, caring for a pet or houseplant, or exchanging a warm morning greeting with a local barista."
-
 ---
 
 "The excitement when waking up at dawn determines the success of the day." ☀️

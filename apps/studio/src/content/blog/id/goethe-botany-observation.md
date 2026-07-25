@@ -21,7 +21,6 @@ faqs:
     answer: "Ya. Memeriksa pola mikro pada tanaman rumah dalam ruangan melibatkan Pesona Halus, mengurangi kelelahan prefrontal. Namun, pengamatan luar ruangan yang dipadukan dengan paparan sinar matahari alami dan jalan santai memberikan restorasi sistemik terbaik."
   - question: "Apakah saya benar-benar perlu membawa kaca pembesar dan amplop pengumpul seperti Goethe?"
     answer: "Menggunakan kaca pembesar fisik meningkatkan resolusi visual dan menstimulasi korteks visual secara intensif, tetapi tidak wajib. Cukup dengan mengamati tulang daun atau pola biji secara cermat dengan mata telanjang sudah lebih dari cukup untuk mendapatkan manfaat Teori Restorasi Perhatian (ART)."
-
 ---
 
 "Alam berbicara kepada kita dalam keheningan yang mendalam. Berfokus pada misteri alam terkecil adalah stasiun pengisian ulang yang membangunkan pemikiran paling jernih dari otak." 🌱

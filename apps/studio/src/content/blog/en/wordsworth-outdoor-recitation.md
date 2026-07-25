@@ -21,7 +21,6 @@ faqs:
     answer: "In her journals, she wrote: 'William walked up and down the garden path hundreds of times this morning reciting poetry,' describing vividly how his walking speed varied in direct proportion to the tempo of his recitations."
   - question: "Does walking and reciting on an indoor treadmill produce the same effect?"
     answer: "Yes! Since the core physiological mechanism relies on systemic circulation from gait and cerebellar activation, walking slowly on a treadmill while reciting triggers the exact same brainwave synchronization and articulatory feedback."
-
 ---
 
 "Poetry is the spontaneous overflow of powerful feelings: it takes its origin from emotion recollected in tranquility." 🚶‍♂️

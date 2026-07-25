@@ -21,7 +21,6 @@ faqs:
     answer: "Performing word association right after waking, when the subconscious is highly active, is neurologically most effective. However, practicing even 3 to 4 times a week is sufficient to train prefrontal divergent thinking circuits and unlock creative insights."
   - question: "How can I replace this routine if I don't have paper or word cards nearby?"
     answer: "You can achieve the exact same cognitive association effect by flipping open any random book page and picking the first 3 nouns your eyes land on, or by utilizing an online Random Word Generator or smartphone notepad app."
-
 ---
 
 "The words were buckets lowered into the deep well of my subconscious, pulling up memories and narratives." 📝

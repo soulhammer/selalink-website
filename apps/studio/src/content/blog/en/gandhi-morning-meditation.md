@@ -21,7 +21,6 @@ faqs:
     answer: "Any rhythmic activity requiring fine-motor precision works brilliantly. Examples include fountain pen calligraphic copying, knitting or crocheting, tea ceremonies, assembling Lego blocks or puzzles, and finger drumming—all triggering identical serotonin pathways."
   - question: "What should I do if my mind keeps wandering during tactile rhythmic activities?"
     answer: "Do not criticize yourself for mind-wandering. Simply notice the distraction dispassionately and gently guide your attention back to 'the tactile texture at your fingertips and the rhythm of movement'. Non-judgmentally redirecting focus strengthens prefrontal executive regulation."
-
 ---
 
 "In the spinning of the wheel, I see the eternal peace of the mind and the order of the universe." 🌀

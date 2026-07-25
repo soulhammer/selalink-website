@@ -21,7 +21,6 @@ faqs:
     answer: "C'est précisément ces jours-là que cette routine est la plus précieuse. Ne cherchez pas de grands événements ; inscrivez des faits physiques liés à la survie, comme 'Le thé était chaud' ou 'Je respire calmement ce matin'. Noter ces micro-repères de sécurité aide le cerveau à sortir du mode de menace."
   - question: "Qu'en est-il d'utiliser des applications de journal de smartphone ou des publications sur les réseaux sociaux ?"
     answer: "Publier sur des applications ou les réseaux sociaux suscite de l'anxiété liée à l'attente de réactions (likes, commentaires). De plus, les écrans manquent de stimulation tactile. Écrire à la main sur du papier isole le cerveau des comparaisons numériques et apporte une réelle satisfaction."
-
 ---
 
 Surmontant une enfance tragique, Oprah Winfrey est devenue l'animatrice de talk-show la plus célèbre de l'histoire et une icône des médias. D'où provenait sa remarquable énergie intellectuelle chaque matin ? 📝

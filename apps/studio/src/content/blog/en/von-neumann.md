@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, utilizing a moderate level of ambient white noise or music helps narrow your cognitive attention span, allowing you to enter complex analytical focus much faster."
   - question: "How can I replace special noise generators if I don't have dedicated equipment?"
     answer: "You can replace specialized devices by playing fast-tempo white noise, mechanical ambient audio, or upbeat instrumental tracks through regular earphones to initiate focus."
-
 ---
 
 John von Neumann (1903–1957) was a premier 20th-century Hungarian-American mathematician, physicist, computer scientist, and polymath. Widely considered one of the most intelligent individuals in human history, he established the 'von Neumann architecture' that forms the backbone of modern computers, founded game theory that revolutionized economics and social sciences, and made foundational contributions to quantum mechanics and the Manhattan Project.

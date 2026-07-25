@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait. Comme le cortex visuel détecte les longueurs d'onde lumineuses, les thèmes vert foncé apaisants sur écran numérique provoquent le même effet d'induction d'ondes Alpha que l'encre analogique."
   - question: "Pourquoi l'encre noire ou les écrans noir et blanc à fort contraste provoquent-ils parfois un blocage créatif ?"
     answer: "Un texte noir à fort contraste transmet au cerveau une tension subconsciente associée aux documents officiels ou aux évaluations d'examens, freinant ainsi la libre divergence des idées créatives."
-
 ---
 
 « Le vert est la couleur de l'espoir et la couleur de la nature où respire ma poésie. » ✒️

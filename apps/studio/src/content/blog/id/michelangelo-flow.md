@@ -21,7 +21,6 @@ faqs:
     answer: "Karena ia menolak memutus kondisi fokusnya yang sangat sensitif. Dengan menghilangkan transisi harian sepele (berganti pakaian, mandi, tidur lama), ia menyalurkan alur fokus kreatifnya secara terus-menerus langsung ke pahatannya."
   - question: "Apa saja tips praktis untuk mengurangi kelelahan keputusan dalam kehidupan sehari-hari modern?"
     answer: "Rencanakan sebelumnya pilihan sekunder seperti pakaian atau makanan melalui rutinitas tetap (seperti gaya Steve Jobs) dan hilangkan gangguan di sekitar meja kerja untuk mencegah pemborosan energi kognitif."
-
 ---
 
 Pietà, David, dan langit-langit Kapel Sistina di Vatikan—karya besar abadi dalam sejarah seni manusia yang diciptakan oleh pematung jenius Renaisans Michelangelo Buonarroti (1475–1564). Di balik karya-karya monumental ini, tersembunyi kebiasaan fokus ekstrem (Flow) yang luar biasa ketat. 🏛️

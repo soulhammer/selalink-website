@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Es obligatorio recoger basura, o basta con solo caminar?"
     answer: "Caminar solo ayuda a activar la DMN, pero combinar una acción altruista como recoger basura con el 'ordenamiento ambiental' libera mayores niveles de dopamina y serotonina, induciendo un estado mental considerablemente más despejado."
-
 ---
 
 “Recoger basura es una forma de limpiar mi mente y observar detenidamente la naturaleza.” 🌿

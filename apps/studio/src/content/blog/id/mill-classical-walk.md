@@ -21,7 +21,6 @@ faqs:
     answer: "Mendengarkan buku audio adalah penerimaan informasi secara pasif yang menutup peluang 'pemanggilan ingatan aktif' (di mana otak secara mandiri melacak memori) dan refleksi mandiri. Mengosongkan pendengaran saat berjalan untuk mengolah kembali materi yang telah dibaca jauh lebih efektif dalam mengaktifkan plastisitas otak."
   - question: "Apakah kecepatan berjalan mempengaruhi stimulasi otak?"
     answer: "Ya, sangat mempengaruhi. Dibandingkan berjalan sangat lambat, kecepatan sedang berseri (sekitar 4–5 km/jam) di mana pernapasan tetap nyaman adalah yang paling optimal. Pada intensitas aerobik ringan ini, sekresi BDNF dan aliran darah otak mencapai tingkat ideal. Berlari terlalu cepat sebaiknya dihindari karena akan mengalihkan sumber daya kognitif ke area pengendalian motorik."
-
 ---
 
 "Jalan seorang raksasa pemikir dimulai dari meditasi pagi dan diskusi mendalam di sepanjang jalan setapak hutan di udara pagi yang segar." 🚶

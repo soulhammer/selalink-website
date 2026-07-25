@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak. Mengamati bentuk-bentuk geometris tak bernyawa dan batas-batas cahaya—seperti bayangan tiang listrik yang jatuh di dinding atau berkas cahaya yang menembus cangkir kaca di atas meja—sama efektifnya untuk mengaktifkan korteks visual."
   - question: "Apakah boleh memotong (crop) atau menerapkan filter digital pada foto setelah mengambil gambar?"
     answer: "Cartier-Bresson secara ketat menghindari pemotongan dan penyuntingan buatan. Memaksa diri Anda untuk menyempurnakan komposisi pada saat penekanan tombol rana adalah hal yang melatih penilaian spasial dan kognisi instan, sehingga sangat disarankan untuk mempertahankan foto asli tanpa diedit."
-
 ---
 
 "Fotografi adalah menyejajarkan kepala, mata, dan hati pada satu garis pandang yang sama." 📷

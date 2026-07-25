@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Warum wählte Mary Shelley speziell das Grab ihrer Mutter?"
     answer: "Ihre Mutter starb direkt nach ihrer Geburt. Das Grab war ihre einzige physische Verbindung zu ihrer Mutter. Dort nachzudenken half ihr, über Geburt, Tod und Identität zu meditieren – die Kernthemen von Frankenstein."
-
 ---
 
 "Einsamkeit ist meine geschätzteste Begleiterin, der geheime Ort, an dem Fantasie geboren wird."

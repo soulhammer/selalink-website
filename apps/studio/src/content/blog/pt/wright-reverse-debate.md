@@ -21,7 +21,6 @@ faqs:
     answer: "Com certeza. Escreva sua tese no papel e assuma o papel de 'Advogado do Diabo', escrevendo um relatório crítico como se fosse seu maior concorrente."
   - question: "Como realizar um debate reverso sem ferir os sentimentos da outra pessoa?"
     answer: "Antes de começar, concordem explicitamente com a regra: 'Estamos aplicando o Método de Debate Reverso dos irmãos Wright'. Esclarecer que é um exercício estruturado e não um ataque pessoal evita atritos."
-
 ---
 
 "Debatemos sem parar. E ao inverter completamente a lógica um do outro, finalmente chegamos à solução." ✈️

@@ -21,7 +21,6 @@ faqs:
     answer: "Cualquier ejercicio aeróbico de cuerpo completo que utilice el tren superior e inferior (como máquina de remo, bicicleta estática, elíptica, jogging con intervalos o burpees) producirá el mismo efecto."
   - question: "¿Hacer ejercicio de alta intensidad todos los días no sobrecarga el cuerpo?"
     answer: "Realice ejercicio intenso 3 veces por semana y ajuste los días restantes con caminatas suaves o estiramientos para prevenir lesiones."
-
 ---
 
 "Cuando muevo mi cuerpo con vigor para remar a través del río, el agotamiento mental y las migrañas que oprimen mi cerebro desaparecen por completo." 🚣

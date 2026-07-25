@@ -21,7 +21,6 @@ faqs:
     answer: "Brahms war ein Perfektionist, der glaubte, dass die Kaffeestärke seinen morgendlichen Wachheitszustand direkt beeinflusste. Die feinmotorische Aktivität des Bohnenmahlens und des manuellen Brührens wirkte als mächtiger mentaler Anker (Mental Anchor), der die Aufmerksamkeitsleistung des Gehirns bündelte."
   - question: "Wie genau trägt das morgendliche Gehen zur Gehirnstimulation und Kreativität bei?"
     answer: "Der rhythmische Auftritt der Füße beim Gehen erzeugt Druckwellen, die die Gehirndurchblutung physisch steigern. Zudem regt aerobe Belastung die BDNF-Ausschüttung an, was die synaptische Plastizität zwischen den Neuronen stärkt und strukturierte Informationsverarbeitung sowie kreative Problemlösung maximiert."
-
 ---
 
 "Das reiche Aroma des Morgenkaffees und die frische Luft der morgendlichen Wälder wecken endlich die musikalischen Ideen in meinem Kopf." ☕

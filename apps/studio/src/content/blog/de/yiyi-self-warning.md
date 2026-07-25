@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Welche Inhalte machen ein Jagyeongmun am effektivsten?"
     answer: "Formulieren Sie eigene Schwächen (z. B. Smartphone-Nutzung reduzieren, Pünktlichkeit) als konkrete, handlungsbezogene positive Aussagen, um dem Gehirn klare Reize zu liefern."
-
 ---
 
 "Wer jeden Morgen die selbst gesetzten Grenzen prüft, lässt sich nicht von den Impulsen des Tages leiten und kann sein Leben vollkommen steuern." 📜

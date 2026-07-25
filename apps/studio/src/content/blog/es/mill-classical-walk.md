@@ -21,7 +21,6 @@ faqs:
     answer: "Escuchar un audiolibro es un procesamiento pasivo que bloquea la 'evocación activa' (donde el cerebro busca internamente en la memoria) y reduce la auto-reflexión. Liberar sus oídos durante la caminata para procesar activamente lo leído es mucho más efectivo para estimular la plasticidad cerebral."
   - question: "¿Afecta la velocidad al caminar a la estimulación cerebral?"
     answer: "Sí, influye. En lugar de un paseo demasiado lento, un ritmo moderado y rítmico (aprox. 4–5 km/h) donde la respiración se mantenga cómoda es lo óptimo. A esta intensidad aeróbica ligera, la secreción de BDNF y el flujo sanguíneo cerebral alcanzan niveles ideales. Debe evitarse correr muy rápido, ya que desplaza los recursos cognitivos hacia el control motor."
-
 ---
 
 “El camino de un gigante intelectual comenzó en la meditación matutina y el diálogo profundo a lo largo de senderos forestales bajo el aire fresco.” 🚶

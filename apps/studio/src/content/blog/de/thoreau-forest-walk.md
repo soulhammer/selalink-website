@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Wie machte sich Thoreau während seines 4-stündigen Spaziergangs Notizen?"
     answer: "Er ging mit einem kleinen, handgefertigten Ledernotizbuch und einem Bleistift in seiner Manteltasche spazieren. Wenn ihm ein Gedanke kam, hielt er an, stellte sich unter einen Baum und hielt Pflanzendetails oder Sätze sofort fest."
-
 ---
 
 "Ich gehe, um zu denken oder zu schreiben. Wenn meine Beine sich in Bewegung setzen, beginnen auch meine Gedanken zu fließen." 🚶‍♂️

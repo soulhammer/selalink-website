@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Quel est le principe scientifique expliquant que l'observation de la nature réduise le stress cérébral ?"
     answer: "Parce qu'au lieu de l'« attention dirigée » sollicitée par les écrans, l'état de « fascination douce » en observant la nature réinitialise complètement l'énergie cognitive épuisée du lobe frontal."
-
 ---
 
 « En contemplant silencieusement les brins d'herbe couverts de rosée, les tiges de concombre et le pas minuscule des insectes qui rampent dessous, la fatigue cérébrale se dissipe pour laisser jaillir une source claire de créativité. » 🌿

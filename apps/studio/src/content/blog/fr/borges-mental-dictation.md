@@ -21,7 +21,6 @@ faqs:
     answer: "C'est un phénomène neurologique tout à fait naturel. Plutôt que de chercher des images détaillées d'emblée, commencez par un modèle abstrait très simplifié — dessinez 2 ou 3 rectangles ou cercles de base reliés par des lignes. Au fil de l'entraînement, la résolution visuo-spatiale du cerveau s'améliorera."
   - question: "L'habitude de la visualisation 3D les yeux fermés aide-t-elle réellement dans la pratique, pour la planification ou le codage ?"
     answer: "Oui, énormément. Les architectes systèmes chevronnés et les planificateurs stratégiques modélisent les flux de données et les dépendances des composants dans l'espace mental avant d'écrire du code ou de rédiger des documents. L'entraînement à la visualisation mentale améliore considérablement la mémoire de travail préfrontale, vous permettant de maintenir et d'assembler des structures logiques complexes sans effort."
-
 ---
 
 « Quand j'ai perdu la vue, c'est alors seulement que j'ai commencé à explorer le monde intérieur et les vrais labyrinthes. » 📚

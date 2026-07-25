@@ -21,7 +21,6 @@ faqs:
     answer: "S'endormir quand on est épuisé est naturel. Cependant, s'asseoir à un bureau et faire une courte note de 5 minutes comme pour un journal intime plutôt que de s'allonger sur le lit aide à prévenir l'endormissement prématuré et l'inertie du sommeil."
   - question: "Que dois-je faire si la culpabilité m'empêche de dormir la nuit ?"
     answer: "Arrêtez immédiatement l'auto-interrogation si la rumination émotionnelle commence. Entraînez-vous plutôt à conclure la réflexion après avoir noté une option alternative telle que 'Ce qui s'est produit ne peut être défait, demain je ferai juste 1 chose différemment'."
-
 ---
 
 « Ne laissez pas le sommeil fermer vos yeux avant d'avoir examiné trois fois les actions de la journée. » 🌙

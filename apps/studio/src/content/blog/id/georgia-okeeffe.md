@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, jenis objek tertentu tidak menjadi masalah. Berfokus secara intensif selama 2 menit pada detail halus objek biasa apa pun—seperti isi pensil, tulang daun, atau retakan halus keramik—mengaktifkan jaringan Perhatian Visual Selektif yang identik."
   - question: "Apakah saya perlu menggunakan kaca pembesar atau alat lensa sungguhan?"
     answer: "Menggunakan kaca pembesar sungguhan meningkatkan ketajaman sensorik, tetapi tidak wajib. Mempraktikkan 'zoom-in sadar' dengan mata telanjang—menyempitkan pandangan Anda secara khusus ke area mikro tertentu—memberikan manfaat neurologis yang identik."
-
 ---
 
 "Jika saya melukis bunga dalam ukuran besar, orang-orang akan terkejut dan meluangkan waktu untuk melihatnya." 🌺

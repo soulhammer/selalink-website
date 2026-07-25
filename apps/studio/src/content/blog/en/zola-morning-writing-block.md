@@ -21,7 +21,6 @@ faqs:
     answer: "Truly urgent contact will always come via a direct phone call. Simply delaying email and message checks until after your 1 hour of morning deep work increases work quality tenfold."
   - question: "How should office workers who cannot spare a full 3 hours apply this?"
     answer: "More important than the number '3 hours' is 'uninterrupted isolation'. Performing deep work in complete isolation for even 30 minutes before work or 45 minutes after work is completely sufficient."
-
 ---
 
 Émile Zola, the titan of 19th-century French literature who pioneered Naturalism and Realism, leaving behind masterpieces like 'Nana', 'L'Assommoir', and the historical manifesto 'J'Accuse...!' against the injustice of the Dreyfus affair. Where did the explosive creative power originate for an author who published dozens of monumental volumes and built sophisticated social critiques throughout his life? ✒️

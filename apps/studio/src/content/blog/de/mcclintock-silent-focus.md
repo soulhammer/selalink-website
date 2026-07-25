@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, das sollten Sie. Der Kern besteht nicht nur darin, die Umgebung leise zu machen, sondern die Einstellung anzupassen, indem Sie Stille vereinbaren. Das pausiert die Sprachverarbeitung und stärkt die visuelle Wahrnehmung."
   - question: "Stört innerer Selbsttalk ohne Stimmbandnutzung die Konzentration während der Schweigephase?"
     answer: "Ja, das tut es. Innerer Selbsttalk verbraucht die phonologische Schleife im Arbeitsgedächtnis. Statt den Monolog gewaltsam zu unterdrücken, lenken Sie die Verarbeitung auf nicht-verbale Bereiche wie das Zählen von Atemzügen um."
-
 ---
 
 "Wenn ich mich ohne ein Wort tief in die Beobachtung vertiefe, offenbaren sich die verborgenen Regeln der Natur und Genetik von selbst." 🌽

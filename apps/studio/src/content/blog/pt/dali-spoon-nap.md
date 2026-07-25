@@ -21,7 +21,6 @@ faqs:
     answer: "Segurar uma colher convertia o relaxamento muscular do início do sono num sinal sonoro que o despertava instantaneamente. Isso impedia que seu cérebro entrasse no sono profundo NREM Estágio 3 — evitando a inércia do sono — enquanto capturava as imagens da hipnagogia."
   - question: "Como posso adaptar esta rotina em ambientes silenciosos como escritórios ou bibliotecas?"
     answer: "Você pode colocar uma toalha dobrada ou almofada sobre o prato para abafar o som, ou configurar um cronômetro de vibração silenciosa de 1 a 2 minutos no celular. Isso permite acordar suavemente durante o sono leve NREM Estágio 1 antes de descer para o sono profundo."
-
 ---
 
 "A inspiração mais elevada revela-se no limite exato do despertar, onde a fantasia do subconsciente cruza com a razão consciente." 🎨

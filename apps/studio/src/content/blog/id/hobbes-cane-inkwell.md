@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, tentu saja. Biografer sezaman dan teman pribadinya John Aubrey mencatat dalam *Brief Lives* bahwa Hobbes memasang botol tinta di kepala tongkat jalannya dan membawa kertas saku untuk mencatat pemikiran setiap kali berjalan-jalan."
   - question: "Apakah perekaman suara atau mengetik teks lebih efektif untuk pencatatan saat bepergian?"
     answer: "Perekaman suara jauh lebih unggul saat berjalan karena membutuhkan perhatian visual-motorik yang minimal, memaksimalkan keselamatan dan kecepatan pencatatan. Mengetik membutuhkan koordinasi jari yang halus dan fokus visual."
-
 ---
 
 "Dalam jalannya ia banyak berjalan dan merenung... dan tongkatnya memiliki botol tinta di kepalanya." 🦯

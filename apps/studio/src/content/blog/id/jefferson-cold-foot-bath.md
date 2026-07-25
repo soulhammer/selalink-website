@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, tentu saja! Dalam surat pribadi Maret 1819 kepada Dr. Vine Utley, Jefferson secara eksplisit menulis bahwa ia telah merendam kakinya dalam air dingin setiap pagi selama 60 tahun."
   - question: "Apakah mandi air dingin seluruh tubuh lebih efektif daripada rendam kaki air dingin?"
     answer: "Mandi air dingin seluruh tubuh memicu lonjakan gairah sistemik yang lebih kuat, tetapi memaksakan guncangan kardiovaskular dan stres fisik yang tinggi. Rendam kaki air dingin mengisolasi stimulus ke saraf perifer, meminimalkan ketegangan kardiovaskular sambil membangunkan otak."
-
 ---
 
 "Saya telah merendam kaki saya dalam air dingin setiap pagi, selama 60 tahun, dan tidak pernah memiliki kebiasaan lain yang dapat disebut aneh..." 🧊

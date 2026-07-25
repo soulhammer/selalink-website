@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait ! Le but n'est pas de créer une œuvre d'art, mais de stimuler les circuits spatiaux par le mouvement de la main. De simples gribouillages suffisent amplement."
   - question: "L'utilisation d'une tablette avec stylet a-t-elle le même effet ?"
     answer: "Oui, c'est possible. Mais si vous utilisez la fonction 'Annuler' ou la stabilisation, votre cerveau se remet à contrôler. Désactivez ces options pour garder une liberté totale."
-
 ---
 
 "L'architecture doit être un espace où l'on respire et où l'on rêve, et ne jamais rester enfermée dans une boîte rectangulaire." 🏛️

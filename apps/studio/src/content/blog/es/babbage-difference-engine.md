@@ -21,7 +21,6 @@ faqs:
     answer: "¡Sí! Los conceptos centrales de los microservicios modernos y la programación modular se derivan directamente de la lógica de modularización de engranajes de la Máquina Diferencial de Charles Babbage."
   - question: "¿Qué debo hacer si se produce un error en un módulo específico?"
     answer: "No altere todo el sistema; simplemente desmonte el módulo defectuoso, depure (repare) sus relaciones causales internas y vuelva a conectarlo."
-
 ---
 
 "Los errores se originan en las emociones humanas, y la verdad se perfecciona en la precisión mecánica." ⚙️

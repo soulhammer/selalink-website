@@ -21,7 +21,6 @@ faqs:
     answer: "Yes. Writing as if addressing someone who will listen without judgment, like an imaginary Theo, maximizes the honest verbalization of emotions and the brain detoxification effect."
   - question: "Can I use a digital note app instead of handwriting?"
     answer: "For emotional purification, handwriting is far more beneficial as it heightens somatosensory cortex engagement and calms the prefrontal cortex, so an analog notebook is strongly recommended."
-
 ---
 
 Vincent van Gogh (1853–1890), one of the greatest painters in late 19th-century art history and a pioneer of Expressionism, sold only a single painting during his lifetime amid extreme poverty and mental isolation, yet left behind immortal masterpieces that captivate humanity today. As a master of French Post-Impressionism, he wrote over 660 letters to his brother Theo throughout his life to overcome loneliness and internal torment. Every night, stepping away from his canvas, he lit a candle in his room and poured out his agonizing thoughts and color inspirations in epistolary form to purify his mind.

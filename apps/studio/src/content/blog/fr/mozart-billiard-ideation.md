@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Les jeux classiques sur smartphone produisent-ils le même effet ?"
     answer: "Les jeux mobiles riches en textes, réseaux sociaux ou stimulations intenses sursollicitent d'autres zones préfrontales, augmentant la charge cognitive. Pour bénéficier du DMN, des jeux analogiques simples ou des simulations physiques axées sur des trajectoires géométriques sont bien plus efficaces."
-
 ---
 
 Wolfgang Amadeus Mozart (1756-1791) était un génie sans équivalent dans l'histoire de la musique classique, capable de rédiger des symphonies et des opéras parfaits d'un jet fluide sans la moindre rature. Au cœur de sa créativité miraculeuse se trouvait une habitude quotidienne unique qui libérait son cerveau de la surchauffe créative. 🎱

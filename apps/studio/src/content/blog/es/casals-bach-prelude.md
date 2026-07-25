@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, absolutamente. Aunque tocar un instrumento estimula adicionalmente la corteza motora, practicar la 'Escucha Activa' —cerrar los ojos y entregar la conciencia a las texturas del sonido— induce un arrastre de ondas alfa idéntico. La clave no es tratar la música como ruido de fondo pasivo, sino dedicar 10 minutos de atención centrada a los matices auditivos."
   - question: "¿Es más efectivo usar auriculares al escuchar música clásica por la mañana?"
     answer: "Sí, usar auriculares proporciona un aislamiento acústico que bloquea el ruido ambiental, facilitando la concentración del cerebro. Además, enviar señales de sonido estéreo directamente a ambos oídos ocupa los canales de la corteza auditiva, evitando distracciones e impulsando el estado de ondas alfa."
-
 ---
 
 "Es una redescubrimiento del mundo del que tengo la dicha de formar parte. Me llena de conciencia sobre la maravilla de la vida y la increíble gracia de ser un ser humano." 🎹

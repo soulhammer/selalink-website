@@ -21,7 +21,6 @@ faqs:
     answer: "Primero defina 3 'hechos básicos irreducibles', como las limitaciones físicas del proyecto, el presupuesto real y las necesidades del usuario. Luego, rediseñe su estrategia desde cero sobre esa base."
   - question: "¿En qué se diferencia el pensamiento lógico convencional del razonamiento de Primeros Principios de Euclides?"
     answer: "La lógica convencional suele basarse en precedentes o analogías pasadas. En cambio, el pensamiento de Primeros Principios reinicia todas las suposiciones a cero, construyendo la lógica desde verdades evidentes e irrestrictas."
-
 ---
 
 "No hay un camino real hacia la geometría." 📐

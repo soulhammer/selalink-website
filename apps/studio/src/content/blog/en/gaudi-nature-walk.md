@@ -21,7 +21,6 @@ faqs:
     answer: "While natural scenery is most effective for stress reduction and attention restoration, walking through irregular urban alleyways or observing unique architectural structures stimulates the visual cortex just as well, making city walks an excellent alternative."
   - question: "Can I replace this walking routine with intense running or treadmill workouts?"
     answer: "Intense running or indoor treadmill sessions are great for cardiovascular conditioning, but fail to provide the cognitive bandwidth needed for visual exploration and contemplation. To trigger creative ideation and brain reset, a steady, deliberate 'exploration walk' is optimal."
-
 ---
 
 "Nature is my lifelong teacher. The straight line belongs to man, the curved line to God." ⛪

@@ -21,7 +21,6 @@ faqs:
     answer: "Locke menggambar kisi yang menggabungkan 26 huruf alfabet dengan 5 huruf vokal (a, e, i, o, u) pada halaman pertama jurnalnya. Ia mencatat nomor halaman pada persimpangan kisi yang sesuai dengan huruf awal dan vokal pertama kata kunci (misalnya, 'Epistola' di bawah baris E, kolom i)."
   - question: "Apakah mencatat di kertas analog lebih unggul daripada perangkat lunak manajemen pengetahuan digital modern?"
     answer: "Penulisan tangan analog menstimulasi korteks somatosensori secara kuat, membantu pengodean awal yang mendalam, sementara alat digital unggul dalam pencarian cepat dan penautan. Pendekatan yang ideal adalah sistem hibrida: menangkap ide dalam jurnal analog terlebih dahulu, lalu mengindeksnya di basis data digital."
-
 ---
 
 "Pemikiran yang tidak dituliskan lenyap seperti kabut pertengahan musim panas tanpa meninggalkan jejak. Hanya simbol yang diindeks secara sistematis yang mengubah papan tulis kosong otak manusia menjadi repositori pengetahuan abadi." 📖

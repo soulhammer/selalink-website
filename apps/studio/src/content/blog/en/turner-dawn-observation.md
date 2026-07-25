@@ -21,7 +21,6 @@ faqs:
     answer: "It is actually better. Turner preferred observing the scattered atmospheric light on cloudy, snowy, or foggy days over bright sunny days. On overcast days, you can capture the subtle shade transitions created by light and atmospheric moisture much better."
   - question: "Is it okay to observe sunlight during the day if I struggle to wake up early at dawn?"
     answer: "Intense daylight during the day is too harsh for the retina and can easily cause eye damage, while its constant color temperature offers lower contrast sensitivity training benefits. The gentle shift from cool blue to warm orange just before sunrise is the safest and maximizes neuro-stimulation effects."
-
 ---
 
 Joseph Mallord William Turner (1775–1851), a prominent 19th-century British Romantic painter known as the 'Painter of Light' for his ability to capture subtle changes in light and atmosphere, woke up earlier than others every dawn to observe the majestic sunlight and cloud scattering at sunrise. This dawn light observation reset his circadian rhythm and provided him with profound artistic inspiration.

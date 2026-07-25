@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Hat das Gehen auf einem Laufband im Innenraum denselben Effekt?"
     answer: "Die Steigerung der Gehirndurchblutung ist ähnlich, aber die visuelle Erkundung der Natur bietet visuell-räumliche Reize und senkt das Cortisol wesentlich effektiver beim Gehen im Freien oder in Parks."
-
 ---
 
 Sokrates (ca. 470–399 v. Chr.) war der Weise des antiken Athens, der das Fundament der westlichen Philosophie legte und die Menschheit lehrte, ihre eigene Unwissenheit zu reflektieren. Berichte von Platon und Xenophon beschreiben seine einzigartige Gewohnheit. 👣

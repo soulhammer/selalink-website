@@ -21,7 +21,6 @@ faqs:
     answer: "Nein. Blaulicht und digitale Reize halten das Gehirn in Erregung und hemmen die Melatoninausschüttung. Echte kognitive Entspannung erfordert analoge Tätigkeiten ohne Bildschirmkontakt."
   - question: "Was tun, wenn 30 Minuten jeden Abend zu lang oder schwer einzuplanen sind?"
     answer: "Selbst 10 Minuten sind effektiv. Das Zuklappen des Laptops, um im Skizzenbuch zu zeichnen oder ins Notizbuch zu schreiben, signalisiert dem Gehirn 'Der Arbeitstag ist vorbei' und leitet Entspannung ein."
-
 ---
 
 "Ich verdanke dem Briefmarkensammeln den Erhalt meines Verstandes." ✉️

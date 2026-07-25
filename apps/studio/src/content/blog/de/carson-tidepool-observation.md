@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut. Obwohl der Maßstab kleiner ist, erzeugt das genaue Untersuchen von Blattadern oder Bodentexturen bei Zimmerpflanzen 'Sanfte Faszination', was den Präfrontalkortex entspannt und Stress reduziert."
   - question: "Ist es in Ordnung, wenn ich keine Zeichenkenntnisse habe und keine Skizzen anfertigen kann?"
     answer: "Ja, absolut. Skizzieren ist nur ein optionales Hilfsmittel zur Strukturierung der visuellen Aufmerksamkeit. Wenn Sie nicht zeichnen können, reicht es völlig aus, Farben, Texturen und Veränderungen des Objekts in 2 bis 3 detaillierten Sätzen zu beschreiben."
-
 ---
 
 "Wer die Schönheit der Erde betrachtet, findet Reserven an Kraft, die so lange anhalten wie das Leben selbst." 🐚

@@ -21,7 +21,6 @@ faqs:
     answer: "Mindmaps dienen dem freien Brainstorming. Lovelaces Methode hingegen modelliert die operative Logik eines Systems – Datenflüsse, Kontrollschleifen und kausale Strukturen."
   - question: "Muss man dafür komplizierte Software wie UML oder Figma nutzen?"
     answer: "Nein! Die Bedienung komplizierter Software verbraucht wertvolle Denkkapazität. Das freie Skizzieren auf Papier oder Whiteboard aktiviert die duale Kodierung direkter und ohne Ablenkung."
-
 ---
 
 "Ich erblicke die wahre Schönheit der Mathematik, wenn ich verborgene organische Verbindungen visuell veranschauliche." 📊

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Wie können beschäftigte Menschen Martins Routine anpassen, wenn sie keine Stunden Zeit zum Meditieren haben?"
     answer: "Sie müssen nicht stundenlang meditieren. Eine 'bewusste Pause (Intentional Pause)' von nur 5 Minuten vor Arbeitsbeginn reicht völlig aus. Schließen Sie am Schreibtisch vor dem Einschalten des Computers die Augen, atmen Sie dreimal tief durch und fragen Sie sich: 'Was ist heute das Wesentliche?'. Das allein bewirkt ein metakognitives Tuning zur Lärmbereinigung."
-
 ---
 
 "Ich sitze auf meinem Stuhl und warte, bis mein Geist völlig leer ist. Erst wenn nichts mehr in meinem Geist ist, erscheint das wahre Bild der Malerei vor meinen Augen." 🧘‍♀️

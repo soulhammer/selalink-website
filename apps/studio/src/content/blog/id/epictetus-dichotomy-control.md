@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, sepenuhnya benar. Kendali Anda hanya sampai pada upaya tulus Anda; bagaimana orang lain meresponsnya adalah 100% milik mereka. Momen saat Anda menyadari batasan ini, stres antarpribadi akan sirna."
   - question: "Apakah mengabaikan hasil akhir tidak mengurangi gairah atau motivasi saya?"
     answer: "Sama sekali tidak. Justru sebaliknya. Membebaskan otak dari kecemasan akan hasil akhir memungkinkan Anda menyalurkan 100% energi kognitif ke dalam tindakan itu sendiri."
-
 ---
 
 "Kebebasan adalah satu-satunya tujuan yang layak dalam hidup. Kebebasan dimenangkan dengan mengabaikan hal-hal yang berada di luar kendali kita." 📜

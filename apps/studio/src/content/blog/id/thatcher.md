@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, meninjau prioritas jadwal dengan bersuara 30 menit sebelum memulai pekerjaan intensif secara proaktif mengaktifkan kontrol eksekutif korteks prefrontal."
   - question: "Bagaimana cara menggantinya jika tidak memiliki papan catatan khusus atau fasilitas briefing?"
     answer: "Cukup melafalkan dengan bersuara 3 tugas inti hari ini yang tercatat di buku catatan Anda di ruang yang tenang sudah cukup sebagai pengganti."
-
 ---
 
 Margaret Thatcher, Perdana Menteri wanita pertama Inggris yang dijuluki 'Wanita Besi', memimpin reformasi konservatif yang tegas dan restrukturisasi ekonomi yang membawa Inggris keluar dari stagnasi. Setiap malam hingga jam 2 pagi, beliau membaca ratusan halaman laporan resmi di ruang kerjanya. Dengan penanda kuning, beliau menyaring retorika birokratis dan berfokus pada tiga pilar utama: kelayakan kebijakan, indikator anggaran, dan aspek hukum. Rutinitas malam ini memperkuat kepemimpinannya yang tegas.

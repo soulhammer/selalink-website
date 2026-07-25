@@ -21,7 +21,6 @@ faqs:
     answer: "Regular la presión y el ángulo del pincel requiere Control Motor Fino, activando la corteza somatosensorial y prefrontal. Esta atención concentrada reduce las señales de amenaza en la amígdala, suprimiendo la ansiedad."
   - question: "¿Puedo obtener los mismos beneficios con una pluma estilográfica o bolígrafo si no tengo pinceles de caligrafía?"
     answer: "¡Sí, totalmente! La clave no es la herramienta, sino el 'control de la presión y la reducción de la velocidad'. Utilizar una pluma estilográfica, pluma de inmersión o lápiz escribiendo despacio (Slow Writing) ofrece los mismos beneficios para calmar el sistema nervioso."
-
 ---
 
 "Mientras concentro toda mi fuerza en la punta del pincel para trazar una línea, las distracciones caóticas se desvanecen, dejando solo una convicción transparente sobre el papel." 🖌️

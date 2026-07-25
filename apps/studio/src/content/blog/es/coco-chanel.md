@@ -21,7 +21,6 @@ faqs:
     answer: "Aísle el objetivo principal y pregunte: 'Si se elimina este gráfico o sección, ¿el problema fundamental que se resuelve sigue estando claro?' Si la respuesta es sí, el elemento es adorno. Eliminarlo amplifica la claridad y la persuasión."
   - question: "¿Se puede aplicar la metodología de corte de Chanel al espacio de trabajo personal y a la organización diaria?"
     answer: "Sí, ofrece beneficios cognitivos notables. Al organizar su escritorio o armario, elimine el desorden guardado 'por si acaso' para conservar solo el 20% de herramientas y prendas que usa a diario. Eliminar el ruido visual reduce drásticamente la sobrecarga prefrontal."
-
 ---
 
 "La simplicidad es la clave de toda verdadera elegancia." ✂️

@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak apa-apa. Dalam 2 menit menuliskan pikiran tersebut, misi menangkap gelombang Theta sudah berhasil. Minum air atau meregangkan tubuh sesudah menulis akan mengirim sinyal bangun ke otak sehingga rasa kantuk cepat hilang."
   - question: "Apa yang harus dilakukan jika tidak ada yang terlintas di pikiran begitu bangun tidur?"
     answer: "Jika tidak ada yang terlintas, cukup tuliskan kata sifat sederhana seperti 'mengantuk' atau 'tidak tahu' sebanyak 3 kali berturut-turut untuk mengatasi gesekan awal antara pulpen dan saraf motorik otak."
-
 ---
 
 Franz Schubert, komponis jenius Austria yang mewakili musik Romantik abad ke-19 dan dijuluki Raja Lagu (Liederfürst), menghasilkan lebih dari 600 lagu lirik dan simfoni megah sebelum meninggal di usia muda 31 tahun. Setiap pagi begitu membuka mata, ia langsung menuju meja komposisi di samping tempat tidurnya tanpa melepas kacamata, dan mulai menulis notasi pada kertas musik. Agar tidak kehilangan jejak bawah sadar musik yang muncul saat setengah tertidur, ia bahkan tidur dengan kacamata terpasang. Rutinitas menulis langsung yang menghilangkan gesekan antara bangun dan mulai bekerja ini adalah kekuatan yang menjadikannya komponis abadi.

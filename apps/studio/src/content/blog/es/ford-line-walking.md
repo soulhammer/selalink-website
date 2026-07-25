@@ -21,7 +21,6 @@ faqs:
     answer: "Las pantallas digitales carecen de fricción física, lo que reduce la retroalimentación somatosensorial e introduce distracciones. El papel físico ofrece resistencia en la punta del lápiz que estimula la corteza cerebral con mayor profundidad. Se recomienda usar papel real."
   - question: "¿Es igual de efectivo dibujar esquemas sentado que caminando?"
     answer: "Dibujar sentado ofrece beneficios de externalización, pero combinarlo con movimiento físico y seguimiento visual potencia los resultados. Caminar aumenta el flujo sanguíneo cerebral, mientras que el seguimiento visual prepara los circuitos cerebelosos para un mejor razonamiento espacial."
-
 ---
 
 "Para reducir el desperdicio, primero hay que trazar el flujo físico con claridad visual." 🚗

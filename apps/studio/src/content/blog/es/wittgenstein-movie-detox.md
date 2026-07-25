@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Ver reels o vídeos cortos en el teléfono tras el trabajo produce el mismo efecto de reinicio cerebral?"
     answer: "¡No, en absoluto! Los vídeos cortos bombardean el cerebro con estímulos impredecibles cada pocos segundos. Cada deslizamiento fuerza a reinterpretar situaciones y dispara la dopamina, dispersando las ondas cerebrales. La clave de Wittgenstein es sumergirse en un estímulo continuo y pausado para pausar la cognición."
-
 ---
 
 "Cuando la investigación filosófica me vuelve loco, la sencillez de los westerns americanos desde la primera fila del cine es el único elixir que revive mi cerebro." 🤠

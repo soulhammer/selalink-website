@@ -21,7 +21,6 @@ faqs:
     answer: "Da es unpraktisch war, beim Gehen schwere Notizbücher mitzunehmen. Die festen, kleinen Spielkarten waren ideal, um im Stehen oder Gehen spontane Notizen zu machen."
   - question: "Kann man die Vorteile eines botanischen Spaziergangs auch in einem Stadtpark erzielen?"
     answer: "Ja, absolut. Selbst ohne Pflanzen zu pflücken, stimuliert das aufmerksame Betrachten von Blättern, Moos oder Blumen in einem Stadtpark das Aufmerksamkeitserholungsnetzwerk des Gehirns."
-
 ---
 
 "Ich kann nur beim Gehen meditieren. Wenn ich stehe, hört mein Denken auf; mein Kopf arbeitet nur mit meinen Beinen." 🚶‍♂️

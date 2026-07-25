@@ -21,7 +21,6 @@ faqs:
     answer: "O Sandwalk era um percurso circular de cascalho e terra construído por Darwin em sua propriedade em Kent. Ele o percorria diariamente, usando pequenas pedras para contar voltas automaticamente e reduzir a carga da memória de trabalho enquanto organizava 'A Origem das Espécies'."
   - question: "Devo forçar ativamente minha mente a pensar no problema enquanto caminho?"
     answer: "Não. Em vez de forçar um foco contínuo, mantenha um único problema na mente e direcione sua atenção ao ritmo da caminhada. Isso permite que a Rede de Modo Padrão (DMN) funcione, maximizando a 'Incubação Cognitiva' subconsciente."
-
 ---
 
 "Enquanto observava a natureza, meus passos nunca vacilaram. Caminhar era a ferramenta do meu cérebro para soltar pensamentos rígidos e gerar novas conexões." 🪨

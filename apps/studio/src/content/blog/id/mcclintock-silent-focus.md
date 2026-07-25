@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, tentu saja. Kunci rutinitas keheningan tidak sekadar membuat lingkungan luar tenang, tetapi menata pola pikir dengan mematikan notifikasi dan berkomitmen hening, memicu otak menghentikan area bahasa dan meningkatkan pengolahan visual."
   - question: "Apakah berbicara sendiri di dalam pikiran tanpa bersuara menggangu konsentrasi selama periode hening?"
     answer: "Ya, itu mengganggu. Berbicara sendiri di dalam pikiran mengonsumsi simpul fonologis dalam ingatan kerja. Daripada menekan dialog internal secara paksa, alihkan pengolahan otak ke area non-verbal dengan menghitung napas atau berfokus pada persepsi visual."
-
 ---
 
 "Saat aku meresapi pengamatan secara mendalam tanpa mengucapkan sepatah kata pun, aturan alam dan gen yang tersembunyi akan mengungkap dirinya sendiri." 🌽

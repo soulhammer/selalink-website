@@ -21,7 +21,6 @@ faqs:
     answer: "Não, o efeito é significativamente diferente. Digitar envolve toques leves e repetitivos que simplificam o estímulo sensorial. Pelo contrário, guiar uma caneta traço a traço exercita áreas de associação complexas em todo o cérebro, sendo incomparavelmente superior para a memória e foco."
   - question: "Preciso me preocupar com a caligrafia ou beleza da letra?"
     answer: "Não é necessária uma caligrafia perfeita. A essência do exercício reside no cérebro se concentrar na pressão tátil e na direção do traço. Desde que seja legível para você, escrever em um ritmo natural é benéfico. Concentre-se no feedback tátil em vez da beleza da letra."
-
 ---
 
 Malcolm X (1925–1965) foi um líder e orador carismático que encantou multidões durante a era dos direitos civis nos EUA. Por trás da figura icônica que impressionava pelo vocabulário eloquente, escondia-se um passado doloroso em que ele mal conseguia escrever uma frase coerente. 📖

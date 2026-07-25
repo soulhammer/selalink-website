@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Sollte ich diese Gewohnheit jeden Tag praktizieren?"
     answer: "Ja, die neuronale Plastizität wird maximiert, wenn sie zu einer festen täglichen Zeit praktiziert wird. Die kontinuierliche Ausführung stärkt die Schaltkreise der Neuroplastizität."
-
 ---
 
 „Die Klarheit meiner Philosophie ist wie die Reinheit des Lichts, das durch eine Glaslinse fällt.“ 🔍

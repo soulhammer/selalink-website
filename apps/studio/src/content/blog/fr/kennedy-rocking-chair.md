@@ -21,7 +21,6 @@ faqs:
     answer: "Oui ! Déverrouiller le mécanisme d'inclinaison de votre siège de bureau et balancer doucement le buste stimule les récepteurs vestibulaires, prévenant la charge statique et activant le système parasympatique."
   - question: "Quelle est la vitesse ou la cadence idéale de balancement pour apaiser le système nerveux ?"
     answer: "La cadence idéale pour favoriser la relaxation se situe entre 0,5 Hz et 1 Hz. Accomplir un cycle complet d'avant en arrière toutes les 1,5 a 2 secondes produit una onde douce qui apaise le système nerveux."
-
 ---
 
 « Au milieu d'une vive souffrance physique et d'une crise nationale, j'ai besoin d'un espace qui stabilise mon corps et mon système nerveux. Le balancement doux du fauteuil apaise mon dos et restaure ma clarté dans le Bureau ovale. » 🪑

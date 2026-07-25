@@ -21,7 +21,6 @@ faqs:
     answer: "Do not worry about melodic perfection or dissonance. Focus on the physical weight of the keys and the resonance of the sounds, pressing keys freely. This is the key to relaxing and resetting the brain's attention network."
   - question: "Can I achieve cognitive reset with instruments other than the piano?"
     answer: "Yes, string or keyboard instruments like the guitar or ukulele that engage tactile finger feedback and sound resonance provide the same cognitive attention switching effect."
-
 ---
 
 "I only stop my brain's tension when I place my fingers on the piano keys and throw myself into free dissonances." Max Planck, the legendary German physicist who formulated quantum theory and discovered Planck's constant (h), bringing an end to classical physics and opening the era of modern physics. Reconstructing macroscopic and microscopic universe physics brought severe mathematical overload and brain fatigue to Planck. His sanctuary when facing mental exhaustion was his piano. A highly accomplished pianist, Planck often played piano-violin duets with his close friend and physics colleague Albert Einstein. Every day after dense theoretical work or when hitting a wall, Planck closed his sheet music and improvised freely on the keys. This post examines the neuroscientific mechanism behind how artistic cognitive switching resets the brain.

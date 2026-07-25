@@ -21,7 +21,6 @@ faqs:
     answer: "Vous pouvez facilement le pratiquer seul. Les exercices de rebond de balle contre un mur (avec des balles de tennis), le travail au sac de frappe ou les exercices d'échelle d'agilité stimulent le cervelet et le cortex moteur, mettant le cortex préfrontal hors ligne."
   - question: "Pratiquer un exercice physique lors de journées d'épuisement mental extrême n'accumule-t-il pas plus de fatigue ?"
     answer: "La fatigue cognitive mentale et la fatigue musculaire physique sont physiologiquement distinctes. La fatigue cérébrale due au travail intellectuel provient d'une congestion métabolique dans le cortex préfrontal. Pratiquer une « Récupération Active (Active Recovery) » — bouger pour faire circuler le sang et déplacer l'activité vers le cervelet — élimine la fatigue cérébrale."
-
 ---
 
 « Tout ce que je sais de plus sûr sur la morale et les devoirs des hommes, c'est au football que je le dois. » ⚽

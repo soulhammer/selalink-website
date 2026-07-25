@@ -9,9 +9,8 @@ heroImage: "/images/blog/marx_reading_room.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografi historis, catatan autobiografi Karl Marx & penelitian neurosains kognitif (Cognitive Neuroscience)"
-steps:
-
-
+steps: []
+faqs: []
 ---
 
 Karl Marx membedah mekanisme tersembunyi masyarakat melalui ilmu ekonomi. Temukan kebiasaan membaca tekunnya yang mempelajari dan mencatat literatur luas selama 10 jam sehari di Ruang Baca British Museum selama pengasingannya di London, beserta prinsip ilmu sarafnya.

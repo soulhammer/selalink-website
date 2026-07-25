@@ -21,7 +21,6 @@ faqs:
     answer: "Remplacez les sentiers de montagne par une marche de 30 minutes dans un parc urbain, un jardin botanique ou une allée arborée, sans téléphone. L'essentiel est d'activer la perception visuo-spatiale et l'irrigation cérébrale."
   - question: "Quelle est la meilleure méthode pour consigner les idées émergées pendant la marche sans rompre le rythme ?"
     answer: "Emportez un carnet de poche et un crayon pour noter quelques mots-clés dès qu'une idée surgit. Vous pouvez aussi utiliser un enregistreur vocal rapide pour ne pas interrompre votre allure."
-
 ---
 
 « En arpentant les sentiers des Alpes, j'efface les résidus de formules mathématiques complexes et contemple la réalité profonde de la nature. » 🌲

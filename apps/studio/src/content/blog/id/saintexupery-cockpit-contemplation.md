@@ -21,7 +21,6 @@ faqs:
     answer: "Ya! Setelah menulis draf secara bebas dan jujur, pangkas kata penjelas yang tidak perlu, jargon, dan kalimat yang bertele-tele pada peninjauan kedua untuk menggandakan daya penyampaian."
   - question: "Bagaimana jika konteks hilang karena terlalu banyak dipangkas?"
     answer: "Pertahankan kata benda dan kata kerja kunci, lalu fokuskan pemangkasan pada kata sifat emosional atau penjelasan yang berulang; konteks esensial justru akan menjadi lebih jelas."
-
 ---
 
 "Kesempurnaan dicapai bukan saat tidak ada lagi yang bisa ditambahkan, melainkan saat tidak ada lagi yang bisa dikurangi." ✈️

@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, les recherches en psychologie cognitive sur la cognition habillée (Enclothed Cognition) le prouvent fermement. Le simple fait de troquer un pyjama ou une tenue d'intérieur contre des vêtements soignés comme un pantalon ou une chemise incite le cerveau à faire basculer son mode symbolique d'un 'contexte de repos' vers un 'contexte de travail', réduisant la procrastination et diminuant spectaculairement le temps de mise en train pour une immersion profonde."
   - question: "S'il est difficile de se changer entièrement en costume ou en tenue d'extérieur, un seul article comme des lunettes ou une montre peut-il être efficace ?"
     answer: "Oui, tout à fait ! Tant que l'article est reconnu par le cerveau comme un 'signal de travail symbolique', des indices simples comme mettre des lunettes, porter une montre analogique dédiée au travail ou enfiler des chaussons d'intérieur propres peuvent induire le même effet de conditionnement. La clé réside dans le respect constant de votre propre règle symbolique : 'Porter cet article déclenche le mode d'immersion'."
-
 ---
 
 "Quand vient le soir, je retourne chez moi et j'entre dans mon cabinet de travail. Sur le seuil, je dépouille mes habits de tous les jours, couverts de boue, et je me revêts d'habits royaux et d'apparat. Revêtu convenablement, j'entre dans les cours antiques des anciens." 👑

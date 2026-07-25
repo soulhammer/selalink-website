@@ -21,7 +21,6 @@ faqs:
     answer: "El tiempo gastado en corregir errores, disculparse y rehacer el trabajo más tarde es 10 veces mayor. Invertir 10 minutos de revisión previa es en realidad el camino más rápido."
   - question: "¿Se puede aplicar el cotejo cuantitativo a textos o tareas administrativas?"
     answer: "¡Sí! Cree una lista cuantitativa centrada en 3 elementos clave propensos a errores (fechas, ortografía, enlaces, nombres de clientes) y aplique el mismo método."
-
 ---
 
 Rosalind Franklin (1920–1958) fue una brillante fisicoquímica británica que capturó la 'Foto 51', la clave decisiva para descifrar la estructura en doble hélice del ADN, uno de los hallazgos más trascendentales del siglo XX. A pesar de los prejuicios y las difíciles condiciones, sus datos no admitían ni un 0.01% de margen de error. 🧬

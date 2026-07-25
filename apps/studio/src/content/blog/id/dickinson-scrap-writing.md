@@ -21,7 +21,6 @@ faqs:
     answer: "Meskipun tindakan digital tampak lebih cepat, membuka kunci layar, mencari aplikasi, dan melihat notifikasi mendorong otak Anda untuk memproses rangsangan baru. Ini sepenuhnya menimpa ide rapuh yang diinkubasi di memori kerja Anda, menyebabkannya menguap. Pensil fisik dan selembar kertas menciptakan nol gesekan kognitif, memungkinkan terjemahan pemikiran yang murni tanpa filter."
   - question: "Bukankah lebih baik untuk efisiensi dan kreativitas jika kita sangat fokus dan mengeksekusi pekerjaan rumah tangga secara teliti?"
     answer: "Dari perspektif kreativitas, tidak. Efek Inkubasi dimaksimalkan tepat ketika korteks prefrontal untuk sementara menangguhkan penilaian logis dan masuk ke 'kondisi pengembaraan pikiran, semi-bawah sadar' (aktivasi DMN). Oleh karena itu, daripada menangani resep yang sangat rumit, melakukan pekerjaan fisik rutin yang dipilot otomatis—seperti mencuci piring—menghasilkan tingkat terobosan baru tertinggi."
-
 ---
 
 "Inspirasi adalah tamu yang sangat rapuh; jika Anda tidak siap menyambutnya, ia lenyap tanpa jejak." 📝

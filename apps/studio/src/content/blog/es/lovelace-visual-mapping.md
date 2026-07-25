@@ -21,7 +21,6 @@ faqs:
     answer: "Los mapas mentales se centran en la lluvia de ideas radial. El mapeo de Lovelace modela la lógica operativa: flujos de datos, bucles de control, bifurcaciones condicionales y causalidad estructurada."
   - question: "¿Es necesario utilizar herramientas digitales complejas como UML o Figma?"
     answer: "¡No! Distraerse con la interfaz del software malgasta recursos cognitivos. El dibujo analógico a mano sobre papel o pizarra activa la doble codificación de forma más directa y sin distracciones."
-
 ---
 
 "Encuentro la verdadera belleza de las matemáticas cuando proyecto visualmente las conexiones orgánicas entre conceptos." 📊

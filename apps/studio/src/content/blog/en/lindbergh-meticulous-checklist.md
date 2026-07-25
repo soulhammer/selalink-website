@@ -21,7 +21,6 @@ faqs:
     answer: "No. When checklists grow overly verbose, the brain experiences fatigue and triggers automatic skipping behavior. Neuroscientifically, limiting checklists tightly to 5 to 9 high-leverage critical checkpoints (aligning with Miller's Law working memory chunking limits) is optimal."
   - question: "What types of tasks benefit most from applying a structured checklist execution routine?"
     answer: "Checklists deliver exceptional zero-defect benefits across procedural tasks: recurring operational routines, final pre-launch review stages for public-facing projects, contract evaluations, financial deployments, or travel packing where missing a single step creates severe consequences."
-
 ---
 
 "Quality is never an accident; it is always the result of intelligent effort. Never overestimate human memory capacity. A single piece of paper can divide life from death." ✈️

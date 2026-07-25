@@ -21,7 +21,6 @@ faqs:
     answer: "Lying completely flat while craning your neck forward induces severe cervical and spinal strain. To safeguard your spine, support your upper body at 45 degrees or higher using firm back cushions, and strictly cap your bed session to 20–30 minutes to balance musculoskeletal health with cognitive output."
   - question: "Can I check my emails or instant messages for just 5 minutes right after waking up?"
     answer: "No. Exposing your brain to fragmented external demands even for 5 minutes instantly dissipates the potent cognitive surge delivered by the Cortisol Awakening Response (CAR). To preserve prefrontal bandwidth, leave your smartphone off until you complete your single top-priority task."
-
 ---
 
 "My best economic theories were woven before the morning sun rose, propped up against pillows under a warm blanket." 🛏️

@@ -21,7 +21,6 @@ faqs:
     answer: "Mark Zuckerberg trägt bei offiziellen Anlässen oder Vorstandsitzungen ebenfalls Anzüge. Das Ziel der Einheitskleidung ist die Vermeidung belangloser Entscheidungen. Legen Sie vorab eine Kombination für formelle Anlässe fest, um Entscheidungsmüdigkeit zu vermeiden."
   - question: "Kann ich ein Uniform-Outfit auch mit anderer Kleidung als T-Shirts und Jeans zusammenstellen?"
     answer: "Selbstverständlich. Hemden mit Stoffhosen, Kleider oder jede andere einfache Kombination, die Sie als bequem empfinden und keine Pflegeaufwände erfordert, ist bestens geeignet, solange Sie mehrere identische Stücke besitzen."
-
 ---
 
 "Ich möchte mein Leben so einfach wie möglich gestalten, damit ich so wenige Entscheidungen wie möglich treffen muss, außer wie ich dieser Gemeinschaft am besten dienen kann." 👕

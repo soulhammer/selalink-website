@@ -21,7 +21,6 @@ faqs:
     answer: "Untuk membangun batasan sosial yang tak terelakkan yang membuat keluar ke depan umum menjadi tidak tertahankan secara sosial karena penampilannya yang aneh. Ini mengeliminasi energi kemauan yang diperlukan untuk melawan godaan, mengunci 100% sumber daya eksekutif prefrontal-nya pada pelatihan pidato."
   - question: "Perangkat Komitmen praktis apa yang dapat digunakan masyarakat modern tanpa harus mencukur kepala mereka?"
     answer: "Perangkat Komitmen modern yang efektif meliputi penggunaan kotak brankas pengunci waktu fisik untuk smartphone, mengaktifkan perangkat lunak pemblokir situs web yang ketat di komputer selama blok kerja, atau membuat kontrak hukuman finansial (misalnya, berkomitmen membayar denda jika target terlewat)."
-
 ---
 
 "Jangan mengandalkan kemauan untuk melawan godaan. Bangunlah batasan yang tak terelakkan yang mengunci fokus Anda hanya pada tugas." 🏛️

@@ -21,7 +21,6 @@ faqs:
     answer: "No. Swimming was simply Dieter Rams' preferred aerobic exercise. Any light aerobic activity that wakes up cerebral blood flow—such as light indoor jogging, stretching, or a 10-minute brisk walk—works just fine."
   - question: "Can I observe urban buildings or stylish interior design instead of natural objects?"
     answer: "Artificially processed interiors or geometric city buildings subtly demand analytical interpretation ('Why was it built like that?', 'What is that?') from the brain. To restore cognitive fatigue, observing organic natural objects that require no interpretation is ideal."
-
 ---
 
 "To raise the quality of design, one needs quiet time to simplify and observe objects." 🏊‍♂️

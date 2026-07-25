@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Should I practice this habit every single day?"
     answer: "Yes. Practicing daily at a consistent time maximizes neuroplasticity. Reinforcing the brain's neuroplasticity circuits through steady execution in the same setting every night is the surest key to lasting benefit."
-
 ---
 
 "When the light has been removed and my wife has fallen silent, I examine my entire day and measure my deeds and words. The soul is quietest and most peaceful when examining itself."

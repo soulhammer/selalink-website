@@ -21,7 +21,6 @@ faqs:
     answer: "Le Sandwalk était un chemin circulaire en gravier et terre construit par Darwin autour de sa propriété du Kent. Il l'arpentait chaque jour, utilisant de petites pierres pour compter ses tours afin de libérer sa mémoire de travail tout en structurant « L'Origine des espèces »."
   - question: "Faut-il forcer activement son esprit à réfléchir au problème pendant la marche ?"
     answer: "Non. Plutôt que de forcer une réflexion continue, posez une question dans votre esprit et portez votre attention sur le rythme de la marche. Cela permet au réseau en mode par défaut (DMN) de fonctionner, maximisant l'« Incubation Cognitive »."
-
 ---
 
 « Tandis que j'observais la nature, mes pas ne fléchissaient jamais. La marche était l'outil de mon cerveau pour assouplir les pensées rigides et donner naissance à de nouvelles connexions. » 🪨

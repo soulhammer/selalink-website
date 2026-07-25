@@ -21,7 +21,6 @@ faqs:
     answer: "Los temas polémicos estimulan la adrenalina y el cortisol, causando fatiga. Establecer una regla previa —como 'Hoy hablemos de vivencias personales o libros en lugar de noticias'— es el escudo para mantener la Ataraxia."
   - question: "¿Qué pasa si coordinar reuniones semanales en persona con amigos es demasiado difícil?"
     answer: "No es necesario reunirse semanalmente. Un encuentro presencial al mes o una llamada tranquila de 30 minutos cada dos semanas para compartir vivencias es suficiente para estimular la oxitocina."
-
 ---
 
 "Debemos buscar con quién comer y beber antes que qué comer y beber." 🍇

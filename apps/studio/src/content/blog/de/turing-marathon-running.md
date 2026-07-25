@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, jedes kontinuierliche aerobe Training, das die Herz-Kreislauf-Funktion anregt und den BDNF-Spiegel erhöht (wie Radfahren oder Schwimmen), bietet ähnliche Vorteile. Das Laufen im Freien maximiert jedoch die DMN-Entspannung durch Sinneseindrücke wie Wind und Natur."
   - question: "Behindert Musik-Hören beim Laufen die Gehirnerholung?"
     answer: "Musik mit Texten oder intensiven Beats zwingt den Präfrontalkortex dazu, Töne zu filtern und zu analysieren, was die Gehirnerholung stört. Das Hören von Naturgeräuschen oder die Konzentration auf die Atmung ohne Musik ist der Schlüssel zur Aktivierung des DMN."
-
 ---
 
 "Für mich ist das Laufen die schönste Zeit, um meinen Geist von Komplexität zu befreien und in reine Gedanken einzutauchen." 🏃‍♂️

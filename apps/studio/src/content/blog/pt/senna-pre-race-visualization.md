@@ -21,7 +21,6 @@ faqs:
     answer: "A ansiedade aumenta quando o cérebro foca em cenários negativos. Pare a visualização imediatamente e faça o aterramento sensorial (Grounding) — focando na respiração ou no toque da mão —, seguido de alongamentos leves."
   - question: "Qual é a duração recomendada para cada sessão de ensaio mental?"
     answer: "Sessões curtas e intensas de 3 a 5 minutos são as mais eficazes. Como a memória de trabalho é limitada, simular apenas os passos principais 5 minutos antes do compromisso é o ideal."
-
 ---
 
 "Já fiz essa curva perfeitamente centenas de vezes na minha cabeça. Meu corpo apenas recria essa trajetória."

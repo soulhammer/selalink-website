@@ -21,7 +21,6 @@ faqs:
     answer: "Es fundamental revisar y completar sus notas dentro de las 1 o 2 horas posteriores a su captura. Reducir el tiempo entre la nota y el borrador preserva la memoria sensorial."
   - question: "¿Algún consejo si grabar notas de voz en público se siente incómodo por la gente?"
     answer: "Use auriculares y hable suavemente como si estuviera en una llamada telefónica. Esto le permite capturar ideas cómodamente sin llamar la atención."
-
 ---
 
 Antonio Vivaldi (1678–1741), compositor barroco e virtuoso del violín conocido como 'El cura rojo' (Il Prete Rosso), compuso 'Las cuatro estaciones', más de 500 conciertos y 40 óperas. Como director musical en el Ospedale della Pietà de Venecia, ¿cómo plasmaba incesantemente sus ideas musicales? 🎻

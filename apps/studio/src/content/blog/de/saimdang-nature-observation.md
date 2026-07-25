@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Was ist das wissenschaftliche Prinzip hinter der stressreduzierenden Wirkung der Naturbeobachtung?"
     answer: "Weil der Zustand 'sanfter Faszination' beim Betrachten von Naturobjekten anstelle der anstrengenden 'gerichteten Aufmerksamkeit' auf Bildschirmen die kognitiven Energiereserven im Frontallappen zurücksetzt."
-
 ---
 
 "Während man still von Tau benetzte Gräser, Gurkenranken und die winzigen Schritte dahinkriechender Insekten betrachtet, wäscht sich die komplexe Gehirnmüdigkeit fort und eine Quelle klarer Kreativität sprudelt empor." 🌿

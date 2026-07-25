@@ -21,7 +21,6 @@ faqs:
     answer: "Puede practicarlo fácilmente en solitario. Los ejercicios de rebote de pelota contra una pared (con pelotas de tenis o pádel), golpear un saco de boxeo o los ejercicios de escalera de agilidad estimulan el cerebelo y la corteza motora, desconectando eficazmente la corteza prefrontal."
   - question: "¿Realizar ejercicio físico en días de agotamiento mental extremo no acumula más fatiga?"
     answer: "La fatiga mental cognitiva y la fatiga muscular física son fisiológicamente distintas. La fatiga cerebral por trabajo intelectual continuo se debe a la congestión metabólica en la corteza prefrontal. Realizar una 'Recuperación Activa' (Active Recovery) —mover el cuerpo para hacer circular el flujo sanguíneo y desplazar la actividad al cerebelo— es lo que elimina la fatiga cerebral."
-
 ---
 
 "Todo lo que sé con certeza sobre la moral y las obligaciones humanas se lo debo al fútbol." ⚽

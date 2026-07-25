@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Essa rotina deve ser praticada todos os dias?"
     answer: "Sim, a prática diária em horários fixos maximiza a neuroplasticidade. Executar essa rotina no mesmo ambiente fortalece os circuitos pré-frontais de autorreflexão."
-
 ---
 
 «O que sei eu? (Que sçay-je?)» 🏛️

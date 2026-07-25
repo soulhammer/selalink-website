@@ -21,7 +21,6 @@ faqs:
     answer: "Incluso la luz milky suave y sutil de un día nublado es un objeto maravilloso para contemplar la iluminación. También puede observar las refracciones de la luz a través de las gotas de lluvia en los cristales de las ventanas."
   - question: "¿Es eficaz esto incluso si no trabajo en arte o diseño como Vermeer?"
     answer: "¡Sí! Observar en silencio la iluminación visual es el método físico de descanso más rápido para detener el complejo parloteo mental en el cerebro."
-
 ---
 
 Johannes Vermeer, maestro de la pintura barroca holandesa del siglo XVII que creó obras maestras serenas y luminosas como 'La joven de la perla' y 'La lechera'. Junto a la ventana de su taller en Delft se encontraba una 'Cámara Oscura (Camera Obscura)', un dispositivo óptico que proyectaba partículas de luz con precisión. Antes de pintar, observaba en silencio durante decenas de minutos la luz del sol entrante a través de la lente y las finas motas de luz plateada que se formaban en la pared. Mirar tranquilamente la refracción de la luz y las sombras desenfocadas era un hábito supremo de descanso cerebral que calmaba el parloteo mental y guiaba al cerebro hacia una serenidad absoluta.

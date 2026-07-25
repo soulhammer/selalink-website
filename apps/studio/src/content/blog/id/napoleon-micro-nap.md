@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah Napoleon benar-benar tidur siang saat perang berlangsung?"
     answer: "Ya, menurut catatan sejarah, Napoleon memiliki kemampuan luar biasa untuk langsung tertidur bahkan di medan perang yang bergemuruh dengan tembakan meriam, dan bangun tepat 15 menit kemudian dengan pikiran jernih untuk mengeluarkan perintah taktis."
-
 ---
 
 Bahkan di tengah ketegangan ekstrem di medan perang yang bergema dengan tembakan meriam, ada seorang kaisar yang sepenuhnya meriset energinya dengan tidur singkat selama 15 menit: ahli strategi militer dan kaisar legendaris Prancis, Napoléon Bonaparte (1769–1821). 💤

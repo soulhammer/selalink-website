@@ -21,7 +21,6 @@ faqs:
     answer: "An Tagen extremer körperlicher Erschöpfung ist es weitaus besser, anstrengende Workouts durch 5 bis 10 Minuten leichtes Dehnen und tiefes Durchatmen zu ersetzen. Der Kern von Mandelas Routine besteht nicht darin, den Körper zu schinden, sondern die Kontrolle über den Tag durch den eigenen Willen zu übernehmen."
   - question: "Wie sollten Anfänger mit geringer körperlicher Ausdauer diese Routine beginnen?"
     answer: "Passen Sie die Übungen Ihrem Fitnesslevel an: Führen Sie Liegestütze an einer Wand oder auf den Knien aus und ersetzen Sie Kniebeugen durch das Aufstehen von einem Stuhl. Bereits 5 Minuten oder ein einziger Satz pro Tag aktivieren die positive morgendliche Gehirnroutine zur Bewahrung der Autonomie."
-
 ---
 
 „Sport war der Schlüssel zu meinem Leben. Durch Sport konnte ich selbst inmitten extremer Entbehrungen Seelenfrieden finden.“ ☀️

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Se pueden registrar actividades cualitativas como la planificación creativa con métricas cuantitativas como el recuento de palabras o tiempo?"
     answer: "Sí. Para la planificación creativa, en lugar del recuento de palabras, puede definir unidades de producción valiosas como 'Número de ideas clave generadas', 'Referencias de calidad recopiladas' o 'Secciones de esquema detalladas' para aplicar la retroalimentación de manera muy efectiva."
-
 ---
 
 "La educación es lo que sobrevive cuando todo lo aprendido se ha olvidado." 📈

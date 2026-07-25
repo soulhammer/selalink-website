@@ -21,7 +21,6 @@ faqs:
     answer: "Anda tidak perlu berjalan sejauh 15 mil seperti Smith. Durasi klinis yang direkomendasikan untuk meningkatkan aliran darah otak dan aktivasi DMN adalah 20 hingga 40 menit. Yang terpenting adalah durasi fokus tanpa gangguan digital, bukan jaraknya."
   - question: "Apakah saya boleh berjalan di atas treadmill dalam ruangan jika tidak bisa keluar rumah?"
     answer: "Bisa. Namun saat berjalan di atas treadmill, sangat penting untuk tidak menatap layar TV atau ponsel. Arahkan pandangan ke titik netral di dinding dan blokir masukan visual buatan agar dapat larut dalam sensasi langkah kaki."
-
 ---
 
 "Kontemplasi seorang cendekiawan mencapai tatanan paling sempurna di sepanjang jalan setapak yang tenang." 🚶‍♂️

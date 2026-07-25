@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah metode kartu indeks Nabokov dapat direplikasi menggunakan alat catatan digital alih-alih kartu kertas fisik?"
     answer: "Ya, tentu saja. Anda dapat menggunakan tampilan Kanban Notion, Trello, atau alat papan tulis digital (Miro, FigJam) untuk mengubah fragmen pemikiran menjadi kartu dan menggesernya untuk mengatur ulang. Kunci utamanya adalah tidak menulis teks panjang sekaligus, melainkan 'memodularisasi' pemikiran menjadi objek yang dapat dipindahkan kapan saja."
-
 ---
 
 "Sebuah novel tidak ditulis secara berurutan dari awal hingga akhir. Di dalam gambaran sempurna yang ada di pikiran saya, saya hanya mengisi potongan teka-teki yang kosong satu per satu menggunakan kartu." 🃏

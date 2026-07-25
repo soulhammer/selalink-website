@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Manger le même déjeuner chaque jour n'est-il pas mauvais pour la santé ? Comment moderniser l'habitude de Schulz ?"
     answer: "Schulz mangeait des hamburgers traditionnels, mais on peut aujourd'hui les remplacer par une rotation de 3 repas équilibrés ou un abonnement à des salades. L'objectif est d'éliminer « le processus d'hésitation sur le menu ». Fixer 2 ou 3 options de repas sains préserve à la fois la santé et l'énergie cognitive."
-
 ---
 
 « Je m'assois à mon bureau à 9 heures chaque matin et je prends mon stylo. Et pour le déjeuner, je mange toujours un hamburger. Simplifier mon quotidien est le secret de ma créativité. » 🍔

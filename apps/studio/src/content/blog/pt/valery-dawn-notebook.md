@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "E se eu sofrer de privação de sono e achar difícil acordar ao amanhecer?"
     answer: "A rotina de acordar cedo ao amanhecer deve ser acompanhada por ir para a cama cedo para não prejudicar o corpo. Se ir para a cama cedo for impossível devido ao trabalho até tarde, em vez de se forçar a acordar às 4 da manhã, use os primeiros 30 minutos do seu horário normal de despertar como 'Tempo de Desconexão Digital & Cahiers' para desfrutar do mesmo efeito de ancoragem cognitiva."
-
 ---
 
 "O amanhecer é o momento sagrado em que minha consciência desperta em seu estado mais claro e pleno. Apenas os registros deixados a esta hora são minha essência." 🌅

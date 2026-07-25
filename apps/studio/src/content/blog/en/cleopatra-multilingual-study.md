@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, its efficiency is extremely low. Passive viewing merely stimulates receptive auditory circuits in Wernicke's area without motor recruitment of Broca's area. Engaging vocal articulation muscles through aloud reading and actively constructing sentences via handwriting are required to drive synaptic neuroplasticity."
   - question: "Does studying two or more foreign languages simultaneously trigger cognitive overload?"
     answer: "At absolute beginner stages, simultaneous entry can cause linguistic interference. However, once foundational schemas are established in a primary language, switching between distinct grammatical systems (code-switching) serves as a high-level cognitive exercise that strengthens prefrontal executive control and metacognition."
-
 ---
 
 "Her tongue was like an instrument of many strings, which she could turn easily to whatever language she pleased." 👑

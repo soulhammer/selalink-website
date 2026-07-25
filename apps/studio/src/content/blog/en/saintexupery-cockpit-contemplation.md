@@ -21,7 +21,6 @@ faqs:
     answer: "Yes! After writing the draft freely and honestly, boldly trim unnecessary modifiers, jargon, and rambling sentences during the second review to double the impact of your message."
   - question: "What if context is lost because too much was trimmed away?"
     answer: "Keep key nouns and verbs, and focus trimming primarily on emotional modifiers or redundant explanations; the essential context will become clearer."
-
 ---
 
 "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." ✈️

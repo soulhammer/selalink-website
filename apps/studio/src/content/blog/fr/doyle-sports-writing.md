@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait. Conan Doyle était un joueur de cricket de premier ordre pour le Marylebone Cricket Club (MCC) et un boxeur émérite qui a arbitré des championnats. Ses expériences sportives ont apporté un réalisme saisissant aux compétences de combat de Sherlock Holmes."
   - question: "Il est difficile pour les personnes occupées de faire de la boxe ou du cricket. Les séances à la maison offrent-elles les mêmes bienfaits ?"
     answer: "Oui, tout à fait. Le déclencheur physiologique n'est pas le sport en soi, mais l'« élévation du rythme cardiaque pour stimuler l'irrigation cérébrale ». 10 à 15 minutes de squats, burpees, montée d'escaliers ou entrainement Tabata déclenchent la même libération de BDNF."
-
 ---
 
 « Un corps sain est le vase d'un esprit aiguisé, et la sueur purifie la logique du cerveau. » 🥊

@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, utilizar un nivel moderado de ruido blanco ambiental o música ayuda a reducir su campo de atención cognitiva, permitiéndole entrar en un enfoque analítico complejo mucho más rápido."
   - question: "¿Cómo puedo reemplazar los generadores de ruido si no tengo equipo dedicado?"
     answer: "Puede reemplazar equipos dedicados reproduciendo ruido blanco de ritmo rápido, audio ambiental mecánico o pistas instrumentales a través de auriculares comunes para iniciar la concentración."
-
 ---
 
 John von Neumann (1903–1957) fue un eminente matemático, físico, científico de la computación y polímata húngaro-estadounidense del siglo XX. Considerado una de las mentes más brillantes de la historia, estableció la 'arquitectura de Von Neumann' que constituye la base de los ordenadores modernos, fundó la teoría de juegos que revolucionó la economía y realizó contribuciones fundamentales a la mecánica cuántica y al Proyecto Manhattan.

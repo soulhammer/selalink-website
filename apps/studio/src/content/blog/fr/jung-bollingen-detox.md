@@ -21,7 +21,6 @@ faqs:
     answer: "Non. L'essentiel réside dans la 'déconnexion physique des informations artificielles' et la 'focalisation sur des activités manuelles'. Aménager un espace sans téléphone chez soi pendant 30 a 60 minutes procure des bienfaits identiques."
   - question: "Pourquoi des travaux ménagers ou physiques simples favorisent-ils la réflexion profonde ?"
     answer: "Les tâches physiques répétitives nécessitant peu d'effort attentif réduisent la charge cognitive exécutive. Cet état relâche le contrôle préfrontal, permettant au Réseau du Mode par Défaut d'associer librement des concepts inconscients pour faire émerger des intuitions."
-
 ---
 
 « À Bollingen, je suis au cœur de ma vie véritable, je suis le plus profondément moi-même... Il n'y a ni électricité ni eau courante, pourtant mon âme retrouve sa plénitude organique. » 🪵

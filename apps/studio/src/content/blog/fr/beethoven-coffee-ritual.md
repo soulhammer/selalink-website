@@ -21,7 +21,6 @@ faqs:
     answer: "Le chiffre strict de 60 grains contrôlait le goût du café par une quantification parfaite, mais l'acte de compter précisément était en soi un déclencheur cognitif qui coupait les pensées parasites et activait le réseau de contrôle exécutif de haut niveau du cerveau."
   - question: "Les personnes qui ne boivent pas de café peuvent-elles appliquer cette routine de mindfulness ?"
     answer: "Oui, tout à fait. Toute action qui dirige une attention totale vers le toucher et les mouvements fins — comme peser précisément des feuilles de thé, essuyer une tasse ou pratiquer un étirement structuré et de la méditation — produit les mêmes effets de suppression du DMN et d'amélioration de la focalisation."
-
 ---
 
 « La musique doit faire jaillir le feu du cœur de l'homme et faire couler des larmes des yeux de la femme. » ☕

@@ -21,7 +21,6 @@ faqs:
     answer: "Neurophysiologische Studien zeigen, dass etwa 2 bis 3 Minuten nach Beginn des Kauens der Cortisolspiegel zu sinken beginnt und die Gehirnwellen in entspannende Alpha-Wellen übergehen. Daher ist ein ruhiges Kauen von mindestens 2 bis 3 Minuten der Schlüssel zum Erfolg."
   - question: "Gibt es wirklich ein wissenschaftliches Prinzip, nach dem Kauen das Verlangen zu rauchen oder Heißhungerattacken unterdrückt?"
     answer: "Das ist korrekt. Bei starken Impulsen (Rauchen, Essen) verlangt das Gehirn nach einer raschen Ausschüttung von Dopamin. Wird dem Mund ein alternativer Kauschreiz geboten, stellt dies das Belohnungsverlangen teilweise zufrieden (über eine Dopamin-Umleitung) und hilft, steile Impulsspitzen zu kontrollieren. Verhaltenswissenschaftler nennen dies 'Alternative Verhaltensbildung'."
-
 ---
 
 Ronald Reagan, der 40. Präsident der Vereinigten Staaten, war eine führende politische Persönlichkeit, die das Ende des Kalten Krieges einleitete, die amerikanische Wirtschaft wiederbelebte und eine klare Kommunikationsstärke bewies. Was war das Geheimnis der kognitiven Entspannung des Staatsoberhauptes einer Weltmacht, das ständig das immense Gewicht nationaler Krisen und entscheidender Beschlüsse tragen musste? 🍬

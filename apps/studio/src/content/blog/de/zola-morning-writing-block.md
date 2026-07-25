@@ -21,7 +21,6 @@ faqs:
     answer: "Echte Notfälle erreichen Sie per Telefon. Allein das Verschieben von Mails und Nachrichten auf die Zeit nach der 1-stündigen Fokuszeit steigert die Arbeitsqualität um das Zehnfache."
   - question: "Wie können Angestellte dies anwenden, die keine 3 Stunden erübrigen können?"
     answer: "Wichtiger als die Zahl '3 Stunden' ist die ununterbrochene Isolierung. Schon 30 Minuten vor der Arbeit oder 45 Minuten danach im Deep Work reichen völlig aus."
-
 ---
 
 Émile Zola, die Spitze der französischen Literatur des 19. Jahrhunderts, der den Naturalismus begründete und Meisterwerke wie 'Nana', 'Der Totschläger' und das historische Manifest 'J'Accuse...!' hinterließ. Woher stammte die explosive Schöpferkraft eines Autors, der im Laufe seines Lebens Dutzende monumentaler Werke veröffentlichte? ✒️

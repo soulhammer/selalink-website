@@ -21,7 +21,6 @@ faqs:
     answer: "No. The essence lies in 'cutting external information input' and 'attentional isolation', not the location itself. Visiting a quiet local library or dedicated space over the weekend, or locking your smartphone in another room for just a single day while focusing exclusively on physical books and notebooks, provides a powerful brain reset effect."
   - question: "Is it acceptable to use laptops or tablets when reading materials?"
     answer: "Digital screens are inherently gateways linked directly to the temptations of websites, emails, and notifications. To sustain the brain's focus network, reading printed paper is best. If device use is unavoidable, we strongly recommend using a dedicated e-reader or offline tablet with Wi-Fi and internet access completely disabled."
-
 ---
 
 "Think Week was the most productive thing I ever did at Microsoft. There, you can focus completely on the future without distractions." 🌲

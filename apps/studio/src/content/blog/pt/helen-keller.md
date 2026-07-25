@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, com certeza. Decodificar microtexturas táteis exige uma coativação sináptica mais densa nos lóbulos pré-frontal e parietal do que processar entradas visuais, aumentando a profundidade da memória."
   - question: "O que fazer se a pele seca reduzir minha sensibilidade tátil durante a prática?"
     answer: "Lavar as mãos com água morna antes de treinar aumenta o fluxo sanguíneo periférico. Aplicar uma camada leve de creme hidratante melhora a resposta dos mecanorreceptores táteis."
-
 ---
 
 "O despertar da soletração tátil na minha palma despertou minha alma, deu-lhe luz, esperança, alegria e a libertou." ✋

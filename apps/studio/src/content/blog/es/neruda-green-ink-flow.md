@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, así es. Dado que la corteza visual detecta las longitudes de onda ópticas, los temas de verde oscuro relajante en pantallas digitales provocan el mismo efecto de inducción de ondas Alfa que la tinta analógica."
   - question: "¿Por qué la tinta negra o las pantallas monocromáticas de alto contraste a veces provocan bloqueo creativo?"
     answer: "El texto negro de alto contraste transmite al cerebro una tensión subconsciente asociada con documentos oficiales o evaluaciones de exámenes, lo que inhibe la libre divergencia de ideas creativas."
-
 ---
 
 "El verde es el color de la esperanza y el color de la naturaleza donde respira mi poesía." ✒️

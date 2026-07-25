@@ -21,7 +21,6 @@ faqs:
     answer: "¡Sí, por supuesto! El objetivo no es crear una obra de arte, sino un entrenamiento cognitivo para estimular el hemisferio derecho a través del movimiento de la mano. Los garabatos sencillos funcionan perfectamente."
   - question: "¿Tiene el mismo efecto usar una tableta digital con lápiz óptico?"
     answer: "Sí, es posible. Sin embargo, usar funciones como 'Deshacer' o estabilizadores hace que la mente se vuelva autocrítica. Desactiva estas funciones para mantener la libertad."
-
 ---
 
 "La arquitectura debe ser un espacio donde la gente pueda respirar y soñar, jamás atrapada dentro de una caja rectangular." 🏛️

@@ -21,7 +21,6 @@ faqs:
     answer: "Não. O essencial do Rei Sejong é garantir um momento de foco sem distrações ao acordar. Acordar apenas 30 minutos mais cedo e ler no silêncio sem celular produz os mesmos benefícios."
   - question: "Posso ler romances online ou artigos de redes sociais?"
     answer: "Para aquecer o cérebro, livros físicos estruturados são muito superiores ao conteúdo digital fragmentado. Filosofia, literatura clássica ou história que exigem raciocínio ativo ativam as redes cerebrais de forma muito mais eficaz."
-
 ---
 
 "Não aprender é como estar em um quarto escuro; ler livros é como segurar uma lâmpada."

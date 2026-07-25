@@ -21,7 +21,6 @@ faqs:
     answer: "No. Music with lyrics or loud, patterned noise (>85 dB) invades working memory in the prefrontal cortex, causing fatigue and disrupting focus. Only unpredictable, lyric-free ambient noise triggers positive cognitive disfluency."
   - question: "Is listening to ambient white noise through earphones in a quiet study room helpful?"
     answer: "Yes. Playing white noise in a solitary room provides a mild distraction shield. Combining auditory white noise with occasional visual change (like the open view of a café) maximizes sensory diversity and creativity."
-
 ---
 
 "The moderate noise and solitude of a café freed my brain, allowing me to imagine the world of wizards seamlessly." ☕

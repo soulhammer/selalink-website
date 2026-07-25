@@ -21,7 +21,6 @@ faqs:
     answer: "Não. Escrever à mão com caneta no papel estimula intensamente o córtex somatossensorial, aumentando a eficiência da codificação cognitiva. Embora digitar seja mais rápido, pressionar teclas idênticas oferece feedback tátil uniforme sem estimulação neural. Para consolidar a memória a longo prazo, a transcrição manual é muito mais eficaz."
   - question: "Explicar conceitos a outros ativa os benefícios metacognitivos mesmo que não seja por meio de uma carta escrita?"
     answer: "Sim, com certeza! Segundo a pirâmide da aprendizagem, ensinar ou explicar conceitos a outros garante uma taxa de retenção de até 90%. Além de escrever cartas ou e-mails, explicar ideias a colegas em conversas ou falar diante do espelho ativa os mesmos benefícios metacognitivos."
-
 ---
 
 "Ler sem 'Choseo' (transcrição seletiva e anotação manual) não traz valor duradouro. As memórias desaparecem sem deixar rastros." 🖋️

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Les logiciels de cartes mentales peuvent-ils remplacer les cartes physiques ?"
     answer: "Les applications aident à structurer, mais le retour tactile issu du glissement physique des cartes stimule le cortex moteur et pariétal bien plus intensément. La recherche montre que la manipulation physique en 3D génère une activité cérébrale supérieure au simple clic sur écran."
-
 ---
 
 « Les éléments possèdent leurs propres associations naturelles. En organisant le jeu de cartes, l'ordre parfait décrété par la Nature finit par se révéler. » 🃏

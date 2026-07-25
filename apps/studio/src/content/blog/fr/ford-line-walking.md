@@ -21,7 +21,6 @@ faqs:
     answer: "Les écrans numériques manquent de friction physique, ce qui réduit le retour somatosensoriel et introduit des distractions. Le papier physique offre une résistance sous la pointe du crayon qui stimule plus profondément le cerveau. L'utilisation du papier est recommandée."
   - question: "Le fait de schématiser assis est-il aussi efficace qu'en marchant ?"
     answer: "Schématiser assis offre des bénéfices d'externalisation, mais combiner le dessin avec la marche et le suivi visuel démultiplie l'efficacité. Marcher augmente le flux sanguin cérébral, tandis que le suivi visuel prépare le cervelet a un raisonnement logique optimal."
-
 ---
 
 « Pour réduire le gaspillage, il faut d'abord tracer le flux physique avec une clarté visuelle. » 🚗

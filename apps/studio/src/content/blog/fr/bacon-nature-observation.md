@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Dois-je pratiquer cette habitude tous les jours ?"
     answer: "Oui, pratiquer à une heure fixe chaque jour met à son apogée la neuroplasticité du cerveau. Exécuter cela de manière constante chaque jour à un moment et un endroit fixes pour renforcer les circuits de neuroplasticité (Neuroplasticity) du cerveau constitue la clé du succès la plus fiable."
-
 ---
 
 « On ne commande à la nature qu'en lui obéissant. » 🌿

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Can qualitative creative planning or study also be tracked with quantitative metrics like word count or time?"
     answer: "Yes. For creative planning, instead of word counts, you can define meaningful output units such as 'Number of Core Ideas Generated', 'High-Quality References Collected', or 'Detailed Outline Sections Drafted' to effectively apply visual feedback."
-
 ---
 
 "Education is what survives when what has been learned has been forgotten." 📈

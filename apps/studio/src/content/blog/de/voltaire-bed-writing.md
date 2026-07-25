@@ -21,7 +21,6 @@ faqs:
     answer: "Während Morning Pages nach dem Waschen oder Hinsetzen geschrieben werden, wenn die Vernunft teilweise aktiv ist, zielt Voltaires Schreiben im Bett auf die 'Gehirnschwelle' während der Schlafträgheit ab, bevor man physisch aufsteht, und erfasst unterbewusste Metaphern und kreative Ideen in einem völlig rohen Zustand, was einen tiefen kognitiven Unterschied darstellt."
   - question: "Was soll ich tun, wenn mir beim morgendlichen Schreiben im Bett keine Ideen kommen?"
     answer: "Es ist überhaupt nicht nötig, großartige Ideen zu schreiben. Sie können jedes belanglose Fragment aufschreiben, das Ihnen durch den Kopf geht – etwas Unangenehmes von gestern, die Mühsal heutiger Aufgaben oder eine zufällige Liste von Wörtern. Das Ziel selbst ist das Überwinden des Hemmfilters des Gehirns."
-
 ---
 
 "Ein Leben ohne Arbeit ist eine Last. Nur die Arbeit macht unser Dasein wertvoll." ✍️

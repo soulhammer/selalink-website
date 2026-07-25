@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah aplikasi mind-mapping dapat menggantikan kartu fisik?"
     answer: "Perangkat lunak mind-mapping membantu mengorganisasi data, namun masukan taktil dari menggeser kartu secara fisik merangsang korteks motorik dan parietal jauh lebih kuat. Riset neurosains membuktikan bahwa manipulasi fisik 3D memicu aktivitas otak yang lebih unggul untuk sintesis ide dibanding klik layar."
-
 ---
 
 "Setiap unsur memiliki pasangannya sendiri. Saat Anda mengocok dan menyusun tumpukan kartu, tatanan sempurna dari Alam akan menampakkan diri." 🃏

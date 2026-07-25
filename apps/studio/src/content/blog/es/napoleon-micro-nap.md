@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Realmente Napoleón tomaba siestas durante las batallas?"
     answer: "Sí, según los registros históricos, Napoleón poseía la extraordinaria capacidad de quedarse dormido al instante incluso en campos de batalla con rugidos de artillería, despertando exactamente 15 minutes después con una mente despejada para impartir órdenes tácticas."
-
 ---
 
 Incluso en medio de la extrema tensión de un campo de batalla donde resonaba el fuego de artillería, hubo un emperador que reiniciaba por completo su energía con un breve sueño de 15 minutos: el legendario estratega militar y emperador de Francia, Napoleón Bonaparte (1769–1821). 💤

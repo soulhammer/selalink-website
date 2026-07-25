@@ -21,7 +21,6 @@ faqs:
     answer: "Because he refused to break his highly sensitive state of flow. By completely eliminating mundane transitions (changing clothes, showering, long sleeps), he poured the continuous current of artistic flow directly into his sculptures without disruption."
   - question: "What are practical ways to reduce decision fatigue in modern daily life?"
     answer: "Pre-plan minor choices like meals and attire using a set schedule or uniform approach (like Steve Jobs), and eliminate peripheral clutter in your workspace to prevent wasting cognitive energy."
-
 ---
 
 The Pietà, David, and the ceiling of the Sistine Chapel in the Vatican—masterpieces that stand immortal in human artistic history were created by the Renaissance genius sculptor Michelangelo Buonarroti (1475–1564). Behind these monumental works lay an obsessively intense habit of flow. 🏛️

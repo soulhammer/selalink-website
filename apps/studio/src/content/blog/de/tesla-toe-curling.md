@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Hilft das Bewegen oder Krümmen der Zehen wirklich, das Gehirn zu aktivieren?"
     answer: "Ja! Auf der Karte des somatosensorischen Kortex liegt der Zehenbereich nahe der Mitte. Die Stimulation der feinen Zehenmuskeln aktiviert über periphere Nerven leicht den Frontallappen."
-
 ---
 
 Wussten Sie, dass Nikola Tesla (1856–1943), das wissenschaftliche Genie, das zusammen mit Edison die Welt erleuchtete und die Grundlagen für Wechselstromsysteme (AC) und drahtlose Kommunikation legte, jeden Abend im Bett ein skurriles Ritual wiederholte? ⚡

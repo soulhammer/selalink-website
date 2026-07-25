@@ -21,7 +21,6 @@ faqs:
     answer: "No es necesario hacer coincidir exactamente el instante del amanecer. Experimentar el ambiente tranquilo y tenue justo antes del alba sin importar la estación (generalmente entre las 5:00 AM y las 6:00 AM) ofrece amplios beneficios."
   - question: "No soy una persona madrugadora y me siento agotado al despertar temprano; ¿qué debo hacer?"
     answer: "En lugar de forzar un despertar a las 5:00 AM al principio, intente despertarse solo 20 minutos antes de su horario habitual. El ritual de quietud de 5 minutos al despertar —evitando teléfonos y contemplando la ventana con té caliente— es la esencia."
-
 ---
 
 "El lenguaje nos libera; nos expresamos y eso cambia el mundo." ☕

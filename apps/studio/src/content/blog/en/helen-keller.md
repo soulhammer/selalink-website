@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely. Decoding fine tactile micro-textures requires denser synaptic co-activation across the prefrontal and parietal lobes than processing visual or auditory inputs, significantly increasing memory depth and retention durability."
   - question: "What should I do if dry skin reduces my tactile sensitivity during practice?"
     answer: "Washing your hands in warm water prior to training boosts local peripheral blood flow. Applying a light layer of moisturizer creates a hydration barrier that heightens mechanoreceptor responsiveness."
-
 ---
 
 "The awakening of tactile spelling upon my palm woke my soul, gave it light, hope, joy, and set it free." ✋

@@ -21,7 +21,6 @@ faqs:
     answer: "Ersetzen Sie Bergpfade durch einen 30-minütigen Spaziergang durch einen Park, botanischen Garten oder eine Allee ohne Smartphone. Entscheidend sind die Aktivierung der visuellen Wahrnehmung und die Gehirndurchblutung."
   - question: "Wie hält man Gedanken während des Wanderns am besten fest, ohne den Denkfluss zu stören?"
     answer: "Tragen Sie ein kleines Notizbuch und einen Stift bei sich, um Schlüsselwörter sofort aufzuschreiben. Alternativ können Sie kurze Sprachnachrichten aufnehmen, ohne Ihren Gehfluss zu unterbrechen."
-
 ---
 
 "Auf den Pfaden der Alpen streife ich die Reste komplexer Formeln ab und blicke in das tiefe Innere der Natur." 🌲

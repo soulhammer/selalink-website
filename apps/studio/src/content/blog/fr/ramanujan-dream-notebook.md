@@ -21,7 +21,6 @@ faqs:
     answer: "Il n'est absolument pas nécessaire de forcer les idées. Le simple fait de noter un mot ou une humeur qui persiste dans votre esprit quand vous êtes encore engourdi, ou un seul problème que vous souhaitez résoudre aujourd'hui, renforce les circuits d'ondes Alpha et ouvre progressivement la porte de votre subconscient."
   - question: "Est-il possible d'utiliser une application de notes ou un enregistrement vocal sur mon smartphone ?"
     answer: "Dès que vous allumez votre smartphone, la lumière vive de l'écran et les nombreuses notifications risquent fortement de faire basculer rapidement vos ondes cérébrales en ondes Beta. Il est fortement recommandé d'utiliser un carnet en papier et un stylo pour minimiser la stimulation visuelle et les changements d'ondes cérébrales."
-
 ---
 
 Srinivasa Ramanujan était un mathématicien génial et légendaire d'Inde qui a publié plus de 3 900 théorèmes et formules originaux en théorie des nombres et séries infinies, transformant le paradigme des mathématiques modernes et élargissant l'horizon cognitif de l'humanité. Bien qu'il n'ait pas bénéficié d'une formation académique supérieure formelle, d'où venait sa brillante inspiration pour résoudre des problèmes complexes que les plus grands mathématiciens du monde n'avaient pas pu prouver depuis des décennies ? 📐

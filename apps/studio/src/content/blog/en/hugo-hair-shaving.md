@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely. In late 1830, facing an uncompromising publisher deadline for *The Hunchback of Notre-Dame*, Hugo shaved half his head and beard and locked away his street clothes to enforce total home isolation until the novel was finished."
   - question: "What modern precommitment isolation methods can I use without shaving my hair?"
     answer: "Placing your smartphone inside a timed physical lockbox during deep work sessions or using strict website blocking apps (or dedicated work browser profiles) that completely shut down social media/YouTube access are highly effective modern precommitment strategies."
-
 ---
 
 "When you willingly imprison yourself, your imagination finally discovers absolute freedom." 🪒

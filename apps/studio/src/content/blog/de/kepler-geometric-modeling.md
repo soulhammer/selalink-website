@@ -21,7 +21,6 @@ faqs:
     answer: "Kepler schnitzte Modelle der fünf platonischen Körper (Tetraeder, Würfel, Oktaeder, Dodekaeder, Ikosaeder), die ineinander verschachtelt in Kugelschalen lagen. Dieses Modell ermöglichte es ihm, die Größenverhältnisse der Planetenabstände visuell und haptisch zu prüfen."
   - question: "Wie lässt sich diese Routine umsetzen, wenn keine Bauklötze oder 3D-Modelle vorhanden sind?"
     answer: "Das Verteilen und Umlegen von Haftnotizen oder Karteikarten auf dem Schreibtisch sowie das Falten oder Schneiden von Papier reicht aus. Dies aktiviert die räumlichen Netzwerke im Parietallappen und bietet dieselben haptischen Vorteile zur Lösung gedanklicher Blockaden."
-
 ---
 
 "Die Geometrie war vor der Erschaffung der Welt da, sie ist dem Geiste Gottes ewig... Ein von Hand geschnitztes 3D-Modell offenbart räumliche Zusammenhänge, die reine Formeln verbergen." 🚶‍♂️

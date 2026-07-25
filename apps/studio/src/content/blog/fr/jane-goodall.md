@@ -21,7 +21,6 @@ faqs:
     answer: "Non. Les images sur écran sont des grilles de pixels en 2D qui ne sollicitent pas les réseaux de perception en 3D. Vous devez décoder la profondeur et les textures réelles a l'œil nu pour stimuler la plasticité neuronale."
   - question: "Dois-je observer uniquement des objets statiques ou puis-je observer des sujets en mouvement ?"
     answer: "Les sujets en mouvement sont excellents ! Analyser de micro-mouvements — comme les frémissements de la queue d'un chat ou les nageoires d'un poisson — aiguise tout aussi efficacement l'attention sélective."
-
 ---
 
 « Ce n'est qu'en observant paisiblement, sans jugement ni intervention, que la nature dévoile ses secrets les plus profonds. » 🐒

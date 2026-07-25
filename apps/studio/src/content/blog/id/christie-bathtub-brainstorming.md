@@ -21,7 +21,6 @@ faqs:
     answer: "Perendaman air hangat menurunkan denyut jantung dan merekrut dominasi parasimpatis untuk memicu DMN, sementara gerakan mengunyah apel yang renyah mengirimkan masukan sensorik melalui saraf trigeminal untuk merangsang korteks prefrontal secara halus. Kombinasi ini menyatukan relaksasi fisik yang mendalam dengan kejernihan mental yang terfokus."
   - question: "Apakah ada metode relaksasi fisik alternatif untuk melibatkan DMN jika saya tidak memiliki bak mandi?"
     answer: "Ya, tentu saja. Melakukan merendam kaki dengan air hangat selama 15 menit (sekitar 40°C) atau menempelkan handuk uap hangat ke bagian belakang leher secara efektif meningkatkan sirkulasi darah. Meringup teh hangat secara perlahan sambil membiarkan pikiran Anda berkelana melibatkan DMN dengan sama efektifnya."
-
 ---
 
 "Waktu terbaik untuk merencanakan sebuah buku adalah saat Anda mencuci piring atau merendam dalam bak mandi air hangat, sambil mengunyah apel." 🍏

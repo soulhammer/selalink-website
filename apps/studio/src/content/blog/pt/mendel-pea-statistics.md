@@ -21,7 +21,6 @@ faqs:
     answer: "O Excel ou aplicativos automatizados reduzem a estimulação cognitiva visual. O ato físico de usar uma régua e desenhar linhas à mão para representar as oscilações engaja o lobo parietal inferior de forma muito mais intensa, ajudando você a perceber intuitivamente as relações de causa e efeito e os padrões por trás dos dados."
   - question: "É necessário continuar registrando mesmo que não haja mudanças significativas nos números?"
     answer: "Sim, é fundamental. A 'estabilidade' dos números é em si um dado valioso que demonstra consistência. Registrar períodos sem alterações mantém o mecanismo de controle de impulsos do cérebro e serve como uma linha de base vital quando surgem pontos fora da curva (ex.: identificar o motivo de uma queda brusca na leitura)."
-
 ---
 
 "As leis ocultas da natureza finalmente se revelam em uma ordem matemática precisa em meio a incontáveis dados detalhados." 🫛

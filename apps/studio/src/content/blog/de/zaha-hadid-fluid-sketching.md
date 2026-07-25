@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut! Das Ziel ist kein Kunstwerk, sondern ein Gehirntraining zur Stimulation räumlicher Pfade. Selbst einfache Kritzeleien erzielen die volle Wirkung."
   - question: "Hat die Nutzung eines Grafiktabletts denselben Effekt?"
     answer: "Ja, das geht. Wenn Sie jedoch die 'Rückgängig'-Funktion oder Korrekturfilter nutzen, wird das Gehirn wieder selbstkritisch. Schalten Sie diese Hilfen aus."
-
 ---
 
 "Architektur muss ein Raum sein, in dem Menschen atmen und träumen können, niemals eingesperrt in einer rechteckigen Kiste." 🏛️

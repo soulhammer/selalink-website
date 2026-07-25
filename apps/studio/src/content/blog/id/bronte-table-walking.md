@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, berjalan kaki saja merangsang sekresi BDNF dan aliran darah otak, meningkatkan kreativitas lebih dari 60%. Saat bekerja sendiri, jelaskan ide-ide Anda secara nyaring kepada diri sendiri di depan cermin atau berjalanlah sambil melakukan tanya jawab dengan kritikus imajiner untuk mensimulasikan stimulasi metakognitif secara efektif."
   - question: "Apakah mendengarkan kritik yang tajam tidak menyebabkan rasa sakit emosional dan menurunkan motivasi kreatif?"
     answer: "Jika otak salah menafsirkan umpan balik sebagai serangan pribadi, amigdala memicu sikap defensif emosional. Untuk mencegah hal ini, pisahkan secara ketat identitas pribadi Anda dari karya Anda. Ingatkan diri Anda bahwa umpan balik adalah data netral yang dirancang untuk memperkuat integritas struktural karya, memungkinkan sirkuit prefrontal yang reseptif berfungsi dengan lancar."
-
 ---
 
 "Kami berjalan mengelilingi meja dalam kegelapan setiap malam, berbicara. Dalam ritme berjalan itu, jiwa dari novel-novel kami akhirnya menjadi hidup." 🕯️

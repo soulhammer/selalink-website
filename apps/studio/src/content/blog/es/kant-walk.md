@@ -21,7 +21,6 @@ faqs:
     answer: "Para sostener una investigación filosófica abstracta durante décadas, Kant mantuvo una rutina estricta que equilibraba su sistema nervioso autónomo, preservaba sus ritmos circadianos y despejaba la fatiga prefrontal."
   - question: "¿Es necesario evitar hablar y respirar exclusivamente por la nariz durante la caminata como hacía Kant?"
     answer: "¡Sí! La respiración nasal aumenta la eficiencia del oxígeno hacia el cerebro y estimula la liberación de óxido nítrico (NO), calmando el sistema nervioso. Además, evitar hablar reduce distracciones, permitiendo que la Red por Defecto (DMN) se estabilice."
-
 ---
 
 "Todo nuestro conocimiento comienza por los sentidos, pasa luego al entendimiento y termina en la razón... Una caminata tranquila a las 3:30 PM ordena el cerebro y aporta claridad a las deducciones abstractas." 🚶‍♂️

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Warum schrieb Virginia Woolf im Stehen?"
     answer: "So wie ihre Schwester als Malerin vor der Leinwand stand, nutzte Woolf das Stehpult als körperliches Ritual, um künstlerische Gleichwertigkeit und tiefen Fokus zu wahren."
-
 ---
 
 Virginia Woolf, die Romanautorin, die durch wegweisende Werke wie 'Mrs. Dalloway' und 'Zum Leuchtturm' als Pionierin der modernistischen Literatur des 20. Jahrhunderts gilt. Wie war sie in der Lage, die geheimen Innenwelten und die komplexe Psychologie ihrer Figuren mit solch präzisen Sätzen zu verwirklichen? ✍️

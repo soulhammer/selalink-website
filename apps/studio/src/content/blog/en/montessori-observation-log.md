@@ -21,7 +21,6 @@ faqs:
     answer: "Yes. When performing self time-tracking or work journaling, it applies seamlessly by stripping away 'self-blame emotions' and recording only raw time-stamped task execution data."
   - question: "How can I easily distinguish between subjective feelings and objective facts?"
     answer: "Apply the criterion: 'Is this a concrete action or metric that a video camera lens could capture?' Simply omit any thoughts or evaluative expressions that cannot be recorded on camera."
-
 ---
 
 "When we observe children's behavior as it truly is, only then does the great potential within them reveal itself." 📝

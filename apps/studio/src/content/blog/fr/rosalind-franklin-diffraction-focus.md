@@ -21,7 +21,6 @@ faqs:
     answer: "Le temps passé à corriger, s'excuser et refaire le travail plus tard est 10 fois supérieur. Consacrer 10 minutes en amont est finalement le moyen le plus rapide."
   - question: "Peut-on appliquer le contrôle quantitatif aux textes ou aux tâches administratives ?"
     answer: "Oui ! Établissez une liste de contrôle sur 3 éléments clés critiques (dates, orthographe, liens, noms de clients) et appliquez la même méthode."
-
 ---
 
 Rosalind Franklin (1920–1958) est une brillante physico-chimiste britannique qui a capturé le 'Cliché 51', clé décisive du décodage de la double hélice de l'ADN. Malgré des préjugés tenaces, ses données expérimentales ne toléraient pas la moindre erreur. 🧬

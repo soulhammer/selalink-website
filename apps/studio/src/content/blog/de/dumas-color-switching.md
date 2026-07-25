@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut. Der Grundmechanismus basiert auf der Verknüpfung von Farbreizen mit bestimmten Denkmustern. Das Einstellen unterschiedlicher Hintergrundfarben in Notiz-Apps, Ordnerfarben in Notion oder Browser-Themes liefert dem Präfrontalkortex dieselben Priming-Signale."
   - question: "Führt das Erstellen zu vieler Farbvarianten zu kognitiver Überlastung oder Verwirrung?"
     answer: "Ja, genau. Damit das Gehirn eine Farbe fest mit einem Denkmuster verknüpft, ist konstantes assoziatives Lernen erforderlich. Die Verwendung von 5 oder mehr Farben verwandelt visuelle Signale in störendes Rauschen und zerstört den Priming-Effekt. Beschränken Sie Ihr System strikt auf 2 bis 3 Bereiche."
-
 ---
 
 "Die Farbe des Papiers ist keine bloße Laune. Sie ist der Schlüssel, der meine Vorstellungskraft direkt in ein bestimmtes Genre lenkt." ✍️

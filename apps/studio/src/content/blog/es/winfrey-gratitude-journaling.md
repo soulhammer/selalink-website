@@ -21,7 +21,6 @@ faqs:
     answer: "Esos días son precisamente cuando más necesitas esta rutina. No busques cosas grandiosas; escribe hechos físicos básicos ligados a la supervivencia, como 'Tomé un té caliente' o 'Estoy respirando esta mañana'. Registrar pequeños indicadores de seguridad rescata al cerebro del modo de amenaza."
   - question: "¿Qué tal usar aplicaciones de diario en el móvil o publicaciones en redes sociales para registrar la gratitud?"
     answer: "Publicar en aplicaciones o redes sociales genera ansiedad al esperar validación externa (me gusta, comentarios). Además, las pantallas carecen de estimulación táctil. La escritura física en papel aísla el cerebro de la comparación digital y brinda satisfacción y enfoque puros."
-
 ---
 
 Superando una infancia de profunda pobreza y dolor, Oprah Winfrey se convirtió en la presentadora de talk shows más exitosa de la historia e ícono de los medios. ¿De qué hábito matutino nacía su inagotable energía intelectual? 📝

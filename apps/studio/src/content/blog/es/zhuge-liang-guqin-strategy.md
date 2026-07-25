@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, la mera inmersión auditiva concentrada al escuchar música orquestal o de cuerda acústica con resonancia única produce los mismos efectos de inducción de ondas alfa."
   - question: "¿Por qué elegir solo 1 tarea entre los numerosos pendientes?"
     answer: "El cerebro se sobrecalienta al realizar multitareas simultáneas. Concentrar la energía en 1 tarea core crucial asigna de manera eficiente los recursos de la corteza prefrontal."
-
 ---
 
 En el periodo de los Tres Reinos a finales de Han Oriental, Zhuge Liang (諸葛亮) fue el estratega maestro que ayudó a Liu Bei a fundar Shu Han (蜀漢), trazó la división tripartita de China y ganó fama como primer ministro legendario (名宰相) entre fieros conflictos entre Wei, Shu y Wu. Con la vida de cientos de miles de soldados y la supervivencia de su nación sobre sus hombros en batallas como los Acantilados Rojos y la Campaña del Sur, soportaba una presión emocional extrema a diario. 🎶

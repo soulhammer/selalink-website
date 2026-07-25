@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut! Planen Sie 2 bis 3 feste Blöcke für Nachrichten und Notfälle ein. So bleibt Ihre Konzentration in den Fokusblöcken ungestört."
   - question: "Wie überwindet man Schuldgefühle, wenn der Tagesplan nicht klappt?"
     answer: "Time-Blocking ist ein Kompass, kein Gefängnis. Wichtig ist die Konzentration während des Blocks, nicht ein perfekter Ablauf. Passen Sie sich bei Abweichungen flexibel an und gehen Sie nahtlos zum nächsten Block über."
-
 ---
 
 "Wer feste Arbeitszeiten und Regeln festlegt, beherrscht sein Leben vollkommen. Mit einem Kalender und einer Uhr konnte man auf dreihundert Meilen Entfernung sagen, was der König tat." 👑

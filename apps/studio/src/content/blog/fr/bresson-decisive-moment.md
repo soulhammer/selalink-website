@@ -21,7 +21,6 @@ faqs:
     answer: "Non. L'observation de formes géométriques inanimées et de contrastes lumineux — comme l'ombre d'un poteau sur un mur ou des rayons de lumière traversant un verre d'eau — est tout aussi efficace pour activer le cortex visuel."
   - question: "Peut-on recadrer ou appliquer des filtres numériques aux photos après le déclenchement ?"
     answer: "Cartier-Bresson évite strictement le recadrage et la retouche artificielle. S'obliger à réussir la composition au moment exact du déclenchement est précisément ce qui entraîne le jugement spatial, c'est pourquoi il est fortement recommandé de conserver les photos intactes."
-
 ---
 
 « Photographier c'est mettre sur la même ligne de mire la tête, l'œil et le cœur. » 📷

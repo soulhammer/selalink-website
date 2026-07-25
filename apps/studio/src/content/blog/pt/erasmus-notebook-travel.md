@@ -21,7 +21,6 @@ faqs:
     answer: "Não. Passar de 10 a 20 minutos olhando pela janela durante o trajeto e anotando um único pensamento é suficiente para ativar a Rede de Modo Padrão e as ondas alfa."
   - question: "Posso usar aplicativos de notas ou áudios se os solavancos dificultarem a escrita à mão?"
     answer: "Sim, com certeza. O importante não é o suporte, mas bloquear conteúdos de alto estímulo (vídeos curtos, redes sociais, jogos) para dar espaço ao cérebro. Aplicativos offline ou gravadores de voz funcionam perfeitamente."
-
 ---
 
 O viagem é uma verdadeira fonte de sabedoria, e um caderno é o mapa que a preserva." 📓

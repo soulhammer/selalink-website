@@ -21,7 +21,6 @@ faqs:
     answer: "Jika imersi 2 jam berturut-turut terasa berat pada awalnya, terapkan teknik 'Fokus Terpisah 2 Sesi': 50 menit fokus mendalam diikuti 10 menit peregangan. Yang terpenting, selama istirahat 10 menit, jangan memeriksa pesan; minumlah air atau berjalan ringan untuk menjaga sirkulasi darah."
   - question: "Apakah tipe orang malam (night owl) yang kesulitan bangun fajar tetap dapat memanfaatkan Golden Hour Kognitif ini?"
     answer: "Ya, tentu saja. Mekanisme utamanya tidak bergantung pada jam 05.30 itu sendiri, melainkan pada mengalokasikan sumber daya prefrontal Anda untuk tugas tersulit selama 2 jam pertama setelah bangun tidur, bebas dari gangguan digital."
-
 ---
 
 "Kompleksitas suatu masalah larut sepenuhnya dalam ketenangan pagi hari. Jam-jam sebelum orang lain bangun adalah saat otak saya beroperasi dengan kejelasan yang sangat tajam." 🧮

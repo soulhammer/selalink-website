@@ -21,7 +21,6 @@ faqs:
     answer: "Ne vous forcez pas à dormir. Si vous ne dormez pas après 20 minutes, appliquez la thérapie de contrôle des stimulations : levez-vous, allez dans une pièce sombre, lisez un livre papier et ne retournez au lit que lorsque le sommeil arrive."
   - question: "Pourquoi me sens-je vaseux et lourd après une sieste ?"
     answer: "Cette lourdeur provient de l'« Inertie du sommeil », qui survient quand une sieste dépasse 30 minutes et plonge le cerveau dans le sommeil profond. Pour l'éviter, réglez votre alarme à 15–20 minutes."
-
 ---
 
 « Si je ne dors pas 11 a 12 heures par jour, je ne peux pas évoluer a mon meilleur niveau. » 🎾

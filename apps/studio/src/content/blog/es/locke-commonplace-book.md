@@ -21,7 +21,6 @@ faqs:
     answer: "Locke dibujaba una cuadrícula que combinaba las 26 letras del alfabeto con las 5 vocales (a, e, i, o, u) en la primera página. Anotaba los números de página en la intersección correspondiente a la primera letra y primera vocal del término clave (p. ej., 'Epistola' en la fila E, columna i)."
   - question: "¿Escribir en cuadernos analógicos es más beneficioso que los métodos digitales modernos?"
     answer: "La escritura a mano estimula la corteza somatosensorial, lo que favorece la codificación inicial, mientras que las herramientas digitales destacan por su rapidez de búsqueda e hipervínculos. El enfoque ideal es un sistema híbrido: registrar ideas en papel y luego indexarlas en una base de datos digital."
-
 ---
 
 "Un pensamiento no escrito desaparece como la niebla de verano sin dejar rastro. Solo los símbolos indexados con sistema transforman la mente en un depósito inmortal." 📖

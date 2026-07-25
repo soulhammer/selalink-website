@@ -21,7 +21,6 @@ faqs:
     answer: "Bei Erschöpfung einzuschlafen ist natürlich. Das Sitzen am Schreibtisch und das kurze 5-minütige Aufschreiben wie beim Tagebuchführen anstelle des Liegens im Bett hilft jedoch, ein vorzeitiges Einschlafen und Schlafschwere zu verhindern."
   - question: "Was sollte ich tun, wenn mich Selbstvorwürfe nachts wach halten?"
     answer: "Stoppen Sie die Selbstbefragung sofort, wenn emotionales Grübeln beginnt. Üben Sie stattdessen, die Reflexion zu beenden, nachdem Sie eine alternative Option notiert haben wie: ‚Was geschehen ist, kann nicht rückgängig gemacht werden, morgen werde ich nur eine Sache anders machen.‘"
-
 ---
 
 „Lassen Sie den Schlaf Ihre Augen nicht schließen, bevor Sie die Handlungen des Tages dreimal überprüft haben.“ 🌙

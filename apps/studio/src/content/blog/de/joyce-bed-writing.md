@@ -21,7 +21,6 @@ faqs:
     answer: "Der weiße Mantel diente als natürlicher Lichtreflektor, der das Raumlicht ohne störende Blendung auf das Papier warf. Er funktionierte wie eine analoge Beleuchtungshilfe, mit der seine geschädigten Augen die Schrift besser erkennen konnten."
   - question: "Führt das Arbeiten im Bett oder auf dem Sofa nicht zu Schläfrigkeit?"
     answer: "Um Schläfrigkeit zu vermeiden, sollten Sie nicht flach liegen. Stützen Sie den Oberkörper mit einem Keilkissen in einem Winkel von 30 bis 45 Grad ab und arbeiten Sie in kurzen 20-minütigen Abschnitten, um die Wachheit zu steuern."
-
 ---
 
 "Literatur ist ein schöner Kampf, um die Grenzen der Seele zu testen und die Fesseln des Körpers zu überwinden." ✍️

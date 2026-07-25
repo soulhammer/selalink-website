@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apa yang terjadi jika salah satu langkah rutinitas terlewat secara tidak sengaja?"
     answer: "Otak mungkin bereaksi secara sensitif terhadap variasi yang tak terduga, yang dapat meningkatkan kecemasan sementara. Dalam kondisi demikian, ulangi kembali dari awal secara tenang atau beralihlah secara fleksibel ke langkah berikutnya."
-
 ---
 
 "Sebelum menyentuh air, saya telah berenang dalam perlombaan yang sempurna berkali-kali di dalam pikiran saya." 🏊‍♂️

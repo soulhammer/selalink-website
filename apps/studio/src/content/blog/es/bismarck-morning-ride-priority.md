@@ -21,7 +21,6 @@ faqs:
     answer: "Está completamente bien. No es un fracaso, sino prueba de que concentró su energía en un proyecto sustancial de alto impacto. Simplemente reprograme el elemento no completado como la tarea n.º 1 de mañana por la mañana cuando su corteza prefrontal esté más despejada."
   - question: "¿Cuáles son las alternativas de ejercicio moderno a la equitación matutina?"
     answer: "15 minutos de trote, bicicleta estática, balanceos con pesa rusa (kettlebell), estiramientos Tabata o caminata rápida proporcionan exactamente el mismo efecto neurofisiológico de aumentar el flujo sanguíneo cerebral y liberar BDNF y dopamina."
-
 ---
 
 "La política es el arte de lo posible, y para tomar las mejores decisiones, uno debe capturar el momento más despejado del cerebro." 🐎

@@ -21,7 +21,6 @@ faqs:
     answer: "Hal itu terjadi ketika latihan berlebihan menyebabkan zat pemicu kelelahan melonjak. Anda harus membatasi olahraga secara ketat dengan timer 3 menit begitu mencapai ambang batas terengah-engah agar hanya dopamin menyegarkan yang mengisi otak."
   - question: "Bagaimana pemula dengan kebugaran fisik yang sangat rendah harus memulai?"
     answer: "Setiap latihan aerobik atau kekuatan—seperti jalan di tempat dengan tempo cepat atau lari kecil di tempat—akan memberikan manfaat yang setara selama mencapai intensitas yang menimbulkan sedikit keringat berdasarkan kondisi fisik Anda."
-
 ---
 
 Theodore Roosevelt, Presiden AS ke-26, menjabat sebagai presiden termuda dalam sejarah Amerika, memelopori reformasi progresif dan menegaskan kepemimpinan global. Untuk mengatasi asma masa kecil yang parah dan fisik yang lemah, beliau melakukan latihan fisik intensif setiap pagi, mengangkat beban berat hingga batas kemampuannya. Kebiasaan olahraga pagi yang eksplosif ini mengubah anak laki-laki yang lemah menjadi pemimpin yang tangguh, memperkuat kehendak baja dan kewaspadaan otaknya.

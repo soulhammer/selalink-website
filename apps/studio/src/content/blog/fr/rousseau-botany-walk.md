@@ -21,7 +21,6 @@ faqs:
     answer: "Parce qu'il était inconfortable de transporter de lourds carnets en marchant. Les cartes à jouer, rigides et petites, étaient l'outil idéal pour écrire debout ou en marchant."
   - question: "Peut-on obtenir les mêmes bienfaits d'une promenade botanique dans un parc urbain ?"
     answer: "Oui, tout à fait. Même sans cueillir de plantes, le simple fait d'observer attentivement la forme des feuilles, de la mousse ou des herbes dans un parc stimule le réseau de restauration de l'attention du cerveau."
-
 ---
 
 « Je ne puis méditer qu'en marchant. Quand je m'arrête, je ne pense plus ; mon cerveau ne fonctionne qu'avec mes jambes. » 🚶‍♂️

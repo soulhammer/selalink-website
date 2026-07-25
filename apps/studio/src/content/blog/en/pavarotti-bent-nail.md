@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Why did Pavarotti specifically search for a bent nail?"
     answer: "In Italian theater culture, finding a bent nail backstage is an old omen of good luck. He began doing it as a simple superstition, but it evolved into a mandatory cognitive anchor that saved him from crippling stage fright."
-
 ---
 
 "I always perform my little ritual before going on stage. It is the only way to conquer my fear." 🚶‍♂️

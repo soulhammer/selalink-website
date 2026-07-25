@@ -21,7 +21,6 @@ faqs:
     answer: "Ya! Nikmati secangkir teh jam 4 sore sambil berdiskusi 10 menit secara online, atau lakukan dialog mandiri dengan menulis pertanyaan di buku catatan."
   - question: "Saya khawatir waktu minum teh akan berubah menjadi obrolan kosong dan membuang waktu."
     answer: "Pasang pengukur waktu persis 15 menit. Batas waktu ini mencegah buang waktu sambil memberikan pasokan oksigen dan stimulasi ide ke otak."
-
 ---
 
 Ernest Rutherford (1871–1937), peraih Hadiah Nobel Kimia dan 'bapak fisika nuklir', menemukan inti atom. Apa rahasia di balik suasana kolaboratif di laboratoriumnya? ☕

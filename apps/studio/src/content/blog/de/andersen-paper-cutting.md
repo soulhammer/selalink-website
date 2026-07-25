@@ -21,7 +21,6 @@ faqs:
     answer: "Selbstverständlich. Tatsächlich ist zufälliges Schneiden ohne Vorlage effektiver bei der Reduzierung der DMN-Aktivität. Dem Gehirn ist es völlig egal, ob das fertige Muster seltsam oder krumm aussieht. Entscheidend ist nicht die Präzision der Form, sondern die feine Bewegung der Fingerspitzenmuskeln und die akustische Stimulation selbst. Da dies eine fehlerfreie, wertfreie kreative Aktivität ist, genießen Sie das Schneiden ganz entspannt."
   - question: "Stört der entstehende Papiermüll nach dem Schneiden die Entspannung beim Aufräumen?"
     answer: "Wenn Sie besorgt wegen des Mülls sind, stellen Sie von Anfang an einen kleinen Papierkorb oder ein Tablett auf den Schreibtisch und schneiden Sie darüber. Wenn Sie es so einrichten, dass sich die abgeschnittenen Papierstücke natürlich an einem Ort sammeln, können Sie die Routine mit einer kurzen physischen Handlung (10 Sekunden) beenden, indem Sie sie aufheben und in den Müll werfen, ohne Ihren emotionalen Entspannungszustand zu beeinträchtigen."
-
 ---
 
 "Meine Scherenarbeit ist das erste Kapitel eines Märchens. In dem Moment, in dem die Schere das Papier berührt, entfaltet meine Fantasie ihre Flügel." ✂️

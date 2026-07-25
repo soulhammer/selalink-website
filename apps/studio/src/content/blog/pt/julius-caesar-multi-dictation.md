@@ -21,7 +21,6 @@ faqs:
     answer: "A multitarefa convencional divide a atenção entre várias tarefas ao mesmo tempo (ex.: olhar mensagens enquanto escreve um e-mail), gerando fricção. O ditado simultâneo utiliza o 'Foco Sequencial Único': aplica 100% da atenção a um escriba por vez antes de mudar de assunto."
   - question: "Posso praticar este método digitando em vez de ditar por voz?"
     answer: "A velocidade de digitação é mais lenta do que o ritmo do pensamento, gerando gargalos. Usar ferramentas de ditado por voz (STT) permite expressar ideias na velocidade da fala. Ditar rascunhos rapidamente e editá-los em bloco reduz a sobrecarga da memória de trabalho."
-
 ---
 
 "Veni, vidi, vici. (Vim, vi, venci.)" ⚔️

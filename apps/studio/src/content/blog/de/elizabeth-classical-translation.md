@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut. Sofortige Ergebnisse fordern die kognitiven Netzwerke nicht heraus. Synaptische Verbindungen im präfrontalen Kortex verstärken sich nur durch 'kognitive Reibung' – das eigene Suchen im Wörterbuch und Zusammensetzen der Sätze."
   - question: "Funktioniert diese Methode nur mit klassischen Sprachen wie Latein und Altgriechisch?"
     answer: "Nein. Jede moderne Fremdsprache (wie Englisch, Französisch oder Chinesisch) mit anderer Grammatik eignet sich hervorragend. Entscheidend ist das Übersetzen anspruchsvoller Texte (Philosophie, Essays, Leitartikel) anstelle von Alltagsgesprächen."
-
 ---
 
 "Ich weiß, dass ich den Körper einer schwachen Frau habe, aber ich habe das Herz und den Magen eines Königs, und zwar eines Königs von England." 👑

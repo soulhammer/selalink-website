@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Selain pekerjaan rumah tangga seperti menyetrika atau mencuci piring, apakah berjalan-jalan juga memberikan efek aktivasi DMN yang serupa?"
     answer: "Ya, berjalan-jalan juga merupakan alat yang luar biasa untuk mendorong kreativitas. Namun, saat berjalan, otak harus terus menerus mengonsumsi tingkat perhatian visual dan kognitif tertentu untuk bernavigasi di lingkungan sekitar atau menghindari kerumunan. Di sisi lain, menyetrika atau mencuci piring melibatkan tindakan fisik yang terbatas dan terkontrol sepenuhnya di dalam lingkungan ruangan yang familiar, sehingga konsumsi kognitif prefrontal jauh lebih rendah daripada saat berjalan-jalan, memberikan keunggulan unik dalam menginduksi kondisi meditasi yang tenang (aktivasi DMN) secara lebih stabil."
-
 ---
 
 "Saya tidak duduk dan memaksakan diri untuk membuat koreografi. Ketika saya menyetrika atau menyapu ruangan, saat itulah tarian para balerina mulai mengalir di depan mata saya." 🧺

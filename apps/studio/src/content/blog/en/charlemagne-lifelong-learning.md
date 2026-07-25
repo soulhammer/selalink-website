@@ -21,7 +21,6 @@ faqs:
     answer: "For modern practice, avoid loose thin paper. Instead, place a rigid hard-cover mini notebook on your nightstand, or mount a small wooden clipboard to a bedside shelf. This prevents damage while keeping the access loop friction-free."
   - question: "Will writing in dim lighting during night awakenings strain my eyes?"
     answer: "Nighttime writing involves brief jottings lasting 1 to 2 minutes, minimizing eye strain. The key is using a warm, amber-toned low-luminescence nightlight. This provides just enough light to trace letters without suppressing melatonin or triggering daytime arousal states."
-
 ---
 
 "To have knowledge is good, but to practice it and weave it into life is far greater." 👑

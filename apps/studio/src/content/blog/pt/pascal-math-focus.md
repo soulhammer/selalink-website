@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, é. O mecanismo de controle do tálamo bloqueia não apenas a dor física, mas também a ansiedade psicológica e os sinais de estresse exatamente da mesma maneira."
   - question: "Por quanto tempo um sprint de imersão de alta dificuldade deve ser mantido?"
     answer: "O ideal é entre 15 e 20 minutos. Depois de engajar intensamente os recursos cerebrais, faça uma breve pausa para evitar a fadiga mental."
-
 ---
 
 "Todos os problemas da humanidade decorrem da incapacidade do homem de sentar-se sozinho em silêncio em um quarto." 🧠

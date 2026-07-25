@@ -21,7 +21,6 @@ faqs:
     answer: "Die Ich-Perspektive ist zur Stimulation des motorischen Kortex weitaus effektiver. Die dritte Person hilft beim Überblick, aber die erste Person schult die Feinmotorik."
   - question: "Was tun, wenn während der Visualisierung Fehlerbilder auftauchen?"
     answer: "Das ist ein natürlicher Schutzmechanismus. Halten Sie die Szene an, spulen Sie zurück und visualisieren Sie das sofortige Überwinden des Fehlers für ein erfolgreiches Ende."
-
 ---
 
 "Ich schließe die Augen und stelle mir lebhaft vor, wie ich spiele. In diesem Moment ist mein Körper bereit." ⚽

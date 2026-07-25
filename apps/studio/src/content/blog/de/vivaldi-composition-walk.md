@@ -21,7 +21,6 @@ faqs:
     answer: "Es ist wichtig, die Notizen innerhalb von 1 bis 2 Stunden zu überprüfen und zu ergänzen. Je kürzer der Abstand zwischen Aufschreiben und Ausarbeiten, desto besser die Erinnerung."
   - question: "Gibt es einen Tipp, wenn das Aufnehmen von Sprachnotizen in der Öffentlichkeit unangenehm ist?"
     answer: "Setzen Sie Kopfhörer auf und sprechen Sie leise, als würden Sie telefonieren. So können Sie ganz entspannt Notizen aufnehmen, ohne aufzufallen."
-
 ---
 
 Antonio Vivaldi (1678–1741), italienischer Barockkomponist und Violinist, bekannt als 'Der rote Priester' (Il Prete Rosso), schuf 'Die vier Jahreszeiten', über 500 Konzerte und 40 Opern. Wie verwandelte der Musikdirektor des Ospedale della Pietà in Venedig seinen ständigen Strom musikalischer Eingebungen in Noten? 🎻

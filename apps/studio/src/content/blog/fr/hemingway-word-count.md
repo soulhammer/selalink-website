@@ -21,7 +21,6 @@ faqs:
     answer: "Hemingway suivait sa production pour éviter de se tromper lui-même et visualiser ses progrès, imposant une discipline a son travail. Les chiffres visibles stimulaient son système dopaminergique, facilitant la concentration le lendemain."
   - question: "Cette routine de suivi est-elle efficace pour le travail de bureau ou les études en dehors de l'écriture ?"
     answer: "Oui, tout à fait ! Elle s'applique à tout indicateur mesurable : pages lues, heures d'étude, lignes de code ou répétitions d'exercices. Un auto-contrôle honnête renforce la régulation préfrontale, stimulant la productivité."
-
 ---
 
 « Pour ne pas me tromper moi-même, je consigne chaque jour le nombre exact de mots écrits sur un grand tableau mural. » 📝

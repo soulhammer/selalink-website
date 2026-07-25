@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, absolutamente. Asignar números únicos en un entorno digital ofrece enormes ventajas. Aunque la búsqueda de palabras clave puede fallar si olvida los términos exactos, un ID único (p. ej., #042) crea un ancla absoluta para enlaces de retroceso y referencias cruzadas entre documentos."
   - question: "¿Cómo debo manejar la numeración cuando mezclo diarios, proyectos y proyectos personales?"
     answer: "Unificar todas las entradas bajo un solo contador secuencial (p. ej., #1 a #1000) como Faraday funciona perfectamente. Si prefiere separar dominios, añada prefijos de proyecto (p. ej., Trabajo [A-01], Estudio [B-01]). Lo esencial es asignar a cada fragmento una dirección única."
-
 ---
 
 "Una observación no es nada sin un registro. Cuando haga una observación, asígnele un número al instante." 📝

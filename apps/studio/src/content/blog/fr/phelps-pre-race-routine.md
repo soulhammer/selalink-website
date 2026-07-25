@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Que se passe-t-il si une étape de la routine est omise par inadvertance ?"
     answer: "Le cerveau peut réagir de manière hypersensible aux écarts imprévus, augmentant temporairement l'anxiété. Dans ce cas, recommencez calmement depuis le début ou adaptez-vous pour passer à la suite."
-
 ---
 
 "Avant même de plonger, j'avais déjà nagé une course parfaite d'innombrables fois dans ma tête." 🏊‍♂️

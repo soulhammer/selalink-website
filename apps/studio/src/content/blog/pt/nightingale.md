@@ -21,7 +21,6 @@ faqs:
     answer: "Sim. Ao controlar microvariÃ¡veis do ambiente e registradas visualmente, o cÃ©rebro libera dopamina no cÃ³rtex prÃ©-frontal, fortalecendo a autoeficÃ¡cia e acalmando a ansiedade."
   - question: "Esse princÃ­pio funciona para a organizaÃ§Ã£o digital como e-mails e aplicativos de mensagem?"
     answer: "Sim. Mover 3 arquivos temporÃ¡rios para a lixeira e anotar a meta de e-mails pendentes no caderno gera o mesmo efeito de controle prÃ©-frontal."
-
 ---
 
 "Ambientes insalubres e enfermagem emocional sem dados levam Ã  morte." ð¯ï¸

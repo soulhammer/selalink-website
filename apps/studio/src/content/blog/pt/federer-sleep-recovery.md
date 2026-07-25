@@ -21,7 +21,6 @@ faqs:
     answer: "Não se force a dormir. Se continuar acordado após 20 minutos, aplique a Terapia de Controle de Estímulos: levante-se, vá para um ambiente com luz fraca, leia um livro e volte à cama apenas quando sentir sono."
   - question: "Por que me sinto tonto e pesado depois de uma soneca?"
     answer: "Essa sensação vem da 'Inércia do Sono', que ocorre quando a soneca passa de 30 minutos e entra no sono profundo. Para evitar isso, programe seu alarme para 15 a 20 minutos."
-
 ---
 
 "Se eu não dormir de 11 a 12 horas por dia, não consigo jogar no meu nível mais alto." 🎾

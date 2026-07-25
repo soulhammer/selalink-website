@@ -21,7 +21,6 @@ faqs:
     answer: "En la Gran Bretaña del siglo XIX, rara vez se proporcionaba un estudio independiente a las escritoras. Austen también tuvo que escribir en el espacio compartido de la sala de estar, por lo que utilizó la puerta rechinante para percibir las visitas repentinas de su familia y ganar tiempo para esconder sus manuscritos."
   - question: "¿Cómo se puede aplicar este método en un entorno digital moderno?"
     answer: "Estableciendo los estados de mensajería en 'No molestar' o 'En una llamada' para bloquear la afluencia directa de notificaciones externas, y ajustando las herramientas de comunicación clave para notificar solo a intervalos de tiempo designados, puede controlar las interrupciones cognitivas inesperadas."
-
 ---
 
 "El rechinido de una puerta es la alarma más segura que protege mi inmersión." 🚪

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "What should beginners who cannot do a headstand at all do?"
     answer: "Even if you cannot lean against a wall, simply adopting a Dolphin Pose (lifting hips toward the ceiling on a mat) or elevating your legs on a bed/chair while bending your upper body downward provides the exact same benefits: increased frontal lobe blood flow and vestibular stimulation."
-
 ---
 
 "When ideas stall, turn your head toward the floor. Your brain will immediately start thinking differently." 🤸‍♂️

@@ -21,7 +21,6 @@ faqs:
     answer: "Porque se negaba a interrumpir su delicado estado de flujo. Al eliminar las transiciones cotidianas (cambiarse de ropa, ducharse, dormir largos periodos), canalizó la corriente continua de inspiración artística directamente a sus esculturas."
   - question: "¿Cuáles son consejos prácticos para reducir la fatiga de decisión en el día a día moderno?"
     answer: "Planifique previamente selecciones secundarias como la vestimenta o la comida mediante una rutina fija (al estilo Steve Jobs) y elimine las distracciones periféricas en su espacio de trabajo para evitar gastar energía cognitiva."
-
 ---
 
 La Piedad, el David y el techo de la Capilla Sixtina en el Vaticano: obras maestras inmortales de la historia del arte creadas por el genio escultor del Renacimiento Miguel Ángel Buonarroti (1475-1564). Detrás de estas monumentales creaciones se escondía un hábito obsesivo de flujo extremo. 🏛️

@@ -21,7 +21,6 @@ faqs:
     answer: "Substitua afirmações vagas como 'os usuários gostam deste recurso' por métricas quantitativas mensuráveis: volume de aquisição, tempo de permanência e taxa de rotatividade."
   - question: "O que fazer se as métricas quantitativas contradisserem minha intuição pessoal?"
     answer: "Confie nos dados objetivos medidos em vez da intuição. Historicamente, a intuição costuma ser um mecanismo de defesa do cérebro para proteger dogmas ultrapassados."
-
 ---
 
 "A verdade não reside na tradição dos livros, mas nas quantidades da natureza medidas objetivamente." 🫀

@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, tentu saja! Alat seperti Notion, Obsidian, atau platform catatan dinamis membangun sistem Second Brain yang luar biasa. Kuncinya bukanlah medianya, melainkan menjunjung tinggi 'Prinsip Modularitas' (satu konsep yang jelas per catatan) dan 'Prinsip Konektivitas' (menghubungkan kembali dan mengocok konsep secara terus-menerus)."
   - question: "Berapa banyak kartu yang harus saya kumpulkan sebelum memulai pengocokan acak dan asosiasi kreatif?"
     answer: "Kami merekomendasikan untuk memulai pengocokan acak setelah Anda mengumpulkan setidaknya 30 hingga 50 kartu. Otak menghasilkan wawasan kreatif yang kuat ketika dipaksa untuk mendeteksi pola organik di seluruh konsep yang heterogen."
-
 ---
 
 "Mencatat dan mengategorikan ide bukan sekadar penyimpanan. Ini adalah satu-satunya cara untuk menghubungkan fakta-fakta terisolasi yang tak terhitung jumlahnya menjadi struktur narasi yang monumental." 🗃️

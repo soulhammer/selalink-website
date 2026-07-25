@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, absolutamente. Su control llega solo hasta su esfuerzo sincero por influir; la forma en que la otra persona responde pertenece 100% a su dominio. Aceptar este límite elimina el estrés interpersonal."
   - question: "¿Ignorar los resultados disminuye mi pasión o motivación?"
     answer: "¡En absoluto! De hecho, ocurre lo contrario. Al liberar al cerebro del miedo al resultado, puede canalizar el 100% de su energía cognitiva en sumergirse puramente en la tarea actual."
-
 ---
 
 "El momento en que nos preocupamos por lo que está fuera de nuestro control, nos convertimos en esclavos." 📜

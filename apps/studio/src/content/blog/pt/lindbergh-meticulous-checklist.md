@@ -21,7 +21,6 @@ faqs:
     answer: "Não. Quando uma lista é longa demais, o cérebro se cansa e tende a pular itens de forma automática. Do ponto de vista neurocientífico, o ideal é limitar a lista a entre 5 e 9 pontos de controle críticos (alinhado aos limites da memória de trabalho)."
   - question: "Em que tipo de tarefas é mais eficaz aplicar uma rotina de lista de verificação?"
     answer: "As listas são eficazes em tarefas procedimentais: rotinas operacionais recorrentes, etapas finais antes do lançamento de projetos públicos, revisão de contratos ou preparação de viagens, onde pular um único passo gera graves consequências."
-
 ---
 
 "Qualidade nunca es um acidente; é sempre o resultado de um esforço inteligente. Nunca superestime a capacidade da memória humana. Uma única folha de papel pode separar a vida da morte." ✈️

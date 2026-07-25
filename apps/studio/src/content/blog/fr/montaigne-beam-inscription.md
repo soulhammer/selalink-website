@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Faut-il pratiquer cette routine quotidiennement ?"
     answer: "Oui, une pratique quotidienne à heure fixe optimise la plasticité neuronale. Exécuter ce rituel régulièrement renforce durablement les circuits métacognitifs du cortex préfrontal."
-
 ---
 
 « Que sais-je ? (Que sçay-je?) » 🏛️

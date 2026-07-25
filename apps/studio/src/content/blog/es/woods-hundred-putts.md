@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Qué pasa si esto aumenta mi estrés y dificulta mi concentración en lugar de ayudar?"
     answer: "Eso sucede cuando la dificultad supera con creces tu nivel actual, liberando hormonas de estrés. Reduce la intensidad para que la tasa de éxito estimada sea del 70–80%."
-
 ---
 
 "No me voy del verde de práctica hasta que entre el putt número 100." ⛳

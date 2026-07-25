@@ -21,7 +21,6 @@ faqs:
     answer: "Leichte Belletristik bietet zwar einen abkühlenden Effekt, der den Gehirnstres abbaut, aber um einen 'wertorientierten Motivationseffekt' zu erzielen, der die Selbstidentität ausrichtet und die Umsetzungswillenskraft wie bei Alexanders Routine anregt, ist es weitaus besser, klassische Epen, Philosophiebücher oder Biografien großer Persönlichkeiten zu wählen, die innere Resonanz und Reflexion bieten."
   - question: "Ist es in Ordnung, im Liegen mit einem E-Book-Reader zu lesen?"
     answer: "Bildschirme von E-Book-Readern oder Tablets bergen ein hohes Risiko, die Melatonin-Ausschüttung zu unterdrücken, da die Lichtemission das Gehirn dazu verleitet, die Nacht für Tag zu halten. Für optimale Ergebnisse bei der Ausrichtung des Unterbewusstseins und einem tiefen Schlaf wird empfohlen, nach Möglichkeit ein physisches Papierbuch unter sanfter Beleuchtung direkt mit der Hand umzuschlagen und zu lesen."
-
 ---
 
 "Für den, der es wagt, ist nichts unmöglich." ⚔️

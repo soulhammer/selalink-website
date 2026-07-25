@@ -21,7 +21,6 @@ faqs:
     answer: "Jobs mengeliminasi pemilihan pakaian pagi hari untuk mencegah Kelelahan Keputusan dan menghemat energi korteks prefrontal, mendedikasikan 100% kapasitas kognitifnya untuk manajemen Apple."
   - question: "Apa alternatif praktis jika mengenakan pakaian yang sama persis seperti Jobs terasa tidak realistis?"
     answer: "Anda tidak perlu mengenakan pakaian yang identik. Membangun 'Capsule Wardrobe'—menetapkan palet warna Anda ke warna netral (hitam, biru navy, abu-abu) atau membatasi pilihan hingga 3 atasan dan 2 bawahan—memberikan manfaat yang identik."
-
 ---
 
 "Memutuskan apa yang akan dikenakan setiap pagi menguras sebagian kecil dari kekuatan kehendak otak Anda yang berharga. Saya melestarikan 100% kapasitas mental saya secara eksklusif untuk keputusan yang benar-benar penting." 👕

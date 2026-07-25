@@ -21,7 +21,6 @@ faqs:
     answer: "You can easily practice solo. Rebound ball-drills against a wall (squash or tennis balls), punching a boxing bag, or agility ladder drills stimulate the cerebellum and motor cortex, effectively taking the prefrontal cortex offline without needing partners."
   - question: "Does engaging in physical exercise on days with extreme mental exhaustion cause further fatigue?"
     answer: "Mental cognitive fatigue and physical muscle fatigue are physiologically distinct. Brain fatigue resulting from prolonged intellectual work stems from metabolic congestion in the prefrontal cortex. Engaging in 'Active Recovery'—moving your body to circulate blood flow and shift neural processing to the cerebellum—is precisely what flushes brain fatigue metabolites."
-
 ---
 
 "All that I know most surely about morality and obligations I owe to football." ⚽

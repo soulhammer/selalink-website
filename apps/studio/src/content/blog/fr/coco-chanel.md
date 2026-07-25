@@ -21,7 +21,6 @@ faqs:
     answer: "Isolez l'objectif principal et demandez-vous : « Si cette section ou ce graphique est retiré, le problème essentiel résolu reste-t-il limpide ? » Si oui, l'élément n'est que de l'habillage. Le supprimer renforce l'impact."
   - question: "La méthodologie de coupe de Chanel peut-elle s'appliquer à l'organisation de l'espace de travail ?"
     answer: "Oui, cela procure d'immenses bénéfices cognitifs. Lors du rangement de votre bureau ou penderie, éliminez le superflu conservé « au cas où » pour ne garder que les 20 % d'outils et vêtements indispensables. Éliminer le bruit visuel réduit la surcharge préfrontale."
-
 ---
 
 « La simplicité est la clé de toute élégance véritable. » ✂️

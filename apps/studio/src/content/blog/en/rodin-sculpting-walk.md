@@ -21,7 +21,6 @@ faqs:
     answer: "Silicone stress balls, fidget cubes, mini kalimbas, smooth wooden blocks, or polished river stones are excellent alternatives that provide rich tactile input."
   - question: "How does fingertip tactile stimulation boost creativity?"
     answer: "Hands occupy the largest proportion of the brain's motor and somatosensory cortices. Fine stimulation of fingertips activates dormant neural pathways, stimulating creative association."
-
 ---
 
 Auguste Rodin (1840–1917), the master of modern sculpture who breathed fierce vitality and tragic emotion into hard stone and bronze with masterpieces like 'The Thinker' and 'The Gates of Hell'. Where did the overwhelming three-dimensional depth and inspiration that redefined art history originate? 🗿

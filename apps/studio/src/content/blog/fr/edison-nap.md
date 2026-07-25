@@ -21,7 +21,6 @@ faqs:
     answer: "En s'endormant, le relâchement musculaire faisait tomber les billes, le réveillant instantanément pour consigner les idées émergentes avant le sommeil profond."
   - question: "Existe-t-il des alternatives à la technique d'Edison pour les bureaux où le bruit est restreint ?"
     answer: "Oui. Vous pouvez poser une serviette au sol pour amortir le bruit, ou régler une alarme de 1 à 3 minutes sur votre smartphone pour vous réveiller durant le sommeil léger N1."
-
 ---
 
 « Le sommeil est une perte de temps, mais la frontière du subconscient est l'outil d'invention le plus puissant de l'humanité. » 💤

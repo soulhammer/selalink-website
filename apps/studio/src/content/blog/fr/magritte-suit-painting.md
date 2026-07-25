@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, l'effet est remarquable ! La sensation ferme sous la plante des pieds envoie au <strong>Cortex somatosensoriel</strong> un signal 'mode d'activité extérieure'. Cela freine l'envie de s'allonger et sert d'interrupteur physique."
   - question: "Bien s'habiller aide-t-il aussi pour les travaux créatifs comme la peinture ou la création de contenu ?"
     answer: "Oui, tout à fait ! Bien qu'on pense souvent que la tenue décontractée favorise la créativité, une tenue et une routine soignées économisent les ressources du cortex préfrontal, permettant au cerveau de se consacrer aux idées profondes et aux associations surréalistes."
-
 ---
 
 "Je n'ai pas besoin de remplir ma vie quotidienne de folie pour l'art. Quand mon quotidien est extrêmement simple et ordonné, le surréalisme sur ma toile acquiert une persuasion tranchante." 🎩

@@ -21,7 +21,6 @@ faqs:
     answer: "Absolument pas. Lorsque les objectifs sont trop ambitieux, la peur de démarrer entraîne una procrastination systématique et un résultat nul. Consacrer chaque jour un petit effort se traduit au bout d'un an par plus de 700 pages, soit deux a trois scénarios complets."
   - question: "Puis-je appliquer cette routine de 2 pages au travail de bureau, a la programmation ou aux révisions ?"
     answer: "Oui, tout à fait ! L'essentiel ne réside pas dans le chiffre exact de '2 pages', mais dans le fait de réduire la tâche a una micro-unité qui n'alerte pas l'amygdale. Pratiquer 'rédiger 1 paragraphe d'un rapport' ou 'lire 2 pages d'un manuel' procure des bénéfices identiques."
-
 ---
 
 « N'essayez pas de rédiger un chef-d'œuvre d'un seul coup. Concentrez-vous uniquement sur la règle simple de remplir 2 pages chaque jour. Écrire 2 pages par jour pendant un an représente plus de 700 pages, soit deux ou trois scénarios complets. » 🎬

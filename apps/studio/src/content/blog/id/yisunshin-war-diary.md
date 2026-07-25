@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak perlu menulis panjang lebar; tiga baris saja sudah cukup. Dengan merangkum 'satu hal yang paling membuatku lelah hari ini', 'emosiku saat itu', dan 'satu hal yang bisa kuperbaiki besok', mekanisme objektifikasi emosi di otak tetap bekerja secara efektif."
   - question: "Apakah mengetik di aplikasi jurnal smartphone memiliki efek yang sama?"
     answer: "Pada dasarnya, tulisan tangan analog dengan pena di atas kertas adalah yang paling efektif, karena umpan balik taktil yang mengirimkan informasi sensorik halus ke otak akan membangunkan kendali kognitif di lobus frontal secara lebih kuat. Namun, jika mengetik dalam kondisi fokus tanpa gangguan notifikasi dan menulis secara jujur, Anda tetap dapat merasakan manfaat regulasi emosi secara optimal."
-
 ---
 
 "Duduk sendirian di bawah cahaya lilin jauh di malam hari, aku menulis di jurnalku, mengkhawatirkan negara." 🖋️

@@ -21,7 +21,6 @@ faqs:
     answer: "Definieren Sie zuerst 3 'unzerlegbare Grundfakten' – wie technische Grenzen, das Budget und echte Nutzerbedürfnisse. Bauen Sie Ihre Strategie darauf von Grund auf neu auf."
   - question: "Was unterscheidet herkömmliches logisches Denken von Euklids Denken aus ersten Prinzipien?"
     answer: "Herkömmliche Logik stützt sich meist auf Präzedenzfälle oder Analogien. Das Denken aus ersten Prinzipien setzt hingegen alle Annahmen auf Null zurück und baut Logikketten rein deduktiv aus unumstößlichen Evidenzen auf."
-
 ---
 
 "Es gibt keinen Königsweg zur Geometrie." 📐

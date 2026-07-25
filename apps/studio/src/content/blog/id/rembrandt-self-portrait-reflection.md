@@ -21,7 +21,6 @@ faqs:
     answer: "Ya. Jika distorsi suasana hati atau perasaan depresi makin parah, Anda mungkin telah jatuh ke dalam lingkaran kritik diri, jadi segera hentikan. Sebagai gantinya, beralihlah ke latihan yang terlebih dahulu memeriksa sensasi penjangkaran tubuh (earthing) dengan melihat garis bahu atau bentuk tangan alih-alih pupil mata."
   - question: "Kapan waktu terbaik untuk melakukan refleksi diri di cermin?"
     answer: "Rutinitas 3 menit di depan cermin kamar mandi tepat setelah selesai mandi adalah yang terbaik. Dalam kondisi dominan parasimpatis saat tubuh rileks, mekanisme pertahanan otak melemah, memungkinkan pertemuan dengan diri sendiri yang paling jujur dan nyaman."
-
 ---
 
 "Satu-satunya cara untuk berhadapan dengan diri batiniah sendiri adalah menatap dalam-dalam pupil mata yang terpantul di cermin." 🎨

@@ -21,7 +21,6 @@ faqs:
     answer: "La ficción ligera también ofrece un efecto refrescante que alivia el estrés cerebral, pero para lograr un efecto de 'motivación orientada a valores' que alinee la autoidentidad e inspire la fuerza de voluntad de ejecución como en la rutina de Alejandro, es mucho mejor elegir epopeyas clásicas, libros de filosofía o biografías que brinden una resonancia e introspección profundas."
   - question: "¿Está bien leer libros con un lector de libros electrónicos mientras se está acostado?"
     answer: "Las pantallas de los lectores de libros electrónicos o tabletas conllevan un alto riesgo de suprimir la secreción de melatonina porque la emisión de luz hace que el cerebro confunda la noche con el día. Para obtener los mejores resultados al inducir la alineación subconsciente y un sueño profundo, se recomienda leer un libro de papel físico pasando las páginas a mano bajo una luz suave siempre que sea posible."
-
 ---
 
 "Nada es imposible para aquel que lo intenta." ⚔️

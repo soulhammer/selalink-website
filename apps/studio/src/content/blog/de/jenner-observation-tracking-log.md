@@ -21,7 +21,6 @@ faqs:
     answer: "Daten ohne sofort erkennbare Muster dienen dem Ausfiltern von Störfaktoren. Wenn über einen Monat lang Daten gesammelt werden, verknüpft der präfrontale Kortex Zusammenhänge automatisch und bringt verborgene Muster ans Licht."
   - question: "Können auch moderne Büroangestellte oder Nicht-Mediziner solche Feldbeobachtungen durchführen?"
     answer: "Ja, absolut! Das Auswerten von Nutzerbewertungen, Kundenservice-Meldungen, Google-Analytics-Daten oder Reaktionen im Team ist das 'Feld' moderner Wissensarbeiter."
-
 ---
 
 "Echte wissenschaftliche Entdeckungen sprießen nicht aus spontaner Intuition, sondern auf dem Boden eines ehrlichen Beobachtungstagebuchs, das über Jahre hinweg Fakten sammelt." 🩺

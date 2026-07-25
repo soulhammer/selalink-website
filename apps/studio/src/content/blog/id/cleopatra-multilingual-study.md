@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, efisiensinya sangat rendah. Penontonan pasif hanya merangsang sirkuit pendengaran reseptif di area Wernicke tanpa merekrut area Broca. Melibatkan otot artikulasi vokal melalui membaca nyaring dan menyusun kalimat secara aktif melalui tulisan tangan diperlukan untuk mendorong neuroplastisitas sinaptik."
   - question: "Apakah mempelajari dua bahasa asing atau lebih secara bersamaan memicu kelebihan beban kognitif?"
     answer: "Pada tahap pemula absolut, masukan bersamaan dapat menyebabkan interferensi linguistik. Namun, setelah skema mendasar dibangun dalam satu bahasa utama, beralih di antara sistem tata bahasa yang berbeda bertindak sebagai latihan kognitif tingkat tinggi yang memperkuat kontrol eksekutif prefrontal."
-
 ---
 
 "Lidahnya seperti instrumen dengan banyak senar, yang dapat ia putar dengan mudah ke bahasa apa pun yang ia sukai." 👑

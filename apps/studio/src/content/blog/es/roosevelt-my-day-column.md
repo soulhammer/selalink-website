@@ -21,14 +21,13 @@ faqs:
     answer: "Incluso en días rutinarios, intente capturar una pequeña variación diaria: una persona, el sabor de la comida o el olor del clima. El intento de buscar sutilezas ejercita la atención y entrena la metacognición."
   - question: "¿Es igualmente efectivo usar aplicaciones de diario digital o Notion?"
     answer: "¡Sí! Las herramientas digitales ofrecen los mismos beneficios metacognitivos de organizar y externalizar pensamientos. Lo esencial es visualizar pensamientos en estructura de oraciones, sea a mano o teclado."
-
 ---
 
 "Haz una cosa cada día que te dé miedo." 🚶‍♂️
 
 Eleanor Roosevelt (1884–1962) fue una figura monumental de la diplomacia y Primera Dama de EE. UU. que consoló a la nación durante la Gran Depresión y la Segunda Guerra Mundial, y lideró la redacción de la Declaración Universal de los Derechos Humanos de la ONU. Entre la intensa actividad pública y presiones políticas, su secreto para mantener la calma interior residía en su escritura nocturna. ✍️
 
-Desde 1935 hasta su fallecimiento en 1962 —durante 27 años— redactó una columna diaria titulada 'My Day' seis días a la semana sin falta. No era un manifiesto político, sino un diario íntimo sobre historias de cinos desfavorecidos y reflexiones personales. Al sentarse ante su escritorio cada noche, se distanciaba de los turbulentos eventos para observar objetivamente su propia mente.
+Desde 1935 hasta su fallecimiento en 1962 —durante 27 años— redactó una columna diaria titulada 'My Day' seis días a la semana sin falta. No era un manifiesto político, sino un diario íntimo sobre historias de ci�nos desfavorecidos y reflexiones personales. Al sentarse ante su escritorio cada noche, se distanciaba de los turbulentos eventos para observar objetivamente su propia mente.
 
 En la publicación de hoy, compartimos los beneficios neurocientíficos de la rutina de diario de Eleanor Roosevelt y ofrecemos un método de escritura reflexiva en 3 pasos.
 

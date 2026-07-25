@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "O que devo fazer quando minha mente fica em branco e não consigo me concentrar de jeito nenhum?"
     answer: "Em vez de não escrever nada ou pegar o smartphone, continue sentado à mesa, segure a caneta e comece a rabiscar."
-
 ---
 
 "Escrever não é uma explosão de inspiração, mas um trabalho honesto como o de um agricultor arando o campo em um horário fixo todos os dias." 🖋️

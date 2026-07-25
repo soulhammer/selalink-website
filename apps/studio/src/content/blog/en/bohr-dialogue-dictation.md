@@ -21,7 +21,6 @@ faqs:
     answer: "You can substitute by turning on a smartphone voice memo or AI recorder app and speaking aloud as if explaining to an imaginary listener. The crucial factor is not the physical presence of a listener, but the cognitive stimulation process of converting inner thoughts into external spoken language and re-auditing them."
   - question: "How can I translate the output of oral discussion into productive written documentation?"
     answer: "We recommend immediately jotting down sudden insights as keywords during speech, or utilizing Speech-to-Text (STT) tools to automatically transcribe the session, and then re-structuring the raw text into a core outline during deep work."
-
 ---
 
 "We only discover what we were truly thinking through the process of casually speaking our thoughts aloud to others." 🗣️

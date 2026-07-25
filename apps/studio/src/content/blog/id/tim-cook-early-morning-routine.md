@@ -21,7 +21,6 @@ faqs:
     answer: "Jika kronotipe tidur Anda secara genetik memang tipe malam, Anda tidak perlu memaksakan diri bangun jam 3-4 pagi. Pelajaran utama dari rutinitas ini adalah 'mengamankan 1 jam proaktif tanpa gangguan luar', sehingga menggantinya dengan 1 jam setelah pulang kerja atau larut malam akan memberikan efek yang sama."
   - question: "Bagaimana cara mengatasi kelelahan di sore hari jika bangun sangat pagi?"
     answer: "Melakukan power nap ringan selama 15–20 menit antara jam 13:00 hingga 15:00, menghentikan asupan kafein sebelum jam 11:00 pagi, dan melakukan peregangan ringan akan mengurangi kelelahan prefrontal secara signifikan."
-
 ---
 
 Tim Cook, eksekutif puncak yang memimpin Apple dan mengarahkan kehidupan harian ratusan juta orang serta keputusan senilai triliunan Dolar. Apa rahasia pagi utamanya untuk menjaga hari tetap di bawah kendali mutlak sebelum gangguan luar datang? ⌚

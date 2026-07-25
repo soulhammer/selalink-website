@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "10 horas de sono parecem irrealistas para pessoas ocupadas; é possível reduzir?"
     answer: "A meta de 10 horas aplica-se a atletas de alto rendimento; para a maioria das pessoas, garantir de 7 a 8 horas de sono de qualidade é suficiente. O segredo não é ficar fixado na duração, mas maximizar a proporção de sono profundo (sono de ondas lentas) por meio de rotinas regulares de despertar e controle do ambiente."
-
 ---
 
 "Escrever uma lista torna as tarefas claras; dormir 10 horas prepara o corpo para enfrentar qualquer arremesso." 💤

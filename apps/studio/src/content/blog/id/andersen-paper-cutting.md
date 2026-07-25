@@ -21,7 +21,6 @@ faqs:
     answer: "Tentu saja. Justru tindakan memotong secara acak tanpa pola lebih efektif dalam menurunkan aktivitas DMN. Otak sama sekali tidak peduli apakah pola yang dihasilkan aneh atau bengkok. Yang terpenting bukanlah kepresisian bentuk, melainkan gerakan halus otot ujung jari dan stimulasi pendengaran itu sendiri. Karena ini adalah aktivitas kreatif tanpa kegagalan dan bebas dari penilaian, nikmatilah kegiatan memotong kertas dengan santai."
   - question: "Apakah potongan sampah kertas yang dihasilkan akan mengganggu relaksasi saat merapikannya?"
     answer: "Jika Anda khawatir tentang sampah yang dihasilkan, cobalah meletakkan tempat sampah kecil atau nampan di atas meja sejak awal dan lakukan pemotongan di atasnya. Mengaturnya agar potongan-potongan kertas terkumpul secara alami di satu tempat memungkinkan Anda menyelesaikannya dengan tindakan fisik ringan (10 detik) berupa memungutnya dan membuangnya ke tempat sampah setelah rutinitas selesai, tanpa merusak kondisi relaksasi emosional Anda."
-
 ---
 
 "Karya guntinganku adalah bab pertama dari sebuah dongeng. Di saat gunting menyentuh kertas, imajinasiku pun mengepakkan sayapnya." ✂️

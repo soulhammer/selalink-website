@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah saya harus memungut sampah, atau boleh hanya berjalan saja?"
     answer: "Sekadar berjalan memang membantu mengaktifkan DMN, namun menggabungkan tindakan altruistis seperti memungut sampah dengan tindakan 'merapikan lingkungan' akan memicu pelepasan dopamina dan serotonin pada tingkat yang lebih tinggi, memberikan kejernihan pikiran yang lebih maksimal."
-
 ---
 
 "Memunguti sampah adalah cara untuk membersihkan pikiran saya dan mengamati alam dari dekat." 🌿

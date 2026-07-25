@@ -21,7 +21,6 @@ faqs:
     answer: "Bahkan pada hari mendung, tingkat cahaya luar ruangan berkisar antara 1.000 dan 2.000 lux—jauh lebih terang daripada pencahayaan dalam ruangan biasa (300–500 lux). Oleh karena itu, berjalan di luar pada hari mendung tetap secara efektif menekan melatonin dan memicu stimulasi SCN. Namun, saat polusi udara ekstrem, gantilah dengan pengamatan jendela, berdiri tepat di dekat jendela terbuka atau balkon sambil menatap ke luar."
   - question: "Apakah pekerja pengetahuan non-seniman dapat memperoleh manfaat dari rutinitas pengamatan visual Cézanne?"
     answer: "Ya, tentu saja. Penyelarasan jam sirkadian melalui sinar matahari pagi membersihkan kelelahan prefrontal dan meningkatkan fungsi eksekutif untuk profesi apa pun. Lebih jauh lagi, mempraktikkan pengamatan sengaja terhadap bentuk geometris dan kontras kecerahan memperluas kapasitas memori kerja visuospasial, memberikan daya kognitif yang kuat untuk perencanaan strategis, analisis data, dan pemecahan masalah bisnis multidimensi."
-
 ---
 
 "Seorang pelukis tidak boleh hanya sekadar melihat objek; ia harus merasakannya dengan seluruh tubuhnya, merekonstruksinya di dalam otaknya, dan mengekspresikannya di atas kanvas." 🎨

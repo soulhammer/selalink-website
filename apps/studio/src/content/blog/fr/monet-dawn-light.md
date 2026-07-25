@@ -21,7 +21,6 @@ faqs:
     answer: "Lorsque les fenêtres sont fermées, le traitement du verre moderne filtre et réfléchit jusqu'à 80 % des longueurs d'onde bleues et UV essentielles à l'éveil cérébral. Par conséquent, pour stimuler pleinement les cellules ipRGCs rétiniennes et bloquer la mélatonine, ouvrir complètement la fenêtre pour recevoir directement la lumière naturelle offre des bienfaits physiologiques nettement supérieurs."
   - question: "L'observation de l'aube est-elle effective les matins nuageux ou pluvieux ?"
     answer: "Oui. Même par matin couvert ou pluvieux, la lumière naturelle traversant les nuages atteint des niveaux de lux environ 10 fois supérieurs à l'éclairage artificiel intérieur. Les longueurs d'onde diffusées dans l'atmosphère stimulent suffisamment les cellules ganglionnaires rétiniennes. Observer le ciel pendant 10 minutes les jours nuageux offre les mêmes bienfaits d'échauffement cognitif."
-
 ---
 
 "La lumière change constamment et ne révèle sa pure beauté qu'à ceux qui la contemplent." 🎨

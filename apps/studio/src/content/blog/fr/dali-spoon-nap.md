@@ -21,7 +21,6 @@ faqs:
     answer: "Tenir une cuillère convertissait le relâchement musculaire du début du sommeil en un signal sonore qui le réveillait immédiatement. Cela empêchait son cerveau d'entrer dans le sommeil profond (NREM Stade 3) tout en lui permettant de saisir les visions hypnagogiques."
   - question: "Comment adapter cette routine dans des environnements calmes comme des bureaux ou des bibliothèques ?"
     answer: "Vous pouvez placer une serviette épaisse ou un coussin sur l'assiette pour feutrer le son, ou régler un minuteur à vibration douce de 1 à 2 minutes sur votre smartphone. Cela vous permet de vous réveiller en douceur durant le sommeil léger NREM Stade 1."
-
 ---
 
 « Les plus grandes inspirations se révèlent au seuil exact du réveil, là où la fantaisie de l'inconscient croise la raison consciente. » 🎨

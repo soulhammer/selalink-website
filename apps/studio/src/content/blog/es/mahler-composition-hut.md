@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Qué deben hacer los empleados en oficinas abiertas si no pueden aislarse físicamente?"
     answer: "Combina el 'aislamiento auditivo' con el 'aislamiento digital'. Usar auriculares con cancelación de ruido escuchando ruido blanco equivale a construir paredes físicas. Cambiar el estado a 'No molestar' y maximizar una sola ventana de trabajo crea una excelente 'mini cabaña digital'."
-
 ---
 
 "Solo en completa soledad y silencio pueden los sonidos más profundos de la naturaleza entrar en mi partitura." 🎼

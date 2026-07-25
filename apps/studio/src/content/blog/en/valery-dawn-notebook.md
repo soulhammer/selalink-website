@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "What if I suffer from sleep deprivation and find waking up at dawn difficult?"
     answer: "Waking up early at dawn must be accompanied by early sleeping so as not to harm the body. If early sleeping is impossible due to late work shifts, instead of forcing yourself up at 4 AM, use the first 30 minutes of your normal waking time as 'Digital Disconnect & Cahiers Time' to enjoy the same cognitive anchoring effect."
-
 ---
 
 "Dawn is the sacred time when my consciousness awakens in its clearest, most whole state. Only the records left at this hour are my essence." 🌅

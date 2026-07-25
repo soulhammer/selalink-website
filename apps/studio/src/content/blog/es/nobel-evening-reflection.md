@@ -21,7 +21,6 @@ faqs:
     answer: "No. Lo fundamental es refinar las ideas en sus propias palabras en su idioma nativo. Escribir una frase en un idioma que estÃ© aprendiendo aporta una buena estimulaciÃ³n cerebral."
   - question: "Â¿QuÃ© hacer si me canso de escribir el diario todas las noches?"
     answer: "Reduzca la carga cambiando pÃ¡rrafos largos por un resumen simple de 3 palabras clave."
-
 ---
 
 "Cuando los errores y ensayos del dÃ­a se revisan objetivamente, la incertidumbre se sublima en gran invenciÃ³n." ð§ª

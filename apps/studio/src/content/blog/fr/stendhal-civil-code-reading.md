@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "La lecture du Code civil aide-t-elle lors de la rédaction de textes publicitaires ou d'essais émotionnels ?"
     answer: "Lorsque vous devez rédiger des textes persuasifs ou émotionnels, il est préférable d'utiliser de courts textes publicitaires attractifs ou des essais inspirants comme texte d'amorçage. Le cœur de l'habitude de Stendhal est d'amorcer le cerveau avec des textes adaptés au ton recherché."
-
 ---
 
 « Pour former mon style, je lis chaque matin deux ou trois pages du Code civil. Car la langue du code ne mêle pas d'émotion ; elle ne transmet clairement que des faits et des définitions. » 📖

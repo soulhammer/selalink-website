@@ -21,7 +21,6 @@ faqs:
     answer: "Full-body aerobic exercises using both upper and lower body—such as a rowing machine, stationary bike, elliptical, interval jogging, or burpees—will yield the same nervous system shower effect."
   - question: "Does performing high-intensity exercise every day strain the body?"
     answer: "Perform high-intensity aerobic exercise 3 times a week, and adjust flexibly with light walking or stretching on remaining days to prevent injury."
-
 ---
 
 "When I move my body vigorously to row across the river, the mental exhaustion and migraines pressing upon my brain completely disappear." 🚣

@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, allein das fokussierte Zuhören von Orchester- oder akustischer Saitenmusik mit einzigartiger Resonanz erzeugt dieselbe Alpha-Wellen-Induktion."
   - question: "Warum sollte man aus vielen Aufgaben nur 1 einzige auswählen?"
     answer: "Das Gehirn überhitzt bei der gleichzeitigen Multitasking-Ausführung. Die Konzentration auf 1 entscheidende Kernaufgabe teilt die Ressourcen des präfrontalen Kortex effizient ein."
-
 ---
 
 In der Zeit der Drei Reiche der späten Östlichen Han-Dynastie war Zhuge Liang (諸葛亮) der Meisterstratege, der Liu Bei bei der Gründung von Shu Han (蜀漢) half, die dreigeteilte Herrschaft Chinas plante und als legendärer Premierminister (名宰相) inmitten der Konflikte zwischen Wei, Shu und Wu Berühmtheit erlangte. Verantwortlich für das Leben hunderter Tausender Soldaten und das Überleben seiner Nation, ertrug er täglich extremen emotionalen Druck. 🎶

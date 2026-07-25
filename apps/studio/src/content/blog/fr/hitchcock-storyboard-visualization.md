@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait ! L'essentiel ne réside pas dans le dessin, mais dans la structuration de l'action. Utiliser des applications comme Figma, Miro ou des cartes mentales pour organiser des blocs de texte procure des bénéfices cognitifs identiques."
   - question: "Que faire si des imprévus surviennent pendant l'exécution, s'écartant du storyboard ?"
     answer: "Le storyboard est un guide souple. En cas d'imprévu, marquez une courte pause, consultez l'alternative inscrite dans la case, effectuez une simulation mentale de 10 secondes et adaptez votre geste."
-
 ---
 
 « Un film ne se fait pas sur le plateau. Il est accompli à 100 % sur le papier et dans l'esprit avant même le premier tour de manivelle. Aller sur le plateau n'est que l'exécution mécanique consistant à copier le plan. » 🎬

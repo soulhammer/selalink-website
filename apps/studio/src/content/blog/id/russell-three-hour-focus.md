@@ -21,7 +21,6 @@ faqs:
     answer: "Tentu saja, terputus total selama 3 jam bisa jadi sulit di lingkungan kerja umum. Dalam hal ini, membaginya menjadi blok '90 menit fokus - istirahat total' (misalnya 1,5 jam pagi dan 1,5 jam sore) tetap sangat membantu menjaga efisiensi berpikir otak."
   - question: "Apakah saya boleh melanjutkan pekerjaan ringan di sore hari setelah sesi fokus 3 jam selesai?"
     answer: "Ya. Setelah 3 jam Deep Work, Anda disarankan melakukan pekerjaan rutin berulang, mengecek email, atau tugas administratif ringan (shallow work) yang tidak membutuhkan pengambilan keputusan tingkat tinggi. Mengisi sore hari dengan tugas berbeban kognitif rendah dapat menjaga energi korteks prefrontal."
-
 ---
 
 "Saya hanya bekerja tiga jam sehari. Tetapi selama tiga jam itu, saya benar-benar terpisah dari dunia dan hanya berfokus pada logika saya." ☕

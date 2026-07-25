@@ -21,7 +21,6 @@ faqs:
     answer: "Não. Música pop ou transmissões de rádio estimulam emoções ou causam distrações auditivas sem ocupar o canal linguístico; comerciais interrompem o foco. Leituras acadêmicas que engajam a lógica são ideais."
   - question: "Qual volume é adequado ao seguir esta rotina de escuta de recitações?"
     answer: "Não deve ser nem muito alto nem muito baixo. Um volume moderado (cerca de 50–60 dB), semelhante a alguém lendo suavemente ao seu lado, é ideal. Recomenda-se o uso de caixa de som Bluetooth ou fones abertos."
-
 ---
 
 "A paixão e o intelecto tornam-se uma grande tela somente na harmonia sensorial." 🎨

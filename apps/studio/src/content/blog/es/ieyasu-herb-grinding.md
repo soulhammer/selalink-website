@@ -21,7 +21,6 @@ faqs:
     answer: "El movimiento repetitivo a velocidad constante estimula el sistema de serotonina del cerebro, suprimiendo las respuestas de amenaza en la amígdala y restaurando el control ejecutivo en la corteza prefrontal."
   - question: "¿Cómo puedo replicar esta rutina en la vida moderna si no tengo un mortero?"
     answer: "Girar un molinillo manual de café a velocidad constante, triturar hojas de té o frotar las palmas a un ritmo constante ofrece los mismos beneficios de activación de serotonina. La clave es mantener un tempo uniforme."
-
 ---
 
 "La vida humana es como un largo camino cargando una pesada carga. No te apresures. Moler hierbas con un mortero cada mañana calma mi respiración y me da la paciencia para gobernar el reino." 🍵

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Muss es unbedingt eine gelbe Rose sein?"
     answer: "Nein. Die gelbe Rose war lediglich Márquez' persönlicher Gegenstand für innere Ruhe. Sie können frei wählen, was Ihnen Frieden schenkt – sei es eine kleine Grünpflanze oder eine Narzisse."
-
 ---
 
 "Solange gelbe Rosen auf meinem Schreibtisch stehen, kann mir nichts passieren und die Arbeit schreitet voran." 🌹

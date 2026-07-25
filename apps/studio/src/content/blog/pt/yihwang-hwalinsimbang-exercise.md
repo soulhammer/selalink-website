@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "É difícil aprender todos os movimentos do Hwalinsimbang. Quais são as ações essenciais?"
     answer: "Se for difícil praticar todos os movimentos, lembre-se de apenas dois: Primeiro, ao acordar, esfregue as palmas das mãos para aquecê-las e massageie o rosto. Segundo, sente-se com a coluna ereta, inspire fundo pelo nariz e expire lentamente pela boca por cerca de 10 segundos. Apenas esses dois passos otimizam o sistema nervoso."
-
 ---
 
 "Quem governa a mente deve alinhar o corpo, inalando o ar puro da manhã para lavar todas as impurezas internas." 🧘‍♀️

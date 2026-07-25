@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "O que fazer se eu for indulgente demais ou tentar fraudar minhas notas?"
     answer: "Por isso, você deve estabelecer critérios objetivos e mensuráveis em vez de impressões. Avalie se o tempo de foco mensurado superou 3 horas em vez de 'senti que me concentrei'. Combinar dados objetivos elimina desculpas e força o confronto com a realidade."
-
 ---
 
 "O boletim diário em meu diário é o espelho mais honesto que me controla. O esforço consciente para obter um 'A' foi o motor das minhas conquistas acadêmicas."

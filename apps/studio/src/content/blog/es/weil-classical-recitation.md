@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Por qué Simone Weil prefería textos en griego antiguo para la recitación matutina?"
     answer: "Creía que las lenguas clásicas no familiares requieren un esfuerzo cognitivo deliberado, evitando la habituación pasiva e imponiendo al cerebro dedicar el 100% de su atención a cada sílaba."
-
 ---
 
 "Aprender a prestar plena atención es el verdadero propósito de todo estudio y contemplación." 📖

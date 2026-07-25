@@ -21,7 +21,6 @@ faqs:
     answer: "Oui. Einstein faisait régulièrement du voilier pour ressentir le vent et méditer lors de ses pauses. Il dormait aussi plus de 10 heures par jour pour laisser son subconscient structurer les problèmes."
   - question: "Les personnes ne jouant d'aucun instrument peuvent-elles suivre cette routine ?"
     answer: "Absolument. Au lieu de jouer, écouter de la musique classique en marquant le rythme avec les doigts ou fermer les yeux pendant 5 minutes de respiration profonde offre le même effet de bascule cognitive."
-
 ---
 
 « Une vie sans musique est inconcevable pour moi. Je vis mes rêves en musique. » 🎻

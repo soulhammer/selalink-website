@@ -21,7 +21,6 @@ faqs:
     answer: "Il est fortement recommandé de se limiter à 3 ou moins. Si le nombre de valeurs passe à 5 ou plus, la mémoire de travail (Working Memory) subit une surcharge, affaiblissant rapidement l'effet d'ancrage."
   - question: "Puis-je changer mes mots de valeurs au fil du temps ?"
     answer: "Oui, absolument ! Redéfinir et mettre à jour votre carte de valeurs chaque trimestre (tous les 3 mois) en fonction de l'évolution de votre étape de vie et de vos objectifs est une excellente habitude qui fournit un nouveau stimulus au cortex préfrontal."
-
 ---
 
 Ashoka le Grand, le roi saint qui a unifié la majeure partie de l'ancien sous-continent indien, a ouvert un âge d'or pour l'Empire Maurya et s'est métamorphosé, passant d'un cruel monarque conquérant à un gardien de la non-violence et de la paix. Après avoir été témoin de la tragédie atroce de la bataille de Kalinga, quel était son secret pour maîtriser son pouvoir et ses désirs tout au long de sa vie et maintenir un leadership éthique irréprochable ? 🏛️

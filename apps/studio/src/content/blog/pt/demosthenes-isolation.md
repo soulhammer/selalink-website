@@ -21,7 +21,6 @@ faqs:
     answer: "Para construir uma barreira social ineludível que tornasse socialmente insuportável sair em público devido à sua aparência. Isso eliminou o gasto de energia necessário para resistir a tentações, alocando 100% dos seus recursos executivos no treino."
   - question: "Que Dispositivos de Comprometimento práticos as pessoas modernas podem usar sem raspar a cabeça?"
     answer: "Entre os Dispositivos de Comprometimento modernos eficazes estão o uso de cofres físicos com temporizador para celulares, softwares de bloqueio de sites no computador ou contratos de penalidade financeira (ex.: pagar uma multa a um amigo se uma meta não for cumprida)."
-
 ---
 
 "Não confie na vontade para resistir à tentação. Construa uma barreira ineludível que feche seu foco unicamente na tarefa." 🏛️

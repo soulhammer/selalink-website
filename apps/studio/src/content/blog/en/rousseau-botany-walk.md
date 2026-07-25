@@ -21,7 +21,6 @@ faqs:
     answer: "He did not carry heavy notebooks while hiking. The stiff, small playing cards were perfect to write on while standing or walking, and easily fit inside his coat pockets."
   - question: "Can I get the same botany walk benefits in a city park?"
     answer: "Yes, absolutely. Even if you don't physically harvest plants, simply observing the organic shapes of flowerbed leaves, moss, or wild grass in a city park successfully stimulates the brain's attention restoration network."
-
 ---
 
 "I can only meditate when I am walking. When I stop, I cease to think; my mind only works with my legs." 🚶‍♂️

@@ -21,7 +21,6 @@ faqs:
     answer: "Los datos que no muestran un patrón inmediato sirven para filtrar el ruido. Una vez que las entradas cuantitativas se acumulan durante más de 30 días, la corteza prefrontal sintetiza conexiones y revela patrones ocultos de forma automática."
   - question: "¿Pueden los trabajadores de oficina modernos o profesionales no médicos realizar rastreos de campo como Jenner?"
     answer: "¡Sí, totalmente! Revisar comentarios de usuarios, textos de soporte al cliente, métricas de Google Analytics o analizar reacciones del equipo representan el 'campo' ideal para trabajadores modernos."
-
 ---
 
 "El verdadero descubrimiento científico no florece de una intuición momentánea, sino sobre un diario de observación honesto acumulado a lo largo de años de registrar hechos." 🩺

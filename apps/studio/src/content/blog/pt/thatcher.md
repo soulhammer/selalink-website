@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, revisar em voz alta as prioridades da agenda 30 minutos antes do trabalho intenso ativa de forma proativa o controle executivo do córtex pré-frontal."
   - question: "Como posso substituir se não tiver um quadro de notas dedicado?"
     answer: "Recitar em voz alta as 3 tarefas principais do dia anotadas em seu caderno em um quarto silencioso serve perfeitamente como substituto."
-
 ---
 
 Margaret Thatcher, a primeira mulher Primeira-Ministra do Reino Unido, conhecida como a 'Dama de Ferro', liderou reformas conservadoras firmes e a reestruturação econômica que tiraram o país da estagnação. Todas as noites até as 2 horas da manhã, ela lia centenas de páginas de relatórios oficiais em seu gabinete. Com um marcador amarelo, ignorava a retórica burocrática para focar estritamente em três eixos: viabilidade, orçamento e questões legais. Essa rotina noturna ancorou sua liderança decisiva.

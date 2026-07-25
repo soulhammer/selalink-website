@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, mekanisme neurofisiologisnya terdokumentasi dengan baik. Mempertahankan postur berbaring pasca-terbangun menahan lonjakan kortisol yang mendadak, menstabilkan tonus sistem saraf otonom. Mempertahankan Gelombang Alfa 8–12 Hz melepaskan kebisingan motorik sensorik, secara drastis meningkatkan deduksi intuitif prefrontal."
   - question: "Bagaimana jika saya tidak sengaja tertidur kembali saat bermeditasi di tempat tidur?"
     answer: "Untuk mencegah tertidur kembali, tinggikan bantal Anda sedikit untuk bersandar pada sudut 30 derajat, atau biarkan mata Anda tetap terbuka sambil menatap titik di langit-langit secara lembut. Selain itu, menyetel alarm lembut yang diatur tepat untuk 8 hingga 10 menit menciptakan batas aman yang andal."
-
 ---
 
 "Aku berpikir, maka aku ada (Cogito, ergo sum). Kejernihan mental tertinggi lahir saat tubuh fisik beristirahat dalam keheningan mutlak dan pikiran melayang secara bebas." 🛏️

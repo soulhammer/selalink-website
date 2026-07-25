@@ -21,7 +21,6 @@ faqs:
     answer: "Absolument. Aucune maîtrise musicale n'est requise. Écoutez de la musique classique tout en contrôlant votre respiration (5s d'inspiration, 5s d'expiration) pour obtenir un réarmement équivalent."
   - question: "Pourquoi le lavage du visage à l'eau froide stimule-t-il le nerf vague et réveille-t-il le cerveau ?"
     answer: "L'eau froide sur le front et les joues déclenche le réflexe d'immersion, réduisant le rythme cardiaque et augmentant l'afflux sanguin oxygéné vers le cerveau, stimulant les nerfs trijumeau et vague pour dissiper le brouillard matinal."
-
 ---
 
 Arthur Schopenhauer, le grand philosophe allemand auteur de *Le Monde comme volonté et comme représentation*. Grâce à quelle routine matinale ses œuvres intellectuelles acérées ont-elles été élaborées ?

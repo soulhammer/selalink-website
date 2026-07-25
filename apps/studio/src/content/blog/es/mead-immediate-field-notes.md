@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, es posible. Sin embargo, al usar el teléfono, active el modo 'No molestar' o configure un widget en la pantalla principal para que las notificaciones no lo distraigan, minimizando los retrasos."
   - question: "¿Qué opina de dejar una grabadora encendida y tomar notas más tarde acumulando el audio?"
     answer: "La grabación continua reduce omisiones, pero volver a escuchar horas de audio sobrecarga la memoria de trabajo. Tomar notas breves a mano con palabras clave en momentos decisivos es mucho más efectivo."
-
 ---
 
 "Si no anota un hecho observado inmediatamente, es como si nunca hubiera existido." 📝

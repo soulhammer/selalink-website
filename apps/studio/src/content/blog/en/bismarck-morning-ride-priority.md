@@ -21,7 +21,6 @@ faqs:
     answer: "That is completely fine. It is not a failure, but proof that you concentrated your energy on a high-impact, substantial project. Simply carry over the unfinished item as tomorrow morning's #1 task when your prefrontal cortex is freshest."
   - question: "What are modern exercise alternatives to morning horse riding?"
     answer: "15 minutes of jogging, stationary cycling, kettlebell swings, Tabata stretching, or brisk walking provide the exact same neurophysiological effect of boosting cerebral blood flow and releasing BDNF and dopamine."
-
 ---
 
 "Politics is the art of the possible, and to make the finest decisions, one must capture the brain's clearest moment." 🐎

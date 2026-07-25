@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Kann ich die gleiche Umwelt-Isolationswirkung erzielen, ohne den Ort physisch zu wechseln?"
     answer: "Ja, das ist möglich. Indem Sie Gegenstände vollständig vom Schreibtisch abräumen, Noise-Cancelling-Kopfhörer tragen oder Signale zur Blockierung von Benachrichtigungen auf Geräten einrichten, können Sie Ihrem Gehirn auch ohne physischen Ortswechsel ein starkes Signal zur Umschaltung in den Fokusmodus übermitteln."
-
 ---
 
 "Ein Meisterwerk entsteht nie durch Zufall. Es erblüht nur durch unerbittlichen Fokus und Selbstdisziplin." 🖋️

@@ -21,7 +21,6 @@ faqs:
     answer: "No se fuerce a dormir. Si sigue despierto tras 20 minutos, aplique la Terapia de Control de Estímulos: levántese, vaya a otra habitación con luz tenue, lea un libro físico y vuelva a la cama solo cuando sienta sueño."
   - question: "¿Por qué me siento aturdido y pesado después de tomar una siesta?"
     answer: "Esa pesadez se debe a la 'Inercia del Sueño', que ocurre cuando la siesta supera los 30 minutos y entra en el sueño profundo de onda lenta. Para evitarlo, programe su alarma estrictamente a 15-20 minutos."
-
 ---
 
 "Si no duermo de 11 a 12 horas al día, no puedo rendir al máximo nivel." 🎾

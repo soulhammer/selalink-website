@@ -21,7 +21,6 @@ faqs:
     answer: "Não. A janela fisiológica ideal ocorre 'imediatamente quando os batimentos cardíacos atingem o pico'. Se o ritmo cardíaco se normalizar durante o banho, a transição do estado simpático para o parassimpático diminui, reduzindo a eliminação de cortisol. É preciso sentar-se logo após suar."
   - question: "A sessão de meditação é um fracasso se pensamentos aleatórios continuarem surgindo?"
     answer: "Não, de forma alguma. O surgimento de pensamentos é um processo neurológico natural. A meditação não consiste em apagar ideias à força, mas em treinar o controle atencional: perceber quando a mente se dispersa e redirecionar suavemente o foco para a respiração. Cada vez que você percebe uma distração e volta à respiração, fortalece o córtex pré-frontal."
-
 ---
 
 "A resistência mental governa a força física, mas o que sustenta essa resistência mental é um treino diário rigoroso. Quando você acalma a respiração logo após suar, o ruído do trabalho desaparece e a clareza se estabelece." 🇸🇬

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Comment les professionnels occupés peuvent-ils adapter la routine de Martin s'ils ne peuvent pas méditer des heures ?"
     answer: "Il n'est nul besoin de méditer des heures. Une 'Pause Intentionnelle (Intentional Pause)' de seulement 5 minutes avant de commencer suffit. En vous installant au bureau, fermez les yeux, prenez 3 profondes inspirations et demandez-vous : 'Quelle est la tâche essentielle d'aujourd'hui ?'. Cela suffit à effectuer un réglage métacognitif pour éliminer le bruit cérébral."
-
 ---
 
 "Je m'assois sur ma chaise et j'attends que mon esprit soit complètement vide. Ce n'est que lorsque mon esprit est totalement vide que la véritable forme du tableau m'apparaît." 🧘‍♀️

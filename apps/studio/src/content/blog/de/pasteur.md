@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, das Reinigen der Linsen oder das Aufräumen gibt dem Gehirn ein Signal der Ordnung, um den Fokus zu maximieren."
   - question: "Wie kann ich dies ersetzen, wenn ich kein Mikroskop oder Mikrofasertuch habe?"
     answer: "Das Abwischen des Bildschirms, das Schreibtisch-Aufräumen oder das Reinigen des Smartphones erzielt exakt denselben Effekt."
-
 ---
 
 "In den Feldern der Beobachtung begünstigt der Zufall nur den vorbereiteten Geist." 🔬

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Pourquoi Henri Poincaré ne travaillait-il que 4 heures par jour ?"
     answer: "Forcer une concentration prolongée rétrécit la vision kognitive et réduit la créativité. En limitant son travail à 4 heures, Poincaré activait le mode diffus par la marche et le repos pour libérer le subconscient."
-
 ---
 
 "L'illumination soudaine est le signe manifeste d'un long travail inconscient préalable." Henri Poincaré, l'érudit français qui a résolu le problème des trois corps et pionnier de la théorie du chaos, était l'un des plus grands mathématiciens de l'histoire. Curieusement, Poincaré s'imposait la règle stricte de ne travailler que 4 heures par jour à son bureau (de 10h à 12h et de 17h à 19h), consacrant le reste de son temps à se promener ou à se détendre. Poincaré s'est souvenu que la solution à ses problèmes mathématiques les plus ardus (comme les fonctions fuchsiennes) ne lui est pas venue devant ses papiers, mais a surgi dans son esprit au moment d'monter sur le marchepied d'un omnibus à Coutances. Il a compris qu'un effort conscient intense suivi d'un repos complet (phase d'incubation) permet au réseau inconscient du cerveau d'associer les idées de manière créative. Cet article analyse la dynamique entre les modes concentré et diffus dans la routine de Poincaré.

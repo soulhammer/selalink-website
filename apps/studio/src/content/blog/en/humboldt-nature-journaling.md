@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely! The core neuroscientific benefit depends not on calligraphic beauty, but on the 'instantaneous coupling of sensory input with working memory encoding'. Clean re-formatting can be conducted later during post-field processing."
   - question: "Can I replace manual hand-writing with digital audio recordings or voice memos?"
     answer: "Voice recordings excel at capturing spoken facts, but lack graphomotor neural feedback. To maximize cognitive benefits, pair voice memos with brief keyword hand-writing and arrow mapping, which activates graphomotor circuits in the motor and parietal cortices."
-
 ---
 
 "In this great chain of causes and effects, no single fact can be considered in isolation. Nature is a living whole." 🌿

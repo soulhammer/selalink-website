@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Pueden las aplicaciones de mapas mentales sustituir las tarjetas físicas?"
     answer: "El software de mapas mentales ayuda, pero el contacto táctil al deslizar cartas con los dedos estimula la corteza motora y parietal de forma mucho más intensa. La investigación demuestra que la manipulación física en 3D genera una actividad cerebral superior para la síntesis de ideas que el clic en pantalla."
-
 ---
 
 «Los elementos tienen sus propias parejas naturales. Al barajar y colocar el mazo de cartas, el orden perfecto decretado por la Naturaleza sale a la luz.» 🃏

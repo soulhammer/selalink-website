@@ -21,7 +21,6 @@ faqs:
     answer: "Las urgencias reales llegarán por llamada telefónica. Posponer la revisión de correos y mensajes hasta después de su hora de trabajo profundo matutino aumentará diez veces la calidad de su trabajo."
   - question: "¿Cómo deben aplicarlo los empleados que no pueden disponer de 3 horas seguidas?"
     answer: "Más importante que el número '3 horas' es el 'aislamiento sin interrupciones'. Realizar trabajo profundo totalmente aislado durante 30 minutos antes de trabajar o 45 minutos después es suficiente."
-
 ---
 
 Émile Zola, la cumbre de la literatura francesa del siglo XIX que fue pionero del Realismo y el Naturalismo, dejando obras maestras como 'Nana', 'La taberna' y el manifiesto histórico 'J'Accuse...!' contra la injusticia del caso Dreyfus. ¿De dónde surgió el explosivo poder creativo de un autor que publicó decenas de volúmenes monumentales a lo largo de su vida? ✒️

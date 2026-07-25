@@ -21,7 +21,6 @@ faqs:
     answer: "Realizar a associação de palavras logo após acordar, quando o subconsciente está muito ativo, é neurologicamente mais eficaz. No entanto, praticar de 3 a 4 vezes por semana é suficiente para treinar os circuitos de pensamento divergente e liberar percepções criativas."
   - question: "Como posso substituir esta rotina se não tiver papel ou cartões de palavras por perto?"
     answer: "Você pode obter exatamente o mesmo efeito de associação cognitiva abrindo qualquer página de um livro ao acaso e escolhendo os 3 primeiros substantivos que observar, ou utilizando um Gerador de Palavras Aleatórias on-line ou o aplicativo de notas do celular."
-
 ---
 
 "As palavras eram baldes baixados no poço profundo do meu subconsciente, puxando memórias e narrativas." 📝

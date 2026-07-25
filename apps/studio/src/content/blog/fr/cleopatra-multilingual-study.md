@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, l'efficacité est très faible. Le visionnage passif ne stimule que les circuits auditifs de l'aire de Wernicke sans solliciter l'aire de Broca. L'articulation vocale par la lecture à voix haute et la rédaction active de phrases sont indispensables pour stimuler la plasticité synaptique."
   - question: "Étudier deux langues étrangères ou plus en même temps ne risque-t-il pas de provoquer une surcharge cognitive ?"
     answer: "Pour les débutants complets, un apprentissage simultané peut provoquer des interférences. Cependant, une fois les bases acquises dans une première langue, alterner entre des systèmes grammaticaux distincts constitue un entraînement cognitif qui renforce le contrôle exécutif préfrontal."
-
 ---
 
 « Sa langue était comme un instrument à plusieurs cordes, qu'elle pouvait tourner facilement vers la langue qu'il lui plaisait d'utiliser. » 👑

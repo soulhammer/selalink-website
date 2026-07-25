@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait. Le mécanisme repose sur le conditionnement entre le signal visuel de la couleur et les états cognitifs. Définir des thèmes de fond distincts dans vos applications de notes, des couleurs de dossiers dans Notion ou des thèmes d'interface procure des signaux de primage identiques."
   - question: "L'attribution d'un trop grand nombre de couleurs risque-t-elle de provoquer una surcharge cognitive ou de la confusion ?"
     answer: "Oui, tout à fait. Pour que le cerveau associe une couleur à un état cognitif, un apprentissage associatif régulier est requis. Utiliser 5 couleurs ou plus transforme les signaux visuels en bruits sensoriels, annulant l'effet de primage. Limitez votre système à 2 ou 3 domaines au maximum pour optimiser les bénéfices."
-
 ---
 
 « La couleur du papier n'est pas una simple fantaisie. C'est la clé qui guide mon imagination directement vers un genre particulier. » ✍️

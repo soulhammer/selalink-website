@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Warum forschte Henri Poincaré nur 4 Stunden am Tag?"
     answer: "Erzwungene lange Konzentration verengt die kognitive Perspektive und mindert die Kreativität. Nach 4 Stunden fokussierter Arbeit aktivierte Poincaré durch Spaziergänge den diffusen Modus für unbewusste Eingebungen."
-
 ---
 
 "Die plötzliche Eingebung ist ein klares Zeichen für eine lange, unbewusste Vorarbeit." Henri Poincaré, der französische Universalgelehrte, Löser des Dreikörperproblems und Pionier der Chaostheorie, galt als eines der größten Genies der Mathematik. Erstaunlicherweise begrenzte er seine Arbeit am Schreibtisch strikt auf 4 Stunden täglich: von 10:00 bis 12:00 Uhr und von 17:00 bis 19:00 Uhr. Den Rest des Tages verbrachte er mit Spaziergängen oder Entspannung. Poincaré erinnerte sich, dass ihm die Lösung für komplexe mathematische Probleme (wie die Fuchsschen Funktionen) nicht am Schreibtisch kam, sondern plötzlich beim Einsteigen in einen Omnibus während einer Reise in Coutances einfiel. Er erkannte, dass auf intensive Konzentration eine Inkubationsphase der Ruhe folgen muss, damit das Unterbewusstsein Ideen verknüpfen kann. Dieser Beitrag beschreibt das Zusammenspiel von fokussiertem und diffusem Denken in Poincarés 4-Stunden-Routine.

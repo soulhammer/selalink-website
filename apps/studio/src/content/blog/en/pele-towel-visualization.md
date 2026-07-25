@@ -21,7 +21,6 @@ faqs:
     answer: "First-person perspective is far superior for stimulating the motor cortex and strengthening neural pathways. While third-person perspective helps grasp overall positioning, first-person visualization precisely tunes fine motor sensations."
   - question: "What if thoughts of failure or mistakes arise during visualization?"
     answer: "This is a natural defense mechanism. Pause and rewind the scene like a tape, then re-visualize immediately overcoming the mistake and finishing successfully to reinject positive neural wiring."
-
 ---
 
 "I close my eyes and vividly picture myself playing on the pitch. That's when my body becomes completely ready." ⚽

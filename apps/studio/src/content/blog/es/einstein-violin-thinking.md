@@ -21,7 +21,6 @@ faqs:
     answer: "Sí. Einstein salía a navegar en velero para sentir el viento y meditar durante sus descansos. Además, dormía más de 10 horas al día para permitir que su subconsciente organizara los problemas."
   - question: "¿Pueden realizar esta rutina las personas que no saben tocar ningún instrumento?"
     answer: "Por supuesto. En lugar de tocar, escuchar música clásica atentamente mientras sigue el ritmo con los dedos o cerrar los ojos 5 minutos con respiración profunda ofrece exactamente el mismo efecto."
-
 ---
 
 "La vida sin música es inconcebible para mí. Veo mis sueños en la música." 🎻

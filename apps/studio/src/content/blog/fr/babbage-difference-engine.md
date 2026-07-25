@@ -21,7 +21,6 @@ faqs:
     answer: "Oui ! Les concepts clés des microservices modernes et de la programmation modulaire découlent directement de la logique de modularisation des engrenages de la machine différentielle de Charles Babbage."
   - question: "Que faire si une erreur survient dans un module spécifique ?"
     answer: "Ne touchez pas à l'ensemble du système ; détachez simplement le module défectueux, débugguez (réparez) ses relations de cause à effet internes et reconnectez-le."
-
 ---
 
 « Les erreurs proviennent des émotions humaines, et la vérité s'accomplit dans la précision mécanique. » ⚙️

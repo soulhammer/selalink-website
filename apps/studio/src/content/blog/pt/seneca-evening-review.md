@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Devo praticar esse hábito todos os dias?"
     answer: "Sim. A prática diária em um horário constante maximiza a neuroplasticidade. Reforçar os circuitos cerebrais por meio da execução contínua todas as noites é a chave para resultados duradouros."
-
 ---
 
 "Quando a luz é retirada e minha esposa se cala, examino todo o meu dia e meço meus atos e palavras. A alma fica mais tranquila quando examina a si mesma."

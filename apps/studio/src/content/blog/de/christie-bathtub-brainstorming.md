@@ -21,7 +21,6 @@ faqs:
     answer: "Das warme Bad senkt die Herzfrequenz und stärkt den Parasympathikus zur Aktivierung des DMN, während das Kauen eines Apfels Sinnesreize über den Trigeminusnerv an den Präfrontalkortex sendet. Dies verbindet körperliche Entspannung mit geistiger Klarheit."
   - question: "Gibt es eine alternative Methode zur DMN-Aktivierung, wenn keine Badewanne vorhanden ist?"
     answer: "Ja, absolut. Ein 15-minütiges Fußbad (ca. 40°C) oder ein warmes Handtuch im Nacken fördert die Durchblutung. Das langsame Trinken eines warmen Tees bei abgeschalteten Gedanken aktiviert das DMN ebenso effektiv."
-
 ---
 
 "Die beste Zeit, ein Buch zu planen, ist, wenn man das Geschirr spült oder in einem heißen Bad liegt und einen Apfel isst." 🍏

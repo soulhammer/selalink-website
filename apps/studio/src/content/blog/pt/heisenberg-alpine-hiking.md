@@ -21,7 +21,6 @@ faqs:
     answer: "Substitua as trilhas por uma caminhada de 30 minutos em um parque urbano, jardim botânico ou avenida arborizada, sem celular. O essencial é ativar os sentidos visoespaciais e aumentar o fluxo sanguíneo cerebral."
   - question: "Qual é a melhor maneira de capturar as ideias que surgem durante a caminhada sem perder o foco?"
     answer: "Carregue um caderno de bolso e uma caneta para anotar palavras-chave no momento em que surgir uma ideia. Como alternativa, use um gravador de voz rápido para não interromper o ritmo."
-
 ---
 
 "Caminhando pelos trilhos dos Alpes, limpo os resíduos de fórmulas matemáticas complexas e contemplo a realidade profunda da natureza." 🌲

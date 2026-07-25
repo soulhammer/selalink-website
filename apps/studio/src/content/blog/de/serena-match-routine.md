@@ -21,7 +21,6 @@ faqs:
     answer: "Das Festlegen von 2 bis 3 Schritten konsistenter mechanischer Handlungen, die Sie vollständig kontrollieren können – wie 'Schürsenkel in einer bestimmten Reihenfolge binden', '3 tiefes Durchatmen' oder 'eine bestimmte Zusage laut aussprechen' – und deren identische Wiederholung wird Ihnen sehr helfen, Ängste zu kontrollieren."
   - question: "Wie kontrolliere ich die Angst, die aufkommt, wenn ich auch nur einen Schritt der Routine verpasse oder einen Fehler mache?"
     answer: "Sie müssen erkennen, dass eine Routine lediglich ein psychologischer Anker ist und nicht das Wesen Ihres Könnens oder Ihrer Handlungen ausmacht. Wenn ein Fehler passiert, maximiert die Flexibilität, anzuerkennen, dass 'auch dies Teil der Situation ist', die Wirksamkeit der Routine."
-
 ---
 
 "Vor jedem Spiel wiederhole ich dieselbe Handlungsabfolge, um mein eigenes kontrolliertes Territorium auf dem Platz aufzubauen." 🎾

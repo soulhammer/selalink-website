@@ -21,7 +21,6 @@ faqs:
     answer: "Practicar a la misma hora todos los días condiciona al cerebro para reconocer ese período como un momento de pausa sensorial y trabajo profundo, acelerando la transición cognitiva. Sin embargo, incluso sin un horario fijo, aplicarlo como herramienta de descanso cerebral de emergencia durante momentos de estrés agudo o sobrecarga cognitiva ofrece beneficios significativos."
   - question: "¿Cómo debo proceder en entornos donde el ruido ambiental no se puede eliminar por completo?"
     answer: "Si es difícil lograr un silencio físico absoluto, recomendamos una técnica de enmascaramiento (Masking): reproduzca sonido ambiental a bajo volumen con frecuencias constantes, como ruido blanco sin letra o sonido de lluvia, para cubrir el ruido externo. Esto evita que el cerebro reaccione a cambios en tiempo real en los estímulos externos, produciendo un efecto de aislamiento sensorial comparable."
-
 ---
 
 "Es en la oscuridad y el silencio donde las ideas finalmente comienzan a tomar una forma definida." 🌌

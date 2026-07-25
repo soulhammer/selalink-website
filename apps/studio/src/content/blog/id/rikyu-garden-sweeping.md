@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Bagaimana cara memanfaatkan kegiatan membersihkan sebagai meditasi?"
     answer: "Alih-alih berfokus pada penyelesaian dengan cepat, berfokuslah pada umpan balik sensorik itu sendiri, seperti suara sapuan dan sensasi taktil di tangan Anda."
-
 ---
 
 "Menyapu debu di taman bukan sekadar membersihkan dedaunan yang gugur, melainkan menyapu kebisingan yang tidak perlu dari pikiran dan berhadapan dengan ruang kosong alam."

@@ -21,7 +21,6 @@ faqs:
     answer: "Observer de près pendant 3 minutes des plantes d'intérieur, les arbres par la fenêtre ou les nuages procure des bienfaits identiques selon la Théorie de la Restauration de l'Attention (ART)."
   - question: "Comment remplacer la promenade au jardin les jours de pluie ou de mauvais temps ?"
     answer: "Postez-vous près d'une fenêtre et observez en silence les gouttes de pluie glisser sur la vitre ou les motifs dessinés par la pluie. La géométrie fluide de l'eau constitue un déclencheur idéal de Fascination Douce."
-
 ---
 
 « Si quelqu'un veut savoir quelque chose sur moi comme artiste, qu'il regarde attentivement mes tableaux... Mais pour nourrir mon âme d'artiste, je me promène en silence parmi les roses du matin. » 🎨

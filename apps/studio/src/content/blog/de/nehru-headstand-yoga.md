@@ -21,7 +21,6 @@ faqs:
     answer: "Nein, Personen mit Erkrankungen der Hals- oder Brustwirbelsäule sollten den traditionellen Kopfstand vermeiden, bei dem der Kopf das Körpergewicht direkt trägt. Stattdessen können Sie eine sichere Inversionswirkung ohne Bandscheibenbelastung erzielen, indem Sie sich auf den Rücken legen, das Gesäß an eine Wand stützen und die Beine senkrecht hochstrecken oder ein Kissen unter Ihr Gesäß legen und die Beine anheben."
   - question: "Wann ist die am besten geeignete Tageszeit für die Durchführung von Kopfständen?"
     answer: "Morgens auf nüchternen Magen oder direkt vor Arbeitsbeginn ist es am idealsten. Die Anti-Schwerkraft-Haltung am Morgen versorgt ruhende Gehirnzellen sofort mit Sauerstoff, klärt den Geist und vertreibt die Müdigkeit. Vermeiden Sie jedoch die Praxis innerhalb von mindestens 2 Stunden nach einer Mahlzeit, da eine Inversion direkt nach der Nahrungsaufnahme zu Verdauungsstörungen führen kann."
-
 ---
 
 Jawaharlal Nehru (1889–1964), der an der Seite von Mahatma Gandhi Indiens gewaltlosen Unabhängigkeitskampf anführte und als erster Premierminister das Fundament des modernen Indien legte. Als Symbol eleganter weißer Kleidung und würdevoller Intellektualität musste er dennoch im Laufe seines Lebens lange, kalte Phasen der Einzelhaft erdulden. 🧘

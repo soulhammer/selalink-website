@@ -21,7 +21,6 @@ faqs:
     answer: "Absolument. L'aspect esthétique final n'a aucune importance. Le bienfait repose sur la stimulation tactile du découpage et l'apport visuel des couleurs vives. Ce processus détourne la douleur et active la neuroplasticité, même si les formes sont imparfaites."
   - question: "Qu'en est-il d'utiliser de la pâte à modeler ou une application de dessin ?"
     answer: "Manipuler de la pâte à modeler est vivement recommandé car cela offre un très bon retour tactile. En revanche, les applications de dessin sur tablette ne sont pas conseillées : le glissement du stylet et les notifications nuisent à la réinitialisation cérébrale ; privilégiez l'analogique."
-
 ---
 
 "Découper à vif dans la couleur me rappelle la taille directe du sculpteur. On va directement de la couleur à la forme." ✂️

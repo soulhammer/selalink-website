@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, tentu saja! Teknik ini bukanlah seni; ini adalah latihan kognitif terstruktur yang hanya menggunakan empat elemen geometris dasar: lingkaran, persegi panjang, garis, dan panah. Bahkan bentuk kasar yang digambar dengan cepat sudah cukup untuk menstimulasi Sketsa Visuospasial otak."
   - question: "Apakah menggambar di aplikasi lukis digital menggunakan tablet memberikan manfaat kognitif yang sama?"
     answer: "Menggunakan stylus digital adalah alternatif yang fungsional, tetapi kertas dan pena nyata tetap lebih unggul. Gesekan mikro dari permukaan kertas fisik menghasilkan umpan balik somatosensori taktil melalui ujung jari Anda, mencapai tingkat eksternalisasi kognitif yang lebih mendalam."
-
 ---
 
 "Buku besar alam semesta ditulis dalam bahasa matematika, dan karakternya adalah segitiga, lingkaran, dan bentuk geometris lainnya." 📐

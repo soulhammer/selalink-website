@@ -21,7 +21,6 @@ faqs:
     answer: "Se seu cronotipo de sono for noturno, você não precisa se forçar a acordar às 3h00–4h00. A lição principal é 'garantir 1 hora proativa sem interrupções', portanto, substituí-la por 1 hora após o trabalho gera o mesmo efeito."
   - question: "Como posso superar o cansaço à tarde ao acordar cedo de manhã?"
     answer: "Tirar um cochilo rápido de 15 a 20 minutos entre 13h00 e 15h00, encerrar a ingestão de cafeína antes das 11h00 e fazer xalongamentos leves reduzirá significativamente a fadiga."
-
 ---
 
 Tim Cook, o líder que comanda a Apple e direciona a vida diária de centenas de milhões de pessoas e decisões de trilhões de dólares. Qual é o seu segredo matinal definitivo para manter o dia sob seu controle absoluto antes que cheguem as distrações externas? ⌚

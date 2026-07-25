@@ -21,7 +21,6 @@ faqs:
     answer: "Intentar programar todo el día en bloques de 5 minutos provocará sobrecarga cognitiva a un principiante. Empiece poco a poco: destine de 1 a 2 horas de su día a un 'bloque de enfoque', dividiéndolo en intervalos de 15 o 30 minutos para desarrollar su capacidad de concentración."
   - question: "¿Qué debo hacer si no termino una tarea dentro de su bloque asignado?"
     answer: "Cuando el tiempo expire, pase incondicionalmente al siguiente bloque. Asigne el trabajo no terminado a un 'Bloque de Amortiguación (Buffer Block)' reservado para el final de la tarde. Esto evita que una tarea retrasada provoque un colapso en cadena de toda su agenda."
-
 ---
 
 "Si tu tiempo es limitado, tu hiperenfoque debe aumentar de manera proporcional." 🚀

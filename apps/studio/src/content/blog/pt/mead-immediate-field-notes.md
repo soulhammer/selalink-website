@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, é possível. No entanto, ao usar o smartphone, ative o modo 'Não Perturbe' ou use um widget na tela inicial para que as notificações não o distraiam, minimizando atrasos."
   - question: "O que acha de deixar um gravador ligado e tomar notas mais tarde reunindo o áudio?"
     answer: "A gravação contínua evita perdas, mas reouvir horas de áudio sobrecarrega a memória de trabalho. Tomar notas manuscritas com palavras-chave nos momentos decisivos é muito mais eficaz."
-
 ---
 
 "Se você não anotar um fato observado imediatamente, é como se ele nunca tivesse existido." 📝

@@ -21,7 +21,6 @@ faqs:
     answer: "Urgências reais chegarão por ligação. Adiar a verificação de mensagens para depois da 1 hora de foco matinal aumentará em 10 vezes a qualidade do trabalho."
   - question: "Como os trabalhadores que não podem reservar 3 horas seguidas devem aplicar isso?"
     answer: "Mais importante que o número '3 horas' é o 'isolamento ininterrupto'. Fazer trabalho profundo por 30 minutos antes do expediente ou 45 minutos depois é totalmente suficiente."
-
 ---
 
 Émile Zola, o titã da literatura francesa do século XIX que foi pioneiro do Naturalismo, deixando obras-primas como 'Nana', 'A Taverna' e o manifesto histórico 'J'Accuse...!'. De onde vinha o poder criativo explosivo de um autor que publicou dezenas de volumes monumentais? ✒️

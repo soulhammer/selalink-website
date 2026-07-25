@@ -21,7 +21,6 @@ faqs:
     answer: "Nein. Handschriftliches Schreiben liefert taktiles Feedback, das motorische und somatosensorische Areale aktiviert und die präfrontale Kontrolle stärkt. Zudem unterdrückt das blaue Licht von Smartphones Melatonin. Ein physisches Papiernotizbuch ist vorzuziehen."
   - question: "Was sollte ich an Tagen tun, an denen ich zu erschöpft bin, um ein vollständiges Logbuch zu schreiben?"
     answer: "Es reicht völlig aus, eine einzige Zeile zu schreiben – wie 'Heute erledigt: Aufgabe A'. Das Ziel ist nicht Perfektion, sondern das Beibehalten der Aufzeichnungsschleife. Diese kleine Handlung signalisiert Kontrolle und beruhigt die Amygdala."
-
 ---
 
 "Wenn ich jede Nacht die Tiefe des Ozeans und die Winkel der Sterne aufschrieb, wandelte sich der Schrecken der Dunkelheit in die Sicherheit von Zahlen." ⛵

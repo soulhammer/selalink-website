@@ -21,7 +21,6 @@ faqs:
     answer: "Vermeiden Sie direkten Blickkontakt. Tragen Sie eine Sonnenbrille oder halten Sie ein Getränk, um Ihren Blick natürlich abzulenken, während Sie die Nutzung des peripheren Sehens üben."
   - question: "Trägt körperliche Spiegelung wirklich dazu bei, emotionale Zustände anderer zu entschlüsseln?"
     answer: "Ja, tiefgreifend. Neurowissenschaftlich synchronisiert das Kopieren von Haltung und Bewegungstempo Ihr Spiegelneuronen-System. Dadurch kann Ihr limbisches System emotionale Signale wie Stress, Erschöpfung oder Selbstbewusstsein als verkörperte Daten entschlüsseln."
-
 ---
 
 "In der Art und Weise, wie ein Mensch geht, kann man seine ganze Lebensgeschichte und seine inneren Gefühle lesen." 🎩

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "What kind of content is most effective to include in Jagyeongmun?"
     answer: "Focusing on personal weaknesses you struggle to control (e.g., limiting smartphone use, punctuality) written as specific, action-oriented positive statements provides the clearest neural stimulation."
-
 ---
 
 "He who examines every morning the boundaries he set for himself will not be swayed by daily impulses and can fully govern his own life." 📜

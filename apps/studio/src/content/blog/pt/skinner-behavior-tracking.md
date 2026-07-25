@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Atividades qualitativas como planejamento criativo também podem ser registradas com métricas quantitativas como contagem de palavras ou tempo?"
     answer: "Sim. No caso do planejamento criativo, em vez da contagem de palavras, você pode definir unidades de produção valiosas como 'Número de ideias principais geradas', 'Referências de qualidade coletadas' ou 'Seções de esboço detalhadas' para aplicar o feedback visual com eficácia."
-
 ---
 
 "Educação é o que sobrevive quando tudo o que foi aprendido foi esquecido." 📈

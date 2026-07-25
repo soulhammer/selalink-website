@@ -9,9 +9,8 @@ heroImage: "/images/blog/marx_reading_room.webp"
 app: "buildself"
 formatVersion: 4
 authority: "卡尔·马克思历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究"
-steps:
-
-
+steps: []
+faqs: []
 ---
 
 卡尔·马克思用经济学精细解剖社会的隐藏运行机制。本文探讨他在伦敦流亡期间于大英博物馆阅览室每天阅读与记录庞大文献长达10小时的执着阅读习惯及其脑科学原理。

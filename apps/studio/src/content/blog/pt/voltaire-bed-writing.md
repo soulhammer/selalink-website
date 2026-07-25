@@ -21,7 +21,6 @@ faqs:
     answer: "Enquanto as Páginas Matinais são escritas após lavar o rosto ou sentar-se quando a razão está parcialmente ativa, a escrita na cama de Voltaire visa o 'limiar cerebral' durante a inércia do sono antes de se levantar fisicamente, capturando metáforas subconscientes e ideias criativas em estado totalmente bruto, apresentando uma profunda diferença cognitiva."
   - question: "O que devo fazer se nenhuma ideia me vier à mente ao escrever na cama todas as manhãs?"
     answer: "Não há necessidade alguma de escrever grandes ideias. Você pode anotar qualquer fragmento trivial que cruze sua mente — um evento desagradável de ontem, a preguiça com as tarefas de hoje ou uma lista aleatória de palavras. O objetivo em si é a prática de desativar o filtro de inibição do cérebro."
-
 ---
 
 "Uma vida sem trabalho é um fardo. Só o trabalho torna a nossa existência valiosa." ✍️

@@ -21,7 +21,6 @@ faqs:
     answer: "Lire des livres papier au lieu de smartphones émetteurs de lumière bleue — en particulier des ouvrages de sciences humaines, des recueils de poésie ou des essais calmes sous une lumière indirecte douce — induit des ondes alpha cérébrales qui favorisent un sommeil profond."
   - question: "Comment puis-je noter mes passages préférés lors de la lecture nocturne sans perturber le sommeil ?"
     answer: "Évitez d'allumer votre ordinateur ou des écrans avant de dormir. Utilisez plutôt des petits papiers collants ou cornez les pages, puis retranscrivez-les dans votre archive numérique le lendemain matin ou après-midi."
-
 ---
 
 "Lorsque d'allume silencieusement la lampe de ma chambre et que je lis les classiques, c'est alors seulement que je rencontre ma vraie âme derrière le grand écran." 📖

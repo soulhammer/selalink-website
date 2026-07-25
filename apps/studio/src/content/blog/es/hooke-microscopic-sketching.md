@@ -21,7 +21,6 @@ faqs:
     answer: "¡Sí! Ya sea en papel físico o con un lápiz óptico en tableta, siempre que controle la motricidad fina y el rastreo visual para mapear estructuras, obtendrá los mismos beneficios de enfoque neurológico."
   - question: "¿Este método beneficia a personas sin talento para el dibujo?"
     answer: "El talento artístico es totalmente irrelevante. El mecanismo neurocientífico depende del esfuerzo cognitivo para observar cuidadosamente un objetivo y traducir sus relaciones en diagramas funcionales."
-
 ---
 
 "En las estructuras más pequeñas de la naturaleza se esconde el orden más grandioso que la humanidad aún no ha visto." 🔬

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Que faire si cela augmente mon stress et perturbe ma concentration ?"
     answer: "Cela se produit lorsque la difficulté dépasse vos capacités actuelles, libérant des hormones de stress. Réduisez l'intensité pour viser un taux de réussite d'environ 70–80 %."
-
 ---
 
 "Je ne quitte pas le green d'entraînement tant que le 100e putt n'est pas rentré." ⛳

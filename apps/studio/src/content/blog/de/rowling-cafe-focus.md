@@ -21,7 +21,6 @@ faqs:
     answer: "Nein. Musik mit Songtexten oder lauter rhythmischer Lärm (>85 dB) stört das Arbeitsgedächtnis im Stirnlappen und erzeugt Müdigkeit. Nur unvorhersehbarer, textfreier Lärm erzeugt positive Disfluenz."
   - question: "Hilft das Hören von weißem Rauschen über Kopfhörer in einem stillen Raum?"
     answer: "Ja. Weißes Rauschen im stillen Zimmer bietet einen leichten Schutzschild. Die Kombination mit gelegentlichen visuellen Reizen (wie der Offenheit eines Cafés) stärkt die Kreativität jedoch noch mehr."
-
 ---
 
 "Das moderate Geräusch und die Einsamkeit im Café befreiten mein Gehirn, sodass ich mir die Zaubererwelt ungehindert ausmalen konnte." ☕

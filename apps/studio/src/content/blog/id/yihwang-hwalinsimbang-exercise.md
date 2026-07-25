@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Sangat sulit mempelajari seluruh gerakan Hwalinsimbang. Apa gerakan inti yang paling penting?"
     answer: "Jika sulit melakukan seluruh gerakan, cukup ingat dua hal: Pertama, saat bangun, gosokkan kedua telapak tangan hingga hangat lalu pijat wajah dengan lembut. Kedua, duduk dengan punggung tegak, hirup napas dalam melalui hidung, dan hembuskan perlahan melalui mulut selama 10 detik. Dua hal ini sudah cukup mengoptimalkan sistem saraf."
-
 ---
 
 "Siapa yang menguasai pikiran harus menegakkan tubuhnya, menghirup udara segar pagi hari untuk membasuh semua kotoran di dalam diri." 🧘‍♀️

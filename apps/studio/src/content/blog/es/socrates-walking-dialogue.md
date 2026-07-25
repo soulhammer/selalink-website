@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Caminar en una cinta de correr interior produce el mismo efecto?"
     answer: "Aunque el aumento del flujo sanguíneo aeróbico es similar, explorar visualmente la naturaleza al aire libre proporciona estimulación visoespacial y reduce los niveles de cortisol de forma mucho más eficaz al caminar en parques o entornos naturales."
-
 ---
 
 Sócrates (c. 470–399 a. C.) fue el sabio de la antigua Atenas que sentó las bases de la filosofía occidental y enseñó a la humanidad a reflexionar sobre su propia ignorancia. Los registros de Platón y Jenofonte describen su hábito diario único. 👣

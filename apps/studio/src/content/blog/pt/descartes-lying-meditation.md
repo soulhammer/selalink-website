@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, seus mecanismos neurofisiológicos são comprovados. Manter a postura deitada após acordar previne picos bruscos de cortisol, estabilizando o sistema nervoso autônomo. Preservar as Ondas Alfa de 8–12 Hz reduz o ruído sensorial, potencializando a dedução intuitiva pré-frontal."
   - question: "O que devo fazer se adormecer acidentalmente enquanto medito na cama?"
     answer: "Para evitar voltar a dormir, recline o corpo a um ângulo de 30 graus usando travesseiros, ou mantenha os olhos abertos olhando para um ponto no teto. Configurar um alarme suave para 8 ou 10 minutos depois proporciona uma margem de segurança."
-
 ---
 
 "Penso, logo existo (Cogito, ergo sum). A máxima clareza mental nasce quando o corpo repousa em imobilidade e a mente flutua com liberdade." 🛏️

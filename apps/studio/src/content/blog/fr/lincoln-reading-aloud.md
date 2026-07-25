@@ -21,7 +21,6 @@ faqs:
     answer: "Les textes à forte densité logique (philosophie, ouvrages techniques, rapports stratégiques) sont bien plus efficaces pour la plasticité préfrontale que les romans faciles ou les essais légers."
   - question: "Comment appliquer cette routine dans des endroits silencieux comme des bureaux ou des bibliothèques ?"
     answer: "Pratiquer le chuchotement a très bas volume (*Subvocalisation*) ou articuler en silence en bougeant les lèvres et la langue stimule le retour moteur facial et le cortex du langage, procurant des avantages similaires."
-
 ---
 
 « Quand je lis a haute voix, deux sens saisissent l'idée : d'abord, je vois ce que je lis ; ensuite, je l'entends, ce qui me permet de mieux m'en souvenir. Les idées enregistrées par deux sens restent deux fois plus longtemps dans le cerveau. » 📖

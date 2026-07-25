@@ -21,7 +21,6 @@ faqs:
     answer: "Yes. The act of turning on a smartphone exposes your cognitive switch to digital noise (SNS, messages), immediately scattering focus. Furthermore, pressing a pen onto paper inputs somatosensory finger data far more strongly into the cerebral cortex, creating over twice the cognitive awareness of self-control compared to typing."
   - question: "Do I really need to write down every trivial detail, like 1 cent or 1 minute?"
     answer: "The key is not the monetary value or the scale of the act, but training immediate real-time cognitive feedback in the brain. Repeatedly catching and logging tiny expenses or wasted moments solidifies the prefrontal inhibitory control network, building brain circuits that resist impulsivity and maintain logic during major decisions."
-
 ---
 
 John D. Rockefeller, the legendary entrepreneur who founded Standard Oil, built an unprecedented enterprise, and accumulated the largest personal fortune in human history. Where did his flawless planning and drive, which laid the foundations for modern management systems and philanthropic foundations, originate? 📕

@@ -21,7 +21,6 @@ faqs:
     answer: "Sim. Einstein costumava velejar para sentir o vento e meditar durante suas pausas. Além disso, dormia mais de 10 horas por dia para permitir que o subconsciente organizasse os problemas."
   - question: "Pessoas que não sabem tocar nenhum instrumento podem seguir essa rotina?"
     answer: "Com certeza. Em vez de tocar, ouvir música clássica com atenção acompanhando o ritmo com os dedos ou fechar os olhos por 5 minutos com respiração profunda oferece exatamente o mesmo efeito."
-
 ---
 
 "A vida sem música é inconcebível para mim. Eu vivo meus sonhos na música." 🎻

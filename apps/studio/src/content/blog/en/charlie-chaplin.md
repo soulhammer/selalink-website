@@ -21,7 +21,6 @@ faqs:
     answer: "Avoid hard, direct eye contact. Wear sunglasses or hold a drink to naturally deflect your gaze while practicing broad 'Peripheral Vision' scanning, focusing gently on the silhouette dynamics rather than facial features."
   - question: "Does physical mirroring genuinely enhance our capacity to decode others' emotional states?"
     answer: "Yes, profoundly. Neuroscientifically, replicating a person's posture and movement tempo synchronizes your mirror neuron system. This allows your limbic system to reverse-engineer and decode non-verbal emotional markers—such as stress, fatigue, or confidence—as embodied sensory data."
-
 ---
 
 "In the way a person walks, one can read their whole life story and inner feelings." 🎩

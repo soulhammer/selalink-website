@@ -21,7 +21,6 @@ faqs:
     answer: "Tentu saja. Tujuannya bukan untuk pamer kemampuan melukis, melainkan memberikan sinyal pengamatan visual dan koordinasi motorik tangan ke otak. Meskipun komposisinya berantakan atau garisnya kaku, stimulasi area otak lintas-indera dan efek relaksasi tetap terjadi secara persis sama."
   - question: "Apakah menggambar dengan pensil atau pulpen sudah cukup untuk stimulasi lintas-indera dibanding cat air?"
     answer: "Ya, menggunakan pensil atau pulpen satu warna saja sudah cukup melibatkan intuisi spasial dan kontrol taktil untuk mengaktifkan sirkuit asosiatif otak. Namun, menambahkan cat warna-warni atau pensil warna akan memberi stimulasi tambahan pada area persepsi warna, memperluas jangkauan stimulasi lintas-indera."
-
 ---
 
 "Pemikiran yang diungkapkan oleh musik bukanlah hal yang terlalu kabur untuk diucapkan dengan kata-kata, melainkan terlalu pasti; dan warna di ujung kuas menjadi tempat perindungan yang nyaman bagi melodi." 🎨

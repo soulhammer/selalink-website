@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, karena ia mencurahkan 100% energi mentalnya di pagi hari, ia menyadari bahwa kapasitas kognitifnya telah habis setelah pukul 13.00. Menganggap bahwa menulis setelah pukul 13.00 akan menurunkan kualitas, ia menyisihkan waktu sore harinya untuk tugas-tugas ringan seperti membaca, berjalan-jalan, atau mengedit."
   - question: "Apakah sesi Pekerjaan Mendalam dapat dilakukan pada malam hari dan bukan pagi hari?"
     answer: "Tergantung pada ritme sirkadian individu (tipe malam), waktu malam mungkin menjadi waktu paling efektif. Prinsip utamanya bukan pada jam tertentu, melainkan pada kemampuan mengamankan rentang waktu berkelanjutan selama 2 jam atau lebih bebas dari gangguan saat energi Anda berada pada puncaknya."
-
 ---
 
 Thomas Mann (1875–1955), pemenang Hadiah Nobel sastra pencipta karya besar seperti 'The Magic Mountain' dan 'Buddenbrooks', adalah raksasa dalam sejarah intelektual Jerman. Narasi luas dan rumitnya yang memiliki kedalaman filsafat tidak lahir dari kilatan inspirasi spontan, melainkan dari kontrol waktu yang dijalankan dengan presisi mekanis. 🕰️

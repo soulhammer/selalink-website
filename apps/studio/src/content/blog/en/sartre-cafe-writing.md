@@ -21,7 +21,6 @@ faqs:
     answer: "It varies individually. Research indicates that moderate ambient noise around 50–70 dB slightly diffuses auditory attention, paradoxically enhancing creative problem-solving. However, the most fundamental factor is establishing cognitive rules and anchoring by starting the same action in the same place every day, regardless of noise levels."
   - question: "Wouldn't changing your designated seat daily or periodically be better for stimulating the brain?"
     answer: "In the creative brainstorming stage, a novel environment triggers fresh dopamine release. However, when executing high-intensity learning or completing established writing tasks, Sartre-style seat anchoring is far more efficient as it reduces unnecessary exploratory energy and triggers immediate reflex immersion."
-
 ---
 
 "Man is condemned to be free." ☕

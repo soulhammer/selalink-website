@@ -21,7 +21,6 @@ faqs:
     answer: "Sie können dies ersetzen, indem Sie eine Sprachmemo- oder KI-Diktat-App auf Ihrem Smartphone einschalten und laut sprechen, als ob Sie es einem imaginären Zuhörer erklären. Der entscheidende Faktor ist nicht die physische Anwesenheit eines Zuhörers, sondern der kognitive Stimulationsprozess, innere Gedanken in äußere gesprochene Sprache umzuwandeln und diese neu zu auditieren."
   - question: "Wie kann ich die Ergebnisse mündlicher Diskussionen in produktive schriftliche Dokumente umwandeln?"
     answer: "Wir empfehlen, plötzliche Erkenntnisse während des Sprechens sofort als Schlüsselwörter zu notieren oder Speech-to-Text-Tools (STT) zu nutzen, um die Sitzung automatisch zu transkribieren und den Text dann während einer Deep-Work-Phase in eine Kernstruktur umzuordnen."
-
 ---
 
 "Wir entdecken erst, was wir wirklich gedacht haben, wenn wir unsere Gedanken anderen gegenüber beiläufig aussprechen." 🗣️

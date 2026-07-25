@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, tentu saja. Tujuan dari rutinitas ini bukanlah pertunjukan artistik atau kemahiran teknis, melainkan stabilisasi sistem saraf melalui penyelarasan dan resonansi akustik. Instrumen sederhana dan mudah diakses seperti Kalimba atau Ukulele memungkinkan Anda menyelaraskan dan memetik nada dalam 10 menit, memberikan manfaat relaksasi parasimpatis secara penuh."
   - question: "Apakah menggunakan aplikasi tuner smartphone efektif untuk rutinitas ini?"
     answer: "Ya, asalkan Anda tidak menatap layar secara terus menerus. Biarkan aplikasi tetap terbuka sebagai referensi, tetapi alihkan pandangan Anda dari perangkat. Berfokus pada sensasi taktil dari ketegangan senar dan getaran akustik alih-alih meteran visual melepaskan ketegangan kortikal visual, memicu pemulihan parasimpatis."
-
 ---
 
 "Ketika pikiran tidak jernih, petiklah senar. Menyelaraskan instrumen berarti menyelaraskan jiwa seseorang." 🎼

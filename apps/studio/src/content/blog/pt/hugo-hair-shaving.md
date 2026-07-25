@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, com certeza. No final de 1830, diante de um prazo rígido para *O Corcunda de Notre-Dame*, Hugo raspou metade da cabeça e da barba e mandou trancar suas roupas de sair para se isolar até concluir o romance."
   - question: "Quais métodos modernos de pré-comprometimento posso usar sem raspar o cabelo?"
     answer: "Guardar o celular em um cofre com temporizador durante sessões de foco ou usar bloqueadores de sites para restringir redes sociais são estratégias modernas de pré-comprometimento muito eficazes."
-
 ---
 
 "Quando você se aprisiona voluntariamente, sua imaginação finalmente descobre a liberdade absoluta." 🪒

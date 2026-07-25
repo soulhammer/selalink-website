@@ -21,7 +21,6 @@ faqs:
     answer: "Simply rotating a spinner or pen repetitively is classified as an unconscious motor habit, stimulating only the basal ganglia circuit of the brain, and yields very low somatosensory cortex stimulation (haptic feedback) to induce high-level spatial computation in the parietal lobe. Therefore, touching analog model toys or cubes directly—where clear geometric shapes and contours force the brain to coordinate fine fingertip movements to recognize forms—produces far superior intellectual arousal effects."
   - question: "Are there other tips for narrowing field of view in daily life when an optical viewfinder lens is unavailable?"
     answer: "Even without Spielberg's viewfinder lens, you can achieve the exact same visual framing effect by cutting a finger-joint-sized square hole in the center of a paper card and looking at objects through it, or by closing one eye and making a circle with your fingers (like an OK sign) pressed against your eye like a telescope. The principle of filtering out unnecessary cognitive noise pouring into the cerebral visual cortex is physically identical."
-
 ---
 
 Steven Spielberg is a world-renowned master who swept Academy Awards and pioneered the history of modern cinema with timeless masterpieces such as Jaws, E.T., Jurassic Park, Indiana Jones, and Schindler's List. From what behavioral patterns were his overwhelming planning abilities and creativity born—redefining imagination into reality by blending emotional narrative with innovative visual direction? 🎬

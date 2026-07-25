@@ -21,7 +21,6 @@ faqs:
     answer: "Es ist nicht notwendig, den Zeitpunkt des Sonnenaufgangs exakt zu treffen. Das Erleben der ruhigen Atmosphäre kurz vor Tagesanbruch unabhängig von der Jahreszeit (meist zwischen 5:00 und 6:00 Uhr) bietet ausreichende Vorteile."
   - question: "Ich bin kein Frühaufsteher und fühle mich sehr müde, wenn ich früh aufstehe; was kann ich tun?"
     answer: "Anstatt sofort ein Aufstehen um 5:00 Uhr zu erzwingen, stehen Sie zunächst nur 20 Minuten früher als sonst auf. Das 5-minütige Entspannungsritual – ohne Smartphone aus dem Fenster schauen und Tee trinken – ist der Kern."
-
 ---
 
 "Wir machen Sprache. Das mag das Maß unseres Lebens sein." ☕

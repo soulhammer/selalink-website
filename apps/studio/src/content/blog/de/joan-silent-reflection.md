@@ -21,7 +21,6 @@ faqs:
     answer: "Nein. Entscheidend ist, das Gehirn direkt nach dem Aufstehen zu sammeln, bevor digitale Reize auf Sie einströmen. 10 Minuten zu Ihrer gewohnten Aufstehzeit reichen völlig aus."
   - question: "Ist diese Stille-Routine auch für nicht-religiöse Menschen wirksam?"
     answer: "Ja, absolut. Die Methode beruht auf neurobiologischen Prinzipien wie der Reizabschirmung und Selbstvergewisserung. Das stille Nachdenken über persönliche Werte oder Ziele entfaltet dieselbe beruhigende Wirkung auf die Amygdala."
-
 ---
 
 "Ich habe keine Angst; ich wurde geboren, um dies zu tun. Wenn ich den Lärm von außen ausschalte und in die Stille gehe, höre ich die Stimme meiner Seele." 🛡️

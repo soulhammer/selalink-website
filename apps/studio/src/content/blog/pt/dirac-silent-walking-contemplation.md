@@ -21,7 +21,6 @@ faqs:
     answer: "Sim. O fator decisivo não é o silêncio ambiental absoluto, mas interromper a entrada de informações linguísticas (conversas, podcasts ou leituras). Mesmo em um centro urbano barulhento, o uso de fones com cancelamento de ruído para mitigar o barulho enquanto se evita o consumo de linguagem oferece benefícios idênticos."
   - question: "Devo parar para registrar pensamentos brilhantes imediatamente enquanto caminho?"
     answer: "Evite quebrar o ritmo físico da caminhada. Parar para escrever frases longas interrompe o processamento parietal visuoespacial. Se surgir uma ideia importante, anote apenas 1 ou 2 palavras-chave em 2 segundos num caderno ou gravador. Retorne imediatamente à caminhada silenciosa e desenvolva as ideias formalmente após concluir a sessão."
-
 ---
 
 "As palavras são ruídos que ocultam a beleza matemática. Somente ao caminhar em silêncio absoluto a simetria do universo se revela." 🌌

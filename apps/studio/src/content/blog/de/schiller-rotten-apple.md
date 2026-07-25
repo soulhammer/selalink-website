@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, das freigesetzte Acetaldehyd veränderte die Atmung und gab einen kurzzeitigen Reiz, während das Olfaktorsignal dem limbischen System des Gehirns ein sofortiges Aufwachsignal lieferte."
   - question: "Welche Düfte werden für modernes Aroma-Anchoring empfohlen?"
     answer: "Wissenschaftlich empfohlen werden Rosmarin (fördert Konzentration), Pfefferminze oder Eukalyptus (bauen Müdigkeit ab). Auch Zitrusdüfte wie Zitrone haben nachgewiesene positive Effekte."
-
 ---
 
 Friedrich Schiller, der große Dichter und Dramatiker, der zusammen mit Johann Wolfgang von Goethe die Blütezeit der Weimarer Klassik prägte, hinterließ mit Meisterwerken wie 'Die Räuber' und 'Wilhelm Tell' ein unvergängliches Erbe. In seiner Schreibtischschublade verbarg sich jedoch ein kurioses und stechendes Geheimnis.

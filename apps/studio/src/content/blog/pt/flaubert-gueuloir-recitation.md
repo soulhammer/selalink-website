@@ -21,7 +21,6 @@ faqs:
     answer: "Como falar alto em público é inconveniente, adote um 'sub-sussurro', articulando as palavras com os lábios e a língua. Apenas mover os órgãos articulatórios ativa o córtex motor em comparação com a leitura em silêncio, ajudando a identificar erros."
   - question: "A recitação é eficaz para propostas de negócios ou relatórios não literários?"
     answer: "Sim, extremamente eficaz. Sintaxe truncada, conjunções inadequadas e frases longas em relatórios causam tropeços imediatos ao recitar. A recitação funciona como um filtro de precisão para lapidar a legibilidade e a persuasão lógica."
-
 ---
 
 "Se o ritmo musical de uma frase não estiver acabado, o pensamento em si ainda não se sustentou. A boa prosa deve fluir com cadência e harmonia como a grande poesia." ✍️

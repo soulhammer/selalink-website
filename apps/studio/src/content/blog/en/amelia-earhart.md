@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, it works immediately. When impatience arises, the brain overactivates the amygdala. At this moment, writing down physical numbers such as remaining messenger notifications or deadline minutes dispassionately on paper activates the brain's top-down cognitive control network, stabilizing your emotions."
   - question: "Which numbers are most recommended to designate as flight instrument variables?"
     answer: "It is wisest to set 3 core metrics focused on 'variables fully under my control' that I can complete today (e.g., number of report pages to read, number of calls to make, focus duration)."
-
 ---
 
 Amelia Earhart, the legendary American aviator and aviation pioneer who became the first woman to successfully fly solo across the Atlantic, spreading the spirit of adventure to defy the impossible worldwide and breaking social barriers for women. Sitting in the narrow, shaking cockpit of her aircraft, she meticulously observed the subtle tremors of the compass, changes in altimeter markings, and decibel fluctuations of the engine sound, writing them down directly in her pilot logbook. Even under extreme crisis conditions where typhoons or engine failures could strike at any moment, she held her trembling hands steady and anchored her cognitive focus exclusively onto the factual data of the instrument gauges. This thorough analog instrument analysis and recording habit was the secret behind her safely executing the first solo female transatlantic flight.

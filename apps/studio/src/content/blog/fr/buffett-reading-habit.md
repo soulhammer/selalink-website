@@ -21,7 +21,6 @@ faqs:
     answer: "Commencer par 500 pages d'emblée est irréaliste. Le volume de Buffett repose sur des décennies d'adaptation neuroplastique. Le but n'est pas le chiffre brut, mais la régularité de l'habitude cognitive — lire attentivement 20 à 30 pages par jour. Consacrer 30 minutes au réveil ou durant les transports génère un levier intellectuel massif après quelques années."
   - question: "Les livres électroniques ou livres audio produisent-ils le même effet de savoir cumulé que les livres papier ?"
     answer: "Les livres électroniques sur liseuses à encre électronique constituent une excellente alternative pour la lecture approfondie. Cependant, les écrans de smartphone ou de tablette risquent de disperser l'attention préfrontale via les notifications. Les livres audio relèvent d'une réception plus passive et stimulent moins les circuits d'analyse profonde que la lecture. Privilégiez la lecture de texte et utilisez les livres audio en complément."
-
 ---
 
 « Lisez 500 pages chaque jour. C'est ainsi que fonctionne le savoir. Il s'accumule, comme des intérêts composés. » 📚

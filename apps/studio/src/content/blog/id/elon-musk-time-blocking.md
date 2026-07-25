@@ -21,7 +21,6 @@ faqs:
     answer: "Bagi pemula, mencoba memblokir sepanjang hari ke dalam kelipatan 5 menit memang akan memicu kelebihan beban kognitif. Mulailah dari yang kecil: tentukan 1 hingga 2 jam 'blok fokus' selama hari Anda, dan bagi menjadi mikro-slot 15 atau 30 menit untuk membangun kapasitas fokus Anda terlebih dahulu."
   - question: "Apa yang harus saya lakukan jika suatu tugas tidak selesai dalam blok waktu yang ditentukan?"
     answer: "Saat waktu habis, beralihlah tanpa syarat ke blok berikutnya. Alokasikan pekerjaan yang belum selesai ke 'Blok Penyangga (Buffer Block)' khusus yang disiapkan di sore hari. Aturan ini mencegah satu tugas yang tertunda memicu keruntuhan domino di seluruh jadwal harian Anda."
-
 ---
 
 "Jika waktu Anda terbatas, hiper-fokus Anda harus meningkat secara proporsional." 🚀

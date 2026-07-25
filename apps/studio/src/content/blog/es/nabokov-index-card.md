@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Se puede replicar el método de tarjetas de Nabokov utilizando herramientas de notas digitales en lugar de tarjetas de papel físicas?"
     answer: "Sí, absolutamente. Puede utilizar la vista Kanban de Notion, Trello o herramientas de pizarra digital (Miro, FigJam) para convertir fragmentos de pensamiento en tarjetas y arrastrarlas para reorganizarlas. El núcleo fundamental no es escribir textos largos de una sola vez, sino 'modularizar' los pensamientos en objetos móviles."
-
 ---
 
 "Una novela no se escribe en orden desde el principio. Dentro de la imagen perfecta que existe en mi mente, solo voy llenando las piezas vacías del rompecabezas una a una con las tarjetas." 🃏

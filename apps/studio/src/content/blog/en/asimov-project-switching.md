@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Why did Isaac Asimov alternate between multiple typewriters?"
     answer: "To avoid cognitive fatigue and stress generated when blocked while writing on a single topic, he alternated between tasks of entirely different genres or natures to awaken different regions of the cerebral cortex, obtaining the novelty effect."
-
 ---
 
 "I don't stare at a blank sheet of paper. When I get stuck, I don't try to force it. Instead, I move to another typewriter and write a manuscript on an entirely different topic." ⌨️

@@ -21,7 +21,6 @@ faqs:
     answer: "Cuando se pide leer con antelación, las agendas apretadas suelen hacer que la gente lea por encima o no lea en absoluto. Al imponer una sesión de lectura en silencio de 30 minutos en la reunión, Bezos garantizó una sincronización cognitiva completa, asegurando que todos entren al debate con la misma profundidad y contexto."
   - question: "¿No exige demasiado tiempo y esfuerzo redactar un memo narrativo de 6 páginas?"
     answer: "Sí, requiere mucho más rigor y esfuerzo por parte del autor. Sin embargo, el proceso de redacción funciona como una autoauditoría que expone fallos lógicos de antemano, reduciendo drásticamente reuniones innecesarias de seguimiento y acelerando la toma de decisiones organizativa."
-
 ---
 
 "Escribir bien un texto es evidencia de un pensamiento profundo y estructurado. Las viñetas solo encubren un pensamiento descuidado." 📝

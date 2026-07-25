@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, the specific type of object is irrelevant. Concentrating intently for 2 minutes on fine details of any ordinary object—such as pencil lead, leaf veins, or a ceramic hairline crack—activates the exact same Visual Selective Attention networks."
   - question: "Do I need to use an actual magnifying glass or lens tool?"
     answer: "Using a real magnifying glass heightens sensory vividness, but is not strictly required. Practicing a naked-eye 'conscious zoom-in'—narrowing your gaze exclusively onto a specific micro-surface—delivers identical neural benefits by training top-down executive attentional control."
-
 ---
 
 "If I paint the flower big, they will be surprised into taking time to look at it." 🌺

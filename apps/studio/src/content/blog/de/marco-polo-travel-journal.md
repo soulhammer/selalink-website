@@ -21,7 +21,6 @@ faqs:
     answer: "Kleine Mikrovariationen – wie ein anderer Weg durch eine Seitenstraße auf dem Heimweg, das Probieren einer neuen Zutat oder das 5-sekündige Innehalten beim Duft einer Blume am Wegesrand – reichen völlig aus, um neuartige Reize zu schaffen."
   - question: "Gibt es einen Tipp, um Zeit zu sparen, wenn das Tagebuchschreiben zu lang wird?"
     answer: "Achten Sie nicht auf vollständige Sätze, sondern listen Sie Schlagwörter auf, wie 'Visuell: tiefrotes Abendrot', 'Akustisch: Knirschen des Kieses'. So erfassen Sie alles perfekt in unter 3 Minuten."
-
 ---
 
 Marco Polo (1254–1324), italienischer Entdecker und Kaufmann, reiste von Venedig aus 24 Jahre lang durch ganz Asien und hinterließ mit 'Die Wunder der Welt' (Il Milione) das bedeutendste Reisewerk der Weltgeschichte. Er gewann das tiefe Vertrauen von Kublai Khan, dem Kaiser der mongolischen Yuan-Dynastie, und diente ihm 17 Jahre lang als Diplomat. Jahrzehnte später, im Gefängnis von Genua, diktierte er scharf gezeichnete Berichte über östliche Gastronomie, Geographie und Kultur, als stünde alles direkt vor seinen Augen. Was war sein Geheimnis? 🐪

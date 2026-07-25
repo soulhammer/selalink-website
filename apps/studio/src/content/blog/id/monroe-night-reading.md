@@ -21,7 +21,6 @@ faqs:
     answer: "Membaca buku kertas daripada smartphone yang memancarkan cahaya biru — terutama karya humaniora, puisi, atau esai yang tenang di bawah pencahayaan tak langsung yang lembut — menginduksi gelombang otak alfa yang justru membantu tidur nyenyak."
   - question: "Bagaimana cara mencatat kutipan favorit saat membaca di malam hari tanpa mengganggu tidur?"
     answer: "Hindari menyalakan komputer atau layar sebelum tidur. Sebagai gantinya, tempelkan catatn kecil atau lipat sudut halaman, lalu pindahkan dan organisasikan ke dalam arsip digital Anda pada pagi atau siang hari berikutnya."
-
 ---
 
 "Ketika saya dengan tenang menyalakan lampu di kamar saya dan membaca karya klasik, baru pada saat itulah saya bertemu dengan jiwa sejati saya di balik layar perak." 📖

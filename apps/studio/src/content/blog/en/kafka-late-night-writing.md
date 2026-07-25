@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, excessive all-nighters damage physical health. The core mechanism is not the late hour itself, but securing '1 hour of absolute silence' devoid of external interruptions. Achieving this via noise-canceling technology or quiet early morning hours delivers identical cognitive benefits without compromising sleep health."
   - question: "How can I adapt Kafka's silence immersion routine during daylight hours?"
     answer: "During daytime hours, wear noise-canceling earplugs or headphones to block acoustic chatter, dim overhead lighting, or draw blackout curtains. Minimizing environmental visual and auditory inputs artificially constructs a 'golden hour of silence' for your brain."
-
 ---
 
 "My room's door is locked, total silence surrounds me, and this profound quiet sustains my soul. Writing is a form of prayer." 🕯️

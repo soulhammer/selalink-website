@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, tentu saja. Menetapkan nomor entri unik dalam lingkungan digital memberikan manfaat yang luar biasa. Jika pencarian kata kunci gagal saat Anda lupa istilah yang tepat, ID unik (misalnya, #042) menciptakan jangkar untuk tautan balik (backlink) dan referensi silang antar dokumen."
   - question: "Bagaimana cara menangani penomoran ketika menggabungkan catatan harian, proyek kerja, dan inspirasi pribadi?"
     answer: "Menggabungkan semua entri di bawah satu penghitung berurutan (misalnya, #1 hingga #1000) seperti Faraday berfungsi dengan sangat baik. Jika Anda lebih suka pemisahan domain, gunakan awalan proyek (misalnya, Kerja [A-01], Belajar [B-01]). Faktor utamanya adalah memberikan alamat indeks unik untuk setiap fragmen pengetahuan."
-
 ---
 
 "Pengamatan tidak ada artinya tanpa catatan. Ketika Anda melakukan pengamatan, berikan nomor secara instan." 📝

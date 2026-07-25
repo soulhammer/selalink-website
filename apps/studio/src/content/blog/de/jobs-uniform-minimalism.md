@@ -21,7 +21,6 @@ faqs:
     answer: "Jobs strich die morgendliche Kleiderwahl, um Entscheidungsmüdigkeit zu vermeiden und kognitive Ressourcen zu schonen. So konnte er 100 % seiner Energie auf Unternehmensführung und Innovationen richten."
   - question: "Welche praktischen Alternativen gibt es, wenn ein komplett identisches Outfit unpassend erscheint?"
     answer: "Es muss nicht dieselbe Kleidung sein. Das Erstellen einer 'Capsule Wardrobe' – mit neutralen Farben (Schwarz, Blau, Grau) oder einer Begrenzung auf wenige Teile – erzielt dieselbe Wirkung zur Beseitigung von Entscheidungsmüdigkeit."
-
 ---
 
 "Jeden Morgen vor dem Kleiderschrank zu stehen und zu überlegen, was man anzieht, verbraucht wertvolle Willenskraft. Ich spare 100 % meiner geistigen Kapazität für Entscheidungen, die wirklich zählen." 👕

@@ -21,7 +21,6 @@ faqs:
     answer: "Qualquer exercício aeróbico completo que use o tronco e os membros (como remaqui, bicicleta ergométrica, elíptico, corrida intervalada ou burpees) produzirá o mesmo efeito."
   - question: "Fazer exercícios de alta intensidade todos os dias não sobrecarrega o corpo?"
     answer: "Realize exercícios intensos 3 vezes por semana e ajuste flexivelmente nos outros dias com caminhadas leves ou alongamentos para evitar lesões."
-
 ---
 
 "Quando movo meu corpo com vigor para remar no rio, a exaustão mental e as dores de cabeça desaparecem completamente." 🚣

@@ -21,7 +21,6 @@ faqs:
     answer: "Llamadas de voz con amigos o juegos en línea casuales son excelentes alternativas. La clave es recibir retroalimentación social cálida sin tensión cognitiva. Sin embargo, evite deslizar pasivamente redes sociales, ya que aumenta la fatiga cerebral."
   - question: "¿Puedo sustituir el ajedrez por otros juegos de mesa, cartas o pasatiempos si no sé jugar al ajedrez?"
     answer: "¡Sí, totalmente! Hume eligió el backgammon y el ajedrez simplemente porque eran populares en el siglo XVIII. Cualquier juego con reglas (juegos de mesa, cartas) que permita concentrarse con sonrisas compartidas ofrece la misma relajación. Priorice el entretenimiento sobre la competición."
-
 ---
 
 "Ceno, juego una partida de backgammon, converso y me divierto con mis amigos; y cuando, después de tres o cuatro horas de entretenimiento, regreso a estas especulaciones, me parecen tan frías y ridículas..." 🎱

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Bagaimana jika rumah saya hanya memiliki satu ruangan atau tinggal bersama keluarga sehingga sulit membuat ruang terisolasi?"
     answer: "Jika pemisahan ruang fisik tidak memungkinkan, bangunlah 'dinding suara virtual' menggunakan headphone peredam bising dengan mendengarkan noise putih lembut atau musik klasik. Selain itu, tempatkan tanda 'Jangan Ganggu' di meja Anda atau manfaatkan jam-jam dini hari untuk mengamankan 2 jam fokus sebelum anggota keluarga lain terbangun."
-
 ---
 
 "Saya tidak pergi jauh untuk bekerja. Saya hanya memasuki sebuah pondok kecil yang misterius di taman saya dan menutup pintunya. Itu sepenuhnya semesta saya sendiri." 🏠

@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, alguns de seus manuscritos sobreviventes (como ensaios e críticas) estão preservados em forma de pergaminhos estreitos colados com cola em instituições como a Free Library de Filadélfia."
   - question: "Existem programas que impedem o hábito de editar enquanto se digita em telas digitais?"
     answer: "Sim, aplicativos focados em rascunhos que desativam a tecla apagar ou apagam o texto se você parar de digitar (como The Most Dangerous Writing App) e editores em modo máquina de escrever são muito eficazes."
-
 ---
 
 Edgar Allan Poe (1809–1849), aclamado como o pioneiro da literatura de terror macabro com obras como 'O Corvo' e 'O Gato Preto', e criador da ficção policial moderna. Sobre que tipo de suporte nasceram seus manuscritos geniais, que entrelaçavam a ansiedade psicológica humana com mistérios lógicos perfeitos? 📜

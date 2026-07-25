@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "O exercício matinal intenso não deixa você cansado durante a manhã?"
     answer: "É fundamental modular a intensidade do exercício. Em vez de treinos exaustivos, o segredo são sessões curtas de 15 a 20 minutos com peso corporal que elevem temporariamente a frequência cardíaca e a temperatura corporal para estimular a circulação."
-
 ---
 
 "O trabalho físico é um dever e uma salvação para quem realiza trabalho mental. Uma mente que não move o corpo está fadada a enferrujar." 🌾

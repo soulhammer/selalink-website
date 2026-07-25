@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, absolutamente. Obtener respuestas instantáneas no ejercita la red cognitiva del cerebro. Las conexiones sinápticas prefrontales se fortalecen solo a través de la 'fricción cognitiva': el esfuerzo manual de buscar en diccionarios y ensamblar la gramática."
   - question: "¿Esta técnica solo funciona con idiomas clásicos como el latín y el griego antiguo?"
     answer: "No. Cualquier idioma moderno (como inglés, alemán, francés o chino) con una sintaxis distinta a la de su lengua materna sirve como excelente medio. La clave es traducir textos formales y densos (filosofía, ensayos, editoriales) en lugar de conversaciones casuales."
-
 ---
 
 "Sé que tengo el cuerpo de una mujer débil, pero tengo el corazón y el estómago de un rey, y además de un rey de Inglaterra." 👑

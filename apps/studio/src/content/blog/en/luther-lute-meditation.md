@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely! The core lies not in sophisticated technique, but in 'fine motor tactile stimulation and acoustic resonance awareness'. Using simple instruments like a kalimba, tongue drum, or singing bowl for 5 minutes provides identical parasympathetic stimulation."
   - question: "Can passive music listening replace active instrument playing?"
     answer: "While passive listening aids relaxation, actively moving fingers to control sound and feeling vibrations engages the somatosensory cortex and prefrontal attention networks far more powerfully."
-
 ---
 
 "Music is a fair and glorious gift of God, which drives away all sadness and the temptations of the devil." 🎵

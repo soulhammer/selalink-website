@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, pesquisas da psicologia cognitiva sobre cognição vestida (Enclothed Cognition) comprovam fortemente isso. O simples ato de trocar pijamas ou roupas de casa por roupas alinhadas, como calças ou camisas, sinaliza ao cérebro para mudar seu modo simbólico de um 'contexto de descanso' para um 'contexto de trabalho', reduzindo a procrastinação e encurtando drasticamente o tempo de aquecimento inicial para o foco."
   - question: "Quando é difícil trocar para um terno completo ou roupa de sair, um único item como óculos ou relógio ainda pode ser eficaz?"
     answer: "Sim, com certeza! Desde que o item seja reconhecido pelo cérebro como um 'sinal de trabalho simbólico', pistas individuais como colocar óculos, usar um relógio analógico dedicado ao foco ou calçar sapatilhas limpas podem induzir o mesmo efeito de condicionamento. A chave é manter consistentemente sua própria regra simbólica de que 'usar este item ativa o modo de imersão'."
-
 ---
 
 "Quando chega a noite, regreso a casa e entro no meu escritório. No limiar, tiro as roupas de trabalho sujas de lama e visto trajes reais e cortesãos. Vestido adequadamente, entro nas antigas cortes dos homens da antiguidade." 👑

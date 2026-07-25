@@ -21,7 +21,6 @@ faqs:
     answer: "Gunakan fitur pengubah suara ke teks di ponsel atau aplikasi AI memo untuk melakukan 'brain dump' verbal selama 5 menit tentang kejadian kemarin."
   - question: "Topik apa yang sebaiknya didiktekan untuk membantu meningkatkan produktivitas?"
     answer: "Cukup menyebutkan fakta kejadian kemarin, mendaftar prioritas kerja hari ini, atau sekadar mengungkapkan perasaan Anda saat ini secara jujur."
-
 ---
 
 "Setiap pagi saya membersihkan tumpukan di kepala saya dengan mendiktekan kejadian kemarin hingga diketik rapi." 📞

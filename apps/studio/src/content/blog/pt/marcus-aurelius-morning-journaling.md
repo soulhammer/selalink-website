@@ -21,7 +21,6 @@ faqs:
     answer: "Não há necessidade de se culpar caso pule um dia. A autocobrança é uma dor desnecessária segundo o estoicismo. Se o tempo estiver curto, escrever apenas uma linha no celular como 'Não me deixarei abalar pelos desafios de hoje' é suficiente. O fundamental é a consistência da mentalidade."
   - question: "Como isso se difere de um diário de gratidão comum ou de um diário matinal?"
     answer: "Enquanto o diário de gratidão se concentra em reunir fatos positivos, o diário reflexivo estoico se antecipa a possíveis eventos negativos ou estressores (Visualização Negativa - Premeditatio Malorum) para calibrar sua postura mental, funcionando como um ensaio psicológico."
-
 ---
 
 "Quando acordar pela manhã, pense no privilégio que é estar vivo, pensar, desfrutar, amar." 🌅

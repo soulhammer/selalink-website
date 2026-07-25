@@ -21,7 +21,6 @@ faqs:
     answer: "Non. La fenêtre physiologique idéale se présente 'immédiatement lorsque le rythme cardiaque est à son maximum'. Si le pouls se normalise pendant la douche, la transition du système sympathique vers le parasympathique perd de son efficacité, réduisant l'élimination du cortisol. Il faut s'asseoir juste après l'effort."
   - question: "La séance de méditation est-elle un échec si des pensées parasites surviennent ?"
     answer: "Non, absolument pas. L'émergence de pensées est un processus neurologique naturel. La méditation ne consiste pas a faire le vide absolu, mais a entraîner le contrôle attentionnel : remarquer l'égarement de l'esprit et ramener doucement l'attention sur la respiration. Chaque retour au souffle renforce le cortex préfrontal."
-
 ---
 
 « L'endurance mentale gouverne la force physique, mais ce qui soutient cette endurance mentale, c'est un entraînement quotidien rigoureux. En apaisant son souffle juste après avoir transpiré, le bruit des affaires s'éteint et la clarté d'esprit émerve. » 🇸🇬

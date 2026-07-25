@@ -21,7 +21,6 @@ faqs:
     answer: "Nein. Zu lange Checklisten ermüden das Gehirn und verleiten zum Auslassen von Punkten. Aus neurowissenschaftlicher Sicht ist eine Begrenzung auf 5 bis 9 kritische Kernpunkte ideal (entsprechend der Kapazität des Arbeitsgedächtnisses)."
   - question: "Für welche Art von Aufgaben eignet sich der Einsatz von Checklisten am besten?"
     answer: "Checklisten eignen sich für alle schrittweisen Aufgaben: wiederkehrende Abläufe, finale Freigaben von Projekten, Vertragskontrollen oder das Packen für Geschäftsreisen, wo das Übersehen eines Details Folgen hat."
-
 ---
 
 "Qualität ist kein Zufall; sie ist immer das Ergebnis intelligenter Anstrengung. Überschätzen Sie niemals die menschliche Gedächtniskapazität. Ein einziges Blatt Papier kann über Leben und Tod entscheiden." ✈️

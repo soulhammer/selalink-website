@@ -21,7 +21,6 @@ faqs:
     answer: "Gunakan strategi dua tingkat: arsipkan informasi sekunder di 'lampiran' atau folder cadangan sambil hanya menampilkan 3 hingga 5 unit inti di ruang kerja utama Anda, yang memberikan ketenangan pikiran secara kognitif."
   - question: "Apakah kerangka kerja penyederhanaan dan pengelompokan ini dapat diterapkan pada alur kerja tim?"
     answer: "Ya, sangat efektif. Menerapkan 'Aturan 3–5' sebagai standar tim—seperti membatasi agenda rapat tidak lebih dari 3 item atau memangkas rantai persetujuan di bawah 3 tingkat—mengurangi kelelahan komunikasi organisasi dan mempercepat kecepatan eksekusi."
-
 ---
 
 "Karakter yang tidak dapat dipahami dalam satu sentuhan tanpa menggerakkan ujung jari bukanlah huruf yang sebenarnya." ⠃

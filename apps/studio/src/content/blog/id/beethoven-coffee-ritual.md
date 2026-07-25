@@ -21,7 +21,6 @@ faqs:
     answer: "Angka ketat 60 biji kopi mengontrol rasa kopi melalui kuantifikasi sempurna, tetapi tindakan menghitung angka secara presisi itu sendiri merupakan pemicu kognitif yang memotong pikiran tak berguna dan mengaktifkan jaringan kontrol eksekutif tingkat tinggi pada otak."
   - question: "Apakah orang yang tidak minum kopi dapat menerapkan rutinitas mindfulness ini?"
     answer: "Ya, tentu saja. Tindakan apa pun yang mengarahkan perhatian penuh pada sentuhan dan gerakan halus—seperti menimbang daun teh secara presisi, menyapu cangkir teh, atau melakukan peregangan terstruktur dan meditasi—memberikan efek penekanan DMN dan peningkatan fokus yang sama."
-
 ---
 
 "Musik harus menyalakan api dari jiwa pria, dan meneteskan air mata dari mata wanita." ☕

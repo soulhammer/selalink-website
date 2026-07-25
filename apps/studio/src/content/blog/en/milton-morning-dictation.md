@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "How did Milton memorize all the poetic lines before his assistant arrived?"
     answer: "Milton recited verses repeatedly with rhythmic cadences, treating them like music. He utilized his highly developed auditory working memory following blindness and leveraged the unique meter of blank verse as a memory anchor."
-
 ---
 
 "The mind is its own place, and in itself can make a Heaven of Hell, a Hell of Heaven." 🚶‍♂️

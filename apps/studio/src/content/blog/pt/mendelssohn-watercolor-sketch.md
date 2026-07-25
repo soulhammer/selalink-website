@@ -21,7 +21,6 @@ faqs:
     answer: "Com certeza. O objetivo não é exibir habilidade artística, mas enviar sinais de observação visual e coordenação motora das mãos para o cérebro. Mesmo que a composição seja simples ou as linhas sejam imperfeitas, a estimulação das áreas cerebrais intermodais e o relaxamento acontecem da mesma forma."
   - question: "Desenhar com lápis ou caneta é suficiente para a estimulação intermodal no lugar da aquarela?"
     answer: "Sim, o uso de lápis ou caneta monocromática envolve a intuição espacial e o controle tátil o suficiente para ativar os circuitos associativos do cérebro. No entanto, adicionar tintas coloridas ou lápis de cor estimula adicionalmente as áreas de percepção de cor, ampliando o alcance da estimulação."
-
 ---
 
 "Os pensamentos expressos pela música não são por demais indefinidos para serem traduzidos em palavras, mas ao contrário, definidos demais; e as cores na ponta do pincel tornam-se um refúgio acolhedor para as melodias." 🎨

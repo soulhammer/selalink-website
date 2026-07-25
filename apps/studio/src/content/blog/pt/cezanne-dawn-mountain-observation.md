@@ -21,7 +21,6 @@ faqs:
     answer: "Mesmo em dias nublados, a luz externa varia entre 1.000 e 2.000 lux — muito mais brilhante que a iluminação interna (300-500 lux). Assim, caminhar ao ar livre em dias nublados continua suprimindo a melatonina. Contudo, em casos de poluição extrema, substitua a caminhada observando por uma janela."
   - question: "Trabalhadores do conhecimento que não são artistas podem se beneficiar da rotina de observação de Cézanne?"
     answer: "Sim, com certeza. O alinhamento do relógio circadiano via luz natural elimina a fadiga pré-frontal e melhora a função executiva para qualquer profissão. Além disso, a observação intencional de formas geométricas e contrastes amplia a capacidade da memória de trabalho viso-espacial."
-
 ---
 
 "Um pintor não deve simplesmente olhar para os objetos; ele deve senti-los com todo o corpo, reconstruí-los dentro do seu cérebro e expressá-los na tela." 🎨

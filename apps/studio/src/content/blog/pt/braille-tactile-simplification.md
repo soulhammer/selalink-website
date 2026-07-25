@@ -21,7 +21,6 @@ faqs:
     answer: "Utilize uma estratégia de dois níveis: arquive informações secundárias em um 'apêndice' ou pasta de backup expondo apenas as 3 a 5 unidades principais no seu espaço de trabalho, garantindo tranquilidade cognitiva."
   - question: "Esse sistema de simplificação e agrupamento pode ser aplicado a fluxos de trabalho em equipe?"
     answer: "Sim, enormemente. Adotar uma 'Regra de 3 a 5' como padrão de equipe — como limitar pautas de reuniões a no máximo 3 itens ou reduzir cadeias de aprovação a menos de 3 níveis — reduz a fadiga de comunicação organizacional e acelera a execução."
-
 ---
 
 "Um caractere que não pode ser compreendido em um único toque sem mover a ponta do dedo não é uma letra verdadeira." ⠃

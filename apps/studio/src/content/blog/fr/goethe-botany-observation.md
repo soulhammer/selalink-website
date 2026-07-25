@@ -21,7 +21,6 @@ faqs:
     answer: "Oui. L'examen des motifs sur des plantes d'intérieur sollicite la Fascination douce, réduisant la fatigue préfrontale. Néanmoins, l'observation en extérieur associée a la lumière naturelle et a la marche procure une restauration cognitive maximale."
   - question: "Faut-il vraiment se munir d'une loupe et d'enveloppes de collecte comme Goethe ?"
     answer: "L'utilisation d'une loupe augmente la résolution visuelle et stimule le cortex, mais n'est pas obligatoire. L'observation a l'œil nu des nervures ou des motifs de graines suffit amplement a bénéficier de la Théorie de la restauration de l'attention (ART)."
-
 ---
 
 « La nature nous parle dans un profond silence. Se concentrer sur ses plus petits mystères est la station de recharge qui éveille les pensées les plus limpides. » 🌱

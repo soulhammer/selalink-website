@@ -21,7 +21,6 @@ faqs:
     answer: "Nein. Es reicht aus, während einer 10- bis 20-minütigen Fahrt aus dem Fenster zu blicken, Gedanken nachzugehen und einen Satz zu notieren, um das Default Mode Network und Alphawellen zu aktivieren."
   - question: "Kann ich Notiz-Apps oder Sprachmemos nutzen, wenn Wackeln das Schreiben erschwert?"
     answer: "Ja, absolut. Entscheidend ist nicht das Medium, sondern das Unterbinden hochstimulierender Inhalte (Shorts, Social Media, Spiele), um Raum für Gedanken zu schaffen. Offline-Notiz-Apps oder Diktierfunktionen sind hervorragende moderne Reise-Notizbücher."
-
 ---
 
 "Reisen ist eine wahre Quelle der Weisheit, und ein Notizbuch ist die Karte, die sie bewahrt." 📓

@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, la nature de l'objet importe peu. Se concentrer pendant 2 minutes sur les détails d'un objet banal (mine de crayon, nervures de feuille, micro-fissure d'une tasse) stimule exactement les mêmes réseaux d'attention."
   - question: "Faut-il vraiment utiliser une loupe ou une lentille ?"
     answer: "L'utilisation d'une loupe accentue la vivacité sensorielle, mais n'est pas obligatoire. Pratiquer un « zoom conscient » à l'œil nu — en ciblant une zone précise — procure exactement les mêmes bénéfices."
-
 ---
 
 « Si je peins la fleur en grand, les gens seront surpris et prendront le temps de la regarder. » 🌺

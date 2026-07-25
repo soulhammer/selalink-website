@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Trabajar en la cama no provoca sueño o pereza?"
     answer: "Puede ocurrir. Por lo tanto, esta rutina no consiste simplemente en tumbarse, sino en mantener un estado de 'relajación alerta' apoyando con firmeza el torso con almohadas. Además, es importante establecer de antemano un tiempo de trabajo concentrado con distracciones bloqs."
-
 ---
 
 "Para mí, la cama es el laboratorio y taller creativo más maravilloso del mundo." 🛌

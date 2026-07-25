@@ -21,7 +21,6 @@ faqs:
     answer: "O movimento repetitivo a uma velocidade constante estimula o sistema de serotonina do cérebro, suprimindo respostas de ameaça na amígdala e restaurando o controle executivo no córtex pré-frontal."
   - question: "Como posso replicar essa rotina na vida moderna se não tiver um pilão?"
     answer: "Girar um moedor manual de café a uma velocidade constante, triturar folhas de chá ou esfregar as palmas em um ritmo constante oferece os mesmos benefícios. O segredo é manter um tempo uniforme."
-
 ---
 
 "A vida humana é como uma longa jornada carregando um pesado fardo. Não se apresse. Moer ervas com um pilão todas as manhãs acalma minha respiração e me dá a paciência necessária para governar o reino." 🍵

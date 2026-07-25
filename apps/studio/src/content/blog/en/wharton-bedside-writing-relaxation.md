@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Won't working in bed turn the bedroom into a stressful work space and cause insomnia?"
     answer: "That boundary is crucial. Therefore, stressful work like analytical management, scheduling, or critical emails must be blocked in bed. Restricting activity purely to enjoyable creative drafting, brainstorming, or reflective journaling preserves the bedroom's cognitive safe value."
-
 ---
 
 "My bed is my only safe haven. When I am tucked in warm, soft bedding with my dogs, my fictional imagination awakens most flexibly." 🛏️

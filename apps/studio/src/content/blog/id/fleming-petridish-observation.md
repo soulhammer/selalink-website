@@ -21,7 +21,6 @@ faqs:
     answer: "Mencoba mengabaikan kesalahan justru memperpanjang kecemasan. Sebaliknya, mencatat data faktual objektif mengenai alasan terjadinya kesalahan memberi sinyal ke otak bahwa Anda telah mendapatkan kembali 'kendali' atas situasi tersebut, menurunkan kecemasan dan menyalakan kembali motivasi."
   - question: "Apakah ada latihan pelatihan otak khusus untuk menangkap penemuan serendipitas secara lebih baik?"
     answer: "Memasukkan variasi mikro ke dalam rutinitas harian Anda sangat membantu. Mengambil rute yang tidak biasa saat berjalan-jalan atau bekerja di lingkungan baru menyuntikkan 'mikro-kebisingan' terkontrol ke dalam kehidupan sehari-hari, menstimulasi Jaringan Perhatian Frontoparietal."
-
 ---
 
 "Ketika pengamatan yang tidak disengaja bertemu dengan pikiran yang siap, sebuah revolusi lahir." 🧫

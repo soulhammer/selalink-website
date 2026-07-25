@@ -21,7 +21,6 @@ faqs:
     answer: "Les jours d'extrême fatigue physique, il est préférable de remplacer l'entraînement intense par 5 à 10 minutes d'étirements doux et de respiration profonde. L'essence de la routine de Mandela ne consiste pas à surmener son corps, mais à amorcer l'autonomie de la journée par sa propre volonté consciente."
   - question: "Comment les débutants ayant une faible endurance physique doivent-ils commencer ?"
     answer: "Adaptez les exercices à votre niveau : faites des pompes contre un mur ou sur les genoux, et remplacez les squats par des levez de chaise. Même seulement 5 minutes ou une seule série par jour activent la routine cérébrale matinale positive préservant l'autonomie."
-
 ---
 
 « L'exercice a été la clé de ma vie. Grâce à l'exercice, j'ai pu trouver la paix de l'esprit même au milieu des plus extrêmes adversités. » ☀️

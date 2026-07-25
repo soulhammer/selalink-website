@@ -21,7 +21,6 @@ faqs:
     answer: "Das direkte Schreiben mit einem digitalen Stift auf einem Tablet erzeugt Effekte, die einem physischen Stift sehr ähnlich sind. Das Tippen auf einer Tastatur ist jedoch eine automatisierte Eingabehandlung, die fast keine kognitive Verarbeitung begleitet. Die langsamere Geschwindigkeit der Handschrift zwingt das Gehirn, Informationen zusammenzufassen und zu verdauen, was die Gedächtnisbehaltensrate signifikant verbessert."
   - question: "Gibt es eine Möglichkeit, exzerpierte Notizen so zu organisieren, dass sie bei zunehmender Menge nicht verloren gehen?"
     answer: "Wir empfehlen John Lockes Methode des Sudelbuchs (Commonplace Book). Erstellen Sie ganz vorne oder hinten im Notizbuch eine Indexseite und notieren Sie die beschriebenen Seitenzahlen nach Wissenskategorien oder alphabetisch. Alternativ ist das einmal monatliche Scannen von handschriftlichen Notizbüchern und das Kategorisieren mit digitalen Tags ein guter Kompromiss."
-
 ---
 
 „Kein Buch ist so schlecht, dass man nichts Nützliches daraus ziehen könnte, und Lesen ohne Notizen ist wertlos.“ ✍️

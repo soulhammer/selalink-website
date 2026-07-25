@@ -21,7 +21,6 @@ faqs:
     answer: "Ja! Digitale Tools eignen sich hervorragend zum Suchen und Verknüpfen. Entscheidend ist, Ordner nicht zu zersplittern, sondern eine einzige Datenbank mit Datum und Schlagworten anzulegen, um Leibniz' System umzusetzen."
   - question: "Führt das Sammeln aller Informationen in einem Notizbuch nicht zu großem Unordnung?"
     answer: "Sammeln geht vor Ordnung. Das Gehirn benötigt eine kritische Menge an Daten an einem Ort, um unerwartete Verknüpfungen herzustellen. Trennen Sie das Aufschreiben vom Ordnen, indem Sie Notizen erst bei der wöchentlichen Durchsicht mit Schlagworten strukturieren."
-
 ---
 
 "Ein nicht aufgeschriebener Gedanke verfliegt wie Sommermorgen ohne jede Spur." 📒

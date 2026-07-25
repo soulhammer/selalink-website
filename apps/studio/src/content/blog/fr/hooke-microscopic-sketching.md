@@ -21,7 +21,6 @@ faqs:
     answer: "Oui ! Que vous utilisiez du papier ou un stylet sur tablette, tant que la motricité fine et le suivi visuel sont synchronisés pour cartographier les structures, vous bénéficiez exactement des mêmes avantages."
   - question: "Cette méthode est-elle utile pour les personnes sans aucun talent en dessin ?"
     answer: "Le talent artistique est totalement secondaire. Le mécanisme repose sur l'effort cognitif déployé pour observer attentivement un sujet et traduire visuellement les liens entre ses éléments."
-
 ---
 
 « Dans les plus petites structures de la nature se cache le plus grand ordre que l'humanité n'a pas encore contemplé. » 🔬

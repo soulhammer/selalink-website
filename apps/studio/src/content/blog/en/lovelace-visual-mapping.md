@@ -21,7 +21,6 @@ faqs:
     answer: "Mind mapping focuses on free-association and radial brainstorming, whereas Lovelace's visual mapping models operational logic—data movement, control loops, conditional branching, and systemic causal structures."
   - question: "Must one use complex software tools like UML or Figma to achieve results?"
     answer: "No! Fiddling with software UI wastes precious cognitive resources. Freehand analog drawing on paper or whiteboards engages Dual-Coding far more directly, helping organize thoughts without distraction."
-
 ---
 
 "I face the true beauty of mathematics when visually projecting hidden organic linkages between abstract concepts." 📊

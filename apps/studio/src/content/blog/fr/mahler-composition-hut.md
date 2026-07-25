@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Que peuvent faire les salariés en open space qui ne peuvent pas s'isoler physiquement ?"
     answer: "Associez 'isolement auditif' et 'isolement numérique'. Un casque antibruit diffusant du bruit blanc crée une paroi mentale. Passez votre messagerie en 'Ne pas déranger' et maximisez une seule fenêtre de travail pour créer une 'mini-cabane numérique'."
-
 ---
 
 "Ce n'est que dans la solitude et le silence absolus que les sons les plus profonds de la nature peuvent pénétrer dans ma partition." 🎼

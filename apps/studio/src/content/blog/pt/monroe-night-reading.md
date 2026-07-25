@@ -21,7 +21,6 @@ faqs:
     answer: "Ler livros em papel em vez de smartphones que emitem luz azul — especialmente obras de humanidades, poesia ou ensaios calmos sob luz indireta suave — induz ondas cerebrais alfa que promovem um sono profundo."
   - question: "Como posso registrar trechos favoritos durante a leitura noturna sem atrapalhar o sono?"
     answer: "Evite ligar computadores ou telas antes de dormir. Em vez disso, use notas adesivas ou dobre as pontas das páginas e organize-as em seu arquivo digital na manhã ou tarde do dia seguinte."
-
 ---
 
 "Quando acendo silenciosamente o abajur do meu quarto e leio os clássicos, só então me encontro com minha verdadeira alma por trás das telas." 📖

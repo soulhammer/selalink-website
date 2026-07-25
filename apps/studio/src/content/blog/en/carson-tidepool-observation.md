@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely. Though smaller in scale, examining leaf vein patterns, soil texture, or stem color on indoor potted plants induces 'Soft Fascination', effectively relaxing the prefrontal cortex and reducing stress."
   - question: "Is it okay if I lack drawing skills and cannot make detailed observational sketches?"
     answer: "Yes, absolutely. Sketching is merely an optional tool to help structure visual attention. If you cannot draw, describing the object's colors, textures, and subtle shifts using 2 to 3 lines of rich verbal language is fully sufficient to stimulate brain restoration."
-
 ---
 
 "Those who contemplate the beauty of the earth find reserves of strength that will endure as long as life lasts." 🐚

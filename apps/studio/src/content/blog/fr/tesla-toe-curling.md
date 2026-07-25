@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Bouger ou crisper les orteils aide-t-il vraiment à activer le cerveau ?"
     answer: "Oui ! Sur la carte du cortex somatosensoriel, la zone des orteils est située près du centre. Stimuler les muscles fins des orteils active le lobe frontal via les nerfs périphériques."
-
 ---
 
 Saviez-vous que Nikola Tesla (1856–1943), le scientifique de génie qui a illuminé le monde aux côtés d'Edison et posé les bases du courant alternatif (CA) et de la communication sans fil, répétait un rituel étrange chaque nuit au lit ? ⚡

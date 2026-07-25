@@ -21,7 +21,6 @@ faqs:
     answer: "Yes! Unlocking your office chair's tilt-lock mechanism and gently rocking your upper body back and forth engages the inner ear's vestibular receptors, preventing static load and stimulating parasympathetic pathways effectively."
   - question: "What is the optimal speed or cadence for rocking to induce nervous system relaxation?"
     answer: "The ideal cadence for inducing parasympathetic tone is between 0.5 Hz and 1 Hz. Completing one full back-and-forth cycle every 1.5 to 2 seconds creates a smooth, gentle wave that optimally quells central nervous system arousal."
-
 ---
 
 "Amid intense physical pain and national crisis, I need a space that stabilizes my body and nervous system. The gentle rhythm of the rocking chair soothes my back pain and restores composure in the Oval Office." 🪑

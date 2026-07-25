@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, tentu saja. Meskipun berskala lebih kecil, memeriksa pola urat daun, tekstur tanah, atau warna batang pada tanaman pot dalam ruangan memicu 'Pesona Lembut', secara efektif merelaksasi korteks prefrontal dan mengurangi stres."
   - question: "Apakah boleh jika saya tidak memiliki keterampilan menggambar dan tidak dapat membuat sketsa pengamatan terperinci?"
     answer: "Ya, tentu saja. Membuat sketsa hanyalah alat opsional untuk membantu memstrukturkan perhatian visual. Jika Anda tidak bisa menggambar, menjelaskan warna, tekstur, dan pergeseran halus objek menggunakan 2 hingga 3 baris bahasa verbal yang kaya sudah sangat cukup untuk merangsang pemulihan otak."
-
 ---
 
 "Mereka yang merenungkan keindahan bumi menemukan cadangan kekuatan yang akan bertahan selama hidup itu ada." 🐚

@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, com certeza. Você pode implementar um sistema de cartões usando ferramentas digitais como Notion, Obsidian ou aplicativos de notas. Recursos de links bidirecionais (Backlinks) replicam os mecanismos de Hegel."
   - question: "Por que cartões concisos são mais eficazes do que escrever páginas longas em um caderno?"
     answer: "Páginas longas prendem as ideias a um contexto linear, prejudicando sua independência. Os cartões funcionam como blocos modulares, oferecendo alta 'Flexibilidade Cognitiva' para recombinar pensamentos sem fricção."
-
 ---
 
 "Apenas os pensamentos registrados e organizados no espaço externo podem evoluir para uma verdadeira sabedoria dialética." 🗃️

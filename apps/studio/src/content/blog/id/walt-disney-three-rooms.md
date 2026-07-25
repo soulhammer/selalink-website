@@ -21,7 +21,6 @@ faqs:
     answer: "Sangat efektif untuk mengubah ruang fisik untuk memicu penyegaran. Jika keadaan mengharuskan menggunakan satu ruangan, sangat baik untuk memberikan pembedaan kognitif kepada otak dengan mengubah warna spidol papan tulis, mengatur ulang posisi duduk, atau menggunakan jenis alat tulis yang berbeda (misalnya: pensil warna cerah untuk tahap Pemimpi, pulpen hitam untuk tahap Pengkritik)."
   - question: "Apa yang harus dilakukan jika kritik pada tahap Pengkritik terlalu berlebihan hingga ide menjadi gugur sepenuhnya?"
     answer: "Tujuan Pengkritik harus berupa 'penyempurnaan dan perbaikan', bukan pengguguran ide. Tahap kritik tidak boleh diakhiri dengan 'Ide ini tidak mungkin', melainkan dengan pendekatan 'Faktor risiko apa yang harus diubah agar ide ini dapat bekerja?', lalu menambahkan alternatif realistis melalui penyelarasan yang konstruktif."
-
 ---
 
 "Jika Anda bisa memimpikannya, Anda bisa melakukannya." 🏰

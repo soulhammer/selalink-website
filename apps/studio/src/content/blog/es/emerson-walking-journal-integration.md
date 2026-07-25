@@ -21,7 +21,6 @@ faqs:
     answer: "Sí. Usar un teléfono es una alternativa válida si utiliza una aplicación sin conexión y con notificaciones desactivadas. El factor crítico no es el soporte, sino mantener el cerebro en 'Modo Difuso' al caminar y ejecutar la transferencia al diario esa misma noche."
   - question: "¿Qué debo hacer si una nota diurna es demasiado incipiente para expandirla en una entrada completa por la noche?"
     answer: "No necesita expandir cada nota en un ensayo perfecto inmediatamente. Organice los fragmentos poco desarrollados como palabras clave en una sección de 'Reserva de Ideas' de su diario. Esto permitirá que se combinen con futuras notas y experiencias."
-
 ---
 
 "Si las ideas que surgen en el bosque no se encierran al instante en una libreta, echan a volar y desaparecen para siempre." 📓

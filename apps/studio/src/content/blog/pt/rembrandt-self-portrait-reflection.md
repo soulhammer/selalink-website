@@ -21,7 +21,6 @@ faqs:
     answer: "Sim. Se a distorção do humor ou sentimentos de depressão se intensificarem, você pode ter caído em um ciclo de autocritica; portanto, pare imediatamente. Em vez disso, mude para um treinamento que verifique primeiro suas sensações de aterramento corporal (earthing) olhando para a linha dos ombros ou formato das mãos em vez das pupilas."
   - question: "Qual é o melhor momento do dia para fazer a autorreflexão no espelho?"
     answer: "Uma rotina de 3 minutos em frente ao espelho do banheiro logo após terminar de tomar banho é o ideal. Em um estado de domínio parassimpático onde o corpo está relaxado, os mecanismos de defesa do cérebro se abrandam, proporcionando o confronto com si mesmo mais verdadeiro e confortável."
-
 ---
 
 "A única maneira de confrontar o próprio eu interior é encarar profundamente as pupilas refletidas no espelho." 🎨

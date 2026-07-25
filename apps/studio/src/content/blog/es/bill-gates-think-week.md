@@ -21,7 +21,6 @@ faqs:
     answer: "No. La esencia reside en 'cortar la entrada de información externa' e 'aislar la atención', no en la ubicación en sí. Visitar una biblioteca local tranquila durante el fin de semana o dejar el teléfono inteligente en otra habitación durante un solo día mientras se concentra únicamente en libros físicos y cuadernos produce un potente efecto de reinicio cerebral."
   - question: "¿Se pueden usar portátiles o tabletas para leer materiales?"
     answer: "Las pantallas digitales son esencialmente vías conectadas directamente a las tentaciones de sitios web, correos electrónicos y notificaciones. Para mantener la red de enfoque del cerebro, lo mejor es leer papel impreso. Si el uso de dispositivos es inevitable, se recomienda encarecidamente utilizar un lector electrónico (E-reader) dedicado o un dispositivo fuera de línea con Wi-Fi e Internet completamente desactivados."
-
 ---
 
 "La Semana de Pensamiento fue lo más productivo que hice en Microsoft. Allí puedes concentrarte por completo en el futuro sin distracciones." 🌲

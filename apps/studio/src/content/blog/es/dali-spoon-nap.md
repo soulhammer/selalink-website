@@ -21,7 +21,6 @@ faqs:
     answer: "Sostener una cuchara convertía la relajación muscular del inicio del sueño en una señal sonora que lo despertaba al instante. Esto evitaba que su cerebro entrara en el sueño profundo NREM Fase 3 —evitando la inercia del sueño— mientras capturaba las imágenes de la hipnagogia."
   - question: "¿Cómo puedo adaptar esta rutina en entornos silenciosos como oficinas o bibliotecas?"
     answer: "Puede colocar una toalla gruesa o un cojín sobre el plato para amortiguar el sonido, o configurar un temporizador de vibración silenciosa de 1 a 2 minutos en su teléfono. Esto le permite despertar suavemente durante el sueño ligero NREM Fase 1 antes de descender al sueño profundo."
-
 ---
 
 "La inspiración más elevada se revela en el umbral exacto del despertar, donde la fantasía del subconsciente se cruza con la razón consciente." 🎨

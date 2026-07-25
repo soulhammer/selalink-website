@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak. Mekanisme intinya bukanlah angka mutlak 'pukul 4 pagi', melainkan menerapkan urutan 3 langkah—memblokir kelebihan beban digital saat bangun, terlibat dalam interaksi pagi yang positif, dan berjalan di bawah sinar matahari—secara konsisten sesuai dengan jadwal bangun Anda sendiri (misalnya, pukul 06.00 atau 07.00)."
   - question: "Bagaimana cara mengadaptasi rutinitas ini jika saya tinggal sendiri dan tidak memiliki keluarga untuk berbagi sarapan?"
     answer: "Untuk rumah tangga satu orang, Anda dapat mencapai pelepasan oksitosin dan ketenangan emosional yang sama dengan menikmati teh hangat sambil memberikan afirmasi diri yang positif di depan cermin, merawat hewan peliharaan atau tanaman hias, atau bertukar sapaan pagi yang hangat dengan barista lokal."
-
 ---
 
 "Antusiasme saat bangun di fajar menentukan kesuksesan hari itu." ☀️

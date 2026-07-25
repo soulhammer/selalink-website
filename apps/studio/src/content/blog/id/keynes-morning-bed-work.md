@@ -21,7 +21,6 @@ faqs:
     answer: "Berbaring secara merata sambil menekuk leher ke depan menyebabkan ketegangan serviks dan tulang belakang yang parah. Untuk melindungi tulang belakang Anda, sangga tubuh bagian atas Anda pada sudut 45 derajat atau lebih tinggi menggunakan bantal penopang yang keras."
   - question: "Bisakah saya memeriksa email atau pesan singkat selama 5 menit saja segera setelah bangun tidur?"
     answer: "Tidak. Memaparkan otak Anda pada tuntutan eksternal yang terfragmentasi bahkan selama 5 menit secara instan melenyapkan lonjakan kognitif berpotensi tinggi yang diberikan oleh Cortisol Awakening Response (CAR). Tetap matikan ponsel pintar Anda."
-
 ---
 
 "Teori ekonomi terbaik saya ditenun sebelum matahari pagi terbit, bersandar pada bantal di bawah selimut yang hangat." 🛏️

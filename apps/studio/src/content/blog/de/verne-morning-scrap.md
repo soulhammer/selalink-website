@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Wie unterscheidet sich Niklas Luhmanns Zettelkasten-Methode von Jules Vernes Karteikarten-Ausschnitten?"
     answer: "Während der Zettelkasten darauf abzielt, durch permanente nummerierte Querverweise zwischen den Karten ein vernetztes Gedankennetz aufzubauen, konzentrierten sich Jules Vernes Karten darauf, enzyklopädisches Wissen nach Kategorien zu sammeln, um technische Beschreibungen und die Glaubwürdigkeit seiner Romane zu verstärken."
-
 ---
 
 „Alles, was ein Mensch sich vorstellen kann, können andere Menschen wahr machen.“ 🗺️

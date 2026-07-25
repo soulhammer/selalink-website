@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Qué debo hacer si mi mente vaga hacia pensamientos aleatorios durante la reflexión?"
     answer: "Es completamente natural al inicio del entrenamiento mental. Cuando surjan pensamientos dispersos, no los reprima; mire el cartel 'THINK' y reconduzca suavemente su enfoque al tema principal."
-
 ---
 
 "Todos los problemas del mundo podrían resolverse fácilmente si las personas estuvieran dispuestas a pensar." 💡

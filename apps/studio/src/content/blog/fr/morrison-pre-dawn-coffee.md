@@ -21,7 +21,6 @@ faqs:
     answer: "Il n'est pas nécessaire de caler votre réveil à la minute près sur le lever du soleil. Profiter de l'atmosphère calme et sombre juste avant le jour (généralement entre 5h00 et 6h00) suffit amplement pour réinitialiser le cerveau."
   - question: "Je ne suis pas du matin et me sens très fatigué en me levant tôt ; que puis-je faire ?"
     answer: "Plutôt que de forcer un réveil à 5h00 dès le début, essayez de vous lever seulement 20 minutes plus tôt que d'habitude. Le rituel de calme de 5 minutes — éviter le smartphone et regarder par la fenêtre avec un thé chaud — en constitue le cœur."
-
 ---
 
 "Nous faisons la langue. C'est peut-être la mesure de nos vies." ☕

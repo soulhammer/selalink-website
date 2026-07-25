@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak, Anda tidak perlu menulis tulisan besar setiap hari. Meluangkan waktu 10 hingga 20 menit untuk menatap luar jendela selama transit dan mencatat satu wawasan sekilas sudah lebih dari cukup untuk mengaktifkan Default Mode Network dan gelombang alfa."
   - question: "Bisakah saya mengganti buku catatan kertas dengan aplikasi catatan ponsel pintar atau memo suara jika guncangan membuat penulisan sulit?"
     answer: "Ya, tentu saja. Faktor utamanya bukan pada medianya, melainkan memblokir gangguan digital berstimulus tinggi (video pendek, media sosial, game) selama perjalanan untuk memberikan ruang bernapas bagi kognitif. Aplikasi catatan luring atau perekam suara berfungsi sebagai buku catatan perjalanan modern yang luar biasa."
-
 ---
 
 "Perjalanan adalah sumber kebijaksanaan sejati, dan buku catatan adalah peta yang menyimpannya." 📓

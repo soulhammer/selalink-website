@@ -21,7 +21,6 @@ faqs:
     answer: "¡Sí! Después de escribir el borrador con libertad, recorte audazmente los modificadores innecesarios, la jerga y las frases meandrosas en la segunda revisión para duplicar el impacto."
   - question: "¿Qué pasa si se pierde el contexto por recortar demasiado?"
     answer: "Mantenga los sustantivos y verbos clave, y enfoque el recorte principalmente en modificadores emocionales o explicaciones redundantes; el contexto esencial se volverá más claro."
-
 ---
 
 "La perfección no se alcanza cuando no hay nada más que añadir, sino cuando no queda nada más que quitar." ✈️

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Cómo debo escribir el diario en días en los que hay poco que escribir o no pasó nada especial?"
     answer: "Mantener la 'consistencia del hábito' es mucho más importante que llenar páginas. En días sin eventos especiales, escribir una sola línea expresando gratitud por un pequeño momento reconfortante o el nivel de tensión física es suficiente. El cerebro obtiene tranquilidad de la continuidad de la reflexión diaria."
-
 ---
 
 "Abro mi diario cada noche y otorgo tranquilidad a mi corazón turbulento tras las experiencias del día." ✍️

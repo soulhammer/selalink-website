@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah olahraga pagi berintensitas tinggi justru membuat tubuh terasa lelah di pagi hari?"
     answer: "Penting untuk mengatur intensitas olahraga. Alih-alih olahraga berat yang menguras stamina, kuncinya adalah sesi beban tubuh singkat selama 15 hingga 20 menit yang secara sementara meningkatkan denyut jantung dan suhu tubuh untuk merangsang sirkulasi darah."
-
 ---
 
 "Kerja fisik adalah kewajiban dan keselamatan bagi mereka yang melakukan kerja mental. Pikiran yang tidak menggerakkan tubuh pasti akan berkarat." 🌾

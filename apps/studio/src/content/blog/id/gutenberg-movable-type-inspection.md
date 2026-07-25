@@ -21,7 +21,6 @@ faqs:
     answer: "Pengujian otomatis menangkap kesalahan logika kode, tetapi melewatkan ketidakseimbangan visual, tata letak yang canggung, dan gesekan yang dirasakan pengguna. Inspeksi manusia selama 5 menit memberikan sentuhan akhir yang dibutuhkan untuk kesempurnaan sejati."
   - question: "Bagaimana jika melakukan inspeksi pagi menyebabkan penundaan alur kerja?"
     answer: "Batasi sesi inspeksi Anda secara ketat hingga 5 menit menggunakan pengatur waktu. Memverifikasi tiga titik kritis berisiko tinggi dalam jendela 5 menit tersebut mencegah lebih dari 95% kecelakaan sistemis utama."
-
 ---
 
 Johannes Gutenberg (sekitar 1400–1468) adalah pandai emas dan penemu Jerman yang mematahkan monopoli pengetahuan dan memicu peradaban modern dengan memperkenalkan mesin cetak tipe logam bergerak ke Eropa. Menggabungkan paduan timbal, timah, dan antimon dengan tinta berbasis minyak, Gutenberg mencetak Alkitab 42-Baris yang bersejarah pada tahun 1455. Menghasilkan mahakarya ini membutuhkan presisi sub-milimeter dan fokus sensorik yang luar biasa. 🔠

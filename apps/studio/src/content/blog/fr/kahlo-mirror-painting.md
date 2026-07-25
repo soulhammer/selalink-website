@@ -21,7 +21,6 @@ faqs:
     answer: "C'est una réaction parfaitement naturelle. Lors des premières séances, les réflexes d'évaluation s'activent facilement. Au lieu d'analyser l'ensemble du visage, fixez votre attention sur vos pupilles. Concentrez-vous sur la connexion avec le centre de votre conscience plutôt que sur l'analyse de vos traits."
   - question: "L'observation au miroir est-elle thérapeutique même sans peindre d'autoportrait ?"
     answer: "Oui, tout à fait ! Pour Frida Kahlo, la peinture était un outil d'extension pour matérialiser le face-à-face au miroir. Consacrer 5 minutes par jour a un contact visuel bienveillant avec votre reflet procure les mêmes bienfaits d'auto-acceptation et de résilience, sans compétence artistique."
-
 ---
 
 « Je me peins moi-même parce que je suis souvent seule et que je suis le sujet que je connais le mieux. » 🎨

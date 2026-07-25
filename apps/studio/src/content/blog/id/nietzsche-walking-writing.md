@@ -21,7 +21,6 @@ faqs:
     answer: "Nietzsche terutama berjalan kaki antara sarapan dan makan siang, serta di sore hari. Ia menyukai jalur pegunungan dan hutan untuk mendapatkan inspirasi."
   - question: "Apakah harus berjalan di luar ruangan saat mempraktikkannya?"
     answer: "Jalan-jalan di luar ruangan adalah yang terbaik, namun jika tidak memungkinkan, berjalan perlahan di koridor atau ruang kantor tetap dapat menyegarkan fokus."
-
 ---
 
 "Semua pemikiran yang benar-benar besar lahir saat berjalan kaki." ð¶ââï¸

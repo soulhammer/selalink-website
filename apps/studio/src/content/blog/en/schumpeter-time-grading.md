@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "What should I do if I catch myself cheating or being overly lenient on my grades?"
     answer: "That is why you must establish numerical, objective rubrics rather than relying on feelings. For instance, base grades on 'Did deep work timer actually exceed 3 hours?' instead of 'I felt focused'. Combining quantitative criteria with data (app usage timers, written pages) eliminates self-rationalization and forces the brain to confront cold reality."
-
 ---
 
 "The daily report card in my diary is the most honest mirror controlling me. The conscious effort to earn an 'A' was the driving force behind my academic achievements."

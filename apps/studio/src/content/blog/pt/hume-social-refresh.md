@@ -21,7 +21,6 @@ faqs:
     answer: "Chamadas de voz com amigos ou jogos casuais online são ótimas alternativas. O segredo é receber feedback social acolhedor sem tensão cognitiva. No entanto, evite navegar passivamente nas redes sociais, pois isso aumenta a fadiga mental."
   - question: "Posso substituir o xadrez por outros jogos de tabuleiro, baralho ou jogos casuais?"
     answer: "Sim, com certeza! Hume escolheu o gamão e o xadrez simplesmente porque eram jogos populares no século XVIII. Qualquer jogo com regras (jogos de tabuleiro, baralho) que permita focar com leveza e risadas oferece o mesmo relaxamento. Priorize a diversão em vez da competição."
-
 ---
 
 "Janto, jogo uma partida de gamão, converso e me divirto com meus amigos; e quando, após três ou quatro horas de diversão, retorno a essas especulações, elas parecem tão frias, forçadas e ridículas..." 🎱

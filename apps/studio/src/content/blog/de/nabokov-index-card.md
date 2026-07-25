@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Kann Nabokovs Karteikartenmethode auch mit digitalen Notiz-Tools anstelle von physischen Papierkarten umgesetzt werden?"
     answer: "Ja, absolut. Sie können Tools wie die Kanban-Ansicht von Notion, Trello oder digitale Whiteboards (Miro, FigJam) nutzen, um Gedankenfragmente in Karten zu verwandeln und per Drag-and-Drop anzuordnen. Der wesentliche Kern besteht darin, nicht lange Fließtexte auf einmal zu schreiben, sondern Gedanken zu ‚modularisieren‘ und als jederzeit verschiebbare Objekte zu strukturieren."
-
 ---
 
 „Ein Roman wird nicht von Anfang an der Reihe nach geschrieben. In dem perfekten Bild, das in meinem Kopf existiert, fülle ich lediglich die leeren Puzzleteile mit Karten nach und nach aus.“ 🃏

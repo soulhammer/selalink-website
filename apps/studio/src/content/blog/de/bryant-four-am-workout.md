@@ -21,7 +21,6 @@ faqs:
     answer: "Für eine optimale Anpassung des zirkadianen Rhythmus ist es ideal, die Abweichungen der Aufstehzeit am Wochenende auf maximal 1 Stunde zu begrenzen. Exzessives Ausschlafen am Wochenende setzt die innere Uhr des SCN zurück und verstärkt die Müdigkeit unter der Woche. Beständigkeit ist entscheidend."
   - question: "Fördert das Ausführen intellektueller Aufgaben (Arbeit, Lesen) direkt nach einem 4-Uhr-Training die Konzentration?"
     answer: "Ja, es erzeugt eine kognitive Synergie. Die Ausschüttung von BDNF, Dopamin und Norepinephrin direkt nach dem Training hebt die synaptische Neuroplastizität auf Höchstwerte. Das Ausführen tiefer intellektueller Arbeit in den 1 bis 2 Stunden nach dem Training maximiert die Informationsaufnahme und das Arbeitsgedächtnis."
-
 ---
 
 "Wenn ich in der Stille um 4 Uhr morgens trainiere, bin ich mir absolut sicher, dass ich jedem Konkurrenten kognitiv einen Schritt voraus bin." 🏀

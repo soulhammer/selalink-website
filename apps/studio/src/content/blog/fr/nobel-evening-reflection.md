@@ -21,7 +21,6 @@ faqs:
     answer: "Non. L'essentiel est de reformuler les Ã©vÃ©nements avec vos propres mots en langue maternelle. Ajouter une phrase dans une langue Ã©trangÃ¨re en apprentissage constitue un bon exercice."
   - question: "Que faire si la rÃ©daction quotidienne devient lassante ?"
     answer: "AllÃ©gez l'exercice en remplaÃ§ant les longs paragraphes par un rÃ©sumÃ© de 3 mots-clÃ©s."
-
 ---
 
 Â« Lorsque les erreurs de la journÃ©e sont examinÃ©es de maniÃ¨re objective, l'incertitude se transforme en invention. Â» ð§ª

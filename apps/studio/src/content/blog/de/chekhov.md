@@ -21,7 +21,6 @@ faqs:
     answer: "Vermeiden Sie direkten Blickkontakt. Nutzen Sie das periphere Sehen oder scannen Sie einen Bereich (Ärmel, Schuhe, Hände) für den Bruchteil einer Sekunde bei Bewegungen – etwa beim Anziehen einer Jacke – und wenden Sie den Blick dann ab."
   - question: "Wie können diese Mikrodetail-Notizen praktisch im Beruf oder Geschäft angewendet werden?"
     answer: "Beim Erstellen von Konzepten, Zielgruppen-Personas oder in Kundengesprächen gelangen Sie von pauschalen Aussagen wie 'Büroangestellter in den 30ern' zu präzisen Beschreibungen wie 'Planer, der in Verhandlungen mit dem Stift tippelt'. Das erhöht die Glaubwürdigkeit und Überzeugungskraft."
-
 ---
 
 "Die Aufgabe des Künstlers ist es, Fragen zu stellen, nicht sie zu beantworten." 📝

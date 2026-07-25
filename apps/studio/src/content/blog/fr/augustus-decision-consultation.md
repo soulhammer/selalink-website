@@ -21,7 +21,6 @@ faqs:
     answer: "C'est pourquoi la 'réception écrite non en personne' est avantageuse. Lors de réunions en personne, la persuasion émotionnelle survient facilement en raison de l'autorité, de la pression de conformité ou de l'éloquence. Vous ne pouvez juger rationnellement que si vous rassemblez et analysez séparément la logique rigoureuse et les données factuelles rédigées individuellement par vos conseillers."
   - question: "Quelle est la taille la plus appropriée pour une équipe consultative ?"
     answer: "Nous recommandons fortement un maximum de 3 personnes. Lorsque l'effectif augmente, la Paralysie par l'Analyse (Analysis Paralysis) survient en raison de la surcharge d'informations, empêchant la prise de décision. Placez seulement 1 expert clé représentant chaque domaine (ex. : marketing, technologie, juridique) pour recueillir des avis."
-
 ---
 
 « Hâte-toi lentement. Une décision non préparée ne peut apporter la victoire. » 🏛️

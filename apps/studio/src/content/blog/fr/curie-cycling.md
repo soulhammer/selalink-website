@@ -21,7 +21,6 @@ faqs:
     answer: "Plutôt que des cérémonies fastueuses ou des objets de luxe, les vélos offraient un moyen pratique et sain d'explorer la campagne française, de méditer ensemble et de libérer le stress des recherches. Ils ont servi à leur lune de miel et d'ancrage mental."
   - question: "Existe-t-il des alternatives aérobiques si je n'ai pas de vélo ou de piste ?"
     answer: "Oui, tout à fait. Une marche rapide de 30 minutes, un footing léger ou du vélo d'appartement procurent des bienfaits cardiovasculaires et cérébraux identiques. L'essentiel est de solliciter les muscles inférieurs selon un motif rythmique pour irriguer le cerveau en oxygène."
-
 ---
 
 « Le seul réconfort capable de dissiper les vapeurs du laboratoire et l'épuisement cognitif résidait dans la brise du soir en parcourant les routes de campagne à vélo. » 🚲

@@ -21,7 +21,6 @@ faqs:
     answer: "Ya! Platform digital sangat unggul dalam hal kemampuan pencarian dan penautan. Kuncinya adalah menghindari fragmentasi berlebihan ke dalam folder yang terpisah; sebaliknya, bangun satu basis data atau papan tunggal yang diberi tag berdasarkan tanggal dan kategori."
   - question: "Apakah menyimpan semua informasi di dalam satu buku catatan tidak menciptakan kekacauan yang tidak teratur?"
     answer: "Akumulasi memiliki prioritas daripada ketertiban langsung. Otak membutuhkan massa kritis di dalam satu ruang kerja untuk membentuk hubungan silang yang tidak terduga. Pisahkan pengumpulan dari pengorganisasian dengan menggunakan tag kategori selama peninjauan mingguan."
-
 ---
 
 "Pemikiran yang tidak dituliskan lenyap seperti kabut pertengahan musim panas tanpa meninggalkan jejak." 📒

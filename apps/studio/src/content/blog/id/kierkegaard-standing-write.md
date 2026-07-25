@@ -21,7 +21,6 @@ faqs:
     answer: "Duduk segera setelah kembali ke rumah memicu penurunan cepat dalam tonus motorik fisik dan gairah otonom, menenangkan otak ke dalam relaksasi mendalam. Berdiri mempertahankan keterlibatan motorik dan kewaspadaan fisik, melindungi kapasitas memori kerja."
   - question: "Bagaimana cara mempraktikkan rutinitas ini jika saya tidak memiliki meja berdiri atau konter tinggi?"
     answer: "Menempatkan buku tebal atau dudukan laptop di atas meja standar, pulau dapur, atau lemari tinggi sudah sangat cukup. Tujuan utamanya bukanlah membeli furnitur baru, melainkan menyiapkan postur berdiri tanpa hambatan untuk mengekstrak ide."
-
 ---
 
 "Saya telah berjalan menuju pemikiran terbaik saya, dan saya tidak tahu ada pemikiran yang begitu berat sehingga seseorang tidak dapat melepaskannya dengan berjalan kaki." 🎩

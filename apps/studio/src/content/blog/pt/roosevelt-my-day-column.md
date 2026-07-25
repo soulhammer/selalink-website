@@ -21,7 +21,6 @@ faqs:
     answer: "Mesmo na rotina, tente capturar uma pequena variação a cada dia — uma pessoa, o sabor da comida ou o aroma do clima. A tentativa de buscar sutilezas exercita a atenção e a metacognição."
   - question: "É igualmente eficaz usar aplicativos de diário digital ou o Notion?"
     answer: "Sim! Ferramentas digitais oferecem os mesmos benefícios metacognitivos de organizar pensamentos. O essencial é visualizar os pensamentos em estrutura de frases, seja à mão ou pelo teclado."
-
 ---
 
 "Faça uma coisa todos os dias que te assuste." 🚶‍♂️

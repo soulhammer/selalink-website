@@ -21,7 +21,6 @@ faqs:
     answer: "Não. Imagens em telas digitais são redes de pixels em 2D que não ativam as redes de percepção em 3D. Você deve decodificar a profundidade e as texturas reais a olho nu para estimular a neuroplasticidade."
   - question: "Devo observar apenas objetos estáticos ou posso observar sujeitos em movimento?"
     answer: "Sujeitos dinâmicos são excelentes! Analisar micro-movimentos — como a cauda de um gato ou as barbatanas de um peixe no aquário — desperta com a mesma eficácia as redes de Atenção Seletiva."
-
 ---
 
 "Apenas quando observamos em silêncio, sem julgamentos ou intervenções, a natureza abre a porta para seus segredos mais profundos." 🐒

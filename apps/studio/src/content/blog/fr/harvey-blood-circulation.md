@@ -21,7 +21,6 @@ faqs:
     answer: "Remplacez les affirmations vagues telles que « les utilisateurs aiment cette fonction » par des indicateurs mesurables : volume d'acquisition, durée de session et taux de rétention."
   - question: "Que faire si les données chiffrées contredisent mon intuition personnelle ?"
     answer: "Fiez-vous aux chiffres mesurés plutôt qu'à l'intuition. Historiquement, l'intuition n'est souvent qu'un mécanisme de défense du cerveau pour préserver des croyances dépassées."
-
 ---
 
 « La vérité ne réside pas dans la tradition des livres, mais dans les données de la nature mesurées avec objectivité. » 🫀

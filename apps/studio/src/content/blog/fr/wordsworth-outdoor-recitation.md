@@ -21,7 +21,6 @@ faqs:
     answer: "Elle a écrit dans son journal : 'William a arpenté le chemin du jardin des centaines de fois ce matin en récitant des vers', décrivant avec précision comment sa vitesse de marche variait avec le tempo de sa déclamation."
   - question: "Marcher et réciter sur un tapis de course en intérieur a-t-il le même effet ?"
     answer: "Oui ! Comme le mécanisme repose sur l'activation du cervelet liée au mouvement de marche, marcher lentement sur un tapis de course tout en déclamant déclenche la même synchronisation cérébrale et le même retour auditif."
-
 ---
 
 "La poésie est le débordement spontané de sentiments puissants : elle prend son origine dans l'émotion recueillie dans la tranquillité." 🚶‍♂️

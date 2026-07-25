@@ -21,7 +21,6 @@ faqs:
     answer: "La actividad física como tocar la tierra y desherbar actúa como una señal perfecta para permitir que su corteza prefrontal descanse de la 'atención dirigida'. Sin embargo, si no tiene jardín, caminar por un sendero forestal y escuchar el viento ofrece idénticos beneficios de relajación neurológica."
   - question: "¿Cómo puedo sustituir esto si vivo en un apartamento o zona urbana sin jardín ni tierra?"
     answer: "Puede sustituirlo fácilmente cuidando pequeñas macetas de interior en un balcón, trasplantando o podando hojas secas. Caminar por parques urbanos centrándose en el aroma de las hojas y la tierra también es un método de contemplación excelente."
-
 ---
 
 "Cultivar un jardín es el ritual analógico más sagrado para volver a escuchar la gran voz de la vida y calmar la turbulencia interior." 🌿

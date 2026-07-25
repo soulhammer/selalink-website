@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Comment faire si je vis dans un studio ou avec ma famille et qu'il m'est impossible de créer une pièce d'isolement physique ?"
     answer: "Si la séparation physique des pièces est impossible, créez un « mur sonore virtuel » en portant un casque à réduction de bruit diffusant un bruit blanc ou de la musique classique apaisante. De plus, placez un panneau « Ne pas déranger » sur votre bureau ou profitez des premières heures du matin pour réserver 2 heures d'isolement avant le réveil de votre entourage."
-
 ---
 
 « Je ne vais pas loin pour travailler. Je pénètre simplement dans une petite cabane mystérieuse dans mon jardin et je ferme la porte. C'est entièrement mon propre univers. » 🏠

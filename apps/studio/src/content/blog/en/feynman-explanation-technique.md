@@ -21,7 +21,6 @@ faqs:
     answer: "An actual child is unnecessary. You can imagine a colleague, a plush toy on your desk, or direct your explanation to an AI chatbot set to a 10-year-old comprehension level. The core objective is the cognitive filtering process: censoring your words to eliminate complex jargon."
   - question: "Is it normal for sentences to become long and awkward when completely removing technical jargon?"
     answer: "Yes, this is completely natural! Struggling to translate concepts into plain language initially—even if it makes sentences wordy—is the exact process that maximizes metacognition. Once the concept is fully internalized, your mind will naturally refine it into concise, intuitive, and crystal-clear explanations."
-
 ---
 
 "If you cannot explain it in simple terms, you don't understand it well enough." 📝

@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut! Es geht nicht um Kunst, sondern um kognitives Training mit vier Elementen: Kreise, Rechtecke, Linien und Pfeile. Selbst grobe Skizzen reichen völlig aus, um den visuell-räumlichen Notizblock im Gehirn zu aktivieren."
   - question: "Bietet das Skizzieren auf Tablets mit digitalen Zeichen-Apps dieselben Vorteile?"
     answer: "Ein digitaler Stift ist eine brauchbare Alternative, aber echtes Papier bleibt überlegen. Die Reibung auf der Papieroberfläche erzeugt taktiles Feedback über die Fingerspitzen, was zu einer tiefeneren kognitiven Entlastung führt."
-
 ---
 
 "Das große Buch des Universums ist in der Sprache der Mathematik geschrieben, und seine Zeichen sind Dreiecke, Kreise und andere geometrische Figuren." 📐

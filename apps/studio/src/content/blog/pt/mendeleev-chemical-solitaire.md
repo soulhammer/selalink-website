@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Aplicativos de mapa mental podem substituir os cartões físicos?"
     answer: "Softwares de mapa mental ajudam, mas o toque tátil ao deslizar cartões com os dedos estimula o córtex motor e parietal de forma muito mais intensa. Pesquisas mostram que a manipulação física 3D induz atividade cerebral superior à navegação por tela."
-
 ---
 
 «Os elementos possuem seus próprios pares naturais. Ao reorganizar o baralho de cartas, a ordem perfeita decretada pela Natureza se revela.» 🃏

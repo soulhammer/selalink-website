@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, articles collected by George Orwell, copies of his hand-clipped scrapbooks, and related working notes are preserved as valuable historical archives at University College London (UCL)."
   - question: "Which apps are recommended to practice this clipping routine digitally?"
     answer: "We recommend Notion, Obsidian, and Evernote for easy text clipping, highlighting, and instant note-taking, as well as dedicated web curation apps like Pocket and Raindrop.io."
-
 ---
 
 "If liberty means anything at all, it means the right to tell people what they do not want to hear." 📰

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Pourquoi Pavarotti cherchait-il spécifiquement un clou tordu ?"
     answer: "Dans la culture théâtrale italienne, trouver un clou tordu dans les coulisses est un présage traditionnel de chance. Cela a commencé comme une simple superstition, avant de devenir une ancre cognitive vitale l'aidant à surmonter son trac."
-
 ---
 
 "J'accomplis toujours mon petit rituel avant d'entrer en scène. C'est la seule façon de vaincre ma peur." 🚶‍♂️

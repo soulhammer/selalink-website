@@ -21,7 +21,6 @@ faqs:
     answer: "Non. L'écriture manuscrite au stylo stimule intensément le cortex somatosensoriel, démultipliant l'efficacité de l'encodage cognitif. Bien que la saisie soit plus rapide, frapper des touches identiques offre un retour tactile uniforme sans véritable stimulation neuronale. Pour consolider la mémoire a long terme, le 'Choseo' manuscrit est bien plus puissant."
   - question: "Expliquer des concepts a d'autres personnes déclenche-t-il des effets métacognitifs même sans rédiger de lettre ?"
     answer: "Oui, tout à fait ! Selon la pyramide de l'apprentissage, enseigner des notions a autrui permet d'atteindre un taux de rétention de 90 %. Au-delà des lettres ou des e-mails, expliquer des idées a des collègues ou parler à voix haute devant un miroir procure des bienfaits métacognitifs identiques."
-
 ---
 
 « Lire sans 'Choseo' (transcription sélective et annotation manuscrite) n'apporte aucune valeur durable. Les souvenirs s'estompent sans laisser de trace. » 🖋️

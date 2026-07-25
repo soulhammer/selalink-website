@@ -21,7 +21,6 @@ faqs:
     answer: "La multitarea convencional divide la atención entre varias tareas simultáneas (p. ej., mirar mensajes mientras se escribe un correo), generando fricción. El dictado simultáneo utiliza el 'Enfoque Secuencial Único': asigna el 100% de la atención a un escriba por vez antes de un cambio estructurado."
   - question: "¿Puedo practicar este método tecleando en lugar de dictar por voz?"
     answer: "La velocidad al teclear es más lenta que el ritmo del pensamiento, generando cuellos de botella. Utilizar herramientas de dictado por voz (STT) permite liberar ideas al ritmo del habla. Dictar borradores rápidamente y editarlos más tarde reduce la sobrecarga de la memoria de trabajo."
-
 ---
 
 "Veni, vidi, vici. (Llegué, vi, vencí.)" ⚔️

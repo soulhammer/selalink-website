@@ -21,7 +21,6 @@ faqs:
     answer: "Excel oder automatisierte Datenanwendungen automatisieren den Prozess, was zu einer geringeren visuellen kognitiven Stimulation führt. Das physische Halten eines Lineals und das händische Zeichnen von Linien spricht den unteren Parietallappen viel stärker an und hilft Ihnen, Ursache-Wirkungs-Beziehungen sowie bedeutsame Muster hinter den Daten intuitiv zu erkennen."
   - question: "Ist es notwendig, weiter aufzuzeichnen, selbst wenn keine großen Veränderungen auftreten?"
     answer: "Ja, das ist sehr wichtig. Das 'Gleichbleiben' von Werten ist selbst ein wertvolles Datum, das Konsistenz zeigt. Das Aufzeichnen unveränderter Phasen hält den Impulskontrollmechanismus des Gehirns aufrecht und dient als wichtige Kontrollbasis, wenn später Ausreißer auftreten (z. B. zur Ursachenforschung bei einem plötzlichen Rückgang des Lesepensums)."
-
 ---
 
 "Die in der Natur verborgenen Gesetze offenbaren sich schließlich in präziser mathematischer Ordnung inmitten unzähliger Detaildaten." 🫛

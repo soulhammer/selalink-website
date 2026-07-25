@@ -21,7 +21,6 @@ faqs:
     answer: "Das geschieht, wenn Überanstrengung Müdigkeitsstoffe ansteigen lässt. Begrenzen Sie das Training strikt auf 3 Minuten, sobald der Schwellenwert der Kurzatmigkeit erreicht ist, damit nur erfrischendes Dopamin Ihr Gehirn auflädt."
   - question: "Wie sollten Anfänger mit sehr geringer körperlicher Fitness beginnen?"
     answer: "Jedes Aerobic- oder Krafttraining – wie zügiges Auf-der-Stelle-Gehen oder leichtes Joggen – erzielt gleichwertige Vorteile, solange es eine Intensität erreicht, die zu leichtem Schwitzen führt."
-
 ---
 
 Theodore Roosevelt, der 26. Präsident der USA, trat sein Amt als jüngster Präsident der US-Geschichte an und prägte progressive Reformen sowie die globale Führungsposition Amerikas. Um sein schweres asthmatisches Leiden in der Kindheit zu überwinden, absolvierte er jeden Morgen intensives Krafttraining. Diese morgendliche Trainingsgewohnheit wandelte einen kränklichen Jungen in eine Persönlichkeit mit eiserner Willenskraft und geistiger Wachheit um.

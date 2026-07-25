@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, membersihkan lensa atau merapikan meja sebelum mulai memberikan sinyal keteraturan kognitif pada otak untuk memaksimalkan fokus."
   - question: "Bagaimana cara menggantinya jika saya tidak memiliki mikroskop atau kain mikrofiber?"
     answer: "Merapikan meja, menyapu layar komputer, atau membersihkan layar ponsel dengan kain sebelum bekerja menghasilkan efek psikologis yang persis sama."
-
 ---
 
 "Dalam bidang pengamatan, keberuntungan hanya memihak pada pikiran yang siap." 🔬

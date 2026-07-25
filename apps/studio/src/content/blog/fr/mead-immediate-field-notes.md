@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, c'est tout à fait possible. Cependant, activez le mode « Ne pas déranger » ou utilisez un widget sur l'écran d'accueil pour éviter d'être distrait par d'autres notifications."
   - question: "Que pensez-vous du fait de laisser un enregistreur allumé pour tout noter plus tard ?"
     answer: "L'enregistrement continu évite les oublis, mais réécouter des heures d'audio surcharge la mémoire de travail. Prendre des notes manuscrites synthétiques aux moments clés est bien plus efficace."
-
 ---
 
 « Si vous ne notez pas un fait observé immédiatement, c'est comme s'il n'avait jamais existé. » 📝

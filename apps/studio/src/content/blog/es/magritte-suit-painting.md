@@ -21,7 +21,6 @@ faqs:
     answer: "¡Sí, produce un efecto genial! La textura firme enviada a las plantas de los pies emite una señal de 'modo actividad externa' al <strong>Córtex Somatosensorial</strong>. Esto frena el deseo de tumbarse en el sofá y actúa como interruptor corporal."
   - question: "¿Vestir bien también ayuda en trabajos creativos como la pintura o la creación de contenido?"
     answer: "¡Sí, por completo! Aunque se suele pensar que vestir de forma caótica fomenta la creatividad, cuanto más ordenada es la rutina y la vestimenta, más recursos prefrontales se ahorran para sumergirse en ideas profundas y conexiones surrealistas."
-
 ---
 
 "No necesito llenar mi vida diaria de locura por el arte. Cuando mi vida cotidiana es extremadamente simple y pulcra, el surrealismo en mi lienzo adquiere una fuerza persuasiva implacable." 🎩

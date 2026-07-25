@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely! Filling small indoor pots on a balcony or living room desk with potting soil and planting small herbs or air-purifying plants delivers identical tactile stimulation and soil bacterium exposure. The core mechanism is physical contact with living earth, regardless of plant size."
   - question: "Are there hygiene risks or bacterial infection concerns when touching soil with bare hands?"
     answer: "Commercially available potting soil is pasteurized, making it far safer than wild soil. Beneficial microorganisms in soil actually help condition skin microflora and immune function. If hygiene is a concern, wearing thin gardening gloves still provides rich tactile feedback. Simply washing your hands with soap and water after gardening resolves all hygiene concerns completely."
-
 ---
 
 "To plant a garden is to believe in tomorrow. When I touch the soil, my soul is at its quietest." 🌿

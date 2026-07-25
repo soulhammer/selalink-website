@@ -21,7 +21,6 @@ faqs:
     answer: "Textos de alta densidade lógica (como filosofia, literatura especializada ou relatórios estratégicos) são muito mais eficazes para a plasticidade pré-frontal do que ficção casual ou ensaios leves."
   - question: "Como posso praticar essa rotina em ambientes silenciosos como escritórios ou bibliotecas?"
     answer: "Praticar a leitura sussurrada em volume muito baixo (*Subvocalização*) ou articular o texto em silêncio movendo lábios e língua ativa o feedback motor facial e o córtex da linguagem, garantindo benefícios semelhantes."
-
 ---
 
 "Quando leio em voz alta, dois sentidos captam a ideia: primeiro, vejo o que leio; segundo, ouço, e assim posso me lembrar melhor. Ideias gravadas por dois sentidos permanecem o dobro do tempo no cérebro." 📖

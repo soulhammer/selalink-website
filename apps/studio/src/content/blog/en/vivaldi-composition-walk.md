@@ -21,7 +21,6 @@ faqs:
     answer: "It is essential to review and flesh out quick notes within 1 to 2 hours of capturing them. Minimizing the gap between capture and refinement preserves sensory memory traces."
   - question: "Any tips if recording voice memos in public feels awkward due to people watching?"
     answer: "Wear earphones and speak softly as if you are on a phone call. This allows you to capture inspiration comfortably without drawing any attention."
-
 ---
 
 Antonio Vivaldi (1678–1741), the Italian Baroque composer and virtuoso violinist known as 'The Red Priest' (Il Prete Rosso), composed 'The Four Seasons' (Le quattro stagioni), over 500 concertos, and more than 40 operas. Serving as music director at Venice's Ospedale della Pietà, how did he continuously pour out an endless stream of majestic musical ideas? 🎻

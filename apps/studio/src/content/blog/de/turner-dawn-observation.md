@@ -21,7 +21,6 @@ faqs:
     answer: "Das ist sogar besser. Turner beobachtete das gestreute Licht an bewölkten, schneereichen oder nebligen Tagen viel lieber als an sonnigen Tagen. An bedeckten Tagen lassen sich die feinen Schattenverläufe aus Licht und Feuchtigkeit besser erfassen."
   - question: "Kann ich das Sonnenlicht tagsüber beobachten, wenn es mir schwerfällt, früh aufzustehen?"
     answer: "Intensives Tageslicht ist zu stark für die Netzhaut und kann die Augen schädigen. Zudem bietet die konstante Farbtemperatur einen geringeren Trainingseffekt. Der sanfte Übergang von kühlem Blau zu warmem Orange vor Sonnenaufgang ist am sichersten und maximiert die Stimulation."
-
 ---
 
 Joseph Mallord William Turner (1775–1851), ein bedeutender britischer Maler der Romantik des 19. Jahrhunderts, der für seine Fähigkeit, subtile Licht- und Atmosphäreveränderungen einzufangen, als 'Maler des Lichts' bekannt ist, stand jeden Morgen vor allen anderen auf, um das majestätische Sonnenlicht und die Wolkenstreuung beim Sonnenaufgang zu beobachten. Diese Lichtbeobachtung am Morgen setzte seinen zirkadianen Rhythmus zurück und schenkte ihm künstlerische Inspiration.

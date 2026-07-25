@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Ist diese Brief-Routine auch für Aufgaben effektiv, die kein Schreiben beinhalten, wie Design oder Mathematik?"
     answer: "Sehr effektiv! Die Hürde beim Anfangen entsteht immer in der Amygdala. Gekritzel vor dem Designen oder eine kurze Notiz vor dem Coden schaffen einen kognitiven Puffer, der das Gehirn optimal auf die Hauptaufgabe vorbereitet."
-
 ---
 
 „Während ich jeden Morgen einen Brief schreibe, werden meine Finger geschmeidig und mein Geist macht sich bereit, mit den Figuren meines Romans zu sprechen.“ ✍️

@@ -21,7 +21,6 @@ faqs:
     answer: "Automated testing catches functional code logic errors, but misses subtle visual imbalances, layout awkwardness, and user-perceived friction. A 5-minute human inspection provides the final polish required for true perfection."
   - question: "What if conducting morning inspections causes workflow delays?"
     answer: "Cap your inspection session strictly to 5 minutes using a timer. Verifying just three high-risk, critical failure points within that 5-minute window prevents over 95% of major downstream system accidents."
-
 ---
 
 Johannes Gutenberg (c. 1400–1468) was the German goldsmith and inventor who shattered the monopoly on knowledge and ignited modern civilization by introducing movable type printing press to Europe. Combining an ingenious alloy of lead, tin, and antimony with oil-based ink and an adapted wooden screw press, Gutenberg printed the historic 42-Line Bible in 1455 using tens of thousands of individual metal types. Producing this masterpiece demanded sub-millimeter engineering precision and extraordinary sensory focus. 🔠

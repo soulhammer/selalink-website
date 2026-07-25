@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, trasnochar en exceso perjudica la salud. La clave no es la hora nocturna en sí, sino asegurar '1 hora de silencio absoluto' libre de interrupciones. Lograr esto mediante tecnología de cancelación de ruido o en las primeras horas de la mañana ofrece los mismos beneficios cognitivos."
   - question: "¿Cómo puedo adaptar la rutina de silencio de Kafka durante el día?"
     answer: "Durante el día, use tapones o auriculares con cancelación de ruido para bloquear el sonido, atenúe las luces o cierre cortinas opacas. Minimizar los estímulos visuales y auditivos crea de forma artificial una 'hora dorada de silencio' para su cerebro."
-
 ---
 
 "La puerta de mi habitación está cerrada, un silencio absoluto me rodea y esta quietud profunda sostiene mi alma. Escribir es una forma de oración." 🕯️

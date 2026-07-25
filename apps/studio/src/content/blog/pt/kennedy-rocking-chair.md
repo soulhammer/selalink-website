@@ -21,7 +21,6 @@ faqs:
     answer: "Sim! Desbloquear o mecanismo de inclinação da sua cadeira de escritório e balançar suavemente o tronco para a frente e para trás estimula os receptores vestibulares, evitando a carga estática e ativando o sistema parassimpático."
   - question: "Qual é a velocidade ou ritmo ideal de balanço para relaxar o sistema nervoso?"
     answer: "O ritmo ideal para induzir o relaxamento é entre 0,5 Hz e 1 Hz. Completar um ciclo de ida e volta a cada 1,5 a 2 segundos gera uma onda suave que acalma o sistema nervoso."
-
 ---
 
 "Em meio a dores físicas intensas e crises nacionais, preciso de um espaço que estabilize meu corpo e meu sistema nervoso. O balanço suave da cadeira acalma minhas dores nas costas e restaura a serenidade no Salão Oval." 🪑

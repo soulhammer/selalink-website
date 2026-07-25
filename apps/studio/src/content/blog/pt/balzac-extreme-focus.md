@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Consumir café tarde da noite ou de madrugada interfere no sono?"
     answer: "Sim, pode prejudicar a qualidade do sono. Como o estilo de vida de Balzac de acordar à meia-noite é impraticável para as pessoas modernas, se você for sensível à cafeína, substitua-a por café descafeinado ou chá de ervas quente e agende os blocos de foco logo após o trabalho ou no início da manhã antes de ir trabalhar."
-
 ---
 
 "Assim que o café chega ao estômago, há uma comoção geral. As ideias começam a se mover como os batalhões do grande exército." ☕

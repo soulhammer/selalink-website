@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Trabalhar na cama não dá sono ou preguiça?"
     answer: "Isso pode acontecer. Portanto, essa rotina não se trata simplesmente de deitar, mas de manter um estado de 'relaxamento alerta', apoiando firmemente a parte superior do corpo com travesseiros. Além disso, é essencial definir um tempo de trabalho focado com distrações bloqs."
-
 ---
 
 "Para mim, a cama é o melhor laboratório e oficina criativa do mundo." 🛌

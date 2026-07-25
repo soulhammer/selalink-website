@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Como Milton memorizava todos os versos antes da chegada do assistente?"
     answer: "Milton recitava versos repetidamente com uma cadência rítmica, como se fosse música. Ele usou sua memória de trabalho auditiva desenvolvida após a cegueira e usou o verso em branco como uma âncora de memória."
-
 ---
 
 "A mente é seu próprio lugar, e em si mesma pode fazer do Inferno um Céu, do Céu um Inferno." 🚶‍♂️

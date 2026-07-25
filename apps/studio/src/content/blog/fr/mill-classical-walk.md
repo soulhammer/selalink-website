@@ -21,7 +21,6 @@ faqs:
     answer: "L'écoute d'un livre audio constitue une réception passive d'informations qui court-circuite le « rappel actif » — où le cerveau va puiser lui-même dans sa mémoire — et la réflexion personnelle. Garder les oreilles libres pour retravailler mentalement la lecture est nettement plus efficace pour stimuler la plasticité cérébrale."
   - question: "La vitesse de marche influence-t-elle la stimulation cérébrale ?"
     answer: "Oui, tout à fait. Plus qu'une flânerie trop lente, un rythme modéré (environ 4 à 5 km/h) permettant une respiration aisée est idéal. À cette intensité aérobique modérée, la sécrétion de BDNF et l'irrigation cérébrale atteignent un niveau optimal. La course rapide est à éviter car elle redirige les ressources cognitives vers le contrôle moteur."
-
 ---
 
 « Le parcours d'un géant de la pensée a commencé dans la méditation matinale et les échanges profonds le long des sentiers forestiers dans l'air frais du matin. » 🚶

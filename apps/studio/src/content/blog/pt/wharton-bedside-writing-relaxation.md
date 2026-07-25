@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Trabalhar na cama não transformará o quarto em um espaço de trabalho estressante e causará insônia?"
     answer: "Essa fronteira é essencial. Trabalhos estressantes como gestão ou e-mails críticos devem ser bloqueados na cama. Limitar-se a rascunhos criativos e diários preserva o valor de refúgio do quarto."
-
 ---
 
 “Minha cama é meu único refúgio seguro. Quando estou coberta com edredons quentes e macios com meus cães, minha imaginação romanesca desperta da forma mais flexível.” 🛏️

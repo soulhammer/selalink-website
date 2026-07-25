@@ -21,7 +21,6 @@ faqs:
     answer: "Inutile de vous culpabiliser si vous sautez un jour. La culpabilité est une souffrance inutile rejetée par le stoïcisme. En cas de manque de temps, noter une seule phrase sur votre téléphone telle que 'Ne pas me laisser ébranler par les difficultés du jour' suffit amplement. L'important est la régularité de l'état d'esprit."
   - question: "En quoi cela diffère-t-il d'un journal de gratitude classique ou d'un journal matinal ?"
     answer: "Si le journal de gratitude se concentre sur l'accumulation de moments positifs, le journal stoïcien anticipe plutôt les difficultés ou événements négatifs potentiels (Visualisation Négative - Premeditatio Malorum) afin d'ajuster sa posture mentale. C'est un véritable entraînement mental."
-
 ---
 
 "Quand tu te lèves le matin, songe quel précieux privilège c'est que de vivre, de penser, de jouir, d'aimer." 🌅

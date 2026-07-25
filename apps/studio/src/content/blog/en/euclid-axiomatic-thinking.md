@@ -21,7 +21,6 @@ faqs:
     answer: "First define 3 'irreducible baseline facts'—such as physical project constraints, actual budget, and core user needs. Then, redesign your strategy from scratch strictly on top of that foundational baseline."
   - question: "What is the difference between conventional logical thinking and Euclid's First-Principles axiomatic reasoning?"
     answer: "Conventional logic usually relies on precedents or past analogies as starting assumptions. In contrast, First-Principles axiomatic thinking resets all assumptions to zero, building logical chains deductively from self-evident, irreducible truths."
-
 ---
 
 "There is no royal road to geometry." 📐

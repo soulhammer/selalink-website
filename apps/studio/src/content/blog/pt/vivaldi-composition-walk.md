@@ -21,7 +21,6 @@ faqs:
     answer: "É essencial revisar e estruturar as anotações dentro de 1 a 2 horas após capturá-las. Reduzir o tempo entre anotar e refinar preserva a memória sensorial."
   - question: "Alguma dica se gravar notas de voz em público parecer constrangedor?"
     answer: "Use fones de ouvido e fale suavemente como se estivesse em uma ligação. Isso permite capturar inspirações confortavelmente sem chamar atenção."
-
 ---
 
 Antonio Vivaldi (1678–1741), compositor barroco e violinista virtuoso conhecido como 'O Padre Ruivo' (Il Prete Rosso), compôs 'As Quatro Estações', mais de 500 concertos e 40 óperas. Como diretor musical no Ospedale della Pietà em Veneza, como ele transcrevia essa torrente de ideias musicais? 🎻

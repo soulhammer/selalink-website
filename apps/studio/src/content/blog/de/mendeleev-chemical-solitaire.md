@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Können Mindmap-Software physische Zettel oder Karteikarten ersetzen?"
     answer: "Software hilft bei der Strukturierung, aber die haptische Rückmeldung beim physischen Verschieben von Karten aktiviert die motorische und parietale Rinde weit starker. Studien zeigen, dass das Greifen im 3D-Raum der Mausbedienung bei der Ideenfindung deutlich überlegen ist."
-
 ---
 
 „Elemente besitzen ihre eigenen natürlichen Paare. Wenn man den Kartenstapel mischt und anordnet, offenbart sich die vollkommene Ordnung der Natur.“ 🃏

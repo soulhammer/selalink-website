@@ -21,7 +21,6 @@ faqs:
     answer: "Sí. Al realizar un seguimiento del tiempo personal o escribir un diario de trabajo, se aplica perfectamente eliminando emociones de culpa y registrando solo datos reales de ejecución con marca de tiempo."
   - question: "¿Cómo puedo diferenciar fácilmente entre sentimientos subjetivos y hechos objetivos?"
     answer: "Aplique el criterio: '¿Es esta una acción concreta o una métrica que la lente de una cámara de video podría capturar?' Simplemente omita cualquier pensamiento o evaluación que no pueda grabarse en video."
-
 ---
 
 "Cuando observamos la conducta de los niños tal como es, solo entonces se revela el gran potencial que habita en ellos." 📝

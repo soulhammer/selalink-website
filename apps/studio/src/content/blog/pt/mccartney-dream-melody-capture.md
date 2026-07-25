@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "O que devo fazer se na maioria das manhãs não me lembrar dos meus sonhos?"
     answer: "Não tem problema se você não se lembrar do sonho. Enquanto o cérebro estiver sonolento, escreva aleatoriamente pelo menos 3 linhas do seu 'fluxo de consciência' em uma página em branco. Essa prática desliga a autocensura e aquece a mente subconsciente."
-
 ---
 
 "A melodia tocava perfeitamente no meu sonho. Se eu não tivesse me levantado imediatamente para tocá-la no piano, ela teria evaporado para sempre como névoa matinal." 🎹

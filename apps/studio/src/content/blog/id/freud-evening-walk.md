@@ -21,7 +21,6 @@ faqs:
     answer: "Ya. Stimulasi bilateral terjadi kapan saja sepanjang hari. Namun, jika berjalan-jalan di pagi hari meningkatkan gairah untuk membangunkan otak, jalan malam Freud secara unik membersihkan hambatan mental dan ketegangan emosional yang terakumulasi dari tuntutan kerja sepanjang hari."
   - question: "Bisakah saya mengetik jurnal alam bawah sadar di aplikasi ponsel pintar atau papan ketik alih-alih menulis dengan tangan?"
     answer: "Mengetik di perangkat digital memaksa otak kembali ke mode pemrosesan logis yang terstruktur. Sebaliknya, menekan pena ke atas kertas fisik melibatkan kontrol motorik halus di ujung jari, menstimulasi Reticular Activating System (RAS) otak secara jauh lebih mendalam. Tulisan tangan menciptakan lingkungan fisiologis yang jauh lebih unggul untuk memancing pemikiran bawah sadar secara intuitif."
-
 ---
 
 "Pikiran itu seperti gunung es, ia mengapung dengan sepertujuh bagiannya di atas air." 🧠

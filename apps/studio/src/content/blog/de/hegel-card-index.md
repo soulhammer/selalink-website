@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut. Sie können ein Karteikartensystem mit digitalen Tools wie Notion, Obsidian oder Notiz-Apps umsetzen. Insbesondere die Nutzung bidirektionaler Links (Backlinks) spiegelt Hegels Denkverknüpfungen wider."
   - question: "Warum sind kurze Karteikarten effektiver als das Schreiben langer Texte in Notizbücher?"
     answer: "Lange Texte binden Gedanken an einen linearen Kontext und rauben ihnen die Unabhängigkeit. Karteikarten funktionieren hingegen als modulare Bausteine und bieten eine hohe 'kognitive Flexibilität' zur freien Neukombination."
-
 ---
 
 "Nur Gedanken, die im äußeren Raum aufgezeichnet und geordnet werden, können sich zu echter dialektischer Weisheit entwickeln." 🗃️

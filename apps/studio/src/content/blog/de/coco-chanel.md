@@ -21,7 +21,6 @@ faqs:
     answer: "Isolieren Sie das eine Hauptziel und fragen Sie: 'Bleibt das gelöste Problem auch ohne diesen Abschnitt verständlich?' Wenn ja, handelt es sich um Beiwerk. Das Streichen erhöht die Klarheit."
   - question: "Kann Chanels Methode des Zurechtschneidens auf den persönlichen Arbeitsplatz angewendet werden?"
     answer: "Ja, es bietet spürbare kognitive Vorteile. Entfernen Sie beim Aufräumen von Schreibtisch oder Kleiderschrank Gegenstände, die Sie 'vielleicht irgendwann' brauchen, und behalten Sie nur die 20 % der Dinge, die Sie täglich nutzen. Das reduziert kognitive Überlastung."
-
 ---
 
 "Einfachheit ist der Grundschlüssel jeder echten Eleganz." ✂️

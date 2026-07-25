@@ -21,7 +21,6 @@ faqs:
     answer: "Parler fort en public étant inadapté, adoptez un « sub-chuchotement » à peine audible, en articulant les mots avec vos lèvres et votre langue. Le seul fait de mouvoir les organes de la parole stimule le cortex moteur par rapport à la lecture silencieuse et permet de repérer les erreurs."
   - question: "La récitation est-elle efficace pour des projets professionnels ou rapports non littéraires ?"
     answer: "Oui, extrêmement efficace. La syntaxe lourde, les jonctions maladroites et les phrases à rallonge dans les rapports provoquent immédiatement des trébuchements lors de la récitation. Réciter sert de filtre de précision pour polir la lisibilité et la persuasion."
-
 ---
 
 « Si le rythme musical d'une phrase n'est pas accompli, la pensée elle-même n'est pas encore d'aplomb. Une bonne prose doit couler avec cadence et harmonie comme une poésie. » ✍️

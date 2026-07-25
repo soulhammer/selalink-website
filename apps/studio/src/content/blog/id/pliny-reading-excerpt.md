@@ -21,7 +21,6 @@ faqs:
     answer: "Menulis secara langsung dengan pena digital di tablet memberikan efek yang sangat mirip dengan pena fisik. Namun, mengetik dengan papan ketik adalah tindakan masukan otomatis yang hampir tidak disertai pemrosesan kognitif. Kecepatan tulisan tangan yang lebih lambat memaksa otak untuk merangkum dan mencerna informasi, secara signifikan meningkatkan tingkat retensi ingatan."
   - question: "Apakah ada cara untuk mengatur catatan kutipan agar tidak hilang saat jumlahnya bertambah banyak?"
     answer: "Kami menyarankan metode Buku Catatan Umum (Commonplace Book) dari John Locke. Buat halaman indeks di bagian paling depan atau belakang buku catatan Anda dan catat nomor halaman berdasarkan kategori pengetahuan atau abjad. Alternatifnya, memindai buku catatan tulisan tangan sebulan sekali dan mengategorikannya dengan tag digital juga merupakan kompromi yang baik."
-
 ---
 
 "Tidak ada buku yang begitu buruk sehingga tidak memiliki manfaat, dan membaca tanpa mencatat tidak ada nilainya." ✍️

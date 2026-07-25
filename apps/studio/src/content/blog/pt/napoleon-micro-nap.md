@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Napoleão realmente dava cochilos durante as batalhas?"
     answer: "Sim, de acordo com relatos históricos, Napoleão possuía a incrível capacidade de adormecer instantaneamente mesmo em campos de batalha com tiros de artilharia ecoando, acordando exatamente 15 minutos depois com a mente totalmente limpa para emitir ordens táticas."
-
 ---
 
 Mesmo em meio à extrema tensão de um campo de batalha ecoando tiros de artilharia, havia um imperador que redefinia completamente sua energia com um breve sono de 15 minutos: o lendário estrategista militar e imperador da França, Napoleão Bonaparte (1769–1821). 💤

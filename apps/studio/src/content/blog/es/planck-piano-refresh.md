@@ -21,7 +21,6 @@ faqs:
     answer: "No se preocupe por la perfección melódica o las disonancias. Concéntrese en el peso de las teclas y la resonancia del sonido. Esto relaja y reinicia la red de atención del cerebro."
   - question: "¿Se puede lograr un reinicio cognitivo con otros instrumentos que no sean el piano?"
     answer: "Sí, cualquier instrumento de cuerda o teclado (como la guitarra o el ukulele) que requiera retroalimentación táctil y resonancia logrará el mismo efecto de cambio de atención."
-
 ---
 
 "Solo detengo la tensión de mi cerebro cuando coloco mis dedos sobre las teclas del piano y me entrego a las disonancias libres." Max Planck, el legendario físico alemán que formuló la teoría cuántica y descubrió la constante de Planck (h). Reconstruir la física del universo trajo una gran sobrecarga matemática a su cerebro. Su refugio ante el agotamiento mental era el piano. Un virtuoso del piano, solía tocar dúos con su amigo y colega Albert Einstein. Cada día, tras un trabajo denso, cerraba sus partituras e improvisaba libremente. Este artículo examina el mecanismo neurocientífico detrás del cambio cognitivo artístico.

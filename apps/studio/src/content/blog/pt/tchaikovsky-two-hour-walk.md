@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Por que Tchaikovsky respeitava estritamente duas horas de caminhada?"
     answer: "Isso o ajudava a controlar a ansiedade psicológica por meio de uma disciplina rígida, aumentar o fluxo sanguíneo cerebral com a caminhada e relaxar seu sistema nervoso autônomo para que as melodias fluíssem naturalmente."
-
 ---
 
 Pyotr Ilyich Tchaikovsky (1840–1893) foi um mestre da música romântica russa que compôs melodias imortais como 'O Lago dos Cisnes', 'O Quebra-Nozes' e a 'Sinfonia Patética'. Lutando constantemente contra a neurastenia e a ansiedade, a força impulsora que sustentou sua vida foi seu hábito diário de caminhar exatamente duas horas. 🚶‍♂️

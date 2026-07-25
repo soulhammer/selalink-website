@@ -21,7 +21,6 @@ faqs:
     answer: "Meskipun pemandangan alam paling efektif untuk restorasi perhatian, berjalan melintasi gang-gang kota yang unik atau mengamati arsitektur menstimulasi korteks visual dengan sangat baik, menjadikannya alternatif yang luar biasa."
   - question: "Bisakah saya mengganti rutinitas berjalan ini dengan lari cepat atau treadmill?"
     answer: "Lari cepat atau latihan treadmill sangat bagus untuk kondisi kardiovaskular, tetapi tidak memberikan ruang mental yang dibutuhkan untuk pengamatan dan perenungan. Untuk memicu ideasi kreatif, 'jalan eksplorasi' berkecepatan stabil adalah yang paling optimal."
-
 ---
 
 "Alam adalah guru saya seumur hidup. Garis lurus adalah milik manusia, garis lengkung adalah milik Tuhan." ⛪

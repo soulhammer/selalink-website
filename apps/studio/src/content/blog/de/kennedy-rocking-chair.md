@@ -21,7 +21,6 @@ faqs:
     answer: "Ja! Das Lösen der Neigesperre Ihres Bürostuhls und das sanfte Wippen des Oberkörpers reicht aus, um das vestibuläre System zu stimulieren, statische Belastung zu verhindern und den Parasympathikus zu aktivieren."
   - question: "Welches Tempo oder welcher Rhythmus eignet sich am besten zur Entspannung des Nervensystems?"
     answer: "Der beste Rhythmus zur Entspannung liegt zwischen 0,5 Hz und 1 Hz. Eine Schaukelbewegung alle 1,5 bis 2 Sekunden erzeugt eine sanfte Woge, die das Nervensystem beruhigt."
-
 ---
 
 "Inmitten starker körperlicher Schmerzen und nationaler Krisen brauche ich einen Ort, der meinen Körper und mein Nervensystem beruhigt. Das sanfte Wiegen des Schaukelstuhls lindert meine Rückenschmerzen und bewahrt die Besonnenheit im Oval Office." 🪑

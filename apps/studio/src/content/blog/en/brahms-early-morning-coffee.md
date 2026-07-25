@@ -21,7 +21,6 @@ faqs:
     answer: "Brahms was a perfectionist who believed coffee strength directly impacted his morning state of alertness. The fine motor activity of grinding beans and manually brewing acted as a powerful mental anchor, focusing his brain's attention for the day ahead."
   - question: "How specifically does morning walking contribute to brain stimulation and creativity?"
     answer: "Rhythmic foot strikes during walking send pressure waves that physically boost cerebral blood flow. Furthermore, aerobic exertion stimulates BDNF release, enhancing synaptic plasticity between neurons and maximizing higher-order information structuring and creative problem-solving."
-
 ---
 
 "The rich aroma of morning coffee and the fresh air of the morning woods finally awaken the musical ideas in my head." ☕

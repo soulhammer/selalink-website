@@ -21,7 +21,6 @@ faqs:
     answer: "Sich auf die Tagesform oder Motivation zu verlassen, führt zu unregelmäßigen Leistungen. Eine feste Mindestmenge zwingt das Gehirn zur kontinuierlichen Arbeit und schützt vor kreativen Tiefs."
   - question: "Muss man Stephen Kings persönliche Reize wie Hardrock-Musik oder Vitamine eins zu eins kopieren?"
     answer: "Nein. Entscheidend ist die 'Konsequenz', nicht die Art des Reizes. Wählen Sie für Sie angenehme Reize (z. B. einen Tee trinken, weiße Ohrgeräusche nutzen oder eine Lampe einschalten) und nutzen Sie diese vor der Arbeit für denselben Effekt."
-
 ---
 
 "Ich sitze jeden Morgen zur selben Zeit am selben Tisch, damit meine Muse genau weiß, wo sie mich findet. Warte nicht auf Inspiration; sie erscheint erst, wenn sie sieht, dass du an der Arbeit sitzt." ✍️

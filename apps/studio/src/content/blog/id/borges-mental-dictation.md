@@ -21,7 +21,6 @@ faqs:
     answer: "Ini adalah respons neurologis yang sangat alami. Daripada mencoba gambar terperinci yang jelas dengan segera, mulailah dengan model abstrak yang sangat disederhanakan—menggambar 2 atau 3 kotak atau lingkaran dasar yang dihubungkan oleh garis. Seiring berkembangnya latihan, resolusi visuospasial otak akan meningkat."
   - question: "Apakah kebiasaan visualisasi 3D dengan mata tertutup benar-benar membantu keterampilan dunia nyata seperti perencanaan atau koding?"
     answer: "Ya, sangat membantu. Arsitek sistem pakar dan perencana strategis memodelkan alur data organik dan ketergantungan komponen dalam ruang mental sebelum menulis kode atau menyusun dokumen. Pelatihan visualisasi mental secara drastis meningkatkan memori kerja prefrontal, memungkinkan Anda mempertahankan dan merakit kerangka kerja logis yang rumit tanpa kesulitan."
-
 ---
 
 "Ketika saya kehilangan penglihatan, baru saat itulah saya mulai menjelajahi dunia batin dan labirin yang sebenarnya." 📚

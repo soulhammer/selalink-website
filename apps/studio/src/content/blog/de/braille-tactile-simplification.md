@@ -21,7 +21,6 @@ faqs:
     answer: "Nutzen Sie eine zweistufige Strategie: Archivieren Sie sekundäre Informationen in einem 'Anhang' oder Backup-Ordner, während Sie im Hauptarbeitsbereich nur die 3 bis 5 Kerneinheiten anzeigen, was kognitive Sicherheit gibt."
   - question: "Kann dieses Framework zur Vereinfachung und zum Chunking auf Team-Arbeitsabläufe angewendet werden?"
     answer: "Ja, ungemein. Die Einführung einer '3–5er-Regel' als Teamstandard – wie die Begrenzung von Meeting-Agenden auf maximal 3 Punkte oder die Verschlankung von Genehmigungswegen auf unter 3 Stufen – reduziert die Kommunikationsermüdung und beschleunigt die Ausführung."
-
 ---
 
 "Ein Zeichen, das nicht mit einer einzigen Berührung ohne Bewegung der Fingerkuppe erfasst werden kann, ist kein echter Buchstabe." ⠃

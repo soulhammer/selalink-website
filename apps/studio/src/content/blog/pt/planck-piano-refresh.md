@@ -21,7 +21,6 @@ faqs:
     answer: "Não se preocupe com a perfeição melódica ou dissonâncias. Foque no peso das teclas e na ressonância do som para relaxar e reiniciar a rede de atenção do cérebro."
   - question: "É possível obter o reinício cognitivo com outros instrumentos além do piano?"
     answer: "Sim, qualquer instrumento de cordas ou teclado (como violão ou ukulelê) que exija sensibilidade tátil e ressonância proporciona o mesmo efeito de mudança de atenção."
-
 ---
 
 "Só interrompo a tensão do meu cérebro quando coloco meus dedos nas teclas do piano e me entrego às dissonâncias livres." Max Planck, o físico alemão que formulou a teoria quântica e descobriu a constante de Planck (h). Reescrever as leis da física trazia grande fadiga mental. Seu refúgio era o piano. Pianista talentoso, costumava tocar em dupla com seu amigo Albert Einstein. Após o trabalho, fechava as partituras e improvisava. Este artigo analisa o mecanismo neurocientífico do alternância cognitiva.

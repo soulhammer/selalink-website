@@ -21,7 +21,6 @@ faqs:
     answer: "Sim! Não se trata de receitas complexas. Simplesmente passar um café ou fritar um ovo com cuidado oferece todos os benefícios sensoriais."
   - question: "O ato físico de cozinhar realmente reduz o estresse?"
     answer: "De acordo com pesquisas em terapia ocupacional, manipular alimentos com as mãos para criar um prato suprime sinais neurais depressivos e melhora a autoeficácia."
-
 ---
 
 Su Dongpo (Su Shi, 1037–1101), grande poeta, ensaísta e estadista da Dinastia Song do Norte. Apesar dos repetidos exílios em regiões remotas devido a disputas políticas, ele venceu o desespero através do seu otimismo poético.

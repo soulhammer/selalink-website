@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Gibt es im digitalen Zeitalter einen Grund, Papiernotizbücher zu nutzen?"
     answer: "Ja. Neurowissenschaftlich gesehen bietet das Tippen auf Tastaturen eine geringere taktile Stimulation. Das Schreiben mit der Hand aktiviert den Hippocampus hingegen direkt. Zudem befreit Papier von starren Eingabeformen und erlaubt die sofortige Skizzierung freier Formen."
-
 ---
 
 "Unaufgezeichnetes Wissen ist wie ein Schloss auf Sand, es verweht und gerät leicht in Vergessenheit." 📓

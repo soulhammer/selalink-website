@@ -21,7 +21,6 @@ faqs:
     answer: "Kognitiv gesehen sind 3 Jahre der ideale Zeitraum, um sich ohne Überforderung in ein fremdes Fachgebiet einzuarbeiten. Dieser 3-Jahres-Rhythmus durchbricht intellektuelle Trägheit, fördert die synaptische Plastizität und ermöglicht fächerübergreifende Erkenntnisse."
   - question: "Wenn ein Zeitraum von 3 Jahren zu lang erscheint, wie sollte man beginnen?"
     answer: "Neben seinen 3-jährigen Studien führte Drucker 3-monatige Sommer-Sprints durch, in denen er sich einem Spezialthema widmete (z. B. dem Gesamtwerk eines Autors). Das Beginnen mit einem 3-monatigen Fokus baut Schwung auf, bevor man sich an ein 3-Jahres-Projekt wagt."
-
 ---
 
 "Die erste Regel der Selbstführung ist das kontinuierliche Erlernen neuer Dinge." 📚

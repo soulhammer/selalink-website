@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak. Aplikasi smartphone memancarkan cahaya biru dan notifikasi yang secara terus-menerus merekrut jaringan perhatian prefrontal. Menggunakan kartu kertas analog fisik memungkinkan korteks somatosensori terlibat sambil menonaktifkan filter eksekutif prefrontal."
   - question: "Apakah gagal menyelesaikan atau memenangkan permainan solitaire menyebabkan stres tambahan?"
     answer: "Tujuannya bukanlah kemenangan kompetitif, melainkan menonaktifkan filter eksekutif prefrontal melalui pencocokan pola terstruktur. Bahkan jika susunan kartu macet, tindakan fisik memindahkan kartu sesuai aturan visual telah menyelesaikan reset kognitif. Abaikan menang atau kalah; cukup kocok ulang kartu."
-
 ---
 
 "Tugas utama seorang pemimpin adalah membuat keputusan yang tepat, dan untuk itu otak harus menjauh dari kebisingan menuju ketenangan mutlak." 🃏

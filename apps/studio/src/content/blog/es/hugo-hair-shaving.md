@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, totalmente. A finales de 1830, ante una fecha límite estricta para *Nuestra Señora de París*, Hugo se afeitó la mitad de la cabeza y la barba e hizo guardar su ropa de salir para aislarse en casa hasta terminar la novela."
   - question: "¿Qué métodos modernos de aislamiento y precompromiso puedo usar sin afeitarme el cabello?"
     answer: "Guardar su teléfono en una caja con temporizador durante sesiones de trabajo o usar bloqueadores de sitios web (o perfiles de navegador dedicados) para restringir redes sociales son estrategias modernas de precompromiso muy efectivas."
-
 ---
 
 "When you willingly imprison yourself, your imagination finally discovers absolute freedom." 🪒

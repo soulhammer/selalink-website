@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Es perjudicial para la salud comer el mismo almuerzo todos los días? ¿Cómo podemos modernizar el hábito de Schulz?"
     answer: "Schulz comía hamburguesas tradicionales, pero hoy en día se puede sustituir con una rotación de 3 loncheras equilibradas o ensaladas por suscripción. El objetivo principal es eliminar 'el proceso de elegir qué comer'. Fijar 2 o 3 opciones de menú saludables preserva tanto la salud nutricional como la energía cognitiva."
-
 ---
 
 "Me siento en mi escritorio a las 9 de la mañana todos los días y tomo mi pluma. Y para el almuerzo, siempre como una hamburguesa. Simplificar mi vida diaria es el secreto para mantener mi creatividad." 🍔

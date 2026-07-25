@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Un exercice matinal intense ne laisse-t-il pas fatigué pendant la matinée ?"
     answer: "Il est crucial de moduler l'intensité de l'exercice. Plutôt que des entraînements épuisants, la clé réside dans de courtes séances de 15 à 20 minutes au poids du corps qui élèvent temporairement le rythme cardiaque et la température corporelle pour stimuler la circulation."
-
 ---
 
 « Le travail physique est un devoir et un salut pour ceux qui accomplissent un travail mental. Un esprit qui ne meut pas le corps est voué à la rouille. » 🌾

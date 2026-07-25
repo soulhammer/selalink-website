@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Why did Tchaikovsky strictly observe a two-hour walk?"
     answer: "It helped him control psychological anxiety through strict discipline, increase cerebral blood flow through continuous two-hour walking, and relax his autonomic nervous system so that musical melodies could flow naturally."
-
 ---
 
 Pyotr Ilyich Tchaikovsky (1840–1893) was a master of Russian Romantic music who composed timeless melodies such as 'Swan Lake', 'The Nutcracker', and the 'Pathétique Symphony'. Constantly struggling with neurasthenia and emotional anxiety, the core driving force that sustained his life and unlocked brilliant musical ideas was his daily habit of walking for precisely two hours. 🚶‍♂️

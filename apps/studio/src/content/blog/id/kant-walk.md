@@ -21,7 +21,6 @@ faqs:
     answer: "Untuk mempertahankan penelitian filosofis abstrak tingkat tinggi selama berdekade-dekade, Kant mempertahankan rutinitas harian yang menstabilkan sistem saraf otonomnya, menjaga ritme sirkadian."
   - question: "Apakah perlu menahan diri dari berbicara dan bernapas secara eksklusif melalui hidung saat berjalan-jalan seperti Kant?"
     answer: "Ya! Pernapasan hidung meningkatkan efisiensi pengiriman oksigen ke otak dan menstimulasi pelepasan nitrit oksida (NO), menenangkan sistem saraf. Selain itu, menahan diri dari berbicara mengurangi gangguan pendengaran dan perhatian, memungkinkan Default Mode Network (DMN) menstabilkan dan menyusun pemikiran."
-
 ---
 
 "Semua pengetahuan kita dimulai dengan indera, kemudian berlanjut ke pemahaman, dan berakhir dengan alasan... Jalan-jalan tenang jam 3:30 sore menenangkan otak dan membawa kejernihan pada deduksi abstrak." 🚶‍♂️

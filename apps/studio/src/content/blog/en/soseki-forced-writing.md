@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "What should I do when my mind goes blank and I cannot focus at all?"
     answer: "Instead of writing nothing or picking up your smartphone, stay seated at your desk, hold your pen, and start scribbling or doodling."
-
 ---
 
 "Writing is not an outburst of inspiration, but honest labor like a farmer plowing a field at a fixed hour every day." 🖋️

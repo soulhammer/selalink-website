@@ -21,7 +21,6 @@ faqs:
     answer: "Of course. In fact, cutting randomly without a design is more effective in reducing DMN activity. The brain does not care at all whether the completed pattern looks strange or crooked. What matters is not the precision of the shape, but the delicate movement of fingertip muscles and the auditory stimulation itself. Since this is a fail-safe, value-free creative activity, enjoy cutting comfortably."
   - question: "Does generating paper scraps after cutting disrupt the relaxation during cleanup?"
     answer: "If you are concerned about generating scraps, try placing a small trash bin or tray on your desk from the start and cutting over it. Setting it up so cut paper pieces naturally gather in one place allows you to finish with a quick physical action (10 seconds) of picking them up and tossing them into the trash bin after the routine, preserving your emotional state of relaxation."
-
 ---
 
 "My scissor-work is the first chapter of a fairy tale. The moment the scissors touch the paper, my imagination takes flight." ✂️

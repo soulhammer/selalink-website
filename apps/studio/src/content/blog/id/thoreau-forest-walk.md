@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Bagaimana Thoreau membuat catatan saat berjalan selama 4 jam?"
     answer: "Dia berjalan dengan membawa buku catatan kulit buatan tangan yang kecil dan pensil di saku mantelnya. Ketika sebuah gagasan muncul, dia berhenti, berdiri di bawah pohon, dan segera mencatat detail tanaman atau kalimat yang terlintas."
-
 ---
 
 "Saya berjalan untuk berpikir atau menulis. Ketika kaki saya mulai bergerak, pikiran saya pun mulai mengalir." 🚶‍♂️

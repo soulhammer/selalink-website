@@ -21,7 +21,6 @@ faqs:
     answer: "Cualquier actividad rítmica que requiera precisión fina funciona muy bien: caligrafía con pluma, tejer a dos agujas o crochet, la ceremonia del té, montar puzles o Lego, y tocar tambores de dedos, desencadenando serotonina."
   - question: "¿Qué debo hacer si mi mente se distrae continuamente durante las actividades táctiles?"
     answer: "No se juzgue por distraerse. Simplemente note el pensamiento de forma imparcial y redirija suavemente su atención a la 'textura en sus yemas y el ritmo del movimiento'. Redirigir el enfoque fortalece la regulación prefrontal."
-
 ---
 
 "En el girar de la rueca, veo la paz eterna de la mente y el orden del universo." 🌀

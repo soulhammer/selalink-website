@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, its neurophysiological mechanisms are well documented. Maintaining a recumbent posture post-waking buffers against abrupt cortisol spikes, stabilizing autonomic nervous tone. Preserving 8–12 Hz Alpha Waves disengages sensory motor noise, dramatically boosting prefrontal intuitive deduction and logical clarity."
   - question: "What if I accidentally fall back asleep while meditating in bed and miss my schedule?"
     answer: "To prevent falling back asleep, elevate your pillows slightly to recline at a 30-degree angle, or keep your eyes open while softly gazing at a spot on the ceiling. Additionally, setting a gentle, non-jarring alarm timed for exactly 8 to 10 minutes creates a reliable safety barrier."
-
 ---
 
 "I think, therefore I am (Cogito, ergo sum). Ultimate mental clarity is born when the physical body rests in absolute stillness and the mind drifts freely." 🛏️

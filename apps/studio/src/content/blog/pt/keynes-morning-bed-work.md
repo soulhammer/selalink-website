@@ -21,7 +21,6 @@ faqs:
     answer: "Ficar deitado em posição horizontal inclinando o pescoço gera dor cervical grave. Para proteger a coluna, apoie o tronco a 45 graus ou mais com travesseiros firmes e limite a sessão a 20 ou 30 minutos para equilibrar a saúde com a produtividade."
   - question: "Posso checar e-mails ou mensagens por apenas 5 minutos logo após acordar?"
     answer: "Não. Expor seu cérebro a demandas externas fragmentadas, mesmo por 5 minutos, dissipa imediatamente a energia gerada pela Resposta de Despertar do Cortisol (CAR). Para preservar sua capacidade pré-frontal, mantenha o celular desligado até concluir sua tarefa principal."
-
 ---
 
 "Minhas melhores teorias econômicas foram tecidas antes do sol nascer, apoiado em travesseiros debaixo de um cobertor aquecido." 🛏️

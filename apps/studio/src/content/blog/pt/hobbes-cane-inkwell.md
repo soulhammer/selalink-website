@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, com certeza. Seu biógrafo e amigo pessoal John Aubrey registrou em *Breves Vidas* que Hobbes instalou um tinteiro no castão de sua bengala e levava papel nos bolsos para anotar pensamentos durante suas caminhadas."
   - question: "A gravação de voz ou a digitação é mais eficaz para anotações em movimento?"
     answer: "A gravação de voz é muito superior ao caminhar porque exige mínima atenção visual e motora, maximizando segurança e rapidez. Digitar exige coordenação fina e foco visual. Use notas de voz enquanto estiver em movimento."
-
 ---
 
 "Em suas caminhadas ele andava muito e meditava... e sua bengala tinha um tinteiro no castão." 🦯

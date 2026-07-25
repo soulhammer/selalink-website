@@ -21,7 +21,6 @@ faqs:
     answer: "A atividade física como tocar a terra e capinar atua como um sinal perfeito para permitir que seu córtex pré-frontal descanse da 'atenção dirigida'. No entanto, se não tiver um jardim, caminhar por uma trilha florestal e ouvir o vento oferece idênticos benefícios de relaxamento neurológico."
   - question: "Como posso substituir isso se eu morar em um apartamento ou área urbana sem jardim ou terra?"
     answer: "Você pode substituir facilmente cuidando de pequenos vasos de interior em uma varanda, replantando ou podando folhas secas. Caminhar por parques urbanos focando no aroma das folhas e da terra também é um excelente método de contemplação."
-
 ---
 
 "Cultivar um jardim é o ritual analógico mais sagrado para ouvir novamente a grande voz da vida e acalmar a turbulência interior." 🌿

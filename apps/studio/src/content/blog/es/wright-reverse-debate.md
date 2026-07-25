@@ -21,7 +21,6 @@ faqs:
     answer: "Por supuesto. Escribe 'Mi Postura' en papel y asume el papel del 'Abogado del Diablo', redactando un informe crítico como si fueras tu peor competidor o tu crítico más severo."
   - question: "¿Cómo podemos realizar un debate inverso sin herir los sentimientos de la otra persona?"
     answer: "Antes de empezar, acuerden explícitamente la regla: 'Estamos aplicando el Método de Debate Inverso de los hermanos Wright'. Aclarar que se trata de un ejercicio estructurado y no de un ataque personal evita roces emocionales."
-
 ---
 
 "Debatimos sin cesar. Y al invertir por completo la lógica del otro, finalmente alcanzamos la respuesta." ✈️

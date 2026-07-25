@@ -21,7 +21,6 @@ faqs:
     answer: "NÃ£o. O essencial Ã© reestruturar as ideias com suas prÃ³prias palavras no idioma nativo. Escrever uma frase em uma lÃ­ngua que estÃ¡ aprendendo traz estÃ­mulo cognitivo extra."
   - question: "O que fazer se eu me cansar de escrever o diÃ¡rio todas as noites?"
     answer: "Diminua a pressÃ£o trocando textos longos por um resumo simples de apenas 3 palavras-chave."
-
 ---
 
 "Quando erros e tentativas diÃ¡rias sÃ£o revisados objetivamente, a incerteza se transforma em invenÃ§Ã£o." ð§ª

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Como Thoreau fazia anotações enquanto caminhava por 4 horas?"
     answer: "Ele caminhava com um pequeno caderno de couro feito à mão e um lápis no bolso do casaco. Quando surgia um pensamento, ele parava sob uma árvore e registrava imediatamente os detalhes das plantas ou frases espontâneas."
-
 ---
 
 "Caminho para pensar ou escrever. Quando minhas pernas começam a se mover, meus pensamentos finalmente começam a fluir." 🚶‍♂️

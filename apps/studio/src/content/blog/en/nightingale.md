@@ -21,7 +21,6 @@ faqs:
     answer: "Yes. When the brain controls micro-environmental variables (lighting, cleanliness) and transcribes the results visually, it releases dopamine in the prefrontal cortex, enhancing self-efficacy and soothing anxiety."
   - question: "Does this principle apply to digital environment cleanup like emails or chat apps?"
     answer: "Yes. Cleaning up 3 temporary desktop files or writing down your target remaining unread emails (e.g., 'Target: 5 left') in your physical notepad exerts the exact same cortical control benefits."
-
 ---
 
 "Unsanitary environments and emotional nursing lacking empirical data drive patients to death." ð¯ï¸

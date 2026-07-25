@@ -21,7 +21,6 @@ faqs:
     answer: "Panggilan suara dengan teman dekat atau berpartisipasi dalam permainan komunitas online kasual berfungsi sebagai pengganti yang hebat. Persyaratan utamanya adalah menerima umpan balik sosial yang hangat tanpa ketegangan kognitif. Hindari menggeser media sosial secara pasif."
   - question: "Apakah boleh mengganti catur dengan permainan papan lain, kartu, atau permainan kasual jika saya tidak bisa bermain catur?"
     answer: "Ya, tentu saja! Hume memilih backgammon dan catur murni karena permainan tersebut populer pada abad ke-18. Permainan beraturan apa pun (permainan papan, kartu) yang memungkinkan fokus yang santai dan tawa bersama akan memberikan relaksasi kognitif yang identik."
-
 ---
 
 "Saya makan malam, bermain backgammon, berbincang, dan bersenang-senang dengan teman-teman saya; dan ketika setelah tiga atau empat jam bersenang-senang, saya kembali ke spekulasi ini, semuanya tampak begitu dingin, dipaksakan, dan konyol..." 🎱

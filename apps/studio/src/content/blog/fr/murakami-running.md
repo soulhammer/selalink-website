@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Pourquoi Haruki Murakami court-il 10 km chaque jour ?"
     answer: "Pour soutenir la concentration et l'endurance intenses requises pour la rédaction de romans, stimulant les cellules cérébrales par l'exercice tout en bâtissant une base physique solide."
-
 ---
 
 "Seul un artiste qui continue de courir peut puiser sans cesse l'eau profonde du puits de la créativité." 🏃‍♂️

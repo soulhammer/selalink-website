@@ -21,7 +21,6 @@ faqs:
     answer: "Oui. Si la distortion de l'humeur ou les sentiments de dépression s'intensifient, vous êtes peut-être tombé dans une boucle d'autocritique, alors arrêtez immédiatement. À la place, réorientez-vous vers un entraînement qui vérifie d'abord vos sensations d'ancrage corporel (earthing) en regardant la ligne de vos épaules ou la forme de vos mains plutôt que vos prunelles."
   - question: "Quel est le meilleur moment de la journée pour pratiquer l'autoréflexion dans le miroir ?"
     answer: "Une routine de 3 minutes devant le miroir de la salle de bain juste après la douche est idéale. Dans un état de dominance parasympatique où le corps est détendu, les mécanismes de défense du cerveau s'adoucissent, permettant le face-à-face avec soi-même le plus vrai et le plus confortable."
-
 ---
 
 « Le seul moyen de faire face à son soi intérieur est de fixer profondément les prunelles reflétées dans le miroir. » 🎨

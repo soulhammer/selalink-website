@@ -21,7 +21,6 @@ faqs:
     answer: "Na verdade, é até melhor. Turner preferia observar a luz atmosférica dispersa em dias nublados, com neve ou névoa do que em dias ensolarados. Em dias nublados, é possível capturar muito melhor as transições sutis de sombras criadas pela luz e pela umidade."
   - question: "Posso observar a luz solar durante o dia se for difícil acordar cedo ao amanhecer?"
     answer: "A luz solar intensa durante o dia é muito forte para a retina e pode facilmente causar danos oculares, enquanto sua temperatura de cor constante oferece menores benefícios de treinamento. A transição suave do azul fresco para o laranja quente antes do nascer do sol é a mais segura e maximiza a estimulação neuronal."
-
 ---
 
 Joseph Mallord William Turner (1775–1851), um proeminente pintor romântico britânico do século XIX conhecido como o 'Pintor da Luz' por sua capacidade de capturar as sutis mudanças na luz e na atmosfera, acordava mais cedo que os outros a cada amanhecer para observar a majestosa luz do sol e a dispersão das nuvens. Essa observação da luz do amanhecer reiniciava seu ritmo circadiano e lhe proporcionava uma profunda inspiração artística.

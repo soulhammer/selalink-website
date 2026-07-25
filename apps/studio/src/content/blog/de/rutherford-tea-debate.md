@@ -21,7 +21,6 @@ faqs:
     answer: "Ja! Trinken Sie um 16 Uhr einen Tee und tauschen Sie sich 10 Minuten online aus oder führen Sie einen Selbstdialog im Notizbuch."
   - question: "Ich habe Sorge, dass die Teezeit in reine Plauderei ausartet und Zeit verschwendet."
     answer: "Stellen Sie einen Timer auf genau 15 Minuten. Dieses Limit verhindert Zeitverschwendung und liefert frischen Sauerstoff sowie Reize."
-
 ---
 
 Ernest Rutherford (1871–1937), Nobelpreisträger für Chemie und 'Vater der Kernphysik', entdeckte den Atomkern. Was war das Geheimnis der kollaborativen Atmosphäre in seinem Labor? ☕

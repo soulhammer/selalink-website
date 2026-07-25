@@ -21,7 +21,6 @@ faqs:
     answer: "Las plumas estilográficas, plumas de inmersión o un lápiz de grafito con papel grueso son sustitutos ideales. La clave es la percepción en tiempo real de la fricción táctil y la modulación de la presión. Cualquier instrumento con retroalimentación haptíca clara ofrece los mismos beneficios."
   - question: "¿Por qué es mejor practicar esta rutina de caligrafía justo al despertar por la mañana en lugar de por la noche?"
     answer: "Al despertar, el cerebro está libre de distracciones y del estrés acumulado durante el día. Dedicar los primeros 15 minutos al control motor fino equilibra el sistema nervioso autónomo mientras activa la corteza prefrontal, estableciendo una base de calma y claridad para todo el día."
-
 ---
 
 "Mientras sostengo el pincel, muelo la tinta y trazo los caracteres, el desorden mental se disuelve y la verdadera esencia de los negocios aparece con claridad." 🖌️

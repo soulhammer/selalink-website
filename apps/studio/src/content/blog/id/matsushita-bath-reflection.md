@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah merendam tubuh di bak mandi setiap hari tidak tidak efisien bagi masyarakat modern yang sibuk?"
     answer: "Merendam tubuh di air hangat meski hanya 10 menit adalah mekanisme penataan kognitif berdefisiensi tinggi yang merelaksasi saraf simpatis dan mengaktifkan DMN otak."
-
 ---
 
 "Saat aku menyerahkan tubuhku ke dalam air hangat, rasa tanggung jawab yang berat sepanjang hari luntur, dan mata kearifan sejati pun terbuka." 🛀

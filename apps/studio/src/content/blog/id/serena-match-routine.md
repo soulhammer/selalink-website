@@ -21,7 +21,6 @@ faqs:
     answer: "Menentukan 2 hingga 3 langkah tindakan mekanis konsisten yang dapat Anda kendalikan sepenuhnya—seperti 'mengikat tali sepatu dengan urutan tertentu,' 'mengambil napas dalam 3 kali,' atau 'mengucapkan kalimat ikrar tertentu dengan lantang'—dan mengulangnya secara identik akan sangat membantu mengendalikan kecemasan."
   - question: "Bagaimana cara mengendalikan kecemasan yang datang jika saya melewatkan atau melakukan kesalahan dalam satu langkah rutinitas?"
     answer: "Anda harus menyadari bahwa rutinitas hanyalah jangkar psikologis, bukan inti dari kemampuan atau tindakan Anda. Ketika terjadi kesalahan, fleksibilitas untuk mengakui bahwa 'ini juga merupakan bagian dari situasi' akan memaksimalkan efektivitas rutinitas."
-
 ---
 
 "Sebelum setiap pertandingan, saya mengulangi urutan tindakan yang sama untuk membangun wilayah terkontrol saya sendiri di lapangan." 🎾

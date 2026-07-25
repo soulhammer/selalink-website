@@ -21,7 +21,6 @@ faqs:
     answer: "Nein. Bilder auf Bildschirmen sind flache 2D-Pixel, die das Gehirn nicht räumlich stimulieren. Sie müssen die echte Tiefe und Textur von Gegenständen mit bloßem Auge wahrnehmen, um die neuronale Plastizität anzuregen."
   - question: "Muss man nur unbewegte Gegenstände beobachten oder gehen auch bewegte Objekte?"
     answer: "Bewegte Objekte sind hervorragend geeignet! Das Analysieren von Feinbewegungen – wie die Schwanzspitze einer Katze oder die Flossenbewegung eines Fischs – schärft die selektive Aufmerksamkeit ebenso effektiv."
-
 ---
 
 "Erst wenn man still beobachtet, ohne zu urteilen oder einzugreifen, offenbart die Natur ihre tiefsten Geheimnisse." 🐒

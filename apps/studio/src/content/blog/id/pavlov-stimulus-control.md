@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Bagaimana cara membuat area pemblokiran stimulus jika saya tidak memiliki ruang kerja terpisah di rumah?"
     answer: "Meskipun tanpa ruangan fisik, memasang pembatas meja atau menggunakan headphone peredam bising sudah cukup untuk membangun tirai isolasi virtual dari gangguan luar."
-
 ---
 
 "Pelajari fakta, amati fakta, kumpulkan fakta." 🔔

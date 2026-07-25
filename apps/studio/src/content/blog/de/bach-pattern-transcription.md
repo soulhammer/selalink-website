@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Ist das Abschreiben durch Tippen ebenfalls wirksam?"
     answer: "Das Tippen besteht aus der Wiederholung einfacher Tastendruck-Bewegungen für alle Buchstaben, weshalb der Stimulationsgrad im Logikbereich des Scheitellappens im Vergleich zum analogen Handschreiben, bei dem man Buchstabenspuren von Hand zeichnet und den Stiftdruck steuert, deutlich geringer ist."
-
 ---
 
 Johann Sebastian Bach, der 'Vater der Musik', vollendete den barocken Kontrapunkt und die Harmonielehre und wurde zum Kompass für alle westlichen Musiker wie Beethoven und Mozart. In seinen komplexen, mathematischen harmonischen Verflechtungen verbirgt sich eine erstaunlich filigrane logische Struktur. Diese geniale kontrapunktische Logik entsprang nicht bloß angeborenem Talent, sondern einer lebenslangen intellektuellen Routine. ✍️

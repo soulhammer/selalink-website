@@ -21,7 +21,6 @@ faqs:
     answer: "No. Whispering or silent subvocalization fails to fully engage articulatory motor muscles and generates insufficient auditory feedback. You must articulate clearly so your voice travels through the air and returns through the ears, completing the Auditory-Motor Feedback Loop that co-activates Broca's and Wernicke's areas."
   - question: "Is it effective to record spoken thoughts using smartphone voice memos or Speech-to-Text (STT) apps while pacing?"
     answer: "Yes, this is an outstanding modern implementation of Dostoevsky's routine. Capturing your spoken thoughts via voice memos or STT apps prevents physical handwriting from interrupting your walking and vocal flow, lowering cognitive friction and maximizing creative dictation."
-
 ---
 
 "A sentence only becomes true when it leaves the mouth and rings in the ear." 🗣️

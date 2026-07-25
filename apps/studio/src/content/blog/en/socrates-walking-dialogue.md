@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Does walking on an indoor treadmill produce the same effect?"
     answer: "While the aerobic blood flow increase is similar, visual exploration of outdoor nature provides visuospatial sensory stimulation and lowers cortisol levels much more effectively when walking in outdoor parks or nature."
-
 ---
 
 Socrates (c. 470–399 BC) was the sage of ancient Athens who laid the foundation for Western philosophy and taught humanity to constantly reflect on its own ignorance. Numerous records left by Plato and Xenophon describe his unique daily habit. 👣

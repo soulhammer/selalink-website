@@ -21,7 +21,6 @@ faqs:
     answer: "Com certeza. Na verdade, cortar aleatoriamente sem um desenho é mais eficaz para reduzir a atividade do DMN. O cérebro não se importa minimamente se o padrão concluído parecer estranho ou torto. O que importa não é a precisão da forma, mas o movimento delicado dos músculos das pontas dos dedos e a própria estimulação auditiva. Sendo esta uma atividade criativa sem risco de falha e livre de avaliações, desfrute do corte com tranquilidade."
   - question: "A geração de resíduos de papel após o corte não prejudica o relaxamento durante a limpeza?"
     answer: "Se a geração de resíduos o preocupa, tente colocar uma pequena lixeira ou bandeja sobre a mesa desde o início e fazer os cortes sobre ela. Configurar para que os pedaços de papel cortados se ajuntem naturalmente em um só lugar permite concluir com uma ação física rápida (10 segundos) de os recolher e jogar na lixeira após a rotina, sem prejudicar o seu estado de relaxamento emocional."
-
 ---
 
 "O meu trabalho de tesoura é o primeiro capítulo de um conto de fadas. No momento em que a tesoura toca o papel, a minha imaginação ganha asas." ✂️

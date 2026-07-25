@@ -21,7 +21,6 @@ faqs:
     answer: "Repetitive movement performed at a constant speed stimulates the brain's serotonin system, suppressing excessive threat responses in the amygdala and restoring rational executive control in the prefrontal cortex."
   - question: "How can I replicate this routine in modern daily life if I don't own a mortar and pestle?"
     answer: "Rotating a manual hand-drip coffee grinder at a constant speed, gently crushing tea leaves, or rolling palms together at a steady rhythm delivers identical serotonin-activating benefits. The key lies in maintaining a consistent tempo."
-
 ---
 
 "Human life is like carrying a heavy burden down a long road. Do not rush. Grinding herbs with a pestle each morning calms my breath and instills the patience needed to govern the realm." 🍵

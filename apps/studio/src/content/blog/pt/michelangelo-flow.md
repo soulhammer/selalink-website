@@ -21,7 +21,6 @@ faqs:
     answer: "Porque ele se recusava a interromper seu delicado estado de fluxo. Ao eliminar transições diárias (trocar de roupa, tomar banho, dormir muito), canalizou o fluxo contínuo de inspiração diretamente para suas esculturas."
   - question: "Quais são as dicas práticas para reduzir a fadiga de decisão no dia a dia moderno?"
     answer: "Predefina escolhas secundárias como roupas e refeições por meio de uma rotina fixa (como Steve Jobs) e elimine distrações ao redor da sua mesa para evitar o desperdício de energia cognitiva."
-
 ---
 
 A Pietà, o David e o teto da Capela Sistina no Vaticano — obras-primas imortais da história da arte criadas pelo gênio escultor do Renascimento Michelangelo Buonarroti (1475–1564). Por trás dessas obras monumentais existia um hábito obsessivo de hiperfoco (Flow). 🏛️

@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely. Contemporary biographer and personal friend John Aubrey recorded in *Brief Lives* that Hobbes fitted an inkhorn into the head of his walking stick and carried pocket paper, allowing him to write down thoughts whenever he walked outdoors."
   - question: "Is voice recording or typing text more effective for immediate mobile note-taking?"
     answer: "Voice recording is far superior during walking because it requires minimal visual-motor attention, maximizing safety and recording speed. Typing requires fine finger coordination and visual focus, inducing cognitive interference. Use voice notes while moving."
-
 ---
 
 "In his walk he walked much and mused... and his cane had an inkhorn at the head of it." 🦯

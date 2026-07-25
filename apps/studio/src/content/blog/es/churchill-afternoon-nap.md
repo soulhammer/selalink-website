@@ -21,7 +21,6 @@ faqs:
     answer: "La siesta de 1,5 horas de Churchill compensaba un sueño nocturno reducido (4-5 horas) cubriendo un ciclo completo de 90 minutos con fases NREM y REM. En cambio, una siesta corta moderna de 20 minutos preserva el sueño nocturno normal de 7 horas, manteniéndose en fases ligeras NREM 1-2 para eliminar la adenosina de inmediato sin inercia."
   - question: "¿Una siesta de 20 minutos no sirve de nada si cierro los ojos pero no logro dormirme?"
     answer: "No, produce beneficios cognitivos significativos. Incluso sin alcanzar el sueño real, reclinarse con los ojos cerrados para bloquear las entradas visuales y auditivas desconecta la corteza visual e induce ondas cerebrales alfa (8-12 Hz). Esta pausa sensorial de 20 minutos restaura más del 50% de los recursos prefrontales."
-
 ---
 
 "Gracias a la siesta de la tarde, pude dividir mi día en dos jornadas independientes, cada una con su propia mañana." 🛌

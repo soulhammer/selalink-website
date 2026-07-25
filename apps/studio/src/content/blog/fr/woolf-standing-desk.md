@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Pourquoi Virginia Woolf écrivait-elle debout ?"
     answer: "Tout comme sa sœur peintre peignait debout devant sa toile, Woolf privilégiait le bureau debout comme rituel physique pour préserver son équivalence artistique et une immersion profonde."
-
 ---
 
 Virginia Woolf, la romancière reconnue comme une pionnière de la littérature moderniste du XXe siècle grâce à des œuvres majeures telles que 'Mrs Dalloway' et 'La Promenade au phare'. Comment a-t-elle pu concrétiser les mondes intérieurs secrets et la psychologie complexe de ses personnages avec des phrases si raffinées ? ✍️

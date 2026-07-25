@@ -21,7 +21,6 @@ faqs:
     answer: "Músicas com letra reativam o córtex linguístico do cérebro, prejudicando o descanso completo. Músicas instrumentais (clássica, jazz, lo-fi) são muito mais eficazes para o relaxamento autônomo."
   - question: "Dormir ouvindo música ajuda?"
     answer: "É melhor definir um temporizador para 15–30 minutos. Se a música tocar a noite toda, o córtex auditivo pode não descansar totalmente durante o sono."
-
 ---
 
 O Dr. Albert Schweitzer foi vencedor do Prêmio Nobel da Paz, médico dedicado, filósofo e autoridade mundial em Bach. Como ele superava diariamente o exaustivo desgaste físico e mental de cuidar de doentes na selva quente e úmida de Lambaréné, no Gabão?

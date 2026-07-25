@@ -21,7 +21,6 @@ faqs:
     answer: "Deshalb ist die 'schriftliche Einholung ohne persönlichen Kontakt' von Vorteil. Bei persönlichen Treffen kommt es durch Autorität, Konformitätsdruck oder Redekunst leicht zu emotionaler Überzeugung. Sie können nur dann rational urteilen, wenn Sie die scharfe Logik und die Faktendaten, die von Ihren Beratern einzeln verfasst wurden, separat sammeln und analysieren."
   - question: "Was ist die angemessenste Größe für ein Beraterteam?"
     answer: "Wir empfehlen dringend maximal 3 Personen. Mit steigender Personenzahl entsteht durch Informationsüberlastung eine Analyse-Paralyse (Analysis Paralysis), die Entscheidungen verhindert. Setzen Sie genau 1 Kernexperten ein, der jeden Bereich vertritt (z. B. Marketing, Technologie, Recht), um Beratungen einzuholen."
-
 ---
 
 "Eile mit Weile. Eine unvorbereitete Entscheidung kann keinen Sieg bringen." 🏛️

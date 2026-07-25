@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut. Biografen bestätigen, dass Haydn sich weigerte, ohne Hofkleidung, Perücke und Ring am Klavier zu sitzen. Er vertrat die Auffassung, dass nachlässige Kleidung zu unordentlichen Gedanken führe."
   - question: "Muss es im Homeoffice ein steifer Anzug sein oder wirkt auch bequeme Straßenkleidung?"
     answer: "Ein steifer Anzug ist nicht nötig. Es geht darum, 'Schlafkleidung' und 'Arbeitskleidung' physisch zu trennen. Das Wechseln in ein sauberes Hemd oder eine Hose reicht aus, um die 'Enclothed Cognition' zu aktivieren."
-
 ---
 
 "Künstlerisches Schaffen wird erst durch Ordnung und Ausdauer vollkommen. Eine nachlässige Kleidung bringt nur nachlässige musikalische Gedanken hervor." 🚶‍♂️

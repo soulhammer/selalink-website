@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Bringt es wirklich etwas, vor dem Spiegel ein Lächeln zu erzwingen?"
     answer: "Ja, aufgrund des Facial-Feedback-Effekts nimmt das Gehirn die Bewegung der Gesichtsmuskeln wahr, urteilt, dass Sie sich in einem tatsächlich freudigen Zustand befinden, und schüttet Glücksstoffe aus."
-
 ---
 
 "Wir lächeln nicht, weil wir glücklich sind; wir sind glücklich, weil wir lächeln. Üben Sie jeden Morgen vor dem Spiegel ein lächelndes Gesicht und kehren Sie Ihre Umgebung sauber." 🧹

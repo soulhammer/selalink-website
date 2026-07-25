@@ -21,7 +21,6 @@ faqs:
     answer: "Du point de vue de la libération de BDNF par l'exercice aérobique, cela reste efficace. Cependant, la marche en extérieur est fortement recommandée car le traitement des stimuli visuels extérieurs (lumière naturelle, changements de saison, sol irrégulier) stimule beaucoup plus le cortex visuel et les réseaux synaptiques préfrontaux liés à l'équilibre qu'un environnement intérieur fixe."
   - question: "L'effet sera-t-il le même si j'écris le journal de réflexion du soir dans une application de notes sur smartphone ?"
     answer: "L'écriture manuscrite directe est nettement plus efficace. En tenant un stylo pour écrire, les récepteurs sensoriels du bout des doigts stimulent avec précision le cortex somatosensoriel (Somatosensory Cortex) du cerveau, induisant la concentration et démultipliant l'effet d'ancrage dans les circuits cognitifs. La saisie sur un clavier de smartphone étant mécanique, le niveau de stimulation cérébrale est plus faible."
-
 ---
 
 John Quincy Adams, 6e président des États-Unis qui a consolidé la diplomatie et les fondations de la nation après George Washington et John Adams, a été incarné toute sa vie comme un symbole de diligence. Face à de vives tensions politiques et à une immense pression présidentielle, quel était son secret pour préserver une mémoire vive et de solides capacités cognitives au-delà de 80 ans ? 🏊‍♂️

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Was können Angestellte in Großraumbüros tun, wenn eine physische Isolation unmöglich ist?"
     answer: "Kombinieren Sie 'auditive' und 'digitale Isolation'. Das Tragen von Noise-Cancelling-Kopfhörern mit weißem Rauschen baut eine mentale Wand auf. Setzen Sie Ihren Messenger-Status auf 'Bitte nicht stören' und maximieren Sie ein einzelnes Arbeitsfenster für eine 'digitale Minihütte'."
-
 ---
 
 "Nur in vollkommener Einsamkeit und Stille können die tiefsten Klänge der Natur in meine Partitur eingehen." 🎼

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Posso obter o mesmo efeito de isolamento ambiental sem mudar fisicamente de local?"
     answer: "Sim, é possível. Ao limpar completamente os objetos da sua mesa, usar fones de ouvido com cancelamento de ruído ou emitir sinais para bloquear notificações nos dispositivos, você pode transmitir um poderoso sinal de transição para o modo de imersão ao seu cérebro sem se mudar fisicamente."
-
 ---
 
 "Uma obra-prima nunca nasce por acaso. Ela floresce apenas através de foco implacável e autodisciplina." 🖋️

@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, olahraga aerobik berkelanjutan yang melibatkan fungsi kardiopulmoner dan meningkatkan kadar BDNF, seperti bersepeda atau berenang, memberikan manfaat pemulihan kognitif yang serupa. Namun, lari di luar ruangan memaksimalkan relaksasi DMN saat stimulasi sensorik seperti angin dan pemandangan alam tersampaikan ke otak."
   - question: "Apakah mendengarkan musik saat berlari mengganggu pemulihan otak?"
     answer: "Musik dengan lirik atau ritme kencang memaksa korteks prefrontal menyaring dan menganalisis informasi suara, yang mengganggu istirahat otak secara total. Mendengarkan suara alam atau berfokus hanya pada pernapasan tanpa musik adalah kunci untuk mengaktifkan DMN secara sempurna dan mengisi ulang perhatian."
-
 ---
 
 "Bagi saya, berlari adalah waktu paling indah untuk membersihkan pikiran saya yang rumit dan menyelami pemikiran murni." 🏃‍♂️

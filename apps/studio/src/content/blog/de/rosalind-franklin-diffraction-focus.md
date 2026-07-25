@@ -21,7 +21,6 @@ faqs:
     answer: "Der Aufwand, spätere Tippfehler zu korrigieren, sich zu entschuldigen und neu zu arbeiten, ist 10-mal höher. 10 Minuten Vorab-Prüfung sind letztlich der schnellste Weg."
   - question: "Lässt sich der quantitative Abgleich auch auf Texte oder allgemeine Büroarbeiten anwenden?"
     answer: "Ja! Erstellen Sie eine quantitative Checkliste für 3 fehleranfällige Elemente (Datumsangaben, Schreibweise, Links, Kundennamen) und wenden Sie dieselbe Methode an."
-
 ---
 
 Rosalind Franklin (1920–1958) war eine herausragende britische Physiko-Chemikerin, die 'Foto 51' aufnahm – den entscheidenden Schlüssel zur Entschlüsselung der DNA-Doppelhelix. Trotz Vorurteilen und schwierigen Bedingungen wiesen ihre Daten nicht den geringsten Fehler auf. 🧬

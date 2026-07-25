@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "How can I use cleaning as meditation?"
     answer: "Instead of focusing on finishing quickly, it is effective to concentrate on the sensory feedback itself, such as the sweeping sound and the tactile sensation in your hands."
-
 ---
 
 "Sweeping the dust of the garden is not merely removing fallen leaves, but clearing away unnecessary noise from the mind and confronting the empty space of nature."

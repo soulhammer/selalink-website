@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah bekerja di tempat tidur tidak akan mengubah kamar menjadi ruang kerja yang bikin stres dan memicu insomnia?"
     answer: "Batasan itu sangat krusial. Maka dari itu, pekerjaan penuh stres seperti manajemen analitis atau membalas email kritis harus dilarang di tempat tidur. Membatasi kegiatan hanya pada ide kreatif yang menyenangkan atau jurnal refleksi menjaga nilai aman kamar tidur."
-
 ---
 
 "Tempat tidurku adalah satu-satunya tempat amanku. Ketika berselimut kain hangat dan lembut bersama anjing-anjingku, imajinasi novelku bangkit dengan paling lentur." 🛏️

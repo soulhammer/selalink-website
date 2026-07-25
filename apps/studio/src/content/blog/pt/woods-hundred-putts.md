@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "E se isso aumentar meu estresse e atrapalhar minha concentração?"
     answer: "Isso acontece quando a dificuldade excede suas capacidades atuais, liberando hormônios do estresse. Reduza a intensidade para que a taxa de sucesso fique em torno de 70–80%."
-
 ---
 
 "Não deixo o green de treino até que o 100º putt entre." ⛳

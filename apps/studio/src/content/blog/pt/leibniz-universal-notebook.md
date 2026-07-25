@@ -21,7 +21,6 @@ faqs:
     answer: "Sim! As ferramentas digitais são excelentes para buscar e conectar notas. O segredo é evitar dividir páginas em várias pastas; em vez disso, crie uma base de dados única etiquetada por datas e categorias para replicar o sistema unificado de Leibniz."
   - question: "Guardar todas as informações em um único caderno não gera uma desordem caótica?"
     answer: "A acumulação tem prioridade sobre a ordem imediata. O cérebro precisa de uma massa crítica de dados em um só lugar para gerar conexões inesperadas. Separe a coleta da organização usando as etiquetas durante as revisões semanais."
-
 ---
 
 "Um pensamento não registrado desaparece como a névoa de verão sem deixar vestígios." 📒

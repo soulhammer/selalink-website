@@ -21,7 +21,6 @@ faqs:
     answer: "Nyatakan jadwal pemrosesan massal Anda secara eksplisit dalam pembalas otomatis email atau pesan status obrolan. Menampilkan catatan yang jelas—misalnya, 'Untuk berfokus pada hasil proyek utama, saya memeriksa email dua kali sehari pada pukul 11:00 dan 16:00. Untuk hal-hal mendesak, silakan telepon langsung'—menetapkan ekspektasi."
   - question: "Apakah rutinitas pemutusan email Knuth berlaku untuk karyawan perusahaan biasa yang bukan cendekiawan terkenal?"
     answer: "Ya, tentu saja! Prinsip neurosains yang mendasarinya berlaku secara universal. Anda tidak perlu menghapus email secara permanen; cukup menyetel blok kerja mendalam 1 hingga 2 jam harian dalam mode 'jangan ganggu' memberikan manfaat yang identik."
-
 ---
 
 "Saya telah menjadi pria yang bahagia sejak saya berhenti menggunakan email pada 1 Januari 1990... Apa yang saya lakukan membutuhkan jam-jam belajar yang panjang dan konsentrasi yang tidak terganggu. Peran saya adalah duduk di puncak sistem dan berkontemplasi secara hening." ✉️

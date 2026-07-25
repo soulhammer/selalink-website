@@ -21,7 +21,6 @@ faqs:
     answer: "Utilisez la dictée vocale de votre smartphone ou une application de mémos IA pour effectuer un 'brain dump' verbal de 5 minutes sur vos événements d'hier."
   - question: "Quels sujets aborder pendant la dictée pour optimiser sa productivité ?"
     answer: "Il suffit de lister les événements d'hier, de déverser vos priorités du jour ou simplement d'exprimer à voix haute votre état émotionnel du moment."
-
 ---
 
 « Chaque matin, je vide le désordre dans ma tête en dictant ma journée d'hier pour qu'elle soit retranscrite. » 📞

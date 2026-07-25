@@ -21,7 +21,6 @@ faqs:
     answer: "Das Verdrängen von Fehlern verlängert Angstzustände. Wenn Sie die Gründe sachlich aufschreiben, signalisiert dies dem Gehirn, dass Sie die 'Kontrolle' zurückgewonnen haben, was Stress abbaut und Motivation stärkt."
   - question: "Gibt es Gehirnübungen, um zufällige Entdeckungen (Serendipität) besser zu nutzen?"
     answer: "Es hilft, kleine Veränderungen in den Alltag einzubauen. Das Wählen neuer Wege oder Arbeiten an anderen Orten erzeugt eine kontrollierte Ablenkung, die das frontoparietale Netzwerk stimuliert und den Sinn für unvorhergesehene Verknüpfungen schärft."
-
 ---
 
 "Wenn eine zufällige Beobachtung auf einen vorbereiteten Geist trifft, entsteht eine Revolution." 🧫

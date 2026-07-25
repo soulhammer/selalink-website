@@ -21,7 +21,6 @@ faqs:
     answer: "Para a prática moderna, evite papel fino solto. Em vez disso, coloque um mini caderno rígido de capa dura na mesa de cabeceira ou fixe uma pequena prancheta de madeira em uma prateleira ao lado da cama."
   - question: "Escrever com luz fraca durante despertares noturnos não vai cansar meus olhos?"
     answer: "A escrita noturna consiste em anotações breves de 1 a 2 minutos, reduzindo o cansaço visual. A chave é usar uma luz noturna fraca de tom âmbar e quente, fornecendo iluminação suficiente para traçar letras sem suprimir a melatonina."
-
 ---
 
 "Possuir conhecimento é bom, mas praticá-lo e integrá-lo à vida é ainda maior." 👑

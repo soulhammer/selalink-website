@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Was ist, wenn das den Stress erhöht und meine Konzentration eher stört?"
     answer: "Das passiert, wenn die Aufgabe Ihre aktuellen Fähigkeiten deutlich übersteigt und Stresshormone freigesetzt werden. Senken Sie die Intensität, bis die Erfolgsquote bei etwa 70–80 % liegt."
-
 ---
 
 "Ich verlasse das Übungsgrün erst, wenn der 100. Putt sitzt." ⛳

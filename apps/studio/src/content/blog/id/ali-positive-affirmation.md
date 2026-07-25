@@ -21,7 +21,6 @@ faqs:
     answer: "Merasa canggung di awal adalah hal yang alami karena adanya disonansi kognitif (Cognitive Dissonance). Yang terpenting bukanlah memverifikasi kebenaran fakta saat ini, melainkan membuka kemungkinan-kemungkinan baru bagi otak. Semakin sering Anda mengulangnya, neuroplastisitas (Neuroplasticity) otak akan mengorganisasi ulang sirkuit saraf sehingga rasa canggung menghilang dan memadat menjadi sebuah keyakinan."
   - question: "Apakah baru efektif jika saya berteriak dengan lantang?"
     answer: "Cara terbaik adalah merasakan getaran suara Anda secara langsung melalui pendengaran. Namun, jika lingkungan Anda menyulitkan untuk bersuara, berbisik atau mengulanginya dalam hati dengan fokus kuat pada setiap kata (Silent Self-talk) juga memberikan stimulasi positif yang cukup untuk aktivasi otak."
-
 ---
 
 "Saya katakan bahwa saya adalah yang terhebat bahkan sebelum saya tahu saya terhebat. Anda menjadi apa yang Anda pikirkan." 🥊

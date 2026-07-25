@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, totalmente. Decodificar microtexturas táctiles requiere una coactivación sináptica más densa en los lóbulos prefrontal y parietal que procesar entradas visuales, aumentando la profundidad de la memoria."
   - question: "¿Qué debo hacer si la piel seca reduce mi sensibilidad táctil durante la práctica?"
     answer: "Lavar sus manos con agua tibia antes de entrenar aumenta el flujo sanguíneo periférico. Aplicar una capa ligera de crema hidratante crea una barrera de hidratación que mejora la respuesta táctil."
-
 ---
 
 "El despertar del deletreo táctil en mi palma despertó mi alma, le dio luz, esperanza, alegría y la liberó." ✋

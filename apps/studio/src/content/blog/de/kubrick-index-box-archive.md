@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut! Programme wie Notion, Obsidian oder digitale Notiz-Tools eignen sich hervorragend für ein Second Brain. Entscheidend ist das Einhalten des 'Modularitätsprinzips' (ein Gedanke pro Notiz) und des 'Konnektivitätsprinzips' (Inhalte ständig neu verknüpfen)."
   - question: "Wie viele Karten sollte man gesammelt haben, bevor man mit dem zufälligen Mischen beginnt?"
     answer: "Es wird empfohlen, mit dem Mischen zu beginnen, sobald Sie mindestens 30 bis 50 Karten gesammelt haben. Das Gehirn erzeugt kreative Impulse, wenn es Zusammenhänge zwischen verschiedenen Begriffen sucht. Eine ausreichende Menge an Informationseinheiten verstärkt diesen Effekt."
-
 ---
 
 "Das Aufschreiben und Klassifizieren von Ideen ist nicht bloßes Aufbewahren. Es ist der einzige Weg, unzählige isolierte Fakten zu einer großen Struktur zu verbinden." 🗃️

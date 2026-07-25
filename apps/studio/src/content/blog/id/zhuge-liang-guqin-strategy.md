@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, perendaman pendengaran yang terfokus pada musik orkestra atau petik akustik dengan resonansi khas saja sudah cukup untuk menginduksi gelombang alfa yang sama."
   - question: "Mengapa harus memilih hanya 1 tugas di antara banyak daftar pekerjaan?"
     answer: "Otak menjadi terlalu panas saat melakukan banyak tugas secara bersamaan (multitasking). Memfokuskan energi pada 1 tugas inti yang krusial mengalokasikan sumber daya korteks prefrontal secara efisien."
-
 ---
 
 Pada era Tiga Kerajaan di akhir Han Timur, Zhuge Liang (諸葛亮) adalah ahli strategi ulung yang membantu Liu Bei mendirikan Shu Han (蜀漢), merancang pembagian tiga wilayah Tiongkok, dan dikenal sebagai Perdana Menteri legendaris (名宰相) di tengah konflik sengit antara Wei, Shu, dan Wu. Mengemban tanggung jawab atas ratusan ribu prajurit dan kelangsungan negaranya, ia menanggung tekanan emosional yang sangat besar setiap hari. 🎶

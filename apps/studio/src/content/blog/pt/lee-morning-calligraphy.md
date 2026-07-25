@@ -21,7 +21,6 @@ faqs:
     answer: "Canetas-tinteiro, canetas de pena ou um lápis de grafite com papel encorpado são substitutos perfeitos. O segredo é a percepção em tempo real da fricção tátil e o controle da pressão. Qualquer instrumento com feedback tátil claro garante os mesmos benefícios."
   - question: "Por que é melhor praticar essa rotina de caligrafia logo ao acordar em vez da noite?"
     answer: "Ao acordar, o cérebro está livre das distrações e do estresse acumulado durante o dia. Dedicar os primeiros 15 minutos ao controle motor fino equilibra o sistema nervoso autônomo enquanto ativa o córtex pré-frontal, estabelecendo uma base de calma e clareza para todo o dia."
-
 ---
 
 "Enquanto seguro o pincel, moo a tinta e traço os caracteres, a confusão mental se dissipa e a essência das decisões de negócios surge com clareza." 🖌️

@@ -21,7 +21,6 @@ faqs:
     answer: "Wortassoziationen direkt nach dem Aufwachen durchzuführen, wenn das Unterbewusstsein aktiv ist, ist neurowissenschaftlich am effektivsten. Es reicht jedoch aus, diese Übung 3 bis 4 Mal pro Woche zu praktizieren, um die Schaltkreise des divergenten Denkens zu trainieren und kreative Erkenntnisse freizusetzen."
   - question: "Wie kann ich diese Routine ersetzen, wenn ich kein Papier oder Wortkarten zur Hand habe?"
     answer: "Sie können genau denselben kognitiven Assoziationseffekt erzielen, indem Sie eine beliebige Buchseite aufschlagen und die ersten 3 Substantive auswählen, die Sie sehen, oder indem Sie einen Online-Zufallswortgenerator oder eine Smartphone-Notizen-App verwenden."
-
 ---
 
 "Die Wörter waren Eimer, die in den tiefen Brunnen meines Unterbewusstseins hinabgelassen wurden und Erinnerungen und Erzählungen heraufholten." 📝

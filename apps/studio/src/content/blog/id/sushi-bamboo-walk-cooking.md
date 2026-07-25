@@ -21,7 +21,6 @@ faqs:
     answer: "Ya! Ini bukan tentang resep kuliner yang rumit. Cukup menyeduh kopi drip atau menggoreng telor ceplok dengan penuh perhatian sudah memberikan manfaat sensorik yang lengkap."
   - question: "Apakah tindakan fisik memasak benar-benar mengurangi tingkat stres?"
     answer: "Menurut penelitian terapi okupasi, mengolah bahan makanan dengan tangan untuk membuat hasil akhir menekan sinyal otak yang memicu depresi dan meningkatkan harga diri."
-
 ---
 
 Su Dongpo (Su Shi, 1037–1101), penyair, pakar kaligrafi, dan negarawan maestro dari Dinasti Song Utara. Meskipun berulang kali diasingkan ke daerah terpencil karena perselisihan politik, ia mengatasi keputusasaan melalui optimisme dan ketenangan jiwanya.

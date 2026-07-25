@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Consumir café a altas horas de la noche o temprano en la mañana interfiere con el sueño?"
     answer: "Sí, puede deteriorar la calidad del sueño. Como el estilo de vida de despertar a medianoche de Balzac no es práctico para las personas modernas, si es sensible a la cafeína, reemplácela con café descafeinado o té de hierbas caliente, y programe sus bloques de enfoque justo después del trabajo o temprano en la mañana antes de ir a trabajar."
-
 ---
 
 "Tan pronto como el café llega al estómago, se produce una conmoción general. Las ideas comienzan a avanzarse como los batallones del gran ejército." ☕

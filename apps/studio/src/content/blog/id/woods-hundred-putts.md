@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Bagaimana jika hal ini justru meningkatkan stres dan mengganggu konsentrasi saya?"
     answer: "Hal itu terjadi ketika tingkat kesulitan tugas melebihi kemampuan Anda saat ini, yang memicu hormon stres. Turunkan intensitas tugas hingga tingkat keberhasilan mencapai sekitar 70–80%."
-
 ---
 
 "Saya tidak akan meninggalkan green latihan sampai putting ke-100 masuk." ⛳

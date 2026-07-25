@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, beberapa naskahnya yang tersisa (seperti esai dan ulasan) dilestarikan dalam bentuk gulungan sempit yang disambung dengan lem di institusi seperti Free Library of Philadelphia."
   - question: "Apakah ada aplikasi yang membantu mencegah kebiasaan mengedit saat mengetik di layar digital?"
     answer: "Ya, aplikasi pembuat draf yang menonaktifkan tombol hapus atau menghapus teks jika Anda berhenti mengetik (seperti The Most Dangerous Writing App) serta editor dengan mode mesin tik sangat efektif."
-
 ---
 
 Edgar Allan Poe (1809–1849), diakui sebagai pelopor fiksi gotik mengerikan melalui karya seperti 'The Raven' dan 'The Black Cat', serta bapak cerita detektif modern. Di atas media apakah naskah-naskah jeniusnya—yang memadukan kecemasan psikologis manusia dengan misteri logis yang rumit—diciptakan? 📜

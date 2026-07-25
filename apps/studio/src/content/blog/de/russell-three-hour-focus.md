@@ -21,7 +21,6 @@ faqs:
     answer: "In einem normalen Arbeitsumfeld kann eine 3-stündige Erreichbarkeitspause in der Tat schwierig sein. In diesem Fall hilft es, die Zeit in Blöcke von '90 Minuten Fokus - vollständige Pause' aufzuteilen (z. B. 1,5 Stunden morgens und 1,5 Stunden nachmittags), um die Denkleistung des Gehirns zu schützen."
   - question: "Kann ich nach dem 3-stündigen Fokusblock am Nachmittag leichte Aufgaben erledigen?"
     answer: "Ja. Nach 3 Stunden Deep Work können Sie einfache Routineaufgaben, E-Mail-Bearbeitung oder administrative Tätigkeiten (Shallow Work) erledigen, die keine hohe Entscheidungsfähigkeit erfordern. Das Ausfüllen des Nachmittags mit aufwandsarmen Aufgaben schont die Energie des präfrontalen Kortex."
-
 ---
 
 "Ich arbeite nur drei Stunden am Tag. Aber während dieser drei Stunden bin ich völlig von der Welt getrennt und konzentriere mich einzig auf meine Logik." ☕

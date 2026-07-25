@@ -21,7 +21,6 @@ faqs:
     answer: "Der Kern der Metakognition ist nicht Perfektion, sondern 'präzise Selbstüberwachung'. Das ehrliche Aufschreiben niedriger Zahlen an schlechten Tagen beseitigt kognitive Verdrängung und stärkt die Widerstandskraft."
   - question: "Reicht es aus, alle Kennzahlen ausschließlich über digitale Tools wie Notion oder Excel zu verwalten?"
     answer: "Digitale Geräte bergen das Risiko von Ablenkungen durch Benachrichtigungen. Wie Washington zeigt, fördert das handschriftliche Eintragen von Werten in ein Papiertagebuch die tiefe metakognitive Reflexion und geistige Klarheit."
-
 ---
 
 "Die Gewohnheit der Buchführung ist der ehrlichste Spiegel, um die Unvollkommenheiten des Denkens zu korrigieren." ☀️

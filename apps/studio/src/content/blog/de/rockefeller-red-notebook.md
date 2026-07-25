@@ -21,7 +21,6 @@ faqs:
     answer: "Ja. Das Einschalten des Smartphones setzt das Gehirn digitalem Lärm aus und lenkt ab. Das handschriftliche Schreiben übermittelt zudem stärkere somatosensorische Signale an die Großhirnrinde, was das Bewusstsein für Selbstkontrolle mehr als verdoppelt."
   - question: "Muss man wirklich jedes winzige Detail wie 1 Cent oder 1 Minute aufschreiben?"
     answer: "Der Schlüssel liegt nicht im Geldbetrag, sondern im Training unmittelbarer kognitiver Rückmeldung im Gehirn. Das wiederholte Erfassen kleinster Beträge stärkt das hemmende Kontrollnetzwerk des präfrontalen Kortex und hilft, auch bei großen Entscheidungen besonnen zu bleiben."
-
 ---
 
 John D. Rockefeller, der legendäre Unternehmer, der Standard Oil gründete und das größte Privatvermögen der Menschheitsgeschichte anhäufte. Woher stammte seine makellose Planung? 📕

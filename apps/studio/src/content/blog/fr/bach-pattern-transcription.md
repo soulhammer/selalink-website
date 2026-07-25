@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "La transcription par saisie au clavier est-elle également efficace ?"
     answer: "La saisie au clavier consiste à répéter le même geste simple de pression sur des touches pour toutes les lettres ; son degré de stimulation de la zone logique du lobe pariétal est donc nettement inférieur à celui de l'écriture manuscrite analogique, où vous tracez la trajectoire des lettres à la main et contrôlez la pression du stylo."
-
 ---
 
 Johann Sebastian Bach, appelé le « Père de la musique », a perfectionné le contrepoint et l'harmonie baroques, devenant une boussole pour tous les musiciens occidentaux comme Beethoven et Mozart. Au sein de ses enchevêtrements harmoniques complexes et mathématiques réside une structure logique d'une précision étonnante. Cette géniale logique contrapuntique ne découlait pas seulement d'un talent inné, mais d'une routine intellectuelle menée toute su vie. ✍️

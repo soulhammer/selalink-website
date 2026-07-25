@@ -21,7 +21,6 @@ faqs:
     answer: "Nein. Das Schreiben mit der Hand auf Papier stimuliert den somatosensorischen Kortex stark und erhöht die Kodierungseffizienz. Tippen ist zwar schneller, das Drücken gleicher Tasten bietet jedoch kaum haptische Anreize. Für ein dauerhaftes Langzeitgedächtnis ist das handschriftliche Notieren weit überlegen."
   - question: "Löst das Erklären von Inhalten gegenüber anderen auch ohne Briefform metakognitive Effekte aus?"
     answer: "Ja, absolut! Laut der Lernpyramide führt das Erklären von Inhalten zu einer Behaltensquote von bis zu 90 %. Neben Briefen oder E-Mails aktivieren auch Gespräche mit Kollegen, Präsentationen oder das Selbstgespräch vor dem Spiegel dieselben metakognitiven Effekte."
-
 ---
 
 "Lesen ohne 'Choseo' (selektives Abschreiben und Kommentieren) bringt keinen dauerhaften Nutzen. Erinnerungen verblassen spurlos." 🖋️

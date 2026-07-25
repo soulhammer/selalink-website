@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, comme il donnait 100 % de son énergie mentale le matin, il savait que sa capacité cognitive était épuisée après 13h00. Estimant qu'écrire l'après-midi dégradait la qualité, il réservait ses après-midis à des tâches plus légères comme la lecture, la promenade ou l'édition."
   - question: "Peut-on effectuer des sessions de Travail profond le soir plutôt que le matin ?"
     answer: "Selon le rythme circadien de chacun (les couche-tard), la nuit peut être le moment le plus productif. Le principe clé ne réside pas dans l'heure exacte, mais dans le fait de sécuriser une plage continue d'au moins 2 heures sans distraction lorsque votre énergie est au sommet."
-
 ---
 
 Thomas Mann (1875–1955), prix Nobel de littérature et auteur de chefs-d'œuvre tels que 'La Montagne magique' et 'Les Buddenbrook', est un géant de l'histoire intellectuelle allemande. Ses récits vastes et complexes d'une grande profondeur philosophique ne sont pas nés d'éclairs d'inspiration spontanés, mais d'un contrôle du temps réglé comme une horloge avec una précision mécanique. 🕰️

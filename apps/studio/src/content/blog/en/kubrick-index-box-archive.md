@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely! Tools like Notion, Obsidian, or dynamic note platforms build exceptional Second Brain systems. The key is not the medium, but upholding the 'Modularity Principle' (one clear concept per note) and the 'Connectivity Principle' (re-linking and shuffling concepts continuously rather than trapping them in static folders)."
   - question: "How many cards should I accumulate before starting random shuffling and creative association?"
     answer: "We recommend starting random shuffling once you accumulate at least 30 to 50 cards. The brain generates powerful creative insights when forced to detect organic patterns across heterogeneous concepts; having a sufficient critical mass of knowledge units in your Second Brain maximizes the impact of combinatorial thinking."
-
 ---
 
 "Recording and categorizing ideas is not merely about storage. It is the only path to connect countless isolated facts into a massive, coherent structure." 🗃️

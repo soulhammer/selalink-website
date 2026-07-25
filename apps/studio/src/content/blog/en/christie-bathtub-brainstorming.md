@@ -21,7 +21,6 @@ faqs:
     answer: "Warm immersion lowers heart rate and recruits parasympathetic dominance to trigger the DMN, while the rhythmic mastication of a crisp apple sends sensory input via the trigeminal nerve to subtly arouse the prefrontal cortex. This combination merges deep physical relaxation with focused mental clarity."
   - question: "Is there an alternative physical relaxation method to engage the DMN if I don't have a bathtub?"
     answer: "Yes, absolutely. Performing a 15-minute warm foot bath (around 40°C) or applying a warm steam towel to the back of the neck effectively enhances blood circulation and activates parasympathetic tone. Sipping warm tea slowly while allowing your mind to wander engages the DMN just as effectively."
-
 ---
 
 "The best time for planning a book is while you're washing the dishes or soaking in a hot bath, chewing an apple." 🍏

@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, las historias cortas con un fuerte tono lírico, la poesía o los ensayos reflexivos son mucho más eficaces para aliviar la fatiga cognitiva numérica que las novelas largas centradas en la trama."
   - question: "¿Está bien leer en un libro electrónico (e-book)?"
     answer: "Los libros de papel son ideales, pero los lectores de tinta electrónica con luz frontal emiten un azul mínimo que no interrumpe el sueño, por lo que son perfectamente válidos."
-
 ---
 
 "La ciencia nos enseña qué es el universo, pero la poesía nos enseña quiénes somos." 📜

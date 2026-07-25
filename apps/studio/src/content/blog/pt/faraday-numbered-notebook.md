@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, com certeza. Atribuir números únicos no ambiente digital oferece grandes vantagens. Embora a busca por palavras-chave possa falhar se você esquecer os termos, um ID único (ex.: #042) cria uma âncora para links de retrocesso (backlinks) e referências cruzadas."
   - question: "Como devo gerenciar a numeração ao misturar diários, projetos de trabalho e inspirações?"
     answer: "Unificar todas as entradas sob um único contador sequencial (ex.: #1 a #1000) como Faraday funciona perfeitamente. Se preferir separar domínios, use prefixos de projeto (ex.: Trabalho [A-01], Estudos [B-01]). O fundamental é atribuir a cada fragmento um endereço único."
-
 ---
 
 "Uma observação não é nada sem registro. Quando fizer uma observação, atribua a ela um número instantaneamente." 📝

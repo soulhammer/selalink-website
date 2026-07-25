@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Como posso criar uma zona de bloqueio de estímulos se não tiver um escritório separado em casa?"
     answer: "Mesmo sem um cômodo separado, colocar uma divisória na mesa ou usar fones com cancelamento de ruído é suficiente para criar uma barreira virtual contra distrações."
-
 ---
 
 "Estude os fatos, observe os fatos, acumule os fatos." 🔔

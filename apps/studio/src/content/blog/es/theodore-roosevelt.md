@@ -21,7 +21,6 @@ faqs:
     answer: "Ocurre cuando el sobreesfuerzo provoca un aumento de sustancias acumuladoras de fatiga. Debe limitar estrictamente el ejercicio a 3 minutos en cuanto alcance el umbral de falta de aire para que solo la dopamina reconfortante cargue su cerebro."
   - question: "¿Cómo deben comenzar los principiantes con una condición física muy baja?"
     answer: "Cualquier entrenamiento aeróbico o de fuerza, como marchar a paso ligero en el sitio o trotar suavemente, producirá beneficios equivalentes siempre que alcance una intensidad que provoque un leve sudor según su condición actual."
-
 ---
 
 Theodore Roosevelt, el 26º presidente de EE. UU., asumió el cargo siendo el presidente más joven en la historia de su país, impulsando reformas progresistas e instalando un liderazgo global. Para superar su grave asma infantil y su frágil complexión, realizó un intenso entrenamiento físico cada mañana, levantando pesas al límite. Este hábito de ejercicio explosivo transformó a un niño débil en un líder formidable, alimentando su voluntad de hierro y agudeza mental.

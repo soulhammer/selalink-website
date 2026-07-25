@@ -21,7 +21,6 @@ faqs:
     answer: "É por isso que o 'recebimento escrito não presencial' é vantajoso. Em reuniões presenciais, a persuasão emocional ocorre facilmente devido à autoridade, pressão de conformidade ou elocorrência. Você só pode julgar racionalmente quando coleta e analisa separadamente a lógica afiada e os dados fáticos escritos individualmente por seus conselheiros."
   - question: "Qual é o tamanho mais adequado para uma equipe consultiva?"
     answer: "Recomendamos fortemente um máximo de 3 pessoas. Conforme o número de pessoas aumenta, a Paralisia por Análise (Analysis Paralysis) ocorre devido à sobrecarga de informações, impedindo a tomada de decisões. Aloque apenas 1 especialista principal representando cada área (por exemplo: marketing, tecnologia, jurídico) para reunir consultas."
-
 ---
 
 "Apresse-se devagar. Uma decisão não preparada não pode trazer a vitória." 🏛️

@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely! Schedule 2 to 3 designated 'Emergency & Message Batch Processing' blocks into your day. Focus uninterrupted during deep-work blocks, and resolve ad-hoc requests during batch blocks to shield concentration."
   - question: "How can I overcome guilt when failing to adhere strictly to the schedule?"
     answer: "Time blocking is a guiding map, not a rigid prison. What matters is single-task focus during the active block, not flawless execution. When schedules derail, exercise Cognitive Flexibility—simply move immediately to the next block without self-blame."
-
 ---
 
 "By establishing fixed hours and rules for work, one completely governs one's life. With an almanac and a watch, one could tell at three hundred leagues what the king was doing." 👑

@@ -21,7 +21,6 @@ faqs:
     answer: "Ya. Saat melakukan pelacakan waktu mandiri atau menulis jurnal kerja, metode ini dapat diterapkan secara sempurna dengan menghilangkan 'emosi menyalahkan diri sendiri' dan hanya mencatat data eksekusi tugas berdasarkan stempel waktu."
   - question: "Bagaimana cara membedakan dengan mudah antara perasaan subjektif dan fakta objektif?"
     answer: "Terapkan kriteria: 'Apakah ini tindakan konkret atau angka yang dapat ditangkap oleh lensa kamera video?' Cukup abaikan pemikiran atau ekspresi evaluatif apa pun yang tidak dapat direkam oleh kamera."
-
 ---
 
 "Ketika kita mengamati perilaku anak-anak sebagaimana adanya, baru pada saat itulah potensi besar di dalam diri mereka mengungkapkan dirinya." 📝

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Tiene que ser necesariamente una rosa amarilla?"
     answer: "No. La rosa amarilla era simplemente el elemento personal que brindaba tranquilidad a Márquez. Puede elegir libremente cualquier objeto que le transmita paz, como una planta verde o un narciso."
-
 ---
 
 "Mientras haya rosas amarillas en mi escritorio, nada malo me pasará y el trabajo avanzará." 🌹

@@ -21,7 +21,6 @@ faqs:
     answer: "Hemingway wollte Selbsttäuschung vermeiden und seinen Fortschritt sichtbar machen, um Disziplin zu wahren. Die visuelle Bestätigung aktivierte sein Dopaminsystem und förderte die Konzentration für den nächsten Tag."
   - question: "Ist diese Dokumentationsroutine auch für allgemeine Aufgaben im Beruf oder beim Lernen effektiv?"
     answer: "Ja, absolut! Die Methode eignet sich für alle messbaren Kennzahlen: gelesene Seiten, Lernstunden, Codezeilen oder Trainingswiederholungen. Ehrliche Selbstüberwachung stärkt den präfrontalen Kortex und steigert die Leistung."
-
 ---
 
 "Um mich nicht selbst zu täuschen, halte ich mein tägliches Wortpensum auf einer großen Wandkartei fest." 📝

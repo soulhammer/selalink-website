@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut. Das Entschlüsseln feiner taktiler Texturen erfordert eine dichtere synaptische Aktivität im Stirn- und Scheitellappen als visuelle Reize, was die Gedächtnistiefe deutlich erhöht."
   - question: "Was tun, wenn trockene Haut die taktile Empfindlichkeit verringert?"
     answer: "Das Waschen der Hände mit warmem Wasser vor der Übung steigert die Durchblutung. Eine dünne Schicht Feuchtigkeitscreme verbessert das Ansprechverhalten der Tastrezeptoren."
-
 ---
 
 "Das Erwachen des taktilen Buchstabierens auf meiner Handfläche weckte meine Seele, schenkte ihr Licht, Hoffnung und Freude und befreite sie." ✋

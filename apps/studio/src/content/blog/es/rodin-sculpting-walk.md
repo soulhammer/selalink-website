@@ -21,7 +21,6 @@ faqs:
     answer: "Las pelotas antiestrés de silicona, cubos fidget, minikalimbas, piezas de madera suave o piedras de río pulidas son excelentes alternativas."
   - question: "¿Cómo aumenta la creatividad la estimulación táctil de las yemas de los dedos?"
     answer: "Las manos ocupan la mayor proporción de las cortezas motora y somatosensorial del cerebro. Estimular los dedos activa vías neuronales inactivas, impulsando la asociación creativa de ideas."
-
 ---
 
 Auguste Rodin (1840–1917), el maestro de la escultura moderna que infundió vitalidad ardiente y emoción trágica a la piedra fría y al bronce con obras maestras como 'El pensador' y 'La puerta del Infierno'. ¿De dónde procedía la abrumadora tridimensionalidad e inspiración que revolucionó la historia del arte? 🗿

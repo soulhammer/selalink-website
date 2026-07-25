@@ -21,7 +21,6 @@ faqs:
     answer: "Si se fuerza una solución con estrés, sí. La clave es evitar la preocupación activa. Escanee los documentos en papel de forma pasiva, como si leyera un cuento, y delegue el trabajo al subconsciente: 'El cerebro lo resolverá esta noche'. Esta actitud relajada evita la activación simpática."
   - question: "¿La rutina es un fracaso si no surge una idea genial inmediatamente al despertar?"
     answer: "En absoluto. Los resultados del proceso en el sueño REM a menudo emergen con un leve retraso cognitivo. La solución suele aparecer durante actividades matutinas relajadas —como ducharse, preparar café o caminar— cuando los filtros prefrontales están relajados."
-
 ---
 
 "Nos contamos historias a nosotros mismos para poder vivir. La secuencia adecuada a menudo se moldea de noche, en la calma del sueño." 🛏️

@@ -21,7 +21,6 @@ faqs:
     answer: "Naturlandschaften sind zwar am effektivsten zur Erholung der Aufmerksamkeit, aber das Gehen durch abwechslungsreiche Stadtviertel stimuliert den visuellen Kortex ebenso gut und ist eine hervorragende Alternative."
   - question: "Kann man den Spaziergang durch schnelles Joggen oder Laufbandtraining ersetzen?"
     answer: "Intensives Laufen auf dem Laufband stärkt zwar die Fitness, lässt dem Gehirn aber keinen Raum für Beobachtung und Gedanken. Für kreative Impulse ist ein ruhiger 'Erkundungsspaziergang' am besten geeignet."
-
 ---
 
 "Die Natur ist mein lebenslanger Lehrmeister. Die gerade Linie gehört dem Menschen, die geschwungene Gott." ⛪

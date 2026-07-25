@@ -21,7 +21,6 @@ faqs:
     answer: "Gewöhnliches Multitasking zersplittert die Aufmerksamkeit auf verschiedene Aufgaben gleichzeitig (z. B. Nachrichten lesen und E-Mails schreiben). Simultanes Diktieren nutzt den 'sequenziellen Einzel-Fokus': volle Konzentration auf eine Aufgabe vor dem geplanten Wechsel zur nächsten."
   - question: "Kann man diese Methode auch durch Tippen statt durch Diktieren umsetzen?"
     answer: "Das Tippen ist langsamer als das Gedankentempo, was zu Verzögerungen führt. Diktierfunktionen (STT) ermöglichen das flüssige Erfassen von Gedanken im Sprechtempo. Das rasche Einsprechen von Entwürfen mit anschließender Überarbeitung schont das Arbeitsgedächtnis."
-
 ---
 
 "Veni, vidi, vici. (Ich kam, ich sah, ich siegte.)" ⚔️

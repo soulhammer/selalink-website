@@ -21,7 +21,6 @@ faqs:
     answer: "Non. L'essentiel est de garantir un moment d'éveil cognitif sans distraction. Se lever seulement 30 minutes plus tôt que d'habitude et lire au calme sans téléphone produit exactement le même effet."
   - question: "Est-il possible de lire des romans en ligne ou des articles de réseaux sociaux ?"
     answer: "Pour éveiller votre esprit, les livres papier structurés sont bien plus efficaces que les contenus en ligne fragmentés. La philosophie, la littérature classique ou l'histoire qui stimulent la réflexion active apportent de bien meilleurs bénéfices."
-
 ---
 
 "Ne pas apprendre, c'est être assis dans une pièce sombre ; lire des livres, c'est tenir une lampe."

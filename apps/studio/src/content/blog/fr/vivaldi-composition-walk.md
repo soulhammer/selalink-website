@@ -21,7 +21,6 @@ faqs:
     answer: "Il est essentiel de revoir et de compléter vos notes dans les 1 à 2 heures suivant leur capture. Réduire le délai entre la note et la rédaction préserve les souvenirs sensorielles."
   - question: "Avez-vous une astuce si enregistrer des mémos vocaux en public semble gênant vis-à-vis des autres ?"
     answer: "Mettez des écouteurs et parlez doucement comme si vous étiez au téléphone. Vous pourrez ainsi capturer vos idées sans attirer l'attention."
-
 ---
 
 Antonio Vivaldi (1678–1741), virtuose du violon et compositeur baroque italien surnommé 'Le Prêtre roux' (Il Prete Rosso), a composé 'Les Quatre Saisons', plus de 500 concertos et 40 opéras. En tant que directeur musical à l'Ospedale della Pietà de Venise, quel était son secret pour retranscrire une telle abondance d'idées musicales ? 🎻

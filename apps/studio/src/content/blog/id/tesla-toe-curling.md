@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah mengerutkan jari kaki benar-benar membantu mengaktifkan otak?"
     answer: "Ya! Pada peta korteks somatosensori otak, area jari kaki terletak di dekat bagian tengah. Merangsang otot-otot halus jari kaki secara halus mengaktifkan lobus frontal melalui saraf tepi."
-
 ---
 
 Tahukah Anda bahwa Nikola Tesla (1856–1943), ilmuwan jenius yang menerangi dunia bersama Edison dan meletakkan dasar bagi sistem listrik arus bolak-balik (AC) serta komunikasi nirkabel, mengulangi ritual ajaib setiap malam di tempat tidur? ⚡

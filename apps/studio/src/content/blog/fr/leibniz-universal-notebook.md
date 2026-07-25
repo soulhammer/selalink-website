@@ -21,7 +21,6 @@ faqs:
     answer: "Oui ! Les outils numériques sont idéaux pour la recherche et les hyperliens. L'important est d'éviter de multiplier les dossiers séparés ; créez plutôt una base de données unique indexée par dates et mots-clés pour reproduire le système unifié de Leibniz."
   - question: "Consigner toutes les informations dans un carnet unique ne risque-t-il pas de créer un désordre ?"
     answer: "L'accumulation prime sur l'ordre immédiat. Le cerveau a besoin d'une masse critique de données rassemblées pour créer des liens inattendus. Séparez la collecte de l'organisation en utilisant les mots-clés lors de vos relectures hebdomadaires."
-
 ---
 
 « Une pensée non inscrite s'évapore comme la brume d'été sans laisser de trace. » 📒

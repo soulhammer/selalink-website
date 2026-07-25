@@ -21,7 +21,6 @@ faqs:
     answer: "No. Lo esencial es la 'desconexión física de la información artificial' y la 'atención en tareas analógicas'. Designar un espacio libre de teléfonos en su hogar durante 30 a 60 minutos ofrece exactamente los mismos beneficios."
   - question: "¿Por qué las tareas domésticas o el trabajo físico sencillo favorecen la reflexión profunda?"
     answer: "Las tareas físicas repetitivas que requieren poco esfuerzo consciente reducen la carga cognitiva. Este estado disminuye el control prefrontal, permitiendo que la Red por Defecto asocie conceptos inconscientes y genere ideas de forma más eficaz que el esfuerzo intelectual forzado."
-
 ---
 
 "En Bollingen estoy en medio de mi verdadera vida, soy profundamente yo mismo... No hay electricidad ni agua corriente, pero mi alma recupera su plenitud orgánica." 🪵

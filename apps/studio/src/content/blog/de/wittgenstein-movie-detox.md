@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Hat das stundenlange Anschauen von Short-Videos oder Reels auf dem Smartphone einen ähnlichen Effekt?"
     answer: "Nein, keineswegs! Kurzvideos überschütten das Gehirn alle paar Sekunden mit neuen Reizen. Jeder Wisch erzwingt eine Neubeurteilung und schüttet Dopamin aus, was das Gehirn zerstreut. Wittgensteins Schlüssel lag in einer dauerhaften, ruhigen Reizeinwirkung zum Abschalten."
-
 ---
 
 "Wenn mich die Philosophie in den Wahnsinn treibt, ist die Einfachheit amerikanischer Western in der ersten Kinoreihe das einzige Elixier, das mein Gehirn wieder belebt." 🤠

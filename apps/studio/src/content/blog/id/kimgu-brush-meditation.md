@@ -21,7 +21,6 @@ faqs:
     answer: "Mengatur tekanan dan sudut kuas membutuhkan Kontrol Motorik Halus, yang sangat mengaktifkan korteks somatosensori dan jaringan eksekutif prefrontal. Keterlibatan terkonsentrasi ini menekan sinyal ancaman di amigdala."
   - question: "Bisakah saya mencapai manfaat neurobiologis yang identik menggunakan pena fountain atau pena standar jika saya tidak memiliki kuas kaligrafi?"
     answer: "Ya, tentu saja! Mekanisme utamanya bukanlah alat tertentu, melainkan 'modulasi tekanan halus dan penguraian kecepatan motorik yang disengaja'. Memegang pena fountain atau pensil saat menulis secara lambat (Slow Writing) memberikan manfaat yang identik."
-
 ---
 
 "Saat saya mengumpulkan seluruh kekuatan saya di ujung kuas untuk menarik satu garis, gangguan yang kacau akan surut, menyisakan hanya keyakinan transparan di atas kertas." 🖌️

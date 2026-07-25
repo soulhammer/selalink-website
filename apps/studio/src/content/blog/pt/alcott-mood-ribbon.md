@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "O que devo fazer se as pessoas ao meu redor não gostarem dessa rotina de sinais por acharem que ela prejudica a comunicação?"
     answer: "Deve-se evitar deixar o sinal de bloqueio ativo por períodos excessivamente longos. É fundamental limitar o tempo de foco a um máximo de 50 minutos a 1 hora e construir confiança demonstrando ativamente que você está disponível para conversar fora desse período determinado."
-
 ---
 
 "É quando a tempestade ruge que aprendo a pilotar meu navio." 🎀

@@ -21,7 +21,6 @@ faqs:
     answer: "Certes, une coupure totale de 3 heures peut être difficile dans un cadre professionnel classique. Dans ce cas, vous pouvez diviser ce temps en blocs de « 90 minutes de concentration - repos complet » (ex. : 1h30 le matin et 1h30 l'après-midi), ce qui préservera tout de même grandement l'efficacité cérébrale."
   - question: "Puis-je continuer des tâches plus légères l'après-midi après le bloc de concentration de 3 heures ?"
     answer: "Oui. Après 3 heures de Deep Work, vous pouvez effectuer des tâches répétitives simples, consulter vos e-mails ou vous occuper de tâches administratives (travail superficiel) ne nécessitant pas de prises de décision complexes. Occuper l'après-midi avec des tâches peu exigeantes préserve l'énergie du cortex préfrontal."
-
 ---
 
 « Je ne travaille que trois heures par jour. Mais pendant ces trois heures, je suis totalement coupé du monde et concentré uniquement sur ma logique. » ☕

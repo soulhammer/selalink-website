@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely. The purpose of this routine is not artistic performance or technical virtuosity, but nervous system stabilization through tuning and acoustic resonance. Simple, accessible instruments like a Kalimba (thumb piano) or a 4-string Ukulele allow you to tune and pluck notes within 10 minutes, providing full parasympathetic relaxation benefits."
   - question: "Is using a smartphone tuning app effective for this routine?"
     answer: "Yes, provided you do not stare at the screen. Keep the app open for reference, but direct your gaze away from the device. Focusing your attention on the tactile feel of string tension and the acoustic vibration rather than visual meters disengages visual cortical strain, triggering parasympathetic recovery."
-
 ---
 
 "When the mind is not clear, strike the strings. To tune an instrument is to tune one's inner soul." 🎼

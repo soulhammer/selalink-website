@@ -21,7 +21,6 @@ faqs:
     answer: "La toma de notas habitual captura texto de forma pasiva. En cambio, el método de Daguerre 'expone' activamente la idea en la corteza visual durante 3 segundos antes de escribir. Esto genera una instantánea sensorial para que, al revisar una palabra clave más tarde, se reconstruya el contexto original."
   - question: "¿Qué debo hacer si estoy caminando o conduciendo y no puedo escribir o dibujar inmediatamente?"
     answer: "Ejecute primero la fijación visual de 3 segundos para grabar la imagen en su corteza occipital, y luego grabe una nota de voz rápida en su teléfono. Al haber completado la exposición de 3 segundos, una breve grabación de audio conservará el contexto cognitivo."
-
 ---
 
 "La luz es el pincel que pinta, y la placa de plata es el recipiente eterno que alberga ese instante." 📷

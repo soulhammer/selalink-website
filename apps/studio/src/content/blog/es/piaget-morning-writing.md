@@ -21,7 +21,6 @@ faqs:
     answer: "Aunque teclear funciona, escribir a mano estimula los músculos finos de los dedos, activando con mayor intensidad el lóbulo prefrontal y la corteza somatosensorial para mejorar la concentración."
   - question: "¿Qué hago si no tengo parques o entornos naturales cerca para caminar?"
     answer: "Incluso sin bosques o lagos, caminar por aceras tranquilas, callejones residenciales o pasillos en silencio sin teléfono aporta exactamente los mismos beneficios cognitivos de activación de la DMN."
-
 ---
 
 "La inteligencia no es lo que sabemos, sino lo que hacemos cuando no sabemos." 🚶‍♂️

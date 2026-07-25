@@ -21,7 +21,6 @@ faqs:
     answer: "Multitasking konvensional memecah perhatian secara bersamaan di seluruh saluran yang bersaing (misalnya, memeriksa pesan saat menyusun email), menyebabkan gesekan kognitif yang parah. Dikte simultan menggunakan 'Fokus Tunggal Berurutan'."
   - question: "Bisakah saya mempraktikkan rutinitas ini menggunakan pengetikan manual alih-alih dikte suara?"
     answer: "Kecepatan mengetik secara signifikan lebih lambat daripada proyeksi pemikiran kognitif mentah, menciptakan kemacetan motorik. Menggunakan alat Speech-to-Text (STT) memungkinkan pemikiran mengalir secara bebas pada kecepatan bicara alami."
-
 ---
 
 "Veni, vidi, vici. (Saya datang, saya melihat, saya menang.)" ⚔️

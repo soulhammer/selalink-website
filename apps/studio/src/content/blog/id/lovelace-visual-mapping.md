@@ -21,7 +21,6 @@ faqs:
     answer: "Pemetaan pikiran berfokus pada curah pendapat radial bebas, sedangkan pemetaan visual Lovelace memodelkan logika operasional—alur data, perulangan kontrol, dan struktur kausalik."
   - question: "Apakah harus menggunakan perangkat lunak rumit seperti UML atau Figma?"
     answer: "Tidak! Mengoperasikan UI perangkat lunak justru membuang sumber daya kognitif. Gambar tangan analog pada kertas atau papan tulis mengaktifkan Pengodean Ganda secara jauh lebih langsung."
-
 ---
 
 "Saya menemukan keindahan sejati matematika ketika memproyeksikan hubungan organik yang tersembunyi secara visual." 📊

@@ -21,7 +21,6 @@ faqs:
     answer: "Sí. Examinar micro-patrones en plantas de interior activa la Fascinación Suave, reduciendo la fatiga prefrontal. Sin embargo, la observación al aire libre combinada con luz solar y caminata suave ofrece la mayor restauración cognitiva y neurológica."
   - question: "¿Realmente necesito llevar una lupa y sobres de recolección como Goethe?"
     answer: "Utilizar una lupa aumenta la resolución visual y estimula intensamente la corteza visual, pero no es obligatorio. Observar atentamente a simple vista la nervadura de las hojas o los patrones de semillas es suficiente para obtener los beneficios de la Teoría de Restauración de la Atención (ART)."
-
 ---
 
 "La naturaleza nos habla en un profundo silencio. Concentrarse en los pequeños misterios de la naturaleza es la estación de recarga que despierta los pensamientos más claros del cerebro." 🌱

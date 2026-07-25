@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apa yang harus dilakukan pekerja di kantor terbuka jika tidak dapat mengisolasi diri secara fisik?"
     answer: "Kombinasikan 'isolasi pendengaran' dan 'isolasi digital'. Menggunakan headphone noise-canceling dengan suara hujan memberikan efek pemblokiran mirip dinding fisik. Ubah status pesan menjadi 'Jangan Ganggu' dan maksimalkan satu jendela kerja untuk membuat 'pondok mini digital'."
-
 ---
 
 "Hanya dalam kesendirian dan kedamaian mutlak, suara alam yang paling dalam dapat masuk ke dalam lembaran musikku." 🎼

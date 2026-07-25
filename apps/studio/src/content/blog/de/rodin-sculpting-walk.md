@@ -21,7 +21,6 @@ faqs:
     answer: "Silikon-Stressbälle, Fidget Cubes, Minikalimbas, glatte Holzstücke oder polierte Flusssteine sind hervorragende Alternativen."
   - question: "Wie steigert taktile Fingerspitzenstimulation die Kreativität?"
     answer: "Die Hände belegen den größten Bereich der motorischen und sensorischen Hirnrinde. Feine Fingerspitzenstimulation aktiviert ungenutzte neuronale Netzwerke und fördert kreative Assoziationen."
-
 ---
 
 Auguste Rodin (1840–1917), der Meister der modernen Plastik, der hartem Stein und Bronze mit Meisterwerken wie 'Der Denker' und 'Das Höllentor' feuriges Leben einhauchte. Woher stammten die plastische Tiefe und Inspiration, die die Kunstgeschichte neu prägten? 🗿

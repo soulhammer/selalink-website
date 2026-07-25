@@ -21,7 +21,6 @@ faqs:
     answer: "¡Sí! No se trata de recetas complejas. Simplemente preparar café de goteo o freír un huevo con cuidado brinda todos los beneficios sensoriales."
   - question: "¿Realmente reduce el estrés el acto físico de cocinar?"
     answer: "Según estudios de terapia ocupacional, manipular alimentos con las manos para crear un resultado final suprime las señales neuronales depresivas y mejora la autoestima."
-
 ---
 
 Su Dongpo (Su Shi, 1037–1101), poeta, ensayista y estadista maestro de la Dinastía Song del Norte. A pesar de sus reiterados exilios a regiones remotas como Huangzhou y la isla de Hainan por luchas políticas, superó la desesperación a través de su optimismo romántico.

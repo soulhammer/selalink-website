@@ -21,7 +21,6 @@ faqs:
     answer: "Quando se pede para ler com antecedência, agendas corridas frequentemente fazem com que as pessoas apenas passem os olhos ou não leiam. Ao impor uma sessão de leitura silenciosa de 30 minutos na reunião, Bezos garantiu uma sincronização cognitiva completa entre todos os presentes."
   - question: "Redigir um memo narrativo de 6 páginas não exige tempo e esforço excessivos?"
     answer: "Sim, exige muito mais rigor e esforço por parte do autor. No entanto, o próprio processo de escrita funciona como uma autoauditoria que expõe falhas lógicas com antecedência, reduzindo drasticamente reuniões desnecessárias e acelerando a tomada de decisões."
-
 ---
 
 "Escrever bem um texto é prova de um pensamento profundo e estruturado. Tópicos apenas cobrem um pensamento superficial." 📝

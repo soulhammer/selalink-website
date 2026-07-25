@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, à condition que le texte exige un effort cognitif actif. Si la fiction légère offre une stimulation préfrontale minimale, lire de la littérature classique ou des essais riches en motivations complexes sollicite fortement les réseaux de contrôle cognitif préfrontaux."
   - question: "Les tablettes ou liseuses à encre électronique procurent-elles les mêmes bénéfices de restructuration cognitive que les livres papier ?"
     answer: "Oui, à condition de bloquer toute distraction. Si vous utilisez une tablette, activez le mode Ne pas déranger. Les livres papier et les liseuses à encre électronique sont préférables, car le feuilletage tactile et l'absence de scintillement réduisent la fatigue visuelle."
-
 ---
 
 « La lecture est un devoir pour le révolutionnaire. Celui qui ne lit pas est condamné à être manipulé par la pensée des autres et des informations altérées. » 📖

@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, las investigaciones de la psicología cognitiva sobre la cognición vestida (Enclothed Cognition) lo demuestran firmemente. El solo hecho de cambiarse de pijama o ropa de estar por casa a prendas pulcras como pantalones o camisas hace que el cerebro cambie su modo simbólico de un 'contexto de descanso' a un 'contexto de trabajo', reduciendo la procrastinación y acortando drásticamente el tiempo de calentamiento inicial para la concentración."
   - question: "Cuando es difícil cambiarse a un traje completo o ropa de salir, ¿puede un solo artículo como gafas o un reloj seguir siendo efectivo?"
     answer: "¡Sí, por supuesto! Siempre que el artículo sea reconocido por el cerebro como una 'señal de trabajo simbólica', pistas individuales como ponerse gafas, usar un reloj analógico dedicado al enfoque o calzar zapatillas limpias de interior pueden inducir el mismo efecto de condicionamiento. La clave está en mantener de manera constante su propia regla simbólica de que 'usar este artículo activa el modo de inmersión'."
-
 ---
 
 "Cuando llega la noche, regreso a casa y entro en mi estudio. En el umbral, me quito la ropa de trabajo manchada de barro y me pongo vestiduras reales y cortesanas. Vestido adecuadamente, entro en las antiguas cortes de los hombres de la antigüedad." 👑

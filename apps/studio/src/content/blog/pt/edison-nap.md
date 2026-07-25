@@ -21,7 +21,6 @@ faqs:
     answer: "Ao adormecer, o relaxamento muscular fazia as esferas caírem, acordando-o instantaneamente para capturar as ideias do estado hipnagógico antes de adormecer profundamente."
   - question: "Existem alternativas à técnica de Edison para ambientes de escritório onde o ruído é restrito?"
     answer: "Sim. Você pode colocar uma toalha macia no chão para abafar o som, ou definir um alarme curto de 1 a 3 minutos no celular para acordar durante o sono leve N1."
-
 ---
 
 "O sono é uma perda de tempo, mas a fronteira do subconsciente é a ferramenta de invenção mais poderosa do ser humano." 💤

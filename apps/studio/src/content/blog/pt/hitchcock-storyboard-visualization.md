@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, com certeza! A essência do storyboard não é o talento artístico, mas a estruturação da ação e a simulação. Usar ferramentas como Figma, Miro ou aplicativos de mapas mentais para organizar blocos e texto oferece os mesmos benefícios cognitivos."
   - question: "O que fazer se surgirem variáveis imprevistas durante a execução que se desviem do storyboard?"
     answer: "O storyboard é um guia flexível. Se surgirem imprevistos, faça uma breve pausa, revise a alternativa anotada naquele quadro, faça uma simulação mental de 10 segundos do novo caminho e ajuste sua ação."
-
 ---
 
 "Um filme não é feito no set. Ele é concluído 100% no papel e na mente antes do início das filmagens. Ir ao set é apenas o processo mecânico de copiar o projeto." 🎬

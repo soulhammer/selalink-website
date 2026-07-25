@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah transkripsi dengan mengetik di keyboard juga efektif?"
     answer: "Mengetik terdiri dari pengulangan gerakan menekan tombol yang sama untuk semua huruf, sehingga tingkat stimulasi pada area logika lobus parietal jauh lebih rendah dibandingkan dengan tulisan tangan analog, di mana Anda menggambar garis huruf dengan tangan dan mengontrol tekanan ujung pulpen."
-
 ---
 
 Johann Sebastian Bach, yang dijuluki 'Bapak Musik', menyempurnakan kontrapung dan harmoni era Barok, menjadi kompas bagi semua musisi Barat seperti Beethoven dan Mozart. Di balik jalinan harmoni matematisnya yang kompleks, tersembunyi struktur logis yang sangat presisi. Logika kontrapung yang jenius ini tidak hanya berasal dari bakat terlahir, melainkan dari rutinitas intelektual seumur hidup. ✍️

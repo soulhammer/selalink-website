@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak. Gambar layar digital adalah kisi piksel 2D datar yang gagal melibatkan jaringan saraf persepsi kedalaman 3D otak. Anda harus mendekode kedalaman fisik dan tekstur mikro objek nyata dengan mata telanjang."
   - question: "Haruskah saya mengamati objek statis saja, atau bisakah saya mengamati subjek yang bergerak?"
     answer: "Subjek dinamis sangat bagus! Menganalisis lintasan gerakan halus—seperti kibasan ekor kucing atau gerakan sirip ikan di akuarium—mempertajam jaringan Perhatian Selektif dengan sangat efektif."
-
 ---
 
 "Hanya ketika Anda mengamati dengan tenang, tanpa penilaian atau intervensi, alam akan membuka pintu ke rahasia terdalamnya." 🐒

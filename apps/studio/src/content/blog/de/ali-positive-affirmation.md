@@ -21,7 +21,6 @@ faqs:
     answer: "Es ist völlig natürlich, sich anfangs unwohl zu fühlen, was auf kognitive Dissonanz (Cognitive Dissonance) zurückzuführen ist. Wichtig ist nicht das Überprüfen von Tatsachen, sondern dem Gehirn neue Möglichkeiten zu eröffnen. Je öfter Sie dies wiederholen, desto mehr werden die neuronalen Schaltkreise durch Neuroplastizität (Neuroplasticity) umgestaltet, sodass das unwohle Gefühl verschwindet und sich zu einer Überzeugung verfestigt."
   - question: "Ist es nur wirksam, wenn ich es laut ausrufe?"
     answer: "Am besten ist es, die Schwingungen der Stimme direkt über das Gehör wahrzunehmen. Wenn die Umgebung ein lautes Sprechen jedoch erschwert, bietet auch Flüstern oder das leise Wiederholen jedes einzelnen Wortes im Geist mit starker Aufmerksamkeit (Silent Self-talk) ausreichend positive Reize zur Gehirnaktivierung."
-
 ---
 
 "Ich habe gesagt, dass ich der Größte bin, noch bevor ich wusste, dass ich es war. Du wirst, was du denkst." 🥊

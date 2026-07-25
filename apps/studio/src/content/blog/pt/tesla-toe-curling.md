@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Mover ou curvar os dedos dos pés realmente ajuda a ativar o cérebro?"
     answer: "Sim! No mapa do córtex somatossensorial, a área dos dedos dos pés fica próxima ao centro. Estimular os pequenos músculos dos pés ativa suavemente o lobo frontal através dos nervos periféricos."
-
 ---
 
 Você sabia que Nikola Tesla (1856–1943), o cientista genial que iluminou o mundo ao lado de Edison e lançou as bases do sistema elétrico de corrente alternada (CA) e das comunicações sem fio, repetia um estranho ritual todas as noites na cama? ⚡

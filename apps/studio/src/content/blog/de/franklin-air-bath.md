@@ -21,7 +21,6 @@ faqs:
     answer: "Ja. Milde Kältereize stärken die Flexibilität des autonomen Nervensystems. Durch die Ausschüttung von Noradrenalin wird Morgenmüdigkeit vertrieben und die präfrontale Steuerung geschärft."
   - question: "Wie sollte man ein Luftbad im kalten Winter sicher durchführen?"
     answer: "Im Winter ist lange Nacktheit bei offenem Fenster gefährlich. Führen Sie ein 'Mini-Luftbad' durch: Öffnen Sie das Fenster nur 1 bis 2 Minuten kurz zum Lüften und genießen Sie die kühle Raumluft danach 3 bis 5 Minuten lang."
-
 ---
 
 "Ich stehe fast jeden Morgen früh auf und sitze eine halbe oder ganze Stunde ohne Kleidung in meinem Zimmer... Das nenne ich mein Luftbad." 💨

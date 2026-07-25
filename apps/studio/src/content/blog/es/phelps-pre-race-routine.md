@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Qué sucede si se omite accidentalmente un paso de la rutina?"
     answer: "El cerebro puede reaccionar de forma hipersensible a las desviaciones inesperadas, aumentando temporalmente la ansiedad. En esos casos, reinicie suavemente desde el principio o pase con flexibilidad al siguiente intento."
-
 ---
 
 "Antes de entrar al agua, ya había nadado una carrera perfecta incontables veces en mi mente." 🏊‍♂️

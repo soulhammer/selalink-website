@@ -21,7 +21,6 @@ faqs:
     answer: "Nein. Der Kern liegt im ungestörten kognitiven Aufwärmen direkt nach dem Aufstehen. Es reicht völlig aus, 30 Minuten früher als sonst aufzustehen und ohne Smartphone-Ablenkung zu lesen."
   - question: "Ist es in Ordnung, Web-Romane oder Social-Media-Artikel zu lesen?"
     answer: "Um das Gehirn aufzuwärmen, sind gut strukturierte Bücher fragmentierten Online-Inhalten weit überlegen. Philosophie, Literatur oder Geschichtsbücher, die aktives Denken erfordern, aktivieren das Gehirn wesentlich effektiver."
-
 ---
 
 "Wer nicht lernt, sitzt in einem dunklen Raum; Bücher zu lesen ist wie das Hochhalten einer Lampe."

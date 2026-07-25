@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Faut-il nécessairement une rose jaune ?"
     answer: "Non. La rose jaune était simplement le choix personnel de Márquez pour son confort psychologique. Vous pouvez librement choisir tout objet qui vous apporte de la sérénité, comme une petite plante ou une jonquille."
-
 ---
 
 "Tant qu'il y a des roses jaunes sur mon bureau, rien de mal ne peut m'arriver et le travail avance." 🌹

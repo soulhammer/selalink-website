@@ -21,7 +21,6 @@ faqs:
     answer: "¡Sí! Desbloquear el mecanismo de inclinación de su silla de oficina y mecer suavemente el torso hacia adelante y hacia atrás estimula los receptores vestibulares, evitando la carga estática y activando el sistema parasimpático."
   - question: "¿Cuál es la velocidad o ritmo óptimo de balanceo para relajar el sistema nervioso?"
     answer: "El ritmo ideal para inducir la activación parasimpática es de 0,5 Hz a 1 Hz. Completar un ciclo completo de ida y vuelta cada 1,5 a 2 segundos genera una onda suave que calma la excitación del sistema nervioso central."
-
 ---
 
 "En medio de un dolor físico intenso y una crisis nacional, necesito un espacio que estabilice mi cuerpo y mi sistema nervioso. El suave movimiento de la mecedora calma mi dolor de espalda y devuelve la compostura en el Despacho Oval." 🪑

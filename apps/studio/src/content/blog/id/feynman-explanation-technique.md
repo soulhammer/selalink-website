@@ -21,7 +21,6 @@ faqs:
     answer: "Anak kecil sungguhan tidak diperlukan. Anda dapat membayangkan rekan kerja, boneka di meja Anda, atau menggunakan chatbot AI yang diatur ke tingkat pemahaman anak berusia 10 tahun. Tujuan utamanya adalah proses penyaringan kognitif untuk menghilangkan istilah teknis."
   - question: "Apakah normal jika kalimat menjadi panjang dan canggung saat menghilangkan semua istilah teknis?"
     answer: "Ya, ini sangat alami! Perjuangan untuk menerjemahkan konsep ke dalam bahasa biasa—meskipun membuat kalimat menjadi panjang—adalah proses yang memaksimalkan metakognisi. Setelah konsep tersebut diinternalisasi sepenuhnya, pikiran Anda akan menyempurnakannya menjadi penjelasan yang ringkas dan jelas."
-
 ---
 
 "Jika Anda tidak dapat menjelaskannya secara sederhana, Anda belum cukup memahaminya." 📝

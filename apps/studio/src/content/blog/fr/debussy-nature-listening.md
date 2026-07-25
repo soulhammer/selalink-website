@@ -21,7 +21,6 @@ faqs:
     answer: "Si l'accès à l'extérieur est limité, ouvrez une fenêtre tôt le matin pour vous concentrer sur le vent et le calme, ou utilisez un casque pour écouter du Bruit Rose $1/f$ de haute qualité (pluie, forêt ou mer) pendant 5 minutes."
   - question: "Cette routine est-elle efficace si elle est pratiquée l'après-midi pendant le travail ?"
     answer: "Oui, tout à fait. Chaque fois que vous ressentez une fatigue auditive ou une tension pendant le travail, faites une pause de 5 minutes pour couper vos appareils et écouter des sons naturels, ce qui dissipera la fatigue préfrontale."
-
 ---
 
 « La musique n'existe pas seulement sur les partitions, elle réside dans le silence entre les notes et le murmure du vent. » 🌊

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Que faire lorsque j'ai le syndrome de la page blanche et que je n'arrive pas du tout à me concentrer ?"
     answer: "Au lieu de ne rien écrire ou de prendre votre smartphone, restez assis à votre bureau, tenez votre stylo et commencez simplement à griffonner."
-
 ---
 
 « Écrire n'est pas une éruption d'inspiration, mais un travail honnête semblable à celui d'un agriculteur qui laboure son champ à heure fixe chaque jour. » 🖋️

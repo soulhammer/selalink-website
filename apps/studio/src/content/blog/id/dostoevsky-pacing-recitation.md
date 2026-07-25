@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak. Berbisik atau subvokalisasi hening gagal melibatkan otot motorik artikulasi secara penuh dan menghasilkan umpan balik pendengaran yang tidak cukup. Anda harus mengartikulasikan dengan jelas sehingga suara Anda merambat melalui udara dan kembali melalui telinga, menyempurnakan Loop Umpan Balik Auditorik-Motorik."
   - question: "Apakah efektif untuk merekam pemikiran lisan menggunakan memo suara smartphone atau aplikasi Speech-to-Text (STT) saat berjalan?"
     answer: "Ya, ini adalah implementasi modern yang luar biasa dari rutinitas Dostoevsky. Menangkap pemikiran lisan Anda melalui memo suara atau aplikasi STT mencegah tulisan tangan fisik mengganggu alur jalan kaki dan vokal Anda, menurunkan gesekan kognitif."
-
 ---
 
 "Sebuah kalimat baru menjadi benar ketika keluar dari mulut dan terdengar di telinga." 🗣️

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "É possível replicar o método de cartões de Nabokov usando ferramentas digitais de anotação em vez de cartões de papel físicos?"
     answer: "Sim, com certeza. Você pode usar a visualização Kanban do Notion, o Trello ou ferramentas de quadro branco digital (Miro, FigJam) para transformar fragmentos de pensamento em cartões e arrastá-los para reorganizar. O ponto essencial não é escrever textos longos de uma só vez, mas sim 'modularizar' os pensamentos em objetos móveis."
-
 ---
 
 "Um romance não é escrito em ordem do início ao fim. Dentro da imagem perfeita que existe em minha mente, eu apenas preencho as peças vazias do quebra-cabeça uma a uma usando cartões." 🃏

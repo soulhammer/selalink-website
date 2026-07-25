@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, com certeza. O mecanismo fundamental baseia-se no condicionamento sensorial entre a cor e os estados cognitivos. Definir temas de fundo distintos em aplicativos de notas, cores de pastas no Notion ou temas de interface envia sinais de priming idênticos ao córtex pré-frontal."
   - question: "Atribuir muitas variações de cor provocará uma sobrecarga cognitiva inversa ou confusão?"
     answer: "Sim, exatamente. Para o cérebro vincular uma cor a um estado cognitivo, requer-se um aprendizado associativo constante. Usar 5 ou mais cores transforma os sinais visuais em desordem sensorial, anulando o priming. Limite seu sistema estritamente a 2 ou 3 domínios para maximizar os benefícios."
-
 ---
 
 "A cor do papel não é um mero capricho. É a chave que guia minha imaginação diretamente para um gênero específico." ✍️

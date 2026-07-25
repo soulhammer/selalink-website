@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Como posso usar a limpeza como meditação?"
     answer: "Em vez de se concentrar em terminar rapidamente, é eficaz concentrar-se no próprio feedback sensorial, como o som da varredura e a sensação tátil nas mãos."
-
 ---
 
 "Varrer a poeira do jardim não é apenas remover folhas caídas, mas eliminar o ruído desnecessário da mente e contemplar o espaço vazio da natureza."

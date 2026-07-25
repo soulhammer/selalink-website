@@ -21,7 +21,6 @@ faqs:
     answer: "Non. La lumière bleue et les contenus stimulants maintiennent l'éveil cérébral et bloquent la mélatonine. La vraie relaxation cognitive nécessite des activités analogiques sollicitant le toucher sans écran."
   - question: "Que faire si consacrer 30 minutes chaque soir semble trop long ou difficile ?"
     answer: "Commencer par seulement 10 minutes est très efficace. Fermer votre ordinateur pour griffonner dans un carnet ou écrire quelques lignes envoie le signal que « la journée est terminée », déclenchant la relaxation."
-
 ---
 
 « Je dois à la philatélie le maintien de ma santé mentale. » ✉️

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Marcher sur un tapis roulant en intérieur produit-il le même effet ?"
     answer: "Bien que l'augmentation du flux sanguin soit similaire, l'exploration visuelle de la nature offre des stimulations visuo-spatiales et réduit le niveau de cortisol bien plus efficacement en marchant dans des parcs ou en pleine nature."
-
 ---
 
 Socrate (v. 470–399 av. J.-C.) était le sage de l'Athènes antique qui a posé les bases de la philosophie occidentale. Les récits de Platon et Xénophon décrivent son habitude quotidienne unique. 👣

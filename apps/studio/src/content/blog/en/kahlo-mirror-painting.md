@@ -21,7 +21,6 @@ faqs:
     answer: "This is a completely natural reaction. In initial sessions, evaluative instincts trigger easily. Instead of scanning your entire face, anchor your focus strictly onto your pupil. Center your attention on making direct contact with the core of your conscious awareness rather than analyzing facial features."
   - question: "Is mirror-gazing therapeutically effective even if I do not paint or draw self-portraits?"
     answer: "Yes, absolutely! For Frida Kahlo, painting was simply an extension tool to externalize self-confrontation achieved through mirror-gazing. Spending 5 minutes daily holding compassionate eye contact with your reflection in a mirror delivers identical self-acceptance and resilience-building neurobiological benefits without needing any artistic skills."
-
 ---
 
 "I paint self-portraits because I am so often alone, because I am the person I know best." 🎨

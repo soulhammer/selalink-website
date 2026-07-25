@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Does intense morning exercise leave you feeling fatigued during the morning?"
     answer: "Modulating exercise intensity is crucial. Rather than exhausting workouts that drain physical stamina, the key is brief 15 to 20-minute bodyweight sessions that temporarily raise heart rate and body temperature to stimulate blood circulation and alertness, tailored to individual fitness levels."
-
 ---
 
 "Physical labor is a duty and a salvation for those engaged in mental work. A mind that does not move the body is bound to rust." 🌾

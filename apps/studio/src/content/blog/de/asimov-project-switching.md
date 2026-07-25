@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Warum benutzte Isaac Asimov abwechselnd mehrere Schreibmaschinen?"
     answer: "Um kognitive Ermüdung und Stress zu vermeiden, die beim Feststecken an einem einzelnen Thema entstehen, wechselte er zwischen Aufgaben völlig unterschiedlicher Genres oder Eigenschaften ab, um andere Bereiche der Großhirnrinde zu wecken und so den Neuheits-Effekt zu erzielen."
-
 ---
 
 "Wenn ich beim Schreiben feststecke, versuche ich nicht, es zu erzwingen. Stattdessen gehe ich zu einer anderen Schreibmaschine und verfasse ein Manuskript zu einem völlig anderen Thema." ⌨️

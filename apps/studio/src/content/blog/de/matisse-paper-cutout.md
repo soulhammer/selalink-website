@@ -21,7 +21,6 @@ faqs:
     answer: "Ja. Es geht nicht um ein Kunstwerk. Der Kern liegt in der taktilen Stimulation der Schere und den visuellen Eindrücken der leuchtenden Farben. Dies lenkt das Gehirn ab und regt die Neuroplastizität an, ganz gleich wie unperfekt die Formen sind."
   - question: "Wie wäre es mit Knete oder einer Zeichen-App anstelle von Papierschnitten?"
     answer: "Das Formieren von Knete ist sehr zu empfehlen, da es hervorragendes taktiles Feedback bietet. Zeichen-Apps auf Tablets werden hingegen nicht empfohlen: Glattes Glas und Benachrichtigungen lenken ab und verhindern den mentalen Reset; analoge Werkzeuge sind deutlich besser."
-
 ---
 
 "Mit der Schere in Farbe zu schneiden ist wie direktes Meißeln in Stein. Man bewegt sich direkt von der Farbe in die Form." ✂️

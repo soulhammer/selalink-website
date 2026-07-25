@@ -21,7 +21,6 @@ faqs:
     answer: "Para reduzir o atrito de acesso físico a zero, permitindo-lhe externalizar observações em segundos sem perder nenhum pensamento. Esse design sem atrito mantinha limpa sua memória de trabalho, reservando a capacidade pré-frontal para associações criativas."
   - question: "Usar um aplicativo de notas no celular produz os mesmos benefícios de externalização que um caderno de papel?"
     answer: "Sim, com certeza. O mecanismo fundamental é transferir a informação para um meio externo para liberar a memória de trabalho (RAM). No entanto, escrever à mão ou desenhar no papel fornece uma retroalimentação tátil que estimula os córtex motor e visual, oferecendo uma consolidação superior."
-
 ---
 
 "Fixe o olhar no detalhe e registre-o imediatamente no papel. Quem confia apenas na memória perde a maior herança do conhecimento." 📓

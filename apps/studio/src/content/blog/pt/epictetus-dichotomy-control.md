@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, com certeza. Seu controle vai até a sua tentativa sincera de influenciar; a forma como a outra pessoa responde pertence 100% a ela. Aceitar essa fronteira elimina o estresse interpessoal."
   - question: "Ignorar os resultados não diminui minha paixão ou motivação?"
     answer: "De forma alguma! Na verdade, ocorre o oposto. Ao libertar o cérebro do medo do resultado, você pode canalizar 100% da sua energia cognitiva na própria tarefa."
-
 ---
 
 "A liberdade é o único objetivo digno na vida. Ela é conquistada ao ignorarmos as coisas que estão além do nosso controle." 📜

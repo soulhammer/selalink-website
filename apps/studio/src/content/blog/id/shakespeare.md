@@ -21,7 +21,6 @@ faqs:
     answer: "Menonton siaran berita atau video wawancara dan mencatat pola kata keterangan pembicara atau percepatan tempo bicara saat bersemangat berfungsi sebagai latihan keselarasan bahasa yang sangat baik."
   - question: "Apakah latihan pengumpulan bahasa ini dapat diterapkan pada negosiasi bisnis atau penulisan proposal?"
     answer: "Ya, dengan mengumpulkan pola kosakata khusus yang sering digunakan oleh mitra Anda, Anda dapat menyelaraskan pilihan kata Anda selama negosiasi, mencapai hubungan yang erat dan daya bujuk yang tinggi."
-
 ---
 
 William Shakespeare (1564–1616) adalah dramawan terbesar dalam sejarah manusia dan raksasa sastra Inggris yang menciptakan karya-karya drama agung seperti 'Hamlet', 'Macbeth', 'Othello', dan 'King Lear'. Ia menjaga rutinitas harian unik yang memicu kejeniusan kreatifnya. 🎭

@@ -21,7 +21,6 @@ faqs:
     answer: "Você não precisa caminhar 15 milhas como Smith. Recomendações clínicas sugerem de 20 a 40 minutos para melhorar o fluxo sanguíneo cerebral e ativar a DMN. O essencial é manter o foco livre de distrações digitais, não a distância."
   - question: "Posso caminhar em uma esteira ergométrica se não puder ir para fora?"
     answer: "Sim. Contudo, ao usar a esteira, evite olhar para telas de TV ou smartphones. Mantenha o olhar fixo em um ponto neutro na parede, bloqueando estímulos visuais para se concentrar totalmente no ritmo dos passos."
-
 ---
 
 "A contemplação de um estudioso atinge sua ordem mais completa ao longo de um caminho tranquilo de caminhada." 🚶‍♂️

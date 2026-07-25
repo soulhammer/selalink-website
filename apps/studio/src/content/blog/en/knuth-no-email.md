@@ -21,7 +21,6 @@ faqs:
     answer: "Explicitly state your batch schedule in email auto-responders or chat status messages. Displaying a clear note—e.g., 'To focus on key project deliverables, I check email twice daily at 11 AM and 4 PM. For urgent matters, please call directly'—sets expectations, reduces communication anxiety, and establishes a clear cognitive barrier."
   - question: "Is Knuth's email disconnection routine applicable to regular corporate employees who aren't famous scholars?"
     answer: "Yes, absolutely! The underlying neuroscientific principle applies universally. You don't need to permanently abolish email; simply setting a 1 to 2-hour daily 'do not disturb' deep work block delivers identical benefits by drastically reducing context-switching costs and guarding working memory."
-
 ---
 
 "I have been a happy man ever since I stopped using email on January 1, 1990... What I do takes long hours of studying and uninterruptible concentration. My role is to sit at the top of the system and reflect silently." ✉️

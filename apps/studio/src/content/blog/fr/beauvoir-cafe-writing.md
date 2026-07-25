@@ -21,7 +21,6 @@ faqs:
     answer: "Pendant le froid rigoureux du Paris des années 1940, le Café de Flore maintenait son poêle chaud et offrait une atmosphère accueillante pour les artistes, où les intellectuels pouvaient rester des heures sans pression, en faisant un espace de création idéal."
   - question: "Puis-je mettre en œuvre un Script Cognitif similaire dans un environnement de télétravail ou à domicile ?"
     answer: "Oui, tout à fait. Vous pouvez induire le même effet de commutation cognitive à la maison en allumant une lampe de bureau spécifique dans un coin dédié, en utilisant un mug réservé à la focalisation et en diffusant du bruit blanc de 50 à 60 dB."
-
 ---
 
 « À 10 heures du matin, je me rendais au Café de Flore. Sur cette petite table, mes pensées commençaient enfin à prendre forme. » ☕

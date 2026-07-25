@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Erzeugen gewöhnliche Smartphone-Spiele denselben Umschalteffekt?"
     answer: "Mobile Spiele mit viel Text, Social Media oder starken Reizen belasten andere Bereiche des präfrontalen Kortex übermäßig und erhöhen die kognitive Belastung. Um DMN-Effekte zu erzielen, sind einfache analoge Spiele oder physikalische Simulationen mit geometrischen Bahnen weit wirksamer."
-
 ---
 
 Wolfgang Amadeus Mozart (1756–1791) war ein beispielloses Genie der klassischen Musikgeschichte, das makellose Sinfonien und Opern in fließenden Reinschriften ohne eine einzige Korrektur niederschrieb. Hinter seiner wundersamen Kreativität verbarg sich eine einzigartige Alltagsgewohnheit, die sein Gehirn von künstlerischem Druck befreite. 🎱

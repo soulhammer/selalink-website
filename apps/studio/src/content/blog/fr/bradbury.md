@@ -21,7 +21,6 @@ faqs:
     answer: "Pratiquer l'association de mots juste après le réveil, lorsque le subconscient est très actif, est ce qu'il y a de plus efficace sur le plan neurologique. Cependant, pratiquer 3 à 4 fois par semaine suffit amplement pour entraîner les circuits de pensée divergente et libérer des idées créatives."
   - question: "Comment remplacer cette routine si je n'ai ni papier ni cartes de mots à disposition ?"
     answer: "Vous pouvez obtenir exactement le même effet d'association cognitive en ouvrant un livre au hasard et en choisissant les 3 premiers noms qui sautent aux yeux, ou en utilisant un générateur de mots aléatoires en ligne ou l'application bloc-notes de votre smartphone."
-
 ---
 
 « Les mots étaient des seaux descendus dans le puits profond de mon subconscient, remontant des souvenirs et des récits. » 📝

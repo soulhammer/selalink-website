@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Outre les tâches ménagères comme le repassage ou la vaisselle, la marche offre-t-elle un effet d'activation du DMN similaire ?"
     answer: "Oui, la marche est également un formidable outil pour stimuler la créativité. Cependant, lors d'une marche, le cerveau doit continuellement consommer un certain niveau d'attention visuelle et cognitive pour explorer l'environnement ou éviter la foule. En revanche, repasser ou faire la vaisselle implique des actions physiques limitées et totalement contrôlées dans un environnement intérieur familier, de sorte que la consommation cognitive préfrontale est bien inférieure à celle d'une marche, offrant un avantage unique pour induire plus stablement un état méditatif calme (activation du DMN)."
-
 ---
 
 « Je ne m'assois pas pour forcer la chorégraphie. Lorsque je repasse ou balaye la pièce, c'est là que la danse des ballerines commence à couler sous mes yeux. » 🧺

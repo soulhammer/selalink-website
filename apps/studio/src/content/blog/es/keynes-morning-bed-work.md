@@ -21,7 +21,6 @@ faqs:
     answer: "Estar acostado en posición horizontal inclinando el cuello genera una tensión cervical severa. Para proteger su columna, apoye su torso a 45 grados o más con cojines firmes y limite la sesión estrictamente a 20 o 30 minutos para equilibrar la salud con la productividad."
   - question: "¿Puedo revisar el correo o mensajes durante solo 5 minutos justo al despertar?"
     answer: "No. Exponer su cerebro a demandas externas fragmentadas incluso durante 5 minutos disipa de inmediato la energía generada por la Respuesta de Despertar del Cortisol (CAR). Para preservar la capacidad prefrontal, mantenga su teléfono apagado hasta terminar su tarea prioritaria."
-
 ---
 
 "Mis mejores teorías económicas se tejieron antes de que saliera el sol de la mañana, apoyado en almohadas bajo una cálida cobija." 🛏️

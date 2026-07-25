@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Does consuming coffee late at night or early in the morning interfere with sleep?"
     answer: "Yes, it can degrade sleep quality. Since Balzac's midnight wake-up lifestyle is impractical for modern individuals, if you are sensitive to caffeine, replace it with decaffeinated coffee or warm herbal tea, and schedule focus blocks right after work or early in the morning before commuting."
-
 ---
 
 "As soon as coffee is in your stomach, there is a general commotion. Ideas begin to move like the battalions of the grand army." ☕

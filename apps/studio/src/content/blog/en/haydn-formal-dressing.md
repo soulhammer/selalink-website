@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely. Historical biographies by Dies confirm that Haydn refused to sit at his keyboard or manuscript desk without wearing full court attire, powdered wig, and his royal ring. He maintained that unkempt clothing bred unkempt musical thoughts, using attire to set his brain into a state of focus."
   - question: "Does work-from-home attire need to be a rigid formal suit, or are comfortable street clothes effective?"
     answer: "A stiff suit or tuxedo is unnecessary. The core mechanism lies in physically separating 'sleep/rest garments' from 'work attire'. Simply changing into a neat collared shirt or tailored pants fully triggers the neurological benefits of Enclothed Cognition."
-
 ---
 
 "Artistic creation reaches completion only when supported by order and perseverance. Sloppy attire breeds nothing but sloppy musical ideas." 🚶‍♂️

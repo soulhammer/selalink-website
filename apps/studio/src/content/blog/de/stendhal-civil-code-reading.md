@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Hilft das Lesen des Zivilgesetzbuches auch beim Verfassen von Werbetexten oder emotionalen Essays?"
     answer: "Wenn Sie überzeugende oder emotionale Texte schreiben müssen, verwenden Sie anstelle von Gesetzestexten attraktive Werbetexte oder emotionale Essays als Priming-Text. Der Kern von Stendhals Gewohnheit besteht darin, das Gehirn mit Texten vorzubereiten, die dem gewünschten Ton entsprechen."
-
 ---
 
 „Um meinen Stil zu schulen, lese ich jeden Morgen zwei oder drei Seiten des Zivilgesetzbuches. Denn die Sprache des Gesetzbuches mischt keine Emotionen; sie vermittelt klar nur Fakten und Definitionen.“ 📖

@@ -21,7 +21,6 @@ faqs:
     answer: "Si l'isolement physique est impossible, créez des déclencheurs sensoriels artificiels : utilisez une « lampe de bureau dédiée » allumée uniquement pendant le travail, ou déroulez un « sous-main » exclusif aux sessions de concentration. Créer un signal visuel régulier entraîne les réseaux préfrontaux de manière identique."
   - question: "Que faire si je m'installe à mon bureau dédié mais reste distrait et ne parviens pas à démarrer en 5 minutes ?"
     answer: "Ne restez pas assis à vous distraire. Levez-vous immédiatement et sortez de la zone dédiée. Faites une pause de 3 minutes pour vous étirer, puis revenez au bureau pour exécuter une tâche minime (ex. saisir le titre d'un document) afin de réinitialiser la concentration."
-
 ---
 
 « Tant que l'univers fonctionne avec ordre, le lieu où l'homme cherche la vérité doit demeurer immuable. » 🔭

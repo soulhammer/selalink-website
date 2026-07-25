@@ -21,7 +21,6 @@ faqs:
     answer: "No. The neurophysiological golden window for autonomic nervous system switching occurs 'immediately when heart rate reaches its peak'. If heart rate normalizes while taking a shower, the drastic shift from sympathetic to parasympathetic dominance diminishes, reducing rapid cortisol clearance. You must sit down right after sweating."
   - question: "Is the meditation session a failure if random stray thoughts keep popping up?"
     answer: "No, not at all. Distractions arising in consciousness is a completely natural neurological process. Mindfulness is not about forcefully erasing thoughts, but practicing attentional control—noticing when mind-wandering occurs and gently steering focus back to your breath. Every moment you notice distraction and return to the breath, you strengthen prefrontal executive attentional networks."
-
 ---
 
 "Mental stamina governs physical strength, but what sustains that mental stamina is obsessive daily physical training. When you quiet your breath immediately after sweating, governance noise vanishes and supreme clarity emerges." 🇸🇬

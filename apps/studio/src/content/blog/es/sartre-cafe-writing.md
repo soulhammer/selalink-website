@@ -21,7 +21,6 @@ faqs:
     answer: "Varía según la persona. Algunas investigaciones señalan que un ruido blanco moderado (50–70 dB) dispersa ligeramente la atención auditiva, estimulando la resolución creativa de problemas. Sin embargo, lo fundamental no es el silencio, sino establecer la regla cognitiva de 'iniciar la misma acción en el mismo lugar cada día'."
   - question: "¿No sería mejor para el cerebro cambiar de asiento reservado diariamente o periódicamente?"
     answer: "En la fase de lluvia de ideas creativas, un entorno nuevo libera dopamina y aporta dinamismo. Sin embargo, al completar tareas de escritura o estudiar intensamente, el anclaje de asiento al estilo de Sartre es mucho más eficiente, pues reduce el gasto de exploración y desencadena un enfoque reflexivo inmediato."
-
 ---
 
 "El hombre está condenado a ser libre." ☕

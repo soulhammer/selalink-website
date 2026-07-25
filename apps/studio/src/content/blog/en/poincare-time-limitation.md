@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Why did Henri Poincaré only research for 4 hours a day?"
     answer: "Forcing prolonged focus narrows the brain's cognitive vision and reduces creativity. Limiting conscious work to 4 hours allowed Poincaré to activate Diffuse Mode through rest and walking, unlocking subconscious creative inspiration."
-
 ---
 
 "Sudden illumination is a manifest sign of long, unconscious prior work, preceded by voluntary conscious effort." Henri Poincaré, the polymath, solver of the three-body problem, and pioneer of chaos theory, was one of the greatest mathematicians in history. Remarkably, Poincaré enforced a strict boundary of working only 4 hours a day at his desk. He focused deeply from 10:00 AM to 12:00 PM and 5:00 PM to 7:00 PM, spending the rest of the day walking, relaxing, or conversing to let his brain recharge offline. Crucially, Poincaré recalled that the breakthroughs to his most complex mathematical challenges—such as Fuchsian functions—did not occur while staring at equations, but suddenly flashed into his mind the moment he stepped onto an omnibus during a geological excursion in Coutances. He realized that intensive conscious effort followed by complete rest (an incubation phase) allows the brain's subconscious networks to combine ideas creatively. This post explores the neuroscientific interaction between the focused and diffuse modes of the brain in Poincaré's 4-hour routine and offers a 3-step actionable guide.

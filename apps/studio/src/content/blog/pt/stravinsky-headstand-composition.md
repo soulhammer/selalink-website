@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "O que os iniciantes que não conseguem fazer parada de cabeça devem fazer?"
     answer: "Mesmo que não consiga se apoiar na parede, adotar a postura do golfinho ou elevar as pernas em uma cadeira dobrando o tronco para baixo oferece exatamente os mesmos benefícios de fluxo sanguíneo e estímulo vestibular."
-
 ---
 
 "Quando as ideias travarem, vire a cabeça para o chão. Seu cérebro começará imediatamente a pensar de forma diferente." 🤸‍♂️

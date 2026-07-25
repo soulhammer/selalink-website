@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, das lautstarke Überprüfen der Prioritäten 30 Minuten vor Beginn intensiver Arbeit aktiviert präventiv die exekutive Kontrolle des präfrontalen Kortex."
   - question: "Wie kann ich dies ersetzen, wenn ich kein eigenes Notizbrett oder geeignete Räumlichkeiten habe?"
     answer: "Es reicht völlig aus, die 3 wichtigsten Aufgaben des Tages aus dem Notizbuch in einem ruhigen Raum leise vor sich hin zu sprechen."
-
 ---
 
 Margaret Thatcher, Britanniens erste Premierministerin und als 'Eiserne Lady' bekannt, führte das Land mit entschlossenen konservativen Reformen aus der Wirtschaftsstagnation. Jede Nacht saß sie bis 2 Uhr morgens in ihrem Arbeitszimmer und las hunderte Seiten offizieller Berichte durch. Mit einem gelben Textmarker filterte sie bürokratischen Floskeln heraus und konzentrierte sich strikt auf drei Kernpunkte: Umsetzbarkeit, Budgetindikatoren und rechtliche Fragen. Diese nächtliche Hervorhebungsroutine stützte ihre Führungskraft.

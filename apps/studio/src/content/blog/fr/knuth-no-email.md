@@ -21,7 +21,6 @@ faqs:
     answer: "Indiquez clairement vos créneaux dans un message d'absence ou votre statut de messagerie. Afficher una note explicite (ex. : « Pour me consacrer aux projets prioritaires, je consulte mes e-mails deux fois par jour, a 11h00 et 16h00. Pour toute urgence, merci de me joindre par téléphone ») fixe les attentes et protège votre temps."
   - question: "La routine de déconnexion de Knuth est-elle applicable aux salariés ordinaires qui ne sont pas des chercheurs célèbres ?"
     answer: "Oui, tout à fait ! Le principe neuroscientifique s'applique à tous. Il n'est pas nécessaire de supprimer l'e-mail définitivement ; programmer simplement 1 a 2 heures par jour en mode 'Ne pas déranger' suffit a réduire les coûts de transition et a préserver votre attention."
-
 ---
 
 « Je suis un homme heureux depuis que j'ai cessé d'utiliser l'e-mail le 1er janvier 1990... Ce que je fais exige de longues heures d'étude et una concentration ininterrompue. Mon rôle est de réfléchir en silence. » ✉️

@@ -21,7 +21,6 @@ faqs:
     answer: "Sustituya los senderos de montaña por un paseo de 30 minutos por un parque urbano, jardín botánico o avenida arbolada sin teléfono. Lo esencial es activar los sentidos visoespaciales y aumentar el flujo sanguíneo cerebral."
   - question: "¿Cuál es la mejor manera de capturar las ideas que surgen durante la caminata sin perder el enfoque?"
     answer: "Lleve una libreta de bolsillo y un bolígrafo para anotar palabras clave en el momento en que surja una idea. Alternativamente, use una grabadora de notas de voz de un solo toque para no interrumpir el ritmo."
-
 ---
 
 "Caminando por los senderos de los Alpes, limpio los residuos de complejas fórmulas matemáticas y contemplo la realidad profunda de la naturaleza." 🌲

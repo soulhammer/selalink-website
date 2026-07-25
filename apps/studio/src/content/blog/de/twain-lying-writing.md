@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Macht das Arbeiten im Bett nicht schläfrig oder faul?"
     answer: "Das kann passieren. Daher geht es bei dieser Routine nicht nur ums Hinlegen, sondern darum, durch die Stützung des Oberkörpers mit Kissen einen Zustand der 'wachsamen Entspannung' aufrechtzuerhalten. Zudem sollte eine feste Konzentrationszeit ohne Smartphone-Ablenkungen eingeplant werden."
-
 ---
 
 "Für mich ist das Bett das beste Laboratorium und die kreativste Werkstatt der Welt." 🛌

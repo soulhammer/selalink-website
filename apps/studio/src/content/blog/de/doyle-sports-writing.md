@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut. Conan Doyle war ein erfolgreicher Cricket-Spieler für den Marylebone Cricket Club (MCC) und ein erfahrener Boxer, der sogar Meisterschaftskämpfe leitete. Seine sportlichen Erfahrungen verliehen den Kampffähigkeiten von Sherlock Holmes in seinen Geschichten Authentizität."
   - question: "Ist es für beschäftigte Menschen schwer, Boxen oder Cricket zu spielen. Bieten Heimübungen dieselben Vorteile?"
     answer: "Ja, absolut. Der physiologische Auslöser ist nicht die Sportart, sondern die 'rasche Herzfrequenzsteigerung zur Gehirndurchblutung'. 10 bis 15 Minuten Kniebeugen, Burpees, Treppenläufe oder Tabata-Intervalle lösen dieselbe BDNF-Ausschüttung und Aktivierung aus."
-
 ---
 
 "Ein gesunder Körper ist das Gefäß für einen scharfen Verstand, und Schweiß reinigt die Logik des Gehirns." 🥊

@@ -21,7 +21,6 @@ faqs:
     answer: "Avoid direct, prolonged eye contact. Use wide 'Peripheral Vision' or perform a split-second 1-second scan of a specific target area (sleeves, shoes, hand positions) during dynamic movements—such as when someone adjusts a coat or settles into a chair—then smoothly shift your gaze."
   - question: "How can these collected micro-detail notes be practically applied to business or professional tasks?"
     answer: "When drafting proposals, defining target customer personas, or conducting client meetings, you move beyond flat generalizations like 'a 30-something office worker' to nuanced, vivid descriptions like 'a planner who rhythmically taps their pen tip during high-stakes negotiations'. This dramatically elevates proposal authenticity, context comprehension, and persuasive leverage."
-
 ---
 
 "The role of the artist is to ask questions, not answer them." 📝

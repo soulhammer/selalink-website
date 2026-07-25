@@ -21,7 +21,6 @@ faqs:
     answer: "Pena fountain, pena dip, atau pensil grafit yang dipadukan dengan kertas tebal berfungsi sebagai pengganti yang ideal. Mekanisme utamanya adalah kesadaran sensorik real-time dari gesekan taktil dan modulasi tekanan jari."
   - question: "Mengapa lebih baik mempraktikkan rutinitas kaligrafi ini segera setelah bangun tidur daripada di malam hari?"
     answer: "Saat bangun tidur, otak masih murni, belum terbebani oleh penumpukan kelelahan kognitif atau masukan stres eksternal. Terlibat dalam kontrol motorik halus yang presisi selama 15 menit pertama menenangkan sistem saraf otonom."
-
 ---
 
 "Saat memegang kuas, menumbuk tinta, dan menarik karakter, kekacauan mental memudar dan esensi dari keputusan bisnis muncul dengan kejernihan kristal." 🖌️

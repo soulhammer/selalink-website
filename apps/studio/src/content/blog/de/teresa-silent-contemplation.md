@@ -21,7 +21,6 @@ faqs:
     answer: "Das ist ein natürliches Phänomen des Gehirns, das versucht, verarbeitende Prozesse zu aktivieren. Kämpfen Sie nicht gegen Gedanken an; treten Sie zurück und erkennen Sie an: 'Ah, ich denke über Aufgaben nach', und lassen Sie sie ziehen. Bringen Sie die Aufmerksamkeit sanft zur Atmung zurück."
   - question: "Mutter Teresa praktizierte eine Stunde; ist eine Reduzierung auf 10–15 Minuten für das Gehirn dennoch wirksam?"
     answer: "Ja, gemäß klinischer Neurowissenschaft und Stressforschung bewirkt eine stille Meditation in völliger Ruhe von nur 10 fokussierten Minuten eine erhebliche physiologische Entspannung, indem sie die Erregung des Sympathikus hemmt und den Cortisolspiegel senkt. Eine tägliche 10-minütige handyfreie Stille-Routine hilft langfristig bei der Gefühlsregulierung."
-
 ---
 
 Mutter Teresa, Nobelpreisträgerin für ihren lebenslangen Einsatz für die Ärmsten und das Suchen nach Frieden. Welche Routine nährte die unerschütterliche Gelassenheit und innere Stärke, mit der sie das unnennbare Leid in den Slums von Kalkutta ertrug? 🕊️

@@ -21,7 +21,6 @@ faqs:
     answer: "Tenter d'ignorer les erreurs prolonge l'anxiété. Au contraire, consigner des faits objectifs sur les causes de l'échec indique au cerveau que vous avez repris le « contrôle », apaisant le stress et stimulant la motivation."
   - question: "Existe-t-il des exercices d'entraînement cérébral pour favoriser la sérendipité ?"
     answer: "Introduire de légères variations dans vos habitudes est très efficace. Emprunter un trajet différent ou travailler dans un nouveau lieu injecte du « micro-bruit » dans votre quotidien, stimulant le réseau frontopariétal et la capacité a détecter l'inattendu."
-
 ---
 
 « Lorsqu'une observation fortuite rencontre un esprit préparé, une révolution est née. » 🧫

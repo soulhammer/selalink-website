@@ -21,7 +21,6 @@ faqs:
     answer: "Sí. El acetaldehído liberado durante la fermentación reducía brevemente la concentración de oxígeno y alteraba la respiración provocando un estímulo único, mientras que las señales olfativas enviaban alertas de activación al sistema límbico."
   - question: "¿Qué aromas se recomiendan para el anclaje aromático moderno?"
     answer: "Se recomiendan el romero (demostrado científicamente para ayudar al enfoque), la menta o el eucalipto (que alivian la fatiga y despiertan la atención). Los aromas cítricos como el limón también tienen efectos positivos comprobados."
-
 ---
 
 Friedrich Schiller, el gran poeta y dramaturgo que lideró la edad de oro del Clasicismo de Weimar junto a Johann Wolfgang von Goethe, dejó una huella imborrable en la literatura con obras maestras como 'Los bandidos' (Die Räuber) y 'Guillermo Tell' (Wilhelm Tell). Sin embargo, dentro del cajón de su escritorio se escondía un secreto extravagante y penetrante.

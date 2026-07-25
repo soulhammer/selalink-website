@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, absolutamente. Conan Doyle fue un destacado jugador de críquet para el Marylebone Cricket Club (MCC) y un boxeador habilidoso que llegó a ejercer de árbitro en combates de campeonato. Su experiencia deportiva aportó realismo a las habilidades de combate de Sherlock Holmes en sus novelas."
   - question: "¿Es difícil para la gente ocupada practicar boxeo o críquet. ¿Los entrenamientos en casa ofrecen los mismos beneficios?"
     answer: "Sí, absolutamente. El desencadenante fisiológico no es el deporte específico, sino 'elevar el ritmo cardíaco para impulsar la perfusión cerebral'. De 10 a 15 minutos de sentadillas, burpees, subir escaleras o intervalos de Tabata activan la misma liberación de BDNF y estimulación prefrontal."
-
 ---
 
 "Un cuerpo sano es el recipiente para una mente sharp, y el sudor intenso purifica la lógica del cerebro." 🥊

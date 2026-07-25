@@ -21,7 +21,6 @@ faqs:
     answer: "Non. La musique avec paroles ou un bruit fort et rythmé (>85 dB) envahit la mémoire de travail du lobe frontal, entraînant de la fatigue. Seul un bruit ambiant imprévisible et sans paroles génère cet effet bénéfique."
   - question: "Écouter du bruit blanc avec des écouteurs dans une pièce silencieuse est-il utile ?"
     answer: "Oui. Écouter du bruit blanc dans une pièce isolée protège des distractions. Mais y associer un changement visuel (l'espace ouvert d'un café) enrichit la stimulation sensorielle."
-
 ---
 
 « Le bruit modéré et la solitude d'un café ont libéré mon cerveau, me permettant d'imaginer le monde des sorciers sans entrave. » ☕

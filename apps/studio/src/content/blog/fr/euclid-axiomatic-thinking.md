@@ -21,7 +21,6 @@ faqs:
     answer: "Définissez d'abord 3 « faits de base irréductibles » (contraintes physiques du projet, budget réel, besoins fondamentaux de l'utilisateur). Puis, redéfinissez votre stratégie à partir de zéro sur ce socle."
   - question: "Quelle est la différence entre la logique conventionnelle et la pensée axiomatique d'Euclide ?"
     answer: "La logique conventionnelle s'appuie sur des précédents ou des analogies. La pensée axiomatique réinitialise toutes les hypothèses à zéro, construisant la logique de manière déductive à partir de vérités évidentes."
-
 ---
 
 « Il n'y a pas de voie royale vers la géométrie. » 📐

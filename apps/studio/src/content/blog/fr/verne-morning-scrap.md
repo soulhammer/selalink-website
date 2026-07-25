@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "En quoi la méthode Zettelkasten du professeur Niklas Luhmann diffère-t-elle des fiches de Jules Verne ?"
     answer: "Tandis que la méthode Zettelkasten vise à créer un réseau de pensées interconnectées via des références numériques permanentes, les fiches de Jules Verne visaient à accumuler méthodiquement des faits encyclopédiques scientifiques et géographiques par catégories afin d'enrichir les descriptions techniques et le réalisme de ses romans."
-
 ---
 
 « Tout ce qu'un homme est capable d'imaginer, d'autres hommes sont capables de le réaliser. » 🗺️

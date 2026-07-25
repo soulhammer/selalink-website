@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, die Nutzung von moderatem Hintergrundrauschen oder Musik hilft, Ihre kognitive Aufmerksamkeitsspanne zu verengen und schneller in eine komplexe analytische Konzentration einzutauchen."
   - question: "Wie kann ich Geräuschgeneratoren ersetzen, wenn ich keine speziellen Geräte habe?"
     answer: "Sie können spezielle Geräte ersetzen, indem Sie schnelles weißes Rauschen, mechanische Umgebungsgeräusche oder Instrumentalmusik über normale Kopfhörer abspielen, um den Fokus zu starten."
-
 ---
 
 John von Neumann (1903–1957) war ein bedeutender ungarisch-amerikanischer Mathematiker, Physiker, Informatiker und Polymath des 20. Jahrhunderts. Er gilt als eines der intelligentesten Genie der Menschheitsgeschichte, begründete die ‚Von-Neumann-Architektur‘ moderner Computer, schuf die Spieltheorie und leistete fundamentale Beiträge zur Quantenmechanik und zum Manhattan-Projekt.

@@ -21,7 +21,6 @@ faqs:
     answer: "Weil er seinen hochsensiblen Flow-Zustand nicht unterbrechen wollte. Durch das Vermeiden alltäglicher Übergänge (Umziehen, Duschen, langer Schlaf) lenkte er den kontinuierlichen Fluss seiner künstlerischen Eingebung ohne Unterbrechung in die Skulpturen."
   - question: "Was sind praktische Tipps zur Reduzierung von Entscheidungsmüdigkeit im modernen Alltag?"
     answer: "Planen Sie kleine Entscheidungen wie Kleidung oder Mahlzeiten durch feste Routinen vor (wie Steve Jobs) und entfernen Sie Ablenkungen am Arbeitsplatz, um kognitive Energie zu sparen."
-
 ---
 
 Die Pietà, der David und die Decke der Sixtinischen Kapelle im Vatikan – unsterbliche Meisterwerke der Kunstgeschichte, geschaffen von dem Renaissance-Genie Michelangelo Buonarroti (1475–1564). Hinter diesen monumentalen Werken verbarg sich eine obsessive Gewohnheit extremen Flow-Zustands. 🏛️

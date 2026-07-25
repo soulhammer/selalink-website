@@ -21,7 +21,6 @@ faqs:
     answer: "La sieste de 1,5 heure de Churchill compensait un sommeil nocturne restreint (4 à 5 heures) en couvrant un cycle complet de 90 minutes comprenant les phases NREM et REM. En revanche, une sieste flash moderne de 20 minutes préserve un sommeil nocturne normal de 7 heures, restant dans les phases légères NREM 1 à 2 pour éliminer l'adénosine sans inertie."
   - question: "Une sieste de 20 minutes est-elle inutile si je ferme les yeux sans réussir à m'endormir ?"
     answer: "Non, cela procure un effet de repos cognitif très net. Même sans sommeil réel, s'allonger les yeux fermés pour bloquer les entrées visuelles et auditives met le cortex visuel au repos et induit des ondes alpha (8–12 Hz). Cette pause sensorielle de 20 minutes restaure à elle seule plus de 50 % des ressources préfrontales."
-
 ---
 
 « Grâce à la sieste de l'après-midi, j'ai pu diviser ma journée en deux journées distinctes ayant chacune leur propre matin. » 🛌

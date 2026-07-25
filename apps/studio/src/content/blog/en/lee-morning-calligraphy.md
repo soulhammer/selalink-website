@@ -21,7 +21,6 @@ faqs:
     answer: "Fountain pens, dip pens, or a graphite pencil paired with heavy paper serve as ideal substitutes. The core mechanism is real-time sensory awareness of tactile friction and finger pressure modulation. Any writing instrument that provides clear haptic feedback yields identical autonomic relaxation benefits."
   - question: "Why is it superior to practice this calligraphy routine immediately upon waking rather than at night?"
     answer: "Upon waking, the brain is pristine, unburdened by accumulated cognitive clutter or external stress inputs. Engaging in precision fine motor control during the first 15 minutes grounds the autonomic nervous system while softly awakening prefrontal executive networks. This sets a calm, highly rational baseline for your entire workday."
-
 ---
 
 "While holding the brush, grinding the ink, and tracing characters, mental clutter dissolves and the core essence of business decisions emerges with crystal clarity." 🖌️

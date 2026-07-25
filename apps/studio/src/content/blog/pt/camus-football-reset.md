@@ -21,7 +21,6 @@ faqs:
     answer: "Você pode praticar facilmente sozinho. Exercícios de rebater bola contra a parede (com bolas de tênis), golpear um saco de pancadas ou treinos de escada de agilidade estimulam o cerebelo e o córtex motor, desativando o córtex pré-frontal."
   - question: "Realizar exercício físico em dias de esgotamento mental extremo não acumula ainda mais fadiga?"
     answer: "A fadiga mental cognitiva e a fadiga muscular física são fisiologicamente distintas. A fadiga cerebral decorrente do trabalho intelectual provém do congestionamento metabólico no córtex pré-frontal. Praticar uma 'Recuperação Ativa (Active Recovery)' — mover o corpo para circular o fluxo sanguíneo e deslocar a atividade para o cerebelo — é o que elimina a fadiga cerebral."
-
 ---
 
 "Tudo o que sei com mais certeza sobre a moral e as obrigações dos homens devo ao futebol." ⚽

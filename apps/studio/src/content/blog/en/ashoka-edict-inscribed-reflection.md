@@ -21,7 +21,6 @@ faqs:
     answer: "It is strongly recommended to limit it to 3 or fewer. If the number of values increases to 5 or more, working memory suffers from overload, rapidly weakening the anchoring effect."
   - question: "Can I change my value words over time?"
     answer: "Yes, absolutely! Redefining and updating your value card quarterly (every 3 months) in alignment with changes in your life stage and goals is a wonderful habit that provides fresh stimulation to the prefrontal cortex."
-
 ---
 
 Ashoka the Great, the holy king who unified most of the ancient Indian subcontinent, opened a golden age for the Maurya Empire, and transformed from a ruthless conqueror into a guardian of nonviolence and peace. After witnessing the horrific tragedy of the conquest of Kalinga, what was his secret to controlling his power and desires throughout his life and adhering to righteous ethical leadership? 🏛️

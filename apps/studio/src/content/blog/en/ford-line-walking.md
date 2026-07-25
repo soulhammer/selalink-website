@@ -21,7 +21,6 @@ faqs:
     answer: "Digital screens lack physical friction, reducing somatosensory feedback to the brain and exposing you to digital distractions. Physical paper provides tactile pen-tip resistance that stimulates cortical circuits more deeply, achieving superior cognitive offloading. Using real paper is highly recommended."
   - question: "Is sketching diagrams while sitting still as effective as walking?"
     answer: "Sketching while seated still provides cognitive offloading benefits, but pairing it with physical movement and visual tracking dramatically enhances results. Walking increases cerebral blood flow and oxygenation, while tracking visual motion primes cerebellar circuits to maximize logical spatial reasoning."
-
 ---
 
 "To reduce waste, one must first trace the physical flow with visual clarity." 🚗

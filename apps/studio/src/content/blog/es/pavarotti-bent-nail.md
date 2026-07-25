@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Por qué Pavarotti buscaba específicamente un clavo doblado?"
     answer: "En la cultura teatral italiana, encontrar un clavo doblado entre bambalinas es un viejo presagio de buena suerte. Comenzó como una simple superstición, pero se convirtió en un ancla cognitiva indispensable que lo salvó del pánico de palco."
-
 ---
 
 "Siempre celebro mi pequeño ritual antes de salir al escenario. Es la única manera de conquistar mi miedo." 🚶‍♂️

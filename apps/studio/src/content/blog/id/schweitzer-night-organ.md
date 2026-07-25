@@ -21,7 +21,6 @@ faqs:
     answer: "Musik berlirik mengaktifkan kembali area pemrosesan bahasa di otak sehingga mengganggu istirahat total. Musik instrumental tanpa lirik (klasik, jazz, lo-fi) jauh lebih efektif untuk relaksasi otonom."
   - question: "Apakah tidur sambil mendengarkan musik membantu?"
     answer: "Sebaiknya pasang pengatur waktu selama 15–30 menit. Jika musik menyala sepanjang malam, korteks pendengaran otak tidak dapat beristirahat penuh saat tidur."
-
 ---
 
 Dr. Albert Schweitzer adalah peraih Nobel Perdamaian, dokter yang berdedikasi, filsuf, serta pakar terkemuka dunia tentang Bach. Bagaimana ia mengatasi kelelahan fisik dan mental yang luar biasa saat merawat pasien di hutan tropis Lambaréné, Gabon yang panas dan lembap?

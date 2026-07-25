@@ -21,7 +21,6 @@ faqs:
     answer: "Hari-hari seperti itulah saat rutinitas ini paling dibutuhkan. Jangan mencari hal besar; tuliskan fakta fisik dasar seperti 'Teh hangat kemarin enak' atau 'Saya dapat bernapas lega pagi ini'. Menuliskan petunjuk keselamatan kecil membantu otak keluar dari mode ancaman."
   - question: "Bagaimana dengan mencatat rasa syukur menggunakan aplikasi jurnal ponsel atau unggahan media sosial?"
     answer: "Mengunggah ke aplikasi atau media sosial memicu kecemasan karena mengandalkan validasi sosial (suka, komentar). Selain itu, layar sentuh kekurangan rangsangan taktil. Menulis tangan di atas kertas melindungi otak dari perbandingan digital dan menghadirkan fokus serta kepuasan sejati."
-
 ---
 
 Bangkit dari kemiskinan dan trauma masa kecil, Oprah Winfrey menjadi pembawa acara talk show tersukses dalam sejarah. Dari manakah energi mentalnya lahir setiap pagi? 📝

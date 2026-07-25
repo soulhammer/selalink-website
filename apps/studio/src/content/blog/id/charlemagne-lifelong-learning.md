@@ -21,7 +21,6 @@ faqs:
     answer: "Untuk praktik modern, hindari kertas tipis yang terlepas. Sebaliknya, tempatkan buku catatan mini sampul keras yang kaku di atas meja samping tempat tidur Anda, atau pasang papan klip kayu kecil ke rak di samping tempat tidur, yang mencegah kerusakan."
   - question: "Apakah menulis dalam pencahayaan redup saat terbangun di malam hari akan membuat mata saya tegang?"
     answer: "Menulis di malam hari melibatkan pencatatan singkat berdurasi 1 hingga 2 menit, meminimalkan ketegangan mata. Kuncinya adalah menggunakan lampu malam ber-luminositas rendah bertema hangat atau amber. Ini memberikan cukup cahaya untuk menelusuri huruf tanpa menekan melatonin."
-
 ---
 
 "Memiliki pengetahuan itu baik, tetapi mempraktikkannya dan menenunnya ke dalam kehidupan jauh lebih besar." 👑

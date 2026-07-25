@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely. While physically playing an instrument additionally engages the motor cortex, simply engaging in 'Active Listening'—closing your eyes and surrendering your awareness to sound textures—induces identical alpha wave entrainment. The key is not treating music as passive background noise, but dedicating 10 minutes of complete, focused mindfulness to the auditory nuances."
   - question: "Is wearing headphones more effective when listening to classical music in the morning?"
     answer: "Yes, wearing headphones provides acoustic isolation that blocks environmental noise, making it easier for the brain to focus. Furthermore, delivering stereo sound signals directly to both ears fully engages the auditory cortex channels, preventing stray thoughts from intruding and accelerating entry into an alpha-wave entrainment state."
-
 ---
 
 "It is a rediscovery of the world of which I have the happiness to be a part. It fills me with awareness of the wonder of life, with a feeling of the incredible marvel of being a human being." 🎹

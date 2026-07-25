@@ -21,7 +21,6 @@ faqs:
     answer: "Yes! Whether using physical paper or a digital tablet stylus, as long as fine motor control and visual tracking are synchronized to map out structural relations, you capture identical neurological focus benefits."
   - question: "Does this method benefit individuals with no artistic drawing talent?"
     answer: "Artistic skill is completely irrelevant. The neuroscientific mechanism depends entirely on the cognitive effort to carefully observe a target and visually translate component relationships into functional diagrams."
-
 ---
 
 "In the smallest structures of nature lies hidden the grandest order humanity has yet to see." 🔬

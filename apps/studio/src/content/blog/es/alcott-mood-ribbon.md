@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Qué debo hacer si las personas a mi alrededor rechazan esta rutina de señales por considerar que dificulta la comunicación?"
     answer: "Debe evitar dejar activa la señal de bloqueo durante períodos excesivamente largos. Es fundamental limitar las sesiones de concentración a un máximo de 50 minutos o 1 hora, y generar confianza demostrando activamente que está disponible para conversar fuera de ese horario establecido."
-
 ---
 
 "Es cuando ruge la tormenta cuando aprendo a pilotar mi barco." 🎀

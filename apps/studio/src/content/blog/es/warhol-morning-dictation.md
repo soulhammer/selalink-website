@@ -21,7 +21,6 @@ faqs:
     answer: "Utilice la función de voz a texto de su teléfono o una app de notas con IA para realizar un 'brain dump' verbal de 5 minutos sobre los eventos y emociones de ayer."
   - question: "¿Qué temas se deben cubrir durante el dictado para maximizar la productividad?"
     answer: "Es suficiente con enumerar los hechos de ayer, volcar las prioridades de trabajo de hoy o simplemente expresar en voz alta su estado emocional actual."
-
 ---
 
 "Cada mañana limpio el desorden de mi cabeza dictando el día de ayer y haciendo que lo transcriban." 📞

@@ -21,7 +21,6 @@ faqs:
     answer: "That is a natural phenomenon of the brain attempting to operate its processing apparatus rather than resting completely. Do not fight thoughts; step back dispassionately and acknowledge, 'Ah, I am thinking about today's tasks,' watching them drift like clouds. Gently returning your awareness to the sensory temperature of breathing in and out is an excellent solution for calming brain waves."
   - question: "Mother Teresa practiced for an hour; is reducing it to 10–15 minutes still effective for the brain?"
     answer: "Yes, according to clinical neuroscience and stress research, engaging in silent meditation in complete darkness or quiet for just 10 focused minutes produces significant physiological relaxation by suppressing sympathetic nervous system arousal and lowering cortisol levels. If short on time, consistently practicing a 10-minute phone-free silent morning routine every day greatly enhances long-term emotional regulation."
-
 ---
 
 Mother Teresa, recipient of the Nobel Peace Prize for dedicating her life to serving the poorest and suffering while spreading love and peace. What routine nurtured the unyielding equanimity and inner strength that allowed her to endure the indescribable sorrow and psychological strain in the slums of Kolkata? 🕊️

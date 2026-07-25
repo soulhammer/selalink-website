@@ -21,7 +21,6 @@ faqs:
     answer: "De petites micro-variations — comme emprunter une ruelle différente en rentrant du travail, goûter un nouvel ingrédient ou se concentrer 5 secondes sur le parfum d'une fleur — suffisent amplement à créer des stimulations sensorielles inédites."
   - question: "Y a-t-il une astuce pour réduire le temps passé si le journal a tendance à rallonger ?"
     answer: "Sans vous soucier de faire de belles phrases, listez des mots-clés comme 'Visuel : nuance rouge du coucher de soleil', 'Auditif : crissement des graviers'. Ce format permet de tout consigner en 3 minutes."
-
 ---
 
 Marco Polo (1254–1324), explorateur et marchand italien parti de Venise pour sillonner l'Asie pendant 24 ans, a légué 'Les Voyages de Marco Polo' (Il Milione), le plus grand récit de voyage de l'histoire. Ayant gagné la confiance de Kubilai Khan, empereur de la dynastie Yuan de l'Empire mongol, il servit comme envoyé diplomatique pendant 17 ans. Des décennies plus tard, emprisonné à Gênes, il dicta des descriptions vivantes de la gastronomie, de la géographie et de la culture orientales comme s'il les avait sous les yeux. Quel était son secret ? 🐪

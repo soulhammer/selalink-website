@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Doesn't working in bed make you sleepy or lazy?"
     answer: "It can. Therefore, this routine is not simply about lying down, but maintaining an 'alert relaxation' state by firmly supporting the upper body with pillows. Additionally, it is essential to set a dedicated focus time with digital distractions completely blocked."
-
 ---
 
 "To me, the bed is the finest laboratory and creative workshop in the world." 🛌

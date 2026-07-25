@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apa yang harus saya lakukan jika sebagian besar pagi saya tidak mengingat mimpi sama sekali?"
     answer: "Tidak masalah jika Anda tidak mengingat mimpi itu sendiri. Saat otak masih samar-samar setelah bangun, tuliskan secara acak minimal 3 baris 'aliran kesadaran' (Stream of Consciousness) pada lembar kosong. Praktik ini juga mematikan sensor diri dan memanaskan area bawah sadar, sehingga meningkatkan fleksibilitas kreatif secara drastis sepanjang hari."
-
 ---
 
 "Melodi itu terdengar sempurna dalam mimpiku. Jika aku tidak langsung bangun dan memainkannya di piano, melodi itu akan menguap selamanya seperti kabut pagi." 🎹

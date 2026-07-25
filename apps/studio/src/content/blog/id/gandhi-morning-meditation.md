@@ -21,7 +21,6 @@ faqs:
     answer: "Aktivitas ritmis apa pun yang membutuhkan presisi motorik halus berfungsi dengan sangat baik: menyalin tulisan tangan dengan pena bulpen, merajut, upacara minum teh, menyusun Lego atau teka-teki, memicu jalur serotonin yang identik."
   - question: "Apa yang harus saya lakukan jika pikiran saya terus melantur selama aktivitas ritmis taktil?"
     answer: "Jangan menyalahkan diri sendiri karena pikiran melantur. Cukup sadari gangguan tersebut secara netral dan perlahan arahkan kembali perhatian Anda pada 'tekstur taktil di ujung jari dan ritme gerakan'. Mengalihkan fokus memperkuat regulasi prefrontal."
-
 ---
 
 "Dalam putaran roda pemintal, saya melihat kedamaian abadi dari pikiran dan keteraturan alam semesta." 🌀

@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, los artículos recopilados por George Orwell, las copias de sus cuadernos de recortes y sus notas de trabajo se conservan como valiosos archivos históricos en el University College de Londres (UCL)."
   - question: "¿Qué aplicaciones recomienda para realizar esta rutina de recortes digitalmente?"
     answer: "Recomendamos Notion, Obsidian y Evernote para capturar texto, resaltar y tomar notas al instante, así como aplicaciones dedicadas como Pocket y Raindrop.io."
-
 ---
 
 "Si la libertad significa algo, es el derecho a decir a la gente lo que no quiere oír." 📰

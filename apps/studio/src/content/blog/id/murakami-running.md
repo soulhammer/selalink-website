@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Mengapa Haruki Murakami berlari 10km setiap hari?"
     answer: "Untuk menopang konsentrasi tinggi dan daya tahan yang dibutuhkan dalam menulis novel, lari merangsang sel-sel otak melalui olahraga aerobik sekaligus membangun fondasi ketahanan fisik yang kokoh."
-
 ---
 
 "Hanya seniman yang terus berlari yang dapat terus menimba air dalam dari sumur kreativitas." 🏃‍♂️

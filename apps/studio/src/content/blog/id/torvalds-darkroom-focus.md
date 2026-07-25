@@ -21,7 +21,6 @@ faqs:
     answer: "Rasio kontras yang terlalu tinggi dalam kegelapan total menyebabkan kelelahan mata. Oleh karena itu, meredupkan kecerahan monitor agar sesuai dengan lingkungan yang gelap atau memasang lampu latar yang lembut (seperti strip LED tidak langsung) di belakang dinding monitor mencegah ketegangan saraf optik sekaligus mempertahankan tingkat fokus yang tinggi."
   - question: "Apa yang harus saya lakukan jika tidak memiliki ruang cuci atau ruang terisolasi di rumah?"
     answer: "Tidak harus berupa ruang terisolasi khusus. Cukup dengan menutup pintu kamar biasa, duduk membelakangi dinding untuk menjaga bidang pandang tetap tenang, atau memasang penyekat fisik agar tidak ada stimulasi visual selain monitor dalam jarak 1,5 meter dari meja Anda."
-
 ---
 
 "Bagi saya, ruang kerja yang ideal sepenuhnya tenang, gelap, dan monoton, tanpa dekorasi atau gangguan apa pun." 💻

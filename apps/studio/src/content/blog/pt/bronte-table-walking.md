@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, o ato de caminhar por si só estimula a secreção de BDNF e o fluxo sanguíneo cerebral, aumentando a criatividade em mais de 60%. Ao trabalhar solo, explique suas ideias em voz alta diante de um espelho ou caminhe mantendo um diálogo com um crítico imaginário para simular a estimulação metacognitiva."
   - question: "Ouvir críticas afiadas não causa dor emocional e desmotiva a criatividade?"
     answer: "Se o cérebro reinterpretar o feedback como um ataque pessoal, a amígdala acionará a defensiva emocional. Para evitar isso, desconecte estritamente sua identidade pessoal do seu trabalho. Lembre-se de que a crítica é um dado neutro projetado para fortalecer a integridade da obra."
-
 ---
 
 "Caminhávamos sem parar ao redor da mesa no escuro todas as noites, conversando. Naquele ritmo de caminhada, as almas dos nossos romances finalmente ganharam vida." 🕯️

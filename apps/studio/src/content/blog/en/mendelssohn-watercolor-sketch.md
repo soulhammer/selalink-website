@@ -21,7 +21,6 @@ faqs:
     answer: "Absolutely. The purpose is not to display refined artistic skills, but to deliver visual observation and hand motor coordination signals to the brain. Even if the composition is crude or lines are clumsy, the stimulation of cross-modal brain areas and the relaxation effect occur identically."
   - question: "Is pencil or pen drawing sufficient for cross-sensory stimulation instead of watercolor?"
     answer: "Yes, using a pencil or monochrome pen alone sufficiently engages spatial intuition and tactile control to activate the brain's associative circuits. Adding colorful paints or colored pencils, however, further stimulates color perception areas, broadening the scope of cross-sensory stimulation."
-
 ---
 
 "The thoughts which are expressed to me by music are not too indefinite to be put into words, but on the contrary, too definite; and the colors at the tip of the brush provide a comfortable haven for melodies." 🎨

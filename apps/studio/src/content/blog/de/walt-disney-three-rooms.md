@@ -21,7 +21,6 @@ faqs:
     answer: "Es ist am effektivsten, den physischen Raum zu wechseln, um eine geistige Erfrischung zu bewirken. Wenn die Umstände die Nutzung eines einzelnen Raums erfordern, ist es gut, dem Gehirn eine kognitive Unterscheidung zu bieten, indem man die Farben der Whiteboard-Stifte ändert, die Sitzordnung umstellt oder verschiedene Schreibgeräte verwendet (z. B. bunt Stifte für die Träumer-Phase, schwarze Kugelschreiber für die Kritiker-Phase)."
   - question: "Was sollte getan werden, wenn die Kritik in der Kritiker-Phase so übermäßig ist, dass die Idee komplett verworfen wird?"
     answer: "Das Ziel des Kritikers muss 'Ergänzung und Verbesserung' sein, nicht das Verwerfen der Idee. Die Kritikphase darf nicht mit 'Diese Idee ist unmöglich' enden, sondern muss mit der Frage 'Welche Risikofaktoren müssen geändert werden, damit diese Idee funktioniert?' angegangen werden, um durch konstruktive Abstimmung realistische Alternativen hinzuzufügen."
-
 ---
 
 "Wenn du es träumen kannst, kannst du es auch tun." 🏰

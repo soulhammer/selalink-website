@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿En qué se diferencia el método Zettelkasten del profesor Niklas Luhmann del hábito de fichas de Julio Verne?"
     answer: "Mientras que el método Zettelkasten se centra en crear una red de pensamientos interconectados mediante enlaces numéricos permanentes entre fichas, las fichas de Julio Verne se enfocaban en acumular de forma precisa datos enciclopédicos de ciencia y geografía por categorías para reforzar las descripciones técnicas y la verosimilitud en sus novelas."
-
 ---
 
 "Todo lo que un hombre puede imaginar, otros hombres pueden hacerlo realidad." 🗺️

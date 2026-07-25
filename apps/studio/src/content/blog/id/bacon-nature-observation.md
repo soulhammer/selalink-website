@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah saya harus mempraktikkan kebiasaan ini setiap hari?"
     answer: "Ya, mempraktikkannya pada waktu yang tetap setiap hari memaksimalkan neuroplastisitas otak. Melakukan ini secara konsisten setiap hari pada waktu dan tempat yang tetap untuk memperkuat sirkuit neuroplastisitas (Neuroplasticity) otak adalah kunci sukses yang paling dapat diandalkan."
-
 ---
 
 "Untuk menguasai alam, kita harus mematuhinya terlebih dahulu." 🌿

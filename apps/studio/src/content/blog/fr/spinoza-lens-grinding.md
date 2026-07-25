@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Dois-je pratiquer cette habitude tous les jours ?"
     answer: "Oui, la plasticité neuronale est maximisée lorsqu'elle est pratiquée quotidiennement à la même heure. L'exécuter continuellement renforce les circuits de neuroplasticité."
-
 ---
 
 « La clarté de ma philosophie est comme la pureté de la lumière traversant une lentille de verre. » 🔍

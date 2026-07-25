@@ -21,7 +21,6 @@ faqs:
     answer: "There is no need to blame yourself if you miss a day. Self-reproach is an unnecessary form of suffering discouraged by Stoicism. If you are extremely pressed for time, simply writing a single line in a phone memo like 'Remain unshaken by today's trials' is enough. Consistency of mindset is what matters."
   - question: "How does this differ from a typical gratitude journal or morning diary?"
     answer: "While gratitude journals focus on gathering positive events, Stoic reflective journaling proactively confronts potential negative events or stressors in advance (Negative Visualization - Premeditatio Malorum) to calibrate your mindset. It functions as a form of mental simulation."
-
 ---
 
 "When you arise in the morning, think of what a privilege it is to be alive, to think, to enjoy, to love." 🌅

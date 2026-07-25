@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Como devo escrever no diário em dias com pouco conteúdo ou quando nada de especial aconteceu?"
     answer: "Manter a 'consistência do hábito' é muito mais importante do que preencher páginas. Em dias sem eventos especiais, escrever uma única linha expressando gratidão por um pequeno momento reconfortante é suficiente."
-
 ---
 
 "Abro meu diário todas as noites e concedo tranquilidade ao meu coração agitado após as experiências do dia." ✍️

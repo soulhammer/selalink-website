@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, totalmente. Las biografías históricas confirman que Haydn se negaba a sentarse al piano sin su traje de corte, peluca y anillo. Sostenía que la ropa descuidada generaba ideas caóticas, usando la vestimenta para condicionar su mente."
   - question: "¿La ropa para trabajar desde casa debe ser un traje formal rígido o la ropa de calle cómoda es efectiva?"
     answer: "No necesita un traje rígido. El mecanismo clave consiste en separar físicamente la 'ropa de descanso' de la 'ropa de trabajo'. Cambiarse por una camisa limpia o pantalones arreglados activa completamente la Cognición del Vestido."
-
 ---
 
 "La creación artística se completa solo cuando está respaldada por el orden y la perseverancia. De una vestimenta descuidada solo pueden surgir ideas musicales descuidadas." 🚶‍♂️

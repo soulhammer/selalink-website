@@ -21,7 +21,6 @@ faqs:
     answer: "Karena membawa buku catatan berat saat berjalan sangat tidak praktis. Kartu remi yang kaku dan kecil sangat pas untuk ditulis sambil berdiri atau berjalan."
   - question: "Apakah saya bisa mendapatkan manfaat jalan-jalan botani yang sama di taman kota?"
     answer: "Ya, tentu saja. Meskipun tidak memetik tanaman, cukup dengan mengamati bentuk dedaunan, lumut, atau rumput liar di taman kota sudah mampu merangsang jaringan pemulihan perhatian otak."
-
 ---
 
 "Saya hanya bisa bermeditasi saat berjalan. Ketika saya berhenti, pikiran saya ikut berhenti; otak saya hanya bekerja bersama kaki saya." 🚶‍♂️

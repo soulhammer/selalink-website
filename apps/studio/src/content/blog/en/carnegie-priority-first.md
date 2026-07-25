@@ -21,7 +21,6 @@ faqs:
     answer: "Unless facing a catastrophic organizational crisis, most 'seemingly urgent' messages can wait 1 to 2 hours without issue. To protect your prefrontal resources, defend at least a 1-hour 'Prefrontal Preservation Fortress Block' every morning."
   - question: "How can I apply this routine if the hardest task is too massive to complete in a single day?"
     answer: "When a project is too massive, the brain experiences threat responses and seeks evasion before starting. In such cases, slice the giant project into 'sub-actionable units executable within 1 morning hour', and tackle that single sub-unit as your morning target task."
-
 ---
 
 "Perform the hardest task of the day first. That is the single law of my business productivity." 🏗️

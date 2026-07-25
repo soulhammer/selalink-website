@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "E se eu morar em um apartamento de um cômodo ou com a família, tornando difícil criar um quarto de isolamento físico?"
     answer: "Se a separação física não for possível, construa uma 'parede de som virtual' usando fones com cancelamento de ruído e ouvindo ruído branco suave ou música clássica. Além disso, coloque uma placa de 'Não Perturbe' na mesa ou aproveite as primeiras horas da manhã para garantir 2 horas de isolamento ininterrupto antes que os outros acordem."
-
 ---
 
 "Não vou para longe para trabalhar. Apenas entro em uma pequena e misteriosa cabana no meu jardim e fecho a porta. Aquele é inteiramente o meu próprio universo." 🏠

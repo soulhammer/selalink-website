@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Was soll ich tun, wenn mir gar nichts einfällt und ich mich nicht konzentrieren kann?"
     answer: "Anstatt nichts zu schreiben oder das Smartphone zu greifen, bleiben Sie am Schreibtisch sitzen, halten Sie den Stift und fangen Sie an zu kritzeln."
-
 ---
 
 "Schreiben ist kein Ausbruch von Inspiration, sondern ehrliche Arbeit wie die eines Bauern, der jeden Tag zur festen Stunde sein Feld pflügt." 🖋️

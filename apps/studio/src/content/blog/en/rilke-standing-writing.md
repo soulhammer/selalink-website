@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "What should I do if my feet or lower back hurt while using a standing desk?"
     answer: "Place a thick anti-fatigue mat beneath your feet or wear cushioned indoor slippers, and lightly engage your core muscles to prevent excessive lumbar arching and distribute gravity evenly."
-
 ---
 
 "Art is a solitary step outward beyond oneself into a wider world." ✍️

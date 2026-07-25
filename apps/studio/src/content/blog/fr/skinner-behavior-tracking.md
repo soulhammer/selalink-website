@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Les tâches créatives ou la planification qualitative peuvent-elles aussi être mesurées avec des indicateurs quantitatifs comme le nombre de mots ou le temps ?"
     answer: "Oui. Pour la planification créative, au lieu du nombre de mots, vous pouvez définir vous-même des unités de production pertinentes telles que « Nombre d'idées clés générées », « Références collectées » ou « Sections de plan détaillées » pour appliquer ce retour visuel avec efficacité."
-
 ---
 
 « L'éducation est ce qui reste quand on a tout oublié. » 📈

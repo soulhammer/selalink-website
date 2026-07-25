@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apa prinsip ilmiah di balik pengamatan alam yang dapat meredakan stres otak?"
     answer: "Karena alih-alih 'Perhatian Terarah' yang dipicu oleh layar digital, kondisi 'Pesona Lembut' saat menatap alam secara total mereset ulang energi kognitif yang terkuras di lobus frontal."
-
 ---
 
 "Saat menatap tenang helai rumput berembun, sulur mentimun, dan langkah kecil serangga yang merayap di bawahnya, kelelahan otak yang rumit terbasuh, memancarkan sumur kreativitas yang jernih." 🌿

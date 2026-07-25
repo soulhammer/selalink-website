@@ -21,7 +21,6 @@ faqs:
     answer: "Oui. Le fait d'allumer un smartphone expose le cerveau au bruit numérique, dispersant l'attention. De plus, écrire à main levée envoie des informations somatosensorielles bien plus puissantes au cortex cérébral, doublant la conscience du contrôle de soi."
   - question: "Faut-il vraiment noter le moindre détail insignifiant, comme 1 centime ou 1 minute ?"
     answer: "La clé n'est pas la valeur monétaire, mais l'entraînement du retour cognitif en temps réel du cerveau. Noter de minuscules dépenses renforce le réseau de contrôle inhibiteur préfrontal, aidant à résister aux impulsions lors de décisions majeures."
-
 ---
 
 John D. Rockefeller, le légendaire entrepreneur qui a fondé Standard Oil et accumulé la plus grande fortune personnelle de l'histoire. D'où venaient sa planification sans faille et sa détermination ? 📕

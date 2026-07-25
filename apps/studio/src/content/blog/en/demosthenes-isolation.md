@@ -21,7 +21,6 @@ faqs:
     answer: "To construct an inescapable social barrier that made going out into public socially unbearable due to his ridiculous appearance. This eliminated the willpower energy required to resist temptations, locking 100% of his prefrontal executive resources onto speech training."
   - question: "What practical Hard Commitment Devices can modern people use without shaving their heads?"
     answer: "Effective modern Hard Commitment Devices include using physical time-lock safe boxes for smartphones, enabling strict website-blocking software on computers during work blocks, or establishing financial penalty contracts (e.g., committing to pay a fine to a friend or charity if a goal is missed)."
-
 ---
 
 "Do not rely on willpower to resist temptation. Construct an inescapable boundary that locks your focus solely onto the task." 🏛️

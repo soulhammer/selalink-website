@@ -21,7 +21,6 @@ faqs:
     answer: "Durante o frio rigoroso da década de 1940 em Paris, o Café de Flore mantinha seu aqor quente e oferecia uma atmosfera acolhedora para os artistas, onde os intelectuais podiam ficar por horas sem pressão, tornando-o um espaço de criação ideal."
   - question: "Posso implementar um Script Cognitivo semelhante em um ambiente de trabalho em casa ou remoto?"
     answer: "Sim, com certeza. Você pode induzir o mesmo efeito de alternância cognitiva em casa simplesmente ligando uma luminária de mesa específica em um canto dedicado, usando uma xícara exclusiva para o foco e reproduzindo faixas de ruído branco de 50 a 60 dB."
-
 ---
 
 "Às 10 horas da manhã, eu ia para o Café de Flore. Sobre aquela pequena mesa, meus pensamentos finalmente começavam a ganhar forma." ☕

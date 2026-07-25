@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Qué pasa si vivo en un espacio reducido o con familia y me resulta difícil crear una habitación física aislada?"
     answer: "Si no puede separar las habitaciones físicamente, cree una 'pared de sonido virtual' usando auriculares con cancelación de ruido e hilando ruido blanco o música clásica suave. Además, coloque un cartel de 'No molestar' en su escritorio o aproveche las primeras horas de la mañana para asegurar 2 hours de aislamiento absoluto antes de que la familia se despierte."
-
 ---
 
 "No me voy lejos para trabajar. Simplemente entro en una pequeña y misteriosa cabaña en mi jardín y cierro la puerta. Ese es completamente mi propio universo." 🏠

@@ -21,7 +21,6 @@ faqs:
     answer: "Nein. Entscheidend ist das Umformulieren in eigenen Worten in der Muttersprache. Wer mÃ¶chte, kann eine Zeile in einer Fremdsprache zur kognitiven Anregung ergÃ¤nzen."
   - question: "Was tun, wenn das tÃ¤gliche Schreiben zu anstrengend wird?"
     answer: "Reduzieren Sie den Aufwand, indem Sie statt langer Texte nur 3 Kernbegriffe notieren."
-
 ---
 
 "Erst wenn die Fehler des Tages objektiv analysiert werden, wird aus Unsicherheit Erfindung." ð§ª

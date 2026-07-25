@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Besides household chores like ironing or washing dishes, does walking provide a similar DMN activation effect?"
     answer: "Yes, walking is also a wonderful tool for boosting creativity. However, when walking, the brain must continuously consume a certain level of visual and cognitive attention to navigate surroundings or avoid crowds. On the other hand, ironing or washing dishes involves limited, fully controlled physical actions within a familiar indoor environment, so prefrontal cognitive consumption is much lower than during a walk, offering a unique advantage in more stably inducing a quiet, meditative state (DMN activation)."
-
 ---
 
 "I don't sit down and force myself to choreograph. When I iron or sweep the floor, that's when the dancers start moving before my eyes." 🧺

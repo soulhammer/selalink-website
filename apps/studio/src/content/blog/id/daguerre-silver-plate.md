@@ -21,7 +21,6 @@ faqs:
     answer: "Pencatatan standar secara pasif menangkap teks atau kata-kata. Sebaliknya, metode Daguerre secara aktif 'mengekspos' ide di dalam korteks visual selama 3 detik sebelum menulis. Ini menciptakan foto sensorik berdensitas tinggi sehingga mereview kata kunci singkat nanti akan merekonstruksi konteks asli."
   - question: "Apa yang harus saya lakukan jika saya sedang berjalan atau mengemudi dan tidak dapat secara fisik menulis atau menggambar sketsa secara langsung?"
     answer: "Lakukan fiksasi visual internal 3 detik terlebih dahulu untuk mengukir gambar ke korteks oksipital Anda, lalu rekam memo suara cepat di smartphone Anda. Karena proses paparan 3 detik telah selesai dilakukan sebelumnya, rekaman audio singkat saja sudah cukup untuk memelihara seluruh konteks kognitif."
-
 ---
 
 "Cahaya adalah kuas yang melukis, dan pelat perak adalah wadah abadi yang menampung satu momen tersebut." 📷

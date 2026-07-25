@@ -21,7 +21,6 @@ faqs:
     answer: "Observar de perto por 3 minutos plantas de interior, árvores pela janela ou nuvens no céu garante exatamente os mesmos benefícios da Teoria da Restauração da Atenção (ART)."
   - question: "Como posso substituir a caminhada no jardim em dias de chuva ou tempo ruim?"
     answer: "Fique junto à janela e observe em silêncio as gotas de chuva escorrendo pelo vidro ou os padrões formados pela chuva. A geometria fluida das gotas funciona como um excelente estímulo de Fascinação Suave."
-
 ---
 
 "Quem quiser saber algo sobre mim como artista deve olhar atentamente para meus quadros... Mas para alimentar minha alma artística, caminhou em silêncio entre as rosas matinais." 🎨

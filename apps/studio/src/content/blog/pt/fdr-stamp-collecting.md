@@ -21,7 +21,6 @@ faqs:
     answer: "Não. A luz azul e os algoritmos estimulantes mantêm o cérebro em alerta e inibem a melatonina. O verdadeiro relaxamento cognitivo requer atividades analógicas que utilizem o tátil sem telas."
   - question: "O que fazer se dedicar 30 minutos todas as noites parecer muito longo?"
     answer: "Começar com apenas 10 minutos é eficaz. Fechar o notebook para rabiscar em um bloco ou escrever um diário analógico curto envia ao cérebro o sinal de que 'o dia acabou', ativando o relaxamento."
-
 ---
 
 "Devo à filatelia a sanidade da minha vida." ✉️

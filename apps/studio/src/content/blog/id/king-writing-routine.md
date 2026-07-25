@@ -21,7 +21,6 @@ faqs:
     answer: "Mengandalkan suasana hati atau inspirasi subjektif menciptakan output yang tidak menentu dan tidak dapat diprediksi. Mematok output minimum yang ketat memaksa jaringan kontrol eksekutif otak beroperasi secara konsisten."
   - question: "Haruskah saya mereplikasi pemicu persis Stephen King, seperti musik hard rock atau vitamin?"
     answer: "Tidak. Kekuatannya terletak pada 'konsistensi' alih-alih jenis pemicu sensorik spesifik yang dipilih. Memilih masukan sensorik yang nyaman bagi Anda—seperti meminum teh hijau, memutar noise putih, atau menyalakan lampu meja yang hangat—dan memasangkannya secara konsisten memberikan manfaat yang identik."
-
 ---
 
 "Saya hadir di meja yang sama pada waktu yang sama setiap pagi sehingga sang muse saya tahu persis di mana harus menemukan saya. Jangan menunggu inspirasi; ia hanya muncul ketika ia tahu Anda sedang duduk untuk bekerja." ✍️

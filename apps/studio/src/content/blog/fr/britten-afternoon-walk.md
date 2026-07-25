@@ -21,7 +21,6 @@ faqs:
     answer: "Située dans le Suffolk sur la côte est de l'Angleterre, Aldeburgh est une plage de galets polis. Les vagues roulant sur les galets créent un son rythmique et résonnant, tandis que le vaste horizon offre une libération visuelle au cortex préfrontal."
   - question: "Marcher dans un environnement urbain au milieu des gratte-ciel offre-t-il des bénéfices similaires ?"
     answer: "La marche en ville implique du bruit de circulation, des feux et des enseignes lumineuses qui sollicitent l'attention dirigée, réduisant l'effet réparateur. En milieu urbain, il est essentiel de privilégier des espaces verts calmes comme des parcs boisés ou des berges."
-
 ---
 
 « Lors de mes promenades de l'après-midi le long de la côte, tous les nœuds complexes de ma musique qui me résistaient le matin se dénouent enfin de façon limpide. » 🌊

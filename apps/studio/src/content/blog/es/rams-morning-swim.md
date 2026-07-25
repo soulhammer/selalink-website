@@ -21,7 +21,6 @@ faqs:
     answer: "No. Nadar era simplemente el ejercicio aeróbico preferido de Dieter Rams. Cualquier actividad aeróbica ligera que active el flujo sanguíneo cerebral, como trotar en interiores, estiramientos o caminar a paso ligero durante 10 minutos, funciona perfectamente."
   - question: "¿Puedo observar edificios urbanos o diseños de interiores elegantes en lugar de objetos naturales?"
     answer: "Los interiores procesados artificialmente o los edificios geométricos exigen sutilmente una interpretación analítica del cerebro ('¿Por qué se construyó así?'). Para recuperar la fatiga cognitiva, lo ideal es observar objetos naturales orgánicos que no requieran interpretación."
-
 ---
 
 "Para elevar la calidad del diseño, se necesita un tiempo de silencio para simplificar y observar los objetos." 🏊‍♂️

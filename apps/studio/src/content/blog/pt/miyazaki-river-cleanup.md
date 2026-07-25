@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "É obrigatório recolher lixo ou basta apenas caminhar?"
     answer: "Caminhar sozinho ajuda a ativar a DMN, mas combinar uma ação altruísta como recolher lixo com a 'organização do ambiente' libera níveis mais elevados de dopamina e serotonina, induzindo uma clareza mental superior."
-
 ---
 
 "Recolher lixo é uma forma de limpar minha mente e observar a natureza de perto." 🌿

@@ -21,7 +21,6 @@ faqs:
     answer: "Dari segi pelepasan BDNF melalui olahraga aerobik, hal itu memang efektif. Namun, berjalan di luar ruangan sangat direkomendasikan karena memproses stimulasi visual luar ruangan (cahaya alami, perubahan musim, permukaan jalan yang tidak rata) memberikan efek aktivasi yang jauh lebih besar pada korteks visual dan jaringan sinapsis prefrontal di area keseimbangan dibandingkan lingkungan dalam ruangan yang statis."
   - question: "Apakah efeknya sama jika saya menulis jurnal refleksi malam di aplikasi catatan smartphone?"
     answer: "Menulis langsung dengan tangan jauh lebih efektif. Saat memegang pulpen dan menulis, reseptor sensorik di ujung jari secara presisi merangsang korteks somatosensori (Somatosensory Cortex) otak, yang mendorong konsentrasi dan melipatgandakan efek pengendapan pada sirkuit kognitif. Mengetik di keyboard smartphone adalah input mekanis sehingga tingkat stimulasi otaknya lebih rendah."
-
 ---
 
 John Quincy Adams, Presiden ke-6 Amerika Serikat yang memperkokoh diplomasi dan fondasi awal negara setelah George Washington dan John Adams, dikenal sepanjang hidupnya sebagai simbol ketekunan. Di tengah gesekan politik yang sengit dan tekanan berat sebagai presiden, apa rahasianya mempertahankan ingatan yang tajam dan kemampuan kognitif yang kuat hingga usianya melampaui 80 tahun? 🏊‍♂️

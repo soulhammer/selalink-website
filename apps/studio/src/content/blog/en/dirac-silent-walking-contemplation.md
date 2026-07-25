@@ -21,7 +21,6 @@ faqs:
     answer: "Yes. The defining factor is not absolute environmental quiet, but completely shutting off linguistic inputs (conversation, podcasts, or reading text). Even in a bustling city center, using noise-canceling headphones to reduce environmental clatter while abstaining from language consumption provides identical left-hemisphere relaxation and parietal activation."
   - question: "Should I stop and record brilliant thoughts immediately while walking?"
     answer: "Avoid breaking the physical rhythm of your walk. Stopping to write lengthy sentences interrupts parietal visuospatial processing and the silent flow. If a breakthrough occurs, capture solely 1 or 2 essential keywords within 2 seconds using a mini notebook or voice recorder. Return immediately to your silent walk, then expand and refine the ideas systematically after the session concludes."
-
 ---
 
 "Words are noise that obscures mathematical beauty. Only when walking in absolute silence does the symmetry of the universe reveal itself." 🌌

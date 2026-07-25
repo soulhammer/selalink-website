@@ -21,7 +21,6 @@ faqs:
     answer: "No, individuals suffering from cervical or thoracic disc disorders should avoid traditional headstands where the head directly supports body weight. Instead, you can achieve safe inverse blood flow without disc strain by lying on your back with hips against a wall and extending legs vertically, or placing a cushion under your hips while elevating your legs."
   - question: "When is the most suitable time of day to perform headstands?"
     answer: "Morning on an empty stomach or right before starting work is most ideal. An inverted posture in the morning instantly supplies oxygen to dormant brain cells, clearing mental fog and dispelling sleepiness. However, avoid practicing within at least 2 hours after a meal, as inversion immediately following food intake can cause indigestion."
-
 ---
 
 Jawaharlal Nehru (1889–1964), who led India's non-violent independence struggle alongside Mahatma Gandhi and served as its founding Prime Minister to build the firm foundation of modern India. An icon of elegant white attire and dignified intellect, he nevertheless endured long, cold periods of solitary confinement throughout his life. 🧘

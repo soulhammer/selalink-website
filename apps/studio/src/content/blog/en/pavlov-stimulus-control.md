@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "How can I create a stimulus-blocking zone if I don't have a separate study or room at home?"
     answer: "Even without a physical room, placing a desk partition or using noise-canceling headphones to set up a virtual isolation barrier is sufficient to block visual and auditory distractions."
-
 ---
 
 "Study facts, observe facts, accumulate facts." 🔔

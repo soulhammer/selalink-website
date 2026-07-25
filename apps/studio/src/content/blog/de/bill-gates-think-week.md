@@ -21,7 +21,6 @@ faqs:
     answer: "Nein. Der Kern liegt in der 'Unterbrechung der externen Informationseingabe' und der 'Aufmerksamkeits-Isolation', nicht im Ort selbst. Der Besuch einer ruhigen Bibliothek am Wochenende oder das Ablegen des Smartphones in einem anderen Raum für nur einen Tag bei ausschließlicher Konzentration auf gedruckte Bücher und Notizbücher erzielt einen wirksamen Gehirn-Reset-Effekt."
   - question: "Kann man Laptops oder Tablets zum Lesen von Materialien verwenden?"
     answer: "Digitale Bildschirme sind Tore zu den Versuchungen von Websites, E-Mails und Benachrichtigungen. Um das Fokusnetzwerk des Gehirns aufrechtzuerhalten, ist das Lesen von gedrucktem Papier am besten. Ist die Nutzung von Geräten unumgänglich, wird dringend empfohlen, einen dedizierten E-Reader oder ein Offline-Gerät mit vollständig deaktiviertem WLAN und Internetzugang zu verwenden."
-
 ---
 
 "Die Think Week war das Produktivste, was ich bei Microsoft je gemacht habe. Dort kann man sich ohne Ablenkung vollkommen auf die Zukunft konzentrieren." 🌲

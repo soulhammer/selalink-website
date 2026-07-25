@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait. Attribuer des numéros uniques en numérique procure de grands avantages. Si la recherche textuelle échoue lorsqu'un mot-clé est oublié, un identifiant unique (ex. : nº 042) sert d'ancrage absolu pour créer des liens retour (backlinks) et des références croisées."
   - question: "Comment gérer la numérotation si l'on mélange journal quotidien, projets et inspirations personnelles ?"
     answer: "Unifier toutes les notes sous un seul compteur séquentiel (ex. : nº 1 à nº 1000) comme Faraday fonctionne très bien. Si vous préférez séparer les domaines, utilisez des préfixes (ex. : Travail [A-01], Études [B-01]). L'important est d'attribuer une adresse unique à chaque fragment."
-
 ---
 
 « Une observation n'est rien sans consigne. Quand vous faites une observation, attribuez-lui un numéro à l'instant. » 📝

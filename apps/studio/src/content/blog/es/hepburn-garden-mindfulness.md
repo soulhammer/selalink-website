@@ -21,7 +21,6 @@ faqs:
     answer: "¡Sí, totalmente! Llenar macetas pequeñas en un balcón o escritorio con tierra para macetas y plantar hierbas ofrece la misma estimulación táctil y exposición a la bacteria del suelo. La clave es el contacto físico con la tierra, independientemente del tamaño de la planta."
   - question: "¿Existen riesgos de higiene o infección bacteriana al tocar la tierra con las manos desnudas?"
     answer: "La tierra para macetas comercial está pasteurizada, siendo mucho más segura que la tierra silvestre. Los microorganismos benéficos ayudan a fortalecer la inmunidad. Si le preocupa la higiene, usar guantes finos de jardinería sigue ofreciendo una gran retroalimentación táctil. Lavarse las manos con agua y jabón después de terminar resuelve cualquier problema."
-
 ---
 
 "Plantar un jardín es creer en el mañana. Cuando toco la tierra, mi alma alcanza su máxima quietud." 🌿

@@ -21,7 +21,6 @@ faqs:
     answer: "Hemingway tracked his output to avoid self-deception and visually monitor his true progress, forcing a disciplined rhythm into his creative process. Visually confirmed figures activated his dopamine reward system, inviting focus for the next session."
   - question: "Is this logging routine effective for general business tasks or academic study beyond writing?"
     answer: "Yes, absolutely! It applies perfectly to any quantifiable metric—pages read, study hours, lines of code written, or exercise repetitions. Honest self-monitoring strengthens prefrontal executive tracking, boosting performance across all domains."
-
 ---
 
 "I keep track of the daily output on a large chart on the wall... so as not to fool myself." 📝

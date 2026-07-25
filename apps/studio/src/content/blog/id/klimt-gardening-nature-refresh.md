@@ -21,7 +21,6 @@ faqs:
     answer: "Menatap secara dekat selama 3 menit pada tanaman pot dalam ruangan, pohon di luar jendela Anda, atau awan yang mengapung memberikan manfaat Attention Restoration Theory (ART) yang identik."
   - question: "Bagaimana cara mengadaptasi rutinitas jalan-jalan taman pada hari-hari hujan?"
     answer: "Berdirilah di dekat jendela dan amati secara hening tetesan air hujan yang menetes di kaca atau pola yang dibentuk oleh hujan. Geometri cair dari tetesan air berfungsi sebagai pemicu Soft Fascination yang luar biasa."
-
 ---
 
 "Siapa pun yang ingin mengetahui sesuatu tentang saya sebagai seniman harus melihat gambar-gambar saya dengan cermat... Tetapi untuk memberi makan jiwa seni saya, saya berjalan dengan tenang di antara mawar pagi." 🎨

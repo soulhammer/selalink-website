@@ -21,7 +21,6 @@ faqs:
     answer: "¡Sí, por supuesto! La clave no reside en la técnica, sino en la 'estimulación táctil motora fina y la percepción de la resonancia'. Usar instrumentos sencillos como el kalimba o el tambor de lengüetas durante 5 minutos ofrece el mismo beneficio parasimpático."
   - question: "¿Puede la escucha pasiva de música reemplazar la práctica activa?"
     answer: "Aunque escuchar música relaja, mover activamente los dedos para controlar el sonido y sentir las vibraciones estimula con mayor fuerza la corteza somatosensorial y la atención prefrontal."
-
 ---
 
 "La música es un regalo sublime de Dios que ahuyenta toda tristeza y tentación." 🎵

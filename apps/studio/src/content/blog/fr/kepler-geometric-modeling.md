@@ -21,7 +21,6 @@ faqs:
     answer: "Kepler a sculpté des modèles des cinq solides platoniciens (tétraèdre, cube, octaèdre, dodécaèdre, icosaèdre) emboîtés dans des sphères concentriques représentant les orbites planétaires. Ce modèle lui permettait de vérifier les proportions spatiales entre les planètes."
   - question: "Comment appliquer cette routine sans blocs ou modèles en 3D sous la main ?"
     answer: "Il suffit de disposer des notes adhésives ou des fiches sur votre bureau et de les déplacer a la main, ou de plier et découper du papier pour structurer vos idées. Cela stimule les réseaux spatiaux du lobe pariétal, offrant les mêmes bienfaits haptiques."
-
 ---
 
 « La géométrie existait avant la Création ; elle est coéternelle a l'esprit de Dieu... Un modèle physique en 3D sculpté a la main révèle des vérités spatiales que les équations seules masquent. » 🚶‍♂️

@@ -21,7 +21,6 @@ faqs:
     answer: "Les balles anti-stress en silicone, fidget cubes, mini kalimbas, morceaux de bois lisse ou galets polis sont d'excellentes alternatives."
   - question: "Comment la stimulation tactile des doigts améliore-t-elle la créativité ?"
     answer: "Les mains occupent la plus grande surface des cortex moteur et somatosensoriel du cerveau. Stimuler les doigts active des réseaux neuronaux inexploités, favorisant l'association d'idées."
-
 ---
 
 Auguste Rodin (1840–1917), le maître de la sculpture moderne qui a insufflé une vitalité ardente et une émotion tragique à la pierre et au bronze avec 'Le Penseur' et 'La Porte de l'Enfer'. D'où lui venaient cette tridimensionnalité et cette inspiration phénoménales ? 🗿

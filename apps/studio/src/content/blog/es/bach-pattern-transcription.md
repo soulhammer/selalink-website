@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Es efectiva también la transcripción mediante mecanografía?"
     answer: "La mecanografía consiste en repetir movimientos simples de pulsación de botones por igual para todas las letras, por lo que su grado de estimulación en la región lógica del lóbulo parietal es significativamente menor en comparación con la escritura a mano analógica, donde se dibujan las trayectorias de las letras a mano y se controla la presión del bolígrafo."
-
 ---
 
 Johann Sebastian Bach, llamado el 'Padre de la Música', perfeccionó el contrapunto y la armonía barrocos, convirtiéndose en una brújula para todos los músicos occidentales como Beethoven y Mozart. Dentro de sus complejas e interconexiones armónicas matemáticas yace una estructura lógica asombrosamente intrincada. Esta genial lógica contrapuntística se originó no solo del talento innato, sino de una rutina intelectual de toda la vida. ✍️

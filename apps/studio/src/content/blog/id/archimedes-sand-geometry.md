@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah orang yang tidak bisa menggambar sama sekali tetap bisa memanfaatkan kebiasaan ini?"
     answer: "Tentu saja. Kebiasaan sketsa Archimedes bukanlah tindakan menggambar artistik, melainkan tugas kognitif menempatkan struktur pikiran otak ke ruang luar. Hanya dengan menggambar lingkaran atau memberi kotak di sekitar teks dan menghubungkannya dengan anak panah dalam bentuk corotan sederhana sudah cukup secara signifikan mengurangi beban memori kerja, memberikan efek nyata dalam meningkatkan konsentrasi."
-
 ---
 
 "Jangan injak lingkaranku. Jangan injak-injak alur pikiranku." 📐

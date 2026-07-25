@@ -21,7 +21,6 @@ faqs:
     answer: "Ya. Hasil karya estetis tidak penting. Manfaat utamanya terletak pada stimulasi taktil gerakan gunting dan masukan visual warna-warna cerah ke otak. Proses ini mengalihkan rasa sakit dan merangsang plastisitas otak, terlepas dari seberapa kasar bentuknya."
   - question: "Bagaimana jika menggunakan tanah liat atau aplikasi menggambar alih-alih menggunting kertas?"
     answer: "Membentuk tanah liat sangat direkomendasikan karena memberikan umpan balik taktil yang luar biasa. Namun, aplikasi menggambar di tablet tidak disarankan karena permukaan kaca yang licin dan notifikasi digital dapat memecah konsentrasi; gunakanlah alat analog."
-
 ---
 
 "Menggunting kertas warna-warni bagaikan memahat langsung di atas batu. Langkah ini membawa kita bergerak langsung dari warna menuju wujud nyata." ✂️

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah ada alasan penting untuk tetap menggunakan buku catatan kertas di era digital?"
     answer: "Ya. Dari sudut pandang neurosains, mengetik di keyboard memberikan stimulasi taktil yang sederhana. Sebaliknya, menulis dengan pena di atas kertas menstimulasi Hipokampus secara langsung. Kertas juga membebaskan Anda dari format kaku, memungkinkan pemetaan ide secara bebas."
-
 ---
 
 "Pengetahuan yang tidak dicatat bagaikan istana pasir, mudah terpecah dan dilupakan." 📓

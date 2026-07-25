@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah memaksakan senyum di depan cermin benar-benar efektif?"
     answer: "Ya, karena efek umpan balik wajah, otak mendeteksi gerakan otot ekspresi wajah, menilai bahwa Anda sedang dalam kondisi bahagia yang sebenarnya, dan melepaskan zat kebahagiaan."
-
 ---
 
 "Kita tidak tersenyum karena bahagia; kita bahagia karena tersenyum. Berlatihlah tersenyum di depan cermin setiap pagi dan sapulah lingkungan Anda hingga bersih." 🧹

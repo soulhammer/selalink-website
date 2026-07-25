@@ -21,7 +21,6 @@ faqs:
     answer: "Neurophysiological research shows that cortisol levels begin to decrease and brainwaves start shifting to relaxing alpha waves about 2 to 3 minutes after chewing begins. Therefore, maintaining calm focus on chewing for at least 2 to 3 minutes is key to seeing benefits."
   - question: "Is there a scientific mechanism behind mastication helping to suppress smoking urges or binge eating?"
     answer: "Yes. When experiencing strong cravings (cigarettes, food), the brain craves a rapid surge of dopamine. Providing an oral chewing alternative allows the brain to partially satisfy its reward desire (via bypass dopamine release), helping control sharp impulse spikes. Behavioral science calls this 'alternative behavior formation'."
-
 ---
 
 Ronald Reagan, the 40th President of the United States, was a prominent political leader who led the end of the Cold War, revitalized the American economy, and displayed clear communicative leadership. As the head of a global superpower tasked with bearing the immense weight of national crises and crucial decisions, what was his secret to cognitive relaxation? 🍬

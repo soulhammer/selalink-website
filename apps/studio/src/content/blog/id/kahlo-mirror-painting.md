@@ -21,7 +21,6 @@ faqs:
     answer: "Ini adalah reaksi yang sangat alami. Pada sesi awal, insting evaluasi mudah terpicu. Alih-alih memindai seluruh wajah Anda, tancapkan fokus Anda secara ketat pada pupil Anda. Pusatkan perhatian Anda pada membuat kontak langsung dengan inti kesadaran Anda."
   - question: "Apakah tatap cermin efektif secara terapeutik meskipun saya tidak melukis atau menggambar potret diri?"
     answer: "Ya, tentu saja! Bagi Frida Kahlo, melukis hanyalah alat ekstensi untuk mengeksternalisasi konfrontasi diri yang dicapai melalui tatap cermin. Meluangkan waktu 5 menit setiap hari untuk mempertahankan kontak mata penuh kasih sayang dengan refleksi Anda memberikan manfaat yang identik."
-
 ---
 
 "Saya melukis diri saya sendiri karena saya begitu sering sendirian, karena saya adalah subjek yang paling saya kenal." 🎨

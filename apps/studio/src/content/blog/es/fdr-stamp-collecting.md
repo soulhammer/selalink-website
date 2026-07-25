@@ -21,7 +21,6 @@ faqs:
     answer: "No. La luz azul y los algoritmos estimulantes mantienen al cerebro en alerta e inhiben la melatonina. La verdadera relajación cognitiva requiere actividades analógicas que usen el tacto sin pantallas."
   - question: "¿Qué pasa si dedicar 30 minutos todas las noches parece demasiado largo?"
     answer: "Comenzar con solo 10 minutos es perfectamente efectivo. Cerrar el portátil para garabatear en un cuaderno o escribir un diario analógico breve envía al cerebro la señal de que 'el día ha terminado', activando la relajación."
-
 ---
 
 "Le debo a la filatelia la cordura de mi vida." ✉️

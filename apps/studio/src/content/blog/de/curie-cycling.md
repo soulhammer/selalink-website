@@ -21,7 +21,6 @@ faqs:
     answer: "Anstelle aufwendiger Zeremonien oder Luxusgegenstände boten Fahrräder eine praktische Möglichkeit, die französische Landschaft zu erkunden, gemeinsam nachzudenken und Forschungsstress abzubauen. Sie dienten als Flitterwochen-Transportmittel und lebenslanger mentaler Anker."
   - question: "Gibt es alternative aerobe Routinen, wenn kein Fahrrad oder Radweg vorhanden ist?"
     answer: "Ja, absolut. Ein 30-minütiger strammer Spaziergang, leichtes Joggen oder Ergometerfahren im Innenbereich bieten dieselben Vorteile für Herz-Kreislauf und Gehirndurchblutung. Der Schlüssel liegt in der rhythmischen Beanspruchung der Beinmuskulatur zur Sauerstoffversorgung des Gehirns."
-
 ---
 
 "Die einzige Erfrischung, die Laborabgase und geistige Erschöpfung ausspülen konnte, war die Abendbrise beim Radfahren auf Landstraßen." 🚲

@@ -21,7 +21,6 @@ faqs:
     answer: "No hay necesidad de escribir extensamente; solo tres líneas son suficientes. Al resumir 'una cosa que más me agotó hoy', 'mi emoción en ese momento' y 'una cosa de esas que puedo corregir mañana', el mecanismo de objetivación emocional del cerebro funciona exactamente igual."
   - question: "¿Tiene el mismo efecto escribir en una aplicación de diario en el teléfono o tecleando?"
     answer: "En principio, la escritura a mano analógica en papel con un bolígrafo es la más efectiva, ya que la retroalimentación táctil que envía datos sensoriales precisos despierta mejor el control cognitivo en el lóbulo frontal. Sin embargo, si escribe al teclado manteniendo un estado concentrado con las notificaciones bloqs y redacta con honestidad, aún puede experimentar amplios beneficios de regulación emocional."
-
 ---
 
 "Sentado solo bajo la luz de las velas a altas horas de la noche, escribo en mi diario preocupándome por la nación." 🖋️

@@ -21,7 +21,6 @@ faqs:
     answer: "Variasi mikro kecil—seperti melewati gang berbeda saat pulang kantor, mencicipi bahan makanan baru, atau berfokus 5 detik pada aroma bunga di pinggir jalan—sudah sangat cukup untuk menciptakan rangsangan sensorik baru."
   - question: "Apakah ada tips untuk menghemat waktu saat menulis jurnal yang cenderung terlalu panjang?"
     answer: "Jangan terpaku pada kalimat utuh. Tuliskan kata kunci seperti 'Visual: warna merah senja', 'Auditori: bunyi gesekan kerikil'. Metode ini memungkinkan Anda mencatat semuanya dalam waktu kurang dari 3 menit."
-
 ---
 
 Marco Polo (1254–1324), penjelajah dan pedagang Italia yang meninggalkan Venesia untuk menjelajahi Asia selama 24 tahun, mewariskan 'Perjalanan Marco Polo' (Il Milione), karya literatur perjalanan terbesar dalam sejarah. Meraih kepercayaan penuh dari Kubilai Khan, kaisar Dinasti Yuan Kekaisaran Mongol, ia bertugas sebagai utusan diplomatik selama 17 tahun. Puluhan tahun kemudian, saat dipenjara di Genoa, ia mendiktekan catatan mendalam tentang kuliner, geografi, dan kebudayaan Timur seolah-olah semuanya ada di depan matanya. Apa rahasianya? 🐪

@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, com certeza! O segredo não está na técnica, mas na 'estimulação tátil motora fina e na percepção da ressonância'. Usar instrumentos simples como kalimba ou tongue drum por 5 minutos oferece o mesmo benefício."
   - question: "Ouvir música passivamente pode substituir a prática ativa do instrumento?"
     answer: "Embora ouvir música relaxe, mover os dedos para produzir o som e sentir as vibrações estimula com muito mais força o córtex somatossensorial e a atenção pré-frontal."
-
 ---
 
 "A música é um presente sublime de Deus, que espanta toda a tristeza e as tentações do mal." 🎵

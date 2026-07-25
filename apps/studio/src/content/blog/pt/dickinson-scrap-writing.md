@@ -21,7 +21,6 @@ faqs:
     answer: "Embora a ação digital pareça mais rápida, desbloquear a tela e ver notificações força o cérebro a processar novos estímulos. Isso substitui a ideia frágil em sua memória de trabalho, fazendo com que evapore. Um lápis e um pedaço de papel não geram atrito cognitivo."
   - question: "Não é melhor para a criatividade concentrar-se ao máximo e executar as tarefas domésticas meticulosamente?"
     answer: "Da perspectiva da criatividade, não. O Efeito de Incubação é maximizado quando o córtex pré-frontal suspende o julgamento lógico e entra num estado subconsciente. Portanto, em vez de focar numa receita complexa, realizar tarefas rotineiras e automatizadas — como lavar louça — produz a maior taxa de ideias originais."
-
 ---
 
 "A inspiração é um convidado muito frágil; se você não estiver pronto para recebê-lo, ele desaparece sem deixar vestígios." 📝

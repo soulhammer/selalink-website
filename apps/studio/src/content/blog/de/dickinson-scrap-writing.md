@@ -21,7 +21,6 @@ faqs:
     answer: "Obwohl die digitale Handlung schneller erscheint, zwingt das Entsperren des Bildschirms und das Sehen von Benachrichtigungen das Gehirn, neue Reize zu verarbeiten. Dadurch wird die zerbrechliche Idee im Arbeitsgedächtnis überschrieben. Ein Bleistift und ein Papierstück erzeugen keinerlei kognitive Hürde."
   - question: "Ist es für die Kreativität nicht besser, sich stark zu konzentrieren und Hausarbeiten akribisch auszuführen?"
     answer: "Aus Sicht der Kreativität: Nein. Der Inkubationseffekt wird genau dann maximiert, wenn der Präfrontalkortex die logische Bewertung einstellt und in einen unterbewussten Zustand abgleitet. Daher führt das Ausführen von routinierten, automatisierten Hausarbeiten – wie Abspülen – zu den meisten neuen Erkenntnissen."
-
 ---
 
 "Inspiration ist ein sehr zerbrechlicher Gast; wenn man nicht bereit ist, sie zu empfangen, verschwindet sie spurlos." 📝

@@ -21,7 +21,6 @@ faqs:
     answer: "Ver la televisión, programas de noticias o entrevistas y tomar notas sobre los patrones de adverbios o la aceleración del tempo al hablar sirve como un excelente ejercicio."
   - question: "¿Se puede aplicar este ejercicio a negociaciones comerciales o redacción de propuestas?"
     answer: "Sí, al recopilar los patrones de vocabulario específicos de su contraparte, puede adecuar sus palabras durante las negociaciones, logrando compenetración y mayor persuasión."
-
 ---
 
 William Shakespeare (1564–1616) fue el dramaturgo más grande de la historia de la humanidad y un gigante de la literatura inglesa que creó obras maestras como 'Hamlet', 'Macbeth', 'Otelo' y 'El rey Lear'. Mantenía una rutina diaria única que impulsó su genio creativo. 🎭

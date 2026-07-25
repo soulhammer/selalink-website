@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah mengonsumsi kopi saat larut malam atau pagi-pagi sekali mengganggu tidur?"
     answer: "Ya, itu dapat menurunkan kualitas tidur. Karena gaya hidup bangun tengah malam ala Balzac tidak praktis bagi masyarakat modern, jika Anda sensitif terhadap kafein, gantilah dengan kopi dekafen atau teh herbal hangat, serta jadwalkan blok fokus tepat setelah pulang kerja atau pagi-pagi sekali sebelum berangkat kerja."
-
 ---
 
 "Begitu kopi masuk ke dalam perut, terjadi kegemparan umum. Ide-ide mulai bergerak seperti batalyon tentara agung." ☕

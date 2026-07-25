@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, provided the text demands active cognitive effort. While light, predictable fiction offers minimal prefrontal stimulation, reading classical literature or essays rich in complex character motivations, moral dilemmas, and narrative depth strongly engages the prefrontal cognitive control networks."
   - question: "Do tablet PCs or E-Ink readers provide the same cognitive restructuring benefits as physical paper books?"
     answer: "Yes, provided distractions are completely blocked. If using a standard tablet, enable Do Not Disturb mode to silence app notifications. Physical paper books and E-Ink readers are preferable, as tactile page-turning and the absence of backlit flicker reduce visual strain and facilitate uninterrupted prefrontal focus."
-
 ---
 
 "Reading is a duty for a revolutionary. One who does not read is bound to be swayed by others' thoughts and distorted information." 📖

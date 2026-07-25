@@ -21,7 +21,6 @@ faqs:
     answer: "¡Sí! Tómese un té a las 4 PM mientras conversa 10 minutos por llamada con colegas o realiza una autoevaluación escribiendo preguntas en su libreta."
   - question: "Me preocupa que la hora del té se convierta en charlatanería y se pierda el tiempo."
     answer: "Ajuste un temporizador a exactamente 15 minutos. Este límite evita la pérdida de tiempo aportando oxígeno y estímulo creativo al cerebro."
-
 ---
 
 Ernest Rutherford (1871–1937), premio Nobel de Química y 'padre de la física nuclear', descubrió el núcleo atómico. ¿Cuál era el secreto del ambiente de su laboratorio que impulsó tantos descubrimientos revolucionarios? ☕

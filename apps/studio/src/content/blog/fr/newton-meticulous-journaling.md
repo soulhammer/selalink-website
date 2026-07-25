@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Pourquoi utiliser des carnets en papier à l'ère du numérique ?"
     answer: "Oui. Du point de vue des neurosciences, la frappe sur clavier offre une stimulation tactile moindre. À l'inverse, l'écriture manuscrite stimule directement l'Hippocampe. De plus, le papier libère des formats rigides pour schématiser librement des concepts."
-
 ---
 
 « Un savoir non consigné est comme un château de sable, il se disperse et s'oublie facilement. » 📓

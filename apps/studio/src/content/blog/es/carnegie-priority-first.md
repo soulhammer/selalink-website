@@ -21,7 +21,6 @@ faqs:
     answer: "A menos que enfrente una crisis organizativa grave, la mayoría de los mensajes 'aparentemente urgentes' pueden esperar de 1 a 2 horas sin consecuencias. Para proteger sus recursos prefrontales, defienda al menos un 'Bloque de Fortaleza Prefrontal' de 1 hora cada mañana."
   - question: "¿Cómo aplico esta rutina si la tarea más difícil es demasiado masiva para completarla en un solo día?"
     answer: "Cuando un proyecto es masivo, el cerebro experimenta respuestas de amenaza y busca evasión antes de comenzar. En esos casos, divida el proyecto en 'subunidades ejecutables en 1 hora matutina' y aborde esa subunidad como su objetivo."
-
 ---
 
 "Realice la tarea más difícil del día primero. Esa es la única ley de mi productividad empresarial." 🏗️

@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, completely. Your jurisdiction covers only your sincere attempt to communicate or influence; how the other person interprets and responds to it lies 100% within their domain. The moment you internalize this boundary, interpersonal stress evaporates."
   - question: "Does ignoring outcomes diminish my passion or motivation?"
     answer: "Not at all. In fact, the opposite happens. Liberating your brain from fear and outcome anxiety allows you to channel 100% of your cognitive energy into pure immersion in the task itself."
-
 ---
 
 "Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control." 📜

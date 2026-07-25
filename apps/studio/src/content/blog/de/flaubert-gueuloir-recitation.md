@@ -21,7 +21,6 @@ faqs:
     answer: "Da lautes Sprechen in der Öffentlichkeit unpassend ist, nutzen Sie ein leises Flüstern (Sub-Whisper) und bewegen Sie Lippen und Zunge bewusst. Allein die Bewegung der Sprachwerkzeuge stimuliert den motorischen Kortex im Vergleich zum stillen Lesen und hilft, Fehler zu finden."
   - question: "Ist das laute Gegenlesen auch bei Geschäftskonzepten oder Berichten statt Literatur effektiv?"
     answer: "Ja, äußerst effektiv. Unpassende Formulierungen, falsche Bindewörter und zu lange Sätze in Berichten führen beim lauten Lesen sofort zu Atemnot und Versprechern. Lautes Lesen fungiert als Präzisionsfilter für Lesbarkeit und Logik."
-
 ---
 
 "Wenn der musikalische Rhythmus eines Satzes nicht vollendet ist, steht auch der Gedanke darin nicht fest. Gute Prosa muss wie Poesie in Harmonie fließen." ✍️

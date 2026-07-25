@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait ! Il ne s'agit pas d'art, mais d'un entraînement cognitif s'appuyant sur quatre éléments de base : cercles, rectangles, lignes et flèches. Même un schéma rudimentaire suffit à stimuler le calepin visuo-spatial."
   - question: "Le fait de schématiser sur des applications numériques via une tablette offre-t-il les mêmes bénéfices ?"
     answer: "L'utilisation d'un stylet numérique est une alternative valable, mais le papier et le crayon restent supérieurs. La micro-friction de la surface du papier génère un retour somatosensoriel qui approfondit l'externalisation cognitive."
-
 ---
 
 « Le grand livre de l'univers est écrit dans le langage des mathématiques, et ses caractères sont des triangles, des cercles et d'autres figures géométriques. » 📐

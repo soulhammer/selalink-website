@@ -21,7 +21,6 @@ faqs:
     answer: "Por supuesto. De hecho, el acto de cortar al azar sin un patrón es más efectivo para reducir la DMN. Al cerebro no le importa en absoluto si el patrón completado parece extraño o torcido. Lo que importa no es la precisión de la forma, sino el movimiento delicado de los músculos de la yema del dedo y la estimulación auditiva en sí. Como esta es una actividad creativa libre de valoraciones y sin posibilidad de fracaso, disfrute del corte con tranquilidad."
   - question: "¿El hecho de generar desperdicios de papel tras cortar interrumpe la relajación al limpiar?"
     answer: "Si le preocupa generar desperdicios, intente colocar una pequeña papelera o bandeja sobre el escritorio desde el principio y realizar los recortes sobre ella. Configurarlo para que los trozos de papel cortados se junten de forma natural en un solo lugar le permite finalizar con una rápida acción física (10 segundos) de recogerlos y tirarlos a la papelera al terminar la rutina, sin perjudicar su estado de relajación emocional."
-
 ---
 
 "Mi trabajo de tijeras es el primer capítulo de un cuento de hadas. En el momento en que las tijeras rozan el papel, mi imaginación despliega sus alas." ✂️

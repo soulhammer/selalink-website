@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Mengapa Simone Weil lebih menyukai teks klasik Yunani Kuno untuk deklamasi pagi hari?"
     answer: "Ia percaya bahwa bahasa klasik asing yang belum terbiasa menuntut usaha kognitif sadar, mencegah kebiasaan pasif dan memaksa otak mencurahkan 100% perhatian pada setiap suku kata."
-
 ---
 
 "Belajar memberikan perhatian penuh adalah tujuan sejati dari semua studi dan kontemplasi." 📖

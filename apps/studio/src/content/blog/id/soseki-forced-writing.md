@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apa yang harus dilakukan saat pikiran menjadi kosong dan sama sekali tidak bisa fokus?"
     answer: "Daripada tidak menulis apa-apa atau mengambil ponsel pintar, tetaplah duduk di meja kerja, pegang pena Anda, dan mulailah mencoret-coret apa saja."
-
 ---
 
 "Menulis bukanlah ledakan inspirasi, melainkan kerja jujur seperti seorang petani yang membajak sawah pada jam yang ditentukan setiap hari." 🖋️

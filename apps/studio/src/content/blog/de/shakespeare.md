@@ -21,7 +21,6 @@ faqs:
     answer: "Das Ansehen von Nachrichtensendungen oder Interviewvideos und das Notieren von Adverb-Mustern oder Sprechtempo-Änderungen dient als hervorragende Übung."
   - question: "Lässt sich diese Sprachsammlung auch auf Verhandlungen oder das Schreiben von Angeboten anwenden?"
     answer: "Ja, indem Sie die bevorzugten Wortmuster Ihres Gegenübers erfassen, können Sie Ihre Wortwahl bei Verhandlungen anpassen, was eine hohe Überzeugungskraft erzeugt."
-
 ---
 
 William Shakespeare (1564–1616) war der größte Dramatiker der Menschheitsgeschichte und ein Gigant der englischen Literatur, der Meisterwerke wie „Hamlet“, „Macbeth“, „Othello“ und „König Lear“ schuf. Er pflegte eine einzigartige tägliche Routine, die sein kreatives Genie nährte. 🎭

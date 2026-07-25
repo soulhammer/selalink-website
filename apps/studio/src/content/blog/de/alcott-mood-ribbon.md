@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Was sollte ich tun, wenn Mitmenschen diese Signal-Routine ablehnen, weil sie das Gefühl haben, dass sie die Kommunikation stört?"
     answer: "Sie sollten vermeiden, das Blockadesignal über einen zu langen Zeitraum aufrechtzuerhalten. Es ist wichtig, die Konzentrationszeit auf maximal 50 Minuten bis 1 Stunde zu beschränken und Vertrauen aufzubauen, indem Sie außerhalb dieser Zeiten aktiv signalisieren, dass Sie jederzeit für Gespräche offen sind."
-
 ---
 
 "Erst wenn der Sturm tobt, lerne ich, wie ich mein Schiff steuern muss." 🎀

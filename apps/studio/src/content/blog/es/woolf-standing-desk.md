@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Por qué Virginia Woolf escribía de pie?"
     answer: "Así como su hermana pintora se ponía de pie ante el lienzo, Woolf favorecía el escritorio erguido como un ritual físico para preservar la equivalencia artística y el hiperenfoque."
-
 ---
 
 Virginia Woolf, la novelista reconocida como pionera de la literatura modernista del siglo XX a través de obras fundamentales como 'La Sra. Dalloway' y 'Al faro'. ¿Cómo logró realizar los mundos interiores secretos y la compleja psicología de sus personajes con frases tan persistentes y refinadas? ✍️

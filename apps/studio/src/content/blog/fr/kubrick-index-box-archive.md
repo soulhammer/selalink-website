@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait ! Des outils comme Notion, Obsidian ou des applications de prise de notes créent un Second Cerveau très efficace. L'important n'est pas le support, mais le respect du 'Principe de Modularité' (un seul concept par note) et du 'Principe de Connectivité' (associer les fiches au lieu de les stocker)."
   - question: "Combien de fiches faut-il accumuler avant de commencer le mélange aléatoire et les connexions créatives ?"
     answer: "Il est recommandé de commencer le mélange une fois rassemblées au moins 30 a 50 fiches. Le cerveau produit de puissantes intuitions en cherchant des liens entre des notions variées ; disposer d'une masse critique de fiches dans votre Second Cerveau maximisera l'impact des associations."
-
 ---
 
 « Consigner et classer des idées ne relève pas du simple stockage. C'est l'unique moyen de relier d'innombrables faits isolés pour structurer un récit monumental. » 🗃️

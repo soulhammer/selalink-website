@@ -21,7 +21,6 @@ faqs:
     answer: "Jangan khawatir tentang kesempurnaan melodi atau disonansi. Berfokuslah pada bobot tuts dan resonansi suara, menekan tuts secara bebas untuk merilekskan dan mereset jaringan perhatian otak."
   - question: "Apakah reset kognitif bisa dicapai dengan instrumen lain selain piano?"
     answer: "Ya, instrumen petik atau tuts seperti gitar atau ukulele yang membutuhkan umpan balik taktil jari dan resonansi suara memberikan efek pengalihan perhatian kognitif yang sama."
-
 ---
 
 "Saya baru menghentikan ketegangan otak saat meletakkan jari-jari saya di atas tuts piano dan menenggelamkan diri dalam disonansi bebas." Max Planck, fisikawan Jerman yang merumuskan teori kuantum dan menemukan konstanta Planck (h). Merumuskan fisika alam semesta membawa kelelahan mental yang hebat padanya. Suaka tempat ia berlindung adalah pianonya. Sebagai pianis berbakat, ia sering bermain duet bersama sahabatnya Albert Einstein. Setiap hari setelah riset intensif, ia menutup buku musiknya dan berimprovisasi. Artikel ini mengulas mekanisme neurosains di balik beralihnya fungsi kognitif melalui seni.

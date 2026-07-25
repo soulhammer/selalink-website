@@ -21,7 +21,6 @@ faqs:
     answer: "Es una respuesta totalmente normal. No fuerces esferas 3D en alta definición; empieza por mantener mentalmente una figura 2D simple, como un cuadrado naranja o un triángulo blanco, durante 3 segundos."
   - question: "¿Mejorar esta capacidad de bloc de notas mental ayuda a organizar flujos de trabajo complejos y establecer prioridades?"
     answer: "¡Sí! Puedes proyectar mentalmente 5 tarjetas de tareas, cambiarles el tamaño y color según su importancia y reordenarlas intuitivamente, lo que agudiza enormemente tu intuición organizativa."
-
 ---
 
 Stephen Hawking (1942–2018), uno de los físicos teóricos más grandes del siglo XX e icono de la ciencia junto a Einstein. Diagnosticado de Esclerosis Lateral Amiotrófica (ELA) en su juventud y enfrentando una parálisis total, fue pionero en teorías cosmológicas revolucionarias como la radiación de Hawking y la propuesta de no frontera.

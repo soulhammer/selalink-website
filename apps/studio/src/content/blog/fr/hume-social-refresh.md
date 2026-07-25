@@ -21,7 +21,6 @@ faqs:
     answer: "Des appels vocaux avec des proches ou des jeux en ligne conviviaux sont de très bonnes alternatives. L'essentiel est de recevoir un retour social chaleureux sans tension cognitive. Évitez toutefois le défilement passif sur les réseaux sociaux, qui accroît la fatigue mentale."
   - question: "Puis-je remplacer les échecs par d'autres jeux de société, cartes ou loisirs si je ne joue pas aux échecs ?"
     answer: "Oui, tout à fait ! Hume a choisi le jacquet et les échecs simplement parce qu'ils étaient populaires au XVIIIe siècle. Tout jeu réglementé (jeux de société, cartes) stimulant l'attention dans la bonne humeur procure la même relaxation. Privilégiez le plaisir au profit de la compétition."
-
 ---
 
 « Je dîne, je joue une partie de jacquet, je converse, et je me réjouis avec mes amis ; et quand, après trois ou quatre heures de divertissement, je reviens à ces spéculations, elles me paraissent si froides et si ridicules... » 🎱

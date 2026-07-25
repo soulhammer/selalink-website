@@ -21,7 +21,6 @@ faqs:
     answer: "Não. Sussurrar não consegue engajar totalmente os músculos articulatórios e gera retroalimentação auditiva insuficiente. Você deve articular com clareza para completar o Loop de Retroalimentação Auditivo-Motor que ativa as áreas de Broca e Wernicke."
   - question: "É eficaz registrar os pensamentos falados usando notas de voz ou aplicativos de voz para texto (STT) enquanto se caminha?"
     answer: "Sim, é uma excelente adaptação moderna da rotina de Dostoiévski. Capturar seus pensamentos falados via aplicativos de voz para texto evita que a escrita manual interrompa o fluxo da caminhada e da fala, reduzindo o atrito cognitivo."
-
 ---
 
 "Uma frase só se torna verdadeira quando sai da boca e ressoa no ouvido." 🗣️

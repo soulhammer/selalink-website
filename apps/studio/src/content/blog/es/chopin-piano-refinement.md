@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, es un riesgo real. Para evitarlo, separe el 'tiempo de borrador' del 'tiempo de refinamiento' y establezca límites cuantitativos, como limitar la revisión a un máximo de 3 horas o 5 ciclos. Aplicar el proceso de refinamiento dentro de una ventana de tiempo definida mantiene el equilibrio entre productividad y calidad."
   - question: "¿En qué momento del refinamiento iterativo se debe dejar de modificar y dar por finalizado el trabajo?"
     answer: "Utilice el punto de rendimientos decrecientes como su umbral: cuando las modificaciones adicionales no aporten mejoras significativas en comparación con la versión anterior. Cuando las pequeñas ediciones ya no alteren la eficacia ni el propósito general, la señal del ACC se ha resuelto y dar por finalizado el trabajo es la decisión óptima."
-
 ---
 
 "La inspiración llega en un instante, pero expresarla con absoluta perfección requiere incontables y dolorosas noches de repetición." 🎹

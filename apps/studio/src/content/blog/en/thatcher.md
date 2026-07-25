@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, reviewing schedule priorities aloud 30 minutes before starting intense work proactively activates the prefrontal cortex's executive control capabilities."
   - question: "How can I substitute this if I lack a dedicated memo board or briefing facility?"
     answer: "Simply reciting aloud the 3 core tasks of the day recorded in your notebook while in a quiet room serves as an effective substitute."
-
 ---
 
 Margaret Thatcher, Britain's first female Prime Minister, known as the 'Iron Lady', guided Britain out of economic stagnation with firm conservative reforms and economic restructuring, restoring the nation's global standing. Every night until 2 AM, she sat in her cabinet office study, meticulously reviewing hundreds of pages of official policy reports submitted by officials. Holding a yellow highlighter, she scanned through bureaucratic texts, ignoring unnecessary rhetoric to focus strictly on three core pillars: policy feasibility, budget indicators, and legal issues. This late-night highlighting routine anchored her decisive leadership in resolving national challenges.

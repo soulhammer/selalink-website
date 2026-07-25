@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Was soll ich tun, wenn meine Gedanken bei der stillen Reflexion abschweifen?"
     answer: "Das ist in der Anfangsphase des Gehirntrainings völlig normal. Wenn ablenkende Gedanken auftauchen, unterdrücken Sie sie nicht, sondern blicken Sie auf das ‚THINK‘-Schild und lenken Sie Ihren Fokus sanft zurück."
-
 ---
 
 „Alle Probleme der Welt könnten leicht gelöst werden, wenn die Menschen nur bereit wären zu denken.“ 💡

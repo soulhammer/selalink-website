@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apa yang harus saya lakukan jika pikiran saya melantur ke pemikiran acak saat berpikir hening?"
     answer: "Ini sangat alami selama tahap awal pelatihan otak. Ketika pikiran melantur muncul, jangan menekannya; cukup tatap tanda 'THINK' dan kembalikan fokus Anda secara perlahan ke subjek utama."
-
 ---
 
 "Semua masalah di dunia dapat diselesaikan dengan mudah jika manusia mau berpikir." 💡

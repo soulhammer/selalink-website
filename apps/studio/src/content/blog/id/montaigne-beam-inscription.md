@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah rutinitas ini harus dipraktikkan setiap hari?"
     answer: "Ya, praktik konsisten pada waktu tetap memaksimalkan neuroplastisitas otak. Menjalankan rutinitas ini secara berkelanjutan memperkuat sirkuit metakognitif di korteks prefrontal."
-
 ---
 
 "Apa yang saya ketahui? (Que sçay-je?)" 🏛️

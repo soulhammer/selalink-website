@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Por qué Mary Shelley eligió específicamente la tumba de su madre?"
     answer: "Su madre murió justo después de darla a luz. La tumba era su única conexión física con ella. Sentarse allí le permitió meditar sobre el nacimiento, la muerte y la identidad, temas centrales en Frankenstein."
-
 ---
 
 "La soledad es mi compañera más apreciada, el vientre secreto donde nace la imaginación."

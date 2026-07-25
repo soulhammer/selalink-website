@@ -21,7 +21,6 @@ faqs:
     answer: "Les urgences réelles arrivent par téléphone. Repousser la vérification des messages à la fin de l'heure de travail profond multiplie la qualité de votre travail par dix."
   - question: "Comment les salariés ne pouvant pas libérer 3 heures d'affilée doivent-ils l'appliquer ?"
     answer: "Plus important que le chiffre de '3 heures', c'est l'isolement ininterrompu. Réaliser du travail profond pendant 30 minutes avant ou 45 minutes après le travail suffit amplement."
-
 ---
 
 Émile Zola, le titan de la littérature française du XIXe siècle qui a pionné le Naturalisme, laissant des chefs-d'œuvre tels que 'Nana', 'L'Assommoir' et le manifeste historique 'J'Accuse...!'. D'où venait la puissance créatrice explosive d'un auteur ayant publié des dizaines de volumes monumentaux ? ✒️

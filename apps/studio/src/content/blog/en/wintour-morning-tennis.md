@@ -21,7 +21,6 @@ faqs:
     answer: "There is no scientific requirement that it must be 5 AM. The core principle is waking up at least one hour before starting your main work/schedule to awaken the brain with physical exercise. It is key to build a routine where you exercise within the first 30 minutes of waking up according to your schedule."
   - question: "What if high-intensity workouts are burdensome due to weak joints or low stamina?"
     answer: "Instead of high-impact jumping, choose low-impact options like stationary cycling, brisk walking, or incline walking. As long as you elevate your breathing sufficiently to increase blood flow to the brain, you will achieve the same cognitive benefits."
-
 ---
 
 "Even if you aren't sure, make sure everyone else is convinced of your intention." 🚶‍♂️

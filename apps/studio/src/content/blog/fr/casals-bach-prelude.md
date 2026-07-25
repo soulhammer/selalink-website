@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait. Bien que jouer d'un instrument sollicite en plus le cortex moteur, pratiquer l'« Écoute Active » — fermer les yeux et confier sa conscience aux textures sonores — induit un entraînement d'ondes alpha identique. La clé est de ne pas traiter la musique comme un fond sonore passif, mais de consacrer 10 minutes d'attention aux nuances auditives."
   - question: "Est-il plus efficace de porter un casque pour écouter de la musique classique le matin ?"
     answer: "Oui, porter un casque offre une isolation acoustique qui bloque les bruits ambiants, facilitant la concentration du cerveau. De plus, la diffusion de signaux stéréo directement aux deux oreilles occupe les canaux du cortex auditif, empêchant les pensées parasites d'interférer et accélérant l'entrée dans l'état d'ondes alpha."
-
 ---
 
 « C'est une redécouverte du monde dont j'ai le bonheur de faire partie. Cela me remplit de la conscience de la merveille de la vie et du sentiment de l'incroyable grâce d'être un être humain. » 🎹

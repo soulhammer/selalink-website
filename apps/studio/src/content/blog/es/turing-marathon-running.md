@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, cualquier ejercicio aeróbico continuo que involucre la función cardiopulmonar y eleve los niveles de BDNF, como el ciclismo o la natación, ofrece beneficios de recuperación cognitiva similares. Sin embargo, correr al aire libre maximiza la relajación de la DMN cuando estímulos sensoriales como el viento y los paisajes llegan al cerebro."
   - question: "¿Escuchar música mientras se corre dificulta la recuperación cerebral?"
     answer: "La música con letra o ritmos intensos obliga a la corteza prefrontal a filtrar y analizar la información auditiva, lo que impide el descanso cerebral completo. Escuchar sonidos naturales o concentrarse solo en la respiración sin música es la clave para activar plenamente la DMN y recargar la atención."
-
 ---
 
 "Para mí, correr es el momento más hermoso para despejar mi mente compleja y sumergirme en el pensamiento puro." 🏃‍♂️

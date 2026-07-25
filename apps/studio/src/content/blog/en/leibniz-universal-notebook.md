@@ -21,7 +21,6 @@ faqs:
     answer: "Yes! Digital platforms excel at searchability and hyperlinking. The key is avoiding over-fragmenting into scattered folders; instead, build a single database or board tagged by date and categories to replicate Leibniz's unified system."
   - question: "Doesn't storing all information inside a single notebook create chaotic disorder?"
     answer: "Accumulation takes priority over immediate order. Brains require critical mass inside a single workspace to form unexpected cross-links. Separate collection from organization by using category tags during weekly reviews rather than over-structuring every entry in real time."
-
 ---
 
 "An unwritten thought disappears like midsummer fog without a trace." 📒

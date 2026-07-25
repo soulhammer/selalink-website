@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Mengapa Barack Obama hanya mengenakan jas abu-abu dan biru?"
     answer: "Untuk menghemat energi prefrontal bagi keputusan negara, ia mengeliminasi pilihan busana pagi demi mencegah kelelahan keputusan."
-
 ---
 
 "Saya berusaha tidak membuat keputusan tentang apa yang saya makan atau kenakan, karena saya memiliki terlalu banyak keputusan lain." ð

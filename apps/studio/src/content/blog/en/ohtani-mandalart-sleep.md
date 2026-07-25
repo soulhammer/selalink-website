@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "10 hours of sleep seems unrealistic for busy modern professionals; can it be reduced?"
     answer: "The 10-hour benchmark applies to high-performance elite athletes; for most individuals, securing 7 to 8 hours of solid sleep is sufficient. The key is not getting fixated on duration, but maximizing deep sleep (slow-wave sleep) through a consistent wake-up routine and environmental controls."
-
 ---
 
 "Write a list to make your tasks clear, and get 10 hours of sleep to prepare your body for any pitch." 💤

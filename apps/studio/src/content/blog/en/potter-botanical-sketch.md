@@ -21,7 +21,6 @@ faqs:
     answer: "No! Describing the observed features in text instead of drawing yields the exact same 100% immersion effect for your brain."
   - question: "Can I apply this indoors or in an office using artificial objects instead of natural elements?"
     answer: "Yes, any man-made object with fine texture—such as the nib of a fountain pen, paper grain, or leather wallet stitching—provides excellent immersion."
-
 ---
 
 Beatrix Potter (1866–1943), creator of the beloved character 'Peter Rabbit' (over 300 million copies sold worldwide), 19th-century naturalist illustrator, and amateur mycologist. What drove this shy Victorian British woman to create both an imaginative fairytale world and scientifically valuable botanical illustrations? 🐰

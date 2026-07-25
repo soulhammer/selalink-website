@@ -21,7 +21,6 @@ faqs:
     answer: "Sim! Após escrever o rascunho livremente, corte corajosamente modificadores desnecessários, jargões e frases longas na segunda revisão para dobrar o impacto."
   - question: "E se o contexto for perdido por ter cortado demais?"
     answer: "Mantenha os substantivos e verbos essenciais e foque os cortes em modificadores emocionais ou explicações redundantes; o contexto essencial ficará mais nítido."
-
 ---
 
 "A perfeição não é alcançada quando não há mais nada a acrescentar, mas sim quando não há mais nada a retirar." ✈️

@@ -21,7 +21,6 @@ faqs:
     answer: "Pour soutenir una recherche philosophique exigeante pendant des décennies, Kant appliquait una routine stricte qui équilibrait son système nerveux autonome, préservait son rythme circadien et éliminait la fatigue préfrontale."
   - question: "Est-il nécessaire de garder le silence et de respirer uniquement par le nez pendant la marche comme Kant ?"
     answer: "Oui ! La respiration nasale améliore l'apport d'oxygène au cerveau et stimule la production d'oxyde nitrique (NO), apaisant le système nerveux. De plus, réduire les bavardages limite les distractions, permettant de stabiliser le Réseau du Mode par Défaut (DMN)."
-
 ---
 
 « Toute notre connaissance commence par les sens, passe ensuite à l'entendement et s'achève dans la raison... Une promenade paisible à 15h30 apaise le cerveau et clarifie les déductions abstraites. » 🚶‍♂️

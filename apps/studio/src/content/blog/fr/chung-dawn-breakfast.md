@@ -21,7 +21,6 @@ faqs:
     answer: "Non. L'essentiel n'est pas l'heure exacte de 4h du matin, mais l'application de la séquence en 3 étapes — bloquer la surcharge numérique au réveil, échanger positivement et marcher à la lumière du jour — de manière régulière selon votre propre emploi du temps (ex. 6h00 ou 7h00)."
   - question: "Comment adapter cette routine si je vis seul et que je n'ai personne avec qui petit-déjeuner ?"
     answer: "Si vous vivez seul, vous pouvez obtenir la même libération d'ocytocine et le même apaisement en buvant un thé avec des affirmations positives devant un miroir, en vous occupant d'un animal ou de plantes, ou en saluant votre barista habituel."
-
 ---
 
 « L'enthousiasme du réveil à l'aube détermine le succès de la journée. » ☀️

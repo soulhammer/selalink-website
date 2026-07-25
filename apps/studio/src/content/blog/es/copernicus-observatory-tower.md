@@ -21,7 +21,6 @@ faqs:
     answer: "Si el aislamiento físico es imposible, cree señales sensoriales artificiales: use una 'lámpara de escritorio dedicada' encendida únicamente para trabajar, o extienda una 'alfombrilla de escritorio' exclusiva para sesiones de concentración. Crear una señal visual constante entrena las redes prefrontales de forma idéntica."
   - question: "¿Qué debo hacer si me siento en mi escritorio designado pero me distraigo y no logro empezar en 5 minutos?"
     answer: "No se quede sentado haciendo actividades distractoras. Levántese de inmediato y salga de la zona dedicada. Tómese una pausa de 3 minutos para estirarse, luego regrese al escritorio para ejecutar una microtarea (p. ej., escribir el título de un documento) para reiniciar el enfoque."
-
 ---
 
 "Mientras el universo opere con orden, el lugar donde el ser humano busca la verdad debe permanecer inquebrantablemente constante." 🔭

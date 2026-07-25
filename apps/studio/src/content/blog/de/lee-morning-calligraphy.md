@@ -21,7 +21,6 @@ faqs:
     answer: "Füllfederhalter, Zeichenfedern oder ein Bleistift auf festem Papier sind hervorragende Alternativen. Entscheidend ist das bewusste Wahrnehmen des Widerstands beim Schreiben und der Druckverteilung in den Fingern. Jedes Schreibgerät mit spürbarer Haptik bietet dieselbe beruhigende Wirkung."
   - question: "Warum eignet sich diese Kalligrafie-Routine direkt nach dem Aufstehen besser als am Abend?"
     answer: "Nach dem Aufwachen ist das Gehirn noch unbelastet von Einflüssen des Tages. Wer die ersten 15 Minuten für feine Feinmotorik nutzt, bringt das Nervensystem ins Gleichgewicht und aktiviert den präfrontalen Kortex für einen besonnenen Tag."
-
 ---
 
 "Während ich den Pinsel halte, die Tusche reibe und die Zeichen aufschreibe, löst sich die innere Unruhe auf und das Wesentliche der geschäftlichen Entscheidungen tritt klar hervor." 🖌️

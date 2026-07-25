@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Bagaimana pekerja yang sibuk dapat mempersingkat rutinitas Martin jika tidak memiliki waktu berjam-jam untuk bermeditasi?"
     answer: "Tidak perlu bermeditasi berjam-jam. Cukup luangkan 'Jeda Disengaja (Intentional Pause)' selama 5 menit sebelum bekerja. Sebelum menyalakan komputer, pejamkan mata, tarik napas dalam 3 kali, dan tanyakan pada diri sendiri: 'Apa hal paling esensial yang harus saya fokuskan hari ini?'. Langkah sederhana ini sudah mampu menyelaraskan metakognitif untuk membersihkan kebisingan otak."
-
 ---
 
 "Saya duduk di kursi dan menunggu hingga pikiran saya benar-benar kosong. Hanya ketika pikiran saya sepenuhnya hampa, wujud lukisan yang sesungguhnya muncul di depan mata saya." 🧘‍♀️

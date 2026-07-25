@@ -21,7 +21,6 @@ faqs:
     answer: "Ini adalah respons yang sangat normal. Jangan memaksakan bentuk 3D definisi tinggi; mulailah dengan menahan bentuk 2D sederhana seperti persegi oranye atau segitiga putih secara stabil selama 3 detik."
   - question: "Apakah meningkatkan kemampuan papan sketsa mental ini membantu mengatur alur kerja yang kompleks dan menetapkan prioritas?"
     answer: "Ya! Anda dapat memproyeksikan 5 kartu tugas di pikiran, menyesuaikan ukuran dan warnanya berdasarkan tingkat kepentingan, lalu menyusunnya kembali secara intuitif."
-
 ---
 
 Stephen Hawking (1942–2018), salah satu fisikawan teoritis terbesar abad ke-20 dan tokoh ikonik sains bersama Einstein. Didiagnosis menderita ALS di masa mudanya dan menghadapi kelumpuhan fisik total, ia tetap memelopori teori kosmologi revolusioner seperti radiasi Hawking.

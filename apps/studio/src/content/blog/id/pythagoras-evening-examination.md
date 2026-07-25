@@ -21,7 +21,6 @@ faqs:
     answer: "Tertidur saat lelah adalah hal yang alami. Namun, duduk di meja dan membuat catatan singkat selama 5 menit seperti menulis buku harian alih-alih berbaring di tempat tidur membantu mencegah tertidur terlalu cepat dan inersia tidur."
   - question: "Apa yang harus saya lakukan jika rasa menyalahkan diri sendiri membuat saya tidak bisa tidur di malam hari?"
     answer: "Hentikan pertanyaan diri secara langsung jika ruminasi emosional mulai terjadi. Sebagai gantinya, berlatihlah mengakhiri refleksi setelah mencatat opsi alternatif seperti 'Apa yang telah terjadi tidak bisa diubah, besok saya hanya akan melakukan 1 hal secara berbeda'."
-
 ---
 
 "Jangan biarkan tidur menutup matamu sebelum engkau merenungkan tindakan hari ini sebanyak tiga kali." 🌙

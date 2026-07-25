@@ -21,7 +21,6 @@ faqs:
     answer: "Lorsque l'on demande de lire au préalable, les emplois du temps chargés font que les participants ne font que survoler ou ne lisent pas du tout. En imposant une séance de lecture silencieuse de 30 minutes en réunion, Bezos garantissait une synchronisation cognitive totale de l'ensemble des participants."
   - question: "La rédaction d'un mémo narratif de 6 pages ne demande-t-elle pas trop de temps et d'efforts ?"
     answer: "Oui, cela demande beaucoup plus de rigueur et d'effort au rédacteur. Cependant, le processus de rédaction constitue un auto-examen rigoureux qui révèle les failles logiques au préalable, réduisant drastiquement les réunions inutiles et accélérant la prise de décision globale."
-
 ---
 
 « Bien rédiger un texte est la preuve d'une pensée profonde et structurée. Les puces ne font que masquer une pensée floue. » 📝

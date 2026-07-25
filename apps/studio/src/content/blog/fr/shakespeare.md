@@ -21,7 +21,6 @@ faqs:
     answer: "Regarder des informations ou des interviews vidéo et prendre des notes sur les adverbes récurrents ou l'accélération du rythme de parole est un excellent exercice."
   - question: "Cet exercice peut-il s'appliquer aux négociations commerciales ou à la rédaction de propositions ?"
     answer: "Oui, en enregistrant les schémas de vocabulaire fréquemment utilisés par votre interlocuteur, vous pouvez adapter vos propos pendant les négociations et accroître votre persuasion."
-
 ---
 
 William Shakespeare (1564–1616) était le plus grand dramaturge de l'histoire humaine et un géant de la littérature anglaise ayant conçu des chefs-d'œuvre comme 'Hamlet', 'Macbeth', 'Othello' et 'Le Roi Lear'. Il maintenait une routine quotidienne unique qui nourrissait son génie créatif. 🎭

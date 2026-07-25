@@ -21,7 +21,6 @@ faqs:
     answer: "Você pode substituir ligando um gravador de voz ou aplicativo de notas de voz com IA no celular e falando em voz alta como se estivesse explicando a um ouvinte imaginário. O fator crucial não é a presença física de um ouvinte, mas o processo de estimulação cognitiva de converter pensamentos internos em linguagem falada externa para reauditá-los."
   - question: "Como posso converter o conteúdo da discussão oral em documentação escrita produtiva?"
     answer: "Recomendamos anotar imediatamente percepções repentinas como palavras-chave enquanto fala, ou utilizar ferramentas de voz para texto (STT) para transcrever a sessão automaticamente, e depois reestruturar o texto em um esboço principal durante o trabalho profundo."
-
 ---
 
 "Só descobrimos o que realmente estávamos pensando através do processo de falar casualmente nossos pensamentos em voz alta para os outros." 🗣️

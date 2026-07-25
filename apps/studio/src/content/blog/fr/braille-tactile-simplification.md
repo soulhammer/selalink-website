@@ -21,7 +21,6 @@ faqs:
     answer: "Utilisez une stratégie à deux niveaux : archivez les informations secondaires dans une « annexe » ou un dossier de sauvegarde tout en n'exposant que les 3 à 5 unités essentielles dans votre espace de travail, ce qui garantit la sérénité cognitive."
   - question: "Ce cadre de simplification et de tronçonnage peut-il être appliqué aux flux de travail d'équipe ?"
     answer: "Oui, énormément. Adopter une « Règle de 3 à 5 » comme norme d'équipe — comme limiter les ordres du jour à 3 points ou rationaliser les chaînes d'approbation à moins de 3 niveaux — réduit la fatigue relationnelle et accélère l'exécution."
-
 ---
 
 « Un caractère qui ne peut être compris en un seul toucher sans déplacer la pulpe du doigt n'est pas une vraie lettre. » ⠃

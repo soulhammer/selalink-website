@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, tentu saja! Inti dari storyboard bukanlah keterampilan artistik, melainkan penstrukturan tindakan dan simulasi mental. Menggunakan alat seperti Figma, Miro, atau aplikasi pemetaan pikiran sederhana untuk mengatur bentuk blok dan teks memberikan manfaat yang identik."
   - question: "Apa yang harus saya lakukan jika timbul variabel yang tak terduga selama eksekusi yang menyimpang dari storyboard?"
     answer: "Storyboard adalah peta yang fleksibel. Ketika hambatan yang tak terduga muncul, berhentilah sejenak, tinjau alternatif cadangan yang dicatat pada bingkai tahap tersebut, jalankan simulasi mental 10 detik, dan sesuaikan tindakan Anda secara adaptif."
-
 ---
 
 "Film tidak dibuat di lokasi syuting. Film diselesaikan 100% di atas kertas dan dalam pikiran sebelum syuting dimulai. Pergi ke lokasi syuting hanyalah proses mekanis meniru cetak biru tersebut." 🎬

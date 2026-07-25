@@ -21,7 +21,6 @@ faqs:
     answer: "Es besteht absolut keine Notwendigkeit, Ideen zu erzwingen. Allein das Aufschreiben eines Wortes oder einer Stimmung, die Ihnen im schläfrigen Zustand durch den Kopf geht, oder eines einzelnen Problems, das Sie heute lösen möchten, stärkt die Alpha-Wellen-Schaltkreise und öffnet allmählich die Tür zu Ihrem Unterbewusstsein."
   - question: "Ist es in Ordnung, eine Notiz-App oder Sprachaufzeichnung auf dem Smartphone zu verwenden?"
     answer: "In dem Moment, in dem Sie Ihr Smartphone einschalten, bergen das helle Bildschirmlicht und zahlreiche Benachrichtigungen ein hohes Risiko, Ihre Gehirnwellen rasch in Beta-Wellen zu versetzen. Es wird dringend empfohlen, ein Papiernotizbuch und einen Stift zu verwenden, um visuelle Reize und plötzliche Gehirnwellenwechsel zu minimieren."
-
 ---
 
 Srinivasa Ramanujan war ein legendärer genialer Mathematiker aus Indien, der über 3.900 originale Theoreme und Formeln in der Zahlentheorie und unendlichen Reihen veröffentlichte, wodurch er das Paradigma der modernen Mathematik veränderte und den kognitiven Horizont der Menschheit erweiterte. Obwohl er keine formelle akademische Höherbildung hatte, woher stammte seine brillante Inspiration zur Lösung komplexer Probleme, die die weltbesten Mathematiker Jahrzehnte lang nicht beweisen konnten? 📐

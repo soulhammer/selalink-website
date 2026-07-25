@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "What should I do if my mind wanders into random thoughts during quiet thinking?"
     answer: "This is completely natural during early brain training. When stray thoughts arise, do not suppress them; simply gaze at the 'THINK' sign and gently guide your focus back to the core subject."
-
 ---
 
 "All the problems of the world could be settled easily if men were only willing to think." 💡

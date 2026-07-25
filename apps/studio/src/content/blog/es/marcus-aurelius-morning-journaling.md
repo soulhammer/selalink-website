@@ -21,7 +21,6 @@ faqs:
     answer: "No hay necesidad de culparse si se salta un día. La autocompasión y evitar el arrepentimiento son principios estoicos. Si el tiempo es escaso, escribir una sola frase en las notas del móvil como 'No me dejaré perturbar por los problemas de hoy' es suficiente. Lo importante es la constancia de espíritu."
   - question: "¿En qué se diferencia esto de un diario de gratitud convencional o un diario matutino?"
     answer: "Mientras que un diario de gratitud se centra en recopilar aspectos positivos, el diario reflexivo estoico se anticipa a posibles eventos negativos o fuentes de estrés (Visualización Negativa - Premeditatio Malorum) para calibrar su actitud y actuar como una simulación mental de temple."
-
 ---
 
 "Cuando te me levantes por la mañana, piensa en qué privilegio es estar vivo, pensar, disfrutar, amar." 🌅

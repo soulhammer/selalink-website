@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Faut-il absolument ramasser des déchets, ou suffit-il de marcher ?"
     answer: "La simple marche active le DMN, mais associer une action altruiste comme le ramassage des déchets au rangement de l'environnement libère davantage de dopamine et de sérotonine, procurant un état de clarté mentale supérieur."
-
 ---
 
 « Ramasser les déchets est une façon de me clarifier l'esprit et de regarder la nature de près. » 🌿

@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, les nouvelles courtes au ton lyrique prononcé, la poésie ou les essais réflexifs sont bien plus efficaces pour soulager la fatigue cognitive numérique que les longs romans axés sur l'intrigue."
   - question: "Est-il possible de lire sur une liseuse électronique (e-book) ?"
     answer: "Les livres papier restent l'idéal, mais les liseuses à encre électronique avec éclairage frontal émettent très peu de lumière bleue perturbatrice du sommeil et conviennent parfaitement."
-
 ---
 
 "La science nous apprend ce qu'est l'univers, mais la poésie nous apprend qui nous sommes." 📜

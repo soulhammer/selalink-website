@@ -21,7 +21,6 @@ faqs:
     answer: "Untuk mengurangi gesekan akses fisik hingga nol mutlak, memungkinkannya mengamankan pengamatan dalam hitungan detik tanpa kehilangan satu pikiran pun. Pengaturan tanpa hambatan ini menjaga memori kerjanya tetap bersih, mempertahankan kapasitas prefrontal untuk asosiasi kreatif."
   - question: "Apakah menggunakan aplikasi catatan smartphone memberikan manfaat eksternalisasi memori kerja yang sama seperti buku catatan kertas?"
     answer: "Ya, tentu saja. Mekanisme mendasarnya adalah mengalihkan informasi ke media eksternal untuk mengosongkan memori kerja (RAM). Namun, menulis tangan atau menggambar di atas kertas fisik memberikan umpan balik sensorik taktil yang melibatkan korteks motorik dan visual, menawarkan pemantapan memori yang sedikit lebih unggul."
-
 ---
 
 "Tataplah detail dengan cermat, dan segera tuangkan ke atas kertas. Siapa yang hanya mengandalkan ingatan akan kehilangan warisan pengetahuan terbesar." 📓

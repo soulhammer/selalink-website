@@ -21,7 +21,6 @@ faqs:
     answer: "No. The core mechanism is 'physically disconnecting from artificial information' and 'focusing on analog physical tasks'. Designating a specific phone-free zone in your home for just 30 to 60 minutes yields identical neurobiological benefits."
   - question: "Why does simple physical labor or household chores promote deep contemplation?"
     answer: "Repetitive physical tasks that require minimal conscious processing lower central executive cognitive load. This state eases top-down prefrontal inhibition, allowing the Default Mode Network to freely associate subconscious concepts and spark creative insights far more effectively than forced intellectual effort."
-
 ---
 
 "At Bollingen I am in the midst of my true life, I am most deeply myself... There is no electricity, no running water, yet my soul recovers its organic wholeness." 🪵

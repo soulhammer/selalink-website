@@ -21,7 +21,6 @@ faqs:
     answer: "Isole o objetivo principal e pergunte: 'Se esta seção ou gráfico for removido, o problema fundamental resolvido continua claro?' Se sim, o elemento é apenas ornamento. Eliminá-lo amplia a clareza e o impacto."
   - question: "A metodologia de corte de Chanel pode ser aplicada ao espaço de trabalho pessoal e à organização diária?"
     answer: "Sim, oferece benefícios cognitivos notáveis. Ao organizar sua mesa ou guarda-roupa, elimine o excesso guardado 'por via das dúvidas' para conservar apenas os 20% de ferramentas e roupas que usa diariamente. Eliminá-lo amplia a clareza e o impacto."
-
 ---
 
 "A simplicidade é a chave de toda verdadeira elegância." ✂️

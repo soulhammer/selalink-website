@@ -21,7 +21,6 @@ faqs:
     answer: "Membuka kunci smartphone dan menemukan aplikasi catatan memaparkan Anda pada notifikasi, pesan, dan email yang membajak fokus, menyebabkan inspirasi singkat menguap. Sebaliknya, buku catatan analog bersifat instan; gesekan taktil dan tekanan pena secara kuat merangsang korteks somatosensori dan mengaktifkan filter RAS otak."
   - question: "Apakah ada contoh dunia nyata di mana catatan sepele di buku catatan Branson berkembang menjadi kesuksesan bisnis besar?"
     answer: "Ya. Virgin Atlantic Airways lahir dari satu entri buku catatan. Ketika penerbangan ke Puerto Riko tiba-tiba dibatalkan, Branson menulis: 'Kemungkinan mengoperasikan penerbangan piagam untuk penumpang yang terlantar?' Ia segera menanyakan biaya sewa, menjual tiket satu arah kepada penumpang yang terlantar di papan tulis, dan menerbangkan pesawat. Catatan tunggal itu memicu lahirnya maskapai penerbangan global."
-
 ---
 
 "Betapa pun tampaknya sepele sebuah ide, jika Anda tidak mencatatnya di tempat, ide itu akan hilang selamanya. Buku catatan dan pena saya adalah alat terbesar yang saya miliki." 📓

@@ -21,7 +21,6 @@ faqs:
     answer: "Aerobik dan aktivasi otot ringan memang membantu, tetapi latihan gym di dalam ruangan di bawah pencahayaan buatan kurang efektif dalam menekan melatonin. Aktivitas di bawah sinar matahari alami yang dikombinasikan dengan kontak alam (earthing—menyentuh tanah dan elemen alam secara langsung) diperlukan untuk mencapai stabilitas saraf yang kuat dan aktivasi serotonin seperti Verdi."
   - question: "Apa yang harus diperhatikan saat mulai menerapkan kerja fisik pagi hari?"
     answer: "Anda harus menghindari kerja intensitas tinggi yang membuat otak terlalu lelah. Ketika asam laktat menumpuk di tubuh dan kelelahan fisik yang parah muncul, glukosa dan energi prefrontal yang dibutuhkan untuk pekerjaan kreatif akan terkuras, merusak kreativitas; oleh karena itu batasi pada aktivitas ringan sekitar 15 menit."
-
 ---
 
 "Bagi saya, inspirasi musik terbesar tidak datang saat memegang pena, melainkan saat mengolah tanah dan berkeringat di pagi hari." 🎼

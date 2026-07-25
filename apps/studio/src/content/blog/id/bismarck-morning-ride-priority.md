@@ -21,7 +21,6 @@ faqs:
     answer: "Sama sekali tidak masalah. Ini bukan kegagalan, melainkan bukti bahwa Anda memfokuskan energi pada proyek substansial berorientasi dampak tinggi. Cukup pindahkan item yang belum selesai sebagai tugas #1 besok pagi saat korteks prefrontal Anda berada pada kondisi paling segar."
   - question: "Apa alternatif olahraga modern pengganti berkuda di pagi hari?"
     answer: "15 menit joging, bersepeda statis, kettlebell swing, peregangan Tabata, atau jalan cepat memberikan efek neurofisiologis yang sama persis dalam meningkatkan aliran darah otak serta melepaskan BDNF dan dopamin."
-
 ---
 
 "Politik adalah seni dari kemungkinan, dan untuk membuat keputusan terbaik, seseorang harus menangkap momen paling jernih dari otak." 🐎

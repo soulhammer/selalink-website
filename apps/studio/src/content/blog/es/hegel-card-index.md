@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, totalmente. Puede implementar un sistema de tarjetas utilizando herramientas digitales como Notion, Obsidian o aplicaciones de notas. Las funciones de enlaces bidireccionales (Backlinks) replican y mejoran los mecanismos de Hegel."
   - question: "¿Por qué las tarjetas atómicas concisas son más efectivas que escribir páginas largas en un cuaderno?"
     answer: "Las páginas largas encadenan las ideas a un contexto lineal, arruinando su independencia. Las tarjetas atómicas funcionan como bloques modulares, ofreciendo una alta 'Flexibilidad Cognitiva' para recombinar pensamientos sin fricción."
-
 ---
 
 "Solo los pensamientos registrados y organizados en el espacio externo pueden evolucionar hacia una verdadera sabiduría dialéctica." 🗃️

@@ -21,7 +21,6 @@ faqs:
     answer: "Hemingway registraba su producción para evitar el autoengaño y monitorear visualmente su progreso real, imponiendo disciplina en su trabajo. Las cifras visibles activaban su sistema de dopamina, facilitando el enfoque para la siguiente sesión."
   - question: "¿Esta rutina de registro es efectiva para tareas laborales o estudio académico más allá de la escritura?"
     answer: "¡Sí, totalmente! Se aplica a cualquier métrica cuantificable: páginas leídas, horas de estudio, líneas de código o repeticiones de ejercicio. El automonitoreo honesto fortalece el control prefrontal, aumentando la productividad en cualquier campo."
-
 ---
 
 "Para no engañarme a mí mismo, registro el número exacto de palabras escritas cada día en un gráfico colgado en la pared." 📝

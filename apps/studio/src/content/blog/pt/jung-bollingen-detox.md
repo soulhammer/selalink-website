@@ -21,7 +21,6 @@ faqs:
     answer: "Não. O segredo é a 'desconexão física da informação artificial' e o 'foco em tarefas analógicas'. Definir um espaço sem celular em sua casa por apenas 30 a 60 minutos garante exatamente os mesmos benefícios."
   - question: "Por que tarefas domésticas ou trabalho físico simples favorecem a reflexão profunda?"
     answer: "Tarefas físicas repetitivas que exigem pouco esforço consciente reduzem a carga cognitiva executiva. Esse estado diminui o controle pré-frontal, permitindo que a Rede de Modo Padrão associe conceitos inconscientes e gere insights com mais eficácia do que o esforço forçado."
-
 ---
 
 "Em Bollingen estou no meio da minha vida verdadeira, sou profundamente eu mesmo... Não há eletricidade nem água encanada, mas minha alma recupera sua plenitude orgânica." 🪵

@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, benar sekali. Pada akhir tahun 1830, menghadapi tenggat waktu penerbit yang ketat untuk *The Hunchback of Notre-Dame*, Hugo mencukur separuh kepala dan jenggotnya serta mengunci pakaian luarnya untuk memaksakan isolasi mandiri total."
   - question: "Metode isolasi pra-komitmen modern apa yang dapat saya gunakan tanpa mencukur rambut saya?"
     answer: "Menempatkan ponsel pintar Anda di dalam kotak kunci fisik berbatas waktu selama sesi kerja mendalam atau menggunakan aplikasi pemblokir situs web yang secara total menutup akses ke media sosial adalah strategi pra-komitmen modern yang sangat efektif."
-
 ---
 
 "Ketika Anda secara sukarela memenjarakan diri sendiri, imajinasi Anda akhirnya menemukan kebebasan mutlak." 🪒

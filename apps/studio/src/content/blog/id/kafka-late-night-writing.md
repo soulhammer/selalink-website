@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, begadang secara berlebihan mengganggu kesehatan fisik. Mekanisme utamanya bukanlah jam larut malam itu sendiri, melainkan mengamankan '1 jam keheningan mutlak' yang bebas dari gangguan eksternal. Mencapai hal ini melalui teknologi peredam bising memberikan manfaat yang identik."
   - question: "Bagaimana cara mengadaptasi rutinitas keheningan Kafka selama jam-jam siang hari?"
     answer: "Selama jam siang hari, kenakan sumbat telinga peredam bising atau headphone untuk memblokir obrolan akustik, redupkan pencahayaan, atau tutup tirai anti-cahaya. Meminimalkan masukan visual dan pendengaran secara buatan menciptakan 'jam emas keheningan'."
-
 ---
 
 "Pintu kamar saya terkunci, keheningan total mengelilingi saya, dan ketenangan yang mendalam ini menopang jiwa saya. Menulis adalah sebuah bentuk doa." 🕯️

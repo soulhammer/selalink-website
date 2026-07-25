@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Quel type de contenu est le plus efficace à inclure dans le Jagyeongmun ?"
     answer: "Rédiger vos faiblesses d'autocontrôle (ex. réduire l'usage du smartphone, être ponctuel) sous forme d'affirmations positives et concrètes est le moyen le plus efficace de stimuler le cerveau."
-
 ---
 
 "Celui qui examine chaque matin les limites qu'il s'est fixées ne se laissera pas guider par les impulsions du jour et pourra gouverner sa propre vie." 📜

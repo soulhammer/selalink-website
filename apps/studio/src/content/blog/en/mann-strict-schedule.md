@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, because he poured 100% of his mental energy into the morning session, he recognized that his cognitive capacity was depleted after 1:00 PM. Believing that writing after 1:00 PM resulted in lower quality, he reserved his afternoons for light tasks that required less energy, such as reading, walking, and editing."
   - question: "Can Deep Work sessions be performed at night instead of in the morning?"
     answer: "Depending on an individual's circadian rhythm (night owls), night hours may be the most effective. The core principle lies not in the exact hour of the day, but in securing a continuous block of 2 or more hours free from external distractions when your energy is at its peak."
-
 ---
 
 Thomas Mann (1875–1955), Nobel Prize-winning author of masterpieces like 'The Magic Mountain' and 'Buddenbrooks', stands as a titan of German intellectual history. His massive, intricate narratives of profound philosophical depth were not born from spontaneous flashes of inspiration, but from clockwork time control executed with mechanical precision. 🕰️

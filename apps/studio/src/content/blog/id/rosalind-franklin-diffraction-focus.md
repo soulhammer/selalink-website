@@ -21,7 +21,6 @@ faqs:
     answer: "Waktu yang dihabiskan untuk memperbaiki kesalahan, meminta maaf, dan mengerjakan ulang nanti 10 kali lebih besar. Pemeriksaan 10 menit di awal adalah cara tercepat."
   - question: "Apakah pencocokan kuantitatif dapat diterapkan pada teks atau pekerjaan umum?"
     answer: "Ya! Buat daftar kuantitatif yang berfokus pada 3 elemen kunci yang rentan kesalahan (tanggal, ejaan, tautan lampiran, nama klien) dan terapkan metode yang sama."
-
 ---
 
 Rosalind Franklin (1920–1958) adalah ahli kimia fisik Inggris luar biasa yang mengabadikan 'Foto 51'—kunci penting untuk memecahkan struktur untai ganda DNA. Di tengah prasangka dan kondisi penelitian yang menantang, data eksperimennya tidak mengizinkan margin kesalahan sekecil apa pun. 🧬

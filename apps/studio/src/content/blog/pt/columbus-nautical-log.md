@@ -21,7 +21,6 @@ faqs:
     answer: "Não. A escrita manual fornece uma retroalimentação tátil que engaja ativamente os córtex motor e somatossensorial, fortalecendo o controle pré-frontal. Além disso, a luz azul do celular suprime a melatonina e prejudica o sono. Recomenda-se um caderno físico de papel."
   - question: "O que devo fazer nos dias em que estiver exausto demais para escrever um registro completo antes de dormir?"
     answer: "Escrever uma única linha, como 'Concluído hoje: Tarefa A', é suficiente. O objetivo não é a perfeição, mas manter o hábito diário contínuo. Esta ação mínima sinaliza controle pré-frontal ao cérebro, reduzindo a reatividade da amígdala."
-
 ---
 
 "Todas as noites, ao registrar a profundidade do oceano e o ângulo das estrelas, o terror do desconhecido se transformava na firme certeza dos números." ⛵

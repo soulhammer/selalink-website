@@ -21,7 +21,6 @@ faqs:
     answer: "Porque era incómodo llevar cuadernos pesados mientras caminaba. Las cartas de póquer, rígidas y pequeñas, eran el herramienta portátil ideal para escribir de pie o en movimiento."
   - question: "¿Se pueden obtener los mismos beneficios de un paseo botánico en un parque urbano?"
     answer: "Sí, totalmente. Incluso sin recolectar plantas físicamente, el simple hecho de observar con atención las formas orgánicas de hojas, musgo o hierbas en un parque estimula la red de restauración de la atención del cerebro."
-
 ---
 
 "Solo puedo meditar cuando camino. Cuando me detengo, dejo de pensar; mi mente solo funciona con mis piernas." 🚶‍♂️

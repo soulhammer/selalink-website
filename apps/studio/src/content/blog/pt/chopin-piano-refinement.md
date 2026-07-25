@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, é um risco real. Para evitar isso, separe o 'tempo de rascunho' do 'tempo de refinamento' e estabeleça limites quantitativos — como limitar a revisão a um máximo de 3 horas ou 5 ciclos. Aplicar o refinamento dentro de uma janela de tempo definida mantém o equilíbrio entre produtividade e qualidade."
   - question: "Em que momento do refinamento iterativo deve-se parar de modificar e dar o trabalho por concluído?"
     answer: "Utilize o ponto de rendimentos decrescentes como seu limite — quando edições adicionais não trouxerem melhorias significativas em relação à versão anterior. Quando pequenas edições não alterarem mais a eficácia ou o propósito geral, o sinal do ACC foi resolvido e dar o trabalho por concluído é a decisão ideal."
-
 ---
 
 "A inspiração surge em um instante, mas expressá-la com absoluta perfeição exige incontáveis e dolorosas noites de repetição." 🎹

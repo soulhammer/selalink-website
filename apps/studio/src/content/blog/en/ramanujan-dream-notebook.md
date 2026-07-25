@@ -21,7 +21,6 @@ faqs:
     answer: "There is no need to force ideas out. Simply jotting down a word or mood lingering in your mind while groggy, or a single problem you wish to solve today, strengthens Alpha wave circuits and gradually opens the door to your subconscious."
   - question: "Is it okay to use a memo app or voice recording on my smartphone?"
     answer: "The moment you turn on your smartphone, bright screen light and multiple notifications carry a high risk of rapidly shifting your brainwaves to Beta waves. It is strongly recommended to use a paper notebook and pen to minimize visual stimulation and brainwave shifts."
-
 ---
 
 Srinivasa Ramanujan was a legendary genius mathematician from India who published over 3,900 original theorems and formulas in number theory and infinite series, transforming the paradigm of modern mathematics and expanding humanity's cognitive horizon. Despite lacking formal higher academic training, where did his brilliant inspiration originate to solve complex problems that the world's top mathematicians could not prove for decades? 📐

@@ -21,7 +21,6 @@ faqs:
     answer: "A primeira pessoa é superior para estimular o córtex motor. A terceira pessoa ajuda no posicionamento, mas a primeira pessoa ajusta com precisão a motricidade fina."
   - question: "O que fazer se surgirem pensamentos de erro durante a visualização?"
     answer: "É um mecanismo natural. Pause e rebobine a cena, depois visualize superando o erro com sucesso para reforçar conexões positivas."
-
 ---
 
 "Fecho os olhos e me imagino jogando no campo. Nesse momento meu corpo fica completamente pronto." ⚽

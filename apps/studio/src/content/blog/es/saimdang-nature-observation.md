@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Cuál es el principio científico por el cual la observación de la naturaleza reduce el estrés cerebral?"
     answer: "Porque en lugar de la 'Atención Dirigida' activada por pantallas o la ciudad, el estado de 'Fascinación Suave' al observar la naturaleza reinicia completamente la energía cognitiva en el lóbulo frontal."
-
 ---
 
 "Mientras se contempla en silencio las hojas de hierba cubiertas de rocío, las vides de pepino y las diminutas pisadas de los insectos que se deslizan debajo, el complejo cansancio cerebral se disipa, brotando un manantial claro de creatividad." 🌿

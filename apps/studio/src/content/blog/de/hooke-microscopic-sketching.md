@@ -21,7 +21,6 @@ faqs:
     answer: "Ja! Unabhängig davon, ob Sie echtes Papier oder einen digitalen Stift nutzen: Solange Feinmotorik und visuelle Verfolgung beim Strukturieren synchronisiert werden, erzielen Sie dieselben kognitiven Vorteile."
   - question: "Bringt diese Methode auch Menschen ohne zeichnerisches Talent etwas?"
     answer: "Zeichnerisches Können ist völlig unerheblich. Der neurowissenschaftliche Effekt beruht auf der kognitiven Anstrengung, ein Objekt aufmerksam zu beobachten und Zusammenhänge visuell darzustellen."
-
 ---
 
 "In den kleinsten Strukturen der Natur verbirgt sich die größte Ordnung, die die Menschheit noch nicht gesehen hat." 🔬

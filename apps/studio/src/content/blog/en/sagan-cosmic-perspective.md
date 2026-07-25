@@ -21,7 +21,6 @@ faqs:
     answer: "Yes! Visualizing a 1-minute cosmic zoom-out stabilizes your heart rate and significantly reduces stage fright or performance anxiety."
   - question: "What if I don't have space photos around me?"
     answer: "Simply close your eyes and imagine a small, beautiful blue dot floating in vast dark space to yield the exact same neuroscientific benefits."
-
 ---
 
 "Everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives on a mote of dust suspended in a sunbeam." 🌌

@@ -21,7 +21,6 @@ faqs:
     answer: "Mesmo a luz leitosa suave e sutil de um dia nublado é um excelente objeto para contemplar a iluminação. Você também pode observar as refrações de luz nas gotas de chuva nas vidraças."
   - question: "Isso é eficaz mesmo se eu não trabalhar com arte ou design como Vermeer?"
     answer: "Sim! Observar silenciosamente a iluminação visual é o método físico de descanso mais rápido para cessar a tagarelice mental complexa no cérebro."
-
 ---
 
 Johannes Vermeer, mestre da pintura barroca holandesa do século XVII que criou obras-primas serenas e luminosas como 'Moça com Brinco de Pérola' e 'A Leiteira'. Junto à janela de seu ateliê em Delft ficava uma 'Câmara Obscura (Camera Obscura)', dispositivo óptico que projetava partículas de luz com precisão. Antes de pintar, ele observava silenciosamente por dezenas de minutos a luz do sol entrando pela lente e os finos pontos de luz prateada na parede. Olhar tranquilamente a refração da luz e as sombras desfocadas era um hábito supremo de descanso cerebral que aquietava a tagarelice mental e guiava o cérebro a uma extrema serenidade.

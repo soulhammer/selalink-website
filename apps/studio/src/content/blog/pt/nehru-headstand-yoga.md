@@ -21,7 +21,6 @@ faqs:
     answer: "Não, pessoas que sofrem de problemas nos discos cervicais ou torácicos devem evitar a parada de cabeça tradicional em que a cabeça suporta diretamente o peso do corpo. Em vez disso, você pode obter um fluxo sanguíneo invertido seguro e sem sobrecarregar os discos deitando-se de costas com o quadril encostado na parede e elevando as pernas verticalmente, ou colocando uma almofada sob o quadril ao elevar as pernas."
   - question: "Qual é o momento mais apropriado do dia para praticar a parada de cabeça?"
     answer: "Pela manhã, em jejum, ou logo antes de começar a trabalhar é o momento ideal. A postura invertida matinal fornece oxigênio instantaneamente às células cerebrais adormecidas, limpando a mente e espantando o sono. Contudo, evite praticar dentro de pelo menos 2 horas após as refeições, pois a inversão logo após comer pode causar indigestão."
-
 ---
 
 Jawaharlal Nehru (1889–1964), que liderou a luta pela independência não violenta da Índia ao lado de Mahatma Gandhi e serviu como seu primeiro-ministro fundador para construir as bases sólidas da Índia moderna. Um ícone de trajes brancos elegantes e digna intelectualidade, ele enfrentou longos e frios períodos de isolamento na prisão ao longo de sua vida. 🧘

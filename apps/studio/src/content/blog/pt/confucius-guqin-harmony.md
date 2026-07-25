@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, com certeza. O propósito desta rotina não é a performance artística, mas a estabilização do sistema nervoso por meio da afinação e ressonância acústica. Instrumentos simples como uma Kalimba ou um Ukulele permitem afinar e dedilhar notas em 10 minutos, proporcionando relaxamento."
   - question: "Usar um aplicativo de afinação no celular é eficaz para esta rotina?"
     answer: "Sim, desde que você não fique encarando a tela. Mantenha o aplicativo aberto como referência, mas desvie o olhar. Concentrar sua atenção na sensação tátil da corda e na vibração acústica em vez dos medidores visuais reduz o cansaço visual e ativa a recuperação parassimpática."
-
 ---
 
 "Quando a mente não estiver clara, toque as cordas. Afinar um instrumento é afinar a própria alma." 🎼

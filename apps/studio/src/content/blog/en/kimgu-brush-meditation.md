@@ -21,7 +21,6 @@ faqs:
     answer: "Regulating the delicate pressure and angle of a brush requires Fine Motor Control, which heavily activates the somatosensory cortex and prefrontal executive networks. This concentrated engagement physically down-regulates threat signaling in the amygdala, suppressing anxiety."
   - question: "Can I achieve identical neurobiological benefits using a fountain pen or standard pen if I don't own calligraphy brushes?"
     answer: "Yes, completely! The core mechanism is not the specific tool, but 'fine pressure modulation and deliberate decelerated motor speed'. Holding a fountain pen, dip pen, or pencil while writing slowly (Slow Writing)—feeling line variations and paper friction—delivers identical parasympathetic and amygdala-calming benefits."
-
 ---
 
 "As I gather my strength at the tip of the brush to draw a single line, chaotic distractions recede, leaving only a transparent conviction upon the paper." 🖌️

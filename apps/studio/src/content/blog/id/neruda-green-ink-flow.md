@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, benar. Karena korteks visual mendeteksi panjang gelombang cahaya, tema hijau tua yang menenangkan pada layar digital menghasilkan efek induksi Gelombang Alfa yang sama seperti tinta analog."
   - question: "Mengapa tinta hitam atau layar hitam-putih terkadang memicu hambatan kreatif?"
     answer: "Teks hitam dengan kontras tinggi menyampaikan ketegangan bawah sadar ke otak yang terhubung dengan dokumen resmi atau evaluasi ujian, sehingga menghambat divergensi bebas dari ide-ide kreatif."
-
 ---
 
 "Hijau adalah warna harapan dan warna alam tempat puisi saya bernapas." ✒️

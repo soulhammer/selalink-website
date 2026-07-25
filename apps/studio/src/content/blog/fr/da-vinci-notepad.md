@@ -21,7 +21,6 @@ faqs:
     answer: "Pour réduire la friction d'accès physique à zéro, lui permettant d'externaliser ses observations en quelques secondes sans perdre la moindre pensée. Cette conception sans friction préservait sa mémoire de travail pour les associations créatives."
   - question: "L'utilisation d'une application de notes sur smartphone procure-t-elle les mêmes bénéfices d'externalisation qu'un carnet papier ?"
     answer: "Oui, tout à fait. Le mécanisme essentiel est le transfert d'informations vers un support externe pour libérer la mémoire de travail (RAM). Cependant, l'écriture manuscrite ou le dessin sur papier procure une rétroaction tactile qui sollicite les cortex moteur et visuel, offrant une consolidation supérieure."
-
 ---
 
 « Fixez votre regard sur le détail et consignez-le immédiatement sur le papier. Celui qui se fie uniquement à sa mémoire perd le plus grand héritage du savoir. » 📓

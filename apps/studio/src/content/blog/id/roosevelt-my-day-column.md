@@ -21,7 +21,6 @@ faqs:
     answer: "Meskipun rutinitas berulang, cobalah menangkap satu variasi kecil setiap hari—orang yang ditemui, rasa makanan, atau aroma cuaca. Upaya menemukan perbedaan halus itu sendiri melatih perhatian dan metakognisi otak."
   - question: "Apakah sama efektifnya jika menggunakan aplikasi jurnal digital atau Notion?"
     answer: "Ya! Alat mengetik memberikan manfaat metakognitif yang sama dalam mengorganisasi dan mengeksternalisasi pikiran. Faktor pentingnya adalah memvisualisasikan pikiran ke dalam struktur kalimat yang jelas."
-
 ---
 
 "Lakukan satu hal setiap hari yang menakutkan Anda." 🚶‍♂️

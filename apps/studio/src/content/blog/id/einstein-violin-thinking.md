@@ -21,7 +21,6 @@ faqs:
     answer: "Ya. Einstein secara teratur pergi berlayar dengan kapal pesiar untuk merasakan angin dan bermeditasi di sela-sela penelitiannya. Ia juga memprioritaskan tidur lebih dari 10 jam sehari agar pikiran bawah sadarnya dapat mengorganisasi dan menyelesaikan masalah rumit."
   - question: "Apakah orang yang tidak bisa memainkan alat musik sama sekali dapat mengikuti rutinitas ini?"
     answer: "Tentu saja. Alih-alih memainkan alat musik, mendengarkan musik klasik dengan cermat sambil mengetuk jari mengikuti irama atau memejamkan mata selama 5 menit untuk bernapas dalam-dalam memberikan manfaat peralihan kognitif yang persis sama."
-
 ---
 
 "Hidup tanpa musik tidak terbayangkan bagi saya. Saya menghidupi mimpi saya dalam musik." 🎻

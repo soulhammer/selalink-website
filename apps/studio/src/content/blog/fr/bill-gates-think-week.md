@@ -21,7 +21,6 @@ faqs:
     answer: "Non. L'essence réside dans la « coupure de l'entrée d'informations externes » et l'« isolation de l'attention », et non dans le lieu lui-même. Se rendre dans une bibliothèque calme le week-end ou laisser son smartphone dans une autre pièce pendant une seule journée en se concentrant exclusivement sur des livres physiques et des cahiers procure un puissant effet de réinitialisation cérébrale."
   - question: "Peut-on utiliser un ordinateur ou une tablette pour lire des documents ?"
     answer: "Les écrans numériques sont intrinsèquement des portes ouvertes sur les tentations des sites web, e-mails et notifications. Pour maintenir le réseau de focalisation du cerveau, lire du papier imprimé est ce qu'il y a de mieux. Si l'utilisation d'un appareil est inévitable, il est fortement recommandé d'utiliser une liseuse (E-reader) dédiée ou un appareil hors ligne avec le Wi-Fi et Internet complètement désactivés."
-
 ---
 
 « La Semaine de réflexion était la chose la plus productive que j'aie jamais faite chez Microsoft. Là-bas, vous pouvez vous concentrer entièrement sur l'avenir sans distraction. » 🌲

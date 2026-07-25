@@ -21,7 +21,6 @@ faqs:
     answer: "Hindari kontak mata langsung. Gunakan 'Penglihatan Perifer' yang luas atau lakukan pemindaian 1 detik pada area target tertentu (lengan baju, sepatu, posisi tangan) selama gerakan dinamis—seperti saat seseorang merapikan jas atau duduk—lalu alihkan pandangan Anda secara halus."
   - question: "Bagaimana catatan detail mikro yang dikumpulkan ini dapat diterapkan secara praktis dalam bisnis atau tugas profesional?"
     answer: "Saat menyusun proposal, mendefinisikan persona pelanggan target, atau melakukan pertemuan klien, Anda melangkah melampaui generalisasi dangkal seperti 'seorang pekerja kantor usia 30-an' menjadi deskripsi yang hidup seperti 'seorang perencana yang mengetuk-ngetukkan ujung penanya secara ritmis selama negosiasi penting'. Ini secara drastis meningkatkan autentisitas proposal dan pemahaman konteks."
-
 ---
 
 "Peran seniman adalah mengajukan pertanyaan, bukan menjawabnya." 📝

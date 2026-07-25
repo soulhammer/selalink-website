@@ -21,7 +21,6 @@ faqs:
     answer: "Absolutely. Write down 'My Claim' on paper and play both roles by writing a 'Devil's Advocate' critique report as if you were your own harshest critic or competitor's strategy team."
   - question: "How can we engage in reverse debate without hurting feelings?"
     answer: "Before starting, explicitly agree on the rule: 'We are applying the Wright brothers' Reverse Debate Method.' Clarifying that this is a structured exercise rather than a personal attack prevents emotional friction."
-
 ---
 
 "We debated endlessly. And by completely reversing each other's logic, we finally reached the solution." ✈️

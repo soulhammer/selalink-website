@@ -21,7 +21,6 @@ faqs:
     answer: "Hindari memaksakan diri untuk tidur. Jika Anda tetap terjaga setelah 20 menit, terapkan Terapi Kontrol Stimulus: bangkit dari tempat tidur, pindah ke ruangan berlampu redup, baca buku fisik, dan kembali ke tempat tidur hanya saat kantuk datang."
   - question: "Mengapa saya merasa pusing dan berat setelah tidur siang?"
     answer: "Rasa pusing ini berasal dari 'Inersia Tidur' (Sleep Inertia), yang terjadi ketika tidur siang melebihi 30 menit dan membuat otak masuk ke tidur gelombang lambat yang dalam. Untuk mencegahnya, atur alarm Anda secara ketat pada 15 hingga 20 menit."
-
 ---
 
 "Jika saya tidak tidur 11 hingga 12 jam sehari, saya tidak bisa bermain di tingkat tertinggi." 🎾

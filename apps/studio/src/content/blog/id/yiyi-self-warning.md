@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Konten seperti apa yang paling efektif dimasukkan ke dalam Jagyeongmun?"
     answer: "Menuliskan kelemahan diri yang paling sulit dikendalikan (misalnya membatasi penggunaan ponsel, menepati waktu) sebagai pernyataan positif berbasis tindakan nyata adalah cara paling efektif memberikan stimulasi yang jelas bagi otak."
-
 ---
 
 "Barangsiapa memeriksa batas-batas yang ia tetapkan untuk dirinya sendiri setiap pagi tidak akan terombang-ambing oleh impuls harian dan dapat sepenuhnya mengendalikan hidupnya." 📜

@@ -21,7 +21,6 @@ faqs:
     answer: "No. El pilar de esta rutina no es la cifra exacta de las 4 AM, sino aplicar la secuencia de 3 pasos —evitar la sobrecarga digital al despertar, tener interacciones positivas y caminar con luz natural— de forma constante según su propio horario (p. ej., 6:00 AM o 7:00 AM)."
   - question: "¿Cómo puedo adaptar esta rutina si vivo solo y no tengo familia con quien desayunar?"
     answer: "Si vive solo, puede lograr la misma liberación de oxitocina y calma emocional disfrutando de un té mientras se dedica afirmaciones positivas ante el espejo, cuidando de una mascota o planta, o saludando cordialmente al camarero de su cafetería habitual."
-
 ---
 
 "La emoción al despertar al amanecer determina el éxito del día." ☀️

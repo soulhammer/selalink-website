@@ -21,7 +21,6 @@ faqs:
     answer: "Wenn 2 Stunden am Stück zu viel sind, nutzen Sie das '2-Set-Split'-Prinzip: 50 Minuten Fokussierung gefolgt von 10 Minuten Dehnen. Wichtig: Nutzen Sie die Pause nicht für Smartphones; trinken Sie Wasser oder bewegen Sie sich kurz, um den Denkfluss nicht zu unterbrechen."
   - question: "Können auch Nachtmenschen, denen Frühaufstehen schwerfällt, diese kognitive Goldene Stunde nutzen?"
     answer: "Ja, absolut. Der Schlüssel liegt nicht in der Uhrzeit 5:30 Uhr, sondern darin, die kognitiven Ressourcen in den ersten 2 Stunden nach dem Aufstehen ohne digitale Ablenkungen auf die schwerste Aufgabe zu richten. Schalten Sie Benachrichtigungen nach dem Aufwachen aus, um denselben Effekt zu erzielen."
-
 ---
 
 "Die Komplexität eines Problems löst sich in der Stille des Morgens völlig auf. Die Stunden, bevor jemand aufwacht, sind die Momente, in denen mein Gehirn mit kristallklarer Schärfe arbeitet." 🧮

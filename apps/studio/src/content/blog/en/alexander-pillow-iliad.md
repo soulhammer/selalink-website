@@ -21,7 +21,6 @@ faqs:
     answer: "Light fiction also offers a cooling effect that relieves brain stress, but to achieve a 'value-oriented motivational' effect that aligns self-identity and inspires execution willpower like Alexander's routine, it is far better to choose classic epics, philosophy books, or biographies of great people that provide inner resonance and reflection."
   - question: "Is it okay to read books using an e-book reader while lying down?"
     answer: "E-book readers or tablet screens carry a high risk of suppressing melatonin secretion because light emissions cause the brain to mistake night for day. For optimal results in inducing subconscious alignment and deep sleep, it is recommended to read a physical paper book directly by turning pages by hand under soft lighting whenever possible."
-
 ---
 
 "There is nothing impossible to him who will try." ⚔️

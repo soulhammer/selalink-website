@@ -21,7 +21,6 @@ faqs:
     answer: "Oui ! Prenez un thé à 16h tout en échangeant 10 minutes en ligne ou en effectuant un autodiagnostic par écrit dans votre carnet."
   - question: "J'ai peur que la pause thé ne transforme en bavardage et fasse perdre du temps."
     answer: "Utilisez un minuteur réglé sur 15 minutes. Cette limite évite les pertes de temps tout en oxygénant le cerveau et stimulant les idées."
-
 ---
 
 Ernest Rutherford (1871–1937), prix Nobel de chimie et 'père de la physique nucléaire', a découvert le noyau atomique. Quel était le secret de l'atmosphère créative de son laboratoire ? ☕

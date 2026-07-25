@@ -21,7 +21,6 @@ faqs:
     answer: "Está bien. En esos 2 minutos de escritura, la misión de capturar ondas Theta ya fue un éxito. Beber agua o estirarse justo después envía señales de vigilia al cerebro, quitando el sueño rápidamente."
   - question: "¿Qué debo hacer si no se me ocurre nada que escribir al despertar?"
     answer: "Si nada viene a la mente, simplemente escriba tres veces palabras descriptivas como 'tengo sueño' o 'mente en blanco'. Con solo romper la fricción inicial entre la pluma y la corteza motora es suficiente."
-
 ---
 
 Franz Schubert, el genial compositor austríaco representativo de la música romántica del siglo XIX y conocido como el Rey de las Canciones (Liederfürst), compuso más de 600 majestuosos lieder y sinfonías antes de su prematura muerte a los 31 años. Cada mañana, tan pronto como abría los ojos, caminaba directamente a su escritorio de composición junto a la cama con las gafas puestas y comenzaba a anotar notas en el pentagrama. Para no perder el hilo del inconsciente musical surgido en un estado medio dormido, llegaba al extremo de dormir con sus gafas puestas. Esta rutina de escritura inmediata, que redujo a cero la fricción entre despertarse y ponerse a trabajar, fue la fuerza que lo convirtió en un compositor inmortal.

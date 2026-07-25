@@ -21,7 +21,6 @@ faqs:
     answer: "Isolasikan satu tujuan utama dan tanyakan: 'Jika pemodifikasi, grafik, atau bagian ini dihilangkan, apakah masalah mendasar yang diselesaikan tetap jelas?' Jika ya, elemen tersebut adalah hiasan. Memotongnya akan memperkuat kejernihan dan dampak persuasif."
   - question: "Apakah metodologi pemotongan ala Chanel dapat diterapkan pada ruang kerja pribadi dan penataan harian?"
     answer: "Ya, ini menawarkan manfaat kognitif yang luar biasa. Saat menata meja atau lemari pakaian Anda, singkirkan barang-barang yang disimpan 'untuk berjaga-jaga' dan pertahankan hanya 20% alat dan pakaian inti yang Anda gunakan sehari-hari. Mengeliminasi kebisingan visual secara drastis mengurangi kelebihan beban kognitif prefrontal."
-
 ---
 
 "Keserhanaan adalah kunci dari semua keanggunan sejati." ✂️

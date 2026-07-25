@@ -21,7 +21,6 @@ faqs:
     answer: "Isolate the single primary objective and ask: 'If this modifier, chart, or section is removed, does the fundamental problem being solved for the client remain clear?' If yes, the element is decorative padding. Cutting it away amplifies clarity and persuasive impact."
   - question: "Can Chanel's subractive tailoring methodology be applied to personal workspace and daily organization?"
     answer: "Yes, it offers remarkable cognitive benefits. When organizing your desk or wardrobe, strip away the 'just in case' clutter to retain only the 20% core tools and garments you rely on daily. Eliminating visual noise drastically reduces prefrontal cognitive overload and decision fatigue."
-
 ---
 
 "Simplicity is the keynote of all true elegance." ✂️

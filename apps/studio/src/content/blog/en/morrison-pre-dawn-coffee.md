@@ -21,7 +21,6 @@ faqs:
     answer: "You do not need to align strictly with exact sunrise moments. Experiencing the quiet, dim atmosphere right before daybreak regardless of season (typically around 5:00 AM to 6:00 AM) yields ample cognitive reset benefits."
   - question: "I am not a morning person and feel exhausted waking up early; what should I do?"
     answer: "Instead of forcing a 5:00 AM wake-up initially, try waking up just 20 minutes earlier than your usual routine. The 5-minute quiet conditioning ritual—avoiding smartphones and drinking tea while looking out the window—is the true essence."
-
 ---
 
 "We die. That may be the meaning of life. But we do language. That may be the measure of our lives." ☕

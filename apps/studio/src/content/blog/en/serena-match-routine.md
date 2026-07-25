@@ -21,7 +21,6 @@ faqs:
     answer: "Setting up 2 to 3 steps of consistent mechanical actions that you can fully control—such as 'tying shoe laces in a specific order,' 'taking 3 deep breaths,' or 'saying a specific pledge phrase out loud'—and repeating them identically will greatly help control anxiety."
   - question: "How do I control the anxiety that rushes in if I miss or make a mistake in even one step of the routine?"
     answer: "You must realize that a routine is merely a psychological anchor, not the essence of your ability or actions. When a mistake occurs, the flexibility to acknowledge that 'this too is part of the situation' maximizes the effectiveness of the routine."
-
 ---
 
 "Before every match, I repeat the same sequence of actions to build my own controlled territory on the court." 🎾

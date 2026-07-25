@@ -21,7 +21,6 @@ faqs:
     answer: "Oui. Lorsque le cerveau maÃ®trise de micro-variables de son espace et les consigne par Ã©crit, il libÃ¨re de la dopamine prÃ©frontale, stimulant l'auto-efficacitÃ© et apaisant l'anxiÃ©tÃ©."
   - question: "Ce principe s'applique-t-il au rangement numÃ©rique (e-mails, messageries) ?"
     answer: "Oui. Supprimer 3 fichiers temporaires sur votre bureau et noter le nombre d'e-mails restant Ã  traiter sur votre carnet produit exactement le mÃªme effet de contrÃ´le prÃ©frontal."
-
 ---
 
 Â« Un environnement insalubre et des soins Ã©motionnels sans donnÃ©es mÃ¨nent Ã  la mort. Â» ð¯ï¸

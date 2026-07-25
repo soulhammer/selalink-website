@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, você deve. O cerne da rotina não é apenas tornar o ambiente silencioso, mas ajustar sua mentalidade ao declarar o silêncio, pausando o processamento verbal interno para intensificar a percepção visual."
   - question: "Conversar comigo mesmo mentalmente sem falar prejudica o foco durante os blocos de silêncio?"
     answer: "Sim, prejudica. A conversa interna consome a alça fonológica da memória de trabalho. Em vez de reprimir o diálogo interno, redirecione o processamento cerebral para áreas não verbais contando as respirações."
-
 ---
 
 "Quando me imerjo profundamente na observação sem dizer uma palavra, as regras ocultas da natureza e dos genes se revelam." 🌽

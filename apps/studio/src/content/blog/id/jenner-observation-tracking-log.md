@@ -21,7 +21,6 @@ faqs:
     answer: "Data yang tidak menunjukkan pola segera berfungsi untuk menyaring kebisingan sensorik. Setelah entri kuantitatif terakumulasi selama lebih dari 30 hari, jaringan prefrontal akan menyintesis koneksi kontekstual."
   - question: "Bisakah pekerja kantor modern atau profesional non-medis melakukan pelacakan lapangan seperti Jenner?"
     answer: "Ya, tentu saja! Meninjau umpan balik pengguna mentah, teks tiket layanan pelanggan, metrik Google Analytics, atau mengamati sinyal tim internal mewakili 'lapangan' utama bagi pekerja pengetahuan modern."
-
 ---
 
 "Penemuan ilmiah sejati tidak berkembang dari kilatan intuisi sesaat, melainkan di atas catatan pengamatan jujur yang dikumpulkan selama bertahun-tahun mencatat fakta lapangan." 🩺

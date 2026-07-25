@@ -21,7 +21,6 @@ faqs:
     answer: "Non. La natation était simplement l'exercice aérobie préféré de Dieter Rams. Toute activité aérobie légère stimulant le flux sanguin cérébral — comme le jogging d'intérieur, les étirements ou une marche rapide de 10 minutes — convient parfaitement."
   - question: "Puis-je observer des bâtiments urbains ou un design d'intérieur élégant au lieu d'éléments naturels ?"
     answer: "Les intérieurs artificiels ou les bâtiments géométriques exigent inconsciemment une interprétation analytique de la part du cerveau. Pour dissiper la fatigue cognitive, observer des éléments naturels organiques ne nécessitant aucune interprétation est idéal."
-
 ---
 
 « Pour élever la qualité du design, il faut des moments de silence pour simplifier et observer les objets. » 🏊‍♂️

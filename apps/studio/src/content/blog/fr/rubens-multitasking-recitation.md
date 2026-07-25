@@ -21,7 +21,6 @@ faqs:
     answer: "Non. La musique pop ou la radio stimulent les émotions sans occuper le canal linguistique de manière dense ; les publicités dérangent l'attention. Les récitations académiques engageant la logique et la connaissance sont idéales."
   - question: "Quel volume est approprié pour suivre cette routine d'écoute ?"
     answer: "Le volume ne doit être ni trop fort ni troppo faible. Un niveau modéré (environ 50–60 dB), semblable à quelqu'un vous lisant un livre à côté, est parfait. L'utilisation d'un haut-parleur Bluetooth est recommandée."
-
 ---
 
 « La passion et l'esprit ne deviennent une grande toile que dans l'harmonie sensorielle. » 🎨

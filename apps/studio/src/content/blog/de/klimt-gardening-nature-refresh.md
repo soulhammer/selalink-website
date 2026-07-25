@@ -21,7 +21,6 @@ faqs:
     answer: "Das 3-minütige Betrachten von Zimmerpflanzen, Straßenbäumen vor dem Fenster oder Wolken am Himmel bietet dieselben Vorteile nach der Attention Restoration Theory (ART)."
   - question: "Wie lässt sich der Garten-Spaziergang an Regentagen ersetzen?"
     answer: "Stellen Sie sich ans Fenster und beobachten Sie friedlich die Regentropfen auf der Scheibe oder die Spuren des Regens. Die flüssigen Formen von Wassertropfen dienen als hervorragender Auslöser für weiche Faszination."
-
 ---
 
 "Wer über mich als Künstler etwas wissen will, der betrachte aufmerksam meine Bilder... Um aber meine künstlerische Seele zu nähren, wandere ich morgens still durch die Rosen." 🎨

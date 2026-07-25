@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, com certeza! Encher pequenos vasos na varanda ou mesa com terra e plantar pequenas ervas oferece a mesma estimulação tátil e exposição às bactérias do solo. O segredo é o contato físico com a terra, independentemente do tamanho da planta."
   - question: "Existem riscos de higiene ou infecção bacteriana ao tocar a terra com as mãos desnudas?"
     answer: "A terra para vasos comercial é esterilizada, sendo muito mais segura do que a terra selvagem. Os microorganismos benéficos ajudam a fortalecer a imunidade. Se a higiene for uma preocupação, usar luvas finas de jardinagem ainda oferece um ótimo feedback tátil. Lavar as mãos com água e sabão após o trabalho resolve o problema."
-
 ---
 
 "Plantarse um jardim é acreditar no amanhã. Quando toco a terra, minha alma encontra sua maior quietude." 🌿

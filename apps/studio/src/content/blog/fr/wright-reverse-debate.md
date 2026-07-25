@@ -21,7 +21,6 @@ faqs:
     answer: "Absolument. Inscrivez votre thèse sur papier et jouez le rôle de 'l'Avocat du Diable' en rédigeant un rapport critique comme si vous étiez votre pire rival."
   - question: "Comment mener un débat inversé sans heurter la sensibilité de son interlocuteur ?"
     answer: "Avant de commencer, définissez clairement la règle : 'Nous appliquons la méthode du Débat Inversé des frères Wright'. Clarifier qu'il s'agit d'un exercice encadré et non d'une attaque personnelle évite toute friction."
-
 ---
 
 "Nous avons débattu sans fin. Et en inversant totalement nos logiques respectives, nous avons enfin trouvé la solution." ✈️

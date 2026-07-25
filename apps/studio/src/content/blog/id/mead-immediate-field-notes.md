@@ -21,7 +21,6 @@ faqs:
     answer: "Tentu saja boleh. Namun, saat menggunakan ponsel, aktifkan mode Jangan Ganggu atau pasang widget di layar utama agar notifikasi tidak mengalihkan perhatian Anda, sehingga meminimalkan penundaan."
   - question: "Bagaimana dengan cara membiarkan perekam suara menyala lalu mencatatnya sekaligus di kemudian hari?"
     answer: "Perekaman penuh mengurangi risiko informasi yang terlewat, tetapi mendengarkan ulang rekaman berjam-jam justru membebani ingatan kerja. Mencatat kata kunci utama secara manual di momen krusial jauh lebih efektif."
-
 ---
 
 "Jika Anda tidak mencatat fakta yang diamati secara seketika, itu sama saja seolah fakta itu tidak pernah ada." 📝

@@ -21,7 +21,6 @@ faqs:
     answer: "Non, il est préférable d'éviter tout contenu audio. Les stimuli auditifs — même une musique douce — obligent le cortex auditif à analyser des motifs, freinant l'activation du DMN. Pour un repos cognitif total, retirez vos écouteurs et laissez votre esprit vagabonder."
   - question: "Il est irréaliste pour un professionnel moderne de marcher 3 heures par jour comme Dickens. Existe-t-il une alternative ?"
     answer: "Oui, tout à fait. L'élément essentiel n'est pas la durée de 3 heures, mais la « marche aérobique en solo sans stimuli ». Marcher d'un pas vif seulement 20 à 30 minutes après le déjeuner ou sur le chemin du retour — sans consulter son téléphone — active le DMN et libère du BDNF."
-
 ---
 
 « Si je ne pouvais pas marcher vite et loin, je finifrais par exploser. » 🚶‍♂️

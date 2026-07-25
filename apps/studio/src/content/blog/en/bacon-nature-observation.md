@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Should I practice this habit every day?"
     answer: "Yes, practicing at a fixed time every day maximizes the brain's neuroplasticity. Consistently executing this every day at a set time and place to strengthen the brain's neuroplasticity circuits is the most reliable key to success."
-
 ---
 
 "Nature, to be commanded, must be obeyed." 🌿

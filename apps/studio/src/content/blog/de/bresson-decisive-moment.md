@@ -21,7 +21,6 @@ faqs:
     answer: "Nein. Das Beobachten unbelebter geometrischer Formen und Lichtgrenzen – wie der Schatten von Telegrafenmasten an einer Wand oder Lichtstrahlen durch ein Glas auf dem Schreibtisch – ist ebenso effektiv zur Aktivierung des visuellen Kortex."
   - question: "Ist es in Ordnung, die Fotos nach der Aufnahme zuzuschneiden oder Filter anzuwenden?"
     answer: "Cartier-Bresson lehnte nachträgliche Zuschnitte und künstliche Bearbeitungen strikt ab. Der Zwang, die Komposition im exakten Moment der Aufnahme zu perfektionieren, schult das räumliche Urteilsvermögen, weshalb dringend empfohlen wird, die Aufnahmen unbearbeitet zu belassen."
-
 ---
 
 "Fotografieren bedeutet, den Kopf, das Auge und das Herz auf dieselbe Visierlinie zu bringen." 📷

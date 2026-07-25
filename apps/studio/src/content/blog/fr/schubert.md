@@ -21,7 +21,6 @@ faqs:
     answer: "C'est tout à fait normal. Durant ces 2 minutes d'écriture, la capture des ondes Thêta a déjà réussi. Boire de l'eau ou s'étirer juste après envoie des signaux de réveil au cerveau pour dissiper le sommeil."
   - question: "Que faire si rien ne me vient à l'esprit juste après le réveil ?"
     answer: "Si rien ne vient, écrivez simplement trois fois des mots décrivant votre état comme 'j'ai sommeil' ou 'esprit vide'. Le seul fait de briser la friction entre le stylo et le cortex moteur suffit."
-
 ---
 
 Franz Schubert, le génial compositeur autrichien représentatif de la musique romantique du XIXe siècle et vénéré comme le Roi des Lieder (Liederfürst), a créé plus de 600 mélodies lyriques et symphonies avant de mourir prématurément à l'âge de 31 ans. Chaque matin, dès qu'il ouvrait les yeux, il se dirigeait directement vers son bureau de composition juste à côté de son lit, ses lunettes sur le nez, et commençait à écrire des notes sur le papier à musique. Pour ne pas perdre le fil de l'inconscient musical émergé dans un état de demi-sommeil, il allait jusqu'à dormir avec ses lunettes. Cette routine d'écriture immédiate, éliminant toute friction entre le réveil et le début du travail, fut la force qui fit de lui un compositeur immortel.

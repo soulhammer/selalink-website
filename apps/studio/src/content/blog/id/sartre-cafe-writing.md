@@ -21,7 +21,6 @@ faqs:
     answer: "Hal ini bervariasi bagi setiap orang. Beberapa penelitian menunjukkan bahwa kebisingan putih sedang (50–70 dB) sedikit mengalihkan perhatian pendengaran, yang secara paradoks merangsang pemecahan masalah kreatif. Namun yang paling mendasar adalah membangun aturan penjangkaran kognitif: 'memulai tindakan yang sama di tempat yang sama setiap hari'."
   - question: "Bukankah mengubah kursi khusus setiap hari atau secara berkala lebih baik untuk menstimulasi otak?"
     answer: "Pada tahap curah pendapat kreatif, lingkungan baru memberikan stimulasi segar (pelepasan dopamin). Namun saat menyelesaikan tulisan atau belajar dengan intensitas tinggi, penjangkaran kursi ala Sartre jauh lebih efisien karena menghemat energi eksplorasi dan memicu imersikan refleks secara instan."
-
 ---
 
 "Manusia dihukum untuk bebas." ☕

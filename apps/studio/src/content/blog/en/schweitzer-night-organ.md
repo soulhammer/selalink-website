@@ -21,7 +21,6 @@ faqs:
     answer: "Music with lyrics reactivates the brain's language processing areas (auditory cortex), hindering complete rest. Pure instrumentals without lyrics (classical, jazz, lo-fi) are far more effective for autonomic relaxation."
   - question: "Is sleeping while listening to music helpful?"
     answer: "It is best to set a timer for 15–30 minutes before falling asleep. If music plays all night, the brain's auditory cortex may not get full rest during deep sleep stages."
-
 ---
 
 Dr. Albert Schweitzer was a Nobel Peace Prize winner, devoted medical doctor, philosopher, and world-renowned authority on Johann Sebastian Bach. How did he overcome the extreme physical and mental exhaustion faced while caring for patients in the hot and humid jungle of Lambaréné, Gabon?

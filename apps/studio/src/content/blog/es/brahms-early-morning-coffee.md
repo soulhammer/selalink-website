@@ -21,7 +21,6 @@ faqs:
     answer: "Brahms era un perfeccionista que creía que la intensidad del café afectaba directamente su estado de alerta matutino. La motricidad fina de moler los granos y prepararlo manualmente funcionaba como un potente ancla mental (Mental Anchor), enfocando la atención del cerebro para la jornada."
   - question: "¿Cómo contribuye específicamente la caminata matutina a la estimulación cerebral y a la creatividad?"
     answer: "Los impactos rítmicos de los pies contra el suelo al caminar envían ondas de presión que aumentan físicamente el flujo sanguíneo cerebral. Además, la estimulación aeróbica estimula la liberación de BDNF, mejorando la plasticidad sináptica entre neuronas y maximizando la estructuración de información de alto orden y la resolución creativa de problemas."
-
 ---
 
 "El intenso aroma del café matutino y el aire fresco de los bosques finalmente despiertan las ideas musicales en mi cabeza." ☕

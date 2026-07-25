@@ -21,7 +21,6 @@ faqs:
     answer: "Confiar en el estado de ánimo o en la inspiración genera un rendimiento irregular. Fijar un mínimo cuantitativo estricto obliga a las redes ejecutivas del cerebro a trabajar de forma constante, evitando bloqueos creativos y caídas emocionales."
   - question: "¿Debo replicar exactamente los activadores de Stephen King, como la música hard rock o las vitaminas?"
     answer: "No. La clave es la 'constancia', no el tipo específico de activador. Seleccionar estímulos sensoriales cómodos para usted (beber té verde, escuchar ruido blanco o encender una lámpara) e integrarlos antes de trabajar ofrece los mismos beneficios."
-
 ---
 
 "Me presento en la misma mesa a la misma hora cada mañana para que mi musa sepa exactamente dónde encontrarme. No esperes a la inspiración; solo aparece cuando sabe que estás sentado trabajando." ✍️

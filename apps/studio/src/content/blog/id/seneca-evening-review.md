@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah kebiasaan ini harus dipraktikkan setiap hari?"
     answer: "Ya. Mempraktikkannya setiap hari pada waktu yang konsisten memaksimalkan neuroplastisitas otak. Memperkuat sirkuit neuroplastisitas melalui pelaksanaan rutin setiap malam adalah kunci utama."
-
 ---
 
 "Ketika cahaya telah padam dan istriku telah diam, aku memeriksa seluruh hariku dan menimbang perbuatan serta kata-kataku. Jiwa paling tenang ketika memeriksa dirinya sendiri."

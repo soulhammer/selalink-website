@@ -21,7 +21,6 @@ faqs:
     answer: "Não é necessário alinhar rigorosamente com o momento exato do nascer do sol. Vivenciar a atmosfera tranquila e tênue pouco antes do amanhecer, independentemente da estação (geralmente entre 5h00 e 6h00), traz amplos benefícios."
   - question: "Não sou uma pessoa matutina e me sinto exausto ao acordar cedo; o que devo fazer?"
     answer: "Em vez de forçar um despertar às 5h00 inicialmente, tente acordar apenas 20 minutos antes do seu horário habitual. O ritual silencioso de 5 minutos ao acordar — evitando telefones e contemplando a janela com chá quente — é a essência."
-
 ---
 
 "Nós fazemos a linguagem. Essa pode ser a medida de nossas vidas." ☕

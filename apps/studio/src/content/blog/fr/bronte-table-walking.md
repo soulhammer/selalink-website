@@ -21,12 +21,11 @@ faqs:
     answer: "Oui, la marche à elle seule stimule la sécrétion de BDNF et le flux sanguin cérébral, augmentant la créativité de plus de 60 %. Lorsque vous travaillez seul, expliquez vos idées à voix haute face à un miroir ou marchez en dialoguant avec un critique imaginaire pour simuler la stimulation métacognitive."
   - question: "Entendre des critiques aiguisées ne risque-t-il pas de blesser et de décourager la création ?"
     answer: "Si le cerveau interprète à tort un retour comme une attaque personnelle, l'amygdale déclenche une attitude défensive. Pour éviter cela, séparez votre identité personnelle de votre travail. Rappelez-vous que la critique est une donnée neutre destinée à renforcer la qualité de l'œuvre."
-
 ---
 
 « Chaque soir, nous tournions sans fin autour de la table dans l'obscurité en discutant. C'est au rythme de cette marche que l'âme de nos romans a enfin pris vie. » 🕯️
 
-Charlotte Brontë (1816–1855) était une géante de la littérature anglaise du XIXe siècle qui a exploré avec a la quête d'émancipation et la passion féminines, laissant une empreinte immortelle dans la littérature mondiale. Vivant dans le presbytère isolé de Haworth, dans le Yorkshire, aux côtés de ses sœurs Emily et Anne, elle a enduré l'isolement, la pauvreté et de tragiques pertes familiales. Comment ce trio isolé a-t-il pu donner naissance simultanément à des classiques tels que 'Jane Eyre', 'Les Hauts de Hurlevent' et 'Agnes Grey' ?
+Charlotte Brontë (1816–1855) était une géante de la littérature anglaise du XIXe siècle qui a exploré avec a� la quête d'émancipation et la passion féminines, laissant une empreinte immortelle dans la littérature mondiale. Vivant dans le presbytère isolé de Haworth, dans le Yorkshire, aux côtés de ses sœurs Emily et Anne, elle a enduré l'isolement, la pauvreté et de tragiques pertes familiales. Comment ce trio isolé a-t-il pu donner naissance simultanément à des classiques tels que 'Jane Eyre', 'Les Hauts de Hurlevent' et 'Agnes Grey' ?
 
 Bien plus forte que leurs contraintes matérielles était leur routine nocturne de « Discussion Ambulante autour de la Table (Table Walking) ». Après avoir écrit individuellement pendant la journée, les sœurs se réunissaient à 21h pour arpenter continuellement le tour de la grande table de la salle à manger dans l'obscurité. Tout en marchant, elles lisaient à voix haute leurs brouillons quotidiens, échangeant des critiques aiguisées et des idées neuves. Cette collaboration ambulante nocturne a brisé la « Vision en Tunnel (Tunnel Vision) » propre à la création solitaire, élevant leurs œuvres vers une grande cohérence structurelle.
 

@@ -21,7 +21,6 @@ faqs:
     answer: "Pour un débutant, vouloir planifier toute la journée par tranches de 5 minutes provoquera une surcharge cognitive. Commencez progressivement : définissez une plage de concentration de 1 à 2 heures par jour, divisée en créneaux de 15 ou 30 minutes pour entraîner votre esprit."
   - question: "Que faire si une tâche n'est pas terminée dans le créneau imparti ?"
     answer: "Lorsque le temps est écoulé, passez sans hésiter au créneau suivant. Reportez le travail non terminé dans un « créneau tampon (Buffer Block) » prévu en fin d'après-midi. Cela évite qu'un retard n'entraîne un effondrement en domino de tout votre emploi du temps."
-
 ---
 
 « Si votre temps est limité, votre hyper-concentration doit augmenter proportionnellement. » 🚀

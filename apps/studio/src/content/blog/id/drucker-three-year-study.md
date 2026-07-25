@@ -21,7 +21,6 @@ faqs:
     answer: "Secara kognitif, 3 tahun mewakili kerangka waktu yang ideal untuk bertransisi dari seorang pemula hingga memahami kerangka utama disiplin ilmu non-asli tanpa menyebabkan ketegangan kognitif. Irama 3 tahun ini secara terus menerus mematahkan inersia intelektual, mendorong neuroplastisitas sinaptik."
   - question: "Jika komitmen 3 tahun terasa terlalu lama atau memberatkan bagi profesional yang sibuk, bagaimana seseorang harus memulai?"
     answer: "Selain studi mendalam 3 tahunnya, Drucker mempraktikkan sprint musim panas 3 bulan, memilih mikro-topik yang terfokus (misalnya, membaca karya lengkap penulis tertentu atau mempelajari ekonomi satu negara) selama liburan musim panas. Memulai dengan sprint terfokus 3 bulan membangun momentum kognitif sebelum meluas ke proyek 3 tahun penuh."
-
 ---
 
 "Aturan pertama dalam mengelola diri sendiri adalah terus-menerus terlibat dalam pembelajaran baru." 📚

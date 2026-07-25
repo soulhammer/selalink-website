@@ -21,7 +21,6 @@ faqs:
     answer: "Standard note-taking passively captures text or words. In contrast, Daguerre's method actively 'exposes' the idea inside the visual cortex for 3 seconds before writing. This creates a high-density sensory snapshot so that reviewing even a short keyword later immediately reconstructs the original, vivid context and emotional frequency."
   - question: "What should I do if I am walking or driving and cannot physically write or sketch immediately?"
     answer: "Execute the 3-second internal visual fixation first to imprint the image onto your occipital cortex, then record a quick voice memo on your smartphone. Because the 3-second exposure process was completed beforehand, even a brief 5-second audio snippet will preserve the full cognitive context."
-
 ---
 
 "Light is the brush that paints, and the silver plate is the eternal vessel holding that single instant." 📷

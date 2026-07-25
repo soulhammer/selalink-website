@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, tentu saja! Manfaat utama neurosains bergantung bukan pada keindahan tulisan tangan, melainkan pada 'penghubungan instan antara masukan sensorik dengan penyandian memori kerja'. Format ulang yang rapi dapat dilakukan kemudian."
   - question: "Bisakah saya mengganti tulisan tangan manual dengan rekaman audio digital atau memo suara?"
     answer: "Rekaman suara sangat baik untuk menangkap fakta lisan, tetapi tidak memiliki umpan balik saraf grafomotorik. Untuk memaksimalkan manfaat kognitif, padukan memo suara dengan tulisan tangan kata kunci singkat dan pemetaan panah."
-
 ---
 
 "Dalam rantai besar sebab e akibat ini, tidak ada satu pun fakta yang dapat dipertimbangkan secara terisolasi. Alam adalah satu kesatuan yang hidup." 🌿

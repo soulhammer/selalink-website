@@ -21,7 +21,6 @@ faqs:
     answer: "Non. L'essentiel de cette routine est de préparer votre cerveau dès le réveil, avant que les informations numériques ne vous envahissent. Y consacrer 10 minutes a votre heure habituelle produit les mêmes effets."
   - question: "Cette routine est-elle efficace pour les personnes non religieuses qui ne prient pas ?"
     answer: "Oui, tout à fait. Cette routine repose sur la 'suppression du bruit sensoriel' et la 'réaffirmation de ses valeurs' plutôt que sur un dogme religieux. Méditer en silence sur vos valeurs ou objectifs active exactement la même stabilisation de l'amygdale."
-
 ---
 
 « Je n'ai pas peur ; je suis née pour cela. Quand je coupe le bruit extérieur et pénètre dans le silence, j'entends la voix de mon âme. » 🛡️

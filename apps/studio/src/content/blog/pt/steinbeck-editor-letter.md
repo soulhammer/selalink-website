@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Esta rotina de cartas é eficaz para tarefas que não envolvem escrita, como cálculos ou design?"
     answer: "Muito eficaz! A ansiedade de começar vem da mesma região cerebral (amígdala). Rabiscar antes de desenhar ou tomar notas breves antes de programar cria um amortecedor cognitivo que lubrifica sua criatividade."
-
 ---
 
 "Ao escrever uma carta todas as manhãs, meus dedos ficam ágeis e minha mente se prepara para falar com os personagens do meu romance sem atrito." ✍️

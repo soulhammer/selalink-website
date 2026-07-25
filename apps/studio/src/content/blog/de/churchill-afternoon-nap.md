@@ -21,7 +21,6 @@ faqs:
     answer: "Churchills 1,5-stündiger Schlaf kompensierte reduzierten Nachtschlaf (4–5 Stunden) durch einen kompletten 90-minütigen Zyklus aus NREM- und REM-Phasen. Ein moderner 20-minütiger Power Nap hingegen bewahrt den normalen Nachtschlaf (7 Stunden) und bleibt in leichten NREM-Phasen 1–2, um Adenosin sofort abzubauen."
   - question: "Ist ein 20-minütiges Nickerchen nutzlos, wenn ich die Augen schließe, aber nicht wirklich einschlafe?"
     answer: "Nein, es bringt einen spürbaren kognitiven Erholungseffekt. Selbst ohne echten Schlaf entlastet das Ausruhen bei geschlossenen Augen den visuellen Kortex und fördert Alphawellen (8–12 Hz). Diese 20-minütige Ruhepause stellt bereits über 50 % der präfrontalen kognitiven Ressourcen wieder her."
-
 ---
 
 "Dank des Nachmittagsschlafs konnte ich meinen Tag in zwei unabhängige Abschnitte unterteilen, von denen jeder seinen eigenen Morgen hatte." 🛌

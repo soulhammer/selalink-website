@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Realmente ayuda mover o encoger los dedos de los pies a activar el cerebro?"
     answer: "¡Sí! En el mapa de la corteza somatosensorial del cerebro, el área de los dedos de los pies está cerca de la región central. Estimular sus pequeños músculos activa el lóbulo frontal a través de los nervios periféricos."
-
 ---
 
 ¿Sabías que Nikola Tesla (1856–1943), el genio científico que iluminó el mundo junto a Edison y sentó las bases de la corriente alterna (CA) y las comunicaciones inalámbricas, repetía un extraño ritual cada noche en la cama? ⚡

@@ -21,7 +21,6 @@ faqs:
     answer: "Ganti jalur gunung dengan berjalan kaki selama 30 menit melintasi taman kota, kebun raya, atau jalan rindang tanpa ponsel pintar Anda. Mengaktifkan jalur sensorik visuospasial dan meningkatkan sirkulasi darah otak adalah mekanisme utamanya."
   - question: "Apa cara terbaik untuk menangkap ide yang muncul selama pendakian tanpa mengganggu fokus?"
     answer: "Bawa buku catatan saku dan pena untuk mencatat kata kunci utama saat sebuah ide muncul. Atau, gunakan perekam memo suara sekali sentuh agar Anda dapat merekam wawasan secara instan tanpa mengganggu ritme jalan Anda."
-
 ---
 
 "Berjalan melintasi jalur hutan Alpen yang luas, saya membersihkan sisa-sisa rumus matematika yang rumit dan akhirnya merenungkan realitas terdalam alam." 🌲

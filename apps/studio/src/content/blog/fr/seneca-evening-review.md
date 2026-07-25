@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Faut-il pratiquer cette habitude tous les jours ?"
     answer: "Oui. Une pratique quotidienne à heure fixe maximise la neuroplasticité. Renforcer les circuits cérébraux par une exécution régulière chaque soir est la clé la plus sûre."
-
 ---
 
 "Lorsque la lumière s'est éteinte et que mon épouse s'est tue, j'examine l'ensemble de ma journée. L'âme n'est jamais plus sereine que lorsqu'elle s'observe elle-même."

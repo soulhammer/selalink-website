@@ -21,7 +21,6 @@ faqs:
     answer: "Anda dapat mempraktikkannya secara solo dengan mudah. Latihan memantulkan bola ke dinding (bola tenis atau skuasy), memukul sandsack tinju, atau latihan tangga kelincahanmerangsang serebelum dan korteks motorik, secara efektif membuat korteks prefrontal offline tanpa membutuhkan mitra."
   - question: "Apakah melakukan olahraga fisik pada hari-hari dengan kelelahan mental yang ekstrem tidak memperparah kelelahan?"
     answer: "Kelelahan kognitif mental dan kelelahan otot fisik secara fisiologis berbeda. Kelelahan otak akibat pekerjaan intelektual yang lama berasal dari kemacetan metabolik di korteks prefrontal. Melakukan 'Pemulihan Aktif (Active Recovery)'—menggerakkan tubuh Anda untuk mensirkulasikan aliran darah dan mengalihkan pemrosesan saraf ke serebelum—adalah hal yang membuang metabolit kelelahan otak."
-
 ---
 
 "Semua yang saya ketahui secara paling pasti tentang moralitas dan kewajiban manusia, saya berutang pada sepak bola." ⚽

@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak. Persyaratan utama dari rutinitas ini adalah mengalibrasi ulang otak Anda segera setelah bangun tidur sebelum kebisingan digital membanjiri kesadaran Anda. Meluangkan waktu 10 menit pada waktu bangun biasa memberikan manfaat yang identik."
   - question: "Apakah rutinitas ini efektif bagi individu non-religius yang tidak mempraktikkan doa formal?"
     answer: "Ya, tentu saja. Rutinitas ini berfokus pada prinsip neurosains tentang 'penekanan kebisingan sensorik' dan 'penegasan nilai diri'. Merenungkan nilai-nilai atau tujuan pribadi secara hening memicu efek penenangan amigdala yang identik."
-
 ---
 
 "Saya tidak takut; saya lahir untuk melakukan ini. Ketika saya mematikan kebisingan luar dan masuk ke dalam keheningan mendalam, saya mendengar suara jiwa saya." 🛡️

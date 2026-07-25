@@ -21,7 +21,6 @@ faqs:
     answer: "Sí. La calidad artística del resultado no importa. El beneficio real reside en la estimulación táctil de las tijeras y la entrada visual de los colores deslumbrantes. Este proceso distrae el dolor e impulsa la neuroplasticidad, sin importar cuán toscas sean las formas."
   - question: "¿Qué tal usar plastilina o una aplicación de dibujo en lugar de recortar papel?"
     answer: "Moldear plastilina es muy recomendable ya que ofrece un excelente estímulo táctil. Sin embargo, no se recomiendan las aplicaciones de dibujo digital debido al deslizamiento sobre el cristal y a las notificaciones que distraen al cerebro; se prefieren herramientas analógicas."
-
 ---
 
 "Cortar papel con tijeras es como esculpir directamente en la piedra. Permite pasar directamente del color a la forma." ✂️

@@ -21,7 +21,6 @@ faqs:
     answer: "In 19th-century Britain, female writers were very rarely provided with independent studies. Austen also had to write in the shared space of a sitting room, so she utilized the creaky door to perceive family members' sudden visits and buy time to hide her manuscripts."
   - question: "How can this method be applied in a modern digital environment?"
     answer: "By setting messenger statuses to 'Do Not Disturb' or 'In a Call' to block direct influxes of external notifications, and adjusting key communication tools to notify only at designated time intervals, you can control unexpected cognitive interruptions."
-
 ---
 
 "The squeak of a door is the surest alarm that protects my immersion." 🚪

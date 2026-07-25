@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely! In a March 1819 personal letter to Dr. Vine Utley, Jefferson explicitly wrote that he had bathed his feet in cold water every morning for 60 years, attributing his robust health and lack of colds to this habit."
   - question: "Is a full-body cold shower more effective than a cold foot bath?"
     answer: "A full cold shower triggers a stronger systemic arousal spike, but imposes high cardiovascular shock and physical stress. A cold foot bath isolates the stimulus to peripheral nerves, minimizing cardiovascular strain while still effectively waking the brain—making it a highly sustainable daily alternative."
-
 ---
 
 "I have bathed my feet in cold water every morning, for 60 years, and have fallen into no other habit which could be called singular..." 🧊

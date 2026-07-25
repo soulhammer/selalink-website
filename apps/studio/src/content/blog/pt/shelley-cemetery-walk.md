@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Por que Mary Shelley escolheu especificamente o túmulo de sua mãe?"
     answer: "Sua mãe morreu logo após o parto. O túmulo era sua única conexão física com ela. Sentar-se ali permitiu-lhe meditar sobre nascimento, morte e identidade, temas centrais de Frankenstein."
-
 ---
 
 "A solidão é minha companheira mais preciosa, o ventre secreto onde nasce a imaginação."

@@ -21,7 +21,6 @@ faqs:
     answer: "Para la práctica moderna, evite el papel fino suelto. En su lugar, coloque un mini cuaderno rígido de tapa dura en su mesa de noche o fije una pequeña tabla con sujetapapeles en un estante junto a la cama, evitando daños."
   - question: "¿Escribir con luz tenue durante los despertares nocturnos no cansará mis ojos?"
     answer: "La escritura nocturna consiste en anotaciones breves de 1 a 2 minutos, reduciendo la fatiga ocular. La clave es usar una luz nocturna cálida de tono ámbar y baja intensidad, brindando luz suficiente para trazar letras sin suprimir la melatonina."
-
 ---
 
 "Poseer conocimiento es bueno, pero practicarlo e integrarlo en la vida es aún más grandioso." 👑

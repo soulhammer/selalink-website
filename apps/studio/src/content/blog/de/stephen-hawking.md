@@ -21,7 +21,6 @@ faqs:
     answer: "Das ist eine völlig normale Reaktion. Erzwingen Sie keine 3D-Formen; beginnen Sie damit, eine einfache 2D-Form wie ein oranges Quadrat oder ein weißes Dreieck 3 Sekunden lang stabil im Kopf zu halten."
   - question: "Hilft die Steigerung dieses mentalen Notizblocks auch beim Organisieren komplexer Abläufe und beim Setzen von Prioritäten?"
     answer: "Ja! Sie können sich 5 Aufgabenkarten im Kopf vorstellen, diese nach Wichtigkeit farblich anpassen und intuitiv neu anordnen, was Ihr organisatorisches Denkvermögen stärkt."
-
 ---
 
 Stephen Hawking (1942–2018), einer der bedeutendsten theoretischen Physiker des 20. Jahrhunderts und eine Ikone der Wissenschaftsgeschichte. Trotz seiner Erkrankung an ALS und vollständiger körperlicher Lähmung entwickelte er bahnbrechende kosmologische Theorien wie die Hawking-Strahlung.

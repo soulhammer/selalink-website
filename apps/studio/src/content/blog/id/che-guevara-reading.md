@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, asalkan teks tersebut menuntut usaha kognitif aktif. Meskipun fiksi ringan menawarkan stimulasi prefrontal minimal, membaca literatur klasik atau esai yang kaya akan motivasi karakter yang rumit, dilema moral, dan kedalaman narasi sangat melibatkan jaringan kontrol kognitif prefrontal."
   - question: "Apakah tablet PC atau pembaca E-Ink memberikan manfaat restrukturisasi kognitif yang sama dengan buku kertas fisik?"
     answer: "Ya, asalkan gangguan diblokir secara total. Jika menggunakan tablet standar, aktifkan mode Jangan Ganggu untuk mematikan notifikasi aplikasi. Buku kertas fisik dan pembaca E-Ink lebih disukai, karena pembalikan halaman secara taktil dan ketiadaan kilatan cahaya mengurangi ketegangan visual dan memfasilitasi fokus prefrontal tanpa gangguan."
-
 ---
 
 "Membaca adalah kewajiban bagi seorang revolusioner. Orang yang tidak membaca pasti akan digoyahkan oleh pemikiran orang lain dan informasi yang terdistorsi." 📖

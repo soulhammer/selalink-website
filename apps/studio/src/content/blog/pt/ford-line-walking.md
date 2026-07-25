@@ -21,7 +21,6 @@ faqs:
     answer: "Telas digitais carecem de fricção física, reduzindo o feedback somatossensorial e expondo o cérebro a distrações. O papel físico oferece resistência na ponta da caneta que estimula o córtex de forma mais profunda. Recomenda-se usar papel real."
   - question: "Desenhar esquemas sentado é tão eficaz quanto caminhando?"
     answer: "Desenhar sentado oferece benefícios de externalização, mas combinar com movimento físico e rastreamento visual potencializa os resultados. Caminhar aumenta o fluxo sanguíneo cerebral, enquanto o rastreamento visual prepara os circuitos cerebelosos."
-
 ---
 
 "Para reduzir o desperdício, é preciso primeiro traçar o fluxo físico com clareza visual." 🚗

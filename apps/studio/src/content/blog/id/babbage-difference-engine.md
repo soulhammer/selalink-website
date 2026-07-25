@@ -21,7 +21,6 @@ faqs:
     answer: "Ya! Konsep inti dari microservices modern dan pemrograman modular diturunkan secara langsung dari logika modularisasi roda gigi Mesin Diferensial Charles Babbage."
   - question: "Apa yang harus saya lakukan jika terjadi kesalahan pada modul tertentu?"
     answer: "Jangan mengotak-atik seluruh sistem; cukup lepaskan modul yang bermasalah tersebut, lakukan debugging (perbaikan) pada hubungan sebab-akibat internalnya, lalu hubungkan kembali."
-
 ---
 
 "Kesalahan berasal dari emosi manusia, dan kebenaran disempurnakan dalam kepresisian mekanis." ⚙️

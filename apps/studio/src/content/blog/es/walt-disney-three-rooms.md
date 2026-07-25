@@ -21,7 +21,6 @@ faqs:
     answer: "Es más eficaz cambiar de espacio físico para inducir un cambio de aire. Si las circunstancias exigen usar un solo espacio, es conveniente proporcionar una diferenciación cognitiva al cerebro cambiando los colores del marcador de la pizarra, reordenando los asientos o utilizando distintos utensilios de escritura (p. ej., lápices de colores vistosos para la fase de Soñador, bolígrafos negros para la fase de Crítico)."
   - question: "¿Qué se debe hacer si la crítica durante la etapa de Crítico es tan excesiva que la idea se descarta por completo?"
     answer: "El objetivo del Crítico debe ser el 'complemento y la mejora', no el descarte de la idea. La fase de crítica no debe terminar con 'Esta idea es imposible', sino abordar la pregunta '¿Qué factores de riesgo deben modificarse para que esta idea funcione?', añadiendo alternativas realistas mediante un ajuste constructivo."
-
 ---
 
 "Si puedes dreamed, puedes hacerlo." 🏰

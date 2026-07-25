@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak, efeknya jauh berbeda. Mengetik melibatkan penekanan tombol secara berulang yang menyederhanakan masukan sensorik ke korteks motorik. Sebaliknya, memegang pena dan membentuk setiap garis menstimulasi area asosiasi kompleks di seluruh otak, menjadikan tulisan tangan jauh lebih unggul untuk daya ingat dan ketahanan fokus."
   - question: "Apakah saya perlu mengkhawatirkan keindahan atau kerapian tulisan tangan?"
     answer: "Anda tidak memerlukan kaligrafi yang sempurna. Inti dari latihan ini terletak pada proses otak yang berfokus secara mendalam pada tekanan taktil di ujung pena dan arah goresan. Selama masih dapat dibaca oleh Anda sendiri, menulis dengan kecepatan alami lebih bermanfaat. Berfokuslah pada masukan taktil alih-alih keindahan tulisan."
-
 ---
 
 Malcolm X (1925–1965) adalah seorang pemimpin karismatik dan orator yang memukau massa selama era hak-hak sipil paling sengit di AS. Di balik sosok ikonik yang mengagumkan dengan kosakata fasih, tersembunyi masa lalu yang pait di mana ia hampir tidak bisa menulis satu kalimat dengan benar. 📖

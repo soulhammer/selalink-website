@@ -21,7 +21,6 @@ faqs:
     answer: "Não! Descrever os detalhes observados em texto em vez de desenhar produz exatamente o mesmo efeito de imersão no cérebro."
   - question: "Posso aplicar isso em ambientes fechados usando objetos artificiais em vez de elementos naturais?"
     answer: "Sim, qualquer objeto artesanal com textura fina — como a pena de uma caneta tinteiro, o grão do papel ou as costuras de uma carteira — oferece ótimo efeito."
-
 ---
 
 Beatrix Potter (1866–1943), criadora do adorado personagem 'Peter Rabbit' (com mais de 300 milhões de exemplares vendidos no mundo), ilustradora naturalista do século XIX e pesquisadora de micologia. O que impulsionou essa mulher tímida da era vitoriana a criar tanto um universo mágico de contos quanto ilustrações botânicas de grande valor científico? 🐰

@@ -21,7 +21,6 @@ faqs:
     answer: "Das ist eine natürliche Reaktion. Anfänglich werden Bewertungsmuster leicht aktiviert. Blicken Sie nicht auf das gesamte Gesicht, sondern konzentrieren Sie sich nur auf Ihre Pupillen. Der Fokus liegt auf der Verbindung mit Ihrem inneren Ich, nicht auf der Analyse von Gesichtszügen."
   - question: "Ist die Spiegel-Betrachtung auch ohne das Malen von Selbstporträts therapeutisch wirksam?"
     answer: "Ja, absolut! Für Frida Kahlo war das Malen lediglich ein Mittel, um die Selbsterkenntnis aus dem Spiegelbild darzustellen. Täglich 5 Minuten wohlwollenden Blickkontakt mit dem eigenen Spiegelbild zu halten, bietet dieselben Vorteile für Selbstakzeptanz und Resilienz, ganz ohne künstlerisches Talent."
-
 ---
 
 "Ich male mich selbst, weil ich so oft allein bin und weil ich die Person bin, die ich am besten kenne." 🎨

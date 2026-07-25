@@ -21,7 +21,6 @@ faqs:
     answer: "Sentar-se imediatamente ao chegar em casa causa uma queda rápida no alerta físico, levando o cérebro a um relaxamento profundo. Ficar de pé mantém a ativação corporal e protege a memória de trabalho durante esses 10 minutos cruciais."
   - question: "Como posso praticar essa rotina se não tiver uma escrivaninha alta?"
     answer: "Colocar um livro grosso ou suporte de notebook sobre uma mesa comum, balcão de cozinha ou cômoda alta é suficiente. O objetivo não é comprar móveis novos, mas criar uma postura de pé sem atrito para registrar ideias por 5 a 10 minutos ao chegar."
-
 ---
 
 "Caminhando alcancei meus melhores pensamentos, e não conheço nenhum pensamento tão pesado do qual não se possa afastar caminhando." 🎩

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Que faire si j'ai mal aux pieds ou au bas du dos en utilisant un bureau debout ?"
     answer: "Placez un tapis anti-fatigue épais sous vos pieds ou portez des chaussons rembourrés, et engagez légèrement la sangle abdominale pour éviter de cambrer le dos."
-
 ---
 
 « L'art est un pas solitaire au-delà de soi-même vers un monde plus vaste. » ✍️

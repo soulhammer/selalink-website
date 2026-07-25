@@ -21,7 +21,6 @@ faqs:
     answer: "Escribir directamente con un lápiz digital en una tableta produce efectos muy similares a los de un bolígrafo físico. Sin embargo, teclear en un teclado es una acción de entrada automatizada acompañada de casi ningún procesamiento cognitivo. La velocidad más lenta de la escritura a mano obliga al cerebro a resumir y digerir información, mejorando significativamente las tasas de retención de memoria."
   - question: "¿Hay alguna manera de organizar las notas extractadas para que no se pierdan a medida que se acumulan?"
     answer: "Recomendamos el método del Libro de Apuntes Comunes (Commonplace Book) de John Locke. Cree una página de índice en la parte delantera o trasera de su cuaderno y anote los números de página escritos por categorías de conocimiento o alfabéticamente. Alternativamente, escanear los cuadernos manuscritos una vez al mes y categorizarlos con etiquetas digitales es un buen término medio."
-
 ---
 
 "No hay libro tan malo que no contenga algo bueno, y leer sin tomar notas carece de valor." ✍️

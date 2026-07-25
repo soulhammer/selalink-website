@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, dampaknya sangat luar biasa! Tekstur kokoh yang dirasakan telapak kaki mengirim sinyal 'mode aktivitas luar' ke <strong>Korteks Somatosensorik</strong>. Ini menekan keinginan untuk berbaring di sofa atau kasur dan menjadi saklar fisik peralihan kerja."
   - question: "Apakah berpakaian rapi juga membantu saat melakukan pekerjaan kreatif seperti melukis atau membuat konten?"
     answer: "Ya, sangat membantu! Meskipun sering dianggap pakaian acak memicu kreativitas, makin rapi rutinitas dan pakaian, makin hemat sumber daya kognitif prafrontal, memungkinkan otak tenggelam dalam pemikiran tingkat tinggi untuk menggali ide-ide mendalam."
-
 ---
 
 "Saya tidak perlu mengisi kehidupan sehari-hari saya dengan kegilaan demi seni. Ketika kehidupan sehari-hari saya sangat sederhana dan rapi, surealisme di kanvas saya mendapatkan daya bujuk yang tajam." 🎩

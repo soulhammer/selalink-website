@@ -21,7 +21,6 @@ faqs:
     answer: "Il n'y a aucune raison scientifique pour que ce soit exactement 5 heures. L'essentiel est de se réveiller au moins 1 heure avant le début de sa journée de travail pour éveiller le cerveau par l'exercice physique. L'important est de créer une routine dans les 30 minutes suivant le réveil selon votre emploi du temps."
   - question: "Que faire si les entraînements à haute intensité sont trop éprouvants en raison d'articulations fragiles ou d'un manque d'endurance ?"
     answer: "Au lieu de sauts agressifs pour les articulations, optez pour le vélo d'appartement, la marche rapide ou la marche en pente. Du moment que votre respiration est suffisamment stimulée pour augmenter l'flux sanguin vers le cerveau, vous obtiendrez les mêmes bienfaits cognitifs."
-
 ---
 
 « Même si vous n'êtes pas sûr de vous, faites en sorte que les autres soient convaincus de votre intention. » 🚶‍♂️

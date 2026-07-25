@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Bietet das Spazieren Gehen neben Hausarbeiten wie Bügeln oder Geschirrspülen einen ähnlichen DMN-Aktivierungseffekt?"
     answer: "Ja, Spazierengehen ist ebenfalls ein wunderbares Werkzeug zur Förderung der Kreativität. Beim Gehen muss das Gehirn jedoch kontinuierlich ein gewisses Maß an visueller und kognitiver Aufmerksamkeit aufwenden, um sich in der Umgebung zu orientieren oder Menschenmengen auszuweichen. Auf der anderen Seite beinhaltet das Bügeln oder Spülen begrenzte, vollständig kontrollierte körperliche Handlungen in einer vertrauten Innenraumumgebung, sodass der präfrontale kognitive Verbrauch viel geringer ist als bei einem Spaziergang, was den einzigartigen Vorteil bietet, einen ruhigen, meditative Zustand (DMN-Aktivierung) stabiler zu induzieren."
-
 ---
 
 "Ich setze mich nicht hin, um mich zur Choreografie zu zwingen. Wenn ich bügle oder den Raum fege, erst dann beginnt der Tanz der Ballerinas vor meinen Augen zu fließen." 🧺

@@ -9,9 +9,8 @@ heroImage: "/images/blog/marx_reading_room.webp"
 app: "buildself"
 formatVersion: 4
 authority: "カール・マルクスの歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究"
-steps:
-
-
+steps: []
+faqs: []
 ---
 
 哲学、経済学、歴史学の壁を壊し、資本主義社会の構造と歴史的矛盾を緻密に分析した人類の偉大な経済思想家、カール・マルクス（Karl Marx, 1818〜1883）。人類史の潮流に巨大な知的波紋を起こした彼の著作『資本論』は、一体どのような知的訓練を通じて誕生したのでしょうか？ 🏛️

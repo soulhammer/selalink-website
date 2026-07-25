@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Does reading the Civil Code help when writing marketing copy or emotional essays?"
     answer: "When writing persuasive or emotional copy, it is better to use attractive advertising text or evocative essays as priming text instead of legal codes. The core of Stendhal's habit is priming the brain with text that matches the intended tone and manner of the output."
-
 ---
 
 "To form my style, I read two or three pages of the Civil Code every morning. For the language of the code does not mix emotion; it clearly conveys only facts and definitions." 📖

@@ -21,7 +21,6 @@ faqs:
     answer: "Sim. A estimulação bilateral ocorre a qualquer hora. No entanto, enquanto a caminhada matinal aumenta o alerta para despertar, o passeio noturno de Freud limpa o excesso mental e a tensão acumulada durante o dia. Escolha o horário de acordo com seu estresse."
   - question: "Posso digitar o diário no celular ou teclado em vez de escrever à mão?"
     answer: "Digitar força o cérebro a voltar ao modo de processamento lógico estruturado. Em contrapartida, pressionar uma caneta no papel ativa a motricidade fina dos dedos, estimulando o Sistema de Ativação Reticular (SAR) com muito mais intensidade. A escrita à mão é superior para extrair pensamentos subconscientes."
-
 ---
 
 "A mente é como um iceberg, flutua com um sétimo de seu volume sobre a água." 🧠

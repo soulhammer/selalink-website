@@ -21,7 +21,6 @@ faqs:
     answer: "Wird das Vorab-Lesen verlangt, führt ein voller Terminkalender oft dazu, dass Dokumente nur überflogen oder gar nicht gelesen werden. Durch das erzwungene 30-minütige stille Lesen im Meeting garantierte Bezos eine vollständige kognitive Synchronisation aller Teilnehmer auf demselben Niveau."
   - question: "Erfordert das Verfassen eines 6-seitigen Memos nicht zu viel Zeit und Aufwand?"
     answer: "Ja, es erfordert deutlich mehr Sorgfalt und kognitiven Aufwand vom Verfasser. Der Schreibprozess selbst dient jedoch als strenge Selbstprüfung, die logische Lücken im Voraus a﷬kt, wodurch unnötige Folge-Meetings vermieden und Entscheidungen beschleunigt werden."
-
 ---
 
 "Ein gutes Dokument zu schreiben ist der Beweis für tiefes, strukturiertes Denken. Stichpunkte verdecken nur unklares Denken." 📝

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "What should I do if I don't remember my dreams at all on most mornings?"
     answer: "It is completely fine if you don't remember the dream itself. While your brain is still hazy right after waking, randomly write down 3 or more lines of your 'stream of consciousness' on a blank page. This practice also turns off self-censorship and warms up the subconscious mind, dramatically enhancing creative flexibility during the day."
-
 ---
 
 "The melody was playing perfectly in my dream. If I hadn't gotten straight up and played it on the piano, it would have evaporated forever like morning mist." 🎹

@@ -21,7 +21,6 @@ faqs:
     answer: "Tippen hilft zwar auch, aber das Schreiben von Hand stimuliert die Feinmotorik der Finger und aktiviert die präfrontale und somatosensorische Hirnrinde deutlich starker. Handschrift wird dringend empfohlen."
   - question: "Was kann ich tun, wenn es in der Nähe keine Naturparklandschaften gibt?"
     answer: "Selbst ohne Wald oder See reicht das Gehen auf ruhigen Gehwegen, Nebenstraßen oder ruhigen Fluren ohne Smartphone aus, um dieselbe kognitive DMN-Aktivierung zu erzielen."
-
 ---
 
 "Intelligenz ist nicht das, was wir wissen, sondern das, was wir tun, wenn wir etwas nicht wissen." 🚶‍♂️

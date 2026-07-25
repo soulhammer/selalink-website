@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "What is the scientific principle behind nature observation reducing brain stress?"
     answer: "Because instead of 'Directed Attention' triggered by city noises or screens, entering the state of 'Soft Fascination' while viewing natural objects completely resets depleted cognitive energy in the frontal lobe."
-
 ---
 
 "While quietly gazing at dew-drenched blades of grass, cucumber vines, and the tiny footsteps of insects creeping underneath, complex brain fatigue is washed away, springing forth a clear well of creativity." 🌿

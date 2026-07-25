@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Existe una razón imperiosa para usar cuadernos de papel en la era digital?"
     answer: "Sí. Desde la neurociencia, teclear ofrece una estimulación táctil simple que activa menos la corteza cerebral. En cambio, escribir a mano estimula directamente el Hipocampo. Además, el papel libera de formatos rígidos, permitiendo esquematizar conceptos con dibujos y símbolos libres."
-
 ---
 
 "El conocimiento no registrado es como un castillo de arena, se dispersa y olvida fácilmente." 📓

@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, sus mecanismos neurofisiológicos están bien documentados. Mantener la postura recostada tras despertar previene picos bruscos de cortisol, estabilizando el sistema nervioso autónomo. Preservar las Ondas Alfa de 8–12 Hz reduce el ruido sensorial, potenciando la deducción intuitiva prefrontal."
   - question: "¿Qué debo hacer si me quedo dormido accidentalmente mientras medito en cama?"
     answer: "Para evitar volver a dormirse, recline el cuerpo a un ángulo de 30 grados usando almohadas, o mantenga los ojos abiertos mirando un punto del techo. Configurar una alarma suave exactamente para 8 o 10 minutos después proporciona un margen de seguridad."
-
 ---
 
 "Pienso, luego existo (Cogito, ergo sum). La máxima claridad mental nace cuando el cuerpo descansa en inmovilidad y la mente flota con libertad." 🛏️

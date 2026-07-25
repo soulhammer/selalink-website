@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, desde que o texto exija um esforço cognitivo ativo. Enquanto a ficção leve oferece uma estimulação pré-frontal mínima, ler literatura clássica ou ensaios ricos em motivações complexas e dilemas morais engaja fortemente as redes de controle cognitivo pré-frontais."
   - question: "Tablets ou leitores de e-ink proporcionam os mesmos benefícios de reestruturação cognitiva que livros físicos?"
     answer: "Sim, desde que as distrações estejam bloqs. Se usar um tablet padrão, ative o modo Não perturbe. Livros físicos de papel e leitores de e-ink são preferíveis, pois o manuseio das páginas e a ausência de luz de fundo reduzem o cansaço visual."
-
 ---
 
 "A leitura é um dever para o revolucionário. Quem não lê está fadado a ser manipulado pelos pensamentos dos outros e por informações distorcidas." 📖

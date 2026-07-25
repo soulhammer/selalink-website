@@ -21,7 +21,6 @@ faqs:
     answer: "Desbloquear um smartphone e procurar um aplicativo expõe você a notificações, mensagens e e-mails que desviam o foco, fazendo com que a inspiração se evapore. Em contraste, um caderno analógico é instantâneo; a fricção tátil e a pressão da caneta estimulam com força o córtex somatossensorial e ativam o SRA do cérebro."
   - question: "Existem exemplos reais em que uma nota trivial no caderno de Branson se transformou em um grande sucesso empresarial?"
     answer: "Sim. A Virgin Atlantic Airways nasceu de uma única anotação. Quando um voo para Porto Rico foi cancelado, Branson escreveu: 'Possibilidade de operar um voo fretado para passageiros ilhados?'. Ele imediatamente consultou custos de fretamento, vendeu bilhetes aos passageiros ilhados num quadro-negro e fez o avião decolar. Essa nota deu origem a uma companhia aérea global."
-
 ---
 
 "Não importa quão trivial uma ideia possa parecer, se você não a anota na hora, ela desaparece para sempre. Meu caderno e minha caneta são as maiores ferramentas que possuo." 📓

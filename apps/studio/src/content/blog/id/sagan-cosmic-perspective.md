@@ -21,7 +21,6 @@ faqs:
     answer: "Ya! Memvisualisasikan zoom-out kosmik selama 1 menit menstabilkan detak jantung dan secara signifikan menurunkan demam panggung atau kecemasan performa."
   - question: "Bagaimana jika tidak ada foto luar angkasa di sekitar saya?"
     answer: "Cukup pejamkan mata Anda dan bayangkan sebuah titik biru kecil yang indah mengapung di ruang angkasa yang gelap untuk mendapatkan manfaat ilmu saraf yang sama."
-
 ---
 
 "Setiap orang yang Anda cintai, setiap orang yang Anda kenal, setiap manusia yang pernah ada, menjalani hidup mereka di atas sebutir debu di dalam sinar matahari." 🌌

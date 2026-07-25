@@ -21,7 +21,6 @@ faqs:
     answer: "Ketika jendela tertutup, lapisan pada kaca modern memfilter dan memantulkan hingga 80% panjang gelombang cahaya biru dan UV alami yang penting untuk pembangkian otak. Oleh karena itu, untuk merangsang sel ipRGCs pada retina secara penuh dan menekan melatonin, membuka jendela sepenuhnya untuk menerima sinar matahari alami langsung memberikan manfaat fisiologis yang jauh lebih unggul."
   - question: "Apakah pengamatan fajar tetap efektif di pagi hari yang berawan atau hujan?"
     answer: "Ya. Bahkan di pagi hari yang mendung atau hujan, cahaya alami yang menembus awan mencapai tingkat kecerahan sekitar 10 kali lebih tinggi daripada pencahayaan buatan di dalam ruangan. Panjang gelombang cahaya alami yang tersebar di atmosfer cukup untuk merangsang sel ganglion retina. Menatap langit selama 10 menit di hari mendung memberikan manfaat pemanasan kognitif yang sama."
-
 ---
 
 "Cahaya berubah secara konstan dan hanya mengungkapkan keindahan murninya kepada mereka yang menatapnya." 🎨

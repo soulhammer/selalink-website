@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Peut-on répliquer la méthode de fiches de Nabokov en utilisant des outils de prise de notes numériques au lieu de fiches en papier ?"
     answer: "Oui, tout à fait. Vous pouvez utiliser la vue Kanban de Notion, Trello ou des outils de tableau blanc numérique (Miro, FigJam) pour transformer vos fragments de pensée en fiches et les glisser-déposer. L'élément clé ne consiste pas à rédiger de longs textes d'un seul coup, mais à 'modulariser' les pensées sous forme d'objets manipulables à tout moment."
-
 ---
 
 « Un roman ne s'écrit pas dans l'ordre du début à la fin. Dans l'image parfaite qui existe dans mon esprit, je ne fais que remplir les pièces manquantes du puzzle une à une à l'aide de fiches. » 🃏

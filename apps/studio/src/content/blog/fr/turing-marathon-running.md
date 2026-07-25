@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout exercice aérobique continu stimulant la fonction cardio-pulmonaire et augmentant le niveau de BDNF (comme le vélo ou la natation) offre des bénéfices similaires. Cependant, la course en plein air maximise la relaxation du DMN grâce aux stimulations sensorielles comme le vent et les paysages."
   - question: "Écouter de la musique en courant nuit-il à la récupération cérébrale ?"
     answer: "La musique avec des paroles ou des rythmes intenses force le cortex préfrontal à filtrer et analyser les informations auditives, empêchant un repos complet. Écouter les sons de la nature ou se concentrer uniquement sur sa respiration sans musique est la clé pour activer le DMN."
-
 ---
 
 "Pour moi, la course à pied est le moment le plus précieux pour vider mon esprit complexe et m'immerger dans une pensée pure." 🏃‍♂️

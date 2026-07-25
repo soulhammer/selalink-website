@@ -21,7 +21,6 @@ faqs:
     answer: "Escrever diretamente com uma caneta digital em um tablet produz efeitos muito semelhantes aos de uma caneta física. No entanto, digitar no teclado é uma ação de entrada automatizada acompanhada de quase nenhum processamento cognitivo. A velocidade mais lenta da escrita à mão força o cérebro a resumir e digerir as informações, melhorando significativamente as taxas de retenção de memória."
   - question: "Existe uma maneira de organizar as anotações de excertos para que não se percam à medida que se acumulam?"
     answer: "Recomendamos o método do Livro de Anotações Comuns (Commonplace Book) de John Locke. Crie uma página de índice na frente ou no final do seu caderno e anote os números das páginas escritas por categorias de conhecimento ou ordem alfabética. Alternativamente, digitalizar cadernos manuscritos uma vez por mês e categorizá-los com tags digitais é um bom meio-termo."
-
 ---
 
 "Não há livro tão mau que não contenha algo aproveitável, e ler sem tomar notas é inútil." ✍️

@@ -21,7 +21,6 @@ faqs:
     answer: "Non. Passer 10 à 20 minutes à regarder par la fenêtre en trajet et noter une seule pensée suffit amplement à stimuler le Réseau du Mode par Défaut et les ondes alpha."
   - question: "Puis-je utiliser des applications de notes ou des mémo vocaux si les secousses gênent l'écriture ?"
     answer: "Oui, tout à fait. L'important n'est pas le support, mais d'éliminer les contenus stimulants (vidéos courtes, réseaux sociaux, jeux) pour offrir de l'espace à la réflexion. Les applications hors ligne ou enregistreurs vocaux sont d'excellentes alternatives."
-
 ---
 
 « Le voyage est une vraie source de sagesse, et le carnet est la carte qui la préserve. » 📓

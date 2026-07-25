@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, tentu saja! Tujuannya bukan membuat karya seni, melainkan latihan kognitif untuk menstimulasi sirkuit otak kanan melalui gerakan tangan. Coretan sederhana pun memberikan hasil sempurna."
   - question: "Apakah menggunakan stylus di tablet digital memberikan efek yang sama?"
     answer: "Bisa. Namun, jika menggunakan fitur 'Undo' atau stabilisasi garis, otak menjadi sadar untuk mengoreksi. Matikan fitur pemulihan dan pemulus garis untuk hasil terbaik."
-
 ---
 
 "Arsitektur harus menjadi ruang di mana orang dapat bernapas dan bermimpi, bukannya terperangkap dalam kotak persegi panjang." 🏛️

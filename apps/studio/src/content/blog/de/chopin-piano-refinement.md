@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, das ist ein reales Risiko. Trennen Sie 'Entwurfszeit' strikt von 'Verfeinerungszeit' und setzen Sie quantitative Grenzen – etwa die Begrenzung der Überarbeitung auf maximal 3 Stunden oder 5 Durchgänge. Die Verfeinerung innerhalb eines festen Zeitfensters sichert die Balance zwischen Produktivität und Qualität."
   - question: "An welchem Punkt der Verfeinerung sollte man mit dem Anpassen aufhören und das Werk finalisieren?"
     answer: "Nutzen Sie den Punkt abnehmenden Grenznutzens als Schwellenwert – wenn weitere Anpassungen keine spürbaren Verbesserungen mehr bringen. Wenn kleine Änderungen die Gesamtwirkung nicht mehr beeinflussen, ist das ACC-Signal erloschen und das Abschließen der Arbeit ist die richtige Entscheidung."
-
 ---
 
 "Inspiration kommt in einem Augenblick, aber sie mit absoluter Perfektion auszudrücken, erfordert unzählige schmerzhafte Nächte der Wiederholung." 🎹

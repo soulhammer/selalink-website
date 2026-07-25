@@ -21,7 +21,6 @@ faqs:
     answer: "Nietzsche marchait principalement entre le petit-dÃ©jeuner et le dÃ©jeuner, ainsi qu'en fin d'aprÃ¨s-midi. Il privilÃ©giait les sentiers forestiers et de montagne."
   - question: "Faut-il absolument marcher en extÃ©rieur pour appliquer cette mÃ©thode ?"
     answer: "Les marches en plein air sont idÃ©ales ; toutefois, arpenter un couloir calme ou un bureau permet dÃ©jÃ  de rafraÃ®chir la concentration."
-
 ---
 
 Â« Toutes les pensÃ©es vraiment grandes sont conÃ§ues en marchant. Â» ð¶ââï¸

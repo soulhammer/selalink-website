@@ -21,7 +21,6 @@ faqs:
     answer: "Aerobic und leichte Muskelaktivierung helfen zwar, aber Indoor-Fitnessübungen unter künstlicher Beleuchtung unterdrücken Melatonin weniger effektiv. Erst die Aktivität unter natürlichem Sonnenlicht in Verbindung mit Erdung (Earthing – direktes Berühren von Erde und Naturelementen) bewirkt eine so starke Nervenstabilisierung und Serotoninaktivierung wie bei Verdi."
   - question: "Worauf sollte man bei der Einführung morgendlicher körperlicher Arbeit achten?"
     answer: "Sie sollten hochintensive Arbeit vermeiden, die das Gehirn übermäßig erschöpft. Wenn sich im Körper Milchsäure ansammelt und schwere körperliche Ermüdung einsetzt, werden Glukose und präfrontale Energie aufgebraucht, die für kreative Arbeit benötigt werden, was der Kreativität schadet. Beschränken Sie die Aktivität daher auf etwa 15 Minuten."
-
 ---
 
 "Die größte musikalische Inspiration kommt mir nicht beim Halben des Stifts, sondern beim Bestellen des Bodens und Schwitzen am Morgen." 🎼

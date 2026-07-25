@@ -21,7 +21,6 @@ faqs:
     answer: "Falling asleep when exhausted is natural. However, sitting at a desk and making a brief 5-minute record like writing a journal instead of lying in bed helps prevent premature sleep onset and sleep inertia."
   - question: "What should I do if self-blame keeps me awake at night?"
     answer: "Immediately stop self-inquiry if emotional rumination begins. Instead, practice concluding the reflection after noting an alternative option like 'What happened cannot be undone, I will do just 1 thing differently tomorrow.'"
-
 ---
 
 "Never allow sleep to close your eyes before you have three times reviewed the actions of the day." 🌙

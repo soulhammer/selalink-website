@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak perlu memaksa munculnya ide. Cukup dengan menuliskan satu kata atau suasana hati yang melintas di pikiran saat masih mengantuk, atau satu masalah yang ingin Anda selesaikan hari ini, sudah cukup untuk memperkuat sirkuit gelombang Alfa dan secara bertahap membuka pintu ke alam bawah sadar Anda."
   - question: "Apakah boleh menggunakan aplikasi catatan atau rekaman suara di ponsel pintar?"
     answer: "Saat Anda menyalakan ponsel pintar, cahaya layar yang terang dan banyaknya notifikasi berisiko tinggi dengan cepat mengubah gelombang otak Anda menjadi gelombang Beta. Sangat disarankan untuk menggunakan buku catatan kertas dan pena guna meminimalkan stimulasi visual dan perubahan gelombang otak yang drastis."
-
 ---
 
 Srinivasa Ramanujan adalah matematikawan genius legendaris dari India yang menerbitkan lebih dari 3.900 teorema dan rumus orisinal dalam teori bilangan dan deret tak hingga, mengubah paradigma matematika modern dan memperluas cakrawala kognitif umat manusia. Meskipun tidak memiliki pendidikan akademik formal tinggi, dari manakah inspirasi cemerlangnya berasal untuk memecahkan masalah rumit yang tidak dapat dibuktikan oleh matematikawan terkemuka dunia selama berpuluh-puluh tahun? 📐

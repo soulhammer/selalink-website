@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, siempre que el texto exija un esfuerzo cognitivo activo. Mientras que la ficción ligera ofrece una estimulación prefrontal mínima, la literatura clásica o los ensayos ricos en motivaciones complejas y dilemas morales involucran fuertemente las redes de control cognitivo prefrontales."
   - question: "¿Las tabletas o lectores de tinta electrónica proporcionan los mismos beneficios de reestructuración cognitiva que los libros físicos?"
     answer: "Sí, siempre que las distracciones estén bloqs. Si usa una tableta estándar, active el modo No molestar. Se prefieren los libros físicos de papel y los lectores de tinta electrónica, ya que el paso táctil de páginas y la ausencia de parpadeos de luz reducen la fatiga visual."
-
 ---
 
 "La lectura es un deber para un revolucionario. Quien no lee está destinado a ser manipulado por los pensamientos de otros e información distorsionada." 📖

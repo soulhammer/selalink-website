@@ -21,7 +21,6 @@ faqs:
     answer: "Le manteau blanc agissait comme un réflecteur de lumière naturel renvoyant la clarté sur le papier sans éblouissement. Il constituait un outil d'éclairage analogique permettant a ses yeux abîmés de mieux distinguer les mots."
   - question: "Travailler allongé au lit ou sur un canapé ne risque-t-il pas de provoquer la somnolence ?"
     answer: "Pour éviter le sommeil, ne vous allongez pas à plat. Relevez le buste de 30 à 45 degrés à l'aide de coussins et travaillez par sessions courtes de 20 minutes suivies de brefs repos pour réguler votre niveau d'éveil."
-
 ---
 
 « La littérature est un beau combat pour tester les limites de l'âme et surmonter les barrières du corps. » ✍️

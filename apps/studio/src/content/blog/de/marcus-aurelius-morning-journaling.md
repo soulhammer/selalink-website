@@ -21,7 +21,6 @@ faqs:
     answer: "Es gibt keinen Grund für Schuldgefühle, wenn Sie einen Tag auslassen. Selbstvorwürfe sind nach der stoischen Philosophie unnötiges Leid. Wenn die Zeit knapp ist, reicht ein einziger Satz im Smartphone wie 'Ich lasse mich von heutigen Hürden nicht aus der Ruhe bringen'. Entscheidend ist die Beständigkeit der inneren Haltung."
   - question: "Wie unterscheidet sich dies von einem normalen Dankbarkeitstagebuch oder Morgentagebuch?"
     answer: "Während ein Dankbarkeitstagebuch den Fokus auf positive Dinge legt, konfrontiert das stoische Journaling im Voraus potenzielle negative Ereignisse oder Stressoren (Negative Visualisierung - Premeditatio Malorum), um die eigene Haltung einzustellen. Es ähnelt einem mentalen Trockentraining."
-
 ---
 
 "Wenn du am Morgen aufstehst, denke daran, was für ein Privileg es ist, zu leben, zu denken, zu genießen, zu lieben." 🌅

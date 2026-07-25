@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, memanfaatkan tingkat kebisingan latar belakang atau musik yang sedang membantu menyempitkan rentang perhatian kognitif Anda, memungkinkan Anda masuk ke dalam fokus analitis yang kompleks jauh lebih cepat."
   - question: "Bagaimana cara mengganti generator kebisingan khusus jika tidak memiliki peralatan khusus?"
     answer: "Anda dapat mengganti peralatan khusus dengan memutar white noise tempo cepat, audio ambien mekanis, atau trek instrumental melalui earphone biasa untuk memulai fokus."
-
 ---
 
 John von Neumann (1903–1957) adalah matematikawan, fisikawan, ilmuwan komputer, dan polimath terkemuka Hungaria-Amerika abad ke-20. Dianggap sebagai salah satu individu paling cerdas dalam sejarah manusia, ia mendirikan 'arsitektur von Neumann' yang menjadi fondasi komputer modern, memelopori teori permainan, dan memberikan kontribusi mendasar pada mekanika kuantum dan Proyek Manhattan.

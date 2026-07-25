@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Do standard smartphone games produce the same cognitive shift?"
     answer: "Mobile games rich in text, social media, or heavy sensory stimulation overtax other regions of the prefrontal cortex, increasing cognitive load. To gain DMN benefits, simple analog play or physics-simulation games featuring geometric trajectories are far more effective."
-
 ---
 
 Wolfgang Amadeus Mozart (1756–1791) was an unprecedented genius in the history of classical music, capable of pouring out flawless symphonies and operas in flowing, uncorrected manuscripts. Beneath his miraculous creativity lay a unique daily ritual that liberated his brain from intense artistic obsession. 🎱

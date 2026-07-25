@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak. Musik populer atau siaran radio merangsang emosi tanpa mengisi saluran bahasa secara padat; iklan radio merusak fokus. Pembacaan akademis atau kuliah yang melibatkan logika dan pengetahuan adalah yang paling ideal."
   - question: "Berapa volume yang tepat saat menjalankan rutinitas mendengarkan pembacaan ini?"
     answer: "Tidak boleh terlalu keras maupun terlalu pelan. Volume sedang (sekitar 50–60 dB)—seperti seseorang yang membacakan buku secara perlahan di samping Anda—adalah yang terbaik. Disarankan menggunakan pengeras suara Bluetooth."
-
 ---
 
 "Gairah dan intelektualitas menjadi kanvas besar hanya dalam keselarasan indrawi." 🎨

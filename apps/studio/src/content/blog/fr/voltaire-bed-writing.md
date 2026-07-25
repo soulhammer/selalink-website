@@ -21,7 +21,6 @@ faqs:
     answer: "Alors que les Pages Matinales sont rédigées après s'être lavé ou assis lorsque la raison est partiellement active, l'écriture au lit de Voltaire vise l'« interstice cérébral » pendant l'inertie du sommeil avant de se lever physiquement, capturant des métaphores subconscientes et des idées créatives à l'état brut, ce qui marque une profonde différence cognitive."
   - question: "Que faire si aucune idée ne me vient lorsque j'écris au lit chaque matin ?"
     answer: "Il n'est absolument pas nécessaire d'écrire de grandes idées. Vous pouvez noter tout fragment insignifiant qui vous traverse l'esprit : un événement désagréable d'hier, la flemme face aux tâches du jour ou une liste aléatoire de mots. L'objectif est l'exercice de désactivation du filtre d'inhibition du cerveau."
-
 ---
 
 « Une vie sans travail est un fardeau. Seul le travail rend notre existence précieuse. » ✍️

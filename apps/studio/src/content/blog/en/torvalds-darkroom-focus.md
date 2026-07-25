@@ -21,7 +21,6 @@ faqs:
     answer: "Excessively high contrast ratios in total darkness cause eye fatigue. Therefore, dimming the monitor's brightness to match the dark environment or installing a soft backlight (such as indirect LED strips) behind the monitor wall prevents optic nerve strain while maintaining deep immersion."
   - question: "What should I do if I don't have a laundry room or an isolated room at home?"
     answer: "It doesn't need to be a specialized isolated room. Closing the door of a regular room, sitting with your back to the wall to keep your visual field quiet, or installing a physical partition to block visual cognitive stimuli other than your monitor within 1.5 meters of your desk is more than sufficient."
-
 ---
 
 "To me, the ideal workspace is completely quiet, dark, and monotonous, without any decorations or distractions." 💻

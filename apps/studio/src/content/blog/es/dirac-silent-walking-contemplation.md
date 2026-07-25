@@ -21,7 +21,6 @@ faqs:
     answer: "Sí. El factor decisivo no es el silencio ambiental absoluto, sino interrumpir la entrada de información lingüística (conversaciones, podcasts o lecturas). Incluso en una ciudad bulliciosa, el uso de auriculares con cancelación de ruido para mitigar el estruendo ambiental mientras se evita el consumo de lenguaje ofrece beneficios idénticos."
   - question: "¿Debo detenerme a registrar pensamientos brillantes inmediatamente mientras camino?"
     answer: "Evite romper el ritmo físico de la caminata. Detenerse a escribir frases largas interrumpe el procesamiento parietal visuoespacial. Si surge una idea clave, anote solo 1 o 2 palabras clave en 2 segundos en una libreta o grabadora. Regrese de inmediato a su caminata silenciosa y desarrolle las ideas formalmente una vez concluida la sesión."
-
 ---
 
 "Las palabras son ruido que oscurece la belleza matemática. Solo al caminar en silencio absoluto se revela la simetría del universo." 🌌

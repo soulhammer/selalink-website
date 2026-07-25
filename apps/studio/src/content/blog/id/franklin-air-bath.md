@@ -21,7 +21,6 @@ faqs:
     answer: "Ya. Paparan dingin ringan pada kulit meningkatkan fleksibilitas sistem saraf otonom. Dengan memicu pelepasan norepinefrin, mandi udara mengusir kabut otak pagi hari dan mempertajam kontrol prefrontal."
   - question: "Bagaimana cara mempraktikkan Mandi Udara secara aman selama musim dingin yang membekukan?"
     answer: "Di musim dingin, bertelanjang lama di dekat jendela terbuka sangat tidak aman. Terapkan 'Mandi Udara Mini': buka jendela selama 1 hingga 2 menit untuk sirkulasi udara, lalu tutup kembali dan nikmati paparan kulit ringan di dalam ruangan sejuk selama 3 hingga 5 menit."
-
 ---
 
 "Saya bangun pagi hampir setiap hari, dan duduk di kamar saya tanpa pakaian sama sekali, setengah jam atau satu jam... Ini saya sebut Mandi Udara saya." 💨

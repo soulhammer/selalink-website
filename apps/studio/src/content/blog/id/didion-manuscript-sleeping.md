@@ -21,7 +21,6 @@ faqs:
     answer: "Jika Anda memaksakan solusi secara stres, ya. Kuncinya adalah menghindari rasa khawatir yang aktif. Cukup pemindai materi kertas secara pasif seperti membaca dongeng sebelum tidur, lalu secara sadar limpahkan pemrosesan tersebut ke bawah sadar Anda. Pola pikir santai ini mencegah stimulasi simpatis."
   - question: "Apakah rutinitas ini gagal jika ide terobosan tidak langsung muncul saat terbangun?"
     answer: "Tidak sama sekali. Hasil saraf dari konsolidasi REM sering kali muncul dengan sedikit penundaan kognitif. Solusi tersebut sering kali muncul selama aktivitas pagi hari yang santai—seperti mandi, membuat kopi, atau berjalan—ketika filter prefrontal tetap longgar, memungkinkan hasil bawah sadar mengapung ke kesadaran sadar."
-
 ---
 
 "Kita menceritakan kisah kepada diri kita sendiri untuk bertahan hidup. Urutan yang tepat sering kali terbentuk di malam hari, dalam keheningan tidur." 🛏️

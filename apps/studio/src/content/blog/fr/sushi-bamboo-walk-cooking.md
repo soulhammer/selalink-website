@@ -21,7 +21,6 @@ faqs:
     answer: "Oui ! Il ne s'agit pas de recettes complexes. Préparer un café filtre ou frire soigneusement un œuf apporte tous les bienfaits sensoriels."
   - question: "L'acte physique de cuisiner réduit-il réellement le stress ?"
     answer: "Selon des recherches en ergothérapie, manipuler des aliments pour créer un plat freine les signaux cérébraux dépressifs et renforce l'estime de soi."
-
 ---
 
 Su Dongpo (Su Shi, 1037–1101), poète, calligraphe et homme d'État majeur de la dynastie Song du Nord. Malgré de multiples exils dans des contrées lointaines comme Huangzhou ou l'île de Hainan, il a surmonté le désespoir grâce à un optimisme inébranlable.

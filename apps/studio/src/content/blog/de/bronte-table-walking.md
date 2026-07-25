@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, das Gehen allein steigert die BDNF-Ausschüttung und die Gehirndurchblutung, was die Kreativität um über 60 % erhöht. Wenn Sie allein arbeiten, erklären Sie Ihre Ideen laut vor einem Spiegel oder gehen Sie umher, während Sie sich selbst als imaginärer Kritiker Fragen stellen, um metakognitive Stimulation zu simulieren."
   - question: "Führt das Anhören scharfer Kritik nicht zu emotionalen Verletzungen und dämpft die Motivation?"
     answer: "Wenn das Gehirn Feedback als persönlichen Angriff missversteht, löst die Amygdala eine emotionale Abwehrhaltung aus. Trennen Sie Ihre persönliche Identität strikt von Ihrem Werk. Rufen Sie sich ins Gedächtnis, dass Kritik neutrale Daten sind, um die Qualität des Ergebnisses zu verbessern."
-
 ---
 
 "Jede Nacht gingen wir in der Dunkelheit endlos um den Esstisch herum und sprachen miteinander. In diesem Rhythmus des Gehens erwachten die Seelen unserer Romane endlich zum Leben." 🕯️

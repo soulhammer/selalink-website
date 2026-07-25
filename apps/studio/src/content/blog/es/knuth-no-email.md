@@ -21,7 +21,6 @@ faqs:
     answer: "Informe expresamente de su horario en respuestas automáticas de correo o estados de chat. Dejar un mensaje claro (p. ej., 'Para concentrarme en proyectos clave, reviso el correo dos veces al día, a las 11:00 y a las 16:00. Para asuntos urgentes, llame por teléfono') reduce la incertidumbre y crea una barrera de protección."
   - question: "¿La rutina de desconexión de Knuth es aplicable a empleados convencionales que no son académicos famosos?"
     answer: "¡Sí, totalmente! El principio neurocientífico se aplica a cualquier persona. No necesita eliminar el correo de forma permanente; basta con programar de 1 a 2 horas diarias en modo 'No Molestar' para reducir los costes del cambio de contexto y proteger su atención."
-
 ---
 
 "Soy un hombre feliz desde que dejé de usar el correo electrónico el 1 de enero de 1990... Lo que hago requiere largas horas de estudio y una concentración ininterrumpida. Mi función es sentarme en la cima del sistema y reflexionar en silencio." ✉️

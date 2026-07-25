@@ -21,7 +21,6 @@ faqs:
     answer: "Jika pemisahan fisik tidak memungkinkan, buatlah pemicu pengondisian sensorik buatan: gunakan 'lampu meja khusus' yang dinyalakan secara ketat saat bekerja, atau gelar 'alas meja' khusus secara eksklusif untuk sesi fokus. Membuat isyarat visual yang konsisten secara efektif melatih jaringan prefrontal untuk menginduksi fokus."
   - question: "Apa yang harus saya lakukan jika saya duduk di meja yang ditentukan tetapi tetap merasa terganggu dan gagal memulai dalam 5 menit?"
     answer: "Jangan tetap duduk sambil terlibat dalam perilaku yang mengganggu. Segera berdiri dan melangkah keluar dari zona khusus. Ambil jeda 3 menit untuk meregangkan tubuh, lalu kembali ke meja untuk mengeksekusi satu tugas mikro (misalnya, mengetik judul dokumen) untuk mereset fokus spasial."
-
 ---
 
 "Selama alam semesta beroperasi dalam tatanan yang teratur, tempat di mana manusia mencari kebenaran juga harus tetap konsisten secara tak tergoyahkan." 🔭

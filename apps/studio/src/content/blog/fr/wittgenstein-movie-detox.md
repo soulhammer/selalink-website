@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Regarder en boucle des vidéos courtes ou des Reels sur son smartphone après le travail a-t-il le même effet ?"
     answer: "Non, pas du tout ! Les vidéos courtes inondent le cerveau de nouveaux stimuli toutes les quelques secondes. Chaque balayage force une réinterprétation et épuise l'esprit. La clé de la routine de Wittgenstein est l'immersion dans un stimulus continu et calme pour mettre le cerveau au repos."
-
 ---
 
 "Quand la recherche philosophique me rend fou, la simplicité des westerns américains vue du premier rang du cinéma est le seul élixir qui ranime mon cerveau." 🤠

@@ -21,7 +21,6 @@ faqs:
     answer: "Un contraste excesivamente alto en la oscuridad total causa fatiga visual. Por lo tanto, reducir el brillo del monitor para adaptarlo al entorno o instalar una luz de fondo suave (como tiras LED indirectas) detrás del monitor previene el cansancio del nervio óptico manteniendo una alta inmersión."
   - question: "¿Qué debo hacer si no tengo un lavadero o un cuarto aislado en casa?"
     answer: "No necesita ser una habitación aislada especial. Es suficiente con cerrar la puerta de una habitación normal, sentarse de espaldas a la pared para mantener tranquilo el campo visual, o instalar un biombo físico para que no haya estímulos cognitivos visuales además del monitor a menos de 1,5 metros del escritorio."
-
 ---
 
 "Para mí, el mejor espacio de trabajo es completamente silencioso, oscuro y monótono, sin ninguna decoración ni distracción." 💻

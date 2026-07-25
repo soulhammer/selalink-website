@@ -21,7 +21,6 @@ faqs:
     answer: "Yes. Examining micro-patterns and leaf venation on indoor house plants engages Soft Fascination, reducing prefrontal fatigue. However, outdoor observation paired with natural sunlight exposure and gentle walking delivers maximum systemic cognitive and neurological restoration."
   - question: "Do I genuinely need to carry an actual magnifying glass or collection envelopes like Goethe?"
     answer: "Using a physical magnifying glass heightens visual resolution and stimulates the visual cortex intensely, but it is not strictly mandatory. Simply engaging in a naked-eye, careful examination of leaf veins, flower petals, or seed patterns is fully sufficient to capture Attention Restoration Theory (ART) benefits."
-
 ---
 
 "Nature speaks to us in deep quiet. Focusing on the smallest mysteries of nature is the recharge station that awakens the brain's clearest thoughts." 🌱

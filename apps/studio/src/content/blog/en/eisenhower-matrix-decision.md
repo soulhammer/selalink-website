@@ -21,7 +21,6 @@ faqs:
     answer: "If everything feels urgent, it means external demands are overriding your internal priorities. Create a strict 'Do Not Disturb' block for the first 30 minutes of your workday without checking emails or messaging apps, devoting that window exclusively to Quadrant 2 strategy or learning. Securing this small focus window acts as a catalyst to prevent future firefighting."
   - question: "What is the objective standard for distinguishing between 'Important' and 'Urgent' tasks?"
     answer: "'Urgent tasks' are driven by external demands requiring immediate reaction (emails, messaging alerts, impending deadlines). Conversely, 'Important tasks' directly align with your long-term goals, core values, and capability building, regardless of external pressure. Ask yourself: 'Will ignoring this task significantly impact my life 1 year from now?' If yes, it is Important."
-
 ---
 
 "I have two kinds of problems, the urgent and the important. The urgent are not important, and the important are never urgent." 📊

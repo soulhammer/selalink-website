@@ -21,7 +21,6 @@ faqs:
     answer: "Sim. O acetaldeído liberado alterava temporariamente a respiração fornecendo um estímulo único, enquanto os sinais olfativos enviavam alertas de despertar ao sistema límbico."
   - question: "Quais aromas são recomendados para a ancoragem aromática moderna?"
     answer: "O alecrim (comprovado cientificamente por ajudar no foco), a hortelã-pimenta ou o eucalipto (que aliviam a fadiga) são altamente recomendados. Aromas cítricos como limão também possuem efeitos positivos."
-
 ---
 
 Friedrich Schiller, o grande poeta e dramaturgo que liderou a era de ouro do Classicismo de Weimar ao lado de Johann Wolfgang von Goethe, deixou uma marca indelével na literatura com obras-primas como 'Os Salteadores' (Die Räuber) e 'Guilherme Tell' (Wilhelm Tell). No entanto, dentro da gaveta de sua escrivaninha escondia-se um segredo peculiar e penetrante.

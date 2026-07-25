@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, lyrisch geprägte Kurzgeschichten, Gedichte oder reflexive Essays sind zur Linderung mathematischer kognitiver Ermüdung weit wirksamer als lange, handlungsorientierte Romane."
   - question: "Ist es in Ordnung, auf einem E-Book-Reader zu lesen?"
     answer: "Gedruckte Papierbücher sind am besten, aber E-Ink-Reader mit Frontbeleuchtung strahlen kaum schlafstörendes Blaulicht ab und sind ebenfalls gut geeignet."
-
 ---
 
 "Die Wissenschaft lehrt uns, was das Universum ist, aber die Poesie lehrt uns, wer wir sind." 📜

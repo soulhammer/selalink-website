@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apa yang harus dilakukan jika saya berbuat curang atau terlalu toleran saat memberi nilai?"
     answer: "Karena itulah Anda wajib menetapkan kriteria objektif yang terukur daripada mengandalkan perasaan. Gunakan data seperti 'Apakah timer deep work benar-benar melebihi 3 jam?' alih-alih 'perasaan saya fokus'. Menggabungkan kriteria kuantitatif dengan data menutup celah pembenaran diri."
-
 ---
 
 "Rapor harian di buku catatan saya adalah cermin paling jujur yang mengendalikan saya. Usaha sadar untuk meraih nilai 'A' adalah pendorong utama pencapaian akademis saya."

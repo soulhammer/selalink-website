@@ -21,7 +21,6 @@ faqs:
     answer: "A anotação comum captura texto de forma passiva. Em contraste, o método de Daguerre 'expõe' ativamente a ideia no córtex visual por 3 segundos antes de escrever. Isso gera uma instantânea sensorial para que, ao revisar uma palavra-chave mais tarde, o contexto original seja reconstituído."
   - question: "O que devo fazer se estiver caminhando ou dirigindo e não puder escrever imediatamente?"
     answer: "Execute primeiro a fixação visual de 3 segundos para gravar a imagem no córtex occipital e, em seguida, grave uma nota de voz rápida no celular. Como o processo de exposição foi concluído previamente, um curto áudio conservará todo o contexto."
-
 ---
 
 "A luz é o pincel que pinta, e a chapa de prata é o recipiente eterno que guarda aquele instante." 📷

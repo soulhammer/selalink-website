@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut. Sein freundschaftlich verbundener Biograf John Aubrey hielt in *Brief Lives* fest, dass Hobbes ein Tintenfass am Knauf seines Stockes anbrachte und Papier mit sich trug, um Gedanken auf Spaziergängen direkt zu notieren."
   - question: "Ist eine Sprachnachricht oder das Tippen von Text unterwegs effektiver?"
     answer: "Sprachnachrichten sind beim Gehen weit überlegen, da sie kaum visuelle Aufmerksamkeit erfordern, was Sicherheit und Tempo erhöht. Das Tippen verlangt Feinmotorik und Blickkontakt zum Display. Nutzen Sie unterwegs Sprachaufnahmen."
-
 ---
 
 "Auf seinen Spaziergängen ging er viel und dachte nach... und sein Gehstock hatte ein Tintenfass am Knauf." 🦯

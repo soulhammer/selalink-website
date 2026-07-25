@@ -21,7 +21,6 @@ faqs:
     answer: "¡Sí, totalmente! La clave no es la habilidad artística, sino la estructuración de la acción y la simulación. Usar herramientas como Figma, Miro o aplicaciones de mapas mentales para organizar bloques y texto ofrece los mismos beneficios cognitivos."
   - question: "¿Qué debo hacer si surgen variables imprevistas durante la ejecución que se desvían del guion gráfico?"
     answer: "El guion gráfico es una guía flexible. Si surgen imprevistos, haga una breve pausa, revise la alternativa anotada en esa casilla, realice una simulación mental de 10 segundos del nuevo camino y adapte su acción."
-
 ---
 
 "Una película no se hace en el rodaje. Se completa al 100% en el papel y en la mente antes de empezar a filmar. Ir al set es solo el proceso mecánico de copiar el plano." 🎬

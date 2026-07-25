@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Muss ich unbedingt Müll sammeln oder reicht einfaches Gehen?"
     answer: "Gehen allein aktiviert das DMN, aber die Kombination aus altruistischer Handlung (Müllsammeln) und physischem Ordnungsschaffen setzt mehr Dopamin und Serotonin frei, was zu ausgeprägter geistiger Klarheit führt."
-
 ---
 
 "Das Aufsammeln von Müll ist meine Art, meinen Kopf zu klären und die Natur genau zu betrachten." 🌿

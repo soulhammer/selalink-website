@@ -21,7 +21,6 @@ faqs:
     answer: "Ja. Wenn Sie so schreiben, als würden Sie sich an jemanden wenden, der ohne Vorurteile zuhört (wie ein imaginärer Theo), wird die ehrliche Verbalisierung und Entgiftung des Gehirns maximiert."
   - question: "Kann ich eine digitale Notiz-App anstelle von Handschrift verwenden?"
     answer: "Zur emotionalen Reinigung ist Handschrift viel vorteilhafter, da sie die somatosensorische Hirnrinde stimuliert und den Präfrontalkortex beruhigt. Ein analoges Notizbuch wird empfohlen."
-
 ---
 
 Vincent van Gogh (1853–1890), einer der größten Maler der Kunstgeschichte des späten 19. Jahrhunderts und Pioniere des Expressionismus, verkaufte zu Lebzeiten in extremer Armut und Isolation nur ein einziges Gemälde, hinterließ aber unsterbliche Meisterwerke. Als Meister des französischen Postimpressionismus schrieb er im Laufe seines Lebens über 660 Briefe an seinen Bruder Theo, um die Einsamkeit zu überwinden. Jeden Abend trat er von der Leinwand zurück, zündete eine Kerze an und schrieb seine quälenden Gedanken in Briefform nieder, um seinen Geist zu reinigen.

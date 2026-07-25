@@ -21,7 +21,6 @@ faqs:
     answer: "Das Entsperren eines Smartphones und das Suchen einer App setzt Sie Benachrichtigungen, Nachrichten und E-Mails aus, die den Fokus rauben und flüchtige Inspirationen verfliegen lassen. Ein analoges Notizbuch ist dagegen sofort einsatzbereit; der taktile Druck des Stifts stimuliert die Gehirnrinde und aktiviert den RAS-Filter des Gehirns kraftvoll."
   - question: "Gibt es reale Beispiele, in denen sich eine kleine Notiz in Bransons Notizbuch zu einem großen Geschäftserfolg entwickelte?"
     answer: "Ja. Virgin Atlantic Airways entstand aus einer einzigen Notiz. Als ein Flug nach Puerto Rico gestrichen wurde, schrieb Branson: 'Möglichkeit eines Charterflugs für gestrandete Passagiere?' Er erkundigte sich nach den Charterkosten, verkaufte den gestrandeten Passagieren Einzeltickets über eine Schultafel und ließ das Flugzeug starten. Diese Notiz war der Funke für eine globale Fluggesellschaft."
-
 ---
 
 "Egal wie trivial eine Idee erscheinen mag, wenn man sie nicht auf der Stelle aufschreibt, ist sie für immer verloren. Mein Notizbuch und mein Stift sind die größten Werkzeuge, die ich besitze." 📓

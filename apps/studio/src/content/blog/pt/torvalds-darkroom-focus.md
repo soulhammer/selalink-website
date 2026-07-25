@@ -21,7 +21,6 @@ faqs:
     answer: "Um contraste excessivamente alto na escuridão total causa fadiga ocular. Portanto, diminuir o brilho do monitor para combinar com o ambiente escuro ou instalar uma luz de fundo suave (como fitas de LED indiretas) atrás do monitor previne o cansaço do nervo óptico mantendo uma alta imersão."
   - question: "O que devo fazer se não tiver uma lavanderia ou um quarto isolado em casa?"
     answer: "Não precisa ser um quarto isolado especial. Basta fechar a porta de um quarto normal, sentar-se de costas para a parede para manter o campo visual tranquilo, ou instalar uma divisória física para que não haja estímulos cognitivos visuais além do monitor a 1,5 metro da mesa."
-
 ---
 
 "Para mim, o melhor local de trabalho é totalmente silencioso, escuro e monótono, sem nenhuma decoração ou distração." 💻

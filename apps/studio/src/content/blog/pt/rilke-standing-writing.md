@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "O que devo fazer se sentir dores na sola dos pés ou na lombar ao usar uma mesa de pé?"
     answer: "Coloque um tapete antifadiga espesso sob os pés ou use chinelos estofados, e ative levemente os músculos do core para evitar o arqueamento excessivo da coluna."
-
 ---
 
 "A arte é um passo solitário além de si mesmo em direção a um mundo mais amplo." ✍️

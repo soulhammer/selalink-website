@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Wie kann ich eine Reizblockade-Zone schaffen, wenn ich zu Hause kein separates Arbeitszimmer habe?"
     answer: "Auch ohne separaten Raum reicht es aus, eine Schreibtisch-Trennwand aufzustellen oder Noise-Cancelling-Kopfhörer zu nutzen, um eine virtuelle Barriere gegen Reize zu errichten."
-
 ---
 
 "Erforsche die Fakten, beobachte die Fakten, sammle die Fakten." 🔔

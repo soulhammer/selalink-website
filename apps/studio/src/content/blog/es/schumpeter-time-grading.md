@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Qué debo hacer si me descubro siendo demasiado indulgente o haciendo trampa con las notas?"
     answer: "Por eso se deben fijar rúbricas objetivas y cuantificables en lugar de sensaciones. Por ejemplo, evalúe si el temporizador de trabajo profundo superó las 3 horas en lugar de 'sentí que me concentré'. Combinar datos (tiempo de uso de apps, páginas escritas) elimina pretextos y enfrenta la realidad."
-
 ---
 
 "El boletín de calificaciones diario en mi diario es el espejo más honesto que me controla. El esfuerzo consciente por obtener una 'A' fue el motor de mis logros académicos."

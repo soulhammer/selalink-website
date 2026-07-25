@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Können qualitative kreative Planungen oder Lernphasen auch mit quantitativen Kennzahlen wie Wortanzahl oder Zeit erfasst werden?"
     answer: "Ja. Bei kreativen Planungen können Sie anstelle von Wortzahlen wertvolle Output-Einheiten definieren, wie 'Anzahl generierter Kernideen', 'gesammelte Referenzen' oder 'ausgearbeitete Gliederungspunkte', um das visuelle Feedback effektiv anzuwenden."
-
 ---
 
 "Bildung ist das, რაც übrig bleibt, wenn man all das vergessen hat, was man gelernt hat." 📈

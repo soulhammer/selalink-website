@@ -21,7 +21,6 @@ faqs:
     answer: "Ja. Bei der Zeiterfassung oder beim Verfassen eines Arbeitstagebuchs lässt sich die Methode perfekt anwenden, indem man Schuldgefühle ausblendet und nur tatsächliche Aufgaben mit Zeitstempeln dokumentiert."
   - question: "Wie kann ich einfach zwischen subjektiven Gefühlen und objektiven Fakten unterscheiden?"
     answer: "Wenden Sie das Kriterium an: 'Handelt es sich um eine konkrete Handlung oder Zahl, die eine Videokamera aufnehmen könnte?' Lassen Sie Gedanken oder Bewertungen, die nicht aufgenomme werden können, einfach weg."
-
 ---
 
 "Erst wenn wir das Verhalten von Kindern so beobachten, wie es wirklich ist, offenbart sich das große Potenzial in ihnen." 📝

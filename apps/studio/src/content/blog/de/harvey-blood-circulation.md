@@ -21,7 +21,6 @@ faqs:
     answer: "Ersetzen Sie Aussagen wie 'Kunden mögen das Produkt' durch messbare Kennzahlen: Nutzerzuwachs, Verweildauer und Abwanderungsquote."
   - question: "Was tun, wenn quantitative Kennzahlen der eigenen Intuition widersprechen?"
     answer: "Vertrauen Sie den gemessenen objektiven Zahlen mehr als Ihrer Intuition. Historisch gesehen ist Intuition oft ein Schutzmechanismus des Gehirns zur Verteidigung alter Denkweise."
-
 ---
 
 "Die Wahrheit liegt nicht in der Tradition der Lehrbücher, sondern in den objektiv gemessenen Werten der Natur." 🫀

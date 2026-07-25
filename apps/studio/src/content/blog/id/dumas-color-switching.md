@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, tentu saja. Mekanisme mendasarnya bergantung pada pengondisian sensorik antara masukan warna visual dan kondisi kognitif tertentu, terlepas dari tekstur kertas. Mengatur tema latar belakang kanvas yang berbeda dalam aplikasi tablet, warna tag folder yang disesuaikan di Notion, atau tema UI profil browser memberikan sinyal priming saraf yang identik."
   - question: "Apakah menetapkan terlalu banyak variasi warna akan memicu kelebihan beban kognitif terbalik atau kebingungan?"
     answer: "Ya, tepat sekali. Agar otak dapat mengikat rona visual ke kondisi kognitif tertentu secara organik, diperlukan pembelajaran asosiatif yang berulang dan konsisten. Menggunakan 5 atau lebih kategori warna yang rumit mengubah isyarat visual menjadi kekacauan sensorik, merusak efek priming. Batasi sistem Anda secara ketat hingga 2 atau 3 domain makro."
-
 ---
 
 "Warna kertas bukanlah sekadar keinginan tiba-tiba. Ini adalah kunci yang mengarahkan imajinasi saya secara langsung ke dalam genre tertentu." ✍️

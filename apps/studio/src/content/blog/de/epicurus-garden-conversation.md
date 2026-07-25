@@ -21,7 +21,6 @@ faqs:
     answer: "Kontroverse Themen schütten Adrenalin und Cortisol aus. Eine Vorab-Regel wie 'Heute sprechen wir über persönliche Gedanken oder Bücher anstelle von Nachrichten' schützt die Ataraxia der Gruppe."
   - question: "Was tun, wenn wöchentliche Treffen mit Freunden zeitlich nicht machbar sind?"
     answer: "Wöchentliche Treffen sind nicht notwendig. Ein monatliches persönliches Treffen oder ein ruhiges 30-minütiges Telefonat alle zwei Wochen reicht völlig aus, um die Oxytocin-Pfade zu stimulieren."
-
 ---
 
 "Wir sollten vor allem darauf achten, mit wem wir essen und trinken, bevor wir darauf achten, was wir essen und trinken." 🍇

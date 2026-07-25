@@ -21,7 +21,6 @@ faqs:
     answer: "Quedarse dormido cuando se está agotado es natural. Sin embargo, sentarse en un escritorio y hacer un breve registro de 5 minutos como si escribiera un diario en lugar de estar en la cama ayuda a prevenir la somnolencia prematura y la inercia del sueño."
   - question: "¿Qué debo hacer si la culpa personal me impide dormir por la noche?"
     answer: "Detenga inmediatamente la autoindagación si comienza la rumiación emocional. En su lugar, practique concluir la reflexión después de anotar una opción alternativa como 'Lo que sucedió no se puede deshacer, mañana haré solo 1 cosa de manera diferente'."
-
 ---
 
 "No dejes que el sueño cierre tus ojos antes de haber revisado tres veces las acciones del día." 🌙

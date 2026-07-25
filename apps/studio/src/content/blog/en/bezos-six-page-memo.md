@@ -21,7 +21,6 @@ faqs:
     answer: "When people are asked to read beforehand, busy schedules often cause them to skim or skip reading entirely. By enforcing a 30-minute silent reading session in the meeting room, Bezos guaranteed complete cognitive synchronization, ensuring every participant enters the discussion with identical depth and context."
   - question: "Doesn't authoring a 6-page narrative memo take too much time and effort?"
     answer: "Yes, it requires significantly more rigor and cognitive effort from the author. However, the writing process itself serves as a rigorous self-audit that exposes logical flaws beforehand, drastically reducing wasteful follow-up meetings and accelerating overall organizational decision-making."
-
 ---
 
 "Writing a good narrative is evidence of deep, structured thinking. Bullet points hide sloppy thinking." 📝

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Comment puis-je utiliser le nettoyage comme méditation ?"
     answer: "Au lieu de chercher à finir rapidement, il est efficace de se concentrer sur le retour sensoriel lui-même, comme le son du balayage et la sensation tactile dans vos mains."
-
 ---
 
 « Balayer la poussière du jardin n'est pas simplement enlever des feuilles mortes, c'est éliminer le bruit inutile de l'esprit et faire face à l'espace vide de la nature. »

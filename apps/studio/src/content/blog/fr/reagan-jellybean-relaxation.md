@@ -21,7 +21,6 @@ faqs:
     answer: "Des recherches neurophysiologiques montrent que le taux de cortisol commence à diminuer et que les ondes cérébrales passent aux ondes alpha relaxantes environ 2 à 3 minutes après le début de la mastication. Il est donc essentiel de rester concentré sereinement sur la mastication pendant au moins 2 à 3 minutes pour en ressentir les bienfaits."
   - question: "Existe-t-il vraiment un principe scientifique selon lequel la mastication aide à réprimer l'envie de fumer ou les accès de boulimie ?"
     answer: "Exactement. En cas de fortes envies (cigarettes, nourriture), le cerveau réclame un apport rapide en dopamine. Offrir une stimulation orale alternative par la mastication permet au cerveau de satisfaire partiellement son besoin de récompense (par libération détournée de dopamine), aidant à réguler les pics d'impulsion. En sciences du comportement, on appelle cela la 'formation de comportement alternatif'."
-
 ---
 
 Ronald Reagan, 40e président des États-Unis, était un dirigeant politique majeur qui a contribué à la fin de la Guerre froide, a redynamisé l'économie américaine et a fait preuve d'un leadership de communication exemplaire. En tant que chef d'une superpuissance mondiale soumis au poids immense des crises nationales et des décisions cruciales, quel était son secret de relaxation cognitive ? 🍬

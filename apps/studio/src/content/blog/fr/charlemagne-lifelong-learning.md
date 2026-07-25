@@ -21,7 +21,6 @@ faqs:
     answer: "Pour la pratique moderne, évitez le papier fin volant. Placez plutôt un petit carnet rigide à couverture dure sur votre table de chevet, ou fixez un petit porte-bloc en bois sur une étagère près du lit."
   - question: "Écrire sous un éclairage faible lors de réveils nocturnes ne risque-t-il pas de fatiguer les yeux ?"
     answer: "L'écriture nocturne concerne de courtes notes de 1 à 2 minutes, ce qui limite la fatigue oculaire. La clé est d'utiliser une veilleuse à lumière chaude ambrée de faible intensité, offrant juste assez de lumière pour tracer les lettres sans réprimer la mélatonine."
-
 ---
 
 « Posséder le savoir est une bonne chose, mais le pratiquer et l'inscrire dans sa vie est bien plus grand encore. » 👑

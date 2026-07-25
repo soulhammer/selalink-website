@@ -21,7 +21,6 @@ faqs:
     answer: "Bolas antiestresse de silicone, fidget cubes, mini kalimbas, peças de madeira lisa ou pedras polidas são excelentes alternativas."
   - question: "Como a estimulação tátil das pontas dos dedos aumenta a criatividade?"
     answer: "As mãos ocupam a maior proporção dos córtex motor e somatossensorial do cérebro. Estimular os dedos ativa vias neurais inativas, estimulando a associação criativa de ideias."
-
 ---
 
 Auguste Rodin (1840–1917), o mestre da escultura moderna que soprou vitalidade e emoção à pedra e ao bronze com obras como 'O Pensador' e 'O Portão do Inferno'. De onde vinha a tridimensionalidade e inspiração que revolucionaram a história da arte? 🗿

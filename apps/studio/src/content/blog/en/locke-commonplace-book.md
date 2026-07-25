@@ -21,7 +21,6 @@ faqs:
     answer: "Locke drew a grid combining the 26 letters of the alphabet with the 5 vowels (a, e, i, o, u) on his journal's first page. He recorded page numbers in the grid intersection corresponding to a keyword's initial letter and first subsequent vowel (e.g., 'Epistola' went under row E, column i), creating a fast 2D address-retrieval system."
   - question: "Is analog paper note-taking superior to modern digital knowledge management software?"
     answer: "Analog handwriting stimulates the somatosensory cortex strongly, aiding deep initial encoding, while digital tools excel at lightning-fast searching and dynamic hyperlinking. The ideal approach is a hybrid system: capturing ideas in an analog journal first, then indexing and consolidating them inside a digital database."
-
 ---
 
 "An unwritten thought vanishes like midsummer fog without a trace. Only systematically indexed symbols transform the human brain's blank slate into an immortal repository of knowledge." 📖

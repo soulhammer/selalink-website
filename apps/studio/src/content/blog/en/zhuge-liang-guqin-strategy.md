@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, purely focused auditory immersion listening to orchestral or acoustic string music with unique resonance yields identical alpha wave induction effects."
   - question: "Why pick only 1 task out of numerous to-dos?"
     answer: "The brain overheats when performing simultaneous multitasking. Concentrating energy on 1 crucial core task allocates prefrontal cortex resources efficiently."
-
 ---
 
 In the Three Kingdoms period of late Eastern Han, Zhuge Liang (諸葛亮) was the master strategist who assisted Liu Bei in founding Shu Han (蜀漢), crafted the Tripartite Division of China, and earned fame as a legendary Prime Minister (名宰相) amidst fierce conflicts between Wei, Shu, and Wu. Shoulder-deep in responsibility for the lives of hundreds of thousands of soldiers and the survival of his nation across battles like Red Cliffs and the Southern Campaign, he endured extreme emotional pressure daily. 🎶

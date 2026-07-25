@@ -21,7 +21,6 @@ faqs:
     answer: "Não. Observar formas geométricas inanimadas e limites de luz — como as sombras de postes projetadas em uma parede ou raios de luz atravessando um copo de vidro — é igualmente eficaz para ativar o córtex visual."
   - question: "É permitido cortar ou aplicar filtros digitais às fotos após o disparo?"
     answer: "Cartier-Bresson evitava estritamente o corte e a edição artificial. Forçar-se a aperfeiçoar a composição no momento exato do disparo é precisamente o que treina o julgamento espacial, sendo fortemente recomendável conservar as fotos intactas."
-
 ---
 
 "Fotografar é colocar a cabeça, o olho e o coração na mesma linha de mira." 📷

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Warum bevorzugte Simone Weil altgriechische Texte für die morgendliche Rezitation?"
     answer: "Sie glaubte, dass fremde klassische Sprachen bewusste kognitive Anstrengung erfordern. Dies verhindert passive Gewöhnung und zwingt das Gehirn zu 100 % Aufmerksamkeit bei jeder Silbe."
-
 ---
 
 "Zu lernen, die volle Aufmerksamkeit zu schenken, ist der wahre Zweck aller Bildung und Philosophie." 📖

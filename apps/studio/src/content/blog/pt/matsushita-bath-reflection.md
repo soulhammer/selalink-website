@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Tomar banho de imersão todos os dias não é ineficiente para pessoas ocupadas?"
     answer: "Mergulhar em água morna por apenas 10 minutos é um mecanismo cognitivo de alta eficiência que relaxa os nervos simpáticos e ativa a DMN do cérebro."
-
 ---
 
 "Quando entrego meu corpo à água morna, o pesado sentido de dever do dia se esvazia e os olhos da verdadeira sabedoria se abrem." 🛀

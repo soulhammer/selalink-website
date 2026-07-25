@@ -21,7 +21,6 @@ faqs:
     answer: "No. Desde la ciencia cerebral, cuando la fricción mental se estanca, cambiar durante 20 minutos a otra tarea ventilará la mente y acelerará el tiempo de finalización general en más de un 40%."
   - question: "¿Cuál es el número máximo óptimo de pistas de tareas para diseñar al día?"
     answer: "Para proteger la batería mental de toma de decisiones, lo ideal es no superar 3 categorías principales de tareas al día. Definir 4 o más pistas provoca un gasto excesivo por cambio de foco."
-
 ---
 
 Pablo Picasso (1881–1973), el genio español que revolucionó el arte moderno del siglo XX como cofundador del cubismo. En su espacioso estudio, Picasso mantenía decenas de lienzos inacabados en paralelo. Cuando la inspiración se estancaba en una obra cubista, en lugar de forzar la mente, se trasladaba de inmediato a un lienzo contiguo (un bodegón o retrato) y continuaba pintando. Esta rutina flexible de cambio de tareas fue el motor de su inmensa productividad a lo largo de su vida.

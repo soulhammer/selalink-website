@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, physical walking alone boosts BDNF secretion and cerebral blood flow, increasing creativity by over 60%. When working alone, explain your ideas aloud to yourself in a mirror or walk while engaging in a Q&A with an imaginary critic to effectively simulate mirror neuron and metacognitive stimulation."
   - question: "Doesn't listening to sharp critique cause emotional hurt and dampen creative motivation?"
     answer: "If the brain misinterprets feedback as a personal attack, the amygdala triggers emotional defensiveness. To prevent this, strictly disconnect your personal identity from your output. Remind yourself that feedback is neutral data designed to strengthen the work's structural integrity, allowing receptive prefrontal circuits to function smoothly."
-
 ---
 
 "We paced around the table in the dark every night, talking. In that walking rhythm, the souls of our novels finally came to life." 🕯️

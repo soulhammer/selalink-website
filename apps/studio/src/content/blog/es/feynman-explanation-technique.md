@@ -21,7 +21,6 @@ faqs:
     answer: "No necesita un niño real. Puede imaginar a un compañero, un peluche en su escritorio o usar un chatbot de IA configurado para un nivel de 10 años. Lo esencial es el filtro mental: eliminar la jerga técnica."
   - question: "¿Es normal que las frases se vuelvan largas e incómodas al eliminar la jerga técnica?"
     answer: "¡Sí, es totalmente natural! El esfuerzo por traducir conceptos a un lenguaje sencillo —incluso si alarga las frases— es el proceso que maximiza la metacognición. Una vez interiorizado el concepto, su mente lo sintetizará en explicaciones concisas e intuitivas."
-
 ---
 
 "Si no puedes explicarlo con palabras sencillas, significa que no lo has entendido del todo." 📝

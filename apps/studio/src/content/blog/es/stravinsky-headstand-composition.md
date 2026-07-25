@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Qué deben hacer los principiantes que no pueden hacer el pino en absoluto?"
     answer: "Incluso si no puedes apoyarte en una pared, adoptar la postura del delfín (elevando las caderas en la colchoneta) o elevar las piernas sobre una silla inclinando el torso hacia el suelo proporciona los mismos beneficios de flujo sanguíneo y estimulación vestibular."
-
 ---
 
 "Cuando las ideas se estanquen, orienta tu cabeza hacia el suelo. Tu cerebro empezará a pensar de forma diferente de inmediato." 🤸‍♂️

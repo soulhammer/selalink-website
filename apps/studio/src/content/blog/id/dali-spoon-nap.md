@@ -21,7 +21,6 @@ faqs:
     answer: "Memegang sendok mengubah relaksasi otot fisik pada awal tidur menjadi sinyal suara yang membangunkannya secara instan. Ini mencegah otaknya memasuki tidur gelombang lambat NREM Tahap 3—menghindari inersia tidur—sambil memungkinkannya memanen citra surealis hipnagogik."
   - question: "Bagaimana cara mengadaptasi rutinitas ini di lingkungan yang sensitif terhadap kebisingan seperti kantor atau perpustakaan?"
     answer: "Anda dapat meletakkan handuk tebal yang terlipat atau bantal di atas piring untuk meredam suara menjadi dentuman pelan, atau mengatur pengatur waktu getar senyap selama 1 hingga 2 menit di smartphone Anda. Ini memungkinkan Anda bangun secara lembut selama tidur ringan NREM Tahap 1."
-
 ---
 
 "Inspirasi tertinggi mengungkapkan dirinya pada batas teratur saat bangun, di mana fantasi bawah sadar bersimpangan dengan kesadaran rasional." 🎨

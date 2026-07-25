@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "How did Thoreau write notes while walking for 4 hours?"
     answer: "He walked with a small, handmade leather notebook and pencil in his coat pocket. When a thought occurred, he paused, stood under a tree, and captured the details of plants or raw sentences immediately."
-
 ---
 
 "I think that I cannot preserve my health and spirits, unless I spend four hours a day at least—and it is commonly more than that—sauntering through the woods and over the hills and fields, absolutely free from all worldly engagements." 🚶‍♂️

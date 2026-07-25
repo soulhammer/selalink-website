@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿El ejercicio matutino intenso no le deja exhausto durante la mañana?"
     answer: "Es crucial modular la intensidad del ejercicio. En lugar de entrenamientos extenuantes que agoten la energía, la clave son sesiones breves de 15 a 20 minutos con peso corporal que eléven de forma temporal la frecuencia cardíaca y la temperatura corporal para estimular la circulación y el alerta."
-
 ---
 
 "El trabajo físico es un deber y una salvación para quienes realizan trabajo mental. Una mente que no mueve el cuerpo está destinada a oxidarse." 🌾

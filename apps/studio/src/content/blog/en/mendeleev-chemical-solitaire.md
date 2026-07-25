@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Can mind-mapping software replace physical sticky notes or paper cards?"
     answer: "Mind-mapping software helps structure data, but tactile input from physically sliding cards with your fingers stimulates the motor and parietal cortices far more intensely. Neuroscientific research shows physical 3D finger manipulation induces superior neural activity for idea synthesis and memory retention compared to on-screen clicking, making physical cards much more effective."
-
 ---
 
 "Elements have their own natural pairs. When you shuffle and arrange the deck of cards, the perfect order decreed by Nature reveals itself." 🃏

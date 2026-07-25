@@ -21,7 +21,6 @@ faqs:
     answer: "Le cœur de la métacognition n'est pas la perfection, mais un « auto-contrôle précis ». Confronter et consigner honnêtement des chiffres bas élimine le déni cognitif et renforce la résilience pour ajuster la stratégie."
   - question: "Est-il totalement efficace de gérer tous les indicateurs uniquement via des outils numériques comme Notion ou Excel ?"
     answer: "Les appareils numériques exposent aux distractions et aux notifications. Comme le pratiquait Washington, inscrire manuellement ses indicateurs dans un registre papier procure un retour moteur fin qui favorise une réflexion métacognitive plus profonde."
-
 ---
 
 « L'habitude de tenir des registres est le miroir le plus honnête pour corriger les imperfections de la pensée. » ☀️

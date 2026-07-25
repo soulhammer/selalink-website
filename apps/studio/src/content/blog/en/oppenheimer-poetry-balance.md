@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, short stories with strong lyrical tone, poetry, or reflective essays are far more effective at relieving numerical cognitive fatigue than long plot-heavy novels."
   - question: "Is it okay to read on an e-book reader?"
     answer: "Physical paper books are best, but front-lit E-ink e-readers emit minimal sleep-disrupting blue light and are perfectly acceptable."
-
 ---
 
 "Science teaches us what the universe is, but poetry teaches us who we are." 📜

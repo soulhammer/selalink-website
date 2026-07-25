@@ -21,7 +21,6 @@ faqs:
     answer: "Ya! Membuka kunci mekanisme kemiringan kursi kantor Anda dan menggoyangkan tubuh bagian atas Anda secara lembut maju-mundur melibatkan reseptor vestibular telinga dalam, mencegah beban statis dan menstimulasi jalur parasimpatis."
   - question: "Berapa kecepatan atau irama optimal untuk bergoyang guna menginduksi relaksasi sistem saraf?"
     answer: "Irama ideal untuk menginduksi relaksasi parasimpatis adalah antara 0,5 Hz dan 1 Hz. Menyelesaikan satu siklus maju-mundur penuh setiap 1,5 hingga 2 detik menciptakan gelombang lembut yang secara optimal menenangkan sistem saraf pusat."
-
 ---
 
 "Di tengah penderitaan fisik yang parah dan krisis nasional, saya membutuhkan ruang yang menstabilkan tubuh dan sistem saraf saya. Gerakan lembut kursi goyang menenangkan nyeri punggung saya dan memulihkan ketenangan di Oval Office." 🪑

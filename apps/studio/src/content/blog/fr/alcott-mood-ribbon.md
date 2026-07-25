@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Que dois-je faire si mon entourage n'apprécie pas cette routine de signal sous prétexte qu'elle nuit à la communication ?"
     answer: "Il convient d'éviter de laisser le signal de blocage activé pendant des périodes excessivement longues. Il est essentiel de limiter la durée de concentration à un maximum de 50 minutes à 1 heure, et d'instaurer la confiance en démontrant activement que vous êtes disponible pour discuter en dehors de ces créneaux."
-
 ---
 
 « C'est lorsque la tempête fait rage que j'apprends à gouverner mon navire. » 🎀

@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, absolutamente. El mecanismo fundamental se basa en el condicionamiento sensorial entre la entrada de color y los estados cognitivos. Definir temas de fondo distintos en aplicaciones de notas, colores de carpetas en Notion o temas de interfaz en navegadores envía señales de primado idénticas a la corteza prefrontal."
   - question: "¿Asignar demasiadas variaciones de color provocará una sobrecarga cognitiva inversa o confusión?"
     answer: "Sí, exactamente. Para que el cerebro vincule un color a un estado cognitivo, se requiere un aprendizaje asociativo constante. Usar 5 o más colores convierte las señales visuales en desorden sensorial, anulando el primado. Limite su sistema estrictamente a 2 o 3 dominios y conserve los colores asignados para maximizar los beneficios."
-
 ---
 
 "El color del papel no es un mero capricho. Es la llave que guía mi imaginación directamente hacia un género específico." ✍️

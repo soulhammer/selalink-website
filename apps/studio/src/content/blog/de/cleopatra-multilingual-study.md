@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, die Effizienz ist sehr gering. Passives Anschauen stimuliert nur das Wernicke-Areal, aktiviert aber nicht die Sprachmotorik des Broca-Areals. Erst das laute Sprechen und das aktive Formulieren eigener Sätze regen die synaptische Plastizität spürbar an."
   - question: "Führt das gleichzeitige Lernen von zwei oder mehr Fremdsprachen zu kognitiver Überlastung?"
     answer: "Bei Anfängern kann das gleichzeitige Lernen zu Verwechslungen führen. Sobald jedoch Grundkenntnisse vorhanden sind, wirkt der Wechsel zwischen verschiedenen Grammatiksystemen als kognitives Training, das die präfrontale exekutive Kontrolle stärkt."
-
 ---
 
 "Ihre Zunge war wie ein vielsaitiges Instrument, das sie mühelos in jede beliebige Sprachestimmen konnte." 👑

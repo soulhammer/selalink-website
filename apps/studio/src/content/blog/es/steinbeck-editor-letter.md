@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Es efectiva esta rutina de cartas para tareas que no son de escritura, como cálculos o diseño?"
     answer: "¡Muy efectiva! La ansiedad por empezar proviene de la misma región cerebral (amígdala). Garabatear antes de usar software de diseño o tomar notas breves antes de programar crea un colchón cognitivo que lubrica tu creatividad."
-
 ---
 
 "Al escribir una carta cada mañana, mis dedos se aflojan y mi mente se prepara para hablar con los personajes de mi novela sin fricción." ✍️

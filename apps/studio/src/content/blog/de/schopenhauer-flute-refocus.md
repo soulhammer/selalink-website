@@ -21,7 +21,6 @@ faqs:
     answer: "Absolut. Es geht nicht um fehlerfreies Spiel. Lassen Sie klassische Musik laufen und steuern Sie Ihre Atmung bewusst (5 Sek. Einatmen, 5 Sek. Ausatmen), um die Alpha-Wellen-Aktivierung zu erzielen."
   - question: "Warum stimuliert kaltes Gesichtswaschen den Vagusnerv und weckt das Gehirn?"
     answer: "Kaltes Wasser an Stirn und Wangen löst den Säugetier-Tauchreflex aus, der die Herzfrequenz senkt und die Sauerstoffversorgung des Gehirns erhöht. Dies stimuliert den Trigeminus- und Vagusnerv und vertreibt den Morgennebel."
-
 ---
 
 Arthur Schopenhauer, der große deutsche Philosoph und Autor von *Die Welt als Wille und Vorstellung*. Durch welche morgendliche Routine wurden seine messerscharfen intellektuellen Werke gereift?

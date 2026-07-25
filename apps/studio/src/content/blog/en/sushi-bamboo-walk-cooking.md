@@ -21,7 +21,6 @@ faqs:
     answer: "Yes! This is not about complex culinary recipes. Simply brewing drip coffee or carefully frying a single egg provides the full somatic sensory benefit."
   - question: "Does the physical act of cooking really reduce stress levels?"
     answer: "According to occupational therapy research, manipulating food ingredients with hands to create a finished result suppresses depressive neural signals and boosts self-efficacy."
-
 ---
 
 Su Dongpo (Su Shi, 1037–1101), a master poet, essayist, calligrapher, and statesman representing the Northern Song Dynasty. Despite being repeatedly exiled to remote areas like Huangzhou, Huizhou, and Hainan Island due to political strife, he conquered despair through his romantic optimism and sensual daily habits.

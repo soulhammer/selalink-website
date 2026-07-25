@@ -21,7 +21,6 @@ faqs:
     answer: "Oui. Une exposition modérée au froid renforce la souplesse du système nerveux autonome. En stimulant la noradrénaline, elle dissipe le brouillard matinal et aiguise la concentration préfrontale."
   - question: "Comment pratiquer un Bain d'air en toute sécurité pendant les mois d'hiver ?"
     answer: "En hiver, rester nu longtemps devant une fenêtre ouverte est dangereux. Adaptez le rituel en « Mini bain d'air » : ouvrez la fenêtre 1 à 2 minutes pour renouveler l'air, puis refermez-la et profitez de l'air frais de la pièce pendant 3 à 5 minutes."
-
 ---
 
 « Je me lève tôt presque chaque matin et je reste dans ma chambre sans aucun vêtement, une demi-heure ou une heure... C'est ce que j'appelle mon Bain d'air. » 💨

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Was kann ich tun, wenn beim Arbeiten am Stehpult die Fußsohlen oder der Rücken schmerzen?"
     answer: "Legen Sie eine dämpfende Anti-Ermüdungsmatte unter die Füße oder tragen Sie gepolsterte Hausschuhe und spannen Sie leicht die Rumpfmuskulatur an, um ein Hohlkreuz zu vermeiden."
-
 ---
 
 "Kunst ist ein einsamer Schritt über sich selbst hinaus in eine meilenweite Welt." ✍️

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah saya harus mempraktikkan kebiasaan ini setiap hari?"
     answer: "Ya, plastisitas saraf dimaksimalkan saat dipraktikkan pada waktu harian yang konsisten. Mempraktikkannya secara berkelanjutan pada waktu dan lokasi yang ditentukan akan memperkuat sirkuit neuroplastisitas."
-
 ---
 
 "Kejernihan filsafat saya seperti kemurnian cahaya yang menembus lensa kaca." 🔍

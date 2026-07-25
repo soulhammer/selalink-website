@@ -21,7 +21,6 @@ faqs:
     answer: "No. Physical handwriting provides tactile sensory feedback that broadly recruits motor and somatosensory cortices, engaging prefrontal cognitive control much more strongly. Furthermore, smartphone blue light suppresses nighttime melatonin secretion, disrupting sleep architecture. Using a physical paper notebook is strongly recommended."
   - question: "What should I do on days when I am too exhausted to write a full log before sleeping?"
     answer: "Writing a single line—such as 'Completed today: Task A'—is fully sufficient. The objective is not exhaustive perfection, but preserving the unbroken daily recording loop. This minimal action signals prefrontal control to your brain, lowering amygdala reactivity even on high-fatigue days."
-
 ---
 
 "Setting down the ocean's depth and the angles of the stars each night transformed the horror of the dark sea into the solid certainty of numbers." ⛵

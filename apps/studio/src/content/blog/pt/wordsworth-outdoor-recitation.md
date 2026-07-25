@@ -21,7 +21,6 @@ faqs:
     answer: "Ela escreveu em seus diários: 'William percorreu o caminho do jardim centenas de vezes esta manhã recitando poesia', detalhando como a velocidade dos passos mudava em proporção ao ritmo da recitação."
   - question: "Caminhar e recitar em uma esteira ergométrica produz o mesmo efeito?"
     answer: "Sim! Como o mecanismo fisiológico principal é a ativação do cerebelo através do passo, caminhar devagar na esteira enquanto recita produz exatamente a mesma sincronização de ondas cerebrais e feedback auditivo."
-
 ---
 
 "A poesia é o transbordamento espontâneo de sentimentos intensos: origina-se da emoção recolhida na tranquilidade." 🚶‍♂️

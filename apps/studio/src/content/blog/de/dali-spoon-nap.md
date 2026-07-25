@@ -21,7 +21,6 @@ faqs:
     answer: "Das Halten des Löffels verwandelte die Muskelentspannung beim Einnicken in ein akustisches Signal, das ihn sofort weckte. Dies verhinderte das Abgleiten in den Tiefschlaf (NREM Stufe 3) und ermöglichte das Einfangen traumhafter Bilder."
   - question: "Wie kann ich diese Routine in ruhigen Umgebungen wie Büros oder Bibliotheken anwenden?"
     answer: "Sie können ein dickes Handtuch oder Kissen auf den Teller legen, um das Geräusch zu dämpfen, oder einen leisen Vibrations-Timer für 1 bis 2 Minuten auf Ihrem Smartphone stellen. Dies ermöglicht ein sanftes Aufwachen im leichten NREM-Schlaf Stufe 1."
-
 ---
 
 "Die höchste Inspiration zeigt sich an der Schwelle des Aufwachens, wo die Phantasie des Unbewussten auf den wachen Verstand trifft." 🎨

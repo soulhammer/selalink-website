@@ -21,7 +21,6 @@ faqs:
     answer: "De forma alguma. Quando as metas são muito grandes, o medo de começar causa procrastinação, resultando em trabalho zero. Iniciar a ação diária com um micro-objetivo soma mais de 700 páginas em um ano, resultando em dois a três roteiros completos."
   - question: "Posso aplicar essa rotina de 2 páginas ao trabalho de escritório, programação ou estudos para exames?"
     answer: "Sim, com certeza! O segredo não é o número literal de '2 páginas', mas reduzir a tarefa a uma micro-unidade tão pequena que não ative o alarme da amígdala. Praticar 'escrever 1 parágrafo de um relatório' ou 'ler 2 páginas de um livro' garante os mesmos benefícios."
-
 ---
 
 "Não tente escrever uma grande obra-prima de uma só vez. Concentre-se apenas na regra de completar 2 páginas todos os dias. Escrever 2 páginas por dia durante um ano resulta em mais de 700 páginas, suficiente para dois ou três roteiros completos." 🎬

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Mengapa Tchaikovsky sangat mematuhi waktu jalan kaki selama dua jam?"
     answer: "Hal itu membantunya mengendalikan kecemasan psikologis melalui disiplin ketat, meningkatkan aliran darah otak melalui jalan kaki berkelanjutan selama dua jam, dan merelaksasi sistem saraf otonom sehingga melodi musik dapat mengalir secara alami."
-
 ---
 
 Pyotr Ilyich Tchaikovsky (1840–1893) adalah maestro musik Romantis Rusia yang menggubah melodi abadi seperti 'Danau Angsa', 'Fabel Nutcracker', dan 'Simfoni Pathétique'. Selalu berjuang melawan neurastenia dan kecemasan emosional, pendorong utama yang menopang hidupnya dan memunculkan ide-ide musik hebat adalah kebiasaannya berjalan kaki tepat dua jam setiap hari. 🚶‍♂️

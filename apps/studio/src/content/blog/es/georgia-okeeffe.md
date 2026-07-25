@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, el objeto exacto es irrelevante. Concentrarse intensamente durante 2 minutos en los detalles de cualquier objeto cotidiano (la mina del lápiz, las venas de una hoja, una grieta de cerámica) activa las mismas redes de atención."
   - question: "¿Es necesario usar una lupa o lente real?"
     answer: "Usar una lupa real intensifica el estímulo, pero no es obligatorio. Practicar un 'zoom consciente' a simple vista —reduciendo la mirada a una sección diminuta— ofrece los mismos beneficios neurológicos."
-
 ---
 
 "Si pinto la flor grande, se sorprenderán e invertirán tiempo en mirarla." 🌺

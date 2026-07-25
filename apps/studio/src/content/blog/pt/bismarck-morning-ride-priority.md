@@ -21,7 +21,6 @@ faqs:
     answer: "Está tudo bem. Não é uma falha, mas a prova de que você concentrou sua energia em um projeto substancial de alto impacto. Reagende o item não concluído como a tarefa nº 1 de amanhã de manhã, quando seu córtex pré-frontal estiver mais revigorado."
   - question: "Quais são as alternativas modernas de exercício à cavalgada matinal?"
     answer: "15 minutos de corrida, bicicleta ergométrica, swings com kettlebell, alongamentos Tabata ou caminhada rápida proporcionam exatamente o mesmo efeito neurofisiológico de aumentar o fluxo sanguíneo cerebral e liberar BDNF e dopamina."
-
 ---
 
 "Política é a arte do possível, e para tomar as melhores decisões, é preciso capturar o momento mais claro do cérebro." 🐎

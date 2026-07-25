@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, totalmente. Su biógrafo y amigo personal John Aubrey registró en *Breves vidas* que Hobbes instaló un tintero en la empuñadura de su bastón y llevaba papel en los bolsillos para anotar pensamientos durante sus paseos."
   - question: "¿Es más efectiva la grabación de voz o el tecleado para tomar notas sobre la marcha?"
     answer: "La grabación de voz es muy superior al caminar porque requiere mínima atención visual y motora, maximizando la seguridad y velocidad. Teclear exige coordinación fina y enfoque visual, causando interferencia cognitiva. Use notas de voz mientras se mueve."
-
 ---
 
 "En sus paseos caminaba mucho y meditaba... y su bastón tenía un tintero en la empuñadura." 🦯

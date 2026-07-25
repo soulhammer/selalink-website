@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, betul. Mekanisme gating talamus tidak hanya memblokir rasa sakit fisik tetapi juga sinyal kecemasan psikologis dan stres dengan cara yang persis sama."
   - question: "Berapa lama sprint imersi tingkat tinggi sebaiknya dipertahankan?"
     answer: "Antara 15 hingga 20 menit adalah yang paling ideal. Setelah mengerahkan sumber daya otak secara intensif, beristirahatlah sejenak untuk mencegah kelelahan mental."
-
 ---
 
 "Semua masalah manusia berasal dari ketidakmampuan manusia untuk duduk diam sendirian di dalam ruangan." 🧠

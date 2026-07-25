@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, com certeza! O benefício neurocientífico não depende da beleza caligráfica, mas da 'conexão instantânea entre entrada sensorial e memória de trabalho'. O reordenamento limpo pode ser feito mais tarde."
   - question: "Posso substituir a escrita manual por gravações de áudio digitais ou notas de voz?"
     answer: "As gravações de voz são excelentes para capturar fatos, mas carecem do feedback grafomotor. Para maximizar os benefícios, combine notas de voz com pequenas anotações à mão e setas para ativar circuitos motores."
-
 ---
 
 "Nesta grande cadeia de causas e efeitos, nenhum fato pode ser considerado isoladamente. A natureza é um todo vivo." 🌿

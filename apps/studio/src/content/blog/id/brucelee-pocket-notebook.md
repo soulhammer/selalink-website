@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, perekaman suara adalah metode yang sangat baik untuk memindahkan memori kerja secara cepat. Namun, format berbasis teks jauh lebih unggul untuk pemindaian visual dan strukturasi prefrontal di kemudian hari. Jika menggunakan memo suara, kami menyarankan untuk mengombinasikannya dengan fitur Speech-to-Text (STT) otomatis untuk mengarsipkan catatan sebagai data teks."
   - question: "Saya mencatat tetapi sering lupa untuk meninjaunya nanti. Bagaimana cara mengatasinya?"
     answer: "Pencatatan mencapai nilainya saat catatan ditinjau kembali dan dipadukan dengan tindakan nyata. Atur alarm harian atau kaitkan 'rutinitas pemindaian 1 menit' pada pemicu kebiasaan yang ada—seperti tepat sebelum kopi pagi atau mulai bekerja—untuk meninjau entri buku catatan kemarin secara mekanis selama 60 detik."
-
 ---
 
 "Mengetahui saja tidak cukup, kita harus menerapkan. Kemauan saja tidak cukup, kita harus melakukan." 🚶‍♂️

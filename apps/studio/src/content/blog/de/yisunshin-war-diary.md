@@ -21,7 +21,6 @@ faqs:
     answer: "Es muss nicht lang sein; schon drei Zeilen genügen. Wenn Sie 'eine Sache, die mich heute am meisten erschöpft hat', 'meine Gefühl dabei' und 'eine Sache davon, die ich morgen korrigieren kann' festhalten, arbeitet der emotionale Objektivierungsmechanismus des Gehirns genauso."
   - question: "Ist das Tippen in einer Smartphone-Tagebuch-App genauso effektiv?"
     answer: "Grundsätzlich ist die analoge Handschrift mit dem Stift auf Papier am effektivsten, da das taktile Feedback feine sensorische Daten an das Gehirn sendet und die kognitive Steuerung im Stirnlappen aktiviert. Wenn Sie jedoch beim Tippen Benachrichtigungen strikt blockieren und ehrlich schreiben, können Sie den emotionsregulierenden Effekt ebenfalls erleben."
-
 ---
 
 „Spät in der Nacht sitze ich allein im Kerzenschein und schreibe in mein Tagebuch, in Sorge um die Nation.“ 🖋️

@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak sama sekali. Ketika tujuan terlalu ambisius, rasa takut untuk memulai menyebabkan penundaan kronis, sering kali menghasilkan nol karya yang selesai. Memulai tindakan harian dengan target yang sangat kecil berakumulasi dalam setahun menjadi lebih dari 700 halaman."
   - question: "Bisakah saya menerapkan rutinitas 2 halaman ini untuk pekerjaan kantor umum, proyek perangkat lunak, atau belajar ujian?"
     answer: "Ya, tentu saja! Nilai utamanya terletak bukan pada angka literal '2 halaman', melainkan pada mengecilkan tugas menjadi mikro-unit yang sangat kecil yang tidak memicu alarm ancaman amigdala. Mempraktikkan 'menulis 1 paragraf laporan' atau 'membaca 2 halaman buku teks' memberikan manfaat yang identik."
-
 ---
 
 "Jangan mencoba menulis mahakarya besar sekaligus. Berfokuslah secara khusus pada aturan sederhana untuk menyelesaikan 2 halaman setiap hari. Jika Anda menulis 2 halaman setiap hari selama setahun, totalnya lebih dari 700 halaman—cukup untuk dua atau tiga skenario penuh." 🎬

@@ -21,7 +21,6 @@ faqs:
     answer: "Reading paper books instead of blue-light emitting smartphones—especially lighter humanities, poetry, or contemplative essays under soft indirect lighting—induces alpha brain waves that actually promote deep sleep."
   - question: "How can I record favorite passages during night reading without disrupting sleep?"
     answer: "Avoid turning on computers or screens before bed. Instead, attach sticky notes or fold book page corners, then transfer and organize them into your digital archive during the morning or afternoon the following day."
-
 ---
 
 "When I quietly turn on the lamp in my room and read the classics, only then do I meet my true soul behind the silver screen." 📖

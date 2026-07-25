@@ -21,7 +21,6 @@ faqs:
     answer: "Churchill's 1.5-hour nap compensated for restricted nighttime sleep (4–5 hours) by covering a full 90-minute cycle including both NREM and REM stages. In contrast, a modern 20-minute power nap preserves a normal 7-hour night sleep, remaining within light NREM Stages 1–2 to clear adenosine instantly without sleep inertia."
   - question: "Is a 20-minute nap useless if I close my eyes but fail to actually fall asleep?"
     answer: "No, it still yields significant cognitive benefits. Even without reaching actual sleep, simply reclining with eyes closed to block visual and auditory inputs disengages the visual cortex and induces relaxed alpha brainwaves (8–12 Hz). This 20-minute sensory pause alone restores over 50% of prefrontal cognitive resources."
-
 ---
 
 "Nature has not intended mankind to work from eight in the morning until midnight without that refreshment of blessed oblivion which, even if it only lasts twenty minutes, is sufficient to renew all the vital forces." 🛌

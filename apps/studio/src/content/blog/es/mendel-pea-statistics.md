@@ -21,7 +21,6 @@ faqs:
     answer: "Las aplicaciones automatizadas como Excel reducen el estímulo cognitivo visual. El acto físico de sostener una regla y trazar líneas a mano para representar variaciones involucra el lóbulo parietal inferior de forma mucho más intensa, lo que ayuda a percibir intuitivamente relaciones de causa y efecto y patrones significativos detrás de los datos."
   - question: "¿Es necesario seguir registrando incluso si no hay cambios significativos en las cifras?"
     answer: "Sí, es sumamente importante. La 'estabilidad constante' de las cifras es en sí misma un dato valioso que refleja consistencia. Registrar periodos sin cambios sostiene los mecanismos de control de impulsos del cerebro y sirve como una línea de base esencial cuando surgen valores atípicos (p. ej., identificar por qué cayó drásticamente el volumen de lectura)."
-
 ---
 
 “Las leyes ocultas de la naturaleza se revelan finalmente en un orden matemático preciso entre innumerables datos detallados.” 🫛

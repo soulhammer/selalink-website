@@ -21,7 +21,6 @@ faqs:
     answer: "Es por eso que la 'recepción escrita no presencial' es ventajosa. En las reuniones presenciales, la persuasión emocional ocurre fácilmente debido a la autoridad, la presión de conformidad o la elocuencia. Solo puede juzgar racionalmente cuando recopila y analiza por separado la lógica aguda y los datos fácticos escritos individualmente por sus asesores."
   - question: "¿Cuál es el tamaño más adecuado para un equipo consultor?"
     answer: "Recomendamos encarecidamente un máximo de 3 personas. A medida que aumenta el número de personas, se produce la Parálisis por Análisis (Analysis Paralysis) debido a la sobrecarga de información, lo que impide tomar decisiones. Coloque solo 1 experto clave que represente a cada campo (por ejemplo: marketing, tecnología, legal) para recopilar consultas."
-
 ---
 
 "Apresúrate despacio. Una decisión no preparada no puede traer la victoria." 🏛️

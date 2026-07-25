@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Can Nabokov's index card method be replicated using digital note-taking tools instead of physical paper cards?"
     answer: "Yes, absolutely. You can use tools like Notion's Kanban view, Trello, or digital whiteboards (Miro, FigJam) to turn thought fragments into cards and drag to rearrange them. The essential core is not writing long continuous text at once, but rather 'modularizing' thoughts into movable objects."
-
 ---
 
 "A novel is not written linearly from start to finish. Within the complete picture existing in my mind, I merely fill in the empty puzzle pieces one by one using cards." 🃏

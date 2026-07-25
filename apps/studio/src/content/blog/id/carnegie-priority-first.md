@@ -21,7 +21,6 @@ faqs:
     answer: "Kecuali jika menghadapi krisis organisasi yang parah, sebagian besar pesan yang 'tampak mendesak' dapat menunggu 1 hingga 2 jam tanpa masalah. Untuk melindungi sumber daya prefrontal Anda, pertahankan setidaknya 1 jam 'Blok Benteng Perlindungan Prefrontal' setiap pagi."
   - question: "Bagaimana cara menerapkan rutinitas ini jika tugas tersulit terlalu masif untuk diselesaikan dalam satu hari?"
     answer: "Ketika sebuah proyek terlalu masif, otak mengalami respons ancaman dan mencari penghindaran sebelum memulai. Dalam kasus seperti itu, potong proyek raksasa tersebut menjadi 'sub-unit yang dapat dieksekusi dalam 1 jam pagi', dan selesaikan sub-unit tunggal tersebut sebagai tugas target pagi Anda."
-
 ---
 
 "Lakukan tugas tersulit hari itu terlebih dahulu. Itu adalah satu-satunya hukum produktivitas bisnis saya." 🏗️

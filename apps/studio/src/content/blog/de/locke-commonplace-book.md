@@ -21,7 +21,6 @@ faqs:
     answer: "Locke zeichnete auf der ersten Seite ein Raster aus den 26 Buchstaben des Alphabets und den 5 Vokalen (a, e, i, o, u). Er trug die Seitenzahlen im Schnittpunkt von erstem Buchstaben und erstem Vokal des Schlagworts ein (z. B. 'Epistola' in Zeile E, Spalte i)."
   - question: "Ist das Schreiben auf Papier besser als die Nutzung digitaler Programme?"
     answer: "Handschriftliches Notieren stimuliert den somatosensorischen Kortex und fördert die erste Aufnahme von Wissen, während digitale Tools Stärken bei der Suche und Verknüpfung bieten. Ideal ist ein kombiniertes Vorgehen: Ideen zuerst auf Papier festhalten und anschließend in einer digitalen Datenbank indexieren."
-
 ---
 
 "Ein nicht aufgeschriebener Gedanke verfliegt wie Sommermorgen ohne jede Spur. Nur geordnete Symbole verwandeln das Gehirn in einen Wissensspeicher." 📖

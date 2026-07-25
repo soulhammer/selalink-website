@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "10 Stunden Schlaf wirken für beschäftigte Menschen unrealistisch. Kann man diese Zeit reduzieren?"
     answer: "Der 10-Stunden-Richtwert gilt für Leistungssportler mit extrem hohem Trainingspensum; für die meisten Menschen reichen 7 bis 8 Stunden erholsamer Schlaf völlig aus. Der Schlüssel liegt nicht in der reinen Dauer, sondern in der Maximierung des Tiefschlafanteils durch regelmäßige Aufstehzeiten und optimale Schlafumgebungssteuerung."
-
 ---
 
 "Wenn man eine Liste schreibt, werden die Aufgaben klar; und wenn man 10 Stunden schläft, ist der Körper bereit für jeden Pitch." 💤

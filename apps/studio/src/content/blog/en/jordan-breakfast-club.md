@@ -21,7 +21,6 @@ faqs:
     answer: "The core neuroscientific mechanism lies not in the absolute clock time of 6 AM, but in 'executing a boundary-pushing challenge immediately upon waking'. Regardless of your wake-up time, completing an intense physical workout right after waking delivers identical winner-effect hormonal surges and psychological superiority."
   - question: "Will daily high-intensity training cause physical overtraining or injury?"
     answer: "Jordan's routine evolved through gradual conditioning. Beginners should start at 3 days per week, progressively scaling volume and frequency. Alternating between intense weight lifting and lighter functional mobility workouts on alternate days prevents chronic physical fatigue."
-
 ---
 
 "I can accept failure, everyone fails at something. But I can't accept not trying. While my opponents are waking up at 8:30 AM, I've already put in two hours of work to defeat them." 🏀

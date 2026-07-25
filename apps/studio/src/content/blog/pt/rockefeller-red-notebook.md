@@ -21,7 +21,6 @@ faqs:
     answer: "Sim. O ato de ligar o celular expõe o cérebro ao ruído digital, dispersando o foco imediatamente. Além disso, escrever à mão envia dados somatossensoriais muito mais fortes ao córtex cerebral, aumentando em mais de duas vezes a consciência do autocontrole."
   - question: "É realmente necessário anotar cada detalhe insignificante, como 1 centavo ou 1 minuto?"
     answer: "A chave não é o valor monetário, mas o treinamento do feedback cognitivo em tempo real no cérebro. Registrar minúsculas despesas fortalece a rede de controle inibitório pré-frontal, construindo circuitos cerebrais que resistem à impulsividade em decisões importantes."
-
 ---
 
 John D. Rockefeller, o lendário empresário que fundou a Standard Oil e acumulou a maior fortuna pessoal da história. De onde vinham seu planejamento impecável e sua determinação? 📕

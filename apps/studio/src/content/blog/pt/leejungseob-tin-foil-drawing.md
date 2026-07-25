@@ -21,7 +21,6 @@ faqs:
     answer: "A resistência tátil e o som produzidos ao gravar o metal preenchem os canais somatossensoriais do cérebro. Isso reduz os sinais de ameaça na amígdala e evita pensamentos negativos, ancorando a atenção no presente."
   - question: "Posso substituir o papel de alumínio e o prego por papel comum e caneta esferográfica?"
     answer: "Sim, com certeza! Aplicar pressão firme sobre papel cartão ou papel com textura usando uma caneta gera resistência tátil à medida que a ponta afunda no papel. O segredo neurobiológico é a firmeza do feedback tátil, não o material exato."
-
 ---
 
 "Não importa se não tenho tela nem tintas a óleo caras. No momento em que gravo uma linha no papel de alumínio de um maço de cigarros com um prego, a fome e a tristeza desaparecem, deixando apenas a arte." 🐂

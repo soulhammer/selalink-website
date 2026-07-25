@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, da er morgens 100 % seiner geistigen Energie einsetzte, wusste er, dass seine kognitive Kapazität nach 13:00 Uhr erschöpft war. Weil er der Ansicht war, dass nachmittägliches Schreiben die Qualität mindere, nutzte er die Nachmittage für leichtere Aufgaben wie Lesen, Spazierengehen oder Lektorat."
   - question: "Kann Deep Work auch abends statt morgens durchgeführt werden?"
     answer: "Je nach individuellem Biorhythmus (Nachteulen) kann die Nachtzeit am produktivsten sein. Das Grundprinzip liegt nicht in der genauen Uhrzeit, sondern darin, einen ungestörten Zeitraum von mindestens 2 aufeinanderfolgenden Stunden zu sichern, in dem Ihre Energie am höchsten ist."
-
 ---
 
 Thomas Mann (1875–1955), Nobelpreisträger und Schöpfer von Meisterwerken wie 'Der Zauberberg' und 'Buddenbrooks', gilt als Gigant der deutschen Geistesgeschichte. Seine gewaltigen, philosophisch tiefgründigen Erzählungen entstandenen nicht aus zufälligen Inspirationen, sondern aus einer uhrwerkartigen Zeitkontrolle von mechanischer Präzision. 🕰️

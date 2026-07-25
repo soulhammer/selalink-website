@@ -21,7 +21,6 @@ faqs:
     answer: "Sim. O celular é uma alternativa se você usar um aplicativo offline com notificações desativadas. O fator crítico não é o suporte, mas manter o cérebro em 'Modo Difuso' ao caminhar e realizar a transferência para o diário na mesma noite."
   - question: "O que devo fazer se uma nota diurna for muito incipiente para expandi-la em um texto completo à noite?"
     answer: "Você não precisa expandir cada nota em um ensaio perfeito imediatamente. Organize fragmentos pouco desenvolvidos como palavras-chave em uma seção de 'Banco de Ideias' do seu diário. Isso permitirá que se combinem com futuras notas para maturarem em insights."
-
 ---
 
 "Quando pensamentos surgem na floresta, se não forem trancados instantaneamente em um caderno, ganham asas e voam para sempre." 📓

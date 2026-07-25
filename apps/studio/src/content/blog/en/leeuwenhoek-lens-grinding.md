@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, exceptionally effective! Synchronizing delicate fingertip motor control with precision visual focus physically calms hyper-arousal in the amygdala and stress networks, suppressing anxiety and restoring baseline neurological composure."
   - question: "How often and when during the day should I practice this micro-immersion routine?"
     answer: "Practicing once daily for roughly 20 minutes is ideal. It functions exceptionally well either as a cognitive warm-up before tackling complex high-stakes tasks, or as a prefrontal reset to recover executive energy following intense stress or mental fatigue."
-
 ---
 
 "My work was not pursued in order to gain praise or wealth, but chiefly out of a craving after knowledge of the microscopic creation." 🔍

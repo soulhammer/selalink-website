@@ -21,7 +21,6 @@ faqs:
     answer: "Ya! Baik menggunakan kertas fisik atau stylus tablet digital, selama kontrol motorik halus dan pelacakan visual disinkronkan untuk memetakan hubungan struktural, Anda memperoleh manfaat fokus neurologis yang identik."
   - question: "Apakah metode ini bermanfaat bagi individu yang tidak memiliki bakat menggambar artistik?"
     answer: "Keterampilan artistik sama sekali tidak relevan. Mekanisme neurosains bergantung sepenuhnya pada usaha kognitif untuk mengamati target secara cermat dan menerjemahkan hubungan komponen ke dalam diagram fungsional."
-
 ---
 
 "Di dalam struktur terkecil alam terletak urutan paling megah yang belum pernah dilihat manusia." 🔬

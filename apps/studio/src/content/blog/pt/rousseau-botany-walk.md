@@ -21,7 +21,6 @@ faqs:
     answer: "Porque era desconfortável carregar cadernos pesados enquanto caminhava. As cartas de jogo, rígidas e pequenas, eram o instrumento ideal para escrever em pé ou em movimento."
   - question: "É possível obter os mesmos benefícios de uma caminhada botânica em um parque urbano?"
     answer: "Sim, com certeza. Mesmo sem colher plantas, o simples ato de observar com atenção as formas orgânicas de folhas, musgo ou grama em um parque estimula a rede de restauração da atenção do cérebro."
-
 ---
 
 "Só posso meditar enquanto caminho. Quando paro, deixo de pensar; minha mente só funciona com minhas pernas." 🚶‍♂️

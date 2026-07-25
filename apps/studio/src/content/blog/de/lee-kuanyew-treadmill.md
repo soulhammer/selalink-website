@@ -21,7 +21,6 @@ faqs:
     answer: "Nein. Das physiologische Fenster zur Regulation des Nervensystems öffnet sich 'direkt im Anschluss an den höchsten Puls'. Wenn sich der Herzschlag beim Duschen normalisiert, schwächt sich der Wechsel vom Sympathikus zum Parasympathikus ab, was den Cortisol-Abbau mindert. Sie sollten sich direkt nach dem Training hinsetzen."
   - question: "Ist die Meditationsphase gescheitert, wenn ständig störende Gedanken auftauchen?"
     answer: "Nein, keineswegs. Das Auftauchen von Gedanken ist ein natürlicher Vorgang im Gehirn. Bei der Meditation geht es nicht darum, Gedanken gewaltsam zu unterdrücken, sondern um die Schulung der Aufmerksamkeit – das Bemerken von Abschweifungen und das sanfte Zurückführen des Fokus auf den Atem. Jedes Bemerken stärkt den präfrontalen Kortex."
-
 ---
 
 "Geistige Ausdauer steuert die körperliche Kraft, aber was diese geistige Ausdauer aufrechterhält, ist tägliches körperliches Training. Wenn man direkt nach dem Schwitzen die Atmung beruhigt, verschwindet der Lärm des Alltags und geistige Klarheit entsteht." 🇸🇬

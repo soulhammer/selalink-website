@@ -21,7 +21,6 @@ faqs:
     answer: "Inti neurosains dari metakognisi bukanlah mencapai kesempurnaan, melainkan mempraktikkan 'pemantauan diri yang akurat'. Secara jujur menghadapi dan mencatat angka-angka rendah pada hari-hari berkinerja buruk menghilangkan penyangkalan kognitif."
   - question: "Apakah sepenuhnya efektif untuk mengelola semua metrik secara eksklusif melalui alat digital seperti Notion atau Excel?"
     answer: "Perangkat digital membuat otak terpapar notifikasi dan gangguan layar. Seperti yang dipraktikkan Washington, mencatat metrik harian secara manual di buku catatan kertas dengan pena analog memberikan umpan balik motorik halus, mendorong refleksi metakognitif yang lebih mendalam."
-
 ---
 
 "Kebiasaan menyimpan catatan adalah cermin paling jujur untuk memperbaiki ketidaksempurnaan pikiran." ☀️

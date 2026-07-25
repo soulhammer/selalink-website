@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, sofern der Text kognitive Anstrengung erfordert. Während seichte Unterhaltungsliteratur geringe Stimulation bietet, aktiviert das Lesen von Klassikern oder Essays mit komplexen Beweggründen und Dilemmata die präfrontalen Kontrollnetzwerke stark."
   - question: "Bieten Tablet-PCs oder E-Ink-Reader dieselben kognitiven Vorteile wie physische Papierbücher?"
     answer: "Ja, sofern Ablenkungen blockiert werden. Wenn Sie ein Tablet nutzen, aktivieren Sie den Nicht-Stören-Modus. Physische Papierbücher und E-Ink-Reader sind zu bevorzugen, da das taktile Umblättern und das Fehlen von Bildschirmflimmern die visuelle Belastung reduzieren."
-
 ---
 
 "Lesen ist die erste Pflicht eines Revolutionärs. Wer nicht liest, lässt sich von den Gedanken anderer und verzerrten Informationen leiten." 📖

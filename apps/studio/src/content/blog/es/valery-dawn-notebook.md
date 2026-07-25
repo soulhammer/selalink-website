@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Qué pasa si sufro de falta de sueño y me resulta difícil levantarme al amanecer?"
     answer: "La rutina de madrugar al amanecer debe ir acompañada de irse a dormir temprano para no dañar el organismo. Si no es posible acostarse pronto debido a horarios de trabajo tardíos, en lugar de forzarse a levantar a las 4 a.m., utilice los primeros 30 minutos de su hora habitual de despertar como 'Tiempo de Desconexión Digital y Cahiers' para disfrutar del mismo efecto de anclaje cognitivo."
-
 ---
 
 "El amanecer es el momento sagrado en que mi conciencia se despierta en su estado más claro y pleno. Solo los registros dejados a esta hora son mi esencia." 🌅

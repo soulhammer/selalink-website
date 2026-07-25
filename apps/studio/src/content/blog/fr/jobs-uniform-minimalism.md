@@ -21,7 +21,6 @@ faqs:
     answer: "Jobs supprimait le choix de tenue pour éviter la Fatigue décisionnelle et préserver l'énergie du cortex préfrontal, consacrant 100 % de sa capacité cognitive a la direction d'Apple."
   - question: "Quelle est una alternative pratique si porter una tenue identique semble irréaliste ?"
     answer: "Il n'est pas nécessaire de porter des vêtements identiques. Composer una 'Garde-robe capsule' — en se limitant a des teintes neutres (noir, bleu marine, gris) ou a quelques pièces coordonnées — offre des bienfaits identiques."
-
 ---
 
 « Décider quoi porter chaque matin consomme una partie précieuse de la volonté du cerveau. Je préserve 100 % de mes ressources mentales pour les décisions qui comptent vraiment. » 👕

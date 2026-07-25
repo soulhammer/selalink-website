@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah membaca Kitab Hukum Perdata membantu saat menulis salinan pemasaran atau esai emosional?"
     answer: "Saat perlu menulis salinan persuasif atau emosional, lebih baik menggunakan salinan iklan yang menarik atau esai puitis sebagai teks priming daripada kitab hukum. Inti dari kebiasaan Stendhal adalah memicu otak terlebih dahulu dengan teks yang sesuai dengan nada dan gaya hasil kerja yang diinginkan."
-
 ---
 
 "Untuk membentuk gaya bahasa saya, saya membaca dua atau tiga halaman Kitab Undang-Undang Hukum Perdata setiap pagi. Karena bahasa undang-undang tidak mencampuradukkan emosi; ia secara jelas hanya menyampaikan fakta dan definisi." 📖

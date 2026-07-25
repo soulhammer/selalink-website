@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak. Jendela emas neurofisiologis untuk pengalihan sistem saraf otonom terjadi 'segera ketika detak jantung mencapai puncaknya'. Jika detak jantung menormal kembali saat mandi, pengalihan drastis berkurang, mengurangi pembersihan kortisol yang cepat. Anda harus duduk segera setelah berkeringat."
   - question: "Apakah sesi meditasi dianggap gagal jika pemikiran acak terus bermunculan?"
     answer: "Tidak, tidak sama sekali. Gangguan yang muncul dalam kesadaran adalah proses neurologis yang sepenuhnya alami. Meditasi bukanlah tentang menghapus pemikiran secara paksa, melainkan melatih kontrol perhatian—menyadari ketika pikiran melantur dan secara lembut mengarahkan kembali fokus ke pernapasan Anda."
-
 ---
 
 "Stamina mental mengatur kekuatan fisik, tetapi apa yang menopang stamina mental itu adalah pelatihan fisik harian yang ketat. Ketika Anda menenangkan napas segera setelah berkeringat, kebisingan pekerjaan menghilang dan kejernihan tertinggi muncul." 🇸🇬

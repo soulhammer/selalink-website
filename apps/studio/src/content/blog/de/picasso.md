@@ -21,7 +21,6 @@ faqs:
     answer: "Nein. Neurowissenschaftlich ist es bei kognitiver Blockade viel effizienter, sich 20 Minuten einer Erfrischungsaufgabe zu widmen, um dann mit klarem Kopf die Hauptaufgabe 40 % schneller fertigzustellen."
   - question: "Wie viele Tätigkeitsbereiche sollte man maximal pro Tag einrichten?"
     answer: "Um die Entscheidungskraft des Gehirns zu schone, sollten Sie maximal 3 Hauptaufgabenkategorien pro Tag einrichten. Mehr als 4 führen zu unnötigem Wechselaufwand."
-
 ---
 
 Pablo Picasso (1881–1973), das spanische Genie, das die Kunst des 20. Jahrhunderts als Mitbegründer des Kubismus revolutionierte. In seinem riesigen Atelier hielt Picasso Dutzende unvollendete Leinwände gleichzeitig bereit. Stoppte die Inspiration bei einem Werk, erzwang er nichts, sondern wechselte sofort zu einer benachbarten Leinwand – einem Stillleben oder Porträt. Diese flexible Aufgabenwechsel-Routine war der Motor seiner enormen Lebensproduktivität.

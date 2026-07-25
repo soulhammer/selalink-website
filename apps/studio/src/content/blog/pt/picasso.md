@@ -21,7 +21,6 @@ faqs:
     answer: "Não. Do ponto de vista neurológico, quando o atrito mental atinge o pico, mudar por 20 minutos para outra tarefa limpa a mente e acelera a conclusão total em mais de 40%."
   - question: "Qual é o número máximo ideal de trilhas de trabalho para planejar por dia?"
     answer: "Para proteger a energia decisória do cérebro, é recomendável não ultrapassar 3 categorias principais de tarefas por dia. Criar 4 ou mais trilhas gera desperdício de foco pela alternância frequente."
-
 ---
 
 Pablo Picasso (1881–1973), o gênio espanhol que revolucionou a arte moderna do século XX como cofundador do cubismo. Em seu amplo ateliê, Picasso mantinha dezenas de telas inacabadas em paralelo. Quando a inspiração travava em uma obra, em vez de forçar a mente, ele se movia imediatamente para uma tela vizinha — uma natureza-morta ou retrato — e continuava pintando. Essa rotina flexível de alternância de tarefas foi o motor de sua imensa produtividade ao longo da vida.

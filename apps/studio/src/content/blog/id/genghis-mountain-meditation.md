@@ -21,7 +21,6 @@ faqs:
     answer: "Cukup buka jendela dan tatap objek luar ruangan terjauh yang terlihat selama lebih dari 30 detik. Tujuan neurosainsnya adalah beralih dari 'Vision Terowongan Sempit' ke 'Penglihatan Perifer Luas', meredakan gairah ancaman."
   - question: "Bagaimana jika saya kesulitan membangun citra mental yang jelas selama meditasi visual?"
     answer: "Hasil visual beresolusi tinggi tidak diperlukan. Menggabungkan 'perasaan' emosional positif dari pencapaian, suara sensorik sekitar, dan afirmasi internal sederhana ('Saya telah menyelesaikannya') mengaktifkan sirkuit kortikal yang identik."
-
 ---
 
 "Saya menundukkan kepala ke langit abadi dalam doa, mengasah bukan senjata di tangan saya, melainkan tujuan di dalam hati saya." 🏹

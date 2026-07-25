@@ -21,7 +21,6 @@ faqs:
     answer: "No, it is significantly better to avoid audio completely. Auditory input—even calm music or podcasts—forces the auditory cortex and executive networks to continuously analyze sound patterns, suppressing full DMN engagement. To achieve total cognitive reset, remove earphones and let your mind wander amidst natural ambient sounds."
   - question: "It is unrealistic for busy modern professionals to walk 3 hours daily like Dickens. Is there a practical alternative?"
     answer: "Yes, absolutely. The core mechanism is not the 3-hour duration, but 'stimulus-free, solitary aerobic walking'. Walking briskly for just 20 to 30 minutes after lunch or during a commute—without checking your smartphone—triggers DMN activation and releases BDNF, delivering a complete cognitive reset."
-
 ---
 
 "If I couldn't walk fast and far, I should just explode and perish." 🚶‍♂️

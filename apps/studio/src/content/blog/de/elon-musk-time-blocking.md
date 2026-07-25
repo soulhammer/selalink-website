@@ -21,7 +21,6 @@ faqs:
     answer: "Für Anfänger führt das Einteilen des gesamten Tages in 5-Minuten-Blöcke zu kognitiver Überlastung. Beginnen Sie klein: Legen Sie täglich ein 1- bis 2-stündiges 'Fokus-Fenster' fest und unterteilen Sie dieses zunächst in 15- oder 30-Minuten-Einheiten."
   - question: "Was tun, wenn eine Aufgabe nicht innerhalb des vorgesehenen Blocks fertig wird?"
     answer: "Wenn die Zeit abläuft, wechseln Sie bedingungslos zum nächsten Block. Verschieben Sie Unfertiges in einen 'Puffer-Block' am späten Nachmittag. Das verhindert, dass eine Verzögerung Ihren gesamten Tagesplan ins Wanken bringt."
-
 ---
 
 "Wenn deine Zeit begrenzt ist, muss deine Konzentration proportional dazu steigen." 🚀

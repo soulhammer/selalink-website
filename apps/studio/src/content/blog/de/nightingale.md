@@ -21,7 +21,6 @@ faqs:
     answer: "Ja. Das Kontrollieren kleinster Umgebungsfaktoren und deren Dokumentation setzt Dopamin im prÃ¤frontalen Kortex frei, was die Selbstwirksamkeit stÃ¤rkt und Ãngste lindert."
   - question: "Gilt dieses Prinzip auch fÃ¼r digitale Ordnung wie E-Mails oder Messengerdienste?"
     answer: "Ja. Das LÃ¶schen von 3 temporÃ¤ren Dateien vom Desktop und das Notieren verbleibender E-Mails im Notizbuch erzeugt den gleichen prÃ¤frontalen Steuerungseffekt."
-
 ---
 
 "UnsanitÃ¤re ZustÃ¤nde und emotionale Pflege ohne Daten fÃ¼hren zum Tod." ð¯ï¸

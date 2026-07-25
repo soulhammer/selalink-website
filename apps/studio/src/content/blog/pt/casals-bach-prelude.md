@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, com certeza. Embora tocar um instrumento estimule adicionalmente o córtex motor, praticar a 'Escuta Ativa' — fechar os olhos e entregar a consciência às texturas do som — induz um arrasto de ondas alfa idêntico. A chave é não tratar a música como ruído de fundo passivo, mas dedicar 10 minutos de atenção focada às nuances auditivas."
   - question: "Usar fones de ouvido é mais eficaz ao ouvir música clássica de manhã?"
     answer: "Sim, usar fones de ouvido proporciona um isolamento acústico que bloqueia o ruído ambiental, facilitando a concentração do cérebro. Além disso, enviar sinais de som estéreo diretamente aos dois ouvidos ocupa totalmente os canais do córtex auditivo, evitando distrações e acelerando o estado de ondas alfa."
-
 ---
 
 "É uma redescoberta do mundo do qual tenho a felicidade de fazer parte. Enche-me com a consciência da maravilha da vida e com a sensação da incrível graça de ser um ser humano." 🎹

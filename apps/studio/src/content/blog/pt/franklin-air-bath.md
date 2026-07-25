@@ -21,7 +21,6 @@ faqs:
     answer: "Sim. A exposição suave ao frio melhora a flexibilidade do sistema nervoso autônomo. Ao disparar a noradrenalina, elimina a névoa mental matinal e eleva o foco pré-frontal."
   - question: "Como devo praticar um Banho de Ar com segurança durante os meses frios de inverno?"
     answer: "No inverno, a exposição prolongada diante de janelas abertas é arriscada. Faça um 'Mini Banho de Ar': abra as janelas por 1 a 2 minutos para renovar o ar e aproveite a temperatura fresca do quarto fechado por 3 a 5 minutos."
-
 ---
 
 "Levanto-me cedo quase todas as manhãs e me sento no quarto sem roupa alguma, por meia hora ou uma hora... A isso chamo de meu Banho de Ar." 💨

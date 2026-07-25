@@ -21,7 +21,6 @@ faqs:
     answer: "Absolutely. Perfect musical performance is not required. Instead of playing an instrument, playing a classical piece while consciously controlling 5-second inhalations and 5-second exhalations achieves the same Alpha wave brain reset."
   - question: "Why does cold water facial washing stimulate vagus nerve and wake up the brain?"
     answer: "When cold water touches the forehead and cheeks, the body triggers the mammalian diving reflex, slowing heart rate slightly while increasing oxygenated blood flow to the brain. This directly stimulates the trigeminal and vagus nerves, clearing morning brain fog."
-
 ---
 
 Arthur Schopenhauer, the monumental German thinker and philosopher who dissected the essence of human suffering and defined *The World as Will and Representation*. Through what morning routine were his sharp, original intellectual works refined?

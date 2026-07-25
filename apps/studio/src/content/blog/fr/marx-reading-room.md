@@ -9,9 +9,8 @@ heroImage: "/images/blog/marx_reading_room.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biographies historiques, récits autobiographiques de Karl Marx et recherches en neurosciences cognitives (Cognitive Neuroscience)"
-steps:
-
-
+steps: []
+faqs: []
 ---
 
 Karl Marx a disséqué les rouages cachés de la société à travers l'économie. Découvrez son habitude de lecture tenace consistant à étudier et annoter une vaste littérature 10 heures par jour dans la salle de lecture du British Museum pendant son exil à Londres, ainsi que ses principes neuroscientifiques.

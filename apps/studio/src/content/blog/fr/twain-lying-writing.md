@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Travailler au lit ne rend-il pas somnolent ou paresseux ?"
     answer: "Cela peut arriver. C'est pourquoi cette routine ne consiste pas simplement à s'allonger, mais à maintenir un état de 'relaxation éveillée' en soutenant fermement le haut du corps avec des oreillers. De plus, il faut définir à l'avance un temps de travail concentré sans aucune distraction."
-
 ---
 
 "Pour moi, le lit est le plus grand laboratoire et atelier créatif au monde." 🛌

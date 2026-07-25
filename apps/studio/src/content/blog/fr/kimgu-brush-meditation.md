@@ -21,7 +21,6 @@ faqs:
     answer: "Ajuster la pression et l'angle du pinceau exige un Contrôle Moteur Fin, stimulant les zones somatosensorielle et préfrontale. Cette concentration réprime les signaux d'anxiété de l'amygdale."
   - question: "Puis-je obtenir les mêmes bienfaits avec un stylo plume ou un stylo classique sans matériel de calligraphie ?"
     answer: "Oui, tout à fait ! L'essentiel ne réside pas dans l'outil, mais dans la 'modulation de la pression et le ralentissement du geste'. Utiliser un stylo plume ou un crayon en écrivant lentement (Slow Writing) procure des bienfaits apaisants identiques pour le système nerveux."
-
 ---
 
 « Tandis que je rassemble toute ma force a la pointe du pinceau pour tracer un trait, les pensées confuses s'effacent, ne laissant qu'una conviction transparente sur le papier. » 🖌️

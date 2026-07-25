@@ -21,7 +21,6 @@ faqs:
     answer: "Se fier a l'humeur ou a l'inspiration produit un rendement instable. Fixer un seuil minimal contraignant oblige les réseaux exécutifs du cerveau a fonctionner de façon régulière, préservant des baisses de régime."
   - question: "Faut-il reproduire à l'identique les déclencheurs de Stephen King, comme le hard rock ou les vitamines ?"
     answer: "Non. L'essentiel réside dans la 'régularité' plutôt que dans la nature du déclencheur. Choisir des repères confortables (boire un thé, écouter un bruit blanc ou allumer una lampe) et les reproduire avant de travailler procure des bénéfices identiques."
-
 ---
 
 « Je m'installe a la même table a la même heure chaque matin pour que ma muse sache exactement où me trouver. N'attendez pas l'inspiration ; elle ne se manifeste que lorsqu'elle vous voit assis au travail. » ✍️

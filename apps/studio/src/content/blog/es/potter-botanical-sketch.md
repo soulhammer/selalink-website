@@ -21,7 +21,6 @@ faqs:
     answer: "¡No! Describir los detalles observados en texto en lugar de dibujarlos produce exactamente el mismo efecto de inmersión en el cerebro."
   - question: "¿Puedo aplicarlo en interiores o en la oficina usando objetos artificiales en lugar de elementos naturales?"
     answer: "Sí, cualquier objeto fabricado con textura fina (como el plumín de una estilográfica, el grano del papel o las costuras de una cartera) ofrece un excelente efecto."
-
 ---
 
 Beatrix Potter (1866–1943), creadora del entrañable personaje 'Peter Rabbit' (más de 300 millones de copias vendidas), ilustradora naturalista del siglo XIX e investigadora micóloga. ¿Qué impulsó a esta tímida mujer de la era victoriana británica a crear tanto un universo de cuentos de hadas como delicadas ilustraciones botánicas de alto valor académico? 🐰

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Une personne ne sachant pas du tout dessiner peut-elle utiliser cette habitude ?"
     answer: "Tout fait. L'habitude de croquis d'Archimède n'est pas un acte artistique, mais un travail cognitif consistant à disposer les structures de pensée du cerveau dans l'espace extérieur. Le simple fait de tracer des cercles ou d'encadrer du texte avec des rectangles et de les relier par des flèches sous forme de gribouillis soulage considérablement la mémoire de travail, produisant un effet certain sur l'amélioration de la concentration."
-
 ---
 
 « Ne marche pas sur mes figures. Ne piétine pas le fil de ma pensée. » 📐

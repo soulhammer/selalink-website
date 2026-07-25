@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Must I pick up trash, or is simply walking okay?"
     answer: "Simply walking helps activate the DMN, but combining altruistic action like picking up litter with the physical act of 'environmental tidying' releases higher levels of dopamine and serotonin, inducing a noticeably clearer mental state."
-
 ---
 
 "Picking up trash is a way to clean out my mind and look closely at nature." 🌿

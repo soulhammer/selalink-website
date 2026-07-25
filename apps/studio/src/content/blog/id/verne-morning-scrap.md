@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apa perbedaan antara metode Zettelkasten Niklas Luhmann dan kliping kartu indeks Jules Verne?"
     answer: "Zettelkasten berfokus pada pembuatan jaringan pemikiran yang saling terhubung melalui referensi silang nomor permanen antar kartu, sedangkan kartu Jules Verne berfokus pada pengumpulan fakta ilmiah dan geografi secara sistematis menurut kategori untuk memperkuat deskripsi teknis dan kredibilitas dalam novel-novelnya."
-
 ---
 
 "Apa pun yang dapat dibayangkan seseorang, orang lain dapat mewujudkannya." 🗺️

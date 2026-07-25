@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Is this warm-up letter routine effective for non-writing tasks like numerical calculations or design work?"
     answer: "Extremely effective! Regardless of task type, the friction and perfectionism of starting originate in the exact same brain region (amygdala). Doodling before opening design software or writing a quick note before coding creates a cognitive buffer that smoothly lubricates your brain for primary creative execution."
-
 ---
 
 "In writing a letter every morning, my fingers limber up and my mind gets ready to address my novel's characters without friction." ✍️

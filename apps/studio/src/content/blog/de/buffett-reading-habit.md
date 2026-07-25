@@ -21,7 +21,6 @@ faqs:
     answer: "Sofort mit 500 Seiten zu beginnen, ist unpraktisch. Buffetts Ausdauer basiert auf jahrzehntelanger kognitiver Anpassung. Das Ziel ist nicht die genaue Seitenzahl, sondern die Beständigkeit der kognitiven Gewohnheit – täglich 20 bis 30 Seiten tiefgehend zu lesen. Wenn Sie täglich 30 Minuten investieren, erzielen Sie nach einigen Jahren einen enormen Zinseszins des Wissens."
   - question: "Erzielen E-Books oder Hörbücher denselben Wissens-Zinseszins-Effekt wie physische Papierbücher?"
     answer: "E-Books auf dedizierten E-Ink-Readern sind eine hervorragende Alternative für tiefes Lesen. Smartphones oder Tablets bergen jedoch das Risiko, die präfrontale Aufmerksamkeit durch Benachrichtigungen abzulenken. Hörbücher neigen zu passiver Aufnahme und stimulieren analytische Verarbeitungsnetze nicht so stark wie Lesen. Nutzen Sie textbasiertes Lesen als Hauptmedium und Hörbücher als Ergänzung."
-
 ---
 
 "Lesen Sie jeden Tag 500 Seiten. So funktioniert Wissen. Es baut sich auf wie Zinseszinsen." 📚

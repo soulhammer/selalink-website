@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, die Art des Objekts ist unerheblich. Die 2-minütige Konzentration auf Details alltäglicher Dinge (Bleistiftmine, Blattadern, feine Risse im Becher) aktiviert dieselben Schaltkreise der visuellen selektiven Aufmerksamkeit."
   - question: "Muss man eine echte Lupe oder Vergrößerungsglas verwenden?"
     answer: "Eine Lupe verstärkt den visuellen Reiz, ist aber nicht zwingend erforderlich. Ein 'bewusstes Heranzoomen' mit bloßem Auge auf einen bestimmten Abschnitt liefert dieselben kognitiven Vorteile."
-
 ---
 
 "Wenn ich die Blume groß male, werden die Menschen überrascht sein und sich Zeit nehmen, sie zu betrachten." 🌺

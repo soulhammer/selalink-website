@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Ist ein tägliches Bad für beschäftigte Menschen heutzutage nicht uneffizient?"
     answer: "Selbst nur 10 Minuten im warmen Wasser sind ein hocheffizienter kognitiver Mechanismus, um den Sympathikus zu entspannen und das DMN des Gehirns zu aktivieren."
-
 ---
 
 "Wenn ich meinen Körper dem warmen Wasser übergebe, wäscht sich das schwere Pflichtgefühl des Tages ab, und die Augen wahrer Weisheit öffnen sich." 🛀

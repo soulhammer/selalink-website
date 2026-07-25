@@ -21,7 +21,6 @@ faqs:
     answer: "Um jahrzehntelang abstrakte Philosophie zu betreiben, pflegte Kant eine feste Routine. Sie stabilisierte sein autonomes Nervensystem, bewahrte den zirkadianen Rhythmus und baute kognitive Erschöpfung im präfrontalen Kortex ab."
   - question: "Muss man beim Spazierengehen wie Kant schweigen und ausschließlich durch die Nase atmen?"
     answer: "Ja! Nasenatmung steigert die Sauerstoffversorgung des Gehirns und fördert die Freisetzung von Stickstoffmonoxid (NO), was das Nervensystem beruhigt. Zudem verringert das Schweigen Ablenkungen und stabilisiert das Default Mode Network (DMN)."
-
 ---
 
 "Alle unsere Erkenntnis fängt von den Sinnen an, geht von da zum Verstande, und endet bei der Vernunft... Ein ruhiger Spaziergang um 15:30 Uhr ordnet das Gehirn und bringt Klarheit in abstrakte Gedanken." 🚶‍♂️

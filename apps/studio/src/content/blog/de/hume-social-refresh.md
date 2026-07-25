@@ -21,7 +21,6 @@ faqs:
     answer: "Telefonate mit Freunden oder entspannte Online-Gemeinschaftsspiele sind gute Alternativen. Entscheidend ist der freundschaftliche Austausch ohne Leistungsdruck. Das passive Scrollen durch Social-Media-Feeds sollte vermieden werden, da es das Gehirn belastet."
   - question: "Kann man Schach durch andere Brettspiele, Kartenspiele oder Freizeitspiele ersetzen?"
     answer: "Ja, absolut! Hume wählte Backgammon und Schach, weil es im 18. Jahrhundert beliebte Gesellschaftsspiele waren. Jedes regelbasierte Spiel (Brettspiele, Kartenspiele), das Freude bereitet, lenkt die Aufmerksamkeit ab und entspannt das Gehirn. Freude steht vor Ehrgeiz."
-
 ---
 
 "Ich esse zu Abend, spiele eine Partie Backgammon, unterhalte mich und bin vergnügt mit meinen Freunden. Wenn ich nach drei oder vier Stunden Vergnügen zu meinen Spekulationen zurückkehre, erscheinen sie mir so kalt und lächerlich..." 🎱

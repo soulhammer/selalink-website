@@ -21,7 +21,6 @@ faqs:
     answer: "This is a completely normal response. Do not force high-definition 3D spheres; start by holding a simple 2D shape, like an orange square or white triangle, steady in your mind for 3 seconds."
   - question: "Does enhancing this mental sketchpad capability help with organizing complex workflows and setting priorities?"
     answer: "Yes! You can mentally project 5 task cards, color-code and resize them by importance, and intuitively rearrange them, which dramatically sharpens your organizational intuition."
-
 ---
 
 Stephen Hawking (1942–2018), one of the greatest theoretical physicists of the 20th century and an iconic figure in scientific history alongside Einstein. Diagnosed with Amyotrophic Lateral Sclerosis (ALS) in his youth and facing complete physical paralysis, he nonetheless pioneered revolutionary cosmological theories, including Hawking radiation and the No-Boundary Proposal.

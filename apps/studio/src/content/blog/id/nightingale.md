@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, sangat berhubungan. Saat otak mengendalikan variabel lingkungan mikro dan mencatat hasilnya, dopamin dilepaskan di korteks prefrontal, meningkatkan efikasi diri dan meredakan kecemasan."
   - question: "Apakah prinsip ini juga berlaku untuk kerapian lingkungan digital seperti email?"
     answer: "Ya. Membuang 3 file sementara dari desktop dan mencatat target sisa email di buku catatan memberikan efek kendali kortikal yang sama persis."
-
 ---
 
 "Lingkungan tidak higienis dan perawatan emosional tanpa data mengarahkan pasien pada kematian." ð¯ï¸

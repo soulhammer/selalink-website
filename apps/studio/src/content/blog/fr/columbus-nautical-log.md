@@ -21,7 +21,6 @@ faqs:
     answer: "Non. L'écriture manuscrite procure une rétroaction tactile qui sollicite les cortex moteur et somatosensoriel, renforçant le contrôle préfrontal. De plus, la lumière bleue du smartphone réprime la mélatonine et perturbe le sommeil. Un carnet papier est vivement recommandé."
   - question: "Que faire les jours où je suis trop épuisé pour rédiger un journal complet avant de dormir ?"
     answer: "Rédiger une seule ligne — comme « Atteint aujourd'hui : Tâche A » — suffit amplement. L'objectif n'est pas la perfection, mais le maintien du rituel quotidien. Cette action minimale signale le contrôle préfrontal à votre cerveau, apaisant l'amygdale."
-
 ---
 
 « Chaque nuit, en consignant la profondeur de l'océan et l'angle des étoiles, la terreur de l'obscurité inconnue se transformait en la certitude rassurante des chiffres. » ⛵

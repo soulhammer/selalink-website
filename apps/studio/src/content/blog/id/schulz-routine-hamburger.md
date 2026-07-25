@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah makan makanan yang sama setiap hari buruk untuk kesehatan? Bagaimana cara memodernisasi kebiasaan Schulz?"
     answer: "Schulz memakan hamburger tradisional, namun di masa modern kita dapat menggantinya dengan 'rotasi 3 menu bekal bergizi' atau 'langganan salad sehat'. Kunci utamanya adalah menghilangkan 'proses memilih apa yang akan dimakan'. Mengunci 2 hingga 3 pilihan menu sehat dapat menjaga nutrisi tubuh sekaligus menghemat energi kognitif."
-
 ---
 
 "Saya duduk di meja kerja pada jam 9 pagi setiap hari dan mengambil pena. Dan untuk makan siang, saya selalu makan hamburger. Menyederhanakan kehidupan sehari-hari adalah rahasia menjaga kreativitas saya." 🍔

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "It is difficult to learn all 24 Hwalinsimbang movements. What are the essential core actions?"
     answer: "If performing all movements is challenging, remember just two things. First, upon waking, rub your palms together to generate heat and gently massage your face. Second, sit comfortably on your bed with a straight spine, inhale deeply through your nose, and exhale slowly and quietly through your mouth for about 10 seconds. These two actions alone optimally activate parasympathetic pathways."
-
 ---
 
 "One who governs the mind must align the body, inhaling the clear morning air to wash away all internal impurities." 🧘‍♀️

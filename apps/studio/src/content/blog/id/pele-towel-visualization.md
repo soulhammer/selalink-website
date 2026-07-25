@@ -21,7 +21,6 @@ faqs:
     answer: "Sudut pandang orang pertama jauh lebih unggul dalam merangsang korteks motorik. Sudut pandang orang ketiga membantu memahami posisi, tetapi orang pertama menyetel sensasi motorik halus."
   - question: "Bagaimana jika bayangan kegagalan atau kesalahan muncul saat visualisasi?"
     answer: "Ini adalah mekanisme pertahanan alami. Hentikan dan putar ulang adegan tersebut, lalu visualisasikan keberhasilan mengatasi kesalahan."
-
 ---
 
 "Aku memejamkan mata dan membayangkan diriku bermain di lapangan. Saat itulah tubuhku siap sepenuhnya." ⚽

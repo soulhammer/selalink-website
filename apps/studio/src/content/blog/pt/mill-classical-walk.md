@@ -21,7 +21,6 @@ faqs:
     answer: "Ouvir um livro de áudio é uma recepção passiva de dados que bloqueia a 'evocação ativa' — onde o cérebro busca ativamente na memória — e reduz a reflexão pessoal. Manter os ouvidos livres para reprocessar mentalmente o conteúdo lido é muito mais eficaz para ativar a plasticidade cerebral."
   - question: "A velocidade da caminhada afeta a estimulação cerebral?"
     answer: "Sim, afeta. Em vez de um passeio muito lento, um ritmo moderado (aprox. 4–5 km/h) com respiração confortável é o ideal. Nessa intensidade aeróbica leve, a secreção de BDNF e o fluxo sanguíneo atingem níveis ideais. Corridas muito rápidas devem ser evitadas, pois desviam os recursos cognitivos para o controle motor."
-
 ---
 
 "O caminho de um gigante intelectual começou na meditação matinal e no diálogo profundo ao longo de trilhas florestais sob o ar fresco da manhã." 🚶

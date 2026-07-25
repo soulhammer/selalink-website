@@ -21,7 +21,6 @@ faqs:
     answer: "Se 2 horas seguidas for muito desgastante, aplique a técnica de '2 Blocos Divididos': 50 minutos de foco profundo e 10 minutos de alongamento. No intervalo, não olhe o celular; beba água ou caminhe para manter o fluxo sanguíneo antes do segundo bloco."
   - question: "Pessoas noturnas que têm dificuldade para acordar cedo podem aproveitar essa Hora Dourada Cognitiva?"
     answer: "Sim, com certeza. O mecanismo não depende do horário exato (5h30), mas de alocar os recursos pré-frontais para a tarefa mais difícil durante as primeiras 2 horas após acordar, livre de distrações. Isolando-se de alertas digitais ao acordar, você obtém os mesmos benefícios."
-
 ---
 
 "A complexidade de um problema se dissolve na quietude da manhã. As horas antes de qualquer pessoa acordar são quando meu cérebro funciona com clareza cristalina." 🧮

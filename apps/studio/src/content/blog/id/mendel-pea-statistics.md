@@ -21,7 +21,6 @@ faqs:
     answer: "Excel atau aplikasi data otomatis mengurangi stimulasi kognitif visual. Tindakan fisik memegang penggaris dan menggambar garis dengan tangan untuk menunjukkan naik turunnya angka melibatkan lobus parietal inferior secara jauh lebih kuat, membantu Anda secara intuitif memahami hubungan sebab-akibat dan pola berharga di balik data."
   - question: "Apakah perlu tetap mencatat meskipun tidak ada perubahan angka yang signifikan?"
     answer: "Ya, sangat penting. 'Kestabilan angka' itu sendiri merupakan data berharga yang menunjukkan konsistensi. Mencatat periode tanpa perubahan menjaga mekanisme pengendalian impuls otak dan menjadi garis dasar perbandingan saat muncul data yang tidak biasa (misalnya, mengidentifikasi penyebab penurunan tajam jumlah bacaan)."
-
 ---
 
 "Hukum yang tersembunyi di alam akhirnya menampakkan diri dalam tatanan matematika yang presisi di antara tak terhitung banyaknya data detail." 🫛

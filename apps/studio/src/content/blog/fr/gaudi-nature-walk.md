@@ -21,7 +21,6 @@ faqs:
     answer: "Si les paysages naturels sont idéaux pour restaurer l'attention, marcher dans des ruelles urbaines atypiques ou observer l'architecture stimule tout autant le cortex visuel, constituant une excellente alternative."
   - question: "Puis-je remplacer la marche par du jogging rapide ou du tapis de course ?"
     answer: "La course intense ou le tapis de course sont excellents pour le cardio, mais ne laissent pas l'espace mental nécessaire a l'observation et la réflexion. Pour stimuler la créativité, une marche d'exploration à allure modérée est idéale."
-
 ---
 
 « La nature est mon professeur pour la vie. La ligne droite appartient à l'homme, la ligne courbe à Dieu. » ⛪

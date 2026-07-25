@@ -21,7 +21,6 @@ faqs:
     answer: "Es natural sentirse incómodo al principio debido a la disonancia cognitiva (Cognitive Dissonance). Lo importante no es verificar la verdad de los hechos, sino abrir nuevas posibilidades al cerebro. A medida que repita, la neuroplasticidad (Neuroplasticity) reorganizará los circuitos neuronales, haciendo que la incomodidad desaparezca y se consolide en una creencia."
   - question: "¿Es efectivo solo si lo grito en voz alta?"
     answer: "Lo ideal es percibir directamente las vibraciones de la voz a través del oído. Sin embargo, si su entorno dificulta hablar en voz alta, susurrar o repetir mentalmente cada palabra con fuerte concentración (Silent Self-talk) también proporciona estímulos positivos suficientes para la activación cerebral."
-
 ---
 
 "Decía que era el más grande incluso antes de saber que lo era. Te conviertes en lo que piensas." 🥊

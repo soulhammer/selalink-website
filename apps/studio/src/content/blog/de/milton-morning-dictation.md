@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Wie behielt Milton all die Verszeilen im Kopf, bevor sein Gehilfe eintraf?"
     answer: "Milton sagte Verse rhythmisch wie Gesang auf. Er nutzte sein nach der Erblindung geschärftes auditives Arbeitsgedächtnis und verwendete das Reimlose Versmaß (Blankvers) als kognitiven Anker."
-
 ---
 
 "Der Geist ist sein eigener Ort, und er kann in sich selbst aus der Hölle einen Himmel, aus dem Himmel eine Hölle machen." 🚶‍♂️

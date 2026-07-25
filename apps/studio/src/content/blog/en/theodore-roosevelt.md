@@ -21,7 +21,6 @@ faqs:
     answer: "That occurs when overexertion causes fatigue-accumulating substances to surge. You must strictly limit the exercise to a 3-minute timer as soon as you reach the breathlessness threshold so that only refreshing, awakening dopamine charges your brain."
   - question: "How should beginners with significantly low physical fitness get started?"
     answer: "Any aerobic or strength training—such as brisk marching in place or light jogging on the spot—will produce equivalent brain-awakening benefits as long as it reaches an intensity that causes slight sweating based on your current cardiopulmonary fitness."
-
 ---
 
 Theodore Roosevelt, the 26th President of the United States, assumed office as the youngest president in American history, championing progressive reforms and establishing global leadership. To overcome severe childhood asthma and a frail physique, he engaged in intense physical training every morning, lifting heavy weights to his limits. This explosive morning exercise habit transformed a frail boy into a formidable leader, fueling his iron willpower and brain alertness throughout his presidency.

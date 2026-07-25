@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely! This technique is not art; it is a cognitive structured exercise utilizing just four basic geometric elements: circles, rectangles, lines, and arrows. Even rough, hastily drawn shapes are completely sufficient to intensely stimulate the brain's Visuospatial Sketchpad."
   - question: "Does sketching on digital drawing apps using tablets deliver identical cognitive benefits?"
     answer: "Using a digital stylus is a functional alternative, but real paper and pen remain superior. The micro-friction of a physical paper surface generates tactile somatosensory feedback through your fingertips, achieving a deeper level of cognitive offloading and neural engagement."
-
 ---
 
 "The grand book of the universe is written in the language of mathematics, and its characters are triangles, circles, and other geometric figures." 📐

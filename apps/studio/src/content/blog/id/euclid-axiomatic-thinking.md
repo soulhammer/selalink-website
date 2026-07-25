@@ -21,7 +21,6 @@ faqs:
     answer: "Pertama, tentukan 3 'fakta dasar yang tidak dapat diurai'—seperti batasan fisik proyek, anggaran aktual, dan kebutuhan inti pengguna. Kemudian, rancang ulang strategi Anda dari awal di atas fondasi tersebut."
   - question: "Apa perbedaan antara pemikiran logis konvensional dan penalaran Prinsip Pertama Euklides?"
     answer: "Logika konvensional biasanya mengandalkan preseden atau analogi masa lalu. Sebaliknya, pemikiran aksiomatis Prinsip Pertama menyetel ulang semua asumsi ke nol, membangun rantai logika secara deduktif dari kebenaran yang jelas dan tidak dapat diurai."
-
 ---
 
 "Tidak ada jalan kerajaan menuju geometri." 📐

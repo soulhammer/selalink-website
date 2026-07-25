@@ -21,7 +21,6 @@ faqs:
     answer: "C'est un phénomène naturel du cerveau qui tente de faire fonctionner ses mécanismes. Ne luttez pas contre les pensées ; prenez du recul et reconnaissez : 'Ah, je pense à mes tâches', en les regardant passer comme des nuages. Ramenez doucement votre conscience sur votre souffle."
   - question: "Mère Teresa pratiquait pendant une heure ; le réduire à 10–15 minutes est-il toujours efficace pour le cerveau ?"
     answer: "Oui, selon les neurosciences cliniques et les recherches sur le stress, pratiquer la méditation silencieuse dans un calme absolu pendant seulement 10 minutes ciblées produit une relaxation physiologique significative en inhibant le système sympathique et en abaissant le niveau de cortisol. Si vous manquez de temps, une routine matinale de 10 minutes sans téléphone aide à réguler les émotions."
-
 ---
 
 Mère Teresa, lauréate du prix Nobel de la paix pour avoir consacré sa vie au service des plus pauvres. Quelle routine a nourri cette sérénité inébranlable et cette force intérieure qui lui ont permis d'endurer la souffrance indescriptible dans les bidonvilles de Kolkata ? 🕊️

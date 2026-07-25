@@ -21,7 +21,6 @@ faqs:
     answer: "Replace vague assertions like 'users love this feature' with closed, measurable circulation metrics—such as user acquisition volume, average session duration, and churn rate."
   - question: "What if quantitative metrics contradict my personal intuition or prior knowledge?"
     answer: "Trust the measured, objective figures over intuition. Historically, intuition is often a cognitive defense mechanism used by the brain to protect outdated dogmas and familiar comfort zones."
-
 ---
 
 "Truth lies not in the tradition of textbooks, but in the objectively measured quantities of nature." 🫀

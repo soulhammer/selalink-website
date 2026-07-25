@@ -21,7 +21,6 @@ faqs:
     answer: "Il n'est pas nécessaire de parcourir 15 milles comme Smith. La durée recommandée pour stimuler le flux sanguin cérébral et activer le DMN est de 20 à 40 minutes. L'important est la durée d'immersion sans distractions numériques, non la distance."
   - question: "Puis-je marcher sur un tapis de course en intérieur si je ne peux pas sortir ?"
     answer: "Oui. Cependant, ne marchez pas en regardant un écran de télévision ou de smartphone. Fixez un point neutre sur un mur blanc, en coupant toute stimulation visuelle artificielle pour vous immerger dans la sensation de vos pas."
-
 ---
 
 « La contemplation d'un érudit atteint son ordre le plus accompli le long d'un chemin de promenade paisible. » 🚶‍♂️

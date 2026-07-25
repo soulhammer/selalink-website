@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait. Son biographe et ami John Aubrey a consigné dans *Vies brèves* que Hobbes avait fixé un encrier au pommeau de sa canne et gardait du papier dans sa poche pour noter ses pensées en chemin."
   - question: "L'enregistrement vocal ou la saisie de texte est-elle plus efficace lors des déplacements ?"
     answer: "L'enregistrement vocal est bien supérieur en marchant car il exige peu d'attention visuo-motrice, maximisant sécurité et rapidité. La saisie demande de la précision et un regard sur l'écran. Privilégiez le vocal en déplacement."
-
 ---
 
 « Lors de ses promenades, il marchait beaucoup et méditait... et sa canne portait un encrier a son pommeau. » 🦯

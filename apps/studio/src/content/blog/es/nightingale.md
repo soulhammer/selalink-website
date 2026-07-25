@@ -21,7 +21,6 @@ faqs:
     answer: "SÃ­, profundamente. Al controlar pequeÃ±as variables del entorno y registrarlas visualmente, el cerebro libera dopamina en la corteza prefrontal, aumentando la autoeficacia y reduciendo la ansiedad."
   - question: "Â¿Funciona este principio para limpiar entornos digitales como el correo o mensajes?"
     answer: "SÃ­. Mover 3 archivos temporales de la pantalla a la papelera y anotar el objetivo de correos pendientes en su libreta proporciona el mismo efecto de control cortical."
-
 ---
 
 "Los entornos insalubres y la enfermerÃ­a emocional sin datos conducen a la muerte." ð¯ï¸

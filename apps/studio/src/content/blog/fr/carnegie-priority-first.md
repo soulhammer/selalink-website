@@ -21,7 +21,6 @@ faqs:
     answer: "À moins de faire face à une crise organisationnelle grave, la plupart des messages « en apparence urgents » peuvent attendre 1 à 2 heures sans conséquence. Pour protéger vos ressources préfrontales, préservez au moins un « Bloc de Protection Préfrontale » d'une heure chaque matin."
   - question: "Comment appliquer cette routine si la tâche la plus difficile est trop vaste pour être accomplie en une journée ?"
     answer: "Lorsqu'un projet est trop vaste, le cerveau ressent une pression cognitive et cherche à l'éviter. Dans ce cas, découpez le projet en « sous-unités exécutables en 1 heure le matin », et attaquez cette sous-unité comme objectif."
-
 ---
 
 « Accomplissez la tâche la plus difficile de la journée en premier. C'est l'unique loi de ma productivité. » 🏗️

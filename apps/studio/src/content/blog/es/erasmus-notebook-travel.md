@@ -21,7 +21,6 @@ faqs:
     answer: "No, no necesita escribir grandes textos. Pasar de 10 a 20 minutos mirando por la ventana durante el trayecto y anotando un solo pensamiento es suficiente para activar la Red por Defecto y las ondas alfa."
   - question: "¿Puedo usar aplicaciones de notas o notas de voz si los vaivenes dificultan escribir a mano?"
     answer: "Sí, totalmente. Lo fundamental no es el soporte, sino bloquear el contenido digital hiperestimulante (videos cortos, redes sociales, juegos) para darle espacio al cerebro. Las aplicaciones fuera de línea o las notas de voz son excelentes alternativas."
-
 ---
 
 "El viaje es una verdadera fuente de sabiduría, y un cuaderno es el mapa que la conserva." 📓

@@ -21,7 +21,6 @@ faqs:
     answer: "Simply opening a window and gazing at the farthest visible outdoor object for 30+ seconds is completely effective. The neuroscientific goal is shifting from 'Narrow Tunnel Vision' to 'Broad Peripheral Vision', releasing sympathetic threat arousal in the brainstem."
   - question: "What if I struggle to construct vivid mental images during visual meditation?"
     answer: "High-definition visual rendering is unnecessary. Combining the positive emotional 'feeling' of accomplishment, ambient sensory sounds, and simple internal affirmations (e.g., 'I solved this') activates identical cortical networks. Treat it as gathering subtle sensory clues, projecting them comfortably into your mind."
-
 ---
 
 "I bow my head to the eternal sky in prayer, refining not the weapons in my hand, but the purpose within my heart." 🏹

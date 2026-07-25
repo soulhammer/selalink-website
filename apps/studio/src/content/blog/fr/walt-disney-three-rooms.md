@@ -21,7 +21,6 @@ faqs:
     answer: "Il est plus efficace de changer d'espace physique pour induire un rafraîchissement. Si les conditions imposent de n'utiliser qu'un seul espace, il est bon d'offrir une distinction cognitive au cerveau en changeant la couleur des feutres, en réagencant les sièges ou en utilisant différents instruments d'écriture (par ex. crayons de couleur vifs pour le Rêveur, stylo bille noir pour le Critique)."
   - question: "Que faire si la critique durant l'étape du Critique est tellement excessive que l'idée est complètement abandonnée ?"
     answer: "L'objectif du Critique doit être « la complémentarité et l'amélioration », et non l'abandon de l'idée. La phase de critique ne doit pas s'achever par « Cette idée est impossible », mais poser la question « Quels facteurs de risque doivent être modifiés pour faire fonctionner cette idée ? », en ajoutant des solutions réalistes par un ajustement constructif."
-
 ---
 
 « Si vous pouvez le rêver, vous pouvez le faire. » 🏰

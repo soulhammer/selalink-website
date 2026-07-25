@@ -21,7 +21,6 @@ faqs:
     answer: "Der Sandwalk war ein von Darwin angelegter Rundweg auf seinem Anwesen in Kent. Er ging ihn täglich ab und nutzte Steine zum Rundenzählen, um sein Arbeitsgedächtnis zu entlasten, während er Gedanken für 'Über die Entstehung der Arten' ordnete."
   - question: "Sollte ich meinen Geist während des Gehens aktiv zum Denken zwingen?"
     answer: "Nein. Anstatt Gedanken zu erzwingen, verankern Sie eine Fragestellung im Geist und konzentrieren Sie sich auf den Rhythmus des Gehens. Dies ermöglicht das Arbeiten des Default Mode Network (DMN) und maximiert die kognitive Inkubation."
-
 ---
 
 "Während ich die Natur beobachtete, gerieten meine Schritte nie ins Stocken. Gehen war das Werkzeug meines Gehirns, um starre Gedanken zu lockern." 🪨

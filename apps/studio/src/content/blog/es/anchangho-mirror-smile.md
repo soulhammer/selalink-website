@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Realmente funciona forzar una sonrisa frente al espejo?"
     answer: "Sí, debido al efecto de retroalimentación facial, el cerebro detecta el movimiento de los músculos de la expresión facial, juzga que se encuentra en un estado de alegría real y segrega sustancias de la felicidad."
-
 ---
 
 "No sonreímos porque estamos felices; estamos felices porque sonreímos. Practique una cara sonriente frente al espejo cada mañana y limpie su entorno." 🧹

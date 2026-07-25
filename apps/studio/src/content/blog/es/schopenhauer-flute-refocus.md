@@ -21,7 +21,6 @@ faqs:
     answer: "Por supuesto. No se requiere maestría musical. En lugar de tocar, ponga música clásica y controle la respiración inhalando 5 segundos y exhalando 5 segundos para lograr el mismo reinicio alfa."
   - question: "¿Por qué el lavado facial con agua fría estimula el nervio vago y despierta el cerebro?"
     answer: "El agua fría en frente y mejillas activa el reflejo de inmersión mamífero, reduciendo el ritmo cardíaco e incrementando el flujo sanguíneo oxigenado al cerebro. Esto estimula los nervios trigémino y vago, eliminando la niebla mental matutina."
-
 ---
 
 Arthur Schopenhauer, el monumental pensador alemán autor de *El mundo como voluntad y representación*. ¿A través de qué rutina matutina se refinaron sus obras intelectuales agudas y originales?

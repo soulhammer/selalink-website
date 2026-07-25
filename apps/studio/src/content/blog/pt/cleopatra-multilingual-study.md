@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, a eficiência é extremamente baixa. A visualização passiva apenas estimula circuitos auditivos da área de Wernicke, sem acionar a área de Broca. É necessária a articulação vocal por leitura em voz alta e a construção ativa de frases para impulsionar a neuroplasticidade sináptica."
   - question: "Estudar dois ou mais idiomas estrangeiros ao mesmo tempo não provoca uma sobrecarga cognitiva?"
     answer: "Em estágios para iniciantes, a entrada simultânea pode causar interferências. No entanto, uma vez estabelecidos os esquemas básicos em um idioma, alternar entre sistemas gramaticais distintos atua como um exercício cognitivo que fortalece o controle executivo pré-frontal."
-
 ---
 
 "Sua língua era como um instrumento de muitas cordas, que ela podia ajustar facilmente para qualquer idioma que quisesse." 👑

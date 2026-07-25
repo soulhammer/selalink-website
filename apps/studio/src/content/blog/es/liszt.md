@@ -21,7 +21,6 @@ faqs:
     answer: "¡Sí, totalmente! El mecanismo neurobiológico se aplica a cualquier tarea motora: mecanografiar atajos de teclado, perfeccionar un swing de golf o tenis, o coreografiar gestos para presentaciones. Reducir el tempo para eliminar errores acelera la mielinización cerebelosa, aumentando la precisión al subir la velocidad."
   - question: "¿Cómo puedo practicar esta rutina si no tengo un piano real o equipo especializado?"
     answer: "Practicar la ejecución en una mesa plana o teclado simulado siguiendo el ritmo lento de una aplicación de metrónomo activa la corteza motora y las redes del cerebelo de forma casi idéntica a la práctica real."
-
 ---
 
 "El secreto para dominar la técnica en el piano no es la velocidad. Cuando reduces el metrónomo a niveles extremos, tocando una tecla por segundo sin cometer un solo error, esa trayectoria perfecta se graba en el cerebro, y solo entonces surge el virtuosismo deslumbrante." 🎹

@@ -21,7 +21,6 @@ faqs:
     answer: "Ya. Menggunakan ponsel pintar adalah alternatif yang baik jika Anda menggunakan aplikasi catatan luring atau alat memo suara dengan semua notifikasi dimatikan. Faktor utamanya bukan pada medianya, melainkan menjaga otak Anda dalam 'Mode Difus yang bebas gangguan' saat berjalan, dan mengeksekusi pemindahan 'Mode Konvergen' ke buku catatan utama pada malam yang sama."
   - question: "Apa yang harus saya lakukan jika catatan siang hari terlalu belum berkembang untuk diuraikan menjadi entri penuh saat sintesis jurnal malam hari?"
     answer: "Anda tidak perlu menguraikan setiap catatan menjadi esai yang sempurna secara langsung. Untuk fragmen yang belum berkembang, kategorikan di bawah bagian 'Kolam Ide (Idea Pool)' di jurnal Anda. Membiarkannya terstruktur sebagai kata kunci mentah memungkinkannya berpadu secara organik dengan catatan dan pengalaman masa depan, menjadi wawasan yang mendalam seiring berjalannya waktu."
-
 ---
 
 "Ketika gagasan muncul di hutan, jika tidak segera dikunci di dalam buku catatan, gagasan itu akan terbang dan hilang selamanya." 📓

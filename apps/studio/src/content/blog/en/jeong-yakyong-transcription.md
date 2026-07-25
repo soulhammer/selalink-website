@@ -21,7 +21,6 @@ faqs:
     answer: "No. Handwriting with a pen on paper intensely stimulates the somatosensory cortex, dramatically boosting cognitive encoding efficiency. While typing is faster, pressing identical plastic keys provides uniform tactile feedback, offering minimal neural stimulation. For deep long-term memory consolidation, manual 'Choseo' handwriting remains far more powerful."
   - question: "Does explaining concepts to others trigger metacognitive benefits even if not formatted as a written letter?"
     answer: "Yes, absolutely! According to learning pyramid research, teaching or explaining concepts to others yields up to a 90% knowledge retention rate. Beyond writing formal letters or emails, explaining ideas to colleagues in conversation, giving team presentations, or even explaining concepts aloud to yourself in a mirror triggers identical metacognitive benefits."
-
 ---
 
 "Reading without 'Choseo' (selective hand-transcription and annotation) provides no lasting value. Memories grow hazy and vanish without a trace." 🖋️

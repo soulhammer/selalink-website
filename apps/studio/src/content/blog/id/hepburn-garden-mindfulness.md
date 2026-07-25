@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, tentu saja! Mengisi pot kecil di balkon atau meja dengan tanah dan menanam herba kecil memberikan stimulasi taktil dan paparan bakteri tanah yang identik. Mekanisme utamanya adalah kontak fisik dengan tanah hidup, tanpa memandang ukuran tanaman."
   - question: "Apakah ada risiko higienis atau masalah infeksi bakteri saat menyentuh tanah dengan tangan telanjang?"
     answer: "Tanah pot komersial telah dipasteurisasi, menjadikannya jauh lebih aman daripada tanah liar. Mikroorganisme bermanfaat dalam tanah justru membantu memperkuat fungsi imun. Jika kebersihan menjadi perhatian, mengenakan sarung tangan berkebun yang tipis tetap memberikan umpan balik taktil. Mencuci tangan dengan sabun setelahnya menyelesaikan masalah secara total."
-
 ---
 
 "Menanam taman adalah percaya pada hari esok. Ketika saya menyentuh tanah, jiwa saya berada dalam kondisi paling tenang." 🌿

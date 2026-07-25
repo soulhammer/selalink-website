@@ -21,7 +21,6 @@ faqs:
     answer: "Nesses dias é quando a rotina se faz mais necessária. Não procure grandes feitos; escreva fatos físicos ligados à sobrevivência, como 'O chá estava quente' ou 'Estou respirando com calma esta manhã'. Anotar pequenos indicadores de segurança tira o cérebro do modo de ameaça."
   - question: "Que tal usar aplicativos de diário no celular ou postagens em redes sociais para registrar a gratidão?"
     answer: "Postar em aplicativos ou redes sociais desperta a expectativa por validação externa (curtidas, comentários). Além disso, as telas não oferecem estímulo tátil. A escrita física em papel isola o cérebro de comparações digitais e proporciona satisfação e foco puros."
-
 ---
 
 Superando a extrema pobreza e traumas de infância, Oprah Winfrey tornou-se a apresentadora de talk show mais bem-sucedida da história. De onde vinha sua incrível energia mental a cada manhã? 📝

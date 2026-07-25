@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak. Kuncinya adalah mengolah ekspresi dengan kata-kata Anda sendiri dalam bahasa ibu. Menulis satu baris dalam bahasa asing yang sedang dipelajari juga baik untuk stimulasi otak."
   - question: "Bagaimana jika merasa lelah menulis jurnal setiap hari?"
     answer: "Kurangi beban dengan mengganti tulisan panjang menjadi 3 kata kunci utama."
-
 ---
 
 "Ketika kesalahan dan percobaan harian diulas melalui catatan objektif, ketidakpastian berubah menjadi penemuan besar." ð§ª

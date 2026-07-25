@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Wie sollte ich Tagebuch schreiben an Tagen, an denen wenig passiert ist?"
     answer: "Die ‚Konsistenz der Gewohnheit‘ aufrechtzuerhalten ist viel wichtiger als Seiten zu füllen. An gewöhnlichen Tagen reicht es völlig aus, eine Zeile der Dankbarkeit für einen kleinen angenehmen Moment zu schreiben."
-
 ---
 
 „Ich öffne jeden Abend mein Tagebuch und schenke meinem aufgewühlten Herzen nach den Erlebnissen des Tages Ruhe.“ ✍️

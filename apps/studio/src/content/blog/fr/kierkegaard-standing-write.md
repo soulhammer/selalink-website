@@ -21,7 +21,6 @@ faqs:
     answer: "S'asseoir immédiatement au retour provoque una baisse rapide de l'éveil physique, plongeant le cerveau dans un état de relaxation profonde. La station debout maintient l'éveil corporel et préserve la mémoire de travail pendant ces 10 minutes décisives."
   - question: "Comment appliquer cette routine sans pupitre haut ni bureau debout ?"
     answer: "Placer un livre épais ou un support pour ordinateur sur una table classique, un plan de travail ou una commode suffit amplement. L'objectif n'est pas d'acheter des meubles, mais d'adopter una posture debout pour retranscrire ses idées pendant 5 a 10 minutes."
-
 ---
 
 « C'est en marchant que j'ai trouvé mes meilleures pensées, et je ne connais aucune pensée si lourde qu'on ne puisse s'en éloigner en marchant. » 🎩

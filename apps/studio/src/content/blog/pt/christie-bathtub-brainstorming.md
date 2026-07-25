@@ -21,7 +21,6 @@ faqs:
     answer: "O banho quente reduz os batimentos cardíacos e ativa o sistema parassimpático para acionar a DMN, enquanto a mastigação de uma maçã envia estímulos sensoriais via nervo trigêmeo para estimular o córtex pré-frontal, unindo relaxamento e clareza."
   - question: "Existe um método alternativo de relaxamento físico para ativar a DMN se eu não tiver banheira?"
     answer: "Sim, com certeza. Um banho de pés de 15 minutos (a cerca de 40°C) ou uma toalha quente na nuca melhora a circulação. Beber um chá quente devagar enquanto deixa a mente vagar ativa a DMN com a mesma eficácia."
-
 ---
 
 "O melhor momento para planejar um livro é enquanto você lava a louça ou se ensaboa em um banho quente, comendo uma maçã." 🍏

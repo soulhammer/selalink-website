@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, any continuous aerobic exercise that engages cardiopulmonary function and raises BDNF levels, such as cycling or swimming, provides similar cognitive recovery benefits. However, outdoor running maximizes the relaxation and idea activation of the Default Mode Network (DMN) when sensory stimuli like wind and natural scenery reach the brain."
   - question: "Does listening to music while running hinder brain recovery?"
     answer: "Music with lyrics or intense beats forces the prefrontal cortex to auditorily filter and process information, preventing complete brain rest. Listening to natural ambient sounds or focusing solely on your breathing without music is the key to fully activating the DMN and recharging attention."
-
 ---
 
 "For me, running is the most beautiful time to clear my complex mind and immerse myself in pure thought." 🏃‍♂️

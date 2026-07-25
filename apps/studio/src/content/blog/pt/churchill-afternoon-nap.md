@@ -21,7 +21,6 @@ faqs:
     answer: "A sesta de 1,5 hora de Churchill compensava um sono noturno reduzido (4–5 horas) cobrindo um ciclo completo de 90 minutos com fases NREM e REM. Em contrapartida, uma sesta rápida moderna de 20 minutos preserva o sono noturno normal de 7 horas, mantendo-se nas fases leves NREM 1–2 para eliminar a adenosina sem inércia do sono."
   - question: "Uma sesta de 20 minutos é inútil se eu fechar os olhos, mas não conseguir adormecer?"
     answer: "Não, produz benefícios cognitivos significativos. Mesmo sem alcançar o sono real, reclinar-se com os olhos fechados para bloquear estímulos visuais e auditivos desativa o córtex visual e induz ondas cerebrais alfa (8–12 Hz). Essa pausa sensorial de 20 minutos restaura mais de 50% dos recursos pré-frontais."
-
 ---
 
 "Graças à sesta da tarde, pude dividir meu dia em duas jornadas independentes, cada uma com sua própria manhã." 🛌

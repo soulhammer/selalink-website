@@ -21,7 +21,6 @@ faqs:
     answer: "Ja. Das Smartphone ist eine Alternative, wenn Sie eine Offline-App nutzen und Mitteilungen deaktivieren. Entscheidend ist nicht das Medium, sondern dass Ihr Gehirn beim Gehen im 'diffusen Modus' bleibt und Sie die Notizen am Abend ins Hauptjournal übertragen."
   - question: "Was tun, wenn eine Notiz am Abend noch zu unreif ist, um sie zu einem langen Text auszuarbeiten?"
     answer: "Sie müssen nicht jede Notiz sofort zu einem Essay ausarbeiten. Ordnen Sie unfertige Fragmente als Schlüsselwörter in einer 'Ideen-Sammlung' in Ihrem Journal ein. So können sie sich später mit neuen Erfahrungen zu Erkenntnissen verbinden."
-
 ---
 
 "Wenn Gedanken im Wald aufsteigen und nicht sofort in einem Notizbuch festgehalten werden, fliegen sie für immer davon." 📓

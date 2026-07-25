@@ -21,7 +21,6 @@ faqs:
     answer: "Sim. Examinar micro-padrões em plantas de interior ativa a Fascinação Suave, reduzindo a fadiga pré-frontal. No entanto, a observação ao ar livre combinada com luz solar e caminhada leve oferece a maior restauração cognitiva."
   - question: "É realmente necessário carregar uma lupa e envelopes de coleta como Goethe?"
     answer: "Usar uma lupa aumenta a resolução visual e estimula o córtex, mas não é obrigatório. Observar atentamente a olho nu as nervuras das folhas ou padrões de sementes é suficiente para obter os benefícios da Teoria da Restauração da Atenção (ART)."
-
 ---
 
 "A natureza nos fala em profundo silêncio. Concentrar-se nos menores mistérios da natureza é a estação de recarga que desperta os pensamentos mais claros do cérebro." 🌱

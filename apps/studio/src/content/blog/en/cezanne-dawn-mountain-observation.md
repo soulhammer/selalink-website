@@ -21,7 +21,6 @@ faqs:
     answer: "Even on overcast days, outdoor light levels range between 1,000 and 2,000 lux—far brighter than typical indoor lighting (300–500 lux). Thus, walking outside on cloudy days still effectively suppresses melatonin and triggers SCN arousal. However, during extreme air pollution, substitute with window observation, standing right by an open window or balcony looking outside."
   - question: "Can non-artists or office knowledge workers benefit from Cézanne's visual observation routine?"
     answer: "Yes, absolutely. Circadian clock alignment via morning natural light flushes prefrontal fatigue and enhances executive function for any profession. Furthermore, practicing intentional observation of geometric forms and luminance contrasts expands visuospatial working memory capacity, providing powerful cognitive leverage for strategic planning, data analysis, and multidimensional business problem-solving."
-
 ---
 
 "A painter must not simply look at objects; he must sense them with his entire body, reconstruct them inside his brain, and express them on canvas." 🎨

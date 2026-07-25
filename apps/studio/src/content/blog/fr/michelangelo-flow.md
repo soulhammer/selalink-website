@@ -21,7 +21,6 @@ faqs:
     answer: "Parce qu'il refusait de briser son état de concentration extrême. En éliminant les transitions quotidiennes (se changer, se doucher, dormir longtemps), il canalisait le flux continu de sa création directement dans ses œuvres."
   - question: "Quels sont les conseils pratiques pour réduire la fatigue décisionnelle au quotidien ?"
     answer: "Prédéterminez les choix secondaires (tenue, repas) grâce à une routine définie (comme Steve Jobs) et éliminez le désordre visuel de votre bureau pour préserver votre énergie mentale."
-
 ---
 
 La Pietà, le David et le plafond de la Chapelle Sixtine au Vatican — des chefs-d'œuvre immortels de l'histoire de l'art créés par le sculpteur de génie de la Renaissance Michel-Ange Buonarroti (1475-1564). Derrière ces créations colossales se cachait un habituel état d'immersion extrême (Flow). 🏛️

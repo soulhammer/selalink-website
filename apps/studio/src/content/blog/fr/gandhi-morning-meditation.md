@@ -21,7 +21,6 @@ faqs:
     answer: "Toute activité rythmique exigeant une précision motrice est idéale : la calligraphie au stylo-plume, le tricot ou crochet, la cérémonie du thé, l'assemblage de Lego ou puzzles, et le drumming digital, stimulant la sérotonine."
   - question: "Que faire si mon esprit s'évade pendant les activités tactiles ?"
     answer: "Ne vous reprochez pas de divaguer. Prenez simplement conscience de la distraction sans jugement et ramenez doucement votre attention sur « la texture sous vos doigts et le rythme du geste ». Ce retour renforce le contrôle préfrontal."
-
 ---
 
 « Dans le mouvement du rouet, je vois la paix éternelle de l'esprit et l'ordre de l'univers. » 🌀

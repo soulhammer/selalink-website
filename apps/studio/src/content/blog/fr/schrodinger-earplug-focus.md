@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Que faire si le silence absolu me déconcentre ou suscite de l'anxiété ?"
     answer: "Pour les débutants mal à l'aise avec le silence total, commencez par écouter du bruit blanc (pluie, vagues) ou du bruit rose sans paroles pour habituer votre cerveau."
-
 ---
 
 « Le présent est le résultat du passé et la cause du futur. »

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Que doivent faire les débutants qui ne savent pas du tout faire le poirier ?"
     answer: "Même si vous ne pouvez pas vous adosser à un mur, adopter la posture du dauphin ou élever vos jambes sur une chaise en penchant le buste vers le bas procure exactement les mêmes bienfaits sanguins et vestibulaires."
-
 ---
 
 « Quand les idées bloquent, orientez votre tête vers le sol. Votre cerveau commencera immédiatement à penser différemment. » 🤸‍♂️

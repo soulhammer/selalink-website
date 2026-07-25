@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Stört der Konsum von Kaffee spät in der Nacht oder am frühen Morgen den Schlaf?"
     answer: "Ja, es kann die Schlafqualität beeinträchtigen. Da Balzacs Lebensstil mit dem Aufstehen um Mitternacht für moderne Menschen unpraktisch ist, ersetzen Sie Koffein bei Empfindlichkeit durch entkoffeinierten Kaffee oder warmen Kräutertee und legen Sie Fokusblöcke direkt nach der Arbeit oder morgens vor dem Pendeln fest."
-
 ---
 
 "Sobald der Kaffee im Magen ist, entsteht eine allgemeine Aufruhr. Die Ideen beginnen wie die Bataillone der großen Armee zu marschieren." ☕

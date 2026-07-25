@@ -21,7 +21,6 @@ faqs:
     answer: "Listening to an audiobook is passive information intake, which blocks 'active retrieval'—where the brain internally searches memory—and reduces self-reflective dialogue. Clearing your ears during walks to actively process previously read material is far more effective at stimulating brain plasticity."
   - question: "Does walking speed affect brain stimulation?"
     answer: "Yes, it does. Rather than a very slow stroll, a moderate rhythmic pace (approx. 4–5 km/h) where breathing remains comfortable is optimal. At this mild aerobic intensity, BDNF secretion and cerebral blood flow reach ideal levels. Extremely fast running should be avoided as it shifts cognitive resources toward motor control."
-
 ---
 
 "The path of an intellectual giant began in the morning meditation and deep discourse along woodland paths in the fresh morning air." 🚶

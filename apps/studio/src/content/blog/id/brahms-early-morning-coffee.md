@@ -21,7 +21,6 @@ faqs:
     answer: "Brahms adalah seorang perfeksionis yang percaya bahwa kekuatan kopi berdampak langsung pada kondisi kewaspadaan paginya. Aktivitas motorik halus dari menggiling biji kopi dan menyeduh secara manual bertindak sebagai jangkar mental (Mental Anchor) yang kuat, memfokuskan perhatian otaknya untuk hari itu."
   - question: "Bagaimana secara spesifik jalan pagi berkontribusi pada stimulasi otak dan kreativitas?"
     answer: "Pijakan kaki yang ritmis saat berjalan mengirimkan gelombang tekanan yang secara fisik meningkatkan aliran darah otak. Lebih jauh lagi, stimulasi aerobik merangsang pelepasan BDNF, meningkatkan plastisitas sinaptik antar neuron dan memaksimalkan strukturasi informasi tingkat tinggi serta pemecahan masalah secara kreatif."
-
 ---
 
 "Aroma pekat kopi pagi dan udara segar pepohonan pagi akhirnya membangunkan ide-ide musik di kepala saya." ☕

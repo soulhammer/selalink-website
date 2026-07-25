@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, revisar en voz alta las prioridades de la agenda 30 minutos antes de comenzar el trabajo intenso activa de forma proactiva el control ejecutivo de la corteza prefrontal."
   - question: "¿Cómo puedo sustituirlo si no tengo un tablero de notas dedicado o instalaciones para resúmenes?"
     answer: "Sencillamente recitar en voz alta las 3 tareas principales del día anotadas en su libreta estando en una habitación tranquila es una excelente sustitución."
-
 ---
 
 Margaret Thatcher, la primera mujer Primera Ministra de Gran Bretaña, conocida como la 'Dama de Hierro', impulsó una firme reforma conservadora y reestructuración económica que superó el estancamiento de su país. Cada noche hasta las 2 AM, se sentaba en el despacho del gabinete a revisar cientos de páginas de informes oficiales. Con un resaltador amarillo en mano, ignoraba la retórica burocrática innecesaria para centrarse en tres ejes fundamentales: viabilidad de la política, indicadores presupuestarios y aspectos legales. Esta rutina nocturna consolidó su firme liderazgo.

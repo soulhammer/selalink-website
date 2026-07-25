@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "O que devo fazer se minha mente vagar para pensamentos aleatórios durante a reflexão?"
     answer: "Isso é totalmente natural na fase inicial do treinamento cerebral. Quando surgirem pensamentos dispersos, não os reprima; olhe para a placa 'THINK' e redirecione suavemente seu foco ao tema principal."
-
 ---
 
 "Todos os problemas do mundo poderiam ser resolvidos facilmente se as pessoas estivessem dispostas a pensar." 💡

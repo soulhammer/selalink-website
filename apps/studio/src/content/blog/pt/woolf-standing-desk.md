@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Por que Virginia Woolf escrevia de pé?"
     answer: "Assim como sua irmã pintora ficava de pé diante da tela, Woolf apreciava a mesa de pé como um ritual físico para preservar a equivalência artística e o hiperfoco."
-
 ---
 
 Virginia Woolf, a romancista reconhecida como pioneira da literatura modernista do século XX por meio de obras marcantes como 'Mrs Dalloway' e 'Ao Farol'. Como ela foi capaz de realizar os mundos interiores secretos e a psicologia complexa de seus personagens com frases tão refinadas? ✍️

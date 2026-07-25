@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait. Bien qu'à plus petite échelle, examiner les nervures des feuilles, la texture de la terre ou la couleur des tiges de plantes d'intérieur induit la « Douce Fascination », détendant le cortex préfrontal."
   - question: "Est-ce grave si je ne sais pas dessiner et ne peux pas faire de croquis d'observation ?"
     answer: "Oui, tout à fait. Le croquis n'est qu'un outil optionnel pour structurer l'attention visuelle. Si vous ne savez pas dessiner, décrire les couleurs, textures et variations de l'objet à l'aide de 2 à 3 lignes de texte détaillé suffit amplement."
-
 ---
 
 « Ceux qui contemplent la beauté de la terre trouvent des réserves de force qui dureront aussi longtemps que la vie elle-même. » 🐚

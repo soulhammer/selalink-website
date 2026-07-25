@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Comer o mesmo almoço todos os dias não é prejudicial à saúde? Como podemos modernizar o hábito de Schulz?"
     answer: "Schulz comia hambúrgueres tradicionais, mas hoje em dia podemos substituir por um rodízio de 3 marmitas balanceadas ou saladas por assinatura. O objetivo principal é eliminar 'o processo de decidir o que comer'. Fixar de 2 a 3 opções de cardápio saudáveis preserva tanto a saúde nutricional quanto a energia cognitiva."
-
 ---
 
 "Sento-me à minha mesa às 9 horas todas as manhãs e pego a caneta. E no almoço, sempre como um hambúrguer. Simplificar minha vida diária é o segredo para manter minha criatividade." 🍔

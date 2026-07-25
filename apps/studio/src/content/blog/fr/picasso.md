@@ -21,7 +21,6 @@ faqs:
     answer: "Non. Selon la neuroscience, lorsqu'un blocage cognitif survient, passer 20 minutes sur une autre tâche permet de revenir avec un esprit frais et d'accélérer l'aboutissement global de plus de 40 %."
   - question: "Quel est le nombre maximal optimal de pistes de travail à prévoir par jour ?"
     answer: "Pour préserver l'énergie décisionnelle du cerveau, il est conseillé de ne pas dépasser 3 catégories de tâches principales par jour. Au-delà de 4, le coût d'attention lié aux transitions devient trop élevé."
-
 ---
 
 Pablo Picasso (1881–1973), le génie espagnol qui a bouleversé l'art moderne du XXe siècle en cofondant le cubisme. Dans son vaste atelier, Picasso gardait des dizaines de toiles inachevées. Lorsque l'inspiration bloquait sur une œuvre, au lieu de forcer, il passait immédiatement à une autre toile adjacente (une nature morte ou un portrait) pour continuer à peindre. Cette routine flexible de changement de tâche fut le moteur de sa formidable productivité.

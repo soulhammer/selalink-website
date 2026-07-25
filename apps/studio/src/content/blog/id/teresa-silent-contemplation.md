@@ -21,7 +21,6 @@ faqs:
     answer: "Itu adalah fenomena alami dari otak yang mencoba menjalankan pemrosesan. Jangan melawan pikiran yang muncul; jauhi secara tenang dan akui, 'Ah, saya sedang memikirkan tugas hari ini,' mengamatinya berlalu seperti awan. Mengembalikan kesadaran secara perlahan pada pernapasan adalah solusi terbaik untuk menenangkan gelombang otak."
   - question: "Ibu Teresa melakukannya selama 1 jam; apakah menguranginya menjadi 10–15 menit masih efektif untuk otak?"
     answer: "Ya, menurut neurosains klinis dan penelitian stres, melakukan meditasi hening dalam keheningan total selama 10 menit saja secara terfokus memberikan relaksasi fisiologis yang signifikan dengan menekan gairah saraf simpatik dan menurunkan kadar kortisol. Jika keterbatasan waktu, mempraktikkan rutinitas hening 10 menit tanpa ponsel setiap pagi sangat membantu kontrol emosi jangka panjang."
-
 ---
 
 Ibu Teresa, peraih Hadiah Nobel Perdamaian atas dedikasinya melayani kaum paling miskin dan menderita. Rutinitas apa yang memupuk ketenangan tak tergoyahkan dan kekuatan batin yang memungkinkannya bertahan menghadapi duka mendalam di kawasan kumuh Kolkata? 🕊️

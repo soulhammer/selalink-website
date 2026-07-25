@@ -21,7 +21,6 @@ faqs:
     answer: "Ja. Das Untersuchen von Mustern an Zimmerpflanzen aktiviert die sanfte Faszination und senkt die Ermüdung. Die Beobachtung im Freien in Kombination mit Tageslicht und Bewegung erzielt jedoch die besten Erfolge für die kognitive Regeneration."
   - question: "Muss man wie Goethe tatsächlich eine Lupe und Sammeltüten bei sich tragen?"
     answer: "Eine Lupe erhöht die visuelle Auflösung und stimuliert den Kortex stark, ist aber nicht zwingend erforderlich. Das sorgfältige Betrachten von Blattadern oder Samenmustern mit bloßem Auge reicht aus, um die Vorteile der Aufmerksamkeitswiederherstellung zu nutzen."
-
 ---
 
 "Die Natur spricht in der tiefen Stille zu uns. Das Sich-Vertiefen in die kleinsten Geheimnisse der Natur ist die Ladestation, die die klarsten Gedanken des Gehirns weckt." 🌱

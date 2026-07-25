@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Qué debo hacer si la mayoría de las mañanas no recuerdo mis sueños?"
     answer: "Está bien si no recuerda el sueño. Mientras su cerebro aún esté adormilado, escriba al azar al menos 3 líneas sobre su 'flujo de conciencia' en una página en blanco. Esta práctica apaga la autocensura y calienta la mente subconsciente, mejorando la flexibilidad creativa durante el día."
-
 ---
 
 "Esa melodía sonaba perfectamente en mi sueño. Si no me hubiera levantado de inmediato a tocarla en el piano, se habría evaporado como la niebla matutina." 🎹

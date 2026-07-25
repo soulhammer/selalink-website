@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, com certeza! Ferramentas como Notion, Obsidian ou aplicativos de notas criam um Segundo Cérebro excelente. O importante não é o meio, mas manter o 'Princípio de Modularidade' (um único conceito por nota) e o 'Princípio de Conectividade' (recombinar notas em vez de guardá-las)."
   - question: "Quantas fichas devo acumular antes de começar o baralhamento aleatório e a associação criativa?"
     answer: "Recomenda-se começar a baralhar assim que acumular pelo menos 30 a 50 fichas. O cérebro gera insights criativos ao procurar padrões entre conceitos diferentes; ter uma massa crítica de fichas em seu Segundo Cérebro maximiza as combinações de ideias."
-
 ---
 
 "Registrar e classificar ideias não é simplesmente armazená-las. É o único caminho para conectar inúmeros fatos isolados e estruturar uma narrativa monumental." 🗃️

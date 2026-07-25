@@ -21,7 +21,6 @@ faqs:
     answer: "Nein. Schwimmen war lediglich Dieter Rams' bevorzugtes Ausdauertraining. Jede leichte aerobe Aktivität, die die Gehirndurchblutung anregt – wie leichtes Joggen, Dehnen oder ein 10-minütiger strammer Spaziergang – ist völlig ausreichend."
   - question: "Kann ich statt Naturgegenständen auch urbane Gebäude oder schickes Interieur beobachten?"
     answer: "Künstliche Innenräume oder geometrische Gebäude verlangen dem Gehirn unbewusst analytische Interpretationen ab. Um kognitive Ermüdung abzubauen, ist die Beobachtung organischer Naturgegenstände ohne Interpretationsbedarf ideal."
-
 ---
 
 "Um die Qualität des Designs zu steigern, braucht man stille Zeit, um Dinge zu vereinfachen und zu beobachten." 🏊‍♂️

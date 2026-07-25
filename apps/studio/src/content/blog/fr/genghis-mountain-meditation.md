@@ -21,7 +21,6 @@ faqs:
     answer: "Ouvrir une fenêtre et regarder l'objet le plus éloigné à l'extérieur pendant plus de 30 secondes est très efficace. L'objectif est de passer de la « Vision en tunnel » à la « Vision périphérique » pour apaiser le stress."
   - question: "Que faire si j'ai du mal a visualiser des images précises pendant la méditation ?"
     answer: "Il n'est pas nécessaire de visualiser une vidéo en haute définition. Associer la « sensation » émotionnelle du succès, des sons environnants et des affirmations simples (« j'ai réussi ») active les mêmes circuits cérébraux. Voyez cela comme un rassemblement d'indices sensoriels."
-
 ---
 
 « Je courbe la tête vers le ciel éternel en prière, façonnant non pas les armes de ma main, mais le dessein de mon cœur. » 🏹

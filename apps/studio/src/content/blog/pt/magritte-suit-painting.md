@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, produz um efeito incrível! A textura firme sob as solas dos pés envia ao <strong>Córtex Somatossensorial</strong> o sinal de 'modo de atividade externa'. Isso inibe a tentação de se deitar no sofá e serve como um excelente gatilho corporal."
   - question: "Vestir-se bem também ajuda em trabalhos criativos como pintura ou criação de conteúdo?"
     answer: "Sim, com certeza! Embora se pense que roupas caóticas geram criatividade, uma rotina e vestuário organizados economizam recursos cognitivos pré-frontais, permitindo ao cérebro mergulhar em pensamentos profundos e associações surreais."
-
 ---
 
 "Não preciso preencher minha vida cotidiana com loucura pela arte. Quando meu dia a dia é extremamente simples e ordenado, o surrealismo em minha tela ganha uma persuasão afiada." 🎩

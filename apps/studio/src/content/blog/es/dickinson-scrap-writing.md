@@ -21,7 +21,6 @@ faqs:
     answer: "Aunque la acción digital parezca más rápida, desbloquear una pantalla y ver notificaciones obliga al cerebro a procesar nuevos estímulos. Esto sobrescribe la frágil idea en su memoria de trabajo, haciendo que se evapore. Un lápiz físico y un trozo de papel no generan fricción cognitiva."
   - question: "¿No es mejor para la creatividad concentrarse al máximo y ejecutar las tareas domésticas meticulosamente?"
     answer: "Desde la perspectiva de la creatividad, no. El Efecto de Incubación se maximiza cuando la corteza prefrontal suspende el juicio lógico y cae en un estado subconsciente. Por lo tanto, en lugar de abordar una receta compleja, realizar tareas rutinarias y automatizadas —como fregar— produce la mayor tasa de ideas novedosas."
-
 ---
 
 "La inspiración es un huésped muy frágil; si no estás listo para recibirlo, desaparece sin dejar rastro." 📝

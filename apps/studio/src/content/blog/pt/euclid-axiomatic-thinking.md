@@ -21,7 +21,6 @@ faqs:
     answer: "Primeiro defina 3 'fatos básicos irredutíveis' — como restrições físicas do projeto, orçamento real e necessidades do usuário. Em seguida, redesenhe sua estratégia do zero sobre essa base."
   - question: "Qual é a diferença entre o pensamento lógico convencional e o raciocínio de Primeiros Princípios de Euclides?"
     answer: "A lógica convencional costuma se basear em precedentes ou analogias. O pensamento de Primeiros Princípios reinicia todas as suposições para zero, construindo a lógica dedutivamente a partir de verdades evidentes."
-
 ---
 
 "Não existe um caminho real para a geometria." 📐

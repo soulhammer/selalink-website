@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Does it have to be a yellow rose?"
     answer: "No. The yellow rose was simply Márquez's personal medium for psychological comfort. You may freely choose any object that gives you peace, such as a green potted plant or a daffodil."
-
 ---
 
 "As long as there are yellow roses on my desk, nothing bad can happen to me and work will progress." 🌹

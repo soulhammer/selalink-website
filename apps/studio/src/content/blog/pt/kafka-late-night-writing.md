@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, virar a noite em excesso prejudica a saúde. O segredo não é o horário noturno em si, mas garantir '1 hora de silêncio absoluto' sem interrupções. Alcançar isso via cancelamento de ruído ou nas primeiras horas da manhã garante os mesmos benefícios cognitivos."
   - question: "Como posso adaptar a rotina de silêncio de Kafka durante o dia?"
     answer: "Durante o dia, use protetores auriculares ou fones com cancelamento de ruído para bloquear o som, diminua as luzes ou feche cortinas blackout. Minimizar estímulos visuais e auditivos cria uma 'hora dourada de silêncio' para o cérebro."
-
 ---
 
 "A porta do meu quarto está trancada, o silêncio absoluto me envolve e essa quietude profunda sustenta minha alma. Escrever é uma forma de oração." 🕯️

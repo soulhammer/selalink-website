@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut! Es geht nicht um künstlerisches Können, sondern um die Strukturierung von Abläufen. Das Verwenden von digitalen Tools wie Figma, Miro oder Mindmap-Apps zur Anordnung von Textblöcken bietet dieselben kognitiven Vorteile."
   - question: "Was tun, wenn während der Ausführung unvorhergesehene Abweichungen vom Storyboard auftreten?"
     answer: "Ein Storyboard ist ein flexibler Orientierungsrahmen. Wenn unerwartete Probleme auftauchen, halten Sie kurz inne, prüfen Sie den eingetragenen Ausweichplan, führen Sie einen 10-sekündigen mentalen Durchlauf durch und passen Sie Ihr Handeln an."
-
 ---
 
 "Ein Film wird nicht am Set gemacht. Er ist zu 100 Prozent auf dem Papier und im Kopf fertig, bevor die Kamera überhaupt läuft. Das Drehen ist nur die mechanische Umsetzung der Vorlage." 🎬

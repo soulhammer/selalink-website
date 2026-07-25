@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, it is acceptable. However, when using a smartphone, switch to Do Not Disturb mode or set up a widget on your home screen so notifications (messages, SNS) do not distract you, minimizing any recording delay."
   - question: "How about keeping a voice recorder on and listening back to take notes later?"
     answer: "Full recording reduces missing information, but re-listening to hours of audio overloads working memory. Taking quick handwritten keyword notes at critical moments during observation or meetings is far more effective for neural activation and information structuring."
-
 ---
 
 "If you do not write down an observed fact immediately, it is as if it never existed." 📝

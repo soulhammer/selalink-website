@@ -21,7 +21,6 @@ faqs:
     answer: "No. Murmurar o la subvocalización no logra activar los músculos articulatorios ni genera suficiente retroalimentación auditiva. Debe articular con claridad para completar el Bucle de Retroalimentación Auditivo-Motor que activa conjuntamente las áreas de Broca y Wernicke."
   - question: "¿Es efectivo registrar los pensamientos hablados con mementos de voz o aplicaciones de voz a texto (STT) mientras se camina?"
     answer: "Sí, es una excelente adaptación moderna de la rutina de Dostoyevski. Registrar sus pensamientos hablados con aplicaciones de voz a texto evita que la escritura manual interrumpa el flujo del paseo y del habla, reduciendo la fricción cognitiva."
-
 ---
 
 "Una frase solo se vuelve verdadera cuando sale de la boca y resuena en el oído." 🗣️

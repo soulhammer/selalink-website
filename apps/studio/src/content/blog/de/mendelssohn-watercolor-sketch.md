@@ -21,7 +21,6 @@ faqs:
     answer: "Absolut. Das Ziel ist nicht das Vorführen künstlerischen Könnens, sondern das Senden visueller Beobachtungs- und handmotorischer Koordinationssignale an das Gehirn. Selbst bei unvollkommener Komposition oder ungeschickten Linien treten Stimulation und Entspannung der sensorischen Hirnareale identisch auf."
   - question: "Reicht eine Bleistift- oder Kugelschreiberzeichnung anstelle von Aquarell für die Kreuzstimulation aus?"
     answer: "Ja, allein die Verwendung eines Bleistifts oder einfarbigen Stifts spricht räumliche Intuition und taktile Kontrolle ausreichend an, um assoziative Netzwerke zu aktivieren. Bunte Farben oder Farbstifte stimulieren jedoch zusätzlich die Farbwahrnehmung und erweitern die Bandbreite der sensorischen Reize."
-
 ---
 
 "Die Gedanken, die mir durch die Musik ausgedrückt werden, sind nicht zu unbestimmt, um in Worte gefasst zu werden, sondern im Gegenteil zu bestimmt; und die Farben an der Pinselspitze werden zu einem behaglichen Zufluchtsort für Melodien." 🎨

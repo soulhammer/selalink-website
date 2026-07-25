@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Warum läuft Haruki Murakami jeden Tag 10 km?"
     answer: "Um die für das Schreiben von Romanen erforderliche Konzentration und Ausdauer aufrechtzuerhalten, stimuliert er Gehirnzellen durch Ausdauersport und baut ein stabiles körperliches Fundament auf."
-
 ---
 
 "Nur ein Künstler, der weiterläuft, kann kontinuierlich tiefes Wasser aus dem Brunnen der Kreativität schöpfen." 🏃‍♂️

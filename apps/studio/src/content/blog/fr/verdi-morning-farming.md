@@ -21,7 +21,6 @@ faqs:
     answer: "L'aérobie et l'activation musculaire légère aident, mais le sport en salle sous lumière artificielle est moins efficace pour inhiber la mélatonine. L'activité sous la lumière naturelle combinée au contact direct avec la terre et la nature (earthing) est indispensable pour obtenir une telle stabilité nerveuse et une stimulation de la sérotonine comme Verdi."
   - question: "À quoi faut-il faire attention lors de l'introduction du travail physique matinal ?"
     answer: "Il convient d'éviter le travail haute intensité qui épuiserait excessivement le cerveau. Lorsque l'acide lactique s'accumule dans le corps et qu'une fatigue physique importante s'installe, le glucose et l'énergie préfrontale nécessaires au travail créatif sont épuisés, ce qui nuit à la créativité ; limitez-vous donc à de légères activités d'environ 15 minutes."
-
 ---
 
 « Pour moi, la plus grande inspiration musicale ne vient pas en tenant un stylo, mais en travaillant la terre et en suant le matin. » 🎼

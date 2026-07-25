@@ -21,7 +21,6 @@ faqs:
     answer: "Kecemasan meningkat jika otak berfokus pada skenario negatif (kegagalan). Hentikan visualisasi segera dan lakukan 'grounding' sensorik—berfokus pada suara napas atau sentuhan fisik—lalu lakukan peregangan ringan."
   - question: "Berapa durasi latihan yang disarankan untuk setiap gladi mental?"
     answer: "Tidak perlu latihan panjang, sesi singkat 3 hingga 5 menit paling efektif. Karena memori kerja terbatas, mensimulasikan langkah-langkah inti 5 menit sebelum presentasi atau rapat adalah yang paling ideal."
-
 ---
 
 "Saya sudah melewati tikungan itu dengan sempurna ratusan kali di dalam kepala saya. Tubuh saya hanya merekrasi lintasan itu."

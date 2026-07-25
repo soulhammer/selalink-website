@@ -21,7 +21,6 @@ faqs:
     answer: "Sim! Seja em papel físico ou com caneta digital, desde que a motricidade fina e o rastreamento visual estejam sincronizados para mapear estruturas, você obtém os mesmos benefícios neurológicos."
   - question: "Este método traz benefícios para pessoas sem talento para desenhar?"
     answer: "O talento artístico é totalmente irrelevante. O mecanismo neurocientífico depende do esforço cognitivo para observar um objeto e traduzir suas relações em diagramas funcionais."
-
 ---
 
 "Nas menores estruturas da natureza esconde-se a maior ordem que a humanidade ainda não viu." 🔬

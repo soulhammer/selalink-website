@@ -21,7 +21,6 @@ faqs:
     answer: "While Morning Pages are written after washing up or sitting down when reason is partially active, Voltaire's bed writing targets the 'brain threshold' during sleep inertia before physically getting up, capturing subconscious metaphors and creative thoughts in a completely raw state, presenting a deep cognitive difference."
   - question: "What should I do if no ideas come to mind when writing in bed every morning?"
     answer: "There is no need to write grand ideas at all. You can write down any trivial fragment crossing your mind—an unpleasant thing from yesterday, the hassle of today's tasks, or a random list of words. The goal itself is the practice of unlocking the brain's inhibition filter."
-
 ---
 
 "A life without work is a burden. Work alone makes our existence valuable." ✍️

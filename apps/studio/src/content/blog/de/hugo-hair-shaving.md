@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut. Ende 1830 rasierte sich Hugo vor dem Abgabetermin für *Der Glöckner von Notre-Dame* eine Hälfte von Kopfhaar und Bart und ließ seine Straßenkleidung wegschließen, um sich bis zur Fertigstellung zu isolieren."
   - question: "Welche modernen Selbstbindungsmethoden gibt es, ohne sich die Haare zu rasieren?"
     answer: "Das Aufbewahren des Smartphones in einer Zeitschaltbox während Arbeitsphasen oder das Nutzen von Website-Blockern (oder speziellen Browserprofilen) zur Sperrung von Social Media sind hocheffektive moderne Selbstbindungsmethoden."
-
 ---
 
 "Wenn man sich freiwillig einsperrt, erlangt die Fantasie absolute Freiheit." 🪒

@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, ses mécanismes neurophysiologiques sont reconnus. Conserver une posture allongée au réveil modère les pics de cortisol, stabilisant le système nerveux autonome. Préserver les Ondas Alpha de 8 à 12 Hz réduit le bruit sensoriel, stimulant la déduction préfrontale."
   - question: "Que faire si je m'endors accidentellement pendant la méditation au lit ?"
     answer: "Pour éviter de vous rendormir, relevez légèrement le haut du corps à un angle de 30 degrés à l'aide d'oreillers, ou gardez les yeux ouverts en fixant le plafond. Régler une alarme douce exactement 8 à 10 minutes plus tard constitue une sécurité."
-
 ---
 
 « Je pense, donc je suis (Cogito, ergo sum). La clarté mentale absolue naît lorsque le corps repose dans l'immobilité et que l'esprit flotte librement. » 🛏️

@@ -21,7 +21,6 @@ faqs:
     answer: "Wenn Fenster geschlossen sind, filtern und reflektieren Beschichtungen moderner Gläser bis zu 80 % der natürlichen Blau- und UV-Lichtwellenlängen, die für die Gehirnaktivierung unerlässlich sind. Um die ipRGCs in der Netzhaut vollständig zu stimulieren und Melatonin wirksam zu unterdrücken, bietet das vollständige Öffnen der Fenster zum Empfang direkter Lichtwellen weit überlegene physiologische Vorteile."
   - question: "Ist die Beobachtung der Morgendämmerung auch an bewölkten oder regnerischen Morgen wirksam?"
     answer: "Ja. Selbst an bewölkten oder regnerischen Morgen erreicht das natürliche Licht, das die Wolken durchdringt, auf der Erde eine Lichtstärke, die etwa 10-mal höher ist als typische künstliche Innenbeleuchtung. Die in der Atmosphäre gestreuten natürlichen Lichtwellenlängen reichen aus, um die retinalen Ganglienzellen zu stimulieren. Ein 10-minütiger Blick in den Himmel an bewölkten Tagen bringt denselben kognitiven Aufwärmeffekt."
-
 ---
 
 "Das Licht verändert sich stetig und offenbart seine reine Schönheit nur jenen, die es verharrend betrachten." 🎨

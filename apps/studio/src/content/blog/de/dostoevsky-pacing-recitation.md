@@ -21,7 +21,6 @@ faqs:
     answer: "Nein. Flüstern aktiviert die Sprachmuskulatur nicht vollständig und erzeugt zu wenig auditives Feedback. Sie müssen deutlich sprechen, um die auditorisch-motorische Rückkopplungsschleife zu schließen, die das Broca- und Wernicke-Areal gleichzeitig aktiviert."
   - question: "Ist es effektiv, gesprochene Gedanken beim Gehen per Sprachnotiz oder Speech-to-Text-App (STT) aufzunehmen?"
     answer: "Ja, das ist eine hervorragende moderne Umsetzung von Dostojewskis Routine. Die automatische Erfassung Ihrer gesprochenen Gedanken verhindert, dass das Aufschreiben den Fluss des Gehens und Sprechens unterbricht."
-
 ---
 
 "Ein Satz wird erst wahr, wenn er den Mund verlässt und im Ohr klingt." 🗣️

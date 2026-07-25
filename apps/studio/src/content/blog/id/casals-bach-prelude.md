@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, tentu saja. Meskipun memainkan alat musik secara fisik secara tambahan melibatkan korteks motorik, hanya dengan melakukan 'Mendengarkan Aktif'—menutup mata dan menyerahkan kesadaran Anda pada tekstur suara—menginduksi penyesuaian gelombang alfa yang identik. Kuncinya adalah tidak memperlakukan musik sebagai kebisingan latar belakang pasif, melainkan mendedikasikan 10 menit perhatian penuh pada nuansa pendengaran."
   - question: "Apakah mengalungkan headphone lebih efektif saat mendengarkan musik klasik di pagi hari?"
     answer: "Ya, menggunakan headphone memberikan isolasi akustik yang memblokir kebisingan lingkungan, memudahkan otak untuk berfokus. Lebih jauh lagi, menyalurkan sinyal suara stereo secara langsung ke kedua telinga secara penuh mengunci saluran korteks pendengaran, mencegah pikiran yang mengganggu dan mempercepat masuk ke kondisi penyesuaian gelombang alfa."
-
 ---
 
 "Ini adalah penemuan kembali dunia di mana saya memiliki kebahagiaan untuk menjadi bagian di dalamnya. Ini memenuhi saya dengan kesadaran akan keajaiban hidup, dengan perasaan akan keajaiban luar biasa menjadi seorang manusia." 🎹

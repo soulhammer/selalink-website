@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, contos curtos com forte tom lírico, poesias ou ensaios reflexivos são muito mais eficazes para aliviar a fadiga cognitiva numérica do que romances longos focados no enredo."
   - question: "É adequado ler em um leitor de e-book?"
     answer: "Livros físicos em papel são ideais, mas leitores de e-ink com luz frontal emitem pouca luz azul prejudicial ao sono, sendo perfeitamente adequados."
-
 ---
 
 "A ciência nos ensina o que é o universo, mas a poesia nos ensina quem nós somos." 📜

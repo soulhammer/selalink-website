@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Why did Barack Obama wear only gray and navy suits?"
     answer: "To preserve prefrontal brain energy for the countless critical decisions he faced daily as President, he completely blocked trivial morning choices about clothing and meals to prevent decision fatigue."
-
 ---
 
 "You'll see I wear only gray or blue suits. I'm trying to pare down decisions. I don't want to make decisions about what I'm eating or wearing. Because I have too many other decisions to make." ð

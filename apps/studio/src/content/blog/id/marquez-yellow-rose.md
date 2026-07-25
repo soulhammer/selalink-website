@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah harus bunga mawar kuning?"
     answer: "Tidak. Mawar kuning hanyalah objek pribadi Márquez untuk kenyamanan psikologisnya. Anda bebas memilih objek apa pun yang memberikan rasa tenang, seperti tanaman hijau kecil atau bunga narsis."
-
 ---
 
 "Selama ada mawar kuning di meja saya, tidak akan ada hal buruk yang terjadi dan pekerjaan akan berjalan lancar." 🌹

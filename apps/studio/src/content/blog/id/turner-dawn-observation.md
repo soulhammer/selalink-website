@@ -21,7 +21,6 @@ faqs:
     answer: "Malah jauh lebih baik. Turner jauh lebih suka mengamati cahaya atmosfer yang terhambur pada hari berawan, bersalju, atau berkabut daripada hari cerah. Pada hari mendung, Anda dapat menangkap transisi bayangan halus yang diciptakan oleh cahaya dan kelembapan atmosfer secara jauh lebih baik."
   - question: "Apakah boleh mengamati sinar matahari di siang hari jika saya kesulitan bangun di pagi fajar?"
     answer: "Sinar matahari siang yang terik terlalu keras untuk retina dan dapat dengan mudah merusak mata, sementara suhu warnanya yang konstan memberikan manfaat pelatihan sensitivitas kontras yang lebih rendah. Transisi lembut dari biru dingin ke oranye hangat tepat sebelum matahari terbit adalah yang paling aman dan memaksimalkan efek stimulasi saraf."
-
 ---
 
 Joseph Mallord William Turner (1775–1851), pelukis Romantis Inggris terkemuka abad ke-19 yang dijuluki 'Pelukis Cahaya' karena kemampuannya menangkap perubahan halus cahaya dan atmosfer, bangun lebih awal dari orang lain setiap fajar untuk mengamati sinar matahari dan hamburan awan saat matahari terbit. Pengamatan cahaya fajar ini mereset ritme sirkadiannya dan memberinya inspirasi artistik yang mendalam.

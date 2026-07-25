@@ -21,7 +21,6 @@ faqs:
     answer: "No. La escritura manual proporciona una retroalimentación táctil que recluta activamente las cortezas motora y somatosensorial, fortaleciendo el control prefrontal. Además, la luz azul del móvil suprime la melatonina y altera el sueño. Se recomienda utilizar un cuaderno físico."
   - question: "¿Qué debo hacer los días en que estoy demasiado agotado para escribir un registro completo antes de dormir?"
     answer: "Escribir una sola línea, como 'Completado hoy: Tarea A', es suficiente. El objetivo no es la perfección, sino mantener el bucle diario continuo. Esta acción mínima indica control prefrontal a su cerebro, reduciendo la reactividad de la amígdala."
-
 ---
 
 "Cada noche, al registrar la profundidad del océano y el ángulo de las estrellas, el terror a la oscuridad desconocida se transformaba en la certeza de los números." ⛵

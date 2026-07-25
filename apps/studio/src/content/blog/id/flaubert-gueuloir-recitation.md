@@ -21,7 +21,6 @@ faqs:
     answer: "Karena berteriak di tempat umum tidak pantas, gunakan 'sub-bisikan' atau gumaman kecil, dengan secara fisik mengartikulasikan kata-kata menggunakan bibir dan lidah Anda. Hanya dengan menggerakkan organ artikulasi akan mengaktifkan korteks motorik dibandingkan membaca dalam hati, sehingga mampu menangkap sebagian besar kesalahan."
   - question: "Apakah kebiasaan deklamasi ini efektif untuk proposal bisnis atau laporan, bukan hanya karya sastra?"
     answer: "Ya, sangat efektif. Tata bahasa yang canggung, kata hubung yang tidak tepat, dan struktur kalimat yang terlalu panjang dalam laporan bisnis akan langsung membuat Anda tersandung dan kehabisan napas saat dideklamasikan. Deklamasi berfungsi sebagai filter presisi untuk menyempurnakan keterbacaan dan alur logika yang persuasif."
-
 ---
 
 "Jika ritme musik dari suatu kalimat belum sempurna, pemikiran itu sendiri belum berdiri kokoh. Prosa yang baik harus mengalir dengan irama dan harmoni seperti puisi hebat." ✍️

@@ -21,7 +21,6 @@ faqs:
     answer: "Sementara Morning Pages ditulis setelah cuci muka atau duduk saat rasio sudah mulai bekerja sebagian, menulis di tempat tidur ala Voltaire membidik 'celah otak' selama inersia tidur sebelum bangun secara fisik, menangkap metafora bawah sadar dan pemikiran kreatif dalam kondisi yang benar-benar mentah, yang memberikan perbedaan kognitif mendalam."
   - question: "Apa yang harus dilakukan jika tidak ada ide yang muncul saat mau menulis di tempat tidur setiap pagi?"
     answer: "Tidak perlu menulis ide-ide hebat sama sekali. Anda bisa menuliskan serpihan sepele apa pun yang melintas di kepala—hal tak menyenangkan kemarin, rasa malas terhadap tugas hari ini, atau deretan kata acak. Latihan melepaskan filter inhibisi otak itu sendiri adalah tujuannya."
-
 ---
 
 "Hidup tanpa bekerja adalah beban. Hanya pekerjanlah yang membuat keberadaan kita bernilai." ✍️

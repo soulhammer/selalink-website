@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait ! Dans una lettre personnelle de mars 1819 au Dr Vine Utley, Jefferson a explicitement écrit qu'il se baignait les pieds dans l'eau froide chaque matin depuis 60 ans, attribuant sa santé robuste a ce rituel."
   - question: "Une douche froide complète est-elle plus efficace qu'un bain de pieds a l'eau froide ?"
     answer: "Une douche froide complète provoque un éveil plus intense, mais impose un stress cardiovasculaire élevé. Le bain de pieds a l'eau froide isole le stimulus aux nerfs périphériques, réduisant la fatigue tout en éveillant efficacement le cerveau."
-
 ---
 
 « J'ai baigné mes pieds dans l'eau froide chaque matin pendant 60 ans, et je n'ai pris aucune autre habitude qui puisse être qualifiée de singulière... » 🧊

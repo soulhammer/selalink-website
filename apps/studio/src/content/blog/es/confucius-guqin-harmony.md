@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, absolutamente. El propósito de esta rutina no es la ejecución artística, sino la estabilización del sistema nervioso mediante la afinación y la resonancia acústica. Instrumentos sencillos como una Kalimba o un Ukelele le permiten afinar y pulsar notas en 10 minutos, brindando beneficios de relajación."
   - question: "¿Es efectivo usar una aplicación de afinación en el teléfono móvil?"
     answer: "Sí, siempre que no mire fijamente la pantalla. Mantenga la aplicación abierta como referencia, pero desvíe la mirada. Centrar su atención en la sensación tátil de las cuerdas y en la vibración acústica en lugar de en los medidores visuales reduce la fatiga visual y activa la recuperación."
-
 ---
 
 "Cuando la mente no esté clara, tañe las cuerdas. Afinar un instrumento es afinar el propia alma." 🎼

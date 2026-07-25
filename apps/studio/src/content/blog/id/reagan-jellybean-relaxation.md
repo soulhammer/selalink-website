@@ -21,7 +21,6 @@ faqs:
     answer: "Riset neurofisiologi menunjukkan bahwa kadar kortisol mulai menurun dan gelombang otak mulai beralih ke gelombang alfa (Alpha wave) yang rileks sekitar 2 hingga 3 menit setelah mengunyah dimulai. Oleh karena itu, berfokus secara tenang saat mengunyah selama minimal 2 hingga 3 menit adalah kunci untuk merasakan manfaatnya."
   - question: "Apakah ada prinsip ilmiah di balik aktivitas mengunyah yang membantu menekan dorongan merokok atau makan berlebihan?"
     answer: "Benar. Ketika timbul dorongan kuat (rokok, makanan), otak menginginkan suplai dopamin yang cepat. Menyediakan stimulasi alternatif mengunyah pada mulut memungkinkan otak secara parsial memuaskan keinginan imbalannya (melalui pelepasan dopamin pintas), membantu mengendalikan lonjakan dorongan yang tajam. Dalam ilmu perilaku, ini disebut 'pembentukan perilaku alternatif'."
-
 ---
 
 Ronald Reagan, Presiden Amerika Serikat ke-40, adalah pemimpin politik terkemuka yang memimpin penghentian Perang Dingin, membangkitkan kembali ekonomi Amerika, dan menampilkan kepemimpinan komunikasi yang jelas. Sebagai kepala negara adidaya dunia yang harus menanggung beban berat krisis nasional dan keputusan penting, apa rahasia relaksasi kognitifnya? 🍬

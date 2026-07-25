@@ -21,7 +21,6 @@ faqs:
     answer: "Si 2 heures consécutives semblent insurmontables, appliquez la technique des « 2 sessions séparées » : 50 minutes de concentration suivies de 10 minutes d'étirements. Pendant la pause, ne consultez pas vos messages ; buvez de l'eau ou marchez un peu avant la seconde session."
   - question: "Les couche-tard qui ont du mal a se lever tôt peuvent-ils aussi profiter de cette heure dorée cognitive ?"
     answer: "Oui, tout à fait. Le principe ne dépend pas de l'heure exacte (5h30), mais du fait d'allouer vos ressources préfrontales à votre tâche la plus complexe durant les 2 premières heures suivant le réveil, sans distractions. En éliminant les notifications dès le réveil, vous obtiendrez les mêmes bénéfices."
-
 ---
 
 « La complexité d'un problème se dissout entièrement dans le calme du matin. Les heures qui précèdent le réveil de tous sont celles où mon cerveau fonctionne avec une clarté limpide. » 🧮

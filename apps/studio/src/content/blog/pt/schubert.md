@@ -21,7 +21,6 @@ faqs:
     answer: "Tudo bem. Nesses 2 minutos de escrita, a missão de capturar as ondas Theta já foi concluída. Beber água ou se alongar logo em seguida envia sinais de alerta ao cérebro, dissipando o sono."
   - question: "O que devo fazer se não vier nada à mente logo ao acordar?"
     answer: "Se nada vier à mente, escreva três vezes palavras que descrevam seu estado, como 'estou com sono' ou 'mente vazia'. Apenas quebrar a fricção inicial entre a caneta e o cérebro é suficiente."
-
 ---
 
 Franz Schubert, o genial compositor austríaco representativo da música romântica do século XIX e reverenciado como o Rei dos Lieder (Liederfürst), produziu mais de 600 lieder líricos e sinfonias magníficas antes de morrer prematuramente aos 31 anos. Cada manhã, assim que abria os olhos, ele ia direto para sua mesa de composição ao lado da cama, de óculos, e começava a escrever notas na pauta. Para não perder o fio do inconsciente musical que surgia no estado entre o sono e a vigília, ele chegava ao ponto de dormir de óculos. Essa rotina de escrita imediata, que eliminou qualquer fricção entre acordar e começar a trabalhar, foi a força que o tornou um compositor imortal.

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "What if I live in a one-room apartment or share space with family, making physical room isolation difficult?"
     answer: "If physical wall separation is unavailable, build a 'virtual sound wall' using noise-canceling headphones with gentle white noise or classical music. Additionally, place a 'Do Not Disturb' sign on your desk or utilize early morning hours to secure 2 hours of undisturbed focus before others wake up."
-
 ---
 
 "I do not go far away to work. I merely enter a small, mysterious hut in my garden and close the door. That is entirely my own universe." 🏠

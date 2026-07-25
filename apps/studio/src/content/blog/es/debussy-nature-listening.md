@@ -21,7 +21,6 @@ faqs:
     answer: "Si el acceso al aire libre es limitado, abra una ventana temprano por la mañana para concentrarse en el viento y el silencio, o use auriculares para reproducir audio de Ruido Rosa $1/f$ de alta calidad (lluvia, bosque o mar) durante 5 minutos."
   - question: "¿Esta rutina es efectiva si se practica por la tarde durante el trabajo en lugar del amanecer?"
     answer: "Sí, por supuesto. Cada vez que experimente fatiga auditiva o tensión cognitiva durante el trabajo, tómese una pausa de 5 minutos para silenciar dispositivos y diferenciar los sonidos naturales, lo que aliviará la fatiga prefrontal y restaurará la eficiencia."
-
 ---
 
 "La música no existe solo en las partituras, habita en el silencio entre las notas y en el murmullo del viento." 🌊

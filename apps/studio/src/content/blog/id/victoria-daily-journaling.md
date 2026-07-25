@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Bagaimana cara mengisi jurnal pada hari-hari ketika hanya ada sedikit hal untuk ditulis atau tidak ada kejadian khusus?"
     answer: "Mempertahankan 'konsistensi kebiasaan' jauh lebih penting daripada memenuhi halaman. Pada hari-hari biasa, cukup tulis satu baris yang mengungkapkan rasa syukur atas momen kecil yang menyenangkan atau tingkat ketegangan fisik."
-
 ---
 
 "Saya membuka jurnal saya setiap malam dan memberikan ketenangan pada hati saya yang bergejolak setelah pengalaman hari itu." ✍️

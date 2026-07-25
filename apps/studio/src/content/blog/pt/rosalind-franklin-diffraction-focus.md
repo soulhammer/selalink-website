@@ -21,7 +21,6 @@ faqs:
     answer: "O tempo gasto para corrigir erros, desculpar-se e refazer o trabalho mais tarde é 10 vezes maior. Dedicar 10 minutos na revisão é o caminho mais rápido."
   - question: "É possível aplicar a conferência quantitativa em textos ou tarefas de escritório?"
     answer: "Sim! Crie uma lista quantitativa focada em 3 elementos propensos a erro (datas, ortografia, links, nomes de clientes) e aplique o mesmo método."
-
 ---
 
 Rosalind Franklin (1920–1958) foi uma brilhante físico-química britânica que capturou a 'Foto 51', a chave para decifrar a dupla hélice do DNA. Apesar dos preconceitos e das condições adversas, seus dados experimentais não toleravam margem de erro. 🧬

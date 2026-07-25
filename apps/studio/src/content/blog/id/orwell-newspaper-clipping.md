@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, artikel yang dikumpulkan George Orwell, salinan kliping guntingan tangannya, serta catatan kerja terkait tersimpan sebagai arsip sejarah berharga di University College London (UCL)."
   - question: "Aplikasi apa yang direkomendasikan untuk menjalankan rutinitas kliping ini secara digital?"
     answer: "Kami merekomendasikan Notion, Obsidian, dan Evernote untuk kliping teks, sorotan, dan pemuatan catatan cepat, serta aplikasi kliping web khusus seperti Pocket dan Raindrop.io."
-
 ---
 
 "Jika kebebasan memiliki arti, itu berarti hak untuk memberi tahu orang-orang apa yang tidak ingin mereka dengar." 📰

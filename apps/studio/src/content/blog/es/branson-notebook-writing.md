@@ -21,12 +21,11 @@ faqs:
     answer: "Desbloquear un teléfono inteligente y buscar una aplicación lo expone a notificaciones, mensajes y correos que secuestran la concentración, haciendo que la inspiración se evapore. En cambio, un cuaderno analógico es instantáneo; la fricción táctil y la presión del bolígrafo estimulan con fuerza la corteza somatosensorial y activan el SRA del cerebro."
   - question: "¿Existen ejemplos reales en los que una nota trivial en el cuaderno de Branson se convirtiera en un gran éxito empresarial?"
     answer: "Sí. Virgin Atlantic Airways nació de una sola nota. Cuando se canceló un vuelo a Puerto Rico, Branson escribió: '¿Posibilidad de operar un vuelo chárter para pasajeros varados?'. De inmediato consultó los costos de flete, vendió billetes de ida a los pasajeros varados en una pizarra y puso el avión en marcha. Esa nota dio origen a una aerolínea global."
-
 ---
 
 "No importa lo trivial que parezca una idea, si no la anotas en el acto, desaparece para siempre. Mi cuaderno y mi bolígrafo son las herramientas más grandes que poseo." 📓
 
-Sir Richard Branson (1950–) es el multimillonario fundador de Virgin Group, quien construyó un imperio de más de 400 empresas en aviación, viajes espaciales, finanzas, entretenimiento y medios de comunicación. Famoso por sus as campañas de marketing y aventuras extremas, ha llevado consigo un elemento imprescindible durante décadas. No se trata de un reloj de lujo ni de un teléfono inteligente de última generación, sino de un sencillo cuaderno de papel analógico y un bolígrafo en su bolsillo trasero o en su chaqueta.
+Sir Richard Branson (1950–) es el multimillonario fundador de Virgin Group, quien construyó un imperio de más de 400 empresas en aviación, viajes espaciales, finanzas, entretenimiento y medios de comunicación. Famoso por sus a�s campañas de marketing y aventuras extremas, ha llevado consigo un elemento imprescindible durante décadas. No se trata de un reloj de lujo ni de un teléfono inteligente de última generación, sino de un sencillo cuaderno de papel analógico y un bolígrafo en su bolsillo trasero o en su chaqueta.
 
 Debido a que luchó contra la dislexia en su juventud, Branson dependía de la toma de notas intuitiva y de la conversación directa en lugar de documentos formales. Durante décadas —ya fuera en reuniones de directivos, fiestas, aviones o en medio de una aventura en globo aerostático—, anotaba al instante inspiraciones fugaces, quejas de clientes y comentarios de empleados. Conservando miles de cuadernos en su estudio, afirma: "Si no hubiera llevado un cuaderno, Virgin Group nunca habría existido". Para él, la escritura analógica servía como una trampa cognitiva para atrapar las ideas antes de que escaparan al subconsciente.
 

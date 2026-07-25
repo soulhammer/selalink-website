@@ -21,7 +21,6 @@ faqs:
     answer: "L'anxiété augmente quand le cerveau se focalise sur l'échec. Stoppez immédiatement la visualisation et pratiquez l'ancrage sensoriel (Grounding) en écoutant votre respiration ou en touchant une surface, puis étirez-vous légèrement."
   - question: "Quelle est la durée recommandée pour chaque session de répétition mentale ?"
     answer: "Inutile de faire de longues sessions : 3 à 5 minutes d'immersion intense suffisent. Les ressources de la mémoire de travail étant limitées, simuler les étapes clés 5 minutes avant une réunion est idéal."
-
 ---
 
 "J'ai déjà franchi ce virage à la perfection des centaines de fois dans ma tête. Mon corps ne fait que recréer cette trajectoire."

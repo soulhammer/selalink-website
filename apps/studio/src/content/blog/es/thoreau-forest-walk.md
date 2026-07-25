@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Cómo tomaba notas Thoreau mientras caminaba durante 4 horas?"
     answer: "Caminaba con una pequeña libreta de cuero hecha a mano y un lápiz en el bolsillo de su abrigo. Cuando le surgía un pensamiento, se detenía bajo un árbol y registraba de inmediato los detalles de las plantas o las frases espontáneas."
-
 ---
 
 "Camino para pensar o escribir. Cuando mis piernas comienzan a moverse, mis ideas finalmente comienzan a fluir." 🚶‍♂️

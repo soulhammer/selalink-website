@@ -21,7 +21,6 @@ faqs:
     answer: "El ejercicio aeróbico y la activación muscular ligera ayudan, pero las sesiones de gimnasio en interiores bajo luz artificial tienen menor efecto supresor de la melatonina. Se requiere actividad bajo la luz solar natural combinada con la conexión a tierra (earthing, tocando directamente la tierra y elementos naturales) para lograr una estabilidad neuronal tan potente y una activación de serotonina como Verdi."
   - question: "¿Qué se debe tener en cuenta al introducir el trabajo físico matutino?"
     answer: "Se debe evitar el trabajo de alta intensidad que agote excesivamente el cerebro. Cuando el ácido láctico se acumula en el cuerpo y aparece una fatiga física severa, la glucosa y la energía prefrontal necesarias para el trabajo creativo se agotan, perjudicando la creatividad; por lo tanto, limítelo a actividades ligeras de unos 15 minutos."
-
 ---
 
 "Para mí, la mayor inspiración musical no llega al sostener una pluma, sino al labrar la tierra y sudar por la mañana." 🎼

@@ -21,7 +21,6 @@ faqs:
     answer: "Évitez le contact visuel direct. Portez des lunettes de soleil ou tenez une boisson pour dévier votre regard tout en pratiquant le balayage par « Vision Périphérique », en vous concentrant sur la dynamique de la silhouette."
   - question: "Le mimétisme physique contribue-t-il réellement à décoder les états émotionnels d'autrui ?"
     answer: "Oui, profondément. Sur le plan neuroscientifique, reproduire la posture et le tempo de mouvement d'une personne synchronise votre système de neurones miroirs. Cela permet à votre système limbique de décoder les marqueurs émotionnels non verbaux comme le stress ou la fatigue."
-
 ---
 
 « Dans la façon de marcher d'une personne, on peut lire toute son histoire et ses sentiments profonds. » 🎩

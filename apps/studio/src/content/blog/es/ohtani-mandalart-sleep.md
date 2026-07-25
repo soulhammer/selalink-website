@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "10 horas de sueño parece poco realista para personas ocupadas; ¿se puede reducir?"
     answer: "El umbral de 10 horas aplica a atletas de alto rendimiento; para la mayoría de las personas, asegurar de 7 a 8 horas de sueño sólido es suficiente. La clave no es obsesionarse con la duración, sino maximizar la proporción de sueño profundo (sueño de onda lenta) mediante rutinas constantes y control ambiental."
-
 ---
 
 "Al escribir una lista, las tareas se vuelven claras; al completar 10 horas de sueño, el cuerpo está listo para enfrentar cualquier lanzamiento." 💤

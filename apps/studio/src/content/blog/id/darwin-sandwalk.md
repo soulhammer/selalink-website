@@ -21,7 +21,6 @@ faqs:
     answer: "Sandwalk adalah jalur lingkar kerikil dan tanah pribadi yang dibangun oleh Darwin di sekitar kediamannya di Down House, Kent. Ia menyusurinya setiap hari, menggunakan batu-batu kecil untuk melacak putaran secara otomatis guna mengurangi beban memori kerja saat menyusun pemikiran untuk 'On the Origin of Species'."
   - question: "Apakah saya harus secara aktif memaksa pikiran saya untuk memikirkan masalah tersebut saat berjalan?"
     answer: "Tidak. Daripada memaksa fokus secara terus menerus, cukup tanamkan satu pertanyaan target dalam pikiran Anda dan alihkan kesadaran aktif Anda ke irama sensorik berjalan. Ini memungkinkan Default Mode Network (DMN) beroperasi, memaksimalkan 'Inkubasi Kognitif' bawah sadar."
-
 ---
 
 "Saat mengamati alam, langkah kaki saya tidak pernah ragu. Berjalan adalah alat otak saya untuk melonggarkan pikiran yang kaku dan melahirkan koneksi baru." 🪨

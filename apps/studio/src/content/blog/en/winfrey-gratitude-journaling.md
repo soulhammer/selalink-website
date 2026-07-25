@@ -21,7 +21,6 @@ faqs:
     answer: "Those days are when this routine is needed most. Don't look for grand events; write basic physical facts tied to survival, such as 'The tea yesterday was warm' or 'I am breathing safely this morning.' Writing down micro safety cues triggers positive alertness to pull the brain out of threat mode."
   - question: "How about keeping gratitude records using smartphone journal apps or social media posts?"
     answer: "Posting on social media or apps triggers anxiety-driven dopamine loops associated with seeking social validation (likes, comments). Furthermore, sleek screens lack tactile feedback. Physical handwriting on paper insulates your brain from digital comparison, delivering pure focus and satisfaction."
-
 ---
 
 Overcoming tragic poverty and childhood trauma, Oprah Winfrey rose to become the most successful talk show host in history and an icon of the modern media industry. Where did her vibrant mental drive and intellectual energy originate every morning? 📝

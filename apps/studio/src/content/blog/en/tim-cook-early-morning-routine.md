@@ -21,7 +21,6 @@ faqs:
     answer: "If your genetic sleep chronotype is strictly nocturnal, you do not need to force yourself to wake up at 3:00–4:00 AM. The key lesson of this routine is 'securing 1 hour of proactive uninterrupted time', so replacing it with 1 hour after work or late at night produces the same effect."
   - question: "How can I overcome afternoon fatigue when I wake up early in the morning?"
     answer: "Taking a light 15–20 minute power nap between 1:00 PM and 3:00 PM, stopping caffeine intake before 11:00 AM, and doing light stretching will significantly reduce prefrontal fatigue."
-
 ---
 
 Tim Cook, the top executive who leads Apple and directs the daily lives of hundreds of millions of people and trillions of dollars in decisions. What is his ultimate morning secret for keeping the day under his absolute control before external noise and messages storm in? ⌚

@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait. Décoder des micro-textures tactiles exige une co-activation synaptique plus dense dans les lobes préfrontal et pariétal que le traitement visuel, augmentant la profondeur de la mémoire."
   - question: "Que faire si la peau sèche réduit ma sensibilité tactile pendant la pratique ?"
     answer: "Lavez-vous les mains à l'eau tiède avant l'entraînement pour stimuler la circulation sanguine. Appliquer une légère couche de crème hydratante améliore la réactivité des récepteurs tactiles."
-
 ---
 
 « L'éveil de l'épellation tactile dans ma paume a éveillé mon âme, lui a donné la lumière, l'espoir, la joie et l'a libérée. » ✋

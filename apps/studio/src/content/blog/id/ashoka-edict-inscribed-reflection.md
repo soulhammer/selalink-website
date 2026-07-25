@@ -21,7 +21,6 @@ faqs:
     answer: "Sangat direkomendasikan untuk membatasinya hingga 3 atau kurang. Jika jumlah nilai bertambah menjadi 5 atau lebih, memori kerja (Working Memory) akan mengalami beban berlebih, yang dengan cepat melemahkan efek penambatan."
   - question: "Apakah saya boleh mengubah kata-kata nilai seiring berjalannya waktu?"
     answer: "Ya, tentu saja! Mendefinisikan ulang dan memperbarui kartu nilai Anda secara triwulanan (setiap 3 bulan) sesuai dengan perubahan tahap kehidupan dan tujuan Anda adalah kebiasaan yang sangat baik yang memberikan stimulasi baru bagi korteks prefrontal."
-
 ---
 
 Ashoka Agung, raja suci yang menyatukan sebagian besar anak benua India kuno, membuka era kejayaan bagi Kekaisaran Maurya, dan bertransformasi dari raja penakluk yang kejam menjadi pelindung antikekerasan dan perdamaian. Setelah menyaksikan tragedi mengerikan dari Perang Kalinga, apa rahasianya mengendalikan kekuasaan dan hasratnya sepanjang hidup serta memegang teguh kepemimpinan etis yang benar? 🏛️

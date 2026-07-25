@@ -21,7 +21,6 @@ faqs:
     answer: "That is completely fine. In those 2 minutes of writing down your thoughts, your mission to capture Theta waves is already successful. Drinking a bit of water or stretching right after writing sends wakefulness signals to the brain, quickly dispersing sleepiness."
   - question: "What should I do if nothing comes to mind right after waking up?"
     answer: "If nothing comes to mind, simply write state-describing words like 'I feel sleepy' or 'blank mind' three times by hand. Just breaking the friction between the pen and motor cortex is enough."
-
 ---
 
 Franz Schubert, the genius Austrian composer who represents 19th-century Romantic music and is revered as the King of Songs (Liederfürst), produced over 600 magnificent, lyrical lieder and symphonies before dying prematurely at the young age of 31. Every morning the moment he opened his eyes, he went straight to his composing desk right next to his bed without even taking off his glasses, and began writing notes on staff paper. To avoid losing the thread of musical unconsciousness that surfaced in a drowsy half-awake state, he went so far as to sleep with his glasses on. This instant writing routine, which eliminated all friction steps between waking up and starting work, was the force that made him an immortal composer.

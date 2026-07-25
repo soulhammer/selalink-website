@@ -21,7 +21,6 @@ faqs:
     answer: "Isso é uma resposta neurológica totalmente natural. Em vez de tentar imagens detalhadas de imediato, comece com um modelo abstrato muito simplificado — desenhe 2 ou 3 caixas ou círculos básicos conectados por linhas. Conforme o treino avança, a resolução viso-espacial do cérebro aumentará."
   - question: "O hábito da visualização 3D com os olhos fechados realmente ajuda em habilidades práticas como planejamento ou programação?"
     answer: "Sim, enormemente. Arquitetos de sistemas experientes e planejadores estratégicos modelam fluxos de dados orgânicos e dependências entre componentes no espaço mental antes de escrever código ou redigir documentos. O treino de visualização mental melhora drasticamente a memória de trabalho pré-frontal, permitindo-lhe sustentar e montar estruturas lógicas complexas sem esforço."
-
 ---
 
 "Quando perdi a visão, só então comecei a explorar o mundo interior e os verdadeiros labirintos." 📚

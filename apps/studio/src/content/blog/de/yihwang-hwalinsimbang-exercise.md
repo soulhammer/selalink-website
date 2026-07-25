@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Es ist schwierig, alle 24 Hwalinsimbang-Übungen zu lernen. Was sind die wesentlichen Kernübungen?"
     answer: "Wenn alle Übungen zu komplex sind, merken Sie sich nur zwei Dinge: Erstens, reiben Sie nach dem Aufwachen die Handflächen warm und massieren Sie sanft das Gesicht. Zweitens, sitzen Sie aufrecht, atmen Sie tief durch die Nase ein und etwa 10 Sekunden lang langsam durch den Mund aus. Das reicht völlig aus."
-
 ---
 
 "Wer den Geist beherrscht, muss den Körper aufrichten und die frische Morgenluft einatmen, um alle inneren Unreinheiten fortzuspülen." 🧘‍♀️

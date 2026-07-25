@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, penelitian tentang Kognisi Berbusana (Enclothed Cognition) dalam psikologi kognitif membuktikannya secara kuat. Hanya dengan berganti dari piyama atau pakaian rumah ke pakaian rapi seperti celana bahan atau kemeja, otak akan mengubah mode simbolisnya dari 'konteks istirahat' ke 'konteks kerja', mengurangi kebiasaan menunda-nunda dan secara drastis memperpendek waktu pemanasan awal untuk fokus mendalam."
   - question: "Ketika sulit untuk berganti pakaian lengkap atau pakaian bepergian, bisakah item tunggal seperti kacamata atau jam tangan tetap efektif?"
     answer: "Ya, tentu saja bisa! Selama item tersebut diakui oleh otak sebagai 'sinyal kerja simbolis', isyarat tunggal seperti memakai kacamata, mengenakan jam tangan analog khusus fokus, atau memakai sepatu dalam ruangan yang rapi dapat menginduksi efek pengondisian yang sama. Kuncinya adalah secara konsisten mematuhi aturan simbolis Anda sendiri bahwa 'mengenakan item ini memicu mode konsentrasi penuh'."
-
 ---
 
 "Ketika malam tiba, saya pulang ke rumah dan masuk ke ruang kerja. Di ambang pintu, saya melepas pakaian kerja yang ternoda lumpur dan mengenakan jubah kerajaan dan istana. Berpakaian pantas, saya memasuki istana kuno para tokoh masa lalu." 👑

@@ -21,7 +21,6 @@ faqs:
     answer: "Dependendo da pessoa, o silêncio absoluto pode causar zumbidos ou ansiedade. Nesses casos, toque um ruído rosa suave de fundo (como som de chuva ou vento). Sons da natureza relaxam o cérebro sem exigir atenção cognitiva."
   - question: "Trabalhar deitado na cama é eficaz para manter o foco?"
     answer: "Proust era forçado a trabalhar deitado devido à sua asma grave. Para a maioria das pessoas, o cérebro associa a cama ao sono, gerando sonolência. Para ter o máximo de foco, trabalhe sentado em uma escrivaninha adotando apenas os princípios de isolamento sensorial."
-
 ---
 
 "Para recordar o passado, é preciso fugir de toda a luz e ruído do mundo presente." Marcel Proust, o romancista francês que revolucionou a literatura do século XX com uma maestria descritiva incomparável. Ao longo da vida, sofreu com asma crônica e hipersensibilidade a estímulos sensoriais. Buscando refúgio da agitação de Paris, ele transformou seu quarto no nº 102 do Boulevard Haussmann em uma fortaleza à prova de som. revestiu todas as paredes com placas espessas de cortiça para bloquear o ruído externo. Fechou cortinas pesadas para impedir a luz do dia e escreveu sua obra-prima 'Em Busca do Tempo Perdido' (À la recherche du temps perdu) na cama sob a luz de velas. Nesse casulo sem distrações, uma sutil pista sensorial — como o aroma de uma madeleine banhada em chá — disparava memórias involuntárias de seu subconsciente. Este artigo explica como a rotina de isolamento com cortiça de Proust potencializa a memória e o foco profundo, e como adaptá-la hoje.

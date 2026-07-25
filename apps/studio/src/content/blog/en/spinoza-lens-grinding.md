@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Should I practice this habit every day?"
     answer: "Yes, neural plasticity is maximized when practiced at a consistent daily time. Executing it continuously at a set time and location strengthens neuroplasticity circuits for optimal success."
-
 ---
 
 "The clarity of my philosophy is like the purity of light passing through a glass lens." 🔍

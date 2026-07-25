@@ -21,7 +21,6 @@ faqs:
     answer: "Olahraga aerobik seluruh tubuh yang menggerakkan tubuh bagian atas dan bawah secara bersamaan (seperti mesin rowing, sepeda statis, eliptikal, jogging interval, atau burpee) akan memberikan efek penyegaran sistem saraf yang serupa."
   - question: "Apakah berolahraga intensitas tinggi setiap hari tidak membebani tubuh secara berlebihan?"
     answer: "Lakukan olahraga aerobik intensif 3 kali seminggu, dan sesuaikan secara fleksibel dengan jalan santai atau peregangan di hari-hari lainnya untuk mencegah cedera."
-
 ---
 
 "Saat aku menggerakkan tubuhku secara kuat untuk mendayung menyeberangi sungai, kelelahan mental dan migrain yang menekan otakku sirnah sepenuhnya." 🚣

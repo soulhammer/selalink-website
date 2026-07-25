@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Sollte ich diese Gewohnheit jeden Tag praktizieren?"
     answer: "Ja, die tägliche Ausführung zu einer festen Zeit maximiert die Neuroplastizität des Gehirns. Die kontinuierliche Ausführung jeden Tag an einem festen Ort und zu einer festen Zeit zur Stärkung der neuroplastischen Schaltkreise (Neuroplasticity) des Gehirns ist der sicherste Schlüssel zum Erfolg."
-
 ---
 
 "Um die Natur zu beherrschen, muss man ihr gehorchen." 🌿

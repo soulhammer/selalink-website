@@ -21,7 +21,6 @@ faqs:
     answer: "Mark Zuckerberg também usa terno em eventos oficiais e reuniões de diretoria. O essencial do uniforme é eliminar escolhas banais, então predefinir uma combinação social para ocasiões formais permite que você a vista sem esforço e evite a fadiga."
   - question: "Posso criar um uniforme com outras peças de roupa além de camisetas e jeans?"
     answer: "Com certeza. Camisas com calças sociais, vestidos ou qualquer combinação simples que seja confortável e não exija preocupação com a aparência são perfeitas, desde que você adquira várias peças idênticas."
-
 ---
 
 "Eu realmente quero simplificar minha vida para ter que tomar o mínimo de decisões possível sobre qualquer coisa, exceto como servir melhor a esta comunidade." 👕

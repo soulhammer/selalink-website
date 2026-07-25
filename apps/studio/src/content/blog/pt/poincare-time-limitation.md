@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Por que Henri Poincaré pesquisava apenas 4 horas por dia?"
     answer: "Forçar o foco prolongado afunila a visão cognitiva e reduz a criatividade. Ao limitar o trabalho a 4 horas, Poincaré ativava o Modo Difuso com caminhadas e descanso, liberando a inspiração subconsciente."
-
 ---
 
 "A iluminação repentina é um sinal manifesto de um longo trabalho inconsciente prévio." Henri Poincaré, polímata francês, resolvedor do problema dos três corpos e pioneiro da teoria do caos, foi um dos maiores matemáticos da história. Incrivelmente, Poincaré mantinha a regra rígida de trabalhar apenas 4 horas por dia em sua escrivaninha (das 10h às 12h e das 17h às 19h), passando o resto do dia caminhando ou descansando. Ele se lembrava de que as soluções para seus desafios matemáticos mais complexos (como as funções fuchsianas) não surgiam diante das equações, mas apareciam em sua mente no momento em que subia o estribo de um ônibus em Coutances. Ele percebeu que um esforço consciente intenso seguido de repouso completo (fase de incubação) permite que o cérebro subconsciente conecte ideias de forma criativa. Este artigo analisa essa interação entre modo focado e modo difuso na rotina de Poincaré.

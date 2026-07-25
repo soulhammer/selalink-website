@@ -21,7 +21,6 @@ faqs:
     answer: "Tidur siang 1,5 jam ala Churchill mengompensasi tidur malam yang terbatas (4–5 jam) dengan mencakup siklus 90 menit penuh yang mencakup tahap NREM dan REM. Sebaliknya, power nap 20 menit modern mempertahankan tidur malam normal 7 jam, tetap berada dalam tahap NREM 1–2 yang ringan untuk membersihkan adenosin secara instan tanpa inersia tidur."
   - question: "Apakah tidur siang 20 menit tidak berguna jika saya memejamkan mata tetapi gagal untuk benar-benar tertidur?"
     answer: "Tidak, itu tetap memberikan manfaat istirahat kognitif yang signifikan. Bahkan tanpa mencapai tidur nyata, bersandar dengan mata terpejam untuk memblokir masukan visual dan pendengaran akan melepaskan korteks visual dan menginduksi gelombang otak alfa yang santai (8–12 Hz). Jeda sensorik 20 menit ini saja memulihkan lebih dari 50% sumber daya kognitif prefrontal."
-
 ---
 
 "Berkat tidur siang, saya dapat membagi hari saya menjadi dua hari mandiri yang masing-masing memiliki pagi harinya sendiri." 🛌

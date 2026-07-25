@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Hat Napoleon während aktiver Schlachten tatsächlich Naps eingelegt?"
     answer: "Ja, historischen Aufzeichnungen zufolge besaß Napoleon die außergewöhnliche Fähigkeit, selbst auf von Kanonendonner erfüllten Schlachtfeldern augenblicklich einzuschlafen und nach exakt 15 Minuten mit absolut klarem Verstand aufzuwachen, um taktische Befehle zu erteilen."
-
 ---
 
 Selbst inmitten der extremen Anspannung eines von Kanonendonner erfüllten Schlachtfeldes gab es einen Kaiser, der seine Energie mit einem kurzen 15-minütigen Schlaf vollständig zurücksetzte: Frankreichs legendärer Militärstratege und Kaiser, Napoléon Bonaparte (1769–1821). 💤

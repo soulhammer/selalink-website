@@ -21,7 +21,6 @@ faqs:
     answer: "Sim, com certeza! Agende de 2 a 3 blocos para 'Atendimento de Emergências e Respostas em Lote'. Mantenha o foco absoluto nos blocos de trabalho profundo."
   - question: "Como superar a culpa ao não cumprir rigorosamente a agenda?"
     answer: "O mapeamento de tempo é um guia, não uma prisão. O importante é o foco em uma tarefa durante o bloco, não a execução perfeita. Se o cronograma sair do trilho, exercite a Flexibilidade Cognitiva e siga em frente."
-
 ---
 
 "Ao estabelecer horários e regras para o trabalho, governa-se completamente a vida. Com um almanaque e um relógio, podia-se saber a trezentas léguas o que o rei estava fazendo." 👑

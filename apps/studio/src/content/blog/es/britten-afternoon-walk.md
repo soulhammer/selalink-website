@@ -21,7 +21,6 @@ faqs:
     answer: "Ubicada en Suffolk, en la costa este de Inglaterra, Aldeburgh es una playa de guijarros lisos en lugar de arena. Las olas al rodar sobre los guijarros crean un sonido rítmico, mientras que el amplio horizonte ofrece liberación visual a la corteza prefrontal."
   - question: "¿Caminar por entornos urbanos rodeados de rascacielos ofrece beneficios similares de restauración de la atención?"
     answer: "Pasear por la ciudad implica ruido de tráfico, semáforos y luces de neón que exigen atención dirigida, reduciendo los efectos restauradores. En entornos urbanos, es esencial buscar espacios verdes y tranquilos, como parques arbolados o senderos junto al río."
-
 ---
 
 "En mis paseos por la tarde a lo largo de la costa, todos los nudos difíciles de mi música que se me resistían durante la mañana finalmente se desatan." 🌊

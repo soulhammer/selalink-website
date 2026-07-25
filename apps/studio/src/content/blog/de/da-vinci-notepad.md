@@ -21,7 +21,6 @@ faqs:
     answer: "Um körperliche Hürden auf null zu reduzieren, sodass er Beobachtungen innerhalb von Sekunden festhalten konnte. Dieses reibungslose Design hielt sein Arbeitsgedächtnis frei und bewahrte präfrontale Kapazitäten für kreative Ideen."
   - question: "Bietet die Nutzung einer Notiz-App auf dem Smartphone dieselben Vorteile zur Entlastung des Arbeitsgedächtnisses wie ein Notizbuch?"
     answer: "Ja, absolut. Der Grundmechanismus ist das Auslagern von Informationen auf ein externes Medium zur Entlastung des Arbeitsgedächtnisses (RAM). Das handschriftliche Schreiben oder Skizzieren auf Papier liefert jedoch taktiles Feedback, das motorische und visuelle Areale stimuliert und die Erinnerung stärkt."
-
 ---
 
 "Richte deinen Blick auf das Detail und halte es sofort auf Papier fest. Wer sich nur auf sein Gedächtnis verlässt, verliert das größte Erbe des Wissens." 📓

@@ -21,7 +21,6 @@ faqs:
     answer: "Indeed, complete disconnection for 3 hours can be difficult in typical office environments. In such cases, splitting the time into two '90-minute focus / complete rest' blocks (e.g., 1.5 hours in the morning and 1.5 hours in the afternoon) will still greatly preserve computational efficiency in the brain."
   - question: "Can I continue with lighter tasks in the afternoon after the 3-hour focus block?"
     answer: "Yes. After 3 hours of Deep Work, performing routine repetitive tasks, checking emails, or handling administrative chores (shallow work) that do not require high-level decision-making is fine. Filling the afternoon with low-cognitive-demand tasks balances energy and preserves prefrontal cortex resources."
-
 ---
 
 "I work for only three hours a day. But during those three hours, I am completely separated from the world and focus solely on my logic." ☕

@@ -21,7 +21,6 @@ faqs:
     answer: "Se tudo parece urgente, as demandas externas estão se sobrepondo às suas prioridades. Crie um bloco estrito de 'Não Perturbe' nos primeiros 30 minutos do dia sem abrir e-mails ou aplicativos de mensagem, dedicando esse tempo ao Quadrante 2. Garantir esse pequeno bloco é o catalisador para reduzir incêndios no futuro."
   - question: "Qual é o critério objetivo para distinguir entre tarefas 'Importantes' e 'Urgentes'?"
     answer: "As 'tarefas urgentes' são geradas por demandas externas que exigem reação imediata (e-mails, notificações, prazos). Já as 'tarefas importantes' estão ligadas aos seus objetivos de longo prazo e competências. Pergunte-se: 'Se eu não realizar esta tarefa, isso terá um impacto significativo na minha vida daqui a 1 ano?'"
-
 ---
 
 "Tenho dois tipos de problemas, os urgentes e os importantes. Os urgentes não são importantes, e os importantes nunca são urgentes." 📊

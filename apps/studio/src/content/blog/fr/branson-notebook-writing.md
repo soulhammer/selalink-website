@@ -21,7 +21,6 @@ faqs:
     answer: "Déverrouiller un smartphone et chercher une application vous expose aux notifications, messages et e-mails qui détournent l'attention, faisant s'évaporer l'inspiration. À l'inverse, un carnet analogique est instantané ; la friction tactile et la pression du stylo stimulent le cortex somatosensoriel et activent le SRA du cerveau."
   - question: "Existe-t-il des exemples concrets où une simple note dans le carnet de Branson s'est transformée en un grand succès commercial ?"
     answer: "Oui. La compagnie Virgin Atlantic est née d'une simple note. Un vol pour Porto Rico ayant été annulé, Branson a écrit : « Possibilité d'affréter un vol charter pour les passagers bloqués ? » Il s'est renseigné sur le coût d'affrètement, a vendu des billets simples aux passagers sur un tableau noir et a fait décoller l'avion. Cette note est à l'origine d'une compagnie aérienne mondiale."
-
 ---
 
 « Quelle que soit la banalité d'une idée, si vous ne la notez pas sur-le-champ, elle disparaît à jamais. Mon carnet et mon stylo sont les plus grands outils que je possède. » 📓

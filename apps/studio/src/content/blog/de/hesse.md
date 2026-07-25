@@ -21,7 +21,6 @@ faqs:
     answer: "Körperliche Arbeit wie das Berühren von Erde und das Jäten von Unkraut signalisiert dem ermüdeten Stirnhirn Entlastung von der 'gerichteten Aufmerksamkeit'. Sollten Sie keinen Garten haben, bietet ein Spaziergang im Wald mit dem Berühren von Ästen denselben Entspannungseffekt."
   - question: "Wie lässt sich dies in einer Stadtwohnung ohne eigenen Garten oder Erde ersetzen?"
     answer: "Sie können dies durch die Pflege von Zimmerpflanzen auf dem Balkon, Umtopfen oder das Schneiden welker Blätter ersetzen. Auch ein Spaziergang durch Stadtparks mit Fokus auf den Duft von Blättern und Erde ist eine hervorragende analoge Kontemplationsmethode."
-
 ---
 
 "Einen Garten zu pflegen ist das heiligste analoge Ritual, um die große Stimme des Lebens wieder zu hören und innere Turbulenzen zu beruhigen." 🌿

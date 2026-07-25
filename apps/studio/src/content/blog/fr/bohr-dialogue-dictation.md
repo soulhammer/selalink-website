@@ -21,7 +21,6 @@ faqs:
     answer: "Vous pouvez y suppléer en activant un enregistreur vocal ou une application IA sur votre smartphone et en parlant à voix haute comme si vous expliquiez à un auditeur virtuel. Le facteur crucial n'est pas la présence physique d'un auditeur, mais le processus de stimulation cognitive consistant à convertir la pensée intérieure en langage parlé externe pour le réécouter."
   - question: "Comment transformer le contenu d'une discussion orale en un document écrit productif ?"
     answer: "Nous recommandons de noter immédiatement les intuitions soudaines sous forme de mots-clés pendant le discours, ou d'utiliser des outils de reconnaissance vocale (STT) pour transcrire automatiquement la session, puis de réorganiser le texte brut en un plan structuré pendant le travail profond."
-
 ---
 
 « Nous ne découvrons ce que nous pensions vraiment qu'en exprimant librement nos pensées à voix haute à autrui. » 🗣️

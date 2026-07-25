@@ -21,7 +21,6 @@ faqs:
     answer: "Nietzsche walked primarily between morning breakfast and lunchtime, as well as during late afternoons. He preferred mountain trails and forest paths to draw philosophical inspiration directly from nature."
   - question: "Must I walk outdoors when practicing this in daily life?"
     answer: "Outdoor nature walks are ideal; however, if unavailable, quietly pacing along an indoor hallway or open office space can still trigger cognitive shifts and reset your focus."
-
 ---
 
 "All truly great thoughts are conceived while walking." ð¶ââï¸

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "O que acontece se uma etapa da rotina for omitida acidentalmente?"
     answer: "O cérebro pode reagir de forma hipersensível a desvios inesperados, aumentando temporariamente a ansiedade. Nesses casos, reinicie com calma desde o início ou passe com flexibilidade para a próxima tentativa."
-
 ---
 
 "Antes de entrar na água, eu já tinha nadado uma prova perfeita incontáveis vezes em minha mente." 🏊‍♂️

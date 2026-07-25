@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Wie kann ich Reinigen als Meditation nutzen?"
     answer: "Anstatt sich auf ein schnelles Beenden zu konzentrieren, ist es effektiv, sich auf das sensorische Feedback selbst zu konzentrieren, wie das Feggeräusch und das taktile Gefühl in Ihren Händen."
-
 ---
 
 „Den Staub des Gartens zu fegen bedeutet nicht nur, heruntergefallene Blätter zu entfernen, sondern unnötigen Lärm aus dem Geist zu fegen und dem Freiraum der Natur zu begegnen.“

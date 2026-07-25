@@ -21,7 +21,6 @@ faqs:
     answer: "Topik kontroversial memicu adrenalin dan kortisol yang menyebabkan kelelahan kognitif. Menetapkan aturan awal—seperti 'Hari ini, mari kita bicarakan pengalaman pribadi atau buku daripada berita'—menjadi perisai untuk menjaga Ataraxia kelompok Anda."
   - question: "Bagaimana jika menjadwalkan pertemuan tatap muka mingguan dengan teman terlalu sulit?"
     answer: "Pertemuan tatap muka mingguan tidak wajib dilakukan. Bertemu sembulan sekali secara langsung, atau melakukan panggilan telepon tenang selama 30 menit setiap dua minggu cukup untuk menstimulasi jalur oksitosin."
-
 ---
 
 "Kita harus mencari dengan siapa kita makan dan minum sebelum mencari apa yang kita makan dan minum." 🍇

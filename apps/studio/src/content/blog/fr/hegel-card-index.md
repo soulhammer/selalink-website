@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait. Vous pouvez mettre en place un système de fiches à l'aide d'outils numériques comme Notion, Obsidian ou des applications de notes. L'utilisation des liens bidirectionnels (Rétroliens) reproduit parfaitement le système d'Hegel."
   - question: "Pourquoi les fiches courtes sont-elles plus efficaces que la rédaction de longues pages dans un carnet ?"
     answer: "Les longues pages enchaînent les idées a un contexte linéaire, détruisant leur indépendance. Les fiches courtes agissent comme des blocs modulaires, offrant une grande « Flexibilité cognitive » pour réorganiser les pensées."
-
 ---
 
 « Seules les pensées consignées et organisées dans l'espace extérieur peuvent évoluer vers une véritable sagesse dialectique. » 🗃️

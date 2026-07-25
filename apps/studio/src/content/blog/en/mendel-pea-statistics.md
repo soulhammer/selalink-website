@@ -21,7 +21,6 @@ faqs:
     answer: "Excel or automated data applications automate processing, resulting in lower visual cognitive stimulation. The physical act of holding a ruler and drawing lines by hand to represent fluctuations engages the inferior parietal lobe much more strongly, helping you intuitively perceive causal relationships and meaningful patterns behind the data."
   - question: "Is it necessary to keep recording even if there is no significant change in figures?"
     answer: "Yes, it is extremely important. 'Flatline maintenance' in figures is itself valuable data showing consistency. Recording periods of no change sustains the brain's impulse control mechanisms and serves as a vital control baseline when outliers eventually appear (e.g., identifying why reading volume dropped sharply)."
-
 ---
 
 "The laws hidden in nature finally reveal themselves in precise mathematical order among countless detailed data points." 🫛

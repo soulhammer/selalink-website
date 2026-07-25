@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Precisa ser necessariamente uma rosa amarela?"
     answer: "Não. A rosa amarela era apenas o elemento pessoal de conforto de Márquez. Você pode escolher livremente qualquer objeto que lhe traga paz, como um pequeno vaso verde ou um narciso."
-
 ---
 
 "Enquanto houver rosas amarelas na minha mesa, nada de mal me acontecerá e o trabalho fluirá." 🌹

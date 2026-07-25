@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Was sollten Anfänger tun, die keinen Kopfstand ausführen können?"
     answer: "Selbst wenn Sie sich nicht an die Wand lehnen können, bietet die Delfin-Pose (Hüfte auf der Matte heben) oder das Hochlegen der Beine auf einen Stuhl bei vorgebeugtem Oberkörper genau dieselben Vorteile."
-
 ---
 
 „Wenn die Ideen stocken, richten Sie den Kopf gen Boden. Das Gehirn beginnt sofort, anders zu denken.“ 🤸‍♂️

@@ -21,7 +21,6 @@ faqs:
     answer: "Sie schrieb im Tagebuch: 'William ging heute Morgen hunderte Male den Gartenpfad auf und ab und rezitierte Verse.' Sie beschrieb anschaulich, wie sein Gehtempo exakt mit dem Rhythmus seiner Rezitation wechselte."
   - question: "Hat das Gehen und Rezitieren auf einem Laufband im Raum denselben Effekt?"
     answer: "Ja! Da der physiologische Hauptmechanismus auf der Kleinhirnaktivierung durch das Gehen beruht, erzielt auch langsames Gehen auf dem Laufband dieselbe Hirnwellen-Synchronisation und Sprach-Rückkopplung."
-
 ---
 
 "Poesie ist der spontane Überfluss starker Gefühle: Sie nimmt ihren Ursprung in der in Ruhe wiedererinnernten Emotion." 🚶‍♂️

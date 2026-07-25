@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Why did Mary Shelley specifically choose her mother's grave?"
     answer: "Her mother died right after giving birth to Mary. The grave was her only physical connection to her mother. Sitting there allowed her to meditate on birth, death, and identity, topics central to Frankenstein."
-
 ---
 
 "Solitude is my most cherished companion, the secret womb where imagination is born."

@@ -21,7 +21,6 @@ faqs:
     answer: "Mapas mentais focam no brainstorming livre. O mapeamento de Lovelace modela a lógica operacional: fluxo de dados, laços de controle, ramificações e estruturas causais."
   - question: "É necessário usar ferramentas digitais complexas como UML ou Figma?"
     answer: "Não! Distrair-se com a interface do software desperdiça recursos cognitivos. O desenho analógico no papel ou quadro ativa a dupla codificação de forma direta e sem distrações."
-
 ---
 
 "Encontro a verdadeira beleza da matemática ao projetar visualmente as conexões orgânicas entre conceitos abstratos." 📊

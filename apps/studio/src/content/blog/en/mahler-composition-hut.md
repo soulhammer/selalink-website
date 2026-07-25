@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "What should office workers in open-plan spaces do if they cannot physically isolate themselves?"
     answer: "Combine 'auditory isolation' with 'digital isolation'. Wearing noise-canceling headphones with white noise or rain sounds simulates a physical wall for the brain. Simultaneously setting your chat status to 'Do Not Disturb' and maximizing a single task window creates an effective 'digital mini hut'."
-
 ---
 
 "Only in complete solitude and silence can the deepest sounds of nature enter my score." 🎼

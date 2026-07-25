@@ -21,7 +21,6 @@ faqs:
     answer: "Rather than elaborate ceremonies or luxury home items, bicycles provided a practical, healthy tool to explore the French countryside, contemplate ideas, and release research stress together. These bicycles served both as their honeymoon transportation and lifelong mental anchor."
   - question: "Are there alternative aerobic routines if I do not own a bicycle or lack cycling trails?"
     answer: "Yes, absolutely. A 30-minute brisk walk, light jogging, or stationary indoor cycling provides identical cardiovascular and cerebral blood flow benefits. The key mechanism is engaging lower body muscles in a rhythmic pattern to pump oxygenated blood to the brain."
-
 ---
 
 "The single refreshment capable of flushing lab gases and cognitive exhaustion was the evening breeze cutting across country roads on bicycle pedals." 🚲

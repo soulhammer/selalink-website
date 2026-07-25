@@ -21,7 +21,6 @@ faqs:
     answer: "Les sujets controversés stimulent l'adrénaline et le cortisol, provoquant une fatigue mentale. Établir une règle au préalable — comme « Aujourd'hui, parlons de nos expériences ou de nos lectures » — protège l'Ataraxie du groupe."
   - question: "Que faire si planifier des rencontres hebdomadaires avec ses amis est trop difficile ?"
     answer: "Il n'est pas nécessaire de se voir chaque semaine. Une rencontre mensuelle ou un appel de 30 minutes toutes les deux semaines suffit amplement à stimuler les circuits de l'oxytocine."
-
 ---
 
 « Nous devons chercher avec qui manger et boire avant de chercher quoi manger et boire. » 🍇

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah melakukan latihan gerakan fisik di pagi hari saat lelah dapat membebani otak?"
     answer: "Sebaliknya, merangsang saraf sensorik dan gerakan tangan halus tepat setelah bangun tidur akan mengaktifkan sistem retikular batang otak, mendorong pelepasan kortisol dan dopamin untuk dengan cepat menghilangkan inersia tidur."
-
 ---
 
 "Aku adalah kaisar, tetapi tanganku masih kapalan." ⚓

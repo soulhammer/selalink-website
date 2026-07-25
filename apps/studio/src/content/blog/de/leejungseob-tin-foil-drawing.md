@@ -21,7 +21,6 @@ faqs:
     answer: "Der spürbare Widerstand und das Geräusch beim Ritzen der Folie lasten die somatosensorischen Netzwerke im Gehirn aus. Dies dämpft Stresssignale der Amygdala und verhindert negatives Grübeln."
   - question: "Kann man Alufolie und Nägel durch normales Papier und einen Kugelschreiber ersetzen?"
     answer: "Ja, absolut! Das Ausüben von festem Druck mit einem Kugelschreiber auf Pappe oder rauem Papier erzeugt spürbaren Widerstand in den Fingerspitzen. Der entscheidende Auslöser ist die Haptik des Drucks, nicht das genaue Material."
-
 ---
 
 "Es spielt keine Rolle, ob ich keine Leinwand oder teure Ölfarben habe. In dem Moment, in dem ich mit einem Nagel eine Linie auf die Alufolie einer Schachtel ritze, vergehen Hunger und Trauer – nur die Kunst bleibt." 🐂

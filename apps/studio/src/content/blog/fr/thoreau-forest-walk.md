@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Comment Thoreau prenait-il des notes tout en marchant pendant 4 heures ?"
     answer: "Il marchait avec un petit carnet en cuir fait main et un crayon dans la poche de son manteau. Lorsqu'une pensée lui venait, il s'arrêtait sous un arbre et notait immédiatement les détails des plantes ou les phrases émergentes."
-
 ---
 
 « Je marche pour penser ou pour écrire. Quand mes jambes se mettent en mouvement, mes pensées commencent enfin à couler. » 🚶‍♂️

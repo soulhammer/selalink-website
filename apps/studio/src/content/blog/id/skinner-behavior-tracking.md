@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah perencanaan kreatif atau studi kualitatif juga dapat dicatat dengan indikator kuantitatif seperti jumlah kata atau waktu?"
     answer: "Ya, bisa. Untuk perencanaan kreatif, alih-alih jumlah kata, Anda dapat mendefinisikan unit output yang bernilai seperti 'Jumlah Ide Utama yang Dihasilkan', 'Jumlah Referensi Berkualitas yang Dikumpulkan', atau 'Jumlah Sub-bab Outline yang Didetailkan' untuk menerapkan umpan balik secara efektif."
-
 ---
 
 "Pendidikan adalah apa yang tersisa setelah semua yang dipelajari telah dilupakan." 📈

@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak. Tulisan tangan secara fisik memberikan umpan balik sensorik taktil yang secara luas merekrut korteks motorik dan somatosensori, melibatkan kontrol kognitif prefrontal secara jauh lebih kuat. Lebih jauh lagi, cahaya biru smartphone menekan sekresi melatonin, mengganggu arsitektur tidur. Penggunaan buku catatan kertas fisik sangat direkomendasikan."
   - question: "Apa yang harus saya lakukan pada hari-hari ketika saya terlalu lelah untuk menulis catatan log penuh sebelum tidur?"
     answer: "Menulis satu baris saja—seperti 'Selesai hari ini: Tugas A'—sudah sangat cukup. Tujuannya bukanlah kesempurnaan, melainkan mempertahankan loop pencatatan harian yang tidak terputus. Tindakan minimal ini memberi sinyal kontrol prefrontal ke otak Anda, menurunkan reaktivitas amigdala."
-
 ---
 
 "Setiap malam, saat mencatat kedalaman samudra dan sudut bintang-bintang, ketakutan akan kegelapan yang tak diketahui berubah menjadi kepastian angka-angka yang nyata." ⛵

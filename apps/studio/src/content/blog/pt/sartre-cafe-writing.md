@@ -21,7 +21,6 @@ faqs:
     answer: "Varia para cada pessoa. Pesquisas indicam que ruídos moderados (50–70 dB) dispersam levemente a atenção auditiva, estimulando a resolução criativa de problemas. Contudo, o fator principal não é o silêncio, mas estabelecer a regra de ancoragem: 'iniciar a mesma ação no mesmo lugar todos os dias'."
   - question: "Mudar o assento reservado diariamente ou periodicamente não seria melhor para estimular o cérebro?"
     answer: "Na fase de tempestade de ideias criativas, um ambiente novo libera dopamina. No entanto, ao concluir redações ou estudar intensamente, o ancoramento de assento ao estilo de Sartre é muito mais eficiente, pois reduz o gasto energético de exploração e aciona a imersão reflexa."
-
 ---
 
 "O homem está condenado a ser livre." ☕

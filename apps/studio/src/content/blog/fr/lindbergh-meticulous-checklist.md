@@ -21,7 +21,6 @@ faqs:
     answer: "Non. Lorsqu'une checklist est trop longue, le cerveau se fatigue et a tendance a sauter des étapes. Sur le plan neuroscientifique, il est idéal de se limiter a 5 ou 9 points de contrôle critiques (ce qui correspond aux capacités de la mémoire de travail)."
   - question: "Pour quels types de travaux l'utilisation d'une checklist est-elle la plus efficace ?"
     answer: "Les checklists sont efficaces pour les tâches à étapes : routines répétitives, phases finales avant la diffusion de projets publics, relecture de contrats ou préparation de voyages, où l'oubli d'un seul détail peut être lourd de conséquences."
-
 ---
 
 « La qualité n'est jamais un accident ; elle est toujours le résultat d'un effort intelligent. Ne surévaluez jamais la mémoire humaine. Une simple feuille de papier peut séparer la vie de la mort. » ✈️

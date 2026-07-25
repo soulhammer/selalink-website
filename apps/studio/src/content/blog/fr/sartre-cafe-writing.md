@@ -21,7 +21,6 @@ faqs:
     answer: "Cela varie selon les personnes. Des études montrent qu'un bruit ambiant modéré (50–70 dB) disperse légèrement l'attention auditive, ce qui stimule la résolution créative de problèmes. L'essentiel reste cependant d'établir la règle d'ancrage cognitif : « démarrer la même action au même endroit chaque jour »."
   - question: "Changer de siège réservé chaque jour ou régulièrement ne serait-il pas stimulant pour le cerveau ?"
     answer: "Lors du remue-méninges créatif, un nouvel environnement apporte des stimulations fraîches (libération de dopamine). En revanche, pour rédiger un texte ou étudier intensément, l'ancrage de siège à la Sartre est bien plus efficace car il économise l'énergie d'exploration et déclenche une immersion réflexe."
-
 ---
 
 « L'homme est condamné à être libre. » ☕

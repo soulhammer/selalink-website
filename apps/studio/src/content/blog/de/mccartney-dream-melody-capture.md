@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Was soll ich tun, wenn ich mich morgens meistens an keine Träume erinnere?"
     answer: "Es ist völlig in Ordnung, wenn Sie sich nicht erinnern. Schreiben Sie direkt nach dem Aufwachen einfach 3 Zeilen Ihres 'Bewusstseinsstroms' auf ein leeres Blatt. Auch das schaltet die Selbstzensur aus und wärmt das Unterbewusstsein auf."
-
 ---
 
 "Diese Melodie spielte in meinem Traum perfekt. Wäre ich nicht sofort aufgestanden, um sie am Klavier zu spielen, wäre sie wie Morgennebel für immer verflogen." 🎹

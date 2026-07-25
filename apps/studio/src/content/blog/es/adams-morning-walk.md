@@ -21,7 +21,6 @@ faqs:
     answer: "En términos de liberación de BDNF a través del ejercicio aeróbico, es válido. Sin embargo, se recomienda encarecidamente caminar al aire libre porque procesar los estímulos visuales exteriores (luz natural, cambios de estación, terreno irregular) activa de forma mucho más eficaz la corteza visual y las redes sinápticas del lóbulo prefrontal en el área del equilibrio en comparación con un entorno fijo de interior."
   - question: "¿Tendrá el mismo efecto si escribo el diario de reflexión nocturno en una aplicación de notas del teléfono?"
     answer: "Escribir a mano directamente es mucho más efectivo. Al sostener un bolígrafo y escribir, los receptores sensoriales de las yemas de los dedos estimulan con precisión la corteza somatosensorial (Somatosensory Cortex) del cerebro, lo que induce la concentración y multiplica el efecto de grabado en los circuitos cognitivos. Escribir en el teclado de un teléfono inteligente es una entrada mecánica que reduce la estimulación cerebral."
-
 ---
 
 John Quincy Adams, el sexto presidente de los Estados Unidos que consolidó la diplomacia y las bases de la nación tras George Washington y John Adams, fue considerado a lo largo de su vida como un modelo de diligencia. Frente a una intensa fricción política y una enorme presión ejecutiva, ¿cuál fue su secreto para conservar una memoria nítida y una sólida capacidad cognitiva pasados los 80 años? 🏊‍♂️

@@ -21,7 +21,6 @@ faqs:
     answer: "Starting with 500 pages right away is impractical. Buffett's volume is built on decades of neuroplastic adaptation. The goal is not the raw number of pages, but the consistency of the cognitive habit—reading deeply for 20 to 30 pages daily. Committing 30 minutes right after waking or during commutes compounds into massive intellectual leverage over several years."
   - question: "Do e-books or audiobooks produce the same knowledge compounding effect as physical paper books?"
     answer: "E-books on dedicated E-Ink readers are an excellent alternative for text-based deep reading. However, smartphones or tablets risk distracting prefrontal attention via notifications. Audiobooks lean toward passive reception and do not engage deep analytical processing circuits as strongly as deep reading. For building robust intellectual schemas, make text-based deep reading your primary medium while using audiobooks as a secondary supplement."
-
 ---
 
 "Read 500 pages every day. That's how knowledge works. It builds up, like compound interest." 📚

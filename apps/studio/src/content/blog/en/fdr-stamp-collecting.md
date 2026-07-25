@@ -21,7 +21,6 @@ faqs:
     answer: "No, they do not. Blue light and stimulating digital algorithms prevent brain rest by maintaining high cortical arousal and suppressing melatonin secretion. True cognitive relaxation requires analog activities that engage tactile sensations without screen exposure."
   - question: "What if dedicating 30 minutes every night feels too long or difficult to schedule?"
     answer: "Starting with just 10 minutes is entirely effective. Closing your laptop to doodle in a sketchbook or write a brief entry in an analog journal clearly feeds a 'workday is finished' safety signal to your brain, successfully triggering parasympathetic relaxation."
-
 ---
 
 "I owe my life's sanity to stamp collecting." ✉️

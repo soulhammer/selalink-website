@@ -21,7 +21,6 @@ faqs:
     answer: "Mekanisme neurosains utamanya terletak bukan pada waktu jam 6 pagi yang mutlak, melainkan pada 'mengeksekusi tantangan yang mendorong batas segera setelah bangun tidur'. Tanpa memandang waktu bangun Anda, menyelesaikan latihan fisik intensif memberikan lonjakan hormonal."
   - question: "Apakah latihan intensitas tinggi setiap hari tidak akan menyebabkan overtraining atau cedera?"
     answer: "Rutinitas Jordan berkembang melalui pengondisian bertahap. Pemula harus mulai dengan 3 hari per minggu, secara bertahap meningkatkan volume dan frekuensi. Berselang-seling antara latihan beban intensif dan latihan mobilitas fungsional yang lebih ringan mencegah kelelahan fisik kronis."
-
 ---
 
 "Saya dapat menerima kegagalan, semua orang pernah gagal pada suatu hal. Namun saya tidak dapat menerima jika tidak mencoba. Saat lawan-lawan saya bangun jam 8:30 pagi, saya telah bekerja selama dua jam untuk mengalahkan mereka." 🏀

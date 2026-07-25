@@ -21,7 +21,6 @@ faqs:
     answer: "Se o acesso ao ar livre for limitado, abra uma janela cedo pela manhã para se concentrar no vento e no silêncio, ou use fones para reproduzir áudio de Ruído Rosa $1/f$ de alta qualidade (chuva, floresta ou mar) por 5 minutos."
   - question: "Esta rotina é eficaz se for praticada à tarde durante o trabalho em vez do amanhecer?"
     answer: "Sim, com certeza. Sempre que experimentar fadiga auditiva ou tensão cognitiva durante o trabalho, faça uma pausa de 5 minutos para silenciar os dispositivos e diferenciar os sons naturais, o que aliviará a fadiga pré-frontal e restaurará a eficiência."
-
 ---
 
 "A música não existe apenas nas partituras, habita no silêncio entre as notas e no murmúrio do vento." 🌊

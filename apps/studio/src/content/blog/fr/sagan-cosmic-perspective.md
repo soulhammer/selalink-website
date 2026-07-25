@@ -21,7 +21,6 @@ faqs:
     answer: "Oui ! Imaginer un zoom-out cosmique pendant 1 minute stabilise la fréquence cardiaque et réduit considérablement le trac ou l'anxiété de performance."
   - question: "Que faire si je n'ai pas de photo de l'espace à disposition ?"
     answer: "Fermez simplement les yeux et imaginez un petit point bleu flottant dans l'espace sombre pour obtenir exactement les mêmes bienfaits neuroscientifiques."
-
 ---
 
 « Tous ceux que vous aimez, tous ceux que vous connaissez, chaque être humain qui ait jamais été, a vécu sa vie sobrement sur un grain de poussière suspendu dans un rayon de soleil. » 🌌

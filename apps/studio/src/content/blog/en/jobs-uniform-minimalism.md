@@ -21,7 +21,6 @@ faqs:
     answer: "Jobs eliminated morning garment selection to prevent Decision Fatigue and conserve prefrontal cortex energy, dedicating 100% of his cognitive capacity to Apple's management and product innovations."
   - question: "What is a practical alternative if wearing an identical outfit like Jobs feels unrealistic?"
     answer: "You do not need to wear identical clothes. Building a 'Capsule Wardrobe'—fixing your color palette to neutrals (black, navy, gray) or limiting choices to 3 tops and 2 bottoms—delivers identical benefits by drastically reducing decision fatigue."
-
 ---
 
 "Deciding what to wear every morning drains a fraction of your brain's precious willpower. I conserve 100% of my mental capacity exclusively for decisions that actually matter." 👕

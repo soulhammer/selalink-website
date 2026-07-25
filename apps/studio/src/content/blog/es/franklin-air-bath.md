@@ -21,7 +21,6 @@ faqs:
     answer: "Sí. La exposición suave al frío estimula la flexibilidad del sistema nervioso autónomo. Al desencadenar noradrenalina, elimina la niebla mental matutina y fortalece el control ejecutivo prefrontal."
   - question: "¿Cómo debo practicar un Baño de Aire de forma segura durante los meses fríos de invierno?"
     answer: "En invierno, la exposición prolongada frente a ventanas abiertas es riesgosa. Practique un 'Mini Baño de Aire': abra las ventanas solo 1-2 minutos para renovar el aire y disfrute del ambiente fresco de la habitación cubierta durante 3 a 5 minutos."
-
 ---
 
 "Me levanto temprano casi todas las mañanas y me siento en mi habitación sin ropa alguna, media hora o una hora... A esto lo llamo mi Baño de Aire." 💨

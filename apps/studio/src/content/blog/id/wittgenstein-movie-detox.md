@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah menonton video pendek atau Reels tanpa henti setelah pulang kerja memberikan efek reset otak yang sama?"
     answer: "Tidak, sama sekali tidak! Video pendek membanjiri otak dengan stimulasi baru setiap beberapa detik. Setiap usapan memaksa reinterpretasi dan memicu lonjakan dopamin, membuat gelombang otak semakin terdistraksi. Kunci rutinitas Wittgenstein adalah tenggelam dalam rangsangan berlanjut yang tenang untuk mengistirahatkan pemrosesan kognitif."
-
 ---
 
 "Ketika penelitian filsafat membuatku merasa gila, kesederhanaan film koboi Amerika dari barisan paling depan bioskop adalah satu-satunya obat yang menghidupkan kembali otakku." 🤠

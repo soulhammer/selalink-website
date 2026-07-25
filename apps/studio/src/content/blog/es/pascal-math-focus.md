@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, lo es. El mecanismo de puerta del tálamo bloquea no solo el dolor físico, sino también la ansiedad psicológica y las señales de estrés exactamente de la misma manera."
   - question: "¿Durante cuánto tiempo se debe mantener un sprint de inmersión de alta dificultad?"
     answer: "Lo más ideal es entre 15 y 20 minutos. Después de comprometer intensamente los recursos cerebrales, tómese un breve descanso para prevenir la fatiga mental."
-
 ---
 
 "Todos los problemas de la humanidad provienen de la incapacidad del hombre para sentarse en silencio solo en una habitación." 🧠

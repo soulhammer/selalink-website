@@ -21,7 +21,6 @@ faqs:
     answer: "To reduce physical access friction to absolute zero, allowing him to externalize observations within seconds without losing a single thought. This frictionless design kept his working memory clean, preserving prefrontal capacity for creative associations."
   - question: "Does using a smartphone note app provide the same working memory externalization benefits as a paper notebook?"
     answer: "Yes, absolutely. The underlying mechanism is offloading information to an external medium to clear working memory (RAM). However, handwriting or sketching on physical paper provides tactile sensory feedback that engages both motor and visual cortices, offering slightly superior memory consolidation."
-
 ---
 
 "Fix your eye upon the detail, and instantly commit it to paper. He who relies solely on memory loses the greatest heritage of knowledge." 📓

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Was kann ich tun, wenn ich in einer Einzimmerwohnung lebe oder mit der Familie zusammenwohne und keinen physisch getrennten Raum habe?"
     answer: "Wenn eine physische Raumtrennung nicht möglich ist, bauen Sie eine 'virtuelle Schallwand' auf, indem Sie Noise-Cancelling-Kopfhörer mit weißem Rauschen oder klassischer Musik nutzen. Stellen Sie zudem ein 'Bitte nicht stören'-Schild auf Ihren Schreibtisch oder nutzen Sie die frühen Morgenstunden für 2 ungestörte Stunden, bevor die Familie aufsteht."
-
 ---
 
 "Ich gehe nicht weit weg, um zu arbeiten. Ich betrete einfach eine kleine, geheimnisvolle Hütte in meinem Garten und schließe die Tür. Das ist ganz mein eigenes Universum." 🏠

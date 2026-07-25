@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak. Dari sudut pandang ilmu saraf, ketika gesekan kognitif mencapai puncak saat stagnasi, beralih ke tugas penyegaran selama 20 menit sebelum kembali dengan pikiran jernih justru mempercepat penyelesaian total hingga lebih dari 40%."
   - question: "Berapa jumlah maksimum alur tugas yang paling ideal dirancang per hari?"
     answer: "Untuk melindungi baterai energi otak dalam mengambil keputusan, sebaiknya tidak melebihi 3 kategori tugas utama per hari. Merancang 4 alur atau lebih akan menimbulkan pemborosan perhatian akibat terlalu sering beralih."
-
 ---
 
 Pablo Picasso (1881–1973), jenius seni Spanyol yang mengubah dunia seni modern abad ke-20 sebagai penggagas Kubisme. Di studionya yang luas, Picasso menata puluhan kanvas setengah jadi secara bersamaan. Ketika inspirasi tersendat pada karya Kubisme, alih-alih memaksakan diri, ia langsung berpindah ke kanvas di sebelahnya—lukisan benda mati atau potret—dan melanjutkan melukis. Rutinitas alih tugas yang fleksibel ini menjadi mesin utama di balik produktivitas seumur hidupnya yang luar biasa.

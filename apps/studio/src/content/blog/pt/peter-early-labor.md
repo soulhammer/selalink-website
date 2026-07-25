@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Fazer treinamento de movimento físico pela manhã quando cansado sobrecarrega o cérebro?"
     answer: "Pelo contrário, estimular o controle motor fino ao acordar ativa o sistema reticular do tronco cerebral, promovendo cortisol e dopamina para dissipar rapidamente a inércia do sono."
-
 ---
 
 "Sou um imperador, mas minhas mãos ainda estão caleijadas." ⚓

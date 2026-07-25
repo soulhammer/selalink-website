@@ -21,7 +21,6 @@ faqs:
     answer: "Para reducir la fricción de acceso físico a cero, lo que le permitía externalizar observaciones en segundos sin perder ningún pensamiento. Este diseño sin fricciones mantenía limpia su memoria de trabajo, reservando la capacidad prefrontal para asociaciones creativas."
   - question: "¿Utilizar una aplicación de notas en el móvil produce los mismos beneficios de externalización que un cuaderno de papel?"
     answer: "Sí, por supuesto. El mecanismo fundamental es transferir la información a un medio externo para liberar la memoria de trabajo (RAM). Sin embargo, escribir a mano o dibujar en papel proporciona una retroalimentación táctil que estimula las cortezas motora y visual, ofreciendo una consolidación superior."
-
 ---
 
 "Fija tu mirada en el detalle e inscríbelo al instante en el papel. Quien confía únicamente en la memoria pierde el mayor legado del conocimiento." 📓

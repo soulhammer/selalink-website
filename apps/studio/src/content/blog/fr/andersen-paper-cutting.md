@@ -21,7 +21,6 @@ faqs:
     answer: "Absolument. En fait, le fait de découper au hasard sans motif est plus efficace pour réduire l'activité du DMN. Le cerveau se moque totalement que le motif final soit étrange ou de travers. Ce qui compte, ce n'est pas la précision de la forme, mais le mouvement délicat des muscles du bout des doigts et la stimulation auditive elle-même. Puisqu'il s'agit d'une activité créative sans risque d'échec ni jugement de valeur, profitez simplement du découpage."
   - question: "La création de déchets de papier après le découpage ne perturbe-t-elle pas la relaxation lors du rangement ?"
     answer: "Si la création de déchets vous préoccupe, essayez de placer dès le départ une petite poubelle ou un plateau sur votre bureau et de découper au-dessus. En installant les choses de sorte que les morceaux de papier découpés se rassemblent naturellement en un seul endroit, vous pouvez conclure par une action physique rapide (10 secondes) consistant à les ramasser et les jeter à la poubelle après la routine, sans altérer votre état de relaxation émotionnelle."
-
 ---
 
 « Mon travail aux ciseaux est le premier chapitre d'un conte de fées. Au moment où les ciseaux effleurent le papier, mon imagination prend son envol. » ✂️

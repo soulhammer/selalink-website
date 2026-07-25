@@ -21,7 +21,6 @@ faqs:
     answer: "Cuando las ventanas están cerradas, los revestimientos del cristal moderno filtran y reflejan hasta el 80% de las longitudes de onda de luz azul y UV naturales esenciales para la activación cerebral. Por lo tanto, para estimular plenamente las células ipRGC en la retina y suprimir la melatonina, abrir las ventanas por completo para recibir luz solar directa proporciona beneficios fisiológicos muy superiores."
   - question: "¿La observación del amanecer sigue siendo efectiva en mañanas nubladas o lluviosas?"
     answer: "Sí. Incluso en mañanas nubladas o lluviosas, la luz natural que atraviesa las nubes alcanza niveles de lux aproximadamente 10 veces superiores a la iluminación artificial de interiores. Las longitudes de onda dispersas en la atmósfera estimulan suficientemente las células ganglionares retinianas. Contemplar el cielo durante 10 minutos en días nublados ofrece los mismos beneficios de precalentamiento cognitivo."
-
 ---
 
 "La luz cambia constantemente y solo revela su pura belleza a quienes la contemplan." 🎨

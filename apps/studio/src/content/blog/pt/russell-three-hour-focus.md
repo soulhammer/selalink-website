@@ -21,7 +21,6 @@ faqs:
     answer: "De fato, o desligamento total de 3 horas pode ser difícil em um ambiente de trabalho padrão. Nesses casos, dividir o tempo em blocos de '90 minutos de foco / descanso total' (ex.: 1,5h de manhã e 1,5h à tarde) ainda ajudará bastante a preservar a eficiência cerebral."
   - question: "Posso continuar com tarefas mais leves à tarde após o bloco de foco de 3 horas?"
     answer: "Sim. Após 3 horas de Trabalho Profundo, realizar tarefas repetitivas simples, checar e-mails ou tratar de rotinas administrativas (trabalho superficial) que não exijam decisões complexas é recomendado. Preencher a tarde com tarefas de baixa exigência cognitiva preserva os recursos do córtex pré-frontal."
-
 ---
 
 "Eu trabalho apenas três horas por dia. Mas durante essas três horas, estou totalmente separado do mundo e me concentro apenas na minha lógica." ☕

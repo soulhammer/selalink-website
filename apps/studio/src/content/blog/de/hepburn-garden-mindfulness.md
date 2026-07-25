@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut! Das Befüllen kleiner Töpfe auf dem Balkon oder Schreibtisch mit Pflanzerde und das Anbauen von Kräutern bietet dieselbe haptische Stimulation und Bakterienexposition. Entscheidend ist der physische Kontakt mit der Erde, unabhängig von der Pflanzengröße."
   - question: "Bestehen Hygiene- oder Infektionsrisiken beim Berühren von Erde mit bloßen Händen?"
     answer: "Handelsübliche Blumenerde ist sterilisiert und viel sicherer als wilde Erde. Nützliche Mikroorganismen unterstützen sogar das Immunsystem. Bei Hygienebedenken bieten dünne Gartenhandschuhe ausreichend taktiles Feedback. Das Händewaschen mit Wasser und Seife nach der Arbeit beseitigt alle Bedenken."
-
 ---
 
 "Einen Garten zu pflanzen bedeutet, an den Morgen zu glauben. Wenn ich die Erde berühre, kommt meine Seele zur Ruhe." 🌿

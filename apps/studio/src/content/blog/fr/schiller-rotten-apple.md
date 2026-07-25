@@ -21,7 +21,6 @@ faqs:
     answer: "Oui. L'acétaldéhyde libéré modifiait temporairement la respiration en apportant un stimulus, tandis que les signaux olfactifs envoyaient un signal d'éveil immédiat au système limbique."
   - question: "Quels parfums sont recommandés pour l'ancrage aromatique moderne ?"
     answer: "Le romarin (prouvé scientifiquement pour favoriser la concentration), la menthe poivrée ou l'eucalyptus (qui soulagent la fatigue) sont vivement recommandés. Les senteurs d'agrumes comme le citron ont aussi des effets positifs."
-
 ---
 
 Friedrich Schiller, le grand poète et dramaturge qui a dirigé l'âge d'or du classicisme de Weimar aux côtés de Johann Wolfgang von Goethe, a marqué l'histoire littéraire avec des chefs-d'œuvre comme 'Les Brigands' (Die Räuber) et 'Guillaume Tell' (Wilhelm Tell). Cependant, le tiroir de son bureau cachait un secret aussi bizarre que piquant.

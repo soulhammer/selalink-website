@@ -21,7 +21,6 @@ faqs:
     answer: "Yes. Creating an artistic masterpiece is irrelevant. The core benefit lies in the brain receiving tactile stimulation from fine scissor movements and visual input from cutting vivid colors. This diverts pain and activates neuroplasticity regardless of how crude or distorted the shapes look."
   - question: "What about using clay or a drawing app instead of paper cutting?"
     answer: "Sculpting clay is highly recommended as it provides excellent tactile feedback. However, tablet drawing apps are discouraged because smooth glass friction, internet connection, and digital notifications distract the brain and prevent complete cognitive reset; analog tools are much preferred."
-
 ---
 
 "Cutting paper with scissors is like carving directly into stone. It allows one to move straight from color into form." ✂️

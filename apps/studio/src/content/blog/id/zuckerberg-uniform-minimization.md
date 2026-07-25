@@ -21,7 +21,6 @@ faqs:
     answer: "Mark Zuckerberg juga mengenakan setelan jas untuk acara resmi atau rapat dewan. Inti dari kebiasaan seragam adalah menghilangkan pilihan sepele, jadi menentukan kombinasi jas untuk acara formal terlebih dahulu membuat Anda dapat mengenakannya tanpa ragu dan terhindar dari kelelahan keputusan."
   - question: "Apakah saya boleh menyusun seragam menggunakan pakaian selain kaus dan jeans?"
     answer: "Tentu saja. Kemeja dengan celana bahan, gaun, atau kombinasi sederhana apa pun yang paling nyaman dan tidak menyita perhatian terhadap penampilan sudah sangat cukup, asalkan Anda membelinya dalam jumlah banyak."
-
 ---
 
 "Saya benar-benar ingin menyederhanakan hidup saya agar harus membuat keputusan sesedikit mungkin tentang hal apa pun, kecuali cara terbaik melayani komunitas ini." 👕

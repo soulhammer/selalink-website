@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Was tun, wenn man sich dabei ertappt, bei den Noten zu schummeln oder zu nachsichtig zu sein?"
     answer: "Deshalb müssen Sie objektive, quantifizierbare Rubriken statt Gefühle nutzen. Bewerten Sie nach Daten wie 'Habe ich laut Tracker tatsächlich über 3 Stunden vertieft gearbeitet?' statt 'Ich fühlte mich fokussiert'. Daten reduzieren Ausreden und konfrontieren mit der Realität."
-
 ---
 
 "Das tägliche Zeugnis in meinem Tagebuch ist der ehrlichste Spiegel, der mich steuert. Das bewusste Streben nach einem 'A' war die Triebfeder meiner akademischen Erfolge."

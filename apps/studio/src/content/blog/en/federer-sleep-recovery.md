@@ -21,7 +21,6 @@ faqs:
     answer: "Avoid forcing sleep in bed. If you remain awake after 20 minutes, apply Stimulus Control Therapy: get out of bed, move to a dimly lit room, read a physical book under warm lighting, and return to bed only when genuine drowsiness strikes."
   - question: "Why do I feel groggy and heavy-headed after taking a nap?"
     answer: "This grogginess stems from 'Sleep Inertia', which occurs when a nap exceeds 30 minutes and plunges your brain into deep Slow-Wave Sleep (N3). To prevent sleep inertia, cap your afternoon nap alarm strictly at 15 to 20 minutes."
-
 ---
 
 "If I don't sleep 11 to 12 hours a day, I can't play at the highest level." 🎾

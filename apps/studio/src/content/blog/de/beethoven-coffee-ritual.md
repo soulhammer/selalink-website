@@ -21,7 +21,6 @@ faqs:
     answer: "Die strikte Zahl von 60 Bohnen diente der Kontrolle des Kaffeegeschmacks durch perfekte Quantifizierung, aber das präzise Zählen selbst war ein kognitiver Auslöser, der unnütze wandernde Gedanken abschaltete und das hochstufige exekutive Steuerungsnetzwerk des Gehirns aktivierte."
   - question: "Können Nicht-Kaffeetrinker diese Achtsamkeitsroutine anwenden?"
     answer: "Ja, absolut. Jede Handlung, die die volle Aufmerksamkeit auf Berührung und feine Bewegungen lenkt – wie das präzise Abwiegen von Teeblättern, das Auswischen einer Teetasse oder strukturiertes Dehnen und Meditieren –, erzielt dieselben DMN-unterdrückenden und fokusfördernden Effekte."
-
 ---
 
 "Musik sollte Feuer aus dem Geist des Mannes schlagen und Tränen aus den Augen der Frau treiben." ☕

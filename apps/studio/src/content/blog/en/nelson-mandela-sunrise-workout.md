@@ -21,7 +21,6 @@ faqs:
     answer: "On days with extreme physical exhaustion, it is far better to substitute heavy workouts with 5 to 10 minutes of light stretching and deep breathing. The essence of the Mandela routine is not overworking your body, but initiating the day's agency through your own conscious willpower."
   - question: "How should beginners with low physical stamina start this routine?"
     answer: "Modify exercises to match your fitness level: do wall push-ups or knee push-ups, and replace squats with chair stand-ups. Even just 5 minutes or a single set per day activates the brain's positive morning routine for preserving autonomy."
-
 ---
 
 "Exercise was the key to my life. Through exercise, I was able to find peace of mind even in the midst of extreme adversity." ☀️

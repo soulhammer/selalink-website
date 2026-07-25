@@ -21,7 +21,6 @@ faqs:
     answer: "Automatische Tests finden Logikfehler, erkennen aber keine visuellen Unstimmigkeiten oder unharmonischen Layouts. Die 5-minütige menschliche Prüfung verleiht das Quäntchen Perfektion."
   - question: "Was tun, wenn die morgendliche Prüfung zu Zeitverzögerungen führt?"
     answer: "Begrenzen Sie die Prüfung mit einem Timer strikt auf 5 Minuten. Das Kontrollieren von nur drei kritischen Punkten in diesem Fenster verhindert über 95 % aller schweren Folgefehler."
-
 ---
 
 Johannes Gutenberg (ca. 1400–1468) war der deutsche Goldschmied und Erfinder, der das Wissensmonopol brach und die moderne Zivilisation einläutete, indem er den Buchdruck mit beweglichen Metalltypen erfand. Durch die Kombination einer Legierung aus Blei, Zinn und Antimon mit ölbasierten Druckfarben druckte Gutenberg 1455 die historische 42-zeilige Bibel. Die Herstellung dieses Meisterwerks erforderte Präzision im Zehntelmillimeterbereich. 🔠

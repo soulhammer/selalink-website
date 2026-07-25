@@ -21,7 +21,6 @@ faqs:
     answer: "Qualquer atividade rítmica que exija precisão fina funciona muito bem: caligrafia com caneta-tinteiro, tricô ou crochê, ritual do chá, montagem de Lego ou quebra-cabeças, disparando a serotonina."
   - question: "O que fazer se minha mente continuar vagando durante as atividades táteis?"
     answer: "Não se julgue pelas distrações. Apenas perceba o pensamento sem julgamento e redirecione suavemente a atenção para a 'textura na ponta dos dedos e o ritmo do movimento'. Redirecionar o foco fortalece o controle pré-frontal."
-
 ---
 
 "No girar da roda, vejo a paz eterna da mente e a ordem do universo." 🌀

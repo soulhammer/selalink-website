@@ -21,7 +21,6 @@ faqs:
     answer: "Une activité physique telle que toucher la terre et désherber constitue un signal idéal permettant à votre cortex préfrontal de se reposer de « l'attention dirigée ». Cependant, si vous n'avez pas de jardin, marcher en forêt et toucher des branches offre des bénéfices de relaxation neuronale identiques."
   - question: "Comment puis-je remplacer cela si je vis en appartement ou en zone urbaine sans jardin ni terre ?"
     answer: "Vous pouvez facilement le remplacer en cultivant de petits pots d'intérieur sur un balcon, en rempotant ou en taillant des feuilles mortes. Marcher dans des parcs urbains en se concentrant sur l'arôme des feuilles et de la terre constitue également une excellente méthode de contemplation."
-
 ---
 
 « Cultiver un jardin est le rituel analogique le plus sacré pour entendre à nouveau la grande voix de la vie et apaiser la turbulence intérieure. » 🌿

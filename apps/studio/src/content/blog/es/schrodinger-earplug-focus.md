@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Qué debo hacer si el silencio absoluto me distrae o me genera ansiedad?"
     answer: "Si no está acostumbrado al silencio total, comience reproduciendo ruido blanco (lluvia, olas) o ruido rosa sin letra para que su cerebro se adapte gradualmente."
-
 ---
 
 "El presente es el resultado del pasado y la causa de la creación del futuro."

@@ -21,7 +21,6 @@ faqs:
     answer: "En sus diarios escribió: 'William caminó por el sendero del jardín cientos de veces esta mañana recitando poesía', detallando cómo la velocidad de sus pasos variaba en directa proporción con el ritmo de su recitación."
   - question: "¿Tiene el mismo efecto caminar y recitar sobre una cinta de correr en interiores?"
     answer: "¡Sí! Como el mecanismo clave radica en la circulación provocada por el paso y la activación del cerebelo, caminar despacio en la cinta mientras recitas genera exactamente la misma sincronización y retroalimentación auditiva."
-
 ---
 
 "La poesía es el desbordamiento espontáneo de sentimientos intensos: se origina en la emoción recordada en la tranquilidad." 🚶‍♂️

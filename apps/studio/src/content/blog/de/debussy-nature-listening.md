@@ -21,7 +21,6 @@ faqs:
     answer: "Wenn Sie nicht ins Freie gehen können, öffnen Sie morgens ein Fenster, um dem Wind zu lauschen, oder nutzen Sie Kopfhörer, um 5 Minuten lang hochwertiges $1/f$ rosa Rauschen (Regen-, Wald- oder Meeresgeräusche) zu hören."
   - question: "Ist diese Routine auch wirksam, wenn man sie nachmittags während der Arbeit anwendet?"
     answer: "Ja, absolut. Wann immer Sie bei der Arbeit auditive Ermüdung oder Stress spüren, schalten Sie 5 Minuten lang Geräte stumm und lauschen Sie feinen Naturgeräuschen, um den Präfrontalkortex zu entlasten."
-
 ---
 
 "Musik existiert nicht nur auf Notenblättern, sondern im Stillschweigen zwischen den Tönen und im Rauschen des Windes." 🌊

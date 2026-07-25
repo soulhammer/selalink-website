@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Können auch Personen, die überhaupt nicht zeichnen können, diese Gewohnheit nutzen?"
     answer: "Ja, absolut. Archimedes' Skizziergewohnheit ist kein künstlerischer Zeichenakt, sondern eine kognitive Aufgabe, Denkstrukturen des Gehirns im äußeren Raum anzuordnen. Das bloße Zeichnen von Kreisen oder das Einrahmen von Text mit Quadraten und Verbinden durch Pfeile in Form von Kritzeleien entlastet das Arbeitsgedächtnis erheblich und zeigt eine deutliche Wirkung bei der Steigerung der Konzentration."
-
 ---
 
 "Trete nicht auf meine Kreise. Zertrampele nicht meinen Gedankenfluss." 📐

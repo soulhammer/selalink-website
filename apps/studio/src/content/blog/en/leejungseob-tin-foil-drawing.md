@@ -21,7 +21,6 @@ faqs:
     answer: "The tactile resistance and scratching acoustics generated when scoring metallic foil saturate somatosensory processing buffers in the brain. This physically suppresses threat signaling in the amygdala and prevents emotional rumination, binding focus tightly to present-moment sensory input."
   - question: "Can I substitute tin foil and nails with standard paper and a ballpoint pen?"
     answer: "Yes, absolutely! Applying firm pressure on heavy cardboard or textured paper with a ballpoint pen or dip pen creates pronounced tactile friction as the tip indents the fibers. The neurobiological trigger lies in the firmness of the haptic feedback rather than the exact material used."
-
 ---
 
 "It does not matter if I have no canvas or expensive oil paints. The moment I scratch a line onto discarded cigarette box foil with a sharp nail, all hunger and sorrow vanish, leaving only art." 🐂

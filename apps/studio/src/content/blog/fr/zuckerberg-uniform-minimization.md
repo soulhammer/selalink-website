@@ -21,7 +21,6 @@ faqs:
     answer: "Mark Zuckerberg porte également un costume lors d'événements officiels ou de conseils d'administration. L'objectif principal est d'éliminer les choix futiles ; définir à l'avance une tenue formelle vous permet de la porter sans hésiter ni générer de fatigue."
   - question: "Puis-je composer un uniforme avec d'autres vêtements que des t-shirts et des jeans ?"
     answer: "Absolument. Des chemises avec des pantalons, des robes ou toute combinaison simple et confortable qui ne demande aucune préoccupation d'apparence conviennent parfaitement, à condition d'en posséder plusieurs exemplaires."
-
 ---
 
 "Je veux vraiment simplifier ma vie pour avoir à prendre le moins de décisions possible sur tout, sauf sur la façon de servir au mieux cette communauté." 👕

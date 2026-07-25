@@ -21,7 +21,6 @@ faqs:
     answer: "Sí, limpiar las lentes o despejar su mesa envía una señal de orden cognitivo a su cerebro para maximizar la concentración."
   - question: "¿Cómo puedo reemplazar esto si no tengo un microscopio o paño de microfibra?"
     answer: "Limpiar la pantalla de su ordenador, ordenar su mesa o limpiar la pantalla del móvil antes de empezar produce exactamente el mismo efecto."
-
 ---
 
 "En el campo de la observación, el azar solo favorece a la mente preparada." 🔬

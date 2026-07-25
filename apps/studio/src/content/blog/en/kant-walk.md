@@ -21,7 +21,6 @@ faqs:
     answer: "To sustain high-level abstract philosophical research over decades, Kant maintained a clockwork daily routine that grounded his autonomic nervous system, preserved circadian rhythms, and cleared prefrontal cognitive fatigue to protect his mental clarity."
   - question: "Is it necessary to refrain from talking and breathe exclusively through the nose during walks like Kant?"
     answer: "Yes! Nasal breathing increases oxygen delivery efficiency to the brain and stimulates nitric oxide (NO) release, soothing the nervous system. Furthermore, refraining from talking reduces auditory and attentional distractions, allowing the Default Mode Network (DMN) to stabilize and consolidate thoughts."
-
 ---
 
 "All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason... A quiet, daily walk at 3:30 PM settles the brain and brings clarity to abstract deductions." 🚶‍♂️

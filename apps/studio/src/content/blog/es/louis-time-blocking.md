@@ -21,7 +21,6 @@ faqs:
     answer: "¡Sí, por supuesto! Programe de 2 a 3 bloques de 'Atención de Emergencias y Procesamiento en Lote'. Concéntrese sin interrupciones en el trabajo profundo e ingrese las emergencias en el bloque reservado."
   - question: "¿Cómo superar la culpa al no cumplir estrictamente con el horario?"
     answer: "El bloqueo de tiempo es un mapa guía, no una prisión. Lo importante es el enfoque en una sola tarea durante el bloque, no la ejecución perfecta. Si el horario se desvía, aplique Flexibilidad Cognitiva y pase al siguiente bloque sin culparse."
-
 ---
 
 "Al establecer horas fijas y reglas para el trabajo, uno gobierna completamente su vida. Con un almanaque y un reloj, se podía saber a trescientas leguas lo que estaba haciendo el rey." 👑

@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, cleaning lenses or clearing your desk before starting gives your brain a signal of cognitive order, maximizing deep work focus."
   - question: "How can I replace this if I don't have a microscope or microfiber cloth?"
     answer: "Wiping down your computer monitor with a microfiber cloth, organizing your desk, or cleaning your smartphone screen before starting your daily work achieves the exact same psychological effect."
-
 ---
 
 "In the fields of observation, chance favors only the prepared mind." 🔬

@@ -21,7 +21,6 @@ faqs:
     answer: "Anda dapat menggantinya dengan mengaktifkan memo suara smartphone atau aplikasi perekam AI dan berbicara secara nyaring seolah-olah menjelaskan kepada pendengar imajiner. Faktor krusial bukanlah keberadaan fisik pendengar, melainkan proses stimulasi kognitif dalam mengonversi pikiran batin menjadi bahasa lisan luar dan mendengarkannya kembali."
   - question: "Bagaimana cara mengubah hasil diskusi lisan menjadi dokumentasi tertulis yang produktif?"
     answer: "Kami menyarankan untuk segera mencatat wawasan yang tiba-tiba muncul sebagai kata kunci saat berbicara, atau menggunakan alat Speech-to-Text (STT) untuk mentranskripsikan sesi secara otomatis, lalu merapikan ulang teks mentah menjadi kerangka inti selama sesi kerja mendalam."
-
 ---
 
 "Kita hanya menemukan apa yang benar-benar kita pikirkan melalui proses menyuarakan pikiran kita secara santai kepada orang lain." 🗣️

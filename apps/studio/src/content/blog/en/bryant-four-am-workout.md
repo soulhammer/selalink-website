@@ -21,7 +21,6 @@ faqs:
     answer: "For optimal circadian alignment, it is ideal to keep weekend wake-up variations within 1 hour of your weekday routine. Excessive weekend sleeping resets the SCN's internal clock, compounding Monday morning fatigue. Consistency is key to preserving circadian health."
   - question: "Does performing intellectual tasks (work, reading) immediately following a 4 AM workout boost brain focus?"
     answer: "Yes, it creates a powerful cognitive synergy. The surge of BDNF, dopamine, and norepinephrine released right after aerobic and strength training elevates synaptic neuroplasticity. Engaging in deep intellectual work or learning for 1 to 2 hours post-workout maximizes cognitive retention and prefrontal working memory."
-
 ---
 
 "When I train in the silence of 4 AM, I am absolutely certain I am taking a step ahead of every competitor cognitively." 🏀

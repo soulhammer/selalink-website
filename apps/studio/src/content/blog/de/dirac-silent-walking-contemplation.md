@@ -21,7 +21,6 @@ faqs:
     answer: "Ja. Der entscheidende Faktor ist nicht absolute Umweltstille, sondern das Ausschalten sprachlicher Einflüsse (Gespräche, Podcasts oder Lesen). Selbst in der Innenstadt bietet die Nutzung von Noise-Cancelling-Kopfhörern zur Lärmreduzierung bei gleichzeitigem Verzicht auf Medien dieselben kognitiven Vorteile."
   - question: "Sollte ich beim Gehen sofort anhalten, um Ideen aufzuschreiben?"
     answer: "Vermeiden Sie es, den Rhythmus des Gehens zu unterbrechen. Anhalten, um lange Sätze zu schreiben, stört die visuell-räumliche Verarbeitung im Parietallappen. Halten Sie bei einem Durchbruch nur 1 bis 2 Schlüsselwörter innerhalb von 2 Sekunden fest. Kehren Sie sofort zum stillen Gehen zurück und arbeiten Sie die Ideen nach dem Spaziergang aus."
-
 ---
 
 "Worte sind Lärm, der die mathematische Schönheit verdeckt. Nur beim Gehen in absoluter Stille offenbart sich die Symmetrie des Universums." 🌌

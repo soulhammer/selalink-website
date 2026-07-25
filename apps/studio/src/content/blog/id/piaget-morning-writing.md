@@ -21,7 +21,6 @@ faqs:
     answer: "Meskipun mengetik tetap berguna, menulis tangan menstimulasi otot-otot halus di ujung jari, mengaktifkan korteks prefrontal dan somatosensorik secara jauh lebih kuat. Menulis tangan sangat direkomendasikan."
   - question: "Bagaimana jika tidak ada lingkungan alam atau taman di dekat rumah untuk jalan kaki?"
     answer: "Bahkan tanpa hutan atau danau, berjalan di trotoar kota yang tenang, gang pemukiman, atau koridor gedung yang hening tanpa ponsel memberikan manfaat kognitif dan aktivasi DMN yang persis sama."
-
 ---
 
 "Kecerdasan bukanlah apa yang kita ketahui, melainkan apa yang kita lakukan saat kita tidak tahu." 🚶‍♂️

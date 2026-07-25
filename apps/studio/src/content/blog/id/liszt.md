@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, tentu saja! Mekanisme neurobiologis berlaku secara universal untuk semua tugas motorik—mengetik pintasan papan ketik, menyempurnakan ayunan golf atau tenis, atau merancang gestur pidato. Memperlambat tempo untuk membuat nol kesalahan mempercepat mielinisasi serebelum."
   - question: "Bagaimana cara mempraktikkan rutinitas ini jika saya tidak memiliki akses ke piano sungguhan atau peralatan khusus?"
     answer: "Mengeksekusi latihan mental atau taktil secara lambat—mengetukkan jari Anda secara berurutan di atas permukaan meja datar atau papan ketik tiruan sesuai ketukan 60 BPM aplikasi metronom—mengaktifkan korteks motorik dan jaringan serebelum secara hampir identik."
-
 ---
 
 "Kecepatan bukanlah rahasia untuk menguasai teknik pada piano. Ketika Anda memperlambat metronom hingga tingkat ekstrem, tanpa membuat satu kesalahan pun saat menekan satu tuts per detik, lintasan sempurna itu terkunci di dalam otak—dan baru setelah itulah virtuositas yang luar biasa muncul." 🎹

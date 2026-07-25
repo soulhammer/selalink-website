@@ -21,7 +21,6 @@ faqs:
     answer: "Mark Zuckerberg también viste traje en eventos oficiales o reuniones de directorio. El núcleo del uniforme es eliminar decisiones triviales, por lo que definir previamente un traje para ocasiones formales te permitirá vestirlo sin esfuerzo ni fatiga."
   - question: "¿Puedo crear un uniforme utilizando otro tipo de ropa que no sean camisetas y jeans?"
     answer: "Por supuesto. Camisas con pantalones vestir, vestidos o cualquier combinación simple que te resulte cómoda y no requiera atención sobre tu apariencia es suficiente siempre que adquieras varias prendas idénticas."
-
 ---
 
 "Realmente quiero despejar mi vida para tener que tomar la menor cantidad posible de decisiones sobre cualquier cosa, excepto cómo servir mejor a esta comunidad." 👕

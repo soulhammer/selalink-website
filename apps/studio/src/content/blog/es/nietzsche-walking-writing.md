@@ -21,7 +21,6 @@ faqs:
     answer: "Nietzsche caminaba principalmente entre el desayuno y el almuerzo, y a Ãºltima hora de la tarde. PreferÃ­a los senderos de montaÃ±a y bosques para conectar con la naturaleza."
   - question: "Â¿Es obligatorio caminar al aire libre para practicar esta rutina?"
     answer: "Caminar al aire libre es ideal; sin embargo, si no es posible, recorrer un pasillo tranquilo u oficina tambiÃ©n ayuda a renovar el enfoque mental."
-
 ---
 
 "Todos los pensamientos verdaderamente grandes se conciben al caminar." ð¶ââï¸

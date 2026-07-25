@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Comment créer une zone de blocage des stimulis si je n'ai pas de bureau indépendant à la maison ?"
     answer: "Même sans pièce dédiée, placer un paravent de bureau ou utiliser un casque anti-bruit suffit à dresser une barrière virtuelle pour bloquer les stimulis visuels et sonores."
-
 ---
 
 "Étudiez les faits, observez les faits, accumulez les faits." 🔔

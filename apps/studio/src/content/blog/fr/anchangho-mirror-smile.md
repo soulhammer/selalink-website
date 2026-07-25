@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Forcer un sourire devant le miroir a-t-il vraiment un effet ?"
     answer: "Oui, en raison de l'effet de rétroaction faciale, le cerveau détecte le mouvement des muscles d'expression faciale, juge que vous êtes dans un état de joie réel et sécrète des molécules du bonheur."
-
 ---
 
 « Nous ne sourions pas parce que nous sommes heureux ; nous sommes heureux parce que nous sourions. Entraînez-vous à avoir un visage souriant devant le miroir chaque matin et balayez proprement votre environnement. » 🧹

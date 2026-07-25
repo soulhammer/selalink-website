@@ -21,7 +21,6 @@ faqs:
     answer: "Même dans la routine, essayez de capturer une nuance chaque jour : une rencontre, la saveur d'un plat ou l'odeur du temps. Rechercher ces différences développe l'attention et la métacognition."
   - question: "Est-ce aussi efficace d'utiliser des applications de journal numérique ou Notion ?"
     answer: "Oui ! Les outils numériques offrent les mêmes bienfaits métacognitifs pour organiser ses pensées. L'essentiel est de structurer ses pensées en phrases, que ce soit à la main ou au clavier."
-
 ---
 
 « Faites chaque jour une chose qui vous fait peur. » 🚶‍♂️

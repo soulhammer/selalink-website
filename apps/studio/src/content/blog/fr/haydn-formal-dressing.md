@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, tout à fait. Les biographies historiques confirment que Haydn refusait de s'asseoir au piano sans sa tenue de cour, sa perruque et sa bague. Il soutenait qu'une tenue débraillée engendrait des idées désordonnées."
   - question: "Faut-il forcément porter un costume rigide en télétravail ou des vêtements de ville confortables suffisent-ils ?"
     answer: "Un costume rigide n'est pas nécessaire. Le principe repose sur la séparation physique entre « tenue de repos » et « tenue de travail ». Se changer pour une chemise propre ou un pantalon ajusté active la Cognition habillée."
-
 ---
 
 « La création artistique ne s'accomplit que lorsqu'elle est soutenue par l'ordre et la persévérance. Une tenue négligée ne peut engendrer que des idées musicales négligées. » 🚶‍♂️

@@ -21,7 +21,6 @@ faqs:
     answer: "Anda tidak perlu menyelaraskan secara ketat dengan momen matahari terbit yang tepat. Merasakan suasana tenang dan temaram tepat sebelum fajar tanpa memandang musim (biasanya antara jam 5:00 hingga 6:00 pagi) sudah memberikan manfaat reset kognitif yang memadai."
   - question: "Saya bukan tipe orang pagi dan merasa sangat lelah saat bangun awal; apa yang harus saya lakukan?"
     answer: "Daripada memaksakan bangun jam 5:00 pagi sejak awal, cobalah bangun hanya 20 menit lebih awal dari jadwal biasa Anda. Ritual penataan diri 5 menit saat bangun — menghindari smartphone dan minum teh sambil melihat ke luar jendela — adalah inti utamanya."
-
 ---
 
 "Kita menggunakan bahasa. Itu mungkin menjadi ukuran hidup kita." ☕

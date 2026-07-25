@@ -21,7 +21,6 @@ faqs:
     answer: "Daripada upacara yang megah atau barang-barang rumah tangga yang mewah, sepeda menyediakan alat yang praktis dan sehat untuk menjelajahi pedesaan Prancis, merenung bersama, dan melepaskan stres penelitian. Sepeda ini berfungsi sebagai transportasi bulan madu mereka sekaligus jangkar mental seumur hidup."
   - question: "Apakah ada rutinitas aerobik alternatif jika saya tidak memiliki sepeda atau jalur bersepeda?"
     answer: "Ya, tentu saja. Jalan cepat selama 30 menit, joging ringan, atau bersepeda statis dalam ruangan memberikan manfaat kardiovaskular dan aliran darah otak yang identik. Mekanisme kuncinya adalah melibatkan otot-otot tubuh bagian bawah dalam pola berirama untuk memompa darah beroksigen ke otak."
-
 ---
 
 "Satu-satunya penyegaran yang mampu membuang gas laboratorium dan kelelahan kognitif adalah angin sore yang menembus jalanan desa di atas pedal sepeda." 🚲

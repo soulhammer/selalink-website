@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Devo praticar esse hábito todos os dias?"
     answer: "Sim, a neuroplasticidade é maximizada quando praticada em um horário diário consistente. Executá-lo continuamente em horário e local fixos fortalece os circuitos de neuroplasticidade."
-
 ---
 
 "A clareza da minha filosofia é como a pureza da luz que passa por uma lente de vidro." 🔍

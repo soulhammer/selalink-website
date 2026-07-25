@@ -21,7 +21,6 @@ faqs:
     answer: "Sie müssen nicht wie Smith 15 Meilen gehen. Klinische Empfehlungen raten zu 20 bis 40 Minuten, um die Gehirndurchblutung und DMN-Aktivierung zu fördern. Entscheidend ist der Zeitraum ohne digitale Ablenkungen, nicht die Distanz."
   - question: "Kann ich auf einem Laufband im Innenbereich gehen, wenn ich nicht nach draußen kann?"
     answer: "Ja. Wichtig ist jedoch, auf dem Laufband nicht auf Bildschirme oder Fernseher zu schauen. Richten Sie den Blick auf einen neutralen Punkt an der Wand und blenden Sie visuelle Reize aus, um sich voll auf das Gehen zu konzentrieren."
-
 ---
 
 "Die Kontemplation eines Gelehrten erlangt ihre vollkommenste Ordnung auf einem ruhigen Spazierweg." 🚶‍♂️

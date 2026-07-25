@@ -21,7 +21,6 @@ faqs:
     answer: "For beginners, attempting to block an entire day into 5-minute increments will indeed trigger cognitive overload. Start small: designate a 1-to-2-hour 'focus block' during your day, subdividing it into 15 or 30-minute micro-slots to build your focus capacity before gradually tightening the timeframes."
   - question: "What should I do if a task is not completed within its designated time block?"
     answer: "When time expires, halt immediately and transition unconditionally to the next block. Allocate unfinished work into a dedicated 'Buffer Block' reserved late in the afternoon. This rule prevents a single delayed task from triggering a domino collapse across your entire daily schedule."
-
 ---
 
 "If your time is strictly limited, your hyper-focus must scale proportionally to meet it." 🚀

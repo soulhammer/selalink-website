@@ -21,7 +21,6 @@ faqs:
     answer: "O segredo não é o horário exato das 6h, mas 'concluir um treino exigente imediatamente ao acordar'. Independentemente da sua hora de acordar, realizar um treino intenso logo ao se levantar garante os mesmos benefícios hormonais e de confiança."
   - question: "O treino diário de alta intensidade não causa overtraining ou lesões?"
     answer: "A rotina de Jordan evoluiu gradualmente. Iniciantes devem começar com 3 dias por semana, aumentando progressivamente a intensidade. Alternar entre treino de força e mobilidade leve em dias alternados evita o esgotamento físico."
-
 ---
 
 "Posso aceitar a falha, todos falham em algo. Mas não posso aceitar não tentar. Enquanto meus adversários acordam às 8h30, eu já trabalhei duas horas para derrotá-los." 🏀

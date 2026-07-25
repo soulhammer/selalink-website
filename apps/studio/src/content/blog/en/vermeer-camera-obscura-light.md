@@ -21,7 +21,6 @@ faqs:
     answer: "Even the subtle, soft milky light of a cloudy day is a wonderful subject for observing illumination. You may also observe the light refractions forming through raindrops on window panes."
   - question: "Is this effective even if I don't work in art or design like Vermeer?"
     answer: "Yes! Quietly observing visual illumination is the fastest physical rest method to halt complex mental chatter in the brain."
-
 ---
 
 Johannes Vermeer, a 17th-century Dutch Baroque master painter who created quiet, luminous masterpieces such as 'Girl with a Pearl Earring' and 'The Milkmaid.' By the window of his studio in Delft sat a 'Camera Obscura,' an optical device projecting light particles precisely. Before painting, he quietly observed the incoming sunlight through the lens and the fine silver specks of light forming on the wall for tens of minutes in silence. Quietly gazing at the refraction of light and softly focused shadows was a supreme brain-rest habit that stilled mental chatter and guided the brain into extreme serenity.

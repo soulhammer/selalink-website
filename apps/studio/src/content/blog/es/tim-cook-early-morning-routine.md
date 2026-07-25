@@ -21,7 +21,6 @@ faqs:
     answer: "Si su cronotipo de sueño es nocturno, no necesita forzarse a despertar a las 3:00–4:00 AM. La lección clave es 'asegurar 1 hora proactiva sin interrupciones', por lo que sustituirla por 1 hora tras el trabajo o en la noche produce el mismo efecto."
   - question: "¿Cómo puedo superar la fatiga por la tarde al levantarme temprano por la mañana?"
     answer: "Tomar una siesta reconfortante de 15 a 20 minutos entre la 1:00 PM y las 3:00 PM, finalizar la ingesta de cafeína antes de las 11:00 AM y realizar estiramientos ligeros reducirá la fatiga prefrontal."
-
 ---
 
 Tim Cook, el máximo ejecutivo que lidera Apple y dirige la vida diaria de cientos de millones de personas y decisiones de billones de dólares. ¿Cuál es su secreto matutino definitivo para mantener el día bajo su control absoluto antes de que lleguen los mensajes del exterior? ⌚

@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "How can busy workers practically shorten Martin's routine if they cannot meditate for hours?"
     answer: "There is no need to meditate for hours like Agnes Martin. Taking an 'Intentional Pause' for just 5 minutes before beginning work is completely sufficient. Right after arriving at your desk and before turning on your PC, close your eyes, take 3 deep breaths, and ask yourself 'What is the single most essential focus for today?'. This simple action achieves metacognitive tuning to clear brain noise."
-
 ---
 
 "I sit in my chair and wait until my mind is completely empty. When there is nothing left in my mind, the true image of the painting appears before my eyes." 🧘‍♀️

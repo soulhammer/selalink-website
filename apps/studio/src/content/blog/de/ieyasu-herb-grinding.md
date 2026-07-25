@@ -21,7 +21,6 @@ faqs:
     answer: "Die gleichmäßige Bewegung regt das Serotoninsystem an, dämpft die Stressreaktionen der Amygdala und stellt die rationale Kontrolle im präfrontalen Kortex wieder her."
   - question: "Wie lässt sich diese Routine im Alltag umsetzen, wenn man keinen Mörser besitzt?"
     answer: "Das gleichmäßige Drehen einer manuellen Kaffeemühle, das vorsichtige Zerstoßen von Teeblättern oder das rhythmische Aneinanderreiben der Handflächen bietet dieselben Vorteile. Entscheidend ist der gleichmäßige Rhythmus."
-
 ---
 
 "Das Leben des Menschen ist wie eine lange Reise mit schwerer Last. Eile nicht. Das Mahlen von Kräutern mit dem Mörser jeden Morgen beruhigt meinen Atem und schenkt mir die Geduld, das Reich zu regieren." 🍵

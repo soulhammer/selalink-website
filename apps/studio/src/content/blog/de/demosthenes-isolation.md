@@ -21,7 +21,6 @@ faqs:
     answer: "Um eine unausweichliche soziale Barriere zu schaffen, die das Verlassen des Raumes aufgrund seines Aussehens unmöglich machte. Dies ersparte die Energie zur Versuchungsabwehr und richtete seine kognitiven Ressourcen voll auf das Redetraining."
   - question: "Welche praktischen Selbstverpflichtungs-Mechanismen können moderne Menschen nutzen, ohne sich den Kopf zu rasieren?"
     answer: "Wirksame moderne Methoden sind physische Tresorboxen mit Zeitschloss für Smartphones, das Aktivieren von Website-Blockern am Computer während der Arbeitszeit oder verbindliche Verträge mit finanziellen Strafen bei Nichtreichen eines Ziels."
-
 ---
 
 "Verlassen Sie sich nicht auf die Willenskraft, um Versuchungen zu widerstehen. Errichten Sie eine Barriere, die Ihren Fokus unlösbar an die Aufgabe bindet." 🏛️

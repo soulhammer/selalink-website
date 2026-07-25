@@ -9,9 +9,8 @@ heroImage: "/images/blog/marx_reading_room.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Historische Biografien, autobiografische Aufzeichnungen zu Karl Marx & kognitionswissenschaftliche (Cognitive Neuroscience) Forschung"
-steps:
-
-
+steps: []
+faqs: []
 ---
 
 Karl Marx sezierte die verborgenen Mechanismen der Gesellschaft durch die Ökonomie. Entdecken Sie seine hartnäckige Leseroutine, im Londoner Exil täglich 10 Stunden im Lesesaal des British Museum umfassende Literatur zu studieren und zu exzerpieren, sowie die neurowissenschaftlichen Grundlagen.

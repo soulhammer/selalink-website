@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, absolutely! The purpose is not creating an artwork, but cognitive training to stimulate right-brain spatial circuits through hand movement. Even simple scribbles yield full benefits."
   - question: "Does using a digital tablet stylus produce the exact same effect?"
     answer: "Yes, it works! However, if stroke stabilization or the 'Undo' feature is active, the brain becomes self-conscious about making corrections. Turn off stabilization and undo functions for best results."
-
 ---
 
 "Architecture should be a space where people can breathe and dream, never trapped inside a rectangular box." 🏛️

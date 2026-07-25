@@ -21,7 +21,6 @@ faqs:
     answer: "Physical activity like touching garden soil and weeding acts as a perfect signal allowing your exhausted prefrontal cortex to rest from 'directed attention'. However, if you lack a garden, simply strolling along a forest path, touching tree branches, or listening to the wind delivers identical neurological relaxation benefits."
   - question: "How can I substitute this if I live in an apartment or urban area without a garden or soil?"
     answer: "You can easily substitute it by tending small indoor potted plants on a balcony, repotting, or pruning withered leaves. Walking through urban parks or tree-lined pathways while focusing on the aroma of leaves and soil also serves as an exceptional analog contemplation method."
-
 ---
 
 "Tending a garden is the most sacred analog ritual to hear the great voice of life once again and calm inner turbulence." 🌿

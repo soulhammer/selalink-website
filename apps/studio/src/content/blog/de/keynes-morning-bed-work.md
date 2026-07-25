@@ -21,7 +21,6 @@ faqs:
     answer: "Flaches Liegen mit vorgebeugtem Nacken belastet die Halswirbelsäule stark. Um den Rücken zu schonen, stützen Sie Ihren Oberkörper im Winkel von mindestens 45 Grad mit festen Kissen ab und begrenzen Sie die Arbeitsphase auf 20 bis 30 Minuten."
   - question: "Kann ich nach dem Aufstehen nicht zuerst 5 Minuten lang E-Mails oder Nachrichten prüfen?"
     answer: "Nein. Wenn das Gehirn auch nur 5 Minuten lang fremden Anforderungen ausgesetzt wird, verfliegt die kognitive Energie der Cortisol-Aufwachreaktion (CAR) sofort. Lassen Sie das Smartphone ausgeschaltet, bis Sie Ihre wichtigste Aufgabe erledigt haben."
-
 ---
 
 "Meine besten ökonomischen Theorien wurden vor Sonnenaufgang gewoben, angelehnt an Kissen unter einer warmen Decke." 🛏️

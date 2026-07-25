@@ -21,7 +21,6 @@ faqs:
     answer: "Oui. L'élément déterminant n'est pas le silence environnemental absolu, mais la coupure des flux linguistiques (conversations, podcasts ou lecture). Même en plein centre-ville, l'utilisation d'un casque à réduction de bruit pour atténuer les nuisances sonores, combinée à l'absence de contenus linguistiques, procure des bénéfices identiques."
   - question: "Dois-je m'arrêter pour noter immédiatement les idées brillantes pendant la marche ?"
     answer: "Évitez de rompre le rythme physique de votre marche. S'arrêter pour écrire de longues phrases interrompt le traitement visuo-spatial pariétal. En cas d'idée majeure, notez seulement 1 ou 2 mots-clés en 2 secondes dans un carnet. Reprenez immédiatement votre marche silencieuse, puis développez les idées une fois la marche terminée."
-
 ---
 
 « Les mots sont un bruit qui obscurcit la beauté mathématique. Ce n'est qu'en marchant dans un silence absolu que la symétrie de l'univers se révèle. » 🌌

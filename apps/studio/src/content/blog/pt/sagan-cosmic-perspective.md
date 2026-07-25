@@ -21,7 +21,6 @@ faqs:
     answer: "Sim! Visualizar um zoom-out cósmico de 1 minuto estabiliza a frequência cardíaca e reduz significativamente o pânico cênico ou a ansiedade de desempenho."
   - question: "O que fazer se eu não tiver fotos do espaço por perto?"
     answer: "Basta fechar os olhos e imaginar um pequeno ponto azul flutuando no espaço escuro para obter os mesmos benefícios neurocientíficos."
-
 ---
 
 "Todos a quem você ama, todos a quem você conhece, cada ser humano que já existiu, viveu sua vida em um grão de poeira suspenso em um raio de sol." 🌌

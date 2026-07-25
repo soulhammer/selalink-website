@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, Forschungen zur gekleideten Kognition (Enclothed Cognition) in der kognitiven Psychologie belegen dies eindrücklich. Allein das Umziehen von Schlafanzug oder Hauskleidung in gepflegte Kleidung wie Stoffhosen oder Hemden veranlasst das Gehirn, seinen symbolischen Modus vom 'Ruhekontext' in den 'Arbeitskontext' umzuschalten. Dies verringert Prokrastination und verkürzt die Aufwärmzeit für tiefe Konzentration drastisch."
   - question: "Kann man auch mit einem einzelnen Gegenstand wie einer Brille oder einer Uhr eine Wirkung erzielen, wenn es schwierig ist, sich komplett umzuziehen?"
     answer: "Ja, absolut! Solange der Gegenstand vom Gehirn als 'symbolisches Arbeitssignal' erkannt wird, können Einzelreize wie das Aufsetzen einer Brille, das Tragen einer analogen Fokus-Uhr oder das Anziehen sauberer Hausschuhe denselben Konditionierungseffekt auslösen. Der Schlüssel liegt darin, konsequent die eigene symbolische Regel einzuhalten: 'Sobald ich diesen Gegenstand trage, schalte ich in den Fokusmodus.'"
-
 ---
 
 "Wenn der Abend kommt, kehre ich nach Hause zurück und gehe in mein Arbeitszimmer. An der Schwelle ziehe ich meine schmutzige Alltagskleidung aus und lege königliche und höfische Gewänder an. Geziemend gekleidet trete ich in die antiken Höfe der alten Meister ein." 👑

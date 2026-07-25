@@ -21,7 +21,6 @@ faqs:
     answer: "Nietzsche caminhava principalmente entre o cafÃ© da manhÃ£ e o almoÃ§o, e no final da tarde. Ele preferia trilhas de montanha e caminhos na floresta."
   - question: "Ã obrigatÃ³rio caminhar ao ar livre para praticar essa rotina?"
     answer: "Caminhar ao ar livre Ã© o ideal, mas se nÃ£o for possÃ­vel, andar calmamente por um corredor ou escritÃ³rio ajudarÃ¡ a renovar o foco."
-
 ---
 
 "Todos os pensamentos verdadeiramente grandes sÃ£o concebidos ao caminhar." ð¶ââï¸

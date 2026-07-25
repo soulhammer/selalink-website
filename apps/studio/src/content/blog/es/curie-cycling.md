@@ -21,7 +21,6 @@ faqs:
     answer: "En lugar de ceremonias ostentosas o artículos de lujo, las bicicletas ofrecían una herramienta práctica y saludable para explorar el campo francés, reflexionar juntos y aliviar el estrés de la investigación. Sirvieron como transporte de luna de miel y ancla mental para toda la vida."
   - question: "¿Existen rutinas aeróbicas alternativas si no tengo bicicleta o espacio para pedalear?"
     answer: "Sí, por supuesto. Una caminata a paso ligero de 30 minutos, un trote suave o una bicicleta estática en interiores ofrecen beneficios cardiovasculares y cerebrales idénticos. La clave es ejercitar los músculos inferiores con un patrón rítmico para bombear sangre oxigenada al cerebro."
-
 ---
 
 "El único alivio capaz de eliminar los gases del laboratorio y el agotamiento cognitivo era la brisa de la tarde al recorrer los caminos rurales en bicicleta." 🚲

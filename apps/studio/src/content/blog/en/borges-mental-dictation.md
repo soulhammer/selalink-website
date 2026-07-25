@@ -21,7 +21,6 @@ faqs:
     answer: "This is a completely natural neurological response. Rather than attempting vivid, detailed pictures right away, start with a highly simplified abstract model—drawing 2 or 3 basic boxes or circles connected by lines. As training progresses, the brain's visuospatial resolution increases."
   - question: "Does the habit of eyes-closed 3D visualization actually improve real-world skills like planning or coding?"
     answer: "Yes, immensely. Expert system architects and strategic planners model organic data flows and component dependencies in mental space before writing code or drafting documents. Mental visualization training dramatically enhances prefrontal working memory, allowing you to sustain and assemble complex logical frameworks effortlessly."
-
 ---
 
 "When I lost my sight, I only then began to explore the inner world and the true labyrinths." 📚

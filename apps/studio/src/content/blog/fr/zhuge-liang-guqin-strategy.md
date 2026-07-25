@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, la simple immersion auditive concentrée en écoutant de la musique orchestrale ou acoustique à cordes produit exactement les mêmes effets d'induction d'ondes alpha."
   - question: "Pourquoi choisir 1 seule tâche parmi de nombreuses affaires ?"
     answer: "Le cerveau surchauffe lors de l'exécution de tâches multiples simultanées. Concentrer son énergie sur 1 tâche essentielle alloue efficacement les ressources du cortex préfrontal."
-
 ---
 
 À la fin de la dynastie des Han orientaux, pendant la période des Trois Royaumes, Zhuge Liang (諸葛亮) était le maître stratège qui a aidé Liu Bei à fonder Shu Han (蜀漢), a conçu la division tripartite de la Chine et est devenu un Premier ministre légendaire (名宰相) au milieu de conflits féroces entre Wei, Shu et Wu. Portant sur ses épaules la vie de centaines de milliers de soldats et la survie de sa nation, il endurait chaque jour une pression émotionnelle extrême. 🎶

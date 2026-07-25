@@ -21,7 +21,6 @@ faqs:
     answer: "Leer libros de papel en lugar de teléfonos inteligentes con luz azul —especialmente obras de humanidades, poesía o ensayos serenos bajo luz indirecta tenue— induce ondas cerebrales alfa que promueven un sueño profundo."
   - question: "¿Cómo puedo registrar pasajes favoritos durante la lectura nocturna sin interrumpir el sueño?"
     answer: "Evite encender computadoras o pantallas antes de dormir. En su lugar, coloque notas adhesivas o doble las esquinas de las páginas y organícelas en su archivo digital a la mañana o tarde siguiente."
-
 ---
 
 "Cuando enciendo en silencio la lámpara de mi habitación y leo a los clásicos, solo entonces me encuentro con mi verdadera alma tras la gran pantalla." 📖

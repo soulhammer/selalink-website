@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak. Tulisan tangan dengan pena di atas kertas secara intensif menstimulasi korteks somatosensori, secara dramatis meningkatkan efisiensi penyandian kognitif. Meskipun mengetik lebih cepat, menekan tombol yang identik memberikan umpan balik taktil yang seragam tanpa stimulasi saraf."
   - question: "Apakah menjelaskan konsep kepada orang lain memicu manfaat metakognitif meskipun tidak dalam bentuk surat tertulis?"
     answer: "Ya, tentu saja! Menurut penelitian piramida pembelajaran, mengajar atau menjelaskan konsep kepada orang lain memberikan tingkat retensi pengetahuan hingga 90%. Selain menulis surat atau email, menjelaskan ide kepada rekan kerja dalam percakapan atau berbicara sendiri di depan cermin memicu manfaat metakognitif yang identik."
-
 ---
 
 "Membaca tanpa 'Choseo' (transkripsi selektif dan catatan tangan) tidak memberikan nilai yang bertahan lama. Memori memudar tanpa bekas." 🖋️

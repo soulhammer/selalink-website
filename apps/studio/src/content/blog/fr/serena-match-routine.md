@@ -21,7 +21,6 @@ faqs:
     answer: "Définir 2 à 3 étapes d'actions mécaniques cohérentes que vous pouvez entièrement contrôler — comme 'lasser ses chaussures dans un ordre précis', 'faire 3 profondes inspirations' ou 'répéter à voix haute une phrase d'engagement' — et les répéter à l'identique vous aidera grandement à contrôler l'anxiété."
   - question: "Comment gérer l'anxiété qui survient si je manque ou fais une erreur dans une seule étape de la routine ?"
     answer: "Vous devez réaliser qu'une routine n'est qu'un ancrage psychologique et non l'essence de vos compétences ou de vos actes. Lorsqu'une erreur survient, la souplesse d'admettre que 'cela fait aussi partie de la situation' maximise l'efficacité de la routine."
-
 ---
 
 « Avant chaque match, je répète la même séquence d'actions pour bâtir mon propre territoire contrôlé sur le court. » 🎾

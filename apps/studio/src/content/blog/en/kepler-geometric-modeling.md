@@ -21,7 +21,6 @@ faqs:
     answer: "Kepler carved models of the five Platonic solids (tetrahedron, cube, octahedron, dodecahedron, icosahedron) nested sequentially inside concentric spheres representing planetary orbits. This physical model allowed him to visually and haptically verify spatial proportions between planetary distances."
   - question: "How can I easily practice this routine if I don't have physical 3D blocks or models?"
     answer: "Simply spreading sticky notes or index cards across your desk and physically repositioning them by hand, or folding and tearing paper to structure relationships, fires up the parietal lobe's spatial networks. This delivers identical haptic benefits to dissolve abstract cognitive blockades."
-
 ---
 
 "Geometry existed before the Creation; it is co-eternal with the mind of God... A physical 3D model carved by hand reveals spatial truths that numerical equations alone obscure." 🚶‍♂️

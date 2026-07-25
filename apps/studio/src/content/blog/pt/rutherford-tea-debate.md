@@ -21,7 +21,6 @@ faqs:
     answer: "Sim! Tome um chá às 16h conversando 10 minutos online com colegas ou fazendo um autodialogo escrito em seu caderno."
   - question: "Tenho receio de que o chá vire apenas conversa fiada e desperdice tempo."
     answer: "Defina um cronômetro para exatamente 15 minutos. O limite evita desperdício de tempo enquanto oxigena o cérebro e estimula ideias."
-
 ---
 
 Ernest Rutherford (1871–1937), prêmio Nobel de Química e 'pai da física nuclear', descobriu o núcleo atômico. Qual era o segredo do ambiente colaborativo em seu laboratório? ☕

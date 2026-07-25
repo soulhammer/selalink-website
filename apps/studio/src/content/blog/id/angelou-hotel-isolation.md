@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Bisakah saya mendapatkan efek isolasi lingkungan yang sama tanpa perlu berpindah tempat secara fisik?"
     answer: "Ya, sangat memungkinkan. Dengan membersihkan barang-barang di atas meja secara total, mengenakan headphone noise-canceling, atau memberikan sinyal pemblokiran notifikasi pada perangkat, Anda dapat menyampaikan sinyal peralihan mode fokus yang kuat ke otak tanpa perlu berpindah tempat secara fisik."
-
 ---
 
 "Sebuah karya agung tidak pernah lahir secara kebetulan. Karya itu berkembang hanya melalui fokus yang gigih dan disiplin diri." 🖋️

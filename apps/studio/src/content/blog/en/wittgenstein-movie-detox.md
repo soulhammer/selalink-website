@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Does endlessly watching smartphone Shorts or Reels after work produce a similar brain reset effect as Wittgenstein's routine?"
     answer: "No, absolutely not. Short-form videos flood the brain with entirely new, novel stimuli every few seconds. Every swipe triggers dopamine spikes and forces rapid contextual re-evaluations, making brainwaves more scattered. The core of Wittgenstein's routine is immersing in continuous, slow, simple stimuli to pause cognitive processing. Rapid short-form media exhausts the brain rather than resting it."
-
 ---
 
 "When philosophical research makes me feel insane, the simplicity of American Westerns faced in the front row of a cinema is the only elixir that revives my brain." 🤠

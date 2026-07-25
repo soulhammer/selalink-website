@@ -21,7 +21,6 @@ faqs:
     answer: "Nein. Der Kern liegt nicht in der Uhrzeit '4 Uhr morgens', sondern in der Anwendung der 3 Schritte – Vermeidung digitaler Reize nach dem Aufstehen, positiver Austausch und Spaziergang bei Tageslicht – angepasst an Ihren Zeitplan (z. B. 6:00 oder 7:00 Uhr)."
   - question: "Wie kann ich diese Routine anpassen, wenn ich alleine lebe und niemand da ist zum Frühstück?"
     answer: "Wenn Sie alleine leben, erzielen Sie dieselbe emotionale Stabilität und Oxytocinausschüttung, indem Sie bei einer Tasse Tee positive Selbstbekräftigungen vor dem Spiegel sprechen, ein Haustier oder Pflanzen versorgen oder einen kurzen Gruß mit dem Barista Ihres Stammcafés austauschen."
-
 ---
 
 "Die Vorfreude beim Aufstehen in der Morgendämmerung entscheidet über den Erfolg des Tages." ☀️

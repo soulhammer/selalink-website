@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, c'est extrêmement efficace ! Synchroniser le contrôle moteur fin avec la concentration visuelle apaise l'hyper-activation de l'amygdale et des réseaux de stress, réduisant l'anxiété et restaurant le calme intérieur."
   - question: "À quelle fréquence et a quel moment de la journée convient-il de pratiquer cette routine de micro-immersion ?"
     answer: "Il est idéal de la pratiquer una fois par jour pendant environ 20 minutes. Elle s'utilise comme un échauffement cognitif avant d'aborder des tâches complexes, ou comme una réinitialisation préfrontale pour récupérer après un effort mental."
-
 ---
 
 « Mes travaux n'ont pas été menés pour obtenir des éloges ou des richesses, mais principalement par un désir de connaissance de la création microscopique. » 🔍

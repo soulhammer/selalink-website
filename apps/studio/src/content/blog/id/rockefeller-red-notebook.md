@@ -21,7 +21,6 @@ faqs:
     answer: "Ya. Tindakan menyalakan ponsel memaparkan sakelar kognitif Anda pada bising digital, membuat fokus langsung buyar. Selain itu, menulis tangan mengirimkan data somatosensori yang jauh lebih kuat ke korteks serebral, memicu kesadaran kognitif akan kontrol diri dua kali lipat lebih tinggi."
   - question: "Apakah saya benar-benar harus mencatat setiap detail sepele seperti 1 sen atau 1 menit?"
     answer: "Kuncinya bukan pada nilai uang atau besarnya tindakan, melainkan melatih umpan balik kognitif real-time di otak. Mencatat pengeluaran sekecil apa pun memperkuat jaringan kontrol inhibisi prefrontal, membangun sirkuit otak yang menolak impulsivitas saat keputusan besar."
-
 ---
 
 John D. Rockefeller, pengusaha legendaris yang mendirikan Standard Oil dan mengumpulkan kekayaan pribadi terbesar sepanjang sejarah manusia. Dari mana datangnya perencanaan dan dorongan tanpa celahnya? 📕

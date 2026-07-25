@@ -21,7 +21,6 @@ faqs:
     answer: "Non. Chuchoter ne sollicite pas pleinement les muscles articulateurs et génère un retour auditif insuffisant. Vous devez articuler clairement pour compléter la boucle de rétroaction audito-motrice qui coactive les aires de Broca et Wernicke."
   - question: "Est-il efficace d'enregistrer ses pensées déclamées à l'aide de mémos vocaux ou d'applications de dictée (STT) pendant la marche ?"
     answer: "Oui, c'est une excellente adaptation moderne de la routine de Dostoïevski. Capturer vos pensées déclamées via des applications de dictée évite que l'écriture manuscrite n'interrompe le rythme de la marche et de la parole."
-
 ---
 
 « Une phrase ne devient vraie que lorsqu'elle quitte la bouche et résonne à l'oreille. » 🗣️

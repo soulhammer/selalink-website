@@ -21,7 +21,6 @@ faqs:
     answer: "Ja, absolut. Die Vergabe eindeutiger Nummern bietet auch digital Vorteile. Während Volltextsuchen scheitern können, wenn man Suchbegriffe vergisst, dient eine eindeutige Nummer (z. B. #042) als fixe Adresse für Verlinkungen (Backlinks) und Querverweise."
   - question: "Wie soll ich die Nummerierung handhaben, wenn Alltagsnotizen, Projekte und Ideen gemischt werden?"
     answer: "Sie können alle Einträge wie Faraday in einer einzigen Folge (z. B. #1 bis #1000) erfassen. Für eine Trennung nutzen Sie Präfixe (z. B. Arbeit [A-01], Studium [B-01]). Entscheidend ist nicht die Komplexität, sondern das Vergeben einer eindeutigen Adresse für jedes Fragment."
-
 ---
 
 "Eine Beobachtung ist ohne Aufzeichnung nichts. Wenn Sie eine Beobachtung machen, geben Sie ihr sofort eine Nummer." 📝

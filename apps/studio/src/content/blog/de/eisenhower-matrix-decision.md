@@ -21,7 +21,6 @@ faqs:
     answer: "Wenn alles dringend erscheint, priorisieren Sie fremde Fristen über Ihre eigenen Werte. Richten Sie für die ersten 30 Minuten des Arbeitstages einen strikten 'Nicht-Stören'-Block ein, ohne E-Mails zu öffnen, und widmen Sie diese Zeit Quadrant 2. Zeitfenster dieser Art reduzieren langfristig künftige Notfälle."
   - question: "Was ist das objektive Kriterium zur Unterscheidung zwischen 'wichtigen' und 'dringenden' Aufgaben?"
     answer: "'Dringende Aufgaben' werden durch fremde Anforderungen erzeugt und verlangen sofortige Reaktion (E-Mails, Benachrichtigungen, Fristen). 'Wichtige Aufgaben' hingegen zahlen auf Ihre langfristigen Ziele und Kompetenzen ein. Fragen Sie sich: 'Hat das Nicht-Erledigen dieser Aufgabe in einem Jahr spürbare Auswirkungen auf mein Leben?'"
-
 ---
 
 "Ich habe zwei Arten von Problemen, die dringenden und die wichtigen. Die dringenden sind nicht wichtig, und die wichtigen sind niemals dringend." 📊

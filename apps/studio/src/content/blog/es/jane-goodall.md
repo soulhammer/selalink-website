@@ -21,7 +21,6 @@ faqs:
     answer: "No. Las imágenes en pantallas digitales son píxeles planos en 2D que no activan las redes de percepción de profundidad en 3D. Debe decodificar la profundidad física y las texturas de objetos reales a simple vista para estimular la neuroplasticidad."
   - question: "¿Debo observar solo objetos estáticos o puedo observar sujetos en movimiento?"
     answer: "¡Los sujetos dinámicos son excelentes! Analizar los movimientos de la cola de un gato o las aletas de un pez en un acuario despierta con la misma eficacia las redes de Atención Selectiva."
-
 ---
 
 "Solo cuando se observa tranquilamente, sin juicios ni intervenciones, la naturaleza abre la puerta a sus secretos más profundos." 🐒

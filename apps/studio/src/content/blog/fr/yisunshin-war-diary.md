@@ -21,7 +21,6 @@ faqs:
     answer: "Il n'est pas nécessaire d'écrire longuement ; trois lignes suffisent. En résumant 'une chose qui m'a le plus épuisé aujourd'hui', 'mon émotion à ce moment-là' et 'une chose que je peux corriger demain', le mécanisme d'objectivation émotionnelle du cerveau fonctionne exactement de la même manière."
   - question: "L'utilisation d'une application de journal sur smartphone ou la saisie au clavier est-elle tout aussi efficace ?"
     answer: "En principe, l'écriture manuscrite sur papier est la plus efficace, car le retour tactile envoyant des informations sensorielles fines au cerveau éveille plus clairement le contrôle cognitif du lobe frontal. Cependant, si vous tapez au clavier tout en maintenant un état de concentration sans notifications et en écrivant honnêtement, vous bénéficierez également d'un effet de régulation émotionnelle."
-
 ---
 
 « Assis seul à la lumière d'une bougie tard dans la nuit, j'écris dans mon journal, inquiet pour la nation. » 🖋️

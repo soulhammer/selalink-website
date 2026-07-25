@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, tentu saja! Kuncinya bukan pada teknik yang rumit, melainkan pada 'stimulasi taktil motorik halus dan kesadaran resonansi akustik'. Gunakan instrumen sederhana seperti kalimba atau tongue drum selama 5 menit."
   - question: "Bisakah mendengarkan musik secara pasif menggantikan permainan instrumen aktif?"
     answer: "Meskipun mendengarkan secara pasif membantu relaksasi, secara aktif menggerakkan jari untuk mengontrol suara dan merasakan getaran melibatkan korteks somatosensori dan perhatian prafrontal secara jauh lebih kuat."
-
 ---
 
 "Musik adalah hadiah Tuhan yang indah dan mulia, yang mengusir semua kesedihan dan godaan." 🎵

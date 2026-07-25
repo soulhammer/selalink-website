@@ -21,7 +21,6 @@ faqs:
     answer: "¡Sí! Recordar un zoom-out cósmico de 1 minuto estabiliza el ritmo cardíaco y reduce notablemente el pánico escénico o la ansiedad de ejecución."
   - question: "¿Qué hago si no tengo fotografías del espacio a la mano?"
     answer: "Simplemente cierre los ojos e imagine una pequeña y hermosa mota azul flotando en el espacio oscuro para obtener los mismos beneficios neurocientíficos."
-
 ---
 
 "Todos a quienes amas, todos a quienes conoces, cada ser humano que ha existido, vivió su vida en una mota de polvo suspendida en un rayo de sol." 🌌

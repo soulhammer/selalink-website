@@ -21,7 +21,6 @@ faqs:
     answer: "Yes, some of his surviving manuscripts (such as essays and critical pieces) are preserved in narrow scroll form pasted together with glue at institutions like the Free Library of Philadelphia."
   - question: "Are there software programs that block the habit of editing while typing on digital screens?"
     answer: "Yes, drafting-focused apps that disable backspacing or erase text if you pause typing (such as The Most Dangerous Writing App) as well as typewriter-mode editors are highly effective."
-
 ---
 
 Edgar Allan Poe (1809–1849), hailed as the pioneer of macabre gothic fiction such as 'The Raven' and 'The Black Cat', as well as the father of the modern detective story. How were his brilliant manuscripts—weaving human psychological anxiety with intricate logical mysteries—crafted in his study? 📜

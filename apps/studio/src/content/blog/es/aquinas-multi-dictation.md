@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Debo practicar este hábito todos los días?"
     answer: "Sí, practicar a una hora fija todos los días maximiza la neuroplasticidad del cerebro. Ejecutar esto de forma constante todos los días en un momento y lugar fijos para fortalecer los circuitos de neuroplasticidad (Neuroplasticity) del cerebro es la clave más segura del éxito."
-
 ---
 
 "La fe sin razón es ciega, y la razón sin fe es impotente." 📜

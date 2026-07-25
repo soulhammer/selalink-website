@@ -21,7 +21,6 @@ faqs:
     answer: "Excel et les applications automatisées réduisent la stimulation cognitive visuelle. L'acte physique de tenir une règle et de tracer des lignes à la main pour représenter les variations stimule beaucoup plus fortement le lobe pariétal inférieur, vous aidant à percevoir intuitivement les liens de cause à effet et les tendances significatives sous-jacentes."
   - question: "Est-il nécessaire de continuer à enregistrer même s'il n'y a pas de changement significatif dans les chiffres ?"
     answer: "Oui, c'est extrêmement important. Le « maintien à plat » des chiffres est en soi une donnée précieuse témoignant d'une régularité. Enregistrer des périodes sans variation entretient le mécanisme de contrôle des impulsions du cerveau et sert de ligne de référence essentielle lorsque des anomalies apparaissent (ex. : comprendre pourquoi le volume de lecture a chuté)."
-
 ---
 
 « Les lois cachées de la nature finissent par se révéler dans un ordre mathématique précis au milieu d'innombrables données détaillées. » 🫛

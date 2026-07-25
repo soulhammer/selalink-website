@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, tentu saja. Mendapatkan jawaban instan dengan satu klik gagal menantang jaringan kognitif otak Anda. Koneksi sinaptik di korteks prefrontal menguat hanya melalui 'gesekan kognitif'—upaya manual membuka halaman kamus dan merangkai kerangka tata bahasa sendiri."
   - question: "Apakah teknik ini hanya berfungsi dengan bahasa klasik seperti Latin dan Yunani Kuno?"
     answer: "Tidak. Bahasa asing modern apa pun (seperti Inggris, Jerman, Prancis, atau Mandarin) dengan sintaksis logis yang berbeda dari bahasa asli Anda berfungsi sebagai media latihan yang luar biasa. Kuncinya adalah menerjemahkan teks-teks formal yang padat—seperti filsafat, esai, atau tajuk rencana—daripada percakapan santai sehari-hari."
-
 ---
 
 "Saya tahu saya memiliki tubuh seorang wanita yang lemah, tetapi saya memiliki hati dan lambung seorang raja, dan juga seorang raja Inggris." 👑

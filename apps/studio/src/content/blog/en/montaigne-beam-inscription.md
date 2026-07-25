@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Should this routine be practiced every single day?"
     answer: "Yes, consistent practice at set times maximizes neural plasticity. Consistently executing this routine in the same workspace builds strong neuroplastic pathways in the prefrontal cortex."
-
 ---
 
 "What do I know? (Que sçay-je?)" 🏛️

@@ -21,7 +21,6 @@ faqs:
     answer: "That is why 'non-face-to-face written submission' is advantageous. In face-to-face meetings, emotional persuasion easily occurs due to authority, conformity pressure, or eloquent speech. You can judge rationally only when you separately collect and analyze the sharp logic and factual data written individually by your advisors."
   - question: "What is the most appropriate size for an advisory team?"
     answer: "We strongly recommend a maximum of 3 people. As headcount increases, Analysis Paralysis occurs due to information overload, preventing decision-making. Place just 1 core expert representing each field (e.g., marketing, technology, legal) to gather consultation."
-
 ---
 
 "Make haste slowly. An unprepared decision cannot bring victory." 🏛️

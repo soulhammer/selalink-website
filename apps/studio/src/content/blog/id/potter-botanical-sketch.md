@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak! Menuliskan fitur yang diamati dalam bentuk teks alih-alih menggambar memberikan efek fokus 100% yang persis sama bagi otak."
   - question: "Apakah ini bisa diterapkan di dalam ruangan atau kantor dengan objek buatan alih-alih benda alam?"
     answer: "Ya, objek buatan manusia apa pun dengan tekstur halus—seperti mata pena pulpen, serat kertas, atau jahitan dompet kulit—memberikan efek fokus yang luar biasa."
-
 ---
 
 Beatrix Potter (1866–1943), pencipta karakter 'Peter Rabbit' yang dicintai di seluruh dunia (terjual lebih dari 300 juta eksemplar), ilustrator naturalis abad ke-19, dan peneliti mikologi. Apa yang mendorong wanita Inggris era Victorian yang pemalu ini menciptakan dunia dongeng yang imajinatif sekaligus ilustrasi botani bernilai ilmiah tinggi? 🐰

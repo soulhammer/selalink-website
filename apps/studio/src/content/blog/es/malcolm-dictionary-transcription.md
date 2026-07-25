@@ -21,7 +21,6 @@ faqs:
     answer: "No, el efecto es significativamente distinto. El tecleo involucra toques repetitivos que simplifican el estímulo sensorial a la corteza motora. Por el contrario, sostener una pluma y trazar cada línea ejercita áreas de asociación complejas en todo el cerebro, siendo incomparablemente superior para la memoria y el enfoque."
   - question: "¿Debo preocuparme por la caligrafía o la belleza de la letra?"
     answer: "No necesita una caligrafía perfecta. La esencia del ejercicio radica en que el cerebro se concentre profundamente en la presión táctil y la dirección del trazo. Mientras sea legible para usted, escribir a un ritmo natural es beneficioso. Concéntrese en la retroalimentación táctil en lugar de la estética."
-
 ---
 
 Malcolm X (1925–1965) fue un líder orador carismático que cautivó a multitudes durante la era más feroz de los derechos civiles en EE.UU. Detrás de la figura icónica que deslumbraba con su elocuente vocabulario, se escondía un pasado doloroso en el que apenas podía escribir una frase coherente. 📖

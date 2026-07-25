@@ -21,7 +21,6 @@ faqs:
     answer: "Exercício aeróbico e ativação muscular leve ajudam, mas treinos em academia sob luz artificial são menos eficazes para suprimir a melatonina. A atividade sob a luz solar natural combinada com a conexão com a terra (earthing — tocar diretamente a terra e elementos naturais) é necessária para alcançar estabilidade neural poderosa e ativação de serotonina como Verdi."
   - question: "O que deve ser observado ao introduzir o trabalho físico matinal?"
     answer: "Você deve evitar trabalhos de alta intensidade que exaurem excessivamente o cérebro. Quando o ácido lático se acumula no corpo e surge uma fadiga física severa, a glicose e a energia pré-frontal necessárias para o trabalho criativo são esgotadas, prejudicando a criatividade; portanto, limite-se a atividades leves de cerca de 15 minutos."
-
 ---
 
 "Para mim, a maior inspiração musical não vem ao segurar uma caneta, mas sim ao lavrar a terra e suar pela manhã." 🎼

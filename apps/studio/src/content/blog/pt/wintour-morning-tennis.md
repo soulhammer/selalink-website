@@ -21,7 +21,6 @@ faqs:
     answer: "Não há razão científica para ser exatamente às 5 da manhã. O ponto principal é acordar pelo menos 1 hora antes de iniciar o trabalho para despertar o cérebro com exercícios físicos. É essencial criar uma rotina nos primeiros 30 minutos após acordar de acordo com seus horários."
   - question: "O que fazer se treinos de alta intensidade forem pesados devido a articulações fracas ou baixa resistência?"
     answer: "Em vez de saltos com alto impacto nas articulações, escolha opções como bicicleta ergométrica, caminhada rápida ou caminhada em inclinação. Desde que você eleve moderadamente a respiração para aumentar o fluxo sanguíneo para o cérebro, obterá os mesmos benefícios cognitivos."
-
 ---
 
 "Mesmo que você não tenha certeza, faça com que todos os outros fiquem convencidos da sua intenção." 🚶‍♂️

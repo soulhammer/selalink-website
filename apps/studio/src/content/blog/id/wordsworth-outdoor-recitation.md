@@ -21,7 +21,6 @@ faqs:
     answer: "Di dalam harian pribadinya ia menulis: 'William berjalan bolak-balik di jalan taman ratusan kali pagi ini sambil membaca puisi,' menggambarkan bagaimana kecepatan jalannya berubah searah dengan tempo bacaan puisinya."
   - question: "Apakah berjalan dan membaca nyaring di atas treadmill dalam ruangan memberikan hasil yang sama?"
     answer: "Ya! Karena mekanisme fisiologis utamanya bertumpu pada aktivasi serebelum lewat langkah kaki, berjalan pelan di atas treadmill sambil membaca nyaring menghasilkan sinkronisasi gelombang otak dan umpan balik artikulasi yang persis sama."
-
 ---
 
 "Puisi adalah luapan spontan dari perasaan yang kuat: bermula dari emosi yang diresapi kembali dalam ketenangan." 🚶‍♂️

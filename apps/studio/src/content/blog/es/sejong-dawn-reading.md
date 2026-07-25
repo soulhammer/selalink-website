@@ -21,7 +21,6 @@ faqs:
     answer: "No. Lo fundamental del Rey Sejong es asegurar un espacio de enfoque libre de distracciones tras despertar. Despertarse solo 30 minutos antes de su hora habitual y leer sin teléfono genera los mismos beneficios."
   - question: "¿Está bien leer novelas web o artículos de redes sociales?"
     answer: "Para calentar el cerebro matutino, los libros impresos estructurados con desarrollo lógico son superiores al contenido digital fragmentado. La filosofía, literatura o historia que exigen razonamiento activo estimulan las redes cerebrales con mayor eficacia."
-
 ---
 
 "No aprender es como estar sentado en una habitación a oscuras; leer libros es como sostener una lámpara."

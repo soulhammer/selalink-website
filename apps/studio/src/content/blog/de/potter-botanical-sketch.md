@@ -21,7 +21,6 @@ faqs:
     answer: "Nein! Das Beschreiben der beobachteten Merkmale in Textform bringt genau denselben Immersionseffekt für das Gehirn."
   - question: "Kann ich dies in Innenräumen mit künstlichen Objekten anstelle von Naturmaterialien anwenden?"
     answer: "Ja, jeder Gegenstand mit feiner Textur – wie eine Füllfederhalterfeder, Papierstruktur oder Ledergeldbörsennähte – bietet eine hervorragende Fokussierung."
-
 ---
 
 Beatrix Potter (1866–1943), Schöpferin der weltweit über 300 Millionen Mal verkauften Figur 'Peter Hase', Zeichnerin und Mykologin des 19. Jahrhunderts. Was trieb diese schüchterne viktorianische Britin an, sowohl eine fantasievolle Kinderbuchwelt als auch wissenschaftlich wertvolle botanische Detailzeichnungen zu schaffen? 🐰

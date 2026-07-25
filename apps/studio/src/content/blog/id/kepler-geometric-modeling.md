@@ -21,7 +21,6 @@ faqs:
     answer: "Kepler memahat model dari lima Platonic solids (tetrahedron, kubus, oktahedron, dodekahedron, ikosahedron) yang bersarang secara berurutan di dalam cangkang bola konsentris yang mewakili orbit planet. Model fisik ini memungkinkannya memverifikasi proporsi spasial di antara jarak planet."
   - question: "Bagaimana cara melatih rutinitas ini dengan mudah jika saya tidak memiliki blok 3D atau model fisik?"
     answer: "Cukup dengan menyebarkan catatan tempel atau kartu indeks di meja Anda dan mereset posisinya secara fisik dengan tangan, atau melipat dan merobek kertas untuk menyusun struktur hubungan. Ini mengaktifkan jaringan spasial lobus parietal."
-
 ---
 
 "Geometri ada sebelum Penciptaan; ia abadi bersama pikiran Tuhan... Sebuah model fisik 3D yang dipahat dengan tangan mengungkapkan kebenaran spasial yang tidak terlihat oleh rumus saja." 🚶‍♂️

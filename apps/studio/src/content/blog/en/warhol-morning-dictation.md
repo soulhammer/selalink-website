@@ -21,7 +21,6 @@ faqs:
     answer: "Turn on your smartphone's speech-to-text (STT) feature or an AI memo app, and spend 5 minutes verbally brain dumping yesterday's events and emotional burdens into a auto-transcribed note."
   - question: "What topics should I cover during dictation to maximize productivity benefits?"
     answer: "Listing factual events from yesterday, brain dumping work priorities for today, or simply stating your current raw emotional state out loud is more than sufficient."
-
 ---
 
 "Every morning I clean out the clutter in my head by dictating yesterday into sound and getting it typed out." 📞

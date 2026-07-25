@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Cette routine est-elle efficace pour des tâches sans écriture comme les calculs ou le design ?"
     answer: "Très efficace ! La réticence à démarrer provient de la même zone du cerveau (l'amygdale). Gribouiller avant de designer ou prendre une note avant de coder crée un tampon cognitif qui lubrifie l'activité créative."
-
 ---
 
 « En écrivant une lettre chaque matin, mes doigts s'assouplissent et mon esprit se prépare à s'adresser aux personnages de mon roman sans friction. » ✍️

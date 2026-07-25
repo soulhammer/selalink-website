@@ -21,7 +21,6 @@ faqs:
     answer: "Com certeza. Não é necessária performance perfeita. Ouça música clássica e controle a respiração (5s inspirando, 5s expirando) para obter o mesmo reinício das ondas alfa."
   - question: "Por que a lavagem com água fria estimula o nervo vago e desperta o cérebro?"
     answer: "A água fria na testa e bochechas ativa o reflexo de imersão mamífero, desacelerando os batimentos e aumentando o fluxo sanguíneo oxigenado para o cérebro. Isso estimula os nervos trigêmeo e vago, limpando o nevoeiro mental."
-
 ---
 
 Arthur Schopenhauer, o grande pensador alemão autor de *O Mundo como Vontade e Representação*. Por meio de qual rotina matinal suas obras afiadas eram refinadas?

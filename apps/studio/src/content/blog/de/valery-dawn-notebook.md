@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Was ist, wenn mir das Aufstehen am frühen Morgen wegen Schlafmangel schwerfällt?"
     answer: "Eine Routine des frühen Aufstehens muss von frühem Zubettgehen begleitet sein, um dem Körper nicht zu schaden. Wenn frühes Schlafen wegen späten Feierabends unmöglich ist, nutzen Sie statt eines erzwungenen Aufstehens um 4 Uhr morgens die ersten 30 Minuten Ihrer normalen Aufwachzeit als 'Digitale Pause & Cahiers-Zeit', um denselben kognitiven Verankerungseffekt zu genießen."
-
 ---
 
 "Morgengrauen ist die heilige Zeit, in der mein Bewusstsein in seinem klarsten und vollständigsten Zustand erwacht. Nur die zu dieser Stunde hinterlassenen Aufzeichnungen sind meine Essenz." 🌅

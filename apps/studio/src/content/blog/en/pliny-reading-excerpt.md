@@ -21,7 +21,6 @@ faqs:
     answer: "Writing directly with a digital stylus on a tablet produces effects quite similar to a physical pen. However, typing on a keyboard is an automated input action accompanied by almost no cognitive processing. The slower speed of handwriting forces the brain to summarize and digest information, significantly improving memory retention rates."
   - question: "Is there a way to organize excerpted notes so they don't get lost as they accumulate?"
     answer: "We recommend John Locke's Commonplace Book method. Create an index page at the very front or back of your notebook and write down the written page numbers by knowledge categories or alphabet. Alternatively, scanning handwritten notebooks once a month and categorizing them with digital tags is also a good compromise."
-
 ---
 
 "No book is so bad that some good cannot be got out of it, and reading without taking notes is meaningless." ✍️

@@ -21,7 +21,6 @@ faqs:
     answer: "Por supuesto, la desconexión total de 3 horas puede ser difícil en un entorno laboral convencional. En tales casos, dividir el tiempo en bloques de '90 minutos de enfoque y descanso total' (p. ej., 1,5 horas por la mañana y 1,5 horas por la tarde) seguirá ayudando enormemente a preservar la eficiencia cerebral."
   - question: "¿Puedo continuar con tareas más ligeras por la tarde después del bloque de enfoque de 3 horas?"
     answer: "Sí. Tras 3 horas de Trabajo Profundo, se pueden realizar tareas repetitivas sencillas, revisar correos electrónicos o realizar gestiones administrativas (trabajo superficial) que no requieran una toma de decisiones compleja. Llenar la tarde con tareas de baja demanda cognitiva ayuda a conservar la energía frontal."
-
 ---
 
 "Trabajo solo tres horas al día. Pero durante esas tres horas, estoy completamente separado del mundo y me concentro únicamente en mi lógica." ☕

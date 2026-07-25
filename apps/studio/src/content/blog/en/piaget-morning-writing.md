@@ -21,7 +21,6 @@ faqs:
     answer: "While typing works, handwriting stimulates fine motor muscles in your fingertips, engaging the prefrontal and somatosensory cortices much more intensely to deepen focus. Handwriting is strongly recommended."
   - question: "What if there are no natural parks or lakes nearby for walking?"
     answer: "Even without forests or lakes, walking along quiet city sidewalks, residential alleys, or quiet building corridors without a phone delivers the exact same cognitive benefits of BDNF release and DMN activation."
-
 ---
 
 "Intelligence is not what we know, but what we do when we don't know." 🚶‍♂️

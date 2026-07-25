@@ -21,7 +21,6 @@ faqs:
     answer: "Bola stres silikon, fidget cube, mini kalimba, potongan kayu halus, atau batu sungai mulus adalah alternatif luar biasa yang kaya stimulasi taktil."
   - question: "Bagaimana stimulasi taktil ujung jari meningkatkan kreativitas?"
     answer: "Tangan menempati porsi terbesar dalam korteks motorik dan somatosensorik otak. Stimulasi halus pada ujung jari mengaktifkan jalur saraf yang jarang digunakan, memicu asosiasi ide yang kreatif."
-
 ---
 
 Auguste Rodin (1840–1917), maestro patung modern yang meniupkan vitalitas dan emosi mendalam ke dalam batu dan perunggu keras melalui karya seperti 'The Thinker' dan 'The Gates of Hell'. Dari manakah lahirnya kedalaman tiga dimensi dan inspirasi luar biasa yang mengubah sejarah seni? 🗿

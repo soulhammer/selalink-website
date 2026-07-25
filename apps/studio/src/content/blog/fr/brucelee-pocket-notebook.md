@@ -21,7 +21,6 @@ faqs:
     answer: "Oui, l'enregistrement vocal est une excellente méthode pour décharger rapidement la mémoire de travail. Cependant, le format texte reste supérieur pour la révision visuelle et la structuration ultérieures. Si vous utilisez des notes vocales, nous recommandons de les associer à la transcription automatique (STT)."
   - question: "Je prends des notes mais j'oublie souvent de les relire plus tard. Comment y remédier ?"
     answer: "La prise de notes prend toute sa valeur lorsqu'elles sont réévaluées et combinées à l'action. Réglez une alarme quotidienne ou adossez une « routine de balayage d'une minute » à des habitudes existantes — comme juste avant le café du matin — pour relire les notes de la veille pendant 60 secondes."
-
 ---
 
 « Savoir ne suffit pas, il faut appliquer. Vouloir ne suffit pas, il faut agir. » 🚶‍♂️

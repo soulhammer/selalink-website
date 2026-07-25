@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "¿Cómo puedo utilizar la limpieza como meditación?"
     answer: "En lugar de concentrarse en terminar rápidamente, es eficaz concentrarse en la propia retroalimentación sensorial, como el sonido del barrido y la sensación táctil en las manos."
-
 ---
 
 "Barrar el polvo del jardín no es solo quitar hojas caídas, sino eliminar el ruido innecesario de la mente y contemplar los espacios vacíos de la naturaleza."

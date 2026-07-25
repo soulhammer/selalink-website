@@ -21,7 +21,6 @@ faqs:
     answer: "Jobs eliminou a escolha de roupas matinais para evitar a Fadiga de Decisão e conservar a energia do córtex pré-frontal, dedicando 100% da sua capacidade à gestão da Apple."
   - question: "Qual é uma alternativa prática se vestir um visual idêntico parecer irrealista?"
     answer: "Não é necessário usar roupas idênticas. Criar um 'Armário Cápusla' — fixando a paleta de cores em tons neutros (preto, azul-marinho, cinza) ou limitando a poucas peças — oferece os mesmos benefícios."
-
 ---
 
 "Decidir o que vestir todas as manhãs consome uma parte preciosa da força de vontade do cérebro. Conservo 100% da minha capacidade mental exclusivamente para decisões que realmente importam." 👕

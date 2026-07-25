@@ -21,7 +21,6 @@ faqs:
     answer: "Pequenas microvariações — como mudar de rua no caminho de volta para casa, provar um ingrediente novo ou focar por 5 segundos no aroma de uma flor na calçada — são suficientes para criar estímulos sensoriais inéditos."
   - question: "Existe alguma dica para economizar tempo quando a escrita do diário fica longa demais?"
     answer: "Em vez de se preocupar com frases completas, liste palavras-chave como 'Visual: tom vermelho do por do sol', 'Auditivo: barulho do cascalho'. Esse formato permite registrar tudo perfeitamente em menos de 3 minutos."
-
 ---
 
 Marco Polo (1254–1324), explorador e comerciante italiano que partiu de Veneza para percorrer a Ásia durante 24 anos, deixou 'As Viagens de Marco Polo' (Il Milione), a maior obra da literatura de viagem da história. Conquistando a confiança de Kublai Khan, imperador da dinastia Yuan do Império Mongol, ele atuou como enviado diplomático por 17 anos. Décadas mais tarde, na prisão de Gênova, ditou relatos vívidos da gastronomia, geografia e cultura orientais como se estivessem diante de seus olhos. Qual era o seu segredo? 🐪

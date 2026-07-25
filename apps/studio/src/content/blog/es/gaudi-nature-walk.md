@@ -21,7 +21,6 @@ faqs:
     answer: "Aunque el entorno natural es el más eficaz para restaurar la atención, caminar por callejones urbanos irregulares u observar la arquitectura estimula la corteza visual con la misma eficacia, siendo una excelente alternativa."
   - question: "¿Puedo sustituir la caminata por correr a ritmo rápido o entrenar en cinta?"
     answer: "Correr de forma intensa o entrenar en cinta es excelente para el cardio, pero no ofrece el espacio mental necesario para observar y reflexionar. Para activar la creatividad, una caminata constante de exploración es lo óptimo."
-
 ---
 
 "La naturaleza es mi maestra de por vida. La línea recta es del hombre, la curva es de Dios." ⛪

@@ -9,9 +9,8 @@ heroImage: "/images/blog/marx_reading_room.webp"
 app: "buildself"
 formatVersion: 4
 authority: "카를 마르크스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
-steps:
-
-
+steps: []
+faqs: []
 ---
 
 철학, 경제학, 역사학의 벽을 허물며 자본주의 사회의 구조와 역사적 모순을 치밀하게 분석한 인류의 위대한 경제 사상가, 카를 마르크스. 인류사의 흐름에 엄청난 지적 파장을 일으킨 그의 저작 《자본론》은 도대체 어떠한 지적 훈련을 통해 탄생할 수 있었을까요? 🏛️

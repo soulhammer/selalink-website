@@ -21,7 +21,6 @@ faqs:
     answer: "En días de cansancio físico extremo, es mucho mejor sustituir los entrenamientos pesados con 5 a 10 minutos de estiramientos ligeros y respiración profunda. La esencia de la rutina de Mandela no es sobrecargar su cuerpo, sino iniciar la autonomía del día a través de su propia voluntad consciente."
   - question: "¿Cómo deberían comenzar esta rutina los principiantes con poca resistencia física?"
     answer: "Modifique los ejercicios según su nivel de condición física: haga flexiones apoyándose en la pared o con las rodillas apoyadas, y reemplace las sentadillas por levantarse de una silla. Incluso solo 5 minutos o una sola serie al día activan la rutina cerebral matutina positiva para preservar la autonomía."
-
 ---
 
 "El ejercicio fue la clave de mi vida. A través del ejercicio, pude encontrar paz mental incluso en medio de la adversidad extrema." ☀️

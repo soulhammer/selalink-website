@@ -21,7 +21,6 @@ faqs:
     answer: "No. The core requirement of this routine is recalibrating your brain immediately upon waking before digital noise and emails flood your consciousness. Spending 10 minutes at your usual waking time yields identical neurobiological benefits."
   - question: "Is this routine effective for non-religious individuals who do not practice formal prayer?"
     answer: "Yes, completely. This routine focuses on neuroscientific principles of 'sensory noise suppression' and 'self-value affirmation' rather than religious dogma. Silently reflecting on personal values, goals, or core convictions triggers identical amygdala-calming and prefrontal alignment effects."
-
 ---
 
 "I am not afraid; I was born to do this. When I shut out external noise and step into deep silence, I hear the true voice of my soul." 🛡️

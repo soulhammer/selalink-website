@@ -21,7 +21,6 @@ faqs:
     answer: "Tout exercice aérobie complet sollicitant le haut et le bas du corps (rameur, vélo d'appartement, elliptique, course fractionnée, burpees) procurera le même effet."
   - question: "Faire de l'exercice intense tous les jours ne risque-t-il pas de surcharger le corps ?"
     answer: "Pratiquez l'exercice intense 3 fois par semaine et alternez les autres jours avec de la marche légère ou des étirements pour éviter les blessures."
-
 ---
 
 « Lorsque je bouge mon corps vigoureusement pour ramer sur la rivière, l'épuisement mental et les migraines s'évanouissent complètement. » 🚣

@@ -21,7 +21,6 @@ faqs:
     answer: "The Sandwalk was a private gravel-and-dirt walking loop constructed by Darwin around his Down House estate in Kent. He walked it daily, using small stones to track laps automatically to reduce working memory load while organizing his thoughts for 'On the Origin of Species'."
   - question: "Should I actively force my mind to think about the problem while walking?"
     answer: "No. Rather than forcing continuous focus, simply plant a single target question in your mind and shift your active awareness to the sensory rhythm of walking. This allows the Default Mode Network (DMN) to operate, maximizing subconscious 'Cognitive Incubation'."
-
 ---
 
 "While observing nature, my footsteps never faltered. Walking was my brain's primary tool for loosening rigid thoughts and birthing new connections." 🪨

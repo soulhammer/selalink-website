@@ -9,9 +9,8 @@ heroImage: "/images/blog/marx_reading_room.webp"
 app: "buildself"
 formatVersion: 4
 authority: "Biografias históricas, registros autobiographiques de Karl Marx e pesquisas em neurociencia cognitiva (Cognitive Neuroscience)"
-steps:
-
-
+steps: []
+faqs: []
 ---
 
 Karl Marx dissecou os mecanismos ocultos da sociedade por meio da economia. Descubra seu tenaz hábito de leitura de estudar e tomar notas de uma vasta literatura por 10 horas diárias na Sala de Leitura do Museu Britânico durante seu exílio em Londres, juntamente com seus princípios neurocientíficos.

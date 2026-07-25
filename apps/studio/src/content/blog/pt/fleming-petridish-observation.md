@@ -21,7 +21,6 @@ faqs:
     answer: "Tentar ignorar erros prolonga a ansiedade. Por outro lado, anotar dados objetivos sobre as causas da falha indica ao cérebro que você recuperou o 'controle' da situação, reduzindo o estresse e resgatando a motivação."
   - question: "Existem exercícios de treinamento cerebral para capturar melhor as serendipidades?"
     answer: "Introduzir pequenas variações na rotina diária ajuda muito. Fazer um caminho diferente ou trabalhar em um local novo injeta um 'microrruído' controlado no dia a dia, estimulando a Rede Frontoparietal e aprimorando a capacidade de notar conexões inesperadas."
-
 ---
 
 "Quando uma observação casual encontra uma mente preparada, nasce uma revolução." 🧫

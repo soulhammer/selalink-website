@@ -21,7 +21,6 @@ faqs:
     answer: "La prise de notes classique capte passivement des mots. À l'inverse, la méthode de Daguerre « expose » activement l'idée dans le cortex visuel pendant 3 secondes avant d'écrire. Cela crée un cliché sensoriel permettant, à la relecture d'un mot-clé, de restituer le contexte d'origine."
   - question: "Que faire si je suis en train de marcher ou de conduire et ne peux pas écrire immédiatement ?"
     answer: "Effectuez d'abord la fixation visuelle de 3 secondes pour marquer l'image dans votre cortex occipital, puis enregistrez un rapide mémo vocal sur votre smartphone. Grâce à cette exposition préalable, un court enregistrement sonore conservera l'intégralité du contexte."
-
 ---
 
 « La lumière est le pinceau qui peint, et la plaque d'argent est le vase éternel qui recueille cet instant. » 📷

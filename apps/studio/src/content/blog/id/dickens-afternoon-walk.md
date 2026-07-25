@@ -21,7 +21,6 @@ faqs:
     answer: "Tidak, jauh lebih baik untuk menghindari audio secara total. Masukan pendengaran—bahkan musik yang tenang—memaksa korteks pendengaran menganalisis pola suara secara terus-menerus, menekan keterlibatan DMN secara penuh. Untuk mencapai reset kognitif total, lepaskan earphone dan biarkan pikiran Anda berkelana di antara suara-suara alam sekitar."
   - question: "Sangat tidak realistis bagi profesional modern yang sibuk untuk berjalan 3 jam setiap hari seperti Dickens. Apakah ada alternatif praktis?"
     answer: "Ya, tentu saja. Mekanisme kuncinya bukanlah durasi 3 jam, melainkan 'jalan kaki aerobik terisolasi tanpa stimulus'. Berjalan cepat selama 20 hingga 30 menit saja setelah makan siang atau saat perjalanan pulang—tanpa memeriksa smartphone Anda—akan memicu aktivasi DMN dan melepaskan BDNF."
-
 ---
 
 "Jika saya tidak bisa berjalan cepat dan jauh, saya pasti akan meledak dan hancur." 🚶‍♂️

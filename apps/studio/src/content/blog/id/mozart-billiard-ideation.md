@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Apakah permainan ponsel biasa memberikan efek pengalihan yang sama?"
     answer: "Permainan ponsel yang kaya teks, media sosial, atau stimulasi kuat membuat area lain di korteks prefrontal bekerja terlalu keras, justru menambah beban kognitif. Untuk mendapatkan manfaat DMN, permainan analog sederhana atau simulasi fisika bermotif lintasan geometris jauh lebih efektif."
-
 ---
 
 Wolfgang Amadeus Mozart (1756–1791) adalah jenius tanpa tandingan dalam sejarah musik klasik, yang mampu menulis simfoni dan opera sempurna dalam naskah mengalir tanpa coratan revisi. Di balik kreativitas mukjizatnya, terdapat kebiasaan harian unik yang membebaskan otaknya dari tekanan obsesi artistik. 🎱

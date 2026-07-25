@@ -21,7 +21,6 @@ faqs:
     answer: "Ya, sangat efektif! Menyinkronkan kontrol motorik ujung jari yang halus dengan fokus visual presisi secara fisik menenangkan gairah di amigdala dan jaringan stres, menekan kecemasan."
   - question: "Seberapa sering dan kapan selama sehari saya harus mempraktikkan rutinitas imersi mikro ini?"
     answer: "Mempraktikkan sekali sehari selama sekitar 20 menit adalah hal yang ideal. Ini berfungsi secara luar biasa baik sebagai pemanasan kognitif sebelum menangani tugas berisiko tinggi yang rumit, atau sebagai pemulihan prefrontal."
-
 ---
 
 "Karya saya tidak dilakukan untuk mendapatkan pujian atau kekayaan, melainkan terutama karena keinginan akan pengetahuan tentang ciptaan mikroskopis." 🔍

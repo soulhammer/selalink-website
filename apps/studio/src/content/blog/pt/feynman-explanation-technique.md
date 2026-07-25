@@ -21,7 +21,6 @@ faqs:
     answer: "Não é necessária uma criança de verdade. Você pode imaginar um colega, um bichinho de pelúcia ou usar um robô de IA configurado para o nível de 10 anos. O essencial é o processo de filtragem: eliminar bordões técnicos."
   - question: "É normal que as frases fiquem longas e estranhas ao eliminar bordões técnicos?"
     answer: "Sim, é totalmente natural! O esforço para traduzir conceitos em linguagem simples — mesmo que alargue as frases — é o processo que maximiza a metacognição. Assim que interiorizar o assunto, sua mente o sintetizará em explicações concisas."
-
 ---
 
 "Se você não consegue explicar em termos simples, não entendeu o suficiente." 📝

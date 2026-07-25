@@ -21,7 +21,6 @@ faqs:
     answer: "Se o isolamento físico for impossível, crie estímulos sensoriais artificiais: use uma 'luminária de mesa dedicada' acesa apenas para o trabalho, ou estenda uma 'base de mesa' exclusiva para sessões de foco. Criar um sinal visual constante treina as redes pré-frontais de forma idêntica."
   - question: "O que devo fazer se me sentar na mesa designada, mas ficar distraído e não conseguir começar em 5 minutos?"
     answer: "Não permaneça sentado envolvido em distrações. Levante-se imediatamente e saia da zona dedicada. Faça uma pausa de 3 minutos para se alongar, depois retorne à mesa para executar uma microtarefa (ex.: digitar o título de um documento) para reiniciar o foco."
-
 ---
 
 "Enquanto o universo operar com ordem, o lugar onde o ser humano busca a verdade deve permanecer inabalavelmente constante." 🔭

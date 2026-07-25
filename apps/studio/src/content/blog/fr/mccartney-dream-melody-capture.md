@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Que faire si je ne me souviens absolument pas de mes rêves la plupart des matins ?"
     answer: "Ce n'est pas grave si vous ne vous souvenez de rien. Rédigez au moins 3 lignes au hasard de votre « flux de conscience » sur une page blanche dès le réveil. Cette pratique désactive l'autocensure et stimule la flexibilité créative pour la journée."
-
 ---
 
 « Cette mélodie jouait parfaitement dans mon rêve. Si je ne me étais pas levé tout de suite pour la jouer au piano, elle se serait évaporée pour toujours comme la brume du matin. » 🎹

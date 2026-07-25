@@ -21,7 +21,6 @@ faqs:
     answer: "Observar de cerca durante 3 minutos plantas de interior, árboles a través de la ventana o las nubes del cielo ofrece exactamente los mismos beneficios de la Teoría de la Restauración de la Atención (ART)."
   - question: "¿Cómo puedo sustituir la caminata por el jardín en días de lluvia o mal tiempo?"
     answer: "Permanezca junto a una ventana y observe en silencio cómo las gotas de lluvia se deslizan por el cristal o las formas que crea la lluvia. La geometría fluida de las gotas funciona como un excelente estímulo de Fascinación Suave."
-
 ---
 
 "Quien quiera saber algo sobre mí como artista debe mirar atentamente mis cuadros... Pero para alimentar mi alma artística, camino en silencio entre las rosas matutinas." 🎨

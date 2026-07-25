@@ -21,7 +21,6 @@ faqs:
     answer: "Se você forçar uma solução com estresse, sim. O segredo é evitar a preocupação ativa. Leia os documentos em papel de forma passiva, como se estivesse lendo uma história, e delegue o trabalho ao subconsciente: 'Meu cérebro cuidará disso à noite'. Essa atitude evita a ativação simpática."
   - question: "A rotina é um fracasso se uma ideia brilhante não surgir imediatamente ao acordar?"
     answer: "De forma alguma. Os resultados do processo do sono REM muitas vezes emergem com um leve atraso cognitivo. A solução costuma aparecer durante atividades matinais relaxadas — como tomar banho, fazer café ou caminhar — quando os filtros pré-frontais estão relaxados."
-
 ---
 
 "Contamos histórias a nós mesmos para viver. A sequência certa muitas vezes se molda à noite, no silêncio do sono." 🛏️

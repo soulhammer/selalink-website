@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Que tipo de conteúdo é mais eficaz incluir no Jagyeongmun?"
     answer: "Escrever suas maiores fraquezas de autocontrole (ex.: reduzir o uso do celular, ser pontual) como afirmações positivas e focadas em ações concretas é o mais eficaz para estimular o cérebro."
-
 ---
 
 "Aquele que examina a cada manhã os limites que estabeleceu para si mesmo não será levado pelos impulsos do dia e poderá governar totalmente a sua própria vida." 📜

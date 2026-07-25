@@ -19,7 +19,6 @@ steps:
 faqs:
   - question: "Qual é o princípio científico por trás da observação da natureza reduzir o estresse cerebral?"
     answer: "Porque em vez da 'Atenção Dirigida' ativada por telas, o estado de 'Fascinação Suave' ao observar a natureza reinicia completamente a energia cognitiva esgotada no lobo frontal."
-
 ---
 
 "Enquanto se contempla silenciosamente as folhas de grama cobertas de orvalho, as vinhas de pepino e os minúsculos passos dos insetos, a fadiga cerebral se dissipa, brotando uma fonte clara de criatividade." 🌿

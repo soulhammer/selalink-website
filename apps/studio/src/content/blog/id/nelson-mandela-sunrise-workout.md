@@ -21,7 +21,6 @@ faqs:
     answer: "Pada hari-hari ketika fisik sangat lelah, jauh lebih baik mengganti latihan berat dengan peregangan ringan dan napas dalam selama 5 hingga 10 menit. Esensi dari rutinitas Mandela bukanlah memaksakan tubuh, melainkan memulai kendali hari melalui kemauan sadar Anda sendiri."
   - question: "Bagaimana pemula dengan stamina fisik lemah harus memulai rutinitas ini?"
     answer: "Modifikasi latihan agar sesuai dengan tingkat kebugaran Anda: lakukan push-up dinding atau push-up lutut, dan ganti squat dengan gerakan duduk-berdiri dari kursi. Bahkan hanya 5 menit atau 1 set per hari sudah cukup untuk mengaktifkan rutinitas otak pagi hari yang positif untuk menjaga otonomi."
-
 ---
 
 "Olahraga adalah kunci hidup saya. Through olahraga, saya mampu menemukan kedamaian pikiran bahkan di tengah penderitaan yang ekstrem." ☀️

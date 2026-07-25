@@ -21,7 +21,6 @@ faqs:
     answer: "Saat ia tertidur, relaksasi otot menyebabkan bola berat jatuh, membangunkan seketika agar ia dapat menangkap ide-ide dari kondisi hipnagogia sebelum tertidur lelap."
   - question: "Apakah ada alternatif untuk teknik tidur siang Edison di lingkungan kantor di mana kebisingan dibatasi?"
     answer: "Ya. Anda dapat meletakkan handuk lembut di bawahnya untuk meredam suara, atau mengatur alarm pengatur waktu singkat 1 hingga 3 menit di ponsel untuk membangunkan Anda selama tidur N1 yang ringan."
-
 ---
 
 "Tidur adalah pemborosan waktu, tetapi batas alam bawah sadar adalah alat penemuan paling ampuh yang dimiliki manusia." 💤
