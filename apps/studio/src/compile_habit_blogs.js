@@ -185,18 +185,24 @@ function compileBlogs() {
 
     const defaultKoTags = histMeta.tags || JSON.stringify(data.tags?.['ko'] || ["위습관", "루틴"]);
 
-    locales.forEach(lang => {
-      const targetDir = pathModule.join(blogRootDir, lang);
-      ensureDir(targetDir);
+const isStrict = process.argv.includes('--strict') || process.env.CI === 'true';
 
-      let title = data.title?.[lang] || data.title?.['en'] || data.title?.['ko'] || "";
-      let description = data.description?.[lang] || data.description?.['en'] || data.description?.['ko'] || "";
-      let authority = data.authority?.[lang] || data.authority?.['en'] || data.authority?.['ko'] || "";
-      let intro = (data.intro?.[lang] || data.intro?.['en'] || data.intro?.['ko'] || "").replace(/\\n/g, '\n');
-      let whyTitle = data.whyTitle?.[lang] || data.whyTitle?.['en'] || data.whyTitle?.['ko'] || "";
-      let whyDesc = (data.whyDesc?.[lang] || data.whyDesc?.['en'] || data.whyDesc?.['ko'] || "").replace(/\\n/g, '\n');
-      let cautionTitle = data.cautionTitle?.[lang] || data.cautionTitle?.['en'] || data.cautionTitle?.['ko'] || "";
-      let cautionDesc = (data.cautionDesc?.[lang] || data.cautionDesc?.['en'] || data.cautionDesc?.['ko'] || "").replace(/\\n/g, '\n');
+locales.forEach(lang => {
+  const targetDir = pathModule.join(blogRootDir, lang);
+  ensureDir(targetDir);
+
+  if (isStrict && (!data.title?.[lang] || !data.description?.[lang] || !data.intro?.[lang])) {
+    throw new Error(`🚨 [STRICT ERR] ${file}: 타겟 언어 [${lang.toUpperCase()}]의 필수 다국어 데이터가 누락되었습니다.`);
+  }
+
+  let title = data.title?.[lang] || data.title?.['en'] || data.title?.['ko'] || "";
+  let description = data.description?.[lang] || data.description?.['en'] || data.description?.['ko'] || "";
+  let authority = data.authority?.[lang] || data.authority?.['en'] || data.authority?.['ko'] || "";
+  let intro = (data.intro?.[lang] || data.intro?.['en'] || data.intro?.['ko'] || "").replace(/\\n/g, '\n');
+  let whyTitle = data.whyTitle?.[lang] || data.whyTitle?.['en'] || data.whyTitle?.['ko'] || "";
+  let whyDesc = (data.whyDesc?.[lang] || data.whyDesc?.['en'] || data.whyDesc?.['ko'] || "").replace(/\\n/g, '\n');
+  let cautionTitle = data.cautionTitle?.[lang] || data.cautionTitle?.['en'] || data.cautionTitle?.['ko'] || "";
+  let cautionDesc = (data.cautionDesc?.[lang] || data.cautionDesc?.['en'] || data.cautionDesc?.['ko'] || "").replace(/\\n/g, '\n');
 
       let tags;
       if (data.tags?.[lang]) {

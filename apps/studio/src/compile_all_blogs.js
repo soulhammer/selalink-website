@@ -17,7 +17,8 @@ const startTime = Date.now();
 function runScript(scriptName) {
   return new Promise((resolve, reject) => {
     const scriptPath = path.join(__dirname, scriptName);
-    const child = fork(scriptPath, [], {
+    const args = process.argv.slice(2);
+    const child = fork(scriptPath, args, {
       env: process.env,
       stdio: 'inherit'
     });

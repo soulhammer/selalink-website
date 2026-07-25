@@ -43,6 +43,40 @@ const globalWhitelist = [
   'Cornell Feline Health Center'
 ];
 
+// KO/EN 원문 소스에서 대문자 인명 및 고유명사 동적 추출 헬퍼
+function extractDynamicProperNouns(): string[] {
+  const dynamicSet = new Set<string>();
+  try {
+    const enFiles = glob.sync('src/content/blog/en/**/*.md');
+    enFiles.forEach(file => {
+      const content = fs.readFileSync(file, 'utf-8');
+      // 대문자로 시작하는 연속 2단어 이상 인명/기관명 패턴 (예: Karl Marx, Albert Einstein, British Museum)
+      const matches = content.match(/\b[A-Z][a-z]+(?:\s+[A-Z][a-z]+)+\b/g);
+      if (matches) {
+        matches.forEach(m => {
+          if (m.length > 4 && !/^(The|This|That|In|On|At|For|With|From|And|Or|But|If|When)\b/i.test(m)) {
+            dynamicSet.add(m);
+          }
+        });
+      }
+    });
+  } catch (e) {}
+  return Array.from(dynamicSet);
+}
+
+const dynamicWhitelist = extractDynamicProperNouns();
+const effectiveWhitelist = [...new Set([...globalWhitelist, ...dynamicWhitelist])];
+
+// 단어 길이 순(긴 단어 우선) 정렬 후 1회만 단일 정규식 패턴으로 사전 컴파일
+const sortedWhitelist = effectiveWhitelist
+  .filter(Boolean)
+  .sort((a, b) => b.length - a.length)
+  .map(word => word.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&'));
+
+const compiledWhitelistRegex = sortedWhitelist.length > 0
+  ? new RegExp(sortedWhitelist.join('|'), 'gi')
+  : null;
+
 // HTML 태그, 마크다운 이미지/링크 구문, 특정 시스템 기호 등 제거용 정규식
 const htmlRegex = /<\/?[^>]+(>|$)/g;
 const mdLinkRegex = /!\[.*?\]\(.*?\)|\[.*?\]\(.*?\)/g;
@@ -54,9 +88,9 @@ function sanitizeText(text: string): string {
   cleaned = cleaned.replace(htmlRegex, ' ');
   cleaned = cleaned.replace(mdLinkRegex, ' ');
 
-  globalWhitelist.forEach(word => {
-    cleaned = cleaned.replace(new RegExp(word, 'gi'), ' ');
-  });
+  if (compiledWhitelistRegex) {
+    cleaned = cleaned.replace(compiledWhitelistRegex, ' ');
+  }
 
   return cleaned;
 }
